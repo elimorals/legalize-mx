@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2007-10-27"
+last_updated: "2007-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2007.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1217,11 +1217,23 @@ V.- Dictar en su caso, las medidas precautorias que la ley establece respecto de
 
 VI.- Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, prefiriendo a uno de ellos. En su defecto, y a propuesta del demandante, el Juez resolverá lo que estime más conveniente a los intereses de los menores.
 
-247.- Luego que la sentencia sobre nulidad cause ejecutoria los hijos menores de siete años de uno y otro sexo quedarán en poder de la madre. Pasada esta edad y hasta los catorce años, los hijos varones irán con el padre y las hijas con la madre, si de parte de ambos cónyuges hubiera habido buena fe.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+247.- Al causar ejecutoria la sentencia sobre nulidad, la autoridad competente resolverá la situación de los menores de edad, preferentemente atendiendo al interés superior del menor, con el siguiente orden: los hijos e hijas menores de siete años, quedarán bajo la guarda y custodia de la madre. Pasada esta edad y hasta la mayoría de edad, podrán quedarse con el padre o la madre, si de parte de ambos cónyuges hubiera habido buena fe.
 
 Cuando los hijos tengan una edad de 14 años o más, cualquiera que sea su sexo, decidirán su situación por su propia voluntad ante la autoridad judicial.
 
-248.- Si uno solo de los cónyuges ha procedido de buena fe quedarán todos los hijos bajo su cuidado pero siempre las hijas e hijos menores de siete años se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2007)</small>
+
+La autoridad judicial deberá escuchar:
+
+I.- A los menores de edad, cuando por su propia voluntad o a través de sus representantes lo soliciten; y/o
+
+II.- Al especialista que por ejercicio de su profesión conozca del hecho, quien deberá estar adscrito al Tribunal o al Sistema para el Desarrollo Integral de la Familia o a los Sistemas para el Desarrollo Integral de la Familia Municipales correspondientes o a la Procuraduría de Defensa del Menor y la Familia.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+248.- Cuando uno de los cónyuges ha procedido de buena fe, quedarán todos los hijos e hijas bajo su cuidado, pero preferentemente cuando éstos sean menores de siete años, se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que se dedicare al lenocinio, hubiere contraído el hábito de embriagarse o de consumir estupefacientes o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos. Esta disposición estará sujeta a la valoración por parte de la autoridad judicial para evitar con ello cualquier violación al interés superior del menor.
 
 249.- Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
 
@@ -1321,17 +1333,31 @@ XIX.- La incompatibilidad de caracteres;
 
 XX.- Las conductas de violencia familiar generadas por un cónyuge contra el otro o en contra de los hijos, conforme a lo previsto por el artículo 300 ter.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
-256 BIS.- Al admitirse la demanda de divorcio, o antes si hubiere urgencia sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
+256 BIS.- Al admitirse la demanda de divorcio, o antes si hubiere urgencia y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 I.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
 II.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 III.- Ordenar la prohibición de ir a un lugar determinado para alguno de los cónyuges, así como cualquier medida necesaria para que cese todo acto de violencia familiar, pensando en el interés del agraviado.
 
-La protección para los menores implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderá a la Procuraduría de Defensa del Menor y la Familia o de los Sistemas de Desarrollo Integral de la Familia Municipales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2007)</small>
+
+IV.- Poner a los hijos e hijas al cuidado de la persona más apta e idónea que mantenga un lazo de parentesco por consanguinidad, estableciendo un régimen de convivencia progresiva de conformidad con las necesidades y edades de los menores. El juez competente dictará las medidas considerando siempre el interés superior del menor y, en su caso, previo estudio psicológico que se practique por un perito autorizado, tanto a los hijos menores como a los progenitores, tomando en cuenta la opinión del menor a través de los medios idóneos.
+
+Se debe entender por Régimen de Convivencia Progresiva, las circunstancias en que deberá llevarse a cabo la convivencia entre los menores hijos e hijas y el progenitor que no tenga la guarda y custodia de éstos, para lo cual deberá considerarse que las mismas no pongan en riesgo la estabilidad de los menores y procurando que ésta aumente.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+La protección para los menores implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderán a la Procuraduría de Defensa del Menor y la Familia o a los Sistemas para el Desarrollo Integral de la Familia Municipales, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquéllos.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
@@ -1359,7 +1385,11 @@ El marido, en todo caso, sólo tendrá derecho a alimentos cuando esté imposibi
 
 266.- La división de los bienes de la sociedad conyugal, se arreglará en primer lugar, por convenio de las partes. A falta de convenio especial, la división se hará de acuerdo con la ley.
 
-267.- La situación de los hijos menores se determinará por medio de convenio. Cuando no lo hubiere se estará a lo dispuesto por el artículo 247.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+267.- La situación de los hijos e hijas menores se determinará por medio de convenio o, en la ausencia de éste, por el juez competente. En ambos casos se hará conforme a lo establecido por el artículo 247.
+
+La sentencia que se pronuncie en definitiva, fijará la situación de los hijos e hijas, para lo cual el juez competente deberá resolver todo lo relativo a los derechos y deberes inherentes a la guarda y custodia.
 
 268.- La situación de los hijos a que se refiere el artículo anterior, puede ser modificada por el juez en interés justificado de ellos.
 
@@ -1931,9 +1961,11 @@ A falta de padres, los ascendientes mencionados en el orden de las fracciones II
 
 392.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2001)
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
-393.- En caso de separación de los que ejercen la patria potestad, podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez resolverá lo conducente oyendo al Ministerio Público.
+393.- En caso de separación de los que ejercen la patria potestad, podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores.
+
+Si existe desacuerdo, el juez resolverá lo conducente oyendo, en su caso, al Ministerio Público, a la Procuraduría de Defensa del Menor y la Familia, al Sistema para el Desarrollo Integral de la Familia Municipal correspondiente o al especialista que por ejercicio de su profesión conozca del hecho.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
@@ -12366,6 +12398,12 @@ P.O. 15 DE FEBRERO DE 2006.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
