@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2007-09-12"
+last_updated: "2007-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -535,17 +535,15 @@ El presidente de la Diputación Permanente convocará a todos los diputados a la
 
 ### CAPITULO V. DE LA JUNTA DE COORDINACION PARLAMENTARIA
 
-(REFORMADO, P.O. 11 DE MAYO DE 2002) (REPUBLICADO, P.O. 22 DE MAYO DE 2002)
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 39.
 
-La Junta de Coordinación parlamentaria es un órgano plural dotado de atribuciones para propiciar el oportuno, eficaz y correcto ejercicio de las facultades del Congreso. Se integra con el Presidente de la Mesa Directiva y con los coordinadores de cada uno de los grupos parlamentarios, todos con derecho a voz y voto, así como con los diputados que no formen parte de un grupo parlamentario y con un Secretario Técnico, quienes sólo participarán con derecho a voz. Las ausencias del Presidente serán suplidas por los vicepresidentes; las de los coordinadores de grupo parlamentario, por sus respectivos subcoordinadores; y, las del Secretario Técnico, por el servidor público que para cada caso se designe.
+La Junta de Coordinación Parlamentaria es un órgano plural dotado de atribuciones para propiciar el oportuno, eficaz y correcto ejercicio de las facultades del Congreso. Se integra con el Presidente de la Mesa Directiva y con los coordinadores de cada uno de los grupos parlamentarios, todos con derecho a voz y voto, así como con los diputados que no formen parte de un grupo parlamentario y con un Secretario Técnico, quienes sólo participarán con derecho a voz. Las ausencias del Presidente serán suplidas por los vicepresidentes; las de los coordinadores de grupo parlamentario, por sus respectivos subcoordinadores; y, las del Secretario Técnico, por el servidor público que para cada caso se designe.
 
-Fungirá como Secretario Técnico el Titular de la Unidad Técnica y de Investigación Legislativa, quien auxiliará al Presidente de la Junta en el Ejercicio de sus atribuciones, dará fe de lo acontecido en las sesiones, levantará y certificará las actas correspondientes, llevará el seguimiento de los acuerdos, informará sobre su cumplimiento y dará cuenta con los proyectos de dictamen de las comisiones.
+Fungirá como Secretario Técnico el Titular de la Secretaría de Servicios Parlamentarios y Vinculación Ciudadana, quien auxiliará al Presidente de la Junta en el ejercicio de sus atribuciones, dará fe de lo acontecido en las sesiones, levantará y certificará las actas correspondientes, llevará el seguimiento de los acuerdos, informará sobre su cumplimiento y dará cuenta de los proyectos de dictamen de las comisiones.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
-
-A las reuniones de la Junta también deberán asistir los titulares de la Oficialía Mayor y de la Auditoría Superior, quienes participarán con derecho a voz.
+A las reuniones de la Junta también deberán asistir los titulares de la (sic) Secretarías de Servicios Administrativos y de Servicios Jurídico Legislativos, así como el Auditor Superior del Estado, quienes participarán con derecho a voz.
 
 La Junta tomará sus decisiones por consenso, pero en el caso de que éste no se obtenga, las adoptará mediante votación. Para ello, los coordinadores de los grupos parlamentarios dispondrán de voto ponderado, sobre la base de un total de diez votos, en función del número de miembros que integran sus respectivos grupos.
 
@@ -577,9 +575,9 @@ II.- Propiciar la celebración de acuerdos parlamentarios respecto a los asuntos
 
 III.- Proponer al Pleno, para su aprobación, a los diputados que integrarán las comisiones y comités del Congreso;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
 
-V (SIC).- Proponer al Pleno los nombramientos de Oficial Mayor, Auditor Superior y titular de la Unidad Técnica y de Investigación Legislativa;
+IV.- Proponer al Pleno los nombramientos de los titulares de las Secretarías de Servicios Parlamentarios y Vinculación Ciudadana, de Servicios Administrativos y de Servicios Jurídico Legislativos; así como del Auditor Superior;
 
 V.- Conocer y dar trámite al Anteproyecto de Presupuesto de Egresos del Congreso que le presente el Comité de Administración;
 
@@ -597,11 +595,15 @@ IX.- Designar, a más tardar el día último de diciembre, al auditor externo qu
 
 > <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2001)</small>
 
-X.- Conocer el resultado de la auditoría externa anual que sobre el ejercicio del Presupuesto del Congreso le presente el Comité de Administración, y formular las observaciones que respecto de aquél estime pertinentes; y,
+X.- Conocer el resultado de la auditoría externa anual que sobre el ejercicio del Presupuesto del Congreso le presente el Comité de Administración, y formular las observaciones que respecto de aquél estime pertinentes; y (sic),
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
 
-XI.- Ejercer las demás atribuciones que le asignen esta ley y otros ordenamientos legales aplicables.
+XI.- Dictaminar los asuntos que le sean turnados para su estudio y análisis; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+XII.- Ejercer las demás atribuciones que le asignen esta ley y otros ordenamientos legales aplicables.
 
 ### CAPITULO VI. DE LAS COMISIONES
 
@@ -695,7 +697,9 @@ Ante la ausencia del Secretario, el Presidente podrá convocar a reunión de la 
 
 En cualquier caso, la convocatoria deberá reunir los requisitos que exige el artículo 46 de esta Ley;
 
-II.- Solicitar al Presidente del Congreso y a la Oficialía Mayor los diversos tipos de apoyo que se requieran para el desahogo de los trabajos de las comisiones;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+II.- Solicitar al Presidente del Congreso y a las Secretarías los diversos tipos de apoyo que se requieran para el desahogo de los trabajos de las comisiones;
 
 III.- Coordinarse entre sí para el mejor desempeño de sus funciones;
 
@@ -765,9 +769,11 @@ Las comisiones podrán igualmente invitar a estar presentes en sus reuniones de 
 
 Los diputados que formando parte de una comisión tuvieren interés personal en algún asunto sometido a su estudio, se abstendrán de votar y de firmar el dictamen correspondiente, debiendo notificarlo al Presidente del Congreso para que sean relevados del conocimiento de dicho asunto.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
 ###### Art. 58.
 
-Cada comisión, después de considerar un asunto y convenir en los puntos de su dictamen, designará al integrante que habrá de elaborarlo, quien podrá solicitar a la Oficialía Mayor los apoyos que requiera.
+Cada Comisión, después de considerar un asunto y convenir en los puntos de su dictamen, designará al integrante que habrá de elaborarlo, quien podrá solicitar a la Secretaría de Servicios Jurídico Legislativos los apoyos que requiera.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
@@ -785,117 +791,79 @@ Las comisiones, durante los recesos, continuarán el estudio de los asuntos pend
 
 Los dictámenes que se produzcan sobre asuntos que no llegue a conocer la Legislatura que los recibió, quedarán a disposición de la siguiente con el carácter de proyectos prioritarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 62.
 
 Son Comisiones de Dictamen Legislativo, las siguientes:
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2006)</small>
+I. Primera de Gobernación y Puntos Constitucionales;
 
-I.- Primera de Gobernación y Puntos Constitucionales;
+II. Segunda de Gobernación y Puntos Constitucionales;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+III. De Programación, Presupuesto y Hacienda Pública;
 
-II.- Segunda de Gobernación y Puntos Constitucionales;
+IV. De Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+V. De Transparencia y Acceso a la Información Pública;
 
-III.- De Seguridad Pública;
+VI. De Educación y Cultura;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+VII. De Ciencia y Tecnología;
 
-IV.- De Atención a la Niñez y Adolescencia;
+VIII. De Justicia;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+IX. De Derechos Humanos;
 
-V.- De Programación, Presupuesto y Hacienda Pública;
+X. De Obras y Servicios Públicos;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+XI. De Trabajo y Previsión Social;
 
-VI.- De Educación Pública, Cultura Ciencia y Tecnología;
+XII. De Pueblos y Comunidades Indígenas;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+XIII. De Desarrollo Social;
 
-VII.- De Justicia y Derechos Humanos;
+XIV. De Desarrollo Municipal y Fortalecimiento del Federalismo;
 
-> <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1995)</small>
+XV. De Asuntos Fronterizos;
 
-VIII.- De Obras y Servicios Públicos;
+XVI. De Participación Ciudadana;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+XVII. De Desarrollo Forestal;
 
-IX.- De Protección Civil;
+XVIII. De Desarrollo Agrícola;
 
-X.- De Trabajo y Previsión Social;
+XIX. De Desarrollo Ganadero;
 
-XI.- De Asuntos Indigenistas;
+XX. De Salud;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+XXI. De Desarrollo Comercial;
 
-XII.- De Desarrollo Social;
+XXII. De Desarrollo Industrial;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+XXIII. De Juventud y Deporte;
 
-XIII.- De Desarrollo Municipal y Fortalecimiento del Federalismo;
+XXIV. De Equidad, Género y Familia;
 
-XIV.- De Asuntos Fronterizos;
+XXV. De Atención a Grupos Vulnerables;
 
-> <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1995)</small>
+XXVI. De Desarrollo Económico para la Sierra Tarahumara;
 
-XV.- De Participación Ciudadana;
+XXVII. De Ecología y Medio Ambiente;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+XXVIII. De Turismo;
 
-XVI.- De Desarrollo Rural;
+XXIX. De Vivienda;
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+XXX. De la Niñez y Adolescencia; y
 
-XVII.- De Salud;
+XXXI. Del Agua y Recursos Naturales.
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+Las Comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación.
 
-XVIII.- De Desarrollo Económico;
+La Junta de Coordinación Parlamentaria podrá proponer al Pleno el aumento o la disminución del número de Comisiones.
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
-
-XIX.- De Juventud y Deporte;
-
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
-
-XX.- De Equidad, Género y Familia;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2006)</small>
-
-XXI.- De Atención a Personas con Discapacitados y Grupos Vulnerables;
-
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
-
-XXII.- De Atención al Adulto Mayor;
-
-> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2002)</small>
-
-XXIII.- De Ecología y Medio Ambiente;
-
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2004)</small>
-
-XXIV.- De Turismo;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2006)</small>
-
-XXV.- De Vivienda; y
-
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2006)</small>
-
-XXVI.- Del agua y su sustentabilidad.
-
-Las comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación.
-
-La Junta de Coordinación Parlamentaria podrá proponer al pleno el aumento o la disminución del número de comisiones.
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2004)</small>
-
-En su integración, las Comisiones de Dictamen Legislativo reflejarán la composición plural del Congreso. Los Diputados podrán formar parte de no más de tres Comisiones de Dictamen Legislativo y solamente podrán presidir una.
+En su integración, las Comisiones de Dictamen Legislativo reflejarán la composición plural del Congreso. Los Diputados solamente podrán formar parte de hasta cinco Comisiones, pero presidir sólo una.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1011,9 +979,9 @@ III.- Autorizar los criterios a que se sujetarán los contratos y convenios que 
 
 IV.- Autorizar la creación de órganos de apoyo administrativo que coadyuven al mejor desempeño de las funciones del Congreso;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
 
-V.- Conocer, revisar y aprobar en su caso el informe trimestral que le rinda el Oficial Mayor sobre el ejercicio presupuestal del Congresos (sic);
+V.- Conocer, revisar y aprobar, en su caso, el informe trimestral que le rinda el titular de la Secretaría de Servicios Administrativos sobre el ejercicio presupuestal del Congreso;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2001)</small>
 
@@ -1051,95 +1019,131 @@ VI.- Promover la traducción y difusión de leyes y decretos a las lenguas de lo
 
 ### CAPITULO VIII. DE LOS ORGANOS TECNICOS
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 72.
 
-Funcionarán dentro del Congreso de acuerdo con esta Ley, otros ordenamientos legales aplicables y las disposiciones de carácter general que dicte la Junta de Coordinación Parlamentaria, las siguientes dependencias:
+Para el cumplimiento de sus atribuciones legales y constitucionales, el Congreso contará con los siguientes órganos técnicos y de trabajo:
 
-I.- Oficialía Mayor;
+I.- Secretaría de Servicios Administrativos;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+II.- Secretaría de Servicios Jurídico Legislativos;
 
-II.- Auditoría Superior; y
+III.- Secretaría de Servicios Parlamentarios y Vinculación Ciudadana; y
 
-III.- La Unidad Técnica y de Investigación Legislativa.
+IV.- Auditoría Superior del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+Para ser Secretario de Servicios Administrativos y de Servicios Parlamentarios y Vinculación Ciudadana se requiere: Ser mexicano en pleno ejercicio de sus derechos, mayor de veinticinco años y tener título de nivel Licenciatura; los requisitos para el Auditor Superior del Estado serán los que determine la ley. Para ser titular de la Secretaría de Servicios Jurídico Legislativos se requieren los mismos requisitos que para las otras Secretarías, con excepción de la profesión, que deberá ser necesariamente la de Licenciado en Derecho.
 
-Para ser Oficial Mayor se requiere: Ser mexicano en pleno ejercicio de sus derechos, mayor de 25 años y tener título de Licenciado en Derecho o en alguna área administrativa; los requisitos para el Auditor Superior serán los que determine la Ley de Auditoría Superior del Estado. Para ser titular de la Unidad Técnica y de Investigación Legislativa se requieren los mismos requisitos que para ser Oficial Mayor, con excepción de la profesión, que deberá ser necesariamente Licenciado en Derecho.
-
-Los Titulares serán nombrados por el pleno, a propuesta de la Junta de Coordinación Parlamentaria.
+Los Titulares serán nombrados y removidos por el Pleno, a propuesta de la Junta de Coordinación Parlamentaria.
 
 El Congreso contará además con los servidores públicos necesarios para el cumplimiento de sus atribuciones y que le permita su presupuesto.
 
+Las Secretarías se regirán en su organización y funcionamiento por lo establecido en la presente Ley y las disposiciones de carácter general que dicte la Junta de Coordinación Parlamentaria.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
 ###### Art. 73.
 
-Corresponde a la Oficialía Mayor:
+Corresponde a la Secretaría de Servicios Administrativos:
 
-I.- Dar cumplimiento en el ámbito administrativo a los acuerdos y resoluciones tomados por el pleno, la Junta de Coordinación parlamentaria, la presidencia, la secretaría, las comisiones y los comités del Congreso;
+I.- Formular y presentar el anteproyecto del Presupuesto de Egresos del Congreso del Estado, que turnará a más tardar el primer día del mes de octubre al Comité de Administración;
 
-II.- Llevar a cabo los trámites de carácter meramente administrativo relacionados con el proceso legislativo de las iniciativas y proyectos presentados al pleno;
+II.- Llevar a cabo los trámites de carácter meramente administrativo relacionados con el proceso legislativo de las iniciativas y proyectos presentados al Pleno;
 
-III.- Apoyar la elaboración de las actas correspondientes a las sesiones del pleno y a las reuniones de las comisiones y comités;
+III.- Llevar la administración de los recursos financieros correspondientes al Presupuesto de Egresos del Congreso, así como el registro y control de los bienes patrimoniales de éste;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2004)</small>
+IV.- Llevar los servicios generales y la administración de recursos humanos del Congreso;
 
-IV.- Proporcionar los servicios de apoyo, incluidos los de naturaleza jurídica que se requieran para el eficaz desarrollo de las actividades del Pleno y los órganos del Congreso, incluyendo los aspectos de la comunicación social, así como difundir en los medios de comunicación las resoluciones del Congreso, cuando por su importancia y trascendencia, la Junta de Coordinación Parlamentaria considere que deban hacerse del conocimiento de la sociedad;
+V.- Coordinar y actualizar los servicios de tecnologías de la información;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+VI.- Elaborar y presentar trimestralmente al Comité de Administración un informe financiero del ejercicio presupuestal del Congreso;
 
-V.- Formular y presentar el anteproyecto de presupuesto de egresos del Congreso del Estado, que turnará a más tardar el primer día del mes de octubre al Comité de Administración;
+VII.- Intervenir en los actos jurídicos y contratos en los que el Congreso sea parte y que supongan una afectación directa a su presupuesto;
 
-VI.- Llevar la administración de los recursos financieros correspondientes al presupuesto de egresos del Congreso, así como el registro y control de los bienes patrimoniales de éste;
+VIII.- Preparar y, en su caso, aprobar la documentación relativa a nombramientos, licencias, cambios de adscripción, vacaciones y bajas de los servidores públicos del Congreso;
 
-VII.- Elaborar y presentar trimestralmente al Comité de Administración un informe financiero del ejercicio presupuestal del Congreso;
+IX.- Nombrar y remover al personal de la Secretaría de Servicios Administrativos;
 
-VIII.- Intervenir en los actos jurídicos y contratos en los que el Congreso sea parte y que supongan una afectación directa a su presupuesto;
+X.- Designado por la Junta de Coordinación Parlamentaria, el auditor externo que habrá de revisar la Cuenta Pública del Congreso en los términos de esta ley, deberá hacerlo del conocimiento de éste, dentro de los siguientes tres días hábiles a partir de la fecha del acuerdo que lo designó; y, en caso de aceptación del cargo, lo prevendrá para que presente su informe dentro de los cuatro meses siguientes;
 
-IX.- Llevar un control de las demandas judiciales en contra del Congreso y, en su caso, asumir su representación en juicio y fuera de él;
+XI.- Proporcionar toda información que le solicite el auditor a que se refiere la fracción anterior, así como la documentación comprobatoria y justificatoria del ingreso y gasto públicos del Congreso;
 
-X.- Preparar y en su caso aprobar, la documentación relativa a nombramientos, licencias, cambios de adscripción, vacaciones y bajas de los servidores públicos del Congreso;
+XII.- Recibir y presentar al Comité de Administración, sin modificación alguna, el resultado de la auditoría que se practique a la Cuenta Pública Anual de la Legislatura; y
 
-XI.- Llevar los libros, registros y demás documentos establecidos para el control y seguimiento de los asuntos del Congreso;
+XIII.- Las demás que le confieran otras disposiciones legales.
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1999)</small>
-
-XII.- Nombrar y remover al personal de la Oficialía Mayor;
-
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 1999)</small>
-
-XIII.- Expedir y certificar las copias de documentos oficiales del Congreso, en ausencia de los Secretarios y ProSecretarios;
-
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2001)</small>
-
-XIV.- Designado por la Junta de Coordinación Parlamentaria, el auditor externo que habrá de revisar la Cuenta Pública del Congreso en los términos de esta ley, deberá hacerlo del conocimiento de éste, dentro de los siguientes tres días hábiles a partir de la fecha del acuerdo que lo designó, para la aceptación del cargo y en caso de aceptación, lo prevendrá para que presente su informe dentro de los cuatro meses siguientes;
-
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2001)</small>
-
-XV.- Proporcionar toda información que le solicite el auditor a que se refiere la fracción anterior; así como la documentación comprobatoria y justificatoria del ingreso y gasto públicos del Congreso;
-
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2001)</small>
-
-XVI.- Recibir y presentar al Comité de Administración, sin modificación alguna, el resultado de la auditoría que se practique a la Cuenta Pública Anual de la legislatura; y,
-
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2001)</small>
-
-XVII.- Atender a las demás actividades que le señalen la presente ley y otros ordenamientos legales aplicables.
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 74.
 
-La Auditoría Superior tendrá la organización, funcionamiento y atribuciones que establecen la Constitución Política del Estado, esta Ley, la propia y demás ordenamientos aplicables.
+Corresponde a la Secretaría de Servicios Jurídico Legislativos:
+
+I.- Brindar la asistencia técnica integral en el proceso legislativo;
+
+II.- Asistir técnicamente a la Presidencia de la Mesa Directiva o de la Diputación Permanente, en su caso, durante las sesiones y fuera de éstas;
+
+III.- Llevar el desarrollo de las sesiones y atender el control y seguimiento;
+
+IV.- Dar la atención jurídica a las comisiones y comités del Congreso;
+
+V.- Llevar la organización y control de biblioteca y archivo;
+
+VI.- Planear, desarrollar y ejecutar los servicios de investigación, estudio y capacitación;
+
+VII.- Llevar el control de los expedientes de promociones recibidos por el Congreso y auxilio al Presidente para que aquéllos sean recibidos con oportunidad por los destinatarios;
+
+VIII.- Elaborar las actas correspondientes a las sesiones del Pleno, de la Diputación Permanente y de las reuniones de las comisiones y comités del Congreso, en su caso;
+
+IX.- Llevar el control de los siguientes libros:
+
+a) De actas de sesiones.
+
+b) De asistencias de los diputados.
+
+c) De leyes, decretos y acuerdos aprobados por el Congreso.
+
+d) De Gobierno.
+
+X.- Integrar, publicar, actualizar y archivar el Diario de los Debates;
+
+XI.- Nombrar y remover al personal de la Secretaría de Servicios Jurídico Legislativos; y
+
+XII.- Las demás que le confieran otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 75.
 
-La Unidad Técnica y de Investigación Legislativa tendrá a su cargo realizar estudios, suministrar información, atender consultas, emitir opinión respecto a proyectos de iniciativas de ley y proporcionar asesoría, en todos los casos en materia estrictamente técnica y legislativa, que le solicite el pleno, la Junta de Coordinación Parlamentaria y las comisiones de dictamen.
+Corresponde a la Secretaría de Servicios Parlamentarios y Vinculación Ciudadana:
+
+I.- Auxiliar al Presidente de la Mesa Directiva o de la Diputación Permanente, en su caso, en la ejecución de los acuerdos del Congreso y de la Junta de Coordinación Parlamentaria;
+
+II.- Realizar la función de Secretario Técnico de la Junta de Coordinación Parlamentaria;
+
+III.- Realizar las tareas de consulta y atención ciudadana, relaciones públicas y comunicación social del Congreso;
+
+IV.- Llevar los servicios de gestoría social de los diputados y auxiliar a las comisiones en los procesos de consulta pública para dar contenido a las iniciativas de ley o decreto;
+
+V.- Coordinar la Unidad de Información del Poder legislativo;
+
+VI.- Actuar como apoderado general del Congreso, con facultades para pleitos y cobranzas, ante otras instancias, así como llevar un control de las demandas judiciales y, en su caso, asumir su representación en juicio y fuera de él;
+
+VII.- Expedir y certificar las copias de documentos oficiales del Congreso, en ausencia de los secretarios y prosecretarios;
+
+VIII.- Coordinarse con las otras Secretarías para la ejecución de las resoluciones del Congreso, de la Junta de Coordinación Parlamentaria, así como de la Mesa Directiva o de la Diputación Permanente, en su caso;
+
+IX.- Nombrar y remover al personal de la Secretaría de Servicios Parlamentarios y Vinculación Ciudadana;
+
+X.- Realizar el análisis y verificación de la viabilidad social y económica de los proyectos legislativos; y
+
+XI.- Las demás que le confieran otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 76.
 
-La Unidad a que se refiere el artículo anterior se regirá en su organización y funcionamiento por lo establecido en la presente Ley y las disposiciones de carácter general que dicte la Junta de Coordinación Parlamentaria.
+La Auditoría Superior del Estado tendrá la organización, funcionamiento y atribuciones que establecen la Constitución Política del Estado, esta Ley, su orgánica y demás aplicables.
 
 ## TITULO QUINTO
 
@@ -1645,19 +1649,13 @@ Sólo en caso de tener algún interés personal, los diputados podrán excusarse
 
 La parte interesada en el Juicio Político o en la solicitud de declaración de procedencia, así como el servidor público de que se trate, tienen el derecho de recusar, con expresión de causa que calificará el Presidente del Congreso, a uno o más miembros de la Comisión Jurisdiccional. En su caso, el o los recusados se inhibirán de intervenir en el procedimiento relativo.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 148.
 
-Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales y regidores de los ayuntamientos se presentarán ante la Oficialía Mayor del Congreso.
+Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales, síndicos y regidores de los ayuntamientos, se presentarán ante la Secretaría de Servicios Parlamentarios y Vinculación Ciudadana.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
-
-Una vez ratificadas las denuncias, la Oficialía Mayor las turnará al Presidente del Congreso o de la Diputación Permanente, en su caso, quien por conducto de la Unidad Jurisdiccional, substanciará el procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos y formulará el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva el propio Presidente.
-
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
-
-Si la denuncia no se apoyara en prueba alguna o fuere notoriamente improcedente, se desechará de plano por la directiva del Congreso o por la Diputación Permanente en su caso.
+Una vez ratificadas las denuncias, dicha Secretaría las turnará al Presidente del Congreso o de la Diputación Permanente, en su caso, con el objeto de que se substancie el procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso en que resolverá en definitiva el propio Presidente.
 
 ### CAPITULO III. DE LA ELECCION DE SERVIDORES PUBLICOS
 
@@ -1759,15 +1757,19 @@ La Comisión de Fiscalización llevará el registro y control de las declaracion
 
 Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos del Congreso:
 
-I.- Los diputados;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
 
-II.- El Oficial Mayor;
+I.- Los Diputados;
+
+II.- (DEROGADA, P.O. 31 DE OCTUBRE DE 2007)
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
 III.- El Auditor Superior del Estado;
 
-IV.- El titular de la Unidad Técnica y de Investigación Legislativa;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+IV.- Los titulares de las Secretarías de Servicios Administrativos, de Servicios Jurídico Legislativos y de Servicios Parlamentarios y Vinculación Ciudadana;
 
 V.- Los jefes de las áreas dependientes de la Oficialía Mayor y de la Contaduría General;
 
@@ -2126,3 +2128,23 @@ En los ordenamientos jurídicos estatales que refieran la existencia de la Comis
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2007.
+
+DECRETO No. 4/07 I P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor inmediatamente después de su aprobación, sin perjuicio de su publicación posterior en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2007.
+
+DECRETO No. 7/07 I P.O.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación, sin perjuicio de su publicación en el Periódico Oficial del Estado. Las facultades de los Secretarios, titulares de los Órganos Técnicos, contenidas en los artículos 73, fracciones VII, VIII y IX; 74, fracción XI; y 75, fracciones V, VI, VII y IX, a que se refiere el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En todo lo relativo a los recursos humanos, financieros y materiales que actualmente están a cargo de los órganos técnicos Oficialía Mayor y Unidad Técnica y de Investigación Legislativa, y que en virtud de este Decreto pasen a formar parte de las áreas de nueva creación, se estará a las disposiciones que dicten la Junta de Coordinación Parlamentaria y el Comité de Administración.
