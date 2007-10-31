@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-venta-y-consumo-de-bebidas-alcoholicas-54108
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-29"
-last_updated: "2007-01-29"
+last_updated: "2007-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE GRAL. ZARAGOZA, NUEVO LEON
 
-REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
+REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL GRAL. ZARAGOZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 29 de Enero del 2007.
 
@@ -238,13 +238,19 @@ d) Copia de acta de nacimiento o Acta Constitutiva si es Persona Moral.
 
 e) Presentar Constancia de Pago del Impuesto Predial y Pago de Refrendos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 11.
 
-Cumplir con los Requisitos siguientes:
+Cumplir con los requisitos siguientes:
 
 I. Para los establecimientos de restaurante, cantina, videobar, futbolitos, billares y depósitos deberán contar con Instalaciones Sanitarias para Damas y Caballeros.
 
 II. Para los establecimientos donde se celebren eventos masivos (Baile, Baile-rodeo, Balnearios y Centros Deportivos) se deberá contar con Instalaciones Sanitarias además de incluir migitorios (sic).
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+III. Los establecimientos con autorización de venta y consumo de bebidas alcohólicas con vista a la calle o al público deberán contar con persianas o batientes que disminuyan la visibilidad del exterior al interior de dichos locales.
 
 ###### ARTÍCULO 12.
 
@@ -539,3 +545,9 @@ C. PRESIDENTE MUNICIPAL
 DR. HORACIO BORJAS RAMÍREZ
 
 C. SECRETARIO DEL R. AYUNTAMIENTO
+
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 31 DE OCTUBRE DE 2007.
+
+[EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.]
