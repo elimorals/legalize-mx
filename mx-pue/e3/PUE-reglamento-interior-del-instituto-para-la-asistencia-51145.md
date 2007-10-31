@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-para-la-asistencia-51145"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-19"
-last_updated: "2006-06-19"
+last_updated: "2007-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO PARA LA ASISTENCIA PUBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+REGLAMENTO PUBLICADO EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de junio de 2006.
 
@@ -69,9 +69,13 @@ IV.- Las siguientes unidades administrativas:
 
 a. Subdirección Técnica de Valuación;
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+b. Subdirección de Control de Operaciones.
+
 2) Dirección de Administración de Negocios;
 
-a. Subdirección de Operación de Negocios;
+a. (DEROGADO, P.O. 31 DE OCTUBRE DE 2007)
 
 3) Dirección de Acciones de Filantropía;
 
@@ -227,7 +231,9 @@ VI.- Proponer al Director General la apertura de nuevas sucursales y/o nuevos se
 
 VII.- Establecer y mantener un sistema de quejas y sugerencias, que permita conocer las opiniones de los pignorantes y estar en posibilidades de mantener una óptima atención al público, y
 
-VIII.- Estructurar junto con el Departamento de Comunicación Social, campañas de promoción y mercadotecnia a favor del Instituto, a efecto de difundir los servicios que brindan las sucursales.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+VIII.- Estructurar junto con la Unidad de Comunicación Social, campañas de promoción y mercadotecnia a favor del Instituto, a efecto de difundir los servicios que brindan las sucursales.
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE NEGOCIOS
 
@@ -251,7 +257,9 @@ VII.- Establecer controles de calidad en atención al cliente en las unidades pr
 
 VIII.- Proponer al Director General la creación y desarrollo de negocios que puedan representar ingresos para el Instituto, contactando a organismos públicos y privados;
 
-IX.- Estructurar junto con el Departamento de Comunicación Social, campañas de promoción y mercadotecnia a favor del Instituto, a efecto de difundir las unidades productivas a su cargo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+IX.- Estructurar junto con la Unidad de Comunicación Social, campañas de promoción y mercadotecnia a favor del Instituto, a efecto de difundir las unidades productivas a su cargo;
 
 X.- Enviar a la Dirección General y a la Dirección Administrativa previa revisión, los reportes diarios, semanales y mensuales de las operaciones que realizan las unidades administrativas de su adscripción, y
 
@@ -445,67 +453,43 @@ XIII.- Realizar estudios comparativos y de mercado, así como investigaciones so
 
 XIV.- Sugerir al Director del Monte de Piedad las medidas necesarias para lograr mayor posicionamiento en el mercado.
 
-### CAPÍTULO XIII. DE LA SUBDIRECCIÓN DE OPERACIÓN DE NEGOCIOS
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+### CAPÍTULO XIII. DE LA SUBDIRECCIÓN DE CONTROL DE OPERACIONES
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 24.
 
-El Subdirector de Operación de Negocios, depende del Director de Administración de Negocios y su Titular además de las atribuciones señaladas en el artículo 22 del presente Reglamento, tendrá las siguientes:
+El Subdirector de Control de Operaciones, depende del Director del Monte de Piedad y su Titular además de las atribuciones señaladas en el artículo 22 del Reglamento, tendrá las siguientes:
 
-I.- Auxiliar al Director a coordinar, administrar, evaluar y controlar las actividades del Panteón de la Piedad, Servicios Funerarios Integrales de la Piedad; del arrendamiento de inmuebles y estacionamientos, así como de la Exhacienda de Chautla y Estaciones de Servicio en lo que por derecho corresponda al Organismo;
+I.- Auxiliar al Director a coordinar, administrar, evaluar y controlar las actividades de las Sucursales del Monte de Piedad de Puebla;
 
-II.- Administrar en forma racional y eficiente las unidades productivas a su cargo;
+II.- Verificar que se cumpla con las políticas, procedimientos y lineamientos, programas y metas del Monte de Piedad de Puebla;
 
-III.- Proponer al Director los proyectos tendientes a incrementar los ingresos y el patrimonio de las unidades productivas a su cargo;
+III.- Asegurar el abastecimiento oportuno de las Sucursales del Monte de Piedad, priorizando y suministrando de acuerdo a la disponibilidad de recursos y nivel de importancia;
 
-IV.- Remitir los reportes de ingresos diarios y mensuales que generen las unidades productivas al superior inmediato, para su revisión y autorización, para que sean turnadas a la Dirección General y Administrativa, respectivamente;
+IV.- Integrar la información necesaria para reportar a la Dirección del Monte de Piedad y Dirección General del IAPEP;
 
-V.- Realizar permanentemente visitas de supervisión a las unidades productivas para verificar su funcionamiento y operación;
+V.- Participar con el Director en la elaboración de presupuestos anuales, proyectos, así como planes y estrategias de mejora y crecimiento;
 
-VI.- Informar oportunamente al Director de Administración de Negocios, el estado que guardan las unidades a su cargo;
+VI.- Coordinar y autorizar la rotación de personal entre Sucursales, por suplencias, capacitación de acuerdo a las necesidades del servicio, previa autorización del Director;
 
-VII.- Proponer al Director los mecanismos administrativos y programas de trabajo de las unidades a su cargo;
+VII.- Evaluar y proponer estrategias que lleven a incrementar los ingresos del Monte de Piedad de Puebla, así como mejorar su posicionamiento en el mercado;
 
-VIII.- Supervisar así como llevar un control y registro del inventario de los bienes inmuebles propiedad del Instituto, así como su actualización en su situación catastral, legal y fiscal;
+VIII.- Reportar e informar sobre datos estadísticos de la situación del Monte de Piedad en comparación con la competencia;
 
-IX.- Elaborar el programa anual de eventos especiales a realizar por el Organismo, informando al Director de Administración de Negocios, de los avances y resultados correspondientes;
+IX.- Integrar la información por valuador para reportar a la Dirección del Monte de Piedad y al Departamento de Recursos Humanos las comisiones que corresponden o descuentos que se requieren aplicar; así como llevar un control de las comisiones y descuentos aplicados a valuadores:
 
-X.- Organizar y realizar los eventos artísticos, culturales, sociales, rifas y sorteos, que autorice la Junta Directiva, de acuerdo con el programa y presupuesto anual autorizado;
+X.- Supervisar y asegurar que el proceso de ventas de prendas no recuperadas, subastadas se ajuste a los lineamientos vigentes;
 
-XI.- Elaborar el presupuesto de cada uno de los eventos a realizar, así como diseñar y aplicar los esquemas logísticos administrativos necesarios para la ejecución de los mismos;
+XI.- Verificar la disponibilidad de efectivo para dotar a las Sucursales en sus operaciones diarias;
 
-XII.- Proponer eventos en los que participen organizaciones públicas y privadas que actúen con el carácter de benefactoras, en beneficio del Instituto;
+XII.- Realizar visitas y supervisiones a las Sucursales del Monte de Piedad para verificar el correcto desempeño del personal acorde a las políticas y procedimientos vigentes;
 
-XIII.- Elaborar en coordinación con la Dirección Jurídica y Administrativa del Organismo, los contratos que sean necesarios en relación con los servicios requeridos para la realización de los eventos;
+XIII.- Informar oportunamente el estado que guardan las Sucursales y reportar cualquier anomalía detectada dentro de la operación de las mismas para poder tomar medidas pertinentes; y
 
-XIV.- Informar a su inmediato superior del estado que guardan las Estaciones de Servicio del Instituto en el cumplimiento de la normatividad, los procedimientos y las políticas generales que estable (sic) PEMEX-Refinación o cualquier otra dependencia competente;
-
-XV.- Analizar diariamente el reporte de ingresos, remitido por los responsables de las Estaciones de Servicio;
-
-XVI.- Informar al Director de Administración de Negocios sobre los requerimientos y trámites que se deban realizar, ante las instancias correspondientes, como los permisos o autorizaciones necesarias para el funcionamiento de las Estaciones de Servicio;
-
-XVII.- Elaborar y someter a consideración de su inmediato superior, la programación de abastecimiento de combustible de las Estaciones de Servicio del Instituto, manteniendo el contacto con la terminal de abastecimiento y distribución de PEMEX-Refinación;
-
-XVIII.- Verificar los registro (sic) de las Estaciones de Servicio, por la venta de combustible, vales, reembolso de fondo revolvente, depósitos bancarios y en general toda la documentación que se envía al área administrativa correspondiente del Instituto;
-
-XIX.- Elaborar el informe de resultados financieros de los eventos que se realicen y entregarlo al Director para su autorización y envío a la Dirección Administrativa;
-
-XX.- Instruir al personal y vigilar que se cumpla con las políticas establecidas por PEMEX-Refinación, normatividad en materia ambiental, programas, manuales y disposiciones relativas a las Estaciones de Servicio;
-
-XXI.- Supervisar que se cumpla con los objetivos básicos de productividad, eficiencia, calidad en el otorgamiento de los servicios;
-
-XXII.- Controlar el estado de operación de todas las instalaciones, maquinaria y equipo de las Estaciones de Servicio;
-
-XXIII.- Conocer y difundir entre el personal de su área el programa de contingencias, para su correcta aplicación;
-
-XXIV.- Elaborar conjuntamente con el jefe de mantenimiento, el programa de trabajo de mantenimiento preventivo de las Estaciones;
-
-XXV.- Dar seguimiento a las inspecciones y observaciones de organismos y dependencias relacionadas con la materia de los negocios;
-
-XXVI.- Observar los alineamientos y normatividad de PEMEX-Refinación;
-
-XXVII.- Inspeccionar continuamente que la imagen y la calidad del servicio se refleje en la presentación de las Estaciones de Servicio, así como en el personal que atiende al público, y
-
-XXVIII.- Solucionar los problemas que se presenten en torno a las Estaciones y reportarlo de inmediato a su jefe inmediato superior.
+XIV.- Apoyar en el proceso de reclutamiento, contratación y capacitación de personal de nuevo ingreso, acorde a las necesidades del puesto, así como proponer la capacitación y cursos de integración del personal ya existente dirigido a fortalecer los valores de la Institución.
 
 ### CAPÍTULO XIV. DE LA COORDINACIÓN DE SEGUIMIENTO OPERACIONAL
 
@@ -548,3 +532,9 @@ Los Directores del Instituto serán suplidos durante su ausencia temporal, por c
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Dado en la Heroica Puebla de Zaragoza, a los veintisiete días del mes de abril del año dos mil seis.- El Director General del Instituto para la Asistencia Pública del Estado de Puebla.- INGENIERO JOSÉ SALVADOR GARMILLA HERRERA, en cumplimiento del Acuerdo de la H. Junta Directiva del Instituto.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
