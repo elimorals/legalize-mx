@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-gral-zaragoza-54107"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-29"
-last_updated: "2007-01-29"
+last_updated: "2007-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DE GRAL. ZARAGOZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 29 de enero de 2007.
 
@@ -160,9 +160,13 @@ IV.- Rendir un Informe Mensual de las actividades realizadas en esa Dirección.
 
 V.- Coordinarse con otras Autoridades para el mejor cumplimiento de este Reglamento.
 
-VI.- Arrestar a todo aquel individuo que contravenga cualquier disposición de este Reglamento, y ponerlo a disposición de la Autoridad Municipal; y ésta a su vez remitirlo a la Autoridad competente en su caso.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
 
-VII.- Ordenar el Dictamen Medico correspondiente al arrestado sin excepción.
+VI.- Arrestar a todo aquel individuo que contravenga cualquier disposición de este Reglamento, y ponerlo a disposición de la Autoridad Municipal; y esta a su vez remitirlo a la Autoridad competente en su caso. Para lo cual deberá utilizarse el formato (F-ID-1) formato de identificación de detenidos.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+VII.- Ordenar el dictamen medico correspondiente al arrestado sin excepción. Para lo cual el importe correspondiente del dictamen será aplicado junto con la multa por lo (sic) CC. Jueces Calificadores y remitida a la Tesorería Municipal para su cobro y el importe de los dictámenes médicos podrá ser devuelto como apoyo al medico que lo haya aplicado (formato-DMM-SP-02 Dictamen Medico Municipal- Dirección de Seguridad Pública-02).
 
 VIII.- Retirar de la Vía Pública, a todos aquellos individuos que practiquen la mendicidad, así como a aquellas personas que alteren el orden.
 
@@ -297,6 +301,10 @@ IV.- Realizar en las plazas, jardines y demás sitios públicos, toda clase de j
 V.- Efectuar bailes o eventos en domicilios particulares para el público en general, con fines lucrativos sin el permiso correspondiente.
 
 VI.- Llevar a cabo bailes en salones, clubes y centros sociales; infringiendo el Reglamento vigente que regula la actividad de estos establecimientos.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+VII.- Provocar o propiciar ruido con aparatos de sonido y/o instrumentos musicales sin autorización correspondiente y fuera del horario establecido que provoquen la molestia a terceros, esto comprende a establecimientos comerciales y a domicilios particulares (Artículo 5° Fracciones I y II del Reglamento de Venta y Consumo de Bebidas Alcohólicas vigente).
 
 ### CAPÍTULO 7. DE LAS INFRACCIONES A LA SEGURIDAD DE LA POBLACIÓN
 
@@ -567,3 +575,9 @@ C. PRESIDENTE MUNICIPAL
 DR. HORACIO BORJAS RAMÍREZ
 
 C. SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE OCTUBRE DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA; SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON VIGENTE.
