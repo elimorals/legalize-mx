@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-y-ecologia-para-el-municipio-de-gral-54313
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-12"
-last_updated: "2007-02-12"
+last_updated: "2007-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 REGLAMENTO DE LIMPIA Y ECOLOGIA PARA EL MUNICIPIO DE GRAL. ZARAGOZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de febrero de 2007.
 
@@ -233,6 +233,10 @@ Los propietarios de establecimientos comerciales con autorización de venta de b
 ###### Artículo 27.
 
 Los propietarios de establecimientos comerciales comprendidos en el casco histórico de la Cabecera Municipal solo podrán instalar anuncios que guarden una proporción con el entorno rustico y tradicional del Municipio y deberán observar lo estipulado en el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+Adicción (sic) los propietarios de establecimientos comerciales y de casas habitación comprendidos en el casco histórico que es la zona rehabilitada por el Fideicomiso del Turismo Rural solo podrán instalar anuncios que guarden una proporción con el entorno rustico y tradicional (anuncios de herrería, madera, o lonas que no afecten las fachadas o paredes de los inmuebles además de no exceder el 10% de la superficie de la fachada del inmueble la autorización será de 1 metro x 60 centímetros).
 
 ###### Artículo 28.
 
@@ -547,3 +551,9 @@ C. PRESIDENTE MUNICIPAL
 DR. HORACIO BORJAS RAMÍREZ
 
 C. SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE OCTUBRE DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA; SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON VIGENTE.
