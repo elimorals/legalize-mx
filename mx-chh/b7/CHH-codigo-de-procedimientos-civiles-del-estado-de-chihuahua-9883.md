@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2006-02-15"
+last_updated: "2007-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2007.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -547,7 +547,9 @@ Los tribunales no podrán, al realizar la aclaración de una resolución judicia
 
 101.- Las resoluciones judiciales dictadas con el carácter de provisionales pueden modificarse en la sentencia definitiva.
 
-Las resoluciones judiciales firmes dictadas en negocios sobre alimentos, ejercicio y suspensión de la patria potestad, interdicción, jurisdicción voluntaria, y las demás que prevengan las leyes, pueden alterarse y modificarse cuando cambien las circunstancias que afectan al ejercicio de la acción que se dedujo en el juicio correspondiente.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
+Las resoluciones judiciales firmes dictadas en negocios sobre alimentos, ejercicio y suspensión de la patria potestad, guarda y custodia de menores, interdicción, jurisdicción voluntaria, y las demás que prevengan las leyes, pueden alterarse y modificarse cuando cambien las circunstancias que afectan al ejercicio de la acción que se dedujo en el juicio correspondiente.
 
 102.- Las resoluciones judiciales no se tendrán por consentidas sino cuando notificada la parte conteste expresamente de conformidad, o deje pasar el término señalado para interponer el recurso que proceda.
 
@@ -4740,3 +4742,9 @@ P.O. 15 DE FEBRERO DE 2006.
 DECRETO 518/05 I P.O.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
