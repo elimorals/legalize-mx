@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-loteria-nacional-para-la-485"
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-07-24"
-last_updated: "1985-07-24"
+last_updated: "2007-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1985-07-05"
 
 REGLAMENTO INTERIOR DE LA LOTERIA NACIONAL PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 24 de julio de 1985.
 
@@ -215,6 +215,20 @@ Conforme a lo dispuesto en su Ley Orgánica, las relaciones entre la Lotería Na
 
 La Institución contará con las reservas y garantías que conforme a las autorizaciones que al efecto expida la Secretaría de Hacienda y Crédito Público, determine la Junta Directiva, la que señalará, también con la autorización de la referida Secretaría, sus incrementos y bases para su operación.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 31 DE OCTUBRE DE 2007)</small>
+
+### CAPITULO IX.- Del Organo Interno de Control
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 21o.
+
+En la Lotería Nacional para la Asistencia Pública habrá un Organo Interno de Control, su titular será designado en los términos de la Ley Orgánica de la Administración Pública Federal, y quien, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno, de Auditoría Interna, de Responsabilidades y de Quejas, establecidas en dicha Ley y en el Reglamento Interior de la Secretaría de la Función Pública, quienes serán designados en los mismos términos.
+
+Los servidores públicos a que se refiere el párrafo anterior ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, el Reglamento Interior de la Secretaría de la Función Pública y demás ordenamientos legales y administrativos aplicables.
+
+La entidad proporcionará al Titular del Organo Interno de Control los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Lotería Nacional para la Asistencia Pública estarán obligados a proporcionar la información y el auxilio que requiera el Organo Interno de Control y sus áreas para el desempeño de sus facultades.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- Se derogan todas las disposiciones que se opongan al presente. El Reglamento Interno de la Lotería Nacional para la Asistencia Pública y del Funcionamiento Interior de su Consejo de Administración, publicado en el Diario Oficial de la Federación de fecha 13 de noviembre de 1940 se continuará aplicando en todo lo que no se oponga a este ordenamiento.
@@ -224,3 +238,9 @@ SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 > <small>(F. DE E., D.O.F. 4 DE SEPTIEMBRE DE 1985)</small>
 
 México, Distrito Federal, a cinco de julio de mil novecientos ochenta y cinco.- Lic. Guillermo Hori Robaina, Secretario.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 31 DE OCTUBRE DE 2007.
+
+UNICO.- La presente modificación, entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
