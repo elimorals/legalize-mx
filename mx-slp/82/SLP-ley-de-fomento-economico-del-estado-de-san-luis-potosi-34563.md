@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-economico-del-estado-de-san-luis-potosi-34563"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2003-03-20"
+last_updated: "2007-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -395,87 +395,49 @@ Los activos del Fondo, así como sus rendimientos y aprovechamientos serán reca
 
 ###### ARTICULO 40.
 
-Corresponde a la Secretaría llevar a cabo las medidas y políticas necesarias para la Mejora Regulatoria y Simplificación Administrativa, a través de las siguientes acciones:
-
-I. Coordinar la Mejora Regulatoria y la Simplificación Administrativa;
-
-II. Fijar calendario para la entrega de información relativa al Registro Público Estatal de Trámites y Servicios, por parte de las dependencias del Ejecutivo del Estado;
-
-III. Revisar y opinar sobre los requisitos y trámites que las dependencias, entidades municipales y estatales exigen a las empresas, en los términos de las disposiciones administrativas y legales respectivas;
-
-IV. Formular propuestas de simplificación de requisitos, trámites y procedimientos de las diversas dependencias estatales y municipales;
-
-V. Llevar el Registro Público Estatal de Trámites y Servicios, y expedir los lineamientos con los cuales operará;
-
-VI. Promover la celebración de acuerdos entre el gobierno estatal y los gobiernos municipales, para desregular la actividad económica en sus respectivos ámbitos de competencia;
-
-VII. Promover la concertación de acciones en los sectores social y privado, con el objeto de identificar aquellas medidas que permitan mejorar el marco regulatorio, y
-
-VIII. Promover el desarrollo de medidas y sistemas para facilitar la apertura de empresas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 41.
 
-La Secretaría llevará un Registro Público Estatal de Trámites y Servicios, el cual contendrá todos los trámites exigibles a los particulares para el establecimiento y operación de las empresas, solicitados por las dependencias federales, estatales y municipales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 42.
 
-Cuando otras dependencias y entidades de la administración pública estatal, elaboren anteproyectos de disposiciones de carácter general sobre trámites y servicios públicos que impliquen reformas de éstas, adición, derogación o abrogación a las vigentes, con incidencias en la actividad económica, deberán remitirlos a la Secretaría para su análisis y opinión correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 43.
 
-Las dependencias y entidades acompañarán a los anteproyectos de disposiciones o de reformas a las existentes, un manifiesto de impacto regulatorio, con la información necesaria a fin de verificar que los nuevos plazos y trámites:
-
-I. Obedezcan a una situación que cause o pueda causar un perjuicio público, de riesgo ambiental o de salud, o de insuficiencia de información a los consumidores o usuarios, de tal magnitud que se justifique su creación o modificación;
-
-II. No puedan ser reemplazados por otras alternativas, incluidas las no obligatorias, que logren los mismos objetivos sobre el desempeño de las empresas a menor costo;
-
-III. Minimicen el impacto negativo que tengan sobre las empresas, en particular sobre las micro, pequeñas y medianas;
-
-IV. Generen beneficios que compensen los costos que implican para la sociedad; y
-
-V. Estén sustentados por los recursos presupuestales y administrativos necesarios, en su caso, para su aplicación y vigilancia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 44.
 
-Cuando la Secretaría considere que los anteproyectos de nuevas disposiciones o de reforma, adición, derogación o abrogación a las vigentes, elaborados por las dependencias o entidades de la administración pública del estado, afecten a la actividad económica y carezcan de justificación, lo hará del conocimiento del titular correspondiente, informando de ello al Gobernador del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 45.
 
-La Secretaría solicitará la publicación en el Periódico Oficial del Estado, de los trámites y plazos que vayan siendo definidos por cada una de las dependencias, a fin de integrar adecuadamente el Registro Público Estatal de Trámites y Servicios, sin perjuicio de poder realizar modificaciones siguiendo el procedimiento ya establecido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 46.
 
-La Secretaría inscribirá en el Registro Público Estatal de Trámites y Servicios:
-
-I. Los trámites y plazos de las dependencias y entidades federales, estatales y municipales;
-
-II. La determinación de a quienes se aplica y para que efectos;
-
-III. La relación de todos los requisitos exigibles por cada dependencia o entidad, y
-
-IV. La autoridad ante quien se deban efectuar.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 47.
 
-El Secretario General de Gobierno, por conducto de la Secretaría, podrá promover la integración de registros municipales de trámites de aquellos que sean exigibles por las autoridades municipales.
-
-Para el cumplimiento de lo expuesto, el estado promoverá la celebración de acuerdos de coordinación con las autoridades municipales a fin de prestar la asesoría y apoyo técnico que requieran éstas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO X. De la Ventanilla Estatal de Gestión Empresarial
 
 ###### ARTICULO 48.
 
-A través de la Ventanilla Estatal de Gestión Empresarial, la Secretaría brindará los servicios de gestión, asesoría, información y orientación de trámites de competencias federal, estatal y municipal; así como de todos los servicios y programas que ofrecen tanto la propia Secretaría, como las diversas entidades de los sectores público y privado a las empresas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 49.
 
-El funcionamiento de la Ventanilla Estatal de Gestión Empresarial será el que establezca el Reglamento de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 50.
 
-Las dependencias, entidades u organismos públicos y del sector privado, podrán convenir con la Secretaría la instalación de ventanillas que brinden apoyo a las empresas respecto de sus trámites, servicios y programas.
-
-De igual forma, la Secretaría promoverá y apoyará la instalación de ventanillas municipales de gestión empresarial, en los municipios del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO XI. Del Medio Ambiente e Industria
 
@@ -626,3 +588,13 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE NOVIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO. Esta Ley entrará en vigor el tino de enero de 2008, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan los artículos 40, 41, 42, 43, 44, 45, 46 y 47 contenidos en el Capítulo IX "Mejora Regulatoria y Simplificación Administrativa"; 48, 49 y 50 establecidos en el Capítulo X "De la Ventanilla Estatal de Gestión Empresarial", todos éstos, de la Ley de Fomento Económico del Estado de San Luis Potosí; así como todas las demás disposiciones legales y administrativas que se opongan a la presente Ley.
