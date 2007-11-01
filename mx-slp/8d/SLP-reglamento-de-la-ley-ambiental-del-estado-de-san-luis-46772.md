@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-ambiental-del-estado-de-san-luis-46772"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-07"
-last_updated: "2005-10-08"
+last_updated: "2007-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI EN MATERIA DE EVALUACION DE IMPACTO AMBIENTAL Y RIESGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 7 de julio de 2005.
 
@@ -149,63 +149,39 @@ X. Las demás previstas en otras disposiciones jurídicas relativas a la materia
 
 ### CAPÍTULO II. DE LAS OBRAS O ACTIVIDADES QUE REQUIEREN AUTORIZACIÓN EN MATERIA DE IMPACTO AMBIENTAL Y RIESGO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 1 DE NOVIEMBRE DE 2007, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, QUEDANDO INTEGRADO POR DOCE FRACCIONES.</small>
+
 ###### Artículo 5°.
 
 Las obras y actividades a que se refiere el artículo 118 de la Ley que requerirán autorización en materia de impacto ambiental serán:
 
-I. Obra pública que no corresponda a la competencia de la federación, particularmente:
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-a) Construcción de centros de readaptación social o centros tutelares de menores infractores;
+I. Obras o actividades que pretendan realizarse en áreas naturales protegidas de competencia del Estado con excepción de:
 
-b) Construcción de clínicas y hospitales;
+a) Las actividades de autoconsumo y uso doméstico, así como las obras que no requieran autorización en materia de impacto ambiental en los términos del presente artículo, siempre que se lleven a cabo por las comunidades asentadas en el área y de conformidad con lo dispuesto en el reglamento, el decreto y el programa de manejo respectivos;
 
-c) Construcción de parques industriales;
+b) Las que sean indispensables para la conservación, el mantenimiento y la vigilancia de las áreas naturales protegidas, de conformidad con la normatividad correspondiente;
 
-d) Centrales los centros de abasto o mercados que cuenten con las características mencionadas en la fracción V del artículo 3° del presente reglamento;
+c) Las obras de infraestructura urbana y desarrollo habitacional en las zonas urbanizadas que se encuentren dentro de áreas naturales protegidas, siempre que no rebasen los límites urbanos establecidos en los Planes de Desarrollo Urbano respectivos y no se encuentren prohibidos por las disposiciones jurídicas aplicables, y
 
-e) Centros comerciales que cuenten con las características mencionadas en la fracción VI del artículo 3° del presente reglamento;
+d) Construcciones para casa habitación en terrenos agrícolas, ganaderos o dentro de los límites de los centros de población existentes, cuando se ubiquen en comunidades rurales.
 
-f) Centros de educación, cuya superficie rebase diez mil metros cuadrados de superficie, o cuyas obras sean de más de seis niveles de altura;
+Quedan sujetas a evaluación aquellas obras de infraestructura y prestación de servicios. Para el caso dentro de un área natural protegida competencia del Estado o de aquellas que hubiera transferido su administración la Federación al Estado mediante convenio de descentralización, quedara sujeta la vialidad del proyecto a las disposiciones contenidas en el plan o programa de manejo respectivo, así como a lo dispuesto en la normatividad establecida en el Sistema de Áreas Naturales Protegidas del Estado de San Luis Potosí (SANPES);
 
-g) Centrales de autobuses o terminales, y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-h) Obras significativas que generen un impacto regional, cuya superficie de construcción sea superior a diez mil metros cuadrados.
+II. Obras o actividades dentro de suelo urbano en los siguientes casos:
 
-II. Obras hidráulicas en aguas de jurisdicción estatal y municipal:
+a) Las que colinden con áreas naturales protegidas o suelos de conservación y con vegetación de cuerpos de aguas;
 
-a) Cualquier obra de infraestructura hidráulica en cuerpos de agua de jurisdicción estatal y municipal de acuerdo a la definición de éstos últimos contenida en el artículo 3° fracción XI del presente reglamento;
+b) Nuevas actividades u obras de infraestructura, servicios o comercios, así como sus ampliaciones, cuyos procesos requieran de medidas, sistemas o equipos especiales para no afectar los recursos naturales o para cumplir con las normas ambientales para el Estado, y
 
-b) Presas de almacenamiento, derivadoras y de control de avenidas con capacidad menor de 1 millón de metros cúbicos, y
+c) Obras, actividades o cambios de uso de suelo que se pretendan realizar en predios con cobertura vegetal de más cincuenta (sic) hectáreas;
 
-c) Construcción, Ampliación, Rehabilitación y Equipamiento de líneas de conducción de agua potable y construcción y equipamiento de pozos, y construcción de colectores y subcolectores así como construcción y rehabilitación de drenajes, excepto aquellos que se realicen en zonas urbanas o dentro de localidades rurales.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-III. Zonas y parques industriales en los que no se prevea realizar actividades altamente riesgosas:
-
-Todas las zonas y parques industriales que cuenten con las características mencionadas en la definición del artículo 3 fracción XXXI del presente reglamento.
-
-IV. Carreteras, caminos y puentes estatales, incluyendo los caminos rurales:
-
-a) Construcción de vías públicas estatales y municipales;
-
-b) Construcción de calles, avenidas, circuitos, libramientos, distribuidores y ejes viajes, y bulevares nuevos, de más de un kilómetros (sic) de longitud o de tipo radial así como puentes y túneles vehiculares o ferroviarios. Se excluyen la pavimentación de calles y colonias con concreto hidráulico, terracerías con sello asfáltico, empedrado y/o adoquinado, guarniciones y banquetas, alumbrado público, plazas civiles, puentes peatonales y vehiculares dentro de zonas urbanas o poblaciones rurales, así como la rehabilitación de las obras anteriormente señaladas, y
-
-c) Construcción de caminos rurales de más de un kilómetro de longitud. Construcción de paradores cuando su superficie sea de más de diez mil metros cuadrados.
-
-V. Explotación, extracción, procesamiento y beneficio de minerales o substancias no reservadas a la federación, en los términos establecidos en el párrafo cuarto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, en la ley Minera y en la Ley, tales como explotación de bancos de materiales para la construcción u ornamento de obras, y aquellas cuyos productos se deriven de la descomposición de las rocas y cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto:
-
-a) Obras y actividades para la explotación de minas, yacimientos de arena, cantera, tepetate, piedra, arcilla, calizas, basalto, riolita, granito, tezontle, pumicita, gravas, materiales aluviales y, en general cualquier yacimiento pétreo, y
-
-b) Todas las obras o actividades que se ubiquen en este supuesto, siempre que los materiales y substancias objeto de ellas no se encuentran reservadas a la Federación, se destinen exclusivamente a la fabricación de materiales para la construcción u ornamento de obras, y los trabajos que se requieran se hagan a cielo abierto.
-
-VI. Instalaciones de tratamiento, recuperación y disposición final de residuos sólidos municipales, así como de residuos industriales no peligrosos:
-
-Construcción y operación de plantas, estaciones y centros de almacenamiento temporal, acopio, separación, transferencia, pretratamiento, tratamiento, reuso, reciclaje, incineración y disposición final de residuos, sólidos, municipales e industriales no peligrosos y especiales que no sean competencia de la federación en tos términos de la legislación federal aplicable.
-
-VII. Instalaciones de tratamiento de aguas residuales de procedencia municipal:
-
-Plantas de tratamiento de aguas residuales que no descarguen a cuerpos de agua de jurisdicción federal o bienes de propiedad nacional.
-
-VIII. Industrias de todo género, con excepción de las que conforme a la LGEEPA, corresponde a la SEMARNAT evaluar su impacto ambiental:
+III. Industrias de todo género, con excepción de las que conforme al artículo 28 fracción II de la Ley General del Equilibrio Ecológico y Protección al Ambiente, corresponde a la SEMARNAT evaluar su impacto ambiental:
 
 1. Congelación y empacado de carne fresca;
 
@@ -259,9 +235,9 @@ VIII. Industrias de todo género, con excepción de las que conforme a la LGEEPA
 
 26. Fabricación de algodón absorbente, vendas y productos similares;
 
-27. Fabricación de ropa en- talleres e instalaciones industriales;
+27. Fabricación de ropa en talleres e instalaciones industriales;
 
-28. Fabricación demedias y calcetines;
+28. Fabricación de medias y calcetines;
 
 29. Fabricación de ropa interior de punto;
 
@@ -269,7 +245,7 @@ VIII. Industrias de todo género, con excepción de las que conforme a la LGEEPA
 
 31. Fabricación de gorras, sombreros y productos similares;
 
-32. Fabricación de productos de cuero, piel y materiales saredáneos;
+32. Fabricación de productos de cuero, piel y materiales saredáricos (sic);
 
 33. Fabricación de calzado principalmente de cuero;
 
@@ -299,7 +275,7 @@ VIII. Industrias de todo género, con excepción de las que conforme a la LGEEPA
 
 46. Fabricación de materiales para pavimentación y techado a base de asfalto;
 
-47. Fabricación de llantas a partir de materia prima previamente elaborado;
+47. Fabricación de llantas a partir de materia prima previamente elaborado (sic);
 
 48. Industria maquiladora en general;
 
@@ -319,7 +295,7 @@ VIII. Industrias de todo género, con excepción de las que conforme a la LGEEPA
 
 56. Fabricación de automóviles y sus partes;
 
-57. Fabricación de equipos eléctricos para ferrocarriles y aeronaves;
+57. Fabricación de equipos electrónicos para ferrocarriles y aeronaves;
 
 58. Fabricación de materiales y accesorios eléctricos;
 
@@ -393,7 +369,7 @@ VIII. Industrias de todo género, con excepción de las que conforme a la LGEEPA
 
 93. Elaboración de cordelería de fibras naturales;
 
-94. Fabricación de hilos artificiales o sintéticos para coser bordar o tejer;
+94. Fabricación de hilos artificiales o sintéticos para coser, bordar o tejer;
 
 95. Fabricación de telas no tejidas, así como de productos higiénicos y de uso sanitario, quirúrgico, industrial y doméstico;
 
@@ -445,7 +421,7 @@ VIII. Industrias de todo género, con excepción de las que conforme a la LGEEPA
 
 119. Fabricación de discos y cintas magnetofónicas;
 
-120. Fabricación de estufas, hornos, refrigeradores, lavadoras, secadoras máquinas de coser, enseres y calentadores eléctricos, de uso doméstico;
+120. Fabricación de estufas, hornos, refrigeradores, lavadoras, secadoras máquinas de coser, enseres y calentadores eléctricos, de uso domestico;
 
 121. Fabricación de bicicletas, motocicletas y vehículos similares;
 
@@ -455,43 +431,83 @@ VIII. Industrias de todo género, con excepción de las que conforme a la LGEEPA
 
 124. Fabricación de cierres de cremallera metálicos y de plástico;
 
-125. Fabricación de encendedores, flores artificiales, redes para el cabello y productos similares;
+125. Fabricación de encendedores, flores artificiales, redes para el cabello y productos similares, y
 
 126. Fundición, aleación, laminado y desbaste de hierro y acero, cuando el proceso de fundición no esté integrado al de siderúrgica básica.
 
-Las industrias antes enunciadas no son limitativas; para el caso de no encuadrar dentro de las características del presente listado, deberá estarse a lo dispuesto en el artículo 10 del presente reglamento.
+Las industrias antes enunciadas no son limitativas; para el caso de no encuadrar dentro de las características del presente listado, deberá estarse a lo dispuesto en el artículo 10 del presente reglamento;
 
-IX. Desarrollos Turísticos:
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-Quedan incluidas todas aquellas obras o actividades públicas o privadas cuyo objetivo sea el desarrollo turístico, de esparcimiento o recreativo cuya superficie sea mayor de diez mil metros cuadrados de superficie, independientemente del proyecto constructivo relacionado con el mismo.
+IV. Explotación, extracción, procesamiento y beneficio de minerales o substancias no reservadas a la federación, en los términos establecidos en el párrafo cuarto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Minera y en la Ley, tales como explotación de bancos de materiales para la construcción u ornamento de obras, y aquellas cuyos productos se deriven de la descomposición de las rocas y cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto tales como;
 
-X. Obras y actividades en áreas naturales protegidas de jurisdicción estatal y municipal:
+a) Obras y actividades para la explotación de minas, yacimientos de arena, cantera, tepetate, piedra, arcilla, calizas, basalto, riolita, granito, tezontle, pumicita, gravas, materiales aluviales y, en general, cualquier yacimiento pétreo, y
 
-Quedan incluidas todas aquellas obras de infraestructura y prestación de servicios. Para el caso de situarse dentro de un área natural protegida competencia del Estado o de aquellas que hubiere transferido su administración la Federación al Estado mediante convenio de descentralización, quedará sujeta la viabilidad del proyecto a las disposiciones contenidas en el plan o programa de manejo respectivo, así como a lo dispuesto en la normatividad establecida en el Sistema de Áreas Naturales Protegidas del Estado de San Luis Potosí (SANPES) y sus disposiciones reglamentarias.
+b) Todas las obras o actividades que se ubiquen en este supuesto, siempre que los materiales y substancias objeto de ellas no se encuentren reservadas a la Federación, se destinen exclusivamente a la fabricación de materiales para la construcción u ornamento de obras, y los trabajos que se requieran se hagan a cielo abierto;
 
-XI. Actividades consideradas riesgosas en los términos previstos en esta Ley, así como en el listado que al efecto se expida:
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-Se considerarán todas aquellas actividades a que se refieren los listados de actividades riesgosas, así como las excepciones establecidas en los mismos.
+V. Vías de comunicación de competencia del Estado:
 
-XII. Fraccionamientos de cualquier tipo:
+a) Construcción de vías públicas estatales y municipales;
 
-a. Todas aquellas obras a que se refiere la fracción X del artículo 3° del presente Reglamento, y
+b) Construcción de calles, avenidas, circuitos, libramientos, distribuidores y ejes viales, y bulevares nuevos, de más de un kilómetros (sic) de longitud o de tipo radial así como puentes y túneles vehiculares o ferroviarios. Se excluyen la pavimentación de calles y colonias con concreto hidráulico, terracerías con sello asfáltico, empedrado y/o adoquinado, guarniciones y banquetas, alumbrado público, plazas civiles, puentes peatonales y vehiculares dentro de zonas urbanas o poblaciones rurales, así como la rehabilitación de las obras anteriormente señaladas, y
 
-b. Fraccionamientos y parques industriales donde no se prevean la realización de actividades altamente riesgosas.
+c) Construcción de caminos rurales de más de un kilometro de longitud. Construcción de paradores cuando su superficie sea de más de diez mil metros cuadrados;
 
-XIII. Creación y fundación de nuevos centros de población:
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-Serán consideradas las de la definición contenida en la fracción VIII del artículo 3° de la Ley de Desarrollo Urbano del Estado de San Luis Potosí.
+VI. Zonas y parques industriales donde no se prevea la realización de actividades altamente riesgosas:
 
-XIV. Las demás que aun cuando sean distintas a las anteriores, puedan causar impactos ambientales significativos de carácter adverso y que por razón de la obra, actividad o aprovechamiento de que se trate, no estén sometidas para su realización a la regulación federal:
+Todas las zonas y parques industriales que cuenten con las características mencionadas en la definición del artículo 3° fracción XXXI del presente reglamento.
+
+Quedan excluidas de la evaluación de impacto ambiental por parte de la Secretaria, aquellas zonas industriales que se encuentren expresamente previstas en programas de ordenamiento ecológico así como en planos o programas de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+VII. Conjuntos o fraccionamientos habitacionales que pretendan realizarse fuera de los centros de población y que reúnan las características descritas en la fracción X del artículo 3° del presente Reglamento;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+VIII. Desarrollos Turísticos:
+
+Quedan incluidas todas aquellas obras o actividades públicas o privadas cuyo objetivo sea el desarrollo turístico, de esparcimiento o recreativo cuya superficie sea mayor de diez mil metros cuadrados de superficie, independientemente del proyecto constructivo relacionado con el mismo;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+IX. Actividades consideradas riesgosas en los términos previstos en la Ley, así como en el listado de actividades riesgosas:
+
+Se considerarán todas aquellas actividades a que se refieren los listados de actividades riesgosas, así como las excepciones establecidas en los mismos;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+X. Las instalaciones para la disposición final de residuos sólidos, urbanos y las instalaciones para el manejo de residuos de manejo especial y residuos industriales no peligrosos, en los términos del Titulo séptimo Capítulo II de la Ley, incluyéndose la construcción y operación de plantas, estaciones y centros de almacenamiento temporal, acopio, separación, transferencia, pretratamiento, tratamiento, reuso, reciclaje, incineración y disposición final de dichos residuos;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+XI. Instalaciones de tratamiento secundario de aguas residuales provenientes de los sistemas de drenaje y alcantarillado cuando esto no descarguen a cuerpos de agua de jurisdicción federal o bienes de propiedad nacional;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+XII. Obras hidráulicas en aguas sujetas a la regulación del Estado:
+
+a) Cualquier obra de infraestructura hidráulica en cuerpos de agua de jurisdicción estatal y municipal de acuerdo a la definición de éstos últimos contenida en el artículo 3° fracción XI del presente reglamento;
+
+b) Presas de almacenamiento, derivadoras y de control de avenidas con capacidad menor de 1 millón de metros cúbicos, y
+
+c) Construcción, Ampliación, Rehabilitación y Equipamiento de líneas de conducción de agua potable, y construcción de colectores y subcolectores así como construcción y rehabilitación de drenajes, excepto aquellos que se realicen en zonas urbanas o dentro de localidades rurales;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+XII (SIC). Las demás que aun cuando sean distintas a las anteriores, puedan causar impactos ambientales significativos de carácter adverso y que por razón de la obra, actividad o aprovechamiento de que se trate, no estén sometidas para su realización a la regulación federal:
 
 En todas las obras y actividades comprendidas en este apartado de carácter enunciativo más no limitativo, se observará el procedimiento previsto en el artículo 10 de este reglamento, pero quedarán considerados y sujetos a evaluación en materia de impacto ambiental los siguientes Programas:
 
-I. Que promuevan cambios de uso de suelo sujetos a conservación o reservación ecológica tanto fuera como dentro de los centros de población;
+a) Que promuevan cambios de uso de suelo sujetos a conservación o preservación ecológica tanto fuera como dentro de los centros de población;
 
-II. Que le promuevan actividades económicas que demanden recursos naturales como agua y suelo, o que requieran de un cambio de uso del suelo, o
+b) Que promuevan actividades económicas que demanden recursos naturales como agua y suelo, o que requieran de un cambio de uso del suelo, y
 
-III. Que prevean el aprovechamiento de los recursos naturales del Estado de San Luis Potosí.
+c) Que prevean el aprovechamiento de los recursos naturales del Estado de San Luis Potosí.
 
 ###### Artículo 6°.
 
@@ -529,9 +545,11 @@ En estos casos, los interesados deberán dar aviso a la SEGAM previamente a la r
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA EVALUACIÓN DEL IMPACTO Y RIESGO AMBIENTAL Y DE LAS MODALIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 12.
 
-Los promoventes de las obras o actividades establecidas en el capitulo anterior, deberán presentar ante la SEGAM una Manifestación de Impacto Ambiental en la modalidad que corresponda, para que ésta realice la evaluación del proyecto de la obra o actividad respecto de la que se solicita autorización.
+Los promoventes de las obras o actividades establecidas en el capitulo anterior, deberán presentar ante la SEGAM una Manifestación de Impacto Ambiental, para que ésta realice la evaluación del proyecto de la obra o actividad respecto de la que se solicita autorización.
 
 La Información que contenga la manifestación de impacto ambiental deberá referirse a circunstancias ambientales relevantes vinculadas con la realización del proyecto.
 
@@ -545,25 +563,11 @@ I. Particular, o
 
 II. Regional.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 14.
 
-La Manifestaciones de Impacto Ambiental se presentará en la modalidad particular, en los siguientes casos:
-
-I. Programas que promuevan actividades económicas que demanden recursos naturales como agua y suelo, o que requieran de un cambio de uso del suelo;
-
-II. Las previstas en el apartado 8 del artículo 5° de éste Reglamento;
-
-III. Obras o actividades que afecten la vegetación y los suelos de escurrimientos superficiales, barrancas, cauces, canales y cuerpos de agua en el Estado y, en general, cualquier obra o actividad para la explotación de la capa vegetal;
-
-IV. Obras y actividades de carácter público o privado destinadas a la prestación de un servicio público;
-
-V. Vías de comunicación competencia el (sic) Estado;
-
-VI. Obras o actividades que, estando reservadas a la federación, se descentralicen a favor del Estado;
-
-VII. Obras de más de diez mil metros cuadrados de construcción u obras nuevas que se realicen en predios de más de cinco mil metros cuadrados para uso distinto al habitacional, para la relotificación de predios y ampliaciones de construcciones que, en su conjunto, rebasen los parámetros señalados en el presente reglamento;
-
-VIII. Obras y actividades que no estando expresamente reservadas a la federación, en los términos de la LGEEPA, causen o puedan causar desequilibrios ecológicos, rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la conservación del ambiente.
+Requerirán de la presentación de una Manifestaciones (sic) de Impacto Ambiental en su modalidad particular, las obras y actividades señaladas en el Artículo 5 del presente reglamento.
 
 ###### Artículo 15.
 
@@ -583,15 +587,19 @@ VI. Obras o actividades dentro del suelo urbano en los siguientes casos:
 
 a) Las que colinden con áreas naturales protegidas o suelos de conservación;
 
-b) Obras o actividades o cambios de uso del suelo que se pretendan realizar en predios de cobertura forestal significativa o cuerpos de agua de jurisdicción estatal;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-c) Las obras o actividades que se establezcan en el programa de ordenamiento ecológico del territorio;
+b) Obras o actividades realizar (sic) en superficies mayores de quinientas hectáreas o en cuerpos de agua de jurisdicción estatal;
 
-d) Zonas y parques industriales;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-e) Centrales de abasto y comerciales, y
+c) Zonas y parques industriales en superficies mayores a quinientas hectáreas.
 
-f) Instalaciones para manejo de residuos sólidos municipales e industriales no peligrosos, de baja peligrosidad y especiales en los términos previstos en la legislación aplicable.
+d) (DEROGADO, P.O. 1 DE NOVIEMBRE DE 2007)
+
+e) (DEROGADO, P.O. 1 DE NOVIEMBRE DE 2007)
+
+f) (DEROGADO, P.O. 1 DE NOVIEMBRE DE 2007)
 
 VII. Cuando se refieran a los programas, obras o actividades mencionados en el artículo anterior, siempre que pretendan llevarse a cabo en suelos de conservación, o en Aéreas Naturales Protegidas competencia del Estado o las que en su caso hubiere descentralizado la Federación a éste.
 
@@ -665,9 +673,11 @@ a) Proyección de alternativas de solución para el caso de afectación del ambi
 
 b) Escenarios sobre la posible modificación de las condiciones originales del área del proyecto en los cuales se incluyan los efectos de las medidas de mitigación, prevención y compensación propuestas.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 18.
 
-La SEGAM publicará en el Periódico Oficial del Estado, los formatos e instructivos conforme a los cuales se detallarán los requisitos previstos en los articulas anteriores, de acuerdo a la modalidad que corresponda.
+La SEGAM publicará en el Periódico Oficial del Estado, las guías conforme a los cuales se detallarán los requisitos previstos en los artículos anteriores, de acuerdo a la modalidad que corresponda, mientras esto no ocurra, los interesados deberán ajustar sus estudios a los requisitos establecidos en el presente reglamento.
 
 ###### Artículo 19.
 
@@ -707,13 +717,17 @@ III. Un resumen del contenido de la manifestación de impacto ambiental, present
 
 IV. Una copia sellada de la constancia del pago de derechos correspondientes;
 
-V. Licencia de Uso de Suelo o en su defecto certificado de zonificación para uso específico o para usos del suelo permitidos, expedido por autoridad competente;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-VI. Certificado o constancia de acreditación de uso del suelo por derechos adquiridos emitidos por autoridad competente;
+V. Certificado o constancia de zonificación para uso específico o para usos del suelo permitidos, expedido por autoridad competente;
+
+VI. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2007)
 
 VII. Planos de localización del predio en donde se pretenda desarrollar el proyecto; y
 
-VIII. Constancia de trámite de autorización de cambio de uso ante la Secretaría del Medio Ambiente y Recursos Naturales en caso de que la obra o actividad implique el cambio de uso de suelo de terrenos forestales.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+VIII. Autorización de cambio de uso ante la Secretaría del Medio Ambiente y Recursos Naturales en caso de que la obra o actividad implique el cambio de uso de suelo de terrenos forestales.
 
 ###### Artículo 21.
 
@@ -739,13 +753,19 @@ Con el objeto de no retardar el procedimiento de evaluación, la SEGAM comunicar
 
 La SEGAM, en un plazo no mayor a cinco días contados a partir de que reciba la solicitud y sus anexos, integrará el expediente; en ese lapso, procederá a la revisión de los documentos para determinar si su contenido se ajusta a las disposiciones de la Ley y de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 25.
 
-Cuando la Manifestación de Impacto Ambiental y en su caso, el estudio de riesgo, presentaren insuficiencias que impidan la evaluación del proyecto, la SEGAM podrá solicitar al promovente, por única vez y dentro de los veinte días siguientes a la integración del expediente, aclaraciones, rectificaciones o ampliaciones a su contenido.
+Cuando la Manifestación de Impacto Ambiental y en su caso, el estudio de riesgo, presentaren insuficiencias que impidan la evaluación del proyecto, la SEGAM podrá solicitar al promovente, por única vez y dentro de los cuarenta días siguientes a la integración del expediente, aclaraciones, rectificaciones o ampliaciones a su contenido.
 
 Una vez transcurrido el plazo a que se refiere el párrafo anterior, sin que se hubiere hecho requerimiento alguno al particular, o una vez que éste hubiere entregado la información solicitada, la SEGAM dispondrá de diez días para determinar que se ha integrado la información necesaria para expedir la resolución correspondiente, la cual se deberá emitir y notificar al particular quince días después de que se dé dicha integración.
 
-En caso de que se requiera información adicional al promovente, éste deberá proporcionarla en el plazo que se le conceda para hacerlo, el cual no podrá ser menor a cinco días ni mayor a quince. Cuando no se presente la información en el plazo concedido, la SEGAM procederá a expedir la resolución que corresponda.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+En caso de que se requiera información adicional al promovente, éste deberá proporcionarla en el plazo que se le conceda para hacerlo, el cual no podrá ser menor a cinco días ni mayor a treinta. Cuando no se presente la información en el plazo concedido, la SEGAM procederá a desechar el trámite.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 El plazo que otorgue la SEGAM estará en función de la complejidad de la información requerida y su determinación deberá encontrarse debidamente fundada y motivada.
 
@@ -809,7 +829,9 @@ Transcurrido el plazo a que se refieren los dos artículos anteriores, sin que l
 
 La SEGAM podrá revocar, modificar o suspender la autorización concedida, si estuviere en riesgo el equilibrio ecológico o se produjeran en el ambiente afectaciones nocivas imprevistas.
 
-En tanto la SEGAM dicte la resolución a que se refiere el párrafo anterior, previa audiencia que otorgue a los interesados, podrá ordenar la suspensión temporal, parcial o total de la obra o actividad.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+En tanto la SEGAM dicte la resolución a que se refiere el párrafo anterior, los particulares deberán abstenerse de realizar cualquier tipo de obra o actividad, en todo caso, previa audiencia que otorgue a los interesados, podrá ordenar la suspensión temporal, parcial o total de la obra o actividad.
 
 ###### Artículo 33.
 
@@ -880,6 +902,10 @@ La SEGAM analizará el informe preventivo y, en un plazo no mayor a veinte días
 I. Que se encuentra en los supuestos previstos en el artículo 34 de este reglamento y que por lo tanto, puede realizar la obra o actividad en los términos propuestos, o
 
 II. Que se requiere la presentación de una manifestación de impacto ambiental, en alguna de sus modalidades.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+III. La negativa de la autorización en caso de que exista alguna de las causales de negativa previstas en el artículo 127 bis de la Ley.
 
 Tratándose de informes preventivos en los que los impactos de las obras o actividades a que se refieren se encuentren totalmente regulados por las normas oficiales mexicanas, transcurrido el plazo a que se refiere este artículo sin que la Secretaria haga la notificación correspondiente, se entenderá que dichas obras o actividades podrán llevarse a cabo en la forma en la que fueron proyectadas y de acuerdo con las mismas normas.
 
@@ -965,11 +991,9 @@ IV. En su caso, los proyectos de alternativas de adecuación o modificación al 
 
 Para analizar y resolver las manifestaciones de impacto ambiental y los estudios de riesgo relativos a obras o actividades determinadas como riesgosas, las autoridades competentes deberán ajustar su actuación a los siguientes criterios tendientes a garantizar la integridad del ambiente y de las personas:
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2007)</small>
 
-I. Las obras o actividades riesgosas no deberán ubicarse una de otra a una distancia de resguardo mínima de 200 metros contados a partir de los límites de la propiedad en cuestión
-
-En el caso de estaciones de servicio denominadas gasolineras, y de establecimiento (sic) dedicados al almacenamiento, manejo, expendio o distribución de gas, se estará a las restricciones y excepciones establecidas en el artículo 145 TER de la Ley de Desarrollo Urbano del Estado de San Luis Potosí.
+I. Las obras o actividades riesgosas deberán ubicarse una de otra a una distancia de resguardo mínima de 200 metros contados a partir de los límites de la propiedad en cuestión, con excepción de aquellas que se encuentren en zonas o parques industriales previamente autorizados;
 
 II. Las obras o actividades no deberán asentarse o desarrollarse en el suelo de conservación, terrenos de recarga de acuíferos, terrenos cavernosos o que hubiesen sido minas de materiales de construcción o sitios vulnerables en función de fallas geológicas, así como en una zona perimetral de trescientos metros en torno a los mencionados elementos;
 
@@ -1083,11 +1107,107 @@ Los servidores públicos de la SEGAM que tengan interés manifiesto en la aproba
 
 Quienes se abstengan de excusarse en los términos antes manifestados serán objeto de responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades de los Servidores Públicos del estado y Municipios de San Luis Potosí, sin perjuicio de las responsabilidades civiles y/o penales que procedan.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 58.
 
-La persona que construya una obra nueva, amplíe una existente o explote recursos naturales sin contar previamente con la autorización de impacto ambiental respectiva o que contando con ésta, incumpla los requisitos y condiciones establecidas en la misma, estará obligada a reparar el daño ambiental que con tal motivo hubiere causado a los recursos naturales o al ambiente en los términos de lo previsto en la Ley, sin perjuicio de la aplicación de las sanciones respectivas.
+La persona que construya una obra nueva, amplíe una existente o explote recursos naturales sin contar previamente con la autorización de impacto ambiental respectiva estará obligada a restaurar, sanear o compensar los impactos producidos, y en su caso a reparar el daño ambiental que con tal motivo hubiere causado a los recursos naturales o al ambiente en los términos de lo previsto en la Ley, sin perjuicio de la aplicación de las sanciones respectivas.
 
-En estos casos, la SEGAM podrá solicitar a las autoridades competentes un dictamen del daño ambiental causado y procederá a iniciar las acciones que correspondan para exigir su reparación.
+En estos casos, la SEGAM podrá solicitar a los responsables a través del procedimiento de inspección y vigilancia respectivo, un diagnóstico ambiental de los impactos o daños causados, el que deberá incluir las acciones de restauración y compensación que deberá obligadamente realizar. Dicho diagnóstico deber ser avalado por alguna institución de investigación de reconocido prestigio y presentado para su aprobación en la SEGAM dentro del plazo que ésta determine dentro del procedimiento de inspección y vigilancia.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 58 BIS. El Diagnóstico Ambiental a que se refiere el artículo anterior, deberá contener como mínimo lo siguiente:
+
+I. Datos generales de la obra o actividad y del promovente:
+
+a) Nombre y ubicación de la obra o actividad;
+
+b) Nombre de la persona física o razón social;
+
+c) Nombre del representante legal, y
+
+d) Domicilio para oír y recibir notificaciones.
+
+II. Datos del responsable técnico del estudio de daño ambiental:
+
+a) Nombre o Razón Social;
+
+b) Nombre del responsable técnico del estudio, y
+
+c) Domicilio del responsable técnico del estudio.
+
+II (SIC). Escenario original:
+
+a) Medio inerte (abiótico);
+
+b) Medio biótico, y
+
+c) Medio perceptual.
+
+III. Vinculación con los ordenamientos jurídicos aplicables en materia ambiental:
+
+a) Programa de Ordenamiento Ecológico del Territorio (POET);
+
+b) Decretos y Programas de Manejo de Áreas Naturales Protegidas;
+
+c) Normas Oficiales Mexicanas (NOM's) aplicables al tipo de proyecto, y
+
+d) Legislación ambiental en general.
+
+IV. Descripción de las obras y/o actividades (preparación del sitio, construcción y operación), procesos y operaciones realizadas:
+
+a) Preparación del sitio;
+
+b) Construcción;
+
+c) Operación;
+
+d) Aguas residuales;
+
+e) Residuos sólidos urbanos, de manejo especial y peligrosos generados;
+
+f) Insumos tales como sustancias o materiales peligrosos o recursos naturales, y
+
+g) Emisiones de ruido, vibraciones, energía calorífica, lumínica y radiaciones.
+
+V. Escenario Actual:
+
+a) Medio inerte (abiótico), y
+
+b) Medio biótico.
+
+VI. Impactos:
+
+a) Identificación y valoración de los impactos ambientales generados durante las diferentes etapas del proyecto previas a la solicitud del estudio de daño ambiental, y
+
+b) Evaluación de los impactos y en su caso, de los daños ambientales generados.
+
+VII. Medidas Correctivas (Restauración, saneamiento y compensación):
+
+a) Tabla de impactos y medidas;
+
+b) Escenario esperado con la aplicación de las medidas, y
+
+c) Programa de ejecución de medidas.
+
+VIII. Conclusiones.
+
+IX. Identificación de los instrumentos metodológicos y elementos técnicos que sustentan la información señalada en las fracciones anteriores:
+
+a) Formatos de presentación;
+
+b) Planos definitivos;
+
+c) Fotografías;
+
+d) Videos, y
+
+e) Otros anexos.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 58 TER. La falta de cumplimiento de los responsables en la realización del diagnóstico a que hace referencia el artículo anterior, será motivo de la imposición de las sanciones a que hace referencia el Capítulo III de la Ley.
 
 ### CAPÍTULO IX. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL Y RIESGO
 
@@ -1248,3 +1368,9 @@ P.O. 8 DE OCTUBRE DE 2005.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la entrada en vigor del presente decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2007.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
