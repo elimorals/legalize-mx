@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2007-01-26"
+last_updated: "2007-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -189,7 +189,7 @@ IV.- Los Planes Nacional, Estatal y Municipales de Desarrollo;
 
 V.- Los planes y programas de desarrollo urbano;
 
-VI.- Las declaratorias de provisiones, reservas, destinos y usos de áreas y predios;
+VI.- (REFORMADA [N. DE E. DEROGADA], P.O. 2 DE NOVIEMBRE DE 2007)
 
 VII.- Las declaratorias de conurbación, de conservación y de mejoramiento;
 
@@ -279,9 +279,9 @@ Los notarios y demás fedatarios públicos sólo podrán autorizar escrituras de
 
 Conforme a esta ley, el texto correspondiente a dichas constancias, autorizaciones, permisos o licencias deberá insertarse en los instrumentos públicos respectivos.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
 
-No se podrá inscribir ningún acto, contrato, convenio o afectación en el Registro Público, ni en el Catastro Estatal o Municipal, si no se ajusta a lo dispuesto en la legislación, planes, programas y declaratorias sobre provisiones, reservas, usos y destinos en materia de desarrollo urbano y cuenta con las autorizaciones, permisos o licencias correspondientes, salvo disposición expresa en contrario de la ley.
+No se podrá inscribir ningún acto, contrato, convenio o afectación en el Registro Público, ni en el Catastro Estatal o Municipal, si no se ajusta a lo dispuesto en la legislación, planes, programas y declaratorias sobre provisiones, usos y destinos en materia de desarrollo urbano y cuenta con las autorizaciones, permisos o licencias correspondientes, salvo disposición expresa en contrario de la ley.
 
 ###### ARTICULO 9.
 
@@ -541,9 +541,7 @@ V.- Participar en la formulación, ejecución, control y evaluación de los prog
 
 VI.- Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
-
-VII.- Expedir las declaratorias sobre reservas, usos y destinos de áreas y predios, oyendo la opinión del Consejo Municipal de Desarrollo Urbano y, en su caso, de la Secretaría;
+VII.- (REFORMADA [N. DE E. DEROGADA], P.O. 2 DE NOVIEMBRE DE 2007)
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -667,7 +665,7 @@ El Consejo Consultivo de Desarrollo Urbano del Estado tendrá las siguientes atr
 
 I.- Opinar sobre los diversos programas de desarrollo urbano;
 
-II.- Opinar sobre las declaratorias de provisiones, reservas, usos y destinos de áreas y predios y sobre sus anteproyectos;
+II.- (REFORMADA [N. DE E. DEROGADA], P.O. 2 DE NOVIEMBRE DE 2007)
 
 III.- Emitir opinión sobre las obras de infraestructura y equipamiento urbano que se sometan a su conocimiento;
 
@@ -681,7 +679,7 @@ VII.- Analizar las proposiciones que le formule la comunidad respecto de materia
 
 VIII.- Promover la difusión entre la comunidad de temas e información relativos al desarrollo urbano del Estado;
 
-IX.- Promover el establecimiento de reservas territoriales para el desarrollo urbano e industrial y para la vivienda, cuando estime que coadyuvan a ordenar el crecimiento de los centros de población, aprovechando al máximo la aptitud del suelo; y
+IX.- (REFORMADA [N. DE E. DEROGADA], P.O. 2 DE NOVIEMBRE DE 2007)
 
 X.- Las demás que le señalen esta ley y demás disposiciones jurídicas aplicables.
 
@@ -731,11 +729,13 @@ La Procuraduría General de Justicia en el Estado, la Secretaría de Finanzas, l
 
 Es materia de desarrollo urbano la planeación, ordenación, conservación, mejoramiento y crecimiento de los centros de población, así como las provisiones, usos, reservas y destinos del suelo urbano en el Estado.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 29.
 
-Las declaratorias sobre provisiones, usos, reservas y destinos de áreas y predios, se harán conforme a la utilidad pública y el interés social, así como a la naturaleza jurídica del derecho de propiedad, derivado de lo previsto en el párrafo tercero del artículo 27 de la Constitución General de la República y en los artículos 1323 y 1324 del Código Civil de Coahuila.
+Las declaratorias sobre provisiones, usos, y destinos de áreas y predios, se harán conforme a la utilidad pública y el interés social, así como a la naturaleza jurídica del derecho de propiedad, derivado de lo previsto en el párrafo tercero del artículo 27 de la Constitución General de la República y en los artículos 1323 y 1324 del Código Civil de Coahuila.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 Los ayuntamientos expedirán los reglamentos y disposiciones administrativas que fueren necesarios para tal efecto.
 
@@ -1533,57 +1533,29 @@ Para efectos de ordenar, regular y planear el desarrollo urbano de los centros d
 
 I.- El área urbana: la actualmente ocupada por la infraestructura, equipamientos, construcciones o instalaciones de un centro de población; o que se determine para la fundación del mismo;
 
-II.- El área de reserva: aquella que por sus características y aptitudes urbanas y naturales, por su infraestructura, equipamiento y servicios, se determine conveniente incorporarla a la expansión futura del centro de población; y
+II.- (REFORMADA [N. DE E. DEROGADA], P.O. 2 DE NOVIEMBRE DE 2007)
 
 III.- El área de preservación ecológica: aquella constituida por los elementos naturales que comprenden los condicionantes ecológicos del centro de población.
 
 ###### ARTICULO 111.
 
-Las declaratorias de reservas, usos y destinos de áreas y predios, deberán derivarse de los planes directores de desarrollo urbano o de los de ordenación de las zonas conurbadas, a que se refiere esta ley.
-
-En ningún caso, podrán expedirse dichas declaratorias, en ausencia o contravención a los planes a que se refiere el párrafo anterior.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 112.
 
-El Presidente Municipal, previa aprobación del ayuntamiento en sesión de Cabildo y con la opinión del Consejo Municipal de Desarrollo Urbano respectivo y, en su caso, del Consejo Consultivo de Desarrollo Urbano del Estado, expedirá las declaratorias de reservas, usos o destinos que se deriven de los planes o programas de desarrollo urbano.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 113.
 
-Las declaratorias que establezcan provisiones, reservas, usos y destinos de áreas o predios, entrarán en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado y deberán ser inscritas dentro de los veinte días naturales siguientes, en el Registro Público del Estado, y en los otros registros que correspondan en razón de la materia.
-
-Son responsables del incumplimiento de esta disposición, las autoridades que expidan las citadas declaratorias y no gestionen su inscripción, así como los jefes de las oficinas del registro que se abstengan de llevarla a cabo o la realicen con deficiencia.
-
-No se podrá inscribir ningún acto, convenio o contrato que no se ajuste a lo dispuesto en esta ley, en los programas de desarrollo urbano y en las declaratorias que de éstos deriven.
+(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 114.
 
-Las declaratorias a que se refiere el artículo anterior, deberán expresar las razones de beneficio social que las motivaron.
-
-Son razones de beneficio social, el cumplimiento y la ejecución, por parte de los gobiernos estatal y municipales, de los programas de desarrollo urbano a que se refiere esta ley.
+(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 115.
 
-Las declaratorias de reservas, usos y destinos de áreas y predios, deberán contener:
-
-I.- La demarcación, características y condiciones del área o predio;
-
-II.- Los usos o destinos permitidos, prohibidos o condicionados del área o predio;
-
-III.- Las limitaciones al derecho de propiedad;
-
-IV.- El tiempo de su vigencia;
-
-V.- Las razones de beneficio social que motivan la declaratoria;
-
-VI.- La referencia al programa de desarrollo urbano del cual derivan;
-
-VII.- Las obligaciones y derechos a que estarán sujetos los propietarios o poseedores del área o predios respectivos; y
-
-VIII.- Los demás datos técnicos y jurídicos que apoyen y justifiquen la expedición de la declaratoria.
+(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 116.
 
@@ -1591,9 +1563,11 @@ Las áreas y predios de un centro de población, cualquiera que sea su régimen 
 
 Las tierras que se encuentren en explotación minera, agrícola o forestal o que sean aptas para estos tipos de explotación, deberán utilizarse preferentemente en dichas actividades, de las que sólo podrán retirarse para ser incorporadas al proceso de urbanización de acuerdo con la legislación especial sobre esas materias y conforme a lo previsto en esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 117.
 
-Los usos y destinos que podrán asignarse en los programas de desarrollo urbano y declaratorias son:
+Los usos y destinos que podrán asignarse en los programas de desarrollo urbano son:
 
 I.- Habitacionales;
 
@@ -1633,21 +1607,17 @@ VI.- Las demás normas que de acuerdo con esta ley sean procedentes.
 
 ###### ARTICULO 119.
 
-Las declaratorias de destinos contendrán la delimitación precisa de las zonas o predios de que se trate, así como la descripción del fin o aprovechamiento público a que éstos prevean dedicarse. Una vez publicada e inscrita en los registros correspondientes una declaratoria de destinos, los propietarios de inmuebles que queden comprendidos en la misma, sólo utilizarán los predios en forma que no presente obstáculo al futuro aprovechamiento previsto.
-
-Las declaratorias a que se refiere el presente artículo, quedarán sin efecto si en un plazo de cinco años, a partir de su publicación, las zonas o predios correspondientes no son utilizados conforme al destino previsto.
+(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 120.
 
-Las declaratorias de reservas contendrán la delimitación de las áreas de expansión futura del crecimiento de población. Una vez que dichas declaratorias sean publicadas e inscritas en los registros correspondientes, los predios en ellas comprendidos, se utilizarán por sus propietarios en forma que no presente obstáculo al futuro aprovechamiento determinado por el programa correspondiente.
+(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2007)
 
-En igualdad de circunstancias, dichas declaratorias comprenderán preferentemente terrenos que no sean de propiedad ejidal o comunal.
-
-Cuando se haga necesaria la utilización parcial o total de la reserva, se expedirá un programa parcial de desarrollo urbano que regule las acciones y utilización del área de que se trate y se expedirán las declaratorias de usos y destinos que sean necesarias. En tal caso de áreas ejidales y comunales, se promoverán las expropiaciones o aportaciones correspondientes, en los términos de las Leyes Agraria y General de Asentamientos Humanos.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 121.
 
-Las zonas de reserva, deberán mantenerse inalterables, en tanto no se expidan las declaratorias de usos y destinos y las normas de planificación urbana correspondiente, que determinen el aprovechamiento que podrá otorgarse al suelo.
+Las zonas de reserva, deberán mantenerse inalterables, en tanto no se expidan las normas de planificación urbana correspondiente, que determinen el aprovechamiento que podrá otorgarse al suelo.
 
 Igualmente, deberá mantenerse inalterable el área de preservación ecológica durante el término que fije el programa de desarrollo urbano respectivo, que en ningún caso, será menor de diez años.
 
@@ -1655,13 +1625,17 @@ Igualmente, deberá mantenerse inalterable el área de preservación ecológica 
 
 El Gobierno del Estado y los ayuntamientos, tendrán derecho de preferencia para adquirir predios comprendidos por las declaratorias de reserva, cuando dichos predios sean puestos a la venta o, a través de cualquier acto jurídico, se pretenda hacerlos objeto de una trasmisión de propiedad; igual derecho de preferencia tendrán, en caso de remate judicial o administrativo, al precio en que se finque el remate al mejor postor. Para tal efecto, los propietarios de los mismos que deseen enajenarlos, los notarios públicos, los jueces y las autoridades administrativas, deberán notificar al Gobierno del Estado y al Municipio correspondiente, dando a conocer el monto de la operación a fin de que aquellos, en un plazo no mayor de 30 días naturales, ejerzan el derecho de preferencia si lo consideran conveniente.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 123.
 
-Cuando para el cumplimiento de los programas de desarrollo urbano y de las declaratorias que de ellos se deriven, sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente por causa de utilidad pública, actuará de conformidad con las leyes de la materia que fueren aplicables.
+Cuando para el cumplimiento de los programas de desarrollo urbano, sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente por causa de utilidad pública, actuará de conformidad con las leyes de la materia que fueren aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 124.
 
-Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso de suelo u otros aprovechamientos de inmuebles que contravengan las leyes, reglamentos, programas o declaratorias de desarrollo urbano aplicables y originen un deterioro en la calidad de vida de los asentamientos humanos, los residentes del área que resulten directamente afectados tendrán derecho a exigir que se lleven a cabo las suspensiones, demoliciones o modificaciones que sean necesarias para cumplir con los citados ordenamientos. En caso de que se expidan licencias, permisos o autorizaciones contraviniendo lo anterior éstas serán nulas y no producirán efecto jurídico alguno y los servidores públicos responsables serán sancionados conforme lo establece esta ley.
+Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso de suelo u otros aprovechamientos de inmuebles que contravengan las leyes, reglamentos o programas aplicables y originen un deterioro en la calidad de vida de los asentamientos humanos, los residentes del área que resulten directamente afectados tendrán derecho a exigir que se lleven a cabo las suspensiones, demoliciones o modificaciones que sean necesarias para cumplir con los citados ordenamientos. En caso de que se expidan licencias, permisos o autorizaciones contraviniendo lo anterior éstas serán nulas y no producirán efecto jurídico alguno y los servidores públicos responsables serán sancionados conforme lo establece esta ley.
 
 Este derecho se ejercerá ante las autoridades competentes o sus superiores inmediatos, quienes oirán previamente a los interesados, y en su caso, a los afectados, y deberán resolver en un término no mayor de 30 días naturales, contados a partir de la fecha de recepción del escrito correspondiente.
 
@@ -3252,3 +3226,9 @@ P.O. 26 DE ENERO DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
