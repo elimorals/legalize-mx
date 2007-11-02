@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2006-06-22"
+last_updated: "2007-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -138,13 +138,21 @@ I.- Los educandos y educadores;
 
 II.- Las autoridades educativas;
 
-III.- Los planes, programas, métodos y materiales educativos;
+> <small>(ADICIONADA, D.O.F. 2 DE NOVIEMBRE DE 2007)</small>
 
-IV.- Las instituciones educativas del Estado y de sus organismos descentralizados;
+III.- El Consejo Nacional Técnico de la Educación y los correspondientes en las entidades federativas;
 
-V.- Las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios, y
+IV.- Los planes, programas, métodos y materiales educativos;
 
-VI.- Las instituciones de educación superior a las que la ley otorga autonomía.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2007)</small>
+
+V.- Las instituciones educativas del estado y de sus organismos descentralizados;
+
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2007)</small>
+
+VI.- Las instituciones de los particulares, con autorización o con reconocimiento de validez oficial de estudios, y
+
+VII.- Las instituciones de educación superior a las que la ley otorga autonomía.
 
 Las instituciones del sistema educativo nacional impartirán educación de manera que permita al educando incorporarse a la sociedad y, en su oportunidad, desarrollar una actividad productiva y que permita, asimismo, al trabajador estudiar.
 
@@ -156,9 +164,21 @@ Para efectos de la presente Ley, se entenderá por:
 
 I.- Autoridad educativa federal, o Secretaria, a la Secretaria de Educación Pública de la Administración Pública Federal;
 
-II.- Autoridad educativa local al ejecutivo de cada uno de los estados de la Federación, así como a las entidades que, en su caso, establezcan para el ejercicio de la función social educativa, y
+II.- Autoridad educativa local al ejecutivo de cada uno de los estados de la Federación, así como a las entidades que, en su caso, establezcan para el ejercicio de la función social educativa, y (sic)
 
-III.- Autoridad educativa municipal al ayuntamiento de cada municipio.
+III.- Autoridad educativa municipal al ayuntamiento de cada municipio;
+
+> <small>(ADICIONADA, D.O.F. 2 DE NOVIEMBRE DE 2007)</small>
+
+IV.- El Consejo Nacional Técnico de la Educación, y los correspondientes en las entidades federativas, son órganos de consulta de las autoridades educativas en sus respectivos ámbitos de competencia.
+
+Las funciones de estos Consejos son:
+
+a. Realizar investigaciones, estudios y análisis de carácter técnico-pedagógico acerca de planes y programas de estudio, contenidos, métodos, materiales de estudio, materiales didácticos y de apoyo al proceso educativo, métodos e instrumentos de evaluación, diseño de espacios, mobiliario y equipos y, en general, de todos los elementos que integran el currículo de la educación básica y los factores que afectan la calidad de los servicios.
+
+b. Hacer un seguimiento permanente, en el ámbito de su competencia, del funcionamiento y calidad de los servicios de educación básica así como de sus resultados, y proponer a las autoridades educativas, para su consideración, las medidas y reformas de carácter técnico que consideren resulten pertinentes.
+
+c. Emitir opinión fundada respecto a planes y programas de estudio que proponga la autoridad competente, las actualizaciones de libros de texto, los libros y materiales didácticos y los contenidos educativos, así como los requisitos académicos de los planes y programas de estudio de los particulares.
 
 ### CAPITULO II. DEL FEDERALISMO EDUCATIVO
 
@@ -558,11 +578,13 @@ En los programas de estudio deberán establecerse los propósitos específicos d
 
 La Secretaría determinará los planes y programas de estudio, aplicables y obligatorios en toda la República Mexicana, de la educación preescolar, la primaria, la secundaria, la educación normal y demás para la formación de maestros de educación básica, de conformidad a los principios y criterios establecidos en los artículos 7 y 8 de esta Ley.
 
-Para tales efectos la Secretaría considerará las opiniones de las autoridades educativas locales, y de los diversos sectores sociales involucrados en la educación, expresadas a través del Consejo Nacional de Participación Social en la Educación a que se refiere el artículo 72.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+Para tales efectos la Secretaría considerará las opiniones de las autoridades educativas locales, y de los diversos sectores sociales involucrados en la educación, expresadas a través del Consejo Nacional Técnico de la Educación y del Consejo Nacional de Participación Social en la Educación a que se refiere el artículo 72.
 
-Las autoridades educativas locales propondrán para consideración y, en su caso, autorización de la Secretaría, contenidos regionales que -sin mengua del carácter nacional de los planes y programas citados- permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones, los ecosistemas y demás aspectos propios de la entidad y municipios respectivos.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2007)</small>
+
+Las autoridades educativas locales, previa consulta al Consejo Estatal Técnico de Educación correspondiente, propondrán para consideración y, en su caso, autorización de la Secretaría, contenidos regionales que -sin mengua del carácter nacional de los planes y programas citados- permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones, los ecosistemas y demás aspectos propios de la entidad y municipios respectivos.
 
 La Secretaría realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas a que se refiere el presente artículo, para mantenerlos permanentemente actualizados.
 
@@ -1015,3 +1037,7 @@ D.O.F. 22 DE JUNIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE NOVIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
