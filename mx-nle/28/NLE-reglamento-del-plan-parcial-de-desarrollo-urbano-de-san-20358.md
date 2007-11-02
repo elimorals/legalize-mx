@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-plan-parcial-de-desarrollo-urbano-de-san-20358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-03-06"
-last_updated: "2002-07-15"
+last_updated: "2007-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL PLAN PARCIAL DE DESARROLLO URBANO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de marzo de 1995.
 
@@ -1013,6 +1013,18 @@ El remetimiento mínimo frontal de cualquier edificación será de 3% del promed
 
 El remetimiento mínimo lateral de cualquier edificación, cuando sea exigible, debe medir como mínimo el 5% de la longitud del lado del predio o 1.00 metros del límite del predio al eje de construcción, cualquiera que sea mayor, al menos en uno de los lados del predio.
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 42 Bis.
+
+Los lineamientos consistentes en remetimientos frontales y laterales, podrán ser modificados hasta un 10%, previa solicitud del propietario interesado presentada ante el titular de la Secretaría, a la que se acompañe escrito firmado por los propietarios de los predios colindantes inmediatos, en donde se manifieste la conformidad con dicha modificación. Lo anterior, tratándose de los corredores urbanos a que se refiere la fracción III del articulo 53 Bis del presente reglamento.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 42 Bis 1.
+
+Los lineamientos consistentes en altura, COS y CAS, podrán ser modificados hasta un 30%, previa solicitud del propietario interesado presentada ante el titular de la Secretaría, a la que se acompañe escrito firmado por los propietarios de los predios colindantes inmediatos, en donde se manifieste la conformidad con dicha modificación. Lo anterior, tratándose de los corredores urbanos a que se refiere la fracción III del artículo 53 Bis del presente reglamento.
+
 ###### ARTICULO 43.
 
 Los lotes de vivienda unifamiliar deberán respetar siempre como mínimo una superficie de 18.00 metros cuadrados al frente del mismo, 3.00 metros de frente por 6.00 metros de fondo que estará destinada únicamente para estacionamiento ó área verde y en la parte posterior una superficie de 20.00 metros cuadrados que se destinará exclusivamente para área verde.
@@ -1062,6 +1074,34 @@ La utilización del suelo se medirá dividiendo el área de construcción total 
 ###### ARTICULO 53.
 
 El "CUS" máximo permitido para cualquier uso será el que indiquen el Plan Director de Desarrollo Urbano del Area Metropolitana de Monterrey 1988-2010 ó el Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza, Nuevo León, según el Distrito ó Barrio en que se encuentre. En Sectores Especiales será determinado por la Dirección de Desarrollo Urbano, en cuanto sea de competencia Municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 53 BIS.- Se podrá transferir hasta un 50% del Coeficiente de Uso de Suelo del lote o predio transmisor al receptor. Siempre que se cumpla con lo siguiente:
+
+I.- Que tanto el inmueble que transfiera el CUS como el que lo reciba tengan reconocido en el Plan o en documento expedido por la autoridad municipal un uso de suelo comercial, de servicios o multifamiliar;
+
+II.- Que los inmuebles implicados en la transferencia se ubiquen en el mismo corredor urbano;
+
+III.- Que se trate de los siguientes corredores urbanos:
+
+a) Avenida La Juventud, de la Avenida Cristina Larralde hasta Avenida Adolfo Mateos.
+
+b) Avenida Sendero en toda su extensión dentro de los límites territoriales de este Municipio.
+
+c) Avenida Manuel L. Barragán desde la Avenida Almazán a la Avenida Sendero.
+
+IV.- Que se presente convenio o documento en el cual los propietarios de los lotes o predios implicados en la transferencia manifiesten su consentimiento y el porcentaje de coeficiente de uso de suelo a transferir y recibir;
+
+V.- Que se presente solicitud por escrito firmada por los propietarios de los lotes o predios implicados en la transferencia, acompañada de las escrituras de propiedad, del comprobante del pago del impuesto predial y de las autorizaciones de construcción, en caso de no ser terreno baldío.
+
+Una vez hecho lo anterior, la Secretaría elaborará un dictamen técnico en el que se determine la factibilidad de la transferencia. De ser procedente se emitirá el acuerdo de autorización, mismo que se notificará al interesado, quien deberá tramitar su inscripción ante el Registro Público de la Propiedad y del Comercio.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 53 BIS 1.- El titular de la Secretaría analizará la solicitud de transferencia de Coeficiente de Uso de Suelo, si se presentó con toda la documentación a que se refiere el artículo que antecede, se expedirá la autorización correspondiente.
+
+El acuerdo que autorice la transferencia de Coeficiente de Uso de Suelo deberá ser inscrito en el Registro Público de la Propiedad y del Comercio, debiendo entregar una constancia de la inscripción a la Secretaría, la cual formará un archivo de estas autorizaciones para el control del ejercicio del Coeficiente de Uso de Suelo.
 
 ### CAPITULO QUINTO. AREAS DE ESTACIONAMIENTO
 
@@ -1149,9 +1189,15 @@ Toda edificación con Uso diferente al habitacional y que sea de competencia Mun
 
 En cuanto a edificaciones localizadas en Corredores Urbanos y Sectores Especiales, deberán sujetarse a lo establecido en la tabla "MATRIZ DE LINEAMIENTOS GENERALES DE CONSTRUCCION DE CORREDORES URBANOS", que forman parte de este Reglamento.
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 72 Bis.
+
+A toda edificación con uso diferente al habitacional unifamiliar, respecto de la altura, se le podrá agregar la mitad de la distancia que exista entre el punto de desplante de la edificación y la colindancia del más próximo predio habitacional unifamiliar, tratándose de los corredores urbanos a que se refiere la fracción III del artículo 53 Bis del presente reglamento.
+
 ###### ARTICULO 73.
 
-Cuando se colinde con una edificación unifamiliar, ninguna edificación podrá tener más de siete metros de altura en su línea de remetimiento mínimo más próxima a aquella, salvo los casos de Corredores Urbanos.
+(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2007)
 
 ## TITULO QUINTO. URBANIZACION
 
@@ -1492,3 +1538,13 @@ TERCERO.- Para los efectos a que se refiere el artículo 12 del presente Reglame
 P.O. 15 DE JULIO DE 2002.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 2 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones conferidas en la presente reforma serán ejercidas por la dependencia que de acuerdo al Reglamento Orgánico de la Administración Pública Municipal de San Nicolás de los Garza, Nuevo León, realice las funciones en materia de desarrollo urbano.
