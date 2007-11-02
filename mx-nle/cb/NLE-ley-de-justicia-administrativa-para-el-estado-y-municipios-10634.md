@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2005-12-27"
+last_updated: "2007-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -37,7 +37,7 @@ NUM. 383
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-## TÍTULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA
+## TITULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -159,7 +159,7 @@ V.- Que impongan sanciones no corporales por infracción a las leyes y reglament
 
 VI.- Que determinen responsabilidad administrativa en contra de los servidores públicos del Estado o de los Municipios;
 
-VII.- Los dictados en materia de pensiones con cargo al erario estatal o a cargo de los municipios de la Entidad, o de las instituciones estatales o municipales de seguridad social;
+VII.- (DEROGADA, P.O. 2 DE NOVIEMBRE DE 2007)
 
 VIII.- Que se refieran a la interpretación, cumplimiento o incumplimiento de contratos administrativos, en los que sean parte el Estado o los Municipios, o sus entidades paraestatales o paramunicipales;
 
@@ -1030,3 +1030,9 @@ P.O. 27 DE DICIEMBRE DE 2005.
 Artículo Primero.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- El Tribunal de lo Contencioso Administrativo conforme a su presupuesto y con cargo a él, ejercerá las acciones que resulten necesarias para la asignación del personal y presupuesto para el funcionamiento de la Dirección de Orientación y Consulta Ciudadana.
+
+P.O. 2 DE NOVIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos actualmente en trámite en el Tribunal de lo Contencioso Administrativo, que sustenten la competencia de éste en la disposición que se deroga mediante el presente Decreto, continuarán su desahogo hasta su total resolución en dicho Tribunal.
