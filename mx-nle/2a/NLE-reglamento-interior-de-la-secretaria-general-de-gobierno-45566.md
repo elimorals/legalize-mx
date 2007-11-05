@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-general-de-gobierno-45566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-01"
-last_updated: "2005-07-01"
+last_updated: "2007-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2005.
 
@@ -95,23 +95,41 @@ b) Dirección General Administrativa, integrada por:
 
 c) Secretaría Particular.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+d) Coordinación General de Comunicación Social y Relaciones Institucionales, integrada por:
+
+1. Dirección de Relaciones Federales, Consulares y de Atención al Migrante;
+
+2. Dirección de Comunicación Social;
+
+3. Dirección de Prensa;
+
+4. Dirección de Televisión Estatal; y
+
+5. Dirección de Radio Nuevo León.
+
 II. Subsecretaría General de Gobierno, integrada por:
 
 a) Dirección de Gobierno;
 
-b) Dirección de Asuntos Agrarios;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
 
-c) Dirección de Juntas de Mejoramiento Moral, Cívico y Material;
+b) Dirección de Asuntos Agrarios; y
 
-d) Dirección de Relaciones Federales, Consulares y Atención al Migrante;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
 
-e) Dirección de Comunicación Social;
+c) Dirección de Juntas de Mejoramiento Moral, Cívico y Material.
 
-f) Dirección de Prensa;
+d) (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
 
-g) Dirección de Televisión Estatal; y
+e) (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
 
-h) Dirección de Radio Nuevo León.
+f) (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
+
+g) (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
+
+h) (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
 
 III. Subsecretaría de Desarrollo Político y Relaciones Institucionales, integrada por:
 
@@ -139,11 +157,21 @@ V. Dirección de Protección Civil.
 
 VI. Órgano administrativo desconcentrado. Coordinación de Desarrollo y Fortalecimiento Municipal, integrada por:
 
-a) Zona Norte;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
 
-b) Zona Metropolitana; y
+a) Dirección de Desarrollo Municipal Zona Norte;
 
-c) Zona Sur.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+b) Dirección de Desarrollo Municipal Zona Periférica;
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+c) Dirección de Desarrollo Municipal Zona Metropolitana; y
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+d) Dirección de Desarrollo Municipal Zona Sur.
 
 ###### Artículo 6.
 
@@ -511,11 +539,141 @@ VII. Administrar, en coordinación con la Dirección General Administrativa, los
 
 VIII. Las demás que le asigne el Secretario o cualquier otra disposición legal.
 
-#### Sección 1. De la Subsecretaría General de Gobierno y sus Direcciones
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+#### Sección 4. De la Coordinación General de Comunicación Social y Relaciones Institucionales
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 23 BIS. Corresponde al Coordinador General de Comunicación Social y Relaciones Institucionales.
+
+I. Establecer los lineamientos generales para la planeación, autorización, coordinación, supervisión y evaluación de las estrategias, los programas y las campañas de comunicación social de las dependencias y entidades de la Administración Pública del Estado;
+
+II. Proponer las campañas de comunicación institucional del Titular del Poder Ejecutivo y programar su difusión y cobertura;
+
+III. Promover la creación de vínculos institucionales con los medios de comunicación y el Gobierno del Estado;
+
+IV. Coordinar a las áreas de comunicación social de la Administración Pública del Estado;
+
+V. Coadyuvar en la coordinación de la comunicación con las diversas instancias del Gobierno Federal;
+
+VI. Coordinar las comunicaciones institucionales con el Cuerpo Diplomático;
+
+VII. Establecer las bases para coordinar la vinculación de las áreas de comunicación del Titular del Poder Ejecutivo con las similares del Gobierno Federal, de otros Estados o de los Municipios;
+
+VIII. Promover la creación de vínculos institucionales con Estados o provincias extranjeras;
+
+IX. Coadyuvar en la atención protocolaria de los integrantes del cuerpo diplomático que visiten el Estado;
+
+X. Proponer la realización de programas orientados a brindar asistencia a migrantes nuevoleoneses en el extranjero, en coordinación con instancias públicas o privadas;
+
+XI. Formular y proponer las políticas generales de información, producción, operación y programación de Televisión Estatal y Radio Nuevo León;
+
+XII. Supervisar las actividades de comunicación social, la programación de contenidos, ampliación de cobertura, y propuesta de contratos o convenios relacionados con las actividades de Televisión Estatal y Radio Nuevo León;
+
+XIII. Las demás que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 23 BIS 1. Son facultades del Director de Relaciones Federales, Consulares y de Atención al Migrante:
+
+I. Auxiliar en la conducción y coordinación de las relaciones institucionales con el Gobierno Federal;
+
+II. Coadyuvar en la coordinación y conducción de las relaciones del Ejecutivo con el cuerpo diplomático;
+
+III. Promover y, en su caso, realizar acciones coordinadas con dependencias y entidades federales para atender problemáticas específicas locales en materia de su competencia;
+
+IV. Coordinar la recepción y bienvenida al Estado de los embajadores y personal diplomático acreditado en el País;
+
+V. Coordinar las ceremonias de hermanamiento del Estado con otros Estados o provincias extranjeras;
+
+VI. Brindar información, asesoría y, en su caso, apoyar a migrantes en la gestión para la obtención de permisos temporales de trabajo en el extranjero y a los familiares de éstos en situación vulnerable;
+
+VII. Presentar propuestas de iniciativas y reformas legales tendientes a la protección de migrantes;
+
+VIII. Realizar programas y acciones de asistencia a migrantes nuevoleoneses en el extranjero, estableciendo, en su caso, coordinación con instancias públicas o privadas; y
+
+IX. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 23 BIS 2. Son facultades del Director de Comunicación Social:
+
+I. Proponer, coordinar, ejecutar y evaluar, las estrategias y programas de comunicación social del Gobierno del Estado;
+
+II. Difundir las actividades del Poder Ejecutivo del Estado y de los titulares de las dependencias y entidades;
+
+III. Proponer y programar las campañas institucionales del Titular del Poder Ejecutivo;
+
+IV. Elaborar, definir y coordinar estrategias discursivas sobre las acciones del Titular del Poder Ejecutivo;
+
+V. Establecer lineamientos para el uso de los elementos gráficos o conceptuales que den identidad a la administración pública;
+
+VI. Definir estrategias mediáticas para las intervenciones de los servidores públicos del Gobierno del Estado en la comunicación de acciones de gobierno;
+
+VII. Vincular a los medios de comunicación con el Gobierno del Estado;
+
+VIII. Coordinar las relaciones de las áreas de comunicación del Titular del Poder Ejecutivo con las similares del Gobierno Federal, de otros Estados o de los Municipios; y
+
+IX. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 23 BIS 3. Son facultades del Director de Prensa:
+
+I. Planear y coordinar acciones para dar cobertura e informar de manera oportuna a la sociedad de los planes, programas y acciones del Titular del Poder Ejecutivo;
+
+II. Coordinar y mantener una relación permanente con los medios de información locales y nacionales;
+
+III. Coordinar con el área de agenda la presencia del Titular del Poder Ejecutivo en los medios de comunicación locales, nacionales, corresponsales y enviados;
+
+IV. Atender los asuntos y representación del área de prensa en el ámbito local, nacional e internacional, cuando corresponda;
+
+V. Coordinar y supervisar las actividades operativas con los medios de comunicación;
+
+VI. Llevar la memoria gráfica e histórica de las actividades del Titular del Poder Ejecutivo; y
+
+VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 23 BIS 4. Son facultades del Director de Televisión Estatal:
+
+I. Dirigir y ejecutar la planeación, producción o transmisión de los programas de televisión;
+
+II. Difundir programas culturales entre la población del Estado, promoviendo la identidad regional, urbana y rural;
+
+III. Ofrecer una programación alternativa que permita al público contar con opciones de contenido social, cultural, educacional y deportivo;
+
+IV. Facilitar el acceso a la comunidad a servicios que promueven su desarrollo integral mediante información útil y oportuna;
+
+V. Elaborar y difundir programas televisivos que permitan coordinar esfuerzos de la sociedad y del gobierno;
+
+VI. Crear y operar mecanismos para que la sociedad se involucre en el mejoramiento permanente de la Televisión Estatal y se logre una real identificación y sentido de permanencia; y
+
+VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 23 BIS 5. Son facultades del Director de Radio Nuevo León:
+
+I. Dirigir la operación de las estaciones de radio permisionadas al Gobierno del Estado, en los términos de las disposiciones aplicables;
+
+II. Formular y proponer las políticas generales de información, producción, operación y programación de Radio Nueva León;
+
+III. Coordinar y llevar a cabo acciones de planeación, producción y transmisión de programas de radio que tengan como fin propiciar la comunicación entre individuos, grupos e instituciones, promover el diálogo social, recoger y difundir la opinión ciudadana, coadyuvar a difundir los derechos y obligaciones del ciudadano y en general, informar a la población sobre los hechos que sucedan local, nacional e internacionalmente;
+
+IV. Difundir, divulgar y promover el conocimiento, la apreciación y el disfrute de expresiones artísticas, intelectuales y populares, los avances científicos y tecnológicos, así como orientar sobre prácticas sanitarias y preservación ecológica, fomentar el deporte y en general la formación integral del educando;
+
+V. Supervisar la transmisión, en los términos de la legislación aplicable, de los programas de los partidos políticos;
+
+VI. Proponer a sus superiores jerárquicos la celebración de los convenios que se requieran para la operación de Radio Nuevo León y para la consecución de sus objetivos y programas; y
+
+VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
 ### Capítulo VII. De las atribuciones de los demás titulares de las Unidades Administrativas y sus Direcciones
 
-#### Sección 2. De la Subsecretaría de Desarrollo Político y Relaciones Institucionales y sus Direcciones
+#### Sección 1. De la Subsecretaría General de Gobierno y sus Direcciones
 
 ###### Artículo 24.
 
@@ -531,13 +689,13 @@ IV. Coordinar y vigilar la intervención del Estado en los programas que desarro
 
 V. Supervisar la correcta aplicación de la Ley que crea las Juntas de Mejoramiento Moral, Cívico y Material en el Estado de Nuevo León;
 
-VI. Coadyuvar en el ámbito de su competencia, en la comunicación y desarrollo de relaciones con el gobierno federal, así como en las visitas oficiales que se hagan en el Estado;
+VI. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2007)
 
-VII. Coordinar la atención de los embajadores, cónsules y demás personal diplomático acreditado en el País con residencia en el Estado o de visita en el mismo;
+VII. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2007)
 
-VIII. Coordinar la difusión de las actividades del Ejecutivo del Estado a través de los medios de comunicación;
+VIII. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2007)
 
-IX. Autorizar los proyectos de operación para la Televisión Estatal y Radio Nuevo León, así como supervisar el desarrollo de los mismos; y
+IX. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2007)
 
 X. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
@@ -613,103 +771,25 @@ XV. Las demás facultades que le confieran las disposiciones jurídicas aplicabl
 
 ###### Artículo 28.
 
-Son facultades del Director de Relaciones Federales, Consulares y de Atención al Migrante:
-
-I. Auxiliar en la conducción y coordinación de las relaciones institucionales con el Gobierno Federal;
-
-II. Coadyuvar en la coordinación y conducción de las relaciones del Ejecutivo con el cuerpo diplomático;
-
-III. Promover y, en su caso, realizar acciones coordinadas con dependencias y entidades federales para atender problemáticas específicas locales en materia de su competencia;
-
-IV. Coordinar la recepción y bienvenida al Estado de los embajadores y personal diplomático acreditado en el País;
-
-V. Coordinar las ceremonias de hermanamiento del Estado con otros Estados o provincias extranjeras;
-
-VI. Brindar información, asesoría y, en su caso, apoyar a migrantes en la gestión para la obtención de permisos temporales de trabajo en el extranjero y a los familiares de estos en situación vulnerable;
-
-VII. Presentar propuestas de iniciativas y reformas legales tendientes a la protección de migrantes;
-
-VIII. Realizar programas y acciones de asistencia a migrantes nuevoleoneses en el extranjero, estableciendo, en su caso, coordinación con instancias públicas o privadas; y
-
-IX. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 29.
 
-Son facultades del Director de Comunicación Social:
-
-I. Proponer, coordinar, ejecutar y evaluar, las estrategias y programas de comunicación social de Gobierno del Estado;
-
-II. Difundir las actividades del Poder Ejecutivo del Estado y de los titulares de las dependencias y entidades;
-
-III. Proponer y programar las campañas institucionales del Titular del Poder Ejecutivo;
-
-IV. Elaborar, definir y coordinar estrategias discursivas sobre las acciones del Titular del Poder Ejecutivo;
-
-V. Establecer lineamientos para el uso de los elementos gráficos o conceptuales que den identidad a la administración pública;
-
-VI. Definir estrategias mediáticas para las intervenciones de los servidores públicos del Gobierno del Estado en la comunicación de acciones de gobierno;
-
-VII. Vincular a los medios de comunicación con el Gobierno del Estado;
-
-VIII. Coordinar las relaciones de las áreas de comunicación del Titular del Poder Ejecutivo con las similares del Gobierno Federal, de otros Estados o de los Municipios; y
-
-IX. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 30.
 
-Son facultades del Director de Prensa:
-
-I. Planear y coordinar acciones para dar cobertura e informar de manera oportuna a la sociedad de los planes, programas y acciones del Titular del Poder Ejecutivo;
-
-II. Coordinar y mantener una relación permanente con los medios de información locales y nacionales;
-
-III. Coordinar con el área de agenda la presencia del Titular del Poder Ejecutivo en los medios de comunicación locales, nacionales, corresponsales y enviados;
-
-IV. Atender los asuntos y representación del área de prensa en el ámbito local, nacional e internacional, cuando corresponda;
-
-V. Coordinar y supervisar las actividades operativas con los medios de comunicación;
-
-VI. Llevar la memoria gráfica e histórica de las actividades del Titular del Poder Ejecutivo; y
-
-VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 31.
 
-Son facultades del Director de Televisión Estatal:
-
-I. Dirigir y ejecutar la planeación, producción o transmisión de los programas de televisión;
-
-II. Difundir programas culturales entre la población del Estado, promoviendo la identidad regional, urbana y rural;
-
-III. Ofrecer una programación alternativa que permita al público contar con opciones de contenido social, cultural, educacional y deportivo;
-
-IV. Facilitar el acceso a la comunidad a servicios que promueven su desarrollo integral mediante información útil y oportuna;
-
-V. Elaborar y difundir programas televisivos que permitan coordinar esfuerzos de la sociedad y del gobierno;
-
-VI. Crear y operar mecanismos para que la sociedad se involucre en el mejoramiento permanente de la Televisión Estatal y se logre una real identificación y sentido de permanencia; y
-
-VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 32.
 
-Son facultades del Director de Radio Nuevo León:
+(DEROGADO, P.O. 5 DE NOVIEMBRE DE 2007)
 
-I. Dirigir la operación de las estaciones de radio permisionadas al Gobierno del Estado, en los términos de las disposiciones aplicables;
-
-II. Formular y proponer las políticas generales de información, producción, operación y programación de Radio Nuevo León;
-
-III. Coordinar y llevar a cabo acciones de planeación, producción y transmisión de programas de radio que tengan como fin propiciar la comunicación entre individuos, grupos e instituciones, promover el diálogo social, recoger y difundir la opinión ciudadana, coadyuvar a difundir los derechos y obligaciones del ciudadano y en general, informar a la población sobre los hechos que sucedan local, nacional e internacionalmente;
-
-IV. Difundir, divulgar y promover el conocimiento, la apreciación y el disfrute de expresiones artísticas, intelectuales y populares, los avances científicos y tecnológicos, así como orientar sobre prácticas sanitarias y preservación ecológica, fomentar el deporte y en general la formación integral del educando;
-
-V. Supervisar la transmisión, en los términos de la legislación aplicable, de los programas de los partidos políticos;
-
-VI. Proponer a sus superiores jerárquicos la celebración de los convenios que se requieran para la operación de Radio Nuevo León y para la consecución de sus objetivos y programas; y
-
-VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
-
-#### Sección 3. De la Subsecretaría de Atención Ciudadana y Asuntos Religiosos y sus Direcciones
+#### Sección 2. De la Subsecretaría de Desarrollo Político y Relaciones Institucionales y sus Direcciones
 
 ###### Artículo 33.
 
@@ -803,7 +883,7 @@ XII. Las demás facultades que le confieran las disposiciones jurídicas aplicab
 
 La Dirección contará con un Secretario Técnico, nombrado por el Secretario, quien apoyará la planeación y coordinación de los programas vinculados con población.
 
-#### Sección 4. De la Dirección de Protección Civil
+#### Sección 3. De la Subsecretaría de Atención Ciudadana y Asuntos Religiosos y sus Direcciones
 
 ###### Artículo 37.
 
@@ -971,7 +1051,7 @@ IV. Promover y en su caso apoyar investigaciones históricas, así como difundir
 
 V. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-#### Sección 5. Del Órgano Administrativo Desconcentrado denominado Coordinación de Desarrollo y Fortalecimiento Municipal
+#### Sección 4. De la Dirección de Protección Civil
 
 ###### Artículo 44.
 
@@ -1005,6 +1085,8 @@ XIII. Difundir entre la población instrucciones en materia de protección civil
 
 XIV. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
+#### Sección 5. Del Órgano Administrativo Desconcentrado denominado Coordinación de Desarrollo y Fortalecimiento Municipal
+
 ###### Artículo 45.
 
 Además de las facultades comunes descritas en el artículo 12 de este reglamento, corresponde al órgano administrativo desconcentrado denominado Coordinación de Desarrollo y Fortalecimiento Municipal:
@@ -1035,19 +1117,25 @@ XII. Fomentar y apoyar la realización de programas de colaboración intermunici
 
 XIII. Las demás facultades que le confieran las disposiciones jurídicas aplicables, el Titular del Poder Ejecutivo y el Secretario.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 46.
 
-Para el ejercicio de sus facultades y despacho de los asuntos de su competencia, la Coordinación de Desarrollo y Fortalecimiento Municipal contará con tres unidades administrativas, cuyos titulares actuarán con respeto a la autonomía municipal de las siguientes zonas:
+Para el ejercicio de sus facultades y despacho de los asuntos de su competencia, la Coordinación de Desarrollo y Fortalecimiento Municipal contará con cuatro Direcciones, cuyos titulares actuarán con pleno respeto a la autonomía municipal en las siguientes zonas:
 
-I. Zona Norte, que comprende los municipios de Abasolo, Agualeguas, Anáhuac, Bustamante, Cerralvo, Ciénega de Flores, Dr. González, Carmen, Gral. Treviño, Gral. Zuazua, Hidalgo, Higueras, Lampazos de Naranjo, Los Ramones, Marín, Melchor Ocampo, Mina, Parás, Pesquería, Sabinas Hidalgo, Salinas Victoria, Vallecillo y Villaldama;
+I. Dirección de Desarrollo Municipal Zona Norte. Comprende los municipios de Agualeguas, Los Aldamas, Anáhuac, Bustamante, Cerralvo, China, Dr. Coss, Gral. Bravo, Gral. Treviño, Los Herreras, Lampazos, Melchor Ocampo, Parás, Los Ramones, Sabinas Hidalgo y Villaldama.
 
-II. Zona Metropolitana, que comprende los municipios de Apodaca, Juárez, Gral. Escobedo, García, Guadalupe, Monterrey, San Pedro Garza García, San Nicolás de los Garza y Santa Catarina; y
+II. Dirección de Desarrollo Municipal Zona Periférica. Comprende los municipios de Abasolo, Cadereyta Jiménez, El Carmen, Ciénega de Flores, Dr. González, General Zuazua, Hidalgo, Higueras, Marín, Mina, Pesquería, Salinas Victoria, y Santiago.
 
-III. Zona Sur, que comprende los municipios de Allende, Aramberri, Cadereyta Jiménez, China, Dr. Coss, Dr. Arroyo, Galeana, Gral. Bravo, Gral. Terán, Gral. Zaragoza, Hualahuises, Iturbide, Linares, Los Aldamas, Los Herreras, Mier y Noriega, Montemorelos, Rayones y Santiago.
+III. Dirección de Desarrollo Municipal Zona Metropolitana. Comprende los municipios de Apodaca, Juárez, General Escobedo, García, Guadalupe, Monterrey, San Pedro Garza García, San Nicolás de los Garza y Santa Catarina.
+
+IV. Dirección de Desarrollo Municipal Zona Sur. Comprende los municipios de Allende, Aramberri, Dr. Arroyo, Galeana, Gral. Terán, Gral. Zaragoza, Hualahuises, Iturbide, Linares, Mier y Noriega, Montemorelos y Rayones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 47.
 
-Los encargados de las unidades administrativas de la Coordinación de Desarrollo y Fortalecimiento Municipal podrán ejercer las facultades descritas en el artículo 13 de este reglamento, así como las siguientes:
+Los Directores de la Coordinación de Desarrollo y Fortalecimiento Municipal podrán ejercer las facultades descritas en el artículo 13 de este reglamento, así como las siguientes:
 
 I. Proponer la instrumentación de políticas para promover el desarrollo, el fortalecimiento y la descentralización municipal;
 
@@ -1106,3 +1194,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 NAPOLEÓN CANTÚ CERNA
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, SUSCRITO CON FECHA 24 DE JUNIO DE 2005.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Se instruye a la Secretaría de Finanzas y Tesorería General del Estado, y a la Oficialía Mayor de Gobierno para implementar las medidas de carácter financiero y administrativo necesarias para la debida ejecución del presente instrumento.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
