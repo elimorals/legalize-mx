@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-en-materia-de-31675"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-09"
-last_updated: "2005-07-20"
+last_updated: "2007-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31675&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,11 @@ issue_date: "2003-05-31"
 
 REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de junio de 2003.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Federal Electoral.- Consejo General.- CG110/2003.
-
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS POR EL CONSEJO GENERAL, SE MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL REGLAMENTO DEL 9 DE JUNIO DE 2003, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 20 DE JULIO DE 2005.</small>
 
 ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA.
 
@@ -447,7 +445,9 @@ II. Presentar un Informe Trimestral del Desempeño al Comité y a la Comisión c
 
 III. Elaborar los planes y programas en materia de transparencia y acceso a la información para la capacitación de los funcionarios, que ejecutará a nivel delegacional y subdelegacional la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
 
-IV. Coordinar las labores del Archivo Institucional, la Red Nacional de Bibliotecas, la Unidad de Enlace e IFETEL, así como evaluar periódicamente sus resultados;
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2007)</small>
+
+IV. Coordinar las labores del Archivo Institucional, la Red Nacional de Bibliotecas y la Unidad de Enlace, así como evaluar periódicamente sus resultados;
 
 V. Instituir los procedimientos y mecanismos internos que aseguren la mayor eficiencia en la gestión de las solicitudes;
 
@@ -613,7 +613,9 @@ VII. Emitir recomendaciones sobre las políticas y programas del Instituto en ma
 
 VIII. Promover la transparencia y acceso a la información tanto en el Instituto como entre los partidos y las agrupaciones políticas nacionales;
 
-IX. Recibir los informes trimestrales de actividades de la Unidad Técnica y del Comité, en términos del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2007)</small>
+
+IX. Recibir los informes trimestrales de actividades de la Unidad Técnica, del Comité y de IFETEL, por lo que hace a sus atribuciones como instancia auxiliar en materia de acceso a la información, en términos del presente Reglamento;
 
 X. Proponer modificaciones al marco normativo en la materia, y
 
@@ -1273,7 +1275,21 @@ Artículo 54
 
 De la integración y funcionamiento
 
-1. El IFETEL será el órgano encargado de brindar a la ciudadanía información en posesión del Instituto, por medio de consultas telefónicas, así como recibir inconformidades, quejas, sugerencias y reconocimientos sobre el desarrollo de los procesos o la actuación de las autoridades electorales.
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2007)</small>
+
+1. El IFETEL realizará tareas de orientación a la ciudadanía y de apoyo a los órganos del Instituto, en materia de acceso a la información y será el encargado de:
+
+I. Orientar a los ciudadanos respecto de la información a que se refiere el párrafo 3 del presente artículo;
+
+II. Auxiliar vía telefónica a cualquier persona interesada en la materia de acceso a la información;
+
+III. Asesorar en el requisitado de los formularios de solicitudes de acceso a la información y promoción de recursos;
+
+IV. Informar respecto de la presentación y estado que guardan las solicitudes de acceso a la información y los recursos que establece este Reglamento;
+
+V. Coadyuvar con los órganos del Instituto en la difusión de la información que estimen pertinente para el desarrollo de sus atribuciones;
+
+VI. Las demás que les confiera el Consejo, la Junta, la Comisión, la Secretaría y el Director Ejecutivo del Registro Federal de Electores, en sus respectivos ámbitos de competencia.
 
 2. El IFETEL desahogará las consultas telefónicas en términos de lo dispuesto por el manual que al efecto emita la Unidad Técnica, mismo que estará disponible en la página de Internet del Instituto.
 
@@ -1299,7 +1315,15 @@ IX. Los derechos y obligaciones electorales de los ciudadanos.
 
 4. Cuando no sea posible atender la solicitud de información por vía telefónica, se hará del conocimiento del solicitante la manera en la que podrá ejercer su derecho de acceso a la información.
 
-5. El IFETEL estará adscrito a la Unidad Técnica y su titular será designado con base en los resultados del concurso que se instrumente para el efecto.
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2007)</small>
+
+5. El IFETEL estará adscrito a la Dirección Ejecutiva del Registro Federal de Electores.
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2007)</small>
+
+6. Las Comisiones Unidas del Registro Federal de Electores y del Consejo para la Transparencia y el Acceso a la Información estarán encargadas de dar seguimiento a las tareas que realice IFETEL y recomendar las acciones que estimen pertinentes para su mejor funcionamiento.
+
+Las Comisiones Unidas del Registro Federal de Electores y del Consejo para la Transparencia y el Acceso a la Información podrán integrar los grupos de trabajo que consideren pertinentes, con la participación de la Unidad Técnica y de otros que se requieran.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN], D.O.F. 20 DE JULIO DE 2005)</small>
 
@@ -1392,3 +1416,13 @@ Noveno.- Los órganos del Instituto Federal Electoral contarán con treinta día
 Décimo.- Los titulares de la Unidad de Enlace, la Red Nacional de Bibliotecas, el Archivo Institucional y el Centro Metropolitano IFETEL serán designados conforme a lo previsto en el Acuerdo del Consejo General del Instituto Federal Electoral por el que se crea la Unidad Técnica de Servicios de Información y Documentación como Unidad Técnica Especializada adscrita a la Secretaría Ejecutiva.
 
 Décimo primero.- La Unidad Técnica emitirá el manual a que se refiere el artículo 54, párrafo 2 del presente Reglamento, a más tardar dentro de los noventa días hábiles siguientes a la designación de su titular.
+
+D.O.F. 5 DE NOVIEMBRE DE 2007.
+
+> <small>N. DE E. EL PRESENTE ACUERDO NO SEÑALA DISPOSICIONES TRANSITORIAS; CON RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION, CONSULTAR EL ARTICULO TERCERO Y CUARTO DEL CITADO ACUERDO.</small>
+
+...
+
+Tercero.- Se derogan todas aquellas disposiciones administrativas que contravengan a lo establecido en el presente acuerdo.
+
+Cuarto.- Las modificaciones al Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información entrarán en vigor al día siguiente de la publicación del presente Acuerdo en el Diario Oficial de la Federación.
