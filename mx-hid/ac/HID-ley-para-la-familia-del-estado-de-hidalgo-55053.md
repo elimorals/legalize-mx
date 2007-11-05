@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2007-04-09"
+last_updated: "2007-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -2405,6 +2405,10 @@ Para asentar las Actas, las Oficinas del Registro del Estado Familiar tendrán l
 
 Toda acta deberá asentarse en las formas que se mencionan en el párrafo anterior, por duplicado.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+
+En los casos en que se requiera, el Oficial del Registro del Estado Familiar, está obligado a registrar en el Acta de Nacimiento, el nombre de un individuo, con los caracteres pertenecientes a las lenguas indígenas o algún otro idioma distinto al español.
+
 ###### Artículo 395.
 
 Las actas del Registro del Estado Familiar se asentarán en hojas especiales que se denominarán "Formas del Registro del Estado Familiar".
@@ -2902,3 +2906,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
