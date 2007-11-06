@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "2005-10-28"
+last_updated: "2007-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 159, DE SALUD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -345,47 +345,81 @@ I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
 II.- La atención materno-infantil;
 
-III.- La prestación de servicios de planificación familiar;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-IV.- La salud mental;
+III.- El programa de nutrición materno - infantil en los pueblos y comunidades indígenas;
 
-V.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-VI.- La promoción de la formación de recursos humanos para la salud;
+IV.- La prestación de servicios de planificación familiar;
 
-VII.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-VIII.- Difundir la información relativa a las condiciones, recursos y servicios de salud;
+V.- La salud mental;
 
-IX.- Promover la educación para la salud;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-X.- La orientación y vigilancia en materia de nutrición;
+VI.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
-XI.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-XII.- La salud ocupacional y el saneamiento básico;
+VII.- La promoción de la formación de recursos humanos para la salud;
 
-XIII.- La prevención y el control de enfermedades transmisibles;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-XIV.- La prevención y el control de las enfermedades no transmisibles y accidentes;
+VIII.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
 
-XV.- La prevención de la invalidez y rehabilitación de los inválidos;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-XVI.- La asistencia social;
+IX.- Difundir la información relativa a las condiciones, recursos y servicios de salud;
 
-XVII.- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+X.- Promover la educación para la salud;
 
-XVIII.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento basándose en las normas que al efecto se emitan; y,
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+XI.- La orientación y vigilancia en materia de nutrición;
 
-XIX.- La atención especializada de los senescentes;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+XII.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-XX.- Las demás que establezcan la Ley General de Salud y otras disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+XIII.- La salud ocupacional y el saneamiento básico;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+XIV.- La prevención y el control de enfermedades transmisibles;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+XV.- La prevención y el control de las enfermedades no transmisibles y accidentes;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+XVI.- La prevención de la invalidez y rehabilitación de los inválidos;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+XVII.- La asistencia social;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+XVIII.- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+XIX.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento basándose en las normas que al efecto se emitan; y (sic),
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+XX.- La atención especializada de los senescentes;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+XXI.- Las demás que establezcan la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B).- En materia de salubridad local; vigilar y procurar condiciones adecuadas de saneamiento en:
 
@@ -453,15 +487,29 @@ III.- Colaborar al bienestar social de la población del Estado, mediante servic
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como la integración social y al crecimiento físico y mental de la niñez;
 
-V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado que propicien el desarrollo satisfactorio de la vida;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud, y (sic)
+V.- Impulsar el bienestar y el desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades político - sociales y culturales, con su participación, y tomando en cuenta sus valores y organización social;
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+VI.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado que propicien el desarrollo satisfactorio de la vida;
 
-VIII.- Promover dentro de su respectivo ámbito de competencia, la realización de programas específicos, menús de alimentos con alto contenido nutricional, y campañas contra la mal nutrición, el sobrepeso y la obesidad, utilizando todos los medios de comunicación que estén a su alcance en programas de concientización y divulgación.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+VII.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humano (sic) para mejorar la salud, y (sic)
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+VIII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+IX.- Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+X.- Promover dentro de su respectivo ámbito de competencia, la realización de programas específicos, menús de alimentos con alto contenido nutricional, y campañas contra la mala nutrición, el sobrepeso y la obesidad, utilizando todos los medios de comunicación que estén a su alcance en programas de concientización y divulgación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -505,21 +553,23 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 19.
 
-La Secretaría de Salud, promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los Sectores Público, Social y Privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud, promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los Sectores Público, Social y Privado, de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de éstos últimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 20.
 
-La concertación de acciones entre la Secretaría de Salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se sujetarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud, las autoridades de las comunidades indígenas, los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
-I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+I.- Definición de las responsabilidades que asuman las partes.
 
 II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo el organismo.
 
@@ -687,7 +737,9 @@ VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salu
 
 IX.- La promoción del mejoramiento de la nutrición y la reducción de sobrepeso y obesidad en la población, particularmente en los menores de edad y adolescentes;
 
-X.- La asistencia social a los grupos más vulnerables, y (sic)
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+X.- La asistencia social a los grupos más vulnerables, y de éstos, de manera especial, a los pertenecientes a las comunidades indígenas;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -815,9 +867,11 @@ Los usuarios deberán ajustarse a las reglamentaciones internas de las instituci
 
 La Secretaría de Salud, establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y los servicios sociales y privados, en el Estado.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 56.
 
-Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos.
+Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos. En el caso de las poblaciones o comunidades indígenas, las autoridades sanitarias brindarán la asesoría y orientación en español y en la lengua o lenguas en uso en la región o comunidad de que se trate.
 
 ###### ARTICULO 57.
 
@@ -936,6 +990,10 @@ La planificación familiar tiene carácter prioritario. En sus actividades se de
 Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
 Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas, deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
 
 ###### ARTICULO 72.
 
@@ -1097,6 +1155,10 @@ II.- El perfil de los profesionales para la salud y en sus etapas de formación.
 
 La Secretaría de Salud en coordinación con las autoridades federales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas nacional y estatal de salud, de los programas educativos y de las necesidades de salud del Estado.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+De la misma manera reconocerá, respetará y promoverá el desarrollo de la medicina tradicional indígena. Los programas de prestación de la salud, de atención primaria que se desarrollan en comunidades indígenas, deberán adaptarse a su estructura social y administrativa, así como su concepción de la salud y de la relación del paciente con el médico, respetando siempre sus derechos humanos.
+
 ###### ARTICULO 93.
 
 Los aspectos docentes del internado de pregrado y de las residencias de especialización, se regirán por lo que establezcan las instituciones de educación superior; deberán contribuir al logro de los objetivos de los sistemas nacional y estatal de salud, de conformidad con las atribuciones que les otorguen las disposiciones que rigen su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
@@ -1230,6 +1292,10 @@ IV.- Elaborar, distribuir y aplicar listados de productos alimenticios de alto v
 ###### ARTICULO 106.
 
 Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios de difusión colectiva que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
 ### CAPITULO III. NUTRICION
 
@@ -2475,9 +2541,11 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 Se consideran medidas de seguridad, las disposiciones que dicte el Organismo Estatal de Salud y los Ayuntamientos en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 287.
 
-La participación de los municipios estará determinada por los convenios que celebren con el Gobierno del Estado y por lo que dispongan otros ordenamientos locales.
+La participación de los municipios y de las autoridades de las comunidades indígenas, estará determinada por los convenios que celebren con el Gobierno del Estado y por lo que dispongan otros ordenamientos locales.
 
 ###### ARTICULO 288.
 
@@ -2912,3 +2980,13 @@ P.O. 28 DE OCTUBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado, para su efectos constitucionales procedentes.
+
+P.O. 6 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo para los efectos constitucionales procedentes.
