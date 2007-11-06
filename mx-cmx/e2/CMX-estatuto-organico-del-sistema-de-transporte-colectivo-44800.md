@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-de-transporte-colectivo-44800"
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-05-23"
-last_updated: "2005-12-02"
+last_updated: "2007-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44800&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,9 @@ scjn_last_update: "2007-11-06"
 
 ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO, PUBLICADO EN LA G.O. DE 6 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 23 de mayo de 2005.
 
@@ -1694,3 +1696,11 @@ G.O. 2 DE DICIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 6 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+SEGUNDO.- El presente Estatuto Orgánico del Sistema de Transporte Colectivo entrará en vigor al siguiente día de su publicación.
+
+TERCERO.- Se abroga el Estatuto publicado el 23 de mayo de dos mil cinco y 2 de diciembre de dos mil cinco y todas aquéllas disposiciones que contravengan las contenidas en el presente Estatuto.
