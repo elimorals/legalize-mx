@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2007-04-20"
+last_updated: "2007-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -951,6 +951,10 @@ II.- Por copia certificada de cualquier acta urgente
 
 III.- Certificación de firmas por hoja
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+El Registro Civil expedirá sin costo alguno la certificación de actas de nacimiento para personas con discapacidad y adultos mayores, cuando la autoridad federal, estatal o municipal o bien el interesado lo tramiten.
+
 ### CAPÍTULO SEXTO. POR LOS SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PÚBLICA, POLICIA Y TRÁNSITO MUNICIPAL
 
 ###### Artículo 91.
@@ -1746,3 +1750,17 @@ Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 ###### ARTÍCULO TERCERO.
 
 Los trámites en proceso del pago del Impuesto de Traslado de Dominio o empadronados se llevarán a cabo atendiendo a lo que dispone la presente ley.
+
+P.O. 7 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado " La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El Estado y los Municipios de Querétaro, para el ejercicio fiscal 2007, podrán aplicar esta Ley sin perjuicio a lo que establezcan sus leyes de ingresos vigentes.
+
+###### ARTÍCULO TERCERO.
+
+Para el ejercicio fiscal 2008, el Estado y los Municipios de Querétaro deberán considerar en sus respectivas iniciativas de leyes de ingresos esta disposición.
