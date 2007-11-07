@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-la-corporacion-de-proyectos-estrategicos-de-55153"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-28"
-last_updated: "2007-02-28"
+last_updated: "2007-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,378 +21,3632 @@ state: "CHP"
 ---
 # LEY QUE CREA LA CORPORACION DE PROYECTOS ESTRATEGICOS DE CHIAPAS
 
-LEY QUE CREA LA CORPORACION DE PROYECTOS ESTRATEGICOS DE CHIAPAS
+LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 28 de febrero de 2007.
+Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
-Juan José Sabines Guerrero, Gobernador Constitucional del Estado Libre y Soberano de Chiapas, a sus habitantes hace saber: Que la Honorable Sexagésima Segunda Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
+LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
-Decreto Número 149
+El H. Congreso del Estado, se ha servido dirigirme el siguiente:
 
-La Honorable Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
+DECRETO
 
-Considerando
+EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
 
-.
+NÚMERO 334
 
-Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido ha bien emitir la siguiente:
+###### ARTÍCULO ÚNICO.
 
-Ley que crea la Corporación de Proyectos Estratégicos de Chiapas
+Se expide la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo, para quedar de la siguiente manera:
 
-### Capítulo I. Disposiciones Generales
+LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-###### Artículo 1°.
+# LIBRO PRIMERO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL CONGRESO
 
-La Corporación de Proyectos Estratégicos es un organismo público descentralizado de participación ciudadana, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus fines que tiene por objeto planear, diseñar, integrar, y en su caso administrar, programas y proyectos claves para el desarrollo del Estado.
+## TÍTULO PRIMERO. DEL CONGRESO Y LOS DIPUTADOS
 
-Esta corporación impulsará cada proyecto bajo un enfoque integral, mismo que incorporará la colaboración y participación activa de los sectores productivos, empresariales, de la academia, de los centros de investigación, de las instituciones financieras nacionales e internacionales, que en forma conjunta con las distintas autoridades del orden federal, estatal y municipal, sumaren esfuerzos y acciones para la consecución de los objetivos planteados.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### Artículo 2°.
+###### ARTÍCULO 1.
 
-Para los efectos de esta Ley, se entiende por:
+La presente Ley establece las bases para la organización, funcionamiento y procedimientos del Congreso del Estado, conforme a lo dispuesto por la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
-Corporación: Corporación de Proyectos Estratégicos de Chiapas.
+###### ARTÍCULO 2.
 
-Consejo Ciudadano: Consejo Ciudadano de la Corporación de Proyectos Estratégicos de Chiapas.
+El Congreso del Estado de Michoacán de Ocampo, está integrado por diputados electos por sufragio universal, libre, secreto y directo, conforme a los principios de votación de mayoría relativa y de representación proporcional, en el número y términos que determinen la Constitución del Estado y la Ley de la materia.
 
-Junta de Gobierno: Junta de Gobierno de la Corporación de Proyectos Estratégicos de Chiapas.
+El Congreso funcionará por Legislaturas a la cual se le denomina agregando previamente el número nominal que le corresponda, cuyo periodo constitucional es de tres años, y éstas se dividen por Años Legislativos.
 
-Presidente Ejecutivo: Presidente Ejecutivo de la Corporación de Proyectos Estratégicos de Chiapas.
+El Año Legislativo inicia el quince de septiembre y concluye el catorce de septiembre del año siguiente.
 
-Proyectos Estratégicos: Los programas o proyectos claves de la Administración Pública del Estado que por su trascendencia y prioridad requieran de una coordinación funcional.
+### CAPÍTULO SEGUNDO. DE LA OBLIGATORIEDAD DE LA LEY
 
-### Capítulo II. De la Estructura Orgánica y Funcional de la Corporación
+###### ARTÍCULO 3.
 
-###### Artículo 3°.
+La presente Ley, los reglamentos y manuales que de ella deriven, son de observancia general y obligatoria.
 
-La Corporación es un organismo público descentralizado de participación ciudadana de la Administración Pública Estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de su objeto.
+###### ARTÍCULO 4.
 
-La Corporación tendrá su domicilio legal en la Ciudad de Tuxtla Gutiérrez, Chiapas, en donde establecerá su oficina principal. Asimismo, podrá contar, con las oficinas que sean necesarias en los Municipios del Estado, para el cumplimiento de su objeto.
+Para los efectos de la presente Ley, se entenderá por:
 
-###### Artículo 4°.
+I. Comisiones: Las Comisiones Legislativas;
 
-El objeto de la Corporación es planear, diseñar, integrar, y en su caso administrar, programas y proyectos estratégicos para el desarrollo del Estado de Chiapas.
+II. Conferencia: La Conferencia para la Programación de los Trabajos Legislativos;
 
-Esta Corporación impulsará cada proyecto bajo un enfoque integral mismo que incorporará la colaboración y participación activa de los sectores productivos de la academia, de las instituciones financieras nacionales e internacionales, que en forma conjunta con las distintas autoridades del orden federal, estatal y municipal, sumarán esfuerzos y acciones para la consecución de los objetivos planteados.
+III. Congreso: El Congreso del Estado de Michoacán de Ocampo;
 
-### Capítulo III. De los Recursos Financieros y Materiales del Organismo
+IV. Constitución: La Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
-###### Artículo 5°.
+V. Dictamen: Opinión y juicio que emiten las Comisiones de Dictamen sobre los asuntos de carácter legislativo que el Pleno del Congreso les ha encomendado conocer;
 
-Corresponderá al Titular del Ejecutivo del Estado, en los términos de esta Ley, formalizar mediante decreto administrativo la categoría de proyectos estratégicos, de entre los cuales se incluyen los siguientes, sin menoscabo de poder ser adicionados:
+VI. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
-I. Café.
+VII. Gobernador: Titular del Poder Ejecutivo;
 
-II. Bioenergéticos.
+VIII. Junta: La Junta de Coordinación Política;
 
-III. Desarrollo Forestal Sustentable.
+IX. Legislatura: El plazo de ejercicio del cargo de los Diputados por la duración que establezca la Constitución;
 
-IV. Puerto Chiapas.
+X. Ley: La Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo;
 
-V. Mercomún Sur-Sureste.
+XI. Mesa: La Mesa Directiva del Congreso del Estado;
 
-VI. Los demás, que por decreto administrativo cree el Poder Ejecutivo del Estado.
+XII. Pleno: Sesión de los diputados en el Recinto, realizada con cuando menos la mitad más uno de los integrantes de la Legislatura;
 
-###### Artículo 6°.
+XIII. Presidente del Congreso: Presidente de la Mesa Directiva; y,
 
-Corresponderá a la Corporación diseñar, integrar, planear y coordinar funcionalmente los proyectos estratégicos como programas prioritarios del Ejecutivo del Estado, la participación conjunta de las dependencias y entidades de la Administración Pública del Estado y de la sociedad civil.
+XIV. Recinto: El lugar en donde el Congreso se reúne para sesionar.
 
-Será facultad del Titular del Ejecutivo Estatal designar a quien corresponda la operación ejecutiva, específica e individual de cada proyecto estratégico que funcionalmente coordine la Corporación.
+### CAPÍTULO TERCERO. DE LOS DIPUTADOS
 
-###### Artículo 7°.
+###### ARTÍCULO 5.
 
-La Corporación contará con la siguiente estructura orgánica:
+Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y jamás podrán ser reconvenidos o enjuiciados por ellas.
 
-I. El Consejo Ciudadano de la Corporación de Proyectos Estratégicos del Estado de Chiapas.
+Ningún diputado podrá ser procesado por delitos del orden común o federal, sin que el Congreso erigido en Jurado de Sentencia, declare si es de proceder la formación de causa.
 
-II. La Junta de Gobierno;
+En los juicios del orden civil no se requiere declaración de procedencia.
 
-III. El Presidente Ejecutivo;
+Cuando la denuncia, querella, acusación o requerimiento del Ministerio Público, sea contra un diputado, éste deberá ausentarse del Pleno durante el tiempo que se verifique la sesión en que se debatirá la declaración de procedencia.
 
-IV. Una Dirección General y las siguientes direcciones de área:
+###### ARTÍCULO 6.
 
-a) Dirección de Planeación y Seguimiento.
+Los diputados en funciones durante el periodo de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o de sus Municipios, por los cuales se disfrute de sueldo o retribución, a excepción de los de instrucción pública y beneficencia, sin licencia previa del Pleno.
 
-b) Dirección de Política y Concertación.
+###### ARTÍCULO 7.
 
-c) Dirección de Administración y Finanzas.
+Son obligaciones de los Diputados:
 
-d) Dirección Operativa.
+I. Rendir protesta para asumir el cargo;
 
-e) Dirección de Promoción y Comunicación.
+II. Atender las convocatorias a las sesiones de Pleno, comisiones y comités;
 
-V. Un Comisario.
+III. Asistir puntualmente y permanecer hasta la conclusión de las sesiones de Pleno, comisiones y comités de los que sean integrantes;
 
-Además, la Corporación podrá contar con la estructura administrativa y operativa que apruebe la Junta de Gobierno, cuyas funciones se determinarán en el Reglamento Interior de la Corporación.
+IV. Asistir con la representación protocolaria del Congreso a los actos y actividades que se les designen;
 
-###### Artículo 8°.
+V. Desempeñar las comisiones especiales para las que sean designados;
 
-La Corporación contará con un órgano de participación ciudadana que se denominará Consejo Ciudadano de Proyectos Estratégicos del Estado de Chiapas. Este Consejo Ciudadano será de carácter honorífico, incluyente, plural y su función será consultiva.
+VI. Conducirse con respeto durante las sesiones, en sus intervenciones y en los trabajos legislativos en los que participen;
 
-###### Artículo 9°.
+VII. Presentar declaración patrimonial, en términos de ley;
 
-El Consejo Ciudadano estará integrado de la siguiente manera:
+VIII. No hacer uso de su condición de legislador para el ejercicio de actividad mercantil o profesional;
 
-I. Un Presidente, que será el Presidente Ejecutivo de la Corporación;
+IX. Presentar un informe anual sobre sus labores legislativas dentro de los treinta días siguientes al cumplimiento de cada año legislativo, a excepción del último año legislativo que tendrán que hacerlo, dentro de los treinta días anteriores a que concluya; y,
 
-II. Un Secretario, que será el Director General de la Corporación; y,
+X. Las demás que señale la Constitución, la presente Ley y los ordenamientos que de ésta deriven.
 
-III. Los Vocales Consejeros propietarios y sus respectivos suplentes, que serán las personas que designe el Gobernador del Estado a propuesta del Presidente Ejecutivo, el número de los vocales consejeros no deberá ser inferior a 5 (cinco) ni superior a 15 (quince) y desempeñarán su encargo por un período de 12 meses pudiendo prorrogarse a invitación expresa.
+###### ARTÍCULO 8.
 
-Las personas que ocupen el cargo de vocal consejero del Consejo Ciudadano, desempeñarán su encargo de manera honorífica, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirán remuneración alguna por el desempeño de sus funciones ni serán considerados servidores públicos.
+Son derechos de los Diputados:
 
-Cuando así se requiera por el asunto a tratar, el Presidente del Consejo Ciudadano podrá invitar a participar en las sesiones del Consejo Ciudadano, en su carácter de invitados especiales, a representantes de otras dependencias u organismos públicos federales, estatales o municipales y/o a personas físicas o representantes de instituciones privadas nacionales e internacionales, quienes sólo tendrán derecho a voz, durante la sesión en que sean invitados.
+I. Rendir protesta para asumir el cargo;
 
-###### Artículo 10.
+II. Presentar iniciativas de ley, decretos, posicionamientos o propuesta de acuerdo;
 
-Al Consejo Ciudadano le corresponderá:
+III. Participar en las sesiones del Pleno, comisiones y comités de los que formen parte;
 
-I. Fungir como órgano de consulta de la Corporación en lo relativo al desarrollo de los programas estratégicos que funcionalmente coordine la Corporación;
+IV. Gestionar en nombre de sus representados ante cualquier instancia;
 
-II. Favorecer la participación de todos los sectores interesados en las acciones relacionadas con el objeto de la Corporación;
+V. Solicitar licencia para separarse de su cargo;
 
-III. Emitir opiniones al Presidente Ejecutivo respecto al diseño, integración, evaluación y seguimiento de los proyectos estratégicos en particular;
+VI. Integrar en los términos de esta Ley y su reglamento, los órganos del Congreso;
 
-IV. Integrar comisiones o comités para la atención de asuntos específicos; y,
+VII. Contar con documentación oficial que les acredite como Diputado;
 
-V. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior de la Corporación.
+VIII. Percibir remuneración que se denomina dieta, que será igual para todo integrante del Congreso, así como las demás prestaciones que les permitan desempeñar adecuadamente sus funciones;
 
-###### Artículo 11.
+IX. Ser integrantes de un Grupo Parlamentario o Representación Parlamentaria en términos de esta Ley;
 
-El Consejo Ciudadano celebrará sesiones ordinarias por lo menos cada seis meses y las extraordinarias cuantas veces sean necesarias, y así lo convoquen indistintamente, el Presidente del Consejo Ciudadano o el Secretario por instrucciones de este.
+X. Asistir a los trabajos de cualquier Comisión o Comité del que no sea integrante, con voz pero sin voto;
 
-Las sesiones del Consejo Ciudadano en primera convocatoria serán válidas con la asistencia del Presidente del Consejo Ciudadano, el Secretario y de al menos la mitad de los vocales y en segunda convocatoria, con la asistencia del Presidente del Consejo Ciudadano o el Secretario y los vocales que asistan. El Secretario por instrucciones del Presidente del Consejo Ciudadano realizará las convocatorias por escrito, vía fax y/o correo electrónico con antelación cuando menos setenta y dos horas hábiles, para sesiones ordinarias, y de veinticuatro horas hábiles para las extraordinarias, con la salvedad de que en estas últimas pueda convocarse e! mismo día en situaciones que así lo ameriten y a la convocatoria para ambos tipos de sesiones se deberá de agregar el orden del día y los anexos correspondientes.
+XI. Recibir, bajo su responsabilidad, la información que soliciten de las diversas comisiones, comités y órganos administrativos del Congreso sobre asuntos de su interés, cuando así lo solicite;
 
-### Capítulo IV. De las Reglas de Gestión de la Corporación y las Relaciones Laborales
+XII. Tener acceso a información actualizada, asesoría y capacitación; y,
 
-###### Artículo 12.
+XIII. Los demás que señale la Constitución, esta Ley y los ordenamientos que de ella deriven.
 
-Las decisiones del Consejo Ciudadano se tomarán por mayoría de votos de los integrantes presentes y, en caso de empate, quien presida la sesión tendrá voto de calidad.
+###### ARTÍCULO 9.
 
-###### Artículo 13.
+Los Diputados se harán acreedores, además de las previstas en la Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, a las sanciones siguientes:
 
-Las ausencias del Presidente del Consejo Ciudadano a las sesiones en segunda convocatoria, serán cubiertas por el Secretario quien presidirá la sesión y designará al Secretario para la misma de entre los vocales asistentes. Las ausencias del Secretario a las sesiones del Consejo Ciudadano serán cubiertas por el vocal que designe quien presida la sesión.
+I. Privación del equivalente a un día de dieta, cuando no asista a Sesión, o abandone el Recinto y no regrese durante ésta o se ausente durante una votación, sin causa justificada;
 
-###### Artículo 14.
+II. Privación del equivalente a un mes de dieta, cuando falte a tres Sesiones consecutivas de Pleno, de Comisiones, o Comités, sin causa justificada o sin previo permiso económico del Presidente del Congreso, de la Comisión o del Comité;
 
-La Corporación contará con una Junta de Gobierno que es el órgano de máxima autoridad de la misma y estará integrada de la siguiente forma:
+III. Privación del equivalente a dos meses de dieta en los casos de incumplimiento de las obligaciones previstas en las fracciones VII y VIII del artículo 7 de esta ley; y,
 
-I. El Gobernador del Estado, quien la presidirá;
+IV. Pérdida del carácter de diputado cuando falte a cuatro sesiones consecutivas de Pleno sin causa justificada, llamándose a su suplente de manera inmediata en la siguiente sesión.
 
-II. El Presidente Ejecutivo, quien fungirá como secretario de la misma y contará con voz pero sin voto;
+###### ARTÍCULO 10.
 
-III. Los vocales propietarios que serán:
+Para la aplicación de las sanciones, se seguirá el procedimiento siguiente:
 
-a) El Secretario General de Gobierno;
+En los casos de las fracciones I, II y III del artículo anterior, el Primer Secretario de la Mesa o Presidente de Comisión o Comité, según corresponda, notificará de las faltas por escrito al Presidente del Congreso, quien deberá elaborar la comunicación al Secretario de Administración y Finanzas a fin de hacer los descuentos correspondientes.
 
-b) El Secretario de Finanzas;
+De no realizar las notificaciones que previene este artículo, se harán acreedores a las mismas sanciones que hubieren omitido.
 
-c) El Secretario de Fomento Económico; y,
+En la página de Internet del Congreso se publicarán mensualmente las asistencias o faltas de los diputados a las sesiones del Pleno, reuniones de comisiones o comités.
 
-d) El Secretario del Campo.
+###### ARTÍCULO 11.
 
-A instancias del Titular del Ejecutivo Estatal o del Presidente Ejecutivo, podrán participar en las sesiones de la Junta de Gobierno, como invitados especiales, las dependencias y entidades de la Administración Pública Centralizada o Descentralizada del Estado que se estimen pertinentes para un asunto en lo específico, así como las personas físicas o representantes de organismos públicos y privados nacionales y extranjeros, estas personas tendrán derecho de voz y no de voto en la sesión o sesiones en que participen como invitados.
+Para los efectos de las fracciones II y III del artículo 7 de esta Ley, se considera falta justificada de un diputado:
 
-Los integrantes de la Junta de Gobierno podrán nombrar a su suplente mediante escrito que remitan al Secretario de la Junta de Gobierno. Las ausencias del Gobernador del Estado serán suplidas por la persona que éste designe, quien salvo designación específica diversa se entenderá que es el Secretario de Finanzas, quien presidirá las sesiones en su representación.
+I. Los casos de enfermedad grave o contagiosa, lo que deberá notificarse al Presidente del Congreso, comisión o comité a más tardar tres días después de la sesión correspondiente;
 
-Cuando así se requiera por el asunto a tratar, el Gobernador del Estado o el Presidente Ejecutivo de la Corporación podrán invitar a participar en las sesiones de la Junta de Gobierno, en su carácter de invitados especiales de la sesión en particular, a representantes de otras dependencias u organismos públicos federales, estatales o municipales, y/o a personas físicas o representantes de instituciones privadas nacionales o internacionales, quienes sólo tendrán derecho a voz.
+II. El desempeño de comisión o representación del Congreso, del Presidente del Congreso o de la comisión o comité;
 
-###### Artículo 15.
+III. La inasistencia a sesión del Pleno que coincida con sesiones o actividades de comisiones o comités; y,
 
-Corresponde a la Junta de Gobierno:
+IV. La atención de asuntos graves o urgentes propios de su representación popular, a juicio del Presidente del Congreso.
 
-I. Aprobar el programa de trabajo y los proyectos de presupuestos de ingresos y egresos de la Corporación, que presentará anualmente el Presidente Ejecutivo;
+### CAPÍTULO CUARTO. DE LOS GRUPOS PARLAMENTARIOS
 
-II. Aprobar los estados financieros y en su caso la cuenta pública de la Corporación;
+###### ARTÍCULO 12.
 
-III. Aprobar el informe anual de actividades de la Corporación que presente el Presidente Ejecutivo;
+Los grupos parlamentarios son las formas de organización que adoptarán los diputados que pertenezcan a un mismo partido político, los que deberán coadyuvar al buen desarrollo del proceso legislativo.
 
-IV. Conocer y opinar sobre el informe anual que rinda el Comisario de la Corporación;
+###### ARTÍCULO 13.
 
-V. Aprobar los montos de inversión de los programas estratégicos y las dependencias, entidades u órganos desconcentrados que las ejercerán;
+Podrán constituir un Grupo Parlamentario dos o más Diputados, el que deberá llevar la denominación del Partido. Sólo podrá haber un grupo parlamentario por Partido Político representado en el Congreso.
 
-VI. Aprobar a propuesta del Presidente Ejecutivo, la participación de las dependencias, entidades u órganos desconcentrados correspondientes en la constitución o participación en los fideicomisos, asociaciones y sociedades que se requieran para cumplir con los programas estratégicos, de conformidad con la normatividad aplicable;
+###### ARTÍCULO 14.
 
-VII. Aprobar el Reglamento Interior de la Corporación y sus modificaciones, a propuesta del Presidente Ejecutivo.
+Los grupos parlamentarios se tienen por constituidos cuando presenten a la Mesa Directiva los documentos siguientes:
 
-VIII. Designar a propuesta del Presidente Ejecutivo a la persona que ocupará el cargo de Director General de la Corporación;
+I. Acta en la que conste la decisión de sus miembros de constituirse en grupo, con la especificación del nombre del partido, y lista de sus integrantes; y,
 
-IX. Otorgar, sustituir y/o revocar toda clase de poderes generales o especiales para actos de dominio, administración, laboral, pleitos, cobranzas y cambiario para suscribir, endosar y negociar títulos de crédito; con todas las facultades generales o especiales que requieran cláusula especial en los términos de la legislación aplicable, pudiendo estos recaer en alguno o algunos de los miembros de la Junta, en la persona o personas que la misma Junta estime necesario;
+II. El nombre de los diputados que hayan sido designados como coordinador y vicecoordinador del Grupo parlamentario, de acuerdo a los estatutos del partido político en el que militen.
 
-X. Autorizar la enajenación de los bienes inmuebles cuando sea estrictamente necesario para el cumplimiento del objeto de la Corporación; y,
+###### ARTÍCULO 15.
 
-XI. Ejercer las demás funciones que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior de la Corporación.
+La documentación debe entregarse en la segunda sesión del Primer año de ejercicio de la Legislatura.
 
-###### Artículo 16.
+El Presidente del Congreso, una vez examinada la documentación, en la misma Sesión hará la declaratoria de constitución de los grupos parlamentarios y representaciones parlamentarias; a partir de ese momento ejercerán las atribuciones previstas por la presente Ley.
 
-La Junta de Gobierno celebrará sesiones ordinarias por lo menos cada tres meses y las extraordinarias cuantas veces sean necesarias, y así lo convoquen indistintamente, el Presidente de la Junta o el Secretario por instrucciones de éste.
+###### ARTÍCULO 16.
 
-Las sesiones de la Junta de Gobierno en primera convocatoria serán válidas con la asistencia del Presidente de la Junta o su representante, el Secretario y de al menos la mitad de los vocales y en segunda convocatoria, con la asistencia del Presidente de la Junta o su representante, el Secretario y los vocales que asistan. El Secretario por instrucciones del Presidente de la Junta realizará las convocatorias por escrito, vía fax y/o correo electrónico con antelación cuando menos setenta y dos horas hábiles, para sesiones ordinarias, y de veinticuatro horas hábiles para las extraordinarias, con la salvedad de que en estas últimas pueda convocarse el mismo día en situaciones que así lo ameriten y a la convocatoria de ambos tipos de sesiones se deberá de agregar el orden del día y los anexos correspondientes.
+La integración, funcionamiento y disolución de los grupos parlamentarios, se regirá por la presente Ley, su reglamento, los estatutos internos de cada Partido Político y las normas internas de cada Grupo parlamentario.
 
-###### Artículo 17.
+###### ARTÍCULO 17.
 
-Las decisiones de la Junta de Gobierno se tomarán por mayoría de votos de los miembros de la Junta presentes y, en caso de empate, quien presida la sesión tendrá voto de calidad.
+Cuando se encuentren dos o más partidos políticos representados en el Congreso por un solo diputado, de éstos, quienes así lo consideren, podrán integrarse sólo como una Representación Parlamentaria, cuya atribución será que uno de ellos forme parte de la Junta y la Conferencia con voz y voto ponderado.
 
-###### Artículo 18.
+La Representación Parlamentaria se tendrá por acreditada, con la manifestación expresa por escrito de los diputados que la integran.
 
-El Gobernador del Estado designará y removerá libremente al Presidente Ejecutivo de la Corporación.
+###### ARTÍCULO 18.
 
-###### Artículo 19.
+Los coordinadores de los grupos parlamentarios serán designados conforme a los estatutos y lineamientos internos de cada partido político, y serán los conductos de coordinación con la Mesa Directiva, la Junta de Coordinación Política, las comisiones y comités del Congreso. Los vicecoordinadores de los grupos parlamentarios o quien sea designado por ellos, suplirán las ausencias temporales de los Coordinadores.
 
-Al Presidente Ejecutivo le corresponde:
+###### ARTÍCULO 19.
 
-I. Administrar y realizar las operaciones ejecutivas de la Corporación, implementando las acciones necesarias para el buen funcionamiento de la misma;
+Durante el ejercicio de la Legislatura, el coordinador del Grupo Parlamentario comunicará a la Mesa Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente del Congreso llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones.
 
-II. Presidir el Consejo Ciudadano y fungir como Secretario de la Junta de Gobierno, en los términos de lo establecido en esta Ley;
+###### ARTÍCULO 20.
 
-III. Ejecutar los acuerdos de la Junta de Gobierno;
+Cuando un diputado se separe de un Grupo Parlamentario o éste sea expulsado de su Partido Político, la Junta a propuesta del Grupo Parlamentario de origen, presentará al Pleno una propuesta de acuerdo en donde se determinará si aquél se mantiene en las comisiones, comités u órganos del Congreso a que hubiese sido designado.
 
-IV. Representar legalmente a la Corporación de acuerdo a los poderes otorgados a su favor por la Junta de Gobierno;
+###### ARTÍCULO 21.
 
-V. Coordinar la planeación, diseño, impulso, integración, seguimiento y, en su caso, la administración de los programas estratégicos coordinados funcionalmente por la Corporación;
+En ningún caso pueden constituir otro Grupo Parlamentario los diputados que se hayan separado de su grupo original, en todo caso podrán formar parte de la Representación Parlamentaria.
 
-VI. Gestionar y promover alternativas de financiamiento ante instituciones y organismos, nacionales e internacionales, públicos o privados, así como para la promoción e instrumentación de alternativas de inversión para la realización de los proyectos estratégicos;
+Ningún diputado podrá formar parte de más de un Grupo Parlamentario.
 
-VIl. Presentar a la Junta de Gobierno, las propuestas relacionadas con los proyectos estratégicos de la Corporación;
+###### ARTÍCULO 22.
 
-VIII. Dar seguimiento y evaluar los planes, programas y acciones que deberán ser ejecutados para el cumplimiento del objeto de la Corporación y la buena marcha de sus operaciones, así como de los acuerdos tomados en la Junta de Gobierno;
+Cuando un Partido Político cambie de denominación o se disuelva se hará del conocimiento del Congreso; en el primer caso, el Grupo Parlamentario correspondiente adoptará la nueva denominación.
 
-IX. Desarrollar, dirigir y coordinar los estudios, investigaciones y análisis que considere necesarios para la realización de los programas y proyectos de la Corporación;
+###### ARTÍCULO 23.
 
-X. Presentar a la consideración de la Junta de Gobierno, el programa de trabajo anual de la Corporación;
+Los grupos parlamentarios, dispondrán de espacios adecuados en las instalaciones del Congreso, de asesores, personal y elementos materiales necesarios para el desempeño de su trabajo, de acuerdo a su representación cuantitativa y bajo el principio de equidad, de conformidad con el número de diputados con que contó al constituirse la Legislatura, y de acuerdo con lo que establezca el Presupuesto de Egresos del Congreso.
 
-XI. Presentar a la consideración de la Junta de Gobierno, el proyecto de presupuestos de ingresos y egresos de la Corporación;
+Dentro de los primeros treinta días siguientes a la instalación del Congreso la Junta, previo informe del Comité de Administración y Control, hará la asignación de los recursos humanos y materiales a los grupos parlamentarios en los términos del Presupuesto de Egresos.
 
-XII. Presentar a la consideración de la Junta de Gobierno, el informe anual de actividades generales de la Corporación;
+Del presupuesto de egresos aprobado para la función legislativa, se destinarán partidas de gastos para ser dispuestas por cada Grupo Parlamentario proporcionalmente al número de diputados que los integran, de acuerdo a los criterios que emita el Comité de Administración y Control.
 
-XIII. Presentar a la consideración de la Junta de Gobierno, los estados financieros y los informes de cuenta pública;
+La falta de informe o emisión de criterios por parte del Comité no será impedimento para la asignación respectiva.
 
-XIV. Presentar a la Junta de Gobierno la propuesta de Reglamento Interior de la Corporación;
+### CAPÍTULO QUINTO. DE LA SEDE DEL CONGRESO
 
-XV. Proponer a la Junta de Gobierno a la persona que ocupará el cargo de Director General de la Corporación, para que sea debidamente designado por esta;
+###### ARTÍCULO 24.
 
-XVI. Otorgar y remover en su caso, los nombramientos correspondientes a las personas que presten sus servicios en las áreas administrativas, técnicas y operativas de la Corporación.
+La sede del Congreso está en la Ciudad de Morelia, Capital del Estado de Michoacán de Ocampo.
 
-XVII. Ejercer los poderes y facultades en la forma y término que le otorgue y determine la Junta de Gobierno de la Corporación y en su caso, delegarlos en los términos de los poderes conferidos;
+###### ARTÍCULO 25.
 
-XVIII. Celebrar toda clase de contratos y convenios con autoridades federales, estatales y municipales, con organismos públicos o privados y con personas físicas, que sean necesarios para el cumplimiento del objeto de la Corporación; y,
+El edificio que alberga al Congreso se denomina Palacio del Poder Legislativo, cuenta con un Salón de Pleno o Recinto, donde se celebran las sesiones.
 
-XIX. Las demás que le establezca esta Ley, otras disposiciones jurídicas aplicables y el Reglamento Interior de la Corporación.
+En los actos solemnes se podrá sesionar transitoriamente en lugar distinto a la sede del mismo, previa aprobación de las dos terceras partes de los diputados presentes del Congreso.
 
-###### Artículo 20.
+Si a juicio de las dos terceras partes de los diputados al Congreso existe imposibilidad de sesionar en el Recinto, por causa grave, se podrá sesionar en un lugar distinto, solicitándolo por escrito al Presidente del Congreso al menos un día antes de que se cite a sesión.
 
-El Director General de la Corporación será designado por la Junta de Gobierno a propuesta del Presidente Ejecutivo.
+###### ARTÍCULO 26.
 
-###### Artículo 21.
+El Recinto del Congreso es inviolable. Toda fuerza pública está impedida a tener acceso al mismo, salvo con permiso del Presidente del Congreso, quedando en todo caso bajo su mando.
 
-Al Director General le corresponderá:
+El Presidente del Congreso, podrá solicitar el auxilio de la fuerza pública para salvaguardar el fuero constitucional de sus integrantes y la inviolabilidad del Recinto.
 
-I. Administrar y realizar las tareas operativas de la Corporación, implementando las acciones necesarias para el buen funcionamiento de la misma;
+Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presidente del Congreso podrá decretar la suspensión de la Sesión hasta que la misma hubiere abandonado el Palacio del Poder Legislativo.
 
-II. Apoyar en lo administrativo y operativo al Presidente Ejecutivo para la buena marcha y consecución de los programas y proyectos de la Corporación, así como en los asuntos que éste le encomiende;
+###### ARTÍCULO 27.
 
-III. Celebrar toda clase de contratos y convenios con autoridades federales, estatales y municipales, con organismos públicos o privados y con particulares, que sean necesarios para apoyar en lo administrativo y operativo, al cumplimiento del objeto de la Corporación, de conformidad con los poderes que le otorgue la Junta de Gobierno para tal efecto;
+Ninguna autoridad podrá dictar mandamiento alguno que afecte los bienes del Poder Legislativo, ni ejecutar resoluciones judiciales o administrativas sobre las personas o bienes de los diputados en el interior del Palacio del Poder Legislativo.
 
-IV. Elaborar y presentar al Presidente Ejecutivo un anteproyecto de presupuesto de ingresos y egresos de la Corporación;
+## TÍTULO SEGUNDO. DE LOS ÓRGANOS DEL CONGRESO Y SUS ATRIBUCIONES
 
-V. Elaborar y presentar al Presidente Ejecutivo un anteproyecto de Reglamento Interno de la Corporación;
+### CAPÍTULO PRIMERO. DE LOS ÓRGANOS DEL CONGRESO
 
-VI. Conocer y resolver los asuntos de carácter administrativo y laboral relacionados con la administración de recursos humanos y materiales de la Corporación;
+###### ARTÍCULO 28.
 
-VII. Someter a la consideración del Presidente Ejecutivo los planes, programas y acciones que deban ejecutarse para el debido cumplimiento de los programas y proyectos de la Corporación;
+Son órganos del Congreso del Estado:
 
-VIII. Representar a la Corporación, por indicación del Presidente Ejecutivo, ante las autoridades o dependencias federales, estatales y/o municipales, ante entidades u organismos públicos, privados nacionales y extranjeros; y,
+I. Mesa Directiva;
 
-IX. Las demás que le establezcan esta Ley, otras disposiciones legales aplicables y el Reglamento Interior de la Corporación.
+II. Junta de Coordinación Política;
 
-###### Artículo 22.
+III. Conferencia para la Programación de los Trabajos Legislativos;
 
-Los directores de área serán nombrados por el Presidente Ejecutivo de la Corporación y tendrán las atribuciones que le señale el Reglamento Interior de la misma.
+IV. Comisiones; y,
 
-###### Artículo 23.
+V. Comités.
 
-El Gobernador del Estado a propuesta de la Contraloría General, en los términos de la legislación aplicable, designará y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno de la Corporación.
+### CAPÍTULO SEGUNDO. DE LA MESA DIRECTIVA
 
-###### Artículo 24.
+###### ARTÍCULO 29.
 
-Al Comisario le corresponderá:
+La Mesa Directiva se integra con un Presidente, quien es el Presidente del Congreso, un Vicepresidente y tres secretarios, por un periodo de un año, electos en votación nominal y en un solo acto, a propuesta de la Junta, cuidando la representación plural del Congreso.
 
-I. Vigilar que los gastos, cuentas y administración de los recursos de la Corporación se encaminen adecuadamente para el cumplimiento de su objeto y funciones, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como las disposiciones aplicables;
+La elección se hará en el mes de septiembre de cada año e iniciarán sus funciones el día quince del propio mes.
 
-II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría General de la Administración Pública Estatal;
+Sus integrantes no podrán ser reelectos, ni podrán presidirla los coordinadores de Grupo Parlamentario.
 
-III. Rendir un Informe anual de sus actividades a la Contraloría General de la Administración Pública Estatal, remitiendo copia del mismo a la Junta de Gobierno para su conocimiento;
+###### ARTÍCULO 30.
 
-IV. Recomendar a la Junta de Gobierno y al Presidente Ejecutivo, las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento de la corporación;
+La Mesa dispondrá de instalaciones adecuadas dentro del Palacio del Poder Legislativo, donde atenderá lo relativo a su encargo.
 
-V. Asistir a las sesiones de la Junta de Gobierno, sólo con derecho a voz, sin voto; y,
+###### ARTÍCULO 31.
 
-VI. Las demás que establezca esta Ley, otras disposiciones legales aplicables y el Reglamento Interior de la Corporación en su caso.
+Los nombres de los integrantes de la Mesa Directiva se comunicarán a los poderes del Estado y ayuntamientos de la Entidad, al Congreso de la Unión, a las Legislaturas de las entidades de la República y a la Asamblea Legislativa del Distrito Federal, señalando el periodo de su encargo.
 
-###### Artículo 25.
+###### ARTÍCULO 32.
 
-Lo correspondiente al Comisario se señala sin perjuicio de lo que le otorgue otras disposiciones legales, ni de aquéllas que le correspondan a otras dependencias de la Administración Pública Estatal conforme a las leyes en vigor.
+Corresponde al Presidente del Congreso preservar el orden y la libertad en el desarrollo de los debates, deliberaciones y votaciones en el Pleno; velar por el equilibrio entre las participaciones de los legisladores y de los grupos parlamentarios; asimismo hará prevalecer el interés general del Congreso por encima de los intereses particulares o de grupo, rigiendo su actuación por los principios de imparcialidad y objetividad.
 
-###### Artículo 26.
+El Presidente sólo responderá ante el Pleno, cuando en el ejercicio de sus atribuciones se aparte de las disposiciones que lo rigen.
 
-La Corporación contará con patrimonio propio que se integrará con:
+###### ARTÍCULO 33.
 
-I. Los recursos estatales previstos en las disposiciones presupuestales correspondientes para la aplicación en los programas, proyectos, obras y acciones que le están encomendadas a la Corporación de acuerdo a su objeto;
+Son atribuciones del Presidente del Congreso las siguientes:
 
-II. Los muebles, inmuebles y derechos que por cualquier título adquiera, o los que en el futuro aporten o afecten la Federación, el Estado, los Municipios y otras instituciones u organismos públicos o privados, personas físicas o morales, nacionales o extranjeras;
+I. Hacer respetar el Fuero Constitucional de los Diputados, la seguridad del Palacio del Poder Legislativo y velar por la inviolabilidad del Recinto;
 
-III. Las transferencias, aportaciones en dinero, bienes, subsidios, estímulos y prestaciones que reciba de los Gobiernos Federal, Estatal y Municipal, y los que obtenga de las demás instituciones públicas, privadas, personas físicas o morales;
+II. Representar jurídicamente al Congreso, con facultades generales y especiales, pudiendo delegar éstas en los funcionarios que él determine;
 
-IV. Los recursos económicos que obtenga por la contratación de créditos y mecanismos de financiamiento y operaciones financieras en general;
+III. Asumir o delegar la representación protocolaria del Congreso, solamente a los miembros de la Mesa Directiva, en primer término, a la Vicepresidencia;
 
-V. Los recursos que obtenga de las actividades materia de su objeto, así como los bienes y derechos que adquiera legalmente;
+IV. Citar, abrir, prorrogar, suspender y clausurar las sesiones de Pleno;
 
-VI. Los rendimientos, frutos, productos y los aprovechamientos que obtenga por las operaciones que realice o que le corresponda por cualquier título legal;
+V. Determinar los trámites que deban recaer en los asuntos que se dé cuenta al Pleno;
 
-VII. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas y morales; y,
+VI. Someter a discusión los asuntos de conformidad con la presente Ley y los reglamentos que de ella deriven;
 
-VIII. Cualquiera otra percepción de la cual el organismo resulte beneficiario.
+VII. Conducir los debates y deliberaciones del Pleno, preservando el orden y la libertad de las mismas;
 
-###### Artículo 27.
+VIII. Llamar al orden a los Diputados, exhortándolos a conducirse con respeto durante las sesiones;
 
-La Corporación queda sometida a las reglas de contabilidad, presupuesto y gasto público aplicable a la Administración Pública Estatal, de conformidad a lo establecido por el Código de la Hacienda Pública del Estado.
+IX. Exigir respeto al público asistente a las Sesiones y disponer se desaloje el Recinto cuando exista motivo para ello, requiriendo si es preciso, el auxilio de la fuerza pública;
 
-###### Artículo 28.
+X. Firmar con los Secretarios las minutas de Ley y Decreto, así como el acta aprobada de cada Sesión;
 
-Las relaciones laborales de la Corporación con el personal que tengan el carácter de servidor o funcionario público de ésta, se regirán por el Apartado "A", del artículo 123, Constitucional y su Ley Reglamentaria.
+XI. Turnar el trabajo a las comisiones y áreas correspondientes, de acuerdo con la materia de su competencia;
 
-###### Artículo 29.
+XII. Cuidar que las comisiones cumplan oportunamente con sus encargos, dando cuenta al Pleno de las omisiones e irregularidades que cometan;
 
-En lo no previsto en el presente ordenamiento se aplicarán, con el carácter de supletorio, las disposiciones contenidas en la Ley de Entidades Paraestatales del Estado de Chiapas.
+XIII. Formular excitativa a las comisiones que no hayan presentado dictamen, en términos de la presente Ley;
 
-#### Sección Primera. Del Consejo Ciudadano
+XIV. Convocar a Sesión a iniciativa propia, por acuerdo de la Junta, de la Conferencia, o a solicitud de los Diputados que representen la tercera parte del Congreso o por excitativa de los poderes del Estado;
 
-#### Sección Segunda. De la Junta de Gobierno
+XV. Convocar y presidir las reuniones de la Conferencia para la Programación de los Trabajos Legislativos;
 
-#### Sección Tercera. Del Presidente Ejecutivo de la Corporación
+XVI. Exhortar por escrito a los Diputados faltistas, a efecto de evitar su reincidencia;
 
-#### Sección Cuarta. De las Direcciones de la Corporación
+XVII. Declarar la falta de quórum cuando sea evidente o previo pase de lista, ordenando formular excitativa a los Diputados ausentes para que concurran;
 
-#### Sección Quinta. Del Comisario
+XVIII. Determinar el trámite de los asuntos de la Sesión, que no hayan sido incluidos en el proyecto de Orden del Día, tomando en cuenta la opinión de los integrantes de la Conferencia;
 
-## Transitorios
+XIX. Determinar los trámites para el desahogo del Orden del Día en las Sesiones y declarar, una vez tomadas las votaciones, la aprobación o desechamiento de cada asunto;
 
-Artículo Primero.- Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+XX. Conceder el uso de la voz a los diputados, cuando sea el caso; así como al Gobernador, al Presidente del Supremo Tribunal de Justicia o a sus representantes;
 
-Artículo Segundo.- La Junta de Gobierno de la Corporación deberá quedar instalada en un plazo no mayor de 15 días hábiles, contados a partir de la vigencia de este ordenamiento jurídico.
+XXI. Someter a votación del Pleno, la calificación de urgencia u obvia resolución, los trámites que así lo requieran;
 
-Artículo Tercero.- El Consejo Ciudadano de la Corporación deberá quedar constituido en un plazo no mayor de 15 días hábiles contados a partir de la instalación de la Junta de Gobierno.
+XXII. Conceder permisos económicos a los Díputados para faltar a Sesión, sin que puedan concederse al mismo Diputado más de cinco en el Año Legislativo, ni más de cuatro consecutivos. No podrá conceder más de seis permisos por Sesión;
 
-Artículo Cuarto.- La Junta de Gobierno aprobará el Reglamento Interior de la Corporación en un plazo no mayor a 30 días hábiles contados a partir de la fecha de su instalación.
+XXIII. Designar al Diputado que asuma una Secretaría, en el curso de una Sesión o para ésta, ante la ausencia del Secretario titular respetando el origen partidista;
 
-Artículo Quinto.- Quedan vigentes todas las disposiciones legales y reglamentarias, en cuanto no se opongan a esta Ley.
+XXIV. Firmar la correspondencia, requerimientos y demás comunicaciones oficiales del Congreso;
 
-El Ejecutivo del Estado dispondrá que se publique, circule y se le dé el debido cumplimiento.
+XXV. Recibir y turnar la denuncia de juicio político, a las Comisiones de Gobernación, de Puntos Constitucionales y de Justicia, en conjunto con la Comisión Jurisdiccional para los efectos legales procedentes;
 
-Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 22 días del mes de febrero del año 2007.- D. P. C. Roberto Domínguez Castellanos.- D. S. C. Juan Antonio Castillejos Castellanos.- Rúbricas.
+XXVI. Tomar la protesta a los Diputados y Servidores Públicos que por Ley la deban rendir;
 
-De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 23 días del mes de febrero del año 2007.
+XXVII. Formar parte con voz en las reuniones de la Junta de Coordinación Política;
 
-Juan José Sabines Guerrero, Gobernador Constitucional del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+XXVIII. Designar comisiones de cortesía y de protocolo que resulten pertinentes para cumplir con el ceremonial;
+
+XXIX. Declarar al Congreso en Jurado de Sentencia cuando así proceda;
+
+XXX. Solicitar el auxilio de la fuerza pública en los casos que resulten necesarios;
+
+XXXI. Exigir al Secretario de Administración y Finanzas, la exhibición de una fianza antes de iniciar el ejercicio de sus funciones, misma que deberá ser renovada en forma anual; y,
+
+XXXII. Las demás que le confiera la presente Ley, los ordenamientos que de ella deriven o acuerdos que emita el Pleno.
+
+###### ARTÍCULO 34.
+
+El Vicepresidente asiste al Presidente del Congreso en el ejercicio de sus funciones. En ausencia del Presidente, el Vicepresidente ejercerá todas las facultades y obligaciones de éste.
+
+Si la ausencia es por un plazo mayor a treinta días naturales, se declarará vacante el cargo y se realizará, a la brevedad, la elección correspondiente, para concluir el periodo respetando el origen partidista.
+
+Las representaciones protocolarias del Congreso serán asumidas prioritariamente por el Vicepresidente, y en su caso por cualquier miembro de la Mesa Directiva.
+
+Para cubrir la ausencia definitiva de cualquiera de los miembros de la Mesa, se realizará el mismo procedimiento que para su designación.
+
+###### ARTÍCULO 35.
+
+Las Secretarías, son órganos de apoyo a la Presidencia en sus labores Legislativas; en el orden de su elección, los Diputados electos como Secretarios ocuparán la primera, la segunda y la tercera secretaría.
+
+###### ARTÍCULO 36.
+
+Son atribuciones comunes a los secretarios:
+
+I. Auxiliar al Presidente del Congreso en la atención de los asuntos de que conozca el Pleno;
+
+II. Suplir al Presidente en sus ausencias transitorias durante las sesiones;
+
+III. Realizar las lecturas que para el desahogo del Orden del Día les sean instruidas;
+
+IV. Suscribir los acuerdos del Pleno y conjuntamente con el Presidente las minutas de Ley o Decreto y las actas aprobadas de las sesiones; y,
+
+V. Concurrir, por los menos una hora antes de que se celebre la sesión, con el objeto de revisar el acta de la sesión anterior y tomar conocimiento de los asuntos que deberá dar cuenta al Pleno del Congreso.
+
+###### ARTÍCULO 37.
+
+Son atribuciones del Primer Secretario:
+
+I. Autorizar el proyecto de Acta de las Sesiones, las que una vez aprobadas y firmadas, integrará y compilará cronológicamente en el libro, quedando a su cargo su actualización y resguardo;
+
+II. Verificar que las Iniciativas, dictámenes, propuestas de Acuerdo y demás documentos, que vayan a ser objeto de debate se distribuyan oportunamente a los Diputados, por lo menos un día antes de la Sesión o se publiquen en la Gaceta Parlamentaria, salvo casos de fuerza mayor acordados por la Conferencia y las excepciones que prevé esta Ley;
+
+III. Supervisar la edición de la Gaceta Parlamentaria, que deberá distribuirse a los Diputados, vigilando su entrega oportuna;
+
+IV. Supervisar y aprobar la edición del “Diario de los Debates”, que consignará la trascripción literal de lo expresado en las sesiones de Pleno en un plazo no mayor de cinco días siguientes a su aprobación;
+
+V. Dar cuenta al Pleno, del proyecto de Orden del Día, y realizar las lecturas que para su desahogo, le sean instruidas;
+
+VI. Autorizar las minutas de Ley o Decreto, que se integrarán en el libro en el que se compilen cronológicamente, quedando a su cargo la actualización y resguardo;
+
+VII. Al finalizar cada año legislativo, presentar un informe a la Junta de Coordinación Política sobre los trabajos realizados por el Pleno a través de la Secretaría de Servicios Parlamentarios; dicho informe, deberá ser entregado de manera impresa y por medio electrónico, magnético, óptico u otros, y deberá ser publicado en la página oficial de Internet del Congreso a más tardar cinco días hábiles después de finalizado el año legislativo;
+
+VIII. Informar por escrito al Presidente del Congreso sobre las faltas en que incurran los diputados;
+
+IX. Redactar personalmente las actas de las sesiones privadas; y,
+
+X. Las demás que le confiera la presente Ley, los ordenamientos que de ella se deriven y demás disposiciones emanadas del Congreso.
+
+###### ARTÍCULO 38.
+
+Son atribuciones del Segundo Secretario:
+
+I. Pasar lista a los Diputados, integrar el Registro de Asistencia y comprobar la existencia del quórum, para dar inicio a las Sesiones y siempre que le sea instruido;
+
+II. Formular excitativa para que concurran los Diputados ausentes, cuando se haya declarado la falta de quórum;
+
+III. Computar las votaciones e informar su resultado, a efecto de que el Presidente formule la declaración que proceda;
+
+IV. Tomar nota de las observaciones y modificaciones a los dictámenes y puntos de acuerdo que apruebe el Pleno, para integrarlas al acta respectiva;
+
+V. En la primera sesión de cada mes, informar al Pleno sobre las inasistencias de los Diputados durante el mes anterior, señalando en su caso las causas que las motivaron; y,
+
+VI. Las demás que le confiera la presente Ley, los ordenamientos que de ella se deriven y demás disposiciones emanadas del Congreso.
+
+###### ARTÍCULO 39.
+
+Son atribuciones del Tercer Secretario:
+
+I. Abrir, integrar y actualizar los expedientes de los asuntos recibidos por el Congreso, asentar y suscribir el trámite que se les dé;
+
+II. Expedir certificaciones documentales y asentarlas bajo su firma en el libro respectivo;
+
+III. Rendir al Pleno, un informe de los asuntos que fueron despachados y los que aún están en trámite, una vez concluido el periodo de la Mesa Directiva, en la primera Sesión del periodo inmediato posterior;
+
+IV. Hacer que se compilen, ordenen y sistematicen las Actas de las Sesiones;
+
+V. Integrar un libro en el que se compilen en orden cronológico, los acuerdos aprobados por el Congreso;
+
+VI. Integrar un libro en el que se asienten textualmente y por orden cronológico, las minutas de ley o decreto aprobadas por el Congreso; y,
+
+VII. Las demás que le confiera la presente Ley, los ordenamientos que de ella se deriven y demás disposiciones emanadas del Congreso.
+
+###### ARTÍCULO 40.
+
+Ante la falta de algún Secretario, el Presidente designará de entre el Pleno a quien deba desempeñar dicho cargo, solamente para el desarrollo de la Sesión. En caso de ausencia mayor a treinta días o definitiva, el Congreso nombrará un Secretario Interino para que concluya el período; en ambos casos se respetará el origen partidista.
+
+### CAPÍTULO TERCERO. DE LA JUNTA DE COORDINACIÓN POLÍTICA
+
+###### ARTÍCULO 41.
+
+La Junta representa la integración política del Congreso y por tanto, es el órgano que impulsa el entendimiento político entre los Diputados, así como con las instancias y órganos que resulte necesario, a fin de alcanzar acuerdos para que el Pleno, esté en condiciones de adoptar las decisiones que le corresponden.
+
+###### ARTÍCULO 42.
+
+La Junta es un órgano colegiado que se integrará, inmediatamente después de la segunda Sesión del primer Año Legislativo de cada Legislatura, con los Coordinadores de Grupo Parlamentario, en su caso el Diputado propuesto por la Representación Parlamentaria, y por el Presidente del Congreso quien tendrá derecho a voz.
+
+Sus decisiones serán tomadas por voto ponderado, siendo aquél que corresponde de manera proporcional al número de Diputados que representa.
+
+###### ARTÍCULO 43.
+
+La Junta tendrá un Presidente. La Presidencia de la Junta será rotativa entre los Coordinadores de los Grupos Parlamentarios que representen al menos el veinte por ciento del Congreso, con una duración continua y proporcional.
+
+###### ARTÍCULO 44.
+
+El Secretario de Servicios Parlamentarios fungirá como Secretario Técnico de la Junta, quien se encargará de preparar los documentos necesarios para las reuniones, levantar las actas de las mismas, integrar el registro de los acuerdos y vigilar su cumplimiento, dando cuenta a la propia Junta.
+
+###### ARTÍCULO 45.
+
+En caso de ausencia definitiva de un Coordinador, el Grupo parlamentario al que pertenezca, lo sustituirá de inmediato mediante el procedimiento que marquen sus estatutos y normas internas.
+
+###### ARTÍCULO 46.
+
+La Presidencia del Congreso dará cuenta al Pleno de la integración de la Junta y de cualquier cambio.
+
+###### ARTÍCULO 47.
+
+La Junta tiene las atribuciones siguientes:
+
+I. Establecer los criterios para la conducción de las relaciones del Congreso con los demás Poderes del Estado, de la Unión, de las Entidades Federativas, el Distrito Federal y los municipios del Estado;
+
+II. Someter al Pleno, propuestas de Acuerdo y pronunciamientos;
+
+III. Impulsar los acuerdos relativos a la votación de dictámenes, propuestas de Acuerdo y demás asuntos que lo requieran, atendiendo la opinión de los diputados;
+
+IV. Acordar el curso de los asuntos turnados al Congreso, cuando su atención deba ser de inmediata resolución;
+
+V. Establecer con base en las propuestas que haga el Comité de Administración y Control, los lineamientos administrativos de carácter general del Congreso;
+
+VI. Participar en la coordinación de los trabajos de las secretarías de Servicios Parlamentarios y de Administración y Finanzas, para su buen funcionamiento;
+
+VII. Proponer al Pleno las ternas para la designación de Secretario de Servicios Parlamentarios, Secretario de Administración y Finanzas, Contralor Interno, Auditor Superior de Michoacán, Auditores Especiales, Director del Instituto de Investigaciones y Estudios Legislativos, Coordinador de Comunicación Social, Coordinador de Atención Ciudadana y Gestoría, Coordinador de Transparencia y Acceso a la Información Pública y Coordinador de Editorial, Biblioteca y Archivo;
+
+VIII. Proponer al Pleno la remoción de los funcionarios a que se refiere la fracción anterior, cuando concurran causas previstas en la ley;
+
+IX. Proponer al Pleno, a los diputados que habrán de integrar la Mesa, las Comisiones y Comités;
+
+X. Participar con la Mesa Directiva en la conducción y desahogo de los asuntos del Pleno;
+
+XI. Proponer al Pleno, en coordinación con el Comité de Administración y Control el proyecto de presupuesto anual del Poder Legislativo;
+
+XII. Someter a discusión y aprobación del Pleno el informe financiero y ejecución presupuestal trimestral en el que se haga constar el estado que guardan las finanzas del Congreso;
+
+XIII. Recibir de los Diputados y presentar al Pleno, las propuestas de los diputados que representen al Poder Legislativo en el Consejo General del Instituto Electoral de Michoacán, y ante los consejos y órganos autónomos donde deba haber representantes de este Poder;
+
+XIV. Refrendar los acuerdos legislativos que emita la Conferencia para la Programación de los Trabajos Legislativos;
+
+XV. Modificar hasta veinticuatro horas antes el Orden del Día de las Sesiones que presente la Conferencia para la Programación de los Trabajos Legislativos, en lo relativo a puntos de acuerdo y posicionamientos, de lo contrario se atenderá al orden establecido por la Conferencia; y,
+
+XVI. Las demás que le confieran esta Ley, las disposiciones reglamentarias y los acuerdos del Congreso.
+
+###### ARTÍCULO 48.
+
+La Junta dispondrá de un espacio adecuado en las instalaciones del Congreso donde sesionará cuando menos una vez al mes.
+
+###### ARTÍCULO 49.
+
+Son facultades del Presidente de la Junta:
+
+I. Representar a la Junta;
+
+II. Convocar en los términos de esta Ley a las reuniones de la Junta, si así no lo hiciere los demás integrantes podrán hacerlo mediante el ejercicio del voto ponderado;
+
+III. Conducir las reuniones de la Junta y excepcionalmente, lo podrá hacer cualquiera de los miembros, en los términos de la fracción anterior;
+
+IV. Coordinar las actividades de la Junta con las realizadas por el Pleno;
+
+V. Suscribir con el Secretario Técnico y los integrantes las actas de los acuerdos;
+
+VI. Coordinar las actividades de la Junta con las realizadas por los órganos del Poder Legislativo;
+
+VII. Vigilar el cumplimiento de los acuerdos de la Junta de Coordinación Política; y,
+
+VIII. Las demás que le confieran esta Ley, las disposiciones reglamentarias y los acuerdos del Congreso.
+
+### CAPÍTULO CUARTO. DE LA CONFERENCIA PARA LA PROGRAMACIÓN DE LOS TRABAJOS LEGISLATIVOS
+
+###### ARTÍCULO 50.
+
+La Conferencia para la Programación de los Trabajos Legislativos es el órgano colegiado que impulsa la integración, seguimiento y cumplimiento de la Agenda Legislativa, la calendarización para su desahogo y la integración básica del proyecto de Orden del Día de las sesiones y sus trámites.
+
+La Conferencia se integra por el Presidente del Congreso, quien la preside, y la Junta de Coordinación Política.
+
+A las reuniones podrá citar a los Diputados que presidan comisiones o comités, para el desahogo de asuntos de su competencia.
+
+El Secretario de Servicios Parlamentarios, será Secretario Técnico de la Conferencia, quien preparará los documentos necesarios para las reuniones, levantará las actas de las mismas, integrará el registro de los acuerdos y supervisará su cumplimiento dando cuenta a la propia Conferencia.
+
+La Conferencia deberá instalarse en cada Legislatura, una vez constituida la Junta.
+
+###### ARTÍCULO 51.
+
+La Conferencia tiene las siguientes atribuciones:
+
+I. Establecer la Agenda Legislativa anual, la calendarización para su desahogo y cumplimiento;
+
+II. Integrar el proyecto de Orden del Día de cada Sesión, el cual deberá ser presentado a la Junta para su ratificación, por lo menos cuarenta y ocho horas antes de cada Sesión;
+
+III. Requerir el plan de trabajo y su informe anual a las comisiones y comités;
+
+IV. Establecer, por conducto del Presidente del Congreso, las reuniones trimestrales con los Presidentes de comisiones o comités, así como las tareas para impulsar el trabajo de las comisiones o comités; y,
+
+V. Las demás que le confieran esta Ley, las disposiciones reglamentarias y los acuerdos del Congreso.
+
+### CAPÍTULO QUINTO. DE LAS COMISIONES Y COMITÉS
+
+#### SECCIÓN I. DE LAS COMISIONES
+
+###### ARTÍCULO 52.
+
+Para el desempeño de sus atribuciones legislativas, administrativas, de fiscalización e investigación del Congreso, los Diputados integrarán Comisiones, las que atendiendo a sus atribuciones, serán:
+
+I. De dictamen;
+
+II. Especiales; y,
+
+III. De protocolo.
+
+Las Comisiones deberán contar para el desempeño de sus funciones, con los elementos humanos, materiales y financieros necesarios.
+
+###### ARTÍCULO 53.
+
+Todas las Comisiones son colegiadas y se integrarán procurando reflejar la pluralidad del Congreso con un mínimo de tres y un máximo de cinco Diputados, presididas por el primero de los nombrados a propuesta de la Junta.
+
+###### ARTÍCULO 54.
+
+Las comisiones de Dictamen se constituyen a propuesta de la Junta la que se presentará al Pleno, a más tardar en la segunda sesión del primer año legislativo, determinando su integración y presidencias.
+
+Las comisiones podrán ser reestructuradas total o parcialmente, siguiendo el mismo procedimiento de este artículo.
+
+En caso de que algún Diputado se separe del Grupo parlamentario al que pertenecía en el momento de integrarse las Comisiones, el Coordinador del Grupo parlamentario podrá proponer su sustitución a la Junta.
+
+###### ARTÍCULO 55.
+
+Ningún Diputado puede presidir más de una comisión o comité, ni integrar más de tres comisiones o comités. El Presidente del Congreso podrá suspender su participación en las comisiones, en tanto dure su encargo.
+
+###### ARTÍCULO 56.
+
+Los presidentes de comisiones son responsables de los expedientes turnados, que les serán entregados a través de la Secretaría de Servicios Parlamentarios, firmando constancia de ello para su custodia o resguardo. Las comisiones conocerán de los asuntos que les hayan sido turnados.
+
+Las comisiones, mediante acuerdo fundado y motivado, podrán solicitar al Presidente del Congreso, el turno de un asunto del que conozca otra Comisión, para dictaminar conjuntamente con aquella, siempre y cuando el asunto de referencia no haya sido turnado ya a dos comisiones.
+
+###### ARTÍCULO 57.
+
+En las comisiones, nadie puede dictaminar sobre asuntos en que tenga conflicto de interés, entendiéndose por ello el interés directo, de su cónyuge o familiares en línea recta sin limitación de grado y consanguíneos hasta el cuarto grado; o bien, tratándose de los procedimientos de juicio político y declaración de procedencia; se tenga amistad íntima o enemistad manifiesta con el funcionario sujeto a proceso, el acusador o el representante de cualquiera de éstos.
+
+En tal circunstancia deberá excusarse, o ser recusado a pedimento fundado de un diputado ante el Pleno, donde será votada.
+
+Cuando alguno de sus integrantes sea recusado, a propuesta del Grupo Parlamentario de origen el Pleno elegirá a quien deba suplirlo, únicamente en ese asunto.
+
+###### ARTÍCULO 58.
+
+En el estudio y análisis de los asuntos de su competencia, las Comisiones mediante acuerdo y por conducto de su Presidente, pueden solicitar oficialmente a cualquier servidor público, la información y copias certificadas de documentos que estimen necesarias para ilustrar su juicio en el despacho de los negocios.
+
+Queda obligado todo servidor público a proporcionar la información en un plazo no mayor a treinta días naturales, y si la misma no fuere remitida, la Comisión respectiva podrá emitir acuerdo de queja que se remitirá a la brevedad al Poder Ejecutivo por conducto de la Presidencia del Congreso, para efectos de ley.
+
+A las reuniones de Comisión, previo acuerdo, se podrá invitar a personas o representantes de organismos públicos, privados, sociales y académicos a que participen en la discusión de los asuntos.
+
+Podrán citar a comparecer a cualquier funcionario de la Administración Pública Estatal, Poder Judicial u órgano constitucional autónomo con el objeto de rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia. Siendo necesario acuerdo de la Comisión correspondiente, mismo que se remitirá a la Presidencia del Congreso para que ésta notifique formalmente al Gobernador, Presidente del Supremo Tribunal de Justicia del Estado o titular del órgano que corresponda, así como al funcionario respectivo.
+
+Las Comisiones, de acuerdo con su competencia, podrán dar opinión fundada a la Comisión Inspectora de la Auditoría Superior de Michoacán, con base en el informe que rinda el Gobernador y demás entidades fiscalizables, misma que tendrá por objeto hacer observaciones sobre aspectos presupuestales específicos, en relación al cumplimiento de los objetivos de los planes y programas del ramo correspondiente a la Administración Pública Estatal, para que, en su caso, sean consideradas en la revisión de la Cuenta Pública.
+
+###### ARTÍCULO 59.
+
+Todo Diputado puede participar en cualquier Comisión o comité de la que no sea integrante, con voz pero sin voto.
+
+###### ARTÍCULO 60.
+
+Se considerará trabajo de comisiones unidas cuando un asunto sea turnado a dos Comisiones, las cuales dictaminarán en forma conjunta, coordinando los trabajos la primera nombrada en el turno.
+
+###### ARTÍCULO 61.
+
+Para su funcionamiento, las Comisiones deberán:
+
+I. Elaborar dentro del primer trimestre del primer Año Legislativo, un programa de trabajo para ser presentado a la Conferencia;
+
+II. Sesionar ordinariamente por lo menos una vez al mes, previo citatorio de su presidente, o a petición de la mayoría de sus integrantes, con al menos cuarenta y ocho horas de anticipación, el cual deberá contener el orden del día y los documentos sobre los cuales versará la reunión;
+
+III. Integrarán quórum con el cincuenta por ciento más uno del total de sus integrantes;
+
+IV. Adoptar sus decisiones y resoluciones por mayoría de votos de sus integrantes; quien disintiera de la mayoría podrá presentar dictamen de minoría;
+
+V. Llevar un registro de los asuntos y resguardo de los expedientes turnados;
+
+VI. Implementar un archivo de todos los asuntos turnados, mismo que deberán ser entregados a la siguiente Legislatura; y,
+
+VII. Rendir un informe anual de sus actividades a la Conferencia.
+
+###### ARTÍCULO 62.
+
+Son Comisiones de dictamen:
+
+I. Asuntos Electorales y Participación Ciudadana;
+
+II. Ciencia, Tecnología e Innovación;
+
+III. Comunicaciones y Transportes;
+
+IV. Cultura y Artes;
+
+V. Derechos Humanos;
+
+VI. Desarrollo Rural;
+
+VII. Desarrollo Social;
+
+VIII. Desarrollo Sustentable y Medio Ambiente;
+
+IX. Desarrollo Urbano, Obra Pública y Vivienda;
+
+X. Educación;
+
+XI. Equidad de Género;
+
+XII. Fortalecimiento Municipal y Límites Territoriales;
+
+XIII. Gobernación;
+
+XIV. Hacienda y Deuda Pública;
+
+XV. Industria, Comercio y Servicios;
+
+XVI. Inspectora de la Auditoría Superior de Michoacán;
+
+XVII. Jóvenes y Deporte;
+
+XVIII. Jurisdiccional;
+
+XIX. Justicia;
+
+XX. Migración;
+
+XXI. Programación, Presupuesto y Cuenta Pública;
+
+XXII. Pueblos Indígenas;
+
+XXIII. Puntos Constitucionales;
+
+XXIV. Régimen y Prácticas Parlamentarias;
+
+XXV. Salud y Asistencia Social;
+
+XXVI. Seguridad Pública y Protección Civil;
+
+XXVII. Trabajo y Previsión Social; y,
+
+XXVIII. Turismo.
+
+###### ARTÍCULO 63.
+
+Las Comisiones de dictamen establecidas en el artículo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por la Constitución, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Estatal.
+
+###### ARTÍCULO 64.
+
+Son atribuciones de las Comisiones de dictamen:
+
+I. Recibir, conocer, analizar y dictaminar las iniciativas de ley o decreto y asuntos que sean turnados a ellas por el Pleno;
+
+II. Proponer al Pleno la adopción de acuerdos, comunicaciones o exhortos de temas relacionados con su ámbito competencial;
+
+III. Presentar en los tiempos previstos por esta Ley, los dictámenes, acuerdos, informes o comunicaciones de los asuntos que les sean turnados;
+
+IV. Regresar al Presidente del Congreso los asuntos que a su juicio no sean de su competencia, siendo facultad exclusiva de la Presidencia confirmar o rectificar el turno;
+
+V. Presentar iniciativas con carácter de dictamen en los asuntos de su competencia;
+
+VI. Analizar y formular opinión sobre el Plan Estatal de Desarrollo que sea presentado por el Gobernador, en la materia de su competencia;
+
+VII. Dar opinión fundada a la Comisión Inspectora de la Auditoría Superior de Michoacán sobre aspectos presupuéstales específicos, en relación al cumplimiento de los objetivos de los planes y programas del ramo correspondiente al Poder Judicial, Administración Pública Estatal y organismos autónomos para que, en su caso, sean consideradas la revisión de la cuenta pública.
+
+VIII. Glosar los informes anuales del Poder Ejecutivo en la materia de su competencia a más tardar en el mes de junio;
+
+IX. Solicitar a la Presidencia del Congreso se emita comunicación a funcionarios a efecto que comparezcan, presenten documentos o informes necesarios para la atención de los asuntos de su competencia;
+
+X. Realizar por sí o a través de las unidades administrativas del Congreso que corresponda, estudios, investigaciones o consultas de los asuntos a su cargo; y,
+
+XI. Las demás que le señalen la Ley y el Reglamento.
+
+###### ARTÍCULO 65.
+
+Las reuniones de Comisión serán convocadas por su Presidente o la mayoría de sus integrantes, con al menos cuarenta y ocho horas de anticipación; serán públicas, salvo acuerdo de sus integrantes que determine que sean privadas.
+
+A las reuniones de Comisión pueden asistir, a invitación expresa de la misma, representantes de grupos de interés, peritos u otras personas que puedan informar sobre determinado asunto.
+
+En el caso de Comisiones Unidas, serán convocadas por el Presidente de la Comisión que encabece los trabajos Legislativos e integrarán quórum con el cincuenta por ciento más uno del total de sus integrantes.
+
+Concluido el análisis de un expediente, el Presidente de la Comisión con apoyo del Secretario Técnico, elaborará el proyecto de Dictamen, para el trámite ante el Pleno.
+
+###### ARTÍCULO 66.
+
+Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros presentes. El Presidente tendrá voto de calidad en caso de empate.
+
+Cuando alguno de los miembros disienta de la resolución adoptada, podrá solicitar se adicione al proyecto dictamen de minoría o voto particular que deberá ser leído como parte del dictamen respectivo.
+
+###### ARTÍCULO 67.
+
+Corresponde a la Comisión de Asuntos Electorales y Participación Ciudadana conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Conocer y dictaminar las iniciativas en materia de participación ciudadana;
+
+II. Conocer los asuntos en que de manera directa participe la ciudadanía organizada;
+
+III. Conocer los mecanismos institucionales para facilitar la intervención de los ciudadanos en la elaboración de políticas y programas de gobierno;
+
+IV. Turnar a las dependencias correspondientes del Gobierno del Estado y los Municipios, las demandas de los ciudadanos;
+
+V. Los relacionados con el otorgamiento de premios, estímulos y reconocimientos que otorgue el Congreso;
+
+VI. La Legislación electoral;
+
+VII. La convocatoria a elecciones extraordinarias, en los términos de la Constitución;
+
+VIII. Las propuestas de Consejeros Ciudadanos y Magistrados para la integración del Instituto Electoral del Estado de Michoacán y el Tribunal Electoral del Estado de Michoacán;
+
+IX. La autorización y convocatoria para la realización del plebiscito, referéndum y participación ciudadana, de acuerdo con la Constitución, el Código Electoral del Estado y la Legislación de la materia; y,
+
+X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 68.
+
+Corresponde a la Comisión de Ciencia, Tecnología e Innovación, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los derivados de las leyes relacionadas con la ciencia, la tecnología e innovación en el Estado;
+
+II. Los relativos a la creación de instituciones científicas y tecnológicas que son competencia del Estado;
+
+III. Los concernientes a la expedición, reformas y adiciones a la Legislación Estatal de la materia;
+
+IV. Los planes estatales de desarrollo en ciencia, tecnología e innovación que ejecute el Gobierno del Estado;
+
+V. Las acciones que realicen en el Estado y Municipios en materia de ciencia, tecnología e innovación;
+
+VI. Las políticas, planes y programas; así como asuntos relativos al fomento de la ciencia, la tecnología e innovación en el Estado; y,
+
+VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 69.
+
+Corresponde a la Comisión de Comunicaciones y Transportes, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los relacionados a la expedición, reforma, adición y derogación de la Legislación en materia de comunicaciones y transporte;
+
+II. Los relativos a autorizaciones que solicite el Ejecutivo del Estado, cuya materia sea relativa a vías de comunicación estatales;
+
+III. La realización de foros, consultas o mesas de trabajo en coordinación con las autoridades, grupos interesados en el tema y con la población en general, para la actualización de la Legislación en materia de transporte en el Estado;
+
+IV. Promover las iniciativas o acciones para consolidar la estructura del transporte público de pasajeros y de carga;
+
+V. Emitir opinión sobre los programas de expansión y mejoramiento del transporte público implementados por el Ejecutivo del Estado;
+
+VI. Recibir la propuesta de los prestadores del servicio del transporte público para la actualización del marco jurídico que regula esta actividad;
+
+VII. Opinar sobre los convenios que celebren las autoridades Federales, del Estado, sus municipios o de otras entidades federativas, en materia de sistemas de tránsito, control de vehículos, de conductores y de transportes, cuando se trate de servicios en que tenga interés el Estado y coadyuve a la solución de conflictos en la materia;
+
+VIII. Emitir opinión, y en su caso impulsar ante el Pleno acuerdos para fijar posturas en relación a las tarifas por el servicio público de transporte concesionado;
+
+IX. Las normas referentes a las infracciones y sanciones respecto del trasporte público en el Estado, el tránsito de vehículos y la vialidad;
+
+X. El funcionamiento de las vías de comunicación y telecomunicación estatales;
+
+XI. Las políticas, planes y programas para la difusión y fortalecimiento de la cultura y educación vial; y,
+
+XII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 70.
+
+Corresponde a la Comisión de Cultura y Artes, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. La conservación, el fomento y estímulo de las manifestaciones de creatividad artística e intelectual;
+
+II. Los relativos a la protección del patrimonio cultural, artístico, documental y arquitectónico e histórico que sean de la competencia del Estado y municipios;
+
+III. Los relacionados con la promoción, fomento y difusión de las actividades culturales y recreativas;
+
+IV. Lo concerniente a la rendición de honores a la memoria de los michoacanos que hayan prestado servicios de importancia al Estado;
+
+V. La legislación en materia de promoción de las bellas artes, manifestaciones artísticas y culturales, así como de patrimonio cultural;
+
+VI. El otorgamiento de preseas o reconocimientos en las diferentes áreas culturales;
+
+VII. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
+
+VIII. El fomento y estímulo de las manifestaciones de creatividad artística e intelectual en el Estado;
+
+IX. Los planes y programas en materia de cultura; y,
+
+X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 71.
+
+Corresponde a la Comisión de Derechos Humanos, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los relativos a la promoción, defensa y preservación de los derechos humanos;
+
+II. Los relativos al nombramiento y destitución del Presidente y consejeros de la Comisión Estatal de Derechos Humanos;
+
+III. Los relativos a denuncias sobre violación de Derechos Humanos, para su conocimiento y canalización, en su caso;
+
+IV. Dar seguimiento a las recomendaciones emitidas por las Comisiones tanto Nacional, como a la Comisión de Derechos Humanos del Estado;
+
+V. La normatividad aplicable en el Estado, para la difusión, protección, defensa y conservación, de los derechos humanos de los individuos y grupos sociales que regula la Constitución Política de los Estados Unidos Mexicanos; así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por el Pleno General de las Naciones Unidas y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o de los que México sea Estado parte;
+
+VI. La revisión de la legislación, para reformar o derogar todas las normas que impliquen cualquier forma de discriminación y que tengan por objeto anular o menoscabar los derechos y libertades de las personas;
+
+VII. Revisar la legislación del Estado, con el objeto de establecer propuestas tendientes a garantizar la igualdad, equidad y tolerancia, en los distintos grupos sociales;
+
+VIII. Los que se relacionen con el tutelaje y protección de los derechos de los grupos en situación de vulnerabilidad;
+
+IX. Las iniciativas relativas al fortalecimiento de la familia como núcleo básico de la sociedad;
+
+X. Las iniciativas en materia de la regulación de los derechos de la infancia;
+
+XI. La Legislación relativa a la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas adultos mayores, tendiente a mejorar su calidad de vida;
+
+XII. Fomentar iniciativas y proyectos legislativos tendientes a proteger los derechos humanos de las personas con discapacidad, así como las acciones orientadas a erradicar los mecanismos que impiden la inclusión, integración y desarrollo humanos (sic) y social;
+
+XIII. Revisar la legislación del Estado para reformar o derogar todas las normas que impliquen discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+
+XIV. Fomentar el desarrollo de políticas, planes y programas para el fortalecimiento de los Derechos Humanos; y,
+
+XV. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 72.
+
+Corresponde a la Comisión de Desarrollo Rural, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los referentes a las estrategias de fomento a las actividades agropecuarias, forestales, piscícolas, de fauna, y agroindustriales que remitan otras entidades federativas;
+
+II. Las iniciativas en materia de desarrollo rural en el Estado;
+
+III. Los relativos a la gestión y apoyo de acciones tendientes a mejorar la situación del campo, así como las actividades agrícolas y ganaderas en el Estado;
+
+IV. Los relativos a la materia de sanidad animal y vegetal;
+
+V. Los concernientes a los planes de desarrollo agrícola; y los relativos a la aplicación de las disposiciones de la Ley Agraria, dentro de la competencia Estatal;
+
+VI. Los relacionados con los programas y acciones en materia de desarrollo rural sustentable y de desarrollo agropecuario que ejecute el Gobierno del Estado en favor de ejidatarios, comuneros o pequeños propietarios agrícolas, forestales y ganaderos que sean de competencia Estatal, de conformidad con las disposiciones de las leyes de la materia;
+
+VII. Lo relacionado a políticas de inversión, financiamiento, subsidios, apoyo técnico e investigación en la producción, industrialización y comercialización de productos agropecuarios;
+
+VIII. Participar en los trabajos del Comité Estatal de Desarrollo Sustentable; y,
+
+IX. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 73.
+
+Corresponde a la Comisión de Desarrollo Social, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los referentes a la gestión y apoyo a organizaciones no gubernamentales, cuyo objeto sea el desarrollo social en el Estado;
+
+II. Los relativos a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
+
+III. Las bases sobre las cuales se reglamente la coordinación de acciones entre el Ejecutivo del Estado con los Municipios y sectores de la población, para la ejecución de los programas de beneficio colectivo;
+
+IV. La promoción para que se mejoren los programas federales, estatales y municipales destinados a la salud, educación, seguridad, cultura, recreación, deporte y combate a las drogas y al alcoholismo;
+
+V. Los relativos a la política de desarrollo económico integral y de beneficio social; y,
+
+VI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 74.
+
+Corresponde a la Comisión de Desarrollo Sustentable, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Dar a conocer, en su caso, los asuntos relacionados con la legislación en materia de ecología, biodiversidad y recursos naturales;
+
+II. Conocer y opinar sobre los casos relacionados con la afectación del entorno ambiental que puedan producir los establecimientos industriales, comerciales, los desarrollos urbanos y en los casos que le confieren las leyes relacionadas con la ecología, los recursos naturales y la biodiversidad, vigentes;
+
+III. Los relacionados con la Legislación en materia de protección forestal y de vida silvestre de competencia Estatal;
+
+IV. Los que se refieran al tratamiento de aguas residuales de plantas industriales;
+
+V. La protección del medio ambiente;
+
+VI. Coadyuvar con las políticas y programas educativos sobre ecología y preservación del medio ambiente;
+
+VII. La restauración y preservación de equilibrio ecológico;
+
+VIII. La protección y preservación de áreas de reserva ecológica;
+
+IX. La instalación y operación de confinamientos y, en general, depósitos de residuos o desechos en el territorio del Estado;
+
+X. Los tocantes a la protección de los animales; y,
+
+XI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 75.
+
+Corresponde a la Comisión de Desarrollo Urbano, Obra Pública y Vivienda participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Referidos a la expedición, reformas y adiciones a la Legislación de Asentamientos humanos; Desarrollo urbano; de Obras públicas; y Vivienda;
+
+II. Relativos al fraccionamiento y enajenación de las extensiones que llegaren a exceder los límites señalados, en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+
+III. Conocer, opinar y en su caso proponer al Titular del Poder Ejecutivo y a los Ayuntamientos las modificaciones o adiciones al Plan Estatal y los Planes Municipales de Desarrollo Urbano;
+
+IV. Conocer los asuntos relacionados con la creación de centros de población, declaratorias sobre provisiones, reservas, uso de suelo y destinos de áreas;
+
+V. Las normas jurídicas relacionadas con las construcciones, la vivienda, la fusión, subdivisión, fraccionamiento y relotificación de terrenos;
+
+VI. Las normas jurídicas relacionadas con las obras públicas de los gobiernos del Estado o de los Municipios;
+
+VII. La desafectación de bienes muebles e inmuebles, destinados al dominio público y al uso común, mediante el procedimiento correspondiente;
+
+VIII. Referentes a la autorización al Ejecutivo para enajenar bienes inmuebles propiedad del Estado;
+
+IX. Relativos a la autorización a los ayuntamientos para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público o uso común municipal; y,
+
+X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 76.
+
+Corresponde a la Comisión de Educación, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los concernientes a la expedición, reformas y adiciones a la legislación estatal de la materia;
+
+II. Los relacionados con peticiones referentes al rubro educativo;
+
+III. La consulta y concertación con autoridades educativas tendientes al mejoramiento de la Legislación Estatal de la materia;
+
+IV. El otorgamiento de premios y reconocimientos a los alumnos destacados por su aprovechamiento en cada nivel educativo en el Estado;
+
+V. Las normas que se refieran a las actividades que lleven a cabo las universidades e instituciones de educación superior en el Estado, en los asuntos que sean competencia del Congreso del Estado, o en aquéllos que les sean solicitados por dichas instituciones;
+
+VI. Las políticas, planes y programas para el fortalecimiento de la Educación, incluyendo la infraestructura, en todos sus niveles; y,
+
+VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 77.
+
+Corresponde a la Comisión de Equidad de Género, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Las propuestas tendientes a garantizar la equidad entre la mujer y el hombre en la sociedad, así como aquellas que tengan por objeto garantizar la igualdad, la tolerancia y evitar la discriminación;
+
+II. Las propuestas y medidas legislativas para dar cumplimiento a los acuerdos, convenios y convenciones internacionales suscritos y ratificados por México en materia de apoyo a la mujer, a la equidad de género;
+
+III. Elaborar una agenda parlamentaria que promueva iniciativas y proyectos para la equidad de género y de manera sustancial los tendientes a erradicar cualquier forma de discriminación y violencia contra las mujeres;
+
+IV. Crear espacios de diálogo, así como de intercambio parlamentario con las instancias gubernamentales, académicas, organizaciones de la sociedad civil, entre otros, con el propósito de intercambiar conocimientos, experiencias y buenas prácticas que ayuden al avance de las mujeres;
+
+V. Promover la cultura de equidad de género, mediante acciones que se vinculen con las actividades de los sectores público, privado y social;
+
+VI. Promover las medidas de acción positiva que garantice la igualdad sustantiva entre mujeres y hombres en los ámbitos públicos y privados;
+
+VII. Apoyar, cuando se le solicite, a las demás Comisiones en lo relativo a evitar el lenguaje sexista en los proyectos legislativos;
+
+VIII. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la Legislación, así como su reforma, modificación o adición, que se relacione con la equidad de género;
+
+IX. La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa, preferencias o situación socioeconómica, entre otros;
+
+X. Participar, en representación del Congreso del Estado, cuando así corresponda en los organismos públicos o sociales que atiendan la problemática de género;
+
+XI. Analizar las condiciones de discriminación y violencia contra las mujeres, con la finalidad de sustentar el desarrollo de iniciativas y proyectos legislativos tendientes a erradicar las desigualdades de género;
+
+XII. Los que se refieran a iniciativas de leyes de seguridad social, de salud, civiles y penales, para regular derechos y responsabilidades familiares, particularmente con relación a la paternidad; y,
+
+XIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 78.
+
+Corresponde a la Comisión de Fortalecimiento Municipal y Límites Territoriales, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Relativos a la autorización a los ayuntamientos para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público o uso común municipal;
+
+II. Relativos a la autorización de contratos, convenios o concesiones, que los ayuntamientos celebren por plazos mayores al de su periodo constitucional, que celebren en relación con la prestación de servicios públicos, y administración de la hacienda pública municipal;
+
+III. Referentes a la celebración de convenios de los ayuntamientos con el Ejecutivo del Estado, para que éste asuma servicios públicos municipales;
+
+IV. Concernientes a los convenios de asociación que celebren los ayuntamientos del Estado con los municipios de otras entidades federativas, para la mejor prestación de servicios públicos municipales;
+
+V. Relativos a los planes municipales de desarrollo;
+
+VI. Conocer y dictaminar sobre los asuntos de carácter municipal que no sean competencia de otra Comisión;
+
+VII. Promover la corresponsabilidad entre gobierno municipal y sociedad para el logro de los objetivos municipales;
+
+VIII. Contribuir a una mayor participación municipal en los programas de desarrollo regional;
+
+IX. Contribuir al fortalecimiento y autonomía municipal;
+
+X. El conocimiento y dictamen de los asuntos encaminados a coadyuvar en la capacitación y actualización a los integrantes de los Ayuntamientos y su personal de apoyo, sobre las atribuciones que las leyes y reglamentos les señalen;
+
+XI. Los relacionados con la fijación y modificación de la división territorial de la Entidad;
+
+XII. La declaración de municipios que pertenezcan a zonas conurbadas para su mejor ubicación y atención de asuntos que interesen a los ayuntamientos integrantes;
+
+XIII. La aprobación de los límites de las zonas de conurbación intermunicipales, con base en el convenio que celebre el Ejecutivo con los ayuntamientos involucrados; y,
+
+XIV. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 79.
+
+Corresponde a la Comisión de Gobernación, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. La renuncia o licencia del Gobernador;
+
+II. La designación de Gobernador Interino, Sustituto o Provisional, según lo previsto por la Constitución;
+
+III. El cambio provisional de residencia de los Poderes del Estado;
+
+IV. El establecimiento o supresión de Municipios;
+
+V. Las iniciativas relacionadas con la organización y estructura del Poder Ejecutivo;
+
+VI. Otorgamiento de facultades extraordinarias al Ejecutivo;
+
+VII. La designación, nombramiento, elección, licencia, remoción o renuncia de los servidores públicos que de acuerdo a la Constitución y las leyes, deba conocer el Congreso y que no estén encomendados expresamente a otra Comisión;
+
+VIII. Las facultades del Ejecutivo para que por sí o por apoderado especial represente al Estado en aquellos casos en que la ley lo requiera, así como para celebrar convenios con las demás entidades federativas vecinas respecto de las cuestiones de límites y sobre la ratificación de estos convenios;
+
+IX. Los asuntos que impliquen conflictos políticos, que sean competencia del Congreso del Estado;
+
+X. Los tocantes a las autorizaciones para desafectar bienes destinados al dominio público y al uso común, y para enajenar bienes inmuebles propiedad del Estado; así como para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público municipal;
+
+XI. En su carácter de comisión de examen previo conforme a la ley de la materia, los concernientes a los juicios políticos;
+
+XII. Los concernientes a las controversias que se susciten entre uno o más municipios, y entre éstos y el Poder Ejecutivo o el Poder Judicial del Estado, siempre y cuando no posean un carácter contencioso;
+
+XIII. Los encaminados a obtener del Poder Legislativo, amnistías o indultos por delitos del orden común; y,
+
+XIV. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 80.
+
+Corresponde a la Comisión de Hacienda y Deuda Pública, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los que se relacionen con las leyes hacendarias del Estado y de los municipios;
+
+II. Los de carácter hacendario, de empréstitos u obligaciones que se contraten por el Gobierno del Estado, las entidades paraestatales, gobiernos municipales y entidades paramunicipales, para la realización de inversiones públicas productivas;
+
+III. Los relativos a la autorización que debe recibir el Estado para enajenar, traspasar, permutar, donar o ejercer cualquier acto de dominio sobre sus bienes inmuebles;
+
+IV. Los que se refieran a la desincorporación de los bienes del dominio público del Estado;
+
+V. Los relativos a la aprobación de los montos máximos y límites para la contratación de obra pública en los términos de la Ley de la materia;
+
+VI. Propuestas para otorgamiento de pensiones;
+
+VII. Los relativos a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen; y,
+
+VIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 81.
+
+Corresponde a la Comisión Industria, Comercio y Servicios, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado; al fomento de la creación de empleos; así como el desarrollo regional del mismo;
+
+II. Los que atañen al desarrollo económico del Estado y al apoyo a la actividad comercial y de servicios;
+
+III. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal, relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
+
+IV. Promover las iniciativas tendientes a la creación de parques, corredores y ciudades industriales, de centros comerciales y centrales de abastos, así como a la instalación de unidades industriales, el apoyo y fomento a la micro, pequeña y mediana empresa, a la producción y comercialización de la actividad artesanal, a la generación de empleo y en general al desarrollo sustentable de todos los sectores involucrados en materia económica en el Estado;
+
+V. Emitir opiniones, auxiliar y coadyuvar con las autoridades federales, estatales o municipales, con los sectores industrial, comercial y de servicios, así como con los diversos organismos y asociaciones públicas y privadas, brindando apoyo dentro del ámbito de sus atribuciones y en materia de fomento y promoción de las actividades industriales, comerciales, de servicios y de inversión en el Estado;
+
+VI. Conocer y opinar sobre la política cooperativa, así como promover la educación y organización cooperativa en el Estado; y,
+
+VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 82.
+
+La Comisión Inspectora de la Auditoría Superior de Michoacán, estará integrada preferentemente por quienes tengan experiencia en las áreas de revisión y fiscalización pública, y le corresponde participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Vigilar y evaluar la organización y funcionamiento de la Auditoría Superior de Michoacán, y de manera particular el cumplimiento de las funciones de sus servidores públicos;
+
+II. Conocer sobre la cuenta pública trimestral del Poder Ejecutivo;
+
+III. Recibir del Congreso de conformidad con los ordenamientos respectivos, la cuenta pública de la hacienda estatal y demás entidades, debiéndola turnar a la Auditoría Superior de Michoacán;
+
+IV. Ordenar y supervisar a la Auditoría Superior de Michoacán, para los efectos de la presente Ley, la práctica de visitas, inspecciones y auditorías a las entidades sujetas a cuenta pública;
+
+V. Recibir trimestralmente un informe de las operaciones que haya practicado la Auditoría Superior de Michoacán, dentro de los treinta días naturales siguientes al que concluya el trimestre y presentarlo al Pleno;
+
+VI. Recibir de la Auditoría Superior de Michoacán, los informes del resultado de la revisión de la cuenta pública del Estado y de los ayuntamientos, de auditorías y revisiones practicadas a la aplicación de los recursos de las entidades paraestatales y de los órganos autónomos;
+
+VII. Presentar al Pleno, en conjunto con la Comisión de Programación, Presupuesto y Cuenta Pública, los informes de la Auditoría Superior de Michoacán, sobre el resultado de la revisión de la Cuenta Pública del año anterior y los avances trimestrales;
+
+VIII. Ser el conducto de comunicación entre los diputados y la Auditoría Superior de Michoacán;
+
+IX. Estudiar y, en su caso, ratificar el proyecto de presupuestos de egresos que le presente el Auditor Superior de Michoacán, para su posterior presentación al Comité de Administración y Control;
+
+X. Revisar, analizar y dictaminar la aplicación de los recursos de las entidades paraestatales y otros que dispongan de autonomía;
+
+XI. Revisar, analizar y dictaminar las cuentas públicas con base en los Informes de Resultados de la revisión de la Cuenta Pública del Estado y de los Ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la ley señale, de la aplicación de los recursos de las entidades paraestatales y de las que dispongan de autonomía;
+
+XII. Los asuntos señalados en la Ley de Fiscalización Superior de Michoacán;
+
+XIII. Emitir las medidas necesarias para que la Auditoría Superior de Michoacán cumpla con las funciones que le correspondan; y,
+
+XV. Los análogos a los anteriores, que a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 83.
+
+Corresponde a la Comisión de Jóvenes y Deporte, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Conocer, estudiar y dictaminar, en su caso, las iniciativas de ley que estén relacionadas con el desarrollo, recreación y actividades de la juventud;
+
+II. Conocer y emitir recomendaciones sobre los programas y políticas deportivas, culturales y recreativas del gobierno del Estado para la juventud;
+
+III. Conocer y dictaminar en su caso, los asuntos vinculados con el cuidado y atención que merecen los jóvenes, incluyendo los programas de carácter económico;
+
+IV. Conocer y emitir recomendaciones sobre los diversos programas deportivos que coadyuven al mejoramiento del deporte del Estado;
+
+V. Impulsar las acciones que conlleven a la realización de planes y programas acordes con los criterios y objetivos del Plan Estatal de Desarrollo, tendientes a promover el deporte de alto rendimiento en Michoacán;
+
+VI. Implementar e impulsar foros que involucren a las diversas instituciones, asociaciones, ligas y demás organismos que promueven el deporte en el Estado con el objeto de mejorar su organización y estructura; y,
+
+VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 84.
+
+Corresponde a la Comisión Jurisdiccional, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Encabezar la procedencia sobre juicios políticos y las solicitudes para declarar que ha lugar a proceder penalmente en contra de algún servidor público que goce de protección constitucional;
+
+II. La suspensión o desaparición de poderes de los Ayuntamientos;
+
+III. La legislación relativa a las sanciones de los servidores públicos;
+
+IV. La suspensión o revocación del mandato de los miembros de los Ayuntamientos; y,
+
+V. La remoción de algún miembro de la Mesa Directiva.
+
+Las sesiones de la Comisión serán privadas, salvo acuerdo del Pleno o que la propia Comisión disponga lo contrario. Las sesiones de Gran Jurado, son públicas y por excepción privadas, cuando así lo acuerden los diputados en Pleno.
+
+###### ARTÍCULO 85.
+
+Corresponde a la Comisión de Justicia, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los nombramientos, renuncias o licencias de los Magistrados del Supremo Tribunal de Justicia del Estado;
+
+II. Los que se refieren a la Legislación Civil, Penal y Administrativa;
+
+III. Las iniciativas relacionadas con la organización y estructura del Poder Judicial;
+
+IV. Evaluar y dictaminar el informe anual que rinda el Procurador Estatal de Justicia;
+
+V. Observar el desempeño de los integrantes de la Procuraduría Estatal de Justicia y opinar lo que corresponda, así como solicitar al Pleno del Congreso del Estado, la comparecencia de su titular;
+
+VI. La elección de los integrantes del Consejo General del Poder Judicial;
+
+VII. Los relacionados con la procuración e impartición de justicia;
+
+VIII. Lo referente a la ratificación del Procurador del Estado; y,
+
+IX. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 86.
+
+Corresponde a la Comisión de Migración, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Las iniciativas relacionadas con la protección de los derechos de los migrantes del y en el (sic) Estado;
+
+II. La atención de las denuncias de violación de los derechos de las personas migrantes;
+
+III. Impulsar acciones ante el Gobierno del Estado, que coadyuven al bienestar y prosperidad de las familias de los migrantes;
+
+IV. Atender y dar seguimiento ante las instancias públicas federal, estatal y municipal, así como privadas y sociales, a la problemática que en materia de Educación, Salud, Cultura y Desarrollo presenten los michoacanos migrados y sus familiares residentes en el territorio estatal;
+
+V. Realizar foros y estudios sobre las causas de migración de los michoacanos y proponer las medidas para la atención de estas;
+
+VI. Coadyuvar con las diferentes instancias tanto estatales, nacionales como internacionales, por el respeto de los derechos humanos de los migrantes; y,
+
+VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 87.
+
+Corresponde a la Comisión de Programación, Presupuesto y Cuenta Pública, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. La creación o derogación de impuestos extraordinarios o especiales, estatales o municipales;
+
+II. Revisar, analizar y dictaminar anualmente las Leyes de Ingresos del Estado y sus municipios, y el Presupuesto de Egresos del Estado;
+
+III. Revisar, analizar y dictaminar la aplicación de los recursos de las entidades paraestatales y otros que dispongan de autonomía;
+
+IV. La vigilancia de que en el Presupuesto de Egresos del Estado no se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que legalmente deben recibir los servidores públicos, cualquiera que sea su denominación, de conformidad con la normatividad aplicable;
+
+V. La presentación, dentro del proceso de análisis de los presupuestos de egresos respectivos, al Congreso de los acuerdos legislativos que contengan las recomendaciones sobre percepciones salariales de los servidores públicos de todas las autoridades del Estado de Michoacán y sus Municipios, a que se refiere la ley estatal en materia de servidores públicos;
+
+VI. Las políticas, planes y programas en materia presupuestaria;
+
+VII. Las participaciones y aportaciones federales a los municipios del Estado;
+
+VIII. Revisar, analizar y dictaminar las cuentas públicas con base en los Informes de Resultados de la revisión de la Cuenta Pública del Estado y de los Ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la ley señale, de la aplicación de los recursos de las entidades paraestatales y de las que dispongan de autonomía, recibidos de la Comisión Inspectora de la Auditoría Superior de Michoacán y presentarlo conjuntamente con ésta al Pleno del Congreso;
+
+IX. Recibir de la Comisión Inspectora de la Auditoría Superior de Michoacán y presentarlo al Pleno del Congreso, el Informe trimestral de las operaciones que haya practicado y el seguimiento de los informes de resultados de cada ejercicio, dentro de los treinta días naturales siguientes a que concluya el trimestre;
+
+X. Los asuntos señalados en la Ley de Fiscalización Superior de Michoacán;
+
+XI. Los que se refieran al Plan Estatal de Desarrollo del Estado; y,
+
+XII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 88.
+
+Corresponde a la Comisión de Pueblos Indígenas, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. La revisión de la Legislación Estatal para establecer en las diversas materias, el reconocimiento de los derechos de los pueblos, comunidades y personas indígenas;
+
+II. Dictaminar las iniciativas para proteger y preservar todos los elementos que integran la cultura de los pueblos indígenas del Estado;
+
+III. La protección y desarrollo social de los pueblos y comunidades indígenas del Estado;
+
+IV. La consulta de los pueblos indígenas en los asuntos legislativos que les atañen o afecten;
+
+V. Los relacionados con la expropiación de bienes que pertenezcan a las comunidades indígenas;
+
+VI. Comunicados o solicitudes de autoridades indígenas al Congreso del Estado;
+
+VII. Organizar foros de participación ciudadana para conocer el punto de vista de las comunidades indígenas en relación con su problemática social;
+
+VIII. Convertirse en coadyuvante con las autoridades federales, estatales y municipales, para promover el desarrollo de los pueblos indígenas del Estado, vigilando las políticas que para el caso se instrumenten;
+
+IX. La creación de organismos públicos que tengan como objetivos la protección, preservación y desarrollo de lenguas, culturas, usos y costumbres, recursos y formas de organización social de los pueblos indígenas asentados en el Estado; y,
+
+X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 89.
+
+La Comisión de Puntos Constitucionales debe estar integrada preferentemente por quienes tengan mayor experiencia en la materia. Le corresponde conocer y dictaminar, de manera enunciativa, más no limitativa sobre los siguientes asuntos:
+
+I. Las reformas a la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Las iniciativas que la Legislatura acuerde presentar al Congreso de la Unión, respecto de reformas constitucionales y legislación que sean de la competencia de éste;
+
+III. Declarar si ha lugar a admitir a discusión las reformas a la Constitución;
+
+IV. Las reformas a la Constitución;
+
+V. Poner a consideración del Pleno la conveniencia de secundar las iniciativas hechas por las Legislaturas de otras entidades federativas ante el Congreso de la Unión, respecto a la Constitución Política de los Estados Unidos Mexicanos;
+
+VI. Apoyar, cuando se le solicite, a las demás Comisiones en lo relativo a la constitucionalidad de los asuntos que estén tratando;
+
+VII. Las leyes orgánicas de dispositivos de la Constitución y los que la Constitución Federal le autorice reglamentar;
+
+VIII. Los que se refieran a ordenamientos encaminados a hacer efectivas las atribuciones que la Constitución otorga a los poderes de la Entidad; y,
+
+IX. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 90.
+
+La Comisión de Régimen Interno y Prácticas Parlamentarias, se integra con quienes cuenten con mayor experiencia parlamentaria. A esta Comisión, le corresponde participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Elaborar iniciativas de Ley o Decreto, así como propuestas de acuerdo, tendientes a la adecuación y perfeccionamiento de las normas que rigen el trabajo legislativo;
+
+II. Realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas parlamentarias;
+
+III. Implementar programas e impulsar foros que coadyuven a enriquecer las actividades legislativas;
+
+IV. Promover la edición de publicaciones que se consideren de interés en el desarrollo de la actividad parlamentaria;
+
+V. Promover la formación de un acervo bibliográfico del Congreso del Estado;
+
+VI. Desahogar las consultas respecto de la aplicación e interpretación de la presente Ley, los ordenamientos de ella derivados, prácticas y usos parlamentarios;
+
+VII. Coordinar y vigilar el trabajo de la Secretaría de Servicios Parlamentarios, así como del Instituto de Investigaciones y Estudios Legislativos, a través del informe trimestral que éstos deberán entregar;
+
+VIII. La revisión de los dictámenes, de las demás comisiones, cuando así se lo solicite el Presidente del Congreso, de respecto a leyes del Estado, en cuanto a la técnica legislativa, congruencia interna y la corrección de estilo;
+
+IX. La solicitud de renuncia o licencia de los Diputados para separarse de sus cargos; y,
+
+X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 91.
+
+Corresponde a la Comisión de Salud y Asistencia Social, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los relativos a la expedición, reformas y adiciones a la legislación estatal de la materia;
+
+II. Los hechos, solicitudes y propuestas de instituciones, organizaciones y de la población en general, relacionadas con cuestiones de salud y asistencia social;
+
+III. La continua comunicación con el Sistema para el Desarrollo Integral de la Familia del Estado y demás organizaciones asistenciales públicas y privadas relacionadas con la materia, con el fin de contar con información actualizada que permita perfeccionar el marco jurídico en los rubros de su competencia;
+
+IV. Los tocantes a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
+
+V. Conocer los asuntos relacionados con la prestación de los servicios de salud, así como la calidad de vida de los michoacanos;
+
+VI. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merece la familia y los menores de edad;
+
+VII. Las políticas, planes y programas para la prevención, difusión, atención y fortalecimiento de la higiene y salud pública; y,
+
+VIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 92.
+
+Corresponde a la Comisión de Seguridad Pública y Protección Civil, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los que se refieran al orden público, la tranquilidad y la seguridad de las personas y sus bienes;
+
+II. Los concernientes a los cuerpos de Seguridad Pública y Privada; así como de Protección Civil;
+
+III. Que sean relativos a la organización y coordinación de la Política Criminológica-Penitenciaria del Estado;
+
+IV. Conocer y dictaminar en su caso las iniciativas relacionadas con la prevención del delito;
+
+V. Los que se refieran a las relaciones con las dependencias y entidades de la administración pública estatal y municipal, relacionadas con la materia de Seguridad Pública, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen; y,
+
+VI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 93.
+
+Corresponde a la Comisión de Trabajo y Previsión Social participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Las iniciativas referentes a la relación de trabajo entre los poderes y ayuntamientos del Estado, con sus respectivos trabajadores;
+
+II. Las iniciativas en materia de seguridad social de los trabajadores al servicio del Estado y los municipios;
+
+III. Las iniciativas en materia del desarrollo del servicio público de carrera;
+
+IV. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
+
+V. El conocimiento, estudio y dictamen de todos los asuntos referentes a las pensiones de los trabajadores al servicio del Estado y los municipios, así como realizar la investigación correspondiente tendiente a comprobar fehacientemente los datos que acrediten la antigüedad necesaria para el goce de este derecho;
+
+VI. Opinar sobre la política laboral y desempeño de los Tribunales Laborales;
+
+VII. Revisar los ordenamientos de Previsión y Seguridad Social y en su caso se promuevan reformas ante el Congreso de la Unión; y,
+
+VIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 94.
+
+Corresponde a la Comisión de Turismo, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Conocer y dictaminar sobre las iniciativas en materia de turismo;
+
+II. Conocer de los asuntos que se relacionen con los programas y acciones que contribuyan al desarrollo, fomento, promoción y apoyo de la actividad turística en el Estado;
+
+III. Emitir opinión sobre los proyectos y programas que se relacionen con la infraestructura turística;
+
+IV. Los asuntos relacionados con convenios o concesiones celebrados por el Poder Ejecutivo del Estado, para incrementar o mejorar los servicios turísticos y mejorar los servicios correlativos en la entidad, así como las bases normativas para concesionar la rutas y recorridos turísticos de competencia estatal y el conocimiento sobre promoción de infraestructura turística; y,
+
+V. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+###### ARTÍCULO 95.
+
+Las Comisiones Especiales pueden ser de investigación o para la atención de asuntos específicos, y se constituyen con carácter transitorio; funcionarán cuando así lo acuerde el Pleno a propuesta de la Junta de Coordinación Política, para la atención de asuntos específicos que no sean competencia de las de dictamen.
+
+###### ARTÍCULO 96.
+
+Las Comisiones de Protocolo solamente se integrarán temporalmente para atender a personas que lo ameriten por su relevancia, cargo o asistencia al Congreso en los casos previstos en las leyes.
+
+#### SECCIÓN II. DE LOS COMITÉS
+
+###### ARTÍCULO 97.
+
+Los Comités son órganos colegiados, se constituyen por disposición del Pleno para la supervisión y vigilancia de las unidades administrativas del Congreso.
+
+Se constituirán comités de las siguientes áreas:
+
+I. Administración y Control;
+
+II. Comunicación Social;
+
+III. Atención Ciudadana y Gestoría;
+
+IV. Transparencia y Acceso a la Información Pública; y,
+
+V. Editorial, Biblioteca y Archivo.
+
+El Pleno puede disponer la creación de otros comités cuando las necesidades del Congreso así lo justifiquen.
+
+Para el funcionamiento y trabajo de los comités son aplicables las reglas dispuestas para las comisiones.
+
+###### ARTÍCULO 98.
+
+Los Comités se integran y modifican, con hasta cinco diputados, procurando reflejar la pluralidad del Congreso, siguiendo el procedimiento previsto para las comisiones.
+
+###### ARTÍCULO 99.
+
+Los Comités tendrán las atribuciones comunes siguientes:
+
+I. Conocer, revisar y aprobar, los programas de trabajo de las áreas administrativas a su cargo;
+
+II. Proponer a la Junta los presupuestos necesarios para el cumplimiento de los programas de trabajo de las áreas administrativas;
+
+III. Evaluar y supervisar el cumplimiento de los programas de trabajo de las áreas administrativas e informar a la Junta de las acciones administrativas necesarias para su logro; y,
+
+IV. Las demás que le establezcan esta Ley, el reglamento, el Pleno o la Junta.
+
+###### ARTÍCULO 100.
+
+Corresponde al Comité de Administración y Control las atribuciones siguientes:
+
+I. Supervisar y vigilar la administración de los recursos del Congreso;
+
+II. Dar cuenta al Pleno de forma directa de las faltas, irregularidades y omisiones que encontrase en la administración de los recursos del Congreso;
+
+III. Solicitar a cualquier área u órgano del congreso documentos relacionados con la administración de los bienes del Congreso;
+
+IV. Elaborar el proyecto de presupuesto anual del Poder Legislativo, considerando las necesidades de los órganos del Congreso, con apoyo en programas y subprogramas que señalen objetivos y metas, y presentarlo a más tardar el último día del mes de agosto a la Junta para su autorización y posterior aprobación por el Pleno;
+
+V. Presentar al Pleno para su conocimiento el proyecto de inversión del Fondo para el Fortalecimiento de la Fiscalización Superior, así como los recursos del Programa para la Fiscalización del Gasto Federalizado, que le presente la Auditoría Superior de Michoacán;
+
+VI. Supervisar el ejercicio del Presupuesto de Egresos del Poder Legislativo aprobado;
+
+VII. Planear, organizar y dirigir el Servicio Parlamentario de Carrera para el Congreso del Estado, a través de un Secretario Permanente, en los términos de la presente Ley;
+
+VIII. Rendir informe trimestral al Pleno con los estados financieros sobre el ejercicio del presupuesto del Poder Legislativo;
+
+IX. Proponer a la Junta las transferencias, ajustes y modificaciones presupuéstales, sometiéndolas al Pleno para su aprobación;
+
+X. Vigilar las acciones desarrolladas por la Secretaría de Administración y Finanzas;
+
+XI. Supervisar los programas de desarrollo de personal para el Servicio Parlamentario de Carrera, y rendir cuentas de ello ante el Pleno;
+
+XII. Aprobar la propuesta de política salarial que le presente la Secretaría de Administración y Finanzas, en la que se deberá observar que los diputados y los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo, del periodo para el que fueron electos o por separación del cargo, sea cual fuere el mecanismo o forma de pago, su responsabilidad en comisiones, lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
+
+XIII. Supervisar el inventario de los bienes del Congreso y sus dependencias, así como vigilar que la Secretaría de Administración cuide de la conservación de los mismos; y,
+
+XIV. Convocar a las sesiones del Comité a los titulares de la Secretaría de Administración y Finanzas, para que informen y en su caso entreguen copia de la documentación que les requiera el Comité, para el mejor despacho de los negocios.
+
+###### ARTÍCULO 101.
+
+Corresponde al Comité de Comunicación Social:
+
+I. Supervisar el desempeño de la Coordinación de Comunicación Social;
+
+II. Ser vínculo entre la Coordinación de Comunicación Social y los demás órganos del Congreso;
+
+III. Aprobar las acreditaciones que la Coordinación de Comunicación Social deba entregar a los representantes de los medios de comunicación que cubran la fuente del Congreso, para su acceso al Pleno;
+
+IV. Analizar, estudiar y aprobar las estrategias y políticas de comunicación del Congreso;
+
+V. Proponer su respectivo presupuesto y el Plan Operativo Anual de la Coordinación de Comunicación Social;
+
+VI. Coordinar y aprobar las campañas de difusión de actividades del Congreso;
+
+VII. Coordinar y vigilar la buena y efectiva comunicación entre el congreso y la ciudadanía;
+
+VIII. Administrar, diseñar, operar y garantizar el funcionamiento, determinando y actualizando los contenidos del Sitio de Internet o Portal del Congreso, a través de la Coordinación de Comunicación Social, vigilando en todo momento que no contenga propaganda, publicidad o información comercial ni de proselitismo político;
+
+IX. Asignar de manera proporcional a los diputados los espacios físicos para la difusión de sus actividades, como lo son las mamparas, pizarras y demás mobiliario destinado para tal fin; en caso de integrar un grupo parlamentario, al número de sus integrantes, en caso de ser diputado que no integra grupo parlamentario, deberá asignarse conforme lo determine el Comité;
+
+X. Proponer a la Junta las políticas de comunicación y difusión del Congreso;
+
+XI. Diseñar y emitir al inicio de cada Legislatura un Manual de Identidad Gráfica que deberá ser aprobado de igual forma por la Junta; y,
+
+XII. Las demás que señale su Reglamento y las disposiciones aplicables.
+
+###### ARTÍCULO 102.
+
+Corresponde al Comité de Atención Ciudadana y Gestoría:
+
+I. Supervisar el desempeño de la Coordinación de Atención Ciudadana y Gestoría;
+
+II. Aprobar el plan de trabajo de la Coordinación de Atención Ciudadana y Gestoría y su proyecto de presupuesto;
+
+III. Definir las políticas y lineamientos para la mejor atención ciudadana y eficaz gestoría;
+
+IV. Orientar al público en general sobre los trámites a realizar en el Congreso del Estado y canalizar en su caso, las peticiones y quejas de la (sic) personas que soliciten el apoyo del mismo;
+
+V. La remisión a las Comisiones respectivas del Congreso del Estado que puedan atender los asuntos presentados para dar solución, atención y gestión de las peticiones y asuntos que presente la ciudadanía; y,
+
+VI. Las demás que señale su Reglamento y las disposiciones aplicables.
+
+###### ARTÍCULO 103.
+
+Corresponde al Comité de Transparencia y Acceso a la Información Pública:
+
+I. Supervisar e integrar la información que de oficio debe publicar el Congreso, en los términos de la Ley;
+
+II. Establecer los lineamientos que conforme a las disposiciones legales aplicables, se requieran para el manejo, mantenimiento, seguridad y protección de los datos personales y sensibles que obren en poder del Congreso;
+
+III. Vigilar que la página de internet esté actualizada periódicamente con la información de oficio que debe publicar el Congreso del Estado;
+
+IV. Analizar las solicitudes derivadas del ejercicio de la Ley, e instruir a las áreas correspondientes a proporcionar la información correspondiente;
+
+V. Sustanciar y resolver los recursos de revisión previsto en la ley;
+
+VI. Resolver dudas y consultas de las personas y de otras dependencias en materia de acceso a la información en el Congreso;
+
+VII. Ser el vínculo de comunicación del Congreso con el Instituto de Transparencia y Acceso a la Información Pública del Estado;
+
+VIII. Analizar el informe correspondiente del Instituto de Transparencia y Acceso a la Información Pública del Estado de Michoacán;
+
+IX. Acordar la información que deba ser clasificada como reservada, confidencial y sensible, así como los relativos a su desclasificación y custodia en los términos de la Ley;
+
+X. Dirigir, supervisar, evaluar y ordenar lo necesario para que la Coordinación de Transparencia y Acceso a la Información, así como las unidades administrativas, den cumplimiento a lo dispuesto en materia de acceso a la información y protección de datos personales; y,
+
+XI. Las demás que señale su Reglamento y las disposiciones aplicables.
+
+El Comité se auxiliará para el cumplimiento de sus funciones, con el Secretario de Servicios Parlamentarios; el Secretario de Administración y Finanzas; el Auditor Superior de Michoacán; el Contralor Interno y el Coordinador de Comunicación Social del Congreso.
+
+###### ARTÍCULO 104.
+
+Corresponde al Comité de Editorial, Biblioteca y Archivo:
+
+I. La organización, sistematización, eficiencia y salvaguarda del archivo del Congreso del Estado, de conformidad con la ley de la materia;
+
+II. Los planes y programas de los organismos respectivos del propio Congreso del Estado;
+
+III. La promoción de convenios de coordinación del Congreso del Estado con Universidades e instituciones educativas y culturales para el acceso a la información documental;
+
+IV. La necesidad y conveniencia de adquirir, para el incremento del acervo de la Biblioteca del Congreso del Estado, todas aquellas obras que representen interés técnico o histórico; y,
+
+V. La propuesta conjunta a la Junta, a la Comisión de Régimen Interno y Prácticas Parlamentarias y al Comité de Administración y Control sobre la edición de libros, revistas, folletos o publicaciones y grabaciones a través de los distintos medios electrónicos, propios o ajenos al Congreso del Estado, que tengan significación histórica, jurídica, política o cultural;
+
+VI. Elaboración y autorización de las publicaciones y elaboraciones que sean de interés para el Congreso, como son los correspondientes a libros, videos, multimedia, informática, entre otros; y,
+
+VII. Las demás que señale su Reglamento y las disposiciones aplicables.
+
+## TÍTULO TERCERO
+
+### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA DEL CONGRESO
+
+###### ARTÍCULO 105.
+
+El Congreso, para la coordinación y ejecución de las tareas que permitan el mejor cumplimiento de sus atribuciones, y la atención eficiente de sus necesidades administrativas y financieras, tiene como órganos técnicos y administrativos a:
+
+I. La Secretaría de Servicios Parlamentarios;
+
+II. La Secretaría de Administración y Finanzas,
+
+III. La Contraloría Interna;
+
+IV. La Auditoría Superior de Michoacán;
+
+V. La Coordinación de Comunicación Social;
+
+VI. La Coordinación de Atención Ciudadana y Gestoría;
+
+VII. La Coordinación de Transparencia y Acceso a la Información Pública;
+
+VIII. La Coordinación de Editorial, Biblioteca y Archivo; y,
+
+IX. El Instituto de Investigaciones y Estudios Legislativos.
+
+###### ARTÍCULO 106.
+
+Para el nombramiento de los titulares de los órganos técnicos, se deben satisfacer los siguientes requisitos como mínimo:
+
+I. Ser mexicano por nacimiento, y estar en pleno goce de sus derechos;
+
+II. Haber cumplido treinta años de edad;
+
+III. Contar con título profesional legalmente expedido en el área afín y acreditar experiencia en la misma; y,
+
+IV. No haber sido condenado en sentencia ejecutoriada por delito grave.
+
+Para ser Secretario de Servicios Parlamentarios se requiere además contar con título de licenciado en derecho y tener por lo menos tres años de experiencia legislativa.
+
+Para ser Secretario de Administración y Finanzas, se requiere además tener por lo menos tres años de experiencia profesional en el manejo de recursos humanos, materiales y financieros, así como otorgar fianza para garantizar el correcto desempeño de su responsabilidad.
+
+Para ser Contralor Interno, se requiere además acreditar experiencia de cuando menos tres años de ejercicio profesional en actividades relacionadas con la fiscalización de los recursos públicos.
+
+Para ser Director del Instituto de Investigaciones y Estudios Legislativos, se requiere además contar con por lo menos grado de Maestro en alguna de las áreas de las Ciencias Sociales o Económicas.
+
+Los titulares de los órganos mencionados son nombrados por al menos el cincuenta por ciento más uno de los miembros del Congreso a propuesta de la Junta, con excepción del titular de la Auditoría Superior quien será designado conforme a lo establecido en la Constitución.
+
+Con excepción del Auditor Superior del Estado, los funcionarios mencionados durarán en su encargo un término de tres años, pudiendo ser ratificados o removidos después de los primeros seis meses de iniciada la Legislatura.
+
+En el caso del Director del Instituto de Investigaciones y Estudios Legislativos, también se atenderá a lo dispuesto en el artículo 121 de esta Ley.
+
+###### ARTÍCULO 107.
+
+Los titulares de las coordinaciones mencionadas, rendirán informe semestral de sus actividades al Comité respectivo y, por su conducto, a la Junta.
+
+### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE SERVICIOS PARLAMENTARIOS
+
+###### ARTÍCULO 108.
+
+La Secretaría de Servicios Parlamentarios es el órgano, que en el ámbito de la Mesa Directiva con la colaboración de la Comisión de Régimen Interno y Prácticas Parlamentarias, se encarga de la coordinación y supervisión técnica de asesoría, orientación y apoyo a las tareas legislativas.
+
+###### ARTÍCULO 109.
+
+La Secretaría de Servicios Parlamentarios se integra con funcionarios de carrera y cuenta con facultades para la prestación de los servicios siguientes:
+
+I. De asistencia técnica: a la Mesa en comunicaciones y correspondencia, turnos y control de documentos; certificación y autentificación documental; instrumentos de identificación y diligencias relacionados con el fuero de los legisladores; y, registro biográfico de los integrantes de la legislatura;
+
+II. De asistencia en la Sesión: para apoyo a la Mesa Directiva en la preparación y desarrollo de los trabajos del Pleno; de registro, seguimiento e integración de expedientes de iniciativas, propuestas de Acuerdo o minutas de Ley o Decreto; distribución de los documentos sujetos a su conocimiento; información y estadística de las actividades del Congreso; elaboración, registro y publicación de las actas de las Sesiones; y registro de leyes y resoluciones que adopte el Pleno;
+
+III. De asistencia a las Comisiones: a través de los Secretarios Técnicos, quienes se encargarán del registro de asuntos que se encuentran turnados a éstas; así como de la preparación y desarrollo de reuniones; del registro de asistencia; del registro, seguimiento e integración de expedientes de iniciativas y propuestas de Acuerdo; de la elaboración de actas de reuniones; informes de actividades, dictámenes y resoluciones, debiendo revisar la técnica legislativa, congruencia interna y estilo; así como de apoyo técnico de ingeniería y asuntos territoriales;
+
+IV. De asuntos jurídicos: que comprende la atención y asesoría en los asuntos jurídicos del Poder Legislativo, en sus aspectos consultivo y contencioso, así como la representación legal, cuando así se autorice;
+
+V. De asuntos editoriales: que comprende, la elaboración integral de la versión estenográfica de las sesiones, de la Gaceta Parlamentaria, del Diario de los Debates, memorias, informes y todo tipo de materiales gráficos y magnéticos de carácter legislativo, en conjunto con la Coordinación de Editorial, Biblioteca y Archivo;
+
+VI. Del archivo: para la formación, clasificación y custodia de expedientes del Pleno y las Comisiones; y desahogo de las consultas y apoyo documental a los órganos del Congreso y a los legisladores, en conjunto con la Coordinación de Editorial, Biblioteca y Archivo;
+
+VII. De asistencia ciudadana: para la atención, seguimiento y resolución de las demandas de grupos organizados de la sociedad; y,
+
+VIII. Protocolo, ceremonial y relaciones públicas.
+
+###### ARTÍCULO 110.
+
+El Secretario de Servicios Parlamentarios tiene las funciones siguientes:
+
+I. Preparar los elementos necesarios para celebrar la Sesión constitutiva del Congreso en los términos previstos por esta Ley;
+
+II. Fungir, como Secretario Técnico de la Junta de Coordinación Política y de la Conferencia para la Programación de los Trabajos Legislativos, cuyas facultades serán:
+
+a. Auxiliar al Presidente de la Junta y de la Conferencia en el desempeño de sus funciones;
+
+b. Llevar el libro en el que se compilen, en orden cronológico, las actas de las reuniones de la Junta y la Conferencia asegurándose que, en caso de no ser información clasificada como reservada, éstas sean publicadas en la página de internet del Congreso;
+
+c. Recabar la firma de los integrantes de la Junta y Conferencia en las actas; y,
+
+d. Citar a reunión de la Junta de Coordinación Política.
+
+III. Supervisar y vigilar que se cumplan los ordenamientos y acuerdos de la Mesa, la Junta y la Conferencia, en la prestación de los servicios parlamentarios, así como presentar informe trimestral a la Junta y a la Comisión de Régimen Interno y Prácticas Parlamentarias;
+
+IV. Proponer a la Comisión de Régimen Interno y Prácticas Parlamentarias las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que conforme a las leyes le competen;
+
+V. Establecer un libro de registro de firmas de los funcionarios que tomen protesta ante este Poder Legislativo;
+
+VI. Proveer lo necesario a los diputados y comisiones para el desempeño del trabajo legislativo en el área de su responsabilidad;
+
+VII. Dirigir los trabajos de las áreas a él adscritas y acordar con los titulares de cada una de ellas los asuntos de su competencia; y,
+
+VIII. Cumplir las demás funciones que le confieren la presente Ley y los ordenamientos relativos a la actividad parlamentaria.
+
+### CAPÍTULO TERCERO. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
+
+###### ARTÍCULO 111.
+
+El Congreso contará con una Secretaría de Administración y Finanzas, y como tal, ejecuta las disposiciones ordenadas por el Pleno, así como las acordadas por la Junta, las cuales serán dadas a conocer al Comité de Administración y Control; provee de recursos a las demás unidades administrativas del Congreso, y es el órgano responsable de la aplicación de recursos financieros. Para su desempeño, se integrará con funcionarios de carrera y tendrá las facultades para la prestación de los siguientes servicios:
+
+I. Recursos financieros: comprende la programación y control presupuestal; contabilidad, finanzas y formulación de manuales de organización y procedimientos administrativos;
+
+II. Recursos humanos: que comprende aspectos administrativos del servicio de carrera; selección, contratación, capacitación permanente y evaluación periódica, así como la promoción del personal interno y externo a dicho servicio; nóminas, prestaciones sociales y expedientes laborales; así como la elaboración de la propuesta de política salarial, que deberá proponer al Comité de Administración y Control;
+
+III. Recursos materiales y generales: que comprende inventario y mantenimiento de bienes muebles e inmuebles, adquisiciones y servicios generales;
+
+IV. Informática: que comprende apoyo técnico para adquisiciones de bienes informáticos, instalación y mantenimiento del equipo de cómputo, planificación, asesoría y capacitación informática;
+
+V. Seguridad: que comprende la vigilancia y cuidado de los bienes del Poder Legislativo, de su personal, y el control de acceso a la sede del Congreso y demás instalaciones; y,
+
+VI. Servicio médico y de atención a diputados.
+
+Cada uno de los servicios establecidos en las fracciones anteriores constituyen áreas cuya organización se regula con apego a lo que disponga el reglamento y manual de procedimientos respectivo.
+
+###### ARTÍCULO 112.
+
+El Secretario de Administración y Finanzas tendrá las funciones siguientes:
+
+I. Dirigir y supervisar los trabajos de las áreas a él adscritas y acordar con los titulares de cada una de ellas los asuntos de su competencia;
+
+II. Formular los programas anuales de naturaleza administrativa y financiera;
+
+III. Proveer de los recursos necesarios a comisiones, diputados y a los distintos órganos técnicos y administrativos del Poder Legislativo;
+
+IV. Autorizar mediante su firma, junto con el titular del área de finanzas los instrumentos de pago y obligaciones a cargo del Congreso del Estado;
+
+V. Proponer a la Comisión de Régimen Interno y Prácticas Parlamentarias las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que conforme a las leyes le competen;
+
+VI. Realizar estudios de carácter administrativo y financiero del Congreso del Estado;
+
+VII. Cumplimentar los requerimientos de la Contraloría Interna; y,
+
+VIII. Cumplir las demás funciones que le confieren esta Ley y los ordenamientos relativos a la actividad administrativa y financiera.
+
+### CAPÍTULO CUARTO. DE LA CONTRALORÍA INTERNA
+
+###### ARTÍCULO 113.
+
+Para el control, revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso, hay una Contraloría Interna dependiente de la Junta de Coordinación Política, cuyos funcionarios pertenecerán al Servicio Parlamentario de Carrera, en los términos de esta Ley, y tiene las siguientes atribuciones:
+
+I. Realizar la auditoría interna del ejercicio del presupuesto de egresos del Congreso, de conformidad a lo establecido en el programa anual de control, evaluación y auditorías que apruebe el Pleno en el mes de enero de cada año;
+
+II. Diseñar, implementar y supervisar el sistema de control y fiscalización de las unidades administrativas y parlamentarias del Congreso, realizando una labor preventiva que permita en todas las áreas el cumplimiento con los principios de racionalidad, austeridad, proporcionalidad y equidad en todos los procedimientos administrativos;
+
+III. Recibir quejas, realizar investigaciones, llevar a cabo auditorías y aplicar procedimientos inherentes a las responsabilidades de los servidores públicos del Congreso;
+
+IV. Proponer la adopción de recomendaciones y de medidas preventivas o correctivas que estime convenientes para el desarrollo administrativo del Poder Legislativo y darles seguimiento;
+
+V. Proponer a la Comisión de Régimen Interno y Prácticas Parlamentarias las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que conforme a las leyes le competen;
+
+VI. Recibir la declaración de situación patrimonial de los servidores públicos del Poder Legislativo;
+
+VII. Coordinar y supervisar la entrega-recepción de la Mesa Directiva, de la Junta de Coordinación Política, de los diputados, así como de las unidades administrativas del Congreso;
+
+VIII. Presentar al Pleno por conducto de la Junta de Coordinación Política, un informe trimestral sobre el resultado del cumplimiento de sus funciones; y,
+
+IX. Conocer y resolver las controversias que se susciten con motivo de la declaración de situación patrimonial.
+
+### CAPÍTULO QUINTO. DE LA AUDITORÍA SUPERIOR DE MICHOACAN
+
+###### ARTÍCULO 114.
+
+Para el cumplimiento de la función de control y vigilancia que le confiere la Constitución, el Congreso cuenta con un órgano técnico encargado de la fiscalización de las cuentas públicas, cuyo funcionamiento e integración estará a lo dispuesto por la Constitución Federal, la propia del Estado y la Ley de Fiscalización Superior de Michoacán.
+
+### CAPÍTULO SEXTO. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+
+###### ARTÍCULO 115.
+
+La Coordinación de Comunicación Social depende del Comité de Comunicación Social, es el enlace con los medios de comunicación y tendrá a su cargo la difusión de las actividades institucionales del Congreso mediante estrategias y políticas de comunicación que serán estudiadas, analizadas y propuestas para su aprobación al Comité de Comunicación, mismas que deberán atender y ejecutar buscando la optimización permanente, razonable y organizada de la información. Esta difusión se hará por todas las formas que apruebe el Comité.
+
+La integración, organización, funciones y demás atribuciones, se regirán por lo dispuesto en su reglamento y manual de procedimientos.
+
+Tendrá un titular que será nombrado y removido por el Pleno mediante propuesta emitida por la Junta, previa opinión del Comité de Comunicación, pero durará en su encargo en tanto no sea designado un sucesor. Para ser candidato a titular, deberá reunir como mínimo los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Poseer conocimiento profesional y comprobar, por lo menos, tres años de experiencia en áreas de comunicación o periodismo;
+
+III. No ser dirigente o tener cargo directivo en algún partido político;
+
+IV. No tener parentesco civil, por afinidad o consanguíneo hasta el tercer grado con cualquiera de los diputados integrantes de la legislatura que corresponda, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos; y,
+
+V. No tener parentesco civil, por afinidad o consanguíneo hasta el tercer grado, con cualquiera de los dueños de medios de comunicación registrados en el Estado.
+
+En caso de ausencias temporales del titular de la Coordinación de Comunicación Social se estará a lo resuelto por el Comité de Comunicación Social.
+
+### CAPÍTULO SÉPTIMO. DE LA COORDINACIÓN DE ATENCIÓN CIUDADANA Y GESTORÍA
+
+###### ARTÍCULO 116.
+
+La Coordinación de Atención Ciudadana y Gestoría depende del Comité de Atención Ciudadana y Gestoría, tiene a su cargo brindar asesoría y orientación profesional en materia jurídica, así como coordinarse con las dependencias federales, estatales, municipales e instituciones privadas de asistencia social para canalizar las demandas ciudadanas; asimismo, previo estudio socioeconómico, apoyar en la medida de las posibilidades presupuestales del Congreso, conforme a la partida que le sea asignada para tal efecto, a las personas que lo soliciten o gestionar ante las dependencias competentes lo concerniente a los mismos, así como dar cuenta del uso y destino de dicha partida al Pleno, por medio del Comité respectivo.
+
+Los diputados canalizarán sólo por conducto de esta Coordinación los recursos de gestión.
+
+Su titular será designado y removido por el Pleno a propuesta de la Junta de Coordinación Política, su integración, organización y funciones se rigen por lo dispuesto en su reglamento y manual de procedimientos.
+
+### CAPÍTULO OCTAVO. DE LA COORDINACIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+###### ARTÍCULO 117.
+
+La Coordinación de Transparencia y Acceso a la Información Pública del Poder Legislativo, depende del Comité de Transparencia y Acceso a la Información Pública; tiene a su cargo recibir, tramitar y responder las solicitudes de acceso a la información que realicen las personas, así como coordinarse con las dependencias federales y estatales en la materia para cumplir con la normatividad relativa garantizando los principios de transparencia, rendición de cuentas y máxima publicidad.
+
+Garantizará en coadyuvancia con la Coordinación de Comunicación Social, que los documentos generados por el trabajo del Pleno, comisiones, comités y demás órganos del Congreso, sean publicados en el sitio de internet o portal del Congreso, para que sean consultados libremente por los diputados y las personas, a menos que exista acuerdo fundado para su clasificación como reservados.
+
+Su titular será designado y removido por el Pleno a propuesta de la Junta de Coordinación Política, su integración, organización y funciones se rigen por lo dispuesto en su reglamento y manual de procedimientos.
+
+### CAPÍTULO NOVENO. DE LA COORDINACIÓN DE EDITORIAL, BIBLIOTECA Y ARCHIVO
+
+###### ARTÍCULO 118.
+
+La Coordinación de Editorial, Biblioteca y Archivo depende del Comité de Editorial, Biblioteca y Archivo, tiene a su cargo la creación, el acopio, administración, clasificación y resguardo de los documentos, material bibliográfico, hemerográfico, digital y audiovisual, para la consulta del público en general y en su caso, el préstamo a los diputados y al personal del Congreso. Asimismo, podrá proponer la firma de convenios con diferentes entidades públicas y privadas, para la adquisición y elaboración de material bibliográfico.
+
+Lo anterior, conforme a las normas y métodos que (sic) establecidos en biblioteconomía y archivonomía.
+
+El acervo bibliográfico comprende libros, hemeroteca, videoteca, museografía y archivo histórico.
+
+Su titular será designado y removido por el Pleno a propuesta de la Junta de Coordinación Política, su integración, organización y funciones se rigen por lo dispuesto en su reglamento y manual de procedimientos.
+
+### CAPÍTULO DÉCIMO. DEL INSTITUTO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS
+
+###### ARTÍCULO 119.
+
+El Instituto de Investigaciones y Estudios Legislativos es el órgano desconcentrado del Congreso, con autonomía técnica, gestión y personalidad jurídica para celebrar convenios de coordinación. Decidirá sobre su organización interna y funcionamiento en los términos de esta Ley y su reglamento.
+
+Tiene como fin elaborar investigaciones que permitan apoyar los trabajos de la agenda legislativa, apoyar en asesoría interna para las comisiones y comités; y, producir investigaciones sobre el propio Congreso para su proyección y fortalecimiento.
+
+###### ARTÍCULO 120.
+
+El Instituto se integra por:
+
+I. Un Director;
+
+II. Un Consejo Académico;
+
+III. Un Secretario Académico; y,
+
+IV. Investigadores.
+
+###### ARTÍCULO 121.
+
+El Director del Instituto de Investigaciones y Estudios Legislativos, deberá contar con los requisitos establecidos en el artículo 106 de esta Ley. Podrá al término de su nombramiento, ser reelecto hasta por dos ocasiones.
+
+###### ARTÍCULO 122.
+
+Los investigadores podrán ser:
+
+I. Titulares;
+
+II. Adjuntos;
+
+III. Invitados; y,
+
+IV. Externos.
+
+###### ARTÍCULO 123.
+
+Son investigadores titulares quienes cumplan con los siguientes requisitos:
+
+I. Ser mexicano por nacimiento;
+
+II. Contar con estudios de Doctorado, para el caso de titular C; de Maestro para el caso de Titular B; y de Licenciado para el caso de titular A;
+
+III. Contar con una experiencia mínima de dos años en la investigación o que acredite sus aptitudes para la misma; y,
+
+IV. Obtener por concurso de oposición la titularidad.
+
+El Consejo nombrará de entre los investigadores titulares a quien fungirá como Secretario Académico durante un periodo de tres años, cuya función será coordinar las funciones académicas del Instituto.
+
+###### ARTÍCULO 124.
+
+Son investigadores adjuntos quienes cumplen con los siguientes requisitos:
+
+I. Ser mexicano por nacimiento;
+
+II. Contar cuando menos con estudios de Licenciatura;
+
+III. Contar con una experiencia mínima de dos años en la investigación o que acredite sus aptitudes para la misma; y,
+
+IV. Serán contratados de forma no permanente.
+
+###### ARTÍCULO 125.
+
+Son investigadores invitados quienes provenientes de otras instituciones o quienes tengan experiencia en la investigación sean contratados por obra determinada o tiempo definido y se incorporen a las tareas del Congreso a través de:
+
+I. Años sabáticos;
+
+II. Estancias académicas;
+
+III. Intercambios;
+
+IV. Proyectos concretos; o,
+
+V. Cualquier forma de invitación que determine el Consejo Académico, previa autorización de la Junta de Coordinación Política.
+
+###### ARTÍCULO 126.
+
+Son investigadores externos quienes laborando en otras instituciones o tengan experiencia en la investigación realicen trabajos académicos para el Congreso solicitados por el Consejo Académico del Instituto previa autorización de la Junta de Coordinación Política.
+
+###### ARTÍCULO 127.
+
+El Consejo Académico se integra con:
+
+I. El Presidente, que lo será el Director del Instituto;
+
+II. Tres diputados al Congreso, procurando la pluralidad política, preferentemente con estudios de posgrado, a propuesta de la Junta; y,
+
+III. Tres investigadores titulares del Instituto.
+
+###### ARTÍCULO 128.
+
+Los miembros del Consejo Académico serán nombrados por el Pleno a propuesta de la Junta de Coordinación Política y tendrá las siguientes atribuciones:
+
+I. Recibir las solicitudes de investigaciones y estudios por parte de los diputados, de las comisiones y de los comités;
+
+II. Remitir las solicitudes de investigación de acuerdo a temas, perfiles y experiencia a los investigadores del Instituto;
+
+III. Autorizar los programas anuales individuales de trabajo;
+
+IV. Coordinar las investigaciones y estudios entre los investigadores;
+
+V. Coordinar las asesorías a las comisiones y comités del Congreso;
+
+VI. Analizar las propuestas de intercambio académico en general;
+
+VII. Opinar sobre los procedimientos y condiciones del servicio parlamentario de carrera del Instituto;
+
+VIII. Acordar la realización de estudios sobre el Congreso del Estado y la coordinación interinstitucional para el mismo fin;
+
+IX. Elaborar el proyecto de presupuesto del Instituto; y,
+
+X. Acordar la incorporación de investigadores invitados y externos.
+
+###### ARTÍCULO 129.
+
+Los investigadores en general estarán sujetos a un programa individual anual de trabajo, que contendrá el número de investigaciones, estudios y asesorías.
+
+###### ARTÍCULO 130.
+
+Los concursos de oposición serán convocados, atendiendo a las propias necesidades de investigación y asesoría del Congreso, se integrará para este fin un grupo de especialistas en investigación para su realización y sus resultados serán públicos y tendrán como objetivo incorporar a los investigadores titulares dentro de las diferentes categorías.
+
+###### ARTÍCULO 131.
+
+Todo el personal del Instituto estará sujeto al servicio parlamentario de carrera, determinado por el propio Congreso para sus condiciones de ingreso, permanencia y egreso.
+
+### CAPÍTULO DÉCIMO PRIMERO. DEL SERVICIO PARLAMENTARIO DE CARRERA
+
+###### ARTÍCULO 132.
+
+Para el ejercicio de sus funciones los diputados al Congreso del Estado de Michoacán de Ocampo se auxiliarán de los siguientes servidores públicos:
+
+a) Servidores de Libre Designación que exclusivamente desempeñaran cargos dentro de los Gabinetes de Apoyo de los propios legisladores; y,
+
+b) Servidores Parlamentarios de Carrera que desempeñaran los cargos técnicos profesionales de las estructuras orgánicas ocupacionales.
+
+###### ARTÍCULO 133.
+
+Los Gabinetes de Apoyo son las unidades administrativas adscritas a los Diputados así como a los grupos parlamentarios para desempeñar un cargo o comisión como secretarios particulares, asesores legislativos, coordinadores de gestión y servicios de apoyo general de cualquier nivel de conformidad con el presupuesto autorizado.
+
+Los funcionarios que formen parte de los Gabinetes de Apoyo serán nombrados y removidos libremente por el diputado o el Grupo parlamentario a quienes estén adscritos.
+
+Las estructuras de los Gabinetes de Apoyo deberán ser autorizadas por la Junta de Coordinación Política, considerando la capacidad presupuestal del Congreso.
+
+###### ARTÍCULO 134.
+
+Los funcionarios de libre designación, sólo podrán desempeñar labores dentro de los Gabinetes de Apoyo.
+
+Queda prohibido a los funcionarios de libre designación, el ejercicio laboral de atribuciones que por ley competan a los Servidores Parlamentarios de Carrera.
+
+###### ARTÍCULO 135.
+
+El Servicio Parlamentario de Carrera, es el cuerpo de funcionarios del Congreso del Estado a quienes les corresponde llevar a cabo la gestión de la Legislatura, en el ámbito de sus competencias.
+
+El Servicio depende del Comité de Administración y Control, el cual lo administrará a través de un Secretario Permanente, designado por este, de entre los miembros del Servicio, a quien le corresponde la dirección y administración del servicio.
+
+###### ARTÍCULO 136.
+
+El Servicio Parlamentario de Carrera tendrá los propósitos siguientes:
+
+I. Garantizar la profesionalización del personal técnico al Servicio del Congreso del Estado;
+
+II. Asegurar el ingreso al Servicio con base en el mérito y en igualdad de oportunidades;
+
+III. Asegurar la capacitación permanente de los Servidores Parlamentarios de Carrera;
+
+IV. Garantizar la Carrera Parlamentaria, a través de las promociones y ascensos, con base en la preparación, la capacidad, el desempeño, la experiencia, la disciplina y la probidad;
+
+V. Fomentar la motivación y la eficacia mediante condiciones laborales adecuadas y estímulos basados en la evaluación del desempeño, previstos en el presupuesto de egresos del Congreso;
+
+VI. Establecer la imparcialidad política dentro del Servicio;
+
+VII. Garantizar la estabilidad y seguridad en el empleo; y,
+
+VIII. Garantizar a los Servidores el ejercicio de los derechos que les reconocen los ordenamientos jurídicos.
+
+###### ARTÍCULO 137.
+
+Para los efectos del presente Capítulo, se entenderá por:
+
+I. Servicio: El Servicio Parlamentario de Carrera;
+
+II. Registro: El Registro Único de Servidores Parlamentarios de Carrera;
+
+III. Grados: Los Grados del Servicio;
+
+IV. Estructuras orgánico ocupacionales: El catálogo de funciones y relaciones jerárquicas entre los funcionarios técnicos del Congreso;
+
+V. Servidor Parlamentario de Carrera: Persona física integrante del Servicio Parlamentario de Carrera del Congreso del Estado de Michoacán, que desempeña un cargo de confianza dentro de la legislatura;
+
+VI. Secretario Permanente: es el encargado de dirigir el funcionamiento del Servicio;
+
+VII. Consejo: Consejo Consultivo del Servicio, es una instancia de apoyo del Secretario Permanente, que tiene como propósito hacer recomendaciones generales, opinar sobre los lineamientos, políticas, estrategias y líneas de acción que aseguren y faciliten el desarrollo del Servicio;
+
+VIII. Comités de Selección: Cuerpos colegiados, encargados de operar el Servicio con base en la normatividad que emita el Secretario Permanente para estos efectos; y,
+
+IX. Cuerpos: Los Cuerpos de Servidores Parlamentarios del Congreso del Estado.
+
+#### SECCIÓN I. DE LA INTEGRACIÓN DEL SERVICIO PARLAMENTARIO DE CARRERA
+
+###### ARTÍCULO 138.
+
+Los Servidores Parlamentarios de Carrera, se clasificarán en Servidores Parlamentarios Titulares y Eventuales.
+
+Los Servidores Eventuales, son aquellos que hubieren ingresado al servicio en casos excepcionales o por medio de un convenio.
+
+El Servidor Parlamentario de Carrera, ingresará al Servicio a través de un concurso de selección y sólo podrá ser nombrado y removido, en los casos y bajo los procedimientos previstos por este capítulo.
+
+###### ARTÍCULO 139.
+
+El Servicio Parlamentario de Carrera, estará conformado por Cuerpos de Servidores Parlamentarios.
+
+###### ARTÍCULO 140.
+
+Los Cuerpos de Servidores del Congreso del Estado son Agrupaciones de Profesionistas que han sido seleccionados para formar parte del Servicio Parlamentario de Carrera, quienes desempeñarán las funciones correspondientes al Grado de categoría en que se encuentren.
+
+###### ARTÍCULO 141.
+
+El Congreso del Estado estará conformado por los siguientes cuerpos de Servidores Parlamentarios:
+
+a) Cuerpo de Abogados;
+
+b) Cuerpo de Contadores;
+
+c) Cuerpo de Licenciados en Administración;
+
+d) Cuerpo de Ingenieros;
+
+e) Cuerpo de alguna otra Profesión; y,
+
+f) Cuerpo de auxiliares.
+
+###### ARTÍCULO 142.
+
+El Servicio comprenderá los Grados siguientes:
+
+a) Consejero en Jefe;
+
+b) Consejero;
+
+c) Consultor;
+
+d) Primer Secretario;
+
+e) Segundo Secretario; y,
+
+f) Tercer Secretario.
+
+###### ARTÍCULO 143.
+
+Los Servidores Parlamentarios de Carrera ocuparán dentro de las Estructuras Orgánico Ocupacionales del Congreso del Estado los Niveles Jerárquicos siguientes:
+
+a) Secretario Permanente;
+
+b) Director General;
+
+c) Director de Área;
+
+d) Analista en Jefe;
+
+e) Analista Especializado; y,
+
+f) Analista.
+
+Los niveles jerárquicos anteriores comprenderán los niveles de adjunto, homólogo o cualquier otro equivalente independientemente de la denominación que se le dé.
+
+Todo cargo de nueva creación en las Estructuras Orgánico Ocupacionales, con funciones equivalentes a las anteriores, deberá estar homologado a los Grados previstos en el presente capítulo, sin importar su denominación.
+
+###### ARTÍCULO 144.
+
+Los Servidores Parlamentarios de Carrera podrán ocupar cualquiera de los niveles jerárquicos previstos en el artículo anterior, siempre y cuando tenga el Grado requerido de la siguiente manera:
+
+Para ocupar el cargo de:
+
+a) Secretario Permanente se requerirá tener el Grado de Consejero en Jefe;
+
+b) Director General se requerirá tener el Grado de Consejero;
+
+c) Director de Área se requerirá tener el Grado de Consultor;
+
+d) Analista en Jefe se requerirá tener el Grado de Primer Secretario;
+
+e) Analista Especializado se requerirá tener el Grado de Segundo Secretario; y,
+
+f) Analista se requerirá tener el Grado de Tercer Secretario.
+
+###### ARTÍCULO 145.
+
+Los trabajadores de base del Congreso del Estado, tendrán acceso al Servicio Parlamentario de Carrera, sujetándose, en su caso, a los procedimientos de reclutamiento, y selección, previstos en este Capítulo. Para la incorporación al Servicio del trabajador de base, será necesario contar con licencia o haberse separado de la plaza que ocupa, no pudiendo permanecer activo en ambas situaciones.
+
+###### ARTÍCULO 146.
+
+El desempeño del Servicio Parlamentario de Carrera será incompatible con el ejercicio de cualquier otro cargo, profesión o actividad que impida o menoscabe el estricto cumplimiento de los deberes del Servidor Parlamentario de Carrera.
+
+#### SECCIÓN II. DERECHOS Y OBLIGACIONES DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
+
+###### ARTÍCULO 147.
+
+Los Servidores Parlamentarios de Carrera, tendrán los siguientes derechos:
+
+I. Tener estabilidad y permanencia en el Servicio en los términos y bajo las condiciones que prevé este Capítulo;
+
+II. Recibir el nombramiento como Servidor Parlamentario de Carrera una vez cubiertos los requisitos establecidos y aprobados los exámenes correspondientes;
+
+III. Formar parte del Cuerpo de Servidores Parlamentarios, que soliciten se emita la convocatoria;
+
+IV. Percibir las remuneraciones correspondientes a su cargo, además de los beneficios y estímulos que se prevean;
+
+V. Acceder a un nivel jerárquico más elevado, cuando haya cumplido con los requisitos y procedimientos descritos en este ordenamiento;
+
+VI. Recibir capacitación y actualización con carácter profesional para el mejor desempeño de sus funciones;
+
+VII. Ser evaluado con base en los principios rectores de este capítulo y conocer el resultado de los exámenes que haya sustentado, en un plazo no mayor de 60 días;
+
+VIII. Ser evaluado nuevamente previa capacitación correspondiente, cuando en alguna evaluación no haya resultado aprobado, en los términos previstos en el presente capítulo;
+
+IX. Participar en el Comité de Selección cuando se trate de designar a un Servidor Parlamentario en la jerarquía inmediata inferior;
+
+X. Promover los medios de defensa que establece este capítulo, contra las resoluciones emitidas en aplicación del mismo; y,
+
+XI. Las demás que se deriven de los preceptos del presente ordenamiento, de su reglamento y demás disposiciones aplicables.
+
+###### ARTÍCULO 148.
+
+Son obligaciones de los Servidores Parlamentarios de Carrera:
+
+I. Ejercer sus funciones con estricto apego a los principios de legalidad, objetividad, imparcialidad, eficiencia y demás que rigen el Servicio;
+
+II. Desempeñar sus labores con cuidado y esmero apropiados, observando las instrucciones que reciban de sus superiores jerárquicos;
+
+III. Participar en las evaluaciones establecidas para su permanencia y desarrollo en el Servicio;
+
+IV. Aportar los elementos objetivos necesarios para la evaluación de los resultados del desempeño;
+
+V. Participar en los programas de capacitación obligatoria que comprende la actualización, especialización y educación formal, sin menoscabo de otras condiciones de desempeño que deba cubrir, en los términos que establezca su nombramiento;
+
+VI. Guardar reserva de la información, documentación y en general, de los asuntos que conozca;
+
+VII. Asistir puntualmente a sus labores y respetar los horarios de actividades;
+
+VIII. Proporcionar la información y documentación necesarias al funcionario que se designe para suplirlo en sus ausencias temporales o definitivas;
+
+IX. Abstenerse de incurrir en actos u omisiones que pongan en riesgo la seguridad del personal, bienes y documentación u objetos del área de trabajo o de las personas que allí se encuentren;
+
+X. Excusarse de conocer asuntos que puedan implicar conflicto de intereses con las funciones que desempeña dentro del Servicio; y,
+
+XI. Las demás que señalen las leyes y disposiciones aplicables.
+
+#### SECCIÓN III. DE LA ESTRUCTURA DEL SERVICIO PARLAMENTARIO DE CARRERA
+
+###### ARTÍCULO 149.
+
+El Servicio Parlamentario de Carrera comprende los Subsistemas de: Planeación de Recursos Humanos; Ingreso; Desarrollo Profesional; Formación; Evaluación del Desempeño; Separación y, Control y Evaluación, que se precisan a continuación:
+
+I. Subsistema de Planeación de Recursos Humanos. Determinará las necesidades cuantitativas y cualitativas del personal que requiera el Servicio para el eficiente ejercicio de sus funciones. Además administrará el Registro Único de Servidores Parlamentarios de Carrera;
+
+II. Subsistema de Ingreso. Regulará el proceso de reclutamiento y selección de candidatos, así como los requisitos necesarios para que los aspirantes a primer ingreso se incorporen al Servicio;
+
+III. Subsistema de Desarrollo Profesional. Regulará los procedimientos y requisitos mediante los cuales los Servidores Parlamentarios de Carrera podrán ascender de Grado y/o Nivel Jerárquico;
+
+IV. Subsistema Formación. Establecerá los modelos de profesionalización para los Servidores Parlamentarios, que les permitan adquirir:
+
+a) Los conocimientos básicos acerca del área en que laboran y la Legislatura en su conjunto;
+
+b) La especialización, actualización y educación formal en el cargo desempeñado;
+
+c) Las aptitudes y actitudes necesarias para ocupar otros cargos de igual o mayor responsabilidad;
+
+d) Las habilidades necesarias para certificar las capacidades profesionales adquiridas; y,
+
+e) Las condiciones objetivas para propiciar igualdad de oportunidades de capacitación para mujeres y hombres.
+
+V. Subsistema de Evaluación del Desempeño. Su propósito es establecer los mecanismos de medición y valoración del desempeño y la productividad de los Servidores Parlamentarios de Carrera, que serán a su vez los parámetros para obtener estímulos, así como para garantizar la estabilidad laboral;
+
+VI. Subsistema de Separación. Se encarga de atender los casos y supuestos mediante los cuales un Servidor Parlamentario deja de formar parte del Servicio o se suspenden temporalmente sus derechos; y,
+
+VII. Subsistema de Control y Evaluación. Su objetivo es diseñar y operar los procedimientos y medios que permitan efectuar la vigilancia, y en su caso, corrección de la operación del Servicio.
+
+#### SECCIÓN IV. DEL SUBSISTEMA DE PLANEACIÓN DE LOS RECURSOS HUMANOS
+
+###### ARTÍCULO 150.
+
+El Secretario Permanente establecerá un Subsistema de Planeación de Recursos Humanos para el eficiente ejercicio del Servicio. A través de sus diversos procesos, el Subsistema:
+
+I. Registrará y procesará la información necesaria para la definición de los perfiles requeridos;
+
+II. No autorizará ningún cargo que no esté incluido y descrito en las Estructuras Orgánico Ocupacionales;
+
+III. Operará el Registro Único de Servidores Públicos de Carrera;
+
+IV. Determinará las necesidades cuantitativas de personal, considerando las necesidades de los Cuerpos de Servidores Parlamentarios y los efectos de los cambios en las estructuras orgánico-ocupacionales, la rotación, retiro, y separación de los funcionarios, con el fin de que la estructura del Congreso tenga un número de Servidores Parlamentarios de Carrera adecuado para su buen funcionamiento y, acorde con los principios rectores de este Servicio, que promueva y garantice la equidad de género y permita la movilidad de los miembros del Servicio;
+
+V. Calculará el costo que generará la determinación cuantitativa del personal;
+
+VI. Analizará el desempeño y los resultados de los Servidores Parlamentarios de Carrera, emitiendo las conclusiones conducentes;
+
+VII. Revisará y tomará en cuenta para la planeación de los recursos humanos del Congreso los resultados de las evaluaciones sobre el Servicio;
+
+VIII. Realizará los demás estudios, programas, acciones y trabajos que sean necesarios para el cumplimiento del objeto del presente capítulo; y,
+
+IX. Ejercerá las demás funciones que le señale esta Ley, su Reglamento y disposiciones relativas.
+
+DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
+
+###### ARTÍCULO 151.
+
+El Registro Único de los Servidores Parlamentarios de Carrera es un padrón que contiene información básica y técnica en materia de recursos humanos y se establece con fines de apoyo al desarrollo del Servidor Parlamentario de Carrera dentro del Congreso.
+
+Los datos personales que en él se contengan serán considerados confidenciales.
+
+###### ARTÍCULO 152.
+
+El Registro sistematizará la información relativa a la planeación de recursos humanos, ingreso, desarrollo profesional, formación, evaluación del desempeño y separación de los miembros del Servicio.
+
+###### ARTÍCULO 153.
+
+El Registro deberá incluir a cada Servidor Parlamentario que ingrese al Servicio. Los datos del Registro respecto al proceso de capacitación y desarrollo deberán actualizarse de manera permanente. Esta información permitirá identificar al Servidor Parlamentario de Carrera como candidato para ocupar vacantes de distinto perfil.
+
+###### ARTÍCULO 154.
+
+Será motivo de baja del Registro, la separación del Servidor Parlamentario del Servicio por causas distintas a la renuncia.
+
+#### SECCIÓN V. DEL SUBSISTEMA DE INGRESO
+
+###### ARTÍCULO 155.
+
+El Reclutamiento es el proceso que permite atraer aspirantes con perfiles previamente determinados, con la finalidad de que al cumplir los requisitos necesarios y aprobar los exámenes correspondientes, puedan formar parte del Servicio Parlamentario de Carrera.
+
+###### ARTÍCULO 156.
+
+El reclutamiento se llevará a cabo anualmente a través de convocatorias públicas abiertas, que emitirá el Secretario Permanente a solicitud de los Cuerpos de Servidores Parlamentarios del Congreso del Estado.
+
+Este proceso dependerá de las necesidades que en materia de recursos humanos requieran los Cuerpos de Servidores así como del presupuesto autorizado.
+
+En caso de ausencia de plazas, no se emitirá la convocatoria.
+
+Previo al reclutamiento, el Secretario Permanente organizará eventos de inducción para motivar el acercamiento de aspirantes al concurso anual.
+
+###### ARTÍCULO 157.
+
+El aspirante a ingresar al Servicio deberá cumplir, además de lo que señale la convocatoria respectiva, los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos o extranjero cuya condición migratoria permita la función a desarrollar;
+
+II. No haber sido sentenciado con pena privativa de libertad por delito doloso;
+
+III. Contar con título de licenciatura, expedido legalmente;
+
+IV. Tener aptitud para el desempeño de sus funciones en el Servicio Parlamentario de Carrera;
+
+V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto; y,
+
+VI. No estar inhabilitado para el Servicio Parlamentario ni encontrarse con algún otro impedimento legal.
+
+No podrá existir discriminación por razón de género, edad, capacidades diferentes, condiciones de salud, religión, estado civil, origen étnico o condición social para la pertenencia al Servicio.
+
+###### ARTÍCULO 158.
+
+El ingreso al Servicio Parlamentario de Carrera se realizará por oposición, mediante concursos públicos anuales que serán organizados en etapas eliminatorias y deberán contemplar los siguientes exámenes y cursos:
+
+I. Elaboración de un ensayo orientado al funcionamiento y operación del Congreso del Estado;
+
+II. Examen de conocimientos generales;
+
+III. Entrevistas;
+
+IV. Exámenes médicos y psicológicos;
+
+V. Una vez seleccionado el candidato, recibirá cursos especializados cuya duración no excederá de seis meses; y,
+
+VI. Un periodo de experiencia práctica en el Congreso cuya duración no excederá de seis meses.
+
+###### ARTÍCULO 159.
+
+El Secretario Permanente, establecerá los parámetros mínimos de calificación para acceder al Servicio. Los candidatos que aprueben el concurso entrarán a ocupar las plazas de primer nivel de ingreso que corresponde al grado de Tercer Secretario. Los candidatos que no cumplan con la calificación mínima establecida no podrán continuar con las siguientes etapas del procedimiento.
+
+###### ARTÍCULO 160.
+
+Cuando se trate de cubrir cargos vacantes, distintos al primer nivel de ingreso, el Secretario Permanente deberá emitir convocatoria pública abierta, siempre y cuando el Servicio no cuente con el perfil requerido.
+
+###### ARTÍCULO 161.
+
+Se entenderá por convocatoria pública y abierta, aquella dirigida a Servidores Públicos en general o para todo interesado que desee ingresar al Servicio, mediante convocatoria publicada en el Periódico Oficial del Estado.
+
+Las convocatorias señalarán en forma precisa, los perfiles que se necesitan, los requisitos y los lineamientos generales que se determinen para las evaluaciones, así como el lugar y fecha de entrega de la documentación correspondiente, de las evaluaciones y el fallo relacionado con la selección de los candidatos finalistas.
+
+###### ARTÍCULO 162.
+
+Corresponde al Secretario Permanente, emitir las guías y lineamientos generales para la elaboración y aplicación de los mecanismos y herramientas de evaluación, que aplicarán los Comités conforme a las reglas de valoración o sistema de puntaje, para la selección de los Servidores Parlamentarios de Carrera.
+
+#### SECCIÓN VI. DEL SUBSISTEMA DE DESARROLLO PROFESIONAL
+
+###### ARTÍCULO 163.
+
+El Desarrollo Profesional es el proceso mediante el cual los Servidores podrán hacer Carrera en el Servicio Parlamentario, de manera ascendente o lateral a través de promociones en los grados de categoría y ascensos en los distintos niveles jerárquicos.
+
+###### ARTÍCULO 164.
+
+Los servidores miembros, para ocupar un Nivel de mayor jerarquía deberán cumplir con los requisitos contenidos en este capítulo, realizar las evaluaciones correspondientes; además se tomará en cuenta el puntaje otorgado al Servidor en virtud de sus evaluaciones del desempeño, promociones y los resultados de las evaluaciones de capacitación, certificación u otros estudios que hubiera realizado, así como la opinión de su superior jerárquico.
+
+###### ARTÍCULO 165.
+
+Cuando exista convocatoria para ocupar un nivel jerárquico determinado, el Servidor Parlamentario de Carrera, deberá contar con el Grado en la categoría que corresponda, que le permita ascender a dicho nivel.
+
+###### ARTÍCULO 166.
+
+La movilidad en el Servicio podrá seguir las siguientes trayectorias:
+
+I. Vertical o de especialidad, que corresponden a posiciones ascendentes, en donde las funciones se harán más complejas y de mayor responsabilidad; y,
+
+II. Horizontal o laterales, que son aquellas que corresponden a otros grupos o ramas de cargos, donde se cumplan condiciones de equivalencia, homologación, e incluso afinidad, entre los cargos que se comparan. En este caso, los Servidores Parlamentarios de Carrera que ocupen cargos equiparables, podrán optar por movimientos laterales en otros grupos de cargos.
+
+###### ARTÍCULO 167.
+
+Las Promociones son el proceso que permite a los Servidores Parlamentarios de Carrera, subir a un Grado superior en la categoría que corresponda.
+
+###### ARTÍCULO 168.
+
+El Comité de Profesionalización, será el encargado de dirigir las promociones de los Servidores Parlamentarios de Carrera, conforme a los principios rectores del Servicio.
+
+###### ARTÍCULO 169.
+
+El Comité de Profesionalización estará integrado por: el Secretario Permanente, el Director del Subsistema de Recursos Humanos y el encargado de la Capacitación.
+
+###### ARTÍCULO 170.
+
+Los Servidores Parlamentarios de Carrera para ascender de Grado, deberán cada 4 años ser sometidos al proceso siguiente:
+
+a) Recibir capacitación profesional; y,
+
+b) Realizar una evaluación que permita certificar sus capacidades.
+
+De aprobar la evaluación correspondiente, los Servidores podrán ascender al Grado siguiente.
+
+Cuando el resultado de la evaluación de un Servidor Parlamentario no sea aprobatorio deberá presentarla nuevamente. En ningún caso, ésta podrá realizarse en un periodo menor a 60 días naturales, transcurridos después de la notificación que se le haga de dicho resultado.
+
+Se le deberá proporcionar la capacitación necesaria antes de la siguiente evaluación.
+
+De no aprobar la evaluación, se procederá a la separación del Servidor Parlamentario de Carrera del Congreso del Estado, por consiguiente, causará baja del Registro.
+
+###### ARTÍCULO 171.
+
+Los ascensos son el proceso mediante el que los servidores parlamentarios de carrera podrán ascender de nivel jerárquico en las estructuras orgánico ocupacionales, siempre que existan vacantes. Para lo cual se requiere invitación del Secretario Permanente a quienes cuenten con el perfil.
+
+###### ARTÍCULO 172.
+
+El Secretario Permanente abrirá un concurso de selección, emitiendo convocatoria entre los Servidores Parlamentarios de Carrera que por su Grado puedan aspirar al puesto vacante.
+
+Las convocatorias contendrán los requisitos con los que se debe contar y el proceso a agotar para ocupar la vacante.
+
+###### ARTÍCULO 173.
+
+Para el Desarrollo del proceso de ascenso el Secretario Permanente formará un Comité de Selección, integrado por: el Director del Subsistema de Recursos Humanos y el Jefe Inmediato Superior de la vacante.
+
+###### ARTÍCULO 174.
+
+El proceso para ascender de Nivel Jerárquico, se realizará por oposición mediante concursos que serán organizados en etapas eliminatorias y deberá contemplar las siguientes fases:
+
+a) Concurso de selección interna;
+
+b) Examen de conocimientos;
+
+c) Examen gerencial, siempre que se requiera; y,
+
+d) Entrevista con el Comité de Selección.
+
+En caso de resultar seleccionado, previa autorización del Comité de Selección, el Secretario Permanente emitirá el nombramiento correspondiente.
+
+###### ARTÍCULO 175.
+
+Quedan prohibidas las entradas laterales al Servicio Parlamentario de Carrera, salvo cuando derivado de las necesidades del Congreso se requieran perfiles que no estén integrados en el Servicio. El Secretario Permanente previa autorización de la Junta podrá emitir convocatoria pública y abierta para cubrir un cargo en las Estructuras Orgánico Ocupacionales.
+
+El proceso para acceder a un cargo lateralmente será por oposición conforme a lo establecido en esta Ley.
+
+###### ARTÍCULO 176.
+
+Los funcionarios que ocupen un cargo en las Estructuras Orgánico Ocupacionales por ingreso lateral, sólo serán considerados Servidores Parlamentarios de Carrera Eventuales y no formarán parte del Servicio.
+
+###### ARTÍCULO 177.
+
+El Servidor Eventual que pretenda ser Servidor Parlamentario de Carrera Titular deberá realizar y aprobar las evaluaciones y cursos de ingreso al Servicio.
+
+###### ARTÍCULO 178.
+
+El Secretario Permanente, en apego a las disposiciones que al efecto emita la Mesa Directiva, podrá celebrar convenios con autoridades federales, estatales o municipales y organismos públicos o privados para el intercambio de recursos humanos una vez cubiertos los perfiles requeridos, con el fin de fortalecer el proceso de desarrollo profesional de los Servidores Parlamentarios de Carrera y ampliar sus experiencias.
+
+###### ARTÍCULO 179.
+
+Los Servidores Profesionales provenientes de instituciones u organismos con los que se suscriban convenios no podrán superar en número a los de carrera que se encuentren laborando en el Congreso del Estado, con motivo de un intercambio.
+
+###### ARTÍCULO 180.
+
+El Registro Único de Servidores Parlamentarios de Carrera acopiará información de recursos humanos, proporcionada por las autoridades o instituciones con las que se suscriban convenios, con la finalidad de permitir la participación temporal de aspirantes a Servidores Parlamentarios de Carrera en los concursos.
+
+#### SECCIÓN VII. DEL SUBSISTEMA DE FORMACIÓN
+
+###### ARTÍCULO 181.
+
+La Formación es el proceso mediante el cual los Servidores Parlamentarios de Carrera son inducidos, preparados, actualizados y certificados para desempeñar un cargo en el Congreso del Estado.
+
+###### ARTÍCULO 182.
+
+La formación tendrá los siguientes objetivos:
+
+I. Desarrollar, complementar, perfeccionar o actualizar los conocimientos y habilidades necesarios para el eficiente desempeño de los Servidores Parlamentarios de Carrera en sus cargos;
+
+II. Preparar a los Servidores para funciones de mayor responsabilidad o de naturaleza diversa; y,
+
+III. Certificar a los Servidores en las capacidades profesionales adquiridas.
+
+###### ARTÍCULO 183.
+
+El programa de actualización, es el curso de capacitación que tiene como propósito que los Servidores Parlamentarios de Carrera dominen los conocimientos y competencias necesarios para el desarrollo de sus funciones.
+
+El programa de actualización se integra con cursos obligatorios y optativos según lo establezcan los Comités en coordinación con el Secretario Permanente. Otorgándose un puntaje a los Servidores Parlamentarios de Carrera que los acrediten.
+
+#### SECCIÓN VIII. DEL SUBSISTEMA DE EVALUACIÓN DEL DESEMPEÑO
+
+###### ARTÍCULO 184.
+
+La Evaluación del Desempeño es el método mediante el cual se miden, tanto en forma individual como colectiva, los aspectos cualitativos y cuantitativos del cumplimiento de las funciones y metas asignadas a los Servidores Parlamentarios de Carrera, en función de sus habilidades, capacidades y adecuación al puesto.
+
+###### ARTÍCULO 185.
+
+La Evaluación del Desempeño tiene como principales objetivos los siguientes:
+
+I. Valorar el comportamiento de los servidores parlamentarios de carrera en el cumplimiento de sus funciones, tomando en cuenta las metas programáticas establecidas, la capacitación lograda y las aportaciones realizadas;
+
+II. Determinar, en su caso, el otorgamiento de estímulos al desempeño destacado a que se refiere este capítulo;
+
+III. Aportar información para mejorar el funcionamiento del Congreso en términos de eficiencia, efectividad, honestidad, calidad del servicio y aspectos financieros;
+
+IV. Servir como instrumento para detectar necesidades de capacitación que se requieran en la legislatura; y,
+
+V. Identificar los casos de desempeño no satisfactorio para adoptar medidas correctivas, de conformidad con lo dispuesto por esta Ley.
+
+###### ARTÍCULO 186.
+
+Los estímulos al desempeño destacado consisten en la cantidad neta que se entrega al Servidor Parlamentario de Carrera de manera extraordinaria con motivo de la productividad, eficacia y eficiencia.
+
+Las percepciones extraordinarias en ningún caso se considerarán un ingreso fijo, regular o permanente ni formarán parte de los sueldos u honorarios que perciben en forma ordinaria los Servidores.
+
+###### ARTÍCULO 187.
+
+Los Comités en coordinación con el Secretario establecerán los métodos de evaluación de personal que mejor respondan a las necesidades del Congreso.
+
+La aprobación de las evaluaciones del desempeño será requisito indispensable para la permanencia del Servidor Parlamentario en el Servicio.
+
+#### SECCIÓN IX. DEL SUBSISTEMA DE SEPARACIÓN
+
+###### ARTÍCULO 188.
+
+Para efectos de este Capítulo se entenderá por separación del Servidor Parlamentario de Carrera la terminación de su nombramiento o las situaciones por las que dicho nombramiento deje de surtir sus efectos.
+
+###### ARTÍCULO 189.
+
+Los miembros del Servicio serán separados de sus cargos ya sea temporalmente por medio de suspensión como consecuencia de la aplicación de una sanción administrativa y, en forma definitiva, por baja y destitución como consecuencia de una sanción administrativa, en términos de la presente Ley.
+
+###### ARTÍCULO 190.
+
+Son causas de baja del Servicio Parlamentario de Carrera las siguientes:
+
+I. Por renuncia formulada por el servidor parlamentario;
+
+II. Por jubilación;
+
+III. Por defunción;
+
+IV. Sentencia ejecutoriada que imponga al servidor una pena que implique la privación de su libertad;
+
+V. Por incumplimiento reiterado e injustificado de cualquiera de las obligaciones que esta Ley le asigna;
+
+VI. Hacerse acreedor a sanciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, que impliquen separación del servicio o reincidencia;
+
+VII. No aprobar en dos ocasiones la capacitación obligatoria o su segunda evaluación de desempeño; y,
+
+VIII. Cuando el resultado de su evaluación del desempeño sea deficiente.
+
+###### ARTÍCULO 191.
+
+La licencia es el acto por el cual un Servidor Parlamentario de Carrera, previa autorización del Secretario Permanente, puede dejar de desempeñar las funciones propias de su cargo de manera temporal, conservando todos o algunos derechos que este capítulo le otorga.
+
+Para que un funcionario pueda obtener una licencia deberá tener una permanencia en el Servicio de al menos dos años y dirigir su solicitud por escrito al Secretario Permanente, con el visto bueno de su superior jerárquico. El dictamen de la solicitud deberá hacerse por escrito, de manera fundada y motivada, y basada en el dictamen que el aula de Planeación de Recursos Humanos haga al respecto basada en la planeación y en el presupuesto.
+
+La licencia sin goce de sueldo no será mayor a seis meses y no podrá prorrogarse, excepto cuando el Servidor ocupe un cargo en alguna otra institución con la que el Servicio tenga un convenio.
+
+La licencia con goce de sueldo no podrá ser mayor a un mes y sólo se autorizará por causas relacionadas con la capacitación del servidor parlamentario vinculadas al ejercicio de sus funciones.
+
+###### ARTÍCULO 192.
+
+Para cubrir el cargo del Servidor Parlamentario de Carrera que obtenga licencia menor aun (sic) mes se nombrará un Servidor Parlamentario que actuará de manera provisional, si la licencia es mayor a un mes se abrirá el concurso de selección correspondiente.
+
+#### SECCIÓN X. DEL SUBSISTEMA DE CONTROL Y EVALUACIÓN
+
+###### ARTÍCULO 193.
+
+El Secretario Permanente establecerá mecanismos de evaluación sobre la operación del Servicio a efecto de contar con elementos suficientes para su adecuado perfeccionamiento.
+
+###### ARTÍCULO 194.
+
+El Consejo Consultivo desarrollará la información necesaria que permita evaluar los resultados de la operación del Servicio y emitirá reportes sobre el comportamiento observado en cada uno de los Subsistemas, los que hará del conocimiento del Secretario Permanente y sugerirá acciones de perfeccionamiento.
+
+#### SECCIÓN XI. DE LA ESTRUCTURA ORGÁNICA DEL SERVICIO DEL SECRETARIO PERMANENTE
+
+###### ARTÍCULO 195.
+
+Para el cumplimiento de las disposiciones contenidas en el presente ordenamiento, el Servicio contará con los siguientes órganos:
+
+I. El Secretario Permanente;
+
+II. El Consejo; y,
+
+III. Los Comités.
+
+###### ARTÍCULO 196.
+
+Corresponde al Comité de Administración y Control designar y remover al Secretario Permanente, de entre los servidores parlamentarios de carrera de mayor grado.
+
+###### ARTÍCULO 197.
+
+El Secretario Permanente se encargará de dirigir, coordinar, dar seguimiento y evaluar el funcionamiento del Servicio Parlamentario de Carrera, y vigilará que sus principios rectores sean aplicados debidamente en su desarrollo, conforme lo establecido en este capítulo y demás disposiciones aplicables.
+
+###### ARTÍCULO 198.
+
+El Secretario Permanente contará con las siguientes facultades:
+
+I. Emitir los criterios de los programas generales del Servicio, para su implantación gradual, flexible, descentralizada, integral y eficiente;
+
+II. Elaborar el presupuesto anual para la operación del Servicio;
+
+III. Administrar los bienes y recursos del Servicio;
+
+IV. Expedir los manuales de organización y procedimientos requeridos para el funcionamiento del Servicio;
+
+V. Dictar las normas y políticas que se requieran para la operación del Servicio;
+
+VI. Dar seguimiento a la implantación y operación del Servicio en el Congreso del Estado y en caso necesario, dictar las medidas correctivas que se requieran, tomando las acciones pertinentes sobre aquellos actos y omisiones que puedan constituir responsabilidades administrativas;
+
+VII. Emitir las convocatorias públicas anuales previa solicitud de los Cuerpos de Servidores Parlamentarios;
+
+VIII. Aprobar la constitución o desaparición de los Comités técnicos;
+
+IX. Aprobar los mecanismos y criterios de evaluación y puntuación;
+
+X. Resolver las inconformidades que se presenten en la operación del Servicio;
+
+XI. Promover y aprobar los programas de capacitación y actualización, así como la planeación de cursos de especialización en los casos que señale el Reglamento;
+
+XII. Vigilar que el personal de carrera se ajuste a una rotación programada, asegurándose que sin excepción, ningún miembro permanezca en el mismo grado por más de 4 años continuos;
+
+XIII. Establecer los mecanismos que considere necesarios para captar la opinión de la ciudadanía respecto al funcionamiento del Servicio y del mejoramiento de la labor del Congreso a partir de su implantación;
+
+XIV. Revisar de manera periódica y selectiva la operación del Servicio en el Congreso del Estado;
+
+XV. Aplicar el presente Capítulo para efectos administrativos emitiendo criterios obligatorios sobre éste y otras disposiciones sobre la materia, para la regulación del Servicio;
+
+XVI. Solicitar al Presidente del Congreso, la publicación en el Periódico Oficial del Estado de las disposiciones y acuerdos de carácter general que pronuncie;
+
+XVII. Rendir anualmente un informe al Comité de Administración y Control y a la Junta de Coordinación Política respecto del funcionamiento del Servicio Parlamentario de Carrera; y,
+
+XVIII. Las demás que se establezcan en el presente Capítulo.
+
+DEL CONSEJO CONSULTIVO
+
+###### ARTÍCULO 199.
+
+El Consejo es un órgano de apoyo para el Servicio Parlamentario de Carrera. Estará integrado por el Presidente del Comité de Administración y Control, por los responsables de cada Subsistema, por los presidentes de los comités técnicos y por un representante de los sectores social, privado y académico, a invitación de los integrantes.
+
+Son atribuciones del Consejo:
+
+I. Conocer y opinar sobre el Programa Operativo Anual del Servicio en el proceso de dar seguimiento a su observancia y cumplimiento en el Congreso del Estado;
+
+II. Opinar sobre los lineamientos, políticas, estrategias y líneas de acción que aseguren y faciliten el desarrollo del Servicio;
+
+III. Estudiar y proponer modificaciones a las estructuras orgánico ocupacionales;
+
+IV. Proponer mecanismos y criterios de evaluación y puntuación;
+
+V. Recomendar programas de capacitación y actualización, así como el desarrollo de cursos de especialización;
+
+VI. Acordar la participación de invitados en las sesiones de Consejo; y,
+
+VII. Las que se deriven de las disposiciones de esta Ley, su Reglamento y demás disposiciones aplicables.
+
+###### ARTÍCULO 200.
+
+El Consejo estará presidido por el Presidente del Comité de Administración y Control y contará con un Secretario Técnico.
+
+DE LOS COMITÉS TÉCNICOS
+
+###### ARTÍCULO 201.
+
+Los Comités son el cuerpo técnico especializado encargado de la implantación, operación y evaluación del Servicio Parlamentario de Carrera. Son responsables de planear, organizar e impartir la inducción al servicio, pudiendo coordinar la realización de cursos con instituciones de educación técnica y superior.
+
+###### ARTÍCULO 202.
+
+Los Comités estarán integrados por el Secretario Permanente, quien los presidirá, el presidente del Comité que corresponda y el director de área.
+
+###### ARTÍCULO 203.
+
+Serán atribuciones de los Comités:
+
+I. Emitir reglas generales y dictar actos que definan las modalidades a través de las cuales se implemente el Servicio;
+
+II. Proponer políticas y programas específicos de ingreso, desarrollo, capacitación, evaluación y separación del personal de su área, acorde con los procesos que establece el presente Capítulo;
+
+III. Realizar estudios y estrategias de prospectiva en materia de productividad, con el fin de hacer más eficiente el funcionamiento del Congreso;
+
+IV. Elaborar los programas de capacitación, producto de las evaluaciones del desempeño y de acuerdo a la detección de necesidades;
+
+V. Aplicar exámenes y demás procedimientos de selección, así como valorar y determinar las personas que hayan resultado vencedoras en los concursos;
+
+VI. Elaborar el proyecto de otorgamiento de reconocimientos, incentivos y estímulos al desempeño destacado a favor de servidores parlamentarios de su área;
+
+VII. Determinar la procedencia de separación del servidor público en los casos establecidos en la fracción V del artículo 185 de este ordenamiento y tramitar la autorización ante el Tribunal de Conciliación y Arbitraje del Estado de Michoacán; y,
+
+VIII. Las demás que se deriven de esta Ley y su Reglamento.
+
+#### SECCIÓN XII. DEL RECURSO DE REVOCACIÓN
+
+###### ARTÍCULO 204.
+
+En contra de las resoluciones que recaigan en el procedimiento de selección, el interesado podrá interponer ante el Comité de Administración y Control recurso de revocación dentro del término de diez días contados a partir del día siguiente en que se haga del conocimiento, el nombre del aspirante que obtuvo la calificación más alta en el procedimiento de selección.
+
+###### ARTÍCULO 205.
+
+El recurso de revocación se tramitará de conformidad a lo siguiente:
+
+I. El promovente interpondrá el recurso por escrito, expresando el acto que impugna, los agravios que fueron causados y las pruebas que considere pertinentes, siempre y cuando estén relacionadas con los puntos controvertidos;
+
+II. Las pruebas que se ofrezcan deberán estar relacionadas con cada uno de los hechos controvertidos, siendo inadmisible la prueba confesional por parte de la autoridad;
+
+III. Las pruebas documentales se tendrán por no ofrecidas, si no se acompañan al escrito en el que se interponga el recurso, y sólo serán recabadas por la autoridad, en caso de que las documentales obren en el expediente en que se haya originado la resolución que se recurre;
+
+IV. La Junta de Coordinación Política podrá solicitar que rindan los informes que estime pertinentes, quienes hayan intervenido en el procedimiento de selección;
+
+V. La Junta de Coordinación Política acordará lo que proceda sobre la admisión del recurso y de las pruebas que se hubiesen ofrecido, ordenando el desahogo de las mismas dentro del plazo de diez días hábiles; y,
+
+VI. Vencido el plazo para el rendimiento de pruebas, la Junta dictará la resolución que proceda en un término que no excederá de quince días hábiles.
+
+###### ARTÍCULO 206.
+
+El recurso de revocación contenido en el presente capítulo, versará exclusivamente en la aplicación correcta del procedimiento y no en los criterios de evaluación que se instrumenten.
+
+Los conflictos individuales de carácter laboral no serán materia del presente recurso.
+
+Se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo a las disposiciones del presente título.
+
+#### SECCIÓN XIII. DE LAS COMPETENCIAS
+
+###### ARTÍCULO 207.
+
+En el caso de controversias de carácter administrativo derivadas de la aplicación de esta Ley competerá conocerlas y resolverlas al Tribunal de Justicia Administrativa en el Estado.
+
+# LIBRO SEGUNDO. DE LOS PROCEDIMIENTOS PARLAMENTARIOS
+
+## TÍTULO PRIMERO. DE LA RENOVACIÓN E INSTALACIÓN DEL CONGRESO
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 208.
+
+El Congreso se instala el quince de septiembre del año en que hubiere elecciones ordinarias. A este acto concurrirá el Gobernador, el Presidente del Supremo Tribunal de Justicia y los miembros que formen ese cuerpo.
+
+###### ARTÍCULO 209.
+
+El Congreso no podrá instalar la Legislatura ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la Ley, los diputados presentes exhortarán a los ausentes para que concurran dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante sesenta días, y si los suplentes no se presentaren en el plazo de ocho días, se declarará vacante el puesto y se convocará a nuevas elecciones.
+
+Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo de ocho días. Las vacantes de los electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que siga en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
+
+### CAPÍTULO SEGUNDO. DE LA COMISIÓN DE TRANSICIÓN
+
+###### ARTÍCULO 210.
+
+La Comisión de Transición, es el órgano encargado de conducir la Sesión constitutiva del Congreso, se integra por cinco diputados electos acordados por los grupos parlamentarios y según la proporcionalidad de éstos, constituyéndose de forma sucesiva con un Presidente y tres Secretarios que serán en su orden, quienes en más ocasiones o con mayor antigüedad hayan ejercido el cargo de Diputado. Si hubiere igualdad de antigüedad entre dos o más diputados, se procederá a favor de quien haya pertenecido a mayor número de legislaturas, si existiere coincidencia se atenderá al orden decreciente de edad.
+
+El Secretario de Servicios Parlamentarios, hará el inventario de las constancias de mayoría y de asignación proporcional expedidas por el órgano electoral, así como de las resoluciones firmes de los órganos jurisdiccionales, a fin de integrar el listado de diputados electos y el listado por antigüedad y edad, a fin de comunicar a los diputados que deberán integrar la Comisión de Transición.
+
+El 14 de septiembre siguiente a las elecciones ordinarias, a las doce horas, sin necesidad de citatorio previo, los diputados electos deberán reunirse en el recinto, para celebrar la Sesión constitutiva.
+
+Si alguno de los integrantes de la Comisión de Transición no se presenta a la Sesión constitutiva, ocupará el cargo el siguiente en el orden del listado del partido político al que corresponde.
+
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE INSTALACIÓN DEL CONGRESO
+
+###### ARTÍCULO 211.
+
+En la fecha señalada para la Sesión constitutiva, presentes en el recinto los diputados electos, se procederá a la constitución formal de la Legislatura mediante el procedimiento siguiente:
+
+I. La Comisión de Transición informará que obra en su poder la documentación que acredita a los diputados electos;
+
+II. El Presidente de la Comisión de Transición, ordenará al Secretario que proceda a la comprobación de quórum, hecho lo cual, el Presidente hará la declaración de quórum, se pondrá de pie y solicitará a los demás diputados hagan lo mismo, enseguida prestará la siguiente protesta: «Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado y si así no lo hiciese, que la Nación y el pueblo me lo demanden»; acto continuo, estando sentado, tomará a los diputados electos protesta bajo la siguiente fórmula. «¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo les ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?»; los diputados electos deberán responder: «sí protesto»; el Presidente proseguirá: «si así no lo hicieren, que la Nación y el pueblo os lo demanden».
+
+III. Inmediatamente después se elegirá a los integrantes de la Mesa Directiva. El Secretario computará la votación y declarará los resultados; el Presidente invitará a los electos a que tomen su lugar en el presidium y los integrantes de la Comisión de Transición ocuparán sus curules;
+
+IV. El Presidente del Congreso solicitará a los diputados que se pongan de pie y declarará, en voz alta, la constitución de la Legislatura con la siguiente fórmula: «la Legislatura (número ordinal que corresponda) del Congreso del Estado Libre y Soberano de Michoacán de Ocampo, se declara legalmente constituida», lo cual se comunicará a los otros dos Poderes y Ayuntamientos de la Entidad, al Congreso de la Unión, así como a las Legislaturas de los demás Estados de la República; y,
+
+V. Se invitará formalmente a los titulares de los Poderes Ejecutivo y Judicial del Estado, a que concurran a la apertura del año legislativo en los términos de la Constitución.
+
+En la Sesión constitutiva no se podrá conocer asunto distinto a lo establecido en el presente artículo.
+
+## TÍTULO SEGUNDO. DEL FUNCIONAMIENTO DEL CONGRESO
+
+### CAPÍTULO PRIMERO. DE LA AGENDA LEGISLATIVA
+
+###### ARTÍCULO 212.
+
+La Conferencia, deberá presentar por medio de su Presidente al Pleno del Congreso para su aprobación, el treinta de noviembre del primer año de ejercicio constitucional, la Agenda Legislativa del Congreso del Estado, previa aprobación e integración por la Junta de Coordinación Política.
+
+Cada año, la Conferencia en coordinación con la Junta actualizarán de ser necesario, la Agenda Legislativa, dentro de los primeros sesenta días naturales del siguiente año legislativo.
+
+La Agenda Legislativa, es el documento aprobado por el Congreso del Estado, que establece el programa de trabajo correspondiente a los tres años de ejercicio legislativo; la cual estará basada en la Ley de Planeación del Estado de Michoacán y en las propuestas que deberán presentar los diferentes grupos y representaciones parlamentarias, a más tardar el quince de noviembre de cada año.
+
+El Presidente del Congreso invitará dentro de los quince días siguientes al inicio del año legislativo a los titulares de los poderes Ejecutivo y Judicial del Estado, así como a los ayuntamientos y órganos autónomos constitucionales de la entidad para que remitan sus propuestas y en su caso sean integradas a la Agenda Legislativa, sin menos cabo (sic) de sus atribuciones constitucionales para la presentación de iniciativas legislativas.
+
+###### ARTÍCULO 213.
+
+La Agenda Legislativa deberá contener al menos:
+
+I. El trabajo prioritario de los tres años de ejercicio legislativo y establecer los temas que se proponen; y,
+
+II. El resumen que contenga las motivaciones y los objetivos que se pretenden alcanzar con dicha agenda.
+
+### CAPÍTULO SEGUNDO. DEL CALENDARIO DE LAS SESIONES
+
+###### ARTÍCULO 214.
+
+El Congreso sesionará en Pleno obligatoriamente dos veces al mes y siempre que sea necesario durante el año legislativo o cuando la Mesa Directiva en acuerdo con la Junta de Coordinación Política lo determine, debiendo convocar al menos con dos días de anticipación.
+
+Durante los meses de enero a marzo de cada año de forma improrrogable, el Congreso debe revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las Haciendas Municipales, correspondientes al penúltimo año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales, municipales y a otras que dispongan de autonomía, de acuerdo con los términos y plazos dispuestos en la Constitución, en la Ley y demás disposiciones emanadas de la primera.
+
+Durante el período comprendido entre el 20 septiembre y el 15 de diciembre de cada año, el Congreso debe examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo.
+
+###### ARTÍCULO 215.
+
+Para los efectos del trabajo parlamentario, se considerarán como días hábiles aquellos en que haya sesión, así como de lunes a viernes exceptuándose los de descanso obligatorio en términos de la Ley Federal del Trabajo.
+
+###### ARTÍCULO 216.
+
+El Congreso se reunirá en Sesión Solemne, para la apertura de cada año legislativo y en fechas señaladas como conmemorativas.
+
+### CAPÍTULO TERCERO. DE LAS SESIONES
+
+###### ARTÍCULO 217.
+
+Las sesiones que celebra el Congreso son:
+
+I. Ordinarias: las que se efectúen en los días que determine la Ley; y,
+
+II. Extraordinarias: las que se realicen cuando así lo demanden los asuntos a tratar por su urgencia o gravedad, a juicio de la Junta de Coordinación Política, la Mesa Directiva o a petición del Ejecutivo. En estas sesiones el Presidente del Congreso convocará con al menos doce horas de anticipación, y se tratarán exclusivamente las cuestiones señaladas en la convocatoria respectiva teniendo la duración necesaria para desahogarlas.
+
+###### ARTÍCULO 218.
+
+Las sesiones a que se refiere el artículo anterior, según los asuntos que se traten, podrán tener la siguiente modalidad:
+
+I. Públicas: aquellas que se celebren permitiéndose el acceso del público al Recinto, en las galerías; prohibiéndose la entrada a quienes se encuentren armados o en estado inconveniente a juicio del Presidente del Congreso;
+
+II. Privadas: aquellas en que por tratarse de los casos a que se refiere esta Ley queda prohibido el acceso del público, medios de comunicación y personal administrativo del Congreso al Recinto, en virtud de lo cual los asuntos tratados y los acuerdos tomados, tienen el carácter de reservados;
+
+III. Permanentes: cuando lo determine el Pleno. El tiempo de duración será el necesario para desahogar los asuntos de que se trate; y,
+
+IV. Solemnes: aquellas en que por mandato constitucional o legal así se establezcan y conlleven un protocolo especial.
+
+###### ARTÍCULO 219.
+
+Para garantizar el principio de seguridad y certeza jurídica, es facultad del Presidente del Congreso al iniciar la Sesión, a iniciativa propia, o a petición de cualquier Diputado aprobada por la mayoría de presentes, declarar que la Sesión se celebre en una modalidad distinta a la iniciada.
+
+###### ARTÍCULO 220.
+
+No puede celebrarse ninguna sesión sin la concurrencia de la mitad más uno, del número total de Diputados.
+
+###### ARTÍCULO 221.
+
+Las sesiones ordinarias serán públicas y durarán el tiempo necesario para el desahogo de los asuntos del Orden del Día. El Presidente del Congreso podrá, por sí mismo o a petición de cualquier Diputado, decretar recesos o declarar Sesión Permanente, en cuyo caso los diputados deberán permanecer en las instalaciones para que puedan concurrir al Recinto en cualquier momento.
+
+###### ARTÍCULO 222.
+
+El Público asistente deberá guardar respeto y abstenerse de intervenir de cualquier manera durante la Sesión.
+
+###### ARTÍCULO 223.
+
+Cuando se trate de renuncia, licencia o falta absoluta del Gobernador, el Congreso deberá reunirse en el Recinto a las nueve de la mañana del día siguiente a aquél en que tome conocimiento de la solicitud de licencia o renuncia o haya ocurrido la falta, para los efectos de sus atribuciones constitucionales.
+
+Si por falta de quórum no pudiera verificarse la Sesión extraordinaria, el Presidente del Congreso expedirá citatorio a Sesión para ocho horas posteriores; de no concurrir los diputados en ejercicio, se llamará a los suplentes y se les tomará protesta a efecto de cumplir con el mandato constitucional.
+
+###### ARTÍCULO 224.
+
+Son materia de Sesión Privada:
+
+I. El debate y la votación relativos a los procedimientos de responsabilidades que se hagan en contra de los servidores públicos, en cuyo caso la resolución se dará a conocer en la sesión pública inmediata posterior;
+
+II. Los oficios que dirija el Gobernador, las Legislaturas de los Estados, los Poderes de la Unión o los Ayuntamientos, que previamente se consideren con carácter de reservados por la Conferencia; y,
+
+III. Por acuerdo del Pleno, a petición de alguno de sus integrantes, las disposiciones administrativas o disciplinarias que afecten el orden interno del Congreso; la moción a diputados, así como del cumplimiento de los deberes de unos y otros.
+
+###### ARTÍCULO 225.
+
+Son materia de Sesión Solemne:
+
+I. Se tome la protesta a los diputados locales y se instale la Legislatura;
+
+II. Rinda la protesta de ley el titular del Poder Ejecutivo del Estado, al asumir su cargo;
+
+III. Asista el Presidente de la República;
+
+IV. Asista el Gobernador del Estado;
+
+V. Asista el Presidente del Supremo Tribunal de Justicia del Estado;
+
+VI. Estén presentes en visita oficial delegaciones de legisladores federales del Congreso de la Unión, diputados locales de otras entidades federativas o legisladores de otros países;
+
+VII. Se rinda el informe de actividades del Congreso del Estado; y,
+
+VIII. Las demás señaladas en algún ordenamiento jurídico.
+
+El Presidente del Congreso girará invitaciones a quien considere conveniente.
+
+###### ARTÍCULO 226.
+
+La convocatoria a sesiones del Pleno corresponde al Presidente del Congreso. Se comunicará por escrito o cualquier otro medio fehaciente previo acuse de recibo respectivo, deberá incluir:
+
+I. La fecha de su emisión;
+
+II. La fecha, hora y sede programadas para la sesión;
+
+III. La exposición del orden del día; y,
+
+IV. La firma autógrafa, o en su caso clave electrónica del Presidente.
+
+La convocatoria deberá ser remitida a sus destinatarios al menos con dos días hábiles de anticipación a la fecha en que haya de celebrarse la sesión, con aviso al Secretario de Servicios Parlamentarios, a efecto de que brinde el apoyo necesario en el ámbito de sus responsabilidades.
+
+###### ARTÍCULO 227.
+
+Para la integración del orden del día, la Conferencia considerará exclusivamente los asuntos que hayan sido registrados hasta antes de que sesione para tal fin en la Secretaria de Servicios Parlamentarios.
+
+El Pleno, a solicitud verbal de cualquier diputado y por acuerdo de las dos terceras partes de los diputados presentes, podrá incorporar cualquier asunto al orden del día de la sesión, hasta antes de aprobarlo. En el caso del retiro de asuntos, bastará el acuerdo de la mayoría simple de los diputados presentes.
+
+###### ARTÍCULO 228.
+
+En las sesiones se dará cuenta de los asuntos en el orden siguiente:
+
+I. Lectura y en su caso, aprobación del orden del día;
+
+II. Acta de la Sesión anterior para su aprobación, pudiendo los diputados solicitar correcciones o aclaraciones en la misma;
+
+III. Comunicaciones oficiales;
+
+IV. Iniciativas de Ley o de Decreto;
+
+V. Dictámenes en primera o segunda lectura, discusión y aprobación en su caso;
+
+VI. Informes de las comisiones legislativas;
+
+VII. Denuncias, proposiciones de puntos de acuerdo o posicionamientos, verbales o escritos presentados por las comisiones legislativas o los diputados;
+
+VIII. Denuncias respecto de las conductas a que se refiere el Artículo 107 de la Constitución, presentadas con elementos de prueba; y,
+
+IX. Comparecencias.
+
+###### ARTÍCULO 229.
+
+Se considerará ausente al Diputado que no se encuentre al momento de iniciar la Sesión, votación nominal o comprobación de quórum.
+
+###### ARTÍCULO 230.
+
+Cuando algún Diputado no pueda asistir a una Sesión presentará permiso económico al Presidente. La falta sin previo aviso solamente se justificará por haberse verificado por fuerza mayor o caso fortuito, a juicio del Presidente.
+
+Si un Diputado debe ausentarse de una Sesión, por causa justificada, informará por escrito al Presidente del Congreso.
+
+###### ARTÍCULO 231.
+
+El Congreso puede conceder licencia a los Diputados para separarse de su cargo, la Mesa Directiva concederá licencia con goce de dietas por enfermedad bajo prescripción médica.
+
+###### ARTÍCULO 232.
+
+Cuando algún Diputado se reporte enfermo, el Presidente designará una comisión especial que lo visite periódicamente, debiendo informar del estado de salud y las necesidades del enfermo, para que se le preste ayuda. El Congreso debe asegurar a sus miembros, mediante un contrato de seguro de vida.
+
+### CAPÍTULO CUARTO. DEL QUÓRUM
+
+###### ARTÍCULO 233.
+
+El Pleno no puede sesionar, ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Tratándose de la sesión de instalación se procederá conforme lo establece la Constitución y esta Ley; en las demás sesiones cuando transcurrida una hora posterior a la convocada, sin que el quórum se haya reunido, el Presidente convocará a una nueva sesión que deberá verificarse dentro de las siguientes veinticuatro horas.
+
+Si en el curso de una sesión se ausenta la mayoría de los diputados, el Presidente mandará verificar el quórum y en caso necesario dispondrá que se llame a los ausentes durante un receso de quince minutos y continuará la sesión al recuperarse el quórum; en caso contrario dará por concluida la sesión y convocará a una nueva.
+
+### CAPÍTULO QUINTO. DE LAS INICIATIVAS, PROPUESTAS DE ACUERDO Y POSICIONAMIENTOS
+
+###### ARTÍCULO 234.
+
+Es iniciativa de Ley o de Decreto el acto mediante el cual se propone crear, adicionar, modificar, derogar o abrogar un ordenamiento jurídico.
+
+###### ARTÍCULO 235.
+
+Las iniciativas de Ley o de Decreto deben ser dirigidas al Presidente del Congreso, con fundamento constitucional y legal, tener una exposición de motivos y la propuesta del articulado respectivo.
+
+La exposición de motivos de las iniciativas, deberán ser presentadas ante el Pleno por un Diputado ponente. En el caso de iniciativas con carácter de Dictamen, podrán ser leídas indistintamente por un miembro de la Comisión o un Secretario de la Mesa. Las que no provengan de un miembro de la Legislatura, serán leídas por un Secretario de la Mesa.
+
+Tratándose de iniciativas, el articulado de Ley o de Decreto propuesto, se remitirá sin lectura para su estudio, análisis y dictamen a Comisión.
+
+###### ARTÍCULO 236.
+
+La propuesta de Acuerdo es aquella que por su naturaleza no tiene el carácter de Ley o de Decreto y se sujeta a los trámites siguientes:
+
+I. Deberá presentarse por escrito firmada por su autor, dirigida al Presidente del Congreso y contener exposición de motivos y proyecto de acuerdo;
+
+II. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta, en este caso la propuesta de Acuerdo será turnada a la Comisión correspondiente para su análisis y dictamen;
+
+III. En caso de que la propuesta de Acuerdo vaya a ser votada en el Pleno, el Segundo Secretario dará lectura al texto del proyecto de acuerdo;
+
+IV. El Presidente del Congreso someterá a discusión la propuesta en términos de la presente Ley; y,
+
+V. Si durante la discusión se propone la modificación a la propuesta de Acuerdo, el Presidente del Congreso preguntará al presentador si la acepta. De aceptar las modificaciones se dará cuenta del proyecto con modificación y se pondrá a votación. En caso de que el presentador no acepte en sus términos las modificaciones, el Presidente del Congreso lo pondrá a votación en los términos presentados y hará la declaratoria que resulte.
+
+###### ARTÍCULO 237.
+
+La Mesa Directiva del Congreso, debe informar al Pleno de toda propuesta de particulares, corporaciones o autoridades que no tengan derecho a iniciativa, turnándose a la Comisión que corresponda, a fin de resolver su procedencia.
+
+###### ARTÍCULO 238.
+
+Desechado un dictamen de Ley, Decreto o propuesta de Acuerdo en lo general, no puede presentarse nuevamente durante el mismo año legislativo.
+
+###### ARTÍCULO 239.
+
+En reforma, derogación y abrogación de leyes o decretos, se deben observar los mismos trámites establecidos para su formación.
+
+###### ARTÍCULO 240.
+
+Aquellas iniciativas que no fueren dictaminadas durante el ejercicio de la Legislatura en la que se presentaron, serán objeto de archivo definitivo en la legislatura siguiente si ésta así lo determina.
+
+###### ARTÍCULO 241.
+
+El posicionamiento es toda aquella participación en tribuna de los diputados para establecer una postura personal o de grupo parlamentario relacionado con algún acontecimiento social, político o histórico, y se sujeta a los trámites siguientes:
+
+I. Deberá presentarse por escrito firmado por su autor, dirigida al Presidente del Congreso; y,
+
+II. El Presidente del Congreso dará por enterado al Pleno, los diputados podrán intervenir en términos de la presente Ley.
+
+### CAPÍTULO SEXTO. DE LOS DICTÁMENES
+
+###### ARTÍCULO 242.
+
+Ningún proyecto de Ley o Decreto podrá debatirse sin que primero pase a la Comisión o Comisiones correspondientes y éstas hayan dictaminado.
+
+###### ARTÍCULO 243.
+
+Las comisiones a las que se turnen iniciativas y demás asuntos a consideración del Pleno, deben rendir su dictamen al Congreso por escrito, dentro de los noventa días hábiles siguientes a su recepción.
+
+Tratándose de iniciativas en las que la Comisión requiera de mayor tiempo para su estudio, antes de que fenezca el plazo por única ocasión, podrán presentar ante el Pleno solicitud fundada de prórroga hasta por igual plazo.
+
+Para emitir dictamen de los asuntos turnados, las Comisiones deberán reunirse para su análisis, discusión y aprobación, lo que se hará constar en el acta que al efecto se levante, misma que, se remitirá junto con el dictamen correspondiente y el expediente a la Conferencia.
+
+###### ARTÍCULO 244.
+
+Los dictámenes deberán contener:
+
+I. Los datos generales que identifiquen la iniciativa y una exposición clara y precisa del asunto al que se refiere;
+
+II. La expresión pormenorizada de las consideraciones resultantes del análisis y estudio de la iniciativa, de los motivos que la sustentan, así como la exposición precisa de los argumentos que motiven los cambios, modificaciones o cualquier otra circunstancia que afecte a los motivos y al texto de la iniciativa en los términos en que fue promovida;
+
+III. El análisis de las observaciones hechas por los Ayuntamientos, y los Poderes Ejecutivo o Judicial en su caso;
+
+IV. La resolución por medio de la cual se aprueba o se desecha la iniciativa, en los términos en que fue promovida o con las modificaciones que se le hagan, expresando las razones que justifiquen tal resolución;
+
+V. El texto legislativo que en su caso se propone al Pleno; y,
+
+VI. Las firmas autógrafas de los integrantes de las Comisiones que dictaminen.
+
+Antes de presentar los dictámenes a la Conferencia, las comisiones deben revisar la redacción y estilo del cuerpo normativo.
+
+Las comisiones, cuando sea necesario, podrán ampliar su dictamen siempre y cuando la materia sea la misma.
+
+###### ARTÍCULO 245.
+
+El dictamen de Comisión, debe estar aprobado por la mayoría de los diputados que la integran. Los presidentes de las comisiones tienen voto de calidad en caso de empate.
+
+Cuando algún Diputado disienta del dictamen de Comisión, firmará señalando si presentará dictamen de minoría o voto particular. El dictamen de minoría debe satisfacer los requisitos establecidos para el de Comisión y deberá presentarse a la Conferencia, previo a la Sesión en que se vaya a discutir el de mayoría.
+
+El dictamen de minoría, es el documento mediante el cual uno o varios diputados disienten del contenido y sentido del dictamen emitido por la mayoría de los miembros de la Comisión, el mismo deberá ser leído con posterioridad al dictamen de mayoría y sólo será puesto a discusión y votación si aquél fuere desechado.
+
+###### ARTÍCULO 246.
+
+Los dictámenes relativos a reformas constitucionales e iniciativas de Ley, deben recibir siempre dos lecturas en sesiones distintas. La segunda de ellas, se hará en la sesión en que se vaya a debatir y votar. Sólo puede dispensarse este requisito en los asuntos que por acuerdo expreso de las dos terceras partes de los Diputados del Congreso se califiquen de urgente o de obvia resolución y se hayan distribuido o publicado en la Gaceta Parlamentaria.
+
+Una vez que se ha verificado la primera lectura, el dictamen regresa a la Comisión respectiva, la cual puede profundizar en el estudio de la iniciativa en cuestión, modificando el dictamen.
+
+###### ARTÍCULO 247.
+
+No podrá discutirse ningún dictamen de Ley, Decreto o propuesta de Acuerdo, sin que previamente se haya distribuido el texto a los diputados, por lo menos con 24 horas de anticipación y publicado en la Gaceta Parlamentaria.
+
+Asimismo, sólo podrá modificarse la exposición de motivos respectivos, pero en ningún caso el proyecto de articulado normativo o acuerdo, salvo por el procedimiento reservado al Pleno.
+
+### CAPÍTULO SÉPTIMO. DE LOS DEBATES Y DISCUSIONES
+
+###### ARTÍCULO 248.
+
+En los asuntos que se presenten al Pleno, se debe observar el siguiente orden en la lectura para su debate:
+
+En el caso de discusión de dictámenes:
+
+a) El dictamen de la Comisión o comisiones a cuyo estudio se sometieron dichos asuntos;
+
+b) El voto particular, si se hubiere presentado; y,
+
+c) El dictamen de minoría, si se hubiere presentado.
+
+Una vez concluido lo anterior, el Presidente declarará: "SE SOMETE A DISCUSIÓN EL DICTAMEN".
+
+En el caso de discusión de propuestas de acuerdo:
+
+a) La exposición de motivos de la propuesta; y,
+
+b) La propuesta concreta de acuerdo que se somete al Pleno.
+
+###### ARTÍCULO 249.
+
+El Presidente abre el debate inscribiendo una ronda de hasta tres oradores en pro y tres en contra para lo cual se podrá auxiliar del Sistema Electrónico. Debe procurar que la discusión sea alternada en el uso de la palabra, llamándolos por orden y comenzando por el primer orador en contra, pudiendo todos los oradores por una ocasión hacer uso del derecho de réplica. Ningún Diputado podrá hacer uso de la voz, sin que el Presidente del Congreso lo autorice.
+
+Concluida la intervención de los oradores en cada ronda, el Presidente someterá en votación económica si es de considerarse la suficiencia de la discusión, de aprobarse se procederá a la votación; si se desecha se abrirá nueva ronda de discusión consecutivamente hasta que se apruebe la suficiencia. Si agotadas cinco rondas de discusión no se aprueba la suficiencia, el Presidente del Congreso por sí o por moción de cualquier Diputado, podrá suspender la discusión y continuar en la siguiente Sesión.
+
+###### ARTÍCULO 250.
+
+El Presidente del Congreso pondrá a discusión el Dictamen primero en lo general y después en lo particular.
+
+En el momento de la votación en lo general, que es nominal, los diputados pueden, en su caso, manifestar su reserva del o los artículos para su discusión en lo particular. Aprobado en lo general un Dictamen de Ley o Decreto, se debe discutir en lo particular. Si no hubiere artículos reservados por ninguno de los diputados, el Dictamen se tiene por aprobado también en lo particular y se deberá hacer la declaratoria respectiva.
+
+Si el Dictamen de Ley o Decreto no hubiere sido aprobado en lo general se tiene por desechado.
+
+Si en la votación particular resultaran aprobados los artículos reservados, se elaborará el documento que los contenga para su inclusión en la minuta correspondiente.
+
+###### ARTÍCULO 251.
+
+Si hay artículos reservados, el Presidente del Congreso, atendiendo al orden secuencial del articulado, concederá el uso de la palabra al Diputado que haya formulado reserva, para que exponga los fundamentos y al término de su intervención deberá entregar por escrito su proyecto de artículo; acto seguido, el Tercer Secretario dará lectura al proyecto, que se pondrá a discusión y votación.
+
+Los diputados que voten en contra en lo general, no podrán reservarse artículos en lo particular; quienes voten a favor, no podrán reservarse más del treinta por ciento del articulado.
+
+De no aprobarse cada proyecto de artículo, el Presidente del Congreso someterá en votación, sin discusión, el artículo en los términos del dictamen.
+
+De los artículos reservados que se hayan aprobado, el Tercer Secretario elaborará el registro en el que se transcriban para su inclusión en la Minuta correspondiente.
+
+###### ARTÍCULO 252.
+
+Si en el desarrollo de la discusión, un Diputado desea interpelar al orador, solicitará al Presidente de la Mesa que pregunte al orador si acepta la interpelación o no. Las interpelaciones serán siempre claras, concretas, respetuosas y relacionadas con el tema a discusión.
+
+###### ARTÍCULO 253.
+
+Los diputados pueden pedir la palabra para rectificar hechos o contestar alusiones personales cuando haya concluido el orador para lo cual se podrá auxiliar del Sistema Electrónico. En cuyo caso harán uso de la palabra hasta por cinco minutos.
+
+###### ARTÍCULO 254.
+
+Durante los debates del Pleno, el uso de la tribuna del Congreso del Estado corresponde exclusivamente a los diputados y a los titulares del Poder Ejecutivo, Supremo Tribunal de Justicia.
+
+###### ARTÍCULO 255.
+
+Las mociones son derechos de los diputados para interrumpir trámites por aprobar, debates o decisiones de la Mesa Directiva. Las mociones deben expresarse en forma breve y concreta.
+
+###### ARTÍCULO 256.
+
+Ningún diputado, cuando se encuentre en tribuna en el uso de la palabra, puede ser interrumpido, salvo por moción de orden del Presidente, decidida por éste o solicitada a él por cualquiera de los diputados, en los siguientes casos:
+
+I. De orden: que tienen por objeto se verifique el quórum; se rectifique una votación; se someta en votación económica si el asunto se encuentra suficientemente discutido; se infrinja una disposición de la presente Ley, en cuyo caso, deberá citarse el artículo violado; se reclame el orden en el Recinto; se llame al orden al orador que se aparte del asunto a discusión, vierta injurias, calumnias o provoque acciones que comprometan la integridad física de los diputados;
+
+II. Suspensivas: que tienen como objeto suspender una discusión o la Sesión por causa grave; reenviar el asunto a comisión; señalar error en el procedimiento; y,
+
+III. Aclarativas: que se formulan con el objeto de orientar el desarrollo de la Sesión o debate, o bien que se dé lectura a algún documento o articulo de Ley relacionados con el asunto a discusión.
+
+###### ARTÍCULO 257.
+
+Una vez presentada la moción, el Presidente pregunta al Pleno a si se toma en consideración. Será votada en el acto, quedando a consideración del Presidente si permite terminar la intervención del orador en turno, y en caso de negativa se tiene por desechada.
+
+###### ARTÍCULO 258.
+
+No puede llamarse al orden al orador cuando critique o censure a funcionarios públicos por faltas, omisiones, infracciones legales o errores cometidos en el desempeño de sus cargos.
+
+###### ARTÍCULO 259.
+
+Los oradores enviados para la discusión de algún asunto que competa al Gobernador del Estado o al Supremo Tribunal de Justicia en sus respectivos casos, podrán intervenir en cualquier momento de la discusión, previa solicitud y autorización que se haga al Presidente.
+
+###### ARTÍCULO 260.
+
+Ningún debate se puede suspender, salvo por las siguientes causas:
+
+I. Porque el Pleno acuerde dar preferencia a otros asuntos de mayor urgencia o gravedad;
+
+II. Por graves desórdenes en el Salón de Sesiones;
+
+III. Por falta de quórum; y,
+
+IV. Por moción suspensiva que presente alguno o algunos de los Diputados y que apruebe el Pleno.
+
+###### ARTÍCULO 261.
+
+En caso de moción suspensiva, en el curso de un debate, el Presidente del Congreso conocerá de inmediato y el orador en turno decidirá si concluye o no su intervención.
+
+Hecho lo anterior, el Presidente la pondrá a discusión, pudiendo intervenir, por una sola vez, un orador en contra y otro en pro, iniciando por el orador en contra y, de inmediato se someterá su aprobación en votación económica.
+
+Aprobada la moción, se suspenderá la Sesión o la discusión; tratándose de ésta última se continuará en la Sesión inmediata posterior, salvo acuerdo en contrario de la Junta, que se hará del conocimiento del Pleno.
+
+Para el caso, el Presidente debe señalar día y hora para la continuación de la misma.
+
+###### ARTÍCULO 262.
+
+En las comparecencias de los servidores públicos requeridos en términos de la Constitución del Estado y de la presente Ley, su intervención ante el Pleno o Comisiones se sujetará a las siguientes reglas:
+
+I. El Presidente del Congreso o Presidente de la Comisión hará la presentación formal del compareciente, informando los antecedentes y motivos de su presencia;
+
+II. El funcionario compareciente hará una exposición relacionada con el asunto motivo de la comparecencia; y,
+
+III. En las comparecencias cada Grupo parlamentario o Diputado Único de Partido, podrá al final de la exposición, formular preguntas al compareciente; teniendo derecho de réplica, que no podrá exceder de cinco minutos.
+
+###### ARTÍCULO 263.
+
+Las comisiones pueden desarrollar reuniones de trabajo con servidores públicos con el propósito de profundizar y compartir criterios de la problemática del ramo correspondiente. Estas reuniones de trabajo se desarrollarán conforme a los lineamientos que acuerde la propia Comisión, sin necesidad de sujetarse al protocolo establecido en el artículo anterior, sin que se considere con ese carácter.
+
+Los servidores públicos también podrán solicitar reuniones de trabajo con las comisiones.
+
+### CAPÍTULO OCTAVO. DE LAS VOTACIONES
+
+###### ARTÍCULO 264.
+
+Cuando llegue el momento de votar, el Presidente del Congreso ordenará que los diputados que se hallen fuera del salón concurran a votar, y ninguno de aquellos podrá salir de éste mientras la votación se desahogue, exhortando previamente a los comparecientes, en su caso, a retirarse del salón.
+
+###### ARTÍCULO 265.
+
+Las votaciones son nominales, por cédula o económicas. Podrán ser recibidas de forma electrónica a juicio del Presidente del Congreso.
+
+El sentido del voto puede ser:
+
+I. A favor;
+
+II. En contra; y,
+
+III. Abstención.
+
+Para la determinación de los resultados correspondientes sólo se computan los votos a favor y en contra; las abstenciones se declaran por separado.
+
+###### ARTÍCULO 266.
+
+La votación es nominal en los siguientes casos:
+
+I. Cuando se trate de reformas a la Constitución Política de los Estados Unidos Mexicanos o la particular del Estado;
+
+II. Para dictámenes con proyecto de Ley o Decreto;
+
+III. Actos del Congreso del Estado en materia de responsabilidades de los servidores públicos;
+
+IV. Asuntos planteados en sesión privada; y,
+
+V. Cuando así lo ordene el Presidente del Congreso para mayor certeza en el escrutinio.
+
+###### ARTÍCULO 267.
+
+La votación nominal consiste en la manifestación hecha desde su curul, donde cada Diputado deberá expresar su nombre completo y el sentido de su voto; y al final se recogerá la votación de la Mesa Directiva, siendo el Presidente el último en votar, la misma podrá realizarse por medios electrónicos siempre que garantice las características mencionadas.
+
+La Secretaría debe consignar en el registro de votación el nombre de cada Diputado y el sentido de su voto. Concluida la votación, el Secretario preguntará si falta algún Diputado por votar, para recibir su voto y computarlo.
+
+Enseguida dará a conocer al Presidente del Congreso el resultado de la votación. Inmediatamente después, el Presidente del Congreso hará la declaratoria correspondiente.
+
+###### ARTÍCULO 268.
+
+La votación por cédula, consiste en que por escrito se exprese el nombre de la persona por la que se emite el voto que es secreto.
+
+Hecha la votación, el Secretario lee el contenido de las cédulas en voz alta, una por una, y computa el resultado de la votación. Las cédulas con nombres que no correspondan a los propuestos se anulan. Enseguida, da cuenta al Presidente del Congreso para que éste formule la declaratoria que proceda.
+
+Si en el cómputo de votaciones por cédula, resulta empate, se procederá nuevamente a votar incluyendo en esta únicamente a quienes obtuvieron empate.
+
+###### ARTÍCULO 269.
+
+Cuando se elija la Mesa Directiva, la Junta de Coordinación Política presentará al Pleno una propuesta que considere la mayor pluralidad del Congreso, la que se someterá a votación nominal.
+
+###### ARTÍCULO 270.
+
+Todas las votaciones no nominales o por cédula, son económicas y se expresan por la simple acción de los diputados de levantar la mano desde su curul.
+
+###### ARTÍCULO 271.
+
+En las votaciones nominales o económicas, cualquier Diputado puede pedir que conste en el Acta el sentido en que emita su voto debiendo hacer la solicitud de inmediato.
+
+Si en el acto de recoger la votación el Secretario tiene duda, solicitará al Presidente del Congreso la rectificación, quien solicitará a los diputados repetir su voto. También se podrá verificar una votación, cuando por moción lo solicite un Diputado, antes de pasar a otro asunto.
+
+Si hubiere empate en votaciones, el Presidente del Congreso podrá declarar receso o podrá solicitar a la Comisión respectiva se reúna con quienes designen los coordinadores de Grupo Parlamentario a efecto de lograr acuerdos, debiendo procederse a votación en la misma Sesión.
+
+###### ARTÍCULO 272.
+
+Todas las resoluciones son aprobadas por mayoría de los diputados sin importar si no son más del cincuenta por ciento de los presentes en el Pleno, es decir por mayoría simple, salvo aquellos casos en que la Constitución o esta Ley exijan una mayoría especial.
+
+### CAPÍTULO NOVENO. DE LAS OBSERVACIONES DE (SIC) EJECUTIVO
+
+###### ARTÍCULO 273.
+
+Una vez aprobado un dictamen se remitirá la Minuta con proyecto de Ley o de Decreto al Gobernador para los efectos constitucionales.
+
+La publicación de leyes y decretos deberá hacerse inmediatamente en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO 274.
+
+Se considera aprobado por el Ejecutivo del Estado, toda Ley o Decreto que no sea devuelto con observaciones al Congreso, dentro de los diez días hábiles siguientes a la fecha en que lo reciba.
+
+###### ARTÍCULO 275.
+
+Devuelta la Minuta con proyecto de Ley o de Decreto por el Gobernador con observaciones, en todo o en parte, volverá el expediente a la Comisión dictaminadora para que examine y emita un nuevo dictamen en un plazo no mayor de cuarenta y cinco días hábiles.
+
+El nuevo dictamen de la Comisión será leído y discutido con las mismas formalidades que el primero, concretándose únicamente a las observaciones hechas por el Ejecutivo, a no ser que del estudio y análisis de ellas, resulte necesaria la modificación del dictamen.
+
+Todo proyecto de ley o decreto al que se le hubieren hecho observaciones, debe ser sancionado y publicado inmediatamente si el Congreso del Estado vuelve a aprobarlo por los dos tercios del número total de sus miembros y en este caso se enviará al Gobernador para su promulgación.
+
+Cuando el Congreso del Estado acepte parcial o totalmente las observaciones realizadas por el Ejecutivo, la aprobación será por mayoría simple.
+
+### CAPÍTULO DÉCIMO. DE LA EXPEDICIÓN DE LEYES O DECRETOS
+
+###### ARTÍCULO 276.
+
+Las leyes comprenden el objeto expresado en su epígrafe o rubro, no se reforman o adicionan por simple referencia a su título o fecha, si no (sic) que la ley, capítulo o artículo, se propone de nuevo tal como debe quedar aprobada.
+
+###### ARTÍCULO 277.
+
+Toda Ley o Decreto se expide bajo la firma del Presidente y Secretarios del Congreso en la siguiente forma:
+
+«EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA (texto de la Ley o Decreto)».
+
+En su parte in fine deberá consignarse: «DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, EN MORELIA, MICHOACÁN DE OCAMPO, A LOS __ DÍAS DEL MES __ DE __. EL TITULAR DEL PODER EJECUTIVO DISPONDRÁ SE PUBLIQUE Y OBSERVE».
+
+### CAPÍTULO DÉCIMO PRIMERO. DEL CEREMONIAL
+
+###### ARTÍCULO 278.
+
+En las sesiones a las que asista el Gobernador y el Presidente del Supremo Tribunal de Justicia del Estado, el Presidente del Congreso designará comisiones de protocolo para que los introduzcan al Recinto y al término de las sesiones los acompañen al umbral del mismo, para cuyo efecto se declarará un receso.
+
+###### ARTÍCULO 279.
+
+Cuando el Gobernador o el Presidente del Supremo Tribunal de Justicia llegan al Salón de Sesiones, el primero ocupa el asiento de la izquierda del Presidente del Congreso, y el segundo el de la derecha.
+
+###### ARTÍCULO 280.
+
+Instalados el Gobernador y el Presidente del Supremo Tribunal de Justicia del Estado, el Presidente del Congreso, quien permanecerá sentado, reanuda la Sesión.
+
+Si se tratare de la primera sesión del año legislativo, el Presidente del Congreso pedirá a los asistentes ponerse en pie y en voz alta hará la siguiente declaración: ''El Congreso, hoy (fecha) se declara legalmente instalado (en el año siguiente en que se hayan celebrado elecciones) y abre el (primer, segundo o tercer) año legislativo de la (número ordinal de la Legislatura)''.
+
+###### ARTÍCULO 281.
+
+El Titular del Ejecutivo debe rendir personalmente ante el Pleno o por escrito el informe del estado que guarde la Administración Pública a su cargo dentro de los treinta días siguientes a la apertura del año legislativo, la respuesta del Presidente de dicho órgano, se hace en la misma forma limitándose a turnar, en ambos casos, el contenido del informe a la brevedad a los Diputados.
+
+El Congreso procederá a realizar el análisis de su contenido en comisiones y emitirán el Dictamen respectivo.
+
+###### ARTÍCULO 282.
+
+En la última sesión del año legislativo, el Presidente del Congreso, luego de rendir el informe de las actividades realizadas por el Congreso, clausurará diciendo: «Hoy, (fecha) la (número ordinal de la legislatura) clausura su (Primero, Segundo o Tercer) año legislativo de ejercicio legal».
+
+El acto anterior, se comunicará a los poderes del Estado y ayuntamientos de la Entidad, al Congreso de la Unión y a las Legislaturas de los Estados de la República.
+
+###### ARTÍCULO 283.
+
+Cuando comparezca ante el Congreso, un orador del Ejecutivo; funcionarios o Magistrados a rendir protesta de Ley, el Presidente nombrará una comisión de tres Diputados, para que los introduzcan al recinto del Congreso, así como una vez efectuado el acto que motivó su presencia, los acompañen hasta la puerta del propio Recinto.
+
+Quien deba rendir protesta, se colocará al pie del estrado y frente a la Mesa Directiva. El Presidente lo interpelará diciendo: ''¿Protesta usted guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de ___________ que se le ha conferido?'' contestando: ''¡Si protesto!''. El Presidente dirá: ''Si no lo hace usted, que el pueblo se lo demande''.
+
+El Gobernador y los magistrados rinden protesta en los términos que establece la Constitución del Estado y la presente Ley.
+
+En el momento de rendir la protesta Constitucional el Gobernador del Estado, los Diputados con excepción del Presidente, y demás asistentes deben estar de pié.
+
+###### ARTÍCULO 284.
+
+Cuando se autorice a alguna persona que no sea Diputado a intervenir en una Sesión, se habilitará en el Recinto un lugar especial desde donde hará uso de la palabra.
+
+###### ARTÍCULO 285.
+
+En las sesiones solemnes se destinará un lugar especial en el Recinto a los magistrados del Supremo Tribunal de Justicia del Estado, a los titulares de los órganos autónomos, a los titulares de las dependencias básicas del Poder Ejecutivo, a los representantes de los ayuntamientos, de los poderes federales y a los integrantes de los cuerpos diplomáticos y consulares, respetando en todo momento el espacio asignado a cada Diputado.
+
+###### ARTÍCULO 286.
+
+Cuando asista a alguna Sesión el Presidente Constitucional de los Estados Unidos Mexicanos o su representante, se ubicará a la derecha del Presidente del Congreso y el Gobernador lo hará a la izquierda.
+
+###### ARTÍCULO 287.
+
+En la Sesión Solemne, en que el Gobernador rinda Protesta Constitucional, para asumir el cargo, el Presidente del Congreso es flanqueado por el Gobernador electo y el saliente, el primero a la derecha y el segundo a la izquierda.
+
+###### ARTÍCULO 288.
+
+El Diputado que se presente a rendir protesta en momento distinto a aquél en que se instaló el Congreso, será introducido al Recinto por una Comisión de cortesía.
+
+# LIBRO TERCERO. DE LOS PROCEDIMIENTOS LEGISLATIVOS ESPECIALES
+
+## TÍTULO PRIMERO
+
+### CAPÍTULO PRIMERO. REMOCIÓN DE MIEMBROS DE LA MESA DIRECTIVA
+
+###### ARTÍCULO 289.
+
+Los integrantes de la Mesa Directiva, sólo pueden ser removidos de sus cargos por violaciones a la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la presente Ley, los ordenamientos jurídicos que de ella emanen y los acuerdos del Congreso, observando el siguiente procedimiento:
+
+I. Recibida la denuncia fundada por parte de algún Diputado, se turna para su conocimiento a la comisión jurisdiccional;
+
+II. La comisión mencionada de manera inmediata correrá traslado de la denuncia al Diputado mencionado, para que en un plazo no mayor de tres días hábiles, después de la notificación se cite al Diputado denunciado a fin de que éste exponga su defensa y ofrezca pruebas; y,
+
+III. En la siguiente sesión a aquella en que haya tenido verificativo la audiencia mencionada, la comisión presentará su dictamen al pleno, a fin de que se discuta y vote la remoción o permanencia en la Mesa Directiva del Diputado denunciado.
+
+Para que la remoción proceda, se requiere del voto de la mayoría absoluta de los Diputados presentes.
+
+###### ARTÍCULO 290.
+
+Cuando el Presidente del Congreso sea removido, el Vicepresidente cubrirá la Presidencia en tanto se designa un nuevo Presidente a propuesta de la Junta.
+
+En caso de decretarse la remoción de la totalidad de los integrantes de la mesa directiva, asumirá las funciones la mesa del año legislativo inmediato anterior.
+
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA
+
+###### ARTÍCULO 291.
+
+En los términos de la Constitución, interpuesta una denuncia, querella o requerimiento del Ministerio Público o acusación ante el Congreso para instruir procedimiento relativo al juicio político, o para la Declaración de Procedencia se turnará a la Comisión Jurisdiccional.
+
+El Congreso conoce de las acusaciones que se hagan a los servidores públicos por delitos en que incurran en el desempeño de su cargo. Se erigirá en Jurado de Sentencia para declarar si ha o no lugar, a proceder contra los que gocen de fuero constitucional, cuando sean acusados por delitos del orden común o federal, de acuerdo con lo señalado en el Título Cuarto de la Constitución y demás leyes relativas.
+
+El procedimiento de juicio político y declaración de procedencia, deberá iniciarse, tramitarse y sustanciarse en los términos de esta Ley y de la respectiva de Responsabilidades de los Servidores Públicos, interpretándose de forma sistemática y funcional.
+
+###### ARTÍCULO 292.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito, denuncia ante el Congreso por las conductas graves previstas en la ley.
+
+Presentada la denuncia y ratificada dentro de los tres días naturales siguientes, se turnará de inmediato con la documentación que la acompaña, a la Comisión Jurisdiccional para que dictamine si la conducta atribuida corresponde a las enumeradas por aquellos preceptos, si el inculpado está comprendido dentro de los servidores públicos previstos para el caso, si la denuncia es procedente y por tanto, amerita la incoación de procedimiento.
+
+Las denuncias anónimas, no producirán ningún efecto.
+
+###### ARTÍCULO 293.
+
+Incoado el procedimiento de juicio político, el Pleno, a petición de la Comisión Jurisdiccional, podrá decretar, en cualquier momento, el sobreseimiento del procedimiento del juicio político, cuando exista alguna de las causas siguientes:
+
+I. La muerte del denunciado; y,
+
+II. Cuando desaparezca objeto del juicio.
+
+###### ARTÍCULO 294.
+
+La Comisión Jurisdiccional practicará todas las diligencias necesarias para la comprobación de la conducta o hecho materia de aquella, estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
+
+Con posterioridad al haber determinado la procedencia del Juicio Político la Comisión, dentro de los tres días hábiles siguientes notificará por escrito al denunciado, sobre la materia de la denuncia, haciéndole saber su garantía de defensa y que deberá a su elección comparecer o informar por escrito sus excepciones dentro de los 7 días hábiles siguientes a la notificación.
+
+###### ARTÍCULO 295.
+
+Transcurridos los 7 días a que se refiere el artículo anterior, la Comisión Jurisdiccional, abrirá un período de prueba de 30 días naturales, dentro del cual recibirá las pruebas que ofrezcan el denunciante, el servidor público o su defensor.
+
+Si al concluir el plazo señalado no hubiere sido posible recibir las pruebas ofrecidas oportunamente, o es preciso allegarse otras, la Comisión podrá ampliarlo hasta por 15 días más, en la medida que resulte necesario.
+
+En todo caso, la Comisión calificará la pertinencia de las pruebas, desechando las que a su juicio sean improcedentes.
+
+###### ARTÍCULO 296.
+
+La Comisión Jurisdiccional tiene facultades para solicitar por escrito a todas las dependencias y oficinas de los otros Poderes del Estado, los Ayuntamientos y organismos públicos autónomos, informes y documentos oficiales que juzgue necesarios para el debido esclarecimiento de los hechos que se investiguen. En ningún caso pueden negarse los informes y documentos que se les pidieren, sin importar el estado de clasificación que guarde.
+
+###### ARTÍCULO 297.
+
+Terminado el desahogo de pruebas, se pondrá el expediente a la vista del denunciante y del servidor público, a fin de que tomen los datos que requieran para formular alegatos, presentándolos por escrito dentro de los seis días hábiles siguientes.
+
+###### ARTÍCULO 298.
+
+Transcurrido el plazo para la presentación de alegatos, se hayan o no entregado éstos, la Comisión formulará sus conclusiones en vista de las constancias del procedimiento dentro de los quince días hábiles siguientes. Para este efecto analizará clara y metódicamente la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para motivar y fundamentar la conclusión o la continuación del procedimiento.
+
+###### ARTÍCULO 299.
+
+Si de las constancias del procedimiento se desprende la inocencia del encausado, el dictamen de la Comisión propondrá al Pleno que se declare que no ha lugar a proceder en su contra, por la conducta o el hecho materia de la denuncia que dio origen al procedimiento.
+
+Si de las constancias aparece la probable responsabilidad del servidor público, el dictamen propondrá la aprobación de lo siguiente:
+
+I. Que está legalmente comprobada la conducta o el hecho materia de la denuncia;
+
+II. Que existe probable responsabilidad del encausado;
+
+III. Que se somete la declaración correspondiente al Pleno en concepto de acusación, para los efectos legales respectivos; y,
+
+IV. La sanción que deba imponerse de acuerdo con esta Ley.
+
+###### ARTÍCULO 300.
+
+El Presidente del Congreso citará al Pleno a erigirse en Jurado de Sentencia y a la Comisión Jurisdiccional como órgano de acusación, dentro de los tres días hábiles siguientes a la fecha en que se hubiere presentado el dictamen a la Secretaría, y se conducirá de conformidad con el siguiente procedimiento:
+
+I. La Primera Secretaría dará lectura al dictamen formulado por la Comisión Jurisdiccional;
+
+II. Se concederá la palabra al Presidente de la Comisión Jurisdiccional;
+
+III. Se preguntará al Pleno si la información es o no suficiente y si así lo solicita, el Presidente de la Comisión deberá ampliar y aclarar las dudas planteadas;
+
+IV. Se concederá la palabra al denunciante o representante legal debidamente acreditado en el procedimiento y en seguida al servidor público o a su defensor, o a ambos si alguno de éstos lo solicitare, para que aleguen lo que convenga a sus derechos, hasta por treinta minutos;
+
+V. Una vez hecho lo anterior, se mandará a desalojar la Sala, permaneciendo únicamente los diputados en la Sesión y se procederá a la discusión y votación del dictamen, cuando se trate del Gobernador tendrá que ser votado por las dos terceras partes de los diputados y por mayoría cuando se trate de otros servidores públicos; y,
+
+VI. El Presidente del Congreso hará la declaratoria correspondiente, en caso de ser negativa, el Pleno determinará su archivo.
+
+###### ARTÍCULO 301.
+
+La declaración del Congreso deberá hacerse del conocimiento a la autoridad competente, remitiéndole en su caso el expediente relativo.
+
+###### ARTÍCULO 302.
+
+En caso de la declaración de procedencia, si el dictamen es acusatorio, el Presidente del Congreso citará al Pleno a erigirse en Jurado de Sentencia, dentro de los tres días siguientes a la fecha en que se hubiere presentado el dictamen a la Secretaría haciéndolo saber al inculpado y a su defensor, así como al denunciante, al querellante o al Ministerio Público, en su caso.
+
+###### ARTÍCULO 303.
+
+Si el Congreso constituido en Jurado de Sentencia declara que ha lugar a proceder contra el inculpado, el funcionario público quedará sujeto a la acción de los Tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial.
+
+En caso negativo, no habrá lugar a procedimiento ulterior mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
+
+###### ARTÍCULO 304.
+
+Cuando se siga proceso penal, sin haberse satisfecho el procedimiento a que se refieren los artículos anteriores, la Secretaría del Congreso, librará oficio al juez o tribunal que conozca de la causa a fin de que se suspenda el procedimiento en tanto se plantea y resuelve por el Congreso si ha lugar a proceder.
+
+## TÍTULO SEGUNDO. DE LA SUSPENSIÓN Y DESAPARICIÓN DE LOS AYUNTAMIENTOS Y DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES Y PROCEDIMIENTO COMÚN
+
+###### ARTÍCULO 305.
+
+La Legislatura del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender o declarar la desaparición de los Ayuntamientos, y suspender o revocar el mandato a alguno de sus miembros por alguna de las causas graves establecidas en esta Ley, siempre y cuando los miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan y se respete la garantía de legalidad.
+
+###### ARTÍCULO 306.
+
+La solicitud de declaración de suspensión o desaparición del Ayuntamiento, o de la suspensión o revocación del mandato de alguno o algunos de sus miembros, sólo podrán formularla:
+
+a) Los propios ciudadanos del Municipio, cuando se trate de la desaparición del Ayuntamiento la solicitud deberá estar firmada por, al menos, un número equivalente al 15% de la votación válidamente emitida en la última elección municipal que corresponda;
+
+b) El Ejecutivo del Estado;
+
+c) La mayoría calificada de los Diputados; y,
+
+d) La mayoría calificada de los miembros del Cabildo, cuando se trate de los supuestos de suspensión y revocación de mandato.
+
+###### ARTÍCULO 307.
+
+En cualquiera de los supuestos a que se refiere el presente Título, se deberá presentar la solicitud por escrito ante la Secretaría de Servicios Parlamentarios del Congreso y en todo caso señalar con amplitud, las causas que a su juicio motiven la incoación del procedimiento y un mínimo de elementos probatorios que hagan probable la conducta denunciada.
+
+###### ARTÍCULO 308.
+
+Hecha la solicitud respectiva, el promovente deberá ratificarla dentro de los tres días hábiles siguientes a su presentación; una vez ratificada será turnada en la sesión inmediata siguiente, a la Comisión Jurisdiccional, para que califiquen los requisitos mínimos de procedencia, los cuales son:
+
+a) El nombre, identificación y la firma autógrafa del o los solicitantes;
+
+b) La ratificación en tiempo y forma;
+
+c) Alguna de las causas previstas en este título; y,
+
+d) Los elementos mínimos que hagan probable la causa invocada.
+
+Si a juicio de la Comisión la solicitud no reúne los requisitos de procedencia para que se abra un procedimiento, lo desechará de plano.
+
+En ningún caso se dará curso a denuncias anónimas.
+
+Si a juicio de la Comisión estos elementos se cumplen, lo notificará dentro de los tres días hábiles siguientes al miembro del Ayuntamiento de que se trate, o al Síndico del mismo si se dirige en contra del Ayuntamiento en sí, acompañando copia de la solicitud formulada y de los anexos.
+
+Notificados y enterados del contenido de la solicitud, los miembros de los Ayuntamientos y, en su caso, el Síndico, dispondrán de un plazo de cinco días hábiles para responder lo que a su derecho convenga.
+
+En los procedimientos previstos en este Título, podrán ser oídos por la Legislatura los miembros del Ayuntamiento contra los que no se hayan instaurado tales procedimientos.
+
+###### ARTÍCULO 309.
+
+Agotado el término de cinco días hábiles o inmediatamente después de obtenida la respuesta, la Comisión Jurisdiccional en un plazo no mayor de 10 días hábiles presentará al Pleno del Congreso, el dictamen donde proponga:
+
+I. Si procede o no la incoación del procedimiento de mérito; y,
+
+II. Si resulta procedente la suspensión provisional y la forma en que habrán de cubrirse las vacantes, durante la tramitación del procedimiento.
+
+En caso de que resulte necesaria la suspensión, ésta no podrá hacerse efectiva hasta en tanto no se le otorgue la garantía de audiencia al o a los miembros en contra de quienes se haya iniciado el procedimiento, y se admitan y desahoguen las pruebas que se presenten en un plazo no mayor de 15 días hábiles.
+
+En caso de que los denunciados hayan renunciado a su derecho de audiencia y alegatos la Comisión de (sic) Jurisdiccional en un plazo de 3 días y sin mediar actuación alguna iniciará el Procedimiento de revocación de mandato; salvo caso de fuerza mayor que valore la Comisión Jurisdiccional.
+
+###### ARTÍCULO 310.
+
+De resultar procedente el inicio del procedimiento se abrirá un periodo de instrucción de 30 días hábiles a cargo de la Comisión Jurisdiccional, quien concluido dicho término presentará al Pleno del Congreso dictamen donde proponga la resolución definitiva que estima procedente.
+
+### CAPÍTULO SEGUNDO. DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS INTEGRANTES DE UN AYUNTAMIENTO
+
+###### ARTÍCULO 311.
+
+En todo caso la suspensión será temporal, por un término no mayor de tres meses, y podrá decretarse a uno, a varios de los miembros de un Ayuntamiento. Cuando se solicite la suspensión y revocación de la totalidad de los miembros, se le dará el trámite previsto para la desaparición de un Ayuntamiento.
+
+###### ARTÍCULO 312.
+
+Procede la suspensión de uno o varios de los miembros de un Ayuntamiento cuando se haya instaurado procedimiento para la revocación del mandato de los miembros de que se trate y su permanencia dificulte de manera trascendente el normal desarrollo de las atribuciones del Ayuntamiento.
+
+Se considerará trascendente para el desarrollo normal de las atribuciones del Ayuntamiento, cuando por la naturaleza de la conducta denunciada, las pruebas aportadas y las circunstancias que se den en el caso, exista el riesgo o la posibilidad fundada e inminente de que se llegue a producir o se actualice la parálisis en la prestación regular de los servicios públicos o de las funciones a cargo del Municipio, mientras dura el procedimiento tendiente a calificar la procedencia de la revocación del mandato.
+
+###### ARTÍCULO 313.
+
+Cuando la Legislatura decrete la suspensión de uno o varios de los miembros propietarios del Ayuntamiento, al efecto de cubrir las vacantes temporales que así se generen, se procederá conforme a lo siguiente:
+
+I. Si la suspensión recae en uno o varios en un número inferior a la mayoría de sus miembros propietarios, se le notificará al Ayuntamiento para que mande llamar al o a los suplentes respectivos; y,
+
+II. Si la suspensión recae en la mayoría de los miembros propietarios del Ayuntamiento, la Legislatura mandará llamar a los suplentes.
+
+Si con los miembros propietarios del Ayuntamiento que subsigan y los suplentes electos originalmente que asuman el cargo, no se reúne la mayoría necesaria para que pueda funcionar el Ayuntamiento, el Congreso designará un Consejo Municipal Provisional que funcionará entre tanto quede en firme la resolución que recaiga en el procedimiento que dio origen a la suspensión.
+
+###### ARTÍCULO 314.
+
+Procede la revocación del mandato a algunos de los miembros de un Ayuntamiento, según corresponda, cuando:
+
+I. Se deje de asistir o de celebrar, sin causa oportuna y debidamente justificada ante el pleno del propio Ayuntamiento, a tres o más sesiones ordinarias y extraordinarias que el Cabildo celebre en el lapso de sesenta días naturales conforme a la ley en la materia;
+
+II. Las violaciones graves a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución y a las leyes que de ellas emanen;
+
+III. Se pierda la calidad de Vecino del Municipio, en términos de la Constitución;
+
+IV. Reiteradamente se deje de cumplir con las facultades y obligaciones que le señale la ley al cargo para el que fue o fueron electos;
+
+V. Por acciones u omisiones que alteren gravemente el orden, la tranquilidad o la prestación de los servicios públicos dentro o fuera del Municipio cuando los actos u omisiones afecten la gobernabilidad;
+
+VI. Cuando se dicte en su contra auto de formal prisión por delito grave;
+
+VII. Promover o pretender adoptar formas de Gobierno o bases de Organización Política distintas a las señaladas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución;
+
+VIII. Violar en forma grave, los presupuestos de ingresos y egresos aprobados y la normatividad aplicable, que afecte los caudales públicos;
+
+IX. Por no cumplir con las observaciones emitidas por el órgano de fiscalización superior del Estado;
+
+X. La usurpación de funciones;
+
+XI. Intervenir directamente con recursos públicos a favor o en contra de algún precandidato o candidato a cargo de elección popular, así como de partido político alguno;
+
+XII. Por incapacidad legal; y,
+
+XIII. Por disponer de los recursos del Municipio para su provecho, por sí mismo o a través de interpósita persona.
+
+La revocación del mandato se entiende sin perjuicio de cualquier otra acción que proceda contra los miembros del Ayuntamiento en los términos de las leyes respectivas.
+
+###### ARTÍCULO 315.
+
+Con independencia de las causas graves señaladas en el artículo que antecede, con el mismo carácter, la Legislatura podrá también revocar el mandato a la totalidad de los miembros de un ayuntamiento, cuando existan entre la mayoría de los integrantes conflictos internos que impidan el normal funcionamiento del mismo que trasciendan al cumplimiento de las funciones y servicios públicos a cargo del Municipio.
+
+### CAPÍTULO TERCERO. SUSPENSIÓN Y DESAPARICIÓN DE AYUNTAMIENTOS
+
+###### ARTÍCULO 316.
+
+Procede la suspensión de un Ayuntamiento cuando se haya instaurado procedimiento para la declaración de desaparición (sic) poderes del mismo y su permanencia dificulte de manera trascendente el normal desarrollo de las atribuciones del Ayuntamiento.
+
+Se considerará trascendente para el desarrollo normal de las atribuciones del Ayuntamiento, cuando por la naturaleza de la conducta denunciada, las pruebas aportadas y las circunstancias que se den en el caso, exista el riesgo o la posibilidad fundados e inminentes de que se llegue a producir o sea actual la parálisis en la prestación regular de los servicios públicos o de las funciones a cargo del Municipio, mientras dura el procedimiento tendiente a calificar la desaparición del Ayuntamiento.
+
+La suspensión de un ayuntamiento siempre será temporal, por un término no mayor de tres meses.
+
+###### ARTÍCULO 317.
+
+Son causas de desaparición de poderes de un Ayuntamiento o Concejo Municipal, en su caso:
+
+I. Cuando sea imposible su funcionamiento por la falta de la mayoría de sus integrantes; si conforme a las disposiciones constitucionales y legales respectivas no haya suplentes que puedan integrarlo, cualesquiera que fueren las causas que motivaren dicha falta;
+
+II. Cuando se suscite entre sus integrantes o entre el ayuntamiento, conflictos reiterados que imposibiliten el cumplimiento de sus fines, o el ejercicio de las funciones encomendadas que sean atribuibles al propio Ayuntamiento;
+
+III. Cuando disponga de manera diversa al objeto, motivo o fin de los bienes del patrimonio municipal, sin sujetarse a los procedimientos constitucionales y legales respectivos;
+
+IV. Cuando se rehúse a cumplir con una orden de suspensión o revocación del mandato de uno o más de sus miembros, emitida por el Congreso del Estado, conforme a los ordenamientos jurídicos aplicables;
+
+V. Incurrir en violaciones graves a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución;
+
+VI. Retener o invertir para fines distintos a los autorizados, los recursos públicos o las cooperaciones que en numerario o en especie entreguen los particulares para realización de obras;
+
+VII. Dejar de integrar los consejos de participación ciudadana municipal o de convocar a la elección de las Autoridades Auxiliares previstas en la ley;
+
+VIII. Realizar actos no permitidos o sin las formalidades de la ley, que afecten sustancialmente el patrimonio del municipio, la prestación de servicios públicos o la función administrativa municipal; y,
+
+IX. Usurpación o uso indebido y sistemático de atribuciones.
+
+###### ARTÍCULO 318.
+
+En caso de declarase (sic) la desaparición de los poderes de un Ayuntamiento se procederá en términos de la Constitución y el Código Electoral del Estado.
+
+### CAPÍTULO CUARTO. PRESENTACIÓN DE CONTROVERSIAS CONSTITUCIONALES
+
+###### ARTÍCULO 319.
+
+Para la sustanciación de la facultad señalada en la fracción I, del Artículo 105 de la Constitución, en materia de controversias constitucionales se seguirá el siguiente procedimiento:
+
+I. Los diputados que pretendan la interposición de una demanda de controversia constitucional deberán presentar solicitud por escrito, acompañada del proyecto de demanda ante la Junta;
+
+II. La Junta deberá acordar y solicitar a la Mesa Directiva, que el Área Jurídica del Congreso, emita en un breve plazo de cuatro días, una opinión técnica sobre los argumentos para la procedencia o improcedencia de la misma; y,
+
+III. La Junta deberá presentar para su discusión y aprobación al Pleno el proyecto de demanda anexando la opinión técnica.
+
+Si el Pleno aprueba su presentación, el Presidente deberá dar curso en tiempo y forma ante la Suprema Corte de Justicia de la Nación, en ningún caso tardará más de tres días hábiles después de haber sido votada.
+
+## TRANSITORIOS
+
+PRIMERO. La presente Ley entrará en vigor al momento de su aprobación, notifíquese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las disposiciones previstas en esta Ley se ajustarán a lo previsto en el Decreto número 69 aprobado por el Congreso y publicado el 22 de septiembre de 2006.
+
+TERCERO. Los actuales integrantes de la Mesa Directiva del Congreso, por única ocasión, durarán en su encargo hasta el día 14 catorce de enero de 2012 dos mil doce.
+
+CUARTO. La normatividad referente a las atribuciones y clasificación de las Comisiones y los Comités, entrará en vigor el 15 quince de enero de 2012 dos mil doce, en tanto, seguirán aplicándose las disposiciones establecidas en la Ley Orgánica y de Procedimientos del Congreso del Estado publicada el 13 trece de marzo de 2003 dos mil tres, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+QUINTO. La Comisión Instructora de la actual Legislatura se sujetará a los procedimientos especiales señalados en esta Ley para la Comisión Jurisdiccional, a excepción de los procedimientos ya iniciados, los cuales deberán regirse, hasta su conclusión, por lo establecido en la Ley Orgánica y de Procedimientos del Congreso del Estado publicada el 13 trece de marzo de 2003 dos mil tres, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEXTO. La Comisión de Régimen Interno y Prácticas Parlamentarias presentará ante el Pleno el Reglamento de Comisiones en un plazo no mayor de 60 días, a partir de la aprobación de la presente. Asimismo, los órganos técnicos del Congreso presentarán ante las comisiones correspondientes, los proyectos que contengan las reformas a los reglamentos internos, o bien, los nuevos reglamentos que se requieran, en un plazo no mayor de 120 días.
+
+SÉPTIMO. Los titulares de la (sic) Secretarías de Servicios Parlamentarios; de la Secretaría de Administración y Finanzas; de la Contraloría Interna; del Centro de Investigaciones y Estudios Legislativos, así como de las Coordinaciones de Comunicación Social; y, Atención Ciudadana y Gestoría; seguirán en su encargo, entendiendo que han sido ratificados por el Pleno.
+
+OCTAVO. Para la instauración del Servicio Parlamentario de Carrera, la Junta de Coordinación Política y la actual Comisión de Administración y Control ordenarán a la Secretaría de Administración y Finanzas, elaboré un diagnóstico de la reestructuración administrativa, un catálogo de puestos y la homologación laboral conforme a lo establecido en la presente Ley, el cual deberá estar concluido a más tardar el día 31 treinta y uno de octubre de 2011 dos mil once. Para que la normatividad relativa al Servicio Parlamentario de Carrera, entre en vigor el día 01 uno de noviembre de 2011 dos mil once.
+
+Por única ocasión y con la finalidad de implementar el Servicio Parlamentario de Carrera, el personal que actualmente labora en el Congreso del Estado de Michoacán y tenga interés en formar parte del Servicio, ingresará de manera directa, previa solicitud que presente, quedando sujeto al proceso de evaluación del desempeño.
+
+El personal que se haya inscrito al Servicio Parlamentario de Carrera, podrá ser recategorizado para obtener un nivel superior, siempre y cuando cumpla con los requisitos señalados en la presente Ley y en su caso en los reglamentos respectivos.
+
+Los trabajadores que a la fecha prestan sus servicios en alguna de las áreas técnicas del Congreso que sufran alguna modificación administrativa, pasarán a formar parte de la nueva área que se haya creado en sustitución de la anterior, respetándose sus derechos laborales en los términos de la ley de la materia.
+
+NOVENO. Se abroga la Ley Orgánica y de Procedimientos del Congreso del Estado, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 13 trece de marzo de 2003 dos mil tres.
+
+El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, Morelia, Michoacán de Ocampo, a los 17 diecisiete días del mes de mayo de 2011, dos mil once-
+
+ATENTAMENTE.- «SUFRAGIO EFECTIVO, NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. IVÁN MADERA NARANJO.- PRIMER SECRETARIO.- DIP. MARTÍN CARDONA MENDOZA.- SEGUNDO SECRETARIO.- DIP. EPIGMENIO JIMÉNEZ ROJAS.- TERCER SECRETARIO.- DIP. JUAN MANUEL MACEDO NEGRETE. (Firmados).
+
+En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 3 tres días del mes de Junio del año 2011 dos mil once.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
