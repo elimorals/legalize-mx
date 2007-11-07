@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-47316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-28"
-last_updated: "2007-07-17"
+last_updated: "2007-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47316&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-12-20"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 28 de diciembre de 2005.
 
@@ -270,9 +270,9 @@ De sus atribuciones
 
 Son atribuciones del Presidente del Tribunal, además de las previstas por el artículo 229, párrafo tercero del Código, las demás que emanen del propio Código, de este Reglamento y de los Acuerdos que dicte el Pleno.
 
-SECCIÓN 2ª
+SECCIÓN 3ª
 
-De las ausencias
+De su elección o reelección
 
 ###### Artículo 15.
 
@@ -281,10 +281,6 @@ Las ausencias temporales del Presidente del Tribunal serán cubiertas, en forma 
 ###### Artículo 16.
 
 En caso de ausencia definitiva del Presidente del Tribunal, el Magistrado Numerario que corresponda de acuerdo con la regla prevista por el artículo anterior, asumirá provisionalmente las funciones de aquél y convocará de inmediato a los Magistrados que integran el Pleno, a fin de que concurran a la sesión pública de designación del nuevo Presidente, en la forma y términos previstos por el artículo 17 de este Reglamento, quien concluirá el periodo correspondiente.
-
-SECCIÓN 3ª
-
-De su elección o reelección
 
 ###### Artículo 17.
 
@@ -309,6 +305,10 @@ VI. Hecha la certificación respectiva, se procederá a tomar la protesta al Pre
 "Protesto desempeñar leal y patrióticamente el cargo de Presidente del Tribunal Electoral del Distrito Federal que me ha sido conferido, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, el Código Electoral del Distrito Federal y la Ley de Participación Ciudadana del Distrito Federal, así como las disposiciones que de ellos emanen, mirando en todo por el bien y la prosperidad del Distrito Federal, y si no lo hiciere así que el pueblo de esta entidad federativa me lo demande".
 
 VII. Rendida la protesta, el Presidente electo o reelecto asumirá sus funciones y continuará la sesión pública hasta su conclusión.
+
+SECCIÓN 2ª
+
+De las ausencias
 
 ### CAPÍTULO III. De los Magistrados
 
@@ -1962,71 +1962,97 @@ En este caso, el superior jerárquico deberá comunicar por escrito al servidor 
 
 Para estos efectos, se entenderá por superior jerárquico al titular de la ponencia o área a la que se encuentre adscrito el trabajador. Tratándose del Secretario General, Secretario Administrativo, Contralor Interno y Director General Jurídico, el superior jerárquico será el Pleno, en tanto que respecto a los titulares de las Coordinaciones, lo será el Presidente.
 
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 142.
 
 Son obligaciones de los trabajadores del Tribunal, las siguientes:
 
-I. Desempeñar sus labores en el tiempo y lugar convenidos, con la intensidad, eficacia y esmero apropiados, sujetándose invariablemente a las disposiciones legales y reglamentarias, así como a las instrucciones de sus superiores;
+I. Cumplir con los principios rectores en materia electoral y la normatividad del Tribunal;
 
-II. Formular y ejecutar, en su caso, los planes, programas y actividades correspondientes a su competencia y manejar, cuando corresponda, los recursos económicos y materiales, de conformidad con lo previsto en las disposiciones aplicables;
+II. Asistir a sus labores y respetar los horarios establecidos;
 
-III. Custodiar y hacer entrega, cuando corresponda, de los fondos, valores y bienes que le sean confiados para el desempeño de su empleo, cargo o comisión;
+III. Proporcionar a las autoridades del Tribunal los datos personales vinculados a su condición de trabajador que se le soliciten y la documentación comprobatoria correspondiente, así como comunicar oportunamente cualquier cambio sobre dicha información;
 
-IV. Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, exclusivamente para los fines a que están afectos;
+IV. Proporcionar la información y la documentación relativa al ejercicio de su cargo o puesto, al funcionario del Tribunal que, en su caso, se designe para suplirlo por ausencia temporal;
 
-V. Custodiar y manejar con el debido cuidado la documentación e información que por razón de su empleo, cargo o comisión, conserven bajo su custodia, evitando la sustracción, destrucción, ocultamiento o uso indebido de aquéllas;
+V. Desempeñar sus labores en el tiempo y lugar convenidos, con la intensidad, eficacia y esmero apropiados, sujetándose invariablemente a la normatividad aplicable, así como a las instrucciones de sus superiores;
 
-VI. Observar en su relación con los demás servidores del Tribunal la consideración, respeto y diligencia debidos;
+VI. Formular y ejecutar, en su caso, los planes, programas, proyectos y actividades correspondientes a su competencia y manejar, cuando corresponda, los recursos económicos y materiales, de conformidad con lo previsto en las disposiciones aplicables;
 
-VII. Observar respeto y subordinación legítimos hacia sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+VII. Custodiar y hacer entrega, cuando corresponda, de los fondos, valores y bienes que le sean confiados para el desempeño de su empleo, cargo o comisión;
 
-VIII. Participar en la esfera de su respectiva competencia, en los programas y cursos de formación y desarrollo profesional y en las actividades de capacitación jurisdiccional electoral;
+VIII. Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, exclusivamente para los fines a que están afectos;
 
-IX. Guardar absoluta reserva sobre los asuntos del Tribunal; y
+IX. Custodiar y manejar con el debido cuidado la documentación e información que por razón de su empleo, cargo o comisión, conserven bajo su custodia, evitando la sustracción, destrucción, ocultamiento o uso indebido de aquéllas;
 
-X. Las demás que les impongan la ley, este Reglamento y las demás disposiciones aplicables.
+X. Observar en su relación con los demás servidores del Tribunal la consideración, respeto y diligencia debidos;
+
+XI. Observar respeto y subordinación legítimos hacia sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+
+XII. Participar, en los programas y cursos de formación y desarrollo profesional y en las actividades de capacitación jurisdiccional electoral;
+
+XIII. Guardar absoluta reserva sobre los asuntos del Tribunal;
+
+XIV. Desarrollar sus labores en sus áreas de adscripción durante la jornada que se establezca; y
+
+XV. Las que les impongan la ley, este Reglamento y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 143.
 
 Los trabajadores del Tribunal, en el desempeño de sus labores, se abstendrán de:
 
-I. Incurrir en cualquier acto u omisión que entorpezca o perjudique el debido cumplimiento de las funciones o que implique abuso o ejercicio indebido de su empleo, cargo o comisión;
+I. Ausentarse de su lugar de adscripción sin autorización expresa de su superior jerárquico inmediato;
 
-II. Intervenir en asuntos electorales que no sean competencia del Tribunal, ni ejecutar, apoyar o impulsar actos que contengan una conducta parcial a favor o en contra de partidos, agrupaciones u organizaciones políticas, así como de sus dirigentes, candidatos o militantes, salvo que se trate de defensa propia por acusación que el servidor estime infundada;
+II. Alterar o falsificar documentación o información del Tribunal de cualquier naturaleza, así como efectuar su destrucción, sin contar, en este último caso, con la autorización expresa para ello;
 
-III. Comprometer, por imprudencia o descuido inexcusable, la seguridad del centro de trabajo, de las personas o de los bienes que se encuentren dentro del Tribunal;
+III. Incurrir en cualquier acto u omisión que entorpezca o perjudique el debido cumplimiento de las funciones o que implique abuso o ejercicio indebido de su empleo, cargo o comisión;
 
-IV. Sustraer documentos, equipo, mobiliario o útiles de trabajo del Tribunal, sin la autorización previa y expresa de sus superiores jerárquicos;
+IV. Intervenir en asuntos electorales que no sean competencia del Tribunal, ni ejecutar, apoyar o impulsar actos que contengan una conducta parcial a favor o en contra de partidos, agrupaciones u organizaciones políticas, así como de sus dirigentes, candidatos o militantes, salvo que se trate de defensa propia por acusación que el servidor estime infundada;
 
-V. Incurrir en faltas injustificadas a sus labores, que redunden en perjuicio de las funciones del Tribunal;
+V. Comprometer, por imprudencia o descuido inexcusable, la seguridad del centro de trabajo, de las personas o de los bienes que se encuentren dentro del Tribunal;
 
-VI. Concurrir a sus labores en estado de embriaguez o bajo la influencia, sin causa justificada, de algún narcótico, sea droga enervante o estupefaciente;
+VI. Sustraer documentos, equipo, mobiliario o útiles de trabajo del Tribunal, sin la autorización previa y expresa de sus superiores jerárquicos;
 
-VII. Realizar actos inmorales, de violencia o maltrato en las instalaciones del Tribunal;
+VII. Incurrir en faltas injustificadas a sus labores, que redunden en perjuicio de las funciones del Tribunal;
 
-VIII. Realizar, con carácter lucrativo, colectas, rifas, sorteos, o la venta de bienes o servicios en las instalaciones del Tribunal; y
+VIII. Concurrir a sus labores en estado de embriaguez o bajo la influencia, sin causa justificada, de algún narcótico, sea droga enervante o estupefaciente;
 
-IX. Portar armas de cualquier clase en el interior del Tribunal, salvo que por la naturaleza de sus labores las requieran.
+IX. Realizar actos inmorales, de violencia o maltrato en las instalaciones del Tribunal;
+
+X. Realizar, con carácter lucrativo, colectas, rifas, sorteos, o la venta de bienes o servicios en las instalaciones del Tribunal;
+
+XI. Portar armas de cualquier clase en el interior del Tribunal, salvo que por la naturaleza de sus labores las requieran; y (sic)
+
+XII. Cualquiera otra conducta que sea contraria a las disposiciones u ordenamientos legales aplicables a la normatividad interna del Tribunal; y
+
+XIII. Las que les impongan la ley, este Reglamento y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 144.
 
 Son derechos de los trabajadores del Tribunal:
 
-I. Disfrutar de las medidas de protección al salario;
+I. Obtener constancia de su nombramiento una vez satisfechos los requisitos establecidos en la normatividad y, por ende, ser asignado en alguno de los cargos o puestos de la estructura orgánica y ocupacional del Tribunal y adscrito a un área específica del mismo;
 
-II. Recibir oportunamente la remuneración correspondiente por los servicios prestados, de conformidad con los tabuladores del Tribunal y el presupuesto autorizado;
+II. Disfrutar de las medidas de protección al salario;
 
-III. Disfrutar de los períodos vacacionales que determine el Pleno;
+III. Recibir oportunamente la remuneración correspondiente por los servicios prestados, de conformidad con los tabuladores del Tribunal y el presupuesto autorizado;
 
-IV. Percibir con anticipación a la fecha de inicio de su periodo vacacional la prima correspondiente en el monto previsto en el presupuesto autorizado;
+IV. Disfrutar de los períodos vacacionales que determine el Pleno;
 
-V. Recibir las demás prestaciones que con carácter general se fijen para todo el personal, de conformidad con las disponibilidades presupuestales y con los lineamientos que al efecto establezcan las autoridades en la materia;
+V. Percibir con anticipación a la fecha de inicio de su periodo vacacional la prima correspondiente en el monto previsto en el presupuesto autorizado;
 
-VI. Gozar de los beneficios de la seguridad social, para lo cual serán incorporados al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+VI. Recibir las demás prestaciones que con carácter general se fijen para todo el personal, de conformidad con las disponibilidades presupuéstales y con los lineamientos que al efecto establezcan las autoridades en la materia;
 
-VII. Participar en los programas de capacitación, formación o desarrollo profesional; y
+VII. Gozar de los beneficios de la seguridad social, para lo cual serán incorporados al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-VIII. Inconformarse ante el Pleno del Tribunal en el caso de la imposición de sanciones.
+VIII. Participar en los programas de capacitación, formación o desarrollo profesional; y
+
+IX. Inconformarse ante el Pleno del Tribunal en el caso de la imposición de sanciones.
 
 Durante los procesos electorales y de participación ciudadana en los que todos los días y horas son hábiles, el Pleno preverá en el presupuesto las compensaciones extraordinarias que deban otorgarse a los trabajadores del Tribunal de acuerdo con los horarios y cargas de trabajo que hubiesen desahogado, en términos del artículo 132 del Código Electoral del Distrito Federal.
 
@@ -2729,5 +2755,13 @@ G.O. 17 DE JULIO DE 2007.
 PRIMERO. Las modificaciones al Reglamento Interior del Tribunal Electoral del Distrito Federal entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente dictamen.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet del Tribunal.
+
+G.O. 7 DE NOVIEMBRE DE 2007.
+
+PRIMERO. Las modificaciones al Reglamento Interior del Tribunal Electoral del Distrito Federal entrarán en vigor al día siguiente de su publicación en los estrados del Tribunal Electoral del Distrito Federal.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se oponga al presente dictamen.
 
 TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet del Tribunal.
