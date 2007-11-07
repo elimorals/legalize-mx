@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2006-12-22"
+last_updated: "2007-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -91,53 +91,49 @@ Quienes acrediten que son pensionados, jubilados o ser cónyuges de los mismos, 
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-a. Manifestar por escrito y bajo protesta de decir verdad, que no reciben otro ingreso en dinero;
+a. Manifestar por escrito y bajo protesta de decir verdad, que no reciben otro ingreso en dinero.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 b. Manifestar por escrito y bajo protesta de decir verdad que el inmueble objeto del impuesto es su única propiedad en el Estado o que lo tiene en usufructo y que no posee otras propiedades en el resto de la República.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
-Quien pretenda obtener el beneficio de pagar un día de salario mínimo por concepto de predial, tratándose de la primera vez, exhibirá constancia que el Registro Público de la Propiedad y del Comercio, expida en forma gratuita;
+Tratándose de la primera vez, quien pretenda obtener el beneficio de pagar un día de salario mínimo por concepto de impuesto predial, solicitará ante la autoridad municipal correspondiente, la tramitación de la constancia que el Registro Público de la Propiedad y del Comercio, expedirá sin costo alguno.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 c. Habitar dicho inmueble y por lo tanto no destinarlo al arrendamiento; y
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
-d. Encontrarse al corriente en sus pagos por concepto de este impuesto.
+d. Encontrarse al corriente en el pago de dicho impuesto, en el ejercicio inmediato anterior.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
-Los pensionados, jubilados o cónyuges de los mismos, que cumplan con los requisitos anteriores y perciban más de tres salarios mínimos vigentes en la zona económica correspondiente por día y realicen dicho pago en el primer semestre del año, pagarán el 50 por ciento total del impuesto.
+Los pensionados, jubilados o cónyuges de los mismos, que cumplan con los requisitos anteriores y perciban más de tres salarios mínimos vigentes en la zona económica correspondiente, por día, pagarán el 50 por ciento total del impuesto.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados, el beneficio de esta disposición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 9.
 
-Quienes no reciban ingresos en dinero y así lo manifiesten bajo protesta de decir verdad pagarán una vez el salario mínimo diario general del estado por concepto de impuesto predial, siempre que cumplan los requisitos a que se refieren los incisos b) al d) del artículo inmediato anterior y acrediten:
+Las personas que acrediten ser personas adultas mayores o tener discapacidad física, con grado entre 3 a 5 en la escala de valoración de la Cruz Roja o sean cónyuges de los mismos, pagarán lo siguiente por concepto de impuesto predial:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+a) Una vez el salario mínimo diario general vigente del Estado, quienes cumplan con los requisitos a que se refieren los incisos b) al d) del artículo 8 de la presente Ley y manifiesten bajo protesta de decir verdad que no reciben ingreso en dinero.
 
-a. Que son afiliados del Instituto Nacional de las Personas Adultas Mayores (INAPAM); o
+b) Una vez el salario mínimo diario general vigente del Estado, quienes cumplan con los requisitos a que se refieren los incisos a) al d) del artículo 8 de la presente Ley y perciban hasta tres salarios mínimos vigentes en la zona económica correspondiente, por día.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+c) El 50 por ciento del total del impuesto, quienes cumplan con los requisitos a que se refieren los incisos a) al d) del artículo 8 de la presente Ley y perciban más de tres salarios mínimos vigente en la zona económica correspondiente por día.
 
-b. Que tienen discapacidad física, con grado del 3 al 5 en la escala de valoración de la Cruz Roja.
+ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+Artículo 9 BIS.- Para incorporarse al padrón catastral, los predios regularizados mediante los Programas de Certificación de Derechos Ejidales (PROCEDE) o de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), pagarán sin exclusión de ningún tipo, una vez el salario mínimo diario general del Estado por concepto de impuesto predial, que incluye el ejercicio fiscal en curso, así como los anteriores que se adeuden, sin multas ni recargos en los términos de los artículos 22 y 23 de este ordenamiento, siempre y cuando realicen el pago de forma anualizada en el ejercicio fiscal que transcurre.
 
-Quienes estando en el supuesto de los incisos a) y b) anteriores inmediatos, perciba hasta tres salarios mínimos vigentes en la zona económica correspondiente por día y realicen dicho pago en el primer semestre del año, pagarán el 50 por ciento del total de este impuesto.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición.
+Una vez incorporados estos predios en el padrón catastral, se sujetarán a las disposiciones establecidas por la presente ley.
 
 ### CAPÍTULO SEGUNDO. DEL OBJETO Y SUJETO
 
@@ -700,3 +696,35 @@ La presente Ley entrará en vigor el día 1 de enero de 2007 y ordenándose su p
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones fiscales que se opongan a la presente Ley, y el artículo tercero transitorio de la presente, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", de fecha 9 de diciembre de 2004.
+
+P.O. 7 DE NOVIEMBRE DE 2007.
+
+LEY QUE ADICIONA EL ARTICULO 9 BIS.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley aplicará a partir del ejercicio fiscal 2007 y sus beneficios surtirán efectos, inclusive, en los procedimientos en trámite para hacer efectivos los créditos fiscales derivados del cobro del impuesto predial.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el artículo Sexto Transitorio de la Ley del Impuesto Predial de los Municipios del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" de fecha 29 de diciembre de 2005, así como todas las disposiciones fiscales que se opongan a esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se deja sin efectos el Acuerdo por el que, con fundamento en el artículo 38 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga, se interpreta el contenido y el alcance del Artículo Sexto Transitorio de la Ley del Impuesto Predial de los Municipios del Estado de Querétaro, publicado en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" el 28 de abril de 2006.
+
+P.O. 7 DE NOVIEMBRE DE 2007.
+
+LEY QUE REFORMA LOS ARTICULOS 8 Y 9.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
