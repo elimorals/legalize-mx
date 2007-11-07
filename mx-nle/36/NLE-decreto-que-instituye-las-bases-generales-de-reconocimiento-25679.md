@@ -4,7 +4,7 @@ identifier: "NLE-decreto-que-instituye-las-bases-generales-de-reconocimiento-256
 country: "mx"
 rank: "decreto"
 publication_date: "1985-12-27"
-last_updated: "1985-12-27"
+last_updated: "2007-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 DECRETO QUE INSTITUYE LAS BASES GENERALES DE RECONOCIMIENTO PUBLICO AL MERITO CIVICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA EL RECONOCIMIENTO AL MERITO CIVICO "PRESEA ESTADO DE NUEVO LEON", PUBLICADA EN EL P.O. 7 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de diciembre de 1985.
 
@@ -120,3 +122,13 @@ LIC. JORGE A. TREVIÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. LUCAS DE LA GARZA GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 7 DE NOVIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Decreto Número 17, publicado en el Periódico Oficial del Estado el día 27 de diciembre de 1985, así como las demás disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero.- El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley y nombrará al Consejo, dentro de un plazo no mayor a ciento ochenta días naturales, contados a partir de la fecha de entrada en vigor de este Decreto.
