@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "2007-04-18"
+last_updated: "2007-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -2001,9 +2001,39 @@ El fraccionador tendrá las siguientes obligaciones:
 
 I.- Ceder a título gratuito a favor del municipio correspondiente, las superficies de suelo determinada como vías públicas;
 
-II.- Ceder suelo al municipio para destinos a razón del 17% -diecisiete del área vendible o 22-veintidós metros cuadrados por unidad de vivienda, lo que resulte mayor. El 60%-sesenta del suelo cedido deberá destinarse para jardines, parques o plazas públicas; el otro 40% -cuarenta podrá destinarse para la construcción del equipamiento educativo público del nivel básico, áreas deportivas, caseta de vigilancia y asistencia pública. Los usos complementarios no habitacionales cederán el 7% del área vendible correspondiente.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
-El excedente de 15 metros cuadrados por unidad de vivienda de suelo cedido para jardines, en vialidades no principales, parques, o plazas públicas podrán destinarse para jardines ubicados en camellones de 4 metros de ancho como mínimo, o anchuras adicionales en los mínimos establecidos para las aceras;
+II.- Ceder suelo al municipio para destinos a razón del 17% -diecisiete del área vendible o 22- veintidós metros cuadrados por unidad de vivienda, lo que resulte mayor. Los usos complementarios no habitacionales cederán el 7% -siete del área vendible correspondiente.
+
+El 60% -sesenta del suelo cedido deberá destinarse para jardines, parques o plazas públicas; el otro 40% -cuarenta deberá destinarse al mismo uso o a la construcción del equipamiento educativo público del nivel básico, áreas deportivas, caseta de vigilancia y asistencia pública.
+
+Estas áreas de cesión serán inalienables e imprescriptibles, no estarán sujetas a acción reivindicatoria, en ningún caso podrán ser cubiertas en efectivo, no podrán ser objeto de enajenación o gravamen y sólo podrán utilizarse para los fines descritos en esta fracción por lo que no se deberá cambiar su destino, salvo cuando sea necesario realizar afectaciones con fines de utilidad pública.
+
+El excedente de 15 -quince metros cuadrados por unidad de vivienda de suelo cedido para jardines, parques, o plazas públicas podrá destinarse para jardines ubicados en camellones de 4 -cuatro metros de ancho, siempre y cuando esto sea en vías no principales.
+
+En fraccionamientos habitacionales de más de 50 -cincuenta lotes, se permitirá que hasta el 25% -veinticinco de las áreas de cesión, se destinen a jardines en polígonos de terrenos menores a los 1,000 -mil metros cuadrados.
+
+En fraccionamientos habitacionales inferiores a 50 -cincuenta lotes, donde las áreas de cesión resultantes sean menores a 1,000 -mil metros cuadrados, la autoridad responsable procurará que estas se ubiquen en zonas que permitan la integración con otra área municipal.
+
+En ningún caso podrán cuantificarse como área de cesión:
+
+a) Terrenos con calidad y características menores al promedio de las que componen el fraccionamiento;
+
+b) Terrenos afectados por restricciones Federales o Estatales;
+
+c) Todos aquellos, terrenos que por sus características y condiciones no puedan ser aprovechados; y
+
+d) Ampliación de banquetas.
+
+Los lineamientos conforme a los cuales la autoridad municipal apruebe un proyecto urbanístico, en lo referente a la habilitación, equipamiento y arbolado de áreas verdes o recreativas, deberán de incluir como mínimo:
+
+a) Construcción de banqueta perimetral y adicionalmente en su interior 500-quinientos metros cuadrados de banqueta por cada 10,000-diez mil metros cuadrados de terreno;
+
+b) Instalación del alumbrado perimetral y adicionalmente en su interior una luminaria por cada 500-quinientos metros cuadrados de terreno;
+
+c) Instalación de bancas, una por cada 250-doscientos cincuenta metros cuadrados de terreno; y
+
+d) Juegos infantiles, tres juegos infantiles por cada 5,000 cinco mil metros cuadrados de terreno.
 
 III.- Construir las obras de urbanización siguientes, conforme al calendario de obra que se acuerde con la autoridad municipal a razón de la magnitud de las obras, el cual no podrá exceder de dos años a partir de la fecha de autorización:
 
@@ -2067,9 +2097,23 @@ I.- Sólo podrán ubicarse en las áreas urbanas o urbanizadas y urbanizables de
 
 II.- El ancho mínimo de las vialidades locales será de 12-doce metros;
 
-III.- Ceder suelo al municipio para destinos a razón del 17% -diecisiete del área vendible o 22-veintidós metros cuadrados por unidad de vivienda, lo que resulte mayor. El 60% -sesenta del suelo cedido deberá destinarse para jardines, parques o plazas públicas; el otro 40% -cuarenta podrá destinarse para la construcción del equipamiento educativo público del nivel básico, áreas deportivas, caseta de vigilancia y asistencia pública; y,
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
-IV.- Las demás que establezcan las disposiciones de carácter general que al efecto expidan los ayuntamientos y las que establezcan otros ordenamientos jurídicos aplicables.
+III.- Deberán contar con áreas públicas municipales destinadas para jardines, parques, plazas públicas, áreas deportivas, equipamiento educativo público de nivel básico, caseta de vigilancia y similares;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+IV.- Ceder a título gratuito a favor del municipio correspondiente, las superficies de suelo determinada como vías públicas;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+V.- Ceder suelo al municipio para destinos a razón del 17% diecisiete del área vendible ó 22 -veintidós metros cuadrados por unidad de vivienda, lo que resulte mayor. Los usos complementarios no habitacionales cederán el 7% -siete del área vendible correspondiente.
+
+El 60% -sesenta del suelo cedido deberá destinarse para jardines, parques o plazas públicas; el otro 40% -cuarenta deberá destinarse al mismo uso o a la construcción del equipamiento educativo público del nivel básico, áreas deportivas, caseta de vigilancia y asistencia pública.
+
+Estas áreas de cesión serán inalienables e imprescriptibles, no estarán sujetas a acción reivindicatoria, en ningún caso podrán ser cubiertas en efectivo, no podrán ser objeto de enajenación o gravamen y sólo podrán utilizarse para los fines descritos en esta fracción por lo que no se deberá cambiar su destino, salvo cuando sea necesario realizar afectaciones con fines de utilidad pública.
+
+VI.- Las demás que establezcan las disposiciones de carácter general que al efecto expidan los ayuntamientos y las que establezcan otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 157.
 
@@ -3944,5 +3988,9 @@ DECRETO Núm. 31
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Estado.
 
 P.O. 18 DE ABRIL DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 7 DE NOVIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
