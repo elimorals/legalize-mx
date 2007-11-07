@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-queretaro-43
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-04"
-last_updated: "2005-02-04"
+last_updated: "2007-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de febrero de 2005.
 
@@ -187,15 +187,21 @@ VI. Llevar en forma actualizada las estadísticas de la producción pecuaria, de
 
 VII. Proponer al Gobernador del Estado, la celebración de convenios con autoridades de la Administración Pública Federal, Gobiernos Estatales y Municipales y Organismos Auxiliares, para el establecimiento y ejecución de las campañas zoosanitarias y control de la movilización de animales, sus productos y subproductos, productos biológico - químicos, farmacéuticos y alimenticios para uso en animales o consumo por éstos, así como maquinaria y equipo pecuario cuando impliquen un riesgo zoosanitario o para el mejor cumplimiento de las actividades a que se refiere la presente Ley;
 
-VIII. Autorizar a los inspectores-verificadores zoo-sanitarios;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
-IX. Llevar el registro de los medios de identificación que permitan acreditar la propiedad de los animales, en coordinación con los Ayuntamientos del Estado;
+VIII. Tomar en consideración las propuestas del Comité Estatal de Fomento y Protección Pecuaria para la designación de los inspectores-verificadores zoosanitarios, así como llevar el control de los mismos, respecto de sus atribuciones y actividades realizadas;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+IX. Llevar el registro y control de los medios de identificación que permitan acreditar la propiedad de los animales, en coordinación con los municipios del Estado y asociaciones ganaderas;
 
 X. Autorizar y expedir las órdenes de realeo de ganado, las que serán ejecutadas por personal de la Secretaría o los Ayuntamientos, cuando así lo soliciten los productores pecuarios o una autoridad judicial con el fin de acreditar la propiedad del ganado;
 
 XI. Promover en coordinación con las organizaciones ganaderas la realización de ferias y exposiciones pecuarias a nivel nacional, estatal, regional o municipal, otorgando de maneara conjunta, reconocimientos y premios que estimulen a los productores del sector pecuario;
 
-XII. Aplicar las sanciones económicas establecidas en la presente Ley, su Reglamento y demás normatividad vigente, a través de la Secretaría de Planeación y Finanzas quien deberá hacerlas efectivas; y,
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+XII. Aplicar las sanciones económicas establecidas en la presente Ley, su Reglamento y demás normatividad vigente, por medio de la Secretaría de Planeación y Finanzas quien deberá hacerlas efectivas a través del Procedimiento Administrativo de Ejecución; y,
 
 XIII. Las demás que establezca esta Ley, su Reglamento y demás disposiciones legales aplicables.
 
@@ -205,15 +211,19 @@ Son atribuciones de la Secretaría de Salud:
 
 I. Coadyuvar en el cumplimiento de las disposiciones en materia de inocuidad alimentaria de origen animal;
 
-II. Supervisar el cumplimiento de las disposiciones higiénicas y sanitarias en los Rastros Municipales de conformidad con lo dispuesto por la legislación sanitaria;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+II. Supervisar el cumplimiento de las disposiciones higiénicas y sanitarias en los rastros y unidades de sacrificio o mataderos municipales, de conformidad con lo que establece la legislación sanitaria;
 
 III. Verificar en el ámbito de su competencia, la calidad físico - química y microbiológica de los productos y subproductos pecuarios para consumo humano; y
 
 IV. Las demás que señale esta Ley, su Reglamento y otros ordenamientos jurídicos en materia de salud pública.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 9.
 
-La Secretaría de Seguridad Ciudadana y la Secretaría de Seguridad Pública, Policía Preventiva y Tránsito Municipales, podrán a petición de la Secretaría, del inspector verificador zoosanitario o de los Organismos Auxiliares, prestar apoyo y auxilio proporcionando elementos de seguridad en cada uno de los puntos de inspección y verificación zoosanitaria ubicados en el interior del Estado, para el cumplimiento de sus objetivos.
+La Secretaría de Seguridad Ciudadana y las dependencias encargadas de la Seguridad Pública, Policía Preventiva y Tránsito Municipales, podrán brindar el apoyo y auxilio que les solicite la Secretaría, el inspector-verificador zoosanitario o los organismos auxiliares, proporcionando elementos de seguridad en cada uno de los puntos de inspección y verificación zoosanitaria que se les indique, para el cumplimiento de sus objetivos.
 
 ###### Artículo 10.
 
@@ -231,9 +241,11 @@ V. Las demás que señale esta Ley, su Reglamento y otras disposiciones aplicabl
 
 ### CAPÍTULO IV. De la Verificación e Inspección en el Estado
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 11.
 
-Para verificar e inspeccionar el cumplimiento de las Leyes federales aplicables, normas oficiales mexicanas aplicables, esta Ley y todos aquellos convenios y programas que tengan como finalidad el control del (sic) movilización de animales, productos y subproductos, productos biológico- químicos, farmacéuticos y alimenticios para uso en animales o consumo por éstos, así como maquinaria y equipo pecuario, para el control y erradicación de las enfermedades y plagas, la Secretaría designará inspectores - verificadores zoosanitarios.
+Con la finalidad de verificar e inspeccionar el cumplimiento de las leyes federales y normas oficiales mexicanas aplicables, la presente Ley y todos aquellos convenios y programas que tengan por objeto el control de la movilización de animales, productos y subproductos, productos biológico-químicos, farmacéuticos y alimenticios para uso en animales o consumo por éstos, así como de maquinaria y equipo pecuario para el control y erradicación de las enfermedades y plagas, la Secretaría nombrará inspectores- verificadores zoosanitarios.
 
 ###### Artículo 12.
 
@@ -267,9 +279,11 @@ VII. Coadyuvar en el control de la movilización de animales, productos o subpro
 
 VIII. Las demás que determine esta Ley, su Reglamento y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 14.
 
-Para el desempeño de sus funciones, la Secretaría autorizará la ubicación de los puntos de verificación interna y las casetas de vigilancia, las cuales deberán tener los requisitos físicos que determine el Reglamento de esta Ley.
+Para el desempeño de sus funciones, la Secretaría, autorizará la ubicación de los puntos de verificación interna y casetas de vigilancia, para constatar el cumplimiento de esta Ley y de las normas oficiales mexicanas aplicables, los que para su operación deberán cumplir los requisitos que determine el Reglamento.
 
 ###### Artículo 15.
 
@@ -277,23 +291,37 @@ Los inspectores – verificadores zoosanitarios, tendrán las siguientes obligac
 
 I. Llevar un registro documental de las verificaciones que se hayan realizado de animales, productos y subproductos en los puntos de inspección y verificación interna y en los puntos de inspección y verificación federales respecto de los cuales se tenga convenio de colaboración o coordinación entre los organismos auxiliares y autoridades competentes;
 
-II. Apoyar a las Autoridades competentes en la ejecución de las campañas zoosanitarias y de los esquemas para el mejoramiento de la calidad e inocuidad de los productos y subproductos de origen animal o para consumo por éstos; y
+II. Apoyar a las Autoridades competentes en la ejecución de las campañas zoosanitarias y de los esquemas para el mejoramiento de la calidad e inocuidad de los productos y subproductos de origen animal o para consumo por éstos; y (sic)
 
-III. Las demás que determine esta Ley, su Reglamento y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+III. Rendir un informe mensual a la Secretaría, acerca del cumplimiento de sus funciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+IV. Las demás que determine esta Ley, su Reglamento y demás normatividad aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+En caso de incumplimiento, la Secretaría procederá a la aplicación de las sanciones establecidas en la presente Ley y demás disposiciones legales.
 
 ### CAPÍTULO V. De las Organizaciones Ganaderas
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 16.
 
-Las organizaciones ganaderas comprendan (sic) las asociaciones ganaderas locales generales y especializadas y se rigen por la Ley del mismo nombre.
+Las organizaciones ganaderas comprenden las asociaciones ganaderas locales generales y especializadas, legalmente constituidas y registradas ante la federación y se rigen por la Ley de Organizaciones Ganaderas.
 
 ###### Artículo 17.
 
 Las asociaciones ganaderas locales legalmente constituidas y registradas ante la federación, deberán otorgar los servicios de expedición de la guía de tránsito, tanto a sus socios activos como a los que siendo del municipio no pertenezcan a ninguna organización pecuaria local, general o especializada existente en el mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 18.
 
-Las organizaciones a los (sic) que se refiere el artículo anterior, además de las obligaciones establecidas en la Ley que las rige deberán:
+Las organizaciones a que se refiere el artículo 16, además de tener las obligaciones que la ley aplicable les señale, deberán:
 
 I. Participar activamente en el Comité Estatal para el Fomento y Protección Pecuaria del Estado, S. C.;
 
@@ -345,17 +373,21 @@ IX. La documentación autorizada en la legislación respectiva y acreditada por 
 
 X. El sistema de Identificación Individual del ganado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 22.
 
-Todo propietario de ganado tiene obligación de registrarlo ante la Secretaría en coordinación con los Ayuntamientos
+Todo propietario de ganado tiene obligación de registrarlo ante la Secretaría en coordinación con los municipios; para este mismo efecto, las organizaciones ganaderas fungirán como intermediarias.
 
 El registro o herrado será obligatorio para el ganado mayor de siete meses o de menor edad en caso de que se vaya a comercializar o movilizar a otros predios, marcándolo con tiempo suficiente que permita la debida cicatrización, estando prohibido movilizar animales cuyo herrado no haya cicatrizado totalmente.
 
 En los casos en que los productores realicen el transherrado de ganado, deberán notificarlo a la Secretaría por escrito asentando el dibujo del herrado, dentro de los 15 días posteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 23.
 
-La Secretaría, en coordinación con los Ayuntamientos, llevará el registro general de las figuras de herrar o medios de identificación para los animales a que se refiere la presente Ley, atendiendo a lo siguiente:
+La Secretaría, en coordinación con los municipios, llevará el registro general de las figuras de herrar o medios de identificación para animales a que se refiere la presente Ley, sujetándose a lo siguiente:
 
 I. El registro contendrá los siguientes datos:
 
@@ -369,9 +401,11 @@ d) Figura, fotografía, pintas o tatuaje que identifique al animal; y
 
 II. La Secretaría, no registrará ningún medio de identificación, igual o con estrecha semejanza con otra ya registrada en el Estado. Se dará preferencia a quien primero hubiese solicitado el registro de dicho medio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 24.
 
-La Secretaría podrá autorizar un medio de identificación para una sola persona dentro de sus diversas actividades pecuarias en el Estado.
+La Secretaría podrá autorizar un medio de identificación único para cada una de las personas que pretendan desarrollar diversas actividades pecuarias en el Estado.
 
 Todo propietario de ganado tiene obligación de refrendar sus registros cada diez años y actualizar su inventario ganadero en forma anual.
 
@@ -385,9 +419,11 @@ II. Herrar, señalar o reseñar ganado con figuras o marcas que no sean de su pr
 
 III. Hacer uso de señales conocidas como oreja mocha, que es la cortada desde el nacimiento de la oreja, la media tijera y tira, que se hagan en más de media oreja; las combinaciones en la misma oreja de dos medias tijeras y dos tijeras o tira y media tijera, así como la combinación de dos tarabillas, en las dos orejas o tarabilla y tira tarabilla y media tijera en la misma oreja; el de oreja despuntada con dos medias tijeras o con dos tiras, o con debanador (sic) o medio debanador (sic), combinado con dos medias tijeras o dos tiras en la misma oreja y, en general, todas las señales que se corten en más de media oreja.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 26.
 
-Los animales cuyo medio de identificación sea alterado, modificado o encimado serán asegurados por las autoridades competentes para la investigación correspondiente, la imposición de la sanción y, en su caso, la consignación ante la autoridad que corresponda.
+Los animales cuyo medio de identificación sea alterado, modificado o encimado, serán asegurados por las autoridades competentes para la investigación procedente y la imposición de la sanción. En su caso, se dará parte a la autoridad correspondiente para su consignación.
 
 ### CAPÍTULO II. De la Acreditación de la Propiedad de los Animales, productos y sub-productos
 
@@ -465,9 +501,13 @@ III. Se levantará el acta correspondiente de subasta, en la cual constará el l
 
 IV. Al comprador se le entregará el original del acta, misma que le servirá de documento de transmisión de propiedad, para los efectos legales correspondientes.
 
-Queda estrictamente prohibido, por parte de los administradores, funcionarios municipales, empleados de rastros y los parientes por afinidad o consanguíneos de éstos hasta el segundo grado, la adquisición por sí o por interpósita persona, de los animales mostrencos rematados.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
-El producto de lo recaudado en la subasta, ingresará a las oficinas encargadas de la hacienda municipal.
+El remate efectuado en contravención a este precepto será nulo y los infractores serán sancionados conforme a lo dispuesto por esta Ley.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+El producto de lo recaudado en la subasta, ingresará a las oficinas encargadas de las finanzas públicas municipales.
 
 ###### Artículo 35.
 
@@ -487,33 +527,43 @@ Toda movilización de animales, sus productos y subproductos, productos biológi
 
 Sin menoscabo de lo establecido en el artículo 17, toda movilización de animales, productos y subproductos que se efectué al interior del Estado deberá respetar su ruta pecuaria y ampararse con la guía de tránsito expedida por las asociaciones ganaderas o en caso de no existir asociación ganadera por la autoridad municipal competente.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 39.
 
-Las Guías de Tránsito deberán reunir los siguientes requisitos:
+Las Guías de Tránsito Pecuarias son intransferibles y requisitos y deberán reunir los siguientes requisitos :
 
-I. Nombre del comprador;
+I. Número de folio;
 
-II. Nombre del vendedor;
+II. Nombre del comprador;
 
-III. Lugar de Origen;
+III. Nombre del vendedor;
 
-IV. Lugar de destino;
+IV. Identificación oficial del comprador;
 
-V. Especie, producto o subproducto a movilizar;
+V. Identificación oficial del vendedor;
 
-VI. Cantidad y descripción a movilizar;
+VI. Lugar de origen;
 
-VII. Motivo de la movilización;
+VII. Lugar de destino;
 
-VIII. Marca o descripción del producto;
+VIII. Especie, producto o subproducto a movilizar;
 
-IX. Ruta pecuaria;
+IX. Cantidad y descripción a movilizar;
 
-X. Acreditar haber cumplido con los requisitos establecidos en la Ley Federal de Sanidad Animal y Normas Oficiales Mexicanas aplicables;
+X. Motivo de la movilización;
 
-XI. Fecha de vigencia del documento; y
+XI. Marca o descripción del producto;
 
-XII. Cargo y firma de quien la expida.
+XII. Ruta Pecuaria;
+
+XIII. Acreditar haber cumplido con los requisitos establecido (sic) en la Ley Federal de Sanidad Animal y normas oficiales mexicanas aplicables;
+
+XIV. Fecha de expedición del documento; y
+
+XV. Nombre y firma del Médico Veterinario.
+
+La guía debe incluir una nota, señalando: "Los datos aquí plasmados se manifiestan bajo protesta de decir verdad. Se expide la presente con fundamento en los artículos 16, 17, 21, 27 y 38 de la Ley de Fomento y Desarrollo Pecuario del Estado de Querétaro. Sólo ampara a un vehículo y por una sola vez". La vigencia es de 5 días naturales, a partir de la fecha de expedición. No surte efectos de recibo de pago.
 
 ###### Artículo 40.
 
@@ -540,6 +590,10 @@ III. Prever la colocación de señalamientos de seguridad cuando crucen o circul
 ###### Artículo 44.
 
 Se prohibe apacentar animales a orillas de las carreteras, calles, caminos vecinales y demás vías públicas; los que se encuentren serán recogidos por las autoridades municipales correspondientes y el dueño será sancionado conforme a esta Ley, su Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+La responsabilidad civil, en caso de algún daño o perjuicio, será exclusiva del propietario del animal.
 
 ### CAPÍTULO V. De las Vías Pecuarias, Aguajes y Abrevaderos
 
@@ -723,9 +777,13 @@ Los animales destinados a la matanza para consumo humano sólo podrán sacrifica
 
 I. En los rastros autorizados, Plantas Tipo Inspección Federal y casas de matanza, dando cumplimiento a los requisitos mencionados en la presente Ley y su Reglamento; y
 
-II. Donde no exista rastro, la Presidencia Municipal autorizará el sacrificio de animales, previa comprobación de la propiedad, estado de salud de los animales y pago de los impuestos o derechos requeridos.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
-El sacrificio de animales en todo momento deberá ser supervisado por un médico Veterinario, quien habrá de verificar que se realice conforme a lo dispuesto en esta Ley y su Reglamento, Ley Federal de Sanidad Animal y Normas Oficiales Mexicanas.
+II. Donde no exista rastro, el municipio podrá autorizar el sacrificio de animales, previa comprobación de la propiedad, cumpliendo con el mínimo de requisitos sanitarios señalados por la Secretaría de Salud y realizando el pago de los impuestos o derechos que correspondan.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+El sacrificio de animales en todo momento deberá ser supervisado por el médico veterinario designado por la autoridad municipal competente, quien habrá de verificar que se realice conforme a lo dispuesto en esta Ley y su Reglamento, Ley de Salud del Estado de Querétaro, Ley Federal de Sanidad Animal y demás normas oficiales mexicanas.
 
 ###### Artículo 74.
 
@@ -739,15 +797,19 @@ El médico veterinario o el médico veterinario zootecnista autorizado por la au
 
 El funcionamiento de los rastros lo autorizarán los Presidentes Municipales y la propia autoridad municipal obligará a que se cumplan los Reglamentos sanitarios en vigor y las demás disposiciones legales aplicables a este tipo de establecimientos.
 
-###### Artículo 77.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
-Los administradores o encargados de los rastros deberán ser personalmente responsables de la legalidad de los sacrificios que se realicen en los establecimientos a su cargo y de que se cubran los impuestos o derechos respectivos, estando obligados a llevar un registro en el que por orden y fecha anotarán la entrada de los animales al rastro, procedencia, nombre o nombres de los vendedores y del comprador, la fecha del sacrificio; reservando una columna para la anotación de circunstancias imprevistas que llegaran a presentarse.
+###### Articulo 77.
+
+Los administradores o encargados de los rastros serán los responsables de la legalidad de los sacrificios que se realicen en los establecimientos a su cargo y de que se cubran los impuestos o derechos respectivos, estando obligados a llevar un registro en el que por orden y fecha anotarán la entrada de los animales al rastro, procedencia, nombre o nombres de los vendedores y del comprador, número de folio de la Guía de Tránsito Pecuaria y la fecha del sacrificio, reservando una columna para la anotación de circunstancias imprevistas que llegaran a presentarse.
 
 No se permitirá el sacrificio de ganado cuando no se muestre la documentación a que hace referencia el artículo 27 de esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 78.
 
-Si por omisión, contravención o alteración de los registros anteriores se sacrificara ilegalmente un animal o dejaran de pagarse los impuestos o derechos correspondientes, se presumirá que el administrador o encargado del rastro es copartícipe de los delitos de abigeato o de fraude al fisco, según el caso, a cuyo efecto la Autoridad competente hará la consignación respectiva al Ministerio Público.
+Si por omisión, contravención o alteración de los registros anteriores se sacrificara ilegalmente un animal o dejaran de pagarse los impuestos o derechos correspondientes, él o los responsables serán sancionados conforme a esta Ley y se hará del conocimiento de la autoridad competente para determinar su responsabilidad penal o administrativa, si la hubiere.
 
 ###### Artículo 79.
 
@@ -803,13 +865,33 @@ El Ejecutivo del Estado podrá celebrar convenios con los municipios de cada reg
 
 ### CAPÍTULO I. De las Sanciones
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 88.
 
 Las sanciones por las violaciones a esta Ley serán determinadas en base a la misma por la Secretaría.
 
 Las oficinas recaudadoras de la Secretaría de Planeación y Finanzas serán las encargadas de recibir el pago de dichas sanciones.
 
-Las sanciones serán impuestas, independientemente de las que resulten de la aplicación de la legislación penal o civil, debiéndose tomar en cuenta la gravedad de la infracción y las circunstancias económicas del infractor.
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 88 Bis.
+
+Se consideran sanciones administrativas:
+
+I. Amonestación con apercibimiento;
+
+II. Revocación de las certificaciones, permisos, autorizaciones y aprobaciones;
+
+III. Negativa temporal o permanente de certificados zoosanitarios;
+
+IV. Multa;
+
+V. Suspensión temporal;
+
+VI. Cancelación del registro de identificación; y
+
+VII. Clausura total o parcial.
 
 ###### Artículo 89.
 
@@ -839,9 +921,37 @@ X. Al que permita apacentar a sus animales a orillas de las carreteras, calles, 
 
 XI. Al que impida o límite la inspección y verificación del animal se le impondrá una multa de 100 a 200 días de salario mínimo;
 
-XII. Al que incumpla con las disposiciones contenidas en esta Ley y su Reglamento será sujeto de las sanciones que determine la Secretaría; y
+XII. Al que incumpla con las disposiciones contenidas en esta Ley y su Reglamento será sujeto de las sanciones que determine la Secretaría; y (sic)
 
-XIII. Para los efectos de lo dispuesto en el presente artículo, por salario mínimo, deberá entenderse al vigente en la capital del Estado al momento de cometerse la infracción.
+XIII. Para los efectos de lo dispuesto en el presente artículo, por salario mínimo, deberá entenderse al vigente en la capital del Estado al momento de cometerse la infracción;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+XIV. Falsificar o alterar certificados zoosanitarios, actas de verificación y demás documentos oficiales zoosanitarios, en cuyo caso se impondrá una multa de doscientos a quinientos días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+XV. A quien incurra en las conductas prohibidas en los artículos 25 y 26 de esta Ley, se le impondrá a una multa de treinta a cien días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+XVI. Al que incumpla lo dispuesto por el artículo 41 de esta Ley, se le impondrá multa de cien a cuatrocientos días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+XVII. A quien incurra en las conductas prohibidas en el artículo 44 de esta Ley, se impondrá multa de treinta a cien días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+XVIII. Incumplir lo establecido en el artículo 52 de esta Ley, en cuyo caso se impondrá multa de treinta a doscientos días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+XIX. Al que no informe a la autoridad competente la presencia de una enfermedad o plaga de animales, que sea de notificación obligatoria en los tiempos establecidos en la normatividad oficial y demás ordenamientos legales, se impondrá una multa de cuatrocientos a mil días de salario mínimo; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+XX. Al que incurra en lo dispuesto por el artículo 78 de esta Ley, se le impondrá una multa de cuatrocientos a mil días de salario mínimo.
 
 ###### Artículo 90.
 
@@ -855,11 +965,55 @@ Las sanciones pecuniarias a que se refiere este capítulo, se considerarán cré
 
 A efecto de lo dispuesto en el artículo anterior, se instituye un fondo revolvente del 80 por ciento de lo recaudado a favor del Comité Estatal para el Fomento y Protección Pecuaria del Estado, S.C., a fin de cumplir con las atribuciones establecidas en esta Ley, su Reglamento y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 93.
 
-Los actos o resoluciones que se dicten en los términos de esta Ley y su Reglamento se podrán impugnar conforme a lo establecido en la Ley de Procedimientos Administrativos para el Estado y Municipios.
+La Secretaría podrá suspender la actividad en los establecimientos por tiempo indefinido, hasta en tanto no se repare la causa que dio origen a ésta o determinar su clausura parcial o definitiva, sin perjuicio de la imposición de las multas establecidas en el artículo 89, cuando:
 
-### CAPÍTULO II. De la Defensa de Particulares
+I. Se contravenga lo dispuesto por las normas oficiales mexicanas aplicables; o
+
+II. Se infrinja lo dispuesto por los artículos 73 y 78 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 94.
+
+Con independencia de las sanciones señaladas en el presente Capítulo, cuando se infrinja lo dispuesto por los artículos 15, 34, 73, 78 y 81, se hará del conocimiento de las autoridades competentes para que se dé inicio al procedimiento que señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro y conforme a ésta, se establezca la sanción correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 95.
+
+En caso de reincidencia se podrá aplicar multa hasta por el doble de las cantidades señaladas en el artículo 89 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 96.
+
+Para la imposición de las sanciones, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, al igual que los antecedentes, circunstancias personales y situación socioeconómica del infractor, debiendo conceder previamente audiencia al interesado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 97.
+
+Las sanciones que se señalan en este Capítulo, se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 98.
+
+Las multas impuestas por la infracción a esta Ley, serán determinadas como créditos fiscales, mismos que se harán efectivos a través del Procedimiento Administrativo de Ejecución por la Secretaría de Planeación y Finanzas del Estado.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 7 DE NOVIEMBRE DE 2007)
+
+### CAPITULO II. DE LOS RECURSOS
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 99.
+
+Los actos o resoluciones que se dicten en los términos de esta Ley y su Reglamento, se podrán impugnar conforme a lo establecido en la Ley de Procedimientos Administrativos para el Estado y municipios.
 
 ## TRANSITORIOS
 
@@ -906,3 +1060,15 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
