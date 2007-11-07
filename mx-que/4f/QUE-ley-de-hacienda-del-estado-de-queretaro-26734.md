@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2006-12-22"
+last_updated: "2007-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -2167,13 +2167,15 @@ Por los servicios consistentes en publicar en el Periódico Oficial de Gobierno 
 
 El pago de las cantidades mencionadas conforme al presente artículo no genera derecho a la adquisición gratuita del ejemplar o ejemplares en que se haya realizado la publicación.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 124.
 
 Por los servicios que preste el Registro Civil, se causarán y pagarán los siguientes derechos:
 
 (VEASE ARCHIVO ANEXO)
+
+El Registro Civil expedirá sin costo alguno la certificación de actas de nacimiento para personas con discapacidad y adultos mayores, cuando la autoridad federal, estatal o municipal o bien el interesado lo tramiten.
 
 ### CAPÍTULO DÉCIMO. SERVICIOS PRESTADOS POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
 
@@ -3338,3 +3340,17 @@ Para efectos de la Ley que Regula el Almacenaje, Venta, Porteo y Consumo de Bebi
 ###### ARTÍCULO CUARTO.
 
 Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 7 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado " La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El Estado y los Municipios de Querétaro, para el ejercicio fiscal 2007, podrán aplicar esta Ley sin perjuicio a lo que establezcan sus leyes de ingresos vigentes.
+
+###### ARTÍCULO TERCERO.
+
+Para el ejercicio fiscal 2008, el Estado y los Municipios de Querétaro deberán considerar en sus respectivas iniciativas de leyes de ingresos esta disposición.
