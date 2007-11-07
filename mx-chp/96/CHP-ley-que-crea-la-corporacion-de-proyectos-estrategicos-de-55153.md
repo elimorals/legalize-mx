@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-la-corporacion-de-proyectos-estrategicos-de-55153"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-28"
-last_updated: "2007-02-28"
+last_updated: "2007-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY QUE CREA LA CORPORACION DE PROYECTOS ESTRATEGICOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 320, PUBLICADO EN EL P.O. DE 7 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 28 de febrero de 2007.
 
@@ -396,3 +398,11 @@ Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 23 días del mes de febrero del año 2007.
 
 Juan José Sabines Guerrero, Gobernador Constitucional del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE NOVIEMBRE DE 2007.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
