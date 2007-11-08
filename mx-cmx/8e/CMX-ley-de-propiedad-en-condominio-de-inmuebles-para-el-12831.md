@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-propiedad-en-condominio-de-inmuebles-para-el-12831"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2003-01-16"
+last_updated: "2007-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12831&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-28"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Sexta del Diario Oficial de la Federación, el jueves 31 de diciembre de 1998.
 
@@ -605,6 +605,10 @@ En estos supuestos no serán considerados para el quórum de instalación de la 
 Los condominios serán administrados por la persona física o moral que designe la Asamblea General en los términos de esta Ley y el Reglamento. Cuando exista un impedimento material o estructural que dificulte la organización condominal o los condóminos tengan una forma tradicional de organización, se podrá nombrar administración por edificios, alas, secciones, zonas, manzanas, entradas y áreas, y en aquellos casos en que el condominio tenga más de una entrada, los condominios podrán optar por la organización, por acceso o módulo, siempre y cuando se trate de asuntos de áreas internas en común que sólo dan servicio a quienes habitan esa sección del condominio.
 
 Se prohíbe la organización fragmentada dentro de las secciones y si el acceso es compartido por dos alas, no se permitirá la organización separada de éstas.
+
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+Las atribuciones de quienes tengan carácter de administrador, miembro del comité de administración o del comité de vigilancia de un condominio, establecido en los artículos 43 y 47 de esta Ley, serán conforme lo que determina el presente ordenamiento, sin atribuirse la representación vecinal que determina la Ley de Participación Ciudadana del Distrito Federal, aún cuando se tratara de las mismas personas.
 
 ###### ARTÍCULO 38.
 
@@ -1239,3 +1243,9 @@ G.O. 16 DE ENERO DE 2003.
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente decreto entrará en vigor 30 días posteriores a su publicación.
+
+G.O. 8 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al siguiente día de su publicación.
