@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2007-08-01"
+last_updated: "2007-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -887,9 +887,13 @@ La Secretaría promoverá y desarrollará programas de nutrición con la partici
 
 Corresponde a la Secretaría:
 
-I.- Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
-II.- Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
+I.- Establecer un sistema permanente de vigilancia epidemiológica de la nutrición, implementando los mecanismos necesarios para su seguimiento;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+II.- Normar el desarrollo de los programas y actividades de educación en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
 
 III.- Normar el establecimiento, operación y evaluación de servicios de nutrición, en la (sic) zonas que se determinen, en función de las mayores carencias y problemas de salud;
 
@@ -2334,3 +2338,9 @@ El Ejecutivo del Estado podrá realizar las reasignaciones de recursos necesario
 ###### ARTICULO SEXTO.
 
 El proyecto de Reglamento del Consejo Estatal de Trasplantes será propuesto por sus integrantes al Ejecutivo del Estado dentro de los noventa días naturales contados a partir de la fecha de la sesión de instalación del mismo.
+
+P.O. 8 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
