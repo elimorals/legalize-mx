@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2007-05-15"
+last_updated: "2007-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -126,9 +126,11 @@ XVIII.- El Consejo de la Crónica: El Consejo de la Crónica de la Ciudad de Mé
 
 ### Capítulo Único. Objetivos generales
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 5.
 
-Para el cumplimiento de la presente Ley, las autoridades culturales atenderán los objetivos siguientes:
+Para el cumplimento de la presente Ley, las autoridades culturales tienen la obligación de desarrollar y observar los objetivos siguientes:
 
 I. Diseñar y normar las políticas, programas y acciones de investigación, difusión, promoción y preservación de la cultura, así como impulsar, desarrollar, coordinar y ejecutar todo tipo de actividades culturales;
 
@@ -294,6 +296,8 @@ La Secretaría de Cultura ratificará, actualizará o en su caso establecerá, a
 
 ### Capítulo II. Del Jefe de Gobierno del Distrito Federal
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 18.
 
 Son autoridades encargadas de la aplicación de la presente Ley:
@@ -312,7 +316,7 @@ IV. Las delegaciones.
 
 ###### ARTÍCULO 19.
 
-Son atribuciones del Jefe de Gobierno en materia de cultura:
+En materia cultural el Jefe de Gobierno tiene las siguientes facultades y obligaciones:
 
 I. Definir en el Programa General de Desarrollo del Distrito Federal, los objetivos y estrategias para la preservación, investigación, promoción, fomento, difusión y en general la Política Cultural;
 
@@ -470,19 +474,31 @@ I. La Secretaría de Cultura;
 
 II. La Secretaría de Desarrollo Social;
 
-III. La Secretaría de Turismo;
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+III. La Secretaría de Educación,
+
+IV. La Secretaría de Turismo;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+V. El Instituto de Ciencia y Tecnología,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE FEBRERO DE 2007)</small>
 
-IV. La Secretaría de Desarrollo Rural y Equidad para las Comunidades;
+VI. La Secretaría de Desarrollo Rural y Equidad para las Comunidades;
 
 > <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
 
-V. Los integrantes de la Mesa Directiva de la Comisión de Fomento Cultural de la Asamblea Legislativa del Distrito Federal; y
+VII. Los integrantes de la Mesa Directiva de la Comisión de Fomento Cultural de la Asamblea Legislativa del Distrito Federal; y
 
-VI. Diez representantes de la comunidad artística y cultural.
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
-Los Consejeros integrantes de la comunidad artística y cultural deberán ser nombrados por el titular de la Jefatura de Gobierno del Distrito Federal, mediante un proceso de auscultación pública, diseñado y propuesto por los integrantes considerados en las fracciones I a IV de este artículo, observando en todo momento los principios de democracia, transparencia y equidad, dirigida a los creadores, artistas, promotores culturales, organizaciones, asociaciones culturales y a la comunidad artística y cultural en general.
+VIII. Doce representantes de la comunidad artística y cultural.
+
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+Los Consejeros integrantes de la comunidad artística y cultural deberán ser nombrados por el titular de la Jefatura de Gobierno del Distrito Federal, mediante un proceso de auscultación pública, diseñado y propuesto por los integrantes considerados en las fracciones I a VI de este artículo, observando en todo momento los principios de democracia, transparencia y equidad, dirigida a los creadores, artistas, promotores culturales, organizaciones, asociaciones culturales y a la comunidad artística y cultural en general.
 
 Los titulares de cada una de las delegaciones podrán ser invitados a las reuniones del Consejo.
 
@@ -512,9 +528,11 @@ El plan de trabajo lo emitirá la instancia correspondiente, en un plazo no mayo
 
 Cuando el Consejo trate problemas que requieran opiniones especializadas, solicitará expresamente, a través de su Presidente, la opinión de las instituciones académicas de carácter público o social, nacionales o internacionales.
 
-###### ARTÍCULO 31.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
-Los integrantes del Consejo a que se refiere la fracción V del artículo 25, no podrán durar en el encargo, más allá del periodo de la Administración que los eligió. El cargo de consejero tendrá carácter honorario. Para suplir las ausencias o separaciones, se atenderá lo establecido en el artículo 25.
+###### Artículo 31.
+
+Los integrantes del Consejo a que se refiere la fracción VII del artículo 25, no podrán durar en el encargo, más allá del periodo de la Administración que los eligió. El cargo de consejero tendrá carácter honorario. Para suplir las ausencias o separaciones, se atenderá lo establecido en el artículo 25.
 
 > <small>(REFORMADO, G.O. 3 DE MARZO DE 2006)</small>
 
@@ -977,3 +995,15 @@ SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de 
 G.O. 15 DE MAYO DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federa y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 8 DE NOVIEMBRE DE 2007.
+
+DECRETO POR EL QUE SE REFORMA LOS ARTICULOS 25 Y 31.
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 8 DE NOVIEMBRE DE 2007.
+
+DECRETO POR EL QUE SE REFORMA LOS ARTICULOS 5 Y 19.
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
