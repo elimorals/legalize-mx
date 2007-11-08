@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2007-05-09"
+last_updated: "2007-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -189,7 +189,9 @@ II.- Promover y prestar de manera concurrente con la SEP, servicios educativos d
 
 III.- Planificar, programar, evaluar y promover la cobertura y las modalidades del Sistema Educativo Estatal, considerando la opinión de los sectores sociales;
 
-IV.- Proponer a la SEP los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, secundaria, la normal y demás para la formación de maestros de educación básica;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+IV.- Proponer a la SEP los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, secundaria, la normal y demás para la formación de maestros de educación básica. En tales contenidos promoverá asignaturas o unidades sobre orientación nutricional y el fomento de valores y prácticas sanas y saludables de alimentación, así mismo tomará en cuenta medidas para propiciar la actividad física en los planteles educativos;
 
 V.- Fomentar, apoyar y difundir las actividades científicas, tecnológicas, de educación física, recreativas y culturales en todas sus manifestaciones;
 
@@ -211,7 +213,7 @@ XIII.- Disponer del uso temporal de los planteles educativos oficiales para albe
 
 XIV.- Revalidar y otorgar equivalencias de estudios de la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la SEP expida, y la Ley General;
 
-XV.- Impulsar el desarrollo de la enseñanza tecnológica, creando al efecto las nuevas instituciones que requiera el Estado, de acuerdo a las necesidades de la sociedad.
+XV.- Impulsar el desarrollo de la enseñanza tecnológica, creando al efecto las nuevas instituciones que requiera el Estado, de acuerdo a las necesidades de la sociedad;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
 
@@ -259,7 +261,11 @@ XIV.- Fomentar las actividades de educación física, artísticas, culturales y 
 
 XV.- Designar el nombre que llevarán las escuelas de nueva creación, de una terna propuesta por las autoridades y padres de familia del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad; y
 
-XVI.- Las demás que le establezcan las disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+XVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, atendiendo a sus respectivos ámbitos de competencia, las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo para el fomento de buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, padres de familia y educandos del Sistema Estatal de educación; y
+
+XVII.- Las demás que le establezcan las disposiciones aplicables.
 
 #### SECCION TERCERA. ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
@@ -847,9 +853,17 @@ II.- Colaborar por una mejor integración de la comunidad escolar, así como en 
 
 III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios, que las propias asociaciones deseen hacer al establecimiento escolar;
 
-IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
-V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
+IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+VI.- Coadyuvar con las autoridades escolares en el fomento de buenas prácticas nutricionales, en el diseño de programas y planes de alimentación saludable que el Estado, a través de las Secretarias de Salud y Educación y el Sistema de Desarrollo Integral de la Familia del Estado de Tamaulipas en su caso, considere convenientes.
 
 Las asociaciones de padres de familia se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
 
@@ -1248,3 +1262,9 @@ P.O. 9 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
