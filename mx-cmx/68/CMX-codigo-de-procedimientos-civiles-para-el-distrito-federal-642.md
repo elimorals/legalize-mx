@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2007-07-18"
+last_updated: "2007-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2908,7 +2908,7 @@ En caso de impugnación de falsedad de un documento, se observará lo dispuesto 
 
 (REUBICADA, D.O.F. 14 DE MARZO DE 1973)
 
-### CAPITULO VI. De la recepción oral de las pruebas
+### CAPITULO V. De la forma escrita en la recepción de pruebas
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -3364,7 +3364,7 @@ ARTICULO 401 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-### CAPITULO V. De la forma escrita en la recepción de pruebas
+### CAPITULO VI. De la recepción oral de las pruebas
 
 ### CAPITULO VII. Del valor de las pruebas
 
@@ -4142,15 +4142,23 @@ Lo mismo se practicará cuando la cantidad ilíquida proceda de frutos, rentas o
 
 ARTICULO 517
 
-Si la sentencia condena a hacer alguna cosa, el juez señalará al que fue condenado un plazo prudente para el cumplimiento, atendidas las circunstancias de el (sic) hecho y de las personas.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
-Si pasado el plazo el obligado no cumpliere, se observará (sic) las reglas siguientes:
+Si la sentencia condena a hacer alguna cosa, el juez señalará al que fue condenado a un plazo prudente para el cumplimiento, atendidas las circunstancias del hecho y de las personas.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes:
 
 I.- Si el hecho fuere personal del obligado y no pudiere prestarse por otro, se le compelerá empleando los medios de apremio más eficaces, sin perjuicio del derecho para exigirle la responsabilidad civil;
 
 II.- Si el hecho pudiere prestarse por otro, el juez nombrará persona que lo ejecute a costa del obligado en el término que le fije;
 
 III.- Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, el juez lo ejecutará por el obligado, expresándose en el documento que se otorgó en rebeldía.
+
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+Si el documento consiste en una escritura pública el juez previamente pondrá los autos a disposición del notario que designe la parte en cuyo favor se dictó la sentencia. Al devolver el notario el expediente haciendo saber que se encuentra preparada la escritura para su otorgamiento, el juez fijará el plazo en que deberá comparecer el obligado a firmarla, apercibido que de no hacerlo el propio juez la firmará según lo antes dispuesto.
 
 > <small>(REFORMADO, G.O. 16 DE ENERO DE 2003)</small>
 
@@ -4608,9 +4616,11 @@ Aprobado el remate, se prevendrá al comprador que consigne ante el propio juez,
 
 Si el comprador no consignare el precio en el plazo que el juez señale, o por su culpa dejare de tener efecto la venta, se procederá a nueva subasta como si no se hubiera celebrado, perdiendo el postor el depósito a que se refiere el artículo 574 que se aplicará por vía de indemnización por partes iguales, al ejecutante y al ejecutado.
 
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
 ARTICULO 589
 
-Consignado el precio, se hará saber al deudor que dentro del tercero día otorgue la escritura de venta a favor del comprador, apercibido que de no hacerlo, el juez lo hará en su rebeldía, haciéndolo constar así.
+Consignado el precio el juez firmará la escritura en que se formalice la adjudicación fincada en favor del adquirente ante el Notario que éste designe.
 
 ARTICULO 590
 
@@ -8313,3 +8323,9 @@ El presente decreto entrará en vigor a partir del día siguiente de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Para su mayor difusión, publíquese el presente decreto en el Diario Oficial de la Federación.
+
+G.O. 8 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
