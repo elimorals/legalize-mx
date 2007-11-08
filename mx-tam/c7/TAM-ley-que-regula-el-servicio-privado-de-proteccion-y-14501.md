@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-regula-el-servicio-privado-de-proteccion-y-14501"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-05"
-last_updated: "2006-09-06"
+last_updated: "2007-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14501&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY QUE REGULA EL SERVICIO PRIVADO DE PROTECCION Y VIGILANCIA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA REGULAR LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 8 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno de Tamaulipas, el sábado 5 de junio de 1999.
 
@@ -288,3 +290,15 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que regula el Servicio Privado de Protección y Vigilancia para el Estado de Tamaulipas, expedida mediante Decreto 26 de la LVII Legislativa del Estado del 27 de mayo de 1999, publicada en el Periódico Oficial del Estado número 45 del 5 de junio de 1999, y su reforma expedida mediante Decreto número LlX-563 del 8 de agosto de 2006, publicado en el Anexo del Periódico Oficial del Estado número 107 del 6 de septiembre de 2006.
