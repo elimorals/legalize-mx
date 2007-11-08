@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bienes-del-estado-y-municipios-de-tamaulipas-43189"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2006-09-06"
+last_updated: "2007-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -362,6 +362,10 @@ f) La reinversión que se haga para el mejoramiento de las instalaciones y del s
 2. El incumplimiento a lo dispuesto en el párrafo anterior, producirá la nulidad de pleno derecho del acto respectivo y la autoridad competente podrá proceder a la recuperación administrativa del inmueble sin necesidad de declaración judicial o administrativa alguna.
 
 3. También procede la recuperación administrativa en términos de este artículo, cuando quien use o se aproveche de los bienes del dominio público o de dominio privado, estatales o municipales, no tenga la concesión, autorización, permiso o licencia, o éstas se hayan extinguido, cancelado, anulado o revocado.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+4. Entratándose (sic) de los frutos, excedentes de producción o del resultado de la reproducción de especies de fauna silvestre en cautiverio, así como las derivadas de donación o hallazgo bastará con la aprobación del órgano de gobierno del organismo público descentralizado del ramo de la materia, para que se puedan ejercer los actos jurídicos y materiales que entrañen la enajenación de los ejemplares y bienes muebles de que se trate.
 
 ### CAPITULO QUINTO. DEL REGIMEN JURIDICO DE LOS BIENES DEL DOMINIO PRIVADO
 
@@ -702,5 +706,11 @@ ATENTAMENTE - SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DE
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
