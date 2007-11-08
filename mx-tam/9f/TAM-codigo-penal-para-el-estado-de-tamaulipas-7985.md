@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2007-08-22"
+last_updated: "2007-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -311,7 +311,7 @@ No se aplicará la pena correspondiente a la tentativa, cuando fuera absolutamen
 
 ## TITULO TERCERO. CAUSAS QUE EXCLUYEN EL DELITO Y LA RESPONSABILIDAD
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO I. AUSENCIA DE CONDUCTA Y ATIPICIDAD
 
@@ -581,7 +581,7 @@ Quienes cumplan prisión intermitente, en los periodos que deban internarse perm
 
 II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales, educativas o no lucrativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
 
-El trabajo en favor de la comunidad puede ser pena sustitutiva la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
+El trabajo en favor de la comunidad puede ser pena sustitutiva de la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
 
 Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante al condenado.
 
@@ -1547,7 +1547,9 @@ Cometen el delito de asonada o motín los que para hacer uso de un derecho o pre
 
 A los responsables del delito previsto en el artículo anterior se les impondrá sanción de seis meses a cuatro años de prisión y multa de quince a sesenta días salario.
 
-### CAPITULO I. ATAQUES A LOS MEDIOS DE TRANSPORTE Y VIAS DE COMUNICACION
+### CAPITULO I. ATAQUES A LOS MEDIOS DE TRANSPORTE, VIAS DE COMUNICACION Y SISTEMAS DE AUXILIO A LA POBLACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 156.
 
@@ -1693,17 +1695,23 @@ b) Se utilice a niños, niñas, adolescentes o a quienes no tienen la capacidad 
 
 ## TITULO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE, VIAS DE COMUNICACION Y CORRESPONDENCIA
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
 ### CAPITULO II. CORRUPCION DE MENORES E INCAPACES, PORNOGRAFIA INFANTIL Y PROSTITUCIÓN SEXUAL DE MENORES E INCAPACES
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 172.
 
-Comete el delito de ataques a las vías de comunicación:
+Comete el delito de ataques a las vías de comunicación y utilización indebida de los sistemas de auxilio a la población:
 
-I.- El que obstruya, dañe o destruya alguna vía pública de comunicación estatal o cualquier medio de transporte público local, sea de pasajeros o de carga, interrumpiendo o dificultando los servicios de uno u otro; y
+I.- El que obstruya, dañe o destruya alguna vía pública de comunicación estatal o cualquier medio de transporte público local, sea de pasajeros o de carga, interrumpiendo o dificultando los servicios de uno u otro; y (sic)
 
 II.- El que quite, corte, deteriore, apague, cambie o destruya las señales o luces de seguridad de una vía pública de comunicación estatal o coloque alguna no autorizada.
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+III.- El que dolosamente solicite un servicio a los sistemas estatales o municipales de comunicación de auxilio a la población, que impida o cause un perjuicio o trastorno que afecten el buen funcionamiento de dichos sistemas.
 
 ###### ARTICULO 173.
 
@@ -2871,7 +2879,7 @@ Sí el delito establecido en este artículo es cometido por un Servidor Público
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
 
-Las Autoridades garantizarán que la información que brinden no contravenga el derecho que prevé este artículo.
+Las Autoridades garantizarán que la información que brinden no contravenga el derecho que prevé este artículo..
 
 ## TITULO DECIMO TERCERO. DELITOS CONTRA LA FAMILIA Y EL ESTADO CIVIL
 
@@ -3263,7 +3271,7 @@ Comete el delito de homicidio el que priva de la vida a otro.
 
 ###### ARTICULO 330.
 
-Para la aplicación de las sanciones que correspondan al que infrinja el artículo, se tendrá como mortal una lesión cuando concurran las siguientes circunstancias:
+Para la aplicación de las sanciones que correspondan al que infrinja el artículo anterior, se tendrá como mortal una lesión cuando concurran las siguientes circunstancias:
 
 I.- Que la muerte se deba a las alteraciones causadas por la lesión en el o los órganos interesados, algunas de sus consecuencias inmediatas o alguna complicación determinada por la misma lesión y que no pudo combatirse, ya sea por ser incurable o por no tenerse al alcance los recursos necesarios; y
 
@@ -4557,9 +4565,9 @@ DECRETO No. LIX-916 POR EL QUE SE REFORMA EL ARTICULO 383 Y SE DEROGAN LOS ARTIC
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-DECRETO No. LIX-917 POR EL QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 279 TER DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
-
 P.O. 4 DE JULIO DE 2007.
+
+DECRETO No. LIX-917 POR EL QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 279 TER DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4604,6 +4612,12 @@ DECRETO No. LIX-965
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
