@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2007-08-21"
+last_updated: "2007-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -79,9 +79,11 @@ V.- Los reglamentos, acuerdos, circulares y disposiciones administrativas de obs
 
 El Gobernador del Estado tendrá el mando de la fuerza pública en los Municipios donde resida habitual o transitoriamente.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 7o.
 
-Para el desarrollo armónico de las funciones públicas encomendadas al Gobierno del Estado y a los Ayuntamientos, procurarán éstos recurrir al conducto del Ejecutivo cuando se efectúen gestiones de cualquier índole ante la Federación o los Poderes Legislativo y Judicial del Estado.
+Para el desarrollo armónico de las funciones públicas encomendadas al Gobierno del Estado y a los Ayuntamientos, podrán éstos recurrir, en caso de ser necesario, al conducto del Ejecutivo cuando se efectúen gestiones de cualquier índole ante la federación o los poderes Legislativo y Judicial del Estado.
 
 ###### ARTICULO 8o.
 
@@ -3652,3 +3654,9 @@ El Instituto de Mediación del Estado de Tamaulipas se establecerá con base en 
 ###### ARTÍCULO TERCERO.
 
 Dentro de los seis meses posteriores a la entrada en vigor de este Decreto, el Pleno del Supremo Tribunal de Justicia del Estado expedirá el Reglamento Interno a que se refiere el artículo 25 de la Ley de Mediación para el Estado de Tamaulipas.
+
+P.O. 8 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
