@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-civil-para-el-distrito-federal-25387"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-23"
-last_updated: "2007-04-30"
+last_updated: "2007-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25387&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-05-07"
 
 LEY DE PROTECCION CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de julio de 2002.
 
@@ -174,6 +174,10 @@ XXXVII. Zona de Desastre: Espacio territorial determinado en el tiempo por la de
 
 La Secretaría emitirá las normas técnicas complementarias y términos de referencia en las que se establecerán los requisitos, especificaciones, condiciones y parámetros que deberán observarse en el desarrollo de actividades o acciones que incidan en materia de protección civil.
 
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+Las normas técnicas complementarias y términos de referencia a que se refiere el párrafo anterior, deberán incluir medidas específicas para las personas con discapacidad y para las personas adultas mayores.
+
 ## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y POLÍTICA DE PROTECCIÓN CIVIL
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES
@@ -234,9 +238,9 @@ X.- Coordinar la participación de los grupos voluntarios en la atención a las 
 
 XI.- Fomentar la participación de los integrantes del Consejo en acciones encaminadas a incrementar la cultura, educación y capacitación de la sociedad en materia de Protección Civil;
 
-> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
-XII.- Establecer los planes y programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de agentes perturbadores;
+XII.- Establecer los planes y programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de agentes perturbadores; las medidas y acciones que contengan, tomarán en cuenta en cada una de sus fases, las condiciones de vulnerabilidad de las mujeres frente a los desastres;
 
 > <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2007)</small>
 
@@ -260,7 +264,9 @@ Corresponde a los Jefes Delegaciones, en materia de protección civil, las sigui
 
 I.- Constituir un Consejo Delegacional de Protección Civil en los términos del Título Cuarto, Capítulo II de esta Ley;
 
-II.- Instalar y operar la Unidad de Protección Civil que coordinará las acciones en la materia;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+II.- Instalar y operar la Unidad de Protección Civil que coordinará las acciones en la materia, en la que se fomentará la integración y participación de mujeres en espacios de toma de decisión;
 
 III.- Formular y ejecutar el Programa Delegacional de Protección Civil;
 
@@ -320,13 +326,21 @@ IV. La prevención es el medio más eficaz para alcanzar los objetivos de la pro
 
 V. Toda persona tiene derecho a la salvaguarda y protección de su vida, sus bienes y su entorno;
 
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+V. Bis. Las características especiales de las personas con discapacidad y de las personas adultas mayores, serán tomadas en cuenta a fin de proteger su integridad, así como la eliminación de barreras físicas que dificulten su desplazamiento, principalmente en las rutas de evacuación. Asimismo se fomentará la adopción de conductas para su autoprotección y autopreparación en caso de emergencia, siniestro o desastre;
+
 VI. El diseño, construcción, operación y mantenimiento de los sistemas estratégicos y servicios vitales son aspectos fundamentales de la protección civil;
 
 VII. Quienes realicen actividades que incrementen el nivel de riesgo, tienen el deber de observar las normas de seguridad y de informar veraz, precisa y oportunamente a la autoridad sobre la inminencia u ocurrencia de una calamidad y, en su caso, de asumir las responsabilidades legales a que haya lugar;
 
 VIII. Cuando las autoridades realicen actividades que incrementen el nivel de riesgo deberán dar cumplimiento a lo dispuesto en la fracción anterior, además de hacerlo del conocimiento de la comunidad en forma oportuna y veraz; y,
 
-IX. La participación corresponsable de la sociedad es fundamental en la formulación de la política de protección civil, la aplicación y evaluación de sus instrumentos, en acciones de información y vigilancia y en todo tipo de acciones de protección civil que emprenda la Administración Pública del Distrito Federal.
+IX. La participación corresponsable de la sociedad es fundamental en la formulación de la política de protección civil, la aplicación y evaluación de sus instrumentos, en acciones de información y vigilancia y en todo tipo de acciones de protección civil que emprenda la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+X.- El enfoque de género en la definición de políticas públicas en la prevención, auxilio y recuperación de los desastres.
 
 ## TÍTULO TERCERO. DEL SISTEMA DE PROTECCIÓN CIVIL Y DE LA PARTICIPACIÓN SOCIAL
 
@@ -380,7 +394,9 @@ La Secretaría o las Delegaciones, a más tardar dentro de los 15 días siguient
 
 Dentro de las acciones que promueva la Administración Pública del Distrito Federal para la participación social en materia de protección civil se observará lo siguiente:
 
-I.- Convocar a representantes de las organizaciones civiles, obreras, empresariales, de las comunidades, de instituciones educativas, de instituciones privadas y de otros representantes de la sociedad, para que manifiesten su opinión y propuesta;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+I.- Convocar a representantes de las organizaciones civiles, obreras, empresariales, de las comunidades, de grupos vulnerables como personas con discapacidad y personas adultas mayores, de instituciones educativas, de instituciones privadas, y de otros representantes de la sociedad, para que manifiesten su opinión y propuesta;
 
 II.- Impulsar reconocimientos a los esfuerzos más destacados de la sociedad;
 
@@ -762,9 +778,13 @@ V.- Evaluación y diagnóstico de riesgos, así como del impacto social, económ
 
 VI.- Destacar la necesidad de que la operatividad de la Protección Civil gira en torno al Sistema de Protección Civil del Distrito Federal y su coordinación con el Sistema Nacional, incluyendo las acciones emprendidas por las unidades del Sistema Delegacional, toda vez que son éstas, las responsables de atender, como organismos de primera respuesta, las situaciones de emergencia;
 
-VII.- Impulsar la investigación científica y el desarrollo tecnológico enfocado específicamente a la prevención y actuación ante los desastres; y,
+VII.- Impulsar la investigación científica y el desarrollo tecnológico enfocado específicamente a la prevención y actuación ante los desastres; y, (sic)
 
-VIII.- La planeación de los programas básicos de Protección Civil, tomando como marco referencial, el Manual de Organización y Operación del Sistema Nacional de Protección Civil, como parte del cuerpo normativo, así como de los mecanismos que permitan su actualización permanente y perfeccionamiento e instrumentación en todo el territorio del Distrito Federal.
+VIII.- La planeación de los programas básicos de Protección Civil, tomando como marco referencial, el Manual de Organización y Operación del Sistema Nacional de Protección Civil, como parte del cuerpo normativo, así como de los mecanismos que permitan su actualización permanente y perfeccionamiento e instrumentación en todo el territorio del Distrito Federal;
+
+> <small>(ADICIONADA, G.O 8 DE NOVIEMBRE DE 2007)</small>
+
+IX.- Las acciones para atender a las personas con discapacidad y personas adultas mayores, en caso de emergencia, siniestro o desastre, incluirán, de forma enunciativa y no limitativa: las condiciones y especificaciones que deberán tener los refugios temporales, instalaciones especiales para su atención médica y psicológica, las medidas de capacitación y prevención para su apoyo en caso de evacuación y en general todas aquellas acciones y medidas tendientes a preservar su bienestar biopsicosocial.
 
 ###### Artículo 42.
 
@@ -844,11 +864,13 @@ En la primera sesión ordinaria de los Consejos Delegacionales de Protección Ci
 
 Los promotores, organizadores o responsables de la realización de actividades o espectáculos públicos de afluencia masiva en áreas o inmuebles diferentes a su uso habitual, deberán presentar un programa especial de protección civil, acorde con el diagnóstico de riesgo y vulnerabilidad, en los términos dispuestos en el Reglamento de esta Ley.
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 45.
 
-Las políticas y lineamientos para la realización de los Programas Internos y Especiales de Protección civil estarán determinados en el Reglamento de esta Ley y en los Términos de Referencia.
+Las políticas y lineamientos para la realización de los Programas Internos y Especiales de Protección Civil estarán determinados en el Reglamento de esta Ley, en los términos de Referencia y en las Normas Técnicas Complementarias.
+
+Las políticas y lineamientos a que se refiere el párrafo anterior, deberán incluir acciones y medidas pertinentes acorde con las características específicas de cada tipo de discapacidad y de las personas adultas mayores, priorizando la eliminación de barreras físicas en las rutas de evacuación.
 
 ###### Artículo 46.
 
@@ -870,11 +892,25 @@ Los administradores, gerentes o propietarios de inmuebles que de acuerdo a la na
 
 El Programa Interno a que se refiere el artículo anterior, deberá adecuarse a las disposiciones del Programa General y a los Delegacionales, contando para ello con la asesoría técnica gratuita de la Unidad de Protección Civil correspondiente, cuyo trámite y aprobación estará previsto en el reglamento respectivo de la presente Ley.
 
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 48 Bis.
+
+Toda brigada contemplada en los Programas Internos, deberá integrar un registro del número, ubicación y características de las personas con discapacidad y adultos mayores que habiten, laboren, estudien o visiten los inmuebles respectivos. Asimismo, será capacitada acerca de los diferentes tipos de discapacidad, sus características, las técnicas de apoyo y momento oportuno de evacuación.
+
+En caso de emergencia, siniestro o desastre estas personas deberán ser acompañadas y asistidas por uno o varios brigadistas especializados en las técnicas de apoyo para cada tipo de discapacidad.
+
+En los Programas Internos se tomarán en cuenta las medidas para que las personas adultas mayores y las personas con discapacidad sean capacitadas para su autoprotección. También deberán contemplarse acciones específicas con base en las características de las instalaciones y las características particulares de éstas personas.
+
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### Artículo 49.
 
 Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que de acuerdo a su actividad representen mediano o alto riesgo, están obligados a realizar tres simulacros al año, en coordinación con las autoridades competentes.
+
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+En todo inmueble en donde habiten, laboren o estudien personas con discapacidad o personas adultas mayores, se fomentará su participación en los simulacros.
 
 ###### Artículo 50.
 
@@ -1022,6 +1058,8 @@ En situaciones de emergencia o desastre, la Secretaría establecerá los puestos
 
 ### CAPÍTULO IV. DE LAS UNIDADES DE PROTECCIÓN CIVIL DELEGACIONALES
 
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 65.
 
 Es responsabilidad de las Delegaciones coordinar en una primera instancia las acciones para la atención de emergencias en su demarcación, siempre y cuando no se afecten servicios vitales y estratégicos del Distrito Federal o se prevea un encadenamiento de calamidades que pueda afectar a otra Delegación o Entidad Federativa, en cuyo caso, la coordinación será establecida por la Secretaría sin menoscabo de la responsabilidad de éstas.
@@ -1048,7 +1086,7 @@ Las dependencias, órganos desconcentrados y entidades estarán obligados a coad
 
 ###### Artículo 69.
 
-En cada Delegación, se establecerá una Unidad de Protección Civil Delegacional, misma que dependerá de la Dirección General Jurídica y de Gobierno.
+En cada Delegación, se establecerá una Unidad de Protección Civil Delegacional, misma que dependerá de la Dirección General Jurídica y de Gobierno. En su conformación se fomentará la integración de mujeres en espacios de toma de decisiones.
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
 
@@ -1393,3 +1431,17 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE NOVIEMBRE DE 2007.
+
+DECRETO QUE REFORMA LOS ARTICULOS 4, 11, 17, 41, 45 Y 49 Y SE ADICIONA EL ARTICULO 48 BIS.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 8 DE NOVIEMBRE DE 2007.
+
+DECRETO QUE REFORMA LOS ARTICULOS 6 FRACCION XII, 7 FRACCION II Y 69 Y SE ADICIONA UNA FRACCION X AL ARTICULO 11.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
