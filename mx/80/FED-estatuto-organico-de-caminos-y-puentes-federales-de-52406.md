@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-caminos-y-puentes-federales-de-52406"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-13"
-last_updated: "2006-12-13"
+last_updated: "2007-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52406&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-01"
 
 ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 2007.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de diciembre de 2006.
 
@@ -453,7 +453,9 @@ XXI. Atender, según corresponda, los asuntos que les sean presentados por la re
 
 XXII. Otorgar poderes generales y especiales, así como sustituirlos y revocarlos en la esfera de sus atribuciones;
 
-XXIII. Sin perjuicio de la facultad que la fracción I del Artículo 18o. confiere al Director General, corresponde a los Directores Técnico y Jurídico, en forma mancomunada, la representación del Organismo en los procedimientos de rescisión administrativa de los contratos de obras públicas y servicios relacionados con las mismas, en los casos de incumplimiento de los contratistas; así mismo, corresponde a los Directores de Administración y Finanzas y Jurídico, en forma conjunta, la representación del Organismo en los procedimientos de rescisión administrativa de los contratos de adquisiciones, arrendamientos y servicios, en los casos de incumplimiento de los proveedores en los términos de las leyes aplicables;
+> <small>(REFORMADA, D.O.F. 9 DE NOVIEMBRE DE 2007)</small>
+
+XXIII. Sin perjuicio de la facultad que la fracción I del Artículo 18o. confiere al Director General, corresponde a los Directores Técnico y Jurídico, en forma mancomunada, la representación del Organismo para dar inicio a los procedimientos de rescisión administrativa de los contratos de obras públicas y servicios relacionados con las mismas, y emitir la determinación de darlos o no por rescindidos en los casos de incumplimiento de los contratistas previo dictamen elaborado por el área técnica responsable de los trabajos o servicios y valorando, en forma integral, las circunstancias jurídicas y administrativas; asimismo, corresponde a los Directores de Administración y Finanzas y Jurídico, en forma conjunta, la representación del Organismo para dar inicio a los procedimientos de rescisión administrativa de los contratos de adquisiciones, arrendamientos y servicios y emitir la determinación de darlos o no por rescindidos en los casos de incumplimiento de los proveedores previo dictamen elaborado por el área responsable de la adquisición, arrendamiento o servicio y valorando, en forma integral, las circunstancias jurídicas y administrativas, en los términos de las leyes aplicables;
 
 XXIV. Certificar, en el ámbito de su competencia, copias de documentos originales que obren en los archivos del Organismo, exclusivamente para dar cumplimiento a lo señalado en el artículo 42 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
@@ -1488,3 +1490,11 @@ CUARTO.- Se abroga el Estatuto Orgánico de Caminos y Puentes Federales de Ingre
 QUINTO.- El presente Estatuto Orgánico, así como las reformas y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
 
 Dado en la Ciudad de México, Distrito Federal, al primer día de junio de dos mil seis, previa aprobación del mismo en la sesión ordinaria CLXXXVI del H. Consejo de Administración, celebrada el mismo día, mes y año.- El Secretario de Comunicaciones y Transportes y Presidente del Consejo de Administración, Pedro Cerisola y Weber.- Rúbrica.- El Director General de Caminos y Puentes Federales de Ingresos y Servicios Conexos, Manuel Zubiría Maqueo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 9 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
