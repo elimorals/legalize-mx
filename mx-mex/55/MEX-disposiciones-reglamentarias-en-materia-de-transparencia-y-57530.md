@@ -4,7 +4,7 @@ identifier: "MEX-disposiciones-reglamentarias-en-materia-de-transparencia-y-5753
 country: "mx"
 rank: "otro"
 publication_date: "2007-01-31"
-last_updated: "2007-01-31"
+last_updated: "2007-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 DISPOSICIONES REGLAMENTARIAS EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2007.
 
 Disposiciones publicadas en el Órgano Informativo de la Comisión de Derechos Humanos del Estado de México, el miércoles 31 de enero de 2007.
 
@@ -63,17 +63,23 @@ En los términos del artículo 7 del reglamento interno de la Comisión todas la
 
 La Comisión por conducto de la Unidad de Información pondrá a disposición del público a través de medios de comunicación electrónica, la información a que se refieren los artículos 12, 41 y 49 de la Ley. De Igual forma, será la encargada de recabar de las unidades administrativas dicha información, de mantenerla en los medios citados y de actualizarla permanentemente.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 5.
 
-La Unidad de Información será la Unidad de Seguimiento de Recomendaciones de la Comisión.
+La Unidad de Información será la Unidad de Estadística y Seguimiento de la Comisión.
 
 ###### Artículo 6.
 
 El Comité de la Comisión estará integrado por los titulares siguientes:
 
-I. El Primer Visitador del Organismo, quien presidirá el Comité;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2007)</small>
 
-II. El titular de la Unidad de Seguimiento de Recomendaciones, y;
+I. El Primer Visitador General del Organismo, quien presidirá el Comité;
+
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2007)</small>
+
+II. El titular de la Unidad de Estadística y Seguimiento, y;
 
 III. El titular de la Contraloría Interna.
 
@@ -133,9 +139,11 @@ PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN Y MEDIOS DE IMPUGNACIÓN
 
 DE LA UNIDAD DE INFORMACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 16.
 
-La Unidad de Información contará con módulos de acceso en las oficinas centrales de la Comisión con sede en la ciudad de Toluca, así como en las desconcentradas ubicadas en la Visitaduría General II Nororiente con residencia en Naucalpan; Visitaduría III Oriente con residencia en La paz y Visitaduría IV Oriente con residencia en Nezahualcóyotl, en el Estado de México, en las que se podrán realizar consultas mediante el llenado de formatos o, en su caso, a través de los medios electrónicos previstos para tal efecto.
+La Unidad de Información contará con módulos de acceso en las oficinas centrales de la Comisión con sede en la ciudad de Toluca, así como en las desconcentradas ubicadas en la Visitaduría General II Nororiente; Visitaduría III Oriente y Visitaduría IV Oriente, en el Estado de México, en las que se podrán realizar consultas mediante el llenado de formatos o, en su caso, a través de los medios electrónicos previstos para tal efecto.
 
 La Visitaduría General I Toluca, con residencia en esta misma ciudad, al estar ubicada en oficinas centrales no contará con módulo de acceso, debiendo de utilizar el que al efecto se encuentre en dichas oficinas.
 
@@ -206,3 +214,11 @@ Consejero Ciudadano
 Lie. Rosa María Molina de Pardiñas
 
 Secretaria
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE NOVIEMBRE DE 2007.
+
+PRIMERO. Publíquese el presente Acuerdo en el órgano oficial de difusión de la Comisión y en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
