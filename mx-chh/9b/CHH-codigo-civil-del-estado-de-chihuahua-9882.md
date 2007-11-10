@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2007-10-31"
+last_updated: "2007-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -8871,9 +8871,9 @@ III.- (DEROGADA, P.O. 26 DE ENERO DE 2000)
 
 2186.- El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2007)</small>
 
-2187.- La venta de bienes inmuebles cuyo precio, valor de avalúo o valor catastral, en el momento de la operación no exceda del equivalente a quinientas veces el salario mínimo, así como la constitución o transmisión de derechos reales estimados hasta la misma cantidad, podrán otorgarse en escrito privado, que se ratificará en los términos de ley.
+2187.- La venta de bienes inmuebles cuyo precio, valor de avalúo o valor catastral, en el momento de la operación no exceda del equivalente a mil quinientas veces el salario mínimo, así como la constitución o transmisión de derechos reales estimados hasta la misma cantidad, podrán otorgarse en escrito privado, que se ratificará en los términos de ley.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
@@ -8883,9 +8883,9 @@ III.- (DEROGADA, P.O. 26 DE ENERO DE 2000)
 
 2189.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2007)</small>
 
-2190.- Si el precio, valor del avalúo o valor catastral excede de 500 veces del salario mínimo, en el momento de la operación, la venta se otorgará en escritura pública.
+2190.- Si el precio, valor del avalúo o valor catastral excede de mil quinientas veces del salario mínimo, en el momento de la operación, la venta se otorgará en escritura pública.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
@@ -12408,3 +12408,9 @@ P.O. 31 DE OCTUBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2007.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
