@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2007-09-14"
+last_updated: "2007-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2007.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -66,6 +66,24 @@ En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquellos.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+
+Para el ejercicio del derecho de acceso a la información, el Estado y los Municipios, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
+
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano del Estado o municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad;
+
+II. La información que se refiere a la vida privada y los datos personales, será protegida en los términos y con las excepciones que fijen las leyes;
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
+
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante órganos u organismos especializados e imparciales, y con autonomía operativa, de gestión y de decisión;
+
+V. Los sujetos obligados, deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos;
+
+VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales; y
+
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública, será sancionada en los términos que dispongan las leyes.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1107,9 +1125,9 @@ XXXI. Conceder licencias a sus propios miembros, al Gobernador y a los demás se
 
 XXXII. Resolver sobre las renuncias de sus propios miembros, del Gobernador y a los demás servidores públicos que ella elija o nombre;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2007)</small>
 
-XXXIII. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio;
+XXXIII. Elegir al Procurador General de Justicia, de entre la terna que someta a su consideración el Gobernador del Estado;
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1281,7 +1299,7 @@ I. Acordar por propia iniciativa o a petición del ejecutivo, la convocación de
 
 II. Ampliar por una sola vez el número de asuntos contenidos en la convocatoria, a petición de quien haya solicitado el período extraordinario de sesiones.
 
-III. Publicar la convocatoria y su ampliación por medio de su presidente siempre que después de tres días de comunicada al Ejecutivo, éste no le hubiere dada (sic) la debida publicidad.
+III. Publicar la convocatoria y su ampliación por medio de su presidente siempre que después de tres días de comunicada al Ejecutivo, éste no le hubiere dada la debida publicidad.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -1471,9 +1489,9 @@ VIII. Conceder indulto a reos sentenciados por delitos del orden común;
 
 IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la Fracción XLIX del Artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1950)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2007)</small>
 
-X. Nombrar a los Magistrados del Tribunal Superior de Justicia y al Procurador General de Justicia del Estado, sometiendo las designaciones y destituciones, con causa justificada, de los primeros, a la ratificación de la Legislatura. Solicitar del Tribunal Superior de Justicia, también por causa justificada, la destitución de los Jueces de Primera Instancia;
+X. Nombrar a los Magistrados del Tribunal Superior de Justicia; sometiendo las designaciones, y destituciones con causa justificada, a la ratificación de la legislatura. Solicitar del Tribunal Superior de Justicia, también por causa justificada, la destitución de los Jueces de Primera Instancia;
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -1527,9 +1545,13 @@ XXII. Otorgar patentes de notario, con sujeción a la Ley respectiva:
 
 XXIII. Actuar como árbitro en los conflictos que se susciten entre los municipios y miembros del ayuntamiento;
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+
+XXIV.- Presentar a consideración del Congreso del Estado, y en los recesos de éste, a la Diputación Permanente, la terna para la elección del Procurador General de Justicia del Estado;
+
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
-XXIV. Todas las demás que le asigne la Ley.
+XXV.- Todas las demás que le asigne la Ley.
 
 ###### ARTICULO 80.
 
@@ -1795,15 +1817,21 @@ El Ministerio Público es órgano del Estado y a su cargo está velar por la exa
 
 El Ministerio Público será desempeñado por un servidor público que se denominará Procurador General de Justicia y por los agentes que fije la ley.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 135], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 95.
 
-El Procurador General de Justicia será nombrado y removido por el Ejecutivo del Estado.
+El Procurador General de Justicia será elegido por el Congreso del Estado, de una terna de juristas de reconocida capacidad profesional y solvencia moral que el Titular del Poder Ejecutivo someterá a su consideración.
 
-Los agentes serán nombrados por el Procurador General y los nombramientos serán ratificados por el Ejecutivo.
+El Congreso elegirá al Procurador General de Justicia del Estado, previa comparecencia de las personas propuestas, por la mayoría de los diputados presentes o, en sus recesos, por la Diputación Permanente en el improrrogable plazo de treinta días. En caso de que la Legislatura no resuelva dentro de dicho plazo, ocupará el cargo la persona que de esta terna designe el Gobernador del Estado.
 
-Para cada Juzgado de Primera Instancia se nombrará un agente del Ministerio Público, pero en los distritos en que haya dos o más juzgados del mismo ramo e igual categoría, se podrá nombrar un agente para dos o más de ellos.
+Si el Congreso del Estado rechaza la terna propuesta, el Gobernador del Estado remitirá una segunda terna; de ser rechazada, ocupará el cargo la persona que dentro de esta terna designe el Gobernador del Estado.
+
+El Procurador General de Justicia dejará de ejercer su cargo por renuncia, remoción por parte del Ejecutivo y en los casos previstos en el Titulo Séptimo de esta Constitución.
+
+La ley organizará al Ministerio Público del Estado, que contará con independencia técnica para realizar las funciones de su competencia. El Procurador General de Justicia nombrará a los servidores públicos de la institución.
+
+Los Agentes del Ministerio Público, la policía y demás servidores públicos de la Procuraduría General de Justicia, realizarán su actividad teniendo como base de su actuación el estricto apego a la legalidad, el profesionalismo, la imparcialidad y la objetividad. Para garantizar este fin, se establecerá el servicio civil de carrera al interior de la institución.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 136], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -3106,6 +3134,30 @@ PRIMERO - El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Congreso del Estado, contará con un plazo de seis meses contados a partir de la publicación del presente Decreto, para emitir la Ley Reglamentaria respectiva.
 
 TERCERO.- Hasta en tanto se expida la Ley Reglamentaria del artículo 114 de la Constitución Política del Estado Libre y Soberano de Oaxaca, que se reforma con el presente Decreto, se seguirán aplicando en todas y cada una de sus partes la actual Ley de la Comisión de Derechos Humanos del Estado Libre y Soberano de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2007.
+
+DECRETO No. 532 QUE ADICIONA UN PARRAFO AL ARTICULO 3° DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En los términos del Artículo Segundo Transitorio del Decreto por el que se adiciona un segundo párrafo con siete fracciones al artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 20 de julio de 2007, dentro del plazo de un año contado a partir de su entrada en vigor, que lo fue el 21 de julio del presente año, se deberán expedir las modificaciones necesarias a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+
+TERCERO.- En los términos del Artículo Tercero Transitorio del Decreto antes citado, dentro del plazo de 2 años contados a partir de su entrada en vigor, que lo fue el 21 de julio del presente año, en los términos que señale la ley relativa, se implementarán sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información y de los procedimientos de revisión a que se refiere este Decreto, y se establecerá lo necesario para que los municipios con población mayor a setenta mil habitantes, cuenten en el mismo plazo con sus sistemas electrónicos, de conformidad con los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+Lo anterior, no excluye la posibilidad de que los Municipios con menor población cuenten con este sistema, y en todo caso, deberán establecer sistemas administrativos de acuerdo a sus características propias, a fin de cumplir con el derecho de acceso a la información pública.
+
+P.O. 10 DE NOVIEMBRE DE 2007.
+
+DECRETO No. 540 QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS A LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Gobernador del Estado dentro del término de noventa días, contados a partir de la publicación del presente Decreto, propondrá a la Legislatura los candidatos para ocupar el cargo de Procurador General de Justicia del Estado.
+
+TERCERO.- La Legislatura del Estado efectuará las adecuaciones legales necesarias para dar cumplimiento al presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
