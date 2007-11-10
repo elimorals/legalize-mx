@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2007-09-08"
+last_updated: "2007-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -301,15 +301,15 @@ IX.- Expedir leyes electorales conforme a la presente Constitución, así como l
 
 X.- Expedir leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente, que establezcan la concurrencia de los gobiernos estatal y municipales, en el ámbito de sus respectivas competencias, conforme a la Constitución Política de los Estados Unidos Mexicanos y la ley general reglamentaria correspondiente;
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2007)</small>
 
-XI.- Revisar y fiscalizar las cuentas públicas del ejercicio fiscal que le presenten el gobierno del Estado y los ayuntamientos, debiendo dictaminar semestralmente el resultado de la revisión de las cuentas públicas, a más tardar el 15 de noviembre el correspondiente al primer semestre de cada año y el 15 de mayo el que corresponda al segundo semestre.
+XI.- Revisar y fiscalizar las cuentas públicas del ejercicio fiscal que le presenten el Gobierno del Estado, los ayuntamientos, organismos e instituciones descentralizados, estatales y municipales, empresas de participación estatal, organismos públicos autónomos y demás entidades, personas físicas y morales que administren recursos públicos, debiendo dictaminar semestralmente el resultado de la revisión de las cuentas públicas del Gobierno del Estado y Ayuntamientos, a más tardar el 15 de noviembre el correspondiente al primer semestre de cada año y el 15 de mayo el que corresponda al segundo semestre.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
+Para el caso de los organismos descentralizados, paraestatal y paramunicipales que presten servicios de agua potable, drenaje, alcantarillado y saneamiento, presentarán a la legislatura local el último de febrero, el informe de su cuenta pública del año inmediato anterior aprobada por su Consejo General, debiendo calificarse y dictaminarse anualmente por el Congreso a más tardar el 30 de septiembre del año de su presentación.
 
 El Congreso deberá expedir el decreto en el que se consigne la conclusión del proceso de revisión y fiscalización de los resultados de la cuenta pública correspondiente, en el que se determine si hubo o no irregularidades o faltas de carácter administrativo, así como de las propuestas de sanción a las que pueden estar sujetos quienes hayan incurrido en responsabilidad alguna.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto, así como el cumplimiento de los objetivos contenidos en los programas. Para la revisión de las cuentas públicas, el Congreso se apoyará en la Contaduría Mayor de Hacienda.
 
 Si de la revisión que el Congreso realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley;
 
@@ -1959,7 +1959,9 @@ IX.- Corresponde al Estado planear, participar, conducir, coordinar y orientar e
 
 X.- Todas las autoridades, dentro de la esfera de sus atribuciones, estarán obligadas en su ejercicio a vigilar por la conservación, protección y fomento del medio ambiente y de los recursos naturales de la entidad.
 
-XI.- El Estado, con la participación de los sectores público, social y privado, organizará el sistema de protección civil, el cual estará bajo la dirección del titular del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+
+XI.- Toda persona tiene derecho a vivir en un medio ambiente seguro, a que se le prevenga y proteja ante cualquier eventualidad de un riesgo o desastre provocado por agentes naturales o humanos y a recibir auxilio en caso de consumarse algún siniestro. El estado, con la participación de los sectores público, social y privado, organizará el sistema de protección civil, el cual estará bajo la dirección del titular del Poder ejecutivo.
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
 
@@ -2680,6 +2682,16 @@ P.O. 7 DE OCTUBRE DE 2006.
 P.O. 8 DE SEPTIEMBRE DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La Legislatura local, actualizará las leyes relacionadas con la presente reforma en un plazo de 90 días a partir del día siguiente al de su entrada en vigor.
+
+TERCERO.- El Ejecutivo del Estado y los Ayuntamientos ajustarán respectivamente los reglamentos internos de las comisiones intermunicipales y municipales de agua potable, drenaje, alcantarillado y saneamiento a la presente reforma en un plazo no mayor al de 120 días, que deberán correr a partir del día siguiente al de su entrada en vigor, incorporando la elaboración y rendición de los informes financieros mensuales y trimestrales, al Congreso del Estado.
+
+CUARTO.- La revisión y fiscalización de las cuentas públicas de las comisiones municipales e intermunicipales de agua potable, drenaje, alcantarillado y saneamiento del ejercicio fiscal 2007, se sujetará a las bases y disposiciones constitucionales aplicables antes de la presente reforma.
 
 ###### ARTÍCULO ÚNICO.
 
