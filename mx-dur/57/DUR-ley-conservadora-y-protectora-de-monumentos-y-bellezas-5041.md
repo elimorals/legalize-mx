@@ -4,7 +4,7 @@ identifier: "DUR-ley-conservadora-y-protectora-de-monumentos-y-bellezas-5041"
 country: "mx"
 rank: "ley"
 publication_date: "1941-06-26"
-last_updated: "1941-06-26"
+last_updated: "2007-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY CONSERVADORA Y PROTECTORA DE MONUMENTOS Y BELLEZAS NATURALES, EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEPTIMO TRANSITORIO DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 11 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de junio de 1941.
 
@@ -358,3 +360,23 @@ Dado en el Salón de Sesiones del Congreso del Estado, a los (26) veintiseis dí
 Por tanto mando se imprima, publique, circule y comuníquese a quienes corresponda, para su exacta observancia.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, a los dieciseis días del mes de junio de mil novecientos cuarenta y uno. Lic. JESUS DORADOR IBARRA.- El Subsecretario J. Donaciano Sosa.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE NOVIEMBRE DE 2007.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Para la designación de los representantes a que se refieren las fracciones VIII y XIII del artículo 21 de la presente Ley, que habrán de integrar el Primer Consejo Estatal del Patrimonio Cultural, el Instituto convocará a las asociaciones, grupos, organizaciones y personas que sean necesarios, para que, conforme a los requisitos establecidos, procedan a realizar los nombramientos correspondientes; los que deban integrar los posteriores Consejos, serán designados conforme al Reglamento Interno que se establezca. Los consejeros a que se refieren el resto de las fracciones de dicho ordinal, serán designados por la persona facultada para ello.
+
+TERCERO. La integración del Consejo Estatal del Patrimonio Cultural y las Comisiones Municipales del Patrimonio Cultural deberán quedar constituidos dentro de los tres meses posteriores a la entrada en vigor de la presente Ley.
+
+CUARTO. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley dentro de los seis meses posteriores a la entrada en vigor de este ordenamiento.
+
+QUINTO. El Consejo Estatal del Patrimonio Cultural y las Comisiones Municipales, deberán emitir sus respectivos reglamentos dentro de los tres meses posteriores a su constitución.
+
+SEXTO. Cuando se modifique o abroguen las disposiciones supletorias a que se refiere el artículo 9 de esta Ley, tendrá pleno vigor el nuevo marco jurídico legal, que en su caso se genere.
+
+SÉPTIMO. Se deroga la Ley Conservadora y Protectora de Monumentos y Bellezas Naturales en el Estado de Durango, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 51 tomo LXXXV, del 26 de junio de 1941.
+
+OCTAVO. Se derogan todos los ordenamientos que se opongan a esta Ley.
