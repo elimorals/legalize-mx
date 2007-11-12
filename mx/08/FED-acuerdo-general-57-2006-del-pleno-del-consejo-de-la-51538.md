@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2007-05-15"
+last_updated: "2007-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -209,7 +209,9 @@ X.- DECIMO CIRCUITO:
 
 XI.- DECIMOPRIMER CIRCUITO:
 
-1.- Cuatro tribunales colegiados con residencia en Morelia.
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 39/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
+1.- Cuatro tribunales colegiados especializados: uno en materia penal, dos en materias administrativa y de trabajo, y uno en materia civil, todos con residencia en Morelia.
 
 2.- Dos tribunales unitarios con sede en Morelia.
 
@@ -796,3 +798,9 @@ PRIMERO.- Este Acuerdo General entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Queda sin efecto la medida ordenada en el Acuerdo CCNO/13/2002, publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil dos, y todas aquellas disposiciones dictadas con anterioridad, en lo que se opongan a éste Acuerdo.
+
+D.O.F. 12 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Este acuerdo entrará en vigor el día el (sic) de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
