@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-42035"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-13"
-last_updated: "2007-01-08"
+last_updated: "2007-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO MUNICIPAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 12 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de diciembre de 2004.
 
@@ -20350,3 +20352,31 @@ PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguien
 P.O. 8 DE ENERO DE 2007.
 
 ÚNICO: La Presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Código Municipal de Aguascalientes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código Municipal de Aguascalientes, publicado en el Periódico Oficial del Estado, el día primero del mes de noviembre del año dos mil cuatro, así como las reformas posteriores que sufrió dicho ordenamiento.
+
+TERCERO.- Los anexos gráficos del presente Código Municipal en lo referente a la Reglamentación en Materia de Anuncios que previene el Título noveno del Libro Sexto, desde luego forman parte integrante del mismo y por tanto son obligatorios para las entidades públicas, particulares y autoridades respectivas, y surtirán efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO.- Respecto del límite de la jurisdicción federal para el control de los anuncios, en relación a la competencia del Municipio de Aguascalientes, se establece el siguiente:
+
+Carretera León-Aguascalientes, Bulevar José María Chávez y Bulevar Siglo XXI.
+
+Carretera Aguascalientes-Zacatecas, Bulevar a Zacatecas y Bulevar Siglo XXI.
+
+Carretera Ojuelos-Aguascalientes, Calzada Revolución y Bulevar Siglo XXI.
+
+Carretera Aguascalientes-Jalpa, Bulevar Adolfo Ruiz Cortines y entronque con la carretera a Villa Hidalgo, Jalisco.
+
+QUINTO.- Todos los asuntos que se encuentren en trámite al inicio de la vigencia del presente Código Municipal de Aguascalientes, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
+
+SEXTO.- Se derogan todas las disposiciones jurídicas de carácter municipal que se opongan a lo dispuesto en el presente Código Municipal de Aguascalientes.
+
+SÉPTIMO.- Los reglamentos municipales expedidos con anterioridad continuarán vigentes en cuanto su aplicación sea compatible con el presente ordenamiento.
+
+OCTAVO.- El impacto presupuestal resultante de la creación de la Dirección de Justicia Municipal, no surtirá efectos hasta en tanto no se hagan las modificaciones en el presupuesto de egresos correspondiente. De igual manera, la Dirección de la Unidad de Protección Civil y de la Dirección de Bomberos por lo que resta del ejercicio fiscal dos mil siete continuarán dependiendo presupues-talmente de la Secretaría de Seguridad Pública Municipal.
+
+NOVENO.- La Dirección de Capacitación, Formalización y Profesionalización de la Secretaría de Seguridad Pública Municipal, iniciará sus funciones a partir del día primero de enero del año 2008, ejerciendo mientras tanto la Dirección del Estado Mayor las funciones encomendadas a la primera de las direcciones citadas.
