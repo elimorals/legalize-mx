@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "2007-11-07"
+last_updated: "2007-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -1916,6 +1916,38 @@ V.- Ceder al municipio las áreas de suelo que establece esta Ley según el tipo
 VI.- Acreditar la propiedad del predio en el cual se van a realizar las acciones de crecimiento y demostrar la personalidad jurídica con que se comparece; y,
 
 VII.- Cumplir con los lineamientos y condiciones que las autoridades establezcan.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 144 Bis.
+
+Las autorizaciones o licencias de Desarrollo Urbano, tendrán las siguientes vigencias:
+
+I.- En fraccionamientos que se desarrollen en una etapa, la factibilidad de urbanización, la fijación de lineamientos generales de diseño urbano y el proyecto urbanístico, tendrán en su conjunto una vigencia que no deberá exceder del término de tres años y que se empezarán a computar a partir del día hábil siguiente a la fecha de expedición del acuerdo de factibilidad de urbanización.
+
+Las del plano de rasantes y proyecto ejecutivo, tendrán una vigencia adicional a la anterior de dos años cada una, computados a partir del día hábil siguiente a la fecha de expedición del acuerdo de autorización respectivo.
+
+En el caso del proyecto ejecutivo el fraccionador tendrá derecho a solicitar una prórroga hasta por dos años;
+
+II.- Tratándose de fraccionamientos que por sus características deban desarrollarse en varias etapas o sectores:
+
+a) Se tramitará para todo el fraccionamiento la factibilidad de urbanización, la fijación de lineamientos generales de diseño urbano y el proyecto urbanístico, debiéndose señalar en este último las etapas o sectores en que habrá de desarrollarse. Estas autorizaciones en su conjunto tendrán una vigencia que no deberá exceder del término de tres años y que se empezarán a computar a partir del día hábil siguiente a la fecha de expedición del acuerdo de autorización de la factibilidad de urbanización.
+
+Las tres autorizaciones referidas en el párrafo anterior, continuarán vigentes durante el desarrollo de cada una de las etapas o sectores, siempre que éstas se realicen de manera continua, debiéndose observar lo dispuesto en el inciso c) de esta fracción;
+
+b) Las autorizaciones del plano de rasantes, proyecto ejecutivo y la prórroga de éste por dos años, de ser esta necesaria, se solicitarán de manera sucesiva por cada una de las etapas o sectores a desarrollar, y conservarán su vigencia, siempre y cuando no transcurran más de dos años sin que el interesado lleve a cabo el procedimiento subsecuente para la autorización del acto definitivo respectivo; y
+
+c) En caso de que una nueva legislación modifique las normas técnicas autorizadas, los proyectos urbanísticos de los sectores no iniciados, deberán ser adecuadas a las nuevas disposiciones;
+
+III.- En los fraccionamientos señalados en las fracciones I y II de este artículo:
+
+a) La solicitud de aprobación de cada una de las autorizaciones de desarrollo urbano, deberá llevarse a cabo durante la vigencia de la autorización de la etapa inmediata anterior respectiva exigida para el otorgamiento de la misma; y
+
+b) Las vigencias de las autorizaciones incluyen las modificaciones a que se refiere el artículo 226 de esta ley;
+
+IV.- En las autorizaciones de subdivisiones, fusiones, relotificaciones y parcelaciones, deberá de solicitarse la modificación de la inscripción del predio correspondiente ante la Dirección de Catastro, y ser inscritas en el Registro Público de la Propiedad y del Comercio, dentro de los ciento veinte días hábiles siguientes a la fecha de su expedición; y
+
+V.- Las licencias de uso de suelo y uso de edificación, perderán su vigencia si dentro del término de tres años no se ejerce el derecho por ellas conferido, y que se empezarán a computar a partir del día hábil siguiente a la fecha de su expedición.
 
 ###### Artículo 145.
 
@@ -3992,5 +4024,9 @@ P.O. 18 DE ABRIL DE 2007.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 P.O. 7 DE NOVIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 12 DE NOVIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
