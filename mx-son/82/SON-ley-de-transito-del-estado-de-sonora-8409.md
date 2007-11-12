@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2002-07-08"
+last_updated: "2007-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -93,7 +93,7 @@ I.- Organizar y ejercer, en los términos de esta Ley, la función pública de t
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
 
-II. - Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito;
+II. - Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito.
 
 > <small>(REFORMADA B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
@@ -101,13 +101,13 @@ III.- Emitir los manuales de organización, de procedimientos y de servicios al 
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
 
-IV.- Establecer y ejecutar las políticas de vialidad en las zonas urbanas y rurales del municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local y peatonal, así como las características y normas técnicas respecto de estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito;
+IV.- Establecer y ejecutar las políticas de vialidad en las zonas urbanas y rurales del municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local y peatonal, así como las características y normas técnicas respecto de estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito.
 
 V.- (DEROGADA, B.O. 8 DE JULIO DE 2002)
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
 
-VI.- Celebrar convenios con el Estado, con autoridades de la Federación o de otras Entidades Federativas para el mejor cumplimiento de los fines que previene esta Ley;
+VI.- Celebrar convenios con el Estado, con autoridades de la Federación o de otras Entidades Federativas para el mejor cumplimiento de los fines que previene esta Ley.
 
 VII.- Establecer el calendario para el revisado de vehículos registrados en su Departamento de Tránsito Municipal.
 
@@ -117,7 +117,7 @@ IX.- Dictar las normas conforme a las cuales se establecerán las nomenclaturas 
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
 
-X.- Resolver los recursos de inconformidad de la materia;
+X.- Resolver los recursos de inconformidad de la materia.
 
 XI.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública cuando el caso lo amerite.
 
@@ -366,6 +366,10 @@ VIII.- Número que corresponda a la licencia.
 IX.- Firma del funcionario correspondiente y sello de la dependencia que expida la licencia.
 
 X.- Tipo de licencia.
+
+> <small>(ADICIONADA, B.O. 12 DE NOVIEMBRE DE 2007)</small>
+
+XI.- Especificación de ser donador voluntario o no.
 
 ###### ARTICULO 31.
 
@@ -1429,7 +1433,7 @@ Se hará la aproximación tomando el extremo del carril izquierdo adyacente a la
 
 d).- Una vía de doble sentido a otra de un solo sentido:
 
-La aproximación deberá hacerse sobre la mitad derecha de la vía junto a la raya central y después de entrar a la intersección dará vuelta a (sic) izquierda de tal manera que al salir de aquella se coloque en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado.
+La aproximación deberá hacerse sobre la mitad derecha de la vía junto a la raya central y después de entrar a la intersección dará vuelta a izquierda (sic) de tal manera que al salir de aquella se coloque en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado.
 
 e).- Cuando sea practicable, la vuelta a la izquierda deberá efectuarse dejando a la derecha el centro de la intersección.
 
@@ -1845,7 +1849,7 @@ V.- Cuando el policía levante el brazo derecho en posición vertical:
 
 a) Indica a los conductores y peatones una situación de emergencia, motivada por la aproximación de vehículos de emergencia o algún otro servicio especial y que por lo tanto, deben despejar la vía e impedir su cruce.
 
-VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en la siguiente forma: ALTO, un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
+VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en la siguiente forma: ALTO un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
 
 ###### ARTICULO 196.
 
@@ -1880,12 +1884,6 @@ b) La señal de "CEDA EL PASO" tiene forma de triángulo equilátero, con un vé
 El conductor que se aproxime a una señal de "CEDA EL PASO", deberá disminuir la velocidad o detenerse, si es necesario, para ceder el paso a cualquier vehículo que se acerque de modo que represente un riesgo.
 
 c) Señal indicativa de ciegos y parapléjicos en lugares de intenso tráfico y en áreas al acceso a zonas comerciales, consistentes en señal de fondo negro y siluetas blancas, de bastón y sillas de ruedas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-c) Señal indicativa de zona exclusiva para personas con algún tipo de discapacidad, consistente en señal de fondo azul y silueta blanca.
 
 III.- SEÑALES INFORMATIVAS.- Tienen por objeto guiar al usuario a lo largo de su ruta e informarle sobre las calles o caminos que encuentre y los nombres de poblaciones, lugares de interés y sus distancias. Entre otras, Tabla número 3. Se dividen en cuatro grupos:
 
@@ -2541,7 +2539,7 @@ l) Por efectuar reparaciones que no sean de urgencia, así como lavados de vehí
 
 Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
-a) Por permitir al ascenso y descenso de pasaje en los vehículos de servicio público de transporte, en las vías públicas, sin tomar para ello precauciones de seguridad, así como realizarlas en las zonas o paradas no autorizadas.
+a) Por permitir el ascenso y descenso de pasaje en los vehículos de servicio público de transporte, en las vías públicas, sin tomar para ello precauciones de seguridad, así como realizarlas en las zonas o paradas no autorizadas.
 
 b) Por circular y estacionar en las aceras y zonas de seguridad.
 
@@ -2822,3 +2820,9 @@ Las disposiciones de la presente Ley entrarán en vigor al día siguiente de su 
 ###### ARTICULO SEGUNDO.
 
 Las sanciones previstas por los artículos 231 al 237 y el 239 de la Ley de Tránsito para el Estado de Sonora vigentes hasta la entrada en vigor de la presente reforma, continuarán aplicándose hasta que las mismas sean incorporadas en las leyes de Ingresos de los Ayuntamientos.
+
+B.O. 12 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
