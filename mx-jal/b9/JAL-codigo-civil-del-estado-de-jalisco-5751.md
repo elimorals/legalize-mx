@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2007-10-23"
+last_updated: "2007-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2491,29 +2491,33 @@ VIII. La separación del hogar conyugal por más de seis meses, sin causa justif
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-IX. La separación del hogar conyugal por mas de un año sin el consentimiento del otro consorte.
+IX. La separación del hogar conyugal por mas de un año sin el consentimiento del otro consorte;
 
 El plazo señalado en esta fracción empezará a contar a partir de la interpelación judicial o extrajudicial ante notario, que se haga al cónyuge separado para su reintegración al hogar conyugal;
 
 X. La declaración de ausencia legalmente hecha o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que proceda la declaración de ausencia;
 
-XI. La sevicia, la difamación, las amenazas o las injurias graves de un cónyuge para el otro o para sus descendientes;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2007)</small>
 
-XII. La tortura psíquica;
+XI. La violencia intrafamiliar, entendida ésta como el maltrato físico o psicológico que infiera un cónyuge a otro o contra sus descendientes, con la intención de dañar, humillar o despreciar al ofendido;
 
-XIII. La incompatibilidad de caracteres que haga imposible la vida conyugal; que sólo podrá invocarse después de pasado un año de celebrado el matrimonio;
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 21945/LVIII/07, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2007, SE DEROGA LA FRACCION XII, RECORRIENDOSE LAS DEMAS EN SU ORDEN.</small>
 
-XIV. La negativa injustificada a dar alimentos al otro cónyuge y a los hijos, sin necesidad de que exista requerimiento ni sentencia judicial relativa a la reclamación de los mismos;
+XII. La incompatibilidad de caracteres que haga imposible la vida conyugal, que sólo podrá invocarse después de pasado un año de celebrado el matrimonio;
 
-XV. La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
+XIII. La negativa injustificada a dar alimentos al otro cónyuge y a los hijos, sin necesidad de que exista requerimiento ni sentencia judicial relativa a la reclamación de los mismos;
 
-XVI. Haber cometido uno de los cónyuges un delito que no sea político y que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
+XIV. La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
-XVII. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, con fines no terapéuticos, cuando amenacen causar la ruina de la familia o constituyan un continuo motivo de desavenencia conyugal;
+XV. Haber cometido uno de los cónyuges un delito que no sea político y que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
 
-XVIII. Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que exceda de un año de prisión; y
+XVI. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, con fines no terapéuticos, cuando amenacen causar la ruina de la familia o constituyan un continuo motivo de desavenencia conyugal;
 
-XIX. El mutuo consentimiento.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+XVII. Cometer un cónyuge contra la otra persona o los bienes del otro, un delito declarado por sentencia ejecutoria, o bien, un acto que seria punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que exceda de un año de prisión, y
+
+XVIII. El mutuo consentimiento.
 
 ###### Art. 405.
 
@@ -3823,19 +3827,23 @@ I. Cuando quien la ejerce comete algún delito intencional que afecte al menor o
 
 II. Cuando el que la ejerce es condenado expresamente a su pérdida;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2007)</small>
 
-III. Cuando por malas costumbres de quienes la ejerzan, malos tratamientos o abandono de sus deberes frente a sus descendientes, se comprometa la salud física o psíquica, la seguridad o la moralidad sobre de quienes se ejerce, aunque esos hechos no sean penalmente punibles, o consienta que terceras personas lo realicen;
+III. Cuando por malas costumbres de quienes la ejerzan o abandono de sus deberes frente a sus descendientes, se comprometa la seguridad o la moralidad de aquellos sobre de quienes se ejerce, aunque esos hechos no sean penalmente punibles, o consientan que terceras personas lo realicen;
 
-IV. Cuando quien la ejerce:
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2007)</small>
 
-a) Exponga a su descendiente.
+IV. Cuando quien la ejerce genere violencia intrafamiliar en contra del menor, entendida ésta como el maltrato físico o psicológico que se infiere con la intención de dañar, humillar o despreciar al ofendido, o consienta que terceras personas lo realicen;
 
-b) Le abandone por más de tres meses si éste quedó a cargo de alguna institución especializada o persona; y
+V. Cuando quien la ejerce:
 
-c) Abandone por más de un día a su descendiente, si el menor no hubiere quedado al cuidado de alguna persona y además éste abandono sea intencional; y
+a) Exponga a su descendiente;
 
-V. En los casos de divorcio cuando así se establezca.
+b) Le abandone por más de tres meses si éste quedó a cargo de alguna institución especializada o persona, y
+
+c) Abandone por más de un día a su descendiente, si el menor no hubiere quedado al cuidado de alguna persona y además éste abandono sea intencional, y
+
+VI. En los casos de divorcio cuando así se establezca.
 
 ###### Art. 599.
 
@@ -17898,5 +17906,9 @@ P.O. 31 DE MAYO DE 2007.
 ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 23 DE OCTUBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE NOVIEMBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
