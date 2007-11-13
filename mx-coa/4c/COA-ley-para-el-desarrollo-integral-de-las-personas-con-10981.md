@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-las-personas-con-10981"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-01"
-last_updated: "2007-01-26"
+last_updated: "2007-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 1 de agosto de 1997.
 
@@ -43,13 +43,27 @@ ART. 1.- La presente ley es de orden público y de interés general, sus disposi
 
 ART. 2.- En los términos de esta ley son beneficiarios de la misma los individuos disminuidos en sus capacidades físicas, psíquicas, sensoriales y de relación social que les limite e impida realizar su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
 ART. 3.- Para los efectos de esta Ley se entiende por:
 
+Asistencia Social: El conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social, que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+
 Discapacidad: Toda restricción o ausencia de la capacidad de realizar alguna actividad en la forma o dentro del margen que se considera normal para un ser humano.
+
+Ley: Ley para el Desarrollo Integral de las Personas con Discapacidad en el Estado de Coahuila de Zaragoza.
 
 Persona con discapacidad: Todo ser humano que padece temporal o permanentemente una disminución en sus facultades físicas, psíquicas o sensoriales que le impide realizar una actividad normal.
 
 Prevención: La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales y sensoriales, (Prevención primaria) o a impedir que las deficiencias cuando se han producido, tengan consecuencias físicas, psicológicas y sociales negativas.
+
+Rehabilitación: Al conjunto de medidas médicas, psicológicas, sociales, educativas y ocupacionales que tienen por objetivos compensar la pérdida de una función o una limitación funcional con ayudas técnicas y otras medidas para obtener el máximo grado de recuperación funcional a fin de realizar actividades que les permitan ser útiles así mismos, a su familia e integrarse a la vida social.
+
+Perro Guía o de Asistencia: aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en centros especializados reconocidos, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en esta ley.
+
+Servicios básicos de salud en materia de asistencia social, para las personas con discapacidad: Los enunciados en el Artículo 12 Fracciones I, V y IX de la Ley de Asistencia Social.
+
+Transportes públicos: todo medio de transporte colectivo de uso público, y los servicios urbanos e interurbanos de transportes de viajeros, sometidos a la competencia del estado y los municipios.
 
 ART. 4.- Son derechos que la Ley reconoce y protege en favor de los discapacitados:
 
@@ -87,13 +101,13 @@ VIII.- Los ayuntamientos de los municipios.
 
 ### CAPITULO I. DE LA ASISTENCIA SOCIAL
 
-ART. 6.- Para los efectos de esta Ley se entiende por Asistencia Social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social, que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+ART. 6.- (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2007)
 
 ART. 7.- Son sujetos de la recepción de los servicios de asistencia social preferentemente por considerarse personas con discapacidad: los mencionados en la Ley de Asistencia Social, en su Artículo 4º Fracción VI.
 
 ART. 8.- Es el Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila de Zaragoza, el organismo rector de la asistencia social en el ámbito Estatal, de acuerdo a la Ley de Asistencia Social en su Capítulo Segundo tiene como objetivos, la promoción de las actividades relacionadas con la materia, la prestación de los servicios asistenciales, la promoción de la interrelación sistemática de acciones, que en este campo lleven a cabo las instituciones públicas y privadas.
 
-ART. 9.- Para los efectos de este ordenamiento, se entienden como servicios básicos de salud en materia de asistencia social, para las personas con discapacidad, los enunciados en el Artículo 12 Fracciones I, V y IX de la Ley de Asistencia Social.
+ART. 9.- (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO II. DE LA COMISION ESTATAL COORDINADORA PARA EL BIENESTAR Y LA INCORPORACION AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -149,7 +163,7 @@ ART. 17.- Para aquellas facultades y deberes de la Comisión Estatal Coordinador
 
 ### CAPITULO I. DE LA REHABILITACION
 
-ART. 18.- Se entiende por rehabilitación al conjunto de medidas médicas, psicológicas, sociales, educativas y ocupacionales que tienen por objetivos compensar la pérdida de una función o una limitación funcional con ayudas técnicas y otras medidas para obtener el máximo grado de recuperación funcional a fin de realizar actividades que les permitan ser útiles así mismos, a su familia e integrarse a la vida social.
+ART. 18.- (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2007)
 
 ART. 19.- El proceso de rehabilitación de las personas con discapacidad comprende:
 
@@ -355,7 +369,177 @@ Estos programas de campaña se difundirán ampliamente por los medios masivos de
 
 Lo anterior será para reafirmar una cultura de trato digno hacia las personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 58 A.- Con el objetivo de lograr que la aceptación social y cultural de las personas con discapacidad acompañadas de perros guía sea total y efectiva, el Gobierno Estatal, junto a las organizaciones de la sociedad civil interesadas, promoverá y llevará a cabo campañas informativas orientadas de manera especial a sectores como la hotelería, comercio, escuelas, transporte y servicios públicos; igualmente desarrollará otras de orden educativo dirigidas a la población en general.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 58 B.- El Gobierno del Estado junto con los municipios, promoverá y llevará a cabo campañas de adiestramiento como perros guía, de animales que se encuentren en los centros antirrábicos y de perros abandonados, o albergues de asociaciones protectoras de animales; siempre y cuando sus características físicas y de obediencia permitan su adiestramiento como perros de asistencia.
+
 ART. 59.- En todos los demás aspectos relativos a este capítulo nos remitimos al reglamento de la Ley de Tránsito y Transporte para el Estado de Coahuila.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPITULO II. DE LOS PERROS GUIA PARA PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 A.- En el Estado de Coahuila, se reconoce de interés público, que toda persona con discapacidad pueda acceder al uso de un Perro Guía; igualmente se reconoce su derecho al acceso, recorridos y permanencia junto con éste, en todos los lugares, locales y demás espacios de uso público, así como su viaje en transportes públicos, en uso de su derecho de libre tránsito, en condiciones de igualdad con el resto de la ciudadanía.
+
+El ejercicio de este derecho únicamente quedará condicionado y limitado por las disposiciones de esta ley.
+
+El acceso del perro guía a los lugares con pago de entrada o de peaje que precisa la ley no implicará pago adicional, salvo que su movilización constituya la prestación de un servicio agregado.
+
+Los perros guías que deriven de programas de entrenamiento gubernamentales o de apoyo asistencial serán donados a los usuarios de escasos recursos que así lo requieran, o bien cubiertos con aportaciones mínimas. Las instancias de asistencia social del Gobierno del Estado procurarán convocar a instituciones públicas y privadas, tanto nacionales como extranjeras, para formar fondos de apoyo a estas actividades.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 B.- Una vez reconocida la condición de Perro Guía, se mantendrá a lo largo de su vida, salvo que se presenten alguna causa de las previstas en el artículo 59-H.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 C.- Para los efectos de lo establecido en el artículo 59-A, tendrán la categoría de lugares de libre acceso a las personas con discapacidad en compañía de sus perros guías, los siguientes:
+
+I. Los lugares de esparcimiento al aire libre, tales como parques, jardines y otros espacios de uso público, incluidos los centros de recreación, parques de diversiones y complejos de entretenimiento.
+
+II. Los locales e instalaciones donde se realicen espectáculos públicos y/o desarrollen actividades recreativas.
+
+III. Los asilos, hogares para la atención a los adultos mayores, centros de rehabilitación y los establecimientos similares, sean de propiedad pública o privada.
+
+IV. Los edificios públicos, cuyo acceso no se encuentre prohibido o restringido al público en general.
+
+V. Los centros educativos, deportivos y de salud, públicos y privados de todos los niveles y grados, modalidades y especialidades. Igualmente los museos, bibliotecas, teatros, salas de cine, de exposiciones y conferencias.
+
+VI. Los almacenes, tiendas, despachos profesionales y centros comerciales.
+
+VII. Los espacios de uso público de las estaciones de autobús, ferrocarril, aeropuertos y paradas de vehículos de transporte.
+
+VIII. Los hoteles, restaurantes, establecimientos turísticos y cualquier otro lugar abierto al público en el que se presten servicios relacionados con el turismo.
+
+IX. En general, cualquier otro lugar, local o establecimiento de uso público o de atención al público.
+
+X. Los Transportes públicos y los servicios urbanos de transportes de viajeros y autos de alquiler de competencia del estado y los municipios.
+
+En el caso de que la infraestructura no permita el adecuado traslado a las personas con discapacidad, acompañadas de perros de asistencia, se procurará, cuando ello sea posible, un recorrido alterno.
+
+Las autoridades de obras públicas tanto estatales como municipales establecerán la reglamentación necesaria para hacer las adecuaciones físicas en los lugares antes mencionados.
+
+La persona con discapacidad acompañada de perro guía, tendrá preferencia para ocupar los asientos con mayor espacio libre o adyacente a un pasillo, según el medio de transporte de que se trate.
+
+En los servicios de autos de alquiler, el perro guía irá preferentemente en la parte trasera del vehículo, a los pies de la persona con deficiencias visuales o con discapacidad. No obstante, y a elección de las personas usuarias de perros guía, se podrán ocupar asientos delanteros, teniendo el perro a sus pies, especialmente en los trayectos de largo recorrido.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 D.- Todo perro guía deberá ser acreditado por el Comité Estatal para la Certificación de Perros Guía. La acreditación se concederá previa comprobación de que el perro reúne las condiciones higiénico-sanitarias, de adiestramiento y de aptitud para auxiliar a personas con discapacidad.
+
+Los reconocimientos otorgados por otras entidades y países, a perros guía, serán revalidados por el Comité.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 E.- La condición de Perro Guía se reconocerá, y procederá a su acreditación siempre que se justifique:
+
+I. Que está entrenado en un centro oficialmente autorizado por el Comité de Certificación, para la práctica de perros guía.
+
+II. Que cumple la normativa sanitaria vigente y lo previsto en el artículo 59-G de esta ley.
+
+III. Que está vinculado a un trabajo de asistencia y guía a la persona que lo usa para los fines previstos en la presente ley.
+
+IV. Que ayude a disminuir los efectos de la discapacidad de su propietario.
+
+El reconocimiento de la condición de perro de asistencia se efectuará por el Comité antes mencionado y se mantendrá durante toda la vida del perro guía, con las excepciones señaladas en esta ley.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 F.- Los perros guía se hallarán identificados, mediante la colocación, en lugar visible, del distintivo que le otorgue el Comité Estatal para la Certificación de Perros Guía.
+
+También deberán estar identificados permanentemente mediante microchip, según acuerde el Comité.
+
+El usuario del perro guía, previo requerimiento, deberá exhibir su identificación que lo acredite como la persona autorizada para el uso del perro guía, expedida por el Comité, así como documentación que acredite las condiciones sanitarias que se mencionan en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 G.- Además de cumplir las obligaciones sanitarias que se deben satisfacer como animales domésticos, los poseedores de perros guía o de asistencia deberán cumplir las siguientes con relación al animal:
+
+I. Una inspección veterinaria donde se demuestre que no padece ninguna enfermedad transmisible al hombre.
+
+II. Estar vacunado contra la rabia, recibir los tratamientos periódicos y practicarse las pruebas clínicas que instruya el Comité.
+
+III. Todas aquellas que reglamentariamente se determinen.
+
+Los propietarios o poseedores de estos animales quedan obligados al cumplimiento de las condiciones referidas, mismas que se acreditarán mediante certificación expedida por Médico Veterinario. Tratándose de personas de escasos recursos, el estado celebrará convenios para buscar disminuir al mínimo los costos de estos servicios veterinarios.
+
+Para mantener la condición de perro de asistencia, será necesario un reconocimiento periódico anual, debiéndose acreditar en el mismo el cumplimiento de las condiciones a que se refiere este artículo, mismo que podrá obtenerse con Médico Veterinario Titulado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 H.- El perro guía perderá su condición, por alguno de los siguientes motivos:
+
+I. Por dejar de prestar asistencia a una persona con discapacidad.
+
+II. Por manifiesta incapacidad en el desempeño de las funciones para las que fue entrenado.
+
+III. Por manifestar comportamiento agresivo o violento.
+
+IV. Por incumplir las condiciones referidas en la Ley y en los reglamentos que para tal efecto se expidan.
+
+Para poder acreditar las causas contenidas en las fracciones II, III y IV se requerirá certificado de veterinario en ejercicio.
+
+La pérdida de la condición de perro guía, se declarará por el mismo órgano o entidad que la otorgó, quien procederá igualmente a la revocación de la acreditación.
+
+Cuando alguno de los motivos señalados sea temporal, se determinará la suspensión provisional de la condición de perro guía por un periodo máximo de seis meses. Transcurrido dicho plazo sin que se modifique la situación, se procederá a declarar la pérdida de la condición de perro guía.
+
+El usuario que no desee seguir con la posesión de un perro guía deberá notificarlo al Comité para su reasignación.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 I.- El derecho de acceso a que se refiere el artículo 59-A de esta ley comprende, también la permanencia ilimitada y constante del perro guía junto al usuario.
+
+No obstante lo dispuesto en el párrafo anterior, el usuario del perro de asistencia no podrá ejercitar los derechos reconocidos en esta ley, cuando concurra alguna de las siguientes circunstancias:
+
+a) En caso de grave peligro inminente para el usuario, para tercera persona o para el propio perro de asistencia.
+
+b) Cuando el animal presente síntomas de enfermedad visibles o heridas que por su tamaño o aspecto supongan un presumible riesgo para las personas o se evidencie la falta de aseo o de atención.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 J.- La persona usuaria de un perro guía deberá cumplir con las obligaciones que señala la normativa vigente y, en particular, con las siguientes:
+
+I. Mantener al perro a su lado, con la correa y arnés que en su caso sea necesario, en los lugares, establecimientos y transportes a que se refiere esta ley.
+
+II. Llevar identificado de forma visible al perro guía, de acuerdo con lo previsto en el artículo 59-F de ésta ley, llevando consigo y exhibir la documentación sanitaria, cuando sea requerido para ello.
+
+III. Utilizar al perro de asistencia para aquellas funciones para las que fue entrenado, atendiendo siempre a las normas de higiene y seguridad en los lugares públicos o de uso público, en la medida en que su deficiencia visual o discapacidad le permita.
+
+IV. Cumplir y hacer que los demás cumplan los principios de respeto, defensa, convivencia pacífica y protección del perro guía.
+
+V. Garantizar el adecuado nivel de bienestar e higiene del perro guía, a efecto de proporcionarle una buena calidad de vida.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 K.- El usuario del perro guía, como responsable de su correcto comportamiento, deberá mantener suscrito un seguro de responsabilidad civil para afrontar eventuales daños a terceros ocasionados por el perro.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 L.- El incumplimiento de lo dispuesto en la presente ley con relación al libre acceso de personas con discapacidad y sus perros guía a los lugares, aquí mencionados, constituye infracción administrativa y será sancionado conforme se dispone en esta ley.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 M.- Son sujetos responsables de las infracciones administrativas las personas físicas o morales que realicen, directa o indirectamente, las acciones u omisiones señaladas en la presente ley.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 N.- Serán responsables solidarios las personas físicas o morales, propietarias del establecimiento, de la concesión, licencia o permiso del que sea empleado o dependiente la persona infractora.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 59 O.- Se instituye el Comité para la Certificación de Perros Guía como órgano técnico de apoyo en la certificación de perros guía. Dicho Comité será presidido por el servidor público que designe el Titular del Ejecutivo y contará con tres vocales que serán personas de la sociedad civil con conocimientos amplios en la materia y cuyos nombramientos serán honorarios.
+
+El Comité se reunirá por lo menos una vez al mes conforme lo establezca su reglamento, donde también se determinarán los procedimientos para su operación, y en sus sesiones conocerá de los asuntos que le encomiende la presente ley.
+
+El Comité podrá otorgar plazos para el cumplimiento de las obligaciones previstas en esta ley cuando existan causas de fuerza mayor.
+
+## TITULO VII
 
 ### CAPITULO UNICO. ESTIMULOS
 
@@ -363,23 +547,79 @@ ART. 60.- El Gobierno del Estado, otorgará estímulos, beneficios y reconocimie
 
 ART. 61.- El Gobierno del Estado, creará estímulos, premios, reconocimientos y becas para beneficiar a aquellas personas con discapacidad que se distingan en cualquier actividad, con el propósito de que la Sociedad les reconozca sus hechos y actitudes, ya sea en su desempeño diario o con la realización de acciones tendientes a superarse así mismo en su trabajo, en el deporte, en la ciencia o arte.
 
-## TITULO VII
+## TITULO VIII
 
 ### CAPITULO UNICO. SANCIONES Y MULTAS
 
-ART. 62.- La infracción a las disposiciones contenidas en este cuerpo legal, serán denunciadas a las autoridades correspondientes quien considerando la gravedad de la falta, aplicará la sanción establecida.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
 
-ART. 63.- Para los efecto (sic) de la presente Ley, se aplicará a petición de parte, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
+ART. 62.- Las infracción (sic) a las disposiciones contenidas en este cuerpo legal, serán denunciadas a las autoridades correspondientes quien considerando la gravedad de la falta, aplicará la sanción establecida.
 
-I.- Multa equivalente de 10 a 50 veces al salario mínimo vigente en la zona económica de que se trate, a quienes ocupen indebidamente los espacios de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
 
-II.- Multa equivalente de 180 a 240 veces el salario mínimo vigente en la zona económica que corresponda, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad.
+ART. 62 A.- Son infracciones leves:
 
-En caso de incurrir tres ocasiones en la misma falta, se procederá a la clausura temporal del local por cinco días.
+I. Ocupar indebidamente los espacios de estacionamiento preferencial.
 
-## TITULO VIII
+II. Obstruir las rampas o accesos para personas con discapacidad.
 
-### CAPITULO UNICO. DE RECURSO DE RECONSIDERACION E INCONFORMIDAD
+III. La exigencia de pago alguno por el acceso de los perros de guía sin que su entrada implique gasto adicional, conforme la presente ley.
+
+IV. El daño físico que le sea infligido a un perro guía por negligencia.
+
+V. Todas las conductas pasivas o activas que dificulten el ejercicio de los derechos reconocidos a las personas con discapacidad y a sus perros guía.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 62 B.- Son infracciones graves:
+
+I. El infringir los derechos reconocidos en la presente ley en cuanto a lugares, alojamientos, establecimientos, locales de propiedad privada.
+
+II. La comisión de tres faltas leves, sancionadas, en un período de dos años.
+
+III. Todas las conductas pasivas o activas que impidan en forma manifiesta y notoria el ejercicio de los derechos reconocidos a las personas con discapacidad y/o a sus perros guía.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 62 C.- Son infracciones muy graves:
+
+I. Negar el acceso o permanencia en lugares, alojamientos, locales y transportes públicos, previstos en el artículo 59-C de esta Ley.
+
+II. Que los empresarios, administradores y organizadores de espectáculos públicos omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad.
+
+III. El daño físico que le sea infligido en forma dolosa a un perro guía.
+
+IV. La comisión de tres faltas graves, sancionadas, en un período de dos años.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 63.- Para los efectos de la presente Ley, se aplicará, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
+
+I. Para las infracciones leves, multa equivalente de 10 a 50 días de salario mínimo vigente en la zona económica de que se trate.
+
+II. Para las infracciones graves, multa equivalente de 51 a 100 días de salario mínimo vigente en la zona económica de que se trate.
+
+III. Para las infracciones muy graves, multa equivalente de 100 a 300 días de salario mínimo en la zona económica de que se trate.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 63 A. En caso de incurrir tres ocasiones en la misma falta, se procederá a la clausura temporal del local por cinco días.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 63 B. Para la graduación de las sanciones se atenderá a la intencionalidad de la falta o grado de negligencia, la importancia del daño generado, la reincidencia de la conducta y las condiciones propias del caso.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 63 C. La imposición de cualquier sanción prevista en esta ley no excluye la responsabilidad civil y penal y la eventual indemnización de daños y perjuicios que puedan corresponder al infractor.
+
+Las sanciones anteriores se tramitarán y resolverán por parte del Sistema para el Desarrollo Integral de la Familia, sin perjuicio de lo dispuesto en el artículo 58 de la Ley Federal de Protección del Consumidor.
+
+## TITULO IX
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPITULO UNICO. DE LOS RECURSOS DE RECONSIDERACION E INCONFORMIDAD
 
 ART. 64.- Las resoluciones que se dicten en la aplicación de disposiciones de esta Ley, podrán ser impugnadas, ante la misma autoridad que las emita, a través del recurso de reconsideración.
 
@@ -394,8 +634,6 @@ ART. 68.- La interposición del recurso, salvo en el caso de que trata el artíc
 ART. 69.- La resolución que se dicte en la reconsideración no admitirá recurso alguno.
 
 ART. 70.- Contra las resoluciones en las que se impongan las sanciones contenidas en esta Ley procederá el recurso de inconformidad, que se interpondrá dentro de los quince días hábiles siguientes a la fecha de notificación de la resolución ante la misma autoridad que la emita.
-
-## TITULO IX
 
 ## TRANSITORIOS
 
@@ -460,3 +698,11 @@ P.O. 26 DE ENERO DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- La entrada en vigor del presente decreto, será en noventa días naturales, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los perros guía existentes en la actualidad, deberán adecuarse a los requisitos de reconocimiento e identificación previstos en esta ley, dentro del plazo de seis meses a partir del desarrollo reglamentario de ésta ley.
+
+TERCERO.- Los Municipios, dentro del ámbito de sus respectivas competencias, adaptarán sus reglamentos municipales sobre la materia a las normas contenidas en la presente ley, en el plazo de seis meses a partir de la entrada en vigor de esta ley.
