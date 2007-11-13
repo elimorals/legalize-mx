@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2007-09-27"
+last_updated: "2007-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2007.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -218,11 +218,11 @@ El contrato de trabajo sólo obligará a prestar el servicio convenido por el ti
 
 La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso pueda hacerse coacción sobre su persona.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 ###### Art. 6o.
 
-La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho a la información será garantizado por el Estado.
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
 > <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2007)</small>
 
@@ -988,49 +988,107 @@ La soberanía nacional reside esencial y originariamente en el pueblo. Todo pode
 
 Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, federal, compuesta de Estados libres y soberanos en todo lo concerniente a su régimen interior; pero unidos en una federación establecida según los principios de esta ley fundamental.
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 ###### Art. 41.
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
-> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
-
 La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-I. Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal y las formas específicas de su intervención en el proceso electoral. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales, municipales y del Distrito Federal.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación nacional y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación nacional y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-II. La ley garantizará que los partidos políticos nacionales cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley.
 
-El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y a lo que disponga la ley:
+II. La ley garantizará que los partidos políticos nacionales cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
-a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el Órgano Superior de Dirección del Instituto Federal Electoral, el número de senadores y diputados a elegir, el número de partidos políticos con representación en las Cámaras del Congreso de la Unión y la duración de las campañas electorales. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-b) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año; y
+a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del salario mínimo diario vigente para el Distrito Federal. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
-c) Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
+b) El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan Presidente de la República, senadores y diputados federales, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados federales, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias.
 
-La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
-III. La organización de las elecciones federales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Federal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo de la Unión, los partidos políticos nacionales y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña presidencial; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-El Instituto Federal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y se integrará por un consejero Presidente y ocho consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un Secretario Ejecutivo; la ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la ley electoral y del Estatuto que con base en ella aprueba el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos nacionales. Las mesas directivas de casilla estarán integradas por ciudadanos.
+De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Federación.
 
-El consejero Presidente y los consejeros electorales del Consejo General serán elegidos, sucesivamente, por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, o en sus recesos por la Comisión Permanente, a propuesta de los grupos parlamentarios. Conforme al mismo procedimiento, se designarán ocho consejeros electorales suplentes, en orden de prelación. La ley establecerá las reglas y el procedimiento correspondientes.
+III. Los partidos políticos nacionales tendrán derecho al uso de manera permanente de los medios de comunicación social.
 
-El consejero Presidente y los consejeros electorales durarán en su cargo siete años y no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados. La retribución que perciban el consejero Presidente y los consejeros electorales será igual a la prevista para los Ministros de la Suprema Corte de Justicia de la Nación.
+Apartado A. El Instituto Federal Electoral será autoridad única para la administración del tiempo que corresponda al Estado en radio y televisión destinado a sus propios fines y al ejercicio del derecho de los partidos políticos nacionales, de acuerdo con lo siguiente y a lo que establezcan las leyes:
 
-El Secretario Ejecutivo será nombrado por las dos terceras partes del Consejo General a propuesta de su Presidente.
+a) A partir del inicio de las precampañas y hasta el día de la jornada electoral quedarán a disposición del Instituto Federal Electoral cuarenta y ocho minutos diarios, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario referido en el inciso d) de este apartado;
 
-La ley establecerá los requisitos que deberán reunir para su designación el consejero Presidente del Consejo General, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Federal Electoral, los que estarán sujetos al régimen de responsabilidades establecido en el Título Cuarto de esta Constitución.
+b) Durante sus precampañas, los partidos políticos dispondrán en conjunto de un minuto por cada hora de transmisión en cada estación de radio y canal de televisión; el tiempo restante se utilizará conforme a lo que determine la ley;
+
+c) Durante las campañas electorales deberá destinarse para cubrir el derecho de los partidos políticos al menos el ochenta y cinco por ciento del tiempo total disponible a que se refiere el inciso a) de este apartado;
+
+d) Las transmisiones en cada estación de radio y canal de televisión se distribuirán dentro del horario de programación comprendido entre las seis y las veinticuatro horas;
+
+e) El tiempo establecido como derecho de los partidos políticos se distribuirá entre los mismos conforme a lo siguiente: el treinta por ciento en forma igualitaria y el setenta por ciento restante de acuerdo a los resultados de la elección para diputados federales inmediata anterior;
+
+f) A cada partido político nacional sin representación en el Congreso de la Unión se le asignará para radio y televisión solamente la parte correspondiente al porcentaje igualitario establecido en el inciso anterior, y
+
+g) Con independencia de lo dispuesto en los apartados A y B de esta base y fuera de los periodos de precampañas y campañas electorales federales, al Instituto Federal Electoral le será asignado hasta el doce por ciento del tiempo total de que el Estado disponga en radio y televisión, conforme a las leyes y bajo cualquier modalidad; del total asignado, el Instituto distribuirá entre los partidos políticos nacionales en forma igualitaria un cincuenta por ciento; el tiempo restante lo utilizará para fines propios o de otras autoridades electorales, tanto federales como de las entidades federativas. Cada partido político nacional utilizará el tiempo que por este concepto le corresponda en un programa mensual de cinco minutos y el restante en mensajes con duración de veinte segundos cada uno. En todo caso, las transmisiones a que se refiere este inciso se harán en el horario que determine el Instituto conforme a lo señalado en el inciso d) del presente Apartado. En situaciones especiales el Instituto podrá disponer de los tiempos correspondientes a mensajes partidistas a favor de un partido político, cuando así se justifique.
+
+Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio nacional de este tipo de mensajes contratados en el extranjero.
+
+Las disposiciones contenidas en los dos párrafos anteriores deberán ser cumplidas en el ámbito de los estados y el Distrito Federal conforme a la legislación aplicable.
+
+Apartado B. Para fines electorales en las entidades federativas, el Instituto Federal Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad de que se trate, conforme a lo siguiente y a lo que determine la ley:
+
+a) Para los casos de los procesos electorales locales con jornadas comiciales coincidentes con la federal, el tiempo asignado en cada entidad federativa estará comprendido dentro del total disponible conforme a los incisos a), b) y c) del apartado A de esta base;
+
+b) Para los demás procesos electorales, la asignación se hará en los términos de la ley, conforme a los criterios de esta base constitucional, y
+
+c) La distribución de los tiempos entre los partidos políticos, incluyendo a los de registro local, se realizará de acuerdo a los criterios señalados en el apartado A de esta base y lo que determine la legislación aplicable.
+
+Cuando a juicio del Instituto Federal Electoral el tiempo total en radio y televisión a que se refieren este apartado y el anterior fuese insuficiente para sus propios fines o los de otras autoridades electorales, determinará lo conducente para cubrir el tiempo faltante, conforme a las facultades que la ley le confiera.
+
+Apartado C. En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+
+Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+
+Apartado D. Las infracciones a lo dispuesto en esta base serán sancionadas por el Instituto Federal Electoral mediante procedimientos expeditos, que podrán incluir la orden de cancelación inmediata de las transmisiones en radio y televisión, de concesionarios y permisionarios, que resulten violatorias de la ley.
+
+IV. La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales.
+
+La duración de las campañas en el año de elecciones para Presidente de la República, senadores y diputados federales será de noventa días; en el año en que sólo se elijan diputados federales, las campañas durarán sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales.
+
+La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la ley.
+
+V. La organización de las elecciones federales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Federal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo de la Unión, los partidos políticos nacionales y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+
+El Instituto Federal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y se integrará por un consejero Presidente y ocho consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un Secretario Ejecutivo; la ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Una Contraloría General tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto. Las disposiciones de la ley electoral y del Estatuto que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo con los servidores del organismo público. Los órganos de vigilancia del padrón electoral se integrarán mayoritariamente por representantes de los partidos políticos nacionales. Las mesas directivas de casilla estarán integradas por ciudadanos.
+
+El consejero Presidente durará en su cargo seis años y podrá ser reelecto una sola vez. Los consejeros electorales durarán en su cargo nueve años, serán renovados en forma escalonada y no podrán ser reelectos. Según sea el caso, uno y otros serán elegidos sucesivamente por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, a propuesta de los grupos parlamentarios, previa realización de una amplia consulta a la sociedad. De darse la falta absoluta del consejero Presidente o de cualquiera de los consejeros electorales, el sustituto será elegido para concluir el periodo de la vacante. La ley establecerá las reglas y el procedimiento correspondientes.
+
+El consejero Presidente y los consejeros electorales no podrán tener otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados. La retribución que perciban será igual a la prevista para los Ministros de la Suprema Corte de Justicia de la Nación.
+
+El titular de la Contraloría General del Instituto será designado por la Cámara de Diputados con el voto de las dos terceras partes de sus miembros presentes a propuesta de instituciones públicas de educación superior, en la forma y términos que determine la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la presidencia del Consejo General y mantendrá la coordinación técnica necesaria con la entidad de fiscalización superior de la Federación.
+
+El Secretario Ejecutivo será nombrado con el voto de las dos terceras partes del Consejo General a propuesta de su Presidente.
+
+La ley establecerá los requisitos que deberán reunir para su designación el consejero presidente del Consejo General, los consejeros electorales, el Contralor General y el Secretario Ejecutivo del Instituto Federal Electoral; quienes hayan fungido como consejero Presidente, consejeros electorales y Secretario Ejecutivo no podrán ocupar, dentro de los dos años siguientes a la fecha de su retiro, cargos en los poderes públicos en cuya elección hayan participado.
 
 Los consejeros del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en alguna de las Cámaras. Sólo habrá un Consejero por cada grupo parlamentario no obstante su reconocimiento en ambas Cámaras del Congreso de la Unión.
 
 El Instituto Federal Electoral tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de diputados y senadores, cómputo de la elección de Presidente de los Estados Unidos Mexicanos en cada uno de los distritos electorales uninominales, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
 
-IV.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación en los términos del artículo 99 de esta Constitución.
+La fiscalización de las finanzas de los partidos políticos nacionales estará a cargo de un órgano técnico del Consejo General del Instituto Federal Electoral, dotado de autonomía de gestión, cuyo titular será designado por el voto de las dos terceras partes del propio Consejo a propuesta del consejero Presidente. La ley desarrollará la integración y funcionamiento de dicho órgano, así como los procedimientos para la aplicación de sanciones por el Consejo General. En el cumplimiento de sus atribuciones el órgano técnico no estará limitado por los secretos bancario, fiduciario y fiscal.
 
-En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+El órgano técnico será el conducto para que las autoridades competentes en materia de fiscalización partidista en el ámbito de las entidades federativas puedan superar la limitación a que se refiere el párrafo anterior.
+
+El Instituto Federal Electoral asumirá mediante convenio con las autoridades competentes de las entidades federativas que así lo soliciten, la organización de procesos electorales locales, en los términos que disponga la legislación aplicable.
+
+VI. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos del artículo 99 de esta Constitución.
+
+En materia electoral la interposición de los medios de impugnación, constitucionales o legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
 ### CAPITULO II.
 
@@ -1624,7 +1682,7 @@ Cuando inicie su encargo en la fecha prevista por el artículo 83, el Ejecutivo 
 
 > <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
-No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
+No podrá haber otras partidas secretas, fuera de las que se consideren necesarias, con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
 
 > <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
@@ -1846,15 +1904,21 @@ Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde
 
 Cuando la falta de presidente ocurriese en los cuatro últimos años del período respectivo, si el Congreso de la Unión se encontrase en sesiones, designará al presidente substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un presidente provisional y convocará al Congreso de la Unión a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección del presidente substituto.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 ###### Art. 85.
 
-Si al comenzar un período constitucional no se presentase el presidente electo, o la elección no estuviera hecha y declarada el 1º de diciembre, cesará, sin embargo, el presidente cuyo período haya concluído y se encargará desde luego del Poder Ejecutivo, en calidad de presidente interino, el que designe el Congreso de la Unión, o en su falta con el carácter de provisional, el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el artículo anterior.
+Si al comenzar un periodo constitucional no se presentase el presidente electo, o la elección no estuviere hecha o declarada válida el 1o. de diciembre, cesará, sin embargo, el Presidente cuyo periodo haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Presidente interino, el que designe el Congreso de la Unión, o en su falta con el carácter de provisional, el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 Cuando la falta del presidente fuese temporal, el Congreso de la Unión, si estuviese reunido, o en su defecto la Comisión Permanente, designará un presidente interino para que funcione durante el tiempo que dure dicha falta.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+
 Cuando la falta del presidente sea por más de treinta días y el Congreso de la Unión no estuviere reunido, la Comisión Permanente convocará a sesiones extraordinarias del Congreso para que éste resuelva sobre la licencia y nombre, en su caso, al presidente interino.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 Si la falta, de temporal se convierte en absoluta, se procederá como dispone el artículo anterior.
 
@@ -2068,7 +2132,7 @@ Los Magistrados de Circuito y los Jueces de Distrito serán nombrados y adscrito
 
 La Suprema Corte de Justicia de la Nación podrá nombrar alguno o algunos de sus miembros o algún Juez de Distrito o Magistrado de Circuito, o designar uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal o alguna de las Cámaras del Congreso de la Unión, o el Gobernador de algún Estado, únicamente para que averigüe algún hecho o hechos que constituyan una grave violación de alguna garantía individual. También podrá solicitar al Consejo de la Judicatura Federal, que averigüe la conducta de algún juez o magistrado federal.
 
-La Suprema Corte de Justicia está facultada para practicar de oficio la averiguación de algún hecho o hechos que constituyan la violación del voto público, pero sólo en los casos en que a su juicio pudiera ponerse en duda la legalidad de todo el proceso de elección de alguno de los Poderes de la Unión. Los resultados de la investigación se harán llegar oportunamente a los órganos competentes.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 La Suprema Corte de Justicia nombrará y removerá a su secretario y demás funcionarios y empleados. Los Magistrados y jueces nombrarán y removerán a los respectivos funcionarios y empleados de los Tribunales de Circuito y de los Juzgados de Distrito, conforme a lo que establezca la ley respecto de la carrera judicial.
 
@@ -2102,13 +2166,13 @@ Las renuncias de los Ministros de la Suprema Corte de Justicia solamente procede
 
 Las licencias de los Ministros, cuando no excedan de un mes, podrán ser concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, podrán concederse por el Presidente de la República con la aprobación del Senado. Ninguna licencia podrá exceder del término de dos años.
 
-> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 ###### Art. 99.
 
 El Tribunal Electoral será, con excepción de lo dispuesto en la fracción II del artículo 105 de esta Constitución, la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial de la Federación.
 
-Para el ejercicio de sus atribuciones, el Tribunal funcionará con una Sala Superior así como con Salas Regionales y sus sesiones de resolución serán públicas, en los términos que determine la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+Para el ejercicio de sus atribuciones, el Tribunal funcionará en forma permanente con una Sala Superior y salas regionales; sus sesiones de resolución serán públicas, en los términos que determine la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
 La Sala Superior se integrará por siete Magistrados Electorales. El Presidente del Tribunal será elegido por la Sala Superior, de entre sus miembros, para ejercer el cargo por cuatro años.
 
@@ -2118,35 +2182,43 @@ I. Las impugnaciones en las elecciones federales de diputados y senadores;
 
 II. Las impugnaciones que se presenten sobre la elección de Presidente de los Estados Unidos Mexicanos que serán resueltas en única instancia por la Sala Superior.
 
-La Sala Superior realizará el cómputo final de la elección de Presidente de los Estados Unidos Mexicanos, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Presidente Electo respecto del candidato que hubiese obtenido el mayor número de votos;
+Las salas Superior y regionales del Tribunal sólo podrán declarar la nulidad de una elección por las causales que expresamente se establezcan en las leyes.
+
+La Sala Superior realizará el cómputo final de la elección de Presidente de los Estados Unidos Mexicanos, una vez resueltas las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular, en su caso, la declaración de validez de la elección y la de Presidente Electo respecto del candidato que hubiese obtenido el mayor número de votos.
 
 III. Las impugnaciones de actos y resoluciones de la autoridad electoral federal, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
 
-> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2007)</small>
+IV. Las impugnaciones de actos o resoluciones definitivos y firmes de las autoridades competentes de las entidades federativas para organizar y calificar los comicios o resolver las controversias que surjan durante los mismos, que puedan resultar determinantes para el desarrollo del proceso respectivo o el resultado final de las elecciones. Esta vía procederá solamente cuando la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales y sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios elegidos;
 
-IV. Las impugnaciones de actos o resoluciones definitivos y firmes de las autoridades competentes de las entidades federativas para organizar y calificar los comicios o resolver las controversias que surjan durante los mismos, que puedan resultar determinantes para el desarrollo del proceso respectivo o el resultado final de las elecciones. Esta vía procederá solamente cuando se viole algún precepto establecido en esta Constitución, la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales y sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios elegidos;
-
-V. Las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del país, en los términos que señalen esta Constitución y las leyes;
+V. Las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del país, en los términos que señalen esta Constitución y las leyes. Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por violaciones a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas, la ley establecerá las reglas y plazos aplicables;
 
 VI. Los conflictos o diferencias laborales entre el Tribunal y sus servidores;
 
 VII. Los conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores;
 
-VIII. La determinación e imposición de sanciones en la materia; y
+VIII. La determinación e imposición de sanciones por parte del Instituto Federal Electoral a partidos o agrupaciones políticas o personas físicas o morales, nacionales o extranjeras, que infrinjan las disposiciones de esta Constitución y las leyes, y
 
 IX. Las demás que señale la ley.
 
-Cuando una Sala del Tribunal Electoral sustente una tesis sobre la inconstitucionalidad de algún acto o resolución o sobre la interpretación de un precepto de esta Constitución, y dicha tesis pueda ser contradictoria con una sostenida por las Salas o el Pleno de la Suprema Corte de Justicia, cualquiera de los Ministros, las Salas o las partes, podrán denunciar la contradicción, en los términos que señale la ley, para que el Pleno de la Suprema Corte de Justicia de la Nación decida en definitiva cual tesis debe prevalecer. Las resoluciones que se dicten en este supuesto no afectarán los asuntos ya resueltos.
+Las salas del Tribunal Electoral harán uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
 
-La organización del Tribunal, la competencia de las Salas, los procedimientos para la resolución de los asuntos de su competencia, así como los mecanismos para fijar criterios de jurisprudencia obligatorios en la materia, serán los que determinen esta Constitución y las leyes.
+Sin perjuicio de lo dispuesto por el artículo 105 de esta Constitución, las salas del Tribunal Electoral podrán resolver la no aplicación de leyes sobre la materia electoral contrarias a la presente Constitución. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio. En tales casos la Sala Superior informará a la Suprema Corte de Justicia de la Nación.
 
-La administración, vigilancia y disciplina en el Tribunal Electoral corresponderán, en los términos que señale la ley, a una Comisión del Consejo de la Judicatura Federal, que se integrará por el Presidente del Tribunal Electoral, quien la presidirá; un Magistrado Electoral de la Sala Superior designado por insaculación; y tres miembros del Consejo de la Judicatura Federal. El Tribunal propondrá su presupuesto al Presidente de la Suprema Corte de Justicia de la Nación para su inclusión en el proyecto del Presupuesto del Poder Judicial de la Federación. Asimismo, el Tribunal expedirá su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+Cuando una sala del Tribunal Electoral sustente una tesis sobre la inconstitucionalidad de algún acto o resolución o sobre la interpretación de un precepto de esta Constitución, y dicha tesis pueda ser contradictoria con una sostenida por las salas o el Pleno de la Suprema Corte de Justicia, cualquiera de los Ministros, las salas o las partes, podrán denunciar la contradicción en los términos que señale la ley, para que el pleno de la Suprema Corte de Justicia de la Nación decida en definitiva cuál tesis debe prevalecer. Las resoluciones que se dicten en este supuesto no afectarán los asuntos ya resueltos.
 
-Los Magistrados Electorales que integren la Sala Superior y las regionales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores, o en sus recesos por la Comisión Permanente, a propuesta de la Suprema Corte de Justicia de la Nación. La ley señalará las reglas y el procedimiento correspondientes.
+La organización del Tribunal, la competencia de las salas, los procedimientos para la resolución de los asuntos de su competencia, así como los mecanismos para fijar criterios de jurisprudencia obligatorios en la materia, serán los que determinen esta Constitución y las leyes.
 
-Los Magistrados Electorales que integren la Sala Superior deberán satisfacer los requisitos que establezca la ley, que no podrán ser menores a los que se exigen para ser Ministro de la Suprema Corte de Justicia de la Nación y durarán en su encargo diez años improrrogables. Las renuncias, ausencias y licencias de los Magistrados Electorales de la Sala Superior serán tramitadas, cubiertas y otorgadas por dicha Sala, según corresponda, en los términos del artículo 98 de esta Constitución.
+La Sala Superior podrá, de oficio, a petición de parte o de alguna de las salas regionales, atraer los juicios de que conozcan éstas; asimismo, podrá enviar los asuntos de su competencia a las salas regionales para su conocimiento y resolución. La ley señalará las reglas y los procedimientos para el ejercicio de tales facultades.
 
-Los Magistrados Electorales que integren las salas regionales deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que se exigen para ser Magistrado de Tribunal Colegiado de Circuito. Durarán en su encargo ocho años improrrogables, salvo si son promovidos a cargos superiores.
+La administración, vigilancia y disciplina en el Tribunal Electoral corresponderán, en los términos que señale la ley, a una Comisión del Consejo de la Judicatura Federal, que se integrará por el Presidente del Tribunal Electoral, quien la presidirá; un Magistrado Electoral de la Sala Superior designado por insaculación; y tres miembros del Consejo de la Judicatura Federal. El Tribunal propondrá su presupuesto al Presidente de la Suprema Corte de Justicia de la Nación para su inclusión en el proyecto de Presupuesto del Poder Judicial de la Federación. Asimismo, el Tribunal expedirá su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+
+Los Magistrados Electorales que integren las salas Superior y regionales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores a propuesta de la Suprema Corte de Justicia de la Nación. La elección de quienes las integren será escalonada, conforme a las reglas y al procedimiento que señale la ley.
+
+Los Magistrados Electorales que integren la Sala Superior deberán satisfacer los requisitos que establezca la ley, que no podrán ser menores a los que se exigen para ser Ministro de la Suprema Corte de Justicia de la Nación, y durarán en su encargo nueve años improrrogables. Las renuncias, ausencias y licencias de los Magistrados Electorales de la Sala Superior serán tramitadas, cubiertas y otorgadas por dicha Sala, según corresponda, en los términos del artículo 98 de esta Constitución.
+
+Los Magistrados Electorales que integren las salas regionales deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que se exige para ser Magistrado de Tribunal Colegiado de Circuito. Durarán en su encargo nueve años improrrogables, salvo si son promovidos a cargos superiores.
+
+En caso de vacante definitiva se nombrará a un nuevo Magistrado por el tiempo restante al del nombramiento original.
 
 El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial de la Federación y a las reglas especiales y excepciones que señale la ley.
 
@@ -2214,7 +2286,7 @@ Los impedimentos de este artículo serán aplicables a los funcionarios judicial
 
 La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial de la Federación, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
-> <small>N. DE E. EL CONTENIDO DEL ARTICULO ANTERIOR 102, PASA A SER EL APARTADO A DEL PROPIO ARTICULO Y SE ADICIONA A ESTE UN APARTADO B, D.O.F. 28 DE ENERO DE 1992.</small>
+> <small>N. DE E. EL CONTENIDO DEL ANTERIOR ARTICULO 102, PASA A SER EL APARTADO A DEL PROPIO ARTICULO Y SE ADICIONA A ESTE UN APARTADO B, D.O.F. 28 DE ENERO DE 1992.</small>
 
 ###### Art. 102.
 
@@ -2532,11 +2604,11 @@ XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)
 
 DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 ###### Art. 108.
 
-Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial Federal y del Poder Judicial del Distrito Federal, los funcionarios y empleados, y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal o en el Distrito Federal, así como a los servidores del Instituto Federal Electoral, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial Federal y del Poder Judicial del Distrito Federal, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso de la Unión, en la Asamblea Legislativa del Distrito Federal o en la Administración Pública Federal o en el Distrito Federal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -2874,31 +2946,41 @@ Los magistrados durarán en el ejercicio de su encargado (sic) el tiempo que se�
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
-IV.- Las Constituciones y leyes de los Estados en materia electoral garantizarán que:
+IV. Las Constituciones y leyes de los Estados en materia electoral garantizarán que:
 
-a) Las elecciones de los gobernadores de los Estados, de los miembros de las legislaturas locales y de los integrantes de los ayuntamientos se realicen mediante sufragio universal, libre, secreto y directo;
+a) Las elecciones de los gobernadores, de los miembros de las legislaturas locales y de los integrantes de los ayuntamientos se realicen mediante sufragio universal, libre, secreto y directo; y que la jornada comicial tenga lugar el primer domingo de julio del año que corresponda. Los Estados cuyas jornadas electorales se celebren en el año de los comicios federales y no coincidan en la misma fecha de la jornada federal, no estarán obligados por esta última disposición;
 
-b) En el ejercicio de la función electoral a cargo de las autoridades electorales sean principios rectores los de legalidad, imparcialidad, objetividad, certeza e independencia;
+b) En el ejercicio de la función electoral, a cargo de las autoridades electorales, sean principios rectores los de certeza, imparcialidad, independencia, legalidad y objetividad;
 
 c) Las autoridades que tengan a su cargo la organización de las elecciones y las jurisdiccionales que resuelvan las controversias en la materia, gocen de autonomía en su funcionamiento e independencia en sus decisiones;
 
-d) Se establezca un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad;
+d) Las autoridades electorales competentes de carácter administrativo puedan convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales;
 
-e) Se fijen los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales;
+e) Los partidos políticos sólo se constituyan por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo tengan reconocido el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2o., apartado A, fracciones III y VII, de esta Constitución;
 
-f) De acuerdo con las disponibilidades presupuestales, los partidos políticos reciban, en forma equitativa, financiamiento público para su sostenimiento y cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del sufragio universal;
+f) Las autoridades electorales solamente puedan intervenir en los asuntos internos de los partidos en los términos que expresamente señalen;
 
-g) Se propicien condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social;
+g) Los partidos políticos reciban, en forma equitativa, financiamiento público para sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Del mismo modo se establezca el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes;
 
-h) Se fijen los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; se establezcan, asimismo, las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias; e
+h) Se fijen los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; y establezcan las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias;
 
-i) Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse;
+i) Los partidos políticos accedan a la radio y la televisión, conforme a las normas establecidas por el apartado B de la base III del artículo 41 de esta Constitución;
+
+j) Se fijen las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. En todo caso, la duración de las campañas no deberá exceder de noventa días para la elección de gobernador, ni de sesenta días cuando sólo se elijan diputados locales o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales;
+
+k) Se instituyan bases obligatorias para la coordinación entre el Instituto Federal Electoral y las autoridades electorales locales en materia de fiscalización de las finanzas de los partidos políticos, en los términos establecidos en los dos últimos párrafos de la base V del artículo 41 de esta Constitución;
+
+l) Se establezca un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Igualmente, que se señalen los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación;
+
+m) Se fijen las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales, y
+
+n) Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
 
 V.- Las Constituciones y leyes de los Estados podrán instituir Tribunales de lo Contencioso-Administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
-VI.- Las relaciones de trabajo entre los estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y
+VI.- Las relaciones de trabajo entre los estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
 VII.- La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
@@ -3052,7 +3134,9 @@ d).- Nombrar a quien deba sustituir en caso de falta absoluta, al Jefe de Gobier
 
 e).- Expedir las disposiciones legales para organizar la hacienda pública, la contaduría mayor y el presupuesto, la contabilidad y el gasto público del Distrito Federal;
 
-f).- Expedir las disposiciones que rijan las elecciones locales en el Distrito Federal, sujetándose a las bases que establezca el Estatuto de Gobierno, las cuales tomarán en cuenta los principios establecidos en los incisos b) al i) de la fracción IV del artículo 116 de esta Constitución. En estas elecciones sólo podrán participar los partidos políticos con registro nacional;
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
+f).- Expedir las disposiciones que garanticen en el Distrito Federal elecciones libres y auténticas, mediante sufragio universal, libre, secreto y directo; sujetándose a las bases que establezca el Estatuto de Gobierno, las cuales cumplirán los principios y reglas establecidos en los incisos b) al n) de la fracción IV del artículo 116 de esta Constitución, para lo cual las referencias que los incisos j) y m) hacen a gobernador, diputados locales y ayuntamientos se asumirán, respectivamente, para Jefe de Gobierno, diputados a la Asamblea Legislativa y Jefes Delegacionales;
 
 g).- Legislar en materia de Administración Pública local, su régimen interno y de procedimientos administrativos;
 
@@ -3557,6 +3641,18 @@ Cuando las licitaciones a que hace referencia el párrafo anterior no sean idón
 El manejo de recursos económicos federales se sujetará a las bases de este artículo.
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
+Los servidores públicos de la Federación, los Estados y los municipios, así como del Distrito Federal y sus delegaciones, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 ## TITULO OCTAVO.
 
@@ -4382,13 +4478,13 @@ Las presentes adiciones y reformas entrarán en vigor al día siguiente de su pu
 
 D.O.F. 9 DE ENERO DE 1978.
 
-DECRETO ADICIONA LA FRACCION XII Y REFORMA LA FRACCION XIII, AMBAS DEL APARTADO "A" DEL ARTICULO 123.
+DECRETO QUE ADICIONA LA FRACCION XII Y REFORMA LA FRACCION XIII, AMBAS DEL APARTADO "A" DEL ARTICULO 123.
 
 UNICO.- El Presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 9 DE ENERO DE 1978.
 
-DECRETO QUE REFORMA LA FRACCION XXXI, DEL APARTADO "A" DEL ARTICULO 123.
+DECRETO QUE REFORMA LA FRACCION XXXI, DEL APARTADO "A", DEL ARTICULO 123.
 
 ###### ARTICULO PRIMERO.
 
@@ -5223,6 +5319,34 @@ SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al cont
 D.O.F. 27 DE SEPTIEMBRE DE 2007.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE NOVIEMBRE DE 2007.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Por única vez el Instituto Federal Electoral deberá establecer, conforme a las bases legales que se expidan, tope de gastos para campaña presidencial en el año 2008, sólo para efecto de determinar el monto total del financiamiento privado que podrá obtener anualmente cada partido político.
+
+Artículo Tercero. El Congreso de la Unión deberá realizar las adecuaciones que correspondan en las leyes federales en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia de este Decreto.
+
+Artículo Cuarto. Para los efectos de lo establecido en el tercer párrafo de la base V del artículo 41 de esta Constitución, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, la Cámara de Diputados procederá a integrar el Consejo General del Instituto Federal Electoral conforme a las siguientes bases:
+
+a) Elegirá a un nuevo consejero Presidente, cuyo mandato concluirá el 30 de octubre de 2013; llegado el caso, el así nombrado podrá ser reelecto por una sola vez, en los términos de lo establecido en el citado párrafo tercero del artículo 41 de esta Constitución;
+
+b) Elegirá, dos nuevos consejeros electorales, cuyo mandato concluirá el 30 de octubre de 2016;
+
+c) Elegirá, de entre los ocho consejeros electorales en funciones a la entrada en vigor de este Decreto, a tres que concluirán su mandato el 15 de agosto de 2008 y a tres que continuarán en su encargo hasta el 30 de octubre de 2010;
+
+d) A más tardar el 15 de agosto de 2008, elegirá a tres nuevos consejeros electorales que concluirán su mandato el 30 de octubre de 2013.
+
+Los consejeros electorales y el consejero Presidente del Consejo General del Instituto Federal Electoral, en funciones a la entrada en vigor del presente Decreto, continuarán en sus cargos hasta en tanto la Cámara de Diputados da cumplimiento a lo dispuesto en el presente artículo. Queda sin efectos el nombramiento de consejeros electorales suplentes del Consejo General del Instituto Federal Electoral establecido por el Decreto publicado en el Diario Oficial de la Federación de fecha 31 de octubre de 2003.
+
+Artículo Quinto. Para los efectos de la renovación escalonada de los Magistrados Electorales de la Sala Superior y de las salas regionales del Tribunal Electoral del Poder Judicial de la Federación a que se refiere el artículo 99 de esta Constitución, se estará a lo que determine la Ley Orgánica del Poder Judicial de la Federación.
+
+Artículo Sexto. Las legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal deberán adecuar su legislación aplicable conforme a lo dispuesto en este Decreto, a más tardar en un año a partir de su entrada en vigor; en su caso, se observará lo dispuesto en el artículo 105, fracción II, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Los Estados que a la entrada en vigor del presente Decreto hayan iniciado procesos electorales o estén por iniciarlos, realizarán sus comicios conforme lo establezcan sus disposiciones constitucionales y legales vigentes, pero una vez terminado el proceso electoral deberán realizar las adecuaciones a que se refiere el párrafo anterior en el mismo plazo señalado, contado a partir del día siguiente de la conclusión del proceso comicial respectivo.
+
+Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
