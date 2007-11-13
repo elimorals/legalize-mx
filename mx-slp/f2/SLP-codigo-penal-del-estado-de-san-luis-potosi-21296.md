@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2007-09-20"
+last_updated: "2007-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1797,27 +1797,13 @@ Si los delitos que contiene este artículo son cometidos por quien se valga de u
 
 Las sanciones que se señalan en este artículo se duplicarán cuando quien comete los delitos, o autoriza la comisión de los mismos, tiene parentesco consanguíneo en línea recta sin limitación de grado, consanguíneo colateral hasta el cuarto grado, por afinidad o civil, o habite en el mismo domicilio con la víctima, aún y cuando no exista parentesco alguno, así como por el tutor y curador, perdiendo además la patria potestad respecto de la persona menor de dieciocho años de edad, o de personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo.
 
-(REUBICADO, P.O. 5 DE JULIO DE 2007)
-
 ###### ARTICULO 185.
 
-Comete el delito de ultrajes a la moral o a las buenas costumbres quien en un sitio público y por cualquier medio ejecuta o hace ejecutar por otro exhibiciones obscenas.
-
-Este delito se sancionará con una pena de seis meses a dos años de prisión y sanción pecuniaria de diez a cuarenta días de salario mínimo.
-
-(REUBICADO, P.O. 5 DE JULIO DE 2007)
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 186.
 
-Comete el delito de lenocinio y trata de personas, quien:
-
-I. Habitual u ocasionalmente explota el cuerpo de otra persona por medio del comercio carnal, y obtiene de él un lucro;
-
-II. Induce o coacciona a una persona para que con otra comercie sexualmente con su cuerpo o le facilita los medios para que se entregue a la prostitución, y
-
-III. Regentea, administra o sostiene, directa o indirectamente, prostíbulos, casas de citas o lugares de concurrencia expresamente dedicados a explotar la prostitución u obtenga cualquier beneficio con sus productos.
-
-Este delito se sancionará con una pena de tres a ocho años de prisión y sanción pecuniaria de trescientos a ochocientos días de salario mínimo.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2007)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
 
@@ -3256,3 +3242,7 @@ P.O. 20 DE SEPTIEMBRE DE 2007.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2007.
+
+UNICO. Este Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
