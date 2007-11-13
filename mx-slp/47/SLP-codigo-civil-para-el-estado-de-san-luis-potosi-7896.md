@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2007-09-27"
+last_updated: "2007-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -1758,6 +1758,16 @@ ART. 344.- La posesión de estado, para los efectos de la fracción II del artí
 ART. 345.- Está permitido al hijo nacido fuera del matrimonio y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
 
 ART. 346.- No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 346 BIS.- En los casos de investigación de la paternidad o de la maternidad de los hijos nacidos fuera del matrimonio, deberá incluirse la prueba pericial en genética molecular del ácido desoxirribonucleico, llamada prueba de ADN.
+
+En caso de que el presunto progenitor o progenitora, se niegue sin ninguna justificación válida, a que le sea realizada la prueba de ADN, dispuesta por el juez, en un juicio de investigación de paternidad o maternidad, ésta se presumirá, salvo prueba en contrario.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 346 TER.- Se procederá en los términos de la legislación aplicable, en contra de quien haya ejercitado cualesquiera de las acciones de investigación de paternidad o maternidad, y no la acredite.
 
 ART. 347.- El hecho de dar alimentos no constituye por sí solo prueba, ni aún presunción de paternidad o maternidad.
 
@@ -9938,5 +9948,11 @@ Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 27 DE SEPTIEMBRE DE 2007.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
