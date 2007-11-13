@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-turismo-29625"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-06"
-last_updated: "2005-01-10"
+last_updated: "2007-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el lunes 6 de mayo de 2002.
 
@@ -58,6 +58,10 @@ I. Dirección de Promoción Turística;
 II. Dirección de Desarrollo Turístico;
 
 III. Dirección de Proyectos, Programas e Inversiones;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+III Bis. Dirección de Filmaciones;
 
 IV. Dirección de Servicios y Atractivos Turísticos;
 
@@ -169,7 +173,7 @@ XXII. Las demás que les confieran expresamente las disposiciones legales y regl
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 10 DE ENERO DE 2005)</small>
 
-### CAPÍTULO IV. ATRIBUCIONES Y FACULTADES ESPECÍFICAS DE LAS DIRECCIONES, COORDINACIÓN ADMINISTRATIVA Y UNIDAD DE CONTRALORÍA INTERNA
+### CAPITULO IV. ATRIBUCIONES Y FACULTADES ESPECÍFICAS DE LAS DIRECCIONES, COORDINACIÓN ADMINISTRATIVA Y UNIDAD DE CONTRALORÍA INTERNA
 
 ###### Artículo 9.
 
@@ -276,6 +280,36 @@ VIII. Participar en eventos relacionados con el ecoturismo;
 IX. Promover la integración de paquetes turísticos dirigidos a incrementar el flujo del turismo estatal; y
 
 X. Las demás que le confiera la Ley, el presente reglamento, otras disposiciones legales aplicables y las que le encomiende el Secretario.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 11 Bis.
+
+La Dirección Filmaciones tendrá las siguientes facultades:
+
+I. Participar en eventos relacionados con los medios audiovisuales, promocionando al Estado como locación y afianzando producciones audiovisuales que se traduzcan en empleos temporales y derrama económica e incrementen el flujo turístico y la estadía en la entidad;
+
+II. Promover, en coordinación con la Dirección de Desarrollo Turístico y las diferentes instituciones educativas, la impartición de cursos técnicos y capacitación relacionados con la industria cinematográfica;
+
+III. En coordinación con la Dirección de Promoción Turística, diseñar, elaborar y distribuir el material promocional y los catálogos en los que se promuevan las diferentes locaciones del Estado;
+
+IV.- Elaborar y actualizar el catálogo y archivo fotográfico de sitios del Estado para promoverlos como locación ante las industrias fílmica y televisiva;
+
+V.- Elaborar y actualizar el catálogo y archivo fotográfico de actores, actrices y extras residentes en la entidad;
+
+VI.- Visitar y atender a directores y productores de medios audiovisuales;
+
+VII.- Dar seguimiento a las solicitudes de estudios cinematográficos y compañías productoras de materiales audiovisuales que busquen locaciones y, posteriormente, apoyarlos en la producción;
+
+VIII.- Apoyar y asesorar a las productoras fílmicas y televisivas en cuestiones relativas a scouting, casting y logística;
+
+IX.- Asistir a las compañías productoras de medios audiovisuales durante la filmación en el trámite de permisos y apoyos de seguridad, para las filmaciones en la Entidad;
+
+X.- Servir como enlace ante la Comisión Mexicana de Filmaciones y las productoras fílmicas y televisivas interesadas en realizar trabajos en el Estado;
+
+XI.- Representar al titular de la Secretaría en los eventos que éste determine; y
+
+XII.-Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales aplicables y las que le encomiende el Secretario.
 
 ###### Artículo 12.
 
@@ -418,3 +452,11 @@ Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones, administrativas y reglamentarias en lo que se opongan al contenido del presente Acuerdo.
 
 Tercero.- La Secretaria de Finanzas y Administración de la Administración Pública del Estado procederá a hacer los ajustes presupuestales que sean necesarios para el cumplimiento de este Acuerdo.
+
+P.O. 13 DE NOVIEMBRE DE 2007.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones administrativas y reglamentarias en lo que se opongan al contenido del presente Acuerdo.
+
+Tercero.- La Secretaría de Finanzas y Administración de la Administración Pública del Estado procederá a hacer los ajustes presupuestales que sean necesarios para el cumplimiento de este Acuerdo.
