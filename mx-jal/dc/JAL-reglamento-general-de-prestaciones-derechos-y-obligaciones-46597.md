@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-general-de-prestaciones-derechos-y-obligaciones-4659
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-06"
-last_updated: "2006-07-18"
+last_updated: "2007-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO GENERAL DE PRESTACIONES, DERECHOS Y OBLIGACIONES DE AFILIADOS Y PENSIONADOS DE LA DIRECCION DE PENSIONES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 6 de octubre de 2005.
 
@@ -3659,6 +3659,856 @@ VII. El afiliado a quien se concediere el uso es responsable de la conservación
 
 VIII. En caso de daños causados por los usuarios, usuarios internos o usuarios externos, sus familiares dependientes o invitados en general, se procederá a requerirlo, judicial o extrajudicialmente, por el pago de los mismos.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+## TÍTULO XI. DE LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN Y DESARROLLO INTEGRAL DEL PENSIONADO
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 372.
+
+El presente Título tiene por objeto:
+
+I. Establecer las normas para la prestación de servicios de atención y Desarrollo Integral del Pensionado.
+
+II. Regular el funcionamiento y operación de las unidades responsables del otorgamiento de dicha prestación social, entre ellos el Centro de Atención y Desarrollo Integral del Pensionado, la Casa Hogar del Pensionado y todas aquellas unidades que en lo futuro se establezcan para tal fin.
+
+III. Establecer los mecanismos que garanticen la calidad, regularidad, uniformidad y continuidad en la prestación de los servicios.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 373.
+
+Para los efectos del presente Título, se entenderá por:
+
+I. Ley; la Ley de Pensiones del Estado de Jalisco.
+
+II. Título; el presente Título.
+
+III. Institución; la Dirección de Pensiones del Estado, representada por su Director General.
+
+IV. Administración General; la unidad administrativa a cargo de la Casa Hogar y el CADIP.
+
+V. CADIP; El Centro de Atención y Desarrollo Integral al Pensionado.
+
+VI. Casa Hogar; el establecimiento destinado para albergar al pensionado que reúna los requisitos establecidos en la Ley y el presente Título.
+
+VII. Desarrollo Integral, el conjunto de actividades y servicios efectuados dentro del marco institucional en relación con el pensionado, y que tienen por objeto mejorar su calidad de vida.
+
+VIII. Área de Desarrollo Integral; es el área encargada de llevar acabo e implementar los programas de Desarrollo Integral de los usuarios y residentes mediante actividades preventivas, preventivas (sic), de rehabilitación, recreativas y talleres ocupacionales.
+
+IX. Pensionado; la persona que habiendo sido afiliado de la Institución, y al que previo el procedimiento de Ley le fue otorgada por la Institución una pensión por jubilación, edad avanzada o invalidez. No se considerarán pensionados a aquéllos derechohabientes que reciban la prestación económica prevista por el artículo 55 de la Ley.
+
+X. Residente; el pensionado que habita en la Casa Hogar, al haber sido admitido conforme a los criterios y requisitos establecidos en el presente Título.
+
+XI. Usuario; el pensionado que utilice los servicios del CADIP.
+
+XII. Familiar o familiares; la o las personas que tengan relación de parentesco o matrimonio con el residente de Casa Hogar, de conformidad con lo establecido por el Código Civil del Estado de Jalisco.
+
+XIII. Responsable; persona que auxilia en las necesidades personales del pensionado que la Institución no proporciona al residente de la casa-hogar, pudiendo ser o no familiar del mismo. En caso de ser familiar estará obligado como deudor alimentario en los términos de la legislación civil.
+
+XIV. Estado de Abandono; es la situación en que pudiera encontrarse un pensionado al requerir ayuda asistencial de terceros pero que carece de familiares o éstos se hayan imposibilitados para proporcionar esta ayuda. Se consideran indicadores de abandono los signos y síntomas, físicos o psicológicos, debidos al incumplimiento de obligaciones entre quien lo sufre y quien está obligado a su cuidado y protección, que pueden manifestarse en la alimentación y en la higiene, en el controlo cuidados rutinarios, en la atención emocional y el desarrollo psicológico o por necesidades médicas atendidas tardíamente o no atendidas.
+
+XV. Equipo Multidisciplinario; el órgano técnico encargado de evaluar a los candidatos a ingresar a casa hogar.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 374.
+
+El CADIP tendrá como finalidad primordial, el brindar los servicios previstos en los programas autorizados a sus usuarios y residentes, que coadyuven a recuperar y mantener su estado de salud, física, mental y social.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 375.
+
+El CADIP se regirá por los principios de solidaridad, subsidiaridad, calidez humana y espíritu de servicio, y desarrollará sus actividades mediante los programas, que para tal efecto apruebe la Institución por conducto de su Director General.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 376.
+
+Las disposiciones del presente Título son de carácter obligatorio para:
+
+I. Los pensionados de la Institución que tengan el carácter de usuarios o residentes;
+
+II. Los familiares y los responsables de los residentes;
+
+III. La Institución;
+
+IV. El personal médico, administrativo y de apoyo de la Institución, que preste sus servicios en el CADIP, o en cualquier otra área relacionada con el Desarrollo Integral del Pensionado en los términos normados por este ordenamiento; y
+
+V. En general, para cualquier persona, que bajo cualquier concepto, ingrese a las Instalaciones del CADIP o de las otras áreas relacionadas con el Desarrollo Integral del Pensionado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 377.
+
+Los servicios de atención y Desarrollo Integral del Pensionado deberán regirse por lo establecido en el presente Título, en la Ley General de Salud, el Reglamento de la Ley General de Salud en materia de prestación de servicios de atención médica y las Normas Oficiales Mexicanas que de ellos emanen.
+
+En lo aplicable, el CADIP deberá cumplir con los requisitos establecidos en la Norma Oficial Mexicana NOM-167-SSA 1-1997, relativa a los servicios asistenciales para menores y adultos mayores.
+
+En caso de duda, debidamente planteada ante la Dirección General, sobre la interpretación de las disposiciones contenidas en el presente ordenamiento, se estará a lo que determine el Consejo Directivo, conforme a la opinión jurídica que se elabore.
+
+El CADIP deberá tener a la vista en sus instalaciones las normas internas que regirán la conducta de los usuarios, residentes y familiares, para propiciar su debido cumplimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 378.
+
+La Institución, por conducto de su Director General, tendrá las siguientes atribuciones y obligaciones:
+
+I. Aprobar los programas y presupuestos para la prestación de los servicios que proporcionará el CADIP.
+
+II. Implementar los mecanismos de control para vigilar la adecuada y eficaz prestación de los servicios, así como el cumplimiento de las disposiciones que resulten aplicables.
+
+III. Llevar a cabo los procedimientos administrativos, respecto de los residentes, en los casos de estados de interdicción y fallecimiento, efectuando las necesarias gestiones legales por medio de la Dirección Jurídica.
+
+IV. Autorizar las altas, bajas y suspensiones de pensionados, residentes y usuarios, de igual forma aplicar las medidas y sanciones disciplinarias que procedan para garantizar el buen orden en la Casa Hogar, CADIP y demás instalaciones análogas.
+
+Las demás que establezcan la Ley, el presente título y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO II. De derechos y obligaciones de los usuarios y residentes
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 379.
+
+La Institución garantizará los derechos de los usuarios y residentes; y vigilará el cumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 380.
+
+Los usuarios tendrán los derechos y obligaciones siguientes:
+
+A) Derechos:
+
+I. Disfrutar de los servicios que brinda el CADIP, ya que hace referencia este Título en los términos, horarios y condiciones de los programas previamente establecidos;
+
+II. Ser atendido por el personal de la Institución en forma eficaz y oportuna en un clima de calidad y calidez;
+
+III. Utilizar las instalaciones, equipos e instrumentos que le sean confiados, proporcionados o prestados por la Institución, como medio para las acciones o servicios de Desarrollo Integral;
+
+IV. Hacer del conocimiento de la Institución de las irregularidades que observe, así como quejas y sugerencias; para tal fin deberá presentarlas por escrito ante la Dirección de Prestaciones, por sí o por medio de sus familiares o responsables, y
+
+V. Los demás que se establezcan en la Ley, este Titulo y normas aplicables.
+
+B) Obligaciones:
+
+I. Portar su gafete de usuario o credencial de pensionado, siempre que solicite la prestación de un servicio de Desarrollo Integral;
+
+II. Cumplir con las disposiciones que se dicten por la Institución para garantizar la seguridad de la recepción de los servicios y la salud del usuario;
+
+III. Otorgar un trato adecuado, según su naturaleza y razonablemente, a las instalaciones, equipos y materiales que le sean prestados o proporcionados como instrumento de las acciones de Desarrollo Integral, y
+
+IV. Los demás que se establezcan en la Ley, este Título y la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 381.
+
+Los residentes tendrán los derechos y obligaciones siguientes:
+
+A) Derechos:
+
+I. Recibir un trato digno y humano por parte del personal, independientemente de su situación económica, sexo, raza, ideología o religión;
+
+II. No ser sujeto de discriminación por su condición de adulto mayor, ni ser objeto de diagnósticos o tratamientos en esa condición por razones o motivos distintos o ajenos al estado de su salud;
+
+III. Que a su ingreso a la Casa Hogar se le informe, a él y a sus familiares o responsables, de las normas que rigen el funcionamiento de ésta;
+
+IV. Un ambiente seguro, higiénico y humano que garantice condiciones adecuadas de alimentación, habitación y salud;
+
+V. Ser alojados en áreas específicamente destinadas a tal fin, con adecuada iluminación, ventiladas, con el espacio necesario para evitar el hacinamiento y en condiciones de higiene;
+
+VI. Recibir alimentación adecuada en cantidad y calidad;
+
+VII. Recibir atención por personal debidamente capacitado para el manejo y tratamiento de los adultos mayores;
+
+VIII. Que la información contenida en su expediente sea manejada bajo las normas del secreto profesional y de la confidencialidad;
+
+IX. Recibir atención de salud de primer nivel, y en caso necesario ser remitido y trasladado a las Unidades Médicas que correspondan;
+
+X. Recibir los servicios de Desarrollo Integral;
+
+XI. Ser protegido contra cualquier tipo de abuso;
+
+XlI. No ser sometido a restricciones físicas o a retención involuntaria salvo con arreglo a procedimientos legalmente establecidos y sólo cuando sea el único medio disponible para impedir un daño inmediato o inminente al adulto mayor o a terceros, o se trate de una situación grave y el paciente esté afectado en su capacidad de juicio y, en el caso de que de no aplicarse el tratamiento, se afecte su salud;
+
+XIII. Hacer del conocimiento de la Institución de las irregularidades que observe, así como quejas y sugerencias; para tal fin deberá presentarlas por escrito ante la Administración General, por sí o por medio de sus familiares o responsables;
+
+XIV. Comunicarse libremente con otras personas que estén dentro de la institución; enviar y recibir correspondencia privada sin que sea censurada;
+
+XV. Tener comunicación con el exterior y recibir visita familiar si ello no interfiere con la atención o tratamiento. Las llamadas telefónicas que se reciban para los residentes serán comunicadas y se procurará que sean breves para el mejor aprovechamiento del servicio. No se recibirán llamadas en los horarios establecidos para el suministro de alimento ni en horario nocturno, salvo caso de extrema urgencia a juicio del personal responsable en turno.
+
+Para los efectos de este artículo se entenderá que son llamadas nocturnas las que se presenten de las 21:00 a las 7:00 horas;
+
+XVI. Gozar de permisos para visitar a sus familias, de acuerdo con las normas contenidas en el presente Título;
+
+XVII. Recibir asistencia religiosa, si así lo desean, la que será proporcionada por el ministro respectivo, sin que la Institución esté obligada a brindarla sino únicamente a facilitarla;
+
+B) Obligaciones:
+
+I. Cumplir con las disposiciones que se dicten por la Institución para garantizar la seguridad de la recepción de los servicios y la salud del residente;
+
+II. Otorgar un trato adecuado, según su naturaleza y razonablemente, a las instalaciones, equipos y materiales que le sean prestados o proporcionados como instrumento de las acciones de la Casa Hogar;
+
+III. Sujetarse a las normas de convivencia establecidas en el presente Título;
+
+IV. Respetar los horarios de visita, comedor y dormitorio de la Casa Hogar, conforme sean establecidos por la Coordinación de la misma;
+
+V. Recibir el tratamiento médico que en su caso le sea prescrito; y abstenerse de la automedicación y en general de la ingestión, inyección o cualquier forma de administración de medicamentos, remedios herbolarios u homeopáticos, que no le hayan sido previamente autorizados por su médico tratante, los cuales se encontrarán señalados en su expediente clínico y le serán suministrados por el personal de enfermería;
+
+VI. Cumplir las normas establecidas en el presente Título en materia de ingresos y egresos de la Casa Hogar;
+
+VII. Recibir a sus visitas, cuando así lo estime conveniente el residente. Pudiéndose negar a recibirlas por causa justificada. Por regla general, las visitas se llevarán a efecto en la sala de interacción familiar, conforme a los horarios establecidos, y
+
+VIII. Sujetarse a las disposiciones del presente Título, y a las que dicte la Coordinación de la Casa Hogar o la Administración General del CADIP, para preservar su salud y seguridad.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO III. De la organización del Centro de Atención y Desarrollo Integral del Pensionado
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 382.
+
+El CADIP para lograr sus objetivos y realizar sus funciones contará con la siguiente estructura organizacional:
+
+I. Administración General del CADIP; y
+
+II. Coordinación de la Casa Hogar.
+
+Ambas instancias estarán subordinadas jerárquicamente a la Dirección de Prestaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 383.
+
+La Administración General del CADIP tendrá entre sus funciones y atribuciones las siguientes:
+
+I. Cumplir y vigilar la observancia de las disposiciones jurídicas aplicables al CADIP;
+
+II. Elaborar los proyectos de presupuestos del CADIP, presentándolos para su aprobación al Director General por conducto de la Dirección de Prestaciones;
+
+III. Proponer a la Dirección de Prestaciones y a la Dirección General, para su aprobación, los programas anuales de operación, que contendrán la forma y términos en que se prestarán los servicios correspondientes;
+
+IV. Ejecutar y evaluar los programas del CADIP, dándoles oportuna difusión entre el personal responsable y los pensionados, cuidando en todo momento del debido control y seguimiento programático, informando lo procedente a la Dirección de Prestaciones;
+
+V. Administrar los recursos humanos, materiales y financieros del CADIP, con apego a principios de racionalidad y equidad, sujetándose a la normatividad aplicable y en coordinación con la Dirección Administrativa de la Institución;
+
+VI. Establecer y operar el Programa General de Mantenimiento Preventivo y Correctivo del CADIP y en coordinación con la Dirección de Promoción de Vivienda e Inmobiliaria para asegurar el buen estado y uso de las instalaciones, equipo y mobiliario, y en general de los recursos materiales aplicados a la prestación de servicios de Desarrollo Integral;
+
+VII. Presentar a la Dirección de Prestaciones un reporte mensual de actividades y un informe anual, que será hecho de conocimiento de la Dirección General;
+
+VIII. Las demás previstas en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 384.
+
+La Coordinación de la Casa Hogar estará subordinada a la Administración General del CADIP, y tendrá las obligaciones y atribuciones siguientes:
+
+I. Vigilar el cumplimiento del presente Título dentro de las instalaciones de la Casa Hogar;
+
+II. Integrar el expediente respectivo de los pensionados solicitantes de ingreso como residentes; y elevar a la consideración de la Dirección de Prestaciones y de la Dirección General las solicitudes de admisión de nuevos residentes;
+
+III. Llevar el registro y control de expedientes de los pensionados que hubieren sido admitidos, por la Dirección de Prestaciones, como residentes en la Casa Hogar;
+
+IV. Autorizar o denegar los egresos temporales de los residentes, y hacer constar los egresos definitivos en los casos y con las condiciones que se establecen en este Título;
+
+V. Dar cumplimiento a las disposiciones contenidas en este Título en materia de ingreso a la Casa Hogar por parte de residentes, empleados y visitantes;
+
+VI. Dar aviso inmediato a la (sic) Administrador del CADIP y al responsable, cuando el residente se encuentre en los siguientes casos:
+
+a) Que no desee continuar en la Casa Hogar y solicite su egreso definitivo;
+
+b) Que egrese de la Casa Hogar, sin haber realizado el trámite correspondiente;
+
+c) Que sufra algún accidente o enfermedad súbita y grave;
+
+d) Que por alguna circunstancia tenga que ser intervenido quirúrgicamente, o sujeto a algún tratamiento médico, debiendo anexar la documentación que incluya el diagnóstico correspondiente;
+
+e) Que sufra algún tipo de alteración física o psicológica, así como el riesgo que representa para los demás usuarios;
+
+f) Que fallezca un residente;
+
+VII. Ejecutar con toda diligencia, calidad y calidez, los programas aprobados para los residentes de la Casa Hogar, cuidando de su debido control y seguimiento;
+
+VIII. Garantizar que los servicios se otorguen de forma eficaz y oportuna a los residentes de la Casa Hogar;
+
+IX. Proponer a la Administración General del CADIP, y en su caso a las Direcciones de Prestaciones y Administrativa, las modificaciones que considere necesarias para la mejora continua del servicio, en materia de normativa, organización, funcionamiento, administración o programas de la Casa Hogar;
+
+X. Vigilar y cuidar el orden y disciplina entre los residentes de la Casa Hogar, con apego a las normas de convivencia y conforme a principios de humanidad, buena voluntad y resolución pacífica de conflictos;
+
+XI. Elaborar y presentar mensualmente a la Administración General del CADIP y a la Dirección de Prestaciones, un informe cualitativo y cuantitativo de sus actividades;
+
+XII. Las demás previstas en la normatividad aplicable y en el presente Título.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 385.
+
+Para el cumplimiento de sus objetivos el CADIP contará con el personal administrativo, técnico y profesional, conforme a su plantilla y presupuesto aprobado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO IV. De los Servicios
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 386.
+
+El CADIP proporcionará sus servicios, mediante la Casa Hogar y el Area de Desarrollo Integral.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 387.
+
+Para recibir los servicios del CADIP, los pensionados deberán cumplir los requisitos que establece la Ley, conforme a los procedimientos normados por el presente Título.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 388.
+
+El modelo de atención para los usuarios y residentes deberá estar sustentado en criterios técnicos y bioéticos generalmente aceptados.
+
+La prestación de servicios deberá realizarse en forma integral y multidisciplinaria, cuidando siempre del buen estado de salud física y mental de los usuarios y residentes.
+
+Los horarios y requisitos específicos para los servicios serán los establecidos para cada unidad por la Dirección General de la Institución, a propuesta de la Administración General. Dichos horarios y requisitos deberán ser debidamente publicitados mediante su colocación en lugar visible de las oficinas centrales de la Institución, en el CADIP.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO V. De la Casa Hogar
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 389.
+
+En al ámbito de los jubilados y pensionados, la unidad familiar y la solidaridad intergeneracional deberán ser propiciadas por la Institución.
+
+En el caso de pensionados en notorio estado de abandono o discapacidad la Institución proporcionará los servicios de la Casa Hogar previo estudio socioeconómico, evaluación y dictaminación de cada caso en particular.
+
+Los criterios de admisión deberán sujetarse estrictamente a lo ordenado por este Título.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 390.
+
+Como una prestación social análoga a las establecidas en los artículos 76 y 77 de la Ley se otorgarán al pensionado en estado de vulnerabilidad comprobado, los siguientes servicios:
+
+I. Hospedaje, en las instalaciones de la Casa Hogar, mismo que deberá realizarse en las condiciones previstas en este Título;
+
+II. Alimentación adecuada en cantidad y calidad;
+
+III. Lavandería, consistente en el aseó, adecuado y periódico, de las prendas de vestir y de cama de los residentes;
+
+IV. Actividades ocupacionales y recreativas, que contribuyan a la preservación de la salud física y mental del pensionado;
+
+V. Actividades religiosas, dentro del marco de la libertad de creencia y culto, facilitando a los residentes la asistencia espiritual que éstos requieran, bajo los ministros que éstos o sus familiares proporcionen, y
+
+VI. Otras que determine la Institución, mediante programas especiales aprobados por la Dirección General.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 391.
+
+Los servicios se otorgarán conforme a lo previsto en el presente Título y en los programas aprobados por la Dirección General.
+
+Con relación a la obligatoriedad de participar por parte de los residentes, se estará a lo siguiente:
+
+I. El hospedaje, la alimentación, la atención médica de primer nivel y la lavandería serán servicios que los residentes, estarán obligados a recibir, mientras permanezcan en la Casa Hogar.
+
+II. La Institución promoverá entre los residentes las actividades recreativas y ocupacionales, deportivas y culturales. Los residentes decidirán de forma libre y voluntaria su participación en los eventos de que se trata.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 392.
+
+Tendrán derecho a la prestación prevista en este Capítulo, los pensionados de la Institución que cumplan los siguientes criterios:
+
+I. Tener sesenta y cinco años o más de edad, salvo los casos excepcionales que por su estado de salud o necesidad autorice el Consejo Directivo;
+
+II. Encontrarse en estado de desamparo, abandono o discapacidad;
+
+III. Que el monto de su pensión no exceda de los 10 salarios mínimos mensuales de la zona metropolitana de Guadalajara;
+
+IV. Que sus gastos de manutención excedan el 80% de su pensión;
+
+V. Que no presente enfermedades mentales; conforme a la evaluación que se realice;
+
+VI. Que no presente enfermedades infecto-contagiosas ni en estado terminal;
+
+VII. Que no tenga adicción a psicotrópicos, enervantes, estimulantes o antidepresivos, y
+
+VIII. La aplicación de un estudio socioeconómico de trabajo social; (sic)
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 393.
+
+Para ser admitido como residente el pensionado interesado deberá cumplir los requisitos siguientes:
+
+I. Cumplir los criterios señalados en el artículo anterior;
+
+II. Presentar a la Institución solicitud por escrito firmada por el interesado y un familiar o responsable, anexando los documentos siguientes:
+
+a) Acta de nacimiento;
+
+b) Copia de la credencial que lo acredite como pensionado, expedida por la Institución;
+
+c) Copia de su comprobante de domicilio, así como del familiar o responsable, y
+
+d) 6 fotografías tamaño infantil;
+
+III. Someterse a los siguientes estudios:
+
+a) Examen Psicológico;
+
+b) Examen Médico;
+
+c) Visita domiciliaria de trabajo social, y
+
+d) Los demás exámenes médicos que determine la Institución de acuerdo a la historia clínica del solicitante;
+
+IV. Firmar la aceptación para que se realice la retención del 80% de su pensión.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 394.
+
+Previamente a la resolución definitiva sobre la admisión del solicitante en la Casa Hogar, el pensionado deberá:
+
+l. Realizar una visita a las instalaciones de Casa Hogar con la finalidad de que el solicitante conozca las instalaciones y los servicios que otorga;
+
+II. Conocer, aceptar y firmar de recibido el presente Título;
+
+III. Aceptar la cuota de recuperación establecida que será al menos del 80% de su pensión, la cual será retenida automáticamente por la Institución, y
+
+IV. Los demás que determine la Ley y este Título.
+
+El responsable recibirá un ejemplar del presente Título debiendo firmar de recibido, conocimiento y aceptación del mismo. La falta de firma de los pensionados, o responsables no les exime del cumplimiento del presente Título.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 395.
+
+Una vez cumplidos los requisitos, se instrumentará un expediente administrativo el cual será evaluado por el Equipo Multidisciplinario del CADIP, integrado y presidido por su Administrador General.
+
+Dicho Equipo emitirá dictamen fundado y motivado, que se someterá a autorización de la Dirección General, quien resolverá aceptando o rechazando la petición, una vez que se hubiere recibido la documentación completa.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 396.
+
+En el supuesto de que la Dirección General a propuesta de la Dirección de Prestaciones resuelva en sentido afirmativo, el Administrador General de CADIP dará aviso a las (sic) Dirección de Finanzas para que se aplique el descuento correspondiente a la pensión del residente, con efectos a partir de su internamiento.
+
+Una vez aprobada su admisión, el residente cubrirá una cuota de cooperación equivalente al 80% de su pensión la cual le será retenida por la Institución; el 20% restante quedará a disposición del pensionado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 397.
+
+En el supuesto de que la capacidad física, material o financiera de los servicios sea rebasada y no permita la admisión de mayor número de residentes, se tendrán en lista de espera a los pensionados que presenten solicitud de ingreso a la Casa Hogar.
+
+En los casos en que los pensionados ameriten apoyo inmediato se brindará el servicio en unidades asistenciales análogas, de forma subrogada conforme al Convenio que se suscriba. Los servicios subrogados deberán tener similar calidad y cobertura que los prestados directamente por la Institución.
+
+Los servicios de Casa Hogar se otorgarán sólo a los pensionados que radiquen dentro del territorio del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 398.
+
+El residente deberá ingresar con su propia ropa y artículos de aseo personal pudiendo proporcionársele la ropa de cama.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 399.
+
+El residente podrá solicitar a la Administración General del CADIP, el ingreso de mobiliario de su propiedad. El ingreso de mobiliario deberá realizarse previa solicitud por escrito y autorización expedida por el Administrador General de CADIP, con apego a las siguientes disposiciones:
+
+I. El mobiliario deberá ser adecuado y conveniente al espacio físico que le está destinado, evitando cualquier hacinamiento o saturación de áreas especiales o comunes;
+
+II. Deberá ser ingresado previo inventario que describa su cantidad, calidad y estado físico;
+
+III. Deberá liberarse a la Institución de responsabilidad por pérdida o daño por el uso natural de los bienes, así como por caso fortuito o fuerza mayor.
+
+La Institución no se responsabiliza de objetos ingresados por los usuarios, residentes y sus familiares, en caso de robo, sustracción o extravío, cuando no sea depositado en la caja de seguridad de CADIP.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 400.
+
+La Coordinación de la Casa Hogar tendrá la custodia de los adultos mayores que ingresen a dicho establecimiento.
+
+La Institución tendrá el cuidado de los adultos mayores que ingresen a dicho establecimiento.
+
+El cuidado confiere a quien la ejerce la facultad de proporcionar auxilio para el mantenimiento y recuperación de la salud física y psíquica, y la de mantener el buen orden y la disciplina dentro de la Casa Hogar.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 401.
+
+El ingreso a la Casa Hogar será siempre voluntario por parte del pensionado solicitante. El egreso de la Casa Hogar podrá ser temporal o definitivo, voluntario o forzoso, según las disposiciones subsiguientes:
+
+I. Los egresos temporales serán de dos tipos, en actividades institucionales y para fines personales del residente.
+
+El egreso temporal para actividades institucionales, que incluye excursiones, paseos, concursos, eventos sociales, artísticos o culturales, entre otros, habrá de realizarse bajo la vigilancia, guía, supervisión y conducción de personal debidamente capacitado de la Institución.
+
+El egreso temporal para fines personales del residente se autorizará o denegará por el titular de la Casa Hogar, tomando en consideración el estado de salud del pensionado, su capacidad para desplazarse, el horario de salida y reingreso, así como los demás factores análogos para proteger la seguridad e integridad del residente.
+
+Podrán existir egresos temporales sin que medie la voluntad del residente, cuando sea necesario trasladarlo a una unidad médica, y no se encuentre en estado consciente o en pleno uso de sus facultades para autorizarlo.
+
+Podrán existir egresos temporales sin que medie la voluntad del residente, cuando sea necesario trasladarlo a una unidad médica, y no se encuentre en estado consciente o en pleno uso de sus facultades para autorizarlo.
+
+II. El egreso definitivo podrá ser voluntario o forzoso. Es voluntario, cuando el residente así lo considere conveniente y para tal fin formalice su petición por escrito, siendo esta recibida y autorizada por la Administración General del CADIP.
+
+El egreso definitivo será forzoso, cuando el residente incurra en alguna de las siguientes causales, debidamente comprobada:
+
+a) Atente contra la vida, integridad corporal o libertad sexual o física de alguno o algunos de los otros residentes o de los empleados o visitantes;
+
+b) Incurra reiteradamente en el apoderamiento de bienes propiedad de otros residentes o de la Institución;
+
+c) Viole reiterada e injustificadamente las normas de convivencia, poniendo en riesgo la paz, seguridad, salud, orden o bienestar de los residentes;
+
+d) Contraiga alguna enfermedad contagiosa e incurable, mortal o peligrosa, que ponga en riesgo la salud de los residentes, empleados o visitantes;
+
+e) Pierda el uso de sus facultades físicas o mentales en grado de incapacidad permanente total;
+
+En los supuestos previstos en los incisos d) y e) de esta fracción se apoyará al residente en conjunción con el responsable en la búsqueda de un nuevo alojamiento, en Institución médica o psiquiátrica que sea adecuada a las necesidades de su atención y tratamiento.
+
+Cada caso de egreso definitivo forzoso deberá ser analizado debidamente por el Equipo Multidisciplinario del CADIP, para la dictaminación e integración del expediente respectivo. En los supuestos de los incisos a), b) y c) de esta fracción, deberá garantizarse la audiencia y defensa del residente. Una vez terminada la instrumentación del expediente y dictaminado el caso, el egreso forzoso deberá ser resuelto y notificado al residente con copia de traslado a la Dirección de Prestaciones.
+
+III. Al fallecimiento del residente deberá estarse a lo previsto en el artículo 34 de este Título.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 402.
+
+Todo egreso temporal o definitivo, voluntario o forzoso, deberá documentarse debidamente mediante los sistemas y registros que establezca la Coordinación de la Casa Hogar.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 403.
+
+En el caso de egresos temporales voluntarios para visitas a familiares deberá hacerse del conocimiento del familiar o responsable, las indicaciones especiales respecto al cuidado que deba brindar al residente, firmando una responsiva temporal, de lo que deberá obrar constancia en el expediente respectivo, en el entendido de que cualquier cambio en el estado de salud física o mental del residente quedará bajo su responsabilidad.
+
+Una vez que el residente reingrese a las instalaciones de la Casa Hogar, se asentará en el expediente respectivo las condiciones en que es recibido, y si se cumplieron los compromisos adquiridos por el familiar o responsable.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 404.
+
+En caso de fallecimiento de residentes, la Coordinación de la Casa Hogar deberá llenar el registro de egreso con los siguientes datos:
+
+I. Nombre;
+
+II. Día y hora del fallecimiento;
+
+III. Causa del fallecimiento;
+
+IV. Anexar copia del certificado de defunción;
+
+V. Nombre y firma del familiar o responsable que recibe el cuerpo;
+
+VI. Nombre y firma de quien entrega el cuerpo, y
+
+VII. Entrega de pertenencias con Inventario.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO VI. Normas Internas de la Casa Hogar
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 405.
+
+El ingreso, permanencia y egreso de las instalaciones de la Casa Hogar deberá sujetarse a las disposiciones contenidas en el presente Título.
+
+Los ingresos de la Casa Hogar deberán ser debidamente vigilados y en ellos se establecerán controles de ingreso, con la finalidad de proteger a los residentes, sus bienes y las instalaciones de la Institución.
+
+Toda persona que ingrese a la Casa Hogar deberá identificarse plenamente en la caseta de control respectiva, presentando una credencial oficial con fotografía, entregándola en depósito de la Institución, otorgándosele en el acto una acreditación como visitante, familiar o proveedor de bienes o servicios, e indicándosele en que áreas le estará permitido ingresar.
+
+Todos los empleados del establecimiento deberán portar sus gafetes al ingreso a las instalaciones de la Casa Hogar, y lo conservarán hasta su salida.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+Artículos 406. Solo podrán ingresar a las instalaciones de la Casa Hogar:
+
+I. Los residentes;
+
+II. Los familiares, responsables y visitas de residentes, previa su acreditación;
+
+III. Los trabajadores de la Institución que presten sus servicios en la Casa Hogar;
+
+IV. Los proveedores, exclusivamente el tiempo necesario para realizar la entrega de bienes o la prestación de servicios, y solo a las áreas donde deban realizar tales actividades;
+
+V. Los voluntarios de patronatos o instituciones de beneficencia, que hayan sido previamente autorizados por escrito por la Coordinación de la Casa Hogar;
+
+VI. Las Comisiones de Derechos Humanos, Nacional y Estatal, cuando se designen visitadores autorizados para tal fin;
+
+VII. Las autoridades de salud, fiscales y de policía, cuando se acrediten plenamente y cuenten con orden escrita, fundada y motivada que los autorice.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 407.
+
+Las personas que ingresen a la Casa Hogar tienen prohibido introducir en sus instalaciones los siguientes objetos:
+
+I. Armas, salvo los elementos de cuerpos de seguridad en ejercicio de sus funciones, que por tal motivo requieran ingresar al establecimiento;
+
+II. Objetos contundentes o punzocortantes, sustancias inflamables, explosivos, corrosivos, tóxicos, reactivos o biológico infecciosos;
+
+III. Bebidas alcohólicas, tabaco, enervantes, solventes y demás sustancias análogas;
+
+IV. Velas, veladoras, planchas, encendedores, lámparas de aceite y demás dispositivos que supongan riesgo de incendio;
+
+V. Animales domésticos o silvestres de cualquier especie o raza;
+
+VI. Equipos de luz y sonido, y demás objetos que produzcan ruido o sonido en magnitudes tales que representen posibilidad de molestia a los residentes;
+
+VII. Medicamentos controlados, medicina nuclear y aquellos que representen un riesgo a la salud de los residentes;
+
+Para la vigilancia de esta disposición se podrán establecer controles o revisiones, con pleno respeto a los derechos humanos, intimidad y dignidad de las personas.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 408.
+
+Los visitantes, familiares, responsables y amistades de los residentes, cuyas visitas hayan sido autorizadas en los términos de este Título, deberán sujetarse a lo siguiente:
+
+I. Las visitas deberán efectuarse en el horario y días autorizados para tal fin. Son días hábiles para recibir visitas los siguientes: De lunes a domingo, de las 10:00 a las 13:00 horas y de las 16:00 a las 19:00 horas. Estos horarios y días podrán ser modificados por acuerdo de la Administración General del CADIP, cuando existan causas que así lo justifiquen;
+
+II. No podrán introducir en las instalaciones ninguno de los objetos prohibidos señalados en el artículo precedente. La introducción de alimentos y bebidas no alcohólicas estará sujeta a revisión y restricción en el caso de residentes que por su personal estado de salud así lo requieran;
+
+III. Deberán observar una conducta ordenada y decorosa, evitando provocar molestias o riesgos a cualquier residente, y cumpliendo las indicaciones que les realice el personal autorizado de la Institución.
+
+En tales términos, se prohíbe fumar, excepto en áreas específicamente autorizadas a tal fin, así como generar ruido o cualquier otra acción que signifique molestia, riesgo o daño a la salud, la seguridad y la paz de los residentes;
+
+IV. Deberán conducirse con respeto y honestidad, evitando malos tratos de palabra o de obra, así como cualquier acto que atente contra la persona o bienes de los residentes, de la Institución y de su personal;
+
+V. Tendrán acceso exclusivamente a las áreas comunes y a aquellas que se les indiquen por el personal de la Institución, según el tipo de evento. Por ningún motivo podrán ingresar a las habitaciones o unidades privativas de los residentes, si éstos no están presentes y les proporcionan directamente el acceso.
+
+En el caso de habitaciones dúplex o dormitorios comunes, el ingreso de visitantes no se permitirá, salvo que exista permiso expreso por los otros ocupantes, que no manifiesten objeción, y
+
+VI. Se sujetarán estrictamente a las disposiciones del presente Título, y a las instrucciones que dicte la Coordinación de la Casa Hogar para la protección de los residentes.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 409.
+
+Los familiares y/o la persona responsable que el residente autorice, tendrán las siguientes obligaciones:
+
+I. Visitar al residente por lo menos una vez a la quincena, tratándose de familiares;
+
+II. Notificar, de inmediato, el cambio de domicilio o de número telefónico, de la persona responsable o familiar de que se trata;
+
+III. Observar una conducta respetuosa y cortés para con los residentes, visitantes y personal de la Casa Hogar, dentro y fuera de sus instalaciones;
+
+IV. Asistir a las reuniones y juntas que corresponda y en general, a las citaciones que se les realicen por conducto de la Coordinación de la Casa Hogar, con motivo de la prestación de sus servicios o por situaciones relacionadas con el residente, tratándose de familiares. Los responsables no familiares sólo están obligados en la medida de sus posibilidades;
+
+V. Proveer a los residentes del vestido y utensilios de uso personal necesarios, así como pañales a quienes así los requieran;
+
+VI. Trasladar y acompañar al residente en el supuesto de que requiera de consultas externas para su atención médica en caso de enfermedad o urgencia, reintegrándolo en las instalaciones de la Casa Hogar cuando así corresponda;
+
+VII. Evitar la introducción de objetos prohibidos o restringido por este Título; y
+
+VIII. En general sujetarse a las disposiciones de este Título y las que dicte la Coordinación de la Casa Hogar o la Administración General de CADIP, para salvaguardar la salud y seguridad de los residentes.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 410.
+
+La Coordinación de la Casa Hogar tomará las providencias necesarias, en el caso de que el residente requiera ser trasladado fuera de las instalaciones para su atención médica y no se cuente con el auxilio del familiar o responsable.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 411.
+
+Todo residente deberá sujetarse a las siguientes normas de convivencia:
+
+I. Deberá de cumplir con la normativa sanitaria y ambiental, evitando la emisión de ruidos, vibraciones, humos, vapores, polvos o cualesquiera otras análogas, provenientes de equipos electrodomésticos, labores de cocina, esparcimiento o trabajo;
+
+II. Conservará su habitación en adecuado estado de orden, por lo que evitará la generación de fauna nociva, y la posesión de animales domésticos o de cualquier otra especie;
+
+III. Participará en el cuidado de las áreas comunes, evitando generar deterioro o suciedad de las mismas; depositará la basura en botes adecuados a tal fin, evitando toda acumulación de desechos en su habitación o en áreas comunes;
+
+IV. Se conducirá con respeto hacia sus compañeros residentes;
+
+V. Cuidará de acatar las disposiciones que se dicten para la seguridad de la Casa Hogar, relativas al uso y cierre de verjas, canceles, y puertas;
+
+VI. Evitará el consumo y venta de enervantes, la apuesta, así como cualquier otra actividad ilícita o que requiera de autorización administrativa para su realización;
+
+VII. Se abstendrá de realizar reuniones nocturnas que perturben la paz y descanso de los residentes;
+
+VIII. Se conducirá con respeto hacia los visitantes y personal de la Institución, evitando cualquier descortesía o maltrato de palabra u obra, colaborando en las asociaciones vecinales que se establezcan; (sic)
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO VII. Del Área de Desarrollo Integral del Pensionado
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 412.
+
+El Área de Desarrollo Integral del CADIP, tendrá como objetivo mejorar la calidad de vida de los pensionados de la Institución, quienes podrán acceder a las instalaciones y prestaciones del CADIP, previa la identificación que los acredite como tales.
+
+Los servicios se brindarán mediante las siguientes Áreas de Atención:
+
+I. Rehabilitación física;
+
+II. Atención psicológica;
+
+III. Talleres ocupacionales;
+
+IV. Atención a pensionados;
+
+V. Los demás que coadyuven a la atención integral de los pensionados, y que consten en los Programas aprobados por la Institución.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 413.
+
+Para otorgar los servicios en materia de Desarrollo Integral se contará con áreas específicas, en donde el personal especializado ejecutará los programas aprobados por la Institución y elaborará proyectos de programas para su presentación a la Dirección General de la Institución.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 414.
+
+Para recibir la prestación de los servicios de Desarrollo Integral los interesados deberán reunir los requisitos siguientes:
+
+I. Ser pensionado de la Institución.
+
+II. Presentar al área que corresponda la solicitud del servicio junto con la credencial que lo acredite como pensionado, expedida por la Institución.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Articulo 415.
+
+La Administración General del CADIP estudiará la solicitud y resolverá lo conducente notificando al interesado y al área correspondiente para su incorporación a las actividades del programa establecido.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 416.
+
+La Administración General a través del área correspondiente de Desarrollo Integral deberá difundir los planes y programas a implementarse entre los pensionados de la Institución.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO VIII. De los Procedimientos Especiales
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 417.
+
+El personal de la Institución, los usuarios, residentes, y familiares o responsables tienen la obligación de sujetarse a las disposiciones de este Título y de contribuir al cumplimiento del mismo denunciando las irregularidades que adviertan a la Coordinación de la Casa Hogar y a la Administración General del CADIP.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 418.
+
+El personal de las Unidades que prestan servicios de atención integral al pensionado deberá tratar a los usuarios y residentes, en todo momento, con la solicitud, el respeto y la dignidad propios de su condición de persona.
+
+Adicionalmente a lo establecido en el contrato colectivo de trabajo y reglamento interno y los contratos de servicios respectivos, son obligaciones del personal, de base o confianza, definitivo o provisional, así como de los prestadores de servicios por honorarios, que realicen actividades en materia de atención integral al pensionado de la Institución, las siguientes:
+
+I. Ser respetuosos y atentos con usuarios, residentes, visitantes, superiores, iguales y subalternos en el servicio;
+
+II. Asistir a talleres y cursos de capacitación que establezca la Institución para mejorar su preparación, eficiencia, productividad y calidad en el servicio;
+
+III. Avisar a la Administración General o a la Coordinación de cada Unidad Institucional de las condiciones o conductas de riesgo que puedan propiciar accidentes en el CADIP, y
+
+IV. Permanecer a disposición de la Institución, aun después de su jornada, horario o tiempo de servicio, para colaborar en caso de siniestros que pusieran en peligro la vida o salud de sus compañeros o de las personas que se encuentren en el establecimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 419.
+
+De forma ejemplificativa no limitativa, podrán presentarse quejas y denuncias en relación con:
+
+I. Negativa injustificada de servicios a pensionados, usuarios y residentes;
+
+II. Deficiencias en el servicio a pensionados, usuarios y residentes;
+
+III. Violaciones a normas de convivencia por parte de residentes, y
+
+IV. Violaciones a disposiciones normativas de este Título por parte de visitantes y usuarios; (sic)
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 420.
+
+En el supuesto de quejas y denuncias en contra de personal de base o confianza, operativo o directivo, laboralmente subordinado, contratado por honorarios o cualquier otro, se deberá dar parte a la Dirección de Contraloría Interna para que ésta realice las actuaciones y resuelva conforme a derecho correspondan.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 421.
+
+Cuando las quejas y denuncias correspondan a acciones u omisiones de pensionados, usuarios o residentes, la Institución realizará las investigaciones procedentes, pudiendo delegar a la Dirección Jurídica las facultades necesarias en estos casos, así mismo dispondrá de las medidas que considere pertinentes e impondrá si fueren procedentes las sanciones disciplinarias que este Título establece.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 422.
+
+La violación de las disposiciones de este Título por parte de usuarios y residentes dará lugar a la imposición de medidas disciplinarias y a la suspensión del servicio, conforme a los procedimientos establecidos en los artículos subsiguientes.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 423.
+
+Los usuarios, residentes, familiares, responsables o visitas, se harán acreedores a las siguientes medidas disciplinarias:
+
+I. Amonestación verbal;
+
+II. Amonestación escrita;
+
+III. Suspensión del servicio de forma temporal a usuarios;
+
+IV. Egreso definitivo forzoso de residentes;
+
+La amonestación verbal será impuesta por la Coordinación de la Casa Hogar o por la Administración General del CADIP.
+
+La amonestación escrita y la suspensión temporal del servicio serán impuestas exclusivamente por la Administración General del CADIP.
+
+El Egreso forzoso se impondrá por la Dirección General.
+
+En todos los casos, deberá realizarse una previa investigación de los hechos, en justicia e imparcialidad, para determinar la responsabilidad de las personas que en ellos intervinieron; concediéndoseles oportunidad de manifestar lo que a su derecho convenga. En el supuesto de la suspensión del servicio y el egreso definitivo forzoso, se deberá instrumentar un procedimiento escrito.
+
+La imposición de medidas disciplinarias, salvo la amonestación verbal, deberán realizarse por escrito, de forma fundada y motivada.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 424.
+
+Contra las medidas disciplinarias impuestas cabe el recurso de revisión, que deberá interponerse en los términos de la Ley del Procedimiento Administrativo.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO IX. Del Equipo Multidisciplinario
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 425.
+
+El Equipo Multidisciplinario estará integrado por el Administrador General del CADIP, el Coordinador de Casa Hogar, el Titular del Área de Trabajo Social y titular del Área de Psicología.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 426.
+
+El Equipo Multidisciplinario tendrá a su cargo:
+
+I. Auxiliar y orientar la prestación de los servicios de atención y desarrollo integral del pensionado;
+
+II. Dictaminar los expedientes para la admisión de nuevos residentes en la Casa Hogar, para su resolución definitiva por la Dirección de Prestaciones;
+
+III. Dictaminar los expedientes de casos de egreso definitivo forzoso de la Casa Hogar, para su resolución definitiva por la Dirección General; (sic)
+
 T R A N S I T O R I O S
 
 PRIMERO.- El presente Reglamento General entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
@@ -3692,3 +4542,13 @@ PRIMERO.- El presente Título deroga todas las disposiciones reglamentarias o ac
 SEGUNDO.- El presente Título entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco". Los contratos celebrados con anterioridad a su vigencia, se regirán por las disposiciones bajo las cuales fueron suscritos.
 
 TERCERO.- Comuníquese el presente acuerdo a todas las áreas de la Institución que deban conocerlo, para su debida aplicación y cumplimiento.
+
+P.O. 13 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Título entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones administrativas emitidas con anterioridad por el Consejo Directivo y la Dirección General del Organismo Público Descentralizado Dirección de Pensiones del Estado, en lo que se opongan al presente.
+
+TERCERO.- Para la debida aplicación de lo previsto en este Título y el óptimo funcionamiento del CADIP, la Dirección General del Organismo Público Descentralizado Dirección de Pensiones del Estado deberá aprobar los manuales de procedimientos y de organización necesarios, así como los formatos requeridos para los diversos trámites.
+
+CUARTO.- Los requisitos de ingreso, establecidos en el artículo 392 de este Reglamento, relativos a edad y cuantía máxima de ingreso, no se aplicarán a los residentes que al momento de inicio de vigencia de este Título, estuvieren admitidos dentro de la Casa Hogar.
