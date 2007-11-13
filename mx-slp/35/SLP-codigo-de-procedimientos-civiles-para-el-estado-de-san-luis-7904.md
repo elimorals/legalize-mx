@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2007-08-07"
+last_updated: "2007-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1501,11 +1501,19 @@ ART. 371.- No es admisible la prueba testimonial para tachar a los testigos que 
 
 ART. 372.- Los gastos que hicieren los testigos y los perjuicios que sufran por presentarse a declarar, serán satisfechos por la parte que los llamare.
 
-#### Sección VII. Fotografías, Copias Fotostáticas y demás elementos
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2007)</small>
 
-ART. 373.- Para acreditar hechos o circunstancias que tengan relación con el negocio que se ventile, pueden las partes presentar fotografías o copias fotostáticas.
+#### Sección VII. Fotografías, Copias Fotostáticas y, en General, Todos Aquellos Elementos Aportados por la Ciencia
 
-Quedan comprendidas dentro del término fotografías, las cintas cinematográficas y cualesquiera otras producciones fotográficas.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 373.- Para acreditar hechos o circunstancias que tengan relación con el negocio que se ventile, pueden las partes presentar fotografías, copias fotostáticas y, en general, todos aquellos elementos aportados por la ciencia.
+
+Quedan comprendidas dentro del término fotografías, las cintas cinematográficas, videograbaciones, y cualesquiera otras producciones fotográficas.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+
+ART. 373 BIS.- La prueba pericial en genética molecular del ácido desoxirribonucleico, o prueba de ADN, es la prueba que se realiza en muestras de tejido celular, por lo general de sangre, mediante un procedimiento científico que permite establecer y verificar el vínculo de parentesco por consanguinidad entre el progenitor o progenitora, y su hijo o hija.
 
 ART. 374.- Como medio de prueba deben admitirse también los registros dactiloscópicos, fonográficos y demás elementos que produzcan convicción en el ánimo del juez.
 
@@ -3577,7 +3585,7 @@ ART. 874.- La impugnación de la adopción y su revocación, en los casos de los
 
 ART. 875.- Cuando se apruebe la adopción o se deje sin efecto, el juez cumplirá lo que previenen los artículos 361 y 370 del Código Civil.
 
-(ADICIONADO, P.O. 17 DE ENERO DE 1992)(F. DE E., P.O. 20 DE MAYO DE 1994)
+(ADICIONADO, P.O. 17 DE ENERO DE 1992) (F. DE E., P.O. 20 DE MAYO DE 1994)
 
 ART. 875 BIS.- En el caso de que quien ejerza la patria potestad de un menor lo entregue a una Institución de Beneficencia autorizada y dependiente de Gobierno del Estado para promover su adopción, con la solicitud de la misma se citará a su representante y a los que ejerzan dicha patria potestad, con intervención del Ministerio Público, a efecto de que, acreditando con el acta correspondiente el estado de minoría y el nombre de aquéllos, se haga la entrega para adopción y previa la aceptación de la institución, se decrete la pérdida de la patria potestad y la ratificación de discernimiento del cargo de tutor al representante de la propia institución.
 
@@ -4977,7 +4985,7 @@ P.O. 7 DE AGOSTO DE 2007.
 
 El artículo Primero del presente Decreto entrará en vigor el día uno de octubre del año 2007, previa publicación en el Periódico Oficial del Estado.
 
-Los artículos Segundo, Tercero, Cuarto y Quinto de este Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Los artículos Segundo, Tercero, Cuarto y Quinto de este Decreto, entrarán en vigor al di a siguiente de su publicación en el Periódico Oficial del Estado.
 
 El artículo Sexto del presente Decreto una vez publicado en el órgano oficial respectivo, entrará en vigor el día que adquiera plena vigencia el Decreto Legislativo No. 197, publicado en el Periódico Oficial del Estado el 10 de julio de 2007.
 
@@ -5004,3 +5012,9 @@ Así mismo, verificará que en los presupuestos de egresos para el ejercicio del
 ###### ARTICULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
