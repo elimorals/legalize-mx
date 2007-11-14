@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2007-06-06"
+last_updated: "2007-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2007.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -304,7 +304,9 @@ La conducción y operación del Sistema estará a cargo de instituciones, tribun
 
 El sistema integral de justicia en el Estado de Morelos, garantizará la orientación, protección y tratamiento integral del adolescente, toda vez que su condición de personas en desarrollo es factor de interés superior para la aplicación en todos los procedimientos instaurados y con ello, reconocerles los valores universales de solidaridad, humanismo e integración social.
 
-Cuando los elementos constitutivos del cuerpo del delito estén debidamente acreditados, los menores de 12 años que hayan realizado una conducta prevista como delito en la ley, previa acreditación de la probable responsabilidad, sólo podrán ser sujetos a rehabilitación y asistencia social. Las medidas impuestas a los adolescentes de doce años cumplidos y menores de dieciocho estarán dotadas de contenido educativo, sin perder de vista la orientación, protección y tratamiento, aspectos que deberán estar claramente determinados en calidad técnica multidisciplinaria. Será improcedente y contrario a derecho el que se habilite una medida que exceda el criterio de proporcionalidad por el acto cometido, toda vez que el propósito fundamental es el de atender a la protección integral y el interés superior del adolescente, incorporando al contenido educativo la prevención del delito.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+Las personas menores de doce años que hayan realizado una conducta prevista como delito en la Ley, solo serán sujetos a rehabilitación y asistencia social. Las medidas impuestas a los adolescentes de doce años cumplidos y menores de dieciocho, estarán dotadas de contenido educativo, sin perder de vista la orientación, protección y tratamiento, aspectos que deberán estar claramente determinados en calidad y cantidad técnica multidisciplinaría. Será improcedente y contrario a derecho el que se habilite una medida que exceda el criterio de proporcionalidad por el acto cometido, toda vez que el propósito fundamental es el de atender a la protección integral y el interés superior del adolescente, incorporando al contenido educativo la prevención del delito.
 
 Estas medidas tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará como medida extrema y por el menor tiempo que proceda y podrá aplicarse únicamente a los adolescente (sic) mayores de catorce años y menores de dieciocho, por la comisión de las conductas antisociales calificadas como graves.
 
@@ -984,13 +986,13 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los funciona
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, del Procurador General de Justicia, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior Gubernamental, del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos superiores de los organismos constitucionales autónomos.
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral y del Procurador General de Justicia, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior Gubernamental, del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos superiores de los organismos constitucionales autónomos.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, al Procurador General de Justicia y al Auditor Superior Gubernamental, siempre que su ausencia exceda de treinta días.
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, al del Tribunal Unitario de Justicia para Adolescentes, al Procurador General de Justicia y al Auditor Superior Gubernamental, siempre que su ausencia exceda de treinta días.
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1002,9 +1004,11 @@ XXXV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal Estatal Electoral de conformidad con lo previsto en esta Constitución; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, al Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, a los titulares de los órganos superiores de los organismos constitucionales autónomos, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia, de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal Estatal Electoral; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y al del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado;
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2007)</small>
 
 Las designaciones a que alude esta fracción, deberán reunir el voto aprobatorio previsto en el artículo 44 de la presente Constitución.
 
@@ -1698,9 +1702,13 @@ IV.- Hacer lo conducente para que los juicios se sigan con toda regularidad, pid
 
 V.- Intervenir en los asuntos judiciales que interesen a la sociedad y a las personas a quienes la ley conceda especial protección, en la forma y términos que la misma determine;
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-VI.- Ejercer las demás atribuciones que le encomienden las leyes.
+VI.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a los menores que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los derechos fundamentales que reconoce la Constitución de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+VII.- Ejercer las demás atribuciones que le encomienden las leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -1852,7 +1860,7 @@ El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integra
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ## TITULO QUINTO.
 
@@ -1864,9 +1872,9 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-###### Artículo 86.
+###### ARTÍCULO 86.
 
-El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en los Juzgados que establezca la ley; en el Consejo de la Judicatura Estatal, en el Tribunal Estatal Electoral y en el Tribunal de lo Contencioso Administrativo, cada uno en el ámbito de competencia que les corresponde.
+El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en los Juzgados que establezca la ley; en el Consejo de la Judicatura Estatal, en el Tribunal Estatal Electoral, en el Tribunal de lo Contencioso Administrativo y en el Tribunal Unitario de Justicia para Adolescentes y cada uno en el ámbito de competencia que les corresponde.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
@@ -2122,15 +2130,15 @@ DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
 
+### CAPÍTULO VII.
+
+DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ### CAPITULO I.
 
 DE SU ORGANIZACION POLITICA.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO II.
-
-DE SU INTEGRACIÓN Y ELECCION.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2142,9 +2150,9 @@ DE SU INTEGRACIÓN Y ELECCION.
 
 (DEROGADO, P.O. 7 DE JULIO DE 1988)
 
-### CAPÍTULO III.
+### CAPITULO II.
 
-DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
+DE SU INTEGRACIÓN Y ELECCION.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2160,11 +2168,11 @@ El personal de la defensoría pública dependerá del Ejecutivo del Estado y ser
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV.
+### CAPÍTULO III.
 
-DE LOS SERVICIOS QUE PRESTAN.
+DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 109
 
@@ -2182,13 +2190,29 @@ La Ley establecerá su organización, su funcionamiento, el procedimiento y los 
 
 Los Magistrados deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales de bienes en los términos del Artículo 133-bis de esta Constitución.
 
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 5 DE DICIEMBRE DE 2007)
+
+### CAPITULO IV.
+
+DE LOS SERVICIOS QUE PRESTAN.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTÍCULO 109
+
+TER.- El Tribunal Unitario de Justicia para Adolescentes será el responsable de la administración de justicia para menores a que se refiere el artículo 19, inciso d) párrafo cuarto, de esta Constitución.
+
+Para ser Magistrado del Tribunal Unitario de Justicia para Adolescentes, se deberá acreditar especialización en la materia y reunir los requisitos que esta Constitución establece para ser magistrado del Tribunal Superior de Justicia; será nombrado por el Congreso del Estado previa convocatoria a examen de oposición que emitirá el órgano de gobierno del Congreso del Estado; durará en su encargo un periodo de seis años consecutivos y podrá ser reelecto únicamente por un periodo más, de conformidad con lo que establezca la ley.
+
+El Titular del Tribunal Unitario de Justicia para Adolescentes administrará sus recursos y propondrá su presupuesto de egresos al Titular del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho poder. La fiscalización de sus recursos estará a cargo del Organismo de Auditoria Superior Gubernamental.
+
+Habrá un Magistrado titular y suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales del Estado. Serán nombrados por el Magistrado del Tribunal Unitario de Justicia para Adolescentes, mediante convocatoria a examen de oposición, y durarán en su encargo tres años, pudiendo ser reelectos únicamente por otro periodo igual.
+
+La Ley Orgánica establecerá la organización, el funcionamiento, las atribuciones del Tribunal y demás disposiciones para el correcto desempeño de sus funciones.
+
+La información relacionada con los procesos jurisdiccionales en materia de justicia para adolescentes no será pública.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO V.
-
-DE SU HACIENDA.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ## TITULO SEXTO.
 
@@ -2196,9 +2220,9 @@ DEL MUNICIPIO LIBRE.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI.
+### CAPITULO V.
 
-DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
+DE SU HACIENDA.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2218,9 +2242,9 @@ Los Municipios citados se agruparán en Distritos Judiciales para la mejor admin
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-DE LOS REQUISITOS DE ELEGIBILIDAD.
+DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2244,9 +2268,9 @@ Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VIII.
+### CAPITULO VII.
 
-DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
+DE LOS REQUISITOS DE ELEGIBILIDAD.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2266,9 +2290,9 @@ Los Municipios tienen personalidad jurídica propia; pero la política y la admi
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IX.
+### CAPITULO VIII.
 
-DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL.
+DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2302,9 +2326,11 @@ Sin perjuicio de su competencia constitucional, en el desempeño de sus funcione
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO I.
+### CAPITULO IX.
 
-PRINCIPIOS GENERALES DE LA ADMINISTRACION PUBLICA.
+DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 115.
 
@@ -2334,11 +2360,9 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LAS OBLIGACIONES DE LOS SERVIDORES PUBLICOS.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+PRINCIPIOS GENERALES DE LA ADMINISTRACION PUBLICA.
 
 ###### Artículo 116.
 
@@ -2370,11 +2394,11 @@ X.- Cuando dos o más centros urbanos situados en territorios municipales del Es
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LA DECLARACION Y SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
+DE LAS OBLIGACIONES DE LOS SERVIDORES PUBLICOS.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
 ###### Artículo 117.
 
@@ -2398,11 +2422,11 @@ VII.- El padre en concurrencia con el hijo; el esposo o esposa con el cónyuge, 
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DE LA RESPONSABILIDAD PATRIMONIAL DEL ESTADO.
+DE LA DECLARACION Y SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
-ADICIONADO, P.O. 20 DE JULIO DE 2005)
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 118.
 
@@ -2426,11 +2450,11 @@ VII.- Los procedimientos mediante los cuales se resolverán los conflictos que s
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO I.
+### CAPITULO IV.
 
-DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE ESTA CONSTITUCION.
+DE LA RESPONSABILIDAD PATRIMONIAL DEL ESTADO.
 
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E. P.O. 11 DE AGOSTO DE 1965)
+ADICIONADO, P.O. 20 DE JULIO DE 2005)
 
 ###### Artículo 118
 
@@ -2462,11 +2486,11 @@ DE LA ADMINISTRACION DEL ESTADO.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO X DEL TITULO SEXTO], P.O. 11 DE AGOSTO DE 2003)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LAS REFORMAS A LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE ESTA CONSTITUCION.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
+(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E. P.O. 11 DE AGOSTO DE 1965)
 
 ###### Artículo 119.
 
@@ -2548,9 +2572,15 @@ Ningún pago podrá hacerse que no esté comprendido en el Presupuesto respectiv
 
 ###### Artículo 132.
 
-Los pagos de que habla el artículo anterior, sólo tendrán lugar por los servicios que se presten. En los casos de legítimo impedimento y en los de largos servicios, se otorgarán pensiones con carácter de retiro o jubilación, conforme a las leyes que al efecto se expidan.
+Los pagos de que habla el artículo anterior, solo tendrán lugar por los servicios que se presten. En los casos de legítimo impedimento y en los de largos servicios, se otorgarán pensiones con carácter de retiro o jubilación, conforme a las leyes que al efecto se expidan.
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+### CAPITULO II.
+
+DE LAS REFORMAS A LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 133.
 
@@ -3501,3 +3531,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Remítase el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 14 DE NOVIEMBRE DE 2007.
+
+Primero.- Aprobado que sea el presente Decreto por el Pleno del Congreso del Estado, remítase al Constituyente Permanente de la Entidad para los efectos constitucionales correspondientes.
+
+Segundo.- El Congreso del Estado, emitirá la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes.
+
+Tercero.- El Titular del Ejecutivo del Estado, implementará los mecanismos necesarios para la creación de una Agencia del Ministerio Público y Defensoría Pública Especializadas en los términos de la Ley de la materia.
+
+Cuarto.- Para la inmediata integración del Tribunal Unitario de Justicia para Adolescentes, en esta primera y única ocasión, en lo que se refiere a la especialización, la selección del Magistrado Titular y Suplente, se hará bajo los criterios de capacidad y práctica forense que fije el Congreso del Estado, en la Terna que para tal efecto proponga la Junta Política y de Gobierno.
+
+Quinto.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos, previa declaratoria de aprobación por parte del Congreso del Estado.
