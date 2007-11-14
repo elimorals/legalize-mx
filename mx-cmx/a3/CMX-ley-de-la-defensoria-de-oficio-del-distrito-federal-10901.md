@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-defensoria-de-oficio-del-distrito-federal-10901"
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-17"
-last_updated: "2000-06-08"
+last_updated: "2007-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10901&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1997-06-10"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JUNIO DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS, SU ENTRADA EN VIGOR SERA SIMULTANEAMENTE CON LA LEY DE JUSTICIA PARA ADOLESCENTES DEL DISTRITO FEDERAL.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de junio de 1997 y republicada en el Diario Oficial de la Federación, el jueves 18 de junio de 1997.
 
@@ -154,15 +156,19 @@ XIII. Las demás que le señalen esta Ley, su Reglamento y otros ordenamientos.
 
 ### Capítulo III. De los Servicios de Defensoría y Asesoría Jurídica
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 9o.
 
-El servicio de Defensoría se proporcionará a las personas que sean precisadas a comparecer ante los Tribunales del Fuero Común del Distrito Federal, agencias investigadoras del Ministerio Público, y juzgados cívicos.
+El servicio de defensoría se proporcionará a las personas que sean precisadas a comparecer ante los Tribunales del Fuero Común y de Justicia para Adolescentes del Distrito Federal, agencias investigadoras del Ministerio Público, y juzgados cívicos.
 
 La defensa de oficio sólo procederá a solicitud de parte interesada o por mandamiento legal, en los términos de esta Ley.
 
 En los asuntos del orden penal, la defensa será proporcionada al acusado en los términos que dispone el artículo 20, fracción IX y penúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-En materia de justicia cívica la defensa será proporcionada al presunto infractor en los términos de la normatividad aplicable.
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+En materia de justicia cívica y justicia para adolescentes la defensa será proporcionada al presunto infractor en los términos de la normatividad aplicable; Apoyando a las personas que ejerzan la patria potestad o representen al adolescente.
 
 ###### Artículo 10.
 
@@ -176,6 +182,10 @@ III. En su caso, aprobar el estudio socioeconómico a que se refiere esta Ley.
 
 Cuando la Dirección General determine que el solicitante no es sujeto de atención deberá por única vez prestar el servicio de asesoría jurídica respecto del asunto planteado.
 
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+Tratándose de la justicia para adolescentes no será necesario acreditar las fracciones II a III, y en el caso de la fracción I no será obstáculo el que cuente con persona de confianza para negar el servicio de defensoría.
+
 ###### Artículo 11.
 
 En materia civil, familiar y del arrendamiento inmobiliario, el servicio será proporcionado en los casos en que, con base en el estudio socioeconómico que se practique para el efecto, la Dirección General determine que el solicitante carece de los recursos económicos necesarios para retribuir a un defensor particular, con excepción de la intervención de defensores de oficio en materia familiar de acuerdo a lo establecido en los Artículos 943 y 950 del Código de Procedimientos Civiles para el Distrito Federal. Al efecto, el Reglamento de esta Ley establecerá el límite máximo de ingreso mensual que deba percibir el solicitante para que pueda ser atendido, los casos de excepción y las demás modalidades de la asistencia jurídica gratuita para satisfacer las necesidades de los habitantes del Distrito Federal, en esta materia.
@@ -186,9 +196,13 @@ El estudio socioeconómico en asuntos del orden civil, familiar y del arrendamie
 
 Para practicar los estudios socioeconómicos a que hace referencia este Artículo, la Dirección General por conducto de los trabajadores sociales deberá entrevistarse con el solicitante del servicio, pudiendo practicar una visita domiciliaria a efecto de corroborar su situación social y económica.
 
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 13.
 
-El servicio de asesoría jurídica consiste en ofrecer orientación en las materias penal, civil, familiar, del arrendamiento inmobiliario y de justicia cívica, y será proporcionado a todo aquél que así lo solicite, y que no sea sujeto del servicio de Defensoría.
+El servicio de asesoría jurídica consiste en ofrecer orientación en las materias penal, civil, familiar, del arrendamiento inmobiliario, de justicia cívica y de justicia para adolescentes y será proporcionado a todo aquél que así lo solicite, y que no sea sujeto del servicio de Defensoría.
+
+Cuando el adolescente carezca de persona que ejerza la patria potestad o lo represente el defensor de oficio deberá tomar las medidas preventivas para salvaguardar sus intereses. Debiendo notificar a la autoridad administrativa responsable de su custodia o internación a fin de que se designe un representante que lo asista; esto sin perjuicio de que personal de trabajo social de la propia defensoría, se acredite ante el juez del conocimiento a fin de que por este conducto se proceda a salvaguardar los intereses del adolescente infractor.
 
 ###### Artículo 14.
 
@@ -300,15 +314,21 @@ Los defensores de oficio adscritos a Juzgados de Paz y Penales, se ubicarán fí
 
 Los defensores de oficio en el área de Salas Penales del Tribunal Superior de Justicia del Distrito Federal, se ubicarán físicamente en los locales que el propio Tribunal asigne para el establecimiento de las citadas salas.
 
-Los defensores de oficio adscritos a juzgados cívicos se ubicarán en los locales que para los mismos establezcan las autoridades competentes.
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+Los defensores de oficio adscritos a juzgados cívicos y a juzgados para adolescentes se ubicarán físicamente en los locales que la Procuraduría designe para tal efecto.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+Los locales asignados a los defensores de oficio para la asistencia de los adolescentes infractores deberán contar con áreas específicas de orientación social, para que las personas que ejerzan la patria potestad o los representen, sean informados de la situación legal de los adolescentes, asimismo en esas áreas se contará con trabajadoras sociales.
 
 > <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
 
 Para efectos del presente artículo, la Procuraduría General de Justicia del Distrito Federal, el Tribunal Superior de Justicia del Distrito Federal y la propia Consejería, deberán proporcionar espacios físicos apropiados y suficientes para el funcionamiento de las oficinas de la Defensoría, en los sitios antes señalados.
 
-> <small>(ADICIONADO, G.O. 8 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-La Defensoría contará con espacios e instalaciones adecuadas para que los defensores de oficio puedan recibir a los solicitantes y atender les en forma apropiada.
+La defensoría contara con espacios e instalaciones adecuadas para que los defensores de oficio puedan recibir a los solicitantes y atenderles en forma apropiada.
 
 > <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
 
@@ -336,9 +356,11 @@ La Dirección General procurará que cada Defensor de Oficio tenga a su cargo el
 
 ### Capítulo VII. Excusas y Suspensión del Servicio
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 27.
 
-Los defensores de oficio en materia penal deberán excusarse de prestar el servicio de Defensoría cuando se presente alguna de las causas mencionadas en el Código de Procedimientos Penales para la excusa de los Agentes del Ministerio Público.
+Los defensores de oficio en materia penal y de justicia para adolescentes, deberán excusarse de prestar el servicio de Defensoría cuando se presente alguna de las causas mencionadas en el Código de Procedimientos Penales para la excusa de los Agentes del Ministerio Público o en la Ley de Justicia para Adolescentes.
 
 En caso de existir alguna de las causas mencionadas, el defensor de oficio expondrá por escrito su excusa al Director General, el cual después de cerciorarse de que ésta es justificada instruirá al defensor para presentar la excusa ante el juez o tribunal que conozca de la causa. Una vez que ésta haya sido aceptada de acuerdo a lo establecido en el Código de Procedimientos Penales del Distrito Federal, el Director General designará otro defensor, en los términos del presente ordenamiento. Asimismo comunicará la excusa y la nueva designación al defendido.
 
@@ -386,9 +408,13 @@ El Director General enviará al defendido una copia del informe, concediéndole 
 
 Cuando la causa de la suspensión del servicio sea la señalada en la fracción I del Artículo anterior, se concederá un plazo de diez días naturales al interesado, a partir de la notificación de la suspensión, transcurrido el cual el defensor de oficio dejará de actuar.
 
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 32.
 
-En los asuntos penales en que se presente alguno de los supuestos contenidos en las fracciones III y IV del Artículo anterior, el defensor de oficio podrá solicitar su cambio mediante escrito dirigido al Director General en el que explique los hechos que dan origen a su solicitud. El Director General, después de estudiar el caso, resolverá si la solicitud es procedente, en cuyo caso nombrará un nuevo defensor.
+En los asuntos penales y de justicia para adolescentes en que se presente alguno de los supuestos contenidos en las fracciones III y IV del artículo anterior, el defensor de oficio podrá solicitar su cambio mediante escrito dirigido al Director General en el que explique los hechos que dan origen a su solicitud. El Director General, después de estudiar el caso, resolverá si la solicitud es procedente, en cuyo caso nombrará un nuevo defensor.
+
+Para los supuestos establecidos en las fracciones I y III del artículo anterior el defensor de oficio dará cuenta al Juez del conocimiento a fin de que aplique medidas correctivas en términos de la Ley de Justicia para Adolescentes.
 
 ### Capítulo VIII. Obligaciones
 
@@ -452,17 +478,23 @@ VI. Notificarse de las resoluciones emitidas por el Juez de la materia, notifica
 
 VII. Las demás que coadyuven a realizar una defensa conforme a Derecho, que propicie la impartición de justicia pronta y expedita en beneficio de su defenso.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 36.
 
-Los defensores de oficio que brinden asistencia jurídica en agencias investigadoras del Ministerio Público, realizarán las siguientes funciones prioritarias:
+Los defensores de oficio que brinden asistencia jurídica en agencias investigadoras del Ministerio Público, así como las especializadas en materia de adolescentes realizarán las siguientes funciones prioritarias:
 
-I. Atender las solicitudes de Defensoría que le sean requeridas por el indiciado o el Agente del Ministerio Público;
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+I. Atender las solicitudes de defensoría que le sean requeridas por el indiciado, el adolescente a quien se le atribuya un hecho delictuoso o el Agente del Ministerio Público;
 
 II. Informar a su defenso sobre su situación jurídica, así como de los derechos que le otorgan la Constitución y las leyes secundarias;
 
 III. Auxiliar al defendido en la preparación y desahogo de todas las diligencias que se realicen a partir del momento en que asuma la defensa, y estar presente en ellas desde su inicio hasta su conclusión;
 
-IV. Entrevistarse con el indiciado para conocer su versión personal de los hechos y los argumentos, elementos y pruebas que pueda ofrecer en su favor, para hacerlos valer ante la autoridad del conocimiento;
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+IV. Entrevistarse con el indicado (sic) o el adolescente a quien se le atribuya un hecho delictuoso para conocer su versión personal de los hechos y los argumentos, elementos y pruebas que pueda ofrecer en su favor, para hacerlos valer ante la autoridad del conocimiento;
 
 V. Señalar en actuaciones los elementos legales adecuados y conducentes para exculpar, justificar o atenuar la conducta de su representado;
 
@@ -474,9 +506,11 @@ VIII. Ponerse en contacto con el defensor de oficio adscrito al juzgado que corr
 
 IX. Las demás que ayuden a realizar una defensa eficiente, conforme a Derecho y que propicien una impartición de justicia pronta y expedita.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 37.
 
-Los defensores de oficio adscritos a Juzgados de Paz y Penales, realizarán las siguientes funciones prioritarias:
+Los defensores de oficio adscritos a juzgados de paz, Penales y de justicia para adolescentes, realizarán las siguientes funciones prioritarias:
 
 I. Atender en los términos de esta Ley las solicitudes de Defensoría que les sean requeridas por el acusado o el juez que corresponda, aceptando el cargo y rindiendo la protesta de ley;
 
@@ -494,13 +528,17 @@ VII. Interponer en tiempo y forma los recursos legales que procedan contra las r
 
 VIII. Solicitar el otorgamiento de los beneficios a que se refiere el Código Penal del Distrito Federal cuando se reúnan los requisitos señalados en el mismo;
 
-IX. Practicar las visitas necesarias al reclusorio de su adscripción, con el objeto de comunicar a sus defensos el estado de tramitación de sus procesos, informarles de los requisitos para su libertad bajo caución cuando proceda o de la conveniencia de demostrar sus buenos antecedentes, y recoger los datos que sirvan de descargo a la defensa; y
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+IX. Practicar las visitas necesarias al reclusorio de su adscripción y a los centros de internamiento y tratamiento externo para adolescentes, con el objeto de comunicar a sus defensos el estado de tramitación de sus procesos, así como al que ejerza la patria potestad o lo represente, informarles de los requisitos para su libertad; por cumplimiento de la pena o rehabilitación del adolescente, así como el pago de caución cuando proceda para los mayores infractores, de la conveniencia de demostrar sus buenos antecedentes, y recoger los datos que sirvan de descargo a la defensa; y
 
 X. Las demás que coadyuven a realizar una defensa conforme a Derecho, que propicie la impartición de justicia pronta y expedita.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 38.
 
-Los defensores de oficio asignados al área de Salas Penales del Tribunal Superior de Justicia del Distrito Federal, tendrán las siguientes funciones prioritarias:
+Los defensores de oficio asignados al área de Salas Penales y de justicia para adolescentes del Tribunal Superior de Justicia del Distrito Federal, tendrán las siguientes funciones prioritarias:
 
 I. Notificar al superior jerárquico la radicación de los expedientes materia de apelación, en donde intervenga el defensor de oficio, aceptando el cargo y rindiendo la protesta de Ley;
 
@@ -604,9 +642,11 @@ V. Llevar un libro de registro de sus actividades; y
 
 VI. Las demás que les señalen sus superiores jerárquicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 48.
 
-Los peritos auxiliarán a los defensores de oficio en materia penal, realizando las siguientes funciones:
+Los peritos auxiliaran a los defensores de oficio en materia penal y de justicia para adolescentes realizando las siguientes funciones:
 
 I. Consultar los expedientes de los procesos en que el defensor de oficio pretenda ofrecer una prueba pericial, a efecto de indicarle si existen o no elementos técnicos para apoyar tal prueba o para rebatir los dictámenes contrarios;
 
@@ -628,13 +668,21 @@ Los Libros de Registro de la Defensoría de Oficio, deberán contener los datos 
 
 I. El Libro de Registro de la Defensoría de Oficio en Averiguaciones Previas debe contener: fecha del inicio de la averiguación previa, designación de defensor, número de averiguación previa (directa, continuada o relacionada), presunto responsable, denunciante, delito, diligencias practicadas y demás trámites realizados;
 
-II. El Libro de Registro de la Defensoría de Oficio en Materia Penal en Juzgados de Primera Instancia y de Paz debe contener: número de Juzgado, número de expediente, nombre del acusado y del denunciante, delito, designación del defensor, fecha de la declaración preparatoria, fecha del auto de término constitucional, fecha de ofrecimiento de pruebas, fecha de desahogo de las mismas, fecha de la formulación de conclusiones, notificación de la sentencia y fecha de la interposición del recurso de apelación, si procede;
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+II. El libro de registro de la Defensoría de Oficio en materia penal en juzgados de primera instancia, de justicia para adolescentes y de paz debe contener: número de Juzgado, número de expediente, nombre del acusado y del delincuente, delito, diligencias, designación del defensor, fecha de la declaración preparatoria, fecha del auto de término constitucional, fecha de ofrecimiento de pruebas, fecha de desahogo de las mismas fecha de la formulación de conclusiones, notificación de la sentencia y fecha de interposición del recurso de apelación, si procede.
+
+En materia de justicia para adolescentes, el libro de registro de la defensoría no será público, a fin de salvaguardar los intereses del menor infractor y solo es consultable por parte legítima en el procedimiento;
 
 III. El Libro de Registro de la Defensoría de Oficio en las materias civil, familiar y del arrendamiento inmobiliario debe contener: número de Juzgado, número de expediente, nombre del interesado, actos o demandado, clase de juicio, fecha de la formulación o contestación de la demanda, fecha de la audiencia, fecha de la sentencia en que se notifica y fecha del recurso de apelación, si es que se formuló; y
 
-IV. El Libro de Registro de la Defensoría de Oficio de las Salas Penales del Tribunal Superior de Justicia debe contener: número de Sala, fecha de la radicación del expediente en la Sala, número de Toca, nombre del procesado o sentenciado, delito, designación de defensor, fecha de la audiencia de vista, fecha de la formulación de agravios, fecha de la notificación de la sentencia emitida por la Sala y resumen de los puntos resolutivos en los que quedó la sentencia de la Sala y fecha de la presentación de la demanda de amparo.
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-Además, deberá llevarse un libro de correspondencia oficial, uno de acuerdos e instrucciones especiales, y los que sean necesarios para control y consulta.
+IV. El libro del registro de la Defensoría de Oficio de las salas penales y en justicia para adolescentes del Tribunal Superior de Justicia debe contener: número de sala, fecha de la radicación del expediente en la Sala, número de Toca, nombre del procesado o sentenciado, delito, designación de defensor, fecha de la audiencia de vista, fecha de la formulación de agravios, fecha de notificación de la sentencia emitida por la sala y resumen de los puntos resolutivos en los que se quedó la sentencia de la sala y fecha de la presentación de la demanda de amparo.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+En materia de justicia para adolescentes, el libro de registro de la defensoría no será público, a fin de salvaguardar los intereses del menor infractor y solo es consultable por parte legítima en el procedimiento.
 
 Los registros a que se refiere este precepto podrán llevarse en medios magnéticos o electrónicos.
 
@@ -771,3 +819,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- El Reglamento de esta Ley deberá adecuarse a las disposiciones contenidas en el presente decreto, dentro del término de treinta días, a la entrada en vigor del mismo.
+
+G.O. 14 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor, simultáneamente con la Ley sobre Justicia para Adolescentes del Distrito Federal, que para tal efecto aprobará la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- La Defensoría de Oficio deberá presupuestar para el ejercicio 2007 los recursos para crear la infraestructura suficiente y el personal necesario para que se proceda a la aplicación de la Ley sobre Justicia para Adolescentes del Distrito Federal.
