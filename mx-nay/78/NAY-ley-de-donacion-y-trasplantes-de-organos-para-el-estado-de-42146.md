@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-donacion-y-trasplantes-de-organos-para-el-estado-de-4214
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2004-12-25"
+last_updated: "2007-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE DONACION Y TRASPLANTES DE ORGANOS PARA EL ESTADO DE NAYARIT
 
-LEY DE DONACION Y TRASPLANTES DE ORGANOS PARA EL ESTADO DE NAYARIT
+LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de diciembre de 2004.
 
@@ -223,57 +223,23 @@ En ningún caso se podrá disponer de órganos ni de cadáveres, en contra de la
 
 ### CAPITULO II. DEL CONSEJO ESTATAL DE TRASPLANTES
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 16.
 
-El Consejo Estatal de Trasplantes, es el organismo público descentralizado del Poder Ejecutivo del Estado, que tiene a su cargo apoyar, coordinar, promover, consolidar e implementar las diversas acciones y programas, en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como decidir y vigilar la asignación de órganos y tejidos en los términos que determina la legislación aplicable.
-
-El Consejo Estatal de Trasplantes tendrá personalidad jurídica y patrimonio propios, que le permitan un mejor cumplimiento de sus atribuciones.
-
-Para los efectos de esta Ley se entenderá por Consejo, al Consejo Estatal de Trasplantes.
-
-Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
+El Consejo Estatal de Trasplantes, es el organismo dependiente de los Servicios de Salud de Nayarit, que tiene a su cargo coordinar, promover y consolidar la cultura de donación de órganos y tejidos de seres humanos con fines terapéuticos, se integrará y funcionará de conformidad con el Reglamento respectivo.
 
 ###### ARTICULO 17.
 
-El Consejo Estatal de Trasplantes se integrará en forma permanente por:
-
-I. El Gobernador del Estado, quien fungirá como Presidente;
-
-II. El Director General de Regulación y de Fomento Sanitario de la Secretaría de Salud, quien será su "Coordinador General";
-
-III. Además, contará con los siguientes vocales:
-
-A).- El Procurador General de Justicia,
-
-B).- El Presidente de la Comisión Estatal para la Defensa de los Derechos Humanos para el Estado de Nayarit,
-
-C).- El Secretario de Educación Pública del Estado,
-
-D).- El Director del Hospital General de Tepic,
-
-E).- El Rector de la Universidad Autónoma de Nayarit,
-
-F).- El Presidente del Colegio de Notarios del Estado,
-
-G).- El Delegado del Instituto Mexicano del Seguro Social,
-
-H).- El Delegado del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado,
-
-I).- Los Presidentes de las Asociaciones Médicas o Colegios de Profesionistas relacionados en la materia.
-
-J).- El Presidente de la Asociación Estatal de Cirujanos Generales Asociación Civil.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 18.
 
-El Presidente Ejecutivo del Consejo Estatal de Trasplantes, designará al Secretario Técnico del propio Consejo, el cual tendrá las responsabilidades que le señale el Reglamento Interior del Consejo Estatal de Trasplantes y coordinará los trabajos del Comité Técnico del Consejo Estatal de Trasplantes.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 19.
 
-El Consejo Estatal de Trasplantes sesionará conforme lo establezca su reglamento interior.
-
-El Presidente Ejecutivo podrá ser suplido en las sesiones por el Coordinador General.
-
-Cada vocal propietario, podrá designar a un suplente que lo sustituirá durante sus faltas temporales.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 20.
 
@@ -323,25 +289,11 @@ XXI. Las demás que le señale su reglamento.
 
 ###### ARTICULO 21.
 
-El Consejo Estatal de Trasplantes contará con la colaboración de un Comité Técnico que integrarán profesionales peritos en la materia de trasplantes, que designará la Secretaría de Salud del Gobierno de Nayarit mediante propuestas para su ratificación a la Comisión de Salud y Seguridad Social del Congreso del Estado de Nayarit; pero de no ser ratificados, la Comisión de Salud y Seguridad Social mediante proceso de insaculación, con profesionales y peritos en materia de trasplantes, procederán a su designación.
-
-El Comité Técnico coadyuvará para la mejor realización del Programa Estatal de Trasplantes, contará con las funciones que le señale el Reglamento Interior del Consejo y procurará el intercambio de experiencias entre las instituciones de salud que realicen trasplantes.
-
-El Secretario Técnico, cuidará celosamente que se respete el orden cronológico establecido en el reglamento de receptores.
-
-Por excepción, podrá dejar de respetarse el orden preestablecido en el registro de receptores, cuando el Comité Técnico, bajo su responsabilidad, juzgue procedente, por criterios médicos plenamente comprobados de edad, padecimiento, histocompatibilidad y demás aplicables conforme al grado de avance de la ciencia y técnica.
-
-Cuando se proceda conforme al párrafo anterior, el Comité Técnico deberá emitir por escrito, dictamen justificatorio de dicha decisión, coherente con los datos que consten en el expediente clínico.
-
-El Comité Técnico estará obligado a proporcionar información amplia y suficiente sobre los motivos y fundamentos de su decisión, cuando ésta le sea requerida por la autoridad competente, por el receptor postergado, su cónyuge, concubina, concubinario o familiares directos dentro del segundo grado.
-
-El Comité Técnico, certificará y dará aviso al Registro Estatal de Donadores del Estado de Nayarit, con relación a los casos en que haya una persona donadora, que se encuentre en el supuesto para disponer de sus órganos o tejidos y tiene en ese momento parentesco por afinidad, por consanguinidad o civil, o cónyuge, concubina o concubinario, conforme lo determina la Ley aplicable.
-
-La violación al estricto cumplimiento a lo prescrito con anterioridad será sancionada en los términos previstos en la legislación penal.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 22.
 
-El Consejo Estatal de Trasplantes para un mejor cumplimiento de sus objetivos, a través de su pleno, podrá determinar la integración y trabajo de comisiones, permanentes o transitorias, las cuales se regirán por lo establecido en el Reglamento Interior del propio Consejo.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO III. DEL REGISTRO ESTATAL DE DONADORES DEL ESTADO DE NAYARIT
 
@@ -1352,3 +1304,15 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del
 Dip. Presidente, Manuel Narváez Robles.- Rúbrica.- Dip. Secretario, Enrique Mejía Pérez.- Rúbrica.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintitrés días del mes de diciembre del año dos mil cuatro.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberá proveer lo necesario para poner en funcionamiento el Consejo Estatal de Trasplantes, en un término no mayor a 90 días, contados a partir de la entrada en vigor del presente decreto.
