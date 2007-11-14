@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2007-04-30"
+last_updated: "2007-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS, SU ENTRADA EN VIGOR SERA SIMULTANEAMENTE CON LA LEY DE JUSTICIA PARA ADOLESCENTES DEL DISTRITO FEDERAL.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -380,9 +382,13 @@ X. Conducir la política interior que competa al Jefe de Gobierno y no se atribu
 
 XI. Aplicar las políticas demográficas que fije la Secretaría de Gobernación en el ámbito del Distrito Federal y coordinar sus acciones con el Consejo Nacional de Población;
 
-XII. Normar, operar y administrar los reclusorios y centros de readaptación social;
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-XIII. Proveer administrativamente la ejecución de sentencias penales por delitos del fuero común, en los términos de las normas aplicables;
+XII. Normar, operar y administrar los reclusorios, centros de readaptación social y los centros de internamiento y tratamiento externo para adolescentes;
+
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+XIII. Proveer administrativamente la ejecución de sentencias penales por delitos del fuero común, y ejecutar las medidas de protección, orientación y tratamiento impuestas a los adolescentes en los términos de las normas aplicables;
 
 XIV. Vigilar, en el ámbito administrativo, el cumplimiento de los preceptos constitucionales por parte de las autoridades del Distrito Federal, especialmente en lo que se refiere a las garantías individuales y derechos humanos, así como dictar las medidas administrativas que requiera su cumplimiento;
 
@@ -752,7 +758,7 @@ XIV. Establecer y promover políticas para la educación y participación comuni
 
 XV. Regular y controlar las actividades ambientalmente riesgosas, de conformidad con lo que establece la Ley Ambiental del Distrito Federal;
 
-XVI. Realizar actividades de vigilancia y verificación ambiental, así como aplicar las sanciones previstas en las disposiciones jurídicas de la materia, y (sic)
+XVI. Realizar actividades de vigilancia y verificación ambiental, así como aplicar las sanciones previstas en las disposiciones jurídicas de la materia, y (sic9
 
 > <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -1873,3 +1879,11 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor simultáneamente con la Ley de Justicia para Adolescentes del Distrito Federal, que para el efecto aprobara la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- La Secretaría de Gobierno deberá presupuestar para el ejercicio 2007 los recursos para crear la infraestructura suficiente y el personal necesario para que se proceda a la aplicación de la Ley de Justicia para Adolescentes del Distrito Federal.
