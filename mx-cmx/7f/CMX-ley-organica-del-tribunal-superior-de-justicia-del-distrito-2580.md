@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2005-01-26"
+last_updated: "2007-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS, SU ENTRADA EN VIGOR SERA SIMULTANEAMENTE CON LA LEY DE JUSTICIA PARA ADOLESCENTES DEL DISTRITO FEDERAL.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -56,7 +58,7 @@ El Consejo de la Judicatura del Distrito Federal será el órgano encargado de m
 
 Se establecen como principios que regulan la función judicial, tanto en su aspecto de impartición de Justicia, como en su aspecto administrativo los siguientes: la expeditez, el impulso procesal oficioso, la imparcialidad, la legalidad, la honradez, la independencia, la caducidad, la sanción administrativa, la oralidad, la formalidad, la calidad total en sus procesos operativos, administrativos y contables, la excelencia en recursos humanos, la vanguardia en sistemas tecnológicos, la carrera judicial, la eficiencia y eficacia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2o.
 
@@ -72,37 +74,27 @@ IV. Jueces de lo Familiar;
 
 V. Jueces del Arrendamiento Inmobiliario;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+VI. Jueces de Justicia para Adolescentes; y
 
-VI. Jueces de Paz; (sic)
+VII. Jueces de Paz.
 
-VII. Jueces de Inmatriculación Judicial;
-
-VIII. Jueces de Paz;
-
-IX. Jurado Popular;
-
-X. Presidentes de Debates, y
-
-XI. Arbitros.
-
-Los demás servidores públicos y auxiliares de la administración de justicia intervendrán en dicha función en los términos que establece esta Ley, los códigos de procedimientos y demás leyes aplicables.
+Los demás servidores públicos y auxiliares de la administración de justicia intervendrán en dicha función en los términos que establece esta Ley, los Códigos de Procedimientos y demás leyes aplicables.
 
 ###### Artículo 3o.
 
 Los árbitros no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que fija el Código de Procedimientos Civiles para el Distrito Federal, conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles que les encomienden los interesados. Para que resulten ejecutables sus fallos, éstos deben ser homologados por la autoridad civil correspondiente, sólo en relación con los requisitos inherentes a su formalidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 4o.
 
-Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes que, en el ejercicio de sus atribuciones legales, emitan los jueces y magistrados del tribunal:
+Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes que en el ejercicio de sus atribuciones legales, emitan Jueces y Magistrados del Tribunal:
 
 > <small>(ADICIONADA, G.O. 21 DE ENERO DE 1999)</small>
 
 I. La Subsecretaría de Gobierno del Distrito Federal;
 
-II. La Dirección General de Prevención y Readaptación Social;
+II. (DEROGADA, G.O. 14 DE NOVIEMBRE DE 2007)
 
 III. El Consejo de Menores;
 
@@ -240,11 +232,11 @@ VII. No haber ocupado el cargo de Jefe de Gobierno del Distrito Federal, Secreta
 
 Los nombramientos de los Magistrados serán hechos preferentemente, de entre aquellas personas que se hayan desempeñado como Jueces o que hayan prestado sus servicios con eficiencia y probidad en la impartición o procuración de justicia, o en su caso, que por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica se consideren aptos para impartirla. En igualdad de circunstancias, se preferirá a los originarios o vecinos del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 17.
 
-Para ser Juez de Primera Instancia en las materias Civil, Penal, Familiar y del Arrendamiento Inmobiliario, se requiere:
+Para ser Juez de Primera Instancia en las materias civil, penal, familiar, de Justicia para Adolescentes, y del arrendamiento inmobiliario, se requiere:
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
 
@@ -446,7 +438,7 @@ V. Expedir los acuerdos generales y demás disposiciones reglamentarias para el 
 
 Establecer los mecanismos que permitan evaluar el desempeño jurisdiccional de las Salas y Juzgados, y en caso de existir irregularidades, determinar la sanción aplicable, dando cuenta al Consejo de la Judicatura del Distrito Federal, para el efecto de que imponga la sanción correspondiente en los términos de esta Ley.
 
-Ordenar y supervisar que el Instituto de Estudios Judiciales implemente cursos de capacitación y actualización de carácter jurisdiccional de forma permanente, en los que participen los Servidores públicos de la administración de justicia;
+Ordenar y supervisar que el Instituto de Estudios Judiciales implemente cursos de capacitación y actualización de carácter jurisdiccional de forma permanente, en los que participen los servidores públicos de la administración de justicia;
 
 VI. Recibir y en su caso aceptar o rechazar la renuncia del Presidente del Tribunal;
 
@@ -588,9 +580,11 @@ XI. Las demás que expresamente le confiera esta Ley y otras disposiciones aplic
 
 ### CAPITULO III. De las Salas del Tribunal
 
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 38.
 
-Las Salas del Tribunal Superior de Justicia del Distrito Federal se integrarán, cada una, por tres Magistrados, y serán designadas por número ordinal, en Salas Civiles, Penales y Familiares.
+Las Salas del Tribunal Superior de Justicia del Distrito Federal se integrarán cada una por tres Magistrados, y serán designadas por número ordinal, en Salas Civiles, Penales, Familiares y de Justicia para Adolescentes.
 
 Los Magistrados integrantes de las mismas actuarán en forma unitaria o colegiada en los términos establecidos por esta Ley. El Pleno del Tribunal determinará las materias de las Salas, de acuerdo con los requerimientos de una buena administración de justicia.
 
@@ -676,6 +670,24 @@ Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones cont
 
 En aquellos casos en que deba resolverse algún asunto en forma unitaria, pero se considere que el criterio que se va a establecer pudiera servir de precedente, o cuando a petición de alguno de los Magistrados integrantes de la Sala, se determine que debe ser del conocimiento de está en pleno, el fallo se dictará en forma colegiada.
 
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 44 Bis.
+
+Las Salas en materia de Justicia para Adolescentes conocerán:
+
+I. De los recursos de apelación y denegada apelación que les correspondan y que se interpongan en contra de las resoluciones dictadas por los Jueces de Justicia para Adolescentes del Distrito Federal, incluyéndose las resoluciones relativas a incidentes civiles que surjan en los procesos;
+
+II. De las excusas y recusaciones de los Jueces de Justicia para Adolescentes del Distrito Federal;
+
+III. De los conflictos competenciales que se susciten en materia de Justicia para Adolescentes, entre las autoridades judiciales del Tribunal Superior de Justicia del Distrito Federal;
+
+IV. De las contiendas de acumulación que se susciten en materia de Justicia para Adolescentes, entre las autoridades que expresa la fracción anterior, y
+
+V. De los demás asuntos que determinen las leyes.
+
+Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones contra sentencias definitivas dictadas en procesos instruidos por conductas típicas calificadas como graves, o en los casos en que se imponga la medida de internamiento, resoluciones que versen sobre hechos que en el correspondiente pliego sean calificados de antisociales, al amparo la acción penal por alguna conducta típica calificada como grave, con independencia de que se determine la comprobación o no de la conducta típica calificada como grave, la reclasificación de las conductas o hechos, o la inacreditación de alguna agravante o modalidad que provisionalmente determine que la conducta típica calificada como grave; o en contra de cualquier resolución en la que se haya determinado la libertad por conclusión del internamiento por rehabilitación social. En todos los demás casos las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 45.
@@ -716,39 +728,33 @@ Los Secretarios de Acuerdos de Salas, tendrán en lo conducente, las mismas atri
 
 (DEROGADO, G.O. 8 DE SEPTIEMBRE DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-### CAPITULO II. De los Juzgados de lo Civil, de lo Penal, de lo Familiar y del Arrendamiento Inmobiliario del Distrito Federal
+### CAPITULO II. De los Juzgados de lo Civil, de lo Penal, de lo Familiar, de Justicia para Adolescentes y del Arrendamiento Inmobiliario del Distrito Federal
+
+> <small>(REFORMADO Y REUBICADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 48.
 
 En el Tribunal Superior de Justicia del Distrito Federal, los órganos jurisdiccionales de primera instancia los conforman:
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
-
-I. Jueces de lo Civil y los Jueces de Paz Civil, éstos en los asuntos que no sean de única instancia;
-
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+I. Jueces de lo Civil y los Jueces de Paz Civil, estos en los asuntos que no sean de única instancia;
 
 II. Jueces de lo Penal y los Jueces de Paz Penal;
 
 III. Jueces de lo Familiar;
 
-IV. Jueces del Arrendamiento Inmobiliario;
+IV. Jueces de Arrendamiento Inmobiliario;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+V. El Juzgado Mixto ubicado en las Islas Marías y
 
-V. El Juzgado Mixto, ubicado en las Islas Marías;
+VI. Jueces de Justicia para Adolescentes.
 
-VI. (DEROGADA, G.O. 24 DE ABRIL DE 2003)
-
-VII. (DEROGADA, G.O. 24 DE ABRIL DE 2003)
+(REUBICADO, G.O. 14 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 49.
 
 En el Distrito Federal habrá el número de Juzgados que el Consejo de la Judicatura considere necesarios para que la administración de justicia sea expedita. Dichos Juzgados estarán numerados progresivamente.
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 50.
 
@@ -766,13 +772,17 @@ V. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitori
 
 VI. De los demás asuntos que les encomienden las leyes.
 
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 51.
 
-Los juzgados penales ejercerán las competencias y atribuciones que les confieren las leyes, a partir de la recepción del turno de trámite que se establecerá por orden numérico en los términos del control que lleve a cabo la Dirección de Turno de Consignaciones Penales del Tribunal y de conformidad con las reglas que para el efecto expida el Consejo de la Judicatura del Distrito Federal.
+Los Juzgados Penales y de Justicia para Adolescentes ejercerán las competencias y atribuciones que les confieran las leyes, a partir de la recepción del turno de trámite que se establecerá por orden numérico en los términos del control que lleve a cabo la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes del Tribunal y de conformidad con las reglas que para el efecto expida el Consejo de la Judicatura del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2000)</small>
 
 Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre los distintos juzgados.
+
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2000)</small>
 
 Los servidores públicos del Tribunal y del Consejo de la Judicatura que con motivo de sus funciones posean información sobre el turno y las reglas deberán dar trato estrictamente confidencial a dicha información, haciéndose acreedores, en caso de incumplimiento, a la respectiva sanción penal o administrativa, de acuerdo con el carácter de la infracción.
 
@@ -800,9 +810,19 @@ VIII. En general, todas las cuestiones familiares que reclamen la intervención 
 
 Los Jueces del Arrendamiento Inmobiliario conocerán de todas las controversias que se susciten en materia de arrendamiento de inmuebles destinados a habitación, comercio, industria o cualquier otro uso, giro o destino permitido por la ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 54.
 
-(DEROGADO, G.O. 24 DE ABRIL DE 2003)
+A los Jueces para Adolescentes corresponde:
+
+I. Conocer las causas instauradas en contra de las personas a quienes se imputen la realización de un acto tipificado como delito en las leyes locales, cuando tengan entre doce años cumplidos y dieciocho no cumplidos;
+
+II. Promover la conciliación entre quien ejerza la patria potestad o en su caso represente al adolescente y la víctima u ofendido como formas de rehabilitación social, a fin de cumplir con los principios de mínima intervención y subsidiaridad y en su caso, decretar la suspensión del proceso por arreglo conciliatorio;
+
+III. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley de Justicia para Adolescentes para el Distrito Federal, y
+
+IV. Resolver sobre las medidas a imponer, atendiendo al estudio de los hechos y estudio de su personalidad, que lleven a establecer los principios de culpabilidad, proporcionalidad y racionalidad, por el acto antisocial, así como a las circunstancias, gravedad de la conducta, características y necesidades de los Adolescentes, que represente el menor daño al adolescente para su reincorporación social.
 
 (REFORMADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
 
@@ -874,13 +894,15 @@ XVI. Ejercer bajo su responsabilidad, por sí mismo o por conducto de los servid
 
 XVII. Las demás que les confieran las leyes y los reglamentos.
 
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 59.
 
-Los Secretarios adscritos a los Juzgados Penales tienen las obligaciones y atribuciones que establece esta Ley en los artículos 57 y 58, en lo que sean compatibles y además deberán:
+Los Secretarios adscritos a los Juzgados Penales y de Justicia para Adolescentes, tienen las obligaciones y atribuciones que establece esta ley en los artículos 57 y 58 en lo que sean compatibles, y además deberán:
 
-I. Practicar aseguramientos o cualquiera otra diligencia que deba llevarse a cabo con arreglo a la ley o determinación judicial y ejecutar, en su caso, las decisiones del Juez en cuanto a la entrega de los bienes materia del delito que no competa hacerlo a autoridad diversa, y
+I. Practicar aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del Juez en cuanto a la entrega de los bienes materia del delito que no competa hacerlo a autoridad diversa, y
 
-II. Las demás que la ley o los Jueces les encomienden, relativas a asuntos de la oficina.
+II. Las demás que la Ley o los Jueces les encomienden, relativas a asuntos de la oficina.
 
 ###### Artículo 60.
 
@@ -1592,7 +1614,7 @@ El Secretario que sin ser árbitro, intervenga con este carácter en el juicio r
 
 ###### Artículo 145.
 
-El árbitro o árbitros a que se refiere el párrafo tercero del artículo 619 del Código de Procedimientos Civiles para el Distrito Federal, devengarán hasta el 25% de la cuota señalada en el Artículo 141 de esta Ley.
+El árbitro o árbitros a que se refiere el párrafo tercero del artículo 619 del Código de Procedimientos Civiles para el Distrito Federal, devengarán hasta el 25% de la cuota señalada en el artículo 141 de esta Ley.
 
 ###### Artículo 146.
 
@@ -1702,9 +1724,9 @@ Se llevará un registro histórico de los avisos publicados, para facilitar la i
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales
+### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Articulo 161.
 
@@ -1842,7 +1864,7 @@ II. Recibir los escritos de término que se presenten después de las horas de l
 
 La Oficialía de Partes Común permanecerá abierta durante las horas hábiles a que se refiere el artículo 65 fracción III del Código de Procedimientos Civiles para el Distrito Federal.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO X. De la Coordinación de Relaciones Institucionales
 
@@ -1850,7 +1872,7 @@ La Oficialía de Partes Común permanecerá abierta durante las horas hábiles a
 
 ###### Artículo 174.
 
-Corresponde a la Dirección de turno de consignaciones penales, recibir diariamente las consignaciones que remita la Procuraduría General de Justicia del Distrito Federal para su distribución a los jueces penales, que se llevará a cabo conforme a las reglas que para el efecto expida el Consejo de la Judicatura del Distrito Federal.
+Corresponde a la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes, recibir diariamente las consignaciones que remita la Procuraduría General de Justicia del Distrito Federal para su distribución a los Jueces Penales y los pliegos de actos antisociales para su distribución a los de Justicia para Adolescentes, según su competencia que se llevará a cabo conforme a las reglas que para el efecto expida el Consejo de la Judicatura del Distrito Federal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -1876,7 +1898,7 @@ La Dirección estará en servicio en los días y horarios que señalen las regla
 
 ###### Artículo 178.
 
-El Instituto de Estudios Judiciales tendrá un Director General que deberá reunir los requisitos establecidos en el artículo 16 de esta Ley, a excepción de su fracción VI; además contará con el personal necesario para el cumplimiento de sus objetivos. Los Jueces o Magistrados que así lo soliciten, se podrán incorporar al cuerpo docente del Instituto.
+El Instituto de Estudios Judiciales tendrá un Director General que deberá reunir los requisitos establecidos en el artículo 16 de esta ley, a excepción de su fracción VI; además, contará con el personal necesario para el cumplimiento de sus objetivos. Los Jueces o Magistrados que así lo soliciten, se podrán incorporar al cuerpo docente del Instituto.
 
 El funcionamiento y atribuciones del Instituto de Estudios Judiciales se regirá por el acuerdo respectivo, que expedirá el Consejo de la Judicatura del Distrito Federal.
 
@@ -2392,7 +2414,7 @@ Los Visitadores deberán realizar visitas administrativas ordinarias cada tres m
 
 Ningún Visitador podrá visitar los mismos órganos por más de dos ocasiones en un año.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 2003)</small>
 
 ###### Artículo 206.
 
@@ -2404,7 +2426,7 @@ II. Verificarán que los valores estén debidamente guardados, ya sea en la caja
 
 III. En los juzgados penales corroborarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal;
 
-IV. Revisarán el libro de gobierno y los demás libros de control a fin de determinar si sé encuentran en orden y contienen los datos requeridos;
+IV. Revisarán el libro de gobierno y los demás libros de control a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
 V. Harán constar el número de asuntos que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita; y
 
@@ -2604,21 +2626,33 @@ III. Intervenir de cualquier forma en el nombramiento del personal de los Juzgad
 
 Si la falta se cometiere por alguna Sala del Tribunal Superior de Justicia del Distrito Federal, por no dictar resoluciones dentro del término legal, sólo será responsable el Magistrado ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás magistrados; y estos últimos serán responsables si, habiéndose presentado la ponencia correspondiente, no concurrieren a la discusión del negocio o no lo votan dentro del mismo plazo legal, o cuando, según el caso, no emita voto particular razonado.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 223.
 
-Son faltas de los Secretarios del ramo penal:
+Son faltas de los Secretarios en el ramo penal, y de Justicia para Adolescentes:
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 I. No dar cuenta, dentro del término de la ley, con los oficios y documentos oficiales dirigidos al juzgado y con los escritos y promociones de las partes;
 
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
 II. No asentar en autos, dentro del término, las certificaciones que procedan de oficio o por mandato judicial;
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 III. No diligenciar, dentro de las veinticuatro horas siguientes a aquéllas en las que surtan efectos las resoluciones judiciales, a menos que exista causa justificada;
 
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
 IV. No dar cuenta, al Juez o al Presidente de la Sala, de las faltas u omisiones que personalmente hubieren notado en los servidores públicos de la administración de justicia subalternos de la oficina, o que se le denuncien por el público verbalmente o por escrito;
 
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
 V. No engrosar, dentro de ocho días siguientes a la decisión del negocio, la sentencia que corresponda, en los casos que fuere su obligación hacerlo, y
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 VI. Las señaladas en las fracciones VII, XIV y XVI al XX del artículo 220.
 
@@ -2949,3 +2983,11 @@ G.O. 26 DE ENERO DE 2005.
 Primero. Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor simultáneamente con la Ley sobre Justicia para Adolescentes del Distrito Federal, que para tal efecto aprobará la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- El Tribunal Superior de Justicia deberá presupuestar para el ejercicio 2007, los recursos para crear la infraestructura suficiente y el personal necesario para que se proceda a la aplicación de la Ley sobre Justicia para Adolescentes.
