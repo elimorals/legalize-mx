@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2007-09-28"
+last_updated: "2007-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2007.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -769,7 +769,7 @@ XXXVII.- Recibir del Gobernador, Diputados y Magistrados la protesta a que se re
 
 XXXVIII.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
 
-XXXIX.- Suspender hasta por tres meses previa garantía de audiencia, a los miembros de los Ayuntamientos por si o a petición del Ejecutivo cuando sea indispensable hacerlo para la práctica de alguna averiguación, y en su caso, separarlos del cargo previa formación de causa, cuando abusen de sus facultades;
+XXXIX.- Suspender hasta por tres meses previa garantía de audiencia, a los miembros de los Ayuntamientos por sí o a petición del Ejecutivo cuando sea indispensable hacerlo para la práctica de alguna averiguación, y en su caso, separarlos del cargo previa formación de causa, cuando abusen de sus facultades;
 
 XL.- Conocer, como Jurado de acusación, de los procedimientos que por delitos oficiales se inicien contra los funcionarios a que se refiere esta constitución;
 
@@ -945,7 +945,7 @@ VIII. No tener parentesco por consanguinidad en los cuatro primeros grados, ni p
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2006)</small>
 
-## TITULO QUINTO BIS. DEL MINISTERIO DE JUSTICIA Y DE LOS ORGANOS AUTONOMOS DEL ESTADO
+## TITULO QUINTO BIS. DEL MINISTERIO DE JUSTICIA Y DE LA COMISION DE LOS DERECHOS HUMANOS
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
@@ -1189,7 +1189,7 @@ Las ausencias de los titulares de las Dependencias serán suplidas en los térmi
 
 Los titulares de las dependencias y de las entidades deberán comparecer ante el congreso del Estado o ante sus Comisiones cuando sean requeridos para dar cuenta del estado que guardan sus respectivos ramos o cuando se discuta una iniciativa de Ley que les competa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 47.
 
@@ -1209,9 +1209,9 @@ El Ministerio de Justicia del Estado es un Organismo Público Independiente, jer
 
 Los Fiscales de Distrito conocerán de los asuntos del Ministerio de Justicia del Estado, en jurisdicciones locales de sus respectivos distritos; serán órganos que gozarán de autonomía técnica y presupuestaría, y ejercerán sus atribuciones a través del principio de unidad, dependencia jerárquica de los Ministerios Públicos de sus respectivos distritos y con sujeción a los principios de imparcialidad y legalidad. Las jurisdicciones de los Fiscales de Distrito serán: Distrito Centro, Distrito Metropolitano, Distrito Istmo-Costa, Distrito Fronterizo Sierra, Distrito Fronterizo Costa, Distrito Altos, Distrito Norte y Distrito Selva. Los Municipios que integren los distritos serán determinados en la Ley Orgánica del Ministerio de Justicia.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-El Ministerio de Justicia del Estado contará con las Fiscalías Especializadas en: Protección a los Derechos de las Mujeres; Atención a Delitos Cometidos en contra de Periodistas; Coordinación General; Visitaduría; Procedimientos Penales; Derechos Humanos, Atención a Víctimas y Servicios a la Comunidad; Jurídica Normativa; Atención a Grupos Sensibles y Vulnerables; y Justicia Indígena, las que conocerán de los asuntos que en razón a su especialización les asigne la Ley Orgánica del Ministerio de Justicia; además de las fiscalías especiales que cree el Consejo de Procuración de Justicia a propuesta del Gobernador del Estado, las que tendrán las atribuciones que el propio Consejo determine.
+El Ministerio de Justicia del Estado contará con las Fiscalías Especializadas en: Protección a los Derechos de las Mujeres; Atención a Delitos Cometidos en contra de Periodistas; Coordinación General; Visitaduría; Procedimientos Penales; Derechos Humanos, Atención a Víctimas y Servicios a la Comunidad; Jurídica Normativa; Atención a Grupos Sensibles y Vulnerables, y Justicia Indígena, además de las que establezca la Ley Orgánica del Ministerio de Justicia o instituya por acuerdo el Titular del Poder Ejecutivo del Estado, las que conocerán de los asuntos en razón a su especialización les asigne la ley; además de las fiscalías especiales que cree el Consejo de Procuración de Justicia a propuesta del Gobernador del Estado, las que tendrán las atribuciones que el propio Consejo determine.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1335,9 +1335,11 @@ La impartición de justicia en Chiapas, contará también con medios alternativo
 
 En cualquiera de sus modalidades, la impartición de justicia será pronta, gratuita y comprometida con el pueblo chiapaneco para preservar el estado de derecho, la paz social y el orden público.
 
-Para el ejercicio de sus atribuciones, el Poder Judicial contará con una Magistratura Superior del Estado, compuesta por un Tribunal Constitucional y Salas Regionales Colegiadas; un Consejo de la Magistratura; un Tribunal de Justicia Electoral y Administrativa; un Tribunal del Trabajo Burocrático; Juzgados de Primera Instancia; Juzgados y Salas especializadas en Justicia para Adolescentes; Juzgados de Paz y Conciliación; Juzgados de Paz y Conciliación Indígena, Juzgados Municipales, Juntas de Conciliación y Juntas de Conciliación y Arbitraje; asimismo contará con un Centro de Justicia Alternativa y un Instituto de la Defensoría Social. Las particularidades de su organización y desempeño, serán previstas por un Código de Organización del Poder Judicial y en el Reglamento Interno que al efecto emita cada uno de sus órganos, con base en lo dispuesto en esta Constitución y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-El Personal de la Junta Local de Conciliación y Arbitraje, así como el de las Juntas Locales de Conciliación, formarán Parte del Poder Judicial del Estado.
+Para el ejercicio de sus atribuciones, el Poder Judicial contará con una Magistratura Superior del Estado, compuesta por un Tribunal Constitucional y Salas Regionales Colegiadas; un Consejo de la Magistratura; un Tribunal de Justicia Electoral y Administrativa; un Tribunal del Trabajo Burocrático; Juzgados de Primera Instancia; Juzgados y Salas Especializadas en Justicia para Adolescentes; Juzgados de Paz y Conciliación; Juzgados de Paz y Conciliación Indígena y Juzgados Municipales; asimismo contará con un Centro de Justicia Alternativa y un Instituto de la Defensoría Social. Las particularidades de su organización y desempeño, serán previstas por un Código de Organización del Poder Judicial y en el Reglamento Interno que al efecto emita cada uno de sus órganos, con base en lo dispuesto en esta Constitución y demás normatividad aplicable.
+
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en las materias Electoral y Administrativa; sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos; sesionará en Pleno y en Salas, y sus sesiones serán públicas. Estará integrado por siete magistrados, uno de los cuales, por decisión del Pleno, fungirá como su presidente. De los siete magistrados, cinco serán nombrados por el Congreso del Estado o por la Comisión Permanente en su caso, de entre las propuestas que formulen los grupos parlamentarios, durarán en el cargo siete años con posibilidad de ser reelectos para otro periodo Igual; los restantes, serán designados por el Tribunal Constitucional de entre los magistrados de las Salas Regionales Colegiadas.
 
@@ -1539,7 +1541,7 @@ Estará integrado por cinco consejeros, nombrados de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-I. Dos por el Tribunal Constitucional, de los cuales uno será seleccionado tomando en consideración los criterios de antigüedad, preparación profesional y eficacia en el desempeño de las funciones, de entre una terna de Magistrados de las Salas Regionales que le presente el Consejo de la Magistratura; y el otro, será elegido por insaculación en audiencia pública, de entre una lista de cinco Jueces de Primera Instancia que se hayan distinguido por los mismos criterios utilizados para la elección de los anteriores;
+I. Dos por el Tribunal Constitucional, de los cuales uno será seleccionado tomando en consideración los criterios de antigüedad, preparación profesional y eficacia en el desempeño de las funciones, de entre una terna de. Magistrados de las Salas Regionales que le presente el Consejo de la Magistratura; y el otro, será elegido por Insaculación en audiencia pública, de entre una lista de cinco Jueces de Primera Instancia que se hayan distinguido por los mismos criterios utilizados para la elección de los anteriores,
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1547,7 +1549,7 @@ II. Dos nombrados por el Congreso del Estado o por la Comisión Permanente en su
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-III. Uno nombrado por el Titular del Poder Ejecutivo del Estado.
+III. Uno nombrado por el titular del Poder Ejecutivo del Estado.
 
 Los Consejeros nombrados a través del procedimiento previsto en el párrafo anterior, actuarán con absoluta independencia de quien los nombre; no deberán ostentarse como sus representantes ni se les otorgará trato preferencial alguno. Durante su encargo exclusivamente podrán ser removidos en los términos del Título Noveno de esta Constitución y las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los magistrados del Tribunal Constitucional, mismas que no podrán ser disminuidas durante el periodo del encargo.
 
@@ -1565,7 +1567,9 @@ III. Emitir acuerdos generales a fin de lograr una adecuada distribución entre 
 
 IV. Establecer y ejecutar el sistema de carrera judicial en los términos y condiciones que establece esta Constitución;
 
-V. Administrar los recursos humanos, materiales y financieros del Poder Judicial, con excepción del Tribunal Constitucional cuya administración corresponderá a su Presidente; así como del Tribunal de Justicia Electoral y Administrativa, Tribunal del Trabajo Burocrático del Estado y de la Junta Local de Conciliación, quienes lo harán a través de una comisión de administración;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+V. Administrar los recursos humanos, materiales y financieros del Poder Judicial, con excepción del Tribunal Constitucional cuya administración corresponderá a su Presidente; así como del Tribunal de Justicia Electoral y Administrativa y el Tribunal del Trabajo Burocrático del Estado, quienes lo harán a través de una comisión de administración;
 
 VI. Determinar los Distritos Judiciales en que se divida el Estado, el número de Salas, Juzgados de Primera Instancia, Juzgados y Salas Especializados en Justicia para Adolescentes, Juzgados de Paz y Conciliación Indígenas, Juzgados Municipales y Subdirecciones del Centro Estatal de Justicia Alternativa; así como la residencia, adscripción, jurisdicción territorial y especialización que por materia les corresponda;
 
@@ -1573,7 +1577,9 @@ VII. Administrar los recursos financieros del Fondo Auxiliar para la Administrac
 
 VIII. Los demás asuntos que esta Constitución y la Ley determinen.
 
-Para los efectos de la fracción V del presente artículo, la administración, vigilancia y disciplina de los recursos presupuestales del Tribunal de Justicia Electoral y Administrativa, del Tribunal del Trabajo Burocrático y de la Junta Local de Conciliación y Arbitraje, corresponderá en los términos que señale la Ley, a una Comisión del Consejo de la Magistratura, que estará integrada para el caso del Tribunal de Justicia Electoral y Administrativa por su Presidente, un magistrado del mismo Tribunal designado por insaculación y un consejero de la Magistratura. La (sic) Comisiones de Administración del Tribunal del Trabajo Burocrático y de la Junta Local de Conciliación y Arbitraje estarán integradas, por su presidente y dos consejeros de la Magistratura. Las comisiones de cada uno de estos órganos del Poder Judicial, serán presididas por sus titulares, respectivamente, y tendrán atribución para presentar su anteproyecto de presupuesto al Consejo de la Magistratura, para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+Para los efectos de la fracción V, del presente artículo, la administración, vigilancia y disciplina de los recursos presupuestales del Tribunal de Justicia Electoral y Administrativa y del Tribunal del Trabajo Burocrático, corresponderá en los términos que señale la Ley, a una Comisión del Consejo de la Magistratura, que estará integrada para el caso del Tribunal de Justicia Electoral y Administrativa por su Presidente, un Magistrado del mismo Tribunal designado por insaculación y un Consejero de la Magistratura. La Comisión de Administración del Tribunal del Trabajo Burocrático estará integrada, por su Presidente y dos Consejeros de la Magistratura. Las comisiones de cada uno de estos órganos del Poder Judicial, serán presididas por sus titulares, respectivamente, y tendrán atribución para presentar su anteproyecto de presupuesto al Consejo de la Magistratura, para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1831,33 +1837,11 @@ En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribuna
 
 Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ## TITULO SEPTIMO. DE LOS MUNICIPIOS
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
-
-###### Artículo 72.
-
-Cuando se trate de actos u omisiones sancionados por la ley penal cometidos por el Gobernador del Estado, por los Diputados locales, por los Magistrados y Consejeros de la Magistratura Superior del Estado, por los Secretarios y Subsecretarios de Despacho, por el Ministro de Justicia del Estado, Fiscales de Distrito y el Fiscal Electoral, el Presidente de la Comisión de Fiscalización Electoral; los Coordinadores Generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los Tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
-
-Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados y los Consejeros de la Magistratura del Poder Judicial del Estado incurran en delitos Federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución General de la República, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo, la declaratoria de referencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
-
-Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la Legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
-
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
-
-En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 72.
 
@@ -2909,7 +2893,7 @@ P.O. 23 DE OCTUBRE DE 2001.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- La entidad de Fiscalización Superior del Estado iniciará sus funciones a partir de su Constitución. Para tal efecto el H. Congreso del Estado deberá expedir la ley a que se refiere la fracción XVIII del artículo 29 de esta Constitución, a más tardar el 10 de noviembre del año en curso.
+SEGUNDO.- La entidad de Fiscalización Superior del Estado iniciará sus funciones a partir de su Constitución. Para tal efecto el H. Congreso del Estado deberá expedir la ley a que se refiere la fracción XVIII del artículo 29 de esta Constitución, a mas tardar el 10 de noviembre del año en curso.
 
 TERCERO.- En tanto la entidad de Fiscalización Superior del Estado no empiece a ejercer las atribuciones a que se refiere este decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene de conformidad con el texto constitucional local y su ley orgánica, antes de la entrada en vigor del presente decreto.
 
@@ -3083,9 +3067,9 @@ Las Salas Regionales Unitarias ubicadas en Tapachula de Córdova y Ordóñez en 
 
 Décimo Primero.- Los recursos humanos, materiales y financieros que actualmente conforman al Supremo Tribunal de Justicia del Estado, la Sala Superior, el Consejo de la Judicatura, el Tribunal del Servicio Civil y el Tribunal Electoral, todos del Poder Judicial del Estado, se transferirán en lo que proceda a la Magistratura Superior del Estado, Tribunal Constitucional, Consejo de la Magistratura, Tribunal del Trabajo Burocrático y Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, respectivamente.
 
-Décimo Segundo.- La conformación actual de la Junta Local de Conciliación y Arbitraje y las correspondientes Juntas de Conciliación, sus recursos humanos, materiales y financieros, formarán parte de la Junta Local de Conciliación y Arbitraje del Poder Judicial del Estado, sin menoscabo de la independencia y autonomía de los representantes del Capital, Obrero y Gobierno, en apego al artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+Décimo Segundo.- (DEROGADO [N. DE E. REPUBLICADO] POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 326, P.O. 14 DE NOVIEMBRE DE 2007)
 
-Décimo Tercero.- A partir de la entrada en vigor del Código de Organización del Poder Judicial del Estado, el personal jurídico de las Juntas de Conciliación y Arbitraje y Juntas de Conciliación, estarán comprendidos en los regímenes de responsabilidades de los servidores públicos del Poder Judicial del Estado y de carrera judicial.
+Décimo Tercero.- (DEROGADO [N. DE E. REPUBLICADO] POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 326, P.O. 14 DE NOVIEMBRE DE 2007)
 
 Décimo Cuarto.- Los Magistrados del Tribunal del Servicio Civil, que no formen parte del Tribunal del Trabajo Burocrático, tendrán derecho a un haber en términos del Artículo 55 Constitucional.
 
@@ -3144,3 +3128,15 @@ El Actual Fiscal Electoral del Estado, durará en su cargo como titular de la Fi
 Artículo Noveno.- Lo contenido en la presente Constitución y las leyes secundarias, que tengan como referencia a la Fiscalía General del Estado, deberán entenderse en identidad al Ministerio de Justicia del Estado de Chiapas.
 
 Artículo Décimo.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 14 DE NOVIEMBRE DE 2007.
+
+> <small>N. DE E. SE REPUBLICO EL CONTENIDO DEL DECRETO NO. 324 EN EL 326.</small>
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan los Artículos Décimo Segundo y Décimo Tercero Transitorios del Decreto número 174, por el que se reforma diversas disposiciones de la Constitución Política del Estado de Chiapas, publicado en el Periódico Oficial del Estado número 028, Tomo III, Segunda Sección, de fecha dieciséis de mayo de dos mil siete.
+
+La conformación actual de la Junta local de Conciliación y Arbitraje y las correspondientes Juntas de Conciliación del Poder Judicial del Estado, así como sus recursos humanos, materiales y financieros, formarán parte de la Junta local de Conciliación y Arbitraje del Estado, en términos de lo dispuesto por el Aparatado (sic) "A", del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
