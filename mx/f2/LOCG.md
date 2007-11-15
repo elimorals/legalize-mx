@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2006-12-05"
+last_updated: "2007-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -2047,3 +2047,25 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- La Mesa Directiva de la Cámara de Diputados, resolverá el turno de los asuntos pendientes de la actual Comisión de Justicia y Derechos Humanos, a efecto de determinar la competencia de las nuevas comisiones de Justicia y de Derechos Humanos, en un término que no exceda de 30 días naturales a partir de la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- Las comisiones de Gobernación y de Justicia de la Cámara de Diputados, serán los órganos competentes para sustanciar los asuntos en términos de los artículos 10, 11 y 12 de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+D.O.F. 15 DE NOVIEMBRE DE 2007.
+
+Artículo Único.- Para efectos de dar cumplimiento a los artículos Tercero y Cuarto Transitorios del Decreto por el que se reforman los artículos 6o, 41, 85, 99, 108, 116 y 122, se adiciona el artículo 134 y se deroga un párrafo al artículo 97 de la Constitución Política de los Estados Unidos Mexicanos, la Junta de Coordinación Política de la Cámara de Diputados, por una única vez, presentará al Pleno el procedimiento y convocatoria para la integración del Consejo General del Instituto Federal Electoral y las propuestas de nombres para ocupar los cargos de Consejero Presidente y los de los consejeros electorales para su elección.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 14 DE NOVIEMBRE DE 2007.
+
+"Artículo Tercero. El Congreso de la Unión deberá realizar las adecuaciones que correspondan en las leyes federales en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia de este Decreto.
+
+Artículo Cuarto. Para los efectos de lo establecido en el tercer párrafo de la base V del artículo 41 de esta Constitución, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, la Cámara de Diputados procederá a integrar el Consejo General del Instituto Federal Electoral conforme a las siguientes bases:
+
+a) Elegirá a un nuevo consejero Presidente, cuyo mandato concluirá el 30 de octubre de 2013; llegado el caso, el así nombrado podrá ser reelecto por una sola vez, en los términos de lo establecido en el citado párrafo tercero del artículo 41 de esta Constitución;
+
+b) Elegirá, dos nuevos consejeros electorales, cuyo mandato concluirá el 30 de octubre de 2016.
+
+c) Elegirá, de entre los ocho consejeros electorales en funciones a la entrada en vigor de este Decreto, a tres que concluirán su mandato el 15 de agosto de 2008 y a tres que continuarán en su encargo hasta el 30 de octubre de 2010;
+
+d) A más tardar el 15 de agosto de 2008, elegirá a tres nuevos consejeros electorales que concluirán su mandato el 30 de octubre de 2013.
+
+Los consejeros electorales y el consejero Presidente del Consejo General del Instituto Federal Electoral, en funciones a la entrada en vigor del presente Decreto, continuarán en sus cargos hasta en tanto la Cámara de Diputados da cumplimiento a lo dispuesto en el presente artículo. Queda sin efectos el nombramiento de consejeros electorales suplentes del Consejo General del Instituto Federal Electoral establecido por el Decreto publicado en el Diario Oficial de la Federación de fecha 31 de octubre de 2003."
