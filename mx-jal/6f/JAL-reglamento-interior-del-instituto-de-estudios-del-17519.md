@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-de-estudios-del-17519"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-10"
-last_updated: "2005-11-05"
+last_updated: "2007-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado Jalisco, el jueves 10 de agosto de 2000.
 
@@ -295,9 +295,13 @@ II. Ser mayor de 30 años;
 
 III. Tener residencia en la entidad no menor de seis años anteriores a su elección;
 
-IV. Poseer el grado académico mínimo de licenciatura;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2007)</small>
 
-V. A criterio del Consejo Consultivo del Instituto haberse distinguido en la promoción del Federalismo.
+IV. Poseer el grado académico de licenciatura o contar con experiencia en federalismo o materia municipal; y
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2007)</small>
+
+V. A criterio del Consejo General, haberse distinguido en la promoción del federalismo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
 
@@ -616,3 +620,7 @@ P.O. 5 DE NOVIEMBRE DE 2005.
 Primero. Hasta en tanto se nombran los investigadores del Instituto, el Director General podrá designar a los Directores de Área.
 
 Segundo. El presente reglamento entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE NOVIEMBRE DE 2007.
+
+ÚNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
