@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-las-oficinas-del-titular-del-poder-8976"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-10-13"
-last_updated: "1995-10-13"
+last_updated: "2007-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LAS OFICINAS DEL TITULAR DEL PODER EJECUTIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de octubre de 1995.
 
@@ -45,15 +45,23 @@ Las oficinas del Titular del Poder Ejecutivo, tienen a su cargo el despacho de l
 
 Para el despacho de los asuntos competencia de las oficinas del Titular del Poder Ejecutivo, contará con las unidades administrativas siguientes:
 
-SECRETARIA PARTICULAR DEL EJECUTIVO.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
 
-REPRESENTACION DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA EN MEXICO, DISTRITO FEDERAL.
+A) Secretaría Particular del Ejecutivo;
 
-UNIDAD DE COORDINACION GENERAL DE LA POLITICA DE DESARROLLO SOCIAL
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
 
-UNIDAD PARA LA EFICIENCIA ADMINISTRATIVA DEL SECTOR PARAESTATAL.
+B) Coordinación General de Gabinete; y
 
-Las unidades administrativas centrales y las oficinas en los municipios y en la Ciudad de México, Distrito Federal, estarán representadas por los secretarios, representantes, directores, jefes de unidad, de departamento, de oficina, así como de los demás servidores públicos que se señalen en los manuales de organización respectivos, y en las demás disposiciones jurídicas aplicables, así como los que las necesidades del servicio lo requieran.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
+
+C) Representación del Gobierno del Estado de Baja California en la Ciudad de México, Distrito
+
+Federal.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
+
+Las unidades administrativas de las Oficinas del Titular Poder Ejecutivo contarán con los servidores públicos que se consideren necesarios para el cabal desempeño de sus atribuciones y que se autoricen en el presupuesto de egresos, los cuales tendrán a su cargo la atención y despacho de los asuntos que les instruya el titular de la unidad administrativa.
 
 ###### ARTICULO 4.
 
@@ -307,15 +315,69 @@ VII. Mantener la coordinación necesaria con el Coordinador Administrativo para 
 
 VIII. Las demás que le señale el Gobernador del Estado, el Secretario Particular y las disposiciones jurídicas aplicables.
 
-### CAPITULO III. DE LOS ORGANOS DESCONCENTRADOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE NOVIEMBRE DE 2007)</small>
+
+### CAPITULO III. DE LA COORDINACION GENERAL DE GABINETE
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 17.
 
-Corresponde a la Representación del Gobierno del Estado de Baja California en México, Distrito Federal:
+Corresponde a la Coordinación General de Gabinete, el ejercicio de las siguientes atribuciones:
+
+l. Desarrollar la planeación estratégica para la ejecución de proyectos y programas de inversión prioritarios, definidos por el Gobernador del Estado;
+
+II. Coordinar las acciones de las distintas dependencias y entidades de la Administración Pública Estatal, para el cumplimiento de los objetivos definidos en el Plan Estatal de Desarrollo y en los proyectos estratégicos acordados por el Gobernador del Estado;
+
+III. Coordinar las relaciones interinstitucionales de las diversas dependencias y entidades de la Administración Pública Estatal, con la Federal y los Municipales, relativo al desarrollo de proyectos estratégicos acordados por el Gobernador del Estado;
+
+IV. Gestionar las solicitudes que hagan las dependencias y entidades de la Administración Pública Estatal al Gobierno Federal y, en su caso, representarlas, informando sobre el avance de cada uno de los asuntos intersectoriales y los que el Gobernador del Estado indique;
+
+V. Mantener la coordinación necesaria con los Directores de Comunicación Social y de Relaciones Públicas, respecto de la difusión de las acciones y proyectos estratégicos de Gobierno del Estado;
+
+VI. Dar seguimiento a las estrategias de eficiencia administrativa acordadas por el Gobernador del Estado;
+
+VII. En acuerdo con el Gobernador del Estado, constituir los gabinetes sectoriales y especiales, que para su mejor funcionamiento requiera la Administración Pública Estatal;
+
+VIII. Determinar líneas generales de acción y coordinación, políticas, valores, prioridades, objetivos y metas, así como evaluar la actividad de los gabinetes sectoriales;
+
+IX. Coordinar el trabajo de los asesores del Gobernador;
+
+X. Mantener y supervisar el Sistema de Seguimiento de Proyectos y Acciones Estratégicas;
+
+XI. Representar al Gobernador del Estado en las distintas instancias públicas y privadas para la gestión de proyectos y programas estratégicos; y
+
+XII. Las demás que le señale el Gobernador del Estado y las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 18.
+
+Para el cumplimiento de las atribuciones de la Coordinación General de Gabinete, contará con las siguientes unidades administrativas:
+
+A. Unidad de Asesoría;
+
+B. Unidad de Proyectos Estratégicos;
+
+C. Unidad de Evaluación y Seguimiento; y
+
+D. Soporte técnico en sistemas;
+
+Las unidades administrativas previstas en el presente numeral tendrán a su cargo la atención y despacho de los asuntos que les instruya el titular de la Coordinación General de Gabinete, y demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO IV. DE LA REPRESENTACION DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA EN LA CIUDAD DE MEXICO, DISTRITO FEDERAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 19.
+
+Corresponde a la Representación del Gobierno del Estado de Baja California en la Ciudad de México, Distrito Federal, el ejercicio de las siguientes atribuciones:
 
 I. Acordar permanentemente con el Gobernador del Estado los asuntos derivados de las relaciones institucionales con las diversas dependencias y entidades de la Administración Pública Federal;
 
-II. Acordar con el Gobernador del Estado y con el Secretario Particular la agenda de trabajo del Titular del Poder Ejecutivo, en la Ciudad de México e informar sobre la (sic) mismas a los funcionarios estatales o federales, cuando sea aprobada;
+II. Acordar con el Gobernador del Estado y con el Secretario Particular la agenda de trabajo del Titular del Poder Ejecutivo, en la Ciudad de México e informar sobre las mismas a los funcionarios estatales o federales, cuando sea aprobada;
 
 III. Realizar el seguimiento de los asuntos acordados entre el Gobernador del Estado y los titulares de las dependencias y entidades de la Administración Pública Federal, informando al Ejecutivo sobre su gestión y avance y, en su caso, acordar con los servidores públicos federales los asuntos que de manera directa le encomiende el Gobernador del Estado;
 
@@ -335,71 +397,37 @@ X. Mantener la coordinación necesaria con el Secretario Particular, para el cum
 
 XI. Enviar diariamente al Secretario Particular la síntesis de prensa de los diarios de la Ciudad de México, así como, llevar a cabo el sistema de análisis de información y remitirlo semanalmente;
 
-XII. Recibir y revisar la correspondencia y en su caso proceder a su despacho; y,
+XII. Recibir y revisar la correspondencia y en su caso proceder a su despacho; y
 
 XIII. Las demás que le señale el Gobernador del Estado, el Secretario Particular y las disposiciones jurídicas aplicables.
 
-###### ARTICULO 18.
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
 
-Corresponde a la Unidad de Coordinación de la Política de Desarrollo Social:
+### CAPITULO V. DE LAS SUPLENCIAS
 
-I. Acordar permanentemente con el Gobernador del Estado las estrategias de Desarrollo Social, así como los planes y programas estatales, manteniéndolo informado sobre el avance de cada uno;
-
-II. Someter al acuerdo del Gobernador del Estado a través del Secretario Auxiliar los diversos documentos que requieran de su firma;
-
-III. Atender por encargo directo del Gobernador del Estado o por el Secretario Particular, en audiencia, a personas en lo individual o en grupos, y a los funcionarios de los tres niveles de gobierno, definiendo el curso de los planteamientos, y en su caso acordar con el Gobernador del Estado, lo conducente;
-
-IV. Coordinar la promoción de las acciones de Desarrollo Social que implementen las dependencias y entidades de la Administración Pública Estatal;
-
-V. Promover la concertación con el sector social y privado en Proyectos de Desarrollo Social, vinculados a la participación de las dependencias y entidades de la Administración Pública Estatal;
-
-VI. Promover y coordinar las estrategias y metodología de operación para la promoción del desarrollo social del Gobierno del Estado;
-
-VII. Recibir y revisar la correspondencia y en su caso proceder a su despacho;
-
-VIII. Mantener la coordinación necesaria con el Secretario Particular y con el Secretario Auxiliar de Coordinación de Giras, para apoyar el cumplimiento del programa de la agenda y giras de trabajo del Gobernador del Estado; y,
-
-IX. Las demás que le señale el Gobernador del Estado, el Secretario Particular y las disposiciones jurídicas aplicables.
-
-### CAPITULO IV. DE LA SUPLENCIA DE LOS FUNCIONARIOS
-
-###### ARTICULO 19.
-
-Corresponde a la Unidad para la Eficiencia Administrativa del Sector Paraestatal:
-
-I. Acordar permanentemente con el Gobernador del Estado las estrategias de eficiencia administrativa de las entidades de la Administración Pública Estatal vinculadas con el Desarrollo Social, así como proponerle los planes y programas estatales, manteniéndolo informado sobre el avance de cada uno;
-
-II. Someter al acuerdo del Gobernador del Estado a través del Secretario Auxiliar los diversos documentos que requieran de su firma;
-
-III. Atender por encargo directo del Gobernador del Estado o por el Secretario Particular, en audiencia, a personas en lo individual o en grupos, a los funcionarios de los tres niveles de gobierno, definiendo el curso de los planteamientos, y en su caso acordar con el Gobernador del Estado, lo conducente;
-
-IV. Representar al Gobernador del Estado en las juntas de los órganos de gobierno de las entidades de la Administración Pública Estatal que estén vinculadas con el sector de Desarrollo Social;
-
-V. Coordinar los programas de mejoramiento administrativo de las entidades vinculadas con el Desarrollo Social;
-
-VI. Analizar y proponer las medidas que se encaminen a obtener mayor eficiencia administrativa en las entidades de la Administración Pública Estatal, vinculadas con el Desarrollo Social;
-
-VII. Recibir y revisar la correspondencia y en su caso proceder a su despacho firmándola;
-
-VIII. Mantener la coordinación necesaria con el Secretario Particular, para mantener debidamente informado al Gobernador del Estado; y,
-
-IX. Las demás que le señale el Gobernador del Estado, el Secretario Particular y las disposiciones jurídicas aplicables.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 20.
 
-El Secretario Particular del Gobernador del Estado será suplido en sus ausencias por el Secretario Auxiliar, por el de Coordinación de Giras, por el de Audiencias y Apoyo Social, por el de Seguimiento y Control o por el Coordinador Administrativo, en este orden.
+Las ausencias del Secretario Particular del Ejecutivo serán suplidas para el despacho de los asuntos de su competencia, por el funcionario que él mismo designe.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 21.
 
-En las ausencias de los secretarios Auxiliares, serán suplidos por quienes ellos designen en acuerdo del Secretario Particular.
+Las ausencias del Coordinador General de Gabinete serán suplidas para el despacho de los asuntos de su competencia, por el funcionario que él mismo designe.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 22.
 
-En las ausencias del Coordinador Administrativo y de los titulares de las unidades administrativas previstas en los artículos 13, 14 y 15, serán suplidos por quienes ellos designen en acuerdo del Secretario Particular.
+Las ausencias de los titulares de las unidades administrativas de las Oficinas del Ejecutivo, diversas a las señaladas en los preceptos que anteceden, serán suplidas para el despacho de los asuntos de su competencia, por el funcionario que designe el jefe inmediato.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 23.
 
-En ausencia de los titulares de los órganos desconcentrados y del Representante del Gobierno del Estado de Baja California en México, Distrito Federal, se designará a los funcionarios de jerarquía inferior, por acuerdo del Titular de cada órgano.
+Las ausencias de la Representación del Gobierno del Estado de Baja California en la Ciudad de México, Distrito Federal, serán suplidas para el despacho de los asuntos de su competencia, por el funcionario que él mismo designe.
 
 TRANSITORIOS:
 
@@ -424,3 +452,9 @@ LIC. RODOLFO VALDEZ GUTIERREZ
 EL SECRETARIO PARTICULAR DEL TITULAR DEL PODER EJECUTIVO
 
 LIC. ALEJANDRO MORENO MEDINA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
