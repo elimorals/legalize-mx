@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-y-proteccion-pecuaria-del-estado-de-guerrero-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-12"
-last_updated: "2002-04-12"
+last_updated: "2007-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 451 DE FOMENTO Y PROTECCION PECUARIA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 12 de abril de 2002.
 
@@ -1443,155 +1443,113 @@ Lo anterior se observará sin perjuicio de la intervención que corresponda a la
 
 El registro de las empresas o productores, no causará pago alguno y se deberá conservar para exhibirlo cuantas veces le sea solicitado por la autoridad competente.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)</small>
+
 ### CAPITULO III. DE LA APICULTURA, GENERALIDADES
 
 ###### ARTICULO 177.
 
-Se declara de utilidad pública, la organización, tecnificación, planificación, mejoramiento, industrialización y comercialización de los productos derivados de la apicultura.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 178.
 
-Son materia y quedan bajo las disposiciones de esta Ley:
-
-I. Todas las personas físicas o morales, que se dediquen directa o indirectamente, a la cría, movilización, producción, compra-venta, mejoramiento y explotación de las abejas, sus productos y derivados; así como aquellas que efectúen funciones de empaque, industrialización, almacenamiento, comercialización y transporte de los productos y derivados apícolas, y
-
-II. Las regiones comprendidas como susceptibles para el desarrollo de la apicultura en el Estado de Guerrero.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 179.
 
-En cada Municipio en donde existan más de diez apicultores, deberán agruparse en una Asociación Apícola Local; la que será miembro de la Unión Nacional de Apicultores, conforme lo estipula la Ley de Organizaciones Ganaderas y su reglamento, y de la Unión Ganadera Regional que corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 180.
 
-En aquellos municipios donde existan menos de diez apicultores, deberán solicitar su ingreso, a la Asociación Ganadera Local especializada de apicultores más cercana.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 181.
 
-Los diferentes niveles de organización, su funcionamiento, atribuciones y obligaciones de sus miembros dirigentes, serán de acuerdo a lo que previene la Ley de Organizaciones Ganaderas y su reglamento, de la presente Ley de Ganadería y de los estatutos de la Unión Nacional de Apicultores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 182.
 
-La instalación de apiarios se efectuará a una distancia mínima de 1.5 kilómetros entre un apicultor y otro y a 25 metros de los caminos y carreteras.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 183.
 
-Los Apicultores que tengan establecidos apiarios o se vayan a establecerse apiarios en terrenos que no sean de su propiedad, deberán obtener autorización expresa de los propietarios o usufructuarios de los mismos, mediante convenios celebrados por escrito. El mencionado contrato deberá tener el visto bueno del Ayuntamiento donde se ubiquen los apiarios, para registrarse en la Dirección de Fomento y Normatividad Pecuaria, a fin de reconocer el sitio y tener preferencia en el lugar de localización del apiario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 184.
 
-En la instalación de apiarios, se dará preferencia a los miembros de las Asociaciones Apícolas Locales, conforme a la presente Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 185.
 
-El apicultor que pretenda instalarse, deberá consultar y obtener la autorización de la Asociación Apícola Local, a que corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 186.
 
-Las controversias suscitadas entre apicultores, por cuestión de establecimiento de apiarios, de no resolverse por mutuo acuerdo, serán analizadas y resueltas en primera instancia en forma conciliadora por la Asociación Apícola Local, apoyándose en un tercero que podrá ser la Unión Ganadera Regional; en la segunda, por el H. Ayuntamiento a través del Presidente Municipal, con apoyo de la Dirección de Fomento y Normatividad Pecuaria.
-
-En la observancia y aplicación de este artículo, será tomado en cuenta en la instalación de apiarios, que el primero en tiempo será el primero en derecho.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 187.
 
-Los apicultores establecidos, deberán rendir informes sobre su producción, a la Dirección de Fomento y Normatividad Pecuaria por conducto de sus asociaciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 188.
 
-Son de interés para las Asociaciones Apícolas Locales, y para la Dirección de Fomento y Normatividad Pecuaria los siguientes datos, que será obligatorio rendir el mes de enero de cada año:
-
-I. Número total de colmenas;
-
-II. Número de colmenas en producción;
-
-III. Número de apiarios, y
-
-IV. Localización a través de un plano o croquis.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 189.
 
-Las Asociaciones Apícolas Locales, deberán velar por el establecimiento de tarifas uniformes en el alquiler de lugares para establecer apiarios. Asimismo deberán hacer ver a los agricultores y campesinos las ventajas que acarrean a sus siembras, la polinización propiciada por la presencia de los apiarios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 190.
 
-Los apicultores vecinos de ejidos, y a los que se les solicite cooperación para obras ejidales, podrán entregarla si así lo consideran conveniente; pero en todo momento con intervención y a través de la Secretaría de la Reforma Agraria.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 191.
 
-La movilización de colmenas, miel y productos de la colmena fuera del Estado de Guerrero, deberá ampararse con certificado zoosanitario y guía de tránsito prevista por la Ley Federal de Sanidad Animal de los Estados Unidos Mexicanos y la presente Ley de Fomento y Protección Pecuaria. Las Asociaciones Apícolas Locales, expedirán los documentos antes mencionados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 192.
 
-Las movilizaciones de colmenas y derivados en el interior del Estado de Guerrero, sin traspasar sus límites, se efectuará sin necesidad de solicitar las guías de tránsito y certificados zoosanitarios, bastando la autorización de la Asociación Apícola a que corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 193.
 
-La introducción de colmenas y derivados en el Estado de Guerrero, requiere la guía de tránsito y certificado zoosanitario de su lugar de origen y permiso de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, dando conocimiento a la Asociación Apícola Local, en donde se piensa instalar las nuevas colmenas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 194.
 
-Cuando por la necesidad de la explotación de apiarios, sea necesario movilizar colmenas, como es el caso de la cosecha y la división, el propietario deberá solicitar un permiso especial de movilización a la Asociación Apícola Local a donde corresponda, señalando destino y período que durarán esas actividades.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 195.
 
-El robo de colonias de abejas o colmenas, será considerado como delito y castigado conforme a lo establecido por la presente Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 196.
 
-La persona que intencionalmente dañe las colmenas instaladas en apiarios, será acreedor a sanciones de tipo penal, sin perjuicio de pagar los daños ocasionados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 197.
 
-La Dirección de Fomento y Normatividad Pecuaria, podrá revisar las colmenas, previo aviso dado al propietario, cuando se presuma el peligro de plagas y enfermedades que pongan en peligro la apicultura de una región determinada. En caso de omisión u oposición por parte de un apicultor, la Dirección de Fomento y Normatividad Pecuaria, tomará las medidas que considere convenientes, a fin de obligar al productor a facilitar la revisión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 198.
 
-Los apicultores no serán responsables de los daños que las abejas de sus colmenas causen, a personas o animales, siempre y cuando cumpla con las medidas de mejoramiento genético para contrarrestar los efectos de la africanización y el cumplimiento de las disposiciones de la presente Ley en cuanto a localización de apiarios y sistema de manejo para reducir los efectos de la africanización.
-
-Los apicultores deben realizar el cambio de abejas reynas de cada colmena cuando menos una vez al año, sustituyéndolas por otras de origen europeo o seleccionadas, las que estarán marcadas en la parte dorsal con el código de colores siguientes:
-
-I.- Para los años terminados en 0 y 5, utilizar color azul;
-
-II.- Para los años terminados en 1 y 6, utilizar color blanco;
-
-III.- Para los años terminados en 2 y 7, utilizar color amarillo;
-
-IV.- Para los años terminados en 3 y 8, utilizar color rojo, y
-
-V.- Para los años terminados en 4 y 9, utilizar color verde.
-
-El ala de la abeja reyna debe ser cortada. Si corresponde a un año par, se cortará el ala derecha. Si el año es non, se cortará el ala izquierda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 199.
 
-Para la identificación de sus colmenas, los apicultores marcarán sus cámaras de cría y demás partes de la colmena, con un símbolo-letra, figura o número, por medio de fierro de herrar, similar al que usan los ganaderos para estampar su marca en el cuero del ganado. La figura correspondiente al apicultor, deberá estar registrada por la Asociación Apícola Local, y en la Dirección de Fomento y Normatividad Pecuaria.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 200.
 
-Cuando un apicultor venda su material apícola marcado, el nuevo propietario pondrá su marca a un lado de la anterior, y conservará las facturas que amparan la adquisición legítima del mismo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 201.
 
-Cuando se localice material cuya marca haya sido borrada, se considerará como robada, y se procederá conforme a lo establecido por la presente Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 202.
 
-A fin de proteger la industria apícola, contra los efectos dañinos de la abeja africana y la varroasis en el territorio estatal, es obligatorio para las personas involucradas en este ramo, acatar las siguientes disposiciones:
-
-I. Relocalizar los apiarios a un mínimo de 200 a 300 metros de distancia de poblados o de otras explotaciones pecuarias;
-
-II. Colocar las colmenas sobre bases individuales separadas de 2 a 3 metros de distancia una de otra, 5 metros entre línea y línea y a media sombra;
-
-III. Establecer barreras naturales a base de árboles y arbustos alrededor del apiario, preferentemente de aquéllos que produzcan néctar o polen;
-
-IV. Colocar letreros con una Leyenda preventiva (ejemplo, "precaución no molestar-abejas-trabajando"), así como una ilustración sencilla que comunique la misma idea para las personas que no sepan leer;
-
-V. Los nuevos apicultores deberán ubicar sus locales de extracción y envase de miel, fuera de la ciudad o poblados, a mas de 5 kilómetros de asentamientos humanos. Asimismo, deberán estar ubicadas a una distancia mínima de 35 metros de cualquier vía de comunicación federal, local o brechas.
-
-Los apicultores que actualmente ya tengan instalados este tipo de locales dentro de una población, deberán reubicarlos, o bien protegerlos debidamente con puertas, ventanas y otras aberturas con vidrio o malla, para impedir la entrada de abejas;
-
-VI. Se prohibe la movilización de material biológico de zonas de control, a zonas libres de abejas africanas, y
-
-VII. Para el control de la varroasis, sólo se permitirá la utilización de productos químicos autorizados por la SAGARPA y los tratamientos biológicos de acuerdo al calendario autorizado para el Estado de Guerrero, con la finalidad de no dejar residuos tóxicos en la miel y demás productos de la colmena.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 393 DE FOMENTO APICOLA DEL ESTADO DE GUERRERO, P.O. 16 DE NOVIEMBRE DE 2007)
 
 ## TITULO OCTAVO. ACTOS GANADEROS CONTRA LA ECONOMIA ESTATAL
 
@@ -1882,3 +1840,17 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deroga el Capítulo III del Título Séptimo que contiene los artículo 177 al 202 de la Ley Número 451 de Fomento y Protección Pecuaria del Estado de Guerrero.
+
+TERCERO.- Comuníquese las presente Ley al Titular del Ejecutivo Estatal para los efectos constitucionales procedentes.
+
+CUARTO.- Comuníquese la presente Ley a los 81 Ayuntamientos que conforman el Estado, para los efectos procedentes.
+
+QUINTO.- Los apicultores contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor de la presente Ley para hacer el registro en el Ayuntamiento correspondiente y marcar sus colmenas.
