@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-obras-publicas-y-52288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-07"
-last_updated: "2006-11-07"
+last_updated: "2007-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS Y TRANSPORTE DEL ESTADO DE COAHUILA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS Y TRANSPORTE DEL ESTADO DE COAHUILA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS Y TRANSPORTE DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS Y TRANSPORTE DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2007 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 7 de noviembre de 2006.
 
@@ -873,7 +875,7 @@ III. Coordinar y supervisar la verificación físico mecánica de los vehículos
 
 IV. Analizar las solicitudes para el otorgamiento o la prórroga de concesiones o permisos para la prestación del servicio público de transporte de competencia estatal;
 
-V. Supervisar los operativos de inspección periódica que se lleven acabo a los medios de transporte en la entidad;
+V. Supervisar los operativos de inspección periódica que se lleven acabo (sic) a los medios de transporte en la entidad;
 
 VI. Vigilar el exacto cumplimiento de las condiciones y obligaciones que se establezcan en las concesiones o permisos;
 
@@ -925,7 +927,7 @@ Corresponden al titular de la Dirección de Construcción de Caminos las atribuc
 
 I. Planear, programar, coordinar y supervisar las actividades encaminadas a la ejecución de las obras que en materia de infraestructura carretera se realicen en el Estado, con la finalidad de lograr los objetivos y metas de la Secretaría;
 
-II. Someter los proyectos, estudios, dictámenes, opiniones e informes que elaboren las Áreas Administrativas a su cargo, así como los acuerdos y resoluciones que lIegaren a emitirse en el ejercicio de las atribuciones encomendadas, al acuerdo de su superior jerárquico;
+II. Someter los proyectos, estudios, dictámenes, opiniones e informes que elaboren las Áreas Administrativas a su cargo, así como los acuerdos y resoluciones que llegaren a emitirse en el ejercicio de las atribuciones encomendadas, al acuerdo de su superior jerárquico;
 
 III. Recabar de las dependencias y entidades de la Administración Pública Estatal, así como de las unidades de la propia Secretaría la información necesaria para el ejercicio de las funciones que competen;
 
@@ -1076,3 +1078,19 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÙBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 16 DE NOVIEMBRE DE 2007.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Obras Públicas y Transporte del Estado de Coahuila publicado en el Periódico Oficial del Gobierno del Estado el 07 de noviembre de 2006.
+
+TERCERO. Quedan sin efectos el Acuerdo por el que se crea la Comisión Intersecretarial para la Conservación, Mantenimiento y Mejora del Patrimonio Inmobiliario del Estado de Coahuila, publicado en el Periódico Oficial del Gobierno del Estado en fecha 27 de abril de 2007, así como las demás disposiciones que se refieran a dicha Comisión.
+
+CUARTO. Los recursos humanos, materiales y financieros que se hubieren asignado a la Comisión Intersecretarial para la Conservación, Mantenimiento y Mejora del Patrimonio Inmobiliario del Estado de Coahuila serán reasignados a la Secretaría de Obras Públicas y Transporte.
+
+QUINTO. Los proyectos y obras que a la entrada en vigor del presente Reglamento se encuentren a cargo de la Comisión Intersecretarial para la Conservación, Mantenimiento y Mejora del Patrimonio Inmobiliario del Estado de Coahuila serán reasignados a la Subsecretaría de Edificaciones y Proyectos Especiales que se crea a través de este Reglamento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
