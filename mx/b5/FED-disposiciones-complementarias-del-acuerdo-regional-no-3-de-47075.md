@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-regional-no-3-de-4707
 country: "mx"
 rank: "otro"
 publication_date: "2000-08-23"
-last_updated: "2000-08-23"
+last_updated: "2007-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47075&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,46 +19,48 @@ issue_date: "2000-08-11"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO REGIONAL No.3 DE APERTURA DE MERCADOS A FAVOR DE PARAGUAY (MULTILATERAL, 1983)
 
-DECRETO PARA LA APLICACION DEL ACUERDO REGIONAL No. 3 DE APERTURA DE MERCADOS A FAVOR DE PARAGUAY
+DECRETO PARA LA APLICACION DEL ACUERDO REGIONAL No. 3 DE APERTURA DE MERCADOS A FAVOR DE ECUADOR
 
-TEXTO ORIGINAL.
-
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de agosto de 2000.
+Decreto publicado en el Diario Oficial de la Federación, el viernes 16 de noviembre de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o. y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de las facultades que me confieren los artículos 89, fracción I y 131 de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior y 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
 
 CONSIDERANDO
 
-Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de proseguir el proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual instituyó la Asociación Latinoamericana de Integración (ALADI);
+Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de proseguir el proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual instituyó la Asociación Latinoamericana de Integración;
 
-Que el Plan Nacional de Desarrollo 1995-2000 señala dentro de las estrategias relativas a los nuevos vínculos de la política interior y exterior, el fortalecer con América del Sur los mecanismos regionales de diálogo político y de integración económica y expandir los acuerdos comerciales a otras naciones del hemisferio;
+Que en el marco del Tratado de Montevideo 1980, los Gobiernos de los Estados Unidos Mexicanos, la República de Argentina, la República de Bolivia, la República Federativa del Brasil, la República de Colombia, la República de Chile, la República del Ecuador, la República del Paraguay, la República del Perú, la República Oriental del Uruguay y la República de Venezuela celebraron, el 30 de abril de 1983, el Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador, al cual se adhirió la República de Cuba en agosto de 1999;
 
-Que en el marco del Tratado de Montevideo 1980, los gobiernos de los Estados Unidos Mexicanos, de la República de Argentina, de la República de Bolivia, de la República Federativa del Brasil, de la República de Colombia, de la República de Chile, de la República del Ecuador, de la República del Paraguay, de la República del Perú, de la República Oriental del Uruguay y de la República de Venezuela, el 30 de abril de 1983, celebraron el Acuerdo Regional No. 3 de Apertura de Mercados a favor de Paraguay;
+Que por ser un país de menor desarrollo económico, en el Acuerdo Regional No. 2 antes señalado, el resto de los países mencionados en el considerando anterior pactaron otorgar cada uno de ellos, en forma unilateral, una nómina de apertura de mercados a favor de la República del Ecuador para la importación de productos con la eliminación de aranceles y de regulaciones no arancelarias, salvo las contempladas en el Artículo 50 del Tratado de Montevideo 1980;
 
-Que mediante la Resolución 51 (X) del Consejo de Ministros de Relaciones Exteriores de la ALADI, aprobada el 6 de noviembre de 1998, se decidió aceptar la adhesión de la República de Cuba al Tratado de Montevideo 1980, con la categoría de país de desarrollo intermedio, lo que originó que en agosto de 1999 la República de Cuba se incorporara al Acuerdo Regional No. 3;
+Que como resultado de la participación de los Estados Unidos Mexicanos en el citado Acuerdo Regional No. 2, el 30 de mayo de 1993 nuestro país negoció la Nómina de Apertura de Mercados a favor de la República del Ecuador, en la que se otorgó para algunos productos la exención del pago de los impuestos de la entonces Tarifa de la Ley del Impuesto General de Importación;
 
-Que como resultado de la participación de los Estados Unidos Mexicanos en el Acuerdo Regional No. 3, el 16 de noviembre de 1994 nuestro país negoció la Nómina de Apertura de Mercados a favor de la República del Paraguay, en la que otorgó la exención del pago de los impuestos de la Tarifa de la Ley del Impuesto General de Importación para algunos productos, identificados en los términos de la Nomenclatura de la ALADI (NALADISA); y
+Que el 23 de agosto de 2000 se publicó en el Diario Oficial de la Federación el Decreto para la Aplicación del Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador;
 
-Que para la exacta observancia del Acuerdo Regional No. 3, es necesario establecer la tabla de equivalencias de la Nomenclatura de ALADI con la de la Ley del Impuesto General de Importación, que permita a su vez aplicar las exenciones otorgadas por México en el marco del referido Acuerdo, he tenido a bien expedir el siguiente
+Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
 
-DECRETO PARA LA APLICACIÓN DEL ACUERDO REGIONAL No. 3 DE APERTURA DE MERCADOS A FAVOR DE PARAGUAY
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
+
+Que para aplicar las preferencias otorgadas por México en el Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador, de conformidad con las mencionadas modificaciones al Sistema Armonizado de Designación y Codificación de Mercancías, he tenido a bien expedir el siguiente
+
+DECRETO
 
 ###### ARTÍCULO ÚNICO.
 
-Para la aplicación de la exención del pago de los impuestos de la Tarifa de la Ley del Impuesto General de Importación para productos otorgados por los Estados Unidos Mexicanos a la República del Paraguay, al amparo del Acuerdo Regional No. 3 de Apertura de Mercados, se estará a la siguiente:
+Los Estados Unidos Mexicanos otorgarán a la República del Ecuador, al amparo del Acuerdo Regional No. 2, la exención del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, de conformidad con la siguiente:
 
-TABLA DE LOS PRODUCTOS INCLUIDOS EN LA NÓMINA DE APERTURA DE MERCADOS A FAVOR DE PARAGUAY, DEL ACUERDO REGIONAL No. 3 DE LA ALADI, QUE ESTÁN EXENTOS DEL PAGO DE LOS ARANCELES DE LA TARIFA DE LA LEY DEL IMPUESTO GENERAL DE IMPORTACIÓN DE LOS ESTADOS UNIDOS MEXICANOS
+Tabla de los productos incluidos en la nómina de apertura de mercados a favor de Ecuador, del Acuerdo Regional No. 2 de la Asociación Latinoamericana de Integración, que están exentos del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación
 
 (VEASE ARCHIVO ANEXO)
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- La Secretaría de Hacienda y Crédito Público, a petición de parte, cancelará las garantías otorgadas de conformidad con el artículo 141 del Código Fiscal de la Federación, para cubrir las diferencias del impuesto que, en su caso, hubieren resultado entre el monto que se tendría que pagar en los términos de la Tarifa de la Ley del Impuesto General de Importación, vigente al momento de efectuarse la importación, y el monto derivado de calcular el impuesto tomando en cuenta la preferencia porcentual negociada en el Acuerdo Regional No. 3 de Apertura de Mercados a favor de Paraguay.
+SEGUNDO.- Las preferencias arancelarias establecidas en el presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del 1 de julio de 2007.
 
-TERCERO.- Se deja sin efectos jurídicos las preferencias arancelarias de la columna (6) del artículo 1o. del Decreto por el que se dispone que la importación de mercancías originarias y provenientes de los países miembros de la Asociación Latinoamericana de Integración, que se realice de conformidad con los acuerdos de alcance Parcial y sus Protocolos Adicionales o Modificatorios o con los acuerdos Regionales de apertura de Mercados, celebrados por México al amparo del Tratado de Montevideo 1980, se gravará conforme a la preferencia porcentual negociada, la cual se calculará de conformidad con el procedimiento señalado en el artículo 2o., publicado en el Diario Oficial de la Federación, el primero de julio de 1988, referente a la importación de mercancías originarias y provenientes de la República del Paraguay, y sus reformas mediante los diversos dados a conocer en el mismo órgano de información el 23 y 25 de noviembre de 1988 y el 6 de diciembre de 1990, así como cualquier otra disposición que se oponga a lo dispuesto en el presente Decreto.
+TERCERO.- Se abroga el Decreto para la Aplicación del Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador, publicado en el Diario Oficial de la Federación el 23 de agosto de 2000, así como cualquier otro que se oponga al presente Decreto.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de agosto de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de noviembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
