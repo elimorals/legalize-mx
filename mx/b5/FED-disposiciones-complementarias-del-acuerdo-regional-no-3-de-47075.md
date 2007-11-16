@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-regional-no-3-de-4707
 country: "mx"
 rank: "otro"
 publication_date: "2000-08-23"
-last_updated: "2005-12-07"
+last_updated: "2007-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47075&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,54 +19,48 @@ issue_date: "2000-08-11"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO REGIONAL No.3 DE APERTURA DE MERCADOS A FAVOR DE PARAGUAY (MULTILATERAL, 1983)
 
-DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACION A LA FRANJA FRONTERIZA NORTE Y REGION FRONTERIZA Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
+DECRETO PARA LA APLICACION DEL ACUERDO REGIONAL No. 3 DE APERTURA DE MERCADOS A FAVOR DE ECUADOR
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de diciembre de 2005.
+Decreto publicado en el Diario Oficial de la Federación, el viernes 16 de noviembre de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de las facultades que me confieren los artículos 89, fracción I y 131 de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior y 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
 
 CONSIDERANDO
 
-Que es importante mantener la competitividad de la industria nacional, en los sectores de colorantes comestibles e industriales y el eléctrico, por lo que se reducen los aranceles de insumos imprescindibles para la elaboración de colorantes, como es el caso del dióxido de circonio y de la oleorresina de zempasuchitl; y en cuanto al sector eléctrico, para la fabricación de fusibles eléctricos, como los tubos de porcelana para fusibles de alta tensión o la chatarra de aluminio;
+Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de proseguir el proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual instituyó la Asociación Latinoamericana de Integración;
 
-Que es necesario, identificar e individualizar determinados productos que han ocasionado discrepancias en la clasificación arancelaria, como es el caso de las máquinas surtidoras de agua, así como identificar otros productos para que la industria nacional identifique con claridad los nichos de mercado y responder con mayor efectividad y oportunidad a los requerimientos del mercado, tal es el caso de tapas de apertura fácil, destinadas a la elaboración de envases para alimentos y bebidas;
+Que en el marco del Tratado de Montevideo 1980, los Gobiernos de los Estados Unidos Mexicanos, la República de Argentina, la República de Bolivia, la República Federativa del Brasil, la República de Colombia, la República de Chile, la República del Ecuador, la República del Paraguay, la República del Perú, la República Oriental del Uruguay y la República de Venezuela celebraron, el 30 de abril de 1983, el Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador, al cual se adhirió la República de Cuba en agosto de 1999;
 
-Que para desarrollar el segmento del mercado de llantas recauchutadas (renovadas) para camión a través de la importación de llantas usadas para su procesamiento por parte de las plantas renovadoras establecidas en el país, donde se podría generar una mayor oferta de este tipo de productos, redundando en un beneficio de precios y costos, tanto para las empresas renovadoras como para los usuarios finales, se establece un arancel específico a estos productos;
+Que por ser un país de menor desarrollo económico, en el Acuerdo Regional No. 2 antes señalado, el resto de los países mencionados en el considerando anterior pactaron otorgar cada uno de ellos, en forma unilateral, una nómina de apertura de mercados a favor de la República del Ecuador para la importación de productos con la eliminación de aranceles y de regulaciones no arancelarias, salvo las contempladas en el Artículo 50 del Tratado de Montevideo 1980;
 
-Que es necesario actualizar el Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, así como el Decreto por el que se establece la Tasa Aplicable del 1 de abril de 2005 al 31 de marzo de 2006 del Impuesto General de Importación para las mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005;
+Que como resultado de la participación de los Estados Unidos Mexicanos en el citado Acuerdo Regional No. 2, el 30 de mayo de 1993 nuestro país negoció la Nómina de Apertura de Mercados a favor de la República del Ecuador, en la que se otorgó para algunos productos la exención del pago de los impuestos de la entonces Tarifa de la Ley del Impuesto General de Importación;
 
-Que es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, con ciertas fracciones que se crean en este instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
+Que el 23 de agosto de 2000 se publicó en el Diario Oficial de la Federación el Decreto para la Aplicación del Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador;
 
-Que en virtud de que ciertos productos que se importan al amparo del diverso por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
+Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
 
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, las modificaciones previstas en el presente ordenamiento, a solicitud de los sectores industriales nacionales, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
+
+Que para aplicar las preferencias otorgadas por México en el Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador, de conformidad con las mencionadas modificaciones al Sistema Armonizado de Designación y Codificación de Mercancías, he tenido a bien expedir el siguiente
 
 DECRETO
 
-...
-
-###### ARTÍCULO SÉPTIMO.
-
-Se modifica la tabla de los productos incluidos en la Nómina de Apertura de Mercados a favor de Paraguay, del Acuerdo Regional No. 3 de la Asociación Latinoamericana de Integración (ALADI), que están exentos del pago de los aranceles de la Tarifa de la Ley del Impuesto General de Importación de los Estados Unidos Mexicanos, prevista en el artículo único del Decreto para la Aplicación del Acuerdo Regional No. 3 de Apertura de Mercados a favor de Paraguay, publicado en el Diario Oficial de la Federación el 23 de agosto de 2000 y sus modificaciones, únicamente en lo que a continuación se indica:
-
-“ARTÍCULO ÚNICO.- . . .
-
-(VEASE ARCHIVO ANEXO)
-
-...
-
 ###### ARTÍCULO ÚNICO.
 
-Para la aplicación de la exención del pago de los impuestos de la Tarifa de la Ley del Impuesto General de Importación para productos otorgados por los Estados Unidos Mexicanos a la República del Paraguay, al amparo del Acuerdo Regional No. 3 de Apertura de Mercados, se estará a la siguiente:
+Los Estados Unidos Mexicanos otorgarán a la República del Ecuador, al amparo del Acuerdo Regional No. 2, la exención del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, de conformidad con la siguiente:
 
-TABLA DE LOS PRODUCTOS INCLUIDOS EN LA NÓMINA DE APERTURA DE MERCADOS A FAVOR DE PARAGUAY, DEL ACUERDO REGIONAL No. 3 DE LA ALADI, QUE ESTÁN EXENTOS DEL PAGO DE LOS ARANCELES DE LA TARIFA DE LA LEY DEL IMPUESTO GENERAL DE IMPORTACIÓN DE LOS ESTADOS UNIDOS MEXICANOS
+Tabla de los productos incluidos en la nómina de apertura de mercados a favor de Ecuador, del Acuerdo Regional No. 2 de la Asociación Latinoamericana de Integración, que están exentos del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIO
+## TRANSITORIOS
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de noviembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+SEGUNDO.- Las preferencias arancelarias establecidas en el presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del 1 de julio de 2007.
+
+TERCERO.- Se abroga el Decreto para la Aplicación del Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador, publicado en el Diario Oficial de la Federación el 23 de agosto de 2000, así como cualquier otro que se oponga al presente Decreto.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de noviembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
