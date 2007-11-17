@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-electoral-para-el-estado-de-nayarit-41212"
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-02"
-last_updated: "2004-10-02"
+last_updated: "2007-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 2 de octubre de 2004.
 
@@ -39,15 +39,21 @@ D E C R E T A :
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT
 
-# LIBRO PRIMERO
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-## TÍTULO PRIMERO
+# LIBRO PRIMERO. De la Justicia Electoral
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+## TÍTULO PRIMERO. De la Organización de la Justicia Electoral
 
 ### Capítulo I. Disposiciones Generales
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-Las disposiciones de esta ley son de orden público, de observancia general en el Estado y reglamentarias del artículo 135 párrafos sexto y séptimo, de la Constitución Política del Estado Libre y Soberano de Nayarit.
+###### Artículo 1°.
+
+Las disposiciones de esta Ley son de orden público, de observancia general en el Estado y reglamentarias del artículo 135 Apartado "D", de la Constitución Política del Estado de Nayarit.
 
 ###### Artículo 2º.
 
@@ -65,9 +71,11 @@ Para los efectos de esta ley, se entenderá por: El Consejo Electoral, el Consej
 
 ### Capítulo II. Del Tribunal Electoral del Estado de Nayarit
 
-###### Artículo 5º.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-El Tribunal Electoral del Estado, es el órgano jurisdiccional autónomo que tiene a su cargo la sustanciación y resolución de los recursos dentro del ámbito de su competencia, que previene esta Ley.
+###### Artículo 5°.
+
+El Tribunal Electoral del Estado, es el órgano jurisdiccional autónomo que tiene a su cargo la sustanciación y resolución de los medios de impugnación dentro del ámbito de su competencia, que previene esta Ley.
 
 ###### Artículo 6º.
 
@@ -121,9 +129,11 @@ Durante el desempeño de su cargo no podrán en ningún caso ocupar o desempeña
 
 ### Capítulo IV. Del Funcionamiento del Tribunal
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 10.
 
-El Tribunal Electoral del Estado funcionará en Pleno y en Salas, y tendrá su sede en la capital del Estado. Sus sesiones serán públicas y excepcionalmente de carácter reservado por acuerdo del Pleno.
+El Tribunal Electoral del Estado funcionará en Pleno y tendrá su sede en la capital del Estado. Sus sesiones serán públicas y excepcionalmente de carácter reservado por acuerdo del Pleno.
 
 ###### Artículo 11.
 
@@ -151,15 +161,19 @@ VII. Determinar y en su caso aplicar las sanciones administrativas previstas en 
 
 VIII. Las demás que le otorgue el presente ordenamiento y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 13.
 
-Son funciones y atribuciones de las Salas:
+Son funciones y atribuciones del Pleno:
 
 I. Conocer y resolver los recursos de apelación que se interpongan durante el tiempo que transcurra entre dos procesos electorales ordinarios por actos o resoluciones de los organismos electorales;
 
 II. Sustanciar y resolver los recursos que se presenten durante el proceso electoral, en la etapa de preparación de la elección, en contra de los actos o resoluciones de los organismos electorales; y
 
-III. Conocer y resolver de los demás recursos de apelación y, en su caso, los de revisión, que sean de su competencia en los términos de esta Ley y conocer y resolver los juicios de inconformidad que se interpongan de acuerdo con las disposiciones aplicables de esta Ley en contra de las resoluciones que declaren la validez de las elecciones, el otorgamiento de las constancias y la asignación de Diputados y Regidores bajo el principio de Representación Proporcional.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+III. Conocer y resolver de los recursos de apelación que sean de su competencia en los términos de esta Ley y conocer y resolver los juicios de inconformidad que se interpongan de acuerdo con las disposiciones aplicables de esta Ley, en contra de resoluciones que declaren la validez de las elecciones, el otorgamiento de las constancias y asignaciones de representación proporcional que correspondan.
 
 ###### Artículo 14.
 
@@ -229,9 +243,7 @@ Los Jueces Instructores tienen la obligación de guardar absoluta reserva sobre 
 
 Son atribuciones de los Jueces Instructores:
 
-Admitir los recursos de apelación e inconformidad, así como los escritos de
-
-los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en esta Ley;
+Admitir los recursos de apelación e inconformidad, así como los escritos de los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en esta Ley;
 
 I. Someter a los Magistrados los acuerdos de desechamiento de los recursos de apelación y de inconformidad que sean notoriamente improcedentes o evidentemente frívolos;
 
@@ -287,9 +299,13 @@ El Secretario General de Acuerdos, los Jueces Instructores y el personal de apoy
 
 El Secretario General de Acuerdos, el personal jurídico y administrativo, tendrán la obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
 
-# LIBRO SEGUNDO. Del sistema de medios de impugnación y de las nulidades
+> <small>(DEROGADA SU DENOMINACION, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-## TÍTULO SEGUNDO. De las Reglas Comunes Aplicables a los Medios de Impugnación
+# LIBRO SEGUNDO
+
+> <small>(REFORMADA SU NUMERACION, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+## TÍTULO PRIMERO. Del Sistema de Medios de Impugnación
 
 ###### Artículo 24.
 
@@ -315,9 +331,9 @@ Corresponde al Consejo Electoral, conocer y resolver el recurso de revisión, y 
 
 El Consejo Electoral y el Tribunal Electoral resolverán los asuntos de su competencia con plena jurisdicción y conforme a los principios que establecen los artículos 116, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, y 135 de la Constitución Política del Estado de Nayarit.
 
-## TÍTULO TERCERO. De los Medios de Impugnación en particular y de las Nulidades en Materia Electoral
+## TÍTULO SEGUNDO. De las Reglas Comunes Aplicables a los Medios de Impugnación
 
-### Capítulo I. Del Sistema de Medios de Impugnación
+### Capítulo I. Prevenciones Generales
 
 ###### Artículo 27.
 
@@ -327,7 +343,7 @@ Las disposiciones contenidas en el presente título, son aplicables para el trá
 
 En ningún caso la interposición de los medios de impugnación, suspenderán los efectos de los actos, resoluciones, resultados o asignaciones combatidos.
 
-### Capítulo I. Prevenciones Generales
+### Capítulo II. De los Plazos y Términos
 
 ###### Artículo 29.
 
@@ -343,15 +359,19 @@ Los medios de impugnación deberán interponerse dentro del término de tres dí
 
 El partido político, organización o asociación política cuyo representante haya estado presente en la sesión del órgano electoral que emitió el acto o resolución impugnada, se entenderá automáticamente notificado del mismo para todos los efectos legales.
 
-### Capítulo II. De los Plazos y Términos
+### Capítulo III. De los Requisitos de los Medios de Impugnación
 
 ###### Artículo 32.
 
-Los medios de impugnación a que se refiere esta ley se presentaran ante la autoridad señalada como responsable del acto, acuerdo o resolución impugnada, y para su interposición se deberá cumplir con los siguientes requisitos:
+Los medios de impugnación a que se refiere esta ley se presentarán ante la autoridad señalada como responsable del acto, acuerdo o resolución impugnada, y para su interposición se deberá cumplir con los siguientes requisitos:
 
-I. Constar por escrito;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-II. Señalar el nombre del actor y el carácter con el que promueve;
+I. Presentarse en tiempo y forma;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+II. Constar por escrito, señalando el nombre del actor y el carácter con el que promueve;
 
 III. Señalar domicilio para recibir notificaciones en la capital del Estado y en su caso, a quien en su nombre las pueda oír y recibir. Si el promovente omite señalar domicilio para recibirlas, las notificaciones se harán por estrados.
 
@@ -367,7 +387,9 @@ VIII. Hacer constar el nombre y la firma autógrafa del promovente.
 
 Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no se requerirá cumplir con el requisito previsto en la fracción VII de éste precepto.
 
-### Capítulo III. De los Requisitos de los Medios de Impugnación
+> <small>(REFORMADA SU DENOMINACION, 17 DE NOVIEMBRE DE 2007)</small>
+
+### Capítulo IV. De la Improcedencia y del Sobreseimiento
 
 ###### Artículo 33.
 
@@ -381,7 +403,9 @@ Operará también el desechamiento de plano, cuando no existan hechos y agravios
 
 Los medios de impugnación previstos en esta ley serán improcedentes en los casos siguientes:
 
-I. Sean interpuestos por quien no tenga legitimación o interés jurídico en los términos de la presente ley;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+I. Sean interpuestos por quien no tenga legitimación o interés jurídico, o teniéndolo, no le cause perjuicio alguno, en los términos de la presente ley;
 
 II. Sean presentados fuera de los plazos establecidos;
 
@@ -403,13 +427,15 @@ I. Cuando el promovente se desista expresamente por escrito;
 
 II. Cuando la autoridad responsable del acto o resolución impugnada lo modifique o revoque, de tal manera que quede sin materia el medio de impugnación respectivo antes de que se dicte resolución;
 
-III. Cuando el actor incumpla el requerimiento que se le haya formulado en términos del artículo 48 fracción II, párrafo segundo, de esta ley.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+III. Cuando el actor incumpla el requerimiento que se le haya formulado en términos del articulo 48 fracción I, párrafo segundo, de esta Ley;
 
 IV. Cuando habiendo sido admitido el medio de impugnación correspondiente, aparezca o sobrevenga alguna causal de improcedencia; y
 
 V. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos político-electorales.
 
-### Capítulo IV. Del Desechamiento de Plano, de la Improcedencia y del Sobreseimiento
+### Capítulo V. De las Partes
 
 ###### Artículo 37.
 
@@ -439,7 +465,7 @@ IV. Podrán ofrecer y aportar pruebas dentro de los plazos establecidos en esta 
 
 V. Los escritos deberán estar firmados autógrafamente.
 
-### Capítulo V. De las Partes
+### Capítulo VI. De la legitimación y de la Personería
 
 ###### Artículo 40.
 
@@ -459,7 +485,7 @@ III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de 
 
 IV. Las coaliciones, por conducto de su representante legítimo, acreditándose en los términos del convenio respectivo y atendiendo lo establecido por la ley de la materia.
 
-### Capítulo VI. De la legitimación y de la Personería
+### Capítulo VII. De las Pruebas
 
 ###### Artículo 41.
 
@@ -519,7 +545,7 @@ Las documentales privadas, las técnicas, las presuncionales, la instrumental de
 
 En ningún caso se tomarán en cuenta para resolver, las pruebas aportadas fuera de los plazos establecidos. La única excepción será cuando se trate de pruebas supervenientes, entendiéndose como tales aquellos medios de convicción, surgidos o conocidos después del plazo legal en que deban aportarse, y aquellos existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar; siempre y cuando se aporten antes del cierre de instrucción.
 
-### Capítulo VII. De las Pruebas
+### Capítulo VIII. Del Trámite
 
 ###### Artículo 45.
 
@@ -571,7 +597,7 @@ b) Los motivos y fundamentos jurídicos que considere pertinentes para sostener 
 
 c) El nombre y firma autógrafa del funcionario que lo rinde.
 
-### Capítulo VIII. Del Trámite
+### Capítulo IX. De la Sustanciación
 
 ###### Artículo 48.
 
@@ -579,9 +605,9 @@ Recibida la documentación a que se refiere el artículo anterior, el Tribunal E
 
 Revisará que el escrito del medio de impugnación reúna los requisitos señalados en el artículo 32 de este ordenamiento.
 
-I. En todo caso, el magistrado electoral propondrá al Pleno el proyecto de sentencia por el que se deseche de plano el medio de impugnación, cuando se de alguno de los supuestos previstos en el artículo 33, o se acredite cualquiera de las causales de notoria improcedencia señaladas en el artículo 15 de esta ley.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-Cuando el promovente omita los requisitos señalados en las fracciones IV y V del artículo 32, y estos no se puedan deducir de los elementos que obren en autos, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique por estrados el auto correspondiente.
+I. En todo caso, el Magistrado electoral propondrá al Pleno el proyecto de sentencia por el que se deseche de plano el medio de impugnación, cuando se dé alguno de los supuestos previstos en el artículo 33, o se acredite cualquiera de las causales de notoría improcedencia señaladas en el artículo 34 de esta Ley.
 
 II. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, se dictará el auto de admisión que corresponda; se proveerá lo necesario sobre la admisión de las pruebas ofrecidas por las partes, ordenando cuando así proceda el requerimiento de documentos e informes, así como de las diligencias que estime necesarias para resolver.
 
@@ -597,7 +623,7 @@ V. La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo 
 
 Recibido un recurso de revisión por el Consejo Electoral, se seguirá en lo conducente el procedimiento señalado en el artículo anterior, el cual será sustanciado por el secretario de dicho organismo, quien integrará el expediente y formulará el proyecto de resolución correspondiente.
 
-### Capítulo IX. De la Sustanciación
+### Capítulo X. De la Acumulación y de la Escisión
 
 ###### Artículo 50.
 
@@ -611,7 +637,7 @@ A ese efecto, el Secretario General de Acuerdos constatará si el medio de impug
 
 Cuando los Magistrados del Tribunal Electoral estimen fundadamente que no es conveniente resolver en forma conjunta los expedientes acumulados, se dictará el acuerdo de escisión, concluyéndose la sustanciación por cuerda separada.
 
-### Capítulo X. De la Acumulación y de la Escisión
+### Capítulo XI. De las Resoluciones y de las Sentencias
 
 ###### Artículo 51.
 
@@ -669,7 +695,7 @@ La contradicción de criterios podrá ser planteada por un Magistrado o por las 
 
 El Tribunal Electoral hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión del proceso electoral. El Presidente enviará al Congreso del Estado, las tesis y criterios que se hubiesen adoptado, con recomendación de sus alcances.
 
-### Capítulo XI. De las Resoluciones y de las Sentencias
+### Capítulo XII. De las Notificaciones
 
 ###### Artículo 56.
 
@@ -713,7 +739,7 @@ Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presida
 
 No se requerirá de notificación personal y surtirá sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que se hagan públicos a través del Periódico Oficial del Estado, o algún diario de circulación estatal, o mediante la fijación de cédulas en los estrados de los organismos electorales y del Tribunal Electoral.
 
-### Capítulo XII. De las Notificaciones
+### Capítulo XIII. De los Medios de Apremio y de las Correcciones Disciplinarias
 
 ###### Artículo 63.
 
@@ -735,7 +761,11 @@ Lo anterior sin perjuicio, que en caso de resultar algún ilícito, se de parte 
 
 Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicados por el Presidente del órgano electoral que corresponda y para hacerlas efectivas podrá auxiliarse de los órganos del Ejecutivo del Estado o municipales que corresponda, tomándose en cuenta para su determinación las circunstancias particulares del caso, las personales del responsable y la gravedad de la infracción.
 
-### Capítulo XIII. De los Medios de Apremio y de las Correcciones Disciplinarias
+> <small>(REFORMADA SU NUMERACION, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+# LIBRO TERCERO. De los Medios de Impugnación en particular y de las Nulidades en Materia Electoral
+
+### Capítulo I. Generalidades
 
 ###### Artículo 65.
 
@@ -751,7 +781,7 @@ III. El juicio de inconformidad.
 
 En los procesos electorales locales extraordinarios, serán procedentes los medios de impugnación señalados con anterioridad, debiéndose aplicar en lo conducente las reglas señaladas en el presente ordenamiento.
 
-### Capítulo I. Generalidades
+### Capítulo II. Del Recurso de Revisión
 
 ###### Artículo 66.
 
@@ -803,7 +833,7 @@ II. Al organismo electoral cuyo acto o resolución fue impugnado, se les hará p
 
 III. A los terceros interesados, por correo certificado.
 
-### Capítulo II. Del Recurso de Revisión
+### Capítulo III. Del Recurso de Apelación
 
 ###### Artículo 75.
 
@@ -813,11 +843,11 @@ El recurso de apelación procederá para impugnar las resoluciones que recaigan 
 
 Recibido un recurso de apelación por el Tribunal Electoral, se seguirán para su trámite y resolución las reglas establecidas por el artículo 48 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 77.
 
-Los recursos de apelación serán resueltos por el Tribunal Electoral, dentro de los ocho días siguientes a aquel en que se admitan.
-
-Las sentencias de fondo que recaigan al recurso de apelación, tendrán como efecto confirmar, modificar o revocar el acto o resolución impugnada.
+Los recursos de Apelación serán resueltos por el Tribunal Electoral dentro de los ocho días siguientes a aquél en que se admitan salvo que los mismos se planteen fuera del proceso electoral en cuyo caso el plazo no podrá exceder de treinta.
 
 ###### Artículo 78.
 
@@ -835,7 +865,7 @@ IV. Estas notificaciones se realizarán a más tardar al día siguiente del que 
 
 Los recursos de apelación interpuestos dentro de los cinco días anteriores al de la jornada electoral, serán resueltos junto con los juicios de inconformidad con los que guarden relación, debiendo señalar el promovente la conexidad de la causa.
 
-### Capítulo III. Del Recurso de Apelación
+### Capítulo IV. Del Juicio de Inconformidad
 
 ###### Artículo 80.
 
@@ -919,9 +949,11 @@ En todo caso, los Magistrados del Tribunal Electoral actuarán asistidos por el 
 
 Para la resolución del juicio de inconformidad, el Tribunal Electoral estará facultado para celebrar audiencia cuando, por la naturaleza de las pruebas ofrecidas o recabadas, sea indispensable desahogarlas ante las partes. En este caso, la audiencia se llevará a cabo con o sin la asistencia de las partes, en la fecha que al efecto se señale.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 89.
 
-La sustanciación y resolución de los juicios de inconformidad y, en su caso, la declaración de nulidad de la elección de gobernador y ayuntamientos, deberá realizarse dentro del plazo de 40 días naturales siguientes al cierre del acta de cómputo y declaraciones de validez de que se trate. Tratándose de la elección de diputados, la resolución y, en su caso, la declaración de nulidad, deberá realizarse dentro de los 20 días naturales siguientes al cierre del acta de cómputo correspondiente.
+La sustanciación y resolución de los juicios de inconformidad y, en su caso, la declaración de nulidad de la elección de gobernador e integrantes de los ayuntamientos, deberá realizarse dentro del plazo de 40 días naturales siguientes al cierre del acta de cómputo y declaraciones de validez de que se trate. Tratándose de la elección de diputados, la resolución y, en su caso, la declaración de nulidad, deberá realizarse dentro de los 20 días naturales siguientes al cierre del acta de cómputo correspondiente.
 
 ###### Artículo 90.
 
@@ -943,9 +975,11 @@ VI. Hacer la corrección de los cómputos cuando sean impugnados por error aritm
 
 El Tribunal Electoral podrá modificar el acta o las actas de cómputo relativas en la sección de ejecución que para tal efecto abra al resolver el último de los juicios que se hubieren promovido en contra de la misma elección, en un mismo municipio, distrito electoral uninominal o de circunscripción, o de entidad federativa.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 92.
 
-Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de ayuntamiento, diputado o gobernador previstos en esta ley, el Tribunal Electoral decretará lo conducente, aún cuando no se haya solicitado en ninguno de los juicios promovidos individualmente.
+Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de los integrantes del ayuntamiento, diputado o gobernador previstos en esta ley, el Tribunal Electoral decretará lo conducente, aún cuando no se haya solicitado en ninguno de los juicios promovidos individualmente.
 
 ###### Artículo 93.
 
@@ -957,9 +991,13 @@ II. A los Consejos Electorales correspondientes, la notificación se hará por o
 
 Dichas notificaciones se harán a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dictó la resolución correspondiente.
 
-### Capítulo IV. Del Juicio de Inconformidad
+### Capítulo V. De las Nulidades
+
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 94.
+
+El órgano jurisdiccional sólo podrá declarar la nulidad de una elección por las causales que expresamente dispone la presente Ley.
 
 Las nulidades establecidas en este capítulo podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada, o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o en un municipio para la elección de miembros de un ayuntamiento; o de gobernador, según sea el caso; así como la declaración de validez de la elección correspondiente.
 
@@ -983,19 +1021,27 @@ c) Realizar, sin causa justificada, el escrutinio y cómputo en local diferente 
 
 d) Recibir la votación en fecha distinta a la señalada para la celebración de la elección;
 
-e) La recepción de la votación por personas u organismos distintos a los facultados por la ley;
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+e) Recibir la votación personas u órganos distintos a los facultados por la ley;
 
 f) Haber mediado dolo o error manifiesto en la computación de los votos que beneficien a uno de los candidatos o fórmula de candidatos y esto sea determinante para el resultado de la votación;
 
-g) Permitir a ciudadanos sufragar sin contar con credencial para votar o cuyo nombre no aparezca en la lista nominal de electores, salvo los casos establecidos en la ley;
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+g) Permitir a ciudadanos sufragar sin contar con credencial para votar o cuyo nombre no aparezca en la lista nominal de electores, y siempre que ello sea determinante para el resultado de la votación, salvo los casos de excepción establecidos en la ley;
 
 h) Haber impedido el acceso a la casilla a los representantes de los partidos políticos o haberlos expulsado sin causa justificada;
 
 i) Ejercer violencia física o presión sobre los miembros de la mesa directiva de la casilla o sobre electores, de tal manera que se afecte la libertad y el secreto del voto, y siempre que estos hechos sean determinantes para el resultado de la votación;
 
-j) Se compruebe que se impidió, sin causa justificada, ejercer el derecho de voto a los ciudadanos y estos (sic) sea determinante par (sic) el resultado de la votación; y
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-k) Cuando existan irregularidades graves y plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que en forma evidente pongan en duda la certeza de la votación y sea determinante para el resultado de la votación.
+j) Impedir, sin causa justificada, ejercer el derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación; y
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+k) Existir irregularidades graves y plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sea determinante para el resultado de la misma.
 
 ###### Artículo 97.
 
@@ -1005,31 +1051,57 @@ Las causas de nulidad de la votación recibida en una casilla, surtirán plenos 
 
 Son causas de nulidad de una elección las siguientes:
 
-a) Cuando los motivos de nulidad a que se refiere el artículo anterior se declaren existentes en cuando menos el 20% de las casillas electorales en un municipio, distrito o en el Estado, según corresponda;
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-b) Cuando no se instalen las casillas en el 20% de las secciones en un municipio, distrito o en el Estado y consecuentemente, la votación no hubiese sido recibida, siempre y cuando ello sea imputable al Consejo correspondiente y no al resultado de un evento jurídico de terceros; y
+a) Cuando los motivos de nulidad a que se refiere el artículo anterior se declaren existentes en cuando menos el 20% de las casillas electorales en una demarcación municipal, municipio, distrito o en el Estado, según corresponda;
 
-c) Cuando los candidatos que hubiesen obtenido la constancia de mayoría no reúnan los requisitos de elegibilidad previstos por la Constitución Política del Estado, la Ley Municipal y la Ley Electoral.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+b) Cuando no se instalen las casillas en el 20% de las secciones en una demarcación municipal, municipio, distrito o en el Estado y consecuentemente, la votación no hubiese sido recibida, siempre y cuando ello sea imputable al Consejo correspondiente y no al resultado de un evento jurídico de terceros; y (sic)
+
+c) Cuando los candidatos que hubiesen obtenido la constancia de mayoría no reúnan los requisitos de elegibilidad previstos por la Constitución Política del Estado, la Ley Municipal y la Ley Electoral;
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+d) Cuando se utilicen recursos públicos o se destinen programas sociales de cualquier nivel de gobierno para favorecer a determinado partido político y sus candidatos.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 99.
 
-El Tribunal Electoral del Estado podrá declarar la nulidad de una elección de gobernador, diputados o de ayuntamientos, cuando se hayan cometido en forma generalizada en el Estado, distrito o municipio, según sea el caso, violaciones sustanciales en la jornada electoral o durante los tres días anteriores, y se demuestre plenamente que las mismas son determinantes para el resultado de la elección impugnada.
+El Tribunal Electoral del Estado podrá declarar la nulidad de una elección de gobernador, diputados o de integrantes del ayuntamiento, cuando se hayan cometido en forma generalizada en el Estado, distrito, municipio o demarcación municipal, según sea el caso, violaciones sustanciales en la jornada electoral o durante los tres días anteriores, y se demuestre plenamente que las mismas son determinantes para el resultado de la elección impugnada.
 
 ###### Artículo 100.
 
 Los partidos políticos no podrán invocar en su favor, causas de nulidad, hechos o circunstancias que el propio partido dolosamente, haya provocado.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 101.
 
-Cuando en la fórmula de candidatos a diputados por el principio de mayoría relativa, resulte inelegible el propietario que hubiese obtenido la constancia de mayoría, tomará su lugar el suplente; o cuando la fórmula de candidatos resulte inelegible, se convocará a una nueva elección en los términos de la ley electoral; Tratándose de la inelegibilidad de candidatos a diputados por el principio de representación proporcional, tomará su lugar del declarado no elegible el que le siga en la lista de manera descendente correspondiente al mismo partido.
+Cuando se reclame el recuento de los votos se procederá en los términos de artículo 204 fracciones II, III, IV, V y VI de la Ley Electoral del Estado.
+
+El recuento de los votos ante el Tribunal Electoral del Estado, solo se podrá solicitar, siempre que se haya impugnado el cómputo de la votación correspondiente.
+
+Cuando la impugnación se haga ante el Tribunal y a juicio de este sea determinante para el resultado de la elección, podrá, mediante diligencias para mejor proveer, autorizar la medida solicitada y practicarla en los términos del precepto legal en cita.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 102.
 
-Cuando algún candidato propietario integrante de la planilla para la elección de miembros de ayuntamientos que haya obtenido la constancia de mayoría resulte inelegible, tomará su lugar el respectivo suplente, Tratándose de los candidatos a regidores por el principio de representación proporcional tomará el lugar del propietario declarado inelegible su suplente, y en el supuesto que este último se encuentre también en alguno de los supuestos anteriores, la fórmula que le siga en el orden de la lista correspondiente al mismo partido.
+Cuando en la fórmula de candidatos a diputados por el principio de mayoría relativa, resulte inelegible el propietario que hubiese obtenido la constancia de mayoría, tomará su lugar el suplente; o cuando la fórmula de candidatos resulte inelegible, se convocará a una nueva elección en los términos de la ley electoral; Tratándose de la inelegibilidad de candidatos a diputados por el principio de representación proporcional, tomará su lugar del declarado no elegible el que le siga en la lista de manera descendente correspondiente al mismo partido.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 103.
 
-Declarada nula una elección, el Tribunal Electoral notificará este hecho al Congreso del Estado para los efectos previstos en el artículo 19 de la Ley Electoral.
+Cuando algún candidato propietario integrante de la fórmula de Presidentes y Síndico o de Regidores, para la elección de miembros de ayuntamientos que haya obtenido la constancia de mayoría resulte inelegible, tomará su lugar el respectivo suplente, y para el caso de que la fórmula resulte inelegible, se convocará a una elección en los términos de Ley. Tratándose de los candidatos a regidores por el principio de representación proporcional tomará el lugar del propietario declarado elegible su suplente, y en el supuesto que éste último se encuentre también en alguno de los supuestos anteriores, la fórmula que le siga en el orden de la lista correspondiente al mismo partido.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 104.
+
+Declarada nula una elección, el Tribunal Electoral notificará este hecho al Congreso del Estado para los efectos previstos en el articulo 19 y 22 de la Ley Electoral.
 
 TRANSITORIO (SIC):
 
@@ -1042,5 +1114,15 @@ D a d o en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso 
 Dip. Presidente, Abad Cervantes Zurita.- Rúbrica.- Dip. Secretario, Enrique Mejía Pérez.- Rúbrica.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintinueve días del mes de septiembre del año dos mil cuatro.- C.P. ANTONIO ECHEVARRIA DOMINGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Difusión del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los artículos que no forman parte de la presente reforma y que se refieran al Consejo Estatal Electoral, deberán entenderse referidos al Consejo Local Electoral.
+
+TERCERO.- Los artículos que no forman parte de la presente reforma y que se refieran a las Salas, deberán entenderse como referidos al Pleno del Tribunal Electoral del Estado.
 
 ### Capítulo V. De las Nulidades
