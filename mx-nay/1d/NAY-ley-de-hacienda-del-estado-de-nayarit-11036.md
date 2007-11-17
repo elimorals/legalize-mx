@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "2007-07-04"
+last_updated: "2007-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -537,7 +537,7 @@ No causan el impuesto las operaciones por las que deba pagarse el Impuesto al Va
 
 #### SECCION PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 46.
 
@@ -553,7 +553,7 @@ Son sujetos de los Impuestos Adicionales los propios Impuestos, Derechos y Produ
 
 #### SECCION TERCERA. DE LA BASE
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 48.
 
@@ -609,21 +609,21 @@ Se exime del pago de los impuestos adicionales a que se refiere este capítulo, 
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION PRIMERA. DEL IMPUESTO CEDULAR A LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR El USO O GOCE TEMPORAL DE BIENES INMUEBLES
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 54.
 
-Será objeto de este impuesto la prestación de servicio de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido, considerados como el albergue temporal de personas a cambio de una contraprestación, sea cual fuere la denominación que ésta tenga.
+Será objeto de este impuesto, la prestación de servicio de hospedaje, campamentos, paraderos de casas rodantes, de tiempo compartido, o cualquier otro inmueble análogo independientemente de su denominación, destinados como alojamiento o albergue temporal de personas a cambio de una contraprestación, sea cual fuere la denominación que ésta tenga.
 
-Para efectos de la causación de este impuesto, sólo se considerará el albergue sin incluir los alimentos y demás servicios relacionados con los mismos.
+Para efectos de la causación de este impuesto, solo se considerará el alojamiento o albergue sin incluir los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 55.
 
-Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto exclusivamente los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias.
+Tratándose de servicios prestados bajo el régimen de tiempo compartido o de cualquier otra denominación, se tomará como base del impuesto los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
@@ -632,6 +632,10 @@ Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tom
 El impuesto a que se refiere este capítulo se causará al momento en que se perciban las contraprestaciones por los servicios gravados, incluyendo depósitos, anticipos, y cualquier otro concepto relativo a estos servicios.
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION SEGUNDA. DEL IMPUESTO CEDULAR POR LA PRESTACION DE SERVICIOS PROFESIONALES
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 57.
 
@@ -645,9 +649,13 @@ El contribuyente trasladará el impuesto, en forma expresa y por separado, a las
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
+#### SECCION TERCERA. DEL IMPUESTO CEDULAR POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE BIENES INMUEBLES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-A], P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 59.
 
-La base para el cálculo de este impuesto se integra con el valor total de la contraprestación del servicio de hospedaje y en el caso de los tiempos compartidos, por el monto de la contraprestación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien, parte del mismo o efectúe el pago de cuotas de mantenimiento.
+La base para el cálculo de este impuesto se integra con el valor total de la contraprestación del servicio de hospedaje y en el caso de los tiempos compartidos o de cualquier otra denominación, por el monto de la contraprestación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien, parte del mismo o efectúe el pago de cuotas de mantenimiento.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
@@ -721,41 +729,131 @@ VI.- Expedir comprobantes por la contraprestación objeto de este impuesto, llev
 
 > <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO IX. DE LOS IMPUESTOS CEDULARES SOBRE LOS INGRESOS DE LAS PERSONAS FISICAS
+### CAPITULO IX
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
+DE LOS IMPUESTOS CEDULARES SOBRE LOS INGRESOS DE LAS PERSONAS FISICAS.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 65-A.
 
-Será objeto de este Impuesto, el arrendamiento y en general el otorgamiento del uso o goce temporal de bienes inmuebles ubicados en el territorio del estado de Nayarit.
+Están obligadas al pago de los impuestos cedulares establecidos en esta Ley, las personas físicas que en territorio del Estado de Nayarit, obtengan ingresos en efectivo, en bienes, en crédito, en servicios o en cualquier otro tipo, por realizar las siguientes actividades:
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+I. Por la prestación de servicios profesionales y;
+
+II. Por Arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado.
+
+También están obligadas al pago de este impuesto, las personas físicas no residentes en el Estado, que presten servicios profesionales en el Estado, a través de establecimientos permanentes, por los ingresos atribuibles a éstos.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 65-B.
 
-Están obligados al pago del impuesto establecido en este capitulo, las personas físicas que perciban ingresos en efectivo, bienes, servicios o en crédito, por otorgar el uso o goce temporal de bienes inmuebles, ubicados dentro del territorio del estado.
+Cuando una persona física realice en un año de calendario erogaciones superiores a los ingresos que hubiere declarado, las autoridades fiscales procederán como sigue:
+
+I. Comprobaran el monto de las erogaciones y la discrepancia con la declaración del contribuyente y darán a conocer a éste el resultado de dicha comprobación;
+
+II. El contribuyente, en un plazo de quince días hábiles, informará por escrito a las autoridades fiscales las razones que tuviera para inconformarse o el origen de la discrepancia y ofrecerá las pruebas que estimare convenientes, las que acompañará a su escrito o rendirá a más tardar dentro de los veinte días hábiles siguientes. En ningún caso los plazos para presentar el escrito y las pruebas señaladas excederán, en su conjunto, de treinta y cinco días hábiles; y
+
+III. Si no se formula inconformidad o no se prueba el origen de la discrepancia, será considerada corno ingreso en la sección que corresponda y se formulará la liquidación correspondiente.
+
+Para los efectos de este artículo, se consideran erogaciones, los gastos, las adquisiciones de bienes y los depósitos en inversiones financieras. No se tomarán en consideración los depósitos que el contribuyente efectúe en cuentas que no sean propias, que califiquen como erogaciones en los términos de este artículo, cuando se demuestre que dicho depósito se hizo como pago de adquisición de bienes o de servicios, o como contraprestación para el otorgamiento del uso o goce temporal de bienes o para realizar inversiones financieras, ni los traspasos entre cuentas del contribuyente o a cuentas de su cónyuge, de sus ascendientes o descendientes, en línea recta en primer grado.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 65-C.
+
+A fin de facilitar a los contribuyentes el cumplimiento de sus obligaciones, el Gobierno del Estado podrá convenir con la Federación, a través de la Secretaria de Hacienda y Crédito Público, en los términos del artículo 43 de la Ley del Impuesto al Valor Agregado.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 65-D.
+
+Para los efectos de la presente Sección, a falta de disposición expresa se aplicará supletoriamente, adicionalmente a la legislación fiscal del Estado, la Ley del Impuesto sobre la Renta, siempre y cuando la disposición de dicho ordenamiento de carácter federal, no contravenga a esta Ley.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 65-E.
+
+Están obligadas al pago del impuesto establecido en esta Sección, las personas físicas que en el territorio del Estado de Nayarit perciban ingresos derivados de la prestación de servicios profesionales.
+
+Cuando un contribuyente tenga bases fijas en dos o más Entidades Federativas, para determinar el impuesto que corresponde al Estado, se deberá considerar la utilidad gravable obtenida por todas las bases fijas que tenga, y el resultado se dividirá entre éstas en la proporción que representen los ingresos obtenidos por cada base fija, respecto de la totalidad de los ingresos.
+
+Los contribuyentes que vienen cumpliendo de conformidad con lo establecido en el Capítulo Primero del Título Primero de esta Ley, no estarán obligados a cumplir con esta Segunda Sección del Capítulo IX del Título Primero de la Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 65-F.
+
+Para los efectos de esta Sección se consideran ingresos por la prestación de servicios profesionales los provenientes de la prestación de un servicio personal independiente. Se entiende que los ingresos por la prestación de un servicio personal independiente, los obtiene en su totalidad quien presta el servicio.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 65-G.
+
+En lo relativo a los ingresos y a las deducciones de este impuesto se atenderá en lo que corresponda, adicionalmente a lo previsto en esta Ley, lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos II, Sección I, y X, todos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 65-H.
+
+Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas e instituciones de crédito autorizadas por la Secretaría de Finanzas.
+
+El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo a que se refiere el artículo anterior. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit.
+
+Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener por concepto del impuesto correspondiente, el monto que resulte de aplicar la tasa del 2%, sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 14 de esta Ley. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas e instituciones de crédito autorizadas.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 65-I.
+
+Quienes en el ejercicio obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales cubrirán como pago provisional a cuenta del impuesto anual el monto que resulte de aplicar la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit, sobre los ingresos percibidos, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 15 días siguientes a la obtención del ingreso. Estos contribuyentes quedarán relevados de la obligación de llevar libros y registros.
+
+Cuando el ingreso percibido en forma esporádica derive de los pagos efectuados por una persona moral, el contribuyente que realice el pago a que se refiere el párrafo anterior, podrá acreditar contra éste la retención efectuada en los términos del artículo anterior.
+
+Ahora bien, en el caso de que los contribuyentes a que se refiere este artículo dispongan de un local como establecimiento permanente para prestar servicios profesionales, los ingresos por dichos servicios no se considerarán obtenidos esporádicamente, de tal manera que les será aplicable lo establecido en esta Sección.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 65-J.
+
+Los contribuyentes, personas físicas sujetos al pago del impuesto establecido en esta Sección, además de las obligaciones establecidas en otros artículos de esta Ley y en las demás disposiciones fiscales, tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes;
+
+II. Llevar la contabilidad de conformidad con el Código Fiscal de la Federación y del Estado de Nayarit, o bien, llevar un libro de ingresos y egresos y de registro de inversiones y deducciones;
+
+III. Expedir y conservar comprobantes que acrediten los ingresos que perciban, mismos que deberán reunir los requisitos establecidos en el Código Fiscal de la Federación y del Estado de Nayarit.
+
+Cuando la contraprestación que ampare el comprobante se cobre en una sola exhibición, en él se deberá indicar el importe total de la operación. Si la contraprestación se cobró en parcialidades, en el comprobante se deberá indicar además el importe de la parcialidad que se cubre en ese momento;
+
+IV. Presentar declaraciones provisionales y anual; y
+
+V. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código Fiscal de la Federación y del Estado Nayarit.
+
+(REUBICADA [N. DE E. ANTES SECCION PRIMERA], P.O. 17 DE NOVIEMBRE DE 2007)
+
+###### ARTICULO 65-K.
+
+Será objeto de este Impuesto, el arrendamiento y en general el otorgamiento del uso o goce temporal de bienes inmuebles ubicados en el territorio del estado de Nayarit.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-B], P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 65-L.
+
+Están obligadas al pago del impuesto establecido en esta Sección, las personas físicas que perciban ingresos en efectivo, bienes, servicios o en crédito, por otorgar el uso o goce temporal de bienes inmuebles ubicados dentro del territorio del Estado.
 
 Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles, los provenientes del arrendamiento o subarrendamiento y en general por otorgar a título oneroso el uso o goce temporal de bienes inmuebles, en cualquier otra forma.
 
 Los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el mes de calendario en el que sean cobrados.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-C], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-###### ARTICULO 65-C.
+###### ARTICULO 65-M.
 
-Las personas que obtengan ingresos por los conceptos a que se refiere este capítulo, podrán efectuar las siguientes deducciones:
-
-I.- Los pagos efectuados por el impuesto predial correspondiente al año de calendario sobre dichos inmuebles, así como por las contribuciones locales de mejoras, de planificación o de cooperación para obras públicas que afecten a los mismos.
-
-II.- Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen del inmueble.
-
-III.- Los intereses reales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles. Se considera interés real, el monto en el que los intereses excedan al ajuste por inflación. Para estos efectos, el ajuste por inflación se determinará multiplicando el saldo promedio diario del préstamo o financiamiento que genere los intereses, por el factor que se obtenga de restar la unidad del cociente que resulte de dividir el índice Nacional de Precios al Consumidor del mes mas reciente del periodo de la inversión, entre el citado índice correspondiente al primer mes del periodo. Cuando el cálculo a que se refiere este párrafo se realice por un periodo inferior a un mes o abarque fracciones de mes, el incremento porcentual del citado índice para dicho periodo o fracción de mes se considerará en proporción al número de días por el que se efectúa el cálculo.
-
-IV.- Los salarios, comisiones y honorarios, así como los impuestos, cuotas o contribuciones que conforme a la ley les corresponda cubrir sobre dichos salarios, efectivamente pagados, afectos a los inmuebles a que se refiere la presente sección. Los salarios serán deducibles siempre y cuando se cumpla la obligación de inscribir a sus trabajadores en el Instituto Mexicano del Seguro Social;
-
-V.- El importe de las primas de seguros que amparen los bienes respectivos;
-
-VI.- Las inversiones en construcciones, incluyendo adiciones y mejoras, sobre los inmuebles a que se refiere la presente sección;
+Las personas que obtengan ingresos por los conceptos a que se refiere esta Sección podrán efectuar las deducciones, atendiendo en lo que corresponda, a lo establecido en el apartado relativo a Disposiciones Generales y a los Capítulos III y X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
 
 Los contribuyentes que otorguen el uso o goce temporal de bienes inmuebles podrán optar por deducir el 35% de los ingresos a que se refiere este capitulo, en substitución de las deducciones a que este artículo se refiere. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del impuesto predial de dichos inmuebles correspondiente al año de calendario o al periodo durante el cual se obtuvieron los ingresos según corresponda.
 
@@ -767,65 +865,59 @@ Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso
 
 La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
 
-Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el ejercicio, las deducciones a que se refieren las fracciones I a V de este artículo, se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al que se otorgue dicho uso o goce.
+Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el ejercicio, las deducciones a que se refiere el primer párrafo de este articulo, se aplicaran únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al que se otorgue dicho uso o goce.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-D], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-###### ARTICULO 65-D.
+###### ARTICULO 65-N.
 
-Los contribuyentes que obtengan ingresos de los señalados en este capítulo efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a una tasa del 2% que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas autorizadas por la Secretaría de Finanzas, teniendo como fecha límite de presentación a más tardar el día 17 del mes inmediato siguiente al mes que corresponde el pago.
+Los contribuyentes que obtengan ingresos de los señalados en esta Sección efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a la tasa que fije anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas e instituciones de crédito autorizadas por la Secretaría de Finanzas, teniendo como fecha límite de presentación a más tardar el día 17 del mes inmediato siguiente al mes que corresponde el pago.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 2% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas por el artículo 14 de esta Ley. El impuesto retenido en los términos de este párrafo, podrá acreditarse contra el que resulte de conformidad con el párrafo anterior.
 
-###### ARTICULO 65-E.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-E], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-El impuesto se calculará anualmente y se pagará a una tasa del 2% que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta Ley en ese ejercicio. Contra el impuesto anual calculado, se podrá acreditar el importe de los pagos provisionales a que se refiere el artículo anterior. La declaración del ejercicio deberá presentarse a más tardar el día 30 de abril del año siguiente al que corresponda el pago en las oficinas o instituciones autorizadas por la Secretaría de Finanzas.
+###### ARTICULO 65-O.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+El impuesto del ejercicio se calculará anualmente y se pagará a la tasa que establezca anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a la totalidad de los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta ley en ese ejercicio. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año a que se refiere el artículo anterior. La declaración del ejercicio deberá presentarse a más tardar el día 30 de abril del año siguiente al que corresponda el pago en las oficinas o instituciones de crédito autorizadas por la Secretaría de Finanzas.
 
-###### ARTICULO 65-F.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-F], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-En las operaciones de fideicomiso por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente aun cuando el fideicomisario sea una persona distinta, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir del fiduciario el bien inmueble, en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho a readquirir el bien inmueble.
+###### ARTICULO 65-P.
 
-La institución fiduciaria efectuará pagos provisionales de este impuesto por cuenta de aquel a quien corresponda el rendimiento en los términos del párrafo anterior, mediante declaración mensual, que presentará ante las oficinas autorizadas en los términos previstos en el artículo 65-D de esta Ley.
+En las operaciones de fideicomiso por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente aun cuando el fideicomisario sea una persona distinta, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir del fiduciario el bien inmueble en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho a readquirir el bien inmueble.
 
-La institución fiduciaria presentará ante las oficinas autorizadas a mas tardar el último día de febrero de cada año, declaración proporcionando información sobre el nombre, clave de registro estatal de contribuyentes, rendimientos, pagos efectuados de este impuesto y deducciones, relacionados con cada una de las personas a las que les correspondan los rendimientos, durante el año de calendario que corresponda.
+La institución fiduciaria efectuará pagos provisionales de este Impuesto por cuenta de aquel a quien corresponda el rendimiento en los términos del párrafo anterior, mediante declaración mensual, que presentará ante las oficinas autorizada en los términos previstos en el articulo 65-N de esta Ley.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+La institución fiduciaria presentará ante las oficinas autorizadas a más tardar el último día de febrero de cada año, declaración proporcionando sobre el nombre, clave de registro estatal de contribuyentes, rendimientos, pagos efectuados de este impuesto y deducciones, relacionados con cada una de las personas a las que les correspondan los rendimientos, durante el año de calendario que corresponda.
 
-###### ARTICULO 65-G.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-G], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-Los contribuyentes que obtengan ingresos de los señalados en este capítulo, además de efectuar los pagos de este impuesto, tendrán las siguientes obligaciones:
+###### ARTICULO 65-Q.
 
-I.- Solicitar su inscripción en el registro estatal de contribuyentes;
+Los contribuyentes que obtengan ingresos de los señalados en esta Sección, además de efectuar los pagos de este impuesto, tendrán las siguientes obligaciones:
 
-II.- Llevar contabilidad de conformidad con el Código Fiscal del Estado y de la Federación. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35% a que se refiere el artículo 65-C fracción VI, segundo párrafo de esta Ley;
+I. Solicitar su inscripción en el registro estatal de contribuyentes:
 
-III.- Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código Fiscal de la Federación, por las contraprestaciones recibidas; y
+II. Llevar contabilidad de conformidad con el Código Fiscal del Estado y de la Federación. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35% a que se refiere el artículo 65-M segundo párrafo de esta Ley;
 
-IV.- Presentar declaraciones en los términos de esta Ley.
+III. Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código Fiscal de la Federación y del Estado, por las contraprestaciones recibidas; y
 
-Cuando los ingresos a que se refiere este capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto.
+IV. Presentar declaraciones en los términos de esta Ley.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+Cuando los ingresos a que se refiere esta Sección sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto.
 
-###### ARTICULO 65-H.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-H], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-Las autoridades fiscales, podrán determinar presuntivamente la utilidad gravable y en su caso determinar el impuesto omitido de los contribuyentes, y para ello podrán aplicar a los ingresos brutos declarados o determinados presuntivamente, el coeficiente deL (sic) 39% por el otorgamiento del uso o goce temporal de inmuebles.
+###### ARTICULO 65-R.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+Las autoridades fiscales, podrán determinar presuntivamente la utilidad gravable y en su caso determinar el impuesto omitido de los contribuyentes, y para ello podrán aplicar a los ingresos brutos declarados o determinados presuntivamente, el coeficiente del 39% por el otorgamiento del uso o goce temporal de inmuebles.
 
-###### ARTICULO 65-I.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-I], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
-Cuando una persona física realice en el año calendario erogaciones superiores a los ingresos que hubiere declarado en ese mismo año, se procederá de la siguiente forma:
+###### ARTICULO 65-S.
 
-I.- La autoridad comprobará el monto de las erogaciones y la discrepancia con la declaración del contribuyente y darán a conocer a éste el resultado de dicha comprobación;
-
-II.- El contribuyente, en un plazo de quince días, informará por escrito a las autoridades fiscales las razones que tuviera para inconformarse o el origen que explique la discrepancia y ofrecerá las pruebas que estimare convenientes, las que acompañará a su escrito o rendirá a más tardar dentro de los veinte días siguientes. En ningún caso los plazos para presentar el escrito y las pruebas señaladas excederán, en su conjunto, de treinta y cinco días; y
-
-III.- Si no se formula inconformidad o no se prueba el origen de la discrepancia, ésta se estimará ingreso de los señalados en el Capítulo que corresponda a aquél en el cual el contribuyente hubiere obtenido mayores ingresos en el año de que se trate y se formulará la liquidación respectiva;
-
-Para los efectos de este artículo, se consideran erogaciones, los gastos, las adquisiciones de bienes y los depósitos en inversiones financieras. No se tomarán en consideración los depósitos que el contribuyente efectúe en cuentas que no sean propias, que califiquen como erogaciones en los términos de este artículo, cuando se demuestre que dicho depósito se hizo como pago por la adquisición de bienes o de servicios, o como contraprestación para el otorgamiento del uso o goce temporal de bienes o para realizar inversiones financieras ni los traspasos entre cuentas del contribuyente o a cuentas de su cónyuge, de sus ascendientes o descendientes, en línea recta en primer grado.
+Cuando una persona física realice en el año calendario erogaciones superiores a los ingresos que establece esta Sección que hubiere declarado en ese mismo año, se procederá en los términos establecidos en el Artículo 65-B de esta Ley.
 
 Cuando el contribuyente obtenga ingresos de los previstos en esta Ley y no presente declaración anual estando obligado a ello, se aplicará este precepto como si la hubiera presentado sin ingresos. Tratándose de contribuyentes que no estén obligados a presentar declaración del ejercicio, se considerarán, para los efectos del presente artículo, los ingresos que los retenedores manifiesten haber pagado al contribuyente de que se trate.
 
@@ -1248,3 +1340,7 @@ El presente Decreto de adiciones y modificaciones entrará en vigor el día 1º 
 P.O. 4 DE JULIO DE 2007.
 
 Artículo Único.- El presente decreto de reformas y adiciones entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día 1° de Enero del año dos mil ocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
