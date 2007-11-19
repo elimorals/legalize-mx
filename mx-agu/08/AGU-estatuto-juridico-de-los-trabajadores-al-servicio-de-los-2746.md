@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2001-10-22"
+last_updated: "2007-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2007.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -419,9 +419,13 @@ Son días de descanso obligatorio:
 
 I.- El primero de enero;
 
-II.- El cinco de febrero;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
-III.- El veintiuno de marzo;
+II.- El primer lunes de febrero en conmemoración del 5 de febrero;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+III.- El tercer lunes de marzo en conmemoración del 21 de marzo;
 
 IV.- El primero de mayo;
 
@@ -429,7 +433,9 @@ V.- El veintitrés de junio;
 
 VI.- El dieciséis de septiembre;
 
-VII.- El veinte de noviembre;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+VII.- El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
 VIII.- El primero de diciembre de cada seis años, cuando corresponda el cambio del Poder Ejecutivo Federal;
 
@@ -1692,3 +1698,9 @@ SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presen
 P.O. 22 DE OCTUBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
