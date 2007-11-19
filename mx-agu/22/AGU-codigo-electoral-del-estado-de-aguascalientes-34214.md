@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-34214"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-10-01"
-last_updated: "2006-01-23"
+last_updated: "2007-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 1 de octubre de 2003.
 
@@ -1629,7 +1629,13 @@ El reglamento señalará los cargos que deberán ser ocupados por los miembros d
 
 El Poder Legislativo se deposita en el Congreso del Estado, el cual estará integrado por dieciocho diputados electos, según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y hasta nueve diputados electos según el principio de representación proporcional, mediante el sistema de listas en una circunscripción plurinominal cuya demarcación es el Estado.
 
-La distribución y delimitación territorial de los distritos electorales uninominales será determinada por el Consejo mediante fórmula que obedezcan a un criterio poblacional, la cual se obtendrá dividiendo el número total de población determinada por el último Censo General de Población entre el número total de distritos de mayoría relativa, pudiendo ajustar el cociente resultante en más menos veinte por ciento, buscando siempre la contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+La distribución y delimitación territorial de los distritos electorales uninominales será determinada por el Consejo mediante fórmula que obedezca a un criterio poblacional, la cual se obtendrá dividiendo el número total de la población del Estado, entre el número total de distritos de mayoría relativa, pudiendo ajustar el cociente resultante en más menos veinte por ciento, buscando siempre la contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+La población total del Estado será la que determine el INEGI, a través de los Censos Generales de Población, información que podrá ser completada y actualizada con los datos que se tengan al momento de revisión o adecuación, y que proporcione el propio Instituto Nacional de Estadística, Geografía e Informatica, a través de los censos y conteos de población, o en su defecto los emitidos por el Consejo Estatal de Población.
 
 El Congreso del Estado se renovará en su totalidad cada tres años.
 
@@ -3722,3 +3728,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 La Redistritación estatal deberá ser difundida ampliamente en todo el Estado para el debido conocimiento de los habitantes del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2007.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
