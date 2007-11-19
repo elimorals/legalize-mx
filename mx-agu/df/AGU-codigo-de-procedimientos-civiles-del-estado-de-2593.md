@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2007-04-16"
+last_updated: "2007-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -433,11 +433,21 @@ La nulidad de una actuación debe reclamarse en la actuación subsecuente en que
 
 Las nulidades a que se refiere el artículo anterior se promoverán ante el mismo Juez o Tribunal que conozca del negocio y de la petición se dará vista a la contraria por el término de tres días. Si la parte contraria estuviere conforme, se declarará desde luego la nulidad de lo actuado desde la actuación o notificación que se reclama. Si no se manifestare conformidad o nada expresa, se convocará a una audiencia que tendrá verificativo a más tardar dentro de cinco días en la que los interesados podrán presentar las pruebas que tuvieren y que se puedan desahogar en la misma audiencia, en la que se resolverá lo que procediere sin recurso alguno, salvo que se trate de nulidades por defecto de emplazamiento, de citación para absolver posiciones o para reconocimiento de documentos, en estos casos procederá en contra de la resolución del incidente el recurso de apelación.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 69.
 
-En cualquier estado del negocio podrán los jueces o tribunales citar a las partes a las juntas que crean convenientes, ya sea para procurar su avenimiento o para esclarecer algún punto, sin que se suspendan los términos que estén corriendo.
+En cualquier estado del negocio podrán los jueces citar a las partes a las juntas que crean convenientes, procurar su avenimiento o para establecer algún punto sin que se suspendan los términos que están corriendo, en todo caso estas juntas así como la etapa de conciliación en los juicios únicos civiles se sujetarán a las siguientes reglas:
 
-Estas juntas, lo mismo que todas las diligencias, se verificarán en el juzgado o tribunal, a menos de que por su propia naturaleza deban practicarse en otro lugar, o cuando por razón del sexo, edad, enfermedad y otra circunstancia grave de las personas que deban intervenir, el juzgado o tribunal designe lugar diverso.
+I.- Los litigantes comparecerán en forma personal, para cuyo efecto el juez podrá aplicar las medidas de apremio que juzgue necesarias a fin de que aquellos concurran a dicha audiencia;
+
+II.- El juez intervendrá personalmente en la celebración de pláticas entre los litigantes y exhortará a las mismas para que procuren llegar a un arreglo conciliatorio, para lo cual platicará en forma reservada exclusivamente con la presencia de los litigantes;
+
+III.- Si los litigantes llegaren a un acuerdo dará por terminado el conflicto siempre y cuando no afecten intereses de menores de edad, en cuyo caso ordenará dar vista a la Representación Social y al tutor si lo hubiere y si estos manifestaren su conformidad aprobará el convenio respectivo;
+
+IV.- De manifestar los litigantes su inconformidad con todo arreglo se llamará a los abogados, apoderados y asesores de las partes a quienes se hará una exhortación para el efecto de tratar de avenirlas;
+
+V.- Tratándose del Juicio Único Civil la audiencia prevista por el Artículo 353 del Código Procesal Civil no se suspenderá por la inasistencia de las partes a la etapa de conciliación.
 
 ###### ARTICULO 70.
 
@@ -1233,79 +1243,97 @@ Si no comparece a la segunda citación ni alegare justa causa que se lo impida, 
 
 El documento privado que contenga deuda líquida y sea de plazo cumplido, dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en el caso de no hacerse aquél en el momento de la diligencia; pero siempre será necesario que previamente se intime al deudor para que reconozca su firma ante el ejecutor, en el mismo acto. Cuando intimado dos veces rehuse contestar si es o no suya la firma, se tendrá por reconocida.
 
-### CAPITULO III. Del Depósito de Persona como Acto Prejudicial
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+### CAPITULO III. De la Separación Provisional de los Cónyuges
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 186.
 
-La mujer casada puede pedir su depósito cuando, viviendo al lado de su marido, intente demandarlo o acusarlo; también podrá el marido pedir su propia separación del domicilio conyugal cuando vivan juntos e intente a su vez demandarla o acusarla.
+La persona que intente acción de divorcio, denuncia o querella en contra de su cónyuge, puede solicitar la suspensión provisional de la obligación de cohabitar con su cónyuge al Juez competente, expresando las causas de la misma y especificando si hay o no menores.
+
+El juez podrá llevar a cabo las diligencias que estime convenientes para su mejor juicio y podrá decretar dicha suspensión, tomando en cuenta las circunstancias personales de cada uno de los cónyuges, el interés superior de los hijos menores y de los sujetos a tutela, y dictará las medidas necesarias para asegurar la subsistencia de aquellos a quienes haya la obligación de dar alimentos, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+
+El juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores o de alimentos, y para el caso de violencia familiar, el juez valorará los dictámenes, informes y opiniones que hubieren realizado las instituciones publicas, o privadas dedicadas a atender asuntos de esta índole.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 187.
 
-Solamente los jueces de lo Civil o de lo Familiar podrán decretar el depósito de que se habla en el artículo anterior.
+El juez procurará, tomando en cuenta las circunstancias de cada caso, que continué habitando el domicilio conyugal, preferentemente; el cónyuge que conserve a su cuidado a los hijos si los hubiere, pudiendo este último escoger en su derecho, un lugar diferente si así lo desea; debiendo el juez vigilar que ello sea sin perjuicio de los hijos menores si los hay. Esta resolución no admitirá recurso alguno.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 188.
 
-Presentada la solicitud, el juez hará ordenar su ratificación sin que éste presente el otro cónyuge. Hecha la ratificación, autorizará la separación del marido; o en el caso de la mujer, designará desde luego la persona que haya de encargarse del depósito y trasladándose al domicilio los muebles necesarios para vivir separada, tomando en cuenta si van a vivir a su lado sus hijos, así como su ropa. Si hubiere cuestión sobre cuáles cosas deban entregarse al cónyuge que se separa, el juez, teniendo en cuenta las circunstancias de las personas, resolverá de plano y sin ulterior recurso, las que haya de llevarse el interesado.
+Sólo los Jueces de lo Civil, Familiar o Mixtos, en su caso, pueden decretar la separación provisional de que hablan los Artículos anteriores, a no ser que por circunstancias especiales, no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar donde el cónyuge se encuentre, podrá decretar la separación provisional, remitiendo las diligencias al competente.
 
-La mujer podrá presentar solicitud de depósito verbalmente y si la urgencia del caso amerita, el juez deberá proceder con toda rapidez.
+ARTICULO 188 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2007)
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+ARTICULO 188 TER.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2007)
 
-ARTICULO 188 BIS.- El Juez podrá practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En el caso de violencia familiar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
-
-ARTICULO 188 TER.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 189.
 
-Practicado todo lo que queda prevenido en los artículos anteriores, el juez personalmente extraerá a la mujer de la casa del marido y la llevará a la casa del depositario.
+En la solicitud, que puede ser escrita o verbal, se señalarán las causas en que se funda, el domicilio en donde habitará el cónyuge que solicita la separación, la existencia de hijos menores y se expondrán las demás circunstancias del caso. Si la urgencia del caso lo amerita, el Juez debe proceder de inmediato.
 
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 190.
 
-En el mismo acto de la diligencia intimará el juez al marido que no moleste a su mujer ni al depositario, bajo apercibimiento de procederse contra él a lo que hubiere lugar.
+Admitida y ratificada la solicitud, y previa citación del otro cónyuge, el Juez dictará las medidas conducentes a efecto de llevar a cabo la separación pudiendo trasladarse al domicilio conyugal o lugar donde habiten los cónyuges para tal efecto, resolviendo en el acto, y acorde a las circunstancias de las personas, cuales bienes deban entregarse al cónyuge que salga del domicilio conyugal y se le apercibirá para que señale el domicilio donde habitará o en su defecto un domicilio convencional para los efectos de esta medida; en caso de no hacerlo así, las posteriores notificaciones se le practicarán por estrados. En ese mismo acto, el Juez deberá decretar todas las diligencias y prevenciones que sean necesarias para proteger a los hijos menores, si los hubiere, escuchando la opinión de los mismos, determinando quien quedará al cuidado de los hijos.
 
-Independientemente de lo anterior, el juez puede dictar las medidas que estime prudentes a efecto de evitar las molestias contra la mujer y el depositario.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 191.
 
-La casa donde se deposite a la mujer casada será en todo caso designada por el juez a propuesta de la mujer y debe de ser el depositario persona de notoria honorabilidad y buenas costumbres.
+El Juez resolverá de inmediato sobre la solicitud y dictará las medidas necesarias para que se realice la separación provisional, pudiendo modificar esas medidas según las circunstancias de cada caso, previo trámite incidental.
+
+La separación provisional de los cónyuges durará hasta que se resuelva definitivamente la acción de divorcio, denuncia o querella.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 192.
 
-Si los consortes tuvieren hijos menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado; en defecto de este acuerdo el juez resolverá provisionalmente, debiendo en todo caso quedar al cuidado de la madre los hijos menores de cinco años.
+En la resolución, el Juez fijará el término que tiene la persona que solicitó su separación para intentar la acción correspondiente, no pudiendo exceder de quince días hábiles. Dicho término podrá ser prorrogado por una sola vez, a criterio del Juez que lo decretó, y previa petición del interesado, hasta por quince días adicionales, contados a partir de que cause efectos el auto que se dicte para dicha prórroga.
 
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 1989)</small>
-
-Cualquiera reclamación de los consortes sobre el depósito de los hijos se substanciará y decidirá en forma incidental, sin ulterior recurso.
-
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 193.
 
-Al día siguiente de constituido el depósito mandará el juez intimar al marido o a la mujer en su caso, apercibiéndolos de que si dentro de diez días no acreditaren haber intentado la demanda o la acusación, se levantará el depósito.
+Al mismo tiempo de decretada la separación provisional mandará el Juez prevenir al cónyuge que la hubiere solicitado, que si dentro de la vigencia de la separación no acredita haber intentado la demanda, quedará sin efectos, informándose al cónyuge que se hubiere separado la autorización para su inmediata reincorporación al domicilio conyugal, pudiendo en ese caso, hacer valer sus derechos correspondientes. Estas providencias se notificarán a ambos cónyuges.
 
-Esta providencia se notificará en forma personal a la mujer y al marido.
+Para presentar la demanda respectiva a que alude este Artículo, el cónyuge que hubiera solicitado su separación provisional, deberá interponerla directamente ante el mismo juzgado que haya conocido del acto prejudicial.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 194.
 
-Al depositario se dará copia certificada de la constitución del depósito para su resguardo.
+Prevendrá el juez a cualquiera de los cónyuges a que estén a lo dispuesto y se abstengan en su caso de molestar al otro cónyuge en su nuevo domicilio o en el anterior, bajo apercibimiento de procederse contra él a lo que hubiere lugar.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 195.
 
-El término señalado en el artículo 193 podrá prorrogarse si se acreditare que por causa no imputable a la mujer, cuando ésta lo solicitó, ha sido imposible intentar la acción contra el marido.
+Si transcurridos treinta días contados a partir de que cause efectos el auto que otorgó la medida, y no se gestiona la materialización de la misma, se ordenará de plano el archivo definitivo del asunto.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 196.
 
-Las peticiones que puedan formularse por la mujer, por el marido o por el depositario sobre variación del depósito, o cualesquiera otros incidentes a que éste puede dar lugar, se substanciarán como se previene para la tramitación de los incidentes.
+No acreditándose haber intentado la demanda o acusación dentro del término señalado, a solicitud de la parte interesada, se decretará de plano sin efectos la separación provisional.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 197.
 
-El depósito durará hasta que se resuelva definitivamente, la demanda o acusación.
+Si el juez que decretó la separación provisional no fuera el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuera competente, quien las confirmará o proveerá lo conducente.
 
-Esta providencia se notificará en forma personal a la mujer y al marido.
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 197 BIS.- Lo dispuesto por los Artículos que preceden se aplicará igualmente a las personas que vivan juntas y hayan procreado hijos que sean menores de edad o mayores incapacitados.
 
 ### CAPITULO IV. De la Consignación
 
@@ -1560,6 +1588,22 @@ Los terceros están obligados, en todo tiempo, a prestar auxilio a los tribunale
 Los tribunales tienen la facultad y el deber de compeler a terceros, por los medios de apremio más eficaces, para que cumplan con esta obligación; pero, en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.
 
 De la mencionada obligación están exentos los ascendientes, descendientes, cónyuges y personas que deben guardar secreto profesional, en los casos en que se trate de probar contra la parte con la que están relacionados.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 242 BIS.- En los juicios en que puedan ser afectados sus intereses los menores de edad, tendrán derecho a emitir su opinión, cuando estén en condiciones de formarse un juicio propio, para tal efecto el juez de oficio o a petición de parte ordenará sean escuchados conforme a las siguientes reglas:
+
+I.- Se señalará día y hora para que tenga verificativo la audiencia con el único fin de escuchar al o los menores;
+
+II.- Ordenará que los menores sean presentados por la persona que los tenga bajo su cuidado;
+
+III.- A dicha audiencia deberán comparecer el agente del ministerio público, el tutor designado a los menores, el juez deberá asesorarse de un perito psicólogo que nombrará de entre los adscritos al Poder Judicial del Estado;
+
+IV.- El o los menores deberán ser escuchados sin la presencia de sus progenitores, litigantes, representantes, apoderados o abogados patronos;
+
+V.- Emitida la opinión de los menores, la que se asentará en el acta respectiva, el agente del ministerio público y el tutor, podrán hacer las observaciones que estimen convenientes y el perito en psicología emitirá un dictamen respecto de la madurez intelectual del menor, si en su concepto el menor ha expresado libremente su opinión y las medidas que a su juicio resulten convenientes al interés superior de éste;
+
+VI.- Hecho lo anterior, el juez mandará llamar a los litigantes si éstos comparecieron a la audiencia quienes podrán hacer las observaciones que estimen convenientes en relación a la opinión vertida por él o los menores, de la representación social y del tutor, así como del dictamen vertido por el perito.
 
 > <small>(F. DE E., P.O. 27 DE AGOSTO DE 1989)</small>
 
@@ -1965,6 +2009,34 @@ En caso de oposición del perito a la recusación, de resultar fundada ésta, se
 
 Contra la resolución que decida o deseche la recusación no procede recurso alguno.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 307 A.- Para el desahogo de la prueba pericial genética, en los juicios de investigación de la filiación, se considerarán los lineamientos siguientes:
+
+I.- El juez ordenará de oficio a las partes la realización de la prueba pericial genética, bajo apercibimiento que en caso de negativa injustificada del demandado de someterse a la realización de la prueba pericial genética, configura una presunción en su contra. Las partes podrán ofrecer la prueba pericial genética apegándose a las reglas generales previstas en el Artículo 297 de este Código;
+
+II.- La prueba que ordene el juez deberán ser practicadas por el servicio médico legal de la Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado o por cualquier institución pública que cuente con especialidad para ello y se encuentre debidamente registrada ante el Supremo Tribunal de Justicia del Estado, y deberán realizarse con absoluto respeto a la dignidad de la persona que deba sujetarse a ella y sin que pueda en ningún caso constituir, en sí misma o por la forma de realizarla, un trato inhumano o degradante;
+
+III.- El juez solicitará las pruebas genéticas a quien, en razón de su especialidad técnica, deba practicarlas, indicando la fecha y hora en que las muestran (sic) de material genético deban ser tomadas en el local del juzgado, o bien, podrá autorizar que sean tomadas en lugar diverso en cuyo caso decretará las providencias necesarias para que sean debidamente identificadas;
+
+IV.- Una de las muestras a que se refiere la Fracción anterior, permanecerá en cadena de custodia en la Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado, hasta que la sentencia dictada en el juicio respectivo haya causado ejecutoria.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 307 B.- El Juez deberá proveer lo necesario para el desahogo de la prueba pericial genética o cualquier otra que resulte necesaria o idónea. El costo lo deberá asumir quien solicite la prueba, salvo que, a quien negando su filiación le resulte positiva, en cuyo caso éste cubrirá el costo.
+
+Se exceptuará el pago del costo de la prueba a quien, previo estudio socio económico realizado por Institución Pública, se determine que no tiene la capacidad económica para realizarlo.
+
+En caso de que exista la presentación de esta prueba por ambas partes y que una vez desahogada existan resultados contradictorios, el Juez ordenará la realización sin costo para los promoventes de una nueva prueba pericial genética, la cual deberá ser realizada exclusivamente en la Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado y cuyos resultados serán los que prevalezcan como validos.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 307 C.- La Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado, en conjunto con el Instituto de Salud del Estado de Aguascalientes, elaborarán la reglamentación de la Prueba Pericial Genética a fin de establecer los procedimientos técnicos y especificaciones que garanticen la veracidad de la prueba.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 307 D.- El juez decidirá con base a los resultados de la prueba pericial genética o del indicio emergente derivado de la negativa a someterse a ella, la filiación que considere más verosímil, tomando en consideración las demás pruebas que obran en autos y, en su caso, la posesión de estado.
+
 ### CAPITULO VI. Reconocimiento o Inspección Judicial
 
 ###### ARTICULO 308.
@@ -2163,9 +2235,11 @@ El documento que un litigante presente, prueba plenamente en su contra.
 
 Los documentos privados provenientes de tercero sólo harán prueba si la verdad de su contenido se demuestra con otras pruebas y tendrán el valor que merezcan estas pruebas.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 347.
 
-El valor de la prueba pericial quedará a la prudente apreciación del tribunal.
+El valor de la prueba pericial quedará a la prudente apreciación del Tribunal. Tratándose de la prueba pericial genética hará prueba plena.
 
 ###### ARTICULO 348.
 
@@ -3609,21 +3683,29 @@ Los juicios que versen sobre pago o aseguramiento de alimentos se tramitarán co
 
 En los casos de los artículos 294 y 304 del Código Civil, se observarán las disposiciones relativas de este procedimiento.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 572.
 
-Si al promoverse el juicio también se demanda la fijación y aseguramiento de alimentos provisionales, el juez sin correr traslado a la contraparte ordenará desde luego que el demandante acredite suficientemente la urgencia y necesidad de la medida y que justifique aproximadamente, cuando menos, el caudal del que deba darlos.
+Si al promoverse el juicio también se demanda la fijación y aseguramiento de alimentos provisionales el Juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional mientras se resuelve el juicio.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 573.
 
-En vista de los títulos presentados para fundar la demanda y una vez justificados los extremos de que se habla en el artículo anterior, el juez si estima fundada la solicitud, dictará resolución fijando la suma en que deben consistir los alimentos provisionales y mandará abonarlos, por mensualidades anticipadas, mientras se resuelve en definitiva.
+Determinado el monto de la pensión alimenticia provisional si el deudor labora para alguna empresa o institución, girará oficio al patrón, ordenándole que de los salarios o percepciones del deudor alimentario, efectúe el descuento por pensión alimenticia decretado mismo que deberá entregar al acreedor alimentista en forma mensual o con la misma periodicidad en que el deudor perciba sus ingresos y en el mismo auto ordenará se emplace al demandado para que conteste la demanda en el término de nueve días y seguirá el juicio por los demás trámites.
+
+Si el deudor no labora para patrón determinado o a petición del acreedor, se ordenará requerir al que deba cubrir los alimentos por el pago de la primera mensualidad y para que garantice las subsecuentes y si no lo hace en el acto de la diligencia, se procederá a embargar bienes bastantes a garantizarlos, hecho lo cual se le emplazará a juicio.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 574.
 
-Contra la resolución en que se otorguen los alimentos provisionales, no habrá recurso alguno y contra la que los deniegue procederá el de queja. El monto de la pensión podrá ser modificado en vía incidental.
+Contra la resolución en que se otorguen los alimentos provisionales, no habrá recurso alguno y contra el que los deniegue procederá el de queja. El monto de la pensión provisional y aún la definitiva podrá ser modificado en vía incidental, y contra la resolución procederá el recurso de queja.
 
 ###### ARTICULO 575.
 
-Inmediatamente que se dicte sentencia otorgando los alimentos provisionales, se requerirá al que deba cubrirlos por el pago de la primera mensualidad y si no lo verifica en el acto de la diligencia, se procederá a embargar bienes bastantes a cubrir su importe. Hecho el embargo, se emplazará en forma al demandado para que conteste la demanda en el término de nueve días y seguirá el juicio por los demás trámites.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 576.
 
@@ -3769,9 +3851,11 @@ Los procedimientos sobre nulificación, reposición o rectificación de las acta
 
 En estos procedimientos serán oídos el Oficial del Registro Civil donde pasó el acta cuya modificación se reclama y el Ministerio Público, así como los demás interesados que se presenten a oponerse.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 600.
 
-El emplazamiento se hará a todos los interesados cuyo domicilio fuere conocido y se publicará además un extracto de la demanda por tres veces, de siete en siete días, en el Periódico Oficial del Estado y en un diario de circulación estatal, llamando a los interesados a oponerse, quienes tendrán derecho a intervenir en el negocio, cualquiera que sea el estado del mismo, mientras no exista sentencia ejecutoria.
+El emplazamiento se hará a todos los interesados cuyo domicilio fuere conocido y se publicará además un extracto de la demanda por una sola vez en el Periódico Oficial del Estado y en un diario de circulación Estatal, llamando a los interesados a oponerse, quienes tendrán derecho a intervenir en el negocio, cualquiera que sea el estado del mismo, mientras no exista sentencia ejecutoria.
 
 ###### ARTICULO 601.
 
@@ -3793,11 +3877,11 @@ Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, 
 
 Los consortes que de común acuerdo resuelvan divorciarse y se encuentren en el caso previsto en el párrafo final del artículo 294 del Código Civil, presentarán ante el juez competente su solicitud, el convenio que menciona el artículo 295 del mismo Código, las actas que acrediten el estado civil de los promoventes y el de sus hijos y copia simple de la promoción y demás documentos.
 
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 605.
 
-El juez examinará la solicitud y el convenio y si encuentra que ésta reúne los requisitos que señala el artículo 295 del Código Civil, citará a los solicitantes para que personalmente se presenten a ratificarlo dentro de un término de no menor de cinco días ni mayor de diez.
+El Juez examinará la solicitud y el convenio y si encuentra que esta reúne los requisitos que señala el Artículo 295 del Código Civil, ordenará que los promoventes se presenten al Centro de Mediación del Poder Judicial, donde se procurará avenirlos y se les hará saber las consecuencias del divorcio y de lo que deberá informar el Centro de Mediación, si se logra su avenimiento se archivará el asunto como concluido y para el caso de que los cónyuges persistan en divorciarse el Juez dará vista de la solicitud y demás documentos al Agente del Ministerio Público para que en un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y el convenio, así como las razones en que se funde.
 
 ###### ARTICULO 606.
 
@@ -4961,7 +5045,9 @@ III.- Por sus presuntos herederos legítimos;
 
 IV.- Por el ejecutor testamentario; y
 
-V.- Por el Ministerio Público y los Consejos de Tutelas.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+V.- Por el Ministerio Público y la Procuraduría de la Defensa del Menor y la Familia en el Estado.
 
 ###### ARTICULO 798.
 
@@ -5011,7 +5097,9 @@ II.- El estado de demencia puede probarse por testigos o documentos; pero en tod
 
 III.- El que promueva dolosamente la interdicción, incurrirá en las penas que la ley impone por falsedad y difamación y sin perjuicio de la responsabilidad civil en que incurra; deberá pagar una multa de diez a noventa días de salario mínimo general vigente en el Estado, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino; y
 
-IV.- Luego que cause ejecutoria la sentencia de interdicción, el juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, o hará el nombramiento de tutor en los casos que para ello está legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+IV.- Luego que cause ejecutoria la sentencia de interdicción, el Juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley pudiendo recaer dicho nombramiento en el promovente en caso de que le corresponda la tutela legítima, o hará el nombramiento de tutor en los casos que para ello este legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior, lo mismo se observará para el nombramiento de curador definitivo.
 
 ###### ARTICULO 804.
 
@@ -5337,15 +5425,17 @@ El juez admitirá la excusa si la encuentra debidamente fundada y mandará reque
 
 ###### ARTICULO 865.
 
-El menor que hubiere cumplido catorce años, sus parientes y a falta de éstos el Ministerio Público, podrá solicitar del juez la declaración de la pérdida de la patria potestad en los casos del artículo 466 del Código Civil. El juez, tan luego como reciba la solicitud, citará a las partes interesadas a una audiencia dentro del tercer día. Si el que ejerce la patria potestad está conforme con el hecho denunciado, se hará la declaración correspondiente y se llamará al sustituto al ejercicio de ese derecho.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 866.
 
-La oposición se resolverá incidentalmente; debiendo el juez dictar las medidas provisionales que estime necesarias para el depósito de los hijos y el aseguramiento de los bienes. La resolución que decida el incidente es apelable.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 867.
 
-El ascendiente que pierda la patria potestad en ningún caso podrá ser llamado a la tutela del menor.
+El ascendiente que renuncie o que pierda la patria potestad en ningún caso podrá ser llamado a la tutela del menor de edad.
 
 ### CAPITULO X. Apeo y Deslinde
 
@@ -5355,9 +5445,15 @@ Podrá decretarse el depósito:
 
 I.- De menores o incapacitados sujetos a patria potestad o a tutela, si son maltratados por sus padres o tutores o reciben de éstos ejemplos perniciosos o son obligados por ellos a cometer actos reprobados por la ley;
 
-II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo encargo estuvieren; y
+II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo encargo estuvieren; y (sic)
 
-III.- De la mujer menor de edad que deseando contraer matrimonio necesite acudir a la autoridad judicial para que supla el consentimiento de sus padres o tutores.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+III.- Del cónyuge menor de edad que deseando contraer matrimonio necesite acudir a la autoridad judicial para que supla el consentimiento de sus tutores; y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+IV.- De cualquier persona que sea victima de violencia familiar.
 
 ###### ARTICULO 869.
 
@@ -5365,7 +5461,9 @@ En los casos de la fracción I del artículo anterior, para decretar el depósit
 
 I.- Que lo solicite por escrito el interesado, o el Ministerio Público; y
 
-II.- Que se justifiquen los malos tratamientos, ejemplos perniciosos o abusos de los ascendientes o tutores.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+
+II.- Que se justifiquen los malos tratamientos, ejemplos perniciosos, abusos de los ascendientes o tutores, o de violencia familiar.
 
 Estos hechos podrán acreditarse con información testimonial.
 
@@ -5670,3 +5768,13 @@ Una vez implementado el sistema de Protocolo Abierto dentro del plazo establecid
 ###### ARTICULO CUARTO.
 
 El Protocolo a cargo de los notarios que opten por el sistema de Protocolo Cerrado en los términos del artículo anterior, se regirá conforme a la normatividad aplicable antes de las presentes reformas, por lo que para efectos administrativos y operativos, dicha normatividad continuará vigente hasta el día treinta y uno de diciembre del año dos mil siete.
+
+P.O. 19 DE NOVIEMBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado y el Instituto de Salud del Estado de Aguascalientes, tendrán 30 días hábiles para elaborar el Reglamento a que hace alusión el Artículo 307 C del presente Decreto. Una vez publicado en el Periódico Oficial del Estado de Aguascalientes dicho Reglamento, se podrá iniciar con la realización de la prueba relativa.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
