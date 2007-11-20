@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-servicios-educativos-integrados-al-32011
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-10"
-last_updated: "2003-06-10"
+last_updated: "2007-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 10 de junio de 2003.
 
@@ -407,7 +407,13 @@ XIII. Impulsar la ejecución de programas de educación intercultural;
 
 XIV. Promover el diseño de medios y materiales educativos para apoyar los procesos de formación, actualización y superación docente;
 
-XV. Elaborar y difundir las convocatorias para la prestación del periodo sabático, así como recibir, analizar y evaluar los programas para la asignación del mismo, de conformidad con la normatividad aplicable; y
+> <small>(ADICIONADA, G.G. 20 DE NOVIEMBRE DE 2007)</small>
+
+XV. Otorgar becas comisión al personal de SEIEM, previo acuerdo con el Director General; y en su caso tramitar la contratación del personal sustituto;
+
+> <small>(REFORMADA, G.G. 20 DE NOVIEMBRE DE 2007)</small>
+
+XVI. Elaborar y difundir las convocatorias para la prestación del Período Sabático, así como recibir, analizar y evaluar los programas para la asignación del mismo de conformidad con la normatividad aplicable; y
 
 XVII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
@@ -567,7 +573,7 @@ VIII. Supervisar el proceso de pago de remuneraciones al personal de SEIEM;
 
 IX. Expedir documentos en materia de prestaciones de seguridad social y escalafón para el personal de SEIEM;
 
-X. Validar y someter a la consideración del Coordinador de Administración y Finanzas, el otorgamiento de becas comisión al personal del SEIEM y la contratación de personal substituto;
+X. (DEROGADA, G.G. 20 DE NOVIEMBRE DE 2007)
 
 XI. Vigilar la operación del sistema de promoción y desarrollo para el personal de apoyo y asistencia a la educación; y
 
@@ -706,3 +712,13 @@ M. EN C. EFREN ROJAS DAVILA
 DIRECTOR GENERAL DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 20 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al siguiente día de su publicación en el periódico oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+SEGUNDO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno"
+
+TERCERO.- Se derogan todas las disposiciones de igual rango que se opongan al presente Acuerdo.
