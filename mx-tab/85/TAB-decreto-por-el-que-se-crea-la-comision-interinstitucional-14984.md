@@ -4,7 +4,7 @@ identifier: "TAB-decreto-por-el-que-se-crea-la-comision-interinstitucional-14984
 country: "mx"
 rank: "decreto"
 publication_date: "1995-05-27"
-last_updated: "1995-05-27"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 DECRETO QUE CREA LA COMISION INTERINSTITUCIONAL PARA EL MEDIO AMBIENTE Y EL DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO 017 QUE REFORMA LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 21 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Decreto publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de mayo de 1995.
 
@@ -238,3 +240,35 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. J. MANUEL TELLAECHE BOSCH.
 
 SECRETARIO DE GOBIERNO.
+
+Dado en el Salón de Sesiones del Poder Legislativo, en la Ciudad de Villahermosa, Capital del Estado de Tabasco, a los veintiocho días del mes de abril del año de mil novecientos noventa y cinco.- Dip. CPA. Jorge Suárez Vela, Presidente.- Dip. Lic. Heberto Taracena Ruiz, Secretario.- Rúbricas.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Expedido en el Palacio del Poder Ejecutivo, en la Ciudad de Villahermosa, Capital del Estado de Tabasco, a los veintitrés días del mes de mayo del año de mil novecientos noventa y cinco.
+
+LIC. ROBERTO MADRAZO PINTADO.
+
+LIC. J. MANUEL TELLAECHE BOSCH.
+
+SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El personal, los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo utilizado por la Subsecretaría de Protección Ambiental y Desarrollo Sustentable adscrita a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca; y por la. Comisión Interinstitucional para el Medio Ambiente y el Desarrollo Social, así como los pasivos y obligaciones que ambas tuviesen, serán transferidos a la Secretaría de Recursos Naturales y Protección Ambiental, que se crea con motivo del presente Decreto. En consecuencia, el titular del Poder Ejecutivo del Estado en la integración de esta nueva Secretaría, deberá de observar los lineamientos que en materia de racionalidad, austeridad, ahorro y disciplina del gasto, emitió mediante acuerdo publicado en el Periódico Oficial del Gobierno del estado extraordinario número 38, de fecha 21 de Agosto del 2007.
+
+TERCERO.- Se abroga la Ley (sic) que crea la Comisión Interinstitucional para el Medio Ambiente y el Desarrollo Social, publicada en el Periódico Oficial del Estado el 27 de mayo de 1995.
+
+CUARTO.- Cuando en otras disposiciones legales se dé una denominación distinta a la dependencia que se prevé en el presente Decreto, cuyas funciones estén establecidas por el mismo, dichas atribuciones se entenderán concedidas para su ejercicio a la dependencia que en el presente se determina.
+
+QUINTO.- El Ejecutivo del Estado dictará y adoptará todas las medidas presupuestales y administrativas necesarias para garantizar el funcionamiento oportuno, en los términos del presente decreto, de la Secretaría de Recursos Naturales y Protección Ambiental.
+
+SEXTO.- Los procedimientos administrativos que actualmente se encuentran en trámite, ante la Subsecretaría de Protección Ambiental y Desarrollo Sustentable, adscrita a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca; así como en la Comisión Interinstitucional para el Medio Ambiente y el Desarrollo Social, se continuarán tramitando ante la Secretaría de Recursos Naturales y Protección Ambiental, conforme a las disposiciones que actualmente los rigen hasta su conclusión.
+
+SÉPTIMO.- El Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría de Recursos Naturales y Protección Ambiental en un periodo no mayor a 90 días, a partir de la aprobación del presente decreto.
+
+OCTAVO.- Se derogan todas las disposiciones que se .opongan al presente Decreto.
