@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-el-comite-de-construcciones-de-escuelas-antes-1198
 country: "mx"
 rank: "ley"
 publication_date: "1998-05-28"
-last_updated: "2006-08-02"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY QUE CREA EL COMITE DE CONSTRUCCIONES DE ESCUELAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 327, PUBLICADO EN EL P.O. 21 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el jueves 28 de mayo de 1998.
 
@@ -438,3 +440,33 @@ P.O. 2 DE AGOSTO DE 2006.
 Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo los Artículos Cuarto, Quinto y Sexto Transitorios del presente Decreto, los cuales entrarán en vigencia a partir del uno de enero del año dos mil ocho.
+
+Artículo Segundo.- Los recursos financieros, humanos y materiales, que hasta la entrada en vigor del presente Decreto tenían asignadas la Secretaria de Obras Publicas, la Secretaria de Comunicaciones y Transportes y la Contraloría General, serán transferidos a las Secretarías de Infraestructura y Vivienda, de Transportes y de la Contraloría, respectivamente.
+
+Artículo Tercero.- Los compromisos y procedimientos que a la fecha hubieren contraído la Secretaria de Obras Públicas, la Secretaria de Comunicaciones y Transportes, y la Contraloría General, así como las atribuciones que otras leyes les asignen, serán asumidos inmediatamente y se entenderán conferidas a las Secretarias de Infraestructura y Vivienda, de Transportes y de la Contraloría, respectivamente.
+
+Las menciones y las facultades de la Secretaría de Educación contenidas en otras leyes, reglamentos y en general en cualquier disposición normativa que refieran al Instituto del Deporte, se entenderán concedidas a la Secretaría de Desarrollo Social.
+
+Artículo Cuarto.- Se abrogan la Ley que Crea el Comité Administrador del Programa Estatal de Construcción de Escuelas, la Ley Orgánica del Instituto de Desarrollo Urbano y Promoción de Vivienda del Estado de Chiapas, el Decreto que crea la Comisión Estatal de Caminos, así como las reformas y adiciones de éstos y los ordenamientos que de ellos deriven; y se extinguen los organismos públicos descentralizados denominados Comité de Construcción de Escuelas, Instituto de la Vivienda, Comisión de Caminos y la Comisión Estatal de Agua y Saneamiento.
+
+Artículo Quinto.- Los recursos financieros, humanos y materiales que hasta la entrada en vigor del presente Artículo, tengan asignados el Comité de Construcción de Escuelas, el Instituto de Vivienda y la Comisión Estatal de Agua y Saneamiento, respectivamente, serán transferidos a la Secretaría de Infraestructura y Vivienda; igualmente serán transferidos los recursos materiales y financieros de la Comisión de Caminos, exclusivamente.
+
+Las obligaciones laborales del Comité de Construcción de Escuelas, el Instituto de Vivienda y la Comisión Estatal de Agua y Saneamiento, serán asumidas por la Secretaria de Infraestructura y Vivienda, respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
+
+Las obligaciones laborales de los trabajadores de la Comisión de Caminos, que por virtud del presente Decreto se extingue, serán atendidas conforme a lo dispuesto por la ley aplicable.
+
+Artículo Sexto.- Los compromisos, derechos y procedimientos que hubieren contraído y/o adquirido el Comité de Construcción de Escuelas, el Instituto de la Vivienda, la Comisión de Caminos y la Comisión Estatal de Agua y Saneamiento, así como las atribuciones que otras leyes les asignen, serán asumidos inmediatamente y, se entenderán conferidas a las Secretaría de Infraestructura y Vivienda, con excepción de lo dispuesto en el párrafo tercero, del articulo transitorio inmediato anterior.
+
+Los compromisos y derechos del instituto de la Vivienda, que con relación a créditos e intereses, terrenos, casas habitación y los demás que por ley comercializare éste con terceros, serán asumidos y adquiridos, por la Secretaría de Infraestructura y Vivienda, por lo que cualquier referencia que se haga en un contrato y/u otro documento que los contenga con relación al instituto de la Vivienda, se entenderá conferido a la Secretaría de Infraestructura y Vivienda.
+
+Artículo Séptimo.- La Secretaría de Infraestructura y Vivienda, en coordinación con las instancias normativas del Gobierno del Estado, llevaran a cabo las acciones relativas a promover la disolución y liquidación de los organismos públicos descentralizados que por virtud del presente Decreto se extinguen, en términos de las disposiciones aplicables.
+
+Artículo Octavo.- El presupuesto asignado para la obra publica a los organismos públicos descentralizados que por virtud del presente Decreto se extinguen, será ejercido hasta la conclusión del Ejercicio Fiscal 2007, conforme a las disposiciones presupuéstales, administrativas y contables, que resulten aplicables.
+
+Artículo Noveno.- Las Secretarias de Administración, de Finanzas y de Planeación y Desarrollo Sustentable, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que sean necesarias para la adecuación, integración y funcionabilidad, de la estructura orgánica y funcional de las dependencias que se crean.
+
+Artículo Décimo.- Se derogan las disposiciones legales que se opongan al presente Decreto, con las salvedades previstas en el mismo.
