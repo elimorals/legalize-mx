@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2007-08-23"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -667,6 +667,10 @@ XIX. Presentar iniciativas de leyes y/o decretos al Congreso del Estado para su 
 
 XX. Autorizar, de acuerdo a lo establecido en esta Ley y demás disposiciones aplicables, a propuesta del Presidente Municipal, la creación y supresión de dependencias, entidades y unidades administrativas para el mejor cumplimiento de los programas de obras y servicios públicos municipales;
 
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XX bis. Autorizar y establecer, a partir de la propuesta que las áreas técnicas, administrativas y financieras formulen, y con base en las leyes respectivas y las recomendaciones o lineamientos que expida el Congreso del Estado, directamente o por conducto de la Auditoría Superior de Michoacán, la política salarial del municipio, que deberá guardar congruencia en la estructura orgánica autorizada y observar los principios de austeridad, racionalidad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad;
+
 XXI. Resolver previo concurso, en los términos convenientes para la comunidad y de conformidad con las disposiciones aplicables, los casos de concesión de servicios públicos de su competencia; y,
 
 XXII. Establecer en las disposiciones reglamentarias correspondientes, las sanciones, multas o infracciones que procedan por la violación o incumplimiento de las disposiciones municipales.
@@ -732,6 +736,10 @@ X. En general, las demás que establece la Constitución Política de los Estado
 El desempeño del cargo de Presidente Municipal, Síndico y Regidor es obligatorio y su remuneración se fijará en el presupuesto de egresos del municipio, atendiendo los principios de racionalidad, austeridad y disciplina del gasto, así como la condición socioeconómica del municipio; procurando evitar disparidades entre la remuneración de los miembros del Ayuntamiento y los funcionarios municipales de primer nivel.
 
 El cargo deberá desempeñarse de tiempo completo; es incompatible con el ejercicio de cualquier otro empleo en la administración pública en que se disfrute sueldo, excepción hecha de los de instrucción y beneficencia. Cualquier otra requerirá para desempeñarlo autorización del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+Los miembros del Ayuntamiento y los mandos medios y superiores desde el nivel de Jefe de Departamento o equivalente, del sector central y de los organismos paramunicipales, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de trienio o cualquier periodo de trabajo, sea cual fuere el mecanismo o forma de pago, su lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones y prestaciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
 
 ###### Artículo 34.
 
@@ -1329,7 +1337,13 @@ XIV. Vigilar el desarrollo administrativo de las dependencias y entidades de la 
 
 XV. Vigilar que el desempeño de las funciones de los servidores públicos municipales se realice conforme a la Ley;
 
-XVI. Proponer al personal requerido para auxiliarlo en el desempeño de sus funciones, de acuerdo a las condiciones presupuestales del municipio; y,
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XVI. Proponer al personal requerido para auxiliarlo en el desempeño de sus funciones, de acuerdo a las condiciones presupuestales del Municipio;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XVI bis. Vigilar, bajo su estricta responsabilidad, el cumplimiento de las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público, la Ley de Responsabilidades de los Servidores Públicos y la presente Ley, por lo que concierne al ejercicio presupuestal en materia de servicios personales, de cuyas irregularidades deberá dar cuenta de manera inmediata a la Auditoría Superior de Michoacán; y,
 
 XVII. Las demás que le confiera ésta u otras leyes, reglamentos y acuerdos del Ayuntamiento.
 
@@ -2526,3 +2540,21 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
