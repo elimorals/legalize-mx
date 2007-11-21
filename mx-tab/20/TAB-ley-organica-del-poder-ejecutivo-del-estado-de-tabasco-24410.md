@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2007-05-02"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -393,13 +393,17 @@ XI. Secretaría de Contraloría;
 
 XII. Secretaria de Turismo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
-XIII. Consejería Jurídica del Poder Ejecutivo del Estado; y
+XIII. Secretaria de Recursos Naturales y Protección Ambiental;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
-XIV. Procuraduría General de Justicia.
+XIV. Consejería Jurídica del Poder Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XV. Procuraduría General de Justicia.
 
 ### CAPÍTULO CUARTO. De las Atribuciones de las Dependencias de la Administración Pública Centralizada
 
@@ -777,9 +781,9 @@ XXIII. Organizar, administrar, enriquecer, orientar y fomentar el establecimient
 
 XXIV. Representar al Gobernador ante los organismos educativos, científicos y tecnológicos, nacionales o extranjeros, así como promover los convenios y acuerdos de colaboración con los mismos orientados hacia el desarrollo educativo del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
-XXV. Promover, fomentar y estimular en las instituciones educativas, acciones encaminadas a la preservación de la salud y el medio ambiente, en coordinación con la Secretaría de Salud y el lnstituto del Agua y Recursos Naturales respectivamente;
+XXV. Promover, fomentar y estimular en las instituciones educativas, acciones encaminadas a la preservación de la salud y el ambiente, en coordinación con la Secretaría de Salud y la Secretaría de Recursos Naturales y Protección Ambiental;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -1209,7 +1213,9 @@ VIII. Apoyar a los Ayuntamientos, cuando así lo soliciten, a planear, construir
 
 IX. Vigilar el cumplimiento y aplicación de las normas técnicas aplicables al uso del suelo para obras públicas y apoyar a los municipios que lo requieran en el establecimiento y supervisión de la zonificación urbana de sus centros de población;
 
-X. Establecer, de común acuerdo con la Secretaria de Planeación, el Sistema Estatal de Información Geográfica para la automatización y simplificación de trámites en materia de vivienda, uso de suelos, fusión, subdivisión de predios y otros trámites relacionados con la administración urbana que fuere de su competencia. Además, en el seno del Comité de Planeación para el Desarrollo del Estado, promover con las autoridades federales competentes y el Instituto del Agua y Recursos Naturales, las acciones necesarias para que ese sistema de información incluya lo relativo al impacto ambiental;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+X. Establecer, de común acuerdo con la Secretaría de Planeación, el Sistema Estatal de Información Geográfica para la automatización y simplificación de trámites en materia de vivienda, usos de suelos, fusión, subdivisión de predios y otros trámites relacionados con la administración urbana que fuere de su competencia. Además en el seno del Comité de Planeación para el Desarrollo del Estado, promover con las autoridades federales competentes y la Secretaría de Recursos Naturales y Protección Ambiental las acciones necesarias para que ese Sistema de información incluya lo relativo al impacto ambiental;
 
 XI. Dictar las normas generales y ejecutar las obras de reparación, adaptación, restauración y demolición que le sean asignadas, de inmuebles propiedad del Gobierno, así como impulsar y promover los trabajos de conservación de las obras públicas y supervisar los proyectos de los mismos;
 
@@ -1285,7 +1291,7 @@ XXI. Actualizar el inventario estatal de los recursos e infraestructura hidrául
 
 XXII. Atender a los criterios y orientaciones conducentes a la participación de la Secretaría en la integración del Padrón Único de Beneficiarios que administra y opera la Secretaría de Planeación; y
 
-XXIII. Ejercer las facultades que se prevén en la Ley de Protección Ambiental del Estado de Tabasco, sus reglamentos y demás disposiciones relacionadas.
+XXIII. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2007)
 
 ###### ARTÍCULO 37.
 
@@ -1458,6 +1464,96 @@ XVIII. Organizar, operar, observar y evaluar el ejercicio de las funciones que e
 XIX. Instrumentar programas, con los prestadores de servicios turísticos nacionales y extranjeros, para incrementar el flujo de turistas al Estado y desarrollar los aspectos de calidad y competitividad en los programas de desarrollo turístico; y
 
 XX. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 38 Bis.
+
+A la Secretaría de Recursos Naturales y Protección Ambiental le corresponde el despacho de los siguientes asuntos:
+
+I. Formular, normar, instrumentar, conducir, ejecutar, promover, difundir y evaluar las políticas, programas, acciones y estrategias sectoriales y estatales de desarrollo sustentable y protección del ambiente en el Estado, con base en la legislación y normatividad Estatal o Federal aplicable, considerando la participación de las diferentes dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+
+II. Elaborar y ejecutar los planes y programas de desarrollo sustentable, de carácter regional o especial que señale el Gobernador, en el marco del Sistema Estatal de Planeación Democrática, tomando en cuenta las propuestas que para el efecto realicen la Administración Pública Estatal y Municipal;
+
+III. Coadyuvar con los órdenes de Gobierno Federal, Estatal y Municipal, así como con los Sectores Social y Privado, en la realización conjunta y coordinada de acciones de protección y restauración ambiental e instrumentar, regular y promover la utilización de técnicas y procedimientos de desarrollo y aprovechamiento sustentable, para racionalizar el uso de los recursos naturales del Estado;
+
+IV. Propiciar el equilibrio armónico entre las actividades petroleras y las demás productivas del Estado, para mejorar las condiciones sociales, económicas y ambientales de las zonas petroleras del Estado; con la participación que le corresponde a las diferentes dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+
+V. Establecer e Instrumentar acciones dirigidas a la prevención y restauración de daños causados por la actividad petrolera y otras, con el propósito de conservar y proteger nuestros recursos naturales;
+
+VI. Acordar e implementar los mecanismos para diagnosticar, evaluar y en su caso gestionar la indemnización por las afectaciones a zonas productivas y otras ocasionadas por el quehacer de las actividades petroleras y otras;
+
+VII. Con la colaboración de las diferentes dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, dar respuesta integral a la problemática generada por la actividad petrolera, propiciando la participación social de los habitantes de las zonas, para promover el fortalecimiento de los sistemas productivos, el mejoramiento del entorno ecológico y elevar la calidad de los servicios básicos que requieren esas comunidades;
+
+VIII. Promover la realización de estudios, investigaciones, diagnósticos y auditorías ambientales en zonas de mayor actividad petrolera, con la finalidad de instrumentar acciones que permitan disminuir accidentes y mitigar desequilibrios ecológicos;
+
+IX. Colaborar con las dependencias y entidades de los tres órdenes de gobierno y los sectores de la entidad en las tareas y acciones necesarias para lograr el equilibrio armónico entre las actividades de Petróleos Mexicanos y el Estado;
+
+X. Elaborar el Programa Estatal Hidráulico en colaboración con las dependencias y entidades de la Administración Pública Estatal, cuyas facultades estén relacionadas con la materia;
+
+XI. Promover la participación de la sociedad en la formulación, aplicación y vigilancia de la política ambiental y concertar acciones e inversiones con los diversos sectores, para la protección, conservación y restauración de los ecosistemas del Estado;
+
+XII. Instrumentar e impulsar metodologías y procedimientos de evaluación de riesgo ambiental, así como impulsar esquemas de simplificación para los trámites de apertura, de operación de empresas, industriales, comerciales y de servicios en las actividades de bajo impacto, de acuerdo a sus atribuciones;
+
+XIII. Fijar, normar, dictaminar y evaluar las medidas y mecanismos para combatir y prevenir la contaminación del aire, suelo y agua, así como establecer los criterios y lineamientos para el trámite de manifestación de impacto ambiental, en la esfera de sus atribuciones;
+
+XIV. Emitir las normas ambientales estatales y vigilar el cumplimiento de las normas oficiales mexicanas;
+
+XV. Proponer los reglamentos para la debida observancia de la legislación Estatal en mate ría dé desarrollo sustentable y protección ambiental;
+
+XVI. Proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Estado;
+
+XVII. Imponer restricciones sobre el uso o aprovechamiento de los recursos naturales de jurisdicción Estatal, e intervenir junto con las dependencias competentes, en el establecimiento y levantamiento de vedas forestales, de caza y de pesca;
+
+XVIII. Participar en la .determinación de las zonas de fomento económico en la Entidad en coordinación con las Secretarias de Desarrollo Económico, Asentamientos y Obras Públicas y Administración y Finanzas, de acuerdo al riesgo ambiental que impliquen las actividades industriales, comerciales y de servicios respectivas y en congruencia con el ámbito de competencia Estatal;
+
+XIX. Formular, expedir y ejecutar los programas de ordenamiento ecológico Estatal;
+
+XX. Colaborar con la Secretaría de Desarrollo Económico en la instrumentación y operación del Sistema de Evaluación Económica, del capital de los recursos naturales para promover políticas, programas, acciones y estrategias de desarrollo sustentable;
+
+XXI. Establecer, regular, administrar y vigilar áreas naturales protegidas, así como su planeación y evaluación periódica, para efectos de preservar, conservar y restaurar zonas o bienes de jurisdicción Estatal, con la participación que en su caso corresponda a los Municipios;
+
+XXII. Prevenir, controlar y regular la contaminación atmosférica, del suelo, la de aguas de jurisdicción Estatal y Nacionales que el Estado tenga asignada, y la generada por la emisión de ruido, vibración, energía térmica, lumínica, radiaciones electromagnéticas y olores; y en general todas aquellas actividades que dañen al ambiente y el equilibro ecológico, siempre que no sean de competencia Federal;
+
+XXIII. Regular las actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con la legislación aplicable en la materia;
+
+XXIV. Expedir las autorizaciones y permisos que establece la Ley de Protección Ambiental del Estado de Tabasco;
+
+XXV. Aplicar y vigilar el cumplimiento de las políticas, leyes, normas y reglamentos para prevenir, atenuar y remediar, en su caso, la contaminación ambiental;
+
+XXVI. Promover el ordenamiento ecológico y regular el impacto y la protección ambiental;
+
+XXVII. Ejercer las atribuciones y funciones que en materia de preservación del ambiente y recursos naturales, contengan los convenios firmados entre el titular del Poder Ejecutivo y la Administración Pública Federal;
+
+XXVIII. Promover y operar el Sistema Estatal de Información Ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelo y de los cuerpos de agua de jurisdicción Estatal;
+
+XXIX. Prevenir y controlar la contaminación generada por el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
+
+XXX. Colaborar, en congruencia con sus atribuciones, con la Secretaría de Asentamientos y Obras Públicas, y los Municipios que lo requieran, en la regulación y supervisión de los programas y actividades que se realicen para la construcción, conservación, mantenimiento y operación de las instalaciones y servicios para el manejo, tratamiento y el reciclamiento de desechos sólidos, residuos industriales, restauración de sitios contaminados y tóxicos y aguas residuales, considerando las responsabilidades de las Dependencias, Entidades y Sectores involucrados;
+
+XXXI. Promover, coordinar y participar en acciones de protección, conservación, reforestación, fomento, declaratorias y vigilancia de los recursos naturales de la Entidad;
+
+XXXII. Celebrar convenios con las autoridades Federales, Estatales y Municipales, así como con los sectores público y privado, mediante los cuales se obtengan recursos materiales o económicos, para realizar diversas acciones tendientes a resolver la problemática ambiental del Estado
+
+XXXIII. Regular y promover en colaboración con las autoridades Federales, Estatales y Municipales, la protección y preservación de los recursos de fauna y flora silvestres del Estado, de acuerdo con lo que establezca la legislación aplicable;
+
+XXXIV. Colaborar con las autoridades federales competentes, en la vigilancia sobre la conservación de las corrientes, ríos, lagos y lagunas ubicadas en el Estado y la protección de cuencas alimentadoras y las obras de corrección torrencial, así como fomentar y conducir estudios, trabajos y servicios meteorológicos de la Entidad;
+
+XXXV. Desarrollar en coordinación con las autoridades Federales, Estatales y Municipales competentes, el censo de predios forestales y silvopastoriles y de sus productos; así como levantar, organizar, manejar y actualizar las cartografías, los inventarios de recursos naturales y de población de fauna y flora silvestre que competa al Gobierno;
+
+XXXVI. Coordinar, conducir y supervisar la operación de los parques zoológicos, jardines botánicos, reservas y parques naturales competencia del Estado;
+
+XXXVII. Presidir el Consejo Técnico a que se refiere la Ley de Responsabilidad Civil por Daño y Deterioro Ambiental del Estado;
+
+XXXVIII. Aplicar las sanciones previstas en las disposiciones legales aplicables, en las materias de su competencia, así como promover la aplicación de las que correspondan a otras autoridades para realizar diversas acciones tendientes a resolver la problemática ambiental del Estado;
+
+XXXIX. Emitir recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la legislación ambiental;
+
+XL. Participar en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XLI. Elaborar conjuntamente con las autoridades de educación pública el Programa Estatal de Educación Ambiental; y
+
+XLII. Colaborar con las autoridades del Estado y Municipales para promover la investigación, producción y uso de energías alternativas, en beneficio del ambiente, y coadyuvar con la Federación en la promoción del uso racional de la energía actual.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -1702,3 +1798,21 @@ El correspondiente Decreto entrará en vigor al día siguiente de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El personal, los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo utilizado por la Subsecretaría de Protección Ambiental y Desarrollo Sustentable adscrita a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca; y por la. Comisión Interinstitucional para el Medio Ambiente y el Desarrollo Social, así como los pasivos y obligaciones que ambas tuviesen, serán transferidos a la Secretaría de Recursos Naturales y Protección Ambiental, que se crea con motivo del presente Decreto. En consecuencia, el titular del Poder Ejecutivo del Estado en la integración de esta nueva Secretaría, deberá de observar los lineamientos que en materia de racionalidad, austeridad, ahorro y disciplina del gasto, emitió mediante acuerdo publicado en el Periódico Oficial del Gobierno del estado extraordinario número 38, de fecha 21 de Agosto del 2007.
+
+TERCERO.- Se abroga la Ley que crea la Comisión Interinstitucional para el Medio Ambiente y el Desarrollo Social, publicada en el Periódico Oficial del Estado el 27 de mayo de 1995.
+
+CUARTO.- Cuando en otras disposiciones legales se dé una denominación distinta a la dependencia que se prevé en el presente Decreto, cuyas funciones estén establecidas por el mismo, dichas atribuciones se entenderán concedidas para su ejercicio a la dependencia que en el presente se determina.
+
+QUINTO.- El Ejecutivo del Estado dictará y adoptará todas las medidas presupuestales y administrativas necesarias para garantizar el funcionamiento oportuno, en los términos del presente decreto, de la Secretaría de Recursos Naturales y Protección Ambiental.
+
+SEXTO.- Los procedimientos administrativos que actualmente se encuentran en trámite, ante la Subsecretaría de Protección Ambiental y Desarrollo Sustentable, adscrita a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca; así como en la Comisión Interinstitucional para el Medio Ambiente y el Desarrollo Social, se continuarán tramitando ante la Secretaría de Recursos Naturales y Protección Ambiental, conforme a las disposiciones que actualmente los rigen hasta su conclusión.
+
+SÉPTIMO.- El Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría de Recursos Naturales y Protección Ambiental en un periodo no mayor a 90 días, a partir de la aprobación del presente decreto.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
