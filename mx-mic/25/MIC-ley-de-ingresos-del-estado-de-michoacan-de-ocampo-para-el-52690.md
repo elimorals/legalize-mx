@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-52690
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-30"
-last_updated: "2007-09-28"
+last_updated: "2007-11-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2007
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Décima Sección al Periódico Oficial del Estado de Michoacán, el sábado 30 de diciembre de 2006.
 
@@ -881,7 +881,9 @@ previos requisitos que deberá cumplir el
 
 concesionario 290.00
 
-En el presente ejercicio fiscal no se aplicará la cuota por el concepto de refrendo anual de calcomanía de circulación, que se señala en el inciso B) de esta fracción, por el hecho de que durante el ejercicio fiscal 2007 corresponde realizar el canje general de placas de circulación y calcomanía permanente en los términos del Artículo Séptimo del Acuerdo expedido por la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación del 25 de septiembre de 2002, en relación con el punto número 5.1.3.2 de la Norma Oficial Mexicana NOM-001-SCT-2-2000, publicada en el Diario Oficial de la Federación del 26 de enero de 2001.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+En el presente ejercicio fiscal no se aplicará la cuota por el concepto de refrendo anual de calcomanía de circulación, que se señala en el inciso B) de esta fracción, por el hecho de que durante el ejercicio fiscal 2007 corresponde realizar el canje general de placas de circulación y calcomanía permanente en los términos del Artículo Séptimo del Acuerdo expedido por la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 25 de septiembre de 2000, en relación con el punto número 5.1.3.2 de la Norma Oficial Mexicana NOM-001-SCT-2-2000, publicada en el Diario Oficial de la Federación del 26 de enero de 2001.
 
 ### CAPÍTULO III. DERECHOS POR SERVICIOS DE REGISTRO Y CONTROL VEHICULAR DE VEHÍCULOS DE TRANSPORTE PARTICULAR
 
@@ -989,7 +991,9 @@ para adherirse a los vehículos a que se refiere la
 
 fracción VII anterior 420.00
 
-En el presente ejercicio fiscal no se aplicará la cuota por el concepto de refrendo anual de calcomanía de circulación, a que se refiere la fracción II de este artículo, por el hecho de que durante el ejercicio fiscal 2007 corresponde realizar el canje general de placas de circulación y calcomanía permanente en los términos del Artículo Séptimo del Acuerdo expedido por la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación del 25 de septiembre de 2002, en relación con el punto número 5.1.3.2 de la Norma Oficial Mexicana NOM-001-SCT-2-2000, publicada en el Diario Oficial de la Federación del 26 de enero de 2001.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+En el presente ejercicio fiscal no se aplicará la cuota por el concepto de refrendo anual de calcomanía de circulación, a que se refiere la fracción II de este artículo, por el hecho de que durante el ejercicio fiscal 2007 corresponde realizar el canje general de placas de circulación y calcomanía permanente en los términos del Artículo Séptimo del Acuerdo expedido por la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 25 de septiembre de 2000, en relación con el punto número 5.1.3.2 de la Norma Oficial Mexicana NOM-001-SCT-2-2000, publicada en el Diario Oficial de la Federación del 26 de enero de 2001.
 
 ### CAPÍTULO IV. POR SERVICIOS DE TRÁNSITO
 
@@ -2170,3 +2174,9 @@ P.O. 28 DE SEPTIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
