@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2007-08-31"
+last_updated: "2007-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -232,6 +232,10 @@ El salario será uniforme para cada una de las categorías de trabajadores y ser
 ###### ARTICULO 28.
 
 Para compensar las diferencias que resulten del distinto costo medio de la vida en diversas zonas económicas del Estado, se crearán partidas destinadas al pago de sobresueldos, determinándose previamente las zonas en que deban cubrirse y que serán iguales para cada categoría.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 28 BIS. Los funcionarios y empleados públicos, desde el nivel de jefe de departamento, del sector central o paraestatal del Poder Ejecutivo, de los poderes Legislativo y Judicial, organismos autónomos, y administración municipal o paramunicipal, no podrán otorgar o recibir por sus servicios personales, recursos adicionales en numerario o en especie, sea cual fuere su denominación, que no estén especialmente previstos y autorizados en las leyes, las estructuras salariales y ocupacionales, los presupuestos respectivos y demás normatividad aplicable.
 
 ###### ARTICULO 29.
 
@@ -926,3 +930,21 @@ P.O. 31 DE AGOSTO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
