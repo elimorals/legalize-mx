@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-del-estado-de-michoacan-29561"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-28"
-last_updated: "2007-09-26"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda el Periódico Oficial del Estado de Michoacán, el viernes 28 de marzo de 2003.
 
@@ -184,6 +184,10 @@ XXI. Certificar copia de los documentos obtenidos en el ejercicio de sus faculta
 XXII. La Auditoría Superior de manera directa o conjuntamente con los órganos internos de control de las entidades, establecerán la normatividad secundaria para la guarda de documentos justificatorios y comprobatorios para efecto de destrucción o bien de los que deberán conservarse por tiempo específico, microfilmarse o procesarse a través de medios electrónicos, ópticos o de cualquier otra tecnología, sujetándose a las disposiciones legales establecidas en la materia. Los microfilmes y los archivos guardados mediante procesamiento electrónico, tendrán el valor que establezcan las disposiciones legales relativas a las operaciones que en ellos se consignen, salvo el derecho de resultar falsos, alterados o simulados.
 
 Los reglamentos que se emitan en materia de guarda y protección de información a través de medios electrónicos, ópticos o de cualquier otra tecnología, a propuesta de la Auditoría Superior deberán presentarse a la Comisión para aprobación del Congreso;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XXII bis. Supervisar el cabal cumplimiento del adecuado ejercicio presupuestal en materia de servicios personales, a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público;
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
 
@@ -810,3 +814,21 @@ Toda referencia al Auditor Especial Técnico o Auditor Especial de Auditoría, h
 ###### ARTÍCULO TERCERO.
 
 El Reglamento Interior, se deberá adecuar al presente Decreto, delimitando las atribuciones de cada uno de los Auditores Especiales, a más tardar dentro de los sesenta días siguientes a su entrada en vigor.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
