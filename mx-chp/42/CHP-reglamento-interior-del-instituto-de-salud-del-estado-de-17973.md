@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-salud-del-estado-de-17973"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-08"
-last_updated: "2000-12-08"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD
+REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2007 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 13 de septiembre de 2000.
 
@@ -540,3 +542,13 @@ LA MODIFICACION A QUE SE REFIERE EL PRESENTE DECRETO SERA APLICABLE (SIC) DE LOS
 ###### ARTICULO TERCERO.
 
 EL TITULAR DEL PODER EJECUTIVO DEL ESTADO A TRAVES DE LA SECRETARIA (SIC), REALIZARA LOS ACTOS NECESARIOS PARA EL DEBIDO CUMPLIMIENTO DEL PRESENTE DECRETO.
+
+P.O. DE 21 DE NOVIEMBRE DE 2007.
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Instituto de Salud del Estado de Chiapas, publicado en el Periódico Oficial No. 041 , de fecha 13 de septiembre del año 2000, mediante Acuerdo No. 327-A-2000, así como aquellas disposiciones que se interpongan al presente reglamento.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento y, en los que se presente controversia en cuanto a su aplicación y observancia, el Director General, resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento, respecto a los departamentos, laboratorios, jurisdicciones sanitarias, y demás funciones del personal, se estará a lo dispuesto por el manual de organización del Instituto.
