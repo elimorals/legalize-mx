@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-pensiones-civiles-para-el-estado-de-michoacan-22008"
 country: "mx"
 rank: "ley"
 publication_date: "1980-05-08"
-last_updated: "1986-09-15"
+last_updated: "2007-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 8 de mayo de 1980.
 
@@ -161,6 +161,10 @@ e) Nombrar el personal a propuesta del Director;
 
 f) Formular y aprobar sus diversas operaciones y los reglamentos de la institución;
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+f) bis. Definir a propuesta del Director, con base en las políticas y lineamientos establecidos por el Congreso del Estado, la política salarial para regular el sistema de remuneraciones y prestaciones de la Dirección, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad;
+
 g) Aprobar los estados financieros;
 
 h) Conferir poderes;
@@ -184,6 +188,12 @@ a) Ejecutar los acuerdos de la Junta Directiva;
 b) Informar semestralmente a la Junta de las actividades de la institución;
 
 c) Formular proyectos de planes de inversión para su aprobación por la Junta;
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+c) bis. Proponer a la Junta Directiva la política salarial de la Dirección.
+
+Los miembros de la junta directiva, así como los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de sexenio, de cualquier periodo de trabajo o por separación del cargo, sea cual fuere el mecanismo o forma de pago, lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
 
 d) Proyectar el presupuesto anual de egresos;
 
@@ -752,5 +762,23 @@ P.O. 15 DE SEPTIEMBRE DE 1986.
 El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
