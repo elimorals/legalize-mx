@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-servicio-publico-de-carrera-para-los-25603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-11"
-last_updated: "2002-02-11"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "ROO"
 ---
 # REGLAMENTO DEL SERVICIO PUBLICO DE CARRERA PARA LOS SERVIDORES PUBLICOS DEL EJECUTIVO MUNICIPAL DE BENITO JUAREZ
 
-REGLAMENTO DEL SERVICIO PUBLICO DE CARRERA PARA LOS SERVIDORES PÚBLICOS DEL EJECUTIVO MUNICIPAL DE BENITO JUAREZ
+REGLAMENTO DEL SERVICIO PÚBLICO DE CARRERA PARA LOS SERVIDORES PÚBLICOS DEL EJECUTIVO MUNICIPAL DE BENITO JUÁREZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PUBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DE MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 11 de febrero de 2002.
 
@@ -102,7 +104,7 @@ XXVIII.- Servidor Público.- Toda persona física que preste un trabajo personal
 
 XXIX.- Sistema.- Al conjunto de procesos que orientan y regulan el funcionamiento del Servicio Público de Carrera de la Administración Pública Municipal;
 
-XXX.- Subcomisiones.- A los órganos reguladores de la operación del Servicio Público de Carrera , ubicadas en las dependencias, entidades y organismos públicos de la administracion pública municipal;
+XXX.- Subcomisiones.- A los órganos reguladores de la operación del Servicio Público de Carrera, ubicadas en las dependencias, entidades y organismos públicos de la administracion pública municipal;
 
 XXXI.- Tabulador.- Al tabulador de sueldos y compensaciones básicas autorizadas por la Comisión;
 
@@ -1299,3 +1301,21 @@ Artículo Cuarto.- En el momento de la entrada en vigor del Servicio Público de
 Artículo Quinto.- El presente Reglamento es complementario a los que regulan en el Municipio los derechos laborales de los servidores públicos.
 
 Lo que se expide en la Ciudad de Cancún, Quintana Roo, a los veintinueve días del mes de noviembre del dos mil uno.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+Artículo Primero.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial y abroga el Reglamento que contiene las Bases para el Servicio Público de Carrera en el Municipio de Benito Juárez, aprobado en la Sexagésima Sesión Ordinaria del Ayuntamiento de fecha 31 de Octubre del 2001 publicado en el Periódico Oficial del Gobierno del Estado el 11 de Febrero del 2002.
+
+Artículo Segundo.- A partir de la entrada en vigor del presente Reglamento, todos los Servidores Públicos de Confianza en funciones de las plazas o puestos aprobados en el Catálogo General de Puestos, con excepción de los de Libre Designación, estarán sujetos al régimen de la misma, sin menoscabo de los derechos laborales legalmente adquiridos.
+
+Artículo Tercero.- Cada dependencia y entidad, conforme a los criterios que emita el Comité, iniciará la implantación del servicio público de carrera de manera gradual, previo estudio que los Subcomités realicen de las características, particularidades, condiciones, requisitos y perfiles que conforman la estructura de la dependencia respectiva, a fin de que quede instaurado en un periodo no mayor a seis meses contado a partir de la autorización por parte del Pleno del Ayuntamiento del Catálogo General de Puestos y Tabuladores.
+
+El Comité y los Subcomités deberán instalarse dentro de los treinta días posteriores a la entrada en vigor del presente Reglamento.
+
+El Comité deberá presentar el Catálogo General de Puestos y Tabuladores para su autorización por parte del Pleno del Ayuntamiento en un plazo no mayor a sesenta días contados a partir de la instalación del Comité y Subcomités respectivos.
+
+Artículo Cuarto.- En el momento de la entrada en vigor del servicio público de carrera, los titulares de las dependencias propondrán al Comité, por conducto de los Subcomités los puestos que, por sus características peculiares y por excepción, deberán mantenerse como de Libre Designación. El listado será publicado en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Quinto.- El presente Reglamento, es complementario a los que regulan en el Municipio los derechos laborales de los Servidores Públicos.
