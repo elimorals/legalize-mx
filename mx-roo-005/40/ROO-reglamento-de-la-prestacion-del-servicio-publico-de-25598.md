@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-prestacion-del-servicio-publico-de-25598"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-30"
-last_updated: "1997-05-30"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 ---
 # REGLAMENTO DE LA PRESTACION DEL SERVICIO PUBLICO DE PANTEONES DEL MUNICIPIO DE BENITO JUAREZ
 
-REGLAMENTO DE LA PRESTACION DEL SERVICIO PÚBLICO DE PANTEONES DEL MUNICIPIO BENITO JUAREZ DEL ESTADO DE QUINTANA ROO
+REGLAMENTO DE LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES DEL MUNICIPIO BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de mayo de 1997.
 
@@ -497,7 +499,7 @@ La temporalidad indefinida confiere el derecho de uso sobre un nicho por tiempo 
 
 ###### Artículo 69.
 
-El titular del derecho de uso sobre una fosa, gaveta, cripta familiar o nichos, deberá presentar ante la oficina correspondiente la solicitud de refrendo cada siete años, durante los primeros treinta días siguientes al vencimiento del período anterior, excepción hacha del caso de nichos otorgados bajo el régimen de temporalidad indefinida.
+El titular del derecho de uso sobre una fosa, gaveta, cripta familiar o nichos, deberá presentar ante la oficina correspondiente la solicitud de refrendo cada siete años, durante los primeros treinta días siguientes al vencimiento del período anterior, excepción hacha (sic) del caso de nichos otorgados bajo el régimen de temporalidad indefinida.
 
 En el caso de temporalidades prorrogables y máximas, se extingue el derecho de uso sobre la fosa, gaveta, cripta familiar o nicho por la omisión del refrendo dentro del plazo establecido.
 
@@ -608,3 +610,13 @@ Contra las sanciones que se impongan por las contravenciones al presente Reglame
 T R A N S I T O R I O
 
 Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Para efectos de la temporalidad mínima en los panteones municipales, los títulos concedidos por siete años, surtirán sus efectos hasta en tanto fenezcan, por lo que su refrendo se hará por seis años y no por siete de conformidad a lo dispuesto en la Ley de Hacienda de los Municipios del Estado de Quintana Roo.
+
+Tercero.- Se deroga el Reglamento de la Prestación del Servicio Público de Panteones del Municipio Benito Juárez, publicado en el Periódico Oficial del Gobierno del Estado el 30 de Mayo de 1997, así como las demás disposiciones legales que al efecto se opongan o contravengan al presente ordenamiento.
