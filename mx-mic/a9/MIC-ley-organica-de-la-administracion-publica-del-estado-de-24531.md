@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-24531"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-04-12"
-last_updated: "2007-09-17"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
-Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 12 de abril de 2002.
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el viernes 12 de abril de 2002.
 
 LÁZARO CÁRDENAS BATEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -847,7 +847,7 @@ XXXIII. Formular los estudios y proyectos de construcción y conservación de lo
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXIV. Coadyuvar con la Secretaría de Contraloría y Desarrollo Administrativo, en la proposición de las bases a que deben sujetarse los concursos para la ejecución de servicios públicos y obras publicas de su competencia;
+XXXIV. Coadyuvar con la Secretaría de Contraloría y Desarrollo Administrativo, en la proposición de las bases a que deben sujetarse los concursos para la ejecución de servicios públicos y obras públicas de su competencia;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
@@ -893,7 +893,13 @@ XIII. Informar al Gobernador del Estado, sobre el resultado de las evaluaciones 
 
 XIV. Designar a los auditores externos de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal a los comisarios o a sus equivalentes en los órganos de gobierno, normando y controlando su desempeño;
 
-XV. (DEROGADA, P.O. 31 DE MARZO DE 2004)
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XV. Coadyuvar con la Auditoría Superior de Michoacán, para el establecimiento de los procedimientos y mecanismos que permitan el cumplimiento de sus atribuciones, especialmente al ejercicio presupuestal de las entidades fiscalizables, en materia de servicios personales, según lo establece la Ley de Presupuesto, Contabilidad y Gasto Público;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XV bis. Supervisar que el ejercicio presupuestal en materia de servicios personales, se apegue a lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público y en la presente Ley;
 
 XVI. Coordinarse con las dependencias públicas federales competentes para el control y evaluación de los recursos, que el Ejecutivo Federal transfiera al Estado para su ejercicio;
 
@@ -995,7 +1001,15 @@ A la Oficialía Mayor le corresponde el ejercicio de las siguientes atribuciones
 
 I. Vigilar el cumplimiento de las disposiciones jurídicas que rijan las relaciones entre el Gobierno del Estado y sus trabajadores;
 
-II. Contratar, controlar, disciplinar y coadyuvar en la selección y capacitación del personal de la administración pública estatal, proponer los sueldos y salarios, fijar los estímulos y demás prestaciones que deban percibir los trabajadores al servicio del Estado;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+II. Contratar, controlar, disciplinar y coadyuvar en la selección y capacitación del personal de la administración pública estatal, proponer los sueldos y salarios, fijar los estímulos y demás prestaciones que deban percibir los trabajadores al servicio del Estado, observando estrictamente las políticas y lineamientos que en la materia establezca el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+II bis. Definir de acuerdo con las políticas y lineamientos establecidos por el Congreso del Estado y en coordinación con la Tesorería General y la Secretaría de la Contraloría y Desarrollo Administrativo, la política salarial de la administración pública del sector central, garantizando la congruencia con la estructura orgánica autorizada y observando en la normatividad que al efecto expida, los principios de austeridad, racionalidad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad.
+
+De igual manera, deberá vigilar que los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no reciban ni otorguen, de manera excepcional, permanente o periódica, por conclusión de sexenio, de cualquier periodo de trabajo o por separación del cargo, sea cual fuere el mecanismo o forma de pago, su lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones y prestaciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
 
 III. Elaborar y difundir los acuerdos e instructivos derivados de las condiciones generales de trabajo y vigilar su cumplimiento;
 
@@ -1049,6 +1063,10 @@ I. Ejercer, en el ámbito de su competencia, las que se deriven de convenios cel
 
 II. Administrar los recursos humanos, técnicos, financieros y materiales que se les asignen;
 
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+II bis. Adoptar las medidas y previsiones pertinentes para observar estrictamente las disposiciones que prevé la Ley de Presupuesto, Contabilidad y Gasto Público, y dicte la Oficialía Mayor de Gobierno, en cuanto al ejercicio presupuestal por servicios personales;
+
 III. Proporcionar en el ámbito de su competencia por disposición legal o a solicitud de parte, la asesoría que requieran los Municipios; y,
 
 IV. Hacer del conocimiento de la Secretaría de Contraloría y Desarrollo Administrativo, las conductas de los servidores públicos de su dependencia, que puedan constituir responsabilidad administrativa, para efectos de la aplicación, en su caso, de las sanciones que correspondan en los términos de ley.
@@ -1092,6 +1110,12 @@ Son fideicomisos públicos los contratos que celebre el Gobierno del Estado, med
 ###### ARTÍCULO 38.
 
 Las entidades de la administración pública paraestatal, se integrarán, organizarán, y regirán por las disposiciones de la ley de la materia y conforme al decreto, acuerdo o acto jurídico de constitución que les dé origen.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 38 Bis.
+
+En materia de remuneraciones y prestaciones salariales, los organismos autónomos y las entidades de la administración pública paraestatal, independientemente de lo que en la materia establezcan sus decretos, acuerdos o actos jurídicos respectivos, observarán estrictamente las políticas y lineamientos que al efecto establezca el Congreso del Estado.
 
 ## TRANSITORIOS
 
@@ -1190,3 +1214,21 @@ P.O. 17 DE SEPTIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
