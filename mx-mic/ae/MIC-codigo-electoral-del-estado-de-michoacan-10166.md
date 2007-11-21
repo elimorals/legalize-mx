@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-10166"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-05-04"
-last_updated: "2007-07-06"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 4 de mayo de 1995.
 
@@ -2081,6 +2081,10 @@ VII. Vigilar que se cumplan los acuerdos del Consejo General;
 
 VIII. Presentar al Consejo General la propuesta para la designación del Secretario General, los vocales de Organización Electoral, Capacitación Electoral y Educación Cívica, Administración y Prerrogativas y el del Registro de Electores;
 
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+VIII bis. Proponer al Consejo General, con el apoyo de la Vocalía de Administración, la política salarial del Instituto;
+
 > <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2001)</small>
 
 IX. Proponer al Consejo General el proyecto de presupuesto anual del Instituto Electoral de Michoacán, remitiéndolo una vez aprobado, al titular del Poder Ejecutivo para su inclusión;
@@ -2166,6 +2170,12 @@ La Junta Estatal Ejecutiva será integrada por el Presidente del Consejo General
 La Junta Estatal Ejecutiva se reunirá por lo menos una vez al mes con los siguientes propósitos:
 
 I. Fijar las políticas generales, los programas y los procedimientos administrativos del Instituto Electoral de Michoacán;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+I bis. Definir a propuesta del Presidente, con base en las políticas y lineamientos establecidos por el Congreso del Estado, la política salarial para regular el sistema de remuneraciones y prestaciones del Instituto misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad.
+
+Los integrantes de los órganos de dirección, órganos ejecutivos, órganos desconcentrados y los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo, del periodo para el que fueron nombrados o por separación del cargo, sea cual fuere el mecanismo o forma de pago, su lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
 
 II. Analizar el cumplimiento de los programas relativos al Registro de Electores;
 
@@ -3773,7 +3783,11 @@ VI. Realizar tareas de capacitación, investigación y difusión en materia de d
 
 VII. Celebrar para su mejor desempeño, convenios de colaboración con otros tribunales, instituciones y autoridades;
 
-VIII Conocer y aprobar el proyecto de presupuesto del Tribunal;
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+VII bis. Definir, acatando las políticas y lineamientos establecidos por el Congreso del Estado, a partir de la estructura orgánica autorizada, a propuesta presentada por el Presidente, la política salarial para regular el sistema de remuneraciones y prestaciones del Tribunal, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad;
+
+VIII. Conocer y aprobar el proyecto de presupuesto del Tribunal;
 
 IX. Designar al Secretario General del Tribunal, a los secretarios proyectistas y a los demás funcionarios del Tribunal;
 
@@ -3808,6 +3822,12 @@ IX. Ordenar, en casos extraordinarios, que se realice alguna diligencia o se des
 X. Comunicar al Congreso del Estado las faltas absolutas de los magistrados del Tribunal, para los efectos que procedan de conformidad con las disposiciones constitucionales y legales aplicables;
 
 XI. Rendir ante el Pleno, un informe al término de cada proceso electoral, dando cuenta de la marcha del Tribunal y de los criterios adoptados en sus resoluciones, ordenando su publicación;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XI bis. Proponer al Pleno la política salaria del Tribunal.
+
+Los Magistrados y los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo, del periodo para el que fueron electos o por separación del cargo, sea cual fuere el mecanismo o forma de pago, su lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
 
 XII. Elaborar el proyecto de presupuesto del Tribunal, remitiéndolo, una vez aprobado, al Titular del Ejecutivo para su consideración;
 
@@ -4798,3 +4818,21 @@ P.O. 6 DE JULIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
