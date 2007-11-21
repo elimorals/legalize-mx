@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3441
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2007-05-03"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2003.
 
@@ -156,6 +156,14 @@ Cuando los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidade
 Los presupuestos por concepto de servicios personales, se sustentarán en las plazas autorizadas por la Comisión de Gasto-Financiamiento, conforme a los tabuladores de sueldo que apruebe el Ejecutivo del Estado, para el propio Poder Ejecutivo, Dependencias y Entidades. Tratándose de los Poderes Legislativo y Judicial y Organismos Autónomos, se basarán en las plantillas y tabuladores que aprueben sus órganos competentes.
 
 En los proyectos de presupuesto que presenten los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomas, se adjuntarán los tabuladores y las plantillas autorizadas por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+Los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, de los Poderes Ejecutivo, Legislativo y Judicial, del sector paraestatal sea cual fuere la figura jurídica y denominación que adopten sus entidades y de los organismos autónomos, así como del ámbito municipal y paramunicipal, con independencia de su régimen laboral, mecanismo o forma de pago, lugar de adscripción, puesto, plaza o remuneración que devenguen; no podrán recibir ni otorgar por sus servicios personales, de manera excepcional, permanente o periódica, por conclusión de sexenio, trienio o cualquier periodo de trabajo; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie asociada o no al sistema de remuneraciones y prestaciones, que no estén expresamente establecidos y justificados para ese propósito en la ley, los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+En cualquier caso, los sueldos y todo ingreso que los servidores públicos perciban por los conceptos señalados en el párrafo anterior, deberán guardar congruencia con la estructura orgánica autorizada y estar sustentados en los principios de racionalidad, austeridad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -608,3 +616,21 @@ P.O. 3 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
