@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-procuraduria-general-de-justicia-del-12628"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-08-31"
-last_updated: "2007-08-31"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -264,6 +264,10 @@ Quienes ingresen al servicio de la Procuraduría, estarán obligados a participa
 ###### Artículo 19.
 
 El Procurador expedirá los acuerdos, circulares y manuales de organización y procedimientos, que conduzcan al cumplimiento eficaz de las funciones de la Institución y resolverá, por sí o por delegación, lo relativo al ingreso, promoción, adscripción, renuncias, sanciones y estímulos a los funcionarios y empleados, sin perjuicio del cumplimiento de las normas que regulan las relaciones entre el Estado y sus trabajadores.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+Los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, incluidos los agentes del Ministerio Público, peritos periciales y coordinadores de la policía ministerial no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo o por separación del cargo, sea cual fuere el mecanismo o forma de pago, lugar de adscripción, puesto y plaza que ocupen o remuneración que devenguen, ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -718,3 +722,21 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Gobernador del Estado, deberá reformar el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, para adecuarlo al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
