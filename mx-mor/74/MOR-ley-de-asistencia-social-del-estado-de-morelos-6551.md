@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-del-estado-de-morelos-6551"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-27"
-last_updated: "2001-07-11"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 21 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance al Periódico Oficial 3289 del Estado de Morelos, el miércoles 27 de agosto de 1986.
 
@@ -568,3 +570,17 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y soberano de Morelos.
+
+SEGUNDO.- Se abroga la Ley de Asistencia Social del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" del 27 de agosto de 1986 y se derogan las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+
+TERCERO.- El Sistema a que se refiere el Artículo 15 de esta Ley, es el subrogatorio de todos los derechos y obligaciones del Sistema del mismo nombre cuyo Decreto de creación se abroga en el artículo anterior.
+
+CUARTO.- El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos a que se refiere esta Ley deberá instalar en un lapso máximo de noventa días naturales a partir de su vigencia el Directorio Estatal de Instituciones de Asistencia Social.
+
+QUINTO.- El Sistema para el Desarrollo Integral de la Familia para el Estado de Morelos deberá presentar a la Junta de Gobierno su Reglamento Interior y Manuales de Operación en un lapso máximo, de noventa días a partir de la entrada en vigor de la presente Ley, para su aprobación y publicación en el periódico oficial del Estado.
+
+SEXTO.- Remítase al titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes. Recinto Legislativo a los trece días del mes de noviembre de dos mil siete.
