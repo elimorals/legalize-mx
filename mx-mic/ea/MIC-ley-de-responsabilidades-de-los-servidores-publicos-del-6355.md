@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-de-los-servidores-publicos-del-6355"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-27"
-last_updated: "2006-08-24"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MICHOACAN
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MICHOACAN
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de septiembre de 1984.
 
@@ -369,7 +369,7 @@ En lo relativo a las cuestiones de procedimientos no previstas en esta Ley, así
 
 Son sujetos de responsabilidad administrativa los servidores públicos a que se refiere esta Ley en su artículo 2o.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1986)</small>
 
 ###### ARTICULO 44.
 
@@ -378,6 +378,12 @@ Los servidores públicos tendrán las siguientes obligaciones para salvaguardar 
 I. Cumplir con diligencia el servicio que les sea encomendado y abstenerse de actos u omisiones que causen la suspensión o deficiencia de dichos servicios o que impliquen abuso o ejercicio indebido en su empleo, cargo o comisión;
 
 II. Formular y ejecutar de acuerdo con las leyes de la materia, los planes, programas y presupuestos correspondientes a su competencia y cumplir con lo que establece la legislación vigente en materia de manejo de fondos y recursos públicos;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+II bis. Los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, de los Poderes Ejecutivo, Legislativo y Judicial, del sector paraestatal sea cual fuere la figura jurídica y denominación que adopten sus entidades y de los organismos autónomos, así como del ámbito municipal y paramunicipal, con independencia de su régimen laboral, mecanismo o forma de pago, lugar de adscripción, puesto, plaza o remuneración que devenguen, ya sea de manera excepcional, permanente o periódica, por conclusión de sexenio, trienio o cualquier periodo de trabajo, deberán abstenerse de recibir u otorgar ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie asociada o no al sistema de remuneraciones y prestaciones, que no estén expresamente establecidos y justificados para ese propósito en la ley, los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
+
+En cualquier caso, los sueldos y todo ingreso que los servidores públicos perciban por los conceptos señalados en el párrafo anterior, deberán guardar congruencia con la estructura orgánica autorizada y estar sustentados en los principios de racionalidad, austeridad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad;
 
 III. Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, de acuerdo con las facultades que le sean atribuidas y mantener la información reservada a que tenga acceso por su función exclusivamente para los fines a que estén afectos;
 
@@ -487,7 +493,7 @@ VII. El monto, beneficio, daño o perjuicio económicos, derivados del incumplim
 
 Para la aplicación de las sanciones a que hace referencia el artículo 48 de esta Ley, se observarán las siguientes reglas:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 I. El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión, por un período no mayor de tres días, serán aplicables por el superior jerárquico del servidor público debiendo en todos los casos, notificar a la Contraloría General y a la Oficialía Mayor del Poder Legislativo o Judicial según corresponda, para efecto de que se asienten en el expediente del servidor respectivo. De igual forma se hará con los servidores públicos municipales, comunicándolo al Presidente Municipal; en todo caso, deberá enviarse copia de los comunicados al sindicato respectivo, cuando se trate de servidor público sindicalizado.
 
@@ -507,13 +513,13 @@ Para la determinación del monto de las sanciones económicas, se estará a lo q
 
 IV. La inhabilitación de uno a seis años para el ejercicio de empleos, cargos o comisiones en el servicio público, será aplicada por la Contraloría General o por la Oficialía Mayor de los Poderes Legislativo y Judicial, o por la Contaduría General de Glosa, según el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 51.
 
 Todo servidor público deberá denunciar por escrito a la Contraloría General y a la Oficialía Mayor de los Poderes Legislativo o Judicial, o a la Presidencia Municipal en el caso de los servidores públicos municipales, los hechos que, a su juicio, sean causa de responsabilidad administrativa, imputables a servidores públicos bajo su dirección.
 
-> <small>(REFORMADO SEGUNDO PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+> <small>(REFORMADO SEGUNDO PÁRRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 La Contraloría General o la Oficialía Mayor de los Poderes Legislativo o Judicial, según corresponda, determinará si existe o no, responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos y aplicara las sanciones disciplinarias correspondientes.
 
@@ -529,7 +535,7 @@ Si la Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Jud
 
 Para la aplicación de las sanciones administrativas se seguirá el siguiente procedimiento:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 I. La Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Judicial, el superior jerárquico o el Presidente Municipal, citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, el día y hora en que tendrá verificativo dicha audiencia y sus derechos a ofrecer pruebas y alegar en la misma lo que a su derecho e intereses convenga, por si o por medio de su defensor. Si el servidor público es de base, podrá estar presente el representante sindical.
 
@@ -543,7 +549,7 @@ II. Al concluir la audiencia o dentro de los quince días hábiles siguientes, l
 
 III. Si en la audiencia la autoridad correspondiente encontrara que no cuenta con elementos suficientes para resolver, o advierte elementos que impliquen nuevas responsabilidades administrativas a cargo del presunto responsable o de otros servidores o personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 54.
 
@@ -589,7 +595,7 @@ Las facultades de la Contraloría General, de la Oficialía Mayor de los Poderes
 
 La Contraloría General y la Oficialía Mayor, de los Poderes Legislativo y Judicial, llevarán el registro de la situación patrimonial de los servidores públicos estatales, la Contaduría General de Glosa, la de los servidores públicos municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 61.
 
@@ -645,11 +651,11 @@ En la declaración de situación patrimonial se manifestarán los bienes inmuebl
 
 En las declaraciones anuales se manifestarán tan sólo las modificaciones al patrimonio, con fecha y valor de adquisición o venta. En todo caso, se indicará el medio por el que se hizo la adquisición.
 
-> <small>(REFORMADO TERCER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 04 DE MARZO DE 1991)</small>
 
 Tratándose de bienes muebles la Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Judicial o la Contaduría General de Glosa, según corresponda, decidirán mediante acuerdo, las características que deba tener la declaración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 65.
 
@@ -657,7 +663,7 @@ Cuando los signos de riqueza exteriores sean ostensibles y notoriamente mayores 
 
 Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan las actuaciones y se le presentarán las actas en que aquellas consten, para que exponga lo que a su derecho convenga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 66.
 
@@ -703,7 +709,7 @@ En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ING. CUAUHTEMOC CARDENAS SOLORZANO.- EL SECRETARIO DE GOBIERNO. LIC. CRISTOBAL ARIAS SOLIS.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE JULIO DE 1986.
 
@@ -728,3 +734,21 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 24 DE AGOSTO DE 2006.
 
 ÚNICO.- el presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
