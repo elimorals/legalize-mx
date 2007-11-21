@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-de-5428
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-02-15"
-last_updated: "2007-03-23"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán, el jueves 15 de febrero de 2007.
 
@@ -226,6 +226,10 @@ X. Del recurso de reclamación contra las providencias o acuerdos del Presidente
 XI. De las demandas de responsabilidad civil presentadas contra los magistrados;
 
 XII. De la expedición y modificación de su reglamento interior;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XII bis. Definir, a propuesta del Magistrado Presidente y de conformidad con las disposiciones del Congreso del Estado, la política salarial del Poder Judicial;
 
 XIII. De la aprobación del proyecto anual de Presupuesto de Egresos que someta a su consideración el Consejo del Poder Judicial;
 
@@ -870,6 +874,12 @@ X. Autorizar, cuando sea necesario y con base en la información estadística, l
 XI. Ordenar a la Contraloría Interna la práctica de revisiones y auditorías a los órganos y dependencias del Poder Judicial;
 
 XII. En el supuesto que establece el artículo 75 de la Constitución Política del Estado, proponer al Congreso la designación de los magistrados del Supremo Tribunal de Justicia del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+XII bis. Proponer al Pleno, por conducto del Presidente, y a partir de la estructura orgánica autorizada, la política salarial para regular el sistema de remuneraciones y prestaciones, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad.
+
+Los magistrados, jueces y secretarios, así como los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de sexenio o cualquier período de trabajo o por separación del cargo, sea cual fuere el mecanismo o forma de pago, su lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
 
 XIII. Aprobar el proyecto anual de Presupuesto de Egresos del Poder Judicial y someterlo a consideración del Pleno del Supremo Tribunal de Justicia;
 
@@ -1830,3 +1840,21 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- L�
 P.O. 23 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
