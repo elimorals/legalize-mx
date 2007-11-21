@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-32966"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-14"
-last_updated: "2003-07-14"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 14 de julio de 2003.
 
@@ -191,6 +191,10 @@ II. Aprobar el Reglamento Interior de la Comisión y sus reformas, así como eje
 
 III. Opinar sobre los proyectos de los informes del Presidente, así como de los asuntos que le sean sometidos a su consideración por el mismo;
 
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+III bis. Definir a propuesta del Presidente de la Comisión, con base en las políticas y lineamientos establecidos por el Congreso del Estado, la política salarial para regular el sistema de remuneraciones y prestaciones de la Comisión, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad;
+
 IV. Aprobar el anteproyecto de presupuesto de Egresos de la Comisión, para su presentación al Titular del Poder Ejecutivo del Estado;
 
 V. Nombrar y remover al Secretario Ejecutivo de la Comisión a propuesta del Presidente;
@@ -280,6 +284,12 @@ III. Aprobar los acuerdos y peticiones que sometan a su consideración los visit
 IV. Dirigir, planear y coordinar los trabajos de la Comisión, en los términos que para tal efecto establezca el Reglamento Interior;
 
 V. Formular con aprobación del Pleno, los criterios generales a los que se sujetarán las actividades administrativas de la Comisión;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+V bis. Proponer al Pleno la política salarial de la Comisión.
+
+Los comisionados y los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo, del periodo para el que fueron nombrados o por separación del cargo, sea cual fuere el mecanismo o forma de pago, lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
 
 VI. Nombrar, dirigir y coordinar al personal técnico y administrativo del organismo, de acuerdo con el presupuesto de egresos;
 
@@ -802,3 +812,23 @@ PRESIDENTE.- DIP. ARMANDO OCTAVIO BALLINAS MAYÉS.- SECRETARIO.- DIP. JOSÉ LUIS
 En cumplimiento a los dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Mich., a los 11 once días del mes de Julio del año 2003 dos mil tres.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- MAESTRO LEONEL GODOY RANGEL. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
