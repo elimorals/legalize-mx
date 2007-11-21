@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-295
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-03-13"
-last_updated: "2007-09-26"
+last_updated: "2007-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de marzo de 2003.
 
@@ -469,6 +469,10 @@ II. Formular opiniones sobre los asuntos presentados al Congreso, tomando en con
 
 III. Tratar los asuntos políticos de carácter interno del Congreso;
 
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+III bis. Establecer, con base en la propuesta presentada por la Comisión de Administración y Control, la política salarial para regular el sistema de remuneraciones y prestaciones del Congreso, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad;
+
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 IV. Proponer al Congreso la designación del Secretario de Servicios Parlamentarios, del Secretario de Administración y Finanzas, el Contralor Interno, el Auditor Superior de Michoacán, los auditores Especiales de la Auditoría Superior de Michoacán y el Director del Centro de Investigaciones y Estudios Legislativos;
@@ -873,6 +877,10 @@ II. Dar cuenta al Pleno de las faltas, irregularidades y omisiones que encontras
 
 III. Examinar los documentos sobre administración de los bienes del Congreso, así como supervisar el manejo de los mismos;
 
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+III bis. Aprobar la propuesta de política salarial que le presente la Secretaría de Administración y Finanzas, en la que se deberá observar que los diputados y los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo, del periodo para el que fueron electos o por separación del cargo, sea cual fuere el mecanismo o forma de pago, su responsabilidad en comisiones, lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
+
 IV. Supervisar el ejercicio del Presupuesto de Egresos del Poder Legislativo aprobado;
 
 V. Elaborar la iniciativa de presupuesto anual del Poder Legislativo, considerando las necesidades de las diversas Comisiones, dentro de la segunda quincena del mes de octubre, con apoyo en programas y subprogramas que señalen objetivos y metas, y presentarlo para su aprobación al Pleno;
@@ -885,7 +893,7 @@ VIII. Supervisar el trabajo de la Secretaría de Administración y de Finanzas d
 
 IX. Supervisar los programas de desarrollo de personal para el servicio de carrera, y rendir cuentas de ello ante el Pleno;
 
-X. Supervisar el inventario de los bienes del Congreso y sus dependencias, así como vigilar que la Secretaría de Administración cuide de la conservación de lo mismos; y,
+X. Supervisar el inventario de los bienes del Congreso y sus dependencias, así como vigilar que la Secretaría de Administración cuide de la conservación de lo mismos (sic); y,
 
 XI. Notificar a los empleados del Congreso, de las sanciones administrativas que se les impongan, por las faltas en que incurran.
 
@@ -1017,7 +1025,9 @@ El Congreso contará con la Secretaría de Administración y Finanzas, y como ta
 
 I. Recursos Financieros: que comprende la programación y control presupuestal; contabilidad, finanzas y formulación de manuales de organización y procedimientos administrativos;
 
-II. Recursos Humanos: que comprende aspectos administrativos del servicio de carrera; selección, contratación, capacitación permanente y evaluación periódica, así como la promoción del personal interno y externo a dicho servicio; nóminas, prestaciones sociales y expedientes laborales;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+II. Recursos Humanos: que comprende aspectos administrativos del servicio de carrera; selección, contratación, capacitación permanente y evaluación periódica, promoción del personal interno y externo a dicho servicio; nóminas, prestaciones sociales y expedientes laborales; así como la elaboración de la propuesta de política salarial, que deberá proponer a la Comisión de Administración y Control;
 
 III. Recursos Materiales y Generales: que comprende inventario y mantenimiento de bienes muebles e inmuebles, adquisiciones y servicios generales;
 
@@ -1723,11 +1733,9 @@ Las declaraciones del Congreso erigido en Gran Jurado, deben hacerse del conocim
 
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO PARA LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS Y SUSPENSION O REVOCACION DE ALGUNO DE SUS MIEMBROS
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
-
 ###### Artículo 174.
 
-Es facultad del Congreso por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos o consejos municipales en su caso, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, de conformidad con la Ley.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2007)
 
 > <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
 
@@ -1834,3 +1842,35 @@ Toda referencia al Auditor Especial Técnico o Auditor Especial de Auditoría, h
 ###### ARTÍCULO TERCERO.
 
 El Reglamento Interior, se deberá adecuar al presente Decreto, delimitando las atribuciones de cada uno de los Auditores Especiales, a más tardar dentro de los sesenta días siguientes a su entrada en vigor.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+DECRETO NUMERO 248, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 40, 67 Y 78 DE LA LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+DECRETO NUMERO 264, POR EL QUE SE DEROGA EL ARTICULO 174 DE LA LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Gobernador del Estado.
