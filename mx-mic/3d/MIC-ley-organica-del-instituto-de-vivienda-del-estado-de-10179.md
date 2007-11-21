@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-instituto-de-vivienda-del-estado-de-10179"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-02"
-last_updated: "2007-08-23"
+last_updated: "2007-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
 
 Ley Orgánica publicada en la Sección Segunda del Periódico Oficial, el lunes 2 de diciembre de 1996.
 
@@ -221,7 +221,9 @@ I. Establecer en congruencia con el Plan Estatal de Desarrollo, las políticas g
 
 II. Analizar y en su caso, aprobar los programas anuales y especiales de operación, y los presupuestos de ingresos y egresos materia de su competencia, que le sean presentados por el Director General, vigilando la adecuada utilización de los recursos económicos;
 
-III. Aprobar los salarios que correspondan al personal del Instituto;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+III. Definir a propuesta del director general, con base en las políticas y lineamientos establecidos por el Congreso del Estado, la política salarial para regular el sistema de remuneraciones y prestaciones del Instituto, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad;
 
 IV. Sancionar el proyecto del Programa Estatal de Vivienda, y someterlo al Gobernador del Estado para su aprobación y publicación en el Periódico Oficial del Estado;
 
@@ -255,7 +257,11 @@ I. Administrar y representar legalmente al Instituto de Vivienda del Estado de M
 
 II.- Celebrar toda clase de actos y expedir documentos inherentes al objeto del Instituto;
 
-III.- Formular los programas anuales y especiales de operación y presentarlos junto con los proyectos de presupuestos de ingresos y egresos que sean de su competencia, para su aprobación a la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
+III.- Formular la propuesta de política salarial del instituto, los programas anuales y especiales de operación y presentarlos con los proyectos de presupuestos de ingresos y egresos, que sean de su competencia, para su aprobación a la Junta de Gobierno.
+
+Los miembros de la Junta de Gobierno y los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión del sexenio o de cualquier periodo de trabajo o por separación del cargo, sea cual fuere el mecanismo o forma de pago, lugar de adscripción, puesto, plaza o remuneración que devenguen, ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
 
 IV.- Establecer los mecanismos que permitan un óptimo aprovechamiento de los bienes que disponga el Instituto para la realización de su objeto;
 
@@ -370,3 +376,21 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que iniciaron.
+
+P.O. 21 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
