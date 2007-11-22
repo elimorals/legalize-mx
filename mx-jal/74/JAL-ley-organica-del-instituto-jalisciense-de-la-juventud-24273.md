@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-la-juventud-24273"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-02-12"
-last_updated: "2002-02-12"
+last_updated: "2007-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL INSTITUTO JALISCIENSE DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 12 de febrero de 2002.
 
@@ -119,33 +119,35 @@ XV. Promover y difundir los acuerdos y convenios internacionales firmados por el
 
 XVI. Las demás que le otorgue la presente Ley y otros ordenamientos legales y reglamentarios.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 6°.
 
-El Instituto promoverá en todo momento que la juventud tenga acceso:
+El Instituto promoverá en todo momento que la juventud tenga acceso a:
 
-I. A los servicios y beneficios sociales, económicos, políticos, culturales, informativos y recreativos;
+I. Los servicios y beneficios sociales, económicos, políticos, culturales, informativos y recreativos;
 
-II. Al trabajo digno y bien remunerado;
+II. El trabajo digno y bien remunerado;
 
-III. A acceder al sistema educativo;
+III. El sistema educativo estatal;
 
-IV. Al acceso y a la protección de la salud;
+IV. La protección de la salud;
 
-V. Al acceso a espacios culturales y a expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas;
+V. Los espacios culturales y a expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas;
 
-VI. Al disfrute de actividades de recreación y al acceso a espacios recreativos;
+VI. Los espacios recreativos y al disfrute de actividades de recreación;
 
-VII. A practica del deporte;
+VII. La practica del deporte;
 
-VIII. A la participación social y política;
+VIII. La participación social y política;
 
-IX. A constituir asociaciones y organizaciones que busquen hacer realidad sus demandas, aspiraciones y proyectos;
+IX. La constitución de asociaciones y organizaciones que busquen hacer realidad sus demandas, aspiraciones y proyectos;
 
-X. A recibir, analizar, sistematizar y difundir información objetiva y oportuna que les sea de importancia para sus proyectos de vida;
+X. La recepción, análisis, sistematización y difusión de información objetiva y oportuna que les sea de importancia para sus proyectos de vida;
 
-XI. A Disfrutar de un medio ambiente natural y social sano que respalde el desarrollo integral de la juventud en el Estado; y
+XI. El disfrute de un medio ambiente natural y social sano que respalde su desarrollo integral en el estado; y
 
-XII. A la oportunidad de integrarse a la sociedad y de ser sujetos de derechos y oportunidades que mejoren su calidad de vida, en el caso de jóvenes en situación de desigualdad, debido a la pobreza, exclusión social, indigencia, discapacidad o privación de la libertad y otros factores.
+XII. La oportunidad de integrarse a la sociedad y de ser sujetos de derechos y oportunidades que mejoren su calidad de vida, en el caso de jóvenes en situación de desigualdad, debido a la pobreza, exclusión social, indigencia, discapacidad, privación de la libertad y otros factores.
 
 ###### Artículo 7°.
 
@@ -195,7 +197,9 @@ I. Un Presidente que será el Titular de la Secretaría General de Gobierno o la
 
 II. Un Secretario que será el Director, quien contará sólo con voz y tendrá a su cargo el manejo inmediato de las sesiones;
 
-III. Seis Vocales que serán los Titulares o a quienes éstos designen en su representación, de las siguientes dependencias:
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2007)</small>
+
+III. Siete vocales que serán los titulares o a quienes éstos designen en su representación, de las siguientes dependencias del Poder Ejecutivo del Estado:
 
 a) Secretaría de Educación;
 
@@ -205,9 +209,11 @@ c) Secretaría de Salud;
 
 d) Secretaría del Trabajo y Previsión Social;
 
-e) Secretaría de Seguridad Pública, Prevención y Readaptación Social; y
+e) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
 
-f) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud;
+f) Secretaría de Desarrollo Humano; y
+
+g) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud.
 
 IV. El Presidente del Consejo; y
 
@@ -450,3 +456,9 @@ LIC. FRANCISCO JAVIER RAMÍREZ ACUÑA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HÉCTOR PÉREZ PLAZOLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE NOVIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
