@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "1994-12-29"
+last_updated: "2007-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -221,17 +221,37 @@ Por cada seis días de trabajo, el trabajador disfrutará de un día de descanso
 
 Las mujeres disfrutarán, con goce de salario íntegro, de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos meses después del mismo. Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
 
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 27.
 
-Serán días de descanso obligatorio los siguientes: lo. de enero, 5 y 24 de febrero, 21 de marzo, lo. y 5 de mayo, 17 de julio, 15 y 16 de septiembre, 12 de octubre, 2 y 20 de noviembre y 25 de diciembre.
+Serán días de descanso obligatorio los siguientes:
+
+I.- El primero de enero;
+
+II.- El primer lunes de febrero en conmemoración del 5 de febrero;
+
+III.- El 24 de febrero;
+
+IV.- El tercer lunes de marzo en conmemoración del 21 de marzo;
+
+V.- Los días 1 y 5 de mayo;
+
+VI.- El 17 de julio;
+
+VII.- Los días 15 y 16 de septiembre;
+
+VIII.- El 12 de octubre;
+
+IX.- El 2 de noviembre y el tercer lunes de noviembre en conmemoración del 20 de noviembre;
+
+X.- El 25 de diciembre; y
+
+XI.- El que determinen las leyes federales y locales electorales, en caso de elecciones ordinarias, para efectuar la jornada electoral.
 
 En los días señalados también disfrutará el trabajador de salario íntegro.
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
-
 En cuanto a los trabajadores de la educación, los días de descanso obligatorio serán aquellos que contemple el Calendario Escolar para el Estado de Sonora.
-
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
 
 El Calendario Escolar para el Estado de Sonora lo elaborará anualmente la dependencia responsable del ramo y deberá publicarse, cuando menos con treinta días de anticipación al inicio del año escolar, en el Boletín Oficial del Gobierno del Estado y en los medios de comunicación que aseguren su conocimiento oportuno por la comunidad sonorense.
 
@@ -763,6 +783,42 @@ En los casos previstos en las fracciones anteriores, si al vencer las licencias 
 
 Para los efectos de las fracciones anteriores, los cómputos deberán hacerse por servicios continuados, o cuando de existir una interrupción, ésta no sea mayor de seis meses.
 
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 100 BIS.- El Plan de Indemnizaciones, Enfermedades y Riesgos Laborales, en lo subsiguiente el Plan, tendrá por objeto establecer un instrumento con la finalidad de salvaguardar a los trabajadores al servicio del Gobierno del Estado de los riesgos, accidentes o enfermedades que en su integridad física puedan afectar su desenvolvimiento laboral.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 100 BIS A.- Las indemnizaciones por conceptos de riesgos laborales y enfermedades profesionales establecidas en el Plan, procederán sobre aquellas contingencias que no se encuentren previstas en la Ley Federal del Trabajo y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 100 BIS B.- Los participantes del Plan deberán cumplir con los siguientes requisitos:
+
+I.- Ser trabajador activo del Gobierno del Estado, en cualquiera de sus categorías;
+
+II.- Firmar carta de adhesión al Plan; y
+
+III.- Los demás que se establezcan en las disposiciones reglamentarias respectivas y en el propio Plan.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 100 BIS C.- Los trabajadores de base y de confianza participantes del Plan tendrán derecho al pago de indemnizaciones por enfermedades profesionales y no profesionales y riesgos laborales, siempre que cumplan con las condiciones establecidas en el propio Plan.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 100 BIS D.- Las indemnizaciones serán cubiertas de manera directa por el Gobierno del Estado y por los montos que éste determine.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 100 BIS E.- La dirección y administración del Plan, así como la vigilancia y cumplimiento del mismo, estará a cargo de un Comité Técnico, el cual tendrá por objeto planear y establecer procedimientos y lineamientos para el mejor desempeño de lo estipulado en el propio Plan.
+
+El Comité Técnico se integrará de tres personas cuyos nombramientos deberán realizarse por el Ejecutivo del Estado. El número de integrantes del Comité Técnico podrá aumentar o disminuir de acuerdo a los requerimientos del Plan, siempre que en la especie dicho Comité quede integrado por un número impar de miembros.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 100 BIS F.- Los derechos de los participantes y beneficiarios para hacer efectivos los pagos conforme al Plan, prescribirán en el término de un año, contado a partir del día siguiente al de la fecha en que se tenga derecho a los mismos.
+
 ## TITULO SEXTO. DE LAS PRESCRIPCIONES
 
 ###### ARTICULO 101.
@@ -1122,3 +1178,13 @@ B.O. 29 DE DICIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Plan que propone el presente decreto deberá expedirse dentro de un plazo de sesenta días, contados a partir de la entrada en vigor del presente decreto.
