@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-la-contraloria-47692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-08"
-last_updated: "2005-12-08"
+last_updated: "2007-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA GENERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 2005.
 
@@ -40,6 +40,8 @@ A la Secretaría de la Contraloría General, como dependencia directa de la Admi
 ###### Artículo 2°.
 
 El Titular de la Secretaría de la Contraloría General será el Secretario que designe el Ejecutivo del Estado, quien para el trámite y resolución de los asuntos de su competencia contará con las unidades administrativas y órganos desconcentrados siguientes:
+
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2007)</small>
 
 I.- Unidades administrativas:
 
@@ -58,6 +60,8 @@ Dirección General de Contraloría Social.
 Dirección General de Responsabilidades y Situación Patrimonial.
 
 Dirección General de Tecnología Informática.
+
+Dirección General de Información e Integración.
 
 Dirección General de Administración y Control Presupuestal.
 
@@ -311,6 +315,8 @@ XX. Supervisar la operación de la cuenta bancaria de tipo referenciada para el 
 
 XXI. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el titular de la Secretaría.
 
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 10.
 
 La Dirección General de Auditoría Gubernamental estará adscrita al titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
@@ -327,7 +333,7 @@ d) Comprobar el cumplimiento de las obligaciones a su cargo, derivadas de los co
 
 e) Recomendar, con base en los resultados determinados en las auditorías realizadas a las dependencias y entidades, así como en la información obtenida, la realización de las medidas preventivas y/o correctivas que se requieran, de conformidad con las disposiciones que regulan su marco de actuación; para la corrección de situaciones anómalas o el mejoramiento de la eficiencia y el logro de sus objetivos;
 
-II. Proponer e impulsar la aplicación de medidas y acciones de carácter preventivo a cargo de las dependencias y entidades, con el objeto de evitar incurrir en actuaciones irregulares en su desempeño; ­
+II. Proponer e impulsar la aplicación de medidas y acciones de carácter preventivo a cargo de las dependencias y entidades, con el objeto de evitar incurrir en actuaciones irregulares en su desempeño;
 
 III. Fomentar la implementación de medidas de autocontrol por parte de las dependencias y entidades en el desarrollo de sus procedimientos y operaciones;
 
@@ -337,41 +343,53 @@ V. Formular y proponer a su superior jerárquico, con la participación de las d
 
 VI. Proponer a su superior jerárquico los lineamientos para llevar a cabo el ejercicio de los ingresos propios de las entidades de la Administración Pública Paraestatal;
 
-VII. Coordinar a los Enlaces de Control designados en las dependencias, a los Órganos de Control y Desarrollo Administrativo en las entidades, así como establecer comunicación con los órganos de control correlativos de los Poderes Legislativo y Judicial del Estado, de los Poderes de la Federación, y con los Municipios del Estado, dentro del marco de los convenios establecidos para el eficaz cumplimiento de sus atribuciones de control;
+VII. Coordinar a los Enlaces de Control designados en las dependencias, así como establecer comunicación con los órganos de control correlativos de los Poderes Legislativo y Judicial del Estado, de los Poderes de la Federación, y con los Municipios del Estado, de los Poderes de la Federación, y con los Municipios del Estado, dentro del marco de los convenios establecidos para el eficaz cumplimiento de sus atribuciones de control;
 
 VIII. Solicitar y obtener de los servidores públicos de las dependencias y entidades de la Administración Pública Estatal, así como, en su caso, de los proveedores o contratistas, todos los datos e informes relacionados con el ejercicio del gasto público, y hacer las compulsas que se requieran de los documentos que obren en los archivos de las personas físicas o morales señaladas en esta fracción;
 
-IX. Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública Estatal; analizar y autorizar los programas anuales de auditoría de los Órganos de Control y Desarrollo Administrativo de las entidades, así como el propio, previa autorización del Secretario;
+IX.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública Estatal;
 
-X. Inspeccionar y vigilar que los Órganos de Control y Desarrollo Administrativo en las entidades de la Administración Pública Paraestatal cumplan con las normas, políticas y procedimientos que expida la Secretaría para la regulación de su ámbito de actuación;
+X.- Dar seguimiento, a través de los programas de solventación, a las observaciones, acciones y medidas correctivas derivadas de las auditorías, investigaciones y verificaciones realizadas por esta unidad administrativa, los Despachos de Auditores Externos, Órganos de Fiscalización Superior; y las que determinen los Órganos de Control y Desarrollo Administrativo designados en las entidades, dándoles el seguimiento correspondiente hasta su total atención;
 
-XI. Analizar el contenido de los informes de resultados de las auditorias que lleven cabo (sic) los Órganos de control y Desarrollo Administrativo de las entidades de la Administración Pública Paraestatal, y proponer, en su caso, las acciones y medidas preventivas y correctivas que sean pertinentes; y previo acuerdo del Secretario comunicar a los titulares de dichas entidades los resultados obtenidos;
+XI.- Denunciar ante la Dirección General de Responsabilidades y Situación Patrimonial la probable responsabilidad de servidores públicos, cuando de los expedientes relativos a las revisiones, investigaciones o auditorías que se hubieren practicado, se detecten hechos que puedan constituir presuntas responsabilidades de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o en caso de que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido, y presentar la denuncia correspondiente ante el Ministerio Público;
 
-XII. Atender y dar seguimiento a los informes y observaciones de los Comisarios Públicos Oficiales y Ciudadanos designados en las entidades de la administración Pública Paraestatal;
+XII.- Ser el conducto de la Secretaría para encauzar las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, con fines de congruencia global de éstas con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de control y evaluación, conforme a lo dispuesto en el artículo 53 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora;
 
-XIII. Dar seguimiento, a través de los programas de solventación, a las observaciones, acciones y medidas correctivas derivadas de las auditorías, investigaciones y verificaciones realizadas por esta unidad administrativa, los Despachos de Auditores Externos, Órganos de Fiscalización Superior; y las que determinen los Órganos de Control y Desarrollo Administrativo designados en las entidades, dándoles el seguimiento correspondiente hasta su total atención;
+XIII.- Llevar a cabo, de conformidad con los lineamientos y políticas que emita el titular de la Secretaría, los procedimientos que permitan la coordinación que se requiera con el Instituto Superior de Auditoría y Fiscalización;
 
-XIV. Denunciar ante la Dirección General de Responsabilidades y Situación Patrimonial la probable responsabilidad de servidores públicos, cuando de los expedientes relativos a las revisiones, investigaciones o auditorías que se hubieren practicado, se detecten hechos que puedan constituir presuntas responsabilidades de los servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o en caso de que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido, y presentar la denuncia correspondiente ante el Ministerio Público;
+XIV.- Proponer a su superior jerárquico los proyectos que establezcan las bases, y las modificaciones que éstas requieran, para la designación de los Auditores Externos;
 
-XV. Ser el conducto de la Secretaría para encauzar las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, con fines de congruencia global de éstas con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de control y evaluación, conforme a lo dispuesto en el artículo 53 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora;
+XV.- Cotejar, por conducto de los auditores adscritos a esta Dirección General o los Enlaces de Control, los papeles de trabajo que se generen en los actos de revisión, verificación, auditoría y fiscalización a su cargo, con los documentos originales que obren en la dependencia o entidad correspondiente, haciendo constar la autenticidad de dichos documentos;
 
-XVI. Llevar a cabo, de conformidad con los lineamientos y políticas que emita el titular de la Secretaría, los procedimientos que permitan la coordinación que se requiera con la Contaduría Mayor de Hacienda del Congreso del Estado;
+XVI.- Integrar los informes que formulen los Auditores Externos que designe la Secretaría, y con base en ellos proponer objetivos y acciones inmediatas de control, de conformidad con las sugerencias de dichos Auditores;
 
-XVII. Proponer a su superior jerárquico los proyectos que establezcan las bases, y de las modificaciones que éstas requieran, para la designación de los Auditores Externos y de los Comisarios Públicos Oficiales y Ciudadanos, así como proponer y someter a la consideración del Secretario los requisitos que deben cubrir los programas de trabajo de éstos, y realizar el seguimiento de los mismos;
+XVII.- Elaborar y mantener permanentemente actualizado el Catálogo de Auditores Externos;
 
-XVIII. Cotejar, por conducto de los auditores adscritos a esta Dirección General o los Enlaces de Control, los papeles de trabajo que se generen en los actos de revisión, verificación, auditoría y fiscalización a su cargo, con los documentos originales que obren en la dependencia o entidad correspondiente, haciendo constar la autenticidad de dichos documentos;
+XVIII.- Integrar y actualizar el padrón de entidades de la Administración Pública Paraestatal, así como mantener actualizada la información concerniente a cada una de ellas;
 
-XIX. Integrar los informes que formulen los Auditores Externos que designe la Secretaría, y con base en ellos proponer objetivos y acciones inmediatas de control, de conformidad con las sugerencias de dichos Auditores;
+XIX.- Coordinar, supervisar, evaluar y dirigir el desempeño de las actividades sustantivas y administrativas de los Órganos de Control y Desarrollo Administrativo y Comisarios Públicos, teniendo facultades para:
 
-XX. Elaborar y mantener permanentemente actualizado el Catálogo de Auditores Externos y el Registro de Comisarios Públicos Oficiales y Ciudadanos de la Secretaría;
+a. Analizar y aprobar los programas operativos anuales, el programa anual de auditoría de los Órganos de Control y Desarrollo Administrativo con base en las políticas y prioridades que dicte el Secretario;
 
-XXI. Llevar a cabo el proceso de selección, así como la capacitación y coordinación de las actividades de los Comisarios Públicos Ciudadanos, efectuar la planeación de sus metas y programas y darles el seguimiento correspondiente;
+b. Evaluar el desempeño de los Órganos de Control y Desarrollo Administrativo sobre el cumplimiento integral de los objetivos establecidos en base a las políticas y prioridades que dicte el Secretario;
 
-XXII. Integrar y actualizar el padrón de entidades de la Administración Pública Paraestatal, así como mantener actualizada la información concerniente a cada una de ellas;
+c. Analizar el contenido de los informes de resultados de las auditorías que lleven cabo los Órganos de Control y Desarrollo Administrativo de las entidades de la Administración Pública Paraestatal, y proponer, en su caso, las acciones y medidas preventivas, correctivas y seguimiento correspondiente, comunicando, previo acuerdo del Secretario, a los titulares de dichas entidades, los resultados obtenidos;
 
-XXIII. Llevar el registro de las reuniones celebradas por los órganos de gobierno de las entidades paraestatales, y
+d. Inspeccionar y vigilar que los Órganos de Control y Desarrollo Administrativo cumplan con las normas, políticas y procedimientos que expida la Secretaría para regular su ámbito de actuación;
 
-XXIV. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el titular de la Secretaría.
+e. Promover, previo acuerdo del Secretario ante los titulares de las entidades, el establecimiento o modificación de las estructuras orgánicas y ocupacionales de los órganos de Control y Desarrollo Administrativo, atendiendo a las necesidades del servicio y a las políticas y prioridades de la Secretaría;
+
+f. Proponer y someter a consideración del Secretario la designación de Comisarios Públicos, así como mantener actualizado su registro, llevando a cabo el proceso de selección, capacitación y coordinación de las actividades de éstos;
+
+g. Proponer y someter a consideración del Secretario la planeación de los programas y metas para la realización de las funciones que lleven a cabo los Comisarios Públicos y evaluación correspondiente;
+
+h. Coordinar la integración de los informes que deban rendir los Comisarios Públicos y evaluar el resultado de sus actividades, dando seguimiento a sus observaciones;
+
+i. Promover, con el apoyo de otras unidades administrativas competentes de la Secretaría, la capacitación y el apoyo técnico que requieran los Órganos de Control y Desarrollo Administrativo, así como los Comisarios Públicos;
+
+j. Coordinar, supervisar, dirigir y evaluar la participación de los Órganos de Control y Desarrollo Administrativo en la integración y seguimiento de los programas que las entidades generen para dar cumplimiento al programa que derive del Plan Estatal de Desarrollo, y lo relacionado a la materia de transparencia y combate a la corrupción en cumplimiento de la Ley de Acceso a la Información Pública para el Estado de Sonora;
+
+XX.- Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el titular de la Secretaría.
 
 ###### Artículo 11.
 
@@ -584,6 +602,38 @@ XV. Dirigir la línea de acción en el manejo de transacciones de los entes púb
 XVI. Proponer al Titular de la Secretaría, para su expedición, los lineamientos y políticas para la evaluación de proveedores de tecnologías de información de las dependencias y entidades, así como dirigir, coordinar y evaluar el desarrollo y aplicación de dichas disposiciones, y
 
 XVII. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 15 Bis.
+
+La Dirección General de Información e Integración estará adscrita al titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
+
+I. Coadyuvar con las Direcciones Generales adscritas a la Secretaría de la Contraloría y con los Órganos de Control y Desarrollo Administrativo, en la realización de investigaciones que deban efectuarse para determinar si las conductas de los servidores públicos contravienen disposiciones del marco normativo que les es aplicable y puedan éstas generar responsabilidades administrativas;
+
+II. Orientar y asesorar a los Órganos de Control y Desarrollo Administrativo sobre las acciones correspondientes en materia de investigación;
+
+III. Formular programas, guías y metodologías para la realización de investigaciones;
+
+IV. Programar, asesorar, orientar y participar en la ejecución de acciones para verificar el cumplimiento de obligaciones de los servidores públicos, en coordinación con las unidades administrativas de la Secretaría que así lo requieran;
+
+V. Analizar el contenido de los informes de los resultados de investigación y detectar conductas de servidores públicos que puedan constituir responsabilidades administrativas;
+
+VI. Implementar programas de capacitación en materia de investigación de las conductas de los servidores públicos que puedan constituir responsabilidades Administrativas;
+
+VII. Coordinar la formulación de estudios y requerimientos necesarios para llevar a cabo la contratación tecnológica especializada, a fin de mejorar los procedimientos de investigación a cargo de la Secretaría, así como para la protección y seguridad de la información y documentación que obtenga con motivo de sus funciones;
+
+VIII. Cotejar y certificar, por conducto de los auditores adscritos a esta Dirección General, los papeles de trabajo que se generen por los actos de investigaciones a su cargo, con los documentos originales que obren en la dependencia o entidad correspondiente haciendo constar la autenticidad de dichos documentos;
+
+IX. Solicitar y obtener de los servidores públicos de las dependencias y entidades de la Administración Pública Estatal todos los datos e informes relacionados con las investigaciones que se estén realizando, así como solicitar las compulsas que se requieran de los archivos que obren en poder de personas físicas o morales que tengan alguna participación en dicho proceso;
+
+X. Proponer la celebración de convenios, bases de colaboración o acuerdos interinstitucionales con las dependencias y entidades federales, Procuraduría General de la República, con los Gobiernos de las Entidades Federativas y Municipios, así como con los demás órganos, entidades o instituciones autónomas, y órganos gubernamentales extranjeros u organizaciones internacionales y agencias extranjeras en materia de intercambio de información y capacitación en técnicas de investigación;
+
+XI. Practicar las investigaciones que se le encomienden sobre las conductas de servidores públicos que puedan constituir responsabilidades administrativas y requerir información a las dependencias, las entidades y a la Procuraduría General de Justicia, así como a las demás instituciones, organismos autónomos, y Autoridades Federales y Municipales, de acuerdo a los convenios o acuerdos que tenga celebrados la Secretaría;
+
+XII. Denunciar ante la Dirección General de Responsabilidades y Situación Patrimonial la probable responsabilidad de servidores públicos, cuando de los expedientes relativos a investigaciones o auditorías que se hubieren practicado, se detecten hechos que puedan constituir presuntas responsabilidades de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o en caso de que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido, y presentar la denuncia correspondiente ante el Ministerio Público; y
+
+XIII. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el titular de la Secretaría.
 
 ###### Artículo 16.
 
@@ -836,3 +886,11 @@ Se abroga el Reglamento Interior de la Secretaría de la Contraloría General de
 Dado en la residencia del Poder Ejecutivo, en la Ciudad de Hermosillo, Sonora, a los 8 días del mes de noviembre del 2005.
 
 EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARÁN, RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 22 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
