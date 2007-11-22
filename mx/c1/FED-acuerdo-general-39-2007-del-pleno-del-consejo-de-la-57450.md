@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-39-2007-del-pleno-del-consejo-de-la-57450"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-11-12"
-last_updated: "2007-11-12"
+last_updated: "2007-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57450&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-10-03"
 
 ACUERDO GENERAL 39/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA FECHA DE INICIO DE ESPECIALIZACION, NUEVA DENOMINACION Y COMPETENCIA DE LOS TRIBUNALES COLEGIADOS DEL DECIMOPRIMER CIRCUITO, CON RESIDENCIA EN MORELIA, MICHOACAN; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS MENCIONADOS TRIBUNALES COLEGIADOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL ACUERDO GENERAL 50/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 22 DE NOVIEMBRE DE 2007, SE MODIFICA LA FECHA DE INICIO DE LA ESPECIALIZACION DE LOS TRIBUNALES COLEGIADOS DEL DECIMOPRIMER CIRCUITO, PARA EMPEZAR CUANDO ENTRE EN FUNCIONES EL TRIBUNAL COLEGIADO AUXILIAR EN MATERIA CIVIL.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de noviembre de 2007.
 
@@ -104,3 +106,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día el (sic) de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 39/2007, del Pleno del Consejo de la Judicatura Federal, Relativo a la Fecha de Inicio de Especialización, Nueva Denominación y Competencia de los Tribunales Colegiados del Decimoprimer Circuito, con Residencia en Morelia, Michoacán; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Mencionados Tribunales Colegiados, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de tres de octubre de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a cinco de noviembre de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 22 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
