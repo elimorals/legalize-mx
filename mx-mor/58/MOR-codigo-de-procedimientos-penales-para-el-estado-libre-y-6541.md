@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-para-el-estado-libre-y-6541"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2007-06-27"
+last_updated: "2007-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DE CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO ENTRE 2008 Y 2010.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2394,3 +2396,25 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. DE 22 DE NOVIEMBRE DE 2007.
+
+Artículo Primero. Inicio de Vigencia. El presente Código iniciará su vigencia con las modalidades y en las fechas que se precisan en el artículo siguiente.
+
+Artículo Segundo. Aplicación. Sus disposiciones se aplicarán a hechos que ocurran a partir de las cero horas del día 30 de octubre del 2008, en el Primer Distrito Judicial.
+
+A partir de las cero horas del 1 de junio del 2009 en el Sexto Distrito Judicial con sede en Cuautla y en el Quinto Distrito Judicial con sede en Yautepec, Morelos.
+
+Y a partir de las cero horas del día 1 de febrero del 2010, en el Cuarto Distrito Judicial con sede en Jojutla, en el Segundo Distrito Judicial con sede en Tetecala, en el Tercer Distrito Judicial con sede en Puente de Ixtla y en el Séptimo Distrito Judicial con sede en Jonacatepec.
+
+Artículo Tercero. Abrogación. El Código de Procedimientos Penales promulgado el 7 de octubre de mil novecientos noventa y seis seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código, y quedará abrogado en la medida en que aquellos queden agotados.
+
+Artículo Cuarto. Derogación Tácita de Preceptos Incompatibles. Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este Ordenamiento.
+
+Artículo Quinto. Delitos Permanentes y Continuados. El procedimiento penal relativo a hechos delictuosos de carácter permanente o continuado que iniciaron bajo la vigencia del Código de Procedimientos Penales de mil novecientos noventa y seis y que continúen desarrollándose bajo el presente Código serán regulados por el abrogado.
+
+Artículo Sexto. Prohibición de Acumulación de Procesos. No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al abrogado.
+
+Artículo Séptimo. Eficacia Retroactiva. Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse en el curso del procedimiento regido por el Código anterior las disposiciones del presente Ordenamiento que se refieran: A) indemnización al imputado, B) aplicación de los criterios (sic) oportunidad en el ejercicio de la acción penal, salvo la que aluda a casos de delincuencia organizada, C) imposición de medidas cautelares personales, D) acuerdos reparatorios y suspensión del proceso a prueba E) procedimiento abreviado, F) pueblos o comunidades indígenas, G) procedimiento para inimputables y H) recurso de revisión.
+
+Artículo Octavo. Facultades del Tribunal Superior de Justicia. Para instrumentar la aplicación del presente Código, se autoriza al Pleno del Tribunal Superior de Justicia del Estado y o Consejo de la Judicatura del Poder Judicial Estatal, para que tome la medidas necesarias sobre: traslado de funcionarios, designación de jueces de garantía, integración de tribunales de juicio oral y salas de casación, redistribución de competencias territoriales, asignación del despacho de rezagos y creación de órganos que resulten pertinentes.
