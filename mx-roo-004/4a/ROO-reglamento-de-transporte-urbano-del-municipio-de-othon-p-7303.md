@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transporte-urbano-del-municipio-de-othon-p-7303"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-08-31"
-last_updated: "1988-08-31"
+last_updated: "2007-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "ROO"
 
 REGLAMENTO DE TRANSPORTE URBANO DEL MUNICIPIO DE OTHON P. BLANCO, QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PÚBLICO DE TRANSPORTE URBANO DE PASAJEROS EN AUTOBUSES EN RUTA ESTABLECIDA, DEL MUNICIPIO DE OTHÓN P. BLANCO, QUINTANA ROO, PUBLICADO EN EL P.O. DE 23 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento Publicado en el Periódico Oficial del Estado de Quintana Roo el miércoles 31 de agosto de 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
+
+Reglamento Publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 31 de agosto de 1988.
 
 ## TÍTULO l. DISPOSICIONES GENERALES
 
@@ -258,3 +260,23 @@ Artículo Segundo.- Se abrogan las disposiciones y Reglamentos que se opongan al
 Artículo Tercero.- El presente Reglamento deberá ser revisado cada dos años por lo menos. Y como está ordenado en el referido acuerdo del Ayuntamiento, publíquese el presente Reglamento para el conocimiento y debida observancia de sus disposiciones.
 
 DADO EN EL PALACIO MUNICIPAL DE LA CIUDAD DE CHETUMAL QUINTANA ROO MÉXICO, A LOS 18 DÍAS DEL MES DE AGOSTO DE 1988.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto por el que se crea un organismo público Municipal con personalidad jurídica y patrimonio propio denominado "Transporte Urbano Municipal", del Municipio de Othón P. Blanco, publicado en el Periódico Oficial del Gobierno del Estado fecha 14 de Junio de 1985.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento de Transporte Urbano del Municipio de Othón P. Blanco, publicado en el Periódico Oficial del Gobierno del Estado, de fecha 31 de Agosto de 1988.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
