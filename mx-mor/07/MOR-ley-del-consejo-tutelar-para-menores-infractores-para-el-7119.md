@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-consejo-tutelar-para-menores-infractores-para-el-7119"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-17"
-last_updated: "1997-09-17"
+last_updated: "2007-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DEL CONSEJO TUTELAR PARA MENORES INFRACTORES PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 23 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de septiembre de 1997.
 
@@ -1490,3 +1492,43 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE MORALES BARUD
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2007.
+
+Primero.- Aprobada que sea la ley por el pleno del Honorable Congreso del Estado de Morelos, deberá ser publicada en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+Segundo.- La presente Ley entrará en vigor el primero de enero del 2008, fecha en la que deberá funcionar y operar el Sistema Integral de Justicia para Adolescentes.
+
+Tercero.- Se abroga la Ley del Consejo Tutelar para Menores Infractores para el Estado de Morelos, publicada en el Periódico Oficial Tierra y Libertad, del diecisiete de septiembre de 1997 y todas las disposiciones que se opongan a la presente.
+
+Cuarto.- Hasta en tanto entre en vigor la presente Ley, estará vigente la Ley del Consejo Tutelar para Menores Infractores para el Estado de Morelos.
+
+Quinto.- Los asuntos que se encuentren en trámite ante la Procuraduría General del Justicia del Estado o el Consejo Tutelar para Menores Infractores, a la entrada en vigor de la Ley del Sistema Integral de Justicia para Adolescentes del Estado, se tramitarán de la siguiente manera:
+
+a) Los asuntos que se encuentren en la etapa de Averiguación Previa, seguirán su curso conforme a las normas previstas en la presente Ley, relativas a la etapa de Investigación, debiendo ser remitidas a los Agentes del Ministerio Público especializados en adolescentes para tal efecto;
+
+b) Los adolescentes que se encuentren retenidos por el Ministerio Público, deberán ser puestos a disposición del Ministerio Público especializado y éste a su vez los pondrá a disposición del Juez de Garantía, dentro del plazo a que se refiere el artículo 104 del presente ordenamiento, para la celebración de la Audiencia de control de detención, prevista en el artículo 94 del mismo ordenamiento;
+
+c) Las facultades concedidas al Ministerio Público para abstenerse de investigar, del no ejercicio de la acción de imputación, así como la resolución de archivo temporal, serán aplicables a las averiguaciones previas iniciadas antes de la entrada en vigor de la presente Ley, en términos de lo dispuesto por los artículos 127, 128, 129, y 130 de la misma;
+
+d) En los asuntos en los que se haya dictado la Resolución Preliminar a que se refiere el artículo 45 de la Ley del Consejo Tutelar para Menores Infractores para el Estado de Morelos, se entenderá que en los mismos se ha dictado al Auto de Vinculación a proceso previsto en el artículo 182;
+
+e) En los asuntos tramitados ante el Consejo Tutelar para Menores Infractores, que se encuentren en la etapa de Ofrecimiento de Pruebas o Instrucción, el Juez de Garantía deberá convocar a una audiencia, en la que después de escuchar a las partes, fijará el plazo para el cierre de la investigación previsto en el artículo 187 del presente ordenamiento legal y continuar el procedimiento hasta su conclusión conforme a las disposiciones de esta Ley;
+
+f) Los Criterios de Oportunidad, la Suspensión condicional del proceso, así como los Acuerdos Reparatorios podrán ser aplicables a los asuntos que se encontraban en trámite ante el Consejo Tutelar, antes de la entrada en vigor de la presente Ley, siempre y cuando hayan sido homologados en términos del inciso anterior del presente transitorio, y no se haya dictado el Auto de Apertura a Juicio Oral;
+
+g) Los asuntos que se encuentren en trámite ante el Consejo Tutelar para Menores Infractores pendiente de elaborarse el proyecto de resolución definitiva o con proyecto de resolución pendiente de discutirse por la sala, serán entregados al Juez del Oral competente, para que emita la resolución correspondiente. Las pruebas desahogadas ante el Ministerio Público durante la Averiguación Previa o ante el Consejero en la etapa de Instrucción, conservarán el valor probatorio que les da la Ley del Consejo Tutelar para Menores Infractores del Estado y el Código de Procedimientos Penales para el Estado de Morelos, de aplicación supletoria a la misma;
+
+h) Los asuntos en los que se encuentren pendientes de resolución los recursos de apelación o inconformidad previstos, respectivamente en los artículos 53 y 60 de la Ley del Consejo Tutelar para Menores Infractores del Estado, se entregarán al Tribunal Unitario de Justicia para Adolescentes, el cual deberá resolverlos aplicando en lo conducente las reglas previstas en esta Ley,
+
+i) Creada la Dirección General de Ejecución de Medidas, deberá elaborarse el plan individualizado de ejecución previsto en el artículo 342 de la presente Ley para los adolescentes que se encuentren cumpliendo medidas impuestas por el Consejo Tutelar para Menores Infractores del Estado.
+
+Sexto.- El Ejecutivo del Estado emitirá el decreto de creación de la Dirección General de Ejecución de Medidas, así como los centros especializados a que hace referencia la presente ley para iniciar su vigencia cuando entre en funciones el Tribunal Unitario de Justicia para Adolescentes.
+
+Séptimo.- Los recursos del Consejo Tutelar para Menores Infractores quedará bajo el resguardo de la Secretaría de Gobierno del Estado y serán destinados preferentemente a los Centros de Ejecución de Medidas Privativas de Libertad para Adolescentes.
+
+Los trabajadores, actualmente adscritos al Consejo Tutelar para Menores Infractores, quedarán a disposición de la Secretaría de Gobierno.
+
+Octavo.- El Ejecutivo del Gobierno del Estado de Morelos, implementará los mecanismos e instrumentos necesarios para el debido funcionamiento del Sistema Integral de Justicia para Adolescentes.
