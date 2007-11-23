@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-general-de-gobierno-51746"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-01"
-last_updated: "2006-09-01"
+last_updated: "2007-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA GENERAL DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de septiembre de 2006.
 
@@ -49,11 +49,15 @@ Para el estudio y planeación de los asuntos y el desempeño de las atribuciones
 
 I.- Oficina del Titular
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+A) Secretaría Particular
+
 II.- Subsecretaría de Gobierno
 
 A) Dirección de Gobierno
 
-• Departamento de Gobierno
+- Departamento de Gobierno
 
 B) Dirección de Desarrollo Político
 
@@ -61,11 +65,15 @@ C) Dirección de Análisis e Información
 
 D) Dirección de Gestión y Atención a Grupos Sociales
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+E) Dirección de Enlace y Seguimiento
+
 III.- Subsecretaría Jurídica del Estado
 
 A) Dirección Jurídica de Normatividad Administrativa
 
-• Coordinación General
+- Coordinación General
 
 B) Dirección Jurídica de Asesoría al Ejecutivo
 
@@ -73,43 +81,61 @@ C) Dirección del Archivo General de Notarías
 
 D) Dirección Estatal de Defensoría de Oficio
 
-E) Dirección de Registro Civil
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
-Subdirección del Registro Civil
+D) (SIC) Dirección del Registro Civil
 
-F) Dirección Jurídica Contenciosa Mexicali
+- Subdirección del Registro Civil
 
-G) Dirección Jurídica Contenciosa Tijuana
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+E) Dirección Jurídica Contenciosa Mexicali
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+F) Dirección Jurídica Contenciosa Tijuana
 
 IV.- Subsecretaría de Gobierno para Asuntos Legislativos
 
 A) Dirección de Estudios y Proyectos Legislativos
 
-• Coordinación de Proyectos Legislativos
+- Coordinación de Proyectos Legislativos
 
 B) Dirección de Seguimiento Legislativo
 
-• Coordinación de Vinculación Gubernamental
+- Coordinación de Vinculación Gubernamental
 
 C) Dirección de Planeación y Estudios Legislativos
 
-V.- Subsecretaría de Gobierno Tijuana
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+V. Subsecretaría de Enlace para Asuntos de Justicia
+
+A) Dirección de Estudios para Asuntos de Justicia
+
+B) Dirección de Implementación y Seguimiento para Asuntos de Justicia
+
+C) Dirección Estatal de Defensoría de Oficio
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+VI. Subsecretaría de Gobierno Tijuana
 
 A) Delegación Tecate
 
 B) Delegación Rosarito
 
-VI.- Subsecretaría de Gobierno Ensenada
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
-• Delegación San Quintín
+VII. Subsecretaría de Gobierno Ensenada
 
-VII.- Dirección de Enlace y Seguimiento
+A) Delegación San Quintín
 
 VIII.- Dirección de Protección Civil
 
 IX.- Dirección de Administración
 
-• Departamento de Servicios Administrativos.
+- Departamento de Servicios Administrativos.
 
 ###### Artículo 3.
 
@@ -145,7 +171,9 @@ II.- Vigilar la marcha general de la administración pública, para asegurar el 
 
 III.- Fijar, dirigir y controlar la política de la Secretaría, así como planear en los términos de la legislación aplicable la del sector correspondiente, de conformidad con las políticas, objetivos y prioridades que establezca el Ejecutivo del Estado;
 
-IV.- Designar y remover libremente a los servidores públicos responsables de las unidades administrativas de la Secretaría;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+IV. Designar y remover a propuesta de los Subsecretarios, a los servidores públicos titulares de las unidades administrativas a las que alude el artículo 2 de este Reglamento;
 
 V.- Someter al acuerdo del Ejecutivo del Estado, los asuntos encomendados a la Secretaría y a las entidades del Sector, así como desempeñar las comisiones y funciones que le confiera, manteniéndolo informado sobre el desarrollo y ejecución de las mismas;
 
@@ -199,9 +227,11 @@ XXIX.- Resolver las dudas que se susciten con motivo de la aplicación e interpr
 
 XXX.- Las demás que le sean encomendadas por el Ejecutivo del Estado, o aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 7.
 
-Se adscriben directamente a la Oficina del Titular, la Subsecretaría de Gobierno, la Subsecretaría Jurídica del Estado, la Subsecretaría de Gobierno para Asuntos Legislativos, las Subsecretarías de Gobierno ubicadas en los municipios de Tijuana y Ensenada, la Dirección de Enlace y Seguimiento, la Dirección de Protección Civil, y la Dirección de Administración.
+Se adscriben directamente a la Oficina del Titular, la Secretaría Particular, la Subsecretaría de Gobierno, la Subsecretaría Jurídica del Estado, la Subsecretaría de Gobierno para Asuntos Legislativos, la Subsecretaría de Enlace para Asuntos de Justicia, las Subsecretarías de Gobierno ubicadas en los municipios de Tijuana y Ensenada, la Dirección de Administración y la Dirección de Protección Civil.
 
 ###### Artículo 8.
 
@@ -223,9 +253,13 @@ II.- Promover y evaluar el establecimiento de normas, criterios, políticas y li
 
 III.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas adscritas, de acuerdo a las normas y especificaciones técnicas de la función, y proponer la reorganización, fusión o desesperación de las mismas, según el caso, conforme a las disposiciones aplicables y a los lineamientos que determine el Secretario;
 
-IV.- Proponer al Secretario la designación, promoción o remoción de los servidores públicos responsables de las unidades administrativas a su cargo;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
-V.- Designar y remover libremente a los servidores públicos adscritos a las unidades administrativas a su cargo, diversos a los responsables de las mismas;
+IV. Proponer al Secretario la designación o remoción de los servidores públicos titulares de las unidades administrativas a su cargo, a las que alude el artículo 2 de este Reglamento;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+V. Designar y remover libremente a los servidores públicos adscritos a las unidades administrativas a su cargo, diversos a los titulares de las mismas;
 
 VI.- Proponer al Secretario en la materia de su competencia, las bases para la celebración de convenios y acuerdos con la Federación y los municipios;
 
@@ -389,9 +423,15 @@ IX.- Orientar y coordinar la planeación, programación, presupuestación, contr
 
 X.- Coordinar la elaboración, validar en su caso y someter a la aprobación del Secretario, los dictámenes jurídicos de asuntos agrarios que soliciten las dependencias del ámbito estatal; así como también canalizar y dar seguimiento a aquellas que sean de carácter federal;
 
-XI.- Dar seguimiento a expedientes de anteproyectos de decreto de expropiación, ocupación temporal y limitación de bienes inmuebles agrarios, por causa de utilidad pública a favor del Gobierno del Estado; y,
+XI.- Dar seguimiento a expedientes de anteproyectos de decreto de expropiación, ocupación temporal y limitación de bienes inmuebles agrarios, por causa de utilidad pública a favor del Gobierno del Estado; y (sic),
 
-XII.- Las demás que les sean encomendadas por el Secretario, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XII. Coordinar el seguimiento y evaluación de los planes y programas de la Secretaría y del Sector; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XIII. Las demás que les sean encomendadas por el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -419,13 +459,29 @@ X.- Coordinar los programas de normatividad jurídica, procurando la congruencia
 
 XI.- Intervenir en el asesoramiento jurídico de los trámites de expropiación por causa de utilidad pública;
 
-XII.- Dirigir, organizar, administrar y evaluar la Defensoría de Oficio, garantizando su accesibilidad a los gobernados;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XII. Realizar las acciones de investigación jurídica, así como los estudios y proyectos jurídicos tendientes al mejoramiento, adecuación y fortalecimiento de los principios de constitucionalidad, legalidad, seguridad y certeza jurídica de las diversas acciones a cargo de la Administración Pública Estatal;
 
 XIII.- Coordinar la formulación de los proyectos de reglamentos internos, decretos, acuerdos, circulares y demás disposiciones jurídico administrativas, sometiéndolas a la consideración del Secretario;
 
-XIV.- Coordinar que se lleve a cabo la concentración de la información de operaciones y actos notariales, que permitan regular y fijar las medidas administrativas que se requieran para la eficaz prestación del servicio; y,
+XIV.- Coordinar que se lleve a cabo la concentración de la información de operaciones y actos notariales, que permitan regular y fijar las medidas administrativas que se requieran para la eficaz prestación del servicio; y (sic),
 
-XV.- Las demás que les sean encomendadas por el Secretario, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XV. Desarrollar el Sistema Integral de Normatividad Estatal, verificando su constante actualización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XVI.- Remitir a las Dependencias y Entidades de la Administración Pública Estatal, los criterios emitidos por los órganos jurisdiccionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XVII. Remitir al Secretario proyectos de criterios jurídicos, que homogenicen la aplicación de instrumentos jurídicos que normen el funcionamiento de la Administración Pública Estatal; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XVIII. Las demás que les sean encomendadas por el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 19.
 
@@ -495,31 +551,29 @@ XIII.- Participar en los actos o reuniones con organismos de los sectores públi
 
 XIV.- Las demás que les sean encomendadas por el Secretario, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 21.
 
-Corresponde a la Dirección de Enlace y Seguimiento, el ejercicio de las atribuciones siguientes:
+Corresponde a la Subsecretaría de Enlace para Asuntos de Justicia, el ejercicio de las atribuciones siguientes:
 
-I.- Facilitar la integración de las diferentes dependencias del Ejecutivo del Estado, con el fin de atender con oportunidad los proyectos y programas prioritarios;
+I. Representar al Secretario ante los Magistrados, Jueces y Consejeros de la Judicatura del Poder Judicial del Estado, en reuniones de análisis de los temas relativos a la función del citado Poder;
 
-II.- Organizar y coordinar la instalación y funcionamiento de los gabinetes especializados que por aprobación del Ejecutivo del Estado y del Secretario se integren;
+II. Coordinarse y realizar reuniones de trabajo con los servidores públicos del Estado, Universidades, Colegios de Abogados y representantes Sociedad Civil, con el objeto de realizar estudios relativos a la función jurisdiccional y en procuración de justicia;
 
-III.- Coordinar a los gabinetes para evaluar las acciones y dar seguimiento al cumplimiento de los programas y proyectos que dentro de este se establezcan como prioridades;
+III. Recibir y analizar propuestas, que tengan por objeto el fortalecimiento de los Sistemas de Procuración y Administración provenientes del Poder Judicial Local, Procuraduría General de Justicia del Estado, Universidades, Colegios de Abogados y representantes de la Sociedad Civil y, formular en su caso, proyectos de iniciativas de reformas en las citadas materias sometiéndolos a consideración del Secretario;
 
-IV.- Organizar, coordinar y dar seguimiento a las reuniones de gabinete convocadas por la Secretaría;
+IV. Emitir opiniones sobre iniciativas de reformas a la Constitución Local, leyes u otros ordenamientos jurídicos, en materia de Procuración y Administración de Justicia, cuando lo solicite el Subsecretario de Gobierno para Asuntos Legislativos;
 
-V.- Encauzar las prioridades del Ejecutivo del Estado, así como los objetivos del Plan Estatal de Desarrollo, de planeación estratégica en coordinación con la Secretaría de Planeación y Finanzas, mediante el trabajo de los diferentes gabinetes, con el fin de facilitar al Ejecutivo del Estado y al Secretario la toma de decisiones;
+V. Realizar trabajos de investigación sobre Sistemas Jurídicos de Procuración y Administración de Justicia;
 
-VI.- Informar al gabinete sobre las políticas, estrategias y lineamientos que establezca la Secretaría;
+VI. Someter a consideración del Secretario, proyectos de convenios o acuerdos con instituciones públicas y privadas, y cuyo objeto sea profundizar en el estudio y mejoramiento del marco jurídico aplicable a las materias de Procuración y Administración de Justicia;
 
-VII.- Mantener la visión de conjunto, asegurando que todas las decisiones estén orientadas a la misión y visión del proyecto de gobierno;
+VII. Dirigir, organizar, administrar y evaluar la Defensoría de Oficio, garantizando su accesibilidad a los gobernados;
 
-VIII.- Apoyar la coordinación de las entidades del sector, a través de las juntas de gobierno mediante la evaluación de las acciones, buscando la eficiencia y excelencia en la prestación de los servicios a la comunidad;
+VIII.- Elaborar propuestas de organización, seguimiento y evaluación para la implementación de reformas en materia de justicia; y,
 
-IX.- Participar con la Secretaría Particular del Ejecutivo, en el seguimiento de acuerdos derivados de las reuniones del Ejecutivo del Estado en sus visitas a dependencias federales;
-
-X.- Coordinar la recopilación e integración de información de las actividades realizadas por la Secretaría y entidades del sector, a fin de proporcionar el insumo necesario para la integración del informe anual que rinde el Ejecutivo del Estado ante el Congreso del Estado; y,
-
-XI.- Las demás que les sean encomendadas por el Secretario y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+IX. Las demás que le sean encomendadas por el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 22.
 
@@ -597,15 +651,61 @@ XIX.- Coordinar la elaboración de los diversos manuales e instructivos en mater
 
 XX.- Las demás que les sean encomendadas por el Secretario y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+Se adscribe a la Dirección de Administración, el Departamento de Servicios Administrativos, al que corresponderá proporcionar servicios de apoyo administrativo en materia de recursos humanos y materiales, de conformidad con las normas, lineamientos y procedimientos establecidos y demás disposiciones que emita la dependencia normativa correspondiente.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 24.
 
-Se adscribe a la Dirección de Administración, el Departamento de Servicios Administrativos, al que corresponderá proporcionar servicios de apoyo administrativo en materia dé recursos humanos y materiales, de conformidad con las normas, lineamientos y procedimientos establecidos y demás disposiciones que emita la dependencia normativa correspondiente.
+Corresponde a la Secretaría Particular, el ejercicio de las atribuciones siguientes:
+
+l. Mantener actualizada y coordinar la agenda de trabajo del Secretario, ordenando por evento local, estatal, nacional e internacional, según el caso;
+
+II. Llevar a cabo la programación de los distintos eventos a los que se invita al Secretario;
+
+III. Diseñar, elaborar y en general realizar todas las acciones necesarias para apoyar las presentaciones ejecutivas requeridas en las reuniones del Secretario;
+
+IV. Recibir y atender a las personas que acuden a la Secretaría con el objeto de solicitar audiencia con el Secretario, o en su caso, canalizarla a la unidad administrativa correspondiente;
+
+V. Mantener el control de la documentación recibida y despachada del Secretario, integrando el minutario respectivo que permita proporcionar la información oportunamente;
+
+VI. Llevar un control de la documentación que es pasada a firma del Secretario, por las diversas unidades administrativas de la Secretaría;
+
+VII. Vigilar el cumplimiento de las normas, políticas, lineamientos aplicables en materia de administración y desarrollo de recursos humanos, materiales y financieros asignados a la Secretaría Particular;
+
+VIII. Convocar y organizar reuniones de trabajo que el Secretario establezca con las Dependencias, Entidades y organismos públicos y privados; y,
+
+IX. Las demás que le sean encomendadas por el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 #### SECCIÓN II. DE LA SUBSECRETARÍA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 25.
 
-Se adscriben a la Subsecretaría de Gobierno las Direcciones de Gobierno, de Desarrolla Político, de Análisis e Información y de Gestión y Atención a Grupos Sociales.
+Se adscriben a la Subsecretaría de Gobierno, las Direcciones de Gobierno, de Desarrollo Político, de Enlace y Seguimiento, de Análisis e Información y de Gestión y Atención a Grupos Sociales.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 25 Bis.
+
+Corresponde a la Dirección de Enlace y Seguimiento, el ejercicio de las atribuciones siguientes:
+
+l. Apoyar la coordinación de las entidades del Sector, mediante la orientación de sus acciones en funciones del cumplimiento de las políticas públicas y prioridades de desarrollo;
+
+II. Apoyar en la representación de la Secretaría ante los órganos de gobierno de las Dependencias y Entidades de la Administración Pública en las cuales se tenga participación;
+
+III. Coordinar los trabajos de la Secretaría en coordinación con el COPLADE para la elaboración del Plan Estatal de Desarrollo y los programas de la Secretaría y del sector, asegurando su elaboración y cumplimiento;
+
+IV. Organizar y coordinar las reuniones de gabinete interno de la Secretaría, dando seguimiento a los acuerdos derivados de las mismas;
+
+V. Coordinar los trabajos para el seguimiento, evaluación e impacto de acciones, que realicen las diversas áreas de la Secretaría;
+
+VI. Coordinar la recopilación e integración de información de las actividades realizadas por la Secretaría y entidades del Sector, a fin de proporcionar el insumo necesario para la integración del informe anual de actividades que rinde el Ejecutivo del Estado ante el Congreso del Estado; y,
+
+VII. Las demás que le sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 26.
 
@@ -631,15 +731,23 @@ IX.- Gestionar los trámites para la expedición de permisos y concesiones que c
 
 X.- Gestionar el otorgamiento de anuencias para la realización de eventos de entretenimiento social, exposiciones, ferias populares, así como de todo acto cuya autorización corresponda al Ejecutivo del Estado;
 
-XI.- Recibir, analizar y calificar las solicitudes para la expedición, revalidación y modificación de permiso para la instalación y funcionamiento de casas de empeño, así como la integración del expediente correspondiente;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
-XII.- Elaborar los proyectos de resolución correspondientes a las solicitudes de expedición, modificación, revalidación y cancelación de permiso para la instalación y funcionamiento de casas de empeño;
+XI. Dictaminar la procedencia de las solicitudes para la expedición, revalidación, y modificación de permisos para la instalación y funcionamiento de casas de empeño, integrando el expediente correspondiente;
 
-XIII.- Elaborar formatos de documentos relativos a la solicitud de expedición y revalidación de permisos para la instalación y funcionamiento de casas de empeño;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
-XIV.- Notificar las resoluciones sobre la expedición, modificación, revalidación y cancelación del permiso para la instalación y funcionamiento de casas de empeño;
+XII. Elaborar y notificar las resoluciones correspondientes a las solicitudes de expedición, modificación, revalidación y cancelación de permisos;
 
-XV.- Sancionar a los permisionarios por infracción a la Ley que Establece las Bases de Operación de las Casas de Empeño del Estado de Baja California y su reglamento, conforme al procedimiento administrativo previsto para tal efecto;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XIII. Revisar, validar y tramitar ante el Secretario la suscripción de los permisos para la instalación y funcionamiento de casas de empeño y constancias de revalidación de los permisos;
+
+XIV. (REFORMADA [N. DE E. DEROGADA], P.O. 23 DE NOVIEMBRE DE 2007)
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XV. Aplicar a los permisionarios infractores de la Ley que Establece las Bases de Operación de las Casas de Empeño del Estado y su Reglamento, el procedimiento administrativo de sanción dispuesto en el mismo ordenamiento, con base al resultado de las diligencias de inspección realizadas por la Secretaría de Planeación y Finanzas del Estado;
 
 XVI.- Apoyar, orientar, canalizar y dar seguimiento a demandas y planteamientos por los ciudadanos en lo individual sobre asuntos de interés económico y social, que por conducto del Secretario soliciten la intervención del Ejecutivo del Estado;
 
@@ -713,11 +821,11 @@ VI.- Las demás que les sean encomendadas por el superior inmediato, y aquellas 
 
 #### SECCIÓN III. DE LA SUBSECRETARÍA JURÍDICA DEL ESTADO
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 31.
 
-Se adscriben a la Subsecretaría Jurídica del Estado, las Direcciones Jurídica de Normatividad Administrativa, Jurídica de Asesoría al Ejecutivo, del Archivo General de Notarías, Estatal de Defensoría de Oficio, del Registro Civil y Jurídica Contenciosa Mexicali y de Tijuana.
-
-El Subsecretario Jurídico del Estado contará con las coordinaciones y el personal necesario, para la atención de los asuntos que le sean encomendados directamente, mismas que para el debido cumplimiento de las funciones que se le encomienden contará con el apoyo de las unidades administrativas adscritas a la Subsecretaría Jurídica del Estado.
+Se adscriben a la Subsecretaría Jurídica del Estado, las Direcciones Jurídica de Normatividad Administrativa, Jurídica de Asesoría al Ejecutivo, del Archivo General de Notarías, del Registro Civil, Jurídica Contenciosa Mexicali y Jurídica Contenciosa Tijuana.
 
 ###### Artículo 32.
 
@@ -751,9 +859,23 @@ XIII.- Conocer de los asuntos que le corresponda atender a las demás unidades a
 
 XIV.- Revisar previo a su validación por la Subsecretaría Jurídica del Estado y firma del Secretario, que los instrumentos jurídico-administrativo que así lo requieran, cuenten con el dictamen, opinión o validación favorable de las Dependencias o unidades administrativas según corresponda;
 
-XV.- Fijar, unificar y proponer al Subsecretario Jurídico del Estado los criterios de interpretación y de aplicación de los instrumentos jurídico-administrativo que normen el funcionamiento de la Secretaría; y,
+XV.- Fijar, unificar y proponer al Subsecretario Jurídico del Estado los criterios de interpretación y de aplicación de los instrumentos jurídico-administrativo que normen el funcionamiento de la Secretaría; y (sic),
 
-XVI.- Las demás que les sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XVI. Apoyar al Subsecretario Jurídico del Estado, en el desarrollo del Sistema Integral de Normatividad Estatal, verificando su constante actualización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XVII. Recopilar los criterios emitidos por los órganos jurisdiccionales y remitirlos al Subsecretario Jurídico del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XVIII. Realizar las investigaciones jurídicas, así como los estudios y proyectos jurídicos tendientes al mejoramiento, adecuación y fortalecimiento de los principios de constitucionalidad, legalidad, seguridad y certeza jurídica de las diversas funciones a cargo de la Administración Pública Estatal, que le solicite el Subsecretario Jurídico del Estado; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+XIX. Las demás que le sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 33.
 
@@ -829,7 +951,7 @@ XX.- Las demás que les sean encomendadas por el superior inmediato, y aquellas 
 
 ###### Artículo 37.
 
-La Dirección Estatal de Defensoría de Oficio, estará a cargo de un Director, y contará con la estructura orgánica y atribuciones previstas en su propia ley y reglamento.
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 38.
 
@@ -981,7 +1103,57 @@ V.- Integrar la información y recomendaciones o sugerencias sobre la organizaci
 
 VI.- Las demás que les sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
-#### SECCIÓN V. DE LOS ÓRGANOS DESCONCENTRADOS
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+#### SECCIÓN V. DE LA SUBSECRETARÍA DE ENLACE PARA ASUNTOS DE JUSTICIA
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 47 Bis.
+
+Se adscriben a la Subsecretaría de Enlace para Asuntos de Justicia, las Direcciones de Estudios para Asuntos de Justicia, de Implementación y Seguimiento para Asuntos de Justicia, y Estatal de Defensoría de Oficio.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 47 Ter.
+
+Corresponde a la Dirección de Estudios para Asuntos de Justicia, el ejercicio de las atribuciones siguientes:
+
+I. Realizar los estudios que le solicite el Subsecretario de Enlace para Asuntos de Justicia, relativos a la función jurisdiccional y en procuración de justicia;
+
+II. Formular proyectos de iniciativas en materia de Procuración y Administración de Justicia, sometiéndolos a consideración del Subsecretario de Enlace para Asuntos de Justicia;
+
+III. Emitir opiniones sobre iniciativas de reformas a la Constitución Local, leyes u otros ordenamientos jurídicos, en materia de Procuración y Administración de Justicia, que le solicite el Subsecretario de Enlace para Asuntos de Justicia;
+
+IV. Realizar trabajos de investigación sobre Sistemas Jurídicos de Procuración y Administración de Justicia, para someterlos a consideración del Subsecretario de Enlace para Asuntos de Justicia;
+
+V. Apoyar al Subsecretario de Enlace para Asuntos de Justicia, para promover la capacitación y actualización de los servidores públicos adscritos a la Secretaría y a la Procuraduría General de Justicia del Estado, sobre modificaciones al marco jurídico en materia de Administración y Procuraduría de Justicia; y,
+
+VI. Las demás que le sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 47 Quarter.- Corresponde a la Dirección de Implementación y Seguimiento para Asuntos de Justicia, el ejercicio de las atribuciones siguientes:
+
+I. Presentar al Subsecretario de Enlace para Asuntos de Justicia, los proyectos de lineamientos y políticas generales de planeación y administración para la implementación de las reformas en materia de justicia;
+
+II. Promover y apoyar en el diseño de la reingeniería administrativa, mejora continua y procesos de modernización para la implementación de las reformas en materia de justicia;
+
+III. Planear, dar seguimiento y evaluar los programas de capacitación y profesionalización durante la implementación de la reforma de justicia;
+
+IV. Programar y celebrar reuniones para el seguimiento de los avances de implementación en las reformas en materia de justicia; y
+
+V.- Las demás que le sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 47 Quinquies.
+
+La Dirección Estatal de Defensoría de Oficio estará a cargo de un Director, y contaría con la estructura orgánica y atribuciones previstas en su propia Ley y Reglamento.
+
+(REUBICADA [N. DE E. ANTES SECCION V], P.O. 23 DE NOVIEMBRE DE 2007)
+
+#### SECCIÓN VI. DE LOS ÓRGANOS DESCONCENTRADOS
 
 ###### Artículo 48.
 
@@ -1064,3 +1236,11 @@ EUGENIO ELORDUY WALTHER
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTÍNEZ AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se dejan sin efectos las disposiciones normativas expedidas por el titular del Poder Ejecutivo del Estado, que se opongan a lo dispuesto en el presente Decreto.
