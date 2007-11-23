@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2007-10-19"
+last_updated: "2007-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -481,7 +481,7 @@ Además de las penas señaladas en este Código, se impondrá sanción pecuniari
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran.
+En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -2017,9 +2017,11 @@ III.- De seis a catorce años de prisión y de doscientos hasta quinientos días
 
 Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el inculpado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
-Artículo 201 BIS.- Tipo y punibilidad.- A quien cometa el delito de robo en terrenos rústicos, respecto de postes o alambres de las cercas, motores eléctricos o partes de éstos, tuberías para riego, cableado o fluido eléctrico que reutilicen para la actividad agropecuaria se le impondrá de tres a seis años de prisión y de cien hasta doscientos días multa.
+Artículo 201 BIS.- Tipo y punibilidad.- A quien cometa el delito de robo en terrenos rústicos, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres de las cercas, motores eléctricos o partes de éstos, tuberías para riego, cableado o fluido eléctrico o cualesquiera otros artículos destinados al aprovechamiento agropecuario, pesquero o acuícola.
+
+En el presente artículo será aplicable la excluyente de pretensión punitiva, prevista en los términos del último párrafo del artículo 201 de este Código.
 
 ###### Artículo 202.
 
@@ -2445,7 +2447,9 @@ Querella.- Los daños en propiedad ajena se perseguirán por querella de parte o
 
 Tipo y punibilidad.- Al que a sabiendas de la comisión de un delito y sin haber tenido participación en él, adquiera, reciba en prenda u oculte los objetos provenientes del mismo, por interés propio o ajeno, se le impondrá prisión de seis meses a seis años y hasta cien días multas si el valor de los bienes adquiridos, receptados u ocultados no excede de ciento cincuenta días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de cuatro a nueve años de prisión y de doscientos hasta quinientos días multa.
 
-Para los efectos de lo anterior, se presume que existe conocimiento de que los objetos provienen de un delito cuando el sujeto activo se dedique a una actividad comercial o sea dependiente de un establecimiento cuyo giro se relacione con la naturaleza de los bienes objeto de la adquisición, recepción de prenda o guarda, excepto que dichas conductas se respalden en términos de la fracción I del artículo siguiente.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+Para los efectos de lo anterior, se presume que existe conocimiento de que los objetos provienen de un delito cuando el sujeto activo se dedique a una actividad comercial o sea dependiente de un establecimiento cuyo giro se relacione con la naturaleza de los bienes objeto de la adquisición, recepción en prenda o guarda. Será excluyente de responsabilidad de la presunción anterior, que dichos actos se respalden con copia documental pública con fotografía que acrediten los datos de identificación personal del que ofreció la cosa y con el dicho de dos personas debidamente identificadas que atestigüen que el oferente dispuso de la cosa.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
 
@@ -2453,15 +2457,23 @@ Para los efectos de lo anterior, se presume que existe conocimiento de que los o
 
 Tipo y punibilidad.- Al que sin cerciorarse de su procedencia legítima, adquiera, reciba en prenda o guarde objetos producto de un delito, se le aplicará, de tres meses a tres años y hasta cincuenta días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de setenta y cinco días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de dos a cuatro años de prisión y de cien hasta doscientos cincuenta días multa.
 
-Para los efectos del párrafo anterior, se presume que el sujeto activo no se cercioró de la procedencia legítima del objeto, cuando:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
-I.- No respalde la adquisición, recepción o guarda de los bienes con documentales que acrediten los datos de identificación personal del que le ofreció la cosa y el dicho de dos personas debidamente identificadas que atestigüen que el oferente podía disponer legítimamente de la cosa.
+Para los efectos del párrafo anterior, se presume que el sujeto activo no se cercioró de la procedencia legítima del objeto, sino cumple con cualquiera de los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+
+I.- La adquisición, recepción o guarda de los bienes no se respalde con copia documental pública con fotografía que acrediten los datos de identificación personal del que le ofreció la cosa; o con el dicho de dos personas debidamente identificadas que atestigüen que el oferente dispuso de la cosa.
+
+No se aplicará lo dispuesto en el párrafo anterior, cuando el sujeto activo se encuentre en posesión de dos o más bienes de procedencia ilícita.
 
 II.- No exija un documento idóneo para constatar la legítima propiedad, tratándose de bienes que contengan datos propios de identificación.
 
-III.- Se encuentre en posesión de dos o más bienes de procedencia ilícita.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
-IV.- Por el precio que pagó por el bien, la edad o condición económica del oferente, se infiera que éste no tenía derecho para disponer de ella.
+III.- Por el precio que pagó por el bien; la edad o condición económica del oferente; se infiera que éste no tenía derecho para disponer de ella.
+
+IV.- (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO II. ASOCIACION DELICTUOSA Y PANDILLERISMO
 
@@ -4474,3 +4486,9 @@ P.O. 19 DE OCTUBRE DE 2007.
 DECRETO No. 442
 
 ÚNICO.- Las presentes reformas entrarán en vigor un día después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2007.
+
+###### ARTICULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
