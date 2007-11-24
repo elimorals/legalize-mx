@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2007-05-26"
+last_updated: "2007-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -3657,6 +3657,10 @@ ART. 772.- El interventor cesará en su cargo luego que se nombre o se dé a con
 
 ART. 773.- Al promoverse el juicio sucesorio debe presentarse la partida de defunción del autor de la herencia, y, no siendo esto posible, otro documento o prueba bastante.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
+ART. 773 BIS.- Una vez que el Juez reciba la denuncia de un juicio sucesorio testamentario o intestamentario procederá a recabar la información de la existencia o inexistencia de disposición testamentaria del De Cujus de que se trate, ante la Secretaria General de Gobierno del Estado, la que a su vez, realizará una búsqueda de dicha información en su base de datos correspondiente y, así mismo vía electrónica, solicitará el reporte de búsqueda al Registro Nacional de Avisos de Testamento, a fin de dar respuesta al informe solicitado por la Autoridad Judicial.
+
 ART. 774.- Cuando con fundamento en la declaración de ausencia o presunción de muerte de un ausente se haya abierto sucesión, si durante la tramitación del juicio se hace constar la fecha de la muerte, desde ella se entenderá abierta la sucesión; y cesando en sus funciones el representante, se procederá al nombramiento del interventor o albacea, con arreglo a derecho.
 
 ART. 775.- En los juicios sucesorios en que haya heredero o legatarios menores que no tuvieren representante legítimo, dispondrá el tribunal que designen un tutor si han cumplido dieciséis años. Si los menores no han cumplido dieciséis años, o los incapacitados no tienen tutor, será éste nombrado por el juez.
@@ -3785,9 +3789,9 @@ ART. 800.- Los herederos al intestado que sean descendientes del finado podrán 
 
 ART. 801.- Dicha información se practicará con citación del Ministerio Público, quien dentro de los tres días que sigan al de la diligencia debe formular su pedimento. Si éste fuere impugnado sólo de incompleta la justificación, se dará vista a los interesados para que subsanen la falta.
 
-ART. 802.- Practicadas las diligencias antes dichas, haya o no pedimento del Ministerio Público, el juez, sin más trámites dictará auto haciendo la declaración de herederos ab-intestato, si la estimare procedente, o denegándola con reserva de su derecho a los que la hayan pretendido para el juicio ordinario.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
-Este auto será apelable en el efecto devolutivo.
+ART. 802.- Practicadas las diligencias ante dichas, haya o no pedimento del Ministerio Público, el Juez, una vez que reciba el informe de existencia o inexistencia de disposición testamentaria de la autoridad competente, hará la declaración de herederos ab-intestado, sí la estimare procedente, o la denegará con reserva de su derecho a los que hayan pretendido para el juicio ordinario. Este auto será apelable en el efecto devolutivo.
 
 ART. 803.- El mismo procedimiento establecido en los tres artículos que preceden se empleará para la declaración de herederos ab-intestato cuando lo solicitaren ascendientes del finado o el cónyuge supérstite. Si éste fuere la viuda no se admitirá promoción de la concubina, devolviéndole la que hiciere sin ulterior recurso.
 
@@ -4910,3 +4914,7 @@ P.O. 4 DE ABRIL DE 2006.
 P.O. 26 DE MAYO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE NOVIEMBRE DE 2007.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
