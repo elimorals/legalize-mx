@@ -4,7 +4,7 @@ identifier: "COL-ley-de-catastro-del-estado-de-colima-3944"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-19"
-last_updated: "2001-09-29"
+last_updated: "2007-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE CATASTRO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de septiembre de 1992.
 
@@ -467,9 +467,11 @@ Cuando por causas imputables al propietario o poseedor de un predio, no se pueda
 
 ### CAPITULO VI. DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 45.
 
-La autoridad catastral deberá notificar personalmente a los propietarios o poseedores de predios o a sus representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y demás operaciones catastrales que se efectúen en el predio objeto de la operación o en el domicilio señalado por escrito para oír y recibir notificaciones, siempre que este último se encuentre establecido dentro del territorio del Estado; en su defecto, la notificación se hará por edictos, debiéndose publicar por tres veces consecutivas en el Periódico Oficial "EL ESTADO DE COLIMA'' y en uno de los Periódicos de mayor circulación en la Entidad. En las notificaciones personales, deberán observarse las formalidades procesales establecidas en el artículo 88 del Código Fiscal del Estado.
+La autoridad catastral deberá notificar personalmente a los propietarios o poseedores de predios o a sus representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y demás operaciones catastrales que se efectúen en el predio objeto de la operación o en el domicilio señalado por escrito para oír y recibir notificaciones, siempre que este último se encuentre establecido dentro del territorio del Estado; en su defecto, la notificación se hará por edictos, debiéndose publicar por tres veces consecutivas en el Periódico Oficial "EL ESTADO DE COLIMA" y en uno de los Periódicos de mayor circulación en la Entidad. En las notificaciones personales, deberán observarse las formalidades procesales establecidas en los artículos 41 y del 123 al 132 del Código Fiscal del Estado.
 
 ### CAPITULO VII. DE LOS RECURSOS
 
@@ -588,3 +590,7 @@ Los Ayuntamientos dispondrán de 30 días naturales, contados a partir de la ent
 ###### ARTICULO TERCERO.
 
 Por única vez, el plazo del 30 de octubre a que se refiere la fracción II del artículo 19 de este Decreto, se amplía al 15 de noviembre del presente año.
+
+P.O. 24 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
