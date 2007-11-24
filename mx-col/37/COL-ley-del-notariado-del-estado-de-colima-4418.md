@@ -4,7 +4,7 @@ identifier: "COL-ley-del-notariado-del-estado-de-colima-4418"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-04"
-last_updated: "1994-07-09"
+last_updated: "2007-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, los días 4, 11, 18 y 25 de enero de 1964.
 
@@ -327,7 +327,51 @@ ART. 45.- El notario no podrá autorizar acto alguno, sino haciéndolo constar e
 
 ART. 46.- La obligación que tiene el notario de redactar por escrito las cláusulas de los testamentos públicos abiertos, no implica que deba escribirlas el notario por sí mismo.
 
-ART. 47.- Siempre que se otorgue un testamento público abierto o cerrado, los notarios darán enseguida aviso a la Secretaría General de Gobierno, expresando la fecha, nombre del testador y sus generales, y si el testamento fuere cerrado, además, el lugar o persona en cuyo poder se deposite.- Si el testador expresare en su testamento el nombre de sus padres, también se consignará este dato.- La Secretaría General de Gobierno llevará un libro especialmente destinado a asentar las inscripciones relativas, con los datos que se mencionan.- Los jueces ante quienes se denuncie un intestado recabarán de la Secretaría General de Gobierno, de inmediato, la noticia de si haya anotación en dicho libro, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
+ART. 47.- Siempre que se otorgue un testamento ante Notario Público, éste dará dentro de los diez días hábiles siguientes a su otorgamiento, aviso por escrito a la Secretaría General de Gobierno conteniendo los siguientes datos:
+
+a) Nombre completo del testador (apellido paterno, materno y nombres);
+
+b) Nacionalidad;
+
+c) Fecha de nacimiento;
+
+d) Lugar de nacimiento;
+
+e) Clave Única del Registro Nacional de Población (CURP);
+
+f) Estado Civil;
+
+g) Nombre completo del padre (apellido paterno, materno y nombres);
+
+h) Nombre completo de la madre (apellido paterno, materno y nombres);
+
+i) Tipo de testamento;
+
+j) Número de escritura;
+
+k) Volumen o tomo;
+
+l) Fecha de la escritura;
+
+m) Si se establecieron disposiciones de contenido irrevocable;
+
+n) Lugar de otorgamiento;
+
+o) Nombre completo del Notario (apellido paterno, materno y nombres);
+
+p) Tipo de Notario (titular, adscrito, auxiliar, suplente, asociado, interino o cualquier otro tipo);
+
+q) Número de Notaría; y
+
+r) Demarcación o municipio.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
+ART.47 bis.- La Secretaría General de Gobierno contará con una base de datos electrónica destinada a asentar las inscripciones relativas con los datos que se mencionan para tal efecto en el aviso, la que una vez realizada, será remitida vía Internet al Registro Nacional de Avisos del Testamento con todos los datos necesarios según sea el caso para el registro en la base nacional correspondiente.
+
+Los jueces o cualquier otra autoridad, ante quienes se denuncie un juicio sucesorio testamentario o intestamentario, recabarán de la Secretaría General de Gobierno información de si existe anotación alguna referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate; para lo cual la Secretaria indagará en su base de datos correspondiente, recabando también información en el Registro Nacional de Avisos del Testamento, a fin de dar respuesta a la información solicitada.
 
 ### CAPITULO CUARTO. DE LAS ACTAS
 
@@ -938,3 +982,7 @@ CUARTO.- Los notarios empezarán a formar el protocolo y el libro de certificaci
 QUINTO.- La numeración de los instrumentos y libros con la que cada notario iniciará el uso del protocolo a que se refieren las presentes reformas, será la que continúe al último instrumento asentado en los libros que dejarán de usarse.
 
 SEXTO.- La numeración de actas y libros de certificaciones será la que continué a la última acta asentada en los libros de certificaciones que dejarán de usarse.
+
+P.O. 24 DE NOVIEMBRE DE 2007.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
