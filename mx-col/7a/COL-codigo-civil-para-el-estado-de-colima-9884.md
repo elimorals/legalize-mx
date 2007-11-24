@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2007-09-08"
+last_updated: "2007-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -5333,7 +5333,9 @@ ART. 1402.- En el caso del artículo que precede, no tendrá validez el testamen
 
 ART. 1403.- Se prohibe a los notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
 
-ART. 1404.- El notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
+ART. 1404.- El notario que hubiere autorizado el testamento dará aviso por escrito a la Secretaría General de Gobierno dentro de los diez días hábiles siguientes, expresando los datos que para tal efecto señala la Ley del Notariado del Estado, quién a su vez remitirá vía electrónica la información contenida en el mismo al Registro Nacional de Avisos de Testamento, con los datos conducentes que para tal efecto señala la Ley del Notariado. Asimismo, luego que sepa la muerte del testador dará aviso a los interesados; si el notario omitiere dicho aviso o lo hiciere con dilación, será responsable de los daños y perjuicios que por ello ocasione.
 
 ART. 1405.- Lo dispuesto en el artículo que precede se observará también por cualquiera que tenga en su poder un testamento.
 
@@ -10344,3 +10346,7 @@ P.O. 26 DE MAYO DE 2007.
 P.O. 8 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El Presente decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE NOVIEMBRE DE 2007.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
