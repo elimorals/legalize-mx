@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2005-06-27"
+last_updated: "2007-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -219,6 +219,8 @@ En caso de no completarse la integración del Ayuntamiento habiéndose agotado e
 
 ### CAPITULO TERCERO. Facultades y Obligaciones de los Ayuntamientos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 29.
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
@@ -289,7 +291,7 @@ El procedimiento que seguirá el Congreso del Estado, se estará a lo dispuesto 
 
 ###### Artículo 36.
 
-Los ayuntamientos tienen como función general el gobierno del Municipio y como atribuciones y facultades las siguientes:
+Los Ayuntamientos tienen como función general el gobierno del Municipio y como atribuciones y facultades las siguientes:
 
 I. Aprobar y expedir reglamentos, Bando Municipal, así como las demás disposiciones administrativas de carácter general necesarias para el ejercicio de sus atribuciones, para su funcionamiento, para la organización y prestación de los servicios públicos municipales, para aquéllas que demanden la tranquilidad y seguridad de las personas y sus bienes, para garantizar la moralidad y salubridad públicas y la participación ciudadana y vecinal, siempre con arreglo a las bases generales previstas en las leyes en materia municipal;
 
@@ -299,7 +301,9 @@ III. Presentar ante el Congreso del Estado las iniciativas de Ley, en asuntos de
 
 IV. Proponer anualmente al Congreso del Estado, a más tardar el día 30 de octubre de cada año, el proyecto de Ley de Ingresos, a efecto de cubrir los gastos ordinarios y extraordinarios de sus respectivos municipios, para el ejercicio fiscal inmediato, que deberá contener el proyecto de las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo en el plazo señalado, el Congreso del Estado declarará aplicable temporalmente para el siguiente ejercicio fiscal inmediato, el que se encuentra vigente, previniendo al Ayuntamiento para que subsane su omisión;
 
-V. Aprobar su Presupuesto de Egresos, con base en los ingresos disponibles;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+V. Aprobar su Presupuesto de Egresos, con base en los ingresos disponibles. La resolución que autorice el aumento del salario de sus integrantes, no podrá tener efecto sino después de concluido el periodo constitucional correspondiente;
 
 VI. Vigilar la administración de sus respectivas haciendas, cuidando que se observe puntualmente lo que disponen las leyes de ingresos y los presupuestos de egresos y practicar mensualmente, por conducto de su Comisión de Hacienda, el arqueo de sus fondos;
 
@@ -1766,3 +1770,9 @@ P.O. 6 DE JUNIO DE 2005.
 P.O. 27 DE JUNIO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
