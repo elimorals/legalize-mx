@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2004-12-13"
+last_updated: "2007-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -1655,7 +1655,9 @@ II.- Todo individuo tiene derecho a desarrollarse y ser educado dentro de su pro
 
 III.- Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, de manera que no se afecten su sano desarrollo individual ni su plena incorporación al núcleo social;
 
-IV.- Todas las personas están obligadas a evitar conductas que generen violencia familiar, entendiéndose por ésta, el uso de la fuerza física o moral, así como las omisiones graves que de manera reiterada ejerza un miembro de la familia, sea éste pariente consanguíneo o por afinidad, en forma ascendente o descendente, o en línea colateral hasta el cuarto grado, o cualquier otra persona que habite el mismo domicilio, en contra de otro integrante de la misma, en cuanto atenten contra su integridad física, psicológica o ambas, independientemente de que puedan producir o no lesiones, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+IV.- Todas las personas están obligadas a evitar las conductas que generen violencia familiar, entendiéndose por ésta, la agresión física o moral, así como la omisión, que de manera intencional, individual, o reiterada, se ejercita en contra de un miembro de la familia por el cónyuge, la cónyuge, concubino, concubina, pariente consanguíneo en línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado, adoptante; madrastra, padrastro; hijastra, hijastro; pupilo, pupila; curador, curadora, tutor o tutora; o por persona que habite el mismo domicilio o con la cual haya tenido algún vínculo familiar o afectivo, con afectación a la integridad física, psicoemocional, sexual o cualquiera de éstas, independientemente de que pueda producir afectación orgánica; y
 
 V.- Todo menor, mujer, enfermo, incapaz, anciano o persona discapacitada, privado temporal o permanentemente de su medio familiar o cuyo interés haga necesario que no permanezca en él, podrá ser acogido por el Sistema Estatal para el Desarrollo Integral de la Familia o alguna otra institución con objeto similar, las que proveerán su protección y cuidado hasta en tanto se den las condiciones mínimas necesarias en su seno familiar para ser restituido o, en su caso, se le encuentre un hogar sustituto.
 
@@ -2743,9 +2745,9 @@ c) El conato del marido o de la mujer para corromper a los hijos ya sean estos d
 
 d) La imposición de la cópula con violencia y en contra de la voluntad de la mujer;
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-e) El uso de la fuerza física o moral o la práctica de omisiones graves, ejercida de manera reiterada en contra de los hijos de ambos cónyuges o de uno solo, en cuanto impliquen la existencia de un ambiente de violencia familiar, que haga imposible la vida en común;
+e) Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro; contra los hijos de ambos cónyuges o de uno solo, que hagan imposible la vida en común;
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2763,7 +2765,9 @@ VI.- El abandono injustificado del domicilio familiar por cualquiera de los cons
 
 VII.- La declaración de ausencia legalmente hecha;
 
-VIII.- La sevicia, las amenazas, la difamación o injurias graves, o los malos tratamientos de un cónyuge para el otro, siempre que éstos y aquéllas sean de tal naturaleza, que hagan imposible la vida en común;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+VIII.- La sevicia, las amenazas, la difamación o injurias graves de un cónyuge para el otro, siempre que éstos y aquéllas sean de tal naturaleza, que hagan imposible la vida en común;
 
 IX.- La acusación calumniosa hecha por un cónyuge contra el otro por un delito, cualquiera que sea la pena que corresponda a éste;
 
@@ -2834,6 +2838,10 @@ III.- Lo mismo se observará respecto de la recuperación de la custodia.
 ###### Artículo 464.
 
 La determinación de un cónyuge culpable mediante sentencia de divorcio, no implica que necesariamente el Juez deba decretar la pérdida de los derechos que la patria potestad le confiere a aquél; pero sí estará obligado a negarle la custodia y guarda del menor, si el divorcio se basó en las causales enumeradas en las fracciones III, IV, V, XI y XII del artículo 454, sin perjuicio de los derechos de convivencia.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Cuando el divorcio se encuentre fundado en el supuesto previsto en el inciso e) de la fracción III del artículo 454, el cónyuge culpable perderá además de la patria potestad, los derechos de convivencia respecto de los menores.
 
 ###### Artículo 465.
 
@@ -3535,6 +3543,10 @@ Una vez que se haya hecho la anotación marginal al acta originaria, se reservar
 
 El que adopta tendrá, respecto de la persona y bienes del adoptado, los mismos derechos y deberes que tienen los padres respecto de la persona y bienes de los hijos.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+El que adopta dará nombre y sus apellidos al adoptado, salvo que, por circunstancias específicas, no se estime conveniente.
+
 ###### Artículo 587.
 
 El adoptado tendrá, para con la persona o personas que lo adopten, los mismos derechos y deberes que tiene un hijo.
@@ -3562,6 +3574,10 @@ El menor adoptado, podrá impugnar la adopción dentro de los doce meses siguien
 La adopción promovida por ciudadanos de otro país, con residencia habitual fuera del territorio mexicano y que tengan por objeto incorporar, en una familia, a un menor que pueda ser adoptado, se considera internacional y por lo tanto se regirá por los Tratados Internacionales de los que México sea parte, y en lo conducente a lo que establecen las disposiciones del presente Código.
 
 Las adopciones realizadas en el Estado de Puebla y promovidas por nacionales de otro país con residencia permanente o definitiva en territorio nacional, se regirán por las disposiciones del presente Código.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+En igualdad de circunstancias se dará preferencia en la adopción a mexicanos sobre extranjeros.
 
 ###### Artículo 592.
 
@@ -3809,7 +3825,11 @@ c) Abandonen por más de un día a su hijo o nieto si el menor no hubiere quedad
 
 d) No Permitan de manera reiterada que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente.
 
-V.- En los casos de divorcio, cuando la ley lo establece.
+V.- En los casos de divorcio, cuando la ley lo establece;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+VI.- Por el cumplimiento parcial o insuficiente de la obligación alimentaria sin causa justificada por más de noventa días.
 
 ###### Artículo 629.
 
@@ -3820,6 +3840,10 @@ I.- En el caso de la fracción I, en la sentencia que termine el proceso respect
 II.- En los casos de las fracciones II a IV, en la sentencia del juicio civil que se siga especialmente al efecto.
 
 III.- En el caso de la fracción V, en la sentencia del juicio de divorcio.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+IV.- En el caso de la fracción VI, cuando el Juez verifique que efectivamente no se ha cubierto su monto total por más de noventa días y que a su prudente arbitrio no exista una causa justificada para ello.
 
 ###### Artículo 630.
 
@@ -11075,6 +11099,10 @@ Perjuicio es la privación de cualquiera ganancia lícita, que se habría obteni
 
 El daño moral resulta de la violación de los derechos de la personalidad.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Por daño moral se entiende la afectación que una persona sufre en su vida, su integridad corporal, su libertad, sus afectos, su honor, su decoro, su prestigio o reputación, su presencia física o la consideración que de sí misma tienen los demás, sus secretos y en general aspectos relacionados con su privacidad.
+
 ###### Artículo 1959.
 
 Los daños y perjuicios deben ser consecuencia directa e inmediata del hecho origen de la responsabilidad, ya sea que se hayan causado o que necesariamente deban causarse.
@@ -11241,6 +11269,10 @@ II.- Quienes hubieren dependido económicamente de la víctima, o aquéllos de q
 
 III.- Los herederos de la víctima, a falta de las personas a que se refiere la fracción anterior.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo se transmite a los herederos del afectado, cuando éste falleciere y haya intentado la acción en vida.
+
 ###### Artículo 1990.
 
 Si el daño origina una incapacidad para trabajar que sea parcial permanente, parcial temporal o total temporal, la indemnización será regulada por el Juez según las reglas especificadas en el artículo 1988, debiendo determinarse por peritos el tiempo de la incapacidad y el grado de la misma; pero no podrá exceder esta indemnización de la suma fijada para el caso de muerte.
@@ -11269,9 +11301,35 @@ Si la lesión recayó sobre la integridad de la persona y el daño origina una l
 
 La indemnización por daño moral es independiente de la económica, se decretará aun cuando ésta no exista siempre que se cause aquel daño y no excederá del importe de un mil días del salario mínimo general.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 1996.
 
-Cuando el daño moral haya afectado a la víctima en su decoro, prestigio, honor o buena reputación, puede el Juez ordenar, además, a petición de aquélla, que a costa del condenado se publique, en los medios informativos que el Juez señale, la sentencia que imponga la reparación.
+Cuando el daño moral haya afectado a una persona en su honor, su decoro, su prestigio o reputación, puede el Juez ordenar, además, a petición de aquélla, que a costa del condenado se publique, en los medios informativos que el Juez señale, la sentencia que imponga la reparación.
+
+Si el daño deriva de un acto que haya tenido difusión en los medios informativos, el Juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original, con independencia de los costos que esto origine.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 1996 Bis.
+
+Se considerarán también ilícitas y por ende dan origen a responsabilidad por daño moral, las siguientes conductas:
+
+I.- El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien;
+
+II.- El que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso o es inocente la persona a quien se imputa;
+
+III.- El que presente denuncias o querellas calumniosas, entendiéndose por tales aquéllas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido.
+
+En estos casos, resulta también aplicable lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 1996 Ter.
+
+No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+En ningún caso se considerarán ofensas al honor las opiniones de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones realizadas en cumplimiento de un deber o ejerciendo un derecho, cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -11383,9 +11441,11 @@ Los gastos judiciales se regularán por el Código de Procedimientos Civiles.
 
 B.- Cláusula Penal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 2017.
 
-La responsabilidad por daños y perjuicios causados por incumplimiento de contrato, puede ajustarse por las partes, al celebrarse éste, estipulando una prestación determinada, como pena:
+La responsabilidad por daños y perjuicios causados por incumplimiento de contrato, puede ajustarse por las partes al celebrarse éste, estipulando una prestación determinada como pena, misma que no podrá exceder ni en valor ni en cuantía a la obligación principal, por cualquiera de los siguientes casos:
 
 I.- Por el no cumplimiento del contrato;
 
@@ -12311,7 +12371,7 @@ II.- El vendedor que hubiere entregado el bien vendido puede exigir del comprado
 
 III.- El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó;
 
-IV.- El comprador que no haya pagado el precio, no puede enajenar el bien objeto de compraventa con reserva de dominio, pero sí puede transmitir a otra u otras personas los derechos que le confiera esa compraventa. Por su parte el vendedor no puede enajenar el bien vendido con reserva de propiedad, mientras no se venza el plazo o plazos pactados para pagar el precio;
+IV.- El comprador que no haya pagado el precio, no puede enajenar el bien objeto de compraventa con reserva de dominio, pero si puede transmitir a otra u otras personas los derechos que le confiera esa compraventa. Por su parte el vendedor no puede enajenar el bien vendido con reserva de propiedad, mientras no se venza el plazo o plazos pactados para pagar el precio;
 
 V.- Los artículos 2172 fracción III y 2173;
 
@@ -19834,3 +19894,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
