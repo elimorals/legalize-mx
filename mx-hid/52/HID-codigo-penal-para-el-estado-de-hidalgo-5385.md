@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2007-05-11"
+last_updated: "2007-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -525,7 +525,7 @@ Las medidas de seguridad que pueden imponerse con arreglo a este Código a las p
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
 
-I.- Tratamiento en internamiento o en libertad de inimputables o imputables disminunidos;
+I.- Tratamiento en internamiento o en libertad de inimputables o imputables disminuidos;
 
 II.- Tratamiento de deshabituación o de desintoxicación;
 
@@ -3369,6 +3369,10 @@ Los vehículos y animales instrumento del delito serán asegurados y decomisados
 
 Al que a sabiendas comercie o emplee para fines industriales productos forestales de cualquier clase obtenidos subrepticiamente o sin autorización de las autoridades correspondientes, se le aplicarán de uno a cuatro años de prisión y multa de 20 a 150 días.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 349 BIS.- Al que extraiga, corte, utilice, destruya, comercialice, transporte o almacene alguna de las especies de maguey pulquero, sus derivados y/o subproductos, sin la autorización requerida por la Norma Técnica Estatal NTE-SAGEH-001/2006, se le aplicará una sanción de 1 a 3 años de prisión y multa de cincuenta a cien días de salarios mínimos vigentes en el Estado de Hidalgo.
+
 ###### ARTICULO 350.
 
 Al que con el propósito de lucro, para sí o para otro, dé un destino distinto al señalado en la resolución de dotación o restitución de tierras ejidales o comunales, sean provisionales o definitivas, o en certificado de derechos agrarios, compre, enajene, arriende, ceda o de cualquier forma grave ilegalmente en todo o en parte los derechos de usufructo o tendencia de dichas tierras, violando disposiciones locales o municipales, se aplicará una pena de dos a ocho años de prisión y multa de 20 a 200 días.
@@ -3688,3 +3692,7 @@ P.O. 11 DE MAYO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
