@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-prevencion-y-combate-al-abuso-del-alcohol-33777"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-10"
-last_updated: "2007-06-29"
+last_updated: "2007-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de septiembre de 2003.
 
@@ -145,9 +145,9 @@ Dichos establecimientos deberán ubicarse a una distancia perimetral mínima de 
 
 A las autoridades administrativas del Estado y de los municipios, en el ámbito de su competencia, les corresponde:
 
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-I. Desarrollar estrategias, programas anuales preventivos y campañas permanentes de difusión e información en materia de combate al abuso en el consumo del alcohol;
+I. Desarrollar estrategias, programas anuales preventivos y campañas permanentes de difusión e información en materia de combate al abuso en el consumo del alcohol, orientadas a desincentivar el consumo e informado de las consecuencias negativas en la salud de la persona, en la vida familiar y en la social;
 
 II. Promover su coordinación para el cumplimiento del objeto de esta Ley;
 
@@ -213,7 +213,7 @@ A los Municipios, en el ámbito de su competencia, les corresponde:
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
-I. Celebrar convenios con el Estado para el mejor cumplimiento de esta ley; así como de colaboración con las Instituciones autorizadas por la Secretaría de Salud en la entidad, a fin de que se brinde el tratamiento o rehabilitación a quienes violenten el presente ordenamiento legal.
+I. Celebrar convenios con el Estado para el mejor cumplimiento de esta ley; así como de colaboración con las Instituciones autorizadas por la Secretaría de Salud en la entidad, a fin de que se brinde el tratamiento o rehabilitación a quienes violenten el presente ordenamiento legal;
 
 II. Informar a la autoridad encargada de la expedición de las licencias de conducir, al menos una vez al mes, de aquellas infracciones de vialidad o tránsito cometidas de conformidad con esta Ley;
 
@@ -223,9 +223,9 @@ III. Impulsar alternativas de sano esparcimiento facilitando la utilización de 
 
 IV. Establecer en sus reglamentos los criterios de ubicación, distancia, publicidad, transportación y características de los establecimientos dedicados a la venta, distribución, consumo, anuncio y expendio de bebidas alcohólicas, además de los que en su caso establezca esta Ley;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-V. Aplicar, de conformidad con sus reglamentos, las sanciones administrativas que correspondan por el incumplimiento de las obligaciones contenidas en los artículos 4; 15; 16 fracciones I, III, V y VI; y por la realización de las conductas enumeradas en el artículo 19 fracciones I, II, III, IV, V, VI, VII, VIII, IX y XII de esta Ley, sujetándose a los procedimientos municipales que para tal efecto se establezcan;
+V. Aplicar, de conformidad con sus reglamentos, las sanciones administrativas que correspondan por el incumplimiento de las obligaciones contenidas en los artículos 4; 15; 16 fracciones I, III, V y VI; y por la realización de las conductas enumeradas en el artículo 19 fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI y XII de esta Ley, sujetándose a los procedimientos municipales que para tal efecto se establezcan;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
@@ -233,17 +233,17 @@ VI. En el caso de las infracciones señaladas en el artículo 19 fracciones VII 
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
-VII. Contar con el padrón de establecimientos dedicados a la venta, consumo o expendio de bebidas alcohólicas, mismo que deberá de ser publicado en el portal electrónico de Internet de cada municipio que cuente con éste, de lo contrario deberá publicarse a través de su gaceta oficial municipal o de cualquier otro medio impreso.
+VII. Contar con el padrón de establecimientos dedicados a la venta, consumo o expendio de bebidas alcohólicas, mismo que deberá de ser publicado en el portal electrónico de Internet de cada municipio que cuente con éste, de lo contrario deberá publicarse a través de su gaceta oficial municipal o de cualquier otro medio impreso;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
 VIII. Las demás que señalen otras disposiciones de carácter general.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 9.
 
-El Consejo Estatal de Menores será el encargado de aplicar en su caso, las sanciones previstas en las fracciones XV y XVII del artículo 20 de esta Ley, en el ámbito de su competencia.
+Los municipios, en el caso de la sanción a la infracción establecida en el artículo 19 fracción XI podrán realizar convenios de coordinación con instituciones públicas y privadas para llevar a cabo el tratamiento de menores por la infracción correspondiente.
 
 ### CAPÍTULO III. ACCIONES PARA PREVENIR O COMBATIR EL ABUSO EN EL CONSUMO DEL ALCOHOL
 
@@ -331,7 +331,9 @@ II. Vender, expender u otorgar para consumo bebidas alcohólicas libres de adult
 
 III. Permitir visitas de verificación o inspección, cuando se presente orden emitida por autoridad competente para tal efecto;
 
-IV. Colocar en un lugar visible el cartel oficial emitido por la Secretaría que contenga al menos la leyenda "El consumo abusivo de alcohol puede producir adicciones y graves problemas de salud";
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+IV. Colocar en un lugar visible el cartel oficial emitido por la Secretaría que contenga al menos la leyenda "El consumo abusivo de alcohol puede producir adicciones y graves problemas de salud"; así como las prohibiciones establecidas en las fracciones I, II, V, VII, VIII y XI del artículo 19 de esta Ley;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
@@ -381,7 +383,9 @@ Se consideran conductas violatorias o infracciones a esta Ley, las siguientes:
 
 I. El consumo de bebidas alcohólicas en la vía pública, o en lugares de uso común, excepto los eventos que autorice la autoridad correspondiente;
 
-II. Servir o vender bebidas alcohólicas a menores de edad o incapaces, independientemente de que sean para consumirse en el lugar o para llevarse, en envase abierto o cerrado;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+II. Otorgar, servir o vender bebidas alcohólicas a menores de edad o incapaces, independientemente de que sean para consumirse en el lugar o para llevarse, en envase abierto o cerrado;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
@@ -393,7 +397,9 @@ IV. Los concursos, promociones o cualquier tipo de ofertas o prácticas comercia
 
 V. Servir o vender bebidas alcohólicas a personas que se encuentren en evidente estado de ebriedad, o estén ostensiblemente armadas;
 
-VI. El expendio o la venta de bebidas alcohólicas en las instituciones educativas, en los centros de readaptación social, instituciones de beneficencia, hospitales, sanatorios y similares;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+VI. El expendio o la venta de bebidas alcohólicas en las instituciones educativas, oficinas públicas, en los centros de readaptación social, instituciones de beneficencia, hospitales, sanatorios y similares;
 
 VII. Conducir en estado de ineptitud o de ebriedad;
 
@@ -401,7 +407,9 @@ VIII. Poseer, en el área de pasajeros de un vehículo, una botella, lata u otro
 
 IX. Obsequiar o vender bebidas alcohólicas a los oficiales de tránsito, agentes de policía, militares y demás encargados de la seguridad pública cuando estén en servicio o porten uniforme, así como a los inspectores en servicio en ese establecimiento;
 
-X. (DEROGADA, P.O. 5 DE MARZO DE 2004)
+(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 14 DE DICIEMBRE DE 2007)
+
+X. La venta de bebidas alcohólicas en máquinas expendedoras;
 
 XI. Proporcionar datos falsos sobre su edad para obtener bebidas alcohólicas, en el caso de ser menor de edad; y
 
@@ -469,7 +477,9 @@ X. Por incumplimiento a lo dispuesto por el Artículo 19, fracción VIII en el c
 
 En caso de reincidencia se duplicará el monto de la multa impuesta previamente y la suspensión de la licencia será de hasta 18 meses;
 
-XI. (DEROGADA, P.O. 5 DE MARZO DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+XI. Por incumplimiento a lo dispuesto por el artículo 19, fracción X, multa de 350 a 2,500 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
@@ -650,3 +660,9 @@ Artículo Segundo.- El Ejecutivo del Estado y los Ayuntamientos en el ámbito de
 P.O. 29 DE JUNIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Municipios deberán adecuar sus reglamentos conforme a lo dispuesto en este Decreto en un plazo de sesenta días naturales a partir de la vigencia del mismo.
