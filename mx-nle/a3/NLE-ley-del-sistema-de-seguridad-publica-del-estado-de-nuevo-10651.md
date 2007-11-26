@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "2007-07-25"
+last_updated: "2007-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -209,7 +209,13 @@ IX.- La formulación de recomendaciones administrativas a las autoridades corres
 
 X.- Proponer al Gobernador la aprobación del Programa Estatal de Seguridad Pública;
 
-XI.- Las demás que determinen las Leyes.
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+XI.- Discutir, proponer y dar seguimiento a la distribución entre el Estado y los Municipios, atendiendo a las solicitudes y necesidades que estos hagan, de los fondos federales, estatales y demás recursos económicos destinados a la seguridad pública; y
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+XII.- Las demás que determinen las leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 1998)</small>
 
@@ -1264,3 +1270,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 25 DE JULIO DE 2007
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
