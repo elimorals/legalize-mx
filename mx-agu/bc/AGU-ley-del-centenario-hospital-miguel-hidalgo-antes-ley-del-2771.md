@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-centenario-hospital-miguel-hidalgo-antes-ley-del-2771"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-20"
-last_updated: "2004-12-27"
+last_updated: "2007-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 26 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 20 de diciembre de 1987.
 
@@ -420,3 +422,15 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 27 DE DICIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor a los 30 días siguientes, al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigencia el día 1° de enero del año 2008.
+
+SEGUNDO.- Se abroga la Ley del Centenario Hospital Miguel Hidalgo, publicada en el Periódico Oficial del Estado de fecha 22 de diciembre del 2004.
+
+TERCERO.- Los recursos humanos y materiales que se encuentran asignados al Centenario Hospital Miguel Hidalgo y necesarios para el cumplimiento de su objeto y objetivos específicos, pasarán a formar parte del patrimonio del Hospital, debiendo regularizar el régimen patrimonial en un plazo no mayor de seis meses contados a partir de la entrada en vigencia de la presente Ley.
+
+CUARTO.- Los derechos laborales de los trabajadores de base establecidos en las Condiciones Generales de Trabajo vigentes, serán respetados en todos sus términos.
+
+QUINTO.- El reglamento interior y los manuales de organización del Hospital deberán publicarse dentro los (sic) ciento ochenta días del inicio de vigencia del presente ordenamiento.
