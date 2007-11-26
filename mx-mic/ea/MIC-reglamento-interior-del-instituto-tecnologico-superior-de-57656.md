@@ -1,0 +1,356 @@
+---
+title: "REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LOS REYES, MICHOACAN"
+identifier: "MIC-reglamento-interior-del-instituto-tecnologico-superior-de-57656"
+country: "mx"
+rank: "reglamento"
+publication_date: "2007-11-26"
+last_updated: "2007-11-26"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57656&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mic"
+scjn_id: "57656"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "78 TERCERA SECCION"
+reform_count: "1"
+scjn_last_update: "2011-06-17"
+issue_date: "2007-11-08"
+state: "MIC"
+---
+# REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LOS REYES, MICHOACAN
+
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LOS REYES, MICHOACAN
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 26 de noviembre del 2007.
+
+LÁZARO CÁRDENAS BATEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las facultades que me confieren los artículos 60 fracción XXII, 62, 65 y 66 de la Constitución Política del Estado de Michoacán de Ocampo; así como los artículos 1°, 2°, 3°, 4°, 5°, 9°, 12, 14, 16, 37 fracción I y 38 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo; y,
+
+CONSIDERANDO.
+
+Por lo expuesto, tengo a bien expedir el siguiente:
+
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LOS REYES, MICHOACÁN
+
+CAPÍTULO PRlMERO
+
+DISPOSICIONES GENERALES
+
+###### Artículo 1º.
+
+El Instituto Tecnológico Superior de Los Reyes, Michoacán, es un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Educación, constituido como miembro del Sistema Nacional de Institutos Tecnológicos y tendrá por objeto:
+
+I. Impartir e impulsar la educación superior tecnológica;
+
+ll. Contribuir a través del proceso educativo al establecimiento de una justa distribución de la riqueza;
+
+III. Ampliar las posibilidades y alternativas de la educación superior tecnológica para todos los estratos sociales;
+
+IV. Realizar investigación científica, en congruencia con el avance del conocimiento, el desarrollo de la enseñanza tecnológica y el mejor aprovechamiento social de los recursos naturales y materiales, para contribuir al mejoramiento y eficacia de la producción industrial y de servicios, así como la elevación de la calidad de vida de la comunidad;
+
+V. Formar profesionales e investigadores en los diversos campos de la ciencia y la tecnología, en las áreas industrial, agropecuaria y de servicios, de acuerdo con los requerimientos del desarrollo económico y social en los ámbitos regional, estatal y nacional, a partir de los egresados de bachillerato;
+
+VI. Investigar, crear, conservar y difundir la cultura, para fortalecer la conciencia de la nacionalidad y la solidaridad en los educandos;
+
+VII. Participar en los programas que para coordinar las actividades de investigación se formulen, de acuerdo con la planeación y desarrollo de las políticas nacional, estatal y municipal, en materia de ciencia y tecnología; y,
+
+VIII. Vincularse con los sectores público, privado y social, para contribuir en el desarrollo tecnológico, científico y social del Estado y del país.
+
+###### Artículo 2º.
+
+El presente Reglamento regirá la organización y funcionamiento del Instituto Tecnológico Superior de Los Reyes, Michoacán, así como las actividades que realice de acuerdo con su objeto y atribuciones señaladas en su Decreto de Creación.
+
+###### Artículo 3º.
+
+Al frente del Instituto Tecnológico Superior de Los Reyes, Michoacán, habrá un Director General designado por el Gobernador del Estado, quien conducirá sus actividades conforme a las disposiciones normativas aplicables y las políticas que emita la Junta Directiva y se auxiliará del personal técnico y administrativo necesario para el ejercicio de sus facultades.
+
+###### Artículo 4º.
+
+Para los efectos del presente Reglamento se entenderá por:
+
+I. Alumnos: Los alumnos del Instituto Tecnológico Superior de Los Reyes, Michoacán;
+
+ll. Decreto: El Decreto de Creación del Instituto Tecnológico Superior de Los Reyes, Michoacán;
+
+III. Director General: El Director General del Instituto Tecnológico Superior de Los Reyes, Michoacán;
+
+IV. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
+
+V. Instituto: El Instituto Tecnológico Superior de Los Reyes, Michoacán;
+
+VI. Junta: La Junta Directiva del Instituto;
+
+VII. Reglamento: El Reglamento Interior del Instituto; y,
+
+VIII. Unidades Administrativas: Las Unidades Administrativas dotadas de facultades de decisión y ejecución contempladas en el artículo 5° del presente Reglamento.
+
+### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL INSTITUTO
+
+###### Artículo 5°.
+
+La administración del Instituto estará a cargo de la Junta y del Director General, cuya integración y facultades se establecen en su Decreto, mismas que se ejercerán de conformidad con Io dispuesto en las disposiciones normativas aplicables y para el estudio, planeación y despacho de los asuntos que le competen al Instituto, se crean las unidades administrativas siguientes:
+
+I. Subdirección de Planeación, Evaluación y Vinculación;
+
+ll. Subdirección Académica; y,
+
+III. División de Finanzas y Administración.
+
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL
+
+###### Artículo 6°.
+
+Al Director General le corresponde el ejercicio de las facultades siguientes:
+
+I. Instruir y coordinar la elaboración y ejecución de los programas de trabajo para el cumplimiento del objeto del Instituto, aprobados por la Junta;
+
+ll. Presentar a la Junta el proyecto de presupuesto de ingresos y egresos y los respectivos planes de inversión del Instituto, para su autorización, y presentarlos ante la instancia correspondiente;
+
+III. Vigilar el cumplimiento de las disposiciones normativas que regulan la estructura y funcionamiento del Instituto;
+
+IV. Suscribir los convenios, contratos y acuerdos de colaboración, para el cumplimiento del objeto del Instituto, de acuerdo con los lineamientos que determine la Junta y en términos de la normativa aplicable;
+
+V. Representar legalmente al Instituto, con todas las facultades generales que corresponden a los mandatos generales para pleitos y cobranzas, actos de dominio y demás que requieran cláusula especial, en términos de la normativa aplicable;
+
+Vl. Dirigir las actividades de las unidades administrativas a su cargo, en la ejecución de los acuerdos, políticas y comisiones que la Junta le determine y presentar los informes correspondientes sobre el desarrollo de dichas actividades;
+
+VII. Supervisar y conducir el funcionamiento del Instituto, así como vigilar el cumplimiento de los planes y programas de estudios y de los objetivos y metas;
+
+VIII. Coordinar y supervisar que se cumplan los planes y programas académicos del Instituto;
+
+IX. Coordinarse con las autoridades de la Administración Pública Federal, Estatal y Municipal, así como con los sectores social y privado nacional y extranjero, y con instituciones educativas del nivel superior, para llevar a cabo la ejecución de los programas y proyectos del Instituto, previo acuerdo de la Junta;
+
+X. Realizar los movimientos del personal académico, técnico y administrativo, necesarios para el mejor funcionamiento del Instituto, conforme a las disposiciones normativas aplicables;
+
+XI. Designar a los servidores públicos del Instituto, a efecto de que lo representen en aquellas juntas, comisiones o consejos de las que forme parte;
+
+XII. Otorgar y conferir poderes generales y especiales que le autorice la Junta, a través del acuerdo delegatorio de facultades que corresponda, a los servidores públicos del Instituto, a efecto de dar cumplimiento al objeto del Instituto;
+
+XIII. Proponer a la Junta los nombramientos de los servidores públicos del Instituto, así como del personal que se requiera para el funcionamiento de las unidades administrativas a su cargo;
+
+XIV. Expedir los nombramientos de los servidores públicos del Instituto, previa autorización de la Junta y en términos de la normativa aplicable;
+
+XV. Conducir la realización de estudios organizacionales del Instituto y proponer las medidas de mejora que procedan a la Junta para su autorización;
+
+XVI. Someter a la aprobación de la Junta los proyectos y actualizaciones del Reglamento Interior y los manuales administrativos;
+
+XVII. Coordinar el ejercicio del presupuesto autorizado para el Instituto, a través de la unidad administrativa competente;
+
+XVIll. Expedir constancias y certificados de estudios realizados por los alumnos, así como diplomas y títulos otorgados por el Instituto;
+
+XIX. Establecer las medidas y disposiciones necesarias para el mejoramiento en la operación del Instituto y las unidades administrativas a su cargo;
+
+XX. Recibir en acuerdo a los titulares de las unidades administrativas a su cargo, y supervisar el ejercicio de sus facultades; y,
+
+XXI. Las demás que le señale la Junta y otras disposiciones normativas aplicables.
+
+### CAPÍTULO CUARTO. DE LAS FACULTADES GENERALES DE LAS UNIDADES ADMINISTRATIVAS
+
+###### Artículo 7°.
+
+Las unidades administrativas del Instituto, ejercerán sus facultades y conducirán sus actividades conforme a los principios rectores de certeza, legalidad, objetividad, imparcialidad, equidad y profesionalismo, así como a los objetivos, programas, políticas y lineamientos que determinen la Junta y el Director General, con estricto apego a las disposiciones normativas aplicables y a las líneas jerárquicas de mando correspondientes.
+
+###### Artículo 8º.
+
+Al frente de cada unidad administrativa habrá un titular, quien se auxiliará del personal que sea necesario, de acuerdo a la asignación presupuestal autorizada y la disponibilidad financiera que su marco normativo le permita obtener al Instituto.
+
+###### Artículo 9º.
+
+A los titulares de las unidades administrativas del Instituto, les corresponde el ejercicio de las facultades generales siguientes:
+
+I. Acordar con su superior jerárquico la resolución de los asuntos cuya responsabilidad corresponda a la unidad administrativa a su cargo;
+
+II. Planear, programar, ejecutar y evaluar el desarrollo de los programas y acciones encomendados a la unidad administrativa a su cargo, e informar a la superioridad, sobre el resultado de las mismas;
+
+III. Presentar, en tiempo y forma, los informes, estudios y opiniones sobre los asuntos de su competencia, y eventualmente cuando éstos le sean requeridos;
+
+IV. Coadyuvar, en materia de su competencia, en la elaboración y ejecución de los estudios, planes y programas de trabajo necesarios para el cumplimiento de los objetivos del Instituto;
+
+V. Formular en coordinación con la División de Finanzas y Administración, el proyecto de presupuesto que corresponda a la unidad administrativa a su cargo;
+
+VI. Suscribir los documentos que se emitan dentro de la esfera de competencia por la unidad administrativa a su cargo, y aquellos que le sean señalados por encargo o delegación de facultades;
+
+VII. Llevar el registro y control de la documentación que turnen a la unidad administrativa a su cargo;
+
+VIII. Vigilar que el personal a su cargo desempeñe debidamente las actividades que le correspondan, así como las comisiones que le instruya la superioridad e informarle oportunamente del resultados (sic) de las mismas;
+
+IX. Atender al público de manera eficiente y oportuna, en los ámbitos de su competencia;
+
+X. Coordinar las actividades, con las demás unidades administrativas, cuando se requiera para el mejor funcionamiento del Instituto;
+
+XI. Dirigir las acciones que se requieran para lograr la calidad en el servicio educativo del Instituto;
+
+XII. Vigilar el uso racional de los recursos materiales y financieros destinados a la unidad administrativa a su cargo;
+
+XIII. Atender los asuntos que les encomiende la superioridad y darles seguimiento hasta su conclusión e informar con oportunidad de los avances y el estado que guarden; y,
+
+XIV. Las demás que le señale el Director General y otras disposiciones normativas aplicables.
+
+### CAPÍTULO QUINTO. DE LA SUBDIRECCIÓN DE PLANEACIÓN, EVALUACIÓN Y VINCULACIÓN
+
+###### Artículo 10.
+
+Al Subdirector de Planeación, Evaluación y Vinculación le corresponde el ejercicio de las facultades siguientes:
+
+I. Elaborar en coordinación con las unidades administrativas correspondientes, el Programa Operativo Anual del Instituto y presentarlo al Director General para su aprobación;
+
+Il. Instrumentar e implementar mecanismos para la planeación, seguimiento, control y evaluación del Programa Operativo Anual y de programas especiales que se instrumenten en el Instituto;
+
+III. Supervisar la elaboración de estudios y proyectos referentes a programas de vinculación y extensión académica y presentarlos al Director General, para su revisión y autorización;
+
+IV. Promover la participación de los sectores social y productivo de la región, en las comisiones académicas que se establezcan para la elaboración y actualización de planes y programas de estudio;
+
+V. Proponer al Director General, programas de desarrollo educativo y de educación continua, que fortalezcan los servicios que presta el Instituto;
+
+VI. Formular, conjuntamente con el Subdirector Académico, estudios tendientes a detectar las necesidades de actualización y capacitación de los profesionistas que laboran en el Instituto y dar respuesta a las necesidades de educación continua;
+
+VII. Vigilar el cumplimiento de las disposiciones normativas que regulan las acciones de control escolar;
+
+VIII. Instrumentar y supervisar el establecimiento de un sistema ágil, eficiente y económico, para el registro de evaluaciones y la expedición de documentos oficiales que ampare los estudios realizados en el Instituto, previa revisión y autorización del Director General;
+
+IX. Supervisar la ejecución de acciones que se requieran para la prestación del servicio social de los alumnos;
+
+X. Establecer y mantener relaciones con dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, instituciones públicas y privadas, en coordinación con las unidades administrativas para apoyar la realización de actividades y eventos académicos que coadyuven al cumplimiento de las prácticas y a la promoción profesional de los alumnos, previa autorización del Director General;
+
+XI. Formular e implementar las modificaciones necesarias a los planes y programas de estudio de acuerdo a las necesidades del sector productivo de bienes y servicios, y presentarlos al Director General para su aprobación;
+
+XII. Proponer al Director General la celebración de convenios con instituciones públicas, privadas y educativas del nivel superior, que permitan fortalecer el desarrollo y ejecución de los programas del Instituto;
+
+XIII. Desarrollar la integración de proyectos en materia de prestación de servicios de asesoría técnica, desarrollo de prototipos y capacitación e investigación tecnológica, con los sectores público, social y privado que lo soliciten, y presentarlos al Director General para su aprobación;
+
+XIV. Conducir y supervisar la ejecución de acciones para realizar actividades de carácter cultural, educativas y deportivas, tendientes a contribuir a la fonación profesional, cultural, científica y tecnológica de los alumnos;
+
+XV. Promover actividades de extensión educativa, gestión tecnológica y vinculación con el sector productivo; y,
+
+XVI. Proponer al Director General, campañas de comunicación y difusión de las acciones del Instituto, así como la edición de material que contribuya a enriquecer el acervo relacionado con el quehacer educativo, la cultura y el conocimiento científico y tecnológico.
+
+### CAPÍTULO SEXTO. DE LA SUBDIRECCIÓN ACADÉMICA
+
+###### Artículo 11.
+
+Al Subdirector Académico le corresponde el ejercicio de las facultades siguientes:
+
+I. Conducir la elaboración de los proyectos de disposiciones normativas en materia escolar y presentarlos al Director General para su revisión y aprobación;
+
+II. Difundir entre las unidades administrativas a su cargo, las políticas y lineamientos a que deben sujetarse el desarrollo y ejecución de las actividades de docencia e investigación, así corno de cursos de actualización, especialización y superación académica del Instituto, y vigilar su cumplimiento;
+
+III. Supervisar el desarrollo de las actividades académicas y de investigación encomendadas a la unidad administrativa a su cargo;
+
+IV. Convocar al personal académico del Instituto a reuniones de carácter académico para diseñar o proponer modificaciones, en su caso, a los planes y programas de estudio e investigación;
+
+V. Proponer al Director General los programas de actualización y superación académica, y una vez aprobados supervisar y evaluar su cumplimiento;
+
+VI. Proponer al Director General, el otorgamiento de estímulos al personal académico con desempeño sobresaliente;
+
+VII. Elaborar, conjuntamente con la Subdirección de Planeación Evaluación y Vinculación, estudios tendientes a detectar las necesidades de actualización y capacitación de los profesionistas que laboran en el Instituto y dar respuesta a las necesidades de educación continua;
+
+VIII. Proponer al Director General, la celebración de convenios que permitan desarrollar los programas académicos del Instituto, así como apoyar en la ejecución de los mismos;
+
+IX. Participar en las reuniones que convoque el Director General o alguna unidad administrativa, para revisar, analizar y tratar planes y actividades relacionadas con los estudios profesionales, la investigación y la docencia del Instituto;
+
+X. Presentar al Director General las propuestas para la aplicación y mejoramiento de espacios físicos y de los servicios educativos del Instituto, en función del crecimiento de la demanda educativa;
+
+XI. Apoyar a la Subdirección de Planeación, Evaluación y Vinculación en la instrumentación y supervisión para el establecimiento de un sistema ágil, eficiente y económico, para el registro de evaluaciones y la expedición de documentos oficiales que ampare los estudios realizados en el Instituto, previa revisión y autorización del Director General;
+
+XlI. Mantener mecanismos de coordinación con la Subdirección de Planeación, Evaluación y Vinculación, para la implantación de estudios de educación continua;
+
+XIII. Tramitar, previo acuerdo con el Director General y en coordinación con las unidades administrativas competentes, la revalidación y reconocimientos de estudios y equivalentes, la titulación de los egresados, así como de cualquier otro documento oficial ante las autoridades competentes; y,
+
+XIV. Conducir y supervisar el proceso de selección e ingreso de los aspirantes a alumnos, así como de los exámenes de reconocimientos y psicométricos.
+
+### CAPÍTULO SÉPTIMO. DE LA DIVISIÓN DE FINANZAS Y ADMINISTRACIÓN
+
+###### Artículo 12.
+
+Al titular de la División de Finanzas y Administración le corresponde el ejercicio de las facultades siguientes:
+
+I. Proponer al Director General el establecimiento de las medidas necesarias para la correcta utilización de los recursos humanos, financieros y materiales, en estricto apego a las normas aplicables;
+
+II. Acordar, elaborar y tramitar los movimientos de alta y baja de personal, así como las incidencias que se presenten, integrando el registro de personal correspondiente;
+
+III. Tramitar ante la instancia competente, la integración y permanente actualización del inventario del activo fijo del Instituto;
+
+IV. Integrar y someter a consideración del Director General los proyectos de presupuesto de ingresos y egresos anuales del Instituto;
+
+V. Realizar las afectaciones presupuestales que se generen en la ejecución de los programas de trabajo, así como las solicitudes de modificaciones a que haya lugar, previa autorización del Director General;
+
+VI. Informar mensualmente y cuando le sea requerido por el Director General, respecto del ejercicio del presupuesto autorizado del Instituto;
+
+VII. Integrar el informe de análisis programático presupuestario del Instituto y presentarlo al Director General para su revisión y autorización, así como remitirlo ante la instancia que corresponda;
+
+VIII. Verificar que se proporcionen los servicios de mantenimiento preventivo y correctivo a los bienes que estén bajo resguardo del Instituto;
+
+IX. Integrar, sistematizar y mantener actualizado el archivo documental del Instituto, de acuerdo con las disposiciones normativas aplicables;
+
+X. Elaborar y presentar al Director General los documentos de ejecución presupuestaria y pago para su autorización y trámite, así como toda aquella generada para cubrir obligaciones y compromisos del Instituto;
+
+XI. Tramitar de acuerdo con la planeación establecida, las adquisiciones y arrendamientos de bienes y servicios generales, que el funcionamiento del Instituto requiera;
+
+XII. Conducir la elaboración y aplicación de los programas de modernización y desarrollo administrativo susceptible de implantarse en el Instituto, previa autorización del Director General;
+
+XIII. Establecer un sistema de registro y control de las operaciones financieras y contables que permitan una clara y oportuna información sobre el manejo y estado de los recursos a cargo del Instituto;
+
+XIV. Proporcionar con oportunidad los apoyos administrativos en materia de servicios generales, materiales y suministros que requieran las unidades administrativas para el cumplimiento de sus funciones;
+
+XV. Administrar los recursos financieros provenientes de ingresos propios, de acuerdo a los lineamientos establecidos por la Junta y el Director General;
+
+XVI. Supervisar el cumplimiento de las disposiciones normativas que en materia fiscal le correspondan al Instituto;
+
+XVII. Vigilar y procurar el cumplimiento de las disposiciones normativas que rigen la relación laboral de los trabajadores que prestan sus servicios en el Instituto;
+
+XVIll. Participar en las comisiones mixtas que se establezcan conforme a la normativa en materia laboral; y,
+
+XIX. Llevar el control y registro financiero de los recursos estatales y federales asignados para los diferentes programas y proyectos.
+
+### CAPÍTULO OCTAVO. DE LAS SUPLENCIAS
+
+###### Artículo 13.
+
+En las ausencias temporales, el Director General será suplido por los titulares de las unidades administrativas que corresponda, conforme al orden dispuesto en la estructura orgánica establecida en el artículo 5° del presente Reglamento Interior.
+
+###### Artículo 14.
+
+Las faltas temporales de los Subdirectores y Jefe de División de Finanzas y Administración, serán suplidas por los titulares de las unidades administrativas, conforme al orden dispuesto en el organigrama establecido en el Manual de Organización del Instituto, de izquierda a derecha.
+
+## ARTÍCULOS TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones de carácter administrativo que se oponga al presente Reglamento Interior.
+
+Morelia, Michoacán de Ocampo a 08 de noviembre de 2007.
+
+ATENTAMENTE
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN
+
+LÁZARO CÁRDENAS BATEL
+
+Gobernador Constitucional del Estado
+
+(Firmado)
+
+MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ
+
+Secretaria de Gobierno
+
+(Firmado)
+
+MANUEL ANGUIANO CABRERA
+
+Secretario de Educación
+
+(Firmado)
+
+ROSA HILDA ABASCAL RODRÍGUEZ
+
+Secretaria de Contraloría y Desarrollo Administrativo
+
+(Firmado)
