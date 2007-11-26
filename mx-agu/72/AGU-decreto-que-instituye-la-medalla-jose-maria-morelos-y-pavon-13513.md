@@ -4,7 +4,7 @@ identifier: "AGU-decreto-que-instituye-la-medalla-jose-maria-morelos-y-pavon-135
 country: "mx"
 rank: "decreto"
 publication_date: "1975-08-31"
-last_updated: "1976-05-09"
+last_updated: "2007-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 DECRETO QUE INSTITUYE LA "MEDALLA JOSE MARIA MORELOS Y PAVON"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1976.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 26 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Decreto publicado en el Periódico Oficial del Estado de Aguascalientes, el 31 de agosto de 1975.
 
@@ -100,3 +102,13 @@ Lic. Antonio Javier Aguilera García.
 P.O. 9 DE MAYO DE 1976.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga la Ley que establece el Galardón "Palmas Académicas" expedida el 7 de abril de 1942, y publicada mediante el Decreto Número 257 de fecha 26 de abril del mismo año; la Ley que Instituye la "Medalla José Guadalupe Posada", expedida el 28 de enero de 1952, mediante el Decreto Número 35; el Decreto Número 26, que instituye la "Medalla José María Morelos y Pavón", expedido el 19 de agosto de 1975 y publicado el 31 de agosto del mismo año; el Reglamento de la "Medalla José Maria Bocanegra" del Honorable Congreso del Estado de Aguascalientes, expedido a través del Decreto Número 39, de fecha 8 de julio de 1999 y publicado el 25 de julio del mismo año; el Decreto Número 160 que instituye la Medalla "Maestro Manuel M. Ponce", expedido a los 7 días del mes de agosto del año 1980 y publicado el día 17 de agosto del mismo año; así como las reformas de cada uno de los ordenamientos que se abrogan.
