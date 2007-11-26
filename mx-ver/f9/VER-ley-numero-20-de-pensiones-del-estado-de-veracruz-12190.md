@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-20-de-pensiones-del-estado-de-veracruz-12190"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-09"
-last_updated: "1996-11-09"
+last_updated: "2007-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 20 DE PENSIONES DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el sábado 9 de noviembre de 1996.
 
@@ -63,7 +63,9 @@ VI. Gastos de funeral;
 
 VII. Indemnización global;
 
-VIII. Préstamos a corto plazo;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+VIII. Préstamos a corto y a mediano plazo;
 
 IX. Promoción de préstamos hipotecarios, y;
 
@@ -191,9 +193,11 @@ Las controversias judiciales que surjan sobre la aplicación de esta ley, así c
 
 ### CAPITULO SEGUNDO. De los Sueldos, Cuotas y Aportaciones
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 15.
 
-El sueldo básico que se tomará en cuenta para los efectos de esta ley se integrará, según sea el caso, con el sueldo presupuestal, el sobresueldo, prima de antigüedad, reconocimiento de antigüedad, quinquenio o sus equivalentes, asignación docente genérica, compensación AC y todas aquellas percepciones que por ley en el futuro estén sujetas a las aportaciones y cotizaciones señaladas en los artículos 17 y 18; pero se excluye cualquier otra prestación que el trabajador perciba con motivo de su trabajo.
+Para los efectos de esta ley el sueldo básico se integrará, según sea el caso, con el sueldo presupuestal, sobresueldo, prima de antigüedad, reconocimiento de antigüedad, quinquenio o sus equivalentes, asignación docente genérica, compensación AC, y todas aquellas percepciones que por ley estén sujetas a las aportaciones y cotizaciones señaladas en los artículos 17 y 18; pero se excluye cualquier otra prestación o remuneración que el trabajador perciba con motivo de su trabajo.
 
 Se entenderá:
 
@@ -209,13 +213,19 @@ POR ASIGNACION DOCENTE GENERICA. La remuneración adicional que se cubra al pers
 
 POR COMPENSACION AC. La remuneración adicional que se cubra al personal docente directivo que labora en educación preescolar y primaria, por la supervisión de las actividades de fortalecimiento curricular.
 
-Las cotizaciones establecidas en los artículos 17 y 18 de esta ley se harán sobre el sueldo básico y el mismo se tomará en cuenta para determinar los beneficios reconocidos por esta ley.
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+El sueldo básico, integrado por las percepciones a que se refieren los párrafos anteriores, estará sujeto a las cotizaciones señaladas en los artículos 17 y 18 de esta ley; para determinar el monto de los beneficios reconocidos por la presente ley, se deberá tomar en cuenta una cantidad que no rebase el equivalente a 26 veces el salario mínimo general de zona económica "A" elevado al mes, que dictamine la Comisión Nacional de los Salarios Mínimos, en la inteligencia de que el sueldo o sueldos que se tomarán como base para esos efectos serán aquellos que perciba el trabajador, sin considerar aumentos otorgados en forma particular, sino exclusivamente aquellos incrementos dictados en forma general a servidores de una misma rama o dependencia, o aumentos por ascensos escalafonarios o quinquenios debidamente establecidos en la normatividad del organismo del que dependa el trabajador.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 16.
 
-Los recursos necesarios para cubrir el costo de las prestaciones establecidas en esta ley y los gastos de administración correspondientes se obtendrán de las cuotas que están obligados a pagar los trabajadores, el Gobierno del estado y los organismos públicos incorporados.
+Los recursos para cubrir el costo de las prestaciones establecidas en esta ley y los gastos de administración correspondientes se obtendrán de las cuotas y aportaciones que están obligados a pagar los trabajadores, el Gobierno del Estado y los organismos públicos incorporados.
 
-Los gastos administrativos a que se refiere el párrafo anterior nunca excederán del 1.68% del total de los salarios de cotización que se generen en el año fiscal correspondiente, con base en el contenido del artículo que antecede; lo no ejercido deberá destinarse al fondo global que corresponda.
+Los gastos administrativos a que se refiere el párrafo anterior nunca excederán del 1.68% del total de los salarios de cotización que se generen en el año fiscal correspondiente, con base en el contenido del artículo que antecede; lo no ejercido deberá destinarse al fondo que corresponda.
+
+El 80% de los recursos que ingresen al Instituto por concepto de cuotas y aportaciones de los derechohabientes con ingreso a partir del primero de enero de 1997 se utilizarán para cubrir las prestaciones establecidas en la Ley a favor de pensionados y jubilados. El 20% restante se destinará al fondo de la Reserva Técnica Específica.
 
 ###### Artículo 17.
 
@@ -313,6 +323,18 @@ La edad y el parentesco de los trabajadores y sus derechohabientes se acreditar�
 
 El Instituto podrá ordenar en cualquier tiempo la verificación de los documentos y de los hechos que hayan servido de base para conceder una pensión. Cuando se sospeche que son falsos, el Instituto, habiendo escuchado al interesado, procederá a la respectiva revisión y, de comprobar la falsedad, ordenará la suspensión del pago de la misma y su cancelación y denunciará los hechos al Ministerio Público para los efectos que procedan.
 
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Para los efectos de esta Ley, el Instituto ejercerá facultades de verificación ante las áreas administrativas tanto del Gobierno del Estado como de los organismos públicos que por Ley o convenio estén o sean incorporados a su régimen, con el propósito de comprobar que estén haciendo correcta y oportunamente las retenciones y enteros de las cuotas de los trabajadores y de las aportaciones a que están obligados, las retenciones por concepto de préstamos u otros conceptos, así como que la remisión de los documentos que conforme a esta Ley deben proporcionar periódicamente se efectúe de manera oportuna. En el ejercicio de dichas facultades, se deberán observar los requisitos y formalidades que para los procedimientos especiales establece el Título Tercero del Libro Segundo del Código de Procedimientos Administrativos para el Estado.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+El Director General deberá ejercer las facultades de verificación de que habla el párrafo anterior, por lo menos una vez al año y las veces que se lo solicite el Consejo Directivo, debiendo rendir ante éste el informe correspondiente.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Independientemente de lo anterior, el Órgano de Fiscalización Superior, al revisar anualmente las cuentas públicas del Gobierno del Estado, los Ayuntamientos y demás Organismos Públicos Incorporados al régimen del Instituto, verificará el cumplimiento de las obligaciones a cargo de los mismos, señaladas por esta Ley, aplicará las sanciones correspondientes para el caso de incumplimiento y remitirá el resultado de dicha revisión al Instituto.
+
 ###### Artículo 32.
 
 Para que el Instituto conceda la jubilación o alguna de las pensiones establecidas en esta ley, el trabajador o los familiares beneficiarios de éste, deberán cubrir previamente a aquél, las cuotas que estuvieran en mora en la fecha de la solicitud de la prestación. Los adeudos que al transmitirse una pensión a los derechohabientes tuviesen el trabajador o el pensionista, serán cubiertos por aquéllos, en los plazos que se convenga con el Instituto con la aprobación del Consejo Directivo.
@@ -343,17 +365,21 @@ El Consejo Directivo del Instituto expedirá el reglamento correspondiente para 
 
 #### SECCION SEGUNDA. Jubilación
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 37.
 
-Tienen derecho a la jubilación los trabajadores con 30 años o más de servicios e igual tiempo de cotización al Instituto, en los términos de esta ley, y que hayan cumplido 53 años de edad.
+Tienen derecho a la jubilación los trabajadores con 30 años o más de servicios e igual tiempo de cotización al Instituto, en los términos de esta ley, y que hayan cumplido 60 años de edad.
 
 La jubilación dará derecho al pago de una cantidad equivalente al cien por ciento del sueldo básico; salvo lo previsto en el artículo 35, y su percepción comenzará a partir del día siguiente a aquel en que el trabajador hubiese disfrutado el último sueldo por haber causado baja.
 
 #### SECCION TERCERA. Pensión por Vejez
 
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 38.
 
-Tienen derecho a pensión por vejez los trabajadores que habiendo cumplido 55 años de edad, tengan quince años de servicio como mínimo e igual tiempo de cotización al Instituto.
+Tienen derecho a pensión por vejez los trabajadores que habiendo cumplido 60 años de edad, tengan quince años de servicio como mínimo e igual tiempo de cotización al Instituto.
 
 ###### Artículo 39.
 
@@ -567,29 +593,75 @@ Más de 30 años y jubilados 180 días de sueldo básico
 
 IV. Los pensionistas gozarán de los beneficios que establece este artículo con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta ley dicte el Consejo Directivo.
 
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 63 Bis.
+
+Los préstamos a mediano plazo se harán a los trabajadores conforme a las siguientes reglas:
+
+I. A quienes hayan cubierto al Instituto las cuotas a que se refiere el artículo 17, cuando menos por tres años;
+
+II. Mediante la garantía de un aval que sea trabajador en activo sujeto al régimen del Instituto;
+
+III. El importe de esta prestación se determinará como sigue:
+
+Trabajadores con una antigüedad de:
+
+a) 3 a 15 años, 200 días de sueldo básico;
+
+b) Más de 15 a 20 años, 220 días de sueldo básico;
+
+c) Más de 20 a 25 años, 260 días de sueldo básico;
+
+d) Más de 25 a 30 años, 300 días de sueldo básico;
+
+e) Más de 30 años y jubilados, 360 días de sueldo básico; y
+
+IV. Los pensionistas gozarán de los beneficios que establece este artículo con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta ley dicte el Consejo Directivo.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 64.
 
-Los préstamos se pagarán de manera que los abonos para cubrir la cantidad prestada y sus intereses, y cualquier otro descuento que deba hacerse a favor del Instituto, no excedan del treinta por ciento de los sueldos del interesado.
+Para el otorgamiento de los préstamos concedidos por el Instituto a los derechohabientes, se considerará que los pagos periódicos o descuentos a que quede obligado el deudor no sobrepasen el 30% de su remuneración total ordinaria una vez deducidos los cargos por impuestos u otros créditos, las cuotas de seguridad social y las de carácter sindical, así como los descuentos ordenados por autoridad judicial.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 65.
 
-El plazo para el pago del préstamo no será mayor de 12 meses ni menor de uno.
+El plazo para el pago del préstamo a corto plazo no será mayor de 12 meses ni menor de uno. Para el caso del préstamo a mediano plazo, éste no podrá ser mayor de 36 meses ni menor de 24.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 65 Bis.
+
+De los rendimientos generados por los préstamos a corto y mediano plazo, el 70% se destinará para el pago de las obligaciones institucionales previstas por esta Ley, y el 30% restante se empleará para el refinanciamiento constante de la cartera de préstamos.
+
+Mediante acuerdos generales que dicte el Consejo Directivo, podrán modificarse los porcentajes.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 66.
 
-Los préstamos a corto plazo causarán el interés que, mediante acuerdos generales, fije el Consejo Directivo, pero en ningún caso será mayor del 50% de la tasa de interés vigente en el mercado financiero, que no será inferior al 12% anual.
+Los préstamos a corto y mediano plazo causarán el interés que, mediante acuerdos generales, fije el Consejo Directivo, pero en ningún caso será mayor del 50% de la tasa de interés vigente en el mercado financiero, que no será inferior al 12% anual.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 67.
 
-El pago de capital se hará en abonos quincenales iguales por parte de los trabajadores en activo. Los pensionistas harán dicho pago mensualmente. Los intereses se retendrán en el momento de concederse el préstamo.
+El pago de capital se hará en abonos quincenales iguales por parte de los trabajadores en activo. Los pensionistas harán dicho pago mensualmente. Los intereses de los préstamos a corto y mediano plazo se pagarán sobre saldos insolutos.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 68.
 
-El Instituto acudirá a fuentes alternas de financiamiento como instituciones bancarias o aseguradoras para otorgar los préstamos a corto plazo, sin utilizar recursos propios de su patrimonio.
+El Consejo Directivo del Instituto, con base en los resultados de un análisis financiero, determinará la cantidad anual que será asignada en préstamos a corto y mediano plazo, la cual podrá ser financiada con recursos propios.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 69.
 
-No se concederá nuevo préstamo mientras permanezca insoluto el anterior. Solamente podrá renovarse cuando haya transcurrido la mitad del plazo concedido, los abonos por dicho período se cubran y que el deudor pague la prima de renovación que por medio de acuerdos generales fije el Consejo Directivo.
+No se concederá nuevo préstamo mientras permanezca insoluto el anterior. Solamente podrá renovarse cuando haya transcurrido la mitad del plazo concedido, los abonos por dicho período se cubran y que el deudor pague la prima de renovación que por medio de acuerdos generales fije el Consejo Directivo. Durante la vigencia del préstamo a corto o mediano plazo, no podrá accederse a ningún otro tipo de préstamo.
 
 ###### Artículo 70.
 
@@ -641,9 +713,13 @@ VIII. Promocionar y supervisar programas de vivienda para que los derechohabient
 
 IX. Organizar sus dependencias y fijar la estructura y funcionamiento de las mismas;
 
-X. Expedir los reglamentos para el debido cumplimiento de sus funciones y de su organización interna, y;
+X. Expedir los reglamentos para el debido cumplimiento de sus funciones y de su organización interna, y (sic);
 
-XI. Las demás que le confieran esta ley y sus reglamentos.
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+XI. Ordenar, en los términos previstos por el artículo 31, la práctica de verificaciones, visitas domiciliarias a entidades sujetas al régimen del Instituto o comprobación del cumplimiento de obligaciones en términos de esta Ley, a cargo del Gobierno del Estado y los organismos públicos incorporados, con sujeción a las formalidades previstas en el Código de Procedimientos Administrativos para el Estado; y
+
+XII. Las demás que le confieran esta ley y sus reglamentos.
 
 #### SECCION SEGUNDA. De la Organización
 
@@ -779,9 +855,13 @@ XV. Preparar documentalmente la entrega de su administración, que permitan el c
 
 XVI. Analizar los documentos que constituyan la recepción de la administración del Instituto y, en su caso, en un término no mayor de seis meses informar al Consejo Directivo de las condiciones en que reciba la administración, para que, de considerarse necesario se ejerciten las acciones legales que correspondan.
 
-En caso de incumplimiento de esta fracción y la anterior, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de las acciones legales que correspondan, y
+En caso de incumplimiento de esta fracción y la anterior, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de las acciones legales que correspondan, y (sic)
 
-XVII. Todas las demás que le fijen los reglamentos o le otorgue el Consejo Directivo.
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+XVII. Ordenar, en los términos previstos por el artículo 31, la práctica de verificaciones, visitas domiciliarias a entidades sujetas al régimen del Instituto o comprobación del cumplimiento de obligaciones en términos de esta Ley, a cargo del Gobierno del Estado y los organismos públicos incorporados, con sujeción a las formalidades previstas en el Código de Procedimientos Administrativos para el Estado; y
+
+XVIII. Todas las demás que le fijen los reglamentos o le otorgue el Consejo Directivo.
 
 ###### Artículo 88.
 
@@ -873,9 +953,11 @@ De las Inversiones
 
 La constitución, inversión y manejo de las reservas financieras del Instituto deberá hacerse en las mejores condiciones de seguridad, rendimiento y liquidez. En igualdad de circunstancias se preferirán las condiciones que garanticen mayor utilidad a los derechohabientes del Instituto. Anualmente deberá presentarse un programa de inversión para ser aprobado por el Consejo Directivo y en él se establecerán las bases para el manejo adecuado de los recursos financieros.
 
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 100.
 
-Las reservas se invertirán en bonos emitidos por el Gobierno federal en instituciones de crédito y otras instituciones que manejen inversiones, a través de fideicomisos u otros tipos de inversión; siempre que se sujeten a los requerimientos establecidos por el Instituto para la constitución de las reservas.
+Las reservas podrán ser aplicadas a través de actividades financieras o mercantiles u otros tipos de inversión, que garanticen las mejores condiciones de seguridad, rendimiento y liquidez comprobables y bajo la aprobación del Consejo Directivo, en el porcentaje que éste determine; no obstante lo anterior, por lo menos el cincuenta por ciento de las reservas financieras deberán invertirse en bonos emitidos por el Gobierno Federal en instituciones financieras. Los recursos tomados de las reservas deberán ser reintegrados al fondo del cual se obtuvieron, con sus respectivos rendimientos.
 
 ###### Artículo 101.
 
@@ -897,15 +979,19 @@ Los funcionarios y trabajadores del Gobierno del estado y organismos públicos i
 
 Los pagadores y encargados de cubrir sueldos que no efectúen los descuentos que procedan en los términos de esta ley serán sancionados con una multa equivalente al 5% de las cantidades no descontadas, independientemente de la responsabilidad administrativa, civil o penal en que incurran, sin perjuicio de regularizar la situación de los trabajadores en los términos del artículo 22.
 
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 105.
 
-En caso de mora en la entrega de las cuotas, aportaciones y descuentos señalados en el artículo 23, el Gobierno del estado u organismos públicos incorporados cubrirán a partir de la fecha en que los créditos sean exigibles, la tasa de interés más alta que exista en el mercado financiero como recargo sobre las cantidades insolutas, e incurrirán además en las sanciones que prescribe esta ley. Los recargos a que se refiere este artículo no excederán del importe del crédito de que se trate.
+En caso de mora en la entrega de las cuotas, aportaciones y descuentos señalados en el artículo 23, el Gobierno del Estado u organismos públicos incorporados cubrirán, a partir de la fecha en que los créditos sean exigibles, la tasa de interés más alta que exista en el mercado financiero como recargo sobre las cantidades insolutas e incurrirán además en las sanciones que prescribe esta Ley y las demás que resulten aplicables. Los recargos a que se refiere este artículo no excederán del importe del crédito de que se trate.
 
-El Instituto podrá conceder prórroga para el pago de las cantidades de que se trate en caso necesario y previa autorización del Consejo Directivo. Durante los plazos concedidos se causarán recargos del cincuenta por ciento de la tasa de interés antes referida.
+El Instituto podrá conceder prórroga para el pago de las cantidades de que se trate en caso necesario y previa autorización del Consejo Directivo. Durante los plazos concedidos se causarán recargos del cincuenta por ciento de la tasa de interés antes referida, independientemente de la responsabilidad administrativa, penal, civil o de cualquier otra naturaleza en que incurran los servidores públicos responsables.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 106.
 
-Las sanciones pecuniarias previstas en los artículos anteriores, a que se hagan acreedores los trabajadores o funcionarios al servicio del Instituto, serán impuestas por el Director General, después de oír al interesado y podrán ser revisables por el Consejo Directivo, si se hace valer la inconformidad por escrito dentro del plazo de quince días. Las mismas sanciones, cuando se trate de los funcionarios o trabajadores que no presten servicios al Instituto se impondrán por las dependencias y organismos públicos incorporados que correspondan, con vista de la documentación que envíe el Director General del Instituto y previa audiencia del afectado.
+Las sanciones pecuniarias previstas por esta Ley serán impuestas y ejecutadas por el Director General, de conformidad con las disposiciones del Código de Procedimientos Administrativos para el Estado.
 
 ###### Artículo 107.
 
@@ -1018,3 +1104,17 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 MIGUEL ANGEL YUNES LINARES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 26 DE NOVIEMBRE DE 2007.
+
+Primero. El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial, órgano de difusión del Gobierno del Estado.
+
+Segundo. La disposición contenida en el último párrafo del artículo 16, surtirá sus efectos a partir de la entrada en vigor del presente Decreto.
+
+Tercero. La disposición contenida en el último párrafo del artículo 15, así como los requisitos que para la jubilación y la pensión por vejez prescriben los artículos 37 y 38 de la Ley de Pensiones del Estado, serán aplicables, únicamente, para quienes adquieran la calidad de derechohabientes a partir de la entrada en vigor del presente Decreto.
+
+Cuarto. Los artículos transitorios Tercero, Quinto, Sexto, Séptimo, Noveno y Undécimo de la Ley de Pensiones del Estado seguirán surtiendo sus efectos jurídicos y continuarán vigentes a partir de la entrada en vigor del presente Decreto.
+
+Quinto. Se conserva el monto de los recursos que constituyen la Reserva Técnica Específica. Dicho fondo se verá incrementado a partir de la vigencia de este Decreto, con la aplicación del 20 % de las cuotas y aportaciones de los derechohabientes con ingreso al servicio a partir del 1° de enero de 1997 y se utilizará para cubrir los beneficios que se generen a favor de los derechohabientes.
