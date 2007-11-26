@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2007-07-13"
+last_updated: "2007-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -2345,19 +2345,29 @@ Los Municipios, en el ámbito de su jurisdicción territorial, podrán contar co
 
 ### CAPÍTULO IV. DENUNCIA CIUDADANA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 204.
 
 Se establece el Sistema Estatal de Información Ambiental y de Recursos Naturales, mismo que será coordinado por la Agencia de Protección al Medio Ambiente y Recursos Naturales, y tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental del Estado, misma que estará disponible para su consulta y que se coordinará y complementará con el Sistema Nacional correspondiente.
 
-En dicho Sistema, la Agencia deberá integrar, entre otros aspectos, información relativa a los inventarios de recursos naturales existentes en el territorio del Estado, a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, agua y suelo, al ordenamiento ecológico del territorio del Estado, así como la información correspondiente a los registros, planes y acciones que se realicen para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-La Agencia reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de protección o aprovechamiento sustentable de recursos naturales, realizados sobre el Estado, por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y Recursos Naturales.
+En dicho Sistema, la Agencia deberá integrar, entre otros aspectos, información relativa a los inventarios de recursos naturales existentes en el territorio estatal, al ordenamiento ecológico y a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, agua y suelo, así como la información de los registros, planes y acciones que se realicen para preservar y restaurar el equilibrio ecológico y proteger el ambiente, sin omitir el registro de las denuncias ciudadanas y el estatus jurídico que guardan, en los términos previstos por el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+El Sistema también será integrado por la información relativa a las visitas de inspección y vigilancia realizadas por la Agencia, las medidas de seguridad y sanciones decretadas, así como a los recursos de inconformidad pública que se encuentran a disposición de quien así lo solicite una vez que estén dictaminados y resueltos.
+
+> <small>(F. DE E., P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+La Agencia reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de protección o aprovechamiento sustentable de recursos naturales, realizados sobre el Estado, por personas física o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y Recursos Naturales.
 
 ### CAPÍTULO I. INSPECCION Y VIGILANCIA
 
 ###### Artículo 205.
 
-Cualquier persona física o moral, tiene el derecho a denunciar ante la Agencia o el Municipio que corresponda, todo hecho u omisión que contravenga las disposiciones de esta Ley y demás ordenamientos que regulen las materias relacionadas con la protección al ambiente y recursos naturales.
+Cualquier persona física o moral, tiene el derecho y el deber de denunciar ante la Agencia o el Municipio que corresponda, todo hecho u omisión que contravenga las disposiciones de esta Ley y demás ordenamientos que regulen las materias relacionadas con la protección al ambiente y recursos naturales.
 
 La autoridad que tenga conocimiento de los hechos u omisiones señalados en el párrafo anterior, deberá denunciarlos ante la autoridad competente en la materia a fin de que se siga el procedimiento correspondiente.
 
@@ -2399,17 +2409,25 @@ Toda persona tendrá derecho a que el Estado y los Municipios, según correspond
 
 Para los efectos de lo dispuesto en el presente ordenamiento, se considera información ambiental, cualquier información escrita, audiovisual o en forma de base de datos, de que dispongan las autoridades en materia de agua, aire, suelo, flora, fauna, recursos naturales en general y áreas naturales protegidas del Estado.
 
-Toda petición deberá presentarse por escrito, especificando claramente la información ambiental que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social, domicilio y acreditar su interés jurídico.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Toda petición deberá presentarse por escrito, especificando claramente la información ambiental que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social -y (sic) domicilio.
 
 ###### Artículo 213.
 
 Las autoridades en materia ambiental, negarán la entrega de información, únicamente en los casos que establece la Ley de Acceso a la Información Pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 214.
 
-Las autoridades ambientales deberán responder por escrito a los solicitantes de información ambiental, en un plazo no mayor a 20-veinte días hábiles, contados a partir de la recepción de la petición respectiva. En caso de que la autoridad conteste en sentido negativo la solicitud, deberá señalar las razones que motivaron su determinación.
+Las autoridades ambientales deberán responder por escrito a los solicitantes de información ambiental, en un plazo no mayor a 10-diez días hábiles, contados a partir de la recepción de la petición respectiva. En caso de que la autoridad conteste en sentido negativo la solicitud, deberá señalar las razones que motivaron su determinación.
 
 En caso de que la autoridad ambiental omita dar la contestación correspondiente, estará sujeta a la responsabilidad prevista por el marco jurídico vigente en el Estado.
+
+(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 14 DE DICIEMBRE DE 2007)
+
+Cuando medien circunstancias que no permitan proporcionar la información dentro del plazo establecido en el párrafo anterior, éste podrá prorrogarse por única vez hasta por otros diez días, lo que la autoridad deberá hacer del conocimiento del peticionario mediante escrito debidamente fundado y motivado.
 
 ###### Artículo 215.
 
@@ -2940,3 +2958,9 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 13 DE JULIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de la presente reforma que se hubieren iniciado previamente a la entrada en vigor de ésta, se tramitarán y resolverán conforme a los mismos.
