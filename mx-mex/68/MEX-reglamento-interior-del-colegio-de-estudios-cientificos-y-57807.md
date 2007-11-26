@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-colegio-de-estudios-cientificos-y-57807
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-03-14"
-last_updated: "1996-03-14"
+last_updated: "2007-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE MEXICO CECYTEM
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2007.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 14 de marzo de 1996.
 
@@ -52,15 +52,19 @@ III.- Junta, la Junta Directiva del Colegio de Estudios Científicos y Tecnológ
 
 IV.- Director General, al Director General del Colegio de Estudios Científicos y Tecnológicos del Estado de México; (sic)
 
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 3.
 
-El Colegio estará sectorizado a la Secretaría de Educación, Cultura y Bienestar Social, la que vigilará y evaluará sus actividades.
+El Colegio estará sectorizado a la Secretaría de Educación, la que vigilará y evaluará sus actividades, en términos de la normatividad aplicable.
 
 ###### Artículo 4.
 
 El Colegio conducirá sus actividades en forma programada con base en las políticas que determine la Junta Directiva.
 
-### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL COLEGIO Y DE LOS DERECHOS Y OBLIGACIONES DE LA JUNTA DIRECTIVA Y DE LAS DIRECCIONES
+> <small>(REFORMADA SU DENOMINACION, G.G. 26 DE NOVIEMBRE DE 2007)</small>
+
+### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL COLEGIO Y DE SUS UNIDADES ADMINISTRATIVAS
 
 ###### Artículo 5.
 
@@ -82,7 +86,17 @@ d) De Planeación.
 
 IV. Direcciones de Plantel.
 
-Las direcciones de área contarán con las unidades administrativas y académicas que sean autorizadas conforme al presupuesto del Colegio.
+> <small>(ADICIONADA, G.G. 26 DE NOVIEMBRE DE 2007)</small>
+
+V. Una Unidad Jurídica.
+
+> <small>(ADICIONADA, G.G. 26 DE NOVIEMBRE DE 2007)</small>
+
+VI. Una Contraloría Interna.
+
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2007)</small>
+
+El Colegio contará con las demás unidades administrativas y académicas que le sean aprobadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización, asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
 
 ###### Artículo 6.
 
@@ -270,6 +284,38 @@ XI.- Informar a las Direcciones de Area sobre los asuntos relativos a cada una d
 
 XII.- Los demás que les asigne el Director General.
 
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 14 bis.- Corresponde a la Unidad Jurídica:
+
+I. Representar al Colegio en los asuntos judiciales, previo mandato que al efecto le otorgue el Director General.
+
+II. Asesorar jurídicamente al Director General y a los servidores públicos del Colegio que lo requieran, respecto al cumplimiento de la normatividad para el desarrollo de sus funciones.
+
+III. Revisar y, en su caso, formular los proyectos de reglamentos, acuerdos, convenios, contratos y demás instrumentos jurídicos del Colegio.
+
+IV. Compilar y difundir los ordenamientos jurídicos en los que se sustenta la organización y el funcionamiento del Colegio.
+
+V. Verificar la aplicación de las normas que regulan las relaciones de trabajo en el Colegio.
+
+VI. Participar en las sesiones de los comités de adquisiciones y servicios, y de arrendamientos, adquisiciones de inmuebles y enajenaciones del Colegio.
+
+VII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
+
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 14 ter.- Corresponde a la Contraloría Interna:
+
+I. Supervisar el cumplimiento de los lineamientos que emita la Secretaría de la Contraloría para la ejecución, preparación y entrega de los dictámenes e informes por parte de los despachos de auditores externos asignados al Colegio.
+
+II. Vigilar el cumplimiento de las disposiciones en materia de racionalidad, austeridad y disciplina presupuestaria que fija la normatividad aplicable.
+
+III. Proponer en el ámbito de sus funciones la aplicación de normas complementarias en materia de control.
+
+IV. Promover el control preventivo en el desarrollo de los programas, proyectos y acciones del Colegio.
+
+V. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario de la Contraloría.
+
 ### CAPITULO TERCERO. DE LAS AUSENCIAS TEMPORALES DE LOS SERVIDORES PUBLICOS DEL COLEGIO
 
 ###### Artículo 15.
@@ -430,7 +476,7 @@ I.- Planear, programar y evaluar para cada ciclo escolar el desarrollo de sus ac
 
 II.- Aplicar los exámenes en cada ciclo escolar de acuerdo al calendario autorizado;
 
-III.- Presentar semestralmente al Consejo Académico, el plan e informe de trabajo de sus actividades;
+III.- Presentar semestralmente al Consejo Académico, el plan e informe de trabajo de sus actividades.
 
 IV.- Difundir en la comunidad su producción académica;
 
@@ -468,7 +514,7 @@ V.- Transcurrido el plazo para el que se crearon las comisiones y cumplido su ob
 
 ### CAPITULO SEXTO. DE LA INVESTIGACION, VINCULACION, DIFUSION CULTURAL Y SERVICIO SOCIAL
 
-###### Articulo 37.
+###### Artículo 37.
 
 La investigación científica y tecnológica que realice el Colegio por conducto de los planteles, será coordinada por el servidor público que designe el Director General.
 
@@ -623,3 +669,11 @@ C.P. Enrique Laurent Martínez
 Comisario del Sector Educación, Salud y Trabajo de la Secretaría de la Contraloría
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 26 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
