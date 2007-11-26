@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-23611"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-26"
-last_updated: "2006-12-18"
+last_updated: "2007-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de marzo de 2001.
 
@@ -801,13 +801,21 @@ XX. Planeación, Desarrollo Urbano y Obra Pública;
 
 XXI.- Transporte Público;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-XXII.- Ciencia y Tecnología; y
+XXII.- De Ciencia y Tecnología;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-XXIII.- De Asuntos Migratorios, Relaciones Internacionales e Interinstitucionales.
+XXIII.- De Asuntos Migratorios, relaciones Internacionales e Interinstitucionales;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+XXIV.- De la Juventud; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+XXV.- De Fomento Cooperativo y Economía Social.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
@@ -1178,6 +1186,32 @@ V.- Coadyuvar con las diferentes instancias tanto nacionales como internacionale
 VI.- Los relativos a políticas, planes, programas y estrategias a favor de los migrantes, así como el apoyo a los ciudadanos inmersos en actividades derivadas de los diferentes tratados, convenciones o pactos internacionales; y
 
 VII.- Coadyuvar con las diferentes instancias federales y estatales, en el adecuado cumplimiento y aplicación de los tratados internacionales para impulsar el desarrollo económico de la Entidad.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 96 Quater.
+
+Corresponde a la Comisión de la Juventud el estudio y dictamen de los siguientes asuntos:
+
+I.- Las normas jurídicas relacionadas con la juventud;
+
+II.- Las que se relacionen o afecten a los Jóvenes;
+
+III.- Lo referente a las acciones que realice el Gobierno del Estado respecto de la promoción, vinculación, fomento y difusión de las actividades relacionadas con los Jóvenes; y
+
+IV.- Otros análogos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso. Sean materia de tratamiento por esta Comisión.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 96 Quinter.- Corresponde a la Comisión de Fomento Cooperativo y Economía Social el estudio y dictamen de los siguientes asuntos:
+
+I.- Las normas jurídicas en el ámbito del Estado relativas al Comercio Justo;
+
+II.- Las normas jurídicas en el ámbito del Estado relativas al ahorro y crédito popular;
+
+III.- La promoción del cooperativismo y solidaridad social; y
+
+IV.- Otras análogas que a juicio del Presidente del Congreso a la Diputación Permanente, en su caso, sean materia de tratamiento por la Comisión.
 
 ###### ARTICULO 97.
 
@@ -2768,3 +2802,9 @@ P.O. 18 DE DICIEMBRE DE 2006.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor para efectos de la integración de la Comisión de la Juventud y de la correspondiente a la Comisión de Fomento Cooperativo y Economía Social, a partir de su aprobación en el Pleno Legislativo, y su vigencia a partir de la publicación en el Periódico Oficial del Estado de Aguascalientes.
