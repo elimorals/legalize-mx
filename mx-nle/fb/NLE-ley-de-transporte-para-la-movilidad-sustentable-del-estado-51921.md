@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2007-07-25"
+last_updated: "2007-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -51,7 +51,9 @@ Para los efectos de esta Ley, se entiende por:
 
 Agencia: Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León.
 
-Ampliación: Extensión al itinerario de una ruta, que se autoriza a partir de uno o de ambos puntos extremos de su recorrido.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Ampliación. Es la extensión al itinerario de una ruta, autorizada a partir de uno de los extremos de su recorrido.
 
 Autobús: Vehículo automotor de seis o más llantas, diseñado y equipado para el transporte público o privado de personas, con una capacidad para cuarenta o más pasajeros, pudiendo tener ejes o articulaciones adicionales.
 
@@ -61,7 +63,9 @@ Autobús Panorámico: Vehículo de pasajeros con puerta de acceso ubicada delant
 
 Bahía: Espacio exclusivo dentro de la vialidad fuera del carril de circulación para realizar sólo labores de ascenso y descenso de pasajeros.
 
-Tarjeta de Identificación: Documento oficial con los datos de los operadores de los vehículos pertenecientes Transporte Público de Pasajeros y Vehículos de Servicios de Alquiler a la vista de los usuarios.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Carné de Identificación. Documento oficial con los datos de los operadores de los vehículos pertenecientes al Sistema de Transporte a la vista de los usuarios.
 
 Cesantía: Situación jurídica que solicita el concesionario ó permisionario de vehículo de alquiler con más de sesenta años de edad y con dos o más años de servicio público sin interrupción.
 
@@ -75,7 +79,9 @@ Flotilla: El conjunto de vehículos, pertenecientes a una misma persona física 
 
 Frecuencia de paso: Intervalo de tiempo programado que transcurre entre el paso de un vehículo de transporte público de pasajeros y el siguiente de una misma flotilla, en un mismo itinerario.
 
-Invalidez: Incapacidad física o mental del concesionario ó permisionario de vehículos de alquiler que impide la prestación del servicio, la cual será certificada por instituciones de salud y aprobada por la Agencia.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Invalidez. Incapacidad física o mental del concesionario ó permisionario de vehículos de alquiler que impide la prestación del servicio, la cual será certificada por las instituciones de salud registradas ante la Agencia.
 
 Itinerario: Recorrido que debe hacer un vehículo de transporte público de pasajeros en las comunicaciones viales, entre los puntos extremos e intermedios que fije la autorización.
 
@@ -91,7 +97,9 @@ Modalidad: Servicio de transporte público de pasajeros y mercancía con determi
 
 Modificación: Cambios al itinerario de una ruta, que se autoriza a partir de la sustitución de tramos definidos por puntos intermedios del recorrido.
 
-Movilidad Sustentable: La capacidad de cubrir las necesidades de la sociedad de trasladarse libremente, comunicarse, comerciar y establecer vínculos sin sacrificar valores humanos y ecológicos que pongan en riesgo el bienestar de las futuras generaciones y buscando preservar la competitividad y eficacia del traslado de mercancías.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Movilidad Sustentable. La capacidad de cubrir las necesidades de la sociedad de trasladarse libremente, comunicarse, comerciar y establecer vínculos sin poner en riesgo el bienestar de futuras generaciones.
 
 Paradas: Lugar donde obligatoriamente se detienen los autobuses, midibuses y microbuses para realizar sólo labores de ascenso y descenso de pasajeros.
 
@@ -305,7 +313,9 @@ IV. Vocales:
 
 2) Un representante de la Agencia para la Planeación del Desarrollo Urbano del Estado;
 
-3) Tres representantes de los usuarios designados por el Ejecutivo Estatal;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+3) Tres representantes de los usuarios, designados en los términos del último párrafo de este artículo;
 
 4) Un representante de la Secretaría de Comunicaciones y Transportes en Nuevo León;
 
@@ -355,9 +365,21 @@ IV. Vocales:
 
 27) Un representante de la Cámara Nacional de la Industria Minera;
 
-28) Un representante de (sic) Asociación Nacional de Fabricantes de Cerveza; y
+28) Un representante de (sic) Asociación Nacional de Fabricantes de Cerveza; y (sic)
 
-29) Un representante de la Cámara Nacional de Aceites y Jabones.
+29) Un representante de la Cámara Nacional de Aceites y Jabones;
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+30) Un Diputado Local, representante del Poder Legislativo, que será designado por el Pleno del Congreso del Estado a propuesta de la Comisión de Transporte.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Los representantes a que se refiere el inciso 3) serán nombrados de la siguiente manera:
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+El Gobernador del Estado emitirá convocatoria pública 90 días naturales previos a la sustitución de los que se encuentren en funciones, a fin de que se registren o se proponga a los candidatos a vocales; todos aquellos registrados se reunirán en el lugar que el Gobernador designe para el efecto, y se constituirán en Asamblea, bajo los lineamientos que señale el Reglamento de esta Ley, cuyo nombramiento será irrevocable y durarán en el encargo tres años.
 
 En caso de ausencia del Presidente del Consejo, será su Vicepresidente quien ejerza las atribuciones que le correspondan a aquel. El resto de los miembros del Consejo designarán a un suplente, quien tendrá las mismas atribuciones que el titular y deberá estar legalmente acreditado en los registros de la Secretaría del Consejo.
 
@@ -919,9 +941,11 @@ En el caso del SITRA y del SITME la explotación del servicio se otorgará de ma
 
 La instalación de publicidad en los vehículos del servicio público de pasajeros o infraestructuras que sirvan a éste que se encuentren bajo el régimen de concesión o permiso, se sujetará a las normas técnicas que para este efecto dicte la Agencia. Quedan prohibidos los anuncios de publicidad que pongan en peligro la seguridad en la operación de los sistemas de transporte en las vías de comunicación del SET, lo prescrito en este artículo no se aplica al SITCA.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 57.
 
-Las placas y permiso de circulación expedidas por la Autoridad competente a fin de que se brinde el Servicio Público del Transporte, son posterior consecuencia del otorgamiento anterior de la concesión o permiso otorgado en los términos de esta Ley y demás ordenamientos aplicables. Las placas sin el sustento de la concesión o permiso son ilícitas.
+Las placas y permisos de circulación expedidas por la Autoridad competente a fin de que se brinde el Servicio Público de Transporte, son posterior consecuencia del otorgamiento anterior de la concesión o permiso otorgado en los términos de esta Ley y demás ordenamientos aplicables. Las placas sin el sustento de la concesión o permiso son ilícitas y su compra venta queda prohibida, en los términos del artículo 62 de esta Ley.
 
 ###### Artículo 58.
 
@@ -969,11 +993,15 @@ Las concesiones que para prestar el servicio público de transporte otorgue la A
 
 Las concesiones únicamente son transferibles en los términos y bajo las condiciones que ésta Ley dispone y son indispensables para la expedición de las placas y para que cualquier persona física o moral preste el servicio público de transporte en cualquiera de sus modalidades.
 
-Las placas y sus respectivas tarjetas de circulación son consecuencia directa de la concesión, por lo que también su transferencia se encuentra sujeta a los requisitos de transferencia de la concesión y también se consideran como indispensables para prestar el servicio público de transporte.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Las placas y sus respectivas tarjetas de circulación son consecuencia directa de la concesión, y son indispensables para prestar el Servicio Público de Transporte concesionado, por lo que su transferencia estará sujeta a los requisitos de transferencia de la concesión, y su comercialización entre particulares se considera ilegal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 60.
 
-En las concesiones se determinarán las condiciones a las que habrá de sujetarse la operación y funcionamiento de cada una de las modalidades de servicio o infraestructuras, y contendrán al menos la siguiente información:
+En las concesiones se determinarán las condiciones a las que habrá de sujetarse la operación y funcionamiento de cada una de las modalidades de servicio, y contendrán los datos siguientes:
 
 I.- Autoridad que lo emite;
 
@@ -987,7 +1015,9 @@ V.- Obligaciones y derechos del Titular de la concesión;
 
 VI.- Vigencia;
 
-VII.- Número de vehículos y/o infraestructuras que ampara la concesión;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+VII.- Número de vehículos y/o infraestructuras que ampara la concesión, así como su respectivo número de placa y tarjeta de circulación;
 
 VIII.- Características de los vehículos y/o infraestructuras;
 
@@ -1031,17 +1061,25 @@ Para obtener una concesión para la explotación y operación de las modalidades
 
 Corresponderá al Instituto de Control Vehicular del Estado de Nuevo León ejercer sus atribuciones de autoridad fiscal en todo lo referente a concesiones, permisos, licencias, placas y tarjetas de circulación.
 
-La vigencia de las concesiones será hasta por un término de 20 años, la determinación de dicho término se calculará en función de la amortización de las inversiones que tendrá que hacer el concesionario. Las concesiones deberán ser refrendadas anualmente por la Agencia para verificar el cumplimento de las obligaciones establecidas en la concesión.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+La vigencia de las concesiones para la explotación y operación de las modalidades del SITRA y SITME, salvo lo relativo a los vehículos de alquiler, será hasta por un término de 20 años; la determinación de dicho término se calculará en función de la amortización de las inversiones que tendrá que hacer el concesionario. Las concesiones deberán ser refrendadas anualmente por la Agencia para verificar el cumplimento de las obligaciones establecidas en la concesión.
 
 Aunque la vigencia de las concesiones se calculará en función de la amortización de las inversiones que tendrá que hacer el concesionario, en el momento de otorgarse siempre tendrán una fecha límite.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 62.
 
 Los derechos y obligaciones de las concesiones son intransferibles, salvo los casos que señala esta Ley.
 
-En la modalidad de vehículos de alquiler la transmisión o transferencia de la titularidad de las concesiones para ser válida requiere la previa autorización y registro de la Agencia y en caso de personas físicas procederá su transferencia únicamente en los casos de muerte, invalidez, cesantía o de carácter voluntario cuando haya cumplido una antigüedad no menor de dos años en calidad de concesionario.
+En la modalidad de vehículos de alquiler, el traspaso, endoso, comercialización, o cualquier otra forma de transmisión distinta a los casos autorizados en esta Ley, se considerará inválido e ilegal, y tendrá como consecuencia la revocación de la concesión, en los términos del artículo 84 fracción II de esta Ley.
 
-Únicamente en éstos cuatro casos será válida la transferencia de derechos que comprenda el título concesión en ésta modalidad de transporte, y sólo entonces procederá la consecuente baja y alta de placas y tarjetas de circulación. Para la ejecución de cualquier cobro, trámite o registro por la Secretaría de Finanzas y Tesorería General del Estado o del Instituto de Control Vehicular o cualquiera otra autoridad interviniente se requiere siempre la previa autorización de la Agencia, la que bajo su responsabilidad verificará el cumplimiento de los requisitos que la normativa estatal exija.
+Para los efectos del párrafo anterior, en la modalidad de vehículos de alquiler la transmisión o transferencia de la titularidad de las concesiones para ser válida requiere la previa autorización y registro de la Agencia. En caso de personas físicas procederá su transferencia únicamente en los casos de muerte, invalidez, cesantía, o de carácter voluntario cuando haya cumplido una antigüedad no menor de seis años en calidad de concesionario; y en caso de personas morales, queda prohibida la transferencia de sus títulos de concesión a personas físicas y a otras personas morales. Asimismo, el titular propuesto debe reunir los requisitos establecidos en esta Ley para el otorgamiento de concesiones en la modalidad de vehículos de alquiler, y aceptar expresamente en su caso, las modificaciones establecidas por la Agencia al título de concesión para garantizar la adecuada prestación del servicio.
+
+La persona que haya transferido al menos una concesión de la cual fue titular, no podrá participar en el procedimiento para el otorgamiento de nuevas concesiones.
+
+Únicamente en los cuatro casos que se prevén en este artículo será válida la transferencia de derechos que comprenda el título de concesión en esta modalidad de transporte, y sólo entonces procederá la consecuente baja y alta de placas y tarjetas de circulación. Para la ejecución de cualquier cobro, trámite o registro por la Secretaría de Finanzas y Tesorería General del Estado o del Instituto de Control Vehicular o cualquiera otra autoridad interviniente se requiere siempre la previa autorización de la Agencia, la que bajo su responsabilidad verificará el cumplimiento de los requisitos que la normativa estatal exija.
 
 ###### Artículo 63.
 
@@ -1053,11 +1091,15 @@ La Agencia es la autoridad facultada para modificar las condiciones establecidas
 
 ### CAPÍTULO II. DEL OTORGAMIENTO DE CONCESIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 65.
 
-A fin de mantener en todo tiempo la racionalidad y equilibrio entre oferta y demanda de las diversas modalidades de servicio del SITRA y SITME, el otorgamiento de concesiones de servicios que no pertenecen al Sistema Metrorrey se hará considerando los principios de Movilidad Sustentable, de Eficiencia Administrativa y Calidad establecidos en esta Ley, (sic)
+A fin de mantener en todo tiempo la racionalidad y equilibrio entre oferta y demanda de las diversas modalidades de servicio del SITRA y SITME, el otorgamiento de concesiones de servicios que no pertenecen al Sistema Metrorrey se hará considerando los principios de Movilidad Sustentable, Eficiencia Administrativa y Calidad establecidos en esta Ley.
 
-Por lo anterior, se establece el siguiente procedimiento para el otorgamiento de concesiones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Por lo anterior, se establece el siguiente procedimiento para el otorgamiento de concesiones en las modalidades de servicio que se establecen en el párrafo anterior, salvo lo relativo a vehículos de alquiler:
 
 I.- La Agencia elaborará un diagnóstico de necesidades, mismo que será turnado al Consejo;
 
@@ -1079,13 +1121,17 @@ VII.- Si la propuesta es calificada por la Agencia como viable, las concesiones 
 
 VIII.- Si la convocatoria o en su caso licitación quedare desierta, la Agencia atendiendo al interés público resolverá lo conducente garantizando el servicio público de transporte más económico y eficiente para el usuario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 66.
 
-Las concesiones sujetas a convocatoria pública, se regirán bajo el siguiente procedimiento y el que establezca el Reglamento, estas disposiciones no aplican al SITCA.
+Las concesiones sujetas a convocatoria pública se regirán bajo el siguiente procedimiento; estas disposiciones no aplican al SITCA:
 
 El Ejecutivo del Estado a través de la Agencia:
 
-A) El procedimiento de otorgamiento de concesión debe contener los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+A) El procedimiento para el otorgamiento de concesiones sujetas a convocatoria pública en las modalidades de servicio del SITRA y SITME, salvo lo relativo a los vehículos de alquiler, se regirá por lo preceptuado en el presente apartado y lo que al efecto establezca el Reglamento:
 
 I.- Expedirá la Convocatoria correspondiente, conforme a los lineamientos que para este efecto se establezcan;
 
@@ -1103,19 +1149,97 @@ VII.- La resolución que contenga la concesión correspondiente, se notificará 
 
 VIII.- En todo el proceso estará presente un comité integrado por un representante de la Contraloría Interna, Consejería Jurídica, del Consejo y el Titular de la Agencia.
 
-B) El procedimiento de otorgamiento de concesión en la modalidad de vehículos de alquiler debe contener los siguientes requisitos:
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-I. Previamente la Agencia con base a lo que disponga el Reglamento deberá determinar el número máximo de concesiones sin exceder de 200 por persona física o moral y el límite de unidades por cada concesión preferenciando satisfacer al mayor número de solicitantes y para ello deberá evitar la acumulación o concentración de los títulos concesión. En ningún caso, ya sea que el titular de la concesión sea persona física o moral, el otorgamiento o la transferencia podrá rebasar los máximos autorizados en cuanto al número de concesiones y unidades por titular;
+B) El procedimiento para el otorgamiento de concesiones en la modalidad de vehículos de alquiler se regirá exclusivamente por lo preceptuado en el presente apartado:
 
-II. En los casos en que el titular de la concesión sea una persona moral se deberán precisar los requisitos que eviten la concentración piramidal en la titularidad de las concesiones, para tal efecto, el Reglamento deberá normar lo referente a la fusión escisión, compra de acciones o transmisión por cualquier título de las sociedades titulares de concesiones que implique de manera directa o indirecta la concentración de los derechos derivados de éstos títulos concesión;
+I. El Consejo elaborará un Estudio Técnico en el que evalúe las necesidades del servicio de vehículos de alquiler dentro y fuera de la zona metropolitana del Estado, el cual realizará con la participación de instituciones académicas de prestigio en la entidad, y deberá presentarlo a la Agencia cuando el Consejo así lo considere pertinente, salvo durante los últimos 12 meses anteriores al día en que vayan a llevarse a cabo elecciones en el Estado, periodo en el cual quedará prohibido realizar estudios para el otorgamiento de concesiones del servicio público de transporte en la modalidad de vehículos de alquiler. El Estudio Técnico deberá contener como mínimo lo siguiente:
 
-III. Tratándose de vehículos de alquiler deberá publicitarse la convocatoria por periódico de circulación local y por internet con un mínimo de quince días naturales a la fecha que se haya fijado para la recepción de solicitudes. La convocatoria debe contener los términos y condiciones a cumplir; y
+a) El señalamiento del servicio público de transporte en la modalidad de vehículos de alquiler existente en las diversas zonas geográficas del Estado, con todas las características operativas del mismo;
 
-IV. Con base en las solicitudes debidamente integradas, la Agencia exclusivamente con la firma de su titular, emitirá el dictamen de otorgamiento de concesión que contendrá como datos mínimos el número del título concesión, el concesionario, el número de unidades, su vigencia y la periodicidad del refrendo para renovación.
+b) Datos estadísticos debidamente sustentados y análisis que avalen la demanda actual y potencial de servicio; y
+
+c) Conclusiones.
+
+II. La Agencia expresará su opinión relativa al Estudio Técnico a través de recomendaciones, las cuales se publicarán junto con el mismo Estudio en el Periódico Oficial del Estado;
+
+III. La Agencia, una vez recibidas las consideraciones del Consejo en relación a sus recomendaciones, las cuales se publicarán también en el Periódico Oficial del Estado, determinará en base al Estudio Técnico, a más tardar treinta días naturales posteriores a la recepción inicial del mismo, el número total de concesiones a otorgar o en su caso, la declaratoria de que no ha a lugar el otorgamiento adicional de concesiones en la modalidad de vehículos de alquiler a las ya existentes en la entidad;
+
+IV. En caso de que se determine un número de concesiones a otorgar adicional a las ya existentes, éstas sólo podrán ser otorgadas a personas físicas que ellas o sus cónyuges no se encuentren como titulares de concesiones en el Sistema Estatal de Información y Registro de Transporte, y a personas morales que no se encuentren como titulares de concesiones en el Sistema Estatal de Información y Registro de Transporte; quedando excluidas aquellas personas que habiendo tenido la titularidad de concesiones en la modalidad de vehículos de alquiler, las hayan transferido en transgresión a la normatividad vigente, o bien, se les haya terminado concesión anterior por incumplimiento a las disposiciones aplicables.
+
+Asimismo, no se podrá exceder el otorgamiento de los títulos de concesión de una por persona física o moral, en la inteligencia de que cada concesión amparará un solo vehículo, a fin de satisfacer al mayor número de solicitantes y evitar la acumulación o concentración de los títulos de las concesiones.
+
+En ningún caso, ya sea que el titular de la concesión sea persona física o moral, el otorgamiento o la transferencia, podrá rebasar los máximos autorizados en cuanto al número de concesiones y unidades por titular;
+
+V. La Agencia publicará la Convocatoria en el Periódico Oficial del Estado, en el sitio de Gobierno del Estado en Internet y en los diarios de mayor circulación de la entidad con un mínimo de quince días naturales a la fecha que se haya fijado para la recepción de solicitudes, y deberá incluir únicamente los requisitos previstos en esta Ley para el otorgamiento de concesiones; la Convocatoria contendrá la siguiente información:
+
+a) Indicación de la autoridad que la emite;
+
+b) Indicación de la modalidad del servicio público de transporte que se concesiona;
+
+c) Indicación de la evaluación del Estudio Técnico que justifica el otorgamiento del número de concesiones a expedir;
+
+d) Indicación de las personas que podrán participar en la Convocatoria, a efecto de hacer de conocimiento público que sólo podrán otorgarse concesiones a personas físicas que ellas o sus cónyuges no se encuentren como titulares de concesiones en el Sistema Estatal de Información y Registro de Transporte, y a personas morales que no se encuentren como titulares de concesiones en el Sistema Estatal de Información y Registro de Transporte; quedando excluidas aquellas personas que habiendo tenido la titularidad de concesiones en la modalidad de vehículos de alquiler, las hayan transferido en transgresión a la normatividad vigente, o bien, se les haya terminado concesión anterior por incumplimiento a las disposiciones aplicables;
+
+e) Indicación de la fecha, hora y lugar en la que habrá de llevarse a cabo en su caso, el proceso de sorteo;
+
+f) Indicación de los requisitos que deberán cumplir los interesados para la inscripción, los cuales únicamente serán los que se enlistan a continuación:
+
+f.1) Ser de nacionalidad mexicana y residir en el Estado;
+
+f.2) Presentar una solicitud por escrito ante la Agencia, la cual deberá contener únicamente lo siguiente:
+
+f.2.1) Nombre completo, edad, nacionalidad y domicilio, si se trata de una persona física o, en su caso, denominación legal y domicilio social, si es una persona moral, estos últimos para efecto de oír y recibir notificaciones;
+
+f.2.2) Las características del vehículo que destinará a la prestación del servicio público en la modalidad de vehículo de alquiler;
+
+f.2.3) Declaración bajo protesta de decir verdad, manifestando si es titular de una o más concesiones; y
+
+f.2.4) Lugar y fecha en que se formula la solicitud, firmando el documento el peticionario o, en su caso, el representante legal de la persona moral solicitante.
+
+f.3) Presentar, en el caso de personas morales, original de la escritura constitutiva o copia certificada de la misma, mediante la cual se acredite la constitución de la sociedad, última acta de asamblea y la personalidad de su representante legal, mismos que deberán presentarse debidamente certificados por notario público;
+
+f.4) Presentar, en el caso de personas físicas, certificación del acta de nacimiento expedida por el Registro Civil, para acreditar la mayoría de edad y la calidad de mexicano, así como constancia expedida por la autoridad municipal correspondiente, a fin de avalar la residencia en el Estado, y acreditación de personalidad e identificación si comparece mediante apoderado;
+
+f.5) Presentar un comprobante que demuestre la legal propiedad del vehículo en el que se pretende prestar el servicio de transporte público en la modalidad de vehículo de alquiler; y
+
+f.6) Presentar carta de no antecedentes penales o no encontrarse sujeto a proceso penal, emitida por la autoridad correspondiente.
+
+Contra la presentación de los documentos que se establecen en el inciso f) de la presente fracción se extenderá una constancia de inscripción, una vez que se verifique que dichos documentos reúnen los requisitos solicitados.
+
+VI. Con base en las solicitudes que cumplieron con los requisitos establecidos en la Convocatoria, la Agencia procederá a realizar los nombramientos de los títulos de concesión; mas si se llegare a presentar el caso de que el número de personas físicas o morales que cumplen con todo lo establecido en la Convocatoria, es superior al de concesiones por otorgar, se procederá a elegir a los concesionarios mediante sorteo público, en el que deberá levantarse acta circunstanciada.
+
+En caso de llevarse a cabo el sorteo público previsto en el párrafo anterior, deberán garantizarse los principios de transparencia, publicidad, certeza jurídica, legalidad, seguridad e imparcialidad en el desarrollo del mismo, en beneficio de los participantes;
+
+VII. Posteriormente, se notificará a los interesados en los términos del Código de Procedimientos Civiles vigente en el Estado, para que en un término no mayor de 10 días hábiles hagan entrega a la Secretaría de Finanzas y Tesorería General del Estado de la garantía de cumplimiento por un monto de 100 cuotas, que podrá consistir en fianza expedida por compañía afianzadora autorizada por la Comisión Nacional de Seguros y Fianzas, en contrato de garantía inmobiliaria, o en billete de depósito, para garantizar el cumplimiento de las obligaciones inherentes a la prestación del servicio.
+
+Durante todo el periodo de la vigencia de la concesión, deberá mantenerse la garantía de cumplimiento, por lo que vencida ésta, deberá ser renovada por la cantidad que fue inicialmente otorgada, en caso de concederse por las autoridades competentes la renovación de la concesión.
+
+Asimismo, se deberán cubrir ante la Secretaría de Finanzas y Tesorería General del Estado como contraprestación los derechos correspondientes que por tal concepto señale la Ley de Hacienda del Estado, para efecto de que sea expedido el título de concesión;
+
+VIII. Una vez realizado el pago de derechos correspondiente, la Agencia, exclusivamente con la firma de su titular, emitirá el dictamen de otorgamiento de concesión que contendrá el número del título de la concesión, el concesionario, la fecha límite de su vigencia y la periodicidad del refrendo, así como la demás información establecida en el artículo 60 de la presente Ley, misma que deberá inscribirse en el Sistema Estatal de Información y Registro de Transporte.
+
+Para efectos del párrafo anterior, las concesiones podrán tener una vigencia de hasta seis años, renovable a su término hasta por el mismo periodo por el cual fueron otorgadas, considerando que deberán ser refrendadas anualmente por la Agencia para verificar el cumplimiento de las obligaciones establecidas en la concesión.
+
+Asimismo, deberá establecerse en cada una de las concesiones a otorgar, que su titular debe sujetarse estrictamente al cumplimiento de las leyes, reglamentos y demás disposiciones legales vigentes en la materia;
+
+IX. Cumplido lo anterior, se procederá a la publicación del listado de las concesiones otorgadas en el Periódico Oficial del Estado y en el sitio de Gobierno del Estado en Internet; y
+
+X. En todas las etapas del proceso estará presente un Comité integrado por un representante de la Contraloría Interna, de la Consejería Jurídica, del Consejo y el Titular de la Agencia, así como el público interesado que desee asistir a la apertura de solicitudes y al proceso de sorteo público.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Para efectos del apartado B) del presente artículo, no se otorgarán concesiones del servicio de transporte público en la modalidad de vehículos de alquiler a los representantes de elección popular y a los miembros del Poder Judicial, así como a todas aquellas personas que recauden, manejen, administren o resguarden recursos económicos federales, estatales, o municipales, cuando estos últimos sean transferidos, descentralizados, concertados o convenidos por el Estado con la Federación o con sus Municipios.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+Tampoco se otorgarán concesiones del servicio de transporte público en la modalidad de vehículos de alquiler a los ciudadanos que conformen los organismos electorales, los que fueren designados para integrar el Tribunal Electoral a que se refiere la Ley Electoral del Estado y los Comisionados de la Comisión de Acceso a la Información Pública; ni a los cónyuges de los servidores públicos de éste y el párrafo anterior, ni a sus parientes hasta el cuarto grado por afinidad o consanguinidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 67.
 
-El Titular del Ejecutivo, a través da la Agencia podrá asignar directamente las concesiones del SITRA y del SITME en los siguientes supuestos:
+El Titular del Ejecutivo, a través da la Agencia, podrá asignar directamente las concesiones del SITRA y SITME, salvo lo relativo a los vehículos de alquiler, en los siguientes supuestos:
 
 I. En centros de población fuera del Área Metropolitana de Monterrey, cuando exista un solo interesado en prestar el servicio público de transporte;
 
@@ -1123,9 +1247,21 @@ II. Cuando al haberse realizado dos convocatorias públicas, éstas hubieran sid
 
 III. Cuando el concesionario ó concesionarios existentes en la zona de influencia de una nueva concesión presenten a la autoridad su esquema de operación, conforme a la fracción IV del artículo 65 de esta Ley, y éste sea aceptado por la autoridad conforme a la fracción VII del artículo 65 de ésta Ley.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 67 Bis.
+
+Cuando se termine un título de concesión en la modalidad de vehículo de alquiler en razón de que se incurra en alguno de los supuestos previstos por el Artículo 84 de esta Ley, incluyendo la inactividad, es decir no prestar el servicio público de transporte en las unidades que se encuentran bajo la titularidad de dichas concesiones, no procederá su nueva expedición ni refrendo al mismo titular, en cuyo caso la Agencia realizará las modificaciones correspondientes en el Sistema Estatal de Información y Registro de Transporte.
+
+Una vez que el título de concesión haya sido terminado según lo dispuesto por el artículo 84 de la Ley en mención, se transferirá a favor del Estado dicho título, el cual podrá transferirse únicamente mediante sorteo público realizado por la Agencia, en el que sólo se incluirán las personas físicas y morales que, habiendo cumplido todos los requisitos, participaron en la última Convocatoria y no obtuvieron concesión.
+
+En caso de llevarse a cabo el sorteo público previsto en el párrafo anterior, deberán garantizarse los principios de transparencia, publicidad, certeza jurídica, legalidad, seguridad e imparcialidad en el desarrollo del mismo, en beneficio de los participantes.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 68.
 
-El otorgamiento de concesiones o permisos en zonas de influencia de otras concesiones o permisos del SITRA y SITME deberá efectuarse previa notificación a los concesionarios o permisionarios existentes, para que acudan a exponer por escrito lo que a su derecho convenga y aporten las pruebas que estimen pertinentes aplicando supletoriamente para estos efectos, lo previsto en el Código de Procedimientos Civiles vigente en el Estado. Recibido el escrito y las pruebas referidas, se dictará la resolución que proceda dentro de un plazo que no podrá exceder de quince días hábiles.
+El otorgamiento de concesiones o permisos en zonas de influencia de otras concesiones o permisos del SITRA y SITME, salvo lo relativo a la modalidad de vehículos de alquiler, deberá efectuarse previa notificación a los concesionarios o permisionarios existentes, para que acudan a exponer por escrito lo que a su derecho convenga y aporten las pruebas que estimen pertinentes aplicando supletoriamente para estos efectos, lo previsto en el Código de Procedimientos Civiles vigente en el Estado. Recibido el escrito y las pruebas referidas, se dictará la resolución que proceda dentro de un plazo que no podrá exceder de quince días hábiles.
 
 ### CAPÍTULO III. DE LAS CONCESIONES Y SUS MODALIDADES
 
@@ -1173,9 +1309,11 @@ Las placas y tarjetas de circulación para la prestación del servicio público 
 
 Para que los vehículos de alquiler puedan utilizar la vía pública o espacios autorizados por los Municipios como sitios o bases, se requiere comprobación documental previa de que los solicitantes cuentan con las concesiones vigentes para explotar el servicio público de transporte de pasajeros, sujetándose a los lineamientos que establezca la reglamentación correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 74.
 
-La Agencia para la expedición de nuevas concesiones en materia de vehículos de alquiler, procurará mantener en su decisión el equilibrio entre la oferta de vehículos y demanda de los usuarios.
+La Agencia, para la expedición de nuevas concesiones en materia de vehículos de alquiler, deberá contar con el Estudio Técnico preceptuado en el artículo 66 apartado B) fracciones I, II y III de esta Ley, en el que se evalúen las necesidades de dicho servicio en el Estado, debiendo mantener en su decisión el equilibrio entre la oferta de vehículos y demanda de los usuarios.
 
 #### SECCIÓN SEGUNDA. CONCESIONES DEL SITME
 
@@ -1227,7 +1365,9 @@ El permiso es al acto administrativo emitido por la Agencia que confiere a una p
 
 La Agencia podrá otorgar los siguientes tipos de permiso:
 
-I. Temporal de Transporte de Pasajeros;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+I. Temporal de Transporte de Pasajeros, excepto en la modalidad de vehículos de alquiler;
 
 II. Anexo a Concesiones; y
 
@@ -1281,9 +1421,11 @@ XX. Datos del seguro de responsabilidad civil y para el pasajero para cada unida
 
 XXI. Terminales e instalaciones autorizadas.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 79.
 
-Queda prohibida la expedición de permisos con el carácter de temporales o provisionales. Únicamente los permisos y/o concesiones expedidos en los términos de esta Ley serán el único medio legal para autorizar la circulación de los medios de transporte en cualquiera de los medios de trasporte (sic) en cualquiera de sus modalidades.
+Queda prohibida la expedición de permisos con el carácter de temporales o provisionales de transporte público de pasajeros en la modalidad de vehículos de alquiler. Únicamente los permisos y/o concesiones expedidos en los términos de esta Ley serán el único medio legal para autorizar la circulación de los medios de transporte en cualquiera de los otros medios de transporte en cualquiera de sus modalidades.
 
 ###### Artículo 80.
 
@@ -1329,7 +1471,9 @@ Son causas de terminación de las concesiones:
 
 I.- Vencimiento del plazo: Procede cuando transcurre el término por el cual fueron otorgados y no ha sido solicitada la renovación correspondiente;
 
-II.- Revocación: Opera por el incumplimiento del concesionario en cualquiera de las obligaciones contraídas con motivo de la prestación del servicio público de transporte;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+II.- Revocación: Procede por el incumplimiento del concesionario en cualquiera de las obligaciones contraídas con motivo de la prestación del servicio público de transporte, así como por inobservancia a lo dispuesto en el artículo 62 de la presente Ley;
 
 III.- Cancelación: Procede cuando el interés público así lo dicte, considerando lo establecido por la presente Ley y su Reglamento. Tratándose de vehículos de alquiler, también procede la cancelación, cuándo el vehículo sea utilizado en la comisión de un delito grave e intencional;
 
@@ -1337,7 +1481,9 @@ IV.- Renuncia: Opera cuando el titular del mismo o su Representante Legal, lo no
 
 V.- Por incumplimiento comprobado de obligaciones fiscales, la falta de liquidación o de pago oportuno dentro del ejercicio fiscal correspondiente, de los conceptos inherentes de la prestación del servicio público de transporte de pasajeros, tales como el refrendo, concesiones, multas y/o presentación de garantías; y
 
-VI.- Por haberse decretado la requisa en los términos del inciso c) de la fracción IV del artículo 103 de esta Ley.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+VI.- Por haberse decretado la requisa en los términos del inciso c) de la fracción IV del artículo 102 de esta Ley.
 
 El Ejecutivo del Estado cuidando el interés público ante causas que alteren de manera grave y sistemática la prestación de servicio publico o la movilidad sustentable, podrá tomar las medidas que sean necesarias sobre las unidades e infraestructuras de los concesionarios. Se consideran graves entre otras causas; las contingencias ambientales, la congestión vial o la reestructuración del servicio conforme a lo establecido en el Plan Sectorial de Transporte y Vialidad.
 
@@ -1401,27 +1547,39 @@ Las autoridades estatales y municipales, así como los concesionarios y conducto
 
 Deberán inscribirse en el Sistema Estatal de Información y Registro de Transporte:
 
-I.- El registro general de concesiones y permisos, con sus concentrados estadísticos y gráficos;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+I.- El registro general de concesiones y permisos, con sus concentrados estadísticos y gráficos, así como el diagnóstico de necesidades establecido en el artículo 65 fracción I de la presente Ley, relativo al otorgamiento de concesiones, y el Estudio Técnico preceptuado en el artículo 66 apartado B) fracciones I, II y III en el que se evalúen las necesidades del servicio de vehículos de alquiler dentro y fuera de la zona metropolitana del Estado;
 
 II.- Los planes y programas referidos al SET;
 
 III.- Los documentos en los que consten las concesiones que expidan las autoridades conforme a las disposiciones de esta Ley, incluyendo las modificaciones que sufran;
 
-IV.- Las licencias especiales que autorice la Agencia para operar o conducir vehículos;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-V.- El récord de manejo de los conductores de los sistemas de transporte;
+IV.- Las licencias especiales que autorice la Agencia para operar o conducir vehículos, incluyendo las fechas de su vigencia y los nombres de sus titulares;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+V.- El récord de manejo de los conductores de los sistemas de transporte, incluyendo un apartado de quejas y denuncias en el que se enlisten las irregularidades que, una vez comprobadas por la Agencia, denuncie la ciudadanía en relación a los conductores y vehículos concesionados, respectivamente, del servicio público de transporte;
 
 VI.- La descripción del trazo e itinerarios de las rutas y ramales de transporte público;
 
 VII.- La información de vehículos afectos al SET;
 
-VIII.- Todos los actos autorizados conforme a las disposiciones de esta Ley, para transmitir la titularidad de las concesiones;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+VIII.- Todos los actos autorizados conforme a las disposiciones de las leyes vigentes en el momento en que fue transmitida la titularidad de las concesiones desde su otorgamiento inicial;
 
 IX.- Los documentos relativos a la constitución y modificación de los estatutos de las personas morales que sean concesionarias;
 
 X.- Las medidas de seguridad y sanciones aplicadas a concesionarios y conductores; y
 
 XI.- La demás información que se determinen en esta Ley y su Reglamento. La operación y funcionamiento del Sistema Estatal de Información y Registro de Transporte se establecerá en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
+La Agencia tendrá la obligación de mantener actualizado y difundir el Sistema Estatal de Información y Registro de Transporte, a través de Internet.
 
 ## TÍTULO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -1491,9 +1649,11 @@ Las autoridades facultadas conforme a esta Ley, su Reglamento y demás disposici
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 101.
 
-Cuando los concesionarios o permisionarios del servicio público de transporte y/o personas físicas o morales, realicen acciones que pongan en riesgo la seguridad de las personas o del interés público, la autoridad facultada dictará medidas de seguridad de inmediata ejecución, mismas que se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+Cuando los concesionarios o permisionarios del servicio público de transporte y/o personas físicas o morales, realicen acciones que pongan en riesgo la seguridad de las personas o del interés público en contravención de esta Ley y su Reglamento, la autoridad facultada dictará medidas de seguridad de inmediata ejecución, mismas que se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
 ###### Artículo 102.
 
@@ -1527,9 +1687,11 @@ Las medidas de seguridad a que hace referencia el presente Capítulo, deberán i
 
 ### CAPÍTULO III. DE LAS ACCIONES CORRECTIVAS Y SANCIONES
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 103.
 
-Con fundamento en los principios de eficiencia administrativa y calidad así como el de capacitación y seguridad, la Agencia aplicará las acciones correctivas y sanciones que busquen la consecución de dichos principios rectores definidos por esta Ley.
+Con fundamento en los principios de eficiencia administrativa y calidad así como de capacitación y seguridad, la Agencia aplicará las acciones correctivas y/o sanciones que busquen la consecución de dichos principios rectores definidos por esta Ley.
 
 ###### Artículo 104.
 
@@ -1762,3 +1924,13 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 25 DE JULIO DE 2007
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- La Agencia deberá difundir el Sistema Estatal de Información y Registro de Transporte a través de Internet, en un plazo no mayor a 90 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Los títulos de concesión del servicio público de transporte en la modalidad de vehículos de alquiler otorgados con anterioridad a la entrada en vigor del presente Decreto, continuarán vigentes hasta que concluya el plazo fijado para los mismos o su renovación, salvo que se actualice alguna causa de terminación de los mismos, de conformidad con lo previsto por el Artículo 84 de la presente Ley.
+
+Artículo Cuarto.- Los procedimientos bajo los cuales la autoridad determinará la inactividad de las concesiones del transporte público en la modalidad de vehículos de alquiler, prevista en el Artículo 67 Bis de la presente Ley, deberán establecerse en el Reglamento en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
