@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2007-06-28"
+last_updated: "2007-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -58,11 +58,17 @@ II. Acopio y tráfico de armas, previstos en los artículos 83 bis y 84 de la Le
 
 III. Tráfico de indocumentados, previsto en el artículo 138 de la Ley General de Población;
 
-IV. Tráfico de órganos, previsto en los artículos 461, 462 y 462 bis de la Ley General de Salud, y
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2007)</small>
+IV. Tráfico de órganos previsto en los artículos 461, 462 y 462 bis de la Ley General de Salud;
 
-V. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el articulo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Trata de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 205; Trata de personas, previsto en el artículo 207; asalto, previsto en los artículos 286 y 287; secuestro, previsto en el artículo 366; tráfico de menores o personas que no tienen capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter, y robo de vehículos, previsto en el artículo 381 bis del Código Penal Federal, o en las disposiciones correspondientes de las legislaciones penales Estatales o del Distrito Federal.
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+V. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; asalto, previsto en los artículos 286 y 287; secuestro, previsto en el artículo 366; tráfico de menores o personas que no tiene capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter, y robo de vehículos, previsto en el artículo 381 bis del Código Penal Federal, o en las disposiciones correspondientes de las legislaciones penales Estatales o del Distrito Federal, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+VI. Trata de personas, previsto y sancionado en los artículos 5 y 6 de la Ley para Prevenir y Sancionar la Trata de Personas.
 
 ###### Artículo 3o.
 
@@ -379,3 +385,9 @@ D.O.F. 28 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+
+D.O.F. 27 DE NOVIEMBRE DE 2007.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 días hábiles.
