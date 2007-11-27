@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2003-06-11"
+last_updated: "2007-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -74,7 +74,9 @@ II. Las distinciones basadas en capacidades o conocimientos especializados para 
 
 III. La distinción establecida por las instituciones públicas de seguridad social entre sus asegurados y la población en general;
 
-IV. En el ámbito educativo, los requisitos académicos, de evaluación y los límites por razón de edad;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+IV. En el ámbito educativo, los requisitos académicos, pedagógicos y de evaluación;
 
 V. Las que se establezcan como requisitos de ingreso o permanencia para el desempeño del servicio público y cualquier otro señalado en los ordenamientos legales;
 
@@ -815,3 +817,9 @@ Artículo Quinto.- Una vez designada la persona titular de la Presidencia del Co
 México, D.F., a 29 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE NOVIEMBRE DE 2007.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
