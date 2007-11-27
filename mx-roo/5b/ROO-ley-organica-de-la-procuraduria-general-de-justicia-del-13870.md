@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-13870"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2006-10-20"
+last_updated: "2007-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -93,9 +93,13 @@ XII.- Coordinar su actuación con las autoridades federales o de otras entidades
 
 XIII.- Proporcionar orientación y asesoría jurídica a las víctimas del delito;
 
-XIV.- Hacer efectivos los derechos del Estado e intervenir en los juicios que afecten a quienes las leyes otorgan especial protección; y
+XIV.- Hacer efectivos los derechos del Estado e intervenir en los juicios que afecten a quienes las leyes otorgan especial protección; y (sic)
 
-XV.- Las demás que determinen las leyes.
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+XV.- Otorgar las órdenes de protección de emergencia y preventivas, de conformidad con lo dispuesto por la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo; y
+
+XVI.- Las demás que determinen las leyes.
 
 b) EN EJERCICIO DE PROCURACION DE JUSTICIA:
 
@@ -761,15 +765,21 @@ XVIII.- Proponer e imponer mediante resolución del Procurador General de Justic
 
 XIX.- Enviar a la Dirección de Información y Estadística la información relativa a ordenes de aprehensión y presentación;
 
-XX.- Acordar con el Procurador General el despacho de los asuntos de su competencia; y
+XX.- Acordar con el Procurador General el despacho de los asuntos de su competencia; y (sic)
 
-XXI.- Las demás que le confieran el Procurador General, el Subprocurador General, las leyes y reglamentos respectivos.
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+XXI.- Instruir la ejecución de las órdenes de protección de emergencia y preventivas, que le indique el Ministerio Público de conformidad con lo dispuesto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo; y
+
+XXII.- Las demás que le confieran el Procurador General, el Subprocurador General, las leyes y reglamentos respectivos.
 
 ###### ARTICULO 42.
 
 La Policía Judicial actuará bajo la autoridad y el mando inmediato del Ministerio Público, auxiliándolo en la investigación de los delitos del orden común. Para este efecto, podrá recibir denuncias y querellas sólo cuando por la urgencia del caso, no sea posible presentarlas directamente ante el Ministerio Público, pero deberá dar cuenta sin demora a este para que acuerde lo que legalmente proceda.
 
-Conforme a las instrucciones que se le dicten, la Policía Judicial desarrollará las diligencias que deben practicarse durante el proceso de integración de la averiguación previa y exclusivamente para los fines de ésta; cumplirá las citaciones, notificaciones y presentaciones que se le ordenen, y ejecutará las ordenes de aprehensión, de comparecencia, los cateos y otros mandamientos que emita la autoridad judicial.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+Conforme a las instrucciones que se le dicten, la Policía Judicial desarrollará las diligencias que deben practicarse durante el proceso de integración de la averiguación previa y exclusivamente para los fines de ésta; cumplirá las citaciones, notificaciones y presentaciones que se le ordenen, y ejecutará las ordenes de aprehensión, de comparecencia, de protección de emergencia, de protección preventivas, los cateos y otros mandamientos que emita la autoridad judicial.
 
 ###### ARTICULO 43.
 
@@ -1266,3 +1276,7 @@ PROFR. RAUL O. SANTANA BASTARRACHEA.
 P.O. 20 DE OCTUBRE DE 2006.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
