@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2003-12-16"
+last_updated: "2007-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -833,6 +833,10 @@ VI.- De las cuestiones relativas a los asuntos que afecten en sus derechos de pe
 
 VII.- En general, de todas las cuestiones familiares que reclamen la intervención judicial.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+En cualquiera de los casos antes mencionados, en los que presuntamente se deriven actos de violencia contra la mujer, los Jueces de Primera instancia en materia familiar, estarán facultados para otorgar las ordenes de protección de emergencia y preventivas; y conocerán de los trámites de las ordenes de protección de naturaleza civil previstas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, las cuales se sustanciarán conforme al Capítulo Noveno del Título Séptimo y al Título Vigésimo del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, siempre y cuando no sea procedente otro procedimiento judicial más breve para su trámite o se determine su resolución de plano conforme a este último ordenamiento.
+
 ###### Artículo 68.
 
 Los Jueces de Primera Instancia en materia penal, conocerán:
@@ -842,6 +846,10 @@ I.- De los procesos que por delitos del orden común se cometan en su jurisdicci
 II.- De los incidentes civiles promovidos en los juicios penales que ante ellos se tramiten; y
 
 III.- Los demás asuntos que le encomienden las leyes.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+Cuando en los casos de las fracciones anteriores existan órdenes de protección de emergencia, preventivas o ambas, dictadas conforme a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintan Roo, los Jueces de Primera Instancia en materia penal deberán valorarlas de forma inmediata, en cuanto tengan conocimiento de los hechos, siempre y cuando sea procedente conforme a la propia naturaleza de la orden de protección, a fin de ratificarlas hasta por el tiempo que consideren necesario o, en su caso, desestimarlas decretando que cesen. Dichas órdenes de protección podrán ser dictadas por las autoridades jurisdiccionales, por el tiempo que estimen necesario, aun cuando no fueren decretadas con anterioridad por autoridad administrativa.
 
 ###### Artículo 69.
 
@@ -1753,7 +1761,7 @@ P.O. 29 DE JUNIO DE 2001.
 
 ###### ARTICULO PRIMERO.
 
-EI presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 ###### ARTICULO SEGUNDO.
 
@@ -1772,3 +1780,7 @@ P.O. 16 DE DICIEMBRE DE 2003.
 Artículo Primero.- El presente Decreto de reformas a la ley orgánica del Poder Judicial entrará en vigor el mismo día de su publicación en el periódico oficial del Gobierno (sic) estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+P.O. 27 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
