@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-16629"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-15"
-last_updated: "2002-03-15"
+last_updated: "2007-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE QUINTANA ROO -ANTES VIOLENCIA INTRAFAMILIAR-
 
-LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE QUINTANA ROO
+LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de junio de 2000.
 
@@ -35,41 +35,59 @@ LA HONORABLE IX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTA
 
 DECRETA:
 
-LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE QUINTANA ROO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE QUINTANA ROO.
 
 ## TITULO PRIMERO. DISPOSlCIONES GENERALES
 
 ### CAPITULO PRIMERO. OBJETO Y DEFINICION
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones contenidas en la presente ley son de orden público e interés social y tienen por objeto establecer las bases y procedimientos para la asistencia y prevención de la violencia intrafamiliar en el Estado de Quintana Roo.
+Las disposiciones contenidas en la presente ley son de orden público e interés social y tienen por objeto establecer las bases y procedimientos para la asistencia y prevención de la violencia familiar en el Estado de Quintana Roo.
 
 ###### ARTICULO 2.
 
 Para los efectos de esta Ley se entiende por:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-I.- VIOLENCIA INTRAFAMILIAR.- Aquel acto de poder u omisión intencional y recurrente dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia, con la intención de causar daño, que tenga una relación de parentesco por consanguinidad, afinidad, o civil, o mantenga una relación de hecho, dentro o fuera del domicilio familiar.
+l.- VIOLENCIA FAMILIAR.- Aquel acto de poder u omisión intencional y recurrente dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, moral, sexual, patrimonial o económica a cualquier miembro de la familia, con la intención de causar daño, que tenga una relación de parentesco por consanguinidad, afinidad, o civil, o mantenga una relación de hecho, dentro o fuera del domicilio familiar.
 
-Para efectos de esta Ley, la relación familiar se entiende en su forma más extensa incluyendo no sólo el parentesco consanguíneo, por afinidad y civil. sino cualquier vínculo resultante del matrimonio, concubinato o relación de hecho.
+Para efectos de esta ley, la relación familiar se entiende en su forma más extensa incluyendo no sólo el parentesco consanguíneo, por afinidad y civil sino cualquier vínculo resultante del matrimonio, concubinato o relación de hecho.
 
-La violencia intrafamiliar puede manifestarse de cualquiera de las siguientes formas:
+La violencia familiar puede manifestarse de cualquiera de las siguientes formas:
 
-A) MALTRATO FISICO. Todo acto de agresión en el que se utilice alguna parte del cuerpo, algún objeto, arma o substancia, que sirvan para causar daño a la integridad física de otra persona o para someterla a su voluntad o control.
+A. VIOLENCIA FÍSICA. Todo acto de agresión en el que se utilice alguna parte del cuerpo, algún objeto, arma o substancia, que sirvan para causar daño a la integridad física de otra persona o para someterla a su voluntad o control.
 
-B) MALTRATO PSICOEMOCIONAL. AI patrón de conducta consistente en actos u omisiones cuyas formas de expresión pueden ser prohibiciones, coacciones, condicionamientos, intimidaciones, actitudes devaluatorias, de abandono y que provoquen en quien las recibe, deterioro, disminución o afectación a su autoestima, cuando se compruebe que han sido realizados con la intención de causar daño al receptor. No se considera como maltrato psicoemocional, los actos que tengan por objeto corregir mesuradamente a los menores de edad, siempre que sean realizados por quienes participen en la formación y educación de los mismos, con el consentimiento de los padres del menor, sin la intención de causar un daño moral a éste y se demuestre que están encaminados a su sano desarrollo.
+B. VIOLENCIA PSICOLÓGICA. Al patrón de conducta consistente en actos u omisiones cuyas formas de expresión pueden ser prohibiciones, coacciones, condicionamientos, intimidaciones, actitudes devaluatorias, de abandono y que provoquen en quien las recibe, deterioro, disminución o afectación a su autoestima, cuando se compruebe que han sido realizados con la intención de causar daño al receptor. No se considera como violencia psicológica, los actos que tengan por objeto corregir mesuradamente a los menores de edad, siempre que sean realizados por quienes participen en la formación y educación de los mismos, con el consentimiento de los padres del menor, sin la intención de causar un daño moral a éste y se demuestre que están encaminados a su sano desarrollo.
 
-C) MALTRATO SEXUAL. Los actos u omisiones realizados para el control, manipulación o dominio de la pareja y que generan un daño psicoemocional y/o físico, cuyas formas de expresión pueden ser entre otras, negar las necesidades afectivas o inducir a la realización de prácticas sexuales no deseadas.
+C. VIOLENCIA MORAL.- Se reputa como tal todo acto u omisión encaminados a la vejación, escarnio y mofa del miembro integrante del núcleo familiar que se sienta afectado en su calidad humana y en su moral como persona, cuya finalidad esencial sea exponerlo al desprecio de los demás y le impida el buen desarrollo a la integración social.
 
-II.- RECEPTORES. Las personas sujetas o vulnerables a la violencia intrafamiliar.
+D. VIOLENCIA SEXUAL. Los actos u omisiones realizados para el control manipulación o dominio de la pareja y que generan un daño psicológico, y/o físico, cuyas formas de expresión pueden ser entre otras, negar las necesidades afectivas o inducir a la realización de prácticas sexuales no deseadas.
 
-III.- GENERADORES. Quienes realicen o induzcan a cometer actos constitutivos de violencia intrafamiliar.
+E. VIOLENCIA PATRIMONIAL.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer las necesidades del sujeto pasivo y que puede abarcar los daños a los bienes comunes o propios de la víctima.
 
-IV.- CONSEJO. El Consejo para la Asistencia y Prevención de la Violencia lntrafamiliar en el Estado de Quintana Roo.
+F. VIOLENCIA ECONÓMICA.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas.
 
-V.- LEY. Ley de Asistencia y Prevención de la Violencia lntrafamiliar para el Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+II.- RECEPTORES. Las personas sujetas o vulnerables a la violencia familiar.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+III.- GENERADORES. Quienes realicen o induzcan a cometer actos constitutivos de violencia familiar.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+IV.- CONSEJO. El Consejo para la Asistencia y Prevención de la Violencia Familiar en el Estado de Quintana Roo.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+V.- LEY. Ley de Asistencia y Prevención de la Violencia Familiar para el Estado de Quintana Roo.
 
 VI.- PROCURADURIA. La Procuraduría de la Defensa del Menor y la Familia del Estado, y sus Delegaciones Municipales.
 
@@ -81,11 +99,13 @@ VI.- PROCURADURIA. La Procuraduría de la Defensa del Menor y la Familia del Est
 
 La aplicación de la presente Ley corresponde, en el ámbito estatal, al Sistema para el Desarrollo Integral de la Familia del Estado, por conducto de la Procuraduría de la Defensa del Menor y la Familia, y en el ámbito municipal, a los Sistemas para el Desarrollo Integral de la Familia de cada Municipio, a través de sus correspondientes Delegaciones de la Procuraduría de la Defensa del Menor y la Familia o en su defecto, por sus respectivas Unidades de Asistencia Social o Jurídicas; así como a la Procuraduría General de Justicia del Estado y al Tribunal Superior de Justicia del Estado a través del Centro de Asistencia Jurídica, en el ámbito de sus respectivas competencias.
 
-###### ARTICULO 4º.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-Los organismos y dependencias de la administración pública del Estado, independientemente de su función dentro del Consejo, proporcionarán apoyo y colaboración a los Sistemas para el Desarrollo Integral de la Familia Estatal y Municipales, para la realización de acciones conjuntas que tengan por objeto prevenir y asistir a los receptores y generadores de violencia intrafamiliar, en el ámbito de sus respectivas competencias.
+###### ARTICULO 4.
 
-Corresponde al Consejo, promover y fomentar entre los organismos no gubernamentales, representantes de la iniciativa privada y organizaciones civiles vinculadas con la materia de violencia intrafamiliar, el apoyo necesario para llevar a cabo las acciones a que se refiere el párrafo anterior.
+Los organismos y dependencias de la administración pública del Estado, independientemente de su función dentro del Consejo, proporcionarán apoyo y colaboración a los Sistemas para el Desarrollo Integral de la Familia Estatal y Municipales, para la realización de acciones conjuntas que tengan por objeto prevenir y asistir a los receptores y generadores de violencia familiar, en el ámbito de sus respectivas competencias.
+
+Corresponde al Consejo, promover y fomentar entre los organismos no gubernamentales, representantes de la iniciativa privada y organizaciones civiles vinculadas con la materia de violencia familiar, el apoyo necesario para llevar a cabo las acciones a que se refiere el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
@@ -95,11 +115,15 @@ Para el cumplimiento de los objetivos de esta Ley, las Instituciones señaladas 
 
 ## TITULO SEGUNDO. DE LA ASISTENCIA Y PREVENCION
 
-### CAPITULO PRIMERO. DEL CONSEJO PARA LA ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR EN EL ESTADO DE QUINTANA ROO
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-###### ARTICULO 6º.
+### CAPITULO PRIMERO. DEL CONSEJO PARA LA ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE QUINTANA ROO
 
-Se crea el Consejo para la Asistencia y Prevención de la Violencia Intrafamiliar en el Estado de Quintana Roo, como órgano de apoyo, consulta, coordinación, seguimiento y evaluación, de las acciones que en la materia se realicen; tendrá carácter honorífico y estará integrado por:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 6.
+
+Se crea el Consejo para la Asistencia y Prevención de la Violencia Familiar en el Estado de Quintana Roo, como órgano de apoyo, consulta, coordinación, seguimiento y evaluación, de las acciones que en la materia se realicen; tendrá carácter honorífico y estará integrado por:
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
@@ -123,7 +147,9 @@ IX.- Un representante del Sistema Quintanarroense de Comunicación Social;
 
 X.- Cinco Representantes de Organismos No Gubernamentales.
 
-Los representantes de las dependencias y organismos que integran el Consejo, deberán ser preferentemente personas con conocimiento sobre la materia de violencia intrafamiliar y mantendrán continuidad en su participación, a efecto de lograr una permanente representatividad, que permita dar puntual seguimiento a las acciones desarrolladas por el Consejo.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+Los representantes de las dependencias y organismos que integran el Consejo, deberán ser preferentemente personas con conocimiento sobre la materia de violencia familiar y mantendrán continuidad en su participación, a efecto de lograr una permanente representatividad, que permita dar puntual seguimiento a las acciones desarrolladas por el Consejo.
 
 La integración del Consejo estará libre de prejuicios de género, debiendo buscarse de preferencia una participación proporcional.
 
@@ -137,7 +163,7 @@ El Presidente del Consejo podrá invitar a los servidores públicos o representa
 
 ###### ARTICULO 9º.
 
-EI Consejo, para el cumplimiento de sus objetivos, se integrará por comisiones cuya conformación y funciones se especificarán en el Reglamento de la presente Ley.
+El Consejo, para el cumplimiento de sus objetivos, se integrará por comisiones cuya conformación y funciones se especificarán en el Reglamento de la presente Ley.
 
 Asimismo, en el propio Reglamento se precisarán las funciones que corresponde desarrollar a cada una de las dependencias y organismos que conforman el Consejo, directamente vinculadas con los fines de la presente ley.
 
@@ -151,57 +177,83 @@ Para que las sesiones del Consejo sean válidas, bastará la asistencia de más 
 
 Las Comisiones a que se refiere el Artículo 9o de esta ley, se integrarán por expertos, con reconocida trayectoria en la materia y nombrados por el propio Consejo; serán coordinados por un responsable que será designado de entre ellos mismos.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 12.
 
-Para el cumplimiento de los objetivos de esta ley, las dependencias de la administración pública integrantes del Consejo, conforme al ámbito de sus respectivas competencias, estarán obligadas a disponer de sus propias estructuras administrativas y operativas para programar y ejecutar las acciones necesarias en materia de violencia intrafamiliar en que les corresponda intervenir.
+Para el cumplimiento de los objetivos de esta ley, las dependencias de la administración pública integrantes del Consejo, conforme al ámbito de sus respectivas competencias, estarán obligadas a disponer de sus propias estructuras administrativas y operativas para programar y ejecutar las acciones necesarias en materia de violencia familiar en que les corresponda intervenir.
 
 ###### ARTICULO 13.
 
 Son facultades y obligaciones del Consejo:
 
-I. Diseñar anualmente el Programa Integral para la Asistencia y Prevención de la Violencia Intrafamiliar en el Estado y evaluar bimestralmente sus logros y avances;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+l.- Diseñar anualmente el Programa Integral para la Asistencia y Prevención de la Violencia Familiar en el Estado y evaluar bimestralmente sus logros y avances;
 
 II.- Fomentar la coordinación, colaboración e información entre las dependencias, instituciones y organismos que lo integran;
 
 III.- Analizar el establecimiento de los lineamientos administrativos y técnicos en esta materia, así como de los modelos de atención más adecuados y en su caso, justificar las reformas y adecuaciones que respecto a éstos se sugiera;
 
-IV.- Fomentar, en coordinación con instituciones especializadas públicas y privadas, la realización de investigaciones sobre la violencia intrafamiliar, identificando los problemas reales y potenciales que la generan y empleando, en su caso, los resultados obtenidos para diseñar nuevos modelos tendentes a su asistencia y prevención;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-V.- Establecer las bases para el sistema de registro de la información estadística en el Estado sobre violencia intrafamiliar;
+IV.- Fomentar, en coordinación con instituciones especializadas públicas y privadas, la realización de investigaciones sobre la violencia familiar, identificando los problemas reales y potenciales que la generan y empleando, en su caso, los resultados obtenidos para diseñar nuevos modelos tendentes a su asistencia y prevención;
 
-VI.- Llevar un registro de instituciones y dependencias gubernamentales, así como de organizaciones sociales que realicen acciones en materia de violencia intrafamiliar o que tengan relación con ésta, en el Estado;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+V.- Establecer las bases para el sistema de registro de la información estadística en el Estado sobre violencia familiar;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+VI.- Llevar un registro de instituciones y dependencias gubernamentales, así como de organizaciones sociales que realicen acciones en materia de violencia familiar o que tengan relación con ésta, en el Estado;
 
 VII.- Concertar con organizaciones sociales para incorporar sus acciones y estadísticas al sistema de información del Estado;
 
-VIII.- Fomentar, en coordinación con los organismos competentes, la realización de campañas públicas y programas orientados a sensibilizar y concientizar a la población sobre las formas de expresión, erradicación y prevención de la violencia intrafamiliar, incorporando a la población en la operación y desarrollo de dichos programas.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-IX.- Incorporar a la sociedad organizada en la elaboración de programas y acciones relacionadas con la asistencia y prevención de la violencia intrafamiliar, a través de convenios en los cuales se establezcan y mantengan vínculos de trabajo específico e intercambio de información;
+VIII.- Fomentar, en coordinación con los organismos competentes, la realización de campañas públicas y programas orientados a sensibilizar y concientizar a la población sobre las formas de expresión, erradicación y prevención de la violencia familiar, incorporando la población en la operación y desarrollo de dichos programas;
 
-X.- Celebrar convenios o acuerdos en materia de violencia intrafamiliar, para la coordinación de acciones a nivel estatal y municipal, así como con dependencias del orden federal, según sus ámbitos de competencia;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-XI.- Organizar cursos y talleres de capacitación para los servidores públicos a quienes corresponda la atención y prevención de la violencia intrafamiliar;
+IX.- Incorporar a la sociedad organizada en la elaboración de programas y acciones relacionadas con la asistencia y prevención de la violencia familiar, a través de convenios en los cuales se establezcan y mantengan vínculos de trabajo específico e intercambio de información;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+X.- Celebrar convenios o acuerdos en materia de violencia familiar, para la coordinación de acciones a nivel estatal y municipal, así como con dependencias del orden federal, según sus ámbitos de competencia;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+XI.- Organizar cursos y talleres de capacitación para los servidores públicos a quienes corresponda la atención y prevención de la violencia familiar;
 
 XII.- Promover la realización de actividades que permitan la obtención de recursos económicos, los cuales se destinarán exclusivamente al cumplimiento de los fines de esta ley;
 
-XIII.- Fomentar la creación de áreas especializadas en la asistencia y prevención de la violencia intrafamiliar en instituciones públicas y privadas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+XIII.- Fomentar la creación de áreas especializadas en la asistencia y prevención de la violencia familiar en instituciones públicas y privadas;
 
 XIV.- Actuar como unidad auxiliar de las dependencias federales y organismos no gubernamentales con objetivos afines, en términos de las leyes, convenios o acuerdos de coordinación que se celebren con tal propósito;
 
-XV.- Promover el intercambio de información a nivel nacional e internacional sobre políticas, estrategias y resultados de las acciones de asistencia y prevención de la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-XVI.- Elaborar, publicar y distribuir material informativo en la entidad, con fines de prevención y orientación sobre la violencia intrafamiliar;
+XV.- Promover el intercambio de información a nivel nacional e internacional sobre políticas, estrategias y resultados de las acciones de asistencia y prevención de la violencia familiar;
 
-XVII.- A través de los medios de comunicación masiva, buscar espacios para la difusión permanente de campañas y programas para la prevención y asistencia de la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+XVI.- Elaborar, publicar y distribuir material informativo en la entidad, con fines de prevención y orientación sobre la violencia familiar;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+XVII.- A través de los medios de comunicación masiva, buscar espacios para la difusión permanente de campañas y programas para la prevención y asistencia de la violencia familiar;
 
 XVIII.- Establecer un vínculo directo y permanente con la Junta de Asistencia Social Privada, a efecto de coordinar y llevar a cabo acciones conjuntas acordes a los fines de esta ley;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-XIX.- Promover programas de intervención temprana en comunidades de escasos recursos para prevenir la violencia intrafamiliar desde donde se genera, incorporando a la población en la operación de dichos programas;
+XIX.- Promover programas de intervención temprana en comunidades de escasos recursos para prevenir la violencia familiar desde donde se genera, incorporando a la población en la operación de dichos programas;
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-XX.- Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención de la violencia intrafamiliar; y
+XX.- Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención de la violencia familiar; y
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
 
@@ -209,43 +261,51 @@ XXI.- Las demás que determine la presente Ley, o las que dentro del marco legal
 
 ### CAPITULO SEGUNDO. DE LA ASISTENCIA
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 14.
 
-Cuando la Procuraduría, por sí o por aviso externo, conozca de un caso de violencia intrafamiliar, procederá a evaluar física y psicoemocionalmente a las personas receptoras de tal violencia y proporcionará a los generadores una terapia psicológica, basada en modelos sensibilizadores a fin de mejorar las relaciones familiares.
+Cuando la Procuraduría, por si o por aviso externo, conozca de un caso de violencia familiar, procederá a evaluar física y psicológicamente a las personas receptoras de tal violencia y proporcionará a los generadores una terapia psicológica, basada en modelos sensibilizadores a fin de mejorar las relaciones familiares.
 
-Se podrá hacer extensiva la atención en Instituciones Públicas a quienes cuenten con ejecutoria relacionada con convenios de violencia intrafamiliar, a solicitud de la autoridad jurisdiccional.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-Los Servicios que proporcione la Procuraduría, en términos de la presente Ley, serán gratuitos.
-
-###### ARTICULO 15.
-
-La asistencia especializada que sea proporcionada en materia de violencia intrafamiliar por cualquier institución ya sea pública o privada, o por personal del Sistema para el Desarrollo Integral de la Familia, será tendente a la protección de los receptores de tal violencia, así como al apoyo terapéutico que corresponda a los generadores y receptores.
-
-Dicha asistencia estará libre de prejuicios de género, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo.
+Se podrá hacer extensiva la atención en instituciones públicas a quienes cuenten con ejecutoria relacionada con convenios de violencia familiar, a solicitud de la autoridad jurisdiccional.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
+Los Servicios que proporcione la Procuraduría, en términos de la presente Ley, serán gratuitos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 15.
+
+La asistencia especializada que sea proporcionada en materia de violencia familiar por cualquier institución ya sea pública o privada, o por personal del Sistema para el Desarrollo Integral de la Familia, será tendente a la protección de los receptores de tal violencia, así como al apoyo terapéutico que corresponda a los generadores y receptores.
+
+Dicha asistencia estará libre de prejuicios de género, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 16.
 
-El tratamiento a quienes incurran en actos de violencia intrafamiliar, se basará en modelos psicoterapéuticos reeducativos, ausentes de patrones estereotipados de comportamiento, de prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación, tendientes a disminuir y de ser posible erradicar las conductas de violencia.
+El tratamiento a quienes incurran en actos de violencia familiar, se basará en modelos psicoterapéuticos reeducativos, ausentes de patrones estereotipados de comportamiento, de prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación, tendientes a disminuir y de ser posible erradicar las conductas de violencia.
 
 ###### ARTICULO 17.
 
 El personal de las instituciones a que se refiere el Artículo 15 de esta ley, deberá ser profesional acreditado por algún organismo especializado, público o privado y contar con el perfil y aptitudes adecuadas, en términos de las disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 18.
 
-Cuando el Ministerio Público conozca de un asunto relacionado con violencia intrafamiliar, lo deberá canalizar a la Procuraduría para la prestación de la asistencia médica o terapéutica que requiera el receptor o el generador.
+Cuando el Ministerio Público conozca de un asunto relacionado con violencia familiar, lo deberá canalizar a la Procuraduría para la prestación de la asistencia médica o terapéutica que requiera el receptor, o el generador.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2002)</small>
 
 En los casos en que un receptor menor de edad o incapaz, víctima de maltrato, de abandono o en cualquier otra circunstancia, se presente o sea presentado ante el Ministerio Público, éste de inmediato dará aviso a la Procuraduría de la Defensa del Menor y la Familia a efecto de que haga valer su representación y brinde la protección tutelar precautoria para su atención y representación legal.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-Cuando la Procuraduría conozca directamente de un caso de violencia intrafamiliar que pueda ser constitutivo de delito, lo hará del conocimiento del Ministerio Público, remitiéndole copia de los documentos y demás elementos de que disponga, para que éstos sean ofrecidos como medios de prueba para la determinación jurídica correspondiente.
+Cuando la Procuraduría conozca directamente de un caso de violencia familiar que pueda ser constitutivo de delito, lo hará del conocimiento del Ministerio Público, remitiéndole copia de los documentos y demás elementos de que disponga, para que éstos sean ofrecidos como medios de prueba para la determinación jurídica correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
@@ -253,19 +313,25 @@ Cuando la Procuraduría conozca directamente de un caso de violencia intrafamili
 
 La Procuraduría, una vez aplicado el tratamiento especializado por el personal capacitado, realizará las acciones pertinentes que permitan brindarle seguridad al receptor, en términos de su competencia y de las leyes aplicables, y determinará si el receptor puede seguir integrado al seno familiar; en caso contrario, realizará las acciones pertinentes para brindar seguridad física y mental al receptor, solicitando al juez su separación del seno familiar como medida cautelar.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 20.
 
-En la aplicación de esta ley se promoverá y vigilará la observancia de los derechos de los receptores, por parte de las autoridades responsables procurando siempre la correcta aplicación de los programas de asistencia y prevención de la violencia intrafamiliar que en su caso procedan.
+En la aplicación de esta ley se promoverá y vigilará la observancia de los derechos de los receptores, por parte de las autoridades responsables procurando siempre la correcta aplicación de los programas de asistencia y prevención de la violencia familiar que en su caso procedan.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 21.
 
-Las instituciones u organismos que proporcionen atención o asistencia médica, apoyarán a las funciones de la Procuraduría, comunicándole de los casos que sean de su conocimiento y que consideren como constitutivos de violencia intrafamiliar, sin perjuicio de su obligación de dar aviso al Ministerio Público cuando los hechos pudieran tener el carácter de delito.
+Las instituciones u organismos que proporcionen atención o asistencia médica, apoyarán a las funciones de la Procuraduría, comunicándole de los casos que sean de su conocimiento y que consideren como constitutivos de violencia familiar, sin perjuicio de su obligación de dar aviso al Ministerio, Público cuando los hechos pudieran tener el carácter de delito.
 
 ### CAPITULO TERCERO. DE LA PREVENCION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 22.
 
-El Consejo elaborará programas para prevenir la violencia intrafamiliar, especialmente en los siguientes casos:
+El Consejo elaborará programas para prevenir la violencia familiar, especialmente en los siguientes casos:
 
 I.- Padres y madres o futuros padres y madres con antecedentes de haber sufrido maltrato infantil;
 
@@ -289,41 +355,53 @@ VIII.- Padres y madres que por diversas razones descuidan la atención y formaci
 
 En términos de la presente ley, corresponde a la Procuraduría:
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-I.- Iniciar y llevar registros de las actas administrativas de aquellos actos que de conformidad con la presente Ley, se consideren violencia intrafamiliar y que se hagan de su conocimiento;
+I.- Iniciar y llevar registros de las actas administrativas de aquellos actos que de conformidad con la presente Ley, se consideren violencia familiar y que se hagan de su conocimiento;
 
-II.- Citar a los receptores, generadores e involucrados en los casos de violencia intrafamiliar, a efecto de que se apliquen las medidas asistenciales que tengan por objeto erradicar dicha violencia;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-II (sic).- Aplicar el procedimiento previsto en esta ley, para la atención jurídica de la violencia intrafamiliar;
+II.- Citar a los receptores, generadores e involucrados en los casos de violencia familiar, a efecto de que se apliquen las medidas asistenciales que tengan por objeto erradicar dicha violencia;
 
-IV.- Proporcionar, por conducto del personal capacitado, asistencia especializada gratuita, en coordinación con las instituciones autorizadas, a los receptores de la violencia intrafamiliar, así como a los generadores o familiares involucrados, dentro de una atención psicológica y de trabajo social;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
+III.- Aplicar el procedimiento previsto en esta ley, para la atención jurídica de la violencia familiar;
 
-V.- Canalizar los casos de violencia intrafamiliar, cuando el interesado así lo solicite, al Centro de Asistencia Jurídica del Tribunal Superior de Justicia del Estado, a efecto de que sea substanciado en dicha instancia, el procedimiento conciliatorio correspondiente;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-VI.- Atender las solicitudes de las personas que tengan conocimiento de hechos que puedan ser constitutivos de violencia intrafamiliar;
+IV.- Proporcionar, por conducto del personal capacitado, asistencia especializada gratuita, en coordinación con las instituciones autorizadas, a los receptores de la violencia familiar, así como a los generadores o familiares involucrados, dentro de una atención psicológica y de trabajo social;
 
-VII.- Dentro de su función de asesoría jurídica, solicitar al órgano jurisdiccional competente, en términos de la ley aplicable, que emita las medidas provisionales a fin de proteger los derechos de los receptores de violencia intrafamiliar, siempre que sea a petición de estos últimos;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+V.- Canalizar los casos de violencia familiar, cuando el interesado así lo solicite, al Centro de Asistencia Jurídica del Tribunal Superior de Justicia del Estado, a efecto de que sea substanciado en dicha instancia, el procedimiento conciliatorio correspondiente;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+VI.- Atender las solicitudes de las personas que tengan conocimiento de hechos que puedan ser constitutivos de violencia familiar;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+VII.- Dentro de su función de asesoría jurídica, solicitar al órgano administrativo o jurisdiccional competente, en términos de la ley aplicable, que emita las medidas provisionales a fin de proteger los derechos de los receptores de violencia familiar, siempre que sea a petición de estos últimos;
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
 VIII.- Integrar debidamente los expedientes de diagnóstico y trabajo psicológico derivados de las actas administrativas a que se refiere la fracción I, a fin de aportar todos los medios idóneos a la Institución canalizada para mejores resultados en el tratamiento del conflicto;
 
-IX.- Dar seguimiento, conforme a sus atribuciones, de los casos de violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
+IX.- Dar seguimiento, conforme a sus atribuciones, de los casos de violencia familiar;
 
-X.- Dar seguimiento conforme a sus atribuciones, de los casos de violencia intrafamiliar que hayan sido canalizados, pidiendo informe al Director del Centro de Asistencia Jurídica, de los avances y trámites relativos al caso concreto;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
+X.- Dar seguimiento conforme a sus atribuciones, de los casos de violencia familiar que hayan sido canalizados, pidiendo informe al Director del Centro de Asistencia Jurídica, de los avances y trámites relativos al caso concreto;
 
-XI.- Al momento de canalizar un asunto de violencia intrafamiliar al Centro de Asistencia Jurídica, deberá solicitar que al convenio conciliatorio que en su caso se logre, sea agregada cláusula específica respecto de los tratamientos de orden sociocultural y terapéuticos necesarios para la prevención o no reincidencia de la conducta violenta de los canalizados;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
+XI.- Al momento de canalizar un asunto de violencia familiar al Centro de Asistencia Jurídica, deberá solicitar que al convenio conciliatorio que en su caso se logre, sea agregada cláusula específica respecto de los tratamientos, de orden sociocultural y terapéuticos necesarios para la prevención o no reincidencia de la conducta violenta de los canalizados;
 
-XII.- Solicitar al Director del Centro de Asistencia Jurídica, la ejecución de los convenios conciliatorios en representación del menor y/o de la víctima de la violencia intrafamiliar, cuando ésta así lo solicite u omita hacerlo directamente;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+XII.- Solicitar al Director del Centro de Asistencia Jurídica, la ejecución de los convenios conciliatorios en representación del menor y/o de la víctima de la violencia familiar, cuando ésta así lo solicite u omita hacerlo directamente;
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
 
@@ -333,15 +411,19 @@ XIII.- Las demás que se deriven de las disposiciones del presente ordenamiento 
 
 ### CAPITULO PRIMERO. REGLAS GENERALES
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 24.
 
-Los involucrados en un conflicto de violencia intrafamiliar, podrán ser atendidos mediante procedimientos sociopsicológicos y de trabajo social que infundan en el ánimo de los interesados la conciencia y el reconocimiento de la violencia intrafamiliar de que son víctimas.
+Los involucrados en un conflicto de violencia familiar, podrán ser atendidos mediante procedimientos sociopsicológicos y de trabajo social que infundan en el ánimo de los interesados la conciencia y el reconocimiento de la violencia familiar de que son víctimas.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
 Podrán verificarse dos o más entrevistas con los interesados con o sin citación de la parte agresora a fin de determinar si están de acuerdo en someterse a la resolución de su conflicto por la vía conciliatoria, para ser canalizados a la instancia correspondiente.
 
-En caso de recepcionar a una víctima con signos de violencia física derivada de un conflicto intrafamiliar, será canalizada a la mesa del Ministerio Público correspondiente.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+En caso de recepcionar a una víctima con signos de violencia física derivada de un conflicto familiar, será canalizada a la mesa del Ministerio Público correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
@@ -353,29 +435,39 @@ Los procedimientos a que se refiere el artículo anterior estarán a cargo de la
 
 La Procuraduría llevará un registro de sus actuaciones, del que informará por escrito y bimestralmente al Consejo, conforme a las disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 27.
 
-Las quejas por los actos de violencia intrafamiliar, podrán presentarse por:
+Las quejas por los actos de violencia familiar, podrán presentarse por:
 
 a) El receptor;
 
 b) Cualquier miembro de la familia;
 
-c) Los maestros y directivos de las instituciones educativas, así como el personal médico de los centros hospitalarios, cuando con motivo de su actividad, detecten cualquier circunstancia que haga presumible la existencia de violencia intrafamiliar;
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-Cualquier persona, distinta de las mencionadas en los incisos anteriores, que tenga conocimiento de la realización de actos considerados como violencia intrafamiliar.
+c. Los maestros y directivos de las instituciones educativas, así como el personal médico de los centros hospitalarios, cuando con motivo de su actividad, detecten cualquier circunstancia que haga presumible la existencia de violencia familiar;
 
-En cualquier caso de queja presentada por tercera persona, se citará a los generadores y receptores de la violencia intrafamiliar, o a quienes ejerzan la patria potestad o la tutela, solicitándose la presentación del o los menores o incapaces, para el efecto de que se les practique una valoración médica y psicológica, y se procederá conforme a lo dispuesto en el Artículo 24 de esta ley.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+Cualquier persona, distinta de las mencionadas en los incisos anteriores, que tenga conocimiento de la realización de actos considerados como violencia familiar.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+En cualquier caso de queja presentada por tercera persona, se citará a los generadores y receptores de la violencia familiar, o a quienes ejerzan la patria potestad o la tutela, solicitándose la presentación del o los menores o incapaces, para el efecto de que se les practique una valoración médica y psicológica, y se procederá conforme a lo dispuesto en el Artículo 24 de esta ley.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MARZO DE 2002)</small>
 
 ### CAPITULO SEGUNDO. DEL PROCEDIMIENTO INTERNO
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 28.
 
-Recibida la queja que ponga en conocimiento de esta Procuraduría un caso de violencia intrafamiliar, se procederá a documentar ya sea la queja directa de la víctima o bien, la declaración de cualquiera de las personas referidas en el Artículo 27 de esta ley, emitiendo la Procuraduría un acuerdo de inicio de trámite con las indicaciones precisas para el manejo del caso recibido, ordenando las actuaciones o diligencias de trabajo social terapéuticas, psicológicas, entrevistas, visitas domiciliarias y demás medidas necesarias, según el caso de que se trata.
+Recibida la queja que ponga en conocimiento de esta Procuraduría un caso de violencia familiar, se procederá a documentar ya sea la queja directa de la víctima o bien, la declaración de cualquiera de las personas referidas en el Artículo 27 de esta ley, emitiendo la Procuraduría un acuerdo de inicio de trámite con las indicaciones precisas para el manejo del caso recibido, ordenando las actuaciones o diligencias de trabajo social terapéuticas, psicológicas, entrevistas, visitas domiciliarias y demás medidas necesarias, según el caso de que se trata. Hecho lo anterior, se ordenará la citación del agresor a fin de llevar una entrevista previa en la que enterado de su calidad y de la gravedad de los hechos acaecidos en su seno familiar y de la posibilidad y alternativa de solución existente, sea asistido con los mismos beneficios de la víctima para indagar la causa generadora de su conducta violenta y emitir un dictamen necesario para la canalización.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
 Hecho lo anterior, se ordenará la citación del agresor a fin de llevar una entrevista previa en la que enterado de su calidad y de la gravedad de los hechos acaecidos en su seno familiar y de la posibilidad y alternativa de solución existente, sea asistido con los mismos beneficios de la víctima para indagar la causa generadora de su conducta violenta y emitir un dictamen necesario para la canalización.
 
@@ -385,11 +477,11 @@ Hecho lo anterior, se ordenará la citación del agresor a fin de llevar una ent
 
 En caso de que el agresor no se presentare a la cita programada, se continuará la integración del expediente a fin de turnar a la autoridad competente el caso en cuestión, determinando bajo su más prudente arbitrio del Procurador de la Defensa del Menor y la Familia, la acción competente a seguir.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 30.
 
-Compareciendo ambas partes y enteradas de los alcances y gravedad de la violencia intrafamiliar de que son sujetos y de los beneficios que para la solución de conflictos prevé la Constitución y la Ley de Justicia Alternativa, serán canalizados si así lo estimaren pertinente, al Centro de Asistencia Jurídica para la atención y tramitación de su conflicto, conscientes del sometimiento a los tratamientos de apoyo que esta Procuraduría tenga a bien determinar a efecto de evitar la reincidencia.
+Compareciendo ambas partes y enteradas de los alcances y gravedad de la violencia familiar de que son sujetos y de los beneficios que para la solución de conflictos prevé la Constitución y la Ley de Justicia Alternativa, serán canalizados si así lo estimaren pertinente, al Centro de Asistencia Jurídica para la atención y tramitación de su conflicto, conscientes del sometimiento a los tratamientos de apoyo que esta Procuraduría tenga a bien determinar a efecto de evitar la reincidencia.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
@@ -430,3 +522,7 @@ LIC. JOSE N. IRABIEN MEDINA.
 P.O. 15 DE MARZO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
