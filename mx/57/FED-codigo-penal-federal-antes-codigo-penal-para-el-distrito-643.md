@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2007-06-28"
+last_updated: "2007-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1021,9 +1021,9 @@ a) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el 
 
 b) Contra la salud, previsto en el artículo 194, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; y para la modalidad de transportación, si cumplen con los requisitos establecidos en los artículos 84 y 90, fracción I, inciso c), para lo cual deberán ser primodelincuentes, a pesar de no hallarse en los tres supuestos señalados en la excepción general de este inciso;
 
-> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
-c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Trata de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 205; Trata de personas, previsto en el artículo 207;
+c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 203 y 203 bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204;
 
 d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
@@ -1041,9 +1041,17 @@ i) Robo, previsto en los artículos 371, último párrafo; 372; 381 fracciones V
 
 j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis, o
 
-II. Los que incurran en segunda reincidencia de delito doloso, o sean considerados delincuentes habituales.
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
-Tratándose de los delitos comprendidos en el Título Décimo de este Código, la libertad preparatoria sólo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del artículo 30 o se otorgue caución que la garantice.
+II. Trata de personas previsto en los artículos 5 y 6 de la Ley para Prevenir y Sancionar la Trata de Personas.
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+Tratándose de los delitos comprendidos en el Titulo Décimo de este Código, la libertad preparatoria solo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del artículo 30 o se otorgue caución que la garantice.
 
 > <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2351,8 +2359,6 @@ Lenocinio de personas menores de dieciocho años de edad o de personas que no ti
 
 Trata de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 27 DE MARZO DE 2007)</small>
-
 ## TITULO NOVENO. Revelación de secretos y acceso ilícito a sistemas y equipos de informática
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
@@ -2525,35 +2531,61 @@ Al responsable de este delito se le impondrá prisión de ocho a quince años y 
 
 ###### ARTICULO 205.
 
-Comete el delito de trata de persona menor de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien promueva, facilite, consiga, traslade, entregue o reciba a una de estas personas para someterla a cualquier forma de explotación, ya sea explotación sexual, trabajos o servicios impuestos de manera coercitiva, o para que le sea extirpado cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio nacional, a quien cometa este delito se le impondrá prisión de ocho a quince años y de mil a dos mil quinientos días de multa.
+(DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2007)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+ARTICULO 205 bis.- Las sanciones señaladas en los artículos 200, 201, 202, 203 y 204 se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
 
 > <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
-ARTICULO 205 bis.- Las sanciones señaladas en los artículos 200, 201, 202, 203, 204 y 205 se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
-
 a) Los que ejerzan la patria potestad, guarda o custodia;
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
 b) Ascendientes o descendientes sin límite de grado;
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
+
 c) Familiares en línea colateral hasta cuarto grado;
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
 d) Tutores o curadores;
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
+
 e) Aquél que ejerza sobre la víctima en virtud de una relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
 f) Quien se valga de función pública para cometer el delito;
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
+
 g) Quien habite en el mismo domicilio de la víctima;
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
 h) Al ministro de un culto religioso;
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
+
 i) Cuando el autor emplee violencia física, psicológica o moral en contra de la víctima; y
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
 j) Quien esté ligado con la víctima por un lazo afectivo o de amistad, de gratitud, o algún otro que pueda influir en obtener la confianza de ésta.
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
+
 En los casos de los incisos a), b), c) y d) además de las sanciones señaladas, los autores del delito perderán la patria potestad, tutela o curatela, según sea el caso, respecto de todos sus descendientes, el derecho a alimentos que pudiera corresponderle por su relación con la víctima y el derecho que pudiera tener respecto de los bienes de ésta.
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
+
 En los casos de los incisos e), f) y h) además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
 En todos los casos el juez acordará las medidas pertinentes para que se le prohíba permanentemente al ofensor tener cualquier tipo de contacto o relación con la víctima.
 
@@ -2577,13 +2609,9 @@ II.- Al que induzca o solicite a una persona para que con otra, comercie sexualm
 
 III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 27 DE MARZO DE 2007)</small>
-
 ###### ARTICULO 207.
 
-Comete el delito de trata de personas quien promueva, facilite, consiga, traslade, entregue o reciba a una persona para someterla a cualquier forma de explotación, ya sea explotación sexual, trabajos o servicios impuestos de manera coercitiva, o para que le sean extirpados cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio nacional.
-
-Al autor de este delito se le impondrá pena de cuatro a nueve años y de cuatrocientos a novecientos días multa.
+(DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2007)
 
 > <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
@@ -6139,7 +6167,7 @@ SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el 
 
 D.O.F. 22 DE NOVIEMBRE DE 1996.
 
-]Unico.- Las reformas al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal a que se refiere el artículo QUINTO del presente Decreto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+Unico.- Las reformas al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal a que se refiere el artículo QUINTO del presente Decreto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 13 DE DICIEMBRE DE 1996.
 
@@ -6290,3 +6318,9 @@ D.O.F. 28 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+
+D.O.F. 27 DE NOVIEMBRE DE 2007.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 días hábiles.
