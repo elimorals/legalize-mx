@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-responsabilidades-de-los-servidores-publicos-del-26101"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-30"
-last_updated: "2004-06-04"
+last_updated: "2007-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 30 de septiembre de 2002.
 
@@ -351,9 +351,11 @@ En todo lo relativo al procedimiento del juicio político no previsto en esta Le
 
 ### CAPITULO I. OBLIGACIONES DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 47.
 
-Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban ser observadas en el servicio público, independientemente de las obligaciones específicas que correspondan al empleo, cargo o comisión, todo servidor público, sin perjuicio de sus derechos laborales, tendrá las siguientes obligaciones de carácter general:
+Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban ser observadas en el servicio público, independientemente de las obligaciones específicas que correspondan al empleo, cargo o comisión, todo servidor público sin perjuicio de sus derechos laborales tendrá las siguientes obligaciones de carácter general:
 
 I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
 
@@ -405,17 +407,21 @@ XXIV.- Proporcionar en forma oportuna y veraz, la información y datos solicitad
 
 XXV.- Cumplir con la entrega del despacho a su cargo en los términos que establezcan las disposiciones legales o administrativas que al efecto se establezcan;
 
-XXVI.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de utilizar los recursos públicos que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, o de proporcionar ese apoyo con su participación o a través de la de sus subordinados usando el tiempo correspondiente a sus labores para prestar servicios a un partido político o a un candidato; sin perjuicio de la responsabilidad penal que pudiere corresponderle.
+XXVI.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de utilizar los recursos públicos que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, o de proporcionar ese apoyo con su participación o a través de la de sus subordinados usando el tiempo correspondiente a sus labores para prestar servicios a un partido político o a un candidato; sin perjuicio de la responsabilidad penal que pudiere corresponderle;
 
 XXVII.- Abstenerse de adquirir para sí o para las personas a que se refiere la fracción XIV, bienes inmuebles que pudieren incrementar su valor o, en general, que mejore sus condiciones, como resultado de la realización de obras o inversiones públicas o privadas, que haya autorizado o tenido conocimiento con motivo de su empleo, cargo o comisión. Esta restricción será aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión;
 
 XXVIII.- El servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, lo siguiente:
 
-a)En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función que desempeñaba, para sí o para las personas a que se refiere la fracción XIV.
+a) En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función que desempeñaba, para sí o para las personas a que se refiere la fracción XIV.
 
-b)No usar en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público.
+b) No usar en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público;
 
-XXIX.- Las demás que le impongan las leyes, reglamentos, decretos, acuerdos y convenios vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+XXIX.- Recibir y dar curso por los superiores jerárquicos de toda queja por hostigamiento sexual o acoso sexual que le formulen sus subordinados;
+
+XXX.- Las demás que le impongan las leyes, reglamentos, decretos, acuerdos y convenios vigentes en el Estado.
 
 ###### ARTICULO 48.
 
@@ -643,7 +649,7 @@ Las resoluciones en las que se imponga sanciones administrativas, podrán ser im
 
 I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, ofreciendo las pruebas que considere necesario rendir;
 
-II.- La autoridad acordará sobre la admisión del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución. Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles, que a solicitud del servidor público o de la autoridad, podrá ampliarse una sola vez por cinco días mas; y
+II.- La autoridad acordará sobre la admisión del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución. Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles, que a solicitud del servidor público o de la autoridad, podrá ampliarse una sola vez por cinco días más; y
 
 III.- Concluido el período probatorio, el superior jerárquico emitirá resolución dentro de los quince días hábiles siguientes, notificando al interesado en un plazo no mayor de setenta y dos horas.
 
@@ -896,3 +902,7 @@ LIC. SONIA LETICIA ELÍAS CORAL
 P.O. 4 DE JUNIO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
