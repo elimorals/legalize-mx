@@ -4,7 +4,7 @@ identifier: "LGSC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-08-03"
-last_updated: "2001-06-04"
+last_updated: "2007-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSC"
 
 LEY GENERAL DE SOCIEDADES COOPERATIVAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 3 de agosto de 1994.
 
@@ -128,17 +128,19 @@ IV.- Tendrán duración indefinida, y
 
 V.- Se integrarán con un mínimo de cinco socios.
 
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 12.
 
-La constitución de las sociedades cooperativas deberá realizarse en Asamblea General que celebren los interesados, y en la que se levantará una acta que contendrá:
+La constitución de las sociedades cooperativas deberá realizarse en asamblea general que celebren los interesados, y en la que se levantara una acta que contendrá:
 
 I. Datos generales de los fundadores;
 
-II. Nombres de las personas que hayan resultado electas para integrar por primera vez consejos y comisiones, y
+II. Nombre de las personas que hayan resultado electas para integrar por primera vez consejos y comisiones, y
 
 III. Las bases constitutivas.
 
-Los socios deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa y de ser suyas las firmas o las huellas digitales que obran en el acta constitutiva, ante notario público, corredor público, juez de distrito, juez de primera instancia en la misma materia del fuero común, presidente municipal, secretario o delegado municipal del lugar en donde la sociedad cooperativa tenga su domicilio.
+Los socios deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa y de ser suyas las firmas o las huellas digitales que obran en el acta constitutiva, ante notario público, corredor público, juez de distrito, juez de primera instancia en la misma materia del fuero común, presidente municipal, secretario, delegado municipal o titular de los órganos político-administrativos del Distrito Federal, del lugar en donde la sociedad cooperativa tenga su domicilio.
 
 ###### Artículo 13.
 
@@ -268,9 +270,11 @@ II.- De participación estatal. Para tal efecto, el Estado podrá dar en concesi
 
 Son sociedades cooperativas ordinarias, las que para funcionar requieren únicamente de su constitución legal.
 
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 32.
 
-Son sociedades cooperativas de participación estatal, las que se asocien con autoridades federales, estatales o municipales, para la explotación de unidades productoras o de servicios públicos, dados en administración, o para financiar proyectos de desarrollo económico a niveles local, regional o nacional.
+Son sociedades cooperativas de participación estatal, las que se asocien con autoridades federales, estatales, municipales o los órganos político-administrativos del Distrito Federal, para la explotación de unidades productoras o de servicios públicos, dados en administración, o para financiar proyectos de desarrollo económico a niveles local, regional o nacional.
 
 > <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -668,29 +672,37 @@ VI.- Realizar en común cualquier acto de comercio, desarrollo tecnológico o cu
 
 Las sociedades cooperativas, uniones, federaciones y confederaciones, podrán efectuar operaciones libremente ya sea en forma individual o en conjunto. El Consejo Superior del Cooperativismo y en su caso las autoridades respectivas, darán toda la orientación y apoyo necesario para esta clase de operaciones.
 
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 89.
 
-Los organismos cooperativos deberán colaborar en los planes económico-sociales que realicen los gobiernos Federal, Estatal o Municipal y que beneficien o impulsen de manera directa el desarrollo cooperativo.
+Los organismos cooperativos deberán colaborar en los planes económico-sociales que realicen los gobiernos federal, estatal, municipal o los órganos político-administrativos del Distrito Federal y que beneficien o impulsen de manera directa el desarrollo cooperativo.
 
 ## Título IV
 
 ### Capítulo Unico. Del apoyo a las sociedades cooperativas
 
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 90.
 
-Los gobiernos Federal, Estatal y Municipal, apoyarán a las escuelas, institutos y organismos especializados en educación cooperativa que establezca el Movimiento Cooperativo Nacional. Asimismo, apoyarán la labor que en este sentido realicen las universidades o instituciones de educación superior en el país.
+Los órganos federal, estatal, municipal y órganos político-administrativos del Distrito Federal, apoyarán a las escuelas, institutos y organismos especializados en educación cooperativa que establezca el movimiento cooperativo nacional. Asimismo, apoyarán, la labor que en este sentido realicen las universidades o instituciones de educación superior en el país.
 
 ###### Artículo 91.
 
 Todos los actos relativos a la constitución y registro de las sociedades cooperativas citados en esta Ley, estarán exentos de impuestos y derechos fiscales de carácter federal. Para este efecto, la autoridad competente expedirá las resoluciones fiscales que al efecto procedan.
 
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 92.
 
-En los programas económicos o financieros de los gobiernos Federal, Estatal y Municipal, que incidan en la actividad cooperativa mexicana, se deberá tomar en cuenta la opinión, según sea el caso, de las federaciones, uniones, confederaciones nacionales y del Consejo Superior del Cooperativismo.
+En los programas económicos o financieros de los gobiernos, federal, estatal, municipal y los órganos político-administrativos del Distrito Federal, que incidan en la actividad cooperativa mexicana, se deberá tomar en cuenta la opinión, según sea el caso, de las federaciones, uniones, confederaciones nacionales y del consejo superior del cooperativismo.
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 93.
 
-Los gobiernos Federal, Estatal y Municipal, apoyarán, en el ámbito territorial a su cargo y en la medida de sus posibilidades, al desarrollo del cooperativismo.
+Los gobiernos federal, estatal, municipal y los órganos político-administrativos del Distrito Federal, apoyarán, en el ámbito territorial a su cargo y en la medida de sus posibilidades, al desarrollo del cooperativismo.
 
 ###### Artículo 94.
 
@@ -737,3 +749,9 @@ DÉCIMO.- Al momento de instalarse el primer consejo de administración de una S
 Cuando el número de integrantes sea impar, se elegirá por insaculación durante la instalación del consejo de administración, al miembro excedente que formará parte de la primera mitad, a fin de proceder en periodos subsecuentes a la renovación parcial del mismo. En el caso del consejo de vigilancia, se procederá de la misma forma.
 
 DÉCIMO SEXTO.- Se derogan todas las disposiciones que se opongan a esta Ley.
+
+D.O.F. 27 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
