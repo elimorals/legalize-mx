@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-turismo-del-estado-de-guerrero-38161"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-24"
-last_updated: "2004-02-24"
+last_updated: "2007-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 137, DE TURISMO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 24 de febrero de 2004.
 
@@ -109,7 +109,9 @@ VI.- Los restaurantes, cafeterías, bares, centros nocturnos y similares ubicado
 
 VII.- Las empresas de sistema de intercambio de servicios turísticos;
 
-VIII.- Los encargados de actividades acuáticas, tales como buceo, snorkel, windsurf, ski, motos acuáticas, paracaídas, bananas, surf y todas aquellas que se realizan en la zona marítima federal.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+VIII.- Los encargados de actividades acuáticas, tales como buceo, snorkel, windsurf, ski, motos acuáticas, paracaídas, bananas, surf, pesca deportiva y todas aquellas que se realizan en la zona marítima federal.
 
 Los prestadores de los servicios que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo, podrán solicitar su inscripción en el Registro Nacional de Turismo, siempre que cumplan con los requisitos que la Secretaría Federal de Turismo y las Normas Oficiales Mexicanas fijen por medio de las disposiciones generales.
 
@@ -121,7 +123,9 @@ Los prestadores de los servicios que no se encuentren comprendidos en este artí
 
 La planeación del desarrollo de la actividad turística en el Estado estará a cargo de la Secretaría, la que coordinará el Programa Sectorial de Turismo; se sujetará a lo previsto en el Plan Estatal de Desarrollo y especificará los objetivos, prioridades y políticas que normarán el sector en la Entidad.
 
-El desarrollo turístico se fundará esencialmente en la coordinación de acciones con el Gobierno Federal, con otras entidades federativas y con los municipios mediante acuerdos de concertación con los sectores social y privado.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+El desarrollo turístico se fundará esencialmente en la coordinación de acciones con el Gobierno Federal, con otras Entidades Federativas, los Municipios y el Congreso del Estado, mediante acuerdos de concertación con los sectores social y privado.
 
 ###### Artículo 6.
 
@@ -147,9 +151,11 @@ La Secretaría podrá celebrar todo tipo de convenios o acuerdos con organismos 
 
 ### CAPITULO II. DEL PROGRAMA SECTORIAL DE TURISMO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 10.
 
-Se considera de interés público la formulación y adecuación periódica de un Plan Estatal de Turismo, que tendrá por objetivo fijar los principios normativos y fundamentales para la planeación, fomento y desarrollo del turismo en el Estado, así como asegurar la congruencia entre los propósitos y acciones en materia turística, de conformidad a lo establecido en el Plan Estatal de Desarrollo y en los objetivos fundamentales de esta Ley.
+Se considera de interés público la formulación y adecuación periódica de un Plan Estatal de Turismo, que tendrá por objetivo fijar los principios normativos y fundamentales para la planeación, fomento y desarrollo del turismo en el Estado, así como asegurar la congruencia entre los propósitos y acciones en materia turística, de conformidad a lo establecido en el Plan Estatal de Desarrollo y en los objetivos fundamentales de esta Ley, dicho Plan Estatal de Turismo se remitirá al Congreso del Estado para su conocimiento.
 
 El Programa Sectorial de Turismo se formulará, revisará y evaluará conforme a los términos establecidos en la Ley de Planeación del Estado, a fin de valorar los resultados, logros y avances de las acciones realizadas en materia turística.
 
@@ -772,3 +778,11 @@ El Secretario General de Gobierno.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
