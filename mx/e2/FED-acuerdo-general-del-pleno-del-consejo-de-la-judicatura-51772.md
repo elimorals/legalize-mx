@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2007-05-18"
+last_updated: "2007-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1315,9 +1315,13 @@ IV. Presentar a la consideración de la Comisión de Administración y del Pleno
 
 V. Validar el presupuesto programático autorizado correspondiente a las diversas unidades ejecutoras de gasto y presentar su propuesta de distribución ante la Comisión de Administración y el Pleno para su autorización;
 
-VI. Coordinar y llevar a cabo el seguimiento del cumplimiento del programa operativo anual, a través de las áreas competentes, e informar bimestralmente sobre sus avances;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
-VII. Coordinar y supervisar la elaboración, integración y presentación ante las instancias superiores del Consejo, de los informes mensuales y trimestrales sobre el avance del programa operativo anual, presupuesto de egresos y demás informes que permitan dar seguimiento y cumplimiento al proceso programático-presupuestal, así como al ejercicio del presupuesto asignado;
+VI. Coordinar y llevar a cabo el seguimiento del cumplimiento del programa anual de trabajo, a través de las áreas competentes, e informar sobre sus avances;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+VII. Coordinar y supervisar la elaboración, integración y presentación ante las instancias superiores del Consejo, de los informes mensuales y trimestrales sobre el avance del cumplimiento de metas, el presupuesto de egresos y demás informes que permitan dar seguimiento y cumplimiento al proceso programático-presupuestal, así como al ejercicio del presupuesto asignado;
 
 VIII. Coordinar la revisión y autorización de las adecuaciones presupuestarias solicitadas por las unidades ejecutoras del gasto;
 
@@ -2071,7 +2075,9 @@ XVI. Participar en el Programa de Protección Civil en coordinación con las div
 
 XVII. Atender los asuntos planteados por los representantes sindicales ante las autoridades del Consejo;
 
-XVIII. Formular y proponer su respectivo anteproyecto de presupuesto y su programa operativo anual, con apego a las políticas y lineamientos que emita el Pleno;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+XVIII. Formular y proponer su respectivo anteproyecto de presupuesto, con apego a las políticas y lineamientos que emita el Pleno;
 
 XIX. Coordinar la prestación de servicio social en áreas administrativas;
 
@@ -2175,7 +2181,9 @@ X. Participar en el Programa de Protección Civil, en coordinación con las dive
 
 XI. Atender, en el ámbito de su competencia, los asuntos planteados por los representantes sindicales ante las autoridades del Consejo;
 
-XII. Formular y proponer su respectivo anteproyecto de presupuesto y su programa operativo anual, con apego a las políticas y lineamientos que emita el Consejo;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+XII. Formular y proponer su respectivo anteproyecto de presupuesto, con apego a las políticas y lineamientos que emita el Consejo;
 
 XIII. Efectuar el seguimiento de los seguros de los servidores públicos;
 
@@ -2517,7 +2525,9 @@ XII. Integrar los anteproyectos de presupuesto de los órganos jurisdiccionales 
 
 XIII. Apoyar a la secretaria ejecutiva en la gestión, ante las instancias competentes, de los requerimientos de recursos humanos, materiales y financieros para la operación de los órganos jurisdiccionales ubicados en el interior de la República, así como de las administraciones regionales y delegaciones administrativas;
 
-XIV. Formular y presentar el anteproyecto de presupuesto de la Dirección General, así como el programa operativo anual, con apego a las políticas, normas y lineamientos que emita el Consejo;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+XIV. Formular y presentar el anteproyecto de presupuesto de la Dirección General, con apego a las políticas, normas y lineamientos que emita el Consejo;
 
 XV. Proporcionar la asistencia que en materia de servicios administrativos solicitan los titulares de los órganos jurisdiccionales y áreas administrativas, así como mantenerlos informados sobre la evolución de las gestiones y cumplimiento de sus solicitudes;
 
@@ -2683,7 +2693,9 @@ XXIV. Apoyar, en el ámbito de sus responsabilidades, la realización de eventos
 
 XXV. Proponer, coordinar y supervisar el Programa de Austeridad y Disciplina Presupuestal del Consejo, de conformidad con los acuerdos que se emitan;
 
-XXVI. Formular y proponer su respectivo anteproyecto de presupuesto y su programa operativo anual, con apego a las políticas y lineamientos que emita el Pleno;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+XXVI. Formular y proponer su respectivo anteproyecto de presupuesto, con apego a las políticas y lineamientos que emita el Pleno;
 
 XXVII. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos;
 
@@ -2793,7 +2805,9 @@ XLVI. Participar, en coordinación con la Dirección General de Informática de 
 
 XLVII. Asesorar a las unidades administrativas y órganos auxiliares que integran el Consejo, en los aspectos técnico-administrativos que le sean requeridos;
 
-XLVIII. Formular y proponer su respectivo anteproyecto de presupuesto y su programa operativo anual, con apego a las políticas y lineamientos que emita el Consejo;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+XLVIII. Formular y proponer su respectivo anteproyecto de presupuesto, con apego a las políticas y lineamientos que emita el Consejo;
 
 XLIX. Requerir a la Tesorería de la Federación el calendario de ministración de fondos autorizado por la Secretaría de Hacienda y Crédito Público;
 
@@ -2801,7 +2815,9 @@ L. Elaborar y presentar su programa anual de trabajo, de actividades y los repor
 
 LI. Efectuar en coordinación con la Dirección General de Recursos Humanos, la estimación del gasto por concepto de servicios personales en el anteproyecto de Presupuesto de Egresos del Consejo, para prever las partidas correspondientes;
 
-LII. Consolidar la información recibida de las unidades administrativas y órganos auxiliares correspondientes al Programa Operativo Anual;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+LII. Consolidar la información recibida de las unidades administrativas y órganos auxiliares correspondientes al programa anual de trabajo;
 
 LIII. Establecer en forma conjunta con la Dirección General de Tesorería, el programa de pagos;
 
@@ -2867,7 +2883,9 @@ XIX. Gestionar las solicitudes del Consejo, ante la institución bancaria autori
 
 XX. Solicitar a las áreas facultadas el apoyo necesario en materia de seguridad y logística, a efecto de salvaguardar los recursos financieros y humanos de la Tesorería;
 
-XXI. Formular y proponer su respectivo anteproyecto de presupuesto y su programa operativo anual de actividades, con apego a las políticas y lineamientos que emita el Consejo;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+XXI. Formular y proponer su respectivo anteproyecto de presupuesto, con apego a las políticas y lineamientos que emita el Consejo;
 
 XXII. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos;
 
@@ -3502,3 +3520,15 @@ CUARTO.- El equipo televisivo que obra bajo resguardo de la Dirección General d
 QUINTO.- Los servidores públicos adscritos a la Dirección General de Comunicación Social que desempeñan funciones relacionadas con las atribuciones que el presente Acuerdo confiere a la Dirección General de Imagen Institucional, se integrarán con su plaza a esta última dirección general, conservando sus derechos laborales, previo acuerdo de los titulares.
 
 SEXTO.- La Secretaría Ejecutiva de Administración debe realizar los movimientos necesarios para actualizar la plantilla de personal, conforme a lo ordenado en el transitorio anterior, y la Secretaría Ejecutiva de Finanzas debe actualizar y alinear los manuales de organización y de procedimientos conforme a la redistribución de atribuciones ordenadas en este Acuerdo.
+
+D.O.F. 27 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Dentro del término de sesenta días hábiles siguientes a la entrada en vigor del presente, deberán emitirse los manuales, lineamientos y demás normativa relativa al Programa Anual de Trabajo.
+
+CUARTO.- Se derogan las disposiciones emitidas por el Consejo que se opongan al presente acuerdo.
+
+QUINTO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, así como al Acuerdo General 18/2000, del Pleno del Consejo de la Judicatura Federal, por el que se Desconcentra a las Administraciones Regionales la Función Administrativa de Atención a los Organos Jurisdiccionales Federales y Areas del propio Consejo en el Interior de la República.
