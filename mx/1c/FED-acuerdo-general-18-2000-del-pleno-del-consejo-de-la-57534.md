@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-18-2000-del-pleno-del-consejo-de-la-57534"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-03-24"
-last_updated: "2000-03-24"
+last_updated: "2007-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-03-15"
 
 ACUERDO GENERAL NUMERO 18/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DESCONCENTRA A LAS ADMINISTRACIONES REGIONALES LA FUNCION ADMINISTRATIVA DE ATENCION A LOS ORGANOS JURISDICCIONALES FEDERALES Y AREAS DEL PROPIO CONSEJO EN EL INTERIOR DE LA REPUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de marzo de 2000.
 
@@ -251,7 +251,7 @@ XXX. Coordinar los trámites para contratar, y en su caso suscribir, de conformi
 
 18. Mudanzas de menaje de casas de Magistrados y Jueces; y,
 
-19. Los demás que determinen la Secretaría Ejecutiva de Administración, la Comisión de Administración y el Pleno del Consejo;
+19. Los demás que determinen la Secretaría Ejecutiva de Administración, la Comisión de Administración y el Pleno del Consejo.
 
 XXXI. Coordinar los trámites para contratar, y en su caso suscribir, de conformidad con los lineamientos que determine el Pleno del Consejo, el servicio de estacionamiento para el personal de las Unidades Foráneas, así como llevar a cabo su asignación y control;
 
@@ -325,7 +325,9 @@ X. Librar los cheques para el pago a proveedores, acreedores, contratistas y pre
 
 XI. Proporcionar la información necesaria para la elaboración del anteproyecto de presupuesto de las Unidades Foráneas;
 
-XII. Elaborar el proyecto del Programa Operativo Anual de las funciones administrativas de su competencia;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO 18/2000, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
+XII. Elaborar el Programa Anual de Trabajo, respecto de las funciones administrativas de su competencia;
 
 XIII. Efectuar los pagos de aportaciones del 2% al Sistema de Ahorro para el Retiro, y del 12.75% por concepto de Seguridad Social del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -370,3 +372,17 @@ SEPTIMO.- Se derogan, en lo conducente, los Acuerdos y Circulares emitidos por e
 OCTAVO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 18/2000, por el que se desconcentra a las Administraciones Regionales la función administrativa de atención a los órganos jurisdiccionales federales y áreas del propio Consejo en el interior de la República, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de quince de marzo de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a dieciséis de marzo de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 27 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Dentro del término de sesenta días hábiles siguientes a la entrada en vigor del presente, deberán emitirse los manuales, lineamientos y demás normativa relativa al Programa Anual de Trabajo.
+
+CUARTO.- Se derogan las disposiciones emitidas por el Consejo que se opongan al presente acuerdo.
+
+QUINTO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, así como al Acuerdo General 18/2000, del Pleno del Consejo de la Judicatura Federal, por el que se Desconcentra a las Administraciones Regionales la Función Administrativa de Atención a los Organos Jurisdiccionales Federales y Areas del propio Consejo en el Interior de la República.
