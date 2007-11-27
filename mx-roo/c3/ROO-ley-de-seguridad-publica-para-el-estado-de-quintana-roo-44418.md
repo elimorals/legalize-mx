@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-para-el-estado-de-quintana-roo-44418"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2005-03-28"
+last_updated: "2007-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 28 de marzo de 2005.
 
@@ -313,9 +313,11 @@ VII. Ejecutar los programas y acciones diseñados para garantizar la seguridad p
 
 VIII. Las demás que le asigne esta Ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 25.
 
-Para la adecuada coordinación de las acciones de su competencia, las policías; estatal Preventiva y la municipal preventiva tendrán las siguientes atribuciones concurrentes:
+Para la adecuada coordinación de las acciones de su competencia, la policía estatal preventiva y la municipal preventiva, tendrán las siguientes atribuciones concurrentes:
 
 I. Ejecutar las acciones necesarias para asegurar, mantener o restablecer el orden y la tranquilidad públicas, protegiendo los intereses de la sociedad;
 
@@ -333,9 +335,13 @@ VII. Reportar al mando superior, cualquier deficiencia existente en la prestaci�
 
 VIII. Respetar y proteger los derechos humanos;
 
-IX. Prestar auxilio a la población, en caso de siniestros o accidentes, en coordinación con las instancias de protección civil correspondientes y con otros Cuerpos Policiales del Estado y los Municipios; y
+IX. Prestar auxilio a la población, en caso de siniestros o accidentes, en coordinación con las instancias de protección civil correspondientes y con otros Cuerpos Policiales del Estado y los Municipios; y (sic)
 
-X. Las demás que determinen la presente Ley y les señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+
+X. Otorgar y ejecutar las medidas de protección preventivas de conformidad con lo dispuesto por la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, y dar parte en forma inmediata a las autoridades competentes para conocer el hecho del cual se deriven, según sean probablemente constitutivos de infracciones o de delitos; y
+
+XI. Las demás que determinen la presente Ley y les señalen otras disposiciones aplicables.
 
 ###### Artículo 26.
 
@@ -1303,6 +1309,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO.
 
 LIC. JOAQUÍN ERNESTO HENDRÍCKS DÍAZ
 
-EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
+EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 PEDRO JOSE FLOTA ALCOCER
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 27 DE NOVIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
