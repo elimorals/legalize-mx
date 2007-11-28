@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2007-06-28"
+last_updated: "2007-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
@@ -13293,601 +13293,335 @@ PAGO DE CREDITOS NO COMPRENDIDOS EN LOS ANTERIORES. Con los bienes restantes ser
 
 ###### ARTICULO 2478.
 
-FUNCION DEL REGISTRO PUBLICO DE LA PROPIEDAD. El Registro Público de la Propiedad es la institución mediante la cual el Estado presta el servicio de dar publicidad a los actos jurídicos que conforme a la Ley, deban surtir efectos contra terceros; sus oficinas se establecerán en la ciudad de Cuernavaca. El Ejecutivo del Estado podrá determinar que se establezcan oficinas del Registro Público de la Propiedad en otras ciudades de la Entidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2479.
 
-ESTABLECIMIENTO DE LAS OFICINAS DEL REGISTRO PUBLICO DE LA PROPIEDAD. El Reglamento fijará el sistema y métodos para la organización y funcionamiento del Registro Público de la Propiedad, el número de secciones y la sección en que deban inscribirse los títulos y demás documentos objeto de registro. En el mismo ordenamiento se regulará lo relativo a las certificaciones que deba expedir la institución.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2480.
 
-NATURALEZA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y OBLIGACIONES GENERALES DE SUS ENCARGADOS. El Registro tendrá carácter público, por lo que, toda persona podrá solicitar la prestación del servicio para conocer la situación jurídica de cualquier inscripción en él efectuada.
-
-Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en el Registro Público de la Propiedad y de los documentos relacionados con las inscripciones que se hubieren archivado.
-
-Igualmente tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en el propio Registro y de los documentos relativos, así como certificaciones de existir o no asientos correspondientes a los bienes que se señalen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2481.
 
-ESTABLECIMIENTO REGLAMENTARIO PARA DESEMPEÑAR CARGO EN EL REGISTRO PUBLICO. El Reglamento determinará los requisitos que deban cumplirse para desempeñar los cargos que requiera la organización y funcionamiento del Registro Público de la Propiedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2482.
 
-CASOS EN QUE PROCEDE EL PAGO DE DAÑOS Y PERJUICIOS POR LOS ENCARGADOS DEL REGISTRO PUBLICO. Los encargados del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que diere lugar:
-
-I.- Si rehusan sin motivo legal o retardan sin causa justificada la inscripción de los documentos que les sean presentados;
-
-II.- Si rehusan expedir con prontitud los certificados que les pidan; y
-
-III.- Si cometen omisiones al extender las certificaciones mencionadas, salvo si el error proviene de insuficiencia o inexactitud de las declaraciones, que no les sean imputables.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO II. DISPOSICIONES COMUNES A LOS DOCUMENTOS REGISTRABLES
 
 ###### ARTICULO 2483.
 
-DOCUMENTOS INSCRIBIBLES. Sólo se registrarán:
-
-I.- Los testimonios de escrituras o actas notariales y otros documentos auténticos;
-
-II.- Las resoluciones y providencias judiciales que consten de manera auténtica;
-
-III.- Los documentos privados que bajo esta forma fueren válidos con arreglo a la Ley, siempre que al calce de los mismos exista la constancia de que el Notario o el registrador, se cercioraron de la voluntad de las partes, de su identidad y de la correspondencia de sus firmas. Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar impreso el sello respectivo; y,
-
-IV.- Los documentos y contratos privados previstos en los artículos 1805, último párrafo y 2367 de este Código y en otras leyes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2484.
 
-INSCRIPCION DE ACTOS CELEBRADOS EN LA REPUBLICA MEXICANA O EXTRANJEROS CON EFECTOS EN MORELOS. Los actos ejecutados y los contratos celebrados en otra entidad federativa o en el extranjero, sólo se inscribirán si tienen el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público de la Propiedad, y deban tener efectos en el Estado de Morelos.
-
-Si los documentos respectivos apareciesen redactados en idioma extranjero y se encuentran debidamente legalizados, deberán ser traducidos previamente por perito oficial y protocolizados ante Notario.
-
-Las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con las leyes mexicanas y si ordena su ejecución la autoridad judicial competente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2485.
 
-EFECTOS DE LAS INSCRIPCIONES EN EL REGISTRO PUBLICO DE LA PROPIEDAD. La inscripción de los actos o contratos en el Registro Publico de la Propiedad tiene efectos declarativos.
-
-Los documentos que, conforme a este Código, sean registrables y no se registren, sólo producirán efectos entre quienes los otorguen pero no producirán efectos en perjuicio de tercero, el cual sí podrá aprovecharse en cuanto le fueren favorables.
-
-La inscripción no convalida los actos o contratos que sean inexistentes o nulos con arreglo a las leyes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2486.
 
-PROTECCION REGISTRAL A TERCEROS DE BUENA FE. El Registro protege los derechos adquiridos por tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante, excepto cuando la causa de nulidad resulte claramente del mismo registro.
-
-Lo dispuesto por este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando la ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2487.
 
-PRESUNCION REGISTRAL DE TITULARIDAD, PRETENSION CONTRADICTORIA DE DOMINIO Y DUEÑO DISTINTO DE LA PERSONA A QUIEN SE SIGUIO EL PROCEDIMIENTO DE APREMIO. El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión, tiene la posesión del inmueble inscrito.
-
-No podrá ejercitarse pretensión contradictoria del dominio de inmuebles o de derechos reales determinados sobre los mismos inscritos o anotados a favor de persona o entidad determinada, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
-
-En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro Público de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la pretensión, como causahabiente del que aparece como dueño en el Registro Público de la Propiedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2488.
 
-CONSTANCIA REGISTRAL DE DERECHOS REALES Y GRAVAMENES O LIMITACIONES A ESTOS PARA SURTIR EFECTOS FRENTE A TERCEROS. Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar en el asiento de la finca sobre la cual recaigan, en la forma que determine el Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO III. DE LA PRELACION Y LA PRIORIDAD REGISTRALES
 
 ###### ARTICULO 2489.
 
-PRELACION REGISTRAL. El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2490.
 
-AVISO PREVENTIVO SOBRE OPERACIONES CON EFECTOS VINCULADOS A LA PROPIEDAD O POSESION DE BIENES INMUEBLES. Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el Notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al Registro Público de la Propiedad, certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud, que surtirá efectos de aviso preventivo, deberá mencionar la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud y sin cobro de derechos por éste concepto, practicará inmediatamente la nota de presentación en la parte respectiva del asiento correspondiente, nota que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
-
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o autoridad ante quien se otorgó, dará aviso preventivo acerca de la operación de que se trate, al Registro Público de la Propiedad dentro de los dos días hábiles siguientes y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del plazo de treinta días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
-
-Si el testimonio respectivo se presentare al Registro Público de la Propiedad dentro de cualquiera de los plazos que señalan los párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
-
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso preventivo, con vigencia por noventa días, el notario o la autoridad judicial competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios cuando se trata de instrumentos públicos. Si el contrato se ratificara ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2491.
 
-PRECLUSION DE LA PRELACION REGISTRAL. La prelación registral precluye cuando al documento que ingresó con antelación a otro, le es negada la prestación del servicio mediante la calificación registral, una vez que se agoten las instancias administrativas del Registro Público de la Propiedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2492.
 
-PRIORIDAD REGISTRAL. La preferencia entre derechos reales sobre una misma finca u otros derechos, se determinará por la prioridad de su inscripción en el Registro Público de la Propiedad, cualquiera que sea la fecha de su constitución.
-
-El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente aun cuando su inscripción sea posterior, siempre que se dé el aviso que previene el artículo 2490 de este Código.
-
-Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste será preferente, aun cuando tal aviso se hubiese dado extemporáneamente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2493.
 
-PRODUCCION DE EFECTOS DE LOS ASIENTOS REGISTRALES. Los asientos del Registro Público de la Propiedad en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución judicial contraria.
-
-La inscripción definitiva de un derecho que haya sido anotado previamente, surtirá sus efectos desde la fecha en que esta anotación los produjo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO IV. DE LA LEGITIMACION
 
 ###### ARTICULO 2494.
 
-PERSONAS QUE PUEDEN SOLICITAR LA INSCRIPCION O ANOTACION. La inscripción o anotación de los títulos en el Registro Público de la Propiedad, puede pedirse por quien tenga interés legítimo en el derecho que se va a inscribir o anotar, o por el notario que haya autorizado la escritura de que se trate.
-
-Efectuado el registro, serán devueltos los documentos a quien los presente, con la anotación de la hora, día, mes, año y demás datos de su registro.
-
-No podrá realizarse inscripción alguna de manera oficiosa por los encargados del Registro Público de la Propiedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2495.
 
-REQUISITOS PREVIOS PARA LA ANOTACION O INSCRIPCION DEL TITULO SUJETO A REGISTRO. Para inscribir o anotar cualquier título deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquél o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2496.
 
-IMPOSIBILIDAD DE INSCRIPCION DE UN TITULO IGUAL AL REGISTRADO. Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha, que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
-
-Tampoco podrá inscribirse o anotarse otro título de la clase antes expresada, mientras estén vigentes los avisos a que se refiere el artículo 2490 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO V. DE LA CALIFICACION REGISTRAL
 
 ###### ARTICULO 2497.
 
-NOCION DE CALIFICACION REGISTRAL. La calificación registral es el acto por el cual el registrador analiza el contenido del documento inscribible, estableciendo si reúne o no los requisitos legales para su inscripción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2498.
 
-SUSPENSION O DENEGACION DEL SERVICIO REGISTRAL. Los registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación, la que suspenderán o denegarán en los casos siguientes:
-
-I.- Cuando el título presentado no sea de los que deben inscribirse o anotarse;
-
-II.- Cuando el documento no revista las formas extrínsecas que establezca la Ley;
-
-III.- Cuando los funcionarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
-
-IV.- Cuando el contenido del documento sea contrario a las Leyes prohibitivas o de interés público;
-
-V.- Cuando haya incompatibilidad entre el texto del documento y los asientos del registro;
-
-VI.- Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 2488 de este Código, se dan las bases para determinar el monto de la obligación garantizada; y
-
-VII.- Cuando falte algún otro requisito que deba llenar el documento de acuerdo con este Código u otras leyes aplicables.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2499.
 
-RECURSO ADMINISTRATIVO REGISTRAL. La calificación hecha por el registrador podrá recurrirse ante el Director del Registro Público de la Propiedad, en los términos que prevenga el Reglamento. Si éste confirma la calificación, el perjudicado por ella podrá reclamarla en juicio.
-
-Si la autoridad judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos, desde que por primera vez se presentó el título, si se hubiere hecho la anotación preventiva a que se refiere la fracción V del artículo 2518 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO VI. DE LA RECTIFICACION DE LOS ASIENTOS REGISTRALES
 
 ###### ARTICULO 2500.
 
-PROCEDENCIA DE LA RECTIFICACION DE LOS ASIENTOS REGISTRALES. La rectificación de los asientos por causa de error material o de concepto, sólo procede cuando exista discrepancia entre el título y la inscripción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2501.
 
-CONCEPTO DE ERROR MATERIAL. Se entenderá que se comete error material cuando se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por ello el sentido general de la inscripción ni el de alguno de sus conceptos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2502.
 
-NOCION DE ERROR DE CONCEPTO. Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varíe su sentido, porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2503.
 
-RECTIFICACION DE LOS ASIENTOS REGISTRALES POR ERRORES DE CONCEPTO. Cuando se trate de errores de concepto, los asientos practicados en los folios del Registro Público de la Propiedad sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento.
-
-A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
-
-En caso de que el registrador se oponga a la rectificación se observará lo dispuesto en el artículo 2499 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2504.
 
-EFECTOS DEL ASIENTO RECTIFICADO. El asiento rectificado por error de concepto, surtirá efectos desde la fecha de su rectificación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO VII. DE LA EXTINCION DE ASIENTOS REGISTRALES
 
 ###### ARTICULO 2505.
 
-CAUSA DE EXTINCION DE LAS INSCRIPCIONES REGISTRALES. Las inscripciones no se extinguen en cuanto a tercero sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a favor de otra persona.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2506.
 
-CAUSAS DE EXTINCION DE LAS ANOTACIONES PREVENTIVAS. Las anotaciones preventivas se extinguen por cancelación, por caducidad o por su conversión en inscripción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2507.
 
-CANCELACION DE LAS INSCRIPCIONES Y ANOTACIONES. Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte, sin dichos requisitos, cuando el derecho inscrito o anotado quede extinguido por disposición de la Ley o por causas que resulten del título en cuya virtud se practicó la inscripción o anotación, debido a hecho que no requiera la intervención de la voluntad.
-
-Para que el asiento pueda cancelarse por consentimiento de las partes, éste deberá constar en escritura pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2508.
 
-TIPOS DE CANCELACION DE INSCRIPCIONES Y ANOTACIONES REGISTRALES. La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2509.
 
-SOLICITUD Y ORDENACION DE LA CANCELACION TOTAL. Podrá pedirse y deberá ordenarse, en su casó la cancelación total:
-
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
-
-II.- Cuando se extinga, también por completo, el derecho inscrito o anotado;
-
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación;
-
-IV.- Cuando se declare la nulidad del asiento;
-
-V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 1812 de este Código; y
-
-VI.- Cuando tratándose de cédula hipotecaria o de embargo hayan transcurrido dos años desde la fecha del asiento, sin que el interesado hubiere promovido en el juicio correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2510.
 
-SOLICITUD Y ORDENACION DE LA CANCELACION PARCIAL. Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
-
-I.- Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva; y
-
-II.- Cuando se reduzca el derecho inscrito o anotado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2511.
 
-CADUCIDAD DE LAS ANOTACIONES PREVENTIVAS. Las anotaciones preventivas, cualquiera que sea su origen caducarán a los tres años de su fecha, salvo aquellas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
-
-La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo, pero cualquier interesado podrá solicitar en este caso que se registre la cancelación de dicho asiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2512.
 
-EFECTOS DE LA CANCELACION DE UN ASIENTO REGISTRAL. Cancelado un asiento, se presume extinguido el derecho a que dicho asiento se refiere.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2513.
 
-CONSENTIMIENTO DE LA CANCELACION REGISTRAL POR REPRESENTANTES. Los padres como administradores de los bienes de sus hijos, los tutores de menores o incapacitados y cualesquiera otros administradores o representantes, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2514.
 
-CANCELACION TOTAL DE HIPOTECAS. La cancelación de las inscripciones de hipoteca constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I.- Presentándose la escritura otorgada por la que se hayan cobrado los créditos, en la cual debe constar haberse inutilizado los títulos endosables en el acto de su otorgamiento; y
-
-II.- Por ofrecimiento del pago y consignación del importe de los títulos, tramitados y resueltos de acuerdo con las disposiciones legales relativas.
-
-Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.
-
-Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2515.
 
-CANCELACION PARCIAL DE HIPOTECAS. Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trate, presentando acta notarial que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la décima parte del total de la emisión.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2516.
 
-CANCELACION TOTAL O PARCIAL DE HIPOTECA QUE GARANTICE TITULOS NOMINATIVOS O AL PORTADOR. Podrá también cancelarse, total o parcialmente la hipoteca que garantice, tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que se cancela.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO VIII. DEL REGISTRO DE LA PROPIEDAD INMUEBLE Y DE LOS TITULOS INSCRIBIBLES O ANOTABLES
 
 ###### ARTICULO 2517.
 
-TITULOS SUSCEPTIBLES DE INSCRIPCION. En el Registro Público de la Propiedad Inmueble se inscribirán:
-
-I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
-
-II.- La constitución del patrimonio familiar;
-
-III.- Los contratos de arrendamiento de bienes inmuebles, por un periodo mayor de seis años y aquellos en que haya anticipo de rentas por más de tres años; y
-
-IV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2518.
 
-ANOTACIONES PREVENTIVAS. Se anotarán preventivamente en el Registro Público de la Propiedad:
-
-I.- Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos;
-
-II.- El mandamiento y el acta de embargo, que se hubiese hecho efectivo en bienes inmuebles del deudor;
-
-III.- Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
-
-IV.- Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales;
-
-V.- Los títulos presentados al Registro Público de la Propiedad y cuya inscripción haya sido denegada o suspendida por el registrador;
-
-VI.- Las fianzas legales o judiciales, de acuerdo con lo establecido en el artículo 2301 de este Ordenamiento;
-
-VII.- El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio de bienes inmuebles.
-
-VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público de la Propiedad; y
-
-IX.- Cualquier otro título que sea anotable, de acuerdo con este Código u otras leyes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2519.
 
-EFECTOS DE LAS ANOTACIONES PREVENTIVAS. La anotación preventiva perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
-
-En los casos de las fracciones IV y VIII del artículo anterior, podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI del mismo numeral, la anotación no producirá otro efecto que el fijado por el artículo 2309 de este Código.
-
-En el caso de la fracción VII del artículo 2518 de este ordenamiento, la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración, pero bastará la publicación del decreto relativo en el Periódico Oficial del Estado, para que queden sujetos a las resultas del mismo, tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiéndose hacer la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna Ley en que se establezca que no es necesario este requisito.
-
-Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse o gravarse, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO IX. DE LA INMATRICULACION
 
 ###### ARTICULO 2520.
 
-NOCION DE INMATRICULACION. La inmatriculación es la inscripción de la propiedad o posesión de un inmueble en el Registro Público de la Propiedad, que carece de antecedentes registrales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2521.
 
-PROCEDENCIA DE LA INMATRICULACION. Para que pueda realizarse cualquiera de los procedimientos de inmatriculación, es requisito previo que el bien de que se trate no esté inscrito en el Registro Público de la Propiedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2522.
 
-DOBLE VIA PROCEDIMENTAL PARA LA INMATRICULACION. El interesado en la inmatriculación de la propiedad o posesión de un inmueble, podrá optar por obtenerla mediante resolución judicial o a través de resolución administrativa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2523.
 
-FORMAS PARA OBTENER LA INMATRICULACION JUDICIAL. La inmatriculación por resolución judicial se puede obtener mediante información de dominio, o por virtud de información posesoria.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2524.
 
-INMATRICULACION JUDICIAL POR INFORMACION DE DOMINIO. En el caso de promoverse información de dominio para obtener la inmatriculación judicial, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante Juez competente para acreditar la prescripción, revelando la causa generadora de la posesión y rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Procesal Civil.
-
-Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2525.
 
-INMATRICULACION JUDICIAL POR INFORMACION POSESORIA. En el caso de información posesoria, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.
-
-Para lo anterior, se deberá seguir el mismo procedimiento que establece el Código Procesal Civil para las informaciones de dominio.
-
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción.
-
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público de la Propiedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2526.
 
-OPOSICION DE UN TERCERO EN LA INMATRICULACION JUDICIAL. Cualquiera que se considere con derecho a los bienes cuya propiedad o posesión se solicite inscribir por resolución judicial, podrá hacerlo valer ante el órgano judicial competente.
-
-La presentación del escrito de oposición suspenderá el curso del procedimiento de información. Si éste estuviese ya concluido y aprobado, deberá el Juez poner la demanda en conocimiento del Director del Registro Público de la Propiedad para que suspenda la inscripción, y si ya estuviere hecha, para que anote dicha demanda.
-
-Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición, quedará éste sin efecto, asentándose en su caso, la cancelación que proceda.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2527.
 
-FORMAS PARA OBTENER LA INMATRICULACION POR RESOLUCION ADMINISTRATIVA. La Inmatriculación por resolución administrativa se obtiene:
-
-I.- Mediante la inscripción del decreto por el que se incorpora al dominio público un inmueble;
-
-II.- Mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese decreto;
-
-III.- Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, según lo ordenado por el artículo 2529 de este Código;
-
-IV.- Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del artículo 2531 del presente Código; y,
-
-V.- Mediante la inscripción de la posesión de buena fe de un inmueble, que reúna los requisitos de aptitud para prescribir, en los términos del artículo 2532 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2528.
 
-EJECUCION DE LA INMATRICULACION ADMINISTRATIVA. La inmatriculación administrativa se realizará por resolución del Director del Registro Público de la Propiedad, quien la ordenará de plano en los casos previstos por las fracciones I y II del artículo anterior.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2529.
 
-REQUISITOS PARA OBTENER LA INMATRICULACION ADMINISTRATIVA POR TITULO FEHACIENTE Y SUFICIENTE. Quien se encuentre en el caso previsto por la fracción III del artículo 2527 de este Código, podrá ocurrir directamente ante el Registro Público de la Propiedad para solicitar la inmatriculación, la cual será ordenada si se satisfacen los siguientes requisitos:
-
-I.- Que acredite la propiedad del inmueble mediante un título fehaciente y suficiente para adquirirla;
-
-II.- Que acredite que su título tiene una antigüedad mayor de cinco años anteriores a la fecha de su solicitud, o que exhiba el o los títulos de sus causantes con la antigüedad citada, títulos que deberán ser fehacientes y suficientes para adquirir la propiedad;
-
-III.- Que manifieste bajo protesta de decir verdad si está poseyendo el predio o el nombre del poseedor en su caso; y
-
-IV.- Que acompañe las constancias relativas al estado catastral y predial del inmueble si las hubiere.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2530.
 
-REQUISITOS PARA OBTENER LA INMATRICULACION ADMINISTRATIVA POR PRESCRIPCION POSITIVA. Quien se encuentre en el caso de la fracción IV del artículo 2527 de este Código, podrá ocurrir directamente ante el Registro Público de la Propiedad para acreditar que ha operado la prescripción y deberá presentar solicitud que exprese:
-
-I.- Su nombre completo y domicilio;
-
-II.- La ubicación precisa del bien, su superficie, colindancias y medidas;
-
-III.- La fecha y causa de su posesión, que consiste en el hecho o acto generador de la misma;
-
-IV.- Que la posesión que invoca es de buena fe;
-
-V.- El nombre y domicilio de la persona de quien la obtuvo el peticionario en su caso, y los del causante de aquélla si fuere conocido; y
-
-VI.- El nombre y domicilio de los colindantes.
-
-A dicha solicitud el interesado deberá acompañar:
-
-1.- El documento con el que se acredita el origen de la posesión, si tal documento existe;
-
-2.- Un plano autorizado por ingeniero titulado en el que se identifique en forma indubitable el inmueble; y
-
-3.- Constancias relativas al estado catastral y predial del inmueble, si existieren.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2531.
 
-PROCEDIMIENTO PARA OBTENER LA INMATRICULACION ADMINISTRATIVA POR PRESCRIPCION POSITIVA. Recibida la solicitud, el Director del Registro Público de la Propiedad la hará del conocimiento, por correo certificado y con acuse de recibo, de la persona de quien se obtuvo la posesión y de su causante, si fuere conocido, así como de los colindantes, señalándoles un plazo de nueve días hábiles para que manifiesten lo que a sus derechos convenga.
-
-El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en el Periódico Oficial "Tierra y Libertad" y en un periódico de los de mayor circulación.
-
-Si existiere oposición entre las personas mencionadas, el Director del Registro Público de la Propiedad dará por terminado el procedimiento, a efecto de que la controversia sea resuelta por el Juez competente.
-
-Si no existiere oposición, el Director del Registro Público de la Propiedad señalará día y hora para una audiencia, en la cual el solicitante deberá probar su posesión, en concepto de propietario y por el tiempo exigido por este Código para prescribir, por medios que produzcan convicción, entre los cuales será indispensable el testimonio de tres testigos vecinos del lugar donde se ubica el inmueble cuya inmatriculación se solicita.
-
-El Director del Registro Público de la Propiedad podrá ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho.
-
-La resolución administrativa del Director del Registro Público de la Propiedad será dictada dentro de los ocho días siguientes a la celebración de la audiencia, concediendo o denegando la inmatriculación y declarando en el primer caso que el poseedor ha hecho constar los antecedentes y circunstancias que conforme a este Código se requieren para adquirir por virtud de la prescripción. Dicha resolución deberá expresar los fundamentos en que se apoya.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2532.
 
-REQUISITOS PARA OBTENER LA INMATRICULACION ADMINISTRATIVA POR POSESION DE BUENA FE. Quien se encuentre en el caso de la fracción V del artículo 2527 de este Código, podrá ocurrir directamente ante el Registro Público de la Propiedad para acreditar la posesión de un inmueble, apta para prescribirlo, conforme al procedimiento establecido en el artículo anterior, con excepción de que en la audiencia a que se refiere dicho numeral, el solicitante deberá probar su posesión presente, por los medios que produzcan convicción al Director del Registro Público de la Propiedad, entre los cuales será indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2533.
 
-OPOSICION UNA VEZ PRONUNCIADA LA RESOLUCION FAVORABLE DE INMATRICULACION. Si la oposición a que se refiere el párrafo tercero del artículo 2531 de este Código se presentara una vez concluido el procedimiento y aprobada la inmatriculación, el Director del Registro Público de la Propiedad suspenderá la inscripción, si aún no la hubiese practicado, y si ya estuviese hecha, anotará la citada oposición en la inscripción respectiva.
-
-Si el opositor deja transcurrir seis meses sin promover el juicio que en su caso proceda, la oposición quedará sin efecto y se cancelará la anotación relativa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2534.
 
-INSCRIPCION DEFINITIVA DE LA INMATRICULACION. Una vez ordenada judicial o administrativamente la inmatriculación de la propiedad o posesión de un inmueble y cubierto el pago de los derechos respectivos, se hará la inscripción correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2535.
 
-IMPOSIBILIDAD DE MODIFICACION O CANCELACION DE LA INMATRICULACION. La inmatriculación realizada mediante resolución judicial o administrativa, no podrá modificarse o cancelarse, sino en virtud de mandamiento judicial contenido en sentencia irrevocable, dictada en juicio en que haya sido parte el Director del Registro Público de la Propiedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2536.
 
-NO INSCRIPCION DE INFORMACIONES. No se inscribirán las informaciones judiciales o administrativas de posesión, ni las de dominio cuando se violen los programas de desarrollo urbano o las declaratorias de usos, destinos o reservas de predios, expedidos por la autoridad competente, o no se hayan satisfecho las disposiciones legales aplicables en materia de división y ocupación de predios, a menos que se trate de programas de regularización de la tenencia de la tierra aprobados por la autoridad competente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2537.
 
-REGISTRO DEFINITIVO DE LA INSCRIPCION POSESORIA. Quien haya obtenido judicial o administrativamente la inscripción de la posesión de un inmueble, una vez que hayan transcurrido cinco años, si la posesión es de buena fe, podrá ocurrir ante el Director del Registro Público de la Propiedad para que ordene la inscripción de la propiedad adquirida por prescripción positiva, quien la ordenará siempre y cuando el interesado acredite fehacientemente haber continuado en la posesión del inmueble con las condiciones para prescribir, sin que exista asiento alguno que contradiga la posesión inscrita.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO X. DEL SISTEMA REGISTRAL
 
 ###### ARTICULO 2538.
 
-SISTEMA DE REGISTRO. El Reglamento, con base en las disposiciones de este Código, establecerá el sistema conforme al cual deberá llevarse el registro público y practicarse los asientos de inscripciones, anotaciones preventivas y notas de presentación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2539.
 
-CONTENIDO DE LOS ASIENTOS Y NOTAS DE PRESENTACION. Los asientos y notas de presentación expresarán:
-
-I.- La fecha y número de entrada;
-
-II.- La naturaleza del documento y el funcionario que lo haya autorizado;
-
-III.- La naturaleza del acto o negocio de que se trate;
-
-IV.- Los bienes o derechos objeto del título presentado, expresando su cuantía, si constare; y
-
-V.- Los nombres y apellidos de los interesados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2540.
 
-CONTENIDO DE LOS ASIENTOS DE INSCRIPCION. Los asientos de inscripción deberán expresar las circunstancias siguientes:
-
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que deba inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el reglamento;
-
-II.- La naturaleza, extinción y condiciones del derecho de que se trate;
-
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la Ley deban expresarse en el título;
-
-IV.- Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento; el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado; y, los réditos, si se causaren, y la fecha desde que deban correr;
-
-V.- Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquéllas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción;
-
-VI.- La naturaleza del hecho o negocio jurídico; y
-
-VII.- La fecha del título, número si lo tuviere, y el funcionario que lo haya autorizado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2541.
 
-CONTENIDO DE LAS ANOTACIONES PREVENTIVAS. Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior, en cuanto resulten de los documentos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
-
-Las que deban su origen a embargo o secuestro, expresarán, la causa que haya dado lugar a aquéllos y el importe de la obligación que los hubiere originado.
-
-Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionarán la fecha del decreto respectivo, la de su publicación en el Diario Oficial de la Federación o en el periódico Oficial del Estado y el fin de utilidad pública que sirva de causa a la declaración.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2542.
 
-CONTENIDO DE LOS ASIENTOS DE CANCELACION. Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
-
-I.- La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice;
-
-II.- La causa por la que se hace la cancelación;
-
-III.- El nombre y apellidos de la persona a cuya instancia o con cuyo consentimiento se verifique la cancelación;
-
-IV.- La expresión de quedar cancelado total o parcialmente el asiento de que se trate; y
-
-V.- Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca el derecho y la que subsista.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2543.
 
-RELACION DE FINCAS POR ANOTACION. Las anotaciones deberán contener las indicaciones para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho que se trate de acreditar, y el documento en cuya virtud se extienda.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2544.
 
-OMISION DE REQUISITOS LEGALES EN LOS ASIENTOS REGISTRALES. Los requisitos que según los artículos anteriores deban contener los asientos, podrán omitirse cuando ya consten en otros del registro de la finca, haciéndose sólo referencia al asiento que los contenga.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2545.
 
-DATOS QUE DEBEN CONTENER LOS ASIENTOS. Todos los asientos, de la clase que fueren, deberán ir firmados por el registrador y expresar la fecha en que se practiquen, así como el día y número del asiento de presentación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2546.
 
-EFECTOS Y ANULACION DE LOS ASIENTOS REGISTRALES. Los asientos del Registro Público de la Propiedad no surtirán efectos mientras no estén firmados por el registrador o funcionario que lo substituya, pero la firma de aquéllos puede exigirse por quien tenga el título con la certificación de haber sido registrado.
-
-Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando sustancialmente se hubieren alterado dichos asientos, así como en el caso de que se hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de lo establecido respecto a la rectificación de errores, inexactitudes y omisiones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2547.
 
-LA NULIDAD DE LOS ASIENTOS NO PERJUDICA DERECHO PREVIO DE TERCERO. La nulidad de los asientos a que se refiere el artículo anterior, no perjudicará el derecho anteriormente adquirido por un tercero, protegido con arreglo al artículo 2486 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO XI. DEL REGISTRO DE OPERACIONES SOBRE BIENES MUEBLES
 
 ###### ARTICULO 2548.
 
-ACTOS SUSCEPTIBLES DE INSCRIPCION SOBRE BIENES MUEBLES. Se inscribirán las siguientes operaciones sobre bienes muebles:
-
-I.- Los contratos de compraventa de bienes muebles a que se refiere la fracción II del artículo 1795 de este Código;
-
-II.- Los contratos de compraventa de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 1799 de este Código; y
-
-III.- Los contratos de prenda que menciona el artículo 2313 del presente Ordenamiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2549.
 
-CONTENIDO DE LAS INSCRIPCIONES SOBRE OPERACIONES CON BIENES MUEBLES. Toda inscripción que se haga respecto de bienes muebles deberá expresar los datos siguientes:
-
-I.- Los nombres de los contratantes;
-
-II.- La naturaleza del mueble con la característica o señales que sirvan para identificarlo de manera indubitable;
-
-III.- El precio y forma de pago estipulados en el contrato, y, en su caso, el importe del crédito garantizado con la prenda; y
-
-IV.- La fecha en que se practique y la firma del registrador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO XII. DEL REGISTRO DE PERSONAS MORALES
 
 ###### ARTICULO 2550.
 
-ACTOS Y DOCUMENTOS SUSCEPTIBLES DE INSCRIPCION EN EL REGISTRO DE PERSONAS MORALES. En el registro de las personas morales se inscribirán:
-
-I.- Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
-
-II.- Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el registrador que existen las autorizaciones a que se refiere el artículo 2161 de este Código; y
-
-III.- La constitución de fundaciones y asociaciones de beneficencia privada y sus modificaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2551.
 
-CONTENIDO DE LAS INSCRIPCIONES SOBRE CONSTITUCION DE PERSONAS MORALES. Las inscripciones referentes a la constitución de personas morales, deberán contener los datos siguientes:
-
-I.- El nombre de los otorgantes;
-
-II.- La razón social o denominación;
-
-III.- El objeto, duración y domicilio;
-
-IV.- El capital social, si lo hubiere, y la aportación con que cada socio deba contribuir;
-
-V.- La manera de distribuirse las utilidades y pérdidas, en su caso;
-
-VI.- El nombre de los administradores y las facultades que se les otorguen; y
-
-VII.- La fecha y la firma del registrador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2552.
 
-CONTENIDO DE DIVERSAS INSCRIPCIONES SOBRE PERSONAS MORALES. Las demás inscripciones que se practiquen respecto a las personas morales, expresarán los datos esenciales del acto o contrato según resulten del título respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ###### ARTICULO 2553.
 
-EFECTOS DE LAS INSCRIPCIONES SOBRE BIENES MUEBLES Y PERSONAS MORALES. Las inscripciones relativas a bienes muebles y personas morales no producirán más efectos que los señalados en los artículos 1795, fracción II; 1800, 2106, 2123 y 2311 de este Código, y les serán aplicables a los registros las disposiciones relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia de éste y del anterior capítulo y con los efectos que las inscripciones producen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO XIII. DEL REGISTRO DE LOS PLANES DE DESARROLLO URBANO
 
 ###### ARTICULO 2554.
 
-REGISTRO DE LOS PLANES ESTATAL Y MUNICIPAL DE DESARROLLO URBANO. Los planes estatal y municipales de desarrollo urbano, serán inscritos en el Registro Público de la Propiedad por orden expresa del Titular del Poder Ejecutivo del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 28 DE NOVIEMBRE DE 2007)
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2002)</small>
 
@@ -14128,3 +13862,23 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 28 DE NOVIEMBRE DE 2007.
+
+PRIMERO. Publíquese la presente Ley en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado. La presente Ley entrará en vigor el día primero de enero del año dos mil ocho.
+
+SEGUNDO. Se derogan los artículos 2478 al 2554 del Código Civil para el Estado Libre y Soberano de Morelos.
+
+TERCERO. Durante el segundo semestre del año 2008, el Poder Ejecutivo realizará la transferencia de los recursos humanos, materiales y financieros con los que actualmente opera la Dirección General del Registro Público de la Propiedad y del Comercio de la Secretaría de Gobierno al Organismo, a efecto de (sic) inicie su operación de conformidad con la naturaleza jurídica y funciones establecidas en el Titulo Primero de la presente Ley, durante dicho periodo.
+
+En tanto el Organismo inicia su operación de acuerdo con lo establecido en el párrafo anterior, la institución del Registro Público de la Propiedad y del Comercio en el Estado de Morelos, seguirá operando a través de la Dirección General del Registro Público de la Propiedad y del Comercio de la Secretaría de Gobierno, con los recursos que ésta le asigne para el Ejercicio Fiscal 2008.
+
+CUARTO. La Junta de Gobierno deberá quedar instalada en un plazo no mayor a treinta días naturales, contados a partir del inicio de operaciones del Organismo.
+
+QUINTO. Una vez instalada la Junta de Gobierno deberá expedir su Estatuto Orgánico que determine los requisitos que deban cumplirse para desempeñar los cargos que requieran la organización y funcionamiento del Organismo, en un término no mayor a noventa días naturales, el cual deberá publicarse en el Periódico Oficial del Estado "Tierra y Libertad".
+
+SEXTO. En un término no mayor a noventa días naturales, deberá expedirse el Reglamento de la presente Ley, el cual deberá publicarse en el Periódico Oficial del Estado "Tierra y Libertad".
+
+SÉPTIMO. El Director General del Organismo solicitará a la Secretaría de Finanzas y Planeación la inscripción en el Registro Público de Organismos Descentralizados del Estado de Morelos, dentro de los veinte días siguientes al inicio de operaciones del Organismo.
+
+OCTAVO. Se derogan todas las disposiciones legales y administrativas que se opongan a la presente Ley.
