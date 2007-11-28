@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2006-12-30"
+last_updated: "2007-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -1147,15 +1147,9 @@ a) Plano impreso de la zona conurbada Zacatecas-Guadalupe, edición 1995 6 cuota
 
 b) Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, Valparaíso y Villanueva. 30 cuotas
 
-c) Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Téul de González
+c) Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Téul de González Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán y Trancoso. 24 cuotas
 
-Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán y Trancoso. 24 cuotas
-
-d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral.
-
-Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El
-
-Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. 15 cuotas
+d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. 15 cuotas
 
 e) Plano del Estado de Zacatecas con la división política de los Municipios, vías de comunicación y localización de poblaciones. 32 cuotas
 
@@ -1289,17 +1283,11 @@ III. Diligencias de apeo y deslinde: 4 cuotas;
 
 IV. Capitulaciones matrimoniales: 4 cuotas;
 
-V. En la inscripción del régimen de propiedad en condominio, por cada
-
-departamento, despacho, vivienda, local, cajón de estacionamiento
-
-o cualquier otro tipo de unidades privativas: 4 cuotas;
+V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: 4 cuotas;
 
 VI. Fusión de predios, por cada uno de los predios fusionados: 2 cuotas;
 
-VII. Actos, contratos, convenios o autorizaciones por los que se fraccione,
-
-lotifique o subdivida un predio, por cada lote o fracción: 2 cuotas;
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: 2 cuotas;
 
 VIII. Por la inscripción o anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al .40% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se pagará la cantidad de:
 
@@ -1605,7 +1593,7 @@ proveedores y contratistas: 22 cuotas;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-II. Revalidación de la inscripción: 11 cuotas ;
+II. Revalidación de la inscripción: 11 cuotas;
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -1619,9 +1607,9 @@ IV. Inscripción a concursos de adquisición por invitación 12 cuotas;
 
 V. Inscripción a concursos de obra por invitación 22 cuotas;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2007)</small>
 
-VI. Expedición de constancia de no inhabilitación 7 cuotas
+VI. Expedición de constancias de no inhabilitación 1 cuota.
 
 ### CAPITULO IX. SERVICIOS DE OFICIALIA MAYOR
 
@@ -2371,19 +2359,19 @@ C.P. GUILLERMO HUIZAR CARRANZA.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 2 DE ENERO DE 2002.
+P.O. 2 DE ENERO DE 2002
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
 
-P.O. 14 DE DICIEMBRE DE 2002.
+P.O. 14 DE DICIEMBRE DE 2002
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan el presente Decreto.
 
-P.O. 1 DE ENERO DE 2003.
+P.O. 1 DE ENERO DE 2003
 
 ###### ARTICULO UNICO.
 
@@ -2412,3 +2400,9 @@ P.O. 30 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 28 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
