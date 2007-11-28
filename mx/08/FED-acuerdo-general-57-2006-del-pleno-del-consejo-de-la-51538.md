@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2007-11-12"
+last_updated: "2007-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -257,7 +257,9 @@ XV.- DECIMOQUINTO CIRCUITO:
 
 XVI.- DECIMOSEXTO CIRCUITO:
 
-1.- Cinco tribunales colegiados especializados: dos en materias administrativa y de trabajo; dos en materia civil y uno en materia penal, todos con residencia en Guanajuato.
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 52/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2007)</small>
+
+1.- Cinco tribunales colegiados especializados: dos en materias administrativa y de trabajo, dos en materias civil y de trabajo y uno en materia penal con residencia en Guanajuato, Guanajuato.
 
 2.- Dos tribunales unitarios con sede en Guanajuato.
 
@@ -802,5 +804,11 @@ TERCERO.- Queda sin efecto la medida ordenada en el Acuerdo CCNO/13/2002, public
 D.O.F. 12 DE NOVIEMBRE DE 2007.
 
 PRIMERO.- Este acuerdo entrará en vigor el día el (sic) de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 28 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Este acuerdo entrará en vigor el día uno de diciembre de dos mil siete.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
