@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-que-garantiza-la-transparencia-y-el-56036"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-07"
-last_updated: "2007-03-07"
+last_updated: "2007-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA PARA EL ESTADO DE CHIAPAS DEL PODER EJECUTIVO, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 7 de marzo de 2007.
 
@@ -850,3 +852,25 @@ Artículo Cuarto.- Se derogan las disposiciones de igual o menor jerarquía, que
 Se expide el presente Reglamento, en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, Tuxtla Gutiérrez, Chiapas; a los dos días del mes de marzo del dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2007.
+
+Artículo primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo segundo.- Se abroga el Reglamento de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, publicado en la tercera sección del Periódico Oficial del Estado, número 016, Tomo III, de fecha 7 de Marzo del 2007.
+
+Artículo tercero.- Las dependencias y entidades deberán otorgar nombramientos a los responsables de las unidades de enlace y designar a los subenlaces en los términos de este Reglamento.
+
+Artículo cuarto.- Los comités de información que se constituyeron en los órganos desconcentrados y las unidades de apoyo del Poder Ejecutivo pasarán a ser subcomités de las dependencias a las que pertenezcan.
+
+Artículo quinto.- Los responsables de las unidades de enlace que han sido designados por los titulares de los órganos desconcentrados y las unidades de apoyo del Poder Ejecutivo pasarán a ser subenlaces de las dependencias a las que están adscritas.
+
+Artículo sexto.- Los pagos de las cuotas de reproducción y/o gastos de envío de la información solicitada y de los derechos, en su caso, se realizarán a través de las ventanillas recaudadoras de la Secretaría de Finanzas, en tanto sea posible establecer el pago en línea a través de los sistemas electrónicos.
+
+Artículo séptimo.- Los comités de información de las dependencias y entidades deberán sesionar en los términos del presente Reglamento.
+
+Artículo octavo.- Se derogan las disposiciones de igual o menor jerarquía, que se opongan al presente Reglamento.
+
+Artículo noveno.- El Instituto deberá modificar los lineamientos o criterios generales emitidos, para adecuarlos en los términos de la Ley y este Reglamento.
