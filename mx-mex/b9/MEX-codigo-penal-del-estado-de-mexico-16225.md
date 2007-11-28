@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2007-10-29"
+last_updated: "2007-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1945,7 +1945,7 @@ II. Cuando se trata de donaciones y compraventas realizadas entre parientes, en 
 
 SUBTITULO SEGUNDO
 
-DELITOS CONTRA LA SEGURIDAD DE LAS VIAS DE COMUNICACIÓN Y MEDIOS DE TRANSPORTE
+DELITOS CONTRA LA SEGURIDAD DE LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
 ### CAPITULO VIII. INCESTO
 
@@ -2789,7 +2789,9 @@ Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, obteni
 
 Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos vía satelital, u otros sistemas electromagnéticos se le impondrán de tres a ocho años de prisión y de cuarenta a doscientos días multa.
 
-Si en la comisión de este delito participa algún miembro de una corporación policíaca o servidor público será considerado como delito grave.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2007)</small>
+
+Si en la comisión de este delito participa algún miembro de una corporación policíaca o servidor público, será considerado como delito grave y se impondrá además, la destitución definitiva e inhabilitación desde 1 año hasta 20 años para desempeñar cualquier empleo, cargo o comisión pública.
 
 ###### Artículo 267.
 
@@ -3726,3 +3728,15 @@ G.G. 29 DE OCTUBRE DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+G.G. 28 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Las disposiciones contenidas en el artículo 266 del Código Penal del Estado de México, anteriores a la entrada en vigor de este decreto, seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia.
+
+TERCERO.- Las notificaciones de las resoluciones que confirmen la determinación del no ejercicio de la acción penal, pronunciadas por el Subprocurador Regional que corresponda, pendientes de practicarse hasta la fecha de entrada en vigor de este decreto, se harán por estrados, por el Agente del Ministerio Público Investigador que conoció del asunto.
+
+CUARTO.- Los expedientes de Averiguación Previa en trámite o pendientes de resolverse, con la determinación de reserva o de no ejercicio de acción penal, se tramitarán y sustanciarán conforme a las reglas establecidas en este decreto.
+
+QUINTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
