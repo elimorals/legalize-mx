@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2006-08-04"
+last_updated: "2007-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -569,9 +569,11 @@ Las resoluciones judiciales se entenderán consentidas cuando, notificada la par
 
 ### CAPITULO Xl. NOTIFICACIONES
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 86.
 
-Todas las personas que por algún motivo intervengan en un proceso, deberán designar desde la primera diligencia, domicilio ubicado en el lugar donde se lleve a cabo, para que se les hagan las notificaciones, citaciones, requerimientos o emplazamientos que procedieren, e informar de los cambios del domicilio designado. Si no cumplieren con esta prevención, se tendrán por bien hechas las publicadas en los estrados del órgano jurisdiccional, sin perjuicio de las medidas que se tomen para continuar con el procedimiento.
+Todas las personas que por algún motivo intervengan en una averiguación o en un proceso, deberán designar en el primer escrito o en la primera diligencia ministerial o judicial en que participen, domicilio ubicado en el municipio del Estado en el que tenga su sede la Agencia del Ministerio Público del conocimiento o domicilio ubicado en el lugar donde se lleve a cabo el proceso para que se les hagan las notificaciones, citaciones, requerimientos o emplazamientos que procedieren, e informar de los cambios del domicilio designado. Si no cumplieren con esta prevención las notificaciones que correspondan se llevarán a cabo por estrados, sin perjuicio de las medidas que se tomen para continuar con la averiguación o el proceso.
 
 ###### Artículo 87.
 
@@ -586,6 +588,10 @@ Las notificaciones se harán a más tardar al día siguiente al en que se dicten
 Las resoluciones contra las cuales proceda el recurso de apelación, se notificarán personalmente a las partes. En la misma forma se harán las que den entrada a un incidente que no sea de libertad bajo caución o bajo protesta, y a quien se encuentre detenido.
 
 Los notificadores o secretarios del órgano jurisdiccional que hagan las notificaciones que no sean personales, fijarán diariamente en los estrados del mismo una lista de los asuntos acordados, expresando únicamente el número del expediente y el nombre del indiciado y asentarán constancia de ese hecho en el expediente respectivo.
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2007)</small>
+
+Tratándose de las notificaciones por estrados que ordene el Ministerio Público, la lista de los asuntos será elaborada por el Secretario, expresando únicamente el número del expediente y el sentido del acuerdo, debiendo asentarse constancia de la publicación de la lista en el expediente respectivo.
 
 ###### Artículo 90.
 
@@ -681,6 +687,14 @@ Cuando el ofendido sea menor de edad, pero pudiere expresarse, podrá querellars
 
 Las denuncias y querellas pueden formularse verbalmente o por escrito. Si se formulan verbalmente, se harán constar en acta que elaborará el Ministerio Público que las reciba, debiendo contener la firma o dactilograma del que las formule, su domicilio y demás datos que faciliten su localización. Si se formulan por escrito, éste deberá contener las mismas formalidades y datos.
 
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2007)</small>
+
+Al formularse la denuncia o querella, deberá designarse domicilio ubicado en el municipio del Estado, en el que tenga su sede la Agencia del Ministerio Público del conocimiento, para que se hagan al denunciante o querellante las notificaciones que deben ser personales.
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2007)</small>
+
+La omisión de la designación o la falta de informe del cambio de domicilio designado, darán lugar a que la notificación que corresponda se haga por estrados.
+
 ###### Artículo 104.
 
 La querella presentada por escrito deberá ser ratificada al momento de su presentación. La denuncia presentada por la misma vía no requiere ratificación para el inicio de la averiguación, sin perjuicio del cumplimiento de este acto en el perfeccionamiento de la investigación.
@@ -735,23 +749,39 @@ Artículo 114 bis.- Tratándose de menores o incapaces agraviados por la comisi�
 
 Si de las diligencias realizadas apareciere que la muerte de alguna persona fue posiblemente originada por delito, el Ministerio Público, ordenará primeramente la necropsia y después expedirá las órdenes para el levantamiento del acta de defunción e inhumación del cadáver. Cuando no fuere así, expedirá estas dos últimas.
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 116.
 
-Si de las diligencias practicadas no se acreditan los elementos que integran el cuerpo del delito y la probable responsabilidad del indiciado para hacer la consignación a los tribunales y no aparece que se puedan practicar otras, pero con posterioridad pudieran allegarse datos para proseguir la averiguación, se reservará el expediente hasta que aparezcan esos datos y, entre tanto, se ordenará a la policía y a los servicios periciales para que hagan las investigaciones y practiquen los dictámenes respectivos, tendientes a lograr el esclarecimiento de los hechos. En caso de que la averiguación deba proseguirse, el agente del Ministerio Público, notificará a la víctima del delito u ofendido y al inculpado tal circunstancia.
+Si en las diligencias que obren en el expediente, practicadas por el Agente del Ministerio Público, no existen pruebas que acrediten los elementos que integran el cuerpo del delito y la probable responsabilidad del indiciado para llevar a cabo la consignación ante el órgano jurisdiccional, y no se desprenda que puedan practicarse otras, pero con posterioridad pudieran allegarse datos para proseguir la averiguación, la autoridad ministerial dictará determinación de reserva del expediente hasta que obren esos datos y, entre tanto, ordenará a la policía ministerial, que realice las investigaciones tendentes a lograr el esclarecimiento de los hechos.
 
-En todo caso, la resolución del Ministerio Público por la que se reserve será revisada por el procurador general de justicia del Estado o el subprocurador que corresponda, a quienes, dentro del término de cuarenta y ocho horas, remitirá la averiguación. Una vez recibida, determinarán lo conducente dentro de los diez días siguientes.
+La determinación del Agente del Ministerio Público sobre la reserva de la averiguación, será revisada por el Subprocurador Regional que corresponda, a través del Agente del Ministerio Público Auxiliar del Procurador, al que se le remitirá el expediente dentro del término de cuarenta y ocho horas. El Agente del Ministerio Público Auxiliar del Procurador elaborará proyecto de resolución para la consideración y análisis del Subprocurador Regional, quien resolverá dentro de los quince días hábiles siguientes. Esta resolución deberá notificarse por estrados al denunciante o querellante, por el Agente del Ministerio Público a cuyo conocimiento correspondió el expediente de la averiguación previa, al día siguiente de aquel en que reciba el expediente del Agente del Ministerio Público Auxiliar del Procurador.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 117.
 
-Cuando en vista de la averiguación previa, el Ministerio Público estime que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos o por los que se hubiere presentado querella, dictará determinación haciéndolo constar así y remitirá, dentro de las cuarenta y ocho horas, el expediente al subprocurador que corresponda, quien con la audiencia de los agentes auxiliares decidirá, en un término de diez días, en definitiva, si debe o no ejercitarse la acción penal. Cuando la decisión sea en este último sentido, el ofendido, dentro de los diez días siguientes contados a partir de que tenga conocimiento de la determinación, podrá solicitar la revisión de ésta y el procurador general de justicia del Estado deberá resolver dentro de un plazo de quince días hábiles.
+Cuando del análisis del expediente de la averiguación previa el Agente del Ministerio Público estime que no es de ejercitarse la acción penal por los hechos que se hubiere denunciado como delitos o por los que se hubiere presentado querella, dictará determinación haciéndolo constar así y remitirá, dentro del término de cuarenta y ocho horas, el expediente al Subprocurador Regional que corresponda, a través del Agente del Ministerio Público Auxiliar del Procurador.
 
-Deberán ser notificadas las resoluciones referidas en este artículo al ofendido o víctima del delito y al inculpado.
+El Agente del Ministerio Público Auxiliar del Procurador, elaborará proyecto de resolución que deberá someterse a la consideración y análisis del Subprocurador Regional, quien resolverá en definitiva sobre el ejercicio de la acción penal. Los proyectos de resolución de los Agentes del Ministerio Público y sólo en los casos que por escrito así lo requerirá el Subprocurador Regional, llevarán la firma de dos de ellos.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2004)</small>
+En el caso de que la resolución del Subprocurador Regional no confirme la determinación del Agente del Ministerio Público, precisará las diligencias necesarias para la debida integración de la averiguación y dentro del término de diez días hábiles, remitirá el expediente a aquél para su cumplimiento.
+
+Cuando la resolución del Subprocurador Regional confirme la determinación de no ejercicio de la acción penal, el Agente del Ministerio Público Auxiliar del Procurador devolverá dentro del término de diez días hábiles el expediente al Agente del Ministerio Público Investigador del conocimiento, quien la notificará al día hábil siguiente de aquél en que reciba el expediente, al ofendido o víctima del delito y, en su caso, al derechohabiente reconocido en autos, así como al inculpado.
+
+El ofendido o derechohabiente debidamente acreditado que corresponda, dentro de los diez días hábiles siguientes contados a partir de aquél en que tenga conocimiento de la resolución que confirma el no ejercicio de la acción penal, podrá solicitar su revisión por el Procurador General de Justicia del Estado de México.
+
+La revisión deberá interponerse por escrito, precisándose los puntos de inconformidad o agravios, por conducto del Agente del Ministerio Público Investigador que emitió la determinación; interpuesta la revisión, el Agente del Ministerio Público Investigador remitirá dentro de diez días hábiles, el expediente a la Coordinación de Agentes del Ministerio Público Auxiliares del Procurador, así como el original del escrito de revisión; recibida la revisión se elaborará proyecto de resolución para la consideración y análisis del Procurador General de Justicia, quien resolverá en definitiva dentro del término de quince días hábiles siguientes.
+
+La resolución definitiva deberá notificarse a quien interpuso la revisión y al inculpado.
+
+Las notificaciones de las resoluciones definitivas a que se refiere este artículo serán personales salvo que no exista en el expediente señalamiento de domicilio ubicado en el municipio del Estado, en el que tenga su sede el Agente del Ministerio Público del conocimiento, caso en el que se harán por estrados.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 118.
 
-En las diligencias de averiguación previa, el Ministerio Público podrá emplear todos los medios mencionados en el capítulo V del título quinto de este código. Dichas diligencias se practicarán secretamente y sólo podrán tener acceso a ellas el ofendido, la víctima, la Institución Pública o Privada que tenga la guarda y cuidado del menor o incapaz agraviado, el indiciado y su defensor. El servidor público que, en cualquier otro caso quebrante el secreto, será destituido conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+En las diligencias de averiguación previa, el Ministerio Público podrá emplear todos los medios mencionados en el capítulo V del Título quinto de este Código, dichas diligencias se practicarán secretamente y solo podrán tener acceso a ellas el ofendido, la víctima, el indiciado y su defensor; el servidor público que en cualquier otro caso quebrante el secreto, será destituido conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 ## TITULO TERCERO. DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA Y A LA INSTRUCCION
 
@@ -1025,15 +1055,39 @@ El juez resolverá, escuchando al Ministerio Público y al afectado, sobre la su
 
 ### CAPITULO V. INSTANCIA CONCILIATORIA
 
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 155.
 
-Inmediatamente que el Ministerio Público tenga conocimiento de la comisión de un delito perseguible por querella, deberá citar a una audiencia de conciliación dentro de los quince días siguientes a la formulación de la querella.
+Inmediatamente que el Ministerio Público tenga conocimiento de la comisión de un delito perseguible por querella, bajo su más estricta responsabilidad, deberá citar a una audiencia de conciliación dentro de los cinco días hábiles siguientes a la formulación de la querella que hará constar en Acta circunstanciada y girará citatorio a los involucrados para una Audiencia de conciliación.
 
-En la audiencia mencionada en el párrafo anterior orientará su intervención a avenir a las partes. En caso de obtener la conciliación, se hará constar ésta y sus términos en el acta, el Ministerio Publico entregara copias certificadas de esta a las partes sin costo alguno y se archivará como asunto concluido.
+En la audiencia mencionada en el párrafo anterior, el Ministerio Público se sujetará a las siguientes reglas:
 
-En caso contrario, el Ministerio Público proseguirá, con la integración de la averiguación hasta su conclusión, sin perjuicio de que en cualquier momento anterior a la determinación, las partes se puedan conciliar.
+1. Preguntará a las partes si es su voluntad someterse a la conciliación en cuyo caso, orientará su intervención a avenirlas.
 
-La inobservancia de esta disposición hará incurrir en responsabilidad al Ministerio Público.
+2. Explicará e informará los principios medios y fines de la Conciliación para lograr la solución de conflictos.
+
+3. Brindará la atención a las víctimas u ofendidos cuando así procediere aplicando los programas para el equilibrio mental y emocional a través del Instituto de Atención a Víctimas del Delito de la Procuraduría General de Justicia del Estado de México quien otorgará la terapia psicológica.
+
+4. Privilegiará que la reparación del daño se realice o quede a entera satisfacción del querellante.
+
+5. La conciliación se hará constar en el Acta Circunstanciada, registrada en el libro de improcedentes, en la que se establecerá puntualmente la forma en la que se dio cumplimiento a lo señalado en los numerales 3 y 4.
+
+6. El Ministerio Público entregará copias certificadas de la conciliación a los interesados y se archivará como asunto concluido, con la determinación correspondiente.
+
+El trámite de mediación o conciliación del Ministerio Público concluirá:
+
+a) Por acuerdo entre los interesados;
+
+b) Por decisión de los interesados o del querellante;
+
+c) Por inasistencia de los interesados sin motivo justificado a la diligencia Ministerial de Conciliación;
+
+d) Por negativa de los interesados a suscribir el acuerdo final de conciliación.
+
+En caso de no obtener conciliación entre los interesados, el Ministerio Público procederá a la Averiguación Previa y la consecuente investigación del delito hasta su determinación final, registrándola en el Libro de Gobierno respectivo, sin perjuicio de que en cualquier momento anterior a la determinación, las partes se puedan conciliar.
+
+La inobservancia de lo dispuesto en el párrafo anterior, hará incurrir en responsabilidad al Ministerio Público.
 
 ### CAPITULO VI. CONSIGNACION ANTE LOS TRIBUNALES
 
@@ -3196,3 +3250,15 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 28 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Las disposiciones contenidas en el artículo 266 del Código Penal del Estado de México, anteriores a la entrada en vigor de este decreto, seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia.
+
+TERCERO.- Las notificaciones de las resoluciones que confirmen la determinación del no ejercicio de la acción penal, pronunciadas por el Subprocurador Regional que corresponda, pendientes de practicarse hasta la fecha de entrada en vigor de este decreto, se harán por estrados, por el Agente del Ministerio Público Investigador que conoció del asunto.
+
+CUARTO.- Los expedientes de Averiguación Previa en trámite o pendientes de resolverse, con la determinación de reserva o de no ejercicio de acción penal, se tramitarán y sustanciarán conforme a las reglas establecidas en este decreto.
+
+QUINTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
