@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2007-del-pleno-del-consejo-de-la-55449"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2007-05-14"
+last_updated: "2007-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55449&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-05-02"
 
 ACUERDO GENERAL 17/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -103,9 +103,11 @@ CONSTITUCION DEL FONDO. Se constituye el Fondo, el cual será manejado y operado
 
 PATRIMONIO DEL FONDO. El patrimonio del Fondo se integrará con los recursos a los que se refiere el artículo 243 de la Ley, y la administración se realizará a través de la inversión en valores de renta fija del más alto rendimiento, siempre que se permita la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 5.
 
-DISPONIBILIDAD DE LOS RECURSOS DEL FONDO. El aprovechamiento de los recursos del Fondo se hará de conformidad con lo previsto en el Acuerdo General 52/2006 del Pleno del Consejo de la Judicatura Federal, por el que se Regula la Disponibilidad de los recursos del citado Fondo y conforme a las normas jurídicas aplicables.
+DISPONIBILIDAD DE LOS RECURSOS DEL FONDO. El aprovechamiento de los recursos del Fondo se hará de conformidad con lo previsto en el artículo 250 de la Ley Orgánica del Poder Judicial de la Federación.
 
 ###### Artículo 6.
 
@@ -189,9 +191,11 @@ REGISTRO DE BIENES DECOMISADOS. El Secretario Técnico del Fondo tiene la facult
 
 #### Sección Tercera. De los Depósitos ante los Organos Jurisdiccionales
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 23.
 
-DISPONIBILIDAD DE LOS ACCESORIOS FINANCIEROS PRODUCIDOS POR LOS DEPOSITOS JUDICIALES. La disponibilidad de los ingresos que se obtengan por las inversiones que se hagan de los depósitos en dinero o en valores que se efectúen ante los Organos Jurisdiccionales, se hará conforme a lo dispuesto en el Acuerdo General 52/2006 del Pleno del Consejo de la Judicatura Federal por el que se Regula la Disponibilidad de los Recursos del Fondo.
+DISPONIBILIDAD DE LOS ACCESORIOS FINANCIEROS PRODUCIDOS POR LOS DEPOSITOS JUDICIALES. La disponibilidad de los ingresos que se obtengan por las inversiones que se hagan de los depósitos en dinero o en valores que se efectúen ante los Organos Jurisdiccionales, se hará conforme a lo dispuesto en el artículo 250 de la Ley Orgánica del Poder Judicial de la Federación.
 
 ###### Artículo 24.
 
@@ -471,21 +475,27 @@ ACLARACIONES A LOS INFORMES RENDIDOS POR LA INSTITUCION DEPOSITARIA. Los informe
 
 EJERCICIO DE LOS RECURSOS DEL FONDO. El ejercicio de los recursos disponibles que integren el Fondo, se regirá por los principios de eficiencia, eficacia y honradez que postula el artículo 134 de la Constitución Federal, a fin de satisfacer los objetivos a los que están destinados, de conformidad con lo dispuesto por la Ley.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 61.
 
-APLICACION DE LOS RECURSOS DEL FONDO. Para el ejercicio de los recursos, el Comité autorizará anualmente su destino, que comprenderá los conceptos señalados por el artículo 249 de la Ley.
+APLICACION DE LOS RECURSOS DEL FONDO. Para el ejercicio de los recursos disponibles, el Comité autorizará anualmente su destino, que comprenderá los conceptos señalados por el artículo 249 de la Ley.
 
 ###### Artículo 62.
 
 AUTORIZACION DEL DESTINO DE LOS RECURSOS. Durante el primer trimestre de cada ejercicio fiscal, el Comité autorizará el destino de los recursos disponibles del Fondo, con base en la información de la plantilla de plazas, los proyectos que no se ejecutaron durante el año anterior, los proyectos del ejercicio fiscal vigente aplazados por las restricciones al presupuesto de egresos del Consejo y las prioridades institucionales.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 63.
 
-CARACTER AUXILIAR DE LOS RECURSOS DEL FONDO. En todo caso, se debe considerar que los recursos del Fondo son auxiliares para la realización única y exclusiva de los objetivos previstos en el artículo 249 de la Ley.
+CARACTER AUXILIAR DE LOS RECURSOS DEL FONDO. En todo caso, se debe considerar que los recursos disponibles del Fondo son auxiliares para la realización única y exclusiva de los objetivos previstos en el artículo 249 de la Ley.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 64.
 
-CONTRATACION DE PERSONAL. Las percepciones del Secretario Técnico y las del personal que se designe para auxiliar en las actividades del Fondo, se cubrirán directamente de los recursos del Fondo, en los términos previstos en el artículo 249, fracción I, de la Ley.
+CONTRATACION DE PERSONAL. Las percepciones del Secretario Técnico y las del personal que se designe para auxiliar en las actividades del Fondo, se cubrirán directamente de los recursos disponibles del Fondo, en los términos previstos en el artículo 249, fracción I, de la Ley.
 
 ### Capítulo VIII. De la Transparencia y la Rendición de Cuentas
 
@@ -526,3 +536,13 @@ SEPTIMO.- Las áreas competentes del Consejo pondrán a disposición de la Secre
 OCTAVO.- Publíquese este Acuerdo en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 17/2007, del Pleno del Consejo de la Judicatura Federal, por el que se Regula la Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia, fue aprobado por el Pleno del propio Consejo, en sesión de dos de mayo de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello y Oscar Vázquez Marín.- México, Distrito Federal, a dos de mayo de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se abroga el Acuerdo General 52/2006, del Pleno del Consejo de la Judicatura Federal.
