@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-que-establece-las-bases-para-proporcionar-58119"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-07-10"
-last_updated: "1981-07-10"
+last_updated: "2007-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "BCN"
 
 REGLAMENTO QUE ESTABLECE LAS BASES PARA PROPORCIONAR INFORMACION Y NORMAR LOS PROCEDIMIENTOS DE ENTREGA DE LAS DEPENDENCIAS MUNICIPALES DE LA ADMINISTRACION SALIENTE Y LA ENTRANTE, CON MOTIVO DEL CAMBIO DE GOBIERNO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA ENTREGA Y RECEPCION DE LOS ASUNTOS Y RECURSOS PUBLICOS DEL MUNICIPIO DE ENSENADA, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de julio de 1981.
 
@@ -445,3 +447,11 @@ ARNOLDO SAUCEDO ALVAREZ.
 VICTORIA VILLALOBOS DE LEON.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2007.
+
+Primero.- El presente ordenamiento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se deroga el Reglamento que Establece las Bases para Proporcionar Información y Normar los Procedimientos de Entrega de las Dependencias Municipales de la Administración Saliente y la Entrante con Motivo del Cambio de Gobierno, publicado en el Periódico Oficial No. 19 de fecha 10 de julio de 1981.
