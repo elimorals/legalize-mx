@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2002-12-25"
+last_updated: "2007-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRANSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -943,9 +943,11 @@ La señalización vial deberá ceñirse a las especificaciones contenidas en el 
 
 Las autoridades de tránsito que tomen conocimiento de hechos de tránsito deberán formular un reporte en las formas previamente aprobadas; debiendo analizar y tabular todos los reportes de accidentes recibidos y publicar periódicamente la información estadística correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 164.
 
-Las infracciones a las disposiciones de esta Ley y su Reglamento se harán constar por los agentes de tránsito en las boletas previamente aprobadas.
+Las infracciones a las disposiciones de esta Ley y su Reglamento se harán constar por los agentes de tránsito en las actas de hechos, previamente aprobadas por las autoridades correspondientes.
 
 ###### ARTICULO 165.
 
@@ -1023,13 +1025,19 @@ II. Detención y retiro de los documentos que autoricen al conductor, placas y t
 
 III. Sanciones económicas, de conformidad al tabulador de infracciones vigente.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 171.
 
-El tabulador de infracciones se elaborará, revocará, modificará o adicionará por el Ejecutivo del Estado determinando el monto de las sanciones económicas, debiendo publicarse en el Periódico Oficial.
+El tabulador de infracciones se elaborará, revocará, modificará o adicionará por el Ejecutivo del Estado determinando el monto de las sanciones económicas, debiendo publicarse en el Periódico Oficial “El Estado de Sinaloa”.
+
+Las sanciones económicas que en el tabulador se establezcan no deberán ser menores al equivalente a una vez el salario mínimo general vigente en la zona geográfica que corresponde al Estado de Sinaloa, ni mayores que el equivalente a treinta veces dicho salario mínimo.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 172.
 
-Con la finalidad de hacer efectivo el pago de las sanciones económicas impuestas a un infractor, las autoridades de tránsito podrán solicitar a la Secretaría de Hacienda Pública y Tesorería del Estado, utilizar el Procedimiento Administrativo de Ejecución previsto por la Ley de Hacienda del Estado de Sinaloa.
+Con la finalidad de hacer efectivo el pago de las sanciones económicas impuestas a un infractor, las autoridades de tránsito podrán solicitar a la autoridad fiscal correspondiente, utilizar el procedimiento administrativo de ejecución previsto por la Ley respectiva.
 
 ###### ARTICULO 173.
 
@@ -1049,13 +1057,17 @@ Los vehículos que con motivo de la aplicación de esta Ley y su Reglamento deba
 
 Después de transcurridos seis meses de depósito y custodia, si el propietario del vehículo no acude a recuperarlo, con audiencia en los términos de ley, de los interesados, se procederá a su remate por considerarse sus adeudos como crédito fiscal, teniendo preferencia dicho crédito del importe del remate.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 177.
 
-El pago de las sanciones económicas deberá hacerse en las oficinas recaudadoras correspondientes o en los lugares que las autoridades de finanzas señalen; aplicándose un descuento del 20% a quien cubra su importe dentro de los cinco días posteriores a la fecha de la boleta.
+El pago de las sanciones económicas deberá hacerse en las oficinas recaudadoras correspondientes o en los lugares que las autoridades de finanzas señalen; aplicándose un descuento del veinte por ciento a quien cubra su importe dentro de los cinco días hábiles posteriores a la fecha en que el infractor tenga conocimiento de su imposición.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 178.
 
-El conductor a quien se le levante una boleta de infracción podrá inconformarse contra la misma dentro de los tres días hábiles contados a partir del día siguiente de emitida la boleta, misma que deberá de presentarse por escrito ante la Delegación correspondiente.
+El conductor a quien se le imponga una sanción con base en una acta de hechos podrá inconformarse contra la misma dentro de los cinco días hábiles contados a partir del día siguiente a la fecha en que el infractor tenga conocimiento de su imposición, misma que deberá presentarse ante la autoridad que la hubiere emitido y resolverse por su superior jerárquico.
 
 ## TITULO TERCERO. DEL SERVICIO PUBLICO DE TRANSPORTE EN EL ESTADO DE SINALOA
 
@@ -1788,3 +1800,9 @@ Artículo Segundo.- Los requisitos establecidos para los conductores de vehícul
 P.O. 25 DE DICIEMBRE DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
