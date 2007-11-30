@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2006-11-03"
+last_updated: "2007-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -159,7 +159,9 @@ Puede, igualmente, disponer de su cuerpo, para después de su muerte, con fines 
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
-Artículo 27 bis.- Toda persona tiene derecho a que se le respete su integridad corporal y psicológica, así como su sano desarrollo para incorporarse al núcleo social para ello, contará con la asistencia y protección del Estado, conforme a las Leyes de salud y asistencia social, siendo sancionable todo acto de violencia intrafamiliar.
+###### Artículo 27 Bis.
+
+Toda persona tiene derecho a que se le respete su integridad corporal y psicológica, así como su sano desarrollo para incorporarse al núcleo social para ello, contará con la asistencia y protección del Estado, conforme a las Leyes de salud y asistencia social, siendo sancionable todo acto de violencia intrafamiliar.
 
 Se entiende por violencia intrafamiliar el acto u omisión recurrente e intencional realizado con el fin de dominar, someter o controlar, o maltratar física, verbal, psico-emocional o sexualmente a cualquier miembro de la familia o persona con la que en época anterior tuvo relación conyugal, de concubinato o de pareja unida fuera de matrimonio, independientemente de que pueda o no producir otro delito.
 
@@ -8881,9 +8883,51 @@ Del monto de la reparación del daño y de la indemnización por el perjuicio ca
 
 Se entenderá por daño la pérdida o menoscabo sufridos en el patrimonio; y por perjuicio la privación de cualquier ganancia lícita que pudiera haberse obtenido de no mediar el hecho causante del daño.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de si misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
 ###### Artículo 1760.
 
 La reparación del daño causado deberá consistir, a elección del ofendido, en el restablecimiento de la situación anterior, cuando ello fuere posible, o en el pago de daños y perjuicios actualizado al momento de hacerse efectivo el pago.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual, como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1770, así como el Estado y sus funcionarios conforme al artículo 1750, ambas disposiciones del presente Código.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando éste haya intentado la acción en vida.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de víctima, así como las demás circunstancias del caso. Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, critica, expresión e información, en los términos y con las limitaciones de los artículos 6 y 7 de la Constitución de los Estados Unidos Mexicanos. En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+###### Artículo 1760 Bis.
+
+Estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las conductas descritas se considerarán como hechos ilícitos:
+
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
+
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido, y
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+La reparación del daño moral con relación al párrafo e incisos anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo quinto del presente artículo.
+
+La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
 
 ###### Artículo 1761.
 
@@ -15376,3 +15420,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase al Titular del Ejecutivo del Estado, para los efectos legales conducentes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero para su conocimiento General.
+
+P.O. 30 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Comuníquese el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
