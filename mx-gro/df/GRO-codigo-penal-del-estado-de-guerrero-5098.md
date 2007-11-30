@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2007-04-17"
+last_updated: "2007-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1363,59 +1363,41 @@ III.- Se lleve a cabo por dos o más personas.
 
 ### CAPITULO I. INJURIAS
 
-149.- Al que en cualquier forma ofendiere la dignidad o el decoro de una persona, se le impondrá prisión de tres a seis meses o hasta cincuenta días multa o ambas sanciones a juicio del juez.
+149.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-150.- Cuando las injurias fueren consecuencia inmediata de una provocación injustificada o de una conducta innoble del ofendido, el juzgador podrá eximir de sanción al acusado.
+150.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO II. DIFAMACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+151.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-151.- Al que mediante comunicación dolosa, impute a una persona física o colectiva un hecho que cause a ésta descrédito, deshonra o afecte su reputación se le impondrá prisión de 6 meses a 3 años o multa de 180 a 360 días de salario.
-
-No se sancionará al inculpado de difamación:
-
-I.- Cuando aquélla se haya hecho a un depositario, a un agente de la autoridad o a cualquier otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones, y
-
-II.- Cuando el hecho imputado esté declarado cierto por sentencia irrevocable y el acusado obre con motivo de interés público o por interés privado legítimo y sin ánimo de dañar.
-
-152.- No se comete el delito de difamación ni de injuria, cuando:
-
-I.- Se exprese técnicamente un parecer sobre una producción literaria, artística, científica o industrial;
-
-II.- Se manifieste un juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si se probare que se obró en cumplimiento de un deber o por interés público o que, con la debida reserva, se hizo por humanidad, por prestar un servicio a personas con quien se tenga parentesco o amistad, o dándose informes que se hubieren pedido, si no se hiciere a sabiendas calumniosamente, y
-
-III.- En el trámite de algún asunto y relacionado con éste, se presente un escrito o se pronuncie un discurso injurioso, difamatorio o calumnioso ante los tribunales. En estos casos sólo se podrá imponer al autor alguna corrección disciplinaria, pero si la imputación se extiende a personas extrañas al litigio o involucra hechos no relacionados con el asunto de que se trate, se aplicarán las sanciones correspondientes a la injuria, difamación o calumnia.
+152.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ## TITULO IX. DELITOS CONTRA EL HONOR
 
 ### CAPITULO III. CALUMNIA
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+153.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-153.- Al que impute falsamente a otro un hecho que la Ley califique como delito, a sabiendas de que este no existe o de que el imputado no es responsable del mismo, se le impondrá prisión de 6 meses a 3 años o multa de 180 a 360 días de salario.
+154.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-154.- Cuando esté pendiente el proceso seguido por un delito imputado calumniosamente, no correrá la prescripción para la persecución de la calumnia, o en su caso, se suspenderá el procedimiento iniciado por esta última hasta que se dicte resolución irrevocable que ponga fin al primer proceso.
-
-155.- Al acusado por el delito de calumnia se le admitirán pruebas de su imputación y, si ésta quedare probada, se le eximirá de sanción, salvo en el caso previsto por la fracción III del artículo 152. Cuando exista sentencia irrevocable que absuelva al calumniado, no se admitirá prueba alguna de dicha imputación.
+155.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO IV. DISPOSICIONES COMUNES
 
-156.- No se podrá proceder contra el responsable de injuria, difamación o calumnia, sino por querella de la persona ofendida.
-
-Cuando la injuria, difamación o calumnia se refieran a una persona ya fallecida, se procederá por querella del cónyuge o de alguno de sus ascendientes, descendientes o hermanos. Si el delito se hubiese cometido con anterioridad al fallecimiento del ofendido, no se atenderá la querella de las personas mencionadas si aquél hubiese permitido la ofensa y, pudiendo hacerlo, se haya abstenido de presentar la querella, salvo que hubiese dispuesto que lo hicieran sus herederos.
+156.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 157.- (DEROGADO, P.O. 10 DE ENERO DE 1989)
 
-158.- Los delitos de injuria, difamación y calumnia en contra del Congreso del Estado u otro cuerpo colegiado o institución oficial, se perseguirán con sujeción a las reglas de este Título.
+158.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-159.- Los documentos u objetos que hubieren servido de medio para los delitos contra el honor, se decomisarán e inutilizarán, a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos, en cuyo caso se hará en el documento una anotación sumaria de la sentencia pronunciada en contra del acusado.
+159.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-160.- Siempre que sea condenado el acusado de un delito de injuria, difamación o calumnia, se hará publicación de la sentencia si lo solicita la parte ofendida. Cuando el delito se haya cometido por un medio de comunicación social, los responsable (sic) de éste estarán obligados a dar a conocer el fallo en el mismo medio utilizando para su comisión, imponiéndoseles diez días multa por cada día que pase sin hacerlo, a partir de aquél en que se les haya notificado la sentencia.
+160.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-161.- No servirá de excusa de la difamación o la calumnia, que el hecho imputado sea notorio o que el agente se límite a reproducir lo ya publicado en la República o en otro país.
+161.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-162.- Las personas jurídicas colectivas que resulten responsables en relación con alguno de los delitos comprendidos en este Título, serán sancionadas, además, con prohibición de uno a cuatro meses para realizar determinados actos u operaciones, conforme a lo dispuesto por el artículo 55.
+162.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 > <small>(REFORMADA SU DENOMINACION, P. O. 20 DE ABRIL DE 1999)</small>
 
@@ -3224,3 +3206,9 @@ DECRETO No. 287
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 30 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Comuníquese el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
