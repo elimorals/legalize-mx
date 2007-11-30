@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-445
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2005-03-20"
+last_updated: "2007-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -427,35 +427,71 @@ Quien tenga acceso a la información pública, será responsable del uso de la m
 
 También será responsable del uso de la información se provoca algún delito o se perturba la seguridad o la paz públicas.
 
-### Capítulo Quinto. De la Comisión de Transparencia, Acceso a la Información Pública y Atención Ciudadana
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
-###### Articulo 29.
+### Capítulo Quinto. Del Instituto de Transparencia y Acceso a la Información Pública
 
-Se crea la Comisión de Transparencia, Acceso a la Información Pública y Atención Ciudadana como un organismo interinstitucional, conformado por los tres Poderes Públicos y municipios del Estado, que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de acceso a la información pública en los términos de esta ley.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
-Al ser un organismo interinstitucional conformado por representantes de los poderes Legislativo, Ejecutivo y Judicial, así como de los municipios, y al contar con facultades y funciones colegiadas e individuales de algunos de sus miembros, desempeñará sus funciones con el presupuesto que para cada uno de los mismos en lo individual se haya determinado en el presupuesto de egresos que anualmente aprueben el Congreso del Estado y los Cabildos, respectivamente, sin perjuicio de que mediante convenio, los tres poderes y los municipios puedan acordar la asignación de recursos materiales y humanos para objetivos comunes que la propia Comisión en Pleno determine mediante votación.
+###### Artículo 29.
 
-El reglamento interior determinará la estructura orgánica y atribuciones de los servidores públicos auxiliares de la Comisión.
+El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur es un organismo público descentralizado, con personalidad jurídica propia, patrimonio propio, autonomía presupuestaria, técnica de gestión y de decisión.
+
+Como órgano estatal especializado en la materia de transparencia y acceso a la información, estará encargado de difundir, promover, proteger este derecho conforme a las disposiciones de esta ley estatal.
+
+Este Instituto se regirá en todos sus actos por los principios de máxima publicidad, legalidad, independencia, imparcialidad, certeza y objetividad.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 30.
 
-La Comisión se integrará por diez Comisionados que serán los siguientes:
+El Instituto tendrá un órgano colegiado denominado Consejo que será la autoridad del mismo, el cual estará integrado por tres miembros los cuales tendrán el carácter, uno de Consejero Presidente y dos de Consejeros Secretarios, mismos que estarán encargados de dirigir y operar el Instituto. Las decisiones que se tomen de manera conjunta se ejecutaran a través del Consejero Presidente, el cual además, fungirá como representante legal y será electo de entre los consejeros, en sesión plenaria, por un término de dos años sin posibilidad de ser reelecto.
 
-I.- Los tres Diputados que conformen la Comisión Permanente de Transparencia y Acceso a la Información Pública del Congreso del Estado;
+Los Consejeros del Instituto durarán en su cargo un término de cuatro años contados a partir del día de la elección hecha por el Congreso del Estado, de conformidad con el procedimiento establecido para tal efecto. En los casos en que el Ejecutivo del Estado ejercite la facultad de veto prevista en la Constitución del Estado y hasta en tanto no resuelva el Congreso del Estado sobre las observaciones al Decreto que corresponda, el término del cargo del Consejero del Instituto de que se trate, comenzará a correr el día siguiente al de la publicación del Decreto que corresponda.
 
-II.- El Secretario General de Gobierno del Estado;
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
-III.- Un Magistrado, designado por el Pleno del Tribunal Superior de Justicia del Estado; y
+Artículo 30 BIS.- Para ser Consejero del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, se requiere:
 
-IV.- El Secretario General de cada uno de los Ayuntamientos correspondientes a cada uno de los Municipios del Estado.
+I.- Ser mexicano por nacimiento.
 
-Los cargos de comisionados serán honorarios, por lo que las personas que los desempeñen no percibirán ningún ingreso adicional al sueldo que como servidores públicos tengan asignados.
+II.- Tener una residencia en el Estado de mas de dos años
+
+III.- Ser y tener reconocida probidad, gozar de reconocido prestigio personal y profesional.
+
+IV.- No haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión en sentencia ejecutoria; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+V.- No haber tenido cargo directivo en algún partido o asociación política dos años antes de su designación.
+
+VI.- No haber fungido como ministro de algún culto religioso dos años antes al de su designación.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 30 TER.- El procedimiento para la elección que el Congreso del Estado realice para efecto de cubrir las vacantes existentes de Consejeros del Instituto, deberá ser de conformidad con las siguientes bases.
+
+I.- La Comisión Permanente de Asuntos Políticos del Congreso del Estado solicitará a las Fracciones Parlamentarias constituidas en este, así como a los Diputados representantes de partido, una propuesta de no más de dos personas que reúnan los requisitos establecidos en el anterior artículo.
+
+II.- En caso de que en su momento exista un diputado o más declarados por sí como independientes, se recibirá una sola propuesta de entre ellos.
+
+III.- Posteriormente, la comisión en cita, deberá realizar un Dictamen en donde se establezcan los sujetos de ser electos como Consejeros del Instituto, el cual será puesto a consideración del Pleno del Congreso. En tal dictamen, se establecerá un listado de dichas personas en donde las mismas deberán estar ordenadas alfabéticamente, votándose una por una por cedula secreta hasta cubrir las vacantes existentes. La votación necesaria para efecto de aprobación de la persona de que se trate, deberá ser con la mayoría simple prevista en la Ley del Poder Legislativo del Estado.
+
+IV.- En caso de que alguno de los sujetos enlistados no hubiere alcanzado los votos requeridos, se llevará a cabo un procedimiento de insaculación en donde se integraran dentro de una urna cubierta los nombres completos de todos y cada uno de los integrantes de dicha lista, inscritos en papel oficial del Congreso del Estado, seguidamente, el Presidente de la Mesa Directiva deberá sustraer del interior de la misma un solo papel de los mencionados entendiéndose que el primero que saque será designado como miembro del Instituto.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 31.
 
-La Comisión será encabezada por un Presidente, que será el Diputado que a su vez presida la Comisión Permanente de Transparencia y Acceso a la Información Pública del Congreso del Estado, quien tendrá voto de calidad.
+Los Consejeros del Instituto, durante su cargo, no podrán desempeñar ningún otro en cualquiera de los tres poderes del estado o de la federación, así como tampoco desempeñar los de nivel municipal, excepto en los casos que se refieran a la docencia o la beneficencia pública.
 
-Toda comunucación ofical (sic) será firmada por el Presidente de la Comisión.
+Asimismo, serán sujetos de responsabilidad en el servicio público de conformidad con la ley en la materia, sin menoscabo de la responsabilidad de los delitos del orden común o federal que cometieran durante el desempeño de su cargo.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 31 BIS.- Para el buen desempeño de sus labores y objetivos, el Instituto contará con un Secretario Técnico el cual será electo por el pleno del mismo y será el responsable del funcionamiento administrativo y, junto con el Presidente y Secretarios del operativo del Instituto, así como de las demás competencias que se le asignen para el cumplimiento de las atribuciones del órgano estatal. El Instituto contará con el personal necesario para el despacho de los asuntos de su competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+Artículo 31 TER.- El desempeño de los cargos de Consejeros del Instituto, del Secretario Técnico, así como del personal en general, serán remunerados de manera proporcional y equitativa según el puesto que desempeñe cada uno de estos, de conformidad con el presupuesto que para su funcionamiento y operación le sea asignado.
 
 ###### Artículo 32.
 
@@ -888,3 +924,37 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día primero de marzo del año dos mil ocho, previa publicación del mismo en el Boletín Oficial del Gobierno del Estado Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Permanente de Transparencia y Acceso a la Información prevista en la fracción XXI de los artículos 54 y 55 de la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur y la Comisión de Transparencia, Acceso a la Información Pública y Atención Ciudadana contemplada en los artículos 29, 30, 31, 32, 33, 34, 35 y 36 del Capitulo Quinto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, quedarán derogadas hasta en tanto entre en funciones y operación el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por única ocasión y para efectos de la integración inicial del Consejo del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, los Consejeros de dicho órgano estatal serán electos por cuatro, cinco y seis años, respectivamente, con el objeto de que al momento de la renovación de los mismos, siempre sea posible contar con una adecuada combinación de experiencia, conocimiento y prestigio personal y profesional.
+
+Para los efectos del párrafo anterior, el Congreso del Estado de Baja California Sur deberá de elegir a las personas que ocupar los cargos de Consejeros del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, dentro del Segundo Periodo Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional de la XI Legislatura. El término que durarán respectivamente cada uno de los Consejeros electos, comenzará a correr con el inicio de la vigencia del presente Decreto previsto en el Artículo Primero Transitorio de este documento.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur expedirá su Reglamento Interior en un período no mayor a sesenta días naturales a partir del inicio de su funcionamiento y operación.
+
+###### ARTÍCULO QUINTO.
+
+A partir de su nombramiento, los Consejeros del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur deberán instrumentar las acciones concernientes para que la presente Ley sea conocida y difundida entre los diversos sectores sociales y públicos, así como a concientizar a los ciudadanos y servidores públicos de la importancia que revisten los derechos de acceso a la información y de Hábeas Data, en una sociedad democrática.
+
+###### ARTÍCULO SEXTO.
+
+Se retoman los términos previstos en artículo Quinto Transitorio del Decreto 1522 que da vida a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, en lo concerniente a las prevenciones que los Poderes Ejecutivo y Legislativo en el Estado deban de realizar dentro la Ley de Ingresos y Presupuestos de Egresos del Estado, que para este caso lo deba ser para el Ejercicio Fiscal del año dos mil ocho, estableciendo estos Poderes las prevenciones presupuéstales suficientes que permitan el eficiente funcionamiento y operación de Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
