@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2005-del-pleno-del-consejo-de-la-45657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2007-06-13"
+last_updated: "2007-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-13"
 
 ACUERDO GENERAL 28/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2007.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -99,11 +99,11 @@ XV. Plan: El Plan de Pensiones Complementarias de Magistrados de Circuito y Juec
 
 XVI. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto o, de existir, la partida presupuestal correspondiente.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 20/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2 Bis.
 
-Los magistrados de Circuito y jueces de Distrito podrán, en cualquier momento, realizar donativos que permitan financiar el Plan regulado en este Acuerdo, en la forma y términos que a los donantes beneficie, previa aprobación del Consejo.
+Se podrán recibir, por cualquier persona, donativos que permitan financiar el Plan regulado en este Acuerdo.
 
 ## TITULO SEGUNDO. Del los Beneficiarios de la Pensión Complementaria
 
@@ -123,6 +123,14 @@ III. Los hijos menores de edad o incapaces de los servidores públicos mencionad
 
 La cantidad total a que tengan derecho los beneficiarios señalados en las fracciones II y III de este artículo, se dividirá en partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una pensión y alguno de ellos perdiese el derecho a percibirla, la parte que le corresponda será repartida proporcionalmente entre los restantes.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+
+El Pleno podrá autorizar el otorgamiento de una pensión complementaria a los beneficiarios a que se refieren las fracciones I a III de este artículo, aun cuando no satisfagan los requisitos que para tal efecto se prevén en el presente Acuerdo, cuando por causas debidamente justificadas, y previo estudio socioeconómico, se advierta que carecen de ingresos suficientes que les permita vivir con decoro.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+
+El monto de la pensión complementaria se deberá calcular conforme a las reglas previstas en la normativa vigente al momento en que cause baja el juez o magistrado respecto del cual se tramite la solicitud de pensión complementaria respectiva.
+
 ## TITULO TERCERO. De la Cuantía de la Pensión por Jubilación
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
@@ -141,11 +149,11 @@ Los montos de las pensiones complementarias serán determinados conforme a las r
 
 La Comisión deberá ordenar, al menos una vez cada año, la práctica de estudios actuariales profesionales con el fin de disponer de elementos suficientes para la toma de decisiones que aseguren la suficiencia del Fondo y la supervivencia indefinidida (sic) del Plan, teniendo siempre como objetivo, alcanzar el porcentaje establecido en el artículo 4 de este Acuerdo.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 7.
 
-Para calcular cada pensión en particular, el titular de Servicios al Personal deberá considerar el sueldo pensionable de cada servidor público y la pensión que deba recibir del ISSSTE.
+Para calcular cada pensión en particular, el titular de Servicios al Personal deberá considerar el sueldo pensionable de cada servidor público y la pensión que debiera recibir del ISSSTE, conforme a la Ley del citado instituto.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
@@ -205,7 +213,9 @@ f) 30 años de servicios efectivos en el Poder Judicial, la pensión ascenderá 
 
 g) 31 años de servicios efectivos en el Poder Judicial, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
 
-h) 32 años de servicios efectivos en el Poder Judicial, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+
+h) 32 años de servicios efectivos en el Poder Judicial o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable.
 
 i) 33 años de servicios efectivos en el Poder Judicial, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
 
@@ -271,7 +281,9 @@ f) 30 años de servicios efectivos en el Poder Judicial, la pensión ascenderá 
 
 g) 31 años de servicios efectivos en el Poder Judicial, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable, y
 
-j) (sic) 32 años de servicios efectivos en el Poder Judicial o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+
+h) 32 años de servicios efectivos en el Poder Judicial o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable.
 
 5.- A los 69 años de edad y:
 
@@ -361,11 +373,11 @@ No obstante lo previsto en el artículo 4 de este acuerdo, el Pleno podrá incre
 
 Para recibir la pensión complementaria a que se refiere este Acuerdo, será necesario que el beneficiario interesado lo solicite mediante escrito dirigido a la Comisión, el que deberá ser presentado en la Oficina de Correspondencia del Consejo, directamente o por correo certificado.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 17.
 
-Una vez presentada la solicitud de pensión complementaria el titular de Servicios al Personal, dentro de los treinta días siguientes a su recepción, deberá ordenar se recabe la información necesaria y, con base en ella, elaborar un proyecto de resolución en el que proponga a la Comisión, previo visto bueno del titular de la Contraloría, el sentido de la resolución que determine sobre la procedencia o no de la pensión solicitada.
+Una vez presentada la solicitud de pensión complementaria, el titular de Servicios al Personal deberá ordenar se recabe la información necesaria para integrar el expedientillo respectivo y, con base en éste, elaborar un proyecto de resolución en el que proponga a la Comisión, previo visto bueno del titular de la Contraloría, el sentido de la resolución que determine sobre la procedencia o no de la pensión solicitada, en un plazo que no deberá exceder de treinta días siguientes a la integración del citado expedientillo.
 
 De toda resolución que dicte la Comisión deberá informar al Pleno en la siguiente sesión ordinaria; así como a la Suprema Corte de Justicia de la Nación para su conocimiento.
 
@@ -411,11 +423,11 @@ En contra de la resolución que decida sobre el recurso de reconsideración no p
 
 ## TITULO OCTAVO. Del Pago de la Pensión Complementaria
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 26.
 
-El derecho a recibir la pensión complementaria, para los beneficiarios a que se refiere la fracción I del artículo 3 de este Acuerdo, se origina a partir de la fecha de baja en el cargo del que se retire el servidor público de que se trate, siempre y cuando la solicitud de pensión complementaria sea procedente.
+El derecho a recibir la pensión complementaria, para los beneficiarios a que se refiere la fracción I del artículo 3 de este Acuerdo, se origina a partir del día siguiente a la fecha de baja en el cargo del que se retire el servidor público de que se trate, siempre y cuando la solicitud de pensión complementaria sea procedente.
 
 El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará dentro de los últimos tres días del mes vencido; tratándose del primer pago, éste se hará retroactivo a partir de la fecha de baja del servidor público.
 
@@ -526,3 +538,9 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así 
 TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 28/2005 del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
 
 CUARTO.- Lo dispuesto en el artículo 14 del presente Acuerdo será aplicable a los beneficiarios que presenten su solicitud con posterioridad a la entrada en vigor de este Acuerdo.
+
+D.O.F. 30 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
