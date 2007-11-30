@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2007-10-24"
+last_updated: "2007-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -6547,7 +6547,9 @@ IX. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN 
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2005)</small>
 
-Artículo 616 bis.- En los comercios señalados en el presente artículo queda estrictamente prohibida la venta de bebidas alcohólicas e ingreso de clientes a partir de las 2:00Hrs.
+###### Artículo 616 Bis.
+
+En los comercios señalados en el presente artículo queda estrictamente prohibida la venta de bebidas alcohólicas e ingreso de clientes a partir de las 2:00Hrs.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -6639,7 +6641,9 @@ Para los efectos de este Capítulo, será considerado como reincidente aquel est
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-Artículo 623 bis.- En caso de reincidencia a las violaciones establecidas en el presente Capítulo, se aplicarán las siguientes sanciones:
+###### Artículo 623 Bis.
+
+En caso de reincidencia a las violaciones establecidas en el presente Capítulo, se aplicarán las siguientes sanciones:
 
 I. Por segunda infracción: Clausura temporal de uno a treinta días, dependiendo de la gravedad de la violación al presente Capítulo; y
 
@@ -9796,6 +9800,8 @@ Para las personas con capacidades diferentes, se destinará por lo menos un espa
 Cuando se implemente el servicio de valet parking, será necesario contar con bahías de recepción y entrega de vehículos con capacidad mínima de 3 unidades.
 
 ## TÍTULO ÚNICO. DE LAS PRERROGATIVAS DEL TRABAJO MUNICIPAL
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 789.
 
@@ -16275,7 +16281,9 @@ La aplicación del presente apartado, estará a cargo de la Secretaría de Admin
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-Artículo 1336 bis.- En el caso de que el retiro de un anuncio sea efectuado por la autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine, hasta por un plazo de 2 meses contados a partir de la fecha en que se realice el retiro, a cuyo vencimiento se estará a lo dispuesto en el Código Fiscal y Presupuestario del Municipio de Puebla.
+###### Artículo 1336 Bis.
+
+En el caso de que el retiro de un anuncio sea efectuado por la autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine, hasta por un plazo de 2 meses contados a partir de la fecha en que se realice el retiro, a cuyo vencimiento se estará a lo dispuesto en el Código Fiscal y Presupuestario del Municipio de Puebla.
 
 El material que resulte del retiro, podrá ser devuelto a quien lo solicite, debiendo acreditar:
 
@@ -22609,7 +22617,7 @@ DEL RECURSO INCONFORMIDAD
 
 Las resoluciones dictadas por la autoridad Municipal con motivo de la aplicación del presente Capítulo y disposiciones que de él emanan, que apliquen sanciones y causen agravio personal y directo, podrán ser recurridas en términos de la Ley Orgánica Municipal.
 
-### CAPÍTULO 30. PENSIONES A EMPLEADOS MUNICIPALES
+### CAPÍTULO 30. JUBILACIONES A EMPLEADOS MUNICIPALES
 
 ###### Artículo 1831.
 
@@ -23575,7 +23583,7 @@ DEL RECURSO DE INCONFORMIDAD
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación del presente Capítulo, podrán ser impugnadas, mediante el recurso de inconformidad previsto en la Ley Orgánica Municipal del Estado de Puebla.
 
-### CAPÍTULO 31. ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL AYUNTAMIENTO DE PUEBLA
+### CAPÍTULO 31. ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
 
@@ -24087,6 +24095,8 @@ II. En el caso de pinturas en aerosol, al remozamiento de las fachadas afectadas
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 1942.
 
 El presente Capítulo tiene por objeto establecer las disposiciones conforme a las cuales se regulará el aprovechamiento del suelo respecto al establecimiento de Estaciones de Servicio de Gas Licuado de Petróleo con Almacenamiento Fijo dentro el Municipio de Puebla.
@@ -24411,75 +24421,137 @@ DISPOSICIONES GENERALES
 
 Las disposiciones del presente Capítulo se aplicarán a los funcionarios, empleados y trabajadores del Ayuntamiento del Municipio de Puebla.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 1982.
 
-Para los efectos del presente Capítulo, se entiende por jubilado o pensionado al funcionario, empleado o trabajador a quien el Honorable Cabildo hubiere autorizado retirar del servicio activo y conceder una pensión vitalicia.
+Para los efectos del presente Capítulo, se entiende por jubilado al funcionario, empleado o trabajador a quien el Honorable Cabildo, mediante dictamen, otorgue una jubilación.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1983.
 
-El interesado en su solicitud debe especificar:
+Los Servidores Públicos del Municipio que tengan derecho a su jubilación, deberán presentar ante el Secretario del Ayuntamiento la siguiente documentación en original y nueve tantos de copias fotostáticas:
 
-I. La fecha en que comenzó a prestar sus servicios al Ayuntamiento;
+I.- Solicitud de jubilación dirigida al C. Presidente Municipal;
 
-II. Las interrupciones que hubiera tenido en sus servicios activos por licencia sin goce de sueldo o por haber dejado de prestar sus servicios por renuncia o separación;
+II.- El nombramiento de base (para los casos de trabajadores de base y sindicalizados);
 
-III. El tiempo que compute de haber prestado sus servicios al Municipio; y
+III.- El nombramiento expedido a su favor que lo acredite como Funcionario, Empleado o Trabajador del Municipio (para los casos de los trabajadores de honorarios);
 
-IV. El sueldo que perciba.
+IV.- Acta de Nacimiento;
+
+V.- Certificación de Años de Antigüedad;
+
+VI.- Último ticket de pago;
+
+VII.- Comprobante domiciliario;
+
+VIII.- Credencial de Elector; y
+
+IX.- Gafete expedido por el H. Ayuntamiento del Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1984.
 
-Los Servidores del Municipio que consideren reunir los requisitos para que se les conceda su jubilación o pensión a su solicitud deben acompañar:
+Para obtener la certificación de antigüedad, el interesado deberá observar el trámite siguiente:
 
-I. Los comprobantes de los datos de su solicitud;
+I.- Oficio de solicitud dirigido al Secretario del Ayuntamiento;
 
-II. Los nombramiento expedidos a su favor: Funcionario, Empleado o Trabajador del Municipio; y
+II.- Especificar la fecha en que comenzó a prestar sus servicios al Ayuntamiento y área de adscripción; y
 
-III. Su acta de nacimiento.
+III.- Las interrupciones que hubiera tenido en sus servicios activos por licencia sin goce de sueldo o por haber dejado de prestar sus servicios por renuncia o separación.
+
+Para los efectos de cómputo a que se refiere este artículo la Secretaria del Ayuntamiento considerará un año, cuando el trabajador haya laborado seis meses y un día.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1985.
 
-Podrá ser pensionado por el H. Ayuntamiento, el empleado que cumpla 30 años de servicio a favor del mismo, que así lo solicite; de igual manera, será sujeto a pensionarse, el trabajador que cumpla 65 años de edad y cuente con 10 años de servicio prestados de manera ininterrumpida.
+Tendrá derecho a ser jubilado, al 100% del salario integral por el H. Ayuntamiento, el empleado, trabajador o funcionario que cumpla, en el caso de las mujeres 27 años y, en el caso de los hombres 30 años de servicio, prestados de manera ininterrumpida a favor del mismo, que así lo solicite.
 
-Para los efectos de cómputo a que se refiere este artículo, se considerará un año, cuando el trabajador haya laborado seis meses y un día.
+Para los efectos de jubilación, se tomará en cuenta el tiempo durante el cual el funcionario, empleado o trabajador dejó de prestar sus servicios por enfermedad o por accidente de trabajo justificados, por resoluciones emitidas por el Tribunal de Arbitraje del Municipio de Puebla, o acordadas espontáneamente entre el Ayuntamiento y el Sindicato.
 
-Para probar la edad, no se admitirá más prueba que la correspondiente acta de nacimiento autorizada por el Juez del Registro Civil de las Personas.
-
-Para los efectos de jubilación, se tomará en cuenta el tiempo durante el cual el funcionario, empleado o trabajador dejó de prestar sus servicios por enfermedad o por accidente de trabajo debida y oportunamente justificados.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1986.
 
-Ninguna pensión actual o anterior será inferior al 25% del salario mínimo general vigente en la zona.
+Los trabajadores que se encuentren física o mentalmente imposibilitados para la vida laboral, previo dictamen médico, expedido por el IMSS y, que no cumplan con los 27 años para el caso de las mujeres, o 30 años de servicios para el caso de los hombres, tendrán derecho a su jubilación al cumplir, cuando menos, 15 años de servicio efectivo; el porcentaje de la jubilación se determinará por la siguiente tabla:
+
+HOMBRES MUJERES
+
+15 años de servicio 50% 15 años de servicio 57.5%
+
+16 años de servicio 52.5% 16 años de servicio 60%
+
+17 años de servicio 55% 17 años de servicio 62.5%
+
+18 años de servicio 57.5% 18 años de servicio 65%
+
+19 años de servicio 60% 19 años de servicio 67.5%
+
+20 años de servicio 62.5% 20 años de servicio 70%
+
+21 años de servicio 65% 21 años de servicio 72.5%
+
+22 años de servicio 67% 22 años de servicio 75%
+
+23 años de servicio 70% 23 años de servicio 80%
+
+24 años de servicio 72.5% 24 años de servicio 85%
+
+25 años de servicio 75% 25 años de servicio 90%
+
+26 años de servicio 80% 26 años de servicio 95%
+
+27 años de servicio 85%
+
+28 años de servicio 90%
+
+29 años de servicio 95%
 
 ###### Artículo 1987.
 
-Tratándose del sexo femenino se otorgará como pensión del 100% del salario cuando cumplan 27 años de trabajo.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1988.
 
-Las pensiones o jubilaciones se aumentarán en el mínimo porcentaje que se aumente a los salarios mínimos generales de la zona.
+Las jubilaciones se incrementarán, en el mismo porcentaje salarial que se pacte para los trabajadores activos del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1989.
 
 La tramitación de las jubilaciones seguirá el procedimiento siguiente:
 
-I. La solicitud por escrito será dirigida al Ciudadano Presidente Municipal y presentada a la Secretaria General quien pedirá informes a la Dirección de Servicios Administrativos acerca del buen comportamiento, honradez, en el desempeño de sus funciones y cumplimiento d (sic) las obligaciones del servidor del Municipio que pretenda ser jubilado del sueldo que disfrute y del tiempo que debe computársele para los efectos de su jubilación;
+I.- La solicitud por escrito será dirigida al Ciudadano Presidente Municipal y presentada en la Secretaría del Ayuntamiento, quien pedirá a la Secretaría de Administración informe respecto del sueldo que perciba el trabajador y del tiempo que debe computársele para los efectos de su jubilación;
 
-II. El Secretario General turnará a Sindicatura Municipal en un tiempo no mayor de 20 días la solicitud con el informe del Archivo Municipal; y
+II.- El Secretario del Ayuntamiento turnará a la Sindicatura Municipal en un tiempo no mayor de 20 días la solicitud con la certificación de antigüedad sobre el tiempo efectivamente laborado por el trabajador;
 
-III. La Sindicatura hará la propuesta a los Regidores que integran la H. Comisión de Hacienda, quienes por unanimidad o por mayoría, emitirán el dictamen que proceda, el que se pondrá a la consideración del Honorable Cabildo para que tome el acuerdo correspondiente.
+III.- La Sindicatura hará la propuesta a los Regidores que integran la H. Comisión de Hacienda, quienes, emitirán el dictamen que proceda, el que se pondrá a la consideración del Honorable Cabildo para que tome el acuerdo correspondiente; y
+
+IV.- Agotado el procedimiento anterior y en caso de que el Cabildo no dictamine en el plazo de 90 días naturales, se dará por otorgada la jubilación a favor del trabajador que la solicitó.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1990.
 
-Para determinar el monto de la pensión se tomará como base el último sueldo que perciba el jubilado.
+Para determinar el monto de la jubilación se tomará como base el último sueldo integral que perciba el trabajador.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1991.
 
-La comprobación del tiempo de servicio se hará por medio de las nóminas, de pago, de los registros y archivos oficiales.
+La comprobación del tiempo de servicio se hará por medio de la certificación de antigüedad, que emita el Secretario del Ayuntamiento, considerando el tiempo efectivamente laborado.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1992.
 
-El retiro del servicio se hará efectivo desde el primer día del mes siguiente a aquel en que el interesado haya obtenido su jubilación.
+El retiro del servicio del trabajador de base, se hará efectivo a partir del primer día en que, el Sindicato presente a la persona que cubrirá la plaza vacante generada por la jubilación.
 
 ###### Artículo 1993.
 
@@ -24487,25 +24559,51 @@ La H. Comisión de Hacienda podrá proponer al H. Cabildo a un jubilado para des
 
 ###### Artículo 1994.
 
-Cuando un empleado o trabajador, teniendo derecho a la jubilación, sufra incapacidad total permanente por causa del trabajo o enfermedad profesional, a más de su pensión jubilatoria, tendrá derecho a una indemnización equivalente a 365 días de su sueldo o salario que se le cubrirá inmediatamente por una sola vez.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1995.
 
-La muerte del jubilado extingue el derecho a la pensión pero el Ayuntamiento tiene la obligación entregar a sus beneficiarios lo que corresponda a 12 meses de pensión, previa la exhibición de certificado de defunción. La cantidad antes citada la entregará el Ayuntamiento en una sola exhibición igual al importe de doce meses de la pensión que disfrutará.
+La jubilación se extingue por muerte del jubilado, correspondiéndole a su beneficiario el pago de extinción de jubilación consistente en 13 meses de la cantidad que percibía el trabajador jubilado.
+
+Los beneficiarios del jubilado fallecido, para cobrar el importe por la extinción de jubilación deberán presentar a la Secretaría del Ayuntamiento, en original y copia fotostática de la documentación siguiente:
+
+I.- Solicitud de Pago de Extinción de Jubilación;
+
+ll.- Acta de defunción;
+
+III.- Acta de Nacimiento del Beneficiario;
+
+IV.- Credencial de Elector del Beneficiario;
+
+V.- Credencial expedida por el Ayuntamiento que lo acredite como Jubilado;
+
+VI.- Constancia de la designación de Beneficiarios; y
+
+VII.- Último ticket de pago.
+
+El pago por concepto de extinción de jubilación, la pagará el Ayuntamiento en una sola exhibición y en un plazo no mayor de sesenta días naturales, contados a partir de que la Secretaría del Ayuntamiento, reciba la solicitud y documentación correspondiente.
 
 ###### Artículo 1996.
 
 Son beneficiarios de los jubilados y por lo tanto tienen derecho a las prestaciones que establecen las disposiciones de este Capítulo:
 
-I. La persona o personas designadas como beneficiarios por el jubilado, ante la Secretaría General del Ayuntamiento, podrán ser renovados o modificados por el pensionado cuantas veces quiera y en cualquier momento la última designación depositada en la Secretaría, deja sin efecto a la (sic) anteriores. Si hubieran varios pliegos de designaciones y no se pudiera determinar: Las fechas en las que fueron depositados, todos lo de fecha imprecisa serán nulos; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
-II. A falta de personas designadas, los herederos del jubilado hubieren sido declarados así por Juez competente ya sea en sucesión testamentaria o legítima.
+I.- La persona o personas designadas como beneficiarios por el jubilado, ante la Secretaria del Ayuntamiento, podrán ser renovados o modificados por el jubilado cuantas veces quiera y en cualquier momento; la última designación depositada en la Secretaría, deja sin efecto a las anteriores; y
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+II.- Cuando el trabajador jubilado no hubiere designado beneficiarios, se entregará el pago de extinción de jubilación a los beneficiarios que determine el H. Tribunal de Arbitraje del Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1997.
 
-Si un funcionario, Empleado o Trabajador del Municipio de Puebla que estando en servicio y teniendo derecho a ser jubilados o sufriere una incapacidad total permanente para desempeñar cualquier trabajo el Ciudadano Presidente Municipal tiene facultades para concederle inmediatamente la jubilación en término de este Capítulo, dentro del término de dos meses el acuerdo correspondiente será puesto a la consideración del H. Cabildo para su confirmación, modificación o revocación. Si transcurridos dos meses el acuerdo del C. Presidente Municipal no hubiere sido puesto a la consideración al Cabildo, dicho acuerdo por ministerio de este Capítulo quedará sin ningún efecto y en este caso el interesado deberá iniciar el trámite normal.
+Es imprescriptible e irrenunciable el derecho al otorgamiento de una jubilación, siempre y cuando el trabajador satisfaga todos y cada uno de los requisitos establecidos en este Capítulo.
 
-Si el interesado no gestiona su jubilación dentro de los dos años siguientes a la fecha en que haya dejado de prestar sus servicios al Ayuntamiento, prescribirá su derecho para recibir la pensión que le conceden las disposiciones de este reglamento.
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPÍTULO 34. ESPECTÁCULOS DE BOX Y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA
 
@@ -24529,21 +24627,37 @@ II. EL SECRETARIO TÉCNICO: La autoridad municipal responsable de los Recursos H
 
 III. LAS DEPENDENCIAS MUNICIPALES: A las oficinas donde prestan sus servicios los trabajadores del H. Ayuntamiento de Puebla;
 
-IV. LOS SINDICATOS: A los Sindicatos legalmente reconocidos por la competente;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
-V. SECRETARIOS GENERALES: A los Secretarios de los Sindicatos legalmente reconocidos por la autoridad competente;
+IV. EL SINDICATO.- Al Sindicato Titular de las Condiciones Generales de Trabajo;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+V. AL SECRETARIO GENERAL.- Al Secretario General del Sindicato Titular de las Condiciones Generales de Trabajo;
 
 VI. LA LEY: A la Ley de los Trabajadores al Servicio del Ayuntamiento del Municipio de Puebla;
 
-VII. ESTATUTOS: A los estatutos establecidos por los Sindicatos que son reconocidos por la autoridad competente;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
-VIII. LA COMISIÓN: A la Comisión Mixta de Escalafón; y
+VII. CONDICIONES GENERALES DE TRABAJO.- A las Condiciones Generales de Trabajo para los Trabajadores al Servicio del Honorable Ayuntamiento del Municipio de Puebla en vigor;
 
-IX. EL H. TRIBUNAL.- Al Honorable Tribunal de Arbitraje del Municipio de Puebla.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+VIII. ESTATUTOS.- A los Estatutos del Sindicato Titular de las Condiciones Generales de Trabajo;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+IX. LA COMISIÓN.- A la Comisión Mixta de Escalafón; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+X. EL H. TRIBUNAL.- Al Honorable Tribunal de Arbitraje del Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2000.
 
-Las disposiciones de este Capitulo son de observancia obligatoria para el Presidente Municipal, los Titulares, los Sindicatos reconocidos por la Autoridad Municipal, los Trabajadores de Base del H. Ayuntamiento de Puebla y la Comisión Mixta de Escalafón.
+Las disposiciones de este Capítulo son de observancia obligatoria para el Presidente Municipal, los Titulares, el Sindicato, los Trabajadores de Base del H. Ayuntamiento de Puebla y la Comisión Mixta de Escalafón.
 
 DEL ESCALAFÓN
 
@@ -24567,9 +24681,11 @@ I. DE SERVICIOS: Integrado por aquellos trabajadores cuyas actividades están di
 
 II. ADMINISTRATIVO.- Integrado por trabajadores que realizan funciones concernientes al desempeño de labores de oficina, tales como el registro, trámite y control de documentos. Así como por trabajadores que para su desempeño requieren de un grado de estudios que deberán de acreditar mediante un Título, Certificado, Carta de Pasante o Diploma, emitido por Institución reconocida.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 2005.
 
-Los grupos descritos en el artículo anterior, se podrán dividir en tantas ramas como conjunto de funciones análogas existan en el Catalogo de Puestos, a su vez las ramas contendrán tantos puestos como actividades de señalen a los trabajadores.
+Los grupos descritos en el artículo anterior, se podrán dividir en tantas ramas como conjunto de funciones análogas existan en el Catálogo de Puestos, a su vez las ramas contendrán tantos puestos como actividades se señalen a los trabajadores.
 
 ###### Artículo 2006.
 
@@ -24603,7 +24719,9 @@ Invariablemente el trabajador que obtenga el ascenso escalafonario, deberá ocup
 
 El ascenso de los trabajadores de base se determinará mediante la calificación de los siguientes factores escalafonarios: Antigüedad, conocimiento, aptitud, disciplina, puntualidad y asistencia, los cuales se entienden como:
 
-I. ANTIGÜEDAD: El tiempo efectivo de servicios prestados por el trabajador al H. Ayuntamiento. En este rubro el trabajador que tenga veinte años de servicio, se le otorgará por el H. Ayuntamiento el puesto inmediato superior;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+I. ANTIGÜEDAD.- El tiempo efectivo de servicio prestado por el trabajador al H. Ayuntamiento. En este rubro a el trabajador que tenga veinte años de servicio, se le otorgará por el H. Ayuntamiento la categoría y el salario inmediato superior;
 
 II. CONOCIMIENTO: La posesión de los principios teóricos y prácticos que se requieren para el desempeño del puesto que el trabajador pretende ocupar, de acuerdo a los requisitos señalados en el Catálogo de puestos del H. Ayuntamiento;
 
@@ -24627,9 +24745,11 @@ II. Las causas que señalan los artículos 11, 24 y 39 de la Ley.
 
 Los trabajadores sólo podrán ejercer derechos escalafonarios, en el término establecido por el artículo 43 de la Ley.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 2014.
 
-Para ascender a una categoría superior, el trabajador de base deberá acreditar que cumple con los factores escalafonarios establecidos en el artículo 2011 del presente ordenamiento.
+Para ascender a una categoría superior, el trabajador de base deberá acreditar que cumple con los factores escalafonarios establecidos en los artículos 2008 y/o 2011 del presente ordenamiento.
 
 ###### Artículo 2015.
 
@@ -24707,13 +24827,17 @@ La Comisión comunicará el resultado al trabajador beneficiado con el ascenso, 
 
 DE LA COMISIÓN MIXTA DE ESCALAFÓN
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 2026.
 
-Para los efectos de este Capítulo, se constituirá una Comisión Mixta de Escalafón, integrada por el número de representantes que se requieran, uno nombrado por el H. Ayuntamiento y el resto por cada uno de los Sindicatos reconocidos por la Autoridad Municipal.
+Para los efectos de este Capítulo, se constituirá una Comisión Mixta de Escalafón, integrada por dos representantes, uno nombrado por el H. Ayuntamiento y otro por el Sindicato. En caso de empate en sus decisiones, determinará el H. Tribunal.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2027.
 
-El Presidente Municipal al designar representante de la Comisión Mixta de Escalafón, dará aviso a los Sindicatos reconocidos por la Autoridad Municipal, para que estos a su vez integren la citada Comisión, dentro de un término de tres días hábiles.
+El Presidente Municipal al designar representantes de la Comisión Mixta de Escalafón, dará aviso al Sindicato, para que éste a su vez, nombre a sus representantes, para que sea integrada la citada Comisión, dentro de un término de tres días hábiles.
 
 ###### Artículo 2028.
 
@@ -24723,23 +24847,31 @@ La sede de la Comisión será asignada por el H. Ayuntamiento, proporcionándole
 
 La Comisión es el órgano encargado de vigilar el cumplimiento de este Capítulo, obligándose a:
 
-I. Informar al Presidente Municipal y a los Sindicatos legalmente reconocidos por la autoridad competente, de las actividades que realice;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+I. Informar al Presidente Municipal y al Sindicato, de las actividades que realice;
 
 II. Llevar control de los cambios que se generen por movimiento escalafonario, y notificar cada movimiento a los Titulares;
 
-III. Rendir un informe semestralmente y cuando lo requieran el H. Ayuntamiento y los Sindicatos reconocidos por la autoridad competente, de las plazas vacantes que se generen de acuerdo al artículo 1841 de este Capítulo;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+III. Rendir un informe semestralmente y cuando lo requieran el H. Ayuntamiento y el Sindicato, de las plazas vacantes que se generen de acuerdo al artículo 1841 de este Capítulo;
 
 IV. Formular los programas de trabajo y asignar funciones al Secretario Técnico; y
 
 V. Cumplir con las demás obligaciones que se deriven de la Ley, del presente Capítulo y de otras disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 2030.
 
-Los acuerdos de la Comisión serán respetados por el Presidente Municipal, el H. Ayuntamiento, los Sindicatos legalmente reconocidos por la autoridad competente y los trabajadores.
+Los acuerdos de la Comisión serán respetados por el Presidente Municipal, el H. Ayuntamiento, el Sindicato y los trabajadores.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2031.
 
-El Presidente Municipal, el H. Ayuntamiento, los Sindicatos legalmente reconocidos por la autoridad competente y los trabajadores, están obligados a proporcionar a la Comisión todos aquellos documentos e información que ésta requiera, para resolver asuntos de su competencia.
+El Presidente Municipal, el H. Ayuntamiento, el Sindicato y los trabajadores, están obligados a proporcionar a la Comisión todos aquellos documentos e información que ésta requiera, para resolver asuntos de su competencia.
 
 ###### Artículo 2032.
 
@@ -24793,185 +24925,199 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 2036.
 
-El presente Capítulo tiene por objeto regular la prestación de seguro de vida para los servidores públicos del Ayuntamiento de Puebla.
+El presente Capítulo tiene por objeto regular la prestación de seguro de vida para los servidores públicos del Ayuntamiento del Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2037.
 
-El seguro de vida para los trabajadores del Ayuntamiento de Puebla tiene como finalidades:
+El seguro de vida tiene como finalidad apoyar económicamente a los familiares o beneficiarios de los trabajadores fallecidos.
 
-Por fallecimiento, la ayuda económica para los beneficiarios designados por los asegurados o sus herederos;
-
-La ayuda económica para los mismos asegurados, cuando sufran incapacidad total o permanente, consistente en la pérdida absoluta de facultades o aptitudes que los imposibiliten para desempeñar cualquier trabajo por el resto de su vida; o
-
-Auxiliar a los jubilados, entregándoles el 50% del importe de la póliza, si así lo solicitan por escrito.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2038.
 
-En los casos de incapacidad, a solicitud del interesado o de sus representantes legales, la Junta de Administración del Seguro de Vida, designará a tres médicos que deberán practicar reconocimiento al asegurado.
+El Ayuntamiento se obliga a asegurar a sus empleados, trabajadores y funcionarios a partir del día siguiente en que presten sus servicios.
 
-Es necesario para el pago de la póliza que dichos facultativos dictaminen unánimemente, que la persona de quien se trata, está incapacitada total y permanentemente para trabajar.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2039.
 
-Para los efectos de este capítulo y de los beneficios del seguro, se entiende por servidor del municipio de Puebla, todo funcionario electo o designado, trabajador o empleado de base que desempeñe sus cargos, labores o empleos durante tres meses.
+El Ayuntamiento previa licitación contratará y mantendrá vigente un Seguro de Vida Grupal a favor de sus servidores públicos con la Compañía de Seguros que, resulte ganadora de la licitación correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2040.
 
-Los funcionarios, trabajadores o empleados que desempeñen sus cargos o labores durante tres meses, si están al corriente en el pago de las cuotas, quedarán automáticamente asegurados.
+En el contrato de adjudicación, firmado entre el Ayuntamiento y la Compañía de Seguros, se especificará que el monto de la suma asegurada se pagará Íntegramente a los beneficiarios no importando el parentesco.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2041.
 
-Los casos en los que se discuta la condición de asegurado de un servidor del Municipio de Puebla, serán resueltos por la Junta de Administración del Seguro de Vida. En tanto un servidor del Ayuntamiento de Puebla no reúna los requisitos de los artículos 2038 y 2039 de este ordenamiento, no tendrá los derechos ni las obligaciones del asegurado.
+El importe de la suma asegurada se establecerá en las Condiciones Generales de Trabajo, previo acuerdo entre el Ayuntamiento y el Sindicato Titular de las Condiciones Generales de Trabajo.
 
 JUNTA DE ADMINISTRACIÓN
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### Artículo 2042.
 
-El seguro de Vida para los servidores del Municipio de Puebla, estará a cargo de una Junta de Administración del Seguro de Vida, la cual estará integrada por dos Regidores, el Tesorero Municipal, dos representantes de los Sindicatos legalmente reconocidos por a (sic) autoridad competente y un representante de los empleados de confianza.
+El asegurado designará en la póliza del seguro de vida a sus beneficiarios especificando el porcentaje del total de la suma asegurada que se repartirá entre ellos.
+
+Si el asegurado no señalara el porcentaje, la suma asegurada se repartirá en porcentajes iguales.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2043.
 
-El H. Ayuntamiento designará a los dos Regidores; los Sindicatos reconocidos a sus dos representantes; y los empleados en asamblea presidida por el Presidente de la Junta de Administración del Seguro de Vida, a quien los represente.
+En caso de muerte de un beneficiario la cantidad que le correspondía se repartirá en partes iguales entre los beneficiarios supérstites.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2044.
 
-Los Regidores y el Tesorero integrarán la Junta de Administración del Seguro de Vida durante el tiempo de sus gestiones, los representantes de los trabajadores, y de los empleados durante tres años y no podrán ser reelectos para el período inmediato. Mientras no se hicieren las nuevas designaciones, continuarán en sus cargos los que estén en funciones.
+A falta de beneficiarios, la suma asegurada será pagada por la Compañia de Seguros a las personas que sean declaradas herederos mediante juicio sucesorio.
 
 ###### Artículo 2045.
 
-Los cargos de los integrantes de la Junta de Administración del Seguro de Vida, son honoríficos, razón por la que las actividades que desempeñen en razón de las disposiciones del presente Capítulo, no les serán remuneradas de forma alguna.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2046.
 
-Integrada la Junta, sus miembros designarán a uno de los dos Regidores como Presidente de la Junta de Administración del Seguro de Vida, quedando el otro como vicepresidente. De entre los representantes de los Sindicatos y los trabajadores electos o designados, se designarán al Secretario, Pro-Secretario y Vocales.
+Los beneficiarios para cobrar la cantidad de la suma asegurada en la póliza del Seguro de Vida deberán presentar a la Dirección de Recursos Humanos de la Secretaria de Administración, en original y cuatro tantos de copias fotostáticas la documentación siguiente:
+
+I.- Acta de Defunción;
+
+II.- Acta del Ministerio Público (en caso de muerte violenta):
+
+III.- Póliza del Seguro de Vida;
+
+IV.- Acta de Nacimiento de los Beneficiarios:
+
+V.- Credencial de Elector de los Beneficiarios; y
+
+VI.- Comprobante domiciliario de los Beneficiarios.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2047.
 
-El presidente representará a la Junta de Administración del Seguro de Vida y presidirá sus reuniones. El Secretario redactará las actas, dictará la correspondencia y tendrá a su cuidado el archivo. El Tesorero hará los descuentos, recaudará las cuotas y las depositará en cuenta especial en una Institución Bancaria, el Presidente tendrá voto de calidad.
+La Compañía de Seguros a través de la Dirección de Recursos Humanos de la Secretaría de Administración del Ayuntamiento, entregará el pago de la suma asegurada a más tardar en un término de 45 días naturales, contados a partir de la recepción de la documentación mencionada en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2048.
 
-La autoridad responsable de los servicios administrativos del H. Ayuntamiento, deberá dar aviso inmediato a la Junta de Administración del Seguro de Vida, de los nombramientos que aprobare el Ayuntamiento y la fecha en la que los designados cumplan tres meses de prestar sus servicios.
+El derecho que tienen los beneficiarios a recibir el pago de la suma asegurada del seguro de vida es irrenunciable.
 
-La falta de aviso a que se refiere el párrafo anterior no afectará la validez de los seguros de los Servidores del Municipio. Los interesados pueden presentar a la Junta de Administración los documentos que justifiquen la calidad de asegurados.
+En caso de que un servidor público fallezca dentro del periodo de licencia sin goce de sueldo, la vigencia del seguro de vida no se pierde.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2049.
 
-La Junta de Administración del Seguro de Vida, se reunirá cada vez que lo estime necesario, sus fallos serán inapelables y tendrá las siguientes facultades y obligaciones.
-
-I. Llevar un registro de todo el personal asegurado acorde con los datos que le proporcione la autoridad Municipal responsable de los Servicios Administrativos;
-
-II. Recibir de los beneficiarios incapacitados o jubilados, las solicitudes correspondientes. Para tal efecto, los beneficiarios deberán acompañar a su solicitud copia autorizada del acta de defunción del asegurado, la copia del pliego de mortaja o la copia autorizada de la resolución del Juez competente que les hubiere declarado herederos, un retrato de los beneficiarios y los comprobantes que justifique que el asegurado estaba al corriente en el pago de las cuotas del Seguro;
-
-III. La Junta de Administración del Seguro de Vida, al recibir la solicitud de pago del seguro por fallecimiento, abrirá el sobre cerrado que contenga el pliego de mortaja, procederá a dar trámite a la solicitud, recibirá el testimonio de dos testigos de preferencia asegurados que identificarán, por el retrato al solicitante y presunto beneficiario y acordará lo procedente el los términos de las disposiciones de este Reglamento. Los jubilados acompañarán a su solicitud el documento que justifique su condición de jubilado y los comprobantes de que encuentra corriente en el pago de la cuota del seguro;
-
-IV. Designar a tres médicos para que dictaminen sobre la incapacidad total o permanente de los asegurados para desempeñar cualquier trabajo;
-
-V. Resolver la solicitudes de pago de las pólizas y acordar que la Tesorería Municipal verifique los documentos correspondientes;
-
-VI. Señalar de acuerdo con el C. Presidente Municipal las fechas para el pago de las pólizas; y
-
-VII. Exigir al Tesorero verifique los descuentos acordados y que el pago de las pólizas se haga dentro de los 20 días siguientes a la fecha que se hizo el descuento.
+El importe de la suma asegurada que estipule en la revisión contractual, no podrá ser inferior a la cantidad del año próximo anterior.
 
 ###### Artículo 2050.
 
-El personal administrativo de la Junta de Administración del Seguro de vida para los servidores del Municipio de Puebla, será designado por el Presidente Municipal de entre los empleados municipales.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 DE LOS DESCUENTOS Y PÓLIZAS
 
 ###### Artículo 2051.
 
-El importe de la cuota, individual en los casos de fallecimiento o incapacidad total permanente de un servidor municipal y de los jubilados será la que se determine mediante acuerdo de Cabildo a propuesta de la Junta de Administración del Seguro de Vida.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2052.
 
-En los casos de defunción o incapacidad de un servidor del municipio, el Cabildo Municipal determinará los montos que el beneficiario o los beneficiarios recibirán. Dichas cantidades se cubrirán con las cuotas de los asegurados y las aportaciones del Ayuntamiento.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2053.
 
-El Tesorero del Ayuntamiento, una vez recibido el acuerdo correspondiente de la Junta de Administración del Seguro de Vida, procederá a descontar de los sueldos de los servidores, el importe de sus cuotas para los casos de fallecimiento, incapacidad o pago al jubilado y depositará las cantidades recaudadas dentro de los diez días siguientes en términos del Artículo 2047 de este Capítulo.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2054.
 
-El Tesorero Municipal, únicamente podrá descontar de los sueldos de los sueldos de los servidores asegurados del Municipio, cada quince días el importe de una cuota por fallecimiento o incapacidad y una cuota mensual por el pago de la mitad de seguro al jubilado.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2055.
 
-El pago a los beneficiarios, incapacitados o jubilados se hará por riguroso orden cronológico tomando en cuenta la fecha del acuerdo de la Junta de Administración.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2056.
 
-Los asegurados designarán a sus beneficiarios en el pliego de mortaja que les proporciona la Junta de Administración del Seguro de Vida (Original y Copia). La designación la harán ante dos testigos asegurados y llenarán el pliego. El original quedará en poder de la Junta de Administración del Seguro de Vida en sobre cerrado y la copia en poder del asegurado o de sus beneficiarios.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2057.
 
-Si el asegurado no supiere leer ni escribir, imprimirá su huella digital y ratificará el contenido del pliego de mortaja ante el Presidente de la Junta de Administración del Seguro de Vida o, en su ausencia, del Vicepresidente de la misma.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2058.
 
-El asegurado en cualquier tiempo y cuantas veces lo desee, puede modificar o revocar las designaciones de beneficiarios que hubiere hecho en el pliego de mortaja.
-
-La última designación dejará sin efecto las anteriores, siempre que hubiere sido depositado el nuevo pliego de mortaja ante cualquier miembro de la Junta de Administración del Seguro de Vida antes de que hubiere fallecido el asegurado.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2059.
 
-El asegurado al designar a sus beneficiarios deberá especificar en que proporción se repartirá entre ellos el importe del seguro. Si no señala la proporción a todos los beneficiarios, el seguro se les repartirá en partes iguales.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2060.
 
-Si el asegurado designa a un solo beneficiario y éste muere antes del asegurado el importe del seguro se entregará a quien la autoridad judicial competente declare heredero o herederos del asegurado.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2061.
 
-Si el asegurado no hubiera designado beneficiarios en el pliego de mortaja, el importe del seguro se entregará a la persona o personas que la autoridad judicial competente declare sus herederos.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2062.
 
-Si el asegurado designa dos o más beneficiarios y uno de ellos muere antes que el asegurado, la parte del beneficiario fallecido acrecerá la porción de los beneficiarios supervivientes.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2063.
 
-En los casos en los que al asegurado no hubiere designado beneficiarios en el pliego de mortaja ni deje herederos. La Junta de Administración no podrá acordar el descuento a los sueldos de los servidores del Municipio por el fallecimiento del asegurado.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2064.
 
-El plazo para que los beneficiarios o herederos reclamen el pago del seguro de vida, fenece en seis meses a partir de la fecha de fallecimiento del asegurado.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2065.
 
-A los beneficiarios de los jubilados asegurados a quienes se les hubiere entregado en vida la mitad del importe de la póliza, se les entregará en caso del fallecimiento del asegurado, la otra mitad del importe de la póliza.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2066.
 
-El jubilado asegurado al recibir la mitad del importe de la póliza, presentará la copia del pliego de mortaja que quedó en su poder y en ésta y en el original que quedo en la Junta de Administración del Seguro de Vida, firmará la constancia de la cantidad que reciba.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2067.
 
-El Tesorero Municipal al hacer el descuento de las cuotas a los servidores del Municipio de Puebla, les hará saber por escrito los nombres de los asegurados fallecidos, incapacitados o jubilados que originaron el descuento.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2068.
 
-El fondo del seguro para los servidores del Municipio de Puebla, está libre de todo gravamen, merma o distracción. No podrá ser embargado, ni enajenado y su pago se hará necesariamente a las personas designadas como beneficiarias conforme a las disposiciones del presente Capítulo y por acuerdo de la Junta de Administración del Seguro de Vida.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2069.
 
-La entrega del importe de la póliza del seguro será en acto público. La entregará personalmente el C. Presidente Municipal y tendrán obligación de asistir los C.C. Regidores del Ayuntamiento, los miembros de la Junta de Administración del Seguro de Vida y los representantes de los Sindicatos legalmente reconocidos.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2070.
 
-Los funcionarios, trabajadores y empleados asegurados que dejen de laborar para el Ayuntamiento y hayan desempeñado sus funciones por lo menos dos años, conservarán su carácter de asegurados si así lo solicitan por escrito a la Junta y continúan cubriendo las cuotas acordadas por la Junta de Administración del Seguro de Vida. Perderán sus derechos, si dejaren de cubrir consecutivamente las cuotas de dos quincenas.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2071.
 
-La autoridad municipal responsable de los servicios administrativos, dará aviso a la Junta de Administración de las jubilaciones concedidas y las fechas en las que se hubiere hecho saber a los interesados.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2072.
 
-Si por la incapacidad que sufran los asegurados perdieran sus facultades mentales el importe del seguro se entregará a sus tutores designados judicialmente.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 2073.
 
-La incapacidad del asegurado reconocida por la Junta de Administración origina su baja en el seguro y deja sin efecto la designación que hubiere hecho en el pliego de mortaja.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 ### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
 
@@ -24984,6 +25130,10 @@ DISPOSICIONES GENERALES
 ###### Artículo 2074.
 
 El presente Capítulo tiene por objeto, establecer las bases para la planeación, organización, funcionamiento, desarrollo, control y evaluación del Servicio Profesional de Carrera, a fin de eficientar a la Administración Pública del Municipio de Puebla y de prestar un óptimo servicio a los ciudadanos, en los términos y modalidades que se señalan.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+El presente Capítulo será aplicable a los servidores públicos del Ayuntamiento del Municipio de Puebla, a excepción de los trabajadores de base cuyas relaciones laborales se regirán por las Condiciones Generales de Trabajo y disposiciones aplicables.
 
 ###### Artículo 2075.
 
@@ -26205,7 +26355,7 @@ Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad
 
 ###### Artículo 2171.
 
-Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cualquier otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
+Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por culquier otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -28858,3 +29008,11 @@ P.O. 24 DE OCTUBRE DE 2007.
 PRIMERO.- Las presentes reformas, adiciones y derogación del Reconocimiento al "Mérito Empresarial" del Capítulo 36 del Código Reglamentario para el Municipio de Puebla, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
+
+P.O. 30 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Puebla.
+
+SEGUNDO.- Los trabajadores que tengan cumplidos sesenta y cinco años de edad y diez de servicio en forma ininterrumpida a la fecha de la entrada en vigor de la presente reforma, podrán jubilarse una vez que hayan cumplido los requisitos señalados en el artículo 1989 antes de su reforma.
+
+TERCERO.- La aplicación del artículo 1986 entrará en vigor a partir de un año después de la publicación del presente dictamen en el Periódico Oficial del Gobierno Constitucional del Estado de Puebla.
