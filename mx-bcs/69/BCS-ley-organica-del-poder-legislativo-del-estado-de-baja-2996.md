@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2007-06-10"
+last_updated: "2007-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO No. 1699, LA PRESENTE REFORMA ENTRARA EN VIGOR EL 1 DE MARZO DE 2008.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -559,7 +561,13 @@ e).- Lo relativo al cambio de residencia de los Poderes del Estado o del Recinto
 
 f).- Los que se refieran a licencias, renuncias o demás faltas absolutas del Gobernador, de los Diputados y de los Magistrados del Tribunal Superior de Justicia.
 
-g).- Las demás que le señale la Directiva del Congreso y la Gran Comisión.
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+g).- La elección de Consejeros del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+h).- Las demás que le señalen la Directiva del Congreso y la Gran Comisión.
 
 III.- DE DERECHOS HUMANOS:
 
@@ -1677,7 +1685,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pues en tal caso deberá ponerse de pié.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -2078,3 +2086,35 @@ B.O. 15 DE DICIEMBRE DE 2005.
 B.O. 10 DE JUNIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su aprobación.
+
+P.O. 30 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día primero de marzo del año dos mil ocho, previa publicación del mismo en el Boletín Oficial del Gobierno del Estado Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Permanente de Transparencia y Acceso a la Información prevista en la fracción XXI de los artículos 54 y 55 de la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur y la Comisión de Transparencia, Acceso a la Información Pública y Atención Ciudadana contemplada en los artículos 29, 30, 31, 32, 33, 34, 35 y 36 del Capitulo Quinto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, quedarán derogadas hasta en tanto entre en funciones y operación el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por única ocasión y para efectos de la integración inicial del Consejo del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, los Consejeros de dicho órgano estatal serán electos por cuatro, cinco y seis años, respectivamente, con el objeto de que al momento de la renovación de los mismos, siempre sea posible contar con una adecuada combinación de experiencia, conocimiento y prestigio personal y profesional.
+
+Para los efectos del párrafo anterior, el Congreso del Estado de Baja California Sur deberá de elegir a las personas que ocupar los cargos de Consejeros del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, dentro del Segundo Periodo Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional de la XI Legislatura. El término que durarán respectivamente cada uno de los Consejeros electos, comenzará a correr con el inicio de la vigencia del presente Decreto previsto en el Artículo Primero Transitorio de este documento.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur expedirá su Reglamento Interior en un período no mayor a sesenta días naturales a partir del inicio de su funcionamiento y operación.
+
+###### ARTÍCULO QUINTO.
+
+A partir de su nombramiento, los Consejeros del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur deberán instrumentar las acciones concernientes para que la presente Ley sea conocida y difundida entre los diversos sectores sociales y públicos, así como a concientizar a los ciudadanos y servidores públicos de la importancia que revisten los derechos de acceso a la información y de Hábeas Data, en una sociedad democrática.
+
+###### ARTÍCULO SEXTO.
+
+Se retoman los términos previstos en artículo Quinto Transitorio del Decreto 1522 que da vida a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, en lo concerniente a las prevenciones que los Poderes Ejecutivo y Legislativo en el Estado deban de realizar dentro la Ley de Ingresos y Presupuestos de Egresos del Estado, que para este caso lo deba ser para el Ejercicio Fiscal del año dos mil ocho, estableciendo estos Poderes las prevenciones presupuéstales suficientes que permitan el eficiente funcionamiento y operación de Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
