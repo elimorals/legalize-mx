@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2007-08-02"
+last_updated: "2007-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3137,7 +3137,11 @@ G.O. 2 DE AGOSTO DE 2007.
 
 DECRETO NUMERO 887.
 
-Primero. El presente Decreto surtirá efectos 120 días después de su publicación en la Gaceta Oficial del estado.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+Primero.- El presente Decreto iniciará su vigencia 120 días después de su publicación en la Gaceta Oficial del Estado, surtiendo efectos sólo en los Distritos Judiciales en los que, una vez concluida la construcción o adecuación, así como el equipamiento de las Salas de Audiencia para la celebración de los Juicios Orales Sumarios, éstas sean declaradas formalmente instaladas.
+
+La construcción o adecuación y el equipamiento de las Salas mencionadas deberá sujetarse a un calendario que establecerá el Poder Judicial del Estado, en el que dará a conocer con la anticipación debida las fechas de su apertura en cada Distrito Judicial, debiendo publicarse los avisos respectivos en la Gaceta Oficial del estado.
 
 Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
 
@@ -3150,3 +3154,7 @@ DECRETO NUMERO 894.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
+
+G.O. 30 DE NOVIEMBRE DE 2007.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Estado.
