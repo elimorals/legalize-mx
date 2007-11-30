@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-13-2007-del-pleno-del-consejo-de-la-55448"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2007-05-14"
+last_updated: "2007-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-03-28"
 
 ACUERDO GENERAL 13/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -325,11 +325,11 @@ En caso de error en la captura de los asuntos, el jefe de cada oficina de corres
 
 Casos urgentes.
 
-> <small>(F. DE E., D.O.F. 21 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 53/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 24.
 
-Para los efectos de la regulación de ingresos y una distribución equitativa de los asuntos entre los órganos jurisdiccionales, la recepción y distribución de consignaciones con detenido, consignaciones sin detenido por delitos calificados como graves, diligenciación de exhortos en que deba resolverse sobre la situación jurídica, solicitudes de cateo, de intervención de comunicaciones privadas, de extradición, orden de expulsión del país, de arraigo o demandas de amparo contra orden de arresto, deportación, destierro, los señalados por el artículo 17 de la Ley de Amparo y los prohibidos por el artículo 22 constitucional, que se presenten de las ocho horas con treinta minutos a las catorce horas con treinta minutos, se realizará de lunes a jueves, de manera aleatoria entre todos los juzgados que integren el distrito judicial correspondiente; mientras que de las catorce horas con treinta y un minutos a las veinticuatro horas y de viernes a domingo, los mencionados oficios y promociones se enviarán al juzgado de distrito que se encuentre de turno, entregándose de inmediato al secretario autorizado de dicho órgano jurisdiccional. Tratándose de los juzgados de distrito de procesos penales federales en el Distrito Federal para el turno de asuntos debe atenderse a lo señalado en el artículo 3.
+Para los efectos de la regulación de ingresos y una distribución equitativa de los asuntos entre los órganos jurisdiccionales, la recepción y distribución de consignaciones con detenido, consignaciones sin detenido por delitos calificados como graves, diligenciación de exhortos en que deba resolverse sobre la situación jurídica, solicitudes de cateo, de intervención de comunicaciones privadas, de extradición, orden de expulsión del país, de arraigo o demandas de amparo contra orden de arresto, deportación, destierro, los señalados por el artículo 17 de la Ley de Amparo, los prohibidos por el artículo 22 constitucional o la declaración de inexistencia de huelga que se presenten de las ocho horas con treinta minutos a las catorce horas con treinta minutos, se realizará de lunes a jueves, de manera aleatoria entre todos los juzgados que integren el distrito judicial correspondiente; mientras que de las catorce horas con treinta y un minutos a las veinticuatro horas y de viernes a domingo, los mencionados oficios y promociones se enviarán al juzgado de distrito que se encuentre de turno, entregándose de inmediato al secretario autorizado de dicho órgano jurisdiccional. Tratándose de los juzgados de distrito de procesos penales federales en el Distrito Federal para el turno de asuntos debe atenderse a lo señalado en el artículo 3.
 
 Fuera del horario de las oficinas de correspondencia común, las demandas de amparo, así como las promociones y oficios a que se refiere el primer párrafo del presente artículo, serán recibidas por el secretario autorizado del juzgado de distrito en turno, quien deberá presentarlas a la oficina de correspondencia común respectiva en cuanto ésta reanude sus labores, a fin de que se realice el registro, la compensación correspondiente y se equilibren las cargas de trabajo.
 
@@ -410,3 +410,11 @@ NOVENO.- El personal adscrito a la Contraloría del Poder Judicial de la Federac
 DECIMO.- La ejecución del presente Acuerdo General no significará impacto económico alguno en el presupuesto del Consejo de la Judicatura Federal, toda vez que su implementación se deberá realizar con los recursos que tienen asignados las áreas correspondientes.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 13/2007, del Pleno del Consejo de la Judicatura Federal, que Regula el Funcionamiento, Supervisión y Control de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, fue aprobado por el Pleno del Propio Consejo, en sesión de veintiocho de marzo de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a veintisiete de abril de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
