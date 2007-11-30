@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2007-08-23"
+last_updated: "2007-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -1095,7 +1095,11 @@ La información deberá entregarse a la Contraloría y, ésta deberá analizarla
 
 ###### Artículo 140.
 
-Las dependencias y entidades, deberán notificar a la Contraloría, las propuestas de modificación a la información inscrita en el Registro, fundamentando y motivando la modificación. Una vez analizada la modificación, la Contraloría, procederá a incorporarla en el Registro, dejando constancia validada por la autoridad administrativa operadora de la versión actualizada del trámite. Las autoridades administrativas que apliquen trámites deberán poner a disposición de las áreas de atención al público, la información que al respecto esté inscrita en el Registro.
+Las dependencias y entidades, deberán notificar a la Contraloría, las propuestas de modificación a la información inscrita en el Registro, fundamentando y motivando la modificación.
+
+Una vez analizada la modificación, la Contraloría, procederá a incorporarla en el Registro, dejando constancia validada por la autoridad administrativa operadora de la versión actualizada del trámite.
+
+Las autoridades administrativas que apliquen trámites deberán poner a disposición de las áreas de atención al público, la información que al respecto esté inscrita en el Registro.
 
 ###### Artículo 141.
 
@@ -2503,9 +2507,11 @@ El criterio jurisprudencial será sometido y definido por la Sala y compilado y 
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+El presente Decreto entrará en vigor el día 2 de enero de 2008, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2515,9 +2521,11 @@ Antes de la entrada en vigor, el Congreso del Estado elegirá a los magistrados 
 
 Los magistrados electos realizarán las acciones administrativas necesarias para la instalación de los trabajos del Tribunal.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO CUARTO.
 
-La instalación del Tribunal se realizará el día 30 de Noviembre de 2007.
+La instalación del Tribunal se realizará el día 2 de enero de 2008.
 
 ###### ARTÍCULO QUINTO.
 
@@ -2540,3 +2548,11 @@ PRESIDENTE.- DIP. SALVADOR ORTIZ GARCÍA.- PRIMER SECRETARIO.- DIP. GENARO GUÍZ
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 03 tres días del mes de agosto del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
