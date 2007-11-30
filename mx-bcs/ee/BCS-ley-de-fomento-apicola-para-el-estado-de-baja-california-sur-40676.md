@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-apicola-para-el-estado-de-baja-california-sur-40
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-10"
-last_updated: "2004-08-10"
+last_updated: "2007-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE FOMENTO APICOLA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 10 de agosto de 2004.
 
@@ -295,9 +295,11 @@ Cuando lo considere conveniente la Dirección de promoción y Desarrollo Pecuari
 
 Para la movilización de colmenas, deberá contarse con la guía de tránsito apícola que expida la autoridad municipal del lugar, de conformidad a lo dispuesto por esta Ley y los otros requisitos que se contemplen sobre esta materia en la Ley Federal de Sanidad Animal y su Reglamento.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 24.
 
-Queda terminantemente prohibido introducir al Estado núcleos de abejas, abejas reinas y equipo usado conforme a lo dispuesto a la Norma Oficial Mexicana 001-ZOO.
+Para introducir al Estado, núcleos de abejas, abejas reinas y equipo usado se deberá cumplir con lo establecido en la Norma Oficial Mexicana 001-ZOO-1994.
 
 ###### ARTÍCULO 25.
 
@@ -474,3 +476,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 30 DE NOVIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
