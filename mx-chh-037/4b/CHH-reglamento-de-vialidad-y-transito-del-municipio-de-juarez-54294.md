@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-vialidad-y-transito-del-municipio-de-juarez-54294
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-03"
-last_updated: "2007-02-03"
+last_updated: "2007-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 3 de febrero de 2007.
 
@@ -564,6 +564,114 @@ Los vehículos deberán ser sometidos a verificación de emisión de contaminant
 ###### Artículo 40.
 
 Si los resultados de la emisión de contaminantes exceden de los límites permisibles, el propietario o poseedor deberá efectuar las reparaciones necesarias dentro de un plazo de quince días naturales.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 40
+
+a.- Las siguientes trayectorias conforman la red de rutas que deberán seguir los vehículos de transporte foráneo de pasajeros federal:
+
+1.- Ruta, Juárez-Chihuahua-Juárez.
+
+Sobre Avenida Tecnológico, desde Avenida Teofilo Borunda, hasta la Glorieta del Kilómetro Veinte.
+
+2.- Ruta, Juárez-El Paso por Córdova.
+
+Por Avenida Tecnológico, a Avenida San Lorenzo, continuando por Avenida Heroico Colegio Militar, a Puente de Córdova.
+
+3.- Ruta, El Paso-Juárez por Lerdo.
+
+Por Avenida Heroico Colegio Militar, a Avenida San Lorenzo, continuando por Avenida Tecnológico, a Avenida Teofilo Borunda, concluyendo en Central Camionera.
+
+4.- Ruta, Juárez-Casas Grandes-Juárez.
+
+Por Carretera a Janos, a Avenida Tecnológico, hasta Avenida Teofilo Borunda, concluyendo en Central Camionera.
+
+5.- Ruta, al Taller Nave número Cuatro.
+
+Por Boulevard Oscar Flores, a Calle de la Fundición o por Teofilo Borunda a Calle Monclova.
+
+6.- Ruta, Taller Nave número Cinco.
+
+Por Avenida Teofilo Borunda, a Avenida San Lorenzo, continuando por Avenida Paseo Triunfo de la República, a Calle Lago de Patzcuaro.
+
+7.- Ruta, Taller Nave número Seis.
+
+Por Avenida Teofilo Borunda, a Avenida Tecnológico, continuando por Avenida de la Raza, a Calle Niños Héroes.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 40
+
+b.- Los concesionarios y permisionarios del servicio público de transporte foráneo de pasajeros federal, deberán cumplir con lo siguiente:
+
+I. Los vehículos de transporte foráneo de pasajeros federal, deberán circular exclusivamente por las rutas indicadas en el artículo anterior, y
+
+II. Queda estrictamente prohibido el estacionamiento de vehículos de transporte foráneo de pasajeros federal en la vía pública, así como detenerse a levantar pasajeros fuera de los lugares autorizados para tal efecto.
+
+Cuando se infrinja lo preceptuado en este artículo por más de dos ocasiones, dentro de un periodo de treinta días naturales, la corporación de tránsito, sin perjuicio de la multa correspondiente, retirará de la vía pública y trasladará al corralón correspondiente, el vehículo de transporte foráneo de pasajeros federal, cumpliendo con lo preceptuado para tal efecto en este Reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 40
+
+c.- La ubicación y accesos viales de nuevos talleres naves de reparación, serán determinados, autorizados y supervisados por la Dirección General de Tránsito.
+
+Para autorizar un taller nave, se deberá presentar a la Dirección General de Tránsito, un proyecto que contenga:
+
+I. Soluciones de accesos viales;
+
+II. Patios de maniobra internos, y
+
+III. Almacenamiento de vehículos.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 40
+
+d.- En caso de ser necesario, se podrán establecer nuevas rutas para los vehículos del servicio público de transporte foráneo de pasajeros federal, por acuerdo del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 40
+
+e.- Para circunstancias especiales y de manera temporal, la Dirección General de Tránsito otorgará permisos extraordinarios para circular fuera de ruta.
+
+Quienes soliciten permiso para la circulación, fuera de las rutas autorizadas, deberán presentar ante la Dirección General de Tránsito, el croquis del recorrido con el nombre de las Calles, para su sanción.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 40
+
+f.- Para la aprobación de recorridos fuera de las rutas autorizadas se tomará en consideración, lo siguiente:
+
+I. El estado de las arterias de circulación urbana o de los caminos;
+
+II. La distancia total del itinerario y las parciales entre puntos intermedios;
+
+III. Las velocidades máximas permitidas;
+
+IV. El ancho y la geometría de las vialidades del recorrido, y
+
+V. El volumen vehicular, en función de las horas de tráfico.
+
+La Dirección General de Tránsito contará con un plazo no mayor de cinco días hábiles para autorizar o negar la solicitud.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 40
+
+g.- Los permisos que permitan la circulación fuera de las rutas autorizadas, serán expedidos con los siguientes requisitos:
+
+I. Identificación y características del vehículo;
+
+II. Nombre y razón social del concesionario o permisionario;
+
+III. Recorrido autorizado, y
+
+IV. Vigencia.
+
+El costo de estos permisos lo determinará la Ley de Ingresos vigente.
 
 ### CAPÍTULO SEGUNDO. DEL ACONDICIONAMIENTO VEHICULAR
 
@@ -1983,6 +2091,12 @@ Se sancionará con multa por el equivalente de 50 a 70 salarios mínimos al que 
 
 El monto de las multas señaladas en el presente Capítulo, será aplicado, sin perjuicio de las disposiciones que al respecto se refieren, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Chihuahua, el Código Municipal para el Estado de Chihuahua, la Ley de Vialidad y Tránsito para el Estado de Chihuahua y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 193.
+
+Se sancionará con multa por el equivalente de 40 a 50 salarios mínimos al que incumpla lo estipulado en cualquiera de las fracciones del artículo 40-b.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
@@ -1998,3 +2112,9 @@ DOY FE.
 EL SECRETARIO DEL AYUNTAMIENTO.
 
 LIC. JORGE ANTONIO ÁLVAREZ COMPEAN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2007.
+
+ÚNICO.- La presente adición de los artículos señalados en este acuerdo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
