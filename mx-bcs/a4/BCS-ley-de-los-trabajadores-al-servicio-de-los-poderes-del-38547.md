@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2004-02-23"
+last_updated: "2007-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -51,6 +51,10 @@ La presente Ley es de observancia general para los titulares y trabajadores de l
 
 Para los efectos de esta Ley, la relación jurídica de trabajo se entiende establecida entre los titulares de los Poderes del Estado, Municipios y los trabajadores a su servicio.
 
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+Quedan excluidos del régimen de la presente Ley, el personal de vigilancia de los establecimientos penitenciarios, cárceles, de los cuerpos de seguridad pública y aquellos que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios.
+
 ###### ARTICULO 3º.
 
 Trabajador es toda persona que preste sus servicios físico, intelectual o de ambos géneros, en virtud de nombramiento expedido.
@@ -65,11 +69,33 @@ Son trabajadores de confianza en el Poder Ejecutivo, Poder Legislativo y Poder J
 
 La categoría de los trabajadores de confianza depende de la naturaleza de las funciones desempeñadas y no de la designación que se dé al puesto.
 
-Son funciones de confianza: las de dirección, decisión, administración, inspección, vigilancia y fiscalización, cuando tengan el carácter general y las que se relacionen con trabajos personales de los titulares de las instituciones públicas.
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+Son funciones de confianza: las de dirección, decisión, administración, inspección, vigilancia y fiscalización, y las que se relacionen con trabajos personales y de asesoría de los titulares de las instituciones públicas, conforme lo establezcan los catálogos de puestos correspondientes.
 
 Los trabajadores de confianza no podrán formar parte de los sindicatos de los demás trabajadores de base, ni serán tomados en consideración en los recuentos para determinar la mayoría en casos de huelga o conflictos intergremiales, no pudiendo ser representantes de los trabajadores en los organismos que se integre (sic) en virtud de las disposiciones de esta Ley.
 
 Tratándose de los trabajadores de confianza, las entidades públicas de que se trate, podrán rescindir la relación laboral si existiera un motivo comprobable de pérdida de la confianza, por lo tanto no gozarán de la inamovilidad de los trabajadores de base, por lo que en cualquier tiempo y por acuerdo del titular de la dependencia dejarán de surtir sus efectos los nombramientos que se les hayan otorgado.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 5º BIS.- Para los efectos del artículo anterior, las áreas encargadas de los recursos humanos de los Poderes del Estado y Municipios, deberán elaborar los catálogos de puestos correspondientes, atendiendo a lo siguiente:
+
+I.- Dirección, aquellas que ejerzan los servidores públicos responsables de conducir las actividades de los demás ya sea en toda una institución pública o en alguna de sus dependencias o unidades administrativas.
+
+II.- Inspección, vigilancia, auditoria y fiscalización, aquellas que se realicen a efecto de conocer, examinar, verificar, controlar o sancionar las acciones a cargo de las instituciones públicas o de sus dependencias o unidades administrativas.
+
+III.- Asesorías, la asistencia técnica o profesional que se brinde mediante consejos, opiniones o dictámenes a los titulares de las instituciones públicas o de sus dependencias y unidades administrativas.
+
+IV.- Procuración de justicia, las relativas a la investigación y persecución de los delitos de fuero común y al ejercicio de la acción penal para proteger los intereses de la sociedad.
+
+V.- Administración de justicia, aquellas que se refieren al ejercicio de la función jurisdiccional.
+
+VI.- Protección civil, aquellas que tengan por objeto prevenir y atender a la población en casos de riesgos, siniestro o desastre.
+
+\/II.- Representación, aquellas que se refieran a la facultad legal de actuar a nombre de los titulares de las instituciones públicas o de sus dependencias.
+
+VIII.- Manejo de recursos, aquellas que impliquen la facultad legal o administrativa de decidir o determinar la aplicación o destino de recursos humanos, materiales o financieros.
 
 ###### ARTICULO 6º.
 
@@ -87,9 +113,11 @@ Aquellos que sean contratados por tiempo fijo u obra determinada y cuyas plazas 
 
 Al crearse categorías o cargos no comprendidos en el artículo 5º, la clasificación de base o de confianza que les corresponda, se determinará expresamente por la disposición legal que formalice su creación.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
-Los trabajadores que desempeñen cargos considerados de confianza, disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social contemplados en esta Ley.
+###### ARTICULO 9°.
+
+Los trabajadores de confianza, únicamente disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social contemplados en la presente Ley.
 
 ###### ARTICULO 10.
 
@@ -115,9 +143,21 @@ El señalamiento de un tiempo determinado puede únicamente estipularse en los c
 
 I.- Cuando los (sic) exija la naturaleza del trabajo que se va a prestar;
 
-II.- Cuando tenga por objeto sustituir temporalmente a otro trabajador; y
+II.- Cuando tenga por objeto sustituir temporalmente a otro trabajador; y (sic)
 
-III.- En los demás casos previstos por esta Ley.
+> <small>(REFORMADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+III.- Cuando el trabajo en las diversas áreas o dependencias de los titulares, se incremente sólo por determinadas épocas o acontecimientos, y sea necesario contratar personal de apoyo;
+
+> <small>(ADICIONADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+IV.- Cuando exista un trabajo de apoyo personal y directo que se preste a los funcionarios de elección popular, a los titulares de las instituciones públicas, y a los trabajadores considerados como de confianza conforme al tercer párrafo del artículo 5 de esta Ley.
+
+Los trabajadores de confianza no gozarán de la inamovilidad de los trabajadores de base por lo que en cualquier tiempo y por acuerdo del titular de la dependencia dejaran de surtir sus efectos los nombramientos que se les hayan otorgado.
+
+> <small>(ADICIONADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+V. En los demás casos previstos por esta Ley.
 
 Si vencido el término que le hubiese fijado subsiste la materia del trabajo, la relación quedará prorrogada por todo el tiempo que perdure dicha circunstancia.
 
@@ -217,7 +257,9 @@ La prolongación del tiempo extraordinario que exceda de nueve horas a la semana
 
 Por cada cinco días de trabajo disfrutará el trabajador de dos días de descanso cuando menos con goce de sueldo, preferentemente los sábados y domingos.
 
-Los trabajadores que presten sus servicios en sus días de descanso que son preferentemente sábado y domingo, tendrán derecho al pago de una prima adicional de un veinticinco por ciento por lo menos en base al salario normal de los demás días de trabajo.
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+Los trabajadores que presten sus servicios en sus días de descanso tendrá derecho al pago de una prima adicional de al menos un 25% en base al salario normal de los días de trabajo.
 
 ###### ARTICULO 29.
 
@@ -283,51 +325,33 @@ V.- De cubrir obligaciones a cargo del trabajador, en las que haya consentido, d
 
 El monto total de los descuentos no podrá exceder del treinta por ciento del importe del salario total, excepto en los casos a que se refieren las fracciones III, IV y V de este artículo.
 
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 39.
 
-Las horas extraordinarias de trabajo se pagarán con un por ciento más del salario asignado a las horas de jornada ordinaria. Cuando se labore en los días de descanso obligatorio, la hora extraordinaria se pagará a los trabajadores a un doscientos por ciento más del salario asignado a las horas de jornada ordinaria. Cuando se trabaje en días de descanso se cubrirá además una prima adicional de un veinticinco por ciento sobre el salario de los días ordinarios de trabajo.
+Las horas extraordinarias de trabajo se pagarán con un cien por ciento más del salario asignado a las horas de jornada ordinaria. Cuando se labore en los días de descanso obligatorio, la hora extraordinaria se pagará a los trabajadores a un doscientos por ciento más del salario asignado a las horas de jornada ordinaria. Cuando se trabaje en días de descanso se cubrirá además una prima adicional de un veinticinco por ciento sobre el salario de los días ordinarios de trabajo.
 
 ###### ARTICULO 40.
 
 En los días de descanso obligatorio y en las vacaciones a que se refieren los artículos 28 y 31, los trabajadores recibirán un salario íntegro. Cuando el trabajador disfrute de derecho de vacaciones los Poderes del Estado y Municipios le cubrirán previamente el salario correspondiente a las vacaciones más la prima vacacional que no podrá ser menor a las pagadas con anterioridad y establecidas en las Condiciones Generales de Trabajo sobre el importe de sueldo y sobresueldo.
 
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 41.
 
-Los trabajadores tendrán derecho a un aguinaldo anual equivalente a cuarenta días de salario integrado con el sueldo, sobresueldo y compensación. Dicho aguinaldo se pagará de la siguiente forma: treinta días durante la primer quincena de diciembre y diez días a más tardar el día 15 de enero, asimismo recibirán además del salario las prestaciones socioeconómicas que las partes convengan en sus revisiones contractuales y que contemplen entre otras, ayuda para transporte, inscripción escolar, gratificación anual, útiles escolares, ajuste de calendario, ayuda alimenticia y plaza especial prejubilatoria y una vez convenidas las presentes se registrarán ante el Tribunal de Conciliación y Arbitraje correspondiente.
+Los trabajadores tendrán derecho a un aguinaldo anual equivalente a cuarenta días de salario integrado con el sueldo, sobresueldo y compensación. Dicho aguinaldo se pagará de la siguiente forma: treinta días durante la primer quincena de diciembre y diez días a más tardar el día 10 de enero, recibirán además del salario las prestaciones socioeconómicas que las partes convengan en sus revisiones contractuales y que contemplen entre otras, ayuda para transporte, inscripción escolar, gratificación anual, útiles escolares, ajuste de calendario, ayuda alimenticia, bono de semana mayor y plaza especial prejubilatoria y una vez convenidas las presentes se registrarán ante el Tribunal de Conciliación y Arbitraje correspondiente.
 
-> <small>(F. DE E., B.O. 10 DE JUNIO DE 2006)</small>
+Asimismo recibirán como gratificación quinquenal el pago de las siguientes cantidades:
 
-Asimismo recibirán como gratificación quincenal el pago de las siguientes cantidades:
+POR EL PRIMER QUINQUENIO 3 SALARIOS MÍNIMOS GENERALES AL MES
 
-> <small>(F. DE E., B.O. 10 DE JUNIO DE 2006)</small>
+POR EL SEGUNDO QUINQUENIO 4 SALARIOS MÍNIMOS GENERALES AL MES
 
-POR EL PRIMER QUINQUENIO 3 SALARIOS MÍNIMOS
+POR EL TERCER QUINQUENIO 5 SALARIOS MÍNIMOS GENERALES AL MES
 
-GENERALES AL MES
+POR EL CUARTO QUINQUENIO 10 SALARIOS MÍNIMOS GENERALES AL MES
 
-> <small>(F. DE E., B.O. 10 DE JUNIO DE 2006)</small>
-
-POR EL SEGUNDO QUINQUENIO 4 SALARIOS MÍNIMOS
-
-GENERALES AL MES
-
-> <small>(F. DE E., B.O. 10 DE JUNIO DE 2006)</small>
-
-POR EL TERCER QUINQUENIO 5 SALARIOS MÍNIMOS
-
-GENERALES AL MES
-
-> <small>(F. DE E., B.O. 10 DE JUNIO DE 2006)</small>
-
-POR EL CUARTO QUINQUENIO 10 SALARIOS MÍNIMOS
-
-GENERALES AL MES
-
-> <small>(F. DE E., B.O. 10 DE JUNIO DE 2006)</small>
-
-POR EL QUINTO QUINQUENIO 15 SALARIOS MÍNIMOS
-
-GENERALES AL MES
+POR EL QUINTO QUINQUENIO 15 SALARIOS MÍNIMOS GENERALES AL MES
 
 ###### ARTICULO 42.
 
@@ -403,9 +427,23 @@ VIII.- Asistir a los cursos de capacitación, para mejorar su preparación y efi
 
 IX.- Evitar en horarios de labores cualquier acto de comercio.
 
-### CAPITULO TERCERO. DE LA SUSPENSION TEMPORAL Y DEL CESE
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO CUARTO. DE LOS TRABAJADORES DEL SISTEMA EDUCATIVO ESTATAL
+### CAPITULO SEGUNDO BIS. DE LAS ACTAS ADMINISTRATIVAS
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 45 BIS.- Cuando el trabajador incurra en alguna de las faltas previstas en cualquiera de las fracciones del artículo 47, el titular de la dependencia, entidad u oficina, procederá a levantar el acta administrativa correspondiente, con intervención del trabajador, en su caso, y de un representante del sindicato respectivo si es sindicalizado, en la que con toda precisión se asentarán los hechos y la declaración del trabajador afectado.
+
+El acta administrativa se firmará por los que en la diligencia intervengan y por dos testigos de asistencia, debiendo entregarse, en ese mismo acto, una copia al trabajador y otra al representante sindical, en su caso.
+
+La falta de aviso de rescisión al trabajador o al tribunal de conciliación y arbitraje por si sola bastará para considerar que el despido fue injustificado.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 45 BIS-A.- En los casos no previstos en este Capítulo se aplicarán supletoriamente: la Ley Federal del Trabajo, el Código de Procedimientos Civiles del Estado, los principios generales de derecho, los principios generales de justicia social que se deriven del Artículo 123 constitucional, la jurisprudencia y tesis de los tribunales federales, la costumbre y la equidad.
+
+### CAPITULO TERCERO. DE LA SUSPENSION TEMPORAL Y DEL CESE
 
 ###### ARTICULO 46.
 
@@ -417,11 +455,15 @@ I.- Que el trabajador contraiga alguna enfermedad que implique un peligro para l
 
 II.- La prisión preventiva del trabajador, seguida de sentencia absolutoria o el arresto impuesto por autoridad judicial o administrativa, a menos que, tratándose de arresto el Tribunal de Conciliación y Arbitraje, resuelva que debe tener lugar el cese del trabajador. Los trabajadores que tengan encomendados manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por el titular de la dependencia respectiva, cuando apareciere alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve sobre el cese.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 47.
 
-Ningún trabajador podrá ser cesado sino por justa causa debidamente demostrada. En consecuencia, el nombramiento o designación de los trabajadores sólo dejará de surtir efectos sin responsabilidad para los titulares por las siguientes causas:
+Ningún trabajador de base podrá ser cesado sino por justa causa debidamente demostrada. En consecuencia, el nombramiento, designación o relación laboral de los trabajadores sólo dejará de surtir efectos sin responsabilidad para los titulares de los poderes del estado y municipios y sus dependencias por las siguientes causas:
 
-I.- Por renuncia, por abandono de empleo, o por acumular más de tres faltas en un mes sin justificar las labores técnicas relativas al funcionamiento de maquinaria o equipo, o la atención de personas que pongan en peligro esos bienes o que cause la suspensión o vida de las personas, en los términos que señalen los reglamentos de trabajo.
+> <small>(REFORMADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+l.- Por renuncia, por abandono de empleo, o por acumular más de tres faltas de asistencia en un periodo de 30 días sin justificar debidamente y sin permiso de quien esté facultado para otorgarlo.
 
 II.- Por conclusión de término o de la obra determinantes de la designación.
 
@@ -431,7 +473,9 @@ IV.- Por incapacidad permanente del trabajador, física o mental, que le impida 
 
 V.- Por resolución del Tribunal de Conciliación y Arbitraje, en los casos siguientes:
 
-a).- Cuando el trabajador incurriere en faltas de probidad y honradez o en actos de violencia, amagos, injurias, o malos tratos contra sus jefes o compañeros o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio.
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+a).- Cuando el trabajador incurriere en faltas de probidad y honradez o en actos de violencia, amagos, injurias, o malos tratos contra sus jefes o compañeros o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio, o dentro de las horas de servicio contra los ciudadanos que acudan al centro de trabajo por cualquier causa.
 
 b).- Cuando faltare por más de tres días consecutivos a sus labores sin causa justificada.
 
@@ -441,47 +485,67 @@ d).- Por cometer actos inmorales durante el trabajo.
 
 e).- Por revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo de su trabajo.
 
-f).- Por comprometer por su imprudencia, descuido o negligencia la seguridad del taller, oficina o dependencia donde preste sus servicios o de las personas que allí se encuentren.
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+f).- Por comprometer o poner en peligro por su imprudencia, descuido o negligencia el patrimonio, los bienes, la seguridad del taller, oficina o dependencia donde preste sus servicios o de las personas que allí se encuentren, así como de los particulares o de la sociedad.
 
 g).- Por desobedecer reiteradamente y sin justificación, las órdenes que reciba de sus superiores.
 
 h).- Por concurrir habitualmente al trabajo en estado de embriaguez o bajo la influencia de algún estupefaciente.
 
-i).- Por falta comprobada de cumplimiento de las Condiciones Generales de Trabajo de la dependencia respectiva.
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
-j).- Por prisión que sea el resultado de una sentencia ejecutoria. En los casos que se refiere esta fracción, el trabajador que tiene motivo para la terminación de los efectos del nombramiento podrá ser, desde luego, suspendido en su trabajo, si con ello estuviera conforme el Sindicato, pero si no fuere así, el jefe superior de la oficina podrá ordenar su remoción a oficina distinta de aquélla en que estuviera prestando sus servicios hasta que sea resuelto en definitiva el conflicto por el Tribunal de Conciliación y Arbitraje.
+i).- Por ejercer injustificadamente dos o más empleos o cargos públicos o privados en los mismos horarios o jornada laboral.
+
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+j).- Por recibir injustificadamente salarios, remuneración, compensación o cualquier prestación, sin cumplir debidamente con la jornada laboral.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+k).- Por falta comprobada de cumplimiento de las Condiciones Generales de Trabajo.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+l).- Por prisión que sea el resultado de una sentencia ejecutoria.
+
+En los casos a que se refiere esta fracción, el trabajador que tiene motivo para la terminación de los efectos del nombramiento podrá ser, desde luego, suspendido en su trabajo, si con ello estuviera conforme el Sindicato, pero si no fuere así, el jefe superior de la oficina podrá ordenar su remoción a oficina distinta de aquélla en que estuviera prestando sus servicios hasta que sea resuelto en definitiva el conflicto por el Tribunal de Conciliación y Arbitraje.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+m).- Las demás que establezcan las leyes y las condiciones generales.
 
 Si el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, resuelve que fue justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
 
-### CAPITULO PRIMERO. DEL ESCALAFON
+### CAPÍTULO CUARTO. DE LOS TRABAJADORES DEL SISTEMA EDUCATIVO ESTATAL
 
 ###### ARTICULO 48.
 
-Las disposiciones de este capítulo se aplicarán a las relaciones de trabajo que surjan entre el gobierno del Estado y los trabajadores docentes y administrativos de la Educación Preescolar, Primaria, Secundaria, que sean contratados por el propio gobierno dentro del Sistema Educativo Estatal.
+(DEROGADO, B.O. 1 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 49.
 
-Trabajador docente, es la persona física que presta servicio de enseñanza en el Sistema Educativo Estatal conforme a los planes y programas establecidos. Trabajador administrativo es todo aquel que labora en actividades no docentes.
+(DEROGADO, B.O. 1 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 50.
 
-El trabajador docente podrá ser contratado por tiempo indeterminado, año lectivo, semestre, prestación de servicios profesionales e interino por sustitución.
+(DEROGADO, B.O. 1 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 51.
 
-Para los efectos de organización colectiva de los trabajadores del Sistema Educativo Estatal, se seguirán las disposiciones contenidas en el Título Cuarto de la presente Ley.
+(DEROGADO, B.O. 1 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 52.
 
-Los trabajadores podrán formar su propio sindicato y éste deberá registrarse ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, de conformidad con las reglas establecidas en el Título Cuarto de esta Ley.
+(DEROGADO, B.O. 1 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 53.
 
-Las Condiciones Generales de Trabajo que regirán las relaciones entre el gobierno del Estado y los trabajadores del Sistema Educativo Estatal, serán establecidas por el órgano de gobierno respectivo y el Sindicato formado por dichos trabajadores, sujetándose a lo que señala el capítulo segundo del Título Cuarto de esta Ley.
+(DEROGADO, B.O. 1 DE DICIEMBRE DE 2007)
 
 ## TITULO TERCERO
 
-### CAPITULO PRIMERO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES
+### CAPITULO PRIMERO. DEL ESCALAFON
 
 ###### ARTICULO 54.
 
@@ -575,7 +639,7 @@ El procedimiento para resolver las permutas de empleos, así como las inconformi
 
 ## TITULO CUARTO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES, LAS CONDICIONES GENERALES DE TRABAJO Y LA HUELGA
 
-### CAPITULO SEGUNDO. DE LAS CONDICIONES GENERALES DE TRABAJO
+### CAPITULO PRIMERO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES
 
 ###### ARTICULO 74.
 
@@ -683,7 +747,7 @@ Todos los conflictos que surjan entre los miembros del Sindicato y de no ser sol
 
 Las remuneraciones que se paguen a los directivos y empleados del Sindicato o entre éstos, y en general, los gastos que originen el funcionamiento de éste, será a cargo de su presupuesto, cubierto en todo caso con los fondos provenientes de las cuotas sindicales aportadas por sus miembros.
 
-### CAPITULO TERCERO. DE LAS HUELGAS
+### CAPITULO SEGUNDO. DE LAS CONDICIONES GENERALES DE TRABAJO
 
 ###### ARTICULO 93.
 
@@ -715,7 +779,7 @@ Si el Sindicato objetare sustancialmente las Condiciones Generales de Trabajo, p
 
 Las Condiciones Generales de Trabajo deberán revisarse en lo general cada año, incluyendo a los salarios en efectivos (sic) por cuota diaria, y la solicitud a este respecto deberá hacerse previo aviso a los titulares de los Poderes del Estado y Municipios, por conducto del Tribunal de Conciliación y Arbitraje, por lo menos treinta días antes de la fecha de revisión.
 
-### CAPITULO UNICO. DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NO PROFESIONALES
+### CAPITULO TERCERO. DE LAS HUELGAS
 
 ###### ARTICULO 97.
 
@@ -821,7 +885,7 @@ Al resolver que una declaración de huelga es legal, el Tribunal, a petición de
 
 ## TITULO QUINTO
 
-### CAPITULO UNICO. DE LAS PRESCRIPCIONES
+### CAPITULO UNICO. DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NO PROFESIONALES
 
 ###### ARTICULO 115.
 
@@ -847,7 +911,7 @@ La licencia será continua o descontinúa, una sola vez cada año contando a par
 
 ## TITULO SEXTO
 
-### CAPITULO PRIMERO. TRIBUNAL DE CONCILIACION Y ARBITRAJE PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
+### CAPITULO UNICO. DE LAS PRESCRIPCIONES
 
 ###### ARTICULO 117.
 
@@ -909,7 +973,7 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ## TITULO SEPTIMO
 
-### CAPITULO SEGUNDO. DE LA COMPETENCIA DEL TRIBUNAL
+### CAPITULO PRIMERO. TRIBUNAL DE CONCILIACION Y ARBITRAJE PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
 ###### ARTICULO 123.
 
@@ -943,7 +1007,7 @@ El Tribunal contará con un Secretario General y dos empleados que señale el pr
 
 Los gastos que origine el funcionamiento del Tribunal serán cubiertos por los poderes del Estado y Municipios en la siguiente forma: setenta por ciento por el Estado y el treinta por ciento restante por los Municipios los cuales de acuerdo con sus ingresos y el número de sus empleados que laboren en el Municipio respectivo, fijarán entre ellos el porcentaje que les corresponda.
 
-### CAPITULO TERCERO. DEL PROCEDIMIENTO
+### CAPITULO SEGUNDO. DE LA COMPETENCIA DEL TRIBUNAL
 
 ###### ARTICULO 129.
 
@@ -957,7 +1021,7 @@ III.- Conocer de los conflictos colectivos que surjan en el Estado y las organiz
 
 IV.- Previa solicitud conceder el registro de los Sindicatos o en su caso dictar la cancelación de los mismos, así como efectuar el registro de las Condiciones Generales de Trabajo, convenios y reglamentos.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO TERCERO. DEL PROCEDIMIENTO
 
 ###### ARTICULO 130.
 
@@ -967,9 +1031,11 @@ Tan pronto reciba la primera promoción relativa a un conflicto colectivo o sind
 
 En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere forma o solemnidad especial en la promoción o intervención de las partes.
 
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 132.
 
-El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación que se hará en igual forma; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo y, una vez desahogadas se dictará laudo.
+El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación que se hará en igual forma; y a las audiencias que marca el artículo 136 de esta ley, donde se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo y, una vez desahogadas se dictará el laudo.
 
 ###### ARTICULO 133.
 
@@ -985,13 +1051,23 @@ II.- El nombre y domicilio del demandado;
 
 III.- El objeto de la demanda;
 
-IV.- Una relación de los hechos; y
+> <small>(REFORMADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
-V.- La indicación del lugar en que puedan obtenerse las pruebas que el reclamante no pudiere aportar directamente y que tengan por objeto la verificación de los hechos en que funde su demanda y las diligencias cuya práctica solicite con el mismo fin, a excepción de las pruebas supervenientes, que las podrán ofrecer las partes hasta el momento mismo de la celebración de la etapa relativa.
+IV.- Una relación de los hechos;
+
+> <small>(REFORMADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+V.- La indicación del lugar en que puedan obtenerse las pruebas que el reclamante no pudiere aportar directamente y que tengan por objeto la verificación de los hechos en que funde su demanda y las diligencias cuya práctica solicite con el mismo fin, a excepción de las pruebas supervenientes, que las podrán ofrecer las partes hasta el momento mismo de la celebración de la etapa relativa; y
+
+> <small>(ADICIONADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+VI.- A la demanda se acompañarán las pruebas de que disponga y los documentos que acrediten la personalidad de su representante, si no concurre personalmente.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 135.
 
-La contestación de la demanda se presentará en un término que no exceda de cinco días, contados a partir del siguiente a la fecha de su notificación, deberá referirse a todos y cada uno de los hechos que comprenda la demanda y ofrecer pruebas en los términos de la fracción V del artículo anterior.
+La contestación de la demanda, reconvención en su caso se hará en la etapa de demanda y excepciones, en los términos que se señala en esta etapa, y deberá referirse a todos y cada uno de los hechos que comprenda la demanda y ofrecer las pruebas en los términos de la fracción V del artículo anterior.
 
 Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal, se ampliará el término en un día más por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
 
@@ -1013,7 +1089,9 @@ La audiencia se llevará a cabo aún cuando no concurran las partes.
 
 Si el actor no comparece al periodo de demanda y excepciones, se tendrá por reproducida en vía de demanda su comparecencia o escrito inicial.
 
-Si el demandado no concurre, la demanda se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que el actor no era trabajador o funcionario, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+Si el demandado no concurre, la demanda se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que el actor no era trabajador, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
 
 El Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios de Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el titular de la Unidad de Desarrollo y Control Gubernamental, los Coordinadores de las Unidades Administrativas, los Directores del Poder Ejecutivo, los Presidentes de Juntas y Tribunal de conciliación y Arbitraje del Gobierno del Estado, así como los Presidentes, Síndicos, Regidores y Delegados Municipales, que sean parte, absolverán posiciones por medio de oficio en que se insertarán las preguntas que quiera hacerles la contraparte, para que por vía de informe sean contestadas dentro del término que señale el Tribunal. En el oficio se apercibirá la parte absolvente de tenerla por confesa si no contestare dentro del término que se haya señalado, o si no lo hiciere categóricamente afirmando o negando los hechos.
 
@@ -1089,9 +1167,11 @@ Los titulares podrán hacerse presentar (sic) por apoderado que acrediten ese ca
 
 Las partes podrán comparecer acompañadas de los asesores que a su interés convenga.
 
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 142.
 
-Cuando el demandado no conteste la demanda dentro del término concedido o si resulta mal representado, se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
+Cuando el demandado no conteste la demanda o si resulta mal representado, se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
 
 ###### ARTICULO 143.
 
@@ -1149,6 +1229,8 @@ Las multas se harán efectivas por la Secretaría de Finanzas, para lo cual el T
 
 ## TITULO OCTAVO. PROCEDIMIENTO DE EJECUCION
 
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
 ###### ARTICULO 155.
 
 Las disposiciones de este Título rigen la ejecución de los laudos dictados por el Tribunal y de los convenios celebrados y sancionados ante él mismo.
@@ -1176,6 +1258,122 @@ Para el caso de que los titulares de los Poderes del Estado o Municipios, como p
 ###### ARTICULO 161.
 
 En caso de incumplimiento se aplicará lo dispuesto en el capítulo de embargo de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+## TITULO NOVENO. DE LAS RELACIONES LABORALES ENTRE EL ESTADO Y LOS TRABAJADORES TRANSFERIDOS POR LA FEDERACION
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO PRIMERO. DE LOS TRABAJADORES DEL SISTEMA EDUCATIVO ESTATAL
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 162.
+
+Este capítulo regula las relaciones de trabajo entre el Gobierno del Estado, la dependencia denominada Secretaría de Educación Pública, y los trabajadores docentes y administrativos del Sistema Educativo Estatal.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 163.
+
+Trabajador docente, es la persona física que presta servicio de enseñanza en el Sistema Educativo Estatal conforme a los planes y programas establecidos. Trabajador administrativo es todo aquel que labora en actividades no docentes dentro del Sistema Educativo Estatal.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 164.
+
+El trabajador docente podrá ser contratado por tiempo indeterminado, año lectivo, semestre, prestación de servicios profesionales e interino por sustitución.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 165.
+
+Para los efectos de organización colectiva de los trabajadores del Sistema Educativo Estatal, se seguirán las disposiciones contenidas en el Título Cuarto de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 166.
+
+Los trabajadores docentes, se agrupan en su propio Sindicato. Los asuntos laborales de naturaleza colectiva serán tratados en los términos de los Acuerdos de Descentralización y Coordinación respectivos.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 167.
+
+Las Condiciones Generales de Trabajo que regirán las relaciones entre el Gobierno del Estado y los trabajadores del Sistema Educativo Estatal, serán acordadas por el Gobierno del Estado y el Sindicato formado por dichos trabajadores, sujetándose a lo que señala el Capítulo Segundo del Título Cuarto de esta Ley.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 168.
+
+En el desarrollo de sus actividades, los trabajadores del Sistema Educativo Estatal se regirán por sus propias condiciones generales de trabajo.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 169.
+
+Los ascensos de los servidores públicos docentes del Subsistema Educativo Estatal se regularán por el reglamento de escalafón que les corresponda, cuya aplicación estará a cargo de la comisión mixta de escalafón respectiva.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 170.
+
+Los trabajadores gozarán, de los beneficios establecidos en el "Acuerdo Nacional para la Modernización de la Educación Básica”, en el "Reglamento de las Condiciones Generales de Trabajo del Personal de la Secretaría de Educación Pública", en el Reglamento Nacional de Escalafón vigente, en los Convenios de fecha 18 de mayo de 1992, signados entre el Ejecutivo del Gobierno Estatal y el Sindicato Nacional de Trabajadores de la Educación, así como de todos aquellos que se derivan de acuerdos, disposiciones o convenios que les sean propios.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 171.
+
+Los beneficios de la Seguridad Social le serán otorgados a los trabajadores por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de acuerdo con el convenio celebrado el primero de mayo de 1992, entre el Ejecutivo del Gobierno Federal, el Titular del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y el Ejecutivo del Gobierno del Estado.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 172.
+
+Conforme lo dispuesto en los artículos anteriores de este capítulo, los acuerdos, convenios y reglamentos a que se hace referencia, así como las prestaciones y derechos de cualesquier naturaleza, serán de observancia general y obligatoria para el titular del Poder Ejecutivo, los titulares de las dependencias y de la institución o instituciones públicas a las que estén adscritos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO SEGUNDO. DE LOS TRABAJADORES DEL INSTITUTO DE SERVICIOS DE SALUD
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 173.
+
+El Instituto de Servicios de Salud del Estado de Baja California Sur, respetará los derechos laborales señalados en el Artículo 123, Apartado B de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, por lo que aplicarán y respetarán las Condiciones Generales de Trabajo de la Secretaría de Salud del Gobierno Federal y sus reformas futuras, así como los Reglamentos elaborados conforme a la normatividad federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud.
+
+Los trabajadores al servicio del sector salud se agrupan en su propio Sindicato. Los asuntos laborales de naturaleza colectiva serán tratados en los términos de los Acuerdos de Descentralización y Coordinación respectivos.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 174.
+
+Los trabajadores que fueron transferidos por el Gobierno Federal al Instituto de Servicios de Salud del Estado, continuarán gozando de su actual régimen de seguridad social, que estará a cargo del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 175.
+
+Las relaciones laborales entre los Poderes del Estado de Baja California Sur y los Trabajadores que le fueron transferidos por la Federación, se regirán de acuerdo a las disposiciones contenidas en:
+
+I.- Los Acuerdos Nacionales de Descentralización.
+
+II.- Los Convenios de Coordinación.
+
+III.- Los Acuerdos de Coordinación específicos o particulares que se deriven de los diversos Programas de Descentralización del Gobierno Federal o Estatal.
+
+IV.- Las disposiciones especiales que determinen los organismos o dependencia que asuma las funciones transferidas de la Federación, cualquiera que sea la forma o estructura legal que adopten.
+
+V.- Las disposiciones administrativas que se expidieron al momento de la transferencia de funciones de la Federación hacia el Estado.
+
+VI.- Los demás ordenamientos legales que se emitieron en virtud de la descentralización a que corresponda.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 176.
+
+Los servidores públicos federales que, con motivo de procesos de descentralización de instituciones o dependencias federales pasaron a formar parte de instituciones públicas o dependencias estatales o municipales, en cuanto al procedimiento serán sujetos de esta ley, así mismo gozarán de todos los derechos, prestaciones y obligaciones que la misma impone u otorga solamente si así lo estableciera la presente Ley. Lo anterior, sin perjuicio de respetar las modalidades que se establezcan en materia sindical y de seguridad social.
 
 T R A N S I T O R I O S :
 
@@ -1214,3 +1412,29 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 1 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+En lo referente a los trabajadores de los organismos públicos descentralizados de índole estatal y municipal, su relación contractual será regulada por sus propias Condiciones Generales de Trabajo establecidas entre el Sindicato, los Poderes Legislativo, Ejecutivo, Judicial y Municipios del Estado de Baja California Sur, y sus controversias laborales se ventilarán en la Junta Local de Conciliación y Arbitraje como lo establece el apartado A del artículo 123 constitucional, la Ley Federal del Trabajo, el uso y la costumbre y demás preceptos constitucionales que en la materia apruebe el Honorable Congreso de la Unión. Debiendo ser representados y tutelados invariablemente por el Sindicato al que se encuentren agremiados.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios que se hayan iniciado con anterioridad a la vigencia de esta Ley, continuarán su trámite conforme a las disposiciones anteriores.
+
+###### ARTÍCULO CUARTO.
+
+Las áreas encargadas de los recursos humanos de los Poderes del Estado y Municipios, deberán elaborar y publicar en el Boletín Oficial del Gobierno del Estado, los catálogos de puestos correspondientes, en un plazo que no exceda de 60 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+En tanto no entren en vigor los catálogos de puestos correspondientes, la categoría del trabajador se asignará por las áreas encargadas de los recursos humanos de los Poderes del Estado y Municipios al momento de su ingreso.
+
+###### ARTÍCULO QUINTO.
+
+La presente reforma no aplicara retroactivamente en perjuicio de los trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
