@@ -4,7 +4,7 @@ identifier: "DUR-codigo-estatal-electoral-4880"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-11-27"
-last_updated: "2007-07-15"
+last_updated: "2007-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO ESTATAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 27 de noviembre de 1994.
 
@@ -1101,23 +1101,39 @@ V.- Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
 Los partidos políticos estatales y nacionales registrados ante el Instituto Estatal Electoral, recibirán el financiamiento público de conformidad a lo que establece este Código para cada uno de ellos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 86.
 
-Los partidos políticos registrados legalmente en el Estado, como complemento de los ingresos que perciben de acuerdo con su régimen interno, tendrán derecho al financiamiento público, para el ejercicio de sus actividades políticas en el Estado. Este se sujetará a las reglas siguientes:
+Los partidos políticos registrados o acreditados legalmente en el Instituto Electoral, como complemento a los ingresos que perciben de acuerdo con su régimen interno, tendrán derecho al financiamiento público, para el ejercicio de sus actividades ordinarias permanentes en el Estado. Este se sujetará a las reglas siguientes:
 
-I.- La base para la cuantificación del financiamiento a los partidos políticos será el salario mínimo general vigente, en la capital del Estado al primero de Enero de cada año.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+I.- La cuantificación de la bolsa de financiamiento público anual de los partidos políticos se fijará tomando como base el 60% del costo mínimo de campaña determinado por el Consejo Estatal Electoral que se multiplicará por los siguientes factores:
+
+a) El número de diputados a elegir;
+
+b) El número de partidos políticos con representación en el Congreso;
+
+c) La duración de la campaña, la cual se representará con el factor uno para el efecto de la multiplicación arriba citada; y
+
+d) Al monto que resulte, se le sumará la tasa de inflación, tomando como referencia el Índice Nacional de Precios al Consumidor que el Banco de México estime al mes de diciembre del año en que se calcule el financiamiento público.
+
+Establecido el monto total del financiamiento público para actividades ordinarias permanentes, se distribuirá entre los partidos políticos conforme a lo dispuesto en las siguientes fracciones del presente artículo.
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2000)</small>
 
 II.- A los partidos políticos con registro vigente y que hayan participado en la elección estatal inmediata anterior y que no hayan obtenido representación en el Congreso del Estado, se les asignará una cantidad mensual equivalente a 400 veces al salario mínimo, durante el año que corresponda;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2007)</small>
 
-III.- A los partidos políticos que en la elección inmediata anterior hayan obtenido representación en el Congreso del Estado, el financiamiento público anual se distribuirá de la siguiente manera:
+III.- A los partidos políticos que en la elección inmediata anterior hayan obtenido representación en el Congreso del Estado, la parte restante del monto total del financiamiento público anual se distribuirá de la siguiente manera:
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2006)</small>
 
 a).- El 30% se entregará en forma igualitaria; y
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1997)</small>
 
 b).- El 70% restante, se distribuirá según el porcentaje de la votación estatal emitida, que hubiese obtenido cada partido político, en la elección inmediata anterior de Diputados de Mayoría Relativa.
 
@@ -1143,9 +1159,11 @@ V.- Las cantidades que en su caso se determinen para cada partido, serán entreg
 
 VI.- Cada partido político deberá destinar anualmente por lo menos el 2% del financiamiento público que reciba, para el desarrollo de sus fundaciones o institutos de investigación.
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
 
-VII.- La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, podrán ser apoyadas mediante el financiamiento público, en los términos del Reglamento que en su caso expida el Consejo Estatal Electoral. En ningún caso el Consejo Estatal Electoral podrá autorizar apoyos mayores al 35% anual de los gastos comprobados que, por las actividades a que se refiere ésta fracción, hayan erogado los partidos políticos durante el año inmediato anterior.
+VII.- Las actividades relativas a la educación, capacitación, investigación socioeconómica y política y editoriales que los partidos políticos realicen anualmente, serán apoyadas hasta por un 20% del monto total del financiamiento público que les corresponda en los términos del Reglamento que en su caso expida el Consejo Estatal Electoral.
+
+El apoyo al que alude el párrafo anterior se reintegrará a los partidos políticos una vez que éstos hayan comprobado el gasto de dichas actividades.
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1705,9 +1723,9 @@ XIV.- Proveer que lo relativo a las prerrogativas y financiamiento de los partid
 
 XV.- Presentar al Ejecutivo del Estado su presupuesto de egresos, el cual deberá comprender partidas para cubrir el financiamiento y las prerrogativas de los partidos políticos.
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
 
-XVI.- Determinar los topes del financiamiento público o privado, en efectivo o en especie, a los partidos políticos y candidatos, y también determinar en el mes de Enero los topes de gastos de las campañas electorales y precampañas electorales estatales, distritales y municipales;
+XVI.- Determinar los costos mínimos de campaña y en el mes de enero los topes de gastos de las campañas y precampañas electorales estatales, distritales y municipales;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2006)</small>
 
@@ -1775,7 +1793,7 @@ XXXV.- Aprobar en su caso la realización de los estudios o procedimientos perti
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2006)</small>
 
-XXXVI.- Organizar los debates que los Partidos Políticos por consenso general, acuerden y soliciten, en los términos propuestos por estos mismos, , entre los candidatos a puestos de elección popular; y
+XXXVI.- Organizar los debates que los Partidos Políticos por consenso general, acuerden y soliciten, en los términos propuestos por estos mismos, entre los candidatos a puestos de elección popular; y
 
 > <small>(REFORMADA Y REUBICADA, P.O. 31 DE AGOSTO DE 2006)</small>
 
@@ -6480,3 +6498,15 @@ P.O. 15 DE JULIO DE 2007.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 SEGUNDO.- Se deroga el Artículo Cuarto Transitorio del Decreto No. 290, aprobado en fecha 18 de agosto del 2006, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado No. 18 del mismo mes y año y demás disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+TERCERO.- El Consejo Estatal Electoral expedirá los reglamentos relativos a las materias a que se refiere el presente decreto, en un plazo no mayor de cuatro meses, contados a partir del inicio de su vigencia.
+
+CUARTO.- El Consejo Estatal Electoral contará con un periodo de 60 (sesenta) días contados a partir de la entrada en vigor del presente Decreto, para la elaboración del nuevo Reglamento de Fiscalización de los Recursos de los Partidos Políticos y Agrupaciones Políticas.
+
+En tanto no se expida el Reglamento mencionado en el párrafo anterior, las normas, acuerdos y disposiciones existentes, continuarán vigentes.
