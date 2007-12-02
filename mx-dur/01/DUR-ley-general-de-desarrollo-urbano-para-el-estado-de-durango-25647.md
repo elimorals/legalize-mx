@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2006-12-17"
+last_updated: "2007-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2006, SE DEROGAN TODAS LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN LO QUE SE OPONGAN A LA NUEVA LEY.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -159,11 +157,19 @@ XIX. Crecimiento: A la acción tendiente a ordenar y regular la expansión físi
 
 XX. Derecho: El precio que paga el usuario por la prestación de un servicio público;
 
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+XX bis. Desarrollador de vivienda: Propietario de un terreno o empresario que trabaja para éste, que construye viviendas de diferentes tipos en fraccionamientos o condominios, dotándolas de las necesarias obras de infraestructura, equipamiento y servicios urbanos, conforme a la clasificación de fraccionamientos previstas en la presente ley;
+
 XXI. Desarrollo Urbano: Es el proceso de regulación u ordenación a través de la planeación del medio urbano, en sus aspectos físicos económicos y sociales, que implica la expansión física y demográfica, el incremento de las actividades productivas, la elevación de las condiciones socioeconómicas de la población, la protección del patrimonio natural y cultural, y la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
 XXII. Destinos: Los fines públicos a las que se dediquen zonas o predios;
 
 XXIII. Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario destinados a prestar a la población los servicios administrativos, educativos, comerciales, de salud y asistencia, recreativos, de traslado y otros, así como los inmuebles, edificios y espacios públicos o privados, en los que se desarrollen las actividades;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+XXIII bis. Fraccionador: Propietario de un terreno o empresario que trabaja para éste, al cual se la (sic) autoriza llevar a cabo obras de urbanización de un fraccionamiento, de los tipos establecidos en la presente ley;
 
 XXIV. Fraccionamiento: La división de un terreno en manzanas y lotes, que requiera de un trazo de una o más vías públicas, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, conforme a la clasificación de fraccionamientos previstas en la presente Ley;
 
@@ -191,7 +197,9 @@ XXXV. Monumentos artísticos: Las obras que revisten valor estético relevante;
 
 XXXVI. Monumentos históricos: Los bienes vinculados con la historia de la Nación, a partir del establecimiento de la cultura hispana en el país, en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas;
 
-XXXVII. Municipalización del Fraccionamiento: El acto formal mediante el cual se realiza la entrega recepción por parte del fraccionador al ayuntamiento respectivo;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+XXXVII. Municipalización del Fraccionamiento: El acto formal mediante el cual se realiza la entrega-recepción por parte del fraccionador al ayuntamiento respectivo de los bienes inmuebles, equipamiento e instalaciones destinadas a los servicios públicos y de las obras de urbanización de un fraccionamiento que, cumpliendo con los dispuesto en esta ley y demás disposiciones jurídicas y reglamentarias aplicables, se encuentra en posibilidad de operar suficiente y adecuadamente, permitiendo al Ayuntamiento, en la esfera de su competencia, prestar los servicios públicos necesarios;
 
 XXXVIII. Ordenamiento Territorial: El proceso de distribución equilibrada sustentable de la población;
 
@@ -399,13 +407,25 @@ IX.- Coordinar los Planes y programas de Desarrollo Urbano Municipal con el esta
 
 X.- Coordinar con el apoyo y asesoría de la Secretaría, la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de Desarrollo Urbano;
 
-XI.- Proponer al Titular del Poder Ejecutivo, la fundación de nuevos centros de población previo dictamen de la Comisión Estatal de Desarrollo Urbano; y
+XI.- Proponer al Titular del Poder Ejecutivo, la fundación de nuevos centros de población previo dictamen de la Comisión Estatal de Desarrollo Urbano; y (sic)
 
-XII.- Promover la participación de los sectores social y privado en la formulación, ejecución, modificación, actualización y evaluación de los programas municipales de desarrollo urbano, de centros de población, y los que de estos se deriven.
+XII.- Promover la participación de los sectores social y privado en la formulación, ejecución, modificación, actualización y evaluación de los programas municipales de desarrollo urbano, de centros de población, y los que de estos se deriven;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+XIII.- Municipalizar los fraccionamientos cuando se hayan cubierto los requisitos legales y reglamentarios; y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+XIV.- Vigilar los fraccionamientos que no hayan sido municipalizados, para que los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a esta Ley.
 
 ###### ARTÍCULO 12.
 
 Los ayuntamientos para el ejercicio de las atribuciones que les confiere la presente Ley, se apoyarán en su Dirección de Obras Públicas Municipales o su equivalente y en las Comisiones Municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+Para facilitar el otorgamiento de constancias, permisos, licencias de compatibilidad urbanística, usos de suelo de edificaciones, construcciones, de fraccionamientos, y demás relacionadas al desarrollo e imagen urbana, los ayuntamientos deberán establecer una ventanilla única o habilitar el módulo a que se refiere el Capítulo VI de la Ley de Desarrollo Económico para el Estado de Durango. El reglamento municipal que para el efecto se expida, normará su organización y funcionamiento.
 
 ### CAPÍTULO III. DE LA COMISIÓN ESTATAL DE DESARROLLO URBANO
 
@@ -459,7 +479,9 @@ Las comisiones municipales tendrán las siguientes atribuciones:
 
 I.- Apoyar al ayuntamiento en materia de desarrollo urbano y vivienda, opinar sobre los programas y zonificación del suelo respectivas, promoviendo la participación de los sectores público, social y privado;
 
-II.- Opinar sobre las autorizaciones de fraccionamientos, relotificaciones, fusiones, subdivisiones y condominios; realizar estudios y propuestas en materia de reservas territoriales, y regularización de la tenencia de la tierra urbana;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+II.- Opinar sobre las autorizaciones de fraccionamientos, relotificaciones, fusiones, subdivisiones, condominios y municipalización de fraccionamientos; realizar estudios y propuestas en materia de reservas territoriales y regularización de la tenencia de la tierra urbana;
 
 III.- Representar los intereses de la comunidad y el municipio, cuya cooperación es necesaria para la ejecución de obras o servicios de Desarrollo Urbano;
 
@@ -2621,9 +2643,11 @@ En los fraccionamientos industriales de tipo selectivo, únicamente se podrán c
 
 En el caso de los fraccionamientos mixtos deberán normarse por el reglamento que para tal efecto elaboren los ayuntamientos de acuerdo a la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 229.
 
-El Ayuntamiento cuando el fraccionador, habiendo ejecutado el proyecto definitivo autorizado y el dictamen técnico al que se refieren los artículos 247, 248 y 249 de la presente ley, procederá a la municipalización del mismo, en un plazo que no excederá los 30 días posteriores al acta de terminación.
+Cuando el fraccionador, haya ejecutado el proyecto definitivo autorizado y el dictamen técnico al que se refieren los artículos 247, 248 y 249 de la presente ley, el Ayuntamiento procederá a la municipalización del mismo, en un plazo que no excederá los 30 días posteriores al acta de terminación.
 
 Los fraccionamientos que se urbanicen por etapas, se podrán municipalizar:
 
@@ -2803,7 +2827,9 @@ El fraccionador podrá interponer el recurso de inconformidad que establece la p
 
 Los propietarios de fraccionamientos o condominios, de cualesquiera de los tipos señalados en la presente ley, que hayan sido ejecutados sin la previa autorización en sesión de ayuntamiento, deberán solicitar la regularización de los mismos ante el Presidente Municipal, acompañando a la solicitud, la documentación que éste le señale, para que sean sometidos a la consideración de la sesión de ayuntamiento.
 
-### CAPITULO IV. DE LAS OBLIGACIONES DE LOS FRACCIONADORES Y DE LOS DERECHOS Y OBLIGACIONES DE LOS ADQUIRENTES
+### CAPÍTULO III BIS. DE LA MUNICIPALIZACIÓN DE FRACCIONAMIENTOS O DESARROLLOS EN CONDOMINIO
+
+(REUBICADO Y REFORMADO, P.O. 2 DE DICIEMBRE DE 2007)
 
 ###### ARTÍCULO 241.
 
@@ -2851,17 +2877,33 @@ IV.- Deje de prestar suficiente y adecuadamente los servicios a que está obliga
 
 En todos los casos será responsable solidario el perito o director responsable de las obras o su equivalente.
 
-### CAPÍTULO V
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
 
-DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO.
+### CAPITULO IV. DE LAS OBLIGACIONES DE LOS FRACCIONADORES Y DE LOS DERECHOS Y OBLIGACIONES DE LOS ADQUIRENTES
 
 ###### ARTÍCULO 247.
 
-Una vez concluida la totalidad de las obras de urbanización, el Ayuntamiento procederá a la elaboración del dictamen técnico de la ejecución de dichas obras, para los efectos de la municipalización correspondiente.
+Para el otorgamiento de las licencias de urbanización y construcción para fraccionamientos o condominios, se deberán acompañar las constancias de compatibilidad urbanística expedidas por las dependencias correspondientes, una vez cumplido este requisito la Dirección Municipal competente, otorgará la licencia de urbanización; y una vez cumplidos estos requisitos, el fraccionador o propietario podrá solicitar la licencia de construcción; iniciada ésta, se procederá a su inspección y supervisión.
+
+Conforme se vayan entregando las viviendas, la Dirección Municipal correspondiente, otorgará la constancia de uso y habitabilidad, con el propósito de los adquirentes tengan la seguridad de que la vivienda cuenta con las especificaciones de construcción y los servicios públicos; al llegar al 60% de la viviendas habitadas, será factible iniciar el procedimiento de municipalización, de conformidad con el artículo 229 de esta ley.
+
+Una vez recibida la solicitud de municipalizacion, el Ayuntamiento citará al desarrollador, a efecto de que se realice una inspección final del fraccionamiento o condominio, para verificar el cumplimiento de los requisitos urbanos señalados en el Título Séptimo de esta ley, levantándose el acta correspondiente, en la cual se determinará lo siguiente:
+
+I. El estado físico de las obras de urbanización;
+
+II. Las reposiciones y reparaciones a realizar, en caso de que existieran a efecto de que proceda la entrega-recepción definitiva; y
+
+III. Las incidencias y reparaciones que se hubieran realizado durante el periodo de construcción.
+
+Tratándose de fraccionamientos autorizados en etapas, se observará además de lo anterior, lo señalado en el artículo 229, incisos a) y b) de esta ley.
+
+(REUBICADO, P.O. 2 DE DICIEMBRE DE 2007)
 
 ###### ARTÍCULO 248.
 
 El dictamen técnico a que se refiere el artículo anterior, tendrá por objetivo sancionar que el fraccionador o promovente, haya cumplido con todas las obligaciones que le señala la presente ley y ejecutado las obras de urbanización, conforme al proyecto definitivo del fraccionamiento o condominio autorizado.
+
+(REUBICADO, P.O. 2 DE DICIEMBRE DE 2007)
 
 ###### ARTÍCULO 249.
 
@@ -2871,11 +2913,15 @@ En el caso de que el dictamen técnico no apruebe la totalidad de las obras de u
 
 Tratándose de condominios, el dictamen técnico a que se refiere el párrafo anterior, en ningún caso implica la municipalización del mismo, toda vez que la prestación de los servicios urbanos básicos, siempre será responsabilidad de la administración del condominio, bajo la supervisión de las autoridades correspondientes.
 
+(REUBICADO, P.O. 2 DE DICIEMBRE DE 2007)
+
 ###### ARTÍCULO 250.
 
 Se procederá a la cancelación de la garantía otorgada, quedando el fraccionador liberado de toda responsabilidad, en cuanto a la prestación de los servicios respectivos, una vez que se hayan satisfecho los supuestos a los que se refieren los artículos 242 y 245 de la presente ley.
 
 Mientras no se cumpla con el supuesto previsto en este artículo, el fraccionador seguirá obligado a la prestación de los servicios y mantenimiento de las instalaciones correspondientes así como a mantener vigente la garantía otorgada.
+
+(REUBICADO, P.O. 2 DE DICIEMBRE DE 2007)
 
 ###### ARTÍCULO 251.
 
@@ -2883,11 +2929,15 @@ El ayuntamiento, con los recursos derivados de las garantías, ejecutará direct
 
 En el caso de que dichos recursos sean insuficientes para ejecutar las obras de urbanización, el fraccionador o promovente estará obligado a sufragar los recursos que sean necesarios.
 
+(REUBICADO, P.O. 2 DE DICIEMBRE DE 2007)
+
 ###### ARTÍCULO 252.
 
 La garantía que se refiere anteriormente, no podrá cancelarse sino hasta que hayan transcurrido dos años, contados a partir de la fecha en que las autoridades competentes, dictaminaron que la totalidad de las obras de urbanización se ejecutaron con estricto apego a las especificaciones fijadas por la presente ley.
 
-### CAPÍTULO I. DE LA PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO
+### CAPÍTULO V
+
+DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO.
 
 ###### ARTÍCULO 253.
 
@@ -2921,9 +2971,13 @@ Los adquirientes de lotes deberán ajustar sus construcciones a las normas que e
 
 En todos los fraccionamientos, los adquirientes de lotes tendrán la obligación solidaria con el Ayuntamiento de conservar los jardines y árboles plantados en las vías públicas y áreas verdes, en los tramos que le correspondan al frente de sus lotes, así como las banquetas, pavimentos y el equipamiento urbano del fraccionamiento.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 259.
 
-Es obligación de los adquirientes de lotes, tramitar a su costa y ante las autoridades competentes, la conexión o contratación de los servicios públicos que deban prestarse en los lotes que hayan adquirido en el fraccionamiento.
+Una vez concluida la totalidad de las obras de urbanización en el caso de fraccionamientos autorizados solamente para urbanizar lotes con servicio; de acuerdo al proyecto definitivo y calendario de obra aprobados, el fraccionador contará con treinta días naturales para la elaboración del acta de terminación de obra, que deberá turnar al ayuntamiento.
+
+El ayuntamiento, a solicitud del fraccionador o promovente, procederá a la elaboración del dictamén técnico de la ejecución de dichas obras para los efectos de la municipalización correspondiente.
 
 ###### ARTÍCULO 260.
 
@@ -2937,7 +2991,7 @@ En los fraccionamientos habitacionales de interés social, nadie podrá adquirir
 
 Los adquirientes de lotes en un fraccionamiento, podrán constituirse legalmente en una asociación de colonos, la que deberá contar con un reglamento y estar inscrita en el ayuntamiento con el fin de que se le reconozca la personalidad y capacidad de gestión de la correspondiente.
 
-### CAPÍTULO II. DE LA CONSERVACIÓN Y MEJORAMIENTO DEL PATRIMONIO CULTURAL
+### CAPÍTULO I. DE LA PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO
 
 ###### ARTÍCULO 263.
 
@@ -3119,7 +3173,7 @@ Además, de acuerdo a lo anterior, podrán disponer de los bienes comunes que qu
 
 ## TITULO OCTAVO. PREVENCIONES GENERALES EN MATERIA DE DESARROLLO URBANO
 
-### CAPÍTULO III. DEL REGISTRO DEL PATRIMONIO CULTURAL DEL ESTADO
+### CAPÍTULO II. DE LA CONSERVACIÓN Y MEJORAMIENTO DEL PATRIMONIO CULTURAL
 
 ###### ARTÍCULO 284.
 
@@ -3165,7 +3219,7 @@ Las atribuciones que ejerza el estado y los municipios para la conservación y m
 
 La Comisión para la Preservación del Patrimonio Cultural del Estado coordinará las acciones de conservación y mejoramiento relativas al patrimonio cultural en el Estado, para el mejor aprovechamiento de los recursos disponibles, así como las acciones e inversiones de las dependencias y entidades del sector público, encargado de la conservación y mejoramiento del patrimonio cultural del Estado, unificando los criterios técnicos, jurídicos y administrativos.
 
-### CAPÍTULO IV. DE LA REGULACIÓN EN MATERIA DE ANUNCIOS, EN ZONAS DEL PATRIMONIO CULTURAL
+### CAPÍTULO III. DEL REGISTRO DEL PATRIMONIO CULTURAL DEL ESTADO
 
 ###### ARTÍCULO 290.
 
@@ -3195,7 +3249,7 @@ Y para tal efecto, en coordinación con las autoridades federales competentes, s
 
 Las atribuciones de la comisión señaladas en el presente artículo, no son excluyentes de las que le confiere la presente Ley a la Secretaría y a los ayuntamientos u otras disposiciones jurídicas a la federación.
 
-### CAPITULO V. DE LA REGULACIÓN URBANA PARA LA PROTECCIÓN DE LAS PERSONAS CON DISCAPACIDAD
+### CAPÍTULO IV. DE LA REGULACIÓN EN MATERIA DE ANUNCIOS, EN ZONAS DEL PATRIMONIO CULTURAL
 
 ###### ARTÍCULO 293.
 
@@ -3217,7 +3271,7 @@ Los bienes inmuebles declarados patrimonio cultural deberán inscribirse en el R
 
 La autoridad catastral correspondiente, deberá señalar, en su caso, la característica de patrimonio cultural de un inmueble que haya sido catalogado como tal y dará aviso a la Comisión para la Preservación del Patrimonio Cultural del Estado de la operación inmobiliaria que se celebre, dentro de un plazo de 30 días naturales, a partir de que tenga conocimiento para los efectos legales a que haya lugar.
 
-### CAPÍTULO VI. DE LAS NORMAS GENERALES QUE REGULAN LAS CONCESIONES DE LOS BIENES Y SERVICIOS PÚBLICOS
+### CAPITULO V. DE LA REGULACIÓN URBANA PARA LA PROTECCIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
 ###### ARTÍCULO 298.
 
@@ -3241,7 +3295,7 @@ IV.- Carteles y volantes: Son aquellos destinados a anuncios de espectáculos ta
 
 Se autorizará por las autoridades estatales y municipales, el uso de instalaciones, anuncios, carteles y establecimientos cuando cumplan con las características especificas marcadas por el Instituto Nacional de Antropología e Historia y la Comisión para la Preservación del Patrimonio Cultural del Estado, quedando esta facultada para retirar aquellos que sean eventualmente innecesarios, inadecuados o que contengan cualquier publicidad nociva o indecorosa.
 
-### CAPITULO ÚNICO
+### CAPÍTULO VI. DE LAS NORMAS GENERALES QUE REGULAN LAS CONCESIONES DE LOS BIENES Y SERVICIOS PÚBLICOS
 
 ###### ARTÍCULO 301.
 
@@ -3258,6 +3312,8 @@ En los auditorios, cines, teatros, salas de conciertos y conferencias, centros r
 ###### ARTÍCULO 304.
 
 Las determinaciones y acciones de los órganos del gobierno estatal y municipal, los programas de desarrollo que éstos formulen, observarán que la infraestructura, el equipamiento del entorno urbano, los servicios urbanos, así como las acciones de vivienda, construcciones e instalaciones a que tiene acceso el público, deberán cumplir con la normatividad necesaria que permita a las personas con discapacidad orientarse, desplazarse y utilizarlos sin peligro para la vida y la salud.
+
+### CAPITULO ÚNICO
 
 ###### ARTÍCULO 305.
 
@@ -3501,6 +3557,22 @@ A las personas que realicen una obra de reparación o modificación en bienes qu
 
 No se aplicará lo dispuesto en el artículo 325 a quienes el Ayuntamiento respectivo hubiere autorizado ejecutar las obras de urbanización por etapas. En la autorización correspondiente se determinarán las bases bajo las cuales dichas personas podrán enajenar los lotes de los fraccionamientos, así como enajenar los departamentos, viviendas, casas, locales o áreas de que se componga el inmueble sujeto al régimen de propiedad en condominio.
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 328 bis.- Los constructores de fraccionamientos o condominios que dejen de cumplir con los plazos y términos establecidos en el artículo 229 de esta ley y en las autorizaciones municipales de construcción, serán sancionados por el Ayuntamiento, previo al procedimiento respectivo con amonestación por escrito; multa de quinientos y hasta diez mil días de salario mínimo vigente en el Estado y la suspensión temporal; o en su caso definitiva, para obtener autorizaciones futuras para la construcción de fraccionamientos. Lo anterior, sin perjuicio de las sanciones y/o medidas de seguridad previstas en otros ordenamientos legales y reglamentarios aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 328 ter.- Para los efectos del artículo anterior, se considerarán como responsables solidarios a los peritos que hayan otorgado su aval para la ejecución de las obras a que se refiere esta ley, o bien, incurran o permitan el incumplimiento de la misma. En estos casos, se harán acreedores a las sanciones o infracciones establecidas en esta ley y en los demás ordenamientos legales o reglamentarios aplicables; lo anterior, independientemente de la responsabilidad civil o penal que pudiera derivarse.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 328 quáter.- El Estado y los Ayuntamientos, dentro del ámbito de sus respectivas competencias, vigilarán el cumplimiento de las disposiciones de esta Ley, debiendo adoptar las medidas de seguridad e imponer las sanciones administrativas correspondientes, independientemente de las que pudieran derivarse en la comisión de ilícitos.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 328 quinquies.- La existencia de asentamientos humanos irregulares o la gestación de éstos, podrán ser denunciados por el Estado, los Ayuntamientos o por cualquier persona física o moral, ante las autoridades competentes, con la finalidad de que se apliquen las sanciones que correspondan.
+
 ###### ARTÍCULO 329.
 
 La autoridad Administrativa Estatal o Municipal, según corresponda, denunciará ante la autoridad ministerial competente al que:
@@ -3638,3 +3710,13 @@ CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en materia 
 QUINTO.- Las autoridades correspondientes deberán emitir los reglamentos interiores respectivos en un plazo no mayor de 90 días hábiles contados a partir de la entrada en vigor de la presente ley.
 
 SEXTO.- El Ejecutivo del Estado y los ayuntamientos en sus presupuestos de egresos para los ejercicios fiscales del año 2008 y subsecuentes, deberán de incluir una partida presupuestal destinada al Fondo para la Vivienda Digna.
+
+P.O. 2 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+TERCERO.- Para adecuar las disposiciones reglamentarias municipales al contenido del presente decreto, los Ayuntamientos dispondrán de un plazo máximo de noventa días contados a partir de su entrada en vigor.
+
+CUARTO.- Las solicitudes de municipalización de fraccionamientos o condominios, presentadas con anterioridad a la entrada en vigor del presente decreto, deberán continuar y concluir su trámite, de conformidad con la normatividad que se encontraba en vigor a la fecha de su presentación.
