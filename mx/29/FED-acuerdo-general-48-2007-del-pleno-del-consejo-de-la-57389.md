@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2007-del-pleno-del-consejo-de-la-57389"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-11-09"
-last_updated: "2007-11-09"
+last_updated: "2007-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57389&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-11-07"
 
 ACUERDO GENERAL 48/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION DEL TURNO DE ASUNTOS URGENTES DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DEL DECIMO CIRCUITO, CON RESIDENCIA EN VILLAHERMOSA, TABASCO; ASI COMO DE LA MODIFICACION TEMPORAL DE LA JURISDICCION TERRITORIAL DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DEL SEPTIMO CIRCUITO, CON RESIDENCIA EN BOCA DEL RIO, VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL 56/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 3 DE DICIEMBRE DE 2007, CONCLUYE LA EXCLUSION DE TURNO DE ASUNTOS DE CARACTER URGENTE ORDENADA EN EL PUNTO SEGUNDO DEL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 2007.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 9 de noviembre de 2007.
 
@@ -80,3 +82,13 @@ PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 48/2007, del Pleno del Consejo de la Judicatura Federal, Relativo a la Exclusión del Turno de Asuntos Urgentes de los Tribunales Colegiados y Unitarios del Décimo Circuito, con Residencia en Villahermosa, Tabasco; así como de la Modificación Temporal de la Jurisdicción Territorial de los Tribunales Colegiados y Unitarios del Séptimo Circuito, con Residencia en Boca del Río, Veracruz, fue aprobado en sesión ordinaria de siete de noviembre de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a siete de noviembre de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Dirección General de Estadística y Planeación Judicial determinará en el ámbito de su competencia lo relativo al personal y funcionamiento de las oficinas de correspondencia común de los tribunales colegiados y unitarios del Séptimo Circuito con residencia en Villahermosa, Tabasco.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
