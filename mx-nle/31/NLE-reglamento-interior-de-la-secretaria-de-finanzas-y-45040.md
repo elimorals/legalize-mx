@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-finanzas-y-45040"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-25"
-last_updated: "2005-05-25"
+last_updated: "2007-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2007.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de mayo de 2005.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de mayo de 2005
 
 JOSÉ NATIVIDAD GONZÁLEZ PARÁS, Gobernador Constitucional del Estado Libre y Soberano de Nuevo León, en ejercicio de las facultades que me confieren los artículos 81, 85 fracción X, 87, 88, 135 y 139 de la Constitución Política del Estado de Nuevo león, así como los artículos 2, 3, 4, 5, 8, 9, 15, 16, 17, 18, fracción IV, 24 y demás relativos de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, y
 
@@ -133,9 +133,11 @@ XIX. Fijar el monto de los productos que tenga derecho a recibir el Estado; y
 
 XX. Las demás facultades y funciones que se establezcan, tanto para el Secretario como para la Secretaría en las demás leyes, decretos, reglamentos, acuerdos o convenios y aquellas que le confiera directamente el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 5°.
 
-Para la mejor distribución, desempeño y eficacia de sus actividades, el Secretario de Finanzas y Tesorero General del Estado, podrá delegar sus facultades a los funcionarios subalternos, expidiendo al efecto los acuerdos correspondientes, mismos que deberán ser publicados en el Periódico Oficial del Estado de Nuevo León; en estos casos, los funcionarios así delegados rendirán informe mensual del ejercicio de dichas atribuciones.
+Para la mejor distribución, desempeño y eficacia de sus actividades, el Secretario de Finanzas y Tesorero General del Estado, podrá delegar sus facultades a los funcionarios subalternos, así como en los funcionarios públicos que ejerzan funciones de autoridad fiscal, derivadas de convenios de coordinación o colaboración, en materia fiscal, expidiendo al efecto los acuerdos correspondientes, mismos que deberán ser publicados en el Periódico Oficial del Estado de Nuevo León; en estos casos, los funcionarios así delegados rendirán informe mensual del ejercicio de dichas atribuciones.
 
 ### CAPÍTULO CUARTO. DE LAS FACULTADES COMUNES DE LAS SUBSECRETARÍAS
 
@@ -163,7 +165,9 @@ VII. Ejercer, dentro de su ámbito de competencia, todas aquéllas facultades qu
 
 Los Directores tendrán las siguientes facultades:
 
-I. Expedir Certificaciones o Copias Certificadas de las constancias relativas a su competencia;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+I. Expedir Certificaciones o Copias Certificadas de las constancias relativas a su competencia y notificar a través de los servidores públicos de su adscripción, las resoluciones administrativas que dicte;
 
 II. En los asuntos de su competencia, representar a la Secretaría y a sus propias Unidades Administrativas, en toda clase de juicios y controversias en los que éstos sean parte, y demás recursos que les correspondan;
 
@@ -215,7 +219,9 @@ XVIII. Aprobar el Programa Estatal de Inversión, de conformidad a los proyectos
 
 XIX. Inscribir en el Registro Estatal de Deuda, la afectación que en ingresos federales le corresponda al Estado ó a los Municipios de la Entidad, cuando hayan quedado en garantía;
 
-XX. Formalizar los mandatos u otros instrumentos jurídicos que otorgue el Gobierno del Estado, relacionados con la contratación y operación de la deuda pública; e
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+XX. Formalizar los mandatos u otros instrumentos jurídicos que otorgue el Gobierno del Estado, relacionados con la contratación y operación de la deuda pública; y suscribir los actos jurídicos que sean necesarios para el cumplimiento de las atribuciones de la Secretaría;
 
 XXI. Instruir a las Instituciones del sistema financiero correspondientes, sobre la forma en que deberán operar las cuentas de cheques y de inversión de la Hacienda Pública del Estado.
 
@@ -343,7 +349,9 @@ VI. Dar a conocer al contribuyente, mediante oficio de observaciones, los hechos
 
 VII. Expedir los oficios de designación, credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos que se deriven de las disposiciones fiscales estatales y federales;
 
-VIII. Determinar y recaudar los créditos fiscales y en su caso, previo acuerdo del Secretario, condonar recargos y multas impuestas por las Unidades Administrativas adscritas a la Subsecretaría;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+VIII. Determinar y recaudar los créditos fiscales;
 
 IX. Analizar y emitir opinión a la entidad correspondiente para el establecimiento o modificación en su caso, de los precios, cuotas o tarifas de los bienes y servicios que proporciona la Administración Pública del Estado;
 
@@ -409,7 +417,9 @@ VII. Coordinarse con los Municipios y proporcionar el apoyo que requieran para d
 
 VIII. Determinar y liquidar las contribuciones estatales y municipales coordinadas, los aprovechamientos, los productos, así como sus accesorios, cuya omisión se hubiera detectado con motivo del ejercicio de sus facultades;
 
-IX. Imponer sanciones y resolver en el ámbito de su competencia, sobre la condonación o reducción de sanciones y demás accesorios, así como de la actualización que deba aplicarse, de acuerdo a los lineamientos que fije el Subsecretario;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+IX. De conformidad con los ordenamientos legales aplicables, imponer las sanciones administrativas que correspondan a las infracciones fiscales, así como de actualización que deba aplicarse;
 
 X. Verificar la debida aplicación de los subsidios y estímulos fiscales previstos en la ley en materia de su competencia;
 
@@ -465,9 +475,13 @@ V. Autorizar el pago diferido o en parcialidades de los créditos fiscales, prev
 
 VI. Previa calificación, aceptar las garantías que se otorguen en relación a las contribuciones, autorizar su sustitución, cancelarlas o en su caso hacerlas efectivas; resolver las solicitudes de dispensa del interés fiscal;
 
-VII. Hacer efectivas las garantías que se otorguen a favor del Gobierno del Estado, conforme a las disposiciones jurídicas aplicables; y
+VII. Hacer efectivas las garantías que se otorguen a favor del Gobierno del Estado, conforme a las disposiciones jurídicas aplicables; y (sic)
 
-VIII. Rematar los bienes decomisados, abandonados y embargados dentro del procedimiento administrativo de ejecución; así como enajenar fuera de remate dichos bienes a favor del Gobierno del Estado, incluyendo la adjudicación al fisco estatal, en los términos de las disposiciones legales.
+VIII. Rematar los bienes decomisados, abandonados y embargados dentro del procedimiento administrativo de ejecución; así como enajenar fuera de remate dichos bienes a favor del Gobierno del Estado, incluyendo la adjudicación al fisco estatal, en los términos de las disposiciones legales;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+IX. Determinar los accesorios de las multas impuestas por las autoridades administrativas no fiscales, así como su actualización; liquidar las contribuciones estatales y federales coordinadas, los aprovechamientos, los productos y cualquier crédito fiscal, cuya omisión se hubiere determinado con motivo del ejercicio de sus facultades.
 
 #### SECCIÓN QUINTA. DE LA DIRECCIÓN DE FISCALIZACIÓN
 
@@ -489,13 +503,19 @@ VI. Determinar y liquidar las contribuciones estatales y federales coordinadas, 
 
 VII. Recibir y en su caso requerir, la presentación del Aviso para dictaminar, así como requerir a los Contadores Públicos que hayan formulado dictámenes sobre los estados financieros de contribuyentes con domicilio fiscal en el Estado, a los propios contribuyentes dictaminados, así como a los responsables solidarios, terceros con ellos relacionados y demás obligados, para que exhiban los papeles de trabajo y sistemas o registros contables, así como para que proporcionen cualquier otro informe, dato o documento necesario para comprobar el cumplimiento de obligaciones fiscales estatales y federales coordinadas;
 
-VIII. De conformidad con los ordenamientos legales aplicables, imponer las sanciones administrativas que correspondan a las infracciones fiscales y resolver en el ámbito de su competencia, sobre la condonación o reducción de sanciones y demás accesorios, así como de actualización que deba aplicarse, de acuerdo a los lineamientos que fije el Subsecretario;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+VIII. De conformidad con los ordenamientos legales aplicables, imponer las sanciones administrativas que correspondan a las infracciones fiscales, así como de actualización que deba aplicarse;
 
 IX. Verificar la debida aplicación de los subsidios y estímulos fiscales;
 
-X. Llevar las estadísticas de los resultados de Fiscalización y evaluar la operación en materia de fiscalización y establecer en su caso, las medidas correctivas que procedan; y
+X. Llevar las estadísticas de los resultados de Fiscalización y evaluar la operación en materia de fiscalización y establecer en su caso, las medidas correctivas que procedan; y (sic)
 
-XI. Participar, en las materias de su competencia, en el análisis de la formulación de los convenios y acuerdos de coordinación con las autoridades fiscales de la Federación y Municipios y en los programas que deriven de su instrumentación.
+XI. Participar, en las materias de su competencia, en el análisis de la formulación de los convenios y acuerdos de coordinación con las autoridades fiscales de la Federación y Municipios y en los programas que deriven de su instrumentación;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+XII. Dejar sin efectos las órdenes de visita domiciliaria, los requerimientos de información que se formulen a los contribuyentes, así como la revisión de papeles de trabajo que se haga a los contadores públicos registrados.
 
 #### SECCIÓN SEXTA. DE LA DIRECCIÓN DE RECAUDACIÓN
 
@@ -515,15 +535,19 @@ V. Recibir y en su caso requerir de los contribuyentes, responsables solidarios 
 
 VI. Revisar las declaraciones presentadas por los contribuyentes, determinando en su caso las diferencias que provengan de errores aritméticos y sus accesorios y determinar los créditos que procedan por este concepto y demás créditos que no sean competencia de la Dirección de Fiscalización;
 
-VII. Integrar y mantener actualizado el Registro Estatal de Contribuyentes, así como el Registro Estatal vehicular y de licencias; ordenar y practicar verificaciones para comprobar el cumplimiento de las obligaciones fiscales relacionadas con la autorización de padrones; integrar y mantener actualizado el archivo fiscal;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
 
-VIII. Expedir las licencias de conducir en coordinación con los Municipios del Estado y realizar su cobro; custodiar, controlar y expedir las placas de circulación de los vehículos y los demás documentos de control vehicular, efectuar los movimientos de altas, bajas, cambios de propietario y realizar el cobro de la contribuciones respectivas y sus accesorios;
+VII. Integrar y mantener actualizado el Registro Estatal de Contribuyentes, ordenar y practicar verificaciones para comprobar el cumplimiento de las obligaciones fiscales relacionadas con la actualización de dicho padrón; integrar y mantener actualizado el archivo fiscal;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+VIII. Determinar y liquidar las contribuciones estatales y federales coordinadas, los aprovechamientos, los productos, accesorios y cualquier crédito fiscal, cuya omisión se hubiere determinado con motivo del ejercicio de sus facultades;
 
 IX. Habilitar días y horas hábiles para la práctica de diligencias y actuaciones en los términos de las disposiciones legales aplicables;
 
 X. Imponer multas por infracción en las disposiciones fiscales que rigen en materia de contribuciones estatales; así como las de carácter federal de los ingresos federales cuya administración tenga delegada el Estado;
 
-XI. Determinar los accesorios de las multas impuestas por las autoridades administrativas no fiscales; así como resolver en el ámbito de su competencia, sobre la condonación o reducción de sanciones y demás accesorios, así como de la actualización que deba aplicarse de acuerdo a los lineamientos que fije el Subsecretario; y
+XI. (DEROGADA, P.O. 3 DE DICIEMBRE DE 2007)
 
 XII. Recibir, tramitar y resolver las solicitudes de devolución, acreditamiento o compensación, en los términos de las disposiciones jurídicas aplicables y determinar, en su caso, las contribuciones que hayan sido devueltas indebidamente.
 
@@ -593,15 +617,33 @@ IV. Proponer los proyectos de leyes, reglamentos, decretos, acuerdos, convenios,
 
 V. Supervisar y aprobar los actos jurídicos de las Entidades Paraestatales, en los que la Secretaría participe en los órganos de gobierno, para vigilar el debido cumplimiento de la ley;
 
-VI. Previo acuerdo del Secretario, suscribir y en su caso autorizar, los actos jurídicos en los cuales se afecte el patrimonio del Estado;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
 
-VII. Verificar y someter a aprobación del Secretario, los actos jurídicos en los que conste la adquisición, enajenación, custodia, destino y otorgamiento del uso o goce temporal del patrimonio del Estado;
+VI. Suscribir y en su caso autorizar, los actos jurídicos en los cuales se afecte el patrimonio del Estado; debiendo llevar un registro de los mismos y rendir informe anual de los mismos al Secretario, así como suscribir y en su caso autorizar, los actos que en materia laboral afecten los intereses de la Secretaría;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+VII. Verificar y someter a aprobación del Secretario, los actos jurídicos en los que conste la adquisición, enajenación, custodia, destino y otorgamiento del uso o goce temporal del patrimonio del Estado; así como controlar y supervisar el inventario y registro de los bienes inmuebles del Estado;
 
 VIII. Resolver las consultas que formulen los interesados en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales que le sean solicitadas por las demás dependencias, por las Entidades paraestatales, por los Municipios, o por los particulares;
 
-IX. Ejercer directamente, cualquiera de las facultades que este Reglamento atribuye a las Direcciones dependientes de la propia Consejería; y
+IX. Ejercer directamente, cualquiera de las facultades que este Reglamento atribuye a las Direcciones dependientes de la propia Consejería; y (sic)
 
-X. Las demás que les confieran las leyes, decretos, reglamentos, acuerdos o convenios o bien que le sean atribuidas directamente por el Secretario, según corresponda.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+X. Coordinar y nombrar a los representantes de la Secretaría, propietarios y suplentes, como integrantes de los comités en materia de adquisiciones y obras públicas de las diversas Dependencias y de las Entidades Paraestatales que lo soliciten;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+XI. Suscribir los actos jurídicos, que sean necesarios para el cumplimiento de las atribuciones de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+XII. Condonar los recargos, multas y demás accesorios impuestos por las Unidades Administrativas adscritas a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+
+XIII. Las demás que les confieran las leyes, decretos, reglamentos, acuerdos o convenios o bien que le sean atribuidas directamente por el Secretario, según corresponda.
 
 #### SECCIÓN ÚNICA. DE LA DIRECCIÓN LEGAL HACENDARIA
 
@@ -680,3 +722,9 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2007.
+
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
