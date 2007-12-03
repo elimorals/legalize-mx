@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2007-06-18"
+last_updated: "2007-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -283,17 +283,29 @@ XXII. Organizar y controlar la defensoría de oficio.
 
 XXIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Ejecutivo y ordenar periódicamente visitas de inspección a las notarías del Estado.
 
-XXIV. Llevar el Libro de Registro de Notarios y organizar y controlar el Archivo de Notarías del Estado.
+> <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+XXIV. Llevar el Libro de Registro de Notarios.
 
 XXV. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
 
-XXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y de Comercio.
+> <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
-XXVII. Organizar los actos cívicos del Gobierno del Estado
+XXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil.
 
-XXVIII. Administrar y publicar el periódico oficial «Gaceta del Gobierno».
+> <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
-XXIX. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+XXVII. Coordinar y vigilar los servicios del Registro Público de la Propiedad y del Comercio conforme a la legislación aplicable.
+
+XXVIII. Organizar los actos cívicos del Gobierno del Estado.
+
+> <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+XXIX. Administrar y publicar el periódico oficial "Gaceta del Gobierno"; y
+
+> <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+XXX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -489,89 +501,95 @@ XXXII. Vigilar que el desarrollo económico y social de la entidad sea armónico
 
 > <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXIII.- Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno del Estado y los servidores públicos.
+XXXIII. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno del Estado y los servidores públicos.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXIV.- Seleccionar, contratar, capacitar y controlar al personal del Poder Ejecutivo del Estado.
+XXXIV. Seleccionar, contratar, capacitar y controlar al personal del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXV.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y trabajadores del Poder Ejecutivo del Estado.
+XXXV. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y trabajadores del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXVI.- Mantener al corriente el escalafón de los trabajadores al servicio del Gobierno del Estado.
+XXXVI. Mantener al corriente el escalafón de los trabajadores al servicio del Gobierno del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXVII.- Adquirir los bienes y servicios que requiera el funcionamiento del Poder Ejecutivo del Estado.
+XXXVII. Adquirir los bienes y servicios que requiera el funcionamiento del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXVIII.- Proveer oportunamente a las dependencias del ejecutivo de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones.
+XXXVIII. Proveer oportunamente a las dependencias del ejecutivo de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXIX.- Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles propiedad del Gobierno del Estado.
+XXXIX. Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles propiedad del Gobierno del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XL.- Administrar y asegurar la conservación y mantenimiento del patrimonio del Gobierno del Estado.
+XL. Administrar y asegurar la conservación y mantenimiento del patrimonio del Gobierno del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLI.- Establecer por acuerdo del Gobernador las normas para la recepción y entrega de las dependencias que incluirá necesariamente el levantamiento de inventarios.
+XLI. Establecer por acuerdo del Gobernador las normas para la recepción y entrega de las dependencias que incluirá necesariamente el levantamiento de inventarios.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLII.- Administrar, controlar y vigilar los almacenes generales del gobierno.
+XLII. Administrar, controlar y vigilar los almacenes generales del gobierno.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLIII.- Coordinar y supervisar en conjunto con las dependencias interesadas, la emisión de publicaciones oficiales del ejecutivo del Estado, excepto el periódico oficial.
+XLIII. Coordinar y supervisar en conjunto con las dependencias interesadas, la emisión de publicaciones oficiales del ejecutivo del Estado, excepto el periódico oficial.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLIV.- Organizar, dirigir y controlar la intendencia del Poder Ejecutivo.
+XLIV. Organizar, dirigir y controlar la intendencia del Poder Ejecutivo.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLV.- Organizar y controlar la oficialía de partes.
+XLV. Organizar y controlar la oficialía de partes.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLVI.- Administrar los talleres gráficos del Estado.
+XLVI. Administrar los talleres gráficos del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLVII.- Administrar el Archivo General del Poder Ejecutivo del Estado.
+XLVII. Administrar el Archivo General del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLVIII.- Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás dependencias del ejecutivo, que permita revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de Gobierno.
+XLVIII. Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás dependencias del ejecutivo, que permita revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de Gobierno.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLIX.- Autorizar, previo acuerdo del Gobernador la creación de las nuevas unidades administrativas que requieran las dependencias del Ejecutivo.
+XLIX. Autorizar, previo acuerdo del Gobernador la creación de las nuevas unidades administrativas que requieran las dependencias del Ejecutivo.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-L.- Elaborar con el concurso de las demás dependencias del ejecutivo, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores.
+L. Elaborar con el concurso de las demás dependencias del ejecutivo, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-LI.- Emitir normas, políticas y procedimientos para el establecimiento y la operación de las unidades de informática de las dependencias y vigilar su observancia.
+LI. Emitir normas, políticas y procedimientos para el establecimiento y la operación de las unidades de informática de las dependencias y vigilar su observancia.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-LII.- Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados a transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
+LII. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados a transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-LIII.- Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de carga.
+LIII. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de carga.
 
-LIV.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+LlV. Comparecer ante terceros con facultades para formular declaraciones en representación del Estado y celebrar convenios a través de los cuales el Estado pueda asumir obligaciones de hacer y no hacer en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos en los que participe como fideicomitente un organismo público descentralizado, y obligarse a indemnizar del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública del Estado y siempre y cuando no se garanticen obligaciones a favor de terceros. En los convenios a que se refiere esta fracción, no se podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
+
+En los convenios antes mencionados que celebre el Estado se podrán estipular las cláusulas que se requieran incluyendo, entre otras, las aplicables a la jurisdicción.
+
+LV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2000)</small>
 
@@ -1469,7 +1487,7 @@ P.O. 31 DE DICIEMBRE DE 1986
 
 ###### ARTICULO UNICO.
 
-Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de enero de mil novecientos ochenta y siete.
+Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de Enero de Mil Novecientos Ochenta y Siete.
 
 P.O. 8 DE JULIO DE 1987
 
@@ -1754,6 +1772,44 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
+
+G.G. 3 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General, deberán realizarse dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Instituto de la Función Registral del Estado de México aplicará las disposiciones reglamentarias en materia registral vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán, de sustituirlas. En tanto no se expida el Reglamento Interior del Instituto de la Función Registral del Estado de México éste se regirá por las disposiciones del Reglamento del Registro Público de la Propiedad del Estado de México publicado el 5 de abril de 1999 en la "Gaceta del Gobierno", que no contravengan lo previsto en este Decreto.
+
+QUINTO.- El Consejo Directivo, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior del Instituto de la Función Registral del Estado de México.
+
+SEXTO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno, se transferirán al Instituto de la Función Registral del Estado de México, en los términos que establezcan las Secretarías General de Gobierno y de Finanzas, en sus respectivos ámbitos de competencia.
+
+SÉPTIMO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno que pasen a formar parte del Instituto de la Función Registral del Estado de México.
+
+OCTAVO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Instituto de la Función Registral del Estado de México, los derechos y obligaciones de la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno.
+
+NOVENO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General del Registro Público de la Propiedad de la Secretaria General de Gobierno al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Instituto de la Función Registral del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General del Registro Público de la Propiedad de la Secretaria General de Gobierno, se entenderán transferidos o aplicables al Instituto de la Función Registral del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO.- El fideicomiso a que se refiere el artículo Octavo del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+DÉCIMO SEGUNDO.- La operación de los sistemas automatizados, informáticos y electrónicos y la utilización de folios en las oficinas del Registro Público de la Propiedad, a los que hace referencia el artículo 8.64 del Código Civil del Estado de México, se realizarán de manera gradual, de conformidad con el programa que al efecto establezca el Poder Ejecutivo Estatal, por lo que las oficinas registrales, hasta en tanto cuenten con un sistema informático, continuarán operando con sus sistemas y mecanismos actuales.
+
+DÉCIMO TERCERO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General del Registro Público de la Propiedad o al Director General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de México y al Director General del Instituto de la Función Registral del Estado de México, respectivamente.
+
+DÉCIMO CUARTO.- Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Instituto de la Función Registral del Estado de México.
+
+DÉCIMO QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de los terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+DÉCIMO SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+DÉCIMO SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+DÉCIMO OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
