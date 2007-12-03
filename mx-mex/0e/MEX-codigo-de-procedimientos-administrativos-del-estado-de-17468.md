@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2006-12-27"
+last_updated: "2007-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -217,9 +217,13 @@ I. Personalmente a los particulares y por oficio a las autoridades administrativ
 
 II. Por edicto que se publique por una sola vez en la «Gaceta del Gobierno» o en la del municipio cuando se trate de actos municipales, y en uno de los periódicos de mayor circulación a nivel estatal o nacional, tratándose de citaciones, requerimientos y demás resoluciones o actos que puedan impugnarse, cuando el particular a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del territorio estatal sin haber dejado representante legal en el mismo o hubiere fallecido y no se conozca al albacea de la sucesión;
 
-III. Por estrados ubicados en sitio abierto de las oficinas de las dependencias públicas o del Tribunal, cuando así lo señale la parte interesada o se trate de actos distintos a citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados; y
+III. Por estrados ubicados en sitio abierto de las oficinas de las dependencias públicas o del Tribunal, cuando así lo señale la parte interesada o se trate de actos distintos a citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados; y (sic)
 
-IV. En las oficinas de las dependencias públicas o del Tribunal, si se presentan los particulares o autoridades administrativas a quienes debe notificarse, incluyendo las que han de practicarse personalmente o por oficio.
+IV. En las oficinas de las dependencias públicas o del Tribunal, si se presentan los particulares o autoridades administrativas a quienes debe notificarse, incluyendo las que han de practicarse personalmente o por oficio;
+
+> <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+V. Por cualquier otro medio que expresamente permitan las leyes aplicables.
 
 ###### Artículo 26.
 
@@ -2290,3 +2294,41 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Las autoridades dispondrán de un plazo de 90 días a partir del inicio de la vigencia del presente decreto para implementar el sistema electrónico correspondiente.
+
+G.G. 3 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General, deberán realizarse dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Instituto de la Función Registral del Estado de México aplicará las disposiciones reglamentarias en materia registral vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán, de sustituirlas. En tanto no se expida el Reglamento Interior del Instituto de la Función Registral del Estado de México éste se regirá por las disposiciones del Reglamento del Registro Público de la Propiedad del Estado de México publicado el 5 de abril de 1999 en la "Gaceta del Gobierno", que no contravengan lo previsto en este Decreto.
+
+QUINTO.- El Consejo Directivo, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior del Instituto de la Función Registral del Estado de México.
+
+SEXTO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno, se transferirán al Instituto de la Función Registral del Estado de México, en los términos que establezcan las Secretarías General de Gobierno y de Finanzas, en sus respectivos ámbitos de competencia.
+
+SÉPTIMO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno que pasen a formar parte del Instituto de la Función Registral del Estado de México.
+
+OCTAVO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Instituto de la Función Registral del Estado de México, los derechos y obligaciones de la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno.
+
+NOVENO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General del Registro Público de la Propiedad de la Secretaria General de Gobierno al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Instituto de la Función Registral del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General del Registro Público de la Propiedad de la Secretaria General de Gobierno, se entenderán transferidos o aplicables al Instituto de la Función Registral del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO.- El fideicomiso a que se refiere el artículo Octavo del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+DÉCIMO SEGUNDO.- La operación de los sistemas automatizados, informáticos y electrónicos y la utilización de folios en las oficinas del Registro Público de la Propiedad, a los que hace referencia el artículo 8.64 del Código Civil del Estado de México, se realizarán de manera gradual, de conformidad con el programa que al efecto establezca el Poder Ejecutivo Estatal, por lo que las oficinas registrales, hasta en tanto cuenten con un sistema informático, continuarán operando con sus sistemas y mecanismos actuales.
+
+DÉCIMO TERCERO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General del Registro Público de la Propiedad o al Director General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de México y al Director General del Instituto de la Función Registral del Estado de México, respectivamente.
+
+DÉCIMO CUARTO.- Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Instituto de la Función Registral del Estado de México.
+
+DÉCIMO QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de los terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+DÉCIMO SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+DÉCIMO SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+DÉCIMO OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
