@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2007-10-29"
+last_updated: "2007-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1789,6 +1789,22 @@ Artículo 70 A.- Por los servicios prestados por las dependencias y entidades pu
 
 Para el cobro de estos derechos, los Organismos Autónomos harán las retenciones de los mismos de acuerdo a sus propias disposiciones.
 
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 70 Ter.
+
+Siempre que así lo establezca expresamente la ley de su creación u otras disposiciones aplicables, los montos de los derechos por los servicios que presten los organismos públicos descentralizados podrán actualizarse cuando el incremento porcentual acumulado del índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10% (diez por ciento) utilizando el factor de actualización que a continuación se describe. Dicha actualización entrará en vigor a partir del mes de enero o julio siguiente a aquél en el que se haya dado el incremento respectivo y se mantendrá vigente hasta la fecha de entrada en vigor de una nueva actualización.
+
+Para efectos de lo previsto en el párrafo siguiente se entenderá por "periodo" el plazo comprendido entre el mes en que se calculó la última actualización o la fecha en que entró en vigor un derecho por servicios prestados por un organismo público descentralizado y el mes en el que a partir de dicha fecha el incremento porcentual acumulado del índice Nacional de Precios al Consumidor exceda del 10% (diez por ciento).
+
+El factor de actualización a que se refiere el primer párrafo de este artículo se obtendrá dividiendo el índice Nacional de Precios al Consumidor del mes anterior al último mes del periodo respectivo, entre el índice Nacional de Precios al Consumidor correspondiente al mes anterior al primer mes de dicho periodo. La Secretaria de Finanzas publicará en la Gaceta del Gobierno el factor de actualización en el entendido de que la falta de publicación no afectará su actualización.
+
+Con relación a aquellos derechos que se calculen con base en límites mínimos y máximos, los montos mínimos y máximos se actualizarán de conformidad con lo establecido en el primer párrafo de este artículo.
+
+La actualización que en su caso se realice conforme a lo previsto en el presente artículo se llevará a cabo únicamente por el monto o en la proporción que excede de la actualización de los montos de los derechos correspondientes que resulte conforme a lo previsto en el artículo 70 de este Código.
+
+En los términos de la normatividad aplicable, la Secretaría de Finanzas deberá presentar ante la Legislatura la iniciativa de modificaciones de los montos de los derechos que le presenten los organismos públicos descentralizados a efecto de que se incluyan en el Código Financiero del Estado de México y Municipios conforme a la normatividad aplicable.
+
 ###### Artículo 71.
 
 Por los servicios prestados por la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno" se pagarán derechos conforme a la siguiente tarifa:
@@ -2805,11 +2821,11 @@ X. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
 
 Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
 
-> <small>(REFORMADO, G.G. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 89.
 
-Los notarios públicos deberán, estimar el monto de los derechos a su cargo y efectuar el pago correspondiente de los derechos establecidos en esta subsección, directamente y bajo su responsabilidad ante las oficinas recaudadoras, mediante la presentación de los formatos autorizados para ese efecto por la Secretaría. Al presentar para su inscripción el testimonio respectivo, agregará al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
+Los notarios públicos deberán estimar el monto de los derechos a su cargo y efectuar el pago correspondiente de los derechos establecidos en esta subsección, directamente y bajo su responsabilidad ante las instituciones autorizadas, mediante la presentación, documental o por medios electrónicos, de los formatos autorizados para tal efecto por la Secretaria. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
 SUBSECCION QUINTA
 
@@ -10269,6 +10285,36 @@ X. Todo lo no previsto en este artículo, será resuelto por el Gobernador a tra
 
 El resultado de lo anterior se hará del conocimiento de la Legislatura.
 
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 265-B Bis.
+
+No se considerarán deuda pública las obligaciones de pasivo directas, indirectas o contingentes, derivadas de créditos, préstamos, empréstitos o financiamientos de cualquier naturaleza, incluyendo la emisión de valores, a cargo de los fideicomisos privados en que el fideicomitente sea un organismo público descentralizado, siempre y cuando (i) lo prevea expresamente la ley de creación del organismo público descentralizado; (ii) el fideicomitente no tenga obligación alguna, directa o contingente, de pago de los mencionados créditos, empréstitos, préstamos o financiamientos; y (iii) la fuente de pago del crédito, empréstito, préstamo o financiamiento se derive de la recaudación de derechos por la prestación de servicios de dicho organismo público descentralizado y no de cualquier otra contribución. Asimismo, no constituirá un financiamiento ni deuda pública, los recursos que, en su caso, reciban los organismos públicos descentralizados por cualquier concepto de parte de los fideicomisos mencionados. Los fideicomisos a que se refiere este párrafo deberán tener como propósito principal contratar financiamientos, servir como medio de pago, medio alterno de pago, garantía y/o como emisores de valores.
+
+Para efectos de lo dispuesto en el párrafo anterior, los organismos públicos descentralizados podrán afectar en fideicomiso y/o transmitir, de cualquier forma, sus ingresos, presentes o futuros, derivados de la recaudación de derechos por los servicios que presten a cambio de una contraprestación o de los recursos que deban serle pagados por el fideicomiso correspondiente. El organismo público descentralizado, previa autorización de la Secretaría de Finanzas y a través del Ejecutivo del Estado, deberá someter a la aprobación de la Legislatura la afectación y/o transmisión de los ingresos al fideicomiso. Asimismo, el Estado no podrá de forma alguna revocar o revertir la mencionada afectación y/o transmisión, sin la autorización de la propia Legislatura y de los acreedores y/o fideicomisarios respectivos.
+
+Los fideicomisos a que se refiere este artículo no constituirán fideicomisos públicos paraestatales en términos de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+En caso de desincorporación y/o afectación de los ingresos del organismo público descentralizado, las erogaciones que se realicen con cargo al patrimonio del fideicomiso al cual sean afectados y/o transmitidos los ingresos, no serán consideradas como egresos para fines presupuestarios del Estado o del organismo descentralizado y sólo estarán sujetas a las disposiciones que se estipulen en el decreto por el que la Legislatura autorice la creación del fideicomiso correspondiente, en el propio contrato del fideicomiso y a las reglas, controles y previsiones aplicables al fideicomiso de cuerdo con las normas contractuales respectivas. Los organismos descentralizados podrán convenir con el fiduciario del fideicomiso respectivo sustituir los ingresos afectados en fideicomiso derivados de la recaudación de derechos por los servicios que preste, sin que ese convenio constituya deuda pública.
+
+En ningún caso, la afectación y/o transmisión de los ingresos a que se refiere el presente artículo, se considerará como una afectación o transmisión de la atribución de recaudar las contribuciones de las que deriven los mencionados ingresos.
+
+La operación, control y régimen financiero de los fideicomisos a que se refiere este artículo no estará sujeta a las disposiciones de la administración pública estatal salvo respecto de los asuntos que, en su caso, prevean expresamente las leyes aplicables, estando sujetos exclusivamente a las disposiciones que se estipulen en el decreto por el que la Legislatura autorice su creación, en el propio contrato de fideicomiso y demás disposiciones contractuales aplicables, así como en las disposiciones mercantiles, financieras y/o bursátiles que correspondan. En este sentido, durante todo el tiempo que permanezca en vigor el fideicomiso los recursos que el fideicomiso adquiera por cualquier título, así como los recursos, ingresos, bienes, activos y/o derechos que el organismo público descentralizado transmita y/o afecte al mismo formarán parte del patrimonio de dicho fideicomiso y estarán destinados exclusivamente al cumplimiento de sus fines.
+
+Los ingresos que reciban los organismos públicos descentralizados de los fideicomisos privados en que participen como fideicomitentes en los términos de este artículo, deberán ser aplicados por el organismo público descentralizado correspondientes conforme a las disposiciones constitucionales y legales aplicables, en el entendido que los remanentes deberán ser transmitidos a la Secretaría de Finanzas para su aplicación al gasto de inversión en obras y acciones y al pago de la deuda pública del Estado.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 265-B Ter.
+
+Los organismos auxiliares, en los términos previamente aprobados por la Secretaría de Finanzas, podrán celebrar convenios a través de los cuales asuman obligaciones de hacer y no hacer así como comparecer ante terceros y formular declaraciones en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos a las que se refiere el artículo 265 B Bis de este Código las cuales no constituirán deuda pública del Estado siempre que cuenten con esta atribución expresamente en la ley de su creación y dichas obligaciones y declaraciones no constituyan garantías en favor de terceros. En los convenios que celebren los organismos auxiliares conforme a lo antes mencionado, podrán obligarse a indemnizar del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de las obligaciones de hacer y no hacer a su cargo o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública. En los convenios a que se refiere este artículo, los organismos auxiliares no podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 265-B Quáter.
+
+El Ejecutivo del Estado por conducto de la Secretaría de Finanzas podrá comparecer ante terceros para formular declaraciones en representación del Estado y celebrar convenios a través de los cuales el Estado pueda asumir obligaciones de hacer y no hacer en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos a las que se refiere el articulo 265 B Bis de este Código, y obligarse a indemnizar del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública del Estado, siempre y cuando no se garanticen obligaciones a favor de terceros. Lo anterior, en el entendido de que en los convenios a que se refiere este artículo, no se podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
+
 > <small>(ADICIONADO, G.G. 31 DE JULIO DE 2002)</small>
 
 ###### Artículo 265-C.
@@ -11140,6 +11186,10 @@ La recaudación de los fondos se sustentará con los documentos relativos a la d
 ###### Artículo 333.
 
 Los ingresos que perciban las dependencias en términos de la Ley de Ingresos del Estado de México para el ejercicio fiscal que corresponda, deberán ser depositados en la Caja General o en las cuentas bancarias autorizadas para tal efecto por la Secretaría o la Tesorería, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+Los ingresos que perciban los organismos auxiliares en términos de la Ley de Ingresos del Estado de México serán recaudados por los propios organismos auxiliares en instituciones de crédito de banca múltiple o establecimientos mercantiles autorizados para tal efecto. En caso de que dichos ingresos se encuentren afectados en fideicomiso, las cantidades recaudadas se podrán concentrar con el fiduciario correspondiente mediante el otorgamiento de instrucciones y/o mandatos irrevocables o transferencias a las cuentas del fideicomiso respectivo, entre otros mecanismos que se establezcan para dicho propósito.
 
 ### CAPITULO SEGUNDO. DE LA CUENTA PUBLICA
 
@@ -12706,3 +12756,41 @@ G.G. 29 DE OCTUBRE DE 2007.
 ###### ARTICULO SEGUNDO.
 
 ·El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General, deberán realizarse dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Instituto de la Función Registral del Estado de México aplicará las disposiciones reglamentarias en materia registral vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán, de sustituirlas. En tanto no se expida el Reglamento Interior del Instituto de la Función Registral del Estado de México éste se regirá por las disposiciones del Reglamento del Registro Público de la Propiedad del Estado de México publicado el 5 de abril de 1999 en la "Gaceta del Gobierno", que no contravengan lo previsto en este Decreto.
+
+QUINTO.- El Consejo Directivo, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior del Instituto de la Función Registral del Estado de México.
+
+SEXTO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno, se transferirán al Instituto de la Función Registral del Estado de México, en los términos que establezcan las Secretarías General de Gobierno y de Finanzas, en sus respectivos ámbitos de competencia.
+
+SÉPTIMO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno que pasen a formar parte del Instituto de la Función Registral del Estado de México.
+
+OCTAVO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Instituto de la Función Registral del Estado de México, los derechos y obligaciones de la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno.
+
+NOVENO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General del Registro Público de la Propiedad de la Secretaria General de Gobierno al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Instituto de la Función Registral del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General del Registro Público de la Propiedad de la Secretaria General de Gobierno, se entenderán transferidos o aplicables al Instituto de la Función Registral del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO.- El fideicomiso a que se refiere el artículo Octavo del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+DÉCIMO SEGUNDO.- La operación de los sistemas automatizados, informáticos y electrónicos y la utilización de folios en las oficinas del Registro Público de la Propiedad, a los que hace referencia el artículo 8.64 del Código Civil del Estado de México, se realizarán de manera gradual, de conformidad con el programa que al efecto establezca el Poder Ejecutivo Estatal, por lo que las oficinas registrales, hasta en tanto cuenten con un sistema informático, continuarán operando con sus sistemas y mecanismos actuales.
+
+DÉCIMO TERCERO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General del Registro Público de la Propiedad o al Director General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de México y al Director General del Instituto de la Función Registral del Estado de México, respectivamente.
+
+DÉCIMO CUARTO.- Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Instituto de la Función Registral del Estado de México.
+
+DÉCIMO QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de los terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+DÉCIMO SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+DÉCIMO SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+DÉCIMO OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
