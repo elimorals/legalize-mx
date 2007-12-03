@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-49-2007-del-pleno-del-consejo-de-la-57388"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-11-09"
-last_updated: "2007-11-09"
+last_updated: "2007-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57388&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-11-07"
 
 ACUERDO GENERAL 49/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION DEL TURNO DE ASUNTOS URGENTES DE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE TABASCO, CON RESIDENCIA EN VILLAHERMOSA; ASI COMO DE LA MODIFICACION TEMPORAL DE LA JURISDICCION TERRITORIAL DE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN COATZACOALCOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL 57/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 3 DE DICIEMBRE DE 2007, CONCLUYE LA EXCLUSION DE TURNO DE ASUNTOS DE CARACTER URGENTE ORDENADA POR EL PUNTO SEGUNDO DEL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 2007.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 9 de noviembre de 2007.
 
@@ -76,3 +78,13 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 49/2007, del Pleno del Consejo de la Judicatura Federal, Relativo a la Exclusión del Turno de Asuntos Urgentes de los Juzgados de Distrito en el Estado de Tabasco, con Residencia en Villahermosa; así como de la Modificación Temporal de la Jurisdicción Territorial de los Juzgados de Distrito en el Estado de Veracruz, con Residencia en Coatzacoalcos, fue aprobado en sesión ordinaria de siete de noviembre de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a siete de noviembre de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Dirección General de Estadística y Planeación Judicial determinará en el ámbito de su competencia lo relativo al personal y funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
