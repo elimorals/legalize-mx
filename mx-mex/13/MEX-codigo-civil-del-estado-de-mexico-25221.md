@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2007-08-29"
+last_updated: "2007-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -16149,23 +16149,59 @@ Obligatoriedad del laudo
 
 1.- Mediante el Registro Público de la Propiedad se da publicidad a los actos jurídicos para que surtan efectos contra terceros.
 
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+El Registro Público de la Propiedad tiene como finalidad dar certeza y seguridad jurídica en el tráfico inmobiliario, así como las demás finalidades previstas en este Código y en el Reglamento.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+Para efectos de este Libro Octavo se entenderá por "Reglamento" al Reglamento del Registro Público de la Propiedad del Estado de México.
+
 Efectos declarativos del Registro Público
 
 ###### Artículo 8.
 
 2.- Las inscripciones hechas en el Registro Público de la Propiedad, tienen efectos declarativos y no constitutivos, de tal manera que los derechos provienen del acto jurídico, pero no de su inscripción, cuya finalidad es dar publicidad y no constituir el derecho.
 
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+La inscripción es el acto mediante el cual se registra la constitución, transmisión, modificación o extinción de derechos reales. La anotación es el acto procedimental que consta al margen de la inscripción en forma preventiva o transitoria dejando constancia de una situación jurídica que limita, grava o afecta el derecho que ampara una inscripción.
+
 Disposiciones que rigen al Registro
 
-###### Artículo 8.
-
-3.- El Registro Público de la Propiedad se rige por las disposiciones de este Código y el reglamento respectivo.
-
-Servicio público del Registro
+> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 8.
 
-4.- El Registro será público, por lo que los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren inscritos y de los documentos relacionados con esas inscripciones que estén archivados o almacenados en medios magnéticos. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los registros, así como certificaciones de no existir asientos o de especie determinada sobre bienes señalados o a nombre de ciertas personas.
+3.- El Registro Público de la Propiedad está a cargo del Instituto de la Función Registral del Estado de México y se rige por las disposiciones de este Código, del Reglamento y de los demás ordenamientos legales aplicables.
+
+En las actividades registrales se observarán en todo momento los Principios Registrales de: Publicidad, Rogación, Tracto Sucesivo, Legalidad o Calificación Registral, Consentimiento, Inscripción, Especialidad o Determinación, Prioridad o Rango, Prelación, Legitimación y Fe Pública Registral, así como los demás principios y fines del sistema jurídico registral previstos en este Código, en el Reglamento y en los demás ordenamientos aplicables.
+
+Servicio Público del Registro
+
+> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8.
+
+4.- El Registro será público, por lo que los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren inscritos y de los documentos relacionados con esas inscripciones que estén archivados o almacenados por el Registro Público de la Propiedad. También tienen obligación de expedir copias certificadas y simples de las inscripciones, anotaciones o constancias que figuren en los registros, así como certificaciones de no existir asientos o de especie determinada sobre bienes señalados o a nombre de ciertas personas, en los términos previstos en el Reglamento.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8.
+
+4.1.- La certificación es el acto a través del cual, el registrador da fe de los actos o constancias inscritos en los libros correspondientes, folios, registros o archivos del Registro Público de la Propiedad, o bien de la inexistencia de los mismos, así como también de las constancias que obren en los archivos respectivos.
+
+Los certificados se expedirán en las modalidades, contenido y términos previstos al efecto en el Reglamento.
+
+Acervo y Registros
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8.
+
+4.2.- Para garantizar la preservación, guarda, custodia y seguridad del acervo registral, el Instituto de la Función Registral del Estado de México desarrollará sistemas y programas sustentados en tecnologías de la información, que garanticen su exactitud e inviolabilidad para otorgar seguridad jurídica a la propiedad inmobiliaria.
+
+Los lineamientos y criterios para la preservación, guarda, custodia y seguridad del acervo registral, así como las bases y mecanismos para la digitalización de los documentos inscritos en el Registro Público de la Propiedad se determinarán en el Reglamento.
 
 ###### Artículo 8.
 
@@ -16178,6 +16214,14 @@ II. Las resoluciones y providencias judiciales que así lo determinen;
 III. Los documentos privados que impliquen actos u operaciones jurídicas reputados válidos bajo esa forma con arreglo a la ley, siempre y cuando se hayan ratificado sus firmas judicialmente o ante notario público;
 
 IV. Los planes de desarrollo urbano, previstos en la ley.
+
+Quiénes pueden solicitar el registro
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Articulo 8.
+
+5.1.- Podrá solicitar la inscripción o anotación de un documento el titular del derecho en él consignado, sus causahabientes, apoderados, representantes legales o el fedatario público que haya otorgado el documento, así como las autoridades judiciales y administrativas federales, estatales y municipales cuando así lo disponga la legislación aplicable.
 
 Actos jurídicos realizados en el extranjero que son inscribibles
 
@@ -16194,6 +16238,14 @@ III. Que estén debidamente legalizados y que hayan sido protocolizados ante not
 IV. Si fueran resoluciones judiciales, se ordene su inscripción por la autoridad judicial nacional que corresponda.
 
 La inscripción no produce convalidación
+
+## TITULO CUARTO. Del Registro de Operaciones sobre Muebles
+
+Inscripción de actos jurídicos sobre muebles
+
+### CAPITULO III. De la Inmatriculación
+
+Inmuebles carentes de antecedentes registrales
 
 ###### Artículo 8.
 
@@ -16214,14 +16266,6 @@ Presunción de existencia del derecho inscrito
 9.- El derecho registrado se presume que existe y que pertenece al titular de una inscripción de dominio o de posesión del inmueble inscrito.
 
 Demanda de nulidad o cancelación de la inscripción
-
-## TITULO CUARTO. Del Registro de Operaciones sobre Muebles
-
-Inscripción de actos jurídicos sobre muebles
-
-### CAPITULO III. De la Inmatriculación
-
-Inmuebles carentes de antecedentes registrales
 
 ###### Artículo 8.
 
@@ -16315,9 +16359,11 @@ Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscri
 
 Calificación registral
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8.
 
-25.- Los registradores calificarán bajo su responsabilidad los documentos que se presenten, la inscripción podrá suspenderse o denegarse cuando:
+25.- Los registradores y demás servidores públicos habilitados calificarán bajo su responsabilidad los documentos que se presenten; la inscripción o anotación podrá suspenderse o denegarse cuando:
 
 I. El título presentado no es de los que deben inscribirse o anotarse;
 
@@ -16331,9 +16377,17 @@ V. Falte algún otro requisito que deba llenar el documento de acuerdo con este 
 
 Impugnación contra la calificación registral
 
+> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8.
 
-26.- La calificación hecha por el Registrador podrá recurrirse ante el director del Registro Público de la Propiedad. Si éste confirma la calificación, el perjudicado por ella podrá reclamarla en juicio contencioso administrativo.
+26.- La calificación hecha por el registrador podrá recurrirse ante el Director General del Instituto de la Función Registral del Estado de México. Si éste confirma la calificación, el perjudicado por ella podrá reclamarla en juicio contencioso administrativo.
+
+Para efectos de lo dispuesto en el párrafo anterior, el titular del derecho inscrito, sus causahabientes, apoderados, representantes legales o el Fedatario Público que haya autorizado el documento, así como las autoridades, federales, estatales y municipales, cuando así lo establezca la normatividad aplicable podrán interponer ante el Director General del Instituto de la Función Registral del Estado de México un recurso de inconformidad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado contra la resolución del registrador que niegue la inscripción, anotación o cancelación de un documento.
+
+Para los efectos de los procedimientos ante el Director General del Instituto de la Función Registral del Estado de México y del juicio contencioso administrativo antes mencionados, se estará a lo dispuesto en el Código de Procedimientos Administrativos del Estado de México, el Reglamento, la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México y en los demás ordenamientos legales que resulten aplicables.
+
+Las resoluciones del Instituto de la Función Registral del Estado de México relativas a las calificaciones registrales, podrán notificarse por estrados en sitio abierto de las oficinas de dicho Instituto o por cualquier medio electrónico disponible previa conformidad o solicitud por escrito del promovente y surtirán efectos al día siguiente de su publicación o de su recepción, según sea el caso.
 
 Si la autoridad ordena que se registre el título rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó el título.
 
@@ -16355,9 +16409,19 @@ Error de concepto
 
 Legitimación en el error por concepto
 
+> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8.
 
-30.- Cuando se trate de errores de concepto los asientos practicados en el registro, podrán rectificarse a solicitud de cualquier interesado, con la presentación del título.
+30.- Cuando se trate de errores de concepto o materiales, los asientos practicados en el Registro Público de la Propiedad podrán rectificarse con la presentación del título, debiendo acreditar el interesado su interés jurídico.
+
+De la reposición y restauración de documentos
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8.
+
+30.1.- Tratándose de la reposición y restauración de libros y documentos deteriorados, destruidos o extraviados, el interesado deberá acreditar su interés jurídico.
 
 Oposición del registrador a la rectificación
 
@@ -16499,6 +16563,14 @@ VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensió
 
 IX. Cualquier otro título que sea anotable de acuerdo con este Código u otras leyes.
 
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+La anotación tiene un carácter transitorio y va al margen de la inscripción principal, en forma preventiva o provisional, y tiene por objeto consignar una situación jurídica que afecta o grava el bien o el derecho que consta en la inscripción.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+Las anotaciones marginales serán de dos tipos: notas de relación de asientos y anotaciones preventivas. Las anotaciones se realizarán en los términos previstos al efecto en el Reglamento.
+
 ###### Artículo 8.
 
 47.- La anotación perjudicará a cualquier adquirente del inmueble o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla, y dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
@@ -16510,6 +16582,10 @@ Anotaciones judiciales o administrativas
 48.- En los casos de las anotaciones judiciales o administrativas, podrá producirse el cierre del registro en los términos de la resolución correspondiente.
 
 Anotación de fianzas
+
+## TITULO QUINTO. Del registro de personas jurídicas colectivas
+
+Actos jurídicos sobre personas jurídicas colectivas
 
 ###### Artículo 8.
 
@@ -16544,10 +16620,6 @@ V. Resolución administrativa que la ordene y que se haya dictado como consecuen
 VI. La inscripción de los títulos de solares urbanos expedidos por el Registro Agrario Nacional o de los documentos que conviertan un bien ejidal a propiedad privada.
 
 Información posesoria
-
-## TITULO QUINTO. Del registro de personas jurídicas colectivas
-
-Actos jurídicos sobre personas jurídicas colectivas
 
 ###### Artículo 8.
 
@@ -16603,9 +16675,11 @@ La inmatriculación en relación a terceros
 
 Rectificación de las inmatriculaciones
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8.
 
-61.- Una vez realizada la inmatriculación, sólo podrá rectificarse por el Director General cuando se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de los conceptos. Tratándose de un error de concepto, sólo podrá rectificarse o cancelarse por determinación judicial.
+61.- Una vez realizada la inmatriculación, sólo podrá rectificarse por el Director General del Instituto de la Función Registral del Estado de México cuando se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de los conceptos. Tratándose de un error de concepto, sólo podrá rectificarse o cancelarse por determinación judicial.
 
 Se entenderá que se comete error de concepto cuando al expresar en la inmatriculación alguno de los contenidos del título, se altere o varíe su sentido.
 
@@ -16623,9 +16697,31 @@ Oposición a la inmatriculación administrativa
 
 Sistemas de registro
 
+> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8.
 
-64.- El Reglamento establecerá los sistemas conforme a los cuales deben llevarse las inscripciones y anotaciones.
+64.- El Reglamento establecerá los sistemas y procesos conforme a los cuales deben llevarse las inscripciones y anotaciones. El contenido de los asientos de inscripción y las anotaciones, así como los efectos, cancelación, requisitos y calificación de dichas inscripciones y anotaciones y los demás actos y procedimientos registrales del Registro Público de la Propiedad se regularán conforme a lo previsto en el presente Código y el Reglamento.
+
+Las inscripciones, registros, anotaciones y asientos a que se refiere este Libro Octavo se practicarán en folios que podrán evidenciarse en forma impresa, documental, magnética, informática, electrónica o cibernética conforme a lo previsto en este Código y el Reglamento. Las anotaciones que se realicen al margen de los asientos o inscripciones correspondientes se harán constar conforme a lo previsto en el mencionado Reglamento.
+
+La operación del Registro Público de la Propiedad podrá llevarse a cabo mediante un sistema informático, el cual utilice formas precodificadas para la realización de trámites registrales, de acuerdo con las disposiciones que al efecto se establezcan.
+
+El Reglamento regulará los sistemas y procesos informáticos para la captación, desarrollo, recuperación, almacenamiento, explotación, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información contenida tanto en libros como en la base de datos respectiva.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8.
+
+64.1.- La información contenida en libros u otros documentos servirá de base para la conformación del folio, el cual se integrará con el total de las anotaciones y registros existentes, vinculando el tracto sucesivo. La información será validada por la autoridad registral, asignando el folio respectivo y formará parte de la base de datos que al efecto opere el Instituto de la Función Registral del Estado de México.
+
+Las bases para la extracción y captura de información para integrar el folio se precisarán en el Reglamento.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8.
+
+64.2.- La información e imágenes contenidas en la base de datos de los sistemas informáticos con los que opere el Registro Público de la Propiedad, tendrán la misma validez y exactitud jurídica que las contenidas en los libros o en el archivo histórico, así como el carácter probatorio para los efectos correspondientes.
 
 ###### Artículo 8.
 
@@ -16649,9 +16745,19 @@ III. Las Instituciones de asistencia privada.
 
 Disposiciones aplicables al registro de inmuebles
 
+## TITULO SEXTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8.
 
 67.- Serán aplicables a estas inscripciones las disposiciones relativas al registro de bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia del presente capítulo y con los efectos que las inscripciones producen.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8.
+
+68.- En el desempeño de sus funciones y cumplimiento de sus responsabilidades, los servidores públicos del Instituto de la Función Registral del Estado de México deberán cumplir con las disposiciones de este Código, el Reglamento, la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, su reglamento interior, los manuales administrativos y demás disposiciones legales, reglamentarias y administrativas aplicables.
 
 ## TRANSITORIOS
 
@@ -16742,3 +16848,41 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- El formato al que se refiere el artículo 2.348 deberá ser elaborado por el Poder Judicial del Estado de México; y modificado por éste mismo cuando sea necesario en razón de actualizaciones por reformas a los diferentes ordenamientos del Estado.
+
+G.G. 3 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General, deberán realizarse dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Instituto de la Función Registral del Estado de México aplicará las disposiciones reglamentarias en materia registral vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán de sustituirlas. En tanto no se expida el Reglamento Interior del Instituto de la Función Registral del Estado de México éste se regirá por las disposiciones del Reglamento del Registro Público de la Propiedad del Estado de México publicado el 5 de abril de 1999 en la "Gaceta del Gobierno", que no contravengan lo previsto en este Decreto.
+
+QUINTO.- El Consejo Directivo, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior del Instituto de la Función Registral del Estado de México.
+
+SEXTO.- Los recursos humanos, materiales y financieros con los que venia operando la Dirección General del Registro Público de la Propiedad de la Secretaria General de Gobierno, se transferirán al Instituto de la Función Registral del Estado de México, en los términos que establezcan las Secretarías General de Gobierno y de Finanzas, en sus respectivos ámbitos de competencia.
+
+SÉPTIMO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno que pasen a formar parte del Instituto de la Función Registral del Estado de México.
+
+OCTAVO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Instituto de la Función Registral del Estado de México, los derechos y obligaciones de la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno.
+
+NOVENO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Instituto de la Función Registral del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno, se entenderán transferidos o aplicables al Instituto de la Función Registral del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO.- El fideicomiso a que se refiere el artículo Octavo del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+DÉCIMO SEGUNDO.- La operación de los sistemas automatizados, informáticos y electrónicos y la utilización de folios en las oficinas del Registro Público de la Propiedad, a los que hace referencia el artículo 8.64 del Código Civil del Estado de México, se realizarán de manera gradual, de conformidad con el programa que al efecto establezca el Poder Ejecutivo Estatal, por lo que las oficinas registrales, hasta en tanto cuenten con un sistema informático, continuarán operando con sus sistemas y mecanismos actuales.
+
+DÉCIMO TERCERO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General del Registro Público de la Propiedad o al Director General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de México y al Director General del Instituto de la Función Registral del Estado de México, respectivamente.
+
+DÉCIMO CUARTO.- Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Instituto de la Función Registral del Estado de México.
+
+DÉCIMO QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de los terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+DÉCIMO SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+DÉCIMO SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+DÉCIMO OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
