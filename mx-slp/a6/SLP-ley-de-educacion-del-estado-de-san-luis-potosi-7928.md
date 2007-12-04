@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2006-09-14"
+last_updated: "2007-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -103,11 +103,15 @@ II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así com
 
 III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, por los símbolos patrios y por las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país y de la entidad;
 
-IV.- Promover mediante la enseñanza de la lengua nacional -- el español --, un idioma común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+IV.- Promover mediante la enseñanza de la lengua nacional -el español-, un idioma común para todos los mexicanos, así como proteger y promover el desarrollo de las lenguas indígenas, a través de la educación bilingüe e intercultural;
 
 V.- Infundir el conocimiento y práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+VI.- Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
 
 VII.- Fomentar actitudes que estimulen la investigación y la innovación científica y tecnológica;
 
@@ -131,7 +135,9 @@ I.- Será democrático, considerando a la democracia no solamente como una estru
 
 II.- Será nacional, en cuanto - sin hostilidades ni exclusivismos - atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica, a la continuidad y acrecentamiento de nuestra cultura; y
 
-III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte, a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuando por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios o discriminación de razas, de religión, de grupos, de sexos o de individuos.
 
 ###### ARTICULO 11.
 
@@ -169,9 +175,11 @@ El educando es el sujeto en quien recae la acción que tiende a desarrollar y pe
 
 El educador es promotor, coordinador y agente directo del proceso educativo; deben proporcionársele los medios que le permitan realizar eficazmente su labor y contribuir a su constante superación profesional y mejoramiento económico.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 16.
 
-El Gobierno del Estado otorgará un salario profesional para que los trabajadores de la educación alcancen un nivel de vida decoroso, para que sus familias puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como para que dispongan del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional.
+El Gobierno del Estado otorgará un salario profesional para que los trabajadores de la educación alcancen un nivel de vida decoroso, para que sus familias puedan arraigarse en las comunidades en las que trabajan, especialmente tratándose de comunidades indígenas, y disfrutar de vivienda digna; así como para que dispongan del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional.
 
 ###### ARTICULO 17.
 
@@ -213,7 +221,9 @@ I.- Elaborar y ejecutar las políticas y los programas en materia educativa, cul
 
 II.- Planear, programar, presupuestar, ejecutar y evaluar los programas educativos, culturales, recreativos y deportivos;
 
-III.- Prestar los servicios de educación inicial, básica, incluyendo la indígena, especial, normal y demás para la formación de maestros;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+III.- Prestar los servicios de educación inicial, básica, incluyendo la indígena bilingüe e intercultural, especial, normal y demás para la formación de maestros;
 
 IV.- Aplicar los planes y programas de estudios oficiales en las escuelas de educación básica, normal y demás para la formación de maestros de educación básica;
 
@@ -229,13 +239,17 @@ VIII.- Expedir los certificados y otorgar las constancias, diplomas, títulos o 
 
 IX.- Revalidar y otorgar equivalencias de estudios de educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación de la Administración Pública Federal expida;
 
-X.- Concertar acciones y establecer convenios con instituciones de educación superior, para que sus egresados presten servicio social en escuelas de las comunidades rurales, zonas urbanas marginadas y regiones habitadas por las culturas indígenas de la Entidad;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+X.- Concertar acciones y establecer convenios con instituciones de educación superior, para que sus egresados presten servicio social en escuelas de las comunidades rurales, zonas urbanas marginadas y regiones habitadas por las comunidades indígenas de la Entidad;
 
 XI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
 XII.- Llevar el registro y control de todas las instituciones, que ofrezcan servicios educativos de cualquier tipo, nivel o modalidad;
 
-XIII.- Establecer programas educativos que permitan el rescate y la exaltación de las culturas indígenas;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+XIII.- Establecer programas educativos que promuevan la educación bilingüe e intercultural, y permitan el rescate y el conocimiento de las culturas indígenas del Estado;
 
 XIV.- Promover la conservación de las costumbres, tradiciones y expresiones autóctonas;
 
@@ -260,6 +274,10 @@ XXIII.- Celebrar, con acuerdo del Gobernador, los convenios y coadyuvar con el E
 XXIV.- Administrar los recursos humanos, técnicos, financieros y materiales que requieran las unidades que integran la Secretaría de Educación del Gobierno del Estado;
 
 XXV.- Administrar los planteles educativos que se establezcan en la Entidad conforme a la fracción XII del apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+XXV Bis.- Establecer y vigilar los planteles educativos que se instituyan en cumplimiento del artículo 2° Inciso B) fracción II de la Constitución Política de los Estados Unidos Mexicanos;
 
 XXVI.- Vigilar en los planteles educativos de la Entidad, el cumplimiento del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de la legislación reglamentaria federal y estatal vigentes;
 
@@ -343,9 +361,11 @@ El proceso educativo se basará en los principios de libertad y responsabilidad 
 
 Para su atención, la educación se integra por los tipos: Básico, Medio Superior y Superior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 30.
 
-En el Sistema Educativo Estatal además, quedará comprendida la educación inicial, la educación indígena, la educación para adultos, la educación especial, la educación física, la de artes y oficios, escuelas de bellas artes, academias comerciales, técnicas y de capacitación para el trabajo, y toda aquella que en el Estado se imparta.
+En el Sistema Educativo Estatal además, quedará comprendida la educación inicial, la educación indígena bilingüe e intercultural, la educación para adultos, la educación especial, la educación física, la de artes y oficios, escuelas de bellas artes, academias comerciales, técnicas y de capacitación para el trabajo, y toda aquella que en el Estado se imparta.
 
 La Educación Básica está integrada por el nivel Preescolar, el de Primaria y el de Secundaria.
 
@@ -375,7 +395,9 @@ La educación preescolar, constituye el primer nivel de la educación básica. T
 
 La educación primaria, contribuye al desarrollo integral y armónico del educando, y es un antecedente obligatorio para cursar la educación secundaria.
 
-La educación primaria y la secundaria responderán adecuadamente a las diferentes características lingüísticas de las culturas Náhuatl, Tének y Pame de la Entidad, población rural, urbana y grupos migrantes.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+La educación primaria y la secundaria responderán adecuadamente a las diferentes características lingüísticas de la población rural, urbana y grupos migrantes, así como de las culturas Náhuatl, Tének y Pame Xi´Oi de la Entidad, debiendo ser en el caso de las culturas indígenas antes señaladas, bilingüe e intercultural.
 
 ###### ARTICULO 34.
 
@@ -383,11 +405,27 @@ La educación secundaria profundiza la formación científica, humanística, art
 
 Las instituciones que ofrecen este servicio se identifican como: escuelas secundarias generales, escuelas secundarias técnicas y telesecundarias.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 35.
 
-La educación indígena está dirigida a las etnias de la entidad. Propicia el rescate, desarrollo y estudio sistemático de sus culturas y el uso del español como lengua de comunicación nacional. Es una educación bicultural que parte de las raíces del pensamiento y de la trayectoria de los grupos étnicos, exaltando sus valores histórico-culturales y la conservación de sus costumbres y tradiciones.
+La educación que se imparta en poblaciones en donde se encuentren asentadas comunidades indígenas de las diferentes etnias del Estado, deberá ser bilingüe e intercultural.
 
-Conforman la educación indígena: la educación inicial, educación preescolar, educación primaria y secundaria bilingüe-bicultural; servicios de apoyo asistencial y de extensión educativa. En sus comunidades deberán participar preferentemente profesores bilingües-biculturales.
+Se entiende por educación bilingüe la educación que se imparte a los educandos, tanto en la lengua de la comunidad indígena de que se trate, como en idioma español, propiciando que tanto los estudiantes indígenas, como los que no lo son pero concurren a la misma escuela, se interrelacionen mediante el estudio, comprensión y uso de ambas lenguas.
+
+La educación intercultural propicia la convivencia armónica entre la cultura indígena específica de una región y la cultura nacional, mediante el conocimiento, la exaltación y análisis de los elementos históricos, y los valores de cada una de ellas, sin excluirse la una a la otra, y sin pretender su integración; favorece el enriquecimiento educativo mediante los elementos del multiculturalismo, y el desarrollo y estudio sistemático de ambas culturas de manera complementaria.
+
+Conforman la educación indígena: la educación inicial, educación preescolar, educación primaria y secundaria bilingüe intercultural, y en la medida de las posibilidades presupuestarias comprenderá asimismo, la educación media superior y superior bilingüe e intercultural. Igualmente, incluye los servicios de apoyo asistencial y de extensión educativa.
+
+La autoridad educativa local, en coordinación con los demás programas federales, estatales y municipales, implementará un sistema de becas para estudiantes indígenas en todos los niveles educativos, cuidando siempre que los recursos lleguen a un mayor número de agraciados, y que no se concentren injustificadamente más de uno de estos beneficios en una sola persona.
+
+En la elaboración de los planes y programas de estudio relativos a la educación indígena, se consultará a las comunidades indígenas a través de sus autoridades tradicionales, con el fin de incorporar sus propuestas; para tal efecto, las autoridades educativas podrán auxiliarse con el padrón de comunidades indígenas del Estado.
+
+Para impartir educación en los diferentes niveles en las comunidades indígenas, deberán participar profesores capacitados en educación bilingüe e intercultural, procurando que éstos radiquen dentro de la propia comunidad, a fin de propiciar el cabal cumplimiento del calendario y horas de labor escolar aprobados por la autoridad educativa local.
+
+El ausentismo de los maestros que impartan clases en las comunidades indígenas, será sancionado de conformidad con lo establecido en el Reglamento correspondiente, oyendo, en su caso, a las autoridades indígenas de las mismas.
+
+Para la correcta aplicación de los términos que se utilizan en el presente artículo, referentes a comunidad indígena, indígenas y demás relativos, se estará a lo dispuesto en la Ley Reglamentaria del artículo 9° de la Constitución del Estado, sobre Derechos y Cultura Indígenas.
 
 ###### ARTICULO 36.
 
@@ -661,9 +699,11 @@ En reconocimiento a su labor, las autoridades educativas le otorgarán los estí
 
 De los Servicios Culturales.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 65.
 
-Las autoridades educativas desarrollarán programas para el rescate y exaltación de las tradiciones culturales de la Entidad; de manera especial, de las culturas indígenas.
+Las autoridades educativas desarrollarán programas para el rescate, conocimiento y difusión de las tradiciones culturales de la Entidad; y con la participación de las comunidades indígenas de manera especial, las de las culturas indígenas del Estado.
 
 ###### ARTICULO 66.
 
@@ -675,11 +715,15 @@ II.- Impulsar el establecimiento y funcionalidad de casas de cultura, museos y b
 
 III.- Organizar congresos, reuniones, concursos y otras actividades de carácter científico, histórico, cultural y artístico, de acuerdo con la normatividad correspondiente;
 
-IV.- Llevar el registro y control de las actividades y avances científicos, histórico-sociales, literarios, artísticos y cívico-culturales.
+IV.- Llevar el registro y control de las actividades y avances científicos, histórico-sociales, literarios, artísticos y cívico-culturales;
 
-V.- Establecer la Academia de las Lenguas y de Estudios Históricos de las Culturas Indígenas; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
-VI.- Apoyar la elaboración y difusión de libros y materiales didácticos en lenguas Náhuatl, Tének y Pame.
+V.- Establecer la Academia de las Lenguas y de Estudios Históricos de las Culturas Indígenas, procurando integrar a la misma, a miembros originarios de las comunidades indígenas de las diferentes etnias del Estado; y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+VI.- Apoyar, procurando la colaboración de las autoridades indígenas de las diversas comunidades indígenas del Estado, la elaboración y difusión de libros y materiales didácticos en lenguas Náhuatl y Tének, así como Pame o Xi´Oi.
 
 ### Capítulo III.
 
@@ -1266,6 +1310,20 @@ P.O. 14 DE SEPTIEMBRE DE 2006.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor el día uno de enero del año 2008.
+
+SEGUNDO. Para dar cumplimiento a lo dispuesto en el cuarto párrafo del artículo 35 que se reforma con el presente Decreto, la Secretaría de Educación del Gobierno del Estado, realizará las proyecciones presupuestales y demás acciones necesarias, para contar con la infraestructura y recursos técnicos, humanos y materiales necesarios, a efecto de que a partir del año 2008 pueda implementarse la educación bilingüe e intercultural, en los niveles de preescolar y primaria; y en el año 2009, en el nivel de educación secundaria.
+
+TERCERO. A efecto de instrumentar lo establecido en este Decreto, la autoridad educativa local instituirá de tiro de su organigrama y, mediante la inclusión en el Reglamento respectivo, con el nivel de Dirección Estatal, un área destinada a la educación indígena bilingüe e intercultural, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto. En tal virtud, se autoriza al Ejecutivo del Estado a realizar, en su caso, la ampliación presupuestal que corresponda.
+
+CUARTO. Se concede al Ejecutivo del Estado, un término de ciento veinte días contados a partir de la entrada en vigor de este Decreto, para realizar en los reglamentos que correspondan, las adecuaciones necesarias derivadas del mismo.
+
+QUINTO. El séptimo párrafo del artículo 35 de este Decreto entrará en vigor a partir del inicio del ciclo escolar 2009-2010. Asimismo a la entrada en vigor del presente Decreto, se llevarán a cabo las acciones de capacitación necesarias, para contar con una plantilla suficiente de profesores que cumplan con los requerimientos del referido precepto; procurando mientras tanto, que los maestros que impartan educación en comunidades indígenas, sean hablantes de la lengua de la comunidad indígena en la que presten sus servicios.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 ## TRANSITORIOS
 
