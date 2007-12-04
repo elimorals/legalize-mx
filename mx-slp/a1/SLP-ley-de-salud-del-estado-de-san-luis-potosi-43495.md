@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2004-12-23"
+last_updated: "2007-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -776,6 +776,16 @@ En el caso en que exista convenio entre el Ejecutivo del Estado y el Ejecutivo F
 ###### ARTICULO 71.
 
 Quienes ejerzan en forma privada las actividades profesionales, técnicas y auxiliares, así como y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades, así como y en la publicidad que realicen.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 71 BIS. Los profesionales, técnicos y auxiliares de la salud en el ámbito público y privado, no podrán percibir comisiones, beneficio económico o en especie, o porcentaje alguno, por la celebración de convenios o contratos con personas físicas o morales que presten servicios de salud, y que tengan como finalidad obligar y/o inducir la prescripción de medicamentos, aparatos ortopédicos, lentes, análisis clínicos y de gabinete, servicios funerarios; así como el envío de pacientes a efecto de consumir dichos servicios y/o productos.
+
+La asociación entre médicos y otros profesionales de la salud, debe tener como finalidad la complementación y el mejoramiento del recurso ofrecido en beneficio del paciente; y se prohíbe que éste tenga como fin el engaño.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 71 TER. Para efectos de esta Ley entiéndase por inducir, consejo o instigación, destinados a provocar en una o varias personas la realización de un acto.
 
 ### CAPITULO I. Disposiciones Comunes
 
@@ -2585,9 +2595,15 @@ VII. Cuando el interesado no se ajuste a los términos, condiciones y requisitos
 
 VIII. Cuando los establecimientos o personas dejen de reunir las condiciones o requisitos bajo los cuales se hayan otorgado las autorizaciones;
 
-IX. Cuando lo solicite el interesado, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
-X. En los demás casos que determine la autoridad sanitaria competente.
+IX. Cuando lo solicite el interesado;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+X. Cuando profesionales, técnicos o auxiliares en materia de salud, incurran en la práctica contemplada en el artículo 71BIS de esta Ley, y
+
+XI. En los demás casos que determine la autoridad sanitaria competente.
 
 ###### ARTICULO 334.
 
@@ -2955,9 +2971,17 @@ I. Cuando los establecimientos a que se refieren los artículos 181 y 182 de est
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
-III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen, sigan constituyendo un peligro para la salud, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
-IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población.
+III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen, sigan constituyendo un peligro para la salud;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+IV. Cuando se lleve a cabo alguno de los supuestos previstos en el artículo 71 BIS de esta Ley, así como las normas y disposiciones que del mismo se deriven, y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
+V. Cuando por la peligrosidad de las actividades que se realicen, o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población.
 
 ###### ARTICULO 389.
 
@@ -3124,3 +3148,11 @@ El Secretario General de Gobierno
 LIC. Alfonso Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE DICIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
