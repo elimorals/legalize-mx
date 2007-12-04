@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2007-del-pleno-del-consejo-de-la-56674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-09-14"
-last_updated: "2007-09-14"
+last_updated: "2007-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-09-05"
 
 ACUERDO GENERAL 32/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL TRIBUNAL COLEGIADO DEL VIGESIMO CUARTO CIRCUITO, CON RESIDENCIA EN TEPIC, NAYARIT, ASI COMO DE LA MODIFICACION TEMPORAL DE LA JURISDICCION TERRITORIAL DE LOS TRIBUNALES COLEGIADOS DEL DECIMOSEGUNDO CIRCUITO, CON RESIDENCIA EN MAZATLAN, SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2007.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 14 de septiembre de 2007.
 
@@ -51,6 +51,8 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/7/2007, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 4 DE DICIEMBRE DE 2007, EL PERIODO DE EXCLUSION PARA EL TRIBUNAL COLEGIADO A QUE SE REFIERE EL PRESENTE PUNTO, SE PRORROGA DEL 1 DE DICIEMBRE DE 2007 AL 29 DE FEBRERO DE 2008.</small>
+
 PRIMERO.- Se excluye del turno de nuevos asuntos al Tribunal Colegiado del Vigésimo Cuarto Circuito, con residencia en Tepic, Nayarit por el periodo que comprenderá del diecisiete de septiembre al treinta de noviembre de dos mil siete.
 
 Los nuevos asuntos que se presentan en la Oficialía de Partes del Tribunal Colegiado del Vigésimo Cuarto Circuito, con sede en Tepic, Nayarit, dentro de ese lapso, se turnarán a los cuatro tribunales colegiados del Decimosegundo Circuito, con residencia en Mazatlán, Sinaloa, con excepción de los asuntos a que se refiere la fracción XI del artículo 95 de la Ley de Amparo que se originen en los juzgados de Distrito en el Estado de Nayarit.
@@ -78,3 +80,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 32/2007, del Pleno del Consejo de la Judicatura Federal, Relativo a la Exclusión del Turno de Nuevos Asuntos al Tribunal Colegiado del Vigésimo Cuarto Circuito, con Residencia en Tepic, Nayarit, así como de la Modificación Temporal de la Jurisdicción Territorial de los Tribunales Colegiados del Decimosegundo Circuito, con Residencia en Mazatlán, Sinaloa, fue aprobado por el Pleno del Propio Consejo, en sesión ordinaria de cinco de septiembre de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello y Oscar Vázquez Marín.- México, Distrito Federal, a cinco de septiembre de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 4 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
