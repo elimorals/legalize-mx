@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2007-05-22"
+last_updated: "2007-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1025,7 +1025,9 @@ XIII. Discutir, aprobar o modificar, en su caso, el Presupuesto de Egresos que p
 
 XIV. Crear y suprimir empleos públicos;
 
-XV. Expedir Leyes que regulen las relaciones de trabajo entre los poderes del Estado, los Ayuntamientos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los Artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los ayuntamientos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social, integrado con tres representantes, designados en los términos previstos en la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios.
 
 Legislar sobre la integración del patrimonio del Estado y de los Municipios;
 
@@ -1685,7 +1687,7 @@ III. Familiar;
 
 IV. Electoral Administrativa;
 
-V. Laboral-Burocrática, y
+V. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2007)
 
 VI. Unitaria de Administración de Justicia para Adolescentes.
 
@@ -1839,7 +1841,7 @@ Su organización y funcionamiento se establecerán expresamente en el Código El
 
 Las Salas, Civil, Familiar y Penal serán colegiadas, se integrarán por tres Magistrados cada una; conocerán de los recursos y procedimientos que establezcan las Leyes respectivas.
 
-La Sala Laboral-Burocrática se integrará por un Magistrado, conocerá de los conflictos individuales y colectivos de carácter laboral y de seguridad social, que se susciten entre las administraciones públicas estatal y municipales y sus servidores públicos, así como de los conflictos intergremiales.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2958,3 +2960,23 @@ El titular del Poder Ejecutivo y la Legislatura del Estado harán la prevención
 ###### ARTÍCULO QUINTO.
 
 El Consejo General de la Comisión, expedirá su reglamento en un período no mayor a treinta días naturales a partir de que tomen protesta de su cargo los comisionados, asimismo dará cumplimiento a lo dispuesto en el apartado de transitorios artículos sexto y séptimo del Decreto 108, publicado en el Periódico Oficial del Gobierno del Estado de fecha 12 de enero del 2007, tomo LXXXVI segunda época número extraordinario.
+
+P.O. 5 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del primer día hábil del mes de enero del año dos mil ocho, previa su publicación en el Periódico Oficial del Gobierno del Estado, con las salvedades siguientes:
+
+a). La Magistrada en funciones de la Sala Laboral Burocrática del Honorable Tribunal Superior de Justicia del Estado, Licenciada Maria Esther Juanita Munguia Herrera, concluirá su encargo a las veinticuatro horas del día doce de enero del año dos mil ocho:
+
+b). Del primer día hábil a la entrada en vigor de este Decreto y hasta el día once de enero del año dos mil ocho, el Tribunal de Conciliación y Arbitraje del Estado de Tlaxcala, deberá estar formalmente integrado; sus integrantes tomarán protesta y se instalarán el día trece de enero del mismo año, durante este plazo se dará cumplimiento a lo dispuesto por el artículo segundo transitorio, e (sic)
+
+c). Dentro del plazo del primer día hábil en que entre en vigor este Decreto al doce de enero del año dos mil ocho, se suspenden los términos y plazos procesales, ni se dictarán laudos en los asuntos o juicios que se estén ventilando conforme a la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios, salvo los que tuvieren plazos o términos fatales.
+
+###### ARTÍCULO SEGUNDO.
+
+En el caso de los servidores públicos sujetos al sistema de carrera judicial que presten sus servicios en la Sala Laboral Burocrática derogada, éstos deberán continuar dentro del Poder Judicial del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan aquellas disposiciones que se opongan al contenido de este Decreto.
