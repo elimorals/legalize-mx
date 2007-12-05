@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-las-actividades-de-los-23424"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-13"
-last_updated: "2004-05-10"
+last_updated: "2007-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE REGULA LAS ACTIVIDADES DE LOS ESTABLECIMIENTOS DE VENTA Y/O CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de febrero de 2002.
 
@@ -45,121 +45,67 @@ REGLAMENTO QUE REGULA LAS ACTIVIDADES DE LOS ESTABLECIMIENTOS DE VENTA Y/O CONSU
 
 Las disposiciones del presente Reglamento son de orden público, de interés social y de observancia general en el territorio del Municipio de Monterrey, Nuevo León, y tienen por objeto regular la venta y/o consumo de bebidas alcohólicas y las y las actividades comerciales de los establecimientos a que se refiere este Ordenamiento, independientemente del giro que adopten en su operación, así como contribuir a la prevención y combate al abuso del alcohol.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 2.
 
-Para los efectos de este Reglamento Municipal, se entenderá por:
+Para los efectos de este Reglamento municipal, se entenderá por:
 
-REGLAMENTO: El presente ordenamiento.
+BARRA LIBRE: Venta u ofrecimiento ilimitado o excesivo de bebidas alcohólicas que se ofrecen en un establecimiento, en forma gratuita o mediante el cobro de una determinada cantidad de dinero, exigible por el ingreso al establecimiento o ya dentro de este mismo. También se considerará como barra libre la venta de bebidas alcohólicas en un establecimiento a un precio menor al equivalente al cincuenta por ciento de su valor comercial promedio.
 
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
+BEBIDA ADULTERADA: Bebida alcohólica cuya naturaleza o composición no corresponda a aquellas con que se etiquete, anuncie, expenda, suministre o cuando no coincida con las especificaciones de su autorización o haya sufrido tratamiento que disimule su alteración, se encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas.
+
+BEBIDA ALCOHÓLICA: Aquella que contenga alcohol etílico en una proporción de dos por ciento y hasta cincuenta y cinco por ciento en volumen, incluida la cerveza.
+
+BEBIDA ALTERADA: Bebida alcohólica cuyo contenido o materia prima que por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que reduzcan su poder nutritivo o terapéutico, lo conviertan en nocivo para la salud o modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos.
+
+BEBIDA CONTAMINADA: Bebida alcohólica cuyo contenido o materia prima contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra sustancia en cantidades que rebasen los límites permisibles establecidos por la Secretaría de Salud del Estado.
+
+BEBIDA ENERGIZANTE: Bebida embotellada que contiene taurina, cafeína y glucoronolactona o sustancias similares, que se utiliza para la preparación de bebidas alcohólicas preparadas.
+
+BEBIDA PREPARADA: Bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí o combinadas con bebidas no alcohólicas, como agua, jugos, refrescos u otras.
+
+CLAUSURA DEFINITIVA: Sanción aplicada por la Autoridad Municipal competente en términos del presente Ordenamiento, y que produce la suspensión permanente de la actividad comercial o la operación de un establecimiento, mediante la imposición de sellos o símbolos de clausura en los lugares que la misma determina. La clausura definitiva da lugar al inicio del procedimiento de la revocación de la licencia o permiso especial, conforme a los términos establecidos en el presente Reglamento.
+
+CLAUSURA TEMPORAL: Sanción aplicada por la Autoridad Municipal competente en términos del presente Ordenamiento, y que produce la suspensión temporal de la actividad comercial de un establecimiento, mediante la imposición de sellos o símbolos de clausura en los lugares que la misma determina.
+
+CUOTA: Salario mínimo diario general vigente en el área geográfica B, según la Comisión Nacional de los Salarios Mínimos.
+
+DUEÑO DE ESTABLECIMIENTO: El Propietario, la persona física o moral a nombre de la cual se encuentra la licencia de operación o por quien asuma esa responsabilidad con motivo de la operación y explotación del establecimiento en donde se venden y/o consumen bebidas alcohólicas.
+
+ESTABLECIMIENTO: Todos aquellos lugares donde se venden y/o consumen bebidas alcohólicas, al público en envase cerrado, abierto o al copeo, ya sea como actividad principal, ya sea como actividad accesoria o complementaria de otros servicios.
+
+ESTABLECIMIENTOS CUYA ACTIVIDAD PREPONDERANTE SEA LA PREPARACIÓN VENTA Y CONSUMO DE ALIMENTOS: Aquellos en las que el producto de las ventas de bebidas alcohólicas no excede el cuarenta por ciento de sus ingresos totales.
+
+ESTADO DE EBRIEDAD: Condición física ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición.
+
+ESTADO DE INEPTITUD PARA CONDUCIR: Condición física ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 0.8 o más gramos de alcohol por litro de sangre y de mas de 0.0 gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o en ambos casos, su equivalente en algún otro sistema de medición.
+
+EVIDENTE ESTADO DE EBRIEDAD: Cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se puede apreciar que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio, en el lenguaje, con motivo del consumo de alcohol etílico.
+
+GIRO: Denominación que adopta un establecimiento en la operación de venta y/o consumo, en su caso, de bebidas alcohólicas y que debe constar en la licencia o permiso especial que se otorgue para tal efecto, conforme a las disposiciones del presente Reglamento.
+
+INFRACCIÓN: Es una violación al presente reglamento.
+
+LEGISLACIÓN DE SALUD: Leyes y reglamentos vigentes en el Estado en materia de salud.
 
 LEY: La Ley Estatal de Prevención y Combate al Abuso del Alcohol.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
-
 LICENCIA: Autorización por escrito que emite el R. Ayuntamiento para que opere un establecimiento en el que se venden y/o consumen bebidas alcohólicas, en las condiciones que exige el presente Ordenamiento.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
+MAYORÍA DE EDAD: La edad establecida como mayoría de edad en la Constitución Política de los Estados Unidos Mexicanos.
 
 PERMISO ESPECIAL: Autorización por escrito, de carácter temporal, que emite el R. Ayuntamiento o el Presidente Municipal según sea el caso, para la realización de un evento en particular y el cual no podrá exceder de 30 días naturales.
 
 REFRENDO: Acto administrativo con vigencia anual que renueva la titularidad y vigencia de la licencia expedida en términos del presente ordenamiento, que se realiza previa solicitud y pago de los derechos correspondientes por el titular.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
+REGLAMENTO: El presente Ordenamiento.
 
 REINCIDENCIA: Cuando el infractor cometa la misma violación a las disposiciones al Reglamento dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-CLAUSURA TEMPORAL: Sanción aplicada por la Autoridad Municipal competente en términos del presente Ordenamiento, y que produce la suspensión temporal de la actividad comercial de un establecimiento, mediante la imposición de sellos o símbolos de clausura en los lugares que la misma determina.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-CLAUSURA DEFINITIVA: Sanción aplicada por la Autoridad Municipal competente en términos del presente Ordenamiento, y que produce la suspensión permanente de la actividad comercial o la operación de un establecimiento, mediante la imposición de sellos o símbolos de clausura en los lugares que la misma determina. La clausura definitiva da lugar al inicio del procedimiento de la revocación de la licencia o permiso especial, conforme a los términos establecidos en el presente Reglamento.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-GIRO: Denominación que adopta un establecimiento en la operación de venta y/o consumo, en su caso, de bebidas alcohólicas y que debe constar en la licencia o permiso especial que se otorgue para tal efecto, conforme a las disposiciones del presente Reglamento.
-
-ACTIVIDAD COMERCIAL: Es la operación de un establecimiento.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-CUOTA: Salario mínimo diario general vigente en el área geográfica B, según la Comisión Nacional de los Salarios Mínimos.
-
-TITULAR: La persona con los derechos de la licencia o permiso especial.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-BEBIDA ALCOHÓLICA: Aquella que contenga alcohol etílico en una proporción de dos por ciento y hasta cincuenta y cinco por ciento en volumen, incluida la cerveza.
-
-Cualquier otra bebida que tenga proporción mayor no podrá comercializare para consumo humano.
-
-CERVEZA: La bebida fermentada elaborada con malta, lúpulo y agua potable o con infusiones de cualquier semilla farinácea, procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares, como adjunto de malta con adición de lúpulos o sucedáneos de éstos, siempre que su contenido alcohólico esté entre 2% y 6% de alcohol en volumen.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-BARRA LIBRE: Venta u ofrecimiento ilimitado o excesivo de bebidas alcohólicas que se ofrecen en un establecimiento, en forma gratuita o mediante el cobro de una determinada cantidad de dinero, exigible por el ingreso al establecimiento o ya dentro de este mismo.
-
-También se considerará como barra libre la venta de bebidas alcohólicas en un establecimiento a un precio menor al equivalente al cincuenta por ciento de su valor comercial promedio.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-BEBIDA ADULTERADA: Bebida alcohólica cuya naturaleza o composición no corresponda a aquellas con que se etiquete, anuncie, expenda, suministre o cuando no coincida con las especificaciones de su autorización o haya sufrido tratamiento que disimule su alteración, se encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-BEBIDA ALTERADA: Bebida alcohólica cuyo contenido o materia prima que por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que reduzcan su poder nutritivo o terapéutico, lo conviertan en nocivo para la salud o modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-BEBIDA CONTAMINADA: Bebida alcohólica cuyo contenido o materia prima contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra sustancia en cantidades que rebasen los límites permisibles establecidos por la Secretaría de Salud del Estado.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-BEBIDA PREPARADA: Bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí o combinadas con bebidas no alcohólicas, como agua, jugos, refrescos u otras.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-VENTA DE BEBIDAS ALCOHÓLICAS: Todo acto de comercio que de manera directa o indirecta tenga como fin la comercialización de bebidas alcohólicas, ya sea venta, expendio y/o consumo, en envase cerrado, abierto o al copeo, al mayoreo o al menudeo, como actividad principal, accesoria o complementaria de otras.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-ESTABLECIMIENTO: Todos aquellos lugares donde se venden y/o consumen bebidas alcohólicas, al público en envase cerrado, abierto o al copeo, ya sea como actividad principal, ya sea como actividad accesoria o complementaria de otros servicios.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-DUEÑO DE ESTABLECIMIENTO: El Propietario, la persona física o moral a nombre de la cual se encuentra la licencia de operación o por quien asuma esa responsabilidad con motivo de la operación y explotación del establecimiento en donde se venden y/o consumen bebidas alcohólicas.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-ESTABLECIMIENTOS CUYA ACTIVIDAD PREPONDERANTE SEA LA PREPARACIÓN VENTA Y CONSUMO DE ALIMENTOS: Aquellos en las que el producto de las ventas de bebidas alcohólicas no excede el cuarenta por ciento de sus ingresos totales.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-ESTADO DE EBRIEDAD: Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-EVIDENTE ESTADO DE EBRIEDAD: Cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se puede apreciar que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio, en el lenguaje, con motivo del consumo de alcohol etílico.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-ESTADO DE INEPTITUD PARA CONDUCIR: Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 0.8 o más gramos de alcohol por litro de sangre y de mas de 0.0 gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o en ambos casos, su equivalente en algún otro sistema de medición.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-LEGISLACIÓN DE SALUD: Leyes y reglamentos vigentes en el Estado en materia de salud.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-MAYORÍA DE EDAD: La edad establecida en la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
 SISTEMAS DE VENTA, CONSUMO O EXPENDIO CON DESCUENTO EN PRECIO: Es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promociones u ofertas o sistema de barra libre, así como cualquier práctica mediante la cual se puedan consumir bebidas alcohólicas sin costo, con artículo agregado o con descuento de más del cincuenta por ciento en el precio, o bien, el consumo, expendio u ofrecimiento de bebidas alcohólicas a cambio o incluido en el pago para la admisión a un establecimiento.
 
-INFRACCION: Es una violación al presente reglamento.
+VENTA DE BEBIDAS ALCOHÓLICAS: Todo acto de comercio que de manera directa o indirecta tenga como fin la comercialización de bebidas alcohólicas, ya sea venta, expendio y/o consumo, en envase cerrado, abierto o al copeo, al mayoreo o al menudeo, como actividad principal, accesoria o complementaria de otras.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
 
@@ -209,13 +155,17 @@ VIII. Los Servidores Públicos a quienes se deleguen facultades expresas para la
 
 ARTICULO 6 BIS.- A las autoridades administrativas del Municipio de Monterrey, en el ámbito de su competencia, les corresponde:
 
-I. Desarrollar estrategias y programas preventivos en materia de combate al abuso en el consumo del alcohol.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+I. Desarrollar estrategias, programas anuales preventivos y campañas permanentes de difusión e información en materia de combate al abuso en el consumo del alcohol.
 
 II. Promover la coordinación de las diferentes áreas integrantes de la Administración Pública Municipal para el cumplimiento del objeto de la Ley.
 
 III. Coadyuvar en el ámbito de su competencia con el sistema educativo para la implementación de programas orientados a educar sobre los efectos del alcohol en la salud y en las relaciones sociales.
 
-IV. Promover la participación de las instituciones en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso del alcohol.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+IV. Promover la participación de las instituciones públicas y privadas en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso del alcohol.
 
 V. Impulsar alternativas de sano esparcimiento facilitando la utilización de centros comunitarios de tipo educativo, cultural o lúdico, como polideportivos, bibliotecas y centros culturales.
 
@@ -247,7 +197,9 @@ VI. Expedir permisos para eventos especiales en los términos del presente Regla
 
 VII. Resolver los procedimientos de revocación de licencias o permisos especiales de acuerdo a lo dispuesto en el presente Ordenamiento.
 
-VIII. Autorizar, de manera general o en determinados giros, la ampliación o disminución temporal de los horarios establecidos en este Reglamento cuando así lo considere necesario por existir en la ciudad eventos o circunstancias especiales que a su consideración lo ameriten.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+VIII. Autorizar, de manera general o en determinados giros, la disminución temporal de los horarios establecidos en este Reglamento cuando así lo considere necesario.
 
 IX. Autorizar o negar los permisos especiales con fines de lucro.
 
@@ -319,9 +271,7 @@ VIII. Enviar dentro del término de 10 días hábiles el expediente relativo a l
 
 IX. Expedir certificados o constancias de licencias o permisos especiales al solicitante, cuando éste reúna los requisitos que fija este ordenamiento.
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
-
-X. Recibir, tramitar y resolver el recurso de inconformidad en términos de este Ordenamiento.
+X. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2007)
 
 XI. Llevar, a través de la Dirección de Inspección y Vigilancia, el registro de licencias y permisos especiales.
 
@@ -375,9 +325,11 @@ VIII. Decretar la clausura temporal o definitiva en caso de adeudos por concepto
 
 IX. Las demás atribuciones que le confiere este Ordenamiento y las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 11.
 
-Son atribuciones la (sic) Dirección de Inspección y Vigilancia:
+Son atribuciones de la Dirección de Inspección y Vigilancia:
 
 I. Llevar a cabo las labores de inspección y vigilancia en los establecimientos para verificar que se cumplan los requisitos y demás disposiciones del presente ordenamiento a través de los inspectores adscritos a dicha Dirección y mediante la orden de visita correspondiente que para tal efecto se dicte.
 
@@ -457,6 +409,60 @@ VI. Solicitar el auxilio de la fuerza pública en el caso de oposición de parte
 
 VII. Las demás que señale el presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 13 BIS.- Los Inspectores adscritos a la Dirección de Inspección y Vigilancia tendrán impedimento para realizar visitas en los establecimientos que regula este Ordenamiento en los siguientes casos:
+
+I. Si es o ha sido dueño, administrador, accionista, socio o encargado del establecimiento objeto de la inspección.
+
+II. Si tiene un litigio personal de cualquier naturaleza, relacionado con el establecimiento objeto de la inspección, sin que haya transcurrido un año de su resolución.
+
+III. En caso de que su cónyuge, parientes consanguíneos en línea recta sin limitación de grados, colaterales dentro del cuarto grado o afines dentro del segundo grado, tengan interés o relación respecto del establecimiento objeto de la inspección.
+
+IV. En caso de tener parentesco por consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los dueños, administradores, accionistas, socios o encargados del establecimiento objeto de la inspección.
+
+V. Por tener amistad estrecha o enemistad manifiesta con cualquiera de los dueños, administradores, accionistas, socios o encargados del establecimiento objeto de la inspección.
+
+VI. En caso de haber dependido económicamente de los dueños, administradores, accionistas, socios o encargados del establecimiento objeto de la inspección.
+
+VII. Por cualquier otra causa prevista en los ordenamientos jurídicos aplicables.
+
+En caso de encontrarse en alguno de los supuestos a que se refiere el presente artículo, el inspector deberá manifestar tal circunstancia a su superior jerárquico, a fin de que éste designe a quien deberá sustituirlo.
+
+El incumplimiento a dicha obligación será causa de responsabilidad administrativa para el inspector de que se trate en términos de lo establecido al efecto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, independientemente de las sanciones penales que correspondan.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 13 BIS I.- Son faltas administrativas cometidas por los inspectores adscritos a la Dirección de Inspección y Vigilancia, en el ejercicio de su cargo, las siguientes:
+
+I. Ocultar el documento que lo identifique como servidor público municipal con funciones de supervisión, inspección o vigilancia, en la inteligencia de que dicha identificación debe de ser emitida por la Dirección de Inspección y Vigilancia.
+
+II. Incumplir lo dispuesto en el presente Reglamento así como las disposiciones que emita la Dirección de Inspección y Vigilancia.
+
+III. Utilizar palabras o realizar acciones ofensivas o intimidatorios en contra de los particulares.
+
+IV. Proporcionar a los particulares información falsa respecto a las infracciones o sanciones contempladas en este Reglamento.
+
+V. Desempeñar sus funciones fuera del área que se le haya asignado sin causa justificada.
+
+VI. Facilitar los gafetes o medios de identificación, propios o ajenos, para que éstos sean utilizados por personas ajenas al servicio público o por servidores públicos no autorizados para ello.
+
+VII. Encubrir hechos o acciones de los particulares que puedan ser constitutivas de infracción al presente Reglamento.
+
+VIII. Revelar información de la cual tenga conocimiento o acceso con motivo de su cargo.
+
+IX. Omitir información, presentar cualquier documento alterado o presentar información falsa en el desempeño de su cargo.
+
+X. Solicitar dádivas o dinero a cambio de incumplir con sus obligaciones como servidor público.
+
+XI. Llevar a cabo diligencias de inspección o supervisión sin estar autorizado para ello o sin contar con la orden respectiva.
+
+XII. Ejecutar los medios de apremio previstos en el presente Ordenamiento sin la orden correspondiente.
+
+XIII. Las demás que señalen las leyes y reglamentos aplicables en la materia.
+
+Los servidores públicos que incurran en cualquiera de las faltas administrativas previstas en el presente Ordenamiento y en las demás disposiciones legales aplicables, serán sujetos de responsabilidad administrativa y se aplicarán las sanciones correspondientes en términos del procedimiento establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+
 ### CAPITULO III. CLASIFICACION DE ESTABLECIMIENTOS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
@@ -501,7 +507,9 @@ II. RESTAURANTE CON VENTA DE BEBIDAS ALCOHÓLICAS Y CERVEZA.- Son establecimient
 
 III. CENTROS O CLUBES SOCIALES.- Los centros sociales son establecimientos que se utilizan para eventos sociales; y los clubes sociales son aquellos a los que sólo tienen acceso los socios e invitados, y en ocasiones cuentan con servicio de restaurante, bar o ambos y expenden bebidas alcohólicas y/o cerveza.
 
-IV. CENTROS DEPORTIVOS O RECREATIVOS.- Son establecimientos que ofrecen al público eventos deportivos, musicales y otros, tales como estadios deportivos, lienzos charros, plazas de toros, arenas de box y lucha libre, balnearios y otros, en los cuales pueden vender cerveza en recipientes de plástico o material similar.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+IV. CENTROS DEPORTIVOS O RECREATIVOS.- Son establecimientos que ofrecen al público eventos deportivos, musicales y otros, tales como estadios deportivos, lienzos charros, plazas de toros, arenas de box y lucha libre, balnearios y otros, en los cuales pueden vender cerveza en recipientes que no sean de vidrio.
 
 V. CABARET.- Establecimientos en donde se presentan espectáculos exclusivamente para adultos, en donde se expenden bebidas alcohólicas y/o cerveza en envase abierto o al copeo; pueden contar con espacios destinados para bailar, servicio de restaurante, música en vivo o grabada, siendo permitidos los espectáculos que impliquen la desnudez corporal. En este tipo de establecimientos se prohibe la instalación de áreas destinadas a la realización u ofrecimiento de espectáculos individuales o privados.
 
@@ -551,9 +559,29 @@ IX. Que no haya sido sancionado, durante el último año, por actos relacionados
 
 En razón de las festividades regionales; ferias o verbenas, eventos especiales u ocasionales, corresponderá al R. Ayuntamiento otorgar permisos especiales para la venta de bebidas alcohólicas y/o cerveza en los lugares previamente señalados en donde se lleven a cabo esos eventos y durante el tiempo especificado en el permiso que no podrá exceder de 30 días naturales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, 5 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO IV. DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS DUEÑOS, TITULARES, ADMINISTRADORES, EMPLEADOS, ENCARGADOS Y REPRESENTANTES DE LOS ESTABLECIMIENTOS
+### CAPITULO IV. DE LOS DERECHOS, OBLIGACIONES Y PROHIBICIONES DE LOS DUEÑOS, TITULARES, ADMINISTRADORES, EMPLEADOS, ENCARGADOS Y REPRESENTANTES DE LOS ESTABLECIMIENTOS
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 17 BIS.- En la visita de verificación, el visitado o persona con quien se entienda dicha diligencia tiene los siguientes derechos:
+
+I. Exigir que el inspector se identifique con la credencial vigente expedida por la Dirección de Inspección y Vigilancia.
+
+II. Acompañar al inspector en el desarrollo de la visita de inspección o supervisión.
+
+III. Negar el acceso del inspector al establecimiento de que se trate y solicitar la intervención del Ministerio Público en caso de no confirmar la identidad del inspector.
+
+IV. Designar a dos testigos a fin de que se encuentren presentes durante el desarrollo de la visita de inspección o supervisión.
+
+V. Formular las observaciones y aclaraciones que considere pertinentes, a fin de que las mismas sean incluidas en el Acta que se levante al efecto.
+
+VI. Exigir que se le entregue copia de la orden de visita de inspección, así como del acta que se levante con motivo de la misma.
+
+VII. Presentar, en el momento procesal oportuno, la documentación o medios de convicción que considere convenientes para desvirtuar las presuntas irregularidades detectadas.
+
+VIII. Los demás que se contemplen en el presente Ordenamiento y legislación aplicable.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2004)</small>
 
@@ -573,7 +601,9 @@ IV. Contar con instalaciones higiénicas, adecuadas y seguras según el giro, de
 
 V. Cerciorarse de que las bebidas que expenden, cuentan con la debida autorización de la autoridad competente, para su venta y consumo; igualmente, deberá servir el tipo y marca de bebida acordado con el cliente.
 
-VI. Cumplir con el horario a que se refiere el presente ordenamiento. En el exterior de todos los establecimientos donde se vendan bebidas alcohólicas y/o cerveza, deberán colocarse anuncios donde aparezca el horario de su venta.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+VI. Cumplir con el horario a que se refiere el presente ordenamiento.
 
 VII. Permitir el libre acceso a las autoridades encargadas de la inspección y vigilancia de los establecimientos conforme a las disposiciones de este Reglamento y demás normas aplicables, esto en ejercicio de sus funciones y previa identificación oficial expedida en términos de Ley.
 
@@ -607,9 +637,9 @@ XVIII. Los titulares de las licencias de bares, cabarets, discotecas, rodeo disc
 
 XIX. Solicitar la acreditación de la mayoría de edad a aquellas personas que pretendan ingerir o adquirir bebidas alcohólica (sic). Para efectos de acreditar la mayoría de edad, en relación con la venta, la compra, el expendio o el consumo de bebidas alcohólicas, únicamente se considerarán validos la credencial para votar con fotografía o el pasaporte.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XX. Colocar en un lugar visible el cartel oficial emitido por la Secretaría del (sic) Salud del Estado y/o Ayuntamiento de Monterrey que contenga al menos la leyenda “El consumo abusivo de alcohol puede producir adicciones y graves problemas de salud”.
+XX. Colocar en un lugar visible el cartel oficial emitido por la Secretaría de Salud del Estado y/o Ayuntamiento de Monterrey que contenga al menos la leyenda “El consumo abusivo de alcohol puede producir adicciones y graves problemas de salud”, así como colocar en el exterior de todos los establecimientos donde se vendan bebidas alcohólicas y/o cerveza, anuncios donde aparezca el horario de su venta.
 
 > <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
 
@@ -623,9 +653,13 @@ XXII. Conservar en el domicilio legal, en original o copia certificada, los docu
 
 XXIII. Informar a los administradores, empleados, encargados y representantes del establecimiento del contenido del presente Reglamento, de la Ley y demás disposiciones aplicables y de las sanciones a que se hace acreedor quien incurre en violación de las mismas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXIV. Las demás que fije este Ordenamiento, la Ley y demás disposiciones jurídicas aplicables.
+XXIV. No implementar ni publicitar sistemas de venta, consumo o expendio con descuento en precio, con excepción de las ventas realizadas por distribuidores sólo a establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos.
+
+> <small>(ADICIONADA, 5 DE DICIEMBRE DE 2007)</small>
+
+XXV. Las demás que fije este Ordenamiento, la Ley y demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 19.
 
@@ -653,13 +687,17 @@ e. Personas que porten ostensiblemente armas.
 
 II. Permitir la entrada a menores de edad, a los establecimientos descritos en las fracciones V, VI, VII, VIII, IX, X, XI, XII y XIII del artículo 16, en la inteligencia de que por lo que se refiere a los establecimientos descritos en la fracción X y XIII del artículo ya mencionado, únicamente se admitirán la entrada de menores acompañados de sus padres o tutores.
 
-III. Permitir juegos de azar y el cruce de apuestas en el interior del establecimiento, excepto en los casos en que se cuente con el permiso correspondiente.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+III. Permitir juegos de azar y el cruce de apuestas en el interior del establecimiento, así como presentar espectáculos de peleas de perros, gallos y similares, excepto en los casos en que se cuente con el permiso correspondiente.
 
 (REFORMADA, P.O. 7 DE ABRIL DE 2004) (F. DE E., P.O. 7 DE MAYO DE 2004)
 
 IV. Alterar, contaminar o adulterar las bebidas alcohólicas y/o cerveza, para su venta, expendio o consumo.
 
-V. Comercializar bebidas que contengan una proporción mayor al 55% de alcohol en volumen.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+V. Comercializar bebidas que contengan una proporción mayor al 55% de alcohol en volumen, así como bebidas preparadas en las que se mezclen bebidas alcohólicas o cerveza con alguna bebida energizante que contenga taurina, cafeína y glucoronolactona o alguna sustancia similar.
 
 VI. En todos los giros en los que se vendan bebidas alcohólicas queda prohibido la modalidad comercial de Barra Libre, entendiéndose por Barra Libre a la modalidad a través de la cual los usuarios, por medio de un único pago, tienen derecho al consumo ilimitado de bebidas alcohólicas.
 
@@ -667,9 +705,11 @@ VII. Emplear a menores de edad en los negocios a que se refieren las fracciones 
 
 VIII. Preparar o mezclar bebidas alcohólicas en todas sus presentaciones, para su venta a través del sistema de servicio para llevar a transeúntes y/o automovilistas.
 
-IX. Vender bebidas tropicales y otras con contenido alcohólico preparadas para llevar.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+IX. Vender bebidas alcohólicas para llevar.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 X. Ofrecer, vender, comercializar o consumir bebidas alcohólicas y/o cerveza en la vía y lugares públicos, así como en los comercios ambulantes, fijo, semifijo, pulgas, tianguis, mercados, mercados rodantes y similares, cuando no cuenten con el permiso especial correspondiente.
 
@@ -705,9 +745,9 @@ XXII. Con excepción de los establecimientos a que se refiere la fracción V del
 
 XXIII. Permitir la celebración de actos sexuales en el interior de los establecimientos.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXIV. Llevar a cabo sistemas de venta, consumo o expendio con descuento en precio, con excepción de los descuentos, realizados por distribuidores solo a establecimientos autorizados.
+XXIV. Publicitar o llevar a cabo sistemas de venta, consumo o expendio con descuento en precio, con excepción de lo dispuesto en el artículo 18 fracción XXIV de este Reglamento.
 
 > <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
 
@@ -717,9 +757,13 @@ XXV. Los concursos, promociones o cualquier tipo de ofertas o prácticas comerci
 
 XXVI. El expendio o la venta de bebidas alcohólicas en las instituciones educativas, en los centros de readaptación social, instalaciones de gobierno de cualquier nivel, instituciones de beneficencia, hospitales, sanatorios y similares.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXVII. Las demás que señalen las Leyes u Ordenamientos.
+XXVII. Ofrecer o entregar, por sí o por interpósita persona, dinero, objetos o servicios a los inspectores adscritos a la Dirección de Inspección y Vigilancia.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XXVIII. Las demás que señalen las Leyes u Ordenamientos.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
 
@@ -747,7 +791,17 @@ IV. Los domingos, de las 0:00 a las 2:00 horas y de las 9:00 a las 18:00 horas, 
 
 El horario a que se refiere este artículo no será aplicable a quienes vendan y distribuyan bebidas alcohólicas directamente a mayoristas y detallistas; siempre y cuando fuera del horario referido, se evite la venta al público en general en los establecimientos.
 
-Fuera del horario establecido, dichos establecimientos deberán permanecer cerrados, a excepción de aquellos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos; hoteles; supermercados, tiendas de abarrotes, autoservicio y de conveniencia que operen las 24 horas; centros nocturnos y lugares públicos de reunión con variedad artística y similares; así como los establecimientos contratados para festejos privados, en los cuales los invitados no paguen entrada ni consumo. En estos casos de excepción, los establecimientos podrán permanecer abiertos, pero no podrán vender o expender bebidas alcohólicas fuera del horario que dispone este Artículo.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+Fuera del horario establecido, dichos establecimientos deberán permanecer cerrados, a excepción de aquellos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos; hoteles; supermercados, tiendas de abarrotes, autoservicio y de conveniencia que operen las 24 horas; centros nocturnos y lugares públicos de reunión con variedad artística y similares; así como los establecimientos contratados para festejos privados, en los cuales los invitados no paguen entrada ni consumo. En estos casos de excepción, los establecimientos podrán permanecer abiertos, pero no podrán vender, expender o permitir el consumo de bebidas alcohólicas fuera del horario que dispone este Artículo.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+La Autoridad Municipal llevará un registro de los establecimientos que deberán estar cerrados y de los que se encuentran exceptuados de tal supuesto en los términos de esta disposición.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+Los dueños, encargados o empleados de los establecimientos, en forma preventiva, deberán tomar las medidas pertinentes para que al término del horario establecido en las fracciones I a la IV del presente artículo, hayan sido retiradas las bebidas alcohólicas a los clientes y, en los casos que proceda, hayan sido desalojados éstos del establecimiento.
 
 Lo determinado en el presente precepto se aplicará sin perjuicio de lo dispuesto por otras disposiciones legales.
 
@@ -765,9 +819,11 @@ Cuando se celebre un espectáculo público colectivo en el cual se permita la ve
 
 Los días de cierre obligatorio serán los que determinen las Leyes Federales o Estatales. El Presidente Municipal queda facultado para decretar días u horas de no venta o consumo, en su caso, con aviso previo de 24 horas a través de los medios de comunicación masivos.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 25.
 
-El R. Ayuntamiento podrá acordar la ampliación o disminución temporal de los horarios establecidos en este Reglamento cuando existan eventos o situaciones especiales en la ciudad que a su consideración lo ameriten.
+El R. Ayuntamiento podrá acordar la disminución temporal de los horarios establecidos en este Reglamento cuando existan eventos o situaciones especiales en la ciudad que a su consideración lo ameriten.
 
 ### CAPITULO VI. DE LA CONSULTA VECINAL
 
@@ -821,17 +877,21 @@ e).- Monto de la inversión.
 
 f).- Números de empleados.
 
-II. Licencia de uso de suelo.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+II. Licencia de uso de edificación.
 
 III. Copia de la credencial de elector del solicitante si es persona física o acta constitutiva, si se trata de una persona moral.
 
 IV. Constancia de estar al corriente en el pago de impuesto predial.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-V. Constancia Sanitaria expedida por la Autoridad Estatal de Salud o Dependencia que corresponda, en el caso de nuevos establecimientos o cambios de domicilio o giro en los casos que se mencionan en el artículo 16 del presente Ordenamiento.
+V. Constancia sanitaria de aviso debidamente sellada por la Autoridad Estatal de Salud o Dependencia que corresponda, en el caso de nuevos establecimientos o cambios de domicilio o giro en los casos que se mencionan en el artículo 16 del presente ordenamiento.
 
-VI. Anexar croquis o plano en el cual se indique la ubicación y la distancia del establecimiento, con respecto a Escuelas de Educación Básica, Iglesias o Templos, Centros de Salud, Hospitales y de giros iguales al solicitado.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+VI. Anexar croquis o plano en el cual se indique la ubicación y la distancia del establecimiento, con respecto a instituciones educativas, Iglesias o Templos, Centros de Salud, Hospitales y de giros iguales al solicitado, a excepción de lo dispuesto en el artículo 20 del presente Ordenamiento.
 
 VII. Constancia de consulta de vecinos en los términos establecidos en el artículo 26 del presente ordenamiento.
 
@@ -841,7 +901,9 @@ IX. Acreditar que el inmueble donde se está solicitando la autorización de la 
 
 X. Acreditar la personalidad.
 
-XI. En los giros señalados en los artículos 15 fracción VIII y 16 se requerirá al solicitante acompañe un dictamen de factibilidad de operación emitido por la dependencia competente de Protección Civil en el que conste que reúne las condiciones de seguridad necesarias para operar con el giro solicitado.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XI. Acompañar dictamen de factibilidad emitido por la Dirección de Protección Civil, en el que conste que el establecimiento reúne las condiciones de seguridad necesarias para operar con el giro solicitado, a excepción de los supuestos contenidos en el artículo 15 fracciones V y VI.
 
 XII. Ser independiente de cualquier otro local o casa-habitación.
 
@@ -849,13 +911,17 @@ XII. Ser independiente de cualquier otro local o casa-habitación.
 
 XIII. Encontrarse el establecimiento en condiciones materiales adecuadas para brindar el servicio con el giro solicitado en términos de los artículos 15 y 16 del presente Ordenamiento, a más tardar a la realización de la inspección a que se refiere el artículo 29 de este Reglamento.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XIV. Carta de no antecedentes penales cuando se trate de personas físicas.
+XIV. Carta de no antecedentes penales cuando se trate de personas físicas y de los socios cuando se trate de personas morales.
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XV. Los demás que de manera expresa establezca el presente Reglamento.
+XV. Constancia que acredite el alta ante la Secretaría de Hacienda y Crédito Público, ya sea cómo persona física o moral.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XVI. Los demás que de manera expresa establezca el presente Reglamento.
 
 En caso de ser extranjero el solicitante deberá anexar documentación con la cual compruebe estar autorizado por la Secretaría de Gobernación para dedicarse a actividades remuneradas en el País.
 
@@ -865,7 +931,9 @@ El solicitante deberá presentar el original y una fotocopia de la solicitud y d
 
 Toda información deberá ser formulada bajo protesta de decir verdad y los trámites deberán realizarse por el interesado o su representante legal, debidamente acreditado.
 
-No se dará trámite alguno a las solicitudes de licencia que no reúnan los requisitos señalados.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+No se iniciará el trámite de las solicitudes de licencia que no reúnan la totalidad de los requisitos señalados en el presente numeral. Si una vez iniciado el trámite correspondiente, la Dirección de Inspección y Vigilancia detecta algún documento faltante o necesario para la integración del expediente, prevendrá al solicitante a fin de que en un plazo que no exceda de 30 días naturales, cumpla con dicha prevención. El plazo antes referido sólo podrá ser prorrogado por causa justificada. En caso de no cumplir con los requisitos exigidos por este Reglamento dentro del plazo concedido, se tendrá por no presentada la solicitud correspondiente.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1057,6 +1125,10 @@ II. Efectuar el pago por refrendo que prevé la Ley de Hacienda para los Municip
 
 II. Comprobar que tanto la licencia como el inmueble donde se localice el establecimiento que acredita dicha licencia a refrendar, no guarden adeudos con la Hacienda Pública Municipal sobre cualquier contribución, como lo son los impuestos, derechos, productos y/o aprovechamientos, o en caso de guardar adeudo, que demuestren el haber realizado un convenio con la Tesorería Municipal para efecto de prorrogar el pago de dicho adeudo o cubrirlo en parcialidades, siempre y cuando se esté al corriente en el cumplimiento de dicho convenio.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+En caso de que el expediente de que se trate se encuentre incompleto, para otorgar el refrendo correspondiente se requerirá al solicitante la constancia que acredite su personalidad, así como la documentación que acredite su alta ante la Secretaría de Hacienda y Crédito Público, ya sea como persona física o moral, pudiéndose otorgar una prórroga en el plazo concedido para el refrendo a fin de cumplir con la presentación de la referida documentación.
+
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 43.
@@ -1069,11 +1141,11 @@ Cubiertos los requisitos del artículo anterior, la Tesorería Municipal expedir
 
 No procederá la aceptación del pago de refrendo del establecimiento, si no se presenta por el interesado la licencia de funcionamiento y/o copia certificada de la misma y no se comprueba por aquel lo señalado en las fracciones II y III del artículo 42 de presente Ordenamiento.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 45.
 
-Las Licencias que no hayan sido refrendadas dentro del plazo a que se refiere el artículo 18 fracción XVI deberán ser revocadas a solicitud expresa de la Tesorería Municipal, dirigida a la Comisión de Alcoholes y Espectáculos para que presente dictamen al R. Ayuntamiento, para que resuelva lo conducente.
+Las Licencias que no hayan sido refrendadas dentro del plazo a que se refiere el artículo 18 fracción XVI deberán ser revocadas a solicitud expresa de la Tesorería Municipal, dirigida a la Comisión de Espectáculos y Alcoholes para que presente dictamen al R. Ayuntamiento, para que resuelva lo conducente.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
 
@@ -1116,6 +1188,10 @@ I.- Para cambio de domicilio:
 a) Reunir los requisitos señalados en el artículo 28 de este Reglamento.
 
 b) Hacer la entrega de la licencia original o, en su caso la denuncia de robo ante las autoridades competentes, o la manifestación bajo protesta de decir verdad, pasada ante la fe notarial del extravió de la licencia.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+c) Entregar la constancia de consulta de vecinos del nuevo domicilio, en los términos establecidos en el artículo 26 del presente Reglamento.
 
 II.- Para cambio de giro:
 
@@ -1207,41 +1283,161 @@ El titular de la Secretaría del R. Ayuntamiento entregará al solicitante la nu
 
 Es facultad del titular de la Secretaría del R. Ayuntamiento llevar a efecto la vigilancia e inspección sobre el cumplimiento del presente ordenamiento, a través de la Dirección de Inspección y Vigilancia e Inspectores adscritos a dicha dependencia.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 53.
 
-La Secretaría del R. Ayuntamiento, podrá ordenar visitas de inspección, a fin de verificar el cumplimiento que se dé al presente ordenamiento, así como notificar la imposición de las sanciones decretadas por la Autoridad competente y levantar las actas circunstanciadas respectivas, lo cual se hará por conducto de los inspectores adscritos a dicha Dependencia, o del funcionario a quien para tal efecto se comisione, cumpliendo con los requisitos de los Artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos y sus correlativos de la Constitución Estatal; en la orden de visita deberá expresarse cuando menos lo siguiente: El lugar sujeto a inspección y el objeto de la misma; indicando que ésta podrá entenderse con el propietario, encargado o representante legal, previa identificación oficial de quien realice la inspección.
+La Secretaría del R. Ayuntamiento, a través de la Dirección de Inspección y Vigilancia, podrá ordenar visitas de inspección, a fin de verificar el cumplimiento que se dé al presente ordenamiento, así como notificar la imposición de las sanciones decretadas por la Autoridad competente y levantar las actas circunstanciadas respectivas, lo cual se hará por conducto de los inspectores adscritos a dicha Dependencia, o del funcionario a quien para tal efecto se comisione, cumpliendo con los requisitos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos y sus correlativos de la Constitución Estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 53 BIS.- Toda visita de verificación deberá ser realizada por orden escrita emitida por la Dirección de Inspección y Vigilancia, la cual deberá contener como mínimo lo siguiente:
+
+I. Lugar y fecha de expedición.
+
+II. Número de expediente que se le asigne.
+
+III. Domicilio o ubicación del establecimiento en el que se desahogará la visita de inspección.
+
+IV. Objeto y alcance de la visita de inspección.
+
+V. Cita de las disposiciones legales que la fundamenten.
+
+VI. Nombre del inspector que habrá de realizar la visita, así como su número de credencial oficial.
+
+VII. Nombre y firma autógrafa del titular de la Dirección de Inspección y Vigilancia.
+
+VIII. Autoridad a la que se debe dirigir el visitado a fin de presentar el escrito de observaciones a que se refiere el presente Ordenamiento.
+
+IX. El apercibimiento de que impedir la visita de inspección constituye una infracción al presente Reglamento.
 
 ###### ARTICULO 54.
 
 Dada la naturaleza y búsqueda de protección del orden social y bien público de este Reglamento, para la labor de inspección y aplicación de sanciones, se consideran hábiles las 24 horas de todos los días del año.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 55.
 
 En las actas que se levanten con motivo de una visita de inspección se hará constar, por lo menos lo siguiente:
 
-I. Hora, día, mes y año en que se practicó la visita.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-II. Objeto de la visita.
+I. Lugar, fecha y hora del inicio de la visita de inspección.
 
-III. Fecha del acuerdo en que se ordena la inspección, autoridad que lo emite, así como la identificación del inspector o funcionario que la realiza.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-IV. Ubicación física del establecimiento o de las instalaciones donde se prestan los servicios que sean objeto de la inspección, la que incluirá calle, número, colonia y población.
+II. Nombre del inspector que realiza la visita de inspección.
 
-V. Nombre y en su caso carácter o personalidad jurídica de la persona con quien se entendió la visita de inspección.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-VI. Nombre y firma de las personas designadas o que hayan intervenido como testigos.
+III. Número, fecha de expedición y fecha de vencimiento de la credencial oficial del inspector.
 
-VII. Síntesis descriptiva de la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-VIII. Manifestación de la persona con quien se entendió la visita o su negativa de hacerla.
+IV. Fecha y número de expediente y folio de la orden de visita de inspección emitida.
 
-IX. Fecha para la celebración de la audiencia de pruebas y alegatos a la que se cite al interesado a fin de desvirtuar los hechos contenidos en el acta levantada, previo a su calificación.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+V. Domicilio del establecimiento sujeto a la visita de inspección.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+VI. El nombre y firma de la persona con quien se entienda la diligencia, el carácter con que se ostenta, así como la descripción de los documentos con que acredite su personalidad y su cargo, debiéndose asentar, en su caso, la razón que manifestó la persona para negarse a firmar el acta.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+VII. El requerimiento a la persona con quien se entienda la diligencia para que designe testigos, y que en caso de negativa, éstos serán nombrados por el inspector.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+VIII. El nombre y firma de los testigos designados, así como la descripción de los documentos con que acrediten su personalidad.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+IX. El requerimiento hecho al visitado a fin de que exhiba los documentos que se le soliciten, así como para que permita el acceso al lugar o lugares objeto de la inspección.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+X. La descripción de los hechos, objetos, lugares y circunstancias que se observen.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XI. Cuando el objeto de la inspección así lo requiera, la descripción y cantidad de los materiales o sustancias que se hayan tomado como muestra para los análisis respectivos, así como la mención de los instrumentos utilizados para la medición.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XII. La descripción de los documentos que exhiba la persona con quien se entienda la diligencia, y en su caso, hacer constar que se anexa copia de los mismos al acta de inspección.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XIII. Los incidentes que surjan durante la visita de inspección.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XIV. Las declaraciones, observaciones y demás manifestaciones que formule la persona con quien se entendió la diligencia, y en su caso, la negativa a hacerlo.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XV. El aviso de que el visitado cuenta con cinco días hábiles para hacer las observaciones que estime pertinentes respecto de la visita de inspección, así como la autoridad ante quien puede formularlas.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XVI. La fecha para la celebración de la audiencia de pruebas y alegatos a la que se cite al interesado, a fin de que manifieste lo que a su derecho convenga.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XVII. La hora y fecha de la conclusión de la visita de inspección.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XVIII. Nombre y firma del inspector y demás personas que intervengan en la visita de inspección, debiéndose asentar las razones por las que se nieguen a firmar.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XIX. La Autoridad competente para calificar el acta de visita de inspección.
 
 Una vez elaborada el acta, el inspector proporcionará copia de la misma a la persona con quien se entendió la visita, aún en el caso de que ésta se hubiera negado a firmarla, hecho que no desvirtuará su valor probatorio.
 
 Quienes realicen la inspección, por ningún motivo podrán imponer las sanciones a que se refiere este ordenamiento, debiendo remitirse copia de la misma al Titular de la Dirección de Inspección y Vigilancia para los efectos legales conducentes.
 
-Los inspectores podrán solicitar el auxilio de la fuerza pública para hacer respetar y exigir el cumplimiento de este Reglamento.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+Los inspectores podrán solicitar el auxilio de la fuerza pública en caso de considerarlo necesario para el cumplimiento de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+Los inspectores que no elaboren el acta de inspección de acuerdo a las reglas establecidas en este reglamento, serán sujetos al procedimiento de responsabilidad administrativa que corresponda conforme a la legislación aplicable.
+
+(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007
+
+ARTICULO 55 BIS.- Si el inspector, al constituirse en el domicilio o ubicación del establecimiento en que deba realizar la visita de inspección lo encuentra cerrado o no hay persona con quien entender la visita, fijará en lugar visible del establecimiento, citatorio por instructivo que deberá contener los siguientes requisitos:
+
+I. Domicilio donde se deba realizar la visita de inspección.
+
+II. Datos de la Autoridad que ordena la visita de inspección.
+
+III. Número de folio de la orden de visita de inspección y número del expediente respectivo.
+
+IV. Objeto y alcance de la visita de inspección.
+
+V. Fecha y hora en que el inspector se presentó en el establecimiento de que se trate.
+
+VI. Fecha y hora en que habrá de practicarse la visita de inspección al día hábil siguiente.
+
+VII. Apercibimiento al visitado, de que de no acatarse el citatorio, se levantará el acta con el resultado de la inspección ocular que realice el inspector con la presencia de dos testigos.
+
+VIII. Apercibimiento al visitado de que en caso de que por cualquier medio, impida o trate de impedir la visita de inspección, podrá hacerse uso de la fuerza pública para llevarla a cabo.
+
+IX. Nombre, firma y número de credencial oficial del inspector que elabore el citatorio.
+
+X. Nombre y firma de dos testigos.
+
+Si el día y hora fijados en el citatorio para realizar la visita de inspección, el establecimiento estuviera cerrado o no hubiere persona con quien entender la diligencia, el inspector levantará acta circunstanciada en presencia de dos testigos, atendiendo los requisitos señalados en el artículo 55 del presente Reglamento que resulten aplicables, dejando en lugar visible del establecimiento, copia de la orden de visita y del acta levantada.
+
+En caso de que el inspector detecte la existencia de circunstancias que impliquen un peligro para la seguridad del establecimiento, la integridad de las personas o de sus bienes, la seguridad pública o la salud en general, avisará de inmediato a su superior jerárquico para que éste adopte las medidas de seguridad que resulten procedentes.
+
+La autoridad competente podrá realizar visitas de inspección de carácter complementario, con el fin de cerciorarse de que el visitado ha subsanado las irregularidades administrativas que se le hubiesen detectado, debiendo observarse en todo momento las formalidades de las visitas de inspección.
 
 ### CAPITULO XII. SANCIONES
 
@@ -1259,21 +1455,41 @@ Corresponde al R. Ayuntamiento determinar la revocación de las licencias o perm
 
 I. Cuando la operación del negocio o establecimiento afecte el bienestar social de la comunidad o el interés general.
 
-II. Por intentar vender, ceder, prestar, arrendar, gravar, permutar, transferir las licencias o los permisos, así como otorgar poder para la operación de ésta, sin que lo haya autorizado previamente el R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-III. Cuando se decrete la clausura definitiva.
+II. Por vender, ceder, prestar, arrendar, gravar, permutar, transferir las licencias o los permisos, así como otorgar poder para la operación de ésta, sin que lo haya autorizado previamente el R. Ayuntamiento.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-IV. Cuando se viole lo establecido en el artículo 19 fracción I inciso a y (sic).
+III. Por intentar llevar a cabo cualquiera de los actos mencionados en la fracción II de este artículo.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-V. En los demás supuestos que señala el presente Ordenamiento.
+IV. Cuando se decrete la clausura definitiva.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-VI. Cuando se vendan drogas, enervantes y psicotrópicos.
+V. Cuando se incumpla con el pago del refrendo en los términos establecidos en el presente Reglamento.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+VI. Cuando dentro del establecimiento se vendan drogas, enervantes y psicotrópicos.
+
+(ADICIONA, P.O. 5 DE DICIEMBRE DE 2007)
+
+VII. En los demás supuestos que señala el presente Ordenamiento.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+Para el caso de lo dispuesto en las fracciones I, II, IV, V y VI del presente artículo, la revocación de la licencia o permiso especial se sujetará al procedimiento siguiente:
+
+a) Acreditada por la Autoridad competente cualquiera de las hipótesis antes mencionadas, se procederá a notificar al establecimiento en cuestión, a fin de hacer de su conocimiento el inicio del procedimiento de revocación de la licencia o permiso especial.
+
+b) En la misma diligencia, se citará al interesado para una audiencia de pruebas y alegatos en la que manifieste lo que a su derecho convenga y ofrezca pruebas, misma que deberá celebrarse dentro de los siguientes 5 días hábiles. Dicha audiencia y procedimiento se llevará a cabo conforme a lo establecido en el artículo 68 bis del presente Reglamento, para los efectos conducentes.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+El procedimiento a que se refiere este artículo concluirá con la determinación del R. Ayuntamiento respecto de la procedencia o improcedencia de la revocación de la licencia o permiso especial, con los efectos jurídicos conducentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1287,9 +1503,9 @@ I. Multa.
 
 II. Clausura temporal del establecimiento de 24 o 72 horas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-III. Clausura definitiva del establecimiento por un término de 7 o 15 días.
+III. Clausura temporal del establecimiento por un término de 5, 7 ó 15 días.
 
 > <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
 
@@ -1379,115 +1595,131 @@ XXI. Por incumplimiento de lo establecido en la fracción XXI del artículo 18 d
 
 XXII. Por incumplimiento de lo establecido en la fracción XXII del artículo 18 de 50 a 200 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXIII. Por incumplimiento de lo establecido en la fracción I del artículo 19 a) sic) de 350 a 2,500 cuotas. Por incumplimiento de los establecido en las fracciones b), c), d), y e) de 250 a 1,500 cuotas.
+XXIII. Por incumplimiento de lo establecido en la fracción XXIV del artículo 18 de 500 a 2500 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXIV. Por incumplimiento de lo establecido en la fracción II del artículo 19 de 100 a 300 cuotas.
+XXIV. Por incumplimiento de lo establecido en la fracción I inciso a) del artículo 19 de 300 a 2,500 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXV. Por incumplimiento de lo establecido en la fracción III del artículo 19 de 60 a 250 cuotas.
+XXV. Por incumplimiento de lo establecido en la fracciones b), c), d), o e) de la fracción I del artículo 19 de 250 a 1,500 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXVI. Por incumplimiento de lo establecido en la fracción IV del artículo 19 de 250 a 1,500 cuotas.
+XXVI. Por incumplimiento de lo establecido en la fracción II del artículo 19 de 100 a 300 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXVII. Por incumplimiento de lo establecido en la fracción V del artículo 19 de 250 a 2,000 cuotas.
+XXVII. Por incumplimiento de lo establecido en la fracción III del artículo 19 de 60 a 250 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXVIII. Por incumplimiento de lo establecido en la fracción VI del artículo 19 de 250 a 2,000 cuotas.
+XXVIII. Por incumplimiento de lo establecido en la fracción IV del artículo 19 de 250 a 1,500 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXIX. Por incumplimiento de lo establecido en la fracción VII del artículo 19 de 100 a 300 cuotas.
+XXIX. Por incumplimiento de lo establecido en la fracción V del artículo 19 de 250 a 2,000 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXX. Por incumplimiento de lo establecido en la fracción VIII del artículo 19 de 100 a 250 cuotas.
+XXX. Por incumplimiento de lo establecido en la fracción VI del artículo 19 de 250 a 2,000 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXI. Por incumplimiento de lo establecido en la fracción IX del artículo 19 de 100 a 250 cuotas.
+XXXI. Por incumplimiento de lo establecido en la fracción VII del artículo 19 de 100 a 300 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXII. Por incumplimiento de lo establecido en la fracción X del artículo 19 de 20 a 100 cuotas.
+XXXII. Por incumplimiento de lo establecido en la fracción VIII del artículo 19 de 100 a 250 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXIII. Por incumplimiento de lo establecido en la fracción XI del artículo 19 de 60 a 150 cuotas.
+XXXIII. Por incumplimiento de lo establecido en la fracción IX del artículo 19 de 100 a 250 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXIV. Por incumplimiento de lo establecido en la fracción XII del artículo 19 de 350 a 500 cuotas.
+XXXIV. Por incumplimiento de lo establecido en la fracción X del artículo 19 de 20 a 100 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXV. Por incumplimiento de lo establecido en la fracción XIII del artículo 19 de 60 a 250 cuotas.
+XXXV. Por incumplimiento de lo establecido en la fracción XI del artículo 19 de 60 a 150 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXVI. Por incumplimiento de lo establecido en la fracción XIV del artículo 19 de 40 a 300 cuotas.
+XXXVI. Por incumplimiento de lo establecido en la fracción XII del artículo 19 de 350 a 500 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXVII. Por incumplimiento de lo establecido en la fracción XV del artículo 19 de 100 a 300 cuotas.
+XXXVII. Por incumplimiento de lo establecido en la fracción XIII del artículo 19 de 60 a 250 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXVIII. Por incumplimiento de lo establecido en la fracción XVI del artículo 19 de 100 a 300 cuotas.
+XXXVIII. Por incumplimiento de lo establecido en la fracción XIV del artículo 19 de 40 a 300 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXIX. Por incumplimiento de lo establecido en la fracción XVII del artículo 19 de 40 a 250 cuotas.
+XXXIX. Por incumplimiento de lo establecido en la fracción XV del artículo 19 de 100 a 300 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XL. Por incumplimiento de lo establecido en la fracción XVIII del artículo 19 de 40 a 250 cuotas.
+XL. Por incumplimiento de lo establecido en la fracción XVI del artículo 19 de 100 a 300 cuotas.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLI. Por incumplimiento de lo establecido en la fracción XIX del artículo 19 de 40 a 250 cuotas.
+XLI. Por incumplimiento de lo establecido en la fracción XVII del artículo 19 de 40 a 250 cuotas.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLII. Por incumplimiento de lo establecido en la fracción XX del artículo 19 de 40 a 150 cuotas.
+XLII. Por incumplimiento de lo establecido en la fracción XVIII del artículo 19 de 40 a 250 cuotas.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLIII. Por incumplimiento de lo establecido en la fracción XXI del artículo 19 de 100 a 300 cuotas.
+XLIII. Por incumplimiento de lo establecido en la fracción XIX del artículo 19 de 40 a 250 cuotas.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLIV. Por incumplimiento de lo establecido en la fracción XXII del artículo 19 de 100 a 300 cuotas.
+XLIV. Por incumplimiento de lo establecido en la fracción XX del artículo 19 de 40 a 150 cuotas.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLV. Por incumplimiento de lo establecido en la fracción XXIII del artículo 19 de 100 a 300 cuotas.
+XLV. Por incumplimiento de lo establecido en la fracción XXI del artículo 19 de 100 a 300 cuotas.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLVI. Por incumplimiento de lo establecido en la fracción XXIV del artículo 19 de 250 a 1,500 cuotas.
+XLVI. Por incumplimiento de lo establecido en la fracción XXII del artículo 19 de 100 a 300 cuotas.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLVII. Por incumplimiento de lo establecido en la fracción XXV del artículo 19 de 350 a 2,500 cuotas.
+XLVII. Por incumplimiento de lo establecido en la fracción XXIII del artículo 19 de 100 a 300 cuotas.
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLVIII. Por incumplimiento de lo establecido en la fracción XXVI del artículo 19 de 250 a 1,500 cuotas.
+XLVIII. Por incumplimiento de lo establecido en la fracción XXIV del artículo 19 de 500 a 2,500 cuotas.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XLIX. Por incumplimiento de lo establecido en la fracción XXV del artículo 19 de 350 a 2,500 cuotas.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+L. Por incumplimiento de lo establecido en la fracción XXVI del artículo 19 de 250 a 1,500 cuotas.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+LI. Por incumplimiento de lo establecido en la fracción XXVII del artículo 19 de 250 a 1000 cuotas.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+LII. Por incumplimiento de lo establecido en el artículo 21, tercer o quinto párrafos, de 250 a 1,500 cuotas.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 62.
 
-Las contravenciones a las demás disposiciones contenidas en este Reglamento, se sancionarán con multa de 100 a 150 cuotas, o con la clausura definitiva del establecimiento o ambas.
+Las contravenciones a las demás disposiciones contenidas en este Reglamento, se sancionarán con multa de 100 a 150 cuotas.
 
 ###### ARTICULO 63.
 
@@ -1501,21 +1733,37 @@ La clausura temporal impuesta por la Autoridad competente produce la suspensión
 
 A) Procede la Clausura Temporal de 24 horas y en caso de reincidencia de 72 horas cuando:
 
-I. Se infrinja este Ordenamiento en dos y hasta tres ocasiones en un período de quince días.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+I. Se infrinja este Ordenamiento en dos o más ocasiones en un período de quince días.
 
 II. Se presenten quejas debidamente fundadas de vecinos inmediatos quienes demuestren les perjudica el funcionamiento del establecimiento; la queja debe ser presentada ante el Presidente Municipal, señalándose nombre, firma y domicilio de los vecinos.
 
-III. Por la realización de actos, dentro de los establecimientos referidos en el presente Ordenamiento, que perturben la tranquilidad social del lugar, que atenten en contra de la paz e integridad de las personas o sus intereses, o cuando se pierdan las condiciones para la sana convivencia social, aún y cuando dichos actos no lleguen a constituir delitos, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-B) Procede la Clausura temporal de 7 días, y en caso de reincidencia de 15 días en los siguientes casos:
+III. Por la realización de actos, dentro de los establecimientos referidos en el presente Ordenamiento, que perturben la tranquilidad social del lugar, que atenten en contra de la paz e integridad de las personas o sus intereses, o cuando se pierdan las condiciones para la sana convivencia social, aún y cuando dichos actos no lleguen a constituir delitos.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+B) Procede la Clausura Temporal de 5 días, cuando:
+
+I. Se infrinja en dos ocasiones lo dispuesto en el artículo 18 fracción VI de este Ordenamiento.
+
+II. Se infrinja en dos ocasiones lo dispuesto en el artículo 21 tercer párrafo o quinto párrafo de este Ordenamiento.
+
+III. Se infrinja en tres ocasiones lo dispuesto en los artículos 18 fracción XXIV ó 19 fracción XXIV de este Ordenamiento.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+C) Procede la Clausura temporal de 7 días, y en caso de reincidencia de 15 días en los siguientes casos:
 
 I. Por operar con giro distinto al autorizado.
 
-II. Por cometer infracciones de las previstas en este Ordenamiento en 5 o más ocasiones en un período de 6 meses.
+II. Por cometer infracciones de las previstas en este Ordenamiento en 4 ocasiones en un periodo de 6 meses.
 
 III. Por no permitirse el acceso a los inspectores adscritos a la Dirección de Inspección y Vigilancia a los establecimientos a que se refiere este Ordenamiento, por los propietarios, administradores y encargados de aquellos, siempre que los inspectores acudan a desarrollar las facultades que les confiere el presente Reglamento.
 
-IV. Por permitir la entrada a menores de edad a los establecimientos descritos en las fracciones V, VI, VII, VIII, IX, X, XI, XII y XIII del artículo 16, en la inteligencia de que por lo que se refiere a los establecimientos descritos en las fracciones X y XIII del artículo ya mencionado, únicamente se admitirá la entrada a menores acompañados de sus padres o tutores.
+IV. Por permitir la entrada a menores de edad a los establecimientos descritos en la fracciones V, VI, VII, VIII, IX, XI y XII del artículo 16.
 
 V. Por infringir el artículo 19 fracciones XII y XXI.
 
@@ -1529,7 +1777,9 @@ VII. En los demás casos que establezca el Reglamento.
 
 Procederá la Clausura Definitiva y revocación de la Licencia o Permiso Especial en su caso, cuando se den los siguientes supuestos:
 
-I. (DEROGADA, P.O. 7 DE ABRIL DE 2004)
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+I. Por infringir por tercera ocasión lo dispuesto en el artículo 18 fracción VI de este Ordenamiento.
 
 II. Por quebrantamiento de sellos o símbolos de clausura temporal por segunda ocasión, en cuyo caso, se podrá ordenar además el arresto del propietario, representante legal o encargado del establecimiento, hasta por 36 horas.
 
@@ -1537,9 +1787,9 @@ II. Por quebrantamiento de sellos o símbolos de clausura temporal por segunda o
 
 III. Por operar el establecimiento sin licencia o permiso especial otorgado por el R. Ayuntamiento, o permiso especial otorgado por el Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-IV. Por infringir el Artículo 19 Fracciones I, incisos a y c, XXII y XXIII.
+IV. Por infringir el Artículo 19 Fracciones I, incisos a) o c), XXII y XXIII.
 
 V. Por la comisión de los supuestos contemplados en el Artículo 49 de este reglamento.
 
@@ -1554,6 +1804,18 @@ VII. Por haber recibido más de dos Clausuras Temporales en un período menor a 
 > <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2004)</small>
 
 VIII. Cuando haya negligencia o descuido para evitar la venta de drogas, enervantes y psicotrópicos dentro del establecimiento, y así se desprenda de los hechos asentados en el Acta Circunstanciada. En este caso la autoridad procederá además de la aplicación de la sanción administrativa, proceder a presentar la denuncia ante la autoridad competente.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+IX. Por infringir por cuarta ocasión lo dispuesto en los artículos 18 fracción XXIV y 19 fracción XXIV.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+X. Por infringir por tercera ocasión lo dispuesto en el artículo 21 párrafos tercero o quinto de este Ordenamiento.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XI. Por cometer infracciones de las previstas en este Ordenamiento en 5 o más ocasiones en un período menor a un año.
 
 ###### ARTICULO 66.
 
@@ -1593,93 +1855,67 @@ La clausura temporal o clausura definitiva se impondrá cuando se presenten los 
 
 Cuando de la audiencia de pruebas y alegatos no se desprendan elementos para proceder a la calificación e imposición de sanciones, la Dirección de Inspección y Vigilancia, previa motivación del acto, dará por terminado el procedimiento sin la imposición de sanción alguna.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 68 BIS.- La clausura definitiva y revocación de la Licencia o Permiso Especial se sujetará al procedimiento siguiente:
+
+a) Realizada que sea la inspección y se encontraren infracciones que se sancionan con la clausura definitiva, el responsable de la inspección procederá a la imposición de sellos de clausura definitiva, levantando Acta Circunstanciada de los hechos y proporcionará una copia de la misma al titular de la licencia, administrador, empleado o responsable del establecimiento con quien entienda la diligencia;
+
+b) En la misma diligencia citará al interesado para una audiencia de pruebas y alegatos en la que podrá manifestar lo que a su derecho convenga, misma que deberá celebrarse dentro de los siguientes cinco días hábiles a aquel en que fuere hecha la clausura. Dicha audiencia se realizará ante la comisión revisora presidida por el titular de la Secretaría del Ayuntamiento, el titular de la Secretaría de la Contraloría Municipal o por quien ellos designen en su representación, y el Presidente de la Comisión de Espectáculos y Alcoholes en representación del R. Ayuntamiento. No podrán ser designados para efecto de representación del Titular de la Secretaría del Ayuntamiento, ningún servidor público de la Dirección de Inspección y Vigilancia. El inspector o persona responsable de la diligencia enviará a más tardar al día siguiente de aquel en que se haya realizado la clausura definitiva, el acta circunstanciada y demás documentos en que se funde y motive el acto administrativo consistente en la imposición de sellos y clausura definitiva;
+
+c) La comisión revisora en audiencia pública, analizará la documentación a que se refiere el inciso anterior y recibirá las pruebas que presenten tanto la parte agraviada como la autoridad responsable del acto administrativo de referencia, y en un solo acto de pruebas, alegatos y resolución, determinará lo conducente. La audiencia de pruebas, alegatos y resolución siendo un solo acto se celebrará con o sin la presencia de las partes, y no se admitirán más pruebas que las documentales a excepción de la documental en vía de informe que las partes aporten.
+
+A dicha audiencia podrá asistir como observador, cualquier miembro del R. Ayuntamiento que así lo solicite.
+
+d) En el caso que la resolución de la comisión confirme la sanción impuesta, se iniciará el procedimiento de revocación de la Licencia o Permiso Especial correspondiente a través de la Comisión de Espectáculos y Alcoholes del R. Ayuntamiento, para que ésta la presente en la Sesión inmediata del R. Ayuntamiento. Si la resolución fuere favorable al agraviado, el titular de la Secretaría del Ayuntamiento ordenará el levantamiento inmediato de los sellos de clausura, sin aplicar sanción alguna.
+
+e) El procedimiento a que se refiere el presente artículo concluye con la determinación del R. Ayuntamiento, respecto de la procedencia o improcedencia de la clausura definitiva y revocación de la licencia o permiso, con los efectos jurídicos conducentes.
+
+Lo anterior sin perjuicio de los recursos que establezcan las leyes y demás disposiciones jurídicas aplicables.
+
 ### CAPITULO XIII. DE LOS RECURSOS Y NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 69.
 
-Contra los actos emitidos por las Autoridades Municipales, con motivo de la aplicación del presente ordenamiento, procederá el Recurso de Inconformidad.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
-
-En el caso de Clausura Definitiva se atenderá el procedimiento previsto en el Artículo 78 BIS de este Reglamento, a fin de garantizar el derecho de audiencia del o los afectados.
+Contra cualquier acto de la Autoridad Municipal que viole el presente reglamento procederá el recurso de inconformidad, de acuerdo a lo establecido en el Reglamento que Regula el Procedimiento Único del Recurso de Inconformidad del Municipio de Monterrey.
 
 ###### ARTICULO 70.
 
-El recurso de Inconformidad tiene por objeto que la Secretaría del R. Ayuntamiento examine el acto que se reclama a fin de constatar si existe violación al respecto, pudiendo confirmarlo, modificarlo o revocarlo.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 71.
 
-El recurso de inconformidad, se interpondrá por escrito ante la Secretaría del R. Ayuntamiento, dentro de un plazo de 10 días naturales contados a partir de la fecha de la notificación o conocimiento de la resolución o acto sobre el cual versa la inconformidad.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 72.
 
-Iniciados los procedimientos, todas las notificaciones a realizar se llevarán a cabo de conformidad con lo que establece el Código de Procedimientos Civiles del Estado de Nuevo León.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 73.
 
-El recurso de Inconformidad deberá estar firmado por el interesado o por el que esté legalmente autorizado y contendrá:
-
-I. Nombre y domicilio del interesado.
-
-II. La autoridad Municipal que haya emitido el acto o resolución impugnada.
-
-III. El acto, resolución o acuerdo que se impugna.
-
-IV. La fecha de notificación o conocimiento del acto impugnado.
-
-V. Especificación del recurso que se interpone.
-
-VI. Una relación clara y sucinta de los hechos que motivan el recurso.
-
-VII. Los preceptos legales violados.
-
-VIII. Las pruebas que se ofrezcan.
-
-IX. La expresión de las razones por las cuales recurre el acto, resolución o acuerdo.
-
-X. El recurrente deberá adjuntar al recuso de inconformidad:
-
-a).- El documento que acredite su personalidad, cuando no actúe en nombre propio;
-
-b).- El documento en que conste el acto impugnado;
-
-c).- La constancia de notificación del acto impugnado; y
-
-d).- Las pruebas documentales y demás elementos de convicción que ofrezca el recurrente.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 74.
 
-Si el escrito por el cual se interpone en recurso fuera oscuro o irregular, la autoridad receptora prevendrá al recurrente, por una sola vez, a efecto de que lo aclare, corrija o complete, de acuerdo con el presente reglamento, señalándose en concreto sus defectos, con el apercibimiento de que si no cumple dentro del plazo de tres días hábiles, se tendrá por no interpuesto el recurso.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 75.
 
-Las pruebas que ofrezca el recurrente deberá relacionarlas con los hechos que motiven el recurso. Se tendrán por no ofrecidas las pruebas documentales, si éstas no se acompañan al escrito en que se interponga el recurso, y en ningún caso serán recabadas por la autoridad conocedora del recurso, salvo que obren en el expediente en que se haya originado el acto recurrido.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 76.
 
-En la substanciación del recurso se admitirán toda clase de pruebas con excepción de la testimonial y la confesional por posiciones, así como aquellas que tengan el carácter de supervinientes; en su desahogo y valoración, se aplicará supletoriamente el Código de Procedimientos Civiles vigente en el Estado de Nuevo León.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 77.
 
-La Secretaría del R. Ayuntamiento, con base en la documentación, pruebas y demás elementos existentes, dictará la resolución en un término de no mayor a 15 días hábiles, contados a partir de la fecha en que fue interpuesto, o en su caso, de aquella en que se haya cumplido por el recurrente la prevención a que se refiere el artículo 76.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 78.
 
-Es improcedente el recurso de inconformidad cuando se haga valer contra resoluciones, acuerdos o cualquier acto de autoridad:
-
-l. Que no afecten el interés jurídico del recurrente.
-
-II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias.
-
-III. Que se hayan consentido expresa o tácitamente, entendiéndose esto último, aquellos contra los que no se interpuso el recurso de inconformidad dentro del plazo señalado por este ordenamiento legal.
-
-IV. Que sean conexos a otro que haya sido impugnado por medio de algún recurso de defensa diferente.
-
-V. Que de acuerdo a las constancias de autos apareciere claramente que no existe la resolución, acuerdo o acto impugnado, y
-
-VI. Que haya sido impugnado ante una diversa Autoridad a la que emitió el acto recurrido mediante algún recurso o medio de defensa diferente.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2007)
 
 > <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2004)</small>
 
@@ -1784,3 +2020,7 @@ NOVENO.- Se envié al C. Presidente Municipal para que tenga a bien instruir al 
 P.O. 10 DE MAYO DE 2004.
 
 PRIMERO: La reforma al Reglamento que Regula las Actividades de los Establecimientos de Venta y/o Consumo de Bebidas Alcohólicas en el Municipio de Monterrey, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2007.
+
+Artículo Único.- Las reformas por Modificación, Adición, y Derogación al Reglamento que Regula las Actividades de los Establecimientos De Venta y/o Consumo de Bebidas Alcohólicas en el Municipio de Monterrey, Nuevo León y, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
