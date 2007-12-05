@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2007-01-09"
+last_updated: "2007-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE DICIEMBRE DE 2007.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -1901,9 +1901,11 @@ La Tesorería podrá nombrar interventores para vigilar el cumplimiento de las o
 
 ### CAPÍTULO VI. DE LA CONTRIBUCIÓN ADICIONAL SOBRE INGRESOS MUNICIPALES
 
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 169.
 
-Es objeto de esta contribución, la realización de pagos por concepto de impuestos, derechos y productos que establece este Código, excepto el relativo al Impuesto sobre Traslación de Dominio de Bienes Inmuebles.
+Es objeto de esta contribución la realización de pagos por concepto de impuestos, derechos y productos que establece este Código, excepto los relativos al impuesto sobre loterías, rifas, sorteos y concursos e impuesto sobre traslación de dominio de bienes inmuebles.
 
 ###### Artículo 170.
 
@@ -1919,7 +1921,9 @@ Esta contribución se causará y pagará, aplicando a la base que corresponda, l
 
 I. Siete y medio por ciento adicional sobre el impuesto predial;
 
-II. Diez por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2007)</small>
+
+II. Diez por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre juegos permitidos; sobre fraccionamientos; y
 
 III. Diez por ciento adicional sobre los derechos y productos que establece el presente Código.
 
@@ -6046,3 +6050,7 @@ CUARTO. Las contribuciones, los créditos fiscales y los procedimientos administ
 G.O. 9 DE ENERO DE 2007.
 
 Único. Este Decreto entrará en vigor a los tres días de su publicación en la Gaceta Oficial del gobierno del estado.
+
+G.O. 5 DE DICIEMBRE DE 2007.
+
+Único.- El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
