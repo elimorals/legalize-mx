@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2006-05-24"
+last_updated: "2007-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS
 
-LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS.
+LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -1903,6 +1903,40 @@ La Secretaría emitirá normas estatales con el propósito de evitar el deterior
 
 La Secretaría, con los municipios y el Consejo Consultivo Estatal de Desarrollo Sustentable determinará las zonas en la entidad que tengan un valor escénico o de paisaje y regulará y autorizará los tipos de obras o actividades que se puedan realizar con el propósito de evitar su deterioro.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 160 Bis.
+
+La contaminación visual provocada por publicidad comercial y de servicios será regulada bajo las disposiciones establecidas por cada municipio y tomando en cuenta los criterios establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 160 Ter.
+
+con (sic) el fin de evitar la contaminación visual, los municipios solo otorgaran licencias para la ubicación, instalación, distancia y colocación de anuncios o elementos visibles desde la vía pública, cuando:
+
+I.- Estén en armonía con las características de la estética e imagen urbana o conforme a las normas ambientales estatales que correspondan;
+
+II.- Se ubiquen en zonas o áreas permitidas conforme al plan de desarrollo urbano correspondiente; y
+
+III.- Se cumpla con la normatividad aplicable en materia urbanística.
+
+Queda prohibida la instalación de anuncios o elementos visibles, en los siguientes casos.
+
+I.- En áreas naturales protegidas o en zonas clasificadas como habitacionales;
+
+II.- En sitios y monumentos considerados de patrimonio histórico, arquitectónico o cultural;
+
+III.- Cuando afecten o impacten nocivamente el paisaje natural o urbano;
+
+IV.- Cuando ocasionen riesgo o peligro para la población;
+
+V.- Cuando obstruyan la visibilidad en túneles puentes, pasos a desnivel vialidades o señalamientos de tránsito; o
+
+VI.- Contravengan esta Ley u otros ordenamientos aplicables a la materia.
+
+Los municipios deberán incorporar en sus bandos de policía y gobierno y reglamentos, disposiciones que regulen obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual procurando crear una imagen armónica de los centros de población.
+
 ### CAPÍTULO I. Disposiciones generales
 
 ###### ARTÍCULO 161.
@@ -2562,3 +2596,9 @@ Se concede un término de 90 días a partir del inicio de la licencia del presen
 ###### ARTÍCULO TERCERO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos previstos en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 5 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado.
+
+SEGUNDO.- Los municipios deberán actualizar sus bandos de Policía y Gobierno y sus reglamentos, adecuándolos a la presente Ley en un plazo no mayor a 90 días contados a partir de la fecha en que entre en vigor esta Ley.
