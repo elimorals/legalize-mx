@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-registro-nacional-de-vehiculos-16063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-27"
-last_updated: "2000-04-27"
+last_updated: "2007-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16063&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-04-17"
 
 REGLAMENTO DE LA LEY DEL REGISTRO NACIONAL DE VEHICULOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL REGISTRO PUBLICO VEHICULAR, PUBLICADO EN EL D.O.F. DE 5 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de abril de 2000.
 
@@ -832,3 +834,23 @@ SEXTO.- Las dependencias a que se refieren las fracciones I a VI del artículo 3
 SÉPTIMO.- La aprobación del manual de operación a que se refiere el artículo 3o. de este reglamento deberá solicitarse a más tardar a los quince días siguientes a la publicación de este reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de abril de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.- La Secretaria de Relaciones Exteriores, Rosario Green.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 5 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 90 días siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Constancia de Inscripción a que se refieren los artículos 17, 18 y 19 deberá colocarse a partir del 1 de agosto de 2008.
+
+TERCERO.- Se abroga el Reglamento de la Ley del Registro Nacional de Vehículos, publicado en el Diario Oficial de la Federación el veintisiete de abril del año dos mil.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Reglamento. La Secretaría de Seguridad Pública, dentro de los 18 meses siguientes a la entrada en vigor del presente Reglamento, expedirá la Norma Oficial Mexicana en materia de identificación vehicular a que se refiere el artículo 13 de la Ley; mientras tanto, continuarán vigentes la Norma Oficial Mexicana NOM-131-SCFI-2004, Determinación, Asignación e Instalación del Número de Identificación Vehicular-Especificaciones, así como sus respectivos Criterios de Interpretación publicados en el Diario Oficial de la Federación el 13 de diciembre de 2004 y el 21 de julio de 2005, respectivamente.
+
+QUINTO.- En los términos acordados por el Consejo Nacional de Seguridad Pública, el Secretariado Ejecutivo, mantendrá sus programas de carga y actualización masivas de los padrones de vehículos en circulación en las entidades federativas, quedando sujeta la inscripción definitiva de los mismos en el Registro Público Vehicular a lo dispuesto en el Artículo 34 de este Reglamento.
+
+SEXTO.- El Secretariado Ejecutivo deberá expedir dentro de los 60 días posteriores a la publicación del Reglamento, los Procedimientos de Operación y los Procedimientos mediante los cuales se llevarán a cabo las notificaciones por medios electrónicos, a que se hace referencia en este Reglamento, los cuales aplicarán a la entrada en vigor de este ordenamiento.
+
+SÉPTIMO.- Las acciones que, en cumplimiento a lo dispuesto por este Reglamento y en razón de su competencia, corresponda ejecutar al Secretariado Ejecutivo y demás dependencias y entidades de la Administración Pública Federal, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación correspondiente y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+OCTAVO.- Las modificaciones que, en su caso, se lleven a cabo a la estructura orgánica del Secretariado Ejecutivo, se deberán realizar conforme a las disposiciones aplicables y mediante movimientos compensados que no aumentarán el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
