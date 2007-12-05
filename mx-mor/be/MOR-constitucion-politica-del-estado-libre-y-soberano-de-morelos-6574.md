@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2007-11-14"
+last_updated: "2007-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2007.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -738,39 +738,29 @@ El Congreso no puede abrir sus Sesiones sin la concurrencia de más de la mitad 
 
 Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al desempeño de la función, a los suplentes respectivos y si tampoco se presentaren dentro de un plazo de diez días, se convocará a elecciones, en los Distrito (sic) de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 32.
 
-El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1 de septiembre y terminará el 15 de diciembre; el segundo empezará el 1 de febrero y concluirá el 15 de julio. El Congreso se ocupará conforme a sus facultades, del examen, y la revisión de la cuenta pública del Estado que se presentará trimestralmente conforme al avance de gestión financiera, a más tardar el último día hábil del mes siguiente, en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar, y del programa financiero.
+El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1 de septiembre y terminará el 15 de diciembre; el segundo empezará el 1 de febrero y concluirá el 15 de julio. El Congreso se ocupará, conforme a sus facultades, del examen y la revisión de la cuenta pública del Estado misma que se presentará trimestralmente, a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario, conforme al avance de gestión financiera en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar y, en su caso, del programa financiero.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2004)</small>
+El Congreso del Estado recibirá para su examen, discusión y aprobación, a más tardar el 1 de octubre de cada año, las iniciativas de Ley de Ingresos del Estado, las Leyes de Ingresos de los Municipios y el Presupuesto de Egresos del Estado para el Ejercicio Fiscal siguiente. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado a más tardar el 15 de noviembre de ese año; de igual forma los Presidentes Municipales que inicien su encargo, presentarán al Congreso, sus iniciativas de Ley de Ingresos Municipales en la misma fecha. El Congreso del Estado deberá aprobar la Ley de Ingresos y el Presupuesto de Egresos del Estado y las Leyes de Ingresos Municipales a más tardar el 15 de diciembre de cada año.
 
-El Congreso del Estado a más tardar el 1 de octubre de cada año recibirá la iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los ayuntamientos, para su examen, discusión y aprobación. Cuando el Gobernador inicie su encargo entregará la iniciativa de presupuesto de egresos del Gobierno del Estado, así como la iniciativa de Ley de Ingresos del Estado, a más tardar el 15 de noviembre de ese año; de igual forma los Presidentes Municipales que inicien su encargo, presentarán a este Congreso, sus iniciativas de Ley de Ingresos en la misma fecha. Teniendo la obligación el Congreso del Estado de aprobarlas, en ambos casos, a más tardar el 15 de diciembre de cada año.
+Al aprobar el Congreso el Presupuesto de Egresos del Estado, deberá verificar que se incluyan y, en caso contrario, deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal, derivadas de empréstitos y de contratos de colaboración público privada durante la vigencia de los mismos. En caso de que, por cualquier circunstancia, se omita incluir y autorizar en el Presupuesto las partidas necesarias y suficientes para cubrir, en su totalidad, el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el Presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+Los Ayuntamientos presentarán al Congreso, a más tardar el día 31 de enero de cada año, la Cuenta Pública correspondiente al año anterior, debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 30 de noviembre, la cuenta pública correspondiente a los meses de enero a octubre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la cuenta pública, correspondiente a los meses noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
 
-Los ayuntamientos presentarán al Congreso a más tardar el día 31 de enero de cada año, la cuenta correspondiente al año anterior, debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo, fechas que serán a más tardar el día 30 de noviembre para el ayuntamiento que concluya, y el 31 de enero para el que inicie, correspondiente a los últimos dos meses del año en que se haga el cambio. El ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, y sin perjuicio de las personas responsables que corresponde a cada período constitucional.
+A solicitud del Ejecutivo del Estado o del Presidente Municipal, en su caso, podrán ampliarse los plazos de presentación de las Leyes de Ingresos, cuentas públicas y Presupuestos de Egresos, a que se refiere este Artículo, cuando haya causas plenamente justificadas, por aprobación de las dos terceras partes de los integrantes del Congreso, pero será obligación de la Secretaría del Despacho a cargo de la Hacienda Pública comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales pudiendo comparecer en su representación el Tesorero Municipal.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+La falta de presentación oportuna, en los términos que establece esta Constitución, de la iniciativa de Ley de Ingresos y de Presupuesto de Egresos del Estado y de las iniciativas de Leyes de Ingresos de los Municipios, dará como consecuencia que los ordenamientos en vigor para el ejercicio fiscal en curso continúen vigentes para el ejercicio fiscal siguiente, independientemente de la responsabilidad directa de los titulares de la obligación. En esta misma hipótesis si la omisión persiste para un nuevo ejercicio fiscal, el Congreso por acuerdo de las dos terceras partes de sus integrantes, procederá a la elaboración, discusión y aprobación de la Ley de Ingresos y del Decreto de Presupuesto de Egresos del Estado y de la Ley o Leyes de Ingresos de los Municipios correspondientes, casos en los cuales, dichos ordenamientos iniciarán su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado; si el Congreso del Estado aprecia la negativa del Poder Ejecutivo para ordenar la publicación de los mismos, se ordenará su publicación en la Gaceta Oficial del Poder Legislativo y en uno de los periódicos de mayor circulación en el Estado de Morelos. La omisión en estos términos, dará motivo a la aplicación de las responsabilidades establecidas en esta Constitución y en la ley de la materia.
 
-A solicitud del Ejecutivo del Estado o del Presidente Municipal, en su caso, podrán ampliarse los plazos de presentación de la Ley de Ingresos, cuentas públicas, Presupuesto de Egresos y programa financiero, a que se refiere este Artículo, cuando haya causas plenamente justificadas, por aprobación de las dos terceras partes de los integrantes del Congreso; pero será obligación de la Secretaría encargada del despacho del ramo de hacienda pública, comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales y comparecerá, en su caso, la persona que designe el Presidente Municipal.
+Para el caso de que el Congreso dejare de aprobar, en los términos de esta Constitución, las Leyes de Ingresos del Estado o de los Municipios, así como el Presupuesto de Egresos del Estado, continuarán rigiendo las Leyes de Ingresos y el Presupuesto de Egresos aprobados para el ejercicio fiscal del año anterior, hasta en tanto éstos se aprueben. En este caso, si en el Presupuesto de Egresos del Estado hubiese recursos aprobados por ser año electoral, se entenderá que sólo se autorizan recursos referentes al último año en el que no hubo elecciones, para el normal funcionamiento de las instituciones electorales y partidos políticos. Asimismo, en caso de que en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales correspondientes al ejercicio fiscal del año anterior se hubiesen autorizado montos de endeudamiento y, en su caso, la contratación de empréstitos, dichas autorizaciones no se considerarán renovadas.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+En los casos en que, de acuerdo a lo previsto en este Artículo, el Presupuesto de Egresos del Estado deba continuar vigente no obstante haber sido aprobado para el ejercicio fiscal anterior, las partidas correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada que hubiesen sido autorizadas en el Presupuesto anterior se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas.
 
-La falta de presentación oportuna, en los términos que establece esta Constitución, de las iniciativas de Leyes de Ingresos, Presupuesto de Egresos y en su caso del programa financiero del Poder Ejecutivo Estatal, y de las iniciativas de leyes de ingresos de los ayuntamientos, dará como consecuencia que los ordenamientos en vigor para el ejercicio fiscal en curso continúen vigentes para el ejercicio fiscal siguiente, independientemente de la responsabilidad directa de los titulares de la obligación. En esta misma hipótesis si la omisión persiste para un nuevo ejercicio fiscal, el Congreso por acuerdo de las dos terceras partes de sus integrantes, procederá a la elaboración, discusión y aprobación de la Ley de Ingresos y del Decreto de Presupuesto de Egresos para el Gobierno del Estado de Morelos y de la ley o leyes de ingresos de los municipios correspondientes, casos en los cuales, iniciará su ivigencia (sic) a partir del día siguiente de su publicación en el Periódico Oficial del Estado; si también se aprecia la negativa del Poder Ejecutivo para ordenar la publicación de los mismos, se ordenará su publicación en la Gaceta Oficial del Poder Legislativo y en uno de los periódicos de mayor circulación en el Estado de Morelos. La omisión en estos términos, dará motivo a la aplicación de las responsabilidades establecidas en esta Constitución y la ley de la materia.
+La falta de presentación oportuna, en los plazos que señala esta Constitución, de las cuentas públicas del Estado y de los Municipios, así como de la Ley de Ingresos y el Presupuesto de Egresos del Estado y de las Leyes de Ingresos de los Municipios, dará lugar a la aplicación de las sanciones previstas en la (sic) leyes respectivas, independientemente de las revisiones e inspecciones que realice el Organismo de Auditoría Superior Gubernamental y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-Para el caso de que el Congreso dejare de aprobar, en los términos de esta Constitución, las leyes de ingresos del Estado o de los municipios, así como el presupuesto de egresos del Estado, continuarán rigiendo las leyes de ingresos o el presupuesto de egresos aprobados para el ejercicio fiscal del año anterior, hasta en tanto éstos se aprueban. En este caso, si hubiese recursos aprobados por ser año electoral, se entenderá que sólo se autorizan recursos referentes al último año en el que no hubo elecciones, para el normal funcionamiento de las instituciones electorales y partidos políticos. Asimismo, los empréstitos que hubiesen sido autorizados, no implicará su renovación.
-
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
-
-La falta de presentación oportuna, en los plazos que señala esta Constitución y las leyes de la materia, de las cuentas públicas trimestrales del Poder Ejecutivo del Estado y las mensuales y anuales de los ayuntamientos, así como de sus Presupuestos de Egresos, dará lugar a la aplicación de las sanciones previstas en la ley de la materia, independientemente de las revisiones e inspecciones que realice el Organismo de Auditoría Superior Gubernamental y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
-
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
-
-Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en el Organismo de Auditoría Superior Gubernamental.
+Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en el Organismo de Auditoría Superior Gubernamental, en todo caso, cualquier entidad privada que ejerza recursos públicos será sujeto de fiscalización en los términos de esta Constitución y de la ley.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -834,7 +824,9 @@ III.- Iniciar ante el Congreso de la Unión las leyes que estime convenientes, a
 
 IV.- Crear o suprimir comisiones, empleos o cargos públicos en el Estado y señalar las dotaciones presupuestales que correspondan.
 
-V.- Fijar los gastos del Estado y establecer las contribuciones necesarias para cubrirlos.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+V.- Fijar los gastos del Estado y establecer las contribuciones necesarias para cubrirlos. Asimismo, autorizar en el Presupuesto de Egresos las erogaciones plurianuales necesarias para cubrir las obligaciones derivadas de empréstitos y de contratos de colaboración público privada que se celebren con la previa autorización del Congreso; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
 VI.- Legislar sobre todo aquello que la Constitución General de la República no encomiende expresamente al Congreso de la Unión.
 
@@ -846,7 +838,13 @@ IX.- Conceder al Ejecutivo facultades extraordinarias en alguno o algunos de los
 
 La concesión de facultades extraordinarias al Ejecutivo se hará sólo por el tiempo limitado y determinándose con absoluta precisión cuáles son esas facultades.
 
-X.- Fijar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos, en los casos no prohibidos por el artículo 117, fracción VIII, de la Constitución Federal, aprobar los contratos respectivos, reconocer la deuda del Estado y decretar el modo de cubrirla.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+X.- En materia de deuda pública:
+
+a) Establecer, observando las prohibiciones y limitaciones previstas por el Artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, mediante la expedición de una ley, las bases conforme a las cuales el Estado, los Municipios, los organismos descentralizados estatales o municipales, las empresas de participación estatal o municipal mayoritaria, los fideicomisos públicos que formen parte de la administración pública paraestatal y paramunicipal y los organismos y empresas intermunicipales, podrán contratar obligaciones o empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas, así como fijar anualmente en las Leyes de Ingresos del Estado y de los Municipios los conceptos y montos respectivos.
+
+b) Autorizar, conforme a las bases establecidas en la ley, al Estado, a los Municipios, a los organismos descentralizados estatales o municipales, a las empresas de participación estatal o municipal mayoritaria, a los fideicomisos públicos que formen parte de la administración pública paraestatal y paramunicipal y a los organismos y empresas intermunicipales, para la contratación de empréstitos o créditos; para la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro derivados de los mismos, respecto al cumplimiento de todo tipo de obligaciones o empréstitos; y para las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma la requieran.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1090,9 +1088,17 @@ Esta atribución será ejercida por el Organismo de Auditoría Superior Gubernam
 
 LVI.- Administrar, programar y difundir a través de los medios electrónicos del estado, las acciones del Poder Legislativo y todas aquellas actividades que den a conocer el diario acontecer de la entidad, que fomenten entre los ciudadanos la cultura política y democrática.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-LVII.- Las demás que expresamente le confiera esta Constitución.
+LVII.- En materia de contratos de colaboración público privada:
+
+a) Establecer, mediante la expedición de una ley, las bases conforme a las cuales el Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la administración pública paraestatal, podrán celebrar contratos de colaboración público privada y las bases conforme a las cuales los Municipios, los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos que formen parte de la administración pública paramunicipal, podrán celebrar contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública. Dicha legislación deberá incluir, entre otras, las disposiciones que aseguren la plena solvencia moral, económica, financiera, técnica y profesional de las entidades del sector privado o social que participen en los contratos. La Legislación establecerá también normas que garanticen la protección del medio ambiente en términos de la legislación aplicable, así como las relativas a las garantías, sanciones y mecanismos de control y protección en favor de las partes en los contratos respectivos. Tratándose de contratos de colaboración público privada, podrá convenirse compromiso arbitral respecto de aquellas controversias que puedan ser objeto del mismo en términos de lo que se establezca en las leyes respectivas.
+
+b) Autorizar, en su caso, conforme a las bases que se establezcan en la ley, al Estado, a los Municipios, a los organismos descentralizados estatales o municipales, a las empresas de participación estatal o municipal mayoritaria y a los fideicomisos públicos que formen parte de la Administración Pública Paraestatal y Paramunicipal, para la celebración de contratos de colaboración público privada; para la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de dichos contratos o de cualesquier otros actos jurídicos relacionados con los mismos; y para la celebración de las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+LVIII.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1418,11 +1424,11 @@ En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la p
 
 DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 70.
 
-Son facultades del Gobernador:
+Son facultades y obligaciones del Gobernador del Estado:
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1566,15 +1572,31 @@ XXXIV.- Presentar al Congreso del Estado la terna de ciudadanos de entre quienes
 
 (ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
-XXXV.- Administrar y controlar los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la readaptación social integral de los individuos, mediante los principios de educación y trabajo, conforme lo disponen las leyes de la materia; y
+XXXV.- Administrar y controlar los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la readaptación social integral de los individuos, mediante los principios de educación y trabajo, conforme lo disponen las leyes de la materia; y (sic)
 
-> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXVI.- Adoptar las medidas necesarias para la buena marcha de la administración y conducir la planeación del desarrollo económico y social del Estado y realizar las acciones conducentes a la formulación, instrumentación, ejecución, control y evaluación de los planes de desarrollo; y
+XXXVI.- Previa autorización del Congreso, contratar obligaciones o empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas conforme a las bases que establezca el Congreso del Estado en la ley respectiva.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XXXVII.- Las demás que otorgue la presente Constitución.
+XXXVII.- Previa autorización del Congreso, celebrar contratos de colaboración público privada.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XXXVIII.- Previa autorización del Congreso, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos relacionados con los mismos.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XXXIX.- Incluir anualmente, dentro de la iniciativa de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal, derivadas de empréstitos y de contratos de colaboración público privada.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XL.- Informar trimestralmente al Congreso, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de la deuda pública estatal, al rendir la cuenta pública. Incluyendo, asimismo, información detallada sobre los contratos de colaboración público privada en vigor y sobre la afectación de sus ingresos, como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+XLI.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1584,17 +1606,19 @@ El Gobernador del Estado podrá celebrar convenios sobre las materias que sean n
 
 En el ámbito municipal y en el caso en que no exista el convenio respectivo, el Congreso del Estado, a solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes, valorará la conveniencia de que el Estado asuma funciones o servicios municipales, cuando se considere que el Gobierno Municipal se encuentra imposibilitado para ejercerlos o prestarlos, determinando en estos casos el procedimiento y las condiciones para que el Gobierno Estatal las asuma.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 72.
 
-El Gobernador en ningún caso podrá celebrar convenios:
+Con excepción de los casos expresamente previstos en las leyes, el Gobernador en ningún caso podrá celebrar convenios:
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 I.- Para que a título oneroso o gratuito conceda a los particulares la recaudación o administración de los ingresos.
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-II.- Para comprometer los ingresos respecto de un ejercicio gubernativo posterior. Cuando el interés público demande lo contrario, toca al Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, la aprobación previa de la medida, cuidando en todo momento que las obligaciones o empréstitos se destinen invariablemente a inversiones publicas productivas, inclusive los que contraigan organismos descentralizados, empresas o fideicomisos públicos, por los conceptos y hasta por los montos que las mismas fijen anualmente en los respectivos presupuestos de egresos. En estos casos el Ejecutivo deberá informar a detalle su ejercicio al rendir cada cuenta pública.
+II.- Para comprometer los ingresos respecto de un ejercicio gubernativo posterior. Cuando el interés público demande lo contrario, toca al Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, la aprobación previa de los actos jurídicos correspondientes.
 
 ###### Artículo 73.
 
@@ -1768,6 +1792,10 @@ VII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
 VIII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+IX.- Por las obligaciones a cargo del Estado, derivadas de empréstitos, garantías, avales, contratos de colaboración público privada y demás actos jurídicos cuya vigencia abarque más de un ejercicio fiscal.
+
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
 ###### Artículo 81.
@@ -1782,9 +1810,11 @@ El pago de las retribuciones señaladas en el Presupuesto se hará con equidad a
 
 Es obligación del Secretario de Despacho correspondiente, vigilar el cumplimiento de este principio.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 83.
 
-No se hará ningún gasto que no esté comprendido en el Presupuesto o autorizado por el Congreso. La infracción de este artículo constituye responsable a la Autoridad que ordene el gasto y al empleado que lo ejecute.
+No se hará ningún gasto que no esté comprendido en el Presupuesto o autorizado por el Congreso. La infracción de esté artículo constituye en responsable a la Autoridad que ordene el gasto y al empleado que lo ejecute.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -1870,7 +1900,7 @@ DEL PODER JUDICIAL.
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### ARTÍCULO 86.
 
@@ -1931,6 +1961,24 @@ IV.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco
 V.- Tener cinco años de ejercicio profesional por lo menos, o tres si se ha dedicado a la Judicatura.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
+
+VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
+
+###### Artículo 90.
+
+Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+
+I.- Ser Ciudadano Mexicano por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles.
+
+II.- Haber residido en el Estado durante los últimos diez años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del Servicio Público.
+
+III.- Poseer al momento de su designación, con antigüedad mínima de cinco años, Título de Licenciado en Derecho, expedido por la Autoridad o Institución legalmente facultada para ello.
+
+IV.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación.
+
+V.- Tener cinco años de ejercicio profesional por lo menos, o tres si se ha dedicado a la Judicatura.
 
 VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
@@ -2336,7 +2384,9 @@ DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL.
 
 Los Ayuntamientos administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
 
-I.- Adquirirán bienes inmuebles o ejercerán actos de administración y en su caso, de dominio sobre sus bienes raíces, siempre que así lo acuerden las dos terceras partes de sus integrantes.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+I.- Adquirirán bienes inmuebles, ejercerán actos de administración y en su caso, de dominio sobre su patrimonio inmobiliario y celebrarán actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento, siempre que así lo acuerden las dos terceras partes de sus integrantes.
 
 II.- Percibirán las contribuciones, incluyendo las tasas adicionales, que establezca el Gobierno del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
@@ -2350,11 +2400,29 @@ Las leyes estatales no establecerán exenciones o subsidios a favor de persona o
 
 Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-Los gobiernos municipales para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento, requerirán de la previa aprobación del Congreso del Estado, vigilando en los casos de obligaciones o empréstitos, que éstos se destinen a inversiones públicas productivas, inclusive los que contraigan los organismos descentralizados, las empresas y fideicomisos públicos, con sujeción a las normas aplicables y por los conceptos y hasta por los montos que el Poder Legislativo fije anualmente. Los Ayuntamientos informarán de su ejercicio al rendir la cuenta pública.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-El Poder Legislativo del Estado aprobará las leyes de ingresos de los municipios, revisarán y fiscalizarán sus cuentas públicas en los términos previstos en esta Constitución.
+Los gobiernos municipales requerirán de la previa aprobación del Congreso del Estado para:
+
+a) Contratar obligaciones o empréstitos;
+
+b) Celebrar contratos de colaboración público privada cuando, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública; y
+
+c) Afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+Los Ayuntamientos deberán informar detalladamente con relación a los empréstitos, contratos de colaboración público privada y la afectación de sus ingresos al rendir la cuenta pública.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+El Poder Legislativo del Estado aprobará las Leyes de Ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas en los términos previstos en esta Constitución.
 
 Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Las modificaciones que se incorporen a dichos Presupuestos de Egresos, serán siempre antes del ejercicio de los recursos.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+
+Al aprobar los Ayuntamientos los Presupuestos de Egresos Municipales, deberán incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo de los Municipios, los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paramunicipal, derivadas de empréstitos y de contratos de colaboración público privada. En caso de que, por cualquier circunstancia, se omita incluir y autorizar en el Presupuesto las partidas necesarias y suficientes para cubrir, en su totalidad, el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el Presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen, en términos de la normatividad aplicable.
 
@@ -2572,7 +2640,7 @@ Ningún pago podrá hacerse que no esté comprendido en el Presupuesto respectiv
 
 ###### Artículo 132.
 
-Los pagos de que habla el artículo anterior, solo tendrán lugar por los servicios que se presten. En los casos de legítimo impedimento y en los de largos servicios, se otorgarán pensiones con carácter de retiro o jubilación, conforme a las leyes que al efecto se expidan.
+Los pagos de que habla el artículo anterior, sólo tendrán lugar por los servicios que se presten. En los casos de legítimo impedimento y en los de largos servicios, se otorgarán pensiones con carácter de retiro o jubilación, conforme a las leyes que al efecto se expidan.
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -3543,3 +3611,13 @@ Tercero.- El Titular del Ejecutivo del Estado, implementará los mecanismos nece
 Cuarto.- Para la inmediata integración del Tribunal Unitario de Justicia para Adolescentes, en esta primera y única ocasión, en lo que se refiere a la especialización, la selección del Magistrado Titular y Suplente, se hará bajo los criterios de capacidad y práctica forense que fije el Congreso del Estado, en la Terna que para tal efecto proponga la Junta Política y de Gobierno.
 
 Quinto.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos, previa declaratoria de aprobación por parte del Congreso del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- El Congreso del Estado deberá expedir la Ley que regule la celebración de Contratos de Colaboración Público Privada, en un plazo no mayor de ciento veinte días, contado a partir de la iniciación de la vigencia del presente Decreto.
+
+CUARTO.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere el artículo 70 Fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
