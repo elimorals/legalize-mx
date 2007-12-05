@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-gas-licuado-de-petroleo-14407"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-28"
-last_updated: "1999-06-28"
+last_updated: "2007-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-06-23"
 
 REGLAMENTO DE GAS LICUADO DE PETROLEO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE GAS LICUADO DE PETROLEO, PUBLICADO EN EL D.O.F. DE 5 DE DICIEMBRE DE 2007, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Reglamento Publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 28 de junio de 1999.
 
@@ -1552,3 +1554,85 @@ Petróleos Mexicanos contará con un plazo de un mes contado a partir de la entr
 Petróleos Mexicanos deberá solicitar a la Comisión los permisos que correspondan en los términos del Capítulo III de este Reglamento, dentro de los ocho meses siguientes a la entrada en vigor del mismo. Una vez presentada la solicitud debidamente requisitada, la Comisión expedirá los permisos de Transporte por medio de Ductos respectivos en un plazo no mayor a cuatro meses.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de junio de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Energía, Luis Téllez Kuenzler.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 5 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de Gas Licuado de Petróleo, publicado en el Diario Oficial de la Federación el 28 de junio de 1999.
+
+TERCERO.- Los permisos otorgados, con fundamento en el Reglamento de Gas Licuado de Petróleo que se abroga, permanecerán en vigor hasta su extinción. Los procedimientos administrativos que se encuentren en trámite se resolverán con apego a las disposiciones aplicables con anterioridad a la entrada en vigor de este Decreto.
+
+Los titulares de los permisos referidos en este artículo, podrán optar por obtener los permisos correspondientes en los términos del presente Reglamento, en cuyo caso, la Secretaría y la Comisión, según corresponda, realizarán los canjes de los Permisos en forma automática previa solicitud por escrito que se haga, debiendo acompañar copia del Permiso vigente. La vigencia de los nuevos permisos será la misma que haya sido establecida en los permisos originales.
+
+Las personas físicas o morales que actualmente cuentan con autorizaciones para prestar el servicio de Distribución expedidas en términos del Reglamento de Distribución de Gas L.P., publicado en el Diario Oficial de la Federación el 29 de marzo de 1960, o del Reglamento de Distribución de Gas Licuado de Petróleo, publicado en el Diario Oficial de la Federación del 25 de noviembre de 1993, contarán con un plazo de ciento ochenta días naturales contados a partir de que entre en vigor este Reglamento para solicitar el canje de sus actuales autorizaciones, por permisos expedidos en los términos de este Reglamento, los cuales se otorgarán en forma automática previa solicitud por escrito del titular, acompañando únicamente copia de su autorización vigente. Si al término del plazo antes señalado las personas a que se refiere el presente artículo no han presentado su solicitud de canje de autorización a permiso, la Secretaría iniciará el procedimiento de revocación correspondiente.
+
+Para los efectos del párrafo que antecede, la Secretaría realizará los canjes de las autorizaciones respetando en todo momento los derechos adquiridos de los titulares respecto a la operación de sus instalaciones o equipos actuales, mismos que deberán estar funcionando en los términos de las Normas Oficiales Mexicanas aplicables.
+
+Los permisos correspondientes ampararán la operación de las Plantas de Distribución, Bodegas de Distribución, Auto-tanques, Vehículos de Reparto, Estaciones de Gas L.P., para Carburación, y demás infraestructura que actualmente se encuentre operando en los términos de la autorización originalmente otorgada.
+
+CUARTO.- Petróleos Mexicanos contará con un plazo de ocho meses, a partir de la fecha de entrada en vigor de este Reglamento, para presentar ante la Comisión una nueva propuesta de los Términos y Condiciones generales que regirán las Ventas de Primera Mano de Gas L.P., los cuales deberán ser aprobados por la Comisión en un periodo no mayor a un año a partir de la fecha referida en este párrafo.
+
+Para efectos de lo dispuesto en el párrafo anterior, la Comisión podrá adecuar los Términos y Condiciones que le presente Petróleos Mexicanos, a fin de que éstos sean aprobados dentro del plazo establecido en el párrafo anterior.
+
+A partir de la entrada en vigor de este Reglamento, Petróleos Mexicanos seguirá suministrando Gas L.P., conforme a los contratos que tiene actualmente celebrados con sus clientes. Dichos contratos podrán ser terminados anticipadamente cuando así lo solicite el cliente.
+
+Petróleos Mexicanos podrá continuar suscribiendo contratos de Ventas de Primera Mano en los términos de las disposiciones previstas en el Reglamento que se abroga, hasta en tanto la Comisión apruebe los Términos y Condiciones referidos en el primer párrafo de este artículo. Dichos contratos no podrán tener una vigencia superior a ciento ochenta días naturales.
+
+Asimismo, Petróleos Mexicanos podrá continuar realizando sus actividades de Transporte por medio de Ductos en los términos de la Ley, del presente Reglamento y de las Normas Oficiales Mexicanas aplicables, en los ductos de su propiedad existentes a la fecha de publicación de este Reglamento, hasta en tanto no se emitan los permisos correspondientes por parte de la Comisión, en cuyo caso Petróleos Mexicanos deberá apegarse adicionalmente a las condiciones establecidas en los mismos.
+
+QUINTO.- La Directiva señalada en el artículo 7, primer párrafo de este Reglamento, será publicada por la Secretaría en el Diario Oficial de la Federación, en un periodo que no deberá de exceder de doscientos cuarenta días hábiles contados a partir de la entrada en vigor del presente Reglamento.
+
+La Directiva señalada en el artículo 7, segundo párrafo de este Reglamento, será publicada por la Comisión en el Diario Oficial de la Federación, en un periodo que no deberá de exceder de trescientos sesenta días naturales contados a partir de la fecha de la entrada en vigor del presente Reglamento. En tanto no se encuentre en vigor la Directiva señalada en este párrafo, se continuarán aplicando las resoluciones vigentes.
+
+Con relación a los plazos de respuesta previstos en el artículo 18, fracción I, primer y segundo párrafos, de este Reglamento, durante el primer año de entrada en vigor de dicho ordenamiento se aplicará un plazo máximo de treinta días para el otorgamiento de los permisos referidos, y de quince días en el caso de los permisos de Transporte por medio de Auto-tanques, Semirremolques, Carro-tanques o Buque-tanques.
+
+Con relación a los Procedimientos para la Evaluación de la Conformidad referidos en este Reglamento, la Secretaría publicará en el Diario Oficial de la Federación, durante el mes de noviembre de cada año, un programa de verificación de instalaciones, vehículos y equipos de Gas L.P., aplicable al año inmediato posterior, a través del cual se asignará un grupo de Unidades de Verificación para cada Permisionario, sujeto al cumplimiento de tales disposiciones, con las cuales se podrán atender dichos Procedimientos.
+
+Con relación a la Directiva para la prestación del servicio de Distribución a Usuarios Finales y de supresión de fugas, referida en los artículos 19, fracción I, inciso d), numeral 12; 56, fracciones I y XIV; 61, fracción I, y 70 de este Reglamento, la Secretaría emitirá dicho instrumento jurídico dentro de los ciento veinte días posteriores a la entrada en vigor del presente Reglamento.
+
+Con relación a los Centros de Intercambio, la Secretaría emitirá los Lineamientos Generales de Operación de Centros de Intercambio referidos en este Reglamento, dentro de los noventa días posteriores a su entrada en vigor.
+
+Con relación a los Centros de Destrucción, a partir de la entrada en vigor de este Decreto, las personas que cuenten con registro otorgado por la Secretaría para la operación de Centros de Recolección y Destrucción, contarán con un plazo de noventa días para solicitar el registro de Centros de Destrucción en los términos del presente Reglamento, los cuales se otorgarán en forma automática.
+
+Con relación a la disposición referida en el artículo 67, fracción VII, de este Reglamento, los Permisionarios contarán con un plazo de un año a partir de la entrada en vigor de este Reglamento, para contar con el equipo necesario para recibir pagos por medios electrónicos y ofrecer dicho esquema de pago a Permisionarios y Usuarios Finales.
+
+Con relación a la disposición referida en el artículo 98, tercer párrafo, de este Reglamento, los Lineamientos Generales de Operación del fideicomiso deberán ser publicados por la Secretaría en un periodo no mayor a los ciento veinte días posteriores a la fecha de entrada en vigor del presente Reglamento.
+
+SEXTO.- A partir de la entrada en vigor del presente Reglamento:
+
+I. Para efectos del otorgamiento de permisos de Transporte por medio de Auto-tanques y de los demás permisos, autorizaciones y avisos relativos al uso de Auto-tanques como medios de Transporte, la Secretaría determinará, con base en la normatividad aplicable, los términos y condiciones que deberán observar los Permisionarios, previo al inicio de operaciones de los Auto-tanques, a fin de garantizar su uso seguro como unidades de Transporte.
+
+Lo dispuesto en el párrafo anterior, dejará de tener vigencia cuando las Normas Oficiales Mexicanas aplicables sean actualizadas y categoricen las especificaciones de diseño y operación correspondientes a los Auto-tanques para Distribución y los Auto-tanques para Transporte.
+
+II. Para efectos del otorgamiento de permisos de Almacenamiento mediante Instalaciones de Aprovechamiento para Autoconsumo, y de los demás permisos, autorizaciones y avisos relativos a la carga y descarga de Gas L.P., mediante Auto-tanques y Semirremolques en las Plantas de Suministro, Instalaciones de Aprovechamiento y Estaciones de Gas L.P., para Carburación, la Secretaría determinará, con base en la normatividad aplicable, los términos y condiciones que deberán observar los Permisionarios para llevar a cabo las actividades de carga y descarga referidas, previo al inicio de operaciones correspondiente, y
+
+III. Para efectos del otorgamiento de permisos de Distribución mediante Establecimiento Comercial, la Secretaría determinará, con base en la normatividad aplicable, los términos y condiciones que deberán observar los Permisionarios, para el manejo, resguardo y comercialización de Recipientes Portátiles en Bodegas de Distribución ubicadas en Establecimientos Comerciales, previo al inicio de operaciones correspondiente.
+
+Lo dispuesto en las fracciones II y III de este artículo, dejará de tener vigencia cuando las Normas Oficiales Mexicanas aplicables sean actualizadas y prevean las condiciones y especificaciones técnicas, operativas y de seguridad referidas, según corresponda.
+
+SÉPTIMO.- Sin perjuicio de lo establecido en la Ley Federal de Protección al Consumidor, las sanciones previstas por el incumplimiento a lo dispuesto en el artículo 19, fracción I, inciso d), numeral 13, del presente Reglamento, se sujetara a la publicación de las Normas Oficiales Mexicanas aplicables a dicha disposición.
+
+Lo dispuesto en el párrafo anterior deberá quedar asentado en los títulos de permiso que se emitan con posterioridad a la entrada en vigor del presente Decreto, y hasta en tanto no se emita la normatividad correspondiente.
+
+OCTAVO.- Para efectos de las disposiciones previstas en este Reglamento, por Recipientes Transportables y Recipientes No Transportables se entenderán a aquellos recipientes identificados como Recipientes Portátiles y Recipientes No Portátiles, respectivamente, en el Reglamento que se abroga. Asimismo, por Recipiente Portátil se entenderá a aquel recipiente identificado como Minitanque en el Reglamento que se abroga.
+
+Lo anterior, a excepción de la característica de que los recipientes deban ser metálicos, la cual dejará de ser obligatoria a partir de la entrada en vigor del presente Reglamento.
+
+Lo dispuesto en el primer párrafo de este artículo será aplicable hasta en tanto se actualicen las Normas Oficiales Mexicanas NOM-011-SEDG-1999, NOM-012/1-SEDG-2003 y demás correspondientes, de tal forma que prevean la terminología descrita en este ordenamiento, en cuyo caso, el parque nacional de recipientes será identificado y denominado conforme a las categorías que establezca dicha normatividad, en concordancia con las previstas en este Reglamento.
+
+Las disposiciones referidas anteriormente no eximirán a los Permisionarios correspondientes, en ningún caso, de las obligaciones y responsabilidades previstas en este Reglamento y demás relativas a la observancia de Normas Oficiales Mexicanas, en relación a los recipientes de su propiedad.
+
+Para efectos de lo dispuesto en el artículo 56, fracción III, de este Reglamento, se exigirá la conformidad con la Norma Oficial Mexicana NOM-011-SEDG-1999, o la que la sustituya.
+
+Todos los Recipientes Transportables fabricados bajo especificaciones anteriores a la NOM-011-SEDG-1999, estarán directamente sujetos a lo dispuesto en el artículo 56, fracciones IV y V de este Reglamento.
+
+En caso de incumplimiento, se estará sujeto a la aplicación de una medida de seguridad de acuerdo a lo señalado en el artículo 91, conforme la Secretaría lo considere conveniente, sin perjuicio de las sanciones referidas en el artículo 101, ambos de este Reglamento.
+
+NOVENO.- Para efectos de la prestación del servicio de Distribución mediante Planta de Distribución y de Distribución mediante Establecimiento Comercial, se permitirá el uso de Recipientes Transportables de materiales no metálicos, siempre y cuando se acredite ante la Secretaría, previo al uso de los mismos, contar con las especificaciones de seguridad correspondientes, en términos de lo dispuesto en la Ley Federal sobre Metrología y Normalización.
+
+DÉCIMO.- Cuando no existan o no se encuentren en vigor las Normas Oficiales Mexicanas referidas en el presente Reglamento, la normatividad aplicable a las actividades correspondientes reguladas por el mismo se sujetará a lo dispuesto en la Ley Federal sobre Metrología y Normalización.
+
+DÉCIMO PRIMERO.- Las obligaciones contenidas en el presente Reglamento que sean a cargo de los Permisionarios y que no sean susceptibles de cumplirse en forma inmediata a la entrada en vigor del mismo, podrán quedar aplazadas en su aplicación por un término de hasta ciento ochenta días naturales contados a partir de la fecha de entrada en vigor de este Reglamento, según lo establezca la Secretaría o la Comisión en el ámbito de sus atribuciones.
