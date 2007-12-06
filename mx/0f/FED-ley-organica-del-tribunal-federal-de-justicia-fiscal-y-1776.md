@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-1776"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-12-15"
-last_updated: "2006-01-26"
+last_updated: "2007-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1776&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1995-12-13"
 
 LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, PUBLICADA EN EL D.O.F. DE 6 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -650,3 +652,27 @@ Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas de
 D.O.F. 26 DE ENERO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE DICIEMBRE DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa publicada en el Diario Oficial de la Federación el 15 de diciembre de 1995.
+
+TERCERO.- El proceso para el nombramiento por el Presidente de la República, con la respectiva aprobación del Senado de la República o, en su caso, de la Comisión Permanente del H. Congreso de la Unión, de los dos Magistrados de Sala Superior y de los cinco Magistrados Supernumerarios de Sala Regional, deberá iniciarse en cuanto entre en vigor la presente Ley.
+
+CUARTO.- Una vez hechos los nombramientos a que se refiere el artículo anterior, el Pleno de la Sala Superior deberá elegir por insaculación a los Magistrados de Sala Superior que se incorporarán a la Junta de Gobierno y Administración en su primera integración, así como adscribir a los Magistrados de Sala Regional que formarán parte de la misma y a los Magistrados Supernumerarios que los suplirán temporalmente.
+
+A fin de escalonar los periodos de los miembros de la Junta de Gobierno y Administración, en lo que atañe a su primera integración, el Pleno, al hacer la elección de los Magistrados que deban integrarlo, por esta única ocasión, elegirá a un Magistrado de Sala Superior y a un Magistrado de Sala Regional que durarán tres años en su cargo en la Junta de Gobierno y Administración.
+
+Los Magistrados de Sala Superior nombrados conforme al artículo tercero transitorio no serán elegibles para la primera integración de la Junta de Gobierno y Administración del Tribunal.
+
+QUINTO.- El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la presente Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de seis meses a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- Los servidores públicos que venían ejerciendo encargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que la Junta de Gobierno y Administración acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
+
+SÉPTIMO.- Los Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que a la entrada en vigor de la presente Ley se encuentren en ejercicio de sus cargos, continuarán en ellos hasta concluir el periodo para el cual fueron designados, de acuerdo con la Ley que se abroga. Al término de dicho periodo entregarán la Magistratura, sin perjuicio de que el Tribunal pueda proponerlos, previa evaluación de su desempeño, para ser nombrados como Magistrados en términos de lo dispuesto por esta Ley.
+
+OCTAVO.- A las personas que hayan concluido el plazo para el cual fueron nombradas como Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa y que se encuentre en trámite su propuesta de ratificación conforme a la Ley que se abroga, podrán ser consideradas por el Presidente de la República para ser nombradas como Magistrados del Tribunal en términos de la presente Ley.
+
+NOVENO.- Los Magistrados que conforme a la Ley que se abroga hayan obtenido la inamovilidad, continuarán en el ejercicio de sus encargos atento a lo establecido en dicha Ley.
