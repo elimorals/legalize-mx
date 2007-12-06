@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2007-08-31"
+last_updated: "2007-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -277,11 +277,19 @@ Los diputados no podrán ser reelectos para el período inmediato siguiente; los
 
 Para ser Diputado se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento y ser michoacano en ejercicio de sus derechos, y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 1977)</small>
+I.- Ser ciudadano mexicano por nacimiento y ser michoacano en ejercicio de sus derechos;
 
-II.- Tener veintiún años cumplidos el día de la elección.
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
+
+II.- Ser originario del distrito por el que haya de ser electo por el principio de mayoría relativa, o tener una residencia efectiva en el mismo no menor a dos años previos al día de la elección.
+
+Los oriundos o residentes de los municipios cuyo territorio comprende más de un distrito, podrán ser electos en cualquiera de ellos; y,
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
+
+III.- Tener veintiún años cumplidos el día de la elección.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -651,11 +659,11 @@ XXI B.- Privar del cargo a los integrantes del Consejo del Poder Judicial, por l
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales, mediante el voto de las dos terceras partes de sus miembros;
+XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales mediante el voto de las dos terceras partes de sus miembros;
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
-XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del Estado, conforme al procedimiento que establezca la ley;
+XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del estado, conforme al procedimiento que establezca la ley;
 
 XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
 
@@ -1173,7 +1181,7 @@ El Congreso del Estado podrá privarlos de su encargo en cualquier tiempo, cuand
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
-###### Artículo 78.
+###### Artículo 78
 
 Es causa de retiro forzoso para el magistrado cuando:
 
@@ -1473,7 +1481,7 @@ En materia electoral, la interposición de los recursos, en ningún caso produce
 
 El Tribunal Electoral del Estado será órgano autónomo y máxima autoridad jurisdiccional electoral. El Poder Legislativo, garantizará su debida integración.
 
-El Tribunal Electoral del Estado tendrá competencia para resolver en única instancia y en forma definitiva, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral.
+El Tribunal Electoral del Estado tendrá competencia para resolver en única instancia y en forma definitiva, en los términos de ésta Constitución y la Ley, las impugnaciones que se presenten en materia electoral.
 
 El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
 
@@ -1481,7 +1489,7 @@ El Tribunal Electoral del Estado se organizará en los términos que señale la 
 
 El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados; sus sesiones de resolución serán públicas, en los términos que establezca la Ley.
 
-Los magistrados del Tribunal, los cuales serán independientes y responderán al mandato de la Ley, deberán satisfacer cuando menos los requisitos que señala ésta Constitución para ser Magistrado del Supremo Tribunal de Justicia del Estado.
+Los magistrados del Tribunal, los cuales serán independientes y responderán al mandato de la Ley, deberán satisfacer cuando menos los requisitos que señala esta Constitución para ser Magistrado del Supremo Tribunal de Justicia del Estado.
 
 El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública.
 
@@ -1703,19 +1711,27 @@ Para ser electo Presidente Municipal, Síndico o Regidor se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y michoacano en pleno ejercicio de sus derechos;
 
-II.- Haber cumplido veintiún años el día de la elección;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
 
-III.- No ser funcionario de la Federación, del Estado o municipal, ni tener mando de fuerza en el municipio en que deba efectuarse la elección, durante los noventa días anteriores a la fecha en que aquella se celebre; si se trata del Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentes;
+II.- Haber cumplido veintiún años el día de la elección, para el cargo de Presidente y Síndico; y dieciocho años para el cargo de Regidor;
 
-IV.- No ser ni haber sido ministro o delegado de algún culto religioso;
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
+
+III.- Haber nacido en el Municipio respectivo o haber adquirido la vecindad en el mismo por lo menos dos años antes al día de la elección;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
+
+IV.- No ser funcionario de la Federación, del Estado o del Municipio, ni tener mando de fuerza en el Municipio en que pretenda ser electo, durante los noventa días anteriores a la fecha de la elección; si se trata del Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentas por el Cabildo o por el Congreso del Estado, según corresponda;
+
+V.- No ser ni haber sido ministro o delegado de algún culto religioso;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
-V.- No estar comprendido en ninguno de los casos que señala el artículo 116; y
+VI.- No estar comprendido en ninguno de los casos que señala el artículo 116; y,
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
-VI.- No ser consejero o funcionario electoral federal o estatal, a menos que se separe un año antes del día de la elección.
+VII.- No ser consejero o funcionario electoral federal o estatal, a menos que se separe un año antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1907,7 +1923,7 @@ XXIV.- Las demás que señalen las leyes.
 
 ###### Artículo 124.
 
-La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia o encargados del orden; sus facultades y obligaciones serán determinadas por la ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
+La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia y encargados del orden; sus facultades y obligaciones serán determinadas por la ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -2992,6 +3008,30 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 6 DE DICIEMBRE DE 2007.
+
+DECRETO No. 71
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 6 DE DICIEMBRE DE 2007.
+
+DECRETO No. 76
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 6 DE DICIEMBRE DE 2007.
+
+DECRETO No. 77
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO CUARTO.
 
