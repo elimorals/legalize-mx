@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2007-02-28"
+last_updated: "2007-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2007.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -729,31 +729,25 @@ Las infracciones a las disposiciones del presente capítulo, se sancionarán con
 
 #### Sección Primera. Del Objeto
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 54.
 
-Es objeto del Impuesto Adicional para Fomento Educativo, el Impuesto Predial y sobre Espectáculos Públicos, excepto el Impuesto Predial Ejidal y Comunal.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2007)
 
 #### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 55.
 
-Son sujetos de este impuesto, las personas físicas o morales que realicen pagos por los conceptos a que se refiere el artículo anterior.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2007)
 
 #### Sección Tercera. De la Base y de la Tasa
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 56.
 
-La base del Impuesto Adicional para Fomento Educativo, es el importe de las contribuciones a que se refiere el artículo 54 de esta Ley.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 57.
 
-El Impuesto Adicional para Fomento Educativo, se determinará conforme a la tasa que establezca la Ley de Ingresos para los Municipios del Estado de Michoacán, y se enterará simultáneamente con las contribuciones base de este Impuesto, cuando éstas deban ser pagadas.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2007)
 
 #### Sección Cuarta. De las Exenciones
 
@@ -2026,3 +2020,9 @@ P.O. 28 DE FEBRERO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 6 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
