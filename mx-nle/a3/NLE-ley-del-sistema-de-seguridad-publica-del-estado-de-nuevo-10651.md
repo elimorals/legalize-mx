@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "2007-11-26"
+last_updated: "2007-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -161,9 +161,9 @@ II.- El Secretario de Seguridad Pública del Estado;
 
 III.- Un Vicepresidente, que será el Procurador General de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2007)</small>
 
-IV.- Los Presidentes Municipales de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Escobedo, Apodaca, Cadereyta Jiménez, Santiago, Juárez y García, Nuevo León en los términos del artículo 18 de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
+IV.- Los Presidentes Municipales de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Escobedo, Apodaca, Cadereyta Jiménez, Santiago, Juárez y García, así como un representante del os Municipios de la zona Sur y un representante de los Municipios de la zona norte de Nuevo León, en los términos del artículo 18 de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -1274,3 +1274,11 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de
 P.O. 26 DE NOVIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Ayuntamientos pertenecientes a la zona Norte, que está comprendida por los Municipios de Abasolo, Agualeguas, Los Aldabas, Anáhuac, Bustamante, El Carmen, Cerralvo, Ciénega de Flores, China, Dr. Coss, Dr. González, Gral. Bravo, Gral. Treviño, Gral. Zuazua, Los Herrera, Higueras, Lampazos de Naranjo, Marín, Melchor Ocampo, Mina, Parás, Pesquería, Los Ramones, Sabinas de Hidalgo, Salinas Victoria, Hidalgo, Vallecillo y Villaldama, así como los Ayuntamientos pertenecientes a la zona Sur, que comprende los Municipios de Allende, Arramberri, Dr. Arroyo, Galeana, Gral. Terán, Gral. Zaragoza, Hualahulses, Iturbide, Linares, Mier y Noriega, Montemorelos y Rayones, deberán elegir por mayoría absoluta a sus respectivos representantes, mediante reunión extraordinaria que para tal fin deberá convocar el Presidente del Consejo de Coordinación de Seguridad Pública del Estado en un plazo no mayor de 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- La reforma contenida en el presente Decreto se expide sin demérito de lo dispuesto en el Título Segundo, Capítulo Segundo de esta Ley, y en tal sentido los Municipios de cualquier zona podrán seguir ejerciendo las facultades que les otorga el Capítulo en cita.
