@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2006-09-08"
+last_updated: "2007-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -103,15 +103,15 @@ Con excepción de las causas señaladas en el presente reglamento, no será posi
 
 Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al agente, a través de una selección automática y aleatoria efectuada por la terminal (Melático), o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 5o.
 
-El participante seleccionará de 6 (seis) a 10 (diez) números elegidos entre el 1 (uno) y el 51 (cincuenta y uno), los cuales constituirán su pronóstico sobre el resultado del sorteo respectivo.
+El participante seleccionará de 6 (seis) a 10 (diez) números elegidos entre el 1 (uno) y el 56 (cincuenta y seis), los cuales constituirán su pronóstico sobre el resultado del sorteo respectivo.
 
-Combinación sencilla es la selección de 6 (seis) distintos números de los comprendidos entre el 1 (uno) y el 51 (cincuenta y uno).
+Combinación sencilla es la selección de 6 (seis) distintos números de los comprendidos entre el 1 (uno) y el 56 (cincuenta y seis).
 
-Combinación múltiple es la selección de 7 (siete) a 10 (diez) números distintos entre el 1 (uno) y el 51 (cincuenta y uno) y que da lugar a varias combinaciones sencillas: 7 (siete) números a 7 (siete), 8 (ocho) números a 28 (veintiocho), 9 (nueve) números a 84 (ochenta y cuatro) y 10 (diez) números a 210 (doscientas diez).
+Combinación múltiple es la selección de 7 (siete) a 10 (diez) números distintos entre el 1 (uno) y el 56 (cincuenta y seis) y que da lugar a varias combinaciones sencillas: 7 (siete) números a 7 (siete), 8 (ocho) números a 28 (veintiocho), 9 (nueve) números a 84 (ochenta y cuatro) y 10 (diez) números a 210 (doscientas diez).
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -187,7 +187,9 @@ Si hubiera alguna diferencia entre los resultados publicados y los oficiales, es
 
 El día y hora fijados para la ceremonia, en presencia del Inspector designado por la Secretaría de Gobernación, se procederá conforme a lo siguiente:
 
-I. Se introducirán en una urna 51 (cincuenta y un) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 51 (cincuenta y uno), inclusive.
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
+
+I. Se introducirán en una urna 56 (cincuenta y seis) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 56 (cincuenta y seis), inclusive.
 
 II. Ante la presencia del representante del Director General, designado en los términos del artículo 21o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
 
@@ -249,9 +251,9 @@ g) A séptimo lugar, a las combinaciones dentro de las cuales figuren 3 (tres) d
 
 h) A octavo lugar, a las combinaciones dentro de las cuales figuren 2 (dos) de los 6 (seis) números naturales y el adicional.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
 
-i) A noveno lugar, a las combinaciones dentro de las cuales figure 1 (uno) de los 6 (seis) números naturales y el adicional.
+i) A noveno lugar, a las combinaciones dentro de las cuales figuren 2 (dos) de los 6 (seis) números naturales.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -421,7 +423,9 @@ Si hubiera alguna diferencia entre los resultados publicados y los oficiales, es
 
 El día y hora fijados para la ceremonia, en presencia del Inspector designado por la Secretaría de Gobernación, se procederá conforme a lo siguiente:
 
-I. Se introducirán en una urna 51 (cincuenta y un) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 51 (cincuenta y uno), inclusive.
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
+
+I. Se introducirán en una urna 56 (cincuenta y seis) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 56 (cincuenta y seis), inclusive.
 
 II. Ante la presencia del representante del Director General, designado en los términos del artículo 21o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
 
@@ -640,3 +644,11 @@ Quinto.- El presente acuerdo entrará en vigor al siguiente día de su publicaci
 Sexto.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Séptimo.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos conforme a las disposiciones derogadas.
+
+D.O.F. 7 DE DICIEMBRE DE 2007.
+
+Primero.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
