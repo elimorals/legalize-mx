@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-establece-el-impuesto-general-de-35302"
 country: "mx"
 rank: "decreto"
 publication_date: "2002-12-31"
-last_updated: "2007-07-09"
+last_updated: "2007-12-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35302&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-12-27"
 
 DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2007.
 
 Decreto publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 2002
 
@@ -183,129 +183,75 @@ El cupo para importar en 2007, preparaciones a base de productos lácteos con un
 
 (VEASE ARCHIVO ANEXO)
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Durante 2007 se aplicará el mecanismo de asignación mixta (directa y licitación pública), conforme al cuadro siguiente:
+Con el objeto de complementar el abasto doméstico de preparaciones a base de productos lácteos, se aplicará el mecanismo de asignación directa al monto no asignado en las licitaciones públicas de 2007 a que se refiere el presente Acuerdo, conforme al cuadro siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
-1/ Conforme a lo establecido en la Fracción IV del Artículo Décimo Transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007. Se distribuirán sólo los saldos disponibles.
+1/ Se refiere a la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007.
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación del cupo de importación a que se refiere el presente Acuerdo:
+Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo:
 
-I.- Asignación directa:
+Empresas industriales del sector privado, que utilicen las preparaciones a base de productos lácteos como insumo, con antecedentes de asignación directa en 2007, que cumplan con la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, preparaciones lácteas, suero de leche y crema de leche) durante el periodo reportado, conforme a la hoja de requisitos anexa.
 
-A) La empresa del sector público encargada del programa de abasto social de este producto, conforme a los requerimientos de su programa anual de compras de leche fluida, leche en polvo y preparaciones a base de productos lácteos; así como a lo establecido en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007;
-
-B) Empresas industriales del sector privado, con antecedentes de asignación directa de éste cupo en 2006, que utilizan preparaciones a base de productos lácteos en sus procesos productivos y realizan una transformación sustancial de este insumo, que cumplan la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, preparaciones lácteas, suero de leche y crema de leche) y sus antecedentes de asignación de cupos, durante el periodo reportado, conforme a la hoja de requisitos anexa, y
-
-C) Empresas industriales del sector privado, con antecedentes de asignación directa de este cupo en 2006, que utilizan preparaciones a base de productos lácteos en sus procesos productivos y realizan una transformación sustancial de este insumo, que no cumplan la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, preparaciones lácteas, suero de leche y crema de leche) y sus antecedentes de asignación de cupos, durante el periodo reportado, conforme a la hoja de requisitos anexa.
-
-II.- Licitación pública:
-
-D) Personas físicas o morales del sector privado establecidas en los Estados Unidos Mexicanos.
-
-Para efecto del presente Acuerdo, se entenderá por transformación sustancial aquélla en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso tiene características distintas a las de la materia prima de donde proviene. Dicha materia prima es un insumo importante dentro del proceso industrial pero no el único.
-
-Para la empresa mencionada en el inciso A) de este artículo la asignación directa se realizará a través de la Dirección General de Comercio Exterior (DGCE), de acuerdo a lo señalado en los artículos segundo y tercero de este Acuerdo; y para las empresas señaladas en los incisos B) y C) de este artículo, la asignación directa se realizará a través de la DGCE, de acuerdo a las fórmulas establecidas en los artículos cuarto y quinto de este Acuerdo, respectivamente.
-
-Con excepción de los beneficiarios señalados en el inciso D) de la fracción II de este artículo, el producto no puede comercializarse en el mismo estado físico en que se importa.
+La mercancía obtenida por asignación directa no podrá ser comercializada en el mismo estado físico en que se importe.
 
 La vigencia máxima de los certificados de cupo será al 31 de diciembre de 2007 y serán improrrogables.
 
-Para la aplicación general de los criterios y fórmulas que se mencionan en este Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO CUARTO.
 
-Para la distribución por asignación directa del cupo, a las empresas mencionadas en el inciso B) del artículo tercero de este Acuerdo, se considerará lo siguiente:
+El criterio para la asignación del cupo a las empresas mencionadas en el artículo tercero de este Acuerdo, será el siguiente:
 
-Los solicitantes deberán cumplir como condición previa que su consumo de leche en polvo importada no sobrepase el 30% de la suma de los consumos auditados de leche fluida, leche en polvo y de otros sólidos de leche de producción nacional, y de leche en polvo importada durante el año previo.
+Se asignará el monto disponible de las licitaciones públicas a las empresas que tengan antecedentes de asignación directa en 2007, y se distribuirá a prorrata considerando sus consumos auditados de materias primas lácteas, es decir proporcionalmente entre las empresas que presenten su solicitud, a cada solicitante se asignará el monto solicitado o el que resulte de la prorrata.
 
-Los criterios de asignación aplicables a las empresas solicitantes de este cupo, son los que a continuación se indican:
-
-Para las empresas que cumplan con la condición previa, se tomará como referencia el monto que resulte mayor del total autorizado en 2005 o 2006 del cupo unilateral de preparaciones a base de productos lácteos, obtenidos por asignación directa.
-
-Este monto se ajustará por:
-
-La distribución de la asignación de cupos de importación por periodo y el monto disponible.
-
-La fórmula que se aplicará para este tipo de solicitantes será la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-La asignación en cada periodo se realizará siempre que exista saldo en el cupo.
-
-En el segundo periodo establecido en el cuadro del artículo segundo de este ordenamiento, se procederá a realizar una distribución proporcional del mismo, entre las empresas que presenten su solicitud, sólo en caso de existir saldo.
+La asignación se realizará en el orden en que se presenten las solicitudes, hasta agotar el monto disponible.
 
 ###### ARTICULO QUINTO.
 
-Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso C) del artículo tercero de este Acuerdo, se tomará en cuenta lo siguiente:
-
-Para los solicitantes que no puedan cumplir la condición previa señalada en el artículo cuarto de este Acuerdo, los criterios de asignación aplicables son los que a continuación se indican:
-
-Se tomará como referencia, el monto que resulte mayor del total autorizado en 2005 o 2006 del cupo unilateral de preparaciones a base de productos lácteos obtenidos por asignación directa.
-
-Este monto se ajustará por:
-
-La distribución de la asignación de cupos de importación por periodo y el monto disponible.
-
-La fórmula que se aplicará para este tipo de solicitantes será la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-La asignación se realizará siempre que exista saldo en el cupo.
-
-En el segundo periodo establecido en el cuadro del artículo segundo de este ordenamiento, se procederá a realizar una distribución proporcional del mismo, entre las empresas que presenten su solicitud, sólo en caso de existir saldo.
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO SEXTO.
 
-Para la distribución del cupo por licitación pública previsto en el inciso D) de los artículos segundo y tercero de este Acuerdo, se considerará lo siguiente:
-
-Las licitaciones públicas se sujetarán a las bases que establezca la convocatoria correspondiente, la cual deberá ser publicada en el Diario Oficial de la Federación por la Dirección General de Comercio Exterior, por lo menos 20 días hábiles antes de que inicie el periodo de registro de solicitudes, en la que se establecerá la fecha en que se pondrán a disposición de los interesados las bases correspondientes.
-
-Se llevarán a cabo dos licitaciones públicas bajo la modalidad de postura ofrecida, con un monto de 6,000 toneladas cada una.
-
-Podrán participar en las licitaciones públicas las personas físicas o morales establecidas en el país que cumplan con los requisitos que señalen las bases de la licitación pública correspondiente.
-
-Los interesados en participar en las licitaciones públicas deberán presentar su oferta en la forma SE-03-011-3 Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar.
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO SEPTIMO.
 
 La Dirección General de Industrias Básicas de esta Secretaría y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, efectuarán reuniones con los representantes de las principales organizaciones de productores e industriales que integran la cadena productiva de leche y derivados lácteos, con el fin de evaluar y dar seguimiento a la administración de este cupo.
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO OCTAVO.
 
-Las solicitudes de asignación directa deberán presentarse en el formato SE-03-011-1 Solicitud de asignación de cupo en la Representación Federal de esta Secretaría que le corresponda. Las hojas de requisitos específicos se establecen como anexos al presente Acuerdo. El plazo de resolución de dicha solicitud será no mayor de siete días hábiles, contados a partir del día hábil siguiente a la fecha de recepción de la solicitud debidamente requisitada.
+Las solicitudes de asignación directa deberán presentarse en el formato SE-03-011-1 "Solicitud de asignación de cupo" en la Representación Federal de esta Secretaría que le corresponda, la hoja de requisitos específicos se establece como anexo al presente instrumento. El plazo de resolución de dicha solicitud será de siete días hábiles, contados a partir del día hábil siguiente a la fecha de recepción de la solicitud debidamente requisitada.
 
-Para la empresa del sector público la asignación del cupo tendrá una vigencia al 31 de diciembre. Para el resto de los solicitantes, las asignaciones de cupo por periodo tendrán una vigencia de cuatro meses, contados a partir de la fecha de emisión del certificado de cupo y serán improrrogables. La vigencia máxima de los certificados de cupo será al 31 de diciembre de 2007.
+La vigencia máxima de las asignaciones de cupo será al 31 de diciembre de 2007 y serán improrrogables.
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO NOVENO.
 
-Una vez obtenido el monto para importar dentro del cupo por el mecanismo de asignación directa, la Secretaría expedirá los respectivos certificados de cupo, a través de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”. El certificado de cupo es nominativo e intransferible.
+Una vez obtenido el monto para importar dentro del cupo por el mecanismo de asignación directa, la Secretaría expedirá los respectivos certificados de cupo, a través de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-5 "Solicitud de certificados de cupo (obtenido por asignación directa)". El certificado de cupo es nominativo e intransferible.
 
-Una vez demostrado el pago de adjudicación del monto para importar dentro del arancel-cupo, obtenido a través del mecanismo de licitación pública, conforme lo establezcan las bases de la propia licitación, la Secretaría expedirá los respectivos certificados de cupo, a través de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”. El certificado de cupo es nominativo e intransferible y tendrán una vigencia de cuatro meses, contados a partir de la fecha de emisión del certificado de cupo y serán improrrogables. La vigencia máxima de los certificados de cupo será al 31 de diciembre de 2007.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO DECIMO.
 
 Los formatos a que se hace referencia en este Acuerdo, estarán a disposición de los interesados en las Representaciones Federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica correspondiente, como se indica a continuación:
 
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
+a) Para el caso del formato SE-03-011-1 "Solicitud de asignación de cupo": http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+b) Para el formato de expedición del certificado de cupo (SE-03-013-5): "Solicitud de certificados de cupo (obtenido por asignación directa)":
 
-b) Para el formato de expedición del certificado de cupo (SE-03-013-5): “Solicitud de certificados de cupo (obtenido por asignación directa)”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
-
-c) Para participar en licitaciones públicas para adjudicar cupo para importar o exportar (SE-03-011-3):
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-034
-
-d) Para el caso del formato SE-03-013-6 “Solicitud de Certificado de Cupo (Obtenido a través de licitación pública)”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-043
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042.
 
 ## TRANSITORIOS
 
@@ -362,3 +308,25 @@ Asignación Directa
 (3) Se deberá utilizar, en su caso, para convertir la leche fluida a sólidos totales el factor de 8.5 para leche en polvo entera; y de 11.3 para leche en polvo descremada.
 
 NOTA: la Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo. En caso de incumplimiento, se aplicarán las sanciones establecidas en la legislación de la materia.
+
+D.O.F. 7 DE DICIEMBRE DE 2007.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+
+SECRETARIA DE ECONOMIA
+
+DIRECCION GENERAL DE COMERCIO EXTERIOR
+
+REQUISITOS PARA LA ASIGNACION DEL MONTO NO ASIGNADO EN LAS LICITACIONES PUBLICAS
+
+FRACCION 1901.90.05 (EXCEPTO LAS COMPRENDIDAS EN LA FRACCION 1901.90.04) PROVENIENTE DE TODOS LOS PAISES
+
+Asignación Directa
+
+(VEASE ARCHIVO ANEXO)
+
+* Se refiere a la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007.
+
+(1) De conformidad con el Acuerdo por el que se da a conocer el cupo para importar en 2007 con el arancel-cupo establecido, preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50%, en peso, excepto las comprendidas en la fracción 1901.90.04, publicado en el Diario Oficial de la Federación el 9 de julio de 2007.
+
+NOTA: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo.
