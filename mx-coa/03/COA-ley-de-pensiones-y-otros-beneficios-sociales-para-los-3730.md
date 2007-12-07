@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "2006-11-07"
+last_updated: "2007-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -315,11 +315,13 @@ Tendrán derecho a percibir la pensión por muerte de un trabajador o pensionado
 
 El derecho al otorgamiento de esta pensión se adquirirá a partir del día siguiente a aquel en que ocurra la muerte que dé lugar a la pensión.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 41.
 
-La pensión por causa de muerte del trabajador consistirá en el pago mensual durante 15 años a partir del día siguiente al de la fecha de fallecimiento, de una cantidad equivalente al 100% del sueldo regulador a que se refiere la Fracción V del Artículo 2°, al que se le aplicará el tabulador consignado en el Artículo 33 de esta Ley.
+La pensión por causa de muerte del trabajador consistirá en el pago mensual, a partir del día siguiente al de la fecha de fallecimiento, de una cantidad equivalente al 100% del sueldo regulador a que se refiere la fracción V del artículo 2°, al que se le aplicará el tabulador consignado en el artículo 33 de esta ley.
 
-En caso de fallecimiento del trabajador después de haber laborado más de 25 años, la pensión se calculará aplicando al sueldo base, el tabulador consignado en el Artículo 33 de esta Ley.
+La pensión a que tenga derecho el hijo incapacitado o imposibilitado total o parcialmente para trabajar, el cónyuge supérstite, el compañero civil o el concubino o la concubina del trabajador o pensionado, cesará al momento de la muerte de cada uno de ellos.
 
 ###### ARTICULO 42.
 
@@ -856,3 +858,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 P.O. 7 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. A todas aquellas personas a quienes caducó su derecho por transcurrir el término de 15 años señalado en la ley, gozarán a partir de la vigencia del presente decreto del pago de dicha prestación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
