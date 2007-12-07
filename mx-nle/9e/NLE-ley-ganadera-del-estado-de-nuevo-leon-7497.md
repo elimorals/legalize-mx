@@ -4,7 +4,7 @@ identifier: "NLE-ley-ganadera-del-estado-de-nuevo-leon-7497"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-16"
-last_updated: "1994-05-23"
+last_updated: "2007-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY GANADERA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de mayo de 1994.
 
@@ -1019,115 +1019,97 @@ Para el control sanitario y la movilización de las aves, productos y subproduct
 
 Para la introducción o salida del Estado de aves, sus productos y subproductos en estado natural, refrigerado, congelado o industrializado, se observará lo establecido en el capítulo relativo a la introducción y salida de ganado, sus productos y subproductos, en lo que sea compatible.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2007)</small>
+
 ## TITULO IX. DE LA APICULTURA
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO PRIMERO. GENERALIDADES
 
 ###### Artículo 165.
 
-Para los efectos de esta Ley se entenderá por:
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
-I.- Apicultura: las actividades relativas a la cría, explotación y mejoramiento genético de las abejas, así como a la industrialización y comercialización de sus productos y subproductos.
-
-II.- Apicultor: toda persona física o moral que se dedica a la cría y explotación, producción o mejoramiento de las abejas.
-
-III.- Apiario: al conjunto de colmenas instaladas en un lugar determinado; y
-
-IV.- Colmena: la caja o cajón que se destina para habitación de las abejas a fin de que ahí finquen sus panales para el almacenamiento de la miel.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO SEGUNDO. DE LA INSTALACION DE LOS APIARIOS
 
 ###### Artículo 166.
 
-Toda instalación de un apiario requerirá la autorización de la Secretaría del ramo. Esta podrá solicitar información al respecto, a la Presidencia del Municipio o municipios donde se vayan a instalar los apiarios.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 167.
 
-Todo apicultor, al instalar sus apiarios, deberá observar las siguientes distancias:
-
-I.- En los caminos vecinales, a una distancia de quince metros de los mismos; y
-
-II.- En predios, a una distancia mínima de un kilómetro de la casa o casas habitación de la ranchería o centro de población. Se deberá acreditar el derecho al uso del predio para instalar apiarios en terrenos de propiedad privada, comunal o ejidal.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 168.
 
-Se clausurarán los apiarios que se instalen en contravención a las disposiciones establecidas en esta Ley y su Reglamento, y los apiarios y sus colmenas quedarán a disposición de la Secretaría del ramo para garantizar el pago de las multas correspondientes.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 169.
 
-Las controversias suscitadas entre apicultores por la instalación de los apiarios, de no resolverse por mutuo acuerdo serán resueltas por la Secretaría del ramo.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO TERCERO. DE LA PROPIEDAD Y MARCA DE LAS COLMENAS
 
 ###### Artículo 170.
 
-La propiedad de los apiarios se acreditará con:
-
-I.- La factura o documento legal que acredite la transferencia de dominio.
-
-II.- La guía de tránsito que ampare el traslado del lugar de origen al de ubicación del apiario; y
-
-III.- La patente del registro correspondiente en la Secretaría del ramo y en la Presidencia de los Ayuntamientos respectivos.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 171.
 
-Todo apicultor deberá tener su marca debidamente registrada ante la Secretaría del ramo y ante la Presidencia del Municipio o municipios del lugar de ubicación de los apiarios.
-
-Dicho registro no tendrá vigencia legal si no cuenta con las autorizaciones de ambas autoridades.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 172.
 
-La solicitud del registro de marcas deberá ser formulada en las formas oficiales que proporcione la Secretaría del ramo, con los siguientes datos:
-
-I.- Nombre, domicilio y demás generales del solicitante.
-
-II.- Lugar de ubicación.
-
-III.- Número de apiarios; y
-
-IV.- Los demás datos que se consideren necesarios.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 173.
 
-Todo apicultor tiene la obligación de marcar sus colmenas e identificar sus productos y subproductos en la forma establecida en su registro.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 174.
 
-La Secretaría del ramo llevará un registro de las marcas aprobadas y pasará copia de las mismas a la Presidencia del Municipio o municipios, del asiento de producción de los apiarios, para efecto del registro del apicultor.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 175.
 
-La Secretaría del ramo no aceptará el registro de marcas semejantes, dará preferencia a la presentada en primer término y exigirá que los solicitantes posteriores presenten marcas distintas.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 176.
 
-Las marcas deberán revalidarse dentro de los años terminados en cero y cinco. La infracción a esta disposición se sancionará en los términos establecidos en el capítulo respectivo.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 177.
 
-Se prohibe el uso de marcas no registradas o no revalidadas, así como utilizar las marcas de otro apicultor registrado.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 178.
 
-Toda persona que utilice marcas registradas conforme esta Ley, de las cuales no sea titular, será denunciada a las autoridades competentes para la aplicación de las penas del delito de falsificación, independientemente de que se le apliquen las sanciones que correspondan de acuerdo a lo señalado en el capítulo respectivo.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 179.
 
-Las marcas debidamente registradas serán del uso exclusivo del apicultor propietario. Este será sancionado conforme se establecer (sic) en el capítulo respectivo, cada vez que permita que persona ajena las utilice en productos que no provengan de sus colmenas.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 180.
 
-La compra-venta de colmenas y material apícola marcado, deberá efectuarse acompañada de la factura correspondiente; el comprador colocará su marca a un lado de la del vendedor, sin borrarla.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO CUARTO. DE LA MOVILIZACION DE LOS APIARIOS COLMENAS, SUS PRODUCTOS Y SUBPRODUCTOS
 
 ###### Artículo 181.
 
-Para la movilización de los apiarios dentro de la Entidad con el propósito de reubicarlos en un nuevo sitio, deberá solicitarse autorización de la Secretaría del ramo, acompañando el plano descriptivo de la zona en la cual deberán señalarse los apiarios existentes.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ###### Artículo 182.
 
-Para movilizar colmenas, abejas sus productos y subproductos fuera del Estado, deberá solicitarse permiso a la Secretaría del ramo por conducto de la Asociación Ganadera Local, previa presentación del certificado zoosanitario y la guía de tránsito.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2007)
 
 ## TITULO X. DE LA PORCICULTURA
 
@@ -1214,3 +1196,7 @@ ING. LEOPOLDO ESPINOSA BENAVIDES
 P.O. 23 DE MAYO DE 1994.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
