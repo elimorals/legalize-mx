@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2007-11-27"
+last_updated: "2007-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2007.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -331,7 +331,9 @@ La infracción de las disposiciones contenidas en los artículos 17, 18, 19, 21,
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
-ARTICULO 27 bis.- Las actuaciones serán nulas cuando carezcan de alguna de las formalidades esenciales que prevenga la ley, de manera que se cause perjuicio a cualquiera de las partes, así como cuando la ley expresamente determine la nulidad. Esta no podrá ser invocada por quien dio lugar a ella. La nulidad de una actuación se reclamará, por la parte que la promueva, en la actuación subsecuente en que ésta deba intervenir, y se substanciará conforme al procedimiento previsto para los incidentes no especificados. Cuando se resuelva la nulidad del acto, serán igualmente nulas las actuaciones posteriores al acto anulado que se deriven precisamente de éste. Las resoluciones que resuelvan sobre la nulidad invocada, serán apelables con efecto devolutivo.
+###### ARTICULO 27 Bis.
+
+Las actuaciones serán nulas cuando carezcan de alguna de las formalidades esenciales que prevenga la ley, de manera que se cause perjuicio a cualquiera de las partes, así como cuando la ley expresamente determine la nulidad. Esta no podrá ser invocada por quien dio lugar a ella. La nulidad de una actuación se reclamará, por la parte que la promueva, en la actuación subsecuente en que ésta deba intervenir, y se substanciará conforme al procedimiento previsto para los incidentes no especificados. Cuando se resuelva la nulidad del acto, serán igualmente nulas las actuaciones posteriores al acto anulado que se deriven precisamente de éste. Las resoluciones que resuelvan sobre la nulidad invocada, serán apelables con efecto devolutivo.
 
 ### CAPITULO III. Intérpretes
 
@@ -1149,7 +1151,9 @@ IV.- Los resolutivos de la nueva determinación.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
-ARTICULO 133 bis.- La autoridad judicial podrá, a petición del Ministerio Público, decretar el arraigo domiciliario o imponer la prohibición de abandonar una demarcación geográfica sin su autorización, a la persona en contra de quien se prepare el ejercicio de la acción penal, siempre y cuando exista el riesgo fundado de que se sustraiga a la acción de la justicia. Corresponderá al Ministerio Público y a sus auxiliares vigilar que el mandato de la autoridad judicial sea debidamente cumplido.
+###### ARTICULO 133 Bis.
+
+La autoridad judicial podrá, a petición del Ministerio Público, decretar el arraigo domiciliario o imponer la prohibición de abandonar una demarcación geográfica sin su autorización, a la persona en contra de quien se prepare el ejercicio de la acción penal, siempre y cuando exista el riesgo fundado de que se sustraiga a la acción de la justicia. Corresponderá al Ministerio Público y a sus auxiliares vigilar que el mandato de la autoridad judicial sea debidamente cumplido.
 
 El arraigo domiciliario o la prohibición de abandonar una demarcación geográfica se prolongarán por el tiempo estrictamente indispensable, no debiendo exceder de treinta días naturales, en el caso del arraigo, y de sesenta días naturales, en el de la prohibición de abandonar una demarcación geográfica.
 
@@ -1425,7 +1429,9 @@ c) En cualquier caso en que se haya dictado auto de formal prisión o de sujeci�
 
 El inculpado podrá optar por el procedimiento ordinario dentro de los tres días siguientes al que se le notifique la instauración del juicio sumario.
 
-ARTICULO 152 bis.- (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
+###### ARTICULO 152 Bis.
+
+(DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
 ### CAPITULO III. Autos de formal prisión, de sujeción a proceso y de libertad por falta de elementos para procesar
 
@@ -1562,6 +1568,24 @@ Dictado el auto de formal prisión o el de sujeción a proceso se identificará 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 Las constancias de antecedentes penales y los documentos o fichas en que conste la identificación de individuos indiciados o inculpados con motivo de cualquier averiguación o proceso penal, sólo se proporcionarán por las oficinas respectivas cuando lo requiera una autoridad competente, fundando y motivando su requerimiento, o cuando se solicite por ser necesarias para ejercitar un derecho o cumplir un deber legalmente previstos.
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 165 Bis.
+
+Se procederá a la cancelación del documento de identificación administrativa que establece el artículo 165 de la presente Ley, en los siguientes supuestos:
+
+a) Cuando el proceso penal haya concluido con una sentencia absolutoria que haya causado estado;
+
+b) En el caso de que el sobreseimiento recayera sobre la totalidad de los delitos a que se refiere la causa, y
+
+c) En el caso de reconocimiento de inocencia, contemplado en el artículo 96 del Código Penal Federal.
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 165 Ter.
+
+En los supuestos previstos en el artículo 165 Bis, el Juzgador, de oficio y sin mayor trámite, ordenará la cancelación del documento de identificación administrativa. De lo anterior dejará constancia en el expediente.
 
 ###### ARTICULO 166.
 
@@ -1965,7 +1989,9 @@ De decretar la retención, el Ministerio Público iniciará desde luego la averi
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-ARTICULO 193 BIS.- En casos urgentes el Ministerio Público podrá, bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
+###### ARTICULO 193 Bis.
+
+En casos urgentes el Ministerio Público podrá, bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
 
 a) Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en el artículo siguiente;
 
@@ -2135,7 +2161,9 @@ La tentativa punible de los ilícitos penales mencionados en las fracciones ante
 
 > <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
-ARTICULO 194 bis.- En los casos de delito flagrante y en casos urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, quien transcurrido dicho plazo, deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse respecto de los delitos a que se refiere la ley federal en materia de delincuencia organizada.
+###### ARTICULO 194 Bis.
+
+En los casos de delito flagrante y en casos urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, quien transcurrido dicho plazo, deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse respecto de los delitos a que se refiere la ley federal en materia de delincuencia organizada.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
@@ -3585,7 +3613,9 @@ La caución a que se refiere la fracción III y las garantías a que se refieren
 
 > <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
-ARTICULO 399 BIS.- En caso de delitos no graves, el Juez podrá negar a solicitud del Ministerio Público, la libertad provisional del inculpado, cuando éste haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+###### ARTICULO 399 Bis.
+
+En caso de delitos no graves, el Juez podrá negar a solicitud del Ministerio Público, la libertad provisional del inculpado, cuando éste haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
 Por conducta precedente o circunstancias y características del delito cometido, según corresponda, se entenderán, cuando:
 
@@ -3607,7 +3637,9 @@ VIII. El inculpado haya cometido el delito bajo el influjo de estupefacientes o 
 
 > <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
-ARTICULO 399 TER.- El juez podrá en todo caso revocar la libertad provisional concedida al inculpado cuando aparezca durante el proceso cualesquiera de las causas previstas en el artículo anterior y así lo solicite el Ministerio Público.
+###### ARTICULO 399 Ter.
+
+El juez podrá en todo caso revocar la libertad provisional concedida al inculpado cuando aparezca durante el proceso cualesquiera de las causas previstas en el artículo anterior y así lo solicite el Ministerio Público.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -5046,3 +5078,7 @@ D.O.F. 27 DE NOVIEMBRE DE 2007.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 días hábiles.
+
+D.O.F. 7 DE DICIEMBRE DE 2007.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
