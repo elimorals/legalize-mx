@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-general-de-gobierno-17569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-12"
-last_updated: "2005-10-22"
+last_updated: "2007-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2000.
 
@@ -76,6 +76,10 @@ Para la mejor organización del quehacer institucional el Secretario podrá dele
 ###### Artículo 4.
 
 Al Secretario le corresponderá el ejercicio de las atribuciones que expresamente le confieren la Constitución Política del Estado, la Ley Orgánica del Poder Ejecutivo y las demás disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2007)</small>
+
+Artículo 4 bis.- En las ausencias temporales del Gobernador Constitucional del Estado que no excedan de treinta días, el Secretario se hará cargo del despacho del Ejecutivo, de conformidad con el artículo 43 de la Constitución Política del Estado de Jalisco, por lo que, en este caso, el Subsecretario de Asuntos Jurídicos, será el encargado del despacho de la Secretaría.
 
 ### CAPÍTULO II. De la Estructura
 
@@ -622,3 +626,7 @@ TERCERO - Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega e
 CUARTO. Se deroga el acuerdo ACU/SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
 
 QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+P.O. 8 DE DICIEMBRE DE 2007.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
