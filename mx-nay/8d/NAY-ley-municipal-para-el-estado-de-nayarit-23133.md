@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2006-10-28"
+last_updated: "2007-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -273,9 +273,11 @@ Para crear nuevos municipios dentro de los límites de los ya existentes, modifi
 
 ### CAPÍTULO I. De la integración de los Ayuntamientos
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 30.
 
-Los Ayuntamientos de cada municipio se integran por un Presidente Municipal, un Síndico y el número de Regidores de mayoría relativa y de representación proporcional que se determinan en la Ley Electoral del Estado de Nayarit. Serán electos por planillas por votación mayoritaria relativa; permanecerán en sus cargos tres años y se renovarán en su totalidad al final de cada periodo.
+Los Ayuntamientos de cada municipio se integran por un Presidente Municipal, un Síndico y Regidores de mayoría relativa y de representación proporcional, electos de conformidad a lo dispuesto por la Constitución Política del Estado y la Ley Electoral.
 
 ###### ARTICULO 31.
 
@@ -3130,3 +3132,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE DICIEMBRE DE 2007.
+
+Artículo Único: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
