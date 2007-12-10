@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2006-11-17"
+last_updated: "2007-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPAL LIBRE DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -1427,9 +1427,11 @@ La Dependencia Encargada de las Finanzas Públicas, efectuará la determinación
 
 El titular de la dependencia encargada de las finanzas públicas es el responsable de la elaboración de los proyectos de iniciativa de Ley de Ingresos y del Presupuesto de Egresos del municipio.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 107.
 
-Para la elaboración de la Ley de Ingresos, el Titular de la dependencia encargada de las finanzas públicas presentará al Ayuntamiento, a más tardar el día primero de noviembre, un proyecto de iniciativa de Ley, en el cual hará acopio de la información económica y contable del ejercicio anterior, así como de los factores generales que reflejen la situación económica del municipio y la región.
+Para la elaboración de la Ley de Ingresos, el titular de la dependencia encargada de las finanzas públicas presentará al Ayuntamiento, a más tardar el día veinte de noviembre, un proyecto de iniciativa de Ley, en el cual hará acopio de la información económica y contable del ejercicio anterior, así como de los factores generales que reflejen la situación económica del municipio y la región.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2004)</small>
 
@@ -2144,3 +2146,21 @@ Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legi
 Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscalizadas, hasta su total conclusión.
 
 Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
+
+P.O. 10 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2008.
+
+...
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese esta Ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
