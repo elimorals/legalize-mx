@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2003-11-12"
+last_updated: "2007-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE OBRA PUBLICA DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -139,13 +139,17 @@ VII.- Todos aquellos de naturaleza análoga.
 
 La inversión en obra pública se sujetará a lo previsto en la normatividad que regula al gasto público, al ejercicio de los presupuestos de egresos del Estado y los Municipios, así como en lo previsto en la ley de la materia y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 4.
 
-La aplicación de la presente ley corresponde al Ejecutivo del Estado a través de las dependencias competentes en las materias de Planeación y Finanzas, Desarrollo Urbano, Obras Públicas, Fiscalización y Control, y a los Municipios, en el ámbito de su competencia que les corresponda, sin perjuicio de la intervención que corresponda a otras dependencias estatales o municipales, conforme con ésta u otras disposiciones legales.
+La aplicación de la presente Ley corresponde al Ejecutivo del Estado, a través de las dependencias competentes en las materias de Planeación y Finanzas, Desarrollo Urbano, Obra Pública, Fiscalización y Control, y a los Municipios, en el ámbito de la competencia que les corresponda, sin perjuicio de la intervención que competa a otras dependencias estatales o municipales.
 
-Las Secretarías de Desarrollo Urbano y Obras Públicas, de Planeación y Finanzas, y de la Contraloría conjuntamente, y en su caso, con los Municipios, expedirán las disposiciones administrativas necesarias, que para la aplicación de la presente ley deberán observarse en la contratación, ejecución y supervisión de la obra pública, mismas que deberán publicarse en el Periódico Oficial de (sic) Gobierno del Estado La Sombra de Arteaga.
+Para la aplicación de la presente Ley, a la Secretaría de Planeación y Finanzas le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la entidad ejecutora.
 
-Cuando se autorice la ejecución de obra pública o actividad alguna de las señaladas en el párrafo primero, del artículo 1º, en beneficio de los mencionados en la fracción VII del mismo numeral, serán las mismas autoridades señaladas en este artículo quienes se encargarán de vigilar el desarrollo y ejecución de las obras y actividades mencionadas cuando se realicen por administración, así como de la contratación cuando sea necesario, cuya formalización la hará la autoridad competente en términos de la ley.
+Las Secretarías de Desarrollo Urbano y Obras Públicas, de Planeación y Finanzas y de la Contraloría, conjuntamente y, en su caso, con los Municipios, expedirán las disposiciones administrativas necesarias que para la aplicación de la presente Ley deberán observarse en la contratación, ejecución y supervisión de la obra pública.
+
+Cuando se autorice la ejecución de obra pública o actividad alguna de las señaladas en el primer párrafo del artículo 1, en beneficio de los mencionados en la fracción VII del mismo numeral, serán las mismas autoridades señaladas en este artículo, quienes se encargarán de vigilar el desarrollo y ejecución de las obras y actividades mencionadas cuando se realicen por administración, así como de la contratación cuando sea necesario, cuya formalización la hará la autoridad competente en términos de la ley.
 
 ###### ARTÍCULO 5.
 
@@ -777,9 +781,11 @@ En los casos de licitaciones en segunda convocatoria, se seguirá el mismo proce
 
 ### CAPÍTULO VI. DE LA CONTRATACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 51.
 
-Una vez resuelto el proceso de licitación y dado su respectivo fallo, la convocante y el adjudicatario suscribirán el contrato de obra correspondiente dentro de un plazo no mayor de diez días hábiles.
+Una vez resuelto el proceso de licitación y dado su respectivo fallo, la convocante y el adjudicatario suscribirán el contrato de obra correspondiente dentro de un plazo no mayor de quince días hábiles.
 
 Si el interesado se negare a firmar el contrato perderá a favor de la convocante la garantía que hubiere otorgado y la dependencia, entidad o municipio podrán, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante siguiente conforme al orden de prelación emitido en el fallo correspondiente, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
 
@@ -859,9 +865,11 @@ IV.- No se otorgarán anticipos para el importe resultante de los ajustes de cos
 
 V.- Para los efectos de la amortización de los anticipos, en caso de rescisión del contrato, el saldo por amortizar deberá reintegrarse a la contratante en un plazo no mayor de quince días naturales, a partir de la fecha en que se haya notificado la rescisión al contratista; en caso de incumplimiento se procederá a la aplicación de las sanciones estipuladas en esta ley y la aplicación de las fianzas de anticipo y cumplimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 55.
 
-Quienes participen en las licitaciones o celebren contratos regulados por esta ley, deberán garantizar lo estipulado optando por garantías mediante el empleo de títulos de crédito o con fianzas expedidas por las instituciones autorizadas en los términos de la Ley Federal de Instituciones de Fianzas de acuerdo a los montos y porcentajes que a continuación se describen:
+Quienes participen en las licitaciones o invitación restringida regulados por esta Ley, deberán garantizar ante el Poder, dependencia o entidad contratantes, mediante cheque certificado, cheque de caja o con fianzas expedidas por las instituciones autorizadas, en los términos de la Ley Federal de Instituciones de Fianzas, de acuerdo a los montos y porcentajes que a continuación se describen:
 
 I.- La seriedad de las propuestas en los procedimientos de licitación, se optará por garantizarla con una fianza que cubra el cinco por ciento del monto de la propuesta o bien, mediante un cheque no negociable, suscrito a nombre de la convocante, por el importe del mencionado porcentaje. En el supuesto de que el contratista retire su propuesta, la garantía será hecha efectiva por la convocante y además aquel será inhabilitado hasta por un año para participar en obras reguladas por esta ley.
 
@@ -873,7 +881,25 @@ III.- El cumplimiento del contrato, con la garantía que cubra el importe que co
 
 IV.- Contra los vicios ocultos, se integrará una garantía que cubra el diez por ciento del monto ejercido y con vigencia de doce meses, a partir de la fecha de recepción, la cual será solicitada con cancelación automática a su vencimiento.
 
-Las garantías previstas en las fracciones II y III de este artículo, deberán presentarse dentro de los siete días naturales siguientes a la fecha en que el contratista reciba copia simple del formato de contrato o del fallo de adjudicación y el o los anticipos correspondientes se entregarán, a más tardar dentro de los diez días naturales siguientes a la presentación de la garantía.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+Las garantías previstas en las fracciones II y III de este artículo, deberán expedirse dentro de los plazos que se fijen en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+Los anticipos se entregarán dentro de los plazos que se fijen en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+La aceptación, calificación, custodia, sustitución, cancelación y requerimiento de pago de las garantías a que se refiere este artículo, se realizará por el Poder, entidad o dependencia contratante.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+Las garantías otorgadas a favor de la Secretaría de Planeación y Finanzas del Poder Ejecutivo, en términos del artículo 49 fracción III de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, se harán efectivas por el Poder, entidad o dependencia correspondiente, en coordinación con dicha Secretaría, por lo que ve a la suscripción de los documentos necesarios para ese efecto.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+El Poder, entidad o dependencia contratante intervendrá en los procedimientos y juicios ante los tribunales competentes, por oposición al pago que formulen las compañías afianzadoras
 
 ###### ARTÍCULO 56.
 
@@ -915,7 +941,9 @@ Durante la fase de ejecución de la obra, el supervisor mantendrá al corriente 
 
 Las estimaciones de los trabajos ejecutados serán elaboradas y presentadas por el contratista a la dependencia, entidad o municipio contratante por períodos acordes al programa y duración de los trabajos contratados, en plazos no mayores a un mes, acompañadas de la documentación necesaria que acredite la procedencia de su pago.
 
-Los Contratistas cubrirán el 2% sobre el importe de cada una de las estimaciones de trabajo, con derechos por los servicios de vigilancia, inspección y control necesario para la ejecución.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+Los contratistas cubrirán el 4 al millar sobre el importe de cada una de las estimaciones de trabajo, por concepto de derechos por los servicios de vigilancia, inspección y control necesarios para la ejecución.
 
 Dentro de un plazo no mayor de quince días naturales contados a partir de la fecha en que el residente de supervisión reciba las estimaciones por trabajos ejecutados, procederá a su revisión y aprobación, hecho lo cual la contratante hará el pago en un plazo no mayor de quince días naturales a partir de que el contratista presente la factura correspondiente.
 
@@ -1238,3 +1266,27 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES.
 SECRETARIO DE GOBIERNO.
 
 Rúbrica.
+
+P.O. 10 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2008.
+
+...
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de la reforma de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, de la Ley de Obra Pública del Estado de Querétaro y del Código Urbano para el Estado de Querétaro, las garantías que se hayan otorgado a favor de la Secretaría de Planeación y Finanzas antes de la entrada en vigor de la presente Ley, en su caso, se harán efectivas por el Poder, la dependencia o entidad responsable del acto en que conste o del que derive la obligación principal, en coordinación con dicha Secretaría, por lo que ve a la suscripción de los documentos necesarios para ese efecto.
+
+Dentro del plazo de seis meses contados a partir de que entre en vigor la presente Ley, el Poder, la dependencia o entidad responsable del acto en que conste o del que derive la obligación principal, recibirá de la Secretaría de Planeación y Finanzas, las fianzas que ésta tenía bajo su custodia.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese esta Ley en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
