@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2006-12-29"
+last_updated: "2007-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -1203,13 +1203,21 @@ Las cuotas o tarifas de los derechos que se causen por la prestación del servic
 
 ### CAPITULO TERCERO. Alumbrado Público
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 108.
 
-Por la prestación del servicio de alumbrado público, los consumidores de energía eléctrica pagarán un derecho conforme a la tasa que apruebe el Congreso del Estado en leyes de ingresos de los Ayuntamientos, sobre el importe del consumo señalado en los recibos que por la prestación del servicio de energía eléctrica expida la Comisión Federal de Electricidad.
+Por la prestación del servicio de alumbrado público los propietarios y/o poseedores de predios construidos o de predios no edificados o baldíos ubicados en las zonas urbanas o suburbanas de las poblaciones municipales, pagarán un derecho en base al costo total del servicio que se hubiera ocasionado con motivo de su prestación en dicha población, entre el número de usuarios registrados en la Comisión Federal de Electricidad en la población de que se trate más el número de los propietarios y/o poseedores de predios construidos o de predios no edificados o baldíos, que no cuenten con dicho servicio.
 
-Tratándose de propietarios o posesionarios de predios baldíos, urbanos y suburbanos, pagarán un derecho que estará en función del valor catastral de cada predio, conforme a las tarifas que apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
+Las leyes de ingresos municipales señalarán los costos de este servicio en cada una de sus poblaciones.
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 108 BIS.- Para efectos de esta contribución, se entenderá por costo total del servicio el que resulte de sumar los costos de los consumos de energía eléctrica destinados a la prestación del servicio de alumbrado público, la reposición de lámparas, el mantenimiento de líneas eléctricas y postes, los sueldos del personal encargado de las tareas inherentes a la prestación del servicio y la constitución de una reserva razonable para la reposición, mejoramiento y, en su caso, expansión del servicio.
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 108 BIS 1.- Para calcular el costo total aplicable en un ejercicio, se considerará el costo total del año inmediato anterior a aquel para el cual se aplicará la contribución, incrementado en un porcentaje que refleje, en su caso, los costos derivados del incremento en los precios de los insumos necesarios para la prestación del servicio y de su expansión en el territorio municipal. Para hacer este cálculo, se considerarán los gastos reales ejercidos a la fecha de formulación de la iniciativa de Ley de Ingresos para el siguiente ejercicio fiscal y se hará la proyección del periodo que falte para concluir el año.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1217,11 +1225,13 @@ Tratándose de propietarios o posesionarios de predios baldíos, urbanos y subur
 
 Los Ayuntamientos de los municipios del Estado, de conformidad con lo dispuesto en la Ley de Gobierno y Administración Municipal, podrán celebrar convenios con la comisión federal de electricidad, para el efecto de que sea esta entidad de la administración pública federal, quien recaude la contraprestación señalada, tratándose de propietarios o posesionarios de predios que cuentan con servicio medido o facturado de energía eléctrica, y realice el entero en la Tesorería Municipal, en los términos que se convengan.
 
-> <small>(REFORMADO, B.O. 19 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 110.
 
-La cuota del derecho del servicio de alumbrado público es mensual, pero su importe se pagará, en el caso de existir el Convenio a que se refiere el artículo anterior, en las fechas que señalen los recibos que expida la Comisión Federal de Electricidad.
+La tarifa del derecho del servicio de alumbrado público se pagará trimestralmente en los meses de enero, abril, julio y octubre de cada año, pudiendo hacerse por anualidad anticipada y se incluirán en los recibos correspondientes al pago del impuesto predial. En estos casos, el pago deberá realizarse en las oficinas recaudadoras de la tesorería municipal o en las instituciones autorizadas para el efecto.
+
+Sin perjuicio de lo establecido en el párrafo anterior, los ayuntamientos podrán celebrar convenio con Comisión Federal de Electricidad o con la institución que estimen pertinente, para el efecto de que el importe respectivo se pague en las fechas que señalen los recibos que expida la Comisión Federal de Electricidad o la institución con la que hayan celebrado el convenio de referencia.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -2870,3 +2880,13 @@ B.O. 29 DE DICIEMBRE DE 2006.
 Artículo Primero.- El presente decreto entrará en vigor a partir del 1? (sic) de enero de 2007, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Dentro de los treinta días siguientes a la entrada en vigor de esta Ley, el Ejecutivo Estatal deberá emitir las disposiciones administrativas correspondientes que contemplen y regulen el Registro Único de Personas Acreditadas (RUPA) a que se refiere este Decreto.
+
+B.O. 10 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil ocho, previa publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos del Estado deberán presentar su propuesta de cuotas o tarifas por el servicio de alumbrado público para el ejercicio fiscal del año dos mil ocho, atendiendo las disposiciones contenidas en este Decreto.
