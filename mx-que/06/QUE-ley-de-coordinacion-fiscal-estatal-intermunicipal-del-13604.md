@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-13604"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "2006-12-22"
+last_updated: "2007-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE COODINACION FISCAL ESTATAL-INTERMUNICIPAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de diciembre de 1996.
 
@@ -61,11 +61,11 @@ Las participaciones federales correspondientes a los Municipios se sujetarán al
 
 ### CAPITULO SEGUNDO. DE LAS PARTICIPACIONES FEDERALES Y OTROS INGRESOS DERIVADOS DE LOS SISTEMAS NACIONAL Y ESTATAL DE COORDINACIÓN FISCAL
 
-(REFORMADO, P.O. 28 DE DICIEMBRE DEL 2001) (F. DE E., P.O. 25 DE ENERO DEL 2002)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 4.
 
-A los Municipios del Estado de Querétaro, les corresponderá el porcentaje que anualmente determine la Legislatura del Estado de Querétaro, que nunca será inferior al 20% del total de participaciones que por ingresos federales reciba el Estado provenientes del fondo General de Participaciones del impuesto Federal sobre Tenencia o uso de Vehículos, del Impuesto Especial sobre Productos y Servicios, del Impuesto sobre Automóviles Nuevos, y de la Reserva de Contingencia; además del 100% del Fondo de Fomento Municipal, contenidos en la Ley Federal de Coordinación Fiscal, determinándose como a continuación se indica:
+A los Municipios del Estado de Querétaro, les corresponderá el porcentaje que anualmente determine la Legislatura del Estado de Querétaro, que nunca será inferior al 20% del total de participaciones que por ingresos federales reciba el Estado provenientes del Fondo General de Participaciones, del Impuesto sobre Tenencia o Uso de Vehículos, del Impuesto Especial sobre Producción y Servicios, del Impuesto sobre Automóviles Nuevos y del Fondo de Fiscalización, en términos de la Ley de Coordinación Fiscal, así como el 20% de la recaudación del Impuesto sobre la Venta de Bienes cuya enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios a que se refiere la Ley de Hacienda del Estado de Querétaro. Así mismo, recibirán el 100% del Fondo de Fomento Municipal contenido en la Ley de Coordinación Fiscal, determinándose para ambos casos como a continuación se indica:
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -75,15 +75,27 @@ I.- El 40 por ciento de acuerdo a la relación porcentual que represente el núm
 
 II.- El 30% de acuerdo a la relación porcentual que representen los ingresos propios por el Municipio del 1 de octubre del año anterior al 30 de septiembre del año corriente, conforme a los datos con que cuenta la Entidad Superior de Fiscalización del Estado, en relación así total de los percibidos por todos los Municipios (RIM).
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DEL 2001)</small>
+
 III.- El 20% de acuerdo a la relación porcentual que represente la superficie territorial de cada Municipio respecto de la superficie total del Estado, conforme a los últimos datos con que cuente el Instituto, Nacional de Estadística Geografía e Informática (RSM).
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DEL 2001)</small>
+
 IV.- El 10% de acuerdo a la relación porcentual que represente la zona para los 18 Municipios, mediante un reparto directo simple a través del cual cada Municipio participará en éste con el número de la zona a la que pertenece, de acuerdo a lo que establece esta Ley en su artículo 10 (RZM).
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DEL 2001)</small>
 
 Para determinar el porcentaje que a cada municipio corresponde, por concepto del 20% del total de las participaciones que por ingresos federales reciba el Estado, se aplicará la fórmula siguiente:
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 (RPM) + (RIM) + (RMS) + (RZM) = Porcentaje por Municipio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de la distribución a los municipios de la recaudación por concepto del Impuesto Especial sobre Producción y Servicios por la enajenación de gasolinas o diesel, a que se refiere el penúltimo párrafo del artículo 4o-A de la Ley de Coordinación Fiscal, se considerará el 70% atendiendo a los niveles de población, conforme a lo señalado en la fracción I del presente artículo. El 30% restante se distribuirá de acuerdo a los ingresos propios en los términos de la fracción II del presente artículo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DEL 2001)</small>
 
 Cuando la Legislatura determine un porcentaje mayor al 20% del total de las participaciones federales, el excedente será repartido como lo acuerde la Legislatura del Estado en la Ley que fija las Bases, Montos y Plazos conforme a los cuales se distribuirán las Participaciones Federales de cada año.
 
@@ -185,11 +197,13 @@ III.- La Comisión de Capacitación y Asesoría Fiscal.
 
 La Convención Fiscal de las Tesorerías Municipales del Estado se integrarán por el Titular de la Secretaría de Planeación y Finanzas o su representante y por los Tesoreros Municipales de los Ayuntamientos de la Entidad.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 18.
 
-La Convención Fiscal de las Tesorerías Municipales del Estado se llevará a cabo durante el mes de octubre de cada año.
+La Convención Fiscal de las Tesorerías Municipales del Estado, se llevará a cabo durante el mes de noviembre de cada año.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 La Comisión Permanente de Tesoreros Municipales hará las convocatorias correspondientes, indicando los asuntos que habrán de atenderse en la Convención.
 
@@ -476,3 +490,25 @@ Para efectos de la Ley que Regula el Almacenaje, Venta, Porteo y Consumo de Bebi
 ###### ARTÍCULO CUARTO.
 
 Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 10 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2008.
+
+###### ARTÍCULO SEGUNDO.
+
+Los artículos 49-E, 49-F, 49-G, 49-H, 49-1, 49-J, 49-K, 49-L, 49-M, 49-N de la Ley de Hacienda del Estado de Querétaro, entrarán en vigor a los quince días siguientes a aquel en que haya sido publicado en el Diario Oficial de la Federación el Decreto por el que se Reforman, Adicionan, Derogan y Abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de La Ley Del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, dado en la Sala de Comisiones del Senado de la República a los trece días del mes de septiembre del año dos mil siete y publicado en la Gaceta del Senado de la República el día 14 del mismo mes y año.
+
+...
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
