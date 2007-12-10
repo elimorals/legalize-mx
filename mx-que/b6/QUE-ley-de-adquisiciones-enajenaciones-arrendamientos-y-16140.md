@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-16140"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2006-06-16"
+last_updated: "2007-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de marzo del 2000.
 
@@ -337,7 +337,9 @@ Para los efectos de las fracciones I, III y IV de este artículo, los comités f
 
 Las garantías a que se refiere el artículo anterior se constituirá por el proveedor, según sea el caso, en favor de:
 
-I. El Gobierno del Estado, por conducto de la Secretaría de Planeación y Finanzas; y
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+I. El Poder Ejecutivo del Estado de Querétaro, por conducto de la dependencia o entidad contratante; y
 
 II. Los demás Poderes, Ayuntamientos y Entidades Públicas, cuando los actos o contratos se celebren con éstos.
 
@@ -352,6 +354,16 @@ Las garantías que deberán exhibir los concursantes serán presentadas:
 I. En cheque de caja o certificado de acuerdo a los montos manejados por la convocante;
 
 II. A través de fianzas otorgadas por organismos o instituciones legalmente reconocidos a favor de los convocantes o en caso particular a favor de quien esta señale dentro de la convocatoria;
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 33
+
+Bis.- La aceptación, calificación, custodia, sustitución, cancelación y requerimiento de pago de las garantías, se realizará por el Poder, entidad o dependencia contratante.
+
+Las garantías otorgadas a favor de la Secretaría de Planeación y Finanzas del Poder Ejecutivo, en términos del artículo 49 fracción III de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se harán efectivas por el Poder, entidad o dependencia contratante en coordinación con dicha Secretaría, por lo que ve a la suscripción de los documentos necesarios para ese efecto.
+
+El Poder, entidad o dependencia contratante intervendrá en los procedimientos y juicios ante los tribunales competentes, por oposición al pago que formulen las compañías afianzadoras.
 
 ### CAPITULO CUARTO. DEL ACTO DE PRESENTACIÓN Y APERTURA DE PROPOSICIONES PARA LICITACIÓN PUBLICA Y/O INVITACIÓN RESTRINGIDA
 
@@ -958,3 +970,27 @@ P.O. 16 DE JUNIO DE 2006.
 PRIMERO. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 10 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2008.
+
+...
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de la reforma de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, de la Ley de Obra Pública del Estado de Querétaro y del Código Urbano para el Estado de Querétaro, las garantías que se hayan otorgado a favor de la Secretaría de Planeación y Finanzas antes de la entrada en vigor de la presente Ley, en su caso, se harán efectivas por el Poder, la dependencia o entidad responsable del acto en que conste o del que derive la obligación principal, en coordinación con dicha Secretaría, por lo que ve a la suscripción de los documentos necesarios para ese efecto.
+
+Dentro del plazo de seis meses contados a partir de que entre en vigor la presente ley, el Poder, la dependencia o entidad responsable del acto en que conste o del que derive la obligación principal, recibirá de la Secretaría de Planeación y Finanzas, las fianzas que ésta tenía bajo su custodia.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
