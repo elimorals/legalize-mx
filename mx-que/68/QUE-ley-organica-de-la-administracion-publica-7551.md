@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-administracion-publica-7551"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-26"
-last_updated: "2006-12-08"
+last_updated: "2007-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1991.
 
@@ -281,9 +281,15 @@ XXXII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
 XXXIII. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal; para el servicio público de transporte o carga; y para el almacenaje, enajenación y consumo de bebidas alcohólicas; así como ejercer, en su caso, el derecho de reversión;
 
-XXXIV. Participar en los asuntos de materia agraria, por acuerdo del Ejecutivo, en los términos de las Leyes respectivas, y
+XXXIV. Participar en los asuntos de materia agraria, por acuerdo del Ejecutivo, en los términos de las Leyes respectivas, y (sic)
 
-XXXV. Los demás que les señalen las Leyes y Reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+XXXV. Administrar el Archivo Histórico y el Archivo General del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+XXXVI. Los demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 22.
 
@@ -341,7 +347,9 @@ XXV. Controlar y vigilar financiera y administrativamente, la operación de los 
 
 XXVI. Llevar el registro y control de la contabilidad de aquellos contratos y convenios financieros que realice el Estado;
 
-XXVII. Intervenir, cuando sea el caso, y por delegación directa del Ejecutivo, en la celebración de Convenios Fiscales con la Federación y los Municipios de la Entidad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+XXVII. Intervenir, cuando sea el caso, y por delegación directa del Ejecutivo o en términos de las disposiciones legales o administrativas, en la celebración de convenios fiscales con la Federación y los Municipios de la Entidad, así como celebrar los instrumentos necesarios en relación con la planeación y la administración financiera y tributaria;
 
 XXVIII. Elaborar, con la participación de las dependencias y organismos auxiliares del Poder Ejecutivo, el Plan Estatal, los Planes Regionales y Sectoriales de Desarrollo, los programas estatales de inversión y aquellos de carácter especial que fije el Gobernador del Estado;
 
@@ -769,7 +777,7 @@ XII. Organizar y controlar la intendencia del Poder Ejecutivo;
 
 XIII. Organizar y controlar la Oficialía del Partes;
 
-XIV. Administrar el Archivo Histórico y el Archivo General del Poder Ejecutivo del Estado;
+XIV. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2007)
 
 XV. Elaborar y proponer programas de mejoramiento administrativo en coordinación con las demás Dependencias del Ejecutivo, que permitan revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa de los Programas de Gobierno.
 
@@ -1012,3 +1020,21 @@ El Reglamento interior de la Secretaría de Seguridad Ciudadana, se adecuará a 
 ###### ARTÍCULO QUINTO.
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 10 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2008.
+
+...
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
