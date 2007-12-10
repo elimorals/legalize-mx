@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-para-el-estado-de-queretaro-7566"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-08-06"
-last_updated: "1992-08-06"
+last_updated: "2007-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO URBANO PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 6 de agosto de 1992.
 
@@ -78,6 +78,16 @@ Se considera de utilidad pública e interés social:
 I.- Las acciones de planear y ordenar las provisiones, usos, reservas y destinos de áreas y predios, y:
 
 II.- Que las poblaciones reúnan las condiciones necesarias de salubridad, seguridad, estética y funcionalidad, en las vías públicas, edificios y construcciones, así como en la utilización y aprovechamiento del suelo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 2
+
+BIS.- Las garantías a las que se refiere el presente Código, que deban otorgarse a favor del Estado de Querétaro, se constituirán a favor de la dependencia o entidad que otorgue el acto en el que conste o del que derive la obligación principal.
+
+La aceptación, calificación, custodia, sustitución, cancelación y requerimiento de pago de dichas garantías, se realizará por la dependencia o entidad que otorgue el acto en que conste o del que derive la obligación principal.
+
+La dependencia o entidad correspondiente intervendrá en los procedimientos y juicios ante los tribunales competentes, por oposición al pago que formulen las compañías afianzadoras.
 
 ### CAPITULO II. DE LA CONCURRENCIA DEL ESTADO Y MUNICIPIOS
 
@@ -1489,7 +1499,9 @@ IV.- Haber cubierto los impuestos y derechos que correspondan.
 
 V.- Otorgar garantía a satisfacción de la autoridad competente, por el valor total de las obras que falten por ejecutar, calculado al tiempo de su terminación, en el fraccionamiento o sección por autorizar, más un treinta por ciento para garantizar la construcción de aquellas en el plazo que se fije.
 
-En caso de incumplimiento la garantía deberá hacerse efectiva de inmediato por la Secretaría de Planeación y Finanzas y el Ayuntamiento o la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología, procederá a aplicarla para realizar, por sí, o por medio de contratistas, las obras omitidas, sin perjuicio de las sanciones que administrativamente se le impongan al fraccionador, y de las responsabilidades civiles o penales que se originen a su cargo, y
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+En caso de incumplimiento la garantía deberá hacerse efectiva de inmediato por la autoridad correspondiente; procederá a aplicarla para realizar, por sí o por medio de contratistas las obras omitidas, sin perjuicio de las sanciones que administrativamente se le impongan al fraccionador y de las responsabilidades civiles o penales que se originen a su cargo, y
 
 VI.- Presentar plano de lotificación del fraccionamiento.
 
@@ -1535,9 +1547,11 @@ Sólo se autorizarán ventas o arrendamiento de vivienda plurifamiliar o conjunt
 
 Cumplido lo señalado en el artículo anterior, se procederá en lo conducente, conforme a lo dispuesto por este Capítulo para los fraccionamientos.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 162.
 
-El propietario de las viviendas plurifamiliares o del conjunto habitacional, podrá solicitar autorización provisional de venta con obras no concluídas, garantizando a satisfacción de la Secretaría de Planeación y Finanzas la ejecución de las obras de urbanización faltantes, siempre y cuando la construcción de las viviendas tenga un cincuenta por ciento de avance del monto del crédito contratado con la institución financiera. Además de lo señalado en el artículo anterior, deberá presentar constancia certificada del otorgamiento del crédito de la institución financiera para la construcción de las viviendas cuyo permiso de venta se solicite.
+El propietario de las viviendas plurifamiliares o del conjunto habitacional, podrá solicitar autorización provisional de venta con obras no concluidas, garantizando a satisfacción de la autoridad competente, la ejecución de las obras de urbanización y la ejecución de las obras de urbanización faltantes, siempre y cuando la construcción de las viviendas tenga un cincuenta por ciento de avance del monto del crédito contratado con la institución financiera. Además de lo señalado en el artículo anterior, deberá presentar constancia certificada del otorgamiento del crédito de la institución financiera para la construcción de las viviendas cuyo permiso de venta se solicite.
 
 ###### ARTICULO 163.
 
@@ -2119,9 +2133,11 @@ En el caso de haberse autorizado la urbanización por etapas, los derechos por s
 
 Si las obras respectivas no quedaren concluídas en el plazo autorizado por la Secretaría y se haya concedido prórroga, el interesado estará obligado a cubrir nuevamente los derechos de supervisión correspondientes al monto de las obras que no se hayan realizado en tiempo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 226.
 
-Dentro de los sesenta días siguientes a la autorización del condominio por parte de la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología, el promotor deberá constituir garantía ante la Autoridad Fiscal respectiva, que asegure la ejecución correcta de las obras de urbanización y el cumplimiento de todas y cada una de las obligaciones que asuma conforme a este Código y a la autorización correspondiente de la Secretaría mencionada o el Ayuntamiento, incluyéndose los vicios o defectos ocultos que reporten los inmuebles en condominio, así como la calidad de sus materiales en función de los proyectos, especificaciones y memoria descriptiva. Dicha garantía podrá consistir, a juicio del Ayuntamiento, en:
+Dentro de los sesenta días siguientes a la autorización del condominio por parte de la autoridad competente, el promotor deberá constituir garantía ante dicha autoridad, que asegure la ejecución correcta de las obras de urbanización y el cumplimiento de todas y cada una de las obligaciones que asuma conforme a este Código y a la autorización correspondiente de la autoridad mencionada o el Ayuntamiento correspondientes, incluyéndose los vicios o defectos ocultos que reporten los inmuebles en condominio así como la calidad de sus materiales en función de los proyectos, especificaciones y memoria descriptiva. Dicha garantía podrá consistir, a juicio del Ayuntamiento, en:
 
 I.- Fianza expedida por compañía autorizada, por el monto de veinticinco por ciento del presupuesto total de las obras de urbanización.
 
@@ -4164,3 +4180,29 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 JESÚS RODRÍGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2008.
+
+.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de la reforma de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, de la Ley de Obra Pública del Estado de Querétaro y del Código Urbano para el Estado de Querétaro, las garantías que se hayan otorgado a favor de la Secretaría de Planeación y Finanzas antes de la entrada en vigor de la presente Ley, en su caso, se harán efectivas por el Poder, la dependencia o entidad responsable del acto en que conste o del que derive la obligación principal, en coordinación con dicha Secretaría, por lo que ve a la suscripción de los documentos necesarios para ese efecto.
+
+Dentro del plazo de seis meses contados a partir de que entre en vigor la presente ley, el Poder, la dependencia o entidad responsable del acto en que conste o del que derive la obligación principal, recibirá de la Secretaría de Planeación y Finanzas, las fianzas que ésta tenía bajo su custodia.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
