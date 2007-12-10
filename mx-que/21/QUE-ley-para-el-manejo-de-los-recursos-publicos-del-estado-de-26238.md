@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-26238
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2006-11-17"
+last_updated: "2007-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -331,11 +331,11 @@ Los ingresos que se deriven por concepto de la expedición y refrendo de las lic
 
 ###### Artículo 45.
 
-En el presupuesto de cada año deberá considerarse una reinversión para equipamiento y desarrollo institucional de la Dirección del Registro Público de la Propiedad, adicional al gasto operativo presupuestado para el año anterior equivalente a por lo menos el 5% del monto total de lo recaudo por concepto de los derechos por servicios prestados por el Registro Público de la Propiedad.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2007)
 
 ###### Artículo 46.
 
-En el presupuesto de cada año deberá considerarse una reinversión en equipamiento, capacitación y desarrollo institucional de la Dirección de Catastro y equivalente a por lo menos el 5% del monto total de los servicios prestados por la Dirección de Catastro de los derechos establecidos en la Ley de Hacienda del Estado, recaudados por concepto de Servicios Prestados por Autoridades Catastrales en el año inmediato anterior.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
 
@@ -477,11 +477,13 @@ Sólo podrán crearse entidades paraestatales cuando se haya aprobado la partida
 
 En caso de que la creación de organismos paraestatales sea originada por descentralización de funciones de la Federación al Estado, se asignará el presupuesto para su operación proveniente del ramo que le corresponda, informando de ello a la Legislatura del Estado en un plazo no mayor a 10 días.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 74.
 
-El Titular del Poder Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas podrá autorizar a las dependencias y entidades del Poder Ejecutivo a realizar transferencias presupuéstales entre si, que no rebasen un monto equivalente al 10% de la partida de quien lo otorga y quien lo recibe.
+Los titulares de los Poderes Ejecutivo y Judicial, por conducto de los encargados de sus finanzas públicas, podrán autorizar a las dependencias y entidades del Poder que corresponda, a realizar transferencias presupuestales entre sí, que no rebasen un monto equivalente al 10% de la partida de quien la otorga y quien lo recibe. Lo mismo podrá autorizar el Poder Legislativo, por conducto de la Comisión de Planeación y Presupuesto, para las transferencias entre sus dependencias incluyendo a la Comisión Estatal de Información Gubernamental, con excepción de la Entidad Superior de Fiscalización.
 
-Cuando sea necesario realizar transferencias por montos superiores, se requerirá autorización de la Legislatura del Estado.
+Cuando sea necesario realizar transferencias por un monto superior, se requerirá autorización de la Legislatura del Estado.
 
 ###### Artículo 75.
 
@@ -904,3 +906,21 @@ Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legi
 Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscales, hasta su total conclusión.
 
 Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
+
+P.O. 10 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2008.
+
+.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese esta Ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
