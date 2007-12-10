@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-porteo-y-consumo-de-26023"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-30"
-last_updated: "2006-12-22"
+last_updated: "2007-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 30 de agosto del año 2002.
 
@@ -307,11 +307,29 @@ TIPO IV. Establecimientos autorizados en los que se expenden bebidas alcohólica
 
 20. Abarrotes, Miscelánea y similares: Establecimiento comercial de venta de abarrotes que vende al público cerveza en envase cerrado como actividad complementaria a su actividad comercial, por lo que la inversión en producto para tal propósito podrá representar como máximo el veinte por ciento de la inversión en mercancía que oferta el establecimiento;
 
-TIPO V. Lugares públicos o privados, cobrando o no cuotas de admisión, en los que se presenten eventos artísticos y deportivos, se celebren festividades cívicas o tradicionales, o se realicen eventos especiales en los que de manera temporal se realiza la venta y consumo de bebidas alcohólicas, debiendo aquella efectuarse al menudeo, en envase de cartón, plástico o cualquier otro material blando o ligero y bajo las condiciones que al efecto señale la Secretaría de Gobierno del Poder Ejecutivo del Estado;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
-TIPO VI. Establecimientos comerciales que de manera eventual ofrecen para degustación productos con contenido alcohólico para promoción de los mismos;
+TIPO V. Establecimientos autorizados en los que se venden bebidas alcohólicas en envase abierto y al copeo, para consumirse en el interior del mismo establecimiento, sólo en días específicamente autorizados:
 
-TIPO VII. Establecimientos comerciales que cuentan con trámite vigente para la obtención de licencia y de manera provisional venden bebidas alcohólicas.
+21. Venta en día específico: Para la venta de cerveza o pulque en fin de semana o hasta dos días específicos con consumo de alimentos tradicionales.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+TIPO VI. Lugares autorizados en los que se venden excedentes de producción doméstica de pulque a granel con prohibición de consumirse en donde se oferten:
+
+22. Venta de excedentes: Para la venta de excedentes de pulque de producción doméstica cuyo propósito original es el autoconsumo y hasta 60 plantas en producción.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+TIPO VII. Permiso para realizar la venta, consumo o degustación de bebidas alcohólicas con las condiciones que se señalan para cada giro con vigencia limitada o por evento:
+
+23. Eventos y festividades: En lugares públicos o privados, cobrando o no cuotas de admisión, en los que se presenten eventos artísticos y deportivos, se celebren festividades cívicas o tradicionales, o se realicen eventos especiales en los que de manera temporal se realiza la venta y consumo de bebidas alcohólicas, debiendo aquella efectuarse al menudeo, en envase de cartón, plástico o cualquier otro material blando o ligero y bajo las condiciones que al efecto señale la Secretaría de Gobierno del Poder Ejecutivo del Estado;
+
+24. Degustación: En establecimientos comerciales que de manera eventual ofrecen para degustación productos con contenido alcohólico para promoción de los mismos.
+
+25. Provisional: Establecimientos comerciales que cuentan con trámite vigente para la obtención de licencia y de manera provisional venden bebidas alcohólicas.
+
+26. Banquetes: Para la venta en eventos contratados para otorgar el servicio de banquete, en diversos salones o lugares adecuados para ello, no se considera este giro cuando la venta se haga al copeo.
 
 IV. De acuerdo a la bebida alcohólica permitida para su almacenaje, venta, porteo y consumo, podrán ser las autorizaciones siguientes:
 
@@ -369,11 +387,11 @@ La autoridad competente durante el desarrollo de la inspección o verificación 
 
 Se prohíbe la venta de bebidas alcohólicas a los miembros uniformados de las corporaciones policiales o militares y a las personas que porten cualquier clase de arma o se encuentren en notorio estado de ebriedad o bajo la influencia de cualquier droga o enervante.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 19.
 
-Se prohíbe la venta o consumo de bebidas alcohólicas cuando éstas se lleven a cabo:
+Se prohíbe la venta o consumo de bebidas alcohólicas, cuando éstas se lleven a cabo:
 
 I. En la vía pública, parques y plazas públicas. Podrán exceptuarse los casos de festividades tradicionales, eventos cívicos o culturales, de conformidad con lo previsto en esta Ley y los permisos y disposiciones que emita la Secretaría de Gobierno;
 
@@ -385,9 +403,13 @@ IV. En cualquier evento donde predominen menores de edad;
 
 V. En las sedes gubernamentales;
 
-VI. En centros hospitalarios, de concentración de elementos militares y de corporaciones policiales y de seguridad, de bomberos, penitenciarias, correctivos y cualquier otro similar;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
-VII. En cines, teatros y lugares para espectáculos o eventos públicos distintos a los señalados en el artículo 12 de esta Ley, salvo los casos debidamente autorizados;
+VII. En campos de tiro, cines, teatros y lugares para espectáculos o eventos públicos distintos a los señalados en el artículo 12 de esta Ley, salvo los casos debidamente autorizados;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+VIII. Farmacias, así como en aquellos establecimientos con venta de medicinas y productos afines al giro, cuando su inversión u oferta de productos del giro farmacéutico sea de al menos el 50%;
 
 VIII. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2004)
 
@@ -395,17 +417,21 @@ IX. En vehículos de motor; y
 
 X. En los días y horarios en los que se celebre algún acontecimiento o festividad cívica de interés nacional o local, por determinación de las leyes o de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 20.
 
-En los establecimientos y lugares que regula esta Ley se prohíbe realizar promociones de bebidas alcohólicas en envase abierto o al copeo, cuando impliquen ofertas o descuentos a través de la denominada barra libre.
+En los establecimientos y lugares que regula esta Ley, se prohíbe realizar promociones de bebidas alcohólicas en envase abierto o al copeo sin costo alguno o cuando impliquen ofertas o descuentos, salvo los casos previstos en la presente Ley y debidamente autorizados.
 
 Para efectos de esta Ley se entenderá por barra libre la promoción, independientemente del nombre con que se les denomine, en la que por el pago de una cantidad se da el derecho a consumir en forma ilimitada bebidas alcohólicas por tiempo determinado o indeterminado.
 
 Igualmente quedan prohibidos los concursos que induzcan al consumo de bebidas alcohólicas.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 21.
 
-Está prohibido anunciar cualquier bebida alcohólica en cualquier lugar o espacio exterior en un radio de cien metros respecto de una escuela o institución educativa de cualquier índole, centros o unidades deportivas.
+Está prohibida la venta, el consumo y anunciar bebidas alcohólicas en cualquier lugar o espacio exterior, en un radio de cien metros respecto de una escuela o institución educativa de cualquier índole, centros o unidades deportivas.
 
 ###### ARTÍCULO 22.
 
@@ -421,47 +447,91 @@ El Ejecutivo del Estado, a través de la Secretaría de Gobierno, podrá expedir
 
 Las licencias, permisos y refrendos a que se refiere este ordenamiento, son actos administrativos subordinados al orden público y al interés social, se otorgarán a favor del solicitante, tendrán carácter de intransferibles e inembargables y sólo podrán ser objeto de cesión a título gratuito y con el pago de los derechos correspondientes, mediante autorización expresa otorgada, por la Secretaría de Gobierno en los términos que establece el presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 23 BIS. Asimismo, el Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, podrá otorgar preautorización de licencia en todos sus tipos con base en el proyecto de inversión que deberá presentar el solicitante, la cual permitirá el almacenaje, venta o consumo de bebidas alcohólicas de acuerdo a los tipos, giros y clases de las licencias, a partir de la fecha que se señale como de inicio de actividades y hasta en tanto sea otorgada la licencia definitiva bajo las condiciones señaladas en la presente Ley.
+
+La preautorización de licencia será sustituida por la correspondiente licencia nueva cuando se de el exacto cumplimiento del proyecto que dio base a la solicitud y fuera autorizado al efecto, así como de la adecuación de la negociación a las disposiciones legales que le resulten aplicables y al pago de los derechos correspondientes a la licencia nueva.
+
+La verificación, pago, comprobación, acreditación y cumplimiento de las condicionantes señaladas en el párrafo que antecede se podrán realizar a partir de la fecha que en la solicitud se señale como fecha de inicio de actividades.
+
+Siempre y cuando cuente con licencia municipal de funcionamiento, el solicitante podrá hacer uso de la preautorización hasta por noventa días naturales a partir de la fecha señalada para el inicio de actividades en la correspondiente solicitud para el almacenaje, venta o consumo de bebidas alcohólicas.
+
+Acreditado el exacto cumplimiento del proyecto, entregados los requisitos faltantes de los que procedan de conformidad con lo establecido por el artículo 25 de la presente ley, así como realizado el pago de los derechos correspondientes, se otorgará la correspondiente licencia nueva.
+
+En caso de que hubiere trascurrido el plazo de noventa días sin que se haya otorgado la licencia definitiva por causas atribuibles al solicitante o el resultado de la verificación sea negativo por incumplimiento parcial o total del proyecto, se negará de plano la licencia nueva y se deberá suspender de inmediato el almacenaje, venta o consumo de bebidas alcohólicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 24.
 
-(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2004)
+La licencias y permisos no podrán amparar más de una negociación aunque ésta se encuentre en igual domicilio o ubicación, pero sí se podrá otorgar más de una licencia en el mismo domicilio, aún cuando se trate del mismo licenciatario.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 25.
 
-Los interesados en obtener licencia o permiso para el almacenaje, venta, porteo o consumo de bebidas alcohólicas a los que se refiere esta ley, deberán presentar solicitud por escrito, en los formatos que al efecto emita la Secretaría de Gobierno, con los siguientes datos y documentos:
+Los interesados en obtener licencia o permiso para el almacenaje, venta, porteo o consumo de bebidas alcohólicas a los que se refiere esta Ley, deberán presentar solicitud por escrito, en los formatos que al efecto emita la Secretaría de Gobierno, con los siguientes datos y documentos:
 
-I. Nombre, razón social o denominación del solicitante y, en su caso, de su representante legal;
+I. Del solicitante:
 
-II. Número del Registro Federal de Contribuyentes;
+a. Nombre o razón social;
 
-III. Domicilio del solicitante y del establecimiento en donde operará la licencia correspondiente;
+b. Identificación;
 
-IV. Nacionalidad del solicitante. En caso de tratarse de extranjero, deberá comprobar que está autorizado por la Secretaría de Gobernación del Gobierno Federal, para dedicarse a la actividad para la cual solicita la licencia, en los términos de la Ley General de Población;
+c. En su caso, nombre y acreditación de su representante legal;
 
-V. Actividades y giros que se pretendan realizar en el establecimiento;
+d. Copia de la Cédula del Registro Federal de Contribuyentes;
 
-VI. Croquis donde se indique en forma clara y precisa, la ubicación del lugar donde se pretende llevar a cabo las actividades que ampare la licencia solicitada;
+e. Domicilio;
 
-VII. Tipo y denominación del establecimiento;
+f. Nacionalidad en caso de tratarse de extranjero, así como autorización de la Secretaría de Gobernación del Gobierno Federal, para dedicarse a la actividad para la cual solicita la licencia, en los términos de la Ley General de Población;
 
-VIII. Capital invertido o a invertir, en infraestructura y mobiliario en el establecimiento;
+II. Del establecimiento:
 
-IX. Constancias o dictámenes de la autoridad municipal competente, que acrediten:
+a. Denominación;
 
-a) Uso de suelo que permita la actividad comercial y el giro que se pretende;
+b. Domicilio;
 
-b) Licencia de funcionamiento vigente;
+c. Tipo y giros que se pretendan realizar; en caso de giros con consumo de alimentos se acompañará el menú;
 
-c) Factibilidad que establezca que las condiciones y ubicación del establecimiento, y en su caso, la actividad a realizar, cumplen con las disposiciones reglamentarias municipales aplicables.
+d. Croquis donde se indique en forma clara y precisa, la ubicación del lugar donde se pretende llevar a cabo las actividades que ampare la licencia solicitada;
 
-Los requisitos señalados en la fracción IX incisos a) y b), no serán aplicables, tratándose de licencias de porteo.
+e. Capital invertido o a invertir en infraestructura y mobiliario en el establecimiento;
 
-Para el caso de permisos, se deberá cumplir con lo dispuesto por las fracciones I, III, IV, VIII y fracción IX inciso c).
+f. Fotografías del mismo;
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+g. Comprobante de que se encuentra al corriente en el pago de los impuestos inmobiliarios y derechos por servicios públicos relacionados con el inmueble en donde se ubique el establecimiento o, en su caso, el contrato de arrendamiento o comodato;
 
-Recibida la solicitud, la Secretaría de Gobierno pedirá de la Secretaría de Salud o Servicios de Salud del Estado de Querétaro, así como al área correspondiente de la Secretaría de Seguridad Ciudadana, opinión técnica respecto del establecimiento donde funcionaría la licencia solicitada, señalando el cumplimiento o incumplimiento de las normas y condiciones sanitarias y de protección civil.
+III. Constancias o dictámenes de la autoridad competente que acrediten:
+
+a. Licencia municipal de funcionamiento vigente;
+
+b. Uso de suelo emitido por autoridad estatal o municipal, que permita la actividad comercial y el giro que se pretende;
+
+c. Factibilidad de giro emitida por la autoridad responsable del desarrollo urbano del Municipio correspondiente, que acredite que las condiciones y ubicación del establecimiento y la actividad a realizar, cumplen con las disposiciones reglamentarias municipales aplicables;
+
+IV. Para el caso de licencias de porteo:
+
+a. Del solicitante los señalados en la fracción I del presente artículo;
+
+b. Los datos del proveedor, bodega, almacén o establecimiento del cual se hará el porteo;
+
+c. Del vehículo porteador: factura, tarjeta de circulación, póliza de seguro que ampare daños a terceros y fotografías del mismo;
+
+d. El tipo de autorización que pretende realizar;
+
+e. Zonas geográficas en donde se llevará a cabo el porteo;
+
+V. Para el caso de permisos:
+
+a. Del solicitante los señalados en la fracción I del presente artículo;
+
+b. Los demás que señale la autoridad en virtud de las características o condiciones en la que se llevará a cabo la actividad de venta solicitada;
+
+VI. Para preautorización de licencia, además de los establecidos en la fracción I, en la fracción II incisos c) y e), en la fracción III incisos b) y c) del presente artículo, los requisitos que la autoridad señale para cada caso.
+
+La Secretaría de Gobierno podrá solicitar a las áreas competentes, opiniones técnicas respecto del establecimiento donde funcionaría la licencia solicitada, señalando el cumplimiento o incumplimiento de las normas y condiciones sanitarias y de seguridad exigibles.
 
 ###### ARTÍCULO 26.
 
@@ -515,11 +585,21 @@ XVII. Los demás casos que señale esta Ley o su Reglamento.
 
 Los ingresos que se deriven por concepto de expedición de licencias y permisos, así como aquellos que se obtengan por el refrendo de licencias en los términos de esta Ley, deducidos los gastos de administración, serán transferidos dentro de los primeros diez días posteriores al mes de su recaudación, al Fideicomiso de Inversión para Apoyar la Atención y Rehabilitación del Alcoholismo y Drogadicción en el estado de Querétaro los que se destinarán a los fines del mismo, correspondiendo, un 40% a programas estatales y un 60% a programas municipales del municipio donde se origine el ingreso, lo cual requerirá la existencia de esos programas, aprobados conforme a las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 29.
 
-El refrendo de las licencias a que se refiere esta Ley se realizará en forma anual en los términos de las leyes fiscales correspondientes.
+El refrendo de las licencias a que se refiere esta Ley se realizará en forma anual en los términos de las leyes fiscales correspondientes:
 
-Sólo se otorgará si el interesado presenta la licencia de funcionamiento vigente.
+Sólo se otorgará si el interesado:
+
+a. Presenta la licencia de funcionamiento vigente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+b. Acredita estar al corriente en el cumplimiento de sus obligaciones fiscales, relativas al impuesto sobre la venta de bienes cuya enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios.
+
+c. Presenta copia de la declaración informativa anual del impuesto especial sobre producción y servicios, correspondiente al ejercicio inmediato anterior a aquel en el cual se presenta la solicitud.
 
 ### CAPITULO SEXTO. DEL PORTEO
 
@@ -527,15 +607,11 @@ Sólo se otorgará si el interesado presenta la licencia de funcionamiento vigen
 
 El porteo de bebidas alcohólicas en el territorio del Estado sólo se llevará a cabo por las personas físicas o morales que cuenten con la licencia respectiva.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 31.
 
-Los porteadores tendrán las siguientes obligaciones:
-
-I. Empadronarse en la Dirección de Ingresos de la Secretaría de Planeación y Finanzas del Poder Ejecutivo, obteniendo la cédula de empadronamiento correspondiente.
-
-II. Llevar consigo la cedula de empadronamiento respectiva.
-
-III. Comprobar la procedencia de la mercancía mediante documento idóneo en términos de lo establecido en las disposiciones legales aplicables.
+Los porteadores tendrán las obligaciones de llevar consigo la licencia correspondiente y comprobar la procedencia de la mercancía mediante documento idóneo en términos de lo establecido en las disposiciones legales aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -1058,3 +1134,27 @@ ARTÍCULO. TERCERO.- Para efectos de la Ley que Regula el Almacenaje, Venta, Por
 ###### ARTÍCULO CUARTO.
 
 Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 10 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2008.
+
+...
+
+###### ARTÍCULO TERCERO.
+
+Los dispuesto en el inciso b) del artículo 29 de la Ley que regula el Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas en el Estado de Querétaro, entrará en vigor 30 días después de que los artículos 49-E, 49-F, 49-G, 49-H, 49-1,49-J, 49-K, 49-L, 49-M, 49-N de la Ley de Hacienda del Estado de Querétaro inicien su vigencia.
+
+...
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
