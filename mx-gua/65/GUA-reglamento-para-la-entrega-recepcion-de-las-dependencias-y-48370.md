@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-entrega-recepcion-de-las-dependencias-y-4837
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-20"
-last_updated: "2006-01-20"
+last_updated: "2007-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA ENTREGA-RECEPCION DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 20 de enero de 2006.
 
@@ -135,19 +135,27 @@ Las dependencias y entidades del Poder Ejecutivo, por conducto de su área admin
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE ENTREGA-RECEPCIÓN ORDINARIA
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 10.
 
-La entrega-recepción ordinaria se efectuará a más tardar al día hábil siguiente de la separación del cargo del servidor público, en la que deberán estar presentes:
+La entrega-recepción ordinaria se efectuará a más tardar el día hábil siguiente al de la separación del cargo del servidor público, independientemente de que exista o esté por interponerse algún procedimiento ante cualquier instancia judicial, laboral o administrativa, que tenga por objeto dirimir alguna controversia relacionada con la separación del cargo.
 
-I.- El servidor público saliente;
+El término para la realización de la entrega-recepción se prorrogará, por una sola vez, hasta por cinco días hábiles, previa solicitud que por escrito realice el servidor público saliente ante el órgano de control encargado de supervisar el acto en términos del artículo 7o., fracción III, de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2007)</small>
+
+Artículo 10 A.- En la entrega-recepción ordinaria deberán estar presentes:
+
+I.- El servidor público saliente o el superior jerárquico en los casos a que se refiere el artículo 17 de este Reglamento;
 
 II.- El servidor público entrante o quien reciba de manera provisional;
 
-III.- Quien supervise el acto, según corresponda, de conformidad con lo dispuesto en el artículo 7o., fracción III, de este Reglamento; y
+III.- Quien supervise el acto, según corresponda, de conformidad con lo dispuesto en el artículo 7o, fracción III, de este Reglamento;
 
-IV.- El titular del área administrativa de la dependencia o entidad del Poder Ejecutivo de que se trate o un representante designado por el mismo, el cual fungirá como testigo y será el encargado de levantar el acta. En caso de que sea el titular del área administrativa el que deba hacer la entrega respectiva, el superior jerárquico de dicho servidor designará a quien deba fungir como testigo y encargado de levantar el acta.
+IV.- El titular del área administrativa de la dependencia o entidad del Poder Ejecutivo de que se trate o un representante designado por el mismo, el cual fungirá como testigo y será el encargado de levantar el acta. En caso de que sea el titular del área administrativa el que deba hacer la entrega respectiva, el superior jerárquico de dicho servidor designará a quien deba fungir como testigo y encargado de levantar el acta; y
 
-El servidor público saliente podrá, de considerarlo necesario, nombrar a un testigo de su parte para que participe en la entrega-recepción. En caso de que no se ejerza este derecho o el nombrado no desee participar, este hecho no afectará la validez del acto.
+V.- Dos testigos adicionales a los servidores públicos señalados en las fracciones anteriores, uno nombrado por el servidor público saliente y el otro por quien supervise el acto, según corresponda, de conformidad con lo dispuesto en el artículo 7o., fracción III, de este Reglamento. En caso de que el servidor público saliente no ejerza este derecho o el nombrado no desee participar, no se afectará la validez del acta que se levante.
 
 ###### Artículo 11.
 
@@ -201,21 +209,31 @@ XI.- Otros rubros de conformidad con las características de la unidad administr
 
 El acta de entrega-recepción se levantará en cuatro tantos, deberá estar foliada de manera consecutiva y rubricarse en todas sus hojas por las personas intervinientes; se hará constar, en su caso, el hecho de la negativa para hacerlo y los motivos para ello. La negativa a firmar el acta o a informar los motivos de ello, no afectará su validez.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2007)</small>
+
+Si la negativa a suscribir el acta es por parte del servidor público saliente o éste abandona la celebración del acto respectivo, se hará constar tal situación, aplicándose en lo conducente lo previsto por los artículos 16 y 17 de este Reglamento.
+
 ###### Artículo 15.
 
 Una vez concluida la entrega-recepción, el servidor público entrante o quien reciba de manera provisional dispondrá de un plazo de diez días hábiles para verificar el contenido de los anexos y formatos del acta de entrega-recepción; en caso de encontrar inconsistencias deberá hacerlo del conocimiento del órgano de control que corresponda, a fin de que éste solicite al servidor público saliente las aclaraciones pertinentes, mismas que deberán rendirse por escrito dentro de los diez días hábiles siguientes a la fecha en que tenga conocimiento de la solicitud de aclaración.
 
 El servidor público entrante o quien reciba de manera provisional otorgará al servidor público saliente las facilidades necesarias para integrar la información que le sea requerida.
 
-De no proporcionar el servidor público saliente las aclaraciones que le fueron solicitadas, se estará a lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2007)</small>
+
+De no proporcionar el servidor público saliente las aclaraciones que le fueron solicitadas, no entregar los bienes que tenía bajo su resguardo o cuando de la información se desprenda la existencia de una posible irregularidad, se estará a lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 16.
 
-Cuando el servidor público saliente no realice la entrega de la unidad administrativa a su cargo en el término señalado en el artículo 10 de este Reglamento, el superior jerárquico notificará inmediatamente dicha circunstancia al órgano de control correspondiente, a efecto de que éste requiera al omiso para que en un término de diez días hábiles cumpla con dicha obligación.
+Cuando el servidor público saliente no realice la entrega de la unidad administrativa a su cargo en los términos señalados en el artículo 10 de este Reglamento, el superior jerárquico notificará inmediatamente dicha circunstancia al órgano de control que corresponda para los efectos de su competencia.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 17.
 
-En el supuesto de que el servidor público saliente omita realizar la entrega-recepción en el término señalado en el artículo 10 de este Reglamento o en caso de muerte o incapacidad del mismo, el servidor público que asuma las funciones de aquél, bajo cualquier carácter, integrará la documentación y levantará el acta administrativa circunstanciada dentro de los diez días hábiles siguientes a su toma de posesión, de conformidad con los artículos 10 y 12 de este ordenamiento, en lo que resulte aplicable, dando aviso de ello a la Secretaría.
+Ante la omisión del servidor público saliente para realizar la entrega-recepción en los términos señalados en el artículo 10 de este Reglamento o en caso de muerte o incapacidad del mismo, el titular del área administrativa en coordinación con el superior jerárquico del servidor público saliente se encargarán de integrar la información y de efectuar la entrega en sustitución del servidor público saliente, dentro de los tres días hábiles siguientes a la fecha en que debió realizarse el acto, aplicando en lo conducente lo previsto por los artículos 10 y 12 de este ordenamiento y dando aviso de ello a la Secretaría.
 
 ###### Artículo 18.
 
@@ -476,3 +494,11 @@ RICARDO TORRES ORIGEL
 EL SECRETARIO DE LA GESTIÓN PÚBLICA
 
 JORGE ALBERTO ROMERO HIDALGO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
