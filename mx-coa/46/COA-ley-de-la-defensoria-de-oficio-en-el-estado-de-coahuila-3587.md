@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-defensoria-de-oficio-en-el-estado-de-coahuila-3587"
 country: "mx"
 rank: "ley"
 publication_date: "1980-10-21"
-last_updated: "1980-10-21"
+last_updated: "2007-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3587&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE LA DEFENSORIA DE OFICIO EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA JURIDICA INTEGRAL PARA EL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 11 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 21 de octubre de 1980.
 
@@ -256,3 +258,15 @@ OSCAR FLORES TAPIA. (Rúbrica).
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 
 LIC. ROBERTO OROZCO MELO. (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la ley de la Defensoría de Oficio en el Estado de Coahuila, publicada en el Periódico Oficial del Estado el 21 de octubre de 1980.
+
+TERCERO. Las atribuciones descritas en la Sección V, del Capítulo IV de esta ley, que sean competencia de otra instancia, se llevarán a cabo por parte de la Defensoría una vez celebrado el convenio respectivo con las autoridades correspondientes.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
