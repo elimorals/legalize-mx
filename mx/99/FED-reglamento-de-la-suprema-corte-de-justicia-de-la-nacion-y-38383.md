@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-suprema-corte-de-justicia-de-la-nacion-y-38383
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-02"
-last_updated: "2004-04-02"
+last_updated: "2007-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38383&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-03-30"
 
 REGLAMENTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL PARA LA APLICACIÓN DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 2 de abril de 2004.
 
@@ -123,6 +123,18 @@ XIX. Unidad de Enlace del Consejo de la Judicatura: La Dirección General de Adm
 
 XX. Unidades Administrativas: Aquellas áreas de la Suprema Corte o del Consejo, señaladas en la Ley Orgánica del Poder Judicial de la Federación o en disposiciones administrativas de carácter general, que pueden tener bajo su resguardo información pública.
 
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
+
+XXI. Datos de carácter personal: cualquier información concerniente a personas físicas o jurídicas identificadas o identificables.
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
+
+XXII. Datos sensibles: el dato personal que revela el origen racial o étnico, la convicción religiosa, filosófica o de otro género, la opinión política, la adhesión a un partido, sindicato, asociación u organización de carácter religioso, filosófico, político o sindical, o cualquier otro dato personal que revele el estado de salud o la vida sexual del titular de los datos personales.
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
+
+XXIII. Archivos, registros o bancos de datos de carácter personal: conjunto de datos que tienen bajo su resguardo, conforme a cualquier criterio de sistematización relacionado con datos personales, la Suprema Corte, el Consejo de la Judicatura Federal o los Organos Jurisdiccionales.
+
 ###### Artículo 3.
 
 Este Reglamento es de observancia obligatoria para los servidores públicos de la Suprema Corte, del Consejo y de los Organos Jurisdiccionales.
@@ -147,23 +159,33 @@ De las constancias que obren en los expedientes de asuntos concluidos que se enc
 
 Las sentencias ejecutorias y las demás resoluciones públicas podrán consultarse una vez que se emitan y los términos en que se conceda el acceso a ellas serán determinados, inicialmente, por los respectivos módulos de acceso.
 
-Tratándose de las resoluciones públicas dictadas cuando aún no se emite la respectiva sentencia ejecutoria, el módulo de acceso solicitará a la Suprema Corte, al Consejo o al respectivo Organo Jurisdiccional, una versión electrónica de aquéllas, siendo obligación de dicho módulo suprimir de ésta, en su caso, los datos personales de las partes.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de las resoluciones públicas dictadas cuando aún no se emite la respectiva sentencia ejecutoria, el módulo de acceso solicitará a la Suprema Corte, al Consejo o al respectivo Organo Jurisdiccional, una versión electrónica de aquéllas, siendo obligación de dicho módulo suprimir de ésta los datos sensibles de las partes y, en su caso, los demás datos personales de las partes.
 
 El análisis sobre la naturaleza pública, reservada o confidencial de las pruebas y demás constancias que obren en un expediente judicial, podrá realizarse una vez que la sentencia respectiva haya causado estado.
 
 Cuando en un expediente se encuentren pruebas y demás constancias aportadas por las partes que contengan información legalmente considerada como reservada o confidencial, no podrá realizarse la consulta física de aquél, pero se tendrá acceso a una versión impresa o electrónica del resto de la documentación contenida en el mismo.
 
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8.
 
-Si las partes ejercen en cualquier instancia seguida ante la Suprema Corte, el Consejo o los Organos Jurisdiccionales el derecho que les confiere el artículo 8 de la Ley para oponerse a la publicación de sus datos personales, cuando se presente una solicitud de acceso a alguna de las resoluciones públicas o a las pruebas y demás constancias que obren en el expediente respectivo, la unidad administrativa que lo tenga bajo su resguardo determinará si tal oposición puede surtir efectos, tomando en cuenta si la resolución solicitada, las pruebas o las demás constancias contienen información considerada como reservada en términos de lo previsto en la fracción IV del artículo 13 de la Ley; de ser así, a la versión pública de la sentencia ejecutoria, de las demás resoluciones públicas y, en su caso, de los documentos contenidos en el expediente que no sean reservados o confidenciales, se suprimirán los datos personales de las partes, salvo su nombre, en la medida en que no se impida conocer el criterio sostenido por el respectivo órgano jurisdiccional.
+Si las partes ejercen en cualquier instancia seguida ante la Suprema Corte, el Consejo o los Organos Jurisdiccionales el derecho que les confiere el artículo 8o. de la Ley para oponerse a la publicación de sus datos personales, cuando se presente una solicitud de acceso a alguna de las resoluciones públicas o a las pruebas y demás constancias que obren en el expediente respectivo, la unidad administrativa que lo tenga bajo su resguardo generará la versión pública de las resoluciones requeridas suprimiendo el nombre de las partes así como cualquier otra información de carácter personal que contengan, procurando que la referida supresión no impida conocer el criterio sostenido por el respectivo órgano jurisdiccional.
 
-Aun cuando las partes no hayan ejercido la oposición a que se refiere el artículo 8o. de la Ley, las sentencias ejecutorias y las demás resoluciones públicas dictadas en expedientes de asuntos de cualquier materia que por disposición legal o por su naturaleza puedan afectar de algún modo la dignidad personal o causar un daño irreparable y, en su caso, los documentos que obren en ellos y no sean reservados o confidenciales, se difundirán en una versión impresa o electrónica de la que se supriman los datos personales de las partes, salvo su nombre, y en la medida en que no impidan conocer el criterio sustentado por el juzgador.
+Tratándose de las demás constancias, la oposición a la publicación de los datos personales también dará lugar a que en su versión pública se suprima la información personal que contengan.
+
+Aun cuando las partes no hayan ejercido la oposición a que se refiere el artículo 8o. de la Ley, de la versión pública de las sentencias ejecutorias y las demás resoluciones, así como de las constancias que obren en el expediente, se suprimirán los datos sensibles que puedan contener, procurando que la supresión no impida conocer el criterio sostenido por el respectivo órgano jurisdiccional.
 
 Las determinaciones adoptadas en relación con la supresión de datos personales de las partes también podrán impugnarse por el solicitante mediante el recurso de revisión previsto en este Reglamento.
 
 ###### Artículo 9.
 
 Las Comisiones de Transparencia adoptarán en conjunto las medidas adecuadas para difundir en internet las sentencias ejecutorias y las resoluciones que pongan fin a cualquier procedimiento administrativo, emitidas por la Suprema Corte, el Consejo y los Organos Jurisdiccionales; debiendo tomarse en cuenta que al generar la versión pública respectiva se estará a lo dispuesto en el artículo 8 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
+
+En las resoluciones públicas que se difundan por medios electrónicos en todos los casos se suprimirán los nombres de las partes. En las listas de notificación que se publiquen por la misma vía, sólo se suprimirán cuando se haga valer por alguna de las partes la oposición a la que se refiere el artículo 8o. de la Ley.
 
 ## TITULO TERCERO
 
@@ -190,6 +212,10 @@ La Comisión del Consejo, integrada por los Consejeros miembros de la Comisión 
 ###### Artículo 13.
 
 Las referidas Comisiones para la Transparencia rendirán cada año sendos informes ante el Pleno de la Suprema Corte y ante el Pleno del Consejo, respectivamente, en los cuales se incluirá, al menos, el número de solicitudes de acceso a la información presentadas, su resultado, el tiempo de respuesta, el número y resultado de los asuntos atendidos por el Comité correspondiente, el estado que guardan las denuncias presentadas ante los órganos internos de control y las dificultades observadas en el cumplimiento de la Ley y este Reglamento; de dichos informes se remitirá una copia al Instituto Federal de Acceso a la Información Pública y se les dará la más amplia difusión, poniendo a disposición de los medios de información que lo soliciten un ejemplar de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
+
+A las Comisiones de Transparencia les corresponderá, conforme a la propuesta que les presente el respectivo Comité de Acceso a la Información, determinar los indicadores de gestión que permitan difundir los principales aspectos de las funciones jurisdiccionales y administrativas de la Suprema Corte de Justicia de la Nación, del Consejo de la Judicatura Federal y de los Organos Jurisdiccionales, la cual se difundirá en medios electrónicos de consulta pública con actualización mensual.
 
 ###### Artículo 14.
 
@@ -307,11 +333,15 @@ Serán públicas las solicitudes de acceso a la información y las respuestas qu
 
 ## TITULO SEXTO. DE LOS PROCEDIMIENTOS DE ACCESO Y RECTIFICACION DE DATOS PERSONALES
 
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 32.
 
-De conformidad con lo establecido en el artículo 23 de la Ley, las Comisiones a través de la respectiva Unidad de Enlace elaborarán un listado actualizado de los sistemas de datos personales.
+De conformidad con lo establecido en el artículo 23 de la Ley, las Comisiones con el apoyo del respectivo Comité de Acceso elaborarán un listado de los archivos, registros o bancos de datos de carácter personal.
 
-Las Comisiones adoptarán las medidas necesarias para regular el acceso a los listados.
+En los respectivos Acuerdos Generales que regulen las funciones de los órganos competentes en materia de Acceso a la Información y de Protección de Datos Personales, los Plenos de la Suprema Corte y del Consejo, establecerán los procedimientos para regular el ejercicio del derecho de acceso, de rectificación y de cancelación de la información personal contenida en los archivos, registros o bancos de datos de carácter personal así como de oposición a su publicación.
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 33.
 
@@ -321,21 +351,25 @@ I. La existencia de un archivo, registro, base o banco de datos de carácter per
 
 II. Las consecuencias de la obtención de los datos o de la negativa a suministrarlos; y,
 
-III. La posibilidad de ejercer los derechos de acceso, rectificación y cancelación de los datos personales que le conciernan.
+III. La posibilidad de ejercer los derechos de acceso, de rectificación y de cancelación de los datos personales que le conciernan así como de oponerse a su publicación.
 
 ###### Artículo 34.
 
 De conformidad con lo establecido en el artículo 20 de la Ley, la solicitud deberá presentarse por escrito, cumpliendo con los requisitos previstos en el artículo 24 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 35.
 
-Al tenor de lo dispuesto en los artículos 24 y 25 de la Ley, sólo los interesados o sus representantes podrán solicitar a la Unidad de Enlace, previa acreditación, que les proporcionen o rectifiquen sus datos personales que obren en el sistema respectivo. Si se solicita la rectificación de datos personales, se deberán indicar las modificaciones requeridas y aportar la documentación que motive la petición.
+Al tenor de lo dispuesto en los artículos 24 y 25 de la Ley, sólo los interesados o sus representantes podrán solicitar a la Unidad de Enlace, previa acreditación, el acceso, la rectificación o la cancelación de sus datos personales que obren en el sistema respectivo, así como oponerse a su publicación. Si se ejerce el derecho de rectificación, de cancelación o de oposición a la publicación de datos personales, se deberán indicar las modificaciones requeridas y, en su caso, aportar la documentación que motive la petición.
 
-En caso de que el interesado directo haya fallecido, el representante de la sucesión podrá solicitar dicha información en los términos de las disposiciones del Código Civil Federal.
+En caso de que el interesado directo haya fallecido, el representante de la sucesión podrá solicitar dicha información en los términos de las disposiciones de la legislación común aplicable.
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 36.
 
-La Unidad de Enlace deberá entregar al solicitante, en un plazo no mayor a diez días hábiles contado a partir de la presentación de la solicitud, la información correspondiente o, en su caso, la comunicación por escrito señalando que no se cuenta con los datos requeridos; si lo solicitado fue la rectificación de datos personales, la respuesta deberá emitirse dentro de los treinta días hábiles siguientes a la presentación de la solicitud.
+La Unidad de Enlace deberá entregar al solicitante, en un plazo no mayor a diez días hábiles contado a partir de la presentación de la solicitud, la información correspondiente o, en su caso, la comunicación por escrito señalando que no se cuenta con los datos requeridos. La solicitud de rectificación o de cancelación de datos personales o la oposición a su publicación, deberá responderse dentro de los treinta días hábiles siguientes a la presentación de la solicitud.
 
 ## TITULO SEPTIMO. DE LOS MEDIOS DE DEFENSA
 
@@ -430,3 +464,13 @@ CUARTO. Con la salvedad establecida en el artículo transitorio que antecede, se
 QUINTO. La consulta física de los expedientes relativos a los asuntos jurisdiccionales o administrativos, que antes del doce de junio de dos mil tres habían concluido y se encontraban bajo resguardo de la Suprema Corte, del Consejo o de los Organos Jurisdiccionales se permitirá sin mayores restricciones que las necesarias para su conservación.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, fue emitido por los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza y los señores Consejeros Sergio Armando Valls Hernández, Jaime Manuel Marroquín Zaleta, Adolfo O. Aragón Mendía, Miguel A. Quirós Pérez, Elvia Díaz de León D’Hers y Constancio Carrasco Daza.- México, Distrito Federal, a treinta de marzo de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2007.
+
+PRIMERO. Las reformas al Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental contenidas en este instrumento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública, las reformas materia de este instrumento, sin menoscabo de que tanto la Suprema Corte como el Consejo difundan el texto íntegro del Reglamento respectivo.
+
+TERCERO. A más tardar dentro de los seis meses siguientes a la entrada en vigor de este instrumento los Plenos de la Suprema Corte y del Consejo deberán expedir los Acuerdos Generales que regulen las funciones de los órganos competentes en la materia y pormenoricen los respectivos procedimientos de acceso.
