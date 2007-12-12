@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-428
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-01-31"
-last_updated: "2005-01-31"
+last_updated: "2007-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42838&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-10-12"
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE DICIEMBRE DE 2007.
 
 Estatuto publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2005.
 
@@ -44,7 +44,9 @@ Para los efectos del presente Estatuto se entenderá por:
 
 Asuntos Jurídicos: La Coordinación de Asuntos Jurídicos de la Comisión de Derechos Humanos del Distrito Federal.
 
-Catálogo: El Catálogo de Cargos y Puestos del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos del Distrito Federal.
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+Catálogo: El Catálogo General de Cargos y Puestos de la Comisión de Derechos Humanos del Distrito Federal.
 
 Cargo: La denominación genérica que se asigna a una función específica dentro de la estructura organizacional comprendida en el Catálogo.
 
@@ -57,6 +59,10 @@ Dirección Ejecutiva: La Dirección Ejecutiva de Investigación y Desarrollo Ins
 Dirección General: La Dirección General de Administración de la Comisión.
 
 Estatuto: El Estatuto del Servicio Profesional en Derechos Humanos de la Comisión.
+
+> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+Estrados: Los espacios visibles ubicados en la sede que ocupe la Comisión, en los que se dará publicidad a las determinaciones en materia del Servicio Profesional en Derechos Humanos.
 
 Ley: La Ley de la Comisión.
 
@@ -106,9 +112,11 @@ El Manual será aprobado por el Consejo, a propuesta del Presidente, y podrá se
 
 La operación y el desarrollo del Servicio deberán basarse en el principio de no discriminación y la igualdad de oportunidades, el desempeño adecuado, la evaluación permanente, la transparencia de los procedimientos y la competencia de sus miembros, velando en todo momento por el cumplimiento del objeto de la Comisión y la atención adecuada de las y los usuarios.
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8o.
 
-Para la re-adscripción, licencias, permisos y permanencia del Personal Profesional, se tomarán en cuenta los resultados de la evaluación anual del desempeño y del aprovechamiento del Programa, de acuerdo con los términos y condiciones especificadas en el Estatuto, en el Manual y en las demás disposiciones legales aplicables, atendiendo a las necesidades del Servicio.
+Para la readscripción, licencias, permisos y permanencia del Personal Profesional, se tomarán en cuenta los resultados de la evaluación anual del desempeño y del aprovechamiento en el Programa, de acuerdo con los términos y condiciones especificadas en el Estatuto, en el Manual y en las demás disposiciones legales aplicables, atendiendo a las necesidades del Servicio.
 
 ###### Artículo 9o.
 
@@ -164,7 +172,9 @@ VII. Las demás que sean necesarias para el adecuado funcionamiento del Servicio
 
 Son atribuciones de la Dirección General:
 
-I. Dirigir, coordinar y supervisar la operación de los procedimientos establecidos en el presente Estatuto y en el Manual para el mejor funcionamiento del Servicio, con excepción de aquellos expresamente atribuidos por este Estatuto a otros órganos o áreas de apoyo de la Comisión;
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+I. Dirigir, coordinar, supervisar, implementar y evaluar la operación de los procedimientos establecidos en el presente Estatuto y en el Manual para el mejor funcionamiento del Servicio, con excepción de aquellos expresamente atribuidos por este Estatuto a otros órganos o áreas de apoyo de la Comisión;
 
 II. Expedir los oficios de adscripción del Personal Profesional;
 
@@ -182,9 +192,13 @@ VIII. Implementar el proceso de incentivos, en los términos de este Estatuto y 
 
 IX. Proponer al Presidente modificaciones al Catálogo, en consulta con la Dirección Ejecutiva, en función de las necesidades del Servicio, de las disponibilidades de presupuesto y del objeto de la Comisión;
 
-X. Coordinar e implementar el proceso de evaluación del desempeño, en los términos señalados en este Estatuto y del Manual, en acuerdo con el Presidente;
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
-XI. Proponer al Presidente, el anteproyecto de Evaluación Anual del Desempeño del Personal Profesional;
+X. Coordinar, elaborar, integrar y proponer al Presidente para su aprobación el anteproyecto de Evaluación Anual del Desempeño del Personal Profesional;
+
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+XI. Coadyuvar en coordinación con la Dirección Ejecutiva la elaboración de propuestas de modificaciones y reformas al Estatuto y al Manual conforme a la operación de las normas y los procedimientos de los procesos generales del Servicio, en función de las necesidades, de las disponibilidades de presupuesto y del objeto de la Comisión;
 
 XII. Implementar el proceso de formación profesional, en los términos señalados en este Estatuto, en el Manual y el Programa conforme a las necesidades del Servicio, oportunidades y posibilidades de presupuesto;
 
@@ -206,9 +220,17 @@ II. Diseñar el Programa, en acuerdo con el Presidente, para que éste lo someta
 
 III. Diseñar los exámenes aplicables al Personal Profesional derivados del Programa;
 
-IV. Llevar a cabo las acciones necesarias para garantizar la confidencialidad de la información derivada de los procedimientos a su cargo; y
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
-V. Las demás que le confiera el Presidente y que sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto y del Manual, en el ámbito de su competencia.
+IV. Coadyuvar con la Dirección General en los cursos de capacitación y selección celebrados para cada cargo y puesto del Personal Profesional, en los términos y con las modalidades que establezca el Manual;
+
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+V. Llevar a cabo las acciones necesarias para garantizar la confidencialidad de la información derivada de los procedimientos a su cargo; y
+
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+VI. Las demás que le confiera el Presidente y que sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto y del Manual, en el ámbito de su competencia.
 
 ###### Artículo 15o.
 
@@ -232,9 +254,15 @@ El nombramiento es el documento que hace constar la designación de una persona 
 
 En casos de excepción y por necesidades del Servicio, el Presidente podrá otorgar nombramientos eventuales improrrogables cuyo plazo máximo de vigencia será de doce meses y no formarán parte del Servicio.
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 18o.
 
-Los nombramientos del Personal Profesional serán provisionales hasta en tanto el Miembro del Servicio no apruebe tres evaluaciones anuales del desempeño con un resultado mínimo de 70 puntos, en una escala de 0 a 100 y la fase de formación profesional del Programa, en los términos señalados en este Estatuto y conforme a las modalidades y procedimientos que para tal efecto se establezcan en el Manual. Una vez satisfechos esos requisitos, se otorgará la titularidad expidiendo el nombramiento respectivo.
+Los nombramientos del Personal Profesional serán provisionales hasta en tanto el Miembro del Servicio no apruebe tres evaluaciones anuales del desempeño con un resultado mínimo de 70 puntos, en una escala de 0 a 100 y la fase de formación profesional del Programa, en los términos señalados en este Estatuto y conforme a las modalidades y procedimientos que para tal efecto se establezcan en el Manual. Una vez satisfechos esos requisitos, se otorgará la titularidad por única vez, expidiendo el nombramiento respectivo.
+
+La Dirección General presentará al Presidente a más tardar dos meses posteriores de la notificación de los resultados de los exámenes del Programa y de las evaluaciones del Desempeño y previa valoración de su expediente profesional, la lista de miembros que cumplen con los requisitos a fin que obtengan la titularidad expidiendo el nombramiento respectivo.
+
+Con la obtención de la titularidad, el personal profesional adquiere la permanencia, siempre sujeta a los términos del Estatuto y el Manual.
 
 ###### Artículo 19o.
 
@@ -248,9 +276,17 @@ III. Por destitución del Miembro del Servicio;
 
 IV. Hacerse acreedor o acreedora a las sanciones establecidas en la Ley Federal de Responsabilidades de los Servidores Públicos, que impliquen la separación del cargo y puesto;
 
-V. Despido justificado en términos de la Ley Federal de los Trabajadores al Servicio del Estado; y
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
-VI. Defunción.
+V. Despido justificado en términos de la Ley Federal de los Trabajadores al Servicio del Estado;
+
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+VI. Defunción, y;
+
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+VII. Otras circunstancias que previamente valoradas por la instancia competente, impidan al Miembro del Servicio su permanencia.
 
 ###### Artículo 20o.
 
@@ -278,13 +314,17 @@ X. Ser evaluado de manera imparcial, de conformidad con lo señalado en el prese
 
 XI. Conocer oportunamente los contenidos generales de los cursos y las guías de los exámenes que le serán aplicados derivados del Programa;
 
-XII. Conocer los resultados de sus evaluaciones y exámenes, previstos en este Estatuto, en el Manual y en el Programa;
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
-XIII. Conocer las razones para el otorgamiento o negación de incentivos, en los términos señalados por este Estatuto y el Manual;
+XII. Conocer los indicadores que serán empleados para la evaluación anual de su desempeño;
 
-XIV. Interponer recursos de inconformidad y de revisión ante las instancias competentes conforme a lo establecido por este Estatuto; y
+XIII. Conocer los resultados de sus evaluaciones y exámenes, previstos en este Estatuto, en el Manual y en el Programa;
 
-XV. Las demás que se deriven de la Ley y del presente Estatuto.
+XIV. Conocer las razones para el otorgamiento o negación de incentivos, en los términos señalados por este Estatuto y el Manual;
+
+XV. Interponer recursos de inconformidad y de revisión ante las instancias competentes conforme a lo establecido por este Estatuto; y
+
+XVI. Las demás que se deriven de la Ley y del presente Estatuto.
 
 ###### Artículo 21o.
 
@@ -390,23 +430,27 @@ El Estatuto y el Manual establecerán las modalidades y los términos para que e
 
 ### CAPÍTULO SEGUNDO. Formación Profesional
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 37o.
 
-El proceso de formación profesional tiene como propósito mejorar, a través del Programa, las capacidades y las aptitudes de las funciones desempeñadas por el Personal Profesional de manera permanente y sistemática, de acuerdo a las distintas áreas de especialidad señaladas en el artículo 22o. de este Estatuto.
+El proceso de formación profesional tiene como propósito mejorar, a través del Programa, los conocimientos, capacidades y aptitudes necesarias para el adecuado desempeño de las funciones del Personal Profesional de manera permanente y sistemática, de acuerdo a las distintas áreas de especialidad señaladas en el artículo 22o. de este Estatuto.
+
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 38o.
 
 El Programa estará integrado por cinco fases:
 
-I. Inducción: que tendrá el propósito de homologar los conocimientos del Personal Profesional en lo relativo al objeto de la Comisión, sus bases constitucionales, legales y reglamentarias y sus programas institucionales, entre otros;
+I. Inducción: que tendrá el propósito de introducir al Personal Profesional a una base común mínima en los conocimientos relativos al objeto de la Comisión, sus bases constitucionales, legales y reglamentarias y sus programas institucionales, entre otros;
 
-II. Formación Básica: que abordará los aspectos más importantes de la teoría y la práctica de la defensa, la promoción y el estudio de los derechos humanos, con énfasis en las necesidades formativas que se requieren para el ejercicio de esta labor en el Distrito Federal;
+II. Formación Básica: que abordará de forma general los aspectos teóricos y prácticos más importantes de los instrumentos jurídicos y de los mecanismos de garantía, a nivel nacional e internacional, para la promoción y protección de los derechos humanos, tomando en cuenta el contexto político y social actual, así como el de los grupos que se encuentran en situación de vulnerabilidad;
 
-III. Formación Profesional: que estará vinculada con los programas específicos que desarrolla la Comisión;
+III. Formación Profesional: que está vinculada con los programas específicos que desarrolla la Comisión a través de la profundización del aprendizaje teórico y práctico en temas relevantes, para las áreas de Defensa, Promoción y Estudio, con el propósito de lograr el fortalecimiento institucional y un mejor servicio para el público usuario;
 
-IV. Formación Especializada: que será el nivel superior de adquisición de conocimientos y se enfocará a la especialización del Personal Profesional en la defensa, la promoción y el estudio de los derechos humanos; y
+IV. Formación Especializada: que será el nivel superior de adquisición de conocimientos al enfocarse a la especialización del Personal Profesional en la defensa, la promoción y el estudio de los derechos humanos; y
 
-V. Actualización Permanente: que se compondrá de cursos y actividades de formación destinadas a mantener vigentes los conocimientos adquiridos por el Personal Profesional. Esta fase podrá consistir, en su caso, además de lo anterior, de un sistema de intercambio con autoridades y organizaciones de defensa de los derechos humanos, así como con instituciones académicas, nacionales e internacionales, al que podrá inscribirse el Personal Profesional que haya acreditado las fases anteriores.
+V. Actualización Permanente: que se compondrá de cursos y actividades de formación destinadas a mantener vigentes los conocimientos adquiridos por el Personal Profesional. Esta fase podrá consistir, en su caso, además de lo anterior, de un sistema de intercambio con instituciones gubernamentales y organizaciones civiles de defensa de los derechos humanos, así como con instituciones académicas, nacionales e internacionales, al que podrá inscribirse el Personal Profesional que haya acreditado las fases anteriores.
 
 ###### Artículo 39o.
 
@@ -432,23 +476,43 @@ Las calificaciones obtenidas por el Personal Profesional en los exámenes de con
 
 ### CAPÍTULO TERCERO. Evaluación del Desempeño
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 44o.
 
-El proceso de evaluación del desempeño es el conjunto de procedimientos destinados a medir los siguientes factores: la pertinencia, la eficiencia, los resultados y el impacto del trabajo realizado por el Miembro del Servicio.
+El proceso de la evaluación del desempeño es el sistema de valoración de la actuación de un Miembro del Servicio en su cargo y puesto, así como de su desarrollo y comprende un conjunto de normas y procedimientos diseñados para tal fin.
 
-Por pertinencia se deberá entender la congruencia entre las acciones del Miembro del Servicio en el trabajo y las funciones que debe desarrollar derivadas de su cargo o puesto; por eficiencia, la capacidad de producir el máximo resultado con el mínimo de recursos, energía y tiempo; por resultados, el cumplimiento de los objetivos planteados, y por impacto en el trabajo, el efecto que las acciones emprendidas tienen en el trabajo de la Comisión.
+La evaluación del desempeño se realiza al término de cada ejercicio fiscal, está destinada a medir los factores siguientes: calidad, eficiencia o rendimiento, responsabilidad y organización del trabajo, mediante la valoración de los indicadores correspondientes según está delineado en este Estatuto y en el Manual, e incorporados en la Evaluación Anual del Desempeño del Personal Profesional y abarca el periodo del 1 de enero al 31 de diciembre, considerando la fecha de ingreso del Miembro del Servicio, en los términos siguientes:
+
+I. Corresponde al superior jerárquico inmediato conforme al Catálogo evaluar y calificar el desempeño laboral de los Miembros del Servicio bajo su dirección o a quien ejerza la supervisión directa del personal que deba ser calificado;
+
+II. Los responsables de evaluar y calificar el desempeño laboral del Personal Profesional tienen la obligación de hacerlo dentro de los quince días hábiles posteriores al término del ejercicio fiscal, por calificar;
+
+III. En caso que el responsable de evaluar se retire de su empleo por cualquier circunstancia, tiene la responsabilidad de evaluar y calificar el desempeño laboral del Personal Profesional a su cargo, antes de su separación;
+
+IV. La evaluación del desempeño se realizará mediante cédulas especiales, diseñadas por la Dirección General y permitirán valorar los factores o dimensiones del trabajo realizado por el Personal Profesional, conforme se establezca en el Manual;
+
+V. La o el evaluador será responsable de documentar y registrar todos aquellos elementos que le permitan sustentar la evaluación del desempeño del o la Miembro del Servicio;
+
+VI. La elaboración de los indicadores que servirán para evaluar los factores de desempeño señalados se basará en las definiciones que aparecen en el Manual;
+
+VII. Como parte de los procedimientos de evaluación, se incluirán indicadores que permitan obtener información sobre la forma en que los evaluadores realizaron sus tareas de evaluación.
 
 ###### Artículo 45o.
 
 La Evaluación Anual del Desempeño del Personal Profesional establecerá los indicadores y las ponderaciones que se definirán cada año para evaluar los factores referidos en el artículo 44o., así como los instrumentos específicos para realizar dicha evaluación. El Manual establecerá las modalidades y los procedimientos a los que se sujetará la evaluación del desempeño.
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 46o.
 
-La Dirección General dará a conocer los indicadores del desempeño y las ponderaciones con los que será evaluado cada año el trabajo del Personal Profesional, con antelación al ejercicio fiscal correspondiente.
+La Dirección General será la responsable de difundir, con antelación al ejercicio fiscal correspondiente, las normas y procedimientos aprobados, en materia de evaluación anual del desempeño de los miembros del Servicio Profesional.
+
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 47o.
 
-Conforme a las modalidades establecidas en el Manual dichos indicadores podrán ser revisados y ajustados durante el ejercicio anual, cuando así lo exijan las necesidades del Servicio y se informe previamente a su aplicación al Personal Profesional cuya evaluación resultará afectada. Pero en todo caso, las modificaciones no surtirán efecto cuando la tarea o la actividad a evaluar ya haya sido realizada.
+Conforme a las modalidades establecidas en el Manual, los indicadores podrán ser revisados y ajustados durante el ejercicio anual, cuando así lo exijan las necesidades del Servicio y se informe previamente a su aplicación al Personal Profesional cuya evaluación resultará afectada.
 
 ###### Artículo 48o.
 
@@ -474,7 +538,9 @@ III. Determinar la titularidad de un Miembro del Servicio;
 
 IV. Servir como instrumento para detectar necesidades de capacitación y formación;
 
-V. Identificar los casos de desempeño no satisfactorio para adoptar medidas individuales o institucionales correctivas, de conformidad con las necesidades del Servicio; y
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+V. Identificar medidas institucionales correctivas, de conformidad con las necesidades del Servicio; y
 
 VI. Otros fines institucionales.
 
@@ -516,9 +582,21 @@ El Estatuto y el Manual establecerán las modalidades y los términos para que e
 
 ### CAPÍTULO PRIMERO. Del Recurso de Inconformidad
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 57o.
 
 El Personal Profesional que considere le causan agravios las resoluciones administrativas dictadas por la Dirección General, podrá interponer el recurso de inconformidad ante la misma Dirección General.
+
+Las notificaciones que se realicen dentro del recurso de inconformidad surtirán sus efectos en los términos siguientes:
+
+I. Las personales, a partir del día hábil siguiente al que fueron practicadas;
+
+II. Por correo certificado con acuse de recibo, a partir del día hábil siguiente a aquel que se consigne de recibo en el acuse respectivo; y
+
+III. Por estrados, a partir del día hábil siguiente en que se efectuó la publicación. Este tipo de notificaciones se realizará cuando no se señale domicilio, cuando se señale fuera del Distrito Federal o área metropolitana, o bien, para dar publicidad a los actos procedimentales.
+
+Para tal efecto se estará a lo dispuesto en el presente Estatuto y en el Manual; en lo no previsto, siempre y cuando no se contravengan estas disposiciones, se aplicará en forma supletoria la Ley Federal de los Trabajadores al Servicio del Estado, la Ley Federal del Trabajo, el Código de Procedimientos Civiles para el Distrito Federal y los Principios Generales de Derecho, en ese orden.
 
 ###### Artículo 58o.
 
@@ -596,7 +674,9 @@ Las actuaciones y diligencias se practicarán en días y horas hábiles; para el
 
 Contra las determinaciones de la Dirección General que resuelvan el recurso de inconformidad, procede el de revisión, el cual deberá presentarse ante Asuntos Jurídicos, siendo substanciado de la manera siguiente:
 
-a. El recurso deberá presentarse dentro del término de 2 días hábiles, contado a partir de que surta efecto la notificación de la resolución que se recurre;
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+a. El recurso deberá presentarse dentro del término de 2 días hábiles, contado a partir de que surta efecto la notificación de la resolución que se recurre; para tal fin se computará el término conforme a lo previsto en el artículo 57o. en lo relativo al apartado de notificaciones;
 
 b. Asuntos Jurídicos, una vez que reciba el recurso, requerirá el envío de las constancias que integran el expediente a la Dirección General; y ésta tendrá la obligación de remitirlo en un término de 3 días hábiles;
 
@@ -610,9 +690,11 @@ d. Para el caso de desechamiento y sobreseimiento del recurso, se aplicarán los
 
 El procedimiento disciplinario es la secuencia de actos tendientes a resolver si ha lugar o no a la imposición de alguna sanción, conforme a lo dispuesto en este Estatuto, el Manual y demás normatividad aplicable; dicho procedimiento se apegará invariablemente a los principios de certeza, objetividad, imparcialidad, equidad y legalidad, respetando en todo momento, el derecho de audiencia del Personal Profesional.
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 68o.
 
-Las responsabilidades y sanciones administrativas que se desprendan del incumplimiento al presente Estatuto, en particular aquellas relacionadas con la evaluación anual del desempeño y el aprovechamiento del Programa, se determinarán de acuerdo con los principios y obligaciones que establece el presente Estatuto.
+Las responsabilidades y sanciones administrativas que se desprendan del incumplimiento al presente Estatuto, relacionadas con la evaluación anual del desempeño y aprovechamiento del Programa, se determinarán de acuerdo con los principios y obligaciones que establece el presente Estatuto.
 
 ###### Artículo 69o.
 
@@ -688,15 +770,19 @@ Las actuaciones tendientes a desarrollar el procedimiento disciplinario se pract
 
 Son días hábiles, todos los del año, excepto sábados, domingos, días de descanso obligatorio y los periodos de vacaciones que establezca la Comisión. Son horas hábiles, las que transcurran de las nueve a las dieciocho horas de los días hábiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 79o.
 
-Las notificaciones que se realicen dentro del procedimiento disciplinario, surtirán sus efectos en los términos siguientes:
+Las notificaciones que se realicen dentro del procedimiento disciplinario y recurso de revisión en contra de la resolución dictada en este último, surtirán sus efectos en los términos siguientes:
 
 I. Las personales, a partir del día hábil siguiente al que fueron practicadas;
 
 II. Por correo certificado con acuse de recibo, a partir del día hábil siguiente a aquel que se consigne de recibido en el acuse respectivo; y
 
-III. Por estrados, a partir del día hábil siguiente a aquel en que se efectuó la publicación. Este tipo de notificaciones se realizará cuando no se señale domicilio, o bien, cuando se señale fuera del Distrito Federal o área metropolitana.
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
+III. Por estrados, a partir del día hábil siguiente en que se efectuó la publicación. Este tipo de notificaciones se realizará cuando no se señale domicilio, cuando se señale fuera del Distrito Federal o área metropolitana, o bien, para dar publicidad a los actos procedimentales.
 
 ###### Artículo 80o.
 
@@ -845,3 +931,15 @@ En la Ciudad de México, a los doce días del mes de octubre del año dos mil cu
 EL PRESIDENTE DEL CONSEJO
 
 EMILIO ÁLVAREZ ICAZA LONGORIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 12 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las Reformas y Adiciones que se contienen en el Acuerdo del Consejo de la Comisión de Derechos Humanos del Distrito Federal, aprobado en sesión ordinaria de fecha 13 de noviembre de 2007, entrarán en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal derogando las disposiciones que las contravengan.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Estatuto del Servicio Profesional en Derechos Humanos que se reforma y adiciona, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
