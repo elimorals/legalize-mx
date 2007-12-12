@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2007-11-08"
+last_updated: "2007-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -841,7 +841,9 @@ Para ser Secretario del Ayuntamiento se requiere:
 
 I.- Ser ciudadano en pleno uso de sus derechos políticos y civiles y no ser miembro del Ayuntamiento.
 
-II.- Tener suficiente instrucción, capacidad y honestidad, a juicio del Ayuntamiento. En todo caso, en los municipios que tengan una población que exceda de 50,000 habitantes se requiere poseer título de abogado.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2007)</small>
+
+II.- Tener suficiente instrucción, capacidad y honestidad, a juicio del Ayuntamiento. En los municipios que tengan una población que exceda de 50,000 habitantes deberá poseer título de abogado.
 
 III.- No haber sido condenado por sentencia que haya causado ejecutoria, por delito intencional.
 
@@ -887,9 +889,11 @@ La oficina estará a cargo de un Tesorero Municipal que será designado por el A
 
 Los Tesoreros y Cajeros deberán caucionar su manejo en la forma y términos que determine el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 71.
 
-Para ser Tesorero se requiere reunir los requisitos señalados en el Artículo 67, siendo discrecional la exigencia del título profesional.
+Para ser Tesorero Municipal se requiere reunir los requisitos señalados en el artículo 67 de este Código. En los municipios con una población que exceda de 50,000 habitantes, se requiere poseer título de Licenciado en Administración Pública, Licenciado en Economía, Licenciado en Finanzas, Licenciado en Administración de Empresas, Contador Público u otros estudios técnicos o profesionales en materias análogas.
 
 ###### ARTICULO 72.
 
@@ -933,9 +937,9 @@ ARTICULO 72 bis.- La Contraloría Municipal es el órgano de control interno enc
 
 La oficina estará a cargo de un Contralor Municipal que será designado por el Ayuntamiento, a terna propuesta por el Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2007)</small>
 
-ARTICULO 72 ter.- Para ser Contralor se requiere reunir los requisitos señalados en el Artículo 67 de este Código y, en su caso, poseer título en profesión afín al cargo.
+ARTICULO 72 ter.- Para ser Contralor Municipal se requiere reunir los requisitos señalados en el artículo 67 de este Código. En los municipios con una población que exceda de 50,000 habitantes, se requiere poseer título de Contador Público, Licenciado en Administración Pública, Licenciado en Economía, Licenciado en Finanzas, Licenciado en Administración de Empresas u otros estudios técnicos o profesionales en materias análogas.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -985,9 +989,9 @@ VIII.- En general, organizar la construcción de obras y la prestación de servi
 
 IX.- Las demás previstas en las leyes y reglamentos.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2007)</small>
 
-Para ser Secretario de Desarrollo Urbano y Ecología o, en su caso, Director de Obras y Servicios Públicos Municipales, se requiere reunir los requisitos señalados en el artículo 67 y, en su caso, poseer título en profesión afín al cargo.
+Para ser Secretario de Desarrollo Urbano y Ecología, o en su caso, Director de Obras y Servicios Públicos Municipales, se requiere reunir los requisitos señalados en el artículo 67 de este Código. En los municipios con una población que exceda de 50,000 habitantes, se requiere poseer título de Ingeniero Civil, Arquitecto, Licenciado en Urbanismo, Ingeniero Ambiental u otros estudios técnicos o profesionales en materias análogas.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -3660,3 +3664,9 @@ P.O. 8 DE NOVIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día 1 de enero del año 2008.
