@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transito-del-estado-de-morelos-antes-transito-y-6713"
 country: "mx"
 rank: "ley"
 publication_date: "1989-02-08"
-last_updated: "1989-02-08"
+last_updated: "2007-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE TRANSITO DEL ESTADO DE MORELOS -ANTES TRANSITO Y TRANSPORTE-
 
-LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE MORELOS
+LEY DE TRANSITO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1989.
 
@@ -55,7 +55,9 @@ Y que la finalidad principal es de que en nuestro Estado se organice debida, dur
 
 En virtud de lo anterior, esta H. Legislatura tiene a bien expedir la siguiente:
 
-LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE MORELOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 2007)</small>
+
+LEY DE TRANSITO DEL ESTADO DE MORELOS
 
 (NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -135,29 +137,23 @@ Para que un vehículo pueda circular en el Estado, debe estar registrado en las 
 
 ###### ARTICULO 8o.
 
-Para la prestación del servicio público de transporte de personas o de carga, la concesión o permiso que expida la autoridad correspondiente, podrá ser a favor de personas físicas o morales.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, P.O. 12 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 9o.
 
-En caso de tratarse de concesiones que determinen el establecimiento de un sistema de transporte o de una línea del mismo, los interesados deben asociarse en un organismo con personalidad jurídica propia, para que las obligaciones derivadas del servicio que pretenden prestar, o de esta Ley y su reglamento sean exigibles por medio de sus representantes, quienes deberán estar debidamente acreditados ante las autoridades Estatales.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, P.O. 12 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 10.
 
-Las concesiones y permisos que expidan las autoridades de Transporte, comprenderán el número de vehículos que se requieran de acuerdo con la naturaleza del servicio que se deba prestar, y los demás requisitos que señale el Reglamento de esta Ley.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, P.O. 12 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 11.
 
-Para el otorgamiento de los permisos y concesiones o para el aumento de la capacidad de Transporte en las líneas o sistemas, se requerirá previamente por parte de la Dependencia que señale el reglamento, la aprobación de un estudio técnico de los siguientes aspectos:
-
-I.- La necesidad de establecer el sistema o línea de transporte solicitado, o en su caso de aumentar el número de unidades o capacidad de las (sic) de la línea o sistema en explotación.
-
-II.- La capacidad suficiente del o de los vehículos, para el servicio adecuado a las necesidades, considerando el itinerario propuesto y los horarios que deben cubrirse; y
-
-III.- Las condiciones técnicas de prestación del servicio respecto a la seguridad, eficiencia, limpieza, obsolescencia y costo del Transporte.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, P.O. 12 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 12.
 
-Los derechos derivados de los permisos y concesiones para la explotación del servicio público de transporte de personas o de carga, no podrán cederse a terceros, si no con el previo consentimiento del Ejecutivo del Estado, quien tiene facultades para imponer las modalidades que estime pertinentes para la mejor prestación del servicio.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, P.O. 12 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 13.
 
@@ -196,3 +192,27 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Alfredo de la Torre y Martínez
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Se derogan los artículos 8, 9, 10, 11, 12 de la Ley de Tránsito y Transporte del Estado de Morelos, publicada en el Periódico Oficial órgano de difusión del Gobierno del Estado con fecha ocho de febrero de mil novecientos ochenta y nueve, así como las demás disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, quedando vigentes los artículos 1, 2, 3, 4, 5, 6, 7, 13, relativos únicamente a la materia de tránsito . De igual forma se cambia la denominación de la Ley de Tránsito y Transporte del Estado de Morelos, para quedar como Ley de Tránsito del Estado de Morelos.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Las infracciones cometidas con anterioridad a la entrada en vigor de esta Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
+
+CUARTO. Las personas físicas o morales que al entrar en vigor esta Ley, tengan solicitudes de concesiones, permisos o autorizaciones en trámite, se resolverán en los términos previstos en las disposiciones vigentes.
+
+QUINTO. Se establece un plazo de treinta días naturales para que las autoridades del Poder Ejecutivo, emitan o modifiquen los reglamentos respectivos sobre las disposiciones de la presente Ley.
+
+SEXTO. Se otorga un plazo improrrogable de doce meses contados a partir de la entrada en vigor de la presente Ley, para la emisión del Programa Estatal de Desarrollo del Transporte.
+
+SEPTIMO. Se establecerá un plazo de noventa días naturales para que los prestadores de los servicios de transporte cumplan con las adecuaciones correspondientes.
+
+OCTAVO. Se otorga un plazo improrrogable de doce meses contado a partir de la entrada en vigor de la presente Ley, para hacer efectivas las disposiciones de este ordenamiento en materia de sustitución de vehículos.
+
+NOVENO. Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente Ley, surtirán sus efectos legales correspondientes y se respetará su fecha de vencimiento, por lo que una vez que entre en vigor la presente ley, su regulación y renovación deberá de sujetarse en los términos que resuelvan los Órganos Jurisdiccionales competentes.
+
+DÉCIMO. El titular del Ejecutivo dispondrá de un plazo de noventa días naturales contado a partir de la publicación de esta Ley, para la emisión del Reglamento correspondiente.
