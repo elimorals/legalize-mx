@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2007-07-03"
+last_updated: "2007-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1287,10 +1287,6 @@ Mientras se hace la designación ordenada en el artículo anterior o en cualquie
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
-###### ARTICULO 87.
-
-En los casos de licencia temporal concedida al Gobernador, el Congreso o la Diputación Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrarán un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Las ausencias del Gobernador en períodos que no excedan de 30 días serán cubiertas por el Secretario de Gobierno, encargado del despacho; cuando excedan de dicho término, el H. Congreso o la Diputación Permanente decide el interino.
-
 ###### Art. 87.
 
 En los casos de licencia temporal concedida al Gobernador, el Congreso o la Diputación Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrarán un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Las ausencias del Gobernador en períodos que no excedan de 30 días serán cubiertas por el Secretario de Gobierno, encargado del despacho; cuando excedan de dicho término, el H. Congreso o la Diputación Permanente decide el interino.
@@ -1625,11 +1621,17 @@ Quien haya sido ratificado para un segundo periodo no podrá ser propuesto nueva
 
 Los Magistrados y Jueces serán nombrados preferentemente entre aquellas personas que hayan servido con eficacia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2007)</small>
 
 ###### Art. 107.
 
-El Poder Judicial del Estado contará con autonomía presupuestal, orgánica y funcional. El presupuesto del Poder Judicial será el suficiente para cubrir las necesidades en el ejercicio de su función. Los Magistrados del Supremo Tribunal de Justicia y los Jueces percibirán una remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
+El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcional. Para garantizar su independencia económica, el presupuesto de egresos del Poder Judicial no podrá ser inferior del 1.2 % del total del presupuesto general del Estado previsto para el año fiscal a ejercer, mismo que administrará, ejercerá y justificará en los términos que fijen las leyes respectivas, y cuya asignación por concepto de gasto corriente no podrá ser menor al aprobado por el Congreso para el ejercicio anual inmediato anterior. En caso de que al término del ejercicio existan sumas no erogadas, se enterarán a la Hacienda del Estado.
+
+> <small>(ADICIONADO [N. DE E. ANTES ULTIMO ENUNCIADO DEL PARRAFO QUE ANTECEDE], P.O. 12 DE DICIEMBRE DE 2007)</small>
+
+Los Magistrados del Supremo Tribunal de Justicia y los Jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Supremo Tribunal de Justicia aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno.
 
@@ -3335,13 +3337,15 @@ P.O. 3 DE JULIO DE 2007.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 12 DE DICIEMBRE DE 2007.
+
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones locales que procedan y reglamenten lo aquí estipulado.
+Para alcanzar el porcentaje mínimo a que se refiere el primer párrafo del artículo 107 de la Constitución Política del Estado que se reforma mediante el presente Decreto, se efectuará un incremento paulatino del porcentaje del Presupuesto de Egresos asignado al Poder Judicial en el Decreto del Presupuesto de Egresos del Estado para el ejercicio fiscal de 2007, a fin de que alcance el 0.9% en 2008, el 1% en 2009, el 1.1% en 2010 y el 1.2% en 2011.
 
 ###### ARTICULO UNICO.
 
