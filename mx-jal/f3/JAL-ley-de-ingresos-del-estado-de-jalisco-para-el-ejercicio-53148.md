@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-53148"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-28"
-last_updated: "2006-12-28"
+last_updated: "2007-12-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL DEL AÑO 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 28 de diciembre de 2006.
 
@@ -1293,6 +1293,32 @@ Los documentos solicitados se entregarán en un plazo hasta de 4 cuatro días, c
 
 A petición del interesado dichos documentos se entregarán en un plazo no mayor de 24 veinticuatro horas, cobrándose el doble de la cuota correspondiente con excepción de los servicios que presta el Registro Civil al cual no se aplicará este párrafo.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 25 Bis.
+
+Servicios relacionados con la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus municipios y su reglamento.
+
+a) Por la evaluación de los prestadores de
+
+la certificación de firma electrónica: $25,000.00
+
+b) Por el dictamen para procesar certificaciones
+
+de firma electrónica: $120,000.00
+
+c) Por el aviso de cese relativo a la expedición
+
+de certificaciones de firma electrónica: $110,000.00
+
+d) Por la práctica de examen para encargado
+
+de identificación del prestador de
+
+certificaciones de firma electrónica: $500.00
+
+No presentarán el examen a que se refiere el inciso d) los notarios públicos y los servidores públicos de las entidades públicas, cuando el área jurídica sea la encargada de validar la acreditación de la representación de los solicitantes.
+
 ###### Artículo 26.
 
 Se encuentran exentos del pago de derechos:
@@ -1742,3 +1768,9 @@ El Secretario General de Gobierno
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
