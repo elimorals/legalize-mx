@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2007-11-27"
+last_updated: "2007-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2007.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -2861,37 +2861,39 @@ VIII. Establecer en forma conjunta con la Dirección General de Programación y 
 
 IX. Expedir contra-recibos a proveedores, contratistas y prestadores de servicios, previa recepción de sus facturas;
 
-X. Verificar que la documentación comprobatoria para liberar el pago correspondiente reúna los requisitos de la normativa vigente;
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, SE DEROGA LA FRACCION X, RECORRIENDOSE LAS SUBSECUENTES EN SU ORDEN, D.O.F. 13 DE DICIEMBRE DE 2007.</small>
 
-XI. Librar los cheques para el pago a proveedores, contratistas y prestadores de servicios, mancomunadamente, en su caso, con el Secretario Ejecutivo de Finanzas o con los servidores públicos autorizados, conforme al calendario de pagos;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
-XII. Supervisar y dar seguimiento a las autorizaciones de pagos nominales a través de cheque y abono a cuenta bancaria que se realicen en el Poder Judicial de la Federación;
+X. Liberar los pagos a proveedores, contratistas, prestadores de servicios y demás acreedores del Consejo, atendiendo a las disposiciones normativas emitidas por el Pleno o sus Comisiones, así como al calendario de pagos establecido;
 
-XIII. Auxiliar a la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia en el resguardo y custodia del numerario nacional y extranjero, valores y documentos decomisados o asegurados no reclamados o abandonados, derivados de las diversas causas procesales puestos a disposición del Consejo, o aquéllos asegurados que determine la autoridad judicial, en tanto se resuelva su situación legal;
+XI. Supervisar y dar seguimiento a las autorizaciones de pagos nominales a través de cheque y abono a cuenta bancaria que se realicen en el Poder Judicial de la Federación;
 
-XIV. Recomendar a la Secretaría Ejecutiva de Finanzas, se someta a consideración de la Comisión de Administración, la aplicación de los cheques dados en garantía por terceros, en la adjudicación de contratos por obra, contratos de mantenimiento, contratos de servicios y, en general, en los casos de incumplimiento;
+XII. Auxiliar a la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia en el resguardo y custodia del numerario nacional y extranjero, valores y documentos decomisados o asegurados no reclamados o abandonados, derivados de las diversas causas procesales puestos a disposición del Consejo, o aquéllos asegurados que determine la autoridad judicial, en tanto se resuelva su situación legal;
 
-XV. Informar, a través de la Secretaría Ejecutiva de Finanzas, el reporte mensual de ingresos del Poder Judicial de la Federación;
+XIII. Recomendar a la Secretaría Ejecutiva de Finanzas, se someta a consideración de la Comisión de Administración, la aplicación de los cheques dados en garantía por terceros, en la adjudicación de contratos por obra, contratos de mantenimiento, contratos de servicios y, en general, en los casos de incumplimiento;
 
-XVI. Sugerir a la Secretaría Ejecutiva de Finanzas, en coordinación con los órganos facultados, normas, procedimientos y lineamientos a seguir en materia de pago de nóminas, pagos de obra pública, fondos revolventes y cuentas a saldar;
+XIV. Informar, a través de la Secretaría Ejecutiva de Finanzas, el reporte mensual de ingresos del Poder Judicial de la Federación;
 
-XVII. Coordinar que el pago de nóminas del área metropolitana del personal del Poder Judicial de la Federación, sea conforme al calendario autorizado por el Pleno del Consejo;
+XV. Sugerir a la Secretaría Ejecutiva de Finanzas, en coordinación con los órganos facultados, normas, procedimientos y lineamientos a seguir en materia de pago de nóminas, pagos de obra pública, fondos revolventes y cuentas a saldar;
 
-XVIII. Cumplir los compromisos de pago contraídos por el Consejo en las contrataciones en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, en los pedidos y contratos respectivos, de conformidad con la normativa vigente;
+XVI. Coordinar que el pago de nóminas del área metropolitana del personal del Poder Judicial de la Federación, sea conforme al calendario autorizado por el Pleno del Consejo;
 
-XIX. Gestionar las solicitudes del Consejo, ante la institución bancaria autorizada, en relación con la instalación de cajeros automáticos y sucursales bancarias, contratación de cajas de seguridad y realización de avalúos inmobiliarios;
+XVII. Cumplir los compromisos de pago contraídos por el Consejo en las contrataciones en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, en los pedidos y contratos respectivos, de conformidad con la normativa vigente;
 
-XX. Solicitar a las áreas facultadas el apoyo necesario en materia de seguridad y logística, a efecto de salvaguardar los recursos financieros y humanos de la Tesorería;
+XVIII. Gestionar las solicitudes del Consejo, ante la institución bancaria autorizada, en relación con la instalación de cajeros automáticos y sucursales bancarias, contratación de cajas de seguridad y realización de avalúos inmobiliarios;
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+XIX. Solicitar a las áreas facultadas el apoyo necesario en materia de seguridad y logística, a efecto de salvaguardar los recursos financieros y humanos de la Tesorería;
 
-XXI. Formular y proponer su respectivo anteproyecto de presupuesto, con apego a las políticas y lineamientos que emita el Consejo;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
-XXII. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos;
+XX. Formular y proponer su respectivo anteproyecto de presupuesto y su programa operativo anual de actividades, con apego a las políticas y lineamientos que emita el Consejo;
 
-XXIII. Tramitar, controlar y suministrar los recursos requeridos por los servidores públicos para el cumplimiento de las comisiones oficiales que les sean asignadas, tales como viáticos y pasajes, entre otros; y
+XXI. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos;
 
-XXIV. Las demás que le atribuyan el Pleno, la Comisión de Administración y el Secretario Ejecutivo de Finanzas.
+XXII. Tramitar, controlar y suministrar los recursos requeridos por los servidores públicos para el cumplimiento de las comisiones oficiales que les sean asignadas, tales como viáticos y pasajes, entre otros; y
+
+XXIII. Las demás que le atribuyan el Pleno, la Comisión de Administración y el Secretario Ejecutivo de Finanzas.
 
 ###### Artículo 137.
 
@@ -3532,3 +3534,13 @@ TERCERO.- Dentro del término de sesenta días hábiles siguientes a la entrada 
 CUARTO.- Se derogan las disposiciones emitidas por el Consejo que se opongan al presente acuerdo.
 
 QUINTO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, así como al Acuerdo General 18/2000, del Pleno del Consejo de la Judicatura Federal, por el que se Desconcentra a las Administraciones Regionales la Función Administrativa de Atención a los Organos Jurisdiccionales Federales y Areas del propio Consejo en el Interior de la República.
+
+D.O.F. 13 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo General entrará en vigor al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+CUARTO.- Dentro del término de sesenta días siguientes a la entrada en vigor del presente, la Dirección General de Programación y Presupuesto, y la Dirección General de Tesorería, deberán emitir los manuales de organización y procedimiento, de conformidad con la normativa y lineamiento aplicable.
