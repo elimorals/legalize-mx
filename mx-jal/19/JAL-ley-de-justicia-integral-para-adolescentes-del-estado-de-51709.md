@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-integral-para-adolescentes-del-estado-de-51709"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2007-06-23"
+last_updated: "2007-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2006.
 
@@ -1451,9 +1451,15 @@ SEXTO. Los menores sujetos a procedimiento por alguna infracción penal a la ent
 
 SÉPTIMO. EL defensor de oficio a que se refiere la presente ley, dependerá de la Defensoría de Oficio del Poder Judicial del Estado hasta en tanto entre en funciones la Procuraduría Social.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2007)</small>
 
-OCTAVO. Los órganos del Poder Judicial encargados de aplicar la Ley de Justicia Integral para Adolescentes del estado de Jalisco, tendrán competencia para conocer de los hechos delictivos cometidos previo a la entrada en vigor de la Ley de Justicia Integral para Adolescentes del estado de Jalisco, teniendo además las mismas facultades que correspondían a los Consejos Paternales de acuerdo a la Ley de Readaptación Juvenil abrogada.
+OCTAVO. Los órganos del Poder Judicial encargados de aplicar la Ley de Justicia Integral para Adolescentes del estado de Jalisco. Tendrán competencia y deberán conocer de los hechos cometidos previo a la entrada en vigor de la Ley de Justicia Integral para Adolescentes del estado de Jalisco, teniendo además las mismas facultades que correspondan a los consejos paternales de acuerdo con la Ley de Readaptación Juvenil abrogada.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2007)</small>
+
+NOVENO. Los municipios que hubieren recibido expedientes relativos a hechos delictivos cometidos previo a la entrada en vigor de la Ley de Justicia Integral para Adolescentes del estado de Jalisco, deberán remitirlos de forma inmediata a los órganos del Poder Judicial encargados de aplicar la Ley de Justicia Integral para Adolescentes del estado de Jalisco, para su conocimiento y resolución en los términos de lo dispuesto por el articulo octavo transitorio de la presente ley.
+
+En los mismos términos se procederá respecto de los procedimientos que se lleven actualmente ante los consejos paternales, los cuales deberán suspenderlos y remitir las actuaciones de forma inmediata a los órganos del Poder Judicial encargados de aplicar la Ley de de Justicia Integral para Adolescentes del estado de Jalisco.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -1502,5 +1508,9 @@ P.O. 25 DE ENERO DE 2007.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 23 DE JUNIO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE DICIEMBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
