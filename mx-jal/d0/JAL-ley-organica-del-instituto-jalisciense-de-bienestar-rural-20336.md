@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-bienestar-rural-20336
 country: "mx"
 rank: "ley_organica"
 publication_date: "1967-04-06"
-last_updated: "1967-04-06"
+last_updated: "2007-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ORGANICA DEL INSTITUTO JALISCIENSE DE BIENESTAR RURAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 22111/LVIII/07, PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 6 de abril de 1967.
 
@@ -438,3 +440,9 @@ FRANCISCO MEDINA ASCENSIO.
 EL SECRETARIO GRAL. DE GOBIERNO.
 
 Lic. Arnulfo Hernández Orozco.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
