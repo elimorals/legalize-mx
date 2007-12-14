@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-finanzas-y-44972"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-17"
-last_updated: "2007-06-19"
+last_updated: "2007-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 17 de mayo de 2005.
 
@@ -129,7 +129,7 @@ d) Dirección General de Presupuesto:
 
 3. Dirección de Análisis y Seguimiento del Gasto Público; y
 
-4. Dirección de Administración de la Información.
+4. (DEROGADO, P.O. 14 DE DICIEMBRE DE 2007)
 
 e) Dirección General de Coordinación y Seguimiento de la Inversión Pública:
 
@@ -157,7 +157,9 @@ g) Dirección General de Carreteras Estatales de Cuota:
 
 h) Dirección General de Verificación al Comercio Exterior:
 
-1. Dirección de Verificación de Mercancías en Transporte;
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+1. Dirección de Verificación de Mercancías;
 
 2. Dirección de Visitas Domiciliarias de Comercio Exterior; y
 
@@ -171,9 +173,13 @@ a) Dirección General de Recursos Humanos:
 
 2. Dirección de Desarrollo de Recursos Humanos;
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-3. Dirección de Relaciones Laborales y Prestaciones.
+3. Dirección de Relaciones Laborales y Prestaciones; y
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+4. Dirección del Servicio Civil de Carrera.
 
 b) Dirección General de Recursos Materiales y Servicios Generales:
 
@@ -185,9 +191,17 @@ b) Dirección General de Recursos Materiales y Servicios Generales:
 
 4. Coordinación Operativa.
 
-c) Dirección General de Informática y Telecomunicaciones:
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-1. Dirección de Sistemas, Redes y Telecomunicaciones.
+c) Dirección General de Tecnologías de la Información y Telecomunicaciones:
+
+1. Dirección de Redes y Telecomunicaciones;
+
+2. Dirección de Administración de Tecnologías de la Información;
+
+3. Dirección de Sistemas Estratégicos de Información; y
+
+4. Unidad de Medios Electrónicos y Firma Electrónica.
 
 d) Dirección General Administrativa:
 
@@ -197,9 +211,9 @@ d) Dirección General Administrativa:
 
 3. Dirección de Servicios Generales.
 
-e) Unidad del Servicio Civil de Carrera;
+e) (DEROGADO, P.O. 14 DE DICIEMBRE DE 2007)
 
-f) Unidad de Medios Electrónicos y Firma Electrónica;
+f) (DEROGADO, P.O. 14 DE DICIEMBRE DE 2007)
 
 g) Unidad de Acceso a la Información Pública del Poder Ejecutivo; y
 
@@ -1569,11 +1583,15 @@ La Dirección General de Presupuesto deberá apoyar, coordinar y supervisar el t
 
 I. Dirección de Regulación Presupuestal;
 
-II. Dirección de Control Presupuestal;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-III. Dirección de Análisis y Seguimiento del Gasto Público; y
+II. Dirección de Control Presupuestal; y
 
-IV. Dirección de Administración de la Información.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+III. Dirección de Análisis y Seguimiento del Gasto Público.
+
+IV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2007)
 
 ###### Artículo 51.
 
@@ -1603,7 +1621,7 @@ V. Proponer al Subsecretario del ramo políticas y mecanismos de modificación a
 
 VI. Definir, en coordinación con las unidades administrativas competentes, las condiciones necesarias para que las dependencias y entidades ejerzan de manera directa su presupuesto de egresos autorizado, a través del Sistema Integral de Hacienda Pública;
 
-VII. Administrar el Sistema Integral de la Hacienda Pública, en coordinación con la Dirección General de Contabilidad Gubernamental;
+VII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2007)
 
 (REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
 
@@ -1747,33 +1765,7 @@ IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así
 
 ###### Artículo 55.
 
-La Dirección de Administración de la Información, tendrá las siguientes facultades:
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-I. Operar el Sistema Integral de la Hacienda Pública, así como los sistemas de información que estén a su cargo;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-II. Definir normas, políticas y procedimientos, para el buen funcionamiento de los diferentes módulos del Sistema Integral de la Hacienda Pública;
-
-III. Mantener la integridad de la información de los diferentes usuarios del Sistema Integral de la Hacienda Pública;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-IV. Capacitar a los usuarios del Sistema Integral de la Hacienda Pública;
-
-V. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-VI. Investigar nuevas prácticas, modelos y desarrollos tecnológicos acordes a los objetivos trazados en los planes y programas del Sistema Estatal de Planeación, que puedan ser aprovechados en el Sistema Integral de la Hacienda Pública y en las áreas sustantivas de las dependencias y entidades de la Administración Pública Estatal, así como para facilitar el seguimiento y control financiero presupuestal, y la integración de la información necesaria para la cuenta pública del Estado;
-
-VII. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
-
-VIII. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
-
-IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2007)
 
 ### CAPÍTULO SEXTO. DE LA DIRECCIÓN GENERAL DE COORDINACIÓN Y SEGUIMIENTO DE LA INVERSIÓN PÚBLICA
 
@@ -2129,43 +2121,75 @@ XI. Las demás que las disposiciones legales, reglamentarias y administrativas l
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE VERIFICACIÓN DE MERCANCÍAS EN TRANSPORTE
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE VERIFICACIÓN DE MERCANCÍAS
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-Artículo 68 quáter.- La Dirección de Verificación de Mercancías en Transporte tendrá las siguientes facultades:
+Artículo 68 quáter.- La Dirección de Verificación de Mercancías tendrá las siguientes facultades:
 
-I. Ordenar y practicar la verificación de mercancías en transporte, que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, de conformidad con la legislación fiscal y aduanera aplicables;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-II. Ordenar y practicar la verificación de vehículos de procedencia extranjera en circulación dentro de la circunscripción territorial del Estado de Guanajuato, aun cuando no se encuentren en movimiento, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables;
+I. Ordenar y practicar la verificación de mercancías en transporte, que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, así como visitas domiciliarias derivadas de la verificación de mercancías en transporte, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, de conformidad con la legislación fiscal y aduanera aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+II. Ordenar y practicar la verificación de vehículos de procedencia extranjera en circulación dentro de la circunscripción territorial del Estado de Guanajuato, aun cuando no se encuentren en movimiento, así como visitas domiciliarias derivadas de la verificación de vehículos de procedencia extranjera en circulación, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición para su venta, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
 
 III. Ordenar y practicar el embargo precautorio de mercancías de comercio exterior y sus medios de transporte, en los supuestos que establece la Ley Aduanera, cuando no se acredite su legal importación, tenencia o estancia en el país, así como respecto de los vehículos de origen o procedencia extranjera que no acrediten su legal estancia en el país;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
+
 IV. Iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación, en los términos que establece la legislación aduanera;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
 
 V. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, inclusive respecto de las normas oficiales mexicanas aplicables;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
+
 VI. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización y accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de actos de verificación de su competencia, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
 
 VII. Declarar que las mercancías o vehículos objeto del procedimiento administrativo en materia aduanera que tramite, pasan a propiedad del Fisco Federal;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
+
 VIII. Recabar de las autoridades competentes y de los fedatarios, los informes y datos con que cuenten a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
 
 IX. Notificar al interesado los actos administrativos y las resoluciones dictadas en el ámbito de su competencia, a través de las cuales se determinen los créditos fiscales correspondientes;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
+
 X. Expedir las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las notificaciones, verificaciones, para la realización de embargos precautorios, así como para los demás actos derivados del ejercicio de sus atribuciones;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
+
 XI. Designar a los verificadores y notificadores, así como al demás personal necesario para la práctica de los actos de su competencia;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
 
 XII. Imponer las multas que correspondan en el ámbito de su competencia, relacionadas con el incumplimiento de las obligaciones fiscales y aduaneras;
 
 XIII. Remitir a la Procuraduría Fiscal del Estado, los asuntos en los que proceda formular querellas y declaratoria de perjuicio del fisco derivados de los actos relativos al ejercicio de sus atribuciones;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
+
 XIV. Resolver el levantamiento del embargo precautorio y la entrega de las mercancías, medios de transporte o vehículos embargados precautoriamente, antes de la conclusión del procedimiento aduanero;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
 
 XV. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
+
 XVI. Determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar su clasificación arancelaria y su valor en aduana; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
 
 XVII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
@@ -2205,7 +2229,9 @@ IX. Las demás que las disposiciones legales, reglamentarias y administrativas l
 
 Artículo 68 bis.- La Dirección General de Verificación al Comercio Exterior deberá apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
 
-I. Dirección de Verificación de Mercancías en Transporte;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+I. Dirección de Verificación de Mercancías;
 
 II. Dirección de Visitas Domiciliarias de Comercio Exterior; y
 
@@ -2273,7 +2299,7 @@ XXVIII. Ejercer las demás facultades que resulten necesarias para la ejecución
 
 La Dirección General de Verificación al Comercio Exterior y sus direcciones de área se auxiliarán, en el ejercicio de sus facultades, de verificadores quienes tendrán facultades para requerir y recibir documentación y demás elementos de los particulares; así como identificar, determinar el valor y clasificación arancelaria de mercancías de procedencia extranjera, en términos de las disposiciones aplicables en materia aduanera; además para llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional de mercancías y medios de transporte.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE VISITAS DOMICILIARIAS DE COMERCIO EXTERIOR
 
@@ -2369,13 +2395,15 @@ I. Dirección General de Recursos Humanos;
 
 II. Dirección General de Recursos Materiales y Servicios Generales;
 
-III. Dirección General de Informática y Telecomunicaciones;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+III. Dirección General de Tecnologías de la Información y Telecomunicaciones;
 
 IV. Dirección General Administrativa;
 
-V. Unidad del Servicio Civil de Carrera;
+V. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2007)
 
-VI. Unidad de Medios Electrónicos y Firma Electrónica;
+VI. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2007)
 
 VII. Unidad de Acceso a la Información Pública del Poder Ejecutivo; y
 
@@ -2405,13 +2433,19 @@ VII. Supervisar la realización de las actividades correspondientes a la certifi
 
 La Dirección General de Recursos Humanos deberá apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
 
-I. Dirección de Administración de Recursos Humanos; y (sic)
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+I. Dirección de Administración de Recursos Humanos;
 
 II. Dirección de Desarrollo de Recursos Humanos;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-III. Dirección de Relaciones Laborales y Prestaciones.
+III. Dirección de Relaciones Laborales y Prestaciones; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+IV. Dirección del Servicio Civil de Carrera.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2447,13 +2481,15 @@ VIII. Vigilar el cumplimiento de las disposiciones laborales aplicables a la Adm
 
 IX. Expedir cuando así corresponda, las constancias de retenciones de impuesto sobre la renta por salarios y honorarios asimilados a éstos;
 
-X. Formular y presentar las declaraciones de impuestos y avisos a que esté obligado el Gobierno del Estado en el ámbito de su competencia, en coordinación con las unidades administrativas competentes; y (sic)
+X. Formular y presentar las declaraciones de impuestos y avisos a que esté obligado el Gobierno del Estado en el ámbito de su competencia, en coordinación con las unidades administrativas competentes;
 
-XI. Suscribir, previo acuerdo del subsecretario del ramo, convenios de promoción con personas físicas o morales, que tengan por objeto facilitar la adquisición de bienes o servicios a los servidores públicos de la Administración Pública Estatal, siempre y cuando no impliquen obligaciones de carácter económico para el Estado;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+XI. Suscribir, previo acuerdo del subsecretario del ramo, convenios de promoción con personas físicas o morales, que tengan por objeto facilitar la adquisición de bienes o servicios a los servidores públicos de la Administración Pública Estatal, siempre y cuando no impliquen obligaciones de carácter económico para el Estado; y
 
-XII. Llevar a cabo en coordinación con la Unidad de Servicio Civil de Carrera las acciones necesarias para la profesionalización, ingreso y evaluación de los servidores públicos, sujetos al Servicio Civil de Carrera.
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+XII. Coordinar y supervisar las acciones para el ingreso, profesionalización y evaluación de los servidores públicos sujetos al Servicio Civil de Carrera del Poder Ejecutivo.
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN DE RELACIONES LABORALES Y PRESTACIONES
 
@@ -2478,6 +2514,8 @@ V. Asesorar y atender a las dependencias y entidades de la Administración Públ
 VI. Dar seguimiento a la atención que reciben los servidores públicos de la Administración Pública del Estado de los servicios médicos, riesgos de trabajos y seguridad social; y
 
 VII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyen, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 73.
 
@@ -2509,7 +2547,19 @@ IX. Elaborar para firma del Director General, las constancias de retenciones de 
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ADQUISICIONES Y SUMINISTROS
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DEL SERVICIO CIVIL DE CARRERA
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Artículo 74 ter.- La Dirección del Servicio Civil de Carrera tendrá las siguientes facultades:
+
+I. Planear, organizar y dirigir la operación del Servicio Civil de Carrera en las dependencias de la Administración Pública Estatal;
+
+II. Dar seguimiento a la implantación del Servicio Civil de Carrera del Poder Ejecutivo;
+
+III. Efectuar análisis e investigaciones y formular propuestas para el desarrollo del Servicio Civil de Carrera; y
+
+IV. Las demás que se le atribuyan en el Reglamento del Servicio Civil de Carrera del Poder Ejecutivo del Estado de Guanajuato, así como en otras disposiciones legales y reglamentarias, y aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 ###### Artículo 74.
 
@@ -2535,17 +2585,21 @@ IV. Diseñar para aprobación superior y, en su caso, implementar, programas ten
 
 V. Estandarizar los procesos de profesionalización, ingreso y evaluación al desempeño para los servidores públicos, en coordinación con la Unidad de Servicio Civil de Carrera;
 
-VI. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-VII. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
+VI. Analizar y, en su caso, validar los perfiles y descripciones de puestos de las estructuras organizacionales de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+VII. Registrar, sistematizar y administrar la información necesaria para la definición de los perfiles y descripciones de puestos incluidos en los catálogos respectivos de la Administración Pública Estatal; y
 
 VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del Ramo o su Director General.
 
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL PATRIMONIAL
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ADQUISICIONES Y SUMINISTROS
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SERVICIOS GENERALES
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL PATRIMONIAL
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE RECURSOS MATERIALES Y SERVICIOS GENERALES
 
@@ -2581,7 +2635,7 @@ VI. Establecer y controlar el inventario de los bienes muebles de la administrac
 
 VII. Participar en el Comité de Adquisiciones, Arrendamientos y Contratación de Servicios y en el de Enajenaciones del Gobierno del Estado.
 
-#### SECCIÓN CUARTA. DE LA COORDINACIÓN OPERATIVA
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SERVICIOS GENERALES
 
 ###### Artículo 77.
 
@@ -2605,7 +2659,7 @@ VIII. Integrar el padrón de proveedores del Gobierno del Estado con base en lo 
 
 IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE SISTEMAS, REDES Y TELECOMUNICACIONES
+#### SECCIÓN CUARTA. DE LA COORDINACIÓN OPERATIVA
 
 ###### Artículo 78.
 
@@ -2631,7 +2685,9 @@ IX. Proponer, para aprobación superior, el programa anual de contratación y re
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE APLICACIÓN PRESUPUESTAL
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE REDES Y TELECOMUNICACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 79.
 
@@ -2657,7 +2713,29 @@ IX. Emitir los dictámenes técnicos de los vehículos al servicio del Gobierno 
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RECURSOS HUMANOS
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Artículo 83 bis.- La Dirección de Administración de Tecnologías de la Información tendrá las siguientes facultades:
+
+I. Coordinar las acciones que en materia de tecnologías de la información implemente la Secretaría;
+
+II. Proponer, para aprobación superior, las políticas de seguridad de la información; planes de contingencia, continuidad de las operaciones y recuperación de desastres; procedimientos y prácticas en materia de tecnologías de información y telecomunicaciones;
+
+III. Administrar, conjuntamente con la Dirección de Redes y Telecomunicaciones, los recursos tecnológicos para la optimización de los servicios;
+
+IV. Establecer la metodología de trabajo, políticas y prácticas para los proyectos y servicios de la Dirección General de Tecnologías de la Información y Telecomunicaciones;
+
+V. Supervisar y dar seguimiento a las metas, planes y líneas de acción de la Dirección General de Tecnologías de la Información y Telecomunicaciones;
+
+VI. Establecer mecanismos de participación e integración entre las distintas áreas de tecnologías de la información del Gobierno del Estado, con el objetivo de alinear sus proyectos con la estrategia gubernamental;
+
+VII. Llevar a cabo la investigación de nuevas prácticas, modelos y desarrollos tecnológicos acordes a los objetivos trazados en los planes y programas del Gobierno del Estado; y
+
+VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 80.
 
@@ -2673,17 +2751,29 @@ IV. Diseñar, promover, establecer y dar seguimiento a programas de desarrollo i
 
 V. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL DE INFORMÁTICA Y TELECOMUNICACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL DE TECNOLOGÍAS DE LA INFORMACIÓN Y TELECOMUNICACIONES
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 81.
 
-La Dirección General de Informática y Telecomunicaciones deberá apoyar, coordinar y supervisar el trabajo de la siguiente unidad administrativa:
+La Dirección General de Tecnologías de la Información y Telecomunicaciones deberá apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
 
-I. Dirección de Sistemas, Redes y Telecomunicaciones.
+I. Dirección de Redes y Telecomunicaciones;
+
+II. Dirección de Administración de Tecnologías de la Información;
+
+III. Dirección de Sistemas Estratégicos de Información; y
+
+IV. Unidad de Medios Electrónicos y Firma Electrónica.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 82.
 
-La Dirección General de Informática y Telecomunicaciones, tendrá las siguientes facultades:
+La Dirección General de Tecnologías de la Información y Telecomunicaciones tendrá las siguientes facultades:
 
 I. Proponer, en coordinación con las unidades administrativas competentes, una estrategia gubernamental en materia de tecnología de información alineada con las estrategias planes y programas de Administración Pública Estatal;
 
@@ -2701,29 +2791,87 @@ VII. Proponer al Comité Técnico en Informática del Gobierno del Estado, previ
 
 VIII. Proponer al secretario, por conducto del subsecretario del ramo, la normatividad que deba observarse en la adquisición, renta, contratación y utilización del equipo de cómputo, contratación de servicios de mantenimiento, instalaciones y servicios de tecnología de información de la administración pública estatal;
 
-IX. Emitir opinión sobre las adquisiciones de tecnología de información y enfatizar el ciclo de vida de la administración de tecnología de información como una inversión de capital, alineando la estrategia de tecnología de información a la estrategia gubernamental; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-X. Colaborar y coordinar acciones con el Instituto Nacional de Estadística, Geografía e Informática como institución coordinadora del Programa de Desarrollo lnformático del Poder Ejecutivo Federal, a través del Comité Técnico en Informática del Gobierno del Estado.
+IX. Emitir opinión sobre las adquisiciones de tecnología de información;
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SERVICIOS GENERALES
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+X. Colaborar y coordinar acciones con el Instituto Nacional de Estadística, Geografía e Informática como institución coordinadora del Programa de Desarrollo lnformático del Poder Ejecutivo Federal, a través del Comité Técnico en Informática del Gobierno del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+XI. Administrar el Sistema Integral de la Hacienda Pública en coordinación con las áreas usuarias respectivas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+XII. Realizar las acciones relativas al empleo de la firma electrónica certificada, así como difundir su uso y el de los medios electrónicos en el Estado de Guanajuato, conforme a la normatividad aplicable a la materia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SISTEMAS ESTRATÉGICOS DE INFORMACIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Artículo 83 ter.- La Dirección de Sistemas Estratégicos de Información tendrá las siguientes facultades:
+
+I. Ejecutar los procedimientos de soporte técnico del Sistema Integral de la Hacienda Pública, así como de los sistemas de información que estén a su cargo;
+
+II. Definir normas, políticas y procedimientos, para el funcionamiento de los diferentes módulos del Sistema Integral de la Hacienda Pública;
+
+III. Mantener la integridad de la información de los diferentes usuarios del Sistema Integral de la Hacienda Pública;
+
+IV. Capacitar a los usuarios del Sistema Integral de la Hacienda Pública;
+
+V. Investigar modelos y desarrollos tecnológicos que puedan ser aprovechados en el Sistema Integral de la Hacienda Pública y en las dependencias y entidades de la Administración Pública Estatal;
+
+VI. Gestionar la infraestructura necesaria del Sistema Integral de la Hacienda Pública para su disponibilidad y operación; y
+
+VII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 83.
 
-La Dirección de Sistemas, Redes y Telecomunicaciones, tendrá las siguientes facultades:
+La Dirección de Redes y Telecomunicaciones tendrá las siguientes facultades:
 
 I. Vigilar que los equipos de cómputo y accesorios asignados a las dependencias y entidades de la Administración Pública Estatal, funcionen en óptimas condiciones;
 
 II. Mantener la integridad de la información de los diferentes usuarios;
 
-III. Proponer para aprobación superior, las políticas de seguridad de información, planes de contingencia y recuperación de desastres, procedimientos y prácticas en materia de tecnología de información;
+III. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2007)
 
 IV. Coordinar las funciones de soporte técnico y mantenimiento a equipo de cómputo, sistemas y programas de las dependencias y entidades de la Administración Pública Estatal;
 
-V. Operar, administrar y monitorear la Red Estatal de Informática en los aspectos de transmisión de datos, voz y video;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+V. Operar, administrar y monitorear la Red Estatal de Informática en los aspectos de transmisión de cualquier tipo de información, así como aplicar las normas y procedimientos de seguridad que indiquen las políticas de informática y seguridad estatal;
 
 VI. Desarrollar y proponer para aprobación superior, la adopción de estrategias de mantenimiento, administración y actualización que garanticen el correcto funcionamiento de las redes locales de la Secretaría, la Red Estatal de Información, así como de las aplicaciones y los sistemas que operen sobre dicha infraestructura; y
 
 VII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+#### SECCIÓN CUARTA. UNIDAD DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Artículo 83 quáter.- La Unidad de Medios Electrónicos y Firma Electrónica tendrá las siguientes facultades:
+
+I. Llevar a cabo las actividades correspondientes a la certificación de firma electrónica y su registro, de conformidad con la Ley de la materia y demás disposiciones aplicables;
+
+II. Prestar los servicios relacionados con la firma electrónica certificada, en términos de la Ley de la materia y su normatividad aplicable;
+
+III. Colaborar en el desarrollo de sistemas informáticos para la prestación de los servicios relacionados con la firma electrónica certificada;
+
+IV. Efectuar análisis e investigaciones y formular propuestas para el empleo de la firma electrónica certificada, así como para difundir su uso y el de los medios electrónicos en el Estado de Guanajuato; y
+
+V. Las demás que se le atribuyan en la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, su Reglamento en el Poder Ejecutivo, así como en otras disposiciones legales y reglamentarias, y aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE APLICACIÓN PRESUPUESTAL
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL ADMINISTRATIVA
 
@@ -2780,6 +2928,8 @@ XVII. Coordinar el programa anual de compras de la Secretaría, así como su apl
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 XVIII. Coordinar la integración y actualización de los manuales de organización y de sistemas y procedimientos de trabajo que se requieran para el mejor desempeño de las funciones encomendadas a la Secretaría.
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SERVICIOS GENERALES
 
 ###### Artículo 86.
 
@@ -2853,13 +3003,13 @@ X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así 
 
 ###### Artículo 89.
 
-La Unidad del Servicio Civil de Carrera llevará a cabo las actividades correspondientes al servicio civil de carrera del Poder Ejecutivo, de conformidad con las facultades conferidas y términos previstos en la Ley Orgánica del Poder Ejecutivo y el Reglamento del Servicio Civil de Carrera del Poder Ejecutivo del Estado de Guanajuato.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2007)
 
 ### CAPÍTULO SÉPTIMO. DE LA UNIDAD DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA
 
 ###### Artículo 90.
 
-La Unidad de Medios Electrónicos y Firma Electrónica llevará a cabo las actividades correspondientes a la certificación de firma electrónica y prestación de servicios relacionados, de conformidad con las facultades conferidas y términos previstos en la Ley sobre el uso de medios electrónicos y firma electrónica para el Estado de Guanajuato y sus Municipios, su Reglamento en el Poder Ejecutivo, así como en las demás disposiciones aplicables.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2007)
 
 ### CAPÍTULO OCTAVO. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER EJECUTIVO
 
@@ -3006,3 +3156,7 @@ P.O. 19 DE JUNIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
