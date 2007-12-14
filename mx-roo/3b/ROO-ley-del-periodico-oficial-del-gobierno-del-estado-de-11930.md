@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-periodico-oficial-del-gobierno-del-estado-de-11930"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-31"
-last_updated: "1995-01-31"
+last_updated: "2007-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DEL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL PERIODICO OFICIAL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 31 de enero de 1995.
 
@@ -178,3 +180,23 @@ ING. MARIO ERNESTO VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. RAUL OMAR SANTANA BASTARRACHEA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE DICIEMBRE DE 2007.
+
+Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+Segundo.- Se abroga la Ley del Periódico Oficial del Gobierno del Estado, publicada en el Periódico Oficial del Gobierno del Estado, el día 31 de Enero de 1995.
+
+Tercero.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a las previstas en la presente ley.
+
+Cuarto.- Las Leyes, Reglamentos, Decretos, Acuerdos, Normas, Lineamientos o Criterios de carácter general, Estatal o Municipal, así como cualquier otra disposición, que hagan mención al Periódico Oficial del Gobierno del Estado de Quintana Roo, se entenderán éstas como referidas al Periódico Oficial del Estado de Quintana Roo.
+
+Quinto.- Se concede un plazo de 30 días naturales contados a partir de la entrada en vigor de la presente ley, para la expedición de los manuales administrativos de organización y de procedimientos de la Dirección.
+
+Sexto.- Los ordenamientos, acuerdos y disposiciones a que se refiere el artículo cuarto transitorio pendientes de publicar, se sujetarán en los términos y condiciones de la presente ley.
+
+ARTICULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
