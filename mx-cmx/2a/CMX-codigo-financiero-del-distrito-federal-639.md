@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2007-09-26"
+last_updated: "2007-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2007.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -6368,45 +6368,37 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
 ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 265.
 
 Por los servicios de recolección y recepción de residuos sólidos que generen los establecimientos mercantiles, empresas, fábricas, tianguis y mercados sobre ruedas, mercados públicos, centros de abasto, grandes concentraciones comerciales, industrias y similares, así como las dependencias y entidades federales, generadoras de residuos sólidos en alto volumen que presta el Gobierno del Distrito Federal se pagarán los derechos correspondientes conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
+I. Por el servicio de recolección a partir de los 50 kgs. por cada kilogramo o fracción $2.50
 
-I. Por servicio de recolección a partir de los 50 Kg., por cada kilogramo o fracción $1.88
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
-
-II. Por el servicio de recepción en estaciones de transferencia y centros de composteo por cada 100 kilogramos o fracción $14.26
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
+II. Por el servicio de recepción en estaciones de transferencia y centros de composteo por cada 100 kilogramos fracción $50.20
 
 III. Por el servicio de recepción de residuos de la construcción en estaciones de transferencia, por cada 100 kilogramos o fracción $87.35
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
-
-IV. Por el servicio de recepción de residuos sólidos en sitios de disposición final, por cada 100 kilogramos o fracción $13.47
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
+IV. Por el servicio de recepción de residuos sólidos en sitios de disposición final, por cada 100 kilogramos o fracción $25.00
 
 V. Por el servicio de recepción de residuos sólidos no peligrosos de manejo especial en sitios de disposición final por cada 100 kilogramos o fracción $158.10
 
-Para los efectos de estos derechos se considerarán residuos de manejo especial aquellos establecidos en la legislación aplicable.
+Para los efectos de estos derechos se considerarán los residuos de manejo especial aquellos establecidos en la legislación aplicable.
 
 El servicio de recepción de residuos sólidos no peligrosos se prestará siempre que no se encuentren mezclados con residuos peligrosos.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos, debiendo enterarse por periodos quincenales dentro de los primeros cinco días correspondientes a cada periodo por el que deba efectuarse el pago ante las oficinas autorizadas por la autoridad fiscal, salvo los casos que autorice la Secretaría.
 
-El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos.
+En el caso en que el monto de los derechos causados resulte superior al efectuado conforme a las estimaciones realizadas por el contribuyente, se pagarán las diferencias con los recargos que correspondan conforme al artículo 64 de este Código, dentro de los primeros cinco días siguientes al mes de causación del derecho.
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
+
+La Secretaría de Finanzas celebrará convenios con los Órganos Político-Administrativos a efecto de que una vez determinado el monto mensual recaudado por concepto de los derechos que se detallan en este artículo, participe con el 50% del recurso recaudado a las Delegaciones, mismas que lo destinarán a la adquisición de insumos utilizados en la prestación del servicio de limpia.
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -17353,3 +17345,9 @@ G.O. 26 DE SEPTIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observación y aplicación.
+
+G.O. 14 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y entre en vigor el 1 de enero de 2008.
+
+SEGUNDO.- Dentro de los noventa días siguientes a la publicación de este Decreto, la Secretaría de Finanzas instrumentará los convenios fiscales con los Órganos Político-Administrativos a efecto de hacer viable la participación de estos en la recaudación de los derechos por los servicios de recolección y recepción de residuos sólidos, materia de este Decreto.
