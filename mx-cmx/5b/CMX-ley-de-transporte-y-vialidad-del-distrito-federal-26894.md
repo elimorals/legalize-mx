@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2007-09-13"
+last_updated: "2007-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -68,6 +68,14 @@ Base de Servicio: Son los espacios físicos permisionados a los prestadores del 
 
 Bloqueo: Es el cierre indefinido de las vialidades.
 
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Bolardos: Material anclado al suelo y destinado para delimitar el carril confinado.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Carril Confinado: Se refiere al carril de la superficie de rodamiento para la circulación de un tipo de transporte automotor, específicamente de transporte público de pasajeros, sobre un sentido de la vía, con dispositivos de delimitación en el perímetro del carril que no permiten que se introduzcan otro tipo de vehículos.
+
 Centro de Transferencia Modal: Espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve como conexión de los usuarios entre dos o más rutas o modos de transporte.
 
 Cierre de Circuito: Son los espacios físicos permitidos en los que, sin realizar base, se efectúa el despacho de las unidades destinadas al servicio público de transporte de pasajeros y de carga, para iniciar o terminar su itinerario, incluyen maniobras de ascenso y descenso y en el que se controla el intervalo de salidas entre una y otra unidad.
@@ -85,6 +93,10 @@ Consejería Jurídica: La Consejería Jurídica y de Servicios Legales del Gobie
 Corredor Vial: Es la vialidad que tiene continuidad, longitud, y ancho suficientes para concentrar el tránsito de vehículos y personas, y que comunica diferentes zonas dentro del entorno urbano.
 
 Corredor Vial Metropolitano: Corredor vial que rebasa los límites del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Corredores de Transporte: Sistema de transporte público de pasajeros, masivo y/o colectivo, con operación regulada, controlada y con un recaudo centralizado, que opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados, que cuenta con paradas predeterminadas y con una infraestructura para el ascenso y descenso de pasajeros, estaciones ubicadas a lo largo del recorrido, con terminales en su origen y destino, con una organización para la prestación del servicio como personas morales.
 
 Delegación: Los Órganos Político-Administrativos en cada demarcación territorial del Distrito Federal, con autonomía funcional para realizar acciones de gobierno.
 
@@ -115,6 +127,10 @@ Licencia: Es el documento expedido por la Secretaría, que autoriza a personas m
 Manifestación: Concentración humana generalmente al aire libre, incluyéndose en esta la marcha y plantón.
 
 Marcha: Cualquier desplazamiento organizado, de un conjunto de individuos por la vialidad hacia un lugar determinado.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Metrobus: Organismo Público Descentralizado de la Administración Pública del Distrito Federal, sectorizado a la Secretaría, que cuenta con personalidad jurídica y patrimonio propios además de autonomía técnica y administrativa, su objeto es la planeación, administración y control del Sistema de Corredores de Trasporte Público de Pasajeros del Distrito Federal.
 
 Nomenclatura: Conjunto de elementos y objetos visuales que se colocan en la vialidad para indicar los nombres de las colonias, pueblos, barrios, vías y espacios públicos de la Ciudad, con el propósito de su identificación por parte de las personas.
 
@@ -306,7 +322,11 @@ XLVI.- Promover e impulsar en las escuelas particulares, el transporte escolar y
 
 XLVII.- Llevar a cabo todos los estudios técnicos necesarios para otorgar los permisos y prórroga de rutas, bases, lanzaderas y sitios de transporte;
 
-XLVIII.- Aquellas que con el carácter de delegables, le otorgue el Jefe de Gobierno y las demás que le confieran la Ley Orgánica de la Administración Pública del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables.
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
+XLVIII.- Otorgar las concesiones necesarias para la prestación de servicio de transporte de pasajeros en los Corredores del Sistema de Transporte Público de Pasajeros del Distrito Federal; autorizar el uso de los carriles confinados, así como diseñar y regular los mecanismos y elementos de confinamiento;
+
+XLIX.- Aquellas que con el carácter de delegables, le otorgue el Jefe de Gobierno y las demás que le confieran la Ley Orgánica de la Administración Pública del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 8.
 
@@ -502,7 +522,11 @@ II.- El Servicio de Transportes Eléctricos del Distrito Federal, organismo púb
 
 III.- La Red de Transporte de Pasajeros del Distrito Federal, organismo público descentralizado con personalidad jurídica y patrimonio propios, que en su planeación, crecimiento y desarrollo se ajustará a su instrumento de creación, el cual forma parte del Programa Integral de Transporte y Vialidad del Distrito Federal y a las demás disposiciones jurídicas y administración aplicables;
 
-IV.- Los diferentes sistemas de transporte público establecidos o que establezca el Gobierno del Distrito Federal, para satisfacer necesidades de la población.
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
+IV.- El Sistema de Corredores de Transporte Público de Pasajeros del Distrito Federal, Metrobus, Organismo Público Descentralizado de la Administración Pública del Distrito Federal, sectorizado a la Secretaría que cuenta con personalidad jurídica y patrimonio propios además de autonomía técnica y administrativa que en su planeación, crecimiento y desarrollo se ajustará a su instrumento de creación, el cual forma parte del Programa Integral de Transporte y Vialidad del Distrito Federal y a las demás disposiciones jurídicas y administrativas aplicables;
+
+V.- Los diferentes sistemas de transporte público establecidos o que establezca el Gobierno del Distrito Federal, para satisfacer necesidades de la población.
 
 ###### Artículo 21.
 
@@ -536,9 +560,11 @@ Los vehículos que transporten productos perecederos estarán exentos de esta di
 
 ### CAPÍTULO II. DE LAS CONCESIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 24.
 
-En ejercicio de las facultades conferidas en esta Ley, la Secretaría otorgará con cesiones para la prestación de los servicios públicos de transporte de pasajeros y de carga, así como permisos correspondientes para sitios, lanzaderas y bases de servicio de transporte público.
+En ejercicio de las facultades conferidas en esta Ley, la Secretaría otorgará concesiones para la prestación de los servicios públicos de transporte de pasajeros incluyendo los que se brinden en los Corredores del Sistema de Transporte Público de Pasajeros del Distrito Federal y de carga, así como permisos correspondientes para sitios, lanzaderas y bases de servicio de transporte público.
 
 Para efectos de esta Ley y sus ordenamientos reglamentarios, constituye servicio público de transporte de carga, exclusivamente, el que realizan las personas físicas o morales en los sitios, lanzaderas y bases de servicio, al amparo de la concesión, y demás documentos expedidos por las autoridades competentes.
 
@@ -606,9 +632,17 @@ VII.- Presentar el programa general de capacitación que se aplicará anualmente
 
 VIII.- Cumplir con los requisitos exigidos en otras leyes, en la Declaratoria de necesidades y en las bases de licitación, en su caso;
 
-IX.- Presentar el programa anual de mantenimiento de la unidad o parque vehicular objeto del transporte; y
+IX.- Presentar el programa anual de mantenimiento de la unidad o parque vehicular objeto del transporte; y (sic)
 
-X.- Presentar el programa para la sustitución o cambio de la unidad o parque vehicular.
+X.- Presentar el programa para la sustitución o cambio de la unidad o parque vehicular;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
+XI.- Presentar declaración y programa sobre la adquisición de la tecnología requerida que le permita participar de las concesiones;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
+XII.- Para las concesiones del servicio de transporte de pasajeros en el Sistema de Corredores de Transporte Público de Pasajeros del Distrito Federal, se deben ajustar a los requerimientos que para tal efecto se señalen en el reglamento respectivo y los Acuerdos Administrativos que se emitan por parte de la Secretaría y/o a través del titular de la Dirección General de Metrobus.
 
 ###### Artículo 30.
 
@@ -2109,3 +2143,11 @@ Primero.- El presente Decreto entrará en vigor a los 30 días siguientes al de 
 Segundo.- El Órgano Ejecutivo local contará con 60 días a partir de la publicación en la Gaceta Oficial para realizar las modificaciones y adecuaciones a los procedimientos correspondientes.
 
 Tercero.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 14 DE DICIEMBRE DE 2007.
+
+PRIMERO.- La presente reforma entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito
+
+Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación par su mayor difusión.
