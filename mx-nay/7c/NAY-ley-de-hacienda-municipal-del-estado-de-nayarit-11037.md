@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "2007-07-04"
+last_updated: "2007-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -47,47 +47,65 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
 La Hacienda Pública de los Municipios del Estado, para cumplir con los gastos y demás obligaciones de su organización, administración y prestación de servicios públicos, percibirán en cada ejercicio fiscal los ingresos que establezcan las leyes Fiscales aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 2o.
 
-Son Leyes Fiscales del Municipio:
+Son leyes fiscales del municipio:
 
-I. La presente Ley de Hacienda
+I. La presente Ley de Hacienda;
 
-II. Las Leyes de Ingresos y Presupuesto de Egresos Municipales
+II. Las leyes de Ingresos.
 
-III. Las que autoricen ingresos extraordinarios
+III. Las que autoricen ingresos extraordinarios;
 
 IV. Las que organicen los servicios administrativos necesarios para la recaudación, distribución y control de los ingresos y egresos.
 
-V.- Los convenios que se celebren en materia fiscal con la Federación, el estado, o con ambos.
+V. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 3o.
 
 La presente Ley establece las características generales que tendrán los ingresos del Municipio, tales como objeto, sujeto y sus obligaciones, base y exenciones.
 
-###### ARTICULO 4o.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
-Las Leyes de Ingresos Municipales establecerán anualmente los impuestos, derechos, productos, aprovechamientos y participaciones que deban recaudarse así como las tasas, cuotas o tarifas correspondientes.
+###### ARTICULO 4.
 
-Sólo por Ley expresa podrá dedicarse el rendimiento de un impuesto o participación a un fin especial.
+Las leyes de ingresos municipales establecerán anualmente las tasas, cuotas o tarifas aplicables a los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos y que deban recaudarse. Asimismo, incorporarán los montos estimados que por concepto de participaciones y aprovechamientos, vayan a recibir los ayuntamientos del estado y la federación.
 
-###### ARTICULO 5o.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
-Para los efectos de esta Ley se tendrá como:
+###### ARTICULO 5.
 
-I. Impuestos, las contribuciones establecidas en Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica a de hecho previstas por la misma.
+Par (sic) efectos de esta ley se atenderán las siguientes clasificaciones y definiciones:
 
-II. Derechos, las contraprestaciones establecidas por el poder público, conforme a la ley, en pago de un servicio.
+A. Las contribuciones municipales se clasifican en impuestos, contribuciones de mejoras y derechos, las que se definen de la siguiente manera:
 
-III. Productos, los ingresos que percibe el Municipio por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de sus bienes patrimoniales.
+I. Impuestos son las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo.
 
-IV. Participaciones, las cantidades que corresponden al Municipio en el rendimiento de la recaudación de determinados impuestos y aprovechamientos federales y estatales de conformidad con las leyes respectivas y de los convenios que se celebren sobre el particular.
+II. Contribuciones de mejoras son las establecidas en ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
-V. Aprovechamientos, los recargos, les multas y los demás ingresos de derecho público no público como impuestos, derechos, productos a participaciones federales.
+III. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público municipal, así como por recibir servicios que presta el municipio en sus funciones de derecho público. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del municipio.
+
+Los recargos, las sanciones, los gastos de ejecución y en su caso las indemnizaciones son accesorios de las contribuciones y participan de la naturaleza de éstas.
+
+B. Se entiende por aprovechamientos los ingresos que percibe el municipio por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación municipal.
+
+Los recargos, las sanciones, los gastos de ejecución y la indemnización que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+
+C. Son productos las contraprestaciones por los servicios que preste el municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
+
+D. Son créditos fiscales los que tenga derecho a percibir el municipio o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el municipio tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el municipio tenga derecho a percibir por cuenta ajena.
 
 ###### ARTICULO 6o.
 
 La administración y recaudación de los ingresos municipales señalados en el artículo anterior serán de la competencia de la Tesorería Municipal que podrá ser auxiliada en la administración y recaudación por otras dependencias oficiales, conforme a las disposiciones de las leyes fiscales vigentes.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 7.
+
+Las declaraciones o avisos que haya obligación de presentar conforme a las disposiciones fiscales se harán en las formas aprobadas por la tesorería municipal. Para hacer efectivo el cobro de las contribuciones municipales, las tesorerías podrán ejercer la facultad económica-coactiva rigiéndose para el efecto por las disposiciones que establece la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ###### ARTICULO 7o.
 
@@ -109,9 +127,11 @@ El impuesto sobre la Adquisición de Bienes Inmuebles se causa con la tasa del 8
 
 La interpretación que haga la legislatura o la Diputación permanente, en caso de duda, será obligatoria en el orden administrativo, para todos los Municipios del Estado, a los que deberán hacerla conocer en los términos que proceda.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 11.
 
-Contra las resoluciones dictadas en materia fiscal por las Autoridades Municipales solo precederá la interposición de los medios de impugnación que establece el Código Fiscal del Estado.
+Contra las resoluciones dictadas en materia fiscal por las autoridades municipales sólo procederá la interposición de los medios de impugnación que establece la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ###### ARTICULO 12.
 
@@ -129,9 +149,11 @@ II. El Presidente Municipal
 
 El Tesorero Municipal
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 14.
 
-La determinación, liquidación, recaudación y cobro de los ingresos municipales, estarán a cargo de los Ayuntamientos, quienes los efectuarán por conducto de sus respectivas tesorerías, bajo la vigilancia de los presidentes Municipales con sujeción a la Constitución Política del Estado, a las disposiciones de esta ley, las Leyes de Ingresos Municipales, el Código para la administración Municipal y el Código Fiscal del Estado.
+La determinación, liquidación, recaudación y cobro de los ingresos municipales, estarán a cargo de los ayuntamientos, quienes los efectuarán por conducto de sus respectivas tesorerías, bajo la vigilancia de los presidentes municipales con sujeción a la Constitución Política del Estado, a las disposiciones de esta ley, las leyes de Ingresos Municipales, la Ley Municipal del Estado y la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -139,39 +161,35 @@ La determinación, liquidación, recaudación y cobro de los ingresos municipale
 
 #### SECCION PRIMERA. DEL OBJETO DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 15.
 
-Es objeto de este Impuesto:
+Es objeto de este impuesto:
 
-> <small>(REFORMADA, P. O. 26 DE DICIEMBRE DE 1992)</small>
+I. La propiedad de predios urbanos, suburbanos y rústicos;
 
-I. La propiedad de Predios Urbanos, Suburbanos y Rústicos;
+II. La propiedad en condominio y la copropiedad;
 
-II. La propiedad en condominio
+III. La propiedad ejidal en los términos de la legislación agraria federal;
 
-III. La propiedad Ejidal en los términos de la Legislación Agraria Federal.
+IV. Cuando se derive del usufructo;
 
-IV. Cuando se derive del usufructo
+V. La propiedad de predios donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, en los términos de la legislación federal sobre la Materia;
 
-V. La propiedad de predios donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, en los términos de la Legislación Federal sobre la Materia.
+VI. La posesión de predios urbanos y rústicos, en los siguientes casos:
 
-VI. La posesión de predios urbanos y rústicos en los siguientes casos:
+a) Cuando no exista propietario;
 
-a) Cuando no exista el propietario.
+b) Cuando se derive de cualquier tipo de contrato, certificado o título;
 
-b) Cuando se derive de contratos de promesa de venta, de venta con reserva de dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda, de simple uso o cualquier otro similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
+c) Cuando por causas ajenas a la voluntad de los propietarios, éstos no se encuentren en posesión de los inmuebles;
 
-c) Cuando por causas ajenas a la voluntad de los propietarios, éstos no se encuentren en posesión de los inmuebles.
+d) Cuando sean propiedad de la Federación, del Estado o alguno de sus municipios, y se den en explotación por cualquier título, a personas distintas de las antes citadas;
 
-d) Cuando siendo propiedad del Estado o de sus Municipios, de la Federación o de las Entidades Federativas, se den en explotación por cualquier título a personas distintas de las antes citadas.
+e) Las construcciones ubicadas en fundos legales y en zonas de urbanización de los ejidos; y,
 
-VII. Las construcciones ubicadas en fundos legales y en zonas de urbanización en los Ejidos.
-
-> <small>(ADICIONADA, P. O. 26 DE DICIEMBRE DE 1992)</small>
-
-VIII. La pequeña propiedad.
+f) La pequeña propiedad.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
@@ -181,45 +199,39 @@ No es objeto del impuesto predial la propiedad o posesión de predios que corres
 
 #### SECCION SEGUNDA. DE LOS SUJETOS DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 17.
 
 Son sujetos de este impuesto:
 
-> <small>(REFORMADA, P. O. 26 DE DICIEMBRE DE 1992)</small>
+I. Los propietarios de predios urbanos y rústicos, los ejidatarios, los pequeños propietarios y los propietarios de plantas de beneficio y establecimientos metalúrgicos;
 
-I. Los propietarios de Predios Urbanos, Suburbanos y Rústicos, los Ejidatarios, los Pequeños Propietarios y los propietarios de plantas de beneficio y establecimientos metalúrgicos;
+II. Los poseedores de predios urbanos y rústicos en el caso de la fracción VI del artículo 15;
 
-II. Los poseedores de predios urbanos y rústicos en el caso de la fracción VI del artículo 15.
+III. Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio; aun cuando todavía no se les trasmita la propiedad en cumplimiento del fideicomiso y los usufructuarios;
 
-III. Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les trasmita la propiedad en cumplimiento del fideicomiso y los usufructuarios.
+IV. Los usufructuarios;
 
-IV. Los poseedores o propietarios de construcciones ubicadas en fundos legales y en zonas de urbanización de los Ejidos.
+V. Los poseedores o propietarios de construcciones ubicadas en fundas legales y en zonas de urbanización de los ejidos;
 
-> <small>(REFORMADA, P. O. 26 DE DICIEMBRE DE 1992)</small>
+VI. El titular de los derechos agrarios sobre la propiedad ejidal o comunal de conformidad con la ley agraria;
 
-V. El titular de los derechos agrarios sobre la propiedad ejidal o comunal de conformidad con la Ley Agraria;
+VII. Los responsables solidarios, en los siguientes casos:
 
-VI. Con responsabilidad solidaria objetiva, los adquirentes por cualquier título de predios urbanos y rústicos.
+a) Los propietarios de predios que bajo cualquier tipo de contrato, título o certificado, hubieren transmitido su posesión;
 
-VII. Con responsabilidad solidaria:
+b) Los Notarios Públicos y funcionarios municipales que autoricen indebidamente algún trámite, mediante el cual se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes objeto de este impuesto, sin que esté al corriente en el pago del mismo;
 
-a) Los propietarios de predios que hubiesen prometido en venta o hubieren vendido con reserva de dominio, en el caso a que se refiere el inciso b) de la fracción VI del artículo 15.
+c) Las instituciones fiduciarias;
 
-b) Los funcionarios, empleados y fedatarios públicos que autoricen indebidamente o sancionen algún trámite, mediante el cual se adquiera, transmita, modifique o extinga el dominio la posesión de bienes objeto de este impuesto sin que esté al corriente en el pago del mismo.
+d) Los copropietarios y los condóminos;
 
-c) Las instituciones fiduciarias en los casos de la fracción III de este artículo.
+e) El nudo propietario;
 
-d) Los copropietarios, coposeedores, los propietarios o poseedores respecto de los créditos fiscales derivados del bien o derecho común o individual y hasta por un monto del valor de avalúo de dichos bienes o derechos de las prestaciones fiscales que en cualquier tiempo se hubieren causado.
+f) El representante legal de asociaciones, sociedades y comunidades respecto de los predios que por cualquier título posean;
 
-e) El nudo propietario cuando se trate de un bien dado en usufructo.
-
-f) El representante legal de asociaciones, sociedades y comunidades, respecto de los predios que por cualquier título posean.
-
-g) (DEROGADO, P. O. 26 DE DICIEMBRE DE 1992)
-
-VIII. El comisariado ejidal, con responsabilidad solidaria por el núcleo de población.
+g) El Comisariado Ejidal.
 
 #### SECCION TERCERA. DE LA BASE DEL IMPUESTO
 
@@ -243,11 +255,13 @@ IV. (DEROGADA, P. O. 26 DE DICIEMBRE DE 1992)
 
 En el caso de la Fracción II del Artículo anterior la autoridad competente determinará el valor equivalente, tomando en consideración los documentos de propiedad o posesión que, durante los meses de enero y febrero deberán presentar ante la autoridad competente, los sujetos afectos a este gravamen. El valor así determinado surtirá efecto de valor catastral.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 20.
 
-Tratándose de terrenos destinados a cementerios el impuesto se causará sobre la superficie que no hubiese sido entregada para dedicarse a sepulturas. A este efecto durante el mes de Enero de cada año, los sujetos del impuesto manifestarán a la Tesorería Municipal, las superficies que hubieren entregado para sepulturas en el año anterior, con objeto de que ésta dependencia determine la cuota del impuesto que habrá de pagarse en el año en que se haga la declaración y efectúe los ajustes que procedan respecto de lo pagado de más en el año anterior.
+Tratándose de terrenos destinados a cementerios privados, el impuesto se causará sobre la superficie que no hubiese sido entregada para dedicarse a sepulturas. A este efecto durante el mes de enero de cada año, los sujetos del impuesto manifestarán a la tesorería municipal, las superficies que hubieren entregado para sepulturas en año anterior, con objeto de que esta dependencia determine la cuota del impuesto que habrá de pagarse en el año en que se haga la declaración y efectúe los ajustes que procedan respecto de lo pagado de más en el año anterior.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 En los casos de construcciones destinadas especialmente a cementerios con el sistema de gaveta superpuesta el impuesto predial se causará de acuerdo con las siguientes bases:
 
@@ -461,17 +475,11 @@ Están obligadas al pago del Impuesto sobre adquisición de Inmuebles establecid
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
-> <small>(REFORMADO, P. O. 29 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 41.
 
-No se pagará este Impuesto en las adquisiciones de inmuebles que realicen la Federación, el Estado de Nayarit y los Municipios, para formar parte del dominio público y, los partidos Políticos, siempre y cuando dichos inmuebles sean para su propio uso.
-
-II(sic).- (DEROGADA, P.O. 9 DE JULIO DE 1994)
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-III.- Tampoco se pagará el Impuesto establecido en este Capítulo en las Adquisiciones de Inmuebles que hagan los Arrendatarios Financieros al ejercer la opción de compra en términos del Contrato de Arrendamiento Financiero.
+No se pagará este impuesto en las adquisiciones de bienes de dominio público de la Federación, de los Estados o Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 ###### ARTICULO 42.
 
@@ -503,17 +511,15 @@ XI. El arrendamiento financiero, en los términos del Código Fiscal de la Feder
 
 En las permutas se considerarán que se efectúan dos adquisiciones.
 
-(REFORMADO, P.O. 4 DE JULIO DE 2007) (F. DE E., P.O. 14 DE JULIO DE 2007)
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 43.
 
-El valor del inmueble que se considerará para los efectos del artículo 40 será el que resulte más alto entre el valor de operación o precio pactado, el de avalúo comercial o el de avalúo que formule la misma autoridad catastral.
+El valor del inmueble que se considerará para los efectos del artículo 40 será el que resulte más alto entre el valor de operación o precio pactado, o el avalúo comercial; o el avalúo que formula la autoridad catastral.
 
-Los avalúos comerciales que se practiquen para efectos del cálculo de este impuesto deberán llevarse a cabo por instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales, por corredor público o personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública registradas ante el Ayuntamiento y tendrán vigencia durante tres meses, contados a partir de la fecha en que se efectúen. En todo caso, los avalúos serán validados por la autoridad catastral competente.
+Los avalúos comerciales que se practiquen para efectos del cálculo de este impuesto deberán llevarse a cabo por instituciones de crédito, el Instituto de Administración de Bienes Nacionales, por Corredor Público o personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública registrados ante el Ayuntamiento y tendrán vigencia durante seis meses contados a partir de la fecha en que se efectúen.
 
-En el caso de adquisición de inmuebles por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, o constitución, adquisición o extinción del usufructo o de la nuda propiedad; la base gravable determinada de conformidad a lo dispuesto por el primer párrafo de este artículo se reducirá en un 50%.
-
-Tratándose de viviendas de interés social o popular, la base para el cálculo del impuesto se determinará de conformidad a lo dispuesto por esta ley y lo que en particular dispongan las leyes de ingresos municipales. Se considera vivienda de interés social y popular, aquella cuyo valor de compraventa no exceda de la cantidad que resulte de multiplicar por diecisiete el salario mínimo general anual vigente en el estado en la fecha de la operación y que sea adquirida por personas físicas que acrediten no ser propietarias de otra vivienda en el Estado.
+En caso de adquisición de inmuebles por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, o constitución, adquisición o extinción del usufructo o de la nuda propiedad; la base gravable determinada de conformidad a lo dispuesto por el primer párrafo de este artículo se reducirá en un 50%
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -593,9 +599,11 @@ En los testimonios que los Notarios públicos expidan de escrituras relativas a 
 
 El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento traslativo de dominio de bienes inmuebles mientras no le sea exhibido el comprobante del pago del impuesto que establece éste capítulo.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 52.
 
-Tratándose de las contribuciones a la propiedad Inmobiliaria, el Ayuntamiento, previo acuerdo del Cabildo queda facultado para celebrar convenios con el Gobierno del Estado, por cuanto al cobro, administración control, vigilancia, ejecución y aplicación de sanciones a que se refiere, sujetándose al procedimiento establecido en esta ley y el Código Fiscal del Estado.
+Tratándose de las contribuciones a la propiedad inmobiliaria, el ayuntamiento, previo acuerdo de sus integrantes, queda facultad o para celebrar convenios con el gobierno del Estado, por cuanto el cobro, administración, control, vigilancia, ejecución y aplicación de sanciones; debiéndose sujetar a las disposiciones legales aplicables al efecto.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2005)</small>
 
@@ -605,13 +613,17 @@ Los recursos recaudados por este concepto deberán destinarse a la fiscalizació
 
 ### CAPITULO TERCERO. ADICIONALES
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 53.
 
-Es objeto de los adicionales el pago de impuestos, derechos y productos que establezcan las leyes de Ingresos Municipales.
+Es objeto de impuestos adicionales el pago de impuestos y derechos que establezcan las leyes de ingresos municipales.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 54.
 
-La base de los impuestos adicionales será el monto de lo que se pague por concepto de impuestos, derechos y productos.
+La base de los impuestos adicionales será el monto de la que se pague por concepto de impuestos y derechos.
 
 ###### ARTICULO 55.
 
@@ -625,7 +637,7 @@ Los impuestos adicionales se causarán y harán efectivos en el momento en que s
 
 ###### ARTICULO 57.
 
-Este impuesto se causará y pagará conforme a la tasa que señalan las Leyes de Ingresos Municipales.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2007)
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
@@ -655,7 +667,7 @@ Los derechos se pagarán de conformidad con las tasas y cuotas que establezcan l
 
 ###### ARTICULO 62.
 
-Quedan comprendidos como productos, los ingresos que obtiene el Municipio por actividades que no corresponden al desarrollo de una función propia del Derecho público, así como por la explotación o aprovechamiento de los bienes que constituyen su patrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 63.
 
@@ -693,6 +705,8 @@ Son participaciones las cantidades sobre determinados impuestos u otros ingresos
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 66.
 
 Se consideran ingresos extraordinarios:
@@ -709,7 +723,7 @@ DE LAS INFRACCIONES Y SANCIONES.
 
 ###### ARTICULO 67.
 
-Para la aplicación de las sanciones administrativas que procedan por infracciones a las leyes Fiscales Municipales, se atenderá a lo dispuesto para el efecto por el Código Fiscal del Estado.
+Para la aplicación de las sanciones administrativas que procedan por infracciones a las leyes fiscales municipales, se entenderá a lo dispuesto para el efecto (sic) por la Ley Municipal del Estado y la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ## TRANSITORIOS
 
@@ -818,6 +832,12 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Los entes públicos comenzarán a realizar las retenciones correspondientes al derecho por Servicios de Vigilancia, Inspección y Control de la obra pública a cada una de las estimaciones que se paguen a partir de que hayan transcurrido quince días contados a partir de la entrada en vigor del presente decreto.
 
 P.O. 4 DE JULIO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 15 DE DICIEMBRE DE 2007.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
