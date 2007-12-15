@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-la-administracion-publica-paraestatal-nayarit-6814"
 country: "mx"
 rank: "ley"
 publication_date: "1985-04-13"
-last_updated: "1985-04-13"
+last_updated: "2007-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 13 de abril de 1985.
 
@@ -39,25 +39,31 @@ D E C R E T A :
 
 LEY DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley regulará los Organismos Descentralizados, Empresas Públicas que constituya el Gobierno del Estado y los Fideicomisos que considere necesario crear para un fin específico.
+La presente Ley regulará los Organismos Descentralizados, Empresas Públicas que constituya el Gobierno del Estado y los Fideicomisos Públicos Paraestatales que considere necesario crear para un fin específico.
 
 ###### ARTICULO 2o.
 
 Dentro de la Administración Pública Paraestatal; serán considerados como Organismos Descentralizados las Instituciones creadas por disposición de la H. Legislatura del Estado, o en su caso por el Ejecutivo del Estado, tendrán personalidad jurídica y patrimonio propios cualquiera que sea la forma o estructura legal que adopten.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 3o.
 
-Son Organismos Descentralizados, Empresas Públicas y Fideicomisos los que reúnan los siguientes requisitos:
+Son Organismos Descentralizados, Empresas Públicas y Fideicomisos Públicos Paraestatales los que reúnan los siguientes, requisitos:
 
 I.- Que su patrimonio se integre total o parcialmente con fondos o bienes del Gobierno del Estado.
 
 II.- Que su objeto o finalidad persigan una utilidad preponderantemente pública y social.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 4o.
 
-El Ejecutivo del Estado tendrá facultades para designar Contralor, Comisario o Supervisor; el cual vigilará las operaciones de los Organismos de las Empresas Públicas o Fideicomisos, realizando auditorías, inspecciones técnicas o supervisiones, para garantizar su adecuado funcionamiento.
+El Ejecutivo del Estado tendrá facultades para designar Contralor, Comisario o Supervisor; el cual vigilará las operaciones de los Organismos de las Empresas Públicas o Fideicomisos Públicos Paraestatales, realizando auditorias, inspecciones técnicas o supervisiones, para garantizar su adecuado funcionamiento.
 
 ###### ARTICULO 5o.
 
@@ -95,9 +101,13 @@ Siempre la vigilancia de la participación estatal estará a cargo de un Comisar
 
 Las relaciones de las empresas de participación estatal minoritaria con la Administración Centralizada del Gobierno del Estado, seguirá las normas generales que se han dictado en lo general para las empresas públicas estatales mayoritarias, en lo que sean aplicables, o las que determine esta Ley.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 13.
 
-Los Fideicomisos a que se refiere esta Ley, serán los que establezca el Gobierno del Estado, siendo en todo los casos el Fideicomitente único la Secretaría de Finanzas del Gobierno del Estado. El Fideicomitente deberá recabar previamente la opinión por escrito de la Secretaría encargada de la coordinación del sector correspondiente para la integración de los Comités Técnicos. En todos los casos un representante del fideicomitente, cuando menos, formará parte del Comité Técnico.
+Los Fideicomisos Públicos Paraestatales a que se refiere esta Ley, serán los que establezca el Gobierno del Estado, siendo en todos los casos el Fideicomitente único la Secretaría de Finanzas del Gobierno del Estado. El Fideicomitente deberá recabar previamente la opinión por escrito de la Secretaría encargada de la coordinación del sector correspondiente para la integración de los Comités Técnicos. En todos los casos un representante del fideicomitente, cuando menos, formará parte del Comité Técnico.
+
+No tendrán el carácter de Fideicomisos Públicos paraestatales aquellos Fideicomisos de Financiamiento que se constituyan en términos de la Ley de Deuda Publica del estado de Nayarit.
 
 ###### ARTICULO 14.
 
@@ -117,9 +127,11 @@ B).- Designar al Auditor Externo y determinar las normas conforme a las cuales d
 
 C).- Vigilar el cumplimiento de los presupuestos y programas anuales de operación y administración.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 17.
 
-Están obligados los Organismos Descentralizados, Empresas Públicas Mayoritarias y Fideicomisos creados por el Gobierno del Estado a:
+Están obligados los Organismos Descentralizados, Empresas Públicas Mayoritarias y Fideicomisos Públicos Paraestatales creados por el Gobierno del Estado a:
 
 A).- Formular al Consejo de Administración sus presupuestos, programas y financiamientos anuales de operación.
 
@@ -170,3 +182,11 @@ Emilio M. González.- Rúbrica.
 Lic. Rafael Pérez Cárdenas
 
 Subsecretario General de Gobierno en funciones de Secretario General de Gobierno P.M.D.L.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
