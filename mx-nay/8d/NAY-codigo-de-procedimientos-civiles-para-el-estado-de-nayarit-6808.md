@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2007-05-05"
+last_updated: "2007-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -4277,7 +4277,13 @@ Enseguida, firmarán al margen del testamento las personas que hayan intervenido
 
 Si se presentaren dos o más testamentos cerrados, de una misma persona, sean de igual o diversa fecha, el Juez procederá respecto a cada uno de ellos como se previene en esta sección y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 2628 y 2630 del Código Civil.
 
-#### SECCION PRIMERA. EXCEPCION DE COSA JUZGADA
+#### SECCION QUINTA. TESTAMENTO PUBLICO SIMPLIFICADO
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 616 A.- No es necesaria la declaración judicial, cuando todos los legatarios instituidos en un testamento público simplificado sean capaces al momento de la delación y sean conformes con la tramitación extrajudicial, caso en el cual los herederos, exhibiendo la partida de defunción del testador y un testimonio del testamento, podrán presentarse ante un notario manifestándole que reconocen la validez de éste, la capacidad y derechos hereditarios de las personas instituidas y su voluntad unánime de que se tramite la testamentaría, designando en el acto, si no lo hubiere, al albacea o pidiéndole llame, si no estuviere presente, al testamentario.
+
+El Notario autorizante en todo caso deberá pedir a la Dirección Estatal del Notariado y a la Dirección del Registro Público de la Propiedad, le informen por escrito, dentro de un plazo que no excederá de ocho días, si el testamento que le presentan los comparecientes no ha sido revocado o modificado en su caso.
 
 ###### ARTICULO 612.
 
@@ -4291,7 +4297,7 @@ Recibido el sobre, procederá el Tribunal como se dispone en el artículo 2695 d
 
 Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos que hubieren intervenido, o por no estimarse bastante sus declaraciones, el Tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen, hará la declaración que corresponda.
 
-#### SECCION SEGUNDA. LITISPENDENCIA
+#### SECCION PRIMERA. EXCEPCION DE COSA JUZGADA
 
 ###### ARTICULO 615.
 
@@ -4307,7 +4313,9 @@ Los testigos declararán sujetándose estrictamente a lo dispuesto en el artícu
 
 Recibidas las declaraciones, se procederá conforme al artículo 2709 del Código Civil.
 
-#### SECCION TERCERA. CONEXIDAD
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+#### SECCION SEGUNDA. LITISPENDENCIA
 
 ### CAPITULO I. DE PREVIO Y ESPECIAL PRONUNCIAMIENTO
 
@@ -4323,9 +4331,11 @@ II.- Cuando todos los herederos intestamentarios sean capaces, después del reco
 
 III.- Cuando, en cualquiera de las dos hipótesis anteriores, habiendo incapaces, estén debidamente representados y se cuente con la conformidad del Ministerio Público y del Procurador de la Defensa del Menor y la Familia.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 618.
 
-En el supuesto del artículo 608 o hecha la declaración judicial de ser formal un testamento o de la declaratoria de herederos en los intestamentarios, podrá continuarse la tramitación ante notario, conforme a la Ley del Notariado y, en lo que no prevea, se aplicarán en lo conducente las disposiciones de éste título
+En el supuesto del artículo 608 y 616-A o hecha la declaración judicial de ser formal un testamento o de la declaratoria de herederos en los intestamentarios, podrá continuarse la tramitación ante notario, conforme a la Ley del Notariado y, en lo que no prevea, se aplicarán en lo conducente las disposiciones de este título.
 
 ###### ARTICULO 619.
 
@@ -4357,23 +4367,21 @@ Formarán artículo de previo y especial pronunciamiento y por ello impiden el c
 
 La nulidad de actuaciones por falta o defecto en el emplazamiento, es la única que no se convalida.
 
-#### SECCION CUARTA. FALTA DE PERSONALIDAD
+#### SECCION TERCERA. CONEXIDAD
 
 ###### ARTICULO 623.
 
 Cuando de conformidad con lo dispuesto en los artículos 260 a 263 se haga valer a petición de parte la cosa juzgada, se dará forma al incidente respectivo y, si es declarado procedente, además de los efectos contemplados en los dispositivos antes citados, se condenará en costas a quien promoviere el nuevo juicio y se le impondrá una multa de hasta veinte días de salario.
 
-#### SECCION QUINTA. DECLINATORIA DE JURISDICCION
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+#### SECCION CUARTA. FALTA DE PERSONALIDAD
 
 ###### ARTICULO 624.
 
 La litispendencia podrá plantearse cuando un Juez conoce ya de un mismo asunto. El que la haga valer debe señalar el juzgado donde se tramita el primer juicio; si se declara procedente, se remitirán los autos al juzgado que primero conoció del asunto cuando ambos jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación. Dará por concluído el procedimiento si el primer juicio se tramita en juzgado que no pertenezca a la misma jurisdicción de apelación o en diversa instancia.
 
-#### SECCION PRIMERA. UN SOLO EFECTO: DEVOLUTIVO
+#### SECCION QUINTA. DECLINATORIA DE JURISDICCION
 
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 644], P.O. 9 DE DICIEMBRE DE 2000)
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 625.
 
@@ -4389,9 +4397,9 @@ II.- Cuando se trata de juicios especiales; y
 
 III.- Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferentes.
 
-#### SECCION SEGUNDA. AMBOS EFECTOS: DEVOLUTIVO Y SUSPENSIVO
+#### SECCION PRIMERA. UN SOLO EFECTO: DEVOLUTIVO
 
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 650], P.O. 9 DE DICIEMBRE DE 2000)
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 644], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 627.
 
@@ -4407,9 +4415,9 @@ Similar trámite seguirá la falta de legitimación pasiva que en su defensa ale
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
-#### SECCION TERCERA. SUBSTANCIACION
+#### SECCION SEGUNDA. AMBOS EFECTOS: DEVOLUTIVO Y SUSPENSIVO
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 650], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 629.
 
@@ -4620,6 +4628,10 @@ Interpuesta la apelación, el juez la admitirá sin substanciación alguna si fu
 En los escritos de agravios y contestación, las partes señalarán domicilio en la residencia del Tribunal de Alzada para oír notificaciones, apercibiéndolos que de no hacerlo, éstas se les practicarán en los estrados.
 
 (REUBICADA, P.O. 9 DE DICIEMBRE DE 2000)
+
+#### SECCION TERCERA. SUBSTANCIACION
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 645.
 
@@ -4858,3 +4870,9 @@ P.O. 5 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
