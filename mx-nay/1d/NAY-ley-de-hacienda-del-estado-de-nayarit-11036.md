@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "2007-11-17"
+last_updated: "2007-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -151,19 +151,19 @@ Es base del impuesto sobre nómina el monto total de las erogaciones realizadas 
 
 #### SECCION CUARTA. DE LA CUOTA
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 13.
 
-Este impuesto se liquidará de conformidad con la tasa que al efecto establezca la Ley de Ingresos del Estado.
+El impuesto sobre nóminas se liquidará aplicando la tasa del dos por ciento a la base gravable señalada en el artículo 12 de esta ley.
 
 #### SECCION QUINTA. DEL PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 14.
 
-El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquel en que se causó. El pago deberá hacerse mediante declaración en la oficina recaudadora o institución de crédito autorizada por la Secretaría de Finanzas que corresponda al domicilio fiscal del contribuyente, en las formas que apruebe la propia Secretaría.
+El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquel en que se causó. El pago deberá hacerse mediante declaración en las oficinas o instituciones autorizadas por la Secretaría de Finanzas que corresponda al domicilio fiscal del contribuyente, en las formas que apruebe la propia Secretaría.
 
 La Secretaría de Finanzas podrá celebrar convenios con los sujetos de este Impuesto, a efecto de que éstos puedan anticipar pagos semestrales, con un descuento del 5% sobre la estimación que la misma Secretaría determine.
 
@@ -437,21 +437,31 @@ Servirá de base para el pago del Impuesto Sobre Tenencia o Uso de Vehículos, e
 
 #### SECCION CUARTA. DEL PAGO
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 36.
 
-Este impuesto se liquidará conforme al tabulador que al efecto establezca la Ley de Ingresos del Estado.
+Este impuesto se liquidará de acuerdo al número de cilindros como sigue:
+
+Concepto Cantidad a pagar
+
+1 y 2 cilindros $47.60
+
+3 y 4 cilindros $71 .40
+
+5 y 6 cilindros $95.20
+
+8 o más $119.00
 
 > <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION QUINTA. DEL PAGO
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 37.
 
-El pago del impuesto estatal sobre tenencia o uso de vehículos deberá efectuarse por año de calendario, dentro de los tres primeros meses, en las oficinas autorizadas por la Secretaría de Finanzas.
+El pago del impuesto estatal sobre tenencia o uso de vehículos deberá efectuarse por año de calendario, dentro de los tres primeros meses, mediante declaración que presente en las oficinas o instituciones autorizadas por fa Secretaría de Finanzas, que corresponda al domicilio fiscal del contribuyente y en las formas que apruebe la propia Secretaría. Las cantidades que señala esta ley se entenderán actualizadas al 31 de diciembre de 2007.
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -1344,3 +1354,9 @@ Artículo Único.- El presente decreto de reformas y adiciones entrará en vigor
 P.O. 17 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día 1° de Enero del año dos mil ocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
