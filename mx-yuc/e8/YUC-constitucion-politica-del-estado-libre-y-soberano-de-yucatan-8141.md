@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2007-05-11"
+last_updated: "2007-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2007.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -47,13 +47,17 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 
 Todos los habitantes del Estado de Yucatán, gozarán de las garantias que otorga la Constitución Política de los Estados Unidos Mexicanos, las derivadas de los Acuerdos o Tratados Internacionales, en los que el Estado Mexicano sea parte, y las establecidas en ésta Constitución.
 
-> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
-Tratándose de niñas, niños y adolescentes, las leyes garantizarán la protección de sus derechos humanos y garantías constitucionales con base en los principios de interés superior y protección integral. Esta Constitución reconoce como derechos de los infantes los previstos en la Constitución Política de los Estados Unidos Mexicanos, en la Convención sobre los Derechos del Niño y demás Tratados Internacionales ratificados por el Senado de la República.
+Las niñas, niños y adolescentes son sujetos de pleno derecho. Todas las instituciones públicas del Estado garantizarán la vigencia y aplicación de las prerrogativas que la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los Derechos del Niño, esta Constitución y demás normatividad en la materia, otorgan a las niñas, niños y adolescentes.
 
-> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
-Se garantizará el desarrollo pleno e integral de las niñas, niños y adolescentes, mediante el fomento del respeto a los derechos de la infancia y la cultura de su protección.
+La Ley establecerá que en la salvaguarda de los derechos de la infancia se respeten los principios de género e intergeneracionalidad y las características étnicas propias de la sociedad yucateca.
+
+> <small>(ADICIONADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+
+El Estado a través de un organismo especializado, con la participación de la sociedad civil, establecerá mecanismos para vigilar la atención de las necesidades de niños, niñas y adolescentes y en conjunto producirán información periódica sobre el cumplimiento progresivo de los derechos de la infancia en el Estado, dando a conocer los rubros que presentan rezago.
 
 > <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
@@ -61,7 +65,9 @@ Se garantizará el desarrollo pleno e integral de las niñas, niños y adolescen
 
 El Estado de Yucatán por medio de sus Poderes Públicos y Organismos Autónomos, garantizará a toda persona que se encuentre en su territorio el respeto de sus derechos y prerrogativas referidos en el artículo anterior.
 
-Queda prohibida toda discriminación por raza, origen étnico o nacionalidad, género, edad, condición física, social, económica o lingüística, preferencias, filiación, instrucción, creencia religiosa, ideología política o cualquier otra que menoscabe la dignidad humana, los derechos y libertades de las personas.
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Queda prohibida toda discriminación por raza, origen étnico, nacionalidad, género, edad, discapacidad, condición física, social, económica o lingüística, preferencias, filiación, instrucción, religión, ideología política, o cualquier otra que menoscabe la dignidad humana, los derechos y libertades de las personas. Las niñas, niños y adolescentes no podrán ser objeto de medidas que con la pretensión de ser correctivas, se fundamenten en causas discriminatorias o que sean consecuencia de las actividades, las opiniones expresadas o las creencias de sus padres, o sus tutores o de sus demás familiares.
 
 El Estado tiene una composición pluricultural sustentada originalmente en el pueblo maya, el cual desciende de la población que habitaba la península yucateca, al iniciarse la colonización; que conserva sus propios conocimientos, manifestaciones e idioma, así como, sus instituciones sociales, económicas y culturales o parte de ellas.
 
@@ -97,9 +103,9 @@ III.- Prestar los servicios que las Leyes prescriban, considerándose como tales
 
 IV.- Inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan; y
 
-> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
-V.- Corresponsabilizarse con el Estado en la protección de los derechos de las niñas, niños y adolescentes, conforme a las leyes, así como hacer que sus hijos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria.
+V.- Corresponsabilizarse con el Estado en la protección y vigilancia de los derechos de las niñas, niños y adolescentes, conforme a las leyes, así como hacer que sus hijos concurran a las escuelas públicas o particulares para obtener la educación preescolar, primaria y secundaria y demás asistencia que requieran, según el caso.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -589,7 +595,7 @@ V.- dar, interpretar y derogar Leyes y Decretos;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
-VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año.
+VI.- aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año.
 
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -597,11 +603,11 @@ Determinar las bases, montos y plazos con que serán distribuidas las participac
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-VII.- Examinar, y en su caso aprobar semestralmente la cuenta pública del Gobierno del Estado, de los Municipios y de los Organismos Autónomos;
+VII.- examinar, y en su caso aprobar semestralmente la cuenta pública del Gobierno del Estado, de los Municipios y de los Organismos Autónomos;
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
+VII Bis.- instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -637,7 +643,7 @@ XV.- Expedir leyes sobre Educación y Cultura, con sujeción a las bases constit
 
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XVI.- Designar a los consejeros electorales, del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y a los Magistrados del Tribunal Electoral del Estado de Yucatán, de conformidad a la ley;
+XVI.- designar a los consejeros electorales, del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y a los Magistrados del Tribunal Electoral del Estado de Yucatán, de conformidad a la ley;
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
@@ -645,11 +651,11 @@ XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento inte
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del Congreso;
+XVIII.- nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del Congreso;
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -677,7 +683,7 @@ XXIII.- nombrar a los Magistrados del Tribunal Superior de Justicia y a los supl
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-XXIII Bis.- Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo y recibir la protesta de los mismos;
+XXIII Bis.- aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo y recibir la protesta de los mismos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -693,7 +699,7 @@ XXVI.- Recibir la protesta a los Magistrados del Tribunal Superior de Justicia a
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XXVII.- Resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
+XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
 
 XXVIII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -729,7 +735,7 @@ Los ayuntamientos se sujetarán a dichas bases para la elaboración y aprobació
 
 > <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XXXV Bis.- Formular las disposiciones aplicables, en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
+XXXV Bis.- formular las disposiciones aplicables, en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -745,11 +751,11 @@ XXXVII Bis.- Autorizar la celebración de los convenios de coordinación, dispue
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XXXVIII.- Fijar las modalidades que a la propiedad privada deban imponerse para beneficio público; ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
+XXXVIII.- fijar las modalidades que a la propiedad privada deban imponerse para beneficio público; ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XXXIX.- Conocer y resolver los desacuerdos que surjan por los convenios que suscriban los Ayuntamientos con el Ejecutivo, conforme a los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos;
+XXXIX.- conocer y resolver los desacuerdos que surjan por los convenios que suscriban los Ayuntamientos con el Ejecutivo, conforme a los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -759,7 +765,7 @@ Para el ejercicio de las facultades señaladas en esta fracción, se deberá gar
 
 > <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XL Bis.- Designar un Concejo Municipal de entre los ciudadanos y vecinos del municipio de que se trate, en caso de falta absoluta de la totalidad de los integrantes del Ayuntamiento. Dicho Concejo podrá ser:
+XL Bis.- designar un Concejo Municipal de entre los ciudadanos y vecinos del municipio de que se trate, en caso de falta absoluta de la totalidad de los integrantes del Ayuntamiento. Dicho Concejo podrá ser:
 
 a) Provisional, si su designación se lleva a cabo en el lapso de los primeros seis meses del ejercicio de la gestión, y
 
@@ -771,7 +777,7 @@ Sus integrantes no podrán ser electos para el período constitucional inmediato
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XLI.- Revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
+XLI.- revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
 
 XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
@@ -1799,15 +1805,21 @@ Apartado A.- De la Educación.
 
 Son bases de la Educación que se imparta en el Estado, las siguientes:
 
-I.- Será progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas; procurará siempre desarrollar de manera armónica las facultades del ser humano, fomentará el civismo, el amor a la patria y el máximo aprovechamiento sustentable de los recursos naturales;
+> <small>(REFORMADA, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
-II.- Respecto a la educación del pueblo maya, será objeto de atención especial por parte del Estado, su acceso se garantizará, mediante leyes y programas que contribuyan a su propio desarrollo, de manera equitativa y sustentable, así como, la educación bilingüe e intercultural, basado en el principio de equidad entre las comunidades; estableciendo los mecanismos que permitan el fomento, subsistencia, enriquecimiento y defensa de la cultura maya.
+I.- Será progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas, procurará siempre desarrollar de manera armónica las facultades del ser humano hasta el máximo de sus posibilidades, fomentará el civismo, la identidad nacional y el máximo aprovechamiento sustentable de los recursos naturales y promoverá el respeto a los derechos humanos, libertades fundamentales y al medio ambiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+
+II.- Respecto a la educación del pueblo maya, será objeto de atención especial por parte del Estado, su acceso se garantizará, mediante leyes y programas que contribuyan a su propio desarrollo, de manera equitativa y sustentable, así como, la educación bilingüe e intercultural, basado en el principio de equidad entre las comunidades; estableciendo los mecanismos que permitan el fomento, subsistencia, enriquecimiento, defensa y orgullo de la cultura maya, así como el respeto por otras culturas.
 
 Cuando se tratare de programas educativos de contenido regional, el Estado deberá consultar al pueblo maya para su definición y desarrollo;
 
 III.- Coadyuvará con la nación, en la defensa de nuestra independencia política y económica;
 
-IV.- Será laica, combatirá la ignorancia, el fanatismo y los prejuicios;
+> <small>(REFORMADA, D.O. 15 DE DICIEMBRE DE 2007)</small>
+
+IV.- Será laica, combatirá la ignorancia, el fanatismo y los prejuicios, preparando desde la infancia, para asumir una vida responsable, basada en la comprensión, armonía, tolerancia, equidad de género y cooperación entre todos los pueblos;
 
 V.- El Estado apoyará la investigación científica y tecnológica, su resultado será sustento de la actividad educativa;
 
@@ -1837,7 +1849,9 @@ Apartado B.- De la Cultura
 
 La cultura como valor trascendente, es la base fundamental del desarrollo integral de las personas y la convivencia social.
 
-El Estado implementará con criterio social, políticas para la promoción cultural, el fomento de la cultura maya y su conservación, la difusión de las tradiciones, costumbres y valores regionales.
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+
+El Estado implementará con criterio social, políticas para la promoción cultural, el fomento de la cultura maya y su conservación, la difusión de las tradiciones, costumbres, valores regionales y nacionales, buscando inculcar el respeto a la cultura propia y otras distintas.
 
 La ley garantizará la participación de los sectores público, social y privado, en la preservación del patrimonio cultural; la impartición de la educación artística y el impulso a la creación intelectual y las bellas artes, en un marco de libertad y pluralismo.
 
@@ -1853,11 +1867,13 @@ El ejercicio de las acciones inherentes al arrendamiento de predios para habitac
 
 Para el desarrollo y consolidación de la solidaridad como condición básica de la convivencia, es necesario fomentar en los elementos sociales, la simpatía, como aptitud de sentir reflejamente el bien o el mal ajenos. Consecuentemente, el Estado impedirá todo espectáculo, comercio o actividad que pueda inspirar sentimientos inhumanos o crueles, o de odio y antipatía entre los conviventes, o de rebajamiento o degradación de la personalidad humana.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 93.
 
-La asistencia social de los niños desamparados y de los mayores física o intelectualmente incapacitados, estará bajo la inmediata responsabilidad del Estado. Las Leyes que se dicten en esta materia, atenderán a la vigilancia estricta de la tutela de esos seres, y darán orientación conveniente a la asistencia social asumida por las llamadas instituciones de beneficencia privada.
+Las niñas, niños y adolescentes en desamparo y las personas con discapacidad recibirán la protección y asistencia especial del Estado, a través de la creación de instituciones, instalaciones y servicios para su cuidado; así como programas sociales que garanticen el disfrute de una vida plena y aseguren su dignidad.
+
+Las leyes que se dicten en esta materia atenderán la vigilancia y orientarán la conveniente asistencia social con miras a lograr la interacción y desarrollo individual asumido por las instituciones de beneficencia pública y privada.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2870,3 +2886,17 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Diario
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo no mayor a 60 días de la entrada en vigor de este Decreto, se deberá revisar y en su caso reformar la Ley de Fomento a la Ciencia y la Tecnología del Estado de Yucatán.
+
+D.O. 15 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo establecido en este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de un plazo que no exceda de seis meses a la entrada en vigor de este Decreto, se expedirá la ley en materia de protección a los derechos de la infancia, en la que se contemplará la creación del organismo especializado referido en este Decreto; para lo cual se escuchará a la opinión ciudadana especializada en la materia.
