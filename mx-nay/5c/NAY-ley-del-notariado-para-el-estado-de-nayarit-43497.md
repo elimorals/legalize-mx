@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-para-el-estado-de-nayarit-43497"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-29"
-last_updated: "2005-12-17"
+last_updated: "2007-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de enero de 2005.
 
@@ -131,9 +131,17 @@ V. Autorizar, temporalmente y para casos concretos, la ampliación de la demarca
 
 VI. Instrumentar, a través de la Dirección, los sistemas informáticos que permitan una comunicación ágil y oportuna para la transmisión de la información de todos los actos notariales en el Estado, su procesamiento y archivo;
 
-VII. Delegar en la Secretaría las atribuciones que le corresponden en materia notarial; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
-VIII. Las demás que le señalen esta ley, su reglamento y demás disposiciones aplicables.
+VII. Convocar a los profesionales del derecho interesados en adquirir el carácter de aspirantes a notarios, cuando así lo estime conveniente para la actividad notarial;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+VIII. Delegar en la Secretaría las atribuciones que le corresponden en materia notarial; y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+IX. Las demás que le señalen esta ley, su reglamento y demás disposiciones aplicables.
 
 ###### Artículo 5.
 
@@ -383,6 +391,10 @@ La función notarial podrá ejercerse en cualquier día, sea hábil o inhábil y
 
 Cada Notario deberá señalar el horario de trabajo de su oficina, el cual será mínimo de 7 siete horas, anunciarlo al exterior de la misma y lo informará a la Dirección del Notariado y al Colegio, así como los cambios que hiciere al respecto.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Salvo los casos dispuestos, las notarías no podrán cerrarse. Si se ausentara el titular o el suplente deberá estarse a lo dispuesto por los artículos 187, 188, 189, y 190, según corresponda.
+
 #### Sección Segunda. Del Notario
 
 ###### Artículo 42.
@@ -551,11 +563,11 @@ c) En general, toda persona que ejerza el derecho al servicio notarial en térmi
 
 #### Sección Segunda. De los Exámenes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 57.
 
-El Ejecutivo a través de la Dirección convocará dentro de los primeros sesenta días de cada año a los profesionales del derecho interesados en adquirir el carácter de Aspirante a Notario, a que concurran en la fecha señalada dentro de los siguientes 15 quince días naturales a partir de la fecha de publicación de la convocatoria, a presentar solicitud para la práctica del examen correspondiente, a efecto de conformar con los aprobados, el padrón de aspirantes que será publicado en el mes de Marzo de cada año en el Periódico Oficial.
+El Ejecutivo convocará a los profesionales del derecho interesados en adquirir el carácter de Aspirante a Notario, a que concurran dentro de los siguientes quince días naturales a partir de la fecha de publicación de la convocatoria, a presentar solicitud para la práctica del examen correspondiente, a efecto de conformar con los aprobados, el padrón de aspirantes que será publicado en el Periódico Oficial.
 
 Para solicitar el examen de Aspirante a Notario, el interesado deberá satisfacer los siguientes requisitos:
 
@@ -571,9 +583,9 @@ V. No haber sido declarado en Quiebra o Concurso de Acreedores;
 
 VI. No estar sujeto a proceso, ni haber sido condenado por sentencia ejecutoriada, por delito intencional;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
-VII. Acreditar cuando menos un año de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún Notario del Estado, pudiendo mediar un lapso de hasta un año entre la terminación de dicha práctica y la solicitud del examen correspondiente. El inicio de la práctica notarial por el aspirante será autorizado por la dirección, debiendo publicarse dicha autorización en el Periódico Oficial. Podrá sustituirse la práctica notarial a que se hace mención acreditando haber cursado estudios especializados en derecho notarial o ramas afines en instituciones autorizadas;
+VII. Acreditar cuando menos un año de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún Notario del Estado, pudiendo mediar un lapso de hasta un año entre la terminación de dicha práctica y la solicitud del examen correspondiente, El inicio de la práctica notarial por el aspirante será autorizado por la Dirección, debiendo publicarse dicha autorización en el Periódico Oficial;
 
 VIII. Presentar dicha solicitud por escrito a la autoridad competente en el formulario autorizado al efecto por la misma, marcando copia al Colegio, requisitando los datos y acompañando los documentos que el mismo formulario señale;
 
@@ -711,7 +723,9 @@ El examen para obtener la patente de Notario y Notario Suplente Adscrito se regi
 
 I. Se realizará un examen por cada notaría vacante; en él participarán todos los Aspirantes a Notario y Notarios suplentes adscritos que se hayan inscrito.
 
-En el caso del examen para Notario Suplente adscrito sólo participarán los aspirantes que se hayan inscrito, salvo en el caso de propuesta por el notario titular;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Salvo en el caso de la propuesta del titular, cuyo designado realizara el examen señalado en los artículos 61 y el presente de esta Ley;
 
 II. Para la prueba práctica, se reunirán los sustentantes en el lugar que determine la Dirección el día y hora señalados en la convocatoria. Alguno de los sustentantes elegirá uno de los sobres que guarden los temas, de entre veinte de ellos, debiendo todos los sustentantes desarrollar el que se haya elegido; asimismo ahí se sorteará el orden de presentación de los sustentantes a la prueba teórica;
 
@@ -1143,9 +1157,13 @@ I. Si el acto revocado o renunciado consta en el protocolo de la Notaría a su c
 
 II. Cuando el acto revocado o renunciado conste en protocolo a cargo de otro Notario del Estado de Nayarit, lo comunicará por escrito a aquél, para que dicho Notario proceda en los términos de la fracción anterior;
 
-III. Si el libro de protocolo de que se trate, sea de la notaría a su cargo o de otra del Estado de Nayarit, ya estuviere depositado en definitiva en la Dirección, la comunicación de la revocación o renuncia será hecha al titular de esa dependencia para que éste haga la anotación complementaria indicada; y
+III. Si el libro de protocolo de que se trate, sea de la notaría a su cargo o de otra del Estado de Nayarit, ya estuviere depositado en definitiva en la Dirección, la comunicación de la revocación o renuncia será hecha al titular de esa dependencia para que éste haga la anotación complementaria indicada; y (sic)
 
-IV. Si el poder o mandato renunciado o revocado constare en protocolo fuera del Estado de Nayarit, el Notario lo comunicará por correo certificado al Notario a cargo de quien esté el protocolo, para que haga la anotación correspondiente y será a cargo del interesado cerciorarse que se haga esta.
+IV. Si el poder o mandato renunciado o revocado constare en protocolo fuera del Estado de Nayarit, el Notario lo comunicará por correo certificado al Notario a cargo de quien esté el protocolo, para que haga la anotación correspondiente y será a cargo del interesado cerciorarse que se haga esta;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+V. Deberá notificarse a la persona que se le otorgó el poder, de la revocación, lo que hará el notario por medio de correo certificado o en forma personal, a no ser que el revocante asuma la responsabilidad de hacerlo; la misma obligación tiene el fedatario en cuanto a la renuncia del poder, donde deberá notificarse al otorgante.
 
 ###### Artículo 120.
 
@@ -1155,15 +1173,23 @@ Cuando se revoque, rescinda o modifique un acto contenido en una escritura, se d
 
 Siempre que ante un Notario se otorgue un testamento, éste dará aviso a la Dirección, dentro de los tres días hábiles siguientes, en el que contendrá la información necesaria a criterio del Registro Nacional de Testamentos y la propia Dirección.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+La Dirección ingresará el aviso de testamento por vía electrónica a la base de datos del Registro Nacional correspondiente, independiente del registro que se realiza conforme al artículo 122 de esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 122.
 
-La Dirección llevará un registro especialmente destinado a asentar las inscripciones relativas a los testamentos, poderes o mandatos, con los datos que se requieran en términos del artículo anterior y entregará informes únicamente a Notarios, jueces legitimados, y a los particulares con interés jurídico, justificada que sea la defunción del autor de la sucesión, previa solicitud. A ninguna otra autoridad, así fuera de jerarquía superior, se entregarán informes sobre dichos actos, ni los servidores públicos encargados podrán proporcionar datos relativos a persona alguna.
+La Dirección llevara un registro especialmente destinado a asentar las inscripciones relativas a los testamento con los datos que se requieran en términos del articulo anterior y entregar informes únicamente a los notarios, autoridades judiciales; a las autoridades administrativas, ministeriales y a los particulares, con interés jurídico y justificada que sea la defunción del autor de la sucesión, y todos previa solicitud. A ninguna otra autoridad, así fuera de jerarquía superior se entregaran informes sobre dichos actos ni los servidores públicos encargados podrán proporcionar datos relativos a persona alguna.
 
 ###### Artículo 123.
 
 Los jueces y los Notarios ante quienes se tramite una sucesión, recabarán los informes de la Dirección y del Registro Público, acerca de si éstos tienen registrados testamentos otorgados por la persona de cuya sucesión se trate y, en su caso, los datos de otorgamiento de dicho testamento.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Previamente a la expedición del informe indicado, la Dirección y el Registro Publico de la Propiedad, harán la consulta en sus registros, y solicitarán el reporte de búsqueda por vía electrónica al Registro Nacional de Avisos de Testamento, para determinar la existencia o no de disposición testamentaria en otras entidades.
 
 Al expedir el informe indicado, la Dirección y el Registro Público mencionarán en él a qué personas han proporcionado este mismo informe con anterioridad, en el caso de que tenga esta información.
 
@@ -1486,6 +1512,20 @@ Una vez hechas las publicaciones a que se refiere el artículo anterior, de lo q
 ###### Artículo 177.
 
 Los herederos y albacea otorgarán las escrituras de partición y adjudicación tal como haya sido ordenado por el autor de la sucesión en su testamento. A falta de éste, conforme a las disposiciones de la Ley de la materia para los intestados, como los propios herederos convengan.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Artículo 177 bis.- Para la titulación notarial en el testamento público simplificado se observara lo siguiente:
+
+I.- Los legatarios o sus representantes, deberán exhibir la copia certificada del acta de defunción del testador y testimonio del testamento;
+
+II.- El notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación en el Estado, que ante el se está llevando la titulación notarial de la adquisición derivada del testamento publico simplificado, el nombre del testador y sus legatarios y en su caso, su parentesco;
+
+III.- El notario deberá recabar de la Dirección y del Registro Público de la Propiedad del Estado, las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición;
+
+IV.- De ser procedente el notario redactara el instrumento en que se relacionaran los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en el Registro Público de la Propiedad. En su caso, podrá hacer constar la repudiación expresa y
+
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez un testamento público simplificado en los términos del artículo 2683 Bis del Código Civil.
 
 ### CAPITULO V. SUPLENCIA, ASOCIACIÓN, SEPARACIÓN, SUSPENSIÓN Y TERMINACIÓN DE FUNCIONES
 
@@ -1939,7 +1979,9 @@ XII. Devolver a los Notarios, en los plazos previstos por esta ley, los expedien
 
 XIII. Regularizar y autorizar en definitiva, los instrumentos que hubieren quedado pendientes de autorización por parte de un Notario;
 
-XIV. Recibir de los Notarios, los avisos de testamento para su depósito y custodia definitiva, debiendo llevar un registro de éstos y de las revocaciones por cualquier medio ya sea escrito o electrónico o ambos a la vez si así se determina;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+XIV.- Recibir de los Notarios, los avisos de testamento para su depósito y custodia definitiva, debiendo llevar un registro de éstos y de las revocaciones. Debiendo ingresar la información al Registro Nacional de Avisos de Testamento;
 
 XV. Rendir información a las autoridades judiciales y administrativas competentes, y a los Notarios y a los particulares con interés jurídico justificada la defunción del testador los avisos de registro, testamento y revocaciones;
 
@@ -2126,3 +2168,9 @@ P.O. 17 DE DICIEMBRE DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
