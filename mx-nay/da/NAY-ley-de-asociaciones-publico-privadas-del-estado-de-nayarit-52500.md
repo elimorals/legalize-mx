@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asociaciones-publico-privadas-del-estado-de-nayarit-5250
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-29"
-last_updated: "2006-11-29"
+last_updated: "2007-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASOCIACIONES PUBLICO PRIVADAS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Décima Primera al Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 2006.
 
@@ -131,7 +131,9 @@ VIII.- Rentabilidad Social.- Las decisiones para crear, desarrollar u operar inf
 
 IX.- Peaje Sombra.- Para aquellas obras o servicios públicos de gran interés social, que por su naturaleza deban ser gratuitos para los usuarios, las administraciones estatal y municipal asumirán el pago escalonado de los costos asociados;
 
-X.- Temporalidad.- Los actos o Contratos celebrados conforme a esta ley, no podrán exceder de un término de treinta años, incluyendo sus prórrogas. Considerándose como causa de nulidad del Contrato, la omisión de la estipulación del plazo señalado; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+X.-Temporalidad.- Los actos o Contratos celebrados conforme a esta ley, no podrán exceder de un término de treinta años, salvo las excepciones que señale la presente ley. Considerándose como causa de nulidad del Contrato, la omisión de la estipulación del plazo señalado; y
 
 XI.- Responsabilidad Presupuestal.- Se deberá considerar la capacidad de pago del Estado o Municipio, para adquirir los compromisos financieros que se deriven de la Ejecución de los Contratos con base en esta ley, sin comprometer la sostenibilidad de las finanzas públicas, ni la prestación de los servicios que se otorguen de manera regular.
 
@@ -293,9 +295,19 @@ Por cada Proyecto que se pretenda realizar, el titular de la dependencia o entid
 
 ### CAPÍTULO SEXTO. DEL RÉGIMEN DE LICITACIÓN
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 25.
 
-Para los efectos del procedimiento de licitación para adjudicar la prestación de servicios públicos y creación o desarrollo de infraestructura, se aplicarán las reglas que señalan este ordenamiento y las previstas en las leyes de Obra Pública del Estado de Nayarit y de Adquisiciones, según las características del proyecto.
+Para los efectos del procedimiento de licitación para adjudicar la prestación de servicios públicos y creación o desarrollo de infraestructura, se aplicarán las disposiciones y reglas que señala este ordenamiento y, en lo que no se opongan a éstas, las previstas en las leyes de Obra Pública del Estado de Nayarit y de Adquisiciones, según las características de cada proyecto.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Artículo 25 A.- Los contratos administrativos de largo plazo se adjudicarán a través de licitaciones públicas, mediante convocatoria, para que libremente se presenten proposiciones en sobre cerrado, a fin de asegurar al Estado y al Ayuntamiento, en su caso, las mejores condiciones disponibles en cuanto precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo previsto en la presente Ley, a excepción de los casos a que se refiere el siguiente párrafo.
+
+Los Órganos Ejecutores, previo dictamen favorable correspondiente, de las autoridades de planeación, finanzas y contraloría en los ámbitos estatal y municipal, y bajo su responsabilidad, podrán optar por otorgar concesiones mediante los procedimientos de invitación a cuando menos tres personas o por adjudicación directa, cuando el financiamiento de la obra o servicio público, de que se trate, sea a cargo de particulares, persona física o moral, que cuente con experiencia necesaria, recursos económicos, técnicos y materiales suficientes. Lo anterior, siempre y cuando exista solicitud expresa de particular para desarrollar un proyecto financiado con recursos privados y previa aprobación del estudio de viabilidad a que se refiere esta Ley.
+
+En cualquier supuesto, se invitará a personas físicas y morales que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de las obras o servicios públicos a desarrollar
 
 ###### Artículo 26.
 
@@ -311,9 +323,21 @@ No se podrá iniciar la ejecución del Proyecto, sin la previa formalización de
 
 El Contrato administrativo regulado por esta Ley, es el acto jurídico que involucra recursos de varios ejercicios fiscales, mediante el cual el Órgano Ejecutor, conviene con una persona física o moral llamada Inversionista Proveedor la creación y desarrollo de infraestructura o prestación de servicios públicos, que son de su competencia.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Estos contratos administrativos tendrán una temporalidad de hasta treinta años, y podrán ser prorrogados hasta por plazos equivalentes a los señalados originalmente, siempre que el contratante hubiere cumplido con las condiciones impuestas y lo solicite durante la última quinta parte de su vigencia y a más tardar un año antes de su conclusión.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+El Órgano ejecutor contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de sesenta días naturales contado a partir de la fecha de presentación de la misma y establecerá las nuevas condiciones de la contratación; para lo cual deberá tomar en cuenta la inversión, los costos futuros de .ampliación de la obra o el servicio, su mejoramiento y las demás proyecciones financieras y operativas que deban considerarse para la rentabilidad del contrato.
+
 ###### Artículo 28.
 
 El Contrato deberá especificar si el Proyecto se llevará a cabo con activos del Inversionista Proveedor, o con activos del sector público, de ambos, de un tercero, o de un grupo de proveedores con base en lo requerido por el Órgano Ejecutor.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Artículo 28 A.- El gobierno Estatal o Municipal podrá realizar los actos necesarios para aportar recursos públicos para la adquisición de bienes necesarios para la realización de la obra o inversión que se pretenda contratar y que faciliten su realización o financiamiento.
 
 ###### Artículo 29.
 
@@ -362,6 +386,10 @@ XVI.- Forma de calcular la indemnización del Inversionista Proveedor en caso de
 XVII.- Causas de suspensión, rescisión y extinción; y
 
 XVIII.- Sistemas de medición y supervisión.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Los términos y condiciones de la participación del gobierno estatal y municipal en los proyectos, se determinará en los contratos correspondientes.
 
 ###### Artículo 32.
 
@@ -636,3 +664,11 @@ DADO en la sala de "Sesiones Lic. Benito Juárez recinto oficial de este Honorab
 Dip. Jocelyn Patricia Fernández Molina, Presidente.- Rúbrica.- Dip. Angélica Cristina del Real Chávez, Secretario.- Rúbrica.- Dip. Emma Araceli Barba González, Secretario. Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintiocho días del mes de noviembre del año dos mil seis.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaría General de Gobierno, Profra. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
