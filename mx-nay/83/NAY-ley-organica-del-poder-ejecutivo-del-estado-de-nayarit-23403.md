@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2007-07-04"
+last_updated: "2007-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -51,7 +51,9 @@ El Despacho del Gobernador del Estado, las Secretarías del Despacho y la Procur
 
 Para atender de manera eficiente el despacho de los asuntos de su competencia, las dependencias de la Administración Pública Centralizada, podrán contar con órganos administrativos desconcentrados, que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito de competencia que se determine en cada caso, ya sea en su acuerdo de creación, en su reglamento interior o en las disposiciones legales que se dicten.
 
-Los organismos públicos descentralizados, las empresas de participación estatal, los fondos y fideicomisos y los demás organismos de carácter público que funcionen en el Estado, conforman la Administración Pública Paraestatal; a éstas se les denominará genéricamente entidades, para los efectos de esta Ley.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+Los organismos públicos descentralizados, las empresas de participación estatal, los fondos y fideicomisos Públicos Paraestatales y los demás organismos de carácter público que funcionen en el Estado, conforman la Administración Pública Paraestatal; a éstas se les denominará genéricamente entidades, para los efectos de esta Ley.
 
 Los organismos autónomos del Estado, formarán parte de la Administración Pública Estatal y su relación con el Ejecutivo será exclusivamente administrativa.
 
@@ -134,6 +136,10 @@ Sin perjuicio de las atribuciones que éste u otros ordenamientos confieran a la
 ###### Artículo 16.
 
 Además de las atribuciones que le señala la Constitución, esta Ley y otras disposiciones jurídicas, el Procurador General de Justicia es el Consejero Jurídico y representante legal del Estado en defensa de sus intereses.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+El Gobernador designará la unidad administrativa responsable de ejercer la función de Consejería jurídica y representación legal del Poder Ejecutivo en defensa de sus intereses.
 
 ###### Artículo 17.
 
@@ -319,7 +325,9 @@ XVIII. Revisar los proyectos de ley, reglamentos y cualquier otro ordenamiento j
 
 XIX. Legalizar y remitir a los tribunales los exhortos para su diligenciación;
 
-XX. Llevar el registro de organismos públicos descentralizados, empresas de participación estatal, fondos, fideicomisos y demás organismos de carácter público creados en los términos de esta Ley y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+XX. Llevar el registro de organismos públicos descentralizados, empresas de participación estatal, fondos, fideicomisos Públicos Paraestatales y demás organismos de carácter público creados en los términos de esta Ley y demás ordenamientos aplicables;
 
 XXI. Administrar el Periódico Oficial, Órgano del Gobierno del Estado, así como promover la compilación, archivo y supervisión de las publicaciones e impresiones oficiales;
 
@@ -365,7 +373,9 @@ XLI. Acordar y tramitar, por acuerdo del Gobernador del Estado, las solicitudes 
 
 XLII. Proponer al Ejecutivo del Estado los programas relativos a la protección de los habitantes, al orden público, así como los relativos a la readaptación social;
 
-XLIII. Vigilar el establecimiento de instituciones y la aplicación de las normas preventivas tutelares para menores infractores;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+XLIII. Vigilar el establecimiento de instituciones y la aplicación de las medidas preventivas y definitivas impuestas a los adolescentes en conflicto con la ley penal, fijadas por la autoridad jurisdiccional competente;
 
 XLIV. Atender todo lo relativo a la seguridad pública en el estado y coadyuvar en el desarrollo de los programas institucionales que tengan por finalidad, preservar la tranquilidad y la paz social del estado, concurriendo con los municipios a la prestación del servicio de seguridad pública;
 
@@ -1257,9 +1267,11 @@ XXIV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le
 
 ### CAPÍTULO PRIMERO (SIC). De las Entidades
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 42.
 
-Son entidades de la Administración Pública Paraestatal, los organismos públicos descentralizados, las empresas de participación estatal mayoritaria, los fondos y fideicomisos públicos y los demás organismos de carácter público que funcionen en el estado, creados por ley o decreto del Congreso del Estado o por decreto administrativo del Gobernador del Estado, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
+Son entidades de la Administración Pública Paraestatal, los organismos públicos descentralizados, las empresas de participación estatal mayoritaria, los fondos y fideicomisos Públicos Paraestatales y los demás organismos de carácter público que funcionen en el estado, creados por ley o decreto del Congreso del Estado o por decreto administrativo del Gobernador del Estado, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
 
 ###### Artículo 43.
 
@@ -1331,7 +1343,9 @@ l. Que en la constitución de su capital figuren acciones de serie especial que 
 
 ll. Que al Gobierno del Estado corresponda la facultad de nombrar a la mayoría de los miembros del órgano de gobierno o su equivalente, o bien designar al presidente o al director, o cuando tenga facultades para vetar los acuerdos de la asamblea general de accionistas, del consejo de administración, de la junta directiva o del órgano de gobierno equivalente; o
 
-lll. Que el Gobierno del Estado o uno o más de sus organismos públicos descentralizados, de sus empresas de participación estatal o de sus fideicomisos públicos, considerados conjunta o separadamente, aporten o sean propietarios del 50% o más del capital social.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+III. Que el Gobierno del Estado o uno o más de sus organismos públicos descentralizados, de sus empresas de participación estatal o de sus fideicomisos Públicos Paraestatales, considerados conjunta o separadamente, aporten o sean propietarios del 50% o más del capital social.
 
 ###### Artículo 56.
 
@@ -1347,25 +1361,35 @@ Las empresas de participación Estatal minoritarias, serán aquellas sociedades 
 
 Las empresas a que se refiere este artículo se regirán por las normas de derecho privado en cuanto a su organización y funcionamiento.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
 ### CAPITULO IV
 
-De los Fideicomisos Públicos.
+DE LOS FIDEICOMISOS PÚBLICOS PARAESTATALES.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 59.
 
-Los fideicomisos públicos son aquellos por medio de los cuales, el Poder Ejecutivo del Estado, a través de sus dependencias o entidades y en su carácter de fideicomitente, transmite la titularidad de bienes del dominio público o privado del estado o afecta fondos públicos en una institución fiduciaria, para realizar un fin licito de interés público, con el propósito de auxiliarse en el cumplimiento de sus atribuciones legales para impulsar las áreas prioritarias para el desarrollo de la Entidad. En los fideicomisos constituidos por el Gobierno del Estado, la Secretaría de Finanzas fungirá como fideicomitente único de la Administración Pública Centralizada.
+Los fideicomisos Públicos Paraestatales son aquellos por medio de los cuales, el Poder Ejecutivo del Estado, a través de sus dependencias o entidades y en su carácter de fideicomitente, transmite la titularidad de bienes del dominio público o privado del estado o afecta fondos públicos en una institución fiduciaria, para realizar un fin licito de interés público, con el propósito de auxiliarse en el cumplimiento de sus atribuciones legales para impulsar las áreas prioritarias para el desarrollo de la Entidad. En los Fideicomisos Públicos paraestatales constituidos por el Gobierno del Estado, la Secretaría de Finanzas fungirá como fideicomitente único de la Administración Pública Centralizada.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 60.
 
-Los fideicomisos contarán con una estructura orgánica análoga a la de un organismo descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del estado y en cuyo órgano de gobierno participen servidores públicos de dos o más dependencias, correspondiendo al titular de la dependencia coordinadora del sector la designación del Director General.
+Los Fideicomisos Públicos Paraestatales contarán con una estructura orgánica análoga a la de un organismo descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del estado y en cuyo órgano de gobierno participen servidores públicos de dos o más dependencias, correspondiendo al titular de la dependencia coordinadora del sector la designación del Director General.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 61.
 
-No tendrán carácter de fideicomisos públicos, aquellos que se constituyan con la aportación por una sola vez del Gobierno del Estado o que reciban donaciones del mismo y que éste no intervenga en las funciones del Comité Técnico, salvo en la vigilancia de la correcta aplicación de los recursos y el cumplimiento de los fines del fideicomiso a través de la Secretaría de la Contraloría General.
+No tendrán carácter de fideicomisos Públicos Paraestatales, aquellos que se constituyan con la aportación por una sola vez del Gobierno del Estado o que reciban donaciones del mismo y que éste no intervenga en las funciones del Comité Técnico, salvo en la vigilancia de la correcta aplicación de los recursos y el cumplimiento de los fines del fideicomiso a través de la Secretaría de la Contraloría General; ni los Fideicomisos de Financiamiento a que se refiere la Ley de Deuda Pública del Estado de Nayarit. En este ultimo caso, los fideicomisos que se constituyan podrán o no tener comité técnico y se regirán en su totalidad por las disposiciones establecidas en el contrato que les de origen y por las disposiciones mercantiles y/o civiles aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 62.
 
-Los fideicomisos públicos serán dirigidos por comités técnicos, los cuales se integrarán con los titulares de las dependencias o entidades públicas que determine el titular de la dependencia coordinadora de sector debiendo invariablemente formar parte de ellos, un representante de la Secretaría de Finanzas y uno de la Secretaría de la Contraloría General.
+Los Fideicomisos Públicos Paraestatales serán dirigidos por comités técnicos, los cuales se integrarán con los titulares de las dependencias o entidades públicas que determine el titular de la dependencia coordinadora de sector debiendo invariablemente formar parte de ellos, un representante de la Secretaría de Finanzas y uno de la Secretaría de la Contraloría General.
 
 ###### Artículo 63.
 
@@ -1564,3 +1588,17 @@ Artículo Séptimo.- Los asuntos y procedimientos que a la fecha sean responsabi
 Artículo Octavo.- Cuando las leyes, decretos, acuerdos o convenios hagan referencia al Instituto Nayarita para el Desarrollo Sustentable, se entenderá a partir de la entrada en vigor del presente decreto referido a la Secretaría del Medio Ambiente. De igual forma deberán entenderse transferidas las atribuciones u obligaciones consignadas en los mismos.
 
 Artículo Noveno.- Dentro de los noventa días siguientes a la entrada en vigor del presente decreto, deberá de expedirse el reglamento interior de la Secretaría del Medio Ambiente.
+
+P.O. 15 DE DICIEMBRE DE 2007.
+
+DECRETO QUE REFORMA DIVERSOS ARTICULOS DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2007.
+
+DECRETO QUE ADICIONA EL ARTICULO 16 Y REFORMA EL 32 EN SU FRACCION XLIII DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT.
+
+ÚNICO.- El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nayarit.
