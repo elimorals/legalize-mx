@@ -4,7 +4,7 @@ identifier: "NAY-codigo-fiscal-del-estado-de-nayarit-14460"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "2002-09-28"
+last_updated: "2007-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO FISCAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de diciembre de 1976.
 
@@ -72,6 +72,12 @@ Son aprovechamientos, los recargos, las multas y los demás ingresos de derecho 
 ###### ARTICULO 8o.
 
 Son participaciones, las cantidades que corresponden al Estado en el rendimiento de la recaudación de determinados impuestos federales, de conformidad con las leyes respectivas y de los convenios que se celebren sobre el particular.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 8o.
+
+A.- El ejecutivo del estado podrá destinar ingresos a gastos públicos, fideicomisos de financiamiento y contratos administrativos de largo plazo, previa autorización del Congreso del Estado.
 
 ###### ARTICULO 9o.
 
@@ -238,6 +244,24 @@ A falta de disposición expresa, el pago deberá hacerse:
 I.- Si es a las autoridades a las que corresponda formular la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efectos la notificación de la misma.
 
 II.- Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación, dentro de los veinte días siguientes al nacimiento de la obligación fiscal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 26 A.- El monto de los impuestos expresados en pesos se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones no se actualizarán por fracciones de mes.
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+Cuando no se cubran los impuestos o los aprovechamientos en la fecha o dentro de los plazos fijados por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectué.
+
+Cuando no se cubran los créditos fiscales en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en los pagos provisionales y del ejercicio, no será deducible ni acreditable.
+
+Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones será 1.
+
+Las cantidades en moneda nacional que se establezcan en las leyes fiscales, se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio a aquél en el que se haya dado dicho incremento. Para la actualización mencionada se considerará el período comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado. Para estos efectos, el factor de actualización se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del período entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo de dicho período. La Secretaría de Finanzas realizará las operaciones aritméticas previstas en este artículo y publicará el factor de actualización así como las cantidades actualizadas en el Periódico Oficial del Estado.
+
+Para determinar el monto de las cantidades a que se refiere el párrafo anterior, se considerarán, inclusive, las fracciones de peso; no obstante lo anterior, dicho monto se ajustará para que las cantidades de 0.01 a 5.00 pesos en exceso de una decena, se ajusten a la decena inmediata anterior y de 5.01 a 9.99 pesos en exceso de una decena, se ajusten a la decena inmediata superior.
 
 ###### ARTICULO 27.
 
@@ -1550,3 +1574,9 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
