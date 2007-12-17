@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2007-04-02"
+last_updated: "2007-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1925,13 +1925,17 @@ XIII.- Pagos que resulten del crédito al salario conforme a la Ley del Impuesto
 
 Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros veinte días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quién perciba los pagos cuando quién los efectúa resida fuera del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+Los contribuyentes que tributen en los términos de la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, es decir, de los denominados »pequeños contribuyentes», podrán optar por pagar este impuesto mediante declaración bimestral dentro de los primeros veinte días del bimestre siguiente a aquel en que se causó, debiendo informar de esta opción a la autoridad fiscal.
+
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 Los contribuyentes dedicados a actividades agrícolas, silvícolas o de pesca, previa autorización de la Secretaría de Hacienda, podrán efectuar el pago del impuesto dentro de los veinte días inmediatos posteriores al término de sus respectivos ciclos productivos tratándose de trabajadores contratados por tiempo determinado, siempre que los productos no hayan sido objeto de transformación industrial.
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
-Cuando los contribuyentes realicen el pago del impuesto con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales o de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, podrán efectuar el pago del impuesto mediante la presentación de declaraciones periódicas hasta de doce meses, y de anexo que contenga el monto de las remuneraciones pagadas por el contribuyente, el número de empleados, el impuesto causado, el Impuesto para el Sostenimiento de la Universidad de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública y recargos, desglosados en forma mensual, así como las sanciones que correspondan.
+Cuando los contribuyentes realicen el pago del impuesto con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales, de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales o en forma espontánea y en una sola exhibición fuera de los plazos señalados, podrán efectuar el pago del impuesto mediante la presentación de declaraciones periódicas hasta de doce meses, y de anexo que contenga el monto de las remuneraciones pagadas por el contribuyente, el número de empleados, el impuesto causado, el Impuesto para el Sostenimiento de la Universidad de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública y recargos, desglosados en forma mensual así como las sanciones que correspondan.
 
 ###### Artículo 220.
 
@@ -2833,9 +2837,17 @@ a).- Derechos por expedición, transferencia, canje o revalidación de placas de
 
 b).- Derechos por expedición de licencias para conducir.
 
-c).- Derechos por los servicios que presta el Registro Público de la Propiedad, y
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
-d).- En general por la legalización de firmas, expedición de certificados y certificaciones por cuyos servicios deban pagarse derechos en los términos de la presente Ley.
+c).- Derechos por los servicios que presta el Registro Público de la Propiedad.
+
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+d).- En general por la legalización de firmas, expedición de certificados y certificaciones por cuyos servicios deban pagarse derechos en los términos de la presente Ley, y
+
+> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+e).- Derechos por los servicios de publicación en el Boletín Oficial.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -2865,13 +2877,13 @@ En los Capítulos siguientes se señalan los servicios que quedan sujetos al pag
 
 El monto de las cuotas o tarifas de los derechos que este título establece en cantidades determinadas, se actualizará en los meses de enero y julio de cada año, conforme al factor que se obtenga de acuerdo con el siguiente procedimiento:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
-El factor aplicable para el mes de enero, será el que resulte de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el del mes de junio inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes de mayo entre el del mes de diciembre inmediato anterior.
+El factor aplicable para el mes de enero, será el que resulte de dividir el índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el mes de mayo inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de mayo entre el del mes de noviembre inmediato anterior.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
-Se exceptúa del procedimiento de actualización anterior, a los derechos por servicios por la expedición, cambio de domicilio y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico, los cuales se actualizarán anualmente en el mes de enero, con el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior al de la fecha para el cual se hace el ajuste, entre el citado Indice correspondiente al mes de diciembre del segundo año inmediato anterior al de esa fecha.
+Se exceptúa del procedimiento de actualización anterior, a los derechos por servicios por la expedición, cambio de domicilio y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico, los cuales se actualizarán anualmente en el mes de enero, con el factor que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior al de la fecha para el cual se hace el ajuste, entre el citado índice correspondiente al mes de noviembre del segundo año inmediato anterior al de esa fecha.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -3483,9 +3495,9 @@ El pago de los derechos por la expedición de placas se efectuará dentro de los
 
 El pago de los derechos por revalidación anual de placas se efectuará durante los tres primeros meses del año de calendario que corresponda.
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
-El pago de los derechos por canje de placa se efectuará una vez concluido el periodo de vigencia de las mismas, durante los tres primeros meses del año de calendario que corresponda.
+El pago de los derechos por canje de placas se efectuará por trienio, durante los tres primeros meses de calendario inmediatos posteriores al término de la vigencia de las placas.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -4275,41 +4287,83 @@ Quedan sujetos a las siguientes cuotas:
 
 I.- Servicios catastrales prestados por el Instituto Catastral y Registral del Estado de Sonora, respecto de:
 
-1.- Por copias de antecedentes catastrales y documentos de archivo, por cada hoja. $52.00
+1.- Por copias de antecedentes catastrales y
 
-2.- Por certificación de copias de expedientes y documentos de archivo, catastrales, por cada hoja. $66.00
+documentos de archivo, por cada hoja. $52.00
+
+2.- Por certificación de copias de expedientes
+
+y documentos de archivo, catastrales, por cada hoja. $66.00
 
 3.- Por expedición de certificados catastrales. $75.00
 
-4.- Por expedición de copias de planos catastrales de población, por cada hoja. $120.00
+4.- Por expedición de copias de planos catastrales
 
-5.- Por certificación de copias de cartografía catastral, por cada hoja. $150.00
+de población, por cada hoja. $120.00
 
-6.- Por expedición de copias de cartografía catastral, por cada predio. $56.00
+5.- Por certificación de copias de cartografía
 
-7.- Por asignación de clave catastral a lotes de terreno de fraccionamientos, por cada clave. $22.00
+catastral, por cada hoja. $150.00
 
-8.- Por certificación del valor catastral en la manifestación de traslación de dominio, por cada certificación. $75.00
+6.- Por expedición de copias de cartografía catastral,
 
-9.- Por expedición de certificados de no inscripción de bienes inmuebles. $75.00
+por cada predio. $56.00
 
-10.- Por inscripción de manifestaciones y avisos catastrales (manifestaciones de inmuebles de obra, fusiones y subdivisiones). $36.00
+7.- Por asignación de clave catastral a lotes de
 
-11.- Por expedición de certificados de no propiedad y otros, por cada uno. $75.00
+terreno de fraccionamientos, por cada clave. $22.00
 
-12.- Por expedición de certificados catastrales con medidas y colindancias. $150.00
+8.- Por certificación del valor catastral en la
 
-13.- Por expedición de copias de cartografía rural, por cada hoja. $329.00
+manifestación de traslación de dominio, por
 
-14.- Por expedición de planos de predios rurales a escala convencional. $260.00
+cada certificación. $75.00
 
-15.- Por expedición de cartas geográficas para desarrollo, para uso particular, urbanas turísticas y de uso de suelo, por cada variante de información. $360.00
+9.- Por expedición de certificados de no inscripción
 
-16.- Por consulta de información catastral, por predio. $66.00
+de bienes inmuebles. $75.00
+
+10.- Por inscripción de manifestaciones y avisos
+
+catastrales (manifestaciones de inmuebles de
+
+obra, fusiones y subdivisiones). $36.00
+
+11.- Por expedición de certificados de no propiedad
+
+y otros, por cada uno. $75.00
+
+12.- Por expedición de certificados catastrales con
+
+medidas y colindancias. $150.00
+
+13.- Por expedición de copias de cartografía rural,
+
+por cada hoja. $329.00
+
+14.- Por expedición de planos de predios rurales a
+
+escala convencional. $260.00
+
+15.- Por expedición de cartas geográficas para
+
+desarrollo, para uso particular, urbanas turísticas
+
+y de uso de suelo, por cada variante de
+
+información. $360.00
+
+16.- Por consulta de información catastral,
+
+por predio. $66.00
 
 17.- Por expedición de cédula de registro catastral. $120.00
 
-18.- Por certificación del valor catastral en la manifestación de traslación de dominio para dependencias oficiales, por certificación. $36.00
+18.- Por certificación del valor catastral en la
+
+manifestación de traslación de dominio para
+
+dependencias oficiales, por certificación. $36.00
 
 19.- Por la información que se genere por consulta en línea, de la siguiente manera:
 
@@ -4318,6 +4372,66 @@ a).- Certificado de valor catastral. $40.00
 b).- Ficha catastral. $40.00
 
 c).- Cartografía del predio. $40.00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+20.- Por corrección de ubicación cartográfica $800.00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+21.- Por expedición de Historial Catastral
+
+a) Por el primer antecedente, se causará $96.00
+
+b) Por cada uno de los subsecuentes Antecedentes
+
+catastrales hasta el origen del predio $48.00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+22.- Por expedición de mapa del Estado,
+
+Escala 1:750,000 $350.00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+23.- Por expedición de plano municipal, tamaño
+
+carta $100.00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+24.- Por expedición de plano del municipio
+
+tamaño 70 x 60 cm por cada hoja $200. 00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+25.- Por expedición de mapa didáctico del Estado
+
+de Sonora $200.00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+26.- Por expedición de mapa didáctico de
+
+la República $200.00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+27.- Por expedición de mapa de colonias por
+
+cada hoja $200.00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+28.- Por expedición de cartografía nivel predio con
+
+cuadro de construcción UTM $100.00
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+Por los servicios especiales y urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicite, los cuales se proporcionarán dentro de las 24 horas hábiles siguientes a su solicitud.
 
 La información digitalizada que se produzca por el sistema estatal inmobiliario, podrá ser comercializada por el Instituto Catastral y Registral del Estado de Sonora, quien fijará las normas, medios y las bases de contratación.
 
@@ -4383,13 +4497,7 @@ c).- Para lotes con superficie total a fusionar de
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-5.- Por relotificación a desarrollos industriales,
-
-turísticos o campestres ya autorizados por la
-
-Secretaría de Infraestructura y Desarrollo Urbano,
-
-por lote.
+5.- Por relotificación a desarrollos industriales, turísticos o campestres ya autorizados por la Secretaría de Infraestructura y Desarrollo Urbano, por lote.
 
 a).- Por el proceso de relotificación donde intervengan
 
@@ -4439,7 +4547,7 @@ verificación vehicular obligatoria, respecto de
 
 vehículos destinados al servicio público de
 
-transporte concesionado por el Estado. N$ 3,000.00
+transporte concesionado por el Estado. N$3,000.00
 
 9.- Por la revalidación anual de la autorización para
 
@@ -4449,7 +4557,7 @@ verificación vehicular obligatoria, respecto de
 
 vehículos destinados al servicio público de
 
-transporte concesionado por el Estado. N$ 3,000.00
+transporte concesionado por el Estado. N$3,000.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -4467,21 +4575,21 @@ aspectos de desarrollo urbano $122.00
 
 estudio de impacto ambiental:
 
-a).- Riesgo ambiental. $ 3,615.00
+a).- Riesgo ambiental. $3,615.00
 
-b).- Informe preventivo. $ 2,202.00
+b).- Informe preventivo. $2,202.00
 
 c).- Manifestación de impacto ambiental, modalidad
 
-general. $ 4,267.00
+general. $4,267.00
 
 d).- Manifestación de impacto ambiental, modalidad
 
-intermedia. $ 6,401.00
+intermedia. $6,401.00
 
 e).- Manifestación de impacto ambiental, modalidad
 
-específica. $ 9,602.00
+específica. $9,602.00
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4489,7 +4597,7 @@ específica. $ 9,602.00
 
 y dictamen para:
 
-a).- Otorgamiento de licencia de funcionamiento. $ 3,773.00
+a).- Otorgamiento de licencia de funcionamiento. $3,773.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4497,7 +4605,7 @@ b).- Actualización de la licencia de funcionamiento $1,853.00
 
 c).- Actualización de la autorización en materia
 
-de impacto ambiental. $ 1,578.00
+de impacto ambiental. $1,578.00
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4505,11 +4613,11 @@ de impacto ambiental. $ 1,578.00
 
 a).- Empresas generadoras de residuos sólidos
 
-no peligrosos. $ 240.00
+no peligrosos. $240.00
 
 b).- Prestadores de servicios de estudio de impacto
 
-ambiental. $ 2,366.00
+ambiental. $2,366.00
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4547,7 +4655,7 @@ fuera del límite del centro de población $3,500.00
 
 prestadores de servicios de estudio de impacto
 
-ambiental. $ 1,396.00
+ambiental. $1,396.00
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -4557,95 +4665,133 @@ III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-1.- Aplicación de examen para acreditar a responsables técnicos de plaguicidas y sustancias tóxicas $800.00
+1.- Aplicación de examen para acreditar a responsables
+
+técnicos de plaguicidas y sustancias tóxicas $800.00
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-2.- Visitas de verificación sanitaria solicitadas por los interesados. $500.00
+2.- Visitas de verificación sanitaria solicitadas por
+
+los interesados. $500.00
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-3.- Diligencias de muestreo de productos solicitadas por los interesados. $500.00
+3.- Diligencias de muestreo de productos solicitadas
+
+por los interesados. $500.00
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-4.- Asesorías en materia administrativa y procesos higiénicos solicitadas por los interesados. $1,500.00
+4.- Asesorías en materia administrativa y procesos
+
+higiénicos solicitadas por los interesados. $1,500.00
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-5.- Verificación de balance de medicamentos controlados por la Secretaría de Salud, solicitados por los interesados. $1.000.000
+5.- Verificación de balance de medicamentos
+
+controlados por la Secretaría de Salud,
+
+solicitados por los interesados. $1.000.000
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-6.- Capacitación en manejo y dispensación de medicamentos a los operadores de farmacias, droguerías, boticas, almacenes de medicamentos, tanto públicos como privados $ 600.00
+6.- Capacitación en manejo y dispensación de
+
+medicamentos a los operadores de farmacias,
+
+droguerías, boticas, almacenes de medicamentos,
+
+tanto públicos como privados $600.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-7.- Por autorización de cremación de cadáveres, de seres humanos, sus partes y restos áridos. $169.00
+7.- Por autorización de cremación de cadáveres,
+
+de seres humanos, sus partes y restos áridos. $169.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-8.- Capacitación en la preparación y elaboración, en el manejo de alimentos para establecimientos semifijo. $ 80.00
+8.- Capacitación en la preparación y elaboración,
+
+en el manejo de alimentos para establecimientos
+
+semifijo. $80.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-9.- Capacitación en la preparación, elaboración, conservación y manejo de alimentos, de acuerdo a las actividades que corresponden a las Normas Oficiales Mexicanas y Normas Técnicas. $400.00
+9.- Capacitación en la preparación, elaboración,
 
-10.- Autorización para técnico en embalsamamiento. N$ 160.00
+conservación y manejo de alimentos, de
+
+acuerdo a las actividades que corresponden a
+
+as Normas Oficiales Mexicanas y Normas Técnicas. $400.00
+
+10.- Autorización para técnico en embalsamamiento. N$160.00
 
 11.- Expedición de copias certificadas de documentos,
 
-por cada hoja u oficio. N$ 3.20
+por cada hoja u oficio. N$3.20
 
 12.- Reposición de constancias o duplicado de las
 
-mismas, así como calcomanías. N$ 16.00
+mismas, así como calcomanías. N$16.00
 
-13.- Compulsa de documentos por hoja. N$ 3.20
+13.- Compulsa de documentos por hoja. N$3.20
 
 14.- Legalización de firmas por el Secretario del
 
-Ramo. N$ 32.00
+Ramo. N$32.00
 
-15.- Copia de planos certificados o no certificados. N$ 16.00
+15.- Copia de planos certificados o no certificados. N$16.00
 
 16.- Análisis físicos, químicos o bacteriológicos de:
 
-A).- Leches N$ 105.00
+A).- Leches N$105.00
 
-B).- Carnes frías N$ 160.00
+B).- Carnes frías N$160.00
 
-C).- Productos lácteos N$ 105.00
+C).- Productos lácteos N$105.00
 
-D).- Bebidas alcohólicas y no alcohólicas N$ 160.00
+D).- Bebidas alcohólicas y no alcohólicas N$160.00
 
-E).- Frituras de harina N$ 160.00
+E).- Frituras de harina N$160.00
 
-F).- Especies N$ 160.00
+F).- Especies N$160.00
 
-G).- Hielo N$ 80.00
+G).- Hielo N$80.00
 
-H).- Paletas N$ 109.00
+H).- Paletas N$109.00
 
-I).- Nieve N$ 160.00
+I).- Nieve N$160.00
 
-J).- Agua N$ 105.00
+J).- Agua N$105.00
 
-K).- Otros N$ 160.00
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-17.- Capacitación en materia de seguridad y sanidad, manejo de sustancias tóxicas o peligrosas, de acuerdo a las Normas Oficiales Mexicanas y Normas Técnicas de la materia. $400.00
+K).- Otros N$160.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-18.- Capacitación sobre especificaciones técnicas y sanitarias de las albercas, de acuerdo a la norma técnica de la materia. $400.00
+17.- Capacitación en materia de seguridad y
+
+sanidad, manejo de sustancias tóxicas o
+
+peligrosas, de acuerdo a las Normas Oficiales
+
+Mexicanas y Normas Técnicas de la materia. $400.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+18.- Capacitación sobre especificaciones técnicas
+
+y sanitarias de las albercas, de acuerdo a la norma
+
+técnica de la materia. $400.00
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-19.- Autorización para exhumación de cadáveres
-
-y restos áridos, como sigue:
+19.- Autorización para exhumación de cadáveres y restos áridos, como sigue:
 
 A).- Para la exhumación de restos áridos para ser
 
@@ -4677,11 +4823,11 @@ judicial o por el Ministerio Público en un proceso penal.
 
 IV.- Servicios Prestados por la Secretaría de Educación y Cultura del Estado.
 
-1.- Revisión de documentos por hoja. N$ 3.00
+1.- Revisión de documentos por hoja. N$3.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-2.- Por constancia de estudios de educación básica. N$ 15.00
+2.- Por constancia de estudios de educación básica. N$15.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -4705,29 +4851,37 @@ c).- De educación superior. $210.00
 
 5.- Expedición de duplicado de certificados de
 
-estudios. N$ 10.00
+estudios. N$10.00
 
 6.- Exámenes a títulos de suficiencia:
 
-a).- de educación primaria. N$ 3.00
+a).- de educación primaria. N$3.00
 
-b).- de tipos media y superior por materia. N$ 3.00
+b).- de tipos media y superior por materia. N$3.00
 
 7.- Exámenes extraordinarios de tipo media y
 
-superior por materia. N$ 3.00
+superior por materia. N$3.00
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-8.- Resolución de trámite de reconocimiento de validez oficial de estudios a particulares por cada plan de estados de tipo superior. N$ 150.00
+8.- Resolución de trámite de reconocimiento de
+
+validez oficial de estudios a particulares por cada
+
+plan de estados de tipo superior. N$150.00
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-9.- Resolución de trámite de reconocimiento de validez oficial de estudios a particulares por cada plan de estudios de tipo medio. N$ 150.00
+9.- Resolución de trámite de reconocimiento de
+
+validez oficial de estudios a particulares por cada
+
+plan de estudios de tipo medio. N$150.00
 
 10.- Registro de particulares que imparten
 
-estudios sin reconocimiento de validez oficial. N$ 150.00
+estudios sin reconocimiento de validez oficial. N$150.00
 
 11.- Las instituciones particulares incorporadas que
 
@@ -4763,7 +4917,7 @@ hubieren otorgado por disposición de la Secretaría.
 
 profesionales egresados de centros de estudios
 
-técnicos, universitarios y tecnológicos. $ 140.00
+técnicos, universitarios y tecnológicos. $140.00
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -4771,29 +4925,31 @@ técnicos, universitarios y tecnológicos. $ 140.00
 
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-14.- Registro de colegio de profesionistas. $ 3,000.00
+14.- Registro de colegio de profesionistas. $3,000.00
 
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 15.- Registro de modificación de estatutos de
 
-colegio de profesionistas. $ 300.00
+colegio de profesionistas. $300.00
 
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 16.- Registro de consejo directivo de colegio de
 
-profesionistas. $ 300.00
+profesionistas. $300.00
 
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 17.- Registro de un socio de colegio de
 
-profesionistas. $ 19.00
+profesionistas. $19.00
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-18.- Constancia de estudios y labor docente de tipo medio superior. $26.00
+18.- Constancia de estudios y labor docente de tipo
+
+medio superior. $26.00
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4813,7 +4969,15 @@ El pago de estos derechos no implica la autorización para el funcionamiento de 
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-3.- Por los servicios especiales de seguridad pública que preste el Estado de Sonora a particulares, se cobrará por semestre de calendario en forma anticipada, por cada elemento de seguridad en activo. $18,600.00
+3.- Por los servicios especiales de seguridad
+
+pública que preste el Estado de Sonora a
+
+particulares, se cobrará por semestre de
+
+calendario en forma anticipada, por cada
+
+elemento de seguridad en activo. $18,600.00
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4827,123 +4991,169 @@ VI.- Servicios prestados por la Secretaría de la Contraloría General.
 
 La Secretaría de Hacienda y las entidades paraestatales de la administración pública estatal, al hacer el pago de las estimaciones de obra o adquisiciones, retendrán el importe del derecho a que se refiere el párrafo anterior,
 
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
 VII.- Servicios prestados por la Unidad Estatal de Protección Civil.
 
-1.- Por proporcionar asesoría para el la (sic) establecimiento de la unidad interna de protección civil que deberán contar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños por la población. $1.000.00
+1.- Por proporcionar asesoría para el la (sic) elaboración
 
-2.- Por dictaminar y/o autorizarlos programas internos de protección civil, que deberán elaborar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños para la población, por metro cuadrado de construcción.
+del Programa Interno de Protección Civil y el
 
-a).- Viviendas para cinco familias o más edificaciones con habitaciones colectivas para más de veinte personas $2.00
+establecimiento de la unidad interna de protección
 
-b).- Edificios públicos y salas de espectáculos. $2.00
+civil que deberán contar los propietarios,
 
-c).- Instituciones educativas. $1.00
+poseedores, administradores o encargados de
 
-d).- Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro. $1.50
+inmuebles o edificaciones que por su uso y destino
 
-e).- Comercios. $1.50
+concentren o reciban una afluencia masiva de
 
-f).- Almacenes y bodegas. $2.00
+personas o bien representen un riesgo de daños
 
-g).- Industrias y talleres. $2.00
+para la población, por hora incluyendo entregable. $200.00
 
-h).- Oficinas públicas o privadas. $1.50
+2.- Por dictaminar y/o autorizar los programas
 
-i).- Terminales terrestres, aéreas y marítimas. $2.00
+internos de protección civil, que deberán elaborar
 
-j).- Granjas. $1.20
+los propietarios, poseedores, administradores o
 
-k).- Edificaciones para el almacenamiento, distribución o expendio de hidrocarburos. $3.00
+encargados de inmuebles o edificaciones que por
 
-l).- Centrales de correo, teléfonos, telégrafos, radio, televisión y sistemas de microondas. $1.50
+su uso y destino concentren o reciban una
 
-3.- Por la revalidación anual de los programas internos que deberán elaborar los propietarios, poseedores, administradores o encargados de Inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños a la población. $2.000.00
+afluencia masiva de personas o bien representen
 
-4.- Por dictámenes previos a la autorización de los programas internos de protección civil, que deberán elaborar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas, o bien representen un riesgo de daños para la población. En los siguientes conceptos:
+un riesgo de daños para la población. $1800.00
 
-a).- Por los procedimientos para la colocación de señales. $300.00
+3.- Por la revalidación anual de los programas internos
 
-b).- Por los programas de mantenimiento $500.00
+que deberán elaborar los propietarios, poseedores,
 
-c).- Por los planes de contingencias por metro cuadrado, como sigue:
+administradores o encargados de inmuebles o
 
-c). 1 Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas. $2.00
+edificaciones que por su uso y destino concentren
 
-c). 2 Edificios públicos y salas de espectáculos. $2.00
+o reciban una afluencia masiva de personas o
 
-c).3 Instituciones educativas. $1.00
+bien representen un riesgo de daños a la población. $1800.00
 
-c). 4 Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro. $1.50
+4.- Por la capacitación en materia de protección civil por un tiempo mínimo de 4 horas, como sigue:
 
-c). 5 Comercios $1.50
+a).- Por la capacitación en materia de protección civil por un tiempo mínimo de 4 horas, como sigue:
 
-c). 6 Almacenes y bodegas. $2.00
+a)-1.- De 1 a 19 personas $12,000.00
 
-c). 7 Industrias y talleres. $2.00
+a)-2.- De 20 a 29 personas $24,000.00
 
-c). 8 Oficinas públicas o privadas. $1.50
+a)-3.- De 30 o más personas $36,000.00
 
-c). 9. Terminales terrestres, aéreas y marítimas. $2.00
+b).- Por la formación de brigadas internas de protección civil, como sigue:
 
-c).10 Granjas. $1.20
+b)-1.- De 4 a 9 personas. $15,000.00
 
-c).11 Edificaciones para el almacenamiento, distribución o expendio de hidrocarburos. $3.00
+b)-2.- De 10 a 19 personas. $20,000.00
 
-c. 12 Centrales de correo, teléfonos, telégrafos, radio, televisión y sistemas de microondas. $1.50
+b)-3.- De 20 a 29 personas. $30,000.00
 
-d).- Por los sistemas de alertamiento. $300.00
+b)-4.- De 30 o más personas. $40,000.00
 
-e).- Diagnóstico de riesgo. $3.000.00
+5.- Por la autorización de diagnóstico de riesgo en
 
-f).- Por la capacitación en materia de protección civil por un tiempo mínimo de 4 horas, como sigue:
+materia de protección civil que deberán presentar
 
-f). 1 10 personas $12.000.00
+las personas que pretendan construir inmuebles
 
-f). 2 20 personas $24.000.00
+que por su uso y destino concentren o reciban
 
-f). 3 30 personas $36.000.00
+una afluencia masiva de personas, o bien
 
-g).- Por la formación de brigadas internas de protección civil, como sigue:
-
-g). 1 De 4 a 9 personas. $15.000.00
-
-g). 2 10 personas. $20.000.00
-
-g). 3 20 personas. $30.000.00
-
-g) 4 30 personas. $40.000.00
-
-5.- Por la autorización de diagnóstico de riesgo en materia de protección civil que deberán presentar las personas que pretendan construir inmuebles que por su uso y destino concentren o reciban una afluencia masiva de personas, o bien representen un riesgo de daños para la población. $3.000.00
+representen un riesgo de daños para la población. $1,000.00
 
 6.- Dictamen para la emisión favorable por parte del Gobernador del Estado, para el uso de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente.
 
-a).- Campos de tiro y clubes de caza. $2.500.00
+a).- Campos de tiro y clubes de caza. $2,500.00
 
-b).- Instalaciones en que se realiza compra-venta de sustancias químicas. $3.000.00
+b).- Instalaciones en que se realiza compra venta
 
-c).- Explotación minera o de bancos de cantera. $3.000.00
+de sustancias químicas. $3,000.00
 
-d).- Industrias químicas. $3.000.00
+c).- Explotación minera o de bancos de cantera. $3,000.00
 
-e).- Fábrica de elementos pirotécnicos.$3.000.00
+d).- Industrias químicas. $3,000.00
 
-f).- Talleres de artificios pirotécnicos. $2.000.00
+e).- Fábrica de elementos pirotécnicos $3,000.00
 
-g).- Bodegas y/o polvorines para artificios pirotécnicos. $3.000.00
+f).- Talleres de artificios pirotécnicos. $2,000.00
 
-h).- Bodegas y/o polvorines para sustancias químicas. $3.000.00
+g).- Bodega y/o polvorines para artificios
+
+pirotécnicos. $3,000.00
+
+h).- Bodega y/o polvorines para sustancias
+
+químicas. $3,000.00
 
 7.- Para la elaboración de peritajes, a solicitud del interesado, de la evaluación inicial de la contingencia que se presente en la Entidad, por metro cuadrado de construcción, como sigue:
 
-a).- Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas. $10.00
+a).- Viviendas para cinco familias o más y
+
+edificaciones con habitaciones colectivas para
+
+más de veinte personas. $2.50
+
+b).- Edificios públicos y salas de espectáculos. $2.50
+
+c).- Instituciones educativas. $1.25
+
+d).- Hospitales, centros médicos, laboratorios,
+
+maternidades y puestos de socorro. $1.815
+
+e).- Comercios. $1.815
+
+f).- Almacenes y bodegas. $2.50
+
+g).- Industrias y talleres. $1.785
+
+h).- Oficinas públicas o privadas. $2.50
+
+i).- Terminales terrestres, aéreas y marítimas. $1.50
+
+j).- Granjas. $1.50
+
+k).- Centrales de correo, teléfonos, telégrafos,
+
+radio, televisión y sistemas de microondas. $1.875
+
+8.- Para la elaboración de peritajes a solicitud de parte, en las edificaciones para el almacenamiento, distribución o expendio de hidrocarburo, como sigue:
+
+a).- De 1000 a 5000 litros. $10,000.00
+
+b).- De 5001 a 20000 litros. $15,000.00
+
+c).- De 20001 a 100000 litros. $25,000.00
+
+d).- De 100001 a 250000 litros. $35,000.00
+
+e).- De 250001 litros en adelante $60,000.00
+
+9.- Por la elaboración de peritajes de causalidad, a solicitud del interesado, que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil, por metro cuadrado de construcción.
+
+a).- Viviendas para cinco familias o más y
+
+edificaciones con habitaciones colectivas para más
+
+de veinte personas. $10.00
 
 b).- Edificios públicos y salas de espectáculos. $10.00
 
 c).- Instituciones educativas. $5.00
 
-d).- Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro, $7.50
+d).- Hospitales, centros médicos, laboratorios,
+
+maternidades y puestos de socorro. $7.50
 
 e).- Comercios. $7.50
 
@@ -4957,79 +5167,35 @@ i).- Terminales terrestres, aéreas y marítimas. $10.00
 
 j).- Granjas. $6.00
 
-k).- Centrales de correo, teléfonos, telégrafos, radio, televisión y sistemas de microondas. $7.50
+k).- Centrales de correo, teléfonos, telégrafos;
 
-8.- Para la elaboración de peritajes a solicitud de parte, en las edificaciones para el almacenamiento, distribución o expendio de hidrocarburo, como sigue:
+radio, televisión y sistemas de microondas. $10.00
 
-a).- De 1000 a 5000 litros $10.000.00
+10.- Para la elaboración de peritajes de causalidad a solicitud del interesado en las edificaciones para el almacenamiento, distribución o expendio de hidrocarburo, como sigue:
 
-b).- De 5001 a 20000 litros. $15.000.00
+a).- De 1000 a 5000 litros. $15,000.00
 
-c).- De 2001 a 100000 litros. $25.000.00
+b).- De 5001 a 20000 litros. $20,000.00
 
-d).- De 100001 a 250000 litros. $35.000.00
+c).- De 20001 a 100000 litros. $30,000.00
 
-e).- De 250001 litros en adelante. $60.000.00
+d).- De 100001 a 250000 litros. $40,000.00
 
-9.- Por la elaboración de peritajes de causalidad, a solicitud del interesado, que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil, por metro cuadrado.
+e).- De 250001 litros en adelante. $60,000.00
 
-a).- Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas. $20.00
+11.- Por la elaboración de programas internos de
 
-b).- Edificios públicos y salas de espectáculos. $20.00
+protección civil, con el que deberán contar
 
-c).- instituciones educativas. $10.00
+los propietarios, poseedores, administradores
 
-d).- Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro. $15.00
+o encargados de inmuebles o edificaciones que
 
-e).- Comercios. $15.00
+por su uso y destino concentren o reciban una
 
-f).- Almacenes y bodegas. $20.00
+afluencia masiva de personas, o bien representen
 
-g).- Industrias y talleres. $20.00
-
-h).- Oficinas públicas o privadas. $15.00
-
-i).- Terminales terrestres, aéreas y marítimas. $20.00
-
-j).- Granjas. $12.00
-
-k).- Centrales de correo, telefónos, telégrafos, radio, televisión y sistemas de microondas. $15.00
-
-10.- Para la elaboración de peritaje de causalidad a solicitud del interesado en las edificaciones para el almacenamiento, distribución o expendio de hidrocarburo, como sigue:
-
-a).- De 1000 a 5000 litros. $15.000.00
-
-b).- De 5001 a 20000 litros. $20.000.00
-
-c).- De 20001 a 100000 litros. $ 30.000.00
-
-d).- De 100001 a 250000 litros. $40.000.00
-
-e).- De 250001 litros en adelante. $60.000.00
-
-11.- Por la elaboración de programas internos de protección civil, con el que deberán contar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas, o bien representen un riesgo de daños para la población, por metro cuadrado de construcción.
-
-a).- Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas. $10.00
-
-b).-Edificios públicos y salas de espectáculos. $10.00
-
-c).- Instituciones educativas. $5.00
-
-d).- Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro. $5.00
-
-e).- Comercios. $10.00
-
-f).- Almacenes y bodegas. $10.00
-
-g).- Industrias y talleres. $10.00
-
-h).- Oficinas públicas o privadas, $5.00
-
-i).- Terminales terrestres, aéreas y marítimas. $10.00
-
-j).- Granjas. $10.00
-
-k).- Centrales de correo, teléfonos, telégrafos, radio, televisión y sistemas de microondas. $5.00
+un riesgo de daños para la población. $5,000.00
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
@@ -5448,3 +5614,15 @@ B.O. 2 DE ABRIL DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a las del presente decreto.
+
+B.O. 17 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los artículos primero y segundo del presente Decreto entrarán en vigor a partir del 1° de enero de 2008, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+El artículo tercero del presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El próximo canje de placas para vehículos de propulsión mecánica deberá efectuarse en el ejercicio fiscal de 2008 y así sucesivamente en los trienios posteriores.
