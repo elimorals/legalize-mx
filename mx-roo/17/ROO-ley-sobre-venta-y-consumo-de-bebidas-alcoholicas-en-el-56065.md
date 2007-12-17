@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2007-06-18"
+last_updated: "2007-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -153,9 +153,11 @@ En todos los casos se deberá dar aviso a través de los medios de comunicación
 
 La Licencia de Bebidas Alcohólicas en lo general será personal e inembargable. Podrá ser transferible a un tercero cuando el titular de la Licencia solicite por escrito este acto al Ejecutivo, y sea autorizado a través de la Secretaría mediante un documento de carácter oficial que será emitido cuando se hayan satisfecho los requisitos que se establecen en el Artículo 12, y a lo señalado en la fracción III del Artículo 9 de la presente Ley, así como lo que estipule el Reglamento de la misma, y toda vez que no exista adeudo o trámite pendiente relativo a las obligaciones emanadas de la Licencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 12.
 
-La transferencia de la Licencia de Bebidas Alcohólicas a que se refiere el artículo anterior podrá ser permanente o temporal.
+La transferencia de la licencia de bebidas alcohólicas a que se refiere el artículo anterior podrá ser permanente o temporal.
 
 Se entenderá por transferencia permanente cuando el titular de la Licencia ceda la titularidad de la misma.
 
@@ -177,7 +179,9 @@ III.- La transferencia permanente mediante la cesión de la titularidad de la Li
 
 Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en sus fracciones I, II, IV, V, VI y VII.
 
-IV.- La transferencia temporal mediante comodato para el uso de los derechos y obligaciones que dicha licencia otorga será viable toda vez que el comodatario presente copia con firmas originales del contrato de comodato respectivo, y haya cumplido con lo señalado en los Artículos 14 y 15 de la presente ley. Respecto al inciso g) del Artículo 15, el comodatario deberá pagar por ejercicio fiscal total o la parte proporcional que corresponda de acuerdo a lo previsto en la Ley de Hacienda del Estado de Quintana Roo. El contrato de comodato deberá renovarse anualmente;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+IV.- La transferencia temporal mediante comodato para el uso de los derechos y obligaciones que dicha licencia otorga será viable todo vez que el comodatario presente copias con firmas originales del contrato de comodato respectivo, y haya cumplido con lo señalado en los artículos 14 y 15 de la presente ley. Respecto al inciso g) del artículo 15, el comodatario deberá pagar por ejercicio fiscal total o la parte proporcional que corresponda de acuerdo a lo previsto en la ley de Hacienda del Estado de Quintana Roo. La autorización de esta transferencia temporal mediante comodato deberá de renovarse anualmente.
 
 Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en sus fracciones I, II, IV, V, VI y VII.
 
@@ -233,6 +237,8 @@ De manera particular, en el caso de que el titular de una Licencia de Bebidas Al
 
 De igual forma, en el caso de pérdida o extravío del documento original de la Licencia de Bebidas Alcohólicas, el titular deberá reportarlo por escrito a la Secretaría, y solicitar al Ejecutivo su reposición de acuerdo a lo señalado en el Reglamento de esta Ley, así como cubrir el pago de derechos establecidos para este caso en la Ley de Hacienda del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 17.
 
 Los giros que se podrán autorizar en la Licencia para la venta de bebidas alcohólicas, serán los siguientes:
@@ -253,7 +259,11 @@ VII.- Venta de cervezas en envase cerrado;
 
 VIII.- Venta de vinos y licores en envase cerrado para distribución al mayoreo;
 
-IX.- Venta de cervezas en envase cerrado para distribución al mayoreo.
+IX.- Venta de cervezas en envase cerrado para distribución al mayoreo;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+X.- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
 #### SECCIÓN TERCERA. DE LA LICENCIA ÚNICA
 
@@ -331,7 +341,9 @@ VI.- Minisuper.- Lugar donde se pueden vender bebidas alcohólicas en envase cer
 
 VII.- Cabaret, Centro Nocturno, Centro de Espectáculos, Piano - Bar, Discoteca, Bar, Peña.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo, y se distinguen porque pueden presentar espectáculos y música en vivo, o por medios electrónicos;
 
-VIII.- Cervecería, Cantina.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Cervecería, Cantina.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo, distinguiéndose en que no se requiere la venta y consumo de alimentos;
 
 IX.- Billar, Boliche, Balneario, Café Cantante, Club Social, Karaoke-bar.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo, y se distinguen porque se realizan actividades de esparcimiento como culturales, deportivas, acuáticas, sociales o de entretenimiento;
 
@@ -351,9 +363,11 @@ El Consejo Estatal Consultivo, podrá rendir opinión sobre la inclusión de aqu
 
 ### CAPÍTULO IV. DE LAS RESTRICCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 26.
 
-No se otorgará la Licencia de Bebidas Alcohólicas en los siguientes casos:
+No se otorgará la licencia de bebidas alcohólicas en los siguientes casos:
 
 I.- Cuando el solicitante haya sido condenado y la sentencia haya causado ejecutoria, dentro de los últimos diez años, por alguno de los delitos considerados como graves por el Código Federal de Procedimientos Penales y el Código de Procedimientos Penales del Estado. El plazo a que este artículo se refiere, se computará desde la fecha en que hayan quedado compurgadas todas las sanciones impuestas;
 
@@ -363,9 +377,11 @@ III.- Cuando el solicitante haya tenido una Licencia de Bebidas Alcohólicas, y 
 
 IV.- Cuando el solicitante pretenda domiciliar la Licencia de Bebidas Alcohólicas, para los establecimientos previstos en las fracciones V, VI, VIII y XV del artículo 25 de esta Ley, en un inmueble que se encuentre ubicado dentro de un rango de 200 metros radiales de otro del mismo tipo o de los demás señalados en esta fracción, excepto en las zonas turísticas. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados;
 
-V.- Cuando el solicitante pretenda domiciliar la Licencia de Bebidas Alcohólicas, para los giros previstos en las fracciones III, IV, V, VI, VII, VIII y IX del Artículo 17 de esta Ley, en un inmueble ubicado a menos de 200 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamiento. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-Para efectos del párrafo anterior, se entenderá por área de equipamiento lo dispuesto en el artículo 2 fracción XII de la Ley de Asentamientos Humanos del Estado de Quintana Roo.
+V.- Cuando el solicitante pretenda domiciliar la licencia bebidas alcohólicas, para los giros previstos en las fracciones III, IV, V, VI, VII, VIII, IX y X del artículo 17 de esta Ley, en un inmueble ubicado a menos de 200 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamiento. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
+
+Para efectos del párrafo anterior, se entenderá por área de equipamiento lo dispuesto en el artículo 2 fracción XII de la Ley de Asentamientos Humanos del Estado de Quintana Roo;
 
 VI.- Cuando el solicitante pretenda domiciliar la Licencia de Bebidas Alcohólicas en unidades habitacionales, y colonias de nueva creación que no cuenten con los servicios primarios de electricidad y agua potable y cuando menos dos de los siguientes, parque público, cancha deportiva, plantel educativo, centro de salud, o áreas de equipamiento destinadas para ellos;
 
@@ -383,21 +399,29 @@ No aplicará lo señalado en las fracciones IV, V y VI del Artículo 26 de la pr
 
 ### CAPÍTULO V. DE LAS OBLIGACIONES DEL TITULAR DE LA LICENCIA DE BEBIDAS ALCOHÓLICAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 29.
 
-Son obligaciones del titular de la Licencia de Bebidas Alcohólicas las siguientes:
+Son obligaciones del titular de la licencia de bebidas alcohólicas las siguientes:
 
 I.- Solicitar el refrendo de los derechos de su Licencia de Bebidas Alcohólicas dentro de los dos primeros meses de cada año de conformidad al Artículo 19 de esta Ley;
 
 II.- Tener en un lugar visible del establecimiento el documento original vigente de la Licencia de Bebidas Alcohólicas o copia de la Licencia certificada por la Secretaría. Esta certificación tendrá vigencia hasta el siguiente período en que se deberá refrendar los derechos de la misma;
 
-De igual manera deberá tener en un lugar visible el documento original autorizado de la Secretaría, respecto al contrato de comodato, o en su defecto una copia certificada por la Secretaría. Esta certificación tendrá vigencia de acuerdo a lo señalado en la fracción IV del Artículo 12 de la presente Ley.
+De igual manera deberá tener en un lugar visible el documento original autorizado de la Secretaría, respecto al contrato de comodato, o en su defecto una copia certificada por la Secretaría. Esta certificación tendrá vigencia de acuerdo a lo señalado en la fracción IV del Artículo 12 de la presente Ley;
 
 III.- Permitir a los notificadores y/o inspectores designados por las autoridades fiscales competentes el acceso al lugar, así como mantener a su disposición los documentos que le soliciten relacionados con el motivo de la visita. También deberán permitir la verificación de las mercancías que se encuentran en el establecimiento, relacionadas con la venta de bebidas alcohólicas;
 
 IV.- Hacer del conocimiento de la autoridad competente cuando detecte actos que pongan en peligro la seguridad e integridad de los habitantes del área y/o el orden de los establecimientos;
 
-V.- No vender, bajo ninguna circunstancia, bebidas alcohólicas a menores de 18 años.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+V.- No vender, bajo ninguna circunstancia, bebidas alcohólicas a menores de 18 años, ni permitirles la entrada en los giros señalados en las fracciones III y IV del artículo 17 esta Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+VI.- No permitir el consumo dentro de los límites del establecimiento en los casos de venta de bebidas alcohólicas en envase cerrado, salvo los casos que permita la ley expresamente.
 
 ### CAPÍTULO VI. DE LA INSPECCIÓN
 
@@ -433,9 +457,11 @@ Si del resultado de las inspecciones realizadas se desprende la comisión de hec
 
 #### SECCIÓN PRIMERA. DE LAS INFRACCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 32.
 
-Se consideran infracciones a las disposiciones establecidas en esta ley, las siguientes:
+Se consideran infracciones a las disposiciones establecidas en esta Ley, las siguientes:
 
 I.- La venta de bebidas alcohólicas sin la Licencia de Bebidas Alcohólicas o el Permiso correspondiente;
 
@@ -447,7 +473,9 @@ IV.- Vender bebidas alcohólicas en establecimientos no autorizados por esta ley
 
 V.- Cuando la venta de bebidas alcohólicas al público en general se realice vía telefónica y se otorgue el servicio de entrega a domicilio;
 
-VI.- Vender bebidas alcohólicas a menores de 18 años de edad;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+VI.- Vender bebidas alcohólicas a menores de 18 años de edad, y permitir su entrada a los giros señalados en las fracciones III y IV del artículo 17 de esta Ley;
 
 VII.- Vender bebidas alcohólicas los días y horas en que exista prohibición expresa por la autoridad competente;
 
@@ -471,7 +499,11 @@ XVI.- Retirar o destruir los sellos de clausura puestos por la autoridad;
 
 XVII.- No refrendar los derechos que otorga la Licencia de Bebidas Alcohólicas en los plazos, términos y condiciones previstos en esta Ley y su Reglamento;
 
-XVIII.- La comisión de actos por el titular de la Licencia de Bebidas Alcohólicas, sus empleados o por el que legalmente la explote dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, o cuando siendo atribuible a terceros, se realicen aquellos con consentimiento del titular de la Licencia o del que legalmente la explote.
+XVIII.- La comisión de actos por el titular de la Licencia de Bebidas Alcohólicas, sus empleados o por el que legalmente la explote dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, o cuando siendo atribuible a terceros, se realicen aquellos con consentimiento del titular de la Licencia o del que legalmente la explote;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+XIX.- Permitir el consumo dentro de los limites del establecimiento en los casos de venta de bebidas alcohólicas en envase cerrado, salvo los casos que permita la ley expresamente.
 
 #### SECCIÓN SEGUNDA. DE LA IMPOSICIÓN DE LAS SANCIONES
 
@@ -531,17 +563,29 @@ Cuando se haya sancionado con multas a un infractor y éste gozaba de los derech
 
 Se aplicarán las sanciones por violaciones a la presente ley conforme a lo siguiente:
 
-I.- Multa de cuatro mil uno hasta de cinco mil días de S.M.G., al que cometa las infracciones señaladas en el Artículo 32 fracciones I, II, IV y X de esta Ley;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-II.- Multa de tres mil uno hasta cuatro mil días de S.M.G., al que cometa las infracciones señaladas en el Artículo 32 fracciones V, VI, VII, VIII, XIV y XV de esta Ley;
+I.- Multa de quinientos hasta mil días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracciones I, II, IV y X de esta Ley.
 
-III.- Multa de dos mil uno hasta tres mil días de S.M.G., al que cometa las infracciones señaladas en el Artículo 32 fracciones IX, XI, XVI y XVIII de esta Ley;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-IV.- Multa de mil uno hasta dos mil días de S.M.G., al que cometa las infracciones señaladas en el Artículo 32 fracción XII de esta Ley;
+II.- Multa de cuatrocientos hasta ochocientos días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracciones V, VI, VII, VIII, XIV y XV de esta Ley.
 
-V.- Multa de quinientos uno hasta mil días de S.M.G., al que cometa las infracciones señaladas en el Artículo 32 fracción XVII de esta Ley;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-VI.- Multa de quince hasta quinientos días de S.M.G., al que cometa las infracciones señaladas en el Artículo 32 fracciones III y XIII de esta Ley.
+III.- Multa de trescientos cincuenta hasta setecientos días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracciones IX, XI, XVI y XVIII de esta Ley.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+IV.- Multa de doscientos hasta seiscientos días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracción XII de esta Ley.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+V.- Multa de cien hasta cuatrocientos días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracción XVII de esta Ley.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+VI.- Multa de quince hasta cien días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracciones III, XIII y XIX de esta Ley.
 
 Las multas establecidas en las fracciones anteriores, se impondrán sin perjuicio de las demás sanciones que esta Ley disponga.
 
@@ -611,9 +655,11 @@ Si quien resulte responsable del rompimiento de los sellos es el titular de la l
 
 Se entiende por clandestinaje la venta de bebidas alcohólicas sin contar con la Licencia de Bebidas Alcohólicas o Permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 52.
 
-Cuando en uso de sus facultades de inspección las autoridades encargadas de realizar actos de inspección y vigilancia considerados en esta ley, detecten lo establecido en el Artículo anterior, y habiéndose agotado el procedimiento previsto en el Capítulo VI de esta Ley, independientemente de la clausura y multas que pudieran imponer, al emitir su resolución, se podrá ordenar en la misma, el decomiso del producto en existencia.
+Cuando en uso de sus facultades de inspección las autoridades encargadas de realizar actos de inspección y vigilancia considerados en esta Ley, detecten lo establecido en el artículo anterior, independientemente de las sanciones que pudieran imponer al emitir su resolución, se podrá ordenar de manera inmediata la clausura del establecimiento y el decomiso de las bebidas alcohólicas en existencia.
 
 ###### ARTÍCULO 53.
 
@@ -669,9 +715,11 @@ Una vez tomado el acuerdo correspondiente, se notificará por escrito al Titular
 
 El Ejecutivo por conducto de la Secretaría al resolver sobre un procedimiento de revocación, apreciará el valor de las pruebas ofrecidas por el interesado y expondrá en sus resoluciones los razonamientos que funden y motiven su decisión.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 60.
 
-Transcurridos los términos a que se refiere el segundo párrafo del Artículo 57, el Ejecutivo por conducto de la Secretaría, dentro del término de treinta días naturales, dictará la resolución que corresponda, la que notificará de inmediato al titular de la Licencia de Bebidas Alcohólicas, con la consecuencia de que, si se declara la revocación de la Licencia de Bebidas Alcohólicas, de inmediato se procederá, según sea el caso, a la clausura del establecimiento, y/o a la suspensión de la venta de bebidas alcohólicas.
+Transcurridos los términos a que se refiere el segundo párrafo del artículo 58, el Ejecutivo por conducto de la Secretaría, dentro del término de treinta días naturales, dictará la resolución que corresponda, la que notificará de inmediato al titular o al comodatario en caso de existir la transferencia temporal de la licencia de bebidas alcohólicas, con la consecuencia de que, si se declara la revocación de la licencia de bebidas alcohólicas, de inmediato se procederá, según sea el caso, a la clausura del establecimiento, y/o a la suspensión de la venta de bebidas alcohólicas.
 
 ### CAPÍTULO X. DEL RECURSO DE INCONFORMIDAD
 
@@ -810,3 +858,11 @@ ROSARIO ORTÍZ YELADAQUI
 EL SECRETARIO ESTATAL DE HACIENDA
 
 LIC. FREDY EFRÉN MARRUFO MARTÍN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
