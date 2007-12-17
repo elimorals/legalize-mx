@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-del-estado-de-quintana-roo-12989"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-15"
-last_updated: "2003-05-30"
+last_updated: "2007-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONOMICO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO ECONOMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de Junio de 1998.
 
@@ -365,9 +367,13 @@ La Secretaría de Promoción Económica y Desarrollo Rural del Gobierno del Esta
 
 SALON DE SESIONES DEL H. PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTIUN DIAS DEL MES DE MAYO DE MIL NOVECIENTOS NOVENTA Y OCHO.
 
-DIPUTADA PRESIDENTE: DIPUTADO SECRETARIO:
+DIPUTADA PRESIDENTE:
 
-ELINA CORAL CASTILLA. ISRAEL BARBOSA HEREDIA.
+ELINA CORAL CASTILLA.
+
+DIPUTADO SECRETARIO:
+
+ISRAEL BARBOSA HEREDIA.
 
 EN CUMPLIMIENTO DE LO DISPUESTO EN EL ARTICULO 91 FRACCION II, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTIOCHO DIAS DEL MES DE MAYO DE MIL NOVECIENTOS NOVENTA Y OCHO.
 
@@ -406,3 +412,41 @@ DÉCIMO.- Los formatos que utilicen las Dependencias y Entidades de la Administr
 DÉCIMO PRIMERO.- Todas las Dependencias y Entidades están obligadas a presentar como parte integral de su primer programa bianual de mejora regulatoria y someterlo a consideración de la Comisión, un análisis sobre la vialidad de aplicar la afirmativa ficta en cada trámite que la Dependencia o Entidad aplique. En caso de que la Dependencia o Entidad en coordinación con la Comisión determine la aplicación de la afirmativa ficta para uno o varios trámites, se deberán realizar las correcciones en la ficha del registro de cada trámite para su actualización en el Registro.
 
 Para los efectos del párrafo precedente, las Dependencias y Entidades tendrán la obligación de presentar ante la Comisión, su primer programa bianual de mejora Regulatoria, en un plazo que no excederá de 90 días hábiles contados a partir de la publicación de la presente Ley, en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 17 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Económico para el Estado de Quintana Roo, publicada en el Periódico Oficial del Estado, en fecha 15 de junio de 1998.
+
+###### ARTÍCULO TERCERO.
+
+El Titular de la Secretaría en un plazo máximo de 90 días, contados a partir de la entrada en vigor de la presente Ley, deberá convocar a los miembros integrantes de la Comisión Estatal de Competitividad, a efecto de que celebren la sesión de instalación de dicho órgano.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado, dentro del término de 120 días contados a partir de la entrada en vigor de la presente Ley, deberá emitir el Decreto de creación del Servicio Estatal del Empleo y Capacitación para el Trabajo de Quintana Roo, bajo las siglas "SEECAT", con el fin de dar cumplimiento a lo establecido en el Artículo 33 de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, dentro del término de 120 días contados a partir de la entrada en vigor de la presente Ley, deberá emitir el Decreto de creación de la Comisión de Energía del Estado de Quintana Roo bajo las siglas "CENER" a fin de dar cumplimiento a lo establecido en el Artículo 38 de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+El ejecutivo del Estado, dentro del término de 120 días contados a partir de la entrada en vigor de la presente Ley, deberá emitir el Decreto de creación del Fondo para el Desarrollo Económico de Quintana Roo, bajo las siglas "FODEQROO" con el fin de dar cumplimiento a lo establecido en el Artículo 45 de esta Ley.
+
+###### ARTÍCULO SEPTIMO.
+
+El Ejecutivo del Estado en un término no mayor de 180 días contados a partir de la entrada en vigor de la presente Ley, deberá expedir el Reglamento de la misma.
+
+###### ARTÍCULO OCTAVO.
+
+Hasta en tanto no se expida el Reglamento correspondiente, la Secretaría de Desarrollo Económico, podrá emitir las disposiciones de carácter general que consideren necesarias para la aplicación de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo del Estado en un término no mayor de 180 días contados a partir de la entrada en vigor de la presente Ley, deberá promover las reformas necesarias a la Ley Orgánica de la Administración Pública del Estado de Quintana Roo.
