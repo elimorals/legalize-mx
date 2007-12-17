@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2006-12-20"
+last_updated: "2007-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -513,11 +513,17 @@ El valor del inmueble podrá ser el valor de adquisición del mismo disminuido c
 
 No se pagará el impuesto establecido en el artículo 29 de esta Ley en las adquisiciones de inmuebles hechas por entes u organismos Estatales o Municipales para la vivienda, su legalización, y regularización y, a personas que resulten beneficiadas con sus programas, que no sean propietarias de otro inmueble y que lo destinen a casa habitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 31.
 
-El valor del inmueble que se considerará para efectos del artículo 29 de esta Ley, será la cantidad que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el índice del mes anterior en que se efectúo la adquisición. Las autoridades fiscales están facultados (sic) para tomar en cuenta el valor del inmueble a la fecha de adquisición, el valor catastral con una antigüedad no mayor de 180 días a la fecha de adquisición o el avalúo practicado por la Institución bancaria con una antigüedad no mayor de 180 días a la fecha de adquisición.
+El valor del inmueble que se considerará para efectos del Artículo 29 de esta Ley, será el que resulte más alto entre:
+
+l.- El valor de adquisición o precio pactado, actualizado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquél en que sea exigible el pago, entre el índice del mes anterior en que se efectuó la adquisición.
+
+II.- El valor catastral con una antigüedad no mayor de 180 días a la fecha de adquisición; o
+
+III.- El avalúo practicado por una institución bancaria con una antigüedad no mayor de 180 días a la fecha de adquisición.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1015,7 +1021,9 @@ p).- Por placas de demostración 6.3 S.M.G.
 
 Tratándose de derecho vehicular, del inciso "a" a la "n" deberán de pagar en un plazo de 30 días, en el caso del inciso "o", el plazo del pago será los primeros tres meses de cada año;
 
-III.- Por la expedición y duplicado de licencias para conducir vehículos de motor:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+III.- Por la expedición y duplicado de licencias para conducir vehículos de motor cada dos años.
 
 a).- Licencia de servicio público estatal 4.0 S.M.G.
 
@@ -1027,9 +1035,13 @@ d).- Licencia de motociclista 2.0 S.M.G.
 
 e).- Permiso provisional para manejar sin licencia por 30 días 1.0 S.M.G.
 
-V (SIC).- Por arrastre de grúa 8.3 S.M.G.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-VI.- Por día de estancia de vehículos en el corralón 0.4 S.M.G.
+IV.- Por arrastre de grúa 8.3 S.M.G.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+V.- Por día de estancia de vehículos en el corralón 0.4 S.M.G.
 
 REGISTRO DE VEHÍCULOS
 
@@ -1325,7 +1337,9 @@ El municipio concederá las licencias para las exhumaciones y traslado de cadáv
 
 Se establece la obligación de obtener el alineamiento, constancia de uso de suelo y número oficial de los predios antes de que se ejecuten las obras de construcción, ampliación y reconstrucción para los que se requiera licencia.
 
-Los derechos respectivos se cubrirán previamente de acuerdo con las cuotas que fija la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+Los derechos respectivos se cubrirán previamente de acuerdo con las cuotas que fijan la siguiente:
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1433,11 +1447,15 @@ Las personas físicas o morales que realicen actividades comerciales, industrial
 
 Las licencias deberán tenerse en lugar visible en el establecimiento o local para el cual fueron expedidas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 89.
 
-Las personas a que se hace referencia en Artículo anterior, deberán solicitar dentro del mismo plazo la expedición de Licencias de Funcionamiento, para lo cual deberán acompañar a su solicitud los siguientes documentos:
+Las personas a que se hace referencia en el artículo anterior, deberán solicitar dentro del mismo plazo la expedición de Licencias de Funcionamiento, para lo cual deberán acompañar a su solicitud los siguientes documentos:
 
-I.- Original y copia de la inscripción en el Registro Federal de Contribuyentes y al Padrón Estatal de Contribuyentes;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+I.- Original para cotejo y copia de la inscripción en el Registro Federal de Contribuyentes y al Padrón Estatal de Contribuyentes;
 
 II.- Croquis de ubicación del establecimiento;
 
@@ -1445,23 +1463,25 @@ II.- Croquis de ubicación del establecimiento;
 
 III.- Copia del recibo del pago del impuesto predial correspondiente al ejercicio fiscal de que se trate, así como el pago de los derechos a que se refiere el artículo 121 de esta Ley;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-IV.- Original y copia de la patente con el resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
+IV.- Original para cotejo y copia de la Licencia de Bebidas Alcohólicas con el resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
 
-V.- Los demás documentos que a juicio de los Presidentes Municipales se juzgue necesario, previa publicación;
+V.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2007)
 
 VI.- Constancia de uso de suelo del establecimiento; y
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-VII.- Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro lo requiera por ser considerado de riesgo.
+VII.- Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
 
-Esta licencia se expedirá por establecimiento y por giro de acuerdo a la clasificación que establece el Artículo 91.
+Esta licencia de Funcionamiento se expedirá por establecimiento y por giro de acuerdo a la clasificación que establece el Artículo 91.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 90.
 
-Las licencias a que se refiere el Artículo 89, son de vigencia anual y los contribuyentes deberán solicitar su renovación en los meses de enero y febrero de cada año, para lo cual presentarán solicitud en las formas que para el efecto aprueben las autoridades fiscales municipales, a la que acompañarán los siguientes documentos:
+Las licencias de Funcionamiento a que se refiere el Artículo 89, son de vigencia anual y los contribuyentes deberán solicitar su renovación en los meses de enero y febrero de cada año, para lo cual presentarán solicitud en las formas que para el efecto aprueben las autoridades fiscales municipales, a la que acompañarán los siguientes documentos:
 
 I.- Licencia de funcionamiento del año inmediato anterior;
 
@@ -1471,17 +1491,17 @@ II.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2006)
 
 III.- Copia del recibo del pago del impuesto predial correspondiente al ejercicio fiscal de que se trate, así como el pago de los derechos a que se refiere el artículo 121 de esta Ley;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-IV.- Original y copia de la patente con el resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
+IV.- Original para cotejo y copia de la Licencia de Bebidas Alcohólicas con resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
 
 V.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2006)
 
-VI.- Los demás documentos que a juicio de las autoridades fiscales municipales se juzgue necesario, previa a su publicación en los periódicos de mayor circulación en el Estado;
+VI.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2007)
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-VII.- Autorización expedida por la Dirección de Protección Civil Municipal, en caso de que el giro lo requiera por ser considerado de riesgo.
+VII.- Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
@@ -2525,6 +2545,8 @@ Se dejan sin efectos todas las disposiciones legales que se opongan al presente 
 
 P.O. 16 DE DICIEMBRE DE 2003.
 
+## TRANSITORIOS
+
 PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, quedan en suspenso los siguientes:
 
 I.- DERECHOS:
@@ -3049,7 +3071,11 @@ CUARTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2007
 
 QUINTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2007, en el Municipio de Isla Mujeres, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el articulo quinto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
 
-SEXTO.- Para la determinación del impuesto predial en el ejercicio fiscal 2007, en el Municipio de Benito Juárez, se aplicarán las tablas de cálculo anual del mencionado impuesto, siendo las siguientes:
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+SEXTO.- Para la determinación del impuesto predial en el ejercicio fiscal 2008, en el Municipio de Benito Juárez, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplado en el artículo sexto transitorio del decreto número 133 expedido por la XI Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 20 de diciembre del año 2006, así como la modificación a dicha Tabla de Valores Unitarios de Suelo y Construcciones del Municipio de Benito Juárez, Quintana Roo, aprobada por la XI Legislatura del Estado de Quintana Roo, mediante decreto número 233 de fecha 27 de noviembre del año 2007, que fuera publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo de fecha 4 de diciembre del año 2007.
+
+> <small>N. DE E. LAS PRESENTES TASAS IMPOSITIVAS, SE CONSERVAN POR SU RELACION DIRECTA CON EL PARRAFO ANTERIOR.</small>
 
 TASAS IMPOSITIVAS PARA LOS VALORES CATASTRALES EN EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO.
 
@@ -3104,3 +3130,87 @@ SÉPTlMO.- En caso de que al 31 de diciembre del año 2007, no se hubieren aprob
 OCTAVO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
 
 NOVENO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2007.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, quedan en suspenso los siguientes
+
+l. DERECHOS:
+
+A.- Licencias, anuencias previas al otorgamiento de las mismas en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Por lo anterior, quedan en suspenso los siguientes numerales:
+
+1.- Licencias y refrendas de funcionamiento comercial, industrial y de servicios.
+
+2.- Licencias de funcionamiento en horas extraordinarias.
+
+3.- Rastro e inspección sanitaria.
+
+4.- Registro y búsqueda de fierros y señales para ganado.
+
+5.- Servicios de inspección y vigilancia.
+
+6.- Servicios de promoción y publicidad turística.
+
+B.- Asimismo, los que resulten a consecuencia de permitir o tolerar las excepciones a una disposición administrativa, tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1.- Licencias de construcción.
+
+2.- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3.- Licencias para fraccionar o lotificar terrenos.
+
+4.- Licencias para conducir vehículos.
+
+5.- Expedición de placas y tarjetas para la circulación de vehículos.
+
+6.- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7.- Licencias, permisos autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+C.- Registro o cualquier acto relacionado con los mismos, a excepción del Registro Civil.
+
+D.- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se consideraron comprendidos dentro de lo dispuesto en este inciso los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública, ni por el uso o tenencia de anuncios.
+
+E. Actos de inspección y vigilancia.
+
+Los derechos no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los numerales 1 al 7 del segundo párrafo del inciso B) y el inciso D).
+
+Los certificados de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidos dentro de lo dispuesto en los incisos B) y C) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las entidades federativas o a los municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad del Estado y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con los salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este Artículo las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+SEGUNDO.- Para la determinación del Impuesto Predial en el ejercicio fiscal 2008, en el Municipio de Cozumel, se aplicará la tabla de cálculo anual del mencionado impuesto contemplada en el Artículo Tercero Transitorio del Decreto Número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+TERCERO.- Para la determinación del Impuesto Predial en el ejercicio fiscal 2008, en el Municipio de Othón P. Blanco se aplicará la tabla de cálculo anual del mencionado impuesto contemplado en el Artículo Cuarto Transitorio del Decreto Número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicada en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+CUARTO.- Para la determinación del Impuesto Predial en el ejercicio fiscal 2008, en el Municipio de Isla Mujeres se aplicará la tabla de cálculo anual del mencionado impuesto contemplado en el Artículo Quinto Transitorio del Decreto Número 102 expedido por la X legislatura del Estado de Quintana Roo y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+QUINTO.- Para la determinación del Impuesto Predial en el Ejercicio Fiscal 2008 en el Municipio de Solidaridad se aplicará la tabla de cálculo anual del mencionado impuesto contemplado en el Artículo Segundo Transitorio del Decreto Número 25 expedido por la XI Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 13 de diciembre del año 2005.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+SEXTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2008, en el Municipio de Benito Juárez se aplicará la tabla de cálculo anual del mencionado impuesto contemplado en el Artículo Sexto Transitorio del Decreto Número 133 expedido por la XI Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 20 de diciembre del año 2006, así como la modificación o dicha Tabla de Valores Unitarios de Suelo y Construcciones del Municipio de Benito Juárez. Quintana Roo, aprobado por la XI Legislatura del Estado de Quintana Roo, mediante Decreto Número 233 de fecha 27 de noviembre del año 2007, que fuera publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo de fecha 4 de diciembre del año 2007.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+SEPTIMO.- En el momento en el quede sin efecto lo dispuesto en los artículos segundo, tercero, cuarto, quinto y sexto, transitorios de esta Ley los Municipios de Cozumel. Othón P. Blanco, Isla Mujeres, Solidaridad y Benito Juárez deberán presentar un análisis del impacto que implique la utilización de las tasas establecidas en el artículo 13 de la presente Ley.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+OCTAVO.- El presente decreto entrará en vigor a partir del 1º de enero del año 2008 previa publicación en el Periódico Oficial del Gobierno del Estado.
