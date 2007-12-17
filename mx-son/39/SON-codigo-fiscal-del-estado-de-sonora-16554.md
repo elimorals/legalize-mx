@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2007-08-14"
+last_updated: "2007-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO FISCAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL:14 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE DICIEMBRE DE 2007.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -551,7 +551,13 @@ f).- Efectuar en distintas partes del Estado reuniones de información con los c
 
 g).- Mandar publicar las resoluciones administrativas dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes.
 
-II.- Establecerán programas de prevención y resolución de problemas del contribuyente, a fin de que estos designen representantes ante las autoridades fiscales;
+II.- Establecerán programas de prevención y resolución de problemas del contribuyente, a fin de que estos designen representantes ante las autoridades fiscales.
+
+> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
+
+lII.- Realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en el Registro Estatal de Contribuyentes.
+
+No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes.
 
 Asimismo, las autoridades fiscales darán a conocer a los contribuyentes, a través de los medios de difusión, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquéllos que, a juicio de la propia autoridad, tengan el carácter de confidenciales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Boletín Oficial del Estado de Sonora.
 
@@ -1419,9 +1425,9 @@ Se impondrá multa por cada infracción de las previstas en los artículos 90, 9
 
 I.- De 8 a 20 veces el salario mínimo a las señaladas en el artículo 90 fracción XV y 91 fracción III;
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
-II.- La mayor que resulte entre 8 veces el salario mínimo o el 15% de las contribuciones no pagadas, sin que este porcentaje pueda exceder de 500 veces el salario mínimo, para las señaladas en los articulos 90, fracciones IV y XVII y 91, fracción II;
+II.- La mayor que resulte entre 8 veces el salario mínimo o el 15% de las contribuciones no pagadas, sin que este porcentaje pueda exceder de 500 veces el salario mínimo, para las señaladas en los artículos 90, fracciones IV, XIV y XVII y 91, fracción II;
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3132,3 +3138,15 @@ En los fideicomisos, mandatos o contratos análogos constituidos previamente a l
 ###### ARTÍCULO SEXTO.
 
 En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
+
+B.O. 17 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los artículos primero y segundo del presente Decreto entrarán en vigor a partir del 1° de enero de 2008, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+El artículo tercero del presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El próximo canje de placas para vehículos de propulsión mecánica deberá efectuarse en el ejercicio fiscal de 2008 y así sucesivamente en los trienios posteriores.
