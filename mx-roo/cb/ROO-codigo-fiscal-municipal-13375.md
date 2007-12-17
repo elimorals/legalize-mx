@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "2006-12-20"
+last_updated: "2007-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -59,9 +59,11 @@ II.- La Ley: Se referirá a la Ley de Hacienda de los municipios del estado de Q
 
 III.- S.M.G: Por estas siglas se entenderá el salario mínimo general diario vigente del estad (sic) de Quintana Roo, en el momento de la realización de la situación jurídica o de hecho previsto en este Código.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 3o.
 
-Todo lo referente a las contribuciones para cubrir el gasto público de los municipios del estado de Quintana Roo, será establecido en la Ley de Ingresos y de Hacienda de los Municipios del Estado de Quintana Roo.
+Todo lo referente a las contribuciones para cubrir el gasto público de los municipios del Estado de Quintana Roo, será establecido en las leyes de Ingresos y de Hacienda de los Municipios del Estado de Quintana Roo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
 
@@ -81,25 +83,37 @@ III.- Las que autoricen ingresos extraordinarios;
 
 IV.- Los demás ordenamientos legales que contengan disposiciones de orden hacendario.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 5o.
 
-Son autoridades fiscales de los municipios:
+Son Autoridades Fiscales de los Municipios:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 I.- Los Presidentes Municipales;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 II.- Los Tesoreros Municipales;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 III.- Los Directores de Ingresos;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 IV.- Los Directores de Cobranza;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 V.- Los Directores de Fiscalización;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-VI.- El Director del Catastro;
+VI.- Los Directores del Catastro;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 VII.- Los Notificadores-Ejecutores; y (sic)
 
@@ -143,7 +157,9 @@ VII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
 APROVECHAMIENTOS.- Son los ingresos que percibe el Municipio por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y las indemnizaciones, que se apliquen con relación a aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
@@ -157,17 +173,25 @@ PARTICIPACIONES.- Son aquellos ingresos que percibe el Municipio de conformidad 
 
 PRODUCTOS.- Son las contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado; así como por el uso, aprovechamiento o enajenación de bienes de dominio privado.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 6-D.
 
-INGRESOS POR APORTACIONES FEDERALES.- Son aquellos destinados a los Municipios, establecidos por el Presupuesto de Egresos de la Federación, del Estado y los contemplados en la Ley de Coordinación Fiscal en la cual contempla los siguientes:
+INGRESOS POR APORTACIONES FEDERALES.- Son aquellos destinados a los Municipios, establecidos por el Presupuesto de Egresos de la Federación, del Estado y los contemplados en la Ley de Coordinación Fiscal en la cual señala los siguientes:
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 I.- Fondo de Aportaciones para la infraestructura Social Municipal.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 II.- Fondo de Aportaciones para el Fortalecimiento de los Municipios.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 III.- Fondo para la Zona Federal Marítimo Terrestre; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 IV.- Otras aportaciones Federales.
 
@@ -307,11 +331,11 @@ Cuando se trate de personas físicas o morales residentes fuera del municipio, e
 
 La autoridad fiscal podrá practicar diligencias en el lugar que conforme a este artículo se considere domicilio fiscal de los contribuyentes, en aquellos casos en que éstos hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 18.
 
-En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo, 5 de abril de cada seis años, cuando corresponda a la transmisión del poder ejecutivo estatal, 1o. y 5 de mayo, 16 de septiembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, 1o. de diciembre de cada 6 años, cuando corresponda a la transmisión del poder ejecutivo federal, y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1° de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo, 5 de abril de cada seis años, cuando corresponda a la transmisión del poder ejecutivo estatal, 10 de abril de cada tres años, cuando corresponda la toma de posesión de los ayuntamientos; 1º. y 5 de mayo, 16 de septiembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, 1º. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
 
 En los plazos establecidos por períodos y aquéllos en los que se señale una fecha determinada para su extinción, se computarán todos los días.
 
@@ -369,9 +393,13 @@ XII.- Darse de alta en el padrón municipal del impuesto predial dentro del mes 
 
 Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en que imprimirá su huella digital.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
 La presentación de avisos, declaraciones, manifestaciones o promociones deberá hacerse en los formularios que al efecto aprueben las Tesorerías Municipales, en el número de ejemplares que establezcan las formas oficiales, acompañando los anexos que en su caso estás requieran y consignando los mismos datos que los mismos formularios requieran.
 
-Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales, y tener por lo menos los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales, y contener por lo menos los siguientes requisitos:
 
 I.- Constar por escrito;
 
@@ -385,7 +413,9 @@ V.- El domicilio para oír y recibir notificaciones y el nombre de la persona au
 
 VI.- La descripción de los anexos que se adjuntan al escrito.
 
-Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de tres días a partir de que surta efectos la notificación cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días a partir de que surta efectos la notificación cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
 ###### ARTICULO 22.
 
@@ -527,11 +557,13 @@ IV.- Crear nuevas unidades administrativas, cambiar el lugar de residencia de la
 
 V.- Condonar hasta el 100% de los recargos, siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes; tratándose de multas por infracciones a las Leyes Fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso.
 
-No se dará curso a ninguna instancia de condonación después de transcurridos cuarenta y cinco días hábiles contados a partir de la fecha en que se hubiere quedado firme la resolución que impuso la multa, salvo que por pruebas diversas a las presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, se demuestre que no se cometió la infracción o la persona a la que se atribuye no es la responsable, caso en el cual existirá la obligación de condonar la totalidad de la multa impuesta;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+No se dará curso a ninguna instancia de condonación después de transcurridos quince días hábiles contados a partir de la fecha en que hubiere quedado firme la resolución que impuso la multa, salvo que por pruebas diversas a las presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, se demuestre que no se cometió la infracción o la persona a la que se atribuye no es la responsable, caso en el cual procederá revocar el acto administrativo que dio origen a la multa;
 
-VI.- Celebrar convenios con los contribuyentes para determinar el monto de los impuestos que deban y su forma de pago, siempre que impere una situación económica difícil de los sujetos para cubrir la totalidad de los créditos fiscales y que con tales convenios, se facilite el desarrollo de actividades que se traduzcan en mejoramiento económico y social del Municipio, siempre y cuando el término para el pago a plazos de dichos convenios no exceda de veinticuatro mensualidades;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+VI.- Celebrar convenios con los contribuyentes para determinar el monto de los impuestos que deban y su forma de pago, siempre que impere una situación económica que les impida cubrir la totalidad de los créditos fiscales y que con tales convenios, no se perjudique el desarrollo y mejoramiento económico y social del Municipio, siempre y cuando el término para el pago a plazos de dichos convenios no exceda de veinticuatro mensualidades;
 
 VII.- Conceder mediante resoluciones de carácter general, subsidios o estímulos fiscales a los contribuyentes, siempre y cuando el otorgamiento de estos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Municipio hasta por el 100% del monto del impuesto en los casos de calamidad pública o situación de desastre y;
 
@@ -645,11 +677,13 @@ Las autoridades fiscales facultadas debidamente, podrán expedir circulares para
 
 Las resoluciones fiscales favorables a los particulares sólo podrán ser modificadas, revocadas o nulificadas por las autoridades fiscales, previa audiencia de aquellos.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 39.
 
-Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de cuatro meses, transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien esperar a que ésta se dicte.
+Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de cuatro meses. Transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien esperar a que ésta se dicte.
 
-Cuando se requiera al promovente que cumpla con los requisitos omitidos o proporcione los elementos necesarios para resolver, el término se contará desde que el requerimiento haya sido cumplido.
+Cuando se requiera al promovente que cumpla con los requisitos omitidos o proporcione los elementos necesarios para resolver, el plazo que se señala en el párrafo precedente se contará desde que el requerimiento haya sido cumplido.
 
 ###### ARTICULO 40.
 
@@ -673,13 +707,17 @@ I.- Tratándose de la omisión en la presentación del pago de contribuciones, p
 
 Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente, la cantidad a la que le es aplicable la tasa o cuota respectiva, la propia Tesorería podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado provisionalmente. Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la autoridad, éste disminuirá del importe que se tenga que pagar con la declaración que se presente.
 
 II.- Imponer la multa que corresponda en los términos de este código y requerir la presentación del documento omitido en un plazo de seis días. Si no se atiende el requerimiento, se impondrá la multa correspondiente. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión; y
 
 III.- Embargar precautoriamente los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad en los términos de la fracción II de este artículo por una misma omisión, salvo tratándose de declaraciones, en que bastará con no atender un requerimiento. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado, si no obstante el incumplimiento, las autoridades fiscales no inician el ejercicio de sus facultades de comprobación.
 
-En el caso de la fracción II y agotados los actos señalados en la misma, se pondrán los hechos y conocimientos de la autoridad competente, para que se proceda por desobediencia a mandato legitimo a la autoridad competente.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+En el caso de la fracción II y agotados los actos señalados en la misma, los hechos se harán del conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legitimo de la autoridad competente.
 
 > <small>(ADICIONADO, P.O 15 DE DICIEMBRE DE 1998)</small>
 
@@ -703,7 +741,9 @@ IV.- Practicar visitas domiciliarias y de inspección a los contribuyentes, resp
 
 V.- Allegarse las pruebas necesarias para formular querella o declaratoria al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Tesorería serán valoradas conforme a lo establecido por el Código de Procedimientos Penales del Estado.
 
-La Tesorería a través de los abogados que designe, así como del Síndico Municipal, será coadyuvante del Ministerio Público en los términos del Código Procesal Penal del Estado.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+La Tesorería a través de los abogados que designe, así como del Síndico Municipal, será coadyuvante del Ministerio Público en los términos del Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo.
 
 ###### ARTICULO 43.
 
@@ -1009,7 +1049,9 @@ II.- Por no proporcionar los avisos, datos o documentos que conforme a las dispo
 
 III.- Por asesorar o aconsejar a los contribuyentes que infrinjan el pago de una prestación fiscal o las disposiciones fiscales municipales, multa de 100 a 1,000 S.M.G.
 
-IV.- Por no enterar total o parcialmente dentro de los plazos que establezcan las disposiciones legales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar, se impondrá multa hasta de tres tantos de las prestaciones fiscales municipales omitidas o en caso de que no se pueda precisar el monto de la prestación omitida.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+IV.- Por no enterar total o parcialmente dentro de los plazos que establezcan las disposiciones legales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar, se impondrá multa hasta de tres tantos que las prestaciones fiscales municipales omitidas o en caso de que no se pueda precisar el monto de la prestación omitida, aplicará una multa hasta por el doble del máximo señalado en la fracción VIII del artículo 67 del presente Código.
 
 V.- Por no cerciorarse al transportar o almacenar bienes que deban pagar impuestos o derechos, cuando las disposiciones fiscales municipales les impongan esa obligación, multa de 100 a 1,000 S.M.G.
 
@@ -1027,7 +1069,9 @@ VIII.- Resistirse por cualquier medio a las visitas de verificación, no suminis
 
 Son infracciones cuya responsabilidad corresponde a los funcionarios y empleados públicos:
 
-I.- Extender actas, extender certificados, legalizar firmas, sin que exista constancia del pago de los gravámenes correspondientes.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+I.- Extender actas, extender certificados o legalizar firmas, sin que exista constancia del pago de los gravámenes correspondientes.
 
 II.- Recibir el pago de una prestación fiscal municipal y no enterar su importe en el plazo legal.
 
@@ -1037,15 +1081,21 @@ IV.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales
 
 V.- No realizar sus funciones de inspección cuando tengan obligación de hacerlo.
 
-VI.- Exigir o recibir bajo título de cooperación, colaboración; gratificación u otro semejante, cualquier prestación que no este expresamente prevista en la Ley, aun cuando se aplique a las realizaciones de las funciones propias de su cargo.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-VII.- Traficar con los documentos, comprobantes de pago de prestaciones fiscales municipales o hacer uso indebido de ellas.
+VI.- Exigir o recibir bajo título de cooperación, colaboración, gratificación u otro semejante, cualquier prestación que no este expresamente prevista en la Ley, aún cuando se aplique durante la realización de las funciones propias de su cargo.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+VII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales municipales o hacer uso indebido de ellos.
 
 VIII.- Alterar las bases o tasas impositivas que existan en los controles administrativos para el cobro de los impuestos o derechos.
 
 IX.- Quienes sin autorización de la autoridad competente arrenden, subarrenden, o den en usufructo bienes que correspondan al patrimonio del municipio y de los cuales se deriven productos para la Hacienda Municipal.
 
-X.- Infringir las disposiciones anteriores en forma distinta de las infracciones precedentes.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+X.- Infringir las disposiciones fiscales en forma distinta de las infracciones precedentes.
 
 En los casos de las fracciones anteriores, se impondrá una multa de 500 a 1,000 S.M.G., lo que se hará sin perjuicio de que el infractor sea destituido e inhabilitado hasta por tres años para desempeñar el mismo cargo, sin responsabilidad para el municipio, independientemente de la acción penal que pueda ejercer el fisco municipal, cuando éste considere que ha sufrido perjuicio.
 
@@ -1851,7 +1901,9 @@ La intervención se levantará cuando el crédito fiscal y sus accesorios se hub
 
 La venta de bienes embargados procederá:
 
-I.- A partir del día siguiente a aquél en, que se hubiese fijado la base en los términos del artículo 157 de este Código.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+I.- A partir del día siguiente a aquél en que se hubiese fijado la base en los términos del artículo 155 de este Código;
 
 II.- En los casos de embargo precautorio a que se refiere el artículo 124 de este Código, cuando los créditos se hagan exigibles y no se paguen al momento del requerimiento;
 
@@ -1891,9 +1943,11 @@ Si se trata de bienes muebles o inmuebles cuyo valor no exceda de quinientas vec
 
 Cuando el valor pericial de los bienes muebles o inmuebles exceda del equivalente a quinientas veces el S.M.G. diario vigentes en la región, la convocatoria se publicará además en el Periódico Oficial del Estado, por una vez, y en uno de los periódicos de mayor circulación en la entidad durante tres días consecutivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 157.
 
-Los acreedores que aparezcan en el certificado de gravámenes correspondientes a los últimos diez años, el cual deberá obtenerse oportunamente, serán citados para el acto de remate, y en caso de no ser factible por alguna de las causas a que se refiere el Inciso d de la fracción II del artículo 164, se tendrá como citación la que se haga en la convocatoria en que se anuncie el remate, en la que deberá expresarse el nombre del acreedor o acreedores.
+Los acreedores que aparezcan en el certificado de gravámenes correspondientes a los últimos diez años, el cual deberá obtenerse oportunamente, serán citados para el acto de remate, y en caso de no ser factible por alguna de las causas a que se refiere el inciso d) de la fracción II del artículo 107, se tendrá como citación la que se haga en la convocatoria en que se anuncie el remate, en la que deberá expresarse el nombre del acreedor o acreedores.
 
 Los acreedores a que alude el párrafo anterior, podrán concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutora en el acto de la diligencia.
 
@@ -1979,9 +2033,11 @@ II.- A falta de pujas; y
 
 III.- En el caso de posturas o pujas iguales, la adjudicación se hará al valor que corresponda para la almoneda de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 170.
 
-Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que dentro de los quince días hábiles siguientes, se lleve a cabo la segunda almoneda, cuya convocatoria se hará en los términos del artículo 6º fracción IV y V de este Código.
+Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que dentro de los quince días hábiles siguientes, se lleve a cabo una segunda almoneda, cuya convocatoria se hará en los términos del artículo 156 de este Código.
 
 La base para el remate en la segunda almoneda, se determinará deduciendo un veinte por ciento de la señalada para la primera.
 
@@ -1997,15 +2053,19 @@ II.- Cuando se trate de bienes de fácil descomposición o deterioro o de materi
 
 III.- Se trate de bienes que habiendo salido en remate en primera almoneda, no se hubieran presentado postores.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 172.
 
-El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco municipal se aplicará a cubrir el crédito fiscal en el orden que establece el artículo 12 de este Código.
+El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco municipal se aplicará a cubrir el crédito fiscal en el orden que establece el artículo 24 de este Código.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 173.
 
-En tanto no se hubieren rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
+En tanto no se hubieren rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo, siempre y cuando liquide los accesorios y gastos que hubiere causado la ejecución de dicho crédito y en su caso, la división de los bienes fuera posible física y jurídicamente.
 
-Una vez realizado el pago por el embargado, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición, y en caso de no hacerlo se causarán derechos por almacenaje a partir del día siguiente. Cuando el monto del derecho por almacenaje sea igual o superior al valor de los bienes determinados conforme al artículo 137 de este Código, se aplicarán a cubrir los adeudos que se generaren por este concepto.
+Una vez realizado el pago por el embargado, éste deberá reiterar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición, y en caso de no hacerlo se causarán derechos por almacenaje a partir del día siguiente. Cuando el monto del derecho por almacenaje sea igual o superior al valor de los bienes determinado conforme a la parte conducente del artículo 155 de este Código, se aplicarán a cubrir los adeudos que se generaren por éste concepto.
 
 ###### ARTICULO 174.
 
@@ -2076,3 +2136,9 @@ P.O. 20 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales qua se opongan al presente decreto.
