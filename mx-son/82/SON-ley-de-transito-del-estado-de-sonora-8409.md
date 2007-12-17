@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2007-11-12"
+last_updated: "2007-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -95,9 +95,9 @@ I.- Organizar y ejercer, en los términos de esta Ley, la función pública de t
 
 II. - Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito.
 
-> <small>(REFORMADA B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales;
+III.- Emitir los manuales de organización, de procedimientos y servicios al público de las Policías de Tránsito Municipales;
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
 
@@ -617,47 +617,19 @@ V.- Haber aprobado, en el caso de los vehículos de propulsión mecánica, el ex
 
 Los vehículos destinados al servicio público o privado de transporte para circular en vías de jurisdicción estatal, deberán cumplir con las condiciones de peso, dimensiones, capacidad y otras especificaciones en los términos que establezca el Reglamento que al efecto expedirá el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 42.
 
-La obtención de placas y tarjetas de circulación en los casos de vehículos nuevos, deberá realizarse dentro de los quince días siguientes al de la fecha de adquisición. Tratándose de vehículos provenientes de otras entidades federativas cuyos propietarios establezcan su domicilio en el Estado de Sonora, tienen de plazo para adquirirlas hasta el 31 de enero del año siguiente al de dicho cambio.
+La obtención de placas y tarjetas de circulación en los casos de vehículos nuevos o usados, deberá realizarse dentro de los quince días hábiles siguientes al de la fecha de adquisición o del pedimento de importación definitivo a la zona fronteriza o al interior del País o de la baja de placas.
 
-Para efectos de lo anterior se requiere:
+Tratándose de vehículos provenientes de otras entidades federativas cuyos propietarios establezcan su domicilio en el Estado de Sonora, tienen de plazo para adquirirlas hasta el 31 de enero del año siguiente al de dicho cambio.
 
-I.- Hacer la solicitud correspondiente en las formas oficiales impresas, que al efecto proporcionará la Agencia Fiscal.
+El canje de placas se efectuará en el transcurso de los tres primeros meses del año de calendario que corresponda y tendrán una vigencia de tres años, contados a partir del último programa de canje que implemente el Gobierno.
 
-II.- Recabar la certificación pericial del Departamento de Tránsito Municipal de que el vehículo es apto para el uso a que será destinado.
+Las placas de circulación de los vehículos de propulsión mecánica deberán revalidarse anualmente, durante los tres primeros meses del año de calendario.
 
-III.- Recabar la aprobación de las autoridades municipales de tránsito, tanto en la solicitud como en el tarjetón del registro.
-
-IV.- Acreditar la propiedad del vehículo con la factura correspondiente, o la legal posesión con carta de venta a plazos, o cualquier otra documentación en los términos del Derecho Común.
-
-V.- Acreditar la legal estancia en el País del vehículo y estar al corriente en el pago del impuesto federal sobre tenencia o uso de vehículos.
-
-VI.- Manifestación y firma de que acepta responder solidariamente del pago de las multas que se le impongan a cualquier conductor del vehículo.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
-
-Para la obtención de la revalidación anual de la vigencia de las placas, que deberá efectuarse durante los tres primeros meses del año de calendario, se requiere:
-
-I.- Exhibir original de la factura, proporcionando copia de la misma.
-
-II.- Devolución del original de la tarjeta de circulación.
-
-III.- Presentar el comprobante de pago del Impuesto Federal sobre Tenencia o Uso de Vehículos y constancia de revisión vehicular, expedida por las autoridades municipales de Tránsito.
-
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
-
-d) (sic).- Tratándose de cambios de propietario, además de los requisitos anteriores, deberá presentarse la solicitud de revalidación correspondiente y el recibo oficial de pago del impuesto sobre traslación de dominio de bienes muebles, en su caso.
-
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
-
-e) (sic).- En los casos de vehículos de alquiler, deberá proporcionarse, además, copia del comprobante de pago de revalidación de concesión, correspondiente; y
-
-> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
-
-f) (sic).- Exhibir la constancia donde se acredite que el vehículo aprobó el examen de verificación de emisiones contaminantes.
+Para efecto de los trámites a que se hace referencia en el presente artículo, el interesado deberá contar con licencia de conducir vigente del Estado y demás requisitos establecidos en las disposiciones administrativas de observancia general que expida el Ejecutivo Estatal, por conducto de la Secretaría de Hacienda.
 
 ###### ARTICULO 43.
 
@@ -773,7 +745,7 @@ d).- Todo vehículo automotor de 4 o más ruedas deberá estar provisto de un n�
 
 Lámparas direccionales:
 
-Todo vehículo automotor de 4 o más ruedas, deberá estar provisto de lámparas direccionales en el frente y en la parte posterior del vehículo o combinación de vehículos, que, mediante luces intermitentes, indiquen la intención de dar vuelta o cualquier otro movimiento para cambiar de dirección, alcanzar o adelantar otro vehículo. Tanto en el frente como en la parte posterior dichas lámparas deberán estar montadas simétricamente a un mismo nivel y separadas lateralmente tanto como sea posible. Las lámparas delanteras deberán emitir una luz blanca o ámbar y las posteriores color rojo o ámbar. Bajo la luz solar normal, estas luces deberán ser visibles desde una distancia no menor de 100 metros y podrán estar incorporadas o no a otras lámparas del vehículo.
+Todo vehículo automotor de 4 o más ruedas, deberá estar provisto de lámparas direccionales en el frente y en la parte posterior del vehículo o combinación de vehículos, que, mediante luces intermitentes, indiquen la intención de dar vuelta o cualquier otro movimiento para cambiar de dirección, al alcanzar o adelantar otro vehículo. Tanto en el frente como en la parte posterior dichas lámparas deberán estar montadas simétricamente a un mismo nivel y separadas lateralmente tanto como sea posible. Las lámparas delanteras deberán emitir una luz blanca o ámbar y las posteriores color rojo o ámbar. Bajo la luz solar normal, estas luces deberán ser visibles desde una distancia no menor de 100 metros y podrán estar incorporadas o no a otras lámparas del vehículo.
 
 ###### ARTICULO 58.
 
@@ -781,7 +753,7 @@ Equipo adicional de lámparas y reflectores obligatorios para determinados vehí
 
 Además del equipo que exigen los artículos anteriores, los vehículos que se mencionan a continuación, deberán estar equipados en la forma que aquí se especifica:
 
-a) Autobuses y camiones de 2 metros o más de ancho total:
+a) Autobuses y camiones de dos metros o más de ancho total:
 
 En el frente, 2 lámparas de gálibo una de cada lado y 3 lámparas de identificación.
 
@@ -807,7 +779,7 @@ A cada lado, 2 lámparas demarcadoras, una cerca del frente y otra cerca de la p
 
 A cada lado, 2 reflectantes, uno cerca del frente y otro cerca de la parte posterior.
 
-En la parte posterior, 2 reflectantes de gálibo uno a cada lado sobre la carrocería simétricamente lo más alejado posible de la línea del centro del vehículo.
+En la parte posterior, 2 reflectantes de gálibo uno a cada lado sobre la carrocería simétrica lo más alejado posible de la línea del centro del vehículo.
 
 d).- Camiones:
 
@@ -859,7 +831,7 @@ Dispositivos acústicos y ópticos en vehículos de emergencia.
 
 a).- Todo vehículo de emergencia autorizado, además del equipo y dispositivos obligatorios, deberá estar provisto de una sirena y/o campana capaces de dar una señal acústica audible, a una distancia no menor de 150 metros.
 
-b).- Además deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
+b).- Además, deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
 
 c).- Estos dispositivos no los utilizarán otros vehículos que no sean los de emergencia autorizados.
 
@@ -1433,7 +1405,7 @@ Se hará la aproximación tomando el extremo del carril izquierdo adyacente a la
 
 d).- Una vía de doble sentido a otra de un solo sentido:
 
-La aproximación deberá hacerse sobre la mitad derecha de la vía junto a la raya central y después de entrar a la intersección dará vuelta a izquierda (sic) de tal manera que al salir de aquella se coloque en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado.
+La aproximación deberá hacerse sobre la mitad derecha de la vía junto a la raya central y después de entrar a la intersección dará vuelta a (sic) izquierda de tal manera que al salir de aquella se coloque en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado.
 
 e).- Cuando sea practicable, la vuelta a la izquierda deberá efectuarse dejando a la derecha el centro de la intersección.
 
@@ -1849,7 +1821,7 @@ V.- Cuando el policía levante el brazo derecho en posición vertical:
 
 a) Indica a los conductores y peatones una situación de emergencia, motivada por la aproximación de vehículos de emergencia o algún otro servicio especial y que por lo tanto, deben despejar la vía e impedir su cruce.
 
-VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en la siguiente forma: ALTO un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
+VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en la siguiente forma: ALTO, un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
 
 ###### ARTICULO 196.
 
@@ -2289,7 +2261,7 @@ Los vehículos destinados al transporte público de pasaje colectivo urbano, deb
 
 ###### ARTICULO 211.
 
-Los vehículos destinados al servicio público de transporte de pasaje colectivo, en los sistemas suburbanos y foráneos, deberán ostentar el número del permiso y señalamiento de la ruta.
+Los vehículos destinados al servicio público de transporte de pasaje colectivo, en los sistemas de suburbanos y foráneos, deberán ostentar el número del permiso y señalamiento de la ruta.
 
 Por lo que respecta al color de las unidades, éste deberá diferenciarse en los servicios de primera y segunda clase. Cuando la clase de servicio tenga el mismo origen y destino de ruta, las unidades deberán ser uniformes en cuanto al color, el cual se determinará por la Dirección de Transporte del Estado.
 
@@ -2826,3 +2798,15 @@ B.O. 12 DE NOVIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los artículos primero y segundo del presente Decreto entrarán en vigor a partir del 10 de enero de 2008, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+El artículo tercero del presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El próximo canje de placas para vehículos de propulsión mecánica deberá efectuarse en el ejercicio fiscal de 2008 y así sucesivamente en los trienios posteriores.
