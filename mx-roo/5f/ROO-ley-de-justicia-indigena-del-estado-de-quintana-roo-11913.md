@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-indigena-del-estado-de-quintana-roo-11913"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-14"
-last_updated: "2006-10-20"
+last_updated: "2007-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE JUSTICIA INDIGENA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el jueves 14 de agosto de 1997
 
@@ -41,9 +41,11 @@ LEY DE JUSTICIA INDIGENA DEL ESTADO DE QUINTANA ROO
 
 La presente Ley es de orden público e interés social y de observancia en las comunidades donde se establezcan los órganos jurisdiccionales que prevé esta Ley. El Estado garantizará a los miembros de estas comunidades el pleno ejercicio de los derechos que otorga la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 2º.
 
-Es objeto de esta Ley, establecer el Sistema de Justicia Indígena para resolver las controversias jurídicas que se susciten entre los miembros de las comunidades a que se refiere la presente Ley; atendiendo a lo dispuesto por el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y por el artículo 13 de la Constitución Política del Estado de Quintana Roo.
+Es objeto de esta Ley, establecer el Sistema de Justicia Indígena para resolver las controversias jurídicas que se susciten entre los miembros de las comunidades a que se refiere la presente Ley; atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 ###### Artículo 3º.
 
@@ -284,3 +286,7 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 P.O. 20 DE OCTUBRE DE 2006.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2007.
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
