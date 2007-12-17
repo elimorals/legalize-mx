@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2007-06-26"
+last_updated: "2007-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -661,9 +661,9 @@ Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo estable
 
 Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo anterior, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley.
+Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley. Las personas físicas, morales, deberán de presentar aviso a la Secretaría de Hacienda durante los siguientes treinta días posteriores a la fecha del contrato suscrito, en el cual se especifique el nombre de su contratante, el domicilio en el cual se prestarán los servicios, el número de empleados y el monto de la operación contratada; así mismo cuando presenten su declaraciones periódicas por pago de este impuesto, deberán especificar por quién y por cuánto las realizan.
 
 #### SECCION SEGUNDA. DE LA BASE Y DE LA TASA
 
@@ -825,7 +825,7 @@ IX.- Para los efectos previstos en el artículo 40 segundo párrafo de esta Ley,
 
 ###### ARTICULO 45.
 
-Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario de Hacienda del Estado, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
+Los sujetos de este impuesto que tengan una o mas sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario de Hacienda del Estado, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
 
 En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal.
 
@@ -2429,13 +2429,15 @@ TER-C.- Los contribuyentes podrán solicitar la práctica de un avalúo por corr
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO II. DE LA EXPEDICION DE PATENTES PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
+### CAPITULO II. DE LA EXPEDICION DE LICENCIAS DE BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 169.
 
 El Gobierno del Estado, percibirá derechos por los servicios que preste en el ejercicio de sus funciones de derecho público.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO III. EXPEDICION DE LICENCIAS DE FUNCIONAMIENTO
 
@@ -2443,15 +2445,23 @@ El Gobierno del Estado, percibirá derechos por los servicios que preste en el e
 
 ###### ARTICULO 170.
 
-Las patentes se concederán de conformidad con lo establecido en la Ley y Reglamento Para (sic) Control de Venta y Consumo de Bebidas Alcohólicas del Estado de Quintana Roo, siempre que la actividad de los establecimientos no afecte la moral, las buenas costumbres, la tranquilidad social o el interés público.
+Las licencias de bebidas alcohólicas se concederán de conformidad con lo establecido en la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo y su Reglamento, siempre que la actividad de los establecimientos no afecte la moral, las buenas costumbres, la tranquilidad social o el interés público.
 
-Estas patentes se deberán presentar a resellar cada año en la Secretaría de Hacienda del Estado dentro de los primeros dos meses del año.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+Estas licencias de bebidas alcohólicas se deberán presentar a refrendar cada año en la Secretaría de Hacienda del Estado dentro de los primeros dos meses del año.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 La Secretaría de Hacienda del Estado aplicará las disposiciones relativas a clausuras contenidas en esta Ley. Cuando no se afecte lo anteriormente expuesto, causará derechos de acuerdo con la siguiente:
 
 TARIFA
 
-I.- Por la expedición de patentes en el Municipio de Felipe Carrillo Puerto, para la:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+I.- Por la expedición de licencias de bebidas alcohólicas en el Municipio de Felipe Carrillo Puerto, para la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
@@ -2467,9 +2477,9 @@ De primera hasta 985 S.M.G. 788 S.M.G.
 
 De segunda hasta 656 S.M.G 591 S.M.G
 
-b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-Restaurantes:
+b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos
 
 ZONA ZONA
 
@@ -2482,6 +2492,8 @@ De lujo hasta 1,969 S.M.G. 1,312 S.M.G.
 De primera hasta 1,312 S.M.G 985 S.M.G.
 
 De segunda hasta 985 S.M.G. 656 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
@@ -2497,6 +2509,8 @@ De primera hasta 1,050 S.M.G. 678 S.M.G.
 
 De segunda hasta 788 S.M.G. 525 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 d).- Venta de cervezas en envase cerrado.
 
 ZONA ZONA
@@ -2510,6 +2524,8 @@ De lujo hasta 1,313 S.M.G. 788 S.M.G.
 De primera hasta 1,050 S.M.G. 630 S.M.G.
 
 De segunda hasta 788 S.M.G. 473 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
@@ -2525,6 +2541,8 @@ De primera hasta 2,298 S.M.G. 1,641 S.M.G.
 
 De segunda hasta 1,969 S.M.G . 985 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 f).- Venta de cervezas en envase abierto.
 
 ZONA ZONA
@@ -2538,6 +2556,8 @@ De lujo hasta 2,298 S.M.G. 1,576 S.M.G.
 De primera hasta 1,970 S.M.G. 1,313 S.M.G.
 
 De segunda hasta 1,576 S.M.G. 985 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
@@ -2553,6 +2573,8 @@ De primera hasta 946 S.M.G. 630 S.M.G.
 
 De segunda hasta 683 S.M.G. 378 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
 ZONA ZONA
@@ -2567,6 +2589,8 @@ De primera hasta 1,312 S.M.G. 985 S.M.G.
 
 De segunda hasta 985 S.M.G. 656 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
 ZONA ZONA
@@ -2579,7 +2603,27 @@ De primera hasta 1,312 S.M.G. 985 S.M.G.
 
 De segunda hasta 985 S.M.G. 656 S.M.G.
 
-II.- Por la expedición de patentes en los Municipios de José María Morelos y Lázaro Cárdenas, para la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA
+
+URBANA RURAL
+
+COMERCIAL
+
+De lujo hasta 2,625 S.M.G. 1,969 S.M.G.
+
+De primera hasta 2,298 S.M.G. 1,641 S.M.G.
+
+De segunda hasta 1,969 S.M.G. 985 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+II.- Por la expedición de licencias de bebidas alcohólicas en los Municipios de José María Morelos y Lázaro Cárdenas, para la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
@@ -2595,6 +2639,8 @@ De primera hasta 630 S.M.G. 504 S.M.G.
 
 De segunda hasta 504 S.M.G. 378 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
 ZONA ZONA
@@ -2609,6 +2655,8 @@ De primera hasta 1,260 S.M.G. 756 S.M.G.
 
 De segunda hasta 946 S.M.G. 630 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 ZONA ZONA
@@ -2622,6 +2670,8 @@ De lujo hasta 1,260 S.M.G. 946 S.M.G.
 De primera hasta 946 S.M.G. 630 S.M.G.
 
 De segunda hasta 683 S.M.G. 378 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
@@ -2637,6 +2687,8 @@ De primera hasta 756 S.M.G. 504 S.M.G.
 
 De segunda hasta 504 S.M.G. 378 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
 ZONA ZONA
@@ -2650,6 +2702,8 @@ De lujo hasta 2,520 S.M.G. 1,260 S.M.G.
 De primera hasta 1,890 S.M.G. 1,134 S.M.G.
 
 De segunda hasta 1,260 S.M.G. 946 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
@@ -2665,6 +2719,8 @@ De primera hasta 630 S.M.G. 630 S.M.G.
 
 De segunda hasta 504 S.M.G. 378 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 g).- Venta de vinos y licores en envase cerrado.
 
 ZONA ZONA
@@ -2679,6 +2735,8 @@ De primera hasta 946 S.M.G. 630 S.M.G.
 
 De segunda hasta 683 S.M.G. 378 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
 ZONA ZONA
@@ -2692,6 +2750,8 @@ De lujo hasta 1,576 S.M.G. 946 S.M.G.
 De primera hasta 1,260 S.M.G. 756 S.M.G.
 
 De segunda hasta 946 S.M.G. 630 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
@@ -2707,7 +2767,27 @@ De primera hasta 1,260 S.M.G. 756 S.M.G.
 
 De segunda hasta 946 S.M.G. 630 S.M.G.
 
-III.- Por la expedición de patentes en los Municipios de Othón P. Blanco e Isla Mujeres, para la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA
+
+URBANA RURAL
+
+COMERCIAL
+
+De lujo hasta 2,520 S.M.G. 1,260 S.M.G.
+
+De primera hasta 1,890 S.M.G. 1,134 S.M.G.
+
+De segunda hasta 1,260 S.M.G. 985 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+III.- Por la expedición de licencias de bebidas alcohólicas en los Municipios de Othón p. Blanco e Isla Mujeres, para la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con los alimentos.
 
@@ -2721,6 +2801,8 @@ De primera hasta 946 S.M.G. 820 S.M.G.
 
 De segunda hasta 630 S.M.G. 504 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
 ZONA ZONA
@@ -2732,6 +2814,8 @@ De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
 De primera hasta 2,836 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
@@ -2745,6 +2829,8 @@ De primera hasta 2,206 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 d).- Venta de cervezas en envase cerrado.
 
 ZONA ZONA
@@ -2756,6 +2842,8 @@ De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
 De primera hasta 2,206 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
@@ -2769,6 +2857,8 @@ De primera hasta 4,096 S.M.G. 3,466 S.M.G.
 
 De segunda hasta 3,780 S.M.G. 3,150 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 f).- Venta de cervezas en envase abierto.
 
 ZONA ZONA
@@ -2780,6 +2870,8 @@ De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
 De primera hasta 2,206 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado-
 
@@ -2793,7 +2885,9 @@ De primera hasta 2,206 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
 
-h).- Venta de vinos y licores en envase cerrado para distribución.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
 ZONA ZONA
 
@@ -2804,6 +2898,8 @@ De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
 De primera hasta 2,836 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
@@ -2817,11 +2913,27 @@ De primera hasta 2,836 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
 
-IV.- Por la expedición de patentes en los Municipios de Benito Juárez, Cozumel y Solidaridad, para la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-a).- Venta de cervezas en envase abierto, exclusivamente con los alimentos.
+j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-Loncherías, Marisquerías y Taquerías:
+ZONA ZONA
+
+COMERCIAL URBANA
+
+De lujo hasta 4,410 S.M.G. 3,780 S.M.G.
+
+De primera hasta 4,096 S.M.G. 3,466 S.M.G.
+
+De segunda hasta 3,780 S.M.G. 3,150 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+IV.- Por la expedición de licencias de bebidas alcohólicas en los municipios de Benito Juárez, Cozumel y Solidaridad, para la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+a).- Venta de cervezas en envase abierto, exclusivamente los alimentos.
 
 ZONA ZONA
 
@@ -2832,6 +2944,8 @@ De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
 De primera hasta 2,022 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos
 
@@ -2845,6 +2959,8 @@ De primera hasta 3,466 S.M.G. 2,836 S.M.G.
 
 De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 ZONA ZONA
@@ -2856,6 +2972,8 @@ De lujo hasta 3,150 S.M.G. 2,836 S.M.G.
 De primera hasta 2,836 S.M.G. 2,520 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 2,206 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
@@ -2869,6 +2987,8 @@ De primera hasta 2,520 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,206 S.M.G. 1,890 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
 ZONA ZONA
@@ -2880,6 +3000,8 @@ De lujo hasta 5,040 S.M.G. 4,410 S.M.G.
 De primera hasta 4,726 S.M.G. 4,096 S.M.G.
 
 De segunda hasta 4,410 S.M.G. 3,780 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto
 
@@ -2893,6 +3015,8 @@ De primera hasta 2,836 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 g).- Venta de vinos y licores en envase cerrado.
 
 ZONA ZONA
@@ -2904,6 +3028,8 @@ De lujo hasta 3,150 S.M.G. 2,836 S.M.G.
 De primera hasta 2,836 S.M.G. 2,520 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 2,206 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
@@ -2917,6 +3043,8 @@ De primera hasta 3,466 S.M.G. 2,836 S.M.G.
 
 De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
 ZONA ZONA
@@ -2929,13 +3057,29 @@ De primera hasta 3,466 S.M.G. 2,836 S.M.G.
 
 De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
 
-V.- Por cada cambio que se solicite para patentes en los Municipios de Othón P. Blanco y Felipe Carrillo Puerto.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA ZONA
+
+TURÍSTICA COMERCIAL
+
+De lujo hasta 5,040 S.M.G. 4,410 S.M.G.
+
+De primera hasta 4,726 S.M.G. 4,096 S.M.G.
+
+De segunda hasta 5,739 S.M.G. 4,914 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+V.- Por cambio que se solicite para licencias de bebidas alcohólicas en los municipios de Othón P. Blanco y Felipe Carrillo Puerto.
 
 Tratándose de cambios de denominación o razón social entre sociedades o por fusión o escisión de las mismas, se aplicará el 10% de la tarifa establecida para estos efectos.
 
-a).- Venta de cervezas en envase abierto, exclusivamente con los alimentos.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-Loncherías, Marisquerías y Taquerías:
+a).- Venta de cervezas en envase abierto, exclusivamente los alimentos.
 
 ZONA URBANA COMERCIAL
 
@@ -2960,6 +3104,8 @@ De lujo hasta 316 190 S.M.G.
 De primera hasta 210 126 S.M.G.
 
 De segunda hasta 106 64 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
@@ -2989,6 +3135,8 @@ De primera hasta 316 180 S.M.G.
 
 De segunda hasta 210 126 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 ZONA ZONA
@@ -3016,6 +3164,8 @@ De lujo hasta 316 190 S.M.G.
 De primera hasta 210 126 S.M.G.
 
 De segunda hasta 106 64 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
@@ -3045,6 +3195,8 @@ De primera hasta 210 126 S.M.G.
 
 De segunda hasta 106 64 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
 ZONA ZONA
@@ -3072,6 +3224,8 @@ De lujo hasta 840 504 S.M.G.
 De primera hasta 630 378 S.M.G.
 
 De segunda hasta 526 316 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
@@ -3101,6 +3255,8 @@ De primera hasta 420 252 S.M.G.
 
 De segunda hasta 316 190 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 g).- Venta de vinos y licores en envase cerrado.
 
 ZONA ZONA
@@ -3128,6 +3284,8 @@ De lujo hasta 316 190 S.M.G.
 De primera hasta 210 126 S.M.G.
 
 De segunda hasta 106 64 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
@@ -3157,6 +3315,8 @@ De primera hasta 316 180 S.M.G.
 
 De segunda hasta 210 126 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
 ZONA ZONA
@@ -3185,7 +3345,37 @@ De primera hasta 316 180 S.M.G.
 
 De segunda hasta 210 126 S.M.G.
 
-VI.- Por cada cambio que se solicite para patentes en los municipios de José María Morelos y Lázaro Cárdenas para la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA
+
+URBANA OTROS CAMBIOS
+
+COMERCIAL
+
+De lujo hasta 1,050 S.M.G. 630 S.M.G.
+
+De primera hasta 480 S.M.G. 504 S.M.G.
+
+De segunda hasta 630 S.M.G. 378 S.M.G.
+
+ZONA OTROS
+
+RURAL CAMBIOS
+
+De lujo hasta 840 S.M.G. 504 S.M.G.
+
+De primera hasta 630 S.M.G. 378 S.M.G.
+
+De segunda hasta 526 S.M.G. 316 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+VI.- Por cada cambio de licencias de bebidas alcohólicas en los municipios de José María Morelos y Lázaro Cárdenas para la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 Tratándose de cambios de denominación o razón social entre sociedades o por fusión o escisión de las mismas, se aplicará el 10% de la tarifa establecida para estos efectos.
 
@@ -3443,7 +3633,35 @@ De primera hasta 420 252 S.M.G.
 
 De segunda hasta 316 190 S.M.G.
 
-VII.- Por cada cambio que se solicite para patentes en el municipio de Isla Mujeres:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA OTROS
+
+URBANA CAMBIOS
+
+COMERCIAL
+
+De lujo hasta 736 S.M.G. 442 S.M.G.
+
+De primera hasta 684 S.M.G. 410 S.M.G.
+
+De segunda hasta 630 S.M.G. 378 S.M.G.
+
+ZONA RURAL OTROS CAMBIOS
+
+De lujo hasta 684 S.M.G. 410 S.M.G.
+
+De primera hasta 578 S.M.G. 347 S.M.G.
+
+De segunda hasta 526 S.M.G. 316 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+VII.- Por cada cambio de licencias de bebidas alcohólicas en el municipio de Isla Mujeres:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 Tratándose de cambios de denominación o razón social entre sociedades o por fusión o escisión de las mismas, se aplicará el 10% de la tarifa establecida para estos efectos.
 
@@ -3695,7 +3913,33 @@ De primera hasta 736 442 S.M.G.
 
 De segunda hasta 630 378 S.M.G.
 
-VIII.- Por cada cambio que se solicite para patentes en los Municipios de Benito Juárez, Cozumel y Solidaridad por la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA OTROS
+
+COMERCIAL CAMBIOS
+
+De lujo hasta 2,100 S.M.G. 1,260 S.M.G.
+
+De primera hasta 1,890 S.M.G. 1,134 S.M.G.
+
+De segunda hasta 1,576 S.M.G. 946 S.M.G.
+
+ZONA URBANA OTROS CAMBIOS
+
+De lujo hasta 1,680 S.M.G. 1,008 S.M.G.
+
+De primera hasta 1,470 S.M.G. 882 S.M.G.
+
+De segunda hasta 1,050 S.M.G. 630 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Por los cambios de licencias de bebidas alcohólicas en los municipios de Benito Juárez, Cozumel y Solidaridad por la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 Tratándose de cambios de denominación o razón social entre sociedades o por fusión o escisión de las mismas, se aplicará el 10% de la tarifa establecida para estos efectos.
 
@@ -3935,7 +4179,35 @@ De primera hasta 1,156 694 S.M.G.
 
 De segunda hasta 1,050 630 S.M.G.
 
-IX.- Por los cambios de Municipio de las patentes de Othón P. Blanco y Felipe Carrillo Puerto a Benito Juárez, Solidaridad y Cozumel, para la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA OTROS
+
+TURÍSTICA CAMBIOS
+
+De lujo hasta 940 S.M.G. 568 S.M.G.
+
+De primera hasta 840 S.M.G. 504 S.M.G.
+
+De segunda hasta 736 S.M.G. 442 S.M.G.
+
+ZONA OTROS CAMBIOS
+
+COMERCIAL
+
+De lujo hasta 736 S.M.G. 442 S.M.G.
+
+De primera hasta 630 S.M.G. 378 S.M.G.
+
+De segunda hasta 526 S.M.G. 316 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+IX.- Por los cambios de municipio (sic) de las licencias de bebidas alcohólicas de Othón P. Blanco y Felipe Carrillo Puerto a Benito Juárez, Solidaridad y Cozumel, para la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
@@ -3955,6 +4227,8 @@ De Primera hasta 905 S.M.G
 
 De segunda hasta 893 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
 ZONA HOTELERA
@@ -3972,6 +4246,8 @@ De lujo hasta 1,864 S.M.G.
 De Primera hasta 1,851 S.M.G
 
 De segunda hasta 1,838 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
@@ -3991,6 +4267,8 @@ De Primera hasta 1,732 S.M.G
 
 De segunda hasta 1,681 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 d).- Venta de cervezas en envase cerrado.
 
 ZONA HOTELERA
@@ -4008,6 +4286,8 @@ De lujo hasta 1,723 S.M.G.
 De Primera hasta 1,576 S.M.G
 
 De segunda hasta 1,418 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
@@ -4027,6 +4307,8 @@ De Primera hasta 2,441 S.M.G
 
 De segunda hasta 1,837 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 f).- Venta de cervezas en envase abierto.
 
 ZONA HOTELERA
@@ -4044,6 +4326,8 @@ De lujo hasta 944 S.M.G.
 De Primera hasta 905 S.M.G
 
 De segunda hasta 893 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
@@ -4063,6 +4347,8 @@ De Primera hasta 1,576 S.M.G
 
 De segunda hasta 1,418 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 h).- Venta de vinos y licores en envase cerrado para distribución el mayoreo.
 
 ZONA HOTELERA
@@ -4080,6 +4366,8 @@ De lujo hasta 1,864 S.M.G.
 De Primera hasta 1,851 S.M.G
 
 De segunda hasta 1,838 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
@@ -4099,7 +4387,25 @@ De Primera hasta 1,851 S.M.G
 
 De segunda hasta 1,838 S.M.G.
 
-X.- Por los cambios de Municipio de las patentes de Othón P. Blanco y Felipe Carrillo Puerto a Isla Mujeres, para la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA ZONA COMERCIAL
+
+HOTELERA
+
+De lujo hasta 2,441 S.M.G. 2, 445 S.M.G.
+
+De primera hasta 2,428 S.M.G. 2,441 S.M.G.
+
+De segunda hasta 2,415 S.M.G. 1, 837 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+X.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Othón P. Blanco y Felipe Carrillo Puerto a Isla Mujeres, para la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
@@ -4119,6 +4425,8 @@ De Primera hasta 200 S.M.G
 
 De segunda hasta 158 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
 ZONA HOTELERA
@@ -4137,6 +4445,8 @@ De Primera hasta 1,221 S.M.G
 
 De segunda hasta 1,208 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 ZONA HOTELERA
@@ -4154,6 +4464,8 @@ De lujo hasta 840 S.M.G.
 De Primera hasta 788 S.M.G
 
 De segunda hasta 735 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
@@ -4173,6 +4485,8 @@ De Primera hasta 946 S.M.G
 
 De segunda hasta 787 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
 ZONA HOTELERA
@@ -4190,6 +4504,8 @@ De lujo hasta 1,837 S.M.G.
 De Primera hasta 1,825 S.M.G
 
 De segunda hasta 1,811 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
@@ -4209,6 +4525,8 @@ De Primera hasta 275 S.M.G
 
 De segunda hasta 263 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 g).- Venta de vinos y licores en envase cerrado.
 
 ZONA HOTELERA
@@ -4226,6 +4544,8 @@ De lujo hasta 840 S.M.G.
 De Primera hasta 788 S.M.G
 
 De segunda hasta 735 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
@@ -4245,6 +4565,8 @@ De Primera hasta 1,221 S.M.G
 
 De segunda hasta 1,208 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
 ZONA HOTELERA
@@ -4263,7 +4585,25 @@ De Primera hasta 1,221 S.M.G
 
 De segunda hasta 1,208 S.M.G.
 
-XI.- Por los cambios de Municipio de las patentes de José Ma. Morelos y Lázaro Cárdenas a Benito Juárez, Solidaridad y Cozumel, para la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA ZONA
+
+HOTELERA COMERCIAL
+
+De lujo hasta 1,811 S.M.G. 1,837 S.M.G.
+
+De primera hasta 1,798 S.M.G. 1,825 S.M.G.
+
+De segunda hasta 1,785 S.M.G. 1,811 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+XI.- Por los cambios de municipio de las licencias de bebidas alcohólicas de José Ma. Morelos y Lázaro Cárdenas a Benito Juárez, Solidaridad y Cozumel, para la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
@@ -4283,6 +4623,8 @@ De Primera hasta 1,072 S.M.G
 
 De segunda hasta 882 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
 ZONA HOTELERA
@@ -4301,6 +4643,8 @@ De Primera hasta 2,080 S.M.G
 
 De segunda hasta 1,890 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 ZONA HOTELERA
@@ -4318,6 +4662,8 @@ De lujo hasta 1,890 S.M.G.
 De Primera hasta 1,890 S.M.G
 
 De segunda hasta 1,828 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
@@ -4337,6 +4683,8 @@ De Primera hasta 1,702 S.M.G
 
 De segunda hasta 1,512 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
 ZONA HOTELERA
@@ -4354,6 +4702,8 @@ De lujo hasta 3,150 S.M.G.
 De Primera hasta 2,962 S.M.G
 
 De segunda hasta 2,834 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
@@ -4373,6 +4723,8 @@ De Primera hasta 1,576 S.M.G
 
 De segunda hasta 1,512 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 g).- Venta de vinos y licores en envase cerrado.
 
 ZONA HOTELERA
@@ -4390,6 +4742,8 @@ De lujo hasta 1,890 S.M.G.
 De Primera hasta 1,890 S.M.G
 
 De segunda hasta 1,828 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
@@ -4409,6 +4763,8 @@ De Primera hasta 2,080 S.M.G
 
 De segunda hasta 1,8908 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
 ZONA HOTELERA
@@ -4427,7 +4783,25 @@ De Primera hasta 2,080 S.M.G
 
 De segunda hasta 1,890 S.M.G.
 
-XII.- Por los cambios de Municipio de las patentes de José Ma. Morelos y Lázaro Cárdenas a Isla Mujeres, para la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA ZONA COMERCIAL
+
+HOTELERA
+
+De lujo hasta 3,150 S.M.G. 3,150 S.M.G.
+
+De primera hasta 2,836 S.M.G. 2,962 S.M.G.
+
+De segunda hasta 2,520 S.M.G. 2,834 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+XII.- Por los cambios de municipio de las licencias de bebidas alcohólicas de José Ma. Morelos y Lázaro Cárdenas a Isla Mujeres, para la:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
@@ -4447,133 +4821,9 @@ De Primera hasta 316 S.M.G
 
 De segunda hasta 126 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
-
-ZONA HOTELERA
-
-De lujo hasta 1,576 S.M.G.
-
-De Primera hasta 1,574 S.M.G.
-
-De segunda hasta 1,574 S.M.G.
-
-ZONA COMERCIAL
-
-De lujo hasta 1,574 S.M.G.
-
-De Primera hasta 1,450 S.M.G
-
-De segunda hasta 1,260 S.M.G.
-
-c).- Venta de cervezas, vinos y licores en envase cerrado.
-
-ZONA HOTELERA
-
-De lujo hasta 1,260 S.M.G.
-
-De Primera hasta 1,260 S.M.G.
-
-De segunda hasta 1,207 S.M.G.
-
-ZONA COMERCIAL
-
-De lujo hasta 946 S.M.G.
-
-De Primera hasta 944 S.M.G
-
-De segunda hasta 882 S.M.G.
-
-d).- Venta de cervezas en envase cerrado.
-
-ZONA HOTELERA
-
-De lujo hasta 1,574 S.M.G.
-
-De Primera hasta 1,450 S.M.G.
-
-De segunda hasta 1,386 S.M.G.
-
-ZONA COMERCIAL
-
-De lujo hasta 1,134 S.M.G.
-
-De Primera hasta 1,0721 S.M.G
-
-De segunda hasta 882 S.M.G.
-
-e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
-
-ZONA HOTELERA
-
-De lujo hasta 2,520 S.M.G.
-
-De Primera hasta 2,206 S.M.G.
-
-De segunda hasta 1,890 S.M.G.
-
-ZONA COMERCIAL
-
-De lujo hasta 2.520S.M.G.
-
-De Primera hasta 2,332 S.M.G
-
-De segunda hasta 2,204 S.M.G.
-
-f).- Venta de cervezas en envase abierto.
-
-ZONA HOTELERA
-
-De lujo hasta 1,700 S.M.G.
-
-De Primera hasta 1,576 S.M.G.
-
-De segunda hasta 1,386 S.M.G.
-
-ZONA COMERCIAL
-
-De lujo hasta 1,134 S.M.G.
-
-De Primera hasta 946 S.M.G
-
-De segunda hasta 882 S.M.G.
-
-g).- Venta de vinos y licores en envase cerrado.
-
-ZONA HOTELERA
-
-De lujo hasta 1,260 S.M.G.
-
-De Primera hasta 1,260 S.M.G.
-
-De segunda hasta 1,207 S.M.G.
-
-ZONA COMERCIAL
-
-De lujo hasta 946 S.M.G.
-
-De Primera hasta 944 S.M.G
-
-De segunda hasta 882 S.M.G.
-
-h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
-
-ZONA HOTELERA
-
-De lujo hasta 1,576 S.M.G.
-
-De Primera hasta 1,574 S.M.G.
-
-De segunda hasta 1,574 S.M.G.
-
-ZONA COMERCIAL
-
-De lujo hasta 1,574 S.M.G.
-
-De Primera hasta 1,450 S.M.G
-
-De segunda hasta 1,260 S.M.G.
-
-i).- Venta de cerveza en envase cerrado para distribución al mayoreo.
 
 ZONA HOTELERA
 
@@ -4593,9 +4843,165 @@ De segunda hasta 1,260 S.M.G.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
+c).- Venta de cervezas, vinos y licores en envase cerrado.
+
+ZONA HOTELERA
+
+De lujo hasta 1,260 S.M.G.
+
+De Primera hasta 1,260 S.M.G.
+
+De segunda hasta 1,207 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 946 S.M.G.
+
+De Primera hasta 944 S.M.G
+
+De segunda hasta 882 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+d).- Venta de cervezas en envase cerrado.
+
+ZONA HOTELERA
+
+De lujo hasta 1,574 S.M.G.
+
+De Primera hasta 1,450 S.M.G.
+
+De segunda hasta 1,386 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,134 S.M.G.
+
+De Primera hasta 1,0721 S.M.G
+
+De segunda hasta 882 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
+
+ZONA HOTELERA
+
+De lujo hasta 2,520 S.M.G.
+
+De Primera hasta 2,206 S.M.G.
+
+De segunda hasta 1,890 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 2.520S.M.G.
+
+De Primera hasta 2,332 S.M.G
+
+De segunda hasta 2,204 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+f).- Venta de cervezas en envase abierto.
+
+ZONA HOTELERA
+
+De lujo hasta 1,700 S.M.G.
+
+De Primera hasta 1,576 S.M.G.
+
+De segunda hasta 1,386 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,134 S.M.G.
+
+De Primera hasta 946 S.M.G
+
+De segunda hasta 882 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+g).- Venta de vinos y licores en envase cerrado.
+
+ZONA HOTELERA
+
+De lujo hasta 1,260 S.M.G.
+
+De Primera hasta 1,260 S.M.G.
+
+De segunda hasta 1,207 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 946 S.M.G.
+
+De Primera hasta 944 S.M.G
+
+De segunda hasta 882 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA HOTELERA
+
+De lujo hasta 1,576 S.M.G.
+
+De Primera hasta 1,574 S.M.G.
+
+De segunda hasta 1,574 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,574 S.M.G.
+
+De Primera hasta 1,450 S.M.G
+
+De segunda hasta 1,260 S.M.G.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+i).- Venta de cerveza en envase cerrado para distribución al mayoreo.
+
+ZONA HOTELERA
+
+De lujo hasta 1,576 S.M.G.
+
+De Primera hasta 1,574 S.M.G.
+
+De segunda hasta 1,574 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,574 S.M.G.
+
+De Primera hasta 1,450 S.M.G
+
+De segunda hasta 1,260 S.M.G.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+
+ZONA ZONA COMERCIAL
+
+HOTELERA
+
+De lujo hasta 2,520 S.M.G. 2,520 S.M.G.
+
+De primera hasta 2,206 S.M.G. 2,332 S.M.G.
+
+De segunda hasta 1,890 S.M.G. 2,204 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 170-A.
 
-La Secretaria expedirá de conformidad con lo establecido en la Ley Para (sic) el Control de Venta y Consumo de Bebidas Alcohólicas del Estado de Quintana Roo, los permisos especiales que a continuación se mencionan:
+La Secretaría expedirá de conformidad con lo establecido en la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo los permisos especiales que a continuación se mencionan:
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 I.- Los contribuyentes que enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados SOUVENIRS, cuyo contenido máximo sea hasta 150 mililitros, deberán solicitar permiso especial ante la Oficina Recaudadora que corresponda a su domicilio fiscal, antes de iniciar sus actividades relacionadas con la venta de estos productos.
 
@@ -4621,7 +5027,11 @@ ANUAL HASTA DE 73 HASTA DE 54 HASTA
 
 146 S.M.G. 108 S.M.G.
 
-II.- Las personas físicas y morales que lleven a cabo eventos de carácter ocasional, en los que además se realice la venta y consumo de bebidas alcohólicas, deberán contar con un permiso especial expedido por la Secretaría, de conformidad con el Artículo 5 fracción III de la Ley Para (sic) el Control de Venta y Consumo de Bebidas Alcohólicas del Estado de Quintana Roo, pagando un derecho diario de acuerdo a la siguiente tarifa:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+II.- Las personas físicas y morales que lleven a cabo eventos de carácter ocasional, en los que además se realice la venta y consumo de bebidas alcohólicas, deberán contar con un permiso especial expedido por la Secretaría, de conformidad con el Artículo 25 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, pagando un derecho diario de acuerdo a la siguiente tarifa:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 Zona 1.-
 
@@ -4629,13 +5039,19 @@ A) Por cada caja de 24 cervezas. $ 22.00.
 
 B) Por cada botella de licor $ 22.00.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 Zona 2.-
 
 A) Por cada caja de 24 cervezas. $ 20.00.
 
 B) Por cada botella de licor $ 18.00.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 Para los efectos de este artículo se consideran dentro de la Zona 1 los Municipios de Benito Juárez, Solidaridad, Cozumel e Isla Mujeres; y dentro de la Zona 2 los Municipios de Othón P. Blanco, Lázaro Cárdenas, José María Morelos y Felipe Carrillo Puerto.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 TARIFA
 
@@ -4673,39 +5089,49 @@ por día hasta
 
 Otros permisos, por día hasta 50 S.M.G. 25 S.M.G.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 Para los efectos de esta tarifa se consideran dentro de la zona 1 los Municipios de: Benito Juárez, Solidaridad, Cozumel e Isla Mujeres, y dentro de la zona 2, los Municipios de: Othón P. Blanco, Lázaro Cárdenas, José Ma. Morelos y Felipe Carrillo Puerto.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 170-B.
 
-Por la expedici6n de permisos provisionales, otorgados para la venta de bebidas alcohólicas, en los casos en que el titular de una patente solicite una modificación a la misma y en tanto se le entrega la patente debidamente modificada, se generará a cargo del solicitante, un derecho equivalente hasta de 110 S.M.G. del valor de la licencia objeto de la solicitud.
+Por la expedición de permisos provisionales, otorgados para la venta de bebidas alcohólicas, en los casos en que el titular de una licencia de bebidas alcohólicas solicite una modificación a la misma y en tanto se le entrega la licencia debidamente modificada, se generará a cargo del solicitante, un derecho equivalente hasta de 110 S.M.G. del valor de la licencia objeto de la solicitud.
 
-Lo mismo es aplicable al solicitante de de (sic) una patente, una vez que se le haya resuelto su solicitud de manera favorable por la Secretaría, y en tanto le es entregada la patente respectiva.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-En caso de prorroga, pagará la parte proporcional que corresponda de acuerdo a lo anteriormente establecido.
+Lo mismo es aplicable al solicitante de una licencia de bebidas alcohólicas, una vez que se le haya resuelto su solicitud de manera favorable por la Secretaría, y en tanto le es entregada la licencia respectiva.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
+En caso de prorroga, pagará la parte proporcional que corresponda de acuerdo a lo anteriormente establecido.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 170-C.
 
-Por la transferencia temporal del uso de los derechos y obligaciones de una patente, mediante el contrato de comodato se generará a cargo del comodatario, un derecho equivalente hasta de 150 S.M.G.
+Por la transferencia temporal del uso de los derechos y obligaciones de una licencia de bebidas alcohólicas, mediante el contrato de comodato se generará a cargo del comodatario, un derecho equivalente hasta de 150 S.M.G.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 170-D.
 
-La Secretaría cobrará y expedirá de conformidad con lo establecido en el Artículo 18 de la Ley para la Venta y Consumo de Bebidas Alcohólicas del Estado de Quintana Roo, licencias únicas que se otorgarán a persona física o moral que tenga dentro de un mismo predio uno o varios establecimientos con diversos giros para la venta de bebidas alcohólicas y la razón social sea la misma.
+La Secretaría cobrará y expedirá de conformidad con lo establecido en el artículo 18 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, licencias únicas que se otorgarán a persona física o moral que tenga dentro de un mismo predio uno o varios establecimientos con diversos giros para la venta de bebidas alcohólicas y la razón social sea la misma.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2007)</small>
 
 Por expedición de licencias únicas se cobrará por cada giro o establecimiento, que incluya cada licencia, las siguientes.
 
 (VEASE ARCHIVO ANEXO)
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 170-E.
 
-Cuando el contribuyente preste el Servicio Público Especializado a que se refiere el Artículo 68 de la Ley de Tránsito, Transporte Y explotación de Vías y carreteras del Estado de Quintana Roo, y dentro de este servicio se otorgue para su venta o consumo bebidas alcohólicas y que por la naturaleza de su actividad comercial, no cuente con licencia de bebidas alcohólicas. La Secretaría cobrará y expedirá de conformidad con lo establecido en el Artículo 17 de la Ley para la venta y consumo de bebidas alcohólicas del Estado de Quintana Roo, permisos especiales que se otorgarán por unidad de transporte a personas físicas o morales, cobrándose la siguiente:
+Cuando el contribuyente preste el servicio público especializado a que se refiere el artículo 68 de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo, y dentro de este servicio se otorgue para su venta o consumo bebidas alcohólicas y que por la naturaleza de su actividad comercial, no cuente con licencia de bebidas alcohólicas. La Secretaría cobrará y expedirá de conformidad con lo establecido en el artículo 17 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, permisos especiales que se otorgarán por unidad de transporte a personas físicas o morales, cobrándose la siguiente:
+
+> <small>(ADICIONADA P.O. 26 DE JUNIO DE 2007)</small>
 
 TARIFA
 
@@ -4739,9 +5165,9 @@ II.- Croquis de la ubicación.
 
 III.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-IV.- Patente original y copia, si expenden bebidas alcohólicas.
+IV.- Licencia de bebidas alcohólicas original y copia, si expenden bebidas alcohólicas.
 
 V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
@@ -5209,11 +5635,13 @@ CX.- Rentadoras de películas de videos, hasta 16 S.M.G.
 
 CXI.- Los giros que no se encuentren especificados en las fracciones que anteceden, serán equiparados por similitud con los mismos; en el supuesto de que no se encuentre uno semejante se aplicará: hasta 53 S.M.G.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 173-A.
 
-Los contribuyentes que hayan adquirido licencias para la venta o expendio de bebidas alcohólicas tendrán la obligación de solicitar, dentro de los dos primeros meses de cada año, la licencia de funcionamiento y el resello de las mismas, presentando los documentos señalados en el artículo 175 de esta ley, para lo cual cubrirán un derecho en base a lo siguiente:
+Los contribuyentes que hayan adquirido licencia de bebidas alcohólicas para la venta o expendio, tendrán la obligación de solicitar, dentro de los dos primeros meses de cada año la licencia de funcionamiento y el resello de las mismas, presentando los documentos señalados en el artículo 175 de esta Ley, para lo cual cubrirán un derecho en base a la siguiente:
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2007)</small>
 
 TARIFA
 
@@ -5263,7 +5691,17 @@ cerrado para distribución al
 
 mayoreo.
 
-II. Para los establecimientos domiciliados en los Municipios de José María Morelos y Lázaro Cárdenas, por la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j). Venta de cervezas, vinos y licores De 39 hasta 79 S.M.G.
+
+en envase cerrado para distribución
+
+al mayoreo
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+II. Para los establecimientos domiciliados en los municipios de José María Morelos y Lázaro Cárdenas.
 
 a) Venta de cervezas De 24 hasta 48 S.M.G.
 
@@ -5309,7 +5747,17 @@ cerrado para distribución al
 
 mayoreo.
 
-III.- Para los establecimientos domiciliados en el Municipio de Isla Mujeres, por la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j) Venta de cervezas, vinos y licores De 31 hasta 63 S.M.G.
+
+en envase cerrado para distribución
+
+al mayoreo
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+III.- Para los establecimientos domiciliados en el municipio de Isla Mujeres, por la:
 
 a) Venta de cervezas exclusivamente De 31 hasta 63 S.M.G.
 
@@ -5351,7 +5799,17 @@ cerrado para distribución al
 
 mayoreo
 
-IV. Para los establecimientos domiciliados en los Municipios de Benito Juárez, Cozumel y Solidaridad, por la:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j) Venta de cervezas, vinos y licores De 89 hasta 179 S.M.G.
+
+en envase cerrado para distribución
+
+al mayoreo
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+IV. Para los establecimientos domiciliados en los municipios de Benito Juárez, Cozumel y Solidaridad, para la:
 
 a) Venta de cervezas exclusivamente De 31 hasta 63 S.M.G.
 
@@ -5393,6 +5851,14 @@ cerrado para distribución al
 
 mayoreo.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+j) Venta de cervezas, vinos y licores De 105 hasta 210 S.M.G.
+
+en envase cerrado para distribución
+
+al mayoreo
+
 En el caso de las licencias únicas se cobrará un derecho equivalente a cada giro o establecimiento de conformidad con las tarifas vigentes arriba mencionadas.
 
 ###### ARTICULO 174.
@@ -5407,9 +5873,11 @@ Las licencias a que se refiere el Artículo 170-A y 170-D de esta Ley, deberán 
 
 I.- Licencia de funcionamiento original del año inmediato anterior.
 
-II. Copia de su último pago de impuesto sobre nóminas, impuesto por hospedaje o cualquier impuesto federal cuya administración y vigilancia haya sido transferida mediante convenio, al Estado o acreditar que se encuentran comprendidos en los supuestos del artículo 48 de esta Ley.
+II.- Copia de su último pago de impuesto sobre nóminas, impuesto por hospedaje o cualquier impuesto federal cuya administración y vigilancia haya sido transferida mediante convenio, al Estado o acreditar que se encuentran comprendidos en los supuestos del artículo 48 de esta Ley.
 
-III.- Licencia original y copia.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+III.- Licencia de bebidas alcohólicas original para cotejo y copia.
 
 IV.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
 
@@ -5439,9 +5907,7 @@ c) Bicicletas 0.58 S.M.G.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-d) Carros y carretas de tracción animal
-
-0.58 S.M.G.
+d) Carros y carretas de tracción animal 0.58 S.M.G.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5927,7 +6393,7 @@ III.- Recibir y en su caso requerir los avisos, manifestaciones y demás documen
 
 IV.- Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público.
 
-V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el "Registro Estatal Vehícular" y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca dicha Secretaría.
+V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el "Registro Estatal Vehícular' y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca dicha Secretaría.
 
 VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
@@ -5957,9 +6423,7 @@ a).- Cuando resulten dos lotes 5.31 S.M.G.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-b).- Cuando resulten más de dos lotes, por lote excedente
-
-4.03 S.M.G.
+b).- Cuando resulten más de dos lotes, por lote excedente 4.03 S.M.G.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -6046,6 +6510,10 @@ XI.- Constancias de Registro 5.75 S.M.G.
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 XII.- Trámite de titulación 2.00 S.M.G.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+XIII.- Por dictámenes técnicos en agrimensura o planimetría, se aplicarán las tarifas establecidas en las fracciones VII y IX de este capítulo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -6179,13 +6647,15 @@ w).- Investigación de gnathostoma. $ 200.00
 
 x).- Investigación de Biotoxina Ciguata por bioensayo. $ 400.00
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-IV.- Verificación sanitaria de vehículos que se dediquen al transporte de pasajeros:
+IV.- Verificación sanitaria de vehículos, embarcaciones y aeronaves que se dediquen al transporte de pasajeros y/o de carga:
 
-a).- Con cupo de hasta 10 pasajeros. 6.0 S.M.G.
+a).- Con cupo de hasta 10 pasajeros y/o carga de hasta 2 toneladas. 10.0 S.M.G.
 
-b).- Con cupo de más de 10 pasajeros. 8.0 S.M.G.
+b).- Con cupo de más de 10 hasta 100 pasajeros y/o carga de hasta 2 toneladas. 10.0 S.M.G.
+
+c).- Con cupo de más de 100 pasajeros y/o más de 6 toneladas de carga. 80.0 S.M.G.
 
 V.- Guía sanitarias por embarque 2 al millar advaloren.
 
@@ -7235,31 +7705,45 @@ El pago de los derechos a que se refiere este artículo, deberá realizarse seme
 
 Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, el comprobante debidamente sellado y marcado con la máquina registradora de la oficina recaudadora de rentas o del centro de verificación al efecto autorizado a fin de que sea tramitada su revista mecánica.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 206
 
-BIS.- Por la evaluación del impacto ambiental, las personas físicas y morales que soliciten el servicio, pagarán un derecho conforme a la siguiente:
+BIS.- Por los servicios que en materia de impacto ambiental presta la Secretaría de Desarrollo Urbano y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
 
 TARIFA
 
-I.- Por concepto de recepción de informe preliminar o manifestación del Impacto Ambiental. 40 días de S.M.G.
+I.- Por concepto de recepción y evaluación de los documentos que se enlistan a continuación:
 
-II.- Por concepto de evaluación de informe Preliminar o manifestación del Impacto Ambiental: 65 días de S.M.G.
+a).- Manifestación de impacto ambiental, modalidad ordinaria y/o detallada. 170 S.M.G.
 
-Asimismo, también se proporcionarán los siguientes servicios relacionados con la materia de impacto ambiental, conforme a la tarifa que se mencione a continuación:
+b).- Manifestación de impacto ambiental que identifique los impactos negativos ocasionados al ambiente. 170 S.M.G.
 
-a) Registro de prestador de servicio en materia de impacto ambiental: 33 días de S.M.G.
+c).- Informe preventivo. 150 S.M.G.
 
-b) Por concepto de renovación de la autorización de manifestación de Impacto Ambiental:
+d).- Estudios de riesgo 120 S.M.G.
 
-1.- Ordinaria 10 días de S.M.G.
+e).- Aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental y/o informe preventivo. 80 S.M.G.
 
-2.- Detallada 29 días de S.M.G.
+f).- Estudios de emisiones a la atmosfera. 190 S.M.G.
 
-c).- Por concepto de verificación de áreas, predios y obras: 54 S.M.G.
+g).- Auditorías ambientales. 440 S.M.G.
 
-d).- Por concepto de explotación y aprovechamiento de material pétreo: 0.1 S.M.G. por metro cúbico.
+II.- Por los servicios relacionados con la materia de impacto ambiental como a continuación se indica:
+
+a).- Expedición de resolución que contenga la autorización de modificaciones a proyectos: 50 S.M.G.
+
+b).- Expedición de las renovaciones de la vigencia de las autorizaciones en materia de impacto ambiental: 50 S.M.G.
+
+c).- Expedición de la exención de la presentación de los estudios en materia de impacto ambiental: 100 S.M.G.
+
+d).- Emitir la congruencia de obras u actividades que pretendan realizarse en el territorio estatal: 30 S.M.G.
+
+e).- Ingreso al Registro de Prestadores de Servicio en Materia de Impacto Ambiental del Gobierno del Estado de Quintana Roo: 60 S.M.G.
+
+f).- Expedición de Refrendo del Registro de Prestadores de Servicio en Materia de impacto Ambiental del Gobierno del Estado de Quintana Roo: 50 S.M.G.
+
+g).- Por concepto de verificación e inspección de áreas, predios y obras: 60 S.M.G.
 
 ### CAPITULO XVIII (SIC). DE LA PRESTACION DE SEGURIDAD PUBLICA
 
@@ -7479,7 +7963,9 @@ Por llevar a cabo el control, vigilancia y evaluación de los recursos que se re
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO XXIII. SERVICIOS QUE OTORGA LA SECRETARIA DE CULTURA
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 207-J.
 
@@ -7533,23 +8019,229 @@ Por registro de patente de notario público pagará 75 S.M.G.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+### CAPITULO UNICO
 
 ###### ARTICULO 207-M.
 
 Por los materiales que se utilicen para reproducir la información que proporcionen los sujetos obligados de naturaleza estatal, previstos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, pagarán un derecho conforme a lo siguiente:
 
-(F. DE E., P.O. 30 DE ENERO DE 2006) (F. DE E., P.O. 3 DE FEBRERO DE 2006)
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-I.- Por la expedición de documentos en copia simple 0.011 S. M. G. por cada foja.
+I.- Por la expedición de documentos en copia simple 0.011 S.M.G. por cada foja tamaño carta y 0.012 S.M.G. por cada foja en tamaño oficio y legal.
 
-II.- Por la expedición de videocintas 2.00 S. M. G. por cada una.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-III.- Por la expedición de audiocasettes 0.5 S. M. G por cada uno.
+II.- Por la expedición de copias simples de planos geográficos o arquitectónicos que por sus características y dimensiones no puedan reproducirse en papel tamaño carta, oficio o legal, 0.83 S.M.G. por cada foja de tamaño especial.
 
-IV.- Por la expedición de disco compacto 0.5 S. M. G. por cada uno.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
+III.- Por la expedición de videocintas 2.00 S.M.G. por cada una.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+IV.- Por la expedición de audiocasettes 0.5 S. M. G por cada uno.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+V.- Por la expedición de disco compacto 0.5 S. M. G. por cada uno.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de lo dispuesto en las fracciones III, IV y V, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+En la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refieren las fracciones I y II de este artículo, se realizará el pago a que se refiere la fracción IV del artículo 188 de esta Ley.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+
+###### ARTICULO 207-N.
+
+Los derechos por los servicios que prestan la Secretaría de la Cultura, se pagarán conforme a la siguiente:
+
+TARIFA
+
+I.- Por la renta de espacios pertenecientes a la Secretaría de Cultura se cobrará de acuerdo a la siguiente tarifa:
+
+En la Zona Sur:
+
+Teatro Constituyentes del 74 De 105 Por día
+
+S.M.G. hasta
+
+420 S.M.G.
+
+Teatro Minerva 50 S.M.G. Por día
+
+Salón Latinoamericano 75 S.M.G. Por día
+
+Auditorio de la casa de la
+
+Cultura en Cancún 65 S.M.G. Por día
+
+Salón de Conferencias
+
+de la Cultura en Cancún 40 S.M.G. Por día
+
+Cafetería de la Cultura
+
+en Cancún 30 S.M.G. Por día
+
+Salón de danzas de la
+
+Cultura en Cancún 10 S.M.G. Por mes
+
+II.- Por el uso de la casa
+
+Internacional del escritor 6 S.M.G. por persona
+
+III.- Por cada función
+
+En cine café 0.32 S.M.G. por persona
+
+IV.- Por visita a los museos se cobrará de acuerdo a la siguiente tarifa:
+
+Museos Niños Adultos Extranjeros
+
+a).- Cultura Maya 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
+
+b).- San Felipe de
+
+Bacalar 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
+
+c).- Guerra de
+
+Castas 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
+
+d).- De la Ciudad 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
+
+Las tarifas contempladas en la tabla anterior, serán reducidas en un 50% para estudiantes con credencial vigente, y para las personas con credencial del INSEN a excepción de extranjeros, de lunes a sábado, salvo los días domingo que estarán exentos de pago los visitantes que residan en el Estado.
+
+V.- Por el acceso a la educación que imparten las escuelas estatales, se cobrará de acuerdo a la siguiente tarifa:
+
+Por inscripción Por mensualidad
+
+a).- De música Carrera 2.75 S.M.G. carrera 2.75 S.M.G.
+
+Taller: 2.00 S.M.G. taller 2.00 S.M.G.
+
+b).- De danza 3.00 S.M.G. Aerodance, yoga
+
+y ballet 4.25 S.M.G.
+
+Danza y Jazz
+
+3.00 S.M.G
+
+Sensibilización y
+
+jardín de danza
+
+2.00 S.M.G.
+
+c).- De artes plásticas Taller de dibujo y
+
+pintura 1.00 S.M.G.
+
+Artes plásticas
+
+2.00 S.M.G.
+
+Taller juvenil de
+
+Teatro 1.00 S.M.G.
+
+Curso avanzado de
+
+artes plásticas
+
+12.5 S.M.G.
+
+VI.- Por el acceso a la educación que imparten las casas de la cultura en el Estado, se cobrará de acuerdo a la siguiente tarifa:
+
+ZONA NORTE
+
+Inscripción Mensualidad
+
+a).- en Cancún 3.00 S.M.G. Lengua Maya 4.25 S.M.G.
+
+Inicio de música
+
+7.25 S.M.G.
+
+Jazz, danza, dibujo, ballet,
+
+Música 8.50 S.M.G.
+
+Ballet 1, tango argentino
+
+10 S.M.G.
+
+Inicio de artística, dibujo y
+
+pintura 10.50 S.M.G.
+
+Piano, vitral,
+
+Cinematrografía
+
+b).- en cozumel 3.00 S.M.G. Ballet, jazz, bailes
+
+modernos, piano, guitarra,
+
+batería, canto, pintura,
+
+hawaiano, folklore, salsa,
+
+gimnasia y ajdedrez
+
+5.25 S.M.G.
+
+Danza y karate 6.25 S.M.G.
+
+c).- en tulum Tae Kwon Do Bordado, danza, música,
+
+4.25 S.M.G. artes plásticas, global
+
+internacional 1.00 S.M.G.
+
+Bordado, danza Tae Kwon Do e inglés
+
+Música, artes 6.25 S.M.G.
+
+Plásticas 1.00
+
+S.M.G.
+
+Secretarial 13.50
+
+S.M.G.
+
+En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
+
+ZONA SUR
+
+Inscripción Mensualidad
+
+a).- en Chetumal 1.50 S.M.G. 3.00 S.M.G.
+
+b).- en Calderitas 0.65 S.M.G. 0.25 S.M.G.
+
+c).- en Bacalar exento 1.00 S.M.G.
+
+d).- Felipe C.
+
+Puerto 1.00 S.MG. 2.00 S.M.G.
+
+e.- Chunhuhub exento exento
+
+Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
 
 ### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
@@ -7569,13 +8261,13 @@ Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cob
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 #### SECCION SEXTA. IMPRENTA DE GOBIERNO
 
 #### SECCION SEPTIMA. PUBLICACIONES OFICIALES
+
+### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO UNICO
 
@@ -8382,3 +9074,83 @@ ARTÍCULO TRANSITORIO:
 P.O. 26 DE JUNIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 17 DE DICIEMBRE DE 2007.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Primero.- En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes impuestos y derechos:
+
+l.- IMPUESTOS:
+
+1. Al comercio y la industria.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+3. Sobre la enajenación de vehículos de motor y bienes muebles entre particulares de manera parcial.
+
+4. Sobre la compraventa de primera mano de productos agrícolas.
+
+5. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre compraventa de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+7. Sobre la cría de ganado.
+
+8. Sobre compraventa o permuta de ganado, o sus esquilmos.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para la construcción.
+
+II.- DERECHOS:
+
+A).- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales e industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjetas para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7.- Licencias, permisos o autorizaciones para la colocación de anuncios o carteles para la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro público de lo propiedad y del comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D).- Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de estos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A y B de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este Artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Segundo.- Tratándose de empresas dedicadas a la construcción, que deseen efectuar la contribución del impuesto en una sola exhibición en forma anticipada, siempre y cuando se trate de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación, del costo de mano de obra por metro cuadrado para obra privada, mismos que se publican de forma anual a petición de la Dirección de afiliación y cobranza del Instituto Mexicano del Seguro Social.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Tercero.- Se dejan sin efecto todas las disposiciones legales de que se opongan al presente decreto.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Cuarto.- El presente Decreto entrará en vigor a partir del 1° de enero de 2008, previa publicación en el Periódico Oficial del Estado.
