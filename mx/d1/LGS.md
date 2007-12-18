@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2007-06-19"
+last_updated: "2007-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 2007.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -2750,9 +2750,13 @@ II.- La elaboración, fabricación o preparación de medicamentos, plaguicidas, 
 
 III.- La aplicación de plaguicidas;
 
-IV.- La utilización de fuentes de radiación para fines médicos o de diagnóstico, y
+IV.- La utilización de fuentes de radiación para fines médicos o de diagnóstico, y (sic)
 
-V.- Los establecimientos en que se practiquen actos quirúrgicos u obstétricos.
+V.- Los establecimientos en que se practiquen actos quirúrgicos u obstétricos;
+
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2007)</small>
+
+VI.- Centros de mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas.
 
 La solicitud de autorización sanitaria deberá presentarse ante la autoridad sanitaria, previamente al inicio de sus actividades.
 
@@ -6253,3 +6257,9 @@ D.O.F. 19 DE JUNIO DE 2007.
 Primero.- La Secretaría de Salud deberá emitir el Reglamento a que se refiere el párrafo segundo del Artículo 271 en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2007.
+
+Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo: La Secretaría de Salud contará con un plazo máximo de 90 días hábiles a partir de la publicación del presente Decreto para emitir las disposiciones reglamentarias respectivas y publicar en el Diario Oficial de la Federación el proyecto de Norma Oficial Mexicana que contenga los lineamientos generales para las instalaciones, operación y buenas prácticas de fabricación.
