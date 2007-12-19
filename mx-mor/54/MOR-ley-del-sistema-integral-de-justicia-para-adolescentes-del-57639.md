@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-integral-de-justicia-para-adolescentes-del-5763
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-23"
-last_updated: "2007-11-23"
+last_updated: "2007-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 23 de noviembre de 2007.
 
@@ -3753,7 +3753,9 @@ Si el adolescente fuere absuelto, el expediente y antecedentes se destruirán in
 
 Primero.- Aprobada que sea la ley por el pleno del Honorable Congreso del Estado de Morelos, deberá ser publicada en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
-Segundo.- La presente Ley entrará en vigor el primero de enero del 2008, fecha en la que deberá funcionar y operar el Sistema Integral de Justicia para Adolescentes.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Segundo.- La presente Ley entrará en vigor el quince de enero del año 2008, fecha en la que deberá funcionar y operar el Sistema Integral de Justicia para Adolescentes.
 
 Tercero.- Se abroga la Ley del Consejo Tutelar para Menores Infractores para el Estado de Morelos, publicada en el Periódico Oficial Tierra y Libertad, del diecisiete de septiembre de 1997 y todas las disposiciones que se opongan a la presente.
 
@@ -3824,3 +3826,13 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Hasta en tanto entre en vigor la presente Ley, estará vigente la Ley del Consejo Tutelar para Menores Infractores para el Estado de Morelos, estableciéndose lo conducente en el Presupuesto de Egresos para el ejercicio del año 2008.
+
+TERCERO.- Aprobado que sea el presente remítase al titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
