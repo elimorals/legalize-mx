@@ -4,7 +4,7 @@ identifier: "PUE-lineamientos-generales-para-la-administracion-documental-y-4968
 country: "mx"
 rank: "lineamientos"
 publication_date: "2006-02-17"
-last_updated: "2007-03-07"
+last_updated: "2007-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LINEAMIENTOS GENERALES PARA LA ADMINISTRACION DOCUMENTAL Y TRANSFERENCIA DE ARCHIVOS ADMINISTRATIVOS AL ARCHIVO GENERAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
 
 Lineamientos publicados en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de febrero de 2006.
 
@@ -379,11 +379,9 @@ El responsable del archivo de trámite será nombrado por el titular de cada uni
 
 I.- Coordinar la integración de expedientes de archivo de su Unidad Orgánica;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
-II.- Conservar la documentación que se encuentra activa y aquélla que ha sido clasificada como reservada ó confidencial que se relacionan en el Catálogo de Disposición Documental; (anexo 2)
-
-> <small>N. DE E. VEASE FORMATO EN LA SEGUNDA SECCION DEL P.O. DE 7 DE MARZO DE 2007, PAGS. 9 A 10.</small>
+II.- Conservar la documentación que se encuentra activa y aquella clasificada como reservada.
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2007)</small>
 
@@ -435,9 +433,13 @@ f) Coadyuvar con el Comité Técnico de Archivos Administrativos y Semiactivos e
 
 g) Valorar en coordinación con el archivo histórico, los documentos y series resguardadas que hayan concluido su plazo de conservación conforme al catálogo de disposición documental. El proceso de depuración o baja documental de los documentos será de acuerdo con las normas que establezca la propia Dependencia y Organismo Descentralizado;
 
-h) Elaborar los inventarios de baja documental y transferencia secundaria; y
+h) Elaborar los inventarios de baja documental y transferencia secundaria; y (sic)
 
-i) Realizar en su caso, la transferencia secundaria al Archivo Histórico.
+i) Realizar en su caso, la transferencia secundaria al Archivo Histórico;
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+j) Recibir los expedientes que contengan información confidencial, siempre y cuando se trate de asuntos concluidos, así como aquellos que contengan información que haya sido clasificada como reservada una vez que el plazo de reserva haya expirado.
 
 ### CAPÍTULO SEXTO. DEL ARCHIVO HISTÓRICO
 
@@ -503,9 +505,9 @@ TRIGÉSIMO PRIMERO.- La clasificación de la información quedará a cargo de lo
 
 TRIGÉSIMO SEGUNDO.- En los plazos de conservación de los archivos se tomará en cuenta la vigencia documental, así como, en su caso, el periodo de reserva correspondiente.
 
-A partir de la desclasificación de los expedientes reservados, el plazo de conservación adicionará un periodo igual de reserva o al que establezca el catálogo de disposición documental, si éste fuera mayor al primero.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
-Aquellos documentos que han sido objeto de solicitudes de acceso a la información se conservarán por dos años más a la conclusión de su vigencia documental.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 TRIGÉSIMO TERCERO.- Tratándose de expedientes y documentos clasificados como reservados o confidenciales, deberán contener, además, la leyenda de clasificación conforme a lo establecido por los "Lineamientos Generales para la Clasificación y Desclasificación de la información de las Dependencias y Entidades Paramunicipales de la Administración Pública Municipal del Ayuntamiento de Puebla".
 
@@ -717,7 +719,7 @@ PRIMERO.- Los presentes Lineamientos entrarán en vigor al día siguiente de su 
 
 SEGUNDO.- Las Dependencias, Organismos Descentralizados y Juntas Auxiliares deberán aplicar el Cuadro General de Clasificación Archivística y el Catálogo de Siglas de Identificación de las Unidades Orgánicas del H. Ayuntamiento y la Carátula de Identificación del Expediente que permitirá identificar a cada uno mediante el Código de Clasificación de la Serie.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2007)</small>
 
 TERCERO.- Las Dependencias, Organismos Descentralizados y Juntas Auxiliares deberán elaborar su Inventario de Transferencia, el Archivo General Municipal enviará los formatos e instructivos para el requisitado de la Guía Simple de Archivo, la que deberá desarrollar el responsable de cada una de las Direcciones designado ante el Archivo General Municipal.
 
@@ -795,13 +797,13 @@ Unidades Orgánicas.- Las áreas o unidades que constituyen a las distintas depe
 
 Anexo 1
 
-HONORABLE AYUNTAMIENTO DE PUEBLA
+HONORABLE A YUNTAMIENTO DE PUEBLA
 
 > <small>N. DE E. VEASE FORMATO EN LA SEGUNDA SECCION DEL P.O. DE 7 DE MARZO DE 2007, PAG. 39.</small>
 
 Anexo 1
 
-HONORABLE AYUNTAMIENTO DE PUEBLA
+HONORABLE A YUNTAMIENTO DE PUEBLA
 
 Instructivo para el llenado de la Carátula de Expedientes, ésta será llenada a máquina o a mano con tinta negra
 
@@ -1170,3 +1172,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 7 DE MARZO DE 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 19 DE DICIEMBRE DE 2007.
+
+ÚNICO.- La presente reforma, adición y derogación entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Puebla.
