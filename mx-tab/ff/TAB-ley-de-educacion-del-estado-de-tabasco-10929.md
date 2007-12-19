@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "1997-02-26"
+last_updated: "2007-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -459,11 +459,15 @@ También se ofrecerán los servicios de educación inicial, especial, indígena,
 
 #### Sección I. DE LA EDUCACIÓN PREESCOLAR
 
-Artículo 59 La educación preescolar tiene como finalidad que el infante logre desarrollar integral y armónicamente sus capacidades física, afectiva, intelectual y social, estableciendo las bases para que logre su identidad personal de acuerdo a su entorno social, con las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los grupos indígenas del Estado, así como de la población rural dispersa y grupos migratorios.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Artículo 59 La educación preescolar es obligatoria y tiene como finalidad que el infante logre desarrollar integral y armónicamente sus capacidades física, afectiva, intelectual y social, estableciendo las bases para que logre su identidad personal de acuerdo a su entorno social, con las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los grupos indígenas del Estado, así como la de la población rural dispersa y grupos migratorios.
 
 La educación preescolar se ofrecerá en jardines de niños e instituciones análogas, cualquiera que sea su denominación, a niños de 3 a 5 años 11 meses de edad.
 
-Artículo 60 La educación preescolar no constituye requisito previo para cursar la educación primaria, sin embargo, conscientes de que en esta edad se determina la personalidad del individuo es conveniente cursar este nivel educativo antes de ingresar al nivel siguiente.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Artículo 60 La educación preescolar constituye requisito previo para cursar la educación primaria; consciente de que en esta edad se determina la personalidad del individuo, por lo que es obligatorio cursar este nivel educativo antes de ingresar al nivel siguiente.
 
 Artículo 61 La educación preescolar tiene las siguientes características:
 
@@ -1170,3 +1174,13 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. VICTOR MANUEL BARCELO RODRIGUEZ.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos de cada municipio adecuarán sus respectivos reglamentos dentro del plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
