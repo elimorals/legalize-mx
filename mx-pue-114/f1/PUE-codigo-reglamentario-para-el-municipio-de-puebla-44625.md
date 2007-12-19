@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2007-11-30"
+last_updated: "2007-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4594,6 +4594,8 @@ X. La inmovilización de vehículos o medios de transporte, u otros que sin toma
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 En los casos previstos en las fracciones II, III, IV y V de este artículo, la Unidad Operativa Municipal de Protección Civil, se apoyará en los dictámenes técnicos que correspondan conforme a los ordenamientos, pudiendo en todo caso apoyarse con los que emitan los peritos adscritos a la Unidad Operativa Municipal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 447.
 
@@ -13121,7 +13123,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -15139,7 +15141,9 @@ VIII. Cartel: Elemento publicitario de carácter gráfico, bidimensional o tridi
 
 IX. Contratista: Persona física o moral que celebra contratos para la fijación, instalación, mantenimiento, modificación o retiro de anuncios;
 
-X. Dirección de Desarrollo Urbano: La Dirección de Desarrollo Urbano de la Secretaría de Administración Urbana del H. Ayuntamiento de Puebla;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+X. Dirección de Administración Urbana.- La Dirección de Administración Urbana de la Secretaria de Administración Urbana, Obra Pública y Ecología del H. Ayuntamiento de Puebla;
 
 XI. Director Responsable de Obra: Persona física que se hace responsable de la observancia del Capítulo de Construcciones, en el acto en que otorga su responsiva;
 
@@ -15183,11 +15187,13 @@ XXX. Capítulo de Construcciones: El Capítulo de Construcciones del presente C�
 
 XXXI. Responsable Solidario: Toda persona física o moral que se obliga mancomunadamente con el titular, a responder de las obligaciones derivadas de la instalación, modificación y/o retiro de un anuncio;
 
-XXXII. Secretaría: La Secretaria de Administración Urbana;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+XXXII. Secretaría.- La Secretaría de Administración Urbana, Obra Pública y Ecología;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
 
-XXXIII.- Mercadotecnia Urbana: El Departamento de Imagen y Equipamiento Urbano;
+XXXIII. Mercadotecnia Urbana: El Departamento de Imagen y Equipamiento Urbano;
 
 XXXIV. Tapiales: Elementos de seguridad que sirven para cubrir y proteger perimetralmente y a nivel de banqueta, una obra en construcción, durante el tiempo que marque la respectiva licencia de construcción; los cuales pueden ser de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad;
 
@@ -15391,9 +15397,11 @@ II. Anuncios en accesorios:
 
 Los que se encuentran integrados o adheridos a una estructura y cuenten con dos o más elementos constitutivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 1262.
 
-Los anuncios no considerados dentro de las especificaciones de instalación contenidas en este Capítulo, podrán ser puestos a consideración de la Dirección de Desarrollo Urbano del Ayuntamiento para su análisis y evaluación.
+Los anuncios no considerados dentro de las especificaciones de instalación contenidas en este Capítulo, podrán ser puestos a consideración de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano del Ayuntamiento para su análisis y evaluación.
 
 Los anuncios impresos tales como volantes, panfletos, trípticos, dípticos y cualesquiera otros similares, repartidos en la vía pública, serán regulados y sancionados en términos de los Capítulos de Policía y Gobierno y el relativo a Limpia del presente Código Reglamentario.
 
@@ -15445,6 +15453,12 @@ VI. No se permitirá instalar este tipo de anuncios en la zona a que hace refere
 
 VII. No se permitirá ningún anuncio con doble área de exhibición sobre el mismo soporte, ni en un mismo plano.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 1264 Bis.
+
+El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios autosoportados, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+
 ###### Artículo 1265.
 
 Para la fijación, instalación, distribución, ubicación o modificación de los anuncios en azotea de propaganda se deberá cumplir con lo siguiente:
@@ -15465,11 +15479,19 @@ VII. La distancia mínima entre un anuncio de éstos respecto de otro igual o au
 
 VIII. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 1265 Bis.
+
+El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios en azoteas de propaganda, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+
 ###### Artículo 1266.
 
 Para la ubicación o modificación de los anuncios en muros de colindancia se deberá cumplir con lo siguiente:
 
-I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siempre y cuando sean estéticos, decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie utilizada. Para el otorgamiento de la licencia o permiso correspondiente, El Ayuntamiento, a través de la Dirección de Desarrollo Urbano valorará y determinará sobre el carácter estético o decorativo del anuncio;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siempre y cuando sean estéticos, decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie utilizada. Para el otorgamiento de la licencia o permiso correspondiente, el Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano valorará y determinará sobre el carácter estético o decorativo del anuncio;
 
 II. No se permitirá la instalación o fijación de mantas y lonas; y
 
@@ -15537,6 +15559,12 @@ V. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o fun
 
 VI. No se permitirá instalar este tipo de anuncios en zonas históricas, arqueológicas, artísticas, en inmuebles catalogados por el Instituto Nacional de Antropología e Historia, o por el Ayuntamiento, ni a una distancia menor de 200 metros, medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 1270 Bis.
+
+El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios en tapiales, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+
 ###### Artículo 1271.
 
 Para la fijación, instalación, distribución, ubicación o modificación de los anuncios electrónicos de propaganda se deberá cumplir con lo siguiente:
@@ -15559,6 +15587,12 @@ VIII. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o 
 
 IX. No se permitirá que los anuncios o sus estructuras invadan físicamente o en su plano virtual la vía pública y/o los predios colindantes.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 1271 Bis.
+
+El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios electrónicos de propaganda, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+
 ###### Artículo 1272.
 
 Para la fijación, instalación, distribución, ubicación o modificación de los anuncios de neón, se deberá cumplir con lo siguiente:
@@ -15576,6 +15610,50 @@ V. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o fun
 VI. No estarán permitidos este tipo de anuncios cuando su funcionamiento implique realizar cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones; y
 
 VII. Este tipo de anuncios podrán ser autosoportados o de azotea, debiendo cumplir, además, con lo dispuesto en los artículos 1265 y 1266.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 1272 Bis.
+
+El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios de neón, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 1272 Ter.
+
+Para efectos del presente Capítulo, se entenderá por anuncio espectacular, a aquella estructura destinada a la colocación de propaganda publicitaria, sustentada por uno o más elementos que se encuentren apoyados o anclados directamente al piso de un predio, y en los que sus soportes, carátula o pantalla no tengan contacto con alguna edificación.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 1272 Quáter.
+
+Para la fijación, instalación y ubicación de los anuncios espectaculares, se deberá cumplir con lo siguiente:
+
+l. Sus características podrán tener un área de exhibición que podrá exceder como máximo hasta en 1.5 metros las dimensiones de 12.90 metros de longitud por 7.20 metros de ancho y una altura de 25 metros, medida sobre nivel de banqueta a la parte superior del anuncio;
+
+II. La distancia mínima entre un anuncio de este tipo y otro igual, deberá estar a una distancia de 200 metros;
+
+III. No se permitirá la instalación de este tipo de anuncios en zonas históricas, arqueológicas, artísticas, en inmuebles catalogados por el Instituto Nacional de Antropología e Historia o el Ayuntamiento, ni a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de la zonas referidas;
+
+IV. No se permitirán anuncios de este tipo en lugares que afecten inmuebles destinados parcial o totalmente a uso habitacional;
+
+V. Solo se permitirán este tipo de anuncios en lugares en donde no se interfiera la visibilidad o funcionamiento de las señalizaciones oficiales de cualquier tipo;
+
+VI. Obtener la autorización correspondiente por parte de la Secretaría de Administración Urbana, Obra Pública y Ecología, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano;
+
+VII. Queda estrictamente prohibido instalar en el Municipio de Puebla, anuncios cuyas dimensiones excedan de las medidas establecidas en la fracción I de este artículo; y
+
+VIII. Las demás que a juicio de la Autoridad correspondiente sean requeridas.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 1272 Quinquies.
+
+La autorización para la instalación de los anuncios espectaculares, quedará a cargo de la Secretaría de Administración Urbana, Obra Pública y Ecología, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, previo dictamen de factibilidad que haga la Unidad Operativa Municipal de Protección Civil.
+
+La vigencia de la autorización a la que hace referencia el párrafo anterior, quedará a consideración de la Secretaría de Administración Urbana, Obra Pública y Ecología, a través de las Direcciones correspondientes: una vez que haya concluido el término por el que se expidió dicha autorización, el particular autorizado, tendrá una prórroga de diez días naturales para retirar el espectacular, sin que genere gasto alguno por concepto de infracciones o pago de derechos por parte del mismo; posterior a ese plazo, será la autoridad quien lleve a cabo el retiro de la estructura, con cargo a dicho titular, así como de las infracciones y pago de derechos a los que se haga acreedor.
+
+El Titular de la autorización, al momento de realizar el retiro del espectacular, deberá notificar a las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, así como, a la Unidad Operativa Municipal de Protección Civil, con una anticipación de cuando menos de cinco días hábiles a los trabajos que se llevarán a cabo con motivo de dicho retiro.
 
 ###### Artículo 1273.
 
@@ -15595,9 +15673,11 @@ Los espacios destinados para la publicidad en el mobiliario urbano, serán deter
 
 Sólo se permitirá instalar publicidad a aquellas personas físicas o morales las que se le rente o concesione la publicidad de puentes peatonales, sujetándose a las disposiciones del presente Capítulo en materia técnica y presentando propuesta de la estructura y tipo de publicidad a instalar, la cual será instalada una vez autorizada por el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 1277.
 
-No se permitirá la colocación de ningún tipo de lona o manta publicitaria en pasos a desnivel, mobiliario urbano municipal, árboles, plantas o algún otro tipo de equipamiento urbano.
+El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, expedirá la autorización respectiva para la colocación de anuncios publicitarios en los bastidores que para tal fin, haya destinado el propio Ayuntamiento.
 
 ###### Artículo 1278.
 
@@ -15613,25 +15693,37 @@ IV. Empleen los símbolos patrios con fines comerciales, salvo para su promoció
 
 V. Interfieran la visibilidad de la circulación vial y peatonal;
 
-VI. Dentro de la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros, medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
-VII. Sea publicidad de tipo político o electoral, fuera de plazos y fechas de elecciones oficiales o bien fuera de los plazos y lugares específicos convenidos con las autoridades electorales correspondientes; y
+VI. El Ayuntamiento, a través de la Secretaría de Administración Urbana, Obra Pública y Ecología, solo podrá autorizar, previo dictamen de factibilidad que emita al respecto la propia instancia y en los lugares destinados para tal fin, que se localicen en los muebles que forman o constituyen el mobiliario urbano, la instalación de anuncios dentro de la zona a que se hace referencia en el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, así como a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en ésta fracción;
 
-VIII. Se empleen materiales adhesivos, pegotes, carteles o cualquier otro tipo de materia que al colocarse requiera de algún pegamento especial y acelere el detrimento de la imagen urbana y del mismo mobiliario.
+VII. Sea publicidad de tipo político o electoral, fuera de plazos y fechas de elecciones oficiales o bien fuera de los plazos y lugares específicos convenidos con las autoridades electorales correspondientes; y (sic)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+VIII. Se empleen materiales adhesivos, pegotes, carteles o cualquier otro tipo de materia que al colocarse requiera de algún pegamento especial y acelere el detrimento de la imagen urbana y del mismo mobiliario;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+IX. Cuando la publicidad exceda en dimensiones respecto de los lugares destinados para tal fin, en el mobiliario urbano.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 1279.
 
-Sólo podrán instalar anuncios en mobiliario urbano, las personas físicas o morales que cuenten con la autorización correspondiente para explotar dichos espacios, emitida por el Departamento de Imagen y Equipamiento Urbano, de conformidad con lo establecido en el presente Capítulo.
+Solo podrán instalar anuncios en mobiliario urbano, las personas físicas o morales que cuenten con la autorización correspondiente para explotar dichos espacios, misma que deberá ser expedida, previo estudio y análisis correspondiente por parte de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, y de conformidad con las disposiciones contenidas en el presente Capítulo.
 
 Se considera también mobiliario urbano, todos aquellos muebles y equipamiento que se encuentre concesionado, rentado o administrado a una persona o empresa. De igual manera deberán sujetarse al presente Capítulo todo aquel mobiliario o equipamiento ubicado en la vía pública municipal o áreas de uso común, que contengan publicidad o anuncio alguno.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 1279 Bis.
+
+El Ayuntamiento, a través del Presidente Municipal, para fines de colocación de cualquier tipo de anuncios publicitarios, estará facultado para celebrar convenios o contratos, por concepto de concesión, renta o administración de los muebles que forman parte o constituyan el mobiliario urbano, pudiendo recibir como contraprestaciones beneficios en especie, las cuales, en ningún caso deberán ser menores al monto por la autorización o permiso o cuando éstas sean en detrimento del patrimonio municipal.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 1280.
 
-Para la instalación de anuncios y publicidad sobre los espacios destinados en el mobiliario urbano, distintos a lo señalado en el presente Capítulo, el Ayuntamiento, a través del Departamento de Imagen y Equipamiento Urbano, valorará y en su caso, aprobará dicha colocación, previo dictamen técnico.
+Para la instalación de anuncios y publicidad sobre los espacios destinados en el mobiliario urbano distintos a los señalados en el presente Capítulo, el Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, dependientes de la Secretaría de Administración Urbana, Obra Pública y Ecología, valorará y en su caso, aprobará dicha colocación, previo dictamen técnico que de esos lugares hagan las Direcciones mencionadas.
 
 DE LAS ESPECIFICACIONES TÉCNICAS EN VEHÍCULOS PARTICULARES Y DEL SERVICIO DE TRANSPORTE
 
@@ -15649,17 +15741,23 @@ IV. Los acabados superficiales, no deberán deslumbrar a los peatones y a los co
 
 V. No podrán sobreponerse, bloquear o cubrir la información dirigida tanto a los pasajeros como al operador de la unidad vehicular, sobre la orientación, las obligaciones, la operación, señales luminosas, conductos de ventilación y los dispositivos de seguridad;
 
-VI. Queda prohibido, bloquear o tapar las placas de circulación, los grafismos de la ruta y las inscripciones de identificación del sistema de transporte al que pertenecen;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+VI. Queda prohibido bloquear o tapar las placas de circulación, número de concesión, número de folio, grafismos de la ruta y las inscripciones de identificación del sistema de transporte al que pertenecen;
 
 VII. Los instalados en el interior del habitáculo de los vehículos deben estar fuera del ángulo visual de sus operadores;
 
 VIII. No se permitirá instalar anuncios en superficies laminadas interiores, de toldos, posteriores, vestiduras de asientos o piso de los vehículos, excepto los accesorios sujetos a una base o al respaldo del asiento del conductor;
 
-IX. En minibuses y autobuses podrán instalarse hasta dos tipos de anuncios en el exterior e interior; en el caso de los vehículos del Sistema de Transporte Público, podrán instalarse hasta tres tipos de anuncios en el interior, quedando prohibida su instalación en el exterior;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+IX. En minibuses y autobuses, podrán instalarse hasta dos tipos de anuncios en el interior y exterior, en el caso de los vehículos del Transporte Público, para efectos de anuncios colocados en el exterior, estos solo se permitirá instalarlos en la parte posterior exterior de los mismos, debiéndose observar las disposiciones establecidas en el artículo 1289 del presente Capítulo, y que estos no cubran los datos descritos en la fracción VI de este artículo;
 
 X. En taxis y bicicletas adaptadas sólo se autoriza la instalación de un tipo de anuncios en el exterior y un tipo en el interior por vehículo;
 
-XI. En lo que respecta a los vehículos del Sistema de Transporte Público u otros organismos y empresas cuyos vehículos cuenten con especificaciones particulares de diseño, la instalación de anuncios se deberá ajustar a sus características y dimensiones específicas, con la autorización de la Secretaria de Comunicaciones y Transportes así como de el Ayuntamiento y su Secretaria de Seguridad Pública y Vialidad Municipal; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+XI. En lo que respecta a los vehículos del Sistema de Transporte Público u otros organismos y empresas cuyos vehículos cuenten con especificaciones particulares de diseño, la instalación de anuncios se deberá ajustar a sus características y dimensiones específicas, con la autorización de la Secretaría de Comunicaciones y Transportes, así como del Ayuntamiento y su Secretaría de Seguridad Pública y Tránsito Municipal; y
 
 XII. Para el caso de vehículos de transporte escolar o de personal, se autorizará únicamente la instalación de anuncios laterales y posteriores cumpliendo con las inscripciones oficiales que se señalen en los manuales o acuerdos de la materia.
 
@@ -15739,19 +15837,7 @@ VI. El voltaje y amperaje deberán ser los adecuados para la operación del sist
 
 ###### Artículo 1288.
 
-Los anuncios en laterales deberán sujetarse a lo siguiente:
-
-I. Podrán ser adheribles y sólo se autoriza su instalación sobre superficies laminadas en los costados exteriores de bicicletas adaptadas, vagonetas, minibuses y autobuses;
-
-II. En vagonetas deberán tener como máximo 50 centímetros de ancho por 2 metros de largo y pueden ubicarse en los costados, inmediatamente abajo de las ventanillas; no deberán invadir los marcos de la ventanería, rozaderas y vueltas de salpicaderas;
-
-III. En minibuses y autobuses deberán tener como máximo 70 centímetros de ancho y podrán ubicarse en los costados sin cubrir las puertas de ascenso y descenso, inmediatamente debajo de las ventanillas; no deberán invadir los marcos de la ventanería, rosaderas y vueltas de salpicaderas. Los emblemas de identificación del vehículo deberán trasladarse a los cuartos posteriores de los costados, con las mismas características para no obstruir su visibilidad;
-
-En el caso de las puertas de descenso se podrán cubrir estas, tomando como referencia la parte baja de las ventanillas;
-
-IV. No deberán bloquear los logotipos o grafismos de ruta del sistema de transporte, según corresponda; y
-
-V. Sólo en los casos autorizados por el Ayuntamiento y la Secretaria de Comunicaciones y Transportes, se podrá modificar la ubicación del logotipo o grafismo del sistema de que se trate.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2007)
 
 ###### Artículo 1289.
 
@@ -15779,7 +15865,9 @@ Los anuncios adheribles en superficies laminadas de las dovelas:
 
 I. Se podrán instalar en minibuses, autobuses, y vehículos del Sistema de Transporte Público, considerándose como dovela a aquella superficie conformada interiormente en la intersección entre el toldo y los costados laterales del vehículo, y sus dimensiones serán de acuerdo al espacio disponible por tipo de unidad en que se coloquen; y
 
-II. La Secretaria de Seguridad Pública y Vialidad Municipal podrá autorizar el número de anuncios a instalar, de acuerdo al área disponible que presente el interior del vehículo de que se trate.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+II. La Secretaría de Seguridad Pública y Tránsito Municipal, podrá autorizar el número de anuncios a instalar. De acuerdo al área disponible que presente el interior del vehículo que se trate, y que estos no obstaculicen la visibilidad del chofer hacia el exterior y con ellos se ponga en riesgo la integridad de los usuarios.
 
 ###### Artículo 1292.
 
@@ -15849,9 +15937,11 @@ VI. Anuncios autosoportados con una altura mayor a 2.10 metros del nivel de banq
 
 PROCEDIMIENTO PARA LA OBTENCIÓN DE LICENCIAS
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 1297.
 
-Para llevar a cabo la construcción instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y, en su caso, la demolición de estructuras que soportan o sustentan el anuncio, será necesario obtener la licencia que expida la Dirección de Desarrollo Urbano, con el previo dictamen de la autoridad competente en materia de Protección Civil.
+Para llevar a cabo la construcción, instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y en su caso, la demolición de estructuras que soportan o sustentan el anuncio, será necesario obtener licencia que expidan las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, previo dictamen de la Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 1298.
 
@@ -15947,7 +16037,9 @@ XVIII. El dictamen técnico favorable en materia de protección civil, emitido p
 
 XIX. El dictamen estructural favorable por parte del Ayuntamiento, tratándose de anuncios autosoportados y en azoteas; y
 
-XX. El dictamen estructural favorable por parte la (sic) Dirección de Desarrollo Urbano, en todos los demás casos de anuncios fijos.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+XX. El dictamen estructural favorable por parte de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, en todos los casos de anuncios fijos.
 
 > <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -16083,11 +16175,11 @@ I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento
 
 II. Pagar los gastos que haya cubierto el Ayuntamiento y que se hubieren generado con motivo del retiro de anuncios.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 1316.
 
-Los permisos para la instalación de anuncios, se sujetarán a lo que establezca el presente Capítulo; su vigencia será la que al efecto señale la Dirección de Desarrollo Urbano, en atención a las circunstancias y características del anuncio y podrán ser revalidados, excepto en los casos a que se refieren las fracciones III, IV y V del artículo 1310, que tendrán una vigencia máxima de 90 días.
-
-La revalidación debe solicitarse dentro de los 15 días hábiles previos a la conclusión de la vigencia del permiso.
+Los permisos para la instalación de anuncios, se sujetará a lo que establece el presente Capítulo; su vigencia será la que al efecto señalen las Direcciones de Administración Urbana, y de Imagen y Equipamiento Urbano, en atención a las circunstancias y características del anuncio y podrán ser revalidados, excepto en los casos a que se refieren las fracciones III, IV y V del artículo 1310, que tendrá una vigencia máxima de 90 días.
 
 DE LOS PERMISOS PUBLICITARIOS EN VEHÍCULOS DEL SERVICIO DE TRANSPORTE
 
@@ -16313,7 +16405,9 @@ IV. Multa de 30 a 40 días de salario mínimo general vigente en el Municipio de
 
 V. Multa de 30 a 50 días de salario mínimo general vigente en el Municipio de Puebla, por contravención a los artículos 1317, 1320, 1327 y 1328;
 
-VI. Multa de 50 a 200 días de salario mínimo general vigente en el Municipio de Puebla, por contravención a los artículos 1264 en las fracciones no señaladas en la fracción IV de este artículo, 1265 fracciones III, IV, VI y VIII, 1270, 1299 fracciones I, VIII y X;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+VI. Multa de 50 a 200 días de salario mínimo general vigente en el Municipio de Puebla, por contravención a los artículos 1264 en las fracciones no señaladas en la fracción IV de este artículo, 1265 fracciones III, IV, VI y VIII, 1270, 1272 quater, 1299 fracciones I, VIII y X;
 
 VII. Multa de 100 a 120 días de salario mínimo general vigente en el Municipio de Puebla, a los anunciantes, quienes al contratar el espacio, deberán verificar que la empresa publicitaria cumpla con lo dispuesto en el presente Capítulo y que cuenta con licencia o permiso, según lo prevea el presente ordenamiento y los demás que le sean aplicables; y a las personas físicas o morales propietarias de los inmuebles y vehículos en los que se instale el anuncio, sin contar éste con la licencia, o permiso correspondiente;
 
@@ -16623,7 +16717,7 @@ DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y
 
 DISPOSICIÓN FINAL DE DESECHOS Y/O RESIDUOS QUE PRESTE EL ORGANISMO
 
-OPERADOR DEL SERVICIO DE LIMPÍA DEL MUNICIPIO
+OPERADOR DEL SERVICIO DE LIMPIA DEL MUNICIPIO
 
 ###### Artículo 1360.
 
@@ -20305,7 +20399,7 @@ Artículo 1682 bis.- El servicio de estacionamiento en la vía pública podrá s
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1682 ter. Para el cobro del uso de estacionamiento en la vía pública, el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
+Artículo 1682 ter. Para el cobro del uso de estacionamiento en la vía pública el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -22483,63 +22577,9 @@ II. Apercibimiento;
 
 III. Multa, conforme a la siguiente tabla:
 
-SUPUESTO NORMATIVO INFRACCIÓN
+(VEASE ARCHIVO ANEXO)
 
-1.- Por carecer del dictamen favorable de la Dirección de Ecología, en los giros comerciales para los que se requiera, de conformidad con el presente Capítulo y las disposiciones de este Código Reglamentario Municipal
-
-De 10 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-2.- Por sobrepasar los límites establecidos en la normatividad ambiental vigente o causar molestias a la ciudadanía, al no controlar las emisiones contaminantes a la atmósfera procedente de fuentes fijas de competencia municipal
-
-De 10 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-3.- Por no dar aviso a la autoridad competente de las fallas en los equipos de control de contaminantes a la atmósfera en fuentes fijas de competencia municipal
-
-De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-4.- Por falta de permiso de la Dirección de Ecología para efectuar combustión a cielo abierto
-
-De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-5.- Por carecer de inscripción en el Padrón Municipal de giros de competencia municipal potencialmente emisores de contaminación ostensible a la atmósfera
-
-De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-6.- Por descarga al sistema de drenaje municipal, cauces naturales o al subsuelo aguas, productos o líquidos residuales provenientes de procesos cuyos parámetros estén fuera de las normas contempladas en la legislación y reglamentación ambiental vigente
-
-De 20 a 1500 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-SUPUESTO NORMATIVO INFRACCIÓN
-
-7.- Por contaminar con residuos y no manejarlos, transportarlos y disponerlos adecuadamente de conformidad con la legislación ambiental vigente
-
-De 15 a 50 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-8.- Por realizar poda o derribo sin la autorización municipal, por unidad, independientemente de reparar el daño causado
-
-De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-9.- Los giros comerciales, industriales o de servicios que emitan ruido o vibraciones a la atmósfera que rebasen los niveles máximos permisibles de la normatividad vigente, o que causen molestias a la ciudadanía
-
-De 15 a 65 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-10.- Por carecer de bitácora de operación y mantenimiento de sus equipos de control anticontaminantes
-
-De 10 a 20 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-11.- Por almacenar inadecuadamente o sin permiso de la autoridad competente residuos o substancias consideradas como peligrosas o contaminantes, así como abandonar en la vía pública o sitios públicos residuos provenientes de clínicas u hospitales
-
-De 35 a 300 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-12.- Por carecer de equipo y autorización para la incineración o traslado de residuos y sustancias peligrosas por parte de la autoridad competente
-
-De 10 a 200 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-13.- Cuando las contravenciones a la reglamentación municipal vigente a que se refiere esta fracción, conlleven un riesgo de desequilibrio ecológico por casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública, la sanción aplicable será
-
-De 50 a 3000 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-Las multas señaladas en esta fracción, se aplicarán sin perjuicio de lo que señalan otros capítulos del presente Código Reglamentario y las demás leyes y demás disposiciones jurídicas que resulten aplicables al caso concreto;
+Las multas señaladas en esta fracción, se aplicarán sin perjuicio de lo que señalan otros capítulos del presente Código Reglamentario y las demás leyes y demás disposiciones jurídicas que resulten aplicables al caso concreto.
 
 IV. Clausura parcial o total, temporal o definitiva;
 
@@ -23584,6 +23624,8 @@ DEL RECURSO DE INCONFORMIDAD
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación del presente Capítulo, podrán ser impugnadas, mediante el recurso de inconformidad previsto en la Ley Orgánica Municipal del Estado de Puebla.
 
 ### CAPÍTULO 31. ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
+
+DISPOSICIONES GENERALES
 
 DISPOSICIONES GENERALES
 
@@ -24987,15 +25029,15 @@ A falta de beneficiarios, la suma asegurada será pagada por la Compañia de Seg
 
 ###### Artículo 2046.
 
-Los beneficiarios para cobrar la cantidad de la suma asegurada en la póliza del Seguro de Vida deberán presentar a la Dirección de Recursos Humanos de la Secretaria de Administración, en original y cuatro tantos de copias fotostáticas la documentación siguiente:
+Los beneficiarios para cobrar la cantidad de la suma asegurada en la póliza del Seguro de Vida deberán presentar a la Dirección de Recursos Humanos de la Secretaría de Administración, en original y cuatro tantos de copias fotostáticas la documentación siguiente:
 
 I.- Acta de Defunción;
 
-II.- Acta del Ministerio Público (en caso de muerte violenta):
+II.- Acta del Ministerio Público (en caso de muerte violenta);
 
 III.- Póliza del Seguro de Vida;
 
-IV.- Acta de Nacimiento de los Beneficiarios:
+IV.- Acta de Nacimiento de los Beneficiarios;
 
 V.- Credencial de Elector de los Beneficiarios; y
 
@@ -26355,7 +26397,7 @@ Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad
 
 ###### Artículo 2171.
 
-Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por culquier otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
+Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cuerquir otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -29016,3 +29058,9 @@ PRIMERO.- Las presentes disposiciones entrarán en vigor al día siguiente de su
 SEGUNDO.- Los trabajadores que tengan cumplidos sesenta y cinco años de edad y diez de servicio en forma ininterrumpida a la fecha de la entrada en vigor de la presente reforma, podrán jubilarse una vez que hayan cumplido los requisitos señalados en el artículo 1989 antes de su reforma.
 
 TERCERO.- La aplicación del artículo 1986 entrará en vigor a partir de un año después de la publicación del presente dictamen en el Periódico Oficial del Gobierno Constitucional del Estado de Puebla.
+
+P.O. 19 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones al Capítulo 18 "Anuncios" del Código Reglamentario para el Municipio de Puebla, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
