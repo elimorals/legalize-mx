@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2006-07-05"
+last_updated: "2007-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -1061,35 +1061,35 @@ e).- Los usuarios que tiren directamente su basura en el relleno sanitario; paga
 
 Serán consideradas como vía pública, las vías de acceso a los predios, los pagos de este derecho se harán conforme a lo dispuesto en el Artículo 140 de esta Ley.
 
-### CAPITULO QUINTO. POR MANTENIMIENTO DE ALUMBRADO PUBLICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO QUINTO. DE LOS SERVICIOS DE ALUMBRADO PUBLICO
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 144.
 
-Son contribuyentes de este derecho las personas físicas o morales propietarias o poseedoras de predios urbanos ubicados en el área territorial del Municipio, sin importar que el alumbrado público, se encuentre o no ubicado precisamente frente a su predio, ya que el rendimiento de esta cuota será aplicada al mantenimiento del servicio que se presta en todo el Municipio.
+Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del municipio. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad en calles, plazas, jardines y lugares de usos común.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1986)</small>
+Los ingresos que se perciban por este concepto se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 145.
 
-La cuota de derecho por el alumbrado público será igual al 10% sobre el consumo de energía eléctrica en las tarifas 1, 1A, 2 y 3 y; al 7% sobre el consumo de energía eléctrica en las tarifas 8 y 12:
+Son sujetos de este derecho los propietarios y poseedores de predios urbanos y rústicos ubicados en el área territorial Municipal.
 
-I.- Son sujetos del pago del derecho que se establece, los consumidores de energía eléctrica en las tarifas 1, 1A, 2, 3, 8 y 12 aprobadas por la Comisión de Tarifas de Electricidad y Gas dependientes de la Secretaría de Comercio y Fomento Industrial, por acuerdo publicado en el Diario Oficial de la Federación el día 15 de noviembre de 1976 y ajustadas por acuerdo publicado el día 30 de julio de 1978; en el mismo Diario Oficial de la Federación.
-
-II.- El derecho para alumbrado público será recaudado a través de las Empresas Suministradoras de Energía Eléctrica mediante el cargo correspondiente que se deberá hacer en las facturaciones que las mismas formulen a sus consumidores sujetos a este derecho.
-
-III.- Las Empresas Suministradoras de Energía Eléctrica deberán aplicar el monto de sus derechos que recauden en la forma siguiente:
-
-a).- Para cubrir el importe de la energía para alumbrado público suministrado a los Municipios, así como los gastos relativos a la ampliación, mantenimiento y reposición de dichos servicios.
-
-b).- Para amortizar, en su caso, los adeudos que los Municipios tengan por el mismo concepto con las citadas Empresas Suministradoras de Energía Eléctrica.
-
-IV.- El mantenimiento, ampliación y reposición de unidades mercuriales, fluorecentes y vapor de sodio, será única y exclusivamente por cuenta de los Ayuntamientos de los Municipios en donde exista ese sistema.
-
-V.- Las Empresas Suministradoras de Energía Eléctrica deberán rendir a la Secretaría de Hacienda del Estado, los informes que ésta le solicite sobre la recaudación y aplicación del derecho establecido en este Decreto.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 146.
 
-El pago de derechos establecidos en este capítulo se harán conforme a lo dispuesto en el Artículo 140 de esta Ley.
+La base para el cálculo de este derecho será la que se apruebe por el Congreso del Estado, a propuesta de los municipios, dentro de cada una de las leyes de ingresos municipales, respetando el principio de proporcionalidad y equidad que debe imperar entre el costo por el servicio que preste el municipio y la contraprestación que eroguen los ciudadanos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 146 BIS.- Los derechos consignados en este capítulo serán cubiertos en forma bimestral, dentro de los primeros quince días de cada mes, en los meses de enero, marzo, mayo, julio, septiembre y noviembre, en las oficinas de la Tesorería Municipal o en las Instituciones autorizadas para tal efecto.
+
+Para el cobro de este derecho los ayuntamientos podrán celebrar convenios con las compañías o empresas suministradoras del servicio de energía eléctrica. En estos casos, se deberá incluir el importe de este derecho, en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
 
 ### CAPITULO SEXTO. POR SERVICIO DE PANTEONES
 
@@ -3376,6 +3376,34 @@ SÉPTIMO. Se concede al Titular del Poder Ejecutivo, así como a los Presidentes
 OCTAVO. Se faculta al Poder Ejecutivo para que realice todos los actos jurídicos necesarios para dar cumplimiento a la nueva integración del Comité Técnico del Fideicomiso Turismo Morelos.
 
 NOVENO. En lo referente al artículo 45 de esta Ley, se cobrará la tasa del 1% en los ejercicios fiscales 2006 y 2007; a partir del ejercicio 2008 la tasa aplicable será del 2%.
+
+P.O. 19 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial Tierra y Libertad.
+
+SEGUNDO.- Los Municipios cuyas leyes de ingresos para el ejercicio fiscal 2008 no contemplen lo establecido en la presente reforma, deberán realizar el cobro del derecho de los servicios de alumbrado público conforme a lo siguiente:
+
+Son contribuyentes de este derecho las personas físicas o morales propietarias o poseedoras de predios urbanos ubicados en el área territorial del Municipio, sin importar que el alumbrado público, se encuentre o no ubicado precisamente frente a su predio, ya que el rendimiento de esta cuota será aplicada al mantenimiento del servicio que se presta en todo el Municipio.
+
+La cuota de derecho por el alumbrado público será igual al 10% sobre el consumo de energía eléctrica en las tarifas 1, 1ª, 2 y 3 y; al 7% sobre el consumo de energía eléctrica en las tarifas 8 y 12.
+
+a) Son sujetos del pago del derecho que se establece, los consumidores de energía eléctrica en las tarifas 1, 1ª, 2, 3, 8 y 12 aprobadas por la Comisión de Tarifas de Electricidad y Gas dependientes de la Secretaría de Comercio y Fomento Industrial por acuerdo publicado en el Diario Oficial de la Federación el día 15 de noviembre de 1976 y ajustadas por acuerdo publicado el día 30 de julio de 1978; en el mismo Diario Oficial de la Federación.
+
+b) El derecho para alumbrado público será recaudado a través de las Empresas Suministradoras de Energía Eléctrica mediante el cargo correspondiente que se deberá hacer en las facturaciones que las mismas formulen a sus consumidores sujetos a este derecho.
+
+c) Las Empresas Suministradoras de Energía Eléctrica deberán aplicar el monto de sus derechos que recauden en la forma siguiente:
+
+I. Para cubrir el importe de la energía para alumbrado público suministrado a los Municipios, así como los gastos relativos a la ampliación, mantenimiento y reposición de dichos servicios.
+
+II. Para amortizar, en su caso, los adeudos que los Municipios tengan por el mismo concepto con las citadas Empresas Suministradoras de Energía Eléctrica.
+
+III. El mantenimiento, ampliación y reposición de unidades mercuriales fluorescentes y vapor de sodio, será única y exclusivamente por cuenta de los Ayuntamientos de los Municipios en donde exista ese sistema.
+
+IV. Las Empresas Suministradoras de Energía Eléctrica deberán rendir a la Secretaría de Hacienda del Estado, los informes que ésta le solicite sobre la recaudación y aplicación del derecho establecido en este Decreto.
+
+d) El pago de derechos establecidos en este capítulo se hará conforme a lo dispuesto en el Artículo 140 de esta Ley.
+
+TERCERO.- El procedimiento anterior deberá aplicarse hasta en tanto se adecuen a la presente reforma, las leyes de ingresos de los municipios establecidos en el artículo anterior.
 
 ###### ARTÍCULO PRIMERO.
 
