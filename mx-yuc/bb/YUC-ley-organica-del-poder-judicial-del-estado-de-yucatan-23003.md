@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-23003"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-03-13"
-last_updated: "2007-03-30"
+last_updated: "2007-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 13 de marzo de 1992.
 
@@ -59,27 +59,25 @@ La facultad a que se refiere el Artículo anterior, se ejerce:
 
 I.- Por el Tribunal Superior de Justicia del Estado;
 
-II.- Por los Juzgados de Defensa Social;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-III.- Por los Juzgados de lo Civil;
+II.- Por los Juzgados de primera instancia;
 
-IV.- Por los Juzgados de lo Familiar;
+III.- (DEROGADA, D.O. 19 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 1 DE OCTUBRE DE 2006)</small>
+IV.- (DEROGADA, D.O. 19 DE DICIEMBRE DE 2007)
 
-V.- Por los Juzgados Especializados para Adolescentes;
+V.- (DEROGADA, D.O. 19 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 1 DE OCTUBRE DE 2006)</small>
-
-VI.- Por los Juzgados Mixtos y de lo Familiar;
+VI.- (DEROGADA, D.O. 19 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], D.O. 1 DE OCTUBRE DE 2006)</small>
 
-VI.- Por los Juzgados de Paz; y
+VII.- Por los Juzgados de Paz; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 1 DE OCTUBRE DE 2006)</small>
 
-VII.- Por los demás funcionarios y autoridades de la Administración de Justicia, en los términos que establezcan esta Ley, su Reglamento, los Códigos de Procedimientos y las demás Leyes relativas.
+VIII.- Por los demás funcionarios y autoridades de la Administración de Justicia, en los términos que establezcan esta Ley, su Reglamento, los Códigos de Procedimientos y las demás Leyes relativas.
 
 ###### ARTICULO 3.
 
@@ -127,45 +125,43 @@ El Ejecutivo del Estado facilitará el ejercicio de las funciones que en su caso
 
 ### CAPITULO UNICO. DE LA DIVISION JURISDICCIONAL
 
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 6.
 
-El territorio del Estado de Yucatán, se divide para su administración judicial en los términos de esta Ley, en tres Departamentos Judiciales, con jurisdicción en los Municipios que en los artículos siguientes se expresan, y a los cuales corresponde la extensión territorial a que se refiere la Constitución Política del Estado.
-
-> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+Para efectos de esta ley y de la impartición de justicia, el territorio del Estado de Yucatán se dividirá en los Departamentos Judiciales que el Pleno del Tribunal establezca mediante acuerdos generales, en los que también se determinará la jurisdicción territorial y la cabecera del Municipio o Localidad en que se asentará.
 
 ###### ARTICULO 7.
 
-El Primer Departamento Judicial está constituido por la parte territorial comprendida en los Municipios de Mérida, Acanceh, Cuzamá, Homún, Seyé, Abalá, Tecoh, Timucuy, Hunucmá, Kinchil, Samahil, Tetiz, Ucú, Umán, Izamal, Hoctún, Kantunil, Sudzal, Tahmek, Tekantó, Tepakán, Xocchel, Maxcanú, Celestún, Chocholá, Halachó, Kopomá Opichén, Kanasín, Motul, Baca, Bokobá, Dzemul, Muxupip, Sinanché, Telchac Pueblo, Telchac Puerto, Progreso, Sotuta, Cantamayec, Hocabá, Huhí, Sanahcat, Yaxcabá, Tixkokob, Cacalchén, Conkal, Chicxulub, Ixil, Mocochá, Tixpéhual, Yaxkukul, Muna, Yobaín, Dzidzantún, Dzilam de Bravo, Dzilam González, Cansahcab, Suma, Teya y Tekal de Venegas.
-
-La cabecera de este Departamento será la Ciudad de Mérida, del municipio de su nombre.
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 8.
 
-El Segundo Departamento Judicial está constituído por la parte de Territorio comprendido en los Municipios de Peto, Chacsinkín, Tahdziu, Tekax, Akil, Chumayel, Tzucacab, Mayapán, Oxkutzcab, Teabo, Tixmeuac, Ticul, Chapab, Dzan, Mama, Maní, Sacalúm, Santa Elena y Tekit.
-
-La cabecera de este Departamento será la Ciudad de Tekax, del Municipio de su nombre.
-
-> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 9.
 
-El Tercer Departamento Judicial está constituido por la parte de Territorio comprendido en los Municipios de Espita, Cenotillo, Dzitás, Quintana Roo, Sucilá, Tunkás, Temax, Buctzotz, Dzoncauich, Tizimín, Calotmul, Panabá, Río Lagartos, San Felipe, Valladolid, Cuncunul, Chemax, Chichimilá, Tekom, Temozón, Tinum, Tixcacalcupul, Uayma, Chankom, Kaua y Chikindzonot.
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2007)
 
-La cabecera de este Departamento será la Población de Ebtún, Municipio de Valladolid.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 10.
 
-El Tribunal Superior de Justicia ejercerá jurisdicción en todo el Estado. Los Jueces de lo Civil, de lo Familiar, de Defensa Social, Mixtos y de lo Familiar y de Paz, así como los demás funcionarios y autoridades de la Administración de Justicia la ejercerán en sus respectivas circunscripciones territoriales en el grado y términos asignados en esta Ley, en las del fuero común y en los demás ordenamientos legales aplicables.
+El Tribunal Superior de Justicia ejercerá jurisdicción en todo el Estado. Los Jueces de Primera Instancia, así como los demás funcionarios y autoridades de la Administración de Justicia la ejercerán en sus respectivas circunscripciones territoriales en los términos establecidos en esta Ley y en los demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 11.
 
-El Tribunal Superior de Justicia, los Juzgados de lo Civil, de lo Familiar y de Defensa Social, residirán en la Ciudad de Mérida; y los Mixtos y de lo Familiar en las Cabeceras de sus respectivos Departamentos.
+El Tribunal Superior de Justicia residirá en la ciudad de Mérida, pero cuando las necesidades del servicio lo ameriten, se podrá instalar Salas Regionales, colegiadas o unitarias, en los Municipios o Localidades que determine el Pleno del Tribunal Superior de Justicia. Los juzgados de primera instancia residirán en los municipios, o localidades de éstos que determine el Pleno del Tribunal Superior de Justicia.
 
 ###### ARTICULO 12.
 
 En las cabeceras de los Municipios habrá un Juez de Paz. El Pleno del Tribunal, cuando por el crecimiento de la población y la distancia, lo exija la buena Administración de Justicia, podrá designar a otros en las mismas cabeceras o en las localidades que estime conveniente.
 
-Las poblaciones de aquellos Municipios donde no exista Juez de Paz quedarán jurisdiccionadas al que se encuentre radicado en la cabecera Municipal. En la Ciudad de Mérida y en aquellas donde resida un Juez Mixto y de lo Familiar, no habrá Jueces de Paz.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Las Localidades Municipales donde no exista Juez de Paz, quedarán jurisdiccionadas al Juzgado que se encuentre radicado en la cabecera municipal. No habrá Juzgados de Paz en los Municipios o Localidades que sean sede de los Juzgados de Primera Instancia.
 
 Las poblaciones en que no hubiere Jueces de Paz dependerán en lo Judicial, de aquellos residentes en el poblado más próximo.
 
@@ -293,11 +289,11 @@ Las sesiones del Tribunal Pleno podrán ser ordinarias o extraordinarias y, en a
 
 DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO, D.O. 12 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 21.
 
-El Presidente del Tribunal Superior de Justicia durará en su cargo dos años y podrá ser reelecto hasta por dos ocasiones para los períodos inmediatos siguientes; se elegirá por mayoría de votos en Sesión Plenaria que deberá celebrarse el primer día hábil del mes de enero del año de la elección, debiendo tomar posesión de inmediato.
+El Presidente del Tribunal Superior de Justicia durará en su cargo tres años. Podrá ser reelecto por una sola ocasión para el período inmediato siguiente y se elegirá por mayoría de votos en Sesión Plenaria que deberá celebrarse el último día hábil del mes de diciembre previo al año de la elección, debiendo tomar posesión de inmediato.
 
 ###### ARTICULO 22.
 
@@ -547,11 +543,11 @@ Cuando en el mismo departamento judicial existan dos o más juzgados de la misma
 
 Los acuerdos generales del Pleno del Tribunal que creen juzgados, también determinarán su jurisdicción y competencia. La jurisdicción territorial de los juzgados podrá abarcar todo el departamento judicial o parte de él, pero nunca el territorio de municipios ubicados en departamentos diversos. En el caso de los Juzgados Especializados en Justicia para Adolescentes, podrá acordar que tengan jurisdicción en todo el estado o limitada a los departamentos judiciales, a propuesta de la Sala Especializada en Justicia para Adolescentes.
 
-> <small>(REFORMADO, D.O. 23 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 43.
 
-Por cada uno de los Departamentos Segundo y Tercero habrá, cuando menos, un Juez Mixto y de lo Familiar investido de jurisdicción concurrente en asuntos de los ramos de Defensa Social, de lo Civil, Mercantil, y de lo Familiar, que se susciten en los departamentos Judiciales respectivos. Cuando la demanda del servicio de impartición de justicia en estos Departamentos lo requiera, el Pleno del Tribunal Superior de Justicia del Estado de Yucatán, podrá acordar la modificación de la competencia de los juzgados existentes y la creación de otros de primera instancia en las ramas necesarias, así como las sedes de los mismos. Cuando las necesidades del servicio lo requieran y lo permita el presupuesto asignado al Poder Judicial del Estado de Yucatán.
+Por cada uno de los Departamentos Judiciales, diversos al que tenga como cabecera la ciudad de Mérida, habrá, al menos, un Juzgado de Defensa Social y uno Mixto de lo civil y Familiar investido de jurisdicción concurrente en asuntos de los ramos de lo Civil, Mercantil, y de lo Familiar, para atender los casos que se susciten en sus respectivos departamentos Judiciales. Cuando la demanda del servicio de impartición de justicia en los Departamentos lo requiera, el Pleno del Tribunal Superior de Justicia del Estado de Yucatán, podrá acordar la modificación de la competencia de los Juzgados existentes y la creación de otros de primera instancia en las ramas necesarias, así como las cabeceras de los mismos, cuando las necesidades del servicio lo requieran y lo permita. El presupuesto asignado al Poder Judicial del Estado de Yucatán.
 
 ###### ARTICULO 44.
 
@@ -611,13 +607,17 @@ El personal de cada uno de los Juzgados de Primera Instancia se compondrá, adem
 
 ### CAPITULO II. DE LOS SECRETARIOS DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 48.
 
-Los Secretarios de los Juzgados de Primera Instancia del Primer Departamento Judicial del Estado, serán catalogados como de Acuerdos y Auxiliares, y los del Segundo y Tercer Departamento Judicial, como Primero, el encargado de los asuntos de Defensa Social, y Segundo, el encargado de los asuntos Civiles, Familiares, y Mercantiles; todos designados conforme a las necesidades del servicio y acorde a las previsiones del Presupuesto. Deberán reunir los siguientes requisitos:
+Los Secretarios de los Juzgados de Primera Instancia serán catalogados como de Acuerdos y Auxiliares, todos designados conforme a las necesidades del servicio y acorde a las previsiones del Presupuesto. Deberán reunir los siguientes requisitos:
 
 I.- Haber cumplido veinticinco años de edad;
 
-II.- Ser Abogado, Licenciado en Derecho o Pasante de Derecho;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+II.- Ser Abogado o Licenciado en Derecho;
 
 III.- No tener, con el Juez de quien depende, el parentesco que señala la fracción V del Artículo 45; y
 
@@ -669,9 +669,11 @@ XVIII.- Redactar y preparar el acuerdo de trámite con la oportunidad debida; y
 
 XIX.- Desempeñar las demás funciones que les confieran las Leyes, el Reglamento, el Tribunal en Pleno o la Sala respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 50.
 
-Los Secretarios de Acuerdos de los Juzgados de Defensa Social y los Secretarios de Acuerdos de los Juzgados Mixtos en los asuntos del ramo de Defensa Social, tendrán además, las siguientes atribuciones y obligaciones:
+Los Secretarios de Acuerdos de los Juzgados que atiendan asuntos en materia penal tendrán, además, las siguientes atribuciones y obligaciones:
 
 I.- Enviar a la Dependencia respectiva, dentro de veinticuatro horas de haberse dictado el auto de formal prisión los elementos necesarios para el registro correspondiente; y
 
@@ -753,11 +755,15 @@ V.- De las Diligencias de Consignación y Promoción de Jurisdicción Voluntaria
 
 VI.- De toda cuestión emanada de asuntos que reclamen, en materia de Derecho Familiar, alguna intervención Judicial.
 
-### CAPITULO VI. DE LOS JUZGADOS MIXTOS Y DE LO FAMILIAR
+> <small>(REFORMADA SU DENOMINACION, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO VI. DE LOS JUZGADOS MIXTO DE LO CIVIL Y FAMILIAR
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 55.
 
-Los Jueces Mixtos y de lo Familiar conocerán en primera instancia:
+Los Jueces Mixtos de lo Civil y Familiar conocerán en primera instancia:
 
 I.- De todos los asuntos contenciosos y de Jurisdicción Mixta, Civiles o Mercantiles que ocurran en el Departamento Judicial de su residencia, cualquiera que sea su cuantía;
 
@@ -775,49 +781,95 @@ VI.- De cualquiera otros asuntos sometidos o que en adelante se sometan legalmen
 
 DE LOS JUZGADOS DE PAZ.
 
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 56.
 
-El Tribunal Superior de Justicia en Pleno designará a los Jueces de Paz, a propuesta del Presidente Municipal de la localidad a que pertenezcan.
+El Pleno del Tribunal designará Jueces de Paz en los Municipios del Estado y en las localidades de éstos, a propuesta del Ayuntamiento correspondiente, por conducto del Presidente Municipal.
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 57.
 
-Los Jueces de Paz dependerán del Tribunal Superior de Justicia, con cargo al Erario Municipal donde pertenezcan y actuarán con dos testigos de asistencia, quienes deben reunir los requisitos exigidos a los propios Jueces.
+Los Jueces de Paz dependerán del Tribunal Superior, pero sus emolumentos y el presupuesto de operación del Juzgado estarán a cargo al erario municipal e incluido en el presupuesto anual de egresos respectivo.
+
+Actuarán con dos testigos de asistencia, quienes deberán haber cumplido veintiún años, carecer de antecedentes penales y presentar identificación oficial.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 58.
 
-Para ser Juez de Paz se requieren los requisitos siguientes:
+Para ser Juez de Paz es necesario reunir los requisitos siguientes:
 
 I.- Haber cumplido veintiún años de edad;
 
-II.- Haber concluido la Enseñanza Primaria y poseer conocimientos necesarios para desempeñar bien el cargo;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-III.- Carecer de antecedentes penales.
+II.- Poseer el día del nombramiento, título de abogado o licenciado en derecho, legalmente expedido, cuando se trate de Municipios con más de diez mil habitantes. Tratándose de Municipios con cinco mil y hasta diez mil habitantes, el requisito será haber concluido la educación media superior y en Municipios con menos de cinco mil habitantes, haber concluido la educación secundaria;
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+III.- Poseer conocimientos necesarios para desempeñar el cargo en los términos de la ley aplicable;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+IV.- Preferentemente ser bilingüe, entendiéndose como hispano parlante con conocimientos de la lengua maya, y
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+V.- Carecer de antecedentes penales.
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+En el caso de que en algún Municipio no sea posible cumplir con los requisitos señalados en la fracción II de este artículo, el Pleno del Tribunal Superior de Justicia del Estado, podrá dispensarlos siempre que existan motivos debidamente justificados por la autoridad municipal.
 
 ###### ARTICULO 59.
 
 Los Jueces de Paz durarán en su cargo tres años, pudiendo ser reelectos, y antes de tomar posesión rendirán su protesta ante el Presidente del Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 60.
 
-Los Jueces de Paz conocerán de los asuntos civiles cuyo interés no exceda de 200 veces el salario mínimo que rija en la Ciudad de Mérida, y de aquellos cuyo conocimiento les confiere el Código de Procedimientos Civiles del Estado.
+Los Jueces de Paz tendrán las funciones y obligaciones siguientes:
+
+I.- Conocer de los asuntos que establece el Código de Procedimientos Civiles del Estado de Yucatán;
+
+II.- Conocer de los asuntos civiles cuya cuantía no exceda de doscientas veces el salario mínimo vigente en la ciudad de Mérida en aquéllos Municipios de hasta cinco mil habitantes, y quinientas veces el salario mínimo, en aquéllos municipios con habitantes de más de cinco mil habitantes;
+
+III.- Actuar como conciliadores en los asuntos que lo requieran;
+
+IV.- Diligenciar los despachos que reciban de las autoridades judiciales superiores;
+
+V.- Despachar exhortos;
+
+VI.- Archivar y salvaguardar los expedientes de los asuntos que hubiere conocido;
+
+VII.- Remitir trimestralmente a la Secretaría General del Pleno del Tribunal, un informe de los asuntos atendidos y pendientes, dentro de los primeros cinco días hábiles del mes siguiente a la conclusión del periodo;
+
+VIII.- Entregar anualmente al Archivo del Poder Judicial, dentro de la primera quincena de enero, los expedientes de los asuntos concluidos que hubiere conocido;
+
+IX.- Hacer formal entrega a quien lo suceda en el cargo, mediante acta circunstanciada, de los asuntos en trámite y de los terminados que no hubiere enviado al Archivo del Poder Judicial, en su caso;
+
+X.- Capacitarse en los términos que determine el Tribunal Superior de Justicia del Estado, y
+
+XI.- Diligenciar los asuntos que les encomienden las leyes.
+
+Los Jueces de Paz deberán abstenerse de admitir o conocer asuntos en materia penal, y en su caso, si fuere necesario, turnar al Ministerio Público aquellos de esa naturaleza que le sean presentados.
 
 ###### ARTICULO 61.
 
-Son obligaciones de los Jueces de Paz:
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2007)
 
-I.- Cumplir los despachos que reciban de las Autoridades Judiciales Superiores;
-
-II.- Desahogar y rendir las informaciones que les encomienden los Poderes Legislativo y Ejecutivo; y
-
-III.- Diligenciar los demás asuntos que les encomienden las Leyes.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 62.
 
-En caso de faltas temporales que no excedan de un mes, de recusación o excusa de los Jueces de Paz en determinado asunto, conocerá el Juez de Paz de la población más cercana y así sucesivamente.
+En caso de faltas temporales que no excedan de un mes, de la recusación o excusa de los Jueces de Paz en determinado asunto, conocerá el de la población más cercana. Los Jueces de Paz darán aviso, cuando deban ausentarse del lugar de su residencia, tanto al Tribunal Superior como al que deba sustituirlos, para que éste se encargue del despacho del juzgado.
 
 ###### ARTICULO 63.
 
-Los Jueces de Paz, cuando deban ausentarse del lugar de su residencia darán aviso al que deba sustituirlos, para que éste se encargue del despacho del Juzgado.
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2007)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 1 DE OCTUBRE DE 2006)</small>
 
@@ -1099,11 +1151,13 @@ III.- Los demás documentos y objetos que las Leyes o el Tribunal en Pleno deter
 
 Comprenderá el Archivo cuatro departamentos: El Primero de ellos para asuntos del Ramo de Defensa Social; el Segundo para asuntos del Ramo Civil; el Tercero para asuntos del Ramo Familiar; y el Cuarto para asuntos Administrativos del Poder Judicial.
 
-> <small>(F. DE E., P.O. 23 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 90.
 
-El Tribunal y los Juzgados de Defensa Social, de lo Civil y de lo Familiar y los Mixtos, remitirán al Archivo los expedientes que se hallaren concluidos o en los cuales se hubiere declarado caducidad, así como cualesquiera otros expedientes que conforme a la Ley deban formarse por el propio Tribunal, con los documentos y objetos que éste y las leyes relativas determinen. En forma de inventario se llevará un libro en que se hará constar, para su resguardo, los expedientes que contenga cada remisión y al pie del inventario se extenderá por el Jefe del Archivo el recibo correspondiente.
+El Pleno del Tribunal Superior de Justicia establecerá, mediante un Acuerdo General, los lineamientos sobre el destino final de los expedientes judiciales y administrativos que se hallaren concluidos y de los demás que deban ser archivados o destruidos, con apego a lo establecido en esta Ley y en el Acuerdo respectivo.
+
+Previo a la destrucción de expedientes, en los casos y con la periodicidad prevista en el Acuerdo General a que se refiere el párrafo anterior, se publicará en el Diario Oficial del Gobierno del Estado y, al menos, en tres periódicos de circulación diaria en el Estado, la relación de ellos con los datos que permitan identificarlos plenamente, para que quienes tengan interés jurídico o, no teniéndolo, tengan una razón fundada para que sean conservados, puedan solicitar la entrega de los documentos que estos contengan o su integración al Archivo General, dentro del plazo establecido para ello. El Pleno del Tribunal resolverá en definitiva sobre dichas solicitudes.
 
 ###### ARTICULO 91.
 
@@ -1602,3 +1656,21 @@ D.O. 30 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 19 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 48 de este Decreto, los funcionarios que se encuentren desempeñando el cargo de Secretarios de Acuerdos, no serán afectados en sus derechos laborales.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos del artículo 21 de este Decreto, la elección del Presidente del Tribunal Superior de Justicia del Estado de Yucatán para el período 2008-2010, se llevará a cabo durante la primera sesión ordinaria del año 2008, de entre los Magistrados que integran el Pleno del Tribunal.
