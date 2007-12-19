@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2006-12-29"
+last_updated: "2007-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
@@ -167,7 +167,11 @@ En el procedimiento de constitución de estas garantías se observarán en cuant
 
 (*) Para los efectos de la presente ley, son autoridades fiscales:
 
-a).- El Ayuntamiento de Mérida.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INICISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+a).- El Cabildo.
 
 b).- El Presidente Municipal de Mérida.
 
@@ -183,11 +187,11 @@ c).- El Síndico.
 
 d).- El Director de Finanzas y Tesorero Municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INICISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-e).- El Subdirector, jefe o encargado de la Oficina de ingresos.
+e).- El Subdirector de ingresos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -195,21 +199,35 @@ e).- El Subdirector, jefe o encargado de la Oficina de ingresos.
 
 f).- El titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Corresponde al Director de Finanzas y Tesorero Municipal, determinar, liquidar y recaudar los ingresos municipales y ejercer, en su caso, la facultad económico-coactiva; lo anterior podrá realizarlo, si así lo acuerda, también por medio del Subdirector de Ingresos.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Corresponde al Director de Finanzas y Tesorero Municipal, determinar liquidar y recaudar los ingresos municipales y ejercer, en su caso, la facultad económico-coactiva.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 2 DE ENERO DE 2006)</small>
 
 El Director de Finanzas y Tesorero Municipal designará a los interventores, visitadores, auditores, peritos, notificadores e inspectores, necesarios para verificar el cumplimiento de las obligaciones fiscales municipales, para llevar a cabo notificaciones, requerir documentación, practicar auditorias, visitas de inspección y visitas domiciliarias; mismas diligencias que se ajustarán a los terminos y condiciones que, para cada caso, disponga el Código Fiscal del Estado.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
-
-Las facultades discrecionales del Director de Finanzas y Tesorero Municipal, a excepción de las de ordenar la notificación de resoluciones de carácter fiscal, de requerir documentos o informes a los contribuyentes, y de ordenar las visitas y el embargo de bienes conforme a los procedimientos en la materia, no podrán ser delegadas en ningún caso o forma.
+> <small>(DEROGADO CUARTO PARRAFO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
 
 El Director de Finanzas y Tesorero Municipal y las demás autoridades a que se refiere este articulo gozarán, en el ejercicio de las facultades de comprobación, de las facultades que el Código Fiscal del Estado otorga al Tesorero del Estado y las demas autoridades estatales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 10 Bis.
+
+El Subdirector de Ingresos tendrá facultades para suscribir:
+
+a).- Las licencias de funcionamiento municipales, cuya expedición apruebe la autoridad competente;
+
+b).- Los certificados de no adeudar contribuciones municipales y;
+
+c).- Los requerimientos de pago de las multa (sic) federales no fiscales y de las multas impuestas por las autoridades municipales.
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -527,11 +545,23 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y 
 
 (*) Las licencias de funcionamiento serán expedidas por la Dirección de Finanzas y Tesorería Municipal, de conformidad con la tabla de derechos vigentes, en su caso.
 
-Tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del período constitucional de la administración municipal que la expidió.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-No obstante lo dispuesto en el párrafo anterior, durante el tiempo de su vigencia, el titular de la licencia de funcionamiento municipal deberá mantener vigentes los permisos, licencias, autorizaciones y documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de cada renovación a la Dirección de Finanzas y Tesorería Municipal dentro los treinta días naturales siguientes al vencimiento de los mismos. Una vez vencido este término, la falta de cumplimiento de estas obligaciones dará lugar a la terminación de la vigencia de la licencia de funcionamiento municipal, sin perjuicio de la sanción que corresponda a esta infracción.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-Los titulares de las licencias de funcionamiento, deberán revalidarlas durante los cuatro primeros meses de cada administración municipal.
+Tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del periodo constitucional de la administración municipal que la expidió, salvo que fueran revalidadas en los términos y condiciones que marca esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+No obstante lo dispuesto en el párrafo anterior, durante el tiempo de la vigencia de la licencia de funcionamiento, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro los treinta días hábiles siguientes al vencimiento de los mismos. En caso contrario se aplicará la sanción a que se refiere la fracción I del Artículo 161.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Los titulares de las licencias de funcionamiento deberán revalidarlas durante los cuatro primeros meses de cada administración municipal. Transcurrido este plazo, sin cumplir con esa obligación, dicha licencia quedará sin efecto. En este caso el interesado deberá tramitar una nueva licencia con la obligación de satisfacer los requisitos a que se refiere esta Ley para la apertura.
 
 Las personas físicas o morales que deban obtener la licencia municipal de funcionamiento, tendrán que anexar a la solicitud que presentarán a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos:
 
@@ -552,6 +582,12 @@ g).- Autorización de Ocupación en los casos previstos en el Reglamento de Cons
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
 h).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente o bien del recibo que emita el organismo paramunicipal administrador del servicio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Cuando el titular de una licencia de funcionamiento correspondiente a un comercio, negocio o establecimiento pretenda realizar un cambio de giro o de domicilio, deberá satisfacer los requisitos anteriores.
 
 Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
 
@@ -793,7 +829,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>N. DE E. VEASE TABLAS EN EL D.O. DE 31 DE DICIEMBRE DE 2001, PAGINAS DE LA 51 A LA 92.</small>
 
-> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O. 2 DE ENERO DE 2006, PAGINAS DE LA 7 A LA 33.</small>
+> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O. 2 DE ENERO DE 2006, PAGINAS DE LA 7 A LA 33; 19 DE DICIEMBRE DE 2007, PAGINAS DE LA 4 A LA 31.</small>
 
 > <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -801,17 +837,23 @@ II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas p
 
 > <small>N. DE E. VEASE TABLA EN EL D.O. 2 DE ENERO DE 2006, PAGINAS DE LA 34 A LA 36.</small>
 
+> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O.19 DE DICIEMBRE DE 2007, PAGINAS DE LA 31 A LA 34.</small>
+
 > <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
 
 III.- Los valores unitarios para los locales correspondientes a las plazas comerciales, que incluyan su área privativa y sus pro indiviso de las áreas comunes, de acuerdo a la siguiente tabla:
 
 > <small>N. DE E. VEASE TABLA EN EL D.O. 2 DE ENERO DE 2006, PAGINAS DE LA 34 A LA 36.</small>
 
+> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O.19 DE DICIEMBRE DE 2007, PAGINAS DE LA 34 A LA 35.</small>
+
 > <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
 
 IV.- Los valores unitarios para los diferentes tipos de construcción y factores por zona, que se expresan en la siguiente tabla:
 
 > <small>N. DE E. VEASE TABLA EN EL D.O. 2 DE ENERO DE 2006, PAGINA 38.</small>
+
+> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O. 19 DE DICIEMBRE DE 2007, PAGINA 36.</small>
 
 > <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -1033,29 +1075,61 @@ V.- Cuando se adquieran inmuebles por herencia o legado.
 
 VI.- la donación entre cónyuges, ascendientes o descendientes en línea directa, previa comprobación del parentesco ante la Dirección de Finanzas y Tesorería Municipal.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 53], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+VII.- La adquisición de vivienda de tipo económico, siempre y cuando el precio de venta no exceda de tres mil ochocientas veces el salario mínimo.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 De la base
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 56.
 
-(*) la base del impuesto sobre adquisición de inmuebles, será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente, el valor contenido en el avalúo pericial tratándose de las operaciones consignadas en las fracciones IX, XI y XII del artículo 54 de esta ley, el avalúo expedido por las autoridades fiscales, las instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales, por corredor público o perito valuador que se registre ante la Dirección de Finanzas y Tesorería Municipal, previo cumplimiento de los siguientes requisitos:
+La base del Impuesto Sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente y el valor contenido en el avalúo pericial expedido por las autoridades fiscales, las instituciones de crédito, el Instituto de Administración y Avalúos de Bienes Nacionales, por corredor público, valuador con cédula profesional de postgrado en valuación expedida por la Secretaría de Educación Pública o perito valuador que se registre ante la Dirección de Finanzas y Tesorería Municipal, previo cumplimiento de los siguientes requisitos:
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 a).- Ser ciudadano mexicano en pleno goce de sus derechos.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 b).- Acreditar con documentación fehaciente, experiencia valuatoria mínima de tres años inmediatos anteriores a la fecha de solicitud del registro.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Cuando el adquirente asuma la obligación de pagar alguna deuda del enajenante o de perdonarla, el importe de dicha deuda, se considerará parte del precio pactado.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 En todos los casos relacionados en el artículo 54, se deberá practicar avalúo sobre los inmuebles objeto de las operaciones consignadas en ese artículo y a ellos deberá anexarse el resumen valuatorio que contendrá:
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 I ANTECENDENTES (SIC):
 
 a).- Valuador:
 
-b).- Registro Municipal
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+b).- Registro Municipal o cédula profesional
 
 c).- Fecha de Avalúo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+d).- Tipo de inmueble
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 II UBICACIÓN:
 
@@ -1069,7 +1143,19 @@ d).- Colonia
 
 e).- Observaciones (en su caso)
 
-III RESUMEN VALUATORIO:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+III. REPORTE GRÁFICO:
+
+a).- Fotografías de fachada, calle de ubicación y 3 áreas interiores representativas.
+
+b).- Planta arquitectónica, planta de conjunto o croquis catastral debidamente acotado y que muestre el sembrado de las construcciones con relación al terreno.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+IV RESUMEN VALUATORIO:
 
 a).- Terreno:
 
@@ -1081,15 +1167,35 @@ a) Superficie Total M2 b) Valor unitario $ c) Valor de la construcción$
 
 Valor Comercial $ __________.
 
-IV. UNIDAD CONDOMINAL:
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+V. UNIDAD CONDOMINAL:
 
 a) Superficie Privativa M2 b) Valor Unitario $ c) Valor Comercial $
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 Las autoridades fiscales municipales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble objeto de la adquisición referido a la fecha de adquisición y, cuando el valor del avalúo practicado, ordenado o tomado en cuenta, excediera en más de un 10 por ciento, del valor mayor, el total de la diferencia se considerará como parte del precio pactado.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Para los efectos del presente artículo el usufructo y la nuda propiedad tienen cada uno el valor equivalente al .5 del valor de la propiedad.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 En la elaboración de los avalúos referidos así como para determinar el costo de los mismos con cargo a los contribuyentes, las autoridades fiscales municipales observarán las disposiciones del Código Fiscal del Estado o, en su defecto, las disposiciones relativas del Código Fiscal de la Federación y su reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+La Dirección del Catastro del Municipio de Mérida estará facultada para verificar la veracidad de la información contenida en los avalúos así como la correcta aplicación de la metodología y podrá solicitar aclaraciones al respecto y, en su caso, tomar las medidas pertinentes de sanción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Para cumplimiento de lo dispuesto en el párrafo anterior la Dirección de Finanzas y Tesorería Municipal remitirá los avalúos que reciba a la Dirección del Catastro del Municipio de Mérida.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTICULO 54], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1347,7 +1453,11 @@ VIII. Otorgamiento de Constancia a que se refiere la Ley sobre Régimen de Propi
 
 IX. Permisos de anuncios.
 
-X. Visitas de inspección para fosas sépticas, para los casos donde se requiera una tercera o posterior visita de inspección.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+X. Visitas de inspección de fosas sépticas.
 
 > <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -1381,7 +1491,7 @@ Los derechos por los servicios indicados en el artículo 74 se pagarán conforme
 
 N. DE VEASE TABLA EN EL D.O. DE 2 DE ENERO DE 2006, PAGINAS DE LA 42 46.
 
-> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O. 29 DE DICIEMBRE DE 2006, PAGINAS 7 Y 8.</small>
+> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O. 29 DE DICIEMBRE DE 2006, PAGINAS 7 Y 8; 19 DE DICIEMBRE DE 2007, PAGINAS DE LA 38 A LA 40.</small>
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1519,6 +1629,34 @@ Digital ó Disco de Video Digital (DVD), conteniendo
 
 de 1 hasta 10 archivos por disco. 2.0
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 81-A.
+
+Los ejemplares y publicaciones en la Gaceta Municipal del Ayuntamiento de Mérida, causarán derechos conforme a lo siguiente:
+
+Concepto Veces Salario Mínimo
+
+I.- Por ejemplar 0.11
+
+II.- Publicaciones, por:
+
+a) Edictos, circulares, avisos o cualquiera 1.50
+
+que no pase de diez líneas de columna,
+
+por cada publicación
+
+b) Cada palabra adicional 0.03
+
+c) Una plana 10.50
+
+d) Media plana 5.50
+
+e) Un cuarto de plana 3.00
+
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 #### Sección Cuarta. Derechos por Matanza de Ganado
@@ -1629,11 +1767,17 @@ de esta Ley 1.0
 
 I.- Por la emisión de copias fotostáticas simples:
 
-a).- Por cada hoja simple tamaño carta de cédulas,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-planos de predios, parcelas, formas de manifestación
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-de traslación de dominio o cualquier otra manifestación 0.3
+a).- Por cada hoja simple tamaño carta 0.3
+
+de cédulas, planos de predios, formas
+
+de manifestación de traslación de dominio
+
+o cualquier otra manifestación.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -1641,17 +1785,25 @@ b).- Por cada copia hasta tamaño cuatro cartas:
 
 c).- Por cada copia mayor al tamaño cuatro cartas: 5.0
 
-d).- Por cada copia mayor de cuatro cartas: 5.0
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+d).- Por cada hoja simple tamaño carta 2.0
+
+de Libro de Parcela con datos regístrales.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
 II.- Por la expedición de copias fotostáticas certificadas o duplicados certificados de:
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- Cédulas, planos, parcelas manifestaciones
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-(tamaño carta) cada una: 0.5
+a).- Cédulas, planos, manifestaciones 0.5
+
+(tamaño carta) cada una
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1665,17 +1817,37 @@ c).- Planos tamaño hasta cuatro cartas cada una: 2.2
 
 d).- Planos mayores de cuatro veces tamaño carta, cada uno: 5.2
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+e).- Libro de Parcela con datos registrales. 3.0
+
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 III.- Por la expedición de oficio de:
 
 a).- División (por cada parte): 0.5
 
-b).- Unión: 3.0
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c).- Rectificación de medidas, urbanización y cambio
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-de nomenclatura: 1.0
+b).- Unión:
+
+1. De 1 hasta 4 predios 3.0
+
+2. De 5 hasta 20 predios 5.0
+
+3. De 21 hasta 40 predios 7.0
+
+4. De 41 predios en adelante 10.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+c).- Urbanización y cambio de nomenclatura: 1.0
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1712,6 +1884,12 @@ h).- Inclusión por Omisión: 2.0
 > <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
 i).- Historial del Predio y su Valor 1.5
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+j).- Rectificación de medidas 4.0
 
 > <small>(REFORMADA, D.O. 8 DE ENERO DE 2005)</small>
 
@@ -1807,13 +1985,27 @@ En el caso de localización de predios y determinación de sus vértices, se cob
 
 a).- Cuando se trate de la ubicación de un predio dentro de una manzana, se aplicará el cobro de acuerdo con la tarifa de terreno de esta fracción, a toda la superficie existente en la manzana.
 
-b).- Cuando se trate de la ubicación de una manzana, se aplicará el cobro por metro lineal con base en la distancia existente desde el punto de referencia catastral más cercano a la manzana solicitada por cada metro lineal 0.050
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+b).- Cuando se trate de la ubicación de una
+
+manzana, se aplicará el cobro por metro lineal
+
+con base en la distancia existente desde el
+
+punto de referencia catastral más cercano a la
+
+manzana solicitada por cada metro lineal 0.070
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 88-A.
 
-El derecho a que se refiere el inciso d) de la fracción III del artículo 88, se considerará reducido en un 50% cuando la emisión de la cédula catastral se derive de licencia para construcción con superficie de hasta 40 m2 y la solicitud de expedición de la cédula catastral se realice dentro de un plazo no mayor de 30 días naturales, considerando la fecha de expedición de la licencia de construcción.
+El derecho al que se refiere el inciso d) de la fracción III del artículo 88, se considerará reducido en un 50% cuando la emisión de la cédula catastral se derive de licencia para construcción con superficie de hasta 40 m2 y la solicitud de expedición de la cédula catastral se realice dentro de un plazo no mayor de 60 días naturales contados a partir del día siguiente a la fecha de expedición de la licencia de construcción.
 
 ###### ARTICULO 89.
 
@@ -1877,7 +2069,11 @@ c).- Tamaño cuatro cartas 15.0 salarios
 
 d).- Tamaño 42 x 36 pulgadas (Ploter) 25.0 salarios
 
-VI.- Impresión de planos de manzana, fraccionamiento, sección catastral o de la ciudad:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+VI.- Impresión de planos a nivel manzana, fraccionamiento, sección catastral o de la ciudad:
 
 a).- Tamaño carta 4.0 salarios
 
@@ -1887,11 +2083,15 @@ c).- Tamaño cuatro cartas 14.0 salarios
 
 d).- Tamaño 42 x 36 pulgadas (Ploter) 20.0 salarios
 
-VII.- Trabajos de referencia geográfica con sistemas
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de posicionamiento global (G.P.S.) por cada punto
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-posicionando geográficamente. 12.0 salarios
+VII.- Trabajos de referencia geográfica con
+
+sistemas de posicionamiento global (G.P.S.)
+
+por cada punto posicionando geográficamente. 14.0 salarios
 
 > <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1921,35 +2121,49 @@ menos una vialidad, por cada fracción. 0.1 salarios
 
 De los Sujetos
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 95.
 
-(*) Están sujetos al pago de los derechos por el uso y aprovechamiento de bienes del dominio público del patrimonio municipal, así como por el uso y aprovechamiento de locales o piso en los mercados públicos propiedad del municipio, los concesionarios, permisionarios y las demás personas que tengan la posesión o hayan obtenido la posesión por cualquier otro medio.
-
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
-
-Cuando el uso o aprovechamiento del bien del dominio público del patrimonio municipal, sea distinto a la prestación de un servicio público de los que le corresponden al Municipio, se atenderá a lo establecido en el Capítulo IV del Título Segundo de esta Ley.
-
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 92], D.O. 31 DE DICIEMBRE DE 2004)</small>
-
-De la base
-
-###### ARTICULO 96.
-
-La base para determinar el monto de estos derechos, será el número de metros cuadrados concesionados o los que tenga en posesión por cualquier otro medio, la persona obligada al pago.
-
-> <small>(REFORMADO, D.O. 8 DE ENERO DE 2005)</small>
-
-De la tasa y del pago
-
-###### ARTICULO 97.
-
-Los derechos establecidos en el artículo 95, serán pagados mensualmente a razón de 0.27 veces el salario mínimo por metro cuadrado concesionado u ocupado
+Son sujetos al pago de los derechos establecidos en esta sección las personas que usen y aprovechen los bienes del dominio público del patrimonio municipal.
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
-De la renuncia y otorgamiento de concesiones
+De la base
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 96.
+
+La base para determinar el importe de estos derechos será el número de metros cuadrados usados y aprovechados por la persona obligada al pago.
+
+> <small>(REFORMADA, D.O. 8 DE ENERO DE 2005)</small>
+
+De la tasa y del pago
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 97.
+
+Los derechos establecidos en esta sección, será (sic) pagados mensualmente de conformidad con lo siguiente:
+
+I.- Por el uso de espacios en la vía o parques públicos: 10 salarios mínimos por metro cuadrado.
+
+II.- Por el uso y aprovechamiento de locales o piso en los mercados públicos propiedad del Municipio 0.27 salario mínimo por metro cuadrado.
+
+Cuando el contribuyente pague los derechos a que se refiere esta fracción II correspondientes a una anualidad, durante los meses de enero y febrero del año vigente de que se trate, gozará de una bonificación del 0.10 sobre el importe a pagar de dichos derechos.
+
+No obstante lo señalado en el primer párrafo tratándose de los Mercados sobre Ruedas, cada oferente realizará el pago del derecho el día que use y aproveche el espacio determinado. El importe de ese derecho será el que resulte de dividir la cuota mensual prevista en la fracción I de este artículo entre 30 por el número de metros cuadrados de dicho espacio.
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+De la renuncia y otorgamiento de concesiones, y permisos
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -1961,15 +2175,25 @@ El otorgamiento de concesiones para el uso y aprovechamiento de superficies de l
 
 Cuando algún concesionario ilegalmente haya pretendido enajenar sus derechos, el contrato que contenga la operación será nulo de pleno derecho, será causa de revocación de la concesión y de la aplicación al adquirente de una multa consistente en el .30 del valor comercial del área concesionada. El Ayuntamiento podrá concesionar discrecionalmente, al presunto adquirente la superficie en cuestión mediante un nuevo acto administrativo, y el pago de los derechos y la multa a que se refiere este artículo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Por el permiso para realizar el comercio ambulante, se pagará un derecho de 0.18 de un salario mínimo por día.
+
+###### ARTICULO 98-A.
+
+El pago de los derechos establecidos en la presente sección será posterior a la obtención de la autorización que otorgue la autoridad o dependencia municipal que corresponda.
+
 De las obligaciones de terceros
 
 ###### ARTICULO 99.
 
 (DEROGADO, D.O. 31 DE DICIEMBRE DE 2003) (REUBICADO [N. DE E. ANTES ARTICULO 95], D.O. 31 DE DICIEMBRE DE 2004]
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-#### Sección Octava. Derechos por el Uso de Cementerios y la Prestación de Servicios Conexos
+#### Sección Octava. Derechos por el Servicio Público de Panteones
 
 > <small>(REFORMADO PRIMER PARRAFO [N. DE E. ANTES ARTICULO 95-A], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1987,21 +2211,21 @@ I.- Por el uso o servicio de la cámara de refrigeración por cadáver o resto h
 
 II.- Por el permiso para prestar el servicio funerario particular se causará un derecho de 6.2 salarios
 
-(REFORMADO PRIMER PARRAFO, D.O. 19 DE MAYO DE 2003) (REPUBLICADO PRIMER PARRAFO, D.O. 8 DE ENERO DE 2005)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Por usar una bóveda por un período de dos años o su prórroga por el mismo período:
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+III.- Por otorgar la concesión de uso de temporalidad mínima de:
 
-a) Bóveda grande 7.1 salarios
+a) Bóveda Grande 10.65 salarios
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+b) Bóveda chica 4.65 salarios
 
-b) Bóveda chica 3.1 salarios
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-IV.- Por usar a perpetuidad bóvedas, criptas, fosas o tumbas y osarios que se encuentren dentro de los cementerios y panteones públicos o privados, ubicados dentro de la jurisdicción y competencia del Municipio de Mérida, se pagará de la siguiente forma:
+IV.- Por otorgar la concesión de uso de temporalidad máxima de bóvedas, criptas, fosas o tumbas y osarios que se encuentren dentro de los panteones o cementerios públicos municipales:
 
 (REFORMADO PRIMER PARRAFO, D.O. 19 DE MAYO DE 2003) (REPUBLICADO, D.O. 8 DE ENERO DE 2005)
 
@@ -2060,6 +2284,52 @@ b) En las comisarías y subcomisarías del Municipio de Mérida 1.2 salarios
 > <small>(ADICIONADA, D.O. 2 DE ENERO DE 2006)</small>
 
 VII.- Por la expedición de títulos de concesión a perpetuidad, cuando haya sido adquirida por herencia, legado o mandato judicial 3.5 salarios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+VIl.- Por el registro de cambio de titular y
+
+su correspondiente expedición de titulo de
+
+concesión de uso a perpetuidad o a temporalidad
+
+máxima, cuando haya sido adquirida por herencia,
+
+legado o mandato judicial. 3.5 salarios
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Por el permiso temporal para establecer
+
+puestos semi-fijos para realizar actividades
+
+autorizadas en el interior de los panteones
+
+públicos, por día. 1 salario
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+IX.- Por el otorgamiento de la concesión para
+
+operar un panteón particular, por cada año
+
+concesionado. 400 salarios
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+X.- Por el otorgamiento de la concesión
+
+para operar un crematorio particular, por
+
+cada año concesionado. 400 salarios
 
 > <small>(REFORMADO PRIMER PARRAFO [N. DE E. ANTES ARTICULO 95-B], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2147,7 +2417,11 @@ De la reducción de las cuotas
 
 El Director de Finanzas y Tesorero Municipal, podrá disminuir a petición expresa del Director de Gobernación o del Director de Desarrollo Social, las cuotas señaladas en las fracciones I y II del articulo 101 de esta sección, en el caso de personas de escasos recursos.
 
-El Director de Gobernación o el Director de Desarrollo Social a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, la Subdirección de Cementerios del Ayuntamiento de Mérida.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+El Director de Gobernación o el Director de Desarrollo Social a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico que para tal efecto realice la dependencia correspondiente.
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2597,6 +2871,20 @@ Para el caso de residuos sólidos no peligrosos o basura de origen comercial, la
 
 Los derechos a que se refiere esta Sección serán pagados por mes de prestación del servicio, dentro de los 15 días siguientes al mismo, no se causará actualización ni recargos sobre los mismos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Los usuarios de los servicios señalados en esta sección que paguen en una sola exhibición el importe anual por este servicio, gozarán de las siguientes bonificaciones de la tarifa que corresponda, siempre que dicho pago se realice durante los meses que a continuación se señalan:
+
+Mes de pago Bonificación
+
+Enero 0.15
+
+Febrero 0.10
+
+Marzo 0.05
+
 > <small>(REFORMADA SU DENOMINACION, D.O. 2 DE ENERO DE 2006)</small>
 
 #### Sección Décima Séptima
@@ -2647,33 +2935,63 @@ Son sujetos de los derechos establecidos en esta Sección, las personas físicas
 
 El objeto de los derechos a los que se refiere esta Sección es el servicio de suministro de agua potable que el Municipio proporcione.
 
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 129-D.
 
-La base será el consumo en metros cúbicos de agua, en los casos en los que se haya instalado aparato medidor, y a falta de este la cuota fija establecida en esta Sección.
+Serán las bases para el cobro de este derecho las siguientes:
 
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
+I. Para los predios que cuenten con medidor volumétrico en su toma de agua: El consumo en metros cúbicos.
+
+II. Para los predios que no cuenten con medidor volumétrico en su toma de agua: Por cada toma de agua instalada.
+
+III. Por la contratación para la conexión de un predio a la red de Agua Potable
+
+Municipal: Por la toma de agua.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 129-E.
 
-La tarifa aplicable a los servicios de agua potable a que se refiere la presente Sección es la siguiente:
+Los derechos por los servicios a que se refiere la presente sección se pagarán de conformidad con lo siguiente:
 
-Tarifa mensual
+I. Por el consumo de agua potable de aquellos predios que cuentan con medidor volumétrico, se pagara conforme a las siguientes tablas:
+
+a) Para el caso de consumo para uso doméstico,
 
 Límites (metro cúbico) Cuota Base Cuota por metro cúbico
 
 De 0 a 20 12 pesos 0.00 pesos
 
-De 21 a 9999999 0 pesos 1.05 pesos
+De 21 a 9999999 0.00 pesos 1.40 pesos
 
-En aquellos casos en los que no se haya instalado el aparato medidor para cuantificar el consumo o uso de los servicios de agua potable, se pagará una cuota fija mensual de 11 pesos.
+b) Para el caso de consumo para uso comercial e industrial,
+
+Límites (metro cúbico) Cuota Base Cuota por metro cúbico
+
+De 0 a 20 38.50 pesos 0.00 pesos
+
+De 21 a 9999999 0.00 pesos 1.91 pesos
+
+II. Por el consumo de agua potable de aquellos predios en los cuales no se haya instalado medidor volumétrico, se pagara una cuota mensual de 11 pesos.
+
+III. Por la contratación para la conexión de toma de agua, se pagara una cuota de 250 pesos.
 
 > <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 129-F.
 
 Los derechos a que se refiere la presente sección deberán cubrirse dentro del mes siguiente al cual correspondan, no se causará actualización ni recargos sobre los mismos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+Cuando el Municipio de Mérida realice la reconexión de los servicios de agua potable, con motivo de la reducción o suspensión del servicio de agua potable a que se hizo acreedor el usuario que adeudó las cuotas establecidas en el artículo 129-E, el usuario deberá pagar una cuota de 110 pesos por concepto de reconexión.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -2949,13 +3267,11 @@ Para tal efecto, la Dirección o dependencia, a que se refiere el párrafo anter
 
 Los productos que percibirá el Ayuntamiento de Mérida, a través de la Dirección de Finanzas y Tesorería Municipal u oficinas autorizadas, serán:
 
-> <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 I.- Por arrendamiento, explotación, o aprovechamiento de bienes muebles e inmuebles, del patrimonio municipal, en actividades distintas a la prestación directa por parte del Municipio de un servicio público.
-
-Para el caso a que se refiere esta fracción el importe de la contraprestación, tratándose de bienes inmuebles, no podrá ser menor a la que se establece en el caso de derechos en el articulo 97 de esta Ley.
-
-Para los efectos de lo dispuesto en esta fracción el Cabildo acordará el procedimiento respectivo para establecer la contraprestación que corresponderá cubrir al particular por el aprovechamiento especial del bien inmueble.
 
 > <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -2971,9 +3287,11 @@ V.- Por copias simples ó impresas de documentos diversos ó en medios magnétic
 
 VI.- Por la enajenación de productos o subproductos que resulten del proceso de composta llevado a cabo por parte del Municipio.
 
-> <small>(ADICIONADA, D.O. 2 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- Por la enajenación y venta de bases de licitación.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+VII.- Por la enajenación y venta de bases para participar en procedimientos de licitación pública o de invitación.
 
 > <small>(ADICIONADA, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -3023,13 +3341,17 @@ De la venta de formas oficiales
 
 Los productos que percibirá el Ayuntamiento, por la venta de formas oficiales impresas, será de .40 de un salario mínimo.
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 115], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 De los daños
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 149.
 
-Los productos que percibirá el Municipio por los daños que sufrieren las vías públicas o los bienes de su propiedad, serán cuantificados de acuerdo al peritaje que se elabore al efecto, sobre los daños sufridos. El perito será designado por la autoridad fiscal municipal.
+Los productos que percibirá el Municipio por los daños que sufrieren las vías públicas o los bienes de su propiedad, serán cuantificados de acuerdo al peritaje que se elabore al efecto, sobre los daños sufridos. El perito será designado por la Dirección de Gobernación del Ayuntamiento del Municipio de Mérida.
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3079,13 +3401,27 @@ De los honorarios por notificación
 
 Cuando las autoridades fiscales realicen notificaciones personales, de conformidad con lo establecido en el Código Fiscal del Estado de Yucatán o el Código Fiscal de la Federación, para requerir el cumplimiento de obligaciones no satisfechas dentro de los plazos legales; se causarán y cobrarán a cargo de quien incurrió en el incumplimiento el equivalente a tres veces el salario mínimo vigente en la fecha de la diligencia, por concepto de honorarios por notificación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+No obstante lo anterior, el importe de los honorarios por notificación no excederá del que resulte de la determinación del crédito fiscal derivado de la obligación omitida requerida.
+
 Tratándose de los honorarios a que se refiere este artículo, la autoridad recaudadora los determinará conjuntamente con la notificación y se pagarán al cumplir con el requerimiento.
 
-> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### ARTICULO 150-C.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
-Los honorarios por notificación mencionados en el artículo inmediato anterior, no serán objeto de exención, disminución, condonación o convenio; las cantidades cobradas por ese concepto corresponderán a los empleados de la Dirección de Finanzas y Tesorería Municipal, que intervengan en el proceso y se encuentren adscritos a los departamentos involucrados y se distribuirán de conformidad con el acuerdo que al efecto emita el Director de Finanzas y Tesorero Municipal.
+###### ARTICULO 150.-C.
+
+Los honorarios por notificación mencionados en el artículo inmediato anterior, no serán objeto de exención, disminución, condonación o convenio; del total de las cantidades cobradas por este concepto se distribuirán de la siguiente forma:
+
+I.- El 0.70, para el personal adscrito y personal por programas de la Dirección de Finanzas y Tesorería Municipal, y
+
+II.- El 0.30, para invertir en equipo y herramientas necesarias para fortalecer el ejercicio de las funciones fiscales.
+
+Lo dispuesto en este artículo aplicará únicamente en el caso de las notificaciones personales realizadas por el personal señalado en la fracción I.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3277,9 +3613,11 @@ III.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso b).
 
 IV.- Multa de 150 a 170 salarios mínimos, a la establecida en el inciso g).
 
-V.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso i).
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO DE REFORMAS A LA LEY PUBLICADO EN EL D.O. DE 19 DE DICIEMBRE DE 2007, EL CONTENIDO DE LA FRACCION VI QUEDO INMERSA EN LA FRACCION V.</small>
 
-VI.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso j).
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
+V.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso i) y j).
 
 T R A N S I T O R I O S
 
@@ -3408,3 +3746,89 @@ Se faculta al Director de Finanzas y Tesorero Municipal a emitir los acuerdos, e
 La aplicación saldo del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial, tales como las de presentar avisos y declaraciones.
 
 En ningún caso la aplicación saldo del estímulo a que se refiere este artículo dará lugar a devolución de cantidad alguna.
+
+D.O. 19 DE DICIEMBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día 1 de enero de 2008, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTICULO SEGUNDO.
+
+Los avalúos que se practiquen para efectos del pago del Impuesto sobre Adquisición de Bienes Inmuebles en el período comprendido entre el 1 de enero y el 30 de junio del ejercicio 2008 deberán contener la información necesaria a fin de que se cumpla con lo dispuesto en el artículo 56.
+
+Durante el período comprendido del 1 de enero y el 30 de junio del ejercicio 2008 se aceptarán los avalúos practicados con anterioridad al 1 de enero de 2008, siempre y cuando se encuentren vigentes en los términos del artículo 57, en dicho caso el resumen valuatorio podrá contener únicamente las características a que se refiere el texto de artículo 56 vigente a) 31 de diciembre de 2007.
+
+###### ARTICULO TERCERO.
+
+Los derechos establecidos en la Sección Décima Tercera del Capítulo II del Titulo Segundo de la Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTICULO CUARTO.
+
+Si durante el ejercicio fiscal 2008 fueran modificadas en sesión de cabildo, las tarifas para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura; las cuotas establecidas en la Sección Décima Sexta del Capítulo II del Título Segundo, se verán incrementadas o en su caso decrementadas, en la misma proporción que las tarifas autorizadas, lo sean para dichos concesionarios.
+
+###### ARTICULO QUINTO.
+
+Durante los ejercicios fiscales 2008, 2009 y 2010, se les otorga un estímulo a los contribuyentes del impuesto predial, que lo causen conforme a la base del valor catastral, de acuerdo a lo siguiente:
+
+I.- Se determinará el valor catastral que corresponda al inmueble conforme a las tablas de valores vigentes para el año 2008.
+
+II.- Se determinará el valor catastral que corresponda al inmueble conforme a las tablas de valores vigentes durante el año 2007.
+
+III.- Si el valor catastral del inmueble determinado en la fracción I de este artículo no excede de un importe de $310,000.00, se considerará como base del impuesto predial en su modalidad valor catastral para el cálculo del impuesto correspondiente a los meses comprendidos en el período de enero 2008 a diciembre 2010, el valor determinado conforme a la fracción II. En caso de que el valor catastral del inmueble determinado en la fracción I de este artículo exceda de un importe de $310,000.00, se considerará como base del impuesto predial en su modalidad valor catastral para el cálculo del impuesto correspondiente a los meses comprendidos en el período de enero 2008 a diciembre 2010, el valor determinado conforme a la fracción I.
+
+###### ARTICULO SEXTO.
+
+Para el ejercicio fiscal 2008, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 46, las bonificaciones se otorgarán de conformidad con la siguiente tabla:
+
+Mes en el que se paga el Factor de
+
+equivalente a una bonificación
+
+anualidad
+
+Enero 0.12
+
+Febrero 0,10
+
+Marzo 0.08
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año 2008.
+
+###### ARTICULO SEPTIMO.
+
+En materia de impuesto predial, se otorga un estímulo consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial causado en los períodos comprendidos de enero 2008 a diciembre 2010, siempre y cuando los trabajos fueren iniciados y concluidos durante el ejercicio 2008 y se encuentre cubierto en su totalidad el impuesto predial, causado hasta por el período de Diciembre 2007; de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles que se encuentren sin uso, al menos durante los seis meses inmediatos anteriores consecutivos, o en estado de abandono, y que dichos trabajos recuperen la habitabilidad de dicho bien, y
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los señalados como monumentos históricos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo transitorio se entenderá por:
+
+I.- Acreditamiento, el restar del impuesto causado en el mes que corresponda un importe igual de la inversión; la diferencia resultante entre el impuesto causado y el acreditamiento derivado del estímulo, en caso de que éste fuere menor, deberá ser pagada. La suma de los acreditamientos aplicados no podrá ser mayor del monto de la inversión a que se refiere el párrafo siguiente de este artículo.; (sic)
+
+II.- Rescate, la recuperación de elementos que hubieren sido mutilados o alterados;
+
+III.- Consolidación, cuando se devuelve la estabilidad a partir de lo existente;
+
+IV.- Restauración, cuando se reincorpora algún elemento original, o con características similares al original; y (sic)
+
+V.- Integración al contexto, cuando se lleve a cabo un proyecto que permita incorporar al predio en cuestión con las características de su entorno.
+
+VI.- Rehabilitación integral, el conjunto de trabajos, en interior y exterior, respetuosos de las características originales del inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente deberá obtener de la Dirección de Desarrollo Urbano, un dictamen aprobatorio en el cual se determine el importe de la inversión en los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+La Dirección de Desarrollo Urbano emitirá un acuerdo por medio del cual se establezcan los requisitos que deban cubrirse, para considerarse la inversión como realizable en los trabajos de rescate, consolidación, restauración, integración al contexto, o rehabilitación integral.
+
+Una vez concluidos los trabajos señalados en el proyecto aprobatorio, el contribuyente obtendrá constancia de ello emitida por la Dirección de Desarrollo Urbano. Con en (sic) base los importes señalados en dicha constancia podrá aplicarse el estímulo a que se refiere este artículo.
+
+De no concluirse en su totalidad los trabajos determinados en el proyecto por el cual se obtuvo dictamen en los plazos que el mismo señale, se considerará que el contribuyente ha perdido los beneficios a que se refiere el presente artículo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTICULO OCTAVO.
+
+Se derogan todas las disposiciones de los reglamentos municipales que se opongan a la presente ley.
