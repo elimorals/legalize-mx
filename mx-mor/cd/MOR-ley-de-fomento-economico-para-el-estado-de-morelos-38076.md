@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-economico-para-el-estado-de-morelos-38076"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-10"
-last_updated: "2004-06-02"
+last_updated: "2007-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 19 DE DICIEMBRE DE 2007, SE DEROGAN TODAS LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE ORDENAMIENTO, QUE SE OPONGAN A LO ESTABLECIDO EN LA NUEVA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de marzo de 2004.
 
@@ -1559,7 +1561,7 @@ C. GABRIEL HADAD GIORGI
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE JUNIO DE 2004.
 
@@ -1570,3 +1572,15 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 19 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley deberá publicarse en el Periódico "Tierra y Libertad", Órgano Oficial del Gobierno del Estado de Morelos y entrará en vigor el 1° de enero del año 2008.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja sin efecto el Acuerdo por el que se Modifica la Estructura Orgánica del Consejo Estatal de Desregulación Económica y se Establece el Programa de Mejora Regulatoria para el Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", Órgano Oficial del Gobierno del Estado de Morelos, con fecha veintiocho de febrero del año dos mil uno, y se derogan todas las disposiciones contenidas en la Ley de Fomento Económico para el Estado de Morelos, que se opongan a lo establecido en la presente Ley.
