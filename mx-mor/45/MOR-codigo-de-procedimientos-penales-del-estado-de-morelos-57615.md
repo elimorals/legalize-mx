@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2007-11-22"
+last_updated: "2007-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR DE ACUERDO CON LAS MODALIDADES Y FECHAS QUE SE PRECISAN EN EL SEGUNDO TRANSITORIO.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -4361,6 +4359,10 @@ A partir de las cero horas del 1 de junio del 2009 en el Sexto Distrito Judicial
 
 Y a partir de las cero horas del día 1 de febrero del 2010, en el Cuarto Distrito Judicial con sede en Jojutla, en el Segundo Distrito Judicial con sede en Tetecala, en el Tercer Distrito Judicial con sede en Puente de Ixtla y en el Séptimo Distrito Judicial con sede en Jonacatepec.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
+El presente Código iniciará su vigencia para efectos de aplicación supletoria a la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Morelos, a partir del primero de enero del 2008.
+
 Artículo Tercero. Abrogación. El Código de Procedimientos Penales promulgado el 7 de octubre de mil novecientos noventa y seis seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código, y quedará abrogado en la medida en que aquellos queden agotados.
 
 Artículo Cuarto. Derogación Tácita de Preceptos Incompatibles. Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este Ordenamiento.
@@ -4412,3 +4414,11 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase la presente Ley al Gobernador Constitucional del Estado de Morelos, para los efectos previstos por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
