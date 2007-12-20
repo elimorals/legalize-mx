@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-15059"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-07-01"
-last_updated: "2005-09-08"
+last_updated: "2007-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de julio de 1999.
 
@@ -113,9 +113,11 @@ Esta notificación deberá hacerse con una anticipación de por lo menos ocho d�
 
 El Congreso residirá en la capital del Estado y no podrá trasladarse a otro lugar, ni aún provisionalmente, salvo que se decida por acuerdo de cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 11.
 
-El Congreso del Estado, como órgano de representación ciudadana, se compondrá de 15 diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales, y por 10 diputados de representación proporcional que serán designados en los términos y condiciones que establezca la Constitución Política Local y el Código Estatal Electoral.
+El Congreso del Estado, como órgano de representación ciudadana, se compondrá de 17 diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales, y por 13 diputados de representación proporcional que serán designados en los términos y condiciones que establezca la Constitución Política Local y el Código Estatal Electoral.
 
 En el ejercicio de su responsabilidad constitucional, todos los diputados tienen la misma categoría e igualdad de derechos y obligaciones.
 
@@ -223,6 +225,10 @@ En los primeros períodos ordinarios de sesiones, la mesa directiva se elegirá 
 
 El Presidente del Congreso tendrá la representación jurídica de éste y a falta de él, ejercerá sus funciones el vicepresidente. En ausencia de ambos, asumirá el cargo, por su orden, los diputados que la hubieren ocupado en los meses anteriores.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+En los periodos de receso la representación jurídica la tendrá el Presidente de la Comisión Permanente y a falta de él la ejercerá el Presidente Suplente.
+
 ###### ARTÍCULO 32.
 
 Las faltas de los secretarios propietarios serán cubiertas por los suplentes y en caso de ausencia de éstos, por quienes designe el Presidente del Congreso.
@@ -255,7 +261,9 @@ XI. Nombrar las comisiones especiales;
 
 XII. Tomar la protesta a los diputados en la forma establecida y a los servidores públicos que conforme a la Ley deban otorgarla ante el Congreso;
 
-XIII. Rendir los informes, previos o justificados, en los juicios de amparo en los que el Congreso sea señalado como parte;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+XIII. Rendir los informes, previos o justificados, en los juicios de amparo en los que el Congreso sea señalado como parte y asumir la representación jurídica en las diferentes etapas del juicio. En los periodos de receso, ésta facultad la asumirá el Presidente de la Comisión Permanente;
 
 XIV. Aplicar las medidas disciplinarias que le faculte expresamente la Ley, al diputado o diputados que se resistan a acatar las resoluciones dictadas por las instancias de Gobierno del Congreso;
 
@@ -665,9 +673,15 @@ VI. Editorial y Biblioteca.
 
 A la Comisión de Estudios Constitucionales, le corresponde conocer de los siguientes asuntos:
 
-I. Los que se refieren a reformas o adiciones a la Constitución General de la República o a la particular del Estado; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-II. Formulación de informes en juicios de amparos en los que el Congreso sea parte, debiendo coordinarse en función de lo establecido en el artículo 33, fracción XIII de esta Ley.
+I. Los que se refieren a reformas o adiciones a la Constitución General de la República o a la particular del Estado;
+
+II. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2007); y (sic)
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+III. Las demás que le encomiende el Congreso del Estado.
 
 ###### ARTÍCULO 79.
 
@@ -1833,6 +1847,10 @@ La elección anterior deberá comunicarse por oficio a los Titulares de los Pode
 
 Si un partido político tuviere dos diputados acreditados en la Legislatura, uno de ellos podrá asistir a las sesiones de la Comisión Permanente con derecho a voz.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+La representación legal del Congreso y de la Comisión Permanente, durante los periodos de receso, recaerá en los términos que establece el artículo 31, en la persona del Presidente de la Comisión Permanente y en su ausencia en el Presidente Suplente correspondiente.
+
 ###### ARTÍCULO 253.
 
 La Comisión Permanente se instalará el primer día de su ejercicio y acordará los días y hora de sus sesiones, debiendo celebrar, cuando menos, una sesión semanal, en el recinto oficial del Congreso.
@@ -1930,3 +1948,9 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 20 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
