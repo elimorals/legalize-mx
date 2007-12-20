@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-y-vigilancia-del-sistema-de-18933"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2000-12-28"
+last_updated: "2007-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACION Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACION ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2000.
 
@@ -135,13 +135,17 @@ Si transcurrido el plazo establecido en el Artículo anterior no estuviere conta
 
 Los ajustes cuatrimestrales y del ejercicio que resulten a cargo del Estado en el fondo general de participaciones, Fondo de Fomento Municipal e Impuesto Especial sobre Producción y Servicios, serán aplicados en la parte del 20% que corresponde a los municipios en el mes siguiente al del ajuste.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 12.
 
-Las participaciones que correspondan a los Municipios son inembargables e imprescriptibles.
+Las participaciones que correspondan a los Municipios son inembargables, no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo por lo establecido en el artículo 13 de la presente ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 13.
 
-El Gobierno del Estado, previo acuerdo expreso del municipio, podrá afectar las participaciones que les correspondan para cumplir obligaciones a su cargo, o bien, cuando exista ordenamiento expreso de autoridad competente en casos de incumplimiento de obligaciones y dichas participaciones hayan sido afectadas en garantía.
+Sujeto a los términos establecidos en la Ley de Coordinación Fiscal y la Ley de Deuda Pública del Estado de Durango y sus Municipios, los Municipios podrán directamente y/o a través del Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y de Administración, afectar los ingresos y/o derechos derivados de las participaciones federales que a cada uno de ellos les corresponda, con el objeto de servir como fuente de pago y/o garantía de obligaciones del Municipio respectivo que hayan sido contratados de conformidad con los términos de la Ley de Coordinación Fiscal y la Ley de Deuda Pública del Estado de Durango y sus Municipios. Para dichos efectos, el Estado por conducto de la Secretaría de Finanzas y de Administración y los Municipios podrán celebrar convenios o contratos que sean requeridos para llevar a cabo dichas afectaciones.
 
 ###### Artículo 14.
 
@@ -186,3 +190,11 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS QUINCE DIAS DEL MES DE DICIEMBRE DEL DOS MIL.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER. EL SECRETARIO GENERAL DE GOBIERNO. LIC. JOSE MIGUEL CASTRO CARRILLO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
