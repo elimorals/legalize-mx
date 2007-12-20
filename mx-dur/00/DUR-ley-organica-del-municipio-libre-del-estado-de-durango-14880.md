@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-14880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-30"
-last_updated: "2003-06-15"
+last_updated: "2007-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -329,9 +329,13 @@ IX. Conceder y expedir licencias para el funcionamiento de espectáculos, establ
 
 C). EN MATERIA DE HACIENDA PÚBLICA MUNICIPAL:
 
-I. Aprobar su presupuesto anual de ingresos y someterlo oportunamente para su aprobación al Congreso del Estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-II. Aprobar libremente su presupuesto anual de egresos;
+I. Aprobar su iniciativa de Ley de ingresos para el ejercicio fiscal que corresponda y remitirla al Congreso del Estado a más tardar el día último del mes de octubre del año respectivo;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+II. Aprobar libremente su proyecto de presupuesto anual de egresos en los términos de la presente ley y remitirlo al Congreso del Estado conjuntamente con la iniciativa de ley de ingresos respectiva;
 
 III. Discutir y aprobar, en su caso, la cuenta pública de gasto anual que deberá presentar al Congreso del Estado para su revisión;
 
@@ -1365,7 +1369,9 @@ Cuando el ayuntamiento apruebe la expedición o modificación de un reglamento, 
 
 En la medida que se modifiquen las condiciones socioeconómicas de los Municipios, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas, modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria, los ayuntamientos deberán adecuar su reglamentación municipal, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico de la sociedad.
 
-## TÍTULO SÉPTIMO. DE LA HACIENDA PÚBLICA Y EL PATRIMONIO MUNICIPA (sic)
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+## TÍTULO SÉPTIMO. DE LA HACIENDA PÚBLICA Y EL PATRIMONIO MUNICIPAL
 
 ### CAPÍTULO I. DE LA HACIENDA Y DEL PATRIMONIO
 
@@ -1381,37 +1387,37 @@ III. Los derechos y obligaciones creados legítimamente en su favor; y
 
 IV. Los demás bienes, derechos o aprovechamientos que señalen las leyes y otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 132.
 
-La Hacienda Pública Municipal, se forma de impuestos, derechos, productos, aprovechamientos, participaciones fondos de aportaciones, financiamientos, los rendimientos de los bienes que le pertenezcan, y en general, por las contribuciones y otros ingresos que la Legislatura del Estado establezca a su favor. En consecuencia los recursos que integran la Hacienda Pública Municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quienes ellos autoricen conforme a la Ley. En todo caso:
+Los Municipios administrarán libremente su hacienda misma que se constituye de impuestos, derechos, contribuciones por mejoras, productos, aprovechamientos, participaciones, aportaciones federales, así como por ingresos extraordinarios. En todo caso:
 
-a).- Percibirán las contribuciones que determinen las leyes de la materia, sobre la propiedad inmobiliaria, de su fraccionamiento división, consolidación, traslación y mejora, así como las que tenga por base el cambio de valor de los inmuebles.
+a).- Percibirán los ingresos que determinen las leyes de la materia, sobre la propiedad inmobiliaria, de su fraccionamiento división, consolidación, traslación y mejora, así como las que tenga por base el cambio de valor de los inmuebles.
 
-Los Ayuntamientos podrán celebrar convenios con el Estado para que este se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+Los ayuntamientos podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
-Las participaciones federales, que serán cubiertas por la federación a los municipios por conducto del gobierno del Estado, con apego a las bases, montos y plazos que anualmente se determinen en la Legislación correspondiente.
+b).- Las participaciones y aportaciones federales, que serán cubiertas por la federación a los municipios por conducto del Gobierno del Estado, con apego a las bases, montos y plazos que anualmente se determinen en la Legislación correspondiente.
 
 La dependencia que tenga a su cargo el manejo de los fondos públicos estatales, está obligada a publicar en los periódicos de mayor circulación en la localidad, los informes mensuales detallados de las participaciones que en ese lapso correspondan a cada municipio de la entidad;
 
-b).- Los ingresos derivados de la prestación de servicios públicos a cargo del ayuntamiento, así como los productos y aprovechamientos que le correspondan.
+c).- Los ingresos derivados de la prestación de servicios públicos a cargo del Ayuntamiento, así como los productos y aprovechamientos que le correspondan.
 
-La Legislatura del Estado, tendrá facultades para establecer las contribuciones a las que se refiere el presente artículo, así como los ingresos derivados de la prestación de servicios públicos a cargo del ayuntamiento, además los productos y aprovechamientos que le correspondan. Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, a favor de persona o institución alguna.
+La Legislatura del Estado, tendrá facultades para establecer las contribuciones a las que se refiere el presente artículo, así como los ingresos derivados de la prestación de servicios públicos a cargo del Ayuntamiento, además de los productos y aprovechamientos que le correspondan. Las leyes locales no establecerán exenciones respecto de las contribuciones mencionadas en el presente inciso y en el a) de este artículo, a favor de persona o institución alguna.
 
-Sólo los bienes del dominio público de la Federación, el Estado y de los municipios, estarán exentos de las contribuciones a que se refieren los incisos a) y c) del presente artículo, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título para fines administrativos o propósitos distintos a los de su objeto público.
+Sólo los bienes del dominio público de la Federación, el Estado y de los municipios, estarán exentos de las contribuciones a que se refieren los incisos a) y c) del presente artículo, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 ###### Artículo 133.
 
 Las leyes de ingresos municipales, tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del 1o. de enero y hasta el 31 de diciembre del año que corresponda.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 134.
 
-Los ayuntamientos deberán presentar anualmente al Congreso del Estado y a mas tardar el último día de octubre, para su examen y aprobación, sus proyectos de presupuesto anual de ingresos del año siguiente.
+Los ayuntamientos formularán y aprobarán durante la segunda quincena del mes de octubre de cada año sus iniciativas de leyes de ingresos para el siguiente ejercicio fiscal y las remitirán al Congreso del Estado, a más tardar el último día del citado mes, anexando el proyecto de presupuesto anual de egresos para el citado ejercicio fiscal, aprobado en el plazo referido.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2003)</small>
-
-Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras, y las tablas y valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura las tasas, cuotas y tarifas aplicables a sus ingresos tributarios y no tributarios, en su caso, así como las tablas y valores unitarios de suelo y construcciones, que sirvan de base para el cobro de los impuestos sobre la propiedad- inmobiliaria y aquéllas disposiciones de vigencia anual que se consideren necesarias para el ejercicio de sus atribuciones fiscales.
 
 ###### Artículo 135.
 
@@ -1423,19 +1429,37 @@ La vigilancia de la hacienda pública de los municipios compete al Presidente Mu
 
 ### CAPÍTULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 137.
 
-Los presupuestos de egresos municipales serán los que aprueben los ayuntamientos respectivos, para sufragar, desde el 1o. de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias directas que conforman la administración pública municipal, con base en los ingresos determinados en su ley.
+Los presupuestos de egresos municipales serán los que aprueben los ayuntamientos respectivos, para sufragar, desde el 1° de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, el gasto relativo a las actividades las obras y los servicios públicos a cargo de las dependencias y entidades que conforman la administración pública municipal, con base en los ingresos determinados en su ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 138.
 
-El presupuesto de egresos además de comprender las erogaciones a que se refiere el artículo anterior, deberá incorporar los subsidios, donaciones, estímulos, transferencias y demás conceptos de gastos que se otorguen a asociaciones, patronatos, instituciones de beneficencia pública, privada, y demás organizaciones similares a éstas.
+La programación y presupuestación anual del gasto público municipal deberá formularse con base en los siguientes criterios:
+
+I. Se sujetará a los objetivos, estrategias y prioridades del Plan Municipal de Desarrollo y sus programas sectoriales, regionales, institucionales y especiales que sean formulados en los términos de la Ley de Planeación del Estado de Durango; y
+
+II. El presupuesto anual de egresos se formulará y ejercerá con base en los objetivos específicos, metas, subprogramas, proyectos y acciones que se establezcan en el programa operativo anual municipal, que a su vez reflejará la continuidad en la ejecución de los objetivos, estrategias y prioridades del Plan y programas citados en la fracción anterior.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 139.
 
-La presupuestación del gasto público municipal se sujetará a los objetivos y prioridades que señale el Plan Municipal de Desarrollo y sus programas.
+El presupuesto anual de egresos deberá formularse, aprobarse y modificarse, en su caso, de conformidad con lo siguiente:
+
+I. El proyecto de presupuesto anual de egresos deberá formularse y aprobarse de manera simultánea a la iniciativa de ley de ingresos respectiva, en los plazos y términos establecidos en la presente ley;
+
+II. Aprobada la ley de ingresos por el Congreso del Estado, el Ayuntamiento, tomando como base los ingresos aprobados, efectuará los ajustes que se requieran al proyecto de presupuesto anual de egresos y aprobará el presupuesto anual de egresos definitivo a más tardar el día 31 de diciembre de cada año;
+
+III. En la misma fecha anterior, cada Ayuntamiento debe publicar un resumen del presupuesto anual de egresos definitivo en la gaceta municipal o en el Periódico Oficial del Gobierno del Estado y en sus estrados;
+
+IV. Una vez que tenga conocimiento de las participaciones y aportaciones federales que le correspondan, el propio Ayuntamiento realizará las adecuaciones aritméticas que procedan al presupuesto anual de egresos definitivo.
+
+Las modificaciones al presupuesto de egresos definitivo que autorice el Ayuntamiento, deberán publicarse en la forma citada, dentro de los quince días siguientes a la fecha del acuerdo respectivo.
 
 ###### Artículo 140.
 
@@ -2060,3 +2084,13 @@ P.O. 13 DE FEBRERO DE 2003.
 P.O. 15 DE JUNIO DE 2003.
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del gobierno Constitucional del Estado Libre de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan o contravengan las disposiciones del presente decreto.
