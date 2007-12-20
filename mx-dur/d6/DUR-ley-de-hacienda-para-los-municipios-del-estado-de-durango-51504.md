@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2006-12-17"
+last_updated: "2007-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -51,11 +51,15 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
 Los Municipios del Estado de Durango percibirán en cada ejercicio fiscal para cubrir los gastos públicos de la Hacienda Pública a su cargo, los ingresos que autoricen las leyes respectivas, así como los que les correspondan de conformidad con los convenios de coordinación y las leyes en que se fundamenten.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 2.
 
-Los ingresos que percibirá el municipio serán ordinarios y/o extraordinarios.
+Los ingresos que percibirá el municipio serán ordinarios o extraordinarios.
 
-I.- Ingresos Ordinarios son: Impuestos, Derechos, Contribuciones por Mejoras, Productos, Aprovechamientos y Participaciones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+I.- Ingresos Ordinarios son: Impuestos, Derechos, Contribuciones por Mejoras, Productos, Aprovechamientos, Participaciones y Aportaciones federales o estatales, según sea el caso.
 
 1.- Son impuestos las prestaciones en dinero que fija la Ley con carácter general y obligatorio, a cargo de personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma, para cubrir los gastos públicos.
 
@@ -67,7 +71,9 @@ I.- Ingresos Ordinarios son: Impuestos, Derechos, Contribuciones por Mejoras, Pr
 
 5.- Son aprovechamientos los recargos, las multas y todos los demás ingresos de derecho público que perciban los municipios, que no sean clasificados como Contribuciones, Productos o Participaciones.
 
-6.- Son participaciones las cantidades en dinero, que los municipios perciben conforme a las Leyes respectivas, y los convenios que se suscriban para tales efectos.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+6.- Son participaciones y aportaciones federales o estatales, en su caso, las cantidades en dinero, que los municipios perciben conforme a las Leyes respectivas, y los convenios que se suscriban para tales efectos.
 
 II.- Son Ingresos Extraordinarios aquellos cuya percepción se decrete excepcionalmente por el Congreso del Estado y se sujetarán a las disposiciones que establezcan las Leyes que los autoricen y a los convenios que de acuerdo con esas disposiciones se celebren, así como las aportaciones de carácter Federal y Estatal.
 
@@ -103,7 +109,9 @@ V. Los convenios que se celebren en materia fiscal con la Federación, el Estado
 
 VI. El Código Fiscal Municipal; y
 
-VII. Ley Orgánica del Municipio Libre del Estado de Durango.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+VII. Los reglamentos, las circulares y disposiciones administrativas de carácter general que expidan las autoridades fiscales municipales, previa aprobación del Ayuntamiento.
 
 ### CAPÍTULO II. DISPOSICIONES DIVERSAS
 
@@ -143,23 +151,37 @@ El Congreso del Estado, aprobará las leyes de ingresos con base en la iniciativ
 
 Las leyes de ingresos regirán durante el ejercicio fiscal para el cual se expidan, pero si por cualquier circunstancia no se aprobarán, continuaran en vigor las del año anterior.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 16.
 
-Las cuotas para el cobro de los derechos, se calcularan en atención al costo de los servicios, solo podrá haber cuotas diferenciales tratándose de un mismo servicio, cuando las personas físicas o morales lo aprovechen en distinta proporción o calidad.
+Las cuotas y tarifas para el cobro de los derechos, se calcularán en atención al costo total de la administración y operación en la prestación de los servicios públicos.
+
+Podrán establecerse cuotas y tarifas diferenciales tratándose de un mismo servicio cuando las personas físicas o morales lo aprovechen en distinta proporción o calidad o por razones de equidad tributaria. En tal caso, en la determinación del monto de las mismas, se garantizará la viabilidad económica financiera y la factibilidad operativa de la prestación del servicio público de que se trate.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 17.
 
-La recaudación y en general el manejo de la Hacienda Municipal, corresponde a la Tesorería Municipal o su Equivalente.
+La recaudación y administración de los ingresos tributarios y no tributarios municipales corresponde a la Tesorería Municipal o su equivalente.
+
+Corresponderá a los organismos operadores de agua potable, alcantarillado y saneamiento de naturaleza paramunicipal la administración y recaudación de sus propios ingresos. Cuando este servicio público se encuentre concesionado, la recaudación citada se efectuará en los términos que se establezcan en el título de concesión respectivo.
 
 ###### Artículo 18.
 
 El pago de los impuestos, derechos, contribuciones por mejoras, productos y aprovechamientos se hará en la Tesorería Municipal o en el lugar que el Ayuntamiento determine, observando las siguientes reglas:
 
-I.- Los pagos mensuales y bimestrales se efectuarán los quince primeros días de cada mes o bimestre.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+I.- Los pagos mensuales y bimestrales se efectuarán los quince primeros días de cada mes o bimestre, salvo disposición expresa en contrario;
 
 II.- Los pagos anuales en los primeros 30 días del año al que corresponda el pago; y
 
 III.- Fuera de los casos anteriores y a falta de disposición expresa, los demás ingresos municipales se causarán al efectuarse el acto que cause el tributo o al solicitarse o recibirse el servicio respectivo.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+El pago de los ingresos tributarios y no tributarios derivados de la prestación del servicio público de agua potable, alcantarillado y saneamiento se efectuará en la unidad administrativa, plazos y términos que determine el organismo operador respectivo.
 
 ## TÍTULO SEGUNDO. DE LOS INGRESOS ORDINARIOS
 
@@ -291,19 +313,27 @@ El Municipio tendrá acción real para el cobro del Impuesto Predial y de las pr
 
 Los Notarios no podrán autorizar, en forma definitiva escrituras en que hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Estado, mientras no le sea exhibida constancia de no adeudo del Impuesto Predial y de multas, en su caso respecto de dichos predios, expedida previamente por autoridad municipal competente.
 
-Sin embargo, si por causas no imputables al enajenante, la autoridad catastral no hubiese empadronado el predio, comprendido el terreno y las construcciones, en su caso, el Municipio podrá autorizar a los Notarios para que otorguen la autorización definitiva, sin que les sea exhibida la constancia de no adeudo a que se refiere este artículo. Si el terreno estuviera empadronado, pero no las construcciones, por causas imputables a la autoridad catastral, los Notarios Públicos podrán autorizar en forma definitiva las escrituras respectivas si se les exhibe constancia de no adeudo del Impuesto Predial y de multas, en los términos de este artículo, respecto de dicho terreno.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-En este caso, si las construcciones ya hubieren sido terminadas, los interesados exhibirán el aviso de terminación de construcción al Notario y este deberá mencionar en las declaraciones del traslado de dominio la fecha de presentación y el número con el que quedo registrado el aviso en el Municipio correspondiente.
+Si el predio no estuviere empadronado por la causa que fuere, el Municipio procederá según lo previsto en el artículo 36 de la presente Ley. Si el terreno estuviere empadronado pero no las construcciones se procederá de la misma forma.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+En este último caso, si las construcciones ya hubieren sido terminadas, los interesados exhibirán el aviso de terminación de construcción al Notario, éste deberá mencionar en las declaraciones del traslado de dominio la fecha de presentación y el número con el que quedó registrado el aviso en la oficina correspondiente para efectuar el cálculo del adeudo respectivo en el periodo comprendido desde la fecha en que concluyó la construcción a la fecha de la declaración. Si este periodo fuere mayor a cinco años, se procederá según lo previsto en el párrafo anterior.
 
 Lo dispuesto en este artículo sólo surtirá efectos en relación con el impuesto mencionado y las multas que se apliquen por violaciones a la presente Sección.
 
-No obstante, lo dispuesto en el párrafo anterior, los Notarios no otorgaran autorizaciones definitivas de escrituras, cuando el predio de que se trate reporte adeudos por conceptos distintos del Impuesto Predial, mientras no se les compruebe que se han verificado los pagos respectivos.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+No obstante, lo dispuesto en el párrafo anterior, los Notarios no otorgarán autorizaciones definitivas de escrituras, cuando no se acredite estar al corriente en el pago de cuotas y tarifas por servicio de agua potable, alcantarillado y saneamiento o se tengan adeudos por conceptos distintos del Impuesto Predial, mientras no se les compruebe que se han verificado los pagos respectivos. En estos supuestos, el Registro Público de la Propiedad se abstendrá de inscribir cualquier contrato traslativo de dominio formalizado en escritura pública o privada.
 
 Las constancias de no adeudo y las autorizaciones que se expidan a los Notarios, tendrán vigencia en el bimestre en que hubiesen sido expedidos y en el siguiente al de su expedición.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 36.
 
-En los casos de predios no empadronados, el municipio hará el cobro por cinco años atrás a la fecha del descubrimiento del predio por la autoridad fiscal y la cuota porcentual se aplicará de acuerdo con lo dispuesto en esta Sección.
+En los casos de predios no empadronados, el municipio hará el cobro por cinco años atrás a la fecha del descubrimiento del predio por la autoridad fiscal y el cálculo del mismo se efectuará sobre los valores catastrales y la tasa aplicable a la base gravable previstas en la ley de ingresos municipales vigente a la fecha del cálculo.
 
 Si no se pudiera fijar con precisión la fecha desde la cual se omitió manifestar las construcciones, se hará el cobro del impuesto correspondiente a los cinco años anteriores a la fecha del descubrimiento de la ocultación salvo que el interesado pruebe que la omisión data de fecha posterior.
 
@@ -393,9 +423,11 @@ El objeto de este impuesto es la obtención del ingreso por el boleto o contrase
 
 Son sujetos de este impuesto las personas físicas, las personas morales o unidades económicas que habitual, o accidentalmente organicen, exploten o patrocinen diversiones y espectáculos públicos, aún cuando no se tenga propósito de lucro.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 53.
 
-Para los efectos de este impuesto, se entiende por diversión y espectáculos públicos, toda función teatral, cinematográfica, deportiva o de cualquier otra índole que se verifique en salones, teatros, plazas, calles, locales abiertos o cerrados en donde se reúnan los asistentes con el propósito de esparcimiento. En el caso de que estos eventos sean presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos sin un fin especifico de lucro, no se considerarán como espectáculos públicos.
+Para los efectos de este impuesto, se entiende por diversión y espectáculos públicos, toda función deportiva o de cualquier otra índole que se verifique en salones, plazas, calles, locales abiertos o cerrados en donde se reúnan los asistentes con el propósito de esparcimiento. En el caso de que estos eventos sean presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos sin un fin específico de lucro, no se considerarán como espectáculos públicos.
 
 ###### Artículo 54.
 
@@ -519,7 +551,9 @@ III.- Proporcionar a las Autoridades Fiscales, los datos o informaciones que se 
 
 IV.- Devolver la autorización o permiso en caso de clausura, cambio de objeto, giro, nombre o razón social y en los de traspaso o traslado.
 
-#### SECCIÓN SEXTA. DEL IMPUESTO SOBRE TRASLACIÓN DE DOMINIO DE BIENES INMUEBLES
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+#### SECCIÓN SEXTA. IMPUESTO SOBRE TRASLACIÓN DE DOMINIO DE BIENES INMUEBLES
 
 ###### Artículo 73.
 
@@ -631,9 +665,11 @@ d) Tratándose de la adquisición de la propiedad de bienes inmuebles en virtud 
 
 Recibida la declaración de Traslación de Dominio y los anexos a ésta, la autoridad correspondiente verificará dentro de un término de diez días si dichas declaraciones reúnen los requisitos legales y si está correcta la liquidación del impuesto, en caso contrario requerirá al interesado o al Notario Público correspondiente, mediante oficio que se notificará conforme a lo dispuesto en esta Ley, para que dentro de un término de los 15 días siguientes haga las declaraciones o correcciones que procedan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 82.
 
-El pago del impuesto sobre Traslación de Dominio de Bienes Inmuebles se hará dentro de los quince días hábiles siguientes a aquél en que la autoridad correspondiente hubiere aprobado la declaración a que se refiere el artículo anterior, el pago del Impuesto a que este artículo se refiere, se podrá efectuar aún cuando aparezcan adeudos vencidos en la constancia a que alude el artículo 53, pero en estos casos los Notarios no autorizarán definitivamente la Escritura respectiva ni el Registro Público de la Propiedad inscribirá el documento traslativo de dominio, hasta que se compruebe que esos adeudos han sido pagados.
+El pago del impuesto sobre Traslación de Dominio de Bienes Inmuebles se hará dentro de los quince días hábiles siguientes a aquél en que la autoridad correspondiente hubiere aprobado la declaración a que se refiere el artículo anterior. El pago del Impuesto a que este artículo se refiere, se podrá efectuar aún cuando aparezcan adeudos vencidos por los conceptos a los que alude el artículo 35, pero en estos casos los Notarios no autorizarán definitivamente la Escritura respectiva ni el Registro Público de la Propiedad inscribirá el documento traslativo de dominio, hasta que se compruebe que esos adeudos han sido pagados.
 
 Los Notarios podrán expedir dentro de igual plazo una nota complementaria o rectificar la que hubiesen expedido, cuando en la declaración que se hubiera presentado para el pago del impuesto no se hubiera determinado este correctamente.
 
@@ -659,15 +695,19 @@ II.- Cuando por causas imputables a la Tesorería Municipal o su Equivalente el 
 
 Los plazos continuarán corriendo a partir de la fecha en que se notifique al interesado la resolución que se hubiera dictado con motivo de la consulta a que se refiere la fracción I de este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 86.
 
-Los Notarios no podrán autorizar definitivamente ninguna escritura pública en la que hagan constar actos o contratos traslativos de dominio de bienes inmuebles, si no han obtenido la constancia de no adeudo a que se refiere el artículo 52 de esta Ley y el avalúo catastral correspondiente. Tampoco podrán autorizar definitivamente ninguna escritura pública en la que hagan constar esa clase de actos o contratos, mientras los interesados no les exhiban el comprobante de pago del Impuesto que establece o, en su caso, la resolución que hubiere concedido la exención de ese pago.
+Los Notarios no podrán autorizar definitivamente ninguna escritura pública en la que hagan constar actos o contratos traslativos de dominio de bienes inmuebles, si no han obtenido las constancias de no adeudo a que se refiere el artículo 35 de esta Ley y el avalúo catastral correspondiente. Tampoco podrán autorizar definitivamente ninguna escritura pública en la que hagan constar esa clase de actos o contratos, mientras los interesados no les exhiban el comprobante de pago del impuesto que establece esta sección o, en su caso, la resolución que hubiere concedido la exención parcial de ese pago, si la hubiere.
 
 En los testimonios que los Notarios Públicos expidan de escrituras relativas a los actos o contratos traslativos de dominio, deberán hacerse constar el número del comprobante oficial del pago del impuesto y el importe del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 87.
 
-El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento traslativo de dominio de bienes inmuebles, mientras no les sea exhibido el comprobante de pago del impuesto que establece este Capítulo, o, en su caso, la resolución que hubiera concedido la exención de este pago.
+El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento traslativo de dominio de bienes inmuebles, mientras no les sea exhibido el comprobante de pago del impuesto que establece este Capítulo, o, en su caso, la resolución que hubiera concedido la exención de este pago, si la hubiere.
 
 En los casos de nuda propiedad, el Registro Público de la Propiedad no podrá cancelar la inscripción del desmembramiento de la propiedad ni inscribir el derecho consolidado si no se le comprueba previamente que se pagó la diferencia del impuesto que resulte entre lo cubierto por la transmisión de la nuda propiedad y el impuesto calculado sobre la traslación íntegra del dominio.
 
@@ -895,71 +935,189 @@ b).- Tomas de drenaje sanitario.
 
 El monto de los derechos que en caso concreto deban pagarse conforme a las reglas del artículo anterior, se determinará distribuyendo el costo de la obra en forma proporcional entre los sujetos gravados.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 117.
 
-Se causarán los derechos de cooperación para obras públicas, cuando éstas, por decreto del Congreso del Estado, se declaren de utilidad pública y se encomiende su realización al Ayuntamiento que corresponda.
+Se causarán los derechos de cooperación para obras públicas, cuando éstas, por decreto del Congreso del Estado, se declaren de utilidad pública y se encomiende su realización al Ayuntamiento que corresponda o bien cuando su realización sea prevista en la Ley de ingresos municipales.
 
 ###### Artículo 118.
 
 Los derechos deberán ser pagados al inicio de la obra, o bien dentro del plazo que se establezca en los convenios que se celebren entre los sujetos obligados al pago y la Tesorería Municipal o su Equivalente.
 
-#### SECCIÓN SÉPTIMA. POR SERVICIO DE LIMPIA Y RECOLECCIÓN DE DESECHOS INDUSTRIALES Y COMERCIALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+#### SECCIÓN SÉPTIMA. POR SERVICIO DE GESTIÓN INTEGRAL DE RESIDUOS
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 119.
 
-Se entiende por Servicio de Limpia, el conjunto de actividades relacionadas con la generación, recolección, transporte, almacenamiento, transferencia, procesamiento y disposición final de los desechos sólidos, que el Municipio realiza por si o a través de concesionarios.
+Es objeto de este derecho, los servicios adicionales o complementarios necesarios para la gestión integral de residuos que incluye el servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos.
+
+Será objeto de éste derecho la gestión integral de otro tipo de residuos cuando así sea convenido con la federación o el Estado en los términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 120.
 
-El objeto de este derecho, es el pago por los servicios de limpia y recolección de desechos Industriales y Comerciales que presta el Ayuntamiento, a las personas físicas y morales que realicen actividades de carácter industrial y comercial.
+Son sujetos obligados al pago de éste derecho las personas físicas y morales generadoras de residuos sólidos urbanos cuya fuente de origen sea comercial, industrial y de servicios, y de otros tipos de residuos cuando estos últimos sean convenidos con la federación y el Estado, en el ámbito territorial del Municipio que corresponda.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 121.
 
-Son sujetos obligados al pago del derecho, las personas físicas o morales que realicen actividades de carácter industrial y comercial.
+Los generadores de residuos sólidos urbanos o de otro tipo, según sea el caso, para efectos de la aplicación del derecho, serán clasificados de manera general de conformidad con las leyes de la materia, cuando menos en los siguientes tipos:
+
+I. Microgenerador;
+
+II. Pequeño generador;
+
+III. Gran generador; y
+
+IV. Generador de alto volumen.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 122.
 
-En el derecho por el servicio de limpia y recolección de desechos Industriales y Comerciales, se cobrarán las tarifas que para su caso incluya la Ley de Ingresos Municipal.
+La clasificación y subclasificación de los residuos sólidos urbanos se efectuará de conformidad con los ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 123.
 
-No será (sic) sujetos del cobro de este derecho las casas - habitación, así como cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio.
+La estructura de cuotas y tarifas para el pago del derecho al que alude la presente sección, será establecida en la Ley de Ingresos Municipales respectiva y se determinarán considerando, cuando menos, los siguientes factores inherentes a los residuos:
+
+I. Volumen y frecuencia de generación;
+
+II. Características de su composición;
+
+III. Tipo de generador;
+
+IV. Modalidades de manejo;
+
+V. Transportación o traslado de las fuentes generadoras a los sitios de aprovechamiento, tratamiento o disposición final;
+
+VI. Los costos totales de administración y operación del servicio público; y
+
+VII. El nivel socioeconómico y capacidad de pago de los diferentes tipos de usuarios.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 124.
 
-Las personas físicas o morales obligadas al pago de esta contribución, al inscribirse en la Tesorería Municipal o su Equivalente, declararán el volumen promedio diario de basura que generen, pudiendo en su caso solicitar la modificación de la cuota que cubran, debido a un aumento o disminución en el promedio diario de basura que generen. En este caso, la Tesorería Municipal o su Equivalente previa comprobación y verificación, modificará la cuota a cargo del particular, con efectos a partir del mes siguiente a aquél en que esto ocurra.
+Los generadores están obligados a pagar las cuotas y tarifas derivadas por la gestión integral de residuos que incluye la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos en los plazos y términos que establezca la ley de ingresos municipal correspondiente.
 
-Este derecho se pagará por mes, dentro de los primeros 15 días naturales del mismo.
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-#### SECCIÓN OCTAVA. POR SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
+#### SECCIÓN OCTAVA. POR SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 125.
 
-Son sujetos obligados al pago de éste derecho, las personas físicas o morales que de conformidad con la legislación aplicable, están obligados a surtirse de agua potable y utilizar la red de drenaje del servicio público.
+Es objeto de este derecho, las obras y servicios relacionados con la prestación del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, consistentes en:
+
+I. Extracción, conducción, potabilización, almacenamiento y distribución de aguas de primer uso;
+
+II. Captación, conducción, tratamiento, alejamiento y descarga de aguas residuales; y
+
+III. Distribución de aguas residuales o tratadas para su reuso.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 126.
 
-El pago de los derechos por concepto del Servicio de Agua Potable y Alcantarillado a cargo de los municipios, se causarán de conformidad con las tarifas y cuotas que se establezcan las Leyes de Ingresos Municipales.
+Son sujetos de éste derecho las personas físicas o morales que conforme a la legislación aplicable, deban:
+
+I. Recibir el suministro de agua potable de primera aplicación para uso doméstico, comercial, industrial, pecuario, en servicios públicos y otros usos;
+
+II. Usar, descargar o verter aguas residuales en la red de drenaje y alcantarillado para su saneamiento; y
+
+III. Recibir el abastecimiento de agua residual o tratada para fines de reuso.
+
+La contratación de las obras y servicios complementarios o adicionales al servicio público y la conexión al sistema de agua potable, alcantarillado y saneamiento se realizarán en los términos establecidos en la Ley de Agua para el Estado de Durango y la respectiva Ley de ingresos municipales.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 127.
 
-La recaudación total de los derechos que establece este apartado se invertirá exclusivamente en la prestación de los Servicios de Agua Potable, por conducto del Departamento Municipal de Agua Potable y Alcantarillado o a través de los Sistemas Descentralizados de Agua Potable y Alcantarillado, o en su caso el organismo análogo, pero en ningún caso podrán ser destinados a otro fin distinto.
+La estructura de cuotas y tarifas para el pago de las obras y servicios necesarios para la prestación del servicio público al que se alude en esta sección, será establecida en la ley de ingresos municipales respectiva y se determinarán de conformidad con las siguientes bases generales:
+
+I. La autosuficiencia financiera de los organismos operadores;
+
+II. Los costos totales de administración y operación de los sistemas de agua potable, alcantarillado y saneamiento;
+
+III. El tipo, nivel socioeconómico y capacidad de pago de los diferentes estratos de usuarios;
+
+IV. El tipo de uso y rangos de consumo;
+
+V. Cuotas fijas mínimas por tipos de uso;
+
+VI. Los precios por unidad de obra o servicio; y
+
+VII. Los criterios y parámetros señalados en la Ley de Agua para el Estado de Durango.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 128.
 
-Causan el derecho por el servicio de saneamiento, todas las propiedades urbanas comprendidas dentro del perímetro donde se extiendan las obras de drenaje tuvieran o no establecido el servicio.
+Las leyes de ingresos municipales incorporarán, cuando menos y en su caso, las cuotas y tarifas para el pago de las siguientes obras y servicios:
+
+I.- Cuotas
+
+a) Por cooperación;
+
+b) Por instalación de toma domiciliaria, cuando así corresponda;
+
+c) Por conexión de servicio de agua;
+
+d) Por conexión al drenaje o alcantarillado y tratamiento de aguas residuales provenientes del uso doméstico;
+
+e) Por conexión al drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por debajo de las concentraciones permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente;
+
+f) Por conexión al drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por arriba de las concentraciones permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descargas vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente;
+
+g) Por instalación de medidores; y
+
+h) Por otros servicios.
+
+II.- Cuotas o tarifas por los servicios públicos:
+
+a) Por uso mínimo;
+
+b) Por uso doméstico;
+
+c) Por uso comercial;
+
+d) Por uso industrial;
+
+e) Por uso en servicios;
+
+f) Por otros usos;
+
+g) Por servicios de drenaje o alcantarillado, y tratamientos de aguas residuales provenientes de uso domestico;
+
+h) Por servicios de drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente.
+
+i) Por servicios de drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se efectúe por arriba de las concentraciones permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descargas vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente; y
+
+j) Por otros servicios.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 129.
 
-En el derecho por el servicio de saneamiento se cobrarán las tarifas que para su caso incluya la Ley de Ingresos Municipal.
+Los usuarios deberán pagar las cuotas y tarifas generadas por la prestación del servicio público de agua potable, alcantarillado y saneamiento en los plazos y términos que establezca la ley de ingresos municipal correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 130.
 
-El entronque de albañales a la red de drenaje sólo podrá ejecutarlo el Departamento de Obras Publicas Municipales que corresponda.
+Los ingresos por derechos que obtengan los organismos operadores se destinarán exclusivamente a la administración y operación del sistema para la prestación del servicio de agua potable, alcantarillado y saneamiento. En ningún caso podrán ser destinados a otro fin distinto.
 
-El Departamento de Obras Públicas Municipales o en su caso el organismo análogo controlará los albañales a quien solicite y se cobrará al propietario o poseedor de las fincas por metro lineal en proporción al costo de las obras.
-
-Las instalaciones y uso de servicio de saneamiento se sujetarán a las normas reglamentarias que señale el Departamento de Obras Públicas Municipales correspondiente.
+> <small>(DEROGADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 #### SECCIÓN NOVENA. POR SERVICIO DE SANEAMIENTO
 
@@ -1384,3 +1542,7 @@ Artículo Tercero.- Los Ayuntamientos registrarán contablemente como Derechos, 
 Artículo Cuarto.- La Entidad de Auditoría Superior del Estado vigilará que los Ayuntamientos cumplan con la obligación preceptuada en el artículo anterior.
 
 Artículo Quinto.- Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 20 DE DICIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto surtirá sus efectos legales a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Durango.
