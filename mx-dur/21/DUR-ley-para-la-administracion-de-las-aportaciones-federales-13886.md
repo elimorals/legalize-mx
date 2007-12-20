@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-de-las-aportaciones-federales-13886"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-04"
-last_updated: "2000-12-24"
+last_updated: "2007-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACION DE LAS APORTACIONES FEDERALES TRANSFERIDAS AL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 4 de marzo de 1999.
 
@@ -667,9 +667,11 @@ Las infracciones en que incurran los Servidores Públicos Estatales o Municipale
 
 Las Autoridades Estatales y Municipales que incurran en responsabilidades administrativas, civiles o penales como consecuencia de la desviación de los recursos a que se refiere esta Ley, serán sancionadas en los términos que establece la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 85.
 
-Los recursos y accesorios que recibe el Estado y/o el Municipio, provenientes de recursos normados por esta ley, no serán embargables, ni podrán bajo ninguna circunstancia gravarlos, afectarlos en garantía, o destinarlos a fines distintos a los que expresamente están determinados conforme a esta Ley.
+Salvo por lo establecido en el presente artículo, los ingresos y/o derechos derivados de las aportaciones y/o fondos regulados por esta ley que correspondan al Estado y/o a los Municipios son inembargables, no pueden afectarse a fines específicos, ni estar sujetos a retención. No obstante lo anterior, el Estado y/o los Municipios podrán afectar los ingresos y/o derechos derivados de las aportaciones y/o fondos regulados por esta ley y, en su caso, sus accesorios, que a cada uno de ellos les corresponda, sujeto a los términos de la Ley de Coordinación Fiscal y la Ley de Deuda Pública del Estado de Durango y sus Municipios, con el objeto de servir como fuente de pago y/o garantía de obligaciones del estado y/o Municipio respectivo, que hayan sido contratadas para los fines establecidos en la Ley de Coordinación Fiscal, la ley de Deuda Pública del Estado de Durango y sus Municipios y esta ley.
 
 ###### Artículo 86.
 
@@ -716,3 +718,9 @@ Rúbrica.
 P.O. 24 DE DICIEMBRE DE 2000.
 
 ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a la presente.
