@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2007-09-26"
+last_updated: "2007-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2007.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -4430,9 +4430,7 @@ Todo inculpado tendrá derecho durante la averiguación previa y en el proceso j
 
 I. Que garantice el monto estimado de la reparación del daño;
 
-> <small>(ADICIONADO, G.O. 17 DE MAYO DE 2007)</small>
-
-En todo caso, el monto estimado de la reparación del daño deberá ser exhibido en efectivo.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 20 DE DICIEMBRE DE 2007)</small>
 
 Tratándose de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo;
 
@@ -4492,11 +4490,11 @@ V. Otras que racionalmente conduzcan a crear seguridad de que no procurará sust
 
 Las garantías a que se refieren las fracciones I y II del artículo 556 sólo podrán ser reducidas en los términos expuestos en el primer párrafo de este artículo cuando se verifique la circunstancia señalada en la fracción III del presente artículo. En este caso, si se llegare a acreditar que para obtener la reducción el inculpado simuló su insolvencia, o bien, con posterioridad a la reducción de la caución recuperó su capacidad económica para cubrir los montos de las garantías inicialmente señaladas, de no restituir éstas en el plazo que el juez señale para ese efecto, se le revocará la libertad provisional que tenga concedida.
 
-> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 561.
 
-La naturaleza de la caución quedará a elección del inculpado, excepto la parte que garantice el monto estimado de la reparación del daño, que siempre deberá exhibirse en efectivo; quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo anterior. En el caso de que el inculpado, su representante o su defensor no hagan la manifestación mencionada, el Ministerio Público, el Juez o el Tribunal, de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
+La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo anterior. En el caso de que el inculpado, su representante o su defensor no hagan la manifestación mencionada, el Ministerio Público, el juez o el tribunal, de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -5526,6 +5524,8 @@ La presente ley comenzará a regir a partir de su publicación en el "Diario Ofi
 
 Se abrogan los Capítulos IV Título Tercero y VIII Título Séptimo, y fracción XVI del artículo 674 del Código de Procedimientos Penales para el Distrito y Territorios Federales.
 
+...
+
 D.O.F. 24 DE MARZO DE 1944.
 
 Artículo Transitorio.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial".
@@ -5785,3 +5785,13 @@ G.O. 26 DE SEPTIEMBRE DE 2007.
 PRIMERO.- Publíquese en al (sic) Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de (sic) Distrito Federal.
+
+G.O. 20 DE DICIEMBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta del Gobierno del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
