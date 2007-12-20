@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2006-01-12"
+last_updated: "2007-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -347,11 +347,33 @@ Los inmuebles del dominio privado son inembargables e imprescriptibles. Los bien
 
 Los bienes inmuebles del dominio privado podrán ser enajenados previa autorización del Honorable Congreso del Estado, mediante los requisitos que previene la Constitución Política del Estado y las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 32.
 
-Los bienes muebles de domino privado que dejen de tener utilidad para la administración pública, o hayan sufrido menoscabo o perdido las propiedades necesarias para prestar el servicio a que estén destinados, podrán ser enajenados por las autoridades que corresponda mediante subasta pública, debiendo dar aviso al Honorable Congreso del Estado, con quince días de anticipación, para su conocimiento.
+Los bienes muebles del domino privado que dejen de tener utilidad para la administración pública, o hayan sufrido menoscabo, o perdido las propiedades necesarias para prestar el servicio a que estén destinados, podrán ser enajenados por las autoridades que corresponda, mediante subasta pública. Para este caso se deberá realizar un peritaje, expedido por perito registrado y fe notarial en la que se asiente el estado que guardan los bienes muebles objetos de la subasta, con las certificaciones de que los mismos carecen de valor artístico y de que no forman parte del patrimonio histórico conforme a la ley de la materia.
 
-Sólo se requerirá autorización del Congreso del Estado para llevar a cabo la enajenación, cuando se trate de bienes muebles con valor histórico o que sean parte del patrimonio cultural del Estado.
+En el caso de los municipios, para poder llevar a cabo la enajenación correspondiente, ésta deberá ser autorizada por cuando menos las dos terceras partes de los integrantes del cabildo, y cuando se haya tomado el acuerdo correspondiente, se deberá solicitar al Honorable Congreso del Estado, la autorización para la enajenación de los bienes muebles del dominio privado, debiendo la Legislatura expedir el decreto correspondiente; aprobando o negando la enajenación según se estime conveniente; además, deberán integrar al expediente que se constituya para tal efecto, lo siguiente:
+
+a) Avalúo de los bienes muebles del dominio privado que se pretendan enajenar; con una antigüedad máxima de tres meses, expedido por perito inscrito en el Registro Estatal de Peritos.
+
+b) Copia del registro vigente del perito que efectuó el avalúo de los bienes muebles del dominio privado.
+
+c) Certificación de que los bienes muebles del dominio privado que se pretenden enajenar, carecen de valor artístico.
+
+d) Certificación de que los bienes muebles del dominio privado que se pretenden enajenar, no forman parte del patrimonio histórico.
+
+e) Mínimo cuatro fotografías de cada uno de los bienes muebles del dominio privado que se pretenden enajenar, tomadas de diferentes ángulos.
+
+f) Copia certificada del acta de cabildo en donde se haya aprobado, por cuando menos las dos terceras partes de sus integrantes, la venta de los bienes muebles; así como indicar el destino de los recursos obtenidos por la venta de los mismos.
+
+g) Las demás que el Honorable Congreso del Estado solicite, para emitir el dictamen respectivo.
+
+En el caso de dependencias o entidades de los poderes del Estado, las enajenaciones deberán ser autorizadas por quienes tengan dicha competencia, conforme a sus propios ordenamientos, debiendo contar con lo establecido en el primer párrafo de este artículo; así mismo, deberán informar al Honorable Congreso del Estado, con quince días de anticipación, de la fecha y hora de la subasta de los bienes muebles del dominio privado que se pretendan enajenar, agregando un listado de los bienes correspondientes, especificando el precio de inicio de subasta de cada uno de ellos; además, deberán anexar el avalúo, con antigüedad máxima de tres meses, expedido por perito valuador inscrito en el Registro Estatal de Peritos.
+
+Las dependencias o entidades de los poderes del Estado, sólo requerirán la autorización del Congreso del Estado, para llevar a cabo la enajenación cuando se trate de bienes muebles con valor histórico, o que sean parte del patrimonio cultural del Estado; debiendo anexar al expediente correspondiente, los requisitos establecidos en los incisos del segundo párrafo de este artículo.
+
+Los procesos de subasta pública se llevarán a cabo con la participación y vigilancia de las contralorías internas de las autoridades respectivas, y se deberá informar a la ciudadanía cuando menos tres días hábiles anteriores a la celebración de las mismas, mediante dos publicaciones, en días consecutivos, en los dos diarios de mayor circulación en el Estado, indicando los bienes, el lugar, la fecha y hora de la subasta de los mismos.
 
 ###### ARTICULO 33.
 
@@ -520,3 +542,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
