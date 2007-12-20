@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-16336
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-13"
-last_updated: "2007-08-23"
+last_updated: "2007-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY AMBIENTAL Y DE PROTECCION DEL PATRIMONIO NATURAL DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de abril del 2000.
 
@@ -2128,3 +2130,41 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. DE 20 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Michoacán, así como todas las disposiciones legales y administrativas que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no se expida el Reglamento de la presente Ley, seguirá en vigor el Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado (sic) en lo que no la contravenga
+
+###### ARTÍCULO CUARTO.
+
+Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley que se abroga, se tramitarán y resolverán conforme a la misma.
+
+###### ARTÍCULO QUINTO.
+
+El Titular del Poder Ejecutivo el Estado deberá expedir el Reglamento de la presente Ley, dentro de los 360 días hábiles posteriores a la entrada en vigor de la misma.
+
+###### ARTÍCULO SEXTO.
+
+El Titular del Poder Ejecutivo el Estado instalará la Procuraduría, una vez aprobadas las partidas presupuestales correspondientes por el Congreso del Estado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Hasta en tanto no quede debidamente integrada y en funciones la Procuraduría, las atribuciones conferidas a la misma, las seguirá ejerciendo la Secretaría.
+
+###### ARTÍCULO OCTAVO.
+
+Una vez en funciones la Procuraduría, los procedimientos administrativos de inspección y vigilancia que se encuentren en trámite serán remitidos por la Secretaría a la misma, para su atención y resolución correspondiente.
+
+###### ARTÍCULO NOVENO.
+
+El Presidente del Consejo Estatal de Ecología en funciones, dispondrá de un plazo máximo de 90 días naturales para convocar a su integración conforme a lo dispuesto en esta Ley.
