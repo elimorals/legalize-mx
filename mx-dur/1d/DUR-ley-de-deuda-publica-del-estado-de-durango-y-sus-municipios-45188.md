@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-deuda-publica-del-estado-de-durango-y-sus-municipios-451
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-19"
-last_updated: "2005-05-19"
+last_updated: "2007-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 19 de mayo de 2005.
 
@@ -49,7 +49,9 @@ IV. Las Empresas de Participación Estatal o Municipal Mayoritaria; y
 
 V. Los Fideicomisos Públicos en que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
 
-Asimismo, esta ley regula la afectación del derecho a recibir las participaciones en ingresos federales que correspondan al Estado Libre y Soberano de Durango y a sus Municipios y los demás ingresos que correspondan a las entidades.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+Asimismo, esta ley regula los mecanismos para la afectación de las participaciones y aportaciones federales que correspondan al Estado Libre y Soberano de Durango y a sus Municipios que de conformidad con la legislación aplicable sean susceptibles de afectación así como los demás ingresos que correspondan a las entidades.
 
 ###### ARTÍCULO 2.
 
@@ -79,7 +81,9 @@ VIII. Entidades paramunicipales: los organismos descentralizados municipales, la
 
 IX. Estado: el Estado Libre y Soberano de Durango;
 
-X. Ingresos Ordinarios: los ingresos que perciban cada una de las entidades por concepto de ingresos propios, participaciones en ingresos federales y aportaciones federales, en caso del Estado, y otros que sustituyan a los mencionados anteriormente o que recurrentemente perciba la entidad que corresponda;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+X. Ingresos Ordinarios: los ingresos que perciban cada una de las entidades por concepto de impuestos, derechos, contribuciones por mejoras, productos, aprovechamientos, participaciones y aportaciones federales o estatales, según sea el caso, y por otros conceptos que recurrentemente perciba la entidad que corresponda;
 
 XI. Municipios: los Municipios en que se divide el territorio del Estado y que se señalan en el artículo 26 de la Constitución Política del Estado Libre y Soberano de Durango;
 
@@ -87,9 +91,39 @@ XII. Reestructuración: modificación de tasas de interés, plazos, forma de pag
 
 XIII. Refinanciamiento: contratación de una deuda para pagar total o parcialmente otra existente;
 
-XIV. Registro: el Registro Estatal de Deuda Pública; y
+XIV. Registro: el Registro Estatal de Deuda Pública; y (sic)
 
-XV. Secretaría: la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+XV. Secretaría: la Secretaría de Finanzas y de Administración del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+XVI. Afectación de participaciones federales:
+
+(a) La afectación de los ingresos derivados de las participaciones en ingresos federales que correspondan al Estado Libre y Soberano de Durango y a sus Municipios y/o
+
+(b) Del derecho a recibir los ingresos por concepto de participaciones federales que correspondan al Estado Libre y Soberano de Durango y a sus Municipios.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+XVII. Afectación de aportaciones federales:
+
+(a) La afectación de los ingresos derivados de las aportaciones federales, que sean susceptibles de afectación, que correspondan al Estado Libre y Soberano de Durango y a sus Municipios y/o
+
+(b) Del derecho a recibir los ingresos por concepto de las aportaciones federales, que sean susceptibles de afectación, que correspondan al Estado Libre y Soberano de Durango y sus Municipios
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+XVIII. Afectación de participaciones estatales:
+
+(a) La afectación de los ingresos derivados de las participaciones estatales que correspondan a los Municipios y/o
+
+(b) Del derecho a recibir los ingresos por concepto de las participaciones estatales que correspondan a los Municipios
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+XIX. Afectación de otros ingresos:
+
+(a) Incluye la afectación de ingresos propios tales como impuestos, derechos, productos, contribuciones por mejoras, aprovechamientos y otros ingresos que sean susceptibles de afectación, conforme a la normatividad federal y estatal vigente.
 
 ###### ARTÍCULO 3.
 
@@ -107,6 +141,10 @@ V. El otorgamiento de cualquier garantía o aval, o cualquier obligación contin
 
 VI. En general, todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+No constituye deuda pública, ni se encuentran sujetos a la presente ley, la contratación Proyectos de Inversión y Prestación de Servicios que se realicen de conformidad a los procedimientos establecidos en la ley de la materia.
+
 ###### ARTÍCULO 4.
 
 La Secretaría es la dependencia facultada para aplicar e interpretar la presente Ley, en cuanto a los efectos administrativos, así como para regular su debido cumplimiento. En el ámbito municipal, en su caso, corresponderá al Ayuntamiento esta atribución.
@@ -119,31 +157,85 @@ Al Congreso corresponde:
 
 I. Autorizar los montos máximos de endeudamiento neto del Estado, de las entidades paraestatales, de los Municipios y de las entidades paramunicipales, en las correspondientes Leyes de Ingresos;
 
-II. Autorizar al Estado, a las entidades paraestatales, a los Municipios y a las entidades paramunicipales para contratar deuda en los términos de la presente Ley, que sea adicional a los montos de endeudamiento neto aprobados en las Leyes de Ingresos correspondientes;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+II. Autorizar al Estado, a las entidades paraestatales, a los Municipios y a las entidades paramunicipales, la contratación de montos de endeudamiento neto adicional a los aprobados en las Leyes de Ingresos correspondientes, cuando a juicio del Congreso se presenten circunstancias que así lo ameriten;
 
 III. Autorizar al Estado para que se constituya en garante, avalista o deudor solidario de deuda de las entidades señaladas en las fracciones II a V del artículo 1 de esta Ley;
 
 IV. Autorizar a los Municipios para que se constituyan en garantes, avalistas o deudores solidarios de deuda de las entidades paramunicipales;
 
-V. Autorizar, en su caso, en la correspondiente Ley de Ingresos o mediante decretos, la afectación, en beneficio de los acreedores de la deuda de las entidades, ya sea como garantía, fuente de pago o en cualquier otra forma, del derecho del Estado y de los Municipios a recibir las participaciones en ingresos federales correspondientes, del derecho de los Municipios a recibir las participaciones en ingresos estatales y del derecho de las entidades de recibir cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios o por cualquier otro concepto que sea susceptible de afectación. Tales afectaciones podrán también autorizarse con respecto a obligaciones que no constituyan deuda y que se deriven de contratos que celebren las entidades dentro de sus respectivos ámbitos de competencia.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+V. Autorizar al Estado y los Municipios, según sea el caso, en la correspondiente Ley de Ingresos o mediante decretos, la afectación de las participaciones federales, de las aportaciones federales, de las participaciones estatales y/o de otros ingresos, en beneficio de los acreedores de la deuda de las entidades, ya sea como garantía, fuente de pago o en cualquier otra forma; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+VI. Autorizar al Estado y los Municipios, según sea el caso, la afectación de las participaciones federales, las aportaciones federales, de las participaciones estatales y/o de otros ingresos, con respecto a obligaciones que no constituyan deuda y que se deriven de contratos que celebren las entidades dentro de sus respectivos ámbitos de competencia.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 5-A.
+
+El monto máximo de endeudamiento neto anual cuya autorización soliciten los Municipios al Congreso en sus respectivas Leyes de Ingresos, según las necesidades de financiamiento de su presupuesto anual de egresos y el de las entidades paramunicipales, incorporará, según sea el caso, lo siguiente:
+
+I. Deuda directa o contingente de largo plazo;
+
+II. Créditos de mediano plazo cuya contratación se prevea realizar en el primero o segundo año de su periodo de ejercicio constitucional y la amortización total del mismo sea a más tardar 30 días naturales antes de que concluya dicho periodo; y
+
+III. Créditos cuya contratación se destine a reestructurar o refinanciar o para ambos casos, pasivos existentes que constituyan deuda pública directa o contingente de largo plazo.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 5-B.
+
+La autorización, contratación y administración de créditos de mediano plazo por parte de los municipios, se efectuará de conformidad con las siguientes bases:
+
+I. El plazo de pago del monto total de la deuda se realice 30 días antes de que concluya su periodo de ejercicio constitucional;
+
+II. El monto principal de la deuda que se realice no exceda el 12.5% de los ingresos ordinarios observados en el ejercicio fiscal anterior;
+
+III. Podrán afectarse las participaciones o las aportaciones federales, en su caso, que sean susceptibles de afectación como garantía o fuente de pago o de cualquier forma a favor de los acreedores, en los términos de esta ley y demás ordenamientos aplicables; y
+
+IV. El destino de los créditos deberá apegarse a lo establecido en esta ley y la normatividad vigente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 6.
 
-El Congreso, previa solicitud del Ejecutivo del Estado y de los Ayuntamientos, según sea el caso, podrá autorizar el ejercicio de montos y conceptos de endeudamientos netos adicionales a los previstos en las Leyes de Ingresos y en la Ley de Egresos para el caso del Estado, o en los presupuestos de egresos para el caso de los municipios, cuando a juicio del propio Congreso se presenten circunstancias extraordinarias que así lo exijan.
+El Congreso, previa solicitud del Ejecutivo del Estado y de los Ayuntamientos, según sea el caso, podrá autorizar el ejercicio de montos y conceptos de endeudamientos netos adicionales a los previstos en las Leyes de Ingresos y en la Ley de Egresos para el caso del Estado o en los presupuestos de egresos para el caso de los municipios, cuando a juicio del propio Congreso se presenten circunstancias que así lo ameriten.
 
 No obstante lo anterior, las entidades podrán contratar deuda directa sin la previa autorización del Congreso, en adición a los montos de endeudamiento neto aprobados en las Leyes de Ingresos correspondientes, siempre y cuando se cumplan los siguientes requisitos:
 
-I. El plazo de pago del monto principal de la deuda no exceda el término del ejercicio fiscal en el cual originalmente fue contratada dicha deuda;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-II. El saldo total acumulado de dicha deuda no exceda del 5% de los ingresos ordinarios de la entidad de que se trate, durante el ejercicio fiscal correspondiente;
+I. El plazo de pago del monto principal de la deuda no excede de ciento ochenta días naturales, ni el periodo constitucional de la administración que contrató dicha deuda, ni venza dentro de los noventa días hábiles anteriores al fin de dicho periodo constitucional;
 
-III. No se afecten en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-IV. No sea el último ejercicio fiscal de su periodo constitucional; y
+II. Que en todo momento, el saldo insoluto total del monto principal de dicha deuda no exceda del 5% de los ingresos ordinarios de la entidad de que se trate, durante el ejercicio fiscal correspondiente;
 
-V. Informar al Congreso dentro de los cuarenta y cinco días posteriores a la contratación.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada.
+III. No se afecten en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+IV. Se cuente con la debida autorización del Ayuntamiento y el visto bueno de la Secretaría en el caso de los municipios y las entidades paramunicipales; y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+V. Se informe al Congreso dentro de los cuarenta y cinco días naturales posteriores a la contratación.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Asimismo, una vez que el saldo insoluto del principal de la deuda contratada conforme al segundo párrafo de este Artículo rebase el 3% de los ingresos ordinarios de la entidad de que se trate durante el ejercicio fiscal correspondiente, la entidad respectiva no podrá disponer nueva deuda al amparo de dicho párrafo sino hasta que transcurran 30 días naturales después de la fecha en que se pague en su totalidad dicho saldo insoluto del principal.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 6-A.
+
+Los créditos de mediano plazo y las líneas de crédito revolvente no podrán ser reestructurados o refinanciados. La contratación, administración y evolución de su situación serán reportados al Congreso en los informes preliminares mensuales o bimestrales de cuenta pública que las entidades remitan a la Entidad de Auditoria Superior del Estado.
 
 ###### ARTÍCULO 7.
 
@@ -163,7 +255,9 @@ Corresponde al Ejecutivo del Estado, por conducto de la Secretaría:
 
 I. Efectuar oportunamente, ya sea en forma directa o mediante los mecanismos que para tales efectos se establezcan conforme a esta Ley, los pagos de amortizaciones, intereses y los que haya lugar, derivados de la deuda a cargo del Estado;
 
-II. Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de deuda a cargo del Estado, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre y cuando dicha deuda esté comprendida en el endeudamiento neto aprobado por el Congreso;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+II. Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de deuda a cargo del Estado, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre que el endeudamiento haya sido autorizado o contratado en los términos de la presente ley;
 
 III. Reestructurar la deuda contraída ya sea como deudor, garante o avalista, o cualquier obligación contingente, en el entendido que, en caso de que dicha reestructura tenga como objeto mejorar las condiciones originales de la deuda mediante la disminución de la tasa de interés o la modificación de las garantías, no se requerirá la autorización del Congreso;
 
@@ -173,9 +267,13 @@ V. Negociar los términos y condiciones de los contratos y documentos que sean n
 
 VI. Negociar los términos y condiciones y celebrar las operaciones de derivados financieros, siempre y cuando tiendan a evitar o reducir riesgos económicos o financieros en relación con la deuda contratada por el Estado o las entidades paraestatales o que mejoren la capacidad crediticia del Estado;
 
-VII. Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Estado, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable, así como otorgar las garantías que se requieran, siempre y cuando dicha deuda esté comprendida en el endeudamiento neto autorizado por el Congreso, en el entendido que, cuando la emisión de los títulos se realice por conducto de fideicomisos, éstos no serán considerados, en ningún caso, parte de la administración pública paraestatal;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-VIII. Notificar a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, del derecho a recibir las participaciones federales que correspondan al Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de las participaciones federales de que se trate, la cual sólo podrá ser modificada con la previa aprobación del Congreso y siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ejecutivo del Estado, por conducto de la Secretaría, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, deberá también notificarse al Registro;
+VII. Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Estado, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable, así como otorgar las garantías que se requieran, siempre que el endeudamiento haya sido autorizado o contratado en los términos de la presente ley, en el entendido que dichos fideicomisos no serán considerados, en ningún caso, parte de la administración pública paraestatal;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+VIII. Notificar a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, de participaciones federales y/o de las aportaciones federales que correspondan al Estado y, en su caso, a cualquier Municipio y que, de conformidad con la legislación aplicable y los términos de la ley para la Administración de las Aportaciones Federales transferidas al Estado de Durango y sus Municipios sean susceptibles de afectación. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de las participaciones federales y/o aportaciones federales de que se trate, la cual sólo podrá ser modificada con la previa aprobación del Congreso y siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ejecutivo del Estado, por conducto de la Secretaría, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal, deberá también notificarse al Registro;
 
 IX. Autorizar a las entidades paraestatales para gestionar y contratar deuda, según se señala en el artículo 14 de esta Ley;
 
@@ -195,11 +293,15 @@ II. Proveer en el Presupuesto de Egresos correspondiente las partidas destinadas
 
 III. Efectuar oportunamente los pagos de amortizaciones, intereses y los que haya lugar, derivados de la deuda a cargo del Municipio;
 
-IV. Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de deuda a cargo de los Municipios, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, y siempre y cuando dicha deuda esté comprendida en el endeudamiento neto aprobado por el Congreso en la Ley de Ingresos correspondiente;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+IV. Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de deuda a cargo de los Municipios, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre que el endeudamiento haya sido autorizado o contratado en los términos de la presente ley;
 
 V. Reestructurar o refinanciar la deuda contraída por el Municipio correspondiente, directamente o como garante o avalista de la deuda contraída por las entidades paramunicipales y celebrar los convenios y contratos que de esas acciones se deriven, previa autorización del Congreso;
 
-VI. Proporcionar la información que les solicite el Ejecutivo del Estado, así como informar trimestralmente al Congreso sobre la deuda contraída por los Municipios y sus entidades paramunicipales, sin perjuicio de lo dispuesto por la Ley de Fiscalización Superior del Estado de Durango;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+VI. Proporcionar la información que les solicite el Ejecutivo del Estado, así como informar al Congreso sobre la situación que guarda la deuda pública municipal y paramunicipal en cada informe preliminar de cuenta pública que presente ante la Entidad de Auditoria Superior del Estado, sin perjuicio de lo dispuesto por la Ley de Fiscalización Superior del Estado de Durango;
 
 VII. Constituir al Municipio en garante o avalista de la deuda contraída por las entidades paramunicipales, previa autorización del Congreso;
 
@@ -207,9 +309,13 @@ VIII. Negociar los términos y condiciones de los contratos y documentos que sea
 
 IX. Negociar los términos y condiciones de y celebrar las operaciones de derivados financieros, siempre y cuando tiendan a evitar o reducir riesgos económicos o financieros en relación con la deuda contratada por los Municipios o las entidades paramunicipales o que mejoren la capacidad crediticia del Municipio;
 
-X. Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Municipio, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable, así como otorgar las garantías que se requieran, siempre y cuando dicha deuda esté comprendida en el endeudamiento neto aprobado por el Congreso en la Ley de Ingresos o mediante Decretos, en el entendido que dichos fideicomisos no serán considerados, en ningún caso, públicos o parte de la administración pública paramunicipal;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-XI. Notificar a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, por conducto del responsable de las finanzas públicas municipales, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, del derecho a recibir las participaciones federales que correspondan al Municipio. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de las participaciones federales de que se trate, la cual sólo podrá ser modificada con la previa aprobación del Congreso y siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ayuntamiento, por conducto del responsable de las finanzas públicas municipales, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, deberá también notificarse al registro de deuda pública municipal y al Registro.
+X. Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Municipio, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable, así como otorgar las garantías que se requieran, siempre que el endeudamiento haya sido autorizado o contratado en términos de la presente ley, en el entendido que dichos fideicomisos no serán considerados, en ningún caso, públicos o parte de la administración pública paramunicipal;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+XI. Notificar a la Secretaria de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal, por conducto de un funcionario facultado para ello, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, de las participaciones federales y/o de las aportaciones federales que correspondan al Municipio y que, de conformidad con la legislación aplicable y los términos de la Ley para la Administración de las Aportaciones Federales Transferidas al Estado de Durango sean susceptibles de afectación. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de las participaciones federales y/o aportaciones federales de que se trate, la cual sólo podrá ser modificada con la previa aprobación del Congreso y siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ayuntamiento, por conducto del funcionario facultado para ello, a la Secretaria de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal, deberá también notificarse al registro de deuda pública municipal y al Registro;
 
 XII. Autorizar a las entidades paramunicipales para gestionar y contratar deuda, según se señala en el artículo 14 de esta Ley; y
 
@@ -245,11 +351,21 @@ Las autorizaciones antes mencionadas, según sea aplicable, serán requisito ind
 
 Las entidades, en cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Constitución General de la República, sólo podrán contraer directa o indirectamente deuda, pagadera en moneda nacional y dentro del territorio de la República. Las entidades no podrán contraer dicha deuda con personas físicas o morales extranjeras o con gobiernos de otras naciones.
 
-Una entidad sólo podrá contraer directa o indirectamente deuda cuando tenga estados financieros de los últimos tres ejercicios fiscales, dictaminados por un contador público independiente que cuente con capacidad técnica certificada por algún órgano colegiado de contadores públicos reconocido a nivel nacional y elaborados conforme a los principios de contabilidad generalmente aceptados, o bien, de conformidad con lo dispuesto por la legislación aplicable a la entidad de que se trate, sin que el estado financiero correspondiente al ejercicio más reciente tenga una antigüedad superior a dieciséis meses al momento de contraer la deuda de que se trate, y siempre que dicho último estado financiero se haya publicado en un periódico de circulación en el Estado.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
-Los estados financieros deberán acompañarse de un documento que contenga la explicación de las bases o reglas contables utilizadas para el registro de las operaciones y la preparación de dicho estado de ingresos y egresos y que señale, además, las diferencias relevantes entre esas bases y los principios de contabilidad referidos en el párrafo anterior.
+Una entidad sólo podrá contraer directa o indirectamente deuda cuando tenga estados financieros de los últimos tres ejercicios fiscales, dictaminados por un contador público independiente que cuente con capacidad técnica certificada por algún órgano colegiado de contadores públicos reconocidos a nivel nacional y elaborados conforme a las Normas de Información Financiera, o bien, de conformidad con lo dispuesto por la legislación aplicable a la entidad de que se trate, sin que el estado financiero correspondiente al ejercicio más reciente tenga una antigüedad superior a dieciséis meses, al momento de contraer la deuda de que se trate, y siempre que dicho último estado financiero se haya publicado en un periódico de circulación en el Estado.
 
-En caso de entidades paraestatales y paramunicipales que estén organizadas como sociedades mercantiles, los estados financieros deberán prepararse y dictaminarse conforme a los principios de contabilidad generalmente aplicables a empresas que cotizan en una bolsa en México.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+No obstante lo anterior, el Congreso podrá exentar a alguna entidad del requisito de dictaminar sus estados financieros, cuando a juicio del propio Congreso se presente algún caso que así lo amerite.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+Los estados financieros deberán acompañarse de un documento que contenga la explicación de las bases o reglas contables utilizadas para el registro de las operaciones y la preparación de dicho estado de ingresos y egresos y que señale, además, las diferencias relevantes entre esas bases y las Normas referidas en el segundo párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+
+En caso de entidades paraestatales y paramunicipales que estén organizados como sociedades mercantiles, los estados financieros deberán prepararse conforme a las Normas de Información Financiera a las que alude el segundo párrafo de este artículo.
 
 ###### ARTÍCULO 16.
 
@@ -352,3 +468,11 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente.
