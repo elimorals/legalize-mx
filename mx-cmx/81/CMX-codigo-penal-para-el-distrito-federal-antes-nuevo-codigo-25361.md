@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2007-09-26"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE DICIEMBRE DE 2007.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2968,9 +2968,9 @@ V. Se abstenga indebidamente de hacer la consignación que corresponda, de una p
 
 VI. No otorgue la libertad provisional bajo caución durante la averiguación previa, si procede legalmente;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-VII. Otorgue la libertad provisional bajo caución durante la averiguación previa, cuando no se reúnan los requisitos previstos en el artículo 556 del Código de Procedimientos Penales para el Distrito Federal;
+VII. Otorgue la libertad provisional bajo caución durante la averiguación previa cuando no se reúnan los requisitos previstos en el artículo 556 o se actualicen uno o varios supuestos del artículo 556 Bis, ambos del Código de Procedimientos Penales para el Distrito Federal;
 
 > <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -3032,9 +3032,9 @@ V. No dicte auto de formal prisión o de libertad de un detenido, dentro de las 
 
 VI. Prolongue injustificadamente la prisión preventiva, sin sentencia definitiva, por más tiempo del que como máximo fija la Constitución;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-VII. Otorgue la libertad provisional bajo caución cuando no se reúnan los requisitos previstos en el artículo 556 del Código de Procedimientos Penales para el Distrito Federal;
+VII. Otorgue la libertad provisional bajo caución cuando no se reúnan los requisitos previstos en el artículo 556 o se actualicen uno o varios supuestos del artículo 556 Bis, ambos del Código de Procedimientos Penales para el Distrito Federal;
 
 > <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -4045,3 +4045,9 @@ G.O. 26 DE SEPTIEMBRE DE 2007.
 PRIMERO.- Publíquese en al (sic) Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de (sic) Distrito Federal.
+
+G.O. 21 DE DICIEMBRE DE 2007.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
