@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-desarrollo-economico-del-estado-de-12796"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-03"
-last_updated: "2007-08-23"
+last_updated: "2007-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FOMENTO Y DESARROLLO ECONOMICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 3 de diciembre de 1998.
 
@@ -89,7 +89,9 @@ VII.- Promover en coordinación con las dependencias y organismos competentes, p
 
 VIII.- Promover la integración de Consejos Consultivos de Desarrollo Económico Municipales o Regionales;
 
-IX.- Promover a través de las organizaciones empresariales debidamente constituidas en el país la constitución de empresas o la ampliación de las existentes en el Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+IX. Promover a través de las organizaciones empresariales debidamente constituidas en el país y de organizaciones de migrantes michoacanos radicados en el extranjero la constitución de empresas o la ampliación de las existentes en el Estado;
 
 X.- Impulsar la desconcentración de empresas instaladas en zonas saturadas y alentar su reubicación y modernización dentro del Estado, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -147,11 +149,17 @@ d) El Secretario de Desarrollo Agropecuario;
 
 e) El Coordinador de Control y Desarrollo Administrativo del Estado;
 
-f) El titular de la Dirección del Trabajo y Previsión Social del Gobierno del Estado; y,
+f) El titular de la Dirección del Trabajo y Previsión Social del Gobierno del Estado; y (sic),
 
-g) Ocho representantes de organizaciones productivas, de servicios, y sociales del Estado, a invitación del Presidente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-Las organizaciones definirán la forma de selección de sus representantes, debiendo ‚éstos formar parte de organismos de carácter estatal que representen, en lo posible, a la mayoría de las actividades empresariales y productivas del Estado.
+g) El Director General del Instituto Michoacano de los Migrantes en el Extranjero; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+h) Nueve representantes de organizaciones productivas, de servicios y sociales del Estado, de los cuales uno deberá ser representante de la población michoacana residente en el extranjero, a invitación del Presidente del Consejo.
+
+Las organizaciones definirán la forma de selección de sus representantes, debiendo‚ éstos formar parte de organismos de carácter estatal que representen, en lo posible, a la mayoría de las actividades empresariales y productivas del Estado.
 
 Las sesiones del Consejo serán convocadas y presididas por el Presidente. En su ausencia las convocará y presidirá el Vicepresidente. Las sesiones serán ordinarias y extraordinarias; las ordinarias, se celebraran cuatrimestralmente y las extraordinarias, cada vez que lo estime necesario el Presidente o el Vicepresidente.
 
@@ -429,9 +437,13 @@ III.- Estimular los procesos de desregulación, simplificación, administración
 
 IV.- Alentar su crecimiento, para coadyuvar al desarrollo regional, apoyando la desconcentración y la preservación del medio ambiente;
 
-V.- Promover la creación de empleos productivos, con base en menores requerimientos de inversión por unidad de empleo; y,
+V.- Promover la creación de empleos productivos, con base en menores requerimientos de inversión por unidad de empleo; y (sic),
 
-VI.- Propiciar la inversión en el sector social, para fomentar las actividades manufactureras.
+VI.- Propiciar la inversión en el sector social, para fomentar las actividades manufactureras;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+VII. Fomentar la creación y fortalecimiento de empresas, incluyendo las de carácter comunitario o cooperativo, que han sido constituidas por migrantes michoacanos radicados en el extranjero.
 
 La Secretaría, evaluará y actualizará periódicamente el Programa Estatal de Apoyo y Estímulo a la Micro, Pequeña y Mediana Empresa, para lo cual, podrá recibir opiniones y propuestas que al respecto emitirá el sector interesado en el seno del Consejo.
 
@@ -475,9 +487,13 @@ Il. Fomentar la apertura de nuevos y mejores mercados para los servicios y produ
 
 III. Promover la colocación de servicios y productos michoacanos en las mejores condiciones de rentabilidad;
 
-IV. Realizar promociones directas ante inversionistas nacionales o extranjeros, particularmente con aquellos interesados en las pequeñas y medianas empresas; y,
+IV. Realizar promociones directas ante inversionistas nacionales o extranjeros, particularmente con aquellos interesados en las pequeñas y medianas empresas; y (sic),
 
-V. Diseñar y establecer mecanismos para promover las ventajas competitivas del Estado, a fin de atraer inversión que contribuya a la generación de empleos, elevación de calidad de mano de obra, y a la generación y transmisión de tecnología.
+V. Diseñar y establecer mecanismos para promover las ventajas competitivas del Estado, a fin de atraer inversión que contribuya a la generación de empleos, elevación de calidad de mano de obra, y a la generación y transmisión de tecnología;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+VI. Instrumentar y promover mecanismos que incentiven la inversión productiva por parte de los migrantes michoacanos radicados en el extranjero.
 
 ###### ARTICULO 52.
 
@@ -549,7 +565,7 @@ Se abroga la Ley de Fomento a la Industria, publicada en el Periódico Oficial d
 
 El Ejecutivo del Estado dispondrá se publique y observe.
 
-PALACIO DEL PODER LEGlSLATlVO, Morelia, Michoacán, a 4 de Noviembre de 1998. "AÑO DEL OCTOGESIMO ANIVERSARIO DE LA PROMULGACION DE LA CONSTITUCION POLITICA DE 1918 DEL ESTADO DE MICHOACAN".DlPUTADO PRESIDENTE.- MAURO CISNEROS FONSECA.-DIPUTADO SECRETARIO.-VICTOR CORONA ALVA.- DIPUTADO SECRETARIO.- JAlME OSEGUERA HERRERA. (Firmados).
+PALACIO DEL PODER LEGlSLATlVO, Morelia, Michoacán, a 4 de Noviembre de 1998. "AÑO DEL OCTOGESIMO ANIVERSARIO DE LA PROMULGACION DE LA CONSTITUCION POLITICA DE 1918 DEL ESTADO DE MICHOACAN". DlPUTADO PRESIDENTE.- MAURO CISNEROS FONSECA.- DIPUTADO SECRETARIO.- VICTOR CORONA ALVA.- DIPUTADO SECRETARIO.- JAlME OSEGUERA HERRERA. (Firmados).
 
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 18 dieciocho días del mes de noviembre de 1998, mil novecientos noventa y ocho.
 
@@ -576,3 +592,7 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 21 DE DICIEMBRE DE 2007.
+
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
