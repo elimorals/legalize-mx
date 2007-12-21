@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2007-10-01"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -64,33 +64,19 @@ La recaudación federal participable será la que obtenga la Federación por tod
 
 No se incluirán en la recaudación federal participable, los derechos adicionales o extraordinarios, sobre la extracción de petróleo.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-Tampoco se incluirán en la recaudación federal participable, los incentivos que se establezcan en los convenios de colaboración administrativa; ni los impuestos sobre tenencia o uso de vehículos y sobre automóviles nuevos, de aquellas entidades que hubieran celebrado convenios de colaboración administrativa en materia de estos impuestos; ni la parte de la recaudación correspondiente al impuesto especial sobre producción y servicios en que participen las entidades en los términos del artículo 3o.-A de esta Ley; ni la parte de la recaudación correspondiente a los contribuyentes pequeños que las entidades incorporen al Registro Federal de Contribuyentes en los términos del artículo 3o.-B de esta Ley; ni el excedente de los ingresos que obtenga la Federación por aplicar una tasa superior al 15% a los ingresos por la obtención de premios a que se refieren los artículos 130 y 158 de la Ley del Impuesto Sobre la Renta.
+Tampoco se incluirán en la recaudación federal participable los incentivos que se establezcan en los convenios de colaboración administrativa; ni el impuesto sobre automóviles nuevos; ni la parte de la recaudación correspondiente al impuesto especial sobre producción y servicios en que participen las entidades en los términos del artículo 3o.-A de esta Ley; ni la parte correspondiente al régimen de pequeños contribuyentes; ni la recaudación obtenida en términos de lo previsto en los artículos 2o., fracción II, inciso B) y 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios; ni las cantidades que se distribuyan a las entidades federativas de acuerdo con lo previsto en los artículos 4o.-A y 4o.-B de esta Ley; ni el excedente de los ingresos que obtenga la Federación por aplicar una tasa superior al 1% a los ingresos por la obtención de premios a que se refieren los artículos 163 y 202 de la Ley del Impuesto sobre la Renta.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-El Fondo General de Participaciones se distribuirá conforme a lo siguiente:
+El Fondo General de Participaciones se distribuirá conforme a la fórmula siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(VEASE ARCHIVO ANEXO)
 
-I.- El 45.17% del mismo, en proporción directa al número de habitantes que tenga cada entidad en el ejercicio de que se trate.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, en el año que se publique.
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-II.- El 45.17%, en los términos del artículo 3o. de esta Ley.
-
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-III.- El 9.66% restante, se distribuirá en proporción inversa a las participaciones por habitante que tenga cada entidad, éstas son el resultado de la suma de las participaciones a que se refieren las fracciones I y II de este artículo en el ejercicio de que se trate.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-El Fondo General de Participaciones se adicionará con un 1% de la recaudación federal participable en el ejercicio, que corresponderá a las Entidades Federativas y los Municipios cuando éstas se coordinen en materia de derechos y, previa comprobación de la Secretaría de Hacienda y Crédito Público de que se ajustan estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley. El porcentaje citado será distribuido entre las Entidades mencionadas conforme al coeficiente efectivo del Fondo General de Participaciones que les corresponda para el ejercicio en el que se calcula. El Fondo no se adicionará con la parte que correspondería a las Entidades no coordinadas en derechos. Asimismo, el Fondo se incrementará con el por ciento que representen en la recaudación federal participable, los ingresos en un ejercicio de las contribuciones locales o municipales que las Entidades convengan con la Secretaría de Hacienda y Crédito Público, en derogar o dejar en suspenso.
+Las entidades deberán rendir cuenta comprobada de la totalidad de la recaudación que efectúen de cada uno de sus impuestos y derechos locales. La fórmula anterior no será aplicable en el evento de que en el año de cálculo la recaudación federal participable sea inferior a la observada en el año 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada entidad haya recibido de dicho Fondo en el año 2007. La Secretaría de Hacienda y Crédito Público podrá solicitar a las entidades la información que estime necesaria para verificar las cifras recaudatorias locales presentadas por las entidades.
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -100,9 +86,7 @@ También se adicionará al Fondo General un monto equivalente al 80% del impuest
 
 Adicionalmente, las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable, que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques, que las leyes definen como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Las entidades que estén adheridas al Sistema Nacional de Coordinación Fiscal y que hubieran celebrado con la Federación convenios de colaboración administrativa en materia del impuesto federal sobre tenencia o uso de vehículos, donde se estipule la obligación de llevar un registro estatal vehicular, recibirán el 100% de la recaudación que se obtenga por concepto de este impuesto, del que corresponderá cuando menos el 20% a los municipios de la entidad, que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
+> <small>(DEROGADO NOVENO PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -125,6 +109,8 @@ I.- En la proporción de la recaudación federal participable que a continuació
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 La distribución entre los municipios se realizará mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
+
+(VEASE ARCHIVO ANEXO)
 
 CCiT = Bi/TB
 
@@ -162,9 +148,9 @@ a).- El 16.8% se destinará a formar un Fondo de Fomento Municipal.
 
 b).- El 83.2% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a las entidades que se coordinen en materia de derechos, siempre que se ajusten estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-El Fondo de Fomento Municipal se distribuirá entre las entidades mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
+El Fondo de Fomento Municipal se distribuirá entre las entidades conforme a la fórmula siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -176,17 +162,15 @@ Los Estados entregarán íntegramente a sus municipios las cantidades que reciba
 
 Las cantidades que correspondan a los municipios en los términos de las fracciones I y II, se pagarán por la Federación directamente a dichos municipios.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+La fórmula del Fondo de Fomento Municipal no será aplicable en el evento de que en el año que se calcula el monto de dicho Fondo sea inferior al obtenido en el año 2007. En dicho supuesto, la distribución se realizará en relación con la cantidad efectivamente generada en el año que se calcula y de acuerdo al coeficiente efectivo que cada entidad haya recibido del Fondo de Fomento Municipal en el 2007.
 
 ###### ARTICULO 3o.
 
-La cantidad que a cada entidad federativa corresponda en la parte del Fondo General de Participaciones a que se refiere la fracción II del artículo 2o. de esta Ley, se obtendrá mediante la aplicación del coeficiente de participación que se determinará conforme a la siguiente fórmula:
+(DEROGADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
-(VEASE ARCHIVO ANEXO)
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Los impuestos asignables a que se refiere este artículo, son los impuestos federales sobre tenencia o uso de vehículos, especial sobre producción y servicios y sobre automóviles nuevos.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2003)</small>
 
@@ -222,37 +206,97 @@ Los Municipios recibirán esta participación durante todos los ejercicios fisca
 
 Esta participación se distribuirá directamente con base en el impuesto pagado por el contribuyente domiciliado en su localidad y se liquidará en el mes siguiente al del pago de las contribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 4o.
 
-Se crea una reserva de contingencia consistente en un monto equivalente al 0.25% de la recaudación federal participable de cada ejercicio. El 90% de dicha reserva será distribuido mensualmente y el 10% restante se entregará al cierre del ejercicio fiscal, y se utilizará para apoyar a aquellas entidades cuya participación total en los Fondos General y de Fomento Municipal a que se refieren los artículos 2o. y 2o.-A fracción III de esta Ley, no alcance el crecimiento experimentado por la recaudación federal participable del año respecto a la de 1990.
+El Fondo de Fiscalización estará conformado por un monto equivalente al 1.25% de la recaudación federal participable de cada ejercicio.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+El Fondo a que se refiere este artículo se distribuirá en forma trimestral a las entidades que se ajusten estrictamente a lo establecido en el artículo 10-A de esta Ley, de acuerdo a la siguiente fórmula:
 
-La distribución de la reserva de contingencia comenzará con la entidad que tenga el coeficiente de participación efectiva menor y continuará hacia la que tenga el mayor, hasta agotarse.
+(VEASE ARCHIVO ANEXO)
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+La fórmula del Fondo de Fiscalización no será aplicable en el evento de que en el año de cálculo dicho Fondo sea inferior a la participación que la totalidad de las entidades hayan recibido en el 2007 por concepto de coordinación de derechos y reserva de contingencia. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada entidad haya recibido por concepto de coordinación de derechos y reserva de contingencia en el año 2007.
 
-El coeficiente de participación efectiva a que se refiere el párrafo anterior será el que resulte de dividir las participaciones efectivamente percibidas por cada entidad, entre el total de las participaciones pagadas en el ejercicio de que se trate.
+Los municipios recibirán como mínimo el 20% de la recaudación que del Fondo de Fiscalización corresponda a las entidades federativas. Tratándose del Distrito Federal, la distribución de dichos recursos se efectuará a sus demarcaciones territoriales.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+La Secretaría de Hacienda y Crédito Público podrá verificar el cumplimiento de las labores de fiscalización efectuadas por las entidades federativas en los términos de este artículo.
 
-De la reserva a que se refiere el primer párrafo de este artículo, los Estados participarán a su (sic) municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad. En el conjunto de participaciones a los municipios, no se incluirán aquéllas a que se refieren las fracciones I y II del artículo 2o-A de esta Ley.
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+###### ARTICULO 4o.-A.
 
-Adicionalmente, se crea una reserva de compensación para las entidades federativas que sean afectadas por el cambio en la fórmula de participaciones. Esta reserva se formará con el remanente del 1% de la recaudación federal participable, a la que hace referencia el párrafo siguiente a la fracción III del artículo 2o., así como con el que se deriva de la parte del Fondo de Fomento Municipal, a que se refiere el artículo 2o.-A, fracción III, inciso b), de esta Ley.
+La recaudación derivada de la aplicación de las cuotas previstas en el artículo 2o-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se dividirá en dos partes:
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+I. Del total recaudado 9/11 corresponderá a las entidades federativas en función del consumo efectuado en su territorio, siempre y cuando se encuentren adheridas al Sistema Nacional de Coordinación Fiscal y celebren con la Federación, a través de la Secretaría de Hacienda y Crédito Público, convenio de colaboración en términos del artículo 13 de esta Ley, mediante el cual se sujeten, entre otras cosas, al cumplimiento de las obligaciones siguientes:
 
-El monto en que la entidad federativa de que se trate se vea afectada, se determinará restando de las participaciones que le hubieran correspondido, de conformidad con las disposiciones en vigor al 31 de diciembre de 1990, la participación efectiva de la entidad en el año que corresponda. La distribución de la reserva de compensación se hará de la entidad que se vea menos afectada hacia aquélla más afectada hasta agotarse, aplicándose anualmente al cierre de cada ejercicio fiscal.
+a) Administrar la totalidad de la recaudación del impuesto dentro de su territorio.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+b) Reintegrar a la Federación las cantidades equivalentes a los 2/11 restantes del total recaudado por la aplicación de las cuotas, a fin de que se proceda a su distribución en términos de la fracción II de este artículo, o bien, manifestar su autorización para que la Federación compense dichas cantidades contra sus participaciones federales, en términos de lo establecido en el artículo 9o. de esta Ley.
+
+c) Destinar los recursos que correspondan a la entidad por la administración del impuesto a la compensación de las pérdidas en participaciones estatales que sufran sus municipios y en el caso del Distrito Federal sus demarcaciones territoriales, derivadas de modificaciones en la forma de distribución de la entidad a sus municipios o demarcaciones territoriales.
+
+d) Incluir en las publicaciones a que se refiere el artículo 6o., último párrafo de esta Ley, el destino de los recursos que corresponderán a sus municipios y en el caso del Distrito Federal sus demarcaciones territoriales, así como acreditar su cumplimiento a la Secretaría de Hacienda y Crédito Público.
+
+Los recursos que obtengan las entidades federativas, municipios y demarcaciones territoriales, de acuerdo a lo previsto en esta fracción, podrán afectarse en términos del artículo 9o. de esta Ley, siempre que la afectación correspondiente en ningún caso exceda del 25% de los recursos que les correspondan.
+
+Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
+
+II. Del total recaudado con motivo de la aplicación de las cuotas, 2/11 se destinarán a un Fondo de Compensación, el cual se distribuirá entre las 10 entidades federativas que, de acuerdo con la última información oficial del Instituto Nacional de Estadística, Geografía e Informática, tengan los menores niveles de Producto Interno Bruto per cápita no minero y no petrolero. Éste se obtendrá de la diferencia entre el Producto Interno Bruto Estatal total y el Producto Interno Bruto Estatal Minero, incluyendo todos los rubros contenidos en el mismo.
+
+El Fondo de Compensación se distribuirá conforme a la fórmula siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+Donde:
+
+Ti,t es la transferencia de la entidad i en el año t.
+
+PIBpci,t-1 es el último Producto Interno Bruto per cápita no minero y no petrolero de la entidad i construido con los últimos datos oficiales del Instituto Nacional de Estadística, Geografía e Informática.
+
+FCt es el Fondo de Compensación en el año t.
+
+es la sumatoria de la variable que le sigue.
+
+La Secretaría de Hacienda y Crédito Público enterará a las entidades federativas las cantidades a que se refiere esta fracción, dentro del mes siguiente al entero o compensación de dichas cantidades por parte de las entidades federativas que administren el impuesto.
+
+La Comisión Permanente de Funcionarios Fiscales conjuntamente con la Secretaría de Hacienda y Crédito Público deberán presentar al Congreso de la Unión una evaluación sobre los resultados y desempeño del Fondo a que se refiere esta fracción, así como sobre la conveniencia de conservar o modificar las reglas de su distribución. Dicha evaluación deberá presentarse en el mes de enero del año 2018 y posteriormente cada 5 años en caso de no modificarse las reglas de distribución.
+
+Los municipios y demarcaciones territoriales recibirán como mínimo el 20% de la recaudación que corresponda a las entidades federativas en términos de este artículo. La distribución del porcentaje mencionado por parte de las entidades federativas a los municipios y demarcaciones territoriales deberá realizarse cuando menos en un 70% atendiendo a los niveles de población.
+
+Los recursos que reciban las entidades federativas, municipios y demarcaciones territoriales, en términos de este artículo, deberán destinarse exclusivamente a infraestructura vial, sea rural o urbana; infraestructura hidráulica; movilidad urbana, y por lo menos 12.5 por ciento a programas para la protección y conservación ambiental.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 4o.-B.
+
+El Fondo de Extracción de Hidrocarburos estará conformado con el 0.46% del importe obtenido por el derecho ordinario sobre hidrocarburos pagado por Pemex Exploración y Producción, en términos de lo previsto en el artículo 254 de la Ley Federal de Derechos.
+
+El Fondo a que se refiere este artículo será distribuido entre aquellas entidades federativas que formen parte de la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística, Geografía e Informática, de acuerdo a la fórmula siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+En donde FEXHIt se refiere al Fondo de Extracción de Hidrocarburos en el año a repartir.
+
+es el coeficiente relativo a la extracción de petróleo y gas.
+
+es el coeficiente relativo a la producción de gas asociado y no asociado.
+
+EXPi,t-1 es el valor de extracción bruta de los hidrocarburos de la entidad federativa i conforme a la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística, Geografía e Informática.
+
+EXGi,t-1 es el valor de producción de gas natural asociado y no asociado de la entidad federativa i, en el año anterior para el cual se realiza el cálculo, según el Sistema de Información Energética.
+
+es la sumatoria de la variable que le sigue, sobre las entidades que formen parte de la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística, Geografía e Informática.
+
+La Secretaría de Hacienda y Crédito Público enterará a las entidades federativas las cantidades correspondientes, a más tardar el día 25 del mes posterior a la presentación de los pagos provisionales a que se refiere el artículo 255 de la Ley Federal de Derechos. Asimismo, dicha dependencia efectuará el ajuste que corresponda a los enteros mensuales provisionales, de acuerdo con la declaración definitiva a que se refiere el artículo 254 de dicha Ley.
+
+Los municipios recibirán cuando menos el 20% de los recursos percibidos por las entidades federativas.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 5o.
 
-Los cálculos de participaciones a que se refieren los artículos 2o., 2o-A y 3o. se harán para todas las Entidades Federativas, aunque algunas o varias de ellas no se hubieran adherido al Sistema Nacional de Coordinación Fiscal. Las participaciones que correspondan a las entidades que dejen de estar adheridas serán deducidas del Fondo General de Participaciones y del Fondo de Fomento Municipal.
+Los cálculos de participaciones a que se refieren los artículos 2o. y 2o.-A de esta Ley se harán para todas las entidades, aunque algunas o varias de ellas no se encuentren adheridas al Sistema Nacional de Coordinación Fiscal. Las participaciones que correspondan a las entidades que dejen de estar adheridas al Sistema Nacional de Coordinación Fiscal serán deducidas del Fondo General de Participaciones, del Fondo de Fomento Municipal y del Fondo de Fiscalización.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -264,13 +308,13 @@ Las participaciones federales que recibirán los Municipios del total del Fondo 
 
 La Federación entregará las participaciones a los municipios por conducto de los Estados, dentro de los cinco días siguientes a aquel en que el Estado las reciba; el retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones; en caso de incumplimiento la Federación hará la entrega directa a los Municipios descontando la participación del monto que corresponda al Estado, previa opinión de la Comisión Permanente de Funcionarios Fiscales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-Los municipios recibirán como mínimo el 20% de la recaudación que corresponda al Estado en los términos del penúltimo y último párrafos del artículo 2o. de esta Ley.
+Los municipios y, tratándose del Distrito Federal, sus demarcaciones territoriales, recibirán como mínimo el 20% de la recaudación que corresponda al Estado en los términos del último párrafo del artículo 2o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9 de esta Ley. Los Gobiernos de las Entidades, quince días después de que la Secretaría de Hacienda y Crédito Público publique en el Diario Oficial de la Federación el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como el monto, estimados, a que está obligada conforme al penúltimo párrafo del artículo 3 de esta Ley, deberán publicar en el Periódico Oficial de la Entidad los mismos datos antes referidos, de las participaciones que las Entidades reciban y de las que tengan obligación de participar a sus Municipios o Demarcaciones Territoriales. También deberán publicar trimestralmente el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación la lista de las Entidades que incumplan con esta disposición.
+Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, sin perjuicio de lo dispuesto en el artículo 9 de esta Ley. Los Gobiernos de las entidades, quince días después de que la Secretaría de Hacienda y Crédito Público publique en el Diario Oficial de la Federación el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como el monto, estimados, a que está obligada conforme al artículo 3 de esta Ley, deberán publicar en el Periódico Oficial de la entidad los mismos datos antes referidos, de las participaciones que las entidades reciban y de las que tengan obligación de participar a sus municipios o Demarcaciones Territoriales. También deberán publicar trimestralmente el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación la lista de las entidades que incumplan con esta disposición.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -290,9 +334,9 @@ Cada cuatro meses la Federación realizará un ajuste de las participaciones, ef
 
 A más tardar dentro de los 30 días posteriores a que el Ejecutivo Federal presente la Cuenta Pública del año anterior a la Cámara de Diputados del H. Congreso de la Unión para su revisión, la Federación determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Fondos y formulará de inmediato las liquidaciones que procedan.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-Durante los primeros cinco meses de cada ejercicio, las participaciones en el Fondo General de Participaciones a que se refiere la fracción II del artículo 2o., así como las que se establecen en los artículos 2o.-A, fracciones I y III, y 3o.-A de esta Ley, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
+Durante los primeros cinco meses de cada ejercicio, las participaciones en el Fondo General de Participaciones a que se refiere la fórmula del artículo 2o., así como las que se establecen en los artículos 2o.-A, fracciones I y III y 3o.-A de esta Ley, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -322,9 +366,9 @@ Las Entidades y Municipios efectuarán los pagos de las obligaciones garantizada
 
 No estarán sujetas a lo dispuesto en el primer párrafo de este artículo, las compensaciones que se requieran efectuar a las Entidades como consecuencia de ajustes en participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos de las Entidades y de los Municipios y las obligaciones que tengan con la Federación, cuando exista acuerdo entre las partes interesadas o esta ley así lo autorice.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los gobiernos de las Entidades que se hubieren adherido al Sistema Nacional de Coordinación Fiscal podrán celebrar convenios de coordinación en materia de información de finanzas públicas.
+El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los gobiernos de las entidades que se hubieren adherido al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de coordinación en materia contable y de información de finanzas públicas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -456,21 +500,75 @@ La Secretaría de Hacienda y Crédito Público hará la declaratoria de las Enti
 
 Cuando en la legislación de alguna entidad o municipio se establezcan derechos que contravengan lo dispuesto en el artículo que antecede, la Secretaría de Hacienda y Crédito Público hará del conocimiento de la entidad de que se trate la violación específica, para que en un plazo de cinco días manifieste lo que a su derecho convenga. Transcurrido dicho plazo la propia Secretaría, en su caso, emitirá la declaratoria correspondiente, misma que se publicará en el Diario Oficial de la Federación y empezará a regir a partir del día siguiente al de su publicación, quedando sin efectos la coordinación en materia de derechos en esta última fecha. En el caso de que el Estado esté inconforme con esta declaratoria, podrá acudir ante la Suprema Corte de Justicia de la Nación en los términos del artículo 12 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 10-C.
+
+Las entidades adheridas al Sistema Nacional de Coordinación Fiscal, sin que se considere un incumplimiento de los convenios a que se refiere el artículo 10 de esta Ley ni de lo dispuesto en el artículo 41 de la Ley del Impuesto al Valor Agregado, y en adición a los impuestos a que hace referencia el artículo 43 de este último ordenamiento, podrán establecer impuestos locales a la venta o consumo final de los bienes cuya enajenación se encuentre gravada por la Ley del Impuesto Especial sobre Producción y Servicios, siempre que no se trate de bienes cuyo gravamen se encuentre reservado a la Federación, dicha venta o consumo final se realice dentro del territorio de la entidad de que se trate y se cumplan los requisitos siguientes:
+
+I. No se establezcan tratamientos especiales de ningún tipo.
+
+II. La tasa única aplicable sea del 4.5% sobre el precio de enajenación del bien de que se trate.
+
+III. La base no incluya los impuestos al valor agregado ni especial sobre producción y servicios.
+
+IV. El impuesto no sea acreditable contra otros impuestos locales o federales.
+
+V. No se traslade en forma expresa y por separado el impuesto a las personas que adquieran los bienes. El traslado del impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo los oficiales.
+
+VI. El impuesto se cause en el momento en que efectivamente se perciban los ingresos y sobre el monto que de ellos se perciba.
+
+VII. El impuesto no se aplique en dos o más etapas del proceso de comercialización.
+
+VIII. Tratándose de gasolinas y diesel, el monto recaudado se destine exclusivamente a infraestructura vial, rural y urbana; hidráulica: así como a programas ambientales, entre otros, de movilidad urbana.
+
+Las entidades podrán convenir con el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que los impuestos locales que en términos de este artículo, en su caso, establezca la entidad, se paguen en las mismas declaraciones del impuesto sobre la renta identificados por entidad.
+
+Los municipios recibirán como mínimo el 20% de la recaudación que corresponda a las entidades federativas en términos de este artículo. Tratándose del Distrito Federal, la distribución de dichos recursos se efectuará a sus demarcaciones territoriales.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 10-D.
+
+Para los efectos de lo previsto en el artículo 10-C de esta Ley, se estará a lo siguiente:
+
+I. Serán aplicables las definiciones establecidas en la Ley del Impuesto Especial sobre Producción y Servicios.
+
+II. Salvo que se trate de gasolina y diesel, se considerará que la venta o consumo final de los bienes se efectúa en el territorio de una entidad cuando en el mismo se realice la entrega de los mismos por parte del productor, envasador, distribuidor o importador, según sea el caso, para su posterior venta al público en general o consumo.
+
+Tratándose de gasolina y diesel se considerará que la venta final se lleva a cabo en el territorio de una entidad cuando en el mismo se realice la entrega al consumidor final, con independencia del domicilio fiscal del contribuyente o del consumidor.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 10-E.
+
+Las entidades que estén adheridas al Sistema Nacional de Coordinación Fiscal deberán llevar un registro estatal vehicular, que se integrará con los datos de los vehículos que los contribuyentes inscriban o registren en la circunscripción territorial de cada entidad.
+
+Los datos de los vehículos y de los contribuyentes que deberá contener el registro estatal vehicular serán:
+
+I. El número de identificación vehicular.
+
+II. Las características esenciales del vehículo: marca, modelo, año modelo, número de cilindros, origen o procedencia, número de motor, número de chasis y número de placas.
+
+III. El nombre, denominación o razón social, domicilio del propietario y, en su caso, el Registro Federal de Contribuyentes.
+
+Para efecto de intercambio de información, el registro estatal vehicular estará enlazado a los medios o sistemas de la Secretaría de Hacienda y Crédito Público que se determinen mediante disposiciones de carácter general.
+
 ###### ARTICULO 11.
 
 Cuando alguna entidad que se hubiera adherido al Sistema Nacional de Coordinación Fiscal viole lo previsto por los artículos 73 fracción XXIX, 117 fracciones IV a VII y IX o 118 fracción I, de la Constitución Política de los Estados Unidos Mexicanos o falte al cumplimiento del o de los convenios celebrados con la Secretaría de Hacienda y Crédito Público, ésta, oyendo a la entidad afectada y teniendo en cuenta el dictamen técnico que formule la Comisión Permanente de Funcionarios Fiscales, podrá disminuir las participaciones de la entidad en una cantidad equivalente al monto estimado de la recaudación que la misma obtenga o del estímulo fiscal que otorgue, en contravención a dichas disposiciones.
 
 La Secretaría de Hacienda y Crédito Público comunicará esta resolución a la entidad de que se trate, señalando la violación que la motiva, para cuya corrección la entidad contará con un plazo mínimo de tres meses. Si la entidad no efectuara la corrección, se considerará que deja de estar adherida al Sistema Nacional de Coordinación Fiscal. La Secretaría de Hacienda y Crédito Público hará la declaratoria correspondiente, la notificará a la entidad de que se trate y ordenará la publicación de la misma en el "Diario Oficial" de la Federación. Dicha declaratoria surtirá sus efectos 90 días después de su publicación.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-Las cantidades en que se reduzcan las participaciones de una entidad, en los términos de este precepto, incrementarán el Fondo General de Participaciones en el siguiente año, conforme a lo establecido en la fracción I del artículo 2o. de esta Ley.
+Las cantidades en que se reduzcan las participaciones de una entidad, en los términos de este precepto, incrementarán al Fondo General de Participaciones en el siguiente año.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 11-A.
 
-Las personas que resulten afectadas por incumplimiento de las disposiciones del Sistema Nacional de Coordinación Fiscal, de las de coordinación en materia de derechos o de adquisición de inmuebles, podrán presentar en cualquier tiempo recurso de inconformidad ante la Secretaría de Hacienda y Crédito Público.
+Las personas que resulten afectadas por incumplimiento de las disposiciones del Sistema Nacional de Coordinación Fiscal y de las de coordinación en materia de derechos podrán presentar recurso de inconformidad ante la Secretaría de Hacienda y Crédito Público dentro de los cuarenta y cinco días hábiles siguientes a aquél en que haya surtido efectos la notificación del requerimiento o, en su caso, a partir de la fecha de pago de la contribución que corresponda. No procederá la interposición del recurso de inconformidad cuando se refiera a la interpretación directa del texto constitucional.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -496,11 +594,11 @@ III.- El plazo para resolver el recurso será de un mes a partir de la fecha en 
 
 IV.- La resolución podrá ordenar a la Tesorería de la Federación la devolución de las cantidades indebidamente cobradas, con cargo a las participaciones de la entidad. A estas devoluciones les será aplicable lo que al respecto establece el Código Fiscal de la Federación.
 
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-La resolución podrá ser impugnada ante el Tribunal Federal de Justicia Fiscal y Administrativa por los promoventes del recurso.
+La resolución podrá ser impugnada por los promoventes del recurso ante el Tribunal Federal de Justicia Fiscal y Administrativa y por la entidad afectada ante la Suprema Corte de Justicia de la Nación, en los términos establecidos en el artículo 12 de la presente Ley.
 
-Las entidades federativas podrán ocurrir ante la Suprema Corte de Justicia de la Nación, en los términos del artículo 12 de esta Ley.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -550,9 +648,9 @@ La recaudación de los ingresos federales se hará por las oficinas autorizadas 
 
 Cuando la entidad recaude ingresos federales, los concentrará directamente a dicha Secretaría y rendirá cuenta pormenorizada de recaudación. La Secretaría, también directamente, hará el pago a las entidades de las cantidades que les correspondan en el Fondo establecido en el artículo 2o. y pondrá a su disposición la información correspondiente. Se podrá establecer, si existe acuerdo entre las partes interesadas, un procedimiento de compensación permanente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-Las entidades coordinadas con la Federación en materia de tenencia o uso de vehículos o de automóviles nuevos, o en ambos, deberán rendir cuenta comprobada por la totalidad de la recaudación que efectúen de cada uno de estos impuestos.
+Las entidades coordinadas con la Federación en materia de automóviles nuevos, deberán rendir cuenta comprobada por la totalidad de la recaudación que efectúen de cada uno de estos impuestos.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -771,6 +869,44 @@ a).- Las ampliaciones presupuestarias que en el transcurso de ese mismo ejercici
 b).- El importe que, en su caso, resulte de aplicar en el ejercicio que se presupueste las medidas autorizadas con cargo a las citadas Previsiones derivadas del ejercicio anterior; y
 
 c).- La actualización que se determine para el ejercicio que se presupueste de los gastos de operación, distintos de los servicios personales y de mantenimiento, correspondientes al Registro Común de Escuelas.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+Sin perjuicio de la forma y variables utilizadas para la determinación del Fondo de Aportaciones para la Educación Básica y Normal, la distribución de la totalidad de dicho Fondo se realizará cada año a nivel nacional entre los estados, de acuerdo con la siguiente fórmula:
+
+(VEASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+El coeficiente C1i,t se calculará para cada estado solamente cuando Bi,t sea positivo, de lo contrario será cero. De la misma forma, la sumatoria será solamente sobre aquellos estados para los que Bi,t sea positivo. Ningún estado recibirá, por concepto del 20% del incremento del Fondo de Aportaciones para la Educación Básica y Normal, más recursos de los necesarios para cerrar su brecha de gasto federal por alumno. Es decir, en un año determinado un estado no podrá recibir más de Bi,t por este concepto. De haber un sobrante del citado 20% se repartirá entre todos los estados de acuerdo al segundo coeficiente.
+
+C1i,t, C2i,t, C3i,t y C4i,t son los coeficientes de distribución del Fondo de Aportaciones para la Educación Básica y Normal de la entidad i en el año en que se realiza el cálculo.
+
+Ti,t es la aportación del Fondo a que se refiere este artículo, que corresponde al estado i en el año para el cual se realiza el cálculo y que no podrá ser menor a Ti,t-1 actualizada por la inflación del año inmediato anterior.
+
+Ti,t-1 es la aportación del Fondo a que se refiere este artículo que le correspondió al estado i en el año anterior para el cual se efectúa el cálculo.
+
+FAEBt es el Fondo de Aportaciones para la Educación Básica y Normal a nivel nacional determinado en el Presupuesto de Egresos de la Federación del año para el cual se efectúa el cálculo.
+
+FAEBt-1 es el Fondo de Aportaciones para la Educación Básica y Normal a nivel nacional en el año anterior para el cual se efectúa el cálculo.
+
+Mi,t-1 es la matrícula pública de educación básica que determine la Secretaría de Educación Pública para el estado i en el año anterior para el cual se efectúa el cálculo.
+
+MN,t-1 es la matrícula pública nacional de educación básica que determine la Secretaría de Educación Pública en el año anterior para el cual se efectúa el cálculo.
+
+ICi,t es el índice de calidad educativa que determine la Secretaría de Educación Pública para el estado i en el año t.
+
+Gi,t es el gasto estatal en educación básica del estado i en el año t, que determine la Secretaría de Educación Pública.
+
+(VEASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+En caso de que después de aplicar la fórmula anterior haya sobrantes en el fondo, éstos se distribuirán entre todos los estados de acuerdo a su proporción de matrícula pública como porcentaje del total nacional; es decir, de acuerdo al segundo coeficiente de la fórmula.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+La fórmula del Fondo de Aportaciones para la Educación Básica y Normal no será aplicable en el evento de que en el año que se calcula el monto de dicho fondo éste sea inferior al obtenido en el año inmediato anterior. En dicho supuesto, la distribución se realizará en relación con la cantidad efectivamente generada en el año que se calcula y de acuerdo al coeficiente efectivo que cada estado haya recibido del Fondo de Aportaciones para la Educación Básica y Normal en el año inmediato anterior.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1018,11 +1154,11 @@ Al efecto, los Gobiernos Estatales y del Distrito Federal deberán publicar en s
 
 Para efectos del entero a que se refiere el párrafo anterior no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 37.
 
-Las aportaciones federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, reciban los Municipios a través de los Estados, y las Demarcaciones Territoriales por conducto del Distrito Federal, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los Municipios y las Demarcaciones Territoriales del Distrito Federal tendrán las mismas obligaciones a que se refieren las fracciones I y III del artículo 33 de esta Ley.
+Las aportaciones federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, reciban los municipios a través de las entidades y las Demarcaciones Territoriales por conducto del Distrito Federal, se destinarán a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras, al pago de derechos y aprovechamientos por concepto de agua y a la atención de las necesidades directamente vinculadas con la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los municipios y las Demarcaciones Territoriales del Distrito Federal tendrán las mismas obligaciones a que se refieren las fracciones I y III del artículo 33 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -1086,9 +1222,9 @@ El Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrit
 
 En el Presupuesto de Egresos de la Federación de cada ejercicio fiscal se hará la distribución de los recursos federales que integran este Fondo entre los distintos rubros de gasto del Sistema Nacional de Seguridad Pública aprobados por el Consejo Nacional de Seguridad Pública.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
-El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, entregará a las Entidades Federativas el Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal con base en los criterios que el Consejo Nacional de Seguridad Pública determine, a propuesta de la Secretaría de Seguridad Pública, utilizando para la distribución de los recursos, criterios que incorporen el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la implementación de programas de prevención del delito; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada Estado y el Distrito Federal, deberá publicarse en el Diario Oficial de la Federación a más tardar a los 30 días naturales siguientes a la publicación en dicho Diario del Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate. Los convenios celebrados entre las partes integrantes del Sistema Nacional y los anexos técnicos, deberán firmarse en un término no mayor a sesenta días contados a partir de la publicación de la información antes mencionada.
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, entregará a las entidades el Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal con base en los criterios que el Consejo Nacional de Seguridad Pública determine, a propuesta de la Secretaría de Seguridad Pública, utilizando para la distribución de los recursos, criterios que incorporen el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la implementación de programas de prevención del delito; los recursos destinados a apoyar las acciones que en materia de seguridad pública desarrollen los municipios, y el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada Estado y el Distrito Federal, deberá publicarse en el Diario Oficial de la Federación a más tardar a los 30 días naturales siguientes a la publicación en dicho Diario del Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate. Los convenios celebrados entre las partes integrantes del Sistema Nacional y los anexos técnicos, deberán firmarse en un término no mayor a sesenta días contados a partir de la publicación de la información antes mencionada.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1130,7 +1266,15 @@ Los Estados y el Distrito Federal proporcionarán al Ejecutivo Federal, por cond
 
 El Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas se determinará anualmente en el Presupuesto de Egresos de la Federación correspondiente con recursos federales por un monto equivalente al 1.40 por ciento de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley.
 
-Los montos de este fondo se enterarán mensualmente por la Secretaría de Hacienda y Crédito Público a los Estados y al Distrito Federal de manera ágil y directa, de acuerdo con el porcentaje que le corresponda a cada entidad federativa conforme a la distribución de dicho Fondo en el Presupuesto de Egresos de la Federación del ejercicio fiscal inmediato anterior.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+Los montos del fondo a que se refiere este artículo se enterarán mensualmente por la Secretaría de Hacienda y Crédito Público a los Estados y al Distrito Federal de manera ágil y directa, de acuerdo con la fórmula siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+La fórmula anterior no será aplicable en el evento de que en el año de cálculo el monto del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas sea inferior al observado en el año 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada entidad haya recibido de dicho Fondo en el año 2007.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1170,11 +1314,13 @@ La Secretaría de Hacienda y Crédito Público incluirá los reportes señalados
 
 Los Estados, el Distrito Federal, los Municipios y las Demarcaciones Territoriales del Distrito Federal, publicarán los informes a que se refiere el párrafo primero de este artículo en los órganos locales oficiales de difusión y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de Internet o de otros medios locales de difusión, a más tardar a los 5 días hábiles posteriores a la fecha señalada en el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 49.
+
+Las aportaciones y sus accesorios que con cargo a los Fondos a que se refiere este Capítulo reciban las entidades y, en su caso, los municipios y las Demarcaciones Territoriales del Distrito Federal, no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarse a mecanismos de fuente de pago, salvo por lo dispuesto en los artículos 50 y 51 de esta Ley. Dichas aportaciones y sus accesorios, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42, 45 y 47 de esta Ley.
+
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-###### ARTÍCULO 49.
-
-Las aportaciones y sus accesorios que con cargo a los Fondos a que se refiere este Capítulo reciban las Entidades Federativas y, en su caso, los Municipios y las Demarcaciones Territoriales del Distrito Federal, no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarse a mecanismos de fuente de pago, salvo por lo dispuesto en el artículo 50 de esta Ley. Dichas aportaciones y sus accesorios en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42, 45 y 47 de esta Ley.
 
 Las aportaciones federales serán administradas y ejercidas por los gobiernos de las Entidades Federativas y, en su caso, de los Municipios y las Demarcaciones Territoriales del Distrito Federal que las reciban, conforme a sus propias leyes. Por tanto, deberán registrarlas como ingresos propios que deberán destinarse específicamente a los fines establecidos en los artículos citados en el párrafo anterior.
 
@@ -1182,7 +1328,11 @@ Las aportaciones federales serán administradas y ejercidas por los gobiernos de
 
 El control, la evaluación y fiscalización del manejo de los recursos federales a que se refiere este Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
 
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
 I.- Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las Entidades Federativas, corresponderá a la Secretaría de la Función Pública;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 II.- Recibidos los recursos de los fondos de que se trate por las Entidades Federativas, los Municipios y las Demarcaciones Territoriales del Distrito Federal, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna de los gobiernos locales.
 
@@ -1200,9 +1350,15 @@ IV.- La Auditoría Superior de la Federación de la Cámara de Diputados del Con
 
 V.- El ejercicio de los recursos a que se refiere el presente capítulo deberá sujetarse a la evaluación del desempeño a que se refiere el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Los resultados del ejercicio de dichos recursos deberán ser evaluados, con base en indicadores, por instancias técnicas independientes de las instituciones que los ejerzan, designadas por las entidades, a fin de verificar el cumplimiento de los objetivos a los que se encuentran destinados los Fondos de Aportaciones Federales conforme a la presente Ley. Los resultados de las evaluaciones deberán ser informados en los términos del artículo 48 de la presente Ley.
 
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
 Cuando las autoridades de las Entidades Federativas, de los Municipios o de las Demarcaciones Territoriales del Distrito Federal, que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo del conocimiento de la Secretaría de la Función Pública en forma inmediata.
 
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
 Por su parte, cuando la Contaduría Mayor de Hacienda o el órgano equivalente del Poder Legislativo local, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos federales o locales por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas por las autoridades federales o locales, según corresponda conforme a las etapas a que se refiere este artículo, de conformidad con sus propias legislaciones.
 
@@ -1216,9 +1372,25 @@ Los financiamientos que den origen a las obligaciones a que hace referencia el p
 
 Las Entidades Federativas y los Municipios que contraigan obligaciones al amparo de este artículo, no podrán destinar más del 25% de los recursos que anualmente les correspondan por concepto de los fondos a que se refiere el párrafo anterior, para servir dichas obligaciones.
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
+
 Las obligaciones de los Municipios a que se refiere el segundo párrafo de este artículo se inscribirán en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, cuando cuenten con la garantía del Gobierno del Estado respectivo, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes aportaciones con cargo al Fondo a que se refiere el artículo 25, fracción III, de esta Ley, para responder a sus compromisos.
 
 Las Entidades Federativas y Municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les correspondan de los Fondos a que el mismo se refiere, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos, en su caso, en las leyes estatales de deuda.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 51.
+
+Las aportaciones que con cargo al Fondo a que se refiere el artículo 25, fracción IV de esta Ley correspondan a los municipios y a las Demarcaciones Territoriales del Distrito Federal podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua, cuando así lo dispongan las leyes locales y de conformidad con lo dispuesto en este artículo.
+
+En caso de incumplimiento por parte de los municipios o de las Demarcaciones Territoriales del Distrito Federal a sus obligaciones de pago de derechos y aprovechamientos por concepto de agua, la Comisión Nacional del Agua podrá solicitar al gobierno local correspondiente, previa acreditación del incumplimiento, la retención y pago del adeudo con cargo a los recursos del Fondo mencionado en el párrafo anterior que correspondan al municipio o Demarcación Territorial de que se trate, conforme a lo dispuesto por el artículo 36 de esta Ley. La Comisión Nacional del Agua sólo podrá solicitar la retención y pago señalados cuando el adeudo tenga una antigüedad mayor de 90 días naturales.
+
+Lo previsto en el párrafo anterior, será aplicable aun y cuando el servicio de suministro de agua no sea proporcionado directamente por la Comisión Nacional del Agua, sino a través de organismos prestadores del servicio.
+
+La Comisión Nacional del Agua podrá ceder, afectar y en términos generales transferir los recursos derivados de la retención a que se refiere este artículo a fideicomisos u otros mecanismos de fuente de pago o de garantía constituidos para el financiamiento de infraestructura prioritaria en las materias de abastecimiento de agua potable, drenaje o saneamiento de aguas residuales.
 
 ## TRANSITORIOS
 
@@ -1726,13 +1898,47 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
 
+D.O.F. 21 DE DICIEMBRE DE 2007.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DE COORDINACIÓN FISCAL
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos de las modificaciones a la Ley de Coordinación Fiscal previstas en el artículo anterior se estará a lo siguiente:
+
+I. La reforma a los artículos 2o., cuarto párrafo, 6o. tercer párrafo, y 15, tercer párrafo; la adición del artículo 10-E, y la derogación del artículo 2o., noveno párrafo, de la Ley de Coordinación Fiscal, por lo que respecta al impuesto sobre tenencia o uso de vehículos, entrarán en vigor el 1o. de enero de 2012.
+
+Las entidades en las que, de conformidad con el artículo cuarto de este Decreto, se suspenda el cobro del impuesto sobre tenencia o uso de vehículos, no estarán sujetas a lo dispuesto por el artículo 2o., noveno párrafo de la Ley de Coordinación Fiscal vigente hasta el 31 de diciembre de 2011. Sin perjuicio de lo anterior deberán cumplir con sus obligaciones en materia de registro estatal de vehículos en términos del artículo 16-A de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, vigente hasta el 31 de diciembre de 2011 y demás disposiciones aplicables.
+
+II. La Comisión Nacional del Agua sólo podrá solicitar la retención a que se refiere el artículo 51 que se adiciona a la Ley de Coordinación Fiscal para el cobro de adeudos que se generen a partir del 1 de enero de 2008.
+
+Sin perjuicio de lo señalado en el párrafo anterior y de conformidad con las reglas que al efecto emita la Secretaría de Hacienda y Crédito Público, la Comisión Nacional del Agua podrá aplicar los pagos corrientes que reciba de los municipios o Demarcaciones Territoriales por concepto de derechos y aprovechamientos de agua, a la disminución de adeudos históricos que registren tales conceptos al cierre del mes de diciembre de 2007. Lo anterior, siempre y cuando las entidades a las que pertenezcan los municipios o Demarcaciones Territoriales contemplen en su legislación local el destino y afectación de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal para el pago de dichos derechos o aprovechamientos, en términos de lo previsto en el artículo 51 de la Ley de Coordinación Fiscal.
+
+III. El artículo 4o.-A de la Ley de Coordinación Fiscal entrará en vigor a los quince días naturales siguientes a la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Las entidades federativas que celebren los convenios de coordinación a que se refiere el artículo 4o.-A, fracción I de la Ley de Coordinación Fiscal, dentro de los 30 días naturales siguientes a la fecha de entrada en vigor de dicha fracción, recibirán los recursos previstos en el mismo desde el inicio de la aplicación de las cuotas correspondientes y, en caso contrario, sobre la recaudación obtenida a partir del mes siguiente a aquél en que se celebre el convenio de coordinación.
+
+El 1o. de enero de 2012, quedará derogada la fracción I del artículo 4o.-A de la Ley de Coordinación Fiscal. A partir de esa fecha, las cuotas federales aplicables a la venta final de gasolina y diesel, previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se disminuirán en 9/11. El remanente de 2/11 se destinará al Fondo de Compensación a que se refiere la fracción II del primer artículo mencionado.
+
+IV. Hasta en tanto la Secretaría de Educación Pública determine el índice de calidad educativa a que se refiere la variable ICi,t contenida en el artículo 27 de esta Ley, el porcentaje asignado a este coeficiente se adicionará al coeficiente de la matrícula.
+
+A partir de la entrada en vigor de este Decreto, la Auditoría Superior de la Federación, en coordinación con la Secretaría de la Función Pública y la Secretaría de Educación Pública, así como con los órganos de fiscalización competentes de las entidades federativas, deberá practicar auditorías al ejercicio de los recursos del Fondo de Aportaciones para la Educación Básica y Normal correspondientes al año 2007. Asimismo, la Auditoría Superior de la Federación auditará a la Secretaría de Educación Pública en relación con el ejercicio de los citados recursos. En ambos casos se entregará un informe en un plazo máximo de 6 meses, contados a partir de la entrada en vigor de este Decreto, en el que se contendrán las medidas a adoptar.
+
+V. El Ejecutivo Federal deberá diseñar un programa para la regularización de los adeudos que tengan con la Federación, las entidades federativas, municipios y demarcaciones territoriales en el caso del Distrito Federal, incluyendo sus organismos descentralizados, por concepto de impuesto sobre la renta a cargo de sus trabajadores.
+
+Dicho programa deberá incluir la regularización de los adeudos que tenga la Federación con las entidades federativas y sus municipios, incluyendo sus organismos descentralizados.
+
+El programa deberá considerar un finiquito de adeudo entre los 3 niveles de gobierno referidos.
+
+VI. El impuesto sobre adquisición de inmuebles no computará para efectos del cálculo de los dos coeficientes asociados a la recaudación local, contenidos en la fórmula de distribución del Fondo General de Participaciones prevista en el artículo 2o. de esta Ley, hasta en tanto la Comisión Permanente de Funcionarios Fiscales no determine que existe información certera y verificable en relación con dicha contribución.
+
+VII. El Instituto Nacional de Estadística, Geografía e Informática, a más tardar a los 60 días contados a partir de la entrada en vigor de este Decreto, deberá notificar a la Cámara de Diputados del Congreso de la Unión, la metodología a utilizar para estimar los niveles de población por entidad federativa. Dicho Instituto deberá rendir un informe trimestral a dicha Cámara, elaborado conforme a dicha metodología sobre el comportamiento y resultados obtenidos al respecto.
+
+VIII. La Secretaría de Hacienda y Crédito Público evaluará la política de homologación de precios de las gasolinas y diesel aplicada en la franja fronteriza norte tomando en consideración los parámetros y la estructura tributaria vigentes.
+
 ## TRANSITORIO
 
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 3 DE DICIEMBRE DE 1993.
-
-DISPOSICION TRANSITORIA
+ÚNICO.- El presente Decreto entrará en vigor el 1 de enero de 2008, salvo por lo que respecta a los artículos Segundo, fracción III y Sexto del mismo, los cuales iniciarán su vigencia a los quince días siguientes a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
 
 ## TRANSITORIO
 
