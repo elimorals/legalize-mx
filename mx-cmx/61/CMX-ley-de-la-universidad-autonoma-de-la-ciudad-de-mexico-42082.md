@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-universidad-autonoma-de-la-ciudad-de-mexico-42082"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-05"
-last_updated: "2005-01-05"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42082&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-12-29"
 
 LEY DE LA UNIVERSIDAD AUTONOMA DE LA CIUDAD DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 5 de enero de 2005.
 
@@ -122,7 +122,9 @@ II. El ingreso de los estudiantes a la Universidad estará sujeto a procedimient
 
 III. El ingreso a los programas de docencia de la Universidad que conducen a títulos o grados tendrá como requisitos generales, que el interesado cuente con el certificado de estudios del tipo o nivel anterior al que desee ingresar y que la institución disponga de los recursos necesarios para atenderlo en alguna de sus modalidades de docencia;
 
-IV. Concebida como una institución de servicio, la Universidad brindará a los estudiantes los apoyos académicos necesarios para que tengan éxito en sus estudios. Uno de estos apoyos será un diagnóstico de las condiciones de preparación académica con las cuales los inician, y la indicación acerca de cómo subsanar sus deficiencias;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+IV. Concebida como una institución de servicio, la Universidad brindará a los estudiantes los apoyos académicos necesarios para que tengan éxito en sus estudios. Uno de estos apoyos será un diagnóstico de las condiciones de preparación académica con las cuales los inician, y la indicación acerca de cómo subsanar sus deficiencias; y otro será establecer bibliotecas y audiotecas, las cuales deberán contar con libros de consulta en sistema braille;
 
 V. Todo estudiante de la Universidad podrá inscribirse en cualquier curso que en ella se imparta con dos únicas condiciones: a) que demuestre, de conformidad con los reglamentos aplicables, poseer los conocimientos previos que dicho curso supone y b) que haya cupo en el momento de inscribirse;
 
@@ -423,3 +425,11 @@ Undécimo. Publíquese el presente decreto de Ley en la Gaceta Oficial del Gobie
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciséis días del mes de diciembre del año dos mil cuatro.- POR LA MESA DIRECTIVA.- DIP. SILVIA OLIVA FRAGOSO, PRESIDENTA.- DIP. MIGUEL ÁNGEL SOLARES CHÁVEZ, SECRETARIO.- DIP. CHRISTIAN MARTÍN LUJANO NICOLÁS, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintinueve días del mes de diciembre del dos mil cuatro. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 21 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Remítase al Jefe de Gobierno para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión también en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
