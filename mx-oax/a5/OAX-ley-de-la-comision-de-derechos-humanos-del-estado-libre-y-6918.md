@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-comision-de-derechos-humanos-del-estado-libre-y-6918"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-28"
-last_updated: "1993-10-02"
+last_updated: "2007-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA, PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 28 de enero de 1993.
 
@@ -596,3 +598,25 @@ Al C.....
 P.O. 2 DE OCTUBRE DE 1993.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. DE 21 DE DICIEMBRE DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de la Comisión de Derechos Humanos de fecha 27 de enero de 1993, publicada en el Periódico Oficial del Gobierno del Estado de fecha 28 de enero del mismo año, y se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO.- El nuevo Reglamento Interior de la Comisión para la Defensa de los Derechos Humanos será expedido por su Consejo dentro de los seis meses siguientes de la entrada en vigor de esta Ley, y deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+CUARTO.- Para el nombramiento del Presidente de la Comisión y su Consejo, el Congreso contará con el término de sesenta días a partir del día siguiente a la publicación de esta Ley. Para tal efecto, la Comisión Permanente de Derechos Humanos del Congreso del Estado, deberá emitir la convocatoria respectiva, en términos del artículo 11 fracción I de esta Ley.
+
+QUINTO.- El patrimonio de la Comisión Estatal de Derechos Humanos, pasará a formar parte de la Comisión para la Defensa de los Derechos Humanos del Estado Libre y Soberano de Oaxaca.
+
+SEXTO.- Todos los expedientes y asuntos que se encuentren en trámite en la Comisión Estatal de Derechos Humanos, se desahogarán hasta su conclusión, conforme a la Ley de la Comisión Estatal de Derechos Humanos.
+
+SÉPTIMO.- Todas las disposiciones legales, administrativas o resoluciones expedidas; así como los contratos, convenios o actos celebrados con anterioridad a la vigencia de la presente ley, en la que se haga referencia a la Comisión Estatal de Derechos Humanos, se entenderán referidas a la Comisión para la Defensa de los Derechos Humanos para el Estado Libre y Soberano de Oaxaca.
+
+OCTAVO.- El personal que labora en la Comisión Estatal de Derechos Humanos, pasará a formar parte de la Comisión para la Defensa de los Derechos Humanos del Estado Libre y Soberano de Oaxaca.
+
+NOVENO.- Los integrantes de la Comisión Estatal de Derechos Humanos, seguirán desempeñando sus funciones, hasta en tanto se elija al Presidente de la Comisión para la Defensa de los Derechos Humanos del Estado libre y Soberano de Oaxaca.
+
+DÉCIMO.- Lo dispuesto por la fracción VI del artículo 10 de esta Ley, no es aplicable para la elección actual del Presidente y Consejeros de la Comisión.
