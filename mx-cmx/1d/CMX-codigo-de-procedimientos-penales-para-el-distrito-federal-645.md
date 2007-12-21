@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2007-12-20"
+last_updated: "2007-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE DICIEMBRE DE 2007.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -96,7 +96,7 @@ VII. Pedir la libertad del detenido cuando ésta proceda.
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2004)</small>
 
-###### Artículo 3º Bis.
+###### ARTICULO 3º Bis.
 
 En las averiguaciones previas en que se demuestre plenamente que el inculpado actuó en circunstancias que excluyen la responsabilidad penal, se actuará de conformidad con lo siguiente:
 
@@ -998,13 +998,11 @@ Los médicos darán aviso al Ministerio Público o al juez, tan luego como advie
 
 (REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-ARTICULO 109 bis.- La exploración y atención médica psiquiátrica, ginecológica o cualquiera otra que se practique a la víctima de un delito que atente contra la libertad y el normal desarrollo psicosexual, estará a cargo de persona facultativa de su mismo sexo, salvo cuando la víctima del delito sexual o su representante legal solicite lo contrario.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
 ###### ARTICULO 109 Bis.
 
-Cuando la víctima de delito sexual o su representante legal lo solicite, la exploración y atención médica, psíquica, ginecológica o cualquiera otra que se le practique, estará a cargo de personal facultativo del sexo femenino.
+La exploración y atención médica psiquiátrica, ginecológica o cualquiera otra que se practique a la víctima de un delito que atente contra la libertad y el normal desarrollo psicosexual, estará a cargo de persona facultativa de su mismo sexo, salvo cuando la víctima del delito sexual o su representante legal solicite lo contrario.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 110.
 
@@ -1224,7 +1222,9 @@ Las órdenes de arresto se entregarán a la Secretaría de Seguridad Pública de
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
-ARTICULO 133 bis.- Se concederá al inculpado la libertad sin caución alguna, por el Ministerio Público, o por el Juez, cuando el término medio aritmético de la pena de prisión no exceda de tres años, siempre que:
+###### ARTICULO 133 Bis.
+
+Se concederá al inculpado la libertad sin caución alguna, por el Ministerio Público, o por el Juez, cuando el término medio aritmético de la pena de prisión no exceda de tres años, siempre que:
 
 I.- No exista riesgo fundado de que pueda sustraerse a la acción de la justicia;
 
@@ -2282,7 +2282,9 @@ f) Que se le reciban los testigos y las demás pruebas que ofrezca, las cuales s
 
 Cuando no sea posible el desahogo de pruebas, ofrecidas por el inculpado y su defensor, el juzgador resolverá en su oportunidad, sobre la admisión y práctica de las mismas; y
 
-g) Que se le conceda, inmediatamente que lo solicite, su libertad provisional bajo caución, conforme a lo dispuesto por la fracción I del artículo 20 de la Constitución Federal, y en los términos del artículo 556 de este Código.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+g) Que se le conceda, inmediatamente que lo solicite, su libertad provisional bajo caución conforme a lo dispuesto por la fracción I del artículo 20 de la Constitución Federal, y en los términos de los artículos 556 y 556 Bis de este Código.
 
 Para los efectos de los incisos b), c) y d) se le permitirá al indiciado comunicarse con las personas que solicite, utilizando el teléfono o cualquier otro medio de que se disponga, o personalmente si se hallaren presentes; y
 
@@ -2308,9 +2310,9 @@ Antes de trasladar al probable responsable al reclusorio preventivo, se le ident
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
-###### ARTICULO 270
+###### ARTICULO 270 Bis.
 
-Bis.- Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, pero no excederá de treinta días, prorrogables por otros treinta días, a solicitud del Ministerio Público.
+Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, pero no excederá de treinta días, prorrogables por otros treinta días, a solicitud del Ministerio Público.
 
 El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
 
@@ -2454,13 +2456,9 @@ Los mismos servidores asentarán también en dicha acta todas las observaciones 
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
-ARTICULO 285 bis.- En la averiguación previa en contra de alguna persona que no hable o no entienda suficientemente el idioma castellano, se le nombrará un traductor desde el primer día de su detención, o presentación, quien deberá asistirla en todos los actos procedimentales sucesivos en los que debe intervenir el indiciado y en la correcta comunicación que haya de tener con su defensor.
-
-El juez, en su caso, de oficio o a petición de parte, verificará que perdure ese canal de comunicación; y si lo estimare prudente, podrá nombrar el traductor que mejore dicha comunicación.
-
 ###### ARTICULO 285 Bis.
 
-En la averiguación previa en contra de alguna persona que no hable o no entienda suficientemente el idioma castellano, se le nombrará un traductor desde el primer día de su detención, quien deberá asistirla en todos los actos procedimentales sucesivos en los que debe intervenir el inculpado y en la correcta comunicación que haya de tener con su defensor.
+En la averiguación previa en contra de alguna persona que no hable o no entienda suficientemente el idioma castellano, se le nombrará un traductor desde el primer día de su detención, o presentación, quien deberá asistirla en todos los actos procedimentales sucesivos en los que debe intervenir el indiciado y en la correcta comunicación que haya de tener con su defensor.
 
 El juez, en su caso, de oficio o a petición de parte, verificará que perdure ese canal de comunicación; y si lo estimare prudente, podrá nombrar el traductor que mejore dicha comunicación.
 
@@ -2470,7 +2468,9 @@ Las diligencias practicadas por el Ministerio Público y por la Policía Judicia
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 1999)</small>
 
-ARTICULO 286 bis.- Cuando aparezca de la averiguación previa que existe denuncia o querella, que se han reunido los requisitos previos que en su caso exijan la ley y que se ha acreditado la existencia del cuerpo del delito y la probable responsabilidad del indiciado, el Ministerio Público ejercitará la acción penal ante el órgano jurisdiccional que corresponda.
+###### ARTICULO 286 Bis.
+
+Cuando aparezca de la averiguación previa que existe denuncia o querella, que se han reunido los requisitos previos que en su caso exijan la ley y que se ha acreditado la existencia del cuerpo del delito y la probable responsabilidad del indiciado, el Ministerio Público ejercitará la acción penal ante el órgano jurisdiccional que corresponda.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2491,16 +2491,6 @@ El juez ordenará o negará la aprehensión o comparecencia solicitada por el Mi
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 Tratándose de consignación sin detenido por delito grave o delincuencia organizada, inmediatamente debe radicarse el asunto, y dentro de los seis días siguientes la autoridad resolverá sobre el pedimento de la orden de aprehensión. Si el juez no resuelve oportunamente sobre estos puntos el Ministerio Público procederá en los términos previstos en el cuarto párrafo de este artículo.
-
-###### ARTICULO 286 Bis.
-
-Cuando aparezca de la averiguación previa que existe denuncia o querella, que se han reunido los requisitos previos que en su caso exija la ley y que se han comprobado el cuerpo del delito y la probable responsabilidad del inculpado, el Ministerio Público ejercitará la acción penal ante el órgano jurisdiccional que corresponda.
-
-El juzgado ante el cual se ejercite la acción penal, radicará de inmediato el asunto. Sin más trámite le abrirá expediente en el que se resolverá lo que legalmente corresponda y practicará, sin demora alguna, todas las diligencias que resulten procedentes.
-
-Si durante el plazo de diez días, contados a partir del en que se haya hecho la consignación, el juez no dicta auto de radicación en el asunto, el Ministerio Público podrá recurrir en queja ante la Sala Penal del Tribunal Superior que corresponda.
-
-El Juez ordenará o negará la aprehensión, reaprehensión o comparecencia solicitada por el Ministerio Público dentro de los quince días contados a partir del en que se haya acordado la radicación. Si no resuelve oportunamente sobre este punto, el Ministerio Público procederá en los términos previstos en la parte final del párrafo anterior.
 
 ### CAPITULO I. Declaración preparatoria del inculpado y nombramiento de defensor
 
@@ -2574,7 +2564,9 @@ Si el inculpado tuviere varios defensores, estará obligado a nombrar un represe
 
 > <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
-ARTICULO 296 bis.- Durante la instrucción, el tribunal que conozca del proceso deberá tomar en cuenta las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse; así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión, que en su conjunto demuestren la gravedad del ilícito y el grado de culpabilidad del agente.
+###### ARTICULO 296 Bis.
+
+Durante la instrucción, el tribunal que conozca del proceso deberá tomar en cuenta las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse; así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión, que en su conjunto demuestren la gravedad del ilícito y el grado de culpabilidad del agente.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -3634,7 +3626,9 @@ Cuando el Tribunal notare que el defensor hubiere faltado a sus deberes, no inte
 
 > <small>(ADICIONADO, G.O. 28 DE ENERO DE 2005)</small>
 
-ARTICULO 434 bis.- La resolución que dicte la Sala en los recursos de apelación tendrá alcance extensivo y operará sólo cuando así lo declare la sala en una causa en la que existan varios inculpados o sentenciados y uno o varios de ellos interpusieren recurso de apelación, si la sentencia es favorable, ésta surtirá los mismos efectos para los demás, siempre que se trate de los mismos hechos y las constancias así lo indiquen, tratándose de los siguientes casos: a) Por la incomprobación del cuerpo del delito; b) Por tipificación de los hechos en figura diversa a aquella por la que se decretó la formal prisión o sujeción a proceso, o por acreditación de alguna otra modalidad que favorezca la situación jurídica de los inculpados; c) Por cualquier causa de extinción de la pretensión punitiva o de la facultad para ejecutar las penas o medidas de seguridad, que no opere únicamente en beneficio del recurrente; o d) Cuando por determinación del monto del daño causado o del lucro obtenido, opere la reducción de sanciones. No podrá surtir efectos extensivos la resolución que se dicte en el recurso, respecto de aquellos que se haya determinado su situación jurídica en sentencia ejecutada.
+###### ARTICULO 434 Bis.
+
+La resolución que dicte la Sala en los recursos de apelación tendrá alcance extensivo y operará sólo cuando así lo declare la sala en una causa en la que existan varios inculpados o sentenciados y uno o varios de ellos interpusieren recurso de apelación, si la sentencia es favorable, ésta surtirá los mismos efectos para los demás, siempre que se trate de los mismos hechos y las constancias así lo indiquen, tratándose de los siguientes casos: a) Por la incomprobación del cuerpo del delito; b) Por tipificación de los hechos en figura diversa a aquella por la que se decretó la formal prisión o sujeción a proceso, o por acreditación de alguna otra modalidad que favorezca la situación jurídica de los inculpados; c) Por cualquier causa de extinción de la pretensión punitiva o de la facultad para ejecutar las penas o medidas de seguridad, que no opere únicamente en beneficio del recurrente; o d) Cuando por determinación del monto del daño causado o del lucro obtenido, opere la reducción de sanciones. No podrá surtir efectos extensivos la resolución que se dicte en el recurso, respecto de aquellos que se haya determinado su situación jurídica en sentencia ejecutada.
 
 ### CAPITULO IV. De la denegada apelación
 
@@ -4442,23 +4436,45 @@ III. Que otorgue caución para el cumplimiento de las obligaciones que en térmi
 
 IV. Que no se trate de delitos que por su gravedad estén previstos en el quinto párrafo del artículo 268 de este Código.
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-En caso de delito no grave, el juez podrá negar, a solicitud del Ministerio Público, la libertad provisional del inculpado, cuando éste haya sido condenado con anterioridad por algún delito calificado como grave por la ley o cuando el Ministerio Público aporte elementos al juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+> <small>(DEROGADO TERCER PARRAFO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-Para el efecto de establecer el riesgo para el ofendido o para la sociedad, se entiende por conducta precedente y por circunstancias características del delito cometido, según corresponda, cuando:
+###### ARTICULO 556 Bis.
 
-a). El inculpado haya sido condenado en sentencia ejecutoriada por un delito doloso y del mismo género, siempre y cuando no haya transcurrido el término de la prescripción que señala la ley;
+En caso de delitos no graves, a solicitud del Ministerio Público, el juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
-b). El inculpado esté sujeto a otro u otros procesos penales anteriores por diversos hechos dolosos del mismo género que ameriten pena privativa de libertad;
+Se entenderá que existe riesgo para el ofendido o para la sociedad, por la conducta precedente del inculpado o por las circunstancias y características del delito cometido, según corresponda, cuando:
 
-c). Exista el riesgo fundado de que el inculpado cometa un delito doloso contra la víctima u ofendido, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el procedimiento o algún tercero, si la libertad provisional le es otorgada;
+I. El inculpado, por delito doloso no grave, haya sido previamente condenado por la comisión de delito doloso grave, en sentencia ejecutoriada, siempre y cuando no haya transcurrido el término de la prescripción que señala la ley;
 
-d). El inculpado haya cometido un delito doloso en estado de alteración voluntaria de la conciencia a que se refiere la fracción VII del artículo 138 del Nuevo Código Penal para el Distrito Federal; o
+II. El inculpado esté sujeto a otro u otros procesos penales anteriores por delitos dolosos que ameriten pena privativa de libertad;
 
-e). El inculpado se haya sustraído con anterioridad a la acción de la justicia, impidiendo con ello la continuidad del proceso correspondiente.
+III. Existan elementos probatorios de que el inculpado se sustraerá a la acción de la justicia, si la libertad provisional le es otorgada;
+
+IV. Exista el riesgo fundado de que el inculpado cometa un delito doloso contra la víctima u ofendido, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el procedimiento o algún tercero, si la libertad provisional le es otorgada;
+
+V. El inculpado haya cometido un delito doloso en estado de alteración voluntaria de la conciencia a que se refiere la fracción VII del artículo 138 del Código Penal para el Distrito Federal; o
+
+VI. El inculpado se haya sustraído con anterioridad a la acción de la justicia, impidiendo con ello la continuidad del proceso correspondiente.
+
+El Agente del Ministerio Público, durante el procedimiento de Averiguación Previa, negará la libertad provisional del inculpado cuando se actualice cualquiera de los supuestos previstos en el presente numeral. Para tal efecto, está obligado a realizar las diligencias de investigación para asegurar su cumplimiento.
+
+El Juez de la causa, en todo caso, dará aviso por escrito al Procurador General de Justicia del Distrito Federal cuando se desprenda de autos el incumplimiento de la disposición anterior, por parte del Agente del Ministerio Público.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 556 Ter.
+
+La información que se presente para acreditar los supuestos previstos en el artículo anterior y corra agregada en autos, en ningún caso será considerada por el Juez para determinar el grado de culpabilidad al individualizar las penas y medidas de seguridad, sino en los casos y bajo las condiciones que señale el Código Penal para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 556 Quater.
+
+El Juez o Agente del Ministerio Público revocarán la libertad provisional concedida al procesado o indiciado cuando se actualice cualquiera de los supuestos establecidos en el artículo 556 Bis o el delito se reclasifique como grave.
 
 ###### ARTICULO 557.
 
@@ -5795,3 +5811,9 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+G.O. 21 DE DICIEMBRE DE 2007.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
