@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2007-10-01"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA PRESENTE LEY, ENTRARA EN VIGOR A PARTIR DEL 1 DE ENERO DE 2008.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -126,75 +124,65 @@ A) Comisión, mediación, agencia, representación, correduría, consignación y
 
 B) Realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio nacional. Quedan comprendidos en los juegos con apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar. 20%
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 2o.-A.
 
-La tasa aplicable en cada mes para la enajenación de gasolinas o diesel será la que resulte para cada agencia de ventas de Petróleos Mexicanos y sus organismos subsidiarios conforme a lo siguiente:
+Las personas que enajenen gasolina o diesel en territorio nacional estarán sujetas a las tasas y cuotas siguientes:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+I. La tasa aplicable en cada mes para la enajenación de gasolinas o diesel será la que resulte para cada agencia de ventas de Petróleos Mexicanos y sus organismos subsidiarios conforme a lo siguiente:
 
-I.- El precio de referencia ajustado por calidad, cuando proceda, que se determine para el combustible de que se trate de acuerdo con la fracción VI de este artículo, se adicionará con el costo de manejo y el costo neto de transporte a la agencia de ventas de que se trate en el periodo comprendido del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcule la tasa, sin incluir, en este último caso, el impuesto al valor agregado.
+a) El precio de referencia ajustado por calidad, cuando proceda, que se determine para el combustible de que se trate de acuerdo con el inciso f) de esta fracción, se adicionará con el costo de manejo y el costo neto de transporte a la agencia de ventas de que se trate en el periodo comprendido del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcule la tasa, sin incluir, en este último caso, el impuesto al valor agregado.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+b) Se multiplicará por el factor de 1.0 para las gasolinas y el diesel para uso automotriz, para uso industrial de alto y bajo azufre y para uso en vehículos marinos, el monto que se obtenga de adicionar al margen comercial que haya fijado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el periodo citado, los costos netos de transporte del combustible de la agencia de ventas de que se trate al establecimiento del expendedor incurridos durante dicho periodo, sin incluir, en ambos casos, el impuesto al valor agregado.
 
-II.- Se multiplicará por el factor de 1.0 para las gasolinas y el diesel para uso automotriz, para uso industrial de alto y bajo azufre y para uso en vehículos marinos, el monto que se obtenga de adicionar al margen comercial que haya fijado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el periodo citado, los costos netos de transporte del combustible de la agencia de ventas de que se trate al establecimiento del expendedor incurridos durante dicho periodo, sin incluir, en ambos casos, el impuesto al valor agregado.
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- Se multiplicará por el factor de 0.9091 para las gasolinas y el diesel para uso automotriz, para uso industrial de alto y bajo azufre y para uso en vehículos marinos, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 10%.
+c) Se multiplicará por el factor de 0.9091 para las gasolinas y el diesel para uso automotriz, para uso industrial de alto y bajo azufre y para uso en vehículos marinos, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 10%.
 
 Se multiplicará por el factor de 0.8696 para las gasolinas y el diesel para uso automotriz, para uso industrial de alto y bajo azufre y para uso en vehículos marinos, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 15%.
 
-> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+d) El monto que resulte conforme al inciso c) anterior se disminuirá con las cantidades obtenidas conforme a los incisos a) y b) de esta fracción.
 
-IV.- El monto que resulte conforme a la fracción III se disminuirá con las cantidades obtenidas conforme a las fracciones I y II de este artículo.
+e) La cantidad determinada conforme al inciso d) anterior se dividirá entre el monto que se obtuvo conforme al inciso a) de esta fracción y el resultado se multiplicará por 100. El porcentaje que se obtenga será la tasa aplicable al combustible de que se trate que enajene la agencia correspondiente durante el mes por el que se calcula la tasa.
 
-> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+f) El precio de referencia para cada uno de los combustibles a que se refiere el inciso a) de esta fracción, será el promedio de las cotizaciones del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcula la tasa, convertidas a pesos con el promedio del tipo de cambio de venta del dólar de los Estados Unidos de América que publica el Banco de México en el Diario Oficial de la Federación, como sigue:
 
-V.- La cantidad determinada conforme a la fracción IV se dividirá entre el monto que se obtuvo conforme a la fracción I de este artículo y el resultado se multiplicará por 100. El porcentaje que se obtenga será la tasa aplicable al combustible de que se trate que enajene la agencia correspondiente durante el mes por el que se calcula la tasa.
+1. Gasolinas: el promedio del precio spot de la gasolina regular sin plomo vigente en la Costa del Golfo de los Estados Unidos de América.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+2. Diesel para uso automotriz de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34° API, vigente en la Costa del Golfo de los Estados Unidos de América.
 
-> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+3. Diesel para uso automotriz y diesel para uso industrial de bajo azufre: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
 
-VI.- El precio de referencia para cada uno de los combustibles a que se refiere la fracción I de este artículo, será el promedio de las cotizaciones del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcula la tasa, convertidas a nuevos pesos con el promedio del tipo de cambio de venta del dólar de los Estados Unidos de América que publica el Banco de México en el Diario Oficial de la Federación, como sigue:
+4. Diesel para uso industrial de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34° API, vigente en la Costa del Golfo de los Estados Unidos de América.
 
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+5. Diesel para uso en vehículos marinos en la Costa del Golfo: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34° API, vigente en Houston, Texas, de los Estados Unidos de América.
 
-a).- Gasolinas: el promedio del precio spot de la gasolina regular sin plomo vigente en la Costa del Golfo de los Estados Unidos de América.
+6. Diesel para uso en vehículos marinos de la Costa del Pacífico: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en Los Ángeles, California, de los Estados Unidos de América.
 
-> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
+La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, dará a conocer los elementos para determinar los precios de referencia, los ajustes por calidad, los costos netos de transporte, el margen comercial y el costo de manejo a los expendios autorizados a que se refiere esta fracción. La citada dependencia realizará mensualmente las operaciones aritméticas para calcular las tasas aplicables para cada combustible y en cada agencia de ventas de Petróleos Mexicanos y las publicará en el Diario Oficial de la Federación.
 
-b).- Diesel para uso automotriz de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en la Costa del Golfo de los Estados Unidos de América.
+II. Sin perjuicio de lo previsto en la fracción anterior, se aplicarán las cuotas siguientes a la venta final al público en general en territorio nacional de gasolinas y diesel:
 
-> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
+a) Gasolina Magna 36 centavos por litro.
 
-c).- Diesel para uso automotriz y diesel para uso industrial de bajo azufre: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
+b) Gasolina Premium UBA 43.92 centavos por litro.
 
-> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
+c) Diesel 29.88 centavos por litro.
 
-d).- Diesel para uso industrial de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en la Costa del Golfo de los Estados Unidos de América.
+Petróleos Mexicanos y sus organismos subsidiarios, las estaciones de servicio y demás distribuidores autorizados, que realicen la venta de los combustibles al público en general, trasladarán un monto equivalente al impuesto establecido en esta fracción, pero en ningún caso lo harán en forma expresa y por separado. El traslado del impuesto a quien adquiera gasolina o diesel se deberá incluir en el precio correspondiente.
 
-e).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
+Las cuotas a que se refiere este artículo no computarán para el cálculo del impuesto al valor agregado.
 
-> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
+Para los efectos anteriores, se considerarán estaciones de servicio todos aquellos establecimientos en que se realice la venta al público en general de gasolina y diesel.
 
-f).- Diesel para uso en vehículos marinos en la Costa del Golfo: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en Houston, Texas, de los Estados Unidos de América.
+La aplicación de las cuotas a que se refiere esta fracción se suspenderá parcialmente en el territorio de aquellas entidades federativas que en ejercicio de la facultad prevista en el artículo 10-C de la Ley de Coordinación Fiscal establezcan impuestos locales a la venta final de gasolina y diesel. Dicha suspensión se llevará a cabo en la misma proporción que la tasa del impuesto local, por lo que el remanente seguirá aplicando como impuesto federal. La Secretaría de Hacienda y Crédito Público hará la declaratoria de la suspensión del impuesto mencionado, la cual se publicará en el periódico oficial de la entidad federativa de que se trate y en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
+Los recursos que se recauden en términos de esta fracción, se destinarán a las entidades federativas, municipios y demarcaciones territoriales, conforme a lo establecido en la Ley de Coordinación Fiscal.
 
-g).- Diesel para uso en vehículos marinos de la Costa del Pacífico: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en Los Angeles, California, de los Estados Unidos de América.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, dará a conocer los elementos para determinar los precios de referencia, los ajustes por calidad, los costos netos de transporte, el margen comercial y el costo de manejo a los expendios autorizados a que se refiere este artículo. La citada dependencia realizará mensualmente las operaciones aritméticas para calcular las tasas aplicables para cada combustible y en cada agencia de ventas de Petróleos Mexicanos y las publicará en el Diario Oficial de la Federación.
-
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 2o.-B.
 
-La tasa aplicable para la importación de gasolinas o diesel será la menor de las que resulten para la enajenación del combustible de que se trate en los términos del artículo 2o-A de esta Ley, vigente en el mes en que se realice la importación.
+La tasa aplicable para la importación de gasolinas o diesel será la menor de las que resulten para la enajenación del combustible de que se trate en los términos del artículo 2o-A, fracción I de esta Ley, vigente en el mes en que se realice la importación.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
@@ -404,9 +392,11 @@ Para los efectos de esta Ley, también se considera enajenación de los bienes a
 
 Igualmente, se considera enajenación de los bienes a que hace referencia el inciso C) de la fracción I del artículo 2o. de esta Ley, el retiro del lugar en el que se fabricaron o, en su caso, del almacén del contribuyente, cuando los mismos no se destinen a su comercialización y se encuentren empaquetados en cajas o cajetillas. En este caso, el impuesto se pagará a más tardar el día 17 del mes siguiente a aquél en el que sean retirados los bienes de los citados lugares, considerando como contraprestación el precio promedio de venta al detallista, tratándose de cigarros, o el precio promedio de enajenación, en el caso de puros y otros tabacos labrados, de los tres meses inmediatos anteriores a aquél en el que se efectúe el pago.
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
 Se equipara a la enajenación el consumo que efectúe Petróleos Mexicanos de los productos gravados por esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+Asimismo, para efectos del artículo 2o.-A, fracción II de esta Ley, se considerará enajenación el autoconsumo de gasolina o diesel que se realice en las estaciones de servicio y los distribuidores autorizados por Petróleos Mexicanos y sus organismos subsidiarios, salvo que se realice en estaciones de servicios que no vendan los combustibles al público en general.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -424,7 +414,9 @@ No se pagará el impuesto establecido en esta Ley:
 
 I. Por las enajenaciones siguientes:
 
-a) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+a) Las realizadas a distribuidores autorizados por Petróleos Mexicanos y sus organismos subsidiarios, o bien, efectuadas a estaciones de servicio, exclusivamente por lo que respecta al artículo 2o.-A, fracción II de esta Ley.
 
 b) Aguamiel y productos derivados de su fermentación.
 
@@ -838,7 +830,9 @@ Las autoridades fiscales podrán requerir a los contribuyentes la información o
 
 Los Estados adheridos al Sistema Nacional de Coordinación Fiscal no mantendrán impuestos locales o municipales sobre:
 
-I.- Los actos o actividades por los que deba pagarse el impuesto que esta Ley establece o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción, introducción, distribución o almacenamiento de bienes cuando por su enajenación deba pagarse dicho impuesto.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
+I. Los actos o actividades por los que deba pagarse el impuesto que esta Ley establece o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción, introducción, distribución o almacenamiento de bienes cuando por su enajenación deba pagarse dicho impuesto. Se exceptúan de lo anterior los impuestos locales a la venta o consumo final de los bienes objeto del impuesto previsto en esta Ley, que en términos de lo establecido en el artículo 10-C de la Ley de Coordinación Fiscal establezcan las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal.
 
 II.- Los actos de organización de los contribuyentes del impuesto establecido en esta Ley.
 
@@ -2299,6 +2293,26 @@ La disminución de las cantidades mencionadas en este inciso sólo se podrá rea
 ## TRANSITORIO
 
 Único. El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al artículo 109, fracción XXVI de la Ley del Impuesto sobre la Renta, la cual entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE DICIEMBRE DE 2007.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
+
+###### ARTÍCULO SEXTO.
+
+Las reformas y adiciones a los artículos 2o.-A, 2o.-B, 7o. y 8o. de la Ley del Impuesto Especial sobre Producción y Servicios, entrarán en vigor a los quince días naturales siguientes a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
+
+Las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios para la venta al público de gasolinas y diesel, se aplicarán de manera gradual, de conformidad con lo siguiente:
+
+I. En el mes calendario en que entre en vigor el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará una cuota de 2 centavos a cada litro de Gasolina Magna, 2.44 centavos a cada litro de Gasolina Premium UBA y 1.66 centavos a cada litro de Diesel.
+
+II. Las cuotas mencionadas en la fracción anterior, se incrementarán mensualmente en 2 centavos, 2.44 centavos y 1.66 centavos, por cada litro de Gasolina Magna, Gasolina Premium UBA y Diesel, respectivamente, hasta llegar a las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+III. A partir del 1o. de enero de 2012, las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se disminuirán en una proporción de 9/11 para quedar en 2/11 de las cuotas contenidas en dicho artículo.
+
+## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor el 1 de enero de 2008, salvo por lo que respecta a los artículos Segundo, fracción III y Sexto del mismo, los cuales iniciarán su vigencia a los quince días siguientes a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
 
 ###### ARTICULO QUINTO.
 
