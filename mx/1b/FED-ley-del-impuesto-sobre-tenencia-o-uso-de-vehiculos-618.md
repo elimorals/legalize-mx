@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2004-12-01"
+last_updated: "2007-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS TERCERO Y CUARTO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSAS DISPOSICIONES, PUBLICADO EN EL D.O.F. DE 21 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A PARTIR DEL 1 DE ENERO DE 2012.</small>
 
-Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
+
+Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1543,8 +1545,6 @@ Segundo.- De conformidad con la disposición del Banco de México publicada en e
 
 D.O.F. 30 DE DICIEMBRE DE 1996.
 
-## TRANSITORIO
-
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
 
 D.O.F. 29 DE DICIEMBRE DE 1997.
@@ -1795,14 +1795,6 @@ IV. Tratándose de automóviles de servicio público de transporte denominados "
 
 En el caso de automóviles de servicio público de transporte denominados "taxis", de año modelo 1991 a 1994, en lugar de considerar el valor total del automóvil establecido en la factura original o carta factura a que se refiere el inciso a) del artículo 15-C de esta Ley, podrán considerar el precio promedio de enajenación a que se refiere la fracción II de este artículo.
 
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el 1o. de enero de 2005.
-
-###### ARTÍCULO SEGUNDO.
-
-Los montos de las cantidades establecidas en los artículos 5o. y 14 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, se encuentran actualizados al 31 de diciembre de 2004.
-
 ## TRANSITORIO
 
 Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
@@ -1820,3 +1812,27 @@ PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
 SEGUNDO. Para los efectos de lo dispuesto en el artículo 2-C de la Ley del Impuesto al Valor Agregado, los pagos correspondientes a los meses de enero, febrero, marzo y abril del 2004, se pagarán durante el mes de mayo de dicho año.
 
 D.O.F. 1 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1o. de enero de 2005.
+
+###### ARTÍCULO SEGUNDO.
+
+Los montos de las cantidades establecidas en los artículos 5o. y 14 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, se encuentran actualizados al 31 de diciembre de 2004.
+
+D.O.F. 21 DE DICIEMBRE DE 2007.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
+
+###### ARTÍCULO CUARTO.
+
+El artículo tercero de este Decreto entrará en vigor el 1o. de enero de 2012.
+
+En caso de que, en términos de lo dispuesto por el artículo 16 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos vigente hasta el 31 de diciembre de 2011, antes de la fecha señalada en el párrafo anterior las entidades federativas establezcan impuestos locales sobre tenencia o uso de vehículos respecto de vehículos por los que se deba cubrir el impuesto federal contemplado en la ley que se abroga, se suspenderá el cobro del impuesto federal correspondiente en la entidad federativa de que se trate.
+
+Las obligaciones derivadas de la Ley del Impuesto sobre Tenencia o Uso de Vehículos que se abroga conforme al artículo anterior de este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor el 1 de enero de 2008, salvo por lo que respecta a los artículos Segundo, fracción III y Sexto del mismo, los cuales iniciarán su vigencia a los quince días siguientes a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
