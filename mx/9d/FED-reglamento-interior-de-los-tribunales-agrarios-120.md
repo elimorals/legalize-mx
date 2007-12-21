@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "2003-03-07"
+last_updated: "2007-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -283,11 +283,11 @@ El periodo que comprende este informe corresponderá al año calendario que va d
 
 Corresponde al Presidente proponer al Tribunal Superior que acuerde las medidas administrativas que sirvan para simplificar y hacer más expedita la administración de la justicia agraria, así como facilitar a las partes el desahogo de sus promociones ante los tribunales agrarios.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 28.
 
-El Presidente tiene la representación legal de los tribunales agrarios y podrá delegarla en los servidores que acuerde el Tribunal Superior. El Presidente podrá asistir con la representación del Tribunal Superior a las ceremonias y actos a los que éste sea invitado, o delegarla en uno de los magistrados.
+El Presidente tiene la representación legal de los Tribunales Agrarios y podrá delegarla cuando así lo requieran las necesidades del servicio en los funcionarios que juzgue pertinente. El Presidente podrá asistir con la representación del Tribunal Superior a las ceremonias y actos a los que éste sea invitado, o delegarla en uno de los magistrados.
 
 > <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
@@ -1120,3 +1120,11 @@ TERCERO.- Publíquese en el Diario Oficial de la Federación.
 D.O.F. 7 DE MARZO DE 2003.
 
 PRIMERO.- Estas reformas entrarán en vigor al día siguiente de su aprobación.
+
+D.O.F. 21 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Se modifica el artículo veintiocho del Reglamento Interior de los Tribunales Agrarios.
+
+SEGUNDO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación.
