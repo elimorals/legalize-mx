@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-57614"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-06"
-last_updated: "2007-12-06"
+last_updated: "2007-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-05"
 
 LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 6 de diciembre de 2007.
 
@@ -235,11 +235,11 @@ El Tribunal conocerá, además de los juicios que se promuevan contra los actos 
 
 El Tribunal Federal de Justicia Fiscal y Administrativa conocerá de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, siempre que dichas resoluciones sean de las materias señaladas en las fracciones anteriores como de su competencia.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 15.
 
-El Tribunal Federal de Justicia Fiscal y Administrativa conocerá de los juicios en materia de responsabilidades administrativas de los servidores públicos.
-
-El procedimiento para conocer de estos juicios será el que señale la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y la Ley Federal de Procedimiento Contencioso Administrativo.
+El Tribunal Federal de Justicia Fiscal y Administrativa conocerá de los juicios que se promuevan contra las resoluciones definitivas por las que se impongan sanciones administrativas a los servidores públicos en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento.
 
 ### CAPÍTULO III. De la Sala Superior
 
@@ -830,3 +830,13 @@ NOVENO.- Los Magistrados que conforme a la Ley que se abroga hayan obtenido la i
 México, D.F., a 26 de abril de 2007.- Dip. Maria Elena Alvarez Bernal, Vicepresidenta.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jacinto Gomez Pasillas, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cinco días del mes de diciembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 21 DE DICIEMBRE DE 2007.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Tribunal Federal de Justicia Fiscal y Administrativa conocerá de los juicios que se promuevan contra las resoluciones definitivas por las que se impongan sanciones administrativas a los servidores públicos en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento, hasta en tanto se modifique la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, conforme a lo dispuesto por el artículo Segundo Transitorio del decreto por el que se reforma el artículo 73, fracción XXIX-H de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, el 4 de diciembre de 2006.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
