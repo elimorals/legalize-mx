@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2007-06-13"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -95,13 +95,15 @@ Durante la primera quincena del mes de octubre de los primeros cinco años de Ej
 
 En el año de la elección del Titular del Ejecutivo, el informe deberá presentarse dentro de los diez días anteriores al 4 de octubre.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-Previo a la presentación del Informe por parte del Gobernador, el Presidente del Congreso concederá el uso de la palabra al Coordinador de cada Grupo Legislativo, o a quien éste designe, con el límite de tiempo que los Grupos Legislativos acuerden previamente.
+Previo a la presentación del Informe por parte del Gobernador, el Presidente del Congreso concederá el uso de la palabra al Coordinador de cada Grupo Legislativo, o a quien éste designe. Los turnos de participación, así como el tiempo de duración de cada uno, serán acordados previamente por los Coordinadores de los Grupos Legislativos mediante acuerdo escrito.
 
 El Presidente del Congreso contestará el Informe de Gobierno en términos generales con las formalidades que requiere la Sesión Solemne.
 
-El informe será analizado por el Congreso del Estado en sesiones subsecuentes, los Coordinadores de los diversos Grupos Legislativos podrán concertar un acuerdo legislativo para tal fin.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+El Informe será analizado por el Congreso del Estado en sesiones subsecuentes, los Coordinadores de los diversos Grupos Legislativos, deberán suscribir un acuerdo legislativo para tal fin, en el que quedará estipulada la forma en que habrá de realizarse el análisis del Informe.
 
 ###### Artículo 9o.
 
@@ -345,9 +347,9 @@ II.- Cuando se disuelva un Grupo Legislativo; y
 
 III.- (DEROGADA, P.O. 9 DE ABRIL DE 1999)
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-Los Diputados que no pertenezcan a un Grupo Legislativo tendrán las mismas consideraciones y prerrogativas que los demás legisladores y se les apoyará, de igual manera, para que puedan desempeñar sus funciones.
+Sólo podrán formar Grupos Legislativos los Diputados cuyos partidos hayan participado en la elección. Aquellos que no se inscriban o dejen de pertenecer a un Grupo Legislativo, sin integrarse a otro existente, serán considerados como Diputados sin partido y tendrán las mismas consideraciones y prerrogativas que los demás Legisladores y se les apoyará de igual manera para que puedan desempeñar sus funciones.
 
 ###### Artículo 47.
 
@@ -919,6 +921,10 @@ Las Comisiones Especiales se integrarán pluralmente por nueve diputados, tomand
 
 Las Sesiones de las Comisiones serán públicas, salvo determinación en contrario de la mayoría de sus integrantes. Podrán participar en reuniones de información y audiencia, a invitación de su Presidente, representantes de grupos de interés, peritos u otras personas que puedan informar sobre el asunto, por acuerdo tomado por la mayoría de sus integrantes. Asimismo, las comisiones podrán a través de la Directiva, convocar a foros u otros eventos de consulta popular.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+En las reuniones de Comisión, podrán participar con derecho a voz y previa autorización de la Comisión de que se trate, los titulares de los Órganos de Soporte Técnico y de Apoyo del Congreso o quienes éstos designen para el caso, cuando el asunto a tratar sea de su competencia.
+
 El Presidente del órgano de trabajo correspondiente, durante el desarrollo de las reuniones del mismo, tendrá las mismas atribuciones que la Ley y el Reglamento otorgan al Presidente del Congreso, relativas a la salvaguarda del orden y respeto al Congreso y a sus integrantes.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
@@ -1021,7 +1027,9 @@ b) De la Tesorería: la administración de los recursos financieros, humanos y d
 
 c) De la Contaduría Mayor de Hacienda: la fiscalización, control y evaluación de las finanzas públicas de las entidades señaladas en la Ley de la Contaduría Mayor de Hacienda; y
 
-d) Del Centro de Estudios Legislativos: el desarrollo de programas de investigación y análisis en los aspectos técnicos de los asuntos que son competencia del Congreso.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+d) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictamen de las Comisiones y el desarrollo de programas de investigación y análisis en los aspectos técnicos de los asuntos que son competencia del Congreso.
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1045,11 +1053,15 @@ I.- El Oficial Mayor:
 
 a) Informes de apoyo a la Directiva y a la Diputación Permanente, que deberán presentarse ante estos órganos para coadyuvar a que den cumplimiento a lo dispuesto en los artículos 56 y 87, respectivamente, de la presente Ley; y
 
-b) Informes semestrales de actividades, que se presentarán ante la Comisión de Coordinación y Régimen Interno en la sesión ordinaria de ésta, previa al inicio de cada período de sesiones. Los Diputados recibirán copia de dichos informes;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+b) Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, que se presentarán ante la Comisión de Coordinación y Régimen Interno en la sesión ordinaria de ésta, posterior al inicio y al término de cada período de sesiones. Los Diputados recibirán copia de dichos informes;
 
 II.- El Tesorero: Informes trimestrales y el Informe de la Cuenta Pública Anual que se presentarán a la Comisión de Coordinación y Régimen Interno y al Comité de Administración en sus respectivas sesiones; y
 
-III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de Apoyo: Informes semestrales de actividades, que se presentarán ante la Comisión de Coordinación y Régimen Interno y el Comité de Administración. Las Comisiones de Dictamen Legislativo recibirán copia de los informes que rinda el titular del Centro de Estudios Legislativos.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de Apoyo: Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, y los cuales se presentarán ante la Comisión de Coordinación y Régimen Interno y el Comité de Administración. Las Comisiones de Dictamen Legislativo recibirán copia de los informes que rinda el titular del Centro de Estudios Legislativos.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1336,3 +1348,13 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 13 DE JUNIO DE 2007.
 
 Artículo Único.- El presente decreto entrará en vigor una vez que inicie la vigencia de la Ley del Órgano de Fiscalización Superior.
+
+P.O. 21 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto, los expedientes en trámite actualmente turnados a la Comisión de Legislación y Puntos Constitucionales cuya materia consista en la reforma, adición o derogación de disposiciones del Código Penal para el Estado de Nuevo León y a la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, serán returnados a la Comisión de Justicia y Seguridad Pública para su estudio y dictamen.
+
+Asimismo los expedientes en trámite actualmente turnados a la Comisión de Justicia y Seguridad Pública cuya materia consista en la reforma, adición o derogación de disposiciones al Código de Procedimientos Civiles del Estado de Nuevo León, serán returnados a la Comisión de Legislación y Puntos Constitucionales.
+
+Los expedientes de las materias que se mencionan en los dos párrafos anteriores que estén turnados en forma unida a otra Comisión distinta a las ya referidas, sólo se hará el returno a la Comisión que corresponda según lo estipulado en el Artículo 39 fracción II inciso j) y fracción III inciso a) del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
