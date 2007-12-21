@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2007-12-14"
+last_updated: "2007-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE DICIEMBRE DE 2007.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -6368,10 +6368,6 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
 > <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 265.
@@ -6399,6 +6395,10 @@ En el caso en que el monto de los derechos causados resulte superior al efectuad
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
 
 La Secretaría de Finanzas celebrará convenios con los Órganos Político-Administrativos a efecto de que una vez determinado el monto mensual recaudado por concepto de los derechos que se detallan en este artículo, participe con el 50% del recurso recaudado a las Delegaciones, mismas que lo destinarán a la adquisición de insumos utilizados en la prestación del servicio de limpia.
+
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -7387,6 +7387,12 @@ IX. Las empresas que acrediten que más del 50% de su planta laboral reside en l
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 La reducción a la que se refiere esta fracción, se aplicará durante un año, contado a partir de expedida la constancia, y la empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los cuales se efectuaron tales erogaciones.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+X.- Las empresas que realicen proyectos de investigación aplicada y desarrollo tecnológico que impacten en el Distrito Federal, de conformidad con las reglas generales que establezca el Instituto de Ciencia y Tecnología del Distrito Federal, tendrán derecho a una reducción equivalente al 80% del Impuesto sobre Nóminas causado por las erogaciones destinadas a remunerar el trabajo personal subordinado de investigadores y tecnólogos contratados especialmente para el desarrollo de dichos proyectos.
+
+Los contribuyentes a que se refiere esta fracción deberán acreditar que realizan programas científicos mediante una constancia emitida por el mismo Instituto de Ciencia y Tecnología del Distrito Federal, donde se precise el personal científico contratado, las erogaciones destinadas a remunerar dicho trabajo subordinado, el tipo de programas y los beneficios que representan para la población del Distrito Federal.
 
 Las reducciones por concepto del Impuesto Predial que se regulan en este artículo, sólo se aplicarán respecto del inmueble donde se desarrollen las actividades motivo por el cual se reconoce la reducción.
 
@@ -17351,3 +17357,7 @@ G.O. 14 DE DICIEMBRE DE 2007.
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y entre en vigor el 1 de enero de 2008.
 
 SEGUNDO.- Dentro de los noventa días siguientes a la publicación de este Decreto, la Secretaría de Finanzas instrumentará los convenios fiscales con los Órganos Político-Administrativos a efecto de hacer viable la participación de estos en la recaudación de los derechos por los servicios de recolección y recepción de residuos sólidos, materia de este Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2007.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
