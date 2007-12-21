@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2006-12-19"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
-ULTIMA ACTUALIZACION POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 2006.
+ULTIMA ACTUALIZACION POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -364,13 +364,13 @@ La Procuraduría, para el desempeño de las funciones que le atribuye la ley, po
 
 I. Apercibimiento;
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 19 DE DICIEMBRE DE 2006)
+(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
-II. Multa de $166.25 a $16,625.69;
+II. Multa de $172.79 a $17,279.00;
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 19 DE DICIEMBRE DE 2006)
+(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $6,650.28, y
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $6,911.60, y
 
 IV. El auxilio de la fuerza pública.
 
@@ -952,7 +952,7 @@ La Procuraduría podrá promover ante la autoridad judicial, cuando vea amenazad
 
 (ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
-ARTICULO 76 bis.- Las disposiciones del presente Capítulo aplican a las relaciones entre proveedores y consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología. En la celebración de dichas transacciones se cumplirá con lo siguiente:
+ARTICULO 76 BIS.- Las disposiciones del presente Capítulo aplican a las relaciones entre proveedores y consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología. En la celebración de dichas transacciones se cumplirá con lo siguiente:
 
 I. El proveedor utilizará la información proporcionada por el consumidor en forma confidencial, por lo que no podrá difundirla o transmitirla a otros proveedores ajenos a la transacción, salvo autorización expresa del propio consumidor o por requerimiento de autoridad competente;
 
@@ -1260,7 +1260,7 @@ La Procuraduría recibirá las quejas o reclamaciones de los consumidores con ba
 
 I. Señalar nombre y domicilio del reclamante;
 
-II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos; y
+II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos; y (sic)
 
 > <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1270,9 +1270,9 @@ III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante
 
 IV. Señalar el lugar o forma en que solicita se desahogue su reclamación.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 19 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $332,513.77.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $345,580.08.
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1518,9 +1518,9 @@ En caso de no aceptarse el arbitraje se dejarán a salvo los derechos de ambas p
 
 La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 19 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $332,513.77.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $345,580.08.
 
 ###### ARTICULO 118.
 
@@ -1580,27 +1580,27 @@ ARTICULO 124 BIS.- Para la sustanciación del procedimiento por infracciones a l
 
 Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 19 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $166.25 a $532,022.03.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $172.79 a $552,928.13.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 19 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $332.52 a $1'064,044.07.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $345.58 a $1'105,856.25.
 
-(REFORMADO, D.O.F. 6 DE JUNIO DE 2006) (ACTUALIZADO EN SU MONTO, D.O.F. 19 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $498.77 a $1'950,747.46.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $518.37 a $2'027,403.14.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 19 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
-ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $99,754.13 a $2'793,115.69.
+ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $103,674.02 a $2'902,872.67.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1676,9 +1676,9 @@ Asimismo, la Procuraduría deberá considerar los hechos generales de la infracc
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 19 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2007)
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $5'586,231.36.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $5'805,745.34.
 
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1913,3 +1913,13 @@ NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigen
 ## TRANSITORIO
 
 UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2007.
+
+D.O.F. 21 DE DICIEMBRE DE 2007.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2008.
+
+## TRANSITORIO
+
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2008.
