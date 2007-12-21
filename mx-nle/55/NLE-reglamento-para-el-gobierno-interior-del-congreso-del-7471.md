@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2007-06-13"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -119,29 +119,59 @@ Esta declaración será materia de un Decreto que sin más trámite se expedirá
 
 ### CAPITULO III. DE LOS DIPUTADOS
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 13.
 
-Los Diputados asistirán a las reuniones de las Comisiones, de los Comités y a las sesiones del Pleno con puntualidad, permanecerán en ellas hasta su conclusión y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
+Los Diputados asistirán a las reuniones de las Comisiones, de los Comités y a las sesiones del Pleno con puntualidad y permanecerán en ellas hasta su conclusión y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+Cuando un Diputado no asista a las sesiones del Pleno del Congreso, le será descontada de su dieta el equivalente a su percepción diaria bruta.
 
-Cuando un Diputado no asista o se ausente por más de treinta minutos de las reuniones de Comisión, de Comités o de las sesiones del Pleno del Congreso, o cuando asista con un retraso de más de treinta minutos del inicio de la sesión o reunión le será descontada su dieta o le será dejado de otorgar el equivalente a su percepción diaria bruta por cada sesión o reunión a la que deje de asistir, o la parte proporcional que corresponda por el tiempo que se ausente o asista con retraso a ellas, con excepción de los casos establecidos en el artículo 14 del presente Reglamento. El Presidente del Congreso deberá proveer lo necesario para el cumplimiento de esta disposición.
+En los casos en que el Diputado asista con retraso por más de treinta minutos o se ausente de las sesiones de las Comisiones o Comités, le será dejado de otorgar de su percepción diaria bruta la parte proporcional que corresponda al retraso, o ausencia o en su caso, el tiempo que falte para la terminación de la sesión respectiva. Esta misma disposición se aplicará en los casos de las sesiones del Pleno del Congreso, o de la diputación permanente.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+Las faltas de un Diputado a las sesiones de las Comisiones o Comités, contarán como faltas a las sesiones del Pleno del Congreso, con excepción de los casos a que se refiere el artículo 14 del presente Reglamento.
 
-En el caso de que se presenten en forma concurrente una sesión de Pleno con una o más reuniones de Comisiones, o varias reuniones de Comisiones, y esto imposibilite la asistencia de algún Diputado a las mismas, no será sancionado en los términos del párrafo anterior la inasistencia, la ausencia o el retraso.
+Los Presidentes de las Comisiones o Comités, comunicarán a la Tesorería del Congreso, los casos a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+En los casos de inasistencias, retrasos o ausencias de los Diputados a las sesiones del Pleno del Congreso o de la diputación permanente, el Presidente del Congreso, hará del conocimiento de estos hechos a la Tesorería del Congreso para los descuentos correspondientes a las dietas.
 
-Sólo podrá descontarse o dejar de otorgarse como máximo por las faltas de asistencia, ausencias o retrasos de un día, el equivalente a su percepción diaria por concepto de dieta.
+Cuando las necesidades de trabajo así lo requieran, y se convoquen dos o más reuniones de Comisiones o Comités, el mismo día y al (sic) misma hora, y coincida que algún Diputado forme parte de las mismas, y esto imposibilite la asistencia en alguna de ellas, no será sancionado en los términos de este artículo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+Sólo podrá descontarse o dejar de otorgarse como máximo por las faltas de asistencia, ausencias o retrasos de un día, el equivalente de su percepción diaria por concepto de dieta.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 14.
 
-Cuando un Diputado no pudiere asistir, asista con retraso o no continúe en una sesión del Pleno, o en una reunión de Comisión o Comité, deberá comunicarlo al Presidente. Si la ausencia fuera por más de tres sesiones deberá comunicarlo al Pleno del Congreso mediante oficio, señalando los días de ausencia.
+Cuando un Diputado no pudiere asistir, asista con retraso o no continúe en una sesión del Pleno, o en una reunión de Comisión o Comité, deberá comunicarlo al Presidente.
+
+Si la ausencia fuera por más de tres sesiones consecutivas deberá comunicarlo al Pleno del Congreso mediante oficio, señalando los días de ausencia así como las causas de su inasistencia.
+
+Para los efectos de este artículo, se considerará que existe justificación, para faltar a las sesiones del Pleno del Congreso, de la Diputación Permanente, o a las reuniones de las Comisiones o Comités, en los siguientes casos:
+
+I.- Por Comisión conferida por los siguientes órganos:
+
+a) Presidencia de la Directiva del Congreso;
+
+b) Pleno del Congreso;
+
+c) Acuerdo de la Comisión de Coordinación y Régimen Interno; y
+
+d) Acuerdo de una Comisión o Comité.
+
+II.- Por enfermedad, justificada mediante la constancia médica respectiva;
+
+III.- Por el fallecimiento de algún miembro de la familia, hasta en cuarto grado; y
+
+IV.- Así como por causas graves o fortuitas que impidan su asistencia.
+
+Las causales serán invocadas en el oficio dirigido al Presidente del Congreso de las Comisiones o Comités, según corresponda.
+
+Los retrasos por más de treinta minutos o el retiro de las sesiones, se podrán justificar por causas graves o fortuitas.
+
+Los Diputados dispondrán de cinco días hábiles, a partir del día siguiente en que se produzca la falta, retraso o retiro de las sesiones, para remitir la justificante al Presidente del Congreso de las Comisiones o Comités, según sea el caso.
+
+Asimismo, para el caso de las sesiones de Comisiones o Comités, también podrán justificarse la ausencia por actividades de gestoría y compromisos adquiridos con representados y justificados de inmediato.
 
 ###### Artículo 15.
 
@@ -369,9 +399,13 @@ La Comisión de Coordinación y Régimen Interno dispondrá para sus funciones d
 
 ### CAPITULO I. DE LAS COMISIONES
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 37.
 
-Para el despacho de los asuntos que competen al Congreso, se designarán las Comisiones que señala el Artículo 66 de la Ley Orgánica del Poder Legislativo, las cuales los estudiarán y dictaminarán.
+Las comisiones son órganos de trabajo legislativo integradas por Diputados, que a través de la elaboración de dictámenes, informes, opiniones o resoluciones, relativos a los asuntos que se les encomiende, contribuyen a que el Congreso cumpla con sus atribuciones.
+
+Las Comisiones serán las señaladas en el artículo 66 de la Ley Orgánica del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
@@ -449,7 +483,9 @@ h) Las reformas relativas a la Ley Orgánica del Poder Legislativo y su Reglamen
 
 i) Las leyes orgánicas y reglamentarias de los dispositivos de la Constitución Política del Estado y los que la Constitución Política de los Estados Unidos Mexicanos autorice a las Legislaturas de los Estados reglamentar;
 
-j) La expedición y reforma a la legislación civil y penal, en su aspecto sustantivo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+j) La expedición y reforma a la legislación civil, en su aspecto sustantivo y adjetivo;
 
 k) La designación de los Comisionados Ciudadanos a la Comisión Estatal Electoral;
 
@@ -465,7 +501,9 @@ n) La expedición y reforma de disposiciones de carácter general que no estén 
 
 III.- Comisión de Justicia y Seguridad Pública:
 
-a) La expedición y reforma de la legislación civil y penal, en su aspecto adjetivo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+a) La expedición y reforma de la legislación penal, en su aspecto sustantivo y adjetivo;
 
 b) La expedición y reforma de las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia;
 
@@ -485,7 +523,13 @@ h) Las iniciativas relativas al orden público, la seguridad y la tranquilidad d
 
 i) Las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública, privada y de protección civil; y
 
-j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+j) La expedición y reforma de la legislación en materia de justicia para adolescentes; y
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+k) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -539,7 +583,17 @@ d) Lo concerniente a la dispensa de honores a la memoria de los Nuevoleoneses qu
 
 e) Las iniciativas relativas al fortalecimiento de actividades deportivas;
 
-f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+f) Las iniciativas en materia de ciencia y tecnología del Estado;
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+g) Lo relativo al desarrollo y fomento de la investigación científica y tecnológica en el Estado; y
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -823,17 +877,31 @@ Cuando algún miembro de cualquiera de las Comisiones tuviere interés en el asu
 
 El Presidente de cada Comisión es responsable de los expedientes turnados a ella para su estudio y a este efecto, deberá firmar el recibo de ellos en el libro de turno que llevará la Oficialía Mayor, cesando aquélla responsabilidad cuando los mismos sean devueltos a este órgano de soporte técnico.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 47.
 
-Las Comisiones emitirán sus juicios sobre los asuntos que se les turnen, por medio de dictámenes que deberán contener una parte expositiva que los fundamente, concluyendo con proposiciones concretas para se sometidas a la votación de la Asamblea.
+Se denomina dictamen a la resolución acordada por la mayoría de los integrantes de algún Comité o Comisión del Congreso, con respecto a una iniciativa, asunto o petición sometida a su consideración por acuerdo de la Asamblea, la cual está sujeta a la discusión y aprobación del Pleno.
+
+En la redacción de los dictámenes se observarán las reglas siguientes:
+
+a) Se expresará el nombre del Comité, Comisión o Comisiones que lo presentan; número de expediente que le fue asignado; la identificación clara del asunto de que se trate; la fecha en que le fue turnado dicho asunto, y el nombre del promovente o los promoventes;
+
+b) Bajo la palabra ANTECEDENTES, se consignará de una manera concisa y clara, lo conducente a la exposición de motivos de la iniciativa o escrito presentado;
+
+c) A continuación bajo la palabra CONSIDERACIONES, se consignarán clara y concisamente las razones y fundamentos en que se basen los integrantes de la Comisión o Comité para la procedencia, modificación a la solicitud original o el rechazo de ésta;
+
+d) La parte resolutiva que contendrá la propuesta concreta para ser sometida a consideración del Pleno; y
+
+e) La Mayoría de las firmas de los miembros de la Comisión o Comité.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 48.
 
-Las Comisiones deberán rendir dictamen sobre los asuntos de su competencia a la mayor brevedad después de recibir los expedientes relativos. El Presidente del Congreso podrá excitarlas para el cumplimiento de esta disposición, fijando término para el efecto.
+Ningún proyecto de dictamen podrá ser discutido si no fue circulado a los integrantes de la Comisión respectiva con por lo menos veinticuatro horas de anticipación a la celebración de la sesión de trabajo en que se vaya a discutir el asunto, exceptuando aquellos que sean tunados por el Pleno con el carácter de urgentes.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
-
-Los proyectos de dictamen deberán ser circulados a los integrantes de la Comisión respectiva con por lo menos veinticuatro horas de anticipación a la celebración de la sesión de trabajo en que se vaya a discutir el asunto, exceptuando aquellos que sean turnados por el Pleno con el carácter de urgentes.
+Cuando una Comisión considere que un asunto que le ha sido turnado no es de su competencia, deberá solicitar al Presidente del Congreso el turno a otra Comisión, explicando los fundamentos de dicha solicitud.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2006)</small>
 
@@ -849,9 +917,17 @@ En caso de aprobarse el Voto Particular, y éste contenga un resolutivo que modi
 
 En caso de no aprobarse el Voto Particular, se seguirá el procedimiento de deliberación del dictamen tal como lo establecen los Artículos 126 y 129 de este Reglamento, y se archivará en el expediente formado sobre la iniciativa materia del dictamen.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 50.
 
-Las Comisiones, por medio de su Presidente, podrán pedir a cualquier oficina del Estado o Municipal, todas las instrucciones y exhibición de documentos que estimen convenientes para el despacho de los negocios que se les hayan turnado, y esas constancias deben serle proporcionadas, siempre que el asunto de que se trate no sea de los que deben conservarse en secreto. Cuando la solicitud respectiva no sea atendida, podrá el Presidente dirigirse al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia o al Ayuntamiento correspondiente.
+Las Comisiones podrán, por medio de su Presidente:
+
+a) Pedir a cualquier oficina del Estado o Municipal, todas las instrucciones y exhibición de documentos que estimen convenientes para el despacho de los negocios que se les hayan turnado, y esas constancias deben serle proporcionadas, siempre que el asunto de que se trate no sea de los que deben conservarse en secreto. Cuando la solicitud respectiva no sea atendida, podrá el Presidente dirigirse al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia o al Ayuntamiento correspondiente;
+
+b) Solicitar por escrito a los Presidentes de las Comisiones de trabajo legislativo y Comités, cualquier información que obre en su poder y que sea necesaria para el desempeño de sus funciones, o
+
+c) Solicitar a los titulares de los Órganos de Soporte Técnico y de Apoyo del Congreso, que presenten por escrito las opiniones sobre los asuntos de su competencia que requieran para el desempeño de sus funciones.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -864,6 +940,18 @@ La convocatoria deberá incluir el orden del día a tratar, lugar, fecha y hora 
 Las sesiones de las Comisiones iniciarán sus trabajos en la hora señalada en la convocatoria respectiva, si se encuentran presentes al menos, la mitad más uno de sus integrantes; si no se cumple con este quórum en un plazo máximo de treinta minutos, contados a partir de la hora señalada en la convocatoria, la sesión no se llevará a cabo, debiéndose citar a una sesión subsecuente.
 
 De cada sesión de las Comisiones, se levantará un acta que contendrá los datos fundamentales de la reunión y consignará los acuerdos a los cuales se llegue.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+La Comisión podrá por mayoría de votos de sus integrantes presentes, constituirse en Permanente para tratar los asuntos que motivaron la reunión hasta su total desahogo. Se podrán acordar uno o varios recesos durante dicha reunión de trabajo. Los Diputados deberán estar atentos a la convocatoria del Presidente para reanudar la reunión.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+Cuando la Comisión esté constituida en permanente no podrá darse cuenta de ningún otro asunto que no esté comprendido en el acuerdo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+Una vez resuelto el asunto, motivo de la reunión, se dará por terminada.
 
 ###### Artículo 52.
 
@@ -1005,7 +1093,7 @@ XV.- Realizar, a través de su titular y por instrucciones del Presidente de la 
 
 XVI.- Estar a cargo del Tablero de Avisos del Congreso;
 
-XVII.- Coordinar la elaboración de proyectos de dictámenes que le soliciten las Comisiones, en el sentido que éstas hayan acordado previamente;
+XVII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2007)
 
 XVIII.- Proveer el apoyo que se requiera para la organización y realización de las sesiones de trabajo de las Comisiones de Dictamen Legislativo;
 
@@ -1085,9 +1173,17 @@ VI.- Apoyar a la Oficialía Mayor en la planeación de consultas a ciudadanos y 
 
 VII.- Proponer a la Comisión de Coordinación y Régimen Interno, a través de su titular, para el mejor cumplimiento de las tareas que le han sido encomendadas, la celebración de convenios de colaboración con instituciones de educación superior, otros Congresos tanto nacionales como extranjeros y demás instituciones públicas o privadas cuya intervención coadyuve en la función legislativa;
 
-VIII.- Proponer, cuando las necesidades así lo determinen, la contratación de servicios externos de consultoría, considerando entre otros, a las instituciones de educación superior e investigación locales, nacionales e internacionales; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-IX.- Colaborar con la Oficialía Mayor en el diseño, organización e implementación del Curso de Inducción a la Función Legislativa.
+VIII.- Proponer, cuando las necesidades así lo determinen, la contratación de servicios externos de consultoría, considerando entre otros, a las instituciones de educación superior e investigación locales, nacionales e internacionales;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+IX.- Colaborar con la Oficialía Mayor el diseño, organización e implementación del Curso de Inducción a la Función Legislativa; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+X.- Coordinar la elaboración de proyectos de dictámenes que le soliciten las Comisiones, en el sentido que se haya acordado con el Presidente de la misma. Para la elaboración de los proyectos de dictamen contará con el número de Secretarios Técnicos que resulte necesario para desahogar los asuntos turnados a las mismas; cada Secretario Técnico auxiliará el número de Comisiones o Comités, considerando la cantidad de asuntos turnados a éstas.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1577,6 +1673,14 @@ En caso de Voto Particular, se seguirá el procedimiento establecido en los pár
 
 Para las reformas a la Constitución Política del Estado Libre y Soberano de Nuevo León, así como a las leyes consideradas como constitucionales en los términos del Artículo 152 del citado ordenamiento legal, se seguirá el procedimiento establecido en el presente Artículo, así como en el numeral 129 del presente Reglamento.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 126 Bis.
+
+Los Diputados podrán solicitar el uso de la palabra a la Presidencia para contestar alusiones personales, cuando el orador se haya dirigido expresamente a su persona. Para ello el Presidente de manera inmediata posterior, otorgará el uso de la palabra por una sola ocasión y hasta por tres minutos, una vez que haya concluido el orador, al Diputado que hubiere sido aludido.
+
+La Secretaría tomará cuenta del tiempo y lo hará saber al Presidente a efecto de que éste aperciba al orador para que termine su intervención.
+
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 127.
@@ -1747,7 +1851,7 @@ En las sesiones, tanto del Pleno como de la Diputación Permanente, el President
 
 ###### Artículo 147.
 
-La Directiva nombrará a dos Comisiones integradas por tres diputados cada una para que reciban y despidan respectivamente al Gobernador del Estado, al Gobernador Electo y Gobernador Saliente así como los otros invitados de honor cuando asistan a una sesión del Pleno del Congreso.
+La Directiva nombrará a dos Comisiones integradas por tres diputados cada una para que reciban y despidan respectivamente al Gobernador del Estado, al Gobernador Electo y Gobernador Saliente así como a los otros invitados de honor cuando asistan a una sesión del Pleno del Congreso.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -2146,3 +2250,13 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 13 DE JUNIO DE 2007.
 
 Artículo Único.- El presente decreto entrará en vigor una vez que inicie la vigencia de la Ley del Órgano de Fiscalización Superior.
+
+P.O. 21 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto, los expedientes en trámite actualmente turnados a la Comisión de Legislación y Puntos Constitucionales cuya materia consista en la reforma, adición o derogación de disposiciones del Código Penal para el Estado de Nuevo León y a la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, serán returnados a la Comisión de Justicia y Seguridad Pública para su estudio y dictamen.
+
+Asimismo los expedientes en trámite actualmente turnados a la Comisión de Justicia y Seguridad Pública cuya materia consista en la reforma, adición o derogación de disposiciones al Código de Procedimientos Civiles del Estado de Nuevo León, serán returnados a la Comisión de Legislación y Puntos Constitucionales.
+
+Los expedientes de las materias que se mencionan en los dos párrafos anteriores que estén turnados en forma unida a otra Comisión distinta a las ya referidas, sólo se hará el returno a la Comisión que corresponda según lo estipulado en el Artículo 39 fracción II inciso j) y fracción III inciso a) del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
