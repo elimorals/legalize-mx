@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-proteccion-civil-para-el-distrito-47184
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-23"
-last_updated: "2005-12-23"
+last_updated: "2007-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-12-15"
 
 REGLAMENTO DE LA LEY DE PROTECCION CIVIL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 23 de diciembre de 2005.
 
@@ -54,7 +54,7 @@ V. Consultoría: Es un servicio de asesoramiento profesional independiente que a
 
 VI. Cuerpos de Auxilio: Los organismos oficiales y las organizaciones civiles debidamente registradas y capacitadas coadyuvantes en la prestación de auxilio a los habitantes del Distrito Federal en caso de alto riesgo, emergencia, siniestro o desastre;
 
-VII. Dirección General: La Dirección General de Protección Civil del Distrito Federal;
+VII. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2007)
 
 VIII. Ley: La Ley de Protección Civil para el Distrito Federal;
 
@@ -68,13 +68,23 @@ XII. Refugio temporal: La instalación física temporal que tiene por objeto bri
 
 XIII. Restablecimiento: El conjunto de acciones tendientes a la recuperación progresiva de la operación de la infraestructura, servicios vitales y sistemas estratégicos para el funcionamiento normal de la ciudad;
 
-XIV. Secretaría: La Secretaría de Gobierno, y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-XV. Tercero acreditado: Persona física o moral, por conducto de su Representante Legal, con dominio teórico y práctico de una o más especialidades u oficios que aplica técnicas didácticas de enseñanza y aprendizaje, acorde con los tipos de conocimiento a impartir en materia de Protección Civil y/o los conocimientos suficientes y actualizados para elaborar programas Internos y Especiales de Protección Civil.
+XIV. Secretaría: La Secretaría de Protección Civil;
 
-###### Artículo 3°.
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-La aplicación de este ordenamiento corresponde al Jefe de Gobierno del Distrito Federal, por conducto de la Dirección General, así como de las Delegaciones del Distrito Federal, en los términos que precise la Ley, el presente ordenamiento, la Ley Orgánica de la Administración Pública del Distrito Federal, y su correspondiente Reglamento.
+XIV Bis. Subsecretaría: La Subsecretaría de Coordinación de Planes y Programas Preventivos; y
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+XV. Tercer Acreditado: Persona física o moral registrada y autorizada para proporcionar servicios de asesoría y consultoría, capacitación, elaboración de programas de protección civil o de estudios de riesgo vulnerabilidad.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 3º.
+
+La aplicación de este ordenamiento corresponde al Jefe de Gobierno del Distrito Federal, por conducto de la Secretaría de Protección Civil y sus Unidades Administrativas, así como de las Delegaciones del Distrito Federal, en los términos que precise la Ley, el presente ordenamiento, la Ley Orgánica de la Administración Pública del Distrito Federal y su correspondiente Reglamento.
 
 ###### Artículo 4°.
 
@@ -104,7 +114,7 @@ XI. Promover ante las autoridades educativas, la integración de contenidos tem�
 
 XII. Impulsar la capacitación de las empresas de Consultoría y de Estudio de Riesgo Vulnerabilidad y personas físicas cuyas actividades estén vinculadas a la materia de Protección Civil mediante el establecimiento obligatorio de cursos de Actualización y Homologación en la aplicación de normas relativas a la elaboración de Programas Internos y especiales de Protección Civil. Los cursos a que se hace referencia, podrán ser impartidos por la propia Dirección General o en los Colegios de Profesionales con los que se celebre convenio para ese efecto.
 
-XIII. Exigir a los terceros acreditados la información a que hace referencia el primer párrafo del artículo 53, fracción IV, de este Reglamento.
+XIII. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2007)
 
 XIV. Iniciar y resolver el procedimiento Administrativo con la finalidad de revocar el Registro a los terceros acreditados que incurran en violaciones a la Ley y a este Reglamento o, en el supuesto dela (sic) fracción III, del artículo 99 de la misma, solicitar a las Direcciones Generales Jurídicas y de Gobierno de las diferentes demarcaciones territoriales del D. F. la aplicación de las otras sanciones Administrativas contenidas en el numeral mencionado.
 
@@ -546,6 +556,12 @@ Para el efecto anterior, los responsables operativos deberán acudir ante el rep
 
 Las brigadas vecinales y las organizaciones civiles no especializadas se coordinarán con la Unidad Delegacional de Protección Civil, en los términos de los lineamientos que al efecto expida la Dirección General.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 41 Bis.
+
+Las facultades y atribuciones a que se refiere el presente Capítulo, se entenderán referidas a la Dirección General de Prevención, dependiente de la Secretaría de Protección Civil.
+
 ### CAPITULO OCTAVO. DE LA CAPACITACIÓN
 
 ###### Artículo 42.
@@ -592,55 +608,35 @@ Para el registro de los terceros acreditados en cualquiera de sus modalidades lo
 
 I. Presentar solicitud en los formatos aprobados y publicados en la Gaceta Oficial del Distrito Federal.
 
-II. La persona física y/o moral, por conducto de su Representante Legal, previamente a la obtención del registro debe acreditar una experiencia mínima de tres años en protección civil.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-III. Aprobar los cursos de Actualización y Homologación de criterios para elaborar programas internos de protección civil y en su caso de capacitación que para tal efecto se lleven a cabo en la propia Dirección General o en los colegios de Profesionales con los que la misma hubiera celebrado convenios, bajo los lineamientos que ambas entidades señalen conjuntamente y previo el pago de las cuotas de recuperación que para tal efecto señale el Colegio correspondiente.
+II. La persona física y/o moral, por conducto de su Representante Legal, previamente a la obtención del registro debe acreditar una experiencia mínima de cinco años en protección civil.
 
-En el supuesto de que el solicitante del registro no acredite haber aprobado el Curso referido en el párrafo anterior o que habiendo presentado solicitud para obtener dicho registro, no continúen el trámite, no podrán presentar nuevamente solicitud si no hasta pasado un año contado a partir de la fecha en que presentó la última solicitud.
+III. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2007)
 
-IV. Cuando el registro solicitado sea únicamente para impartir capacitación referente a los Programas Internos de Protección Civil, el solicitante, además de satisfacer los requisitos que señala el artículo 56 de este Reglamento, deberá acreditar la Evaluación que al efecto realice la Dirección General por conducto de su Unidad Administrativa de capacitación.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+IV. Cuando el registro solicitado sea únicamente para impartir capacitación referente a los Programas Internos de Protección Civil, el solicitante, además de satisfacer los requisitos que señala el artículo 55 de este Reglamento, deberá acreditar la evaluación que al efecto realice la Dirección General.
 
 Cubiertos los requisitos anteriores y los demás que señale este Reglamento, la Dirección General, tendrá la facultad de evaluar los conocimientos de los aspirantes al Registro.
 
 Estarán impedidos para solicitar el Registro, los servidores públicos adscritos a la Administración Pública Federal, así como del Distrito Federal, centralizada, desconcentrada o paraestatal, cualquiera que sea el régimen bajo el cual se encuentren prestando servicios, sólo podrán solicitarlo un año después de haber concluido su encargo o comisión
 
-La Dirección General deberá dar respuesta a la solicitud en un plazo máximo de 15 días hábiles, contados a partir del día siguiente de su presentación. En caso de que la autoridad no conteste en el plazo arriba indicado se entenderá la respuesta en sentido negativo.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-El registro obtenido tendrá una vigencia de tres años, siempre que el Tercero Acreditado cumpla con lo señalado en las fracciones II y III del artículo 53 de este Reglamento.
+La Dirección General deberá dar respuesta a la solicitud en un plazo máximo de 15 días hábiles, contados a partir del día siguiente de su presentación. En caso de que la autoridad no conteste en el plazo arriba indicado se entenderá la respuesta en sentido afirmativo.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+El registro obtenido tendrá una vigencia de un año, pudiendo ser renovado, siempre que el Tercero Acreditado cumpla con lo señalado en el artículo 56 Bis de este Reglamento.
 
 ###### Artículo 52.
 
-Para los efectos de proporcionar Registro como tercero acreditado a quienes lo soliciten para elaborar Programas Internos y Especiales de Protección Civil, la Dirección General integrará los expedientes correspondientes a dichos solicitantes en los que el interesado deberá acreditar la profesión de Ingeniería Civil, Arquitectura, o cualquier otra afín a la Protección Civil, cuando menos a nivel licenciatura y contar con experiencia mínima de tres años en materia de Protección Civil. Si el solicitante es una persona moral deberá acreditar lo anterior a través del Representante Legal de la misma.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2007)
 
 ###### Artículo 53.
 
-Una vez obtenido el registro como Tercero Acreditado, deberá estarse a lo siguiente:
-
-I. Las empresas capacitadoras, terceros acreditados, así como las empresas de consultoría de estudio de riesgo vulnerabilidad deberán llevar una bitácora de todos los programas internos o especiales de protección civil que elaboren.
-
-II. El tercero acreditado deberá comprobar anualmente una actualización y capacitación en materia de Protección Civil, por un equivalente de 25 horas como mínimo, a través de documentos expedidos por instituciones oficiales.
-
-III. La comprobación debe hacerse en forma anual ante la Dirección General, dentro de los treinta días naturales siguientes al en que se cumpla cada uno de los años que tenga vigencia el registro, contando la anualidad a partir de la fecha de expedición del mismo. En caso de no cumplir esta disposición el Registro correspondiente dejará de surtir efectos legales automáticamente y será cancelado de la base de datos de la Dirección General haciéndose tal circunstancia del conocimiento de las autoridades competentes.
-
-IV. Los terceros acreditados deben presentar un informe trimestral de actividades ante la Dirección General, listando los Programas Internos y/o Especiales de Protección Civil que hayan elaborado, y en su caso, la capacitación que hubieren impartido, que sólo podrá ser respecto de las brigadas que se mencionan en los Términos de Referencia y para las que se haya expedido el registro.
-
-Los informes trimestrales deben contar con los siguientes rubros:
-
-- Ubicación del inmueble.
-
-- Giro comercial o actividad que se realiza en el establecimiento.
-
-- Nombre del obligado a implementar Programa Interno o Especial de Protección Civil.
-
-- Tipo de Programa o programas elaborados.
-
-- Fecha de presentación del Programa en la Delegación correspondiente, y
-
-- Fecha de aprobación emitida por la Delegación.
-
-La Dirección, aleatoriamente, podrá solicitar a los terceros acreditados o a los obligados a implementar Programa Interno o Especial de Protección Civil, información relativa a los Programas, a fin de comprobar la veracidad de los informes trimestrales presentados.
-
-En caso de incumplimiento de las obligaciones contenidas en este artículo, la Dirección General negará el nuevo Registro que el tercero acreditado solicite al término de la vigencia del anterior.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2007)
 
 ###### Artículo 54.
 
@@ -654,9 +650,13 @@ III. Clave del Registro Federal de Contribuyentes;
 
 IV. Documento en donde se acredite que el domicilio del solicitante se encuentra dentro de la jurisdicción territorial de este ordenamiento.
 
-V. Constancia de registro vigente como agente capacitador expedido en términos de la legislación laboral;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-VI. Relación de personal responsable de la impartición de los cursos de capacitación en esta materia, anexando respecto de cada uno de ellos:
+V. Constancia de registro vigente como agente capacitador externo, expedido en términos de la legislación laboral;
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+VI. Relación de personal responsable de impartir los cursos de capacitación en esta materia, anexando respecto de cada uno de ellos:
 
 a) Copia de una identificación oficial;
 
@@ -666,9 +666,9 @@ c) Curriculum vitae actualizado;
 
 VII. Inventario del equipo y material didáctico;
 
-VIII. Copia fotostática del formato del diploma o constancia que vayan a expedir; el cual deberá contener nombre, domicilio y teléfono de la empresa.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-En el documento de referencia no deberá aparecer sello, logotipo o insignia pertenecientes a dependencias u organismos oficiales, y
+VIII. Copia fotostática del formato del diploma o constancia que vayan a expedir; el cual deberá contener nombre, domicilio y teléfono de la empresa, en el que no deberá aparecer sello, logotipo o insignia perteneciente a instituciones oficiales; y
 
 IX. Contenidos temáticos y cartas descriptivas de los cursos que pretenda impartir.
 
@@ -702,15 +702,15 @@ g) Universo que se atenderá, y
 
 h) Perfil mínimo de los aspirantes.
 
-VI. Copia fotostática del formato del diploma o constancia que vayan a expedir; el cual deberá contener nombre, domicilio y teléfono del tercero acreditado.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-En el documento de referencia no deberá aparecer sello, logotipo o insignia pertenecientes a dependencias u organismos oficiales.
+VI. Copia fotostática del formato del diploma o constancia que vayan a expedir; el cual deberá contener nombre, domicilio y teléfono de la empresa, en el que no deberá aparecer sello, logotipo o insignia perteneciente a instituciones oficiales;
 
 VII. Inventario del equipo y material didáctico; y
 
 VIII. Constancia de los cursos de capacitación que acrediten sus conocimientos sobre los temas a impartir.
 
-Una vez cubiertos los requisitos anteriores, la Dirección evaluará los conocimientos del promovente en los temas que pretende impartir como instructor, asesor o capacitador.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 56.
 
@@ -718,13 +718,45 @@ Para que las empresas de consultoría y estudios de riesgo vulnerabilidad, en ma
 
 I. Copia certificada del acta constitutiva de la empresa debidamente inscrita en el Registro Público de la Propiedad y del Comercio, cuyo objeto social deberá estar vinculado a la protección civil, concretamente a la realización de estudios de riesgo vulnerabilidad.
 
-II. Clave del Registro Federal de Contribuyentes;
+II. Clave del Registro Federal de Contribuyentes.
 
 III. Documento en donde se acredite que el domicilio del solicitante se encuentra dentro de la jurisdicción territorial de este ordenamiento
 
-IV. Relación de personal responsable de la ejecución de los estudios de riesgo-vulnerabilidad;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-V. Currículum vitae de cada uno de los técnicos o Profesionales a su servicio y acreditar tener profesión relacionada a la materia.
+IV. Relación de personal y currículo, de cada uno de los técnicos y profesionistas responsables de la elaboración de los estudios de riesgo-vulnerabilidad, así como copia de los documentos con los que acrediten sus conocimientos en la materia.
+
+V. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2007)
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 56 Bis.
+
+Los terceros acreditados que soliciten la renovación de su registro, deberán presentar la solicitud por escrito, 30 días naturales antes de que concluya la vigencia del mismo, ante la Dirección General, a la que anexará:
+
+I. Copia Fotostática de las constancias donde se acredite que se han tomado cursos de actualización y capacitación en materia de Protección Civil, por un equivalente de 25 horas como mínimo durante la vigencia del registro por renovarse, a través de documentos expedidos por instituciones oficiales o académicas legalmente reconocidas.
+
+II. Presentar bajo protesta de decir verdad, un informe de las actividades desarrolladas durante la vigencia del registro, listando los Programas Internos y/o Especiales de Protección Civil que haya elaborado y, en su caso, la capacitación que hubiere impartido que sólo podrá ser respecto de las brigadas que se mencionan en los Términos de Referencia y para las que se haya expedido el registro durante el año anterior, el cual deberá contener:
+
+a) Nombre de la empresa o establecimiento, así como su domicilio.
+
+b) Giro comercial o actividad que se realiza en la (bis) establecimiento.
+
+c) Tipo de programas elaborados.
+
+d) Fecha de presentación de cada uno de los programas en la Delegación correspondiente.
+
+e) Fecha de aprobación emitida por la Delegación, y
+
+f) Tipo, nombre y lugar de impartición de los cursos, así como número de asistentes.
+
+III.- Escrito donde se manifieste bajo protesta de decir verdad, que las condiciones bajo las cuales se otorgó el registro que se renueva, siguen estando vigentes, en caso contrario, se señalen las modificaciones a que hubiera lugar.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 56 Ter.
+
+Los registros a que se refiere el presente capítulo podrán ser prorrogados por única ocasión hasta por un periodo de 6 meses, mediante Acuerdo Administrativo del Director General, con el aval de los Titulares de la Secretaría y de la Subsecretaría, cuando concurran circunstancias especiales que hubieran impedido su renovación en los términos previstos en el artículo anterior.
 
 ### CAPITULO NOVENO. DEL MANTENIMIENTO Y RECARGA DE EXTINTORES
 
@@ -1045,3 +1077,11 @@ TERCERO.- La Norma Técnica de que trata el artículo 58, último párrafo, de e
 CUARTO.- Las solicitudes en trámite a la entrada en vigor de este Reglamento, se substanciarán, en lo que beneficie a los interesados, conforme a lo previsto en el presente.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los quince días del mes de diciembre de dos mil cinco. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.-FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUÍZ SUÁREZ.-FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 21 DE DICIEMBRE DE 2007.
+
+Primero.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Este decreto entrará en vigor al día siguiente hábil al de su publicación en la Gaceta Oficial del Distrito Federal.
