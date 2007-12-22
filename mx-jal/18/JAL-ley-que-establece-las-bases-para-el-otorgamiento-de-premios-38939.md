@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2005-02-15"
+last_updated: "2007-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -219,13 +219,17 @@ VII. Condecoración "José María Vigil": a las personas que se distingan en las
 
 VIII. Condecoración "Al Merito Deportivo": a los jaliscienses que se distingan como deportistas destacados y se hayan hecho acreedores a la admiración, respeto y reconocimiento por causa de la proyección deportiva que realicen o hayan realizado por la misma población de Jalisco.
 
-> <small>(ADICIONADA P.O. 15 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-IX. Condecoración "Fray Antonio Alcalde": a las personas físicas o jurídicas que se distingan por ser benefactoras sociales o humanitarias; y
+IX. Condecoración "Fray Antonio Alcalde": a las personas físicas o jurídicas que se distingan por ser benefactoras sociales o humanitarias;
 
-> <small>(ADICIONADA P.O. 15 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-X. Condecoración "Salvador López Chávez": a las personas físicas o morales que se hayan distinguido por su espíritu empresarial y de fomento económico.
+X. Condecoración "Salvador López Chávez": a las personas físicas o jurídicas que se hayan distinguido por su espíritu empresarial y de fomento económico; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XI. Condecoración "Guillermo González Camarena": a las personas físicas o jurídicas que se hayan distinguido por su destacada labor en el campo de la ciencia y la tecnología.
 
 ###### Artículo 20.
 
@@ -326,3 +330,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 P.O. 15 DE FEBRERO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE DICIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
