@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-los-derechos-y-el-desarrollo-de-los-pueblos-y-las-545
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-11"
-last_updated: "2007-01-11"
+last_updated: "2007-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDIGENAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 11 de enero de 2007.
 
@@ -525,7 +525,9 @@ o) Comité de Planeación para el Desarrollo del Estado.
 
 III. El Director General de la Comisión, sólo con derecho a voz.
 
-En los casos a los que se refiere la fracción II, cada miembro propietario contará con un suplente que deberá tener un nivel jerárquico de Subsecretario de Estado:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+En los casos a los que se refiere la fracción II, cada miembro propietario podrá contar y designar previamente a un suplente, que deberá tener un nivel jerárquico inmediato inferior al del titular.
 
 Los integrantes a los que se refieren las fracciones I y II tendrán derecho a voz y voto. El Presidente podrá invitar a la persona que considere pertinente en relación al asunto a tratar, sólo con derecho a voz.
 
@@ -794,3 +796,9 @@ El Secretario General de Gobierno
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE DICIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
