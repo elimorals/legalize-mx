@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2007-02-17"
+last_updated: "2007-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -130,6 +130,24 @@ En el Estado de Tabasco toda persona tiene derecho a un ambiente saludable y equ
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
 
 Los ciudadanos tienen la obligación de contribuir, participar y exigir la preservación, restauración y el equilibrio ecológico, disponiendo libremente de la acción popular para denunciar cualquier daño o deterioro ambiental ante el Estado o los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 4° Bis.
+
+El derecho a la información es inherente al ser humano y por lo tanto el Estado tiene la obligación primigenia de reconocerlo y garantizarlo, tomando en consideración los siguientes principios:
+
+I. Es información pública la generada o en posesión de cualquier autoridad, entidad, órgano y organismo estatal o municipal, así como de las personas físicas o jurídicas colectivas que reciban recursos públicos, cuando esté directamente relacionada con el ejercicio de éstos;
+
+II. Sólo con motivo de salvaguardar el interés público y por un período de tiempo previamente determinado, la información pública podrá reservarse en los términos y condiciones que fijen las leyes;
+
+III. El derecho a la intimidad que incluye la privacidad de la vida familiar en primer grado y en general la que se refiere a sus datos personales, deberá ser garantizado por el Estado en los términos y excepciones que fijen las leyes, teniendo siempre como referente el respeto a la dignidad humana;
+
+IV. Atendiendo el principio de máxima publicidad en el ejercicio del derecho a la información pública, toda persona sin distinción alguna, y sin necesidad de acreditar interés alguno o justificar su utilización podrá acceder gratuitamente a la información pública, a sus datos personales o a la rectificación de éstos;
+
+V. Toda autoridad, entidad, órgano y organismo estatal o municipal y toda persona física o jurídica colectiva generadora o en posesión de información pública deberá preservar sus documentos en archivos administrativos actualizados y los primeros publicarán a través de los medios electrónicos disponibles la información completa y actualizada sobre sus indicadores de gestión, el ejercicio de los recursos públicos, incluyendo aquella relativa a los recursos públicos que entregan a las personas físicas o jurídicas colectivas; y
+
+VI. El Estado establecerá mecanismos y procedimientos de revisión expeditos para hacer efectivo el derecho a la información. Los procedimientos se sustanciarán ante un órgano autónomo que se denominará Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, dotado de plena autonomía jurídica, de gestión y presupuestaria, con personalidad jurídica y patrimonio propio, y que tendrá facultades para hacer cumplir a los sujetos obligados y sancionar la inobservancia de las disposiciones jurídicas en materia de acceso a la información pública.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -494,6 +512,8 @@ Los Diputados al Congreso del Estado no podrán ser reelectos para el período i
 ###### ARTICULO 17.
 
 Los Diputados propietarios, durante el período de su encargo, no podrán desempeñar, con excepción de los docentes, ninguna comisión, cargo ni empleo de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo, sin previa licencia de la Cámara, en cuyo caso cesarán en sus funciones, mientras dure la nueva ocupación. La misma regla se usará con los Diputados suplentes cuando éstos sean llamados al ejercicio.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 La infracción de este precepto se castigará con la pérdida del cargo de Diputado.
 
@@ -1831,6 +1851,8 @@ Los servidores públicos serán responsables del cumplimiento de estas bases en 
 
 Para los efectos de esta Constitución, la residencia no se pierde por ausencia en el desempeño de cargo de elección popular, de comisiones oficiales del Gobierno del Estado o con motivo del deber de todo mexicano de servir a la Patria y sus Instituciones.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ###### ARTICULO 78.
 
 Cuando desaparezcan los Poderes Ejecutivo y Legislativo del Estado, o bien desaparezcan los tres Poderes del mismo, entrará a ejercer como Gobernador provisional el último Presidente del Tribunal Superior de Justicia y en su defecto, el último Presidente del Congreso desaparecido.
@@ -2520,3 +2542,13 @@ P. O. 17 DE FEBRERO DE 2007.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Hasta en tanto no se hagan las reformas pertinentes a las disposiciones jurídicas secundarias seguirán aplicándose las vigentes en lo que no se opongan al presente Decreto.
+
+TERCERO.- Al Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, creado por mandato de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, publicada en el suplemento C, al Periódico Oficial 6723, el 10 de febrero de 2007, le será otorgada de manera inmediata la autonomía de gestión y presupuestaria con personalidad jurídica y patrimonio propio, sin que para ello deba crearse un nuevo Instituto, ni elegirse en consecuencia nuevos consejeros.
+
+CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del correspondiente Decreto, para que emitan su voto de aprobación o rechazo a las reformas y adición acordada, por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se tendrá como aprobatorio el voto del Ayuntamiento omiso.
