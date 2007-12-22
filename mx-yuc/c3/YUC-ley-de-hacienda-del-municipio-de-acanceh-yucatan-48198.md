@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-acanceh-yucatan-48198"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2006-12-28"
+last_updated: "2007-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el 3 de enero de 2006.
 
@@ -557,29 +557,95 @@ DE LA TARIFA
 
 Cuando la Dirección del Catastro del Municipio de Acanceh, Yucatán, expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir de la expedición de la cedula respectiva.
 
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 TABLA DE VALORES CATASTRALES DE TERRENO
 
 VALORES UNITARIOS DE TERRENO Y CONSTRUCCIONES
 
-(VEASE ARCHIVO ANEXO)
+ZONAS O CALLES TRAMOS ENTRE $ POR M2
+
+CALLE Y CALLE
+
+#### SECCION 1. DE LA CALLE 21 A LA CALLE 19 14 16 50.00
+
+DE LA CALLE 19 A LA CALLE 17 12 16 30.00
+
+DE LA CALLE 17 A LA CALLE 15 10 16 20.00
+
+RESTO DE LA SECCIÓN 15.00
+
+#### SECCION 2. DE LA CALLE 21 A LA CALLE 25 16 20 100.00
+
+DE LA CALLE 25 A LA CALLE 27 14 20 40.00
+
+DE LA CALLE 27 A LA CALLE 31 10 20 20.00
+
+RESTO DE LA SECCIÓN 15.00
+
+#### SECCION 3. DE LA CALLE 21 A LA CALLE 23 20 22 100.00
+
+DE LA CALLE 21 A LA CALLE 25 20 24 80.00
+
+DE LA CALLE 21 A LA CALLE 29 20 28 40.00
+
+DE LA CALLE 21 A LA CALLE 31 20 32 20.00
+
+RESTO DE LA SECCIÓN 15.00
+
+#### SECCION 4. DE LA CALLE 21 A LA CALLE 19 16 22 50.00
+
+DE LA CALLE 21 A LA CALLE 17 16 26 40.00
+
+DE LA CALLE 21 A LA CALLE 15 16 34 30.00
+
+RESTO DE LA SECCIÓN 15.00
+
+ZONA COMERCIAL 130.00
+
+COLONIA EL ZAPOTAL 20.00
+
+COLONIA SANTO DOMINGO 20.00
+
+FRACCIONAMIENTOS 100.00
+
+VALORES UNITARIOS DE TERRENO EN ZONA $ POR
+
+RÚSTICA HECTÁREA
+
+RUSTICO CON CALLE PAVIMENTADA 3,000.00
+
+RÚSTICO CON CALLE TERRAPLENADA 1,000.00
+
+RÚSTICO SIN ACCESOS 700.00
+
+Valores unitarios de construcción del Municipio de Acanceh, Yucatán, independientemente de la clasificación del predio y de su ubicación.
+
+Tipo de Material de Valor por
+
+la Construcción: Mpm M2.
+
+Blocks y concreto con techos de vigas y bovedillas $ 1,000.00
+
+Blocks y concretos con techos de laminas de zinc
+
+asbesto $ 500.00
+
+Blocks y concretos con techos de laminas de cartón $ 350.00
+
+Mampostería con techos de rollizos, vigas de $ 800.00
+
+hierro, madera teja
+
+Mampostería con techos de laminas de zinc o
+
+asbesto $ 400.00
+
+Mampostería con techos de laminas de cartón $ 250.00
+
+Mampostería con techos de paja, cartón o ripio $ 150.00
 
 DEL PAGO
-
-#### SECCION I. De la Formación del Poder Legislativo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
-
-#### SECCION II. De la Reunión y Renovación del Congreso
-
-(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
-
-#### SECCION III. De la Iniciativa y Formación de las Leyes
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-#### SECCION IV. De las Facultades del Congreso
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 45.
 
@@ -997,71 +1063,93 @@ Para las licencias señaladas en el artículo 57 fracción I de la Ley General d
 
 I.- Para el otorgamiento de licencias para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, se cobrará una cuota de acuerdo a la siguiente tarifa:
 
-a).- Vinatería o licorería $ 3,000.00
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-b).- Expendio de cerveza $ 3,000.00
+a).- Vinatería o licorería $ 6,000.00
 
-c).- Área de bebidas alcohólicas en supermercados y minisuper $3,000.00
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-II.- A los permisos eventuales para el funcionamiento de giros relacionados con la venta de bebidas alcohólicas, se les aplicará la tarifa diaria de $250.00.
+b).- Expendio de cerveza $ 6,000.00
 
-III.- Para la autorización de funcionamiento en horario extraordinario de giros relacionados con la venta de bebidas alcohólicas se aplicará por cada hora la siguiente tarifa:
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-a).- Vinaterías $200.00
+c).- Área de bebidas alcohólicas en supermercados
 
-b).- Expendio de cerveza $200.00
+y minisuper $ 6,000.00
 
-c).- Departamento de licores en supermercados $200.00
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-d).- Otros $200.00
+II.- A los permisos eventuales para el funcionamiento de giros relacionados con la venta de bebidas alcohólicas, se les aplicará la tarifa diaria de $500.00.
 
-IV.- Para el otorgamiento de licencias de funcionamiento de giros relacionados con la prestación de servicios que incluyan el expendio de bebidas alcohólicas se aplicarán las tarifas siguientes:
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-a).- Centros nocturnos y cabarets $ 3,000.00
+III.- Para la autorización de funcionamiento en horario extraordinario de giros relacionados con la prestación de servicios que incluyan el expendio de bebidas alcohólicas se aplicarán las tarifas siguientes:
 
-b).- Cantinas y bares $ 3,000.00
+a).- Vinaterías $ 1,000.00
 
-c).- Restaurantes y bares $ 3,000.00
+b).- Expendio de cerveza $ 1,000.00
 
-d).- Discotecas y clubes sociales $ 3,000.00
+c).- Departamento de licores en supermercados $ 1,000.00
 
-e).- Salones de baile, billar o boliche $ 3,000.00
+d).- Otros $ 1,000.00
 
-f).- Restaurantes en general, fondas y loncherías $ 3,000.00
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-g).- Hoteles, moteles y posadas $ 3,000.00
+IV.- Para el otorgamiento de las licencias de funcionamiento de giros relacionados con la prestación de servicios que incluyan el expendio de bebidas alcohólicas se aplicarán las tarifas siguientes:
 
-V.- Para el otorgamiento de permisos eventuales de funcionamiento de giros relacionados con la prestación de servicios que incluyan el expendio de bebidas alcohólicas, se aplicarán las tarifas diarias que a continuación se señalan:
+a).- Centros nocturnos y cabarets $ 20,000.00
 
-a).- Centros nocturnos $ 1,000.00
+b).- Cantinas y bares $ 10,000.00
 
-b).- Cantinas y bares $ 1,000.00
+c).- Restaurantes y bares $ 10,000.00
 
-c).- Discotecas y clubes sociales $ 1,000.00
+d).- Discotecas y clubes sociales $ 10,000.00
 
-d).- Salones de baile, billar o boliche $ 800.00
+e).- Salones de baile, billar o boliche $ 10,000.00
 
-e).- Fondas, taquerías, loncherías y similares $ 250.00
+f).- Restaurantes en general, fondas y loncherías $ 10,000.00
 
-VI.- Por el otorgamiento de la revalidación anual de licencias para el funcionamiento de los establecimientos que se relacionan en lo incisos a) y d) de éste artículo de la ley se pagará un derecho conforme a las siguientes tarifas:
+g).- Hoteles, moteles y posadas $ 10,000.00
 
-a).- Vinaterías y Licorerías $ 1,500.00
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-b).- Expendios de cervezas $ 1,500.00
+V.- Para el otorgamiento de los permisos eventuales de funcionamiento de giros relacionados con la prestación de servicios que incluyen el expendio de bebidas alcohólicas, se aplicarán las tarifas diarias que a continuación se señalan:
 
-c).- Departamento de licores en supermercados y minisuper $ 1,500.00
+a).- Centros nocturnos $ 5,000.00
 
-d).- Cantinas y bares $ 1,500.00
+b).- Cantinas y bares $ 5,000.00
 
-e).- Restaurantes y bares $ 1,500.00
+c).- Discotecas y clubes sociales $ 5,000.00
 
-f).- Centros nocturnos y cabarets $ 1,500.00
+d).- Salones de baile, billar o boliche $ 2,000.00
 
-g).- Discotecas y clubes sociales $ 1,500.00
+e).- Fondas, taquerías, loncherías y similares $ 1,000.00
 
-h).- Salones de baile, de billar o boliche $ 1,500.00
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-i).- Restaurantes en general, fondas, loncherías, hoteles y moteles $1,500.00
+VI.- Por el otorgamiento de la revalidación anual de licencias para el funcionamiento de los establecimientos que se relacionan con los incisos a) y d) de este artículo de la Ley, se pagará un derecho conforme a las siguientes tarifas:
+
+a).- Vinaterías y Licorerías $ 3,000.00
+
+b).- Expendios de cervezas $ 3,000.00
+
+c).- Departamento de licores en supermercados
+
+y minisuper $ 3,000.00
+
+d).- Cantinas y bares $ 3,000.00
+
+e).- Restaurantes y bares $ 3,000.00
+
+f).- Centros nocturnos y cabarets $ 3,000.00
+
+g).- Discotecas y clubes sociales $ 3,000.00
+
+h).- Salones de baile, de billar o boliche $ 3,000.00
+
+i).- Restaurantes en general, fondas, loncherías,
+
+hoteles y moteles $ 3,000.00
 
 Los establecimientos con venta de bebidas alcohólicas que no cuenten con licencia de funcionamiento vigente en el ejercicio de que se trate podrán ser clausurados por la autoridad municipal por el perjuicio que pueden causar al interés general.
 
@@ -1071,39 +1159,43 @@ Para efectos de la expedición de licencias de funcionamiento se deberá cumplir
 
 Para las Licencias señaladas en el artículo 57 fracción II de la Ley General de Hacienda para los Municipios del Estado de Yucatán se cobrarán de acuerdo a lo siguiente:
 
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 CLASIFICACIÓN DE LOS ANUNCIOS.
 
-1. Por su posición o ubicación.
+I. Por su posición o ubicación.
 
-De fachadas, muros, y bardas. 0.70 salario mínimo por m2.
+a) De fachadas, muros, y bardas: 0.70 salario mínimo por m2.
 
-De vehículos. Triciclo 0.25 salario mínimo por día.
+b) De vehículos:
 
-Automóvil 0.50 salario mínimo por día.
+1. Triciclo 0.50 salario mínimo por día.
 
-2. Por su duración.
+2. Automóvil 0.50 salario mínimo por día.
 
-Anuncios temporales: Duración que no exceda los setenta días. 0.30 salario mínimo por m2.
+II. Por su duración.
 
-Anuncios permanentes: Anuncios pintados, placas denominativas, fijados en cercas y muros, cuya duración exceda los setenta días. 1.40 salario mínimo por m2.
+a) Anuncios temporales: Duración que no exceda los setenta días. 0.30 salario mínimo por m2.
 
-3. Por su colocación.
+b) Anuncios permanentes: Anuncios pintados, placas denominativas, fijados en cercas y muros, cuya duración exceda los setenta días. 1.20 salario mínimo por m2.
 
-Colgantes 0.30 salario mínimo por m2.
+III. Por su colocación.
 
-De azotea. 0.30 salario mínimo por m2.
+a) Colgantes 0.60 salario mínimo por m2.
 
-Pintados. 0.70 salario mínimo por m2.
+b) De azotea. 0.60 salario mínimo por m2.
 
-4. Anuncios con aparatos de sonido.
+IV. Anuncios con aparatos de sonido.
 
-Anuncios que se realicen por medio de aparatos de sonido, ya sean fijos o semi-fijos.
+Anuncios que se realicen por medio de aparatos de sonido, ya sean fijos o semifijos.
 
-Fijos 0.50 salario mínimo por día
+a) Fijos 0.50 salario mínimo por día
 
-Triciclo 0.25 salario mínimo por día.
+b) Triciclo 0.25 salario mínimo por día.
 
-Automóvil 0.50 salario mínimo por día
+c) Automóvil 0.50 salario mínimo por día
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 En el caso que no se retiren los anuncios al vencimiento del plazo concedido se cobrará una multa del 50% del permiso concedido más los gastos que le ocasione al ayuntamiento el retirarlo.
 
@@ -1185,135 +1277,185 @@ La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado,
 
 Por el otorgamiento de los permisos de construcción, reconstrucción, ampliación, demolición de inmuebles; de fraccionamientos; construcción de pozos y albercas; ruptura de banqueta, empedrados o pavimento, causarán y pagarán derechos de acuerdo con las siguientes tarifas:
 
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 I.- Permisos de construcción de particulares:
 
-Láminas de zinc, cartón, madera, paja
+a) Láminas de zinc, cartón, madera, paja.
 
-1.- Por cada permiso de construcción de hasta 40 metros cuadrados $ 5.00 por M2
+1.- Por cada permiso de construcción de hasta 40 metros cuadrados $ 10.00 por M2
 
-2.- Por cada permiso de construcción de 41 a 120 metros cuadrados $ 5.00 por M2
+2.- Por cada permiso de construcción de 41 a 120 metros cuadrados $ 10.00 por M2
 
-3.- Por cada permiso de construcción de 121 a 240 metros cuadrados $ 5.00 por M2
+3.- Por cada permiso de construcción de 121 a 240 metros cuadrados. $ 10.00 por M2
 
-4.- Por cada permiso de construcción de 241 metros cuadrados en adelante $ 5.00 por M2
+4.- Por cada permiso de construcción de 241 metros cuadrados en adelante. $ 10.00 por M2
 
 b) Vigueta y bovedilla.
 
-1.- Por cada permiso de construcción de hasta 40 m2 $ 6.00 por M2.
+1.- Por cada permiso de construcción de hasta 40 m2 $ 15.00 por M2.
 
-2.- Por cada permiso de construcción de 41 a 120 m2 $ 6.00 por M2.
+2.- Por cada permiso de construcción de 41 a 120 m2. $ 15.00 por M2.
 
-3.- Por cada permiso de construcción de 121 a 240 m2 $ 6.00 por M2.
+3.- Por cada permiso de construcción de 121 a 240 m2. $ 15.00 por M2.
 
-4.- Por cada permiso de construcción de 241 m2. en adelante $6.00 por M2.
+4.- Por cada permiso de construcción de 241 m2. en adelante $ 15.00 por M2.
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 II.- Permisos de construcción de INFONAVIT, Bodegas, Industrias, comercios y grandes construcciones:
 
-Láminas de zinc, cartón, madera, paja.
+a) Láminas de zinc, cartón, madera, paja.
 
-1.- Por cada permiso de construcción de hasta 40 metros cuadrados. $ 5.40 por M2.
+1.- Por cada permiso de construcción de hasta 40 metros cuadrados. $ 10.00 por M2.
 
-2.- Por cada permiso de construcción de 41 a 120 metros cuadrados. $ 5.40 por M2.
+2.- Por cada permiso de construcción de 41 a 120 metros cuadrados. $ 10.00 por M2.
 
-3.- Por cada permiso de construcción de 121 a 240 metros cuadrados. $ 5.40 por M2.
+3.- Por cada permiso de construcción de 121 a 240 metros cuadrados $ 10.00 por M2.
 
-4.- Por cada permiso de construcción de 241 metros cuadrados en adelante. $ 5.40 por M2.
+4.- Por cada permiso de construcción de 241 metros cuadrados en adelante. $ 10.00 por M2.
 
 b) Vigueta y bovedilla.
 
-1.- Por cada permiso de construcción de hasta 40 metros cuadrados. $ 6.5 por M2
+1.- Por cada permiso de construcción de hasta 40 metros cuadrados. $ 10.00 por M2.
 
-2.- Por cada permiso de construcción de 41 a 120 metros cuadrados. $ 6.50 por M2.
+2.- Por cada permiso de construcción de 41 a 120 metros cuadrados. $ 10.00 por M2.
 
-3.- Por cada permiso de construcción de 121 a 240 metros cuadrados. $ 6.5 por M2.
+3.- Por cada permiso de construcción de 121 a 240 metros cuadrados. $ 10.00 por M2.
 
-4.- Por cada permiso de construcción de 241 metros cuadrados en adelante. $ 6.50 por M2.
+4.- Por cada permiso de construcción de 241 metros cuadrados en adelante. $ 10.00 por M2.
 
-III.- Por cada permiso de remodelación $ 6.50 por M2.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-IV.- Por cada permiso de ampliación $6.50 por M2.
+III.- Por cada permiso de remodelación $ 10.00 por M2.
 
-V.- Por cada permiso de demolición $6.50 por M2.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-VI.- Por cada permiso para la ruptura de banquetas, empedrados o pavimento $45.00 por M2.
+IV.- Por cada permiso de ampliación $ 10.00 por M2.
 
-VII.- Por construcción de albercas $45.00 por M3.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-VIII.- Por construcción de pozos $45.00 por Metro lineal
+V.- Por cada permiso de demolición $ 10.00 por M2.
 
-IX.- Por cada autorización para la construcción o demolición de bardas u obras lineales $ 3.50 por Metro lineal
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+VI.- Por cada permiso para la ruptura de banquetas, empedrados o pavimento $ 50.00 por M2.
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+VII.- Por construcción de albercas $ 50.00 por M3.
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Por construcción de pozos $ 50.00 por Metro lineal
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+IX.- Por cada autorización para la construcción o demolición de bardas u obras lineales $ 10.00 por metro lineal
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 X.- Por inspección para el otorgamiento de la constancia de terminación de obra.
 
-Láminas de zinc, cartón, madera, paja.
-
-1.- Hasta 40 metros cuadrados Dos Salarios Mínimos Vigente
-
-2.- De 41 a 120 metros cuadrados Dos Salarios Mínimos Vigente
-
-3.- De 121 a 240 metros cuadrados Tres Salarios Mínimos Vigente
-
-4- De 241 metros cuadrados en adelante Cuatro Salarios Mínimos Vigente
-
-b) Vigueta y bovedilla.
+a) Láminas de zinc, cartón, madera, paja.
 
 1.- Hasta 40 metros cuadrados Tres Salarios Mínimos Vigente
 
-2.- De 41 a 120 metros cuadrados Cuatro Salarios Mínimos Vigente
+2.- De 41 a 120 metros cuadrados Tres Salarios Mínimos Vigente
 
-3.- De 121 a 240 metros cuadrados Cinco Salarios Mínimos Vigente
+3.- De 121 a 240 metros cuadrados Cuatro Salarios Mínimos Vigente
 
-4- De 241 metros cuadrados en adelante Seis Salarios Mínimos Vigente
+4.- De 241 metros cuadrados en adelante Cinco Salarios Mínimos Vigente
+
+b) Vigueta y bovedilla.
+
+1.- Hasta 40 metros cuadrados Cuatro Salarios Mínimos Vigente
+
+2.- De 41 a 120 metros cuadrados Cinco Salarios Mínimos Vigente
+
+3.- De 121 a 240 metros cuadrados Seis Salarios Mínimos Vigente
+
+4.- De 241 metros cuadrados en adelante Siete Salarios Mínimos Vigente
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 XI.- Por inspección, revisión de planos y alineamientos del terreno para el otorgamiento de la licencia o permiso de construcción para viviendas de tipo INFONAVIT o cuyo uso sea para bodegas, industrias, comercio, etc.
 
-Láminas de zinc, cartón, madera, paja
+a) Láminas de zinc, cartón, madera, paja.
 
-1.- Hasta 40 metros cuadrados Tres Salarios Mínimos Vigente
+1.- Hasta 40 metros cuadrados Cuatro Salarios Mínimos Vigente
 
-2.- De 41 a 120 metros cuadrados Tres Salarios Mínimos Vigente
+2.- De 41 a 120 metros cuadrados Cuatro Salarios Mínimos Vigente
 
-3.- De 121 a 240 metros cuadrados Tres Salarios Mínimos Vigente
+3.- De 121 a 240 metros cuadrados Cuatro Salarios Mínimos Vigente
 
-4- De 241 metros cuadrados en adelante Tres Salarios Mínimos Vigente
+4.- De 241 metros cuadrados en adelante Cuatro Salarios Mínimos Vigente
 
 b) Vigueta y bovedilla.
 
-1.- Hasta 40 metros cuadrados Tres Salarios Mínimos Vigente
+1.- Hasta 40 metros cuadrados Cuatro Salarios Mínimos Vigente
 
-2.- De 41 a 120 metros cuadrados Tres Salarios Mínimos Vigente
+2.- De 41 a 120 metros cuadrados Cuatro Salarios Mínimos Vigente
 
-3.- De 121 a 240 metros cuadrados Tres Salarios Mínimos Vigente
+3.- De 121 a 240 metros cuadrados Cuatro Salarios Mínimos Vigente
 
-4.- De 241 metros cuadrados en adelante Tres Salarios Mínimos Vigente
+4.- De 241 metros cuadrados en adelante Cuatro Salarios Mínimos Vigente
 
-XII.- Por el derecho de inspección para el otorgamiento exclusivamente de la constancia de alineamiento de un predio Tres Salarios Mínimos Vigente
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-XIII.- Certificado de cooperación Tres Salarios Mínimos Vigente
+XII.- Por el derecho de inspección para el otorgamiento exclusivamente de la constancia de alineamiento de un predio Cuatro Salarios Mínimos Vigente
 
-XIV.- Licencia de uso del suelo Tres Salarios Mínimos Vigente
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-XV.- Inspección para expedir licencia para efectuar excavaciones o zanjas en vía pública Tres Salarios Mínimos Vigente
+XIII.- Certificado de cooperación Cuatro Salarios Mínimos Vigente
 
-XVI.- Inspección para expedir licencia o permiso para el uso de andamios o tapiales. Tres Salarios Mínimos Vigente
+> <small>(REFORMADA,D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-XVII.- Constancia de factibilidad de uso del suelo apertura de una vía pública, unión, división, rectificación de medidas o fraccionamiento de inmuebles. Tres Salarios Mínimos Vigente
+XIV.- Licencia de uso del suelo Cuatro Salarios Mínimos Vigente
 
-XVIII.- Inspección para el otorgamiento de la licencia que autorice romper o hacer cortes del pavimento, las banquetas y las guarniciones, así como ocupar la vía pública para instalaciones provisionales. Tres Salarios Mínimos Vigente
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-XIX.- Carta de liberación de energía eléctrica Tres Salarios Mínimos Vigente
+XV.- Inspección para expedir licencia para efectuar excavaciones o zanjas en vía pública. Cuatro Salarios Mínimos Vigente
 
-XX.- Revisión de planos, supervisión y expedición de constancia para obras de urbanización (vialidad, aceras, guarnición, drenaje, alumbrado, placas de nomenclatura, agua potable, etc. Tres Salarios Mínimos Vigente
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-XXI.- Por el sellado de planos. Un salario mínimo
+XVI.- Inspección para expedir licencia o permiso para el uso de andamios o tapiales. Cuatro Salarios Mínimos Vigente
 
-XXII.- Revisión de planos para trámites de uso de suelo. Un salario mínimo
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XVII.- Constancia de factibilidad de uso del suelo apertura de una vía pública, unión, división, rectificación de medidas o fraccionamiento de inmuebles. Cuatro Salarios Mínimos Vigente
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XVIII.- Inspección para el otorgamiento de la licencia que autorice romper o hacer cortes del pavimento, las banquetas y las guarniciones, así como ocupar la vía pública para instalaciones provisionales. Cuatro Salarios Mínimos Vigente
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XIX.- Carta de liberación de energía eléctrica. Cuatro Salarios Mínimos Vigente
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XX.- Revisión de planos, supervisión y expedición de constancia para obras de urbanización, vialidad, aceras, guarnición, drenaje, alumbrado, placas de nomenclatura y agua potable. Cuatro Salarios Mínimos Vigente
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XXI.- Por el sellado de planos. Dos salario mínimos vigente
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XXII.- Revisión de planos para trámites de uso de suelo. Dos salarios mínimos vigente
 
 Quedarán exentos del pago de este Derecho, las construcciones de cartón, madera o paja, siempre que se destinen a casa habitación.
 
-Por el permiso para el cierre de calles por fiestas o cualquier evento o espectáculo en la vía pública, se pagará la cantidad de $ 200.00 por día.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-Por el otorgamiento de los permisos para luz y sonido, bailes populares con grupos locales y otros se causarán y pagarán derecho de $ 200.00 por día.
+Por el permiso para el cierre de calles por fiestas o cualquier evento o espectáculo en la vía pública, se pagará la cantidad de $ 250.00 por día.
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+Por el otorgamiento de los permisos para luz y sonido, bailes populares con grupos locales y otros se causarán y pagarán derecho de $ 1,000.00 por día.
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 Por el otorgamiento de los permisos para cosos taurinos, se causarán y pagarán derecho de $ 20.00 por día por cada uno de los palqueros.
 
@@ -1359,13 +1501,15 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 Son objeto de estos derechos, los servicios que presta el Municipio a través de la Dirección de Protección y Vialidad municipal. Estos servicios comprenden las actividades de vigilancia que se preste a las personas físicas o morales que lo soliciten, para la atención de establecimientos que proporcionen servicios al público en general o de eventos o actividades públicas lícitas destinadas a la comercialización
 
-Por los Derechos de Seguridad Pública se pagarán las cuotas siguientes:
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-I.- Por día de servicio $ 160.00 por cada elemento
+Por los derechos de Seguridad Pública se pagarán las cuotas siguientes:
 
-II.- Por hora $ 10.00 por cada elemento
+I.- Por día de servicio $ 200.00 por cada elemento
 
-III.- Por mes de servicio $ 2,500.00 por cada elemento
+II.- Por hora $ 20.00 por cada elemento
+
+III.- Por mes de servicio $ 3,000.00 por cada elemento
 
 ### Capítulo V. Otros Servicios Prestados por el Ayuntamiento
 
@@ -1377,17 +1521,19 @@ I.- Certificados de residencia, y
 
 II.- Constancias y copias certificadas.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 89.
 
-Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
+Las personas físicas o morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
-Servicio Cantidad (Pesos)
+Servicio Importe
 
 A) Por participar en licitaciones $ 600.00
 
-B) Certificaciones de residencia, constancias y copias certificadas $ 30.00
+B) Certificaciones de residencia,
 
-Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente al .34 del importe de un salario mínimo vigente en el Estado de Yucatán, en la fecha de la expedición, salvo en aquellos casos en que ésta propia ley señale de manera expresa otra tasa o tarifa y el certificado de estar al corriente en el pago del impuesto predial, que para su expedición requerirá el anexo del recibo de pago de este derecho.
+constancias y copias certificadas $ 30.00
 
 ### Capítulo VI. Derechos por Servicio de Rastro
 
@@ -1409,23 +1555,49 @@ Los derechos por los servicios de Rastro se causarán de conformidad con lo sigu
 
 SERVICIO TARIFA
 
-I.- Por Transporte 0.10 de salarios mínimos vigente en el Estado de Yucatán
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-II.- Por matanza de ganado 0.30 de salarios mínimos vigente en el Estado de Yucatán
+I.- Por Transporte 0.50 de salarios mínimos vigente
+
+en el Estado de Yucatán
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+II.- Por Matanza de ganado 1.00 de salarios mínimos vigente
+
+en el Estado de Yucatán
 
 Por cada cabeza de ganado:
 
-a) Vacuno 0.15 salarios mínimos vigente en el Estado de Yucatán
+a) Vacuno 0.50 salarios mínimos vigente
 
-b) Porcino 0.15 salarios mínimos vigente en el Estado de Yucatán
+en el Estado de Yucatán
 
-c) Equino y Caprino 0.05 salarios mínimos vigente en el Estado de Yucatán
+b) Porcino 0.50 salarios mínimos vigente
 
-III.- Guarda en corrales 0.05 salarios mínimos vigente en el Estado de Yucatán
+en el Estado de Yucatán
 
-IV.- Peso en básculas 0.10 salarios mínimos vigente en el Estado de Yucatán
+c) Equino y Caprino 0.50 salarios mínimos vigente
 
-V.- Inspección fuera del rastro 0.25 salarios mínimos vigente en el Estado de Yucatán
+en el Estado de Yucatán
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+III.- Guarda en corrales 0.50 salarios mínimos vigente
+
+en el Estado de Yucatán
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+IV.- Peso en básculas 0.50 salarios mínimos vigente
+
+en el Estado de Yucatán
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+V.- Inspección fuera del rastro 0.50 salarios mínimos vigente
+
+en el Estado de Yucatán
 
 La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Acanceh, Yucatán, deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley de Salud del Estado de Yucatán. Esta disposición es de orden público e interés social.
 
@@ -1455,95 +1627,75 @@ El objeto de estos derechos está constituido por los servicios que presta el Ca
 
 La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-I.-Emisión de copias fotostáticas:
+I.- Emisión de copias fotostáticas:
 
-a) Por cada hoja simple tamaño carta, de cédulas, planos,
+a) Por cada hoja simple tamaño carta, de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra. $ 15.00
 
-parcelas, formas de manifestación de traslación de dominio
+b) Por cada copia simple tamaño oficio. $ 20.00
 
-o cualquier otra manifestación. $10.00
-
-b) Por cada copia simple tamaño oficio. $15.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 II.- Por expedición de copias certificadas de:
 
-a) Cédulas, planos, parcelas, manifestaciones, tamaño
+a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $ 30.00
 
-carta. $25.00
+b) Plano tamaño oficio, por cada una. $ 35.00
 
-b) Plano tamaño oficio, por cada una. $30.00
+c) Plano hasta 4 veces tamaño oficio, por cada una. $ 60.00
 
-c) Plano hasta 4 veces tamaño oficio, por
+d) Planos mayores de 4 veces de tamaño oficio por cada una. $ 120.00
 
-cada una. $55.00
-
-d) Planos mayores de 4 veces de tamaño oficio por
-
-cada una. $105.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 III.- Por expedición de constancias de:
 
-a) División (por cada parte). $20.00
+a) División (por cada parte). $ 50.00
 
-b) Unión, rectificación de medidas, urbanización y
+b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura. $ 50.00
 
-cambio de nomenclatura $30.00
+c) Cédulas catastrales. $ 50.00
 
-c) Cédulas catastrales. $30.00
+d) No propiedad, única propiedad, valor catastral, número oficial de predio, información de bienes inmuebles. $ 80.00
 
-d) No propiedad, única propiedad, valor catastral,
+e) Inscripción vigente. $ 100.00
 
-número oficial de predio, información de bienes
-
-inmuebles. $70.00
-
-e) Inscripción vigente. $80.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 IV.- Por elaboración de planos:
 
-a) Catastrales a escala. $160.00
+a) Catastrales a escala. $250.00
 
-b) Topográficos hasta 100 hectáreas. $280.00
+b) Topográficos hasta 100 hectáreas. $550.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-V.- Por revalidación de oficios de división, unión
+V.- Por revalidación de oficios de división, unión rectificación de Medidas. $ 30.00
 
-y rectificación de Medidas. $20.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 VI.- Por reproducción de documentos microfilmados:
 
-a) Tamaño carta. $45.00
+a) Tamaño carta. $ 50.00
 
-b) Tamaño oficio. $55.00
+b) Tamaño oficio. $ 60.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-VII.- Por diligencias de verificación de medidas físicas
+VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios. $250.00
 
-y de colindancias de predios $140.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 VIII.- Por actualizaciones de predios urbanos y rústicos se causarán y pagarán los siguientes derechos:
 
-De un valor de $0.01 A $4,000.00 $23.00
+De un valor de $ 0.01 A $ 4,000.00 $ 30.00
 
-De un valor de $4,001.00 A $7,000.00 $28.00
+De un valor de $ 4,001.00 A $ 7,000.00 $ 40.00
 
-De un valor de $7,001.00 A $9,000.00 $35.00
+De un valor de $ 7,001.00 A $ 9,000.00 $ 50.00
 
-De un valor de $9,001.00 En adelante $40.00
+un valor de $ 9,001.00 En adelante $ 100.00
 
 ###### Artículo 97.
 
@@ -1553,17 +1705,25 @@ No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rú
 
 Los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo siguiente:
 
-I.- Hasta 160,000 m2 $50.00 por m2
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-II.- Más de 160,000 m2 por metros excedentes $50.00 por m2
+I.- Hasta 160,000 m2 $ 100.00 por m2
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+II.- Más de 160,000 m2 Por metros excedentes $ 100.00 por m2
 
 ###### Artículo 99.
 
 Por la revisión de la documentación de construcción en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo:
 
-I.- Comercial $50.00 por departamento
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-II.- Habitacional $50.00 por departamento
+I.- Comercial $ 100.00 por departamento
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+II.- Habitacional $ 100.00 por departamento
 
 ###### Artículo 100.
 
@@ -1639,43 +1799,45 @@ I.- Tratándose del servicio de recolección de basura, la periodicidad y forma 
 
 II.- La superficie total del predio que deba limpiarse, a solicitud del propietario.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 110.
 
-Por los servicios correspondientes al (sic) recolecta de basura se causará y pagarán las siguientes cantidades:
+Por los servicios correspondientes a la recolecta de basura se causará y pagarán las cantidades siguientes:
 
 I.- Por cada viaje de recolección $ 50.00
 
-II.- En el caso de predios baldíos (por metro cuadrado) $ 5.00
+II.- En el caso de predios baldíos (por metro cuadrado) $ 10.00
 
 III.- Tratándose de servicio contratado, se aplicará las siguientes tarifas:
 
 a) Habitacional
 
-1.- Por recolección esporádica $ 5.00
+1.- Por recolección esporádica $ 10.00
 
-2.- Por recolección periódica $ 5.00
+2.- Por recolección periódica $ 10.00
 
 Tratándose de la recoja de desechos metálicos, enseres de cocina, cacharros, fierros, troncos y ramas, se causará y cobrará una tarifa fija diaria adicional de $ 15.00
 
 b) Comercial
 
-1.- Por recolección esporádica $ 5.00 por cada viaje
+1.- Por recolección esporádica $ 10.00 por cada viaje
 
-2.- Por recolección periódica $ 5.00 semanal
+2.- Por recolección periódica $ 10.00 semanal
 
 c) Industrial
 
-1.- Por recolección esporádica $ 50.00 por cada viaje
+1.- Por recolección esporádica $ 100.00 por cada viaje
 
-2.- Por recolección periódica $ 400.00 semanal
+2.- Por recolección periódica $ 500.00 semanal
 
 El derecho por el uso de basureros propiedad del municipio se causará y cobrará de acuerdo a la siguiente clasificación:
 
-a) Basura domiciliaria $ 35.00 por viaje
+a) Basura domiciliaria $ 50.00 por viaje
 
-b) Desechos orgánicos $ 70.00 por viaje
+b) Desechos orgánicos $ 100.00 por viaje
 
-c) Desechos industriales $ 70.00 por viaje
+c) Desechos industriales $ 100.00 por viaje
 
 ###### Artículo 111.
 
@@ -1691,11 +1853,19 @@ Los predios relacionados con la prestación del servicio de limpia en cualquiera
 
 Son sujetos obligados al pago de estos derechos las personas físicas o morales que hagan uso de este servicio, ya sea que se preste directamente por el Ayuntamiento o por conducto de un organismo descentralizado, y siempre que no se cuente con medidores de conformidad con lo siguiente:
 
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 I.- $ 20.00 por toma doméstica.
 
-II.- $ 40.00 por toma comercial.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-III.- $ 40.00 por toma industrial.
+II.- $ 50.00 por toma comercial.
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+III.- $ 80.00 por toma industrial.
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 IV.- Por conexión a la red municipal de Agua Potable se pagarán 10 salarios mínimos vigente en el Estado de Yucatán, incluyendo servicio y materiales.
 
@@ -1707,23 +1877,31 @@ Los Derechos por los servicios de panteones se pagaran de conformidad con la sig
 
 T A R I F A
 
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 I.- Por renta de bóveda:
 
-a) Por renta de bóveda grande por un período de dos años o su prorroga por el mismo período se pagará $240.00
+a) Por renta de bóveda grande por un período de dos años o su prorroga por el mismo período se pagará $ 300.00
 
-b) Por renta de bóveda grande por un período de dos años o su prorroga por el mismo período se pagará $104.00
+b) Por renta de bóveda grande por un período de dos años o su prorroga por el mismo período se pagará $150.00
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 II.- Por concesión para utilizar a perpetuidad una sepultura en los cementerios:
 
-a) Osario o cripta mural $120.00
+a) Osario o cripta mural $ 200.00
 
-b) Bóveda chica $704.00
+b) Bóveda chica $ 1,000.00
 
-c) Bóveda grande $1,625.00
+c) Bóveda grande $ 2,000.00
 
-III.- Mausoleos por metro cuadrado $95.00
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-IV.- Servicio de inhumación o exhumación $75.00
+III.- Mausoleos por metro cuadrado $ 100.00
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+IV.- Servicio de inhumación o exhumación $ 150.00
 
 El pago de los derechos correspondientes se hará en el momento en que se solicite el servicio.
 
@@ -2175,17 +2353,11 @@ D.O. 28 DE DICIEMBRE DE 2006.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-###### ARTICULO UNICO.
+D.O. 22 DE DICIEMBRE DE 2007.
 
-Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para la reforma del artículo 33 de la misma, este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial.
+###### ARTÍCULO ÚNICO.
 
-P.O. 1 DE FEBRERO DE 1960.
-
-Artículo primero.- Esta Ley se publicará el primero de enero y entrará en vigor el cinco de febrero del año de 1960.
-
-Artículo segundo.- Salvo los transitorios, quedan derogados los demás artículos de la Constitución vigente que no estén incorporados a esta Ley, ya sea íntegros o reformados.
-
-P.O. 1 DE NOVIEMBRE DE 1962.
+Este Decreto entrará en vigor el día primero de enero del año 2008, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### ARTICULO UNICO.
 
