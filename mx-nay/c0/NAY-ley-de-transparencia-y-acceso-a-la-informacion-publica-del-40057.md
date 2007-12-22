@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4005
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-16"
-last_updated: "2004-06-16"
+last_updated: "2007-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el miércoles 16 de junio de 2004.
 
@@ -656,3 +658,41 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso 
 Presidente, Dip. Carlos Ruiz Flores.- Rúbrica.- Secretario, Dip. Enrique Mejía Pérez.- Rúbrica.- Secretario, Dip. Juan Manuel Mier Pecina, Rúbrica.-
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los quince días del mes de junio del año dos mil cuatro.- C.P. ANTONIO ECHEVARRIA DOMINGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE DICIEMBRE DE 2007.
+
+Artículo Primero. La presente ley entrará en vigor el primero de enero de 2008, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, contenida en el decreto 8582 publicado el 16 de junio de 2004.
+
+Artículo Tercero. Las modificaciones para la presentación obligatoria de la información fundamental a que se refiere esta ley, en todos sus rubros, deberá estar disponible en Internet a más tardar en un plazo de ocho meses contado a partir de la entrada en vigor de este ordenamiento.
+
+Artículo Cuarto. Los entes públicos cuentan con un plazo de ocho meses contado a partir de la entrada en vigor del presente ordenamiento, para que procedan a estructurar todos sus sistemas administrativos y de archivo que garanticen el pleno cumplimiento de las obligaciones de transparencia y del derecho de acceso a la información establecidas en esta ley.
+
+Igual plazo contará para la expedición o reforma de sus reglamentos y demás disposiciones administrativas.
+
+Artículo Quinto. En los términos del plazo establecido en el artículo tercero transitorio del decreto por el que se adiciona un segundo párrafo con siete fracciones al artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 20 de julio de 2007, los poderes públicos y Ayuntamientos proveerán lo conducente para la implementación de sus respectivos sistemas electrónicos.
+
+> <small>(F. DE E., 18 DE ENERO DE 2008)</small>
+
+Los municipios con población menor a setenta mil habitantes, deberán cumplir con sus obligaciones de transparencia teniendo disponible la información fundamental a que se refiere esta ley por cualquier otro medio que les sea posible. Si fuere el caso, deberán, dentro de los sesenta días hábiles posteriores a la entrada en vigor del presente ordenamiento, comunicar oficialmente al titular del Poder Ejecutivo, su decisión de acogerse a lo dispuesto por el artículo 13 de esta misma ley, comunicándolo al Instituto para sus efectos.
+
+Artículo Sexto. Para los efectos de lo dispuesto por el artículo 42 de la presente ley, relativo a la designación del Presidente del Instituto se estará a lo siguiente:
+
+> <small>(F. DE E., 18 DE ENERO DE 2008)</small>
+
+a) Dentro de los cuarenta días hábiles naturales a la entrada en vigor de la presente ley, el Congreso procederá a la designación en los términos de la Ley Orgánica del Poder Legislativo.
+
+b) En tanto se cumple dicho plazo, el actual comisionado Presidente de la Comisión Estatal de Transparencia y Acceso a la Información fungirá provisionalmente como Presidente del Instituto.
+
+> <small>(F. DE E., 18 DE ENERO DE 2008)</small>
+
+Artículo Séptimo. El titular del Poder Ejecutivo y el Congreso, en el ámbito de sus respectivas atribuciones, deberán establecer las prevenciones presupuestales para que los entes públicos puedan cumplir con las obligaciones de transparencia y acceso a la información, integrando y haciendo funcionar sus Unidades de Enlace y Comités de Información, en los términos que dispones (sic) esta ley.
+
+Igualmente, dictarán las normas y medidas presupuestales para garantizar el debido funcionamiento del Instituto, en los términos de esta ley.
+
+Artículo Octavo. Los municipios, en sus respetivos presupuestos tomarán las medidas pertinentes para destinar recursos aplicables al cumplimiento de sus obligaciones de transparencia y acceso a la información, en los términos a que se refiere esta ley.
+
+Artículo Noveno. El Instituto dentro del término de tres meses, contados a partir de la entrada en vigor de esta ley, deberá expedir el reglamento respectivo.
