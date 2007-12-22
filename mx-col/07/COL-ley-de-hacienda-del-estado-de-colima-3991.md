@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2007-02-08"
+last_updated: "2007-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -373,23 +373,19 @@ II.- La prestación de servicios mediante el sistema de tiempo compartido o de c
 
 III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
-
-Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
-
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
+Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
 Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -402,6 +398,10 @@ Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declar
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -1465,9 +1465,9 @@ b).- Expedición de certificados de existencia o inexistencia de gravámenes:
 
 1.- De uno a diez años anteriores 3.069
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-2.- De once a más años anteriores 3.609
+2.- De once a más años anteriores 4.202
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -1481,13 +1481,13 @@ Sin que exceda el cobro de un monto máximo de 5.105
 
 b1).- Expedición de certificados de existencia o inexistencia de gravámenes en los Kioscos de Servicios e Información:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-1.- Si el predio no tiene gravámenes 3.000
+1.- Si el predio no tiene gravámenes 3.069
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-2.- Si el predio tiene gravámenes 4.500
+2.- Si el predio tiene gravámenes 5.105
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -2483,37 +2483,27 @@ Artículo 55 A.- Por los servicios prestados en la Dirección de Ecología.
 
 NUMERO DE DIAS DE SALARIO MINIMO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-I.- Por la recepción, evaluación y otorgamiento de la autorización del informe de factibilidad ambiental en materia de impacto ambiental:
+I.- Recepción, evaluación y otorgamiento del resolutivo del informe de factibilidad ambiental en materia de impacto ambiental 30.000
 
-1.- Por la recepción y evaluación 20.000
+Estarán exentos de pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 días de salario mínimo; así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
 
-2.- Por el otorgamiento de la autorización 10.000
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
 
-Estarán exentos del pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 días de salario mínimo; así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
+1.- En su modalidad MIA-1 70.000
 
-II.- Recepción, evaluación y otorgamiento de la autorización de la manifestación de impacto ambiental:
+2.- En su modalidad MIA-2 120.000
 
-1.- Por la recepción y evaluación:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-1.1.- En su modalidad MIA-1 50.000
-
-1.2.- En su modalidad MIA- 2 80.000
-
-2.- Por el otorgamiento de la autorización:
-
-2.1.- En su modalidad MIA-1 20.000
-
-2.2.- En su modalidad MIA-2 40.000
-
-III.- Por la revalidación del dictamen de impacto ambiental:
+III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo de la autorización o ampliación de vigencia:
 
 1.- En su modalidad de informe de factibilidad: 10.000
 
-2. En su modalidad MIA-1 20.000
+2.- En su modalidad MIA-1 20.000
 
 3.- En su modalidad MIA-2 30.000
 
@@ -2521,13 +2511,13 @@ III.- Por la revalidación del dictamen de impacto ambiental:
 
 4.- En su modalidad de diagnóstico ambiental 40.000
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-IV.- Por la recepción, evaluación y otorgamiento de la autorización del manifiesto de riesgo ambiental:
+5.- En su modalidad de riesgo ambiental 20.000
 
-1.- Por la recepción y evaluación 50.000
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-2.- Por el otorgamiento de la autorización 20.000
+IV.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de riesgo ambiental 30.000
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -2541,13 +2531,9 @@ V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Serv
 
 VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-VII.- Con la recepción, evaluación y otorgamiento de la autorización del manifiesto de diagnóstico ambiental en materia de impacto ambiental:
-
-1.- Por la recepción y evaluación 100.000
-
-2.- Por el otorgamiento de la autorización 50.000
+VII.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de diagnóstico ambiental en materia de impacto ambiental 150.000
 
 VIII.- Poda o derribo de árboles:
 
@@ -2571,7 +2557,9 @@ f).- Arboles de 121 o más centímetros de diámetro del fuste principal 25.000
 
 2.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2002)
 
-(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002) No se pagará el derecho a que se refiere esta fracción, cuando la Dirección de Ecología dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante o que por sus condiciones físicas de deterioro se dictamine procedente su derribo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+No se pagará el derecho a que se refiere esta fracción, cuando la Dirección de Ecología dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante o que por sus condiciones físicas de deterioro se dictamine procedente su derribo.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -2617,9 +2605,25 @@ XIV.- Por el acceso y uso de las instalaciones del Parque Regional Metropolitano
 
 2.- Alberca, por adulto con derecho a tobogán 0.250
 
-3.- Lanchas, por media hora 0.175
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-4.- Ingreso a zona de bosque 0.050
+3.- Ingreso por niño a zona de bosque 0.063
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+4.- Ingreso por adulto a zona de bosque 0.095
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+5.- Por uso de espacio en bosque o albercas para fiesta infantil 5.250
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XV.- Por la recepción y evaluación de la solicitud y otorgamiento del dictamen de congruencia de factibilidad de uso de suelo en materia de ordenamiento ecológico 10.000
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XVI.- Por la recepción, evaluación y otorgamiento de la cédula de operación anual a las fuentes fijas de jurisdicción estatal 10.000
 
 No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII del este (sic) artículo cuando los servicios de que se trate estén destinados a la realización de obras públicas.
 
@@ -2761,6 +2765,18 @@ XII.- Por el cambio de plan de estudios y reconocimiento de validez oficial de e
 
 XIII.- Por el cambio de plan de estudios y reconocimiento de validez oficial de estudios técnico superior, licenciatura y postgrado 71.980
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XIV.- Por análisis, evaluación y dictamen académico de cada plan de estudios de educación.
+
+a).- Media superior 900.000
+
+b).- Técnico superior universitario o profesional asociado 1,200.000
+
+c) Licenciatura 1,2000.000
+
+d) Postgrado 1,500.000
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 58.
@@ -2834,6 +2850,16 @@ VI.- Por trámites de baja 1.000
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 VII.- Por exámenes profesionales 19.000
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Por la inscripción semestral o ciclo equivalente a estudios de postgrado:
+
+a).- Especialidad 160.000
+
+b).- Maestría 170.000
+
+c).- Doctorado 180.000
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -3069,19 +3095,19 @@ a).- Por la primera hoja 0.000
 
 b).- Por cada hoja más o fracción 0.000
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-II.- Expedición de copias certificadas:
+II.- Expedición de copias certificadas en procedimientos civiles, mercantiles y sucesorios:
 
-a).- Por la primera hoja 0.000
+a).- Por la primera hoja 0.674
 
-b).- Por cada hoja más o fracción 0.000
+b).- Por cada hoja más o fracción 0.135
 
 III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-IV.- Copias certificadas de sentencias 0.000
+IV.- Copias certificadas de sentencia 1.350
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3548,3 +3574,11 @@ Para los efectos del ajuste monetario en el pago de las contribuciones a que se 
 P.O. 8 DE FEBRERO DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 22 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Los contribuyentes del Impuesto a la Prestación del Servicio de Enseñanza y del Impuesto sobre Ejercicio de Profesiones, no estarán obligados a presentar la declaración anual del ejercicio fiscal 2007, siendo por lo tanto optativa su presentación.
+
+SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial «El Estado de Colima» el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2008 el monto se ajustará a la decena de pesos inferior más próxima con excepción de la cuota señalada en el artículo 64, fracción III, en cuyo caso la cuota será de $5.00 (cinco pesos 00/100 M.N.).
+
+TERCERO.- El presente decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial "EL ESTADO DE COLlMA".
