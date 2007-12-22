@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-kanasin-yucatan-47962"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2006-01-03"
+last_updated: "2007-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE KANASIN, YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE KANASIN, YUCATAN, PUBLICADA EN EL D.O. DE 22 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -301,9 +303,9 @@ En los términos establecidos en el párrafo anterior, para el pago de los créd
 
 La existencia del personal de guardia no habilita los días en que se suspendan las labores. Si al término del vencimiento fuere día inhábil, el plazo se prorrogará al siguiente día hábil.
 
-#### SECCIÓN CUARTA. DEL PAGO A PLAZOS
-
 #### SECCIÓN QUINTA. DE LOS PAGOS EN GENERAL
+
+#### SECCIÓN CUARTA. DEL PAGO A PLAZOS
 
 ###### Artículo 28.
 
@@ -1946,3 +1948,25 @@ OFICIAL MAYOR
 Q.I. RAÚL ARCEO ALONZO
 
 Quienes firman por la ausencia temporal del C. Gobernador del Estado, de conformidad a lo dispuesto por el artículo 25 de la Ley Orgánica de la Administración Pública del Estadio de Yucatán.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 22 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley de Hacienda del Municipio de Kanasín, publicada en el Diario Oficial del Gobierno del Estado el día 3 de enero de 2006, en el Decreto 646.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de la presente Ley quedan sin efecto todas las disposiciones fiscales que se opongan a la misma.
+
+###### ARTÍCULO TERCERO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO POR EL QUE SE APRUEBA LA LEY DE HACIENDA DEL MUNICIPIO DE KANASIN, YUCATAN.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto y las Leyes contenidas en él, entrarán en vigor el día primero de enero del año dos mil ocho previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
