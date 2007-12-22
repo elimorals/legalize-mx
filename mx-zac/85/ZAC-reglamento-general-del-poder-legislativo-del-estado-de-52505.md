@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2006-12-13"
+last_updated: "2007-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -653,9 +653,13 @@ III. Lectura de una síntesis de actas de sesiones anteriores para su discusión
 
 IV. Lectura de la síntesis de correspondencia;
 
-V. Lectura de iniciativas para turnarlas a las comisiones correspondientes;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-VI. Lectura de dictámenes;
+V. Lectura de una síntesis de la o las iniciativas para turnarlas a las comisiones correspondientes;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+VI. Lectura de una síntesis del o de los dictámenes;
 
 VII. Discusiones y votaciones;
 
@@ -766,6 +770,10 @@ V. Remisión al Poder Ejecutivo.
 ###### Artículo 94.
 
 Las resoluciones de la Legislatura tendrán el carácter de ley, decreto o acuerdo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+Artículo 94 bis.- En las Sesiones del Pleno a que se refiere el artículo 83 de este Reglamento, el orador proponente de iniciativas, puntos de acuerdo o dictámenes, podrá solicitar a la Presidencia, la inserción íntegra de su propuesta en el Diario de los Debates a que se refiere la fracción XI del artículo 20 de la Ley Orgánica del Poder Legislativo, en cuyo caso, podrá argumentar su propuesta exponiendo un resumen o síntesis de su contenido.
 
 ### Capítulo II. De las iniciativas
 
@@ -1837,7 +1845,9 @@ XIII. Proporcionar el apoyo necesario en las funciones legislativas y parlamenta
 
 XIV. Solicitar a los titulares de las direcciones y de las unidades administrativas la información necesaria para la elaboración del programa operativo anual;
 
-XV. Cuidar la oportuna elaboración del Diario de los Debates, así como supervisar y evaluar la página de internet de la Legislatura;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XV. Cuidar la oportuna elaboración del Diario de los Debates y de la Gaceta Parlamentaria, así como supervisar y evaluar la página de Internet de la Legislatura;
 
 XVI. Recibir y contestar con el auxilio de las unidades administrativas respectivas, la correspondencia de la Legislatura;
 
@@ -2212,3 +2222,11 @@ DIP. JOSÉ ANTONIO VANEGAS MÉNDEZ
 SECRETARIO
 
 DIP. HILARIO TORRES JUÁREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
