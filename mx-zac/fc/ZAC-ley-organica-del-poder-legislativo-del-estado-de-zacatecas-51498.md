@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2006-07-15"
+last_updated: "2007-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -327,9 +327,17 @@ VIII. De conformidad con el Reglamento General, aplicar las sanciones a los dipu
 
 IX. Rendir informe anual del ejercicio legislativo y del estado que guarda el presupuesto;
 
-X. Designar y tomar la protesta a los Consejeros representantes del Poder Legislativo que integrarán el Consejo General del Instituto Electoral del Estado, de conformidad con lo dispuesto en la Constitución Política del Estado; y
+X. Designar y tomar la protesta a los Consejeros representantes del Poder Legislativo que integrarán el Consejo General del Instituto Electoral del Estado, de conformidad con lo dispuesto en la Constitución Política del Estado; y (sic)
 
-XI. Las demás que le confiera la Constitución Política del Estado.
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
+
+XI. Crear el Diario de los Debates y la Gaceta Parlamentaria, y actualizarlos en los términos que señale el Reglamento.
+
+El Diario de los Debates es el órgano oficial en el que se publicará la fecha y el lugar en que se verifique la sesión, el orden del día, el nombre del presidente que presida, el acta de la sesión anterior, la versión escrita de las discusiones en el orden en que se desarrollaron y la inserción íntegra de todos los documentos que fueron leídos.
+
+La Gaceta Parlamentaria es el instrumento de publicidad del Poder Legislativo y deberá contener las iniciativas, los puntos de acuerdo y los dictámenes que se agenden en cada sesión. Adicionalmente podrán ser incluidos otros documentos cuando así lo determine la Presidencia de la Mesa Directiva;
+
+XII. Las demás que le confiera la Constitución Política del Estado.
 
 ### Capítulo V. De las atribuciones con relación a la ciudadanía
 
@@ -2092,3 +2100,11 @@ DIP. FEDERICO BERNAL FRAUSTO
 SECRETARIO
 
 DIP. JUAN FRANCISCO AMBRÍZ VALDÉZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
