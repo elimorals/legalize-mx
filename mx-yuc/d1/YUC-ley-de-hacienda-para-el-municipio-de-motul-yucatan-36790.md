@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-36790"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2006-01-24"
+last_updated: "2007-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -549,27 +549,31 @@ Fraccionamiento De $ 500.00
 
 3.- Valores unitarios de construcción
 
-(VEASE ARCHIVO ANEXO)
+(VER TABLA ANEXA)
 
-Valores de predios rústicos por hectárea
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-Colindancias con carretera $ 450.00 Por hectárea
+Valores de predios rústicos por hectárea, en salarios mínimos.
 
-Colindancias con camino blanco $ 300.00 Por hectárea
+Colindancias con carretera 12 Por hectárea
 
-Colindancia con brecha $ 250.00 Por hectárea
+Colindancias con camino blanco 8 Por hectárea
 
-> <small>(REFORMADO, D.O. 24 DE ENERO DE 2006)</small>
+Colindancia con brecha 6 Por hectárea
 
-En el caso de predios cuyo valor catastral es igual o inferior a $ 14,000.00 se pagará un mínimo de $ 21.00 de impuesto predial.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+En el caso de predios cuyo valor catastral es igual o inferior a 300 salarios mínimos, estos pagarán el equivalente a 0.45 salarios mínimos de impuesto predial.
 
 DEL PAGO
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 48.
 
-El impuesto predial sobre la base de valor catastral deberá cubrirse por bimestres anticipados dentro de los primeros quince días de cada uno de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
+El impuesto predial sobre la base de valor catastral deberá cubrirse por anualidades anticipadas dentro de primer mes, de cada año.
 
-Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de un descuento del 10% sobre el importe de dicho impuesto.
+Cuando el contribuyente pague el impuesto predial correspondiente a todo el año, durante el mes de enero de dicho año, gozará de un descuento del 10% sobre el importe de dicho impuesto y de hacerlo durante el mes de febrero gozará de un descuento del 5%.
 
 EXENCIONES
 
@@ -845,9 +849,13 @@ b) Clase o Tipo de Diversión o Espectáculo
 
 c) Ubicación del lugar donde se llevará a cabo el evento
 
-II.- Cumplir con las disposiciones que para tal efecto fije la Regiduría de Espectáculos, en el caso del municipio que no hubiere el reglamento respectivo, y
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-III.- Presentar a la Tesorería Municipal, cuando menos tres días antes de la realización del evento, la emisión total de los boletos de entrada, señalando el número de boletos que corresponden a cada clase y su precio al público, a fin que se autoricen con el sello respectivo.
+II.- Cumplir con las disposiciones que para tal efecto fije la Regiduría de Espectáculos o el Director del área administrativa responsable de ellos, en el caso de que no hubiere el reglamento respectivo o esté no lo prevea, y
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+III.- Presentar a la Tesorería Municipal, cuando menos diez días antes de la realización del evento, la emisión total de los boletos de entrada, señalando el número de boletos que corresponden a cada clase y su precio al público, a fin que se autoricen con el sello respectivo.
 
 DEL OBJETO
 
@@ -889,9 +897,13 @@ DEL PAGO
 
 El pago de este impuesto se sujetará a lo siguiente:
 
-a) Si pudiera determinarse previamente el monto del ingreso y se trate de contribuyentes eventuales, el pago se efectuará antes de la realización de la diversión o espectáculo respectivo.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
-b) Si no pudiera determinarse previamente el monto del ingreso, se garantizará el interés del Municipio mediante depósito ante la Tesorería Municipal, del 50% del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate y el pago del impuesto, se efectuará al término del propio espectáculo, pagando el contribuyente la diferencia que existiere a su cargo, o bien, reintegrándose al propio contribuyente, la diferencia que hubiere a su favor.
+a) Tratándose de contribuyentes eventuales y si se pudiera determinar o calcular previamente el monto del ingreso, el pago se efectuará antes de la realización de la diversión o espectáculo respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
+b) Si no pudiera determinarse previamente el monto del ingreso, se garantizará el interés del Municipio mediante depósito ante la Tesorería Municipal, del 70% del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate, el pago del impuesto se efectuará al término del propio espectáculo, pagando el contribuyente la diferencia que existiere a su cargo, o bien, reintegrándose al propio contribuyente, la diferencia que hubiere a su favor.
 
 Cuando los sujetos obligados a otorgar la garantía a que se refiere el párrafo anterior, no cumplan con tal obligación, la Tesorería Municipal, podrá suspender el evento hasta en tanto no se otorgue dicha garantía, para ello la autoridad fiscal municipal podrá solicitar el auxilio de la fuerza pública.
 
@@ -1023,7 +1035,7 @@ DE LA TARIFA
 
 La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado, conforme lo siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VER TABLA ANEXA)
 
 DE LAS EXENCIONES
 
@@ -1065,21 +1077,25 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 ### CAPÍTULO III. OTROS SERVICIOS PRESTADOS POR EL AYUNTAMIENTO
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 87.
 
-Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
+Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente, estimado en salarios mínimos:
 
-Servicio Cantidad ( Pesos )
+Servicio Salarios
 
-A) Por participar en licitaciones $ 400.00
+Mínimos
 
-B) Certificaciones y constancias expedidas por el Ayuntamiento
+A) Por participar en licitaciones. 10
 
-$ 22.00
+B) Certificaciones expedidas por el Ayuntamiento. 0.30
 
-C) Venta de formas oficiales impresas. $ 10.00
+C) Constancias simples expedidas por el Ayuntamiento. 0.15
 
-Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente al .15 del importe de un salario mínimo vigente en el Estado de Yucatán, en la fecha de la expedición, salvo en aquellos casos en que ésta propia ley señale de manera expresa otra tasa o tarifa y el certificado de estar al corriente en el pago del impuesto predial, que para su expedición requerirá el anexo del recibo de pago de este derecho, que emite la Universidad Autónoma de Yucatán.
+D) Venta de formas oficiales impresas. 0.25
+
+Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente a 0.20 de un salario mínimo vigente en el Estado de Yucatán, en la fecha de la expedición, salvo en aquellos casos en que ésta propia ley señale de manera expresa otra tasa o tarifa.
 
 ### CAPÍTULO IV. DERECHOS POR SERVICIO DE RASTRO
 
@@ -1119,111 +1135,11 @@ Son sujetos de estos derechos las personas físicas o morales que soliciten los 
 
 El objeto de estos derechos está constituido por los servicios que presta el Catastro Municipal.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 94.
 
-La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa.
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-I.- Emisión de copias fotostáticas simples.
-
-a) Por cada hoja simple tamaño carta, de cédulas,
-
-planos, parcelas, formas de manifestación de traslación
-
-de dominio o cualquier otra manifestación $ 16.00
-
-b) Por cada copia simple tamaño oficio $ 21.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-II.- Por expedición de copias fotostáticas certificadas de:
-
-a) Cédulas, planos, parcelas, manifestaciones,
-
-tamaño carta. $ 21.00
-
-b) Fotostáticas de plano tamaño oficio,
-
-por cada una. $ 26.00
-
-c) Fotostáticas de plano hasta 4 veces
-
-tamaño oficio, por cada una. $ 51.00
-
-d) Fotostáticas de planos mayores de 4
-
-veces de tamaño oficio por cada una. $ 92.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-III.- Por expedición de oficios de:
-
-a) División (por cada parte) $ 16.00
-
-b) Unión, rectificación de medidas,
-
-urbanización y cambio de nomenclatura $ 26.00
-
-c) Cédulas catastrales. $ 52.00
-
-d) Constancias de no propiedad, única
-
-propiedad, valor catastral, número oficial
-
-de predio, certificado de inscripción vigente
-
-e información de bienes inmuebles $52.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-IV.- Por elaboración de planos:
-
-a) Catastrales a escala. $ 155.00
-
-b) Planos topográficos hasta 100 hectáreas. $ 258.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-V.- Por revalidación de oficios de división,
-
-unión y rectificación de medidas. $ 26.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-VI.- Por reproducción de documentos
-
-Microfilmados:
-
-a) Tamaño carta. $ 41.00
-
-b) Tamaño oficio $ 52.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-VII.- Por diligencias de verificación de medidas
-
-físicas y de colindancias de predios. $ 155.00
-
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
-
-VIII.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-De 01-00-00 A 10-00-00 $ 565.00
-
-De 10-00-01 A 20-00-00 $ 1,133.00
-
-De 20-00-01 A 30-00-00 $ 1,236.00
-
-De 30-00-01 A 40-00-00 $ 2,369.00
-
-De 40-00-01 A 50-00-00 $ 3,090.00
-
-De 50-00-01 En adelante $ 515.00 por hectárea
-
-IX.- Por actualizaciones de predios urbanos se causarán y pagarán los siguientes derechos:
+La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa, tasada en salarios mínimos vigentes en el estado de Yucatán:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -1231,21 +1147,25 @@ IX.- Por actualizaciones de predios urbanos se causarán y pagarán los siguient
 
 No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas que sean destinadas plenamente a la producción agrícola o ganadera.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 96.
 
-Los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo siguiente:
+Los fraccionamientos causarán derechos de deslinde, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con los siguientes costos en salarios mínimos:
 
-I.- Hasta 160,000 m2 $ 0.050 por m2
+I.- Hasta 160,000 metros cuadrados 0.012 por metros cuadrados
 
-II.- Más de 160,000 m2 Por metros excedentes $ 0.023 por m2
+II.- Más de 160,000 metros cuadrados por metros excedentes 0.006 por metros cuadrados
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 97.
 
-Por la revisión de la documentación de construcción en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo:
+Por la revisión de la documentación de construcción en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo tabulado en salarios mínimos:
 
-I.- Tipo comercial $ 40.00 por departamento
+I.- Tipo comercial $1.00 por departamento
 
-II.- Tipo habitacional $ 30.00 por departamento
+II.- Tipo habitacional $ 0.75 por departamento
 
 ###### ARTÍCULO 98.
 
@@ -1277,21 +1197,17 @@ La base para determinar el monto de estos derechos, será el número de metros c
 
 DE LA TASA Y DEL PAGO
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 102.
 
-Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa:
+Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa tasada en salarios mínimos:
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán 5 salarios mínimos vigente mensual por locales cerrados;
 
-I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán $ 190.00 mensual por locales cerrados;
+II.- Por cuota fija para comerciantes ambulantes, se pagarán desde 0.44 salario mínimo por día;
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-II.- Por cuota fija para comerciantes ambulantes, se pagarán $ 45.00 por día; y
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán $ 3.00 m2.
+III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán 2 salarios mínimos diarios.
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
@@ -1387,151 +1303,63 @@ Las licencias de funcionamiento que se expidan por cualquiera de los conceptos a
 
 Para que la Tesorería municipal esté en condiciones de revalidar, el peticionario deberá acompañar copia certificada de la Licencia de salud o determinación sanitaria expedida por la Secretaría de Salud del Estado de Yucatán.
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 113.
 
-Por el otorgamiento de licencias para el funcionamiento de establecimientos o locales cuyos giros sean la venta de bebidas alcohólicas se cobrará una cuota de acuerdo a la siguiente tarifa:
+La tarifa que se cobrará para el otorgamiento de licencias de apertura para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, se basará en los metros cuadrados totales del establecimiento y será la siguiente, que se dividirá en tres tipos:
 
-I.- Vinaterías $4,000.00
+a) Establecimientos de hasta 50 metros cuadrados pagaran el equivalente a 100 salarios mínimos
 
-II.- Expendio de cerveza $4,000.00
+b) Establecimientos mayores a 50 y menores de 150 metros cuadrados, pagaran el equivalente a 150 salarios mínimos.
 
-III.- Departamento de licores en supermercados $4,000.00
+c) Establecimientos mayores a 150 metros cuadrados, pagaran el equivalente a 200 salarios mínimos.
 
-IV.- Mini súper $4,000.00
-
-> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 114.
 
-Para el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyos giros sean la prestación de servicios que incluyan el expendio de bebidas alcohólicas se cobrará una cuota de acuerdo a la siguiente tarifa:
+Todo establecimientos, negocio y/o empresas en general, sean estas comerciales, industriales, de servicios o cualquier otro giro, que no esté relacionados con la venta de bebidas alcohólicas, deberán:
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+I.- Pagar por única vez el derecho para el otorgamiento de la correspondiente autorización del uso del suelo y funcionamiento, este deberá ser cubierto hasta 30 días posteriores al inicio de actividades.
 
-I.- Centros nocturnos y
+II.- Pagar anualmente el derecho correspondiente a la renovación, dentro de los primeros 60 días de cada año.
 
-Discotecas $ 5,000.00
+III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasados en salarios mínimos para su cobro:
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+(VEASE ARCHIVO ANEXO)
 
-II.- Cantinas y bares $ 5,000.00
+Con el objeto de fomentar el desarrollo empresarial, comercial, industrial y de servicios, entre los ciudadanos e incentivar sus inversiones, toda aquella persona física o moral, que demuestre fehacientemente su vecindad en este municipio, por ese simple hecho gozará del 50% de descuento en el pago de las tarifas descritas en la tabla anterior.
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-III.- Clubes sociales $ 5,000.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-IV.- Salones de baile $ 5,000.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-V.- Restaurantes, hoteles
-
-y moteles $ 5,000.00
-
-> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 115.
 
-Por el otorgamiento de la revalidación de licencias para el funcionamiento de los establecimientos que se relacionan en el artículo 111 de esta ley, se pagará un derecho conforme a la siguiente tarifa:
+Por el otorgamiento de la revalidación anual de licencias para el funcionamiento de los establecimientos que se relacionan en el artículo 113 de esta Ley, se pagará un derecho conforme a la siguiente tarifa que se basará en los metros cuadrados totales del establecimiento y será la siguiente, que se dividirá en tres tipos:
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+a) Establecimientos de hasta 50 metros cuadrados pagarán el equivalente a 15 salarios mínimos.
 
-I.- Vinaterías $ 750.00
+b) Establecimientos mayores a 50 y menores de 150 metros cuadrados, pagarán el equivalente a 25 salarios mínimos.
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+c) Establecimientos mayores a 150 metros cuadrados, pagarán el equivalente a 50 salarios mínimos.
 
-II.- Expendio de cerveza $ 750.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-III.- Departamento de licores
-
-en supermercados $ 750.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-IV.- Mini súper $ 750.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-V.- Centros nocturnos y
-
-discotecas $ 750.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-VI.- Cantinas y bares $ 750.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-VII.- Clubes sociales $ 750.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-VIII.- Salones de baile $ 750.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-IX.- Restaurantes, hoteles y
-
-moteles $ 750.00
-
-> <small>(REFORMADO, D.O. 24 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 116.
 
-La cuota aplicable para la autorización del funcionamiento en horario extraordinario relacionado con la venta de bebidas alcohólicas será por cada hora y cuando no contravenga lo establecido en la Ley de Salud del Estado de Yucatán, de acuerdo a la siguiente tarifa:
+La cuota aplicable para la autorización del funcionamiento en horario extraordinario relacionado con la venta de bebidas alcohólicas será por cada hora diaria y cuando no contravenga lo establecido en la Ley de Salud del Estado de Yucatán, de acuerdo a la siguiente tarifa única que será el equivalente a 1.5 salarios mínimos por hora.
 
-I.- Vinaterías $200.00
-
-II.- Expendio de cerveza $200.00
-
-III.- Departamento de licores en supermercados $200.00
-
-IV.- Mini súper $200.00
-
-V.- Centros nocturnos y discotecas $200.00
-
-VI.- Cantinas y bares $200.00
-
-VII.- Clubes sociales $200.00
-
-VIII.- Salones de baile $200.00
-
-IX.- Restaurantes, hoteles y moteles $200.00
-
-> <small>(REFORMADO, D.O. 24 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 117.
 
-La cuota aplicable para el otorgamiento de permisos eventuales de giros relacionados con la venta de bebidas alcohólicas será por evento y de acuerdo a la siguiente tarifa:
+La cuota aplicable para el otorgamiento de permisos eventuales de giros relacionados con la venta de bebidas alcohólicas será por evento o por día, dependiendo de la naturaleza del evento, el Presidente Municipal, estará facultado para determinar descuentos sobre las tarifas, tomando en consideración, si este es exclusivamente cultural, de beneficencia, religioso o en promoción del deporte y el aforo previsto o estimado, para su aplicación y de acuerdo a la siguiente tarifa:
 
-I.- Vinaterías $ 600.00
+a) Eventos de un solo día el equivalente a 15 salarios mínimos.
 
-II.- Expendio de cerveza $ 500.00
+b) Eventos de hasta 7 días el equivalente a 35 salarios mínimos.
 
-III.- Departamento de licores
-
-en supermercados $ 600.00
-
-IV.- Mini súper $ 600.00
-
-V.- Centros nocturnos $ 600.00
-
-y discotecas
-
-VI.- Cantinas y bares $ 600.00
-
-VII.- Clubes sociales $ 500.00
-
-VIII.- Salones de baile $ 600.00
-
-IX.- Restaurantes, hoteles y
-
-moteles $ 600.00
+c) Eventos de hasta 15 días el equivalente a 50 salarios mínimos.
 
 > <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
 
@@ -1543,101 +1371,95 @@ Esta sanción se aplicará sin perjuicio de que, la Tesorería proceda a la clau
 
 En todo caso, la Tesorería antes de aplicar las sanciones que establece este artículo requerirá por escrito al contribuyente para que realice el trámite correspondiente, otorgándole un plazo de tres días para tal efecto. Si la persona requerida hace caso omiso del requerimiento mencionado, la tesorería procederá a la clausura del establecimiento, sin perjuicio de aplicar la sanción pecuniaria procedente.
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 119.
 
-Por el otorgamiento de licencias establecidas en el artículo 110 fracción II, de esta ley, se causarán y pagarán derechos de acuerdo con la siguiente tarifa:
+Por la promoción, propaganda o publicidad de los establecimientos comerciales de la ciudad, fijos o semifijos y ambulantes, se pagarán derechos de acuerdo con la siguiente tarifa basada en salarios mínimos:
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+I.- Anuncios luminosos mayores a 2 metros
 
-I.- Anuncios murales $ 155.00 mensuales
+cuadrados 35 Anualmente
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+II.- Anuncios estructurales fijos por metro
 
-II.- Anuncios estructurales fijos
+cuadrado o fracción 5 Anualmente
 
-por metro cuadrado o fracción $ 42.00 mensuales
+III.- Vehículos que comercien con propaganda 12 Anualmente
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+IV.- Vehículos dedicados al perifoneo de
 
-III.- Anuncios en carteleras mayores
+propaganda 10 Anualmente
 
-de 2 metros cuadrados por cada
+V.- Anuncios en carteleras o mantas de hasta
 
-metro cuadrado o fracción $ 42.00 mensuales
+6 metros cuadrados 1 mensualmente
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+VI.- Anuncios murales por metro cuadrado 0.075 en forma única
 
-IV.- Anuncios en carteleras
+VII.- Anuncios de adheribles de eventos
 
-oficiales $ 13.00 por día
+temporales, en general 3 en forma única
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+VIII.- Vehículos que promocionen propaganda
 
-V.- Vehículos con permiso de propaganda comercial $ 15.00 por día
+eventual 0.20 diariamente
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO IX. DERECHOS POR SERVICIO DE PANTEONES
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 120.
 
-Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa:
+Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa en salarios mínimos:
 
-I.- Por renta de bóvedas del ayuntamiento por un periodo de 2 años. $ 150.00
+I.- Por renta de bóvedas del Ayuntamiento por un período de 2 años 3.5
 
-II.- Por empadronamiento $ 50.00
+II.- Por empadronamiento 1
 
-III.- Por uso de fosa común $ 50.00
+III.- Por uso de fosa común 1
 
-IV.- Cambio de concesionario $ 150.00
+IV.- Cambio de concesionario 1
 
-V.- Por construcción, remodelación, metro cuadrado $ 2.50
+V.- Por construcción y remodelación por metro cuadrado. 0.070
 
-VI.- Por inhumación $ 150.00
+VI.- Por inhumación 3.5
 
-VII.- Por exhumación $ 50.00
+VII.- Por exhumación 1
 
-VIII.- Por concesión de terreno a perpetuidad, de 2.40 por 1.20 metros $3,000.00
+VIII.- Por concesión de terreno a perpetuidad de 2.40 por 1.20 metros 64
 
-IX.- Por concesión de terreno, de 1.00 por 1.00 metros $ 1,500.00
+IX.- Por concesión de terreno de 1.00 por 1.00 metros 32
 
-X.- Por concesión de terreno en la comisaría de UCI, de 2.40 por 1.20 metros $ 1,500.00
+X.- Por concesión de terreno en las comisaría de Ucí y Kini de 2.40 por 1.20 metros
 
-XI.- Por concesión de terreno en la comisaría de UCI, de 1.00 por 1.00 metros $ 750.00
+XI.- Por concesión de terreno en las comisaría (sic) de Ucí y Kini de 1.00 por 1.00 metros 16
 
-XIII.- Por servicios en las demás comisarías se pagará
+XII.- Por servicios en las demás comisarías se pagará:
 
-Por inhumación $ 100.00
+a) Por inhumación 2
 
-Por exhumación $ 30.00
+b) Por exhumación 1/2
 
-Por uso de la fosa común $ 50.00
+c) Por uso de la fosa común 1
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO X. DERECHOS POR SERVICIOS DE VIGILANCIA
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 121.
 
-Son sujetos obligados al pago de este derecho las personas físicas o morales que soliciten este servicio de acuerdo con la siguiente tarifa:
+Son sujetos obligados al pago de este derecho las personas físicas o morales que soliciten este servicio de acuerdo con la siguiente tarifa basada en salarios mínimos:
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+I.- Por mes por cada elemento 75
 
-I.- Por mes $ 3,090.00 por cada elemento
+II.- Por turno de servicio por cada elemento 3.5
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-II.- Por turno de servicio $ 125.00 por cada elemento
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-III.- Por hora o fracción $ 62.00 por cada elemento
+III.- Por hora o fracción por cada elemento 0.75
 
 > <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
 
@@ -1647,167 +1469,65 @@ El pago de este derecho se hará al momento de solicitar el servicio.
 
 ### CAPÍTULO XI. OTROS SERVICIOS PRESTADOS POR EL AYUNTAMIENTO
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 122.
 
-Los derechos por servicios prestados en el laboratorio municipal se cobrarán de conformidad con la siguiente tarifa:
+Los derechos por servicios prestados en el laboratorio municipal se cobrarán de conformidad con la siguiente tarifa que se sujetará a precios máximos, basados en salarios mínimos:
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+Precios Máximos, en salarios mínimos:
 
-I.- Acido úrico $ 36.00
+PRUEBA COSTO (SM)
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+I. EXAMEN GENERAL DE ORINA 1
 
-II.- Antiestreptolisnas $ 62.00
+II. EXAMEN COPROPARASITOSCOPIO 1
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+III. BIOMETRÍA HEMATINA 2
 
-III.- Bacterioscopia (gram) $ 36.00
+IV. TIEMPO DE PROTROMBINA 1
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+V. TIEMPO PARCIAL DE TROMBOPLASTINA 1
 
-IV.- Biometría hemática $ 36.00
+V. GRUPO Y RH 1
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+VII. QUÍMICA SANGUÍNEA 4 ELEMENTOS 3
 
-V.- Colesterol total $ 36.00
+VIII. QUÍMICA SANGUÍNEA 6 ELEMENTOS 4
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+IX. COLESTEROL TOTAL 1
 
-VI.- Creatinina $ 36.00
+X. TRIGLICÉRIDOS 1
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+XI. GLUCOSA 1
 
-VII.- Cultivo $ 65.00
+XII. ACIDO ÚRICO 1
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+XIII. COLESTEROL HDL 3
 
-VIII.- Heritrocedimentación glo. $ 36.00
+XIV. PERFIL DE LÍPIDOS 5
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+XV. CULTIVOS DIVERSOS 4
 
-IX.- Examen general de orina $ 36.00
+XVI. CULTIVOS CON ANTIBIOGRAMA 4
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+XVII. ANTIESTREPTOLISINAS 2
 
-X.- Factor reumatoide (látex) $ 36.00
+XVIII. FACTOR REUMATOIDE 1.50
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+XIX. PROTEÍNA CREACTIVA 1.50
 
-XI.- Glucosa $ 36.00
+XX. V.D.R.L. 2
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+XXI. V.I.H. 3
 
-XII.- Plaquetas $ 36.00
+XXII. REACCIONES FEBRILES 3
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+XXIII. PRUEBA DE EMBARAZO EN ORINA 2
 
-XIII.- Proteínas C reactiva $ 36.00
+XXIV. PRUEBA DE EMBARAZO EN SANGRE 3
 
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XIV.- Recticulocitos $ 36.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XV.- Reacciones lupticas $ 62.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XVI.- Tiempo protrombina y
-
-tromboplastica $ 72.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XVII.- Triglicéridos $ 36.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XVIII.- Perfil de lípidos $ 134.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XIX.- Anticuerpos hib $ 108.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XX.- Bacilos copia (baar) $ 36.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXI.- Bilirrubinas (bil) $ 36.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXII.- Colesterol (hdl y ldl) $ 98.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXIII.- Coproparasitoscopico
-
-Cps. $ 36.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXIV.- Creatina depuración $ 62.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXV.- Cultivo/antibiograma $ 103.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXVI.- Espermatobioscopia $ 82.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXVII.- Factor de riesgo en
-
-hiperlipidemia $ 103.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXVIII.- Factor rh y grupo
-
-sanguíneo $ 31.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXIX.- Fraccionbetahcg (pie) $ 72.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXX.- Lípidos totales $ 62.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXXI.- Proteínas tot. Con
-
-Relación a /g $ 36.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXXII.- Química sanguínea $ 103.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXXIII.- Reacciones febriles $ 62.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXXIV.- Tiempo de coagulación
-
-y sangrado $ 26.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXXV.- Transaminasas TGO $ 72.00
-
-> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
-
-XXXVI.- Perfil funcional $ 175.00
+XXV. EXÁMENES PRENUPCIALES 10
 
 > <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
 
@@ -2284,3 +2004,9 @@ En lo no previsto por esta Ley, se aplicará supletoriamente, y de manera indist
 D.O. 24 DE ENERO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 22 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día primero de enero del año 2008, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
