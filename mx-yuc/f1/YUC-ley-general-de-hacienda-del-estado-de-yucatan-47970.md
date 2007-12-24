@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2006-12-26"
+last_updated: "2007-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -399,7 +399,7 @@ d) Instituciones de beneficencia reconocidas como tales por el Ejecutivo del Est
 
 e) Partidos y agrupaciones políticas debidamente constituidos conforme a la ley de la materia;
 
-f) Instituciones educativas públicas;
+f) (DEROGADO, D.O. 24 DE DICIEMBRE DE 2007)
 
 g) Ejidos y comunidades;
 
@@ -581,6 +581,8 @@ h) Derechos por el Uso, Goce o Aprovechamiento de bienes de dominio público del
 
 ### CAPÍTULO X. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL CATASTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 48.
 
 Por los servicios prestados por cualquiera de las dependencias de la Administración Pública del Estado, salvo los que esta ley establece expresamente, se causarán los derechos conforme a las cuotas que para cada caso se señala:
@@ -617,6 +619,10 @@ d) Expedición de copias simples, para el anterior y actual
 
 ejercicio, por hoja 0.02 S.M.G.
 
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+e) Expedición de copias certificadas 0.15 S.M.G.
+
 VIII.- Registro de Proveedores
 
 a) Inscripción 15.00 S.M.G.
@@ -630,6 +636,10 @@ a) Inscripción 17.00 S.M.G.
 b) Revalidación 14.00 S.M.G.
 
 No se pagarán derechos por la expedición de documentos o copias certificadas de los mismos, que sean solicitados por el Estado, salvo que esta solicitud derive de la petición de un particular.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Tampoco se pagarán derechos por la expedición de copias certificadas para la substanciación del Juicio de Amparo.
 
 ### CAPÍTULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
 
@@ -935,7 +945,9 @@ Por los servicios que preste la Dirección del Registro Público de la Propiedad
 
 I.- Por la calificación de cualquier documento 1.00 S.M.G.
 
-II.- Por cualquier inscripción 2.00 S.M.G.
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+II.- Por cualquier inscripción 3.00 S.M.G.
 
 III.- Por la anotación de cualquier aviso 0.25 S.M.G.
 
@@ -943,13 +955,19 @@ No se causarán los derechos a que se refieren las fracciones I, II y III de est
 
 IV.- Por la expedición de cualquier constancia 2.00 S.M.G.
 
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
 V.- Por la expedición de cualquier certificado,
 
-por cada predio 2.00 S.M.G.
+por cada predio 3.00 S.M.G.
 
 VI.- Por la forma de solicitud de certificado o de constancia 0.02 S.M.G.
 
 VII.- Por la rectificación o la reposición de inscripción 1.00 S.M.G.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Por la verificación de cualquier predio 0.50 S.M.G.
 
 ###### ARTÍCULO 60.
 
@@ -1185,7 +1203,7 @@ menores de edad para contraer matrimonio 0.25 S.M.G.
 
 ###### ARTÍCULO 68.
 
-Los servicios que presta la Dirección del Catastro, causarán derechos de conformidad con lo siguiente, por:
+Los servicios que presta la Dirección del Catastro causarán derechos de conformidad con lo siguiente:
 
 I.- La emisión de copias fotostáticas simples:
 
@@ -1195,17 +1213,35 @@ parcelas, formas de manifestación de traslación
 
 de dominio o cualquier otra manifestación 0.28 S.M.G.
 
-b) Cada hoja tamaño oficio 0.28 S.M.G.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+b) Planos mayores al tamaño oficio y hasta 4 veces
+
+tamaño carta 1.19 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+c) Planos mayores a 4 veces tamaño carta 3.03 S.M.G.
 
 II.- Expedición de copias fotostáticas certificadas de:
 
-a) Cédulas, planos, parcelas, manifestaciones,
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-tamaño carta 0.50 S.M.G.
+a) Cada hoja certificada tamaño carta u oficio de
 
-b) Planos tamaño oficio, por cada una 0.50 S.M.G.
+cédulas, planos, parcelas, formas de manifestación
 
-c) Planos hasta 4 veces tamaño oficio, por cada una 1.60 S.M.G.
+de traslación de dominio o cualquier otro documento 0.59 S.M.G.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+b) Planos mayores al tamaño oficio y hasta 4 veces
+
+tamaño carta 1.89 S.M.G.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+c) Planos mayores a 4 veces tamaño carta 3.70 S.M.G.
 
 d) Planos mayores de 4 veces tamaño oficio
 
@@ -1213,103 +1249,259 @@ por cada una 3.00 S.M.G.
 
 III.- Por expedición de:
 
-a) Oficios de división, por cada parte 0.30 S.M.G.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+a) Oficios de división, por cada parte, 0.51 S.M.G.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 b) Oficios de rectificación de medidas, urbanización
 
-y cambio de nomenclatura. 0.70 S.M.G.
+y cambio de nomenclatura 1.21 S.M.G.
 
-c) Cédulas catastrales 0.50 S.M.G.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-d) Constancias de no propiedad, única propiedad,
+c) Cédulas catastrales 1.01 S.M.G.
 
-valor catastral, número oficial de predio, certificado
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-de inscripción vigente o no vigente e información
+d) Oficios de unión de predios por cada parte 0.51 S.M.G.
 
-de bienes inmuebles 1.25 S.M.G.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-e) Oficios de unión de predios, por cada parte 0.26 S.M.G.
+e) Constancias de No Propiedad individual 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+f) Constancia de No Propiedad Matrimonial sin
+
+importar el régimen y unión libre 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+g) Constancia de No Propiedad de hijos o
+
+dependientes económicos 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+h) Constancia de No Propiedad Familiar 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+i) Constancia de Única Propiedad 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+j) Certificado de Número Oficial de Predio 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+k) Certificado de Inscripción Predial Vigente 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+I) Certificado de No Inscripción Predial 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+m) Constancia de Valor Catastral Vigente 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+n) Constancia de Historia del Predio 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+o) Constancia de Historia del Predio con aplicación
+
+de valor 1.35 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+p) Constancia de Información de Valor 1.43 SM.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+q) Certificado de Valor Catastral 1.26 S.M.G.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+r) Información de bienes inmuebles:
+
+Por Predio:
+
+de 1 a 5 direcciones 1.26 S.M.G.
+
+de 6 a 10 direcciones 2.53 S.M.G
+
+de 11 a 15 direcciones 3.79 S.M.G.
+
+de 16 a 20 direcciones 5.02 S.M.G.
+
+De 21 direcciones en adelante, 0.22 S.M.G. por cada dirección excedente.
+
+Por Propietario:
+
+de 1 a 5 predios 1.26 S.M.G.
+
+de 6 a 10 predios 2.53 S.M.G.
+
+de 11 a 15 predios 3.79 S.M.G.
+
+de 16 a 20 predios 5.02 S.M.G.
+
+De 21 predios en adelante, 0.22 S.M.G. por cada predio excedente.
 
 IV.- Elaboración de planos:
 
-a) Catastrales a escala 3.25 S.M.G.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-b) Topográficos hasta 100 Has. 6.00 S.M.G.
+a) Catastrales a escala 2.02 S.M.G.
 
-V.- Revalidación de oficios de división, unión y
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-rectificación de medidas. 0.60 S.M.G.
+b) Planos topográficos
 
-VI.- Reproducción de documentos microfilmados:
+De 1 m2 a 9,999 m2 5.77 S.M.G.
 
-a) Tamaño carta 1.00 S.M.G.
+De 01 - 00 - 00 Ha A 10 - 00 - 00 Ha 6.94 S.M.G.
 
-b) Tamaño oficio 1.25 S.M.G.
+De 10 - 00 - 01 Ha A 20 - 00 - 00 Ha 8.30 S.M.G.
 
-VII.- Diligencias de verificación ó rectificación de
+De 20 - 00 - 01 Ha A 30 - 00 - 00 Ha 9.98 S.M.G.
 
-medidas físicas, y de colindancias de predios 4.00 S.M.G.
+De 30 - 00 - 01 Ha A 40 - 00 - 00 Ha 12.00 S.M.G.
 
-Más 0.09 S.M.G. por kilómetro recorrido, considerados a partir de 18 Kms. sin que el derecho establecido en esta fracción, exceda de 20 S.M.G.; tomando como punto de referencia, la ubicación de la Dirección del Catastro del Estado.
+De 40 - 00 - 01 H A 50 - 00 - 00 Ha 14.36 S.M.G.
 
-VIII.- Cuando la elaboración de planos o la diligencia de verificación o rectificación, incluya trabajos de topografía; adicionalmente a lo dispuesto por las fracciones IV y VII de este artículo, se cobrará de acuerdo con la siguiente tabla:
+De 50 - 00 - 01 Ha A 75 - 00 - 00 Ha 17.24 S.M.G.
 
-De 00 - 00 - 01 Ha. A 01 - 00 - 00 Ha. 12.50 S.M.G.
+De 75 - 00 - 01 Ha A 100 - 00 - 00 Ha 20.69 S.M.G.
 
-De 01 - 00 - 01 Ha. A 10 - 00 - 00 Ha. 14.00 S.M.G.
+De 100 - 00 - 01 Ha en adelante por cada 5 has. Además se cobrará un 10% sobre el último costo.
 
-De 10 - 00 - 01 Ha. A 20 - 00 - 00 Ha. 28.00 S.M.G.
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-De 20 - 00 - 01 Ha. A 30 - 00 - 00 Ha. 42.50 S.M.G.
+V.- Revalidación de oficios:
 
-De 30 - 00 - 01 Ha. A 40 - 00 - 00 Ha. 56.00 S.M.G.
+a) Oficios de división, por cada parte 0.51 S.M.G.
 
-De 40 - 00 - 01 Ha. A 50 - 00 - 00 Ha. 71.50 S.M.G.
+b) Oficios de rectificación de medidas, urbanización
 
-De 50 - 00 - 01 Ha. En adelante por Ha. 1.50 S.M.G.
+y cambio de nomenclatura 1.21 S.M.G.
+
+c) Oficios de unión 0.51 S.M.G.
+
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+VI.- Diligencias de verificación o rectificación de
+
+medidas físicas y de colindancias de predios 4.21 S.M.G:
+
+Más 0.10 S.M.G. por kilómetro recorrido considerados a partir de 17 kms. sin que el derecho establecido en esta fracción exceda de 17 S.M.G., tomando como punto de referencia la ubicación de la Dirección del Catastro del Estado.
+
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+VII.- Cuando la elaboración de planos o la diligencia de verificación o rectificación incluya trabajos de topografía, adicionalmente a la tarifa de las fracciones IV y VI, por estos trabajos se cobrará de acuerdo con la siguiente tabla:
+
+De 00 - 00 - 01 Ha a 01 - 00 - 00 Ha 12.02 S.M.G.
+
+De 01 - 00 - 01 Ha a 05 - 00 - 00 Ha 13.45 S.M.G.
+
+De 05 - 00 - 01 Ha a 10 - 00 - 00 Ha 20.20 S.M.G.
+
+De 10 - 00 - 01 Ha a 15 - 00 - 00 Ha 26.87 S.M.G.
+
+De 15 - 00 - 01 Ha a 20 - 00 - 00 Ha 35.74 S.M.G.
+
+De 20 - 00 - 01 Ha a 25 - 00 - 00 Ha 48.18 S.M.G.
+
+De 25 - 00 - 01 Ha a 30 - 00 - 00 Ha 62.73 S.M.G.
+
+De 30 - 00 - 01 Ha a 35 - 00 - 00 Ha 79.04 S.M.G.
+
+De 35 - 00 - 01 Ha a 40 - 00 - 00 Ha 97.56 S.M.G.
+
+De 40 - 00 - 01 Ha a 45 - 00 - 00 Ha 118.54 S.M.G.
+
+De 45 - 00 - 01 Ha a 50 - 00 - 00 Ha 142.24 S.M.G.
+
+De 50 - 00 - 01 Ha en adelante se cobrará el derecho anterior, más
+
+2.02 S.M.G. por cada hectárea.
+
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Por impresión de planos de manzana, fraccionamiento o sección catastral:
+
+a) Tamaño carta 0.84 S.M.G.
+
+b) Tamaño dos cartas 1.68 S.M.G.
+
+c) Tamaño cuatro cartas (Ploter) 3.37 S.M.G.
+
+d) Planos mayores a 4 veces tamaño carta 6.73 S.M.G.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 69.
 
-Por actualización de predios urbanos, se causará los siguientes derechos:
+Por las mejoras de predios urbanos se causará y pagarán los siguientes derechos:
 
-De un valor de $1,000.00 A $ 4,000.00 0.00 S.M.G.
+De un valor de $ 1,000.00 a $ 4,000.00 0.00 S.M.G.
 
-De un valor de $4,001.00 A $10,000.00 3.00 S.M.G.
+De un valor de $ 4,001.00 a $ 10,000.00 2.95 S.M.G.
 
-De un valor de $10,001.00 A $75,000.00 6.50 S.M.G.
+De un valor de $ 10,001.00 a $ 75,000.00 6.31 S.M.G.
 
-De un valor de $75,001.00 en adelante 8.20 S.M.G.
+De un valor de $ 75,001.00 a $200,000.00 7.91 S.M.G.
+
+De un valor de $ 200,000.01 en adelante 10.10 S.M.G.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 70.
 
-No causará derecho alguno, las divisiones o fracciones de terrenos rústicos menores de tres hectáreas, destinados plenamente a la producción agrícola o ganadera.
+No se causará derecho alguno por las divisiones o fracciones de terrenos rústicos menores de tres hectáreas que sean destinados plenamente a la producción agrícola o ganadera.
 
 ###### ARTÍCULO 71.
 
 Los fraccionamientos causarán derechos de deslinde, a excepción de lo señalado en el artículo anterior, de conformidad con lo siguiente:
 
-Hasta 5,000 m2 0.0007 S.M.G.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-De 5,001 m2 hasta 10,000 m2 0.0009 S.M.G.
+Hasta 5,000 m2 (por m2) 0.0007 S.M.G.
 
-De 10,001 m2 hasta 160,000 m2 0.0012 S.M.G.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-Más de 160,000 m2, por metros excedentes 0.0004 S.M.G.
+De 5,001 m2 hasta 10,000 m2 (por m2) 0.0009 S.M.G.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+De 10,001 m2 hasta 160,000 m2 (por m2) 0.0012 S.M.G.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Más de 160,000 m2, (por metros excedentes) 0.0004 S.M.G.
 
 ###### ARTÍCULO 72.
 
 Por la revisión de la documentación de construcciones en régimen de propiedad en condominio, se causarán derechos de acuerdo con lo siguiente:
 
-Tipo comercial 2.00 S.M.G.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
-Tipo habitacional 1.00 S.M.G.
+a) Tipo comercial 1.92 S.M.G.
 
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+
+b) Tipo habitación 0.98 S.M.G.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 73.
 
-Las instituciones públicas estatales y municipales quedan exentas del pago de los derechos que establece este capítulo.
+Las instituciones públicas estatales y municipales siempre que el servicio sea destinado a un interés público, quedan exentas del pago de los derechos que establece este capítulo.
 
 ### CAPÍTULO ÚNICO
 
@@ -1669,28 +1861,6 @@ Se abrogan los decretos 559 y 592 publicados en el Diario Oficial del Gobierno d
 
 Los Derechos por el uso de cementerios y prestación de servicios conexos establecidos en el Capítulo IV y los Derechos de Alumbrado Público, establecidos en el Capítulo X, ambos parte del Título III de esta ley; estarán vigentes durante el ejercicio fiscal 2006, en tanto se establecen en los respectivos ordenamientos fiscales municipales, y se celebren los convenios de transferencia, relativos.
 
-DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CINCO.- VICEPRESIDENTE DIPUTADO BENITO FERNANDO ROSEL ISAAC.- SECRETARIO DIPUTADO MARIO ALEJANDRO CUEVAS MENA.- SECRETARIO DIPUTADO JORGE ESMA BAZÁN.- RÚBRICAS.
-
-Y POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
-
-DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTITRÉS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CINCO.
-
-(RÚBRICA)
-
-C. PATRICIO JOSÉ PATRÓN LAVIADA
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-(RÚBRICA)
-
-ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
-
-LA SECRETARIA DE HACIENDA
-
-(RÚBRICA)
-
-C.P. ELSY DEL CARMEN MEZO PALMA
-
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 26 DE DICIEMBRE DE 2006.
@@ -1700,3 +1870,17 @@ PRIMERO.- Este Decreto entrará en vigor el día uno de enero del año dos mil s
 SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Los Derechos por el Uso de Cementerios y Prestación de Servicios Conexos establecidos en el Capítulo IV y los Derechos por Servicios de Alumbrado Público, establecidos en el Capítulo XI, ambos parte del Título III de la Ley General de Hacienda del Estado de Yucatán, estarán vigentes en tanto se establecen dichas contribuciones en los respectivos ordenamientos fiscales municipales, y se celebren los convenios de transferencia relativos.
+
+D.O. 24 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día uno de enero del año dos mil ocho, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Derechos por el uso de cementerios y prestación de servicios conexos establecidos en el Capítulo IV y los Derechos de Alumbrado Público, establecidos en el Capítulo X, ambos parte del Título III de la Ley General de Hacienda del Estado de Yucatán, estarán vigentes durante el ejercicio fiscal 2008, en tanto se establecen dichas contribuciones en los respectivos ordenamientos fiscales municipales, y se celebren los convenios de transferencia relativos.
