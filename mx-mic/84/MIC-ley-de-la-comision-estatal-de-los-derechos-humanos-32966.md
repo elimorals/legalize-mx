@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-32966"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-14"
-last_updated: "2007-11-21"
+last_updated: "2007-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE MICHOACAN, PUBLICADA EN EL P.O. DE 24 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 14 de julio de 2003.
 
@@ -832,3 +834,13 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2007.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de la Comisión Estatal de los Derechos Humanos, aprobada por el Congreso del Estado y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con fecha 14 de julio de 2003.
+
+TERCERO. El Presidente y los visitadores en funciones continuarán en sus encargos hasta que concluya el periodo para el cual fueron electos.
+
+CUARTO. Los asuntos en trámite a la entrada en vigor de la presente Ley, seguirán substanciándose en los términos de la Ley abrogada.
