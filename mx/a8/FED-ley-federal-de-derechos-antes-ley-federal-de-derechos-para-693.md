@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2007-10-01"
+last_updated: "2007-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 27 DE DICIEMBRE DE 2006.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -161,8 +161,6 @@ Tratándose de anualidades, el contribuyente efectuará el entero del derecho en
 
 Si el servicio, cuyas cuotas se paguen por anualidades, se solicita después de los primeros 15 días del mes de enero de que se trate, el entero del derecho deberá efectuarse dentro de los 15 días siguientes a aquel en que se empieza a prestar el servicio y el comprobante de pago se entregará a la dependencia correspondiente dentro de los 10 días siguientes a aquel en que se hizo el entero. Las subsecuentes anualidades se pagarán conforme al párrafo anterior.
 
-> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
 Cuando el derecho por la prestación de un servicio deba pagarse por mensualidades o anualidades y el servicio se comience a proporcionar después de iniciado el período de que se trate, el pago correspondiente a dicho mes o año se calculará dividiendo el importe de la mensualidad o anualidad entre 30 o entre 12 según corresponda, el cociente así obtenido se multiplicará por el número de días o meses en los que se prestará el servicio, y el resultado así obtenido será la cuota a pagar por dichos periodos.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
@@ -175,21 +173,13 @@ En los casos de prestación de servicios en los que el derecho deba determinarse
 
 Cuando no se llenen los requisitos legales para el otorgamiento del permiso o se haya establecido alguna prohibición, el pago de los derechos por los servicios o por el otorgamiento del uso o aprovechamiento de bienes del dominio público a que se refiere esta ley, no implica necesariamente el otorgamiento del mismo, en cuyo caso los derechos que se hayan pagado serán sin perjuicio de las multas que procedan.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO DECIMO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-En los casos en que esta Ley establezca el destino específico de los derechos, el monto de los mismos se destinará a cubrir los gastos de operación, conservación, mantenimiento e inversión autorizado para cada mes por la Secretaría de Hacienda y Crédito Público o el órgano que establezca esta Ley. La parte de los ingresos que exceda el límite autorizado para el mes que corresponda, se deberá enterar a la Tesorería de la Federación a más tardar el décimo día del mes siguiente a aquél en que se obtuvo el ingreso. Se entenderá que los destinos específicos de los Derechos serán en adición al presupuesto original autorizado para la dependencia generadora de los derechos, mediante una ampliación presupuestal líquida, salvo que la propia disposición establezca que es hasta por el monto del presupuesto asignado.
+> <small>(DEROGADO DECIMO SEGUNDO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(DEROGADO DECIMO TERCER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Los derechos establecidos en esta Ley afectos a un destino específico, estarán sujetos a la autorización previa de la Secretaría de Hacienda y Crédito Público y al cumplimiento de las reglas administrativas, sistemas, procedimientos e instrucciones que se emitan para la disposición de los ingresos y concentración de los excedentes, debiendo informar mensualmente dichas dependencias u organismos la recaudación total obtenida por esos conceptos.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Asimismo, los ingresos a los que se refiere el párrafo anterior, deberán ser registrados como ingresos del gobierno federal en la cuenta de la Hacienda Pública Federal.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Los ingresos recaudados por las dependencias, organismos descentralizados y órganos desconcentrados en los términos de los dos párrafos que anteceden, podrán ser aplicados directamente por ellos como participaciones, para cubrir los gastos que se originen con motivo de la prestación del servicio o la administración del bien de dominio público de la Nación de que se trate. La parte de los ingresos que exceda el monto del presupuesto que le hubiere sido autorizado, no tendrá fin específico y se enterarán en los términos señalados en este artículo.
+> <small>(DEROGADO DECIMO CUARTO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -431,13 +421,25 @@ otra característica migratoria de
 
 la calidad de no inmigrante $444.32 $444.00
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+IX. Visitante Local $56.00
+
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 No pagarán el derecho por servicios migratorios a que se refiere la fracción II de este artículo, los choferes u operadores de vehículos de transporte de carga que se internen en el país con el único objeto de cargar o descargar mercancías en los recintos de las aduanas fronterizas del sur del territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-El pago del derecho previsto en las fracciones I, III y VIII de este artículo, podrá efectuarse hasta que el extranjero abandone el territorio nacional.
+El pago del derecho previsto en las fracciones I, III y VIII de este artículo, deberá efectuarse al ingreso del extranjero a territorio nacional.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+El derecho a que se refiere la fracción IX de este artículo, se recaudará a través de las oficinas autorizadas por el Servicio de Administración Tributaria y su importe se destinará en un 95% a los municipios en proporción al número de visitantes que arriben a los puertos ubicados en cada municipio, a fin de ser aplicado en obras de infraestructura y programas de conservación, mantenimiento, limpieza y vigilancia de las zonas costeras, con base en los convenios que al efecto se celebren con las Entidades Federativas y los municipios respectivos, y en un 5% al Instituto Nacional de Migración para la prestación del servicio a que se refiere la citada fracción.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -553,29 +555,13 @@ VIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 IX.- Corresponsal.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 12.
 
-Por la prestación
+Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que abandonen el territorio nacional, se cobrará la cuota de $47.50
 
-de los servicios migratorios en
-
-aeropuertos a pasajeros de
-
-vuelos internacionales que
-
-ingresen a territorio nacional,
-
-se cobrará la cuota de $47.50 $47.00
-
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-El derecho de servicios migratorios a que se refiere el presente artículo, se pagará a la entrada de pasajeros de vuelos internacionales.
+El derecho de servicios migratorios a que se refiere el presente artículo se pagará a la salida de pasajeros de vuelos internacionales.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -753,13 +739,13 @@ No se pagarán los derechos por servicios migratorios extraordinarios, cuando po
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 16.
 
-Los asilados políticos, refugiados, visitantes distinguidos y visitantes locales, no pagarán los derechos por internación al país, ni por reposición de documentos, establecidos en los artículos precedentes de esta Sección.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+Los asilados políticos, refugiados y visitantes distinguidos, no pagarán los derechos por internación al país, ni por reposición de documentos, establecidos en los artículos precedentes de esta Sección.
 
 ###### ARTICULO 17.
 
@@ -771,11 +757,13 @@ No pagarán los derechos por los servicios a que esta sección se refiere los ex
 
 No se pagarán derechos por servicios migratorios por el cotejo de documentos para la realización de trámites migratorios.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 18-A.
 
-Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, se destinarán en un 30% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y en un 70% al Consejo de Promoción Turística de México para la promoción turística del país.
+Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, se destinarán en un 20% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y en un 80% al Consejo de Promoción Turística de México para la promoción turística del país, el cual trasferirá el 10% de la recaudación total del derecho al Fondo Nacional de Fomento al Turismo para los estudios, proyectos y la inversión en infraestructura que éste determine con el objeto de mejorar los destinos turísticos del país.
+
+Los ingresos que se obtengan por la recaudación de los derechos establecidos en los artículos 8, fracciones II, III, IV, V, VI, VII y VIII, 9, 10, 12, 13, 14 y 14-A de esta Ley, serán destinados a programas de modernización, equipamiento e infraestructura para mejorar el control fronterizo en la línea divisoria internacional del sur del país y a mejorar las instalaciones, equipos, mobiliario, sistemas y la calidad integral de los servicios en materia migratoria que presta el Instituto Nacional de Migración.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -1253,29 +1241,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-I.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+I. Pasaportes ordinarios y documentos de identidad y viaje con validez hasta por un año $385.00
 
-II.- Pasaportes ordinarios y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-documentos de identidad y
+II. Pasaportes ordinarios y documentos de identidad y viaje con validez mayor a un año y hasta por tres años $800.00
 
-viaje con validez hasta por
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-un año, no comprendidos
-
-en la fracción anterior $385.20 $385.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-III.- Pasaportes ordinarios y
-
-Documentos de identidad y
-
-viaje con validez hasta por
-
-cinco años $1,011.29 $1,010.00
+III. Pasaportes ordinarios y documentos de identidad y viaje con validez mayor a tres años y hasta por seis años $1,100.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -1303,17 +1279,21 @@ VII.- Por el refrendo de
 
 pasaportes oficiales $183.90 $185.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los servicios que sean prestados en el territorio nacional.
+Los derechos que se obtengan por concepto de las fracciones anteriores únicamente se destinarán al gasto de los consulados en los términos del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los servicios que sean prestados en el territorio nacional.
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Para los efectos de este artículo, las personas mayores de sesenta años, así como los que padezcan cualquier tipo de discapacidad comprobada, pagarán el 50% de las cuotas establecidas en las fracciones I a IV a que se refiere el mismo.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Tratándose de la expedición de pasaportes ordinarios con validez hasta por cinco años para trabajadores agrícolas que, con base en memorandums de entendimiento firmados por el Gobierno Mexicano con otros países, presten servicios en el exterior, se pagará el 50% de las cuotas establecidas en las fracciones II y III de este artículo, según corresponda.
+Tratándose de la expedición de pasaportes ordinarios con validez hasta por seis años para trabajadores agrícolas que, con base en memorandums de entendimiento firmados por el Gobierno Mexicano con otros países, presten servicios en el exterior, se pagará el 50% de las cuotas establecidas en las fracciones I a III de este artículo, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+Los derechos que se obtengan por concepto de las fracciones anteriores en los servicios que sean prestados en el territorio nacional, se destinarán en un 15% a la Secretaría de Relaciones Exteriores para mejorar los servicios y operación de las delegaciones de dicha dependencia.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1553,9 +1533,9 @@ c).- Las que soliciten estudiantes extranjeros para realizar sus estudios en ter
 
 II.- Los que soliciten indigentes de nacionalidad mexicana, para su repatriación, la de su familia y sus bienes.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-III.- Los que soliciten pensionados por el Gobierno de México, para justificar su situación legal en el país en que residan o para comprobar su existencia física ante las autoridades mexicanas que así lo requieran.
+III.- Los que soliciten los pensionados para justificar su situación legal en el país en que residan o para comprobar su existencia física ante las autoridades mexicanas que así lo requieran.
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2017,17 +1997,9 @@ institución calificadora de
 
 valores: $200,229.11 $200,229.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-VII. Por el estudio y trámite de la
-
-solicitud de autorización para la
-
-constitución y funcionamiento de
-
-sociedades de inversión de
-
-capitales y de objeto limitado: $16,067.86 $16,068.00
+VII. Por el estudio y trámite de la solicitud de autorización para la constitución y funcionamiento de sociedades de inversión de renta variable, en instrumentos de deuda, de capitales y de objeto limitado: $16,067.86
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -2167,6 +2139,14 @@ representación de casas de bolsa
 
 del exterior: $15,000.00 $15,000.00
 
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+XXI. Por la autorización para la constitución y funcionamiento de sociedades de inversión de renta variable, en instrumentos de deuda, de capitales y de objeto limitado: $32,136.00
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+XXII. Por la autorización para el inicio de operaciones de casas de bolsa: $800,000.00
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 29-A.
@@ -2225,19 +2205,9 @@ a). Tratándose de acciones:
 
 1. Emitidas por Sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-1.7739 al millar por los primeros
-
-$650,470,868.93 del capital contable
-
-de la emisora, y 0.8870 al millar por
-
-el excedente sin que los derechos
-
-a pagar por este concepto excedan
-
-de: $7,652,599.00 $7,652,599.00
+1.4191 al millar por los primeros $520'376,695.00 del capital contable de la emisora, y 0.7096 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $6'122,079.00
 
 2. Emitidas por Sociedades Anónimas Promotoras de Inversión Bursátil:
 
@@ -2255,163 +2225,117 @@ a pagar por este concepto excedan
 
 de: $1,913,150.00 $1,913,150.00
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+3. Emitidas por sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, casas de cambio, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple y demás entidades financieras autorizadas:
+
+1.4191 al millar por los primeros $520'376,695.00 del capital contable de la emisora, y 0.7096 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $6'122,079.00
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 b). Tratándose de títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación sobre bienes o derechos muebles o inmuebles y otros valores:
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-1.7739 al millar por los primeros
-
-$734,576,752.28 sobre el monto
-
-emitido, y 0.8870 al millar por el
-
-excedente sin que los derechos
-
-a pagar por este concepto excedan
-
-de: $8,642,080.11 $8,642,080.00
+1.0643 al millar por los primeros $440'746,051.00 sobre el monto emitido, y 0.5322 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $5'185,248.00
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 2.- Con vigencia igual o menor a un año, distintos a los señalados en el numeral 3 de este inciso:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.8870 al millar por los primeros $734,899,165.25 del monto emitido, y 0.4435 al millar por el excedente, sin que los derechos a pagar en el primer año contado a partir de la obtención de la autorización por programa, excedan del resultado de multiplicar 0.8870 al millar por los primeros $734,899,165.25 del monto autorizado, y 0.4435 al millar por el excedente.
+0.5322 al millar por los primeros $440'939,500.00 del monto emitido, y 0.2661 al millar por el excedente sin que los derechos a pagar en el primer año contado a partir de la obtención de la autorización por programa excedan del resultado de multiplicar 0.5322 al millar por los primeros $440'939,500.00 del monto autorizado, y 0.2661 al millar por el excedente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 3.- En el caso de títulos suscritos o emitidos por instituciones de crédito representativos de un pasivo a su cargo, por tipo de valor, con vigencia igual o menor a un año:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.4435 al millar del monto emitido
+0.2661 al millar del monto emitido por tipo de valor y en proporción a su plazo sin que los derechos a pagar por este concepto en un ejercicio excedan de: $603,163.00
 
-por tipo de valor y en proporción a
+c). Tratándose de acciones de sociedades de inversión:
 
-su plazo, sin que los derechos a
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-pagar por este concepto en un
-
-ejercicio excedan de: $1,005,271.17 $1,005,271.00
-
-c).- Tratándose de acciones de sociedades de inversión:
-
-1.9711 al millar respecto del monto total del capital social mínimo fijo.
+1.5768 al millar respecto del monto total del capital social mínimo fijo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 d). Tratándose de títulos opcionales emitidos por sociedades anónimas incluyendo casas de bolsa, instituciones de crédito y filiales de entidades financieras del exterior del mismo tipo:
 
-0.8870 al millar respecto al monto total de las primas de emisión.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+0.5322 al millar respecto al monto total de las primas de emisión.
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-e).- Tratándose de valores con plazo mayor a un año emitidos por entidades paraestatales de la Administración Pública Federal y/o valores fiduciarios en los que dichas entidades actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
+e). Tratándose de valores con plazo mayor a un año emitidos por entidades paraestatales de la Administración Pública Federal y/o valores fiduciarios en los que dichas entidades actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.8870 al millar por los primeros
-
-$650,470,869.00 del monto emitido,
-
-y 0.4435 al millar por el excedente
-
-sin que los derechos a pagar por
-
-este concepto excedan de: $890,172.00 $890,172.00
+0.5322 al millar por los primeros $390'282,521.00 del monto emitido, y 0.2661 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $534,103.00
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-f).- Tratándose de valores emitidos por las entidades federativas y municipios, así como por los organismos descentralizados de las entidades federativas o municipios o valores fiduciarios en los que dichas personas morales actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
+f). Tratándose de valores emitidos por las entidades federativas y municipios, así como por los organismos descentralizados de las entidades federativas o municipios o valores fiduciarios en los que dichas personas morales actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.7391 al millar por los primeros $677,075,127.54.00 del monto emitido, y 0.3696 al millar por el excedente.
+0.4435 al millar por los primeros $406'245,077.00 del monto emitido, y 0.2218 al millar por el excedente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 g). Tratándose de certificados, pagarés y otros valores emitidos o garantizados por el Gobierno Federal, en términos del artículo 93 de la Ley del Mercado de Valores, por tipo de valor:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.4435 al millar del monto emitido
+0.2661 al millar del monto emitido por tipo de valor y en proporción a su plazo sin que los derechos a pagar por este concepto en un ejercicio excedan de: $603,163.00
 
-por tipo de valor y en proporción a
+h). Tratándose de bonos de regulación monetaria emitidos por el Banco de México:
 
-su plazo, sin que los derechos a
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-pagar por este concepto en un
-
-ejercicio excedan de: $1,005,271.17 $1,005,271.00
-
-h).- Tratándose de bonos de regulación monetaria emitidos por el Banco de México:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-0.4435 al millar del monto emitido
-
-por tipo de valor y en proporción
-
-a su plazo, sin que los derechos
-
-a pagar por este concepto en un
-
-ejercicio excedan de: $1,005,271.17 $1,005,271.00
+0.2661 al millar del monto emitido por tipo de valor y en proporción a su plazo sin que los derechos a pagar por este concepto en un ejercicio excedan de: $603,163.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-i).- Tratándose de emisores de valores que mantengan inscritos valores de los señalados en los incisos a) o b) numeral 1, en sustitución de la cuota de inscripción inicial o ampliación señalada en dichos incisos:
+i). Tratándose de emisores de valores que mantengan inscritos valores de los señalados en los incisos a) o b) numeral 1, en sustitución de la cuota de inscripción inicial o ampliación señalada en dichos incisos:
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.9 al millar por los primeros
-
-$826,004,655.68 sobre el monto
-
-emitido y 0.45 al millar por el
-
-excedente, sin que los derechos
-
-a pagar por este concepto
-
-excedan de $9,717,702.58 $9,717,703.00
+0.54 al millar por los primeros $495'602,793.00 sobre el monto emitido y 0.27 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $5'830,622.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 2.- En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.45 al millar del monto emitido sin
-
-que los derechos a pagar por año,
-
-excedan de: $1,129,993.31 $1,129,993.00
+0.27 al millar del monto emitido sin que los derechos a pagar por año excedan de: $677,996.00
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-j).- Tratándose de emisoras de valores que al momento de obtener la autorización del programa de emisiones de corto plazo mantengan inscritos exclusivamente valores de los señalados en el inciso b), numeral 2:
+j). Tratándose de emisoras de valores que al momento de obtener la autorización del programa de emisiones de corto plazo mantengan inscritos exclusivamente valores de los señalados en el inciso b), numeral 2:
 
 1. Emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.45 al millar del monto emitido, sin
+0.27 al millar del monto emitido sin que los derechos a pagar por año excedan de: $600,368.00
 
-que los derechos a pagar por año
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-excedan de: $1,000,613.93 $1,000,614.00
+k). Tratándose de la inscripción o ampliación de títulos de crédito que representen acciones inscritas en el Registro Nacional de Valores, se pagará una cuota de 0.32 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $6'122,079.00
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-k). Tratándose de la inscripción o ampliación de títulos de crédito que representen acciones inscritas en el Registro Nacional de Valores, se pagará una cuota de 0.4 al millar sobre el monto emitido.
+l). Tratándose de la inscripción o ampliación de valores fiduciarios sobre bienes distintos de acciones, cuyo activo principal se encuentre respaldado por valores inscritos en el Registro Nacional de Valores, se pagará una cuota de 0.24 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $600,368.00
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2421,13 +2345,9 @@ II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 III.- Cualquier canje de acciones que no implique un aumento en el monto de capital social inscrito, o de títulos de deuda con objeto de actualizar o modificar los datos de inscripción por concepto de capitalización de intereses, el otorgamiento o liberación de garantías, así como la sustitución de fiduciario en el caso de certificados de participación, no causarán derecho alguno por concepto de registro.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-IV. Inscripción preventiva de
-
-acciones en el Registro Nacional
-
-de Valores: $13,902.83 $13,903.00
+IV. Inscripción preventiva de acciones en el Registro Nacional de Valores: $11,122.00
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2497,13 +2417,13 @@ I. Almacenes Generales de Depósito:
 
 Cada entidad que pertenezca al sector de Almacenes Generales de Depósito, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad igual a la suma de una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 0.112548 al millar por el valor de los certificados de depósito de bienes, emitidos por la entidad de que se trate.
+a). El resultado de multiplicar 0.135636 al millar por el valor de los certificados de depósito de bienes, emitidos por la entidad de que se trate.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.210559 al millar por el valor de sus otras cuentas por cobrar menos las estimaciones por irrecuperabilidad o difícil cobro de esas otras cuentas por cobrar.
+b). El resultado de multiplicar 1.350500 al millar por el valor de sus otras cuentas por cobrar menos las estimaciones por irrecuperabilidad o difícil cobro de esas otras cuentas por cobrar.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -2519,17 +2439,17 @@ II. Arrendadoras Financieras:
 
 Cada entidad que pertenezca al sector de Arrendadoras Financieras, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad igual al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 0.887015 al millar por el valor del total de su pasivo.
+a). El resultado de multiplicar 0.519993 al millar por el valor del total de su pasivo.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.869000 al millar, por el valor de su cartera de arrendamiento vencida.
+b). El resultado de multiplicar 7.034000 al millar, por el valor de su cartera de arrendamiento vencida.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-c). El resultado de multiplicar 0.023000 al millar por el valor del total de su cartera de arrendamiento menos las estimaciones preventivas para riesgos crediticios.
+c). El resultado de multiplicar 0.090500 al millar por el valor del total de su cartera de arrendamiento menos las estimaciones preventivas para riesgos crediticios.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -2545,21 +2465,17 @@ III. Banca de Desarrollo:
 
 Cada entidad que pertenezca al sector de Banca de Desarrollo, entendiéndose por ello aquellas que conforme a la Ley de Instituciones de Crédito tengan tal carácter, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad igual al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 0.189991 al millar, por el valor del total de los pasivos de la entidad de que se trate.
+a). El resultado de multiplicar 0.275887 al millar, por el valor del total de los pasivos de la entidad de que se trate.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.021470 al millar, por el valor de sus activos sujetos a riesgo totales.
+b). El resultado de multiplicar 0.021500 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-La cuota que resulte de conformidad
-
-con lo previsto en esta fracción, en
-
-ningún caso podrá ser inferior a: $4,000,000.00 $4,000,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $5'000,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2567,23 +2483,17 @@ IV. Banca Múltiple:
 
 Cada entidad que pertenezca al sector de Banca Múltiple, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la Ley de Instituciones de Crédito, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 0.150382 al millar, por el valor del total de pasivos de la entidad de que se trate.
+a). El resultado de multiplicar 0.128561 al millar, por el valor del total de pasivos de la entidad de que se trate.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.009280 al millar, por el valor de sus activos sujetos a riesgo totales.
+b). El resultado de multiplicar 0.007110 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-La cuota que resulte de conformidad
-
-con lo previsto en esta fracción,
-
-en ningún caso podrá ser inferior
-
-a: $2,000,000.00 $2,000,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $3'000,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2591,27 +2501,21 @@ V. Casas de Bolsa:
 
 Cada entidad que pertenezca al sector de Casas de Bolsa, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 7.376560 al millar, por el valor de su capital global.
+a). El resultado de multiplicar 5.687900 al millar, por el valor de su capital global.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 4.534000 al millar, por el producto de su índice de capitalización (equivalente al requerimiento de capital entre el capital global) multiplicado por el requerimiento de capital.
+b). El resultado de multiplicar 4.945800 al millar, por el producto de su índice de capitalización (equivalente al requerimiento de capital entre el capital global) multiplicado por el requerimiento de capital.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-c). El resultado de multiplicar 0.547100 al millar, por el producto del recíproco del indicador de liquidez (equivalente a dividir 1 entre la cantidad que resulte de dividir activo circulante entre pasivo circulante) multiplicado por el pasivo total.
+c). El resultado de multiplicar 0.587300 al millar, por el producto del recíproco del indicador de liquidez (equivalente a dividir 1 entre la cantidad que resulte de dividir activo circulante entre pasivo circulante) multiplicado por el pasivo total.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-La cuota que resulte de conformidad
-
-con lo previsto en esta fracción,
-
-en ningún caso podrá ser inferior
-
-a: $1,600,000.00 $1,600,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a la cantidad que resulte de multiplicar 0.083 por el capital mínimo requerido para funcionar como casa de bolsa, conforme a las disposiciones aplicables.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2619,21 +2523,17 @@ VI. Casas de Cambio:
 
 Cada entidad que pertenezca al sector de Casas de Cambio, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 4.742965 al millar, por el valor de su capital contable.
+a). El resultado de multiplicar 4.000000 al millar, por el valor de su capital contable.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 12.490000 al millar, por el importe que resulte de capital contable menos las disponibilidades netas, las cuales serán equivalentes a la suma de caja, billetes y monedas, saldos deudores de bancos, documentos de cobro inmediato, remesas en camino e inversiones en valores, menos los saldos acreedores de bancos. En este caso, cuando las disponibilidades netas sean negativas, la aplicación de la fórmula a que se refiere este inciso será equivalente a sumar el valor absoluto de dichas disponibilidades netas al capital contable.
+b). El resultado de multiplicar 18.750000 al millar, por el importe que resulte de capital contable menos las disponibilidades netas, las cuales serán equivalentes a la suma de caja, billetes y monedas, saldos deudores de bancos, documentos de cobro inmediato, remesas en camino e inversiones en valores, menos los saldos acreedores de bancos. En este caso, cuando las disponibilidades netas sean negativas, la aplicación de la fórmula a que se refiere este inciso será equivalente a sumar el valor absoluto de dichas disponibilidades netas al capital contable.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-La cuota que resulte de conformidad
-
-con lo previsto en esta fracción, en
-
-ningún caso podrá ser inferior a: $250,000.00 $250,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $400,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2641,17 +2541,17 @@ VII. Empresas de Factoraje Financiero:
 
 Cada entidad que pertenezca al sector de Empresas de Factoraje Financiero, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 0.813805 al millar, por el valor del total de su pasivo.
+a). El resultado de multiplicar 0.925400 al millar, por el valor del total de su pasivo.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.461000 al millar, por el valor de su cartera de factoraje vencida.
+b). El resultado de multiplicar 8.363500 al millar, por el valor de su cartera de factoraje vencida.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-c). El resultado de multiplicar 0.019000 al millar, por el valor de su cartera de factoraje menos las estimaciones preventivas para riesgos crediticios.
+c). El resultado de multiplicar 0.138800 al millar, por el valor de su cartera de factoraje menos las estimaciones preventivas para riesgos crediticios.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -2665,9 +2565,9 @@ ningún caso podrá ser inferior a: $250,000.00 $250,000.00
 
 VIII. Inmobiliarias:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca al sector de Inmobiliarias, entendiéndose por ello aquellas sociedades inmobiliarias que sean propietarias o administradoras de bienes destinados a las oficinas de instituciones de crédito o de casas de bolsa, en términos de la Ley de Instituciones de Crédito o de la Ley del Mercado de Valores, según corresponda, pagará una cuota equivalente al resultado de multiplicar 0.429314 al millar, por el valor de su capital contable.
+Cada entidad que pertenezca al sector de Inmobiliarias, entendiéndose por ello aquellas sociedades inmobiliarias que sean propietarias o administradoras de bienes destinados a las oficinas de instituciones de crédito o de casas de bolsa, en términos de la Ley de Instituciones de Crédito o de la Ley del Mercado de Valores, según corresponda, pagará una cuota equivalente al resultado de multiplicar 0.432864 al millar, por el valor de su capital contable.
 
 a). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -2701,17 +2601,17 @@ X. Sociedades de Ahorro y Préstamo:
 
 Cada entidad que pertenezca al sector de Sociedades de Ahorro y Préstamo, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 0.264000 al millar, por el valor del total de sus pasivos.
+a). El resultado de multiplicar 0.245430 al millar, por el valor del total de sus pasivos.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.145000 al millar, por el valor de su cartera de crédito vencida.
+b). El resultado de multiplicar 0.171500 al millar, por el valor de su cartera de crédito vencida.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-c). El resultado de multiplicar 0.008600 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
+c). El resultado de multiplicar 0.008060 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -2729,21 +2629,13 @@ XI. Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota equivalente a lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 0.449827 al millar, por el valor total de las acciones representativas de su capital social en circulación, valuadas a precio corriente en el mercado y, a falta de éste, a su valor contable o precio actualizado de valuación, determinado por la sociedad valuadora o el comité de valuación que corresponda.
+a). El resultado de multiplicar 0.300000 al millar, por el valor de los primeros $2'000,000,000.00 y 0.150000 al millar por el valor restante del total de las acciones representativas de su capital social en circulación, valuadas a precio corriente en el mercado y, a falta de éste, a su valor contable o precio actualizado de valuación, determinado por la sociedad valuadora o el comité de valuación que corresponda.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-La cuota que resulte de conformidad
-
-con lo previsto en esta fracción, en
-
-ningún caso podrá ser inferior a
-
-$13,200.00, sin que pueda ser
-
-superior a: $350,000.00 $350,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a $30,000.00 sin que pueda ser superior a: $900,000.00
 
 Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en la sección de valores del Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
@@ -2753,25 +2645,21 @@ XII. Sociedades Financieras de Objeto Limitado:
 
 Cada entidad que pertenezca al sector de Sociedades Financieras de Objeto Limitado, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 0.162632 al millar, por el valor del total de sus pasivos.
+a). El resultado de multiplicar 0.152310 al millar, por el valor del total de sus pasivos.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.125634 al millar, por el valor de su cartera de crédito vencida.
+b). El resultado de multiplicar 0.149700 al millar, por el valor de su cartera de crédito vencida.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-c). El resultado de multiplicar 0.004230 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
+c). El resultado de multiplicar 0.003890 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-La cuota que resulte de conformidad
-
-con lo previsto en esta fracción, en
-
-ningún caso podrá ser inferior a: $300,000.00 $300,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $500,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2779,25 +2667,21 @@ XIII. Uniones de Crédito:
 
 Cada entidad que pertenezca al sector de Uniones de Crédito, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). El resultado de multiplicar 0.367677 al millar, por el valor del total de sus pasivos.
+a). El resultado de multiplicar 0.393000 al millar, por el valor del total de sus pasivos.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.122800 al millar, por el valor de su cartera de crédito vencida.
+b). El resultado de multiplicar 0.243000 al millar, por el valor de su cartera de crédito vencida.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-c). El resultado de multiplicar 0.011810 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
+c). El resultado de multiplicar 0.011650 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-La cuota que resulte de conformidad
-
-con lo previsto en esta fracción, en
-
-ningún caso podrá ser inferior a: $80,000.00 $80,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $160,000.00
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2809,9 +2693,9 @@ La Financiera Rural, pagará una cuota equivalente al resultado de la suma de la
 
 a). Una cuota de $1,606,800.00 $1,606,800.00
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.221193 al millar por el total de sus activos.
+b). El resultado de multiplicar 0.240474 al millar, por el total de sus activos.
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2823,13 +2707,13 @@ Cada una de las entidades que integran el sector de Fondos y Fideicomisos Públi
 
 a). Una cuota de $1,561,946.71 $1,561,947.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.019716 al millar por el total de sus activos.
+b). El resultado de multiplicar 0.020883 al millar, por el total de sus activos.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Para los efectos de lo previsto en esta fracción, forman parte del sector Fondos y Fideicomisos Públicos, el Fideicomiso de Fomento Minero, el Fondo de Capitalización e Inversión del Sector Rural, el Fondo Nacional de Fomento al Turismo, el Fondo de la Vivienda para los Militares en Activo, el Fondo Especial para Financiamientos Agropecuarios, el Fideicomiso Fondo Nacional de Habitaciones Populares, el Fondo de Garantía para la Agricultura, Ganadería y Avicultura, Fondo de Garantía y Fomento para las Actividades Pesqueras, el Fondo de Operación y Financiamiento Bancario a la Vivienda, el Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios y los demás fondos y fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico que la Comisión Nacional Bancaria y de Valores supervise.
+Para los efectos de lo previsto en esta fracción, forman parte del sector Fondos y Fideicomisos Públicos, el Fideicomiso de Fomento Minero; el Fondo de Capitalización e Inversión del Sector Rural; el Fondo Nacional de Fomento al Turismo; el Fondo de la Vivienda para los Militares en Activo; el Fondo Especial para Financiamientos Agropecuarios; el Fideicomiso Fondo Nacional de Habitaciones Populares; el Fondo de Garantía para la Agricultura, Ganadería y Avicultura; el Fondo de Garantía y Fomento para las Actividades Pesqueras; el Fondo de Operación y Financiamiento Bancario a la Vivienda; el Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios; el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y los demás fondos y fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico que la Comisión Nacional Bancaria y de Valores supervise.
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2841,7 +2725,9 @@ El Instituto del Fondo Nacional para el Consumo de los Trabajadores, pagará una
 
 a). Una cuota de: $1,458,128.00 $1,458,128.00
 
-b). El resultado de multiplicar 0.658968 al millar por el total de sus activos.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+b). El resultado de multiplicar 0.695726 al millar, por el total de sus activos.
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2853,7 +2739,9 @@ El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, pagará un
 
 a). Una cuota de: $1,458,128.00 $1,458,128.00
 
-b). El resultado de multiplicar 0.020775 al millar por el total de sus activos.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+b). El resultado de multiplicar 0.022057 al millar, por el total de sus activos.
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2861,19 +2749,21 @@ XVIII. Sociedades Financieras de Objeto Múltiple Reguladas:
 
 Cada sociedad que pertenezca al sector de Sociedades Financieras de Objeto Múltiple, entendiéndose para tales efectos, a las sociedades que en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, mantengan vínculos patrimoniales con instituciones de crédito o sociedades controladoras de grupos financieros de los que formen parte instituciones de crédito, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 0.621151 al millar, por el valor del total de sus pasivos;
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b). El resultado de multiplicar 0.485211 al millar, por el valor de su cartera vencida;
+a). El resultado de multiplicar 0.589202 al millar, por el valor del total de sus pasivos.
 
-c). El resultado de multiplicar 0.015410 al millar, por el valor de su cartera menos las estimaciones preventivas para riesgos crediticios.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+b). El resultado de multiplicar 0.257000 al millar, por el valor de su cartera vencida.
 
-La cuota que resulte de conformidad
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-con lo previsto en esta fracción, en
+c). El resultado de multiplicar 0.014910 al millar, por el valor de su cartera menos las estimaciones preventivas para riesgos crediticios.
 
-ningún caso podrá ser inferior a: $300,000.00 $300,000.00
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $500,000.00
 
 Las entidades a que se refieren las fracciones II, VII y XII de este artículo, que se transformen en sociedades financieras de objeto múltiple reguladas, durante el año, deberán pagar a partir de su transformación la cuota que venían pagando en el ejercicio conforme a las referidas fracciones II, VII y XII, o bien, la cuota establecida en esta fracción, lo que resulte mayor.
 
@@ -2881,7 +2771,9 @@ Las entidades a que se refieren las fracciones II, VII y XII de este artículo, 
 
 XIX. Sociedades Controladoras de Grupos Financieros:
 
-Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose por ello a las sociedades controladoras previstas en la ley para regular las agrupaciones financieras, pagará la cantidad que resulte de multiplicar 0.005341 al millar por el total del activo del balance general consolidado con subsidiarias.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad que resulte de multiplicar 0.008129 al millar por el total del activo del balance general consolidado con subsidiarias.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -2911,167 +2803,41 @@ I. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 II. Bolsas de Futuros y Opciones:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca
-
-al sector de Bolsas de Futuros
-
-y Opciones, entendiéndose para
-
-estos efectos, a las entidades que
-
-cuenten con autorización para
-
-constituirse y operar como tales
-
-en términos de las disposiciones
-
-aplicables, pagará el 1.07 por ciento
-
-respecto de su capital contable,
-
-excluyendo el resultado no
-
-realizado por valuación de cartera
-
-de valores y actualización
-
-patrimonial, sin que los derechos
-
-a pagar por este concepto sean
-
-inferiores a: $943,756.00 $943,756.00
+Cada entidad que pertenezca al sector de Bolsas de Futuros y Opciones, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de las disposiciones aplicables, pagará el 1.74 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial sin que los derechos a pagar por este concepto sean inferiores a: $943,756.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 III. Bolsas de Valores:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca al
-
-sector de Bolsas de Valores,
-
-entendiéndose para estos efectos,
-
-a las entidades que cuenten con
-
-la concesión para constituirse y
-
-operar como tales en términos de
-
-la legislación aplicable, pagará el
-
-0.59 por ciento respecto de su
-
-capital contable, excluyendo el
-
-resultado no realizado por valuación
-
-de cartera de valores y actualización
-
-patrimonial, sin que los derechos a
-
-pagar por este concepto sean
-
-inferiores a: $1,047,048.00 $1,047,048.00
+Cada entidad que pertenezca al sector de Bolsas de Valores, entendiéndose para estos efectos a las entidades que cuenten con la concesión para constituirse y operar como tales en términos de la legislación aplicable, pagará el 0.82 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial sin que los derechos a pagar por este concepto sean inferiores a: $1'047,048.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IV. Cámaras de Compensación:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca
-
-al sector de Cámaras de
-
-Compensación, entendiéndose
-
-por ello a las sociedades que
-
-cuenten con la autorización
-
-correspondiente en términos de
-
-la legislación aplicable, deberá
-
-pagar anualmente una cantidad
-
-igual al 0.86 por ciento respecto
-
-de su capital contable, excluyendo
-
-el resultado no realizado por
-
-valuación de cartera de valores y
-
-actualización patrimonial, sin que
-
-los derechos a pagar por este
-
-concepto sean inferiores a: $1,174,188.00 $1,174,188.00
+Cada entidad que pertenezca al sector de Cámaras de Compensación, entendiéndose por ello a las sociedades que cuenten con la autorización correspondiente en términos de la legislación aplicable, deberá pagar anualmente una cantidad igual al 1.13 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial sin que los derechos a pagar por este concepto sean inferiores a: $1'174,188.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 V. Contrapartes Centrales:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca al
-
-sector de Contrapartes Centrales,
-
-entendiéndose por ello a las
-
-sociedades que cuenten con la
-
-concesión correspondiente en
-
-términos de la legislación aplicable,
-
-pagará el 1.17 por ciento respecto
-
-de su capital contable, excluyendo
-
-el resultado no realizado por
-
-valuación de cartera de valores y
-
-actualización patrimonial, sin que
-
-los derechos a pagar por este
-
-concepto sean inferiores a: $849,000.00 $849,000.00
+Cada entidad que pertenezca al sector de Contrapartes Centrales, entendiéndose por ello a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará el 1.56 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial sin que los derechos a pagar por este concepto sean inferiores a: $849,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 VI. Empresas de Servicios Complementarios:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca
-
-al sector de Empresas de
-
-Servicios Complementarios,
-
-entendiéndose por ello a las
-
-sociedades que presten servicios
-
-complementarios o auxiliares en
-
-la administración a entidades
-
-financieras en términos de las
-
-disposiciones aplicables, o en la
-
-realización de su objeto, pagará
-
-la cantidad de: $75,079.00 $75,079.00
+Cada entidad que pertenezca al sector de Empresas de Servicios Complementarios, entendiéndose por ello a las sociedades que presten servicios complementarios o auxiliares en la administración a entidades financieras en términos de las disposiciones aplicables, o en la realización de su objeto, pagará la cantidad de: $89,817.00
 
 VII. (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -3085,57 +2851,17 @@ X. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 XI. Instituciones Calificadoras de Valores:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca al
-
-sector de Instituciones Calificadoras
-
-de Valores, entendiéndose por
-
-ello aquellas sociedades que con
-
-tal carácter se constituyan y sean
-
-autorizadas en términos de la
-
-Ley del Mercado de Valores,
-
-deberán pagar: $348,465.00 $348,465.00
+Cada entidad que pertenezca al sector de Instituciones Calificadoras de Valores, entendiéndose por ello a aquellas sociedades que con tal carácter se constituyan y sean autorizadas en términos de la Ley del Mercado de Valores, deberá pagar: $415,743.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XII. Instituciones para el Depósito de Valores:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca al
-
-sector de Instituciones para el
-
-Depósito de Valores, entendiéndose
-
-por ello aquellas sociedades que
-
-cuenten con la concesión
-
-correspondiente en términos de la
-
-legislación aplicable, pagará el
-
-0.92 por ciento respecto de su
-
-capital contable, excluyendo el
-
-resultado no realizado por valuación
-
-de cartera de valores y actualización
-
-patrimonial, sin que los derechos
-
-a pagar por este concepto sean
-
-inferiores a: $658,771.04 $658,771.00
+Cada entidad que pertenezca al sector de Instituciones para el Depósito de Valores, entendiéndose por ello a aquellas sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará el 1.06 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial sin que los derechos a pagar por este concepto sean inferiores a: $658,771.04
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -3161,17 +2887,9 @@ pagará la cantidad de: $325,628.00 $325,628.00
 
 XIV. Oficinas de Representación de Entidades Financieras del Exterior:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca
-
-al sector de Oficinas de
-
-Representación de Entidades
-
-Financieras del Exterior, pagará
-
-la cantidad de: $46,111.00 $46,111.00
+Cada entidad que pertenezca al sector de Oficinas de Representación de Entidades Financieras del Exterior, pagará la cantidad de: $55,333.00
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -3207,6 +2925,14 @@ a las disposiciones que los rigen,
 
 pagarán la cantidad de: $179,441.00 $179,441.00
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+a). Cada asociación gremial de intermediarios del mercado de valores y de prestadores de servicios vinculados al mercado de valores que haya obtenido el reconocimiento para actuar como organismo autorregulatorio del mercado de valores, pagará la cantidad de: $358,000.00
+
+> <small>(ADICIONADO [N. DE E. ANTES PARRAFO SEGUNDO], D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+b). Los organismos autorregulatorios que hayan obtenido el reconocimiento a que se refiere el inciso a) anterior, que al mismo tiempo cuenten con la autorización para certificar la capacidad técnica de las personas físicas que pretendan actuar como operadores de bolsa o apoderados de intermediarios del mercado de valores para la celebración de operaciones con el público, pagarán la cantidad de: $1'000,000.00
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XVII. Confederaciones a que se refiere la Ley de Ahorro y Crédito Popular:
@@ -3225,17 +2951,9 @@ pagará la cuota de: $178,506.77 $178,507.00
 
 XVIII. Proveedores de Precios:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca al
-
-sector de proveedores de precios,
-
-autorizados en términos de a Ley
-
-del Mercado de Valores pagará: $255,746.00 $255,746.00
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+Cada entidad que pertenezca al sector de proveedores de precios, autorizados en términos de la Ley del Mercado de Valores pagará: $511,492.00
 
 XIX. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -3243,25 +2961,9 @@ XIX. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 XX. Sociedades de Información Crediticia:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca
-
-al sector de Sociedades de
-
-Información Crediticia,
-
-entendiéndose por ello a las
-
-sociedades autorizadas conforme
-
-a la Ley para Regular a las
-
-Sociedades de Información
-
-Crediticia, pagará la cantidad
-
-de: $494,771.00 $494,771.00
+Cada entidad que pertenezca al sector de Sociedades de Información Crediticia, entendiéndose por ello a las sociedades autorizadas conforme a la Ley para Regular a las Sociedades de Información Crediticia, pagará la cantidad de: $950,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3269,15 +2971,17 @@ XXI. Sociedades Distribuidoras de Acciones de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Distribuidoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). Que actúen como
+a). Que actúen como referenciadoras: $35,000.00
 
-referenciadoras: $23,721.00 $23,721.00
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+b). Que actúen como integrales: $70,000.00
 
-b). Que actúen como integrales: $54,743.00 $54,743.00
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Sociedades Distribuidoras de Acciones de Sociedades de Inversión las instituciones de crédito, casas de bolsa, instituciones de seguros, organizaciones auxiliares del crédito, casas de cambio, sociedades financieras de objeto limitado y sociedades operadoras de sociedades de inversión, que proporcionen de manera directa a las sociedades de inversión servicios de distribución de acciones.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3285,41 +2989,21 @@ XXII. Sociedades Operadoras de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Operadoras de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a). De renta variable y de inversión
+a). De renta variable y de inversión en instrumentos de deuda: $70,340.00
 
-en instrumentos de deuda: $48,693.00 $48,693.00
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-b). De capitales o de objeto
-
-limitado: $41,390.00 $41,390.00
+b). De capitales o de objeto limitado: $59,790.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIII. Sociedades Valuadoras de Acciones de Sociedades de Inversión:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cada entidad que pertenezca al
-
-sector de Sociedades Valuadoras
-
-de Acciones de Sociedades de
-
-Inversión, entendiéndose por ello
-
-a las sociedades a que con tal
-
-carácter se refiere la Ley de
-
-Sociedades de Inversión, pagará
-
-la cantidad de $598.00 $598.00
-
-por cada Fondo valuado.
+Cada entidad que pertenezca al sector de Sociedades Valuadoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará la cantidad de $684.00 por cada Fondo valuado.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -3365,15 +3049,9 @@ a). Con sólo acciones inscritas:
 
 1. Emitidas por sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.9595 al millar respecto al capital
-
-social más reservas de capital, sin
-
-que los derechos a pagar por
-
-este concepto excedan de: $477,892.58 $477,893.00
+0.7676 al millar respecto al capital social más reservas de capital sin que los derechos a pagar por este concepto excedan de: $382,314.00
 
 2. Emitidas por sociedades Anónimas Promotoras de Inversión Bursátil:
 
@@ -3403,6 +3081,12 @@ pagar por este concepto excedan
 
 de: $238,947.00 $238,947.00
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+3. Emitidas por sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, casas de cambio, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple y demás entidades financieras autorizadas:
+
+0.7676 al millar respecto al capital social más reservas de capital sin que los derechos a pagar por este concepto excedan de: $382,314.00
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 b). Con sólo títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles:
@@ -3421,33 +3105,9 @@ este concepto excedan de $269,843.05 $269,843.00
 
 c). Con acciones y títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Por acciones, la cuota señalada
-
-en la fracción I, inciso a), numerales
-
-1 y 2 de este artículo, según
-
-corresponda y 0.6396 al millar
-
-respecto al monto en circulación
-
-de cada emisión de títulos de
-
-crédito o valores inscritos que
-
-otorguen a sus titulares derechos
-
-de crédito, de propiedad o de
-
-participación, sobre bienes o
-
-derechos muebles o inmuebles,
-
-sin que los derechos a pagar
-
-por este concepto excedan de: $119,472.61 $119,473.00
+Por acciones, la cuota señalada en la fracción I, inciso a), numerales 1 a 3, de este artículo, según corresponda y 0.6396 al millar respecto al monto en circulación de cada emisión de títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles sin que los derechos a pagar por este concepto excedan de: $119,472.61
 
 d). Valores emitidos por organismos descentralizados del Gobierno Federal, Gobiernos de los Estados y Municipios, así como de los organismos y empresas en que estos últimos participen:
 
@@ -3467,15 +3127,9 @@ de $269,843.05 $269,843.00
 
 e). Títulos de crédito que representen acciones:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-0.6396 al millar, respecto al monto
-
-en circulación de cada emisión,
-
-sin que los derechos a pagar por
-
-este concepto excedan de $101,189.79 $101,190.00
+0.5116 al millar, respecto al monto en circulación de cada emisión sin que los derechos a pagar por este concepto excedan de $80,952.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -3487,21 +3141,17 @@ incisos anteriores: $89,048.07 $89,048.00
 
 por cada emisión.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+g). Títulos fiduciarios cuyo activo principal se encuentre respaldado por valores inscritos en el Registro Nacional de Valores:
+
+0.5116 al millar respecto al monto en circulación de cada emisión sin que los derechos a pagar por este concepto excedan de: $80,952.00
+
 II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-III. Las personas morales que
-
-mantengan sus acciones inscritas
-
-con carácter preventivo bajo la
-
-modalidad de listado previo
-
-pagarán $13,531.76 $13,532.00
-
-por inscripción preventiva.
+III. Las personas morales que mantengan sus acciones inscritas con carácter preventivo bajo la modalidad de listado previo pagarán $10,825.00 por inscripción preventiva.
 
 No computarán para los efectos de la cuota de inspección y vigilancia a que se refiere este artículo, los valores que hayan sido inscritos en el mismo ejercicio fiscal en el cual se paguen dichos derechos, excepto cuando se otorgue la inscripción para la ampliación de plazos, montos de emisión o de capital social.
 
@@ -3595,6 +3245,10 @@ IV.- Los derechos por concepto de certificación, autorización, y aprobación r
 
 V.- Tratándose de los derechos por el otorgamiento de autorizaciones, así como por la inscripción en el Registro Nacional de Valores, previstas en los artículos 29-A y 29-B de esta Ley, los derechos deberán pagarse en la misma fecha en que se reciba el oficio mediante el cual se notifique el otorgamiento de la inscripción en el Registro Nacional de Valores, o la autorización relativa. En el caso de que los derechos no puedan ser calculados sino hasta el momento de la emisión, podrá comunicarse al interesado la autorización respecto del acto registral correspondiente, quedando éste obligado a informar a la Comisión Nacional Bancaria y de Valores, el día hábil previo a la emisión, las características definitivas de la operación, así como a cubrir los derechos por concepto de inscripción de los títulos de que se trate, a más tardar el día de la emisión. En el caso de emisiones de corto plazo, los derechos de inscripción se causarán por el monto de cada colocación y deberán ser pagados a más tardar el día 17 del mes inmediato posterior a aquél en que se realicen cada una de las mismas.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+En el caso de emisiones cuya suscripción se realice en diferentes fechas, el importe de los derechos por concepto de inscripción deberá ser cubierto a más tardar el día de la suscripción o colocación de los valores, con base en el monto colocado.
+
 La falta de pago de dichos derechos en los plazos establecidos, dará lugar a que la inscripción definitiva de los títulos correspondientes, no se lleve a cabo.
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
@@ -3607,15 +3261,9 @@ VI.- Los Organismos Financieros Multilaterales de los que México sea parte, no 
 
 Las bolsas de valores se abstendrán de inscribir valor alguno, mientras el emisor de que se trate no exhiba la documentación que acredite el cumplimiento de la obligación de pago a que alude este Capítulo.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
 ###### ARTICULO 29-M.
 
-Cuando en la determinación del importe de los derechos a pagar señalados en los artículos 29-D y 29-E de esta Ley, resultare un importe menor respecto de aquél pagado en el ejercicio fiscal inmediato anterior, las entidades estarán obligadas a pagar dicha cuota siempre que la diferencia no sea mayor al 5 por ciento entre el importe pagado y el importe determinado para el ejercicio fiscal que corresponda.
-
-En caso de que la diferencia sea mayor al 5 por ciento entre el importe pagado en el ejercicio fiscal inmediato anterior y el importe determinado para el ejercicio fiscal que corresponda, las entidades estarán obligadas a pagar el importe que resulte de restar el 5 por ciento a la cuota pagada en el ejercicio fiscal inmediato anterior.
-
-Lo dispuesto en este artículo no se aplicará a los importes mínimos y cuotas fijas establecidos en los artículos 29-D y 29-E de esta Ley.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 29-N.
 
@@ -3965,9 +3613,9 @@ conforme a la cuota de: $430.00 $430.00
 
 Las instituciones de fianzas y los establecimientos que conforme a la Ley Federal de Instituciones de Fianzas deban estar sometidos a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, deberán pagar por tal concepto un derecho, de acuerdo con lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-I.- Las instituciones de fianzas pagarán el equivalente al 4% de las primas que perciban.
+I.- Las instituciones de fianzas pagarán el equivalente al 3.5% de las primas que perciban.
 
 Tratándose de primas por concepto de reafianzamiento recibido de empresas extranjeras, el derecho se causará sobre la prima, deducido el importe de la comisión pagada a la empresa extranjera; y
 
@@ -3977,7 +3625,7 @@ II.- Las demás personas y entidades sujetas a la inspección y vigilancia de la
 
 Las cuotas determinadas conforme al presente artículo deberán manifestarse a la Secretaría de Hacienda y Crédito Público dentro de los primeros 15 días de cada bimestre. Al presentarse dichas manifestaciones, exhibirán el comprobante de haber pagado el importe de los derechos causados, a reserva de que se hagan los ajustes que procedan al verificarse las mencionadas manifestaciones mediante las inspecciones respectivas.
 
-Las cuotas que se recauden por los derechos a que se refiere este artículo se depositarán en cuenta especial en el Banco de México, S.A., y quedarán afectados a la Secretaría de Hacienda y Crédito Público.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -4137,87 +3785,39 @@ de fianza $982.49 $982.00
 
 #### SECCION SEGUNDA. De la Comisión Nacional del Sistema de Ahorro para el Retiro
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 31-B.
 
-Las Administradoras de Fondos para el Retiro, las Empresas Operadoras de la Base de Datos Nacional SAR y las Sociedades de Inversión Especializadas de Fondos para el Retiro que operan las primeras, pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
+Las Administradoras de Fondos para el Retiro, las instituciones públicas que realicen funciones similares a éstas, las Empresas Operadoras de la Base de Datos Nacional SAR y las Sociedades de Inversión Especializadas de Fondos para el Retiro pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+I. Las Administradoras de Fondos para el Retiro y las instituciones públicas que realicen funciones similares, por el capital suscrito y pagado por los trabajadores en las Sociedades de Inversión Especializadas de Fondos para el Retiro que inviertan las cuotas y aportaciones de los seguros de retiro, cesantía en edad avanzada y vejez establecidos en la Ley del Seguro Social y en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, $55,011.17 por concepto de cuota anual y adicionalmente $0.1258 anuales por cada $1,000.00 del saldo total de dicho capital.
 
-I.- Las Administradoras de Fondos para el Retiro $55,011.17 cuota anual y adicionalmente $0.1258 anuales por cada $1,000.00 del saldo total de las subcuentas de retiro, cesantía en edad avanzada y vejez de las cuentas individuales que administren.
+II. Las Sociedades de Inversión Especializadas de Fondos para el Retiro $52,181.37 cuota anual.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+El pago de las cuotas anuales a que se refieren las fracciones I y II anteriores, deberá realizarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra.
 
-II.- Las Sociedades de Inversión Especializadas de Fondos para el Retiro $52,181.3656 cuota anual.
+Las Administradoras de Fondos para el Retiro o Sociedades de Inversión Especializadas de Fondos para el Retiro que obtengan autorización para organizarse y operar como tales o las instituciones públicas que realicen funciones similares que inicien operaciones, durante el año calendario deberán cubrir la cuota anual de $55,011.17 o de $52,181.37, según corresponda, a que se refieren las fracciones I y II del presente artículo, a más tardar el último día hábil del mes inmediato posterior al mes en que obtengan dicha autorización o, en su caso, inicien operaciones. El monto de dicha cuota anual será proporcional al número de meses que resten al año calendario de que se trate.
 
-El pago de las cuotas anuales de $48,713.00 a que se refieren las fracciones I y II anteriores, deberá realizarse a más tardar el día 17 del mes de enero del ejercicio fiscal que transcurra.
+Para los efectos de la cuota anual adicional de $0.1258 a que se refiere la fracción I anterior, se realizarán pagos provisionales trimestrales en los meses de abril, julio y octubre del ejercicio fiscal de que se trate y enero del siguiente, a más tardar el día 20 del mes respectivo.
 
-Las Administradoras de Fondos para el Retiro o Sociedades de Inversión Especializadas de Fondos para el Retiro que obtengan autorización para organizarse y operar como tales, durante el año calendario, deberán cubrir la cuota anual de $48,713.00 a que se refieren las fracciones I y II del presente artículo, a más tardar el último día hábil del mes inmediato posterior al mes en que obtengan dicha autorización. El monto de dicha cuota anual será proporcional al número de meses que resten al año calendario de que se trate.
+Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior se deberá multiplicar cada $1,000.00 del saldo total del capital suscrito y pagado por los trabajadores invertido en las Sociedades de Inversión Especializadas de Fondos para el Retiro a que se refiere el primer párrafo de la fracción I de este artículo por la cuota anual de $0.1258, dividida entre cuatro, tomando como total de recursos el valor de dicho capital que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
 
-Para los efectos de la cuota anual de $0.1174 a que se refiere la fracción I anterior, se realizarán pagos provisionales trimestrales en los meses de abril, julio y octubre del ejercicio fiscal de que se trate y enero del siguiente, a más tardar el día 17 del mes respectivo.
+III. Las Empresas Operadoras de la Base de Datos Nacional SAR $1'606,800.00 por cada Administradora de Fondos para el Retiro y por cada institución pública que realice funciones similares.
 
-Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior, se deberá multiplicar cada $1,000.00 del saldo total de las subcuentas de retiro, cesantía en edad avanzada y vejez de las cuentas individuales que administren por la cuota anual de $0.1174 actualizada a la fecha de pago de conformidad con el artículo 17-A del Código Fiscal de la Federación, dividida entre cuatro, tomando como saldo total de dichas subcuentas el que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
+El pago de derechos a que se refiere la presente fracción deberá enterarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra. En caso que se incorpore una nueva Administradora de Fondos para el Retiro o institución pública que realice funciones similares durante el año calendario, el pago por la nueva entidad deberá cubrirse a más tardar el último día hábil del mes inmediato posterior al mes en que se autorice ésta y será proporcional al número de meses que resten al año calendario de que se trate.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-III.- Las Empresas Operadoras de la Base de Datos Nacional SAR $1,606,800.00 por cada Administradora de Fondos para el Retiro.
-
-El pago de derechos a que se refiere la presente fracción deberá enterarse a más tardar el día 17 del mes de enero del ejercicio fiscal que transcurra. En caso que se incorpore una nueva Administradora de Fondos para el Retiro durante el año calendario el pago por la nueva entidad deberá cubrirse a más tardar el último día hábil del mes inmediato posterior al mes en que se autorice ésta y será proporcional al número de meses que resten al año calendario de que se trate.
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 32.
 
-Por el estudio de
+Por el estudio de la solicitud y, en su caso, el registro o la revalidación del registro de agentes promotores en el Registro de Agentes Promotores de las Administradoras de Fondos para el Retiro o de instituciones públicas que realicen funciones similares, que proporciona la Comisión Nacional del Sistema de Ahorro para el Retiro, se pagarán derechos conforme a la cuota de: $176.75
 
-la solicitud y, en su caso, el registro
-
-o la revalidación del registro de
-
-agentes promotores, en el Registro
-
-de Agentes Promotores de las
-
-Administradoras de Fondos para el
-
-Retiro, que proporciona la Comisión
-
-Nacional del Sistema de Ahorro para
-
-el Retiro, se pagarán derechos
-
-conforme a la cuota de: $176.75 $177.00
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 33.
 
-Por la presentación
-
-del examen de postulación a agente
-
-promotor o de revalidación del registro
-
-de agente promotor, con el cual se
-
-evaluarán los conocimientos requeridos
-
-para ejercer la actividad de agente
-
-promotor en las Administradoras de
-
-Fondos para el Retiro, se pagarán
-
-derechos conforme a la cuota de: $267.80 $268.00
+Por la presentación del examen de postulación a agente promotor o de revalidación del registro de agente promotor, con el cual se evaluarán los conocimientos requeridos para ejercer la actividad de agente promotor en las Administradoras de Fondos para el Retiro o en instituciones públicas que realicen funciones similares, se pagarán derechos conforme a la cuota de: $267.80
 
 ###### ARTICULO 33-A.
 
@@ -4405,13 +4005,9 @@ ventas de mercancías
 
 extranjeras y nacionales $33,990.77 $33,991.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-l) Por la autorización para
-
-habilitar instalaciones especiales
-
-en los recintos fiscalizados $46,968.68 $46,969.00
+I). Por la habilitación de un inmueble en forma exclusiva para la introducción de mercancías bajo el régimen de recinto fiscalizado estratégico y la autorización o prórroga para su administración: $46,968.68
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -4425,9 +4021,13 @@ n) Por la autorización de
 
 mandatario de agente aduanal $5,950.28 $5,950.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Los derechos a que se refieren los incisos b), c), d), e), h), i), k), l), m) y n) de este artículo, se pagarán anualmente. Los derechos a que se refieren los incisos a), f), g) y j) se pagarán por única vez.
+Los derechos a que se refieren los incisos b), c), d), e), h), k), l), m) y n) de este artículo se pagarán anualmente. Los derechos a que se refieren los incisos a), f), g), i) y j) de este artículo se pagarán por única vez.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+Por la prórroga de las autorizaciones a que se refieren los incisos b), c), h), i), k) y n) de este artículo, así como por la renovación de las autorizaciones a que se refieren los incisos a) y m) de este artículo, se pagarán las mismas cuotas que se establecen para cada inciso.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -4605,21 +4205,9 @@ I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del i
 
 II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por la Secretaría de Economía o, en su caso, la maquinaria y equipo que se introduzca al territorio nacional para destinarlos al régimen de elaboración, transformación o reparación en recintos fiscalizados.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-III.- Tratándose de importaciones
-
-temporales de bienes distintos de
-
-los señalados en la fracción anterior
-
-siempre que sea para elaboración,
-
-transformación o reparación en
-
-programas de maquila o de
-
-exportación. $201.90 $202.00
+III.- Tratándose de importaciones temporales de bienes distintos de los señalados en la fracción anterior siempre que sea para elaboración, transformación o reparación en las empresas con programas autorizados por la Secretaría de Economía (Industria Manufacturera, Maquiladora y de Servicios de Exportación IMMEX): $201.90
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -5323,11 +4911,7 @@ III. Por la modificación de los títulos de permiso de energía eléctrica, se 
 
 a). El 50 por ciento de la cuota establecida en la fracción I del presente artículo, cuando la modificación implique un análisis técnico, jurídico, financiero o la opinión del suministrador en términos del Reglamento de la Ley del Servicio Público de Energía Eléctrica.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-b). Por cualquier otra modificación,
-
-se pagará la cuota de: $20,385.00 $20,385.00
+b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -5483,13 +5067,7 @@ IV. Por la modificación de los títulos de permiso de gas natural, se pagarán 
 
 a). El 50 por ciento de la cuota establecida en la fracción I del presente artículo, cuando se requiera contar con un análisis técnico, jurídico o financiero por parte de la Comisión Reguladora de Energía o, en su caso, se requiera la intervención de otras autoridades del Gobierno Federal.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-b). Por cualquier otra
-
-modificación, se pagará la
-
-cuota de: $20,385.00 $20,385.00
+b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 V. Por el análisis, evaluación y, en su caso, renovación de los permisos de distribución, transporte y almacenamiento de gas natural, se pagará el 50 por ciento de los derechos establecidos en la fracción I de este artículo.
 
@@ -5553,11 +5131,7 @@ III. Por la modificación de los títulos de permiso de gas licuado de petróleo
 
 a). El 50 por ciento de la cuota establecida en la fracción I del presente artículo, cuando se requiera contar con un análisis técnico, jurídico o financiero por parte de la Comisión Reguladora de Energía o, en su caso, se requiera la intervención de otras autoridades del Gobierno Federal.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-b). Por cualquier otra modificación,
-
-se pagará la cuota de: $20,385.00 $20,385.00
+b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -5690,6 +5264,24 @@ sujetos a una Norma Oficial Mexicana,
 se pagará el derecho conforme a la
 
 cuota de: $2,818.33 $2,818.00
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 61-A.
+
+Por el análisis de la solicitud y, en su caso, por el otorgamiento de los permisos de construcción y operación de las instalaciones a que se refiere el artículo 1 del Reglamento de Trabajos Petroleros, en materia de refinación del petróleo, elaboración y procesamiento del gas y de petroquímicos básicos, y demás actividades relacionadas, se pagará el derecho conforme a la cuota de: $4,977.20
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 61-B.
+
+Por el análisis de la solicitud y, en su caso, por el otorgamiento de los permisos de desmantelamiento de las instalaciones a que se refiere el artículo 1 del Reglamento de Trabajos Petroleros, en materia de refinación del petróleo, elaboración y procesamiento del gas y de petroquímicos básicos, y demás actividades relacionadas, se pagará el derecho conforme a la cuota de: $2,404.70
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 61-C.
+
+Por la revisión y verificación en la realización de pruebas hidrostáticas derivadas de la construcción o mantenimiento de ductos, y pruebas hidrostáticas o de hermeticidad para circuitos en instalaciones de transformación industrial en materia de refinación del petróleo, elaboración y procesamiento del gas y de petroquímicos básicos, y demás actividades relacionadas, se pagará el derecho conforme a la cuota de: $1,434.79
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -6395,51 +5987,23 @@ derechos conforme a la cuota de $124,848.61 $124,849.00
 
 #### SECCION SEPTIMA. Servicios de Certificación de Firma Electrónica en Actos de Comercio
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 78.
 
-Por los servicios en materia de acreditación de prestador del servicio de certificación de firma electrónica en actos de comercio, se pagarán derechos conforme a las siguientes cuotas:
+Por los servicios en materia de acreditación de prestador de servicio de certificación para la emisión de certificados digitales, se pagarán derechos conforme a las siguientes cuotas:
 
-cuota sin cuota con
+I. Por el trámite y estudio de la solicitud para acreditación como prestador del servicio de certificación para la emisión de certificados digitales $32,828.75
 
-ajuste ajuste
+II. Por la acreditación como prestador del servicio de certificación para la emisión de certificados digitales $157,311.49
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+III. Por el cese voluntario como prestador del servicio de certificación para la emisión de certificados digitales $115,312.82
 
-I.- Por el trámite y estudio de
+IV. Por el examen para encargado de identificación como prestador del servicio de certificación para la emisión de certificados digitales $3,286.26
 
-la solicitud para acreditación
+V. Por el trámite y estudio de la solicitud para la acreditación de un prestador de servicios de certificación para la emisión de certificados digitales, para el servicio de conservación de mensajes de datos u otros servicios adicionales relativos a la firma electrónica $17,150.00
 
-como prestador del servicio de
-
-certificación de firma electrónica $33,828.75 $33,829.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-II.- Por la acreditación como
-
-prestador del servicio de
-
-certificación de firma electrónica $157,311.49 $157,311.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-III.- Por el cese voluntario como
-
-prestador del servicio de
-
-certificación de firma electrónica $115,312.82 $115,313.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-IV.- Por el examen para encargado
-
-de identificación como prestador
-
-del servicio de certificación de
-
-firma electrónica $3,286.26 $3,286.00
+VI. Por la acreditación de un prestador de servicios de certificación para la emisión de certificados digitales, para el servicio de conservación de mensajes de datos u otros servicios adicionales relativos a la firma electrónica $105,300.00
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION SEPTIMA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -6535,37 +6099,9 @@ En el caso de solicitud de cancelación de los servicios, cuando ésta se solici
 
 Cuando por causas no imputables a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación no sea posible prestar los servicios, se pagará la totalidad de los derechos que correspondan a los servicios solicitados.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
 ###### ARTICULO 85-A.
 
-Por los servicios de verificación, inspección, control y vigilancia sanitaria de la importación de animales, sus productos o subproductos, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-I.- Por la importación de productos
-
-o subproductos de origen animal
-
-por cada tonelada o fracción. $310.65 $311.00
-
-II.- Por la importación de animales vivos:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-a).- Por cada ejemplar de la
-
-especie bovina: $53.56 $54.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-b).- Por cada ejemplar de la especie
-
-caprina, ovina, porcina o equina. $13.39 $13.00
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6911,7 +6447,7 @@ los derechos de protección $1,008.79 $1,009.00
 
 II.- Por cada copia certificada del
 
-Título $288.11 $288.00
+Título $288.00 $288.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -7710,6 +7246,10 @@ III.- Por la autorización de
 modificaciones o ampliaciones
 
 al título de asignación $3,062.31 $3,062.00
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+Los estudios para la asignación de las frecuencias que vayan a ser utilizadas durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores estarán exentas del pago del derecho previsto en este artículo.
 
 ###### ARTICULO 106.
 
@@ -10317,83 +9857,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-A.- Tratándose de Buques:
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+A. Tratándose de Buques, por el estudio y trámite de la solicitud y, en su caso, inscripción de:
 
-I.- Por la inscripción de los certificados de
+I. Los certificados de las matrículas de las embarcaciones y artefactos navales mexicanos $565.00
 
-las matrículas de las embarcaciones y
+II. Los contratos de adquisición, enajenación o cesión, así como los actos constitutivos de derechos reales, traslativos o extintivos de propiedad, sus modalidades, hipotecas, gravámenes y privilegios marítimos sobre las embarcaciones y artefactos navales mexicanos $317.00
 
-artefactos navales mexicanos $564.72 $565.00
+III. Los contratos de arrendamiento o fletamento a casco desnudo de embarcaciones mexicanas $342.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+IV. Los contratos de construcción, de embarcaciones en México o de aquellas que se construyan en el extranjero y se pretendan abanderar como mexicanas $342.00
 
-II.- Por contratos de adquisición,
+V. De la cancelación de cualquiera de los actos especificados en este apartado $555.00
 
-enajenación o cesión, así como los
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-actos constitutivos de derechos
-
-reales, traslativos o extintivos de
-
-propiedad, sus modalidades,
-
-hipotecas, gravámenes y
-
-privilegios marítimos sobre las
-
-embarcaciones y artefactos navales
-
-mexicanos $316.97 $317.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-III.- Por contratos de arrendamiento
-
-o fletamento a casco desnudo de
-
-embarcaciones mexicanas $341.50 $342.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-IV.- Por contratos de construcción, de
-
-embarcaciones en México o de
-
-aquellas que se construyan en el
-
-extranjero y se pretendan abanderar
-
-como mexicanas $341.50 $342.00
-
-V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-VI.- Por la cancelación de cualquiera
-
-de los actos especificados en este
-
-apartado $554.77 $555.00
-
-VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Tratándose de embarcaciones menores cuando exista notoria diferencia entre el valor resultante de la operación y el estipulado en la factura y el valor comercial de la embarcación, se solicitará el avalúo correspondiente en los términos de la fracción I de este apartado.
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-B. Por la inscripción de los navieros
-
-y agentes mexicanos, así como de los
-
-operadores, se pagará por concepto de
-
-derecho de Registro Marítimo Nacional
-
-la cuota de $1,054.83 $1,055.00
+B. Por el estudio y trámite de la solicitud y, en su caso, la inscripción de los navieros y agentes mexicanos, así como de los operadores, se pagará por concepto de derecho de Registro Marítimo Nacional la cuota de $1,054.83
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -10959,11 +10439,11 @@ I.- Las dedicadas exclusivamente a fines humanitarios o científicos.
 
 II.- Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 167.
 
-Por el estudio, trámite y, en su caso, expedición de concesiones, permisos o autorizaciones para el uso o aprovechamiento de obras marítimo portuarias; así como para la prestación de servicios portuarios en las vías generales de comunicación por agua, se pagará el derecho de solicitud de concesión, permiso o autorización, conforme a las siguientes cuotas:
+Por el estudio y trámite de la solicitud y, en su caso, expedición, prórroga, renovación, modificación, ampliación o cesión de concesiones, permisos o autorizaciones para el uso o aprovechamiento de obras marítimo portuarias; así como para la prestación de servicios portuarios en las vías generales de comunicación por agua, se pagará el derecho de solicitud correspondiente, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -11357,7 +10837,7 @@ toneladas $4,094.99 $4,095.00
 
 e).- En barcos de 5,000 a 10,000
 
-toneladas $5,040.02 $5,040.00
+toneladas $5,040.22 $5,040.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -12163,15 +11643,17 @@ títulos a oficialidad de la marina
 
 mercante $329.13 $329.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 171-A.
 
-Por la autorización para ejercer como Agente Naviero Consignatario de Buques, o Agente Naviero General, se pagará el derecho de agente naviero, conforme a las siguientes cuotas:
+Por la autorización para ejercer como Agente Naviero Consignatario de Buques, Agente Naviero General o Agente Naviero Protector, se pagará el derecho de agente naviero, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
 ajuste ajuste
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I.- Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
 
@@ -12191,13 +11673,9 @@ c).- Pesca comercial $4,244.34 $4,244.00
 
 d).- Recreo $4,244.34 $4,244.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-II.- Por la expedición de la
-
-autorización para actuar como
-
-Agente Naviero General $11,887.09 $11,887.00
+II.- Por la expedición de la autorización para actuar como Agente Naviero General o Agente Naviero Protector $11,887.09
 
 cuota sin cuota con
 
@@ -14213,13 +13691,7 @@ c).- De capacitación para el trabajo
 
 industrial $22.60 $23.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-IX.- Por la expedición del certificado de
-
-terminación de estudios de tipo medio
-
-superior en la modalidad escolarizada $247.46 $247.00
+IX.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -14423,21 +13895,9 @@ ajuste ajuste
 
 A.- Por la inscripción de:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-I.- Documentos públicos o privados
-
-por virtud de los cuales se reconozcan,
-
-creen, modifiquen, transmitan o extingan
-
-derechos sobre tierras ejidales o
-
-comunales, siempre que no provengan
-
-del Programa de Certificación de Derechos
-
-Ejidales y Titulación de Solares $187.53 $188.00
+I.- Documentos públicos o privados por virtud de los cuales se reconozcan, creen, modifiquen, transmitan o extingan derechos sobre tierras ejidales o comunales, siempre que no provengan del Fondo de Apoyo para los Núcleos Agrarios sin Regularizar $187.53
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -14509,19 +13969,9 @@ VI.- Conversión del régimen de dominio
 
 pleno al ejidal $192.42 $192.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-VII.- Planos generales e internos,
-
-así como los de las grandes áreas
-
-de ejidos y comunidades que no
-
-provengan del Programa de
-
-Certificación de Derechos Ejidales
-
-y Titulación de Solares $42.70 $43.00
+VII.- Planos generales e internos, así como los de las grandes áreas de ejidos y comunidades que no provengan del Fondo de Apoyo para los Núcleos Agrarios sin Regularizar $42.70
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -14585,17 +14035,9 @@ No se pagará el derecho establecido en la fracción I, de este Apartado, tratá
 
 B.- Por la expedición de los siguientes certificados y títulos de propiedad:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-I.- Certificados y títulos de propiedad
-
-por actos jurídicos que no provengan
-
-del Programa de Certificación de
-
-Derechos Ejidales y Titulación de
-
-Solares $85.49 $85.00
+I.- Certificados y títulos de propiedad por actos jurídicos que no provengan del Fondo de Apoyo para los Núcleos Agrarios sin Regularizar $85.49
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -14649,9 +14091,9 @@ con derechos vigentes $164.48 $164.00
 
 E.- Por la asistencia técnica y catastral:
 
-> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-I.- Trabajos de campo, topográficos o fotogramétricos que no correspondan al Programa de Certificación de Derechos Ejidales y Titulación de Solares, o del Programa de Regularización de Colonias.
+I.- Trabajos de campo, topográficos o fotogramétricos que no correspondan al Fondo de Apoyo para los Núcleos Agrarios sin Regularizar o del Programa de Regularización de Colonias.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -14721,17 +14163,9 @@ III.- Por las anotaciones preventivas,
 
 su rectificación o cancelación $42.61 $43.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-IV.- Búsqueda, compulsa, y en su
-
-caso, expedición de la certificación
-
-de expediente relativo a acción
-
-agraria, por cada hoja tamaño carta
-
-u oficio $32.82 $33.00
+IV.- Por la expedición de copias certificadas de cada plano tamaño carta u oficio $12.40
 
 No se pagará el derecho establecido en esta fracción cuando el servicio sea solicitado por la Federación, el Distrito Federal, Estados y Municipios en relación con asuntos oficiales y de su competencia, siempre que esta solicitud no derive de la petición de un particular. Tampoco se pagará este derecho cuando se trate de la expedición de copias certificadas para la substanciación del juicio de amparo.
 
@@ -15221,61 +14655,9 @@ el derecho de pesca, conforme a la
 
 cuota de $2,260.36 $2,260.00
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 191-D.
 
-Por la expedición de permisos para embarcaciones destinadas a la pesca deportiva, se pagará el derecho de pesca, anualmente conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Embarcaciones de propiedad y uso particular:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-a).- Hasta 7.00 metros de eslora $366.71 $367.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-b).- De 7.01 a 9.00 metros de eslora $733.64 $734.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-c).- De 9.01 metros de eslora
-
-en adelante $1,100.59 $1,101.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Embarcaciones de prestadores de servicios:
-
-a).- En aguas marinas:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-1.- De hasta 3 toneladas brutas
-
-de registro $786.79 $787.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-2.- De más de 3 toneladas brutas
-
-de registro $2,361.26 $2,361.00
-
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
-
-b).- En aguas distintas de las marinas $786.79 $787.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-c).- Embarcaciones extranjeras
-
-por tonelada bruta de registro o
-
-fracción $2,015.69 $2,016.00
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 cuota sin cuota con
 
@@ -15570,6 +14952,10 @@ o constancias de las inscripciones o
 documentos que obren en el Registro
 
 Público, por cada uno $124.10 $124.00
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+V. Por la emisión de mapas con información registral, a cargo de la Comisión Nacional del Agua, por cada uno $204.00
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -16245,9 +15631,9 @@ IV.- De más de 5,000 metros
 
 cúbicos en adelante $5,928.83 $5,929.00
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Por la solicitud y, en su caso, autorización de la modificación de los programas de manejo a que se refiere este artículo se pagará el 35% de la cuota según corresponda.
+Por la solicitud y, en su caso, autorización de la modificación de los programas de manejo a que se refiere este artículo se pagará el 35% de la cuota según corresponda, tomando como base el total de los volúmenes autorizados pendientes de aprovechar.
 
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -16299,9 +15685,9 @@ hasta 3,000 metros cúbicos $2,892.24 $2,892.00
 
 IV.- De más de 3,000 metros cúbicos $3,749.20 $3,749.00
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Por la solicitud y, en su caso, autorización de la modificación de los programas de manejo a que se refiere este artículo se pagará el 35% de la cuota según corresponda.
+Por la solicitud y, en su caso, autorización de la modificación de los programas de manejo a que se refiere este artículo se pagará el 35% de la cuota según corresponda, tomando como base el total de los volúmenes autorizados pendientes de aprovechar.
 
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -16659,29 +16045,17 @@ recolección y transporte de residuos
 
 peligrosos $2,684.75 $2,685.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-II.- Instalación y operación de
+II. Instalación y operación de centros de acopio y almacenamiento de residuos peligrosos $2,683.31
 
-sistemas de acopio y almacenamiento
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-de residuos peligrosos $2,683.31 $2,683.00
+III. Instalación y operación de sistemas de reciclaje o coprocesamiento de residuos peligrosos $1,693.95
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-III.- Instalación y operación de
-
-sistemas de reciclaje de residuos
-
-peligrosos $1,693.95 $1,694.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-IV.- Instalación y operación de
-
-sistemas de utilización y reutilización
-
-de residuos peligrosos $1,693.95 $1,694.00
+IV. Instalación y operación de sistemas de reutilización de residuos peligrosos $1,693.95
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -16699,45 +16073,43 @@ sistemas de incineración de
 
 residuos peligrosos $35,648.86 $35,649.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-VII.- Instalación y operación de
+VII. Instalación y operación de sistemas para el confinamiento o disposición final de residuos peligrosos $58,699.56
 
-sistemas para el confinamiento
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-de residuos peligrosos $58,699.56 $58,700.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-VIII.- Prestación de servicios de
-
-manejo de residuos peligrosos $4,194.82 $4,195.00
+VIII. Prestación de servicios de manejo y condiciones particulares de manejo de residuos peligrosos $4,194.82
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Por las solicitudes de transferencia, modificación o prórroga de la autorización otorgada, se pagará el 50% de la cuota establecida en el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+Los contribuyentes que utilicen microgeneradores organizados y que presenten las solicitudes a que se refiere la fracción I del presente artículo pagarán el 50% de la cuota establecida en este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 194-T
 
-1.- Por la recepción, estudio de la solicitud y, en su caso, autorización por primera vez para importar y exportar residuos peligrosos, se pagarán derechos, conforme a las siguientes cuotas:
+1.- Por la recepción, estudio de la solicitud y, en su caso, autorización por primera vez para importar y exportar residuos peligrosos y otros residuos que se encuentren previstos en tratados internacionales de los que México sea parte, que no tengan características de peligrosidad, se pagarán derechos, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-I.- Para importar residuos peligrosos $1,361.79 $1,362.00
+I.- Para importar residuos peligrosos o residuos que no tienen características de peligrosidad $1,361.79
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 II.- Para exportar residuos peligrosos $639.78 $640.00
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Por los trámites subsecuentes y solicitudes de prórroga, se pagará el 50% de la cuota establecida en este artículo.
+Por los trámites subsecuentes y solicitudes de prórroga y modificación a la autorización se pagará el 50% de la cuota establecida en este artículo.
 
 cuota sin cuota con
 
@@ -16806,6 +16178,26 @@ análisis y, en su caso, autorización
 de la solicitud para exportar materiales
 
 peligrosos, se pagará la cuota de: $624.54 $625.00
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 194-T
+
+5.- Por la recepción, análisis y, en su caso, registro de cada plan de manejo de residuos peligrosos, se pagará la cuota de $1,000.00
+
+Por la solicitud de modificación o integración al registro, se pagará el 50% de la cuota establecida en el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 194-T
+
+6.- Por la recepción, análisis y, en su caso, aprobación del programa de remediación de pasivos ambientales, se pagará la cuota de:
+
+I. Pasivo ambiental $35,000.00
+
+II. Emergencia ambiental $1,000.00
+
+Tratándose de la solicitud de autorización para la transferencia de sitios contaminados se pagará la cuota de $3,000.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -16961,6 +16353,12 @@ II.- Personas morales $14,090.60 $14,091.00
 
 Los ingresos que se obtengan por la recaudación de los derechos contenidos de la Sección Quinta a la Novena del presente Capítulo, se destinarán a la Secretaría de Medio Ambiente y Recursos Naturales, para el mantenimiento, conservación y operación de los servicios señalados en dichas Secciones. Cuando dichos servicios o trámites se encuentren descentralizados a los Estados o al Distrito Federal, por medio de convenios específicos para la asunción de funciones celebrados con la Secretaría de Medio Ambiente y Recursos Naturales, se destinarán al estado o, en su caso, al Distrito Federal, que haya prestado el servicio o realizado el trámite, siempre que dicha función permanezca descentralizada.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 194-X.
+
+Cuando los solicitantes, con base en el artículo 109-Bis 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y conforme a los lineamientos de carácter general que emita la Secretaría de Medio Ambiente y Recursos Naturales, presenten una solicitud única para dos o más trámites o servicios establecidos de la Sección Quinta a la Sección Novena del presente Capítulo para la autorización de un proyecto, sólo pagarán el derecho más alto que corresponda a los trámites y servicios solicitados.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XIV. De la Secretaría de Salud
@@ -17091,39 +16489,35 @@ ajuste ajuste
 
 I.- Por la solicitud y, en su caso, el registro de Medicamentos Alopáticos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a).- Medicamento nuevo $39,525.50 $39,525.00
+a). Medicamento nuevo $74,000.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b).- Medicamento genérico $28,684.22 $28,684.00
+b). Medicamento genérico $44,000.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-II.- Por la solicitud y, en su caso,
+c). Medicamento molécula nueva $80,000.00
 
-el registro de medicamentos
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-homeopáticos, herbolarios y
-
-vitamínicos, se pagará por cada
-
-uno, el derecho conforme a la cuota de $6,775.80 $6,776.00
+II.- Por la solicitud y, en su caso, el registro de medicamentos homeopáticos, herbolarios y vitamínicos, se pagará por cada uno el derecho conforme a la cuota de $12,000.00
 
 III.- Por la solicitud y, en su caso, el registro de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, productos higiénicos e insumos de uso odontológico que no sean medicamentos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-a).- Clase I $4,517.20 $4,517.00
+a). Clase I $7,500.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b).- Clase II $6,775.80 $6,776.00
+b). Clase II $11,000.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-c).- Clase III $9,034.40 $9,034.00
+c). Clase III $14,000.00
 
 IV.- Por la solicitud y, en su caso, el registro de plaguicidas, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
 
@@ -19327,7 +18721,9 @@ lista: $ 41.64 $ 42.00
 
 - Parque Nacional Isla Isabel
 
-- Área de Protección de Flora y Fauna Islas del Golfo de California, excepto las islas Venados, Lobos y Pájaros, frente al Puerto de Mazatlán, Sinaloa
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+- Área de Protección de Flora y Fauna Islas del Golfo de California, excepto las islas Venados, Lobos y Pájaros, frente al Puerto de Mazatlán, Sinaloa, mismas que cubrirán la cuota establecida en la fracción II de este artículo
 
 - Reserva de la Biosfera Banco Chinchorro
 
@@ -19399,9 +18795,9 @@ I.- $40.00 por día, por persona, por cada Área Natural Protegida o Zona de Ár
 
 - Parque Nacional Cascada de Baseasseachic
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-- Parque Nacional Yaxchilán
+- Monumento Natural Yaxchilán
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -23301,7 +22697,9 @@ La determinación del pago del derecho cuando la concesión o asignación cubra 
 
 Para los efectos del cálculo del derecho a que se refiere este artículo, se entenderá que la vigencia de las concesiones y asignaciones mineras coincide con el año calendario. Para el caso de las nuevas concesiones mineras, el primer año de su vigencia será el periodo comprendido desde la fecha de inscripción en el Registro Público de Minería hasta el 31 de diciembre del año de que se trate. Tratándose de nuevas asignaciones mineras, el primer año de su vigencia será el periodo comprendido desde la fecha de su publicación en el Diario Oficial de la Federación hasta el 31 de diciembre del año de que se trate.
 
-En el caso de sustitución de concesiones o asignaciones por las causas previstas en la Ley Minera, la vigencia para efectos del pago del derecho sobre minería se computará, para las concesiones a partir de la fecha de inscripción en el Registro Público de Minería y para las asignaciones a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+En el caso de sustitución de concesiones o asignaciones por las causas previstas en la Ley Minera, la vigencia para efectos del pago del derecho sobre minería se computará para las concesiones a partir de la fecha de inscripción en el Registro Público de Minería de la concesión original que se sustituye y para las asignaciones, a partir de la fecha de su publicación en el Diario Oficial de la Federación.
 
 Los titulares de concesiones mineras que al amparo de dichas concesiones exploten sales y los subproductos que se obtengan de salinas formadas por aguas provenientes de mares actuales, superficiales o subterráneos, de modo natural o artificial, estarán a lo dispuesto en el Capítulo V denominado "Salinas", de este Título.
 
@@ -23367,123 +22765,53 @@ Los Estados y el Distrito Federal participarán en los ingresos del derecho sobr
 
 ### CAPITULO XIV. Derecho por Uso o Aprovechamiento de Bienes del Dominio Publico de la Nación como Cuerpos receptores de las descargas de Aguas Residuales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 276.
 
 Están obligados a pagar el derecho por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, las personas físicas o morales que descarguen en forma permanente, intermitente o fortuita aguas residuales en ríos, cuencas, cauces, vasos, aguas marinas y demás depósitos o corrientes de agua, así como los que descarguen aguas residuales en los suelos o las infiltren en terrenos que sean bienes nacionales o que puedan contaminar el subsuelo o los acuíferos, en términos de lo dispuesto en esta Ley.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 277.
 
 Para los efectos del presente Capítulo se consideran:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+I. Acuífero: Cualquier formación geológica o conjunto de formaciones geológicas hidráulicamente conectados entre si, por las que circulan o se almacenan aguas del subsuelo que puedan ser extraídas para su explotación, uso o aprovechamiento y cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales del subsuelo.
 
-I.- Aguas residuales: Las aguas de composición variada provenientes de las descargas de usos municipales, industriales, comerciales, de servicios, agrícolas, pecuarios, domésticos, incluyendo fraccionamientos y en general de cualquier otro uso, así como la mezcla de ellas.
+II. Aguas residuales: Las aguas de composición variada provenientes de las descargas municipales y no municipales, tales como las industriales, comerciales, de servicios, agrícolas, pecuarias, domésticas, incluyendo fraccionamientos y, en general, de cualquier otro uso, así como la mezcla de ellas. Cuando el contribuyente no separe en la descarga de agua residual el agua que no tiene este carácter, toda la descarga se considerará de agua residual para los efectos de esta Ley.
 
-Cuando el contribuyente no separe en la descarga de agua residual el agua que no tiene este carácter, toda la descarga se considerará de agua residual para los efectos de esta Ley.
+III. Aguas Costeras: Las aguas de los mares territoriales en la extensión y términos que fija el derecho internacional; así como las aguas marinas interiores, las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+IV. Carga de Contaminante: La cantidad de un contaminante expresada en unidades de masa sobre unidad de tiempo, aportada en una descarga de aguas residuales.
 
-II.- Carga de Contaminante: Cantidad de un contaminante expresada en unidades de masa sobre unidad de tiempo, aportada en una descarga de aguas residuales.
+V. Cuerpo Receptor: Las corrientes, depósitos naturales de agua, ríos, aguas costeras, suelo, estuarios, humedales naturales, embalses, cauces o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar el suelo, subsuelo o los acuíferos.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+VI. Demanda Química de Oxígeno: La medida del oxígeno consumido por la oxidación de la materia orgánica e inorgánica en una prueba específica.
 
-III.- Cianuros: Suma de las concentraciones de todas las formas químicas simples y complejas que contengan el ion cianuro;
+VII. Descarga: La acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor en forma continua, intermitente o fortuita.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+VIII. Embalse Artificial: El vaso de formación artificial que se origina por la construcción de un bordo o cortina y que es alimentado por uno o varios ríos o agua subterránea o pluvial.
 
-IV.- Coliformes Fecales: Bacterias aerobias Gram-negativas, no formadoras de esporas, de forma bacilar, y que incubadas a 44.5ºC en un término de 48 horas, fermentan la lactosa con producción de gas, pudiendo ser residentes del tracto digestivo humano y de animales de sangre caliente;
+IX. Embalse Natural: El vaso de formación natural que es alimentado por uno o varios ríos o agua subterránea o pluvial.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+X. Estuario: El tramo del curso de agua, bajo la influencia de las mareas, que se extiende desde la línea de costa hasta el punto donde la concentración de cloruros en el agua es de 250 miligramos por litro.
 
-V.- Cuerpo Receptor: Corrientes, depósitos naturales de agua, presas, cauces, zonas marinas o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar el suelo o los acuíferos;
+XI. Humedales Naturales: Las zonas de transición entre los sistemas acuáticos y terrestres que constituyen áreas de inundación temporal o permanente, sujetas o no a la influencia de mareas, como pantanos, ciénegas y marismas, cuyos límites los constituyen el tipo de vegetación hidrófila de presencia permanente o estacional; las áreas donde el suelo es predominantemente hídrico, y las áreas lacustres o de suelos permanentemente húmedos, originados por la descarga natural de acuíferos.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+XII. Límite Máximo Permisible: El valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas residuales.
 
-VI.- Demanda Bioquímica de Oxígeno5: Cantidad de oxígeno consumido por la actividad metabólica de microorganismos, en un periodo de cinco días, a 20C, considerando la suma de las concentraciones solubles y en suspensión;
+XIII. Población: El número de habitantes indicado en el Censo General de Población y Vivienda más reciente.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+XIV. Río: La corriente de agua natural, perenne o intermitente, que desemboca a otras corrientes o a un embalse natural o artificial, o al mar.
 
-VII.- Descarga: Acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor en forma continua, intermitente o fortuita.
+XV. Sólidos Suspendidos Totales: La concentración de partículas que son retenidas en un medio filtrante de microfibra de vidrio, con un diámetro de poro de 1.5 micrómetros o su equivalente.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+XVI. Suelo: El material no consolidado compuesto por partículas inorgánicas, materia orgánica, agua, aire y organismos, que comprende desde la capa superior terrestre hasta diferentes niveles de profundidad.
 
-VIII.- Fósforo Total: Suma de las concentraciones de fosfatos, ortofosfatos, polifosfatos, fósforo inorgánico y fosfatos orgánicos;
+XVII. Uso Consuntivo: El volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-IX.- Grasas y Aceites: Cualquier material que puede ser recuperado como una sustancia soluble, en los siguientes solventes: n-hexano, triclorotrifluoroetano o una mezcla de 80% de n-hexano y 20% de metilterbutileter;
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-X.- Índice de Incumplimiento: Cantidad de veces que la concentración de cada contaminante en las descargas de aguas residuales vertidas, rebasa los límites máximos permisibles establecidos en esta Ley, la cual se obtiene de la diferencia entre la concentración de contaminantes de las descargas de aguas residuales y la concentración establecida como límite máximo permisible, dividida entre esta última;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XI.- Límite Máximo Permisible: Valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas residuales;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XII.- Metales Pesados: Suma de las concentraciones de los metales en solución o disueltos y en suspensión;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XIII.- Nitrógeno Total: Suma de las concentraciones de nitrógeno Kjeldahl, nitritos y nitratos;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-XIV.- Población: Corresponde al número de habitantes indicado en el Censo General de Población y Vivienda de 1990.
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XV.- Potencial Hidrógeno (pH): Concentración de iones Hidrógeno expresada como logaritmo negativo que representa la acidez o alcalinidad del agua;
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XVI.- Tipos de contaminantes:
-
-a).- Contaminantes Básicos: Son aquellos compuestos y parámetros que se presentan en las descargas de aguas residuales y que pueden ser removidos o estabilizados mediante tratamientos convencionales. En lo que corresponde a esta Ley, sólo se consideran grasas y aceites, sólidos suspendidos totales, demanda bioquímica de oxígeno5, nitrógeno total (suma de las concentraciones de nitrógeno Kjeldahl, de nitritos y de nitratos, expresadas en miligramos por litro como nitrógeno), fósforo total y pH;
-
-b).- Contaminantes Patógenos y Parasitarios: Son aquellos microorganismos, quistes y huevos de parásitos que pueden estar presentes en las aguas residuales y que representan un riesgo para la salud humana, flora o fauna. En lo que corresponde a esta Ley, se consideran los coliformes fecales; expresados como número más probable de organismos por 100 mililitros;
-
-c).- Metales Pesados y Cianuros: Son aquellos que en concentraciones por encima de determinados límites, pueden producir efectos negativos en la salud humana, flora o fauna. En lo que corresponde a esta Ley, se consideran los siguientes: arsénico, cadmio, cobre, cromo, mercurio, níquel, plomo, zinc y cianuros expresados en su forma total.
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XVII.- Sólidos Suspendidos Totales: Concentración de partículas que son retenidas en un medio filtrante de microfibra de vidrio, con un diámetro de poro de 1.5 micrómetros o su equivalente;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XVIII.- Uso Consuntivo: Volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XIX.- Embalse Artificial: Vaso de formación artificial que se origina por la construcción de un bordo o cortina y que es alimentado por uno o varios ríos o agua subterránea o pluvial.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XX.- Embalse Natural: Vaso de formación natural que es alimentado por uno o varios ríos o agua subterránea o pluvial.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XXI.- Estuario: Es el tramo del curso de agua, bajo la influencia de las mareas que se extiende desde la línea de costa hasta el punto donde la concentración de cloruros en el agua es de 250 miligramos por litro.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XXII.- Humedales Naturales: Las zonas de transición entre los sistemas acuáticos y terrestres que constituyen áreas de inundación temporal o permanente, sujetas o no a la influencia de mareas, como pantanos, ciénegas y marismas, cuyos límites los constituyen el tipo de vegetación hidrófila de presencia permanente o estacional; las áreas donde el suelo es predominantemente hídrico; y las áreas lacustres o de suelos permanentemente húmedos, originados por la descarga natural de acuíferos.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XXIII.- Riego no Restringido: La utilización del agua residual destinada a la actividad de siembra, cultivo y cosecha de productos agrícolas en forma ilimitada como forrajes, granos, frutas, legumbres y verduras.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XXIV.- Riego Restringido: La utilización del agua residual destinada a la actividad de siembra, cultivo y cosecha de productos agrícolas, excepto legumbres y verduras que se consumen crudas.
+XVIII. Uso Doméstico: La aplicación de agua nacional para el uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, cuyo servicio se preste en términos del inciso a), de la fracción III, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -23491,7 +22819,9 @@ XXIV.- Riego Restringido: La utilización del agua residual destinada a la activ
 
 Por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, se causará el derecho de acuerdo con el tipo del cuerpo receptor en donde se realice la descarga, conforme al volumen de agua descargada y los contaminantes vertidos, en lo que rebasen los límites máximos permisibles establecidos en la presente Ley.
 
-Los responsables de las descargas de aguas residuales no deberán exceder los límites máximos permisibles establecidos en esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+El pago del derecho a que se refiere este artículo no exime a los responsables de las descargas de aguas residuales de cumplir con los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas y con las condiciones particulares de sus descargas, de conformidad con la Ley de Aguas Nacionales.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -23499,9 +22829,15 @@ Los responsables de las descargas de aguas residuales no deberán exceder los l�
 
 Los cuerpos de propiedad nacional, receptores de las descargas de aguas residuales, se clasifican como sigue:
 
-Se consideran tipo A, todos los que no se señalan como tipos B o C: se consideran tipo B todos los Estuarios y Humedales Naturales.
+> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA AL ARTICULO, LOS ANTERIORES SEGUNDO Y TERCER PARRAFOS QUEDARON COMPRENDIDOS EN EL PRESENTE APARTADO.</small>
 
-Asimismo, se consideran tipo B, todos los Embalses Naturales o Artificiales, a excepción de los que se clasifican como tipo C.
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+CUERPOS RECEPTORES TIPO "A":
+
+Todos los que no se señalan como tipos B o C; así como los suelos y terrenos referidos en el artículo 276 de esta Ley.
+
+Tratándose de las descargas efectuadas desde plataformas marinas o fuentes móviles se aplicarán las cuotas establecidas para los cuerpos receptores tipo A.
 
 CUERPOS RECEPTORES TIPO "B":
 
@@ -23579,6 +22915,10 @@ Yucatán: Acuífero en los municipios de Baca, Bokobá, Calotmul, Cansahcab, Can
 
 Zacatecas: Río Tenayuca en los municipios de Nochistlán y Apulco tramo aguas abajo Presa López Portillo hasta los límites del Estado de Jalisco; Río San Antonio en el municipio de Chalchihuites, en el tramo población de Gualterio hasta su confluencia con el Río San José; Arroyo de Enmedio en el municipio General Enrique Estrada; Río San Pedro en los municipios de Genaro Codina y Ciudad Cuauhtémoc dentro del tramo cabecera municipal de Genaro Codina hasta antes de la Presa San Pedro Piedra Gorda; Acuíferos Sabinas e Hidalgo en los municipios de Chalchihuites y Sombrerete; Acuífero Corrales en los municipios de Chalchihuites, Jiménez del Teúl, Sombrerete y Valparaíso; Acuífero Valparaíso en los municipios de Monte Escobedo, Susticacán y Valparaíso; Acuífero Jerez en los municipios de Jerez, Tepetongo, Susticacán y Fresnillo; Acuífero Tlaltenango-Tepechitlán en los municipios de Momax, Atolinga, Tlaltenango de Sánchez Román, Tepechitlán, General Joaquín Amaro, Teúl de González Ortega y Benito Juárez; Acuífero García de la Cadena en los municipios de Trinidad García de la Cadena, Teúl de González Ortega y Benito Juárez; Acuífero Nochistlán en los municipios de Nochistlán de Mejía y Apulco; Acuífero Jalpa-Juchipila en los municipios de Villanueva, Tabasco, Huanusco, Jalpa, Apozol, Juchipila, Moyahua de Estrada, General Joaquín Amaro, Tlaltenango de Sánchez Román, Tepechitlán, Teúl de González Ortega, Mezquital del Oro y Nochistlán de Mejía; Acuífero Benito Juárez en los municipios de Zacatecas, Genaro Codina y Villanueva; Acuífero Villanueva en los municipios de Genaro Codina, Villanueva, Jerez y Tepetongo; Acuífero Ojocaliente en los municipios de Cuauhtémoc, Genaro Codina, Luis Moya, Ojocaliente y Guadalupe; Acuífero Villa García en los municipios de Villa García y Loreto; Acuífero de Aguanaval en los municipios de Fresnillo, Sain Alto y Cañitas de Felipe Pescador; Acuífero Ábrego en los municipios de Sombrerete, Sain Alto y Fresnillo; Acuífero Sain Alto en los municipios de Sain Alto y Sombrerete; Acuífero de El Palmar en los municipios de General Francisco R. Murguía, Miguel Auza, Juan Aldama, Río Grande, Sombrerete y Sain Alto; Acuífero Cedros en los municipios de Melchor Ocampo y Mazapil; Acuífero El Salvador en los municipios de El Salvador y Concepción del Oro; Acuífero Guadalupe en el municipio de Mazapil; Acuífero Garzón en el municipio de Concepción del Oro; Acuífero Camacho Chaires en los municipios de Mazapil y General Francisco R. Murguía; Acuífero El Cardito en los municipios de Mazapil y Villa de Cos; Acuífero Guadalupe de las Corrientes en los municipios de Mazapil, Villa de Cos, General Francisco R. Murguía, Cañitas de Felipe Pescador y Fresnillo; Acuífero Puerto Madero en el municipio de Villa de Cos; Acuífero Calera en los municipios de Fresnillo, Calera, General Enrique Estrada, Morelos, Pánuco y Zacatecas; Acuífero Chupaderos en los municipios de Villa de Cos, Pánuco, Fresnillo, Vetagrande y Guadalupe; Acuífero Guadalupe-Bañuelos en el municipio de Guadalupe; Acuífero La Blanca en los municipios de General Pánfilo Natera, Ojocaliente y Villa González Ortega; Acuífero Loreto en los municipios de Loreto, Ojocaliente, Noria de Ángeles y Villa González Ortega; Acuífero Villa Hidalgo en los municipios de Noria de Ángeles, Loreto, Pinos, Villa González Ortega y Villa Hidalgo; Acuífero Pinos en el municipio de Pinos; Acuífero Espíritu Santo, en los municipios de Villa Hidalgo y Pinos; Acuíferos Saldaña y Pino Suárez en el municipio de Pinos.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+Todos los Estuarios y Humedales Naturales, y todos los Embalses Naturales o Artificiales, a excepción de los que se clasifican como tipo C.
+
 CUERPOS RECEPTORES TIPO "C":
 
 Aguascalientes: Presa Plutarco Elías Calles en el municipio de San José de Gracia; Presa Abelardo L. Rodríquez en el municipio de Jesús María; Presa Pabellón en el municipio de Rincón de Romos.
@@ -23635,7 +22975,7 @@ Yucatán: Acuífero en los municipios de Abalá, Conkal, Mérida, Kanasín, Teco
 
 Zacatecas: Presa José López Portillo (Tenayuca) en los municipios de Nochistlán de Mejía y Apulco.
 
-Tratándose de las descargas efectuadas desde plataformas marinas se aplicarán las cuotas establecidas para los cuerpos receptores tipo A, referidos como aguas costeras con explotación pesquera, navegación y otros usos.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -23645,59 +22985,29 @@ El volumen de agua residual y las concentraciones de contaminantes descargados a
 
 I.- Volumen:
 
-a).- Cuando el caudal de la descarga se efectúe en forma continua, intermitente o fortuita, y sea igual o mayor a 9,000 metros cúbicos en un trimestre, el contribuyente deberá instalar medidores totalizadores o de registro continuo en cada una de las descargas de agua residual. El volumen de cada descarga corresponderá a la diferencia entre la lectura tomada el último día del trimestre de que se trate y la lectura efectuada el último día del trimestre anterior.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-b).- Cuando el caudal de descarga sea continuo, intermitente o fortuito y menor a 9,000 metros cúbicos en un trimestre, el usuario podrá optar entre instalar medidores o efectuar cada trimestre bajo su responsabilidad la determinación del volumen con otros dispositivos de aforo. Dicha determinación se deberá manifestar bajo protesta de decir verdad en la declaración correspondiente.
+a).- Cuando el caudal de la descarga se efectúe en forma continua o intermitente, y sea igual o mayor a 9,000 metros cúbicos en un trimestre, el contribuyente deberá instalar medidores totalizadores o de registro continuo en cada una de las descargas de agua residual. El volumen de cada descarga corresponderá a la diferencia entre la lectura tomada el último día del trimestre de que se trate y la lectura efectuada el último día del trimestre anterior.
 
-En caso de que no se pueda medir el volumen de agua descargada, a falta de medidor o como consecuencia de la descompostura de éste, por causas no imputables al contribuyente, o cuando no se hubiere reparado o repuesto dentro de los tres meses siguientes a su descompostura, el volumen a declarar no podrá ser inferior al que resulte de aplicar el procedimiento previsto en el artículo 285, fracción I de esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- Cuando el caudal de descarga sea continuo o intermitente y menor a 9,000 metros cúbicos en un trimestre, el usuario podrá optar entre instalar medidores o efectuar cada trimestre bajo su responsabilidad la determinación del volumen con otros dispositivos de aforo. Dicha determinación se deberá manifestar bajo protesta de decir verdad en la declaración correspondiente.
 
-II.- Concentración promedio de contaminantes:
+En caso de que no se pueda medir el volumen de agua descargada, a falta de medidor o como consecuencia de la descompostura de éste, el volumen a declarar no podrá ser inferior al que resulte de aplicar el procedimiento previsto en el artículo 285, fracción I, incisos a) y d) de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-El responsable de la descarga tendrá la obligación de realizar el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas que reflejen cuantitativa y cualitativamente el proceso más representativo de las actividades que den origen a la descarga y para todos los contaminantes que genere, establecidos en esta Ley.
+II.- Las concentraciones de contaminantes descargados al cuerpo receptor se determinarán, conforme a lo que se indica en los párrafos siguientes.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+El responsable de la descarga tendrá la obligación de realizar el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas para verificar las concentraciones de los contaminantes a que se refiere esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+Los reportes que presente el responsable de la descarga estarán basados en determinaciones analíticas realizadas por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
 
-Para cada descarga, el contribuyente determinará, conforme al promedio de las muestras tomadas, la concentración promedio de contaminantes básicos, metales pesados y cianuros en miligramos por litro. En caso de los parámetros potencial Hidrógeno y coliformes fecales, se determinarán en sus respectivas unidades. Lo anterior, conforme lo señalado en el procedimiento obligatorio de muestreo de descargas.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-En el caso de que el agua de abastecimiento registre alguna concentración promedio mensual de los parámetros referidos en la tabla 1 del presente artículo, se podrá restar de la concentración de la descarga, siempre y cuando se notifique por escrito a la Comisión Nacional del Agua.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-Una vez determinadas las concentraciones de los contaminantes básicos, metales pesados y cianuros, coliformes fecales y potencial Hidrógeno, expresados en miligramos por litro o en las unidades respectivas, se compararán con los valores correspondientes a los límites máximos permisibles por cada contaminante, previstos en el presente Capítulo. En caso de que las concentraciones sean superiores a dichos límites, se causará el derecho, por el excedente del contaminante correspondiente.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-TABLA 1
-
-(VEASE ARCHIVO ANEXO)
-
-(*) Medidos de manera total
-
-N.A.: No Aplica
-
-P.M.: Promedio Mensual
-
-P.D.: Promedio Diario
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-Para los efectos de la Tabla I, se entiende que la concentración de los contaminantes nitrógeno, fósforo, arsénico, cadmio, cianuros, cobre, cromo, mercurio, níquel, plomo y zinc, debe ser medida de manera total.
-
-Para coliformes fecales, si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, se causará el derecho conforme a las disposiciones del presente Capítulo.
-
-Para el potencial Hidrógeno (pH), si la descarga presenta un valor superior a 10 o inferior a 5 unidades, se causará el derecho conforme a las disposiciones del presente Capítulo.
+III.- En el Procedimiento Obligatorio del Muestreo de las Descargas, se entenderá por:
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-III.- Para el Procedimiento Obligatorio del Muestreo de las Descargas, se entenderá por:
 
 a).- Muestra Compuesta: La que resulta de mezclar el número de muestras simples, según lo indicado en la tabla de frecuencia de muestreo. Para conformar la muestra compuesta, el volumen de cada una de las muestras simples deberá ser proporcional al caudal de la descarga en el momento de su toma.
 
@@ -23721,19 +23031,27 @@ Mayor que 12 y hasta 18 6 2 3
 
 Mayor que 18 y hasta 24 6 3 4
 
-b).- Muestra Simple: La que se tome en el punto de descarga, de manera continua, en día normal de operación que refleje cuantitativa y cualitativamente el o los procesos más representativos de las actividades que generan la descarga, durante el tiempo necesario para completar cuando menos, un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su composición, aforando el caudal descargado en el sitio y en el momento del muestreo.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+b).- Muestra Simple: La que se tome en el punto de descarga, de manera continua, en día normal de operación durante el tiempo necesario para completar, cuando menos, un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su composición, aforando el caudal descargado en el sitio y en el momento del muestreo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 El volumen de cada muestra simple necesario para formar la muestra compuesta se determina mediante la siguiente ecuación:
 
 (VEASE ARCHIVO ANEXO)
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
 c).- Parámetro: Variable que se utiliza como referencia para determinar la calidad física, química y biológica del agua.
 
-d).- Promedio Diario: El valor que resulta del análisis de una muestra compuesta. En el caso del parámetro grasas y aceites, es el promedio ponderado en función del caudal, y la media geométrica para los coliformes fecales, de los valores que resulten del análisis de cada una de las muestras simples tomadas para formar la muestra compuesta. Las unidades de pH no deberán estar fuera del rango permisible, en ninguna de las muestras simples, definido en el presente artículo.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Cuando los valores de pH estén dentro del rango permisible en todas las muestras simples, se reportará el valor promedio ponderado en función del caudal. En caso de que existan valores fuera del rango permisible en cualquiera de las muestras simples, se reportará el valor más alejado del rango permisible.
+d). Promedio Diario: El valor que resulta del análisis de una muestra compuesta.
 
-e).- Promedio Mensual: El valor que resulta de calcular el promedio ponderado en función del caudal, de los valores que resulten del análisis de al menos dos muestras compuestas promedio diario. En el caso del pH, cuando los valores estén dentro del rango permisible en todas las muestras simples, se reportará el valor promedio ponderado en función del caudal. En caso de que existan valores fuera del rango permisible en cualquiera de las muestras simples, se reportará el valor más alejado del rango permisible.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+e). Promedio Mensual: El valor que resulta de calcular el promedio ponderado en función del caudal, de los valores que resulten del análisis de al menos dos muestras compuestas promedio diario. En caso de que existan valores fuera del rango permisible en cualquiera de las muestras simples, se reportará el valor más alejado del rango permisible.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -23741,49 +23059,35 @@ IV.- El muestreo, análisis y reporte de la calidad de las descargas, se efectua
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-a).- Método de Muestreo: El método que se deberá llevar a cabo al efectuar la toma de muestras, así como los términos y forma de hacerlas, son los indicados en la Norma Mexicana NMX-AA-003-1980 Aguas Residuales-Muestreo, publicada en el Diario Oficial de la Federación el 25 de Marzo de 1980.
+A).- Método de Muestreo: El método que se deberá llevar a cabo al efectuar la toma de muestras, así como los términos y forma de hacerlas, son los indicados en la Norma Mexicana NMX-AA-003-1980 Aguas Residuales-Muestreo, publicada en el Diario Oficial de la Federación el 25 de Marzo de 1980.
 
 La obligación de realizar el muestreo y análisis de la calidad del agua descargada, corresponde al responsable de estas descargas.
 
-b).- Frecuencias del Muestreo y Análisis, y del Reporte de Datos: La frecuencia de muestreo y análisis y de reporte será de acuerdo al tamaño de población en el caso de efluentes municipales, y en el caso de descargas no municipales, de acuerdo a la carga de contaminantes, según se indica en las tablas de efluentes municipales y de efluentes no municipales, respectivamente.
+B).- Frecuencias del Muestreo y Análisis, y del Reporte de Datos: La frecuencia de muestreo y análisis y de reporte será de acuerdo al tamaño de población en el caso de efluentes municipales, y en el caso de descargas no municipales, de acuerdo a la carga de contaminantes, según se indica en las tablas de efluentes municipales y de efluentes no municipales, respectivamente.
 
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Tabla B. Efluentes Municipales
-
-Intervalo de población Frecuencia de Frecuencia de
-
-muestreo y análisis reporte de datos
-
-Mayor que 50,000 habitantes mensual Trimestral
-
-De 20,001 a 50,000 habitantes trimestral Trimestral
-
-De 2,501 a 20,000 habitantes semestral Semestral
-
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 Tabla C. Efluentes no Municipales
 
 Demanda Sólidos Frecuencia de Frecuencia de
 
-Bioquímica Suspendidos Muestreo Reporte de
+Química Suspendidos Muestreo Reporte de
 
 de Oxígeno Totales y Análisis Datos
 
-(DBO5) Toneladas/día
+Toneladas/día Toneladas/día
 
-Toneladas/día
+Mayor de 3.0 Mayor de 3.0 Mensual Trimestral
 
-Mayor de 3.0 Mayor de 3.0 mensual Trimestral
+De 1.2 a 3.0 De 1.2 a 3.0 Trimestral Trimestral
 
-De 1.2 a 3.0 De 1.2 a 3.0 trimestral Trimestral
+Menor de 1.2 Menor de 1.2 Semestral Semestral
 
-Menor de 1.2 Menor de 1.2 semestral Semestral
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Los parámetros a ser considerados en el muestreo y análisis, así como en el reporte de datos son los que se indican en el presente Capítulo y en la Tabla I de este artículo.
+Los parámetros a ser considerados en el muestreo y análisis, así como en el reporte de datos son los que se indican en el presente Capítulo y en la Tabla D de este artículo.
 
-El responsable de la descarga estará exento de realizar el muestreo y análisis de alguno o varios de los parámetros que se señalan en la Tabla I del presente artículo, cuando demuestre que, por las características del proceso productivo o el uso que le dé al agua, no genera o concentra los contaminantes a eximir, manifestándolo ante la Comisión Nacional del Agua, por escrito y bajo protesta de decir verdad. La autoridad podrá verificar la veracidad de lo manifestado por el usuario. En caso de falsedad, el responsable quedará sujeto a lo dispuesto en los ordenamientos legales aplicables.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 C).- Cálculo de los Valores: En el muestreo y análisis y reporte de datos del parámetro o parámetros requeridos, se debe considerar el valor del promedio mensual de acuerdo a la definición dada en este procedimiento, y debe considerar días hábiles de actividad o producción normal.
 
@@ -23797,215 +23101,129 @@ El muestreo y análisis del parámetro o parámetros requeridos en la frecuencia
 
 El reporte de los resultados del muestreo y análisis del parámetro o parámetros requeridos, deberá ser hecho en una frecuencia trimestral, conforme a lo señalado en el artículo 283 de esta Ley.
 
-El reporte del trimestre, para la frecuencia mensual de muestreo y análisis, será el promedio aritmético de los valores que resulten del análisis de cada mes. Para coliformes fecales, será la media geométrica de los valores mensuales. En el caso del pH, cuando los valores estén dentro del rango permisible en todas las muestras simples, se reportará el valor promedio aritmético. En caso de que existan valores fuera del rango permisible en cualquiera de las muestras simples, se reportará el valor más alejado del rango permisible.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+El reporte del trimestre, para la frecuencia mensual de muestreo y análisis, será el promedio aritmético de los valores que resulten del análisis de cada mes.
 
 En el caso de la frecuencia semestral del muestreo y análisis, para el reporte del trimestre donde no se realice el muestreo y análisis, se podrá repetir el reporte del trimestre inmediato anterior.
 
-El cumplimiento de lo anterior, sin menoscabo de la observancia de las demás disposiciones legales y normativas en materia de descargas de aguas residuales a cuerpos de aguas nacionales y bienes públicos inherentes.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+El cumplimiento de lo anterior, es sin menoscabo de la observancia a las disposiciones legales y normativas aplicables en materia de descargas de aguas residuales a cuerpos de aguas nacionales y bienes públicos inherentes.
 
-V.- Método de Prueba: Para la toma de muestras y la determinación de los valores y concentraciones de los parámetros establecidos en este procedimiento, se deberá aplicar el método de prueba indicado en la fracción IV de este artículo y las normas mexicanas correspondientes.
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+D) Método de Prueba: Para la toma de muestras y la determinación de los valores y concentraciones de los parámetros establecidos en este procedimiento, se deberá aplicar el método de prueba indicado en esta fracción y en las normas oficiales mexicanas y normas mexicanas, correspondientes.
 
-Los reportes que presente el responsable de la descarga estarán basados en determinaciones analíticas hechas por un laboratorio acreditado ante el Sistema Nacional de Acreditamiento de Laboratorios de Prueba de la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+V.- Para cada descarga el contribuyente determinará, conforme al promedio de las muestras tomadas, la concentración promedio de contaminantes en miligramos por litro, conforme al procedimiento obligatorio de muestreo de descargas establecido en este artículo.
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+VI. En caso de que el agua de abastecimiento registre alguna concentración promedio mensual de los parámetros referidos en la tabla D del presente artículo, se podrá restar de la concentración de la descarga, siempre y cuando lo acredite ante la Comisión Nacional del Agua, a través de un análisis de calidad del agua efectuado por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
+
+El informe referido en el párrafo anterior podrá ser presentado dentro del primer trimestre del ejercicio de que se trate y será válido durante dicho ejercicio. En caso de ser solicitado con posterioridad al plazo antes señalado el informe será válido a partir del momento en que se presente.
+
+La Comisión Nacional del Agua estará facultada para revisar la veracidad de los datos del informe presentado.
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+VII. Una vez determinadas las concentraciones de los contaminantes expresados en miligramos por litro se compararán con los valores correspondientes a los límites máximos permisibles por cada contaminante, previstos en la siguiente tabla:
+
+Tabla D
+
+LÍMITES MÁXIMOS PERMISIBLES
+
+CUERPOS RECEPTORES
+
+PARÁMETROS TIPO A TIPO B TIPO C
+
+(miligramos por Ríos Ríos
+
+litro) Aguas Costeras Embalses Ríos y
+
+Suelo Aguas Costeras Embalses
+
+Estuarios
+
+Humedales Natu-
+
+rales
+
+P.M. P.M. P.M.
+
+Sólidos
+
+Suspendidos 150.0 75.0 40.0
+
+Totales
+
+Demanda
+
+Química de 320 200 100
+
+Oxígeno
+
+P.M.: Promedio Mensual
+
+En caso de que las concentraciones de contaminantes sean superiores a dichos límites se pagará el derecho conforme a lo dispuesto en el artículo 278-C de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+VIII. Los laboratorios acreditados ante la entidad autorizada por la Secretaría de Economía y aprobados por la Comisión Nacional del Agua, deberán de informar semestralmente a dicha Comisión de los resultados de los análisis efectuados en ese periodo a los contribuyentes a que se refiere el presente Capítulo.
+
+En caso de que la Comisión Nacional del Agua determine que los laboratorios no cumplieron con la obligación establecida en esta fracción notificará el incumplimiento al laboratorio y lo apercibirá de que en caso de reincidencia quedará sin efectos la aprobación que le otorgó.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 278-C.
 
-Para calcular el monto del derecho a pagar por cada tipo de contaminante que rebase los límites máximos permisibles, se considerará el volumen de aguas residuales descargadas por trimestre y la carga de los contaminantes respectivos, de la siguiente forma:
+Para calcular el monto del derecho a pagar por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales se considerará, trimestralmente, el volumen de las aguas residuales descargadas, las concentraciones de contaminantes que rebasen los límites máximos permisibles establecidos, así como el tipo de cuerpo receptor donde se efectúen, de la siguiente forma:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+I. La concentración de contaminantes que rebasen los límites máximos permisibles expresados en miligramos por litro se multiplicará por el factor de 0.001, para convertirla a kilogramos por metro cúbico.
 
-I.- Para coliformes fecales, el importe del derecho se determinará conforme a lo siguiente: si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, el volumen descargado a que se refiere la fracción I, del artículo 278-B, de esta Ley, se multiplicará cada metro cúbico descargado al trimestre por $ 1.1338 por metro cúbico, si se trata de un cuerpo receptor tipo A y por $ 0.5663 por metro cúbico, para un cuerpo receptor tipo B o C.
+II. El resultado obtenido se multiplicará por el volumen trimestral de aguas residuales descargadas en metros cúbicos, obteniéndose así la carga de contaminantes, expresada en kilogramos por trimestre, descargada al cuerpo receptor.
 
-II.- Para el potencial Hidrógeno (pH), el importe del derecho se determinará de acuerdo con las cuotas indicadas en la Tabla II de este Capítulo, para ello, si la descarga se encuentra fuera de los límites máximos permisibles, superior a 10 o inferior a 5 unidades, el volumen descargado a que se refiere la fracción I, del artículo 278-B de esta Ley, se multiplicará por la cuota que corresponda según el rango en unidades de pH a que se refiere la citada Tabla.
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+III. Para obtener el monto correspondiente por cada contaminante que rebase los límites máximos permisibles, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, por la cuota en pesos por kilogramo que corresponda, de acuerdo con la siguiente Tabla:
 
 TABLA II
 
-CUOTAS EN PESOS POR
+CUOTA EN PESOS POR KILOGRAMO DE CONTAMINANTE AL TRIMESTRE
 
-METRO CUBICO PARA
+Tipo de Cuerpo Receptor
 
-POTENCIAL HIDROGENO
+contaminante Tipo “A” Tipo “B” Tipo “C”
 
-(pH).
+Demanda Química $0.2953 $0.3302 $0.3475
 
-Rango en unidades de pH Cuota por cada metro
+de Oxígeno
 
-cúbico descargado
+Sólidos Suspendidos $0.5072 $0.5669 $0.5968
 
-menor de 5 y hasta 4 $0.043
+Totales
 
-menor de 4 y hasta 3 $0.156
+El monto del derecho a pagar será enterado por el contribuyente en los términos del artículo 283 de esta Ley.
 
-menor de 3 y hasta 2 $0.499
-
-menor de 2 y hasta 1 $1.642
-
-menor de 1 $2.033
-
-mayor de 10 y hasta 11 $0.248
-
-mayor de 11 y hasta 12 $0.777
-
-mayor de 12 y hasta 13 $1.107
-
-mayor de 13 $1.574
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-III.- Para los contaminantes básicos, metales pesados o cianuros, las concentraciones de cada uno de ellos que rebasen los límites máximos permisibles, expresadas en miligramos por litro, obtenidas conforme al artículo anterior, se multiplicarán por el factor de 0.001, para convertirlas a kilogramos por metro cúbico. Este resultado, a su vez, se multiplicará por el volumen de aguas residuales, en metros cúbicos descargados en el trimestre correspondiente, obteniéndose así, la carga de contaminantes, expresada en kilogramos por trimestre descargado al cuerpo receptor.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-Para determinar el índice de incumplimiento y la cuota en pesos por kilogramo, a efecto de obtener el monto del derecho para cada uno de los contaminantes básicos, metales pesados o cianuros, se procederá conforme a lo siguiente:
-
-a).- Para cada contaminante que rebase los límites señalados, a la concentración del contaminante correspondiente, se le restará el límite máximo permisible respectivo, cuyo resultado deberá dividirse entre el mismo límite máximo permisible, obteniéndose así el índice de incumplimiento del contaminante correspondiente.
-
-b).- Con el índice de incumplimiento, determinado para cada contaminante conforme al inciso anterior, se seleccionará el rango que le corresponda de la Tabla III de este Capítulo y se procederá a identificar la cuota en pesos por kilogramo de contaminante que se utilizará para el cálculo del monto del derecho.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-c).- Para obtener el monto a pagar por cada contaminante, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, obtenidos de acuerdo con esta fracción, por la cuota en pesos por kilogramo que corresponda a su índice de incumplimiento, de acuerdo con la Tabla III de este Capítulo, obteniéndose así el monto del derecho.
-
-Para los contaminantes básicos, el resultado se multiplicará por 0.56 cuando la descarga sea a un cuerpo receptor tipo “A”; por 1.0 cuando la descarga sea a un cuerpo receptor tipo “B”; y por 1.2 cuando la descarga sea a un cuerpo receptor tipo “C”.
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-TABLA III
-
-CUOTAS EN PESOS POR
-
-KILOGRAMO POR INDICE
-
-DE CUMPLIMIENTO DE LA
-
-DESCARGA
-
-Rango de Incumplimiento Cuota por
-
-kilogramo
-
-Contaminantes Metales Pesados
-
-Básicos y Cianuros
-
-mayor de 0.0 y hasta 0.10 $0.00 $0.00
-
-mayor de 0.10 y hasta 0.20 $2.01 $86.09
-
-mayor de 0.20 y hasta 0.30 $2.41 $102.19
-
-mayor de 0.30 y hasta 0.40 $2.69 $113.04
-
-mayor de 0.40 y hasta 0.50 $2.88 $121.39
-
-mayor de 0.50 y hasta 0.60 $3.08 $128.27
-
-mayor de 0.60 y hasta 0.70 $3.21 $134.17
-
-mayor de 0.70 y hasta 0.80 $3.35 $139.41
-
-mayor de 0.80 y hasta 0.90 $3.41 $144.11
-
-mayor de 0.90 y hasta 1.00 $3.58 $148.40
-
-mayor de 1.00 y hasta 1.10 $3.64 $152.27
-
-mayor de 1.10 y hasta 1.20 $3.78 $155.95
-
-mayor de 1.20 y hasta 1.30 $3.85 $159.36
-
-mayor de 1.30 y hasta 1.40 $3.90 $162.55
-
-mayor de 1.40 y hasta 1.50 $4.04 $165.52
-
-mayor de 1.50 y hasta 1.60 $4.08 $168.40
-
-mayor de 1.60 y hasta 1.70 $4.11 $171.11
-
-mayor de 1.70 y hasta 1.80 $4.20 $173.71
-
-mayor de 1.80 y hasta 1.90 $4.25 $176.19
-
-mayor de 1.90 y hasta 2.00 $4.27 $178.52
-
-mayor de 2.00 y hasta 2.10 $4.42 $180.82
-
-mayor de 2.10 y hasta 2.20 $4.47 $183.01
-
-mayor de 2.20 y hasta 2.30 $4.51 $185.14
-
-mayor de 2.30 y hasta 2.40 $4.55 $187.20
-
-mayor de 2.40 y hasta 2.50 $4.58 $189.21
-
-mayor de 2.50 y hasta 2.60 $4.63 $191.11
-
-mayor de 2.60 y hasta 2.70 $4.68 $192.95
-
-mayor de 2.70 y hasta 2.80 $4.72 $194.78
-
-mayor de 2.80 y hasta 2.90 $4.78 $196.53
-
-mayor de 2.90 y hasta 3.00 $4.82 $198.25
-
-mayor de 3.00 y hasta 3.10 $4.89 $199.91
-
-mayor de 3.10 y hasta 3.20 $4.92 $201.56
-
-mayor de 3.20 y hasta 3.30 $4.96 $203.16
-
-mayor de 3.30 y hasta 3.40 $4.99 $204.71
-
-mayor de 3.40 y hasta 3.50 $5.03 $206.23
-
-mayor de 3.50 y hasta 3.60 $5.07 $207.69
-
-mayor de 3.60 y hasta 3.70 $5.08 $209.11
-
-mayor de 3.70 y hasta 3.80 $5.12 $210.58
-
-mayor de 3.80 y hasta 3.90 $5.17 $211.94
-
-mayor de 3.90 y hasta 4.00 $5.18 $213.32
-
-mayor de 4.00 y hasta 4.10 $5.21 $214.66
-
-mayor de 4.10 y hasta 4.20 $5.23 $216.00
-
-mayor de 4.20 y hasta 4.30 $5.30 $217.25
-
-mayor de 4.30 y hasta 4.40 $5.32 $218.55
-
-mayor de 4.40 y hasta 4.50 $5.35 $219.81
-
-mayor de 4.50 y hasta 4.60 $5.41 $221.03
-
-mayor de 4.60 y hasta 4.70 $5.44 $222.21
-
-mayor de 4.70 y hasta 4.80 $5.45 $223.40
-
-mayor de 4.80 y hasta 4.90 $5.48 $224.61
-
-mayor de 4.90 y hasta 5.00 $5.50 $225.76
-
-mayor de 5.00 $5.53 $226.89
-
-IV.- Una vez efectuado el cálculo trimestral del derecho por cada contaminante, el contribuyente estará obligado a pagar únicamente el monto que resulte mayor para el trimestre que corresponda.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Los ingresos que se obtengan por la recaudación de estos derechos, se destinarán a la Comisión Nacional del Agua para obras de infraestructura de saneamiento por cuenca hidrológica.
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 279.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Los ingresos que se obtengan por concepto del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, correspondientes al artículo 278-C de esta Ley, se destinarán a la Comisión Nacional del Agua para la realización de los programas que al efecto establezca dicha Comisión, en una cantidad equivalente hasta por el monto cubierto, en el ejercicio de que se trate, para la realización de obras y acciones de saneamiento y dotación de infraestructura para el tratamiento de aguas residuales, conforme a lo siguiente:
+
+Los contribuyentes del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales podrán solicitar a la Comisión Nacional del Agua autorización para realizar un programa de acciones en materia de saneamiento y tratamiento de aguas residuales y, en su caso, dicha Comisión les asignará recursos para su realización, siempre que no exceda el monto cubierto por el contribuyente de conformidad con el artículo 278-C de esta Ley.
+
+El programa de acciones referido en el párrafo anterior, tendrá como fin mejorar la calidad de las aguas residuales, ya sea mediante cambios en los procesos productivos o para el control o tratamiento de las descargas, a fin de no rebasar los límites máximos permisibles establecidos en esta Ley, y mantener o mejorar la calidad de sus descargas de aguas residuales.
+
+Para los efectos del párrafo anterior, los contribuyentes están obligados a presentar ante la Comisión Nacional del Agua, un informe, bajo protesta de decir verdad, de los avances del programa de acciones presentado ante dicho órgano desconcentrado, en los primeros diez días de los meses de julio del mismo año y enero del siguiente, en las formas establecidas para ello.
+
+La Comisión Nacional del Agua en términos del instructivo para la presentación y seguimiento del programa de acciones que para tal efecto publique en el Diario Oficial de la Federación, vigilará el cumplimiento en el avance de las acciones comprometidas por los contribuyentes.
+
+En el caso de que los contribuyentes no presenten alguno de los informes señalados en el párrafo anterior, en los plazos establecidos para ello, no gozarán del beneficio contenido en este artículo, por lo que hace al periodo omitido.
+
+La Comisión Nacional del Agua vigilará que los recursos entregados se ejerzan para los fines establecidos en el presente artículo y en caso de que los contribuyentes no acrediten tal situación, deberán reintegrar a la Comisión los recursos asignados, dentro de los 30 días siguientes a la fecha en que dicha autoridad se lo comunique a los contribuyentes, para lo cual se señalará en la resolución correspondiente el importe respectivo, con la actualización y recargos causados a partir de la fecha en que recibieron los recursos, en términos de los artículos 17-A, 21 y demás aplicables del Código Fiscal de la Federación.
+
+Cuando los recursos asignados no sean devueltos por el contribuyente en el plazo establecido para tal efecto, el importe señalado en la resolución dictada, tendrá el carácter de crédito fiscal y será exigible a través del procedimiento administrativo de ejecución, de conformidad con las disposiciones fiscales aplicables.
 
 ###### ARTICULO 280.
 
@@ -24021,13 +23239,13 @@ Los ingresos que se obtengan por la recaudación de estos derechos, se destinar�
 
 Los contribuyentes del derecho a que se refiere el presente Capítulo, al momento de presentar sus declaraciones podrán disminuir del pago del derecho respectivo, el costo comprobado de los aparatos de medición y de su instalación, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra del aparato de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
+A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra de los aparatos de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-El monto a acreditar, deberá efectuarse en la declaración provisional trimestral o bien en la declaración del ejercicio fiscal que corresponda. Cuando el monto a acreditar sea mayor al derecho a cargo, el excedente se descontará en las siguientes declaraciones provisionales trimestrales o anuales.
+El monto a acreditar, deberá asentarse en la declaración provisional trimestral o bien en la declaración del ejercicio fiscal que corresponda, debiendo precisar en la declaración respectiva la fecha de adquisición y el costo total de los aparatos de medición y de su instalación debidamente comprobado. Cuando el monto a acreditar sea mayor al derecho a cargo, el excedente se descontará en las siguientes declaraciones provisionales trimestrales o anuales.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -24045,55 +23263,25 @@ III.- Quienes descarguen aguas residuales a redes de drenaje o alcantarillado qu
 
 IV.- Quienes viertan agua residual a la fuente de donde originalmente se realizó su extracción, siempre que tengan el certificado que expedirá la Comisión Nacional del Agua en el que se precisará que no sufrió degradación en su calidad ni alteración en su temperatura. Una copia de dicho certificado se deberá acompañar a la declaración del ejercicio.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-V.- Las poblaciones rurales de hasta 2,500 habitantes y los organismos operadores de agua potable y alcantarillado, públicos o privados, por las descargas provenientes de aquéllas.
+V. Las poblaciones rurales de hasta 2,500 habitantes, de conformidad con el último Censo General de Población y Vivienda y los organismos operadores de agua potable y alcantarillado, públicos o privados, por las descargas provenientes de aquéllas.
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VI.- Por las descargas provenientes del riego agrícola.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-VII.- Las entidades públicas o privadas, que sin fines de lucro presten servicios de asistencia médica, servicio social o de impartición de educación escolar gratuita en beneficio de poblaciones rurales de hasta 2,500 habitantes.
+VII. Las entidades públicas o privadas, que sin fines de lucro presten servicios de asistencia médica, servicio social o de impartición de educación escolar gratuita en beneficio de poblaciones rurales de hasta 2,500 habitantes, de acuerdo con el último Censo General de Población y Vivienda.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 VIII.- Los usuarios domésticos que se ubiquen en localidades que carezcan de sistemas de alcantarillado, por las aguas residuales que se generen en su casa habitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 282-A.
 
-No pagarán el derecho a que se refiere este Capítulo, aquellos usuarios cuyas descargas contengan contaminantes que rebasen los límites máximos permisibles establecidos en la presente Ley, siempre y cuando presenten ante la Comisión Nacional del Agua, un programa de acciones y cumplan con el mismo, para mejorar la calidad de sus aguas residuales, ya sea mediante cambios en sus procesos productivos o para el control o tratamiento de sus descargas, a fin de no rebasar dichos límites, y mantengan o mejoren la calidad de sus descargas de aguas residuales.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-Para los efectos del párrafo anterior, la Comisión Nacional del Agua en términos del instructivo para la presentación y seguimiento del programa de acciones publicado en el Diario Oficial de la Federación, vigilará el cumplimiento en el avance de las acciones comprometidas por los usuarios, en estos casos, el contribuyente estará obligado a efectuar el cálculo de su pago y a presentar sus declaraciones trimestrales conforme a lo establecido en esta Ley, sin enterar el pago del derecho, señalando en su declaración correspondiente la siguiente leyenda "Sin pago de conformidad con lo establecido en el párrafo primero del artículo 282-A de la Ley Federal de Derechos".
-
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Los contribuyentes están obligados a presentar ante la Comisión Nacional del Agua, un informe, bajo protesta de decir verdad, de los avances del programa de acciones presentado ante dicho órgano desconcentrado, en los primeros diez días de los meses de julio y enero y en las formas establecidas para ello.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-En el caso de que los contribuyentes no presenten alguno de los informes señalados en el párrafo anterior, en los meses establecidos para ello, estarán obligados al pago del derecho que le hubiere correspondido pagar en los dos trimestres inmediatos anteriores.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Los contribuyentes que no cumplan con los avances programados, estarán obligados a efectuar el pago de los derechos que corresponden a este Capítulo, generados a partir de la fecha del incumplimiento, así como de aquellos que se hubieren generado con anterioridad, con los accesorios de Ley correspondientes.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Si al término del programa los contribuyentes cumplen con los objetivos previstos, tendrán derecho a la recuperación del monto histórico del Derecho que hubieren pagado por incumplimiento de las metas parciales.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-A partir del 1o. de enero de 1997 y hasta la fecha de vencimiento para la ejecución de los programas para el control de la calidad de sus descargas, los usuarios que hayan presentado su programa de acciones no deberán descargar concentraciones de contaminantes mayores de las que descargaron durante los últimos tres años, o menos, si empezaron a descargar posteriormente. Aquellos usuarios que no cumplan con esta disposición, estarán obligados al pago del derecho a que se refiere este Capítulo.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Aquellos usuarios que cuenten con programa de acciones vigente y realicen el cierre de operaciones de las actividades que den origen a la descarga de aguas residuales, deberán dar aviso a la Comisión Nacional del Agua, presentando un informe de las acciones realizadas a la fecha de cierre en el que se observe el cumplimiento del programa. En caso contrario estarán obligados al pago a partir de la fecha de presentación del programa a la fecha de cierre de operaciones.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -24111,29 +23299,27 @@ Las personas físicas o morales que contraten o utilicen los servicios mencionad
 
 Los contribuyentes que cuenten con planta de tratamiento de aguas residuales y aquellos que en sus procesos productivos hayan realizado acciones para mejorar la calidad de sus descargas y éstas, sean de una calidad superior a la establecida en los límites máximos permisibles establecidos en esta Ley, podrán gozar del descuento en el pago del derecho por uso o aprovechamiento de aguas nacionales a que se refiere el Capítulo VIII, del Título II de esta Ley. Este beneficio se aplicará únicamente a los aprovechamientos de aguas nacionales que generen la descarga de aguas residuales, de acuerdo con lo indicado en la Tabla IV, de este artículo, siempre y cuando los contribuyentes cumplan con las disposiciones de la Ley de Aguas Nacionales, su Reglamento y esta Ley.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 TABLA IV
 
 DESCUENTO EN EL PAGO DEL DERECHO POR USO O APROVECHAMIENTO DE AGUAS NACIONALES.
 
-Calidad Tipo de Calidad de % de Descuento
+Calidad Tipo de calidad de % de descuento
 
-Establecida la Descarga
+establecida la descarga
 
 para
 
-Descargas
+descargas
 
-a Cuerpos
+a cuerpos
 
-Receptores
+receptores
 
-Tipo
+tipo
 
-A B ríos con uso 12
-
-público urbano
+A B 12
 
 A C 18
 
@@ -24145,17 +23331,13 @@ B NOM-127-SSA1-1994 32
 
 C NOM-127-SSA1-1994 26
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Este porcentaje de descuento se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley, sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar los resultados de la calidad del agua, emitidos por un laboratorio acreditado ante el Sistema Nacional de Acreditamiento de Laboratorio de Prueba de la Secretaría de Comercio y Fomento Industrial y aprobado por la Comisión Nacional del Agua.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Este porcentaje de descuento se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar los resultados de la calidad del agua, emitidos por un laboratorio acreditado ante la entidad de acreditamiento autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
 
 ###### ARTICULO 282-D.
 
-Los usuarios que con posterioridad al 7 de enero de 1997, hayan iniciado o inicien operaciones que originen descargas de aguas residuales y aquellos que incrementen la carga de contaminantes en su descarga, como consecuencia de la realización de una ampliación a su planta productiva o para el caso de localidades que incorporen usuarios industriales a su sistema de alcantarillado que previamente hayan descargado a un cuerpo receptor nacional, no deberán rebasar los límites máximos permisibles de contaminantes establecidos en la presente Ley. En caso contrario, deberán pagar el derecho conforme a lo señalado en el presente Capítulo.
-
-Asimismo, los usuarios que cuenten con planta de tratamiento, cuando su descarga no cumpla con los límites máximos permisibles establecidos en la presente Ley, están obligados a operar y mantener dicha infraestructura de saneamiento. Los que se encuentren en este supuesto y que descarguen una calidad de agua superior a la que están obligados, podrán gozar del beneficio citado en el artículo 282-C de este Capítulo, si es el caso. Si el usuario deja de operar la infraestructura, pagará el derecho a que se refiere este Capítulo.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -24167,9 +23349,9 @@ El usuario calculará el derecho federal a que se refiere el presente Capítulo 
 
 El derecho del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará en las oficinas antes citadas, dentro de los tres meses siguientes del cierre del mismo ejercicio.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Los contribuyentes que efectúen descargas permanentes o intermitentes estarán obligados a presentar la declaración a que se refiere el párrafo anterior, aun cuando no resulte pago del derecho a su cargo.
+Los contribuyentes que efectúen descargas permanentes o intermitentes estarán obligados a presentar la declaración a que se refiere el párrafo anterior.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -24179,67 +23361,99 @@ Las personas que efectúen descargas fortuitas de aguas residuales, deberán pre
 
 El contribuyente estará obligado a presentar en términos de lo dispuesto en este artículo, una declaración por cada uno de los sitios donde lleve a cabo la descarga al cuerpo receptor.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 284.
 
-Procederá la determinación presuntiva del derecho federal a que se refiere el presente Capítulo, en los siguientes casos:
+La Comisión Nacional del Agua o el Servicio de Administración Tributaria procederán a la determinación presuntiva del derecho federal a que se refiere el presente Capítulo, en los siguientes casos:
 
-I.- No se tenga instalado aparato de medición, cuando exista obligación de instalarlos o el mismo no funcione.
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-II.- Cuando el cálculo que efectúe el usuario bajo su responsabilidad sea menor al que resulte de aplicar el mismo procedimiento que se señala en la Ley, en la visita de inspección o verificación de contaminación en la descarga de agua residual, que sobre el particular podrá efectuar en cualquier momento la Comisión Nacional del Agua.
+I.- No se tenga instalado aparato de medición o el mismo no funcione.
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+II.- Cuando el cálculo que efectúe el usuario bajo su responsabilidad sea menor al que resulte de aplicar el mismo procedimiento que se señala en la Ley, en la visita de inspección o verificación de contaminación en la descarga de agua residual o en ejercicio de las facultades de comprobación que al efecto se lleven a cabo.
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 III.- Se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación, verificación y medición que efectúe la Comisión Nacional del Agua, o no presente la documentación que ésta le solicite.
 
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 IV.- El usuario no efectúe el pago del derecho en los términos del artículo anterior.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 V.- Cuando se efectúe en forma fortuita una descarga de aguas residuales o contaminadas, por quienes normalmente no son contribuyentes del derecho a que se refiere el presente Capítulo, y que causen daño ecológico conforme a dictamen que al efecto emita la autoridad ecológica competente.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-VI.- Cuando el usuario no presente sus reportes de análisis de la calidad de las descargas de aguas residuales.
+VI.- Cuando el usuario no presente sus reportes de análisis de la calidad de las descargas de aguas residuales, emitidos por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
 
-La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar, previstas en las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 285.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, se calculará el derecho considerando indistintamente:
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, la autoridad fiscal estará a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+I. Para la determinación del volumen de agua residual vertida, se considerará lo siguiente:
 
-I.- El volumen de agua residual que aparezca en el permiso de descarga respectivo, o en su defecto, el que corresponda al volumen señalado en el título de asignación, concesión, autorización o permiso para la explotación, el uso o aprovechamiento de aguas nacionales que originan la descarga, y a falta de éste, se seguirá el procedimiento establecido en el artículo 229, fracción III.
+a). El señalado en el permiso de descarga respectivo.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+b). El que señalen los registros de las lecturas de sus dispositivos de medición o que se desprendan de alguna de las declaraciones trimestrales o anuales presentadas del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
 
-II.- El cálculo que efectúe la Comisión Nacional del Agua, aplicando el procedimiento que conforme a la presente Ley, debe efectuar el contribuyente para medir la descarga de agua residual para efectos del pago del derecho a que se refiere el presente Capítulo.
+c). El que proporcionen las autoridades administrativas, fiscales o las competentes en materia de equilibrio ecológico y protección al ambiente, en el ejercicio de sus respectivas atribuciones.
 
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+d). El señalado en el título de asignación, concesión, autorización o permiso para la explotación, el uso o el aprovechamiento de aguas nacionales que originan la descarga.
 
-III.- Los volúmenes que señalen los registros de las lecturas de sus medidores, los que a la entrada o a la salida señale su aparato de medición o que se desprendan de alguna de las declaraciones trimestrales o anuales presentadas del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
+e). El que resulte del procedimiento establecido en el artículo 229, fracción III de esta Ley.
 
-IV.- La información que se proporcione sobre el particular por las autoridades fiscales o por las autoridades competentes en materia de equilibrio ecológico y protección al ambiente, en el ejercicio de sus respectivas facultades.
+f). El que resulte de los medios indirectos de la investigación económica o de cualquier otra clase.
 
-V.- La cuantificación del daño ecológico a los bienes nacionales a que se refiere el presente Capítulo, realizada por autoridades ecológicas, en el ámbito de su competencia.
+g). El que resulte de cualquier otra información que obtenga la autoridad fiscal distinta a las anteriores.
 
-VI.- Los medios indirectos de la investigación económica o de cualquier otra clase.
+Cuando el volumen señalado en el permiso de descargas, resulte menor al que se obtenga de la información y documentación con que cuenten la Comisión Nacional del Agua o el Servicio de Administración Tributaria, se deberán considerar estas últimas.
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+En caso de que no se cuente con permiso de descarga y la autoridad fiscal cuente con más de un volumen presuntivo, considerará aquél que resulte mayor.
 
-VII.- El cálculo que resulte de aplicar como factor de contaminación uno igual al del rubro de coliformes fecales a que se refiere la fracción I del artículo 278-C de esta Ley, como número más probable (NMP) el de 1001 por cada 100 mililitros, al volumen descargado por la tarifa correspondiente, de acuerdo al tipo de cuerpo receptor de que se trate.
+II. Para la concentración de los contaminantes, trimestralmente se considerarán presuntivamente las siguientes concentraciones:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+a). Para descargas municipales:
 
-VIII.- Cualquier otra información que obtenga la autoridad fiscal distinta a las anteriores.
+Tabla I
 
-En el caso de descargas fortuitas a que se refiere la fracción V del artículo anterior se podrá utilizar como monto del derecho respectivo, la cuantificación del daño a que se refiere la fracción V de este artículo, sin deducción alguna.
+Tipo de Contaminante CONCENTRACIÓN PRESUNTIVA
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+Demanda Química de 700 mg/L
 
-La Secretaría de Hacienda y Crédito Público exigirá su pago con base en la determinación del derecho que efectúe la Comisión Nacional del Agua, en los términos del presente artículo.
+Oxígeno
+
+Sólidos Suspendidos 400 mg/L
+
+Totales
+
+b). Para descargas no municipales:
+
+Tabla II
+
+Tipo de contaminante CONCENTRACIÓN PRESUNTIVA
+
+Demanda Química de 7,000 mg/L
+
+Oxígeno
+
+Sólidos Suspendidos 3,000 mg/L
+
+Totales
+
+En caso de que la autoridad fiscal cuente con información proporcionada por las autoridades administrativas competentes en la cual se determine la concentración de contaminantes, deberá considerarse ésta para la determinación correspondiente y no la señalada en las tablas anteriores.
+
+III. Una vez determinado el volumen presuntivo de la descarga de aguas residuales, así como la concentración presuntiva de los contaminantes en los términos antes señalados, para calcular el monto del derecho a pagar por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, la autoridad fiscal aplicará el procedimiento establecido en el artículo 278-C de esta Ley.
 
 ###### ARTICULO 286.
 
@@ -24269,31 +23483,25 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 Están obligados al pago del derecho por el acceso a los museos, monumentos y zonas arqueológicas propiedad de la Federación, las personas que tengan acceso a las mismas, conforme a las siguientes cuotas:
 
-cuota sin cuota con
+> <small>(REFORMADA POR ARTICULO SEPTIMO TRANSITORIO DEL DECRETO POR EL SE MODIFICA LA LEY, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-ajuste ajuste
+Áreas tipo AAA $48.00 y después del horario normal de operación $160.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REFORMADO], D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA POR ARTICULO SEPTIMO TRANSITORIO DEL DECRETO POR EL SE MODIFICA LA LEY, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-Áreas tipo AAA: $45.00
+Áreas tipo AA $46.00
 
-después del horario normal $150.00
+> <small>(REFORMADA POR ARTICULO SEPTIMO TRANSITORIO DEL DECRETO POR EL SE MODIFICA LA LEY, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+Áreas tipo A $39.00
 
-Áreas tipo AA: $43.27 $42.91
+> <small>(REFORMADA POR ARTICULO SEPTIMO TRANSITORIO DEL DECRETO POR EL SE MODIFICA LA LEY, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
+Áreas tipo B $35.00
 
-Áreas tipo A: $37.11 $37.27
+> <small>(REFORMADA POR ARTICULO SEPTIMO TRANSITORIO DEL DECRETO POR EL SE MODIFICA LA LEY, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-Áreas tipo B: $33.38 $33.88
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-Áreas tipo C: $27.20 $27.10
+Áreas tipo C $29.00
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -24449,6 +23657,46 @@ El pago del derecho a que se refiere este precepto deberá hacerse previo al ing
 
 No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Bellas Artes y Literatura, para realizar estudios afines a los museos, a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos los domingos.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 288-A
+
+2. Están obligadas al pago del derecho por el acceso a los museos propiedad de la Federación y administrados por el Consejo Nacional para la Cultura y las Artes, las personas que tengan acceso a los mismos, conforme a las siguientes cuotas:
+
+I. Museo Nacional de Culturas Populares $10.00
+
+II. Museo Nacional de los Ferrocarriles Mexicanos $10.00
+
+El pago del derecho a que se refiere este precepto deberá hacerse previo al ingreso a los recintos correspondientes.
+
+De las 9:00 horas a las 17:00 horas, no pagarán el derecho a que se refiere este artículo las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Consejo Nacional para la Cultura y las Artes para realizar estudios afines a los museos a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho quienes accedan a los museos los domingos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 288-A
+
+3. Están obligadas a pagar el derecho por el uso o aprovechamiento de inmuebles, las personas físicas y morales que usen o aprovechen bienes sujetos al régimen del dominio público de la Federación en los museos, bibliotecas, recintos culturales y artísticos y demás inmuebles administrados por el Consejo Nacional para la Cultura y las Artes, conforme a lo que a continuación se señala:
+
+I. $32.14 mensuales por cada metro cuadrado o fracción, cuando el uso o goce consista en la realización de actividades comerciales y el espacio no exceda de 30 metros cuadrados.
+
+El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
+
+II. $32.00 por cada metro cuadrado o fracción que se use, goce o aproveche para actividades de promoción, difusión y comercialización cultural y educativa por parte de entidades de la administración pública paraestatal, previa celebración de un convenio.
+
+El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
+
+III. $19.28 por cada metro cuadrado o fracción que se use o aproveche para actividades o eventos de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de instalaciones realizado en espacios exteriores de cualquier tipo.
+
+IV. $5,356.00 por evento de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados, tales como auditorios, vestíbulos, salas y aulas.
+
+V. $25,000.00 por evento de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados en bibliotecas y teatros.
+
+El pago de los derechos a que se refieren las fracciones III, IV y V de este artículo se efectuará previamente a la realización del evento.
+
+Las cuotas a que se refieren las fracciones III, IV y V de este artículo se incrementarán proporcionalmente a partir de la terminación de la cuarta hora de acuerdo con la duración total del evento.
+
+Para los efectos de este artículo, no estarán obligados al pago de los derechos al que el mismo se refiere las instituciones públicas que realicen conjuntamente con el Consejo Nacional para la Cultura y las Artes, eventos culturales, educativos, cívicos o de asistencia social, así como las que realicen actividades de promoción, difusión y comercialización culturales, educativas, cívicas o de asistencia social, previa celebración de un convenio.
+
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 288-B.
@@ -24551,11 +23799,29 @@ II.- Las instituciones públicas dedicadas a la promoción, enseñanza o investi
 
 No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 288-D
+
+1. Por el uso, goce o aprovechamiento, con fines comerciales para filmación, videograbación y tomas fotográficas de museos, bibliotecas, recintos culturales y artísticos y demás inmuebles administrados por el Consejo Nacional para la Cultura y las Artes se pagará el derecho de filmación y tomas fotográficas conforme a las siguientes cuotas:
+
+A. Filmaciones o videograbaciones:
+
+I. Por día $6,961.66
+
+II. Por día, cuando se trata de locaciones $45,000.00
+
+El cobro de este derecho es independiente a los que se causen por el uso o aprovechamiento de los inmuebles.
+
+B. Tratándose de tomas fotográficas $3,480.79 por día.
+
+No pagarán los derechos establecidos en este artículo las instituciones públicas que realicen conjuntamente con el Consejo Nacional para la Cultura y las Artes, eventos culturales, educativos, cívicos o de asistencia social, así como las que realicen actividades de promoción, difusión y comercialización culturales, educativas, cívicas o de asistencia social, previa celebración de un convenio.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 288-E.
 
-Por el uso, goce o aprovechamiento, para uso o reproducción por fotografía impresa o en soporte digital, de fotografías a cargo de los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, para fines sancionados por las autoridades competentes de los mismos institutos, se pagarán derechos conforme a las siguientes cuotas:
+Por el uso, goce o aprovechamiento, para uso o reproducción por fotografía impresa o en soporte digital, de fotografías a cargo del Instituto Nacional de Antropología e Historia y del Consejo Nacional para la Cultura y las Artes, para fines sancionados por las autoridades competentes del mismo Instituto así como del citado Consejo, se pagarán derechos conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -24578,6 +23844,8 @@ II.- Para instituciones o personas
 distintas de las señaladas en la fracción
 
 anterior, por fotografía $320.93 $321.00
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
@@ -24605,11 +23873,11 @@ filmado, videograbado o digital $401.12 $401.00
 
 No pagarán los derechos establecidos en este artículo las autoridades competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 288-G.
 
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente Capítulo, se destinarán al Instituto Nacional de Antropología e Historia y al Instituto Nacional de Bellas Artes y Literatura, según corresponda, para la investigación, restauración, conservación, mantenimiento, administración y vigilancia de las unidades generadoras de los mismos.
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente Capítulo, se destinarán al Instituto Nacional de Antropología e Historia, al Instituto Nacional de Bellas Artes y Literatura y al Consejo Nacional para la Cultura y las Artes, según corresponda, para la investigación, restauración, conservación, mantenimiento, administración y vigilancia de las unidades generadoras de los mismos y, en un 5%, respecto de los ingresos generados por los derechos a que se refiere el artículo 288 de esta Ley, a los municipios en donde se genere el derecho, a fin de ser aplicados en obras de infraestructura y seguridad de las zonas, con base en los convenios que al efecto se celebren con las entidades federativas y los municipios respectivos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -28233,7 +27501,9 @@ Artículo Cuarto. En el año 2008 el derecho ordinario sobre hidrocarburos a que
 
 Los pagos provisionales a cuenta de este derecho, establecidos en el artículo 255 de esta Ley, se calcularán aplicando la tasa anterior, según el año que corresponda.
 
-Artículo Quinto. La disminución en el pago por concepto del derecho ordinario sobre hidrocarburos que obtenga PEMEX Exploración y Producción, derivada de la aplicación del régimen fiscal contenido en el presente Decreto, en comparación con los montos que hubiera cubierto con el régimen vigente hasta el 2007, se destinará a gastos de inversión de Petróleos Mexicanos en la industria petrolera, de conformidad con lo que establezca el Presupuesto de Egresos de la Federación.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+Artículo Quinto. La disminución en el pago por concepto del derecho ordinario sobre hidrocarburos que obtenga PEMEX Exploración y Producción, derivada de la aplicación del régimen fiscal contenido en el presente Decreto, en comparación con los montos que hubiera cubierto con el régimen vigente hasta el 2007, se destinará a inversión en infraestructura de Petróleos Mexicanos en la industria petrolera, de conformidad con lo que establezca el Presupuesto de Egresos de la Federación.
 
 Artículo Sexto. A partir de la entrada en vigor de este Decreto y hasta el año 2011 el derecho para la investigación científica y tecnológica en materia de energía a que se refiere el artículo 254 Bis de la Ley Federal de Derechos se determinará conforme a las siguientes disposiciones:
 
@@ -28390,3 +27660,115 @@ La Secretaría de Energía enviará a las Cámaras del Congreso de la Unión y p
 11. Sueldo, salarios y prestaciones por categoría de empleado.
 
 Para efectos del párrafo anterior, Petróleos Mexicanos y sus organismos subsidiarios enviarán con toda oportunidad la información que la Secretaría de Energía requiera, de conformidad con los lineamientos que al efecto emita esa dependencia.
+
+D.O.F. 24 DE DICIEMBRE DE 2007.
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2008, con excepción de la adición de la fracción IX y del último párrafo al artículo 8o., así como la reforma al artículo 16, ambos de la Ley Federal de Derechos, mismos que entrarán en vigor a partir del 1 de julio de 2008.
+
+Segundo. Durante el año de 2008, se aplicarán en materia de derechos las siguientes disposiciones:
+
+I. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se extraigan y utilicen en los Municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 223 de la Ley Federal de Derechos.
+
+II. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se utilicen en los Municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 223 de la Ley Federal de Derechos.
+
+III. Para los efectos de lo dispuesto en el artículo 232, fracción IV de la Ley Federal de Derechos, las personas físicas y las morales que usen o aprovechen los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, que realicen actividades agrícolas o pecuarias pagarán el 30% de la cuota del derecho establecida en dicha fracción.
+
+IV. No pagarán el derecho a que se refiere el artículo 8o., fracción I de la Ley Federal de Derechos, aquellos turistas que visiten el país por vía terrestre, cuya estancia no exceda de siete días en el territorio nacional. Para el caso que se exceda dicho periodo, el derecho se pagará al momento de la salida del territorio nacional.
+
+Asimismo, no pagarán el derecho a que se refiere la fracción IX del artículo 8o. de la Ley Federal de Derechos, los visitantes locales que ingresen al país por vía terrestre.
+
+V. En relación al registro de título de técnico o profesional técnico, técnico superior universitario o profesional asociado, se aplicarán en materia de derechos las siguientes disposiciones:
+
+a). Por el registro de título de técnico o profesional técnico, expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+b). Por el registro de título de técnico superior universitario o profesional asociado, expedidos por Instituciones del Sistema Educativo Nacional que impartan educación de tipo superior, así como por la expedición de la respectiva cédula, se pagará el 50% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+VI. Para los efectos de los artículos 198, fracción III, 198-A, fracción III y 238-C, fracción II, la cuota del derecho a pagar por persona, por año, para todas las áreas naturales protegidas será de $260.00.
+
+VII. No se pagará el derecho por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere el artículo 223, apartado B de la Ley Federal de Derechos, cuando el concesionario entregue agua para uso público urbano a municipios o a organismos operadores municipales de agua potable, alcantarillado y saneamiento. En este caso, el concesionario podrá descontar del pago del derecho que le corresponda por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere el artículo 223, apartado A de la referida Ley, el costo comprobado de instalación y operación de la infraestructura utilizada para la entrega de agua de uso público urbano, sin que en ningún caso exceda del monto del derecho a pagar. Lo anterior, previa aprobación de la Comisión Nacional del Agua.
+
+Tercero. No estarán obligados al pago del derecho a que se refiere el artículo 288-A-3 de la Ley, los concesionarios o permisionarios cuyos títulos se encuentren vigentes a la fecha de entrada en vigor del presente Decreto, durante su periodo de vigencia.
+
+Cuarto. Para los efectos de lo dispuesto en el artículo 231 de la Ley Federal de Derechos, el pago del derecho por el uso o aprovechamiento de aguas nacionales utilizadas en los municipios del territorio mexicano que a continuación se señalan, durante el ejercicio fiscal de 2008 se efectuará de conformidad con las zonas de disponibilidad de agua como a continuación se indica:
+
+ZONA 6.
+
+Estado de Oaxaca: Excepto los municipios comprendidos en las zonas 4, 5, 7, 8 y 9.
+
+ZONA 7.
+
+Estado de Oaxaca: Abejones, Concepción Papalo, Guelatao de Juárez, Natividad, Nuevo Zoquiapam, San Francisco Telixtlahuaca, San Juan Atepec, San Jerónimo Sosola, San Juan Bautista Atatlahuca, San Juan Bautista Jayacatlán, San Juan del Estado, San Juan Evangelista Analco, San Juan Chicomezuchil, San Juan Quiotepec, San Juan Tepeuxila, San Miguel Aloapam, San Miguel Amatlán, San Miguel Chicahua, San Miguel Huautla, San Miguel del Río, San Pablo Macuiltiangis, San Pedro Jaltepetongo, San Pedro Jocotipac, Santa Ana Yareni, Santa Catarina Ixtepeji, Santa Catarina Lachatao, Santa María Apazco, Santa María Ixcatlán, Santa María Jaltianguis, Santa María Papalo, Santa María Texcaltitlán, Santa María Yavesia, Santiago Apoala, Santiago Huauclilla, Santiago Nacaltepec, Santiago Tenango, Santiago Xiacui, Santos Reyes Pápalo, Tecocuilco de Marcos Pérez, Teotitlán del Valle y Valerio Trujano.
+
+ZONA 8.
+
+Estado de Oaxaca: Loma Bonita.
+
+Estado de Puebla: Chalchicomula de Sesma y Esperanza.
+
+Estado de Tabasco: Jalpa de Méndez, Nacajuca y Paraíso.
+
+ZONA 9.
+
+Todos los municipios del Estado de Chiapas.
+
+Estado de Oaxaca: Acatlán de Pérez Figueroa, Asunción Cacalotepec, Ayotzintepec, Capulalpam de Méndez, Chiquihuitlán de Benito Juárez, Cosolopa, Cuyamecalco Villa de Zaragoza, Eloxochitlán de Flores Magón, Huautepec, Huautla de Jiménez, Ixtlán de Juárez, Mazatlán Villa de Flores, Mixitlán de la Reforma, San Andrés Solaga, San Andrés Teotilalpam, San Andrés Yaá, San Baltazar Yatzachi El Bajo, San Bartolomé Ayautla, San Bartolomé Zoogocho, San Cristóbal Lachirioag, San Felipe Jalapa de Díaz, San Felipe Usila, San Francisco Cajonos, San Francisco Chapulapa, San Francisco Huehuetlan, San Ildefonso Villa Alta, San Jerónimo Tecoatl, San José Chiltepec, San José Independencia, San José Tenango, San Juan Bautista Tlacoatzin, San Juan Bautista Tuxtepec, San Juan Bautista Valle Naci, San Juan Coatzospam, San Juan Comaltepec, San Juan Cotzocon, San Juan Juquila Vijanos, San Juan Lalana, San Juan Petlapa, San Juan Tabaá, San Juan Yae, San Juan Yatzona, San Lorenzo Cuaunecuiltitla, San Lucas Camotlán, San Lucas Ojitlán, San Lucas Zoquiapam, San Mateo Cajonos, San Mateo Yoloxochitlán, San Melchor Betaza, San Miguel Quetzaltepec, San Miguel Santa Flor, San Miguel Soyaltepec, San Miguel Yotao, San Pablo Yoganiza, San Pedro Cajonos, San Pedro Ixcatlán, San Pedro Ocopetatillo, San Pedro Ocotepec, San Pedro Sochiapam, San Pedro Teutila, San Pedro y San Pablo Ayutla, San Pedro Yaneri, San Pedro Yolox, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Cruz Acatepec, Santa María Alotepec, Santa María Chilchotla, Santa María Jacatepec, Santa María La Asunción, Santa María Temaxcalapa, Santa María Teopoxco, Santa María Tlahuitoltepec, Santa María Tlalixtac, Santa María Yalina, Santiago Atitlán, Santiago Camotlán, Santiago Choapam, Santiago Comaltepec, Santiago Jocotepec, Santiago Lalopa, Santiago Laxopa, Santiago Texcalcingo, Santiago Yaveo, Santiago Zacatepec, Santiago Zoochila, Santo Domingo Albarradas, Santo Domingo Roayaga, Santo Domingo Xagacía, Tamazulapam Del Espíritu Santo, Tanetze De Zaragoza, Totontepec Villa De Morelos, Villa Díaz Ordaz, Villa Hidalgo y Villa Talea De Castro.
+
+Estado de Puebla: Coyomeapan, Eloxochitlan, San Sebastián Tlacotepec, Zoquitlan.
+
+Estado de Tabasco: Balancan, Cárdenas, Centro, Cunduacán, Centla, Comalcalco, Emiliano Zapata, Huimanguillo, Jalapa, Jonuta, Macuspana, Tacotalpa, Teapa y Tenosique.
+
+Estado de Veracruz: Alvarado, Ángel R. Cabada, Catemaco, Ignacio De La Llave, Ixmatlahuacan, José Azueta, Lerdo De Tejada, Omealca, Saltabarranca, Tatahuicapan De Juárez, Tierra Blanca y Tlalixcoyan y los municipios que no estén comprendidos en las zonas 6, 7 y 8.
+
+Quinto. Para los efectos de lo dispuesto en el Capítulo XIV del Título II de la Ley, se estará a lo siguiente:
+
+I. Durante el ejercicio fiscal de 2008, las personas físicas y las morales que usen o aprovechen bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, pagarán el 50% del derecho establecido en el artículo 278-C de la Ley.
+
+II. Aquellos contribuyentes que se hayan acogido a lo dispuesto por el artículo 282-A de la Ley Federal de Derechos vigente hasta el ejercicio fiscal de 2007, seguirán gozando de los beneficios que en el mismo se establecen, para lo cual deberán cumplir con las obligaciones señaladas en dicho precepto.
+
+En caso de incumplimiento de las obligaciones contraídas por el contribuyente, éste deberá determinar el derecho a su cargo conforme a las disposiciones vigentes a la fecha de dicho incumplimiento y enterarlo.
+
+Al término del programa de acciones, si se rebasan los límites máximos permisibles, el contribuyente estará obligado a pagar el derecho en los términos de las disposiciones legales vigentes.
+
+III. Aquellos prestadores de servicio a poblaciones de 2,501 a 20,000 habitantes, que se hayan acogido a los beneficios del "Decreto por el que se condonan y eximen contribuciones y accesorios en materia de derechos por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales a los contribuyentes que se indican", publicado en el Diario Oficial de la Federación el 17 de noviembre de 2004, seguirán gozando de los beneficios que en el mismo se establecen, para lo cual deberán cumplir con las obligaciones señaladas en dicho ordenamiento.
+
+En caso de incumplimiento de las obligaciones contraídas por los prestadores de servicio referidos, deberán determinar el derecho a su cargo por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, conforme a las disposiciones vigentes a la fecha de dicho incumplimiento y enterarlo.
+
+Al término del programa de acciones de saneamiento, si se rebasan los límites máximos permisibles, el contribuyente estará obligado a pagar el derecho en los términos de las disposiciones legales vigentes.
+
+IV. Aquellos contribuyentes que opten por acogerse a los beneficios del artículo 279 de la Ley Federal de Derechos, con el fin de mejorar la calidad de las aguas residuales, ya sea mediante cambios en los procesos productivos o para el control o tratamiento de las descargas, para no rebasar los límites máximos permisibles establecidos en esta Ley, y mantener o mejorar la calidad de las descargas de aguas residuales, podrán obtener la condonación de los créditos fiscales a su cargo, determinados o autodeterminados que se hayan causado hasta el ejercicio fiscal de 2007, por concepto del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
+
+Al momento de presentar la solicitud a que se refiere el párrafo segundo del artículo 279 de esta Ley, el contribuyente deberá señalar los créditos fiscales a su cargo que constituirán el 100 por ciento de los adeudos sujetos a condonación, los cuales se condonarán en proporción con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, aplicando dicha condonación en primer término a los adeudos más antiguos.
+
+En caso de que en ejercicio de las facultades de comprobación en esta materia, las autoridades fiscales determinen créditos fiscales que se hubieren causado hasta el ejercicio fiscal de 2007, y que no hayan sido contemplados en la información proporcionada por el contribuyente, éstos podrán incorporarse al monto señalado por él y gozar de los beneficios referidos en el párrafo que antecede.
+
+Tratándose de créditos fiscales que hubiesen sido impugnados por algún medio de defensa, al momento de señalar los créditos fiscales en términos del segundo párrafo de esta fracción, el contribuyente deberá acompañar copia sellada del desistimiento correspondiente y copia certificada del acuerdo o resolución que ponga fin a dicho medio de defensa, dictados por la autoridad u órgano jurisdiccional que conozca del asunto.
+
+La conclusión del programa de acciones no podrá exceder del 31 de diciembre de 2012, en caso de que no se concluya dicho programa en esta fecha, únicamente se condonarán los créditos fiscales en la proporción de los avances realizados y el contribuyente deberá cubrir los adeudos no condonados con sus accesorios correspondientes.
+
+En el caso de que las autoridades fiscales hayan iniciado procedimiento administrativo de ejecución, con motivo de los créditos fiscales generados por concepto del derecho por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de descargas de aguas residuales, aquél será suspendido una vez que la Comisión Nacional del Agua autorice el programa de acciones presentado. Durante todo el periodo que dure la suspensión a que se refiere este párrafo, se interrumpirá el término para que se consuma la prescripción a que se refiere el artículo 146 del Código Fiscal de la Federación, relacionado con los créditos fiscales correspondientes.
+
+En ningún caso procederá la devolución de las cantidades que se hayan pagado por el derecho por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de descargas de aguas residuales y accesorios, que se hayan causado antes de la entrada en vigor de este Decreto.
+
+La Comisión Nacional de Agua dentro de los siguientes 90 días a la entrada en vigor del presente Decreto, deberá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del presente programa de condonación.
+
+V. Para los efectos de la asignación de los recursos por concepto de los derechos por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, a que se refiere el segundo párrafo del artículo 279 de la Ley Federal de Derechos, la Comisión Nacional del Agua dentro de los siguientes 90 días a la entrada en vigor del presente Decreto, deberá emitir la Reglas de Operación correspondientes.
+
+Los usuarios municipales que se hayan acogido a los beneficios de la fracción IV de este artículo, serán elegibles para el programa federal que la Comisión Nacional del Agua establezca en materia de la realización de obras y acciones de saneamiento y tratamiento de aguas residuales.
+
+Sexto. A las cuotas de los derechos por servicios prestados por oficinas autorizadas en el extranjero, contenidas en las fracciones I, II y III del artículo 20 de la Ley Federal de Derechos, reformadas mediante el presente Decreto, no les será aplicable el Artículo Cuarto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 1 de diciembre de 2004.
+
+Las cuotas de los derechos por servicios prestados por oficinas autorizadas en el extranjero a que se refiere el párrafo anterior, deberán ajustarse a partir del 1 de enero de 2008, en la misma proporción en que fluctúe el valor de la moneda extranjera en relación con la nacional, tomando como referencia inicial el tipo de cambio publicado por el Banco de México el día 26 de diciembre de 2007. Para los ajustes subsecuentes, se tomará como referencia el tipo de cambio con el que se calculó la fluctuación del último ajuste que se haya efectuado.
+
+Las cuotas de los derechos por servicios prestados por oficinas autorizadas en el extranjero a que se refiere este artículo, no se actualizarán de conformidad con el artículo 1o. de la Ley Federal de Derechos.
+
+Séptimo. A partir del 1 de enero de 2008, para los efectos del artículo 288 de la Ley, las cuotas de los derechos aplicables, serán las siguientes:
+
+Áreas tipo AAA $48.00 y después del horario normal de operación $160.00
+
+Áreas tipo AA $46.00
+
+Áreas tipo A $39.00
+
+Áreas tipo B $35.00
+
+Áreas tipo C $29.00
