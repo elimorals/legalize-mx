@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-autonoma-de-aguascalientes-3222"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-02-24"
-last_updated: "1998-08-17"
+last_updated: "2007-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento al No. 8 del Periódico Oficial del Estado de Aguascalientes, el 24 de febrero de 1974.
 
@@ -425,7 +425,9 @@ El patrimonio de la Universidad se integrará por:
 
 I.- Los bienes muebles e inmuebles; los archivos escolares académicos y administrativos; el equipo, el acervo bibliográfico y documental, la obra artística e intelectual y los derechos de autor que de ellos se deriven; las invenciones y patentes; las inversiones, los valores, los créditos, el efectivo y demás que hayan sido propiedad del Instituto Autónomo de Ciencias y Tecnología de Aguascalientes y que posee a título originario, así como los demás bienes que haya adquirido o que en el futuro adquiera por cualquier título;
 
-II.- Los subsidios ordinarios y extraordinarios y otras aportaciones pecuniarias o en especie que le otorguen los Gobiernos Federal, Estatal y Municipales y los organismos descentralizados. El subsidio ordinario anual que otorgue a la Universidad el Gobierno del Estado de Aguascalientes será del quince por ciento del presupuesto ordinario aprobado por el Consejo Universitario para el mismo ejercicio;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+II.- Los subsidios ordinarios y extraordinarios y otras aportaciones pecuniarias o en especie que le otorguen los Gobiernos Federal, Estatal y Municipales y los organismos descentralizados. El subsidio ordinario anual que otorgue a la Universidad el Gobierno del Estado de Aguascalientes será del veinticinco por ciento del presupuesto ordinario aprobado por el Consejo Universitario para el mismo ejercicio;
 
 III.- Los legados, donaciones y otras aportaciones que se le hagan en dinero o especie y los fideicomisos que se creen a su favor;
 
@@ -610,3 +612,25 @@ SEPTIMO.- Mándese publicar en el Periódico Oficial del Estado.
 P.O. 17 DE AGOSTO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos de la presente reforma, el incremento en el porcentaje del subsidio ordinario anual que se otorgará a la Universidad Autónoma de Aguascalientes se realizará de manera progresiva escalonada, conforme a la siguiente tabla a efecto de que el porcentaje del 25% tenga aplicación definitiva a partir del año 2011:
+
+Año 2008 Año 2009 Año 2010 Año 2011
+
+19% 21% 23% 25%
+
+###### ARTÍCULO TERCERO.
+
+Los recursos que el Estado otorgue a la Universidad Autónoma de Aguascalientes, serán fiscalizados conforme a la legislación aplicable, por lo que deberá ser presentada al Congreso del Estado la respectiva Cuenta Pública en términos de lo establecido en el numeral 27 Fracción V de la Constitución Política del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+La Universidad Autónoma de Aguascalientes deberá destinar los recursos económicos que le subsidie el Estado de Aguascalientes derivados del Artículo 35 de la ley Orgánica de la Universidad Autónoma de Aguascalientes, al saneamiento de sus fianzas, así como para la inversión en docencia, investigación, extensión y difusión de la cultura.
