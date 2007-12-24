@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2007-11-15"
+last_updated: "2007-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -922,9 +922,19 @@ d) Cumplir las demás funciones que le confieren esta ley y los ordenamientos re
 
 #### Sección Cuarta. De otros Organos Técnicos de la Cámara
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 53.
 
-1. La Cámara cuenta con su propia Contraloría Interna, la que tendrá a su cargo recibir quejas, realizar investigaciones, llevar a cabo auditorías y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos de la misma. La Contraloría se ubica en el ámbito de la Conferencia para la Dirección y Programación de los Trabajos Legislativos y deberá presentar a ésta un informe trimestral sobre el cumplimiento de sus funciones. Su titular será nombrado a propuesta de dicha Conferencia, por las dos terceras partes de los individuos presentes en el Pleno.
+1. La Cámara cuenta con su propia Contraloría Interna, cuyo titular tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas; así como conocer de los recursos de revocación, de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores conforme a la normatividad aplicable. La Contraloría se ubica en el ámbito de la Conferencia para la Dirección y Programación de los Trabajos Legislativos y debe presentar a ésta un informe trimestral sobre el cumplimiento de sus funciones. Su titular es nombrado a propuesta de dicha Conferencia, por las dos terceras partes de los individuos presentes en el Pleno.
+
+2. La Contraloría Interna cuenta con las Direcciones Generales de Auditoría, de Control y Evaluación y de Quejas, Denuncias e Inconformidades.
+
+a) A la Dirección General de Auditoría le corresponde elaborar, aplicar y verificar el cumplimiento del programa anual de control y auditoría, realizar auditorías y aclaración de las observaciones hasta la solventación y/o elaboración de los dictámenes de responsabilidades; vigilar que el manejo y aplicación de los recursos financieros, humanos y materiales se lleven a cabo de acuerdo con las disposiciones aplicables.
+
+b) A la Dirección General de Control y Evaluación le corresponde diseñar, implantar, supervisar y evaluar los mecanismos de control de la gestión de las unidades administrativas de la Cámara y participar en actos de fiscalización.
+
+c) A la Dirección General de Quejas, Denuncias e Inconformidades le corresponde recibir e investigar las quejas, denuncias e inconformidades interpuestas contra servidores públicos de la Cámara, en el desempeño de sus funciones o con motivo de ellas, notificar el inicio del procedimiento de responsabilidad administrativa, investigar y substanciar los procedimientos en materia de responsabilidades administrativas e inconformidades previstos en las disposiciones legales y normativas aplicables, dictar las resoluciones correspondientes, e imponer las sanciones en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; atender e intervenir en los diferentes medios de impugnación ante las autoridades competentes e interponer los recursos legales que correspondan en los asuntos que intervenga, así como representar a la Contraloría Interna en los recursos legales y ante las autoridades jurisdiccionales locales o federales.
 
 ###### ARTICULO 54.
 
@@ -2069,3 +2079,7 @@ c) Elegirá, de entre los ocho consejeros electorales en funciones a la entrada 
 d) A más tardar el 15 de agosto de 2008, elegirá a tres nuevos consejeros electorales que concluirán su mandato el 30 de octubre de 2013.
 
 Los consejeros electorales y el consejero Presidente del Consejo General del Instituto Federal Electoral, en funciones a la entrada en vigor del presente Decreto, continuarán en sus cargos hasta en tanto la Cámara de Diputados da cumplimiento a lo dispuesto en el presente artículo. Queda sin efectos el nombramiento de consejeros electorales suplentes del Consejo General del Instituto Federal Electoral establecido por el Decreto publicado en el Diario Oficial de la Federación de fecha 31 de octubre de 2003."
+
+D.O.F. 24 DE DICIEMBRE DE 2007.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
