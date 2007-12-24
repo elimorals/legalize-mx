@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-coordinacion-fiscal-del-estado-de-aguascalientes-10922"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-03"
-last_updated: "2004-09-27"
+last_updated: "2007-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 
@@ -85,25 +85,31 @@ Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que
 
 El Estado, por conducto de la Secretaría, partiendo de los Fondos establecidos en el Título Unico de esta Ley y de conformidad con lo establecido en esta normatividad, así como en la Ley de Coordinación Fiscal Federal, distribuirá a los municipios las participaciones e incentivos mencionados anteriormente, de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-I.- El 22% del Fondo General de Participaciones;
+I.- El 23% del Fondo General de Participaciones;
 
 II.- El 100% del Fondo de Fomento Municipal;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-III.- El 22% de la recaudación en el Estado del Impuesto Federal sobre Tenencia o Uso de Vehículos; y
+III.- El 23% de la recaudación en el Estado del Impuesto Federal sobre Tenencia o Uso de Vehículos;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-IV.- El 22% de la recaudación que obtenga el Estado del Impuesto Especial sobre Producción y Servicios en los términos del artículo 3-A de la Ley de Coordinación Fiscal Federal; y
+IV.- El 23% de la recaudación que obtenga el Estado del Impuesto Especial sobre Producción y Servicios en los términos del artículo 3-A de la Ley de Coordinación Fiscal Federal; y
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-V.- El 22% de la recaudación en el Estado del Impuesto sobre automóviles Nuevos.
+V.- El 23% de la recaudación en el Estado del Impuesto sobre Automóviles Nuevos.
 
-Con el monto de las participaciones e incentivos mencionados anteriormente, se constituirán los fondos municipales que se mencionan en el Título Unico de este Capítulo.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Con el 4.3% de las participaciones e incentivos de las Fracciones I, III, IV y V del párrafo anterior, se constituirá el Fondo Resarcitorio, el cual se distribuirá a los Municipios en proporción inversa al porcentaje de población de cada uno de ellos, recurso que se destinará a obra pública y equipamiento.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Con el 95.7% restante, así como con las participaciones a que se refiere la Fracción II del presente Articulo, se constituirán los fondos municipales que se mencionan en el Título Único de este Capítulo.
 
 ###### ARTICULO 4o.
 
@@ -123,9 +129,11 @@ Para calcular los montos de los incentivos aplicables a los municipios por conce
 
 El Estado distribuirá a los municipios las participaciones e incentivos anteriormente señalados en la proporción que establece el Artículo 3º de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 7o.
 
-El Fondo Básico Municipal se integrará con el total de las participaciones e incentivos del ejercicio fiscal inmediato anterior, que le correspondió a cada Municipio del Fondo General de Participaciones; del Fondo de Fomento Municipal; del Impuesto sobre Tenencia o Uso de Vehículos y del Impuesto Especial sobre Producción y Servicios sujeto a las excepciones señaladas en el artículo siguiente. El pago a los municipios se efectuará en la misma proporción que les fue aplicable en dicho ejercicio fiscal.
+El Fondo Básico Municipal se integrará con el total de las participaciones e incentivos del ejercicio fiscal inmediato anterior, que le correspondió a cada Municipio del Fondo General de Participaciones; del Fondo de Fomento Municipal; del Impuesto sobre Tenencia o Uso de Vehículos y del Impuesto Especial sobre Producción y Servicios, sin considerar los recursos del Fondo Resarcitorio ni las excepciones señaladas en el Artículo siguiente. El pago a los municipios se efectuará en la misma proporción que les fue aplicable en dicho ejercicio fiscal.
 
 Para lo anterior, se tomará la información oficial aprobada por la H. Legislatura que, para tal efecto, haya publicado la Secretaría en el Periódico Oficial del Estado.
 
@@ -197,9 +205,11 @@ El Estado y los municipios efectuarán los pagos de las obligaciones garantizada
 
 No estarán sujetas a lo dispuesto en el primer párrafo de este Artículo, las compensaciones que se requieran efectuar a los municipios como consecuencia de ajustes en participaciones o descuentos originados del incumplimiento de metas pactadas con el Estado en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos de los municipios y las obligaciones que tengan con el Estado, cuando exista acuerdo entre las partes interesadas o esta Ley así lo autorice.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 13.
 
-El Estado cubrirá el importe a cada Municipio de las participaciones correspondientes a los Fondos señalados en los Artículos 7o. y 9o. anteriores dentro de los cinco días hábiles siguientes a aquel en el que los reciba de la Federación, contados a partir de la fecha de vigencia que señale la Constancia respectiva que el Estado reciba de la Federación, efectuando las compensaciones aplicables a los municipios como consecuencia de ajustes realizados por la Federación.
+El Estado cubrirá el importe a cada Municipio de las participaciones correspondientes a los Fondos señalados en el penúltimo párrafo del Artículo 3° y en los Artículos 7° y 9° anteriores dentro de los cinco días hábiles siguientes a aquel en el que los reciba de la Federación, contados a partir de la fecha de vigencia que señale la Constancia respectiva que el Estado reciba de la Federación, efectuando las compensaciones aplicables a los municipios como consecuencia de ajustes realizados por la Federación.
 
 El retraso en la entrega a los municipios de cualesquiera de sus participaciones o incentivos dará lugar al pago de intereses por parte del Estado, a la tasa de recargos que establece el Congreso de la Unión para el pago a plazos de las contribuciones federales.
 
@@ -357,8 +367,18 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jesús Orozco Castellanos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE SEPTIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor el día 1º de enero del año 2005.
+
+P.O. 24 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el 31 de diciembre del año 2007.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
