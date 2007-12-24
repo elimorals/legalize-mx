@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2007-07-23"
+last_updated: "2007-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2007.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -227,9 +227,9 @@ Si la víctima es menor de doce años de edad o por cualquier causa no puede res
 
 La Corrupción de Menores consiste en:
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-I. La inducción que se haga de una persona menor de 18 años de edad para la práctica de la mendicidad, ebriedad, toxicomanía o prostitución;
+I. La inducción que se haga de una persona no mayor de 18 años de edad para la práctica de la mendicidad, ebriedad, toxicomanía o prostitución, y en su caso, la inducción al delito mediante actos que hagan intervenir al menor en cualquiera de sus formas de comisión;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -523,9 +523,11 @@ II. Dejar el automovilista, motorista, conductor de un vehículo cualquiera, cic
 
 Al responsable de Omisión de Auxilio se le aplicarán de 3 meses a 2 años de prisión y de 25 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-Artículo 43 A. Las Amenazas consisten en la advertencia que se hace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de 6 meses a 2 años de prisión o de 90 a 180 días de multa y a la reparación total de los daños y perjuicios ocasionados.
+Artículo 43 A. Las Amenazas consisten en la advertencia que se hace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de 6 meses a 2 años de prisión y de 90 a 180 días de multa y a la reparación total de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 Se debe entender como ligados por algún vínculo con la persona:
 
@@ -689,9 +691,11 @@ La Extorsión consiste en la obtención de un lucro para sí o para otro, causan
 
 Al responsable de Extorsión se le aplicarán de 2 a 8 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 50.
 
-El Despojo Rural consiste en:
+El Despojo consiste en:
 
 I. Ocupar de propia autoridad, por medio de la violencia física, furtivamente, de la amenaza o del engaño, un inmueble ajeno o hacer uso de él, o de un derecho real que no le pertenezca, con perjuicio patrimonial de alguien; o impedir materialmente el disfrute de tal bien inmueble o derecho real, con perjuicio patrimonial de alguien;
 
@@ -701,23 +705,27 @@ III. Alterar términos o linderos de predios, o cualquier clase de señales o mo
 
 IV. Desviar o hacer uso de las aguas propias o ajenas, en los casos en que la ley no lo permita, o hacer uso de un derecho real sobre aguas que no le pertenezcan, con perjuicio patrimonial de alguien.
 
-Al responsable de Despojo Rural se le aplicarán de 2 a 6 años de prisión y de 10 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 51.
+V. Ocupar de propia autoridad, por medio de la violencia física, furtivamente, de la amenaza o del engaño, instalaciones de una institución pública o privada destinada a prestar servicios públicos y se impida su prestación.
 
-El Despojo Urbano consiste en:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-I. Ocupar de propia autoridad, por medio de la violencia física, furtivamente, de la amenaza o del engaño, un inmueble ajeno destinado a vivienda, comercio o industria, o hacer uso de él, con perjuicio patrimonial de alguien; o impedir materialmente el disfrute de tal bien inmueble por su legítimo propietario, provocándole evidente perjuicio patrimonial; o
-
-II. Ocupar de propia autoridad, por medio de la violencia física, furtivamente, de la amenaza o del engaño, instalaciones de una institución pública o privada destinada a prestar servicios públicos y se impida su prestación.
-
-Al responsable de Despojo Urbano se le aplicarán:
+Al responsable del Despojo se le aplicarán:
 
 I. De 1 a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado no exceda de tres mil setecientas cincuenta veces el salario mínimo general vigente en el Estado;
 
 II. De 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado exceda de tres mil setecientas cincuenta veces el salario mínimo general vigente en el Estado, pero no de ocho mil; o
 
 III. De 4 a 6 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado exceda de ocho mil veces el salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Se aplicará la misma penalidad en los casos a que se refiere la Fracción V, de este Artículo.
+
+###### Artículo 51.
+
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2007)
 
 ###### Artículo 52.
 
@@ -749,7 +757,9 @@ III. Si el daño se causa en forma total o parcial respecto de programas, archiv
 
 Los Atentados a la Estética Urbana consisten en la afectación, no sólo material, sino visual, de bienes inmuebles o muebles, públicos o privados, provocada por pintas, escrituras, dibujos, signos, tallones y/o gráficos de cualquier tipo, que modifiquen o alteren ostensiblemente su estructura o presentación originales.
 
-Al responsable de Atentados a la Estética Urbana se le aplicarán de 1 a 5 años de prisión y de 50 a 75 días multa, y al pago de la reparación de los daños y perjuicios ocasionados. En este caso, la reparación consistirá en dejar en las mismas condiciones en que se encontraba el objeto material objeto del hecho, así como otro que haya sido objeto de atentado, en lo que se refiere a las mismas dimensiones o superficies.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Al responsable de Atentados a la Estética Urbana se le aplicarán de 1 a 5 años de prisión y de 50 a 75 días multa, y al pago de la reparación de los daños y perjuicios ocasionados. En este caso, la reparación consistirá en dejar en las mismas condiciones en que se encontraba el objeto material objeto del hecho, así como otros tres más que hayan sido objeto de atentado, en lo que se refiere a las mismas dimensiones o superficies.
 
 Tratándose de propaganda o promoción de partidos o grupos políticos, se estará a lo dispuesto por la Legislación Electoral del Estado.
 
@@ -887,9 +897,23 @@ I. Ocultar la verdad por parte del que tiene la obligación legal de manifestarl
 
 II. Imputar a una persona, ante la autoridad ministerial, un hecho determinado por esta Ley como punible, si este hecho es falso o la persona imputada no tiene el carácter de autor, partícipe o cómplice en la realización del mismo; o
 
-III. Hacer aparecer a un no autor, partícipe o cómplice, como inculpado de un hecho punible, colocando sobre tal persona, en su casa o en otro lugar adecuado para ese fin, un elemento que pueda dar indicios de autoría, participación o complicidad en el hecho punible referido.
+III. Hacer aparecer a un no autor, partícipe o cómplice, como inculpado de un hecho punible, colocando sobre tal persona, en su casa o en otro lugar adecuado para ese fin, un elemento que pueda dar indicios de autoría, participación o complicidad en el hecho punible referido;
 
-Al responsable de Falsedad ante la Autoridad o Fedatario Público se le aplicarán de 3 a 5 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+IV. Sin motivo justificado oculte su domicilio o de cualquier forma señale o utilice uno inexistente, o el de otra persona sin su autorización, y obtenga con ello documentación oficial o de cualquier índole en original, o copia, aún y cuando se utilice su propio nombre o el de una persona diversa, real o inexistente;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+V. Oculte su nombre; o apellidos, o ambos y de cualquier forma tome o utilice otro imaginario, o el de otra persona, y obtenga con ello documentación oficial o de cualquier índole en original o copia, para sí o para terceros.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+En todo caso se entenderá por obtención, además de la expedición por parte de la autoridad o del particular, la posesión, tenencia o portación del documento o copia de que se trate por parte del inculpado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Al responsable de Falsedad ante la Autoridad o Fedatario Público se le aplicarán de 3 a 5 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, Para el caso de las Fracciones IV y V la pena se incrementará hasta en un tercio de los mínimos y máximos señalados para las demás Fracciones.
 
 Si el inculpado se retracta oportunamente de sus falsas declaraciones antes de que se pronuncie sentencia, solo se le aplicarán de 3 meses a 2 años de prisión y de 10 a 50 días multa.
 
@@ -933,7 +957,7 @@ Al responsable de Quebrantamiento de Sellos se le aplicarán de 1 a 3 años de p
 
 ###### Artículo 69.
 
-El Ejercicio Indebido de Servicio Público consiste en:
+El Ejercicio Indebido de (sic) Servicio Público consiste en:
 
 I. Ejercer funciones de un empleo, cargo o comisión para el que no hubiese sido nombrado, hubiese sido cesado o no se le haya dado posesión;
 
@@ -1003,9 +1027,25 @@ XXIX. Admitir o nombrar un depositario o entregar a éste los bienes secuestrado
 
 XXX. Hacer conocer al demandado, indebidamente, la providencia de embargo decretada en su contra;
 
-XXXI. Permitir, fuera de los casos previstos por la Ley, la salida temporal de las personas que están recluidas o favorecer la evasión de algún detenido, procesado o condenado; o
+XXXI. Permitir, fuera de los casos previstos por la Ley, la salida temporal de las personas que están recluidas o favorecer la evasión de algún detenido, procesado o condenado; o (sic)
 
-XXXII. Ostentarse como servidor público quien no lo sea a fin de lograr un lucro indebido o una prestación que no le corresponda.
+XXXII. Ostentarse como servidor público quien no lo sea a fin de lograr un lucro indebido o una prestación que no le corresponda;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+XXXIII. Utilizar o haber utilizado, la fuerza o los medios a su disposición o bajo su mando resguardo, o brinde facilidades o protección o le proporcione materiales a cualquier persona para la comisión de un delito o a quien se le impute un delito;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+XXXIV. Comunicar a cualquier persona a quien se le impute un delito, información de la que tenga o haya tenido acceso por su empleo, cargo o comisión y que hubiere podido facilitarle la realización de dicho ilícito;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+XXXV. Inducir a uno o más elementos activos de las instituciones policiales o servidores públicos de una institución de procuración o de administración de justicia o de ejecución de sanciones, a participar en actividades ilícitas;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+XXXVI. Poner fuera del procedimiento legal y sin tener facultades para ello, en libertad a un detenido.
 
 Al responsable de Ejercicio Indebido de Servicio Público, se le aplicarán de 2 a 6 años de prisión, de 50 a 100 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y la destitución e inhabilitación de 1 a 4 años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -1077,17 +1117,21 @@ Al responsable de Tráfico de Influencias se le aplicarán de 2 a 6 años de pri
 
 El Encubrimiento consiste en:
 
-I. Adquirir, recibir u ocultar el producto de un hecho punible, con ánimo de lucro, después de realizado tal hecho, conociendo el inculpado tal circunstancia y sin haber participado en su realización;
+I. Adquirir, recibir u ocultar el producto de un hecho punible, con ánimo de lucro, después de realizado tal hecho, conociendo el inculpado tal circunstancia y sin haber participado en su realización.
 
 Si el inculpado recibió la cosa en venta, prenda o bajo cualquier otro concepto y no tuvo conocimiento de la procedencia ilícita de aquélla, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la punibilidad aplicable se disminuirá hasta en una mitad respecto de los mínimos y máximos señalados.
 
-Para el efecto del párrafo anterior los adquirentes de vehículos de motor deberán tramitar la transferencia o regularización correspondiente, cerciorándose de su legítima procedencia.
+Para el efecto del párrafo anterior los adquirentes de vehículos de motor deberán tramitar la transferencia o regularización correspondiente, cerciorándose de su legítima procedencia;
 
 II. Prestar auxilio o cooperación de cualquier especie a los autores o partícipes de cualquier hecho punible, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución de tal hecho;
 
-III. Ocultar a los autores o partícipes de cualquier hecho punible, o los efectos, objetos o instrumentos del mismo, o impida que se investigue tal hecho por las autoridades competentes; y
+III. Ocultar a los autores o partícipes de cualquier hecho punible, o los efectos, objetos o instrumentos del mismo, o impida que se investigue tal hecho por las autoridades competentes; y (sic)
 
-IV. No dar auxilio para la investigación de hechos punibles o para llevar a cabo la persecución de los autores o partícipes en aquéllos, cuando para ello sea requerido por las autoridades competentes.
+IV. No dar auxilio para la investigación de hechos punibles o para llevar a cabo la persecución de los autores o partícipes en aquéllos, cuando para ello sea requerido por las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+V. Omitir o retardar dolosamente la denuncia de los hechos punibles ante la autoridad competente, cuando un funcionario o servidor público en el ejercicio de sus funciones tuviere conocimiento de estos.
 
 Al Responsable de Encubrimiento se le aplicarán de 3 meses a 5 años de prisión y de 15 a 160 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -1139,7 +1183,9 @@ Esta punibilidad no se aplicará si el responsable ejerce la patria potestad, tu
 
 Los Ataques a las Vías de Comunicación y a los Medios de Transporte Dolosos consisten en:
 
-I. La interrupción total o parcial que se haga de cualquier forma a los servicios de comunicación y de transporte locales;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+I. La interrupción total o parcial que se haga de cualquier forma a los servicios de comunicación, vialidades y de transporte locales;
 
 II. La retención de cualquier vehículo destinado al servicio público de transporte de jurisdicción local, sin orden previa de autoridad;
 
@@ -1365,23 +1411,11 @@ Para los efectos del presente título, actúa dolosamente el que conociendo los 
 
 ### CAPITULO DECIMO NOVENO. Tipos penales protectores de las personas
 
-Artículo 91 A. (DEROGADO, P.O. 15 DE MARZO DE 2006)
+Artículo 91 A.- (DEROGADO, P.O. 15 DE MARZO DE 2006)
 
-Artículo 91 B. (DEROGADO, P.O. 15 DE MARZO DE 2006)
+Artículo 91 B.- (DEROGADO, P.O. 15 DE MARZO DE 2006)
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
-
-Artículo 91 C. La calumnia consiste en:
-
-I. Imputar a otro un hecho determinado por la ley como delito, si este hecho es falso o es inocente la persona a quien se le imputa;
-
-II. Presentar denuncias, quejas, acusaciones o querellas sin fundamento, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido; y
-
-III. Hacer aparecer a un inocente como inculpado de un hecho delictuoso, poniendo sobre la persona del calumniado, en su caso en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
-
-Al responsable de Calumnia se le aplicarán de 3 a 5 años de prisión y de 100 a 200 días multa, y sólo será punible el hecho cuando la conducta realizada por el inculpado sea conocida por personas diferentes a las autoridades encargadas de la investigación y persecución de delitos.
-
-Tampoco se aplicará pena o medida de seguridad alguna al inculpado si los hechos son ciertos aunque no constituyan delito, y él errónea o falsamente, les haya atribuido ese carácter.
+Artículo 91 C.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2007)
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
@@ -1463,13 +1497,15 @@ Al responsable de Lesiones Culposas se le aplicarán:
 
 I. De 3 a 6 meses de prisión, de 10 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si no ponen en peligro la vida y tardan en sanar menos o más de 15 días; o
 
-II. De 1 a 5 años de prisión, de 20 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y privación de 1 a 2 años para ejercer profesión u oficio, si ponen en peligro la vida, independientemente del tiempo que tarden en sanar; si no ponen en peligro la vida y dejan a la víctima cicatriz notable y permanente o le provocan la disminución de facultades o el normal funcionamiento de órganos o miembros, o le producen incapacidad temporal de hasta un año para trabajar; o le provocan la pérdida definitiva de cualquier función orgánica, miembro, órgano o facultad; o le causan una enfermedad incurable o deformidad incorregible, o incapacidad de más de un año para trabajar.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-Si las Lesiones Culposas se cometen por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 2 a 10 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados e inhabilitación para obtener licencia para conducir de 2 a 5 años.
+II. De 2 a 7 años de prisión, de 25 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y privación de 1 a 2 años para ejercer profesión u oficio, si ponen en peligro la vida, independientemente del tiempo que tarden en sanar; si no ponen en peligro la vida y dejan a la víctima cicatriz notable y permanente o le provocan la disminución de facultades o el normal funcionamiento de órganos o miembros, o le producen incapacidad temporal de hasta un año para trabajar; o le provocan la pérdida definitiva de cualquier función orgánica, miembro, órgano o facultad; o le causan una enfermedad incurable o deformidad incorregible, o incapacidad de más de un año para trabajar.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-Las lesiones culposas, previstas en las fracciones I y II del presente artículo, sólo se perseguirán por la denuncia que formule la víctima o su representante legal.
+Si las Lesiones Culposas se cometen por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados e inhabilitación para obtener licencia para conducir de 2 a 5 años.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO TERCERO. Tipos Penales Protectores de la Seguridad y el Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
@@ -1481,9 +1517,7 @@ Al responsable de Daño en las Cosas Culposo se le aplicarán de 3 meses a 2 añ
 
 Si el Daño en las Cosas Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 2 a 5 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y suspensión o inhabilitación para obtener licencia para conducir de 2 a 5 años.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
-
-El daño en las cosas culposo, previsto en los párrafos primero y segundo del presente artículo, sólo se perseguirá por la denuncia que formule la víctima o su representante legal.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO CUARTO. Tipos Penales Protectores del Equilibrio Ecológico
 
@@ -1567,9 +1601,13 @@ Se exceptúa de esta regla la sociedad conyugal, pues en todo caso, cada cónyug
 
 Los propietarios de vehículos serán solidariamente responsables con el responsable del hecho delictivo o punible, por los daños y perjuicios que causen con su utilización, si éstos se realizan bajo su dirección o dependencia.
 
-En el caso de los supuestos establecidos en las fracciones I a III del presente artículo, se requerirá del pago de la reparación de los daños y perjuicios a los terceros obligados, cuando se declare el monto, su procedencia y nombre de los beneficiarios, en el procedimiento penal correspondiente, por la autoridad ejecutora, en los términos establecidos para el efecto en la presente legislación.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-En el caso de los supuestos establecidos en las fracciones IV a V del presente artículo, se requerirá del pago de la reparación de los daños y perjuicios a los terceros obligados, cuando se declare el monto, su procedencia y nombre de los beneficiarios, en el procedimiento penal correspondiente, sea por la autoridad judicial o la ejecutora, en los términos establecidos para el efecto en la presente legislación, pero sólo en los casos en que se acredite que el directamente obligado no cuenta con los recursos suficientes para cubrir su pago.
+En el caso de los supuestos establecidos en las Fracciones I a III del presente Artículo, se requerirá del pago de la reparación de los daños y perjuicios a los terceros obligados, al existir importe y nombre de los beneficiarios en el procedimiento penal correspondiente, en los términos establecidos para el efecto en la presente legislación y el Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+En el caso de los supuestos establecidos en las fracciones IV a V del presente Artículo, se requerirá del pago de la reparación de los daños y perjuicios a los terceros obligados, al existir importe y nombre de los beneficiarios en el procedimiento penal correspondiente, por la autoridad judicial, y será en los términos establecidos en la presente Legislación, y del Código de Procedimientos Civiles, pero sólo en los casos en que se acredite que el directamente obligado no cuenta con los recursos suficientes para cubrir su pago.
 
 ###### Artículo 105.
 
@@ -1707,9 +1745,11 @@ Con relación a la multa, pago de reparación de daños y perjuicios y publicaci
 
 El contenido de las figuras típicas descritas en la presente Legislación obliga a todos los habitantes del Estado de Aguascalientes, sin excepción alguna, sean nacionales o extranjeros, residentes o transeúntes, y las consecuencias jurídicas establecidas se aplicarán a los responsables, por los hechos punibles que se inicien, preparen o cometan en el Estado, y respecto de aquellos que se inicien o preparen fuera del Estado, cuando el resultado se produzca en la entidad. Por lo tanto, se tendrá por ejecutado el hecho punible descrito en cada figura típica, en el lugar y tiempo en que se concretice el resultado de lesión o de peligro del bien jurídico tutelado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 123.
 
-Cuando entre la comisión de un hecho punible y la extinción de la pena o medida de seguridad aplicadas, entrare en vigor un nuevo precepto legal en materia penal o se modificare uno vigente, se aplicará aquella norma que mantenga un equilibrio adecuado entre los derechos constitucionales de la víctima y del inculpado, sin que se afecten notablemente aquellos, situación que siempre será resuelta por la autoridad que esté conociendo de la correspondiente etapa del procedimiento.
+Cuando entre la comisión de un hecho punible y la extinción de la pena o medida de seguridad aplicadas, entrare en vigor un nuevo precepto legal en materia penal o se modificare uno vigente, se aplicará aquella norma que mantenga un equilibrio adecuado entre los derechos constitucionales de la víctima y del inculpado, sin que se afecten notablemente aquellos, situación que siempre será resuelta por la autoridad judicial que conozca del caso.
 
 ###### Artículo 124.
 
@@ -1783,23 +1823,11 @@ No existe conducta cuando se provoca un resultado de lesión o de peligro, por f
 
 Cuando algún integrante o representante de una persona jurídica colectiva, con excepción de las instituciones del Estado, facilite los medios para la comisión de un hecho punible, de modo que éste resulte cometido a su nombre, bajo su amparo o en beneficio de ella, los tribunales, con la audiencia del representante legal de aquélla, aplicarán las medidas jurídicas previstas para el efecto por esta Legislación, sin perjuicio de la responsabilidad individual por el o los hechos delictivos cometidos.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 132.
 
-La tipicidad se integra con la comprobación en el hecho punible de la existencia de los siguientes elementos:
-
-I. El bien jurídico protegido como el concreto interés individual o colectivo, de orden social referido en el particular tipo penal;
-
-II. El resultado de afectación, destrucción, disminución o compresión del bien jurídico protegido o su puesta en peligro, como probabilidad asociada a la afectación, destrucción, disminución o compresión de tal bien jurídico, separable en espacio y tiempo de la conducta;
-
-III. La víctima del hecho punible, o el titular del bien jurídico protegido por la correspondiente figura típica, tomando en cuenta sus calidades específicas, cuando éstas sean exigibles;
-
-IV. El inculpado, sea autor, partícipe o cómplice del hecho punible, por haber realizado o colaborado en la realización de la acción u omisión descrita en la figura típica correspondiente, tomando en cuenta sus calidades específicas, cuando estas sean exigibles;
-
-V. El objeto de la conducta o la persona o entidad material sobre la que recae la acción u omisión descrita en la figura típica correspondiente;
-
-VI. La acción, que es el movimiento corporal descrito en la figura típica correspondiente, adecuada para producir la lesión o puesta en peligro del bien jurídico protegido; o la omisión, que es la no realización de la actividad ordenada en la figura típica correspondiente, adecuada para evitar la lesión o puesta en peligro del bien jurídico protegido; y
-
-VII. Las referencias o modalidades que puedan presentarse en las descripciones típicas, necesarias para su configuración y que describen los medios, tiempo, ocasión y espacio.
+La tipicidad se integra, cuando a los elementos objetivos contenidos en la descripción típica de la norma penal, se adecua a la conducta desplegada por el sujeto activo.
 
 ###### Artículo 133.
 
@@ -1859,9 +1887,11 @@ A nadie se le aplicará una pena o medida de seguridad, sino después de haberse
 
 Ninguna persona podrá ser procesada, penada o sometida a una medida de seguridad, sino por los tribunales o instituciones designadas y facultadas por la presente Legislación, antes del hecho de la causa.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 142.
 
-Corresponde exclusivamente a los tribunales del Estado y las autoridades correspondientes del Poder Ejecutivo, conocer de las distintas etapas del procedimiento penal que se instruya a los inculpados por la comisión de hechos punibles, de conformidad con las disposiciones de la presente Legislación.
+Corresponde exclusivamente a los tribunales del Estado todo lo relativo a la imposición de penas y medidas de seguridad, y a las autoridades correspondientes del Poder Ejecutivo, lo concerniente a la exacta aplicación de las mismas en los términos de las leyes de la materia.
 
 ###### Artículo 143.
 
@@ -1877,7 +1907,9 @@ La instrucción comprende, del auto de formal prisión al auto que la declara ce
 
 III. La del juicio, que comprende del auto que declara cerrada la instrucción a la sentencia ejecutoria. En esta etapa, el Ministerio Público funda su acusación y el inculpado su defensa ante la autoridad judicial, la cual valorará los medios probatorios aportados para pronunciar la sentencia definitiva; y
 
-IV. La de ejecución, que comprende desde el momento en que cause ejecutoria la sentencia dictada por la autoridad judicial hasta la extinción de las penas o medidas de seguridad aplicadas.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+IV. La de ejecución, que comprende el momento en que el sentenciado es puesto a disposición del Ejecutivo por virtud de sentencia ejecutoriada, para que cumpla con la sentencia, hasta la extinción de las penas y medidas de seguridad aplicadas. En la solicitud de los beneficios de preliberación o de libertad preparatoria deberá intervenir el Ministerio Público, para resolver lo relativo a la adecuación de las penas o medidas de seguridad.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2249,9 +2281,13 @@ Las únicas medidas de coerción posibles en contra del inculpado, son las que e
 
 Nadie debe ser procesado penalmente más de una vez por el mismo hecho punible. Sin embargo, será admisible un nuevo ejercicio de acción penal cuando la primera haya sido intentada ante un tribunal incompetente y que por ese motivo haya concluido el procedimiento, o cuando decretada la negativa de orden de aprehensión o de citación para declaración preparatoria o dictado auto de libertad por falta de elementos o de libertad por desvanecimiento de datos, las actuaciones sean devueltas a las autoridades ministeriales para reintegración de averiguación previa.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 194.
 
-Es inviolable la defensa en el procedimiento. Salvo las excepciones expresamente previstas en este código, el inculpado tendrá derecho a intervenir en todos los actos del procedimiento y a formular todas las observaciones que considere oportunas, sin perjuicio del ejercicio del poder disciplinario por la autoridad correspondiente, cuando perjudique el curso normal de los actos procedimentales. Cuando esté privado de su libertad personal, podrá formular las observaciones por intermedio del encargado de su defensa, quien las tramitará en las instancias correspondientes.
+Es inviolable la defensa en el procedimiento. Salvo las excepciones expresamente previstas en esta Legislación, el inculpado tendrá derecho a intervenir en todos los actos del procedimiento y a formular todas las observaciones que considere oportunas, sin perjuicio del ejercicio del poder disciplinario por la autoridad correspondiente, cuando perjudique el curso normal de los actos procedimentales. Cuando esté privado de su libertad personal, podrá formular las observaciones por intermedio del encargado de su defensa, quien las tramitará en las instancias correspondientes.
+
+Los derechos señalados en el párrafo anterior para el inculpado, también le corresponden a la parte ofendida en lo conducente.
 
 ###### Artículo 195.
 
@@ -2615,6 +2651,8 @@ Ninguna resolución judicial se ejecutará sin que previamente se haya notificad
 
 ### CAPITULO QUINTO. Audiencias Judiciales
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 250.
 
 Las diligencias del Ministerio Público que deban practicarse fuera del territorio del Estado en que se esté tramitando alguna averiguación, se encargarán a quien toque desempeñar esas funciones en el lugar donde deban practicarse, enviándole la averiguación original o un oficio con las inserciones necesarias, en términos de lo previsto por los Acuerdos de Coordinación ordenados por el artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -2749,17 +2787,7 @@ La falta de cumplimiento de esta disposición será sancionada por el tribunal o
 
 ###### Artículo 277.
 
-Las audiencias judiciales serán públicas, excepto en los casos en que la propia moral pública exija lo contrario, y para tal efecto así deberá acordarse en autos. Se consideran como audiencias judiciales las siguientes:
-
-I. Declaración preparatoria del inculpado;
-
-II. Careos;
-
-III. Audiencia final de juicio;
-
-IV. Las incidentales; y
-
-V. Las de segunda instancia.
+Las audiencias judiciales serán públicas, excepto en los casos en que la propia moral pública exija lo contrario, y para tal efecto así deberá acordarse en autos.
 
 ###### Artículo 278.
 
@@ -2770,6 +2798,10 @@ Las audiencias judiciales se suspenderán mientras no estén presentes el Minist
 Si el defensor fuere particular y no asistiere a la audiencia, o se ausente de ella sin razón, se estará a lo dispuesto en esta legislación en el capítulo relativo a los derechos y obligaciones de la Defensa.
 
 Si faltare el inculpado, y su presencia no sea fundamental para el desarrollo o continuación de la audiencia, se continuará ésta sin su presencia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+A las audiencias también deberá ser citada la víctima o el ofendido o su representante, para que exprese en ella lo que a su derecho convenga.
 
 ###### Artículo 279.
 
@@ -2937,6 +2969,8 @@ El embargo también se levantará si se decreta la libertad del inculpado, y en 
 
 ### CAPITULO PRIMERO. Averiguación Previa o Fase Inicial del Procedimiento
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 303.
 
 La autoridad ministerial o jurisdiccional competente, que esté conociendo del procedimiento, procederá al inmediato aseguramiento, para efecto de decomiso, destrucción o pérdida o posterior embargo precautorio, de los bienes relacionados con el hecho punible, cualquiera que sea la naturaleza de los instrumentos, objetos o productos utilizados. Tendrá el carácter de provisional y se ordenará su levantamiento si se determina el no ejercicio de la acción penal o la reserva de diligencias; o cuando se ordene el sobreseimiento del procedimiento, se decrete sentencia absolutoria o la condenatoria no ordene el decomiso, destrucción o pérdida de objetos, instrumentos o productos del delito.
@@ -2947,7 +2981,7 @@ La autoridad ministerial o jurisdiccional competente, que esté conociendo del p
 
 ###### Artículo 304.
 
-La averiguación previa consiste en la investigación de la existencia del hecho punible de que tenga conocimiento el Ministerio Público por denuncia, con el objeto de comprobar los datos que acrediten el cuerpo del delito determinado en la figura típica correspondiente y para el establecimiento de la probable responsabilidad del o de los inculpados, y resolver con ello sobre el ejercicio o no ejercicio de la acción penal.
+La averiguación previa consiste en la investigación de la existencia del hecho punible de que tenga conocimiento el Ministerio Público por denuncia o por querella, con el objeto de comprobar los datos que acrediten el cuerpo del delito determinado en la figura típica correspondiente y para el establecimiento de la probable responsabilidad del o de los inculpados, y resolver con ello sobre el ejercicio o no ejercicio de la acción penal.
 
 El hecho punible se integra con los siguientes elementos fácticos:
 
@@ -2961,23 +2995,35 @@ IV. Los factores existenciales concurrentes al resultado, a la conducta y al nex
 
 La denuncia es el medio por el que cualquier persona hace del conocimiento del Ministerio Público o de sus Auxiliares, del hecho punible, y suficiente para iniciar la averiguación previa.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 304 Bis.
+
+En aquellos delitos no graves en los cuales se requiera cumplir con algún requisito de procedibilidad que corresponda subsanarlo a la víctima u ofendido, el Ministerio Público levantará la denuncia en un acta circunstanciada y orientará y asesorará al denunciante a fin de poder cumplimentar a la brevedad dichos requisitos.
+
+Dichas actas circunstanciadas se registrarán en un libro denominado de Actas Circunstanciadas y cuando aparecieren los datos que permitieran el esclarecimiento de los hechos o la individualización de los responsables, el Ministerio Público procederá a anotar esa circunstancia en el libro e iniciará la averiguación previa correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 305.
 
-Cualquier persona, legalmente identificada, está facultada para presentar una denuncia, la que se formulará verbalmente o por escrito, y deberá contener, en lo posible, el relato circunstanciado de la totalidad del hecho punible o de alguna de sus partes, sin calificarlo jurídicamente, con indicación de los autores, partícipes, cómplices, víctimas y testigos, elementos de prueba y antecedentes o consecuencias conocidas, y los demás datos exigidos para el inicio de una averiguación previa. Agregará también las pruebas documentales en su poder, o indicará el lugar donde ellas están.
+Cualquier persona, está facultada para presentar denuncia o querella, la que se formulará verbalmente o por escrito, y deberá contener, en lo posible, el relato circunstanciado de la totalidad del hecho punible o de alguna de sus partes, sin calificarlo jurídicamente, con indicación de los autores, partícipes, cómplices, víctimas y testigos, elementos de prueba y antecedentes o consecuencias conocidas, y los demás datos exigidos para el inicio de una averiguación previa. Agregará también las pruebas documentales en su poder, o indicará el lugar donde ellas están. Tratándose de querella solo podrá formularla la víctima u ofendido, salvo el caso que este se encuentre imposibilitado para hacerla por si mismo.
 
-La persona que formule denuncia dará a conocer, además de lo señalado en el párrafo anterior:
+Todo funcionario o servidor público que en ejercicio de sus funciones tenga conocimiento de la probable comisión de un delito perseguible de oficio, tiene el impostergable deber a denunciarlo inmediatamente al Ministerio Público, transmitiéndole todos los datos que tuviese, poniendo a su disposición, desde luego a los inculpados, si hubieren detenidos.
 
-I. El nombre y apellidos, de su representado, en su caso;
+La persona que formule denuncia o querella dará a conocer, además de lo señalado en el párrafo anterior:
 
-II. El domicilio real y legal, o ambos, en su caso;
+I.- El nombre y apellidos, de la persona que se querella o que denuncia, la Entidad Pública o su legítimo representante facultado expresamente para ello;
 
-III. El documento, nacional o extranjero, que sirva para identificarlos; y
+II.- El domicilio real y legal, o ambos, en su caso;
 
-IV. En el caso de personas colectivas, la razón, domicilio social, personas que la dirigen y documento legal que lo identifique.
+III.- El documento, nacional o extranjero, que sirva para identificarlos; y
 
-Cuando la denuncia no reúna los requisitos previstos para cada caso, el Ministerio Público prevendrá al denunciante para que la modifique, ajustándose a ellos. Asimismo, se informará al denunciante, dejando constancia en el acta, acerca de la trascendencia jurídica del acto que realizan, sobre la punibilidad establecida para quienes se conducen con falsedad ante una autoridad y sobre las modalidades del procedimiento.
+IV.- En el caso de personas colectivas, la razón, domicilio social, personas que la dirigen y documento legal que lo identifique.
 
-El derecho para formular denuncia prescribirá en 2 años, contados a partir del momento en que la víctima u ofendido tenga conocimiento directo del resultado de afectación o de puesta en peligro del bien jurídico protegido por la correspondiente figura típica del que sea titular.
+Cuando la denuncia o querella no reúna los requisitos previstos para cada caso, el Ministerio Público hará la prevención para que se modifique, ajustándose a ellos. Asimismo, informará a los interesados, dejando constancia en el acta, acerca de la trascendencia jurídica del acto que realizan, sobre la punibilidad establecida para quienes se conducen con falsedad ante una autoridad y sobre las modalidades del procedimiento.
+
+El derecho para formular querella prescribirá en 2 años, contados a partir del momento en que la víctima u ofendido tenga conocimiento directo del resultado de afectación o de puesta en peligro del bien jurídico protegido por la correspondiente figura típica del que sea titular.
 
 ###### Artículo 306.
 
@@ -2991,17 +3037,21 @@ II. Cuando no presente los medios probatorios que sean necesarios y que tenga en
 
 El desistimiento podrá ser declarado de oficio o a petición de cualquiera de los sujetos procesales interesados, y su declaratoria provocará el no ejercicio de la acción penal o el sobreseimiento, según el estado del procedimiento, lo que impedirá toda posterior persecución, en virtud del mismo hecho que constituyó el objeto de su instancia.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 307.
 
-El perdón otorgado por la víctima u ofendido, extingue el ejercicio de la acción penal y la potestad de ejecutar penas y medidas de seguridad.
+En las figuras típicas de querella el perdón otorgado por la víctima u ofendido, extingue el ejercicio de la acción penal y medidas de seguridad.
 
-Cuando sean varias las víctimas u ofendidos y cada uno de ellos pueda ejercer separadamente la facultad de otorgar el perdón, esto sólo surtirá efectos por lo que hace a quien lo concede.
+Cuando sean varios las víctimas u ofendidos y cada uno de ellos pueda ejercer separadamente la facultad de otorgar el perdón, esto solo surtirá efectos por lo que hace a quien lo concede.
 
-Si los inculpados fueren varios, el desistimiento otorgado a uno de ellos, beneficia a los demás.
+Si los inculpados fueren varios el perdón otorgado a uno de ellos, solo beneficia a aquel a quien se le otorgue.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 308.
 
-El otorgamiento del perdón solo operará, para los efectos señalados, respecto de hechos que puedan ser o hayan sido tipificados en relación con las siguientes figuras típicas:
+El otorgamiento del perdón solo operará, para los efectos señalados, respecto de hechos que puedan ser o hayan sido tipificados en relación con las siguientes figuras típicas, consideradas como delitos de querella:
 
 I. Lesiones Dolosas, previstas en el artículo 10, fracciones I, II, III y IV;
 
@@ -3031,7 +3081,9 @@ XIII. Abuso de Confianza, prevista en el artículo 46;
 
 XIV. Fraude, prevista en el artículo 47;
 
-XV. Despojo Urbano, prevista en el artículo 51;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+XV. Despojo previsto en el Artículo 50;
 
 XVI. Daño en las Cosas Doloso, prevista en el artículo 52;
 
@@ -3047,9 +3099,13 @@ XXI. Homicidio Culposo, prevista en los párrafos primero y segundo del artícul
 
 XXII. Aborto Culposo, previsto en los párrafos primero y segundo el artículo 93;
 
-XXIII. Lesiones Culposos, previstas los párrafos primero y segundo, fracciones I y II, del artículo 94; y (sic)
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-XXIV. Daño en las Cosas Culposo, prevista en los párrafos primero y segundo, del artículo 95;
+XXIII. Lesiones culposas previstas en el Artículo 94, con excepción de lo dispuesto en el último párrafo;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+XXIV. Daño en las Cosas Culposo, previsto en el Artículo 95 con excepción de lo dispuesto en el último párrafo; y
 
 > <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2006)</small>
 
@@ -3111,7 +3167,7 @@ Asimismo, en el oficio mediante el cual se ejercite la acción penal, el Ministe
 
 En caso de que en la fase de averiguación previa se haya otorgado al indiciado el beneficio de la libertad provisional bajo caución, se anexará al expediente el documento correspondiente a la garantía exhibida.
 
-La autoridad judicial no dará trámite a la consignación, si el Ministerio Público no cumple con la totalidad de los requisitos establecidos en el presente artículo.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 316.
 
@@ -3267,21 +3323,23 @@ VII. Nombre y firma del juez que dictó la resolución y del secretario o testig
 
 Si dentro del término previsto en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos no se reúnen los requisitos necesarios para dictar el auto de formal prisión, por no haberse comprobado el cuerpo del delito de las figuras típicas consideradas o la probable responsabilidad del indiciado, el juez dictará auto de libertad por falta de elementos. Tal resolución será notificada al Agente del Ministerio Público que ejercitó la acción penal, para que se proceda en los términos establecidos en el Artículo 327.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 337.
 
-El cuerpo del delito se tendrá por comprobado cuando se acredite la existencia de los elementos objetivos que constituyan la materialidad del hecho establecida en la descripción típica correspondiente, especificándose en cada caso los que a continuación se señalan:
+El cuerpo del delito se tendrá por comprobado cuando se acredite la existencia de los elementos objetivos que constituyan la materialidad del hecho establecida en la descripción típica correspondiente.
 
-I. El resultado de afectación, destrucción, disminución o compresión del bien jurídico protegido o su puesta en peligro, como probabilidad asociada a la afectación, destrucción, disminución o compresión de tal bien jurídico, separable en espacio y tiempo de la conducta;
+I. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2007)
 
-II. La víctima del hecho punible, o el titular del bien jurídico protegido por la correspondiente figura típica, tomando en cuenta sus calidades específicas, cuando éstas sean exigibles;
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2007)
 
-III. El inculpado, sea autor, partícipe o cómplice del hecho punible, por haber realizado o colaborado en la realización de la acción u omisión descrita en la figura típica correspondiente, tomando en cuenta sus calidades específicas, y número específico cuando éstas sean exigibles;
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2007)
 
-IV. El objeto de la conducta como la persona o entidad material sobre la que recae la acción u omisión de la figura típica correspondiente;
+IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2007)
 
-V. La acción que es el movimiento corporal descrito en la figura típica correspondiente, adecuada para producir la lesión o puesta en peligro del bien jurídico protegido; o la omisión, que es la no realización de la actividad ordenada en la figura típica correspondiente, adecuada para evitar la lesión o puesta en peligro del bien jurídico protegido; y
+V. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2007)
 
-VI. Las referencias o modalidades que puedan presentarse en las descripciones típicas necesarias para su configuración y relativas a los medios tiempo ocasión y espacio
+VI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2007)
 
 La probable responsabilidad del inculpado se tendrá por acreditada cuando se deduzca su autoría, participación o complicidad en los hechos constitutivos del cuerpo del delito demostrado y que su acción u omisión haya provocado el resultado de afectación o puesta en peligro del bien jurídico tutelado o haya contribuido eficazmente en tal provocación.
 
@@ -3305,9 +3363,13 @@ Cuando exista auto de formal prisión y el hecho punible tipificado tenga señal
 
 Una vez concluido el término establecido para la instrucción, se procederá a declarar cerrada aquélla.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 342.
 
-Si dictado auto de formal prisión los sujetos procesales interesados manifiestan expresamente su conformidad con el mismo o no hicieron valer los recursos correspondientes de impugnación, si a juicio del juez obran en el expediente pruebas suficientes para acreditar el monto de la reparación de los daños y perjuicios ocasionados a que pudiera ser condenado el inculpado, o tales daños y perjuicios han quedado cubiertos a satisfacción de la víctima u ofendidos, se pondrá el expediente a la vista por el término de tres días para ofrecimiento de pruebas. En caso de no promoción o concluido el desahogo de las admitidas, se dictará el auto que declara cerrada la instrucción y se citará a la audiencia final de juicio, en la que el Ministerio Público, la víctima u ofendido, el acusado y su defensor, expresen las conclusiones que correspondan. El juez dictará sentencia en la misma audiencia o en un término no mayor de diez días, tomando en cuenta para la individualización de la pena, las circunstancias atenuantes descritas en la presente legislación.
+Si dictado auto de formal prisión, en caso de figura típica no grave, los sujetos procesales interesados manifiestan expresamente su conformidad con el mismo o no hicieron valer los recursos correspondientes de impugnación, si, a juicio del juez obran en el expediente pruebas suficientes para acreditar el monto de la reparación de los daños y perjuicios ocasionados a que pudiera ser condenado el inculpado, o tales daños y perjuicios han quedado cubiertos a satisfacción de la víctima u ofendidos, se pondrá el expediente a la vista por el término de tres días para ofrecimiento de pruebas.
+
+En caso de no promoción o concluido el desahogo de las admitidas, se dictará el auto que declara cerrada la instrucción y se citará a la audiencia final de juicio, en la que el Ministerio Público, la víctima u ofendido, el acusado y su defensor, expresen las conclusiones que correspondan. El juez dictará sentencia en la misma audiencia o en un término no mayor de diez días, tomando en cuenta para la individualización de la pena, las circunstancias atenuantes descritas en la presente legislación.
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
@@ -3405,15 +3467,19 @@ d) Obrar con abuso de confianza;
 
 e) Pertenecer o haber pertenecido el inculpado a un cuerpo de seguridad pública o privada;
 
-f) Tener el inculpado antecedentes de ser persona conflictiva para la sociedad, según informes que proporcionen al respecto las autoridades policíacas, o ser reincidente, según informes que proporcione al respecto la autoridad encargada de la aplicación de las penas y medidas de seguridad previstas en la presente legislación, a las que la propia autoridad jurisdiccional obtenga por informes de las instituciones del Poder Judicial.
+f) Tener el inculpado antecedentes de ser persona conflictiva para la sociedad, según informes que proporcionen al respecto las autoridades policíacas, o ser reincidente, según informes que proporcione al respecto la autoridad encargada de la aplicación de las penas y medidas de seguridad previstas en la presente legislación, a las que la propia autoridad jurisdiccional obtenga por informes de las instituciones del Poder Judicial;
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-g) Portar cualquier tipo de arma; y
+g) Portar cualquier tipo de arma;
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-h) Realizar la conducta en contra de los ocupantes de un vehículo, ya sea de transporte público o particular.
+h) Realizar la conducta en contra de los ocupantes de un vehículo, ya sea de transporte público o privado; y
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+i) Cuando la víctima sea integrante de una institución policial, o un servidor público de una institución de procuración o administración de justicia o de ejecución de sanciones, conociendo esta circunstancia el inculpado.
 
 ###### Artículo 354.
 
@@ -3439,11 +3505,11 @@ En los casos de concurso ideal, se tendrá en cuenta la punibilidad correspondie
 
 En los casos de concurso real, se impondrán las penas descritas en cada figura típica demostrada, unificándose las mismas en una sola, para efectos de ejecución.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 359.
 
-En los casos de complicidad correspectiva a que se refiere la fracción IV del artículo 127, se aplicará a los responsables hasta la mitad de la punibilidad señalada en la descripción típica que corresponda. Este mismo supuesto se aplicará cuando se opte por el procedimiento previsto en el artículo 342 de la presente legislación, a solicitud expresa del inculpado y/o su defensor.
+En los casos de complicidad correspectiva a que se refiere la fracción IV del Artículo 127, se aplicará a los responsables hasta la mitad de la punibilidad señalada en la descripción típica que corresponda. Este mismo supuesto se aplicará cuando se opte por el procedimiento previsto en el Artículo 342 de la presente legislación y no se trate de figura típica grave, a solicitud expresa del inculpado y/o su defensor.
 
 ###### Artículo 360.
 
@@ -3473,9 +3539,11 @@ La resolución que aclare una sentencia se reputará parte integrante de ella.
 
 La solicitud de aclaración de la sentencia interrumpe el plazo señalado para la apelación de ésta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 365.
 
-La pena de prisión puede ser sustituida por el juez, atendiendo a las condiciones personales del sentenciado, por:
+La pena de prisión puede ser sustituida por el juez, en procesos seguidos por hechos punibles no considerados como figuras típicas graves por esta Legislación, atendiendo a las condiciones personales del sentenciado, por:
 
 I. Multa, cuando no exceda de dos años;
 
@@ -3691,9 +3759,9 @@ Si el testigo no compareciere a declarar, a pesar de haber sido citado legalment
 
 Se comenzará instruyendo al testigo acerca de sus obligaciones y de la importancia y fines de la diligencia en la que participa, así como de la punibilidad establecida en la legislación vigente respecto a las personas que se niegan a declarar o declaran falsamente, y se les tomará la protesta de decir verdad.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-A los menores de dieciocho años de edad, sólo se les exhortará para que se conduzcan con verdad, y a los menores de doce años, se les solicitará información mediante el uso de instrumentos psiquiátricos válidos para ello, por personal capacitado para el efecto, y tal personal entregará a la autoridad correspondiente el resultado obtenido.
+A los menores de dieciocho años de edad, sólo se les exhortará para que se conduzcan con verdad, y a los menores de doce años, se les solicitará información, allegándose el órgano receptor de la prueba, del personal capacitado para el efecto, pudiendo ser un educador o psicólogo infantil, que ilustre a la autoridad, sobre la manera de conducirse hacia el menor, respetándose los derechos del niño o del joven según sea el caso.
 
 El testigo será interrogado sobre sus datos personales y las demás circunstancias útiles para valorar su testimonio. Luego continuará la declaración sobre lo que conozca del hecho punible o las particularidades del inculpado o de la víctima.
 
@@ -3702,6 +3770,10 @@ El testigo será interrogado sobre sus datos personales y las demás circunstanc
 Los testigos declararán de viva voz sin que les sea permitido leer las respuestas que tengan escritas; pero podrán consultar algunas notas o documentos que lleven consigo, cuando sea pertinente según la naturaleza del asunto y a juicio de quien practique la diligencia.
 
 Si la declaración del testigo se realiza durante la fase de averiguación procesal, el Ministerio Público y la defensa tendrán derecho de interrogar, pero el juzgador podrá disponer que los interrogatorios se hagan por su conducto cuando así lo estimen necesario; además, tendrá la facultad de desechar las preguntas que a su juicio sean capciosas e interrogar al testigo sobre los puntos que estime convenientes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+En el caso que el testigo manifieste que puede identificar alguna persona, lo hará en los términos del Artículo 437.
 
 ###### Artículo 398.
 
@@ -3730,6 +3802,32 @@ El tribunal no podrá dejar de examinar durante la instrucción a los testigos p
 ###### Artículo 404.
 
 No se obligará a declarar al tutor, curador, pupilo o cónyuge del inculpado, ni a sus parientes por consanguinidad o afinidad en línea recta ascendente o descendente sin limitación de grados, y en la colateral hasta el cuarto grado inclusive, ni a los que estén ligados con el inculpado por amor, respeto, cariño o estrecha amistad; pero si estas personas tuvieren voluntad de declarar se hará constar esta circunstancia y se recibirá su declaración.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+No estarán obligados a declarar sobre la información que reciban, conozcan o tengan en su poder:
+
+I.- Los abogados, consultores técnicos y los notarios públicos, respecto de los asuntos en los cuales hubieran intervenido y tengan información que deban reservarse para el ejercicio de su profesión;
+
+II.- Los ministros de cualquier culto, con motivo de las confesiones que hubieran recibido en ejercicio del ministerio que presten;
+
+III.- Los periodistas, respecto de los nombres o las grabaciones, registros telefónicos, apuntes, archivos documentales y digitales y todo aquello que de manera directa o indirecta pudiera llevar a la identificación de las personas que, con motivo del ejercicio de su actividad, les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado;
+
+IV.- Las personas o servidores públicos que desempeñen cualquier otro empleo, cargo oficio o profesión, en virtud del cual la Ley les reconozca el deber de guardar reserva o secreto profesional, y
+
+V.- Los médicos cirujanos o especialistas y psicólogos clínicos, respecto de la información concerniente a la salud de sus pacientes, que conozcan con motivo de su ejercicio profesional.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+En caso de que alguna o algunas de las personas comprendidas en las Fracciones anteriores manifiesten su deseo de declarar y cuenten con el consentimiento expreso de quien les confió el secreto, información o confesión, se hará constar dicha circunstancia y se recibirá su declaración o testimonio.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+La reserva de información que, por disposición de la propia Ley, deben guardar los servidores públicos, se hará del conocimiento de la autoridad que requiera la declaración o testimonio y, en todo caso, se estará a lo dispuesto en la Ley que rija las facultades del servidor público correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Al servidor público que viole lo dispuesto en este Articulo, se le aplicarán las penas a que se refiere el Artículo 79 de esta Legislación Penal, pero si el delito es cometido contra la administración, se le aplicarán las penas a que se refiere el Artículo 69 del mismo ordenamiento.
 
 ###### Artículo 405.
 
@@ -3815,6 +3913,10 @@ Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia es
 
 Cuando las opiniones de los peritos discordaren, se nombrará un perito tercero en discordia.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Si a juicio de la autoridad, esta encuentra indicios de mala fe o actuación ilícita, se impondrá al infractor en sentencia una multa igual a la contenida en el delito de la causa en que se actúe, con independencia de otro tipo de responsabilidad que sobrevenga.
+
 Los sujetos procesales interesados estarán facultados para cuestionar a los peritos, en las diligencias de ratificación correspondientes, respecto de las opiniones vertidas en sus dictámenes.
 
 ###### Artículo 422.
@@ -3873,6 +3975,8 @@ Los sujetos procesales interesados tienen el derecho para redargüir de falsedad
 
 ### CAPITULO SEPTIMO. Medios Complementarios
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 433.
 
 La confesión es la aceptación voluntaria llevada a cabo por el inculpado del hecho punible que se le imputa, que haya sido motivo de investigación y previamente acreditado por medios probatorios diversos. Tal aceptación sólo será válida si la emite persona mayor de dieciséis años, en pleno uso de sus facultades mentales, ante el Ministerio Público o el juez de la causa, en presencia de su Defensor y emitida además con las formalidades señaladas por el apartado A del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y de la presente legislación. Se admitirá en cualquiera de las etapas del procedimiento previas al dictado de sentencia irrevocable.
@@ -3881,7 +3985,11 @@ La confesión es la aceptación voluntaria llevada a cabo por el inculpado del h
 
 ###### Artículo 434.
 
-Los careos se practicarán siempre a petición del procesado cuando exista contradicción en las declaraciones vertidas por éste y las de los testigos o del denunciante, y se practicarán siempre en presencia del juez.
+Los careos constitucionales se practicarán siempre a petición del procesado, se (sic) siempre en presencia del juez.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Los careos procesales se practicarán a petición de los sujetos procesales cuando exista contradicción en las declaraciones vertidas y se practicarán siempre en presencia del juez.
 
 Si los hechos motivo del procedimiento fueron tipificados como Secuestro o en relación con las descripciones típicas establecidas en el libro primero, título primero, capítulo segundo de la presente legislación, tales careos no se podrán celebrar.
 
@@ -4025,9 +4133,11 @@ El defensor no podrá desistirse de los recursos interpuestos por él sin mandat
 
 Cuando en el procedimiento hubiese varios procesados, el recurso interpuesto en interés de uno de ellos favorecerá a los demás, siempre que los motivos en que se funde no sean exclusivamente personales.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 459.
 
-La interposición de un recurso suspenderá la ejecución de la decisión, salvo que expresamente se disponga lo contrario.
+La interposición de un recurso suspenderá la ejecución de la decisión impugnada, y si esta se interpusiere durante la instrucción, no se cerrará en tanto se resuelva el recurso interpuesto, procediendo al efecto la autoridad judicial correspondiente con la celeridad que el caso lo exija.
 
 ###### Artículo 460.
 
@@ -4207,7 +4317,9 @@ X. Desaparición Forzada de Personas, prevista en el Artículo 39;
 
 XI. Secuestro, prevista en el Artículo 40, 40A y secuestro exprés, prevista en el Artículo 41;
 
-XII. Robo Calificado, previsto en el Artículo 45, en relación con el Artículo 44, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+XII. Robo Calificado, previsto en el Artículo 45, en relación con el Artículo 44, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado; este mismo supuesto se aplicará al robo simple previsto en el Artículo 44 salvo que se trate de un inculpado que por primera vez se le procesa por este tipo de hecho punible;
 
 XIII. Robo Calificado, prevista en la Fracción XII del Artículo 45, en relación con el Artículo 44, cualquiera que sea el valor de la afectación patrimonial;
 
@@ -4225,11 +4337,17 @@ XIX.- Aborto Culposo, prevista en el Artículo 93, párrafo tercero;
 
 XX.- Lesiones Culposas, previstas en el Artículo 94, penúltimo párrafo, en relación al Artículo 10, Fracciones IV, V y VI;
 
-XXI.- Lesiones previstas en el Artículo 10, cuando se cometan con la circunstancia agravante señalada en el inciso h), párrafo tercero del Artículo 353; y
+XXI.- Lesiones previstas en el Artículo 10, cuando se cometan con la circunstancia agravante señalada en el inciso h), párrafo tercero del Artículo 353; y (sic)
 
-XXII. Atentados al Pudor, previsto en el Artículo 21, cuando la víctima sea menor de doce años.
+XXII. Atentados al Pudor, previsto en el Artículo 21, cuando la víctima sea menor de doce años;
 
-En lo que se refiere a la figura típica de Atentados a la Estética Urbana, se podrá conceder el beneficio de la libertad provisional bajo caución, si el inculpado repara el daño causado, dentro de los diez días siguientes a la fecha en que haya sido puesto a disposición de la autoridad judicial.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+XXIII. Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 69.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+En lo que se refiere a la figura típica de Atentados a la Estética Urbana, se podrá conceder el beneficio de la libertad provisional bajo caución, si el inculpado repara el daño causado, dentro de los treinta días siguientes a la fecha en que haya sido puesto a disposición de la autoridad judicial.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
@@ -4246,6 +4364,10 @@ También tendrá derecho a obtener el beneficio de la libertad provisional bajo 
 Se podrá negar el beneficio de la libertad provisional bajo caución al inculpado que tenga el carácter de reincidente, entendiéndose como tal a la persona que se le haya dictado sentencia condenatoria con anterioridad por algún hecho tipificado en cualquiera de las figuras señaladas en el Artículo 481, o cuando el Ministerio Público compruebe ante el juez que el otorgamiento de la libertad al inculpado representa un riesgo para la víctima u ofendido, o para la sociedad misma, dadas las características personales del inculpado, en relación con su conducta precedente o por las características del hecho punible que se le imputa.
 
 La única documentación válida para acreditar la reincidencia, será la que emita la autoridad judicial respecto de las sentencias ejecutorias que haya dictado en su momento, o con las constancias que para el efecto emita la autoridad ejecutora.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+Para acreditar el riesgo para la víctima, ofendido o la sociedad, bastarán los informes de los archivos policíacos o ministeriales de las dependencias estatales o municipales.
 
 ###### Artículo 485.
 
@@ -4265,9 +4387,11 @@ El certificado correspondiente se depositará en la caja de valores del tribunal
 
 Cuando por razón de la hora o por ser día inhábil no pueda constituirse el depósito directamente en las instituciones mencionadas, la autoridad correspondiente recibirá la cantidad exhibida y la mandará depositar en la Secretaría de Finanzas del Gobierno del Estado el primer día hábil siguiente.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 487.
 
-Cuando la garantía consista en hipoteca, el inmueble propuesto no deberá tener gravamen alguno y su valor fiscal será, cuando menos, de tres veces el monto de la suma fijada como caución. El tribunal ordenará la inscripción de la garantía en el Registro Público de la Propiedad.
+Cuando la garantía consista en hipoteca, el inmueble propuesto no deberá tener gravamen alguno y su valor catastral será, cuando menos, de tres veces el monto de la suma fijada como caución. El tribunal ordenará la inscripción de la garantía en el Registro Público de la Propiedad.
 
 ###### Artículo 488.
 
@@ -4469,7 +4593,9 @@ V. Cuando el Ministerio Público o el Procurador General de Justicia no formulen
 
 VI. Cuando la víctima y ofendido otorgue el perdón a favor del procesado o se le tenga por otorgado en términos de la presente legislación; o
 
-VII. Cuando el Ministerio Público no reformule en un término de seis meses el ejercicio de la acción penal ante el juez que haya negado la orden de aprehensión o citación para declaración preparatoria; o haya decretado libertad por falta de elementos o por desvanecimiento de datos.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+VII. Cuando el Ministerio Público no reformule en un término de seis meses el ejercicio de la acción penal ante el juez que haya negado la orden de aprehensión o citación para declaración preparatoria; resuelto la libertad por falta de elementos, por desvanecimiento de datos, a partir de que 4quede (sic) firme la resolución de primera instancia impugnada, por el Ministerio Público y por alguno de los motivos a que se refiere esta Fracción.
 
 ###### Artículo 514.
 
@@ -4745,15 +4871,19 @@ El período de reintegración se iniciará con la obtención de la libertad prel
 
 La autoridad de los Centros de Reeducación Social concederá discrecionalmente el estímulo que corresponda, dando al sentenciado la oportunidad de elección entre aquellos que hubiese obtenido por su conducta, sin considerar la Preliberación, la Libertad Preparatoria y el Indulto, cuyo otorgamiento se maneja con criterios legales diferentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 557.
 
-La Libertad preparatoria se otorgará al sentenciado cuando se cumplan los siguientes requisitos:
+La libertad preparatoria se otorgará al sentenciado cuando se trate de figura típica no grave y se cumplan los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
 
 I. Que no se trate de interno reincidente, o que no haya sido sentenciado por el delito de secuestro en cualquiera de sus modalidades;
 
-II. Haber cumplido las tres quintas partes de la pena de prisión que se haya aplicado por comisión de delito grave, y las dos quintas partes, en caso de comisión de delito no grave;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
+II. Haber cumplido dos quintas partes de la condena impuesta por el juez de la causa;
 
 III. Haber observado durante su internamiento buena conducta, sin limitarse al simple cumplimiento de los reglamentos del centro, sino también a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo, y que ello revele un afán constante de reeducación social;
 
@@ -4917,9 +5047,13 @@ La muerte del sentenciado extingue la acción penal y la potestad de ejecutar pe
 
 La amnistía extingue la acción penal y la potestad de ejecutar las penas impuestas, a excepción del decomiso, destrucción de los objetos, instrumentos y productos del hecho delictivo, y la reparación de daños y perjuicios. Si aquélla no expresare su alcance, se entenderá que la acción penal y la potestad ejecutiva se extinguen con todos sus efectos, en relación con todos los responsables del hecho delictivo.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 585.
 
-El perdón legal de la víctima u ofendidos en su caso, en los supuestos descritos en la presente Legislación, extingue la potestad de ejecutar penas y medidas de seguridad.
+El perdón de la víctima u ofendidos en su caso, en los supuestos descritos en la presente legislación, y extingue la potestad de imponer penas y medidas de seguridad.
+
+El perdón siempre deberá ser otorgado para que tenga efectos legales ante el Juez que conoció del proceso en presencia del Ministerio Público.
 
 ###### Artículo 586.
 
@@ -5180,3 +5314,13 @@ P.O. 23 DE JULIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales que en cualquier instancia estén en trámite al iniciar la vigencia de este Decreto, se tramitarán con las disposiciones de carácter general que estuvieran vigentes al momento del inicio de dichos procedimientos.
