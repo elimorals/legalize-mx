@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-turismo-del-estado-de-guerrero-38161"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-24"
-last_updated: "2007-11-27"
+last_updated: "2007-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 137, DE TURISMO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 24 de febrero de 2004.
 
@@ -383,43 +383,49 @@ El Titular de la Secretaría de Fomento Turístico presidirá el Comité Técnic
 
 ### CAPITULO IV. DEL FIDEICOMISO DE PROMOCION Y DE FOMENTO TURISTICO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 36.
 
-El Fideicomiso de Promoción y de Fomento Turístico participará en la programación, fomento y desarrollo del turismo de acuerdo con lo dispuesto por esta Ley, por la Ley de Planeación, así como las normas, prioridades y políticas que determine el Gobierno del Estado a través de la Secretaría de Fomento Turístico.
+Se constituirán en los principales Municipios con vocación turística del Estado Fideicomisos de Promoción Turística en los que el Fideicomitente sea el Gobierno del Estado y, que serán creados mediante acuerdos emitidos por el Gobernador del Estado, y publicados en el Periódico Oficial.
 
-El Fideicomiso tendrá un Comité Técnico integrado por:
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
-I.- El Secretario de Fomento Turístico, quien lo presidirá y tendrá voto de calidad;
+Artículo 36 BIS.- Los Fideicomisos Municipales de Promoción Turística, contaran con un Comité Técnico que se conformará como mínimo con los integrantes que a continuación se describen:
 
-II.- El Secretario de Desarrollo Social;
+A. Integrantes con voz y voto;
 
-III.- El Secretario de Finanzas y Administración;
+I. El C. Gobernador del Estado, en calidad de Presidente Honorario, cuya suplencia la ocuparía quien él designe; mismo que en caso de ser necesario contará con voto de calidad.
 
-IV.- Un representante del H. Ayuntamiento de Acapulco de Juárez, Guerrero;
+II. Un Presidente de Comité, designado por el titular del Poder Ejecutivo, en el Estado.
 
-V.- Un representante del H. Ayuntamiento de José Azueta;
+III. Un Secretario, designado por el Titular del Poder Ejecutivo en el Estado.
 
-VI.- Un representante del H. Ayuntamiento de Taxco de Alarcón;
+IV. El Secretario de Finanzas y Administración del Estado, en calidad de vocal, cuya suplencia la ocupará, quien él designe.
 
-VII.- El Presidente del Consejo Consultivo Turístico del Estado de Guerrero;
+V. El Secretario de Fomento Turístico del Estado, en calidad de vocal, cuya suplencia la ocupará quien él designe.
 
-VIII.- Siete miembros de la sociedad civil que serán designados a propuesta de las Asociaciones de Hoteleros que a juicio de los integrantes del Comité, tengan mayor representatividad en los destinos turísticos; y
+VI. El Presidente Municipal de la entidad que corresponda, en calidad de vocal, cuya suplencia la ocupará el Director de Turismo Municipal o quien el propio Presidente Municipal designe.
 
-IX.- Un representante de la institución fiduciaria dentro de la cual se encuentre constituido el Fideicomiso, quien concurrirá a las sesiones con voz pero sin voto, al igual que el Director General del Fideicomiso.
+VII. Por los representantes de organizaciones de prestadores de servicios turísticos, en lo que respecta a Propietarios y/o Administradores de Hoteles, restaurantes y discotecas, existentes en el municipio que corresponda, quienes se integraran en calidad de vocal.
 
-Podrán formar parte del Comité Técnico con voz, los Presidentes de las Oficinas de Convenciones y Visitantes de Acapulco, Ixtapa – Zihuatanejo y Taxco de Alarcón.
+B. Integrantes con Voz;
 
-El Comité Técnico podrá ampliar en todo momento su integración, siempre y cuando guarde la proporcionalidad entre representantes de los sectores público y privado que se señalan en el párrafo anterior.
+I. Por representantes de organizaciones, en lo que respecta a desarrolladores inmobiliarios, comerciantes, transportistas, agencias de viajes, y propietarios o administradores de condominios.
 
-Cada representante propietario acreditará ante el Comité a sus respectivos suplentes.
+II. Por el Presidente de la Comisión de Turismo del Congreso del Estado o el miembro de la Comisión que el mismo Presidente designe.
 
-El Fideicomiso contará con un Comisario designado por la Contraloría General del Estado.
+La estructura descrita no es limitativa en cuanto al número de integrantes que se podrán considerar para la conformación de los Fideicomisos Municipales de Promoción Turística, quedando al libre albedrío del Comité Técnico determinar la cantidad conveniente de representantes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 37.
 
-El Patrimonio del Fideicomiso de Promoción y Fomento Turístico se integrará con:
+El Patrimonio los Fideicomisos de Promoción Turística se integrará con:
 
-I.- Las aportaciones al Gobierno del Estado que para promoción y desarrollo turístico realice el Gobierno Federal;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+l.- Los Ingresos que en el Municipio de que se obtengan por concepto del Impuesto sobra la Prestación de Servicios de Hospedaje en los términos que señale la Ley de Hacienda del Estado de Guerrero Número 428;
 
 II.- Las aportaciones que, en su caso, realicen los Gobiernos Estatal y Municipales;
 
@@ -429,39 +435,35 @@ IV.- Los recursos que el propio Fideicomiso genere; y
 
 V.- Los demás recursos que obtengan por cualquier otro título legal.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 38.
 
-El Fideicomiso de Promoción y Fomento Turístico tendrá los siguientes objetivos:
+Los Fideicomisos para Promoción Turística, tendrán los siguientes objetivos:
 
-I.- Coadyuvar en el diseño de los planes, programas, estrategias y prioridades en materia de promoción y desarrollo turístico en el marco de la Ley de Planeación del Estado de Guerrero y del Programa del Sector;
+I. Creación de fondos autónomos, custodiados, invertidos y administrados por el Fiduciario, destinados única y exclusivamente al financiamiento y pago de actividades vinculadas a la promoción turística nacional e internacional de los municipios en que se constituyan.
 
-II.- Realizar trabajos y estudios relativos al cumplimiento de sus objetivos;
+II. Planear, organizar, ejecutar, desarrollar, supervisar y evaluar programas de promoción y publicidad efecto de incrementar cuantitativa y cualitativamente los flujos turísticos hacia los destinos turísticos que correspondan.
 
-III.- Proporcionar por cualquier medio, información turística especializada a los turistas nacionales y extranjeros que pretendan visitar los destinos y atractivos turísticos del Estado;
+III. Coadyuvar con el Gobierno del Estado en el diseño de los planes, programas, estrategias y prioridades en materia de promoción y desarrollo turístico en el marco de la Ley de Planeación para el Estado de Guerrero y del Programa del Sector.
 
-IV.- Proporcionar bienes o servicios inherentes a sus objetivos;
+IV. Realizar trabajos y estudios relativos al cumplimiento de sus objetivos.
 
-V.- Obtener recursos complementarios, económicos, técnicos y materiales, en territorio nacional o en el exterior para el desarrollo de sus objetivos;
+V. Proporcionar por cualquier medio, información turística especializada a los turistas nacionales y extranjeros que pretendan visitar los destinos y atractivos turísticos del Estado.
 
-VI.- Suscribir convenios para instrumentar campañas de promoción y desarrollo turístico;
+VI. Proporcionar bienes o servicios inherentes a sus objetivos.
 
-VII.- Fomentar con la participación de los sectores público y privado la promoción de los atractivos y servicios turísticos del Estado; y
+VII. Suscribir convenios para instrumentar campañas de promoción y desarrollo turístico.
 
-VIII.- Todas aquellas que sean necesarias para la realización de sus objetivos.
+VIII. Fomentar con la participación de los sectores público y privado la promoción de los atractivos y servicios turísticos del Estado.
 
-Sin perjuicio de lo anterior y en los términos que señala la Ley Federal de Turismo, el Fideicomiso podrá asumir funciones operativas, previo acuerdo de coordinación con los Gobiernos Federal y Municipales para:
+IX. Todas aquellas que sean necesarias para la realización de sus objetivos.
 
-I.- Elaborar y ejecutar programas de desarrollo turístico local acordes con el programa sectorial turístico del Gobierno Federal;
-
-II.- Crear los medios de apoyo y fomento a la inversión en materia turística en la Entidad Federativa o Municipio de que se trate;
-
-III.- Promover y coordinar las obras y servicios públicos necesarios para la adecuada atención al turista y al propio desarrollo urbano turístico de la comunidad; y
-
-IV.- Promover la planeación, programación, fomento y desarrollo del turismo en forma armónica y la observancia de las disposiciones emanadas de la presente Ley.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 39.
 
-El Fideicomiso de Promoción y Fomento Turístico para el logro de sus objetivos se podrá coordinar con las Oficinas de Convenciones y Visitantes de Acapulco, Ixtapa – Zihuatanejo y Taxco de Alarcón.
+Los Fideicomisos de Promoción Turística que se establezcan con sujeción a esta Ley coordinaran esfuerzos con las diversas entidades de Promoción Turística y, de Convenciones que la Iniciativa Privada, los Gobiernos Federal, Estatal o Municipal tengan en cada caso establecidas en los principales Municipios con vocación turística del Estado.
 
 ### CAPITULO V. DE LA CAPACITACION TURISTICA
 
@@ -782,6 +784,12 @@ Rúbrica.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 25 DE DICIEMBRE DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
