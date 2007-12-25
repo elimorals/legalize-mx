@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "2006-08-01"
+last_updated: "2007-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
@@ -2599,17 +2599,23 @@ Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones 
 
 ## TITULO DECIMO
 
-### CAPITULO PRIMERO. DE LA JUSTICIA MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+### CAPITULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 206.
 
-Los actos y resoluciones dictadas por el Ayuntamiento, podrán ser impugnados ante el Tribunal de lo Contencioso Administrativo cuando afecten intereses jurídicos de los particulares.
+La Justicia Administrativa en los municipios del Estado de Guanajuato se imparte a través de los Juzgados Administrativos Municipales, conforme a las disposiciones del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
-Los actos y resoluciones dictadas por el presidente municipal y por las dependencias y entidades de la administración pública municipal, podrán ser impugnados mediante el recurso de inconformidad cuando afecten intereses jurídicos de los particulares.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
-El particular afectado, en su caso, impugnará las resoluciones a que se refiere el párrafo anterior ante los Juzgados Administrativos Municipales, antes de acudir al Tribunal de lo Contencioso Administrativo.
+Artículo 206 A.- Los actos y resoluciones administrativas dictadas por el Ayuntamiento, podrán ser impugnados ante el Tribunal de lo Contencioso Administrativo cuando afecten intereses de los particulares.
+
+Los actos y resoluciones administrativas dictadas por el Presidente Municipal y por las dependencias y entidades de la Administración Pública Municipal podrán ser impugnados ante los Juzgados Administrativos Municipales, cuando afecten intereses de los particulares.
+
+Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al proceso administrativo podrán ser impugnados por las partes, mediante el recurso de revisión ante las Salas del Tribunal de lo Contencioso Administrativo.
 
 ###### Artículo 207.
 
@@ -2623,79 +2629,41 @@ El particular afectado, en su caso, impugnará las resoluciones a que se refiere
 
 ###### Artículo 209.
 
-El recurso de inconformidad, se tramitará conforme al procedimiento establecido en esta Ley y en lo no previsto por la misma, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado de Guanajuato.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 210.
 
-El recurso de inconformidad, se interpondrá por escrito, dentro del término de diez días hábiles siguientes a la fecha en que el acto haya ocurrido o se tenga conocimiento del mismo, o bien, haya surtido efectos la notificación de la resolución que se impugna.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 211.
 
-El escrito a través del cual se interponga el recurso de inconformidad, contendrá los siguientes requisitos:
-
-I.- Nombre y domicilio del recurrente;
-
-II.- La autoridad que realizó el acto o emitió la resolución impugnada, indicando con claridad en que consiste;
-
-III.- La fecha en que el acto o resolución le fue notificada o tuvo conocimiento del mismo;
-
-IV.- Exposición suscinta (sic) de los motivos de inconformidad;
-
-V.- Relación de pruebas que ofrezca, para justificar los hechos en que se apoya el recurso; y
-
-VI.- Los documentos que justifiquen la personalidad del promovente, cuando el recurso se interponga por el representante legal o mandatario del inconforme.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 212.
 
-Recibido el escrito de inconformidad ante el Juzgado Administrativo Municipal, se correrá traslado a la autoridad demandada por el término de cinco días hábiles; transcurrido dicho término, se haya dado o no contestación a la demanda, se abrirá un periodo de pruebas de diez días hábiles, a efecto de que se desahoguen aquéllas que se hayan ofrecido y admitido.
-
-Si por la naturaleza de las pruebas, el término anterior resulta insuficiente, se podrá ampliar por el lapso que se estime prudente, únicamente para desahogar las que fueron admitidas.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 213.
 
-Concluido el período de pruebas, la autoridad, dentro del término de cinco días hábiles, dictará resolución, la que podrá:
-
-I.- Reconocer la validez del acto impugnado;
-
-II.- Declarar total o parcialmente, la nulidad del acto impugnado; y
-
-III.- Decretar la nulidad del acto para determinado efecto, debiendo precisar con claridad la forma y término en que la autoridad deberá cumplirla, salvo que se trate de facultades discrecionales.
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
-
-IV.- Modificar el acto o resolución impugnada; y
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
-
-V.- En su caso, imponer la condena que corresponda.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 214.
 
-Serán personales, las notificaciones siguientes:
-
-I.- El auto de admisión del recurso;
-
-II.- El auto de admisión de pruebas; y
-
-III.- La resolución que ponga fin al recurso.
-
-La notificación personal se hará directamente al recurrente, si acude a las oficinas de la autoridad, o en el domicilio señalado para tal efecto, o bien, por correo certificado con acuse de recibo; las demás notificaciones se harán por estrados.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 215.
 
-Podrá suspenderse la ejecución del acto reclamado, cuando no se afecte el interés público y se garanticen suficientemente, mediante fianza o depósito fijado por la autoridad, los posibles daños o perjuicios que pudieran causarse al confirmarse la resolución impugnada.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO TERCERO. DE LOS JUZGADOS ADMINISTRATIVOS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 216.
 
-Los Juzgados Administrativos Municipales son los órganos jurisdiccionales de control de legalidad en los municipios, dotados de autonomía para dictar sus fallos; quienes conocerán y resolverán el recurso de inconformidad promovido por los particulares sobre los actos y resoluciones a que se refiere el artículo 206 de esta Ley.
+Los Juzgados Administrativos Municipales son depositarios de la función jurisdiccional del Municipio, están dotados de plena autonomía para dictar sus fallos, así como de plena jurisdicción e imperio para hacer cumplir sus resoluciones, siendo órganos de control de legalidad que tienen a su cargo dirimir las controversias administrativas que se susciten entre la Administración Pública Municipal y los gobernados.
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
 
@@ -2878,3 +2846,11 @@ P.O. 1 DE AGOSTO DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Los ayuntamientos contarán con un plazo de 120 ciento veinte días contados a partir de la entrada en vigor del presente decreto, para adecuar los reglamentos, bandos de policía y buen gobierno, circulares y demás disposiciones administrativas de observancia general al contenido del mismo.
+
+P.O. 25 DE DICIEMBRE DE 2007.
+
+Artículo Primero. El presente decreto entrará en vigencia el uno de enero de dos mil ocho.
+
+Artículo Segundo. Los asuntos que actualmente estén pendientes de resolverse ante los Juzgados Administrativos Municipales, se tramitarán con base en lo dispuesto por los Capitulas Primero, Segundo y Tercero del Título Décimo de la Ley Orgánica Municipal para el Estado de Guanajuato que se encontraban vigentes al momento de su inicio, hasta su debida conclusión.
+
+Artículo Tercero. En los municipios que aún no cuenten con Juzgado Administrativo Municipal, los particulares podrán impugnar directamente ante el Tribunal de lo Contencioso Administrativo, los actos y resoluciones administrativas a que se refiere el párrafo segundo del articulo 206-A.
