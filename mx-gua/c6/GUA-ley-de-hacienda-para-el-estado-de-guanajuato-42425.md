@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2005-06-10"
+last_updated: "2007-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -121,25 +121,35 @@ XII.- Las prestaciones de servicio de comedor, bono de transporte, uniformes de 
 
 XIII.- Primas de seguros por gastos médicos o de vida; y
 
-XIV.- Las despensas en dinero o en especie, cuando representen más del 40% del salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+XIV.- Las despensas en dinero o en especie, cuando su monto no rebase el 40% del salario mínimo general vigente en el Estado.
 
 ###### Artículo 5.
 
 Este impuesto se determinará de acuerdo con la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 6.
 
-Este impuesto se causará en el momento que se realicen las erogaciones que constituyen su objeto y su pago deberá realizarse en los lugares, medios y formas autorizados por la Secretaría de Finanzas y Administración, mediante declaración mensual, a más tardar el día 17 del mes siguiente al que corresponda el impuesto declarado.
+Este impuesto se causará en el momento en que se realicen las erogaciones que constituyen su objeto y su pago deberá realizarse mediante declaración mensual, a más tardar el día 22 del mes siguiente al que corresponda el impuesto declarado.
 
 El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
 
-La obligación de presentar la declaración mensual subsistirá aún cuando no hubiese cantidad a cubrir.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
-El contribuyente que tenga diversas sucursales en el territorio del Estado, podrá optar por realizar un solo pago concentrado por todas sus oficinas en una declaración, previa autorización de la autoridad fiscal, debiendo anexar a cada pago concentrado una relación de todas las sucursales con que cuente, indicando para cada una, su domicilio, número de empleados e importe de salarios pagados en el período de la declaración y el monto del impuesto correspondiente.
+Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+El contribuyente que tenga diversas sucursales en el territorio del Estado, podrá optar por realizar un solo pago concentrado por todas sus oficinas en una declaración, presentando aviso a la autoridad fiscal para ejercer la opción, dentro de los primeros treinta días del inicio del ejercicio fiscal, acompañado de una relación de todas las sucursales con que cuente, indicando para cada una, su domicilio y número de empleados.
 
 Los contribuyentes que realicen pagos concentrados deberán tener un solo registro por la matriz y sus sucursales.
 
-En caso de que se modifique el número de sucursales, se deberá presentar nueva solicitud de autorización de pagos concentrados.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+En caso de que se modifique el número de sucursales, se deberá presentar un aviso de cambio de dicha situación dentro de los veinte días siguientes al en que se de el supuesto.
 
 ###### Artículo 7.
 
@@ -221,15 +231,25 @@ Para los efectos de esta Sección se consideran ingresos por servicios profesion
 
 En lo relativo a los ingresos y a las deducciones de este impuesto se atenderá, adicionalmente a lo previsto en esta Ley, lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos II, Sección I y X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 16.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas por la Secretaría de Finanzas y Administración.
+Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el impuesto declarado.
 
-El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo a que se refiere el artículo anterior. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
+El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas del mismo periodo. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
 
-Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener por concepto del impuesto correspondiente, el monto que resulte de aplicar la tasa del 2%, sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 6 de esta Ley. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
+Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
 
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas autorizadas.
+Contra el pago provisional determinado conforme a este artículo, se acreditarán los pagos provisionales y el impuesto retenido del mismo ejercicio efectuados con anterioridad.
+
+Cuando los contribuyentes presten servicios profesionales a personas morales, éstas deberán retener por concepto del impuesto correspondiente, el total del monto que resulte de aplicar a sus pagos efectuados la tasa establecida para dicho tributo en la Ley de Ingresos para el Estado de Guanajuato, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse en el mismo periodo que se establece para el pago de este impuesto.
+
+Cuando los contribuyentes presten servicios profesionales a personas morales, y aquéllos tengan domicilio fiscal dentro del territorio del. Estado, la retención por parte de las personas morales a que hace referencia el presente artículo, se hará por el cincuenta por ciento del monto que resulte de aplicar la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, sin deducción alguna.
+
+Las personas que efectúen las retenciones a que se refiere el presente artículo, deberán presentar declaración ante las oficinas autorizadas a más tardar el día 28 de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
 
 ###### Artículo 17.
 
@@ -269,19 +289,23 @@ Para los efectos de esta Sección, los ingresos en crédito se declararán y se 
 
 En lo relativo a los ingresos y deducciones de este impuesto cedular, se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos III y X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 21.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas por la Secretaría de Finanzas y Administración.
+Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago.
 
-El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo a que se refiere el artículo anterior. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
+El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo, a que se refiere el artículo anterior. Al resultado que se obtenga, se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, acreditándose el impuesto retenido durante el periodo.
+
+Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
 
 Tratándose de subarrendamiento, sólo se considerará la deducción por el importe de las rentas del mes que pague el subarrendador al arrendador.
 
-Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 2% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas por el artículo 6 de esta Ley. El impuesto retenido en los términos de este párrafo podrá acreditarse contra el que resulte de conformidad con el segundo párrafo de este artículo.
+Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales con domicilio fiscal dentro del territorio del Estado de Guanajuato, éstas deberán retener por concepto del impuesto correspondiente, el equivalente al cincuenta por ciento del monto que resulte de aplicar la tasa establecida para dicho tributo en la Ley de Ingresos para el Estado de Guanajuato; sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse en el mismo periodo que se establece para el pago de éste impuesto.
 
-Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración ante las oficinas autorizadas a más tardar el día 28 de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
+Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración ante las oficinas autorizadas a más tardar el día 28 de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en .el año de calendario inmediato anterior.
 
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas autorizadas.
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
 
 ###### Artículo 22.
 
@@ -311,15 +335,21 @@ Las personas físicas no residentes en el Estado que tengan uno o varios estable
 
 En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y al Capítulo II, Secciones I, II y Capítulo X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 25.
 
-Los contribuyentes a que se refieren los artículos 23 y 26 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas por la Secretaría de Finanzas y Administración.
+Los contribuyentes a que se refieren los artículos 23 y 26 dé esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago.
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas correspondientes al mismo periodo, a que se refiere el artículo anterior y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieren disminuido. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
 
 Contra el pago provisional determinado conforme a este artículo, se acreditarán los pagos provisionales del mismo ejercicio efectuados con anterioridad.
 
 Los pagos mensuales efectuados conforme a este artículo, también serán acreditables contra el impuesto del ejercicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
 
 El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas autorizadas.
 
@@ -331,9 +361,15 @@ Los contribuyentes que realicen exclusivamente actividades empresariales, cuyos 
 
 Las personas físicas que realicen actividades empresariales, que únicamente enajenen bienes o presten servicios al público en general, siempre que los ingresos propios de su actividad empresarial y los intereses obtenidos en el año de calendario anterior, no hubieran excedido de la cantidad de $2'000,000.00, podrán optar por aplicar las disposiciones de la Sección III, Capítulo II, Título IV, de la Ley del Impuesto sobre la Renta, correspondiente al Régimen de Pequeños Contribuyentes.
 
-Los contribuyentes a que se refiere el párrafo anterior, efectuarán pagos bimestrales definitivos, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas por la Secretaría de Finanzas y Administración. El pago definitivo se determinará restando de la totalidad de los ingresos a que se refiere esta Sección obtenidos en el periodo que declara un monto equivalente a cuatro veces el salario mínimo general en el Estado de Guanajuato elevado al período que declara.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+Los contribuyentes a que se refiere el párrafo anterior, efectuarán pagos bimestrales definitivos, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago. El pago definitivo se determinará restando de la totalidad de los ingresos a que se refiere esta Sección obtenidos en el periodo que declara un monto equivalente a cuatro veces el salario mínimo general en el Estado de Guanajuato elevado al periodo que declara.
 
 Al resultado que se obtenga conforme al párrafo anterior, se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, o bien, podrán aplicar la cuota fija que determine la Secretaría de Finanzas y Administración, la cual deberá ser publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato, en el mes de enero de cada año.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
 
 ###### Artículo 28.
 
@@ -423,15 +459,21 @@ Este impuesto se causará en el momento del pago por la prestación del servicio
 
 Este impuesto no se causa por los servicios de albergue o alojamiento prestados por hospitales, clínicas o sanatorios, conventos, asilos, seminarios, internados u orfanatos, casas de huéspedes sin fines turísticos y de beneficencia o asistencia social.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 43.
 
-El impuesto se pagará mediante declaraciones definitivas que deberán presentar los contribuyentes en la forma oficial aprobada, ante las Oficinas Recaudadoras a más tardar el día 15 del mes siguiente a aquél en que se perciban las contraprestaciones que dan origen al pago del impuesto.
+El impuesto se pagará mediante declaraciones definitivas, a más tardar el día 22 del mes siguiente a aquél en que se perciban las contraprestaciones que dan origen al pago del impuesto.
+
+Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
 
 ###### Artículo 44.
 
 Los contribuyentes de este impuesto además de las obligaciones señaladas en el Código Fiscal para el Estado, tendrán las siguientes:
 
-I.- Solicitar su inscripción dentro de los 15 días siguientes a la iniciación de operaciones, en el registro estatal de contribuyentes ante la Oficina Recaudadora que corresponda a su domicilio fiscal, mediante la forma aprobada, proporcionando la información que se les solicite para tales efectos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+I.- Solicitar su inscripción al Registro Estatal de Contribuyentes;
 
 II.- Presentar los avisos, documentos, datos o información que le soliciten las autoridades fiscales, dentro de los plazos y en los lugares señalados para tales efectos; y
 
@@ -471,6 +513,8 @@ El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destina
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS DE TRÁNSITO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 49.
 
 Los derechos por la prestación de servicios públicos que presten las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque por parte del Estado el gasto que deba ser remunerado por aquél, salvo el caso en que la disposición que fije el Derecho, señale cosa distinta.
@@ -491,7 +535,7 @@ Estarán exentos del pago de derechos estatales: la Federación, el Estado y los
 
 ###### Artículo 53.
 
-Toda persona al adquirir un vehículo, deberá registrarlo a su nombre, presentando el aviso de alta en la Oficina Recaudadora, correspondiente a su domicilio, previo el pago de los derechos e impuestos respectivos, dentro de los diez días hábiles siguientes a la fecha de adquisición. La presentación extemporánea del citado aviso o del canje, en su caso será sancionada con multa de 1.5 días de salario mínimo general que corresponda.
+Toda persona al adquirir un vehículo, deberá registrarlo a su nombre, presentando el aviso de alta en la Oficina Recaudadora correspondiente a su domicilio, previo el pago de los derechos e impuestos respectivos, dentro de los diez días hábiles siguientes a la fecha de adquisición.
 
 Los documentos que acrediten el registro e identificación del vehículo deberán ser refrendados anualmente, dentro de los tres primeros meses del año, y en forma simultanea con el pago del Impuesto Sobre Tenencia o Uso de Vehículos.
 
@@ -527,7 +571,9 @@ VIII.- Recuperación de vehículo robado; y
 
 IX.- Baja ocasionada por destrucción o desarme.
 
-Los avisos anteriores se presentarán ante la Oficina Recaudadora correspondiente, dentro de los diez días hábiles siguientes a la fecha de realización del supuesto de que se trate, con excepción del aviso de cambio de domicilio, el cual deberá presentarse dentro de los treinta días siguientes; su presentación extemporánea será sancionada con multa de 1.5 días de salario mínimo general que corresponda.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+Los avisos anteriores se presentarán ante la Oficina Recaudadora correspondiente, dentro de los diez días hábiles siguientes a la fecha de realización del supuesto de que se trate, con excepción del aviso de cambio de domicilio, el cual deberá presentarse dentro de los treinta días siguientes.
 
 Para obtener la baja definitiva del vehículo en los casos de cambio de propietario, cambio de domicilio fuera del Estado, por destrucción, desarme y por cambio en el servicio a que se destine el vehículo, será preciso comprobar que no se tienen adeudos con el Fisco del Estado y devolver las placas y tarjeta de circulación respectiva.
 
@@ -808,3 +854,9 @@ P.O. 10 DE JUNIO DE 2005.
 Artículo Primero.- El presente decreto iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2007.
+
+Artículo Primero. El presente decreto entrará en vigor a partir del uno de enero del 2008 dos mil ocho, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales, que se opongan al presente decreto.
