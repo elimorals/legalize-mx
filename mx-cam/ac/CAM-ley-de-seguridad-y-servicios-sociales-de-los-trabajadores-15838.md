@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "2005-06-30"
+last_updated: "2007-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -379,17 +379,35 @@ El sueldo que se tomará como base para los efectos de esta Ley, se integrará c
 
 Tratándose de las aportaciones cubiertas por los ingresos percibidos bajo la nómina de compensación y para poder percibir en cuanto a dichos montos los derechos a las prestaciones que esta Ley señala, será necesario que el servidor público hubiere realizado aportaciones por este concepto durante un mínimo de cinco años; en caso de no cumplirse dicho término, las prestaciones a que se refiere este párrafo se cubrirán obteniendo la proporción porcentual correspondiente entre el término aquí señalado y aquél durante el cual se hubiere venido percibiendo la prestación.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 30.
 
-Los servidores públicos y los jubilados y pensionados deberán aportar al Instituto una cuota del 6% del sueldo base o de la pensión que disfruten, para tener derecho a las prestaciones que esta Ley les confiere.
+Los trabajadores aportarán el 8.5% del sueldo de cotización, más la cuota que establezca para los asegurados la institución a la que se subroguen las prestaciones, conforme al artículo 6. El 8.5% del sueldo de cotización se distribuirá de la siguiente forma:
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1991)</small>
+I. El 7% para el financiamiento del Sistema de Pensiones y Seguros;
+
+II. El 0.5% para el financiamiento de Prestaciones Sociales y Culturales; y
+
+III. El 1% para el financiamiento de los gastos generales de administración.
+
+En caso de que el Instituto no subrogue las prestaciones, el Consejo Directivo fijará anualmente el importe de las cuotas a cargo de los servidores públicos.
+
+Los pensionados aportarán una cuota equivalente al 6% del monto total de la pensión que se les otorgue.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 31.
 
-Las entidades públicas cubrirán al Instituto como aportación, un 18.30 por ciento del sueldo Base Nominal de los servidores públicos, el cual será aplicado en un 4 por ciento para el pago de las prestaciones a que se refiere el Artículo 6 de esta Ley en sus fracciones II, III, V y VI, y el restante 14.30 por ciento se destinará para los servicios médicos a que se refiere la fracción I del mencionado artículo 6.
+Las Entidades Públicas aportarán el 13.5% del sueldo de cotización, más la cuota patronal y la que en su caso corresponda al Gobierno Federal que establezca la institución a la que se subroguen las prestaciones, conforme al artículo 6. Las aportaciones del 13.5% del sueldo de cotización se distribuirán de la siguiente forma:
 
-La aportación de las entidades públicas se modificará en la proporción en que varíe el costo de los servicios médicos.
+I. El 12% para el financiamiento del Sistema de Pensiones y Seguros;
+
+II. El 0.5% para el financiamiento de Prestaciones Sociales y Culturales; y
+
+III. El 1% para el financiamiento de los gastos generales de administración.
+
+En caso de que el Instituto no subrogue las prestaciones, el Consejo Directivo fijará anualmente el importe de las aportaciones a cargo de las Entidades Públicas.
 
 ###### ARTICULO 32.
 
@@ -1014,3 +1032,13 @@ P.O. 30 DE JUNIO DE 2005.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2007.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 2008, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- Las cuotas que, conforme al artículo 30, los trabajadores deban aportar al Instituto, en adición a las que correspondan a la institución subrogatoria de las prestaciones, iniciarán con el 3.5% del sueldo de cotización y se incrementarán anualmente en el 1% del sueldo de cotización, hasta alcanzar el 8.5%.
+
+Cuarto.- Las aportaciones que, conforme al artículo 31, deben cubrir las Entidades Públicas al Instituto, en adición a las que correspondan a la institución subrogatoria de las prestaciones, iniciarán con el 6% del sueldo de cotización y se incrementarán anualmente en el 1.5% del sueldo de cotización, hasta alcanzar el 13.5%.
