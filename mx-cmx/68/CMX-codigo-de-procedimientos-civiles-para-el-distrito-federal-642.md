@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2007-11-08"
+last_updated: "2007-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2007.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2942,7 +2942,9 @@ IV.- Cuando se trate de juicios sumarios, especiales, o cualquier otro tipo de c
 
 V.- Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, se designará al perito tercero en discordia tomando en cuenta lo ordenado por el artículo 349 de este código;
 
-VI.- La falta de presentación del escrito del perito del oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que el juez designe perito en rebeldía del oferente. Si la contraria no designare perito, o el perito por ésta designado, no presentara el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Vl.- La falta de presentación del escrito del perito del oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que el juez prevenga por una sola vez a la parte que ofreció la prueba, para que, en un plazo de tres días, vuelva a presentar a su perito original, o bien a otro. De no designar perito nuevamente, o el perito por aquel designado, no presentase el escrito de aceptación y protesta del cargo, el juez declarará desierta la prueba pericial, en perjuicio del propio oferente. Si la contraria no designare perito, o el perito por ésta designado, no presentara el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente.
 
 En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III o IV, según corresponda.
 
@@ -8329,3 +8331,13 @@ G.O. 8 DE NOVIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 26 DE DICIEMBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta del Gobierno del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
