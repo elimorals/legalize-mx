@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2007-12-03"
+last_updated: "2007-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4355,17 +4355,17 @@ II. Que se cuente con transporte seguro, eficiente y de calidad.
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-II. La Secretaría de Comunicaciones a quien corresponden las atribuciones relativas a las comunicaciones de jurisdicción local;
+II. La Secretaría de Comunicaciones a quien corresponden las atribuciones relativas a la infraestructura de las comunicaciones de jurisdicción local;
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-III. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público y mixto;
+III. La Secretaría de Transporte, a quien corresponde las atribuciones relativas al transporte público;
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-IV. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas al transporte de carga, de uso particular y comercial;
+IV. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas al transporte de uso particular;
 
 V. La Junta de Caminos del Estado de México, que tendrá a su cargo las atribuciones que le confiere este Libro en materia de infraestructura vial primaria libre de peaje;
 
@@ -4501,6 +4501,8 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 7.
 
 14.- La autoridad competente podrá exigir a los propietarios de los predios colindantes a la infraestructura vial y a los sistemas de transporte masivo que, por razones de seguridad, los cerquen respecto del derecho de vía.
@@ -4531,7 +4533,7 @@ III. Cubrir los daños que ocasionen a la infraestructura vial.
 
 ### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 7.
 
@@ -4639,45 +4641,59 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 24.- El transporte que se realiza en la infraestructura vial se clasifica en:
 
-I. De pasajeros, que puede ser:
+I. Público:
 
-a) Colectivo, que es el que se ofrece al público en general, de manera colectiva, uniforme y permanente;
+a) De pasajeros, que puede ser:
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+1) Colectivo, que es el que se ofrece al público en general, de manera colectiva, uniforme y permanente.
 
-b) De alta capacidad o masivo, que es aquel que se presta en vías específicas o confinadas y/o con equipo vehicular capaz se transportar a más de cien personas a la vez;
+2) Masivo o alta capacidad, que es aquel que se presta en vías específicas o confinadas y/o con equipo vehicular capaz se transportar a más de cien personas a la vez y con tecnologías para su control y operación.
 
-c) Individual, que es el que se presta a uno o más pasajeros en vehículos denominados taxis;
+3) Individual, que es el que se presta a uno o más pasajeros en vehículos denominados taxis.
 
-d) Especializado, que es el que comprende al de personal, al escolar y de turismo.
+4) Especializado, que es el que comprende al de personal, al escolar, de turismo y al que tenga una capacidad de más de 15 pasajero (sic).
 
-II. De carga, que se refiere al porte de mercancías que se presta a terceros, que puede ser:
+b) De carga, que se refiere al porte de mercancías que se presta (sic) terceros, que puede ser:
 
-a) En general;
+1) En general.
 
-b) De materiales de construcción y similares;
+2) De materiales de construcción y similares.
 
-c) Especializado.
+3) Especializado.
 
-III. Mixto;
+c) Mixto.
 
-IV. De uso particular, que es el destinado para transporte de pasajeros o de carga, sin lucro alguno;
+II. Particular:
 
-V. De uso comercial, que es el destinado al servicio particular de carga de un establecimiento mercantil.
+a) El destinado para transporte de pasajeros de uso propio no considerado en las fracciones anteriores.
+
+b) De uso comercial, que es el destinado exclusivamente al servicio particular de carga de un establecimiento o empresa que constituya un instrumento de trabajo sin lucro alguno y con capacidad de carga de hasta 3,500 Kg.
+
+III. El destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales y que no esté considerado en los numerales anteriores.
 
 En la normatividad reglamentaria respectiva podrán establecerse otras modalidades que esta clase de servicios requieran.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 7.
 
-25.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos que transiten por la infraestructura vial.
+25.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Título y podrá así mismo expedir al respecto disposiciones de carácter general cuando lo estime procedente.
 
-Corresponde a la Secretaría de Transporte matricular los vehículos destinados al transporte de pasajeros y mixto, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-Corresponde a la Secretaría de Finanzas matricular los vehículos destinados al transporte de carga, de uso particular y comercial, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+Corresponde a la Secretaría de Transporte matricular los vehículos destinados al transporte público, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios. Así mismo de los vehículos automotores destinados para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Corresponde a la Secretaría de Finanzas matricular los vehículos destinados al transporte de uso particular, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Tratándose de transporte de uso particular y comercial, en tanto se expiden las placas y documentos a que se refiere el párrafo anterior, la Secretaría de Finanzas podrá otorgar permisos provisionales.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+La Secretaría de Finanzas podrá celebrar convenios con asociaciones de distribuidores, fabricantes o ensambladores de vehículos automotores, para que dentro de las instalaciones de sus agremiados, se puedan prestar los servicios relacionados con el control vehicular.
 
 ###### Artículo 7.
 
@@ -4701,15 +4717,17 @@ c) Acreditar, en términos de las disposiciones reglamentarias, estar debidament
 
 d) Otorgar un servicio eficiente y un trato amable a los usuarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 7.
 
-27.- Los propietarios o poseedores de vehículos de transporte de uso particular o comercial, tendrán las obligaciones siguientes:
+27.- Los propietarios o poseedores de vehículos automotores, tendrán las obligaciones siguientes:
 
 I. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo de vehículo que se trate;
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Tramitar ante la Secretaría de Finanzas los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo;
+II. Tramitar los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo ante las secretarías de Finanzas o de Transporte, según corresponda;
 
 III. Responder por los daños y perjuicios causados a terceros y a la infraestructura vial por el uso del vehículo;
 
@@ -4717,15 +4735,17 @@ IV. Adicionalmente, tratándose de transporte de uso comercial:
 
 a) Someter los vehículos a la revisión físico mecánica con la periodicidad y términos que señalen las disposiciones secundarias;
 
-Para estos efectos, los concesionarios y permisionarios que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la verificación, en términos de las disposiciones secundarias correspondientes;
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-b) Utilizar vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones establecidas en las normas oficiales correspondientes.
+b) Para estos efectos, los propietarios o poseedores de vehículos automotores que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la revisión, en términos de las disposiciones secundarias correspondientes.
+
+c) Utilizar vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones establecidas en las normas oficiales correspondientes.
 
 ### CAPITULO PRIMERO. De las concesiones y permisos
 
 ###### Artículo 7.
 
-28.- El transporte de pasajeros colectivo, de alta capacidad e individual, así como el mixto y demás modalidades previstas en el Reglamento del Transporte Público y Servicios Conexos del Estado de México, constituye un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o través de concesiones, que se otorguen en términos del presente Libro y de dicho Reglamento.
+28.- El transporte de pasajeros colectivo, de alta capacidad o masivo, individual, mixto, de arrastre, salvamento, guarda y custodia de vehículos, constituye un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
 
 En caso de concurrencia de dos o más personas físicas o morales para obtener concesiones, el otorgamiento se hará a quienes garanticen un mejor servicio en razón de las condiciones de seguridad, higiene y comodidad de los vehículos, mejor equipo e instalaciones, así como de la eficiencia y buen trato del personal con los usuarios.
 
@@ -4743,9 +4763,11 @@ En caso de concurrencia de dos o más personas físicas o morales para obtener c
 
 Las Secretarías de Comunicaciones y Transporte, en el ámbito de su respectiva competencia, establecerán mediante disposiciones administrativas de carácter general, las previsiones necesarias para evitar el acaparamiento o acumulación de las concesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 7.
 
-31.- La vigencia de las concesiones y permisos será temporal, no pudiendo exceder de diez años la primera, salvo lo previsto en el artículo siguiente, y de dos los segundos; podrán ser objeto de prórroga en los términos previstos en este Libro y el reglamento de la materia.
+31.- La vigencia de las concesiones y permisos será temporal, no pudiendo exceder de diez años la primera, salvo lo previsto en el artículo siguiente, y de cinco los segundos; podrán ser objeto de prórroga en los términos previstos en este Libro y el Reglamento de la materia.
 
 Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las concesiones o permisos que complementen.
 
@@ -4763,7 +4785,9 @@ Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las conc
 
 I. Los servicios de transporte de pasajeros especializado y el de carga;
 
-II. Los servicios auxiliares de arrastre, arrastre y salvamento, y depósito de vehículos;
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+II. Los servicios auxiliares de arrastre y traslado, y depósito de vehículos;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
@@ -4847,7 +4871,13 @@ XV. Obtener autorización previa de las secretarías de Comunicaciones, de Trans
 
 XVI. Cooperar con el Estado para el mantenimiento de los caminos, calzadas, avenidas y calles por donde transiten;
 
-XVII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XVII. Tratándose de concesionarios del servicio público de arrastre, salvamento, guarda y custodia de vehículos, remitir de manera directa e inmediata los vehículos al depósito autorizado más cercano al lugar en donde se haya solicitado la prestación del servicio;
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XVIII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
@@ -5059,11 +5089,17 @@ IV. Revocación de la concesión, permiso o autorización;
 
 V. Clausura temporal o definitiva, parcial o total, tratándose de depósitos de vehículos o de servicios conexos;
 
-VI. Retiro de anuncios publicitarios;
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+VI. Retiro de anuncios publicitarios en los medios de transporte cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros;
 
 VII. Cancelación de la licencia de conducir;
 
-VIII. Cancelación de las placas de matriculación.
+VIII. Cancelación de las placas de matriculación;
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+IX. Clausura definitiva de terminales de pasajeros y paraderos, cuando estos pongan en riesgo la seguridad de los usuarios o terceros.
 
 ###### Artículo 7.
 
@@ -5091,9 +5127,9 @@ b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológico
 
 c) No acreditar haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso.
 
-VIII. Clausura definitiva de depósito de vehículos, terminales de pasajeros y paraderos, cuando éstos pongan en riesgo la seguridad de los usuarios o terceros;
+VIII. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
 
-IX. Retiro de anuncios publicitarios en los medios de transporte, cuando éstos puedan poner en riesgo la seguridad de los usuarios o terceros;
+IX. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
 
 X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso.
 
@@ -5313,11 +5349,9 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 18.- Las infracciones a las disposiciones de este Libro y las que de él emanen se sancionarán conforme a lo siguiente:
 
-I. En materia de tránsito, con multa de:
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-a) Tres veces el salario mínimo general vigente en el área geográfica de que se trate al momento de la infracción, cuando se cometa por primera ocasión;
-
-b) Veinte veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, en caso de reincidencia.
+I. En materia de tránsito, se sujetarán a lo establecido en los reglamentos respectivos.
 
 II. En materia de estacionamientos, la multa se calculará multiplicando el número o rango de cajones por la tarifa al usuario.
 
@@ -8005,11 +8039,13 @@ En estos casos, la cancelación no implicará ninguna responsabilidad de caráct
 
 59.- La adjudicación de los contratos derivados de los procedimientos de adquisiciones de bienes o servicios, obligará a la convocante y al licitante ganador a suscribir el contrato respectivo dentro de los diez días hábiles siguientes al de la notificación del fallo.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 13.
 
-60.- Los derechos y obligaciones que se deriven del contrato, no podrán cederse en forma parcial ni total.
+60.- Los derechos y obligaciones que se deriven del contrato, no podrán cederse en forma parcial ni total, con excepción de los derechos de cobro, en cuyo caso se deberá contar con el consentimiento de la dependencia, entidad o ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 El contratista no podrá subcontratar total o parcialmente, el suministro de bienes o la prestación de servicios, salvo que cuente con la autorización previa y expresa de la contratante, en cuyo caso el contratista será el único responsable del cumplimiento de las obligaciones a su cargo.
 
@@ -8825,7 +8861,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 ###### Artículo 14.
 
-39.- Las autoridades estatales en materia de información e investigación geográfica estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica;
+39.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica;
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -10668,3 +10704,29 @@ DÉCIMO SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Or
 DÉCIMO SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
 
 DÉCIMO OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
+
+G.G. 26 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1° de enero de 2008.
+
+TERCERO.- Para los efectos de la fracción XIII del artículo 47 del Código establecida en el presente decreto, las personas físicas y jurídicas colectivas que estén obligadas a dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal y las que opten por hacerlo, deberán dictaminarse por el ejercicio fiscal de 2007.
+
+Para los efectos del tercer párrafo del artículo 47 B del Código, la fecha de presentación del dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal correspondiente al ejercicio fiscal de 2007, podrá efectuarse a más tardar el último día del mes de agosto del ejercicio fiscal 2008.
+
+Para los efectos de los artículos 47 A párrafo tercero, 47 B párrafos primero y segundo, 47 C párrafo primero, 47 D fracción I, así como los párrafos segundo, tercero y cuarto, y 48 B fracción II párrafo segundo, los avisos, solicitudes, manifestaciones y aclaraciones que corresponda presentar a los contribuyentes o a los contadores públicos en relación al dictamen del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, deberán presentarse a partir del 1° de marzo del ejercicio 2008 vía Internet a través de la página del Gobierno del Estado de México que es www.edomex.gob.mx de conformidad con las reglas de carácter general que al efecto emitan las autoridades fiscales.
+
+CUARTO.- Los decretos números 86 y 91 de fechas 7 y 13 de noviembre de 2007, de la Legislatura Local, por los cuales se aprueban las Tablas de Valores Unitarios de Suelo y de Construcciones, forman parte del Código Financiero del Estado de México y Municipios en los términos del artículo 186 del mismo ordenamiento.
+
+QUINTO.- La reforma al articulo 219, fracción I inciso C), así como la adición de su inciso H) y la reforma al artículo 224, entrarán en vigor a partir de la fecha en que inicie la vigencia de las reformas, adiciones y derogaciones de diversas disposiciones de la Ley de Coordinación Fiscal, Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial Sobre Producción y Servicios, aprobadas en la Cámara de Senadores el 14 de septiembre del 2007.
+
+SEXTO.- En el caso de los municipios que no suscribieron convenio con el Gobierno del Estado en términos del artículo 225 Bis vigente en 2007, la Secretaría de Finanzas distribuirá las participaciones correspondientes a 2007 a las que hace referencia el artículo 219, fracción II, inciso D) en la forma y términos en que se ha realizado con aquellos que han firmado el referido convenio.
+
+SÉPTIMO.- Los organismos públicos descentralizados municipales que presten los servicios de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, los municipios cuando no cuenten con organismo prestador de dichos servicios y quienes presten el servicio de suministro de agua de manera autónoma, podrán trasladar en la factura correspondiente lo que deban pagar por concepto de las Aportaciones por Servicios Ambientales a que se refiere el Capítulo Tercero del Título Sexto del Código Financiero del Estado de México y Municipios.
+
+OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto en los artículos 2 fracción V y 8 fracciones II, V, VIII y XIX de la Ley de Fiscalización Superior del Estado de México, deberá revisar la información correspondiente a los cobros y facturaciones a que se refiere el artículo 216-J del Código Financiero del Estado de México y Municipios, así como los depósitos del fideicomiso previsto en el artículo 216-K de dicho ordenamiento, debiendo informar lo conducente a la Legislatura por conducto de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+
+NOVENO.- Las Secretarías de la Contraloría, de Finanzas y de Transporte, proveerán lo necesario para el cumplimiento de los artículos Segundo y Cuarto del presente Decreto.
+
+DÉCIMO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente Decreto en las unidades administrativas de la Secretaría de Transporte, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura orgánica autorizada y a este Decreto.
