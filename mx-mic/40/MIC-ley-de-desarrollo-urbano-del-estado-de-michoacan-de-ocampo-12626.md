@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-urbano-del-estado-de-michoacan-de-ocampo-1262
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-15"
-last_updated: "2007-08-23"
+last_updated: "2007-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y QUINTO TRANSITORIOS DEL CODIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, EXCEPTO EL CAPITULO PRIMERO DEL TITULO QUINTO DEL PRESENTE ORDENAMIENTO, MISMO QUE CONTINUARA VIGENTE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 15 de junio de 1995.
 
@@ -3244,3 +3246,61 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 26 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Urbano del Estado de Michoacán de Ocampo, publicada el 15 de junio de 1995, salvo lo dispuesto en el artículo quinto transitorio del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Todos los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto, seguirán tramitándose conforme a la Ley que se abroga.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado revisará y en su caso actualizará el Programa Estatal de Reservas Territoriales, en un periodo no mayor de seis meses, contados a partir de la entrada en vigencia del Programa Estatal de Desarrollo Urbano.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado expedirá el Reglamento de Zonificación y Usos del Suelo Estatal, en un periodo no mayor de seis meses, a partir de la entrada en vigencia del presente Código, que podrá ser aplicado por los ayuntamientos hasta en tanto expiden el correspondiente de acuerdo a su programa de desarrollo urbano. En tanto seguirá vigente el capítulo Primero del Título Quinto de la Ley de Desarrollo Urbano del Estado de Michoacán de Ocampo que se abroga.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento de Construcciones Estatal, en un periodo no mayor de seis meses, a partir de la entrada en vigencia del presente Código, que podrá ser aplicado por los ayuntamientos hasta en tanto expidan el correspondiente municipal.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado deberá expedir el documento que contenga el Sistema Normativo de Equipamiento Urbano Estatal, en un periodo no mayor de ocho meses, contados a partir de la entrada en vigencia del presente Código, entre tanto será aplicable para las disposiciones de este Código el Sistema de Equipamiento Urbano expedido por la Secretaria de Desarrollo Social del Gobierno Federal.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado deberá implementar el Sistema de Información Geográfica contenido en el presente Código, en un plazo no mayor de un año a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los presentes ayuntamientos deberán elaborar y entregar a las (sic) administración municipal que inicie funciones a partir del año dos mil ocho la evaluación del programa de desarrollo urbano o en su caso el diagnostico de la situación que guarda el municipio en materia de desarrollo urbano. La Auditoria Superior de Michoacán verificará se dé cumplimiento a esta disposición.
+
+###### ARTÍCULO DÉCIMO.
+
+Por única vez los plazos previstos en los artículos 92 y 93 para la elaboración de los programas de desarrollo urbano básicos contenidos en este Código, serán de doce meses, a partir del inicio de la gestión constitucional de los ayuntamientos y del Gobernador del Estado, que iniciarán funciones el 1 de enero y el 15 de de (sic) febrero del año 2008, respectivamente.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Ayuntamiento, conforme las disposiciones y bases de la ley en materia de administración pública municipal, podrá establecer la Dependencia Municipal que tendrá a su cargo los procedimientos, actos y resoluciones en materia de planeación y operación urbana, previstos en este Código.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Para el segundo año de ejercicio de los ayuntamientos que inician en funciones en el año dos mil ocho y subsecuentes, sustentarán y motivarán sus programas operativos anuales, de acuerdo al diagnostico y estrategias contenidas en los programas de desarrollo urbano que para su municipio aprueben y el Gobierno (sic) Estado podrá convenir la realización de obras, acciones y servicios con los ayuntamientos, siempre y cuando estén contenidas dentro de los programas de desarrollo urbano.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las autoridades estatales y municipales en un plazo no mayor de tres meses a partir de la entrada en vigencia del presente Decreto, integrarán las comisiones de desarrollo urbano previstas en este Código; en su caso, en la renovación de los vocales representantes de la sociedad deberá conservarse el cincuenta por ciento de los actuales. En los casos de gobiernos estatal o municipales con periodos mayores o menores a seis y tres años, respectivamente, los vocales representantes de la sociedad serán designados por un lapso de tiempo igual al del periodo de gobierno que corresponda y su renovación se hará en los términos señalados en el presente artículo.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Quedan sin efecto todas las disposiciones que se opongan al presente Código.
