@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2007-09-12"
+last_updated: "2007-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2007.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -599,7 +599,7 @@ XIX.- Dictar las disposiciones generales o particulares que tiendan a la conserv
 
 XX.- Aprobar, por las dos terceras partes de los integrantes del Ayuntamiento y previo cumplimiento del procedimiento a que se refiere el artículo 110 de este Código, la incorporación, desincorporación o cambio de destino de un bien sujeto al régimen de dominio público municipal, exponiendo en el acta de Cabildo correspondiente, las razones que justifiquen dicho acto y que invariablemente, deben referirse al beneficio que el Municipio obtiene con dicha disposición y que se verificó que la medida no causa perjuicio a la comunidad.
 
-Cuando la desincorporación del régimen de dominio público tenga como finalidad la enajenación del bien, el producto de su enajenación no podrá destinarse al pago de gasto corriente.
+Cuando la desincorporación del régimen de dominio público tenga como finalidad la enajenación del bien, el producto de su enajenación no podrá destinarse al pago de gasto corriente;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -2421,41 +2421,27 @@ La base del impuesto es el valor catastral del inmueble, determinado por lo disp
 
 El impuesto se determinará anualmente, conforme a las siguientes tarifas:
 
-I.- Predios urbanos
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
-LIMITES DE RANGO TASA DE RANGO CUOTA FIJA
+I.-Predios urbanos.
 
-DE LA BASE (Aplicable sobre la VECES DEL
-
-DEL IMPUESTO porción del valor de SALARIO MINIMO
-
-la base que exceda (Suma fija a pagar
-
-VALOR CATASTRAL del límite del rango) por todo valor
-
-catastral mayor al
-
-VECES DEL SALARIO límite de rango)
-
-MINIMO
+LIMITES DE RANGO DE LA BASE DEL IMPUESTO (Valor catastral en moneda nacional).TASA DE RANGO (Aplicable sobre la porción del valor de la base que exceda del límite inferior del rango de que se trate). CUOTA FIJA EN MONEDA NACIONAL (Suma fija a pagar).
 
 0 2 al millar 0
 
-4000 3 al millar 8
+183,240 3 al millar 366.48
 
-8000 4 al millar 20
+366,480 4 al millar 916.2
 
-14000 5 al millar 44
+641,340 5 al millar 2,015.64
 
-28000 6 al millar 114
+1,282,680 6 al millar 5,222.34
 
-(VALOR CATASTRAL – LÍMITE DE RANGO MENOR MÁS PRÓXIMO CONVERTIDO A MONEDA NACIONAL) * TASA DE RANGO + CUOGTA FIJA CONVERTIDA A MONEDA NACIONAL = IMPUESTO PREDIAL DIRECTO ANUAL.
+(VALOR CATASTRAL-LIMITE MENOR MÁS PRÓXIMO EN MONEDA NACIONAL)*TASA DE RANGO + CUOTA FIJA EN MONEDA NACIONAL = IMPUESTO PREDIAL DIRECTO ANUAL.
 
 El Impuesto Predial se calculará con el siguiente procedimiento aritmético:
 
-Al resultado de la diferencia del valor catastral del predio y el límite de rango menor más próximo convertido a moneda nacional, se le aplicará la tasa correspondiente al excedente de ese límite inferior y se le adicionará la cuota fija del mismo rango, convertida a moneda nacional.
-
-El salario mínimo que servirá de base para este cálculo, será el vigente para la capital del Estado, al treinta de noviembre del año anterior al ejercicio que se trate.
+Al resultado de la diferencia del valor catastral del predio y el límite de rango menor más próximo en moneda nacional, se le aplicará la tasa correspondiente al excedente de ese límite inferior y se le adicionará la cuota fija del mismo rango, en moneda nacional.
 
 II.- Para los predios rústicos la tasa de 2 al millar.
 
@@ -2463,7 +2449,9 @@ II.- Para los predios rústicos la tasa de 2 al millar.
 
 III.- Para fundos mineros la tasa de 5 al millar.
 
-El impuesto neto a pagar nunca será inferior al equivalente a dos salarios mínimos de la zona económica que corresponda.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+El impuesto neto a pagar nunca será inferior al equivalente a dos días de salario mínimo general vigente en el Municipio donde se ubique el predio objeto del impuesto, al día treinta de noviembre del año anterior al ejercicio de que se trate.
 
 #### SECCION III. DE LAS EXENCIONES
 
@@ -3868,3 +3856,9 @@ En los ordenamientos jurídicos estatales que refieran la existencia de la Comis
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil ocho.
