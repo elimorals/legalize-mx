@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2006-12-27"
+last_updated: "2007-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -395,13 +395,17 @@ VT= Valor de Terreno
 
 ST= Superficie del Terreno
 
-VUS= Valor Unitario del Suelo correspondiente a la zona homogénea o corredor de valor donde se ubica el inmueble.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+VUS= Valor Unitario del Suelo correspondiente a la zona homogénea, sector o corredor de valor donde se ubica el inmueble.
 
 En su caso, deberá considerarse los factores de incremento y demérito, previstos en las tablas, según las características del suelo, una vez determinado el valor unitario de referencia que le corresponda.
 
 El valor de construcción de un inmueble, se obtiene de multiplicar la superficie construida, por el valor unitario de construcción para cada tipo de edificación, contenido en las Tablas de Valores Unitarios de Suelo y Construcción aprobadas para el Municipio en el cual se encuentra ubicado el predio, más el valor de las Instalaciones especiales permanentes, de acuerdo con la fórmula siguiente:
 
-VC= SC x VUC+VIE
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+VC= SCX VUC+VIE
 
 Para efectos de la fórmula anterior, se entenderá:
 
@@ -798,3 +802,9 @@ P.O. 27 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor una vez publicado en el Periódico Oficial del Estado, el día primero de enero del año dos mil siete.
+
+P.O. 26 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil ocho.
