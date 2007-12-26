@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5441
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-10"
-last_updated: "2007-02-10"
+last_updated: "2007-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 10 de febrero de 2007.
 
@@ -87,9 +87,11 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 1.
 
-La presente Leyes de orden público y tiene como finalidad garantizar el acceso de toda persona a la información pública en posesión de los Poderes Públicos del Estado: Ejecutivo, Legislativo, Judicial y de sus Ayuntamientos, Entidades Gubernamentales, Entidades de Interés Público, Dependencias y organismos e institutos que ejerzan recursos públicos.
+La presente Ley es de orden público y tiene como finalidad garantizar el acceso de toda persona a la información pública en posesión de los sujetos obligados conforme a la ley.
 
 ###### Artículo 2.
 
@@ -133,7 +135,9 @@ VIII. INSTITUTO: El Instituto Tabasqueño de Transparencia y Acceso a la Informa
 
 IX. LEY: Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
-X. PERSONA: Todo ser humano, grupos de individuos o personas jurídicas colectivas creadas conforme a la Ley.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+X. PERSONA: Todo ser humano.
 
 XI. PROTECCIÓN DE DATOS PERSONALES: La garantía de tutela de la privacidad de datos personales en poder de los Sujetos Obligados.
 
@@ -157,13 +161,19 @@ f) Los partidos y agrupaciones políticas con registro oficial, cuando reciban r
 
 g) Las personas de derecho público y privado que realicen funciones públicas o cuando en el ejercicio de sus actividades actúen en auxilio de los órganos y entidades antes citados y cuando ejerzan gasto público, reciban subsidio o subvención; y,
 
-h) Las demás entidades que la Constitución y la legislación local reconozcan como de interés público.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+h) Las demás entidades que en el ejercicio de sus atribuciones o funciones tengan un fin público.
 
 XIV. TRANSPARENCIA: Práctica democrática de poner a disposición de las personas información pública sin que medie solicitud alguna.
 
 XV. UNIDAD DE ACCESO A LA INFORMACIÓN: Denominación del área responsable de atender las solicitudes de acceso a la información.
 
 XVI. VERSIÓN PÚBLICA: Documento elaborado por los Sujetos Obligados que contiene información pública, sin que aparezca la información clasificada como reservada y confidencial.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+XVII. CUENTA PUBLICA: El informe anual que, sin perjuicio de las evaluaciones trimestrales, o tratándose de los Municipios, los informes mensuales; rinden respectivamente al Congreso, por conducto del Órgano Superior de Fiscalización, los Sujetos Obligados, sobre su gestión financiera y presupuestaria.
 
 ###### Artículo 6.
 
@@ -175,7 +185,9 @@ II. fomentar la participación comunitaria en la toma de decisiones pública.
 
 III. Garantizar el principio fundamental de publicidad de los actos del Estado.
 
-IV. Asegurar el principio fundamental de rendición de cuentas del Estado.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. Asegurar el principio fundamental de transparencia y acceso a la información pública.
 
 V. Proveer lo necesario para que toda persona pueda tener acceso a la información mediante procedimientos sencillos y expeditos.
 
@@ -185,7 +197,7 @@ VII. Promover la eficiencia en la organización, clasificación, manejo y transp
 
 ###### Artículo 7.
 
-Los Sujetos Obligados establecerán Unidades de Acceso a la Información y designarán de entre sus servidores públicos a su titular, que será responsable de la atención de las solicitudes de información que formulen las personas.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2007)
 
 ###### Articulo 8.
 
@@ -197,13 +209,17 @@ Quienes produzcan, administren, manejen, archiven o conserven información públ
 
 Toda la información en poder de Los Sujetos Obligados estará a disposición de las personas, salvo aquella que se considere como reservada o confidencial.
 
-Quienes soliciten información pública tienen derecho, a su elección, a que ésta les sea proporcionada de manera verbal o por escrito y a obtener por cualquier medio la reproducción de los documentos en que se contenga.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Quienes soliciten información pública tienen derecho, a su elección, a que ésta les sea proporcionada de manera verbal o en el estado en que se encuentre y a obtener por cualquier medio la reproducción de los documentos en que se contenga.
 
 La información se proporcionará en el estado en que se encuentre. La obligatoriedad de los Sujetos Obligados de proporcionar información no comprende el procesamiento de la misma, ni el presentarla conforme al interés del solicitante, con excepción de la información que requiera presentarse en versión pública.
 
 La pérdida, destrucción, alteración u ocultamiento de la información pública y de los documentos en que se contenga, serán sancionados en los términos de esta Ley.
 
-Ningún Sujeto Obligado está forzado a proporcionar información que no sea de su competencia, se encuentre impedido de conformidad con ésta ley para proporcionarla, pertenezca a otros Sujetos Obligados o no esté en su posesión al momento de efectuarse la solicitud.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Ningún sujeto obligado está forzado a proporcionar información cuando se encuentre impedido de conformidad con esta Ley para proporcionarla o no esté en su posesión al momento de efectuarse la solicitud.
 
 ### CAPÍTULO SEGUNDO. OBLIGACIONES DE TRANSPARENCIA
 
@@ -211,23 +227,33 @@ Ningún Sujeto Obligado está forzado a proporcionar información que no sea de 
 
 Los Sujetos Obligados, pondrán a disposición del público, difundiéndola y actualizándola, la siguiente información mínima de oficio:
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+I. Se considera información mínima de oficio la siguiente:
+
 a) Los acuerdos e índices de la información clasificada como reservada;
 
 b) Su estructura orgánica, las atribuciones por unidad o área administrativa, los trámites, requisitos y formatos de los servicios que en general presta, el marco jurídico, acuerdos, convenios y demás disposiciones administrativas que le otorgan sustento legal al ejercicio de sus funciones, así como el boletín de información pública de sus actividades;
 
-c) Manuales de organización y procedimientos, así como los documentos que contengan las políticas de cada dependencia y unidad administrativa de Los Sujetos Obligados, que incluya metas, objetivos y responsables de los programas operativos y de apoyo a desarrollar;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+c) Manuales de organización y procedimientos, así como los documentos que contengan las políticas de cada dependencia y unidad administrativa de los Sujetos Obligados, que incluya metas, objetivos y responsables de los programas operativos y de apoyo a desarrollar, así como los indicadores de gestión utilizados para evaluar su desempeño;
 
 d) El directorio de servidores públicos, a partir del nivel de jefe de departamento o sus equivalentes hasta el titular del Sujeto Obligado;
 
 e) Información acerca de los sistemas, procesos, oficinas, ubicación, teléfonos, horario de atención, página electrónica, costos de reproducción o copiado de la información requerida y responsables de atender las solicitudes de acceso a la información, así como las solicitudes recibidas y las respuestas dadas por los servidores públicos;
 
-f) La totalidad de las percepciones económicas, en la que se comprenda el monto mensual por concepto de remuneración por puesto o en su caso dieta, incluyendo las compensaciones, prestaciones o prerrogativas que reciban en especie o efectivo, según lo establezca el Presupuesto de Egresos del Estado de Tabasco;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+f) La totalidad de las percepciones económicas en las que se comprenda el monto mensual por concepto de remuneración por puesto o en su caso dieta, incluyendo el sistema de compensación, prestaciones o prerrogativas que reciben en especie o efectivo, según lo establezca el capítulo de servicios personales del Presupuesto de Egresos correspondiente;
 
 g) Los montos asignados a cada una de las dependencias y unidades administrativas de los Sujetos Obligados, los fondos revolventes, viáticos, gastos de representación y cualesquiera otros conceptos de ejercicio presupuestal que utilicen los mandos superiores, y en línea descendente hasta jefe de departamento. Los criterios de asignación, tiempo que dure su aplicación, los mecanismos de rendición de cuentas y de evaluación, señalando individualmente a los responsables del ejercicio de tales recursos presupuestales;
 
 h) Las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, prestación de servicios, concesiones, permisos y autorizaciones, así como sus resultados;
 
-i) Los resultados de todo tipo de auditorias concluidas, revisiones e informes hechos al ejercicio presupuestal de cada una de los Sujetos Obligados, así como las minutas de las reuniones oficiales;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+i) Los resultados de las auditorias concluidas al ejercicio presupuestario de cada sujeto obligado que realicen, según corresponda, el órgano de control estatal, los órganos de control municipales o el Órgano Superior de Fiscalización del Estado y, en su caso, las aclaraciones que correspondan;
 
 j) Información de los padrones de beneficiarios de los programas sociales aplicados por el Estado y los municipios, así como información sobre el diseño, montos, acceso y ejecución de los programas de subsidio;
 
@@ -239,27 +265,47 @@ m) Información sobre la situación económica, estados financieros y endeudamie
 
 n) Información sobre todos los ingresos de los Sujetos Obligados;
 
-o) Acciones, controversias y juicios promovidos por los poderes públicos del Estado y los Municipios;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+o) Índices de acciones, controversias y juicios en los que sean parte los Sujetos Obligados.
 
 p) Informe anual de actividades;
 
-q) La calendarización de las reuniones públicas de los diversos consejos, gabinetes, cabildos, sesiones plenarias y sesiones de trabajo a que se convoquen, así como las correspondientes minutas o actas de dichas sesiones; y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
-r) Toda otra información que sea de utilidad para el ejercicio del derecho de acceso a la información pública.
+q) La calendarización de las reuniones públicas de los diversos consejos, gabinetes, cabildos, sesiones plenarias y sesiones de trabajo a que se convoquen, así como las, correspondientes minutas o actas de dichas sesiones;
 
-II (sic). Además de las obligaciones establecidas en la fracción anterior, el Poder Legislativo deberá informar:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+r) Las cuentas públicas calificadas por el Congreso del Estado;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+s) Las minutas de las reuniones en las que se tomen decisiones trascendentales para la ejecución del Plan Estatal de Desarrollo; y
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+t) Toda otra información que sea de utilidad para el ejercicio del derecho de acceso a la información pública.
+
+II. Además de las obligaciones establecidas en la fracción anterior, el Poder Legislativo deberá informar:
 
 a) Los montos asignados a las fracciones parlamentarias, a las comisiones legislativas, al órgano de gobierno y a cada. uno de los diputados que integran la legislatura correspondiente, así como los criterios de asignación, el tiempo de ejecución, los mecanismos de evaluación, y los responsables de su recepción y ejecución final;
 
-b) Las cuentas públicas del Estado, de los Municipios, de los órganos públicos autónomos y demás entidades sujetas a fiscalización, una vez calificadas por el Pleno del Honorable Congreso del Estado;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+b) Los Informes técnicos y financieros, decretos de calificación de las cuentas públicas del Estado, de los Municipios, de los órganos públicos autónomos y demás entidades sujetas a fiscalización, una vez calificadas éstas por el Pleno del Honorable Congreso del Estado: La documentación correspondiente, con excepción de lo señalado en el articulo 12 de la Ley de Fiscalización Superior del Estado de Tabasco, le será reintegrada a los entes fiscalizados como generadores de la información.
 
 c) Las leyes, decretos y puntos de acuerdo aprobados por el Congreso del Estado;
 
 d) Las actas, acuerdos, listas de asistencia a sesiones públicas o privadas y reuniones de comisiones, programas de trabajo e informes de cada una de las comisiones;
 
-e) Las votaciones y el sentido del voto de cada uno de los diputados tanto en sesiones del Congreso como en reuniones de comisión;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
-f) Dictámenes sobre iniciativas y presentadas; y
+e) Las votaciones y el sentido de los votos nominales de cada uno de los diputados tanto en sesiones del Congreso como en reuniones de comisión.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+f) Iniciativas y Puntos de Acuerdo presentados ante el pleno turnados a las Comisiones permanentes del Congreso, así como los Dictámenes que versen sobre las mismas; y
 
 g) El Diario de Debates.
 
@@ -269,13 +315,17 @@ a) El Plan Estatal de Desarrollo, los Programas Operativos anuales sectoriales d
 
 b) El Sistema Integral de Información Financiera;
 
-c) Las iniciativas de leyes o decretos y demás disposiciones generales o particulares en materia administrativa; y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+c) Las iniciativas de leyes, decretos y reglamentos; y
 
 d) El periódico oficial
 
-IV.- Sin perjuicio de lo previsto en la fracción I de este artículo, el Poder Judicial del Estado deberá informar:
+IV. Sin perjuicio de lo previsto en la fracción I de este artículo, el Poder Judicial del Estado deberá informar:
 
-a) Las sentencias y resoluciones que hayan causado estado o ejecutoria;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+a) Las sentencias y resoluciones relevantes que hayan causado estado o ejecutoria;
 
 b) Las listas de acuerdos;
 
@@ -309,7 +359,9 @@ a) Las plataformas políticas, los estatutos y demás normas internas de los par
 
 b) Los informes presentados por los partidos o agrupaciones políticas ante la autoridad electoral;
 
-c) La fiscalización de todos los recursos públicos y no públicos de los partidos políticos; y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+c) Los resultados de la fiscalización de todos los recursos públicos y no públicos de los partidos políticos; y
 
 d) Las quejas resueltas por violaciones a las leyes electorales o de participación ciudadana.
 
@@ -317,13 +369,21 @@ Los partidos y las agrupaciones políticas con registro oficial, rendirán infor
 
 VII. La información de los órganos jurisdiccionales, administrativos o del trabajo, que tengan por objeto resolver controversias o aplicar el derecho; además de las citadas en las otras fracciones de este artículo, se archivará electrónicamente y se constituirá básicamente por los siguientes elementos:
 
-a) Lista de todas las partes, incluyendo magistrados, presidentes, jueces, abogado y ministerios públicos;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+a) Lista de todas las partes, incluyendo magistrados, presidentes, jueces, abogados y ministerios públicos;
 
 b) Tipo de juicio ó procedimiento, la acción, la naturaleza de los hechos discutidos y los montos de la demanda, reconvención o procedimiento; y
 
-c) Un extracto de las resoluciones y determinaciones más trascendentales como el ejercicio de la acción penal, las sentencias interlocutorias y definitivas, laudos y resoluciones de apelación y amparo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+c) Las resoluciones y determinaciones administrativas, así como las sentencias definitivas, laudos y resoluciones de apelación, relevantes, cuando éstas hayan causado estado.
 
 Las partes podrán oponerse a la publicación de sus datos personales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+En ningún caso la información que los Sujetos Obligados deban difundir de oficio, contendrá datos que vulneren el derecho a la intimidad de las personas, provoquen un serio perjuicio a las actividades de verificación del cumplimiento de las leyes, de prevención o persecución de los delitos, a la impartición de justicia, fiscalización, recaudación de contribuciones y estrategias procesales en procedimientos administrativos o en procesos jurisdiccionales; mientras las resoluciones no causen estado.
 
 ###### Artículo 11.
 
@@ -371,25 +431,37 @@ V.- La identificación del órgano público ordenador o responsable de la obra; 
 
 VI.- Mecanismos de vigilancia y/o supervisión de la sociedad civil.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 15.
 
-En razón de la diversidad de la información pública que se encuentra en poder de Los Sujetos Obligados, éstos deberán realizar actualizaciones, periódicas de la información mínima de oficio a que se refiere el presente capítulo, en términos de los lineamientos que expida el Instituto.
+En razón de la diversidad de la información pública que se encuentra en poder de los Sujetos Obligados, éstos deberán realizar actualizaciones trimestrales de la información mínima de oficio a que se refiere el presente capítulo, en términos de los lineamientos que expida el Instituto.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 16.
 
-Cada Sujeto Obligado deberá sistematizar la información para facilitar el acceso de las personas a la misma, así como su publicación a través de los medios disponibles utilizando sistemas computacionales e información en línea en Internet.
+La información a que se refiere el artículo 10 deberá estar a disposición del público, a través de medios remotos o locales de comunicación electrónica o Internet. Los Sujetos Obligados deberán tener a disposición de las personas interesadas al menos un equipo de cómputo, destinado exclusivamente a que éstas puedan obtener la información de manera directa. Asimismo los Sujetos Obligados deberán proporcionar apoyo a los usuarios que lo requieran y proveer todo tipo de asistencia respecto a los trámites y servicios que presten.
+
+Los Sujetos Obligados deberán preparar la automatización, presentación y contenido de su información, como también su integración en línea, en los términos que disponga el Reglamento y los lineamientos que al respecto expida el Instituto.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 17.
 
 En las Entidades Gubernamentales y de Interés Público, así como en las bibliotecas y archivos públicos a cargo del Gobierno del Estado y de los Ayuntamientos se proveerá la instalación de un mínimo equipo de cómputo que facilite el acceso a la información mínima de oficio, garantizada en este Capítulo.
 
-En cada reunión de los Sujetos Obligados en que se discutan y adopten decisiones públicas deberá levantarse una minuta que deberá preservarse en los archivos oficiales.
-
 ### CAPÍTULO TERCERO. DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 18.
 
-Se crea el organismo público descentralizado denominado Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, con personalidad jurídica y patrimonio propio, con autonomía técnica, de gestión y decisión.
+Se crea el organismo público autónomo, denominado Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, con personalidad jurídica y patrimonio propio y con plena autonomía para el desarrollo de sus funciones.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Para efecto de sus resoluciones, el Instituto no estará subordinado a autoridad alguna y adoptará sus decisiones con plena independencia.
 
 El instituto como órgano de autoridad, tiene por objeto la promoción, difusión, investigación, protección y respeto al derecho de acceso a la información pública y a la protección de datos personales.
 
@@ -413,25 +485,33 @@ I. Ser ciudadano Tabasqueño por nacimiento o con residencia en el estado no men
 
 II. Tener al menos treinta años cumplidos al día de la designación;
 
-III. Contar con título y cédula profesional de Licenciado en Derecho o en cualquier campo de las ciencias sociales, cuando menos con cinco años;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+III. Contar con título y cédula profesional de cualquier campo de las ciencias jurídicas, sociales, económicas o administrativas, cuando menos con cinco años anteriores a la designación;
 
 IV. Gozar de reconocido prestigio personal y profesional;
 
-V. No ser ni haber sido fedatario público, dirigente de ningún partido o agrupación política, cuando menos cinco años antes al momento de su designación;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+V. No ser ni haber sido dirigente de ningún partido o agrupación política, cuando menos cinco años antes al momento de su designación;
 
 VI. No haber sido condenado por delito doloso; y
 
 VII. No ser ministro de culto religioso alguno.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 22.
 
-Los consejeros durarán en su encargo un período de cuatro años y no podrán ser retirados de sus cargos durante el período para el que fueron nombrados, salvo por causa grave que calificará el Congreso del Estado. Este cargo es incompatible con cualquier otro empleo o actividad.
+Los consejeros durarán en su encargo un período de cinco años, pudiendo ser reelectos para un periodo más y no podrán ser retirados de sus cargos durante el período para el que fueron nombrados, salvo por causa grave que calificará el Congreso del Estado.
 
-El salario nominal mensual de los consejeros será fijado por el pleno del Instituto y en ningún caso será superior a mil veces el salario mínimo vigente en el estado.
+Durante el tiempo de su nombramiento los Consejeros del Instituto no podrán, en ningún caso, aceptar o desempeñar empleo o cargo de la Federación, Estados, Municipios o partidos políticos, y sólo podrán recibir percepciones derivadas de la docencia, de regalías, de derecho de autor o publicaciones, herencias u otras actividades privadas, siempre y cuando no afecten la independencia, imparcialidad y equidad que deben regir el ejercicio de su función; podrán ejercer cargos no remunerados en asociaciones científicas, culturales, literarias, de investigación o de beneficencia.
 
-El presidente será nombrado por sus pares por un período de cuatro años, y tendrá la representación legal del Instituto.
+El presidente será nombrado por sus pares por un periodo de cinco años, y tendrá la representación legal del Instituto.
 
-Las ausencias definitivas de los consejeros propietarios serán cubiertas por los respectivos suplentes. En caso de ausencia definitiva de ambos, el Congreso del Estado procederá a la designación de un nuevo consejero para concluir el periodo respectivo, en los términos previstos por esta ley.
+En caso de la renuncia o ausencia al cargo de presidente, el nuevo será nombrado en la siguiente sesión, por los propios miembros del consejo.
+
+Las ausencias definitivas de los consejeros propietarios serán cubiertas por los respectivos suplentes. En caso de ausencia definitiva de ambos, se procederá a la designación de un nuevo consejero para concluir el periodo respectivo, en los términos previstos por esta ley.
 
 Las ausencias consecutivas mayores de 30 días, se consideran definitivas.
 
@@ -473,19 +553,35 @@ XVI. Resolver sobre la enajenación o gravamen de los bienes que integran el pat
 
 XVII. Designar a los servidores públicos a su cargo;
 
-XVIII. Expedir su reglamento interior y demás normas internas de funcionamiento; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
-XIX. Dictar las medidas necesarias para el mejor funcionamiento del Instituto.
+XVIII. Expedir su reglamento interior y demás normas internas de funcionamiento;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+XIX. Celebrar convenios y acuerdos, para el debido cumplimiento del objeto de esta ley;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+XX. Interpretar esta Ley; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+XXI. Dictar las medidas necesarias para el mejor funcionamiento del Instituto.
 
 El Instituto, para el mejor desempeño de sus funciones, deberá establecer relaciones de cooperación y coordinación con los Sujetos Obligados; para tal efecto expedirá las normas de operación y lineamientos pertinentes, con el propósito de establecer formatos sencillos, entendibles y claros para la consulta expedita de la información difundida por los Sujetos Obligados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 24.
 
-Para el cumplimiento de sus atribuciones, el Instituto contará en su estructura con un Secretario Ejecutivo, una Dirección Jurídica Consultiva, una Dirección de Capacitación, Vinculación y Difusión; una Dirección de Administración y Finanzas y una Dirección de Archivo e informática, así como los asesores y personal auxiliar que autorice el pleno del Instituto, misma que deberá ser incluida en el Proyecto de Presupuesto de Egresos del Estado.
+Para el cumplimiento de sus atribuciones, el Instituto contará en su estructura con un Secretario Ejecutivo, las direcciones y unidades que autorice el pleno del Instituto, conforme a su disponibilidad presupuestaria.
 
 El Secretario Ejecutivo y demás personal serán nombrados por el pleno del Instituto, a propuesta de su Presidente.
 
-Para profesionalizar y hacer más eficientes los servicios de apoyo del Instituto, el reglamento interior establecerá y desarrollará las bases para la selección, permanencia, promoción, capacitación y actualización del personal, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Para profesionalizar y hacer más eficientes los servicios de apoyo del Instituto, el reglamento interior establecerá y desarrollará las bases para el Servicio Civil de Carrera.
 
 ###### Artículo 25.
 
@@ -493,9 +589,15 @@ Antes de que termine el primer trimestre de cada año, todos los Sujetos Obligad
 
 Dicho informe deberá incluir: el número de solicitudes de información presentadas a dicha entidad y la información objeto de las mismas; la cantidad de solicitudes procesadas y resueltas, así como el número de solicitudes pendientes; las prórrogas por circunstancias excepcionales; el tiempo de procesamiento y la cantidad de servidores públicos involucrados en la tarea; la cantidad de resoluciones emitidas por dicha entidad denegando las solicitudes de información presentadas al mismo y los fundamentos de cada una de dichas resoluciones.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Paralelamente los Sujetos Obligados deberán presentar trimestralmente un informe parcial general de sus actividades en relación con el cumplimiento de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 26.
 
-En el mes de abril el Presidente del Instituto presentará un informe anual de labores y resultados al Congreso del Estado, en el cual se incluirá la descripción de la información remitida por los Sujetos Obligados comprendidos en esta Ley; el número de asuntos atendidos por el Instituto, así como las dificultades observadas en el cumplimiento de esta Ley y las recomendaciones respectivas. El informe anual será publicado y difundido con amplitud. Su circulación será obligatoria en las dependencias y organismos de los Sujetos Obligados.
+En el mes de abril el Presidente del Instituto presentará un informe anual de labores y resultados al Congreso del Estado, en el cual se incluirá la descripción de la información remitida por los Sujetos Obligados comprendidos en esta Ley; el número de asuntos atendidos y las resoluciones emitidas por el Instituto, así como las dificultades observadas en el cumplimiento de esta Ley y las recomendaciones respectivas. El informe anual será publicado y difundido con amplitud. Su circulación será obligatoria en las dependencias y organismos de los Sujetos Obligados.
 
 ### CAPÍTULO CUARTO. DE LA PROMOCIÓN DE LA CULTURA DE APERTURA INFORMATIVA
 
@@ -521,17 +623,27 @@ El Instituto impulsará, conjuntamente con instituciones de educación superior,
 
 El ejercicio del derecho de acceso a la información pública sólo será restringido en los términos de lo dispuesto por esta Ley, mediante las figuras de la información reservada y confidencial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 31.
 
-Para los efectos de esta Ley se considera información reservada la expresamente clasificada por el titular de cada uno de los Sujetos Obligados de común acuerdo con el Instituto, la clasificación de la información procede sólo en los siguientes casos:
+Para los efectos de esta Ley se considera información reservada la expresamente clasificada por el titular de cada uno de los Sujetos Obligados de conformidad con los criterios establecidos en esta Ley, su Reglamento y los lineamientos expedidos por el Instituto. La clasificación de la información procede sólo en los siguientes casos:
 
 I. Cuando se trate de información cuya divulgación ponga en riesgo la seguridad del Estado, la seguridad pública, la vida, la seguridad o la salud de cualquier persona;
 
 II. La información cuya divulgación pueda causar un perjuicio a las actividades de prevención o persecución de los delitos, la impartición de justicia, la recaudación de contribuciones o cualquier otra acción que tenga por objeto la aplicación de las leyes;
 
-III. Los expedientes de procesos jurisdiccionales o de los procedimientos administrativos seguidos en forma de juicio en tanto no hayan causado estado o ejecutoria, salvo los casos en que vulneren el derecho de protección de datos personales, en los términos de esta Ley;
+III. Los expedientes de procesos jurisdiccionales o de los procedimientos administrativos seguidos en forma de juicio en tanto no hayan causado estado o ejecutoria, salvo los casos en que vulneren el derecho de protección de datos personales, en los términos de esta Ley.
 
-IV. Las averiguaciones previas y la información que comprometa los procedimientos de investigación penal;
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Para reservar la información a que se refiere esta fracción, no se requerirá que se acrediten los supuestos contemplados en las fracciones II y III del artículo 32 de esta Ley;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. Los expedientes de integración de las averiguaciones previas durante dicha etapa, para lo cual no se requerirá que se acrediten los supuestos contemplados en las fracciones II y III del artículo 32 de esta Ley. La reserva no incluirá en ningún caso las actuaciones y diligencias en que intervenga el interesado.
+
+Los expedientes de las averiguaciones previas respecto de los cuáles se determinó y confirmó el no ejercicio de la acción penal podrán ser divulgados, salvo que se pruebe un daño serio a la persecución de los delitos;
 
 V. Cuando se trate de información sobre estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o suponga un riesgo para su realización;
 
@@ -543,23 +655,31 @@ VIII. Cuando se trate de información correspondiente a documentos o comunicacio
 
 IX. Cuando se trate de información cuya divulgación pueda dañar la estabilidad financiera y económica del estado y municipio;
 
-X. Cuando se trate de información que pueda generar una ventaja personal indebida en perjuicio de un tercero;
+X. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2007)
 
-XI. La que se refiere a servidores públicos que laboren o hayan laborado en el ámbito de seguridad pública, procuración e impartición de justicia, que por su publicación pudiera poner en peligro su vida, de otros servidores públicos o de terceros; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
-XII. La que pueda menoscabar la conducción de negociaciones en beneficio de la entidad, incluida aquella información que la federación, organismos internacionales, u otros Estados, a la entidad con carácter de confidencial o reservada.
+XI. La que se refiere a servidores públicos que laboren o hayan laborado en el ámbito de seguridad pública, procuración e impartición de justicia, que por su publicación pudiera poner en peligro su vida, la de otros servidores públicos o de terceros; y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+XII. La que pueda menoscabar la conducción de negociaciones en beneficio de la entidad, incluida aquella información que la federación, organismos internacionales, u otros Estados entreguen a la entidad con carácter de confidencial o reservada.
 
 La de caracteres personales contenidos en las actuaciones de la Comisión Estatal de los Derechos Humanos del Estado para la investigación de las denuncias y quejas por violaciones de los derechos humanos; serán accesibles a los particulares los procedimientos que realice cuando hayan concluido por etapas, las recomendaciones que, en su caso, emita el titular de ese organismo.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 32.
 
-El acuerdo que determine la clasificación de la información como reservada deberá señalar el plazo de reserva, la autoridad y el servidor público responsable de su resguardo, la parte o las partes del documento que se reserva, la fuente y el archivo donde radica la información, así como los fundamentos jurídicos y las motivaciones para comprobar que:
+El acuerdo que determine la clasificación de la información como reservada deberá señalar el plazo de reserva, la autoridad y el servidor público responsable de su resguardo, la parte o las partes del documento que se reserva, la fuente y el archivo donde radica la información, así como los fundamentos jurídicos y las motivaciones para acreditar que:
 
-I. El conocimiento y difusión de la información constituye un riesgo para los fines tutelados por la Ley;
+I. La información solicitada se refiere a alguna de las hipótesis señaladas en la Ley.
 
-II. El riesgo y los daños que potencialmente se deriven del conocimiento de la información clasificada sean superiores al interés de facilitar al público el acceso a la información reservada; y
+II. El conocimiento y difusión de la información constituye un riesgo presente y específico para los fines tutelados por la Ley; y
 
-III. La información solicitada se refiere a alguna de las hipótesis señaladas en la Ley.
+III. Se pruebe que el riesgo presente y específico, así como los daños que potencialmente se deriven del conocimiento de la información clasificada sean superiores al interés de facilitar al público el acceso a la información reservada.
+
+La información deberá ser clasificada por el titular del Sujeto Obligado desde el momento en que se genera el documento o el expediente o en el momento en que se recibe una solicitud de acceso a la información.
 
 ###### Artículo 33.
 
@@ -567,17 +687,15 @@ El Sujeto Obligado no podrá negar el acceso a las partes no reservadas de un do
 
 No podrá invocarse el carácter de reservado cuando se trate de la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 34.
 
-La información clasificada como reservada, tendrá este carácter hasta por un lapso de:
+La información clasificada como reservada, tendrá este carácter hasta por un lapso de siete años tratándose de la información en posesión de los Sujetos Obligados reguladas en esta Ley.
 
-I. Cuatro años tratándose de información en posesión de las autoridades municipales y del Poder Legislativo del Estado; y
+Esta será accesible al público, aun cuando no se hubiese cumplido el plazo anterior, si dejan de concurrir las circunstancias que motivaron su clasificación a juicio de los sujetos obligados o previa determinación del Instituto.
 
-II. Siete años tratándose de la información en posesión del resto de los Sujetos Obligados reguladas en esta Ley.
-
-Ésta será accesible al público, aún cuando no se hubiesen cumplido los plazos anteriores; si dejan de concurrir las circunstancias que motivaron su clasificación a juicio del Instituto.
-
-Asimismo, los Sujetos Obligados podrán solicitar al Instituto la ampliación del período de reserva, hasta por un plazo igual y por una sola vez, siempre y cuando subsistan las causas que dieron origen a su clasificación.
+Asimismo, los Sujetos Obligados podrán ampliar el período de reserva, hasta por un plazo igual, siempre y cuando subsistan las causas que dieron origen a su clasificación. Este periodo podrá ser excepcionalmente renovado y siempre que subsistan las causales que le dieron origen.
 
 ###### Artículo 35.
 
@@ -603,9 +721,11 @@ Cuando los Sujetos Obligados recaben información confidencial deberán informar
 
 Los Sujetos Obligados establecerán Unidades de Acceso a la Información y designarán de entre sus servidores públicos a su titular que será responsable de la atención de las solicitudes de información que formulen las personas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 39.
 
-Las Unidades de Acceso a la Información tendrán las siguientes funciones:
+Las Unidades de Acceso a la Información tendrán las siguientes facultades y obligaciones:
 
 I. Recabar, transparentar y actualizar la información pública de oficio a que se refiere esta Ley;
 
@@ -615,7 +735,9 @@ III Recibir y tramitar las solicitudes de acceso a la información pública, as�
 
 IV. Coordinar, organizar, administrar, custodiar y sistematizar los archivos que contengan la información pública a su cargo, respetando en todo momento los lineamientos que al efecto dicte el Instituto;
 
-V. Llevar el registro y actualizar mensualmente las solicitudes de acceso a la información, así como sus trámites, costos de reproducción y/o envío, así como sus resultados;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+V. Llevar el registro y actualizar mensualmente las solicitudes de acceso a la información, así como sus trámites, costos de reproducción y/o envío y resultados. Esta información constituirá el informe parcial general que trimestralmente el Sujeto Obligado debe remitir al Instituto, de conformidad con el último párrafo del artículo 25 de esta Ley;
 
 VI. Efectuar las notificaciones correspondientes a los solicitantes en los términos del reglamento de esta Ley;
 
@@ -627,21 +749,29 @@ IX. Verificar, en cada caso, que la información solicitada no esté clasificada
 
 X. Recibir las solicitudes de aclaración, la acción de Protección de Datos Personales, dándoles el seguimiento que corresponde; y
 
-XI. Las demás funciones necesarias para facilitar el ejercicio del derecho de acceso a la información.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+XI. Las demás que sean necesarias para facilitar el ejercicio del derecho de acceso a la información.
 
 ###### Artículo 40.
 
 Las Unidades de Acceso a la Información gubernamentales contarán con el presupuesto, personal capacitado, apoyo técnico, instalaciones y plataforma informática necesaria para realizar las funciones señaladas en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 41.
 
-Los sujetos obligados, el Sistema Estatal de Archivos, la Secretaría de Contraloría y los órganos competentes, de manera coordinada con el Instituto establecerán las bases técnicas e institucionales para la organización y funcionamiento de las Unidades de Acceso a la Información.
+Los sujetos obligados y el Sistema Estatal de Archivos, de manera coordinada con el Instituto, establecerán las bases técnicas e institucionales para la organización y funcionamiento de las Unidades de Acceso a la Información.
 
-Los titulares de las entidades, de conformidad con las disposiciones aplicables, deberán asegurar el adecuado funcionamiento de los archivos. Asimismo, deberán elaborar y poner a disposición del público una guía simple de sus sistemas de clasificación y catalogación, así como de la organización del archivo.
+Tratándose de la Administración Pública Estatal intervendrán la Consejería Jurídica del Poder Ejecutivo y la Secretaría de Contraloría.
+
+Los sujetos obligados de conformidad con las disposiciones aplicables, deberán asegurar el adecuado funcionamiento de los archivos, elaborar y poner a disposición del público una guía simple de sus sistemas de clasificación y catalogación y organización del archivo.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 42.
 
-Se establecerán convenios entre los Sujetos Obligados y el Sistema Estatal de Archivos con el Archivo General de la Nación, para definir y establecer los criterios de catalogación, clasificación y conservación de documentos administrativos, así como la organización de archivos de los Sujetos Obligados en las entidades. Dichos criterios tomarán en cuenta los estándares y mejores prácticas nacionales e internacionales en la materia.
+Se establecerán convenios entre los Sujetos Obligados y el Sistema Estatal de Archivos con el Archivo General de la Nación, para definir y establecer los criterios de Organización, catalogación y clasificación de los archivos, así como de conservación de documentos administrativos. Dichos criterios tomarán en cuenta los estándares y mejores prácticas nacionales e internacionales en la materia.
 
 ### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO PARA El EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -649,7 +779,9 @@ Se establecerán convenios entre los Sujetos Obligados y el Sistema Estatal de A
 
 Las personas ejercerán su derecho de acceso a la información ante el Sujeto Obligado que la posea.
 
-La solicitud deberá hacerse por escrito, a menos que la índole del asunto permita que sea verbal, en cuyo caso el Sujeto Obligado registrará en un formato las características de la solicitud y procederá a entregar una copia del mismo al interesado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+La solicitud deberá hacerse ante la Unidad de Acceso a la Información correspondiente por escrito, a menos que la índole del asunto permita que sea verbal, en cuyo caso dicha Unidad registrará en un formato las características de la solicitud y procederá a entregar una copia del mismo al interesado.
 
 ###### Artículo 44.
 
@@ -657,19 +789,31 @@ La solicitud de acceso a la información que se presente por escrito deberá con
 
 I. Sujeto Obligado a quien corresponda;
 
-II. Nombre completo del solicitante;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
-III Identificación clara y precisa de los datos e informaciones que requiere;
+II. Nombre del solicitante
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+III. Identificación clara y precisa de los datos e información que requiere, en el entendido que el particular sólo podrá solicitar una información por cada escrito que presente.
 
 IV. El medio de reproducción por el cual desea recibir la información; y
 
-V. Domicilio señalado para recibir la información o notificaciones.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
-Si la solicitud es obscura, confusa o no contiene todos los datos requeridos, el Sujeto Obligado deberá hacérselo saber por escrito al solicitante, en un plazo no mayor de cinco días hábiles después de recibida aquélla, a fin de que la aclare o complete.
+V. Domicilio para recibir la información o notificaciones o en su caso la forma como desea ser notificado, de conformidad con los supuestos que para el efecto se prevean en el reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Si la solicitud es obscura, confusa o no contiene todos los datos requeridos, el Sujeto Obligado deberá hacérselo saber por escrito al solicitante, en un plazo no mayor de cinco días hábiles después de recibida aquélla, a fin de que la aclare o complete en un plazo igual al anterior. Este acuerdo interrumpe el plazo que la Ley otorga para atender la solicitud, el cual iniciará de nuevo cuando se cumpla el requerimiento.
 
 El solicitante deberá contar con el apoyo de la Unidad de Acceso a la Información designada por el Sujeto Obligado para recibir las solicitudes, en caso de así requerirlo.
 
 Si la solicitud es presentada ante una Unidad de Acceso a la Información que no es competente para entregar la información o que no la tenga por no ser de su ámbito, la Unidad receptora deberá comunicarlo y orientar debidamente al solicitante, en un plazo no mayor de cinco días hábiles contados a partir de su presentación.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Los plazos previstos en este capítulo iniciarán cuando la solicitud se presente ante la Unidad de Acceso a la Información del Sujeto Obligado.
 
 ###### Artículo 45.
 
@@ -689,21 +833,39 @@ Los Sujetos Obligados deberán esforzarse por reducir, al máximo, los costos de
 
 Los Sujetos Obligados consideradas en la presente Ley están obligados a entregar información sencilla y comprensible a la persona sobre los trámites y procedimientos que deben efectuarse, las autoridades o instancias competentes, la forma de realizarlos, la manera de llenar los formularios que se requieran, así como de las entidades ante las que se puede acudir para solicitar orientación o formular quejas, consultas o reclamos sobre la prestación del servicio o sobre el ejercicio de las funciones o competencias a cargo de la autoridad de que se trate.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 47.
 
-En el caso de que la solicitud sea rechazada, se le comunicará por escrito al solicitante dentro de los cinco días hábiles siguientes. Esta negativa deberá estar fundada y motivada.
+En el caso de que la solicitud sea rechazada, se le comunicará por escrito al solicitante dentro de los veinte días hábiles siguientes. Esta negativa deberá estar fundada y motivada.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 47 Bis.
+
+Cuando la información solicitada no se encuentre en los archivos del Sujeto Obligado, la Unidad de Acceso a la Información deberá remitir la solicitud y el oficio donde manifieste la inexistencia de la información al Titular del Sujeto Obligado, para que analice el caso y tome las medidas pertinentes para localizar la información en el ámbito de sus responsabilidades, si pese a ello persiste la inexistencia de la información, deberá comunicarlo a la Unidad de Acceso a la Información para que emita un acuerdo de Inexistencia de información solicitada que deberá notificar al interesado en un plazo no mayor a quince días hábiles, contados a partir de la recepción de la solicitud.
+
+Se presume que la información existe si documenta algunas de las facultades o funciones que los ordenamientos jurídicos aplicables otorguen al Sujeto Obligado, si este fuere el caso el Titular del Sujeto Obligado deberá ordenar que se genere y notificará al Órgano de Control Interno o a la Secretaría de Contraloría para que inicie el procedimiento de responsabilidad administrativa correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 48.
 
-Toda solicitud de información realizada en los términos de la presente Ley deberá ser satisfecha en un plazo no mayor de quince días hábiles. El plazo se podrá prorrogar en forma excepcional por otros diez días hábiles de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, el Sujeto Obligado deberá comunicar, antes del vencimiento del plazo de quince días, las razones por las cuales hará uso de la prórroga excepcional.
+Toda solicitud de información realizada en los términos de la presente Ley deberá ser satisfecha en un plazo no mayor de veinte días hábiles. El plazo se podrá prorrogar en forma excepcional por otros diez días hábiles de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, el Sujeto Obligado deberá comunicar, antes del vencimiento del plazo, las razones por las cuales hará uso de la prórroga excepcional.
+
+La información deberá entregarse dentro de los diez días hábiles siguientes al que la Unidad de Enlace le haya notificado la disponibilidad de aquella, siempre que el solicitante compruebe haber cubierto el pago de los derechos correspondientes.
 
 ###### Artículo 49.
 
 Cumplido el plazo previsto en el artículo anterior, si la solicitud de información no se hubiese satisfecho o la respuesta fuese ambigua o parcial a juicio del solicitante, éste podrá acudir al Instituto a fin de que requiera al Sujeto Obligado correspondiente la información solicitada en los términos legalmente procedentes.
 
-Cuando por negligencia u omisión no se dé respuesta en tiempo y forma a la solicitud de acceso a la información, el Sujeto Obligado queda emplazada a otorgar la información en un período no mayor a los diez días hábiles, cubriendo todos los costos generados por la reproducción del material informativo, siempre y cuando la información de referencia no sea reservada o confidencial.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
-Para efectos de la presente Ley, el silencio del Sujeto Obligado no se interpreta como negación de una solicitud, sino como un acto de incumplimiento a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco.
+Cuando por negligencia u omisión no se dé respuesta en tiempo y forma a la solicitud de acceso a la información, el Sujeto Obligado queda emplazado a otorgar la información en un período no mayor a los diez días hábiles, cubriendo todos los costos generados por la reproducción del material informativo, siempre y cuando la información de referencia no se encuentre reservada o sea confidencial.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+Para efectos de la presente Ley, el silencio del Sujeto Obligado no se interpreta como negación de una solicitud, sino como un acto de incumplimiento a la presente Ley, independientemente de lo que dispongan otras leyes.
 
 ###### Artículo 50.
 
@@ -767,7 +929,9 @@ VI. En los demás casos que establezcan las leyes.
 
 Los interesados a quienes se les niegue el acceso a la información, podrán interponer el recurso de revisión ante el Instituto, dentro de los quince días hábiles siguientes a la notificación respectiva.
 
-En caso de que el recurso se interponga ante la Unidad de Acceso a la Información del Sujeto Obligado, deberá remitir el asunto al Instituto o en su caso al Órgano competente al día siguiente de haberlo recibido.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+En caso de que el recurso se interponga ante la Unidad de Acceso a la Información del Sujeto Obligado, deberá remitir el asunto al Instituto al día hábil siguiente de haberlo recibido.
 
 ###### Artículo 60.
 
@@ -793,19 +957,25 @@ IV. El solicitante considere que la información entregada es incompleta o no co
 
 El escrito en el que se presente el recurso de revisión debe contener:
 
-I. El nombre del recurrente o de su representante legal;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+I. Nombre del recurrente o de su representante legal, en éste último caso la representación se acreditará en los términos que fije el reglamento de esta Ley;
 
 II. El Sujeto Obligado ante el cual se presentó la solicitud;
 
-III. Domicilio para recibir notificaciones y en su caso, señalar a la persona que las pueda recibir en su nombre;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+III. Domicilio para recibir notificaciones, o en su caso la forma como desea ser notificado, de conformidad con los supuestos que para el efecto se prevean en el reglamento de esta Ley;
 
 IV. Precisar el acto objeto de la inconformidad, así como el Sujeto Obligado responsable y la fecha en la que se notificó o tuvo conocimiento del mismo; anexando, en su caso, copia de las mismas, y
 
-V. Firma o huella del recurrente.
+V. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 63.
 
-El recurso de revisión se presentará ante el Instituto el cual estará obligado a dar una resolución administrativa en un plazo máximo de quince días hábiles a partir de la fecha en que se registró la promoción.
+El recurso de revisión se presentará ante el Instituto el cual estará obligado a dar una resolución administrativa en un plazo máximo e improrrogable de treinta días hábiles a partir de la fecha en que se registró la promoción.
 
 ###### Artículo 64.
 
@@ -841,7 +1011,21 @@ La resolución final deberá emitirse por escrito, y estar fundada y motivada.
 
 Para los Sujetos Obligados las resoluciones del Instituto serán definitivas. La persona agraviada tendrá en todo tiempo el derecho para acudir a los órganos jurisdiccionales para hacer valer lo que a su derecho corresponda.
 
-### CAPÍTULO DÉCIMO. FALTAS ADMINISTRATIVAS Y SANCIONES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+### CAPÍTULO DÉCIMO. DE LA QUEJA
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 68 Bis.
+
+Procede la Queja ante el Instituto por el incumplimiento por parte del o de los Sujetos obligados de las disposiciones previstas en la presente Ley, incluyendo el supuesto establecido en el artículo 49 de la misma.
+
+La Queja podrá ser interpuesta por cualquier particular en los términos que establezca el Reglamento de la Ley.
+
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO DECIMO], P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+### CAPÍTULO UNDÉCIMO. FALTAS ADMINISTRATIVAS Y SANCIONES
 
 ###### Artículo 69.
 
@@ -849,11 +1033,15 @@ Son causas de responsabilidad administrativa de los Sujetos Obligados por incump
 
 I. Incumplir con las obligaciones de transparencia a su cargo;
 
-II. No proporcionar la información cuya entrega haya sido ordenada por el Instituto;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+II. No proporcionar la información cuya entrega haya sido ordenada por el Instituto, como resultado de los procedimientos que ante él se sustancian;
 
 III. Desacatar las órdenes e instrucciones que gire el Instituto a los Sujetos Obligados, a efecto de que éste aplique las medidas de carácter jurídico, técnicas o administrativas, que requiera el cabal funcionamiento de su respectivo Sistema de Información;
 
-IV. No entregar información pública de oficio en la forma y términos que establecen esta Ley y su reglamento,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. No entregar información pública en la forma y términos que establecen esta Ley y su reglamento;
 
 V. Negar la rectificación o supresión de los datos o documentos, en los casos en que estas procedan;
 
@@ -863,7 +1051,7 @@ VII. Desempeñarse con negligencia, dolo o mala fe en la sustanciación de las s
 
 VIII. Entregar a los particulares información reservada o confidencial, contraviniendo lo dispuesto por esta Ley y su reglamento;
 
-IX. Desacatar las resoluciones del Instituto dictadas en materia de recursos;
+IX. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2007)
 
 X. Entregar a los particulares información incomprensible, insuficiente, distinta a la solicitada o inoportuna o falsa, vulnerando los atributos de transparencia que establece esta Ley;
 
@@ -875,47 +1063,47 @@ XIII. Proporcionar información al margen o en contra de lo dispuesto por la Ley
 
 XIV. Comercializar con datos personales contenidos en sus archivos;
 
-XV. Abstenerse de proporcionar la información a que está obligado;
+XV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2007)
 
 XVI. Recabar datos personales innecesarios para el desempeño de sus funciones públicas; y
 
-XVII. Clasificar de mala fe como reservada o confidencial, información que no cumple con las características señaladas en esta Ley.
+XVII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2007)
 
-Las infracciones de los partidos políticos y las agrupaciones políticas, se sancionarán de acuerdo al Código de Instituciones y Procedimientos Electorales del Estado de Tabasco, la Ley Orgánica del Tribunal Electoral del Estado de Tabasco.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 70.
 
 El Pleno del Instituto determinará y aplicará sanciones bajo los siguientes criterios:
 
-I. El Sujeto Obligado que incurra en alguna de las causales previstas en el artículo anterior, siempre que se trate de una primera infracción y que ésta no sea grave, será amonestada por escrito;
+I. El Sujeto Obligado que incurra en algunas de las causales previstas en las fracciones III y XVI del artículo anterior, siempre que se trate de una primera infracción, será amonestado por escrito. La reincidencia en estas conductas se sancionará con multa de cien a quinientos días de salario mínimo vigente en el Estado.
 
-II. Se sancionará con multa de cien a quinientos días de salario mínimo vigente en el estado a:
+II. Se sancionará con multa de cien a quinientos días de salario mínimo vigente en el Estado a quien incurra en algunas de las causales previstas en las fracciones I, IV, V, VIII, XII y XIII, en estos dos últimos casos cuando la conducta sea negligente, del artículo anterior.
 
-a) El Sujeto Obligado que en la sustanciación de las solicitudes de información o protección de datos personales, se desempeñe con negligencia, dolo o mala fe, o cuando entregue información de manera incompleta o retarde su entrega intencional mente; y
-
-b) El Sujeto Obligado que en el cumplimiento de sus funciones recabe datos personales que no resulten indispensables para ello;
-
-III. El Sujeto Obligado que debiéndolo hacer, no guarde con el debido cuidad la información que tenga bajo custodia, incurriendo en alguna de las conductas previstas en esta Ley, será amonestado por el Instituto y en caso de reincidencia se le sancionará con multa de cien a quinientos días de salario mínimo vigente en el estado;
-
-IV. Si el Sujeto Obligado de cuyo cargo depende la difusión de la información mínima que debe difundirse de oficio, no lo hiciere, será sancionado con multa de cien a quinientos días de salario mínimo vigente en el Estado de Tabasco. Si la conducta se repite será aumentada hasta en un cien por ciento en cada ocasión, a juicio del Instituto; y
-
-V. Se sancionará con multa de quinientos a mil días de salario mínimo vigente en el estado a:
-
-a) El Sujeto Obligado que niegue intencionalmente el acceso a la información aduciendo falsamente que la misma se encuentra clasificada como reservada o confidencial; entregue indebidamente información considerada como reservada o confidencial, o clasifique con dolo o mala fe cualquier información que no deba ser clasificada; y
-
-b) El Sujeto Obligado que comercialice con datos personales que obren en los archivos a su alcance.
+III. Se sancionará con destitución del cargo e inhabilitación de ocupar puestos públicos hasta por cinco años, a quien incurra en algunas de las causales previstas en las fracciones II, VI, VII, X, XI, XII, XIII y XIV cuando la conducta sea dolosa y reincidente.
 
 Cualquier conducta no prevista en esta ley que obstaculice el derecho de acceso a la información será sancionada conforme a las demás leyes aplicables.
 
 En caso de que estas conductas sean reiterativas el Instituto, además de las sanciones que imponga, las hará del conocimiento público.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 71.
 
-Las sanciones previstas en esta ley contra los Sujetos Obligados se entenderán dirigidas al titular de las mismas quien, en su caso, podrá deslindar responsabilidades instaurando el procedimiento interno que corresponda, conforme a la Ley de Responsabilidades de los Servidores Públicos.
+Las sanciones previstas en esta ley contra los Sujetos Obligados se entenderán dirigidas al titular de las mismas, quien deberá deslindar responsabilidades instaurando el procedimiento interno que corresponda, conforme a la Ley de Responsabilidades de los Servidores Públicos, y en el caso de los partidos políticos y las agrupaciones políticas de acuerdo con el procedimiento previsto en las leyes aplicables.
 
 ###### Artículo 72.
 
 El incumplimiento a las resoluciones del Instituto se equiparará al delito de abuso de autoridad, en los términos del Código Penal del Estado de Tabasco.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 73.
+
+Las multas que imponga el Instituto, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida haciéndose efectivas por la autoridad en la materia; conforme al procedimiento administrativo de ejecución que establece el Código Fiscal para el Estado y demás disposiciones aplicables.
+
+La autoridad en la materia deberá informar trimestralmente al Instituto, de los trámites que se realicen para la ejecución de los cobros respectivos y el monto recuperado.
 
 ## TRANSITORIOS
 
@@ -927,7 +1115,7 @@ Artículo Tercero. El titular del Poder Ejecutivo del Estado expedirá el Reglam
 
 Artículo Cuarto. Los Poderes Legislativo, Ejecutivo y Judicial, los órganos con autonomía constitucional, en el ámbito de sus respectivas competencias y los Ayuntamientos, establecerán las Unidades de Acceso a la Información y; mediante reglamentos o acuerdos de carácter general, los criterios y procedimientos institucionales para proporcionar a los particulares el acceso a la información pública, de conformidad a las bases y principios establecidos en esta Ley. Estos reglamentos o acuerdos de carácter general deberán ser expedidos a más tardar dentro de un año de la entrada en vigor de la presente Ley.
 
-Artículo Quinto. Las personas podrán ejercer el derecho de acceso a la información pública y de Protección de Datos Personales un año después de la entrada en vigor de la presente Ley; una vez que los poderes Legislativo, Ejecutivo y Judicial los Ayuntamientos y los Órganos con Autonomía Constitucional hayan expedido los reglamentos, acuerdos o bandos de carácter general que establezcan los órganos, criterios y procedimientos institucionales a que se refiere el artículo anterior.
+Artículo Quinto. (DEROGADO, P.O. 26 DE DICIEMBRE DE 2007)
 
 Artículo Sexto. A partir de su nombramiento, los miembros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública deberán instrumentar las acciones concernientes a que la presente Ley sea conocida y difundida entre los diversos sectores sociales, así como a concientizar a los ciudadanos y servidores públicos de la importancia que revisten los derechos de acceso a la información y Protección de Datos Personales, en una sociedad democrática. Para lo anterior podrán atraer el concurso de instituciones de educación superior, así como de organismos nacionales e internacionales especializados en el tema.
 
@@ -952,3 +1140,35 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los consejeros que actualmente integran al Instituto continuarán en su encargo hasta el final del periodo para el cual fueron designados, pudiendo ser reelectos bajo las modalidades de Ley.
+
+###### ARTÍCULO TERCERO.
+
+En cumplimiento a lo señalado en el artículo 10, fracción II, inciso b) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, el Órgano Superior de Fiscalización realizará las gestiones correspondientes, a fin de devolver a los entes fiscalizados la documentación de cuenta pública de ejercicios fiscales ya calificados que estén en su posesión.
+
+###### ARTÍCULO CUARTO.
+
+El titular del Poder Ejecutivo del Estado expedirá las reformas al Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco que conforme a este Decreto procedan en un período no mayor de 60 días hábiles, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto deberá expedir su reglamento Interior en un periodo de 60 días hábiles, contados partir del día siguiente a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las personas podrán ejercer el derecho de acceso a la información pública y de protección de datos personales un año después de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
