@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-pasaportes-22777"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-09"
-last_updated: "2002-01-09"
+last_updated: "2007-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22777&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2001-12-28"
 
 REGLAMENTO DE PASAPORTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2007.
 
-Reglamento publicado en el Diario Oficial de la Federación el miércoles 9 de enero de 2002.
+Reglamento publicado en el Diario Oficial de la Federación, el miércoles 9 de enero de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -113,19 +113,33 @@ VI. Cubrir los derechos que señalen las disposiciones aplicables en la materia.
 
 Si el acta de nacimiento es de registro extemporáneo, la Secretaría de Relaciones Exteriores podrá verificar su autenticidad ante el Registro Civil que corresponda o, en su caso, el interesado podrá aportar pruebas en términos del último párrafo de la fracción III del artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 12.
 
-El pasaporte ordinario tendrá una vigencia de 1, 5 o 10 años. Será de 1 año en los siguientes casos:
+El pasaporte ordinario tendrá una vigencia de 1, 3, 6 ó 10 años.
 
-I. Por causas de emergencia debidamente justificadas;
+I. Será de 1 año en los siguientes casos:
 
-II. Cuando los interesados no puedan cumplir con los requisitos que determina el presente reglamento;
+a) Para los menores de 3 años de edad;
 
-III. En el caso de menores de 3 años, o
+b) Para las personas que requieran atención médica o psicológica de urgencia;
 
-IV. Por razones de protección consular en las representaciones de México en el exterior.
+c) Para los interesados que no puedan cumplir todos los requisitos que determina el presente Reglamento, por causas debidamente justificadas ante la Secretaría, y
 
-No obstante lo anterior, el pasaporte ordinario podrá tener una temporalidad específica menor, cuando así lo determine la autoridad judicial competente.
+d) Para las personas que se encuentren en el extranjero, por razones de protección consular.
+
+En los supuestos antes citados, el pasaporte que se expida no podrá ser canjeado, por lo que se deberá solicitar la expedición de uno nuevo. Para tal efecto, deberá presentarse el pasaporte otorgado bajo alguna de las circunstancias previstas en esta fracción y además satisfacer los requisitos establecidos en el artículo 10 y, en su caso, los previstos en los artículos 14 al 17 de este Reglamento.
+
+Los Titulares de las Representaciones de México en el Exterior tendrán la facultad de canjear los pasaportes otorgados por razones de protección consular, de conformidad con lo dispuesto por la Ley del Servicio Exterior Mexicano y su Reglamento.
+
+II. Será de 3 ó 6 años para los mexicanos mayores de tres años y menores de 18 años de edad.
+
+III. Será de 3, 6 ó 10 años para los mexicanos mayores de edad.
+
+IV. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 2007)
+
+El pasaporte ordinario podrá tener una vigencia menor a un año cuando así lo determine la autoridad judicial competente y se procederá a su expedición a partir de la fecha en la cual se autorice la salida del interesado del país.
 
 ###### ARTÍCULO 13.
 
@@ -310,3 +324,11 @@ TERCERO.- Los pasaportes y documentos de identidad y viaje expedidos con anterio
 CUARTO.- En tanto se expiden los nuevos formatos de solicitudes de pasaportes y documentos de identidad y viaje, seguirán utilizándose los que a la entrada en vigor de este Reglamento se hayan venido utilizando.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda Gutman.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1o. de enero de 2008.
+
+SEGUNDO.- Los pasaportes ordinarios mexicanos expedidos con anterioridad a la fecha de entrada en vigor de este Decreto, continuarán siendo válidos hasta que expire la temporalidad autorizada.
