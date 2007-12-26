@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2007-10-22"
+last_updated: "2007-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -155,11 +155,13 @@ VI.2. Dirección General Adjunta de Coordinación con Entidades del Sistema Fina
 
 VI. 3. Dirección General Adjunta Jurídica del Sistema Financiero de Fomento.
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VII. Unidad de Banca y Ahorro:
+VII. Unidad de Banca, Valores y Ahorro:
 
-VII. 1. Dirección General Adjunta de Banca Múltiple;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+VII.1. Dirección General Adjunta de Banca y Valores;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -169,9 +171,15 @@ VII. 2. Dirección de Regulación de Intermediarios Financieros No Bancarios;
 
 VII. 3. Dirección de Regulación de Intermediarios Financieros Bancarios;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 VII. 4. Dirección de Control Jurídico;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 VII. 5. Dirección General Adjunta de Análisis Financiero y Vinculación Internacional;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 VII. 6. Dirección de Análisis Financiero de Intermediarios Bancarios;
 
@@ -205,9 +213,9 @@ VII. 14. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 VII. 15. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VIII. Unidad de Seguros, Valores y Pensiones:
+VIII. Unidad de Seguros, Pensiones y Seguridad Social:
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -215,13 +223,13 @@ VIII. 1. Dirección de Análisis de Riesgos;
 
 VIII. 2. Dirección General Adjunta de Seguros y Fianzas;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VIII.3. Dirección General Adjunta de Pensiones y Organizaciones Auxiliares del Crédito;
+VIII.3. Dirección General Adjunta de Pensiones y Seguridad Social;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VIII. 4. Dirección de Organizaciones y Actividades Auxiliares del Crédito;
+VIII.4. Dirección de Sistemas de Pensiones y Seguridad Social;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -1181,7 +1189,9 @@ XV. Recibir, custodiar y llevar el registro clasificado y control de los valores
 
 XVI. Participar en la emisión, colocación y, en su caso, en la cancelación y destrucción de los títulos de deuda pública;
 
-XVII. Suscribir conjuntamente con el titular de la Secretaría o con el servidor público a quien éste autorice para ello, toda clase de títulos de crédito que obliguen al Gobierno Federal y realizar todos los actos legales y materiales relacionados con ellos;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XVII. Suscribir, conjuntamente con el titular de la Secretaría o con el Subsecretario de Hacienda y Crédito Público o el titular de la Unidad de Crédito Público, toda clase de títulos de crédito que obliguen al Gobierno Federal, y realizar todos los actos legales y materiales relacionados con ellos;
 
 XVIII. Intervenir en la materia de su competencia en la formulación de los convenios y acuerdos de coordinación fiscal con las Entidades Federativas;
 
@@ -2295,17 +2305,17 @@ VII. Formular para aprobación superior y en coordinación con la Unidad de Plan
 
 VIII. Manejar la deuda pública del Gobierno Federal y del Distrito Federal;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IX. Establecer, en su caso, el régimen sobre disponibilidades financieras del sector público, correspondientes a los organismos desconcentrados y descentralizados, bancos de desarrollo, fondos, fideicomisos y empresas de participación estatal mayoritaria, cuando no corresponda a otra unidad administrativa de la Secretaría;
+IX. Establecer, en su caso, el régimen sobre disponibilidades financieras del sector público, correspondientes a los órganos desconcentrados y organismos descentralizados, bancos de desarrollo, fondos, fideicomisos y empresas de participación estatal mayoritaria, cuando no corresponda a otra unidad administrativa de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. De conformidad con el acuerdo que expida el Secretario, ejercer las facultades de la Secretaría en materia de negociación y contratación del crédito público; fungir como representante de la Secretaría en dicha materia y suscribir los títulos y documentos relativos. Asimismo, ejercer las facultades de la Secretaría en materia de autorización y registro del endeudamiento de las entidades de la Administración Pública Federal, incluidas las instituciones de banca de desarrollo;
+X. Ejercer las facultades de la Secretaría en materia de negociación y contratación de operaciones asociadas al crédito público, y suscribir conjuntamente con el Tesorero de la Federación toda clase de títulos de crédito que obliguen al Gobierno Federal; fungir como representante de la Secretaría en dicha materia y suscribir los títulos y documentos relativos. Asimismo, ejercer las facultades de la Secretaría en materia de autorización y registro del endeudamiento de las entidades paraestatales de la Administración Pública Federal, incluidas las instituciones de banca de desarrollo;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XI. Resolver los asuntos relacionados con la aplicación de la Ley General de Deuda Pública, que competan a la Secretaría en las materias señaladas en la fracción anterior y administrar, controlar y ejercer los ramos presupuestales de deuda pública y otros que expresamente se le confieran;
+XI. Administrar, controlar y ejercer los ramos presupuestales de deuda pública y otros que expresamente se le confieran;
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -2335,7 +2345,9 @@ XVII. Diseñar, en el ámbito de competencia de la Secretaría, las directrices 
 
 XVIII. Contratar, administrar y enajenar los activos financieros asociados a las operaciones de crédito público;
 
-XIX. Instrumentar y, en su caso, previo acuerdo superior, formalizar los mandatos asociados con el crédito público, que otorgue el Gobierno Federal a través de la Secretaría;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XIX. Designar mandatarios, en el ámbito de su competencia, así como negociar y, en su caso, formalizar e instrumentar los mandatos asociados con el crédito público, que otorgue el Gobierno Federal a través de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -2345,25 +2357,21 @@ XX. Apoyar las funciones de las autoridades superiores de la Secretaría en la C
 
 XXI. Promover y ejecutar las acciones necesarias a fin de optimizar el perfil, estructura y costo de la deuda pública, incluyendo operaciones de cobertura, de reducción y de intercambio de deuda pública;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XXII. Coordinar la relación del Gobierno Federal e instrumentar la contratación de financiamiento con el Banco Internacional de Reconstrucción y Fomento, el Banco Interamericano de Desarrollo y los organismos y fondos similares y, conjuntamente con la Unidad de Planeación Económica de la Hacienda Pública y el Banco de México, coordinar la relación con el Fondo Monetario Internacional;
+XXII. Participar, con la Unidad de Asuntos Internacionales de Hacienda, la Unidad de Planeación Económica de la Hacienda Pública y el Banco de México, en la relación del Gobierno Federal con el Fondo Monetario Internacional;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XXIII. Proponer las políticas, instrumentar las normas y criterios de negociación, así como ejercer los derechos y cumplir las obligaciones que se generen de la participación del Gobierno Federal en el Banco Internacional de Reconstrucción y Fomento, el Banco Interamericano de Desarrollo, el Banco de Desarrollo de América del Norte, el Fondo Internacional de Desarrollo Agrícola, el Banco Japonés para la Cooperación Internacional, las agencias de financiamiento al comercio exterior u otras agencias y los fondos u organismos internacionales similares o filiales que involucren el otorgamiento de financiamientos;
+XXIII. Negociar y contratar los términos y condiciones financieras, así como ejercer los derechos y cumplir las obligaciones financieras que deriven de financiamientos, del Banco Internacional de Reconstrucción y Fomento, el Banco Interamericano de Desarrollo, el Banco de Desarrollo de América del Norte, el Fondo Internacional de Desarrollo Agrícola, u otras agencias, fondos u organismos internacionales afines o filiales, con la participación que corresponda a la Unidad de Asuntos Internacionales de Hacienda;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+XXIV. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 2007)
 
-XXIV. Ejercer los derechos del Gobierno Federal derivados de la participación accionaria en los organismos a que se refiere la fracción XXIII de este artículo, así como participar, cuando sea procedente, como representante de la Secretaría ante los mencionados organismos o, en su caso, designar al servidor público que ejerza dicha representación;
+XXV. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XXV. Suscribir, en representación de la Secretaría, los acuerdos de donación y de cooperación técnica no reembolsable, que se celebren con los organismos a que se refiere la fracción XXIII de este artículo, y fomentar su utilización, así como coordinarse con las unidades administrativas competentes para instrumentar las medidas necesarias para su debido cumplimiento;
-
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
-
-XXVI. Designar a los agentes financieros para la negociación y contratación de créditos, cooperaciones técnicas no reembolsables y donaciones con los organismos y agencias a que se refiere la fracción XXIII de este artículo; instruir a dichos agentes para el ejercicio de los recursos contratados, así como para la ejecución de los proyectos financiados con esos recursos;
+XXVI. Designar, en coordinación con la Unidad de Asuntos Internacionales de Hacienda, a los agentes financieros; establecer los términos y condiciones financieras y suscribir los mandatos asociados a las operaciones derivadas de financiamientos del Banco Internacional de Reconstrucción y Fomento, el Banco Interamericano de Desarrollo, el Fondo Internacional de Desarrollo Agrícola u otras agencias, y fondos u organismos internacionales afines o filiales;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -2373,9 +2381,7 @@ XXVII. Definir las políticas para la negociación de financiamientos bilaterale
 
 XXVIII. Autorizar a los representantes financieros de México en el extranjero, para oír y recibir notificaciones provenientes de autoridades financieras extranjeras en relación a la contratación de crédito público externo;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
-
-XXIX. Definir la política de participación en el Comité para el Desarrollo del Banco Mundial, en colaboración con la Unidad de Asuntos Internacionales de Hacienda;
+XXIX. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -2407,13 +2413,15 @@ II. Apoyar, en el ámbito de su competencia, a la Unidad de Crédito Público en
 
 III. Ejercer las facultades que competen a la Unidad de Crédito Público en materia de autorización y registro del endeudamiento de las entidades de la Administración Pública Federal, incluidas las instituciones de banca de desarrollo;
 
-IV. (DEROGADA, D.O.F. 18 DE JULIO DE 2006)
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. Formular, para aprobación superior, las políticas de captación de recursos de los organismos bilaterales de financiamiento al comercio exterior por parte de la Administración Pública Federal, y determinar, en su caso, sin perjuicio de la normatividad aplicable, las directrices para el acceso a dichas fuentes de financiamiento;
 
 V. Analizar y, en su caso, autorizar las solicitudes de financiamiento externo presentadas por las entidades de la administración pública federal, incluyendo las instituciones de Banca de Desarrollo;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Proyectar, para acuerdo superior y en coordinación con la Dirección General Adjunta de Procedimientos Legales de Crédito, la instrumentación de los mandatos asociados al crédito público en materia de su competencia, que otorgue el Gobierno Federal, a través de la Secretaría;
+VI. En coordinación con la Dirección General Adjunta de Procedimientos Legales de Crédito, instrumentar los mandatos asociados al crédito público en materia de su competencia, que otorgue el Gobierno Federal, a través de la Secretaría, así como, en su caso, tramitar y formalizar su terminación;
 
 > <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -2467,15 +2475,21 @@ XVIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 Compete a la Dirección General Adjunta de Captación:
 
-I. Formular, para aprobación superior, en coordinación con otras unidades administrativas competentes de la Secretaría, las políticas de captación de recursos de la Administración Pública Federal en el mercado de dinero y capitales, así como de los organismos bilaterales de financiamiento al comercio exterior, y determinar, en su caso, sin perjuicio de la normatividad aplicable, las directrices para el acceso de las entidades de la Administración Pública Federal a dichas fuentes de financiamiento;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Participar en la negociación y contratación de operaciones de crédito público a cargo del Gobierno Federal conforme a las instrucciones superiores, así como elaborar y suscribir los documentos relativos;
+I. Formular, para aprobación superior, en coordinación con otras unidades administrativas competentes de la Secretaría, las políticas de captación de recursos de la Administración Pública Federal en el mercado de dinero y capitales, y determinar, en su caso, sin perjuicio de la normatividad aplicable, las directrices para el acceso a dichas fuentes de financiamiento;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+II. Participar en la negociación y contratación de operaciones de crédito público y las asociadas a éstas, a cargo del Gobierno Federal conforme a las instrucciones superiores, así como elaborar y suscribir los documentos relativos;
 
 III. Supervisar, en coordinación con la Dirección General Adjunta de Procedimientos Legales de Crédito, los aspectos contractuales de las operaciones de crédito público a que se refiere la fracción anterior, sin perjuicio de las atribuciones que conforme al presente Reglamento correspondan a otras unidades administrativas de la Secretaría;
 
 IV. Proponer, para aprobación superior, las directrices para coadyuvar al acceso de las entidades de la Administración Pública Federal al mercado de dinero y capitales, así como apoyar, en el ámbito de su competencia, a la Unidad de Crédito Público en el ejercicio de las atribuciones que le corresponden en materia de diseño e instrumentación de políticas de promoción, regulación y supervisión de los participantes en los mercados financieros nacionales, para coadyuvar a su sano desarrollo;
 
-V. Preparar estudios, concentrar y difundir la información sobre el mercado de dinero y capitales, así como de los organismos bilaterales de financiamiento al comercio exterior;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+V. Preparar estudios, concentrar y difundir la información sobre el mercado de dinero y capitales;
 
 VI. Opinar, en su caso, sobre los proyectos, programas y esquemas de financiamiento de la Administración Pública Federal factibles de apoyarse con recursos internos o externos, así como sobre los términos y condiciones financieras de las ofertas de crédito, productos derivados o de manejo de pasivos que sean presentadas por las entidades de la Administración Pública Federal;
 
@@ -2483,11 +2497,13 @@ VII. Participar en la programación de financiamiento de la Administración Púb
 
 VIII. Instrumentar mecanismos financieros de intercambio de deuda, manejo de pasivos, coberturas cambiarias y de tasas de interés; productos derivados y esquemas especiales en los que participe la Administración Pública Federal, coordinándose con la Dirección General Adjunta de Procedimientos Legales de Crédito en la elaboración de documentos relativos a dichas operaciones;
 
-IX. Proponer, para aprobación superior, la designación de los agentes financieros para la negociación y contratación de créditos y donaciones con los organismos bilaterales de financiamiento al comercio exterior, así como instruir a dichos agentes financieros sobre el ejercicio de los recursos contratados;
+IX. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 2007)
 
-X. Participar, cuando sea procedente, como representante de la Secretaría ante los organismos bilaterales de financiamiento al comercio exterior, así como coordinar las reuniones de trabajo con las mismas;
+X. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 2007)
 
-XI. Instrumentar las acciones que le encomiende el Titular de la Unidad de Crédito Público en el ejercicio de las atribuciones a que se refieren las fracciones XXIII a XXVII del artículo 17 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XI. Instrumentar las acciones que le encomiende el Titular de la Unidad de Crédito Público en el ejercicio de las atribuciones a que se refieren las fracciones XXII, XXIII y XXVI del artículo 17 de este Reglamento;
 
 XII. Representar a la Unidad de Crédito Público, cuando por instrucciones superiores así se establezca, ante los comités técnicos y grupos de trabajo de entidades y dependencias de la Administración Pública Federal, así como de organismos públicos autónomos y de órganos colegiados de los mandatos, fideicomisos públicos y demás instituciones que integran el sistema financiero;
 
@@ -2509,7 +2525,9 @@ I. Participar, en coordinación con las unidades administrativas competentes, en
 
 II. Participar con la Unidad de Crédito Público en el establecimiento del régimen de inversión de las disponibilidades financieras del sector público correspondientes a los órganos desconcentrados, organismos descentralizados, instituciones de banca de desarrollo, fondos, fideicomisos y empresas de participación estatal mayoritaria, cuando no corresponda a otra unidad administrativa de la Secretaría;
 
-III. Proyectar, para acuerdo superior y en coordinación con la Dirección General Adjunta de Procedimientos Legales de Crédito, la instrumentación de los mandatos asociados al crédito público materia de su competencia, que otorgue el Gobierno Federal, a través de la Secretaría;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+III. En coordinación con la Dirección General Adjunta de Procedimientos Legales de Crédito, instrumentar los mandatos asociados al crédito público en materia de su competencia, que otorgue el Gobierno Federal, a través de la Secretaría, así como, en su caso, tramitar y formalizar su terminación;
 
 IV. Representar a la Unidad de Crédito Público, cuando por instrucciones superiores así se establezca, ante los comités técnicos y grupos de trabajo de entidades y dependencias de la Administración Pública Federal, así como de organismos públicos autónomos y de órganos colegiados de los mandatos, fideicomisos públicos y demás instituciones en el ámbito de su competencia;
 
@@ -2541,17 +2559,17 @@ Compete a la Dirección General Adjunta de Procedimientos Legales de Crédito:
 
 I. Participar con las unidades administrativas competentes, en la formulación del programa de actividades en materia de negociación y contratación del crédito público;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Participar en los aspectos jurídicos de la negociación y contratación de créditos y, en su caso, suscribir los documentos relativos;
+II. Participar en los aspectos jurídicos de la negociación y contratación de operaciones de crédito público y las asociadas a éstas, a cargo del Gobierno Federal conforme a las instrucciones superiores, así como elaborar y suscribir los documentos relativos;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 III. Elaborar estudios jurídicos en materia de negociación y contratación de crédito público, así como estudios comparados de los sistemas jurídicos y administrativos de otros países en las materias que sean competencia de la Unidad de Crédito Público;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IV. Emitir opinión jurídica en asuntos relacionados con las disposiciones legales y normativas que rigen la materia de crédito público, así como sobre instrumentos jurídicos relativos a dicha materia; proponer, elaborar y, en su caso, opinar, sobre proyectos de leyes, reglamentos, acuerdos, oficios, circulares, iniciativas de decretos y demás disposiciones de carácter general cuya materia sea competencia de la Unidad de Crédito Público, así como proponer y participar en esquemas para la sistematización y divulgación de dicha normatividad, sin perjuicio de las atribuciones que este Reglamento otorga a las demás unidades administrativas de la Secretaría;
+IV. Emitir opiniones jurídicas, criterios e interpretaciones administrativas en asuntos relacionados con las disposiciones legales y normativas que rigen la materia de crédito público, así como sobre instrumentos jurídicos relativos a dicha materia; proponer, elaborar y, en su caso, opinar, sobre proyectos de leyes, reglamentos, acuerdos, oficios, circulares, iniciativas de decretos y demás disposiciones de carácter general cuya materia sea competencia de la Unidad de Crédito Público; proponer y participar en esquemas para la sistematización y divulgación de dicha normatividad, sin perjuicio de las atribuciones que este Reglamento otorga a las demás unidades administrativas de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -2573,9 +2591,9 @@ VIII. Resolver en coordinación con la Dirección General Adjunta de Deuda Públ
 
 IX. Autorizar en los términos de los documentos legales respectivos la tenencia, transmisión o cesión de los títulos o derechos sobre la deuda a cargo del Gobierno Federal, detentada por entidades financieras del extranjero, así como llevar los registros y controles necesarios para tales efectos;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. Proyectar, para acuerdo superior y en coordinación con las Direcciones Generales Adjuntas de Deuda Pública y de Proyectos, la instrumentación de los mandatos asociados al crédito público, que otorgue el Gobierno Federal, a través de la Secretaría;
+X. En coordinación con las direcciones generales adjuntas de Deuda Pública y de Proyectos, instrumentar los mandatos asociados al crédito público que otorgue el Gobierno Federal, a través de la Secretaría, así como, en su caso, tramitar y formalizar su terminación;
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -2963,89 +2981,109 @@ XXII. Participar en la formulación de programas especiales de las entidades a q
 
 XXIII. Participar, en coordinación con la Dirección General Adjunta de Coordinación con Entidades del Sector Industrial, Comercio, Obras Públicas, Vivienda y Ahorro Popular y con la Dirección General Adjunta de Programación y Análisis del Sistema Financiero de Fomento y Coordinación con Entidades Agropecuarias, en la programación anual, distribución y calendarización de los recursos de las entidades a que se refieren las fracciones I y I Bis del artículo 25 de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 27.
 
-Compete a la Unidad de Banca y Ahorro:
+Compete a la Unidad de Banca, Valores y Ahorro:
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Formular, para aprobación superior, las políticas de promoción, regulación y supervisión de: instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, oficinas de representación de las entidades financieras del exterior a que se refiere la Ley de Instituciones de Crédito, sucursales de bancos extranjeros de primer orden, sociedades de ahorro y préstamo, grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos, así como las actividades financiera, bancaria, crediticia y de ahorro y los asuntos referentes a la protección al ahorro bancario, ahorro y crédito popular, así como de protección y defensa al usuario de servicios financieros, dentro del ámbito de su competencia;
+I. Formular, para aprobación superior, las políticas de promoción, regulación y supervisión de: instituciones de banca múltiple; sociedades financieras de objeto limitado; sociedades de información crediticia; oficinas de representación de las entidades financieras del exterior a que se refiere la Ley de Instituciones de Crédito; sucursales de bancos extranjeros de primer orden; casas de bolsa; sociedades de inversión y sus operadoras; distribuidoras de acciones de sociedades de inversión; sociedades de ahorro y préstamo; grupos financieros en los que, conforme a la autorización otorgada por la Secretaría, se determine que su sociedad controladora estará sujeta a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores; sociedades controladoras de los grupos financieros anteriormente referidos; bolsas de valores; bolsas de futuros y opciones; socios liquidadores; operadores y formadores de mercado en el mercado de futuros y opciones; cámaras de compensación; instituciones para el depósito de valores; contrapartes centrales de valores; oficinas de representación de casas de bolsa del exterior; los demás participantes en el mercado de valores, futuros y opciones; organizaciones auxiliares del crédito y casas de cambio; así como las actividades financiera, bancaria, crediticia, de valores, futuros, opciones y auxiliares del crédito, incluidas las sociedades financieras de objeto múltiple y de ahorro y los asuntos referentes a la protección al ahorro bancario, ahorro y crédito popular, así como de protección y defensa al usuario de servicios financieros, dentro del ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. bis. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia; de la Ley de Instituciones de Crédito, en materia de instituciones de banca múltiple, sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades anteriormente referidas, oficinas de representación de las entidades financieras del exterior a que se refiere esta ley y sucursales de bancos extranjeros de primer orden; de la Ley para Regular las Agrupaciones Financieras, en materia de grupos financieros en los que participen una o más instituciones de banca múltiple, una o más sociedades financieras de objeto limitado, una o más de las filiales antes referidas o una sociedad controladora filial de dichos grupos; de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, en materia de sociedades de ahorro y préstamo; de la Ley de Ahorro y Crédito Popular; de la Ley de Protección y Defensa al Usuario de Servicios Financieros, en el ámbito de su competencia, así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B y 27-B de la Ley de Instituciones de Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, en materia de instituciones de banca múltiple y de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado;
+I. bis. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia; de la Ley de Instituciones de Crédito, en materia de instituciones de banca múltiple, sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades anteriormente referidas, oficinas de representación de las entidades financieras del exterior a que se refiere esta ley y sucursales de bancos extranjeros de primer orden; de la Ley para Regular las Agrupaciones Financieras en materia de grupos financieros que sean de su competencia o una sociedad controladora de dichos grupos; de la Ley del Mercado de Valores; de la Ley de Sociedades de Inversión; de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de Protección y Defensa al Usuario de Servicios Financieros, en el ámbito de su competencia; así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B, 161, 63, 45-Bis 2 y 27-B de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley de Sociedades de Inversión, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, en lo relacionado con las entidades citadas en la fracción I de este artículo. La facultad a que se refiere esta fracción respecto de interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Agrupaciones Financieras en materia de grupos financieros que sean de su competencia, será ejercida en coordinación con la Unidad de Seguros, Pensiones y Seguridad Social;
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
 II. Participar, mediante la formulación de las políticas a que se refiere la fracción I de este artículo, en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 III. Participar en la evaluación de la operación y desempeño de las entidades y materias señaladas en la fracción I de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+III. bis. Proponer, para aprobación superior, las actividades de planeación, coordinación, vigilancia y evaluación de las entidades financieras a que se refiere la fracción I de este artículo, que tengan el carácter de entidades paraestatales de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 IV. Someter, para aprobación superior, propuestas que fomenten el ahorro interno y el desarrollo de fuentes de financiamiento;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 V. Coadyuvar, en su ámbito de competencia, en la formulación de políticas y medidas de planeación, coordinación, operación y evaluación de las entidades citadas en la fracción I de este artículo, en las que el Gobierno Federal tenga el control por su participación accionaria, e inducir, concertar y coordinar la aplicación de mecanismos de control de gestión en estas entidades;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 VI. Aprobar los lineamientos para la formulación de los programas financieros anuales de instituciones de banca múltiple y aprobar los programas correspondientes de aquellas en las que el Gobierno Federal tenga el control por su participación accionaria;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VII. Proponer, para aprobación superior, las autorizaciones y revocaciones para constituir, organizar y operar, según sea el caso, como: institución de banca múltiple, sociedad financiera de objeto limitado, sociedad de información crediticia, sociedad de ahorro y préstamo, grupo financiero en el que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como filiales de instituciones financieras del exterior que se pretendan constituir bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos. El ejercicio de esta atribución se hará, en su caso, en coordinación con la Unidad de Seguros, Valores y Pensiones;
+VII. Proponer, para aprobación superior, las autorizaciones y revocaciones para constituir, organizar y operar, así como las solicitudes de concesiones para operar y prestar servicios, y modificar o prorrogar dichas concesiones, según sea el caso, como: institución de banca múltiple, sociedad financiera de objeto limitado, sociedad de información crediticia, sociedad de ahorro y préstamo, almacén general de depósito, arrendadora financiera, empresa de factoraje financiero, casa de cambio, grupo financiero que sea de su competencia, así como filiales de instituciones financieras del exterior que se pretendan constituir bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos, bolsas de valores, instituciones para el depósito de valores y contrapartes centrales en los términos de la Ley del Mercado de Valores. Tratándose de sociedades controladoras de grupos financieros, el ejercicio de las atribuciones a que se refiere esta fracción se hará, en su caso, en coordinación con la Unidad de Seguros, Pensiones y Seguridad Social;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VII. bis. Aprobar, de conformidad con las disposiciones jurídicas aplicables, las escrituras constitutivas y los estatutos sociales y cualquier modificación a éstos, de instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, sociedades controladoras de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos, así como el convenio único de responsabilidades y cualquier modificación a éste, celebrado entre las sociedades controladoras o sociedades controladoras filiales y las demás entidades integrantes de los grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado;
+VII. bis. Aprobar, de conformidad con las disposiciones jurídicas aplicables, las escrituras constitutivas, los estatutos sociales y, en su caso, los instrumentos jurídicos que correspondan, así como cualquier modificación a éstos, de instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, sociedades controladoras de grupos financieros que sean de su competencia, filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos, bolsas de valores, instituciones para el depósito de valores, contrapartes centrales de valores, bolsas de derivados, cámaras de compensación de derivados y socios liquidadores, así como el convenio único de responsabilidades y cualquier modificación a éste, celebrado entre las sociedades controladoras o sociedades controladoras filiales y las demás entidades integrantes de los grupos financieros que sean de su competencia;
 
 VIII. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
 IX. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IX. bis. Autorizar las inversiones que las instituciones de banca múltiple pretendan realizar en las sociedades a que se refieren los artículos 75, fracción III, 88 y 89 de la Ley de Instituciones de Crédito, así como las inversiones que realicen las sociedades controladoras de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, de conformidad con el artículo 7o. último párrafo de la Ley para Regular las Agrupaciones Financieras, en relación con las disposiciones generales aplicables a tales grupos financieros;
+IX. bis. Autorizar las inversiones que pretendan realizar las entidades a que se refiere la fracción I de este artículo, en términos de las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. Autorizar la fusión o escisión de las entidades a que se refiere la fracción VII del presente artículo, ya sea entre ellas o con las sociedades a que se refieren los artículos 88 y 89 de la Ley de Instituciones de Crédito, así como la incorporación de una entidad a un grupo financiero en el que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado; autorizar la separación de alguno de los integrantes del grupo financiero y los programas conducentes a dichas fusiones o escisiones, cuando se trate de alguna de las entidades a que se refiere la fracción I de este artículo. El ejercicio de esta atribución se hará, en su caso, en coordinación con la Unidad de Seguros, Valores y Pensiones;
+X. Autorizar la fusión o escisión de las entidades a que se refiere la fracción I del presente artículo, en términos de sus respectivas disposiciones jurídicas, así como la incorporación de una entidad a un grupo financiero que sea de su competencia; autorizar la separación de alguno de los integrantes del grupo financiero y los programas conducentes a dichas fusiones o escisiones. Lo anterior, en su caso, en coordinación con la Unidad de Seguros, Pensiones y Seguridad Social;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. bis. Resolver respecto de las solicitudes de autorización para la adquisición de más del cinco por ciento de las acciones serie "O" de instituciones de banca múltiple, así como autorizar la adquisición del control de dichas instituciones, así como respecto de la enajenación de acciones serie "F" de instituciones de banca múltiple filiales;
+X. bis. Resolver respecto de las solicitudes de autorización para la adquisición de acciones o porcentajes, según sea el caso, de las entidades a que se refiere la fracción I del presente artículo, en términos de las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. ter. Resolver respecto de las solicitudes de autorización para la adquisición de más del cinco por ciento de las acciones serie "O" de sociedades controladoras en las que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como autorizar la adquisición del control de dichas instituciones, así como respecto de la enajenación de acciones serie "F" de sociedades controladoras filiales de los grupos financieros antes señalados;
+X. ter. Autorizar, en su caso, la adquisición del control de las entidades a que se refiere la fracción I de este artículo, que sean de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. quáter. Autorizar la adquisición de acciones representativas del capital social de una o más instituciones de banca múltiple o de una o más sociedades financieras de objeto limitado, a instituciones financieras del exterior, sociedades controladoras filiales o filiales tal y como se define en el artículo 45-A fracción I de la referida Ley;
+X. quáter. Autorizar la adquisición de acciones representativas del capital social de una o más de las entidades a que se refiere la fracción I de este artículo, a instituciones financieras del exterior, sociedades controladoras filiales o filiales;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+X. quintus. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 2007)
 
-X. quintus. Autorizar la adquisición de acciones representativas del capital social de sociedades controladoras en las que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, a instituciones financieras del exterior o sociedades controladoras filiales;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+X. sextus. Autorizar las operaciones análogas, conexas o complementarias que podrán realizar las entidades a que se refiere la fracción I de este artículo, en términos de las disposiciones aplicables;
 
-X. sextus. Autorizar las operaciones análogas o conexas que podrán realizar las instituciones de banca múltiple, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XI. Autorizar el establecimiento, cambio de ubicación y clausura de agencias, oficinas y sucursales de instituciones de banca múltiple en el exterior;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 XII. Otorgar y revocar las autorizaciones para el establecimiento de oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I de este artículo, y de sucursales de bancos extranjeros de primer orden, cuyas operaciones activas y pasivas podrán efectuarse exclusivamente con residentes fuera del país;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XIII. Ejercer las facultades de la Secretaría como coordinadora de sector y las atribuciones que las leyes de la materia confieran a la misma relacionadas con el Instituto para la Protección al Ahorro Bancario y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros; así como de las instituciones de banca múltiple, en las que el Gobierno Federal tenga el control por su participación accionaria y proponer, para aprobación superior, los lineamientos a que deberán sujetarse en las materias de políticas, planes de largo plazo y programas de estas últimas instituciones. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
-XIV. Imponer, en el ámbito de su competencia, las sanciones establecidas en las leyes que rigen las materias financiera, bancaria, crediticia y de ahorro dentro del ámbito de competencia de esta Unidad, como atribución de la Secretaría;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XIV. Imponer, en el ámbito de su competencia, las sanciones establecidas en las leyes que rigen las materias financiera, bancaria, crediticia, monetaria, de ahorro, de valores, futuros, opciones y de organizaciones y actividades auxiliares del crédito, dentro del ámbito de competencia de esta Unidad, como atribución de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 XV. Representar a la Secretaría, en el ámbito de su competencia, en sus relaciones con el Banco de México en las funciones que éste desempeñe de conformidad con las disposiciones que le sean aplicables;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XVI. Ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional Bancaria y de Valores, siempre y cuando no formen parte de las facultades no delegables del Secretario, salvo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+XVI. Ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional Bancaria y de Valores, siempre y cuando no formen parte de las facultades indelegables del Secretario, salvo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
-XVII. Participar en la negociación de tratados en los que se comprendan los servicios financieros competencia de la Unidad de Banca y Ahorro, así como proponer para aprobación superior los términos que resulten de estas negociaciones, y participar en organismos y comités internacionales relacionados con las materias de su competencia;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XVII. En el ámbito de su competencia y conforme a las disposiciones aplicables a los tratados, participar en la negociación de aquéllos en los que se comprendan los servicios financieros, así como proponer para aprobación superior los términos que resulten de estas negociaciones, y participar en organismos y comités internacionales;
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
@@ -3055,7 +3093,9 @@ XVIII. Resolver lo referente a la aplicación de las disposiciones relacionadas 
 
 XIX. Respecto de las entidades señaladas en la fracción I de este artículo, formular y proponer, para aprobación superior y con la previa opinión de la Unidad de Inteligencia Financiera, las disposiciones de carácter general que, en términos de la legislación aplicable, la Secretaría deba emitir en relación con:
 
-a) El establecimiento de medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código;
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+a) El establecimiento de medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139, 148 Bis o 400 Bis del Código Penal Federal;
 
 b) La presentación a la Secretaría de reportes sobre los actos, operaciones y servicios que las entidades a que se refiere esta fracción y que estén obligadas a ello realicen con sus clientes y usuarios, relativos al inciso anterior, así como sobre todo acto, operación o servicio que, en su caso, realicen los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados de dichas entidades obligadas, que pudiesen ubicarse en el supuesto previsto en el inciso a) anterior o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas, y
 
@@ -3069,9 +3109,15 @@ XX. Participar, con la previa opinión de la Unidad de Inteligencia Financiera, 
 
 XXI. Interpretar para efectos administrativos, con la previa opinión de la Unidad de Inteligencia Financiera, las disposiciones de carácter general señaladas en la fracción XIX anterior, así como las disposiciones legales de las que aquéllas emanen;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 XXII. Fungir como enlace entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como de los organismos internacionales e intervenir en la obtención de información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 XXIII. Proponer, en el ámbito de su competencia, para aprobación superior los proyectos de iniciativas de leyes o decretos, y los proyectos de reglamentos, decretos y acuerdos aplicables a las entidades y actividades señaladas en la fracción I de este artículo, con el propósito de impulsar el sano desarrollo y competitividad del sistema financiero;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XXIV. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que al efecto su titular sea nombrado por el Secretario;
 
@@ -3079,95 +3125,119 @@ XXIV. Asistir a las distintas sesiones de los órganos de gobierno de los órgan
 
 XXV. Aprobar los manuales de seguridad y protección de las instituciones de crédito elaborados con fundamento en lo establecido por las reglas de carácter general a que hace referencia el artículo 96 de la Ley de Instituciones de Crédito, así como resolver respecto de las solicitudes de excepción que las instituciones de crédito presenten de la obligación de implementar alguna o algunas de las disposiciones de dichas reglas; en el caso de instituciones de banca de desarrollo, dichas facultades se ejercerán conjuntamente con el Titular de la Unidad de Banca de Desarrollo, y
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 XXVI. Resolver sobre cualquier modificación a las autorizaciones señaladas en las fracciones VII, XI, y XII del presente artículo.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-Los Directores Generales Adjuntos de Banca Múltiple, de Análisis Financiero y Vinculación Internacional y de Ahorro y Regulación Financiera, podrán ejercer las atribuciones señaladas en las fracciones VII, X, XI, XII, XXV y XXVI de este artículo, siempre que intervengan en ella simultáneamente dos de los servidores públicos antes señalados, y uno de ellos sea competente para conocer de las entidades a que se refiera la autorización en cuestión.
+Los Directores Generales Adjuntos de Banca y Valores, de Análisis Financiero y Vinculación Internacional y de Ahorro y Regulación Financiera, podrán ejercer las atribuciones señaladas en las fracciones VII, X, XI, XII, XXV y XXVI de este artículo, siempre que intervengan en ella simultáneamente dos de los servidores públicos antes señalados, y uno de ellos sea competente para conocer de las entidades a que se refiera la autorización en cuestión.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 28.
 
-Compete a la Dirección General Adjunta de Banca Múltiple:
+Compete a la Dirección General Adjunta de Banca y Valores:
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión en las actividades financiera, bancaria y crediticia, de las siguientes entidades financieras: instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, sucursales de bancos extranjeros de primer orden, y grupos financieros en los que participen, ya sea una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado o bien, filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos;
+I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión en las actividades financiera, bancaria y crediticia, de las siguientes entidades financieras: instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, sucursales de bancos extranjeros de primer orden, casas de bolsa, sociedades de inversión y sus operadoras, distribuidoras de acciones de sociedades de inversión, grupos financieros en los que, conforme a la autorización otorgada por la Secretaría, se determine que su sociedad controladora estará sujeta a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, bolsas de valores, bolsas de futuros y opciones, socios liquidadores, operadores y formadores de mercado en el mercado de futuros y opciones, cámaras de compensación, instituciones para el depósito de valores, contrapartes centrales de valores, oficinas de representación de casas de bolsa del exterior, de los demás participantes en el mercado de valores, futuros y opciones y de las organizaciones y actividades auxiliares del crédito, excepto uniones de crédito y sociedades de ahorro y préstamo;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. bis. Aprobar, de conformidad con las disposiciones jurídicas aplicables, las escrituras constitutivas y los estatutos sociales y cualquier modificación a éstos, de instituciones de banca múltiple y sociedades financieras de objeto limitado, así como de sociedades de información crediticia y sociedades controladoras de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos, así como el convenio único de responsabilidades y cualquier modificación a éste, celebrado entre las sociedades controladoras o sociedades controladoras filiales y las demás entidades integrantes de los grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado.
+I. bis. Aprobar, de conformidad con las disposiciones jurídicas aplicables, las escrituras constitutivas, los estatutos sociales y, en su caso, los instrumentos jurídicos que correspondan, así como cualquier modificación a éstos, de instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, organizaciones y actividades auxiliares del crédito, excepto uniones de crédito y sociedades de ahorro y préstamo, sociedades controladoras de grupos financieros que sean de su competencia, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos, bolsas de valores, instituciones para el depósito de valores, contrapartes centrales de valores, bolsas de derivados, cámaras de compensación de derivados y socios liquidadores, así como el convenio único de responsabilidades y cualquier modificación a éste, celebrado entre las sociedades controladoras o sociedades controladoras filiales y las demás entidades integrantes de los grupos financieros que sean de su competencia;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. ter. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia; de la Ley de Instituciones de Crédito en materia de instituciones de banca múltiple, sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades anteriormente referidas, oficinas de representación de las entidades financieras del exterior a que se refiere esta ley y sucursales de bancos extranjeros de primer orden; de la Ley para Regular las Agrupaciones Financieras, en materia de grupos financieros en los que participen una o más instituciones de banca múltiple, o una o más sociedades financieras de objeto limitado, una o más de las filiales antes referidas o una sociedad controladora filial de dichos grupos, así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B y 27-B de la Ley de Instituciones de Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, en materia de instituciones de banca múltiple y de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado;
+I. ter. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia; de la Ley de Instituciones de Crédito, en materia de instituciones de banca múltiple, sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades anteriormente referidas, oficinas de representación de las entidades financieras del exterior a que se refiere esta ley y sucursales de bancos extranjeros de primer orden; de la Ley para Regular las Agrupaciones Financieras, en materia de grupos financieros que sean de su competencia o una sociedad controladora de dichos grupos; de la Ley del Mercado de Valores; de la Ley de Sociedades de Inversión; de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, excepto por la materia de uniones de crédito y sociedades de ahorro y préstamo; de la Ley de Protección y Defensa al Usuario de Servicios Financieros, en el ámbito de su competencia; así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B, 161, 63, 45-Bis- 2 y 27-B de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley de Sociedades de Inversión, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, de las entidades a que se refiere la fracción I de este artículo. La facultad a que se refiere esta fracción respecto de interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Agrupaciones Financieras en materia de grupos financieros que sean de su competencia, será ejercida en coordinación con la Unidad de Seguros, Pensiones y Seguridad Social;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. quáter. Autorizar las operaciones análogas o conexas que podrán realizar las instituciones de banca múltiple, en términos de las disposiciones aplicables;
+I. quáter. Autorizar las operaciones análogas, conexas o complementarias que podrán realizar las entidades a que se refiere la fracción I de este artículo, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 II. Participar en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las entidades y actividades señaladas en la fracción I anterior;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 III. Participar en coordinación con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional en la evaluación de la operación y desempeño de las entidades y actividades señaladas en la fracción I de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+III. bis. Coadyuvar con el Titular de la Unidad de Banca, Valores y Ahorro, en las actividades de planeación, coordinación, vigilancia y evaluación de las entidades financieras a que se refiere la fracción I de este artículo, que tengan el carácter de entidades paraestatales de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 IV. Participar en la elaboración de los lineamientos para la formulación de los programas financieros anuales de instituciones de banca múltiple; proponer, para aprobación superior, en coordinación con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, aquellos de las instituciones en las que el Gobierno Federal tenga el control por su participación accionaria, así como llevar a cabo el seguimiento y evaluación de dichos programas. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
-V. Participar, en su caso, en coordinación con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en la formulación de dictámenes a las solicitudes de autorización para la constitución, organización, operación y funcionamiento, según sea el caso, de las entidades señaladas en la fracción I de este artículo, y cualquier modificación a dichas autorizaciones, así como la revocación de las mismas;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+V. Participar, en su caso, en coordinación con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en la formulación de dictámenes a las solicitudes de concesión o de autorización para la constitución, organización, operación y funcionamiento, así como para prestar los servicios, y modificar o prorrogar dichas concesiones según sea el caso, respecto de las entidades señaladas en la fracción I de este artículo, y cualquier modificación a dichas autorizaciones, así como la revocación de las mismas;
 
-VI. Autorizar la fusión o escisión de las entidades a que se refiere la fracción I del presente artículo, ya sea entre ellas o con las sociedades a que se refieren los artículos 88 y 89 de la Ley de Instituciones de Crédito, así como autorizar la incorporación de una entidad a un grupo financiero, la separación, fusión o escisión de alguno de sus integrantes cuando se trate de entidades a que se refiere la fracción I de este artículo, y los programas conducentes a dichas fusiones o escisiones. Lo anterior, cuando el caso lo requiera, en coordinación con la Unidad de Seguros, Valores y Pensiones, y de conformidad con lo dispuesto en el último párrafo del artículo 27 del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+VI. Autorizar la fusión o escisión de las entidades a que se refiere la fracción I del presente artículo, en términos de sus respectivas disposiciones jurídicas, así como la incorporación de una entidad a un grupo financiero que sea de su competencia; autorizar la separación, fusión o escisión de alguno de sus integrantes cuando se trate de entidades a que se refiere la fracción I de este artículo, y los programas conducentes a dichas fusiones o escisiones. Lo anterior, cuando el caso lo requiera, en coordinación con la Unidad de Seguros, Pensiones y Seguridad Social, y de conformidad con lo dispuesto en el último párrafo del artículo 27 del presente Reglamento;
 
 VI. bis. (DEROGADA, D.O.F. 18 DE JULIO DE 2006)
 
 VII. (DEROGADA, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VII. bis. Autorizar las inversiones que las instituciones de banca múltiple pretendan realizar en las sociedades a que se refieren los artículos 75, fracción III, 88 y 89 de la Ley de Instituciones de Crédito, así como las inversiones que realicen las sociedades controladoras de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, de conformidad con el artículo 7o. último párrafo de la Ley para Regular las Agrupaciones Financieras, en relación con las disposiciones generales aplicables a tales grupos financieros;
+VII. bis. Autorizar las inversiones que pretendan realizar las entidades a que se refiere la fracción I de este artículo, en términos de las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VII. ter. Resolver respecto de las solicitudes de autorización para la adquisición de más del cinco por ciento de las acciones serie "O" de instituciones de banca múltiple, así como autorizar la adquisición del control de dichas instituciones; así como respecto de la enajenación de acciones serie "F" de instituciones de banca múltiple filiales;
+VII. ter. Resolver respecto de las solicitudes de autorización para la adquisición de acciones o porcentajes, según sea el caso, de las entidades a que se refiere la fracción I de este artículo, en términos de las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VII. quáter. Resolver respecto de las solicitudes de autorización para la adquisición de más del cinco por ciento de las acciones serie "O" de sociedades controladoras en las que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como autorizar la adquisición del control de dichas instituciones, así como respecto de la enajenación de acciones serie "F" de sociedades controladoras filiales de los grupos financieros antes señalados;
+VII. quáter. Autorizar, en su caso, la adquisición del control de las entidades a que se refiere la fracción I de este artículo, que sean de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VII. quintus. Autorizar la adquisición de acciones representativas del capital social de una o más instituciones de banca múltiple o de una o más sociedades financieras de objeto limitado, a instituciones financieras del exterior, sociedades controladoras filiales o filiales tal y como se define en el artículo 45-A fracción I de la referida Ley;
+VII. quintus. Autorizar la adquisición de acciones representativas del capital social de una o más de las entidades a que se refiere la fracción I de este artículo, a instituciones financieras del exterior, sociedades controladoras filiales o filiales;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+VII. sextus. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 2007)
 
-VII. sextus. Autorizar la adquisición de acciones representativas del capital social de sociedades controladoras en las que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, a instituciones financieras del exterior o sociedades controladoras filiales;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 VIII. Participar en la formulación de dictámenes a las solicitudes de autorización para el establecimiento de oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, y de sucursales de bancos extranjeros de primer orden, cuyas operaciones activas y pasivas podrán efectuarse exclusivamente con residentes fuera del país;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 VIII. bis. Representar, en el ámbito de su competencia, a la Secretaría en sus relaciones con el Banco de México;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 IX. Ejercer las facultades de la Secretaría como coordinadora de sector de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria, así como proponer, para aprobación superior, los lineamientos a que deberán sujetarse en las materias de políticas, planes de largo plazo y las demás objeto de regulación. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. Imponer, en el ámbito de su competencia, las sanciones establecidas en las leyes que rigen las actividades financiera, bancaria, monetaria y crediticia como atribución de la Secretaría;
+X. Imponer, en el ámbito de su competencia, las sanciones establecidas en las leyes que rigen las actividades financiera, bancaria, monetaria, crediticia, de valores, futuros, opciones y de organizaciones y actividades auxiliares del crédito, excepto tratándose de uniones de crédito y sociedades de ahorro y préstamo, como atribución de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XI. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que participe la Secretaría, y en los que al efecto su titular sea nombrado por el Secretario como representante;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XI. bis. Apoyar a la Unidad de Banca y Ahorro y a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, cuando se requiera, en la formulación de la política de negociación de convenios internacionales que contengan disposiciones en materias financiera, bancaria y crediticia de su competencia;
+XI. bis. Apoyar a la Unidad de Banca, Valores y Ahorro y a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, cuando se requiera, en la formulación de la política de negociación de convenios internacionales que contengan disposiciones de su competencia en materias financiera, bancaria, crediticia, de valores, futuros, opciones y de organizaciones y actividades auxiliares del crédito, excepto tratándose de uniones de crédito y sociedades de ahorro y préstamo;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 XII. Participar en los organismos y comités internacionales en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XIII. Resolver los asuntos competencia de la Unidad de Banca y Ahorro, relativos a las entidades señaladas en la fracción I de este artículo, así como los asuntos referentes a la aplicación de otras disposiciones relacionadas con dichas entidades y con las materias financiera, bancaria, monetaria y crediticia dentro del ámbito de su competencia, que sean a su vez competencia de la Secretaría y no estén asignadas expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario;
+XIII. Resolver los asuntos competencia de la Unidad de Banca, Valores y Ahorro, relativos a las entidades señaladas en la fracción I de este artículo, así como los asuntos referentes a la aplicación de otras disposiciones relacionadas con dichas entidades y con las materias financiera, bancaria, monetaria, crediticia, de valores, futuros, opciones y de organizaciones y actividades auxiliares del crédito, excepto tratándose de uniones de crédito y sociedades de ahorro y préstamo, dentro del ámbito de su competencia, que sean a su vez competencia de la Secretaría y no estén asignadas expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XIV. Ejercer las atribuciones de la Secretaría respecto de la Comisión Nacional Bancaria y de Valores. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XV. Ser el enlace, en las materias de su competencia, entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como de los organismos internacionales e intervenir en la obtención de información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados;
 
@@ -3175,21 +3245,21 @@ XV. Ser el enlace, en las materias de su competencia, entre la Secretaría y las
 
 XV. bis. Fungir como Secretario del Comité de Apertura Financiera;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XVI. Participar en coordinación con las Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a las entidades reguladas por la Unidad de Banca y Ahorro con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario, sin perjuicio de la participación que en el ámbito de su competencia corresponda a otras unidades administrativas de la Secretaría;
+XVI. Participar en coordinación con las Direcciones Generales Adjuntas adscritas a la Unidad de Banca, Valores y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a las entidades reguladas por la Unidad de Banca, Valores y Ahorro con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario, sin perjuicio de la participación que en el ámbito de su competencia corresponda a otras unidades administrativas de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 XVII. Resolver sobre cualquier modificación a las autorizaciones señaladas en las fracciones VII, XI y XII del artículo 27 de este Reglamento y que sean de su competencia, en términos de lo dispuesto en el último párrafo del citado artículo;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XVIII. Solicitar la opinión de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para allegarse de los elementos necesarios para la correcta resolución de los asuntos que sean de su competencia;
+XVIII. Solicitar la opinión de las Direcciones Generales Adjuntas de la Unidad de Banca, Valores y Ahorro, para allegarse de los elementos necesarios para la correcta resolución de los asuntos que sean de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XIX. Emitir, en el ámbito de su competencia, las opiniones que le sean solicitadas por cualquiera de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para lo cual podrá solicitarles la información y documentación que sea necesaria, y
+XIX. Emitir, en el ámbito de su competencia, las opiniones que le sean solicitadas por cualquiera de las Direcciones Generales Adjuntas de la Unidad de Banca, Valores y Ahorro, para lo cual podrá solicitarles la información y documentación que sea necesaria, y
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3205,9 +3275,9 @@ Los Directores de Regulación de Intermediarios Financieros No Bancarios, de Reg
 
 Compete a la Dirección de Regulación de Intermediarios Financieros No Bancarios:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Apoyar a la Dirección General Adjunta de Banca Múltiple en la formulación de dictámenes a las solicitudes de autorización para la organización, operación, constitución y funcionamiento, según sea el caso, de sociedades financieras de objeto limitado, y filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades antes mencionadas, así como de sociedades de información crediticia;
+I. Apoyar a la Dirección General Adjunta de Banca y Valores en la formulación de dictámenes a las solicitudes de autorización para la organización, operación, constitución y funcionamiento, según sea el caso, de sociedades financieras de objeto limitado, y filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades antes mencionadas, así como de sociedades de información crediticia, organizaciones y actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, excepto tratándose de uniones de crédito y sociedades de ahorro y préstamo, así como de las solicitudes de concesión para operar bolsas de valores, bolsas de derivados, cámaras de compensación de derivados y socios liquidadores y para prestar los servicios propios de las instituciones para el depósito de valores y de las contrapartes centrales de valores, en los términos de la Ley del Mercado de Valores, o para modificar o prorrogar las referidas concesiones;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3223,17 +3293,17 @@ IV. Asistir a las distintas sesiones de los órganos de gobierno de los órganos
 
 V. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las facultades señaladas en el artículo 28, fracción XIII, de este Reglamento, respecto de las entidades señaladas en la fracción I de este artículo;
+VI. Coadyuvar con la Dirección General Adjunta de Banca y Valores, en el ejercicio de las facultades señaladas en el artículo 28, fracción XIII, de este Reglamento, respecto de las entidades señaladas en la fracción I de este artículo;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 VII. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Regulación de Intermediarios Financieros Bancarios y de Control Jurídico, y
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VIII. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento.
+VIII. Apoyar a la Dirección General Adjunta de Banca y Valores, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3241,9 +3311,9 @@ VIII. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio
 
 Compete a la Dirección de Regulación de Intermediarios Financieros Bancarios:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Apoyar a la Dirección General Adjunta de Banca Múltiple, en la formulación de dictámenes a las solicitudes de autorización para la organización, operación, constitución y funcionamiento, según sea el caso, de instituciones de banca múltiple y grupos financieros en los que participe una o más instituciones de banca múltiple, o bien una o más sociedades financieras de objeto limitado, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades antes mencionadas;
+I. Apoyar a la Dirección General Adjunta de Banca y Valores, en la formulación de dictámenes a las solicitudes de autorización para la organización, operación, constitución y funcionamiento, según sea el caso, de instituciones de banca múltiple y grupos financieros en los que, conforme a la autorización otorgada por la Secretaría, se determine que su sociedad controladora estará sujeta a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3253,17 +3323,17 @@ II. Ejercer las atribuciones señaladas en el último párrafo del artículo 28 
 
 III. Proponer, para aprobación superior, las políticas y medidas de regulación de las actividades de las entidades señaladas en la fracción I de este artículo;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IV. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las facultades señaladas en el artículo 27 fracción XIII de este Reglamento, respecto de las entidades señaladas en la fracción I de este artículo;
+IV. Coadyuvar con la Dirección General Adjunta de Banca y Valores, en el ejercicio de las facultades señaladas en el artículo 27 fracción XIII de este Reglamento, respecto de las entidades señaladas en la fracción I de este artículo;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 V. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Regulación de Intermediarios Financieros No Bancarios y de Control Jurídico, y
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento.
+VI. Apoyar a la Dirección General Adjunta de Banca y Valores, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3271,53 +3341,53 @@ VI. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio d
 
 Compete a la Dirección de Control Jurídico:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en su participación en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las entidades y actividades señaladas en la fracción I del artículo 28 anterior;
+I. Coadyuvar con la Dirección General Adjunta de Banca y Valores, en su participación en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las entidades y actividades señaladas en la fracción I del artículo 28 de este Reglamento;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las facultades de la Secretaría respecto de la Comisión Nacional Bancaria y de Valores, salvo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+II. Apoyar a la Dirección General Adjunta de Banca y Valores, en el ejercicio de las facultades de la Secretaría respecto de la Comisión Nacional Bancaria y de Valores, salvo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 III. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que al efecto su titular sea nombrado por el Secretario como representante;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IV. Participar en la recopilación de la normativa aplicable a las materias competencia de la Dirección General Adjunta de Banca Múltiple, así como proponer a la Dirección General Adjunta de Ahorro y Regulación Financiera las reformas necesarias a dicha normatividad, para que ésta las atienda en términos de lo establecido por la fracción XVIII del artículo 30 de este Reglamento;
+IV. Participar en la recopilación de la normativa aplicable a las materias competencia de la Dirección General Adjunta de Banca y Valores, así como proponer a la Dirección General Adjunta de Ahorro y Regulación Financiera las reformas necesarias a dicha normatividad, para que ésta las atienda en términos de lo establecido por la fracción XVIII del artículo 30 de este Reglamento;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-V. Apoyar a la Dirección General Adjunta de Banca Múltiple, en los procesos de otorgamiento y revocación de las autorizaciones para el establecimiento de oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, y de sucursales de bancos extranjeros de primer orden;
+V. Apoyar a la Dirección General Adjunta de Banca y Valores, en los procesos de otorgamiento y revocación de las autorizaciones para el establecimiento de oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, y de sucursales de bancos extranjeros de primer orden;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Participar, en coordinación con la Dirección General Adjunta de Banca Múltiple, en el proceso de autorización para el establecimiento, cambio de ubicación y clausura de agencias, oficinas y sucursales de instituciones de banca múltiple en el exterior;
+VI. Participar, en coordinación con la Dirección General Adjunta de Banca y Valores, en el proceso de autorización para el establecimiento, cambio de ubicación y clausura de agencias, oficinas y sucursales de instituciones de banca múltiple en el exterior;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VII. Coadyuvar con la Dirección General Adjunta de Banca Múltiple en la regulación de grupos financieros bancarios e instituciones de banca múltiple que hayan sido intervenidos gerencial o administrativamente por la Comisión Nacional Bancaria y de Valores, o bien instituciones de banca múltiple que reciban apoyos por el Instituto para la Protección al Ahorro Bancario, en términos de la Ley de Protección al Ahorro Bancario;
+VII. Coadyuvar con la Dirección General Adjunta de Banca y Valores en la regulación de grupos financieros bancarios e instituciones de banca múltiple que hayan sido intervenidos gerencial o administrativamente por la Comisión Nacional Bancaria y de Valores, o bien instituciones de banca múltiple que reciban apoyos por el Instituto para la Protección al Ahorro Bancario, en términos de la Ley de Protección al Ahorro Bancario;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VIII. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las facultades de la Secretaría como coordinadora de sector de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria, en términos de las disposiciones aplicables;
+VIII. Coadyuvar con la Dirección General Adjunta de Banca y Valores, en el ejercicio de las facultades de la Secretaría como coordinadora de sector de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria, en términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IX. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en su participación en organismos y comités internacionales relacionados con las materias y entidades señaladas en el artículo 28 fracción I de este Reglamento, en representación de la Secretaría;
+IX. Coadyuvar con la Dirección General Adjunta de Banca y Valores, en su participación en organismos y comités internacionales relacionados con las materias y entidades señaladas en el artículo 28 fracción I de este Reglamento, en representación de la Secretaría;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en la evaluación de la operación y desempeño de las entidades y actividades señaladas en la fracción I del artículo 28 de este Reglamento;
+X. Coadyuvar con la Dirección General Adjunta de Banca y Valores, en la evaluación de la operación y desempeño de las entidades y actividades señaladas en la fracción I del artículo 28 de este Reglamento;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 XI. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Regulación de Intermediarios Financieros No Bancarios y de Regulación a Intermediarios Financieros Bancarios, y
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XII. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento.
+XII. Apoyar a la Dirección General Adjunta de Banca y Valores, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3325,29 +3395,37 @@ XII. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio 
 
 Compete a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional:
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Diseñar, integrar y evaluar la consistencia de las estadísticas elaboradas con respecto a instituciones de banca múltiple, sociedades financieras de objeto limitado, grupos financieros en los que participen una o más instituciones de banca múltiple, o bien, una o más sociedades financieras de objeto limitado o filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualesquiera de las mencionadas anteriormente, sociedades de información crediticia o sociedades de ahorro y préstamo, con el fin de llevar a cabo un seguimiento de la evolución del sistema financiero en general e identificar riesgos potenciales en el ámbito de su competencia;
+I. Diseñar, integrar y evaluar la consistencia de las estadísticas elaboradas con respecto a instituciones de banca múltiple, sociedades financieras de objeto limitado, grupos financieros en los que, conforme a la autorización otorgada por la Secretaría, se determine que su sociedad controladora estará sujeta a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, sociedades de información crediticia, sociedades de ahorro y préstamo, organizaciones y actividades auxiliares del crédito, bolsas de valores, instituciones para el depósito de valores, contrapartes centrales de valores, bolsas de derivados, cámaras de compensación de derivados y socios liquidadores con el fin de llevar a cabo un seguimiento de la evolución del sistema financiero en general e identificar riesgos potenciales en el ámbito de su competencia;
 
-II. Participar en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las actividades financiera, bancaria, crediticia y de banca y ahorro dentro del ámbito de competencia de la Unidad de Banca y Ahorro;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-III. Participar en la evaluación de la operación y desempeño financiero de las entidades señaladas en la fracción I de este artículo y de las actividades bancaria y ahorro dentro del ámbito de competencia de la Unidad de Banca y Ahorro;
+II. Participar en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las actividades financiera, bancaria, crediticia, de banca y ahorro, de valores, futuros, opciones y de organizaciones y actividades auxiliares del crédito dentro del ámbito de competencia de la Unidad de Banca, Valores y Ahorro;
 
-IV. Participar, en coordinación con las unidades administrativas de la Secretaría y otras autoridades competentes, en el ámbito de sus atribuciones, en el diseño, instrumentación y seguimiento de políticas y medidas de promoción, regulación, de desarrollo y solvencia del sistema financiero, de impulso de fuentes de financiamiento y, en general, de las actividades financiera, bancaria, crediticia y de ahorro dentro del ámbito de competencia de la Unidad de Banca y Ahorro;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+III. Participar en la evaluación de la operación y desempeño financiero de las entidades señaladas en la fracción I de este artículo y de las actividades bancaria, de ahorro, de valores, futuros, opciones y de organizaciones y actividades auxiliares del crédito dentro del ámbito de competencia de la Unidad de Banca, Valores y Ahorro;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. Participar, en coordinación con las unidades administrativas de la Secretaría y otras autoridades competentes, en el ámbito de sus atribuciones, en el diseño, instrumentación y seguimiento de políticas y medidas de promoción, regulación, de desarrollo y solvencia del sistema financiero, de impulso de fuentes de financiamiento y, en general, de las actividades financiera, bancaria, crediticia, de ahorro, de valores, futuros, opciones y de organizaciones y actividades auxiliares del crédito dentro del ámbito de competencia de la Unidad de Banca, Valores y Ahorro;
 
 V. Evaluar, en el ámbito de su competencia, los programas de apoyo del Gobierno Federal orientados al ahorro y al crédito;
 
-VI. Proponer, para aprobación superior, los lineamientos para la formulación de los programas financieros anuales de instituciones de banca múltiple, así como, en coordinación con la Dirección General Adjunta de Banca Múltiple, los programas financieros anuales de dichas instituciones en las que el Gobierno Federal tenga el control por su participación accionaria, y llevar a cabo el seguimiento y evaluación de los citados programas;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+VI. Proponer, para aprobación superior, los lineamientos para la formulación de los programas financieros anuales de instituciones de banca múltiple, así como, en coordinación con la Dirección General Adjunta de Banca y Valores, los programas financieros anuales de dichas instituciones en las que el Gobierno Federal tenga el control por su participación accionaria, y llevar a cabo el seguimiento y evaluación de los citados programas;
 
-VII. Participar en coordinación con la Dirección General Adjunta de Banca Múltiple y con la Dirección General Adjunta de Ahorro y Regulación Financiera en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refieren las fracciones VII a XII del artículo 27 de este Reglamento, en relación con sus aspectos económico y financiero. Lo anterior, cuando el caso lo requiera, en coordinación con la Unidad de Seguros, Valores y Pensiones, y de conformidad con lo dispuesto en el último párrafo del artículo 27 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+VII. Participar en coordinación con la Dirección General Adjunta de Banca y Valores y con la Dirección General Adjunta de Ahorro y Regulación Financiera en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refieren las fracciones VII a XII del artículo 27 de este Reglamento, en relación con sus aspectos económico y financiero. Lo anterior, cuando el caso lo requiera, en coordinación con la Unidad de Seguros, Pensiones y Seguridad Social, y de conformidad con lo dispuesto en el último párrafo del artículo 27 de este Reglamento;
 
 VIII. Coadyuvar en el ejercicio de las facultades de la Secretaría como coordinadora de sector de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria, así como proponer, para aprobación superior, los lineamientos a que deberán sujetarse en las materias de políticas, planes de largo plazo, programas, presupuestos, administración de sueldos y prestaciones; así como las demás objeto de regulación;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VIII. bis. Coadyuvar con la Unidad de Banca y Ahorro, en la negociación y elaboración de convenios internacionales, y en organismos y comités internacionales;
+VIII. bis. Coadyuvar con la Unidad de Banca, Valores y Ahorro, en la negociación y elaboración de convenios internacionales, y en organismos y comités internacionales;
 
 VIII. ter. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que al efecto su titular sea nombrado por el Secretario como representante;
 
@@ -3355,39 +3433,45 @@ VIII. quáter. Fungir como enlace en las materias de su competencia entre la Sec
 
 IX. Resolver los asuntos referentes a las atribuciones de la Secretaría en las materias de su competencia, excepto los que estén asignados expresamente a otra unidad administrativa de la Secretaría y los que, con carácter indelegable, correspondan al Secretario;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. Apoyar, en el ámbito de su competencia, a la Unidad de Banca y Ahorro en sus relaciones con el Banco de México, la Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;
+X. Apoyar, en el ámbito de su competencia, a la Unidad de Banca, Valores y Ahorro en sus relaciones con el Banco de México, la Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;
 
-X. bis. Participar, en el ámbito de competencia de la Secretaría, de manera coordinada con las demás Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, en la detección de actos que se encuentren sancionados en las leyes financieras, sin perjuicio de las demás atribuciones conferidas a otras unidades administrativas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XI. Coadyuvar en el ejercicio de las atribuciones de la Secretaría respecto de las actividades financiera, bancaria, crediticia y de ahorro dentro del ámbito de competencia de la Unidad de Banca y Ahorro;
+X. bis. Participar, en el ámbito de competencia de la Secretaría, de manera coordinada con las demás Direcciones Generales Adjuntas de la Unidad de Banca, Valores y Ahorro, en la detección de actos que se encuentren sancionados en las leyes financieras, sin perjuicio de las demás atribuciones conferidas a otras unidades administrativas de la Secretaría;
 
-XII. Apoyar a la Unidad de Banca y Ahorro, en el ámbito de su competencia, en la atención a analistas, inversionistas y agencias calificadoras nacionales e internacionales; así como en la atención a organismos internacionales;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+XI. Coadyuvar en el ejercicio de las atribuciones de la Secretaría respecto de las actividades financiera, bancaria, crediticia y de ahorro dentro del ámbito de competencia de la Unidad de Banca, Valores y Ahorro;
 
-XIII. Participar en coordinación con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a entidades reguladas por la Unidad de Banca y Ahorro con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario, sin perjuicio de las atribuciones que correspondan, en el ámbito de su competencia a otras unidades administrativas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XII. Apoyar a la Unidad de Banca, Valores y Ahorro, en el ámbito de su competencia, en la atención a analistas, inversionistas y agencias calificadoras nacionales e internacionales; así como en la atención a organismos internacionales;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XIII. Participar en coordinación con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca, Valores y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a entidades reguladas por la citada Unidad con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario, sin perjuicio de las atribuciones que correspondan, en el ámbito de su competencia a otras unidades administrativas de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 XIV. Diseñar e implementar metodologías de análisis e investigación para maximizar la utilización de estadísticas y reforzar los resultados de los proyectos del área;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XV. Coadyuvar con la Unidad de Banca y Ahorro, en el ejercicio de la atribución que a ésta le confiere el artículo 27 fracción XIX de este Reglamento;
+XV. Coadyuvar con la Unidad de Banca, Valores y Ahorro, en el ejercicio de la atribución que a ésta le confiere el artículo 27 fracción XIX de este Reglamento;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 XVI. Proponer para aprobación superior las propuestas de resolución de las consultas planteadas respecto a la interpretación de las disposiciones de carácter general a que se refiere la fracción XV del presente artículo;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XVII. Solicitar la opinión de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para allegarse de los elementos necesarios para la correcta resolución de los asuntos que sean de su competencia;
+XVII. Solicitar la opinión de las Direcciones Generales Adjuntas de la Unidad de Banca, Valores y Ahorro, para allegarse de los elementos necesarios para la correcta resolución de los asuntos que sean de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XVIII. Emitir, en el ámbito de su competencia, las opiniones que le sean solicitadas por las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para lo cual podrá solicitarles la información y documentación que sea necesaria, y
+XVIII. Emitir, en el ámbito de su competencia, las opiniones que le sean solicitadas por las Direcciones Generales Adjuntas de la Unidad de Banca, Valores y Ahorro, para lo cual podrá solicitarles la información y documentación que sea necesaria, y
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3399,9 +3483,9 @@ XIX. Solicitar información necesaria a las entidades a que se refiere la fracci
 
 Compete a la Dirección de Análisis Financiero de Intermediarios Bancarios:
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Participar en el diseño e integración de estadísticas que permitan evaluar el comportamiento financiero y detectar riesgos potenciales en el ámbito de su competencia, de los grupos financieros en los que participen una o más instituciones de banca múltiple, o bien, una o más sociedades financieras de objeto limitado, instituciones de banca múltiple o filiales de instituciones financieras del exterior que se constituyan bajo cualesquiera de las figuras mencionadas anteriormente, así como de las sociedades de información crediticia;
+I. Participar en el diseño e integración de estadísticas que permitan evaluar el comportamiento financiero y detectar riesgos potenciales en el ámbito de su competencia, de los grupos financieros en los que, conforme a la autorización otorgada por la Secretaría, se determine que su sociedad controladora estará sujeta a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, así como de las sociedades de información crediticia;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3437,9 +3521,9 @@ X. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación
 
 Compete a la Dirección de Análisis Financiero de Intermediarios No Bancarios:
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Participar en el diseño e integración de estadísticas que permitan evaluar el comportamiento financiero y detectar riesgos potenciales en el ámbito de su competencia de las sociedades financieras de objeto limitado y sociedades de ahorro y préstamo, así como filiales del exterior que se constituyan bajo cualesquiera de las figuras mencionadas anteriormente;
+I. Participar en el diseño e integración de estadísticas que permitan evaluar el comportamiento financiero y detectar riesgos potenciales en el ámbito de su competencia de las sociedades financieras de objeto limitado y sociedades de ahorro y préstamo, así como filiales del exterior que se constituyan bajo cualesquiera de las figuras mencionadas anteriormente, así como de sociedades de información crediticia, organizaciones y actividades auxiliares del crédito, casas de cambio, bolsas de valores, instituciones para el depósito de valores, contrapartes centrales de valores, bolsas de derivados, cámaras de compensación de derivados y socios liquidadores;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3503,13 +3587,13 @@ VIII. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculaci
 
 Compete a la Dirección General Adjunta de Ahorro y Regulación Financiera:
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión de sociedades de ahorro y préstamo, de las actividades financiera, bancaria, crediticia y de ahorro y los asuntos referentes a la protección al ahorro bancario, ahorro y crédito popular, así como de protección y defensa al usuario de servicios financieros, en el ámbito de su competencia, y brindar apoyo en general respecto a la formulación de las políticas a que se refiere la fracción I del artículo 27 de este Reglamento;
+I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión de sociedades de ahorro y préstamo, de uniones de crédito, de las actividades financiera, bancaria, crediticia y de ahorro y los asuntos referentes a la protección al ahorro bancario, ahorro y crédito popular, así como de protección y defensa al usuario de servicios financieros, en el ámbito de su competencia, y brindar apoyo en general respecto a la formulación de las políticas a que se refiere la fracción I del artículo 27 de este Reglamento;
 
-> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. bis. Interpretar, para efectos administrativos, las disposiciones de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, en materia de sociedades de ahorro y préstamo, de la Ley de Ahorro y Crédito Popular y de la Ley de Protección y Defensa al Usuario de Servicios Financieros, en el ámbito de su competencia;
+I. bis. Interpretar, para efectos administrativos, las disposiciones de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, en materia de sociedades de ahorro y préstamo y de uniones de crédito, de la Ley de Ahorro y Crédito Popular y de la Ley de Protección y Defensa al Usuario de Servicios Financieros, en el ámbito de su competencia;
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
@@ -3549,9 +3633,9 @@ IX. Participar, en el ámbito de su competencia, en la negociación y elaboraci�
 
 X. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XI. Resolver los asuntos competencia de la Unidad de Banca y Ahorro, relativos a las entidades, actividades y asuntos señalados en la fracción I de este artículo que no estén asignados expresamente a otra unidad administrativa de la Secretaría, excepto los que, con carácter indelegable, correspondan al Secretario;
+XI. Resolver los asuntos competencia de la Unidad de Banca, Valores y Ahorro, relativos a las entidades, actividades y asuntos señalados en la fracción I de este artículo que no estén asignados expresamente a otra unidad administrativa de la Secretaría, excepto los que, con carácter indelegable, correspondan al Secretario;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3563,9 +3647,9 @@ XIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 XIV. Participar, en coordinación con las unidades administrativas de la Secretaría y otras autoridades competentes, en el diseño, instrumentación y seguimiento de políticas y programas de fomento y protección al ahorro;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XV. Coadyuvar con la Unidad de Banca y Ahorro, en el ejercicio de las atribuciones que se confieren a la Secretaría respecto al mecanismo preventivo y de protección del ahorro, así como en la atención de los asuntos relacionados con el ahorro y crédito popular;
+XV. Coadyuvar con la Unidad de Banca, Valores y Ahorro, en el ejercicio de las atribuciones que se confieren a la Secretaría respecto al mecanismo preventivo y de protección del ahorro, así como en la atención de los asuntos relacionados con el ahorro y crédito popular y con las uniones de crédito;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3583,29 +3667,29 @@ XVIII. Coordinar la elaboración de estudios, en el ámbito de su competencia, s
 
 XIX. Coordinar la elaboración de políticas públicas encaminadas a proporcionar transparencia, claridad y eficiencia en la regulación de las entidades a que se refiere el artículo 27 fracción I del presente Reglamento;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XX. Participar, con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro y con las autoridades y demás unidades administrativas de la Secretaría competentes, en la elaboración y discusión de las iniciativas de leyes o decretos relativos a las disposiciones legales aplicables a las entidades, actividades y asuntos a los que se refiere la fracción I del artículo 27 del presente Reglamento;
+XX. Participar, con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca, Valores y Ahorro y con las autoridades y demás unidades administrativas de la Secretaría competentes, en la elaboración y discusión de las iniciativas de leyes o decretos relativos a las disposiciones legales aplicables a las entidades, actividades y asuntos a los que se refiere la fracción I del artículo 27 del presente Reglamento;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 XXI. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional en la formulación de la política de negociación de convenios internacionales en el ámbito de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XXII. Fungir, como enlace de la Unidad de Banca y Ahorro con otras autoridades de la Administración Pública Federal, en las materias de su competencia;
+XXII. Fungir, como enlace de la Unidad de Banca, Valores y Ahorro con otras autoridades de la Administración Pública Federal, en las materias de su competencia;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XXIII. Apoyar, en el ámbito de su competencia, a la Unidad de Banca y Ahorro en sus relaciones con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario;
+XXIII. Apoyar, en el ámbito de su competencia, a la Unidad de Banca, Valores y Ahorro en sus relaciones con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XXIV. Solicitar la opinión del resto de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, en el ámbito de sus respectivas competencias, para allegarse de los elementos necesarios para la correcta resolución de los asuntos que sean de su competencia, y
+XXIV. Solicitar la opinión del resto de las Direcciones Generales Adjuntas de la Unidad de Banca, Valores y Ahorro, en el ámbito de sus respectivas competencias, para allegarse de los elementos necesarios para la correcta resolución de los asuntos que sean de su competencia, y
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XXV. Emitir, en el ámbito de su competencia, las opiniones que le sean solicitadas por cualquiera de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para lo cual podrá solicitarles la información y documentación que sea necesaria.
+XXV. Emitir, en el ámbito de su competencia, las opiniones que le sean solicitadas por cualquiera de las Direcciones Generales Adjuntas de la Unidad de Banca, Valores y Ahorro, para lo cual podrá solicitarles la información y documentación que sea necesaria.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3781,43 +3865,63 @@ X. Apoyar a la Dirección General Adjunta de Ahorro y Regulación Financiera, en
 
 (DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 32.
 
-Compete a la Unidad de Seguros, Valores y Pensiones:
+Compete a la Unidad de Seguros, Pensiones y Seguridad Social:
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Formular, para aprobación superior, las políticas de promoción, desarrollo, regulación y supervisión de las instituciones y sociedades mutualistas de seguros; de las reaseguradoras extranjeras; de las oficinas de representación de reaseguradoras extranjeras; de las instituciones de fianzas; de los consorcios de instituciones de seguros y de fianzas; de las casas de bolsa; de las sociedades de inversión y de sus operadoras; de las distribuidoras de acciones de sociedades de inversión; de las administradoras de fondos para el retiro; de las sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR; de grupos financieros en los que no participen instituciones de banca múltiple o sociedades financieras de objeto limitado; de las bolsas de valores; de las bolsas de futuros y opciones; de los socios liquidadores, operadores y formadores de mercado en el mercado de futuros y opciones; de las cámaras de compensación; de las instituciones para el depósito de valores; de las contrapartes centrales; de las oficinas de representación de casas de bolsa del exterior; de los demás participantes en el mercado de valores, futuros y opciones; de las organizaciones auxiliares del crédito, excepto aquéllas que sean de competencia expresa de otra unidad administrativa; y de las casas de cambio, así como de las actividades de seguros, fianzas, valores, futuros, opciones y auxiliares del crédito y demás previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito y las relativas a los sistemas de ahorro para el retiro. Lo anterior, excluyendo las entidades y actividades, así como las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan asignadas expresamente o conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+I. Formular, para aprobación superior, las políticas de promoción, desarrollo, regulación y supervisión de las instituciones y sociedades mutualistas de seguros; de las reaseguradoras extranjeras; de las oficinas de representación de reaseguradoras extranjeras; de las instituciones de fianzas; de los consorcios de instituciones de seguros y de fianzas; de las administradoras de fondos para el retiro; de las sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR; de grupos financieros en los que, conforme a la autorización otorgada por la Secretaría, se determine que su sociedad controladora estará sujeta a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, sociedades controladoras de los grupos financieros anteriormente referidos, así como de las actividades de seguros, fianzas y las relativas a los sistemas de ahorro para el retiro;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Participar, mediante la formulación de las políticas a que se refiere la fracción anterior, en la elaboración del Programa Nacional de Financiamiento al Desarrollo y otros programas;
+I. bis. Interpretar, para efectos administrativos, las disposiciones de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; Ley Federal de Instituciones de Fianzas; Ley de Fondos de Aseguramiento Agropecuario y Rural; Ley de los Sistemas de Ahorro para el Retiro, y Ley para Regular las Agrupaciones Financieras en materia de grupos financieros que sean de su competencia; así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren las leyes antes señaladas. La facultad a que se refiere esta fracción respecto de interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Agrupaciones Financieras en materia de grupos financieros que sean de su competencia, será ejercida en coordinación con la Unidad de Banca, Valores y Ahorro;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-III. Proponer, para aprobación superior, las actividades de planeación, coordinación, vigilancia y evaluación de las entidades financieras a que se refiere la fracción I de este artículo, que tengan el carácter de entidades de la Administración Pública Federal; ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional de Seguros y Fianzas y con la Comisión Nacional del Sistema de Ahorro para el Retiro, salvo aquéllas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos;
+II. Participar, mediante la formulación de las políticas a que se refiere la fracción I de este artículo, en la elaboración del Programa Nacional de Financiamiento al Desarrollo y otros programas;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IV. Ejercer las facultades de la Secretaría como coordinadora de sector de las entidades a que se refiere la fracción I de este artículo, que tengan el carácter de entidades de la Administración Pública Federal, exceptuando aquellas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de esta Secretaría en materia presupuestal, de administración de sueldos, de prestaciones o de ministración de recursos;
+III. Proponer, para aprobación superior, las actividades de planeación, coordinación, vigilancia y evaluación de las entidades financieras a que se refiere la fracción I de este artículo, que tengan el carácter de entidades paraestatales de la Administración Pública Federal;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-V. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de autorización para constituir, organizar y operar, según sea el caso, como cualquiera de las entidades financieras a que se refiere la fracción I de este artículo y sociedades de inversión especializadas de fondos para el retiro; de las solicitudes de concesión para operar bolsas de valores y para prestar los servicios propios de las instituciones para el depósito de valores, de las contrapartes centrales, en los términos de la Ley del Mercado de Valores, o de las empresas operadoras de la Base de Datos Nacional SAR, en los términos de las disposiciones aplicables; proponer, para aprobación superior, las resoluciones sobre la revocación de las autorizaciones o concesiones que se hayan otorgado y, en su caso, para determinar la suspensión de la prestación de los servicios de las empresas operadoras de la Base de Datos Nacional SAR o para modificar o prorrogar las referidas concesiones; emitir las opiniones sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades de inversión especializadas de fondos para el retiro, así como sobre sus modificaciones y, en su caso, revocación. Tratándose de sociedades controladoras de grupos financieros, el ejercicio de las atribuciones a que se refiere esta fracción se llevará a cabo en coordinación con la Unidad de Banca y Ahorro;
+IV. Ejercer las facultades de la Secretaría como coordinadora de sector de las entidades a que se refiere la fracción I de este artículo, que tengan el carácter de entidades de la Administración Pública Federal, exceptuando aquellas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Autorizar la incorporación de una nueva entidad a un grupo financiero en los que no participen instituciones de banca múltiple, la fusión de dos o más de estos grupos, así como la fusión de dos o más entidades que en ellos participen, o de una entidad financiera de éstas con cualquier sociedad, así como la separación de alguno de sus integrantes y, tratándose de grupos financieros en los que participen instituciones de banca múltiple y cualquiera de las entidades a que se refiere la fracción I de este artículo, coordinar con la Unidad de Banca y Ahorro el otorgamiento de dichas autorizaciones;
+V. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de autorización para constituir, organizar y operar, según sea el caso, como cualquiera de las entidades financieras a que se refiere la fracción I de este artículo y sociedades de inversión especializadas de fondos para el retiro; de las solicitudes de concesión de las empresas operadoras de la Base de Datos Nacional SAR, en los términos de las disposiciones aplicables; proponer, para aprobación superior, las resoluciones sobre la revocación de las autorizaciones o concesiones que se hayan otorgado y, en su caso, para determinar la suspensión de la prestación de los servicios de las empresas operadoras de la Base de Datos Nacional SAR o para modificar o prorrogar las referidas concesiones; emitir las opiniones sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades de inversión especializadas de fondos para el retiro, así como sobre sus modificaciones y, en su caso, revocación. Tratándose de sociedades controladoras de grupos financieros, el ejercicio de las atribuciones a que se refiere esta fracción se llevará a cabo, en su caso, en coordinación con la Unidad de Banca, Valores y Ahorro;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VII. Autorizar la fusión o escisión de las entidades a que se refiere la fracción I del presente artículo. Lo anterior, cuando el caso lo requiera, en coordinación con la Unidad de Banca y Ahorro;
+V. bis. Aprobar, de conformidad con las disposiciones jurídicas aplicables, las escrituras constitutivas y los estatutos sociales y cualquier modificación a éstos, de las entidades a que se refiere la fracción I de este artículo, cuando dichas disposiciones le atribuyan esta facultad a la Secretaría, así como el convenio único de responsabilidades y cualquier modificación a éste, celebrado entre las sociedades controladoras o sociedades controladoras filiales y las demás entidades integrantes de los grupos financieros que sean de su competencia;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VIII. Resolver sobre cualquier modificación a las autorizaciones o concesiones señaladas en la fracción V;
+VI. Autorizar la incorporación de una nueva entidad a un grupo financiero que sea de su competencia, la fusión de dos o más de estos grupos, así como la fusión de dos o más entidades que en ellos participen, o de una entidad financiera de éstas con cualquier sociedad, así como la separación de alguno de sus integrantes y, tratándose de grupos financieros en los que participen entidades distintas a las que se refiere la fracción I de este artículo, coordinar con la Unidad de Banca, Valores y Ahorro el otorgamiento de dichas autorizaciones;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+VI. bis. Autorizar las inversiones que pretendan realizar las entidades a que se refiere la fracción I de este artículo en los términos de las disposiciones que les son aplicables y cuando éstas le confieren la facultad a la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+VII. Autorizar la fusión o escisión de las entidades a que se refiere la fracción I del presente artículo. Lo anterior, cuando el caso lo requiera, en coordinación con la Unidad de Banca, Valores y Ahorro;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+VII. bis. Resolver respecto de las solicitudes de autorización para la adquisición de acciones y tomas de control de las entidades a que se refiere la fracción I de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+VII. ter. Autorizar las operaciones análogas, conexas o complementarias que podrán realizar las entidades a que se refiere la fracción I de este artículo, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+VIII. Resolver sobre cualquier modificación a las autorizaciones o concesiones señaladas en la fracción V de este artículo;
 
 > <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3835,25 +3939,29 @@ XI. Representar a la Secretaría, en las materias de su competencia, en sus rela
 
 XII. Coordinar la aplicación de los mecanismos de control de gestión de las promociones presentadas por las instituciones y sociedades a que se refiere la fracción I de este artículo;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XIII. Ejercer, previo acuerdo superior, las atribuciones de la Secretaría en relación con el mecanismo preventivo y de protección al mercado de valores, así como respecto a los sistemas de ahorro para el retiro;
+XII. bis. Ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional de Seguros y Fianzas y la Comisión Nacional del Sistema de Ahorro para el Retiro, siempre y cuando no formen parte de las facultades indelegables del Secretario, salvo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XIII. Ejercer las atribuciones de la Secretaría respecto a los sistemas de ahorro para el retiro, siempre y cuando no formen parte de las facultades indelegables del Secretario;
 
 > <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XIV. Participar en la evaluación de la operación y desempeño de las entidades y actividades señaladas en la fracción I de este artículo;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XV. Proponer, para aprobación superior, convenios internacionales y participar en su negociación y elaboración, así como en organismos y comités internacionales relacionados con la materia de su competencia;
+XV. Participar en la negociación y elaboración de tratados y convenios internacionales, así como en organismos y comités internacionales, relacionados con la materia de su competencia;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XVI. Otorgar y revocar las autorizaciones para el establecimiento de oficinas de representación de reaseguradoras extranjeras y de casas de bolsa del exterior;
+XVI. Otorgar y revocar las autorizaciones para el establecimiento de oficinas de representación de reaseguradoras extranjeras;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XVII. Otorgar y cancelar la inscripción de reaseguradoras extranjeras en el Registro General de Reaseguradoras Extranjeras y llevar los registros que sean competencia de la Secretaría conforme a las leyes que rigen las entidades y actividades señaladas en la fracción I de este artículo;
+XVII. Otorgar y cancelar la inscripción de reaseguradoras extranjeras en el Registro General de Reaseguradoras Extranjeras, llevar el registro de los fondos de aseguramiento agropecuario y rural y de los organismos integradores de los mismos, así como los demás que sean competencia de la Secretaría conforme a las leyes que rigen las entidades y actividades señaladas en la fracción I de este artículo;
 
 > <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3863,7 +3971,9 @@ XVIII. Resolver los asuntos relacionados con la aplicación de los ordenamientos
 
 XIX. Respecto de las entidades señaladas en la fracción I de este artículo, formular y proponer, para aprobación superior y con la previa opinión de la Unidad de Inteligencia Financiera, las disposiciones de carácter general que, en términos de la legislación aplicable, la Secretaría deba emitir en relación con:
 
-a) El establecimiento de medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código;
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+a) El establecimiento de medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139, 148 Bis o 400 Bis del Código Penal Federal;
 
 b) La presentación a la Secretaría de reportes sobre los actos, operaciones y servicios que las entidades a que se refiere esta fracción y que estén obligadas a ello realicen con sus clientes y usuarios, relativos al inciso anterior, así como sobre todo acto, operación o servicio que, en su caso, realicen los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados de dichas entidades obligadas, que pudiesen ubicarse en el supuesto previsto en el inciso a) anterior o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas, y
 
@@ -3901,13 +4011,35 @@ XXVI. Formular y proponer para aprobación superior cualquier otra opinión o ac
 
 XXVII. Recibir y clasificar la información y documentación que, de conformidad con la legislación aplicable, deban remitir las dependencias y entidades de la Administración Pública Federal a la Secretaría, en relación con los bienes con que cuenten y respecto de la contratación de seguros sobre bienes patrimoniales o de personas;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XXVIII. Asesorar a las dependencias y entidades de la Administración Pública Federal en la elaboración de sus programas de aseguramiento, de sus manuales de procedimientos sobre la contratación de seguros y soporte de siniestros, en la determinación de sus niveles de retención máxima y en la prevención y disminución de los riesgos inherentes a los bienes con que cuenten; así como intervenir, con el carácter aludido, en el proceso de siniestros ocurridos y reportados a las compañías de seguros con los que dichas dependencias y entidades tengan celebrados contratos para esos efectos, y
+XXVIII. Asesorar a las dependencias y entidades paraestatales de la Administración Pública Federal en la elaboración de sus programas de aseguramiento, de sus manuales de procedimientos sobre la contratación de seguros y soporte de siniestros, en la determinación de sus niveles de retención máxima y en la prevención y disminución de los riesgos inherentes a los bienes con que cuenten; así como intervenir, con el carácter aludido, en el proceso de siniestros ocurridos y reportados a las compañías de seguros con los que dichas dependencias y entidades tengan celebrados contratos para esos efectos;
 
-> <small>(REFORMADA D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XXIX. Analizar y clasificar, con base en la información que las dependencias y entidades de la Administración Pública Federal remitan a la Secretaría en los términos de las fracciones XXV y XXVII de este artículo, los activos fijos de las dependencias y entidades de la Administración Pública Federal, los cúmulos de riesgo, la dispersión y exposición de las unidades de riesgo y los contratos de seguros celebrados por dichas dependencias y entidades; así como proponer a las dependencias y entidades citadas, esquemas de transferencia de riesgos y de contratación centralizada de seguros, con el propósito de beneficiar las condiciones de contratación de la Administración Pública Federal.
+XXIX. Analizar y clasificar, con base en la información que las dependencias y entidades paraestatales de la Administración Pública Federal remitan a la Secretaría en los términos de las fracciones XXV y XXVII de este artículo, los activos fijos de las dependencias y entidades paraestatales de la Administración Pública Federal, los cúmulos de riesgo, la dispersión y exposición de las unidades de riesgo y los contratos de seguros celebrados por dichas dependencias y entidades; así como proponer a las dependencias y entidades citadas, esquemas de transferencia de riesgos y de contratación centralizada de seguros, con el propósito de beneficiar las condiciones de contratación de la Administración Pública Federal, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XXX. Ejercer, en el ámbito de su competencia, las atribuciones que a la Secretaría confieren las leyes y disposiciones en materia de pensiones y de seguridad social, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría. Lo anterior, conforme a lo siguiente:
+
+a) Coordinar la relación de la Secretaría con las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública Federal, así como con los diferentes órdenes de gobierno e instituciones públicas o privadas, en materia de pensiones y seguridad social;
+
+b) Participar, por designación superior, en los órganos de gobierno, comités o grupos de trabajo vinculados a las materias de pensiones y seguridad social, en los que participe la Secretaría;
+
+c) Analizar la información cuantitativa, que se someta a conocimiento de la Secretaría, en materia de pensiones y sustentabilidad financiera de los distintos esquemas de seguridad social y, en su caso, proponer, para aprobación superior, las alternativas correspondientes sobre las materias señaladas;
+
+d) Formular políticas para la promoción, regulación y desarrollo en materia de pensiones y seguridad social;
+
+e) Formular las propuestas a que se refiere la fracción XXIII del presente artículo en materia de pensiones y sustentabilidad financiera de los esquemas de seguridad social;
+
+f) Analizar las diferentes fuentes de financiamiento de los planes públicos de pensiones y seguridad social, así como de las prestaciones de sus beneficiarios;
+
+g) Analizar la información relativa a los diversos sistemas de pensiones y seguridad social en que se involucren recursos de los diferentes órdenes de gobierno, así como asesorar y colaborar con éstos en las materias señaladas;
+
+h) Conocer de cualquier tipo de información en materia de pensiones y seguridad social, y
+
+i) Atender, en general, cualquier asunto competencia de la Secretaría en materia de pensiones y sustentabilidad financiera de los esquemas de seguridad social, salvo aquellas que correspondan al Secretario de manera indelegable o sean competencia de otra unidad administrativa.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3921,9 +4053,9 @@ II. Realizar el análisis de los activos fijos de las dependencias y entidades d
 
 III. Proponer, para aprobación superior, los esquemas de transferencia de riesgo y de contratación centralizada de seguros de las dependencias y entidades de la Administración Pública Federal, y
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IV. Ejercer, previo acuerdo superior, las atribuciones de la Unidad de Seguros, Valores y Pensiones en materia de riesgos.
+IV. Ejercer, previo acuerdo superior, las atribuciones de la Unidad de Seguros, Pensiones y Seguridad Social en materia de riesgos.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3933,9 +4065,9 @@ Compete a la Dirección General Adjunta de Seguros y Fianzas:
 
 I. Participar en la formulación de las políticas de promoción, desarrollo, regulación y supervisión de las instituciones y sociedades mutualistas de seguros y fianzas y de sus consorcios, de las reaseguradoras extranjeras, oficinas de representación de reaseguradoras extranjeras, así como de las actividades de seguros y fianzas;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Coadyuvar, con la Dirección General Adjunta de Normatividad y Coordinación Sectorial, en la resolución de los asuntos referentes a grupos financieros, competencia de la Unidad de Seguros, Valores y Pensiones, en los casos en los que estén relacionadas las entidades señaladas en la fracción I de este artículo;
+II. Coadyuvar, con la Dirección General Adjunta de Normatividad y Coordinación Sectorial, en la resolución de los asuntos referentes a grupos financieros, competencia de la Unidad de Seguros, Pensiones y Seguridad Social, en los casos en los que estén relacionadas las entidades señaladas en la fracción I de este artículo;
 
 III. Efectuar el análisis, propuestas y seguimiento de las políticas, programas y mecanismos en materia de seguros y fianzas, así como evaluar sus resultados;
 
@@ -3943,47 +4075,69 @@ IV. Proponer, para aprobación superior, las resoluciones sobre las solicitudes 
 
 V. Resolver sobre los asuntos relacionados con la aplicación de los ordenamientos legales que rigen a las entidades y actividades señaladas en la fracción I de este artículo. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Participar en las actividades de planeación, coordinación, vigilancia, evaluación, promoción, regulación, supervisión, coordinación sectorial y seguimiento de las políticas y los programas institucionales de las entidades a que se refiere la fracción I de este artículo, que tengan el carácter de entidades de la Administración Pública Federal; así como ejercer las facultades de la Unidad de Seguros, Valores y Pensiones relacionadas con la Comisión Nacional de Seguros y Fianzas. Lo anterior, exceptuando aquellas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de esta Secretaría en materia presupuestal, de administración de sueldos, de prestaciones o de ministración de recursos;
+VI. Participar en las actividades de planeación, coordinación, vigilancia, evaluación, promoción, regulación, supervisión, coordinación sectorial y seguimiento de las políticas y los programas institucionales de las entidades a que se refiere la fracción I de este artículo, que tengan el carácter de entidades paraestatales de la Administración Pública Federal; así como ejercer las facultades de la Unidad de Seguros, Pensiones y Seguridad Social relacionadas con la Comisión Nacional de Seguros y Fianzas. Lo anterior, exceptuando aquellas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos;
 
 VII. Tramitar la imposición de sanciones y los recursos administrativos establecidos en las leyes que rigen las entidades y actividades señaladas en la fracción I de este artículo;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VIII. Proponer y someter a consideración del Titular de la Unidad de Seguros, Valores y Pensiones, la designación o remoción de representantes de la Secretaría ante los órganos de gobierno de las instituciones a que se refiere la fracción I de este artículo que tengan el carácter de entidades de la Administración Pública Federal y de la Comisión Nacional de Seguros y Fianzas, así como los lineamientos generales conforme a los cuales deberán actuar dichos representantes, y
+VIII. Proponer y someter a consideración del Titular de la Unidad de Seguros, Pensiones y Seguridad Social, la designación o remoción de representantes de la Secretaría ante los órganos de gobierno de las instituciones a que se refiere la fracción I de este artículo que tengan el carácter de entidades paraestatales de la Administración Pública Federal y de la Comisión Nacional de Seguros y Fianzas, así como los lineamientos generales conforme a los cuales deberán actuar dichos representantes, y
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IX. Ejercer, previo acuerdo superior, las atribuciones de la Unidad de Seguros, Valores y Pensiones en las materias de seguros y fianzas y, en su caso, recibir de las afianzadoras la información relativa a las designaciones de apoderados y sus domicilios para recibir el requerimiento de pago por fianzas exigibles y darla a conocer a las oficinas ejecutoras y, llegado el caso, proponer para aprobación superior el remate en bolsa o mercados de amplia bursatilidad autorizado, de valores propiedad de las afianzadoras que no hagan el pago respectivo, conforme a lo dispuesto en el artículo 143, inciso b) del Código Fiscal de la Federación.
+IX. Ejercer, previo acuerdo superior, las atribuciones de la Unidad de Seguros, Pensiones y Seguridad Social en las materias de seguros y fianzas y, en su caso, recibir de las afianzadoras la información relativa a las designaciones de apoderados y sus domicilios para recibir el requerimiento de pago por fianzas exigibles y darla a conocer a las oficinas ejecutoras y, llegado el caso, proponer para aprobación superior el remate en bolsa o mercados de amplia bursatilidad autorizado, de valores propiedad de las afianzadoras que no hagan el pago respectivo, conforme a lo dispuesto en el artículo 143, inciso b) del Código Fiscal de la Federación.
 
 ###### Artículo 34.
 
 (DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 35.
 
-Compete a la Dirección General Adjunta de Pensiones y Organizaciones Auxiliares del Crédito:
+Compete a la Dirección General Adjunta de Pensiones y Seguridad Social:
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Participar en la formulación de las políticas de promoción, desarrollo, regulación y supervisión de las organizaciones auxiliares del crédito, de las casas de cambio y de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, así como de las sociedades de inversión especializadas de fondos para el retiro, de las administradoras de fondos para el retiro y de las empresas operadoras de la Base de Datos Nacional SAR y, en general, de los sistemas de ahorro para el retiro;
+I. Participar en la formulación de las políticas de promoción, desarrollo, regulación y supervisión de las sociedades de inversión especializadas de fondos para el retiro, de las administradoras de fondos para el retiro y de las empresas operadoras de la Base de Datos Nacional SAR y, en general, de los sistemas de ahorro para el retiro y de sustentabilidad financiera en materia de seguridad social;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+I. bis. Proponer y someter a consideración del Titular de la Unidad de Seguros, Pensiones y Seguridad Social, la designación o remoción de representantes de la Secretaría ante los órganos de gobierno, comités o grupos de trabajo de los órganos desconcentrados y entidades paraestatales de la Administración Pública Federal, competentes en materia de pensiones y seguridad social, en los que participe la Secretaría y, en su caso, acudir con la representación de la Secretaría, por designación superior;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+I. ter. Apoyar la relación de la Secretaría con las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública Federal, así como con los diferentes órdenes de gobierno e instituciones públicas o privadas, en materia de pensiones y seguridad social;
 
 II. Coadyuvar, con la Dirección General Adjunta de Normatividad y Coordinación Sectorial, en la resolución de los asuntos referentes a grupos financieros, en los casos en los que estén relacionadas las entidades señaladas en la fracción I de este artículo;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-III. Efectuar el análisis, propuestas y seguimiento de las políticas, programas y mecanismos en materia de organizaciones auxiliares del crédito, de casas de cambio, de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, así como las relativas a las administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, y evaluar sus resultados;
+III. Efectuar el análisis, propuestas y seguimiento de las políticas, programas y mecanismos en materia de administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, y evaluar sus resultados, así como tratándose de sustentabilidad financiera en materia de pensiones y de seguridad social;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IV. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de autorización para constituir, organizar y operar, según sea el caso, como organizaciones auxiliares del crédito y casas de cambio, así como en relación con las concesiones para operar como empresas operadoras de la Base de Datos Nacional SAR; proponer, para aprobación superior, las resoluciones sobre la revocación de las autorizaciones o concesiones que hayan sido otorgadas, conforme a las disposiciones legales respectivas; proponer, para resolución superior, la emisión de las opiniones relativas a las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades especializadas de fondos para el retiro, así como sobre sus modificaciones y, en su caso, revocación;
+IV. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de concesión o prórroga para operar como empresas operadoras de la Base de Datos Nacional SAR; proponer, para aprobación superior, las resoluciones sobre la revocación de las autorizaciones o concesiones que hayan sido otorgadas, conforme a las disposiciones legales respectivas; proponer, para resolución superior, la emisión de las opiniones relativas a las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades especializadas de fondos para el retiro, así como sobre sus modificaciones y, en su caso, su revocación;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. bis. Apoyar en el análisis de la información cuantitativa, que se someta a conocimiento de la Secretaría, en materia de pensiones y sustentabilidad financiera de los distintos esquemas de seguridad social y, en su caso, proponer, para aprobación superior, las alternativas correspondientes sobre las materias señaladas;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. ter. Apoyar en el análisis de las diferentes fuentes de financiamiento de los planes públicos de pensiones y seguridad social, así como de las prestaciones de sus beneficiarios;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. quáter. Analizar la información relativa a los diversos sistemas de pensiones y seguridad social en que se involucren recursos públicos de los diferentes órdenes de gobierno, así como asesorarlos en las materias señaladas;
 
 V. Tramitar la imposición de sanciones y los recursos administrativos establecidos en las leyes que rigen las entidades y actividades señaladas en la fracción I de este artículo;
 
-VI. Resolver sobre los asuntos relacionados con la aplicación de los ordenamientos legales que rigen las entidades y demás actividades a que se refiere la fracción I de este artículo. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+VI. Resolver sobre los asuntos relacionados con la aplicación de los ordenamientos legales que rigen las entidades y demás actividades a que se refiere la fracción I de este artículo. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
@@ -3993,29 +4147,39 @@ VII. Diseñar, integrar y evaluar la consistencia de las estadísticas elaborada
 
 VIII. Diseñar y elaborar estudios sobre las entidades y materias a que se refiere la fracción I de este artículo, así como sobre los grupos financieros en que participen una o más administradoras de fondos para el retiro;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-IX. Participar en las actividades de planeación, coordinación, vigilancia, evaluación, promoción, regulación, supervisión, coordinación sectorial y seguimiento de las políticas y los programas institucionales de las entidades a que se refiere la fracción I de este artículo, que tengan el carácter de entidades de la Administración Pública Federal; ejercer las facultades de la Unidad de Seguros, Valores y Pensiones relacionadas con la Comisión Nacional del Sistema de Ahorro para el Retiro, salvo aquéllas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, y
+IX. Participar en las actividades de planeación, coordinación, vigilancia, evaluación, promoción, regulación, supervisión, coordinación sectorial y seguimiento de las políticas y los programas institucionales de las entidades a que se refiere la fracción I de este artículo, que tengan el carácter de entidades paraestatales de la Administración Pública Federal; ejercer las facultades de la Unidad de Seguros, Pensiones y Seguridad Social relacionadas con la Comisión Nacional del Sistema de Ahorro para el Retiro, salvo aquéllas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. Ejercer, previo acuerdo superior, las atribuciones de la Unidad de Seguros, Valores y Pensiones en materia de organizaciones auxiliares del crédito, de casas de cambio y de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, así como de administradoras de fondos para el retiro, sociedades especializadas de fondos para el retiro, empresas operadoras de la Base de Datos Nacional SAR y, en general, de los sistemas de ahorro para el retiro.
+X. Ejercer, previo acuerdo superior, las atribuciones de la Unidad de Seguros, Pensiones y Seguridad Social en materia de administradoras de fondos para el retiro, sociedades especializadas de fondos para el retiro, empresas operadoras de la Base de Datos Nacional SAR y, en general, de los sistemas de ahorro para el retiro y de sustentabilidad financiera en materia de seguridad social;
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XI. Proponer, para atención superior, las propuestas de iniciativa de decretos, reformas, adiciones, derogaciones y abrogaciones a las disposiciones legales aplicables en materia de pensiones y sustentabilidad financiera de los esquemas de seguridad social, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XII. En general, conocer de cualquier tipo de información en materia de pensiones y seguridad social, para los efectos a que se refiere el presente artículo.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 35-A.
 
-Compete a la Dirección de Organizaciones y Actividades Auxiliares del Crédito:
+Compete a la Dirección de Sistemas de Pensiones y Seguridad Social:
 
-I. Coordinar la aplicación de los mecanismos de control de gestión de las promociones presentadas por las organizaciones auxiliares del crédito, por las casas de cambio y, respecto de aquellas otras presentadas en relación con las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito;
+I. Apoyar a la Dirección General Adjunta de Pensiones y Seguridad Social en el análisis, propuestas y seguimiento de las políticas, programas y mecanismos en materia de administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, y evaluar sus resultados, así como tratándose de sustentabilidad financiera en materia de pensiones y de seguridad social;
 
-II. Participar en la expedición de normas jurídicas para la constitución, funcionamiento, fusión, escisión o disolución de las organizaciones auxiliares del crédito y casas de cambio y, respecto de las demás personas jurídicas que realicen alguna otra actividad prevista por la Ley General de Organizaciones y Actividades Auxiliares del Crédito;
+II. Asistir a la Dirección General Adjunta de Pensiones y Seguridad Social, en la elaboración de las propuestas sobre las resoluciones a las solicitudes de concesión o prorrogar para operar como empresas operadoras de la Base de Datos Nacional SAR; igualmente respecto de las propuestas de resoluciones sobre la revocación de las autorizaciones o concesiones que hayan sido otorgadas, conforme a las disposiciones legales respectivas; sobre la emisión de las opiniones relativas a las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades especializadas de fondos para el retiro, así como sobre sus modificaciones y, en su caso, su revocación;
 
-III. Promover y supervisar el cumplimiento de las normas y políticas en materia de organizaciones auxiliares del crédito, de casas de cambio, y de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y
+III. Participar en el análisis de la información cuantitativa, que se someta a conocimiento de la Secretaría, en materia de pensiones y sustentabilidad financiera de los distintos esquemas de seguridad social y, en su caso, someter, para aprobación superior, las alternativas correspondientes sobre las materias señaladas. Asimismo, apoyar a la Dirección General Adjunta de Pensiones y Seguridad Social en el análisis de las diferentes fuentes de financiamiento de los planes públicos de pensiones y seguridad social, así como de las prestaciones de sus beneficiarios;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+IV. Apoyar a la Dirección General Adjunta de Pensiones y Seguridad Social, en el trámite para la imposición de sanciones y los recursos administrativos establecidos en las leyes que rigen las entidades y actividades señaladas en la fracción I del artículo 35 de este Reglamento, que sean competencia de la Secretaría;
 
-IV. Ejercer, previo acuerdo superior, las atribuciones que este Reglamento otorga a la Dirección General Adjunta de Pensiones y Organizaciones Auxiliares del Crédito.
+V. Participar en el diseño y elaboración de estudios sobre las entidades y materias a que se refiere la fracción I del artículo 35 de este Reglamento, así como sobre los grupos financieros en que participen una o más administradoras de fondos para el retiro, y
+
+VI. En general, apoyar a la Dirección General Adjunta de Pensiones y Seguridad Social en la atención de los asuntos de su competencia en los términos de este Reglamento, así como atender los asuntos que le sean encomendados por el Director General Adjunto de Pensiones y Seguridad Social.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -4023,43 +4187,49 @@ IV. Ejercer, previo acuerdo superior, las atribuciones que este Reglamento otorg
 
 Compete a la Dirección General Adjunta de Normatividad y Coordinación Sectorial:
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-I. Fungir como asesor jurídico de la Unidad de Seguros, Valores y Pensiones;
+I. Fungir como asesor jurídico de la Unidad de Seguros, Pensiones y Seguridad Social;
 
-II. Participar en la formulación de políticas y medidas de regulación, promoción, desarrollo y supervisión de las casas de bolsa, de las sociedades de inversión y de sus operadoras, de distribuidoras de acciones de sociedades de inversión, de las bolsas de valores, de las bolsas de futuros y de opciones, de las cámaras de compensación, de las instituciones para el depósito de valores, de las contrapartes centrales, de las oficinas de representación de casas de bolsa, de los demás participantes de los mercados de valores, de futuros y opciones y, de las sociedades controladoras de grupos financieros en los que no participen instituciones de banca múltiple, así como de las actividades de valores, futuros y opciones;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-III. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de autorización para constituir, organizar, operar y funcionar, según sea el caso, como cualquiera de las entidades financieras a que se refiere la fracción II de este artículo y sobre las solicitudes de concesión para operar bolsas de valores y para prestar los servicios propios de las instituciones para el depósito de valores y de las contrapartes centrales en los términos de la Ley del Mercado de Valores, así como sobre la revocación de las autorizaciones o concesiones que se hubiesen otorgado para tales efectos;
+II. Participar en la formulación de políticas y medidas de regulación, promoción, desarrollo y supervisión de las entidades, materias y actividades señaladas en la fracción I del artículo 32 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+III. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de autorización para constituir, operar y funcionar, según sea el caso, como sociedades controladoras de grupos financieros que, conforme a la autorización otorgada por la Secretaría, se determine que estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, así como sobre la revocación de las autorizaciones que se hubiesen otorgado para tales efectos;
 
 IV. Resolver sobre los asuntos relacionados con la aplicación de los ordenamientos legales que rigen a las entidades y actividades señaladas en la fracción II de este artículo, sin perjuicio de la participación que en el ámbito de su competencia corresponda a otras unidades administrativas de la Secretaría. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-V. Participar en las actividades de planeación, coordinación, vigilancia, evaluación, promoción, regulación, supervisión, coordinación sectorial y seguimiento de las políticas y los programas institucionales de las entidades a que se refiere la fracción I del artículo 32 de este Reglamento, que tengan el carácter de entidades de la Administración Pública Federal, con excepción de las relativas a seguros y fianzas, de las correspondientes a los sistemas de ahorro para el retiro y de aquéllas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos;
+V. Participar en las actividades de planeación, coordinación, vigilancia, evaluación, promoción, regulación, supervisión, coordinación sectorial y seguimiento de las políticas y los programas institucionales de las entidades, actividades y materias a que se refiere la fracción I del artículo 32 de este Reglamento, que tengan el carácter de entidades paraestatales de la Administración Pública Federal, con excepción de las relativas a seguros y fianzas, de las correspondientes a los sistemas de ahorro para el retiro y de aquéllas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Apoyar a la Unidad de Seguros, Valores y Pensiones en la resolución de los asuntos relacionados con la aplicación de los ordenamientos normativos en materia de las entidades y actividades a que se refiere la fracción I del artículo 32 de este Reglamento;
+VI. Apoyar a la Unidad de Seguros, Pensiones y Seguridad Social en la resolución de los asuntos relacionados con la aplicación de los ordenamientos normativos en materia de las entidades y actividades a que se refiere la fracción I del artículo 32 de este Reglamento;
 
 VII. Tramitar la imposición de sanciones y los recursos administrativos establecidos en las leyes que rigen a las entidades y actividades señaladas en la fracción II de este artículo;
 
-VIII. Participar en la elaboración de los proyectos de leyes y demás disposiciones jurídicas aplicables a las entidades y actividades previstas en la fracción I del artículo 32 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+VIII. Participar en la elaboración de los proyectos de leyes y demás disposiciones jurídicas aplicables a las entidades, materias y actividades previstas en la fracción I del artículo 32 de este Reglamento;
 
-IX. Apoyar a la Unidad de Seguros, Valores y Pensiones en el ejercicio de las facultades a que se refiere el artículo 32 fracciones XIX a XXI de este Reglamento;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+IX. Apoyar a la Unidad de Seguros, Pensiones y Seguridad Social en el ejercicio de las facultades a que se refiere el artículo 32, fracciones XIX a XXI de este Reglamento;
 
-X. Proponer y someter a consideración del Titular de la Unidad de Seguros, Valores y Pensiones, en el ámbito de su competencia, la designación o remoción de representantes de la Secretaría ante los órganos de gobierno de las entidades a que se refiere la fracción V de este artículo, así como los lineamientos generales conforme a los cuales deberán actuar dichos representantes;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+X. Proponer y someter a consideración del Titular de la Unidad de Seguros, Pensiones y Seguridad Social, en el ámbito de su competencia, la designación o remoción de representantes de la Secretaría ante los órganos de gobierno de las entidades a que se refiere la fracción I del artículo 32 del presente Reglamento, así como los lineamientos generales conforme a los cuales deberán actuar dichos representantes;
 
-XI. Acordar con el Titular de la Unidad de Seguros, Valores y Pensiones los asuntos de su competencia, y
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+XI. Acordar con el Titular de la Unidad de Seguros, Pensiones y Seguridad Social los asuntos de su competencia, y
 
-XII. Atender los demás asuntos que le encomiende el Titular de la Unidad de Seguros, Valores y Pensiones.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XII. Atender los demás asuntos que le encomiende el Titular de la Unidad de Seguros, Pensiones y Seguridad Social.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -4113,6 +4283,10 @@ II. Coordinar la participación del sector financiero nacional en la ejecución 
 
 III. Representar a la Secretaría en los foros bilaterales y multilaterales de negociación de la política de la hacienda pública, en coordinación con las unidades administrativas y el sector financiero competente;
 
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+III. bis Representar a la Secretaría en las negociaciones que se deriven de la membresía del Gobierno Federal en el Banco Internacional de Reconstrucción y Fomento, la Asociación Internacional de Fomento, la Corporación Financiera Internacional, el Banco Interamericano de Desarrollo, el Banco de Desarrollo de América del Norte, el Fondo Internacional de Desarrollo Agrícola u otras agencias y los fondos u organismos internacionales afines o filiales, así como en bancos regionales de desarrollo, fondos e instituciones financieras internacionales de desarrollo;
+
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 IV. Formular, para aprobación superior, y en coordinación con las unidades administrativas competentes, los lineamientos de negociación en materia de la hacienda pública ante instancias bilaterales y multilaterales;
@@ -4137,25 +4311,33 @@ VIII. Analizar y elaborar, para aprobación superior y en coordinación con las 
 
 IX. Proponer, para aprobación superior, y llevar a cabo la política de cooperación económica bilateral y multilateral competencia de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-X. Proponer, para aprobación superior, las políticas de participación y ejercer los derechos que se generen de la membresía del Gobierno Federal en bancos regionales de desarrollo, fondos e instituciones financieras internacionales de desarrollo, con excepción de los mencionados en la fracción XXIV del artículo 17 de este Reglamento;
+X. Ejercer los derechos y gestionar el cumplimiento de las obligaciones que se generen de la membresía del Gobierno Federal en el Banco Internacional de Reconstrucción y Fomento, la Asociación Internacional de Fomento, la Corporación Financiera Internacional, el Banco Interamericano de Desarrollo, el Banco de Desarrollo de América del Norte, el Fondo Internacional de Desarrollo Agrícola u otras agencias y los fondos u organismos internacionales afines o filiales, así como bancos regionales de desarrollo, fondos e instituciones financieras internacionales de desarrollo; así como coordinar conjuntamente con el Banco de México las políticas de participación, el ejercicio de los derechos y cumplimiento de las obligaciones que se generen de la membresía del Gobierno Federal en el Fondo Monetario Internacional;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 XI. Proponer, para aprobación superior, las políticas de participación y ejercer los derechos provenientes de la membresía de la Secretaría en foros financieros internacionales y organismos multilaterales de cooperación económica;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XII. Definir, la política de participación en el Comité de Asuntos Monetarios y Financieros del Fondo Monetario Internacional y, en colaboración con la Unidad de Crédito Público, en el Comité para el Desarrollo del Banco Mundial;
+XI. bis. Proponer e instrumentar las normas y criterios de negociación, con los organismos o instituciones a que se refiere la fracción X de este artículo;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XIII. Diseñar, negociar y suscribir, en el ámbito de su competencia, previa aprobación superior, los acuerdos y convenios de cooperación financiera y técnica con organismos, dependencias e instituciones nacionales y del exterior, así como instrumentar y dar seguimiento a los mismos, sin perjuicio de las atribuciones que conforme al presente Reglamento correspondan a otras unidades administrativas de la Secretaría;
+XI. ter. Coordinar la relación del Gobierno Federal con el Banco Internacional de Reconstrucción y Fomento, la Asociación Internacional de Fomento, la Corporación Financiera Internacional, el Banco Interamericano de Desarrollo u otras agencias y los fondos u organismos internacionales similares o filiales, en los ámbitos que no sean competencia de otras unidades administrativas, y conjuntamente con la Unidad de Crédito Público, la Unidad de Planeación Económica de la Hacienda Pública y el Banco de México, coordinar la relación con el Fondo Monetario Internacional;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XIV. Identificar y promover, en el ámbito de su competencia, oportunidades de negocios para empresas mexicanas en los foros e instituciones financieras internacionales a los que se hace referencia en las fracciones X y XI de este artículo, y otros foros e instituciones similares;
+XII. Definir la política de participación en el Comité de Asuntos Monetarios y Financieros del Fondo Monetario Internacional y en el Comité para el Desarrollo del Banco Mundial, así como en aquéllos de naturaleza similar que se establezcan en los organismos o instituciones a que se refiere la fracción X del presente artículo;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XIII. Diseñar, negociar y suscribir, en el ámbito de su competencia, los acuerdos y convenios de donación y cooperación técnica no reembolsable, así como de cooperación financiera y técnica con organismos, dependencias e instituciones del exterior, así como instrumentar, coordinar y dar seguimiento a los mismos, sin perjuicio de las atribuciones que conforme al presente Reglamento correspondan a otras unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
+
+XIV. Identificar y promover, en el ámbito de su competencia, oportunidades de negocios para empresas mexicanas en los foros e instituciones financieras internacionales a los que se hace referencia en la fracción X de este artículo, y otros foros e instituciones similares;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -4173,9 +4355,9 @@ XVII. Gestionar ante las unidades administrativas competentes la disponibilidad 
 
 XVIII. Coordinar a las unidades administrativas competentes de la Secretaría y al sector financiero nacional, en el ámbito de sus atribuciones, en la negociación de acuerdos, convenios o instrumentos similares, con gobiernos de otros países, instituciones financieras internacionales de desarrollo y organismos de cooperación económica, en materia de política de la hacienda pública;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2007)</small>
 
-XIX. Designar, previo acuerdo superior, al mandatario, comisionista, agente financiero, fiduciario o intermediario financiero que lleve a cabo, según corresponda, la administración o gestión financiera para la instrumentación de las actividades a que se refieren las fracciones XIII y XV de este artículo, y
+XIX. Designar previo acuerdo superior, al mandatario, comisionista, agente financiero, fiduciario o intermediario financiero que lleve a cabo, según corresponda, la negociación, contratación, administración o gestión financiera para la instrumentación de las actividades a que se refieren las fracciones X, XI. ter, XII, XIII, XIV y XV de este artículo, y
 
 > <small>(ADICIONADA, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -8850,3 +9032,21 @@ D.O.F. 22 DE OCTUBRE DE 2007.
 SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL REGLAMENTO.
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Primero de este Decreto, que iniciará su vigencia en un plazo de dos meses contado a partir del día siguiente al de su publicación en el citado órgano de difusión.
+
+D.O.F. 26 DE DICIEMBRE DE 2007.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Tesorería de la Federación y la Unidad de Crédito Público suscribirán conjuntamente los títulos que, en términos del Transitorio Vigésimo de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicada en el Diario Oficial de la Federación el 31 de marzo de 2007, corresponde emitir al Gobierno Federal, por conducto de la Secretaría.
+
+La Unidad de Crédito Público ejercerá las demás atribuciones que confieren a la Secretaría los Transitorios Vigésimo y Vigésimo Primero, último párrafo, de la Ley a que se refiere el párrafo anterior, y demás actos legales y materiales relacionados con éstos.
+
+Tercero.- La Unidad de Crédito Público ejercerá las atribuciones que a la Secretaría de Hacienda y Crédito Público le confiere el artículo 90 BIS-B de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado publicada en el Diario Oficial de la Federación el 27 de diciembre de 1983 con sus reformas y adiciones, en relación con el artículo Segundo Transitorio del Decreto por el que se expide la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado publicada en el Diario Oficial de la Federación el 31 de marzo de 2007, así como los Transitorios Décimo Primero, Décimo Cuarto y Vigésimo Sexto del mencionado Decreto, para determinar la tasa, forma, términos y condiciones correspondientes a la inversión de los recursos y al depósito en el Banco de México referidos en dichos transitorios, hasta su total conversión a valores gubernamentales.
+
+Cuarto.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Unidad de Seguros, Pensiones y Seguridad Social y que mediante este mismo sean transferidos a la Unidad de Banca, Valores y Ahorro, serán tramitados por esta última hasta su conclusión.
+
+Quinto.- Las referencias que se hacen y las atribuciones que se otorgan a la Unidad de Seguros, Valores y Pensiones, en leyes, decretos, reglamentos, acuerdos, reglas, manuales, oficios, circulares, resoluciones y demás disposiciones se entenderán hechas o conferidas, a la Unidad de Seguros, Pensiones y Seguridad Social, en el ámbito de competencia que le corresponde de conformidad con este Decreto.
+
+Sexto.- Las referencias que se hacen y las atribuciones que se otorgan, relacionadas con las materias de valores, futuros, opciones y organizaciones y organizaciones (sic) y actividades auxiliares del crédito, a la Unidad de Seguros, Valores y Pensiones en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, se entenderán hechas a la Unidad de Banca, Valores y Ahorro.
+
+Séptimo.- Las referencias que se hacen y las atribuciones que se otorgan a la Unidad de Banca y Ahorro, en leyes, decretos, reglamentos, acuerdos, reglas, manuales, oficios, circulares, resoluciones y demás disposiciones se entenderán hechas o conferidas, según sea el caso, a la Unidad de Banca, Valores y Ahorro, en el ámbito de competencia que le corresponde de conformidad con este Decreto.
