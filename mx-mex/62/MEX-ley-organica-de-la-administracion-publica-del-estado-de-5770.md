@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2007-12-03"
+last_updated: "2007-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -579,9 +579,7 @@ LI. Emitir normas, políticas y procedimientos para el establecimiento y la oper
 
 LII. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados a transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-LIII. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de carga.
+LIII. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
 
 > <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
@@ -1035,13 +1033,13 @@ A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y ejecutar programas y acciones para el desarrollo del transporte y sus servicios conexos;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual y mixto y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el periódico oficial "Gaceta del Gobierno" mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros masivo, colectivo; individual, mixto, arrastre, salvamento, guarda y custodia de vehículos y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno" mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-III. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros especializado; de servicios auxiliares de arrastre, de arrastre y salvamento, y depósito de vehículos; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
+III. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
 
 IV. Autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
 
@@ -1067,7 +1065,7 @@ XI. Realizar las tareas relativas a ingeniería del transporte, coordinándose c
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-XII.- Normar, organizar, integrar, operar y actualizar el Registro Estatal de Transporte;
+XII. Normar, organizar, integrar, operar y actualizar el Registro Estatal de Transporte;
 
 XIII. Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte;
 
@@ -1075,9 +1073,9 @@ XIV. Emitir las disposiciones administrativas necesarias para la desconcentraci�
 
 XV. Aplicar las medidas de seguridad en términos de la legislación vigente;
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XVI. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte de pasajeros y mixto, que no sean competencia de otras autoridades;
+XVI. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte público y para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, que no sean competencia de otras autoridades;
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1810,6 +1808,32 @@ DÉCIMO SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Or
 DÉCIMO SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
 
 DÉCIMO OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
+
+G.G. 26 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1° de enero de 2008.
+
+TERCERO.- Para los efectos de la fracción XIII del artículo 47 del Código establecida en el presente decreto, las personas físicas y jurídicas colectivas que estén obligadas a dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal y las que opten por hacerlo, deberán dictaminarse por el ejercicio fiscal de 2007.
+
+Para los efectos del tercer párrafo del artículo 47 B del Código, la fecha de presentación del dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal correspondiente al ejercicio fiscal de 2007, podrá efectuarse a más tardar el último día del mes de agosto del ejercicio fiscal 2008.
+
+Para los efectos de los artículos 47 A párrafo tercero, 47 B párrafos primero y segundo, 47 C párrafo primero, 47 D fracción I, así como los párrafos segundo, tercero y cuarto, y 48 B fracción II párrafo segundo, los avisos, solicitudes, manifestaciones y aclaraciones que corresponda presentar a los contribuyentes o a los contadores públicos en relación al dictamen del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, deberán presentarse a partir del 1° de marzo del ejercicio 2008 vía Internet a través de la página del Gobierno del Estado de México que es www.edomex.gob.mx. de conformidad con las reglas de carácter general que al efecto emitan las autoridades fiscales.
+
+CUARTO.- Los decretos números 86 y 91 de fechas 7 y 13 de noviembre de 2007, de la Legislatura Local, por los cuales se aprueban las Tablas de Valores Unitarios de Suelo y de Construcciones, forman parte del Código Financiero del Estado de México y Municipios en los términos del artículo 186 del mismo ordenamiento.
+
+QUINTO.- La reforma al artículo 219, fracción I inciso C), así como la adición de su inciso H) y la reforma al artículo 224, entrarán en vigor a partir de la fecha en que inicie la vigencia de las reformas, adiciones y derogaciones de diversas disposiciones de la Ley de Coordinación Fiscal, Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial Sobre Producción y Servicios, aprobadas en la Cámara de Senadores el 14 de septiembre del 2007.
+
+SEXTO.- En el caso de los municipios que no suscribieron convenio con el Gobierno del Estado en términos del artículo 225 Bis vigente en 2007, la Secretaría de Finanzas distribuirá las participaciones correspondientes a 2007 a las que hace referencia el artículo 219, fracción II, inciso D) en la forma y términos en que se ha realizado con aquellos que han firmado el referido convenio.
+
+SÉPTIMO.- Los organismos públicos descentralizados municipales que presten los servicios de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, los municipios cuando no cuenten con organismo prestador de dichos servicios y quienes presten el servicio de suministro de agua de manera autónoma, podrán trasladar en la factura correspondiente lo que deban pagar por concepto de las Aportaciones por Servicios Ambientales a que se refiere el Capitulo Tercero del Título Sexto del Código Financiero del Estado de México y Municipios.
+
+OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto en los artículos 2 fracción V y 8 fracciones II, V, VIII y XIX de la Ley de Fiscalización Superior del Estado de México, deberá revisar la información correspondiente a los cobros y facturaciones a que se refiere el articulo 216-J del Código Financiero del Estado de México y Municipios, así como los depósitos del fideicomiso previsto en el artículo 216-K de dicho ordenamiento, debiendo informar lo conducente a la Legislatura por conducto de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+
+NOVENO.- Las Secretarías de la Contraloría, de Finanzas y de Transporte, proveerán lo necesario para el cumplimiento de los artículos Segundo y Cuarto del presente Decreto.
+
+DÉCIMO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente Decreto en las unidades administrativas de la Secretaría de Transporte, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura orgánica autorizada y a este Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
