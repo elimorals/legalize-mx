@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2005-08-23"
+last_updated: "2007-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -59,13 +59,17 @@ Los poderes Legislativo, Ejecutivo y Judicial del Estado de México y los ayunta
 
 Es responsabilidad del titular del Ejecutivo Estatal conducir la planeación para el desarrollo del Estado de México, y al interior de los municipios dicha responsabilidad recaerá en los Presidentes Municipales, quienes lo harán con base en las disposiciones legales y en ejercicio de sus atribuciones con respeto irrestricto a las garantías constitucionales, así como al fortalecimiento del pacto federal y del municipio libre y autónomo.
 
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 3.
 
-El desarrollo del Estado y Municipios se sustenta en el proceso de planeación, en congruencia con la planeación nacional del desarrollo, integrando al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, los planes de desarrollo municipal y sus programas sectoriales, regionales y especiales; y su ejecución atenderá a los plazos y condiciones que requiera su estrategia.
+El desarrollo del Estado y Municipios se sustenta en el proceso de planeación democrática, en congruencia con la planeación nacional del desarrollo, integrando al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, los planes de desarrollo municipal, los programas sectoriales, regionales y especiales; y su ejecución atenderá a los plazos y condiciones que requiera su estrategia.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 4.
 
-La planeación para el desarrollo se sustenta en los principios de simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de precisión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso y destino de los recursos.
+La planeación democrática para el desarrollo se sustenta en los principios de simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, asÍ como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso y destino de los recursos.
 
 > <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -77,9 +81,11 @@ La planeación democrática tiene por objeto el desarrollo del Estado de México
 
 La planeación democrática para el desarrollo, como proceso permanente, debe ser el medio para lograr el progreso económico y social del Estado de México y municipios, dirigido principalmente a la atención de las necesidades básicas que se traduzcan en el mejoramiento de la calidad de vida de la población, mediante la participación de los diferentes órdenes de gobierno, habitantes, grupos y organizaciones sociales y privados.
 
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 7.
 
-El proceso de planeación democrática para el desarrollo de los habitantes del Estado de México y municipios, comprenderá la formulación de planes y sus programas, los cuales deberán contener un diagnóstico, objetivos, metas, estrategias, prioridades y líneas de acción; la asignación de recursos, de responsabilidades, de tiempos de ejecución, de control, seguimiento de acciones y evaluación de resultados.
+El proceso de planeación democrática para el desarrollo de los habitantes del Estado de México y municipios, comprenderá la formulación de planes y sus programas, los cuales deberán contener un diagnóstico prospectiva, objetivos, metas, estrategias, prioridades y líneas de acción; la asignación de recursos, de responsabilidades, de tiempos de ejecución, de control, seguimiento de acciones y evaluación de resultados.
 
 ###### Artículo 8.
 
@@ -89,7 +95,9 @@ En la ejecución de la planeación democrática para el desarrollo del Estado de
 
 En la planeación democrática para el desarrollo del Estado de México y municipios, se deberán consolidar los métodos para la generación, tratamiento, uso y divulgación de la información geográfica y estadística como sustento del proceso de planeación establecido en la presente Ley, a fin de disponer de información veraz, oportuna y suficiente, con el propósito de garantizar la permanencia y fortalecimiento del desarrollo del Estado de México y municipios.
 
-Los titulares de las dependencias, organismos, entidades públicas y unidades administrativas de los poderes Legislativo, Ejecutivo y Judicial y de los gobiernos municipales, las personas físicas y morales, así como de los grupos sociales y privados, deberán proporcionar y hacer uso de la información geográfica y estadística de conformidad con la Ley de Información e Investigación Geográfica, Estadística y Catastral del Estado de México y demás disposiciones legales.
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Los titulares de las dependencias, organismos, entidades públicas y unidades administrativas de los poderes Legislativo, Ejecutivo y Judicial y de los gobiernos municipales, las personas físicas y jurídicas colectivas, así como de los grupos sociales y privados, deberán proporcionar y hacer uso de la información e investigación geográfica, estadística y catastral de conformidad con lo dispuesto por el ordenamiento de la materia y demás disposiciones legales.
 
 ###### Artículo 10.
 
@@ -101,9 +109,9 @@ Convenio de participación. Instrumento de orden público por medio del cual la 
 
 Corto plazo. Período hasta de un año, en el cual el presupuesto por programas determina y orienta en forma detallada las asignaciones y el destino de los recursos para la realización de acciones concretas.
 
-> <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-Desarrollo. Es el proceso de cambio social que persigue como finalidad última de igualación de las oportunidades sociales, políticas, económicas y de desarrollo en un medio ambiente adecuado de los habitantes de una delimitación territorial.
+Desarrollo. Es el proceso de cambio social que persigue como finalidad última la igualdad de oportunidades sociales, políticas, económicas y de desarrollo en un medio ambiente adecuado para los habitantes de una delimitación territorial.
 
 > <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -127,9 +135,9 @@ Planeación estratégica. Proceso que orienta a las dependencias, organismos, en
 
 Presupuesto por programas. Instrumento del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, que contiene la asignación de recursos en forma jerarquizada y oportuna a los proyectos y acciones que contienen los programas de gobierno. Es el vínculo del ejercicio del gasto público con los planes de desarrollo.
 
-> <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-Proceso de Planeación para el Desarrollo. Fases en las que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos y metas generales, económicos, ambientales, sociales y políticos, tomando en consideración la disponibilidad de recursos reales y potenciales. Está integrado por las etapas de diagnóstico, programación, presupuestación, ejecución y evaluación.
+Proceso de Planeación para el Desarrollo. Fases en las que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos y metas generales, económicos, ambientales, sociales y políticos, tomando en consideración la disponibilidad de recursos reales y potenciales. Está integrado por las etapas de diagnóstico, formulación, aprobación, ejecución, control y evaluación.
 
 Programa. Instrumento de los planes que ordena y vincula, cronológica, espacial, cuantitativa y técnicamente las acciones o actividades y los recursos necesarios para alcanzar una meta, que contribuirá a lograr los objetivos de los planes de desarrollo.
 
@@ -143,7 +151,9 @@ Programa sectorial. Instrumento de los planes de desarrollo que comprende proyec
 
 Región. Porción del territorio estatal que integran varios municipios y que se identifican por semejanzas geográficas, socioeconómicas o político-administrativas.
 
-Secretaría. Secretaría de Finanzas y Planeación del Gobierno del Estado de México.
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Secretaría. Secretaría de Finanzas del Gobierno del Estado de México.
 
 > <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -161,11 +171,13 @@ El Sistema de Planeación Democrática para el Desarrollo del Estado de México 
 
 El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, tendrá por objeto garantizar el desarrollo integral del Estado y de los municipios, atendiendo principalmente a las necesidades básicas para mejorar la calidad de vida y conformación armónica y adecuada de las relaciones funcionales entre las diferentes regiones de la entidad.
 
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 13.
 
-En el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios participan los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos y los habitantes del Estado de México. Su organización se llevará a cabo a través de las estructuras de las administraciones públicas estatal y municipales y en su vertiente de coordinación por el Comité de Planeación para el Desarrollo del Estado de México y por los comités municipales.
+En el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios participan los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos y los habitantes del Estado de México. Su organización se llevará a cabo a través de las estructuras de las administraciones públicas estatal y municipales y en su vertiente de coordinación por el Comité de Planeación para el Desarrollo del Estado de México y por los comités de planeación para el desarrollo municipal, "COPLADEMUN".
 
-El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios comprende como instrumentos, el proceso de planeación estratégica; los planes; los programas; el presupuesto por programas; el sistema de control, seguimiento y evaluación; el Sistema Estatal de Información; los lineamientos metodológicos; y las políticas de planeación que autoricen el Gobierno del Estado y los ayuntamientos.
+El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios comprende como instrumentos, el proceso de planeación estratégica; los planes; los programas; el presupuesto por programas; el sistema de control, seguimiento y evaluación; el Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral; los lineamientos metodológicos; y las políticas de planeación que autoricen el Gobierno del Estado y los ayuntamientos.
 
 ###### Artículo 14.
 
@@ -285,7 +297,9 @@ XIII. Las demás que se establezcan en otros ordenamientos.
 
 Compete a los ayuntamientos, en materia de planeación democrática para el desarrollo:
 
-I. Elaborar, aprobar y ejecutar el Plan de Desarrollo Municipal y sus programas;
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+I. Elaborar, aprobar, ejecutar, dar seguimiento, evaluar y el control del Plan de Desarrollo Municipal y sus programas;
 
 II. Establecer los órganos, unidades administrativas o servidores públicos que lleven a cabo las labores de información, planeación, programación y evaluación;
 
@@ -293,7 +307,9 @@ III. Asegurar la congruencia del Plan de Desarrollo Municipal con el Plan de Des
 
 IV. Garantizar, mediante los procesos de planeación estratégica, la congruencia organizativa con las acciones que habrán de realizar para alcanzar los objetivos, metas y prioridades de la estrategia del desarrollo municipal;
 
-V. Participar en la estrategia del desarrollo del Estado de México, formulando las propuestas que procedan en relación al Plan de Desarrollo Municipal;
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+V. Participar en la estrategia del desarrollo del Estado de México, formulando las propuestas que procedan en relación con el Plan de Desarrollo Municipal;
 
 VI. Verificar periódicamente la relación que guarden sus actividades con los objetivos, metas y prioridades de sus programas, así como evaluar los resultados de su ejecución y en su caso emitir los dictámenes de reconducción y actualización que corresponda;
 
@@ -313,7 +329,9 @@ I. Garantizar el cumplimiento de las etapas del proceso de planeación para el d
 
 II. Utilizar, generar, recopilar, procesar y proporcionar la información que en materia de planeación para el desarrollo sea de su competencia;
 
-III. Elaborar el presupuesto por programas en concordancia con la estrategia contenida en el plan de desarrollo en la materia de su competencia;
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+III. Coadyuvar en la elaboración del presupuesto por programas en concordancia con la estrategia contenida en el plan de desarrollo en la materia de su competencia;
 
 IV. Verificar que los programas y la asignación de recursos guarden relación con los objetivos, metas y prioridades de los planes y programas y la evaluación de su ejecución;
 
@@ -323,7 +341,13 @@ VI. Evaluar y dar seguimiento al cumplimiento de los convenios de coordinación 
 
 VII. Cumplir con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, el Plan de Desarrollo Municipal y los programas que de éstos se deriven;
 
-VIII. Las demás que se establezcan en otros ordenamientos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+VIII. Reportar periódicamente los resultados de la ejecución de los planes y programas al Comité de Planeación para el Desarrollo del Estado de México, con base en la coordinación establecida en el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+IX. Las demás que se establezcan en otros ordenamientos.
 
 ###### Artículo 21.
 
@@ -337,9 +361,7 @@ III. Aplicar las normas y metodología correspondientes a la información estad�
 
 IV. Cumplir con el Plan Nacional de Desarrollo y el Plan de Desarrollo del Estado de México y sus programas;
 
-> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
-
-V. Crear el indicador genérico de degradación ambiental que permitirá identificar las zonas del Estado y los municipios con mayor grado de deterioro ambiental;
+V. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
 
 VI. Las demás que se establezcan en otros ordenamientos.
 
@@ -357,9 +379,11 @@ Aprobados los planes de desarrollo, se publicarán en el periódico oficial "Gac
 
 En el informe que anualmente rinda el titular del Poder Ejecutivo ante el Poder Legislativo sobre el estado que guarda la administración pública, también lo hará del avance en el cumplimiento del Plan de Desarrollo del Estado de México.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 24.
 
-Las estrategias contenidas en los planes de desarrollo estatal y municipales y sus programas podrán ser modificadas, para lo cual se elaborará un dictamen de reconducción y actualización al término de la etapa de evaluación de los resultados que así lo justifiquen, bien sea por condiciones extraordinarias o para fortalecer los objetivos del desarrollo, informando a la Legislatura de lo anterior.
+Las estrategias contenidas en los planes de desarrollo estatal y municipales y sus programas podrán ser modificadas, entre otras causas, a consecuencia de la publicación, modificación o actualización del Plan Nacional de Desarrollo o del Plan de Desarrollo del Estado de México, para lo cual se elaborará un dictamen de reconducción y actualización al término de la etapa de evaluación de los resultados que así lo justifiquen, bien sea por condiciones extraordinarias o para fortalecer los objetivos del desarrollo, informando a la Legislatura de lo anterior.
 
 La estrategia podrá modificarse cuando, con motivo del proceso de evaluación, el dictamen de reconducción y actualización así lo justifique.
 
@@ -415,7 +439,9 @@ Las dependencias, entidades públicas, organismos, unidades administrativas y se
 
 La Secretaría y los ayuntamientos, en el ámbito de su competencia, establecerán la metodología, procedimientos y mecanismos para el adecuado control, seguimiento, revisión y evaluación de la ejecución de los programas, el uso y destino de los recursos asignados a ellos y la vigilancia de su cumplimiento.
 
-Para la elaboración e integración de los informes de evaluación habrán de considerarse entre otros elementos, los indicadores del Sistema Estatal de Información, aplicados al proceso de planeación democrática para el desarrollo, de conformidad con la Ley de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Para la elaboración e integración de los informes de evaluación habrán de considerarse entre otros elementos, los indicadores del Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral, aplicados al proceso de planeación democrática para el desarrollo, de conformidad con lo dispuesto por el ordenamiento de la materia y demás disposiciones aplicables.
 
 ###### Artículo 37.
 
@@ -471,9 +497,11 @@ Los gobiernos estatal y municipales, así como sus dependencias, organismos, ent
 
 ### CAPITULO SEXTO. DE LOS COMITES DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE MEXICO Y DE LOS MUNICIPIOS
 
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 44.
 
-El Comité de Planeación para el Desarrollo del Estado de México es un organismo público descentralizado del Gobierno del Estado, cuyo objeto es el operar los mecanismos de concertación, participación y coordinación del Gobierno del Estado de México, con los ciudadanos, grupos y organizaciones sociales y privados, así como con los gobiernos federal, de las entidades federativas y de los municipios.
+El Comité de Planeación para el Desarrollo del Estado de México es un organismo público descentralizado del Gobierno del Estado, cuyo objeto es el operar los mecanismos de concertación, participación y coordinación del Gobierno del Estado de México, con los ciudadanos, grupos y organizaciones sociales y privados, así como con los gobiernos federal, de las entidades federativas y de los municipios, así mismo será coadyuvante en la integración, elaboración, evaluación y seguimiento de los planes y programas de desarrollo.
 
 ###### Artículo 45.
 
@@ -481,7 +509,9 @@ El Comité de Planeación para el Desarrollo del Estado de México contará con:
 
 I. Una Asamblea General;
 
-II. Un Secretario Técnico.
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+II. Un Director General.
 
 ###### Artículo 46.
 
@@ -489,11 +519,17 @@ La Asamblea General del Comité de Planeación para el Desarrollo del Estado de 
 
 I. Un Presidente, quien será el Gobernador del Estado;
 
-II. Un Coordinador General, quien será el Secretario de Finanzas y Planeación;
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-III. Un Secretario; quien será el Director General del Comité de Planeación para el Desarrollo del Estado de México;
+II. Un Coordinador General, quien será el Secretario de Finanzas;
 
-IV. Un Coordinador de Planeación, que será el Subsecretario de la Secretaría de Finanzas y Planeación que designe su titular;
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+III. Un Secretario Técnico, quien será el Director General del Comité de Planeación para el Desarrollo del Estado de México;
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. Un Coordinador de Planeación, quien será el Subsecretario de la Secretaría de Finanzas que designe su titular;
 
 V. Los presidentes municipales del Estado;
 
@@ -501,7 +537,9 @@ VI. Los titulares de las dependencias del Ejecutivo Estatal;
 
 VII. Cuatro representantes por cada uno de los poderes Legislativo y Judicial del Estado de México;
 
-VIII. Los titulares o representantes de las comisiones donde participen los grupos y organizaciones sociales y privados.
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+VIII. Los titulares o representantes de los subcomités y grupos de trabajo;
 
 > <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
 
@@ -515,15 +553,31 @@ a) Los integrantes de los Poderes Legislativo, Ejecutivo y Judicial del Gobierno
 
 b) Los especialista (sic) en planeación.
 
-Por cada integrante, la Asamblea General aprobará el nombramiento de un suplente.
+Por cada integrante, la Asamblea General aprobará el nombramiento de un suplente:
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XI. Un comisario, quien será el representante de la Secretaría de la Contraloría;
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XII. Los titulares o representantes de los grupos y organizaciones sociales y privados; (sic)
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Por cada integrante, su titular podrá nombrar a un suplente.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 47.
 
-La Asamblea celebrará sesiones por lo menos cada dos meses y para que sesione válidamente se requerirá la presencia de cuando menos el Presidente, el Coordinador General, el Secretario o sus suplentes y cualquier número de los titulares o suplentes de los mencionados en las fracciones V, VI, VII y VIII y último párrafo del artículo 46 de la presente Ley.
+La Asamblea celebrará sesiones por lo menos cada dos meses en Pleno o en Comisión Permanente.
 
-Los acuerdos tomados en el seno del Comité de Planeación para el Desarrollo del Estado de México deberán hacerse del conocimiento de los titulares de las dependencias, organismos, entidades públicas y unidades administrativas para que procedan a su cumplimiento.
+Para que sesione válidamente la Asamblea General en Pleno, se requerirá la presencia de cuando menos el Presidente, el Coordinador General, el Secretario Técnico o sus suplentes y cualquier número de los titulares o suplentes de los mencionados en las fracciones V, VI, VII, VIII, IX, X, XI y XII del artículo 46 de la presente Ley.
+
+Para que sesione válidamente la Asamblea General a través de la Comisión Permanente, se requerirá de la presencia cuando menos del titular, suplente o representante del Presidente, del Coordinador General, del Secretario Técnico, así como cualquier número de titulares suplentes o representantes de los mencionados en las fracciones IV, V, VI, VII, VIII, IX, X y XI del articulo 46 de la presente Ley.
+
+Los acuerdos tomados en el pleno de la Asamblea General del Comité de Planeación para el Desarrollo del Estado de México, o de su Comisión Permanente deberán hacerse del conocimiento de los titulares de las dependencias, organismos, entidades públicas y unidades administrativas involucrados para que procedan a su cumplimiento.
 
 ###### Artículo 48.
 
@@ -557,13 +611,23 @@ IV. Coordinarse con los comités de planeación para el desarrollo municipal y c
 
 V. Fungir como órgano de consulta tanto del Gobierno del Estado, como de los ayuntamientos y de los habitantes, grupos y organizaciones sociales y privados en materia de planeación democrática para el desarrollo;
 
-> <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Acordar el establecimiento de subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, los cuales actuarán como instancias auxiliares del Comité de Planeación para el Desarrollo del Estado de México.
+VI. Acordar el establecimiento de la Comisión Permanente, subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, los cuales actuarán como instancias auxiliares del Comité de Planeación para el Desarrollo del Estado de México.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+La Asamblea General podrá ejercer las atribuciones a que se refieren las fracciones de la I a la V de este artículo, a través de la Comisión Permanente.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+La integración y funcionamiento de la Comisión Permanente se establecerá en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 51.
 
-Se constituirán en cada ayuntamiento comités de planeación para el desarrollo del municipio, los cuales tendrán las siguientes atribuciones:
+Se constituirán en cada ayuntamiento comités de planeación para el desarrollo municipal "COPLADEMUN", los cuales tendrán las siguientes atribuciones:
 
 I. Participar en la coordinación de las unidades administrativas o servidores públicos municipales con las dependencias, entidades públicas y organismos estatales y federales, en las acciones derivadas de las estrategias estatal y municipales de desarrollo;
 
@@ -571,7 +635,11 @@ II. Participar en la elaboración de los programas que deriven de los planes mun
 
 III. Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
-Los acuerdos de los comités de planeación deberán hacerse del conocimiento de las unidades administrativas o servidores públicos para que procedan a su cumplimiento.
+De acuerdo con la Ley Orgánica Municipal del Estado de México, los órganos, dependencias o servidores públicos que determinen los ayuntamientos y que integren la Comisión de Planeación para el Desarrollo Municipal dentro del Sistema de Planeación Democrática y para los efectos de esta Ley de Planeación del Estado de México y Municipios, se entenderá, que también integrarán el Comité de Planeación para el Desarrollo Municipal, "COPLADEMUN" en el ayuntamiento, y deberán convocar a las reuniones de dicho Comité.
+
+Los acuerdos de los comités de planeación para el desarrollo municipal deberán hacerse del conocimiento de las unidades administrativas o servidores públicos involucrados para que procedan a su cumplimiento.
+
+El Comité de Planeación para el Desarrollo Municipal "COPLADEMUN", deberá estar constituido previo a la aprobación de Plan de Desarrollo Municipal y se deberá informar al Comité de Planeación para el Desarrollo del Estado de México de su instalación.
 
 ### CAPITULO SEPTIMO. RESPONSABILIDADES
 
@@ -642,3 +710,29 @@ G.G. 23 DE AGOSTO DE 2005.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta de Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el periódico oficial "Gaceta de Gobierno".
+
+G.G. 26 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1° de enero de 2008.
+
+TERCERO.- Para los efectos de la fracción XIII del artículo 47 del Código establecida en el presente decreto, las personas físicas y jurídicas colectivas que estén obligadas a dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal y las que opten por hacerlo, deberán dictaminarse por el ejercicio fiscal de 2007.
+
+Para los efectos del tercer párrafo del artículo 47 B del Código, la fecha de presentación del dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal correspondiente al ejercicio fiscal de 2007, podrá efectuarse a más tardar el último día del mes de agosto del ejercicio fiscal 2008.
+
+Para los efectos de los artículos 47 A párrafo tercero, 47 B párrafos primero y segundo, 47 C párrafo primero, 47 D fracción I, así como los párrafos segundo, tercero y cuarto, y 48 B fracción II párrafo segundo, los avisos, solicitudes, manifestaciones y aclaraciones que corresponda presentar a los contribuyentes o a los contadores públicos en relación al dictamen del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, deberán presentarse a partir del 1° de marzo del ejercicio 2008 vía Internet a través de la página del Gobierno del Estado de México que es www.edomex.gob.mx de conformidad con las reglas de carácter general que al efecto emitan las autoridades fiscales.
+
+CUARTO.- Los decretos números 86 y 91 de fechas 7 y 13 de noviembre de 2007, de la Legislatura Local, por los cuales se aprueban las Tablas de Valores Unitarios de Suelo y de Construcciones, forman parte del Código Financiero del Estado de México y Municipios en los términos del artículo 186 del mismo ordenamiento.
+
+QUINTO.- La reforma al artículo 219, fracción I inciso C), así como la adición de su inciso H) y la reforma al artículo 224, entrarán en vigor a partir de la fecha en que inicie la vigencia de las reformas, adiciones y derogaciones de diversas disposiciones de la Ley de Coordinación Fiscal, Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial Sobre Producción y Servicios, aprobadas en la Cámara de Senadores el 14 de septiembre del 2007.
+
+SEXTO.- En el caso de los municipios que no suscribieron convenio con el Gobierno del Estado en términos del artículo 225 Bis vigente en 2007, la Secretaría de Finanzas distribuirá las participaciones correspondientes a 2007 a las que hace referencia el artículo 219, fracción II, inciso D) en la forma y términos en que se ha realizado con aquellos que han firmado el referido convenio.
+
+SÉPTIMO.- Los organismos públicos descentralizados municipales que presten los servicios de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, los municipios cuando no cuenten con organismo prestador de dichos servicios y quienes presten el servicio de suministro de agua de manera autónoma, podrán trasladar en la factura correspondiente lo que deban pagar por concepto de las Aportaciones por Servicios Ambientales a que se refiere el Capítulo Tercero del Título Sexto del Código Financiero del Estado de México y Municipios.
+
+OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto en los artículos 2 fracción V y 8 fracciones II, V, VIII y XIX de la Ley de Fiscalización Superior del Estado de México, deberá revisar la información correspondiente a los cobros y facturaciones a que se refiere el artículo 216-J del Código Financiero del Estado de México y Municipios, así como los depósitos del fideicomiso previsto en el artículo 216-K de dicho ordenamiento, debiendo informar lo conducente a la Legislatura por conducto de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+
+NOVENO.- Las Secretarías de la Contraloría, de Finanzas y de Transporte, proveerán lo necesario para el cumplimiento de los artículos Segundo y Cuarto del presente Decreto.
+
+DÉCIMO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente Decreto en las unidades administrativas de la Secretaría de Transporte, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura orgánica autorizada y a este Decreto.
