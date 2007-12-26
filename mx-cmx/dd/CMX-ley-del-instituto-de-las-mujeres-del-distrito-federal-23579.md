@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-las-mujeres-del-distrito-federal-23579"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2007-05-15"
+last_updated: "2007-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23579&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-14"
 
 LEY DEL INSTITUTO DE LAS MUJERES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -420,41 +420,115 @@ La Directora General durará en su cargo tres años. Podrá ser ratificada para 
 
 #### SECCIÓN III. DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 20.
 
-El Consejo Consultivo, es el órgano asesor, evaluador y promotor de las acciones que se emprendan en beneficio de las mujeres en el marco de esta ley.
+El Consejo Consultivo Ciudadano, es el órgano asesor, evaluador y promotor de las acciones que se emprendan en beneficio de las mujeres en el marco de esta ley.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2007)</small>
 
-El Consejo se integrará por un mínimo de dieciséis y un máximo de veintiún consejeros. Por cada consejero titular se elegirá un suplente. El cargo de Consejero es honorífico y sin emolumento, retribución o compensación alguno.
+El Consejo Consultivo Ciudadano se integrará por un mínimo de nueve y un máximo de trece consejeras o consejeros, debiendo ser siempre número impar. Dicho cargo es honorífico y sin emolumento alguno.
 
-El Consejo se renovará cada tres años. Las personas que se hayan desempeñado como consejeras y consejeros titulares podrán presentar su candidatura para integrar el nuevo Consejo. Aquellos consejeros que hayan estado en funciones durante dos periodos consecutivos, no podrán volver a presentar su candidatura para el siguiente periodo.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2007)</small>
+
+El Consejo se renovará cada tres años. Las personas que se hayan desempeñado como consejeras y consejeros podrán presentar su candidatura para aspirar al nuevo consejo con excepción de quienes hayan estado en funciones durante dos periodos consecutivos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MAYO DE 2007)</small>
 
 Al término de su encargo, el Consejo Consultivo presentará un informe anual a la Junta de Gobierno.
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 21.
 
-El Consejo Consultivo estará integrado de manera plural por personas de reconocida trayectoria en la defensa de los derechos de las mujeres y acciones a favor de la equidad entre los géneros que cuenten con conocimiento, experiencia y sensibilidad con la realidad y necesidades de las mujeres.
+El Consejo Consultivo Ciudadano estará integrado obligadamente por mujeres y hombres que representen la pluralidad y diversidad social con reconocida trayectoria en la defensa de los derechos de las mujeres y acciones a favor de la equidad entre los géneros, que cuenten con conocimiento, experiencia y sensibilidad con la realidad y necesidades de las mujeres.
 
-Participarán en éste una diputada de cada uno de los grupos parlamentarios representados en la Asamblea Legislativa.
+Podrán participar como invitadas ó invitados a las reuniones del Consejo Consultivo Ciudadano, con derecho a voz, las y los integrantes de la Comisión de Equidad y Género de la Asamblea Legislativa del Distrito Federal, así como una diputada o diputado de cada uno de los grupos parlamentarios o coaliciones que no estén representadas en dicha Comisión.
 
-###### Artículo 22
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2007)</small>
 
-Los integrantes del Consejo Consultivo serán electos por la Asamblea Legislativa mediante la convocatoria pública que la misma expida.
+###### Artículo 22.
 
-Las bases de la convocatoria deberán garantizar que se cuente con personas que cubran la Agenda de las Mujeres
+Las y los integrantes del Consejo Consultivo Ciudadano serán electos por la Asamblea Legislativa del Distrito Federal, a través del siguiente procedimiento:
+
+I. La Comisión de Equidad y Género de la Asamblea Legislativa, expedirá con cuarenta y cinco días naturales previos al término de la gestión del Consejo Consultivo Ciudadano, la convocatoria respectiva para renovarlo y proponer a mujeres y hombres que por su destacada trayectoria en la defensa de los derechos de las mujeres y
+
+II. Acciones a favor de la equidad entre los géneros, que con conocimiento, experiencia y sensibilidad con la realidad y necesidades de las mujeres, puedan ser aspirantes a conformar dicho Consejo;
+
+III. La convocatoria será abierta a instituciones académicas y/o investigación, medios de comunicación y organizaciones de la sociedad civil en general, por quince días naturales desde su publicación;
+
+IV. En dicha convocatoria se establecerán los requisitos que las y los proponentes y aspirantes deberán cumplir para el registro, los cuales serán cuando menos:
+
+a) Firma de la solicitud de registro del o la aspirante;
+
+b) Ser habitante del Distrito Federal;
+
+c) Presentar documento en que conste la aprobación de la mayoría relativa de las y los integrantes de la institución académica o de investigación, medios de comunicación y/o organización de la sociedad civil, de acuerdo a la conformación interna de cada ente.
+
+En caso de que el ente proponente no esté conformado al interior por un órgano colegiado, la propuesta deberá ser realizada ajustándose a su normatividad interna;
+
+d) Presentar documento en el que se expongan las causas, razones y méritos que motiven la propuesta y que acrediten la trayectoria del o la aspirante, y;
+
+e) Presentar documento de aceptación del o la aspirante en caso de ser seleccionado para formar parte del Consejo.
+
+V. Una vez transcurrido el plazo establecido en la fracción II del presente artículo, la Comisión de Equidad y Género contará con un término de quince días naturales, para seleccionar a quienes integrarán el nuevo Consejo Consultivo Ciudadano;
+
+VI. Dicha selección deberá ser sometida ante el Pleno de la Asamblea Legislativa, a fin de que por mayoría simple de la misma sea aprobada;
+
+VII. En caso de que la convocatoria se declare desierta, se prorrogaran los cargos de las y los integrantes del Consejo hasta en tanto se emita una nueva convocatoria y se cumpla el procedimiento establecido en el presente artículo, en un plazo no mayor a treinta días naturales.
+
+En caso de renuncia o remoción de alguna o algún consejero, la Comisión de Equidad y Género establecerá en los términos de la fracción VI del presente artículo la nueva convocatoria para ocupar el cargo vacante.
 
 ###### Artículo 23.
 
 Para el mejor cumplimiento de sus fines el Consejo Consultivo podrá integrar los grupos de trabajo necesarios, invitando al efecto, a mujeres y hombres interesados en problemáticas específicas.
 
-En los grupos de trabajo participarán trabajadoras, empresarias, campesinas, obreras, sindicalistas, ejecutivas, profesionistas, académicas, comunicólogas, indígenas y, en general, cualquier persona que promueva los derechos humanos y la equidad de género.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2007)</small>
+
+En los grupos de trabajo participarán, hombres y mujeres de diversos ámbitos que promuevan desde la perspectiva de género, acciones afirmativas y políticas públicas a favor de las mujeres procurando la transversalidad de las mismas.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 24.
 
-El Consejo Consultivo elaborará la propuesta de su Reglamento, misma que presentará ante la Junta de Gobierno para su aprobación. El Consejo desarrollará sus funciones de conformidad con su Reglamento.
+El Consejo Consultivo Ciudadano elaborará la propuesta de su Reglamento en el que se establecerán sus atribuciones, organización y funcionamiento, mismo que deberá ser aprobado por la Junta de Gobierno del Instituto de las Mujeres del Distrito Federal y publicado por el Jefe de Gobierno en la Gaceta Oficial del Distrito Federal. El Consejo desarrollará sus funciones de conformidad con la presente ley y su respectivo reglamento.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 24 Bis.
+
+Son atribuciones y obligaciones del Consejo Consultivo Ciudadano:
+
+I. Realizar estudios, propuestas, opiniones, análisis y evaluaciones, en materia de programas, políticas públicas, legislación y/o cualesquiera otras, objeto de su conocimiento;
+
+II. Gestionar los asuntos que se le formulen en el ámbito de su competencia;
+
+III. Reunirse con la titular de la Dirección General, de forma semestral;
+
+IV. Presentar un informe semestral de sus actividades ante la Junta de Gobierno, que contendrá la evaluación y propuestas de este órgano, relacionadas directamente con el Instituto de las Mujeres del Distrito Federal;
+
+V. Coadyuvar y brindar información a los entes y particulares que así lo requieran en los términos de la legislación vigente;
+
+VI. Sesionar cuando menos una vez al mes, previa convocatoria y calendario propuesto y aprobado por las y los consejeros integrantes del mismo;
+
+VII. Gestionar un espacio dentro del sitio de Internet del Instituto para publicar y promocionar los trabajos relativos a su ámbito de competencia, y;
+
+VIII. Aquellas que le otorgue la presente Ley, su Reglamento y demás ordenamientos jurídicos vigentes en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 24 Ter.
+
+El Consejo Consultivo Ciudadano, contará con una Secretaría Técnica misma que estará a cargo de la Dirección de Fomento y Concertación de Acciones del Instituto, que tendrá a su cargo:
+
+I. Convocar a las sesiones del Consejo de conformidad con el calendario aprobado por el mismo;
+
+II. Integrar y hacer llegar a las Consejeras y Consejeros, la Orden del día de cada sesión;
+
+III. Llevar un libro de actas y control de las sesiones del Consejo;
+
+IV. Contar con un archivo, en el que se contengan todos los documentos relacionados con las sesiones del Consejo, los estudios, propuestas, opiniones, análisis y evaluaciones que realice éste, en materia de programas, políticas públicas, legislación y/o cualesquiera otras, objeto de su competencia.
 
 #### SECCIÓN IV. INSTITUTO DE LAS MUJERES EN LAS DELEGACIONES
 
@@ -601,3 +675,13 @@ G.O. 15 DE MAYO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
+
+G.O. 26 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Una vez electo el Consejo Ciudadano y refrendada su integración por el Pleno de la Asamblea Legislativa del Distrito Federal, dicho Consejo deberá realizar la propuesta de Reglamento respectivo, con base en las disposiciones establecidas en la presente Ley, a efecto de que sea aprobado por la Junta de Gobierno del Instituto de las Mujeres del Distrito Federal y publicado por el Jefe de Gobierno en la Gaceta Oficial del Distrito Federal, en un plazo no mayor a 90 días naturales.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
