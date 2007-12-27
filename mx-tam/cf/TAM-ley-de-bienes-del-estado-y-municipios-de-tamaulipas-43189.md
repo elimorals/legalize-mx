@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bienes-del-estado-y-municipios-de-tamaulipas-43189"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2007-11-08"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -79,7 +79,9 @@ d) Código Municipal para el Estado de Tamaulipas;
 
 e) Ley de Obras Públicas y Servicios relacionados con las mismas para el Estado de Tamaulipas;
 
-f) Ley para el Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+f) Ley para el Desarrollo Urbano del Estado de Tamaulipas;
 
 g) Código Fiscal del Estado de Tamaulipas;
 
@@ -132,6 +134,10 @@ o) Elaborar un programa de aprovechamiento de los bienes que integran el patrimo
 p) Expedir las disposiciones administrativas para el cumplimiento de esta ley.
 
 2. Para el ejercicio de las facultades anteriores, el Secretario de Administración y los Ayuntamientos expedirán los acuerdos procedentes, los cuales deberán estar debidamente fundados y motivados.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+3. En caso de que para la celebración y ejecución de contratos de proyectos para la prestación de servicios, se requiera de bienes inmuebles del Estado, corresponde al Secretario de Administración otorgar la autorización a que se refieren el párrafo 2 del artículo 19 y el artículo 20 de la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas. Dicha autorización podrá conferirse con respecto a bienes del dominio público, sobre la base que se destinen a un servicio público en términos de esta ley, o con relación a bienes del dominio privado de acuerdo con su concepción en este ordenamiento.
 
 ###### Artículo 6.
 
@@ -355,6 +361,10 @@ f) La reinversión que se haga para el mejoramiento de las instalaciones y del s
 
 4. El concesionario tendrá derecho preferente para prorrogar el plazo de la concesión, siempre que haya cumplido con las obligaciones contenidas en el título respectivo.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+5. Constituye causa de interés público la utilización de un bien del dominio público para la ejecución de un contrato de proyecto para la prestación de servicios. El plazo de la autorización para el otorgamiento del bien se regirá por el plazo que se acuerde para el contrato, conforme al procedimiento de adjudicación previsto en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas.
+
 ###### Artículo 28.
 
 1. Los órganos de los poderes públicos del Estado y de los Municipios que tengan destinados o asignados bienes del dominio público, no podrán realizar ningún acto de disposición, desafectación, cambio de destino o usuario, ni conferir derechos de uso, aprovechamiento y explotación, sin contar con la autorización de la autoridad competente.
@@ -383,7 +393,9 @@ Los muebles del dominio privado del Estado y de los municipios son embargables y
 
 ###### Artículo 32.
 
-Conforme a las disposiciones de la presente ley, una vez realizada la desincorporación, los inmuebles de dominio privado del Estado o de los Municipios, podrán ser objeto de los siguientes actos jurídicos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+1. Conforme a las disposiciones de la presente ley, una vez realizada la desincorporación, los inmuebles de dominio privado del Estado o de los Municipios, podrán ser objeto de los siguientes actos jurídicos:
 
 I. Transmisión de dominio a título oneroso o gratuito, de conformidad con los criterios que determine la Secretaría de Administración o el Ayuntamiento respectivo, en favor de entidades que tengan a su cargo desarrollar programas habitacionales de interés social para atender necesidades colectivas;
 
@@ -402,6 +414,10 @@ VII. Enajenación a título oneroso en favor de personas físicas o morales que 
 VIII. Enajenación a los colindantes en los términos de esta ley; y
 
 IX. Dación en pago por concepto de indemnización, en los términos previstos por la Ley de Expropiación, Ocupación Temporal o Limitación de Dominio del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+2. Los inmuebles de dominio privado del Estado podrán utilizarse para la ejecución de un contrato de proyecto para la prestación de servicios, mediante el otorgamiento de un contrato de comodato o a través de un permiso administrativo temporal, en los términos de las fracciones V y VI del párrafo anterior.
 
 ###### Artículo 33.
 
@@ -474,6 +490,10 @@ Los actos, negocios jurídicos, convenios y contratos que se realicen con violac
 1. Los inmuebles del dominio público o del dominio privado serán destinados o asignados para el uso exclusivo de los poderes del Estado y de los Municipios que los ocupen o los tengan a su servicio.
 
 2. No obstante lo dispuesto en el párrafo anterior, podrá otorgarse a los particulares el uso y aprovechamiento de los inmuebles del dominio público o del dominio privado, mediante concesión, autorización, permiso o licencia, conforme con las disposiciones reglamentarias respectivas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+3. El uso y aprovechamiento de inmuebles del dominio público o del dominio privado para un contrato de proyecto para la prestación de servicios, requiere de la autorización pertinente del Ejecutivo del Estado, por conducto de la Secretaría de Administración.
 
 ###### Artículo 46.
 
@@ -712,5 +732,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE NOVIEMBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2007.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
