@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-8022"
 country: "mx"
 rank: "ley"
 publication_date: "1990-08-15"
-last_updated: "2006-09-06"
+last_updated: "2007-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADQUISICIONES PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de agosto de 1990.
 
@@ -57,6 +57,10 @@ IV.- Contratación de servicios relacionados con bienes muebles e inmuebles; y,
 
 V.- Almacenes.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Los contratos de proyectos para la prestación de servicios se regirán por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas. Dichas operaciones no constituyen adquisiciones o contrataciones de servicios en los términos de las fracciones I y IV del párrafo anterior.
+
 ###### ARTICULO 2.
 
 Esta Ley determina las normas para el mejor ejercicio del Presupuesto de Egresos del Estado, en lo relativo a las operaciones a que alude el Artículo anterior.
@@ -79,17 +83,17 @@ III.- CONTRALORIA:- La Contraloría Gubernamental;
 
 IV.- (DEROGADA, P.O. 11 DE OCTUBRE DE 2001)
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-V.- ENTIDADES:- Las mencionadas en el artículo 30 de la Ley Orgánica de la Administración Pública del Estado;
+V.- ENTIDADES.- Las mencionadas en el artículo 37 de la Ley Orgánica de la Administración Pública del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-VI.- DEPENDENCIAS:- Las citadas en el artículo 21 de la Ley Orgánica de la Administración Pública del Estado;
+VI.- DEPENDENCIAS.- Las citadas en el artículo 23 de la Ley Orgánica de la Administración Pública del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-VII.- COMITÉ DE COMPRAS U OPERACIONES PATRIMONIALES:- El que se integra por los Titulares de la Secretaría de Administración, Finanzas, Contraloría y la Dependencia o Entidad a que corresponde la adquisición, arrendamiento o servicio contratado; y
+VII.- COMITE DE COMPRAS Y OPERACIONES PATRIMONIALES.- El que se integra por los Titulares de la Secretaría de Administración, Finanzas, Contraloría y la Dependencia o Entidad a que corresponde la adquisición, arrendamiento o servicio contratado; y
 
 VIII.- PROVEEDOR:- Toda persona inscrita en el padrón a que se refiere el Artículo 14 de esta Ley, que suministre mercancías, materias primas y demás bienes muebles o preste servicios generales a las Dependencias y Entidades Estatales.
 
@@ -149,7 +153,7 @@ I.- Programar las adquisiciones, arrendamientos y contratación de servicios en 
 
 II.- Presentar a la Secretaría sus programas y presupuestos aprobados por la autoridad competente;
 
-III.- Observar las recomiendaciones (sic)que haga la Secretaría para mejorar los sistemas y procedimientos de adquisiciones, arrendamientos de bienes muebles e inmuebles, contratación de servicios y manejo de almacenes;
+III.- Observar las recomiendaciones (sic) que haga la Secretaría para mejorar los sistemas y procedimientos de adquisiciones, arrendamientos de bienes muebles e inmuebles, contratación de servicios y manejo de almacenes;
 
 IV.- Informar de inmediato a la Secretaría y a la Contraloría, de las irregularidades que se adviertan en relación con las operaciones mencionadas;
 
@@ -449,17 +453,17 @@ Las adquisiciones que realice el Gobierno del Estado por la vía de la compraven
 
 I.- La Dirección de Patrimonio Estatal emitirá dictamen que determine la inexistencia de bienes inmuebles propiedad de la Hacienda Pública Estatal disponibles y de las características del requerido;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-II.- La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, emitirá un dictamen del inmueble solicitado que se pretende adquirir en el que determine si cumple las condiciones para las que es requerido;
+II.- La Secretaría de Obras Públicas y Desarrollo Urbano, emitirá un dictamen del inmueble solicitado que se pretende adquirir en el que determine si cumple las condiciones para las que es requerido;
 
 III.- La Secretaría, en coordinación con peritos especializados, emitirá un avalúo del inmueble;
 
 IV.- La Contraloría verificará toda adquisición de bienes inmuebles que realice el Gobierno del Estado; y
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-V.- Las adquisiciones de bienes inmuebles se realizarán con la autorización del Comité de Compras y Operaciones Patrimoniales, que para los efectos de este artículo contará con la participación del titular de la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología.
+V.- Las adquisiciones de bienes inmuebles se realizarán con la autorización del Comité de Compras y Operaciones Patrimoniales, que para los efectos de este artículo cantará con la participación del titular de la Secretaria de Obras Públicas y Desarrollo Urbano.
 
 ###### ARTICULO 42.
 
@@ -483,9 +487,11 @@ Compete a la Secretaría en los términos de la Ley Orgánica de la Administraci
 
 El Comité de Compras y Operaciones Patrimoniales, las Entidades y las Dependencias, proporcionarán a la Contraloría y a la Secretaría en la forma y términos que éstas señalen, la información relativa a los pedidos y contratos que regula esta Ley; para este efecto, conservarán en forma ordenada y sistemática, la documentación que justifique y compruebe la realización de las operaciones reguladas por esta Ley, por un término no menor de cinco años, contados a partir de la fecha en que se hubiesen recibido los bienes o prestado el servicio.
 
+> <small>(REFORMADO P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 47.
 
-El Comité de Compras y Operaciones Patrimonio (sic) en coordinación con la Secretaría, regularán los procedimientos, actos y contratos que en materia de adquisiciones, arrendamientos y servicios se lleven a cabo. Para tal efecto establecerán los mecanismos y procedimientos de control que requieran.
+El Comité de Compras y Operaciones Patrimoniales, en coordinación con la Secretaría, regulará los procedimientos, actos y contratos que en materia de adquisiciones, arrendamientos y servicios se lleven a cabo. Para tal efecto establecerán mecanismos y procedimientos de control que requieran.
 
 ###### ARTICULO 48.
 
@@ -586,6 +592,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto
 
 P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2007.
 
 ###### ARTICULO UNICO.
 
