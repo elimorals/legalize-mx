@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2007-07-04"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -581,7 +581,7 @@ ART. 139.- El adoptante, su cónyuge o los ascendientes de ambos no pueden contr
 
 El mismo impedimento existirá entre los adoptados de un mismo adoptante.
 
-ART. 140.- La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días de la disolución del anterior, a menos que durante ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio puede contarse este tiempo desde que se interrumpió la cohabitación.
+ART. 140.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2007)
 
 ART. 141.- El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que podrá ser otorgada por el juez competente únicamente cuando hayan sido aprobadas las cuentas de la tutela y entregados los bienes administrados.
 
@@ -921,7 +921,7 @@ ART. 234.- El derecho para demandar la nulidad del matrimonio corresponde a quie
 
 ART. 235.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el Tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
 
-ART. 236.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+ART. 236.- El matrimonio tiene a su favor la presunción de ser válido, sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
 
 ART. 237.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
 
@@ -1271,29 +1271,35 @@ IV.- Una sentencia que la declare;
 
 V.- Adopción.
 
-ART. 300.- Se presumen hijos de los cónyuges:
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 300.- La filiación es la relación que existe entre el padre o la madre y su hijo, formando el núcleo social primario de la familia.
+
+Se presumen hijos de los cónyuges, salvo prueba en contrario:
 
 I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
 
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio. En los casos de divorcio o nulidad este término se contará desde que de hecho hayan quedado separados los cónyuges por orden judicial.
+II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del mismo, de muerte del marido o de divorcio, siempre y cuando no haya contraído nuevo matrimonio la excónyuge. Este término se contará, en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
-ART. 301.- Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-ART. 302.- El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los trescientos días que precedieron al nacimiento no tuvo acceso carnal con su esposa.
+ART. 301.- Contra la presunción a que se refiere el artículo anterior, se admitirán como pruebas las de haber sido físicamente imposible al cónyuge varón haber tenido relaciones sexuales con su cónyuge, durante los primeros ciento veinte días de los trescientos que han precedido al nacimiento, así como aquellas que pudiera ofrecer el avance de los conocimientos científicos.
 
-ART. 303.- El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste, pueden sostener en tales casos que el marido es el padre.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-ART. 304.- El marido no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
+ART. 302.- El cónyuge varón sólo podrá impugnar la paternidad de los hijos cuando el nacimiento se le haya ocultado; cuando demuestre que durante los trescientos días que precedieron al nacimiento no tuvo relaciones sexuales con su esposa, o cuando tenga a su favor un principio de prueba que a criterio del juez se estime suficiente para iniciar el procedimiento de impugnación de la paternidad.
 
-I.- Si se probare que supo antes de casarse el embarazo de su futura consorte;
+En ningún caso, el cónyuge varón podrá impugnar la paternidad de los hijos que durante el matrimonio conciba su cónyuge mediante técnicas de fecundación asistida, si hubo consentimiento expreso en tales métodos.
 
-II.- Si concurrió al levantamiento del acta de nacimiento y ésta fue firmada por él, o contiene su declaración de no saber firmar;
+ART. 303.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2007)
 
-III.- Si ha reconocido expresamente como suyo al hijo de su mujer.
+ART. 304.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2007)
 
 ART. 305.- Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
 
-ART. 306.- En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días contados desde el nacimiento, si está presente; desde el día en que llegó al lugar si estuvo ausente; o desde el día en que descubrió el engaño si se le ocultó el nacimiento.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 306.- En todos los casos en que el cónyuge varón impugne la paternidad, debe ejercer la acción dentro de sesenta días contados desde que tuvo conocimiento del nacimiento, o de la causa que motivó la acción de impugnar la paternidad conforme a lo previsto en el artículo 302.
 
 ART. 307.- Si el marido está bajo tutela, este derecho puede ser ejercido por su tutor. Si éste no lo ejerciere, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
@@ -1301,13 +1307,15 @@ ART. 308.- Cuando el marido, teniendo o no tutor ha muerto sin recobrar la razó
 
 ART. 309.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya iniciado el juicio de contradicción. En los demás casos, si el esposo ha muerto sin hacer la declaración dentro del término legal, los herederos tendrán, para interponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
-ART. 310.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajera nuevas nupcias dentro del período prohibido por el artículo 140, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 310.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajera nuevas nupcias, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
 I.- Se presume que el hijo es del primer marido si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
-II.- Se presume que es hijo del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
+II.- Se presume que es hijo del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio. El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar que no sea propio o que el hijo sea del marido a quien se atribuye;
 
 III.- El hijo no se presumirá del primero ni del segundo marido si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
 
@@ -1323,7 +1331,15 @@ I.- Los nacidos después de ciento ochenta días contados desde que empezó el c
 
 II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
 
-ART. 315.- El hijo tiene derecho:
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Contra esta presunción podrán ser admitidos los medios de prueba a que se refiere el artículo 301.
+
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 315.- La ley no establece distinción alguna entre los derechos derivados de la filiación, cualquiera que sea su origen.
+
+El hijo tiene derecho:
 
 I.- A llevar el apellido del que lo reconoce;
 
@@ -1341,7 +1357,9 @@ ART. 317.- La filiación de los hijos del concubinario y de la concubina se demu
 
 ART. 318.- En los casos de los dos artículos anteriores, a falta de actas o si éstas fueran defectuosas, incompletas o si hubiere en ellas omisión en cuanto a los nombres y apellidos o fueren judicialmente declaradas falsas, la filiación puede probarse con la posesión de estado de hijo de las personas a quienes se señalan como padres, la cual se justificará como dispone el artículo 348.
 
-ART. 319.- En defecto de esa posesión de estado son admisibles todos los medios ordinarios de prueba que la ley establece.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 319.- En defecto de esa posesión de estado son admisibles todos los medios ordinarios de prueba que la ley establece, incluyendo aquellas que ofrecen el avance de los conocimientos científicos.
 
 ART. 320.- Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer y ambos hubieren fallecido o por ausencia, no presencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no pueden disputarse a los hijos su filiación por la sola falta de presentación de las actas de nacimiento o de matrimonio, siempre que se pruebe esa filiación conforme a los dos artículos anteriores.
 
@@ -1363,7 +1381,15 @@ ART. 328.- El reconocimiento hecho por uno de los padres produce efectos respect
 
 ART. 329.- El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, aun cuando éste se revoque, no se tiene por revocado el reconocimiento.
 
-ART. 330.- El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 330.- El Ministerio Público tendrá acción contradictoria del reconocimiento de un menor de edad, cuando se hubiere efectuado en perjuicio del menor.
+
+La misma acción tendrá el progenitor que reclame para sí tal carácter con exclusión de quien hubiere hecho el reconocimiento indebidamente o para el sólo efecto de la exclusión.
+
+El tercero afectado por obligaciones derivadas del reconocimiento ilegalmente efectuado podrá contradecirlo en vía de excepción.
+
+El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte de quien lo hizo.
 
 ART. 331.- El reconocimiento de un hijo deberá hacerse de alguno de los modos siguientes:
 
@@ -1379,9 +1405,17 @@ V.- En testamento;
 
 VI.- Por confesión judicial directa y expresa.
 
-ART. 332.- Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue procreado, ni exponer ninguna circunstancia por la que aquélla pueda ser reconocida. Las palabras que contengan la revelación se testarán de oficio, de modo que queden absolutamente ilegibles.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-ART. 333.- El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+El reconocimiento practicado de manera diferente a las enumeradas no producirá ningún efecto, pero podrá ser utilizado como indicio en un juicio de investigación de paternidad o maternidad.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 332.- Cuando el padre o la madre reconozcan separadamente a un hijo habido fuera del matrimonio, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue procreado, ni exponer ninguna circunstancia por la que aquélla pueda ser reconocida. Las palabras que contengan la revelación se testarán de oficio, de modo que queden absolutamente ilegibles, salvo los casos en los que sea la madre quien comparezca ante la Oficialía del Registro Civil correspondiente, dentro de los seis meses siguientes a partir del nacimiento y manifieste el no reconocimiento del padre y solicite se inicie el procedimiento administrativo sobre presunción de paternidad en términos de la ley de la materia. En cuyo caso, y de declararse procedente la presunción de paternidad en contra de determinada persona, se procederá a realizar la anotación marginal en el acta de nacimiento correspondiente en términos de la ley de la materia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 333.- El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el Notario Público que consientan en la violación del artículo que precede, con la excepción establecida en el mismo, serán sancionados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años, en los primeros casos; si la conducta es del Notario Público, será sancionado con la suspensión del cargo por un año.
 
 ART. 334.- Si ambos padres se hubieren casado, en el acta de reconocimiento que haga uno de ellos podrá asentarse el nombre del otro consorte como co-progenitor.
 
@@ -1397,7 +1431,9 @@ ART. 338.- Para el reconocimiento de un hijo menor de edad no se requiere el con
 
 ART. 339.- El término para deducir esta acción será el de seis meses, que comenzarán a correr desde que el hijo sea mayor, si antes de serlo tuvo noticia del reconocimiento; y si entonces no la tenía, desde la fecha en que la adquirió.
 
-ART. 340.- Si la madre contradice el reconocimiento que un hombre haya hecho o pretenda hacer de un hijo que ella reconoce por suyo, esa sola contradicción bastará para invalidar aquel reconocimiento, con tal de que el hijo, siendo mayor de edad, consienta en reconocer por madre a la que contradice.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 340.- Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente, salvo que el hijo sea mayor de edad y éste consienta en reconocer por madre a la que contradice, en cuyo caso bastará la contradicción de la misma para invalidar el reconocimiento.
 
 ART. 341.- Cuando la contradicción de la madre se haga valer con el objeto de negar al padre los derechos que le da el reconocimiento, y el hijo fuere menor de edad, se proveerá a éste de un tutor especial para que con su audiencia y la del Ministerio Público se resuelva lo que proceda acerca de los derechos controvertidos, quedando a salvo los del hijo para consentir el reconocimiento del padre o de la madre cuando llegare a la mayor edad, así como sus derechos hereditarios si los padres muriesen durante la minoría.
 
@@ -1425,9 +1461,15 @@ III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre hacia
 
 IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Si se propusiera cualquier prueba biológica o proveniente del avance de los conocimientos científicos y el presunto progenitor se niegue a proporcionar la muestra necesaria, se presumirá, salvo prueba en contrario, que es el padre.
+
 ART. 348.- La posesión de estado, para los efectos de los artículos 318 y 347, fracción II, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o por la familia de éste, como hijo del primero, o que el presunto padre ha proveído a su subsistencia y educación o establecimiento.
 
-ART. 349.- Está permitido al hijo y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada, salvo que ésta en la época probable de la concepción no hubiese vivido con su marido.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+ART. 349.- Está permitido al hijo y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios, incluidos los provenientes del avance de los conocimientos científicos. En caso de que la presunta madre se niegue a proporcionar la muestra necesaria se presumirá como tal, salvo prueba en contrario; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada, salvo que ésta en la época probable de la concepción no hubiese vivido con su marido.
 
 ART. 350.- No obstante lo dispuesto en el artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia ejecutoriada civil o penal.
 
@@ -10012,3 +10054,7 @@ P.O. 4 DE JULIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
