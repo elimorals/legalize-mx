@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-justicia-para-adolescentes-del-estado-51775"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2006-09-12"
+last_updated: "2007-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de septiembre de 2006.
 
@@ -1861,7 +1861,9 @@ La revisión se promoverá por escrito ante la Sala Especializada en Justicia pa
 
 ## TRANSITORIOS
 
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, manteniendo su vigencia hasta el 31 de diciembre de 2007.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se abroga la Ley del Sistema de Justicia Juvenil, expedida mediante Decreto número 726 del 18 de mayo de 2004, publicada en el Periódico Oficial número 135 del 10 de noviembre de 2004, así como las disposiciones de ley que se opongan a los preceptos contenidos en el ordenamiento que se expide.
 
@@ -1884,3 +1886,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los once días del mes de septiembre del año dos mil seis.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
