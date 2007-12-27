@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "2004-05-27"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -79,11 +79,13 @@ V.- El fortalecimiento del Pacto Federal y del Municipio Libre, para lograr un d
 
 VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 3.
 
-Para los efectos de esta Ley, se entiende por Planeación Estatal del Desarrollo, la ordenación racional y sistemática de acciones que en base al ejercicio de las atribuciones del Ejecutivo Estatal y de los Ayuntamientos, en materia de regulación y promoción de la actividad económica, social, política y cultural, tiene como propósito la transformación de la realidad del Estado, de acuerdo a las normas, principios y objetivos que las Constituciones Federal y Estatal, y las Leyes de la materia establecen.
+Para los efectos de esta ley, se entiende por planeación estatal del desarrollo, la ordenación racional y sistemática de acciones que con base en el ejercicio de las atribuciones del Ejecutivo Estatal y de los Ayuntamientos, en materia de regulación y promoción de la actividad económica, social, política, cultural, de protección al medio ambiente y desarrollo sustentable, tiene como propósito el mejoramiento de la realidad del Estado, de acuerdo a las normas, principios y objetivos que la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado de Tamaulipas y las leyes de la materia establecen.
 
-A través de la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán resultados.
+Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán los resultados.
 
 ###### ARTICULO 4.
 
@@ -109,15 +111,33 @@ El contenido de las cuentas anuales de la Hacienda Pública Estatal deberá rela
 
 Los Ayuntamientos observarán lo dispuesto en el Artículo 187 del Código Municipal.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Los titulares de las dependencias de la administración pública estatal, al dar cuenta anualmente ante el Congreso, sobre el estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación estatal que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social y ambiental, en función de dichos objetivos y prioridades.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Los funcionarios a que alude el cuarto párrafo de este artículo y los titulares de las entidades que sean citados por el Congreso del Estado para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de ley o asunto de que se trate y los objetivos de la planeación estatal, relativos a la dependencia o entidad a su cargo.
+
 ###### ARTICULO 9.
 
 El Gobernador del Estado al enviar al Congreso Estatal las iniciativas de las Leyes de ingresos y proyectos de Presupuesto de Egresos del Estado, informará sobre el contenido general de estos documentos y de su relación con los programas anuales, que conforme a lo previsto en el Artículo 34 de esta Ley, deberán elaborarse para la ejecución del Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 10.
 
-las Dependencias de la Administración Pública Estatal deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación estatal del desarrollo.
+Las Dependencias de la Administración Pública Estatal deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación estatal del desarrollo, a fin de cumplir con la obligación del Estado de garantizar que ésta sea integral y sustentable.
 
 Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Administración Pública Estatal. A este efecto, los titulares de las dependencias del Ejecutivo proveerán lo conducente en el ejercicio de las atribuciones, que como coordinadores de sector, les confiere la ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+El Ejecutivo Estatal establecerá un sistema de evaluación para medir los avances de las dependencias y entidades de la Administración Pública Estatal en el logro de los objetivos y metas del Plan que se hayan comprometido alcanzar anualmente. En su caso, se podrá estimular el buen desempeño de las unidades administrativas y de los servidores públicos.
 
 ###### ARTICULO 11.
 
@@ -129,33 +149,43 @@ En caso de duda sobre la interpretación de las disposiciones de esta Ley se est
 
 ### CAPITULO SEGUNDO. SISTEMA ESTATAL DE PLANEACION DEMOCRATICA
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 13.
 
-La planeación estatal del desarrollo se llevará a cabo por las dependencias y entidades de la Administración Pública Estatal y por los Municipios, en el seno del Comité de Planeación para el Desarrollo del Estado de Tamaulipas (COPLADET), en los términos de esta ley, mediante el Sistema Estatal de Planeación Democrática en congruencia con el Sistema Nacional de Planeación Democrática.
+La planeación estatal del desarrollo se llevará a cabo por las dependencias y entidades de la Administración Pública Estatal, en términos de esta ley, mediante el Sistema Estatal de Planeación Democrática instrumentado por la Coordinación General de Planeación para el Desarrollo del Estado de Tamaulipas, dependiente del Ejecutivo Estatal, en congruencia con el Sistema Nacional de Planeación Democrática.
 
-Las dependencias y entidades de la Administración Pública Estatal y los Municipios, formarán parte del Sistema a través de las unidades administrativas que tengan asignadas las funciones de planeación dentro de las mismas.
+Las dependencias y entidades de la Administración Pública Estatal y los municipios, formarán parte del Sistema, por conducto de las unidades administrativas que tengan asignadas las funciones de planeación dentro de las mismas.
 
 ###### ARTICULO 14.
 
 Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema Estatal de Planeación Democrática y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación de los Planes y programas a que se refiere esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 15.
 
-El Comité de Planeación para el Desarrollo del Estado de Tamaulipas (COPLADET), con el apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, tendrá las siguientes atribuciones:
+La Coordinación General de Planeación para el Desarrollo del Estado de Tamaulipas, con el apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, tendrá las siguientes atribuciones:
 
-I.- Coordinar las actividades de la Planeación Estatal del Desarrollo;
+I.- Integrar y actualizar, en congruencia con el Plan Nacional de Desarrollo y con los Planes Municipales, el Plan Estatal de Desarrollo, tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Estatal, de los Gobiernos Municipales y los planteamientos que se formulen por los grupos sociales interesados;
 
-II.- Integrar, en congruencia con el Plan Nacional de Desarrollo y con los Planes Municipales, el Plan Estatal de Desarrollo, tomando en cuenta las propuestas de las dependencias de la Administración Pública Estatal, de los Gobiernos Municipales, así como los planteamientos que se formulen por los grupos sociales interesados;
+II.- Coordinar la evaluación y seguimiento técnico del Plan Estatal de Desarrollo, verificando la congruencia entre sí de los programas y proyectos que formulen los Gobiernos Federal, Estatal y Municipales con el cumplimiento oportuno de los objetivos señalados en el Plan;
 
-III.- Asesorar, proyectar y coordinar la planeación municipal, con la participación que corresponda a los Gobiernos Municipales, y elaborar los Programas Subregionales y Especiales que le señale el Gobernador del Estado;
+III.- Coordinar la planeación regional con la participación que corresponda a los Gobiernos Federal y Municipales, consultar a los grupos sociales y, en su caso, incorporar las propuestas que realicen, así como elaborar los programas especiales que le señale el Gobernador del Estado;
 
-IV.- Asegurar que los Planes y Programas que se generen en el Sistema, mantengan congruencia en su elaboración y contenido, proponiendo las metodologías y lineamientos que deberán seguirse;
+IV.- Cuidar que el Plan y los programas que se generen en el Sistema, mantengan congruencia en su elaboración, contenido, alcance, temporalidad, programación, ejecución, seguimiento y evaluación;
 
-V.- Coordinar las actividades, que en materia de investigación y capacitación para la planeación realicen las dependencias de la Administración Pública Estatal;
+V.- Fomentar la coordinación entre los Gobiernos Federal, Estatal y Municipales para la instrumentación de los proyectos y programas que se acuerden e implementar las medidas necesarias para que se cumpla lo pactado en los Convenios acordados;
 
-VI.- Elaborar los Programas Operativos Anuales para la ejecución del Plan Estatal y de los Programas subregionales y Especiales, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Estatal y los respectivos Gobiernos Municipales; y
+VI.- Coordinar las actividades que, en materia de investigación y capacitación para la planeación, realicen las dependencias y entidades de la administración pública estatal;
 
-VII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas dependencias de la Administración Pública Estatal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y los Programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y reformar, en su caso, el Plan y los Programas respectivos.
+VII.- Coordinar la elaboración de los programas anuales globales para la ejecución del Plan y los programas especiales, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Estatal y los gobiernos municipales;
+
+VIII.- Verificar periódicamente la relación que guarden los programas y presupuestos de las diversas dependencias y entidades de la Administración Pública Estatal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y los programas a que se refiere esta ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y plantear las reformas, en su caso, al Plan y los programas respectivos;
+
+IX.- Convocar, a iniciativa del Ejecutivo del Estado y en los términos del artículo 4º de la Constitución Política del Estado, a los sectores público, social, privado y académico, para la conformación del Consejo Económico y Social, órgano consultivo del Gobierno del Estado, en que estarán representadas las diversas regiones de desarrollo del Estado, cuyo objetivo será alentar la planeación de largo plazo basada en el acuerdo social más amplio para dar continuidad a los procesos de desarrollo del Estado; y
+
+X.- Las demás que le otorguen otros ordenamientos jurídicos.
 
 ###### ARTICULO 16.
 
@@ -209,9 +239,11 @@ V.- Asegurar la congruencia del Programa Institucional con el Programa Sectorial
 
 VI.- Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades del Programa Institucional.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 19.
 
-La Dirección General de la Contraloría Estatal deberá ejercer el control y vigilancia de los objetivos y prioridades del Plan Estatal y de los Programas que de él se deriven, conforme a las facultades y procedimientos que las Leyes le señalen.
+La Contraloría Gubernamental ejercerá la vigilancia de los objetivos y prioridades del Plan Estatal de Desarrollo y de los programas que de él se deriven, conforme a las facultades y procedimientos que las leyes le señalen.
 
 ###### ARTICULO 20.
 
@@ -221,7 +253,9 @@ Estas Comisiones podrán, a su vez, contar con Subcomisiones para la elaboració
 
 Las Entidades de la Administración Pública Estatal podrán integrarse a dichas Comisiones y Subcomisiones, cuando se trate de asuntos relacionados con su objeto.
 
-Las Comisiones y Subcomisiones a que se hace referencia en los párrafos anteriores formarán parte del Comité de Planeación para el Desarrollo del Estado de Tamaulipas, en los términos del Artículo 13 de la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+La Coordinación General de Planeación para el Desarrollo del Estado de Tamaulipas, formará parte de las Comisiones a que se hace referencia en los párrafos anteriores.
 
 ### CAPITULO TERCERO. PARTICIPACION SOCIAL EN LA PLANEACION
 
@@ -237,15 +271,17 @@ Para tal efecto, y conforme a la Legislación aplicable, en el Sistema deberán 
 
 ### CAPITULO CUARTO. PLANES Y PROGRAMAS
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 23.
 
-El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse, en un plazo de seis meses contados a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponde, aunque podrá contener consideraciones y proyecciones de más largo plazo.
+El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse, en un plazo de seis meses contados a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponde. Las consideraciones y proyecciones de más largo plazo que pudiese contener se considerarán en el ámbito del Consejo Económico y Social.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 24.
 
-Los planes municipales de desarrollo deberán elaborarse y aprobarse en un plazo de tres meses contados a partir de la fecha en que toma posesión el Ayuntamiento y sus previsiones se realizarán durante el periodo constitucional que le corresponda. Las consideraciones y proyecciones de largo plazo, sustentadas en acciones ejecutadas total o parcialmente por el Ayuntamiento concluyente deberán considerarse por la próxima administración e incorporarse en las previsiones de su Plan Municipal de Desarrollo.
+Los planes municipales de desarrollo deberán elaborarse y aprobarse en un plazo de tres meses contados a partir de la fecha en que tome posesión el Ayuntamiento y sus previsiones se realizarán durante el período constitucional que le corresponda. Las consideraciones y proyecciones de más largo plazo, sustentadas en acciones ejecutadas total o parcialmente por el Ayuntamiento podrán considerarse por el Consejo Económico y Social, a fin de impulsar su incorporación en la planeación municipal.
 
 ###### ARTICULO 25.
 
@@ -303,7 +339,9 @@ Los Programas Institucionales deberán ser sometidos por las Entidades de la Adm
 
 Si la Entidad no estuviera agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Dependencia que el ejecutivo del Estado o el Presidente Municipal, designen respectivamente.
 
-Los Programas Sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del Comité de planeación para el Desarrollo del Estado de Tamaulipas, por la Dependencia Coordinadora del Sector correspondiente.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Los Programas Sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado por la dependencia a la cual correspondan, con base en la colaboración de la Coordinación General de Planeación para el Desarrollo del Estado de Tamaulipas, en términos de lo dispuesto por los artículos 15, fracción IV, y 17, fracción III, de esta ley.
 
 ###### ARTICULO 36.
 
@@ -359,9 +397,11 @@ La coordinación en la ejecución del Plan Nacional, del Plan Estatal y de los P
 
 El Ejecutivo Estatal podrá convenir con los Gobiernos Federal y de los Municipios, satisfaciendo las formalidades que en cada caso procedan, la coordinación que se requiera, a efecto de que dichos Gobiernos participen en la Planeación Estatal del Desarrollo y coadyuven, en el ámbito de sus respectivas jurisdicciones, a la consecución de los objetivos de la Planeación General; para que los Planes Nacionales, Estatales y Municipales tengan congruencia entre sí y para que los Programas Operativos de las diferentes instancias de Gobierno guarden la debida coordinación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 48.
 
-Para los efectos del Artículo anterior el Ejecutivo Estatal podrá convenir con los Gobiernos Federal y de los Municipios:
+Para los efectos del artículo anterior, el Ejecutivo Estatal podrá convenir con los gobiernos federal y municipales:
 
 I.- Su participación en la Planeación Estatal a través de la presentación de las propuestas que estimen pertinentes;
 
@@ -377,7 +417,9 @@ VI.- La ejecución de las acciones que deban realizarse en el ámbito Municipal 
 
 VII.- La ejecución de las acciones que deban realizarse en el ámbito Municipal y que competen a los órganos Federales, Estatal y Municipal, considerando la participación que corresponda a los Municipios interesados y a los sectores de la Sociedad.
 
-Para este efecto, el Comité de Planeación para el Desarrollo del Estado de Tamaulipas propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las Dependencias Coordinadoras de Sector, tanto Federales como Estatales, conforme a sus atribuciones.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Para este efecto, la Coordinación General de Planeación para el Desarrollo del Estado de Tamaulipas propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector tanto federales como estatales, conforme a sus atribuciones.
 
 ###### ARTICULO 49.
 
@@ -395,29 +437,19 @@ El Ejecutivo Estatal ordenará la publicación, en el Periódico Oficial del Est
 
 El Ejecutivo del Estado, por sí o a través de sus Dependencias y Entidades, y los Municipios, deberán concertar la realización de las acciones previstas en sus Planes y Programas, con las representaciones de los grupos sociales o con los particulares interesados.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-Lo anterior se realizará a través de los Consejos de Desarrollo para el Bienestar Social que para el efecto se constituyan, cuyas funciones serán entre otras, las siguientes:
+Lo anterior, se realizará mediante los Consejos de Desarrollo para el Bienestar Social que para el efecto se constituyan en cumplimiento de la ley de la materia.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1998)</small>
+I.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2007)
 
-I.- Planear, programar, operar, controlar, dar siguimiento (sic) y evaluar los recursos correspondientes del Presupuesto de Egresos de la Federación, cuando expresamente se detrmine.
+II.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2007)
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
+III.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2007)
 
-II.- Participar en la formulación de presupuestos de obras, proyectos y acciones para el desarrollo integral de las comunidades, que puedan ser financiados con los recursos mencionados en el párrafo anterior.
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2007)
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
-
-III.- Impulsar la participación amplia, plural y democrática de las comunidades, para la orientación y aplicación de los recursos mencionados.
-
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
-
-IV.- Propiciar el establecimiento de compromisos para el desarrollo y bienestar social, entre los miembros de las comunidades y las autoridades.
-
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
-
-V.- Supervisar la adecuada aplicación de los recursos.
+V.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2007)
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1996)</small>
 
@@ -431,9 +463,11 @@ La concertación a que se refiere el Artículo anterior será objeto de contrato
 
 Los contratos y convenios que se celebren conforme a este Capítulo se considerarán de derecho público.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 54.
 
-Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos contratos y convenios, serán resueltas por los Tribunales Estatales competentes.
+Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos contratos y convenios, serán resueltas por los Tribunales Estatales o Federales competentes.
 
 ###### ARTICULO 55.
 
@@ -470,6 +504,70 @@ Las responsabilidades a que se refiere la presente Ley son independientes de las
 En los Convenios de Coordinación que suscriba con los Gobiernos Federal y con los Municipales, el Ejecutivo del Estado propondrá la inclusión de una cláusula en la que se prevean medidas que sancionen el incumplimiento del propio Convenio y de los Acuerdos que del mismo se deriven.
 
 De las controversias que surjan con motivo de los Convenios a nivel Estatal, conocerá el Supremo Tribunal de Justicia del Estado en los términos de la legislación Estatal aplicable, y de los Convenios con la Federación conocerá la Suprema Corte de Justicia de la Nación, en los términos del Artículo 105 de la Constitución General de la República.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO OCTAVO. CONSEJO ECONOMICO Y SOCIAL
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 62.
+
+Se conforma el Consejo Económico y Social, órgano auxiliar, consultivo, vinculativo y de coordinación del Gobierno del Estado en el que concurren los sectores público, social, privado y académico, con el propósito de diseñar, proponer, orientar, promover y coordinar la formulación, actualización, instrumentación y evaluación de las políticas públicas de mediano y largo plazos, en congruencia con el Plan Estatal de Desarrollo, a fin de compatibilizar los esfuerzos que realicen los gobiernos federal, estatal, municipales y la sociedad civil organizada en el proceso integral de planeación estratégica, evaluación e información, propiciando la colaboración de los diversos sectores de la sociedad.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 63.
+
+El Consejo Económico y Social para el adecuado cumplimiento de sus atribuciones, se integrará de la forma siguiente:
+
+I.- Un Presidente, que será el Gobernador del Estado;
+
+II.- Un Secretario Ejecutivo, que será designado por el Gobernador del Estado;
+
+III.- El titular de la Coordinación General de Planeación para el Desarrollo del Estado de Tamaulipas;
+
+IV.- Los titulares de dependencias y entidades de la Administración Pública Estatal que señale el Gobernador del Estado;
+
+V.- Tres representantes de la Administración Pública Federal;
+
+VI.- Tres representantes de las organizaciones mayoritarias empresariales que actúen a nivel estatal y estén debidamente registradas ante las autoridades correspondientes;
+
+VII.- Tres representantes de las organizaciones mayoritarias de trabajadores y de campesinos, así como de las sociedades cooperativas que actúen a nivel estatal y estén debidamente registradas ante las autoridades correspondientes;
+
+VIII.- Tres representantes de instituciones de educación superior y centros de investigación que se encuentren establecidos en la Entidad; y
+
+IX.- Un representante de cada región conforme a lo señalado en la Ley para el Desarrollo Económico y la Competitividad del Estado.
+
+Por cada miembro propietario, con excepción de los considerados en las fracciones I, IV y VII de este artículo, se designará un suplente.
+
+El Ejecutivo del Estado formulará las invitaciones a que se refieren las fracciones V, VI, VII, VIII y IX de este precepto y la duración de su función será de tres años, susceptibles de ser renovados por otro período similar.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 64.
+
+El Consejo Económico y Social realizará las siguientes funciones:
+
+I.- Fungir como órgano de consulta del Gobierno del Estado en materia de desarrollo económico y social, mediante la elaboración de diagnósticos, estudios de gran visión, análisis de prospectiva y, en general, de herramientas de planeación estratégica útiles en la construcción del futuro deseado para la entidad;
+
+II.- Promover la participación de los sectores público, social, privado y académico en la elaboración y permanente actualización de la planeación estratégica, buscando su congruencia y compatibilidad con las tendencias globales, sectoriales y regionales;
+
+III.- Promover la celebración de acuerdos de coordinación entre los sectores público, social, privado y académico que actúen a nivel estatal, tendientes a orientar sus esfuerzos al logro de los objetivos del desarrollo del Estado con visión estratégica de mediano y largo plazos;
+
+IV.- Promover la coordinación con otras instancias y organismos para coadyuvar en la definición, instrumentación y evaluación de programas para el desarrollo de regiones interestatales solicitando, en su caso, la intervención de la Federación para tales efectos;
+
+V.- Proponer a las instancias correspondientes medidas de carácter jurídico, administrativo y financiero, necesarias para el cumplimiento de las funciones y la consecución de los objetivos del propio Consejo;
+
+VI.- Acordar el establecimiento de Comisiones o grupos de trabajo sectoriales, regionales y especiales, los cuales actuarán como instancias auxiliares del Consejo y se integrarán conforme a lo que éste determine; y
+
+VII.- Las demás que le asignen esta ley y demás ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 65.
+
+Los encargos en el Consejo tienen carácter honorífico, salvo en el caso de la función referida en la fracción II del artículo 63 cuando recaiga en una persona que no sea funcionario público.
 
 ## TRANSITORIOS
 
@@ -514,3 +612,9 @@ P.O. 27 DE MAYO DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2007.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. El Consejo Económico y Social se conformará e instalará dentro de los 90 días posteriores a la entrada en vigor del presente Decreto.
