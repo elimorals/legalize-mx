@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2007-11-28"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2133,9 +2133,19 @@ La misma pena se impondrá al que promueva, publicite, invite, facilite, gestion
 
 Si se emplease la violencia o el agente se valiese de la función pública que tuviere, la pena se aumentará hasta una mitad.
 
-### CAPITULO I. PELIGRO DE CONTAGIO
+### CAPITULO VI. MANIPULACION GENETICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+Artículo 251 BIS.- Se impondrán de dos a seis años de prisión, inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos, profesión u oficio y multa hasta de trescientos días de salario, a quien:
+
+I. Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipule genes humanos de manera que se altere el genotipo;
+
+II. Fecunde óvulos humanos con cualquier fin distinto a la procreación humana; o
+
+III. Mediante la clonación u otros procedimientos, pretendan la creación de seres humanos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 209.
 
@@ -2155,7 +2165,23 @@ A quien cometa este delito en sus fracciones I, II y III se le impondrán de tre
 
 Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del país, se le impondrán de cuatro a nueve años de prisión y de cien a mil días multa. Si se emplease violencia o el inculpado se valiese de una función pública, la pena se agravará hasta una mitad más.
 
-### CAPITULO II. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
+### CAPITULO VII. DISPOSICION DE CELULAS Y PROCREACION ASISTIDA
+
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+Artículo 251 TER.- Se impondrán de dos a siete años de prisión y quinientos días de multa a quien:
+
+I. Disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes o depositarios;
+
+II. Implante a una mujer un óvulo fecundado, sin su consentimiento o sin el de los donantes o depositarios, aún con el consentimiento de una menor de edad o de un incapaz para comprender el hecho o para resistirlo.
+
+Este delito se perseguirá por querella. Si el delito se realiza con violencia o del mismo resultare un embarazo, la pena aplicable será de cinco a catorce años de prisión y multa hasta de quinientos días de salario.
+
+Además de las penas previstas, se impondrá privación del derecho para ejercer la profesión por un tiempo igual al de la pena de prisión impuesta. Si se trata de servidores públicos, se impondrán también, en los mismos términos, la destitución e inhabilitación de catorce a diecinueve años para el desempeño de empleo, cargo o comisión públicos.
+
+SUBTITULO SEGUNDO
+
+DELITOS DE PELIGRO CONTRA LAS PERSONAS
 
 ###### Artículo 211.
 
@@ -2165,29 +2191,29 @@ SUBTITULO QUINTO
 
 DELITOS CONTRA LA FAMILIA
 
+### CAPITULO I. PELIGRO DE CONTAGIO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO II. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
+
 ### CAPITULO III. ABANDONO DE INCAPAZ
 
 > <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ### CAPITULO IV. OMISION DE AUXILIO A LESIONADOS
 
-### CAPITULO V. OMISION DE AUXILIO
-
-### CAPITULO VI. DISPOSICIONES GENERALES
-
 ###### Artículo 212.
 
 A quien con el fin de alterar el estado civil, suprima, altere o usurpe el estado civil de otro, registre un nacimiento inexistente o substituya a un niño por otro, se le impondrán de seis meses a seis años de prisión y de cincuenta a cuatrocientos días multa.
 
-### CAPITULO I. PRIVACION DE LIBERTAD
+### CAPITULO V. OMISION DE AUXILIO
 
 ###### Artículo 213.
 
 Al que contraiga o autorice matrimonio con conocimiento de la existencia de un impedimento, o sin que hayan transcurrido los términos suspensivos que para contraerlo señala la ley civil, se le impondrán de seis meses a dos años de prisión y de treinta a doscientos cincuenta días multa.
 
-### CAPITULO II. SECUESTRO
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
+### CAPITULO VI. DISPOSICIONES GENERALES
 
 ###### Artículo 214.
 
@@ -2205,7 +2231,7 @@ El término para la prescripción de la bigamia, empezará a correr desde que un
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO III. PRIVACION DE LA LIBERTAD DE INFANTE
+### CAPITULO I. PRIVACION DE LIBERTAD
 
 ###### Artículo 217.
 
@@ -2223,7 +2249,9 @@ Este delito se perseguirá de oficio si de él resultare algún peligro, lesión
 
 Al inculpado de este delito además de las sanciones señaladas se impondrá la pérdida (sic) los derechos inherentes a la patria potestad del menor o incapaz agraviado por resolución judicial.
 
-### CAPITULO IV. SUSTRACCION DE HIJO
+### CAPITULO II. SECUESTRO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 218.
 
@@ -2239,7 +2267,7 @@ El inculpado de este delito, durante la investigación del mismo y al rendir su 
 
 Si el inculpado de este delito lo cometiese de manera reiterada, se le impondrá la pérdida (sic) los derechos inherentes a la patria potestad, tutela o guarda y cuidado del menor o incapaz agraviado, a quien tenga el ejercicio de ésta, por resolución judicial.
 
-### CAPITULO V. RAPTO
+### CAPITULO III. PRIVACION DE LA LIBERTAD DE INFANTE
 
 ###### Artículo 219.
 
@@ -2251,7 +2279,7 @@ Si la entrega definitiva del menor se hace sin la finalidad de obtener un benefi
 
 Además de las sanciones señaladas, se privará de los derechos de la patria potestad, tutela o custodia, en su caso, a quienes teniendo el ejercicio de éstas, cometan el delito a que se refiere este artículo.
 
-### CAPITULO VI. EXTORSION
+### CAPITULO IV. SUSTRACCION DE HIJO
 
 ###### Artículo 220.
 
@@ -2261,7 +2289,7 @@ Igual delito comete la persona que con el mismo fin, obligue a otra a realizar l
 
 Además de las sanciones señaladas por la comisión de este delito, se impondrá la pérdida (sic) los derechos inherentes a la patria potestad, tutela o custodia sobre el menor o incapaz agraviado.
 
-### CAPITULO VII. ASALTO
+### CAPITULO V. RAPTO
 
 ###### Artículo 221.
 
@@ -2269,7 +2297,7 @@ A los ascendientes que tengan cópula con sus descendientes, teniendo conocimien
 
 Se impondrá esta última sanción en caso de incesto entre hermanos.
 
-### CAPITULO VIII. ALLANAMIENTO DE MORADA
+### CAPITULO VI. EXTORSION
 
 ###### Artículo 222.
 
@@ -2283,7 +2311,7 @@ SUBTITULO SEXTO
 
 DELITOS CONTRA EL RESPETO A LOS MUERTOS Y VIOLACIONES A LAS LEYES DE INHUMACION Y EXHUMACION
 
-### CAPITULO I. ACOSO SEXUAL
+### CAPITULO VII. ASALTO
 
 ###### Artículo 224.
 
@@ -2315,7 +2343,7 @@ SUBTITULO SEPTIMO
 
 DELITOS CONTRA EL AMBIENTE
 
-### CAPITULO II. ACTOS LIBIDINOSOS
+### CAPITULO VIII. ALLANAMIENTO DE MORADA
 
 ###### Artículo 228.
 
@@ -2389,9 +2417,7 @@ A los prestadores de servicios ambientales autorizados que proporcionen document
 
 Será necesario que la secretaría del ramo formule la denuncia correspondiente para proceder penalmente por los delitos previstos en este capítulo, a excepción de lo señalado en el artículo 229 de este código, en cuyo caso la denuncia la podrá formular cualquier ciudadano.
 
-### CAPITULO III. ESTUPRO
-
-> <small>(REFORMADO, G.G. 27 DE OCTUBRE DEL 2004)</small>
+### CAPITULO I. ACOSO SEXUAL
 
 ###### Artículo 235.
 
@@ -2425,9 +2451,7 @@ Será necesario que la secretaria del ramo formule la denuncia correspondiente p
 
 La reparación del daño respecto de los delitos contenidos en este subtítulo, se aplicará en favor de la colectividad a través de la autoridad correspondiente.
 
-### CAPITULO IV. VIOLACION
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+### CAPITULO II. ACTOS LIBIDINOSOS
 
 ## TITULO TERCERO. DELITOS CONTRA LAS PERSONAS
 
@@ -2435,7 +2459,9 @@ SUBTITULO PRIMERO
 
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPITULO I. INJURIAS
+### CAPITULO III. ESTUPRO
+
+> <small>(REFORMADO, G.G. 27 DE OCTUBRE DEL 2004)</small>
 
 ###### Artículo 236.
 
@@ -2495,7 +2521,9 @@ III. Cuando dos o más personas realicen sobre otra u otras, actos idóneos para
 
 Las lesiones a que se refieren los artículos 237 fracciones I y II, se perseguirán por querella.
 
-### CAPITULO II. DIFAMACION
+### CAPITULO IV. VIOLACION
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 241.
 
@@ -2519,7 +2547,7 @@ II. Al responsable de homicidio calificado, se le impondrán de cuarenta a seten
 
 III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa.
 
-### CAPITULO III. CALUMNIA
+### CAPITULO I. INJURIAS
 
 ###### Artículo 243.
 
@@ -2551,7 +2579,7 @@ d) Que el infante no sea legítimo.
 
 Si en este delito tuviere participación un médico cirujano, comadrona o partera, además de la pena privativa que corresponda, se le suspenderá de uno a tres años en el ejercicio de su profesión.
 
-### CAPITULO IV. DISPOSICIONES GENERALES
+### CAPITULO II. DIFAMACION
 
 ###### Artículo 244.
 
@@ -2569,7 +2597,7 @@ III. Alevosía: cuando se sorprende intencionalmente a alguien de improviso o em
 
 IV. Traición: cuando se emplea la perfidia, violando la fe o la seguridad que expresamente se había prometido a la víctima, o la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquier otra que inspire confianza.
 
-### CAPITULO I. ROBO
+### CAPITULO III. CALUMNIA
 
 ###### Artículo 246.
 
@@ -2579,7 +2607,7 @@ Al que preste auxilio o instigue a otro al suicidio, sin que este se produzca, s
 
 Si el suicida fuere menor de edad o enajenado mental, se impondrá además de uno a tres años de prisión y de treinta a cincuenta días multa.
 
-### CAPITULO II. ABIGEATO
+### CAPITULO IV. DISPOSICIONES GENERALES
 
 ###### Artículo 248.
 
@@ -2613,15 +2641,13 @@ III. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de mue
 
 IV. Cuando a juicio de dos médicos exista prueba suficiente para diagnosticar que el producto sufre alteraciones genéticas o congénitas que puedan dar por resultado el nacimiento de un ser con trastornos físicos o mentales graves, siempre y cuando se cuente con el consentimiento de la madre.
 
-SUBTITULO SEGUNDO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
 
-DELITOS DE PELIGRO CONTRA LAS PERSONAS
+### CAPITULO I. ROBO
+
+### CAPITULO II. ABIGEATO
 
 ### CAPITULO III. ABUSO DE CONFIANZA
-
-### CAPITULO IV. FRAUDE
-
-### CAPITULO V. DESPOJO
 
 ###### Artículo 252.
 
@@ -2633,7 +2659,7 @@ En este delito sólo se procederá por querella del ofendido.
 
 > <small>(DEROGADO TERCER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI. DAÑO EN LOS BIENES
+### CAPITULO IV. FRAUDE
 
 ###### Artículo 253.
 
@@ -2647,23 +2673,25 @@ Al responsable se le impondrán de seis meses a dos años de prisión y de trein
 
 Este artículo sólo se aplicará cuando no causare daño, o los hechos no constituyan tentativa de homicidio, en caso contrario, se impondrán las penas del delito consumado o en grado de tentativa que resultare.
 
-### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+### CAPITULO V. DESPOJO
 
 ###### Artículo 254.
 
 Al que abandone a una persona incapaz de valerse por si misma teniendo la obligación de cuidarla, se le impondrán de seis meses a dos años de prisión y treinta a trescientos días multa, o trabajo a favor de la comunidad, perdiendo además los derechos inherentes a la patria potestad, custodia o tutela, si fuere ascendiente o tutor del ofendido, así como del derecho a heredar si estuviere en aptitud legal para ello.
 
-### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
+### CAPITULO VI. DAÑO EN LOS BIENES
 
 ###### Artículo 255.
 
 Al conductor de un vehículo cualquiera o jinete que deje en estado de abandono, sin prestarle ni facilitarle asistencia a la persona a quien lesionó sin dolo, o dejare de avisar inmediatamente a la autoridad, se le impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa.
 
-### CAPITULO UNICO
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### Artículo 256.
 
 Al que omita auxiliar a una persona que por cualquier circunstancia, estuviese amenazada de un peligro, cuando pudiera hacerlo sin riesgo alguno, o al que no estando en condiciones de llevarlo a cabo, no diere inmediato aviso a la autoridad, se le impondrán de tres a seis meses de prisión y de treinta a sesenta días multa.
+
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
 
 ###### Artículo 257.
 
@@ -2672,6 +2700,8 @@ Si de las omisiones a que se refieren los tres artículos anteriores, resultare 
 SUBTITULO TERCERO
 
 DELITOS CONTRA LA LIBERTAD Y SEGURIDAD
+
+### CAPITULO UNICO
 
 ###### Artículo 258.
 
@@ -2823,7 +2853,7 @@ Si el ofendido es impúber, aun cuando otorgue su consentimiento, se impondrán 
 
 Si se hiciere uso de la violencia física o moral se impondrá además la pena de uno a cuatro años de prisión.
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 Si los actos a que se refiere este artículo los cometiera un familiar consanguíneo directo y colaterales hasta el cuarto grado, en agravio de persona impúber se impondrá de cuatro a diez años de prisión y de cien a quinientos días multa.
 
@@ -2877,7 +2907,7 @@ A quien fuera de una contienda de obra o palabra y con ánimo de ofender, ejecut
 
 Al que públicamente y fuera de riña diere a otro un golpe que no cause lesión con intención de ofenderlo, se le impondrán de tres a seis meses de prisión o de treinta a sesenta días multa.
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 ###### Artículo 277.
 
@@ -3740,3 +3770,9 @@ TERCERO.- Las notificaciones de las resoluciones que confirmen la determinación
 CUARTO.- Los expedientes de Averiguación Previa en trámite o pendientes de resolverse, con la determinación de reserva o de no ejercicio de acción penal, se tramitarán y sustanciarán conforme a las reglas establecidas en este decreto.
 
 QUINTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 27 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
