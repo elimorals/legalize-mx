@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2007-11-28"
+last_updated: "2007-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1017,7 +1017,13 @@ Cuando estén reunidos los requisitos establecidos en la Constitución Política
 
 En la resolución respectiva se deberá indicar además el lugar en el que quedará ingresado el aprehendido; en este caso, todos los días y horas del año serán hábiles y los responsables de los centros de prevención y readaptación social estarán obligados a recibir inmediatamente al aprehendido y hacerlo saber al juez.
 
-La resolución respectiva será cumplida por la policía judicial, la que estará obligada a poner sin demora al aprehendido a disposición del órgano jurisdiccional que libró la orden, informándole el día y hora en que ésta se ejecutó.
+> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+La resolución respectiva será cumplida por la policía ministerial inmediatamente, la que estará obligada a poner sin demora al aprehendido a disposición del órgano jurisdiccional que libró la orden, informándole el día, lugar y hora en que ésta se ejecutó.
+
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+Si dentro de los seis meses siguientes al día en que fuere librada la orden de aprehensión no se cumpliera, el juez informará al Procurador General de Justicia del Estado, para que determine lo procedente para el cumplimiento de la orden y las posibles responsabilidades.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE AGOSTO DE 2006)</small>
 
@@ -3262,3 +3268,11 @@ TERCERO.- Las notificaciones de las resoluciones que confirmen la determinación
 CUARTO.- Los expedientes de Averiguación Previa en trámite o pendientes de resolverse, con la determinación de reserva o de no ejercicio de acción penal, se tramitarán y sustanciarán conforme a las reglas establecidas en este decreto.
 
 QUINTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 27 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las órdenes de aprehensión que se encuentren en trámite al momento de la entrada en vigor del presente decreto, deberán ajustarse a los términos establecidos en el artículo 147 del Código de Procedimientos Penales del Estado de México, corriéndose los plazos al día de iniciada la validez formal de este decreto.
