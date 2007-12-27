@@ -1,0 +1,1478 @@
+---
+title: "LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS"
+identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
+country: "mx"
+rank: "ley"
+publication_date: "2007-12-27"
+last_updated: "2007-12-27"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-tam"
+scjn_id: "70382"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "156 ANEXO"
+reform_count: "20"
+scjn_last_update: "2020-04-14"
+issue_date: "2007-12-07"
+state: "TAM"
+---
+# LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
+
+LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
+
+EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+
+Al margen un sello que dice: - "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+
+LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLlTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+
+D E C R E T O No. LIX-1086
+
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS.
+
+## TITULO PRIMERO. DE LA SEGURIDAD PUBLICA
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+###### ARTICULO 1.
+
+1. La presente ley es de orden público e interés social, con observancia general en el Estado de Tamaulipas, reglamentaria del artículo 21 constitucional en lo relativo a la seguridad pública a cargo de los Estados y los Municipios en sus respectivas competencias.
+
+2. Para los efectos de esta ley, la seguridad pública constituye el conjunto de programas, principios y ámbitos, a través de los cuales el Estado ejerce sus atribuciones operativas y técnicas, que redundan en la prevención, vigilancia, control y protección de los residentes del Estado contra cualquier acción criminal que pudiera ponerles en peligro o amenaza, a fin de garantizar el pleno goce y disfrute de sus derechos y libertades, privilegiándose la preservación armónica de la convivencia y el fomento de la cohesión social.
+
+3. La presente ley tiene por objeto:
+
+I. Normar la función de seguridad pública preventiva que realizan el Estado y los Municipios en las respectivas competencias que señala la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente ley y las demás disposiciones legales de la materia;
+
+II. Precisar las autoridades responsables de la función de seguridad pública preventiva, su organización, funcionamiento, atribuciones y obligaciones;
+
+III. Designar las instituciones responsables de la seguridad pública preventiva, los Consejos de Honor y Justicia, y fijar las bases del Servicio Policial de Carrera;
+
+IV. Instituir el Sistema Estatal de Seguridad Pública;
+
+V. Establecer las bases de coordinación entre el Estado y los Municipios y, en su caso, con la Federación;
+
+VI. Alentar la participación de la comunidad en materia de prevención, inclusive, constituyendo los órganos o instancias auxiliares en materia de seguridad pública que se requieran;
+
+VII. Proveer lo necesario para la ejecución de las sanciones privativas y restrictivas de la libertad impuestas por los tribunales, en torno a la readaptación de los delincuentes; asimismo, en lo que corresponda en tratándose de personas a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tenga entre doce años cumplidos y menos de dieciocho años de edad;
+
+VIII. Ejecutar las medidas impuestas por las autoridades judiciales competentes en términos de las leyes de justicia para adolescentes, por conducto de las instituciones y órganos establecidos por dichos ordenamientos y demás leyes aplicables, velando por el estricto respeto de los derechos y garantías de los adolescentes;
+
+IX. Generar en la población conductas de desaliento a la corrupción, la impunidad y toda práctica lesiva, rechazando al delito, sus efectos y sus actores, cómplices o partícipes; y
+
+X. Determinar las sanciones y estímulos a que se hagan acreedores los miembros de las instituciones de seguridad pública preventiva, en términos de la presente ley y su reglamento.
+
+###### ARTICULO 2.
+
+1. La aplicación de la presente ley compete a las autoridades estatales y municipales en sus respectivos ámbitos de competencia, con base en la misma, en los reglamentos, convenios y acuerdos que suscriban y demás ordenamientos aplicables.
+
+2. El Sistema Estatal de Seguridad se integra con las instancias, programas, instrumentos, políticas, servicios y acciones previstos (sic) en la ley, tendentes a alcanzar los fines y objetivos de la seguridad pública.
+
+3. Las autoridades de seguridad pública del Estado se coordinarán con la Federación y los municipios para integrar el Sistema Estatal de Seguridad Pública, y determinar las políticas y acciones que realizarán para el mejoramiento del mismo.
+
+4. Al efecto, desarrollarán por sí o conjuntamente, los lineamientos, mecanismos e instrumentos para la mejor organización y funcionamiento de las dependencias e instituciones policiales.
+
+5. Igualmente, integrarán los mecanismos de información del Sistema Estatal y los datos que deban incorporarse al mismo, manteniéndolos debidamente actualizados.
+
+###### ARTICULO 3.
+
+1. Para los efectos de esta ley, la función de seguridad pública se entiende como de carácter prioritario y permanente a cargo del Estado y los Municipios, según corresponda, para salvaguardar la integridad, derechos y bienes de las personas; para preservar las libertades, el orden y la paz públicos, con estricto respeto a los derechos humanos y su protección, mediante la prevención de las infracciones, las conductas antisociales y los delitos, incluyendo la administración del sistema penitenciario del Estado, la ejecución de penas por delitos del orden común y la ejecución de las medidas impuestas por las autoridades judiciales competentes en términos de las leyes de justicia para adolescentes; y para brindar auxilio y protección a la población en caso de accidentes, desastres o cualquier contingencia que atente contra la seguridad de los individuos.
+
+2. El servicio de seguridad pública estatal en la entidad se regirá por lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, esta ley, el Reglamento Interior de la Secretaría de Seguridad Pública y las demás disposiciones jurídicas aplicables.
+
+###### ARTICULO 4.
+
+1. Las autoridades estatales y municipales de seguridad pública instrumentarán acciones permanentes de evaluación, depuración, adiestramiento, capacitación y profesionalización de sus recursos humanos; de modernización de la infraestructura, del equipo y de sus recursos técnicos; así como la generación de información actualizada sobre seguridad pública, que permitan realizar programas conjuntos entre los tres órdenes de gobierno, en materia de prevención y de persecución de delitos en flagrancia.
+
+2. Es obligación y responsabilidad de los titulares de las instituciones de seguridad, integrar una base de datos que contenga la totalidad de los incidentes de su incumbencia, aprovechando al efecto los avances de la tecnología.
+
+3. Toda información se conservará de manera permanente e institucional, adicionándole nuevos elementos conforme se requiera.
+
+###### ARTICULO 5.
+
+El Estado y los Municipios, de acuerdo con sus propios recursos, procurarán alcanzar los fines de la seguridad pública, combatiendo las causas que generan las infracciones, conductas antisociales y delitos, mediante la formulación, desarrollo e instrumentación de programas y acciones entre sociedad y gobierno, que fomenten la cultura de la legalidad en el ámbito de la prevención, asimismo, la corresponsabilidad y la coordinación institucional.
+
+###### ARTICULO 6.
+
+El titular del Ejecutivo Estatal o quien éste designe, y los Presidentes Municipales podrán celebrar entre sí, o con el Gobierno Federal, con otros poderes del Estado, con otros Gobiernos Estatales o Municipales del país, con personas físicas o morales, públicas o privadas, los convenios o acuerdos que el interés general requiera para la mejor prestación de la función de seguridad pública, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, esta ley y cualquier otro dispositivo legal de la materia.
+
+###### ARTICULO 7.
+
+El Estado y los Municipios se coordinarán entre sí y con la Federación para la observancia general de los fines de esta ley y demás ordenamientos aplicables, integrándose a los Sistemas Nacional y Estatal de Seguridad Pública, a través de las instancias, programas, instrumentos, políticas, servicios y acciones que correspondan.
+
+## TITULO SEGUNDO. DE LAS AUTORIDADES
+
+### CAPITULO I. AUTORIDADES ESTATALES Y MUNICIPALES
+
+###### ARTICULO 8.
+
+Son autoridades estatales en materia de seguridad pública:
+
+I. El Gobernador del Estado;
+
+II. El Presidente del Supremo Tribunal de Justicia;
+
+III. El Secretario de Seguridad Pública;
+
+IV. El Secretario General de Gobierno;
+
+V. El Procurador General de Justicia;
+
+VI. El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+
+VII. El Director General de Ejecución de Sanciones;
+
+VIII. El Director General de Operación Policial;
+
+IX. El Director de la Policía Ministerial;
+
+X. El Director de Reintegración Social y Familiar del Adolescente;
+
+XI. El Director de Protección Civil del Estado;
+
+XII. El Director de la Academia de Policía del Estado; y
+
+XIII. Las demás que con ese carácter determine la ley.
+
+###### ARTICULO 9.
+
+Son autoridades municipales en materia de seguridad pública:
+
+I. Los Ayuntamientos;
+
+II. Los Presidentes Municipales;
+
+III. Los Síndicos, en funciones de Ministerio Público;
+
+IV. Los Directores de Seguridad Pública Municipal;
+
+V. Los titulares de cada institución policial que hubiere;
+
+VI. Los Jueces Calificadores o similares, que las disposiciones jurídicas establezcan como instancias de justicia administrativa;
+
+VII. El titular de Protección Civil; y
+
+VIII. Las demás que determinen con ese carácter las disposiciones jurídicas aplicables.
+
+###### ARTICULO 10.
+
+Las autoridades estatales y municipales de seguridad pública podrán disponer por sí, o coordinadamente, la ejecución de acciones con el fin de preservar o restablecer el orden público y la paz social que el interés general demande, y de garantizar la integridad física de las personas, sus bienes y sus derechos.
+
+### CAPITULO II. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
+
+###### ARTICULO 11.
+
+1. El Gobernador del Estado tendrá en todo momento el mando de los cuerpos de seguridad pública estatales; asimismo de los municipales en donde resida habitual o transitoriamente. Al efecto, los titulares de las diversas instituciones de seguridad se asegurarán y serán responsables de su estricto cumplimiento.
+
+2. La policía preventiva y de tránsito municipales estarán bajo el mando del Presidente Municipal.
+
+Aquellas acatarán las órdenes que el Gobernador del Estado les transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+
+3. Previa determinación de los Ayuntamientos, las instituciones de policía preventiva y de tránsito municipales, podrán integrar un sólo cuerpo policial, con la amplitud de las atribuciones que les son propias, denominándose policía municipal.
+
+4. Para los efectos del párrafo anterior, bastará la simple determinación del Cabildo para que un sólo cuerpo policial realice tanto las funciones de policía, como las de tránsito preventivo municipal.
+
+###### ARTICULO 12.
+
+Son facultades y obligaciones del Gobernador del Estado:
+
+I. Velar por la preservación del orden y la paz públicos, y por la seguridad interior del Estado;
+
+II. Vigilar el estricto cumplimiento de esta ley y su reglamento;
+
+III. Participar en el Consejo Nacional de Seguridad Pública;
+
+IV. Presidir el Consejo Estatal de Seguridad Pública;
+
+V. Establecer las políticas de seguridad pública de la entidad;
+
+VI. Suscribir convenios de coordinación con los poderes del Estado, autoridades federales, de Entidades Federativas, de municipios y de organismos e instituciones públicas, privadas y sociales, por sí o por conducto del Secretario de Seguridad Pública;
+
+VII. Aprobar y expedir el Programa Estatal de Seguridad Pública y los que deriven del Plan Estatal de Desarrollo;
+
+VIII. Ordenar la realización de acciones específicas en la entidad o en determinadas zonas de su territorio;
+
+IX. Imponer las condecoraciones a que se refiere esta ley, a través del Secretario de Seguridad Pública en el Estado;
+
+X. Promover una amplia participación de la comunidad en el análisis y solución de las cuestiones de seguridad pública;
+
+XI. Autorizar a particulares, por conducto de la Secretaría de Seguridad Pública, para que presten servicios privados de seguridad en los términos de la Ley para Regular los Servicios Privados de Seguridad en el Estado; y
+
+XII. Las demás que le señalen las disposiciones constitucionales, legales y reglamentarias aplicables.
+
+###### ARTICULO 13.
+
+Son facultades y obligaciones del Secretario de Seguridad Pública:
+
+I. Desarrollar las políticas de seguridad pública y proponer en el ámbito estatal los criterios para prevenir eficazmente la comisión de delitos, mediante la adopción de normas, acciones, estrategias y tácticas, así como la conjunción de los recursos a disposición del Ejecutivo del Estado;
+
+II. Diseñar y ejecutar programas para fomentar la cultura de legalidad;
+
+III. Generar y promover en la población conductas de desaliento a la corrupción, la impunidad y toda práctica lesiva, rechazando al delito, sus efectos y sus actores, cómplices o partícipes;
+
+IV. Proponer al Gobernador del Estado las medidas que garanticen la congruencia de la política de prevención eficaz de los delitos entre las dependencias de la administración pública;
+
+V. Participar en representación del Gobierno del Estado en el Sistema Nacional de Seguridad Pública;
+
+VI. Participar, conforme a lo establecido en la ley de la materia, en el Consejo Estatal de Seguridad Pública;
+
+VII. Proponer y ejercer las políticas, acciones y estrategias de coordinación estatal en materia de prevención del delito, al tiempo de alentar la coordinación regional en la materia;
+
+VIII. Fomentar la participación ciudadana en la elaboración de programas de prevención del delito;
+
+IX. Promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones;
+
+X. Atender y disponer la resolución de las denuncias y quejas ciudadanas relacionadas con el ejercicio de sus atribuciones;
+
+XI. Organizar, dirigir, administrar y supervisar las instituciones preventivas de seguridad pública estatales, así como aplicar el régimen disciplinario de dichas corporaciones;
+
+XII. Recopilar y mantener al corriente la información sobre los atributos personales, académicos y técnicos de los cuerpos de seguridad pública y de los servidores públicos ministeriales;
+
+XIII. Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del fuero común y preservar las libertades públicas, el orden y la paz sociales dictando las medidas administrativas que sean necesarias para ello;
+
+XIV. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de delitos, mediante métodos que garanticen el respeto a los derechos y libertades fundamentales;
+
+XV. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo; asimismo, disponer la integración de una base de datos que contenga la totalidad de los incidentes de su incumbencia, aprovechando al efecto, los avances de la tecnología;
+
+XVI. Efectuar, en coordinación con la Procuraduría General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos penales;
+
+XVII. Determinar y aplicar las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes;
+
+XVIII. Organizar, dirigir y administrar el servicio civil de carrera de las corporaciones policiales y de seguridad bajo su mando;
+
+XIX. Otorgar autorización y, en su caso, suspender o revocar el permiso conferido a empresas que presten servicios privados de seguridad, cuando los mismos se realicen exclusivamente en el territorio del Estado, así como supervisar su funcionamiento y desempeño en los términos de la Ley para Regular los Servicios Privados de Seguridad en el Estado de Tamaulipas;
+
+XX. Promover la celebración de convenios de colaboración con autoridades federales y estatales, de otras entidades federativas o municipales del Estado para el cumplimiento de sus atribuciones;
+
+XXI. Colaborar, dentro del Sistema Nacional de Seguridad Pública y a requerimiento de autoridades federales competentes, de otras entidades federativas o municipales del Estado, en la protección de la integridad física de las personas y en la preservación de sus bienes, cuando se vean amenazadas por situaciones de peligro que generen disturbios, violencia o riesgo inminente;
+
+XXII. Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Procuraduría General de Justicia, cuando así lo requieran para el debido ejercicio de sus funciones;
+
+XXIII. Ejecutar las penas por delitos del orden común y administrar el sistema penitenciario del Estado, así como organizar y dirigir las actividades de apoyo a liberados;
+
+XXIV. Ejecutar las medidas de orientación, protección y tratamiento para la reintegración social y familiar de las personas entre 12 años cumplidos y menores de 18 años de edad que incurran en la comisión de una conducta considerada como delito por las leyes del Estado;
+
+XXV. Implementar, dirigir y ejecutar los programas de readaptación social de los infractores de la ley penal y administrar los Centros de Ejecución de Sanciones;
+
+XXVI. Tramitar las solicitudes de libertad anticipada y traslado de internos;
+
+XXVII. Ser conducto para el ejercicio de la atribución del Gobernador del Estado en materia de inclusión de reos del orden común para su traslado a su país de origen con objeto de cumplir en éste la condena que les hubiere sido impuesta, conforme a lo dispuesto por el párrafo séptimo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
+
+XXVIII. Coordinar los programas y comisiones de seguridad pública;
+
+XXIX. Proponer al Gobernador del Estado el proyecto del Programa Estatal de Seguridad Pública;
+
+XXX. Evaluar el cumplimiento del Programa Estatal de Seguridad Pública y los que se deriven del Plan Estatal de Desarrollo;
+
+XXXI. Informar oportunamente al Gobernador del Estado sobre los avances y resultados del Programa Estatal de Seguridad Pública y demás acciones emprendidas en materia de seguridad pública;
+
+XXXII. Aprobar las normas y políticas relacionadas con el desarrollo del personal que interviene en funciones de seguridad pública;
+
+XXXIII. Administrar el porte colectivo estatal de armas y suscribir las credenciales para tal efecto, a los integrantes de las instituciones policiales referidas en los términos de la presente ley;
+
+XXXIV. Formular a los Presidentes Municipales las recomendaciones que estime pertinentes para el mejoramiento de la seguridad pública en sus municipios;
+
+XXXV. Establecer la instancia idónea para la defensa legal, en todas sus etapas procesales, de los integrantes de los cuerpos de seguridad de su competencia que, con motivo del ejercicio de sus atribuciones, se vieran implicados en asuntos jurídicos; asimismo, deberá disponer que sin demora alguna sean cubiertos en su totalidad los montos que por concepto de fianza, gastos que genere su defensa en el proceso, e inclusive, los correspondientes a la reparación del daño, si fuere el caso, con recursos de la administración estatal, sin afectar, en lo más mínimo, los recursos de los servidores públicos implicados. Al efecto, preverá lo que corresponda ante la dependencia estatal competente;
+
+XXXVI. Vigilar el estricto cumplimiento de esta ley y demás disposiciones que de ella deriven; y
+
+XXXVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado.
+
+###### ARTICULO 14.
+
+Son facultades y obligaciones de los Ayuntamientos:
+
+I. Garantizar en el ámbito de su competencia, las libertades y derechos de las personas, preservar el orden y la paz públicos, expidiendo al efecto los reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general en materia de seguridad pública;
+
+II. Disponer la realización de un análisis de las condiciones, características y circunstancias imperantes en su Municipio en materia de seguridad pública, para que con apoyo en los programas estatales, regionales o municipales de la materia, se establezcan políticas y lineamientos para garantizar la seguridad y tranquilidad de los habitantes. La implementación de estrategias deberá tener continuidad y seguimiento institucional, independientemente de la conclusión del periodo constitucional del que se trate, sin demérito de que se incluyan adiciones o se incorporen nuevos mecanismos que optimicen los servicios de seguridad, previo acuerdo del Ayuntamiento en funciones;
+
+III. Suscribir convenios en materia de seguridad pública preventiva con el Gobierno del Estado, otros Municipios, y organismos e instituciones de los sectores público, social y privado;
+
+IV. Aprobar los programas de seguridad pública municipales y, en su caso, interregionales, y participar en su elaboración en el orden estatal;
+
+V. Promover la participación de la sociedad en el análisis y solución de los problemas de la seguridad pública, a través de los Comités Municipales de Consulta y Participación de la Comunidad;
+
+VI. Nombrar al Director de Seguridad Pública Municipal, previa consulta de los antecedentes del aspirante en el Registro de Personal de Seguridad Pública a que se refiere esta ley, y que avalen su propuesta. Asimismo, nombrar a todo aquel que realice labores directivas técnicas, operativas o administrativas, adscrito, dependiente o vinculado a las tareas de seguridad;
+
+VII. Solicitar al Secretario de Seguridad Pública del Estado las credenciales para el porte de arma de los integrantes de las instituciones preventivas de seguridad pública municipal; y
+
+VIII. Las demás que le señalen las disposiciones constitucionales, legales y reglamentarias aplicables.
+
+###### ARTICULO 15.
+
+Son facultades y obligaciones de los Presidentes Municipales:
+
+I. Asumir el mando y la responsabilidad de las instituciones municipales de seguridad pública;
+
+II. Participar en las sesiones del Consejo Estatal de Seguridad Pública;
+
+III. Presidir el Consejo Municipal de Seguridad Pública;
+
+IV. Formular, proponer y ejecutar el Programa de Seguridad Pública Municipal;
+
+V. Ejecutar los acuerdos y convenios que se suscriban en materia de seguridad pública;
+
+VI. Proponer al Ayuntamiento el nombramiento de los titulares de la Dirección de Seguridad Pública Municipal, de la Policía Preventiva y de Tránsito y Vialidad, previa consulta de los antecedentes del aspirante en el Registro de Personal de Seguridad Pública a que se refiere esta ley, y que avalen su propuesta; asimismo, hará lo propio en tratándose de cualquier otro cargo directivo, ya sea operativo, técnico o administrativo, adscrito, dependiente o vinculado a las tareas de seguridad pública;
+
+VII. Autorizar altas, bajas y cambios de adscripción del personal de las instituciones municipales de seguridad pública, así como aplicar sanciones administrativas por faltas a esta ley o a los reglamentos respectivos, informando de ello a la Secretaría de Seguridad Pública y a la Unidad de Enlace Informático del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
+
+VIII. Establecer, actualizar y fortalecer el Registro Municipal del Personal de los Cuerpos de Policía y Tránsito. Dicho Registro contendrá: los datos generales de identificación del servidor público; sus huellas dactilares; fotografías de frente y de perfil; tipo sanguíneo; de ser el caso, las señas particulares que tuviera; datos de escolaridad y antecedentes laborales; condecoraciones, estímulos y, en su caso, sanciones merecidas; cursos de actualización recibidos; y, en general, toda información que permita una exacta identificación del servidor público. Igualmente, la información general de su familia y amistades;
+
+IX. Vigilar que los titulares de las instituciones municipales de seguridad pública invariablemente consulten los antecedentes de todo aspirante a ingresar a éstas, ante el Registro de Personal de Seguridad Pública, de cuya información dependerá su ingreso.
+
+No se autorizará el ingreso a quien tenga antecedentes penales por delito doloso o por mala fama, o hubiese sido dado de baja de otra institución policial por resultar positivo en el examen de detección de uso ilícito de drogas;
+
+X. Presentar mensualmente o cuando lo solicite, un informe a la Secretaría de Seguridad Pública con los resultados de las investigaciones que contengan los elementos generales criminógenos, las zonas e incidencias en la comisión de delitos en su territorio, para integrar la estadística delictiva y, además, para adoptar las medidas preventivas necesarias, aprehender en flagrancia y evitar las faltas a los ordenamientos jurídicos;
+
+XI. Determinar la realización de operativos especiales de vigilancia en zonas que por su incidencia delictiva lo requieran;
+
+XII. Adoptar las acciones correctivas en caso de funcionamiento insuficiente o ineficiente de las instituciones municipales de seguridad pública;
+
+XIII. Optimizar el uso de los recursos federales, estatales y municipales que se autoricen en su presupuesto anual, para la adquisición y mantenimiento de equipos, armamento, vehículos e infraestructura que requieran las instituciones de seguridad pública a su cargo, debiendo utilizarse única y exclusivamente en el fortalecimiento de las tareas de seguridad pública, siendo responsable del adecuado destino de dichos recursos;
+
+XIV. Informar oportunamente al Gobernador del Estado sobre alteraciones graves del orden público o de la tranquilidad social en su Municipio;
+
+XV. Integrar el Consejo de Honor y Justicia en los términos de la ley, y vigilar que éste cumpla con las labores encomendadas sin demora y con apego a la legislación, instruyéndose los procesos interpuestos ante dicho órgano;
+
+XVI. Auxiliar a las autoridades federales y estatales de seguridad pública, cuando sea requerido;
+
+XVII. Ejercer las atribuciones que le confiere la Ley para Regular los Servicios Privados de Seguridad en el Estado, respecto de las autorizaciones y demás trámites administrativos relativos a la prestación de servicios privados de seguridad;
+
+XVIII. Atender las recomendaciones que en materia de seguridad pública le formule el Secretario de Seguridad Pública;
+
+XIX. Integrar, dentro del término de los primeros seis meses de su gestión, el Comité Municipal de Consulta y Participación de la Comunidad, y diseñar acciones que fomenten la organización comunitaria. Asimismo, participará dicha información a las instancias estatales de la materia para propiciar la coordinación institucional;
+
+XX. Auxiliar a la población de su circunscripción territorial en caso de accidentes o siniestros;
+
+XXI. Disponer la integración de una base de datos que contenga la totalidad de los incidentes en materia de seguridad pública, aprovechando al efecto, los avances de la tecnología;
+
+XXII. Mantener estricto control del personal adscrito al área de seguridad, prohibiendo terminantemente que el personal operativo realice labores administrativas y viceversa, así fuera temporal o permanentemente;
+
+XXIII. Disponer que los bienes muebles, recursos y los vehículos automotores asignados al área de seguridad pública, por ningún motivo y bajo ninguna circunstancia, se adscriban provisional o definitivamente, tácita o expresamente, directa, indirecta o encubiertamente, a instancia diversa a las propias de seguridad;
+
+XXIV. Establecer la instancia idónea para la defensa legal, en todas las etapas procesales, de los integrantes de los cuerpos de seguridad de su competencia, que con motivo del ejercicio de sus atribuciones se vieran implicados en asuntos jurídicos; asimismo, deberá disponer que sin demora alguna sean cubiertos en su totalidad los montos que por concepto de fianza, gastos que genere su defensa en el proceso, e inclusive, los correspondientes a la reparación del daño, si fuere el caso, con recursos de la administración municipal, sin afectar, en lo más mínimo, los recursos de los servidores públicos implicados. Al efecto, preverá lo que corresponda en el presupuesto de egresos; y
+
+XXV. Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
+
+###### ARTICULO 16.
+
+Los Presidentes Municipales, ya sea directamente o por conducto del o los titulares de las áreas de seguridad pública, tienen la obligación de registrar y consultar permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la totalidad de la información a que se refiere el Capítulo III, del Titulo Quinto de esta ley.
+
+## TITULO TERCERO. DE LAS DEPENDENCIAS DE SEGURIDAD PUBLICA
+
+### CAPITULO I
+
+#### Sección Primera. DE LA SECRETARIA DE SEGURIDAD PUBLICA
+
+###### ARTICULO 17.
+
+La Secretaría de Seguridad Pública es la dependencia encargada de la función de seguridad pública preventiva en el Estado, de conformidad con las competencias establecidas, así como la responsable del diseño, ejecución y seguimiento de los programas de vinculación de la sociedad en la materia; la readaptación social de los delincuentes; la instrumentación y aplicación de las medidas de orientación, protección y tratamiento en los términos de la Ley de Justicia para Adolescentes del Estado; y el conducto de coordinación institucional en las tareas de seguridad con las instancias federales, de otros Estados de la República, y los Municipios.
+
+###### ARTICULO 18.
+
+1. El Secretario de Seguridad Pública vigilará que las instituciones a su cargo y los cuerpos de seguridad municipales registren y consulten permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la información a que se refiere el Capítulo III, del Título Quinto de esta ley, según corresponda.
+
+2. En caso de incumplimiento impondrán las sanciones establecidas en esta ley a los titulares de las instituciones a su cargo y, en tratándose de instituciones municipales, sugerirá a los Presidentes Municipales lo propio con respecto a los titulares de los cuerpos de seguridad de ese ámbito que hayan incumplido con las disposiciones relativas.
+
+#### Sección Segunda. DEL CONTROL Y LA EVALUACION
+
+###### ARTICULO 19.
+
+1. A fin de lograr el pleno cumplimiento de los principios de legalidad, honradez, profesionalismo y eficiencia de los integrantes de las instituciones preventivas estatales y municipales, la Unidad de Contraloría Gubernamental de la Secretaria de Seguridad Pública, aplicará un programa permanente de evaluación del desempeño y lealtad de los servidores a ellas adscritos.
+
+2. Asimismo, la Unidad de Contraloría Gubernamental verificará el cumplimiento de las obligaciones de los integrantes de las instituciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad Pública.
+
+### CAPITULO II. DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PUBLICA
+
+###### ARTICULO 20.
+
+1.- Son instituciones preventivas de seguridad pública estatales:
+
+I. La Policía Estatal Preventiva;
+
+II. La Policía Rural;
+
+III. La Policía de Seguridad Integral;
+
+IV. La Policía Especial de Tamaulipas;
+
+V. Los elementos de seguridad y custodia de los Centros de Ejecución de Sanciones del Estado;
+
+VI. Los elementos de seguridad y custodia de los Centros de Reintegración Social y Familiar para Adolescentes; y
+
+VII. Cualquiera otra que así lo decrete el titular del Ejecutivo Estatal.
+
+2.- Las instituciones policiales previstas en las fracciones I a la IV del párrafo anterior estarán a cargo de un Director, quien será nombrado y removido libremente por el Ejecutivo del Estado. El Director ejercerá las atribuciones que correspondan a cada institución con base a esta ley.
+
+###### ARTICULO 21.
+
+1. Son instituciones preventivas de seguridad pública municipal:
+
+I. Policía Preventiva Municipal; y
+
+II. Policía de Tránsito y Vialidad.
+
+2. Tales instituciones pueden cumplir sus atribuciones de manera individual o conjuntamente, coordinadas o unificadas sus atribuciones en un sólo cuerpo policial. La referida disposición recaerá en el Cabildo.
+
+3. Asimismo, se podrán crear instancias policiales de carácter regional.
+
+### CAPITULO III. DE LA POLICIA ESTATAL PREVENTIVA
+
+###### ARTICULO 22.
+
+A la Policía Estatal Preventiva, le corresponde:
+
+I. Garantizar, mantener y, en su caso, restablecer el orden y la paz públicos; proteger la integridad de las personas, sus derechos, bienes y libertades, así como prevenir la comisión de delitos, en:
+
+a) Carreteras, caminos estatales y medios de transporte que operen en dichas vías de comunicación, así como sus servicios auxiliares;
+
+b) Parques y espacios urbanos considerados como zonas estatales, así como los inmuebles, instalaciones y servicios dependientes del Estado; y
+
+c) Todos aquellos espacios, zonas o lugares del territorio estatal sujetos a la jurisdicción asignada, conforme a lo establecido por las leyes respectivas;
+
+II. Cumplir con los programas y acciones que en materia de prevención de delitos establezca la Secretaría de Seguridad Pública;
+
+III. Conocer, sistematizar, analizar e indagar los elementos criminógenos y las zonas de incidencia delictiva, a fin de evitar las conductas antisociales o aprehender en flagrancia;
+
+IV. Vigilar y patrullar lugares estratégicos para la seguridad pública de la Entidad;
+
+V. Obtener, analizar y procesar información, así como instrumentar métodos para la prevención de delitos, directamente o en coordinación con otras autoridades o instituciones policiales de seguridad pública;
+
+VI. Participar en auxilio de las autoridades competentes en la prevención y persecución de delitos, en la detención de personas o en el aseguramiento de bienes que sean objeto de un delito, en los casos en que sea formalmente requerida;
+
+VII. Participar en operativos conjuntos con otras instituciones policiales federales, estatales o municipales, que se determinen en el seno del Consejo Estatal de Seguridad Pública, o a solicitud formal del titular de cualquier institución de seguridad pública que lo requiera;
+
+VIII. Practicar detenciones o aseguramientos en casos de flagrancia o cuasi-flagrancia, poniendo a las personas detenidas y los bienes que se hayan asegurado o que estén bajo su custodia, a disposición de las autoridades competentes en los términos y plazos constitucionales y legales establecidos;
+
+IX. Brindar protección a las personas que acudan a eventos masivos no lucrativos, cuando así lo requiera el interés público;
+
+X. Colaborar, a solicitud de las autoridades competentes, en los servicios de protección civil;
+
+XI. Apoyar a las autoridades encargadas de la ejecución de sanciones del Estado, en la ejecución de operativos de revisión, mantenimiento del orden, excarcelaciones o traslado de internos a solicitud de los Centros de Ejecución de sanciones;
+
+XII. Llevar a cabo el control del armamento y municiones asignadas, así como llevar el registro de los resguardos correspondientes;
+
+XIII. Integrar y atender el parte de novedades diario que rinden los elementos integrantes de la institución, por conducto de su titular;
+
+XIV. Sistematizar y, en su caso procesar para su propuesta al Director General de Operación Policial de las medidas de prevención, combate y disminución de conductas antisociales a realizar, por conducto de su titular;
+
+XV. Disponer las previsiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
+
+XVI. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley;
+
+XVII. Dar vista al Consejo de Honor y Justicia sobre las faltas en que incurran los integrantes de su institución policial, a los principios de actuación previstos en esta ley, así como del Reglamento de las Instituciones Policiales Preventivas del Estado. Asimismo, establecerá las medidas de control para garantizar el cumplimiento y desempeño de las funciones asignadas al personal operativo de esta Dirección;
+
+XVIII. Promover la capacitación de los elementos que integran su institución policial; y
+
+XIX. Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+
+### CAPITULO IV. DE LA POLICIA RURAL DEL ESTADO
+
+###### ARTICULO 23.
+
+A la Policía Rural del Estado, le corresponde:
+
+I. Cumplir con los programas de trabajo y acciones que al respecto se establezcan por la Secretaría de Seguridad Pública;
+
+II. Realizar patrullajes y labores de vigilancia preventiva en las áreas rurales del Estado y en las ciudades, cuando así se le requiera, a fin de que se dé cumplimiento a las leyes de observancia general, las leyes sobre medio ambiente y desarrollo sustentable para el Estado y los reglamentos forestales y agropecuarios;
+
+III. Prevenir la comisión de las faltas administrativas a los Bandos de Policía y Buen Gobierno, conductas antisociales, delitos y cualquier acto que se pretenda cometer en detrimento de la propiedad agrícola y ganadera, del medio ambiente o de los recursos naturales;
+
+IV. Auxiliar a las autoridades, cuando se le requiera legalmente, en la investigación de hechos denunciados por cualquier particular en materia agrícola, ganadera o ambiental, que pudieran tipificar algún delito relacionado con esas actividades o el medio ambiente;
+
+V. Instrumentar campañas y operativos especiales en el área rural para prevenir y combatir el robo de semovientes; el expendio ilícito de bebidas alcohólicas; y la transportación, portación y el uso ilícito de armas de fuego y explosivos;
+
+VI. Practicar detenciones o aseguramientos en casos de flagrancia, poniendo a disposición de las autoridades competentes a las personas detenidas o los bienes que se hayan asegurado o que estén bajo custodia, en los términos legales establecidos;
+
+VII. Colaborar, a solicitud de las autoridades competentes, en los servicios de protección civil;
+
+VIII. Brindar protección a las personas que acudan a eventos masivos no lucrativos, o cuando así lo requiera el interés público;
+
+IX. Vigilar la observancia de las disposiciones legales sobre medio ambiente y desarrollo sustentable del Estado, y prevenir y combatir las actuaciones que afecten los recursos naturales en la entidad, en especial la tala ilegal, la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello;
+
+X. Implementar acciones de inspección, vigilancia y supervisión en áreas naturales protegidas, en coordinación de la autoridad estatal competente y con base en los convenios que al efecto se celebren, en parques estatales, zonas lacustres o cuerpos de agua en el Estado;
+
+XI. Informar al Secretario y Director General de Operación Policial de las acciones implementadas para llevar a cabo los partes informativos y las estadísticas del delito, por conducto de su Director;
+
+XII. Participar en operativos en forma coordinada con otras instituciones policiales federales, estatales o municipales, cuando así lo ordene la Dirección General de Operación Policial;
+
+XIII. Coadyuvar con las diversas autoridades federales, estatales o municipales, para el debido cumplimiento de las leyes de observancia general y sus reglamentos, cuando así lo determine el Director General de Operación Policial;
+
+XIV. Dar vista al Consejo de Honor y Justicia sobre las faltas en que incurran los integrantes de su Institución, a los principios de actuación previstos en esta ley, así como del Reglamento de las Instituciones Policiales Preventivas del Estado;
+
+XV. Participar en reuniones de coordinación con las instituciones de los tres niveles de Gobierno, asociaciones agrícolas y ganaderas en materia de seguridad en el medio rural;
+
+XVI. Participar en las labores de ayuda en tratándose de desastres naturales, actuando en coordinación con las autoridades de los tres niveles de Gobierno, cuando así se requiera;
+
+XVII. Sistematizar y, en su caso, procesar para su propuesta al Director General de Operación Policial las medidas de prevención, combate y disminución de conductas antisociales a realizar;
+
+XVIII. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes; y
+
+XIX. Las demás que le señalen las disposiciones legales y reglamentarias aplicables o le instruyan sus superiores jerárquicos.
+
+### CAPITULO V. DE LA POLICIA DE SEGURIDAD INTEGRAL
+
+###### ARTICULO 24.
+
+1. La Policía de Seguridad Integral del Estado tiene a su cargo la prestación de los servicios de seguridad, custodia, traslado de valores, protección y vigilancia, a personas físicas o morales, públicas o privadas, que lo soliciten, en las modalidades siguientes:
+
+I. Bancaria;
+
+II. Industrial;
+
+III. Comercial;
+
+IV. Habitacional;
+
+V. Institucional;
+
+VI. Personal; y
+
+VII. Las que determinen otros ordenamientos legales.
+
+2. A la Policía de Seguridad Integral, le corresponde:
+
+I. Integrar los expedientes de las personas físicas o morales que soliciten autorización para prestar servicios privados de seguridad, y proponerlos para su autorización al Secretario cuando cumplan con los requisitos establecidos en esta ley, así como en la Ley de la materia;
+
+II. Vigilar y sancionar a las personas físicas o morales que hayan sido autorizadas para prestar servicios de seguridad privada, cuando no cumplan con lo señalado en esta ley, así como en la ley de la materia;
+
+III. Organizar el funcionamiento administrativo y operativo de las Delegaciones de Seguridad Integral abiertas en el Estado, vigilando que se cumplan las normas, reglas y disposiciones establecidas;
+
+IV. Llevar a cabo el control del armamento y municiones asignadas, así como llevar el registro de los resguardos correspondientes en dicha institución;
+
+V. Proponer al Director General de Operación Policial las medidas de prevención, combate y disminución de conductas antisociales a realizar, por conducto de su titular;
+
+VI. Disponer las provisiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
+
+VII. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley;
+
+VIII. Dar vista al Consejo de Honor y Justicia sobre las faltas en que incurran los integrantes de su institución, a los principios de actuación previstos en la Ley de Seguridad Pública para el Estado de Tamaulipas, así como al Reglamento de las Instituciones Policiales Preventivas del Estado;
+
+IX. Promover la capacitación de los elementos que integran su institución;
+
+X. Regular la prestación de los servicios de seguridad, custodia, traslado de valores, protección y vigilancia, a personas físicas o morales, públicas o privadas, conforme lo establece la ley de la materia; y
+
+XI. Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+
+###### ARTICULO 25.
+
+1. La prestación de los servicios señalados en el artículo anterior, se efectuarán mediante contratación por escrito; en el contrato se establecerá el tipo, tiempo, costo y condiciones del servicio.
+
+2. El personal operativo de la Policía de Seguridad Integral auxiliará a las demás instituciones policiales, estatales y municipales, cuando así se requiera, previa autorización del Secretario de Seguridad Pública o del Director de Operación Policial.
+
+### CAPITULO VI. DE LA POLICIA ESPECIAL DE TAMAULIPAS
+
+###### ARTICULO 26.
+
+A la Policía Especial de Tamaulipas corresponde:
+
+I. Garantizar, mantener y, en su caso, restablecer el orden y la paz públicos en el territorio estatal, previa elaboración y desarrollo de las acciones y operativos que se requieran para dichos efectos;
+
+II. Proteger la integridad de las personas, sus derechos, bienes y libertades, así como prevenir la comisión de delitos que establecen las leyes estatales;
+
+III. Diseñar, definir y ejecutar los programas, estrategias y acciones en materia de prevención del delito, de capacitación y adiestramiento y de ayuda en caso de siniestros;
+
+IV. Obtener, analizar y sistematizar los elementos criminógenos y las zonas de su incidencia, a fin de evitar y prevenir la comisión de conductas antisociales, mediante el uso de estrategias diseñadas al efecto;
+
+V. Participar en auxilio de cualquier autoridad que se los requiera formalmente, tratándose de tareas propias de prevención del delito y la salvaguarda de la integradas (sic) física, los bienes y los derechos de las personas;
+
+VI. Realizar detenciones en casos de flagrancia, debiendo poner inmediatamente al o los detenidos ante las autoridades competentes;
+
+VII. Colaborar con las autoridades municipales que lo soliciten, siempre que exista un disturbio o peligro inminente que amenace con trastornar (sic) la integridad, seguridad y paz sociales;
+
+VIII. Actuar con inmediatez y celeridad que se requiera en casos graves que alteren el orden público, y cuando así lo disponga el Secretario o el Director General de Operación Policial, debiendo trasladarse sin demora al sitio que se le instruya; y
+
+IX. Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+
+### CAPITULO VII
+
+DE LOS ELEMENTOS DE SEGURIDAD Y CUSTODIA DE LOS CENTROS DE EJECUCION DE SANCIONES DEL ESTADO Y DE LOS CENTROS DE REINTEGRACION SOCIAL Y FAMILIAR PARA ADOLESCENTES
+
+###### ARTICULO 27.
+
+1. Los elementos de seguridad y custodia de los Centros de Ejecución de Sanciones del Estado tendrán las siguientes atribuciones:
+
+I. Garantizar que la seguridad y el orden dentro de los Centros de Ejecución de Sanciones, se logren sin menoscabo de los derechos humanos de los internos;
+
+II. Vigilar a los internos con objeto de advertir su conducta para ayudar a preservar la paz y el orden dentro del establecimiento, garantizándose en todo momento el respeto a la privacidad de los internos;
+
+III. Realizar el conteo de los internos mediante pase de lista, por lo menos dos veces al día;
+
+IV. Vigilar el cumplimiento del sistema de identificación para distinguir a los internos de las diferentes secciones, a los miembros del personal y a los visitantes;
+
+V. Ejecutar el sistema de registro periódico de celdas, en estricto apego al respeto de la privacidad;
+
+VI. Sin excepción, llevar a cabo revisiones a las personas y vehículos que entren y salgan de los Centros de Ejecución de Sanciones, con pleno respeto a su dignidad y sus derechos humanos;
+
+VII. Cumplir con los horarios y lugares de custodia establecidos, con el objeto de preservar el orden y la paz dentro de los Centros de Ejecución de Sanciones;
+
+VIII. Practicar detenciones o aseguramientos en caso de flagrancia, poniendo a las personas detenidas o los bienes que hayan asegurado o que estén bajo su custodia, a disposición de las autoridades competentes, en los términos y plazos constitucionales establecidos;
+
+IX. Llevar a cabo la ejecución de operativos de revisión y mantenimiento del orden en los Centros de Ejecución de Sanciones del Estado, en coordinación con las autoridades competentes; y
+
+X. Las demás que les señalen las disposiciones legales y reglamentarias aplicables o le instruyan sus superiores jerárquicos.
+
+2. El personal de seguridad y custodia adscrito a los Centros de Reintegración Social y Familiar para Adolescentes se regirá por la Ley de Justicia para Adolescentes del Estado.
+
+### CAPITULO VIII. DISPOSICIONES COMUNES PARA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
+
+###### ARTICULO 28.
+
+Son atribuciones comunes de los titulares de las instituciones preventivas estatales y municipales de seguridad pública:
+
+I. Formular y ejecutar el programa de trabajo de la institución a su cargo e informar periódicamente sobre sus resultados al Secretario de Seguridad Pública y al Director General de Operación Policial;
+
+II. Ejecutar las acciones y operativos específicos que le instruya su inmediato superior jerárquico;
+
+III. Registrar y consultar permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la información a que se refiere el Capítulo III del Título Quinto de esta ley, según corresponda, absteniéndose de autorizar el ingreso de quien tuviera antecedentes negativos o inconvenientes;
+
+IV. Integrar a sus elementos al servicio policial de carrera;
+
+V. Recoger las armas, credenciales, equipo, uniformes, divisas e insignias asignadas para el desempeño de su cargo, al personal que cause baja o haya sido suspendido del servicio;
+
+VI. Informar sin demora al titular de la licencia oficial colectiva, las incidencias generadas con motivo del uso del armamento y equipo asignado, independientemente de la información que les sea requerida por el titular de dicha licencia;
+
+VII. Exigir que el personal de la institución a su mando use los uniformes e insignias con las características y especificaciones aprobadas y prohibir el uso de grados, uniformes e insignias reservadas al Ejército, Armada, Fuerza Aérea y otras autoridades;
+
+VIII. Entregar a su relevo, al concluir el período de su servicio, un informe exhaustivo del estado en que se encuentre el servicio de seguridad, tanto administrativa como operativamente; asimismo, deberá entregar los documentos y anexos que hubiere, citando los mecanismos implementados, el estado en que se hallen y la proyección que continuare. El nuevo titular los podrá modificar siempre y cuando previamente lo motive y justifique ante su superior jerárquico y éste se lo autorice;
+
+IX. Establecer mecanismos de comunicación de respuesta inmediata a la ciudadanía, para la atención de emergencias, quejas y sugerencias;
+
+X. Vigilar que los elementos en activo de sus respectivas instituciones que se dediquen a prestar servicios privados de protección o vigilancia;
+
+XI. Instrumentar la aplicación periódica de exámenes de laboratorio para detectar el consumo ilícito de estupefacientes u otras drogas en el personal bajo su mando;
+
+XII. Imponer las sanciones y medidas disciplinarias que procedan al personal que incurra en faltas;
+
+XIII. Dar vista al Consejo de Honor y Justicia de las irregularidades en que haya incurrido algún integrante de la institución policial a su cargo, a efecto de que se le instaure el procedimiento que corresponda;
+
+XIV. Proponer al Secretario de Seguridad Pública, en su caso, los estímulos y reconocimientos a los integrantes de las instituciones policiales a su mando que se destaquen en el cumplimiento de sus atribuciones; y
+
+XV. Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
+
+###### ARTICULO 29.
+
+Son obligaciones comunes de las policías preventivas municipales:
+
+I. Mantener el orden público y la tranquilidad social en su jurisdicción, aplicando adecuadamente sus conocimientos y estrategias, y utilizando apropiadamente el equipo con que se cuente; realizando además, rondines y patrullajes a baja velocidad y prestando total atención a su entorno;
+
+II. Prevenir la comisión de faltas administrativas, conductas antisociales o delitos; proteger a las personas, sus bienes, libertades y derechos, además de mostrar el respeto y la consideración debidas a la población;
+
+III. Prestar auxilio a la población en caso de siniestros, accidentes o desastres naturales, en coordinación con las instancias de protección civil;
+
+IV. Participar en los cursos de promoción, actualización y especialización que instrumente la Academia de Policía Regional que corresponda;
+
+V. Supervisar la observancia y cumplimiento de los bandos, reglamentos y demás disposiciones en materia de seguridad pública;
+
+VI. Ejecutar los programas y acciones diseñados para garantizar la seguridad pública y la prevención de faltas administrativas, conductas antisociales y delitos;
+
+VII. Vigilar las áreas municipales de uso común, espectáculos públicos y similares;
+
+VIII. Someter periódicamente, a sus integrantes, a exámenes de laboratorio para la detección del consumo ilícito de estupefacientes u otras drogas; y
+
+IX. Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
+
+###### ARTICULO 30.
+
+Los titulares de las instituciones estatales y municipales de seguridad pública presentarán un informe trimestral o con la periodicidad que se requiera, ante sus instancias superiores y dispondrán su registro en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la información relativa a la evaluación de la actuación de las instituciones de seguridad pública a su cargo, que por lo menos comprenderá:
+
+I. La capacidad de respuesta a los llamados para la intervención de los cuerpos de seguridad pública actuantes en su territorio, referente a:
+
+a) Tiempos de reacción ante las peticiones de ayuda;
+
+b) Tiempos de resolución de las peticiones de auxilio;
+
+c) Tiempos de ejecución de órdenes y mandamientos derivados de las normas de justicia cívica sobre faltas a los bandos de policía y buen gobierno;
+
+d) Tiempos de reacción y resolución de las peticiones de apoyo de autoridades;
+
+II. La relación de asuntos atendidos;
+
+III. La frecuencia de patrullaje del territorio;
+
+IV. El cómputo de horas de patrullaje en el territorio;
+
+V. La estadística de comisión y de disminución real de delitos y faltas administrativas, conservándolas y adicionándole información permanentemente;
+
+VI. Las áreas de incidencia delincuencial, con referencia de días, horas y lugares en que ocurran ilícitos o faltas administrativas;
+
+VII. Las estadísticas en las que se refiera la edad de los infractores, el sexo, la condición social y económica, la ocupación, asentándose inclusive, los datos que refieran reincidencia;
+
+VIII. La estadística referente a menores de edad, cuidando dicha información se integre y lleve en forma separada y que su manejo se haga con la discreción debida;
+
+IX. La referencia de personas consignadas a otra autoridad, sus motivos y circunstancias; y
+
+X. En general, todo aquel dato que favorezca el fortalecimiento de las labores de prevención y de seguridad de la comunidad.
+
+###### ARTICULO 31.
+
+Para ingresar a las instituciones de seguridad pública estatales y municipales, se requiere:
+
+I. Ser ciudadano mexicano por nacimiento, no tener otra nacionalidad y estar en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Ser de notoria buena conducta y no haber sido condenado mediante sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+
+III. Haber cumplido con el servicio militar nacional y contar con credencial de elector;
+
+IV. Acreditar haber concluido los estudios correspondientes a la enseñanza media superior o equivalente;
+
+V. Aprobar el curso de ingreso y los cursos de formación básica o inicial impartidos por la Academia de Policía del Estado o por las academias regionales, según corresponda;
+
+VI. Cumplir con los requisitos de edad, perfil físico y evaluaciones médicas, de personalidad y de cultura general, previstos en el Reglamento de la Academia de Policía del Estado;
+
+VII. Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; no padecer alcoholismo, y someterse a los exámenes periódicos que al efecto se establezcan para comprobar el no uso de este tipo de sustancias;
+
+VIII. No estar suspendido o inhabilitado como servidor público, ni haber sido destituido del cargo por resolución firme;
+
+IX. No tener antecedentes negativos en los Registros de Personal de Seguridad Pública Nacional y Estatal, que integran el subsistema de información de seguridad pública; y
+
+X. Los demás que señalen las disposiciones legales y reglamentarias aplicables.
+
+###### ARTICULO 32.
+
+1. La conducta de los miembros de dependencias e instituciones de seguridad pública estatales y municipales, se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez, y por lo dispuesto en el Código de Etica Policial.
+
+2. En sus programas las dependencias establecerán los instrumentos de formación policial que fomenten estos principios y velarán por su estricto cumplimiento.
+
+###### ARTICULO 33.
+
+Las relaciones laborales entre el Estado o los Municipios, con los integrantes de las instituciones de seguridad pública, se normarán por lo estipulado en las disposiciones legales aplicables, según corresponda.
+
+## TITULO CUARTO. DE LA CAPACITACION Y PROFESIONALlZACION
+
+### CAPITULO I. DE LA ACADEMIA DE POLICIA DEL ESTADO
+
+###### ARTICULO 34.
+
+1. La Academia de Policía del Estado es la institución dependiente de la Secretaría de Seguridad Pública, encargada de diseñar y ejecutar los planes y programas para la formación de los aspirantes e integrantes de las instituciones policiales del Estado, los cuales se fundamentarán en los principios de legalidad, eficiencia, profesionalismo y honradez que rigen la presente ley.
+
+2. Su organización y funcionamiento se regirá por esta ley y su reglamento.
+
+###### ARTICULO 35.
+
+A fin de lograr los objetivos de los programas de formación básica, actualización, especialización y profesionalización que imparta la Academia de Policía del Estado, ésta promoverá la suscripción de convenios con los Ayuntamientos de la Entidad para establecer Academias Regionales, con el propósito de que el personal de las instituciones de seguridad pública municipales se beneficien con dichos programas.
+
+###### ARTICULO 36.
+
+El Consejo Técnico es el órgano rector de la Academia, el cual será presidido por el Secretario de Seguridad Pública o la persona que éste designe; el Director de la Academia, fungirá como secretario; y además, lo integrarán tres vocales representantes del personal docente y uno del personal administrativo. Los acuerdos que emita serán aprobados por mayoría, teniendo voto de calidad su presidente, en caso de empate.
+
+###### ARTICULO 37.
+
+Son atribuciones del Consejo Técnico de la Academia, las siguientes:
+
+I. Aprobar los programas de enseñanza;
+
+II. Examinar y aprobar los estudios y proyectos sobre actividades que correspondan a la ejecución de los fines de la institución;
+
+III. Elaborar propuestas para el Reglamento Interno de la Academia;
+
+IV. Conocer en forma periódica los informes de labores que rinda el Director;
+
+V. Fijar políticas generales para el funcionamiento, operación de recursos y organización de la Academia; y
+
+VI. Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
+
+###### ARTICULO 38.
+
+El Director de la Academia de Policía del Estado tendrá las atribuciones siguientes:
+
+I. Diseñar y proponer al Consejo Técnico los programas de capacitación, actualización y especialización así como la certificación de los elementos activos y de los aspirantes a ingresar a las diferentes instituciones;
+
+II. Impulsar la profesionalización, ejecutando los programas de ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, promoción, permanencia, evaluación y retiro del personal operativo de las instituciones de Seguridad Pública del estado y de los municipios, conforme al servicio policial de carrera;
+
+III. Autorizar, supervisar y certificar los cursos impartidos dentro o fuera de las instalaciones de la Academia por instructores internos o externos;
+
+IV. Supervisar y aprobar los programas de adiestramiento o especialización, verificando que se cumplan adecuadamente con los programas de estudios que establece el Sistema Nacional de Seguridad a través de la Academia Nacional y el Consejo Académico Consultivo Regional del Noreste;
+
+V. Tramitar las constancias o diplomas de los cursos de formación, capacitación, actualización, especialización, profesionalización y demás que señalen las leyes y reglamentos de la materia; impartidos en o por esta Academia, ante el Consejo Estatal de Seguridad Pública;
+
+VI. Coordinar y presentar ante el Consejo Técnico Consultivo las propuestas de planes y programas para formación de los aspirantes a integrantes de las instituciones policiales en el estado y municipios;
+
+VII. Realizar, supervisar, evaluar y dar seguimiento a los procedimientos de selección, ingreso, permanencia y egreso de los aspirantes a integrar los cuerpos de Seguridad Pública del Estado;
+
+VIII. Establecer vínculos de coordinación con instituciones gubernamentales, privadas, nacionales y extranjeras de profesionalización de servidores públicos encargados de la Seguridad Pública;
+
+IX. Promover convenios con instituciones de educación pública y estudios superiores en el país y en el extranjero a fin de integrar a los programas de capacitación y entrenamiento los conocimientos y técnicas de vanguardia de la materia;
+
+X. Realizar las actividades de reclutamiento y selección del personal docente y de los aspirantes a ingresar a las instituciones policiales;
+
+XI. Elaborar y enviar para la investigación pertinente la relación de aspirantes al Consejo Estatal de Seguridad Pública para su revisión en la base de datos del Sistema Nacional de Información sobre Seguridad Pública;
+
+XII. Coordinar las revistas de armamento y municiones que realice la Secretaría de la Defensa Nacional, conforme a la Ley Federal de Armas de Fuego y Explosivos;
+
+XIII. Vigilar el buen uso de las municiones y mantener en óptimas condiciones el equipo y armamento asignado para las prácticas de tiro;
+
+XIV. Vigilar que se cumpla estrictamente con las disposiciones y reglamentos establecidos, supervisando el desempeño del personal administrativo, académico y del alumnado;
+
+XV. Aplicar por sí o a través de los integrantes del personal docente y administrativo, las sanciones y correctivos disciplinarios a los alumnos así como las amonestaciones al personal administrativo, en apoyo a las disposiciones jurídicas vigentes;
+
+XVI. Ejercer los recursos presupuestales para la realización de cursos básicos y de actualización;
+
+XVII. Coordinar la entrega de la información de altas y bajas de los aspirantes y alumnos en los diferentes cursos ante el Consejo Estatal de Seguridad Pública;
+
+XVIII. Proponer al Secretario los proyectos de capacitación anual;
+
+XIX. Proveer de alimentos a los alumnos que se encuentren en capacitación vigilando que su elaboración sea hecha cumpliendo las reglas de salud e higiene;
+
+XX. Coordinar con la Dirección Jurídica de la Secretaría de Seguridad Pública la revisión de los expedientes con documentación oficial, para su validación y evitar documentación apócrifa, así como para la tramitación y seguimiento de demandas en las distintas áreas del Derecho que relacionen a la Academia de Policía del Estado;
+
+XXI. Vigilar que el personal a su cargo cumpla con el Reglamento Interno de la Academia de Policía del Estado;
+
+XXII. Ejercer y gestionar el presupuesto anual asignado a la Academia de Policía por el Consejo Estatal de Seguridad Pública y la correcta aplicación del mismo;
+
+XXIII. Elaborar, actualizar, coordinar y ejecutar el plan de contingencia en situaciones de emergencia en coordinación con la Dirección de Protección Civil del Estado;
+
+XXIV. Gestionar ante el Consejo Estatal de Seguridad Pública el registro de la Clave Unica de Identificación Policial e informar a este de los movimientos de altas y bajas de personal de nuevo ingreso y en activo;
+
+XXV. Llevar un registro de los expedientes del alumnado y de los egresados así como actualizar la base de datos de cursos, alumnos, egresados y personal docente;
+
+XXVI. Coordinar las actividades de acopio y actualización del acervo bibliográfico;
+
+XXVII. Organizar conferencias, seminarios y congresos, para el estudio de las ciencias penales y técnicas de prevención e investigación de delitos;
+
+XXVIII. Someter a la consideración del Secretario el trámite ante las autoridades educativas competentes del registro de estudios policiales para obtener el reconocimiento y la validez oficial correspondientes;
+
+XXIX. Informar a los cuerpos de Seguridad Pública estatales y municipales de los cursos que se impartan, a fin de que adquieran los conocimientos teóricos y prácticos que permitan su constante actualización;
+
+XXX. Las demás que señalen los ordenamientos jurídicos aplicables.
+
+### CAPITULO II. DEL SERVICIO POLICIAL DE CARRERA
+
+###### ARTICULO 39.
+
+1. El Estado y los Municipios, con base en sus posibilidades presupuesta les, establecerán el Servicio Policial de Carrera, con carácter obligatorio y permanente, para asegurar la profesionalización de sus elementos.
+
+2. La estructura, funciones y procedimientos del Servicio Policial de Carrera, se sujetarán a lo previsto en el Reglamento respectivo.
+
+###### ARTICULO 40.
+
+1. El Servicio Policial de Carrera es el sistema organizado para el ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, promoción, permanencia, evaluación, sanción y retiro del personal operativo de las instituciones de Seguridad Pública del Estado y de los Municipios.
+
+2. La profesionalización de los cuerpos de seguridad pública, tendrá por objeto lograr una mejor y más eficaz prestación del servicio, el desarrollo integral de sus elementos, y su capacidad de respuesta a los requerimientos de la sociedad.
+
+3. La formación policial tendrá como finalidad alcanzar el desarrollo profesional, técnico, científico, físico, humanístico y cultural de los elementos de seguridad pública.
+
+###### ARTICULO 41.
+
+Se considerará policía de carrera al elemento que haya aprobado el curso básico de formación establecido en el plan de estudios de la Academia de Policía del Estado, tratándose de las instituciones de seguridad pública estatales y municipales; y que acredite tres años de permanencia, por lo menos, en el servicio de la institución respectiva.
+
+###### ARTICULO 42.
+
+1. El otorgamiento de los grados en la escala jerárquica para los cuerpos de seguridad pública del Estado y los Municipios, se sujetará a las condiciones y procedimientos que señale el Reglamento respectivo.
+
+2. No podrá concederse un grado a integrante alguno de las instituciones de seguridad pública, si no se ha ostentado el inmediato inferior y cumplir además los requisitos de capacidad, eficacia y antigüedad que exija el Reglamento respectivo.
+
+### CAPITULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
+
+###### ARTICULO 43.
+
+1. El Consejo de Honor y Justicia de las instituciones de seguridad pública, es la autoridad colegiada que tiene como fin velar por la honorabilidad y buena reputación de los integrantes de las instituciones de seguridad pública y combatirá con energía las conductas lesivas para la comunidad o para la propia institución. En consecuencia, gozará de las más amplias facultades para examinar los expedientes u hojas de servicio de los agentes, así como para practicar las diligencias que le permitan allegarse los elementos necesarios para dictar sus resoluciones.
+
+2. El Estado y los Ayuntamientos deberán establecer el Consejo de Honor y Justicia de las instituciones de seguridad pública y asegurarse de su funcionamiento permanente.
+
+###### ARTICULO 44.
+
+El Consejo de Honor y Justicia tendrá las siguientes atribuciones:
+
+I. Conocer y resolver sobre las faltas en que incurran los elementos de las instituciones de seguridad pública, a los principios de actuación previstos en la presente ley, así como a las normas disciplinarias de las instituciones de seguridad pública;
+
+II. Aplicar correctivos disciplinarios a los oficiales superiores por faltas cometidas en el ejercicio de mando;
+
+III. Presentar las denuncias de hechos realizados por elementos en activo de las instituciones preventivas de seguridad pública que puedan constituir delito, ante la autoridad competente;
+
+IV. Conocer y resolver los recursos y valorar las pruebas que presenten los integrantes de las instituciones de seguridad pública vinculados al procedimiento;
+
+V. Otorgar condecoraciones, estímulos y recompensas, conforme a los reglamentos respectivos;
+
+VI. Analizar y supervisar que en las promociones de los elementos de las instituciones de seguridad pública se considere su desempeño, honorabilidad y buena reputación; y
+
+VII. Las demás que le asigne esta ley y demás disposiciones relativas.
+
+###### ARTICULO 45.
+
+1. El Consejo de Honor y Justicia de las instituciones de seguridad pública del Estado estará integrado por:
+
+I. Un Presidente, que será el Secretario de Seguridad Pública;
+
+II. Un Secretario, que será el Director Jurídico de la Secretaría de Seguridad Pública;
+
+III. Un Vocal, que será un representante de la Contraloría Gubernamental; y
+
+IV. Un Vocal en representación de las instituciones de seguridad pública.
+
+2. En sesión ordinaria los titulares del Consejo podrán nombrar un suplente.
+
+3. El Consejo de Honor y Justicia de las instituciones de seguridad pública de los Municipios estará integrado por:
+
+I. Un Presidente, que será el Secretario del Ayuntamiento;
+
+II. Un Secretario, que será el Director Jurídico de la Secretaría del Ayuntamiento o titular jurídico municipal, según se denomine el cargo;
+
+III. Un Vocal, que será un representante de la Contraloría Municipal; y
+
+IV. Un Vocal por cada una de las instituciones de seguridad pública que intervengan.
+
+4. Por cada uno de los cargos referidos en el párrafo anterior se elegirá un suplente.
+
+5. El funcionamiento del Consejo de Honor y Justicia será conforme a lo que establezca su propio reglamento.
+
+###### ARTICULO 46.
+
+1. Por los actos y desempeño meritorio de los servidores públicos sujetos a esta ley, el Consejo podrá proponer:
+
+I. Mención especial o constancia de buen desempeño;
+
+II. Diploma por servicio destacado;
+
+III. Estímulos y reconocimientos;
+
+IV. Condecoraciones al valor policial, a la perseverancia o al mérito; y
+
+V. Cambio de adscripción, en tanto beneficie al interesado.
+
+2. Por las irregularidades en que incurran los servidores públicos sujetos a esta ley, el Consejo, previa integración del expediente, podrá imponer, según corresponda:
+
+I. Suspensión del integrante de alguna institución policial; o
+
+II. Destitución del integrante de alguna institución policial.
+
+## TITULO QUINTO. DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
+
+### CAPITULO I. DE LA COORDINACION ENTRE AUTORIDADES FEDERALES, ESTATALES Y MUNICIPALES
+
+###### ARTICULO 47.
+
+El Sistema Estatal de Seguridad Pública se integra con las instancias, programas, instrumentos, políticas, servicios y acciones previstos en esta ley, tendentes a alcanzar los fines y objetivos de la seguridad pública.
+
+###### ARTICULO 48.
+
+1. Las autoridades de seguridad pública del Estado se coordinarán con la Federación y los Municipios para integrar el Sistema Estatal de Seguridad Pública, y determinar las políticas y acciones que realizarán para el mejoramiento del mismo.
+
+2. Al efecto, desarrollarán por sí o conjuntamente, lineamientos, mecanismos e instrumentos para la mejor organización y funcionamiento de las dependencias e instituciones policiales.
+
+3. Igualmente, integrarán los mecanismos de información del Sistema Estatal y los datos que deban incorporarse al mismo, manteniéndolos debidamente actualizados.
+
+###### ARTICULO 49.
+
+Para lograr los fines y objetivos de la seguridad pública, el Sistema estará enfocado a combatir las causas que generan la comisión de faltas administrativas, conductas antisociales y delitos; fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad; fortalecer y mejorar las actividades de las instituciones policiales, del ministerio público, de los responsables de la prisión preventiva, de los encargados de la ejecución de medidas para adolescentes infractores y de sanciones, juvenil y para adultos, así como para el tratamiento de los sujetos al régimen de justicia para adolescentes infractores y de los responsables de protección civil.
+
+### CAPITULO II. DE LAS INSTANCIAS DE COORDINACION
+
+#### Sección Primera. DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
+
+###### ARTICULO 50.
+
+1. El Consejo Estatal de Seguridad Pública será la instancia superior de coordinación, planeación y supervisión del Sistema Estatal de Seguridad Pública y estará integrado por:
+
+I. El Gobernador Constitucional del Estado, quien lo presidirá;
+
+II. El Presidente del Supremo Tribunal de Justicia;
+
+III. El Presidente de la Comisión de Seguridad Pública del Congreso del Estado;
+
+IV. El Secretario de Seguridad Pública del Estado;
+
+V. El Secretario General de Gobierno;
+
+VI. El Procurador General de Justicia del Estado;
+
+VII. El Director General de Ejecución de Sanciones;
+
+VIII. El Director de Reintegración Social y Familiar de Adolescentes;
+
+IX. Los Presidentes Municipales;
+
+X. Los representantes en el Estado de las siguientes dependencias federales:
+
+a) Secretaría de Gobernación;
+
+b) Secretaría de la Defensa Nacional;
+
+c) Secretaría de Marina;
+
+d) Secretaría de Seguridad Pública; y (sic)
+
+e) Procuraduría General de la República;
+
+XI. Un Secretario Ejecutivo; y
+
+XII. Los demás que el pleno del Consejo Estatal decida invitar a participar, y que por sus funciones estén vinculados con los fines de la seguridad pública.
+
+2. Por cada miembro propietario se designará un suplente.
+
+###### ARTICULO 51.
+
+Corresponderán al Consejo Estatal de Seguridad Pública, entre otras, las siguientes atribuciones:
+
+I. Expedir reglas para la organización y funcionamiento del Sistema Estatal de Seguridad Pública;
+
+II. Contribuir a la elaboración del Programa Estatal de Seguridad Pública mediante la aprobación de criterios, lineamientos y políticas;
+
+III. Establecer convenios para vincular los Sistemas Nacional y Estatal de Seguridad Pública, así como establecer nexos con los sistemas de Seguridad Pública de otros Estados;
+
+IV. Propiciar la realización de programas y acciones conjuntas entre las autoridades de seguridad pública de los tres órdenes de gobierno;
+
+V. Formular propuestas al Consejo Nacional de Seguridad Pública, y participar en el Programa Nacional de Seguridad Pública y en la celebración de acuerdos y convenios de coordinación para su ejecución;
+
+VI. Proponer acciones para la prevención del delito y generar acciones que propicien la cultura de la legalidad;
+
+VII. Supervisar la operación del Subsistema Estatal de Información sobre Seguridad Pública;
+
+VIII. Proponer y, en su caso, acordar la creación de instancias y consejos regionales o intermunicipales de coordinación;
+
+IX. Supervisar el Servicio Policial de Carrera de las instituciones estatales;
+
+X. Promover la integración de los Comités de Consulta y Participación de la Comunidad, dándoles el impulso necesario y el debido seguimiento de sus acciones;
+
+XI. Impulsar y alentar una cultura preventiva de seguridad pública, promoviendo de manera efectiva y coordinada la participación de otras instancias de gobierno y de la sociedad civil;
+
+XII. Elaborar anteproyectos de reformas y adiciones a las leyes y reglamentos en materia de seguridad pública; y
+
+XIII. Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
+
+###### ARTICULO 52.
+
+La participación de las autoridades federales, estatales y municipales en el Sistema y en el Consejo Estatal de Seguridad Pública, en ningún caso implica la transferencia de atribuciones o facultades legales, sino la coordinación en el ejercicio de éstas, con el propósito de lograr el mejoramiento de las condiciones de seguridad pública en la Entidad.
+
+###### ARTICULO 53.
+
+El Consejo Estatal sesionará en forma ordinaria cada seis meses y, en forma extraordinaria, cuando sea necesario, mediante convocatoria de su presidente.
+
+###### ARTICULO 54.
+
+El Presidente podrá celebrar reuniones de evaluación y análisis con miembros del Consejo, a fin de cumplir con las funciones que se establecen en la presente ley y para determinar la ejecución de acciones coordinadas y específicas entre las autoridades federales, estatales y municipales.
+
+###### ARTICULO 55.
+
+1. Las resoluciones del Consejo Estatal se decidirán por mayoría de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
+
+2. El Secretario Ejecutivo sólo tendrá voz en las sesiones del Consejo Estatal.
+
+###### ARTICULO 56.
+
+1. El Consejo Estatal de Seguridad Pública contará con un organismo administrativo que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este organismo dependerá directamente del Secretario de Seguridad Pública.
+
+2. La estructura, organización y funciones del Consejo, se establecerán en el reglamento respectivo.
+
+3. El titular del Consejo Estatal de Seguridad Pública será su Secretario Ejecutivo, quien será nombrado y removido libremente por su Presidente.
+
+#### Sección Segunda. DE LOS CONSEJOS MUNICIPALES E INTERMUNICIPALES DE SEGURIDAD PUBLICA
+
+###### ARTICULO 57.
+
+1. En los Municipios del Estado se instalarán Consejos Municipales o Intermunicipales de Seguridad Pública, con estructura y funciones similares a las del Consejo Estatal de Seguridad Pública.
+
+2. Se entiende por Consejo Intermunicipal de Seguridad Pública, aquéllos que se integren mediante acuerdo de dos o más Municipios.
+
+###### ARTICULO 58.
+
+Los Consejos Municipales e Intermunicipales sesionarán cada tres meses, y en forma extraordinaria cuando sea necesario, por convocatoria de su Presidente, tomando en cuenta las propuestas que formulen los integrantes del Consejo.
+
+###### ARTICULO 59.
+
+Corresponderá a los Consejos Municipales o Intermunicipales de Seguridad Pública, entre otras, las siguientes atribuciones:
+
+I. Atender las políticas y lineamientos que determine el Consejo Estatal de Seguridad Pública;
+
+II. Establecer políticas y lineamientos municipales o intermunicipales en materia de seguridad pública;
+
+III. Formular propuestas al Consejo Estatal de Seguridad Pública;
+
+IV. Promover las acciones de coordinación con las diversas instancias vinculadas con la seguridad pública;
+
+V. Fomentar la participación de la sociedad en las tareas de planeación y supervisión de la seguridad pública, a través de los Comités Municipales de Consulta y Participación de la Comunidad;
+
+VI. Promover la integración de Comités Municipales o Intermunicipales de Consulta y Participación de la Comunidad en seguridad pública, dándoles el impulso necesario y el debido seguimiento de sus acciones;
+
+VII. Proponer reformas o adiciones a los bandos de policía y buen gobierno, u otros reglamentos similares, cuando fuera necesario; y
+
+VIII. Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
+
+###### ARTICULO 60.
+
+1. La estructura y funciones de los Consejos Municipales e Intermunicipales de Seguridad Pública será similar, en lo conducente, a las del Consejo Estatal, y se integrarán, por lo menos, con:
+
+I. El Presidente Municipal, que fungirá como Presidente del Consejo;
+
+II. Los titulares de las instituciones municipales de seguridad pública y de tránsito y vialidad;
+
+III. Un representante del Supremo Tribunal de Justicia;
+
+IV. Un representante de las dependencias federales y estatales siguientes:
+
+a) Secretaría de la Defensa Nacional;
+
+b) Secretaría de Marina, en los municipios donde hay puerto marítimo;
+
+c) Secretaría de Comunicaciones y Transportes;
+
+d) Secretaría de Seguridad Pública;
+
+e) Procuraduría General de la República;
+
+f) Procuraduría General de Justicia del Estado;
+
+V. Un representante de las siguientes unidades administrativas de la Secretaría de Seguridad Pública:
+
+a) Dirección General de Ejecución de Sanciones; y
+
+b) Dirección de Reintegración Social y Familiar para Adolescentes; y (sic)
+
+VI. Un Secretario Ejecutivo, que será nombrado por el Consejo Municipal, a propuesta de su Presidente;
+
+VII. Los delegados del Municipio acreditados en las poblaciones con mayor número de habitantes; y
+
+VIII. Los demás que el Consejo Municipal decida invitar y que por sus funciones estén vinculados con los fines de la seguridad pública.
+
+2. La presidencia de los Consejos Intermunicipales de Seguridad Publica será rotativa.
+
+3. Por cada miembro propietario se designará un suplente.
+
+4. Las autoridades señaladas en la fracción IV de este artículo, sólo estarán obligadas para formar parte del Consejo Municipal o Intermunicipal cuando tengan acreditadas oficinas o delegaciones en el Municipio que corresponda.
+
+### CAPITULO III. DE LA INFORMACION ESTATAL SOBRE SEGURIDAD PUBLICA
+
+#### Sección Primera. DE LA UNIDAD DE ENLACE INFORMATICO
+
+###### ARTICULO 61.
+
+El Consejo Estatal de Seguridad Pública contará con una Unidad de Enlace Informático, a la que le corresponderá integrar, administrar, actualizar y proporcionar la información de los diversos registros sobre seguridad pública, de acuerdo a las bases que establezca el reglamento de esta ley.
+
+###### ARTICULO 62.
+
+Las autoridades e instituciones preventivas de seguridad pública estatales y municipales, y las empresas que presten servicios privados de seguridad, tendrán la obligación de proporcionar la información que les sea requerida por la Unidad de Enlace Informático y de consultar los registros sobre seguridad pública a que se refiere este capítulo y en los términos que se establecen en esta ley y su reglamento, así como conforme a lo que establece la Ley para Regular los Servicios Privados de Seguridad en el Estado.
+
+###### ARTICULO 63.
+
+La información de seguridad pública a que se refiere el artículo anterior deberá integrarse en los registros siguientes:
+
+I. Del personal de seguridad pública;
+
+II. Del personal de las empresas que presten servicios privados de seguridad;
+
+III. Del armamento, municiones, equipo de comunicación y parque vehicular de las autoridades e instituciones policiales;
+
+IV. De la estadística delictiva, en los términos establecidos por esta ley;
+
+V. De procesados y sentenciados;
+
+VI. De mandamientos judiciales pendientes de ejecutar;
+
+VII. De vehículos robados y recuperados; y
+
+VIII. Los demás que se consideren necesarios para los fines de la presente ley.
+
+###### ARTICULO 64.
+
+Los titulares de las dependencias e instituciones de seguridad pública estatales o municipales, así como las empresas autorizadas para prestar servicios privados de seguridad que no proporcionen la información a que se refiere esta ley y su reglamento, así como la Ley para Regular los Servicios Privados de Seguridad en el Estado, serán sancionados en los términos que establece la normatividad aplicable.
+
+#### Sección Segunda. DEL REGISTRO DE PERSONAL DE SEGURIDAD PUBLICA
+
+###### ARTICULO 65.
+
+1. El Registro de Personal de Seguridad Pública contendrá la información relativa a los integrantes de las dependencias e instituciones de seguridad pública, estatales y municipales, que realicen funciones de policía preventiva, de tránsito, ministerial, de custodia penitenciaria y de adolescentes, así como de todas las personas físicas o morales que por sí o por conducto de terceros presten servicios privados de seguridad, en términos de la ley de la materia.
+
+2. El registro incluirá también los datos de los miembros suspendidos, destituidos, sancionados, consignados, procesados, sentenciados por delito doloso e inhabilitados, así como de quienes hayan renunciado.
+
+3. Asimismo, se llevará un control de los aspirantes a ingresar a las instituciones de seguridad pública, de quienes hayan sido rechazados y de quienes hayan sido los admitidos y hubieren desertado del curso de formación policial.
+
+###### ARTICULO 66.
+
+La información para el Registro de Personal de Seguridad Pública contendrá, por lo menos, los datos siguientes:
+
+I. Las generales y media filiación;
+
+II. Huellas dactilares;
+
+III. Fotografías de frente y de perfil;
+
+IV. Documentos que acrediten su situación patrimonial;
+
+V. Estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público;
+
+VI. Cambios de adscripción, actividad o rango, y las razones que los motivaron;
+
+VII. Trayectoria de los servicios desempeñados;
+
+VIII. Tipo y factor sanguíneo;
+
+IX. Señas particulares;
+
+X. Datos de escolaridad y antecedentes laborales;
+
+XI. En si, toda información que permita una exacta identificación del aspirante a ser servidor público, o de éste, en su caso, incluyéndose la información general de su familia y amistades; y
+
+XII. Los demás que determine el reglamento respectivo.
+
+###### ARTICULO 67.
+
+1. Los titulares de las dependencias e instituciones de seguridad pública estatales y municipales, así como las empresas autorizadas para prestar servicios privados de seguridad, están obligados a consultar el Registro de Personal de Seguridad Pública, previo al ingreso de toda persona a cualquiera de esas instituciones, incluyendo las de formación y capacitación.
+
+2. Quienes incumplan lo dispuesto en el párrafo anterior o expidan constancias que modifiquen o alteren el sentido de la información que consta en los registros, omitan registrar u oculten un antecedente negativo o positivo de cualquier miembro de las instituciones o empresas mencionadas, serán sancionados conforme a las disposiciones de esta ley y su reglamento, sin perjuicio de la responsabilidad penal y administrativa que corresponda.
+
+3. Al que proporcione información o presente documentos falsos o alterados al Registro de Personal de Seguridad Pública, se le pondrá de inmediato a disposición de la autoridad competente, para los efectos correspondientes.
+
+###### ARTICULO 68.
+
+Realizada la consulta, el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública expedirá en forma inmediata una certificación en cualquiera de los sentidos siguientes:
+
+I. De no inconveniente para la contratación, cuando la persona no tenga antecedentes en dependencias e instituciones de seguridad pública, o no cuente con antecedentes negativos; o
+
+II. De no contratación, cuando se tienen antecedentes negativos de la persona; para efectos de este precepto, se entiende por antecedentes negativos cualquiera de los casos siguientes:
+
+a) Haber resultado positivo en las pruebas de laboratorio practicadas para la detección del consumo de estupefacientes u otras drogas;
+
+b) Haberse comprobado actos de corrupción;
+
+c) Haber sido condenado por delito doloso;
+
+d) Haberse acreditado abusos de autoridad;
+
+e) Pérdida de la confianza; o
+
+f) Los demás que señale cualquier otra disposición legal.
+
+###### ARTICULO 69.
+
+La información relativa al personal de seguridad pública sólo podrá registrarse ante la Unidad de Enlace Informático del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, en los lugares que se designen para tal efecto.
+
+###### ARTICULO 70.
+
+1. El Secretariado Ejecutivo, una vez efectuado el registro en la Unidad de Enlace Informático, expedirá y remitirá a la autoridad requirente la constancia que contenga la Clave Unica de Identificación Personal que se haya asignado, la cual deberá insertarse en el texto del nombramiento que se otorgue.
+
+2. La credencial que expida el titular de la dependencia que corresponda, deberá contener la Clave Unica de Identificación Personal, además de los datos que las disposiciones legales aplicables ordenen.
+
+###### ARTICULO 71.
+
+Los integrantes de las dependencias e instituciones de seguridad pública están obligados a notificar, ante su superior jerárquico inmediato, cualquier cambio o modificación que se produzca en los datos que hayan aportado con anterioridad, y éstos, de notificarlo a la Unidad de Enlace Informático.
+
+#### Sección Tercera. DEL REGISTRO DE ARMAMENTO Y EQUIPO
+
+###### ARTICULO 72.
+
+1. Para la integración del Registro de Armamento y Equipo, los titulares de las dependencias e instituciones de seguridad pública del Estado y los Municipios deberán inscribir ante la Unidad de Enlace Informático los datos de las armas y municiones que les hayan sido autorizadas, aportando el número de registro, marca, modelo, calibre, matricula y demás elementos de identificación.
+
+2. Asimismo, las autoridades mencionadas deberán registrar en dicha Unidad, los vehículos que tengan asignados, proporcionando los números de matrícula y de las placas de circulación, así como la marca, modelo, tipo, número de serie y motor del vehículo y de los equipos de radio comunicación y las frecuencias autorizadas para su uso.
+
+#### Sección Cuarta. DEL REGISTRO DE LA ESTADISTICA DE SEGURIDAD PUBLICA
+
+###### ARTICULO 73.
+
+Las autoridades estatales y municipales de seguridad pública están obligadas a proporcionar a la Unidad de Enlace Informático, la información sobre seguridad pública que permita analizar la incidencia en la comisión de los delitos, por lugar geográfico, tipo de delito, hora y día de su comisión y el de denuncia, así como el modo de operar o ejecutarse.
+
+#### Sección Quinta. DEL REGISTRO DE PROCESADOS Y SENTENCIADOS
+
+###### ARTICULO 74.
+
+1. El Registro de Procesados y Sentenciados se integrará con la información que aporten las autoridades encargadas de la procuración e impartición de justicia, de la ejecución de sanciones y, en general, de todas las dependencias e instituciones que deban contribuir a la seguridad pública.
+
+2. Este Registro contendrá información individual de las personas indiciadas, procesadas o sentenciadas, sus datos generales, características criminales, recursos y modos de operación, incluyendo, en su caso, su reincidencia, penalidad y tiempo compurgado, entre otros datos. Deberá distinguirse entre procesados y sentenciados por el régimen de justicia para adolescentes infractores o el de adultos.
+
+#### Sección Sexta. DEL REGISTRO DE MANDAMIENTOS JUDICIALES PENDIENTES DE EJECUTAR
+
+###### ARTICULO 75.
+
+1. El Registro de Mandamientos Judiciales Pendientes de Ejecutar se integrará con las órdenes de aprehensión, reaprehensión y comparecencia dictadas por la autoridad judicial competente. Corresponde al Procurador General de Justicia en el Estado, por conducto de quien designe, proporcionar a la Unidad de Enlace Informático la información referida para mantener actualizado el Registro.
+
+2. Las instituciones de seguridad pública preventiva, al momento de realizar cualquier detención de personas responsables de un probable delito o infracción, tendrán la obligación de consultar tal registro, y de poner al detenido, en su caso, a disposición inmediata de la autoridad competente.
+
+3. Los responsables de los cuerpos de la Policía Ministerial se coordinarán con los diversos cuerpos de policía preventiva para el mejor desarrollo de esta encomienda, favoreciendo la incursión de sus agentes en las barandillas de detenidos por faltas administrativas, previa autorización del mando responsable en turno.
+
+#### Sección Séptima. REGISTRO DE VEHICULOS ROBADOS Y RECUPERADOS
+
+###### ARTICULO 76.
+
+La Procuraduría General de Justicia en el Estado proporcionará a la Unidad de Enlace Informático, los datos de los vehículos robados. Además, el Registro de Vehículos Robados y Recuperados se integrará con los datos que proporcione la Secretaría de Finanzas del Estado, relativos al padrón vehicular estatal. Asimismo, las autoridades a que se refiere esta ley, proporcionarán la información que la Unidad de Enlace Informático requiera para mantener actualizado tal Registro.
+
+###### ARTICULO 77.
+
+La consulta al Registro de Vehículos Robados y Recuperados, será de carácter público, para lo cual la Unidad de Enlace Informático brindará las facilidades requeridas por la comunidad.
+
+#### Sección Octava. DE LAS REGLAS GENERALES SOBRE LA INFORMACION
+
+###### ARTICULO 78.
+
+Los datos que se reciban en la Unidad de Enlace Informático, serán procesados bajo los principios de confidencialidad y reserva. No se proporcionará al público información alguna que ponga en riesgo la seguridad del Estado o la seguridad pública o por la perturbación que pueda causar en el orden público, o la intimidad, privacidad y dignidad de las personas; en este último supuesto, se estará a lo que señale la ley de la materia sobre información de acceso restringido.
+
+###### ARTICULO 79.
+
+Cualquier interesado que estime falsa o errónea cualquier información que se haya registrado sobre su persona o tutelados, podrá solicitarla con el propósito de que, en su caso, se haga la corrección pertinente conforme al procedimiento que señale la ley de la materia.
+
+###### ARTICULO 80.
+
+Las autoridades a que se refiere esta ley tendrán acceso a la información sobre seguridad pública, de acuerdo a las bases que para tal efecto establezcan las autoridades competentes.
+
+### CAPITULO IV. DEL SERVICIO DE ATENCION AL PUBLICO
+
+###### ARTICULO 81.
+
+El Gobierno del Estado, en coordinación con los Municipios, dispondrá de un sistema de comunicación telefónica para que los habitantes de la Entidad, en casos de emergencia, establezcan contacto en forma rápida y eficiente con las dependencias e instituciones de seguridad pública.
+
+###### ARTICULO 82.
+
+1. El Consejo Estatal de Seguridad Pública impulsará acciones para que el Estado y los Municipios instrumenten un servicio para la localización de personas, el cual tendrá comunicación directa con las dependencias e instituciones de seguridad pública, salud y protección civil, así como con las demás instancias de asistencia pública o privada. Asimismo, para recibir las sugerencias, quejas y denuncias relativas a los servicios de seguridad pública.
+
+2. Las demás normas de operación se fijarán en el reglamento respectivo.
+
+## TITULO SEXTO. DE LA PARTICIPACION CIUDADANA
+
+### CAPITULO UNICO. DE LOS COMITES DE CONSULTA Y PARTICIPACION DE LA COMUNIDAD
+
+###### ARTICULO 83.
+
+Con el propósito de fomentar la cooperación y corresponsabilidad de la comunidad, el Gobierno del Estado, los Ayuntamientos y los Consejos de Seguridad Pública promoverán la instrumentación de mecanismos y procedimientos para lograr la más amplia participación social en la ejecución y supervisión de programas preventivos de seguridad pública.
+
+###### ARTICULO 84.
+
+Las autoridades mencionadas promoverán entre los habitantes del Estado, su participación en las tareas de planeación, ejecución y supervisión de la seguridad pública, a través de los Comités Estatal o Municipales de Consulta y Participación de la Comunidad que al efecto integren:
+
+I. Personas cuya actividad esté vinculada con la prevención del delito, la procuración de justicia y la ejecución de sanciones;
+
+II. Instituciones cuyo objeto sea el fomento a las actividades educativas, culturales o deportivas y que se interesen en coadyuvar con los propósitos y fines de los programas de seguridad pública; y
+
+III. Ciudadanos que realicen actividades relacionadas con la seguridad pública, conforme a los usos y costumbres del lugar, que se interesen en coadyuvar con los propósitos y fines de los programas de seguridad pública.
+
+###### ARTICULO 85.
+
+A fin de lograr la mayor representatividad de la sociedad para la integración de los Comités de Consulta y Participación de la Comunidad se convocará, entre otras, a las siguientes instituciones:
+
+I. Asociaciones de padres de familia de planteles escolares públicos y privados;
+
+II. Instituciones de educación superior, públicas y privadas;
+
+III. Colegios de profesionistas y técnicos;
+
+IV. Instituciones educativas y de salud;
+
+V. Medios de comunicación;
+
+VI. Fundaciones o juntas de asistencia privada que tengan por objeto el apoyo a la asistencia pública;
+
+VII. Patronatos de apoyo a reos y menores liberados;
+
+VIII. Organismos empresariales;
+
+IX. Asociaciones de servicio y demás organismos sociales intermedios;
+
+X. Instituciones u organizaciones de protección civil y de auxilio a la comunidad;
+
+XI. Instituciones que presten servicios privados de seguridad en el Estado;
+
+XII. Organizaciones gremiales;
+
+XIII. Organizaciones civiles interesadas en contribuir a mejorar la seguridad pública en su comunidad; y
+
+XIV. En general, personas físicas y morales que se interesen en colaborar con los propósitos y fines de los programas de seguridad pública.
+
+###### ARTICULO 86.
+
+Para el logro de sus objetivos, los Comités se vincularán con las dependencias, instituciones e instituciones relacionadas con la seguridad pública.
+
+###### ARTICULO 87.
+
+1. Los Comités podrán formular propuestas a los Consejos Estatal o Municipales de Seguridad Pública, particularmente sobre vigilancia y prevención del delito, seguridad preventiva, readaptación social, ejecución de sanciones y cualquier otro rubro relacionado con la materia.
+
+2. Los Presidentes de los Comités darán seguimiento a las propuestas que formulen, y participarán, previa invitación, en el Consejo respectivo para informar sobre las actividades que realizan.
+
+###### ARTICULO 88.
+
+Las anteriores disposiciones podrán ser complementadas por otras que dicte el Consejo Estatal de Seguridad Pública.
+
+## TITULO SEPTIMO. DE LAS SANCIONES
+
+### CAPITULO UNICO. SANCIONES PARA LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA
+
+###### ARTICULO 89.
+
+1. Los correctivos disciplinarios y sanciones a que se hagan acreedores los miembros de las instituciones de seguridad pública estatales y municipales, se aplicarán cuando desacaten los principios de actuación y las obligaciones que esta ley y su reglamento establezcan, sin perjuicio de la responsabilidad administrativa y penal que prevean otros ordenamientos legales.
+
+2. Previo a la aplicación de las sanciones e infracciones se respetará la garantía de audiencia del infractor.
+
+###### ARTICULO 90.
+
+1. Las sanciones por infracción a la presente ley podrán consistir en:
+
+I. Amonestación;
+
+II. Apercibimiento;
+
+III. Arresto hasta por 36 horas;
+
+IV. Suspensión hasta por un término de noventa días;
+
+V. Destitución; y
+
+VI. Las que determinen las demás disposiciones legales aplicables.
+
+2. Las sanciones e infracciones para los integrantes de las instituciones de seguridad pública referidas en las fracciones I, II y III, del párrafo 1 de este artículo, serán aplicadas por el superior jerárquico inmediato; y las establecidas en las fracciones IV y V de dicho numeral sólo podrán ser aplicadas por los Consejos de Honor y Justicia competentes, de conformidad con las disposiciones legales de la materia.
+
+###### ARTICULO 91.
+
+Los integrantes de las instituciones de seguridad pública podrán ser destituidos por cualquiera de las siguientes causas:
+
+I. Por faltar a sus labores por más de tres ocasiones en un período de treinta días naturales, sin permiso o causa justificada;
+
+II. Por sentencia condenatoria por delito intencional que haya causado ejecutoria;
+
+III. Por falta grave a los deberes disciplinarios, obligaciones y prohibiciones previstos en esta ley y a las normas de disciplina que se establezcan en cada uno de los reglamentos estatales o municipales, según sea el caso;
+
+IV. Por incurrir en faltas de probidad y honradez durante el servicio;
+
+V. Por poner en peligro a los particulares a causa de su imprudencia, descuido, negligencia o abandono del servicio;
+
+VI. Por asistir a sus labores en estado de ebriedad, o bajo el influjo de sustancias psicotrópicas o estupefacientes, o por consumirlas durante el servicio o en su centro de trabajo, en su caso, salvo prescripción médica;
+
+VII. Por desacato injustificado a las órdenes de sus superiores;
+
+VIII. Por revelar información de acceso restringido en términos de la ley de la materia, de la que tenga conocimiento;
+
+IX. Por presentar dolosamente documentación falsificada o alterada;
+
+X. Por aplicar a sus subalternos, en forma dolosa o reiterada, correctivos disciplinarios notoriamente injustificados;
+
+XI. Por obligar, compeler o inducir a sus subalternos a entregarle dinero o cualquier otro tipo de dádivas, privilegios o beneficios, para sí, o para otro, a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho o a cambio de servicios o favores de tipo personal;
+
+XII. Causar dolosamente el deterioro del equipo de trabajo o por hacer uso indebido de éste;
+
+XIII. Resultar positivo en el examen de detección de uso o consumo de sustancias tóxicas prohibidas; y
+
+XIV. Las demás que se establezcan en los reglamentos respectivos.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública para el Estado de Tamaulipas expedida mediante Decreto No. 178, del 29 de marzo del 2000, publicado en el Periódico Oficial del Estado, Extraordinario No. 2, del 6 de abril del 2000; así como las reformas expedidas mediante Decreto No. LVIII-841, del 8 de septiembre del 2004, publicado en el Periódico Oficial del Estado No. 150, del 15 de diciembre del 2004, y las reformas expedidas mediante Decreto número LIX-561 del 8 de agosto de 2006, publicado en el Periódico Oficial del Estado número 107 del 6 de septiembre de 2006.
+
+###### ARTICULO TERCERO.
+
+En un término que no exceda de 180 días posteriores a la entrada en vigor de esta ley, se expedirán el Reglamento del Consejo de Honor y Justicia y el Reglamento Interior de la Secretaría de Seguridad Pública.
+
+###### ARTICULO CUARTO.
+
+El Sistema Estatal de Seguridad Pública; el Programa Estatal de Seguridad Pública y los que deriven de éste; los Comités Estatal y los Municipales de Consulta y Participación de la Comunidad en Seguridad Pública; el Consejo Técnico de la Academia Estatal de Policía; el Consejo Estatal de Seguridad Pública y sus unidades administrativas; así como los Consejos de Honor y Justicia Estatal y Municipales, continuarán ejerciendo sus atribuciones en los términos conocidos y, en su caso, aplicarán las disposiciones de las nuevas disposiciones en lo que corresponda. Los procedimientos que a la fecha de publicación de la presente ley se substancien en el Consejo de Honor y Justicia, continuarán integrándose con las normas que resulten más benéficas para el procesado, si fuera el caso.
+
+###### ARTICULO QUINTO.
+
+Toda referencia que se haga de la Dirección General de Prevención y Auxilio, Medidas Tutelares y Readaptación Social, de su titular o de los Centros de Readaptación Social del Estado, en cualquier disposición legal del Estado, se entenderá hecha a la Dirección General de Ejecución de Sanciones y a su titular como Director; así como Centros de Ejecución de Sanciones, respectivamente.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de diciembre del año 2007.- DIPUTADO PRESIDENTE.- JESUS EVERARDO VILLAREAL SALINAS.- Rúbrica.- DIPUTADA SECRETARIA.- AIDA ARACELI ACUÑA CRUZ.- Rúbrica.- DIPUTADO SECRETARIO.- FERNANDO ALEJANDRO FERNANDEZ DE LEON.- Rúbrica."
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
+
+ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
