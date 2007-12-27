@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2007-10-23"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,29 +19,27 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS, CIERTOS PRODUCTOS TEXTILES Y CALZADO ORIGINARIOS DE LA COMUNIDAD EUROPEA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, LOMOS DE ATUN ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 23 de octubre de 2007.
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 27 de diciembre de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los apéndices II y II (A) del anexo III de la Decisión 2/2000 del Consejo Conjunto México-Comunidad Europea; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 1 de la Decisión 2/2004 del Consejo Conjunto CE-México; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Acuerdo de Asociación Económica, Concertación Política y Cooperación entre los Estados Unidos Mexicanos, por una parte, y la Comunidad Europea y sus Estados Miembros, por otra, fue aprobado por el Senado de la República el 20 de marzo de 2000, publicado en el Diario Oficial de la Federación el 26 de junio del mismo año y entró en vigor el 1 de octubre de 2000;
+Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus Estados Miembros, el 1 de julio de 2000 entró en vigor la Decisión 2/2000 del Consejo Conjunto CE-México que establece, entre otras, las disposiciones que regulan el comercio de bienes originarios entre las Partes;
 
-Que el 20 de marzo de 2000 el Senado de la República aprobó la Decisión 2/2000 del Consejo Conjunto México-Comunidad Europea (en adelante “la Decisión”), publicada en el Diario Oficial de la Federación el 26 de junio de 2000, misma que entró en vigor el 1 de julio de 2000;
+Que la Decisión mencionada en el considerando anterior, prevé en su artículo 3 la posibilidad de que las Partes acuerden reducir sus aranceles aduaneros más rápido de lo previsto y que en este supuesto el acuerdo alcanzado por las Partes prevalecerá sobre los términos establecidos en la propia Decisión, y el artículo 10 establece que las Partes podrán examinar la posibilidad de que la Comunidad Europea otorgue a México un cupo con arancel preferencial para lomos de atún;
 
-Que el anexo III relativo a la “Definición del Concepto de Productos Originarios y Procedimientos de Cooperación Administrativa” de la Decisión establece las normas de origen que un producto de la Comunidad Europea internado a los Estados Unidos Mexicanos debe cumplir con objeto de recibir el trato arancelario establecido en dicha Decisión;
+Que el 28 de abril de 2004 el Consejo Conjunto CE-México adoptó la Decisión 2/2004 por la que se introduce un cupo arancelario con tratamiento preferencial para determinados productos originarios de México y enumerados en el Anexo I de la Decisión 2/2000 del Consejo Conjunto CE-México misma que se dio a conocer mediante Acuerdo publicado el 17 de mayo de 2004 en el Diario Oficial de la Federación;
 
-Que es necesario propiciar esquemas de promoción para mejorar las condiciones de acceso a mercado, así como facilitar la utilización de los beneficios pactados en la Decisión sobre calzado y productos textiles establecidos en el apéndice II y en la nota 9 del apéndice II (a), del anexo III de la Decisión;
-
-Que el 14 de junio de 2007 las Partes adoptaron mediante procedimiento escrito la Decisión No. 1/2007 del Comité Conjunto Comunidad Europea-México sobre el anexo III de la Decisión No. 2/2000 del Consejo Conjunto Comunidad Europea-México, de 23 de marzo de 2000, relativo a la definición del concepto de productos originarios y los procedimientos de cooperación administrativa, mediante la cual acordaron, entre otros, cambiar el sistema actual de asignación de cupos anuales al sistema basado en el principio de “primero en tiempo, primero en derecho” con objeto de simplificar el acceso a los mismos para los productos mencionados en el considerando anterior exportados de la Comunidad Europea a México, y
+Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
 
 Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS, CIERTOS PRODUCTOS TEXTILES Y CALZADO ORIGINARIOS DE LA COMUNIDAD EUROPEA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, LOMOS DE ATUN ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTICULO UNICO.
 
@@ -49,39 +47,55 @@ Los artículos 3, 4 y 5 del Decreto que modifica al diverso por el que se establ
 
 ###### ARTICULO PRIMERO.
 
-Los cupos para importar, con la concesión arancelaria establecida en el anexo II (Calendario de Desgravación de México) de la Decisión, para ciertos productos textiles y calzado originarios de la Comunidad Europea, que cumplen la norma de origen establecida en los apéndices II y II (a) del anexo III de la Decisión, durante el periodo 1 de enero al 31 de diciembre de cada año, son los que se determinan a continuación:
+El cupo para internar a los Estados Miembros de la Comunidad Europea en el periodo comprendido del 1 de enero al 31 de diciembre de 2008, con el arancel preferencial establecido en la Decisión 2/2004 del Consejo Conjunto CE-México por la que se introduce un cupo arancelario para determinados productos originarios de México y enumerados en el Anexo 1 de la Decisión 2/2000 del Consejo Conjunto CE-México, lomos de atún, originarios de los Estados Unidos Mexicanos, es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con lo dispuesto en el párrafo segundo del artículo 24 de la Ley de Comercio Exterior, con objeto de facilitar la administración de los cupos de importación para ciertos productos textiles y calzado descritos en el cuadro del artículo primero y favorecer las corrientes comerciales entre los Estados Unidos Mexicanos y la Comunidad Europea, se aplicará el procedimiento de asignación directa mediante la modalidad de “Primero en Tiempo, Primero en Derecho”.
+De conformidad con el artículo 24 de la Ley de Comercio Exterior, se aplicará al cupo de exportación a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar la asignación de los cupos a que se refiere el artículo primero, las personas físicas y morales establecidas en los Estados Unidos Mexicanos, cuyas mercancías a importar cumplan la norma de origen establecida en los apéndices II y II (a) del Anexo III de la Decisión 2/2000 del Consejo Conjunto México-Comunidad Europea, como fue modificada por la Decisión 1/2007 del Consejo Conjunto México-Comunidad Europea sobre el anexo III de la Decisión No. 2/2000 del Consejo Conjunto Comunidad Europea-México, de 23 de marzo de 2000, relativo a la definición del concepto de productos originarios y los procedimientos de cooperación administrativa. La Secretaría de Economía asignará los cupos hasta agotarlos.
+Podrán solicitar asignación de este cupo las personas físicas o morales establecidas en los Estados Unidos Mexicanos.
 
 ###### ARTICULO CUARTO.
 
-Para cada año, la primera solicitud de asignación de los cupos a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
+La primera solicitud de asignación de cupo a que se refiere el presente instrumento, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de la presentación de la solicitud. La vigencia de la constancia de asignación será al 31 de diciembre de 2008.
+
+Previo a la presentación de dicha solicitud se deberá realizar el trámite SE-03-038-A, “Registro de productos elegibles para preferencias y concesiones arancelarias para la obtención del certificado de circulación de mercancías EUR.1”, utilizando el formato SE-03-037, presentando el cuestionario para la obtención del certificado de circulación de mercancías EUR.1 o el carácter de exportador autorizado. La Secretaría a través de la Dirección General de Comercio Exterior resolverá en un plazo máximo de dos días hábiles contados a partir del día hábil siguiente a la fecha de presentación de la solicitud. Una vez autorizado dicho cuestionario la Secretaría proporcionará el formato de certificado de circulación EUR.1.
 
 ###### ARTICULO QUINTO.
 
-Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo por embarque mediante la presentación del formato SE-03-013-5 "Solicitud de certificados de cupo (obtenido por asignación directa)", adjuntando la factura comercial y del conocimiento de embarque, carta de porte o guía aérea, según sea el caso, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
+Una vez obtenida la constancia de asignación, el beneficiario solicitará la expedición del certificado de cupo de exportación mediante la presentación del formato SE-03-013-5 "Solicitud de certificados de cupo (obtenido por asignación directa)", adjuntando el certificado de circulación EUR.1 a que hace referencia el artículo anterior, debidamente requisitado, copia de la factura comercial y del conocimiento de embarque o carta de porte o guía aérea, según sea el caso, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
-La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 31 de diciembre de cada año. El certificado de cupo es nominativo e intransferible.
+Siempre que exista saldo en el cupo, el monto a expedir por solicitante será el que resulte menor entre el monto indicado en la factura comercial y el conocimiento de embarque o la carta de porte o la guía aérea, según sea el caso.
+
+Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes deberá demostrar el ejercicio de por lo menos una de las expediciones otorgadas, adjuntando copia del pedimento de exportación, de forma tal que durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin ejercer.
+
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo será al 31 de diciembre de 2008.
+
+El certificado de circulación EUR.1 es el documento que se utilizará para que la aduana del país del Estado Miembro de la Comunidad Europea al que se interne la mercancía, aplique la preferencia establecida en la Decisión 2/2004 del Consejo Conjunto CE-México. El certificado de cupo es el documento que avalará que la empresa es beneficiaria del cupo.
 
 ###### ARTICULO SEXTO.
 
-Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en las Representaciones Federales de la Secretaría de Economía y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
+Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en las representaciones federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
 
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+a) Para el caso del formato SE-03-037 “Cuestionario para la obtención del certificado de circulación de mercancías EUR.1 o el carácter de exportador autorizado”:
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-038-A
+
+b) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
 http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-B
 
-b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
+c) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
 
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-B
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-C
 
 ###### ARTICULO SEPTIMO.
 
@@ -91,10 +105,8 @@ a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: 
 
 b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2008.
 
-SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, ciertos productos textiles y calzado originarios de la Comunidad Europea, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004.
-
-México, D.F., a 25 de septiembre de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D.F., a 17 de diciembre de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
