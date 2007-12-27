@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-conductas-antisociales-auxilio-a-8195
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2006-09-06"
+last_updated: "2007-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY PARA LA PREVENCION DE CONDUCTAS ANTISOCIALES, AUXILIO A LAS VICTIMAS, MEDIDAS TUTELARES Y READAPTACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 27 de diciembre de 1986.
 
@@ -1220,3 +1222,21 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley para la Prevención de Conductas Antisociales, Auxilio a las Victimas, Medidas Tutelares y Readaptación Social del Estado de Tamaulipas, así como las reformas elaboradas mediante Decreto 27, del 21 de abril de 1993, publicado en el Periódico Oficial del Estado número 35 del 1 de mayo de 1993; Decreto 25, del 27 de mayo de 1999, publicado en el Periódico Oficial del Estado número 45, del 5 de junio de 1999; Decreto 355, del 12 de diciembre de 2000, publicado en el Periódico Oficial del Estado número 138, del 26 de diciembre del 2000; Decreto 726, del 18 de mayo de 2004, publicado en el Periódico Oficial del Estado número 135 del 10 de noviembre de 2004; y Decreto LIX-563, del 8 de agosto de 2006, publicado en el anexo al Periódico Oficial del Estado número 107 del 6 de septiembre de 2006.
+
+###### ARTICULO TERCERO.
+
+Las solicitudes de libertad preparatoria, remisión parcial de la pena, conmutación, modificación de sanción o de cualquier otra índole que se encuentren en trámite al entrar en vigor esta ley, se resolverán en lo procedente de acuerdo a ella, siempre que sea lo más benéfico para el solicitante.
+
+###### ARTICULO CUARTO.
+
+Dentro del término de ciento ochenta días contados a partir del inicio de la vigencia de la presente ley, se deberá expedir el Reglamento de los Centros de Ejecución de Sanciones del Estado de Tamaulipas.
