@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2005-10-12"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -54,6 +54,10 @@ II. Los Ayuntamientos de los municipios, por sí o a través de sus organismos p
 Los Poderes Legislativo y Judicial, así como las demás personas de derecho público de carácter estatal con autonomía legal, podrán adoptar los criterios y procedimientos previstos en esta ley, sujetándose a sus propios órganos de control. El Ejecutivo podrá convenir con éstos, cuando así lo soliciten, la coordinación de las operaciones regidas por la presente ley. En este mismo caso se encontrarán los Ayuntamientos.
 
 No estarán sujetas a las disposiciones de esta ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados, en los términos de la legislación aplicable, cuando los lleven a cabo los propios concesionarios.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Tampoco está sujeto a esta ley la contratación de proyectos para la prestación de servicios, la cual se rige por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas. Esos contratos no constituyen obligaciones para la realización de obras públicas o de servicios relacionados con las mismas, conforme a su conceptualización por los artículos 3 y 4 de esta ley.
 
 ###### ARTÍCULO 2.
 
@@ -1283,7 +1287,7 @@ Los contratos de obras públicas y de servicios relacionados con las mismas que 
 
 Las rescisiones administrativas que por causas imputables al contratista se hayan determinado de acuerdo con lo dispuesto en la Ley de Obras Públicas para el Estado de Tamaulipas publicada en el Periódico Oficial del Estado el día 3 de noviembre de 1984, y sus reformas del 16 de febrero de 1994 y del 11 de octubre de 2001, se continuarán considerando para los efectos de los artículos 59, fracción II, y, 89 fracción II, de esta ley.
 
-SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- CD. VICTORIA, TAM., A 25 DE JUNIO DE 2003.- DIPUTADO PRESIDENTE.- ARMANDO VERA GARCÍA.- Rúbrica.- DIPUTADO SECRETARIO.- FELIPE GARZA NARVÁEZ.- Rúbrica.- DIPUTADO SECRETARIO.- HECTOR AURELIO CASTILLO TOVAR.- Rúbrica.
+SSALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- CD. VICTORIA, TAM., A 25 DE JUNIO DE 2003.- DIPUTADO PRESIDENTE.- ARMANDO VERA GARCÍA.- Rúbrica.- DIPUTADO SECRETARIO.- FELIPE GARZA NARVÁEZ.- Rúbrica.- DIPUTADO SECRETARIO.- HECTOR AURELIO CASTILLO TOVAR.- Rúbrica.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -1304,6 +1308,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE OCTUBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2007.
 
 ###### ARTICULO UNICO.
 
