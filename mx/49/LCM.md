@@ -4,7 +4,7 @@ identifier: "LCM"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-12"
-last_updated: "2000-05-12"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16134&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCM"
 
 LEY DE CONCURSOS MERCANTILES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de mayo de 2000.
 
@@ -124,17 +124,25 @@ Para los efectos de esta Ley, el incumplimiento generalizado en el pago de las o
 
 I. Que de aquellas obligaciones vencidas a las que se refiere el párrafo anterior, las que tengan por lo menos treinta días de haber vencido representen el treinta y cinco por ciento o más de todas las obligaciones a cargo del Comerciante a la fecha en que se haya presentado la demanda o solicitud de concurso, y
 
-II. El Comerciante no tenga activos enunciados en el párrafo siguiente, para hacer frente a por lo menos el ochenta por ciento de sus obligaciones vencidas a la fecha de la demanda.
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+II. El Comerciante no tenga activos enunciados en el párrafo siguiente, para hacer frente a por lo menos el ochenta por ciento de sus obligaciones vencidas a la fecha de presentación de la demanda o solicitud.
 
 Los activos que se deberán considerar para los efectos de lo establecido en la fracción II de este artículo serán:
 
 a) El efectivo en caja y los depósitos a la vista;
 
-b) Los depósitos e inversiones a plazo cuyo vencimiento no sea superior a noventa días naturales posteriores a la fecha de admisión de la demanda;
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
-c) Clientes y cuentas por cobrar cuyo plazo de vencimiento no sea superior a noventa días naturales posteriores a la fecha de admisión de la demanda, y
+b) Los depósitos e inversiones a plazo cuyo vencimiento no sea superior a noventa días naturales posteriores a la fecha de presentación de la demanda o solicitud;
 
-d) Los títulos valores para los cuales se registren regularmente operaciones de compra y venta en los mercados relevantes, que pudieran ser vendidos en un plazo máximo de treinta días hábiles bancarios, cuya valuación a la fecha de la presentación de la demanda sea conocida.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+c) Clientes y cuentas por cobrar cuyo plazo de vencimiento no sea superior a noventa días naturales posteriores a la fecha de presentación de la demanda o solicitud, y
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+d) Los títulos valores para los cuales se registren regularmente operaciones de compra y venta en los mercados relevantes, que pudieran ser vendidos en un plazo máximo de treinta días hábiles bancarios, cuya valuación a la fecha de la presentación de la demanda o solicitud sea conocida.
 
 El dictamen del visitador y las opiniones de expertos que en su caso ofrezcan las partes, deberán referirse expresamente a los supuestos establecidos en las fracciones anteriores.
 
@@ -198,7 +206,13 @@ II. Que sean propietarias de más del cincuenta por ciento de las acciones con d
 
 III. Que en ningún caso más de cincuenta por ciento de sus acciones con derecho a voto sean propiedad de otra u otras sociedades.
 
-Se considerarán acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerará el valor de las partes sociales.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+No se considerarán acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen acciones de goce.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de sociedades que no sean por acciones se considerará el valor de las partes sociales.
 
 Se considerarán sociedades controladas aquéllas en las cuales más del cincuenta por ciento de sus acciones con derecho a voto sean propiedad, ya sea en forma directa, indirecta o de ambas formas, de una sociedad controladora. Para ello la tenencia indirecta a que se refiere este párrafo será aquélla que tenga la controladora por conducto de otra u otras sociedades que a su vez sean controladas por la misma controladora.
 
@@ -212,19 +226,23 @@ Las sucursales de empresas extranjeras podrán ser declaradas en concurso mercan
 
 Es competente para conocer del concurso mercantil de un Comerciante, el Juez de Distrito con jurisdicción en el lugar en donde el Comerciante tenga su Domicilio.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 18.
 
-Las excepciones de naturaleza procesal, incluyendo las de incompetencia del juez y de falta de personalidad, no suspenderán el procedimiento. Tampoco se suspenderá el procedimiento de declaración de concurso mercantil por la interposición y trámite de recursos en contra de las resoluciones que al efecto dicte el juez.
+Las excepciones de naturaleza procesal, incluyendo las de incompetencia del juez y de falta de personalidad, se tramitarán en vía incidental y no suspenderán el procedimiento. Tampoco se suspenderá el procedimiento de declaración de concurso mercantil por la interposición y trámite de recursos en contra de las resoluciones que al efecto dicte el juez.
 
-El juez deberá desechar de plano las excepciones notoriamente improcedentes y podrá resolver las excepciones procesales en una o varias sentencias interlocutorias o en la definitiva.
+El juez deberá desechar de plano las excepciones notoriamente improcedentes y podrá resolver las excepciones procesales en una o varias sentencias interlocutorias.
 
 ###### Artículo 19.
 
 Si se declara procedente la excepción de falta de personalidad del actor o la objeción que se haya hecho a la personalidad de quien se haya ostentado como representante del Comerciante, el juez concederá un plazo no mayor de diez días para que se subsane, si los defectos del documento presentado por el representante fueren subsanables. De no subsanarse, cuando se trate de la legitimación al proceso del Comerciante, se continuará el juicio en rebeldía de éste. Si no se subsanara la del actor, el juez de inmediato sobreseerá el juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 20.
 
-El Comerciante que considere que ha incurrido en el incumplimiento generalizado de sus obligaciones en términos de cualquiera de los dos supuestos establecidos en el artículo 10 de esta Ley, podrá solicitar que se le declare en concurso mercantil.
+El Comerciante que considere que ha incurrido en el incumplimiento generalizado de sus obligaciones en términos de cualquiera de los dos supuestos establecidos en el artículo 10 de esta Ley, podrá solicitar que se le declare en concurso mercantil, el cual, en caso de ser fundado, se abrirá en etapa de conciliación, salvo que el Comerciante expresamente pida que el concurso mercantil se abra en etapa de quiebra.
 
 La solicitud de declaración de concurso mercantil presentada por el propio Comerciante deberá contener el nombre completo, denominación o razón social del Comerciante, el domicilio que señale para oír y recibir notificaciones, así como en su caso el domicilio social, el de sus diversas oficinas y establecimientos, incluyendo plantas, almacenes o bodegas, especificando en caso necesario en dónde tiene la administración principal de su empresa o en caso de ser una persona física, el domicilio donde vive y además, a ella deberán acompañarse los anexos siguientes:
 
@@ -232,11 +250,27 @@ I. Los estados financieros del Comerciante, de los últimos tres años, los cual
 
 II. Una memoria en la que razone acerca de las causas que lo llevaron al estado de incumplimiento en que se encuentra;
 
-III. Una relación de sus acreedores y deudores que indique sus nombres y domicilios, la fecha de vencimiento del crédito o créditos de cada uno de ellos, el grado con que estima se les debe reconocer, indicando las características particulares de dichos créditos, así como de las garantías, reales o personales, que haya otorgado para garantizar deudas propias y de terceros, y
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
-IV. Un inventario de todos sus bienes inmuebles y muebles, títulosvalores, géneros de comercio y derechos de cualquier otra especie.
+III. Una relación de sus acreedores y deudores que indique sus nombres y domicilios, la fecha de vencimiento del crédito o créditos de cada uno de ellos, el grado con que estima se les debe reconocer, indicando las características particulares de dichos créditos, así como de las garantías, reales o personales, que haya otorgado para garantizar deudas propias y de terceros;
+
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+IV. Un inventario de todos sus bienes inmuebles y muebles, títulos valores, géneros de comercio y derechos de cualquier otra especie;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+V. Una relación de los juicios en los cuales el Comerciante sea parte, que indique las partes del procedimiento, los datos de identificación del mismo, su tipo, estado del juicio y ante quién se tramita, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+VI. El ofrecimiento de otorgar en caso de admisión de la solicitud, la garantía a la que se refiere el artículo 24.
 
 La solicitud deberá tramitarse conforme a las disposiciones subsiguientes relativas a la demanda.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+En el auto admisorio de la solicitud, se proveerá en términos del artículo 29 de esta Ley.
 
 ###### Artículo 21.
 
@@ -266,7 +300,9 @@ La demanda que presente un acreedor, deberá acompañarse de:
 
 I. Prueba documental que demuestre que tiene tal calidad;
 
-II. El documento en que conste de manera fehaciente que se ha otorgado la garantía a la que se refiere el siguiente artículo, y
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+II. El ofrecimiento de otorgar en caso de admisión de la demanda la garantía a la que se refiere el siguiente artículo, y
 
 III. Los documentos originales o copias certificadas que el demandante tenga en su poder y que hayan de servir como pruebas de su parte.
 
@@ -274,9 +310,15 @@ Los documentos que presentare después no le serán admitidos, salvo tratándose
 
 Si el demandante no tuviera a su disposición los documentos a que se refiere este artículo, deberá designar el archivo o lugar en que se encuentran los originales, para que, antes de darle trámite a la demanda, a costa del demandante, el juez mande expedir copia de ellos.
 
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 24.
 
-Si el Juez no encuentra motivo de improcedencia o defecto en el escrito de solicitud o demanda de concurso mercantil, o si fueren subsanadas las deficiencias, admitirá aquélla. El auto admisorio de la solicitud o demanda dejará de surtir sus efectos si el actor no garantiza los honorarios del visitador, por un monto equivalente a mil quinientos días de salario mínimo vigente en el Distrito Federal, dentro de los tres días siguientes a la fecha en que se le notifique el auto admisorio.
+En caso de oscuridad, irregularidad o deficiencia en el escrito o anexos de solicitud o demanda de concurso mercantil, el juez dictará acuerdo en el que señalará con precisión en qué consisten ellas previniendo para que se aclaren y subsanen en el mismo expediente en un plazo máximo de diez días y de no hacerlo, el juez desechará y devolverá al interesado todos los documentos.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+Si el juez no encuentra motivo de improcedencia o defecto en la solicitud o demanda de concurso mercantil, o si fueren subsanadas las deficiencias ordenadas en la prevención que haga el juez, admitirá aquélla. El auto admisorio de la solicitud o demanda dejará de surtir sus efectos si el actor no garantiza los honorarios del visitador, por un monto equivalente a mil quinientos días de salario mínimo vigente en el Distrito Federal, dentro de los tres días siguientes a la fecha en que se le notifique el auto admisorio.
 
 La garantía se liberará a favor del actor si el juez desecha la solicitud o demanda o dicta sentencia que declare el concurso mercantil.
 
@@ -292,9 +334,13 @@ Admitida la demanda de concurso mercantil, el juez mandará citar al Comerciante
 
 El juez, a solicitud del Comerciante, o de oficio, dictará las providencias precautorias que considere necesarias a fin de evitar que se ponga en riesgo la viabilidad de la empresa con motivo de la demanda o de otras que se presenten durante la visita, o que se agrave dicho riesgo, para lograr salvaguardar el interés público previsto en el artículo primero de la presente Ley.
 
-Al día siguiente de que el juez reciba la contestación dará vista de ella al demandante para que dentro de un término de tres días manifieste lo que a su derecho convenga y, en su caso, adicione su ofrecimiento de pruebas.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
-Al día siguiente de que venza el plazo a que se refiere el primer párrafo de este artículo sin que el Comerciante haya presentado su contestación, el juez deberá certificar este hecho declarando precluido el derecho del Comerciante para contestar y se continuará con el procedimiento. La falta de contestación en tiempo hará presumir, salvo prueba en contrario, como ciertos los hechos contenidos en la demanda que sean determinantes para la declaración de concurso mercantil. El juez deberá dictar sentencia declarando el concurso mercantil dentro de los cinco días siguientes.
+Al día siguiente de que el juez reciba la contestación dará vista de ella al demandante para que dentro de un término de tres días manifieste lo que a su derecho convenga y, en su caso, adicione su ofrecimiento de pruebas con aquellas relacionadas con las excepciones opuestas por el Comerciante.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+Al día siguiente de que venza el plazo a que se refiere el primer párrafo de este artículo sin que el Comerciante haya presentado su contestación, el juez deberá certificar este hecho declarando precluido el derecho del Comerciante para contestar. La falta de contestación en tiempo hará presumir, salvo prueba en contrario, como ciertos los hechos contenidos en la demanda que sean determinantes para la declaración de concurso mercantil. El juez deberá dictar sentencia definitiva declarando el concurso mercantil dentro de los cinco días siguientes.
 
 ###### Artículo 27.
 
@@ -314,27 +360,37 @@ Al día siguiente de que el juez admita la demanda, deberá remitir copia de la 
 
 A más tardar al día siguiente de la designación del visitador, el Instituto lo deberá informar al juez y al visitador designado. El visitador, dentro de los cinco días que sigan al de su designación, comunicará al juez el nombre de las personas de las que se auxiliará para el desempeño de sus funciones sin que persona alguna no designada pueda actuar en la visita. Al día siguiente de que conozca de dichas designaciones, el juez dictará acuerdo dándolas a conocer a los interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 30.
 
-Desahogada la vista a la que hace referencia el segundo párrafo del artículo 26 del presente ordenamiento, deberá practicarse una visita al Comerciante, que tendrá por objeto que el visitador:
+Al día siguiente de aquel en que se desahogue la vista a la que hace referencia el tercer párrafo del artículo 26, y se verifiquen, en su caso, los supuestos establecidos en el segundo párrafo del artículo 29 del presente ordenamiento, el juez ordenará la práctica de una visita al Comerciante, que tendrá por objeto que el visitador:
 
 I. Dictamine si el Comerciante incurrió en los supuestos previstos en el artículo 10 de esta Ley, así como la fecha de vencimiento de los créditos relacionados con esos hechos, y
 
-II. Sugiera al juez las providencias precautorias que estime necesarias para la protección de la Masa, en los términos del artículo 37 de la misma.
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+II. En su caso, sugiera al juez las providencias precautorias que estime necesarias para la protección de la Masa, en los términos del artículo 37 de la misma.
 
 Cuando se trate de una sociedad mercantil controladora o controlada el visitador deberá asentar este hecho en su dictamen.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 31.
 
-Al día siguiente de que el juez reciba la designación del visitador por el Instituto, ordenará la visita. El auto correspondiente deberá expresar además, lo siguiente:
+El auto en que se ordene la práctica de la visita, deberá expresar además, lo siguiente:
 
 I. El nombre del visitador y el de sus auxiliares;
 
 II. El lugar o los lugares donde deba efectuarse la visita correspondiente, y
 
-III. Los libros, registros y demás documentos del Comerciante sobre los cuales versará la visita, así como el periodo que abarque la misma.
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
-El auto que ordene la visita tendrá efectos de mandamiento al Comerciante para que permita la realización de la visita.
+III. Los libros, registros y demás documentos del Comerciante sobre los cuales versará la visita.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+El auto que ordene la visita tendrá efectos de mandamiento al Comerciante para que permita la realización de la visita, apercibiéndole de que en caso de incumplimiento se procederá a declarar el concurso mercantil.
 
 ###### Artículo 32.
 
@@ -350,7 +406,9 @@ En caso de que a juicio del visitador sea necesaria la designación de lugares a
 
 El visitador deberá acreditar su nombramiento con la orden respectiva. Tanto el visitador como sus auxiliares deberán identificarse con el Comerciante antes de proceder a la visita.
 
-El visitador y sus auxiliares tendrán acceso a los libros de contabilidad, registros y estados financieros del Comerciante, así como a cualquier otro documento o medio electrónico de almacenamiento de datos en los que conste la situación financiera y contable de la empresa del Comerciante y que estén relacionados con el objeto de la visita. Asimismo, podrán llevar a cabo verificaciones directas de bienes y mercancías, de las operaciones, así como entrevistas con el personal directivo, gerencial y administrativo del Comerciante, incluyendo a sus asesores externos financieros, contables o legales.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+El visitador y sus auxiliares tendrán acceso a los libros de contabilidad, registros y estados financieros del Comerciante, así como a cualquier otro documento o medio electrónico de almacenamiento de datos en los que conste la situación financiera y contable de la empresa del Comerciante y que estén relacionados con el objeto de la visita. Asimismo, podrán llevar a cabo entrevistas con el personal directivo, gerencial y administrativo del Comerciante, incluyendo a sus asesores externos financieros, contables o legales.
 
 ###### Artículo 35.
 
@@ -402,11 +460,15 @@ Las manifestaciones del Comerciante relativas a la existencia de documentos prob
 
 El visitador, con base en la información que conste en el acta de visita, deberá rendir al juez, en un plazo de quince días naturales contados a partir de la fecha de inicio de la visita, un dictamen razonado y circunstanciado tomando en consideración los hechos planteados en la demanda y en la contestación, anexando al mismo, el acta de visita. El dictamen deberá ser presentado en los formatos que al efecto dará a conocer el Instituto.
 
-El visitador deberá presentar su dictamen en el plazo a que se refiere el párrafo anterior, sin embargo, por causa justificada, podrá solicitar al juez una prórroga para su presentación. La prórroga en ningún caso podrá exceder de quince días naturales.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+El visitador deberá presentar su dictamen en el plazo a que se refiere el párrafo anterior, sin embargo, por causa justificada, podrá solicitar al juez una prórroga para terminar la visita y rendir el dictamen. La prórroga en ningún caso podrá exceder de quince días naturales.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 41.
 
-El juez al día siguiente de aquel en que reciba el dictamen del visitador lo pondrá a la vista del Comerciante, de sus acreedores y del Ministerio Público para que dentro de un plazo común de diez días presenten sus alegatos por escrito, y para los demás efectos previstos en esta Ley.
+El juez al día siguiente de aquel en que reciba el dictamen del visitador lo pondrá a la vista del Comerciante, del acreedor o acreedores demandantes y del Ministerio Público en caso de que éste haya demandado el concurso mercantil, para que dentro de un plazo común de diez días presenten sus alegatos por escrito, y para los demás efectos previstos en esta Ley.
 
 ### Capítulo V. De la sentencia de concurso mercantil
 
@@ -422,13 +484,17 @@ I. Nombre, denominación o razón social y Domicilio del Comerciante y, en su ca
 
 II. La fecha en que se dicte;
 
-III. La fundamentación de la sentencia en términos de lo establecido en el artículo 10 de esta Ley, así como, en su caso, una lista de los acreedores que el visitador hubiese identificado en la contabilidad del Comerciante, señalando el monto de los adeudos con cada uno de ellos, sin que ello agote el procedimiento de reconocimiento, graduación y prelación de créditos a que se refiere el Título Cuarto de esta Ley;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+III. La fundamentación de la sentencia en términos de lo establecido en el artículo 10 de esta Ley, así como, en su caso, una lista de los acreedores que el visitador hubiese identificado en la contabilidad del Comerciante, sin que ello agote el procedimiento de reconocimiento, graduación y prelación de créditos a que se refiere el Título Cuarto de esta Ley;
 
 IV. La orden al Instituto para que designe al conciliador a través del mecanismo aleatorio previamente establecido, junto con la determinación de que, entretanto, el Comerciante, sus administradores, gerentes y dependientes tendrán las obligaciones que la ley atribuye a los depositarios;
 
 V. La declaración de apertura de la etapa de conciliación, salvo que el Comerciante haya solicitado su quiebra;
 
-VI. La orden al Comerciante de poner de inmediato a disposición del conciliador los libros, registros y demás documentos de su empresa, así como los recursos necesarios para sufragar las publicaciones previstas en la presente Ley;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+VI. La orden al Comerciante de poner de inmediato a disposición del conciliador los libros, registros y demás documentos de su empresa, así como los recursos necesarios para sufragar los gastos de registro y las publicaciones previstas en la presente Ley;
 
 VII. El mandamiento al Comerciante para que permita al conciliador y a los interventores, la realización de las actividades propias de sus cargos;
 
@@ -448,13 +514,17 @@ XIV. El aviso a los acreedores para que aquéllos que así lo deseen soliciten e
 
 XV. La orden de que se expida, a costa de quien lo solicite, copia certificada de la sentencia.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 44.
 
-Al día siguiente de que se dicte sentencia que declare el concurso mercantil, el juez deberá notificarla personalmente al Comerciante, al Instituto, al visitador, a los acreedores cuyos domicilios se conozcan y a las autoridades fiscales competentes, por correo certificado o por cualquier otro medio establecido en las leyes aplicables. Al Ministerio Público se le notificará por oficio. Igualmente, deberá notificarse por oficio al representante sindical y, en su defecto, al Procurador de la Defensa del Trabajo.
+Al día siguiente de que se dicte sentencia que declare el concurso mercantil, el juez deberá notificarla personalmente al Comerciante, al Instituto, y al visitador. A los acreedores cuyos domicilios se conozcan y a las autoridades fiscales competentes, se les notificará por correo certificado o por cualquier otro medio establecido en las leyes aplicables. Al Ministerio Público se le notificará en caso de que sea el demandante, por oficio. Igualmente, deberá notificarse por oficio al representante sindical y, en su defecto, al Procurador de la Defensa del Trabajo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 45.
 
-Dentro de los cinco días siguientes a su designación, el conciliador procederá a solicitar la inscripción de la sentencia de concurso mercantil en los registros públicos que correspondan y hará publicar un extracto de la misma, por dos veces consecutivas, en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación en la localidad donde se siga el juicio.
+Dentro de los cinco días siguientes a su designación, el conciliador procederá a solicitar la inscripción de la sentencia de concurso mercantil en los registros públicos que correspondan y hará publicar un extracto de la misma en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación en la localidad donde se siga el juicio, pudiéndose también difundir por otros medios que el Instituto estime conveniente.
 
 Las partes que no hayan sido notificadas en términos del artículo anterior, se entenderán notificadas de la declaración de concurso mercantil, en el día en que se haga la última publicación de las señaladas en este artículo.
 
@@ -466,13 +536,21 @@ Transcurridos cinco días contados a partir del vencimiento del plazo para la pu
 
 La sentencia producirá los efectos del arraigo del Comerciante y, tratándose de personas morales quien o quienes sean responsables de la administración, para el solo efecto de que no puedan separarse del lugar de su Domicilio sin dejar, mediante mandato, apoderado suficientemente instruido y expensado. Cuando quien haya sido arraigado demuestre haber dado cumplimiento a lo anterior, el juez levantará el arraigo.
 
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+El arraigo previsto en el párrafo que antecede, no será aplicable en aquellos casos en que el concurso mercantil hubiere sido solicitado directamente por el Comerciante.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 48.
 
-La sentencia que declare que no es procedente el concurso mercantil, ordenará que las cosas vuelvan al estado que tenían con anterioridad a la misma, y el levantamiento de las providencias precautorias que se hubieren impuesto o la liberación de las garantías que se hayan constituido para evitar su imposición. La sentencia deberá ser notificada personalmente al Comerciante y, en su caso, a los acreedores que lo hubieren demandado. Al Ministerio Público se le notificará por oficio.
+La sentencia que declare que no es procedente el concurso mercantil, ordenará que las cosas vuelvan al estado que tenían con anterioridad a la misma, y el levantamiento de las providencias precautorias que se hubieren impuesto o la liberación de las garantías que se hayan constituido para evitar su imposición. La sentencia deberá ser notificada personalmente al Comerciante y, en su caso, a los acreedores que lo hubieren demandado. Al Ministerio Público demandante se le notificará por oficio.
 
 En todos los casos deberán respetarse los actos de administración legalmente realizados, así como los derechos adquiridos por terceros de buena fe.
 
-El juez condenará al demandante a pagar los gastos y costas judiciales, incluidos los honorarios y gastos del visitador.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+El juez condenará al acreedor demandante, o al solicitante, en su caso, a pagar los gastos y costas judiciales, incluidos los honorarios y gastos del visitador.
 
 ### Capítulo VI. De la apelación de la sentencia de concurso mercantil
 
@@ -480,7 +558,9 @@ El juez condenará al demandante a pagar los gastos y costas judiciales, incluid
 
 Contra la sentencia que niegue el concurso mercantil, procede el recurso de apelación en ambos efectos, contra la que lo declare, procede únicamente en el efecto devolutivo.
 
-Podrán interponer el recurso de apelación el Comerciante, el visitador, los acreedores demandantes y el Ministerio Público.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+Podrán interponer el recurso de apelación el Comerciante, el visitador, los acreedores demandantes y el Ministerio Público demandante.
 
 ###### Artículo 50.
 
@@ -530,13 +610,17 @@ La impugnación del nombramiento del visitador, conciliador o síndico no impedi
 
 Cuando la presente Ley no determine un plazo para el cumplimiento de las obligaciones del visitador, del conciliador o del síndico, se entenderá que deberán llevarlas a cabo en un plazo de treinta días naturales salvo que, a petición del visitador, conciliador o síndico, el juez autorice un plazo mayor, el cual no podrá exceder de treinta días naturales más.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 59.
 
-El síndico y, en su caso, el conciliador, deberán rendir bimestralmente ante el juez un informe de las labores que realicen en la empresa del Comerciante y deberán presentar un informe final sobre su gestión. Todos los informes serán puestos a la vista del Comerciante, de los acreedores y de los interventores por conducto del juez.
+El síndico y, en su caso, el conciliador, deberán rendir bimestralmente ante el juez un informe de las labores que realicen en la empresa del Comerciante y deberán presentar un informe final sobre su gestión. Todos los informes serán puestos a la vista del Comerciante, de los acreedores, del Ministerio Público demandante y de los interventores por conducto del juez.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 60.
 
-El Comerciante, los interventores y los propios acreedores, de manera individual, podrán denunciar ante el juez los actos u omisiones del visitador, del conciliador y del síndico que no se apeguen a lo dispuesto por esta Ley. El juez dictará las medidas de apremio que estime convenientes y, en su caso, podrá solicitar al Instituto la sustitución del visitador, conciliador o síndico a fin de evitar daños a la Masa.
+El Comerciante, el Ministerio Público demandante, los interventores y los propios acreedores, de manera individual, podrán denunciar ante el juez los actos u omisiones del visitador, del conciliador y del síndico que no se apeguen a lo dispuesto por esta Ley. El juez dictará las medidas de apremio que estime convenientes y, en su caso, podrá solicitar al Instituto la sustitución del visitador, conciliador o síndico a fin de evitar daños a la Masa.
 
 Cuando por sentencia firme se condene a algún visitador, conciliador o síndico al pago de daños y perjuicios, el juez deberá enviar copia de la misma al Instituto para efectos de lo previsto en la fracción VI del artículo 337 de este ordenamiento.
 
@@ -674,9 +758,11 @@ El vendedor y los demás separatistas tienen la obligación previa de reintegrar
 
 Durante la etapa de conciliación, la administración de la empresa corresponderá al Comerciante, salvo lo dispuesto en el artículo 81 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 75.
 
-Cuando el Comerciante continúe con la administración de su empresa, el conciliador vigilará la contabilidad y todas las operaciones que realice el Comerciante.
+Cuando el Comerciante continúe con la administración de su empresa, efectuará las operaciones ordinarias incluyendo los gastos indispensables para ellas y el conciliador vigilará la contabilidad y todas las operaciones que realice el Comerciante.
 
 El conciliador decidirá sobre la resolución de contratos pendientes y aprobará, previa opinión de los interventores, en caso de que existan, la contratación de nuevos créditos, la constitución o sustitución de garantías y la enajenación de activos cuando no estén vinculadas con la operación ordinaria de la empresa del Comerciante. El conciliador deberá dar cuenta de ello al juez. Cualquier objeción se substanciará incidentalmente.
 
@@ -1000,15 +1086,19 @@ Cuando se resuelva la devolución a la Masa de algún objeto o cantidad, se ente
 
 Para el desempeño de las funciones que le atribuye este Título, el conciliador permanecerá en su encargo con independencia de que la etapa de conciliación se dé por terminada.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 121.
 
-Dentro de los treinta días naturales siguientes a la fecha de la última publicación de la sentencia de concurso mercantil en el Diario Oficial, el conciliador deberá presentar al juez una lista provisional de créditos a cargo del Comerciante en el formato que al efecto determine el Instituto. Dicha lista deberá elaborarse con base en la contabilidad del Comerciante; los demás documentos que permitan determinar su pasivo; la información que el propio Comerciante y su personal estarán obligados a proporcionar al conciliador, así como, en su caso, la información que se desprenda del dictamen del visitador y de las solicitudes de reconocimiento de créditos que se presenten.
+Dentro de los treinta días naturales siguientes a la fecha de la publicación de la sentencia de concurso mercantil en el Diario Oficial, el conciliador deberá presentar al juez una lista provisional de créditos a cargo del Comerciante en el formato que al efecto determine el Instituto. Dicha lista deberá elaborarse con base en la contabilidad del Comerciante; los demás documentos que permitan determinar su pasivo; la información que el propio Comerciante y su personal estarán obligados a proporcionar al conciliador, así como, en su caso, la información que se desprenda del dictamen del visitador y de las solicitudes de reconocimiento de créditos que se presenten.
 
 ###### Artículo 122.
 
 Los acreedores podrán solicitar el reconocimiento de sus créditos:
 
-I. Dentro de los veinte días naturales siguientes a la fecha de la última publicación de la sentencia de concurso mercantil;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+I. Dentro de los veinte días naturales siguientes a la fecha de la publicación de la sentencia de concurso mercantil en el Diario Oficial de la Federación;
 
 II. Dentro del plazo para formular objeciones a la lista provisional a que se refiere el artículo 129 de esta Ley, y
 
@@ -1068,7 +1158,9 @@ III. Las garantías, condiciones, términos y otras características del crédit
 
 IV. El grado y prelación que de conformidad con lo dispuesto en esta Ley, estime le correspondan al crédito.
 
-El conciliador deberá integrar a la lista provisional de créditos, una relación en la que exprese, respecto de cada crédito, las razones y las causas en las que apoya su propuesta, justificando las diferencias que, en su caso, existan con respecto a lo registrado en la contabilidad del Comerciante o a lo solicitado por el acreedor. Asimismo, deberá incluir una lista razonada de aquellos créditos cuyo reconocimiento fue solicitado y que propone no reconocer.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+El conciliador deberá integrar a la lista provisional de créditos, una relación en la que exprese, respecto de cada crédito, las razones y las causas en las que apoya su propuesta, justificando las diferencias que, en su caso, existan con respecto a lo registrado en la contabilidad del Comerciante o a lo solicitado por el acreedor. Asimismo, deberá incluir una lista razonada de aquellos créditos que propone no reconocer.
 
 El conciliador deberá acompañar a la lista provisional de créditos aquellos documentos que considere hayan servido de base para su formulación, los cuales formarán parte integrante de la misma o bien, indicar el lugar en donde se encuentren.
 
@@ -1076,9 +1168,11 @@ El conciliador deberá acompañar a la lista provisional de créditos aquellos d
 
 Una vez que el conciliador presente al juez la lista provisional de créditos, éste la pondrá a la vista del Comerciante y de los acreedores para que dentro del término improrrogable de cinco días naturales presenten por escrito al conciliador, por conducto del juez, sus objeciones, acompañadas de los documentos que estimen pertinentes, lo que será puesto a disposición del conciliador por conducto del juez, al día siguiente de su recepción.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 130.
 
-El conciliador contará con un plazo improrrogable de diez días contados a partir de aquel en que venza el plazo a que se refiere el artículo anterior, para la formulación y presentación al juez de la lista definitiva de reconocimiento de créditos presentados en términos de la fracción I del artículo 122, así como los fiscales y laborales que hasta ese plazo hubieren sido notificados al Comerciante, anexando en su caso todas las solicitudes adicionales presentadas con posterioridad a la elaboración de la lista provisional de créditos.
+El conciliador contará con un plazo improrrogable de diez días contados a partir de aquel en que venza el plazo a que se refiere el artículo anterior, para la formulación y presentación al juez de la lista definitiva de reconocimiento de créditos, misma que deberá elaborar con base en la lista provisional de créditos y en las objeciones que en su caso se presenten en su contra y en donde se incluyan en los términos aprobados en sentencia que constituye cosa juzgada los créditos respecto de los cuales se conozca la existencia de sentencia firme, así como los créditos fiscales y laborales que hasta ese plazo hubieren sido notificados al Comerciante, atendiendo además todas las solicitudes adicionales presentadas con posterioridad a la elaboración de la lista provisional de créditos.
 
 Si el conciliador omite la presentación de la lista definitiva al vencimiento del plazo a que se refiere el párrafo anterior el juez dictará las medidas de apremio que sean necesarias al efecto y, en caso de que no la presente en cinco días más, solicitará al Instituto que designe a un nuevo conciliador.
 
@@ -1112,9 +1206,11 @@ IV. La apelación respecto de los créditos cuyo reconocimiento se solicite.
 
 Contra la sentencia de reconocimiento, graduación y prelación de créditos procede el recurso de apelación. Dicho recurso únicamente se admitirá en efecto devolutivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 136.
 
-Podrán apelar a la sentencia de reconocimiento, graduación y prelación de créditos por sí o por conducto de sus representantes, el Comerciante, cualquier acreedor, los interventores, el conciliador o, en su caso, el síndico, o el Ministerio Público.
+Podrán apelar a la sentencia de reconocimiento, graduación y prelación de créditos por sí o por conducto de sus representantes, el Comerciante, cualquier acreedor, los interventores, el conciliador o, en su caso, el síndico, o el Ministerio Público demandante del concurso.
 
 Lo anterior, independientemente de que el acreedor apelante se haya abstenido de solicitar su reconocimiento de crédito o de realizar objeción alguna respecto de la lista provisional.
 
@@ -1164,7 +1260,9 @@ La etapa de conciliación tendrá una duración de ciento ochenta y cinco días 
 
 El conciliador o los Acreedores Reconocidos que representen por lo menos las dos terceras partes del monto total de los créditos reconocidos, podrán solicitar al juez una prórroga de hasta noventa días naturales contados a partir de la fecha en que concluya el plazo señalado en el párrafo anterior, cuando consideren que la celebración de un convenio esté próxima a ocurrir.
 
-El Comerciante y el noventa por ciento de los Acreedores Reconocidos podrán solicitar al Juez una ampliación de hasta por noventa días más de la prórroga a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+El Comerciante y los Acreedores Reconocidos que representen el noventa por ciento del monto total de los créditos reconocidos, podrán solicitar al juez una ampliación de hasta por noventa días naturales más de la prórroga a que se refiere el párrafo anterior.
 
 En ningún caso el plazo de la etapa de conciliación y su prórroga podrá exceder de trescientos sesenta y cinco días naturales contados a partir de la fecha en que se hubiese realizado la última publicación de la sentencia de concurso mercantil en el Diario Oficial de la Federación.
 
@@ -1360,9 +1458,11 @@ Al día siguiente de la designación del síndico, el Instituto lo hará del con
 
 El síndico deberá inscribir la sentencia de quiebra y publicar un extracto de la misma en términos de lo previsto en el artículo 45 de este ordenamiento.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 172.
 
-El síndico deberá hacer del conocimiento de los acreedores su nombramiento y señalar un domicilio, dentro de la jurisdicción del juez que conozca del concurso mercantil, para el cumplimiento de las obligaciones que esta Ley le impone.
+El síndico deberá hacer del conocimiento de los acreedores su nombramiento y señalar un domicilio, dentro de la jurisdicción del juez que conozca del concurso mercantil, para el cumplimiento de las obligaciones que esta Ley le impone, dentro de los tres días siguientes a aquel en que se le dé a conocer su designación.
 
 ###### Artículo 173.
 
@@ -1390,9 +1490,13 @@ La sentencia de quiebra será apelable por el Comerciante, cualquier Acreedor Re
 
 Sujeto a lo que se establece en este Capítulo, las disposiciones sobre los efectos de la sentencia de concurso mercantil son aplicables a la sentencia de quiebra.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 177.
 
-Las facultades y obligaciones atribuidas por esta Ley al conciliador, distintas a las necesarias para la consecución de un convenio y el reconocimiento de créditos, se entenderán atribuidas al síndico a partir de su designación. Cuando la etapa de conciliación termine anticipadamente debido a que el Comerciante hubiere solicitado su declaración de quiebra y el juez la hubiere concedido, la persona que hubiere iniciado el reconocimiento de créditos permanecerá en su encargo hasta concluir esa labor.
+Sin perjuicio de lo ordenado en el párrafo segundo, las facultades y obligaciones atribuidas por esta Ley al conciliador, distintas a las necesarias para la consecución de un convenio y el reconocimiento de créditos, se entenderán atribuidas al síndico a partir de su designación. Cuando la etapa de conciliación termine anticipadamente debido a que el Comerciante hubiere solicitado su declaración de quiebra, o concluido el plazo de la conciliación y sus prórrogas en su caso, y el juez la haya concedido, la persona que hubiese iniciado el reconocimiento de créditos permanecerá en su encargo hasta concluir esa labor.
+
+En caso de que el concurso mercantil inicie en la etapa de quiebra, el síndico tendrá además las facultades que esta Ley atribuye al conciliador para efectos del reconocimiento de créditos.
 
 ###### Artículo 178.
 
@@ -1774,11 +1878,15 @@ I. Los referidos en la fracción XXIII, apartado A, del artículo 123 constituci
 
 II. Los contraídos para la administración de la Masa por el Comerciante con autorización del conciliador o síndico o, en su caso, los contratados por el propio conciliador;
 
-III. Los contraídos para atender los gastos normales para la seguridad de los bienes de la Masa, su refacción, conservación y administración;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
-IV. Los procedentes de diligencias judiciales o extrajudiciales en beneficio de la Masa, y
+III. Los contraídos para atender los gastos normales para la seguridad de los bienes de la Masa, su refacción, conservación y administración, y
 
-V. Los honorarios del visitador, conciliador y síndico y los gastos en que éstos hubieren incurrido, siempre y cuando fueren estrictamente necesarios para su gestión y hayan sido debidamente comprobados conforme a las disposiciones que emita el Instituto.
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+IV. Los procedentes de diligencias judiciales o extrajudiciales en beneficio de la Masa.
+
+V. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2007)
 
 ###### Artículo 225.
 
@@ -1990,9 +2098,15 @@ II. Si se hubiere efectuado el pago íntegro a los Acreedores Reconocidos;
 
 III. Si se hubiere efectuado pago a los Acreedores Reconocidos mediante cuota concursal de las obligaciones del Comerciante, y no quedaran más bienes por realizarse;
 
-IV. Si se demuestra que la Masa es insuficiente, aun para cubrir los créditos a que se refiere el artículo 224 de esta Ley, o
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
-V. En cualquier momento en que lo soliciten el Comerciante y la totalidad de los Acreedores Reconocidos.
+IV. Si se demuestra que la Masa es insuficiente, aun para cubrir los créditos a que se refiere el artículo 224 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+V. En la etapa de quiebra, cuando se apruebe un convenio por el Comerciante y la totalidad de los Acreedores Reconocidos, o
+
+VI. En cualquier momento en que lo soliciten el Comerciante y la totalidad de los Acreedores Reconocidos.
 
 ###### Artículo 263.
 
@@ -2388,6 +2502,10 @@ Salvo prueba en contrario, el reconocimiento de un Procedimiento Extranjero Prin
 
 Sin perjuicio de los derechos de los titulares de créditos con privilegio especial, con garantía real o de los derechos reales, un acreedor que haya recibido un cobro parcial respecto de su crédito en un procedimiento seguido en un Estado extranjero, con arreglo a una norma relativa a la insolvencia, no podrá recibir un nuevo dividendo por ese mismo crédito en un procedimiento de insolvencia que se siga con arreglo a esta Ley respecto de ese mismo Comerciante, en tanto que el dividendo recibido por los demás acreedores de la misma categoría sea proporcionalmente inferior al cobro ya recibido por el acreedor.
 
+## TITULO DÉCIMO CUARTO. Del concurso mercantil con plan de reestructura previo
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ### Capítulo I. De la Naturaleza y Atribuciones
 
 ###### Artículo 311.
@@ -2410,19 +2528,23 @@ VII. Establecer el régimen aplicable a la remuneración de los visitadores, con
 
 VIII. Supervisar la prestación de los servicios que realicen los visitadores, conciliadores y síndicos, en los procedimientos de concurso mercantil;
 
-IX. Promover la capacitación y actualización de los visitadores, conciliadores y síndicos, inscritos en los registros correspondientes;
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
-X. Realizar y apoyar análisis, estudios e investigaciones relacionados con sus funciones;
+IX. Fungir como órgano consultivo del visitador, del conciliador y del síndico, en su carácter de órgano del concurso mercantil y, en su caso, de los órganos jurisdiccionales encargados de la aplicación de esta Ley, en lo relativo a los criterios de interpretación y aplicación de sus disposiciones, siempre con el propósito de lograr la consecución de los fines establecidos en el segundo párrafo del Artículo 1o. del presente ordenamiento. Las opiniones que emita el Instituto en ejercicio de esta atribución no tendrán carácter obligatorio;
 
-XI. Difundir sus funciones, objetivos y procedimientos, así como las disposiciones que expida conforme a esta Ley;
+X. Promover la capacitación y actualización de los visitadores, conciliadores y síndicos, inscritos en los registros correspondientes;
 
-XII. Elaborar y dar a conocer estadísticas relativas a los concursos mercantiles;
+XI. Realizar y apoyar análisis, estudios e investigaciones relacionados con sus funciones;
 
-XIII. Expedir las reglas de carácter general necesarias para el ejercicio de las atribuciones señaladas en las fracciones IV, V, VII y XI de este artículo;
+XII. Difundir sus funciones, objetivos y procedimientos, así como las disposiciones que expida conforme a esta Ley;
 
-XIV. Informar semestralmente al Congreso de la Unión sobre el desempeño de sus funciones, y
+XIII. Elaborar y dar a conocer estadísticas relativas a los concursos mercantiles;
 
-XV. Las demás que le confiera esta Ley.
+XIV. Expedir las reglas de carácter general necesarias para el ejercicio de las atribuciones señaladas en las fracciones IV, V, VII y XII de este artículo;
+
+XV. Informar semestralmente al Congreso de la Unión sobre el desempeño de sus funciones, y
+
+XVI. Las demás que le confiera esta Ley.
 
 ###### Artículo 312.
 
@@ -2558,7 +2680,7 @@ IV. Cumplir con los procedimientos de selección que le aplique el Instituto, as
 
 V. No haber sido condenado mediante sentencia ejecutoriada, por delito intencional que merezca pena corporal, ni inhabilitado para empleo, cargo o comisión en el servicio público, el sistema financiero, o para ejercer el comercio.
 
-Las personas que cumplan con los requisitos señalados en este artículo, serán inscritas por el Instituto en los registros de visitadores, conciliadores o síndicos, previo pago de los derechos correspondientes.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 327.
 
@@ -2622,9 +2744,13 @@ IX. Cumplir con las demás que ésta u otras leyes establezcan.
 
 El visitador, conciliador y el síndico, así como sus auxiliares, tendrán derecho al cobro de honorarios por la realización de las funciones que esta Ley les encomienda. El régimen aplicable a los honorarios será determinado por el Instituto mediante reglas de carácter general, de conformidad con lo siguiente:
 
-I. Serán contra la Masa y se considerarán créditos en contra de la misma;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
-II. Se pagarán en los términos que determine el Instituto, y
+I. Serán considerados como gastos de operación ordinaria del Comerciante, por lo que, al equipararse al supuesto establecido en el artículo 75, no se deberá interrumpir su pago por quien tenga la administración, sin importar la etapa en que se encuentre el procedimiento concursal;
+
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+II. Se pagarán en los términos que determine el Instituto, que tomará en consideración en cuanto a la temporalidad en que deben cubrirse, lo previsto en el último párrafo de este artículo, y
 
 III. Serán acordes con las condiciones del mercado laboral y tendientes a lograr la inscripción de personas idóneas y debidamente calificadas para el desempeño de sus funciones en el registro a que se refiere el Capítulo siguiente.
 
@@ -2668,6 +2794,46 @@ VI. Hayan sido condenados por sentencia ejecutoriada al pago de daños y perjuic
 
 La Junta Directiva del Instituto resolverá sobre la amonestación, la suspensión temporal o la cancelación del registro de los visitadores, conciliadores y síndicos, dando audiencia al interesado. Contra la resolución que dicte la Junta Directiva no procederá recurso alguno.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 339.
+
+Será admitida a trámite la solicitud de concurso mercantil con plan de reestructura cuando:
+
+I. La solicitud reúna todos los requisitos que ordena el artículo 20 de esta Ley;
+
+II. La solicitud la suscriba el Comerciante con los titulares de cuando menos el cuarenta por ciento del total de sus adeudos.
+
+Para la admisión del concurso mercantil con plan de reestructura será suficiente que el Comerciante manifieste bajo protesta de decir verdad que las personas que firman la solicitud representan cuando menos el cuarenta por ciento del total de sus adeudos;
+
+III. El Comerciante manifieste bajo protesta de decir verdad que:
+
+a). Se encuentra dentro de los supuestos de los artículos 10 y 11 de esta Ley, explicando los motivos, o
+
+b). Es inminente que se encuentre dentro de los supuestos de los artículos 10 y 11 de esta Ley, explicando los motivos.
+
+Por inminencia debe entenderse un periodo inevitable de treinta días, y
+
+IV. La solicitud venga acompañada de una propuesta de plan de reestructura de pasivos del Comerciante, firmada por los acreedores referidos en la fracción II.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 340.
+
+El Comerciante y los acreedores que suscriban la solicitud de concurso mercantil con plan de reestructura podrán pedir al juez las providencias precautorias que contempla el artículo 37 de esta Ley y el Código de Comercio.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 341.
+
+Si la solicitud de concurso mercantil con plan de reestructura reúne todos los anteriores requisitos, el juez dictará sentencia que declare el concurso mercantil con plan de reestructura sin que sea necesario designar visitador.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 342.
+
+La sentencia de concurso mercantil deberá reunir los requisitos que esta Ley le exige y a partir de ese momento el concurso mercantil con plan de reestructura se tramitará como un concurso mercantil ordinario, con la única salvedad de que el conciliador deberá considerar el plan de reestructura exhibido con la solicitud al proponer cualquier convenio.
+
 ## TRANSITORIOS
 
 PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2697,3 +2863,9 @@ NOVENO.- Dentro de los 5 años siguientes a su entrada en vigor, la presente Ley
 México, D.F., a 27 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Enrique González Pedrero, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE DICIEMBRE DE 2007.
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
