@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-jalisciense-de-la-juventud-39
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-29"
-last_updated: "2004-04-29"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de abril de 2004.
 
@@ -95,11 +95,29 @@ VI. Coordinación de Investigación, Planeación y Evaluación;
 
 VII. Coordinación de Servicios Juveniles;
 
-VIII. Contralor Interno;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-IX. Consejo Estatal de la Juventud; y
+VIII. Coordinación de Comunicación;
 
-X. Las unidades técnicas y administrativas que determinen las autoridades del mismo y que se autoricen en su presupuesto de egresos.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+IX. Coordinación de Gestión y Procuración de Fondos;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+X. Coordinación de la Red Vanguardia Jalisco;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+XI. Contralor Interno;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+XII. Consejo Estatal de la Juventud; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+XIII. Las unidades técnicas y administrativas que determinen las autoridades del mismo y que se autoricen en su presupuesto de egresos.
 
 ### CAPÍTULO III. DE LA JUNTA DIRECTIVA
 
@@ -353,11 +371,11 @@ XII. Las demás funciones que el presente Reglamento y demás disposiciones jur�
 
 ### CAPÍTULO IX. DE LAS COORDINACIONES
 
-> <small>(F. DE E., P.O. 22 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 30.
 
-El Instituto para su funcionamiento contará con cuatro coordinaciones;
+El Instituto para su funcionamiento contará con las siguientes coordinaciones:
 
 I. La Coordinación Administrativa;
 
@@ -365,7 +383,19 @@ II. La Coordinación de Investigación, Planeación y Evaluación;
 
 III. La Coordinación de Promoción y Vinculación;
 
-IV. La Coordinación de Servicios Juveniles.
+IV. La Coordinación de Servicios Juveniles;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+V. La Coordinación de Comunicación;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+VI. La Coordinación de Gestión y Procuración de Fondos; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+VII. La Coordinación de la Red Vanguardia Jalisco.
 
 ###### Artículo 31.
 
@@ -505,15 +535,85 @@ VIII. Propiciar en los jóvenes las condiciones óptimas para el ejercicio libre
 
 IX. Promover acciones educativas, de participación juvenil y de coordinación interinstitucional con el fin de fomentar la equidad de género entre y hacia los jóvenes.
 
-### CAPÍTULO XIV. DE LA CONTRALORIA INTERNA
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-### CAPÍTULO XV. DEL CONSEJO ESTATAL DE LA JUVENTUD
+### CAPÍTULO XIV. DE LA COORDINACIÓN DE COMUNICACIÓN
 
-### CAPÍTULO XVI. DEL FUNCIONAMIENTO DEL CONSEJO
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-### CAPÍTULO XVII. DE LAS SUPLENCIAS
+Artículo 35 A. La Coordinación de Comunicación tiene las siguientes atribuciones:
 
-> <small>(F. DE E., P.O. 22 DE MAYO DE 2004)</small>
+I. Establecer mecanismos eficientes para establecer y retroalimentar las vías de comunicación formal del Instituto;
+
+II. Fomentar la transmisión eficiente de información que ayude a dar a conocer las labores que desarrolla el Instituto, con la finalidad de acercar los programas y servicios a la población joven de Jalisco;
+
+III. Fomentar el conocimiento del Instituto, así como mejorar su imagen organizacional en el sector juvenil;
+
+IV. Promover campañas mediáticas que fomenten en los jóvenes conductas y valores que les ayuden a desarrollarse de manera integral;
+
+V. Generar esquemas de comunicación social que ayuden a establecer lazos de cooperación e intercambio entre el Instituto y la comunidad joven;
+
+VI. Promover estrategias que fomenten actividades coordinadas entre líderes sociales, políticos y económicos con el Instituto, a favor de la juventud jalisciense;
+
+VII. Establecer mecanismos que permitan crear lazos interinstitucionales para la elaboración de políticas públicas integrales que favorezcan el desarrollo juvenil en el Estado;
+
+VIII. Fomentar la utilización de mecanismos de comunicación de vanguardia que hagan posible una mayor y más eficaz comunicación con los jóvenes; y
+
+IX. Promover la difusión de temas que permitan sensibilizad (sic) a la sociedad sobre problemas o fenómenos que afecten a la juventud.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+### CAPÍTULO XV. DE LA COORDINACIÓN DE PROCURACIÓN Y GESTIÓN DE FONDOS
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Artículo 35 B. La coordinación de procuración y gestión de fondos tiene las siguientes atribuciones:
+
+I. Establecer los lineamientos y políticas generales de patrocinio para el Instituto;
+
+II. Crear y administrar el padrón de donadores del Instituto;
+
+III. Solicitar a las diferentes coordinaciones del Instituto los proyectos y programas que requieran de la donación de recursos materiales o financieros;
+
+IV. Elaborar proyectos y programas encaminados a la obtención de donaciones;
+
+V. Generar los vínculos y las relaciones públicas necesarios con organismos de la sociedad y el gobierno que facilite la procuración y gestión de fondos para el Instituto;
+
+VI. Gestionar en la iniciativa privada, la donación de recursos materiales y financieros para el trabajo, cumplimiento y desarrollo de los fines Instituto (sic);
+
+VII. Gestionar en los diferentes niveles de gobierno, la donación de recursos materiales y financieros para el trabajo, cumplimiento y desarrollo de los fines Instituto (sic);
+
+VIII. Gestionar en los Organismos Nacionales e Internacionales, la donación de recursos materiales y financieros para el trabajo, cumplimiento y desarrollo de los fines Instituto (sic);
+
+IX. Diseñar estrategias de temporalidad para eficientar la procuración y gestión de fondos para el Instituto; y
+
+X. Establecer un mecanismo de capacitación en materia de procuración y gestión de fondos para Organizaciones de la Sociedad.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+### CAPÍTULO XVI. DE LA COORDINACIÓN DE LA RED VANGUARDIA JALISCO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Artículo 35 C. La Coordinación de la Red Vanguardia Jalisco tiene las siguientes atribuciones:
+
+I. Fomentar la creación y dar seguimiento a una red de jóvenes líderes en el Estado, que encabecen la vanguardia del desarrollo de Jalisco;
+
+II. Generar mecanismos institucionales que permitan establecer un esquema de evaluación y retroalimentación del gobierno estatal por parte de los jóvenes jaliscienses;
+
+III. Promover la realización de eventos que permitan a la red de jóvenes acceder a experiencias y conocimientos que alienten a su formación profesional y fortalezcan su liderazgo social;
+
+IV. Fomentar la vinculación de la red vanguardia Jalisco con diversos sectores productivos y sociales del Estado con la finalidad de generalizar alianzas y colaboraciones de beneficio compartido;
+
+V. Alentar la creación de proyectos desde la red vanguardia que fomenten el desarrollo integral de los jóvenes y en general del Estado;
+
+VI. Propiciar que los miembros de la red vanguardia Jalisco accedan a medios de comunicación con la finalidad de que se conviertan en líderes de opinión; y
+
+VII. Promover la integración de nuevos jóvenes a la red vanguardia que permitan darle sustento en el largo plazo a una interacción constructiva entre la juventud y el gobierno de Jalisco.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XIV], P.O. 27 DE DICIEMBRE DE 2007)
+
+### CAPÍTULO XVII. DE LA CONTRALORÍA INTERNA
 
 ###### Artículo 36.
 
@@ -532,6 +632,10 @@ III. Establecer los sistemas de control necesarios para alcanzar metas u objetiv
 IV. Supervisar que las convocatorias, licitaciones e invitaciones que se hagan para cualquier clase de adquisición y enajenación estén sujetas a lo previsto en el manual de políticas, bases y lineamientos para adquisiciones y enajenaciones; y
 
 V. Supervisar que se efectúen correctamente los registros y la aplicación de subsidios autorizados, los ingresos propios y los apoyos otorgados por diversas instituciones públicas y privadas.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XV], P.O. 27 DE DICIEMBRE DE 2007)
+
+### CAPÍTULO XVIII. DEL CONSEJO ESTATAL DE LA JUVENTUD
 
 ###### Artículo 38.
 
@@ -571,6 +675,10 @@ IV. Presentar a la Junta, por conducto del Director del Instituto, un informe an
 
 V. Las demás que le señale este Reglamento, el Consejo o las disposiciones legales aplicables.
 
+(REUBICADO [N. DE E. ANTES CAPITULO XVI], P.O. 27 DE DICIEMBRE DE 2007)
+
+### CAPÍTULO XIX. DEL FUNCIONAMIENTO DEL CONSEJO
+
 ###### Artículo 43.
 
 El Consejo celebrará sesiones ordinarias cuando menos una vez cada seis meses y extraordinarias cuando la importancia del caso lo amerite, o cuando la mitad más uno de los Consejeros así lo solicite al Presidente del Consejo.
@@ -606,6 +714,12 @@ La Junta previa convocatoria del Director designara al nuevo consejero.
 ###### Artículo 49.
 
 De cada una de las sesiones, el Secretario Técnico deberá levantar testimonio de aquellas, mismo que se registrará en el libro que se lleve para ese efecto y que deberá ser firmado por los integrantes del consejo.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XVII], P.O. 27 DE DICIEMBRE DE 2007)
+
+### CAPÍTULO XX. DE LAS SUPLENCIAS
+
+> <small>(F. DE E., P.O. 22 DE MAYO DE 2004)</small>
 
 ###### Artículo 50.
 
@@ -652,3 +766,9 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2007.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
