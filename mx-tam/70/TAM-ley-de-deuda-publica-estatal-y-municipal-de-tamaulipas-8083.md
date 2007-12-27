@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "2006-09-06"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -77,6 +77,10 @@ III.- Los pasivos contingentes relacionados con los actos mencionados en las dos
 
 IV.- Todas las operaciones de endeudamiento que impliquen obligaciones a plazo, así como las de naturaleza contingente derivadas de actos jurídicos, independientemente en la forma en la que se les documente.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+No constituyen financiamientos crediticios para los efectos de esta ley, las obligaciones derivadas de la contratación de proyectos para la prestación de servicios. Estos se regirán por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas.
+
 ###### ARTICULO 5.
 
 Se entiende por Deuda Pública a cargo del Estado, la contraida por conducto del Gobierno del Estado como responsable directo o como avalista o deudor solidario de sus organismos descentralizados, empresas de participación estatal mayoritaria y sus respectivos fideicomisos.
@@ -87,11 +91,11 @@ Se entiende por Deuda Pública Municipal, la que se deriva de las diferentes mod
 
 Para los efectos de esta Ley, es deuda directa del Estado la que contrate el Gobierno Estatal y deuda contingente son aquellas operaciones que realicen las entidades públicas a las que les hubiere concedido su aval. Es deuda directa de los Municipios, la que contraten por sí mismos y su deuda contingente serán las operaciones en las que hubieran otorgado su aval.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 10 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 7.
 
-La Secretaría de Finanzas es la dependencia del Ejecutivo Estatal facultada para aplicar e interpretar en el ámbito legislativo la presente ley, así como vigilar su debido cumplimiento.
+La Secretaria de Finanzas es la dependencia del Ejecutivo Estatal facultada para aplicar e interpretar en el ámbito administrativo la presente ley, así como de vigilar su debido cumplimiento.
 
 Las disposiciones de esta ley se interpretarán aplicando cualquier método de interpretación jurídica y a falta de norma expresa, se aplicarán supletoriamente las disposiciones del derecho común.
 
@@ -114,6 +118,10 @@ I.- Solicitar los informes necesarios para analizar y aprobar en su caso, las so
 II.- Aprobar los montos de endeudamiento neto anual a que se refieren las Leyes de Ingresos del Estado y Municipios. El Presupuesto de Egresos del Estado debe incluir las cantidades necesarias para atender el servicio de la deuda previamente contraída.
 
 III.- Autorizar en los términos de la fracción anterior la afectación en garantía de pago, tanto de las participaciones en ingresos federales que correspondan al Estado o Municipios, como las estatales en el caso de los Municipios, así como los bienes muebles e inmuebles y los derechos de cobro propiedad de Las Entidades Públicas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de contratos de proyectos para la prestación de servicios, cuando impliquen el otorgamiento de la garantía estatal, la misma se regirá por lo dispuesto en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas.
 
 ###### ARTICULO 10.
 
@@ -187,7 +195,9 @@ XV.- Establecer la comunicación oficial necesaria con las autoridades federales
 
 Corresponde a los Municipios:
 
-I.- Presentar al Congreso del Estado, por conducto del Ejecutivo Estatal, su iniciativa de Ley de Ingresos, en la que incluirá el monto de endeudamiento neto necesario para el financiamiento complementario del Presupuesto de Egresos, mismo que deberá contener las partidas necesarias para el servicio de la deuda contraida con anterioridad, así como la descripción de las garantías que se pretenden afectar.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+I.- Presentar al Congreso del Estado su iniciativa de Ley de Ingresos, en la que incluirá el monto de endeudamiento neto necesario para el financiamiento complementario del Presupuesto de Egresos, mismo que deberá contener las partidas necesarias para el servicio de la deuda contraída con anterioridad, así como la descripción de las garantías que se pretendan afectar.
 
 II.- Informar mensualmente a la Legislatura, de la situación de la Deuda Pública del Municipio, a más tardar quince días hábiles posteriores al mes y publicar trimestralmente los informes en el Periódico Oficial del Estado dentro de los cuarenta días siguientes al trimestre.
 
@@ -368,6 +378,12 @@ P.O. 10 DE JUNIO DE 2003
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2007.
 
 ###### ARTICULO UNICO.
 
