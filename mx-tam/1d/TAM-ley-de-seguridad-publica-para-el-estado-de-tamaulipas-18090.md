@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-18090"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-06"
-last_updated: "2006-09-06"
+last_updated: "2007-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS., PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de abril del 2000.
 
@@ -1424,3 +1426,25 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública para el Estado de Tamaulipas expedida mediante Decreto No. 178, del 29 de marzo del 2000, publicado en el Periódico Oficial del Estado, Extraordinario No. 2, del 6 de abril del 2000; así como las reformas expedidas mediante Decreto No. LVIII-841, del 8 de septiembre del 2004, publicado en el Periódico Oficial del Estado No. 150, del 15 de diciembre del 2004, y las reformas expedidas mediante Decreto número LIX-561 del 8 de agosto de 2006, publicado en el Periódico Oficial del Estado número 107 del 6 de septiembre de 2006.
+
+###### ARTICULO TERCERO.
+
+En un término que no exceda de 180 días posteriores a la entrada en vigor de esta ley, se expedirán el Reglamento del Consejo de Honor y Justicia y el Reglamento Interior de la Secretaría de Seguridad Pública.
+
+###### ARTICULO CUARTO.
+
+El Sistema Estatal de Seguridad Pública; el Programa Estatal de Seguridad Pública y los que deriven de éste; los Comités Estatal y los Municipales de Consulta y Participación de la Comunidad en Seguridad Pública; el Consejo Técnico de la Academia Estatal de Policía; el Consejo Estatal de Seguridad Pública y sus unidades administrativas; así como los Consejos de Honor y Justicia Estatal y Municipales, continuarán ejerciendo sus atribuciones en los términos conocidos y, en su caso, aplicarán las disposiciones de las nuevas disposiciones en lo que corresponda. Los procedimientos que a la fecha de publicación de la presente ley se substancien en el Consejo de Honor y Justicia, continuarán integrándose con las normas que resulten más benéficas para el procesado, si fuera el caso.
+
+###### ARTICULO QUINTO.
+
+Toda referencia que se haga de la Dirección General de Prevención y Auxilio, Medidas Tutelares y Readaptación Social, de su titular o de los Centros de Readaptación Social del Estado, en cualquier disposición legal del Estado, se entenderá hecha a la Dirección General de Ejecución de Sanciones y a su titular como Director; así como Centros de Ejecución de Sanciones, respectivamente.
