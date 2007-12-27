@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2006-06-20"
+last_updated: "2007-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -135,9 +135,11 @@ La Secretaría de Finanzas realizará la programación del gasto con apego al Pr
 
 El Presupuesto de Egresos del Estado, es el documento jurídico contable y de política económica, aprobado por el Congreso a iniciativa del titular del Ejecutivo, en el que se consigna de acuerdo a su naturaleza y cuantía el gasto público que ejercerán las dependencias y entidades públicas, en cumplimiento de sus funciones, entre el 1 de enero y el 31 de diciembre de cada año.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 16.
 
-El Presupuesto de Egresos del Estado contendrá las actividades, obras y servicios públicos previstos en los programas a cargo de las entidades que en el mismo se señalen.
+El Presupuesto de Egresos del Estado contendrá las actividades, obras, servicios públicos previstos en los programas a cargo de las entidades que en el mismo se señalen. A su vez, considerará los proyectos de desarrollo cuya realización hubiere requerido de previsiones presupuesta les posteriores al ejercicio en el cual se contemplaron por primera vez.
 
 ###### ARTICULO 17.
 
@@ -163,6 +165,10 @@ VII.- Participaciones de ingresos federales a los Municipios; y
 
 VIII.- Deuda pública.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+Así mismo, de acuerdo a la naturaleza de las obligaciones de pago con base en el gasto corriente, se incluirán en el rubro que corresponda las erogaciones derivadas de los proyectos para prestación de servicios, regulados por Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas.
+
 ###### ARTICULO 19.
 
 El proyecto de Presupuesto de Egresos del Estado, se podrá clasificar conforme a los siguientes criterios:
@@ -187,9 +193,11 @@ Deberá señalarse el monto total a erogarse por concepto de gasto de administra
 
 El gasto de inversión, además de comprender las erogaciones destinadas a proporcionar o mantener la infraestructura pública en el Estado, incluirá la adquisición de bienes muebles e inmuebles, así como la inversión en valores, acciones y partes sociales de sociedades civiles y mercantiles.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 23.
 
-Estas clasificaciones no será restrictiva. Las erogaciones de gasto público no comprendidas en los rubros anteriores, así como aquéllas comprendidas en dos o más de ellos, se incluirán, para efectos de presupuestación y contabilización, en el rubro que corresponda según su finalidad primordial.
+Estas clasificaciones no serán restrictivas. Las erogaciones de gasto público no comprendidas en los rubros anteriores, así como aquéllas comprendidas en dos o más de ellos, se incluirán, para efectos de presupuestación y contabilización, en el rubro que corresponda según su finalidad primordial.
 
 ###### ARTICULO 24.
 
@@ -245,9 +253,11 @@ El anteproyecto de Presupuesto de Egresos del Estado deberá ser presentado por 
 
 Las proposiciones que hagan los miembros del Congreso del Estado para modificar el proyecto de Presupuesto de Egresos presentado por el Ejecutivo, serán sometidas al trámite que establezca el Reglamento para el Gobierno Interior del Congreso del Estado, debiendo prever en todo caso los ingresos necesarios para cubrir los egresos que se aprueben.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 36.
 
-Cuando por razones imponderables el Congreso no apruebe el Presupuesto de Egresos o la Ley de Ingresos, se aplicarán en lo conducente los montos del ejercicio fiscal anterior actualizados conforme a la inflación que determine el Banco de México, a efecto de que la administración pública cumpla con los programas y servicios que deban ser proporcionados a la comunidad.
+En caso de que la discusión y votación del dictamen de la Ley de Ingresos y del Presupuesto de Egresos del Estado no se realice para el 31 de diciembre del año anterior en que deban regir, se estará a lo dispuesto por el artículo 69 de la Constitución Política del Estado, a efecto de que la administración pública cumpla con los programas y servicios que deban ser proporcionados a la comunidad.
 
 ###### ARTICULO 37.
 
@@ -255,9 +265,11 @@ La Secretaría de Finanzas incluirá en el anteproyecto de su propio presupuesto
 
 ### CAPITULO IV. DE LA DEUDA PUBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 38.
 
-Las entidades públicas, en los términos de la Ley de Deuda Pública del Estado, podrán:
+Las entidades públicas, en los términos de la Ley de Deuda Pública Estatal y Municipal, podrán:
 
 I.- Contraer deuda pública, con las limitantes de endeudamiento autorizadas por el Congreso del Estado, cuidando que ésta se destine a inversiones públicas productivas, o para mejorar la estructura de endeudamiento público;
 
@@ -277,9 +289,11 @@ La Secretaría de Finanzas estará facultada para aplicar y vigilar el debido cu
 
 Los titulares de las dependencias públicas serán responsables del estricto cumplimiento de las disposiciones legales y de las directrices de contratación señaladas por el Comité Técnico de Financiamiento, en relación a la deuda pública que contraten.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 41.
 
-Sólo se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refieren las fracciones de la III a la V del artículo 3º de esta ley, que previamente hayan sido aprobados expresamente por la Secretaría de Finanzas y que cumplan con las disposiciones de la Ley de Deuda Pública del Estado.
+Sólo se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refieren las fracciones III a la V del artículo 3º de esta ley, que en forma previa hayan sido aprobados expresamente por la Secretaría de Finanzas y que cumplan con las disposiciones de la Ley de Deuda Pública Estatal y Municipal.
 
 ###### ARTICULO 42.
 
@@ -289,9 +303,11 @@ Los créditos que contraten las entidades públicas, así como las garantías qu
 
 En ningún caso se autorizarán créditos que generen obligaciones que excedan de la capacidad de pago.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 44.
 
-En los casos que el Gobierno del Estado otorgue su aval a entidades del sector público o a los Municipios para la contratación de empréstitos, si éstos no son cubiertos por el solicitante, el Gobierno del Estado podrá fincar, en su caso, los créditos fiscales correspondientes para recuperar el monto que en esta virtud haya erogado.
+En los casos que el Gobierno del Estado otorgue su aval a entidades estatales o a los Municipios para la contratación de empréstitos, si éstos no son cubiertos por el solicitante, el Gobierno del Estado podrá fincar, en su caso, los créditos fiscales correspondientes para recuperar el monto que en esta virtud haya erogado.
 
 ### CAPITULO V. DEL EJERCICIO DEL GASTO PUBLICO
 
@@ -311,9 +327,11 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá ampl
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá efectuar reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestados, así como las que se deriven de la aplicación de medidas de austeridad, racionalidad y atención a renglones prioritarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 49.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá asignar los recursos que se obtengan con exceso de lo previsto en el Presupuesto de Ingresos del Estado, a los programas que considere prioritarios y autorizará las transferencias de partidas cuando estas sean procedentes, dándoles la participación que corresponda a las entidades interesadas.
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá asignar los recursos que se obtengan con exceso de lo previsto en la Ley de Ingresos del Estado, a los programas que considere prioritarios y autorizará las transferencias de partidas cuando estas sean procedentes, dándoles la participación que corresponda a las entidades interesadas.
 
 Las entidades, en su caso, deberán informar a la Secretaría de Finanzas, la forma en que las modificaciones financieras que afecten un programa o las metas establecidas para el mismo.
 
@@ -379,9 +397,11 @@ Quienes ejerzan gasto público en las dependencias del Poder Ejecutivo del Estad
 
 La Contraloría Gubernamental realizará la práctica de visitas para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 64.
 
-La Contraloría Gubernamental estará facultada para realizar programas de inspección, auditorías y evaluaciones, así como para contratar auditores y asesoría técnica para efectuar revisiones a las dependencias del Ejecutivo, y a las entidades señaladas en las fracciones IV y V del artículo 5 de esta ley, con el objeto de verificar la evaluación y el cumplimiento de los programas así como para proveer lo necesario en los casos de incumplimiento de los mismos.
+La Contraloría Gubernamental estará facultada para realizar programas de inspección, auditorías y evaluaciones, así como para contratar auditores y asesoría técnica para efectuar revisiones a las dependencias del Ejecutivo, y a las entidades señaladas en las fracciones IV y V del artículo 3 de esta ley, con objeto de verificar la evaluación y el cumplimiento de los programas, así como para proveer lo necesario en los casos de incumplimiento de los mismos.
 
 ### CAPITULO VI. DE LA CONTABILIDAD
 
@@ -397,7 +417,9 @@ I.- Girar instrucciones sobre la forma y términos en que las entidades deban ll
 
 II.- Expedir los catálogos de cuenta que aplicarán las dependencias del Ejecutivo; y
 
-III.- Autorizar, en coordinación con la Contaduría Mayor de Hacienda, los catálogos de cuenta de las demás entidades a que se refiere el artículo 3º de esta ley.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+
+III.- Autorizar, en coordinación con la Auditoría Superior del Estado, los catálogos de cuenta de las demás entidades a que se refiere el artículo 3º de esta ley.
 
 Los catálogos de cuentas de los Poderes Legislativo y Judicial serán los que estos mismos se aprueben, procurando homologarlos a los del Poder Ejecutivo.
 
@@ -504,3 +526,9 @@ P.O. 20 DE JUNIO DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 27 DE DICIEMBRE DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
