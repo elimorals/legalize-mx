@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2007-07-31"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -239,9 +239,9 @@ TRABAJADORES DE CONFIANZA.
 
 Son trabajadores de confianza:
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-I.- En el Poder Legislativo: El Oficial Mayor del Congreso, el Contador Mayor de Hacienda y el personal que labora en la Contaduría Mayor de Hacienda del Congreso.
+I.- En el Poder Legislativo: El Oficial Mayor del Congreso y el personal que labora en la Auditoría Superior del Estado.
 
 II.- En el Poder Ejecutivo:
 
@@ -1876,3 +1876,9 @@ P.O. 31 DE JULIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
