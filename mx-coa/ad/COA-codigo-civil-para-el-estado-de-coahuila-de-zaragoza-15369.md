@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2007-01-12"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -1003,21 +1003,47 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo producto de relaciones incestuosas. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 172.
 
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil dentro de los ciento ochenta días siguiente al de su encuentro, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día, mes, año y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+Toda persona que encontrare un menor expósito, conforme a lo dispuesto en el artículo 605, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo de forma inmediata ante la Procuraduría de la Familia o las Unidades de Atención a la Violencia ubicadas en los diversos municipios del Estado, con los vestidos, documentos o cualesquiera otros objetos encontrados con el que pudiera conducir a su posterior identificación, y declarara el día, mes, año y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 172 BIS. En el caso del artículo que antecede, corresponde a la Procuraduría de la Familia y las Unidades de Atención a la Violencia ubicadas en los diversos municipios del Estado:
+
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2008)</small>
+
+I.- Dar vista al Ministerio Público, a fin de que se inicien las investigaciones necesarias y la averiguación previa correspondiente, para que se determine el origen, la edad aparente, y demás circunstancias relacionadas con el menor, para lo anterior se auxiliarán de constancia expedida por el médico legista y las personas e instituciones que estimen conveniente para ello, resultados que deberán rendirse ante la autoridad correspondiente en un plazo que no excederá de 180 días.
+
+II.- Proveer transitoriamente la guarda y custodia del menor expósito, quien quedará bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila, conforme a lo establecido en el articulo 603.
+
+III.- Presentar al menor ante el Oficial del Registro Civil, con los documentos que se hubieran encontrado y los resultados de las investigaciones, así como la averiguación previa, para realizar la inscripción del mismo.
+
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2008)</small>
+
+Una vez transcurridos los 180 días establecidos para realizar las investigaciones necesarias y la averiguación previa correspondiente, y no habiendo encontrado quien pudiere ejercer la patria potestad del menor, la Procuraduría de la Familia y las Unidades de Atención a la Violencia ubicadas en los diversos municipios del Estado, presentarán al menor ante el Oficial del Registro Civil, con la finalidad de que se realice el registro del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 173.
 
-La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquier casa de comunidad, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas.
+La misma obligación tienen los directores y administradores de hospitales o de cualquier institución de asistencia, publica o Privada, respecto de los menores nacidos y expuestos en ellas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 174.
 
-En las actas que se levanten en estos casos, se expresarán detalladamente todas las circunstancias relativas a los niños encontrados o expósitos, la edad aparente, su sexo, el nombre y apellidos que se le pongan y el nombre de la persona o casa de expósitos que se encarguen de él.
+En las actas que se levanten en estos casos, se expresaran detalladamente todas las circunstancias relativas a los menores expósitos, la edad aparente, su sexo, se asignara al menor un nombre y apellidos, que deberán de ser de uso común en la región donde haya sido encontrado, se asentara como fecha probable de nacimiento la determinada en la constancia expedida por el medico legista y se señalara como lugar de nacimiento, aquel donde el menor fue encontrado, así como, el nombre de la persona quien lo presenta y la institución que se encarga de el.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 174 BIS. El acta de registro de un menor expósito solo podrá anularse en el caso de que, con posterioridad a su expedición, se conozca la filiación del menor y que esta sea declarada por la autoridad judicial competente, antes de que el menor fuere dado en adopción.
 
 ###### ARTÍCULO 175.
 
-Si con el expósito se hubieren encontrado documentos, alhajas u otros objetos que puedan conducir a su identificación, se depositarán en el archivo del Registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 ###### ARTÍCULO 176.
 
@@ -2473,11 +2499,11 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia certificada de la sentencia y los datos de identificación de las actas de nacimiento y matrimonio de los divorciados, al Oficial ante quien se celebró el matrimonio y a la Dirección Estatal del Registro Civil, para que se proceda a levantar el acta de divorcio por el primero, y a realizar las anotaciones marginales correspondientes por ambos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ## TÍTULO PRIMERO BIS. DEL PACTO CIVIL DE SOLIDARIDAD
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO II. DE LOS REQUISITOS PARA LA CELEBRACIÓN DEL PACTO CIVIL DE SOLIDARIDAD
 
@@ -2489,7 +2515,7 @@ Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá c
 
 Los compañeros civiles, se deben ayuda y asistencia mutua, consideración y respeto, así como deber de gratitud recíprocos y tendrán obligación de actuar en interés común; de igual manera tendrán derecho a alimentos entre sí.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO III. DE LOS EFECTOS DEL PACTO CIVIL DE SOLIDARIDAD
 
@@ -3455,25 +3481,21 @@ SUBSECCIÓN TERCERA
 
 DE LA ADOPCIÓN PLENA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 509.
 
-Con los mismos supuestos establecidos en el artículo 493, se instituye con efectos irrevocables la adopción plena, en los términos establecidos por este Código, a favor de los menores de edad abandonados, expósitos, o que sin encontrarse en alguno de los anteriores supuestos, no estén sujetos a patria potestad y de los que sean entregados a una institución autorizada para promover su adopción.
+Con los mismos supuestos establecidos en el artículo 493, se instituye con efectos irrevocables la adopción plena, en los términos establecidos por este Código, a favor de los menores de edad abandonados, expósitos, o que sin encontrarse en alguno de los anteriores supuestos, no estén sujetos a patria potestad y de los que sean entregados a una institución autorizada para promover su adopción, o bien con conocimiento de los efectos legales de este tipo de adopción, los padres biológicos del menor que se pretende adoptar, expresen ante la autoridad judicial competente, su consentimiento para que sea adoptado con efectos plenos.
 
-El adoptado bajo la forma de adopción plena se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos para contraer matrimonio. El adoptado deberá llevar los apellidos de quien lo adopte.
+El adoptado bajo la forma de adopción plena se equipara al hijo consanguíneo para todos los efectos legales, sujetándose a las disposiciones de la patria potestad, incluyendo los impedimentos para contraer matrimonio. El adoptado deberá llevar los apellidos de quien lo adopte y en su caso, previa solicitud, podrá autorizarse el cambio del nombre propio, en atención del interés superior del adoptado.
 
-La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. Si uno de los adoptantes está casado con alguno de los progenitores del adoptado, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. Si uno de los adoptantes está casado con alguno de los progenitores del adoptado, y se cuenta con consentimiento expreso de adopción plena, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
 
-En la adopción plena el parentesco se extenderá a todos los ascendientes y descendientes de los adoptantes, en los términos del artículo 389 de este ordenamiento.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+En la adopción plena el parentesco se extenderá a todos los ascendientes y descendientes de los adoptantes.
 
 No pueden adoptar mediante adopción plena, las personas que tengan vínculo de parentesco con el menor, excepto que quien deba consentir la adopción y los adoptantes, estén de acuerdo en que surta los efectos de la adopción plena atendiendo al interés superior del adoptado. En todos los demás casos la adopción será semiplena.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-El sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia, será el único órgano facultado para promover la adopción de los menores adoptables que se encuentren en los centros o lugares de internamientos públicos o privados.
+El Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia será el único facultado para promover la adopción de los menores adoptables que se encuentren en los centros o lugares de internamientos públicos o privados.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
@@ -3481,9 +3503,9 @@ El sistema para el Desarrollo Integral de la Familia a través de la Procuradur�
 
 En la adopción plena, la resolución judicial que la apruebe, contendrá la orden al Oficial del Registro Civil, para que actúe en los términos del artículo 189 de este Código. Al levantar la nueva acta no se hará mención sobre la adopción.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E. P.O. 18 DE ENERO DE 2008)
 
-ARTÍCULO 510 BIS. Podrá promoverse la conversión de adopción semiplena en plena en los términos que establezca el Código Procesal Civil.
+ARTÍCULO 510 BIS. Podrá promoverse la conversión de adopción semiplena a plena, en vía incidental, en la que se requerirá el consentimiento de los padres de los adoptantes, con la intervención del Ministerio Público.
 
 SUBSECCIÓN CUARTA
 
@@ -3697,13 +3719,31 @@ IV. Cuando el padre, madre, abuelo o abuela, en su caso:
 
 a) Expongan a su hijo o nieto menor de un año por más de un día.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-b) Abandonen a su hijo o nieto por más de tres meses, si éste quedó a cargo de alguna persona o institución de asistencia social. Las visitas ocasionales o intermitentes, no interrumpen el término de tres meses si no tienen el firme propósito de que el menor les sea reintegrado.
+b) Abandonen, o dejen de visitar a su hijo o nieto por más de tres meses, si éste quedo a cargo de una persona. Las visitas ocasionales o intermitentes, no interrumpen el término de treinta días si no tienen el firme propósito de que el menor les sea reintegrado.
 
 c) Abandonen por más de un día a su hijo o nieto si el menor no hubiere quedado al cuidado de alguna persona y el abandono sea intencional.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+d) Abandone, deje de asistir y convivir injustificadamente con el menor por más de treinta días naturales, cuando este se encuentra acogido en una institución de asistencia social sea pública o privada.
+
+Las visitas ocasionales o intermitentes, no interrumpen el término de treinta días sino tienen el firme propósito de que les sea reintegrado.
+
 V. En los casos de divorcio, cuando el juez lo determine.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. Cuando por los hábitos de juego o de embriaguez, o el uso indebido y persistente de enervantes, estupefacientes o psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca dependencia, de quienes la ejerzan, se pueda comprometer la salud, la seguridad o constituyan un serio impedimento para el adecuado desarrollo integral del menor.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VII. Cuando quien la ejerza padezca alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico, psiquiátrico o sensorial; siempre que debido a ella afecte su conducta y pueda comprometer la salud, la seguridad o el adecuado desarrollo integral del menor.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Acreditada la pérdida de la patria potestad respecto de un menor el juez en la misma sentencia deberá tomar las medidas preventivas respecto de los demás menores sobre los cuales se continúe ejerciendo la misma.
 
 ###### ARTÍCULO 546.
 
@@ -3711,7 +3751,9 @@ La pérdida de los derechos a que se refiere el artículo anterior se decretará
 
 I. En el caso de la fracción I, en la sentencia que termine el proceso respectivo, mandándose suspender entre tanto la patria potestad.
 
-II. En los casos de las fracciones II a IV, en la sentencia del juicio civil que se siga especialmente al efecto.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+II. En los casos de las fracciones II, III, IV, VI, y VII en la sentencia del juicio civil que se siga especialmente al efecto.
 
 III. En el caso de la fracción V, en la sentencia del juicio de divorcio.
 
@@ -4026,6 +4068,14 @@ IV. Si el menor que se encuentre en el caso previsto por este artículo, adquier
 ###### ARTÍCULO 604.
 
 El Estado, a través del Sistema para el Desarrollo Integral de la Familia y de la Procuraduría de la Familia, se hará cargo de los menores que sin ser expósitos o abandonados se encuentren en situación extraordinaria, de modo que pueda comprometerse su educación, moralidad, seguridad, o salud.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 604 BIS.- La Procuraduría de la Familia tendrá la facultad de nombrar un hogar sustituto de forma temporal al menor que se encuentre en Situación Extraordinaria, nombramiento que deberá ser autorizado por el Juez en materia Familiar para lo cual se tendrá que demostrar la idoneidad de la familia mediante los medios de prueba que estime convenientes.
+
+Un hogar sustituto es una modalidad de atención en la cual una familia seleccionada y capacitada según criterios técnicos de la Procuraduría de la Familia, acoge voluntariamente y de tiempo completo a un menor, como medida de colocación familiar, al encontrarse en situación de riesgo puesto por sus padres y abuelos biológicos, esto con la finalidad de que se le brinde un ambiente afectivo, atención integral que le garantice y restituya sus derechos.
+
+La permanencia de este niño, niña o joven en esta modalidad es de carácter temporal hasta en tanto se defina su situación jurídica, conforme a lo establecido en la legislación se defina su situación jurídica.
 
 ###### ARTÍCULO 605.
 
@@ -20448,3 +20498,9 @@ PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Dentro de los cuarenta y cinco días a la fecha de publicación de este Decreto se expedirán, por conducto del Ejecutivo del Estado, las adecuaciones reglamentarias que sean necesarias para la ejecución cabal de este Decreto, especialmente, las que regule el registro del pacto civil de solidaridad.
 
 TERCERO.- Publíquese el presente Decreto, al igual que la exposición de motivos, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
