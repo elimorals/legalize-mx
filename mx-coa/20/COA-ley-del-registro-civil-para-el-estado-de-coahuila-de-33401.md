@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2007-01-12"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -583,17 +583,21 @@ De acuerdo con el artículo 166 del Código Civil para el Estado de Coahuila, an
 
 No se expresará en el acta correspondiente que el hijo es adulterino o incestuoso, en los casos a que se refieren los artículos 169 y 171 del Código Civil. Tampoco se expresará que su filiación fue decretada mediante resolución firme dictada por la autoridad judicial competente, en los casos a que se refiere el artículo 481 del citado ordenamiento.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 79.
 
-En el caso de los niños expósitos a que se refiere el artículo 172 del Código Civil para el Estado de Coahuila, el Oficial del Registro Civil, sin perjuicio de poner los hechos en conocimiento de la dependencia encargada de la procuración y defensa de los menores, para que practique la averiguación correspondiente y provea transitoriamente al asilo y custodia del menor, someterá el asunto al conocimiento de la Dirección, a fin de que se tomen las medidas necesarias para que el niño expósito quede bajo el cuidado de la dependencia oficial competente o se proteja, en caso necesario, con familia honorable, en los términos de las disposiciones aplicables.
+En el caso de los niños expósitos a que se refiere el artículo 172 bis del Código Civil, el Oficial del Registro Civil recibirá los documentos y la investigación integrada por la Procuraduría de la Familia respecto del menor expósito a fin de que se expida el acta respectiva.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 80.
 
-Las actas que el Oficial del Registro Civil levante en estos casos, deberán expresar con detalle, todas las circunstancias relativas a los niños expósitos, la edad aparente, su sexo, el nombre y apellidos que llevará y, en su caso, el nombre de la persona, institución, dependencia o casa de expósitos que esté al cuidado de él.
+Para la expedición de las actas que el Oficial del Registro Civil levante en estos casos, deberá sujetarse a lo establecido en el artículo 174 del Código Civil del Estado de Coahuila.
 
 ###### ARTÍCULO 81.
 
-Si con el niño expósito se hubieren encontrado documentos, alhajas u otros objetos que puedan conducir a su identificación, el Oficial del Registro Civil los depositará en el Archivo General de la Dirección, debiendo mencionar ese hecho en el acta y dando formal recibo de ellos, a quien recoja al niño.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 ###### ARTÍCULO 82.
 
@@ -1096,3 +1100,9 @@ PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Dentro de los cuarenta y cinco días a la fecha de su publicación de este Decreto se expedirán, por conducto del Ejecutivo del Estado, las adecuaciones reglamentarias que sean necesarias para la ejecución cabal de este Decreto, especialmente, las que regule el registro del pacto civil de solidaridad.
 
 TERCERO.- Publíquese el presente Decreto, al igual que la exposición de motivos, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
