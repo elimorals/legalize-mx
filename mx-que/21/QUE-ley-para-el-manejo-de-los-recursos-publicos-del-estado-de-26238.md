@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-26238
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2007-12-10"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -47,23 +47,29 @@ II. Llevar a cabo la contabilidad gubernamental,
 
 III. El manejo de recursos en la transición,
 
-IV. La ejecución del gasto público en general y,
+IV. La ejecución del gasto público en general y (sic),
 
-V. La rendición de la Cuenta Pública.
+V. La rendición de la Cuenta Pública,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. La programación y ejecución de los recursos públicos durante el último año del periodo constitucional de los gobiernos municipales y estatal.
 
 ###### Artículo 2.
 
 Son sujetos de la presente Ley, los Poderes Legislativo, Ejecutivo y Judicial; las Entidades Paraestatales, Organismos Autónomos, Municipios y en lo aplicable cualquier otro que maneje, utilice, recaude, ejecute o administre recursos públicos.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-La autoridad competente para verificar la correcta aplicación de esta Ley es la Entidad Superior de Fiscalización del Estado, quien emitirá los informes de Resultados de la Fiscalización Superior de la Cuenta Pública a la Legislatura del Estado, así como los órganos de Control Interno de los Poderes, Municipios. Entidades Paraestatales y Organismos Autónomos, en el ámbito de su competencia.
+La autoridad competente para verificar la correcta aplicación y cumplimiento de esta Ley es la Legislatura del Estado, a través de la Entidad Superior de Fiscalización del Estado, quien le remitirá los informes de resultados de la Fiscalización Superior de la Cuenta Pública, así como a los Órganos de Control Interno de los Poderes, Municipios, Entidades Paraestatales y Organismos Autónomos, en el ámbito de su competencia.
 
 Para efectos de esta Ley, se entenderá por Poderes, el Legislativo, Ejecutivo y Judicial, son Entidades, las establecidas en la Ley de Entidades Paraestatales del Estado de Querétaro, Organismos, los organismos autónomos existentes en el Estado y Dependencias las Secretarías, Direcciones, y Áreas de los Poderes.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 3.
 
-Las iniciativas de Ley de Ingresos y de Decreto de Presupuesto de Egresos deberán formularse y presentarse en las fechas señaladas en la presente Ley y, en su caso, en la Ley Orgánica Municipal.
+Las iniciativas de Ley de Ingresos y de Decreto de Presupuesto de Egresos, deberán formularse y presentarse en las fechas señaladas en la presente Ley y, en su caso, en la Ley para la Organización Política y Administrativa del Municipio Libre del Estado de Querétaro.
 
 ###### Artículo 4.
 
@@ -77,11 +83,15 @@ El equilibrio presupuestal a que se refiere el artículo anterior, podrá afecta
 
 Para efectos de lo anterior los Poderes por conducto de sus Dependencias encargadas de las finanzas deberán informar a la Legislatura en un plazo no mayor a 20 días naturales contados a partir de su registro.
 
-Para efectos del presente artículo los Municipios por conducto de su Presidente Municipal deberá solicitar al Ayuntamiento la autorización correspondiente, informando a la Legislatura a través de la cuenta pública.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Para efectos del presente artículo, los Municipios, por conducto de su Presidente Municipal, deberá solicitar al Ayuntamiento la autorización correspondiente, salvo cuando se realice en los términos del artículo 74 de esta Ley, informando en ambos casos a la Entidad Superior de Fiscalización del Estado, a través de la cuenta pública.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
-Los sujetos de esta Ley, proveerán en la esfera administrativa en el ámbito de su competencia, los manuales operativos que, conforme a la presente Ley, sean necesarios para asegurar su adecuado cumplimiento, del cual remitirán una copia certificada a la Legislatura para efectos de fiscalización, debiéndose revisar cada año y remitir a la Legislatura el resultado de la misma.
+Los sujetos de esta Ley proveerán en la esfera administrativa y en el ámbito de su competencia, los manuales operativos que, conforme a la presente Ley, sean necesarios para asegurar su adecuado cumplimiento, del cual remitirán una copia certificada a la Entidad Superior de Fiscalización del Estado, para efectos de fiscalización, debiéndose revisar cada año y remitir a la Entidad Superior de Fiscalización del Estado el resultado de la misma.
 
 ###### Artículo 7.
 
@@ -139,9 +149,11 @@ La planeación y programación anual de los sujetos de esta Ley deberán basarse
 
 Los sujetos de esta Ley otorgarán todas las facilidades a la Entidad Superior de Fiscalización del Estado a fin de dar cumplimiento a lo establecido en la presente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 19.
 
-La Secretaría de Planeación y Finanzas estará obligada a proporcionar, a solicitud de la Comisión de Hacienda de la Legislatura del Estado, todos los datos estadísticos e información necesaria que contribuyan a la comprensión del contenido de las iniciativas de la Ley de Ingresos y de Decreto del Presupuesto de Egresos del Estado.
+Previa petición del órgano legislativo competente, la Secretaría de Planeación y Finanzas del Estado y los Municipios, a través de las dependencias encargadas de las finanzas públicas, estarán obligadas a proporcionar todos los datos estadísticos e información necesaria que contribuyan a la comprensión del contenido de las iniciativas de la Ley de Ingresos y de Decreto de Presupuesto de Egresos del Estado.
 
 ###### Artículo 20.
 
@@ -201,19 +213,21 @@ IV. Los ingresos propios que cada sujeto de esta Ley, excepto los Municipios, pr
 
 El Titular del Ejecutivo enviará la iniciativa de Ley de Ingresos del Estado, a la Legislatura del Estado a más tardar el 30 de noviembre de cada año.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 28.
 
-Los Ayuntamientos elaborarán la iniciativa de Ley de Ingresos con base a lo establecido en la Ley de Hacienda de los Municipios del Estado de Querétaro, remitiéndola a la Legislatura del Estado en la fecha que establezca al respecto la Ley Orgánica Municipal del Estado de Querétaro, debiendo enviar, a más tardar el día 15 de noviembre de cada año, la propuesta de tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+Los Ayuntamientos elaborarán la iniciativa de Ley de Ingresos con base a lo establecido en la Ley de Hacienda de los Municipios del Estado de Querétaro Arteaga, remitiéndola a la Legislatura del Estado en la fecha que establezca al respecto la Ley para la Organización Política y Administrativa del Municipio Libre del Estado de Querétaro, debiendo enviar, a más tardar el día 15 de noviembre de cada año, la propuesta de Tablas de Valores Unitarios de Suelo y Construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-En caso de no remitir la propuesta de tablas a que hace referencia el párrafo anterior en la fecha señalada para tal efecto, la Legislatura resolverá lo conducente, aprobando en los mismos términos que el año anterior o modificando las mismas.
+En caso de no remitir la propuesta de tablas a que hace referencia el párrafo anterior en la fecha señalada para tal efecto, la Legislatura podrá aprobarlas en los mismos términos que el año anterior o modificar las mismas con base en razonamientos de carácter técnico, económico y social que estime necesarias.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 29.
 
-La Legislatura del Estado resolverá lo conducente a la iniciativa de la Ley de Ingresos presentada por el Ejecutivo, además de la iniciativa de Decreto de Presupuesto de Egresos presentada por el Ejecutivo a más tardar el 15 de diciembre.
+A más tardar el 15 de diciembre, la Legislatura del Estado resolverá lo conducente a las iniciativas de Leyes de Ingresos presentada tanto por el Ejecutivo, como por los Municipios del Estado de Querétaro.
+
+El Decreto de Presupuesto de Egresos del Estado deberá ser aprobado a más tardar el 15 de diciembre del año que corresponda.
 
 ###### Artículo 30.
 
@@ -227,13 +241,19 @@ La Legislatura del Estado estudiará y en su caso aprobará, primero las Leyes d
 
 El Presupuesto de Egresos del Estado, constituye la expresión económica de la política gubernamental y será el que esté contenido en el Decreto del Presupuesto de Egresos para el Estado de Querétaro para el ejercicio fiscal que corresponda, que apruebe la Legislatura del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 32.
 
-El Presupuesto de Egresos de los Municipios será el aprobado por los Ayuntamientos; conforme a lo establecido en la Ley Orgánica Municipal.
+El Presupuesto de Egresos de cada Municipio, constituye la expresión económica de la política gubernamental y será el aprobado por los Ayuntamientos, conforme a lo establecido en la Ley para la Organización Política y Administrativa del Municipio Libre del Estado.
 
 ###### Artículo 33.
 
 La Legislatura se ocupará del estudio y dictamen de la iniciativa de Decreto de Presupuesto de Egresos del Estado, verificando que exista un equilibrio entre los ingresos proyectados y los gastos que se pretenden erogar en ese periodo presupuestal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Los ayuntamientos se ocuparán del estudio, dictamen y aprobación de su respectivo Presupuesto de Egreso del Municipio, verificando que exista un equilibrio entre los ingresos proyectados y los gastos que se pretenden erogar en ese periodo presupuestal.
 
 ###### Artículo 34.
 
@@ -343,13 +363,17 @@ Los ingresos que se deriven por concepto de la expedición y refrendo de las lic
 
 La Secretaría de Planeación y Finanzas deberá presentar oportunamente al Gobernador del Estado, el proyecto de Iniciativa de Decreto de Presupuesto de Egresos del Estado para ser enviado a la Legislatura del Estado a más tardar el 30 de noviembre, mismo que deberá contener lo establecido en los artículos 40 y 41, de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 48.
 
-Del Presupuesto de Egresos aprobado por los Municipios, se remitirá una copia certificada a la Legislatura del Estado dentro de los primeros diez días hábiles siguientes a su aprobación para la fiscalización de sus cuentas públicas.
+Del Presupuesto de Egresos aprobado por los Municipios, se remitirá una copia certificada a la Entidad Superior de Fiscalización del Estado, dentro de los primeros diez días hábiles siguientes a su aprobación, para la fiscalización de sus cuentas públicas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 49.
 
-Los presupuestos de egresos se publicarán en el Periódico Oficial del Gobierno del Estado y el resumen ejecutivo en uno de mayor circulación en el Estado o en el Municipio de que se trate.
+Los presupuestos de egresos se publicarán dentro de los siguientes diez días hábiles contados a partir de su recepción, en el Periódico Oficial de Gobierno del Estado y el resumen ejecutivo en un periódico de mayor circulación local en el Estado y en el Municipio de que se trate.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
@@ -421,9 +445,11 @@ Los Diputados integrantes de la Legislatura del Estado percibirán remuneracione
 
 Los Ayuntamientos deberán anexar, a lo que se refiere el artículo 48 de esta ley, el resumen de las partidas presupuestales anuales debidamente detalladas por cargos de las remuneraciones de los servidores públicos de elección popular así como de los funcionarios de primer y segundo nivel jerárquico para efectos de su fiscalización.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 65.
 
-Las Dependencias encargadas de Finanzas de los sujetos de esta Ley podrán promover para los servidores públicos de elección popular un ahorro para retiro, que no podrán exceder de una retención del 10% sobre su percepción mensual o quincenal total.
+Las Dependencias encargadas de las Finanzas Públicas de los sujetos de esta Ley, podrán promover para los servidores públicos de elección popular, un ahorro para el retiro que no podrá exceder de una retención del 10% sobre su percepción mensual o quincenal total.
 
 ### CAPITULO TERCERO. DE LOS RECURSOS PARA LA TRANSICIÓN
 
@@ -433,9 +459,11 @@ En el Decreto de Presupuesto de Egresos correspondiente al último año del peri
 
 Los Municipios podrán considerar lo establecido en el presente artículo, considerando el porcentaje del 1%.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 67.
 
-El titular de la Secretaría de Planeación y Finanzas deberá hacer entrega de lo establecido en el artículo anterior a más tardar 30 días naturales previos al día de la entrega recepción, a la persona que designe mediante escrito el Gobernador Electo; el titular de la tesorería de la Legislatura hará la entrega en el mismo plazo a los Diputados Electos, mismos que designarán un comité para tal efecto, conformado por un integrante de cada una de las fracciones parlamentarias. El reparto será proporcional al número de integrantes por fracción.
+El titular de la Secretaría de Planeación y Finanzas deberá hacer entrega de lo establecido en el artículo anterior, a más tardar 30 días naturales previos al día de la entrega recepción, a la persona que designe mediante escrito el Gobernador Electo, asimismo, el titular de la dependencia encargada de las finanzas públicas del Municipio que corresponda, al presidente municipal electo; el titular de la tesorería de la Legislatura hará la entrega en el mismo plazo a los Diputados Electos, mismos que designarán un comité para tal efecto, conformado por un integrante de cada uno de los grupos o fracciones parlamentarias; el reparto será proporcional al número de integrantes por grupo o fracción.
 
 El periodo de ejercicio de esta partida no podrá exceder en ningún caso de un mes y será fiscalizado dentro de la primera cuenta pública de su gestión.
 
@@ -447,13 +475,31 @@ Los recursos de la partida de gastos de transición deberá utilizarse únicamen
 
 El ejercicio de los recursos de partida de gastos de transición se sujetará a lo estipulado en esta Ley, los ordenamientos fiscales aplicables y a las disposiciones que para asegurar su cumplimiento se emitan.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+### CAPÍTULO CUARTO. DE LA PROGRAMACIÓN Y EJECUCIÓN DE LOS RECURSOS PÚBLICOS CORRESPONDIENTES AL ÚLTIMO AÑO DEL PERIODO CONSTITUCIONAL
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Artículo 69A.- Los sujetos de la presente Ley, a través de sus dependencias o áreas encargadas de la programación y ejecución de los recursos públicos, deberán prever la suficiencia de recursos para garantizar la liquidez y el sano Ejercicio Fiscal del último año en que concluye el periodo constitucional, cuando menos para:
+
+I.- El pago o amortización total de los pasivos que haya adquirido la administración pública, salvo aquellos endeudamientos que excedan el periodo constitucional.
+
+II.- El pago del gasto corriente de la administración pública de que se trate.
+
+III.- El cumplimiento de los compromisos adquiridos, las obligaciones por servicios personales y el gasto administrativo hasta el término del año presupuestado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Artículo 69B.- Una vez realizado el incremento salarial anual por cargo o función, de acuerdo a la ley o convenios colectivos laborales vigentes, quedan prohibidos los incrementos salariales a dichos cargos o funciones durante el Ejercicio Fiscal del último año del periodo constitucional de que se trata, salvo los incrementos que por laudo o convenios entre las partes y ratificados ante autoridad laboral competente se determinen.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Artículo 69C.- Se prohíbe el otorgamiento de bonos, compensaciones especiales o cualquier otro pago adicional a las prestaciones a que se (sic) tienen derecho por ley o convenio los servidores públicos, por término de administración del gobierno de que se trate.
 
 ## TÍTULO CUARTO. DE LA EJECUCIÓN DEL GASTO PÚBLICO
 
-### CAPÍTULO SEGUNDO. DEL CONTROL PROGRAMATICO Y PRESUPUESTAL
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 70.
 
@@ -485,17 +531,25 @@ Los titulares de los Poderes Ejecutivo y Judicial, por conducto de los encargado
 
 Cuando sea necesario realizar transferencias por un monto superior, se requerirá autorización de la Legislatura del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+El Presidente Municipal, por conducto del titular de la dependencia encargada de las finanzas públicas, podrá autorizar a las dependencias y entidades municipales a realizar transferencias presupuestales entre sí, que no rebasen un monto equivalente al 5% de la partida de quien lo otorga y de quien lo recibe.
+
 ###### Artículo 75.
 
 Las Dependencias y Entidades del Poder Ejecutivo deberán informar a la Secretaría de Planeación y Finanzas de cualquier modificación en el alcance o modalidades de sus programas, adquisiciones, arrendamientos, garantías de compra, venta o cualquier otra acción que implique variaciones.
 
 Cuando dichas modificaciones conlleven a una adecuación presupuestal, deberán obtener la autorización previa y expresa de la Secretaría de Planeación y Finanzas.
 
-Los Poderes Legislativo y Judicial y los organismos autónomos deberán informarlo a la Legislatura al momento de rendir la cuenta pública.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Los sujetos de esta Ley deberán informarlo a la Entidad Superior de Fiscalización del Estado, al momento de rendir la cuenta pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 76.
 
-El Titular del Poder Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas será la encargada de la aprobación de las transferencias entre Dependencias y Entidades y deberá verificar previamente que se otorguen con apego a lo siguiente:
+El Titular del Poder Ejecutivo, por conducto del titular de la Secretaría de Planeación y Finanzas y, en su caso, el Ayuntamiento o el Presidente Municipal, en los términos del artículo 74 de la presente ley, por conducto del titular de la dependencia encargada de las Finanzas Públicas, serán los encargados de la aprobación de las transferencias entre Dependencias y Entidades y deberán verificar previamente que se otorguen con apego a lo siguiente:
 
 I. Que en el ejercicio de los recursos, se adopten medidas de racionalidad que mejoren la eficiencia en su manejo;
 
@@ -507,13 +561,17 @@ IV. Que en el avance físico-financiero de sus programas y proyectos se regule e
 
 La falta de alguno de los requisitos señalados en las fracciones anteriores, ocasionará que no se otorgue la transferencia respectiva.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 77.
 
-La Secretaría de Planeación y Finanzas podrá definir y determinar el orden a que se sujetará la ministración de transferencias que se otorguen, a fin de asegurar la disposición oportuna de recursos.
+El titular de la Secretaría de Planeación y Finanzas podrá diferir y determinar el orden a que se sujetará la ministración de transferencias que se otorguen, a fin de asegurar la disposición oportuna de recursos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 78.
 
-Las transferencias presupuestales realizadas por los sujetos de esta ley, deberán informarse a la Legislatura del Estado en sus respectivas cuentas públicas.
+Las transferencias presupuestales realizadas por los sujetos de esta Ley, deberán informarse a la Entidad Superior de Fiscalización en sus respectivas cuentas públicas.
 
 ###### Artículo 79.
 
@@ -527,7 +585,7 @@ Concluida la vigencia del presupuesto de egresos, sólo podrán efectuarse pagos
 
 Todas las propuestas de incremento o creación de partidas en los Presupuestos de Egresos, incluirán específicamente el origen del ingreso.
 
-> <small>(REFORMADO RPIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 81.
 
@@ -535,7 +593,9 @@ La Secretaría de la Contraloría en el ámbito de su competencia y la Entidad S
 
 La misma atribución tendrán los órganos de control interno de los sujetos de esta Ley, respecto de los planes y programas de éstos.
 
-### CAPÍTULO TERCERO. DE LOS SUBSIDIOS Y DONACIONES
+### CAPÍTULO SEGUNDO. DEL CONTROL PROGRAMATICO Y PRESUPUESTAL
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 82.
 
@@ -557,7 +617,7 @@ La Entidad Superior de Fiscalización del Estado proporcionará a los sujetos de
 
 De los resultados que genere el sistema, la Entidad Superior de Fiscalización del Estado, anexará un reporte adjunto al informe de la cuenta pública correspondiente.
 
-### CAPÍTULO PRIMERO. DE LA CONTABILIDAD
+### CAPÍTULO TERCERO. DE LOS SUBSIDIOS Y DONACIONES
 
 ###### Artículo 86.
 
@@ -567,17 +627,27 @@ Son Subsidios los recursos económicos que se asignan para apoyar el desarrollo 
 
 Son Donaciones las erogaciones para apoyar a los sectores social y privado en dinero o en especie que otorguen los sujetos de esta Ley destinados al apoyo de sectores marginales de la población e instituciones sin fines de lucro que se autoricen en las partidas correspondientes en el Presupuesto de Egresos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Las adquisiciones que se realicen para destinarse a donaciones en especie, bajo la responsabilidad de la dependencia que la otorga, podrá realizarse directamente por ésta, siempre que la adquisición no rebase el limite establecido en la fracción III del artículo 20 de la Ley de Adquisiciones, Enajenaciones, Arrendamiento y Contratación de Servicios del Estado de Querétaro.
+
 ###### Artículo 88.
 
 Los sujetos de esta Ley sólo podrán otorgar donaciones que contribuyan a la consecución de los objetivos que complementen los programas aprobados o que se consideren de beneficio de la población más necesitada así como en actividades culturales, deportivas y de ayuda extraordinaria. No se otorgarán a favor de beneficiarios que dependan económicamente del presupuesto o cuyos principales ingresos provengan del mismo. Las donaciones y subsidios deberán ser expresamente autorizadas por el Gobernador del Estado y en todo caso, las que otorguen serán consideradas como donaciones del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+No se otorgarán a favor de beneficiarios que dependan económicamente del presupuesto o cuyos principales ingresos provengan del mismo. Las donaciones y subsidios deberán ser autorizadas por el Gobernador del Estado o por los funcionarios públicos que éste designe y en todo caso, las que otorguen serán consideradas como donaciones del Estado.
 
 Las donaciones que otorgue el Poder Legislativo se sujetarán a las disposiciones que determine el Pleno de la Legislatura del Estado.
 
 Para efectos de control presupuestal deberán considerarse tanto los donativos en dinero como en especie.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 89.
 
-La Secretaría de Planeación y Finanzas, sin autorización expresa del Ejecutivo de Estado, no podrá autorizar el otorgamiento de subsidios y donaciones que, en todo caso, deberán sujetarse a los criterios de objetividad, equidad, selectividad, transparencia y temporalidad, según corresponda, con base en las siguientes disposiciones:
+La Secretaría de Planeación y Finanzas, sin autorización expresa a que se refiere el artículo anterior, no podrá liberar el otorgamiento de subsidios y donaciones. Para el otorgamiento de subsidios o donativos, los funcionarios públicos a que se refiere el artículo anterior, deberán sujetarse a los criterios de objetividad, equidad, selectividad, transparencia y temporalidad, según corresponda, con base en las siguientes disposiciones:
 
 I. Identificar con precisión a la población a la que se destina, tanto por grupo específico como por región. Asimismo, el mecanismo de operación deberá garantizar que los recursos se canalicen debidamente, evitando su desvío entre aquellos miembros de la sociedad que no los necesitan;
 
@@ -599,13 +669,17 @@ Los subsidios y donativos sólo se entregarán previa justificación del gasto, 
 
 Cuando los subsidios y donativos se manejen a través de fondos, fideicomisos y mandatos, éstos deberán tener como propósito, contribuir a la consecución de los proyectos aprobados, así como coadyuvar al impulso del Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 92.
 
-Para la vigilancia de la correcta aplicación de los recursos destinados a subsidios y donativos, los Poderles Legislativo y Ejecutivo desglosarán específicamente estos conceptos en la cuenta pública respectiva que rinda a la Legislatura del Estado.
+Para la vigilancia de la correcta aplicación de los recursos destinados a subsidios y donativos, los Poderes Legislativo y Ejecutivo desglosarán específicamente estos conceptos en la cuenta pública respectiva que rinda a la Entidad Superior de Fiscalización del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 93.
 
-Con el propósito de asegurar que los subsidios, donaciones y las transferencias, se apliquen efectivamente a los objetivos, programas y metas autorizados, además de ser plenamente justificados, será responsabilidad de las Dependencias Encargadas de las Finanzas Públicas en el ámbito de su competencia, de reportar los beneficios económicos y sociales en la cuenta pública correspondiente.
+Con el propósito de asegurar que los subsidios o donaciones, se apliquen efectivamente a los objetivos, programas y metas autorizados, además de ser plenamente justificados, será responsabilidad de las Dependencias que otorgaron el subsidio o donativo, el reportar el beneficio económico y social a las Dependencias Encargadas de las Finanzas Públicas, para que éstas a su vez lo informen al rendir la cuenta pública correspondiente.
 
 Las Dependencias Encargadas de las Finanzas Públicas en el ámbito de su competencia, serán las facultadas para los efectos del artículo 94.
 
@@ -615,7 +689,7 @@ En caso de que los donativos y subsidios en dinero sean recibidos por los sujeto
 
 ## TÍTULO QUINTO. DEL REGISTRO CONTABLE Y LA CUENTA PÚBLICA
 
-### CAPÍTULO SEGUNDO. DE LA RENDICIÓN DE LA CUENTA PÚBLICA
+### CAPÍTULO PRIMERO. DE LA CONTABILIDAD
 
 ###### Artículo 95.
 
@@ -699,23 +773,37 @@ Los estados financieros y demás información, que emanen de las contabilidades 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-### CAPÍTULO TERCERO. DE LA REVISIÓN DE LA CUENTA PÚBLICA
+### CAPÍTULO SEGUNDO. DE LA RENDICIÓN DE LA CUENTA PÚBLICA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 105.
 
-(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
+La Cuenta Pública es el informe que sobre su gestión financiera los sujetos de la presente Ley rinden al Poder Legislativo, a través de la Entidad Superior de Fiscalización del Estado, a efecto de comprobar que la recaudación, administración, manejo, custodia, registro contable y aplicación de los ingresos y egresos, durante los periodos comprendidos en que se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios y con base en los programas aprobados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 106.
 
-(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
+La Cuenta Pública deberá contener el Balance General, Estado de Resultados, Estado de Origen y Aplicación de Recursos, Estado de rectificaciones a resultados de ejercicios anteriores en su caso, reportes analíticos detallados de ingresos y egresos, avance del ejercicio presupuestal y reporte de la situación que guarda la Deuda Pública, los reportes y, en general, la información que solicite la Entidad Superior de Fiscalización del Estado a fin de que permita la verificación de las acciones, obras y programas de los sujetos de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 107.
 
-(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
+La Cuenta Pública deberá ser presentada al titular de la Entidad Superior de Fiscalización por los sujetos de esta Ley, dentro de los cuarenta y cinco días contados a partir del último día de los meses de junio y diciembre, aún cuando no se prevenga en sus leyes orgánicas o decretos de creación dicha obligación. Sólo se podrá ampliar el plazo de presentación de la cuenta pública, cuando medie solicitud de los sujetos de esta Ley por conducto de sus titulares, suficientemente justificada a juicio del titular de la Entidad Superior de Fiscalización del Estado. En ningún caso la prórroga excederá de cuarenta y cinco días naturales.
+
+El Poder Ejecutivo Estatal y los Municipios, en el año en que tengan elecciones, deberán presentar la cuenta pública del periodo del 1 de julio al 30 de septiembre, en el último día de este periodo. Para el Poder Ejecutivo Estatal y los Municipios que inician funciones en el año de elecciones, deberán presentar la cuenta pública del periodo 1 de octubre al 31 de diciembre en el plazo señalado en el párrafo anterior.
+
+El Poder Legislativo, en el año en que tenga elecciones, deberá presentar la cuenta pública del periodo del 1 de julio al 25 de septiembre, en el último día de este periodo. Para el Poder Legislativo, cuya Legislatura inicia funciones en el año de elecciones, deberá de presentar la Cuenta Pública del periodo del 26 de septiembre al 31 de diciembre, en el plazo señalado en el primer párrafo de este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 108.
 
-(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
+La Entidad Superior de Fiscalización del Estado deberá informar al presidente de la Mesa Directiva o a la Comisión Permanente de la Legislatura del Estado, en un plazo no mayor de diez días, los casos en que las entidades fiscalizadas no hubiese proporcionado en tiempo y forma la cuenta pública para su revisión. El Presidente de la Legislatura del Estado, podrá requerir a las entidades fiscalizadas para que en un plazo no mayor de cinco días hábiles, presente a ese Poder, la cuenta pública respectiva.
+
+El no envío, será motivo para dar inicio a procesos de responsabilidad previstas en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
 
 ###### Artículo 109.
 
@@ -727,7 +815,7 @@ Los estados financieros y demás información, que emanen de las contabilidades 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. DE LA REVISIÓN DE LA CUENTA PÚBLICA
 
 ###### Artículo 111.
 
@@ -779,6 +867,8 @@ Los estados financieros y demás información, que emanen de las contabilidades 
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 123.
 
 Incurre en responsabilidad cualquier sujeto de la presente Ley y toda persona física o moral que intencionalmente, por imprudencia o ignorancia en el manejo de los recursos públicos cause daño o perjuicio a la Hacienda Pública.
@@ -791,11 +881,11 @@ Incurre en responsabilidad cualquier sujeto de la presente Ley y toda persona f�
 
 (DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 126.
 
-Las Contralorías o los órganos de control interno de los sujetos de esta ley deberán de acatar las instrucciones que se establezcan en los informes del resultado de la fiscalización de la cuenta pública en relación al inicio de los procedimientos administrativos y vigilar que se lleven a cabo las correspondientes de las irregularidades detectadas.
+Las Contralorías o los Órganos de Control Interno de los sujetos de esta Ley, deberán acatar instrucciones y atender a las observaciones que se establezcan en los informes del resultado de la fiscalización de la Cuenta Pública en relación al inicio de los procesos administrativos, vigilando y, en su caso, promoviendo que se lleven a cabo las correcciones de las irregularidades detectadas, debiendo informar del resultado de los mismos a la Legislatura del Estado, por conducto de la Entidad Superior de Fiscalización, de las acciones implementadas respecto de las observaciones y, en su caso, el fincamiento de responsabilidad a que han sido merecedores los involucrados. La Entidad Superior de Fiscalización dará seguimiento de lo anterior e informará a la Legislatura para iniciar el procedimiento señalado en el artículo 97 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
 
 ###### Artículo 127.
 
@@ -809,11 +899,11 @@ Son solidariamente responsables los particulares en todos los casos en que hayan
 
 Las sanciones a los servidores públicos que por el desempeño de sus funciones incurran en faltas que ameriten fincamiento de responsabilidades, se impondrán de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 129.
 
-Los servidores públicos de la Entidad Superior de Fiscalización del Estado y personal adscrito a los órganos de control interno de los sujetos de ésta Ley y quienes por sus funciones, les corresponda hacer revisiones y comprobación de cuentas, son responsables de los daños y perjuicios que se causen a la Hacienda Pública, cuando no consignen las irregularidades detectadas, así como por hacer mal uso de la información a la que tienen acceso.
+Los servidores públicos de la Entidad Superior de Fiscalización del Estado y personal adscrito a los órganos de control interno de los sujetos de ésta Ley a quienes por sus funciones les corresponda hacer revisiones y comprobación de cuentas, serán sujetos de responsabilidad cuando no consignen las irregularidades detectadas, así como por hacer mal uso de la información a la que tienen acceso por el desempeño de su encargo.
 
 ###### Artículo 130.
 
@@ -924,3 +1014,17 @@ Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta Ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Con relación al artículo octavo transitorio del Decreto de Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2008, las prestaciones señaladas en dicha disposición, serán calculadas con base al ingreso mensual neto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
