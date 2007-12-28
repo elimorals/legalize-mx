@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-deuda-publica-para-el-estado-de-sinaloa-33539"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-20"
-last_updated: "2003-08-20"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE SINALOA
 
-LEY DE DEUDA PUBLICA PARA EL ESTADO DE SINALOA
+LEY DE DEUDA PÚBLICA PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 20 de agosto de 2003.
 
@@ -55,7 +55,9 @@ III. Los organismos descentralizados estatales o municipales;
 
 IV. Las empresas de participación estatal o municipal mayoritaria; y,
 
-V. Los fideicomisos públicos estatales o municipales que formen parte de la administración pública paraestatal o paramunicipal, en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+V. Los fideicomisos públicos que formen parte de la Administración Pública Paraestatal o Paramunicipal.
 
 ###### Artículo 3.
 
@@ -109,7 +111,9 @@ E). Pasivos contingentes relacionados con los actos mencionados en las fraccione
 
 F). En general, de operaciones financieras, bajo cualquier modalidad, que comprendan obligaciones a plazo, así como obligaciones de exigibilidad contingente, derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades;
 
-XIX. Valores: Son los valores representativos de un empréstito o crédito colectivo, tales como las obligaciones, bonos, certificados y demás títulos de crédito que emitan las entidades señaladas en el artículo 2 de esta Ley, en serie o en masa, en los términos de las Leyes que los rijan, destinados a circular en el mercado de valores, incluyendo los que se emitan de manera indirecta, mediante fideicomisos a través de instituciones fiduciarias y al amparo, en su caso, de un acta de emisión, cuando por disposición de la Ley o de la naturaleza de los títulos correspondientes así se requiera;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XIX. Valores: Valores: Las acciones, obligaciones, bonos, certificados y demás títulos de crédito y documentos que se emitan en serie o en masa en los términos de la Leyes que los rijan, destinados a circular en el mercado de valores, incluyendo las letras de cambio, pagarés y títulos opcionales que se emitan en la forma antes citada y, en su caso, al amparo de un acta de emisión, cuando por disposición de la ley o de la naturaleza de los actos que en la misma se contengan, así se requiera;
 
 XX. Servicio de la deuda pública: Son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la deuda pública, para efectos de esta Ley, los relativos a las operaciones financieras de cobertura, autorizadas por el Congreso del Estado, que tiendan a evitar o reducir riesgos económico-financieros a las entidades derivados de créditos o empréstitos constitutivos de deuda pública celebrados con base en la misma;
 
@@ -219,9 +223,19 @@ XIV. Vigilar que los recursos obtenidos de las operaciones a que se refiere esta
 
 XV. Vigilar que se incluya anualmente, dentro de la Iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago del servicio de la deuda pública directa del Estado correspondiente al ejercicio fiscal de que se trate;
 
-XVI. Solicitar de las entidades los informes necesarios para verificar que las operaciones de endeudamiento sean realizadas conforme a las disposiciones legales aplicables y a las autorizaciones respectivas, formulando, en su caso, las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar; y,
+XVI. Solicitar de las entidades los informes necesarios para verificar que las operaciones de endeudamiento sean realizadas conforme a las disposiciones legales aplicables y a las autorizaciones respectivas, formulando, en su caso, las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar; y (sic),
 
-XVII. Las demás que, en materia de deuda pública, le confiera la Constitución Política del Estado, esta Ley u otras disposiciones legales.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XVII. Autorizar al Estado y a los Municipios a transmitir a los fideicomisos señalados en el artículo 58 de ésta Ley, los derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualquier otro ingreso de los que puedan disponer de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XVIII. Autorizar a las entidades de la Administración Pública Paraestatal y Paramunicipal, a transmitir a los fideicomisos señalados en el artículo 58 de esta Ley, los derechos al cobro e ingresos derivados de la cobranza de cuotas, derechos, productos o cualquier otro ingreso de los que puedan disponer de conformidad con la legislación aplicable, y;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XIX. Las demás que, en materia de deuda pública, le confiera la Constitución Política del Estado, esta Ley u otras disposiciones legales.
 
 ###### Artículo 13.
 
@@ -239,7 +253,9 @@ III. Presentar y gestionar ante el Congreso del Estado las solicitudes de autori
 
 IV. Celebrar, previa autorización del Congreso del Estado, empréstitos sobre el crédito público del Estado;
 
-V. Negociar, aprobar, celebrar y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios para la obtención, manejo, operación y gestión de los financiamientos autorizados conforme a lo previsto en esta Ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+V. Negociar, aprobar, celebrar y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios para la obtención, manejo, operación y gestión de los financiamientos y operaciones autorizados conforme a lo previsto en esta Ley;
 
 VI. Emitir, previa autorización del Congreso del Estado, valores en representación del Estado, y colocarlos entre el gran público inversionista, en los términos de esta Ley;
 
@@ -287,9 +303,15 @@ XXVII. Publicar anualmente, en un diario de circulación local y en un diario de
 
 XXVIII. Publicar anualmente, en el Periódico Oficial "El Estado de Sinaloa", la información relativa a los registros de la deuda pública estatal que consten en el Registro Estatal de Deuda Pública;
 
-XXIX. Asesorar a las entidades señaladas en las fracciones II, III, IV y V del artículo 2 de esta Ley en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública; y,
+XXIX. Asesorar a las entidades señaladas en las fracciones II, III, IV y V del artículo 2 de esta Ley en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública; y (sic),
 
-XXX. Las demás que, en materia de deuda pública, le confiera la Constitución Política del Estado, esta Ley u otras disposiciones legales.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXX. Previa autorización del Congreso del Estado, transmitir a los fideicomisos señalados en el artículo 58 de esta Ley, los derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones o cualquier otro ingreso de los que puedan disponer de conformidad con la legislación aplicable, y;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXXI. Las demás que, en materia de deuda pública, le confiera la Constitución Política del Estado, esta Ley u otras disposiciones legales.
 
 ###### Artículo 15.
 
@@ -359,7 +381,7 @@ XXIX. Las demás que, en materia de deuda pública, le confieran la Constitució
 
 ###### Artículo 17.
 
-Los actos de los Ayuntamientos a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, Xl, XIII, XV, XX y XXIII, del artículo 16 de esta Ley deberán ser autorizados, previamente a su sometimiento al Congreso del Estado, mediante el acuerdo de la mayoría de sus miembros.
+Los actos de los Ayuntamientos a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XX y XXIII, del artículo 16 de esta Ley deberán ser autorizados, previamente a su sometimiento al Congreso del Estado, mediante el acuerdo de la mayoría de sus miembros.
 
 En el caso de que los actos de los Ayuntamientos a que se refieren las fracciones III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XX y XXIII, del artículo 16 de esta Ley impliquen obligaciones por virtud de las cuales se afecte el patrimonio inmobiliario Municipal o comprometan al Municipio por un plazo mayor al período para el que fue electo el Ayuntamiento, dichos actos deberán ser autorizados, previamente a su sometimiento al Congreso del Estado, mediante el acuerdo de las dos terceras partes de sus miembros.
 
@@ -377,7 +399,9 @@ IV. Presentar y gestionar ante el Congreso del Estado, las solicitudes de autori
 
 V. Celebrar créditos, previa autorización del Congreso del Estado;
 
-VI. Negociar, aprobar, celebrar y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios para la obtención, manejo, operación y gestión de los financiamientos autorizados conforme a lo previsto en esta Ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. Negociar, aprobar, celebrar y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios para la obtención, manejo, operación y gestión de los financiamientos y operaciones autorizados conforme a lo previsto en esta Ley;
 
 VII. Emitir, previa autorización del Congreso del Estado, valores y colocarlos entre el gran público inversionista, en los términos de esta Ley;
 
@@ -407,9 +431,15 @@ XIX. Solicitar al Registro Estatal de Deuda Pública, la expedición de las cert
 
 XX. Llevar un Registro de Deuda Pública de la entidad e inscribir en el mismo las operaciones de endeudamiento correspondientes a la deuda pública a su cargo;
 
-XXI. Publicar, cuando así corresponda de acuerdo a lo previsto por el artículo 91, fracción III de esta Ley, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera que las mismas consideren relevante, incluyendo el saldo actualizado de la deuda pública paraestatal o paramunicipal, según corresponda; y,
+XXI. Publicar, cuando así corresponda de acuerdo a lo previsto por el artículo 91, fracción III de esta Ley, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera que las mismas consideren relevante, incluyendo el saldo actualizado de la deuda pública paraestatal o paramunicipal, según corresponda; y (sic),
 
-XXII. Las demás que, en materia de deuda pública, se les confieran en esta ley o en otras disposiciones legales.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXII. Previa autorización del Congreso del Estado, transmitir a los fideicomisos señalados en el artículo 58 de esta Ley, los derechos al cobro, e ingresos derivados de cuotas, derechos, productos o cualquier otro ingreso de los que puedan disponer de conformidad con la legislación aplicable, y;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXIII. Las demás que, en materia de deuda pública, se les confiera en esta Ley o en otras disposiciones legales.
 
 ###### Artículo 19.
 
@@ -593,9 +623,11 @@ El Congreso del Estado podrá autorizar la implementación de programas de coloc
 
 Los conceptos, montos y partidas de los ingresos derivados de endeudamiento relativos a emisiones de valores que se realicen al amparo de programas de colocación autorizados, que abarquen más de un ejercicio presupuestal, deberán ser incluidos en los ejercicios fiscales posteriores al de su autorización, en la Ley de Ingresos y Presupuesto de Egresos del Estado, en las Leyes de Ingresos y en los Presupuestos de Egresos Municipales, y en los Presupuestos de Ingresos y de Egresos de las entidades de la administración pública paraestatal y paramunicipal, correspondientes a dichos ejercicios, según sea aplicable. Para tal efecto, deberá precisarse la Ley o Decreto en el que se aprobaron, por lo que al estar ya autorizados, no se requerirá del voto de las dos terceras partes de la totalidad de los miembros del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 54.
 
-Los valores que emitan las entidades son títulos de deuda pública.
+Los valores que emitan directamente las entidades, son títulos de deuda pública.
 
 ###### Artículo 55.
 
@@ -862,3 +894,11 @@ Gonzalo M. Armienta Calderón.
 El Secretario de Administración y Finanzas.
 
 Oscar J. Lara Aréchiga.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial" El Estado de Sinaloa".
+
+Artículo Segundo.- La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del Consejo para el Desarrollo Económico de Sinaloa en cada ejercicio fiscal, será el equivalente al 20% de lo recaudado en el ejercicio fiscal 2007 del Impuesto Sobre Nóminas, cantidad que en ejercicios posteriores se tomará como base para integrar su patrimonio, la que será actualizada en términos reales en cada ejercicio.
