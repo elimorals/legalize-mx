@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2006-12-12"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -476,6 +476,10 @@ XVIII. En las contiendas en que se debatan intereses colectivos de entidades de 
 XIX. Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el juez del domicilio que escoja el actor.
 
 XX. Si se tratare de demandas que afecten el patrimonio de personas que no tengan domicilio dentro de la República, será competente el tribunal en cuyo territorio tenga sus bienes el demandado o se encuentre el objeto del litigio.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXI. En los procedimientos, tratándose de menores acogidos en una institución de asistencia social sea publica o privada, serán juzgados competentes los del Estado donde se haya establecido el domicilio del menor.
 
 #### SECCIÓN QUINTA. Competencia por razón de conexidad
 
@@ -2188,6 +2192,10 @@ II. Cuando se trate de personas cuyo domicilio se ignora.
 III. En todos los demás casos previstos por la ley.
 
 En los casos de las fracciones I y II, los edictos se publicarán por tres veces de tres en tres días, en el Periódico Oficial y otro periódico de los de mayor circulación, haciéndose saber que debe presentarse el citado dentro de un término que no será menor de quince ni excederá de sesenta días.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de juicio de Pérdida de Patria Potestad el término para que el demandado comparezca a juicio no será menor de diez ni excederá de treinta días.
 
 ###### ARTÍCULO 222.
 
@@ -6259,11 +6267,13 @@ El juzgador solicitará las pruebas biológicas a quien, en razón de su especia
 
 El juzgador decidirá en base a los resultados de la prueba o del indicio emergente derivado de la negativa a someterse a ella, la filiación que considere más verosímil, tomando en consideración las demás pruebas que obran en autos y la posesión de estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 604.
 
-Revisión de oficio de la sentencia.
+Revisión de Oficio de la sentencia.
 
-Las sentencias recaídas en el juicio sobre paternidad y filiación serán revisables de oficio, abriéndose la segunda instancia aunque las partes no apelen ni expresen agravios. El tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto pendiente de ejecución.
+Las sentencia recaídas en el Juicio sobre paternidad y filiación serán revisables de oficio, abriéndose la segunda instancia aunque las partes no apelen, ni expresen agravios. El tribunal examinara la legalidad de la sentencia de primera instancia, quedando entre tanto pendiente de ejecución. De esta disposición se exceptuara los juicios de perdida de patria potestad.
 
 ###### ARTÍCULO 605.
 
@@ -6276,6 +6286,12 @@ El juicio contradictorio se tramitará en la vía ordinaria, con intervención d
 La sentencia que se dicte es apelable en el efecto suspensivo.
 
 En cualquier estado del juicio, el juzgador podrá ordenar, de oficio o a petición de parte, que la custodia del hijo quede al cuidado de uno de los padres o de tercera persona y podrá además acordar las medidas cautelares que juzgue adecuadas.
+
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 18 DE ENERO DE 2008)
+
+ARTÍCULO 605 BIS.
+
+El Juez de la causa deberá, en beneficio de los menores internos en una institución de asistencia social pública o privada, decretar dentro de un mismo juicio la pérdida de la patria potestad tanto a los padres como a los abuelos paternos y maternos, cuando estos últimos no evitaron los hechos que dieron motivo a la misma, o bien mostraron nulo interés en el bienestar del menor, así como también cuando quede acreditada alguna de las causas señaladas en el artículo 545 del Código Civil Vigente en el Estado, lo anterior no está condicionado a que los padres hayan sido previamente privados, suspendidos o limitados en el ejercicio de los derechos de patria potestad, bastando con que los padres se encuentren impedidos para ejercerlos, ya sea física, mental o moralmente con independencia de que exista una resolución judicial que así lo haya determinado.
 
 ###### ARTÍCULO 606.
 
@@ -6293,7 +6309,9 @@ Requisitos para que se autorice judicialmente la adopción.
 
 Para que se autorice la adopción, el que pretenda adoptar a uno o más menores, o a uno o más incapacitados, deberá acreditar:
 
-I. Que es mayor de edad, en pleno ejercicio de sus derechos y que tiene, por lo menos, diecisiete años más que la persona que trata de adoptar.
+(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 18 DE ENERO DE 2008)
+
+I. Ser mayor de 25 años, tener 17 años más que el adoptado, el Juez lo puede dispensar en beneficio del adoptado, y a solicitud de los promoventes de forma personal y directa, atendiendo al interés superior del menor.
 
 II. Que existe común acuerdo entre marido y mujer para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes.
 
@@ -6304,6 +6322,10 @@ IV. Que la adopción es benéfica para la persona que trata de adoptarse, atendi
 V. Que el adoptante o adoptantes son personas aptas, adecuadas y de buenas costumbres.
 
 En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va a adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente. Cuando circunstancias especiales lo aconsejen, el juzgador puede autorizar la adopción de dos o más menores o incapacitados, o de menores o incapaces simultáneamente.
+
+(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 18 DE ENERO DE 2008)
+
+VI. Que ha asistido al curso denominado "Capacitación de Padres Adoptivos" impartido por la Procuraduría de la Familia o el Centro de Evaluación Psicosocial del Poder Judicial del Estado, en el cual se les prepara emocionalmente, para determinar si tienen la capacidad de realizar el trámite de adopción.
 
 ###### ARTÍCULO 608.
 
@@ -6336,6 +6358,10 @@ V. Verificar a través del estudio socio-económico o del informe que elabore el
 El juzgador asegurará en el secreto del juzgado la información de la que disponga relativa a los orígenes de un menor, en particular la información respecto a la identidad de sus padres, cuando se trata de la adopción plena.
 
 Si en el trámite de la adopción intervino alguna persona, organismo o institución; el juzgador autorizará los gastos erogados que le sean plenamente justificados, incluyendo los honorarios de los abogados; pero estará facultado para moderar las prestaciones que estime desproporcionadas en relación a los servicios prestados y para rechazar de plano todo beneficio material indebido que se trate de exigir como consecuencia de una intervención en un procedimiento de adopción. Sobre ello informará puntualmente al adoptante o adoptantes y lo hará constar en la pieza de autos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+El Juez de la causa ordenará a la Procuraduría de la Familia realice visitas de seguimiento periódicas durante un tiempo no menor a un año en el domicilio de los adoptantes, resultados que deberá hacer de conocimiento del juzgador para los efectos legales conducentes.
 
 ###### ARTÍCULO 610.
 
@@ -8089,6 +8115,10 @@ La sentencia definitiva se notificará personalmente al rebelde, si fuere conoci
 
 En el caso de que el emplazamiento al rebelde se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Periódico Oficial del Estado y en el periódico de mayor circulación del lugar, a no ser que el actor otorgue fianza bastante para restituir las cosas al estado en que se encontraban antes de la ejecución.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+En los casos de rebeldía tratándose de juicios de Patria Potestad, el término para la ejecución de la sentencia a que se refiere el párrafo anterior, será de treinta días y sin la posibilidad de exhibir la fianza a que se refiere el mismo.
+
 ### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### ARTÍCULO 782.
@@ -8925,7 +8955,9 @@ El plazo para interponer el recurso de apelación, será:
 
 I. De quince días, si se trata de sentencia definitiva.
 
-II. De noventa días, a partir de la fecha en que se haga la publicación, si el emplazamiento se hubiere hecho por edictos, o en cualquier otro caso en que la sentencia se notifique en igual forma.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+II. De noventa días, a partir de la fecha en que se haga la publicación, si el emplazamiento se hubiera hecho por edictos, o en cualquier otro caso en que la sentencia se notifique en igual forma, salvo que se trate de juicios de Patria Potestad pues entonces el término será de treinta días, y
 
 III. De ocho días cuando se haga valer contra autos e interlocutorias.
 
@@ -13160,3 +13192,9 @@ P.O. 12 DE DICIEMBRE DE 2006.
 PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
