@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2006-08-09"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
-Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
 El Ciudadano Alfonso G. Calderón, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
 
@@ -185,19 +185,23 @@ h).- Pagos a trabajadores domésticos;
 
 i).-Aguinaldo y gratificaciones que perciban los trabajadores de sus patrones durante el año de calendario, hasta el equivalente a un salario mínimo general del Estado de Sinaloa elevado a 30 días, cuando dichas gratificaciones se otorguen en forma general; y,
 
-j).- Gastos de previsión social que sean considerados deducibles y exentos para efectos del Impuesto sobre la Renta.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+j) Gastos de previsión social hasta por el monto que sean considerados exentos o no gravables, para efectos del Impuesto sobre la Renta.
 
 II.- Las erogaciones que efectúen:
 
-a).- La Federación y los Municipios;
+a) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
-b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-c).- Agrupaciones de trabajadores, de profesionales, de empresarios o propietarios;
+b) Instituciones sin fines de lucro que realicen actividades deportivas, culturales o sociales o en cualquiera de sus formas, así como las que promuevan asistencia social en términos de la Ley de Instituciones de Asistencia Privada.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-d).- Instituciones educativas; y,
+c) Agrupaciones de trabajadores, de profesionales y de empresarios;
+
+d) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -207,13 +211,7 @@ e).- Partidos, Asociaciones Políticas y Asociaciones Religiosas.
 
 ART. 23.- Las autoridades fiscales podrán estimar las erogaciones de los sujetos de este impuesto, en base a lo establecido en el Código Fiscal del Estado de Sinaloa.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 24.- Sin perjuicio de cumplir con las demás obligaciones que el Artículo 21 les impone a los contribuyentes, no estarán obligados al pago de este impuesto las empresas de nueva creación durante el primer año de contratación de empleados.
-
-Se entiende para los efectos de esta Ley, como empresa de nueva creación aquella que se constituya por primera vez en el Estado de Sinaloa y que no provenga de la escisión o fusión de sociedades en términos del Código Fiscal de la Federación y Ley General de Sociedades Mercantiles.
-
-Para los efectos de este impuesto no será considerada empresa de nueva creación aquella que efectúe cambio de nombre o razón social, cambio de domicilio, actividad o traspaso de la empresa.
+ART. 24.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -223,7 +221,9 @@ Para los efectos de este impuesto no será considerada empresa de nueva creació
 
 ART. 25.- Es objeto de este impuesto la prestación de servicios de hospedaje, proporcionados a través de Hoteles, Moteles, Albergues, Posadas, Mesones, Hosterías, Campamentos, Paraderos de casas rodantes y otros establecimientos que presten servicios de esa naturaleza dentro del Territorio del Estado, incluyendo los que presten estos servicios bajo la modalidad de tiempo compartido.
 
-Para efecto de este impuesto se entiende por prestación de servicios de hospedaje el otorgamiento de albergues y de los servicios inherentes al mismo a cambio de una contraprestación, así como:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Para efecto de este impuesto se entiende por prestación de servicios de hospedaje el otorgamiento de albergues a cambio de una contraprestación, así como:
 
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1997)</small>
 
@@ -237,17 +237,21 @@ Este impuesto no se causa por los servicios proporcionados por las casas de hosp
 
 ART. 26.- Son sujetos de este impuesto las personas físicas o morales que presten los servicios de hospedaje a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 Los sujetos de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios objeto de este impuesto y se causará al momento en que se perciba el importe correspondiente a la contraprestación por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, bienes convencionales y cualquier otro concepto de la misma naturaleza.
 
-Asimismo cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares y no desglosen o comprueben la prestación de estos últimos, se entenderá que el importe de la contraprestación respectiva corresponde a servicios de hospedaje.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Asimismo, cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares deberán desglosar el importe de cada contraprestación pactada.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 27.- La base gravable de este impuesto será el monto total de la contraprestación por el servicio de hospedaje, sin considerar en todo caso el importe de los alimentos, bebidas alcohólicas y demás servicios relacionados con los mismos conforme al artículo anterior.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-En la hipótesis señalada en el artículo 25 fracción I, la base gravable, serán los días que se preste el servicio de hospedaje, debiendo cubrirse una tasa igual al importe de un salario mínimo general vigente en el Estado por cada día que se preste el servicio.
+En la hipótesis señalada en el artículo 25 fracción I, la base gravable será la cuota que se cobre por mantenimiento.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
@@ -481,115 +485,293 @@ VIGENTE EN SINALOA
 
 I.- Por la certificación:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 a).- Del nombre del propietario o
 
-poseedor de un predio 0.25
+poseedor de un predio 0.40
 
-b).- Del valor fiscal o catastral
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-de un predio 0.25
+b).- Del valor catastral de un predio 0.40
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 c).- De un predio en que se señalen
 
-colindancias y medidas 0.50
+colindancias y medidas 0.65
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 d).- En la que se señale la superficie
 
-catastral de un predio 0.30
+catastral de un predio 0.40
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 e).- En que se indiquen antecedentes
 
-de propiedad 0.65
+de propiedad 0.85
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 f).- De un predio en que se señalen
 
 nombre del propietario o poseedor,
 
-ubicación, valor fiscal, medidas,
+ubicación, valor catastral, medidas,
 
-colindancias y superficie 0.65
+colindancias y superficie 1.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 g).- De un predio en que se señalen
 
 nombre del propietario o poseedor,
 
-ubicación, valor fiscal, medidas y
+ubicación, valor catastral, medidas y
 
 colindancias, superficie y
 
-antecedentes de propiedad 0.80
+antecedentes de propiedad 1.40
 
-h).- De predios cancelados 0.25
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-i).- De no propiedad 0.25
+h).- De predios cancelados 0.35
 
-j).- De documentos catastrales por hoja 0.25
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-k).- Del valor fiscal o catastral
+i).- De no propiedad 0.50
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+j).- De documentos catastrales por hoja 0.50
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+k).- Del valor catastral
 
 proporcional de una fracción de
 
-predio 0.25
+predio 0.35
 
-l).- De ubicación del predio O.25
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-II).- De planos catastrales 0.50
+l).- De ubicación del predio 0.35
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+II).- De planos catastrales 3.00
 
 II.- Por la expedición:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 a).- De copias fotostáticas de
 
-documentos catastrales, por hoja 0.15
+documentos catastrales, por hoja 0.50
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 b).- De copias mecanografiadas de
 
-documentos catastrales, por hoja 0.20
+documentos catastrales, por hoja 0.35
 
-c).- De copias heliográficas o fotográficas
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-de planos del Estado, de los
+c).- De copias heliográficas o fotográficas de planos del Estado y Municipios:
 
-Municipios o poblaciones:
+1.- A escala de 1:500,000 3.00
 
-1.- Tamaño oficio 0.25
+2.- A escala de 1:250,000 6.00
 
-2.- Por cada decímetro cuadrado que
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-exceda al tamaño anterior 0.01
+d).- De copias heliográficas de planos de manzana:
 
-d).- De copias heliográficas de planos
+1.- Tamaño 54x35 Cms. 1.50
 
-de manzanas:
+2.- Tamaño 45x68 Cms. 1.70
 
-1.- Tamaño 54x35 Cms. 0.20
+3.- Tamaño 103x35 Cms. 2.50
 
-2.- Tamaño 45x68 Cms. 0.25
+4.- Tamaño 103x68 Cms. 3.00
 
-3.- Tamaño 103x35 Cms. 0.30
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-4.- Tamaño 103x68 Cms. 0.60
+e).- De copias heliográficas o fotostáticas de
 
-e).- De copias heliográficas de planos
+planos para los municipios o poblaciones,
 
-de zonas catastrales, por cada
+por cada decímetro cuadrado o fracción 0.30
 
-decímetro cuadrado o fracción 0.01
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 f).- De calcas de planos a tinta con
 
-señalamiento de linderos, medidas
+señalamientos de linderos, medidas
 
 y superficie:
 
 1.- Por cada decímetro cuadrado o
 
-fracción. 0.15
+fracción. 0.45
 
 2.- El mismo trabajo a lápiz, por
 
 cada decímetro cuadrado o
 
-fracción. 0.07
+fracción. 0.20
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+g).- De copias heliográficas de planos
+
+de zonas catastrales, por cada decímetro
+
+cuadrado o fracción 0.20
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+h).- De informaciones catastrales 2.50
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+i).- Por el otorgamiento de productos aerofotogramétricos:
+
+1.- Por la expedición de copias:
+
+- Por copia de contacto en papel fotográfico
+
+blanco y negro en formato 23 X 23 cm.
+
+Escala 1:4,500 2.00
+
+- Por cada diapositiva blanco y negro en
+
+formato 23 X 23 cm. Escala 1:4,500 4.50
+
+- Por copia fotostática de cada fotografía
+
+de contacto en formato 23 X 23 cm.
+
+Escala 1:4,500 0.65
+
+- Por copia de contacto en papel fotográfico
+
+blanco y negro en formato 23 X 23 cm.
+
+Escala 1:20,000 3.00
+
+- Por cada diapositiva blanco y negro en
+
+formato 23 X 23 cm. Escala 1:20,000 13.50
+
+2.- Por vértices geodésicos:
+
+- Por cada vértice de apoyo directo
+
+(incluyendo fotografía de contacto con
+
+ubicación, listado de coordenadas universal
+
+transversal de mercator (UTM) y geográficas,
+
+así como un croquis) 58.00
+
+- Por banco de nivel (incluyendo fotografía
+
+de contacto con ubicación, listado de
+
+coordenadas universal transversal de
+
+mercator (UTM) y geográficas, así como
+
+croquis) 58.00
+
+- Por cada vértice propagado fotográficamente 17.50
+
+3.- Por cartografía a escala 1:1,000 en formato 10" X 25" (0.4 km2 aprox.):
+
+En original impreso:
+
+- Manzanas, banquetas, nomenclatura, en
+
+coordenadas universal transversal de
+
+mercator (UTM). 13.50
+
+- Manzanas, banquetas, nomenclatura, cotas
+
+fotogramétricas, altimetría en coordenadas
+
+universal transversal de mercator (UTM) 33.50
+
+- Manzanas, predios construcciones, banquetas,
+
+nomenclatura, cotas fotogramétricas, en
+
+coordenadas universal transversal de
+
+mercator (UTM). 33.50
+
+En formato digital:
+
+- Archivos DXF (manzanas, predios,
+
+nomenclatura) 45.00
+
+- Archivos DXF (manzanas, predios,
+
+construcciones, banquetas, nomenclatura,
+
+cotas fotogramétricas, altimetría en
+
+coordenadas universal transversal de
+
+mercator (UTM). 90.00
+
+- Archivos en formato ARC/INFO para
+
+PC o WS (manzanas, banquetas,
+
+nomenclatura) 45.00
+
+- Archivos en formato ARC/INFO para PC
+
+o WS (manzanas, predios, construcciones,
+
+banquetas, nomenclatura, cotas fotogramétricas,
+
+altimetría en coordenadas universal transversal
+
+de mercator (UTM) 90.00
+
+4.- Por cartografía a escala 1:10,000 en formato de 3' X 3.2' (32 km2 aprox.), en coordenadas universal transversal de mercator (UTM):
+
+- En original impreso (banquetas,
+
+manzanas, construcciones aisladas,
+
+nomenclatura, hidrografía, carreteras,
+
+brechas y veredas) 13.50
+
+En original impreso (altimetría, banquetas,
+
+manzanas, construcciones aisladas,
+
+nomenclatura, hidrografía, carreteras,
+
+brechas y veredas) 33.50
+
+- Por copia heliográfica (altimetría,
+
+banquetas, manzanas, construcciones
+
+aisladas, nomenclatura, hidrografía,
+
+carreteras, brechas y veredas) 4.50
 
 III.- Por el señalamiento de linderos,
 
@@ -607,29 +789,33 @@ con lo siguiente:
 
 a).- Por predios urbanos:
 
-1.- Por levantamiento y cálculo:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+1.- Por levantamiento, cálculo y dibujo:
 
 - Por terreno hasta de 500 metros
 
-cuadrados. 0.65
+cuadrados. 25.00
 
-- Por terreno de 501 metros cuadrados
+- Por terreno de 500.01 metros cuadrados
 
 en adelante, además de la cuota
 
-anterior, se pagará. 0.01
+anterior, se pagará por metro
+
+cuadrado excedente 0.04
 
 - Por construcción, hasta de 500
 
-metros cuadrados. 0.65
+metros cuadrados. 25.00
 
-- Por construcción, de 501 metros
+- Por construcción, de 500.01 metros
 
 cuadrados en adelante, además
 
 de la cuota anterior se pagará,
 
-por metro cuadrado. 0.01
+por metro cuadrado excedente. 0.04
 
 En el caso de predios localizados
 
@@ -639,33 +825,37 @@ asiento de la Delegación de
 
 Catastro, se cobrará, además de
 
-la tarifa anterior, una cuota de 0.65
+la tarifa anterior, una cuota de 1.00
 
-2.- Por dibujo:
-
-En planos hasta tamaño carta 0.65
-
-Por cada decímetro cuadrado o fracción
-
-excedente. 0.07
+2.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 b).- Por predios rústicos:
 
-1.- Por levantamiento y cálculo:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-Hasta de 10 hectáreas 1.65
+1.- Por levantamiento, cálculo y dibujo:
 
-- De 11 hectáreas en adelante además
+- Hasta de 5-00-00 hectáreas 50.00
 
-de la cuota anterior, por hectárea 0.15
+- De 5-00-01 a 10-00-00 hectáreas 90.00
 
-2.- Por dibujo:
+- De 10-00-01 hectáreas en adelante, además
 
-- En planos hasta tamaño carta 0.65
+de la cuota anterior se cobrará por hectárea
 
-- Por cada decímetro cuadrado o
+excedente. 5.00
 
-fracción excedente 0.07
+- Por construcción, hasta de 500 metros
+
+cuadrados 25.00
+
+- Por construcción, de 500.01 metros cuadrados
+
+en adelante, además de la cuota anterior se
+
+pagará, por metro cuadrado 0.04
+
+2.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 - Para efectuar los trabajos a que se refiere
 
@@ -673,107 +863,65 @@ esta fracción, se requiere que el terreno
 
 esté limpio y despejado para la medición.
 
-- En los casos a que se refiere esta
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-fracción, el levantamiento y cálculo se hará
+- En los casos a que se refieren las fracciones a) y b) anteriores, el levantamiento y cálculo se hará de terreno y construcción por separado y el cobro de los derechos será la suma de éstos.
 
-de terreno y construcción por separado y
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-el cobro de los derechos será la suma de éstos.
+c).- Por predios urbanos en breña:
 
-IV.- Por la práctica de avalúo comercial para los
+1.- Por levantamiento, cálculo y dibujo:
 
-efectos del Impuesto Municipal sobre Adquisición
+- De hasta 5-00-00 hectáreas. 36.00
 
-de Inmuebles, se cobrarán los derechos en
+- De 5-00-01 Has. a 10-00-00 Has. 67.00
 
-cada caso de acuerdo con lo siguiente:
+- De 10-00-01 Has. en adelante además
 
-a).- Por predios urbanos:
+de la cuota anterior, se cobrará por hectárea
 
-1.- Por terreno:
+excedente. 5.00
 
-- Zonas comerciales, por metro
+IV.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
 
-cuadrado 0.02
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-- Zonas residenciales (1°, 2° y 3°
+V.- Por aviso de cambio al padrón:
 
-orden) por metro cuadrado 0.02
+a).- Por traslado de dominio 2.00
 
-- Zonas populares y proletarias
+b).- Por corrección de datos generales 2.00
 
-por metro cuadrado 0.01
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-- Zonas semi-industriales e
+VI.- Por incorporaciones al sistema:
 
-industriales, por metro cuadrado 0.01
+a).- Por incorporación de fraccionamientos
 
-2.- Por construcciones:
+se cobrará por lote 2.00
 
-De uso comercial, por metro
+b).- Por primeros registros catastrales 2.00
 
-cuadrado 0.03
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-De uso habitacional (1°, 2° y 3°
+VII.- Por consulta de:
 
-orden) por metro cuadrado 0.03
+a).- Resultado del vuelo aerofotográfico 0.40
 
-De uso habitacional (proletario y
+b).- De los expedientes de cada predio y/o
 
-popular), por metro cuadrado 0.03
+bases de datos de los mismos 0.40
 
-De uso industrial y semi-industrial,
+c).- Expedientes de planos de cuarteles,
 
-por metro cuadrado 0.02
+manzanas, o de un predio en particular 0.40
 
-En el caso de predios localizados en
+d).- Cualquier expediente o información
 
-poblaciones fuera del área de asiento
+que se realice, respecto de la que guarda
 
-de la Delegación de Catastro, se
-
-cobrará además de la tarifa anterior,
-
-una cuota de 0.50
-
-b).- Por predios rústicos:
-
-Hasta de 20 hectáreas 1.65
-
-De 21 hectáreas en adelante, el
-
-excedente se cobrará además de
-
-la cuota anterior, por hectárea
-
-como sigue:
-
-TIPO DE TERRENO
-
-Riego de gravedad, por hectárea 0.07
-
-Riego de bombeo, por hectárea 0.03
-
-Riego de avenida o humedad, por
-
-hectárea 0.02
-
-Temporal topografía plana,
-
-por hectárea 0.01
-
-Temporal topografía accidentada,
-
-por hectárea 0.01
-
-Agostadero por hectárea 0.01
-
-Cerriles y forestales, por hectárea 0.01
-
-Estériles, salitrosas y playas
-
-por hectárea 0.01
+el Instituto 0.40
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2123,101 +2271,107 @@ ART. 63.- (DEROGADO, P.O. 17 DE MARZO DE 1999)
 
 ART. 64.- El cobro de multas por violaciones a la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa, se efectuará por el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO IX. AUTOPISTA ESTATAL "BENITO JUAREZ"
+### CAPITULO IX. AUTOPISTAS ESTATALES
 
-ART. 65.- Las cuotas derechos y refrendos, así como sus correspondientes excenciones, relativas al uso o aprovechamiento de la autopista estatal "Benito Juárez", se sujetarán a lo dispuesto en este capítulo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+ART. 65.- Las cuotas derechos y refrendos, así como sus correspondientes exenciones relativas al uso o aprovechamiento de las autopistas estatales, se sujetarán a lo dispuesto en este capítulo. El pago por el uso de los derechos de vía distintos a los establecidos en este Capítulo, se regirán por lo que disponga esta Ley en su Título Tercero.
 
-ART. 66.- El uso de la Autopista Estatal "Benito Juárez", mediante el tráfico de vehículos en el tramo comprendido entre el Poblado las Brisas y el entronque con la carretera a El Dorado o viceversa, estará sujeto a la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-T A R I F A
+ART. 66.- El uso de las autopistas estatales, mediante el tráfico de vehículos, estará sujeto a la siguiente:
 
-VECES EL SALARIO
+TARIFA
 
-MINIMO GENERAL
+CLASE DE VEHÍCULO PESOS POR CADA KM.
 
-DIARIO VIGENTE
+I.- Motocicletas $0.33
 
-EN SINALOA
+II.- Automóviles y Camionetas tipo píck-up y panel, de hasta 10 pasajeros.
 
-CLASE DE
+a).- Sin remolque $ 0.76
 
-VEHICULO TRAMO TRAMO
+b).- Con remolque $ 1.17
 
-COMPLETO INTERMEDIO
+III.- Autobuses de pasajeros
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DEL 2000)</small>
+a).- De 2 ejes $ 1.08
 
-I.- Motocicletas 16.00 8.00
+b).- De 3 ejes $ 1.43
 
-II.- Automóviles y Camionetas tipo pick-up y panel, de hasta 10 pasajeros.
+c).- De 4 ejes $ 2.10
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
+IV.- Camiones de carga de 2 ejes $ 1.08
 
-a).- Sin remolque 42.00 21.00
+V.- Camiones de carga o tractores con semiremolque:
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
+a). De 3 ejes $ 1.43
 
-b).- Con remolque 59.00 30.00
+b). De 4 ejes $ 2.10
 
-III.- Autobuses de
+c). De 5 ejes $ 2.81
 
-pasajeros 1.70 0.85
+d). De 6 ejes $ 3.00
 
-> <small>(ADICIONADO [N DE E. REFORMADO], P.O. 4 DE AGOSTO DE 2000)</small>
+e). De 7 ejes $ 3.60
 
-a) De 2 ejes 56.00 28.00
+f). De 8 ejes $ 4.19
 
-> <small>(ADICIONADO [N DE E. REFORMADO], P.O. 4 DE AGOSTO DE 2000)</small>
+g). De 9 ejes $ 4.84
 
-b) De 3 ejes 78.00 39.00
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2000)</small>
-
-IV.- Camiones de
-
-carga de 2 ejes 56.00 28.00
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2000)</small>
-
-V.- Camiones de carga o tractores con semiremolque
-
-a) De 3 ejes 78.00 39.00
-
-b) De 4 ejes 110.00 55.00
-
-c) De 5 ejes 144.00 72.00
-
-d) De 6 ejes 166.00 83.00
-
-e) De 7 ejes 198.00 99.00
-
-f) De 8 ejes 232.00 116.00
-
-g) De 9 ejes 264.00 132.00
-
-h) Por eje excedente a que se refiere
-
-el inciso anterior. 34.00 17.00
-
-VI.- (DEROGADA, P.O. 4 DE AGOSTO DE 2000)
-
-VII.- (DEROGADA, P.O. 4 DE AGOSTO DE 2000)
+h). Por eje excedente a que se refiere el inciso anterior. $ 0.59
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
 
 Cuando por la aplicación de la tarifa anterior se determine una cuota en fracciones de centavos, se ajustará la cuota a la unidad inmediata siguiente si se trata de fracciones superiores a cincuenta centavos y cuando la fracción sea de cincuenta centavos o inferior, el ajuste se hará a la unidad inmediata anterior.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-La presente tarifa se actualizará en términos reales los meses de enero y julio de cada año. Para la actualización de las tarifas que se realice en el mes de enero, se obtendrá el factor, dividiendo el Índice Nacional de Precios al Consumidor que publica el Banco de México en el Diario Oficial de la Federación en el mes de julio del año inmediato anterior, entre el que se publica en el mes de diciembre del mismo año. La actualización que corresponda al mes de julio de cada año, se hará en los mismos términos y el factor se obtendrá de dividir el Índice que se publica en el mes de enero del año de que se trate entre el publicado en el mes de junio del mismo año. Los factores que se obtengan se multiplicarán por las tarifas que se encuentren vigentes en cada período.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-La presente tarifa se actualizará en términos reales a más tardar los días 20 de los meses de enero y julio de cada año, o el siguiente día hábil si éste fuera inhábil, tomando como referencia, la inflación acumulada del período que se actualiza, que se publica por el Banco de México. La tarifa que resulte, será publicada por el Secretario de Administración y Finanzas en el Periódico Oficial "El Estado de Sinaloa", la cual empezará a regir a partir del día siguiente de su publicación.
+ART. 66 bis.- El uso o aprovechamiento del derecho de vía, accesos, accesorios y otros servicios de las autopistas y carreteras estatales, estará sujeto a la siguiente:
+
+TARIFA
+
+CONCEPTOS VECES EL SALARIO
+
+MÍNIMO GENERAL DIARIO
+
+VIGENTE EN SINALOA
+
+l. Por el derecho de paso o acceso 1 por c/metro
+
+de negocios o establecimientos a lineal o fracción.
+
+la autopista.
+
+II. Por la introducción de instalación 40 por c/km
+
+de fibra óptica en el derecho de vía. o fracción.
+
+III. Por la introducción de
+
+instalaciones para la conducción 40 por c/km
+
+de gas natural en el derecho de vía. o fracción.
+
+IV. Por el cruzamiento subterráneo 10 por c/metro
+
+de la autopista para la introducción lineal o fracción.
+
+o instalación de fibra óptica, gas
+
+natural o cualquier otro concepto.
+
+V. Por instalaciones adozadas a 1 por c/metro
+
+puentes. lineal o fracción.
+
+Se entenderá que el pago que corresponda por los conceptos establecidos en este artículo, será previo a la prestación del servicio correspondiente y se realizará por bimestres, ante la Oficina Recaudadora del domicilio o ubicación del establecimiento, a más tardar el día 17 de cada mes de cumplimiento, debiendo enterarse, el de Enero y Febrero, en Marzo, el de los meses de Marzo y Abril, en Mayo, el de los meses de Mayo y Junio, en Julio, el de los meses de Julio y Agosto, en Septiembre, el de los meses de Septiembre y Octubre, en Noviembre y el de los meses de Noviembre y Diciembre, en Enero del año siguiente.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2225,11 +2379,11 @@ ART. 67.- Estarán exentos del pago de cuotas los vehículos militares, policial
 
 Tampoco pagarán estas cuotas los vehículos en que transite el Presidente y Senadores de la República, Gobernador del Estado, Diputados Federales, Diputados al Congreso del Estado de Sinaloa y Presidentes Municipales del Estado de Sinaloa.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-ART. 68.- Los ingresos que se recauden por concepto de las cuotas y los derechos que se establecen en este capítulo, se destinarán al organismo que tenga a su cargo la administración de la referida autopista, para cubrir los gastos de operación, conservación y mantenimiento de la misma, hasta por el monto que señale el presupuesto de egresos que se hubiere autorizado para tal efecto.
+ART. 68. Los ingresos que se recauden por concepto de las cuotas y los derechos que se establecen en este Capítulo, se destinarán al gasto público que sea necesario para cubrir los gastos de operación, conservación y mantenimiento de las autopistas, por conducto del organismo que tenga a su cargo la administración de las mismas, hasta por el monto que señale el presupuesto de egresos que se hubiere autorizado para tal efecto.
 
-La parte de los ingresos que exceda el límite señalado en el párrafo anterior, no tendrá fin específico.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2489,6 +2643,14 @@ ART. 78 bis-5.- Por la búsqueda exhaustiva de información pública del Gobiern
 
 ART. 78 bis-6.- Cuando en esta Ley se tenga fijado el cobro de algún derecho, por la reproducción de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, no se aplicará la tarifa que señala este Capítulo.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+ART. 78 bis-7. Por la revalidación anual de autorización o de reconocimiento de validez oficial de estudios, emitida por la autoridad educativa estatal, se cubrirá un salario mínimo general del Estado por cada alumno inscrito.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+ART. 78 bis-8. Cuando por el pago de los derechos contenidos en este Título, se determine una cuota en fracciones de centavos, se ajustará esta a la unidad inmediata siguiente si se trata de fracciones de cincuenta centavos o superior y cuando la fracción sea inferior a cincuenta centavos, el ajuste se hará a la unidad inmediata anterior.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO UNICO
@@ -2497,11 +2659,11 @@ ART. 78 bis-6.- Cuando en esta Ley se tenga fijado el cobro de algún derecho, p
 
 ART. 79.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Hacienda Pública y Tesorería.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-ART. 80.- Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de arrendamiento de terrenos para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de las carreteras en jurisdicción estatal.
+ART. 80.- Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de arrendamiento o usufructo oneroso de terrenos para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de las autopistas y carreteras de jurisdicción estatal.
 
-En estos casos se cobrará una cuota anual de 0.5 a 2 salarios mínimos por metro cuadrado, independientemente del pago del costo de acceso que afecte a la carretera.
+En estos casos se cobrará una cuota mensual de dos salarios mínimos generales vigentes en el Estado por metro cuadrado o fracción independientemente del pago del costo de acceso que afecte a la carretera.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2659,7 +2821,9 @@ a).- Actos del Registros (sic) Civil;
 
 b).- Legalización de títulos profesionales;
 
-c).- Registro de vehículos de motor; y
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+c).- Licencias y Servicios de Tránsito.
 
 d).- Registro público de la propiedad y del comercio, con excepción de los derechos por este concepto aplicables a créditos de habilitación o avío, refaccionarios o hipotecarios, otorgados por instituciones de crédito.
 
@@ -2681,7 +2845,7 @@ ART. 114.- Sobre el monto de los impuestos que a continuación se indican, se ca
 
 I.- Impuesto sobre adquisición de vehículos de motor usado.
 
-II.- Impuesto sobre profesiones y oficios.
+II.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3408,6 +3572,12 @@ Artículo Segundo. Las demás entidades públicas a que se refiere el artículo 
 P.O. 9 DE AGOSTO DE 2006.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del Consejo para el Desarrollo Económico de Sinaloa en cada ejercicio fiscal, será el equivalente al 20% de lo recaudado en el ejercicio fiscal 2007 del Impuesto Sobre Nóminas, cantidad que en ejercicios posteriores se tomará como base para integrar su patrimonio, la que será actualizada en términos reales en cada ejercicio.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
