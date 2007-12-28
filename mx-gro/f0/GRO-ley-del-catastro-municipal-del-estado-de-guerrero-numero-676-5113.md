@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2006-12-29"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -217,9 +217,13 @@ I.- Asesoría y capacitación técnica, administrativa y jurídica al personal y
 
 II.- Apoyar a las Direcciones o Áreas de Catastro de los Ayuntamientos de la Entidad, en la determinación de los valores unitarios de terreno y construcción y elaboración de las Tablas de Valores que deberán remitir al H. Congreso del Estado, para su discusión y aprobación, en su caso;
 
-III.- Unificar los criterios y lineamientos de valuación inmobiliaria a (sic) conforme a las disposiciones de la presente Ley y su Reglamento, y
+III.- Unificar los criterios y lineamientos de valuación inmobiliaria a (sic) conforme a las disposiciones de la presente Ley y su Reglamento, y (sic)
 
-IV.- Ejercer las atribuciones técnicas, administrativas y normativas cuando los Ayuntamientos celebren convenios de Coordinación o Colaboración con el Gobierno del Estado, para que los Ayuntamientos realicen con mayor eficiencia el cobro y administración del impuesto predial.
+IV.- Ejercer las atribuciones técnicas, administrativas y normativas cuando los Ayuntamientos celebren convenios de Coordinación o Colaboración con el Gobierno del Estado, para que los Ayuntamientos realicen con mayor eficiencia el cobro y administración del impuesto predial;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+V.- La Coordinación General de Catastro será el órgano técnico especializado que coadyuve con los Ayuntamientos y el H. Congreso del Estado en el establecimiento de los lineamientos en materia de catastro y de las contribuciones relacionadas con la propiedad inmobiliaria.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -398,6 +402,10 @@ Para determinar el valor catastral de cada predio, se aplicarán los valores uni
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 Los Ayuntamientos municipales que remitan su iniciativa de Decreto de Tablas de valores Unitarios de Suelo y Construcción al H. Congreso del Estado, para su aprobación, previamente deberán ser revisadas y validadas por la Coordinación General de Catastro dependiente de la Secretaría de Finanzas y Administración del Gobierno del Estado, para vigilar al cumplimiento de los criterios y lineamientos técnicos y normativos establecidos en la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+En caso de que la Coordinación General de Catastro emita observaciones sobre la iniciativa de Decretos de Tablas de Valores Unitarios de Suelo y Construcción, las hará del conocimiento del Ayuntamiento interesado y del H. Congreso del Estado, para que éste último valore la conveniencia de incluir dichas observaciones en el Decreto correspondiente.
 
 ###### ARTICULO 23.
 
@@ -888,6 +896,16 @@ P.O. 29 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor a partir del primero de enero del año dos mil siete.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del primero de enero del año dos mil ocho.
 
 ###### ARTÍCULO SEGUNDO.
 
