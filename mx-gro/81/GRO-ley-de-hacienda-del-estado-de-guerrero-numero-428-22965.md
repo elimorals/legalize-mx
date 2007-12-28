@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2006-12-29"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
-Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 28 de diciembre de 2001.
+Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
 RENE JUAREZ CISNEROS, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 
@@ -213,13 +213,13 @@ V. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2006)
 
 Son sujetos de este impuesto las personas físicas que habitual o accidentalmente perciban los ingresos a que se refiere el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-###### ARTÍCULO 2º Bis.
+###### ARTICULO 2o Bis.
 
-Las personas morales que paguen los servicios de personas físicas serán responsables de llevar a cabo la retención y entero del Impuesto citado y enterarlo a más tardar el día 17 del mes siguiente del mes inmediato posterior al que corresponda al pago en la Administración, Agencia Fiscal u oficinas autorizadas.
+Las personas morales que paguen los servicios de personas físicas serán responsables de llevar a cabo la retención del Impuesto citado y enterarlo a más tardar el día 17 del mes siguiente del mes inmediato posterior al que corresponda el pago, mediante declaración que presentaran ante las oficinas o por los medios autorizados.
 
-Las personas morales están obligadas a presentar declaración anual informativa, proporcionando información sobre las personas a las cuales se les haya retenido y efectuado pagos por dicho impuesto en las Administraciones o Agencias fiscales que corresponda, a más tardar dentro de los tres primeros meses del ejercicio inmediato posterior, mediante el formato oficial que para tal efecto expide la Secretaría de Finanzas y Administración.
+Las personas morales están obligadas a presentar declaración anual informativa, proporcionando información sobre las personas a las cuales se les haya retenido y efectuado pagos por dicho impuesto ante las oficinas o por los medios autorizados, a más tardar dentro de los tres primeros meses del ejercicio inmediato posterior, mediante el formato oficial que para tal efecto publique la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 3o.
 
@@ -245,7 +245,9 @@ II.- Llevar contabilidad y efectuar los registros en la misma de los ingresos a 
 
 III.- Presentar ante la Administración o Agencia Fiscal Estatal de su jurisdicción, copia de su declaración anual del Impuesto sobre la Renta, normal y complementarias, dentro de los diez días siguientes a su presentación ante las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público.
 
-IV.- Presentar declaraciones mensuales del pago de este Impuesto, ante las Administraciones o Agencias Fiscales Estatales o Instituciones Bancarias autorizadas en cuya jurisdicción se encuentre ubicado su establecimiento, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+IV.- Presentar declaraciones mensuales del pago de este Impuesto, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
 
 ### CAPITULO II. IMPUESTOS SOBRE INSTRUMENTOS PUBLICOS Y OPERACIONES CONTRACTUALES
 
@@ -301,13 +303,17 @@ Quedan exentos del pago del impuesto que establece este capítulo, las operacion
 
 Se exceptúan también del pago del impuesto, las fianzas que se otorguen a favor de la Federación, del Estado o de los Municipios.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 11.
 
-El impuesto se cubrirá anticipadamente a la fecha en que autorice el documento respectivo, en caso de que éste fuere otorgado dentro del Estado; dentro de los 30 días siguientes, si el otorgamiento de dicho documento se efectúa en el Distrito Federal o en otra Entidad Federativa; y dentro de los 90 días siguientes a la celebración del acto cuando se otorgue fuera del país.
+El impuesto se cubrirá anticipadamente a la fecha en que autorice el documento respectivo en caso de que éste fuere otorgado dentro del Estado; dentro de los 15 días siguientes si el otorgamiento de dicho documento se efectúa en el Distrito Federal o en otra Entidad Federativa; y dentro de los 90 días siguientes a la celebración del acto cuando se otorgue fuera del país.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 12.
 
-En los casos en que el documento cause efectos dentro del Estado, el fedatario público retendrá el impuesto y lo enterará ante la Administración o Agencia Fiscal Estatal de su jurisdicción en términos del artículo anterior. Los encargados del Registro Público de la Propiedad, no inscribirán ningún acto o contrato, si no se les comprueba que haya sido pagado el impuesto correspondiente.
+En los casos en que el documento cause efectos dentro del Estado, el fedatario público retendrá el impuesto y lo enterará ante las oficinas o por los medios autorizados en términos del artículo anterior. Los encargados del Registro Público de la Propiedad, no inscribirán ningún acto o contrato, si no se les comprueba que haya sido pagado el impuesto correspondiente.
 
 La infracción de esta regla los hará solidariamente responsable del pago del crédito fiscal respectivo.
 
@@ -328,6 +334,10 @@ Son sujetos del impuesto las personas físicas o morales que obtengan ingresos d
 Es base para el pago del impuesto el monto total de los ingresos obtenidos.
 
 Se considerará como ingreso del espectáculo público la cantidad total que se cobre por los boletos o cuotas de entradas, donativos, cooperaciones o cualquier concepto, al que se condicione el acceso al espectáculo ya sea directamente o por un tercero incluyendo las que se paguen por derecho a reservar, apartar o adquirir anticipadamente el boleto de acuerdo al espectáculo público.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Los contribuyentes que perciban ingresos de los señalados en este Capitulo deberán presentar declaraciones mensuales del pago de este Impuesto, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
 
 ###### ARTICULO 16.
 
@@ -395,7 +405,9 @@ VI.- Presentar a la terminación del espectáculo público los boletos que no ha
 
 VII.- Los propietarios de los locales, establecimientos, salones de fiestas y otros análogos, en donde se lleven a cabo bailes, jaripeos, corridas de toros, peleas de gallos, funciones de lucha libre y box, etc., estarán obligados a informar a la Secretaría de Finanzas y Administración, por lo menos con 5 días de anticipación a la fecha de la realización del evento; así como exigir al organizador o promotor del mismo, copia del recibo oficial autorizado en donde conste el monto del depósito o la garantía de pago de los impuestos correspondientes; en caso contrario, serán responsables solidarios del crédito que se determine por la realización del espectáculo;
 
-VIII.- En el caso de los espectáculos de carácter eventual o transitorio, la empresa garantizará previamente en efectivo o en alguna de las formas señaladas en el Código Fiscal del Estado a satisfacción de la oficina recaudadora respectiva, el importe probable del impuesto el cual se liquidará al finalizar cada función o espectáculo. Cubierto el impuesto cesará la garantía inmediatamente.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VIII.- En el caso de los ingresos esporádicos, derivados de la presentación de espectáculos de carácter eventual o transitorio, la empresa garantizará previamente en efectivo o en algunas de las formas señaladas en el Código Fiscal del Estado a satisfacción de la oficina recaudadora respectiva, el importe probable del impuesto el cual se liquidará al finalizar cada función o espectáculo.
 
 ###### ARTICULO 18.
 
@@ -423,9 +435,11 @@ En el caso de exención para el pago de este impuesto que soliciten los Partidos
 
 IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, CONCURSO DE TODA CLASE Y APUESTAS SOBRE JUEGOS PERMITIDOS.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 21.
 
-Es objeto de este impuesto sobre Loterías, Rifas, Sorteos, Concurso de toda Clase y Apuestas sobre Juegos Permitidos, la percepción de ingresos derivados de la celebración o la ejecución que sobre estos actos se realicen o deriven dentro del territorio del Estado, así como la obtención de premios como resultado de los mismos actos.
+Es objeto de este impuesto sobre Loterías, Rifas, Sorteos, Concurso de toda Clase y Apuestas sobre Juegos Permitidos, la percepción de ingresos derivados de la celebración o la ejecución que sobre estos actos se realicen o deriven dentro del territorio del Estado, así como la percepción de ingresos por la obtención de premios derivados de los mismos actos.
 
 ###### ARTICULO 22.
 
@@ -459,9 +473,11 @@ El impuesto sobre los premios que se otorgan como resultados de las loterías, r
 
 Cuando se acumulen dos o más premios a favor de una misma persona, sobre la suma total de los premios que se obtengan se aplicará la tasa antes señalada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 25.
 
-Las personas físicas o morales que hayan cumplido con los requisitos que establezcan las Leyes para la celebración de loterías, rifas, sorteos, concursos de toda clase y apuestas sobre juegos permitidos, tendrán las siguientes obligaciones:
+Las personas físicas o morales que perciban ingresos de los señalados en este Capitulo deberán presentar declaraciones mensuales del pago de este Impuesto, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago, debiendo cumplir además con las siguientes obligaciones:
 
 I.- Dar aviso a la Secretaría de Finanzas y Administración o a sus oficinas fiscales recaudadoras en las formas aprobadas al día siguiente de la fecha en que les haya sido autorizado el permiso por la autoridad competente.
 
@@ -505,11 +521,11 @@ La Secretaría de Finanzas y Administración se reserva el derecho para practica
 
 Es objeto del impuesto sobre Compraventa de Vehículos de Motor Usados la percepción de ingresos derivados de la compra-venta de automóviles, camiones, yates, lanchas motorizadas y demás clases de vehículos de motor usados, salvo que se encuentre gravado por el Impuesto al Valor Agregado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 30.
 
-Son sujetos de este impuesto, las personas físicas que perciban ingresos como resultado de las operaciones de compraventa a que se refiere el artículo anterior, siendo solidario responsable como retenedor el adquirente, quien adquiere la obligación de enterarlo a la Administración o Agencia Fiscal correspondiente, a más tardar dentro de los 17 días siguientes a la operación de compraventa, siempre y cuando por dichas operaciones, no se cause el Impuesto al Valor Agregado.
+Son sujetos de este impuesto, las personas físicas que perciban ingresos como resultado de las operaciones de compraventa a que se refiere el artículo anterior, siendo solidario responsable como retenedor el adquirente, quien adquiere la obligación de enterarlo ante las oficinas o por los medios autorizados, a más tardar dentro de los 17 días siguientes a la operación de compraventa, siempre y cuando por dichas operaciones, no se cause el Impuesto al Valor Agregado.
 
 ###### ARTICULO 31.
 
@@ -549,7 +565,9 @@ La base para el pago de este impuesto será el total de remuneraciones al trabaj
 
 A la base gravable para el cálculo de este impuesto le serán deducidos las erogaciones exentas estipuladas en el artículo 41 de esta Ley de Hacienda del Estado de Guerrero.
 
-El impuesto se causará en el momento que se realicen las erogaciones por remuneraciones al trabajo personal subordinado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+El impuesto se causará en el momento que se realicen las erogaciones por remuneraciones al trabajo personal.
 
 ###### ARTICULO 36.
 
@@ -559,7 +577,9 @@ Son sujetos de este impuesto las personas físicas y morales que habitual o acci
 
 Los propietarios de inmuebles que contraten los servicios de personas físicas o morales para la construcción de sus obras, están obligados a informar a la Secretaría de Finanzas y Administración dentro de los 30 días siguientes a la fecha de iniciación de operaciones, el tipo del servicio contraído, debiendo acompañar el aviso de alta de estos últimos efectuado ante la oficina rentística de la jurisdicción en donde se encuentre ubicada la obra; caso contrario, serán responsables solidarios del crédito que se determine para el pago del impuesto a que se refiere este Capítulo.
 
-Cuando se trate de obras de construcción concluidas y el propietario de las mismas no exhiba la documentación respectiva por concepto de erogación de mano de obra, se considerará como acto accidental y el pago del impuesto se causará de conformidad aplicando lo que establece el Artículo 86 fracción XII, inciso c) del Código Fiscal del Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Cuando se trate de obras de construcción concluidas y el propietario de las mismas no exhiba la documentación respectiva por concepto de erogación de mano de obra, se considerará como acto accidental y el pago del impuesto se causará sobre la base que resulte de elevar cuatro veces el salario mínimo general del área geográfica del contribuyente por cada trabajador a su servicio, pudiendo la Secretaría de Finanzas y Administración allegarse de información o de dictámenes de otras dependencias facultades para determinar las bases de los gravámenes que corresponda.
 
 ###### ARTICULO 38.
 
@@ -571,11 +591,9 @@ II.- Llevar contabilidad y efectuar los registros en la misma de las remuneracio
 
 III.- Inscribirse en el Registro Estatal de Contribuyentes, ante la Administración o Agencia Fiscal que le corresponda dentro de los treinta días siguientes a la fecha de inicio de sus actividades, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-IV.- Presentar declaraciones mensuales del pago de este impuesto, ante las Administraciones o Agencias Fiscales Estatales o Instituciones Bancarias autorizadas en cuya jurisdicción se encuentre ubicado su establecimiento, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
-
-Los contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta deberán presentar las declaraciones de este impuesto bimestralmente, a más tardar el día 17 del mes de calendario posterior al bimestre que corresponda el pago, y
+IV.- Presentar declaraciones mensuales del pago de este impuesto, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago. Los contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta deberán presentar las declaraciones de este impuesto bimestralmente, a más tardar el día 17 del mes de calendario posterior al bimestre que corresponda el pago en las oficinas o por los medios autorizados.
 
 V.- Presentar ante la Administración o Agencia Fiscal que le corresponda a la jurisdicción de su domicilio fiscal, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, dentro de los treinta días siguientes a la fecha en que ocurra cualquiera de estas situaciones.
 
@@ -583,29 +601,35 @@ V.- Presentar ante la Administración o Agencia Fiscal que le corresponda a la j
 
 El Impuesto Sobre Remuneraciones al Trabajo Personal, se causará con la tasa del 2.0%
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 40.
 
-Las dependencias del Gobierno Federal, Estatal o Municipal, así como los organismos y empresas paraestatales que contraten con personas físicas o morales la realización de obras o servicios, están obligadas a informar por escrito de las mismas, a la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, dentro de los 15 días siguientes a la firma del o de los contratos respectivos, asimismo, deberán exigir a los contratados su comprobante de inscripción para efectos del pago del Impuesto Sobre Remuneraciones al Trabajo Personal ante la Administración o Agencia Fiscal estatal, donde se encuentre ubicada la obra.
+Las dependencias del Gobierno Federal, Estatal o Municipal, así como los organismos y empresas paraestatales que contraten con personas físicas o morales la realización de obras o servicios, están obligadas a informar por escrito de las mismas, a la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, dentro de los 15 días siguientes a la firma del o de los contratos respectivos, esta información deberá presentarse en la Administración y/o Agencia Fiscal donde se encuentre ubicada la obra; asimismo deberán exigir a los contratados su comprobante de inscripción para efectos del pago del Impuesto Sobre Remuneraciones al Trabajo Personal.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 40 Bis.
+ARTICULO 40 BIS.- La Secretaría de Finanzas y Administración podrá celebrar Convenios de Colaboración Administrativa, para la recaudación del Impuesto Sobre Remuneraciones al Trabajo Personal con: las dependencias y entidades del Gobierno Federal, los Municipios del Estado, Fideicomisos Públicos Estatales y Municipales, Organismos Públicos Autónomos y Descentralizados, y Empresas de Participación Municipal y Estatal, que contraten con personas físicas o morales la realización de obras o servicios en el Estado de Guerrero, con el objeto de que se constituyan como retenedores de dicho impuesto, a favor de la Hacienda Pública estatal; en los cuales podrán establecerse incentivos a favor de las Entidades y Entes Públicos Estatales y Municipales, que recauden por cuenta del Estado dicho Impuesto.
 
-La Secretaría de Finanzas y Administración podrá celebrar Convenios de Colaboración Administrativa, para la recaudación del Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado con: las dependencias y entidades del Gobierno Federal, los Municipios del Estado, Fideicomisos Públicos Estatales y Municipales, Organismos Públicos Autónomos y Descentralizados, y Empresas de Participación Municipal y Estatal, que contraten con personas físicas o morales la realización de obras o servicios en el Estado de Guerrero, con el objeto de que se constituyan como retenedores de dicho impuesto, a favor de la Hacienda Pública estatal; en los cuales podrán establecerse incentivos a favor de las Entidades y Entes Públicos Estatales y Municipales, que recauden por cuenta del Estado dicho Impuesto.
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007
 
-La recaudación obtenida en términos de los párrafos que anteceden, deberá enterarse a más tardar el día 17 del mes siguiente, mediante declaración que presentaran ante la Administración o Agencia Fiscal Estatal y/o oficinas autorizadas por la Secretaria de Finanzas y Administración.
+La recaudación obtenida en términos de los párrafos que anteceden, deberá enterarse a más tardar el día 17 del mes siguiente, mediante declaración que presentaran ante las oficinas o por los medios autorizados.
 
 La retención a que se refiere este artículo se hará sobre la estimación que de los sueldos le presente el contratista en la proporción en que estas le sean total o parcialmente pagadas.
 
 Los retenedores en términos de este artículo, deberán presentar a más tardar dentro de los tres primeros meses del ejercicio siguiente, declaración informativa proporcionando información sobre las personas a quienes les hayan efectuado dichas retenciones, en las formas autorizadas para tal efecto ante las Administraciones o Agencia Fiscal Estatal y/o oficinas autorizadas.
 
-Serán sujetos de retención del Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado, los derechos de cobro que tienen los contratistas o subcontratistas, sobre las estimaciones por trabajos ejecutados, que se deriven de los contratos de obra pública y servicios relacionados; así también los derechos cedidos parcial o completamente para el cobro a favor de otra persona distinta de estos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Serán sujetos de retención del Impuesto Sobre Remuneraciones al Trabajo Personal, los derechos de cobro que tienen los contratistas o subcontratistas, sobre las estimaciones por trabajos ejecutados, que se deriven de los contratos de obra pública y servicios relacionados; así también los derechos cedidos parcial o totalmente para el cobro a favor de otra persona distinta de estos, el contrato podrá acreditar contra el pago de este impuesto las cantidades retenidas.
 
 La Secretaría de Finanzas podrá verificar en cualquier momento, el cumplimiento de la obligación fiscal como resultado de la contratación de obras publicas y servicios relacionados con las mismas.
 
 El retenedor deberá comunicar dentro de los quince días siguientes a la conclusión de la obra a la Secretaria de Finanzas, sobre la conclusión de los trabajos encomendados al contratista o subcontratista.
 
-En el caso de las Dependencias y Entidades del Gobierno del Estado, quedan obligadas a efectuar la retención del Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado, que se genere por las personas físicas o morales que sean beneficiadas con la asignación de contratos para la realización de obras públicas, en términos de los párrafos anteriores a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+En el caso de las Dependencias, Entidades del Gobierno del Estado, quedan obligadas a efectuar la retención del Impuesto Sobre Remuneraciones al Trabajo Personal, que se genere por las personas físicas o morales que sean beneficiadas con la asignación de contratos para la realización de obras públicas, en términos de los párrafos anteriores a que se refiere este artículo.
 
 ###### ARTICULO 41.
 
@@ -629,9 +653,9 @@ g) Servicios de comedor y comida proporcionada a los trabajadores.
 
 h) Vales de despensa.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-Las despensas en especie o en dinero, se considerará exento hasta un importe del 40% de un salario mínimo del área geografía del contribuyente elevado al año.
+Las despensas en especie o en dinero, se considerará exento hasta un importe del 40% de un salario mínimo del área geografía (sic) del contribuyente elevado al mes.
 
 i) Becas educacionales y deportivas.
 
@@ -643,9 +667,9 @@ l) Prima de seguros por gastos médicos o de vida.
 
 m) Premios por asistencia.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-En este caso, se considerará exento hasta un importe del 10% de un salario mínimo del área geográfica del contribuyente elevado al año.
+En este caso, se considerará exento hasta un importe del 10% de un salario mínimo del área geográfica del contribuyente elevado al mes.
 
 > <small>(REFORMADO, P.O. 24 DICIEMBRE 2002)</small>
 
@@ -661,9 +685,9 @@ q) Intereses por créditos al personal.
 
 En el caso de personas morales para que los conceptos mencionados en este precepto se excluyan como integrantes de la base del impuesto sobre remuneraciones al trabajo personal, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-r) Los pagos realizados a un trabajador cuyo salario no exceda de un salario mínimo general del área geográfica del contribuyente elevado al año, siempre y cuando este sea su ascendiente o descendiente en línea recta, por contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta.
+r) Los pagos realizados a un trabajador cuyo salario no exceda de un salario mínimo del área geográfica del contribuyente elevado al mes, siempre y cuando este sea su ascendiente o descendiente en línea recta, por contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta.
 
 II.- Las erogaciones que efectúen:
 
@@ -685,9 +709,11 @@ Las infracciones al presente Capítulo serán sancionadas de conformidad con lo 
 
 IMPUESTOS ADICIONALES PARA EL FOMENTO EDUCATIVO, ECONOMICO, SOCIAL Y ECOLOGICO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 43.
 
-Para el cobro del impuesto adicional de fomento educativo y asistencia social del Estado, se aplicará una tasa del 15%, mismo que se aplicará sobre el producto de los siguientes conceptos:
+Para el cobro del impuesto adicional de fomento educativo y asistencia social del Estado, se aplicará una tasa del 15%, mismo que se aplicará sobre los siguientes conceptos:
 
 a).- Impuesto sobre el ejercicio de la profesión médica.
 
@@ -705,19 +731,25 @@ g).- Impuesto sobre tenencia o uso de vehículos automotores terrestres, de 10 o
 
 h).- Derechos por todas clases de servicios públicos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 44.
 
-Para el cobro del impuesto adicional para el fomento de construcción de caminos en el Estado, se aplicará una tasa del 15%, misma que se aplicará sobre el producto resultante de la aplicación de los derechos por toda clase de servicios.
+Para el cobro del impuesto adicional para el fomento de la construcción de los caminos en el Estado, se aplicará una tasa del 15%, misma que se aplicará sobre los derechos por toda clase de servicios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 45.
 
-Con el interés de fomentar la corriente turística, se causará un impuesto adicional sobre el producto resultante de la aplicación de los conceptos señalados en el artículo 43 de la presente Ley, la tasa que se aplicará será del 15%.
+Con el interés de fomentar la corriente turística, se causará un impuesto adicional de los conceptos señalados en el artículo 43 de la presente Ley, la tasa que se aplicará será del 15%. El presente impuesto adicional no se causará sobre los premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase, previstos por el artículo 22 de esta Ley.
 
 El presente impuesto adicional no se causará sobre los premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase, previstos por el artículo 22 de este Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 46.
 
-Para el cobro del impuesto adicional de la recuperación ecológica y forestal del Estado, se aplicará una tasa del 15%, mismo que se calculará sobre el producto resultante de la aplicación de los conceptos señalados en el artículo 43 de esta Ley.
+Para el cobro del impuesto adicional de la recuperación ecológica y forestal del Estado, se aplicará una tasa del 15%, mismo que se calculará sobre los conceptos señalados en el artículo 43 de esta Ley.
 
 El presente impuesto adicional no se causará sobre los premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase, previstos por el artículo 22 de esta Ley.
 
@@ -725,11 +757,11 @@ El presente impuesto adicional no se causará sobre los premios derivados de la 
 
 Los impuestos adicionales se pagarán en el mismo acto en que se pague el concepto principal. Si el pago de créditos fiscales se realiza en forma extemporánea, estos impuestos causarán recargos de Ley.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 47 Bis.
+###### ARTICULO 47
 
-Las personas morales que paguen a personas físicas los conceptos señalados en este Capítulo, serán responsables de llevar a cabo la retención de los impuestos adicionales citados, y enterarlos a más tardar el día 17 del mes inmediato posterior al que corresponda el pago mediante declaración que presentarán en las Administraciones, Agencias Fiscales u oficinas autorizadas.
+BIS.- Las personas morales que paguen a personas físicas los conceptos señalados en este Capítulo, serán responsables de llevar a cabo la retención de los impuestos adicionales citados, y enterarlos a más tardar el día 17 del mes inmediato posterior al que corresponda el pago mediante declaración que presentaran en las oficinas o por los medios autorizados.
 
 ### CAPITULO VIII. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
@@ -745,13 +777,23 @@ Para los efectos de este impuesto se consideran servicios de hospedaje, la prest
 
 De los ingresos que genere este impuesto, el 93 % será destinado para la promoción turística nacional e internacional, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos que determinen los Comités Técnicos de los Fideicomisos de Promoción Turística a los que corresponderá la administración de los recursos recaudados por este impuesto y en los que se integrarán representantes de la Secretaría de Finanzas y Administración del Gobierno del Estado y del Sector Turístico.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+El Gobernador del Estado establecerá mediante acuerdos que se publiquen en el Periódico Oficial del Gobierno del Estado de Guerrero las reglas a las que se sujetará la constitución y, operación de los Fideicomisos.
+
 El 7% de los ingresos que genere la recaudación de este impuesto, se destinará a la Secretaría de Finanzas y Administración para absorber los gastos de administración del mismo.
 
-El Estado entregará a los Fideicomisos, que se establezcan en los Municipios los ingresos netos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto.
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+Cuando el ingreso de esta contribución derive del ejercicio de facultades de comprobación, se destinará un 30% a la Secretaría de Finanzas y Administración para solventar los gastos extraordinarios de administración por su recuperación.
 
-Los fideicomisos presentarán en el mes de enero al Comité Técnico sus proyectos del ejercicio de recursos financieros y su programa operativo anual; y a la Secretaría de Finanzas y Administración un informe semestral en los meses de enero y julio de cada año, en el que se indique su situación financiera, los resultados de operación que incluyan el de gestión del periodo respecto de la ocupación, comparado con su programa operativo anual, así como el origen y aplicación de los recursos entregados por el Gobierno del Estado y por los particulares.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+El Gobierno del Estado a través de la Secretaría de Finanzas y Administración, entregará a los Fideicomisos, que se establezcan en los Municipios del Estado los ingresos netos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Los fideicomisos presentarán en formas semestral, a la Secretaría de Finanzas y Administración en los meses de enero y julio de cada año, su programa operativo anual, así como un informe en el que se indique su situación financiera, los resultados de operación que incluyan el de gestión del periodo respecto de la ocupación, comparado con su programa operativo anual, así como el origen y aplicación de los recursos entregados por el Gobierno del Estado y por los Particulares.
 
 ###### ARTICULO 49.
 
@@ -781,9 +823,11 @@ Para efectos del párrafo que antecede, se entenderá por tiempo compartido, lo 
 
 El pago de este impuesto se determinará aplicando a la base gravable, la tasa del 2%.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 52.
 
-Los contribuyentes de este Impuesto deberán presentar declaraciones mensuales del pago, ante las Administraciones o Agencias Fiscales Estatales o Instituciones Bancarias autorizadas en cuya jurisdicción se encuentre ubicado su establecimiento, a mas tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
+Los contribuyentes de este impuesto deberán presentar declaraciones mensuales del pago ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
 
 ###### ARTICULO 53.
 
@@ -795,9 +839,11 @@ No se considerarán servicios de hospedaje, el albergue o alojamiento prestados 
 
 Sobre los impuestos, excepto predial y adquisición de inmuebles, derechos, con excepción de servicios catastrales, multas y rezagos que perciban los municipios del Estado, se cobrará una contribución estatal, del 15%.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 55.
 
-Las Tesorerías Municipales serán las responsables de hacer efectiva la contribución Estatal, dándose ingreso en caja al importe total; Mensualmente entregarán el producto de esta contribución en la Oficina Fiscal Estatal de su domicilio, durante los primeros 10 días del mes siguiente, mediante la presentación de la declaración correspondiente, expidiendo el Administrador o Agente Fiscal Estatal, en este acto, el recibo oficial correspondiente.
+Las Tesorerías Municipales serán las responsables de hacer efectiva la contribución Estatal, dándose ingreso en caja al importe total; mensualmente entregarán el producto de esta contribución en las oficinas o por los medios autorizados, durante los primeros 17 días del mes siguiente, mediante la presentación de la declaración correspondiente.
 
 ### CAPITULO X. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS AUTOMOTORES
 
@@ -871,11 +917,11 @@ De 31 en adelante 3.84
 
 V.- En el caso de vehículos de carga o de arrastre, se pagará una cuota de 0.95 por cada tonelada de capacidad de carga o de arrastre.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 60.
 
-Este Impuesto se pagará anualmente mediante declaración, en la forma oficial autorizada por la Secretaría de Finanzas y Administración dentro de los tres primeros meses de cada año, conjuntamente con los derechos de control vehicular ante las Administraciones o Agencias Fiscales Estatales y/o oficinas autorizadas para tal efecto.
+Este Impuesto se pagará anualmente mediante declaración, en la forma oficial autorizada por la Secretaría de Finanzas y Administración dentro de los tres primeros meses de cada año, conjuntamente con los derechos de control vehicular ante las oficinas o por los medios autorizados.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -891,11 +937,11 @@ Los derechos por la prestación de servicios públicos que otorguen las diversas
 
 Son sujetos de los derechos, las personas físicas o morales que solicitan la prestación de un servicio público o el desarrollo de una actividad y las que resulten beneficiadas por las actividades realizadas por el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 63.
 
-Los derechos se causarán de conformidad con las tasas y tarifas que se establezcan en la presente Ley y se pagarán en cualquiera de las Oficinas Recaudadoras establecidas por la Secretaría de Finanzas y Administración en el Estado, excepto los causados por los Servicios que preste la Dirección General del Registro Público de la Propiedad del Comercio y Crédito Agrícola, así como los Derechos que se causen por el servicio público de transporte los cuales deberán ser cubiertos en la Oficina Recaudadora que para tal efecto designe el C. Secretario de Finanzas y Administración.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+Los derechos se causarán de conformidad con las tasas y tarifas que se establezcan en la presente Ley y se pagarán ante las oficinas o por los medios autorizados.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
 
@@ -903,7 +949,9 @@ Los derechos se causarán de conformidad con las tasas y tarifas que se establez
 
 Tratándose de los derechos de control Vehicular, los pagos deberán realizarse dentro de los 3 primeros meses del ejercicio fiscal de que se trate, salvo en el caso de vehículos nuevos o importados, supuesto en que el derecho deberá pagarse a más tardar dentro de los 15 días siguientes a aquél en que se adquirió o importó el vehículo.
 
-Observando que para cualquier pago o trámites vehiculares, el contribuyente deberá tener su residencia dentro de la jurisdicción que se encuentra ubicada la agencia fiscal, demostrando esto a suficiencia documentalmente.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Observando que para cualquier trámite vehicular, el contribuyente deberá tener su residencia dentro de la jurisdicción del Estado que se encuentra ubicada la agencia fiscal, demostrando esto a suficiencia documentalmente.
 
 ###### ARTICULO 65.
 
@@ -1347,7 +1395,13 @@ Cuando se solicite el registro de Sistemas de Tiempo Compartido que aún no se e
 
 XXIV.- Tratándose del registro de documentos inscribibles señalados en las fracciones anteriores, que se elaboren fuera del Estado 6.0 al millar; cuando sean de aquellos que no expresan valor, se causará una cuota de 11.0 a 13.0 que se determinará por el Director del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, tomando en consideración el volumen del documento y complejidad de la inscripción.
 
-XXV.- Los casos no previstos en este precepto, causarán los derechos señalados al acto que más analogía tenga con el que se consigne en el documento, a juicio de las autoridades del registro.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXV.- Por el Servicio de Tramite Urgente o Agilización de documentos para ser entregados el mismo día de su solicitud se cobrara 4 salarios mínimos diarios del área geográfica del contribuyente, adicionales al costo del servicio.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXVI.- Los casos no previstos en este precepto, causarán los derechos señalados al acto que más analogía tenga con el que se consigne en el documento, a juicio de las autoridades del registro.
 
 Las autoridades fiscales estarán facultadas para verificar en cualquier tiempo, mientras no prescriba el crédito fiscal, la veracidad de los documentos que hayan servido de base para el pago de los derechos a que se refieren todas las fracciones de este artículo.
 
@@ -1367,71 +1421,85 @@ I.- Certificaciones de firmas de actas constitutivas de sociedades cooperativas 
 
 II.- Certificaciones de otros documentos y actas de registro civil, cuando sean expedidas por la Coordinación Técnica y por sus oficialías correspondientes:
 
-A).- De nacimiento:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-1.- Registro en la oficina dentro de los 180 días. 0.68
+A).- Registro de Nacimiento
 
-2.- Registro fuera de la oficina dentro de los 180 días 2.84
+1.- Registro de Nacimiento de 1 día de nacido hasta los once años once meses de edad 1.98
 
-3.- Registro extemporáneo después de los 180 días hasta los 12 años en la oficina 1.24
+2.- Registro de Nacimiento Extemporáneo después de los 12 años de edad, con autorización administrativa o información testimonial 2.84
 
-4.- Registro extemporáneo después de los 180 días hasta los 12 años fuera de la oficina 2.84
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-5.- Registro extemporáneo después de los 12 años, con autorización administrativa o información testimonial. 2.84
+B).- Registro de Legitimación y Reconocimiento de hijos 1.53
 
-6).- Adopciones. 2.24
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-B).- De matrimonio:
+C).- Registro de Adopción 4.95
 
-1.- En la oficina en horas ordinarias 1.65
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-2.- En la oficina en horas extraordinarias 5.69
+D).- Registro de Matrimonio
 
-3.- A domicilio en horas ordinarias dentro de la población 6.80
+1.- En la oficina en horas ordinarias 3.35
 
-4.- A domicilio en horas extraordinarias dentro de la población 10.25
+2.- A domicilio dentro de la población 7.80
 
-5.- A domicilio en horas extraordinarias fuera de la población 13.63
+3.- Matrimonio entre extranjeros en la oficina 29.72
 
-6.- Matrimonio entre extranjeros en la oficina 12.48
+4.- Matrimonio entre extranjeros a domicilio dentro de la población 79.25
 
-7.- Matrimonio entre extranjeros a domicilio dentro de la población 47.99
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-8.- Divorcio entre nacionales 3.15
+E) Registro de Divorcio
 
-9.- Divorcio entre extranjeros 47.99
+1.- Divorcio Judicial entre nacionales 5.94
 
-10.- Divorcio Administrativo 19.20
+2.- Divorcio Judicial entre extranjeros 9.90
 
-C).- De defunción Gratuito
+3.- Divorcio administrativo entre nacionales 49.53
 
-D).- Otros:
+4.- Divorcio administrativo entre extranjeros 79.25
 
-1.- Legitimaciones y reconocimiento de hijos 1.53
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-2.- Expedición de copias certificadas 0.67
+F) Registro de Defunción Gratuito
 
-3.- Constancia de inexistencia de registro 1.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-Cuando los interesados no precisen el número de acta o fecha de ésta y consecuentemente deba hacerse la búsqueda, se cobrará 0.23 por año.
+G).- Registro de Inscripción de 4.95
 
-4.- Inscripción de sentencias 1.77
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-5.- Autorización administrativa de registro extemporáneo de nacimiento para personas mayores de 12 años 4.80
+H).- Registro de Inscripción de Sentencias 1.77
 
-6.- Anotaciones marginales de actas del registro civil 2.08
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-7.- Aclaración administrativa de actas del registro civil 5.76
+I).- Otros:
 
-8.- Legalización de firmas 1.92
+1.- Expedición de copias certificadas 0.67
 
-9.- Por apostilla 3.84
+2.- Constancia de inexistencia de registro 1.00
 
-10.- Otros servicios no especificados 2.40
+3.- Búsquedas 0.23 por año
 
-11.- Cualquier otra certificación que se expida distinta a las expresadas 0.96
+4.- Autorización administrativa de registro extemporáneo de nacimiento para personas mayores de 12 años 4.80
 
-No se causarán los impuestos adicionales a que se refieren los artículos 43 en su inciso h), 44, 45 y 46 de la presente Ley de Hacienda del Estado de Guerrero, en los conceptos del inciso d) de esta fracción.
+5.- Anotaciones marginales de actas del registro civil 2.08
+
+6.- Aclaración administrativa de actas del registro civil 5.76
+
+7.- Legalización de firmas 1.92
+
+8.- Por apostilla 3.84
+
+9.- Otros servicios no especificados 2.40
+
+10.- Cualquier otra certificación que se expida distinta a las expresadas 0.96
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+No se causarán los impuestos adicionales a que se refieren los artículos 43 en su inciso h), 44, 45 y 46 de la Presente Ley de Hacienda del estado de Guerrero, en los conceptos del inciso I) de esta fracción.
 
 III.- Certificados a ministros de las distintas religiones que estén autorizados para oficiar 1.27
 
@@ -1517,7 +1585,9 @@ Las personas físicas y morales que utilicen los servicios médicos que prestan 
 
 El monto de las cuotas citadas se determinará atendiendo a las condiciones socioeconómicas del solicitante conforme al tabulador aprobado.
 
-Quedan exceptuadas del pago de dichas cuotas, las personas cuyos ingresos sean hasta una vez el salario mínimo general de la zona económica correspondiente a la Localidad en que resida el solicitante de los servicios médicos, vigente en el momento de la prestación del servicio.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Quedan exceptuadas del pago de dichas cuotas, las personas cuyos ingresos sean hasta Dos veces el salario mínimo general de la zona económica correspondiente a la Localidad en que resida el solicitante de los servicios médicos, vigente en el momento de la prestación del servicio.
 
 La autoridad competente elaborará y aprobará los dictámenes por virtud de los cuales se establezcan las condiciones socioeconómicas de las personas que se mencionan en esta fracción.
 
@@ -1665,31 +1735,41 @@ g).- Valor fiscal mayor a 86,500 salarios mínimos del área geográfica “A”
 
 h).- Valor fiscal mayor a 164,500 salarios mínimos del área geográfica “A” se aplicará sobre el 15% del calor fiscal; la cantidad base a cobrar no será menor a 65.80 salarios mínimos del área geográfica “A”.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ARTICULO 99 Bis I.- Para el cobro de los derechos por el servicio de cartografía digital e impresa, se aplicará conforme a la siguiente tarifa:
 
-Concepto Tarifa
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-Ortofoto (Plano 45 cm x 30 cm).
+I.- Planos
 
-8 Salarios Mínimos Diarios del Área Geográfica “A”.
+A. Ortofoto (Plano 45 cm x 30 cm). 8 Salarios Mínimos Diarios del Área Geográfica “A”
 
-Curvas de Nivel (Plano 45 cm x 30 cm).
+B. Curvas de Nivel (Planos 45 cm x 30 cm). 6 Salarios Mínimos Diarios del Área Geográfica “A”
 
-6 Salarios Mínimos Diarios del Área Geográfica “A”.
+C. Plano 45 cm x 30 cm (de una a tres coberturas). 4 Salarios Mínimos Diarios del Área Geográfica “A”
 
-Plano 45 cm x 30 cm (de una a tres coberturas).
+D. Cada capa o cobertura adicional. 1 Salarios Mínimos Diarios del Área Geográfica “A”
 
-4 Salarios Mínimos Diarios del Área Geográfica “A”.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-Cada capa o cobertura adicional.
+II.- Servicios
 
-1 Salarios Mínimos Diarios del Área Geográfica “A”.
+A. Renta de computadora y cartografía por hora o fracción. 2 Salarios Mínimos Diarios del Área Geográfica “A”
 
-Renta de computadora y cartografía por hora o fracción.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-2 Salarios Mínimos Diarios del Área Geográfica “A”.
+III.- Conexión al servidor
+
+A. Dependencias Estatales y OPDS 25 SMG.
+
+B. Instituciones de Educación Pública 50 SMG.
+
+C. Instituciones de Educación privada 75 SMG.
+
+D. Dependencias Federales 100 SMG.
+
+E. Instituciones Extranjeras 200 SMG.
 
 ###### ARTICULO 100.
 
@@ -1715,9 +1795,9 @@ VEASE TABLA ANEXA
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
 
-###### ARTICULO 101
+###### ARTICULO 101 Bis.
 
-BIS.- Por los servicios relacionados con el otorgamiento de permisos para la contratación de obras que afecten el derecho de vía de carreteras o caminos de jurisdicción estatal, se causarán derechos conforme a las siguientes tarifas.
+Por los servicios relacionados con el otorgamiento de permisos para la contratación de obras que afecten el derecho de vía de carreteras o caminos de jurisdicción estatal, se causarán derechos conforme a las siguientes tarifas.
 
 I.- Por el permiso para la construcción de accesos que afecten el derecho de carretera o camino local incluyendo la supervisión de la obra 14% sobre el costo de la obra.
 
@@ -1739,9 +1819,9 @@ VI.- Por el permiso para llevar a cabo la realización de cruzamientos aéreos o
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE 2003)</small>
 
-###### ARTICULO 101
+###### ARTICULO 101 Bis
 
-BIS-1.- Por el Registro y Acreditación como Director Responsable de Obra y/o Corresponsable de carácter estatal 41.3.
+1.- Por el Registro y Acreditación como Director Responsable de Obra y/o Corresponsable de carácter estatal 41.3.
 
 ###### ARTICULO 102.
 
@@ -1855,15 +1935,17 @@ f).- Incentivos diversos.
 
 V.- Otros.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 108.
 
-Para los efectos del pago de las multas que se impongan, ya sean del orden judicial o administrativo, los funcionarios o empleados que las establezcan lo comunicarán oficialmente a las oficinas recaudadoras para hacerlas efectivas, expresando el nombre del infractor, lugar de su residencia, concepto e importe de la multa.
+Para los efectos del pago de las multas que se impongan, ya sean del orden judicial o administrativo, los funcionarios o empleados que las establezcan lo comunicarán oficialmente a las oficinas recaudadoras para hacerlas efectivas, expresando el nombre del infractor, lugar de su residencia, concepto e importe de la multa, mismas que se pagarán en las oficinas o por los medios autorizados.
 
 Las multas que impongan las autoridades de transporte se atendrán a lo siguiente:
 
 Se harán constar en la forma impresa autorizadas por la Secretaría de Finanzas y Administración, como lo señala el Reglamento de la Ley de Transporte y Vialidad.
 
-Se pagaran invariablemente en las cajas de las Administraciones o Agencias Fiscales Estatales.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ## TITULO QUINTO. PARTICIPACIONES EN INGRESOS FEDERALES
 
@@ -1891,9 +1973,11 @@ d) Otras participaciones:
 
 5.- 5 al millar sobre el derecho de vigilancia, inspección y control de la obra pública.
 
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 110.
 
-Las Tesorerías Municipales serán responsables de realizar el entero mensual de los porcentajes por concepto de Multas Administrativas Federales no Fiscales y de los derechos de Uso o Goce de la Zona Marítimo Terrestre que le correspondan al Estado, dentro de los cinco primeros días del mes siguiente a aquél en que hayan ingresado las cantidades efectivamente cobradas por los mismos, conforme lo establece el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
+Las Tesorerías Municipales serán responsables de realizar el entero mensual de los porcentajes por concepto de Multas Administrativas Federales no Fiscales y de los derechos de Uso o Goce de la Zona Marítimo Terrestre que le correspondan al Estado, dentro de los cinco primeros días del mes siguiente a aquél en que hayan ingresado las cantidades efectivamente cobradas por los mismos, conforme lo establece el Convenio de Colaboración Administrativa en Materia Fiscal Federal, en las oficinas o por los medios autorizados.
 
 ## TITULO SEXTO. DE LOS FONDOS DE APORTACIONES FEDERALES
 
@@ -2850,5 +2934,27 @@ Para el cumplimiento del pago de la Revista Electromecánica y de Confort, que s
 2.2ª. Revista se aplicará el pago de los meses julio, agosto y septiembre. Se hará aplicable a todo tipo de servicio público, así como el servicio particular de carga, incluyendo el tarjetón.
 
 ###### ARTÍCULO QUINTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil ocho.
+
+###### ARTÍCULO SEGUNDO.
+
+Se otorgan estímulos fiscales de hasta el 40% de descuento en los conceptos que señala el artículo 82 fracción I inciso A) punto 1 sobre la expedición inicial, inciso B); Fracción II, inciso C), D) y G) Fracción III inciso A) punto 1 número 4 y número 5, inciso C), número 1 inciso D), número 1, 4 y 5, Fracción IV, inciso A), número 1 y 2.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento del pago de la revista electromecánica y de confort, que señala el artículo 82 Fracción IV inciso "A" subinciso 1 y 2.
+
+1.- 1ª. Revista se aplicará el pago dentro de los 3 primeros meses del año, enero, febrero y marzo.
+
+2.- 2ª. Revista se aplicará (sic) dentro de los meses de julio, agosto y septiembre. Se hará aplicable a todo tipo de servicio público, así como el servicio particular de carga, incluyendo el tarjetón.
+
+###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
