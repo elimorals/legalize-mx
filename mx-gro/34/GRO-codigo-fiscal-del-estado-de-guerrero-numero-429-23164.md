@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2006-12-29"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -91,7 +91,9 @@ II.- La Ley de Hacienda;
 
 III.- La Ley de Ingresos;
 
-IV.- La Ley de Presupuesto, Contabilidad Gubernamental y Deuda Pública;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+IV.- La Ley número 255 del Presupuesto, de Egresos y la Contabilidad Gubernamental del Estado de Guerrero;
 
 V.- El Presupuesto de Egresos;
 
@@ -99,7 +101,7 @@ VI.- Los convenios de coordinación fiscal que celebre el Estado con la Federaci
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-VII.- La Ley número 251, que crea el Sistema Estatal de Coordinación Fiscal y establece las Bases, Montos y Plazos a los que se sujetarán las participaciones federales.
+VII.- La Ley número 251, que crea el Sistema Estatal de Coordinación Fiscal y establece las Bases, Montos y Plazos a los que se sujetarán las participaciones federales;
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -155,9 +157,9 @@ IV.- El Procurador Fiscal;
 
 V.- El Coordinador General de Catastro;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-VI.- Los directores de la Sub´Secretaria de Ingresos;
+VI.- Los Directores Generales de la Subsecretaría de Ingresos;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -165,11 +167,15 @@ VII.- Los jefes de departamento de la Sub´Secretaría de Ingresos;
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-VIII.- Los administradores fiscales estatales, y
+VIII.- Los administradores fiscales estatales, y (sic)
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-IX.- Los agentes fiscales estatales.
+IX.- Los agentes fiscales estatales;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+X.- Los subadministradores fiscales estatales.
 
 ###### ARTICULO 12.
 
@@ -467,7 +473,9 @@ Las contribuciones se causarán conforme se realizan las situaciones jurídicas 
 
 Las contribuciones y sus accesorios se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
 
-Las contribuciones y sus accesorios se causarán y se pagarán en moneda nacional, cheque de caja o certificado, transferencia electrónica de fondos a favor de la Secretaría de Finanzas y Administración, tarjera de crédito o debito del contribuyente, en especie vía dación en pago, de conformidad con las Reglas de carácter general que emita la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Las contribuciones y sus accesorios se causarán y se pagarán en moneda nacional, tarjeta de crédito o debito del contribuyente, en especie vía dación en pago, cheque de caja o certificado a favor de la Secretaria de Finanzas y Administración en la Administración o Agencia Fiscal, Instituciones Bancarias o mediante transferencia electrónica de fondos vía Internet.
 
 Se entiende como transferencia electrónica de fondos el pago de las contribuciones que por instrucciones de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria, a favor de la Secretaría de Finanzas y Administración, se realiza por las instituciones de crédito, en forma electrónica.
 
@@ -478,6 +486,14 @@ Así mismo las contribuciones y sus accesorios fiscales se podrán pagar mediant
 ###### ARTICULO 34.
 
 El crédito fiscal es la contribución fiscal determinada en cantidad líquida o en especie que incluye los accesorios legales, que deberán pagarse en los términos que determinen las disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+También se considerará como crédito fiscal las cuotas obrero patronales a favor del Instituto de Seguridad Social de los Servidores Públicos del Estado de Guerrero, a las cuales se aplicarán las disposiciones que regulan el cobro de dicho crédito fiscal.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Así mismo tendrán la naturaleza de crédito fiscal, los montos que se deriven del incumplimiento de los contratos de obras públicas, asignados por el Estado a particulares, a fin de resarcir el perjuicio que por dicho incumplimiento se le ocasione; a tales montos para su recuperación, les serán aplicadas las disposiciones que regulan el procedimiento administrativo de ejecución.
 
 ###### ARTICULO 35.
 
@@ -647,6 +663,10 @@ III.- Que la acción para reclamar la devolución no se haya extinguido;
 
 IV.- Que se dicte acuerdo escrito de la Secretaría de Finanzas y Administración o exista sentencia ejecutoriada de la autoridad correspondiente.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Las autoridades fiscales podrán ejercer facultades de comprobación para verificar la procedencia de las solicitudes de devolución que presentes (sic) los contribuyentes, las cuales no deberán rebasar el término de noventa días; si de los resultados de la revisión se concluye que es factible la devolución esta deberá hacérsele al contribuyente en un plazo que no excederá de 20 días a aquel en que se notifique la autorización.
+
 Contra la negativa de autoridad competente, para la devolución a que este artículo se refiere, el contribuyente podrá optar por interponer el recurso de revocación que establece este Código o interponer juicio de nulidad, ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
@@ -729,21 +749,27 @@ I.- Cuando se trate de cualquier clase de obligaciones a cargo y a favor del Est
 
 II.- Cuando se trate de cualquier clase de crédito o deudas a cargo del Estado, Federación de otras entidades federativas a favor del Estado; y
 
-III.- Cuando se trate de obligaciones fiscales a cargo de personas de derecho privado o de establecimientos públicos, y de créditos de una u otros, en contra del erario del Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-La compensación procederá cuando los créditos y deudas del fisco estatal sean liquidadas y exigibles, aunque no provengan de la aplicación de una misma Ley Tributaria.
+III.- Cuando se trate de obligaciones fiscales a cargo del contribuyente por adeudo propio o retención a terceros, estos podrán optar por compensar las cantidades que tengan a su favor, siempre y cuando ambas deriven del mismo impuesto y no tengan destino especifico.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 66.
 
-En los casos de las fracciones I y II del artículo que antecede, la compensación sólo operará si existe convenio de las partes interesadas.
+La compensación solo operara si existe autorización de la autoridad hacendaria estatal. Dicha petición podrá realizarse mediante escrito libre observando los requisitos del artículo 76 del presente ordenamiento.
 
 ###### ARTICULO 67.
 
-Salvo en lo dispuesto en la fracción III del artículo 65, en ningún caso procederá la compensación tratándose de relaciones del Erario Estatal con personas de derecho privado o con establecimientos públicos.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 68.
 
-Los créditos que se compensen deberán reunir en lo que fuera aplicable, las condiciones establecidas por el Código Civil del Estado.
+Los créditos que se compensen deberán reunir en lo que fuera aplicable, las condiciones establecidas en el Código Civil del Estado, cuando su naturaleza no sea contraria al derecho fiscal.
 
 ###### ARTICULO 69.
 
@@ -1105,9 +1131,31 @@ IX.- El visitado o la persona con la que se entienda la diligencia los testigos 
 
 X.- Con las mismas formalidades inducidas en la fracción anterior se levantarán actas previas o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-ARTICULO 88 BIS.- Quedan incluidos en la contabilidad los registros y cuentas especiales a que se obliguen las disposiciones fiscales, los que lleven los contribuyentes aún cuando no sean obligatorios y los libros y registros sociales que obliguen otras leyes.
+###### ARTICULO 88 Bis.
+
+Para los efectos de lo dispuesto por el artículo 37 de la Ley de Hacienda del Estado de Guerrero numero 428, las visitas domiciliarias se realizaran conforme a las siguientes reglas:
+
+I.- La visita domiciliaria se llevará a cabo en el lugar donde se realice la obra de construcción en proceso o concluida.
+
+II.- Cuando se ignore el nombre de la persona a la que va dirigida la orden de visita domiciliaria, se señalaran los datos suficientes que permitan su identificación, en todo caso el lugar de ubicación de la obra en cuestión.
+
+III.- Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregaran la orden de visita al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección, sin necesidad de dejar citatorio.
+
+IV.- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si estos no son designados o los designados no aceptan servir como tales los visitadores los designaran, haciendo constar tal situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
+
+V.- La persona con quien se entienda la diligencia deberá poner a disposición de los visitadores la documentación que se mencione en la orden de visita de manera inmediata; en el caso de que exista causa justificada que impida que el visitado entregue la documentación requerida a juicio de los visitadores se le podrá conceder un término de seis días para que la entregue en el lugar que se señale en el acta de visita.
+
+VI.- En toda visita domiciliaria se levantara acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidas por los visitadores en los términos de este código, o en su caso, las irregularidades detectadas durante la misma.
+
+VII.- Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentara en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma; dándose por concluida la visita domiciliaria.
+
+VIII.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación y notificación de la resolución correspondiente, dentro del término de 40 días hábiles. Fenecido este plazo y las autoridades no notifiquen la resolución al visitado, se entenderá concluida la revisión en esa fecha, quedando sin efectos la orden de visita.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 88 BIS], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 88 BIS I.- Quedan incluidos en la contabilidad los registros y cuentas especiales a que se obliguen las disposiciones fiscales, los que lleven los contribuyentes aún cuando no sean obligatorios y los libros y registros sociales que obliguen otras leyes.
 
 En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad se entenderá que la misma se integra por los sistemas y registros contables, por los papeles de trabajo, registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente por los equipos y sistemas electrónicos de registro fiscal y sus registros por las máquinas registradoras de comprobación fiscal y sus registros, cuando se este obligado a llevar dichas maquinas así como la documentación comprobatorios (sic) de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
@@ -1159,11 +1207,13 @@ ARTICULO 91 BIS.- Las personas físicas con actividades empresariales y las pers
 
 I.- Las que en el ejercicio anterior hayan obtenido ingresos acumulables superiores a $25´000,000.00 para efecto del impuesto sobre la renta.
 
-II. O que por lo menos cien de sus trabajadores les hayan prestado servicio en cada uno de los meses del ejercicio inmediato anterior.
+II.- O que por lo menos cien de sus trabajadores les hayan prestado servicio en cada uno de los meses del ejercicio inmediato anterior.
 
 Las personas físicas y las personas morales que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales.
 
-Los contribuyentes que estén obligados a dictaminarse, así como los que opten por dictaminar el cumplimiento de sus obligaciones fiscales, deben hacerlo por los conceptos de Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado y por el Impuesto sobre Hospedaje.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Los contribuyentes que estén obligados a dictaminarse, así como los que opten por dictaminar el cumplimiento de sus obligaciones fiscales, deben hacerlo por los conceptos de Impuesto Sobre Remuneraciones al Trabajo Personal y por el Impuesto Sobre la Prestación de Servicios de Hospedaje.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1179,6 +1229,248 @@ b) Cuando una misma persona física o moral ejerza control efectivo de ellas, au
 
 3.- Cuando la controladora o las controladas tengan una inversión en la sociedad de que se trate, de tal magnitud que de hecho les permita ejercer una influencia preponderante en las operaciones de la empresa.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+IV.- El registro para formular dictámenes del cumplimiento de obligaciones fiscales, lo pueden obtener las personas que se encuentren registradas ante la Administración General de Auditoría Fiscal Federal y que sean miembros de un Colegio de Contadores Públicos. Para tal efecto, deberán presentar ante la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, solicitud de registro en el formato oficial autorizado por la Secretaría de Finanzas y Administración, acompañando original y copia de su constancia de registro ante la Administración General de Auditoría Fiscal Federal del Servicio de Administración Tributaria, así como la constancia emitida por un Colegio de Contadores Públicos que acredite su calidad de miembro activo, expedida a más tardar en la fecha de presentación de la solicitud, original y copia de una identificación oficial.
+
+Por lo que respecta a la recepción de avisos, documentos e informes relacionados con el dictamen estatal, los contribuyentes cuya circunscripción territorial corresponda a los municipios de Acatepec, Ahuacuotzingo, Ajuchitlán del Progreso, Alcozauca de Guerrero, Alpoyeca, Apaxtla, Arcelia, Atenango del Río, Atlamajalcingo del Monte, Atlixtac, Buenavista de Cuéllar, Chilapa de Álvarez, Chilpancingo de los Bravo, Cochoapa el Grande, Cocula, Copala, Copalillo, Copanatoyac, Coyuca de Catalán, Cualác, Cuetzala del Progreso, Cutzamala de Pinzón, Eduardo Neri, General Canuto A. Neri, General Heliodoro Castillo, Huamuxtitlán, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, José Joaquín de Herrera, Juan R. Escudero, Leonardo Bravo, Malinaltepec, Mártir de Cuilapan, Metlatónoc, Mochitlán, Olinalá, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, Quechultenango, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tixtla de Guerrero, Tla coapa, Tlalchapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Tlapehuala, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas, Zirándaro, y Zitlala, realizaran sus tramites correspondientes en la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero cuyo domicilio se encuentra ubicado en la calle de Zaragoza esquina 16 de septiembre, Edificio Juan Álvarez 1er. Piso colonia centro C.P. 39000, Chilpancingo, Guerrero.
+
+Para efectos de la recepción de avisos, documentos e informes relacionados con el dictamen estatal, los contribuyentes cuya circunscripción territorial corresponda a los municipios de Acapulco de Juárez, Atoyac de Álvarez, Ayutla de los Libres, Azoyú , Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juchitán, La Unión, Marquelia, Ometepec, Petatlán, San Luís Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca, realizaran sus tramites correspondientes, en la oficina de Revisión de Dictámenes en Acapulco dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero cuyo domicilio se encuentra ubicado en la calle Quebrada número 30 Planta Alta, colonia centro C.P. 39300, Acapulco, Guerrero.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+V.- La Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado proporcionará al Contador Público que haya cumplido con los requisitos mencionados, su registro correspondiente en un plazo no mayor de 15 días hábiles contados a partir de la fecha en que se integró debidamente la solicitud, debiendo recoger su oficio de constancia de registro en la propia Subsecretaría.
+
+Obtenido el registro, dentro de los tres meses siguientes a cada año calendario, el Contador Público deberá comprobar ante la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, que es socio activo de un Colegio Profesional, presentando una constancia que lo acredite.
+
+Asimismo, en caso de modificación de los datos asentados en la solicitud de registro deberá dar aviso a la Subsecretaría de Ingresos, dentro de los 15 días hábiles siguientes en que ocurra.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VI.- Las personas físicas con actividades empresariales y las personas morales obligadas o que opten por dictaminar el cumplimiento de sus obligaciones fiscales, deberán presentar, dentro de los cuatro meses siguientes al término del período a dictaminar, el aviso respectivo, en las formas oficiales aprobadas de conformidad con el instructivo, el cual deberá presentarse ante la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero.
+
+El aviso deberá ser presentado sin tachaduras o enmendaduras, firmado por el contribuyente o su representante legal y por el Contador Público que vaya a dictaminar, señalar el número de registro asignado por la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, al Contador Público que emitirá el dictamen.
+
+En el aviso para dictaminar, tanto el contribuyente como el Contador Público deberán señalar un domicilio dentro de la circunscripción territorial del Estado de Guerrero, para recibir y oír notificaciones.
+
+El aviso a que se refiere esta fracción, deberá ser suscrito por el contribuyente o su representante legal y por el Contador Público que vaya a dictaminar, y sólo será válido por el período y las contribuciones que se indiquen.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VII.- El aviso a que se refiere la fracción anterior no surtirá efectos cuando:
+
+a) No se presente dentro del plazo establecido.
+
+b) No se presente en el formato publicado mediante Reglas de Carácter General.
+
+c) El Contador Público propuesto no cuente con el registro correspondiente ante las autoridades fiscales del Gobierno del Estado de Guerrero antes de la presentación del aviso
+
+d) Exista impedimento del Contador Público que suscriba el aviso;
+
+e) Se esté practicando visita domiciliaria al contribuyente por el período al cual corresponde el aviso para dictaminar, salvo que se encuentren obligados.
+
+El período del dictamen deberá abarcar las contribuciones causadas durante un año de calendario.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Son impedimentos para que el Contador Público dictamine el cumplimiento de obligaciones fiscales:
+
+1.- Ser cónyuge, pariente por consanguinidad o civil en línea recta sin limitación de grado, transversal dentro del cuarto grado y por afinidad dentro del segundo, del propietario o socio principal de la empresa o de algún director, administrador o empleado que tenga intervención importante en la administración;
+
+2.- Ser o haber sido en el ejercicio fiscal que dictamina, director, miembro del consejo administrativo, administrador o empleado del contribuyente o de una empresa afiliada, subsidiaria o que está vinculada económica o administrativamente a él, cualquiera que sea la forma como se le designe y se le retribuyan sus servicios.
+
+3.- El comisario de la sociedad no se considerará impedido para dictaminar, salvo que concurra otra causal de las mencionadas en esta fracción.
+
+4.- Tener o haber tenido en el ejercicio fiscal que dictamine, alguna injerencia o vinculación económica en los negocios del contribuyente, que le impida mantener su independencia o imparcialidad;
+
+5.- Recibir, por cualquier circunstancia o motivo, participación directa en función de los resultados de su auditoría o emita su dictamen relativo al cumplimiento de las obligaciones fiscales del contribuyente, en circunstancias en las cuales su emolumento dependa del resultado del mismo;
+
+6.- Estar prestando sus servicios en el Gobierno del Estado de Guerrero o en cualquier otro organismo fiscal competente para determinar contribuciones locales o federales;
+
+7.- Ser agente o corredor de bolsa de valores en ejercicio, y
+
+8.- Encontrarse vinculado en cualquier otra forma con el contribuyente, que le impida independencia e imparcialidad de criterio.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+IX.- Cuando el contribuyente sustituya al dictaminador designado en el aviso presentado, se deberá notificar a la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado, dentro del mes siguiente a la fecha de presentación del aviso, justificando los motivos que para ello tuviere.
+
+Los contribuyentes podrán modificar el aviso originalmente presentado, cuando se sustituya al dictaminador designado, siempre y cuando lo comunique a las autoridades fiscales dentro del mes siguiente a la fecha de presentación del aviso, justificando los motivos que para ello tuviere.
+
+Cuando el Contador Público señalado en el aviso no pueda formular el dictamen por incapacidad física o impedimento legal debidamente probado, el aviso para sustituirlo se podrá presentar en cualquier tiempo hasta antes de que concluya el plazo para la presentación del dictamen.
+
+En estos casos, la Secretaría de Finanzas y Administración del Gobierno del Estado por conducto de la Subsecretaría de ingresos, podrá conceder una prórroga para la presentación del dictamen de acuerdo al análisis que al efecto se realice.
+
+Para lo anterior, deberá utilizarse el formato que al efecto se publique en las reglas de carácter general.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+X.- El dictamen y la documentación correspondiente, se deberá presentar ante la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero a través de los medios que establezca la Secretaría, dentro de los ocho meses siguientes al cierre del período a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XI.- La Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero podrá conceder prórroga hasta por un mes, para la presentación del dictamen, si existen causas comprobadas que impidan el cumplimiento dentro del plazo establecido, previo análisis de las causas que motivaron el retraso. La solicitud de prórroga deberá ser firmada por el contribuyente o su representante legal, así como por el Contador Público que dictaminará y presentada ante dicha Subsecretaría a más tardar quince días hábiles antes del vencimiento del plazo de presentación, mediante el formato aprobado por la Secretaría de Finanzas, en el que se señalará los motivos que tuviere para el retraso. Se considera concedida la prórroga hasta por un mes, si dentro de los quince días hábiles siguientes a la fecha de la presentación de la solicitud de prórroga, la Subsecretaría de Ingresos no da contestación.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XII.- Esta autoridad fiscal deberá concluir anticipadamente las revisiones fiscales que haya ordenado, cuando el contribuyente se encuentre obligado y este cumpliendo con los requisitos establecidos para la presentación del dictamen fiscal estatal.
+
+Asimismo deberá concluir anticipadamente las revisiones fiscales que haya ordenado, cuando el contribuyente haya optado por presentar el dictamen fiscal estatal, siempre y cuando el aviso para dictaminar hubiera sido presentado dentro del plazo establecido.
+
+En ambos casos se deberá comunicar al contribuyente la conclusión anticipada de la revisión.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII.- Para la presentación del dictamen se deberá exhibir la siguiente documentación:
+
+1.- Carta de presentación del dictamen;
+
+2.- El dictamen;
+
+3.- El informe, y
+
+4.- Los anexos.
+
+El texto de la documentación, así como los anexos que integran el dictamen, deberán adecuarse a lo establecido en las reglas de carácter general que al efecto se publiquen.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XIV.- Deberá contener la opinión respecto del cumplimiento de las disposiciones fiscales que derivan de las contribuciones a que se refiere el último párrafo de la fracción II de este articulo, con apego a las normas de auditoría generalmente aceptadas y procedimientos de auditoría que se consideren necesarios para conocer la situación del contribuyente.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XV.- El dictamen deberá comprender, según corresponda la contribución causada durante el año que se dictamina. Cuando los contribuyentes hubieren suspendido actividades antes del 31 de diciembre del año de que se trate y que se encuentren obligados a dictaminarse, deberán presentar el dictamen correspondiente a dicho periodo.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XVI.- Para los efectos del cumplimiento de las normas de auditoria, se considerarán cumplidas en la forma siguiente:
+
+1. Las relativas a la capacidad, independencia e imparcialidad profesionales, cuando su registro se encuentre vigente y no tenga impedimento para dictaminar.
+
+2. Las relativas al trabajo profesional, cuando:
+
+a). La planeación del trabajo y la supervisión de sus auxiliares les permitan allegarse de elementos de juicio suficientes para fundar su dictamen.
+
+b). El estudio y evaluación del sistema de control interno del contribuyente, le permita determinar el alcance y naturaleza de los procedimientos de auditoría que habrán de emplearse.
+
+En caso de excepciones a lo anterior, el Contador Público deberá mencionar claramente en qué consisten y su efecto sobre el dictamen, emitiendo, en consecuencia, un dictamen con salvedades, un dictamen negativo o una abstención de opinión, según sea el caso.
+
+3). El informe que se emitirá conjuntamente con el dictamen se integrará en la forma siguiente:
+
+a). Se declarará, bajo protesta de decir verdad, que se emite el informe con base en la revisión practicada conforme a las normas de auditoría y a las Reglas que al efecto se publiquen por el periodo correspondiente.
+
+b). Se manifestará que dentro de las pruebas llevadas a cabo, en cumplimiento de las normas y procedimientos de auditoría, se examinó la situación fiscal del contribuyente por el período dictaminado.
+
+En caso de haber observado cualquier omisión respecto del cumplimiento de sus obligaciones fiscales, éstas se mencionarán en forma expresa, indicando en qué consiste y su efecto en el dictamen, emitiendo en consecuencia, una opinión de dictamen con salvedades, negativo o con abstención, de lo contrario se señalará que no se observó omisión alguna.
+
+c). Se hará mención expresa de que se verificó el cálculo y entero de las contribuciones sujetas a dictamen y que se encuentran establecidas en los términos del último párrafo de la fracción II de este artículo, a cargo del contribuyente.
+
+4). Se deberán presentar anexos en las formas oficiales aprobadas respecto de cada contribución a que esté sujeto el contribuyente.
+
+5). Las omisiones conocidas en la revisión efectuada por el Contador Público, deberán pagarse antes de la entrega del dictamen anexando fotocopias legibles de estos pagos en el cuadernillo del dictamen o, en el caso de no haberlas pagado, informar de las mismas a las autoridades fiscales.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XVII.- El Contador Público designado por el contribuyente que haya suscrito el aviso para dictaminar el cumplimiento de las obligaciones fiscales, se encuentra obligado a formular dicho dictamen salvo que tenga incapacidad física o impedimento legal para hacerlo.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XVIII.- Los importes que se señalan en el dictamen, deberán anotarse en pesos sin decimales y en los mismos se utilizara el signo de coma.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XIX.- En los casos en que los contribuyentes tengan diferencias a cargo determinadas por el Contador Público que dictamina, podrán efectuar los pagos de dichas diferencias ante la Administración Fiscal. Estatal correspondiente a su domicilio fiscal, con la finalidad de validar los pagos y agilizar la revisión del dictamen de contribuciones locales. Para estos efectos, se considerarán pagos espontáneos aquellos que se realicen dentro de los diez días hábiles siguientes a la presentación del dictamen de cumplimiento de obligaciones fiscales.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XX.- Para los efectos de la verificación y validación de los datos contenidos en las declaraciones de pago y en los supuestos en los que los Contadores Públicos que dictaminen no puedan cerciorarse del número de caja y partida contenidas en las declaraciones realizadas por los contribuyentes, por ser ilegibles, se podrá proporcionar copia de las declaraciones en donde se efectuaron los pago y anotarán tal circunstancia en el dictamen.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXI.- Respecto del cumplimiento de las normas de auditoria relativas al trabajo profesional que deben realizar los Contadores Públicos dictaminadores, en específico de la evidencia comprobatoria con que deben contar para demostrar la planeación y realización del trabajo y soportar la opinión emitida del dictamen presentado, los Contadores Públicos dictaminadores deberán integrar sus papeles de trabajo elaborados con motivo de la auditoria practicada con los documentos, que de manera enunciativa pero no limitativa, se detallan:
+
+Extractos o copias de escrituras públicas que contengan la constitución de la persona moral, sesiones del consejo de administración y cualquier asamblea que pudiera afectar su opinión.
+
+Información de la estructura organizacional y legal de la entidad.
+
+Los que demuestren el proceso de planeación y programa de auditoria, así como los del estudio y evaluación del sistema de control interno y contable.
+
+Copia de contratos, informe de carácter técnico y otros documentos que sirvan como base para la elaboración de la auditoría.
+
+Copias de las declaraciones recibidas del contribuyente.
+
+Copias de registros cronológicos, nóminas, autorizaciones y avisos presentados por el contribuyente.
+
+Papeles de trabajo de los procedimientos de auditoría aplicados.
+
+Demás documentación examinada y de los informes de auditoría correspondientes.
+
+Los documentos enunciados deberán soportar todos aquellos aspectos importantes de la auditoría practicada, comprendiendo tanto los preparados por el auditor como aquellos que le fueron suministrados por el contribuyente o por terceros y que deberá conservar como parte del trabajo realizado, los cuales en todo caso, se entienden que son propiedad del contador público que dictamine.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXIl.- Cuando el Contador Público no dé cumplimiento a las disposiciones establecidas en este Código y en las reglas de carácter general que al efecto publique la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero las autoridades fiscales previa audiencia estarán facultadas para:
+
+1.- Amonestar por escrito cuando:
+
+a). Se presente incompleta la información a que refiere las fracciones números XIII, XIV y XVI.
+
+b). No cumpla con lo señalado en el artículo 92 fracción IV, inciso a) numerales 1,
+
+2 y 3 de este código.
+
+2.- Suspender los efectos de su registro para emitir dictámenes, cuando:
+
+a). Formule el dictamen en contravención a lo dispuesto en el artículo 92 del Código Fiscal del Estado de Guerrero. En este caso la suspensión será de un año para la primera ocasión y dos años para la segunda;
+
+b). No formule el dictamen debiendo hacerlo. En este caso la suspensión será de un año para la primera ocasión y dos años para la segunda;
+
+c). Acumule dos amonestaciones continuas, en este caso la suspensión será de dos años;
+
+d). Se encuentre sujeto a proceso por la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal. En este caso, la suspensión durará el tiempo en que el Contador se encuentre sujeto a dicho proceso, y
+
+El cómputo de las amonestaciones, se hará por cada actuación del Contador Público, independientemente del contribuyente a que se refieran.
+
+3.- Proceder a la cancelación definitiva de su registro para emitir dictámenes, cuando:
+
+a). Exista reincidencia en la violación de las disposiciones que rigen la formulación del dictamen y demás información para efectos fiscales. Para estos efectos se entiende que hay reincidencia cuando el Contador Público acumule tres suspensiones, y
+
+b). Hubiera participado en la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal, respecto de los cuales se haya dictado sentencia definitiva que lo declare culpable.
+
+4.- La audiencia a que se refiere esta fracción, se sujetará a lo siguiente:
+
+a). Determinada la irregularidad se le notificará por oficio al Contador Público, concediéndole un plazo de quince días naturales contados a partir de la fecha de su notificación, a efecto de que manifieste, por escrito, lo que a su derecho convenga y ofrezca las pruebas documentales pertinentes, mismas que deberá acompañar a su escrito, y
+
+b). Agotada la fase anterior, con vista en los elementos que obren en el expediente, la Secretaria emitirá la resolución que proceda.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXIII.- El dictaminador deberá determinar la base para el pago de este impuesto por concepto de remuneraciones al trabajo personal, relacionando los conceptos gravables para efectos de este impuesto, de conformidad con el artículo 35 de la Ley de Hacienda del Estado de Guerrero, en cada uno de los meses del período sujeto a dictamen.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXIV.- El Contador Público calculará el impuesto sobre remuneraciones al trabajo personal aplicando la tasa del 2% en cada uno de los meses del período sujeto a dictamen. Dicho impuesto deberá compararse con el impuesto pagado por el contribuyente dictaminado y, en su caso, establecer las diferencias.
+
+En caso de existir declaraciones complementarias, tal circunstancia deberá hacerse constar.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXV.- Para el dictamen de cumplimiento de las obligaciones fiscales en materia del Impuesto sobre remuneraciones al trabajo personal, el Contador Público requisitará debidamente los anexos de acuerdo a las reglas de carácter general que al efecto expida la Secretaría de Finanzas.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXVI.- El dictaminador deberá determinar la base para el pago de este impuesto por la prestación de servicios de hospedaje, relacionando los conceptos gravables para efectos de este impuesto, de conformidad con los artículos 48 y 50 de la Ley de Hacienda del Estado de Guerrero, en cada uno de los meses del período sujeto a dictamen.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXVII.- El Contador Público calculará el Impuesto sobre la prestación de servicios de hospedaje aplicando la tasa del 2% en cada uno de los meses del período sujeto a dictamen. Dicho impuesto deberá compararse con el impuesto pagado por el contribuyente dictaminado y, en su caso, establecer las diferencias.
+
+En caso de existir declaraciones complementarias, tal circunstancia deberá hacerse constar.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXVIII.- Para el dictamen del cumplimiento de las obligaciones fiscales en materia del impuesto por la prestación de servicios de hospedaje, el Contador Público deberá requisitar debidamente los anexos de acuerdo a las reglas de carácter general que al efecto expida la Secretaría de Finanzas.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 92.
@@ -1191,13 +1483,11 @@ I.- Que el contador público que dictamine, esté registrado ante la Secretaría
 
 II.- Que el dictamen se formule conforme a las normas y procedimientos de auditoría generalmente aceptados y que incluyan la información adicional exigida por las disposiciones fiscales estatales;
 
-III.- Los contribuyentes que opten o estén obligados a dictaminar sus estados financieros, deberán presentar copia del aviso ante la Secretaría de Finanzas y Administración, anexando copia del registro del contador público a que se refiere la fracción I de este artículo, ésto a través de las administraciones fiscales estatales que correspondan a su domicilio fiscal, para personas físicas dentro de los cuatro meses y para personas morales dentro de los tres meses siguientes a la fecha de terminación de su ejercicio fiscal;
-
-Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las autoridades fiscales. La Secretaría de Finanzas y Administración, podrá ejercer directamente sus facultades de comprobación sobre los dictámenes y demás documentos relativos al mismo, pudiendo también ejercerlas en forma previa o simultánea, sobre los contribuyentes dictaminados o responsables solidarios y demás obligados, en lo que respecta a las contribuciones estatales vigentes. Así como determinar las contribuciones y sus accesorios legales a cargo de los contribuyentes o responsables solidarios, en términos de las disposiciones fiscales del Estado.
+III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-IV. - Cuando la Secretaría de Finanzas y Administración revise el dictamen fiscal estatal y demás información para cerciorarse de la veracidad de los datos contenidos en este, estará a lo siguiente:
+IV.- Cuando la Secretaría de Finanzas y Administración revise el dictamen fiscal estatal y demás información para cerciorarse de la veracidad de los datos contenidos en este, estará a lo siguiente:
 
 a) Primeramente se requerirá al contador público que haya formulado el dictamen lo siguiente:
 
@@ -2688,3 +2978,17 @@ Lo dispuesto en el artículo 88, fracción VII, se aplicará al ejercicio de las
 ###### ARTICULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil ocho.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de dar cumplimiento al Dictamen Fiscal Estatal 2007, que se establece en el artículo 91 BIS del Código Fiscal del Estado de Guerrero número 429, publicado en el Periódico Oficial del Estado de Guerrero el 29 de diciembre de 2006, los contribuyentes que de manera obligatoria u opcional dictaminen sus contribuciones estatales por 2007; deberán sujetarse a lo dispuesto en el mencionado Código y a las reglas de carácter general, avisos oficiales, y cuadernillo del dictamen para el cumplimiento de la presentación del dictamen fiscal estatal, publicadas en el Periódico Oficial del Estado de Guerrero No. 77 de fecha 26 de septiembre de 2006, con excepción de las Reglas, Primera, Segunda, Tercera y Vigésima Segunda, las cuales ya se encuentran consideradas en las fracciones I y II del artículo 91 BIS y 92 del citado Código.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el periódico Oficial del Gobierno del Estado.
