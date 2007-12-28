@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-56012"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-05"
-last_updated: "2007-06-05"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2007.
 
@@ -515,7 +515,9 @@ XXIV. Celebrar, en representación de la Comisión, toda clase de acuerdos, conv
 
 XXV. Elaborar el proyecto de presupuesto de egresos de la Comisión y remitirlo al Ejecutivo del Estado para los efectos previstos en esta ley;
 
-XXVI. Rendir la cuenta trimestral a que se refiere la Ley Orgánica de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXVI. Rendir la cuenta pública anual y los informes a que se refiere la Ley de Fiscalización Superior para el Estado de Coahuila;
 
 XXVII. Formular un informe sobre el ejercicio presupuestal anual, y someterlo a la consideración del Congreso del Estado;
 
@@ -1506,3 +1508,11 @@ EL SECRETARIO DE GOBIERNO
 LIC. HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
