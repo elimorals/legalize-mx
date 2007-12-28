@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2007-11-21"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -88,6 +88,22 @@ Los servidores públicos encargados de la prestación de los servicios, serán r
 ###### Artículo 6°.
 
 Las dependencias, organismos descentralizados u órganos autónomos que presten servicios por los cuales se paguen derechos, procederán a proporcionarlos, cuando el interesado presente el recibo oficial de pago requisitado, conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Tratándose del pago de los derechos por servicios de control vehicular, éstos serán cubiertos de acuerdo a los siguientes periodos:
+
+I. Para el caso del refrendo anual de vehículos, el período de pago se establecerá en la Ley de Ingresos del Estado de Chiapas, vigente.
+
+II. En los casos que implique efectuar movimientos de baja y alta del vehículo, dentro de los 15 días siguientes a haberse efectuado dicha operación.
+
+III. En los demás casos, en el momento que la persona solicite la prestación del servicio.
+
+IV. Cuando en un ejercicio fiscal se disponga el nuevo canje total de placas, el periodo de pago se establecerá en la Ley de Ingresos del Estado de Chiapas, vigente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Cuando se trate del pago de derechos por control vehicular, por la adquisición de vehículos nuevos, éste podrá ser cubierto por los contribuyentes en las agencias distribuidoras de automóviles que tengan celebrado Convenio de Prestación de Servicios para la Recepción y Cobro de Contribuciones Estatales y Federales en Materia Vehicular con la Secretaría.
 
 ###### Artículo 7°.
 
@@ -1921,6 +1937,10 @@ XL. Por pago de derechos por la integración de
 
 expediente para solicitar una concesión. 6.0
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de concesiones que favorezcan a más de un vehículo para la prestación del transporte público se pagaran los derechos por cada vehículo que ampare la concesión, en las respectivas modalidades.
+
 ### Capítulo VII. Derechos por Servicios que Presta la Secretaría de Educación
 
 ###### Artículo 34.
@@ -2552,3 +2572,13 @@ Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciséis días del mes de noviembre del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero del 2008, salvo lo dispuesto en el artículo siguiente.
+
+Artículo Segundo.- Las reformas a los artículos 171, 278, 278-A, 278-B, 422, 423, 425 y 433 del Código de la Hacienda Pública para el Estado de Chiapas; 38 y 42 de la Ley Orgánica Municipal, y 1, 2, 3 y 128, así como las adiciones de los artículos 129 y 130, el Título Séptimo «Ingresos Derivados de la Coordinación Fiscal», de la Ley de Hacienda Municipal, entrarán en vigencia al día siguiente de su publicación.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
