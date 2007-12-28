@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-temporal-taipei-47169
 country: "mx"
 rank: "otro"
 publication_date: "2005-12-29"
-last_updated: "2007-06-28"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,35 +19,47 @@ issue_date: "2005-12-22"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO TEMPORAL (TAIPEI CHINO)
 
-ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
+ACUERDO POR EL CUAL SE DA A CONOCER EL CUPO PARA INTERNAR A TAIWAN, PENGHU, KIMEN Y MATSU (TAIPEI CHINO), VEHICULOS AUTOMOVILES, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS DURANTE 2008, AL AMPARO DEL ACUERDO TEMPORAL CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y EL TERRITORIO ADUANERO INDEPENDIENTE DE TAIWAN, PENGHU, KIMEN Y MATSU (TAIPEI CHINO)
 
-Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 28 de junio de 2007.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de diciembre de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y V, 16, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 36 de la Ley Aduanera; 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 y 36 del Reglamento de la Ley de Comercio Exterior, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en el Acuerdo Temporal celebrado entre los Estados Unidos Mexicanos y el Territorio Aduanero Independiente de Taiwan, Penghu, Kimen y Matsu (Taipei Chino); artículo 4o. fracción III, 5o. fracción III, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 18 de junio de 2007 fue publicada en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación con objeto de reflejar los cambios en los patrones mundiales de comercio, homologar nuestro sistema de clasificación arancelaria con el de otros países, evitar discrepancias de interpretación, agilizar los trámites aduaneros y facilitar la correcta identificación y clasificación de las mercancías;
+Que el Plan Nacional de Desarrollo 2007-2012 establece, como estrategia para la diversificación de nuestros mercados internacionales, el fortalecimiento de las relaciones económicas y comerciales con el exterior, a fin de permitir la entrada de mercancías en condiciones similares a las del exterior y asegurar el acceso de nuestros productos a mercados más dinámicos;
 
-Que la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación 18 de junio de 2007 abroga con su entrada en vigor la Ley de los Impuestos Generales de Importación y de Exportación publicada el 18 de enero de 2002 y sus modificaciones publicadas en el mismo órgano informativo;
+Que debe fortalecerse la competitividad de los distintos agentes económicos para que éstos tengan una participación fundamental dentro del mercado mundial mediante el establecimiento de esquemas accesibles a las empresas exportadoras de bienes e instrumentar esquemas concretos de promoción a las exportaciones de dichos bienes;
 
-Que es necesario adecuar la normatividad de comercio exterior a dichas modificaciones, y
+Que el procedimiento de asignación del cupo referido, es un instrumento de la política sectorial para promover las corrientes comerciales entre las Partes, y
 
-Que es obligación del Ejecutivo Federal propiciar un escenario de certidumbre jurídica en el que actúen los diferentes agentes económicos involucrados en el comercio exterior, para lo cual es necesario actualizar y difundir las fracciones arancelarias y su descripción, conforme a la Ley de los Impuestos Generales de Importación y de Exportación, así como definir claramente el estatus de los ordenamientos en los que se establecen diversas disposiciones sobre instrumentos y programas de comercio exterior he tenido a bien expedir el siguiente
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
+ACUERDO POR EL CUAL SE DA A CONOCER EL CUPO PARA INTERNAR A TAIWAN, PENGHU, KIMEN Y MATSU (TAIPEI CHINO), VEHICULOS AUTOMOVILES, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS DURANTE 2008, AL AMPARO DEL ACUERDO TEMPORAL CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y EL TERRITORIO ADUANERO INDEPENDIENTE DE TAIWAN, PENGHU, KIMEN Y MATSU (TAIPEI CHINO)
 
 ###### ARTICULO PRIMERO.
 
-El cupo para internar en 2007 a Taiwan, Penghu, Kimen y Matsu (Taipei Chino), de conformidad con lo establecido en el Acuerdo Temporal celebrado entre los Estados Unidos Mexicanos y el Territorio Aduanero Independiente de Taiwan, Penghu, Kimen y Matsu (Taipei Chino), vehículos automóviles y chasises de peso bruto vehicular inferior o igual a 3.5 toneladas y que se clasifiquen en las subpartidas arancelarias 8703.21, 8703.22, 8703.23, 8703.24, 8703.31, 8703.32, 8703.33, 8703.90, 8704.21, 8704.31, 8706.00 y 8708.99; originarios de los Estados Unidos Mexicanos, es el que se determina a continuación:
+El cupo para internar en 2008 a Taiwan, Penghu, Kimen y Matsu (Taipei Chino), de conformidad con lo establecido en el Acuerdo Temporal celebrado entre los Estados Unidos Mexicanos y el Territorio Aduanero Independiente de Taiwan, Penghu, Kimen y Matsu (Taipei Chino), vehículos automóviles y chasises de peso bruto vehicular inferior o igual a 3.5 toneladas y que se clasifiquen en las subpartidas arancelarias 8703.21, 8703.22, 8703.23, 8703.24, 8703.31, 8703.32, 8703.33, 8703.90, 8704.21, 8704.31, 8706.00 y 8708.99; originarios de los Estados Unidos Mexicanos, es el que se determina a continuación:
 
-(VEASE ARCHIVO ANEXO)
+Subpartida arancelaria Descripción del cupo Monto
+
+8703.21, 8703.22, Vehículos automóviles 29,860 unidades
+
+8703.23, 8703.24, y chasises de peso
+
+8703.31, 8703.32, bruto vehicular inferior
+
+8703.33, 8703.90, o igual a 3.5 toneladas.
+
+8704.21, 8704.31,
+
+8706.00, 8708.99.
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con el párrafo segundo del artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas exportadoras de productos originarios e incrementar la utilización de los aranceles-cuota establecidos al amparo del Acuerdo Temporal entre los Estados Unidos Mexicanos y el Territorio Aduanero Independiente de Taiwan, Penghu, Kimen y Matsu (Taipei Chino), se aplicará al cupo a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
+De conformidad con el párrafo segundo del artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas exportadoras de productos originarios e incrementar la utilización de los aranceles-cuota establecidos al amparo del Acuerdo Temporal entre los Estados Unidos Mexicanos y el Territorio Aduanero Independiente de Taiwan, Penghu, Kimen y Matsu (Taipei Chino), se aplicará al cupo a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de "primero en tiempo, primero en derecho".
 
 ###### ARTICULO TERCERO.
 
@@ -55,7 +67,7 @@ Podrán solicitar asignación del cupo descrito en el cuadro del artículo prime
 
 ###### ARTICULO CUARTO.
 
-La solicitud de asignación del cupo a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
+La solicitud de asignación del cupo a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 "Solicitud de asignación de cupo", en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
 
 ###### ARTICULO QUINTO.
 
@@ -63,15 +75,19 @@ Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar
 
 Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá haber ejercido cuando menos una de las expediciones anteriores, de forma tal que, durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin ejercer.
 
-La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 31 de diciembre de 2007.
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 31 de diciembre de 2008.
 
 ###### ARTICULO SEXTO.
 
 Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica:
 
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-a
+a) Para el caso del formato SE-03-011-1 "Solicitud de asignación de cupo"
 
-b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042.
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-a
+
+b) Para el caso del formato SE-03-013-5 "Solicitud de certificados de cupo (obtenido por asignación directa)":
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042.
 
 ###### Artículo 1.
 
@@ -243,116 +259,20 @@ XIII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad
 
 XIV. Acuerdo por el que se da a conocer el cupo para importar leche en polvo, originaria de la República de Nicaragua, publicado en el DOF el 2 de agosto de 2006.
 
-###### Artículo 6.
+## TRANSITORIO
 
-Los criterios y disposiciones aplicables a los instrumentos y programas de comercio exterior, son los señalados a continuación:
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2008 y concluirá su vigencia el 31 de diciembre de 2008.
 
-I. La Dirección General de Comercio Exterior de la SE actualizará en el SICEX las fracciones arancelarias que correspondan a las mercancías autorizadas hasta el 29 de junio de 2007, en cada instrumento y programa de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
+México, D.F., a 21 de diciembre de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
 
-II. Los titulares de resoluciones de instrumentos y programas de comercio exterior, a partir del 1 de julio de 2007, podrán realizar operaciones de comercio exterior, respecto de las mercancías autorizadas en sus instrumentos y programas de comercio exterior, utilizando las fracciones arancelarias que les correspondan con base en la Tabla de Correlación TIGIE 2002-TIGIE 2007.
+SECRETARIA DE ECONOMIA
 
-Las resoluciones a que se refiere el párrafo anterior continuarán vigentes hasta la fecha que se indique en el documento correspondiente y, en su caso, por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos y ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE.
+DIRECCION GENERAL DE COMERCIO EXTERIOR
 
-III. La Dirección General de Comercio Exterior de la SE realizará el intercambio de información necesario con la Administración General de Aduanas del SAT a fin de que esté en posibilidad de actualizar en el SAAI las fracciones arancelarias de las resoluciones de los instrumentos y programas de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
+DIRECCION DE OPERACION DE CUPOS DE IMPORTACION Y EXPORTACION 2008
 
-###### Artículo 7.
+REQUISITOS PARA LA EXPEDICION DEL CERTIFICADO DE CUPO DE EXPORTACION DE VEHICULOS AUTOMOTORES DENTRO DEL ACUERDO TEMPORAL CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y EL TERRITORIO ADUANERO INDEPENDIENTE DE TAIWAN, PENGHU, KIMEN Y MATSU (TAIPEI CHINO).
 
-Para los efectos de los Acuerdos que se listan en este artículo, la Tabla de Correlación entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, es la que se establece como anexa al presente Acuerdo.
-
-I. Acuerdo que establece la clasificación y codificación de mercancías y productos cuya importación, exportación, internación o salida está sujeta a regulación sanitaria por parte de la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 27 de marzo de 2003 y 27 de enero, 1 de abril y 26 de octubre de 2005.
-
-II. Acuerdo que establece la clasificación y codificación de los productos químicos esenciales cuya importación o exportación está sujeta a la presentación de un aviso previo ante la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002.
-
-III. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de las dependencias que integran la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas, publicado en el DOF el 29 de marzo de 2002 y su modificación del 1 de abril de 2005.
-
-IV. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el DOF el 26 de marzo de 2002.
-
-V. Acuerdo por el que se establece la clasificación y codificación de mercancías cuya exportación está sujeta a la presentación de un certificado de origen expedido por la Asociación Mexicana de la Cadena Productiva del Café, A.C., o los consejos estatales del café, y el procedimiento para la emisión del Certificado de Origen, publicado en el DOF el 7 de febrero de 2007.
-
-VI. Acuerdo que establece la clasificación y codificación de las mercancías cuya importación o exportación están sujetas a regulación por parte de la Secretaría de la Defensa Nacional, publicado en el DOF el 25 de noviembre de 2002 y sus modificaciones del 13 de agosto de 2003 y 20 de octubre de 2006.
-
-VII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a regulación por parte de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 30 de diciembre de 2003, 16 de agosto de 2004 y 26 de enero de 2005.
-
-VIII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a autorización previa por parte de la Secretaría de Energía, publicado en el DOF el 28 de marzo de 2002.
-
-IX. Acuerdo que establece la clasificación y codificación de los bienes considerados monumentos históricos o artísticos, cuya exportación está sujeta a autorización previa de exportación por parte del Instituto Nacional de Antropología e Historia, o del Instituto Nacional de Bellas Artes y Literatura.
-
-## TRANSITORIOS
-
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Las solicitudes de los instrumentos y programas de comercio exterior que ingresen a la Secretaría de Economía a partir de la entrada en vigor del presente Acuerdo, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007, excepto por lo establecido en el párrafo siguiente.
-
-Las solicitudes correspondientes a los trámites inscritos en el Registro Federal de Trámites y Servicios que se listan a continuación que ingresen a la SE a partir de las fechas que se indican, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007:
-
-I. A partir del 28 de junio de 2007:
-
-a) SE-03-037 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del número de exportador autorizado para la Unión Europea (UE) o la Asociación Europea de Libre Comercio (AELC)"
-
-b) SE-03-038 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
-
-c) SE-03-039 "Autorización para utilizar el "Registro de Productos" para la obtención del Certificado de Circulación de Mercancías EUR. 1 o del Carácter de Exportador Autorizado de la Unión Europea"
-
-d) SE-03-051 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen ALADI (Asociación Latinoamericana de Integración)"
-
-e) SE-03-052 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen SGP (Sistema Generalizado de Preferencias)"
-
-f) SE-03-068 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Tratado de Libre Comercio México/Uruguay"
-
-g) SE-03-070 "Registro de Bienes Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre México y el Japón"
-
-II. A partir del 29 de junio de 2007:
-
-a) SE-03-040 "Validación del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
-
-b) SE-03-044 "Validación del Certificado de Origen Asociación Latinoamericana de Integración (ALADI) para Argentina, Brasil, Cuba, Ecuador, Paraguay, Perú y Uruguay"
-
-c) SE-03-045 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP)"
-
-d) SE-03-046 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP) de la Unión Europea"
-
-e) SE-03-047 "Validación del Certificado de Origen bajo el Sistema Generalizado de Preferencias (SGP) para Japón"
-
-f) SE-03-048 "Validación del Certificado de Origen de Artículos Mexicanos"
-
-g) SE-03-049 "Validación del Certificado de Origen del Tratado de Libre Comercio México-Colombia-Venezuela (G3)"
-
-h) SE-03-050 "Validación del Certificado de Origen del Sistema Global de Preferencias Comerciales (SGPC)"
-
-i) SE-03-069 "Validación del Certificado de Origen del Tratado de Libre Comercio México-República Oriental del Uruguay"
-
-j) SE-03-071 "Validación del Certificado de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón"
-
-TERCERO.- Los ordenamientos que se citan a continuación seguirán vigentes en los términos que fueron publicados hasta en tanto no se publiquen nuevas versiones en el Diario Oficial de la Federación que sustituyan a los mismos. Durante dicho periodo se entenderán aplicables a dichos ordenamientos a partir del 1 de julio de 2007, las fracciones arancelarias que les correspondan conforme a la Tabla de Correlación TIGIE 2002-TIGIE 2007 anexa al presente Acuerdo.
-
-I. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2005 y sus reformas del 20 de diciembre de 2005, 29 de marzo, 2 de octubre y 26 de diciembre de 2006 y 29 de marzo de 2007;
-
-II. Acuerdo que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002 y sus reformas del 8 de noviembre de 2002, 11 de julio de 2003, 5 de enero y 15 de abril de 2004, 3 de febrero, 17 de mayo y 26 de octubre de 2005 y 2 de febrero y 3 de mayo de 2006;
-
-III. Aviso por el que se dan a conocer las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en las cuales se clasifican las mercancías cuya importación está sujeta al pago de cuotas compensatorias y medidas de salvaguarda, publicado en el Diario Oficial de la Federación el 3 de enero de 2006;
-
-IV. Acuerdo por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de Comercio Exterior, publicado en el Diario Oficial de la Federación el 21 de julio de 2006 y sus reformas del 4 de enero, 8 de marzo y 1 de junio de 2007, y
-
-V. Los Acuerdos a que se refieren los artículos 5, fracciones I, II, IV, V, VI, VII, VIII IX y 7 del presente ordenamiento.
-
-Tablas de correlación TIGIE 2002-TIGIE 2007
-
-Para los efectos de establecer la correspondencia entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, se dan a conocer, para los fines del presente Acuerdo, las tablas de correlación TIGIE 2002-TIGIE 2007 y TIGIE 2007-TIGIE 2002. Para cualquier otro fin, la información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
+8703.21., 8703.22., 8703.23., 8703.24., 8703.31., 8703.32., 8703.33., 8703.90., 8704.21., 8704.31., 8706.00. Y 8708.99.
 
 (VEASE ARCHIVO ANEXO)
-
-Y/O
-
-> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 9 A 61.</small>
-
-Tablas de correlación TIGIE 2007-TIGIE 2002
-
-La información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
-
-(VEASE ARCHIVO ANEXO)
-
-Y/O
-
-> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 62 A 112.</small>
-
-México, D.F., a 21 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
