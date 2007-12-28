@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-10166"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-05-04"
-last_updated: "2007-11-21"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Código publicado en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 4 de mayo de 1995.
 
@@ -1365,7 +1365,9 @@ I. Contar con un mínimo de un mil doscientos asociados en la entidad y con un �
 
 II. Disponer de documentos básicos, así como una denominación distinta a cualquier otra agrupación o partido.
 
-La asociación interesada presentará durante el mes de enero del año anterior al de la elección, junto con su solicitud de registro, la documentación con la que acredite los requisitos anteriores y los que, en su caso, señale el Consejo General.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+La asociación interesada presentará a más tardar antes del mes de enero del año anterior al de la elección, junto con su solicitud de registro, la documentación con la que acredite los requisitos anteriores y los que, en su caso, señale el Consejo General.
 
 El Consejo General, dentro del plazo máximo de sesenta días naturales contados a partir de la fecha en que conozca de las solicitudes de registro, resolverá lo conducente.
 
@@ -4836,3 +4838,7 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
