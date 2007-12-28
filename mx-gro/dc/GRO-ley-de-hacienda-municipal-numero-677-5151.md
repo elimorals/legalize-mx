@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2006-07-07"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -365,9 +365,9 @@ BIS.- Es objeto de este impuesto la adquisición de bienes inmuebles que realice
 
 Para los efectos de este capítulo, se entiende por adquisición la que se derive de:
 
-> <small>(REFORMADA, P. O. 25 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase ele asociaciones o sociedades. La sociedad conyugal no estará comprendida en lo que refiere la presente sección.
 
 II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -485,9 +485,9 @@ Tratándose de operaciones con inmuebles se acompañarán con el aviso los sigui
 
 a) Deslinde catastral con superficie, medidas y colindancias, así como el valor catastral respectivo determinado por las autoridades catastrales, mismas que aplicarán los valores unitarios de suelo y construcciones vigentes en la fecha de operación.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-b) Avalúo con fines fiscales elaborado por perito valuador autorizado por la Secretaría de Finanzas y Administración del Gobierno del Estado.
+b) Avaluó con fines fiscales elaborado por perito valuador y autorizado por la Secretaría de Finanzas y administración del Gobierno del Estado, a excepción de las adquisiciones de viviendas a través de créditos hipotecarios y dación en pago, que podrán ser de avalúos expedidos por las unidades de valuación a que se refiere la Ley de Transparencia y Fomento a la Competencia en el Crédito Garantizado.
 
 c) Certificado de no adeudo predial.
 
@@ -561,9 +561,7 @@ IV.- Cuando por sentencia o declaración judicial se rescinda o anule un contrat
 
 V.- Cuando previamente se haya cubierto el impuesto al efectuarse ventas con reserva de dominio o sujetas a condición.
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1991)</small>
-
-VI.- Cuando las adquisiciones de inmuebles las hagan los arrendatarios financieros al ejercer la opción de compra en los términos de contrato de arrendamiento financiero.
+VI.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO 1991)</small>
 
@@ -1654,3 +1652,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En su oportunidad remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
