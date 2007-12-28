@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-luz-y-fuerza-del-centro-15865"
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-03-21"
-last_updated: "2006-09-13"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15865&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-11-24"
 
 ESTATUTO ORGANICO DE LUZ Y FUERZA DEL CENTRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 2007.
 
 Estatuto publicado en el Diario Oficial de la Federación, el martes 21 de marzo de 2000.
 
@@ -55,9 +55,13 @@ LA JUNTA: Junta de Gobierno de Luz y Fuerza del Centro.
 
 EL DIRECTOR: Director General de Luz y Fuerza del Centro.
 
-COMISARIO PUBLICO: El representante que al efecto nombre la Secretaría de Contraloría y Desarrollo Administrativo, y su respectivo suplente.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-SINDICATO: Sindicato titular del Contrato Colectivo de Trabajo.
+COMISARIO PUBLICO: El representante que al efecto nombre la Secretaría de la Función Pública, y su respectivo suplente.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+SINDICATO: Sindicato Mexicano de Electricistas.
 
 > <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2005)</small>
 
@@ -83,19 +87,37 @@ VIII. Subdirección de Producción;
 
 IX. Subdirección de Distribución y Comercialización;
 
-X. Subdirección de Abastecimiento y Transportes;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-XI. Subdirección de Construcción;
+X. Subdirección de Distribución;
 
-XII. Subdirección de Servicios Técnicos;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-XIII. Subdirección de Fábricas y Talleres;
+XI. Subdirección de Comercialización;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Subdirección de Abastecimiento y Transportes;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII. Subdirección de Construcción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIV. Subdirección de Servicios Técnicos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XV. Subdirección de Fábricas y Talleres.
 
 El Organismo contará con un Organo Interno de Control que quedará conformado de acuerdo con el artículo 22 de este Estatuto.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 4.
 
-Las Subdirecciones de Finanzas, Recursos Humanos y de Planeación Estratégica, tendrán funciones corporativas; las Subdirecciones de Producción y de Distribución y Comercialización, tendrán funciones de unidades de negocios; y las Subdirecciones de Abastecimiento y Transportes, de Construcción, de Servicios Técnicos y de Fábricas y Talleres, tendrán funciones de unidades de servicios.
+Las Subdirecciones de Finanzas, Recursos Humanos y de Planeación Estratégica, tendrán funciones corporativas; las Subdirecciones de Producción, de Distribución y de Comercialización, tendrán funciones de unidades de negocios; y las Subdirecciones de Abastecimiento y Transportes, de Construcción, de Servicios Técnicos y de Fábricas y Talleres, tendrán funciones de unidades de servicios.
 
 ## TITULO SEGUNDO. De la Junta de Gobierno y el Organo de Vigilancia
 
@@ -103,9 +125,11 @@ Las Subdirecciones de Finanzas, Recursos Humanos y de Planeación Estratégica, 
 
 La Junta, como órgano máximo de administración de la entidad, en términos del artículo 17 de la Ley Federal de las Entidades Paraestatales, y en cumplimiento del programa sectorial en cuanto a la prestación del servicio público de energía eléctrica, fijará las políticas administrativas y de organización que le permitan alcanzar una gestión eficiente, productiva, rentable y autosuficiente, acordes con las necesidades de los usuarios, en su ámbito de influencia. Lo anterior, sin perjuicio de las atribuciones que le confieren los distintos ordenamientos legales que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 6.
 
-De conformidad con lo establecido en el artículo 18 de la Ley Federal de las Entidades Paraestatales, 16 de su Reglamento, así como en el artículo 4o. del Decreto de Creación del Organismo, la Junta de Gobierno se integra por el Secretario de Energía, quien la presidirá, y por sendos representantes de las secretarías de Hacienda y Crédito Público; de Desarrollo Social; de Comercio y Fomento Industrial; del Medio Ambiente, Recursos Naturales y Pesca, por conducto de la Comisión Nacional del Agua; asimismo, por el Director General de la Comisión Federal de Electricidad, y tres representantes del Sindicato titular del Contrato Colectivo de Trabajo que rija las relaciones laborales en el Organismo. La Junta de Gobierno designará a su secretario.
+De conformidad con lo establecido en el artículo 18 de la Ley Federal de las Entidades Paraestatales, 16 de su Reglamento, el artículo 4o. del Decreto de Creación del Organismo, así como el 26 de la Ley Orgánica de la Administración Pública Federal, la Junta de Gobierno se integra por el Secretario de Energía, quien la presidirá, y por sendos representantes de las Secretarías de Hacienda y Crédito Público; de Desarrollo Social; de Economía; del Medio Ambiente y Recursos Naturales, por conducto de la Comisión Nacional del Agua; asimismo, por el Director General de la Comisión Federal de Electricidad, y tres representantes del Sindicato titular del Contrato Colectivo de Trabajo que rija las relaciones laborales en el Organismo. La Junta de Gobierno designará a su secretario.
 
 Los representantes de las secretarías de Estado señaladas en el párrafo anterior, deberán tener el nivel de subsecretarios o su equivalente.
 
@@ -205,9 +229,11 @@ El Secretario tendrá las siguientes funciones:
 
 En ausencia del Secretario, el Prosecretario tendrá las mismas funciones. Sin embargo, el Prosecretario podrá convocar a sesiones de la Junta de Gobierno, comunicar acuerdos al Director General del Organismo, protocolizar ante notario público las actas del referido órgano colegiado y expedir constancias, comunicaciones y cualquier otra correspondencia, cuando alguna situación así lo requiera, aun no estando ausente el Secretario, siempre y cuando éste sea informado oportunamente.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 12.
 
-El órgano de vigilancia del Organismo estará integrado por un comisario público propietario y un suplente, que al efecto designe la Secretaría de Contraloría y Desarrollo Administrativo, quienes tendrán a su cargo la evaluación del desempeño general y por funciones del Organismo, en términos del artículo 60 de la Ley Federal de las Entidades Paraestatales y 29 de su Reglamento, así como el párrafo tercero del artículo 4o. del Decreto de Creación del Organismo, sin perjuicio de las atribuciones que las disposiciones legales aplicables asignen a otras dependencias de la Administración Pública Federal, en sus respectivas esferas de competencia, en materia de control, vigilancia y evaluación de las entidades paraestatales.
+El órgano de vigilancia del Organismo estará integrado por un Comisario Público propietario y un suplente, que al efecto designe la Secretaría de la Función Pública, quienes tendrán a su cargo la evaluación del desempeño general y por funciones del Organismo, en términos del artículo 60 de la Ley Federal de las Entidades Paraestatales y 29 de su Reglamento, así como el párrafo tercero del artículo 4o. del Decreto de Creación del Organismo, sin perjuicio de las atribuciones que las disposiciones legales aplicables asignen a otras dependencias de la Administración Pública Federal, en sus respectivas esferas de competencia, en materia de control, vigilancia y evaluación de las entidades paraestatales.
 
 ## TITULO TERCERO. Del Director General
 
@@ -227,11 +253,15 @@ III. Ordenar la formulación y, en su caso, autorizar los programas de organizac
 
 IV. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo;
 
-V. Tomar las medidas pertinentes a fin de que las funciones del Organismo se realicen de manera articulada, congruente y eficaz;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+V. Tomar las medidas pertinentes a fin de que las funciones del Organismo se realicen de manera articulada, congruente y eficaz; como lo es de manera enunciativa mas no limitativa, el nombrar al servidor público que ocupará de manera provisional las vacantes en las dos jerarquías administrativas inferiores, hasta en tanto presente ante la Junta de Gobierno la propuesta para su aprobación;
 
 VI. Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en la fabricación, distribución o prestación del servicio;
 
-VII. Proponer a la Junta el nombramiento o la remoción de los dos primeros niveles de servidores del Organismo, la fijación general de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente, aprobado por la propia Junta;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VII. Proponer a la Junta el nombramiento o la remoción de las dos jerarquías administrativas inferiores del Organismo, la fijación general de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente, aprobado por la propia Junta;
 
 VIII. Recabar información y elementos estadísticos que reflejen el estado de las funciones del Organismo, para así poder mejorar la gestión del mismo;
 
@@ -243,9 +273,17 @@ XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la ef
 
 XII. Ejecutar los acuerdos que dicte la Junta;
 
-XIII. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales del Organismo con sus trabajadores, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-XIV. Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae la Ley Federal de las Entidades Paraestatales.
+XIII. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales del Organismo con sus trabajadores;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIV. Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae la Ley Federal de las Entidades Paraestatales, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XV. Aprobar y expedir en su caso, a propuesta de la Unidad de Asuntos Jurídicos, las políticas y lineamientos aplicables al ejercicio de la función jurídica institucional en materia de protección al patrimonio del Organismo, otorgamiento, ejercicio y control de poderes, convenios y contratos, asuntos contenciosos, políticas de transacción, reglamentación interna, seguros y fianzas desde su perspectiva legal, adquisición de inmuebles, contratación de derecho de vía, integración de expedientes para realizar actos de enajenación, permuta, comodato y arrendamiento de bienes de la Entidad, funciones de representación, defensa del patrimonio y derechos del Organismo, y formalización de actos ante fedatarios públicos.
 
 ###### ARTICULO 15.
 
@@ -263,19 +301,35 @@ III. Subdirección de Planeación Estratégica;
 
 IV. Subdirección de Producción;
 
-V. Subdirección de Distribución y Comercialización;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VI. Subdirección de Abastecimiento y Transportes;
+V. Subdirección de Distribución;
 
-VII. Subdirección de Construcción;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VIII. Subdirección de Servicios Técnicos, y
+VI. Subdirección de Comercialización;
 
-IX. Subdirección de Fábricas y Talleres.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VII. Subdirección de Abastecimiento y Transportes;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VIII. Subdirección de Construcción;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Subdirección de Servicios Técnicos, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Subdirección de Fábricas y Talleres.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 17.
 
-Son facultades y obligaciones genéricas de los Subdirectores, las siguientes:
+Son facultades y obligaciones genéricas de los Subdirectores y Jefes de Unidad, las siguientes:
 
 I. Planear, programar, organizar, dirigir, desarrollar, controlar y evaluar los programas y las funciones encomendadas a la Unidad bajo su responsabilidad;
 
@@ -293,9 +347,29 @@ VII. Coordinar sus actividades con las demás Unidades del Organismo y, en su ca
 
 VIII. Intervenir en la formulación del Programa de Desconcentración Administrativa, así como normar y supervisar las actividades de las Unidades desconcentradas en el ámbito de su competencia;
 
-IX. Formular el anteproyecto del programa que corresponda a la Unidad de su responsabilidad, así como los que le sean solicitados por el Director General y cumplirlos en sus términos una vez aprobados, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-X. Las demás que le confieran otras disposiciones aplicables y las que les asignen la Junta y/o el Director.
+IX. Formular el anteproyecto del programa que corresponda a la Unidad de su responsabilidad, así como los que le sean solicitados por el Director General y cumplirlos en sus términos una vez aprobados;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Delegar facultades por escrito a los titulares de las Unidades Administrativas adscritas, previa autorización del Director General;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XI. Proporcionar la información solicitada por autoridad competente o por Unidades Administrativas del Organismo, y expedir constancias de los documentos que obren en sus archivos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Expedir a petición del interesado, copias simples, cotejadas, certificadas o por cualquier otro medio, de los documentos que obren en los archivos de las respectivas Unidades Administrativas del Organismo, para lo cual estarán a lo dispuesto por el Comité de Información de la Entidad, así como lo previsto por el artículo 42 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 51 de su Reglamento, y demás normas relativas y aplicables;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII. Suscribir los documentos relativos al ejercicio de las atribuciones que les correspondan por delegación o suplencia, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIV. Las demás que le atribuyan otras disposiciones aplicables y las que les asignen la Junta y/o el Director.
 
 ###### ARTICULO 18.
 
@@ -307,9 +381,11 @@ Las Unidades Administrativas podrán desconcentrarse y se integrarán, organizar
 
 ## TITULO CUARTO. De la Unidad de Relaciones Institucionales y Comunicación Social
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 20.
 
-La Unidad de Relaciones Institucionales y Comunicación Social estará adscrita al titular del Organismo, acordará con éste el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
+La Unidad de Relaciones Institucionales y Comunicación Social estará adscrita a la Dirección General. El Jefe de la Unidad acordará con el Director el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Ejecutar la política de comunicación social y de relaciones públicas que determinen el Director y la Junta de Gobierno, de conformidad con las disposiciones jurídicas en la materia;
 
@@ -317,17 +393,23 @@ II. Formular y proponer al Director el programa que dé cumplimiento a la polít
 
 III. Realizar las ediciones que determinen el Director y la Junta de Gobierno;
 
-IV. Captar, analizar y procesar la información de los medios de comunicación, referente a los acontecimientos de interés para la responsabilidad del Organismo;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-V. Establecer programas de relaciones institucionales, con los gobiernos estatales y municipales, con los que se tienen relaciones comerciales de suministro de energía eléctrica, así como con aquellos poderes federales que solicitan trabajos especiales extraordinarios y que requieren de operativos y trámites específicos de carácter urgente, y
+IV. Captar, analizar y procesar la información de los medios de comunicación, referente a los acontecimientos de interés para la responsabilidad del Organismo, y
 
-VI. Las demás que le atribuyan expresamente el titular del Organismo y la Junta de Gobierno.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+V. Establecer programas de relaciones institucionales con las Dependencias y Entidades de la Administración Pública Federal, y de los demás Poderes Federales, así como los gobiernos estatales, municipales y del Distrito Federal, con los que se tienen relaciones comerciales de suministro de energía eléctrica.
+
+VI. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 2007)
 
 ## TITULO QUINTO. De la Unidad de Asuntos Jurídicos
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 21.
 
-La Unidad de Asuntos Jurídicos estará adscrita al titular del Organismo, acordará con éste el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
+La Unidad de Asuntos Jurídicos estará adscrita al Director General. El Jefe de la Unidad acordará con éste el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Planear, organizar, normar, coordinar, supervisar y evaluar los servicios jurídicos y la aplicación de las disposiciones legales relacionadas con el Organismo;
 
@@ -347,9 +429,21 @@ VIII. Dictaminar y evaluar los convenios y contratos de los que puedan derivarse
 
 IX. Realizar e intervenir en los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Organismo;
 
-X. Supervisar los actos y operaciones que requieran formalización ante fedatario público, e inscribir los mismos ante el Registro Público de la Propiedad y del Comercio de cada entidad y del Distrito Federal, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-XI. Las demás que determinen otras disposiciones aplicables, la Dirección General o la Junta de Gobierno.
+X. Supervisar los actos y operaciones que requieran formalización ante fedatario público, e inscribir los mismos ante el Registro Público de la Propiedad Federal y en el Registro Público de la Propiedad y del Comercio de cada Entidad o del Distrito Federal;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XI. Delegar facultades a los servidores públicos inferiores adscritos a la Unidad;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Resolver los recursos administrativos interpuestos en términos de la Ley Federal de Procedimiento Administrativo, contra actos derivados por la aplicación de la Ley del Servicio Público de Energía Eléctrica, y demás disposiciones relativas y aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII. Proponer al Director General las políticas y lineamientos aplicables al ejercicio de la función jurídica institucional en materia de protección al patrimonio del Organismo, otorgamiento, ejercicio y control de poderes, convenios y contratos, asuntos contenciosos, políticas de transacción, reglamentación interna, seguros y fianzas desde su perspectiva legal, adquisición de inmuebles, contratación de derecho de vía, integración de expedientes para realizar actos de enajenación, permuta, comodato y arrendamiento de bienes de la Entidad, funciones de representación, defensa del patrimonio y derechos del Organismo, y formalización de actos ante fedatarios públicos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE ABRIL DE 2005)</small>
 
@@ -361,21 +455,13 @@ XI. Las demás que determinen otras disposiciones aplicables, la Dirección Gene
 
 El Organismo contará con un Organo Interno de Control, que tendrá las siguientes áreas: de Responsabilidades; de Auditoría Interna; de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno, y de Quejas.
 
-> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 22.
 
 El Organismo tendrá integrado a su estructura un Organo Interno de Control, al frente del cual estará un Titular, designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, quien, para el ejercicio de las facultades que le han sido atribuidas, se auxiliará por los Titulares de las Areas de Responsabilidades; de Auditoría Interna; de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno; y de Quejas, designados en los términos de la fracción XII del artículo 37 ya referido en este mismo párrafo.
 
-Los servidores públicos a que se refiere el párrafo anterior en el ámbito de sus respectivas competencias, ejercerán las facultades que les confieren la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales aplicables, conforme a lo previsto en los artículos 63 y 64 del Reglamento Interior de la Secretaría de la Función Pública.
-
-Las atribuciones y facultades conferidas por la fracción I del artículo 64 mencionado en el párrafo que antecede, se ejercerán por el Titular del Area de Responsabilidades.
-
-Las atribuciones y facultades conferidas por la fracción II inciso a) del artículo 64 mencionado en los dos párrafos que anteceden, se ejercerán por el Titular del Area de Auditoría Interna.
-
-Las atribuciones y facultades conferidas por la fracción II del inciso b) del artículo 64 mencionado en los tres párrafos que anteceden, se ejercerán por el Titular del Area de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno.
-
-Las atribuciones y facultades conferidas en la fracción III del artículo 64 mencionado en los cuatro párrafos anteriores, se ejercerán por el Titular del Area de Quejas.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades que les confieren la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales aplicables, conforme a lo previsto en los artículos 66 y 67 del Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### ARTICULO 23.
 
@@ -443,13 +529,23 @@ IV. Supervisar la formulación de informes que en materia contable requieran las
 
 V. Emitir la información contable y financiera oportuna y objetiva, que coadyuve a la toma de decisiones sobre bases suficientes y confiables;
 
-VI. Supervisar el desarrollo adecuado y oportuno del proceso de la nómina;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. Supervisar el desarrollo adecuado y oportuno del proceso de la nómina del personal sindicalizado;
 
 VII. Promover el desarrollo de nuevos procedimientos que coadyuven a la mejor realización de los procesos administrativos internos, así como a la optimización de los ya existentes;
 
-VIII. Autorizar la elaboración de los planes de capacitación del área y promover el cumplimiento de los programas establecidos en la materia, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-IX. Dar cumplimiento a las demás funciones que le asigne el Subdirector de Finanzas.
+VIII. Autorizar la elaboración de los planes de capacitación del área y promover el cumplimiento de los programas establecidos en la materia;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Realizar y controlar el Inventario de los bienes inmuebles propiedad del Organismo, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Dar cumplimiento a las demás funciones que le asigne el Subdirector de Finanzas.
 
 ### CAPITULO II. De la Gerencia de Presupuestos
 
@@ -459,21 +555,39 @@ La Gerencia de Presupuestos, además de las que le asigne el Subdirector de Fina
 
 I. Participar en la concertación del presupuesto institucional con las dependencias gubernamentales correspondientes;
 
-II. Coordinar la formulación del proceso de programación-presupuestación en la entidad;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+II. Coordinar la formulación del proceso de programación-presupuestación en la Entidad y supervisar su seguimiento;
 
 III. Coordinar y supervisar la formulación de la información que en materia presupuestal requieran las dependencias globalizadoras;
 
 IV. Difundir para su aplicación en la entidad la normatividad que dicte el Gobierno Federal en materia presupuestal;
 
-V. Aprobar el trámite de los contratos con proveedores de bienes y prestadores de servicios, exclusivamente en materia de suficiencia presupuestal en la partida de gasto correspondiente;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VI. Supervisar el adecuado ejercicio del gasto mediante la información que le proporcione el sistema institucional de pagos a proveedores, prestadores de servicios y prestaciones al personal del Organismo;
+V. Aprobar el trámite de documentos que impliquen un compromiso de gasto, exclusivamente en materia de suficiencia presupuestal en la partida de gasto correspondiente;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. Supervisar el adecuado ejercicio del gasto de la Entidad, mediante la información que le proporcione el sistema institucional de pagos a proveedores, prestadores de servicios y prestaciones al personal del Organismo;
 
 VII. Coordinar la información presupuestal que permita la toma de decisiones para la gestión administrativa;
 
-VIII. Autorizar la elaboración de los planes de capacitación del área y promover el cumplimiento de los programas establecidos en la materia, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-IX. Desarrollar sistemas para el control del ejercicio en materia presupuestal, acordes con los lineamientos de las dependencias gubernamentales.
+VIII. Realizar el trámite para la autorización de compromisos que involucren recursos de ejercicios fiscales subsecuentes;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Formular, integrar y consolidar la información para la presentación de la Cuenta de la Hacienda Pública Federal, así como el Informe de Avance de Gestión Financiera;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Autorizar la elaboración de los planes de capacitación del área y promover el cumplimiento de los programas establecidos en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XI. Desarrollar sistemas para el control del ejercicio en materia presupuestal, acordes con los lineamientos de las dependencias gubernamentales.
 
 ### CAPITULO III. De la Gerencia de Finanzas
 
@@ -517,13 +631,27 @@ III. Negociar y celebrar convenios laborales;
 
 IV. Administrar los beneficios y prestaciones contractuales;
 
-V. Normar y administrar los programas de seguridad, higiene, ecología y protección civil;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+V. Normar y administrar los programas de seguridad e higiene, ecología, previsión social, fomento a la salud y servicios médicos;
 
 VI. Supervisar y dar seguimiento a la aplicación de la normatividad laboral;
 
-VII. Coordinar la normatividad de sistemas de control de gestión y evaluación del desempeño, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VIII. Representar al Organismo ante las secretarías de Estado, dependencias oficiales y autoridades laborales.
+VII. Coordinar la normatividad de sistemas de control de gestión y evaluación del desempeño;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VIII. Representar al Organismo ante las secretarías de Estado, dependencias oficiales y autoridades laborales;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Definir políticas para la aplicación de la normatividad en materia de capacitación, instrucción y adiestramiento, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Administrar el proceso de comercialización de la Tienda.
 
 ### CAPITULO I. De la Gerencia de Personal
 
@@ -563,7 +691,9 @@ V. Participar en la negociación de las revisiones salarial y del Contrato Colec
 
 VI. Asesorar en la interpretación y aplicación del C.C.T., leyes, reglamentos, convenios y acuerdos afines.
 
-### CAPITULO III. De la Gerencia de Recursos Humanos
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO III. De la Gerencia de Desarrollo de Recursos Humanos
 
 ###### ARTICULO 36.
 
@@ -571,17 +701,73 @@ La Gerencia de Recursos Humanos, además de las que le encomiende el Subdirector
 
 I. Difundir y observar la aplicación de la normatividad sobre la capacitación y adiestramiento;
 
-II. Llevar a cabo:
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-Detección de necesidades de capacitación básica y general;
+II. Coordinar las acciones para el Desarrollo del Capital Humano relacionadas con la planeación, organización, ejecución, control y evaluación del Plan y Programa de Capacitación Institucional;
 
-Elaboración de planes y programas de capacitación básica y general;
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-Planeación y ejecución de los planes de capacitación básica y general;
+III. Definir políticas y lineamientos para la Detección de Necesidades de Capacitación;
 
-Formación de instructores, y
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-Elaboración de material de apoyo y didáctico de capacitación básica y general.
+IV. Definir políticas para la elaboración de Planes y Programas de Capacitación Básica y General;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+V. Coordinar la planeación, ejecución y evaluación de los Planes y Programas de Capacitación Básica y General;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. Investigar y difundir tendencias vanguardistas para la formación y actualización de los instructores internos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VII. Definir políticas y lineamientos para la elaboración de material didáctico y de apoyo de la Capacitación Básica y General;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VIII. Formar parte de la Comisión Mixta de Capacitación, Instrucción y Adiestramiento y participar en el seguimiento de acuerdos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Establecer y mantener vinculación con otras instituciones;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Coordinar la administración de las Escuelas de capacitación para los programas Básicos y Generales;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XI. Planear y coordinar la capacitación ejecutiva y el desarrollo profesional de los funcionarios en programas de Capacitación Básica y General;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Normar, desarrollar y administrar el sistema informático CAPACITA;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII. Coordinar la consolidación de estadísticas y resultados de las acciones realizadas en materia de capacitación a nivel institucional;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIV. Emitir informes y reportes gubernamentales requeridos en materia de capacitación institucional;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XV. Presentar anualmente ante la Secretaría del Trabajo y Previsión Social los Planes y Programas de Capacitación, Instrucción y Adiestramiento del Organismo para su registro y aprobación;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XVI. Asesorar y coordinar al grupo de administradores de la capacitación de las diversas Subdirecciones, en el seguimiento y consecución de los Planes y Programas de Capacitación anuales y demás acciones que se deriven de los mismos, congruentes con el proceso institucional;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XVII. Investigar y difundir tendencias vanguardistas para el Desarrollo del Capital Humano, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XVIII. Planear y coordinar la administración de los Recursos Humanos, tecnológicos y presupuestales destinados a la Capacitación Básica y General.
 
 ### CAPITULO IV. De la Gerencia de Previsión Social
 
@@ -595,15 +781,49 @@ II. Establecer las directrices normativas sobre las cuales se regularán las act
 
 III. Investigar, recabar, actualizar, difundir y supervisar la aplicación de los fundamentos jurídicos de las funciones de la Gerencia de Previsión Social;
 
-IV. Unificar criterios en la implantación e implementación de planes estratégicos, programas, manuales de organización y procedimientos y sistemas de evaluación y control en las actividades de la Gerencia de Previsión Social;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-V. Representar a Luz y Fuerza del Centro en la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo, Secretarías de Estado, Dependencias de la Administración Pública Federal y otras que las autoridades superiores designen en todos los eventos en materia de Previsión Social;
+IV. Asesorar, capacitar y observar las medidas preventivas que se deban aplicar en materia de seguridad, higiene y medio ambiente de trabajo, así como consolidar la información de las Comisiones de Seguridad e Higiene para cumplimentar los programas en prevención de riesgos y enfermedades de trabajo;
 
-VI. Consolidar y evaluar resultados de las acciones programadas en materia de Previsión Social, por los Centros de Trabajo;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VII. Informar a las autoridades superiores sobre las funciones encomendadas a la Gerencia, y
+V. Verificar el cumplimiento de las condiciones de Seguridad e Higiene en los centros de trabajo de la Entidad, con el reconocimiento y acreditación de los organismos de certificación y de la Dirección General de Inspección Federal del Trabajo de la Secretaría del Trabajo y Previsión Social;
 
-VIII. Acordar con el Subdirector de Recursos Humanos.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. Vigilar la observancia de los derechos, obligaciones y servicios sociales contenidos en la Ley del Seguro Social y sus Reglamentos, así como en los diversos convenios celebrados con el Instituto Mexicano del Seguro Social, promoviendo los medios de defensa necesarios en caso de incumplimiento;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VII. Llevar estadísticas de los accidentes y enfermedades de trabajo para la determinación anual de la prima de riesgos de trabajo;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VIII. Practicar exámenes médicos y de laboratorio a los candidatos de nuevo ingreso, a los trabajadores que toman planta y exámenes de control a los que tienen movimiento escalafonario y a los trabajadores que tienen cambio de departamento administrativo a operativo. Administrar el servicio médico al personal de confianza. Promover acciones de fomento y protección a la salud;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Participar en la negociación de la revisión del Contrato Colectivo de Trabajo;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Unificar criterios en la implantación e implementación de planes estratégicos, programas, manuales de organización y procedimientos y sistemas de evaluación y control en las actividades de la Gerencia de Previsión Social;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XI. Representar a Luz y Fuerza del Centro en la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo, Secretarías de Estado, Dependencias de la Administración Pública Federal y otras que las autoridades superiores designen en todos los eventos en materia de Previsión Social;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Consolidar y evaluar resultados de las acciones programadas en materia de Previsión Social, por los Centros de Trabajo;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII. Informar a las autoridades superiores sobre las funciones encomendadas a la Gerencia, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIV. Acordar con el Subdirector de Recursos Humanos.
 
 ### CAPITULO V. De la Gerencia de Prestaciones
 
@@ -611,7 +831,9 @@ VIII. Acordar con el Subdirector de Recursos Humanos.
 
 La Gerencia de Prestaciones tendrá las siguientes funciones, además de las que le asigne el Subdirector de Recursos Humanos:
 
-I. Normar en materia de prestaciones en el ámbito de Luz y Fuerza del Centro;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+I. Dirigir, controlar y normar acciones relativas a la administración de las prestaciones contractuales establecidas a favor de los trabajadores, jubilados y sus beneficiarios;
 
 II. Desarrollar políticas y procedimientos para el sistema de prestaciones;
 
@@ -619,27 +841,43 @@ III. Elaborar e implantar planes estratégicos, programas, manuales de organizac
 
 IV. Establecer mecanismos de integración que propicien, a nivel interno y externo, el óptimo desarrollo de las funciones que competen a la Gerencia de Prestaciones;
 
-V. Administrar el Auditorio del Edificio de Luz y Fuerza del Centro;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VI. Mantener vinculación con instituciones, dependencias oficiales, Notarías Públicas y establecimientos comerciales;
+V. Mantener vinculación con instituciones, dependencias oficiales, Notarías Públicas y establecimientos comerciales;
 
-VII. Representar a Luz y Fuerza ante dependencias de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VIII. Asesorar a las diversas áreas del organismo, en la interpretación y aplicación de la normatividad en materia de prestaciones, competencia de la Gerencia;
+VI. Representar a Luz y Fuerza del Centro ante dependencias de la Administración Pública Federal;
 
-IX. Elaborar y controlar el ejercicio de los presupuestos de inversión y explotación;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-X. Controlar y ejercer los recursos económicos correspondientes a los "fondos" destinados al pago de prestaciones;
+VII. Asesorar a las diversas áreas del Organismo, en la interpretación y aplicación de la normatividad en materia de prestaciones, competencia de la Gerencia;
 
-XI. Analizar la procedencia y aprobar los créditos habitacionales, así como previa liquidación de los mismos, autorizar las cancelaciones de hipotecas;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-XII. Administrar y supervisar la aplicación de becas, promoción de turismo social, guarderías infantiles, practicantes técnicos, promoción de descuentos con casas comerciales y elaboración y distribución de folletos y propagandas;
+VIII. Elaborar y controlar el ejercicio de los presupuestos de inversión y explotación;
 
-XIII. Participar en la revisión del Anexo 16 de la Cl. 9 del C.C.T. (gastos de trabajo);
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-XIV. Participar en la revisión del Convenio 467 (gastos de automóvil), y
+IX. Controlar y ejercer los recursos económicos correspondientes a los "fondos" destinados al pago de prestaciones;
 
-XV. Participar en la revisión del Anexo 11 (semovientes y bicicletas).
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Analizar la procedencia y aprobar los créditos habitacionales, así como previa liquidación de los mismos, autorizar las cancelaciones de hipotecas;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XI. Analizar la procedencia y aprobar de conformidad con la normatividad vigente, la aplicación de diversas ayudas y prestaciones contractuales, como son entre otras, las relativas a becas, promoción de turismo social, guarderías infantiles, practicantes técnicos, útiles escolares, transportación de hijos de trabajadores y jubilados, sostenimiento de escuelas, desarrollo de facultades artísticas y culturales, fomento a la cultura física, promoción de descuentos con casas comerciales y elaboración y distribución de folletos y propagandas, y
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Participar en la revisión de acuerdos, convenios y anexos del Contrato Colectivo de Trabajo, en las materias que le sean asignadas por el Subdirector de Recursos Humanos.
+
+XIII. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 2007)
+
+XIV. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 2007)
+
+XV. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 2007)
 
 ### CAPITULO VI. De la Gerencia de Jubilados
 
@@ -661,11 +899,25 @@ VI. Actualizar las plantillas mediante censos de supervivencia.
 
 ### CAPITULO VII. De la Gerencia de Tienda
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 40.
 
-La Gerencia de Tienda tendrá, además de las que le sean asignadas por el Subdirector de Recursos Humanos, la función siguiente:
+La Gerencia de la Tienda de Luz y Fuerza del Centro tendrá, además de las que le sean asignadas por el Subdirector de Recursos Humanos, las funciones siguientes:
 
-I. Administrar y controlar la comercialización de bienes de consumo doméstico de la tienda del Organismo.
+I. Adquirir y abastecer mercancías con calidad y variedad a precios competitivos;
+
+II. Vender mercancías a precios competitivos para apoyar la economía de los trabajadores y jubilados;
+
+III. Ejecutar los créditos que el Organismo otorga a sus trabajadores y jubilados sindicalizados, para la compra de mercancía;
+
+IV. Desarrollar e implementar planes estratégicos, programas, políticas, procedimientos y mecanismos de control del proceso comercial de la Tienda;
+
+V. Diseñar y realizar acciones de promoción y publicidad para informar de los bienes y servicios que otorga la Tienda;
+
+VI. Administrar los recursos humanos, materiales, financieros y tecnológicos con los que se cuenta, y
+
+VII. Mantener un vínculo continuo con proveedores, clientes e instituciones.
 
 ## TITULO NOVENO. De la Subdirección de Planeación Estratégica
 
@@ -757,19 +1009,27 @@ IV. Instrumentar y vigilar la aplicación de la regulación que dicte el Sector 
 
 La Gerencia de Generación, además de las que le asigne el Subdirector de Producción, tendrá las funciones siguientes:
 
-I. Generar energía;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+I. Planear, programar, coordinar y supervisar el proceso de generación de energía eléctrica;
 
 II. Coordinar los programas de generación supervisando la eficiencia operativa, transparencia de costos y cumplimiento de índices de productividad;
 
-III. Operar y mantener las centrales termoeléctricas, hidroeléctricas y turbo-gas;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-IV. Vigilar la observancia de la normatividad ambiental;
+III. Coordinar y supervisar la operación y el mantenimiento de las centrales termoeléctricas, hidroeléctricas, turbo-gas y de generación distribuida, exceptuando las que están a cargo de la División Tenango (Zictepec, Zepayautla y San Simón);
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IV. Vigilar la observancia de la normatividad ambiental en las instalaciones de generación;
 
 V. Evaluar resultados de gestión;
 
 VI. Vigilar y conducir las relaciones con las diversas dependencias gubernamentales en materia de agua y energéticos para la generación de energía;
 
-VII. Elaborar los presupuestos de inversión y explotación, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VII. Planear, programar, integrar y supervisar los presupuestos de inversión y explotación, y
 
 VIII. Elaborar y actualizar manuales, procedimientos y reglamentos.
 
@@ -785,7 +1045,9 @@ II. Coordinar con el CENACE la operación y control de la Red Troncal del Area d
 
 III. Administrar, la generación de productores independientes y cogeneradores que estén conectados en la Red Eléctrica de LFC;
 
-IV. Instrumentar procedimientos y acciones tendientes a reducir las pérdidas y el tiempo de interrupción por usuario, y mejora continua de la calidad del servicio a los clientes internos y externos de la Gerencia;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IV. Coordinar las acciones tendientes a reducir las pérdidas y el tiempo de interrupción por usuario, y mejora continua de la calidad del servicio a los clientes internos y externos de la Gerencia;
 
 V. Elaborar estudios de planeación de la operación a corto y mediano plazos de la Red Eléctrica de Potencia;
 
@@ -795,13 +1057,27 @@ VII. Coordinar con las áreas de Generación, Transmisión, Transformación y Di
 
 VIII. Coordinar con las áreas de CFE y LFC la puesta en servicio de equipo en instalaciones existentes y nuevas;
 
-IX. Elaborar los pronósticos de demanda de energía;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Elaborar los pronósticos de demanda y de energía del Area de Control Central;
 
 X. Administrar la información para el Balance de Energía de la Entidad;
 
-XI. Administrar el Contrato de Compra Venta de Energía entre CFE y LFC, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-XII. Elaborar y actualizar manuales, procedimientos y reglamentos.
+XI. Administrar el Contrato de Compra Venta de Energía entre CFE y LFC;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Elaborar y actualizar manuales, procedimientos y reglamentos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII. Establecer los esquemas de control necesarios para mantener la seguridad e integridad del Sistema Eléctrico de Potencia del Area de Control Central, e
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIV. Implantar y administrar los sistemas informáticos en tiempo real necesarios para la supervisión y telecontrol de la Red Eléctrica del Area de Control Central.
 
 ### CAPITULO III. De la Gerencia de Transmisión y Transformación
 
@@ -823,7 +1099,9 @@ VI. Supervisar y operar el equipo de las subestaciones de acuerdo a instruccione
 
 VII. Respaldar la operación y atender anomalías y eventos especiales en el Sistema Eléctrico de Potencia a las Areas de Control del sistema y Redes de Distribución;
 
-VIII. Coordinar la recepción y puesta en servicio de ampliaciones y en nuevas instalaciones;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VIII. Coordinar la recepción de ampliaciones y nuevas instalaciones;
 
 IX. Administrar los recursos humanos, materiales y financieros de la gestión del mantenimiento;
 
@@ -851,9 +1129,17 @@ II. Coordinar los procesos de distribución;
 
 III. Establecer programas para mejorar los indicadores de desempeño;
 
-IV. Establecer las políticas y lineamientos para la planeación y estudios que aseguren el desarrollo de la red y subestaciones de distribución; y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-V. Fijar las políticas para el desarrollo del programa de capacitación permanente orientados hacia la calidad en el servicio al cliente.
+IV. Establecer las políticas y lineamientos para la planeación y estudios que aseguren el desarrollo de la red y subestaciones de distribución;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+V. Fijar las políticas para el desarrollo del programa de capacitación permanente orientados hacia la calidad en el servicio al cliente, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. Conducir, analizar, estructurar, otorgar y/o celebrar los procedimientos, mecánicas, contratos y permisos administrativos necesarios, de acuerdo a la normatividad y legislación aplicable, para el uso de postería, torres y ductos propiedad de la Entidad por parte de terceros, para la colocación de cable, accesorios, antenas y aditamentos en general en materia de telecomunicaciones.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1057,7 +1343,9 @@ II. Coordinar los procesos de comercialización;
 
 III. Establecer programas para mejorar los indicadores de desempeño;
 
-IV. Establecer las políticas y lineamientos para la planeación comercial que aseguren la contratación, conexión, medición, facturación y cobranza del servicio público de energía eléctrica; y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IV. Establecer las políticas, lineamientos y procedimientos, para la planeación comercial que aseguren la contratación, conexión, lectura y verificación de los equipos de medición, facturación y cobranza del servicio público de energía eléctrica, y
 
 V. Fijar las políticas para el desarrollo de programas de capacitación permanente orientados hacia la calidad en el servicio al cliente.
 
@@ -1085,9 +1373,29 @@ VI. Establecer las políticas, normas y procedimientos tanto para la celebració
 
 VII. Proporcionar información para la planeación, desarrollo y evaluación de los programas comerciales de Sucursales y Agencias Foráneas a dependencias externas;
 
-VIII. Establecer políticas, normas y procedimientos para mejorar los servicios y productos que le proporcionen a los clientes; y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-IX. Establecer la normatividad para el desarrollo de los programas de adiestramiento y capacitación relativas a la función comercial.
+VIII. Establecer políticas, normas y procedimientos para mejorar los servicios y productos que le proporcionen a los clientes;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Llevar a cabo los procedimientos de contratación, facturación, notificación y cobranza del servicio público de energía eléctrica; así como la conexión, lectura y verificación de los equipos de medición, afectos a dicho servicio;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Delegar por escrito, previa autorización del Subdirector, la facultad de realizar los procedimientos de contratación, facturación, notificación y cobranza del servicio público de energía eléctrica; así como la conexión, medición y verificación de los equipos de medición, afectos a dicho servicio, en los funcionarios y empleados adscritos a esta gerencia;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XI. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Resolver los recursos administrativos interpuestos en términos de la Ley Federal de Procedimiento Administrativo, en contra de los procedimientos de facturación, notificación y cobranza del servicio público de energía eléctrica; así como la conexión, lectura y verificación de los equipos de medición, afectos a dicho servicio, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII. Establecer la normatividad para el desarrollo de los programas de adiestramiento y capacitación relativos a la función comercial.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1111,9 +1419,29 @@ V. Dirigir y supervisar la operación comercial de las Unidades Comerciales;
 
 VI. Coadyuvar en el establecimiento de políticas, normas y procedimientos para mejorar los servicios y productos que le proporcionen a los clientes;
 
-VII. Coadyuvar en el establecimiento de la normatividad y desarrollo de los programas de adiestramiento y capacitación relativos a la función comercial; y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VIII. Proponer mejoras a las operativas comerciales para hacer más eficiente el proceso de atención a clientes.
+VII. Coadyuvar en el establecimiento de la normatividad y desarrollo de los programas de adiestramiento y capacitación relativos a la función comercial;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VIII. Llevar a cabo los procedimientos de contratación, facturación, notificación y cobranza del servicio público de energía eléctrica; así como la conexión, lectura y verificación de los equipos de medición, afectos a dicho servicio;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Delegar por escrito, previa autorización del Subdirector, la facultad de realizar los procedimientos de contratación, facturación, notificación y cobranza del servicio público de energía eléctrica; así como la conexión, medición y verificación de los equipos de medición, afectos a dicho servicio, en los funcionarios y empleados adscritos a esta gerencia;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Suscribir los documentos relativos al ejercicio de las atribuciones que le correspondan por delegación o suplencia;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XI. Resolver los recursos administrativos interpuestos en términos de la Ley Federal de Procedimiento Administrativo, en contra de los procedimientos de facturación, notificación y cobranza del servicio público de energía eléctrica; así como la conexión, lectura y verificación de los equipos de medición, afectos a dicho servicio, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Proponer mejoras a las operativas comerciales, para hacer más eficiente el proceso de atención a clientes.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1139,9 +1467,29 @@ VI. Coadyuvar en el establecimiento de políticas, normas y procedimientos para 
 
 VII. Coadyuvar en el establecimiento de la normatividad y desarrollo de los programas de adiestramiento y capacitación relativos a la función comercial;
 
-VIII. Proponer mejoras a las operativas comerciales para hacer más eficiente el proceso de atención a clientes; y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-IX. Establecer programas de capacitación permanente.
+VIII. Proponer mejoras a las operativas comerciales para hacer más eficiente el proceso de atención a clientes;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Llevar a cabo los procedimientos de contratación, facturación, notificación y cobranza del servicio público de energía eléctrica; así como la conexión, lectura y verificación de los equipos de medición, afectos a dicho servicio;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Delegar por escrito, previa autorización del Subdirector, la facultad de realizar los procedimientos de contratación, facturación, notificación y cobranza del servicio público de energía eléctrica; así como la conexión, lectura y verificación de los equipos de medición, afectos a dicho servicio, en los funcionarios y empleados adscritos a esta gerencia;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XI. Suscribir los documentos relativos al ejercicio de las atribuciones que le correspondan por delegación o suplencia;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XII. Resolver los recursos administrativos interpuestos en términos de la Ley Federal de Procedimiento Administrativo, en contra de los procedimientos de facturación, notificación y cobranza del servicio público de energía eléctrica; así como la conexión, lectura y verificación de los equipos de medición, afectos a dicho servicio, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII. Establecer programas de capacitación permanente.
 
 ## TITULO DECIMO SEGUNDO. De la Subdirección de Abastecimiento y Transportes
 
@@ -1157,11 +1505,29 @@ III. Realizar el aseguramiento y control de los bienes propiedad de la entidad;
 
 IV. Autorizar la implantación de sistemas operativos en las gerencias adscritas;
 
-V. Normar, revisar y controlar la contratación de servicios, de obras públicas y vigilancia;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VI. Normar, revisar y controlar el adecuado uso de los transportes de la Entidad, vigilando el cumplimiento de la normatividad que en la materia se emita, y
+V. Normar, revisar, celebrar y controlar la contratación de servicios, de obras públicas y de vigilancia;
 
-VII. Planear, supervisar y evaluar el ejercicio del presupuesto asignado a la misma.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. Normar los programas de seguridad física y protección civil;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VII. Normar, revisar y controlar el adecuado uso de los transportes de la Entidad, vigilando el cumplimiento de la normatividad vigente;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VIII. Llevar a cabo los procesos de modificación, adición y rescisión de los contratos celebrados en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y Ley de Obras Públicas y Servicios Relacionados con las Mismas; así como participar con las áreas respectivas, en la aplicación de las sanciones y penas convencionales pactadas en los mismos, de conformidad con sus funciones y normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IX. Resolver los recursos administrativos interpuestos en términos de la Ley Federal de Procedimiento Administrativo, en contra de los procesos de modificación, adición, rescisión, notificación y aplicación de sanciones y penas convencionales, de los contratos celebrados conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y Ley de Obras Públicas y Servicios Relacionados con las Mismas, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+X. Planear, supervisar y evaluar el ejercicio del presupuesto asignado a la misma.
 
 ### CAPITULO I. De la Gerencia de Adquisiciones y Almacenes
 
@@ -1191,9 +1557,33 @@ X. Promover la capacitación y actualización del personal en materia de adquisi
 
 XI. Establecer y promover las políticas y lineamientos para el manejo de almacenes;
 
-XII. Supervisar, en su caso, los índices de productividad de las áreas de adquisiciones y almacenes, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-XIII. Promover la actualización de los sistemas de registro, control, guarda, custodia y suministro de materiales.
+XII. Supervisar, en su caso, los índices de productividad de las áreas de adquisiciones y almacenes;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII. Llevar a cabo los procesos de adquisiciones en sus etapas de licitación y contratación;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIV. Llevar a cabo los procesos de modificación, adición y rescisión de los contratos celebrados en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; así como participar con las áreas respectivas, en la aplicación de las sanciones y penas convencionales pactadas en los mismos, de conformidad con sus funciones y normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XV. Será indelegable la facultad de llevar a cabo los distintos procesos de adquisiciones, en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XVI. Suscribir los documentos relativos al ejercicio de atribuciones que le correspondan por delegación o suplencia;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XVII. Resolver en su caso, los recursos administrativos interpuestos en términos de la Ley Federal de Procedimiento Administrativo, en contra de los procesos de modificación, adición, rescisión, notificación y aplicación de sanciones y penas convencionales, de los contratos celebrados conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XVIII. Promover la actualización de los sistemas de registro, control, guarda, custodia y suministro de materiales.
 
 ### CAPITULO II. De la Gerencia de Transportes
 
@@ -1261,11 +1651,37 @@ XI. Proporcionar a las áreas sustantivas de la entidad apoyo en eventos de cont
 
 XII. Consolidar los requerimientos de contratación de servicios en general;
 
-XIII. Diseñar y dirigir los programas de capacitación para el personal de los distintos niveles vinculados con las tareas de servicios generales;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-XIV. Las demás que señale el Subdirector de Abastecimiento y Transportes, y
+XIII. Llevar a cabo los procesos de modificación, adición y rescisión de los contratos celebrados en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y Ley de Obras Públicas y Servicios Relacionados con las Mismas; así como participar con las áreas respectivas, en la aplicación de las sanciones y penas convencionales pactadas en los mismos, de conformidad con sus funciones y normatividad aplicable;
 
-XV. Supervisar y evaluar los índices de productividad correspondientes.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIV. Será indelegable la facultad de llevar a cabo los distintos procesos de contratación de servicios y obra pública, en términos de las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XV. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XVI. Resolver en su caso, los recursos administrativos interpuestos en términos de la Ley Federal de Procedimiento Administrativo, en contra de los procesos de modificación, adición, rescisión, notificación y aplicación de sanciones y penas convencionales, de los contratos celebrados conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XVII. Supervisar y evaluar los índices de productividad correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XVIII. Administrar el Auditorio del Edificio de Luz y Fuerza del Centro;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XIX. Coordinar y controlar la información global de los contratos de arrendamiento que celebre Luz y Fuerza del Centro, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+XX. Las demás que señale el Subdirector de Abastecimiento y Transportes.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1277,17 +1693,33 @@ XV. Supervisar y evaluar los índices de productividad correspondientes.
 
 La Coordinación de Seguridad tendrá las funciones siguientes:
 
-I. Determinar y autorizar la cantidad de elementos necesarios para integrar el estado de fuerza de las corporaciones policiales contratadas, así como el aumento y disminución del mismo en función de las necesidades del Organismo;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-II. Supervisar el buen desempeño de las funciones de las corporaciones policiales contratadas, correspondiéndole la autorización del pago por la prestación de servicios de seguridad, vigilancia y custodia;
+I. Determinar y autorizar la cantidad de elementos necesarios para integrar el estado de fuerza de las corporaciones policiales contratadas, en función de las necesidades del Organismo;
 
-III. Representar al Organismo ante el Grupo de Coordinación para la Atención de Instalaciones Estratégicas (GCIE) y el Centro de Investigación y Seguridad Nacional (CISEN), así como coordinar el enlace con Organismos Estatales y del Gobierno Federal relacionados con la seguridad pública;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-IV. Coordinar operativos especiales en materia de seguridad, tanto de carácter rutinario, como en situaciones de alto riesgo, amenazas potenciales o emergencias diversas;
+II. Normar y supervisar los servicios de seguridad, vigilancia y custodia de la Entidad que realizan las corporaciones policiales contratadas, correspondiéndole la autorización del pago por los mismos;
 
-V. Representar al Organismo ante la Dirección General de Protección Civil dependiente de la Secretaría de Gobernación, así como coordinar la integración de las Unidades Internas de Protección Civil de las diferentes instalaciones del Organismo; y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
-VI. Diseñar mecanismos de recolección, procesamiento y explotación de información que contribuyan a preservar la integridad, estabilidad y seguridad del Organismo.
+III. Diseñar, ubicar y operar sistemas de seguridad en las instalaciones estratégicas e inmuebles en que se desarrollan funciones sustantivas de la Entidad, y representar al Organismo ante el Grupo de Coordinación para la Atención de Instalaciones Estratégicas (GCIE) y el Centro de Investigación y Seguridad Nacional (CISEN), así como coordinar el enlace con organismos del Gobierno Federal, Estatales y del Distrito Federal, en operativos especiales en materia de seguridad;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+IV. Representar al Organismo ante la Dirección General de Protección Civil dependiente de la Secretaría de Gobernación, Gobiernos Estatales y Municipales, verificar el cumplimiento de la normatividad, así como integrar el Programa Interno de Protección Civil de la Entidad para prevenir riesgos ante situaciones de emergencia o desastres;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+V. Desarrollar análisis de carácter estratégico y operativo en función de la situación política, económica y social del país, a través de mecanismos de recolección, procesamiento y explotación de la información, a fin de coadyuvar en la toma de decisiones de la Dirección General;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VI. Desarrollar mecanismos de la cultura de seguridad en la Entidad, a fin de fomentar la participación del personal en la misma, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
+
+VII. Desarrollar esquemas de supervisión específicos, en coordinación con las diversas áreas con la finalidad de disminuir la incidencia de robos y pérdidas.
 
 ## TITULO DECIMO TERCERO. De la Subdirección de Construcción
 
@@ -1569,11 +2001,13 @@ Por cada miembro propietario de la Junta, se nombrará un suplente, el cual lo s
 
 Las ausencias temporales del presidente de la Junta serán suplidas por el Director General de la Comisión Federal de Electricidad.
 
-> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 75.
 
-El Director General del Organismo será suplido en sus ausencias por el Subdirector de Finanzas y en ausencia de éste por el Subdirector de Planeación Estratégica y, exclusivamente para la firma de informes previos y justificados o de recursos relativos a juicios de amparo, por el Jefe de la Unidad de Asuntos Jurídicos.
+El Director General del Organismo será suplido en sus ausencias por el Subdirector de Finanzas y en ausencia de éste por el Subdirector de Planeación Estratégica.
+
+En materia de firma de informes previos y justificados, de recursos procesales, y del cumplimiento de las sentencias que se dicten en los juicios de amparo, el Director General será suplido en sus ausencias por el Jefe de la Unidad de Asuntos Jurídicos y/o por el servidor público jerárquicamente inmediato inferior a éste.
 
 Para los mismos efectos, los subdirectores, gerentes y demás funcionarios en sus ausencias serán suplidos por el servidor público jerárquicamente inferior inmediato al que competa la materia del juicio de amparo de que se trate.
 
@@ -1618,3 +2052,7 @@ D.O.F. 13 DE SEPTIEMBRE DE 2006.
 PRIMERO.- Las presentes Reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se deroga el artículo 51 del Estatuto Orgánico de Luz y Fuerza del Centro.
+
+D.O.F. 28 DE DICIEMBRE DE 2007.
+
+UNICO. Las presentes reformas al Estatuto Orgánico de Luz y Fuerza del Centro entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
