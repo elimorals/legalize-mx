@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fiscalizacion-superior-del-estado-de-guerrero-numero-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-06"
-last_updated: "2006-12-26"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO NUMERO 564
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 6 de noviembre de 2002.
 
@@ -793,21 +793,33 @@ Forman parte de las Cuentas Públicas, los Informes Financieros cuatrimestrales 
 
 Cuando la Cuenta Pública se entregue sin apego a las normas establecidas en esta Ley o a los formatos y lineamientos establecidos por la Auditoría General del Estado, ésta será rechazada, imponiendo, en su caso, la sanción que corresponda.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 30.
 
-Las Entidades Fiscalizadas que al efecto señala el artículo 2 fracción X, así como cualquier otro órgano de carácter autónomo, deberán entregar al Congreso del Estado, a través de la Auditoría General del Estado, un Informe Financiero cuatrimestral del ejercicio de sus recursos presupuestarios a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo. Los cuatrimestres comprenderán los períodos siguientes:
+Las Entidades Fiscalizadas que al efecto señala el artículo 2 fracción X, así como cualquier otro órgano de carácter autónomo, deberán entregar al Congreso del Estado, a través de la Auditoría General del Estado, un Informe Financiero cuatrimestral del ejercicio de sus recursos presupuestarios a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo, con excepción del último cuatrimestre que se entregará en la segunda quincena del mes de febrero del año siguiente del Ejercicio Fiscal del que se informe. Los cuatrimestres comprenderán los períodos siguientes:
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Primer Cuatrimestre: Enero-Abril
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 Segundo Cuatrimestre: Mayo-Agosto
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Tercer Cuatrimestre: Septiembre-Diciembre
 
-La presentación de las Cuentas Anuales de la Hacienda Pública Estatal y Municipales, contendrán el Informe Financiero del tercer cuatrimestre del ejercicio fiscal que corresponda, consolidando el resultado de las operaciones de los ingresos y gastos que se hayan realizado, debiéndose presentar al Congreso del Estado, a través de la Auditoría General del Estado, a más tardar el último día del mes de enero del año siguiente al ejercicio fiscal que se informe.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+La presentación de las Cuentas Anuales de la Hacienda Pública Estatal y Municipales, contendrán el Informe Financiero del tercer cuatrimestre del ejercicio fiscal que corresponda, consolidando el resultado de las operaciones de los ingresos y gastos que se hayan realizado, debiéndose presentar al Congreso del Estado, a través de la Auditoría General del Estado, a más tardar el último día del mes de febrero del año siguiente al Ejercicio Fiscal que se informe.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Los Informes Financieros concernientes al inicio y terminación del Poder Ejecutivo Estatal, comprenderán los períodos de abril a agosto y enero a marzo, respectivamente; siendo los períodos de entrega al Congreso del Estado, a través de la Auditoría General del Estado, a más tardar el treinta de septiembre y el treinta y uno de marzo en forma correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Los Informes Financieros concernientes al inicio y terminación de la Administración Municipal, comprenderán los periodos de uno de enero al treinta de abril y del uno de septiembre al treinta y uno de diciembre, respectivamente; siendo los períodos de entrega al Congreso del Estado, a través de la Auditoria General del Estado, a más tardar las segundas quincenas de los meses de mayo y diciembre en forma correspondiente.
 
@@ -1590,3 +1602,13 @@ Túrnese al Titular del Ejecutivo del Estado para los efectos legales conducente
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
