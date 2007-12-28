@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2007-03-02"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -497,9 +497,13 @@ XXIII. Organizar, operar y controlar la contabilidad pública y la estadística 
 
 XXIV. Llevar la contabilidad de la Hacienda Pública Estatal formulando estados financieros mensuales y presentar anualmente al Gobernador del Estado, durante el mes de enero, un informe pormenorizado del ejercicio fiscal anterior;
 
-XXV. Presentar al H. Congreso del Estado, previo acuerdo del Titular del Poder Ejecutivo, la cuenta pública estatal, para efectos de su revisión, discusión y, en su caso, aprobación, la que estará integrada por los informes trimestrales de origen y aplicación de los recursos públicos, los cuales deberán ser presentados dentro de los treinta días siguientes al término del trimestre que corresponda;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-XXVI. Proporcionar al H. Congreso del Estado, por conducto de la Comisión de la Contaduría Mayor de Hacienda, la información que se solicite con relación al funcionamiento de la dependencia;
+XXV. Presentar al H. Congreso del Estado, previo acuerdo del Titular del Poder Ejecutivo, la cuenta pública estatal, para efectos de su revisión, discusión y, en su caso, aprobación, la que estará integrada por los informes de avance de gestión financiera en los términos dispuestos por la Ley de Fiscalización Superior del Estado de Coahuila;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XXVI. Proporcionar al H. Congreso del Estado y a la Auditoría Superior del Estado, la información que se solicite con relación al funcionamiento de la dependencia;
 
 XXVII. Proponer al Ejecutivo las reformas tendientes a mejorar la política financiera y fiscal;
 
@@ -1462,3 +1466,9 @@ SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que med
 TERCERO. Los asuntos o trámites pendientes de resolución al momento de la entrada en vigor del presente Decreto, se resolverán por la dependencia ante la cual se iniciaron.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
