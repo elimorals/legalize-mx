@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-contaduria-mayor-de-hacienda-del-11492"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-03-31"
-last_updated: "1997-03-31"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 31 de marzo de 1997.
 
@@ -327,9 +327,11 @@ La iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado y las inici
 
 El incumplimiento de lo dispuesto por el artículo anterior traerá consigo el que se tengan por prorrogadas las correspondientes al año anterior mientras no se aprueben las nuevas.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 23.
 
-Los pronósticos de ingresos y presupuestos de egresos de los municipios deberán ser presentados ante la Contaduría Mayor de Hacienda antes del día 5 de diciembre para que sean revisados contable y administrativamente y una vez valorados los presupuestos de los municipios, se autorice su publicación en el Periódico Oficial.
+Los pronósticos de ingresos de los municipios deberán ser presentados ante la Contaduría Mayor de Hacienda antes del día 5 de diciembre.
 
 ### CAPITULO SEXTO. DE LA CUENTA PUBLICA
 
@@ -858,3 +860,11 @@ Francisco C. Frías Castro
 EL SECRETARIO DE DE (SIC) HACIENDA PUBLICA Y TESORERIA
 
 Marco Antonio Fox Cruz
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
