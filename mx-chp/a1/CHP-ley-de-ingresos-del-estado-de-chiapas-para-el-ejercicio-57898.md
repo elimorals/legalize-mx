@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-del-estado-de-chiapas-para-el-ejercicio-57898"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-11-21"
-last_updated: "2007-11-21"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2008
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -407,6 +407,20 @@ Cuando se trate de operaciones derivadas del programa para el financiamiento de 
 
 Los contribuyentes que realicen el pago del derecho por renovación anual de tarjeta de circulación, señalado en la Ley Estatal de Derechos, en los meses de enero y febrero, gozarán sobre el importe de éste una reducción del 20% y 10% respectivamente.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8°.
+
+Los propietarios de vehículos automotores en las modalidades de automóvil y camión del servicio particular, que hayan adquirido placas durante los meses de noviembre y diciembre del año 2007; al realizar el canje de placas 2008, gozarán de un descuento del 50% sobre el costo total de las mismas, siempre que éste, se efectué durante el mes de marzo de 2008.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 9°.
+
+Los contribuyentes que realicen el canje de placas durante los meses de marzo y abril de 2008, gozarán sobre el importe de este derecho, una reducción del 20% y 10% respectivamente.
+
+Esta reducción no se hará aplicable para aquellos contribuyentes que obtengan el descuento del 50%, otorgado en el artículo anterior.
+
 ## Transitorios
 
 Primero.- La presente Ley tendrá vigencia a partir del uno de enero al treinta y uno de diciembre de 2008.
@@ -420,3 +434,13 @@ Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciséis días del mes de noviembre del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primerio (sic).- El presente Decreto entrará en vigor el día primero de enero del 2008, salvo lo dispuesto en el articulo siguiente.
+
+Artículo Segundo.- Las reformas a los artículos 171, 278, 278-A, 278-B, 422, 423, 425 y 433 del Código de la Hacienda Pública para el Estado de Chiapas; 38 y 42 de la Ley Orgánica Municipal, y 1, 2, 3 y 128, así como las adiciones de los artículos 129 y 130, el Titulo Séptimo «Ingresos Derivados de la Coordinación Fiscal», de la Ley de Hacienda Municipal, entrarán en vigencia al día siguiente de su publicación.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
