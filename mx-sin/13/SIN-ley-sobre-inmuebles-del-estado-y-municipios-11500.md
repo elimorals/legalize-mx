@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-inmuebles-del-estado-y-municipios-11500"
 country: "mx"
 rank: "ley"
 publication_date: "1932-01-21"
-last_updated: "2001-12-21"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY SOBRE INMUEBLES DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Sinaloa, el jueves 21 de enero de 1932.
 
@@ -69,9 +69,15 @@ V.- Los montes y bosques que conforme a la Ley Federal de la materia corresponde
 
 VI.- Los monumentos artísticos o conmemorativos, y las construcciones levantadas en los lugares públicos para ornato de éstos o comodidad de los transeuntes.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VII.- Los bienes destinados al servicio público a que se refiere el artículo 14 de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 4o.
 
-De los bienes de dominio público, puede disfrutar todo individuo sin distinción alguna, siempre que no sea con exclusión o perjuicio de tercero y con tal que se sujete a la Ley y a los Reglamentos Administrativos.
+Toda persona puede disfrutar de los bienes de uso común, sin más restricciones que las establecidas por las leyes y reglamentos administrativos.
 
 ###### Artículo 5o.
 
@@ -131,9 +137,11 @@ VI.- Cuarteles y demás terrenos y construcciones militares.
 
 VII.- Edificios para todo género de Oficinas Públicas, y los Edificios y terrenos destinados para Mercados, Ferias u otros servicios análogos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 14o.
 
-También deben considerarse como bienes destinados al servicio público, las líneas de ferrocarriles, de tranvías, de telégrafos y de teléfonos con todos sus accesorios y dependencias, siempre que así aquéllas como éstas, hayan sido construidos con fondos del Estado o de los Municipios, o adquiridos por ellos.
+También deben considerarse como bienes destinados al servicio público, las líneas de ferrocarriles, de tranvías, de telégrafos y teléfonos con todos sus accesorios y dependencias, así como los caminos, carreteras, derechos de vía y puentes, que sean objeto de explotación mediante el pago de un derecho o el otorgamiento de una concesión y que hayan sido construidos con fondos del Estado o de los Municipios o adquiridos por ellos.
 
 ###### Artículo 15o.
 
@@ -209,6 +217,40 @@ Los bienes inmuebles de que se ocupa esta Ley, son también susceptibles de enaj
 
 Si los bienes inmuebles hubieren sido adjudicados al Estado o a los Municipios, ya sea en casos de procedimientos económicos coactivos, o por herencias o bien en virtud de resoluciones judiciales que declaren vacantes dichos bienes, según leyes que rijan estos actos, serán también susceptibles de enajenarse en subasta pública o fuera de almoneda, a juicio del C. Gobernador o de los Ayuntamientos, según sea el caso, sin que se requieran las autorizaciones a que se refiere el artículo 25 de esta ley, siempre que sean vendidos a un precio no menor de su valor catastral.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+### Capítulo V. DE LOS CAMINOS PÚBLICOS DE JURISDICCIÓN ESTATAL
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 28o.
+
+Para los efectos del artículo 3°, se consideran como caminos o carreteras, aquellas vías que comuniquen a la capital del Estado, con las cabeceras de los Municipios, los que comuniquen a éstas entre sí o con sus respectivas sindicaturas y comisarías. De igual manera así se considerarán los caminos vecinales o "brechas" de uso común, por donde se transita ordinariamente de un lugar o sitio, a otro.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 29o.
+
+Son caminos públicos de jurisdicción estatal, los anteriormente mencionados y aquellos otros que no hayan sido reservados de manera expresa a cualquier autoridad distinta a la Estatal.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 30o.
+
+Se considera como derecho de vía, la superficie de terreno que necesitan los caminos y carreteras para cumplir con los objetivos adecuados de una vía general de comunicación, haciendo posible su construcción, conservación, ampliación y protección, a fin de prestar eficientemente los servicios que le son propios, para ello debe observarse lo siguiente:
+
+I. La anchura y dimensión del derecho de vía, en todos los caminos de carretera de dos carriles en sentidos opuestos, no podrá ser inferior a 20.00 metros, a cada lado de aquellos, tomados a partir de su eje central, cuando a dichas vías se les integren acotamientos de rodamientos laterales, será de 25.00 metros.
+
+II. Tratándose de autopistas de cuatro carriles o más, en ambos sentidos, sin camellón central pero que formen un sólo cuerpo; la anchura y dimensión del derecho de vía, no podrá ser inferior a 30.00 metros, a cada lado, tomados a partir del eje central del mismo.
+
+III. Tratándose de autopistas de dos cuerpos, con dos carriles o más, en cada uno de los cuerpos, con un camellón central entre ellos; la anchura y dimensión del derecho de vía, no podrá ser inferior a 30.00 metros, a cada lado, tomados a partir del eje central de cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 31o.
+
+La Secretaría de Administración y Finanzas, será la dependencia competente para ejecutar la normatividad relativa al uso, aprovechamiento y regulación de caminos, carreteras y puentes; así como también de sus respectivos derechos de vía.
+
 T R A N S I T O R I O S
 
 ###### Artículo 1o.
@@ -240,3 +282,9 @@ Artículo único. Este Decreto comenzará a surtir sus efectos a partir de la fe
 P.O. 21 DE DICIEMBRE DE 2001.
 
 Artículo Único.- El presente decreto se publicará en el Periódico Oficial "El Estado de Sinaloa" e iniciará su vigencia el primero de enero del año 2002.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del Consejo para el Desarrollo Económico de Sinaloa en cada ejercicio fiscal, será el equivalente al 20% de lo recaudado en el ejercicio fiscal 2007 de Impuesto Sobre Nóminas, cantidad que en ejercicios posteriores se tomará como base para integrar su patrimonio, la que será actualizada en términos reales; en cada ejercicio.
