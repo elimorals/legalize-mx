@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-del-estado-de-sinaloa-6437"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-28"
-last_updated: "2003-08-20"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO FISCAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 28 de diciembre de 1994.
 
@@ -171,13 +171,7 @@ II.- En los demás casos, la preferencia corresponderá al fisco que tenga el ca
 
 ###### ARTICULO 23.
 
-No causarán el pago de las contribuciones estatales:
-
-I.- La Federación, El Estado y sus Municipios, cuando su actividad corresponda a sus funciones de Derecho Público, salvo cuando las leyes establezcan expresamente lo contrario.
-
-II.- Las instituciones de beneficencia pública y privada. Estas últimas previa declaratoria del Ejecutivo Estatal.
-
-III.- Las demás personas que de modo general señalen las Leyes Fiscales Estatales.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 ### CAPITULO SEGUNDO. DE LA LEGISLACION FISCAL
 
@@ -1175,13 +1169,15 @@ XI.- No proporcionar oportunamente a las autoridades los comprobantes de pago de
 
 Multa de cinco hasta veinte días de salario mínimo general.
 
-XII- Faltar a la obligación de extender recibos, facturas o cualesquiera otro documento que señalen las leyes fiscales. No exigirlos cuando tengan la obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
+XII. Faltar a la obligación de extender recibos, facturas o cualesquiera otro documento que señalen las leyes fiscales. No exigirlos cuando tengan la obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
 
 Multa de cinco hasta veinte días de salario mínimo general.
 
 XIII. No presentar o no proporcionar o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, no comprobarlo o no aclararlos cuando las autoridades fiscales lo soliciten.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Multa de cinco a diez días de salario mínimo general para el Estado de Sinaloa.
 
 XIV.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, o documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal.
 
@@ -1521,6 +1517,10 @@ Se impondrá sanción de tres meses a tres años de prisión, al depositario o i
 
 Igual sanción se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente cuando esta se los requiera.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Incurre en desobediencia a mandato legítimo de autoridad competente, quien habiendo sido requerido por tres ocasiones para la presentación de los documentos a que se refiere la fracción III del artículo 90, éstos no se hayan presentado en tiempo y forma, y se sancionará conforme a lo previsto en el Código Penal para el Estado de Sinaloa.
+
 ## TITULO SEXTO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL
 
 ### CAPITULO PRIMERO. DE LAS NOTIFICACIONES
@@ -1751,6 +1751,10 @@ Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que
 
 La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquella en que deberá surtir efectos la notificación de acuerdo con el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Si el interesado o su representante legal, al conocer una resolución dictada en su contra, la impugna alegando que no fue notificado o mal notificado de ella, y promueve un medio de defensa, dentro de los términos que para su interposición establecen las leyes, la notificación mal realizada surtirá sus efectos como si estuviere hecha con arreglo a la ley.
+
 ###### ARTICULO 137.
 
 Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales si las personas a quienes deban notificarse se presentan en las mismas.
@@ -1921,9 +1925,11 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 
 Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público que corresponda, en todas ellas se inscribirá el embargo.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 155.
 
-En el caso del requerimiento por incumplimiento de las obligaciones fiscales, transcurrido el plazo de seis días, si el requerido no ha cumplido con la obligación, se procederá a la imposición de la multa de la que haya sido apercibido. En caso de que exista contumacia, se expedirán hasta tres requerimientos, imponiéndosele multas sucesivas de un tanto más de cada multa hasta agotar los tres requerimientos.
+Si el contribuyente ha cumplido en tiempo y forma el requerimiento del cumplimiento de obligaciones fiscales, la sanción impuesta quedará sin efectos. En caso contrario subsistirá ésta.
 
 ###### ARTICULO 156.
 
@@ -2322,3 +2328,9 @@ Artículo Segundo. Se abroga la Ley que Establece las Bases de Endeudamiento Pú
 Artículo Tercero. Se deroga el inciso e) de la fracción I, del artículo 2 del Código Fiscal del Estado de Sinaloa, y todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o contravengan lo previsto en la presente Ley.
 
 Artículo Cuarto. Las entidades a que se refiere el Artículo 2 de esta Ley contratarán los créditos ya aprobados a la entrada en vigor de la misma en los términos del Decreto respectivo y deberán inscribir todos sus empréstitos o créditos vigentes en el Registro Estatal de Deuda Pública dentro de un plazo de noventa días a partir de la fecha de su publicación.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del Consejo para el Desarrollo Económico de Sinaloa en cada ejercicio fiscal, será el equivalente al 20% de lo recaudado en el ejercicio fiscal 2007 del Impuesto Sobre Nóminas, cantidad que en ejercicios posteriores se tomará como base para integrar su patrimonio, la que será actualizada en términos reales en cada ejercicio.
