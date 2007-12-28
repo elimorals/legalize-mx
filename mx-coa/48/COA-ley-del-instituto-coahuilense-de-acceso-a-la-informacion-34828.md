@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-acceso-a-la-informacion-34828"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2007-06-01"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 4 de noviembre de 2003.
 
@@ -203,7 +203,9 @@ EL SISTEMA DE CONTROL. El Instituto se sujetará a los medios de control siguien
 
 I. El control de justicia constitucional local que ejerza el Poder Judicial del Estado, en los términos de las disposiciones aplicables.
 
-II. El control de revisión y fiscalización que ejerza el Congreso del Estado de Coahuila, a través de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+II. El control de revisión y fiscalización que ejerza el Congreso del Estado de Coahuila, a través de la Auditoria Superior del Estado.
 
 III. El control social de las personas físicas o morales, a través del ejercicio de la participación ciudadana y comunitaria en la toma de decisiones públicas en la materia.
 
@@ -954,3 +956,9 @@ SEXTO. El Patronato del Archivo General del Estado, dentro de un plazo de ciento
 P.O. 1 DE JUNIO DE 2007.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y quedarán derogadas las disposiciones legales, administrativas y reglamentarias que se le opongan.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
