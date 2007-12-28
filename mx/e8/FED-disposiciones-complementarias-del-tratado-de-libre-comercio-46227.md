@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2007-09-20"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,35 +19,45 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO POR EL QUE SE DA A CONOCER LA DECISION No. 48 DE LA COMISION ADMINISTRADORA DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA, POR LA QUE SE OTORGA UNA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE EL AÑO 2008, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de septiembre de 2007.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de diciembre de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 4-03.2, inciso a), párrafo iii del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela y la Decisión 42 de la Comisión Administradora del Tratado; 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, y 26 al 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 1 de enero de 1995 entró en vigor el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela (el Tratado) en el cual las Partes establecieron, de conformidad con el artículo 6-20 del propio Tratado, un Comité de Integración Regional de Insumos (CIRI);
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela (el Tratado) fue aprobado por el Senado de la República el 13 de junio de 1994 y publicado en el Diario Oficial de la Federación el 9 de enero de 1995;
 
-Que el 23 de mayo de 2006 el gobierno de Venezuela notificó al gobierno de México su decisión de denunciar el Tratado, por lo que de conformidad con el artículo 23-08 del mismo, dicha denuncia surtió efectos a partir del 19 de noviembre del presente año;
+Que el Comité Automotor del Tratado negoció la incorporación del sector automotor en el marco del Tratado, lo cual fue ratificado por las partes a través de la firma de la Decisión 42 de la Comisión Administradora el 21 de febrero de 2005;
 
-Que el 17 de noviembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se determina que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, firmado en la ciudad de Cartagena de Indias, Colombia, el trece de junio de mil novecientos noventa y cuatro, queda sin efectos entre los Estados Unidos Mexicanos y la República Bolivariana de Venezuela, a partir del diecinueve de noviembre de dos mil seis;
+Que la Decisión mencionada fue aprobada por la Cámara de Senadores del Honorable Congreso de la Unión, el 6 de octubre de 2005, según Decreto publicado en el Diario Oficial de la Federación el 20 de diciembre del propio año;
 
-Que el artículo 6-24 del Tratado faculta a la Comisión Administradora del Tratado (la Comisión) para que emita una resolución y establezca una dispensa, en los montos y términos convenidos por el CIRI en su dictamen para la utilización de los materiales a que se refiere el párrafo 3 del artículo 6-21;
+Que el Decreto Promulgatorio de la Decisión 42 de la Comisión Administradora del Tratado de Libre Comercio celebrado entre la República de Colombia, los Estados Unidos Mexicanos y la República Bolivariana de Venezuela, firmada el 21 de febrero de dos mil cinco, fue publicado en el Diario Oficial de la Federación el 13 de enero de 2006;
 
-Que el 6 de agosto de 2007 el CIRI presentó un dictamen a la Comisión en el que determinó otorgar una dispensa para la utilización de ciertos materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido a fin de que estos bienes puedan recibir el trato arancelario preferencial previsto en el Tratado, y
+Que es una estrategia prioritaria del Gobierno Federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos;
 
-Que la Comisión de conformidad con el artículo 6-24 del Tratado, y tomando en consideración el dictamen presentado por el CIRI, adoptó el 9 de agosto de 2007 la Decisión No. 48 por la que acordó otorgar una dispensa para la utilización de materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido, y que estos bienes puedan recibir el trato arancelario preferencial del Tratado, he tenido a bien expedir el siguiente
+Que la asignación de cupos de exportación busca promover la competitividad de los sectores involucrados, así como establecer un marco regulatorio equitativo y transparente, y
 
-ACUERDO POR EL QUE SE DA A CONOCER LA DECISION No. 48 DE LA COMISION ADMINISTRADORA DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA, POR LA QUE SE OTORGA UNA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
+Que la Comisión de Comercio Exterior dio opinión favorable sobre esta medida, he tenido a bien expedir el siguiente
+
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE EL AÑO 2008, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTICULO 1o.
 
-El cupo mínimo para internar durante el año 2007, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, con el arancel preferencial establecido en el artículo 4-02, párrafo 1, inciso a) de la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 13 de enero de 2006, es el que se determina en el cuadro siguiente:
+El cupo mínimo para internar durante el año 2008, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, con el arancel preferencial establecido en el artículo 4-02, párrafo 1, inciso a) de la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 13 de enero de 2006, es el que se determina en el cuadro siguiente:
 
-(VEASE ARCHIVO ANEXO)
+Partida Descripción Cupo para internar
+
+Arancelaria indicativa a Colombia
+
+8703 Vehículos con peso 6,000 unidades
+
+8704 bruto vehicular igual o
+
+menor a 8.8 toneladas
 
 ###### ARTICULO 2o.
 
@@ -57,11 +67,11 @@ De conformidad con lo dispuesto en los artículos 24 segundo párrafo de la Ley 
 
 Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo, las personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos expedido por la Secretaría de Economía. La asignación será otorgada por la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Pesadas y de Alta Tecnología, la cual tomará en cuenta lo siguiente:
 
-a) Se asignarán 4,200 unidades entre las empresas antes señaladas con base en sus antecedentes de exportación de vehículos automotores a Colombia durante 2006. En caso que una empresa solicite un monto menor al que tiene derecho, el monto remanente se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
+a) Se asignarán 5,785 unidades entre las empresas antes señaladas con base en sus antecedentes de exportación de vehículos automotores a Colombia durante 2007. En caso que una empresa solicite un monto menor al que tiene derecho, el monto remanente se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
 
-b) Se asignarán 800 unidades por partes iguales entre las empresas señaladas en el primer párrafo del presente artículo que no cuenten con antecedentes de exportación de vehículos automotores a Colombia. En caso que una empresa solicite un monto menor al que le corresponde, el monto restante se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
+b) Se asignarán 215 unidades por partes iguales entre las empresas señaladas en el primer párrafo del presente artículo que no cuenten con antecedentes de exportación de vehículos automotores a Colombia. En caso que una empresa solicite un monto menor al que le corresponde, el monto restante se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
 
-Las asignaciones para las empresas señaladas en este inciso, tendrán vigencia hasta el 31 de julio de 2007.
+Las asignaciones para las empresas señaladas en este inciso, tendrán vigencia hasta el 31 de julio de 2008.
 
 c) Los saldos no ejercidos al 31 de julio de las empresas señaladas en el inciso b), y que hayan ejercido por lo menos el 50% de su cupo, se les podrá extender prórroga del cupo, de lo contrario deberán ser devueltos a la Secretaría. Los saldos no solicitados de las empresas señaladas en el inciso a) y los no ejercidos por las empresas señaladas en el inciso b), podrán ser asignados proporcionalmente con base en antecedentes de exportación, entre los siguientes beneficiarios:
 
@@ -73,21 +83,21 @@ La asignación del saldo de este cupo se hará a través de la Dirección Genera
 
 ###### ARTICULO 4o.
 
-Las solicitudes de asignación de cupo a que se refiere este instrumento se deben presentar en el formato SE-03-011-1 “Solicitud de Asignación de Cupo”, en la representación federal de la Secretaría que le corresponda. La Secretaría a través de la Dirección General de Comercio Exterior resolverá en un plazo máximo de siete días hábiles contados a partir del día hábil siguiente a la fecha de presentación de la solicitud.
+Las solicitudes de asignación de cupo a que se refiere este instrumento se deben presentar en el formato SE-03-011-1 "Solicitud de Asignación de Cupo", en la representación federal de la Secretaría que le corresponda. La Secretaría a través de la Dirección General de Comercio Exterior resolverá en un plazo máximo de siete días hábiles contados a partir del día hábil siguiente a la fecha de presentación de la solicitud.
 
 ###### ARTICULO 5o.
 
-Las personas que hayan obtenido asignación de cupo deberán solicitar ante la oficina en la cual obtuvieron dicha asignación, la expedición del certificado de cupo correspondiente, previa solicitud del interesado en el formato SE-03-013-5 “Solicitud de certificado de cupo (obtenido por asignación directa)” acompañando escrito libre en papel membretado de la empresa en el que señale la razón social y domicilio del importador en la República de Colombia, según sea el caso. El certificado de cupo será expedido en un plazo no mayor a siete días hábiles siguientes a la fecha de recepción de la solicitud.
+Las personas que hayan obtenido asignación de cupo deberán solicitar ante la oficina en la cual obtuvieron dicha asignación, la expedición del certificado de cupo correspondiente, previa solicitud del interesado en el formato SE-03-013-5 "Solicitud de certificado de cupo (obtenido por asignación directa)" acompañando escrito libre en papel membretado de la empresa en el que señale la razón social y domicilio del importador en la República de Colombia, según sea el caso. El certificado de cupo será expedido en un plazo no mayor a siete días hábiles siguientes a la fecha de recepción de la solicitud.
 
 ###### ARTICULO 6o.
 
 Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
 
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
+a) Para el caso del formato SE-03-011-1 "Solicitud de asignación de cupo":
 
 http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
-b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
+b) Para el caso del formato SE-03-013-5 "Solicitud de certificados de cupo (obtenido por asignación directa)":
 
 http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
@@ -267,6 +277,6 @@ VIII.- "Trato arancelario preferencial" y "tasa arancelaria preferencial", el ar
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo estará en vigor del 20 de septiembre al 31 de diciembre de 2007.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2008 y concluirá su vigencia el 31 de diciembre de 2008.
 
-México, D.F., a 3 de septiembre de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D.F., a 21 de diciembre de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
