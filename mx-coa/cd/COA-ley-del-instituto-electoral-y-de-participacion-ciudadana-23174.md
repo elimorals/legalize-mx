@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-electoral-y-de-participacion-ciudadana-23174"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2007-08-02"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
 
@@ -191,7 +191,9 @@ I. La controversia constitucional local que ejerza el Pleno del Tribunal Superio
 
 II. El control constitucional y legal que ejerza el Tribunal Electoral del Poder Judicial del Estado.
 
-III. El control de revisión y fiscalización que ejerza el Congreso del Estado de Coahuila, a través de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+III. El control de revisión y fiscalización que ejerza el Congreso del Estado de Coahuila, a través de la Auditoría Superior del Estado.
 
 ###### Artículo 23.
 
@@ -1720,3 +1722,9 @@ P.O. 2 DE AGOSTO DE 2007.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
