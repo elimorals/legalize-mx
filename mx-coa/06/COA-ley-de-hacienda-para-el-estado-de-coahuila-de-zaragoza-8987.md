@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2007-01-26"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -83,7 +83,9 @@ Es objeto de este impuesto, los ingresos que se obtengan por la realización o e
 
 Por diversión y espectáculo público debe entenderse toda representación, función, acto, evento o exhibición artística, musical, deportiva, taurina, ecuestre, circense, teatral, cultural, de fiestas o ferias regionales, así como por el uso de juegos mecánicos; que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados y se pague una suma de dinero por el boleto o derecho de entrada o uso del juego.
 
-Para los efectos de este impuesto, no se consideran espectáculos públicos, los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Para efectos de este impuesto, no se consideran espectáculos públicos, los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos, que cuenten con sus licencias respectivas y organicen, por cuenta propia y como parte de su variedad, este tipo de eventos.
 
 SUJETO
 
@@ -99,9 +101,11 @@ Servirá de base para el pago de este impuesto, los ingresos que se generen por 
 
 OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 7.
 
-Los sujetos de este impuesto están obligados a recabar previamente a la celebración del acto, la autorización de la Secretaría de Finanzas, debiendo presentar solicitud que contendrá, cuando menos, los siguientes datos:
+Los sujetos de este impuesto están obligados a recabar, cuando menos con tres días de anticipación a la celebración del acto, la autorización de la Secretaria de Finanzas, debiendo presentar solicitud que contendrá, cuando menos los siguientes requisitos:
 
 I.- Nombre y domicilio de quien promueva, organice o explote la diversión o espectáculo público para el cual se solicita autorización;
 
@@ -111,9 +115,15 @@ III.- Ubicación del inmueble o predio en que se va a efectuar y nombre del prop
 
 IV.- Hora señalada para que principien las funciones; y
 
-V.- Número de localidades de cada clase que haya en el local destinado al espectáculo y su precio al público.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+V.- Número de localidades de cada clase que haya en el local destinado al espectáculo y su precio al público; así como el número de cortesías, debidamente marcadas como tales, que serán entregadas para cada función.
 
 Cualquier modificación a los datos comprendidos en las fracciones precedentes, deberá comunicarse por escrito a la Secretaría de Finanzas, dentro de los tres días hábiles anteriores a la fecha en que vaya a realizarse la actividad objeto de este impuesto.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+No se pagará el impuesto por los boletos de entrada que no tengan precio al público y que se utilicen como cortesías siempre y cuando se presenten para su sellado conforme al artículo 8.
 
 ###### ARTICULO 8.
 
@@ -127,13 +137,17 @@ III.- No variar los programas y precios dados a conocer sin que se dé aviso a l
 
 IV.- Garantizar el interés fiscal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 9.
 
-Los organizadores, promotores o representantes de las empresas de espectáculos y diversiones públicas, están obligados a permitir que los inspectores comisionados por la Secretaría de Finanzas desempeñen adecuadamente sus funciones, así como a proporcionarles libros, documentos y cuantos datos requieran para definir la correcta causación del impuesto a que se refiere este Capítulo.
+Los organizadores, promotores o representantes de las empresas de espectáculos y diversiones públicas, están obligados a permitir que los interventores comisionados por las autoridades fiscales desempeñen adecuadamente sus funciones, así como a proporcionarles libros, documentos y cuantos datos requieran para definir la correcta causación del impuesto a que se refiere este Capítulo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 10.
 
-Las autoridades fiscales del Estado podrán suspender o clausurar cualquier diversión o espectáculo, cuando quienes los organicen o exploten se nieguen a permitir que los interventores o liquidadores vigilen la entrada, liquiden o recauden el impuesto, o cuando no se hayan observado las disposiciones precedentes.
+Las autoridades fiscales del Estado podrán suspender o clausurar cualquier diversión o espectáculo, cuando quienes organicen o exploten se nieguen a permitir que los interventores vigilen la entrada, liquiden o recauden el impuesto, o cuando no se hayan observado las disposiciones precedentes.
 
 TASA
 
@@ -175,15 +189,19 @@ d) Palenques 6%
 
 PAGO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 12.
 
-El impuesto a que se refiere este Capítulo se pagará en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, en la forma siguiente:
+El impuesto a que se refiere este Capítulo se pagará en las oficinas recaudadoras de rentas de la Secretaria de Finanzas o en las instituciones de crédito o establecimientos autorizados.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+En la fecha en que se realice el evento, el interventor autorizado podrá recabar el pago correspondiente al impuesto y expedir un recibo provisional válido con el cual el organizador podrá exigir a contra-entrega del mismo el recibo oficial del pago del impuesto en las oficinas recaudadoras de rentas de la Secretaria de Finanzas.
 
-I.- Tratándose de contribuyentes establecidos y registrados en el Estado, dentro de los primeros diecisiete días naturales de cada mes, mediante una declaración de los ingresos que hayan obtenido en el mes inmediato anterior o al siguiente día hábil si el último no lo fuera; y
+Cuando no se realice el pago conforme a lo establecido en el presente articulo, la autoridad fiscal procederá a hacerlo efectivo mediante el Procedimiento Administrativo de Ejecución, o en su caso, aplicar la garantía otorgada por el contribuyente.
 
-II.- Cuando se trate de contribuyentes eventuales, el pago se hará por adelantado cuando se pueda determinar previamente el monto del mismo; en caso contrario, al finalizar el espectáculo o diversión, los interventores fiscales formularán la liquidación respectiva y el impuesto se pagará a más tardar al siguiente día hábil.
+I.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
+
+II.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
 
 ### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE ENAJENACION DE VEHICULOS DE MOTOR
 
@@ -229,9 +247,11 @@ La tasa correspondiente al Impuesto Sobre Enajenación de Vehículos de Motor, s
 
 PAGO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 18.
 
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los quince días siguientes a la celebración de la operación, aplicando la tasa que establezca esta ley.
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los quince días siguientes a la celebración de la operación, aplicando la tasa que establezca esta ley.
 
 ###### ARTICULO 19.
 
@@ -271,15 +291,17 @@ La tasa correspondiente al Impuesto Sobre Nóminas, será el 1% sobre el monto t
 
 PAGO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 25.
 
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se hubieren realizado las erogaciones objeto del mismo, en las formas aprobadas por la Secretaría de Finanzas.
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se hubieren realizado las erogaciones objeto del mismo, en las formas aprobadas por la Secretaría de Finanzas.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 26.
 
-Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración en cada municipio en que se encuentren ubicadas las sucursales. En aquéllos casos en que no exista oficina recaudadora en el municipio de que se trate, las declaraciones podrán ser presentadas en las instituciones de crédito o establecimientos autorizados más cercanos al domicilio del contribuyente.
+Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración en cada municipio en que se encuentren ubicadas las sucursales. En aquellos casos en que no exista oficina recaudadora de rentas en el municipio de que se trate, las declaraciones podrán ser presentadas en las instituciones de crédito o establecimientos autorizados más cercanos al domicilio del contribuyente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -300,6 +322,30 @@ Los contribuyentes que tengan derecho y se acojan a la opción establecida en el
 ###### ARTICULO 29.
 
 Los contribuyentes que se acojan a la opción señalada en el artículo 27 de esta ley, gozarán de un estímulo fiscal consistente en una reducción parcial del impuesto a su cargo, en el porcentaje que mediante Decreto establezca el Ejecutivo del Estado anualmente. Para tener derecho a este estímulo la declaración correspondiente al mes de enero, deberá presentarse dentro del plazo establecido en esta ley.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 29-A.
+
+Las empresas que contraten adultos mayores y/o a personas con capacidades diferentes, tendrán derecho a los estímulos fiscales siguientes:
+
+I. No se pagará el impuesto que se cause por las erogaciones correspondientes a las personas mayores o con capacidades diferentes.
+
+II. Adicionalmente, tendrán derecho a las reducciones siguientes:
+
+a) El 20% del impuesto que se cause, cuando ocupen de un 4% hasta un 5% de su planta de trabajadores con personas mayores y/o con capacidades diferentes.
+
+b) El 25% del impuesto que se cause, cuando ocupen más de un 5% hasta un 7% de su planta de trabajadores con personas mayores y/o con capacidades diferentes.
+
+c) El 30% del impuesto que se cause, cuando ocupen más de un 7% hasta un 10% de su planta de trabajadores con personas mayores y/o con capacidades diferentes.
+
+d) El 50% del impuesto que se cause, cuando ocupen más del 10% de su planta de trabajadores con personas mayores y/o con capacidades diferentes.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 29-B.
+
+Para tener derecho al estímulo que otorga el artículo anterior, los contribuyentes deberán señalar en las declaraciones del Impuesto sobre Nóminas, el número de personas mayores o con capacidades diferentes que trabajen en la empresa y su remuneración.
 
 EXENCIONES
 
@@ -343,19 +389,17 @@ Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabaja
 
 II.- Las erogaciones que efectúen:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+1. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
-1. La Federación, el Estado y los municipios. Los organismos descentralizados, fideicomisos y demás entidades de éstos, deberán pagar el impuesto a su cargo;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-2. Instituciones sin fines de lucro, que promuevan o realicen asistencia social, actividades deportivas, culturales o sociales;
+2. Instituciones sin fines de lucro conformadas como Asociación Civil, que promuevan o realicen asistencia social, actividades deportivas, culturales o sociales.
 
 3. Sindicatos de trabajadores, agrupaciones de empresarios o de propietarios en cámaras, uniones o asociaciones, agrupaciones de profesionistas en institutos, colegios o asociaciones sin fines de lucro;
 
 4. Partidos y asociaciones políticas constituidos conforme a la ley de la materia;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-5. Instituciones educativas públicas y privadas incorporadas al Sistema Educativo Estatal;
+5. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 6. Ejidos y comunidades;
 
@@ -451,11 +495,11 @@ IV.- Remolques $125.00 (CIENTO VEINTICINCO PESOS 00/100 M.N.)
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 37.
 
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los tres primeros meses de cada año, en el mismo recibo con el que se paguen las contribuciones de control vehicular.
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los tres primeros meses de cada año, en el mismo recibo con el que se paguen las contribuciones de control vehicular.
 
 ###### ARTICULO 38.
 
@@ -587,11 +631,11 @@ Los contribuyentes trasladarán en forma expresa y por separado el impuesto a la
 
 Se entenderá por traslado del impuesto el cobro o cargo que los contribuyentes deben hacer a dichas personas por un monto equivalente al impuesto establecido en este Capítulo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 41], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 60.
 
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se obtengan los ingresos por los servicios gravados por este impuesto, en las formas aprobadas por la Secretaría de Finanzas.
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se obtengan los ingresos por los servicios gravados por este impuesto, en las formas aprobadas por la Secretaría de Finanzas.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -699,11 +743,11 @@ Los contribuyentes de este impuesto, podrán pagar el mismo mediante una cuota f
 
 PAGO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 77.
 
-El pago de este impuesto deberá efectuarse por el retenedor en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, dentro de los diecisiete días naturales del mes siguiente a aquél en el cual se haga entrega del premio.
+El pago de este impuesto deberá efectuarse por el retenedor en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, dentro de los diecisiete días naturales del mes siguiente a aquél en el cual se haga entrega del premio.
 
 OBLIGACIONES
 
@@ -837,13 +881,11 @@ XVII.- La inscripción de declaración unilateral de voluntad en que se contenga
 
 XVIII.- Por otros no especificados, $181.00 (CIENTO OCHENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 43], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 80.
 
-El pago de estos derechos deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+El pago de estos derechos deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 44], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -941,11 +983,11 @@ IX.- La cancelación de inscripciones relativas al comercio causará el 10% de l
 
 En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 10% de los que corresponderían por su inscripción.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 83.
 
-El pago de estos derechos deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
+El pago de estos derechos deberá efectuarse en las oficinas recaudadoras de rentas la (sic) Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 47], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1027,11 +1069,11 @@ XII.- Búsqueda de actas en el Registro Civil, $50.00 (CINCUENTA PESOS 00/100 M.
 
 XIII.- Por otros servicios no especificados, $101.00 (CIENTO UN PESOS 00/100 M.N.).
 
-(REUBICADO [N. DE E. ANTES ARTICULO 49], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 86.
 
-El pago de los derechos por los servicios prestados por la Dirección Estatal y las oficialías del Registro Civil a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos por los servicios prestados por la Dirección Estatal y las oficialías del Registro Civil a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 #### SECCION TERCERA. POR OTROS SERVICIOS
 
@@ -1163,11 +1205,11 @@ Son sujetos de este derecho, las personas que soliciten los servicios que se est
 
 PAGO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 52], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 89.
 
-El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de rentas la (sic) Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 #### SECCION CUARTA. POR SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO A TRAVES DEL ORGANISMO DESCONCENTRADO DENOMINADO PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO
 
@@ -1243,11 +1285,11 @@ El pago de las cuotas establecidas en la fracción V, darán derecho a que el co
 
 PAGO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 54], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 91.
 
-El pago de los derechos por los servicios a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos por los servicios a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 ### CAPITULO SEGUNDO. POR SERVICIOS DE LA SECRETARIA DE FINANZAS
 
@@ -1255,11 +1297,11 @@ El pago de los derechos por los servicios a que se refiere esta Sección, deber�
 
 OBJETO
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 92.
 
-Es objeto de este Derecho, los servicios que presta la Secretaría de Finanzas, en coordinación con la Secretaría de Salud y Desarrollo Comunitario y la Secretaría de Gobierno, en el ámbito de sus respectivas competencias y en aplicación de los ordenamientos de la materia, por la expedición de licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúe total o parcialmente con el público en general y la revalidación anual de las mismas.
+Es objeto de este Derecho, los servicios que presta la Secretaria de Finanzas, en coordinación con la Secretaría de Salud del Estado y la Secretaria de Gobierno, en el ámbito de sus respectivas competencias y en aplicación de los ordenamientos de la materia, por la expedición de licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúe total o parcialmente con el público en general y el refrendo anual de las mismas.
 
 SUJETO
 
@@ -1271,11 +1313,11 @@ Son sujetos de este derecho las personas físicas y morales que se dediquen a en
 
 OBLIGACIONES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 57], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 94.
 
-Los sujetos de este derecho están obligados a solicitar a la Secretaría de Finanzas, previamente a la iniciación de sus actividades, la expedición de la licencia para el funcionamiento del establecimiento y la revalidación anual correspondiente.
+Los sujetos de este derecho están obligados a solicitar a la Secretaria de Finanzas, previamente a la iniciación de sus actividades, la expedición de la licencia para el funcionamiento del establecimiento y el refrendo anual correspondiente.
 
 Cuando el titular de la licencia no sea quien enajene o preste los servicios, objeto de este derecho, deberá registrar ante la Secretaría de Finanzas el nombre de la persona que en su lugar explota los derechos que le otorga la licencia mencionada.
 
@@ -1285,9 +1327,9 @@ Cuando el titular de la licencia no sea quien enajene o preste los servicios, ob
 
 Los sujetos de este derecho que cuenten con licencia para su funcionamiento, deberán obtener dentro del mes de enero de cada año la revalidación anual de la licencia para el funcionamiento de estos establecimientos.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-La licencia y la constancia de revalidación, deberán exhibirse por los contribuyentes en un lugar visible del establecimiento.
+La licencia y el refrendo anual, deberán exhibirse por los contribuyentes en un lugar visible del establecimiento.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -1313,15 +1355,15 @@ II.- Copia de la cédula del Registro Federal de Contribuyentes.
 
 III.- Copia certificada del testimonio de la escritura pública constitutiva si se trata de una sociedad mercantil o acta de nacimiento tratándose de personas físicas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-IV.- Licencia municipal vigente, expedida a favor del solicitante.
+IV.- Licencia municipal vigente expedida a favor del solicitante. Tratándose de solicitantes distintos al titular, se podrá expedir licencia con vigencia anual y el solicitante deberá acompañar escrito de conformidad del titular de la licencia municipal, para el uso o goce de los derechos que le otorga dicha licencia.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 98.
 
-Recibida la solicitud y documentación a que se refieren los artículos 94 y 97 de esta ley, la Secretaría de Finanzas del Gobierno del Estado, ordenará a la Recaudación de Rentas correspondiente, la práctica de una inspección al local para determinar si reúne los requisitos que exige este Capítulo.
+Recibida la solicitud y documentación a que se refieren los artículos 94 y 97 de esta ley, la Secretaría de Finanzas del Gobierno del Estado, ordenará a las oficinas recaudadoras de rentas, la práctica de una inspección al local para determinar si reúne los requisitos que exige este Capítulo.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1329,29 +1371,37 @@ Recibida la solicitud y documentación a que se refieren los artículos 94 y 97 
 
 Las solicitudes de empadronamiento, las manifestaciones y los avisos se formularán haciendo uso de las formas aprobadas por la Secretaría de Finanzas del Gobierno del Estado, debiéndose asentar en ellas los datos que se señalan, anexando los documentos que se requieran.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 60], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 100.
 
-Son causas de cancelación de la licencia para el funcionamiento de establecimientos que expendan bebidas alcohólicas, las siguientes:
+Son causas de cancelación de la licencia para el funcionamiento de establecimientos que expendan bebidas alcohólicas y clausura de los mismos, las siguientes:
 
-I.- Que no se solicite su revalidación anual dentro del mes de enero de cada año;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-II.- Que el establecimiento funcione en lugar distinto al autorizado en la licencia;
+I.- Que no obtenga el refrendo de la licencia dentro de los tres primeros meses del ejercicio fiscal.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+II.- Que el establecimiento funciones (sic) en lugar distinto al autorizado en la licencia; o con un giro diferente al manifestado en la misma.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 III.- Cuando habiendo presentado suspensión de actividades, esta dura más de tres años;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 IV.- Cuando se dé alguna de las otras causales de cancelación de la licencia establecidas en el artículo 102 de esta Ley.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 Las anteriores causales se harán efectivas independientemente de la sanción que corresponda de seguir realizando la actividad sin licencia para el funcionamiento y revalidación anual.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 100-A.
 
-La Secretaría de Finanzas, en coordinación con la Secretaría de Salud y Desarrollo Comunitario y la Secretaría de Gobierno del Estado, tendrán a su cargo, en el ámbito de sus respectivas competencias, la inspección y vigilancia de los establecimientos que expendan bebidas alcohólicas, para verificar periódicamente que éstos reúnan las condiciones de salubridad e higiene que establecen las leyes, cumplan con la ubicación y con los horarios autorizados para la enajenación y expendio de bebidas alcohólicas, contenidos en las disposiciones legales aplicables y que su funcionamiento no ofenda la moral y las buenas costumbres.
+La Secretaria de Finanzas, en coordinación con la Secretaria de Salud del Estado y la Secretaria de Gobierno del Estado, tendrán a su cargo, en el ámbito de sus respectivas competencias, la inspección y vigilancia de los establecimientos que expendan bebidas alcohólicas, para verificar periódicamente que éstos reúnan las condiciones de salubridad e higiene que establecen las leyes, cumplan con la ubicación para le (sic) enajenación y expendio de bebidas alcohólicas, contenidos en las disposiciones legales aplicables y que su funcionamiento no ofenda la moral y las buenas costumbres.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
@@ -1373,11 +1423,11 @@ Las autoridades fiscales negarán la expedición o cancelarán la licencia para 
 
 La Secretaría de Finanzas, cuando lo considere conveniente, podrá autorizar la reubicación de los establecimientos cuya licencia de funcionamiento hubiere sido cancelada en términos del párrafo anterior.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 63], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 103.
 
-Las autoridades fiscales clausurarán los establecimientos que expendan bebidas alcohólicas cuando no estén amparados o no cuenten con licencia de funcionamiento y revalidación anual, así como aquéllos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en el artículo 101 de esta Ley, cuando sea cancelada la licencia de funcionamiento con que operaba.
+Las autoridades fiscales clausurarán los establecimientos que expendan bebidas alcohólicas cuando no cuenten con la licencia de funcionamiento y el refrendo anual, así como aquellos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en el artículo 101 de esta Ley, cuando sea cancelada la licencia de funcionamiento con que operaba.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
@@ -1409,11 +1459,35 @@ V.- Expendio de vinos y licores, tiendas de abarrotes, minisuper, casinos, clube
 
 (ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
-VI.- Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $9,948.00 (NUEVE MIL, NOVECIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.); y
+VI.- Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $9,948.00 (NUEVE MIL, NOVECIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.); y (sic)
 
 (ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
 VII.- Fonda, taquerías y otros de naturaleza análoga $4,975.00 (CUATRO MIL NOVECIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
+
+(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 11 DE ENERO DE 2008)
+
+VIII. Misceláneas $ 2,200.00 (DOS MIL DOSCIENTOS PESOS 00/100 M.N.)
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+La licencia para el giro de miscelánea se expedirá exclusivamente a las personas físicas que tributen bajo el Régimen de Pequeños Contribuyentes, tendrá vigencia anual y no causará los derechos por el refrendo anual.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Se entenderá por giro de miscelánea, la compraventa al público en general, de productos comestibles, no comestibles, de higiene personal y de aseo para el hogar a granel, envasados, empaquetados, etiquetados y con envoltura, sin renta de máquinas de videojuegos; con venta exclusivamente de cerveza en botella cerrada y cuya rotación en inventarios mensual por la compraventa sea menor a la tarifa más baja por licencia establecida en el presente Artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 104-A.
+
+Las personas físicas y morales con establecimientos temporales que con motivo de festividades regionales, ferias, verbenas, espectáculos públicos, y eventos recreativos de naturaleza análoga, se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general, deberán obtener el permiso del Estado.
+
+Para el otorgamiento del permiso, deberá hacerse una solicitud en la oficina recaudadora de rentas que corresponda, cumpliendo los requisitos que al efecto señale la autoridad estatal, acompañado del permiso temporal otorgado por el municipio en original y copia para su cotejo.
+
+El costo del permiso será del doce por ciento de la tarifa normal de la licencia que corresponda según el giro del establecimiento que se pretende instalar. El permiso se expedirá en un plazo no menor de cinco días hábiles, previa presentación del recibo de pago y en forma individual por cada local.
+
+El permiso únicamente será válido por el tiempo y en el lugar para el cual fue expedido, en ningún caso los permisos a que se refiere este artículo, podrán tener una vigencia superior a un mes, pudiendo la autoridad estatal en el ámbito de su competencia, inspeccionar y vigilar su funcionamiento. Cuando el establecimiento no cumpla con las normas que establecen las leyes, se procederá a la cancelación del permiso otorgado y a la clausura del establecimiento en su caso.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
@@ -1515,25 +1589,29 @@ La autorización de cambio de titular de una licencia causará derechos a razón
 
 La autorización de cambio de domicilio de una licencia causará derechos a razón del 25% de la tarifa establecida en el artículo 104, según el establecimiento de que se trate.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+La autorización de cambio de giro de una licencia causará derechos sobre la diferencia del costo de la tarifa establecida en el artículo 104, según el establecimiento de que se trate. En ningún caso dará lugar a devolución por cambio de giro.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 109.
 
 Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en un 25% cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Matamoros, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 110.
 
-Las tarifas establecidas en los artículos 104, 105-B, 105-F Y 105-J, 107 Y 108, se reducirán en un 50%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Morelos, Nadadores, Ocampo, Progreso, Sacramento, Sierra Mojada, Viesca, Villa Unión y Zaragoza.
+Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en un 50%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Morelos, Nadadores, Ocampo, Progreso, Sacramento, Sierra Mojada, Viesca, Villa Unión y Zaragoza.
 
 PAGO
 
-(REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 111.
 
-El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la licencia de funcionamiento y revalidación anual, en su caso.
+El pago de este derecho deberá realizarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los tres primeros meses de cada ejercicio fiscal y previamente a la expedición de la licencia de funcionamiento y refrendo anual, en su caso.
 
 (REUBICADA [N. DE E. ANTES SECCION SEGUNDA], P.O. 29 DE DICIEMBRE DE 1998)
 
@@ -1567,11 +1645,11 @@ III.- Servicios periciales contables, $75.00 (SETENTA Y CINCO PESOS 00/100 M.N.)
 
 IV.- Por constancias del padrón vehicular, $116.00 (CIENTO DIECISEIS PESOS 00/100 M.N.), por la primera hoja; $34.00 (TREINTA Y CUATRO PESOS 00/100 M.N.) por hoja adicional.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 73], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 113.
 
-El pago de los derechos a que se refiere esta Sección deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere esta Sección deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 ### CAPITULO TERCERO. POR SERVICIOS DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -1697,11 +1775,11 @@ Son solidariamente responsables del pago de este derecho los constructores y con
 
 PAGO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 76], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 116.
 
-El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 EXENCIONES
 
@@ -1863,15 +1941,21 @@ Los avisos a que se refiere este artículo, deberán presentarse dentro de los q
 
 PAGO
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 81], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 121.
 
-El pago de estos derechos deberá hacerse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tarifas que establece esta ley.
+El pago de estos derechos deberá hacerse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tarifas que establece esta ley.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 La adquisición de placas, tarjeta de circulación y engomado con número identificatorio, deberá realizarse dentro de los primeros tres meses del año siguiente al en que venza su vigencia. Las personas físicas o morales que adquieran vehículos nuevos o usados que no cuenten con placas, deberán hacerlo dentro de los quince días siguientes a la fecha de adquisición.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 El refrendo anual correspondiente a las placas metálicas, deberá pagarse dentro de los primeros tres meses de cada año.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 Los demás derechos regulados en esta Sección, se pagarán en el momento en que se soliciten.
 
@@ -2077,11 +2161,11 @@ Son sujetos de este derecho, las personas físicas o morales que soliciten los s
 
 Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 88], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 128.
 
-El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -2211,11 +2295,11 @@ Son sujetos de este derecho, las personas que soliciten los servicios que se est
 
 PAGO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 91], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 131.
 
-El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -2271,7 +2355,9 @@ PAGO
 
 La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago parcial o total de las obras o servicios, retendrá el importe de los derechos a que se refiere el artículo 132 de esta ley.
 
-El pago de los derechos por los servicios a que se refiere el artículo 133, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+El pago de los derechos por los servicios a que se refiere el artículo 133, deberá efectuarse en las oficinas recaudadoras de la Secretaria de Finanzas, instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 ### CAPITULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA RELATIVOS AL DERECHO DE ACCESO A LA INFORMACIÓN PUBLICA
 
@@ -2395,11 +2481,11 @@ II.- Los prestados por otras unidades administrativas de la Procuraduría Genera
 
 2.- Por otros servicios no especificados, $154.00 (CIENTO CINCUENTA Y CUATRO PESOS 00/100 M.N.).
 
-(REUBICADO [N. DE E. ANTES ARTICULO 97], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 137.
 
-El pago de los servicios a que se refiere este Capítulo deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los servicios a que se refiere este Capítulo deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 ### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
 
@@ -2491,11 +2577,13 @@ El envío de la información solicitada, podrá realizarse por correo simple, co
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 140-E.
 
-El pago de los servicios y gastos a que se refiere este Capítulo, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio, conforme a la liquidación que expida la Dependencia que preste el servicio.
+El pago de los servicios y gastos a que se refiere este Capítulo, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio, conforme a la liquidación que expida la Dependencia que preste el servicio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 La Dependencia, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados, el costo de cada uno y el importe de los gastos de envío.
 
@@ -2545,11 +2633,11 @@ La Secretaría de Finanzas estará facultada para determinar el importe de las c
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 145.
 
-Las contribuciones por gasto deberán ser pagadas en las oficinas recaudadoras de la Secretaría de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que surta efectos la notificación de la resolución que contenga la determinación de las contribuciones.
+Las contribuciones por gasto deberán ser pagadas en las oficinas recaudadoras de rentas de la Secretaria de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que surta efectos la notificación de la resolución que contenga la determinación de las contribuciones.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2611,11 +2699,11 @@ La tasa correspondiente a esta contribución para el fomento a la educación, se
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 153.
 
-El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
+El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -2663,11 +2751,11 @@ Los contribuyentes que realicen dos o más trámites por los que se causen derec
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 158.
 
-El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos de los derechos objeto de esta contribución.
+El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos de los derechos objeto de esta contribución.
 
 ###### ARTICULO 159.
 
@@ -2815,11 +2903,11 @@ La contribución por obra pública se causará cuando la autoridad competente ac
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 169.
 
-Las contribuciones por obra pública deberán ser pagadas en las oficinas recaudadoras de la Secretaría de Finanzas, o en las instituciones de crédito autorizadas, al inicio de la obra o dentro del plazo que se establezca en los convenios que se celebren con los particulares, en la forma y plazo que ésta determine.
+Las contribuciones por obra pública deberán ser pagadas en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, o en las instituciones de crédito autorizadas, al inicio de la obra o dentro del plazo que se establezca en los convenios que se celebren con los particulares, en la forma y plazo que ésta determine.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2895,11 +2983,11 @@ BASE
 
 Servirá de base para el pago de esta contribución la cuantificación de los daños o deterioros causados por el uso de las instalaciones, infraestructura caminera, hidráulica y de servicios, o de uso comunitario y beneficio social, que sean propiedad del Estado, del dominio público o uso común, que se determinarán mediante los estudios técnicos que lleve a cabo la Secretaría de Obras Públicas y Transporte.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 179.
 
-La contribución por responsabilidad objetiva se pagará en las oficinas recaudadoras de la Secretaría de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que se notifique al contribuyente el resultado de los estudios técnicos que lleve a cabo la Secretaría de Obras Públicas y Transporte.
+La contribución por responsabilidad objetiva se pagará en las oficinas recaudadoras de rentas de la Secretaria de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que se notifique al contribuyente el resultado de los estudios técnicos que lleve a cabo la Secretaría de Comunicaciones y Obras Públicas.
 
 TASA
 
@@ -3007,9 +3095,9 @@ Para los efectos del artículo 3 de esta ley, la actualización de las contribuc
 
 Con el propósito de sufragar los gastos que origina al Estado el mejoramiento y modernización de las áreas que tengan a su cargo la prestación de los servicios relacionados con el Registro Público, se causará un impuesto adicional del 10% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad establecidos en esta ley.
 
-(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 28 DE DICIEMBRE DE 2001)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
 
 ###### ARTICULO SEXTO.
 
@@ -3240,3 +3328,13 @@ P.O. 26 DE ENERO DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
