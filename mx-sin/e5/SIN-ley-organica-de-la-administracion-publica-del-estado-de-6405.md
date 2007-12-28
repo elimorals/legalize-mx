@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-administracion-publica-del-estado-de-6405"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-01-05"
-last_updated: "2000-04-14"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 5 de enero de 1981.
 
@@ -59,9 +59,11 @@ La Administración Pública estatal se integrará con las Secretarías y Entidad
 
 En atención a lo que prescribe el artículo 110 de la Constitución Política del Estado de Sinaloa, en la integración de la Administración Pública Estatal, deberá atenderse el principio de que no habrá ninguna autoridad intermedia entre los ayuntamientos y los Poderes del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 4.
 
-La Administración Pública Paraestatal, se integrará con los organismos descentralizados, las empresas de participación estatal, los fondos, los fideicomisos y demás organismos que con tal carácter cree el Congreso o el Gobernador Constitucional del Estado.
+La Administración Pública Paraestatal se integrará con los organismos descentralizados, los fondos, los fideicomisos, y los demás organismos que con tal carácter cree el H. Congreso del Estado o el Gobernador Constitucional del Estado, con excepción de aquellos que queden excluidos por disposición de otros ordenamientos legales.
 
 ###### ARTICULO 5.
 
@@ -197,11 +199,13 @@ La vigilancia de la participación estatal estará a cargo de un comisario desig
 
 Las relaciones de las empresas de participación estatal minoritaria con la Administración Pública Estatal, serán las que determine la Ley o la disposición orgánica correspondiente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 32.
 
-Los fideicomisos a que se refiere esta Ley serán los que se establezcan por la Secretaría del Ramo como fideicomitente único de la Administración Pública Estatal, así como los que se creen con recursos de las entidades a que alude este propio ordenamiento.
+Los fideicomisos integrantes de la Administración Pública Paraestatal a que se refiere esta Ley, serán los que se establezcan por el Gobernador Constitucional del Estado, por las Secretarías del Ramo como fideicomitentes únicos de la Administración Pública Estatal así como los que determine el H. Congreso del Estado.
 
-El fideicomitente deberá recabar la autorización previa de la Secretaría correspondiente o Entidad Administrativa, encargada de la coordinación del sector respectivo, para la integración de los Comités Técnicos. En todos los casos un representante del fideicomitente, cuando menos, formará parte del Comité Técnico.
+Las Secretarías y las Entidades que integran la Administración Pública Estatal, así como las que conforman la Administración Pública Paraestatal, sólo podrán constituir fideicomisos, previa aprobación de la Secretaría que tenga a su cargo la administración de la Hacienda Pública, la cual invariablemente formará parte del Comité Técnico que se designe. Las Dependencias que forman parte de la Administración Pública Paraestatal, deberán recabar la autorización previa de la Secretaría correspondiente o entidad administrativa, encargada de la coordinación del sector respectivo para la integración de los Comités Técnicos. En todos los casos, cuando menos un representante de la coordinadora de sector y del fideicomitente, formarán parte del Comité Técnico.
 
 ###### ARTICULO 33.
 
@@ -292,3 +296,9 @@ P.O. 14 DE ABRIL DE 2000.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del Consejo para el Desarrollo Económico de Sinaloa en cada ejercicio fiscal, será el equivalente al 20% de lo recaudado en el ejercicio fiscal 2007 del Impuesto Sobre Nóminas, cantidad que en ejercicios posteriores se tomará como base para integrar su patrimonio, la que será actualizada en términos reales en cada ejercicio.
