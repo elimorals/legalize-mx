@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2004-03-03"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -596,6 +596,14 @@ El descuento a que se refiere este Artículo no será aplicable en ningún caso 
 ###### ARTICULO 44.
 
 Tratándose de predios en que se encuentren ubicadas empresas comerciales, industriales y de servicio, previa comprobación de dicha circunstancia a satisfacción de la Tesorería Municipal que corresponda, el Impuesto Predial se pagará aplicando la tasa que señala la Tarifa contenida en la Fracción I del Artículo 35 de la presente Ley, con un descuento de hasta un 40% del monto total del impuesto a pagar, el cual deberá ser aprobado por el Ayuntamiento; exceptúandose las empresas acreedoras a los beneficios que en materia del Impuesto Predial contempla la Ley de Fomento a la Inversión para el Desarrollo Económico de Sinaloa. Los ayuntamientos deberán informar al Instituto Catastral del Estado de Sinaloa, sobre los predios que les sea otorgado este beneficio.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Para que se tenga derecho a los descuentos señalados en este artículo, así como, de los establecidos en los artículos 41 y 43 de esta Ley, los causantes deberán estar al corriente de sus pagos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Para los efectos del párrafo anterior, se considerará que el causante está al corriente de sus pagos del impuesto predial cuando los realice dentro del año fiscal que corresponda.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -3306,3 +3314,9 @@ P.O. 3 DE MARZO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
