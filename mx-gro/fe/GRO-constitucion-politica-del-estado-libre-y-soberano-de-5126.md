@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2006-04-28"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -417,7 +417,7 @@ La Ley correspondiente fijará la extensión y límites de cada uno de los munic
 
 ###### ARTICULO 7.
 
-Para la integración del Poder Legislativo, el Territorio del Estado de Guerrero se divide en Distritos Electorales, cuyo número y cabecera establece la Ley Electoral.
+Para la integración del Poder Legislativo y Ayuntamientos de la entidad, el Territorio del Estado de Guerrero se divide respectivamente en Distritos Electorales y Demarcaciones Electorales, cuya nomenclatura, extensión y cabecera determinará el Instituto Electoral del Estado de Guerrero.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -519,9 +519,13 @@ I.- Votar y ser votados para los cargos de representación popular.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1998)</small>
 
-II.- Asociarse individual, libre y pacíficamente para tratar asuntos políticos del Estado o del Municipio, y
+II.- Asociarse individual, libre y pacíficamente para tratar asuntos políticos del Estado o del Municipio, y (sic)
 
 III.- Ser preferidos, en igualdad de condiciones para todos los empleos, cargos o comisiones otorgados por el Gobierno del Estado, los Ayuntamientos, Empresas Descentralizadas y de Participación Estatal.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+IV.- Participar en los procesos de referéndum y plebiscito, que se convoquen en los términos de las Leyes correspondientes; así como en el proceso de Iniciativa Popular.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -541,7 +545,13 @@ IV.- Desempeñar las funciones electorales y censales para las que fuere nombrad
 
 V.- Desempeñar los cargos de elección popular para los que fueren nominados.
 
-VI.- Las demás que se deriven de la Constitución General de la República, de esta Constitución y de las Leyes que de una y otra emanen.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VI.- Participar en los procesos de referéndum y plebiscito, que se convoquen en los términos de las Leyes correspondientes.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VII.- Las demás que se deriven de la Constitución General de la Republica, de esta Constitución y de las Leyes que de una y otra emanen.
 
 (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P. O. 3 DE FEBRERO DE 1984)
 
@@ -567,9 +577,9 @@ II.- El que se coloque en las demás hipótesis que para ese efecto fijan las le
 
 Se suspenderán los derechos de los ciudadanos del Estado:
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-I.- A los procesados, desde que se dicte el auto de formal prisión hasta que cause ejecutoria la sentencia que los absuelva.
+I.- Por pena de prisión impuesta en sentencia ejecutoriada, desde el momento en que surte sus efectos y hasta su extinción.
 
 II.- A los funcionarios y empleados públicos procesados por delitos comunes u oficiales, en los términos que establece el Capítulo de Responsabilidades de esta Constitución y las Leyes correspondientes.
 
@@ -579,7 +589,7 @@ IV.- A los que por causa de enfermedad mental tuvieren en suspenso sus derechos 
 
 V.- A los que no cumplan, sin causa justificada cualquiera de las obligaciones que impone el artículo 18. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señale la Ley correspondiente.
 
-VI.- A los que se encuentren sustraídos a la acción de la justicia, desde que se dicte la orden de aprehensión hasta que se declare prescrita la acción penal.
+VI.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -623,67 +633,97 @@ El Estado tiene facultades para concertar con sus Municipios, la Federación, y 
 
 El Estado de Guerrero es Libre y Soberano en su régimen interior y podrá darse las Leyes necesarias para su organización y desarrollo, sin contravenir lo estipulado por la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 25.
 
-El Poder del Estado reside en el pueblo y se ejerce por los órganos que lo representan, en los términos respectivamente establecidos por la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
+La soberanía reside en el pueblo y se ejerce por los órganos que lo representan, en los términos respectivamente establecidos por la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
-El Poder Ejecutivo someterá a consulta de la ciudadanía, conforme a las técnicas y métodos del referéndum, los asuntos que de manera trascendente afecten el bienestar popular y reclamen importantes recursos fiscales. Asimismo, dentro del proceso de planeación democrática del desarrollo, consultará a la propia ciudadanía en los términos de ley, sobre las prioridades y estrategias estatales.
+La organización de las elecciones locales es una función estatal, que se realiza a través de un organismo público autónomo, de carácter permanente, denominado Instituto Electoral del Estado de Guerrero, dotado de personalidad jurídica y patrimonio propios, en cuya integración concurren los Partidos Políticos, coaliciones y los ciudadanos, en los términos en que ordene la Ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad, serán principios rectores.
 
-Los Partidos Políticos son entidades de interés público, la Ley determinará las formas específicas de su intervención en el proceso electoral.
+El Instituto Electoral del Estado de Guerrero se integrará de la manera siguiente: siete Consejeros Electorales, con voz y voto; un representante por cada Partido Político y un Secretario General, todos ellos con voz. Los Consejeros serán designados conforme al procedimiento previsto en la Ley. El Presidente será electo de entre los consejeros electorales, por las dos terceras partes de los integrantes del Congreso del Estado presentes en sesión.
 
-Los Partidos Políticos, tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+La retribución que perciban los Consejeros Electorales del Instituto Electoral y los Magistrados del Tribunal Electoral del Estado, será igual a la de los Magistrados del Tribunal Superior de Justicia del Estado.
 
-Podrán constituirse partidos políticos estatales, cuando reúnan los requisitos y conforme a los procedimientos que establezca la Ley.
+El Instituto Electoral será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones; contará en su estructura con Consejos Distritales; de igual manera, contará con órganos de vigilancia. Los ciudadanos integrarán las Mesas Directivas de Casilla de la manera que establezca la Ley.
 
-Los Partidos Políticos, tendrán derecho a participar en las elecciones locales, debiendo sujetarse a lo dispuesto por la ley.
+Los Partidos Políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral.
 
-El registro de los partidos políticos se ajustará a lo que las leyes dispongan. Aquellos partidos políticos que lo hayan perdido ante las autoridades federales, lo conservarán por el plazo que determine el Código Electoral del Estado de Guerrero.
+Los Partidos Políticos, tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y hacer posible el acceso de éstos al ejercicio del poder, fortaleciendo la equidad indígena a través del derecho de preferencia, donde la población indígena es superior al 40% y hacer posible el acceso de éstos, al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Asimismo, tienen reconocido el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2o, Apartado A, fracciones III y VII, de la Constitución Federal.
 
-La ley garantizará que los Partidos Políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Además, la Ley señalará las reglas a que sujetará el financiamiento de los Partidos Políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+Sólo los ciudadanos podrán formar Partidos Políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y a lo que disponga la Ley:
+Podrán constituirse Partidos Políticos estatales, cuando reúnan los requisitos y conforme a los procedimientos que establezca la Ley.
 
-a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, sobre la base de la fórmula de un porcentaje del salario mínimo, multiplicado por el número de electores del padrón electoral. Un porcentaje de la cantidad total que resulte, conforme a lo que disponga el Código Electoral del Estado, se distribuirá entre los Partidos Políticos en forma igualitaria y el otro porcentaje restante, que la misma Ley establece, se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la Elección de diputados inmediata anterior;
+Los Partidos Políticos Nacionales, tendrán derecho a participar en las elecciones locales, debiendo sujetarse a lo dispuesto por la Ley.
+
+La Ley garantizará que los Partidos Políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social propiedad del Gobierno del Estado, de acuerdo a las formas y procedimientos que establezca la misma. Además, la Ley señalará las reglas a que sujetará el financiamiento de los Partidos Políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado. La Ley establecerá los montos máximos que tengan las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador; los procedimientos para el control, vigilancia del origen y uso de todos los recursos con que cuenten los Partidos Políticos; y establezcan las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+
+Los Partidos Políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de Partidos Políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio estatal de este tipo de mensajes contratados en el extranjero.
+
+En la propaganda política o electoral que difundan los Partidos Políticos deberán abstenerse de expresiones que denigren a las instituciones y a los propios Partidos, o que calumnien o difamen a las personas.
+
+Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada electoral, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes Federales, Estatales, como de los Municipios y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+
+El financiamiento público para los Partidos Políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y a lo que disponga la Ley:
+
+a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, sobre la base de la fórmula de un porcentaje del salario mínimo, multiplicado por el número de electores del padrón electoral. Un porcentaje de la cantidad total que resulte, conforme a lo que disponga la Ley, se distribuirá entre los Partidos Políticos en forma igualitaria y el otro porcentaje restante, que la misma Ley establece, se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
 
 b) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada Partido Político por actividades ordinarias en ese año; y
 
-c) Se reintegrará un porcentaje de los gastos anuales que eroguen los Partidos Políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
+c) Se determinará un porcentaje de financiamiento para los gastos anuales que eroguen los Partidos Políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
 
-La Ley fijará los criterios para determinar los límites a las erogaciones de los Partidos Políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y así mismo señalará las sanciones que deban imponerse por el incumplimiento de éstas disposiciones.
+La Ley fijará los criterios para determinar los límites a las erogaciones de los Partidos Políticos en sus precampañas y campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y así mismo señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-La organización de las elecciones locales es una función estatal, que se realiza a través de un organismo público autónomo, de carácter permanente, denominado Consejo Estatal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración concurren los partidos políticos y los ciudadanos, en los términos que ordene la Ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+La fiscalización de los recursos de los Partidos Políticos que realice el Instituto Electoral del Estado, no estará limitada por los secretos bancario, fiduciario y fiscal. Para el ejercicio de esta facultad y superar la limitación a que se refiere este párrafo, el Instituto Electoral lo solicitará a través del órgano técnico de fiscalización del Instituto Federal Electoral.
 
-El Consejo Estatal Electoral se integrará de la manera siguiente: nueve Consejeros Electorales, con voz y voto; un Representante por cada Partido Político y un Secretario Técnico, todos ellos con voz. El Presidente será electo por mayoría simple de entre los Consejeros Electorales.
+El Instituto Electoral contará con una Contraloría Interna que ejercerá su responsabilidad en coordinación con el Órgano de Fiscalización Superior del Congreso del Estado, dotada con autonomía técnica y de gestión, sobre la fiscalización y vigilancia de los ingresos y egresos del mismo Instituto electoral. El Contralor será designado por el Congreso del Estado por las dos terceras partes de los diputados presentes, bajo el procedimiento previsto en la Ley.
 
-Para mantener las condiciones que aseguren la imparcialidad y objetividad de la función electoral, los Consejeros Electorales serán electos por las dos terceras partes de los miembros presentes del Congreso, a propuesta de los Coordinadores de las Fracciones Parlamentarias y en los términos previstos en el Código Electoral.
+Los órganos electorales, agruparán para su desempeño en forma integral y directa, además de las que determine la Ley, las actividades relativas a la preparación del proceso electoral, preparación de la jornada electoral, cómputos y otorgamiento de las constancias, capacitación electoral e impresión de la documentación y materiales electorales. Los Consejos Distritales participarán en las elecciones de Diputados, Ayuntamientos y Gobernador. Las sesiones de los Órganos Colegiados Electorales serán públicas, en los términos que disponga la Ley.
 
-La retribución que perciban los consejeros electorales del Consejo Estatal Electoral y los magistrados del Tribunal Electoral del Estado, será igual a la de los magistrados del Tribunal Superior de Justicia del Estado.
+La calificación de las elecciones de Ayuntamientos, Diputados de Mayoría Relativa y Representación Proporcional, así como de Gobernador la hará el Consejo Electoral respectivo, en el ámbito de su competencia y jurisdicción, de conformidad con los términos, requisitos y reglas establecidos en la Ley.
 
-El Consejo Estatal Electoral será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones; contará en su estructura con Consejos Distritales y Municipales; de igual manera, contará con órganos de vigilancia. Los ciudadanos integrarán las Mesas Directivas de Casilla de la manera que establezca la Ley.
+El Instituto Electoral del Estado de Guerrero, podrá convenir con el Instituto Federal Electoral, previa justificación y con la aprobación de las dos terceras partes de los diputados presentes del Congreso, para que este último asuma la organización de procesos electorales locales, en los términos que disponga la legislación aplicable.
 
-Los órganos electorales, agruparán para su desempeño en forma integral y directa, además de las que determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral e impresión de materiales electorales. Los Consejos Distritales participarán en las elecciones de Diputados y Gobernador y los Consejos Municipales en las de Ayuntamientos y Diputados. Las sesiones de los Organos Colegiados Electorales serán públicas, en los términos que disponga la ley.
+Los Poderes Legislativo, Ejecutivo y los Ayuntamientos someterán a consulta de la ciudadanía, conforme a los procesos de referéndum y Plebiscito según corresponda, los asuntos que de manera trascendente afecten el bienestar popular y reclamen importantes recurso (sic) fiscales. Asimismo, el Poder Ejecutivo dentro del proceso de planeación democrática del desarrollo, consultará a la propia ciudadanía en los términos de Ley, sobre las prioridades y estrategias estatales.
 
-La calificación de las elecciones de Ayuntamientos, Diputados de Mayoría Relativa y Representación Proporcional, así como de Gobernador la hará el Consejo Electoral respectivo, en el ámbito de su competencia y jurisdicción, de conformidad con los términos, requisitos y reglas establecidos en el Código Electoral del Estado de Guerrero.
+El Instituto Electoral será competente para organizar en los términos establecidos en la Ley respectiva, los procesos de referéndum y plebiscito, para lo que se le deberán otorgar los requerimientos económicos necesarios.
 
-La Ley establecerá un sistema de medios de impugnación, de los que conocerán los Organos Electorales y las Salas del Tribunal Electoral, éste será órgano autónomo en su funcionamiento e independiente en sus decisiones y máxima autoridad jurisdiccional en la materia, con excepción de lo dispuesto por la fracción IV del artículo 99 de la Constitución Política de los Estados Unidos Mexicanos. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
+La Ley establecerá un sistema de medios de impugnación, de los que conocerá el Tribunal Electoral del Estado, éste será órgano autónomo en su funcionamiento e independiente en sus decisiones, con carácter permanente, personalidad jurídica y patrimonio propio y máxima autoridad jurisdiccional en la materia, con excepción de lo dispuesto por la fracción IV del artículo 99 de la Constitución Política de los Estados Unidos Mexicanos. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
 
-El Tribunal Electoral del Estado se organizará en los términos que señale la ley. Para el ejercicio de su competencia contará con cuerpos de magistrados y de jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley. Los Magistrados del Tribunal deberán satisfacer los requisitos que establezca la ley, que no podrán ser menores de los que señala esta Constitución para ser magistrado del Tribunal Superior de Justicia. Serán electos por las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de las fracciones parlamentarias.
+El Tribunal Electoral del Estado funcionará en Pleno, una Sala de Segunda Instancia y Cinco Salas unitarias; se integrará por cinco Magistrados numerarios y dos supernumerarios, los cuales para el ejercicio de la función Jurisdiccional contarán con cuerpos de jueces instructores y con el personal jurídico y administrativo necesario para el adecuado funcionamiento, los que serán independientes y responderán sólo al mandato de la Ley. Las sesiones de resolución serán públicas en los términos que establezca la Ley y expedirá su reglamento interior.
 
-El Tribunal Electoral del Estado tendrá competencia para resolver en forma firme y definitiva, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral local; funcionará en Pleno o en Salas y sus sesiones de resolución serán públicas en los términos que establezca la ley y expedirá su Reglamento Interior.
+Los Magistrados del Tribunal deberán satisfacer los requisitos que establezca la Ley, que no podrán ser menores de los que señala esta Constitución para ser Magistrado del Tribunal Superior de Justicia. Serán electos por el Congreso del Estado, bajo el procedimiento previsto en la Ley Orgánica del Tribunal Electoral del Estado. El cargo de Presidente durará cuatro años sin derecho a reelección, y se elegirá en sesión pública por los Magistrados propietarios de entre sus miembros.
 
-La declaración de validez y el otorgamiento de las constancias de la elección de Gobernador, Diputados de Mayoría Relativa y Ayuntamientos, así como la asignación de Diputados y Regidores de Representación Proporcional podrán ser impugnadas ante el Tribunal Electoral del Estado, en los términos que señale la Ley.
+El Tribunal Electoral del Estado tendrá competencia para resolver en forma firme y definitiva, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral local; así como las impugnaciones de actos y resoluciones de las autoridades locales y Partidos Políticos que violen los derechos político-electorales de los ciudadanos de ser votado; de asociarse individual, libre y pacífica para tomar parte de los asuntos del Estado y de afiliarse libre e individualmente a los Partidos Políticos; siempre que se hubiesen reunido los requisitos de la Constitución Federal y los que se señalan en las Leyes para el ejercicio de esos derechos; y toda violación a los derechos de la militancia partidista.
 
-Las resoluciones de las impugnaciones a que se refiere el párrafo anterior, podrán ser revisadas por la Sala de Segunda Instancia del Tribunal Electoral del Estado, mediante el recurso que los partidos podrán interponer cuando hagan valer agravios por los que se pueda modificar el resultado de la elección de que se trate. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación. Los fallos de esta Sala serán firmes y definitivos.
+Para hacer valer los derechos previstos en el párrafo que antecede existirá el Juicio Electoral Ciudadano, en los términos señalados en esta Constitución y las Leyes respectivas.
+
+Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por violaciones a sus derechos por el Partido Político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas. La Ley establecerá las reglas y plazos aplicables.
+
+Las autoridades electorales solamente pueden intervenir en los asuntos internos de los partidos en los términos que expresamente señalen las Leyes.
+
+La Ley establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Igualmente, que se señalen los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
 
 En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnados.
 
-Para cada proceso electoral habrá una Sala de Segunda Instancia. Esta Sala será competente para resolver los Recursos de Reconsideración que se interpongan en términos de ley. La Sala de Segunda Instancia se integrará por los Magistrados de las Salas Central y Regionales, excepción hecha del Magistrado titular de la Sala cuya resolución se impugne.
+La declaración de validez y el otorgamiento de las constancias de la elección de Gobernador, Diputados de Mayoría Relativa y Ayuntamientos, así como la asignación de Diputados y Regidores de Representación Proporcional podrán ser impugnadas ante el Tribunal Electoral del Estado, en los términos que señale la Ley.
 
-El Tribunal Electoral del Estado tendrá competencia para resolver en forma definitiva e inatacable los conflictos y diferencias laborables entre sus servidores, así como los existentes entre el Consejo Estatal Electoral y sus servidores.
+Las resoluciones de las impugnaciones a que se refiere el párrafo anterior, podrán ser revisadas por la Sala de Segunda Instancia del Tribunal Electoral del Estado, mediante el recurso que los partidos podrán interponer cuando hagan valer agravios por los que se pueda modificar el resultado de la elección de que se trate. La Ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación. Los fallos de esta Sala serán firmes y definitivos.
+
+Para cada proceso electoral habrá una Sala de Segunda Instancia. Esta Sala será la competente para resolver los Recursos que se interpongan en términos de Ley. La Sala de Segunda Instancia se integrará por los Magistrados de las Salas Unitarias, excepción hecha del Magistrado titular de la Sala cuya resolución se impugne.
+
+El Tribunal Electoral del Estado tendrá competencia para resolver en forma definitiva e inatacable los conflictos y diferencias laborables entre sus servidores, así como las existentes entre el Instituto Electoral y sus servidores.
+
+El Tribunal en pleno tendrá facultades para integrar, aprobar y emitir su propia jurisprudencia en los términos de su Ley Orgánica.
 
 La Ley tipificará los delitos y se determinarán las faltas en materia electoral, así como las sanciones correspondientes.
+
+Los Consejeros electorales, los Magistrados Electorales y el titular de la Fiscalía Especializada para la Atención de Delitos Electorales del Estado, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación de su respectiva institución.
+
+Los partidos políticos tienen la obligación de garantizar la igualdad de oportunidades entre hombres y mujeres en la postulación a cargos de elección popular de mayoría relativa y en la integración de los órganos internos, y asegurar la paridad en la postulación de candidatos de representación proporcional.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -711,11 +751,11 @@ El Poder Legislativo se ejerce por una Cámara de Diputados que se denomina "CON
 
 La elección de los miembros del Congreso Local será directa y en los términos que disponga la Ley Electoral respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 29.
 
-El Congreso del Estado se compondrá por 28 Diputados de Mayoría Relativa, electos conforme al número de Distritos Electorales y hasta por 18 Diputados de Representación Proporcional, que serán asignados en los términos y condiciones que establezca la Ley. En ningún caso un partido político podrá contar con más de treinta diputados por ambos principios.
+El Congreso del Estado se compondrá por veintiocho Diputados de Mayoría Relativa, electos conforme al número de Distritos Electorales y por dieciocho Diputados de Representación Proporcional, que serán asignados en los términos y condiciones que establezca la Ley. En ningún caso un partido político podrá contar con más de veintiocho diputados por ambos principios.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
 
@@ -746,6 +786,18 @@ Ningún ciudadano que haya obtenido constancia como Diputado de Mayoría Relativ
 ###### ARTICULO 32.
 
 Las faltas temporales o definitivas de los diputados propietarios serán cubiertas por los suplentes respectivos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Las vacantes de los diputados electos por el principio de representación proporcional serán cubiertas por los suplentes de la fórmula electa correspondiente. Si la vacante se presenta respecto de la fórmula completa, será cubierta por aquella fórmula de candidatos del mismo partido que siga en el orden de la lista respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Para cumplir con lo establecido en el párrafo anterior, se seguirá el procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Las vacantes de los diputados electos por el principio de mayoría relativa serán cubiertas por los suplentes de la fórmula electa. A falta de ambos, el Congreso del Estado notificará al Consejo General del Instituto Electoral para que éste convoque a la elección extraordinaria correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -779,15 +831,15 @@ I.- Ser ciudadano guerrerense en ejercicio pleno de sus derechos.
 
 II.- Tener veintiún años de edad cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-III.- Ser originario del Distrito que pretenda representar o tener una residencia efectiva en el mismo no menor de 5 años inmediatamente anteriores al día de la elección.
+III.- Ser originario del Distrito o del Municipio, si este es cabecera de dos o más Distritos, que pretenda representar o tener una residencia efectiva en alguno de ellos no menor de cinco años inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 36.
 
-No pueden ser electos Diputados los funcionarios federales, los miembros en servicio activo del Ejército y la Armada Nacionales y de las Fuerzas Públicas del Estado, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, los Consejeros de la Judicatura Estatal, los demás servidores públicos que señala la Ley Orgánica del Poder Ejecutivo y los Presidentes Municipales, a menos que se separen definitivamente de sus empleos o cargos cuarenta y cinco días antes de la elección; y en general, todas las demás personas impedidas por las leyes.
+No pueden ser electos Diputados, los funcionarios federales, los miembros en servicio activo del Ejército y la Armada Nacionales y de las Fuerzas Públicas del Estado, los Presidentes y Síndicos Municipales, los Magistrados de los Tribunales Superior de Justicia, Electoral y de lo Contencioso Administrativo; los Jueces, los Consejeros: de la Judicatura Estatal; Electorales y de la Comisión de Acceso a la Información Pública; así como los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado y todos aquellos servidores públicos que manejen recursos públicos o ejecuten programas gubernamentales, a menos que se separen definitivamente de sus empleos o cargos sesenta días antes de la elección, y en general no podrán ser electos diputados, todas las demás personas impedidas por las leyes.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -797,9 +849,27 @@ Los diputados al Congreso del Estado no podrán ser reelectos para el período i
 
 Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados propietarios no podrán ser electos para el perído (sic) inmediato con el carácter de suplentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO III. DE LA CALIFICACION DE LAS ELECCIONES DE DIPUTADOS DE MAYORIA Y ASIGNACION DE LOS DE REPRESENTACION PROPORCIONAL
+###### ARTICULO 37 Bis.
+
+La elección de los dieciocho diputados según el principio de representación proporcional y su asignación, se sujetará a las bases siguientes y al procedimiento previsto en la Ley.
+
+I.- Habrá una sola circunscripción plurinominal que será el territorio del Estado;
+
+II.- Tendrán derecho a participar en la asignación de diputados de representación proporcional, los Partidos Políticos o coaliciones que hayan registrado fórmulas para la elección de diputados de mayoría relativa, en cuando menos el cincuenta por ciento más uno de los Distritos de que se compone el Estado;
+
+III.- El partido político que alcance por lo menos el 3% de la votación estatal emitida en la circunscripción plurinominal, tendrá derecho a la asignación de diputados de representación proporcional, como porcentaje de asignación;
+
+IV.- Al partido que cumpla con las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen tenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de la lista registrada que le corresponda en los términos previstos en la Ley;
+
+V.- En los términos previstos por la fracción IV anterior y el artículo 29 primer párrafo de esta Constitución, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos del primer párrafo del artículo 29 de este mandamiento Constitucional, se adjudicará a los demás Partidos Políticos con derecho a ello, en proporción las votaciones estatales de éstos. La Ley establecerá las reglas y fórmula para la asignación que corresponda; y
+
+VI.- En ningún caso un Partido Político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso del Estado que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al Partido Político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de diputaciones del total del Congreso del Estado, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO III. DE LA ASIGNACIÓN DE LOS DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
 
 ###### ARTICULO 38.
 
@@ -809,27 +879,29 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 ### CAPITULO IV. DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 39.
 
-El día 15 de noviembre del año de renovación del Poder Legislativo se instalará el Congreso iniciándose el acto con la Protesta de Ley que otorgarán los diputados.
+El día trece de Septiembre del año de renovación del Poder Legislativo se Instalará el Congreso iniciándose el acto con la Protesta de Ley que otorgarán los diputados.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1987)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-El mismo veinticuatro de marzo, después de instalada la Legislatura iniciará su primer Período Ordinario de Sesiones en los términos del artículo 41 de la presente Constitución.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 40.
 
-Para que el Congreso pueda instalarse y ejercer sus funciones se necesita por lo menos la mayoría del número total de sus miembros, debiendo reunirse el día señalado en el artículo anterior y compeler a los ausentes para que concurran de inmediato, apercibiéndolos que de no hacerlo se llamará al suplente respectivo, salvo los casos de impedimento justificado. Si el suplente correspondiente tampoco se presentara a la brevedad requerida se declarará vacante el puesto y se convocará a nuevas elecciones.
+Para que el Congreso pueda instalarse y ejercer sus funciones se necesita por lo menos la mayoría del número total de sus miembros, debiendo reunirse el día señalado en el artículo anterior y compeler a los ausentes para que concurran de inmediato, apercibiéndolos que de no hacerlo se llamará al suplente respectivo, salvo los casos de impedimento justificado. Si el suplente correspondiente tampoco se presentara a la brevedad requerida se declarará vacante el puesto y notificará de inmediato al Consejo General del Instituto Electoral del Estado de Guerrero, para que convoque a elecciones extraordinarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2004)</small>
+De presentarse este supuesto en las diputaciones de representación proporcional, se procederá en los términos previstos en el segundo párrafo del artículo 32 de esta Constitución
+
+> <small>N. DE E. EN RELACION CON LA CELEBRACION DE LOS PERIODOS DE SESIONES ORDINARIAS CORRESPONDIENTES A LA LEGISLATURA LIX QUE SE ELIJA EN EL AÑO 2008, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 41.
 
-En cada año de ejercicio de una Legislatura habrá tres períodos de sesiones ordinarias. El primero, se iniciará el 15 de noviembre y se clausurará el 15 de febrero; el segundo, se instalará el 1o. de abril y concluirá el 15 de junio y el tercero se llevará a cabo del 1o. de septiembre al 15 de octubre. Estos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos en trámite. En caso de que por alguna circunstancia no pudieran instalarse o clausurarse, los períodos de sesiones en los días señalados, estos actos se verificarán en la forma que acuerde la Legislatura.
+En cada año de ejercicio de una legislatura habrá tres periodos de sesiones ordinarias. El primero se iniciará el 13 de Septiembre y se clausurará el 15 de Enero; el segundo se iniciará el 1º de Marzo y se clausurará el 15 de Mayo y el tercero el 15 de Junio y se clausurará el 30 de Julio. Estos periodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos en trámite. En caso de que por alguna circunstancia no pudieran instalarse o clausurarse los periodos de sesiones en los días señalados, estos actos se verificarán en la forma que acuerde la legislatura.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
@@ -921,13 +993,15 @@ XI.- Instituir por medio de Leyes, Tribunales de lo contencioso Administrativo p
 
 XII.- Dictar Leyes para combatir enfermedades y vicios que puedan traer como consecuencia la degeneración de la especie humana, la disminución o pérdida de las facultades mentales u otro daño físico irreversible, conforme a lo dispuesto por las Leyes Federales de la Materia.
 
-XIII.- Legislar en materia de división territorial del Estado a fin de crear, suprimir o fusionar municipalidades o distritos, aumentar o disminuir sus respectivos territorios, anexándoles o segregándoles pueblos o localidades, para una mejor administración general, mediante iniciativa del Titular del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+XIII.- Legislar en materia de división territorial del Estado a fin de crear, suprimir o fusionar municipios, distritos judiciales, aumentar o disminuir sus respectivos territorios, anexándoles o segregándoles pueblos o localidades, para una mejor administración general mediante iniciativa del Titular del Poder Ejecutivo y del Poder Judicial.
 
 XIV.- Establecer las bases respecto de la Administración, conservación o inversión de los bienes del Estado y la enajenación de aquellos que no sean susceptibles de aplicarse a un servicio público u otro uso.
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-XV.- Aprobar las leyes de ingresos de los Municipios, así como, revisar y fiscalizar sus cuentas públicas;
+XV.- Aprobar las leyes de ingresos de los Municipios, así como, revisar y fiscalizar sus cuentas públicas.
 
 XVI.- Dictar las Leyes necesarias en el ramo de educación pública que no sean de la competencia de la Federación.
 
@@ -947,19 +1021,17 @@ XIX.- Revisar los Informes Financieros cuatrimestrales así como las Cuentas Pú
 
 Si del examen que se realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
 
-XX.- Convocar a elecciones extraordinarias para Diputados cuando no se hubieren realizado en el período respectivo o hubiesen sido declaradas nulas las efectuadas, y proveer lo conducente.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-XXI.- Convocar a elecciones extraordinarias para ayuntamientos, cuando por cualquier circunstancia:
+XX.- Llamar a los suplentes respectivos en casos de ausencia, inhabilitación, suspensión temporal o permanente o licencia de los diputados por ambos principios y si aquellos también estuviesen imposibilitados, inmediatamente informará al Consejo General del Instituto Electoral del Estado, para que convoque a elecciones extraordinarias, tratándose de diputados de Mayoría Relativa. Si se trata de diputados de representación proporcional se procederá como lo dispone el segundo párrafo del artículo 32 de esta Constitución.
 
-a).- No se hubiere podido verificar la elección en el período correspondiente.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-b).- Que la elección hubiere sido declarada nula.
+XXI.- Llamar a los suplentes respectivos en casos de ausencia, inhabilitación, suspensión temporal o permanente o licencia de los integrantes de los Ayuntamientos y si aquellos también estuviesen imposibilitados, inmediatamente informará al Consejo General del Instituto Electoral del Estado, para que convoque a elecciones extraordinarias, tratándose de planilla de Ayuntamientos. Si se trata de regidores de representación proporcional se procederá como lo dispone la Ley correspondiente.
 
-c).- Cuando, sin causa justificada, no concurrieren los miembros necesarios para su instalación.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ENERO DE 1998)</small>
-
-XXII.- Elegir, por el voto de las dos terceras partes de sus miembros presentes, a los Magistrados del Tribunal Electoral del Estado y a los Consejeros Electorales del Consejo Estatal Electoral, de conformidad con lo previsto por la Ley de la materia, así como proceder conforme a lo dispuesto por los artículos 112 y 113 de esta Constitución.
+XXII.- Elegir por el voto de las dos terceras partes de sus miembros presentes, al Consejero Presidente del Instituto Electoral del Estado y en su caso, ratificar a los Magistrados del Tribunal Electoral del Estado, a los Consejeros Electorales y al Consejero Presidente del Instituto Electoral, de conformidad con lo previsto por la Ley de la materia, así como proceder conforme a lo dispuesto por los artículos 112 y 113 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
@@ -969,9 +1041,9 @@ De igual manera, se procederá con los nombramientos de los dos Consejeros de la
 
 Si el Congreso no resuelve dentro del término antes citado, se tendrán por aprobados los nombramientos. Toda negativa de aprobación deberá estar fundada y motivada por el Congreso. En el caso de dos rechazos consecutivos de las personas propuestas, el Gobernador hará el nombramiento a favor de persona distinta a las rechazadas.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-XXIV.- Recibir de los Diputados, del Gobernador electo, de los Magistrados del Tribunal Superior de Justicia y de los miembros del Consejo de la Judicatura Estatal que apruebe, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las leyes que de ellas emanen.
+XXIV.- Recibir de los Diputados, del Gobernador electo, de los Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, de los miembros del Consejo de la Judicatura Estatal, de los Magistrados del Tribunal Electoral del Estado, de los Consejeros Electorales del Instituto Electoral y del Fiscal Especializado para la Atención de Delitos Electorales, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las Leyes que de ellas emanen.
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 1999)</small>
 
@@ -987,15 +1059,15 @@ XXVII.- En caso de declararse desaparecido un Ayuntamiento por las causas que la
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-XXVIII.- En el supuesto caso de tenerse que realizar nuevas elecciones, se nombrará un Consejo Municipal provisional que fungirá hasta en tanto toma protesta el nuevo Ayuntamiento. Si no se verifican las nuevas elecciones por causas no imputables al Congreso, éste podrá ratificar el nombramiento del Consejo Municipal que se hubiese designado provisionalmente para que con carácter definitivo cubra el periodo legal que correspondería al Ayuntamiento que debió ser electo;
+XXVIII.- En el supuesto caso de tenerse que realizar nuevas elecciones, se nombrará un Consejo Municipal provisional que fungirá hasta en tanto toma protesta el nuevo Ayuntamiento. Si no se verifican las nuevas elecciones por causas no imputables al Congreso, éste podrá ratificar el nombramiento del Consejo Municipal que se hubiese designado provisionalmente para que con carácter definitivo cubra el periodo legal que correspondería al Ayuntamiento que debió ser electo.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-XXIX.- Resolver las licencias o renuncias por causas graves de sus propios miembros, de los integrantes de los Ayuntamientos, del Gobernador, de los Magistrados del Tribunal Superior de Justicia; de los Magistrados del Tribunal de lo Contencioso Administrativo; de los Magistrados del Tribunal Electoral del Estado; de los Consejeros Electorales integrantes del Consejo Estatal Electoral y de los miembros del Consejo de la Judicatura. En el caso de las licencias que se concedan a los Magistrados del Tribunal Superior de Justicia y del Consejo de la Judicatura, sólo conocerá cuando éstas excedan de dos meses.
+XXIX.- Resolver las licencias o renuncias por causas graves o previstas en la Ley correspondiente de sus miembros, de los integrantes de los Ayuntamientos, del Gobernador, de los Magistrados del Tribunal Superior de Justicia; de los Magistrados del Tribunal de lo Contencioso Administrativo; de los Magistrados del Tribunal Electoral del Estado; de los Consejeros Electorales y Presidente del Instituto Electoral del Estado y de los miembros del Consejo de la Judicatura. En los casos de las licencias que se concedan a los Magistrados del Tribunal Superior de Justicia y del Consejo de la Judicatura, sólo conocerá cuando éstas excedan de dos meses; en el caso de los Consejeros Electorales y del Presidente del Instituto Electoral del Estado cuando excedan de treinta días.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XXIX Bis.- Hacer comparecer a los Presidentes Municipales a efecto de que informen sobre el desarrollo general de su administración y cualquier asunto relacionado con ésta; asimismo, respecto del cumplimiento de las recomendaciones que emitan en su contra, los Organismos Públicos de Protección de los Derechos Humanos; en este último supuesto señalando y fundamentando su actuación;
+XXIX Bis.- Hacer comparecer a los Presidentes Municipales a efecto de que informen sobre el desarrollo general de su administración y cualquier asunto relacionado con ésta; asimismo, respecto del cumplimiento de las recomendaciones que emitan en su contra, los Organismos Públicos de Protección de los Derechos Humanos; en este último supuesto señalando y fundamentando su actuación.
 
 XXX.- Constituirse en Colegio Electoral para nombrar al Gobernador interino cuando la falta temporal del Gobernador Constitucional sea mayor de treinta días, asimismo, para designar al ciudadano que deba reemplazarlo, de conformidad con los términos establecidos en los artículos 69 al 73 de este ordenamiento.
 
@@ -1019,7 +1091,7 @@ XXXVII.- Recibir las denuncias en contra de sus miembros, del Gobernador del Est
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-XXXVIII.- Autorizar al Ejecutivo Estatal para enajenar, donar o permutar inmuebles que formen parte del patrimonio del Estado;
+XXXVIII.- Autorizar al Ejecutivo Estatal para enajenar, donar o permutar inmuebles que formen parte del patrimonio del Estado.
 
 XXXIX.- Determinar, según las necesidades locales el número máximo de ministros de los cultos religiosos.
 
@@ -1085,7 +1157,9 @@ V.- Recibir y resolver las renuncias que por causas graves presenten los funcion
 
 VI.- Nombrar provisionalmente a los Servidores Públicos del Congreso, que conforme a la Ley deban ser aprobados por el Pleno.
 
-VII.- Llamar a los suplentes respectivos en casos de inhabilitación o suspensión temporal o permanente de los diputados que la integren, y si aquellos también estuvieren imposibilitados, expedir los decretos respectivos para que se proceda a nueva elección.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+VII.- Llamar a los suplentes respectivos en casos de ausencia, inhabilitación o suspensión temporal o permanente de los Diputados que la integran y si aquellos también estuviesen imposibilitados, expedir el Decreto correspondiente y comunicar de inmediato al Consejo General del Instituto Electoral del Estado, para que proceda de conformidad con lo dispuesto por el artículo 32 de esta Constitución.
 
 VIII.- Dictaminar sobre los asuntos pendientes para el siguiente período de sesiones.
 
@@ -1217,9 +1291,9 @@ IV.- Tener treinta años cumplidos al tiempo de ser electo.
 
 V.- No pertenecer al Estado eclesiástico ni ser ministro de algún culto.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-VI.- No ser funcionario federal, militar o miembro de la Armada en servicio activo, Magistrado del Tribunal Superior de Justicia, Presidente Municipal y no desempeñar empleo o cargo alguno de los que se señalen en la Ley Orgánica del Poder Ejecutivo, a menos que se hubiere separado definitivamente del empleo o cargo cuarenta y cinco días antes de la elección o, a más tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
+VII (SIC).- No ser funcionarios federales, los miembros en servicio activo del Ejército y la Armada Nacionales y de las Fuerzas Públicas del Estado, los Presidentes y Síndicos Municipales, los Magistrados de los Tribunales Superior de Justicia; Electoral y de lo Contencioso Administrativo; los Jueces, los Consejeros de la Judicatura Estatal; Electorales; de la Comisión de Acceso a la Información Pública; y los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado y que manejen o ejecuten recursos públicos a menos que se separen definitivamente de sus empleos o cargos sesenta días antes de la elección, o a más tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1283,7 +1357,7 @@ Todos los decretos, reglamentos, órdenes, disposiciones y acuerdos que diere el
 
 En caso de falta absoluta del Gobernador ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones se constituirá inmediatamente en Colegio Electoral y con la presencia de la mayoría del número total de sus miembros, cuando menos nombrarán en escrutinio secreto y por mayoría de votos, al gobernador interino.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ## TITULO SEXTO. DEL GOBIERNO DEL ESTADO
 
@@ -1295,7 +1369,7 @@ En caso de falta absoluta del Gobernador ocurrida en los dos primeros años del 
 
 ###### ARTICULO 71.
 
-En los casos a que se refieren los artículos anteriores, el mismo Congreso convocará, dentro de los diez días siguientes, a elecciones extraordinarias de Gobernador para concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que se señala para elecciones un plazo no menor de tres meses ni mayor de seis. El Gobernador tomará posesión de su cargo dentro de los treinta días siguientes a la declaratoria que haga el Congreso constituido en Colegio Electoral.
+En los casos a que se refieren los artículos anteriores, el mismo Congreso notificará en forma inmediata al Consejo General del Instituto Electoral del Estado, para que convoque a elecciones extraordinarias de Gobernador para concluir el periodo respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señala para las elecciones un plazo no menor de tres meses ni mayor de seis. El Gobernador tomará posesión de su cargo dentro de los treinta días siguientes a la declaratoria que haga el Consejo General del Instituto Electoral.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1465,11 +1539,11 @@ El Presidente presentará anualmente al Congreso un informe sobre las actividade
 
 ### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 77.
 
-Corresponde al Ministerio Público la persecución de todos los delitos de orden común y, por tanto, el ejercicio exclusivo de la acción penal. Tendrá bajo su mando inmediato a la Policía Judicial.
+Corresponde al Ministerio Público la persecución de todos los delitos de orden común y, por tanto, el ejercicio exclusivo de la acción penal. Tendrá bajo su mando inmediato a la Policía Ministerial.
 
 > <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
 
@@ -1491,11 +1565,37 @@ VII. A que se le otorguen las medidas y providencias que prevean la Ley para su 
 
 VIII. Las demás que establezcan otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+La persecución de Delitos Electorales estará a cargo de la Fiscalía Especializada para la Atención de Delitos Electorales, en los términos de esta Constitución.
+
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 78.
 
 El Ministerio Público estará a cargo de un Procurador General de Justicia y los Sub-Procuradores y Agentes que determine su Ley Orgánica y el Presupuesto de Egresos. El Procurador será el Jefe de la Institución, y Representante del Estado en Juicio, cuando la Ley lo disponga, salvo en los casos a que se refiere el Artículo 102 de la Constitución Federal.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+La Procuraduría General de Justicia del Estado de Guerrero y la Fiscalía Especializada para la Atención de Delitos Electorales del Estado de Guerrero, de acuerdo con la Ley Orgánica que las rige, sentarán las bases de coordinación para la investigación de los delitos, así como el auxilio de peritos y técnicos, y de la Policía Ministerial.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+La Fiscalía Especializada para la Atención de los Delitos electorales, es un órgano autónomo, con personalidad jurídica; la Fiscalía en su carácter de Ministerio Público, es responsable de la investigación y persecución de los Delitos Electorales, función que deberá realizar en la más estricta reserva. Las autoridades y particulares están obligados a acatar sus requerimientos y la Ley establecerá su organización, funcionamiento y sanciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+El Fiscal Especializado para la Atención de los Delitos Electorales, tendrá el nivel de subprocurador, será nombrado por el Ejecutivo, pero su nombramiento estará sujeto a la aprobación del H. Congreso del Estado, en un término improrrogable de diez días posteriores a la presentación de la terna que haga el Ejecutivo del Estado; en caso de no aprobarse dicha terna, el Ejecutivo del Estado podrá presentar por una sola ocasión una nueva terna y en caso de rechazarse hará el nombramiento de manera directa a favor de persona distinta a las rechazadas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+El Fiscal durará en su cargo cuatro años pudiendo ser ratificado por una sola vez por otro período igual y deberá reunir los mismos requisitos que para ser Procurador General de Justicia en el Estado, estando sujeto al sistema de responsabilidades oficiales, en los términos que fije el título decimotercero de la Constitución Política Local y la Ley de Responsabilidades de los Servidores Públicos del Estado, y podrá ser removido de su cargo cuando incurra en alguna de las causas previstas en estos ordenamientos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+El Fiscal Especializado para la Atención de Delitos Electorales del Estado de Guerrero, enviará un informe trimestral al Gobernador, al Congreso del Estado y al Instituto Electoral del Estado, sobre la cantidad y naturaleza de las denuncias recibidas, el estado de las averiguaciones previas iniciadas, las archivadas, en las que no se ejerció acción penal y las enviadas a reserva, así como de las consignaciones efectuadas, de los procesos y de los Amparos, en su caso, así como de las funciones que en materia de prevención del delito le corresponden.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 La función de Consejero Jurídico del Poder Ejecutivo, estará a cargo de la dependencia que para tal efecto establezca la Ley.
 
@@ -1767,9 +1867,13 @@ Los Ayuntamientos son cuerpos colegiados deliberantes y autónomos que entrarán
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos cualquiera que sea la denominación que se les dé no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-Los Ayuntamientos se instalarán el 1o. de enero del año siguiente al de su elección.
+Los Ayuntamientos se instalarán el 30 de septiembre del año de la elección.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+En el caso de que no se realice la elección de Ayuntamientos dentro del periodo correspondiente; se haya declarado nula la elección o sin causa justificada no concurriesen los miembros del Ayuntamiento para su Instalación, el Congreso del Estado o el Tribunal Electoral, según corresponda, notificará inmediatamente al Consejo General del Instituto Electoral para que convoque a elección extraordinaria.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1777,59 +1881,39 @@ Los Ayuntamientos se instalarán el 1o. de enero del año siguiente al de su ele
 
 Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo por más de quince días, sin causa justificada, será sustituido por su suplente, o se procederá según lo disponga la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 97.
 
-Los Ayuntamientos se integrarán a partir de las bases siguientes:
+Los Municipios, serán gobernados y administrados por sus respectivos Ayuntamientos electos popularmente, integrados por un Presidente Municipal, uno o dos Síndicos Procuradores, Regidores de mayoría relativa que hayan obtenido la mayoría de votos en la demarcación territorial electoral municipal y por Regidores de representación proporcional, a partir de las siguientes bases:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 1996)</small>
+I.- En los Municipios con más de 300 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos Procuradores, 20 regidores, de los cuales 10 serán de mayoría relativa y 10 de representación proporcional;
 
-I.- En los municipios con más de 115 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal y dos Síndicos Procuradores; cuando posean entre 115 mil y 300 mil habitantes, los formarán también 14 Regidores y hasta 28 si exceden esa cantidad.
+El Primer Síndico conocerá de los asuntos de orden administrativo, financiero, contable y patrimonial, en tanto que el segundo será competente en materia de justicia, seguridad pública y policía y buen gobierno.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1988)</small>
+II.- En los municipios con población de 115 mil a 299,999 habitantes, los Ayuntamientos se integrarán por un presidente Municipal, dos Síndicos Procuradores, 12 Regidores, de los cuales 6 serán de mayoría relativa y 6 de representación proporcional;
 
-El primer Síndico conocerá de los asuntos de orden administrativo, financiero, contable y patrimonial, en tanto que el segundo será competente en materia de justicia, seguridad pública y policía y buen gobierno;
+III.- En los Municipios con población de 75 mil a 114,999 habitantes, los Ayuntamientos se integrarán con un Presidente Municipal, un Síndico Procurador, 10 Regidores, de los cuales 5 serán de mayoría relativa y 5 de representación Proporcional;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1996)</small>
+IV.- En los Municipios con habitantes de entre 25 mil y 74,999, los Ayuntamientos se integrarán con un Presidente Municipal, un Síndico Procurador, 8 Regidores, de los cuales 4 serán de mayoría relativa y 4 de representación proporcional; y
 
-II.- En los municipios con población de 75 mil a 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta 12 Regidores;
+V.- En los Municipios con una población menor de 25 mil a (sic) habitantes, los Ayuntamientos se integrarán con un Presidente Municipal, un Síndico Procurador, 6 Regidores, de los cuales 3 serán de mayoría relativa y 3 de representación proporcional.
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1996)</small>
+Los regidores de mayoría relativa serán electos uno por cada demarcación electoral en que se divide el Municipio.
 
-III.- En los municipios que reúnan entre 25 mil y 74,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta 8 Regidores; y
+Los Ayuntamientos se renovarán en su totalidad cada tres años.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
+Por cada miembro propietario, se elegirá un suplente.
 
-IV.- En los Municipios con menos de 25 mil habitantes, además del Presidente y del Síndico, habrá hasta seis Regidores.
+Las elecciones se harán en los términos que señalan la Ley, pero en todo caso la Planilla se integrará únicamente por Presidente y Síndico o Síndicos; debiendo registrarse además una fórmula de regidores de mayoría relativa por demarcación municipal y una lista de candidatos a regidores de representación proporcional.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+La distribución de las Regidurías de representación proporcional, se hará tomando en cuenta el procedimiento y la fórmula prevista en la Ley, misma que se integrará con los siguientes elementos:
 
-Por cada miembro Propietario, se elegirá un suplente.
+a). Porcentaje de Asignación que será el 3% de la votación municipal emitida;
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+b). Cociente natural; y
 
-Las elecciones se harán en los términos que señala la Ley, pero en todo caso la Planilla se integrará únicamente por Presidente y Síndico o Síndicos; debiendo registrarse además una lista de candidatos a Regidores de Representación Proporcional
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
-
-La distribución de las Regidurías, se hará tomando en cuenta los siguientes criterios:
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
-
-a). El 50% de las Regidurías, serán adjudicadas al Partido que resulte triunfador;
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
-
-b). El 25% de las Regidurías, serán para el Partido que obtenga el segundo lugar de la votación, siempre y cuando alcance la cuarta parte de la votación total como mínimo.
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
-
-En el caso de que el Partido que ocupe el segundo lugar no alcance dicho porcentaje, la distribución se hará conforme a lo dispuesto por el siguiente inciso:
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
-
-c). El otro 25% de las Regidurías, se distribuirá entre los otros Partidos Políticos que hayan participado, y que hubieren obtenido el 1.5% o más de la votación total, en orden decreciente.
+c). Resto Mayor de votos.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1843,19 +1927,19 @@ I.- Ser ciudadano guerrerense en ejercicio de sus derechos.
 
 II.- Ser originario del Municipio que lo elija o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-III.- No tener empleo o cargo federal, estatal o municipal cuarenta y cinco días antes de la fecha de su elección.
+III.- No tener empleo o cargo federal, estatal o municipal sesenta días antes de la fecha de su elección.
 
 IV.- No haber sido sentenciado ni estar procesado por delito doloso que merezca pena corporal.
 
 V.- No ser ministro de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 99.
 
-No pueden ser electos como integrantes de los Ayuntamientos, los miembros en servicio activo del ejército y la armada nacionales, de las fuerzas públicas del Estado y los servidores públicos del Estado o de la Federación, si no se separan del servicio activo los primeros o de sus cargos los últimos, cuarenta y cinco días antes de la elección.
+No pueden ser electos como integrantes de los Ayuntamientos, los miembros en servicio activo del Ejército y la Armada Nacionales y de las Fuerzas Públicas del Estado, los Magistrados de los Tribunales Superior de Justicia; Electoral y de lo Contencioso Administrativo; los Jueces, los Consejeros de la Judicatura Estatal; Electorales; de la Comisión de Acceso a la Información Pública; y los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado y que manejen o ejecuten recursos públicos a menos que se separen definitivamente de sus empleos o cargos sesenta días antes de la elección o, a más tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1943,6 +2027,18 @@ La Hacienda Pública del Estado será administrada por el Jefe del Ejecutivo en 
 
 Todo servidor público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar fianza en términos de Ley.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Los servidores públicos del Estado y los Municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los Partidos Políticos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente del Gobierno estatal y los Ayuntamientos, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Las Leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 106.
@@ -2011,7 +2107,7 @@ El sistema estatal de enseñanza ajustará sus planes y programas de estudio al 
 
 ###### ARTICULO 110.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los Representantes de Elección Popular, a los miembros del Poder Judicial, integrantes del Tribunal Electoral del Estado, Consejeros Electorales y demás servidores del Consejo Estatal Electoral; a los servidores, empleados y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los Representantes de Elección Popular, a los miembros del Poder Judicial, integrantes del Tribunal Electoral del Estado, Consejeros Electorales y demás servidores del Instituto Electoral del Estado; a los servidores, empleados y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2039,11 +2135,11 @@ Las Leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 112.
 
-Podrán ser sujetos de Juicio Político: los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y de Paz, los Consejeros de la Judicatura Estatal, los Magistrados del Tribunal Electoral; los Consejeros Electorales del Consejo Estatal Electoral; los Secretarios del Despacho Auxiliares del Titular del Ejecutivo y el Consejero Jurídico del Poder Ejecutivo; los Coordinadores, el Contralor General del Estado, el Procurador General de Justicia, el Auditor General del Estado y los Auditores Especiales de la Auditoría General del Estado; los Presidentes Municipales, los Síndicos Procuradores y los Regidores, así como los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades o Asociaciones asimiladas a éstas, y Fideicomisos Públicos Estatales.
+Podrán ser sujetos de Juicio Político: los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y de Paz, los Consejeros de la Judicatura Estatal, los Magistrados del Tribunal Electoral; los Consejeros Electorales del Instituto Electoral del Estado, los Secretarios de Despacho Auxiliares del Titular del Ejecutivo y el Consejero Jurídico del Poder Ejecutivo; los Coordinadores, el Contralor General del Estado, el Procurador General de Justicia, el Fiscal Especializado para la Atención de Delitos Electorales del Estado, el Auditor General del Estado y los Auditores Especiales de la Auditoría General del Estado, los Presidentes Municipales, los Síndicos Procuradores y los Regidores de los Ayuntamientos, así como los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades o Asociaciones asimiladas a éstas, y Fideicomisos Públicos Estatales.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2057,11 +2153,11 @@ Para la aplicación de las sanciones a que se refiere este precepto, la Comisió
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 113.
 
-Para proceder penalmente en contra de los Diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral del Estado, Consejeros de la Judicatura Estatal, Consejeros Electorales del Consejo Estatal Electoral; Secretarios del Despacho Auxiliares del Titular del Ejecutivo, Coordinadores, Contralor General del Estado, Procurador General de Justicia, Auditor General del Estado, Consejero Jurídico del Poder Ejecutivo, Presidentes, Síndicos y Regidores de los Ayuntamientos, por la comisión de delitos durante el tiempo de su encargo; el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente en contra de los Diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral del Estado, Consejeros de la Judicatura Estatal; Secretarios del Despacho Auxiliares del Titular del Ejecutivo, Coordinadores, Contralor General del Estado, Procurador General de Justicia, Auditor General del Estado, Consejeros Electorales del Instituto Electoral del Estado, Fiscal Especializado para la Atención de Delitos Electorales del Estado, Consejero Jurídico del Poder Ejecutivo, Presidentes, Síndicos y Regidores de los Ayuntamientos, por la comisión de delitos durante el tiempo de su encargo; el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión si ha o no lugar a proceder contra el inculpado.
 
 (REFORMADO, P.O. 31 DE ENERO DE 1984) (F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
@@ -2241,7 +2337,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 ### CAPITULO III. DE LOS DISTRITOS
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO I. DE LOS HABITANTES DEL ESTADO Y SUS OBLIGACIONES
 
@@ -2297,7 +2393,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -3178,3 +3274,27 @@ Remítase el presente Decreto a los Honorables Ayuntamientos de la Entidad, para
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los periodos de sesiones ordinarias correspondientes a la legislatura LIX que se elija en el año 2008, se celebrarán de acuerdo con las fechas que se han venido rigiendo conforme al decreto número 455 publicado en el Periódico Oficial del Gobierno del Estado de fecha 9 de Julio de 2004.
+
+TERCERO. El número, extensión y cabeceras de los distritos uninominales para elegir Diputados en el proceso 2008, serán los mismos a las que se sujetaron las elecciones del 2005.
+
+CUARTO. Los Diputados integrantes de la legislatura LIX, durarán en funciones del 15 de Noviembre de 2008 al 12 de septiembre de 2012.
+
+QUINTO. Los Ayuntamientos que se elijan en el año 2008, durarán en funciones del 01 de Enero de 2009 al 29 de Septiembre de 2012.
+
+SEXTO. Los Ayuntamientos que se elijan en el proceso electoral de 2008, se integraran con el número de regidores de representación proporcional que se especifica en el artículo 97 de los decretos publicados en los Periódicos Oficiales de fechas 17 de Enero de 1992 y 17 de Mayo de 1996, respectivamente. Aplicándose la fórmula de asignación de regidores prevista en el presente decreto de reformas, adiciones y derogaciones.
+
+SÉPTIMO. Para la aplicación del porcentaje mínimo de asignación de diputados y regidores de representación proporcional, se observará para las elecciones del 2008 el 2%, para la elección del 2012 el 2.5% y para las siguientes el porcentaje establecido en los artículos 37 Bis y 97 de la Constitución Local.
+
+OCTAVO. El Consejo General del Instituto Electoral del Estado, dentro de los treinta días hábiles siguientes a la conclusión del proceso electoral del 2008, deberá iniciar los estudios y elaborará los proyectos de división territorial de los distritos electorales locales de mayoría relativa, sin modificar el número establecido en el artículo 29 de la Constitución Política del Estado. Así mismo iniciará los trabajos técnicos para determinar las demarcaciones electorales municipales en las que se elegirán los regidores de mayoría relativa por voto directo. Para la realización de éstos trabajos se tomarán en cuenta los criterios mínimos establecidos en la Ley Electoral.
+
+NOVENO. El Congreso del Estado expedirá la Ley reglamentaria de los artículos 17 y 18 de democracia participativa dentro de los 180 días posteriores a la entrada en vigor del presente decreto.
+
+DÉCIMO. Los consejeros electorales del Instituto Electoral del Estado y los magistrados del Tribunal Electoral del Estado, en su caso que sean ratificados por un periodo más y los designados en el año dos mil ocho, durarán en su cargo del veintinueve de mayo de dos mil ocho al quince de noviembre de dos mil once.
+
+El Fiscal Especializado para la Atención de Delitos Electorales del Estado, que sea ratificado o designado durará en su cargo del veinticinco de Mayo de dos mil ocho al quince de noviembre de dos mil once.
