@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-adquisiciones-y-administracion-de-bienes-muebles-del-641
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-02"
-last_updated: "2004-07-09"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ADQUISICIONES Y ADMINISTRACION DE BIENES MUEBLES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 2 de noviembre de 1987.
 
@@ -225,91 +225,29 @@ III.- Racionalizar y simplificar estructuras, a efecto de utilizar los recursos 
 
 La Contraloría vigilará y comprobará que las Dependencias Paraestatales apliquen los criterios a que se refiere este artículo.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ### CAPITULO II. DEL REGISTRO DE PROVEEDORES
 
 ###### ARTICULO 13.
 
-La Secretaría, llevará el registro de proveedores del Estado de Sinaloa, y clasificará a las personas inscritas en él, de acuerdo con su actividad, capacidad técnica y su ubicación.
-
-La inscripción en el citado registro tendrá una vigilancia indefinida, y causará los derechos que al efecto señale la legislación aplicable.
-
-Sólo se podrán fincar pedidos o celebrar contratos con las personas inscritas en el registro antes indicado, con las excepciones que la misma Ley establece.
-
-Para los efectos de esta Ley, el carácter de proveedor se adquiere con la inscripción a que se refiere este Artículo, en consecuencia la Secretaría y las Entidades Paraestatales, se abstendrán de exigir a los proveedores, el que estos se encuentren inscritos en cualquier otro registro que les otorgue el mismo carácter.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 14.
 
-Las personas físicas o morales interesadas en inscribirse en el registro de proveedores, deberán solicitarlo por escrito y cumplir con los siguientes requisitos:
-
-I.- Datos generales de la interesada;
-
-II.- Capacidad legal del solicitante, con una antigüedad mínima de 2 años en el negocio, excepción hecha de que se trata del único proveedor en el ramo;
-
-III.- Acreditar su capacidad en cuanto a recursos técnicos, económicos y financieros;
-
-IV.- Inscripción en el Registro Federal de Contribuyentes y, en su caso, en la Cámara que le corresponda;
-
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1995)</small>
-
-V.- Constancia de pago de derechos ante la Secretaría;
-
-VI.- Registro en el Instituto Mexicano del Seguro Social, así como en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
-
-VII.- Acreditar haber cumplido con las disposiciones, registros y requisitos que exijan las Dependencias de orden fiscal o administrativas, según su objeto social o profesional; y
-
-VIII.- Los demás documentos información que la Secretaría o la propia interesada considere pertinentes.
-
-Tratándose de personas extranjeras, deberán acompañar a la solicitud de inscripción a que se refiere este artículo exclusivamente, la información y documentos señalados en las fracciones I a V, VII a VIII.
-
-La Secretaría podrá determinar los documentos e información que deberán traducirse o certificarse por las Autoridades competentes, de conformidad con las disposiciones aplicables.
-
-La Secretaría, dentro de un término que no excederá de treinta días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción en el registro o la modificación de la clasificación. Transcurrido este plazo sin que haya respuesta, se tendrá por escrito al solicitante o por modificada su clasificación.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 15.
 
-Quedan exceptuadas de la obligación de inscripción en el Registro de Proveedores.
-
-I.- Las personas que provean artículos perecederos, granos, productos alimenticios básicos o semiprocesados, o bienes usados;
-
-II.- Los campesinos, comuneros o grupos urbanos marginados que produzcan bienes o presten servicios directamente o a través de personas morales o agrupaciones legalmente constituidas por ellos.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 16.
 
-La Secretaría está facultada para suspender o cancelar la inscripción del proveedor en el Registro, de conformidad con lo siguiente:
-
-I.- Procede la suspensión de la inscripción cuando:
-
-a).- Se le declare en suspensión de pagos o en su caso, sujeto a concurso de acreedores;
-
-b).- No cumpla en sus términos, por causas imputables a él, con algún pedido o contrato a que se hubiere comprometido y perjudique con ello a la Dependencia, Municipios en su caso o, Entidad de que se trate;
-
-c).- Se negare a dar las facilidades necesarias para que las Dependencias facultadas para ello conforme a esta Ley, ejerzan sus funciones de comprobación y verificación.
-
-Cuando desaparezcan las causas que hubieren dado motivo a la suspensión de la inscripción, el proveedor lo acreditará ante la Secretaría, la que dispondrá lo conducente a fin de que el Registro del interesado vuelva a surtir todos sus efectos legales.
-
-II.- Procede la cancelación de la inscripción cuando:
-
-a).- La información que hubiere proporcionado para la inscripción resultare falso (sic) o haya actuado con dolo o mala fe en alguna licitación para la adjudicación del pedido o contrato en su celebración o en su cumplimiento;
-
-b).- No cumpla en sus términos con algún pedido o contrato por causas imputables a él y perjudique que con ello gravemente a la Dependencia o Entidad afectada;
-
-c).- Incurra en actos, prácticas u omisiones que lesionen el interés general o los de la economía de la Entidad Federativa;
-
-d).- Se declare su quiebra fraudulenta;
-
-e).- Haya aceptado pedido o firmado contratos en contravención a lo establecido por esta Ley, por causas que le fueren imputables;
-
-f).- Se le declare incapacitado legalmente para celebrar actos o contratos de los regulados por esta Ley, o
-
-g).- Deje de reunir los requisitos necesarios para estar inscrito en el Registro de Proveedores.
-
-Las Dependencias y Entidades Paraestatales; los Municipios y Entidades Paramunicipales en su caso, solicitarán a la Secretaría, se proceda a la suspensión o cancelación de la inscripción del proveedor en el Registro, cuando este se encuentre en alguno de los supuestos antes mencionados.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 17.
 
-Para negar la inscripción o modificación de la especialidad o determinar la suspensión o cancelación de la inscripción en el Registro de Proveedores, la Secretaría observará el procedimiento establecido en el Artículo 45 de esta Ley.
-
-Contra las resoluciones de negativa, suspensión o cancelación, el interesados (sic) podrá interponer recursos de revocación en los términos de la presente Ley.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 ### CAPITULO III. DE LA LICITACION PUBLICA Y DE LOS PEDIDOS Y CONTRATOS
 
@@ -654,3 +592,9 @@ P.O. 9 DE JULIO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del Consejo para el Desarrollo Económico de Sinaloa en cada ejercicio fiscal, será el equivalente al 20% de lo recaudado en el ejercicio fiscal 2007 del Impuesto Sobre Nóminas, cantidad que en ejercicios posteriores se tomará como base para integrar su patrimonio, la que será actualizada en términos reales en cada ejercicio.
