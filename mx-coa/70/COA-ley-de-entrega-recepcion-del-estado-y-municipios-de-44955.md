@@ -4,7 +4,7 @@ identifier: "COA-ley-de-entrega-recepcion-del-estado-y-municipios-de-44955"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2007-01-02"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ENTREGA-RECEPCION DEL ESTADO Y MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 29 de abril del 2005.
 
@@ -381,7 +381,9 @@ LA FORMALIDAD DEL ACTA. El servidor público saliente y el entrante al tomar pos
 
 Los servidores públicos que en este acto participan deberán suscribir en forma autógrafa el acta administrativa de entrega - recepción.
 
-La Contaduría Mayor de Hacienda podrá designar un representante para que asista tanto a la entrega-recepción como al acto de la firma del acta administrativa de entrega-recepción de las dependencias y entidades en calidad de observador, para lo cual deberá ser notificado por las dependencias entidades con oportunidad para la programación correspondiente.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+La Auditoría Superior del Estado podrá designar un representante para que asista tanto a al (sic) entrega-recepción como al acto de la firma del acta administrativa de entrega-recepción de las dependencias y entidades en calidad de observador, para lo cual deberá ser notificado por las dependencias entidades con oportunidad para la programación correspondiente.
 
 ###### ARTÍCULO 22.
 
@@ -433,7 +435,9 @@ LA OBLIGATORIEDAD DE BRINDAR INFORMACIÓN. Los titulares de las dependencias, ay
 
 LA ACLARACIÓN DE LA INFORMACIÓN. Los servidores públicos salientes de las dependencias, ayuntamientos y entidades, estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten durante los siguientes 30 días hábiles contados a partir del acto de entrega. Para estos efectos tratándose de los ayuntamientos se estará al plazo establecido en el Código Municipal.
 
-En el caso de los servidores públicos de los municipios, entidades paramunicipales y organismos descentralizados municipales, tal obligación deberá cumplirse además ante el representante de la Contaduría Mayor de Hacienda del Congreso del Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+En el caso de los servidores públicos de los municipios, entidades paramunicipales y organismos descentralizados municipales, tal obligación deberá cumplirse además ante el representante de la Auditoría Superior del Estado.
 
 ### CAPÍTULO QUINTO. DE LAS RESPONSABILIDADES
 
@@ -506,3 +510,9 @@ P.O. 2 DE ENERO DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
