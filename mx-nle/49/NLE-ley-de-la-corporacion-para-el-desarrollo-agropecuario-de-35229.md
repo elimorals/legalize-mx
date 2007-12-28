@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-corporacion-para-el-desarrollo-agropecuario-de-35229"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-15"
-last_updated: "2003-12-15"
+last_updated: "2007-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA CORPORACION PARA EL DESARROLLO AGROPECUARIO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de diciembre de 2003.
 
@@ -159,9 +159,11 @@ También podrá la Corporación establecer mecanismos financieros y fondos econ�
 
 ### CAPÍTULO III. DE LA ORGANIZACIÓN, ATRIBUCIONES Y FUNCIONAMIENTO DEL CONSEJO CIUDADANO AGROPECUARIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 11.
 
-La Corporación contará con un órgano de participación ciudadana que se denominará Consejo Ciudadano Agropecuario, incluyente, plural y representativo del sector.
+La Corporación contará con un órgano de participación ciudadana que se denominara Consejo Ciudadano Agropecuario, incluyente, plural y representativo del sector.
 
 El Consejo será un órgano asesor, propositivo y promotor de las acciones que se emprendan por la corporación en el marco de esta Ley. El Consejo estará integrado por:
 
@@ -189,21 +191,39 @@ g) Dos representantes de organizaciones campesinas;
 
 h) Cinco productores o académicos del sector social con conocimientos del sector agropecuario que hayan destacado por su interés en la problemática del campo;
 
-i) Un representante del Consejo Estatal Agropecuario, A.C., y
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-j) Dos representantes de la Unión Ganadera Regional de Nuevo León, A.C.
+i) Un representante del Consejo Estatal Agropecuario, A.C.;
+
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 21 DE ENERO DE 2008)
+
+j) Dos representantes de la Unión Ganadera Regional de Nuevo León, A.C.; y
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+k) Tres Ciudadanos que tengan su residencia de más de 15 años en las regiones que forman parte del sector agropecuario en el Estado y que sean productores agropecuarios, preferentemente dirigentes de una Organización Económica del Sector Agropecuario.
 
 Por cada vocal consejero podrá designarse un suplente.
 
 El Titular del Poder Ejecutivo Estatal podrá invitar al Delegado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el Estado, quien participará en el Consejo en su carácter de vocal; así mismo, podrá invitar a representantes de dependencias u organismos del Gobierno Federal relacionados con el sector agropecuario, quienes sólo tendrán derecho a voz.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 12.
 
-Los vocales consejeros propietarios y suplentes a que se refieren los incisos a) a la h) de la fracción IV del artículo 11, serán nombrados por invitación del Gobernador del Estado, a propuesta del Presidente Delegado, previa consulta que este último realice entre los sectores de la comunidad agropecuaria, considerando a personas reconocidas por su compromiso con el desarrollo agropecuario, su solvencia moral y su trabajo profesional. Los vocales consejeros a que se refieren los incisos i) y j) de la fracción IV del artículo 11 de esta Ley, serán designados por la organización que representen, incluyendo su suplente.
+Los vocales consejeros y suplentes a que se refieren los incisos a) a la h) y el inciso k) de la fracción IV del Artículo 11, serán nombrados de la siguiente manera:
 
-Los mencionados vocales consejeros durarán en su encargo dos años, pudiendo ser designados nuevamente al término del período correspondiente, cuantas veces se considere necesario para el adecuado cumplimiento de los fines del Consejo.
+El Gobernador del Estado lanzara convocatoria pública 90 días antes de la renovación del Consejo, a fin de que se registren los interesados.
 
-Sin perjuicio de lo señalado, sólo podrán sustituirse dichos vocales por renuncia, fallecimiento, incapacidad permanente, inasistencias o faltas graves que determine el Consejo. En tal caso, el vocal que fuera designado en sustitución concluirá el período por el cual fue nombrado el vocal a quien sustituye.
+Todos aquellos ciudadanos registrados se reunirán en el sitio que el Gobernador designe para el efecto, constituyéndose en asamblea que presidirá el Presidente Delegado en funciones.
+
+En dicha asamblea, los presentes establecerán los lineamientos para la selección de los vocales consejeros, cuyo nombramiento será irrevocable.
+
+Los vocales consejeros a que se refieren los incisos i) y j) de la fracción IV del Artículo 11, serán designados por la organización que representen, incluyendo su suplente.
+
+Los mencionados vocales consejeros duraran en su encargo dos años, pudiendo ser designados nuevamente al término del periodo correspondiente por la Asamblea, cuantas veces así lo decida.
+
+Sin perjuicio de lo señalado, sólo podrán sustituirse dichos vocales por renuncia, fallecimiento, incapacidad permanente, inasistencias o faltas graves que determine el Consejo. En tal caso, el vocal que fuere designado en sustitución concluirá el periodo por el cual fue nombrado el vocal a quien sustituye.
 
 ###### ARTÍCULO 13.
 
@@ -476,3 +496,11 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las disposiciones de esta reforma se aplicarán en la próxima conformación del Consejo Ciudadano Agropecuario.
