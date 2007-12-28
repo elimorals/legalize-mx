@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1999-06-04"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 4 de diciembre de 1980.
 
@@ -138,6 +138,10 @@ IV.- Cuarto distrito, cuya cabecera será la ciudad de Hecelchakán, que compren
 > <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 V.- Quinto distrito, cuya cabecera será la ciudad de Palizada, que comprende todas las poblaciones del municipio del mismo nombre.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+Para la creación de nuevos Distritos Judiciales o la reducción de los señalados en este artículo, el Pleno del Tribunal Superior de Justicia del Estado, conformará una Comisión que realice los estudios pertinentes, los cuales deberán de adjuntarse a la iniciativa que en su caso dicho Tribunal, someta a consideración del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
 
@@ -2096,5 +2100,11 @@ SEGUNDO.- Se derogan todas la disposiciones legales y reglamentarias en lo que s
 P.O. 4 DE JUNIO DE 1999.
 
 Primero.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
