@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-servicios-de-salud-57588"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-26"
-last_updated: "2007-10-26"
+last_updated: "2007-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS DE SALUD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 26 de octubre de 2007.
 
@@ -459,7 +459,9 @@ II.- Dirección de Enseñanza y Vinculación;
 
 III.- Dirección de Protección contra Riesgos Sanitarios, y
 
-IV.- Coordinación Estatal del Laboratorio Estatal de Salud Pública.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+IV.- Coordinación del Laboratorio Estatal de Salud Pública.
 
 ###### ARTÍCULO 28.
 
@@ -1453,7 +1455,7 @@ XI.- Coordinar sus actividades con las instituciones que conforman el sector pú
 
 XII.- Captar, procesar y validar la información estadística en materia de salud que se genere, en los términos y con la periodicidad que se establezca, para fines de evaluación y planeación;
 
-XIII.- Planear y elaborar el anteproyecto del presupuesto de egresos, así como proponer los programas de trabajo inherentes al mismo, para la operación y funcionamiento de la unidad hospitalaria, de acuerdo a las normas, políticas y lineamientos establecidas (sic);
+XIII.- Planear y elaborar el anteproyecto del presupuesto de egresos, así como proponer los programas de trabajo inherentes al mismo, para la operación y funcionamiento de la unidad hospitalaria, de acuerdo a las normas, políticas y lineamientos establecidas;
 
 XIV.- Generar, actualizar y proporcionar periódicamente la información de oficio señalada en la Ley de Acceso a la Información Pública para el Estado de Baja California, en los términos establecidos en dicho ordenamiento;
 
@@ -1702,3 +1704,9 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE SALUD DEL ESTADO
 
 JOSÉ GUADALUPE BUSTAMANTE MORENO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2007.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
