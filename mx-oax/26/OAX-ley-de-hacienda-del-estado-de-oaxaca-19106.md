@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2007-09-05"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -299,11 +299,11 @@ El año modelo del vehículo, es el de fabricación automotriz.
 
 DE LOS SUJETOS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 25.
 
-Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que detenten la tenencia o uso de vehículos automotores de más 10 años del modelo original del vehículo, y que su domicilio esté establecido dentro del territorio del Estado de Oaxaca.
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que tengan la tenencia o uso de vehículos automotores de más de 10 años del modelo original del vehículo, y que su domicilio esté establecido dentro del territorio del Estado de Oaxaca.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2001)</small>
 
@@ -331,11 +331,15 @@ DE LOS RESPONSABLES SOLIDARIOS
 
 ARTICULO 26 B.- Son responsables solidarios del pago de este impuesto:
 
-I.- Quienes por cualquier título, adquiera la tenencia o uso del vehículo, hasta por el monto del impuesto y sus accesorios, que en su caso, estuvieran pendientes de liquidar;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, hasta por el monto del impuesto y sus accesorios que en su caso estuvieran pendientes de liquidar;
 
 II.- Quienes reciban en consignación o comisión, para su enajenación, los vehículos a que se refiere este capítulo, hasta por el momento del impuesto y sus accesorios, que hubieren dejado de pagar; y
 
-III.- Los servidores públicos que en ejercicio de sus funciones autoricen altas o cambio de placas, sin cerciorarse del pago del impuesto.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+III.- Los servidores públicos que en ejercicio de sus funciones autoricen el registro de vehículos, altas, cambio o baja de placas, sin cerciorarse del pago de este impuesto y sus accesorios legales correspondientes a los últimos cinco años.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
@@ -533,17 +537,27 @@ Los sujetos obligados que deban de presentar declaraciones periódicas de confor
 
 DE LAS EXENCIONES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-ARTICULO 36 F.- Están exentos del pago de este impuesto, el Estado y los Municipios, así como:
+ARTICULO 36 F.- Está exento del pago de este impuesto, el Estado, así como:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 I.- Los ejidos y comunidades;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 II.- Las uniones de ejidos y comunidades;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 III.- Las asociaciones rurales de interés colectivo;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 IV.- Las unidades agrícolas industriales de la mujer campesina;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 V.- Las personas morales con fines no lucrativos siguientes:
 
@@ -1100,3 +1114,7 @@ P.O. 30 DE DICIEMBRE DE 2006.
 P.O. 5 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado.
