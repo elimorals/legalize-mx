@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-villa-de-alvarez-colima-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-10-06"
+last_updated: "2007-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ALVAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -525,7 +525,9 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 2. Teatros 8
 
-3. Corridas de toros 8
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+3. Corridas de toros 5
 
 4. Charreadas y jaripeos 8
 
@@ -535,13 +537,17 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 7. Espectáculos deportivos 5
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-8. Palenques de Gallos 1
+8. Palenques de gallos sin otro espectáculo público 5
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-9. Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 8
+9. Palenques de gallos con otro espectáculo público 6 a 8
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+10. Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 8
 
 II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en unidades de salario:
 
@@ -667,9 +673,11 @@ Se causará el pago de derechos por los servicios prestados por el Ayuntamiento,
 
 A) CONSTRUCCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 62.
 
-Las personas físicas o morales que pretendan llevar a cabo la construcción, reparación o demolición de obras, deberán obtener previamente la autorización correspondiente y pagarán los derechos conforme a las siguientes tarifas:
+Las personas físicas o morales que pretendan llevar a cabo la construcción, reparación o demolición de obras, deberán obtener previamente la autorización correspondiente y pagarán los derechos, según el tipo, de acuerdo a la siguientes clasificación:
 
 Unidad de salario
 
@@ -831,17 +839,97 @@ c) Concreto hidráulico 0.07
 
 d) Adoquín 0.09
 
-XII. Permiso de construcción para la instalación de anuncios, por M2, de acuerdo a la siguiente clasificación:
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008) (F. DE E., P.O. 26 DE JULIO DE 2008)
 
-a) Pintado, adosado, colgante y autosoportado 5.00
+XII. Permisos de construcción para la instalación de anuncios, por unidad, de acuerdo a la siguiente clasificación:
 
-b) Estructural 8.00
+a) Pintado y/o rotulado con
+
+superficie hasta 4.00m2 2.00
+
+b) Pintado y/o rotulado con
+
+superficie mayor de 4.00 m2 4.00
+
+> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
+
+c) Adosado con superficie hasta 4 m2 3.00
+
+> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
+
+d) Adosado con superficie mayor
+
+a 4 m2. 5.00
+
+e) Colgante o voladizo con
+
+sup hasta 4.00 m2 3.00
+
+f) Colgante o voladizo mayor
+
+a 4.00 m2 5.00
+
+g) Autosoportado tipo paleta
+
+o bandera con superficie
+
+hasta 3.00 m2 6.00
+
+h) Autosoportado tipo paleta
+
+o bandera con superficie de
+
+más de 3.00 m2 hasta 8 m2 12.00
+
+> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
+
+i) Autosoportado tipo
+
+paleta o bandera con superficie
+
+de más de 8.00 m2 18.00
+
+> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
+
+j) Estructural en piso y azotea
+
+con superficie hasta 35.00 m2 90.00
+
+> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
+
+k) Estructural en piso y azotea
+
+con superficie de más de 35.00 m2
+
+hasta 60.00 m2 120.00
+
+> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
+
+l) Estructural en piso y azotea
+
+con superficie de más de 120.00 m2 150.00
+
+m) Estructural de pantalla
+
+electrónica con superficie
+
+hasta 35.00 m2 80.00
+
+n) Estructural de pantalla electrónica
+
+con superficie de más de 35.00 m2
+
+hasta 60.00 m2 100.00
+
+o) Estructural de pantalla electrónica
+
+con superficie de más de 60.00 m2 120.00
 
 XIII. Permisos de obra de los gobiernos federal y estatal, así como las instituciones y organismos descentralizados:
 
-- Inmuebles del dominio público 0.00
+Inmuebles del dominio público 0.00
 
-- Inmuebles que no formen parte del dominio público:
+Inmuebles que no formen parte del dominio público:
 
 a) Construcción por metro cuadrado 0.20
 
@@ -1573,9 +1661,17 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 30. Tiendas de conveniencia 150.00 a 200.00
 
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-31. Otros giros no especificados 100.00 a 1000.00
+31. Salones de Billar 100.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+32. Boleramas 100.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+33. Otros giros no especificados 100.00 a 1000.00
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
@@ -1661,9 +1757,17 @@ b) Por el refrendo anual de funcionamiento, por cada una:
 
 32. Tiendas de conveniencia 75.00 a 100.00
 
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-33. Otros giros no especificados 30.00 a 360.00
+33. Salones de billar 10.00 a 30.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+34. Boleramas 10.00 a 30.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+35. Otros giros no especificados 30.00 a 360.00
 
 c) Por la expedición de permisos para el funcionamiento temporal de establecimientos en los que se expendan bebidas alcohólicas, por cada día:
 
@@ -1729,9 +1833,17 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 30. Tiendas de conveniencia 10.00
 
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-31. Otros giros no especificados 2.00 a 30.00
+31. Salones de Billar 10.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+32. Boleramas 10.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+33. Otros giros no especificados 2.00 a 30.00
 
 d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
@@ -1791,9 +1903,17 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 27. Tiendas de conveniencia 1.50
 
-(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-28. Otros giros no especificados 1.00 a 15.00
+28. Salones de Billar 1.00 a 3.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+29. Boleramas 1.00 a 3.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+30. Otros giros no especificados 1.00 a 15.00
 
 e) Por la autorización de:
 
@@ -2121,9 +2241,57 @@ b) Por la emisión de 3 a 4 mensajes 2.00
 
 VI. Por la expedición de autorizaciones, certificaciones y dictámenes no previstos en este artículo de 1.00 a 80.00
 
-D) OTROS
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+D) PROTECCION CIVIL
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 86.
+
+Los derechos por servicios que presten la unidad de protección civil se causarán y pagarán conforme a la siguiente tarifa:
+
+I. Por el registro:
+
+a). Por el registro de siniestralidad en establecimientos comerciales, industriales y de servicios, con clasificación de riesgo:
+
+1.- Alta
+
+A) Nivel 1 8.00
+
+B) Nivel 2 10.00
+
+C) Nivel 3 15.00
+
+2.- Media
+
+A) Nivel 1 3.50
+
+B) Nivel 2 5.00
+
+C) Nivel 3 7.00
+
+3.- Baja
+
+A) Nivel 1 0.50
+
+B) Nivel 2 2.00
+
+C) Nivel 3 3.00
+
+Para fijar la tarifa se deberán considerar las condiciones económicas del negocio, número de empleados y su nivel de inversión.
+
+En caso de ser necesario, la unidad de protección civil municipal emitirá su opinión.
+
+El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+E) OTROS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 86 Bis.
 
 Por la expedición de otros documentos:
 
@@ -2643,9 +2811,13 @@ Para determinar el pago por concepto de multas se considerarán, inclusive, las 
 
 Los honorarios, recargos y gastos de ejecución a que se refiere el Código, serán condonables con la autorización del Congreso y a petición del Cabildo.
 
-Los gastos de cobranza y de ejecución que se generen con motivo de la realización del procedimiento administrativo de ejecución, se registrarán por la Tesorería Municipal, hasta el momento en que efectivamente se cobren, sin clasificarlos en el concepto de la contribución o aprovechamiento del cual son accesorios.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-Con el propósito de elevar la recaudación tributaria y obtener una mayor eficiencia administrativa, se creará un fondo integrado por los gastos de cobranza y ejecución, que se destinará a incentivar al personal, repartiéndolo entre los que participen directa e indirectamente en la recuperación de los mismos, debiendo crear la partida presupuestal correspondiente.
+Los honorarios, gastos de cobranza y de ejecución que se generen con motivo de la realización del procedimiento administrativo de ejecución, se registrarán por la tesorería municipal, hasta el momento en que efectivamente se cobren, sin clasificarlos en el concepto de la contribución o aprovechamiento del cual son accesorios.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Con el propósito de elevar la recaudación tributaria y obtener una mayor eficiencia administrativa, se creará un fondo integrado por los honorarios, gastos de cobranza y ejecución, que se destinará a incentivar al personal, repartiéndolo entre los que participen directa e indirectamente en la recuperación de los mismos, debiendo crear la partida presupuestal correspondiente.
 
 ###### ARTICULO 123.
 
@@ -2786,3 +2958,9 @@ P.O. 17 DE MARZO DE 2007.
 P.O. 6 DE OCTUBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 2008 previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo párrafo del artículo 80, y último párrafo del 81, de esta ley, se amplía hasta el 15 de abril.
