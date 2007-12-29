@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-50294"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-08"
-last_updated: "2007-05-12"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 8 de abril de 2006.
 
@@ -275,9 +275,39 @@ XVIII. Difundir el Atlas Municipal de Riesgos a través de la Unidad Municipal;
 
 XIX. Realizar inspecciones e imponer las sanciones y medidas de seguridad de su competencia en la materia;
 
-XX. Tramitar y resolver el recurso administrativo previsto en esta Ley; y
+XX. Tramitar y resolver el recurso administrativo previsto en esta Ley; y (sic)
 
-XXI. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XXI. Establecer y mantener, a través de sus unidades de Protección Civil, un registro de riesgos de siniestros de los establecimientos comerciales, industriales y de servicios que operen en su municipio, para los efectos de lo dispuesto en el artículo 121 de esta Ley, clasificándolos de la siguiente manera:
+
+1.- Alta
+
+A) Nivel 1
+
+B) Nivel 2
+
+C) Nivel 3
+
+2.- Media
+
+A) Nivel 1
+
+B) Nivel 2
+
+C) Nivel 3
+
+3.- Baja
+
+A) Nivel 1
+
+B) Nivel 2
+
+C) Nivel 3
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XXII. Las demás que les señalen esta Ley, normas y reglamentos aplicables.
 
 ###### Artículo 14.
 
@@ -1644,3 +1674,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 12 DE MAYO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los municipios deberán establecer el registro a que se refiere la fracción XXI del artículo 13 de este ordenamiento, a más tardar 45 días contados a partir del inicio de la vigencia del presente Decreto.
