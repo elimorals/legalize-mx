@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48149"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2007-03-17"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -177,9 +177,9 @@ Por entronque colectivo de fraccionamiento y desarrollos comerciales, industrial
 
 a).- Si cuenta con fuente de abasto se cobrará el importe de los gastos que origine el entronque.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-b).- Si no cuenta con fuente de abasto, además de los gastos de entronque se cobrará por derechos la cantidad de 34.18 salarios mínimos por cada litro por segundo de agua potable que requiere por gasto medio diario, mismos que serán determinados por la Comisión, en base al proyecto autorizado del desarrollo en cuestión.
+b).- Si no cuenta con fuente de abasto, además de los gastos de entronque se cobrará por derechos la cantidad de 1,659.69 salarios mínimos por cada litro por segundo de agua potable que requiere por gasto medio diario, mismos que serán determinados por la Comisión, en base al proyecto autorizado del desarrollo en cuestión.
 
 c).- Por conexión colectiva a la red de drenaje se cobrará una cantidad igual al 35% del importe a pagar por derecho de entronque a la red de Agua.
 
@@ -323,11 +323,17 @@ a).- Original y copia del talón o recibo de ingresos y credencial que lo acredi
 
 b).- Identificación oficial con fotografía.
 
-En caso de que el usuario sujeto al beneficio establecido en este artículo realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-IV.- Los usuarios de cuota fija que acrediten ser de la tercera edad, se concede un 50 por ciento de descuento, dicho descuento se aplicará respecto de la casa que habiten, siempre y cuando estén al corriente y cubran de manera anticipada todo el año en los meses de enero y febrero.
+En caso de que el sujeto al beneficio establecido en éste artículo realice su pago por anualidad adelantada, en los meses de enero a abril, no tendrá derecho al descuento por pago anticipado.
 
-V.- Los usuarios de cuota fija que acrediten ser discapacitados, se concede un 50 por ciento de descuento en el pago por los servicios de agua potable y drenaje, la condonación se aplicará respecto a la casa que habiten y no es retroactiva a la fecha de esta publicación.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+IV.- Los usuarios de cuota fija que acrediten ser de la tercera edad, se concede un 50 por ciento de descuento, dicho descuento se aplicará respecto de la casa que habiten, siempre y cuando estén al corriente y cubran de manera anticipada todo el año en los meses de enero a abril.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+V.- Los usuarios de cuota fija que acrediten ser discapacitados, se concede un 50 por ciento de descuento en el pago por los servicios de agua potable y drenaje en los meses de enero a abril, y se aplicará respecto de la casa que habiten y no es retroactiva al a (sic) fecha de ésta publicación. Deberá exhibir a la comisión, copia de identificación oficial con fotografía.
 
 VI.- Tratándose de los servicios medio y mixto se estará a lo dispuesto por la fracción II o en su defecto, la Fracción I del presente Artículo.
 
@@ -377,18 +383,8 @@ P.O. 17 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
-###### ARTÍCULO UNICO.
+P.O. 29 DE DICIEMBRE DE 2007.
 
-El presente Decreto entrará en vigor 1° de enero del año 2006, previa su publicación en el Periódico Oficial "El Estado de Colima".
+###### ARTICULO ÚNICO.
 
-El Gobernador del Estado dispondrá se publique, circule y observe."
-
-Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
-
-C. Florencio Llamas Acosta, Diputado Presidente. Rúbrica. C. Beatriz de la Mora de la Mora, Diputada Secretaria. Rúbrica. C. Margarita Ramírez Sánchez, Diputada Secretaria. Rúbrica.
-
-Por lo tanto mando se imprima, publique, circule y observe.
-
-Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mil cinco.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+El presente decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
