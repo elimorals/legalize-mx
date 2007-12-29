@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-19087"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2007-01-03"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2000.
 
@@ -399,9 +399,19 @@ XXXII. Organizar y administrar el Catastro del Estado, de acuerdo con los conven
 
 XXXIII. Organizar y controlar el Registro Público de la Propiedad y del Comercio de conformidad con las leyes aplicables;
 
-XXXIV. Fijar los montos de estímulos fiscales para el establecimiento de empresas en coordinación con las dependencias a las que les corresponda el fomento de actividades productivas; y
+XXXIV. Fijar los montos de estímulos fiscales para el establecimiento de empresas en coordinación con las dependencias a las que les corresponda el fomento de actividades productivas; y (sic)
 
-XXXV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XXXV. Realizar el procedimiento de requerimiento de pago a las compañías afianzadoras derivado del incumplimiento de las obligaciones por parte de particulares con los poderes que integran el Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XXXVI. Ejercer las facultades conferidas al Estado mediante la suscripción de Convenios de Colaboración Administrativa en Materia Fiscal Federal, que se celebren con el Gobierno Federal por conducto de la Secretaria de Hacienda y Crédito Público, respecto de contribuyentes que tengan su domicilio fiscal dentro del territorio del Estado; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XXXVII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 26.
 
@@ -1112,3 +1122,11 @@ P.O. 15 DE JULIO DE 2006.
 P.O. 3 DE ENERO DE 2007.
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo Tercero.- Dentro de los Noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberá reformarse el Reglamento Interior de la Secretaría de Finanzas, para adecuarlo a esta reforma.
