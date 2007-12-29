@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-del-ano-540
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-30"
-last_updated: "2006-12-30"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DEL AÑO 2007
 
-TEXTO ORIGINAL.
+N. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA DEL AÑO 2008, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2006.
 
@@ -268,3 +270,15 @@ LUIS GERARDO ROMO FONSECA.
 EL SECRETARIO DE FINANZAS
 
 L.C. JORGE MIRANDA CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ingresos para el año 2007 contenida en el Decreto No. 428, publicado en el tomo CXVI suplemento número 104 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 30 de Diciembre del año 2006.
