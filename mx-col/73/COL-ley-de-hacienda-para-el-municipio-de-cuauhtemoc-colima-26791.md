@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-10-06"
+last_updated: "2007-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTEMOC
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -513,25 +513,45 @@ Este impuesto se causará y pagará de conformidad a lo siguiente:
 
 I. Los giros que a continuación se mencionan se gravarán según el monto de sus ingresos por concepto de admisiones, en los porcentajes indicados en cada uno:
 
-1.- Box y lucha libre 19
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+1.- Box y lucha libre 8
 
 2.- Teatros 8
 
-3.- Corridas de toros 19
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-4.- Charreadas y jaripeos 19
+3.- Corridas de toros 8
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+4.- Charreadas y jaripeos 8
 
 5.- Circos y carpas 8
 
-6.- Presentaciones artísticas 20
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+6.- Presentaciones artísticas 10
 
 7.- Espectáculos deportivos 5
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-8.- Palenques de Gallos 1
+8.- Palenques de Gallos sin otro espectáculo
 
-9. Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 19
+público 4
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+9.- Palenques de Gallos con otro espectáculo
+
+público 6 a 8
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+10.- Cualquier otro espectáculo público por el
+
+que se cobren derechos de admisión 5 a 8
 
 II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en unidades de salario:
 
@@ -659,7 +679,213 @@ A).- CONSTRUCCIONES
 
 Las personas físicas o morales que pretendan llevar a cabo la construcción, reparación o demolición de obras, deberán obtener previamente la autorización correspondiente y pagarán los derechos conforme a las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Permiso de construcción o ampliación incluyendo inspección de la obra, por metro cuadrado, según el tipo, de acuerdo a la siguiente clasificación:
+
+a) Habitacional densidad alta:
+
+1.- Vivienda unifamiliar
+
+- Hasta 40 M2 0.00
+
+- De más de 40 M2 0.06
+
+2.- Vivienda plurifamiliar horizontal 0.04
+
+3.- Vivienda plurifamiliar vertical 0.08
+
+b) Habitacional densidad media:
+
+1.- Vivienda unifamiliar 0.12
+
+2.- Vivienda plurifamiliar horizontal 0.08
+
+3.- Vivienda plurifamiliar vertical 0.14
+
+c) Habitacional densidad baja:
+
+1.- Vivienda campestre o aislada 0.22
+
+2.- Vivienda unifamiliar 0.22
+
+3.- Vivienda plurifamiliar horizontal 0.21
+
+4.- Vivienda plurifamiliar vertical 0.24
+
+d) Alojamiento temporal 0.08
+
+e) Comercio y servicios 0.24
+
+f) Oficinas 0.15
+
+g) Abastos, almacenamientos y talleres 0.16
+
+h) Manufacturas y usos industriales:
+
+1.- Manufacturas domiciliarias 0.05
+
+2.- Manufacturas menores 0.05
+
+3.- Industria ligera de bajo impacto 0.08
+
+4.- Industria de mediano impacto 0.14
+
+5.- Industria pesada de alto impacto y riesgo 0.19
+
+i) Otros 0.00 a 0.24
+
+Cuando la construcción tenga como consecuencia la demolición por más de 40.00 M2, el pago del derecho por los conceptos anteriores aumentará en un 10 por ciento.
+
+Las áreas de estacionamiento en los anteriores conceptos se consideran en el cobro, con el 10 por ciento de las mismas tarifas, de acuerdo a la superficie habilitada para este servicio, excepto habitacional unifamiliar de cualquier densidad.
+
+II. Permiso para remodelación o reparación, incluyendo la inspección de la obra según el tipo, por M2, de acuerdo con la siguiente clasificación:
+
+a) Habitacional densidad alta 0.04
+
+b) Habitacional densidad media 0.08
+
+c) Habitacional densidad baja 0.12
+
+d) Comercio y servicios 0.12
+
+e) De fachadas en general 0.00
+
+f) Oficinas administrativas 0.07
+
+g) Abastos, almacenamientos y talleres 0.06
+
+h) Manufacturas y usos industriales:
+
+1.- Manufacturas domiciliarias 0.10
+
+2.- Manufacturas menores 0.08
+
+3.- Industria ligera de bajo impacto 0.12
+
+4.- Industria de mediano impacto 0.25
+
+5.- Industria pesada de alto impacto y riesgo 0.50
+
+i) Otros 0.00 a 0.50
+
+III. Permiso para demolición, incluyendo la inspección de la obra de acuerdo a la siguiente tarifa:
+
+a) En el caso de muros y/o bardas por
+
+metro lineal 0.22
+
+b) En el caso de espacios cubiertos por
+
+metro cuadrado 0.33
+
+IV. Permiso para colocación de tapiales, para actividades distintas de las fracciones anteriores de este artículo, por metro lineal de frente, según tipo, de acuerdo a la siguiente clasificación:
+
+a) De barrera 2.43
+
+b) Fijos 1.83
+
+c) De paso cubierto 1.21
+
+d) Otros 1.22 a 2.43
+
+V. Permiso para la construcción de albercas,
+
+por metro cúbico de capacidad: 0.50
+
+VI. Permiso para bardeos, de acuerdo a la siguiente clasificación, por metro lineal:
+
+a) Habitacional densidad alta 0.05
+
+b) Habitacional densidad media 0.10
+
+c) Habitacional densidad baja 0.50
+
+d) Alojamiento temporal 0.10
+
+e) Comercio y servicios 0.50
+
+f) Oficinas administrativas 0.10
+
+g) Abastos, almacenamientos y talleres 0.05
+
+h) Manufacturas y usos industriales 0.20
+
+i) Otros de 0.05 a 0.50
+
+VII. Los pagos de las licencias contempladas
+
+en este artículo previo dictamen de la
+
+dependencia municipal competente,
+
+cuando se trate de trabajos a consecuencia
+
+de fenómenos naturales: 0.00
+
+VIII. Permisos de obra que realicen
+
+patronatos y organizaciones civiles cuyos
+
+fines sean eminentemente sociales,
+
+por evento: 0.10
+
+IX.- Permiso para la construcción de sistemas de comunicación, por metro lineal de altura de la antena, de acuerdo a la siguiente clasificación:
+
+a) Antenas de comunicación 1.83
+
+b) Antenas de radio comunicación 1.83
+
+X. Permiso de construcción de accesos, carril de desaceleración y aceleración de bayonetas, glorietas y retornos, por m2, según su clasificación:
+
+a) Empedrados o terracerías 0.03
+
+b) Asfalto 0.05
+
+c) Concreto hidráulico 0.07
+
+d) Adoquín 0.09
+
+XI. Permiso de construcción para la instalación de anuncios, por m2, de acuerdo a la siguiente clasificación:
+
+a) Pintado, adosado, colgante y
+
+autosoportado 5.00
+
+b) Estructural 8.00
+
+XII. Permisos de obra de los gobiernos federal y estatal, así como las instituciones y organismos descentralizados:
+
+- Inmuebles del dominio 0.00
+
+- Inmuebles que no formen parte del dominio público:
+
+a) Construcción por metro cuadrado 0.20
+
+b) Reparación o remodelación por trámite 4.00
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XIII. Elaboración de planos para construcción, por metro cuadrado de construcción:
+
+a) Menor o igual a 40 M2 de construcción 0.05
+
+b) Mayor de 40 M2 de construcción 0.10
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XIV. Permisos similares no previstos en
+
+este artículo, por metro cuadrado o fracción: 0.30
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XV. Permisos para construcción de gavetas
+
+en cementerios, por gaveta 3.35
+
+El pago de derechos de permisos especiales no previstos en este artículo será sometido a la aprobación del Cabildo, donde deberán tomarse en cuenta las especificaciones del mismo.
 
 ###### ARTICULO 63.
 
@@ -803,23 +1029,85 @@ Los montos establecidos para que la dependencia municipal competente otorgue las
 
 (VEASE ARCHIVO ANEXO)
 
-D).- OTROS
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+D).- PROTECCION CIVIL
+
+> <small>[N. DE E. EL CONTENIDO DE ESTE ARTÍCULO ES IDÉNTICO AL DEL ARTÍCULO 86 BIS, P.O. 29 DE DICIEMBRE DE 2007]</small>
 
 ###### ARTICULO 85.
 
 Por la expedición de los siguientes documentos:
 
-(VEASE ARCHIVO ANEXO)
+I. Copias certificadas 1.00
+
+II. Certificaciones de residencia 1.20
+
+III. Solvencias fiscales 1.10
+
+IV. Constancias 1.00
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+E).- OTROS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
 
 #### SECCION PRIMERA. SERVICIOS MEDICOS
 
+> <small>(ADICIONADO [N. DE E. EL CONTENIDO DE ESTE ARTÍCULO ES IDÉNTICO AL DEL ARTÍCULO 85], P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 86 Bis.
+
+Por la expedición de los siguientes documentos:
+
+I. Copias certificadas 1.00
+
+II. Certificaciones de residencia 1.20
+
+III. Solvencias fiscales 1.10
+
+IV. Constancias 1.00
+
 ###### ARTICULO 86.
 
-Los servicios médicos municipales, causarán los siguientes derechos:
+Los derechos por servicios que presten la unidad de protección civil se causarán y pagarán conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+I. Por el registro:
+
+a). Por el registro de siniestralidad en establecimientos comerciales, industriales y de servicios, con clasificación de riesgo:
+
+1.- Alta
+
+A) Nivel 1 8.00
+
+B) Nivel 2 10.00
+
+C) Nivel 3 15.00
+
+2.- Media
+
+A) Nivel 1 3.50
+
+B) Nivel 2 5.00
+
+C) Nivel 3 7.00
+
+3.- Baja
+
+A) Nivel 1 0.50
+
+B) Nivel 2 2.00
+
+C) Nivel 3 3.00
+
+Para fijar las tarifas se deberán considerar las condiciones económicas del negocio, número de empleados y su nivel de inversión.
+
+En caso de ser necesario, la unidad de protección civil municipal emitirá opinión.
+
+El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
 
 #### SECCION SEGUNDA. USO DE VIAS Y AREAS PUBLICAS
 
@@ -857,11 +1145,25 @@ VIII.- Por el uso de la vía pública (materiales para construcción, escombro c
 
 IX.- Otros no especificados en ésta sección 2.30
 
-#### SECCION PRIMERA. ALUMBRADO PUBLICO
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+#### SECCION TERCERA. SERVICIOS DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 87 Bis.
+
+Los servicios de seguridad que soliciten los particulares, se pagarán por cada elemento, conforme a la siguiente tarifa, por día:
+
+1.- Discotecas 6.30
+
+2.- Fiestas particulares 6.30
+
+3.- Otros 6.30 a 8.00
 
 ### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
 
-#### SECCION SEGUNDA. ASEO PUBLICO
+#### SECCION PRIMERA. ALUMBRADO PUBLICO
 
 ###### ARTICULO 88.
 
@@ -895,7 +1197,7 @@ El derecho de alumbrado público se pagará de conformidad con las tasas y cuota
 
 (VEASE ARCHIVO ANEXO)
 
-#### SECCION TERCERA. CEMENTERIOS
+#### SECCION SEGUNDA. ASEO PUBLICO
 
 ###### ARTICULO 93.
 
@@ -923,7 +1225,7 @@ III. Al momento de prestarse el servicio: en los casos señalados en las fraccio
 
 IV. Cinco días posteriores al requerimiento de pago al propietario o poseedor del predio, en el supuesto de la fracción IV.
 
-#### SECCION CUARTA. RASTRO MUNICIPAL
+#### SECCION TERCERA. CEMENTERIOS
 
 ###### ARTICULO 97.
 
@@ -934,6 +1236,8 @@ Las personas a quienes se les presten servicios en los casos que se mencionan en
 ###### ARTICULO 98.
 
 Por el permiso de construcción de monumentos, se cobrará el uno por ciento del monto de la construcción, incluyendo materiales y mano de obra. Si este pago resulta inferior a dos unidades de salario, se cobrará esta cantidad.
+
+#### SECCION CUARTA. RASTRO MUNICIPAL
 
 ###### ARTICULO 99.
 
@@ -1001,7 +1305,33 @@ Los propietarios de ganado que circule en las vías públicas y sea recogido por
 
 Los productos por los cementerios públicos se causarán y pagarán de conformidad a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+I.- En cementerios de la cabecera municipal.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+1.- Venta de lotes en propiedad, por metro cuadrado 6.10
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+2.- Construcción y venta de gavetas para fosas
+
+en el cementerio, por gaveta 52.5
+
+II.- En cementerios fuera de la cabecera municipal.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+1.- Venta de lotes en propiedad, por metro cuadrado 4.15
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+2.- Construcción y venta de gavetas para fosas
+
+en el cementerio, por gaveta 52.5
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+En la fracción nueva del panteón de la comunidad de Quesería, se cobrará las tarifas aplicables al panteón de la Cabecera Municipal.
 
 ### CAPITULO V. VENTA DE PUBLICACIONES
 
@@ -1254,3 +1584,9 @@ P.O. 17 DE MARZO DE 2007.
 P.O. 6 DE OCTUBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 2008 previa su publicación en el Periódico Oficial "El Estado de Colima"
+
+SEGUNDO.- Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo párrafo del artículo 80, y último párrafo del 81, de esta ley, se amplía hasta el 15 de abril.
