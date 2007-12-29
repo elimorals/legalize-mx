@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-24302"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-30"
-last_updated: "2007-09-05"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el domingo 30 de diciembre de 2001.
 
@@ -149,9 +149,9 @@ I El Gobernador del Estado;
 
 II El Secretario de Finanzas;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-III El Subsecretario de Ingresos;
+III El Subsecretario de Ingresos y Fiscalización;
 
 IV El Director de Ingresos, los Jefes de Unidad, de Departamento y de Oficina de la Dirección a su cargo;
 
@@ -167,7 +167,9 @@ VIII Los Notificadores - Ejecutores y los interventores;
 
 IX El Jefe de la Unidad de Control y Seguimiento a Oficinas Recaudadores de Rentas y los titulares de éstas;
 
-X El Director General del Instituto Catastral del Estado de Oaxaca, los Directores de Área, los Delegados, los Jefes de Unidad, de Departamento y de Oficina del Instituto a su cargo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+X El Director General del Instituto Catastral del Estado de Oaxaca, el Subdirector General, los Directores de Área, los Delegados Catastrales, los Jefes de Unidad, de Departamento y de Oficina del Instituto a su cargo;
 
 XI Los servidores públicos dependientes de la Secretaría de Finanzas del Gobierno del Estado y del Instituto Catastral y, en su caso, de los organismos autorizados para la administración y recaudación de ingresos públicos, en el desempeño de sus funciones, así como los servidores públicos federales y municipales, cuando los Convenios de Colaboración celebrados, así lo prevengan; y,
 
@@ -443,17 +445,17 @@ Para efectos de pago de los créditos a cargo de los sujetos pasivos u obligados
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los 15 días siguientes a aquél en que haya surtido efectos su notificación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 25.
 
-Se aceptarán como medios de pago, el efectivo y los cheques certificados o de caja, así como los cheques de la cuenta personal del obligado, librado a favor de la Secretaría de Finanzas del Gobierno del Estado y a cargo de institución de crédito del domicilio correspondiente a la oficina en que deba efectuarse dicho pago. La Secretaría de Finanzas podrá, en su caso, autorizar algún otro medio o forma de pago.
+Se aceptarán como medios de pago, el efectivo y los cheques certificados o de caja, giros quirográficos, postal, bancario, así como los cheques de la cuenta personal del obligado, librado a favor de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca y a cargo de institución de crédito del domicilio correspondiente a la oficina en que deba efectuarse dicho pago. La Secretaría de Finanzas podrá, en su caso, autorizar algún otro medio o forma de pago.
 
 Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 Cuando en este Código se haga referencia a salario mínimo, se entenderá el último salario mínimo general vigente en el Estado de Oaxaca.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 > <small>(REFORMADO PRIMERO PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -502,6 +504,10 @@ El monto para liquidar el adeudo a que se refiere el párrafo anterior, deberá 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 VII Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo, que es el resultado de disminuir el 20% del pago inicial al total del crédito fiscal, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo con la fracción IV de este artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Los requisitos y procedimientos que deberán observar los contribuyentes que opten por cumplir con sus obligaciones conforme a este artículo, se establecerán en las Reglas de Carácter General que para tal efecto emita la Secretaría de Finanzas del Gobierno del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -793,11 +799,23 @@ No obstante la prevención anterior, los particulares o sus representantes podr�
 
 Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 46 Bis.
+ARTICULO 46 A.- La Administración Pública del Estado, Centralizada y Paraestatal, en ningún caso contratará adquisiciones, arrendamientos, servicios u obra pública, con los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones de este Código y demás ordenamientos aplicables, salvo que dichos contribuyentes celebren previamente convenio con las autoridades fiscales para cubrir a plazos, ya sea con pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo, con los recursos que obtengan por la enajenación, arrendamiento, servicios u obra pública que se pretendan contratar. Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes; respetando los principios de la licitación de la que se trate.
 
-La Administración Pública del Estado, Centralizada y Paraestatal, en ningún caso contratará adquisiciones, arrendamientos, servicios u obra pública, con los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones de este Código y demás ordenamientos aplicables, salvo que dichos contribuyentes celebren previamente convenio con las autoridades fiscales para cubrir a plazos, ya sea con pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo, con los recursos que obtengan por la enajenación, arrendamiento, servicios u obra pública que se pretendan contratar. Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes; respetando los principios de la licitación de la que se trate.
+Los requisitos y procedimientos que deberán observar las Dependencias y Entidades de la Administración Pública Centralizada y Paraestatal del Estado para el cumplimiento de este artículo, se establecerán en las Reglas de Carácter General que para tal efecto emita la Secretaría de Finanzas del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 46 B.- Las Dependencias y Entidades de la Administración Pública Centralizada y Paraestatal del Estado, a través de sus Titulares o responsables de sus unidades administrativas, tendrán la obligación de presentar ante las autoridades fiscales estatales, en la forma y términos que señale la Secretaría de Finanzas del Gobierno del Estado en las Reglas de Carácter General que para tal efecto emita, la información relativa a:
+
+I. Las personas a las que en el mes inmediato anterior les hubieren efectuado retenciones de impuestos federales, con motivo de pagos por concepto de arrendamientos o prestación de servicios.
+
+II. Los proveedores a los que les hubieren efectuado pagos por la adquisición de bienes, prestación de servicios, ejecución de obra pública o el uso o goce temporal de los bienes adquiridos o recibidos en el mes de que se trate.
+
+La información a que se refiere el párrafo anterior se deberá presentar a más tardar el día 10 del mes posterior al que corresponda dicha información.
+
+En caso de no cumplir con este artículo, los Titulares o responsables de las unidades administrativas de las Dependencias y Entidades mencionadas, se harán acreedores a la sanción prevista en el artículo 85, fracción IV de este Código.
 
 ###### ARTICULO 47.
 
@@ -827,17 +845,31 @@ f) De apertura o cierre de establecimientos o locales;
 
 g) De liquidación o apertura de sucesión;
 
-h) De cancelación del registro estatal de contribuyentes; y,
+h) De cancelación del registro estatal de contribuyentes; y (sic),
 
-i) De suspensión o reanudación de actividades u operaciones o de cualquier otra circunstancia que modifique los datos aportados en la solicitud de inscripción, dentro de los plazos establecidos en este artículo; asimismo, tratándose del aviso de cambio de actividad preponderante, éste se presentará mediante escrito que deberá reunir los requisitos que establece el artículo 45 de este Código.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-De no fijarse plazo para el cumplimiento de estas obligaciones, se tendrá por establecido el de un mes a partir de la realización del hecho de que se trate;
+i) De suspensión cuando el contribuyente interrumpa las actividades por las cuales está obligado a presentar declaraciones o pagos periódicos, siempre y cuando no existan obligaciones pendientes de pago.
+
+Este aviso, durante su vigencia, libera al contribuyente de la obligación de presentar declaraciones periódicas, excepto tratándose de las del ejercicio en que interrumpa sus actividades y cuando se trate de contribuciones causadas aún no cubiertas o de declaraciones correspondientes a períodos anteriores a la fecha de inicio de la suspensión de actividades.
+
+Durante el período de suspensión de actividades, el contribuyente no queda relevado de dar los demás avisos previstos en este Código;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+j) De reanudación de actividades u operaciones o de cualquier otra circunstancia que modifique los datos aportados en la solicitud de inscripción, dentro de los plazos establecidos en esta fracción; asimismo, tratándose del aviso de cambio de actividad preponderante, éste se presentará mediante escrito que deberá reunir los requisitos que establece el artículo 45 de este Código.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+De no fijarse plazo para el cumplimiento de las obligaciones señaladas en esta fracción, se tendrá por establecido el de un mes a partir de la realización del hecho de que se trate;
 
 IV Manifestar y pagar los créditos fiscales, en los términos que dispongan los ordenamientos fiscales;
 
 V Expedir o recabar los comprobantes que las disposiciones tributarias señalen, los cuales deberán contener los datos suficientes para identificar la operación de que se trate y la persona que la realiza;
 
-VI Señalar domicilio en el estado, en los términos del artículo 18 de este Código y conservar en él, la documentación y demás elementos contables y comprobatorios, hasta por el término de cinco años posteriores a la fecha en que hubiere ocurrido la clausura, baja, suspensión de actividades, cancelación de registro o extinguido la obligación, a menos que por disposición expresa de algún ordenamiento legal, deba conservarla por más tiempo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+VI Señalar domicilio en el Estado, en los términos del artículo 18 de este Código y conservar en él la documentación y demás elementos contables y comprobatorios, hasta por el término de cinco años. Tratándose de clausura, baja, suspensión de actividades, cancelación de registro o extinción de la obligación, el período de cinco años deberá computarse a partir de la fecha en que se lleven a cabo dichos actos, a menos que por disposición expresa de algún ordenamiento legal, deba conservarla por más tiempo;
 
 VII Proporcionar a las autoridades fiscales, los datos, informes o documentación, que les sean solicitados, dentro del plazo fijado para ello; y
 
@@ -856,6 +888,40 @@ Quedan incluídos en la contabilidad los registros y cuentas especiales a que ob
 En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción VIII de este artículo, por los papeles de trabajo, cuentas bancarias, por los registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
 La Secretaría de Finanzas llevará registros de contribuyentes, basándose en los datos que éstos le proporcionen de conformidad con este Capítulo y en los que la propia Secretaría obtenga por cualquier otro medio. Asimismo, asignará el número de cuenta que corresponda a cada contribuyente inscrito, quien deberá citarla en todo documento que presente ante las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 47 A.- Están obligadas a dictaminar sus contribuciones estatales por contador público registrado en los términos del artículo 69 A de éste Código y de la Reglas de Carácter General que emita la Secretaría de Finanzas del Gobierno del Estado, las personas físicas y morales que se encuentren en algunos de los supuestos siguientes y por cada uno de ellos:
+
+I Las que en el año calendario inmediato anterior hayan enajenado un promedio mensual de diez o más automóviles, camiones y demás vehículos de motor usados;
+
+II Las que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $1,000,000.00, por concepto de premios de rifas, sorteos, loterías y concursos;
+
+III Las que en el año calendario inmediato anterior hayan obtenido ingresos brutos superiores a $2,000,000.00, por concepto de la realización o explotación de diversiones o espectáculos públicos;
+
+IV Las que en el año calendario inmediato anterior hayan causado la obligación de pago de la tenencia o uso de un promedio mensual de veinte o más vehículos automotores de más de 10 años del modelo original del vehículo;
+
+V Las que en el año calendario inmediato anterior hayan efectuado retenciones superiores a $50,000.00, por concepto de prestación de servicios de hospedaje;
+
+VI Las que en el año calendario inmediato anterior hayan contado con un promedio mensual de cien o más trabajadores;
+
+VII Las que en el año calendario inmediato anterior hayan realizado erogaciones superiores a $300,000.00, por concepto de impuestos y derechos incluyendo sus accesorios, en términos del artículo 36 H, de la Ley de Hacienda del Estado de Oaxaca;
+
+VIII Las que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $1,000,000.00, por concepto del otorgamiento del uso o goce temporal de bienes inmuebles; y,
+
+IX Las que estén constituidas como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia.
+
+A partir del segundo ejercicio en que se encuentren en suspensión de actividades, los contribuyentes a que se refieren las fracciones V, VI y VIII de este artículo, no estarán obligados a dictaminar sus contribuciones estatales.
+
+Las personas físicas y morales, que no estén obligadas a dictaminar sus contribuciones estatales por contador público registrado, podrán optar por hacerlo en los términos del artículo 69 A de este Código y de las Reglas de Carácter General que emita la Secretaría de Finanzas del Gobierno del Estado.
+
+Los contribuyentes a que se refiere este artículo deberán presentar ante la autoridad fiscal estatal competente lo siguiente:
+
+a) Aviso de dictamen a través de los formularios autorizados para tal efecto por la Secretaría de Finanzas del Gobierno del Estado, a más tardar el 30 de enero del año inmediato posterior a la terminación del ejercicio a dictaminar.
+
+b) Dictamen formulado por contador público registrado, incluyendo la información y documentación que indiquen las Reglas de Carácter General que emita la Secretaría de Finanzas del Gobierno del Estado, a más tardar el 30 de junio del año inmediato posterior a la terminación del ejercicio a dictaminar.
+
+En el caso de que en el dictamen se determinen diferencias de contribuciones a pagar, éstas deberán enterarse mediante declaración complementaria ante la Secretaría de Finanzas del Gobierno del Estado, dentro de los diez días posteriores a la presentación del dictamen.
 
 ## TITULO CUARTO. OBLIGACIONES Y FACULTADES DE LAS AUTORIDADES FISCALES
 
@@ -877,7 +943,11 @@ V Resolver las consultas que formulen los interesados sobre situaciones reales y
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-VI Publicar las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su cumplimiento por parte de los contribuyentes.
+VI Publicar las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su cumplimiento por parte de los contribuyentes;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+VII Dar a conocer en forma periódica, mediante publicación en el Periódico Oficial del Gobierno del Estado, reglas de carácter general y los criterios generales de las disposiciones fiscales.
 
 ###### ARTICULO 49.
 
@@ -993,21 +1063,35 @@ II Proceder a la verificación física, clasificación, valuación o comprobaci�
 
 III Requerir a los sujetos pasivos, responsables solidarios o terceros, para que exhiban o proporcionen en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, los datos, informes, declaraciones, manifestaciones y demás documentación necesaria para verificar el debido cumplimiento a las disposiciones fiscales;
 
-IV Recabar de los fedatarios y servidores públicos, los informes y datos que posean con motivo de sus funciones;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-V Practicar la verificación de lugares, bienes o mercancías en la forma y términos que determine la Secretaría de Finanzas del Gobierno del Estado, para el debido control de los gravámenes establecidos por las leyes fiscales; así como intervenir en los actos y eventos que prevengan las disposiciones fiscales;
+IV Revisar los dictamenes formulados por contadores públicos registrados, sobre las contribuciones estatales de los contribuyentes;
 
-En estos casos, el servidor público designado para ello, deberá estar expresamente facultado por escrito emitido por autoridad competente.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-VI Emplear, incluso simultáneamente, cualesquiera de los medios de apremio previstos en el artículo 55 de este Código, que juzgue eficaces para hacer cumplir sus determinaciones;
+V Recabar de los fedatarios y servidores públicos, los informes y datos que posean con motivo de sus funciones;
 
-VII Practicar u ordenar se practique avalúo o verificación física de toda clase de bienes, incluso durante su transporte; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-VIII Allegarse de las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva.
+VI Practicar la verificación de lugares, bienes o mercancías en la forma y términos que determine la Secretaría de Finanzas del Gobierno del Estado, para el debido control de los gravámenes establecidos por las leyes fiscales; así como intervenir en los actos y eventos que prevengan las disposiciones fiscales.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
+En estos casos, el servidor público designado para ello, deberá estar expresamente facultado por escrito emitido por autoridad competente;
 
-IX. Determinar a los sujetos obligados, responsables solidarios y demás obligados, las diferencias por errores aritméticos, las omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual requerirán al sujeto obligado la presentación de la documentación que proceda para la rectificación del error u omisión de que se trate.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+VII Emplear, incluso simultáneamente, cualquiera de los medios de apremio previstos en el artículo 55 de este Código, que juzgue eficaces para hacer cumplir sus determinaciones;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+VIII Practicar u ordenar se practique avalúo o verificación física de toda clase de bienes, incluso durante su transporte;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+IX Allegarse de las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva; y,
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+X Determinar a los sujetos obligados, responsables solidarios y demás obligados, las diferencias por errores aritméticos, las omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual requerirán al sujeto obligado la presentación de la documentación que proceda para la rectificación del error u omisión de que se trate.
 
 Las actuaciones que realice la Secretaría de Finanzas tendrán el valor probatorio que la ley les conceda, actuando como coadyuvante del Ministerio Público.
 
@@ -1015,9 +1099,11 @@ Las actuaciones que realice la Secretaría de Finanzas tendrán el valor probato
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 61.
 
-Para la comprobación de los ingresos totales o gravables de los sujetos pasivos u obligados, se presumirá, salvo prueba en contrario:
+Para la comprobación de la base gravable de los impuestos de los sujetos pasivos u obligados, se presumirá, salvo prueba en contrario:
 
 I Que la información contenida en libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del sujeto obligado o responsable, corresponden a operaciones realizadas por él, durante el período sujeto a revisión, aún cuando aparezcan sin su nombre o a nombre de otra persona;
 
@@ -1039,9 +1125,11 @@ V Que los depósitos en la cuenta bancaria del obligado o responsable, que no co
 
 VI Que las diferencias entre los activos registrados en contabilidad y las existencias reales, corresponden a ingresos gravables del último ejercicio que se revisa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 62.
 
-Las autoridades fiscales podrán estimar los ingresos gravables de los sujetos obligados, responsables o terceros, en cualesquiera de los siguientes casos:
+Las autoridades fiscales podrán estimar la base gravable de los impuestos de los sujetos obligados, responsables o terceros, en cualesquiera de los siguientes casos:
 
 I Cuando se resistan u obstaculicen por cualquier medio, la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o se nieguen a recibir la orden respectiva;
 
@@ -1165,9 +1253,9 @@ Las actas parciales forman parte integrante del acta final, aunque no se señale
 
 Cuando las autoridades fiscales soliciten de los sujetos obligados, responsables o terceros, informes, datos, libros, registros o documentos, o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación fuera de una visita domiciliaria, se estará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-I La solicitud se notificará en el domicilio manifestado ante las autoridades fiscales y en su defecto tratándose de personas físicas también podrá notificarse en su casa habitación, en el lugar donde estas realicen sus actividades o en el lugar en donde se encuentren. Si al presentarse en el lugar de que se trate, el servidor público que tenga a su cargo la notificación del requerimiento, no estuviere la persona a quien va dirigido o su representante legal, le dejará citatorio con quien se encuentre en dicho lugar, para que el sujeto obligado, por sí o por medio de su representante legal debidamente acreditado, lo esperen a hora determinada del día hábil siguiente para recibir el indicado requerimiento; si no lo hicieren, se notificará con quien se encuentre en el domicilio o lugar señalado en el propio documento.
+I La solicitud se notificará en el domicilio que corresponda conforme a las reglas establecidas en el artículo 18 de este Código. Si al presentarse en el lugar de que se trate, el servidor público que tenga a su cargo la notificación del requerimiento, no estuviere la persona a quien va dirigido o su representante legal, le dejará citatorio con quien se encuentre en dicho lugar, para que el sujeto obligado, por sí o por medio de su representante legal debidamente acreditado, lo esperen a hora determinada del día hábil siguiente para recibir el indicado requerimiento; si no lo hicieren, se notificará con quien se encuentre en el domicilio o lugar señalado en el propio documento.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -1229,6 +1317,10 @@ Cuando las autoridades no levanten el acta final de visita o no notifiquen el of
 
 Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 67 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales determinaran las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluya el plazo de 20 días a que se refiere la fracción IV del artículo 67 de este Código.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 68 A.- Las autoridades fiscales estatales deberán concluir anticipadamente las visitas en los domicilios fiscales que hayan ordenado, cuando el visitado se encuentre obligado a dictaminar sus contribuciones estatales por contador público registrado o cuando el contribuyente haya ejercido la opción a que se refiere el párrafo tercero del artículo 47 A de este Código. Lo dispuesto en este párrafo no será aplicable cuando, a juicio de las autoridades fiscales estatales, la información proporcionada en los términos del artículo 69 A, de este Código por el contador público que haya dictaminado, no sea suficiente para conocer la situación fiscal del contribuyente, cuando no presente dentro de los plazos que establece el artículo 69 C, la información o documentación solicitada, ni cuando en el dictamen exista abstención de opinión, opinión negativa o salvedades, que tengan implicaciones fiscales.
+
 > <small>(F. DE E., P.O. 4 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 69.
@@ -1244,6 +1336,66 @@ II Seis días contados a partir del siguiente a aquél en que se le notificó la
 III Quince días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, en los demás casos.
 
 Los plazos a que se refiere esta fracción se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar u obtener.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 69 A.- Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos registrados, sobre las contribuciones estatales de los contribuyentes o bien en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, siempre que se reúnan los siguientes requisitos:
+
+I Que el contador público que dictamine esté registrado ante la Secretaría de Finanzas del Gobierno del Estado para estos efectos, en los términos de las Reglas de Carácter General que emita dicha Secretaría. Este registro lo podrán obtener únicamente:
+
+a) Las personas de nacionalidad mexicana que tengan título de contador público registrado ante la Secretaría de Educación Pública y que sean miembros de un colegio de contadores reconocido por la citada Secretaría, cuando menos en los tres años previos a la presentación de la solicitud de registro correspondiente.
+
+II Que el dictamen se formule de acuerdo con las Reglas de Carácter General que emita la Secretaría de Finanzas del Gobierno del Estado y las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesionales del contador público, el trabajo que desempeña y la información que rinda como resultado del mismo.
+
+III Que el dictamen se presente a través de los medios electrónicos de conformidad con las Reglas de Carácter General que al efecto emita la Secretaría de Finanzas del Gobierno del Estado.
+
+Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos, se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de verificación fiscal y comprobación, respecto de los contribuyentes o responsables solidarios.
+
+Cuando el contador público no dé cumplimiento a las disposiciones referidas en este artículo, o no aplique las normas y procedimientos de auditoría, la autoridad fiscal, previa audiencia, oirá las razones y defensas del contador público y en el caso que proceda conforme a pruebas debidamente calificadas, exhortará o amonestará al contador público registrado, o suspenderá hasta por dos años los efectos de su registro, conforme a las Reglas de Carácter General que emita la Secretaría de Finanzas del Gobierno del Estado. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal, o no exhiba a requerimiento de autoridad, los papeles de trabajo que elaboró con motivo de la auditoría practicada a los documentos correspondientes del contribuyente para efectos fiscales, se procederá a la cancelación definitiva de dicho registro.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 69 B.- Cuando las autoridades fiscales, en el ejercicio de sus facultades de comprobación, revisen el dictamen y demás información a que se refiere este artículo y las Reglas de Carácter General que emita la Secretaría de Finanzas del Gobierno del Estado, estarán a lo siguiente:
+
+I Primeramente se requerirá al contador público que haya formulado el dictamen lo siguiente:
+
+a) Cualquier información que conforme a este Código y las Reglas de Carácter General que emita la Secretaría de Finanzas del Gobierno del Estado, debiera estar incluida en la documentación correspondiente dictaminada para efectos fiscales.
+
+b) La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada, los cuales, en todo caso, se entiende que son propiedad del contador público.
+
+c) La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales estatales del contribuyente.
+
+La revisión a que se refiere esta fracción se llevará a cabo con el contador público que haya formulado el dictamen. Esta revisión no deberá exceder de un plazo de doce meses, contados a partir de que se notifique al contador público la solicitud de información.
+
+Cuando la autoridad, dentro del plazo mencionado, no requiera directamente al contribuyente la información a que se refiere el inciso c) de esta fracción o no ejerza directamente con el contribuyente las facultades a que se refiere la fracción II del presente artículo, no podrá volver a revisar el mismo dictamen, salvo cuando se revisen hechos diferentes de los ya revisados.
+
+II Habiéndose requerido al contador público que haya formulado el dictamen la información y los documentos a que se refiere la fracción anterior, después de haberlos recibido o si éstos no fueran suficientes a juicio de las autoridades fiscales estatales para conocer la situación fiscal del contribuyente, o si éstos no se presentan dentro de los plazos que establece el artículo 69 C de este Código, o dicha información y documentos son incompletos, las citadas autoridades podrán, a su juicio, ejercer directamente con el contribuyente sus facultades de comprobación.
+
+III Las autoridades fiscales estatales podrán, en cualquier tiempo, solicitar a los terceros relacionados con el contribuyente o responsables solidarios, la información y documentación para verificar si son ciertos los datos consignados en el dictamen y en los demás documentos, en cuyo caso, la solicitud respectiva se hará por escrito, notificando copia de la misma al contribuyente.
+
+La visita domiciliaria o el requerimiento de información que se realice a un contribuyente que dictamine sus contribuciones estatales en los términos de este Código, cuyo único propósito sea el obtener información relacionada con un tercero, no se considerará revisión de dictamen.
+
+El plazo a que se refiere el segundo párrafo de la fracción I de este artículo, es independiente del que se establece en el artículo 68 de este Código.
+
+Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el último párrafo del artículo 60 de este Código.
+
+Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando:
+
+1.- En el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales;
+
+2.- En el caso de que se determinen diferencias de contribuciones a pagar y éstas no se enteren de conformidad con lo dispuesto en el último párrafo del artículo 47 A de este Código;
+
+3.- El dictamen no surta efectos fiscales;
+
+4.- El contador público que formule el dictamen no esté autorizado o su registro esté suspendido o cancelado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 69 C.- Cuando las autoridades fiscales estatales revisen el dictamen y demás información a que se refiere el artículo 69 A de este Código, y soliciten al contador público registrado que lo hubiera formulado información o documentación, la misma se deberá presentar en los siguientes plazos:
+
+I Seis días, tratándose de papeles de trabajo elaborados con motivo del dictamen realizado. Cuando el contador público registrado tenga su domicilio fuera de la localidad en que se ubica la autoridad solicitante, el plazo será de quince días; y
+
+II Quince días, tratándose de otra documentación o información relacionada con el dictamen, que esté en poder del contribuyente.
 
 ###### ARTICULO 70.
 
@@ -1397,13 +1549,13 @@ V Proporcionar a las autoridades correspondientes, datos falsos, dará lugar a u
 
 Son infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de manifestaciones o con la expedición de documentos con datos incompletos o con errores, las que a continuación se indican, por las cuales se impondrán las sanciones que se señalan:
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004) (F. DE E., P.O. 22 DE ENERO DE 2005)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-I. No presentar los avisos, declaraciones, manifestaciones, contratos, solicitudes, datos, informes, copias o documentos en los plazos que exijan las disposiciones fiscales, dará lugar a la imposición de multa por el equivalente de 100 a 150 veces el salario mínimo.
+I No presentar los avisos, declaraciones, manifestaciones, contratos, solicitudes, datos, informes, copias o documentos en los plazos que exijan las disposiciones fiscales, dará lugar a la imposición de multa por el equivalente de 50 a 100 veces el salario mínimo.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-II. No presentar o hacerlo fuera del plazo señalado en el requerimiento de la autoridad fiscal, los avisos, declaraciones, manifestaciones, contratos, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, dará lugar a la imposición de las siguientes multas:
+II No presentar o hacerlo fuera del plazo señalado en el requerimiento de la autoridad fiscal, los avisos, declaraciones, manifestaciones, contratos, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, dará lugar a la imposición de las siguientes multas:
 
 a) De 20 a 50 veces el salario mínimo, para el primer requerimiento;
 
@@ -1413,7 +1565,7 @@ c) De 101 a 150 veces el salario mínimo, para el tercer requerimiento.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-III. Por no expedir la documentación a que están obligados, con los requisitos previstos por las disposiciones fiscales, o expedirla con errores o incompleta, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo.
+III Por no expedir la documentación a que están obligados, con los requisitos previstos por las disposiciones fiscales, o expedirla con errores o incompleta, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo.
 
 ###### ARTICULO 82.
 
@@ -1433,11 +1585,15 @@ III Llevar la contabilidad en forma distinta a como las disposiciones de este C�
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IV No hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo; y,
+IV No hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo; y (sic),
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-V No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo.
+V No dictaminar el cumplimiento de sus obligaciones fiscales en los casos y de conformidad con lo previsto en el artículo 47 A de este Código, o no presentar dicho dictamen dentro del término previsto por las leyes fiscales, dará lugar a una multa equivalente de 100 a 200 veces el salario mínimo;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+VI No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales, dará lugar a una multa equivalente de 80 a 100 veces el salario mínimo.
 
 ###### ARTICULO 83.
 
@@ -1450,6 +1606,32 @@ I Oponerse por cualquier medio a que se practiquen las visitas de inspección, d
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 II No conservar la contabilidad o parte de ella, así como los documentos y correspondencia que les sean dejados en calidad de depósito por los visitadores, al estarse practicando visitas de inspección, intervención o auditoría, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 83 A.- Son infracciones relacionadas con el dictamen sobre el cumplimiento de las obligaciones fiscales de los contribuyentes que deben elaborar los contadores públicos de conformidad con el artículo 69 A de este Código, que el contador público que dictamina no observe la omisión de contribuciones retenidas o propias del contribuyente, cuando dichas omisiones se vinculen al incumplimiento de las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesionales del contador público, el trabajo que desempeña y la información que rinda como resultado de los mismos, y siempre que la omisión de contribuciones sea determinada por las autoridades fiscales en ejercicio de sus facultades de comprobación, mediante resolución que haya quedado firme.
+
+No se incurrirá en la infracción a que se refiere el párrafo anterior, cuando la omisión determinada no supere el 20% de las contribuciones retenidas, o el 30%, tratándose de las contribuciones propias del sujeto obligado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 83 B.- Al contador público que cometa las infracciones a que se refiere el artículo 83 A de este Código, se le aplicará una multa del 10% al 20% de las contribuciones omitidas a que se refiere el citado precepto, sin que dicha multa exceda del doble de los honorarios cobrados por la elaboración del dictamen.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 83 C.- Son infracciones cuya responsabilidad recae sobre terceros las que a continuación se señalan, por las que se impondrá las sanciones que se indican:
+
+I Asesorar, aconsejar o prestar servicios para omitir el pago de una contribución en contravención a las disposiciones fiscales, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo; y,
+
+II Colaborar en la alteración o la inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo.
+
+No se incurrirá en la infracción a que se refiere la fracción I de este artículo, cuando se manifieste en la opinión que se otorgue por escrito, que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos de la fracción VII del artículo 48 de este Código, o bien manifiesten también por escrito al contribuyente que su asesoría puede ser contraria a la interpretación de las autoridades fiscales estatales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 83 D.- Es infracción de los contadores, abogados o cualquier otro asesor en materia fiscal, no advertir a los destinatarios de la opinión que otorgue por escrito, si el criterio contenido en la misma es diverso a los criterios que en su caso hubiere dado a conocer la autoridad fiscal conforme a la fracción VII del artículo 48 de este Código.
+
+La infracción prevista en el párrafo anterior dará lugar a una multa por el equivalente de 100 a 200 veces el salario mínimo.
 
 ###### ARTICULO 84.
 
@@ -2686,3 +2868,9 @@ CUARTO.- La Secretaría de Finanzas contará con un plazo de hasta 180 días con
 P.O. 5 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Finanzas del Gobierno del Estado para la aplicación de los artículos 13 A, 26, 46 A, 46 B, 47 A y 69 A del Código Fiscal para el Estado de Oaxaca, publicará las Reglas de Carácter General a más tardar el 28 de febrero de 2008.
