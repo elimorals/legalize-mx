@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2007-10-13"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -1809,7 +1809,7 @@ VII. La existencia de procesos pendientes, condenas anteriores cuyo cumplimiento
 
 B) Para decidir acerca del peligro de obstaculización de la investigación o del proceso, se tendrá en cuenta, entre otras circunstancias, que existan bases suficientes para estimar como probable que el imputado:
 
-l. Destruirá, modificará, ocultará o falsificará elementos de prueba; o
+I. Destruirá, modificará, ocultará o falsificará elementos de prueba; o
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -1822,6 +1822,10 @@ II. Si es razonable entender que tratará de influir en lo que declararán algun
 Prisión preventiva.
 
 Además de las circunstancias generales exigibles para la imposición de las medidas cautelares personales, la prisión preventiva sólo es aplicable cuando no pueda evitarse razonablemente la sustracción a la acción de la justicia del imputado, la obstaculización de la investigación o del proceso, el riesgo para la víctima y ofendido o que incurra en una conducta delictiva similar a la que se le atribuye, mediante la imposición de una o varias de aquellas que resulten menos gravosas para el imputado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+En todos los casos, se considerará que hay necesidad de imponer la presente medida cautelar, por la importancia del daño a resarcir y la magnitud de las penas o medidas de seguridad que pudieran corresponder al imputado, en los términos de las fracciones II y IV, inciso A) del Artículo 172 del referido Código Procesal, cuando se trate de los siguientes delitos: homicidio simple y calificado, secuestro, desaparición forzada de personas, tortura, violación, trata de personas, robo previsto en la fracción II del Artículo 212 y el robo de vehículos a que se refieren la fracción IX del Artículo 211 y la fracción III del Artículo 212, todos del Código Penal del Estado de Chihuahua; por lo que habrá lugar a la prisión preventiva del imputado por el peligro de sustracción a la acción de la justicia.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -4428,6 +4432,12 @@ P.O. 9 DE JUNIO DE 2007.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 13 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
