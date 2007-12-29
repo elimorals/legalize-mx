@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2007-09-11"
+last_updated: "2007-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -386,6 +386,10 @@ La partida prevista para el proceso de entrega-recepción deberá cumplir en for
 Artículo 41 bis.- El Clasificador por Objeto del Gasto es el instrumento que contiene el listado que ordena e identifica en forma genérica, homogénea y coherente, los capítulos de gasto, conceptos y partidas de la demanda gubernamental de los recursos humanos, materiales, tecnológicos y financieros.
 
 Corresponde a la Secretaría de Finanzas emitir el Clasificador por Objeto del Gasto para cada ejercicio fiscal, así como sus modificaciones.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Corresponde a la Comisión de Administración del Congreso del Estado emitir el clasificador por objeto de gasto del Poder Legislativo.
 
 ### Capítulo V. De la Iniciativa, Aprobación y Reformas al Presupuesto
 
@@ -853,6 +857,8 @@ Quienes realicen gastos públicos estarán obligados a proporcionar al Congreso 
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
+Artículo 104 bis.- Los Poderes del Estado, Organismos Constitucionales, Autónomos y sus dependencias y entidades deben publicar a través de los medios oficiales de divulgación la información a que se refiere este título.
+
 ###### Artículo 104 Bis.
 
 Los Poderes del Estado, Organismos Constitucionales, Autónomos y sus dependencias y entidades deben publicar a través de los medios oficiales de divulgación la información a que se refiere este título.
@@ -1022,3 +1028,7 @@ P.O. 18 DE JULIO DE 2006.
 P.O. 11 DE SEPTIEMBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
