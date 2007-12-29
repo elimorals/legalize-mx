@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2007-11-28"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -107,6 +107,10 @@ Es objeto de este impuesto la transmisión de la propiedad por cualquier título
 
 Cuando parte de la operación se encuentre gravada por el Impuesto al Valor Agregado, será objeto de este impuesto la parte no gravada por el impuesto señalado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Cuando no se consigne en la factura el valor de mercado de las unidades, para el cobro de este impuesto, la base se determinará con apego a lo dispuesto por el artículo 7 de esta Ley.
+
 DEL SUJETO
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
@@ -137,11 +141,11 @@ V. Tratándose de otros bienes muebles distintos a los señalados en las fraccio
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 8.
 
-Este impuesto se determinará aplicando a la base gravable, la tasa del 1.60%. En ningún caso el impuesto determinado será menor a 1 cuota.
+Este impuesto se determinará aplicando a la base gravable, la tasa del 1.50%. En ningún caso el impuesto determinado será menor a 1 cuota.
 
 DEL PAGO
 
@@ -555,6 +559,8 @@ Las certificaciones que soliciten las autoridades para surtir efectos probatorio
 
 ### CAPITULO III. SERVICIOS DE LA SECRETARÍA DE FINANZAS
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 46.
 
 Los servicios que preste la Secretaría General de Gobierno por concepto de:
@@ -563,15 +569,29 @@ Los servicios que preste la Secretaría General de Gobierno por concepto de:
 
 I. Expedición de certificados de: Salario Mínimo
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
 a). Remisión parcial de la pena 4 cuotas;
 
-b). Libertad condicional 3 cuotas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+b) Libertad condicional 6 cuotas;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 c). Indulto 12 cuotas;
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
 d). Preliberaciones 3 cuotas
 
-e) Constancias y certificaciones 1 cuota
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+e) Constancias de readaptación y certificaciones
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+f) Prelibertad 2 cuotas
 
 II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2004)
 
@@ -595,9 +615,9 @@ I. La Dirección de Fraccionamientos:
 
 a) Expedición de Título 7 cuotas
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-b) Constancia para Procampo 0 cuotas
+b) Constancia para Procampo 1 cuota;
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -615,23 +635,23 @@ e) Adjudicaciones 6 6% avalúo catastral
 
 f) Copia certificada del título 5 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-g) Copia simple año 2006 Primera $3.95
+g) Copia simple año 2007. Primera $ 4.10;
 
-siguiente $ 2.13
+Siguiente 2.21;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-h) Copia simple año 2005 Primera $5.92
+h) Copia simple año 2006. Primera $ 6.16;
 
-siguiente $ 2.13
+Siguiente 2.21;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-i) Copia simple año 2004 y anteriores Primera $ 7.48
+i) Copia simple año 2005 y anteriores. Primera $ 7.78;
 
-siguiente $ 2.13
+Siguiente 2.21;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -641,7 +661,11 @@ j) Copia simple de título 3 cuotas
 
 k) Trámite por cambio de uso de suelo
 
-(No incluye derechos por la adjudicación correspondiente al incremento en el valor de la superficie que modifique su uso) 7 cuotas
+(No incluye derechos por la adjudicación
+
+correspondiente al incremento en el valor
+
+de la superficie que modifique su uso) 7 cuotas
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -655,13 +679,13 @@ m) Inspección física u ocular 10 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-n) Trámite relativo a la reproducción en copia heliográfica de plano general y/o fraccionamiento 18 cuotas
+n) Trámite relativo a la reproducción en copia
+
+heliográfica de plano general y/o fraccionamiento 18 cuotas
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-o) Diligencias de apeo o deslinde (levantamiento topográfico
-
-de predios rústicos
+o) Diligencias de apeo o deslinde (levantamiento topográfico de predios rústicos
 
 TERRENO DERRENO TERRENO
 
@@ -709,6 +733,20 @@ p) Por registro de disposición testamentaria 2 cuotas
 
 q) Trámite por cambio de régimen de propiedad 15 cuotas
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+r) Escrito de desistimiento y/o adjudicación. 2 cuotas;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+s) Escrito de denuncia de juicio sucesorio. 3 cuotas;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+t) Escrito de adjudicación previa declaración
+
+de vacancia. 2 cuotas;
+
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
 II. La Dirección del Registro Civil:
@@ -733,7 +771,9 @@ Por acta adicional 1.5 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-d) Trámite administrativo de aclaración de acta de registro civil 2 cuotas
+d) Trámite administrativo de aclaración de acta
+
+de registro civil 2 cuotas
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -759,23 +799,23 @@ Protocolo abierto 5 cuotas por libro
 
 c) Expedición de copia certificada 1 cuota por hoja
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-d) Copia simple año 2006 Primera $3.95
+d) Copia simple año 2007. Primera $ 4.10;
 
-Siguiente $ 2.13
+Siguiente 2.21;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-e) Copia simple año 2005 Primera $ 5.92
+e) Copia simple año 2006. Primera $ 6.16;
 
-Siguiente $ 2.13
+Siguiente 2.21;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-f) Copia simple año 2004 y anteriores Primera $ 7.48
+f) Copia simple año 2005 y anteriores. Primera $ 7.78;
 
-Siguiente $ 2.13
+Siguiente $ 2.21;
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -797,51 +837,93 @@ e) Apostilla de documentos 4 cuotas
 
 ###### ARTICULO 47.
 
-Tratándose de expedición de licencias, cambios de domicilio y cambios de giro a que se refiere la Ley sobre el Funcionamiento y Operación de Establecimientos Destinados al Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas, los rendimientos de este derecho los percibirá íntegramente, el Municipio en que se generen. Se tasarán de acuerdo con las siguientes cuotas y al grupo al que pertenezca el municipio de la ubicación del establecimiento:
+Para el pago de los derechos que se originen con la aplicación de la Ley sobre Bebidas Alcohólicas para el Estado de Zacatecas, los municipios de la Entidad quedarán integrados en tres regiones.
 
-Grupo A: Calera, Río Grande, Jerez, Guadalupe, Fresnillo, Zacatecas, Juchipila, Tlaltenango de Sánchez Román, Jalpa, Ojocaliente, Nochistlán de Mejía, Loreto y Sombrerete.
+I.- Grupo A: Calera, Río Grande, Jerez, Guadalupe, Fresnillo, Zacatecas, Juchipila, Tlaltenango de Sánchez Román, Jalpa, Ojocaliente, Nochistlán de Mejía, Loreto y
+
+Sombrerete.
 
 Grupo B: Villanueva, Valparaíso, Miguel Auza, Juan Aldama, Villa de Cos, Tabasco, Apozol, Tepechitlán, Tepetongo, Saín Alto, Luis Moya y Morelos.
 
-Grupo C: Pánuco, Mezquital del Oro, Vetagrande, Apulco, Jiménez del Téul, Momax, Atolinga, Huanusco, Benito Juárez, Moyahua de Estrada, General Enrique Estrada, Teúl de González Ortega, Monte Escobedo, Chalchihuites, General Francisco R. Murguía, Cuauhtémoc, Cañitas de Felipe Pescador, Concepción del Oro, Villa García, Villa González Ortega, General Pánfilo Natera, Pinos, Villa Hidalgo, Trinidad García de la Cadena, El Salvador, Noria de Angeles, Susticacán, Mazapil, General Joaquín Amaro, Melchor Ocampo, Genaro Codina y Trancoso.
+Grupo C: Pánuco, Mezquital del Oro, Vetagrande, Apulco, Jiménez del Téul, Momax, Atolinga, Huanusco, Benito Juárez, Moyahua de Estrada, General Enrique Estrada, Teúl de González Ortega, Monte Escobedo, Chalchihuites, General Francisco R. Murguía, Cuauhtémoc, Cañitas de Felipe Pescador, Concepción del Oro, Villa García, Villa González Ortega, General Pánfilo Natera, Pinos, Villa Hidalgo, Trinidad García de la Cadena, El Salvador, Noria de Angeles, Susticacán, Mazapil, General Joaquín Amaro, Melchor Ocampo, Genaro Codina, Trancoso y Santa María de la Paz.
 
-Tratándose de bebidas alcohólicas cuya graduación sea superior a 10º G.L:
+II.- Las verificaciones a los establecimientos que lleve a cabo el Estado, se causarán de acuerdo al grupo al que pertenezca el municipio donde se ubique el domicilio del establecimiento, de acuerdo a las siguientes cuotas:
 
 Grupo A B C
 
-Expedición de licencia 1512 cuotas 1131 cuotas 761 cuotas
+5 cuotas 4 cuotas 3 cuotas
+
+III.- La anuencia que expida el Estado se tasara de acuerdo a las siguientes cuotas:
+
+Grupo A B C
+
+7 cuotas 6 cuotas 5 cuotas
+
+IV.- Los derechos relativos a las licencias originarán el pago de las siguientes cuotas:
+
+Grupo A B C
+
+Expedición
+
+de licencia 1512 cuotas 1131 cuotas 761 cuotas
 
 Renovación 85 cuotas 59 cuotas 39 cuotas
 
 Transferencia 208 cuotas 130 cuotas 52 cuotas
 
-Cambio de giro 208 cuotas 130 cuotas 52 cuotas
+Cambio de
 
-Cambio de domicilio 208 cuotas 130 cuotas 52 cuotas
+giro 208 cuotas 130 cuotas 52 cuotas
 
-Permiso eventual 20 cuotas más 7 cuotas por cada día.
+Cambio de
 
-Tratándose de alcohol etílico:
+Domicilio 208 cuotas 130 cuotas 52 cuotas
+
+Los Permisos Eventuales en los tres grupos tendrán un costo de 20 cuotas, más 7 cuotas por cada día.
+
+A) Tratándose de Centro Nocturno o Cabaret
 
 Grupo A B C
 
-Expedición de licencia 761 cuotas 566 cuotas 371 cuotas
+Expedición
+
+de licencia 2000 cuotas 1500 cuotas 1005 cuotas
+
+Renovación 112 cuotas 78 cuotas 51 cuotas
+
+Transferencia 275 cuotas 172 cuotas 69 cuotas
+
+Cambio de giro 275 cuotas 172 cuotas 69 cuotas
+
+Cambio de
+
+Domicilio 275 cuotas 172 cuotas 69 cuotas
+
+B).- Del alcohol etílico:
+
+Grupo A B C
+
+Expedición 761 cuotas 566 cuotas 371 cuotas
+
+de licencia
 
 Renovación 85 cuotas 59 cuotas 39 cuotas
 
 Transferencia 117 cuotas 78 cuotas 39 cuotas
 
-Cambio de giro 117 cuotas 78 cuotas 39 cuotas
+Cambio de
 
-Cambio de domicilio 117 cuotas 78 cuotas 39 cuotas
+Giro 117 cuotas 78 cuotas 39 cuotas
 
-Permiso eventual 20 cuotas más 1 cuota por cada día.
+Cambio de
 
-Tratándose de venta única de cerveza y/o bebidas refrescantes, cuya graduación no exceda de 10º G.L.:
+Domicilio 117 cuotas 78 cuotas 39 cuotas
+
+C).- Tratándose de venta única de cerveza y/o bebidas refrescantes, cuya graduación no exceda de 10° G.L.:
 
 Grupo A, B, C
 
-Expedición de licencia 39 cuotas
+Expedición de licencias 39 cuotas
 
 Renovación 26 cuotas
 
@@ -851,15 +933,35 @@ Cambio de giro 39 cuotas
 
 Cambio de domicilio 13 cuotas
 
-Permiso eventual 13 cuotas
+Los Permisos Eventuales en los tres grupos tendrán un costo de 13 cuotas, más 1 cuota por cada día adicional.
 
-más 1 cuota por cada día.
+V.- Los derechos a que se refiere este artículo, cuando se aludan a establecimientos o locales en los que se expendan bebidas alcohólicas para su consumo dentro de los mismos, se incrementará un 10%.
 
-Por la expedición de copias de documentos que obren en los archivos:
+VI.- De los permisos eventuales en el marco de la celebración de la Feria Nacional de Zacatecas, a que se refiere el artículo 30 de la Ley sobre Bebidas Alcohólicas para el Estado, ocasionarán las siguientes cuotas:
 
-Por cada foja: 1 cuota;
+Cantina o Bar 200 cuotas
 
-Los derechos a que se refiere este artículo, cuando sean tramitados por contribuyentes con establecimientos o locales en los que se expendan bebidas alcohólicas para su consumo dentro de los mismos, se incrementarán en un 10%.
+Centro Nocturno 300 cuotas
+
+Cervecería 200 cuotas
+
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2008)</small>
+
+Centro Botanero 300 cuotas
+
+Merendero 300 cuotas
+
+Discoteca 1000 cuotas
+
+Restaurante 500 cuotas
+
+Salón o Finca para Baile 300 cuotas
+
+Cenaduría 100 cuotas
+
+Deposito 200 cuotas
+
+Licorería 200 cuotas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -867,9 +969,9 @@ Los derechos a que se refiere este artículo, cuando sean tramitados por contrib
 
 Los servicios que presten por concepto de:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-I. En los casos de registro y expedición de placas tratándose de vehículos nuevos o de aquellos que no requieran canje; o cuando se autorice por parte de la Legislatura del Estado el canje parcial de placas para el parque vehicular de esta Entidad, conforme a lo establecido por la Norma Oficial Mexicana que para tal efecto publica la Secretaría de Comunicaciones y Transportes y que obliga a cambiar placas en un periodo no mayor a tres años, el registro y expedición de las mismas, incluyendo calcomanías y tarjeta de circulación con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del año al que corresponda el pago, de la siguiente manera:
+I. En los casos de registro y expedición de placas tratándose de vehículos nuevos o de aquellos que se den de alta por primera vez en la entidad; o cuando se autorice por parte de la Legislatura del Estado el canje total de placas para el parque vehicular de esta Entidad, conforme a lo establecido por el Acuerdo emitido por la Secretaría de Comunicaciones y Transportes, en fecha 25 de septiembre de 2000 y que obliga a cambiar de placas en un periodo no mayor de tres años, el registro y expedición de las mismas, incluyendo calcomanía y tarjeta de circulación con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del año al que corresponda el pago, de la siguiente manera:
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -902,6 +1004,10 @@ III. Reposición de tarjeta de circulación: 1 cuota;
 IV. La verificación que se realice de documentación con otras entidades, respecto de vehículos que soliciten emplacamiento en el Estado; 4 cuotas;
 
 V. Baja de Placas 1 cuota;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Para aceptar el trámite de baja, una vez iniciado el ejercicio fiscal, deberán estar cubiertos los impuestos tanto federales como estatales por tenencia o uso de vehículos y los derechos de refrendo de tarjeta de circulación, del ejercicio en que se solicite la baja respectiva.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -1217,25 +1323,41 @@ II. Inscripción de documentos relativos a bienes inmuebles:
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
 
-a) Tratándose de inmuebles con valor de hasta siete veces el
+a) Tratándose de inmuebles con valor de hasta siete
 
-salario mínimo vigente elevado al año, se cubrirá la tarifa
+veces el salario mínimo vigente elevado al año, se
 
-mínima general por inmueble equivalente a: 12 cuotas
+cubrirá la tarifa mínima general por inmueble
+
+equivalente a: 12 cuotas
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
 
-b) Tratándose de inmuebles cuyo valor se sitúe entre las 7.0 y
+b) Tratándose de inmuebles cuyo valor se sitúe
 
-14.0 veces el salario mínimo vigente elevado al año se
+entre las 7.0 y 14.0 veces el salario mínimo
 
-cubrirá la tarifa base por inmueble de: 30 cuotas
+vigente elevado al año se cubrirá la tarifa base
+
+por inmueble de: 30 cuotas
 
 Para inscripciones cuyo monto rebase el rango de valor establecido en el inciso anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
 En ningún caso, los derechos por inscripción de documentos relativos a bienes inmuebles, excederán el equivalente de 500 cuotas para cada predio en particular.
 
 La base gravable será el valor que resulte mayor entre el avalúo practicado por la Dirección de Catastro y Registro Público, el inserto en el documento o el avalúo bancario.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Registro de instrumentos notariales celebrados
+
+ante fedatarios públicos de otras entidades
+
+federativas, con consecuencias jurídicas en el
+
+Estado, adicionalmente al monto de derechos
+
+que cause el acto, 25 cuotas
 
 En el supuesto de que la operación se realice sólo respecto al suelo y en el mismo existan edificaciones o plantaciones, se tasará sobre el valor total del bien en razón de la plusvalía que adquiere el predio por las edificaciones y plantaciones.
 
@@ -1283,11 +1405,23 @@ III. Diligencias de apeo y deslinde: 4 cuotas;
 
 IV. Capitulaciones matrimoniales: 4 cuotas;
 
-V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: 4 cuotas;
+V. En la inscripción del régimen de propiedad
 
-VI. Fusión de predios, por cada uno de los predios fusionados: 2 cuotas;
+en condominio, por cada departamento,
 
-VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: 2 cuotas;
+despacho, vivienda, local, cajón de estacionamiento
+
+o cualquier otro tipo de unidades privativas: 4 cuotas;
+
+VI. Fusión de predios, por cada uno de los predios
+
+fusionados: 2 cuotas;
+
+VII. Actos, contratos, convenios o autorizaciones
+
+por los que se fraccione, lotifique o subdivida un
+
+predio, por cada lote o fracción: 2 cuotas;
 
 VIII. Por la inscripción o anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al .40% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se pagará la cantidad de:
 
@@ -1335,7 +1469,9 @@ Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dent
 
 En materia de crédito para adquisición de vivienda el registro del contrato de hipoteca y crédito simple, se tasará al .125% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
-XIII. Inscripción de documentos que contengan los siguientes actos: 10 cuotas
+XIII. Inscripción de documentos que contengan los
+
+siguientes actos: 10 cuotas
 
 a) Testamento.
 
@@ -1365,7 +1501,13 @@ d) Compraventa con reserva de dominio se tasará sobre el valor inserto en el do
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-XV. Registro de personas morales o aumento de su capital social, .30% sobre el monto de capital social o sus aumentos, en los casos que dicho capital no exceda de $185,000.00 se pagará 12 cuotas
+XV. Registro de personas morales o aumento de
+
+su capital social, .30% sobre el monto de capital
+
+social o sus aumentos, en los casos que dicho
+
+capital no exceda de $185,000.00 se pagará 12 cuotas
 
 XVI. Registro de documentos que contengan los siguientes actos:
 
@@ -1697,21 +1839,23 @@ a) Primaria $ 15.00;
 
 b) Secundaria por grado $ 30.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-c) Tipo medio superior 6 cuotas
+c) Tipo medio superior 4 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-d) Tipo superior 16 cuotas
+d) Tipo superior 14 cuotas;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinaria, por cada una: $ 7.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-IX. Expedición de copias certificadas de documentos, por cada foja carta u oficio: $ 10.00;
+IX. Expedición de copias certificadas de documentos,
+
+por cada foja tamaño carta u oficio: $ 12.00;
 
 X. Reposición de certificados:
 
@@ -1785,13 +1929,13 @@ XVIII. Equivalencia de estudios:
 
 a) Secundaria, por grado $ 30.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-b) Tipo medio superior 6 cuotas
+b) Tipo Medio Superior 4 cuotas;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-c) Tipo superior 16 cuotas
+c) Tipo Superior 14 cuotas;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2105,43 +2249,61 @@ Salarios Mínimos
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-I. Reproducción de material didáctico, ecológico y ambiental $ 1.30 por foja;
+I. Reproducción de material didáctico,
+
+ecológico y ambiental $ 1.30 por foja;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-II. Reproducción de material informático ecológico y ambiental en disco flexible $12.70 c/u;
+II. Reproducción de material informático
+
+ecológico y ambiental en disco flexible $12.70 c/u;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-III. Reproducción de material con información ecológico-ambiental en disco compacto 2.5 cuotas c/u;
+III. Reproducción de material con información
+
+ecológico-ambiental en disco compacto 2.5 cuotas c/u;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-IV. Información de planos con información ecológico-ambiental 6 cuotas c/u;
+IV. Información de planos con información
+
+ecológico-ambiental 6 cuotas c/u;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-V. Reproducción de planos con información ecológico-ambiental 2.5 cuotas c/u;
+V. Reproducción de planos con información
+
+ecológico-ambiental 2.5 cuotas c/u;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-VI. Asesoría y capacitación en materias de ecología y medio ambiente, por cada hora 8 cuotas;
+VI. Asesoría y capacitación en materias de
+
+ecología y medio ambiente, por cada hora 8 cuotas;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-VII. Registro en el Padrón de Prestadores de Servicio Ecológico y ambiental 42 cuotas;
+VII. Registro en el Padrón de Prestadores de
+
+Servicio Ecológico y ambiental 42 cuotas;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-VIII. Reproducción en plotter 4 cuotas.
+VIII. Reproducción en plotter 4 cuotas;
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-IX. Autorización por simulacro de incendio 5 cuotas.
+IX. Autorización por simulacro de incendio 5 cuotas;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-X. Verificación vehicular. 3 cuotas.
+X. Verificación vehicular 3 cuotas;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XI. Trámite de certificación ambiental 20 cuotas.
 
 ### CAPÍTULO ÚNICO
 
@@ -2406,3 +2568,13 @@ P.O. 28 DE NOVIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el ejercicio fiscal 2008, se exime del pago del derecho contenido en el artículo 49 de la Ley de Hacienda del Estado de Zacatecas, a los sujetos obligados a cubrir el referido derecho.
