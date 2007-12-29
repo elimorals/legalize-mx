@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-tecoman-colima-26794"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-10-06"
+last_updated: "2007-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -521,6 +521,8 @@ Es base para el pago de este impuesto, el ingreso total que se obtenga de las ac
 
 Este impuesto se causará y pagará de conformidad a lo siguiente:
 
+I.- Los giros que a continuación se mencionan, se gravarán según el monto de sus ingresos por concepto de admisiones, en los porcentajes indicados en cada uno:
+
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 47.
@@ -775,23 +777,73 @@ Los derechos por servicios que preste el catastro municipal se causarán y pagar
 
 (VEASE ARCHIVO ANEXO)
 
-C) ECOLOGÍA
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 84.
+C) PROTECCION CIVIL
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 84.
+
+Los derechos por servicios que presten la unidad de protección civil se causarán y pagarán conforme a la siguiente tarifa:
+
+I. Por el registro:
+
+a). Por el registro de siniestralidad en establecimientos comerciales, industriales y de servicios, con clasificación de riesgo:
+
+1.- Alta
+
+A) Nivel 1 8.00
+
+B) Nivel 2 10.00
+
+C) Nivel 3 15.00
+
+2.- Media
+
+A) Nivel 1 3.50
+
+B) Nivel 2 5.00
+
+C) Nivel 3 7.00
+
+3.- Baja
+
+A) Nivel 1 0.50
+
+B) Nivel 2 2.00
+
+C) Nivel 3 3.00
+
+Para fijar la tarifa se deberán considerar las condiciones económicas del negocio, número de empleados y su nivel de inversión.
+
+En caso de ser necesario, la unidad de protección civil municipal emitirá su opinión.
+
+El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+D) ECOLOGIA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 84 Bis.
 
 Los montos establecidos para que la dependencia municipal competente otorgue las siguientes autorizaciones, certificaciones y permisos, son:
 
 I.- Por el dictamen del informe de factibilidad ambiental para:
 
-a) Obras o actividades con inversión
+a) Obras o actividades con inversión menor de
 
-menor de 650.00 unidades de salario 0.00
+650.00 unidades de salario 0.00
 
-b) Obras o actividades con inversión mayor de 650.00 unidades de salario
+b) Obras o actividades con inversión mayor de
+
+650.00 unidades de salario
 
 1.- Por la recepción y evaluación 20.00
 
-2.- Por el otorgamiento del dictamen 10.00
+2. Por el otorgamiento del dictamen 10.00
 
 3.- Por la revalidación del dictamen 10.00
 
@@ -807,7 +859,7 @@ III.- Por el dictamen de la manifestación de impacto ambiental MIA 2:
 
 a) Por la recepción y evaluación 80.00
 
-b) Por la (sic) otorgamiento del dictamen 40.00
+b) Por la otorgamiento del dictamen 40.00
 
 c) Por la revalidación del dictamen 30.00
 
@@ -819,33 +871,33 @@ a) Especies comerciales (frutales y de ornato) o industriales:
 
 2.- Por derribo:
 
-Árboles hasta 30 cms, de diámetro
+-Árboles hasta 30 cms. de diámetro de fuste
 
-de fuste principal 2.00
+Principal 2.00
 
-Árboles de 31 hasta 50 cms. de diámetro
+-Árboles de 31 hasta 50 cms. de diámetro de
 
-de fuste principal 3.00
+fuste principal, 3.00
 
-Árboles de 51 hasta 70 cms, de diámetro
+-Árboles de 51 hasta 70 cms. de diámetro de
 
-de fuste principal 5.00
+fuste principal 5.00
 
-Árboles de más de 70 cms. de diámetro
+-Árboles de más de 70 cms. de diámetro de
 
-de fuste principal 10.00
+fuste principal 10.00
 
 V.- Por la expedición de la cédula de calibración de equipo de perifoneo:
 
 a) Por la emisión de 1 a 2 mensajes 1.00
 
-b) Por la emisión de 3 a 4 mensajes 2.00
+b) Por la emisión de 3 a 4 mensajes. 2.00
 
 VI.- Por la expedición de autorizaciones,
 
-certificaciones y dictámenes no previstos
+certificaciones y dictámenes no previstos en este
 
-en este artículo de 1.00 a 100.00
+artículo de 1.00 a 100.00
 
 ### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
 
@@ -1318,3 +1370,11 @@ P.O. 17 DE MARZO DE 2007.
 P.O. 6 DE OCTUBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 2008, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo párrafo del artículo 80, y último párrafo del 81, de las leyes de Hacienda para los Municipios de Armería, Colima, Comala, Coquimatlán, Ixtlahuacán y Manzanillo, se amplía hasta el 15 de abril.
+
+TERCERO.- Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo párrafo del artículo 80, de la Ley de Hacienda para el Municipio de Tecomán, se amplía hasta el 15 de abril.
