@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2006-12-30"
+last_updated: "2007-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -79,9 +79,13 @@ I. La identificación, descripción, delimitación, mensura y valuación de los 
 
 II. La integración y actualización permanente de la información relativa a los registros, padrones y documentos referentes a las características cualitativas y cuantitativas de los bienes inmuebles ubicados en el territorio del Estado.
 
-III. La formulación y aprobación de las tablas de valores unitarios del suelo y de las construcciones.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-IV. La determinación de los valores catastrales de los bienes inmuebles, con base en los valores unitarios del suelo y de las construcciones y en los procedimientos técnicos valuatorios.
+III. La formulación de las Tablas de Valores Unitarios de Suelo y de las Construcciones solicitadas por los Municipios en términos de esta Ley.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+IV. La determinación de los valores catastrales de los bienes inmuebles, para efecto de las contribuciones municipales sobre la propiedad inmobiliaria, con base en los valores unitarios del suelo y de las construcciones y en los procedimientos técnicos valuatorios.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -93,9 +97,19 @@ VI. La realización de los estudios técnicos para la identificación y georrefe
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
-VII. Integrar y mantener actualizado el Inventario de Infraestructura y equipamiento urbano del Estado; y,
+VII. Integrar y mantener actualizado el Inventario de Infraestructura y equipamiento urbano del Estado; y (sic),
 
-VIII. Las demás que se deriven de esta Ley, su Reglamento y disposiciones relativas.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+VIII. La formulación de las Tablas de Valores Inmobiliarios, para la determinación del cobro de los derechos por las operaciones catastrales efectuadas por las autoridades catastrales a que se refiere esta Ley.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+IX. La determinación de los valores catastrales de los bienes inmuebles, para efectos de los derechos por operaciones catastrales sobre la propiedad inmobiliaria, con base en las Tablas de Valores Inmobiliarios y en los procedimientos técnicos valuatorios.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+X. Las demás que se deriven de esta Ley, su Reglamento y disposiciones relativas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -143,9 +157,13 @@ II. El Secretario de Finanzas del Estado de Oaxaca.
 
 III. El Director General del Instituto Catastral del Estado de Oaxaca.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-IV. Los Delegados Catastrales del Instituto.
+IV. El Subdirector General del Instituto Catastral.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+V. Los Delegados Catastrales del Instituto.
 
 ###### ARTÍCULO 10.
 
@@ -333,9 +351,15 @@ XXXI. Fijar los lineamientos respectivos para la autorización de los avalúos q
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
-XXXII. Sistematizar la información estadística y generar los indicadores de gestión que permitan determinar la contribución del Instituto al fortalecimiento de los ingresos municipales, y a evaluar el funcionamiento de las unidades que lo integran; y,
+XXXII. Sistematizar la información estadística y generar los indicadores de gestión que permitan determinar la contribución del Instituto al fortalecimiento de los ingresos municipales, y a evaluar el funcionamiento de las unidades que lo integran; y (sic),
 
-XXXIII. Las demás que expresamente determine esta Ley y su Reglamento.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XXXIII. Elaborar las Tablas de Valores Inmobiliarios para la determinación de los derechos por las operaciones catastrales, mismas que serán aprobadas por el Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+XXXIV. Las demás que expresamente determine esta Ley y su Reglamento.
 
 ### CAPÍTULO QUINTO. DE LA ORGANIZACIÓN DEL INSTITUTO
 
@@ -443,6 +467,20 @@ XI. Elaboración y determinación de las tipologías constructivas; y
 
 XII. Determinación de los valores catastrales provisionales y definitivos.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 23 BIS 1.- El cobro de los Derechos que corresponden a las operaciones catastrales señaladas en el artículo 23 Bis de esta ley, se determinarán con base en las Tablas de Valores Inmobiliarios aprobadas por el Congreso del Estado.
+
+Para determinar la base de los derechos por concepto de servicios catastrales, se tomará el valor que resulte mayor de los siguientes:
+
+a) El valor de la operación;
+
+b) El valor que resulte de aplicar la Tabla de Valores Inmobiliarios.
+
+Para efectos de esta Ley se entiende por valor de la operación, aquel que fijen las partes en el acto traslativo de dominio; dicho valor deberá ser declarado por los notarios públicos o cualquier otro fedatario público que intervengan en la celebración de contratos que tengan por objeto transmitir o modificar el dominio directo de un bien inmueble; y por Tabla de Valores Inmobiliarios como aquella que contiene los valores de mercado de la propiedad raíz, para determinar los derechos por operaciones catastrales.
+
+Las Tablas de Valores Inmobiliarios podrán ser objeto de revisión y actualización cada año o cuando surjan circunstancias que puedan afectar el valor de la propiedad inmobiliaria.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 24.
@@ -485,11 +523,11 @@ V. A solicitud del propietario o poseedor del inmueble, cumpliendo con los linea
 
 VI. Cuando la totalidad o parte del predio sea modificado en su régimen jurídico.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 30.
 
-La evaluación catastral, ya sea provisional o definitiva, se hará separadamente para el terreno y las construcciones. La suma de los valores resultantes será el valor catastral del predio, conforme a lo dispuesto en ésta Ley y su Reglamento.
+La valuación catastral, ya sea provisional o definitiva, se hará separadamente para el terreno y las construcciones. La suma de los valores resultantes será el valor catastral del predio, conforme a lo dispuesto en esta Ley y su Reglamento.
 
 ###### ARTÍCULO 31.
 
@@ -517,6 +555,10 @@ En caso de fusión de dos o más bienes inmuebles, en tanto se practica la valua
 
 El valor catastral será definitivo cuando se efectúe el avalúo de los bienes inmuebles por el Instituto Catastral del Estado de Oaxaca o por Perito Valuador con registro ante dicho Instituto.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+El avalúo tendrá una vigencia de doce meses a partir de la fecha de su expedición.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 37.
@@ -533,17 +575,33 @@ Las autoridades correspondientes informarán por escrito al Instituto Catastral 
 
 Con el fin de mantener actualizado permanentemente el padrón catastral, las autoridades competentes enviarán mensualmente al Instituto Catastral del Estado de Oaxaca, los Planes de desarrollo urbano aprobados en términos de las disposiciones legales aplicables, así como un informe sobre las solicitudes de concesión o autorización para fraccionar, subdividir, o para establecer condominios y en su caso copia de los planos de notificación autorizados, para fraccionar un terreno o establecer un condominio.
 
-De igual forma para elaborar y actualizar la cartografía catastral, los profesionales inmobiliarios, fraccionadotes y urbanizadores con dicha actividad o giro fiscal, que obtengan licencia o autorización para fraccionar, subdividir, lotificar, renotificar, o fusionar un inmueble, deberán presentar al Instituto Catastral del Estado de Oaxaca, copia de la licencia o autorización en un plazo no mayor de treinta días hábiles contados a partir de la fecha de su expedición y acompañando además copia de los planos, archivo digital georreferenciado a la red geodésica estatal del proyecto aprobado y demás documentación relativa; en igual plazo deberán comunicar toda modificación realizada a la autorización inicial.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+De igual forma para elaborar y actualizar la cartografía catastral, los particulares, profesionales inmobiliarios, fraccionadores y urbanizadores con dicha actividad o giro fiscal, que obtengan licencia o autorización para fraccionar, subdividir, lotificar, relotificar o fusionar un inmueble y siempre que no se tengan proyectadas obras de construcción, deberán presentar al Instituto los avisos de reasignación y asignación de cuenta correspondiente a cada uno de los lotes resultantes de subdivisión, lotificación, fraccionamiento o condominio, en un plazo no mayor de treinta días hábiles contados a partir de la fecha de autorización, acompañando copia de la licencia o autorización y copia de los planos; tratándose de lotificaciones de hasta cinco predios no se requiere para la autorización del trámite, el archivo digital georreferenciado a la red geodésica estatal del proyecto aprobado; en igual plazo deberán comunicar toda modificación realizada a la autorización inicial.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 40.
 
-Recibida por el Instituto la copia de los planos a que se refiere el artículo anterior éste señalará la clave catastral de cada uno de los lotes de terreno que constituyan el fraccionamiento o condominio, mismo que servirá de base para la identificación de las operaciones catastrales que se realicen en el futuro.
+Recibidos por el Instituto los avisos y copias de los planos a que se refiere el artículo 39 de esta Ley, éste señalará la clave catastral de cada uno de los lotes de terreno que constituyan la subdivisión, lotificación, fraccionamiento o condominio, mismo que servirá de base para la identificación de las operaciones catastrales que se realicen en el futuro y procederá a:
+
+I.- Empadronar los lotes producto de la subdivisión, lotificación, fraccionamiento o condominio, los cuales se consideran como nuevos predios; y
+
+II.- Valuar cada uno de los lotes del fraccionamiento o condominio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 41.
 
-El fraccionador y los propietarios del condominio o sus representantes legales, darán aviso al Instituto de la terminación de las obras de que se trate, dentro de los quince días siguientes a los de su terminación. Recibiendo el aviso de referencia, o en aquellos casos en que el fraccionador o propietario de condominio fuere autorizado para celebrar operaciones de compraventa, promesa de venta, ventas con reserva de dominio o cualquier otro contrato preparatorio o preliminar, antes de la terminación de las obras, el Instituto deberá:
+Cuando se trate de subdivisión, lotificación, fraccionamiento o condominio con proyecto de construcción, los particulares, el fraccionador y los propietarios del condominio o sus representantes legales, darán aviso al Instituto de la terminación de las obras de que se trate, presentando los avisos de reasignación y asignación de cuentas correspondientes a cada uno de los lotes resultantes de la subdivisión, lotificación, fraccionamiento o condominio, dentro de los quince días siguientes a los de su terminación, acompañando copia de la licencia o autorización y copia de los planos; tratándose de lotificaciones hasta de cinco predios no se requiere para la autorización del trámite, el archivo digital georreferenciado a la red geodésica estatal del proyecto aprobado, memorias descriptivas y planos de sembrado.
 
-I. Empadronar los lotes del fraccionamiento o condominio, los cuales se considerarán como nuevos predios.
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Recibiendo el aviso de referencia, o en aquellos casos en que el fraccionador o propietario de condominio fuere autorizado para celebrar operaciones de compraventa, promesa de venta, ventas con reserva de dominio o cualquier otro contrato preparatorio o preliminar, antes de la terminación de las obras, el Instituto deberá:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+I. Empadronar los lotes producto de la subdivisión, lotificación, fraccionamiento o condominio, los cuales se consideran como nuevos predios; y
 
 II. Valuar cada uno de los lotes de fraccionamiento o condominio.
 
@@ -617,11 +675,11 @@ Para tales efectos, los municipios podrán celebrar convenios de coordinación c
 
 ### CAPÍTULO OCTAVO. DE LOS PROCEDIMIENTOS DE VALUAClÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 49.
 
-Para la determinación del valor catastral de los predios urbanos, el Instituto además de sujetarse a lo contemplado en el Reglamento de la presente Ley, aplicará los siguientes procedimientos:
+Para la determinación del valor catastral de los predios, el Instituto además de sujetarse a lo contemplado en el Reglamento de la presente Ley, aplicará los siguientes procedimientos:
 
 I.- Con base en la información que sobre las características del predio manifieste el propietario o poseedor; tomando en consideración, entre otros factores, su uso, tipo y ubicación, así como las tablas vigentes de valores unitarios.
 
@@ -640,6 +698,10 @@ La valuación catastral se hará separadamente para el terreno y para la constru
 Tratándose de predios que pudieran clasificarse como urbanos, pero que se encuentre, ubicados en lugares en los que no existan vialidades, para la determinación de su valor catastral, se tomarán en consideración las tablas de valores unitarios de suelo y construcciones aprobados para la zona más cercana.
 
 Los (sic) tablas de valores unitarios de suelo y construcciones aprobados por el Congreso del Estado, servirán de base al Instituto Catastral del Estado de Oaxaca, para la valuación de predios, debiendo aplicar los coeficientes de mérito y demérito correspondientes de acuerdo con la situación específica del inmueble objeto del avalúo, de conformidad con la presente Ley, su Reglamento y el instructivo técnico de valuación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 50 A.- En el caso de manifestaciones de condominios, por cada aviso de asignación y reasignación de cuenta, se deben manifestar las superficies de suelo y construcción privativa, la superficie de suelo y construcción de áreas comunes, en porcentaje y en metros cuadrados que le corresponde a cada bien inmueble que constituye el condominio, para efectos de determinar su valor y base catastral.
 
 ### CAPÍTULO NOVENO. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PARTICULARES Y LOS FEDATARIOS
 
@@ -672,6 +734,10 @@ No se eximen de la obligación anterior, a los propietarios o poseedores de pred
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos también requeridos, el Instituto Catastral del Estado de Oaxaca dará un plazo de 15 días hábiles para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
 Si transcurrido dicho plazo, no se expresan los datos o no se presentan los documentos o planos a que se refiere el párrafo anterior, el Instituto Catastral del Estado de Oaxaca tendrá por no presentadas las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Para efectos de las manifestaciones o avisos a que se refiere esta Ley y su Reglamento, el Instituto analizará y determinará la procedencia o la no admisión de los documentos que presenten los fedatarios públicos y los particulares, cuidando en todo momento que los documentos presentados cumplan con las normas y procedimientos aplicables en las leyes vigentes.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -1002,3 +1068,9 @@ SEGUNDO.- En caso de que las tablas de valores unitarios de suelo y construccion
 P.O. 30 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado de Oaxaca, para la aplicación del artículo 4, fracciones VIII y IX; 17, fracción XXXIII y 23 Bis 1, aprobará las Tablas de Valores Inmobiliarios en un plazo no mayor de sesenta días contados a partir del 1 de enero del año 2008.
