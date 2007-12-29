@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-minatitlan-colima-26789"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-10-06"
+last_updated: "2007-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -527,13 +527,25 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 7.- Espectáculos deportivos 5
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-8.- Palenque de Gallos 1
+8.- Palenques de gallos sin otro
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
+espectáculo público 4
 
-9.- Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 8
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+9.- Palenques de gallos con otro
+
+espectáculo público 6 a 8
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+10.- Cualquier otro espectáculo público
+
+por el que se cobren derechos de
+
+admisión 5 a 8
 
 II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en unidades de salario:
 
@@ -2349,7 +2361,7 @@ construcciones, nomenclaturas, cotas,
 
 fotogramétricas en coordenadas Universal
 
-Transversa de Mercado 120.00
+Transversa de Mercator 120.00
 
 VII. Por cartografía de plano general, en formato digital de la zona urbana de la cabecera municipal:
 
@@ -2445,19 +2457,67 @@ b) Por la emisión de 3 a 4 mensajes 2.00
 
 VI. Por la expedición de autorizaciones, certificaciones y dictámenes no previstos en este Artículo de 1.00 a 100.00
 
-D).- OTROS
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+D).- PROTECCION CIVIL
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 86.
 
-Por la expedición de otros documentos:
+Los derechos por servicios que presten la unidad de protección civil se causarán y pagarán conforme a la siguiente tarifa:
 
-I. Copias certificación 1.00
+I. Por el registro:
 
-II. Certificados de residencia 1.20
+a). Por el registro de siniestralidad en establecimientos comerciales, industriales y de servicios, con clasificación de riesgo:
 
-III. Solvencias fiscales 1.10
+1.- Alta
 
-VI. Constancias 1.00
+A) Nivel 1 8.00
+
+B) Nivel 2 10.00
+
+C) Nivel 3 15.00
+
+2.- Media
+
+A) Nivel 1 3.50
+
+B) Nivel 2 5.00
+
+C) Nivel 3 7.00
+
+3.- Baja
+
+A) Nivel 1 0.50
+
+B) Nivel 2 2.00
+
+C) Nivel 3 3.00
+
+Para fijar la tarifa se deberán considerar las condiciones económicas del negocio, número de empleados y su nivel de inversión.
+
+En caso de ser necesario, la unidad de protección civil municipal emitirá su opinión.
+
+El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+E).- OTROS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 86 Bis.
+
+Por la expedición de los siguientes documentos:
+
+I.- Copias certificadas 1.00
+
+II.- Certificaciones de residencia 1.20
+
+III.- Solvencias fiscales 1.10
+
+IV.- Constancias 1.00
 
 ### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
 
@@ -2579,7 +2639,17 @@ Unidades de salario
 
 2. Fiestas particulares 2.00
 
-3. Otros 1.00
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+3. Comercial 5.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+4. Industrial 10.00 a 20.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+5. Otros 1.00 a 10.00
 
 ### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
 
@@ -3280,3 +3350,9 @@ P.O. 17 DE MARZO DE 2007.
 P.O. 6 DE OCTUBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 2008, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.-Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo párrafo del artículo 80, y último párrafo del 81, de esta ley, se amplía hasta el 15 de abril.
