@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2007-04-07"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1449,7 +1449,9 @@ III. La administración de los recursos económicos del Congreso del Estado, de 
 
 IV. La notificación a los empleados de la Secretaría del Congreso del Estado de las sanciones administrativas que se les impongan por las faltas en que incurran;
 
-V. La formulación, dentro de la segunda quincena de octubre, del anteproyecto de Presupuesto de Egresos del Poder Legislativo para el ejercicio fiscal siguiente; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+V. Determinar y aprobar el clasificador por objeto de gasto; así como la formulación dentro de la segunda quincena de octubre, del anteproyecto de presupuesto de egresos del Poder Legislativo para el ejercicio fiscal siguiente; y
 
 VI. La formación del inventario pormenorizado de los muebles y enseres de la Secretaría del Congreso del Estado y sus dependencias y cuidar de la conservación de los mismos.
 
@@ -3175,6 +3177,10 @@ DECRETO NO. 20689 QUE REFORMA EL ARTICULO 108
 
 UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
+P.O. 5 DE FEBRERO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
 P.O. 9 DE NOVIEMBRE DE 2004.
 
 DECRETO NO. 20690 QUE REFORMA DIVERSOS ARTICULOS
@@ -3182,10 +3188,6 @@ DECRETO NO. 20690 QUE REFORMA DIVERSOS ARTICULOS
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, deberá presentar en un plazo no mayor a 120 días naturales, la iniciativa de reformas al Reglamento de la Ley Orgánica del Poder Legislativo del Estado, que resulten necesarias para adecuarlo al presente decreto.
-
-P.O. 5 DE FEBRERO DE 2005.
-
-UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 26 DE ABRIL DE 2005.
 
@@ -3274,3 +3276,7 @@ P.O. 7 DE ABRIL DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. La Comisión de Seguridad Pública y Protección Civil deberá enviar a la Junta de Coordinación Política la terna de candidatos a ocupar la titularidad del Órgano Técnico de Seguridad Pública dentro de los cinco días naturales siguientes a la entrada en vigor de la presente reforma. La Junta de Coordinación Política deberá poner a consideración de la Asamblea su propuesta dentro de los diez días siguientes.
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
