@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2007-12-06"
+last_updated: "2007-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -359,7 +359,7 @@ La misma regla se observará con los diputados suplentes cuando estuvieren en ej
 
 El Congreso se renovará totalmente cada tres años, y se instalará el día quince del mes de septiembre del año en que se celebre la elección ordinaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 30.
 
@@ -659,11 +659,11 @@ XXI B.- Privar del cargo a los integrantes del Consejo del Poder Judicial, por l
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales mediante el voto de las dos terceras partes de sus miembros;
+XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales, mediante el voto de las dos terceras partes de sus miembros;
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
-XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del estado, conforme al procedimiento que establezca la ley;
+XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del Estado, conforme al procedimiento que establezca la ley;
 
 XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
 
@@ -853,7 +853,9 @@ En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primero
 
 Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período para el cual fue electo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría calificada de votos, al Gobernador substituto que deberá concluir el período respectivo.
 
-Cuando la falta del Gobernador fuese temporal, el Congreso del Estado designará un Gobernador interino para que funcione durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo y a falta de éste será reemplazado por el Oficial Mayor.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Cuando la falta del Gobernador fuese temporal, el Congreso del Estado designará un Gobernador Interino para que despache durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo y a falta de éste lo hará el Secretario de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -985,11 +987,13 @@ IV.- Impedir a retardar las elecciones populares o la instalación de la Legisla
 
 V.- Intervenir en las elecciones para favorecer a personas determinadas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo y a falta de éste será reemplazado por el Secretario de Planeación y Desarrollo Estatal.
+VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo y a falta de éste el encargado será el Secretario de Finanzas y Administración.
 
-Cuando el Gobernador salga del territorio nacional con motivos oficiales, deberá informar a su regreso, por escrito al Congreso, en un plazo no mayor de quince días, sobre las acciones realizadas en el extranjero y los resultados obtenidos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Cuando el Gobernador salga del territorio nacional con motivos oficiales, deberá informar a su regreso, por escrito al Congreso, en un plazo no mayor de quince días, sobre las acciones realizadas en el extranjero y los resultados obtenidos;
 
 VII.- Mezclarse en asuntos judiciales, ni disponer, durante la tramitación de un juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia, y
 
@@ -1021,9 +1025,9 @@ III.- Haber cumplido veinticinco años de edad el día de su designación;
 
 IV.- No haber sido condenado por delito no culposo.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1978)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-Los mismos requisitos serán necesarios para ser Oficial Mayor de Gobierno.
+Los mismos requisitos serán necesarios para ser Secretario de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1481,7 +1485,7 @@ En materia electoral, la interposición de los recursos, en ningún caso produce
 
 El Tribunal Electoral del Estado será órgano autónomo y máxima autoridad jurisdiccional electoral. El Poder Legislativo, garantizará su debida integración.
 
-El Tribunal Electoral del Estado tendrá competencia para resolver en única instancia y en forma definitiva, en los términos de ésta Constitución y la Ley, las impugnaciones que se presenten en materia electoral.
+El Tribunal Electoral del Estado tendrá competencia para resolver en única instancia y en forma definitiva, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral.
 
 El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
 
@@ -1489,7 +1493,7 @@ El Tribunal Electoral del Estado se organizará en los términos que señale la 
 
 El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados; sus sesiones de resolución serán públicas, en los términos que establezca la Ley.
 
-Los magistrados del Tribunal, los cuales serán independientes y responderán al mandato de la Ley, deberán satisfacer cuando menos los requisitos que señala esta Constitución para ser Magistrado del Supremo Tribunal de Justicia del Estado.
+Los magistrados del Tribunal, los cuales serán independientes y responderán al mandato de la Ley, deberán satisfacer cuando menos los requisitos que señala ésta Constitución para ser Magistrado del Supremo Tribunal de Justicia del Estado.
 
 El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública.
 
@@ -1573,11 +1577,11 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, del Consejo del Poder Judicial, a los miembros del Tribunal Electoral del Estado, a los miembros del Tribunal de Justicia Administrativa, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, así como a los servidores del Instituto Electoral de Michoacán, de la Comisión Estatal de los Derechos Humanos, de la Comisión Estatal de Acceso a la Información Pública, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 105.
 
-Siempre que se trate de un delito del orden común, cometido por el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Consejeros del Poder Judicial, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal de Justicia Administrativa, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, el Congreso erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
+Siempre que se trate de un delito del orden común, cometido por el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Consejeros del Poder Judicial, Secretario de Gobierno, Secretario de Finanzas y Administración, Procurador de Justicia, Auditor Superior, Magistrados del Tribunal de Justicia Administrativa, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, el Congreso erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvado (sic) que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
@@ -1613,11 +1617,11 @@ Cualquier persona bajo su más estricta responsabilidad y mediante la presentaci
 
 Podrán ser sujetos de juicio político, el Gobernador del Estado, los diputados al Congreso, los Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, los Jueces de Primera Instancia y Jueces de Cuantía Menor, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, el consejero presidente y los consejeros electorales del Instituto Electoral de Michoacán, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal de Justicia Administrativa, los directores generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 de DICIEMBRE DE 2007)</small>
 
 ###### Artículo 109.
 
-Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal de Justicia Administrativa, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, Secretario de Gobierno, Secretario de Finanzas y Administración, Procurador de Justicia, Auditor Superior, Magistrados del Tribunal de Justicia Administrativa, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
@@ -1633,9 +1637,9 @@ La responsabilidad por los delitos cometidos durante el tiempo del encargo por c
 
 La Ley de Responsabilidades señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia d los actos y omisiones a que hace referencia la fracción III del artículo 107. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-El Gobernador Constitucional del Estado y los Diputados gozarán de fuero desde el día en que fuesen declarados electos; los Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, los Magistrados Propietarios del Tribunal Electoral del Estado y los Magistrados del Tribunal de Justicia Administrativa, desde la fecha en que fuesen designados; los Gobernadores Provisionales, Interinos y Substitutos, los Diputados Suplentes, los Magistrados Supernumerarios del Tribunal Electoral del Estado, el Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Michoacán, el Secretario de Gobierno, el Oficial Mayor, el Procurador de Justicia y el Tesorero, únicamente dentro del término de su encargo.
+El Gobernador Constitucional del Estado y los Diputados gozarán de fuero desde el día en que fuesen declarados electos; los Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, los Magistrados Propietarios del Tribunal Electoral del Estado y los Magistrados del Tribunal de Justicia Administrativa, desde la fecha en que fuesen designados; los Gobernadores Provisionales, Interinos y Substitutos, los Diputados Suplentes, los Magistrados Supernumerarios del Tribunal Electoral del Estado, el Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Michoacán, el Secretario de Gobierno, el Secretario de Finanzas y Administración y el Procurador de Justicia, únicamente dentro del término de su encargo.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1767,11 +1771,13 @@ II.- Administrar libremente su hacienda, la cual se formará de los rendimientos
 
 a) Percibir las contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-Los ayuntamientos podrán celebrar convenios con la Tesorería General del Estado, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Los ayuntamientos podrán celebrar convenios con la Secretaría de Finanzas y Administración, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
 
-b) Las participaciones federales y estatales, que serán cubiertas con arreglo a las bases, montos y plazos que anualmente apruebe el Congreso del Estado, conforme a los criterios que el mismo determine.
+b) Las participaciones federales y estatales, que serán cubiertas con arreglo a las bases, montos y plazos que anualmente apruebe el Congreso del Estado, conforme a los criterios que el mismo determine
 
 c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
@@ -1789,7 +1795,7 @@ II Bis.- Proponer al Congreso del Estado, en el ámbito de su competencia, las c
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
 
-III. Aprobar su presupuesto de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio y a más tardar el treinta y uno de marzo del año siguiente al que concluya éste, la cuenta pública del ejercicio de la Hacienda Municipal.
+III.- Aprobar su presupuesto de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio y a más tardar el treinta y uno de marzo del año siguiente al que concluya éste, la cuenta pública del ejercicio de la Hacienda Municipal.
 
 Cada Ayuntamiento deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Municipio o de las entidades paramunicipales que cuenta con la garantía del Municipio o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados conforme a las leyes aplicables;
 
@@ -1923,7 +1929,7 @@ XXIV.- Las demás que señalen las leyes.
 
 ###### Artículo 124.
 
-La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia y encargados del orden; sus facultades y obligaciones serán determinadas por la ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
+La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia o encargados del orden; sus facultades y obligaciones serán determinadas por la ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -2001,21 +2007,23 @@ El Estado está facultado para celebrar esos convenios con sus municipios, a efe
 
 En el Estado de Michoacán de Ocampo quedan prohibidos los monopolios, las prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que señalan la Constitución General de la República, esta Constitución y las leyes que de ambas emanen.
 
-Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que deba percibir, los inmuebles mostrencos, previa declaración que haga la Tesorería General del Estado conforme lo determine la Ley.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que deba percibir, los inmuebles mostrencos, previa declaración que haga la Secretaría de Finanzas y Administración conforme lo determine la Ley.
 
 El Congreso expedirá las leyes fiscales en los ámbitos estatal y municipales, que establecerán las bases, tanto para la fijación de los impuestos, derechos, productos y aprovechamientos, como para la manera de hacerlos efectivos y los medios que permitan la defensa de los contribuyentes.
 
 El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos, según los planes y programas establecidos.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-#### SECCION I. De la Tesorería General
+#### SECCION I. De la Secretaría de Finanzas y Administración
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 132.
 
-Habrá en el Estado una Tesorería General a la que ingresarán todos los caudales públicos. El Tesorero hará la distribución de ellos, según el presupuesto de egresos.
+Habrá en el Estado, una Secretaría de Finanzas y Administración a quien corresponderá la guarda y distribución de los caudales públicos, regular la actividad financiera, fiscal y tributaria del Estado, así como administrar los recursos humanos, materiales y patrimoniales de la Administración Pública.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -2305,11 +2313,11 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 
 Los Poderes Supremos del Estado residirán en el mismo lugar, a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso, sea necesaria la separación.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 159.
 
-No podrá hacerse cargo alguno que no esté comprendido en el presupuesto o determinado por la ley. El Tesorero General del Estado se negará a obedecer cualquier orden del Gobernador contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado; de lo contrario, será responsable personal y pecuniariamente.
+No podrá hacerse cargo alguno que no esté comprendido en el presupuesto o determinado por la ley. El Secretario de Finanzas y Administración se negará a obedecer cualquier orden del Gobernador contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado; de lo contrario, será responsable personal y pecuniariamente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -2321,9 +2329,9 @@ En el caso de la fracción V del artículo 76 de la Constitución Federal, asumi
 
 I.- El Presidente de la última Legislatura.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-II. El Secretario de Gobierno o el Oficial Mayor conforme a los artículos 57 y 61, fracción VI, de esta Constitución;
+II. El Secretario de Gobierno o el Secretario de Finanzas y Administración conforme a los artículos 57 y 61, fracción VI, de esta Constitución.
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -3032,6 +3040,14 @@ DECRETO No. 77
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor el día 15 de febrero del año 2008 previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. En tanto se reforme la normatividad correspondiente, cuando se haga mención a la Tesorería General y a la Oficialía Mayor, se entenderá la Secretaría de Finanzas y Administración.
+
+TERCERO. Remítase a los Ayuntamientos del Estado la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO CUARTO.
 
