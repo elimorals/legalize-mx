@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-municipal-4881"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-03-20"
-last_updated: "1999-03-04"
+last_updated: "2007-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 20 de marzo de 1988.
 
@@ -121,17 +121,25 @@ Contribuciones especiales son aquellos recursos que recibe el Municipio eventual
 
 Las Leyes de Ingresos Municipales establecerán anualmente los ingresos ordinarios de naturaleza fiscal que deban recaudarse, de acuerdo con lo dispuesto en la Ley de Hacienda Municipal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 12o.
 
-Son Leyes Fiscales del Municipio:
+Son ordenamientos fiscales del municipio:
 
-I.- La presente Ley.
+I.- El presente Código;
 
-II.- Las Leyes de Ingresos de los Municipios.
+II.- La Ley de Hacienda para los municipios del Estado de Durango;
 
-III.- La Ley de Hacienda Municipal.
+III.- Las Leyes de Ingresos Municipales;
 
-IV.- Las Leyes y demás disposiciones de carácter hacendario, aplicables al Municipio.
+IV.- Los decretos que autoricen ingresos extraordinarios;
+
+V.- Las leyes que organicen los servicios administrativos necesarios para la recaudación, distribución, y control de los ingresos y egresos;
+
+VI.- Los convenios que se celebren en materia fiscal con la Federación, el Estado, o con ambos que .deriven de la Ley de Coordinación Fiscal; y
+
+VII.- Los reglamentos, las circulares y disposiciones administrativas de carácter general que expidan las autoridades fiscales municipales, previa autorización del Ayuntamiento.
 
 ###### ARTICULO 13o.
 
@@ -163,7 +171,7 @@ II.- Que la vigilancia y exigibilidad por cantidad líquida del Derecho del Cré
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 1990)</small>
 
-ARTICULO 16 BIS.- En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de Enero, el 5 de Febrero, el 21 de Marzo, el 1o. de Mayo, el 5 de Mayo el 16 de Septiembre, el 12 de Octubre, el 1o. y 20 de Noviembre, el 1o. de Diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de Diciembre, así como los días en que rindan su informe Anual de Actividades los Ejecutivos del Estado y de los Municipios.
+ARTICULO 16o BIS.- En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de Enero, el 5 de Febrero, el 21 de Marzo, el 1o. de Mayo, el 5 de Mayo el 16 de Septiembre, el 12 de Octubre, el 1o. y 20 de Noviembre, el 1o. de Diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de Diciembre, así como los días en que rindan su informe Anual de Actividades los Ejecutivos del Estado y de los Municipios.
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones las autoridades fiscales municipales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos, esos días se considerarán hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -179,7 +187,7 @@ Las autoridades fiscales podrán habilitar los días inhábiles, esta circunstan
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 1990)</small>
 
-ARTICULO 16 BIS-1.- La práctica de diligencias por las Autoridades Fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez.
+ARTICULO 16o BIS-1.- La práctica de diligencias por las Autoridades Fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez.
 
 Las Autoridades Fiscales para la práctica de visitas domiciliarias del procedimiento administrativo de ejecución y de notificaciones podrán habilitar los días y horas inhábiles cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días y horas inhábiles. Tratándose de contribuyentes sujetos al reglamento sobre venta y consumo de bebidas embriagantes, se considerarán hábiles todos los días del año y las 24 horas del día.
 
@@ -187,21 +195,33 @@ Las Autoridades Fiscales para la práctica de visitas domiciliarias del procedim
 
 ### CAPITULO UNICO. DE LAS AUTORIDADES FISCALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 17o.
 
-Son Autoridades Fiscales en los Municipios del Estado, las siguientes:
+Son autoridades fiscales en los Municipios del Estado, las siguientes:
 
-I.- El Ayuntamiento.
+I El Ayuntamiento;
 
-II.- El Presidente Municipal.
+II. El Presidente Municipal;
 
-III.- El Tesorero Municipal y
+III. El Tesorero Municipal;
 
-IV.- Las demás Autoridades Municipales a quienes las Leyes confieran atribuciones en materia fiscal.
+IV. Las entidades paramunicipales que funjan como organismos operadores de agua potable, alcantarillado y saneamiento; y
+
+V. las demás autoridades municipales a quienes las leyes confieran atribuciones en materia fiscal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 17o BIS.- Son autoridades fiscales, los órganos facultados por este Código para recaudar y administrar los ingresos fiscales, en su respectivo ámbito de competencia, a través de procedimiento administrativo de ejecución previsto en el presente ordenamiento.
 
 ###### ARTICULO 18o.
 
 La determinación, liquidación, recaudación y cobro de los ingresos municipales, estarán a cargo de los Ayuntamientos, quienes los efectuarán por conducto de sus respectivas tesorerías, bajo la vigilancia de los Presidentes Municipales. Los Ayuntamientos podrán autorizar a instituciones Oficiales para ser auxiliadas en la administración y recaudación de los ingresos municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+La determinación, liquidación, recaudación y cobro de los ingresos tributarios y no tributarios correspondientes a la prestación del servicio de agua potable, alcantarillado y saneamiento estará a cargo de las entidades paramunicipales que funjan como organismos operadores de tal servicio público conforme a lo dispuesto en el presente Código.
 
 ###### ARTICULO 19o.
 
@@ -259,11 +279,11 @@ Son atribuciones del Presidente Municipal:
 
 I.- Ordenar la baja de establecimientos comerciales, industriales o de prestación de servicios en los casos en que se omita el aviso de clausura, por muerte o ausencia de los contribuyentes, debiendo recaer acuerdo escrito fundado y motivado sobre el particular;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-II.- Condonar parcialmente hasta un 50% las multas por infracciones a las disposiciones fiscales y recargos debiendo recaer escrito debidamente motivado sobre el particular.
+II.- Otorgar subsidio en multas fiscales, accesorios, recargos y gastos de ejecución de conformidad con lo dispuesto en la Ley de Ingresos de cada municipio, hasta en un 80%;
 
-III.- Condonar las multas administrativas, únicamente cuando el infractor sea persona insolvente o cuando la infracción sea leve y no haya mediado mala fé ni intención de eludir las obligaciones correspondientes.
+III.- Condonar las multas administrativas, únicamente cuando el infractor sea persona insolvente o cuando la infracción sea leve y no haya mediado mala fé ni intención de eludir las obligaciones correspondientes;
 
 IV.- Declarar, mediante acuerdo escrito, la improcedencia en el cobro de recargos, en los casos señalados en esta Ley;
 
@@ -273,11 +293,11 @@ VI.- Autorizar la matanza de ganado, aves y otras especies, fuera de los rastros
 
 VII.- Otorgar las licencias de funcionamiento de giros;
 
-VIII.- Acordar la revocación de Iicencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y
+VIII.- Acordar la revocación de Iicencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y (sic)
 
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1988)</small>
 
-IX.- Autorizar hasta un 30% de reducción en los créditos fiscales, tomando en consideración las circunstancias específicas de cada caso.
+IX.- Autorizar hasta un 30% de reducción en los créditos fiscales, tomando en consideración las circunstancias específicas de cada caso;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 1988)</small>
 
@@ -2144,3 +2164,13 @@ P.O. 4 DE MARZO DE 1999.
 PRIMERO.- El presente Decreto se aplicará retroactivamente a partir del día 1º (primero) de enero de 1999.
 
 SEGUNDO.- Será la autoridad municipal, por conducto de su dependencia recaudadora, la que establezca los requisitos necesarios para acreditar ser sujeto de los beneficios que contempla el presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Una vez publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el presente decreto entrará en vigor el día primero de enero de 2008.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan al presente decreto.
