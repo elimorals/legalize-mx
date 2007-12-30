@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-y-vigilancia-del-sistema-de-18933"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2007-12-20"
+last_updated: "2007-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACION Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACION ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2000.
 
@@ -81,7 +81,15 @@ IV.- El 20% de la recaudación en la entidad del Impuesto Sobre Automóviles Nue
 
 (F. DE E., P.O. 1 DE FEBRERO DE 2001) (REPUBLICADA, P.O. 8 DE FEBRERO DE 2001)
 
-V.- El 30% de la recaudación en la entidad del Impuesto Federal sobre Tenencia o Uso de Vehículos.
+V.- El 30% de la recaudación en la entidad del Impuesto Federal sobre Tenencia o Uso de Vehículos;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VI.- El 20% de las participaciones que reciba el Estado por concepto de Fondo de Fiscalización;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VII.- El 20% de las participaciones recibidas por el Estado, por concepto de IEPS sobre venta de diesel y gasolina.
 
 ###### Artículo 3.
 
@@ -91,9 +99,11 @@ Con el propósito de fortalecer las Haciendas Públicas Municipales, incentivar 
 
 El monto del Fondo Estatal de Participaciones se acordará anualmente por el Ejecutivo del Estado y su importe no podrá ser inferior al del año inmediato anterior, actualizado con el índice nacional de precios al consumidor de dicho ejercicio, que publique la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 5.
 
-Las cantidades que correspondan a las fracciones I, III y IV del Artículo 2 de esta ley integraran el fondo acumulado de participaciones y se distribuirá entre los municipios del Estado conforme al procedimiento siguiente:
+Las cantidades que correspondan a las fracciones I, III, IV y VI del artículo 2 de esta ley integraran el fondo acumulado de participaciones y se distribuirá entre los municipios del Estado conforme al procedimiento siguiente:
 
 I.- El 40% en relación directa con el número de habitantes de cada municipio, de acuerdo con los últimos datos oficiales publicados por el INEGI, en la fecha de expedición de decreto respectivo por parte del H. Congreso del Estado;
 
@@ -122,6 +132,18 @@ II.- El 60% de acuerdo con el coeficiente efectivo del fondo acumulado que estab
 ###### Artículo 8.
 
 El fondo estatal a que se refiere el Artículo 3 de esta ley, se distribuirá entre los municipios en función del incremento ponderado en la recaudación del impuesto predial de los dos últimos años anteriores al del ejercicio de que se trate.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8 Bis.
+
+Los recursos a que se refiere la fracción VII del artículo 2 de esta ley, se distribuirán conforme a lo siguiente:
+
+I.- El 70% en relación directa con el número de habitantes de cada municipio, de acuerdo con los últimos datos oficiales publicados por el INEGI y que dichos datos estén vigentes al inicio del ejercicio fiscal correspondiente, y
+
+II.- El 30% de acuerdo con el coeficiente efectivo del fondo acumulado que establece el artículo 5 de esta ley.
+
+Los recursos que reciban los municipios en los términos de este artículo, deberán destinarse exclusivamente a infraestructura vial, rural, urbana, hidráulica, básica y sanitaria, así como a programas ambientales.
 
 ###### Artículo 9.
 
@@ -191,10 +213,24 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS QUIN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER. EL SECRETARIO GENERAL DE GOBIERNO. LIC. JOSE MIGUEL CASTRO CARRILLO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 20 DE DICIEMBRE DE 2007.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 30 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor un día después de que entre en vigor el Decreto por el que se reforman, adiciona, derogan y abrogan diversas disposiciones fiscales para fortalecer el federalismo fiscal.
+
+###### ARTÍCULO SEGUNDO.
+
+La distribución de las participaciones a que se refiere la fracción VII del artículo 2 de esta ley, se hará en los términos que establezca la Ley de Coordinación Fiscal.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
