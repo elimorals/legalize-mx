@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2006-12-21"
+last_updated: "2007-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -77,9 +77,9 @@ El Titular del Poder Ejecutivo del Estado podrá conceder exenciones de impuesto
 
 La Hacienda Pública del Estado de Durango se compone:
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-I.- De los ingresos provenientes de los Impuestos Sobre Nóminas, para el Fomento de la Educación Pública en el Estado, por Servicio de Hospedaje, Sobre Juegos con Apuestas, Rifas, Loterías, Sorteos y Premios, Sobre la Enajenación de Vehículos Automotores Usados;
+I.- De los ingresos provenientes de los Impuestos Sobre Nóminas, para el Fomento de la Educación Pública en el Estado, por Servicio de Hospedaje, Sobre Juegos con Apuestas, Rifas, Loterías, Sorteos y premios, Sobre la Enajenación de Vehículos Automotores Usados; y del Impuesto para la modernización de los Registros Públicos;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -239,13 +239,23 @@ I. Las Entidades Federativas y los Municipios, excepto sus organismos descentral
 
 II. Las Instituciones de Beneficencia reconocidas por el Gobierno Estatal y Federal.
 
-III. Las Instituciones de Enseñanza reconocidas como tales por el Gobierno Estatal y Federal.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+III. Las instituciones de Educación Pública mediante las cuales el Estado o los Municipios proporcionen el servicio público de educación de manera directa en los términos de la ley respectiva, salvo lo dispuesto en la fracción I de este artículo.
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
 IV. Ejidos, comunidades, uniones de ejidos y de comunidades, la empresa social constituida por avecinados e hijos de ejidatarios con derecho a salvo, asociaciones rurales de interés colectivo, unidad agrícola industrial de la mujer campesina y colonias agrícolas y ganaderas.
 
 V. Las Organizaciones de Sindicatos de Obreros, Organismos Empresariales, Asociaciones de Comerciantes e Industriales, Colegios o Asociaciones de Profesionistas, y Agrupaciones Políticas registradas conforme a la Ley de la materia, que no realicen actividades lucrativas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+Los sujetos no contemplados en este artículo, que realicen pagos a que se refiere el artículo 2 de la presente Ley, estarán obligados al pago del Impuesto Sobre Nómina y no cabrá método de interpretación alguno para determinar sujetos exentos que no estén expresamente considerados.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+La Federación, los Estados y los Municipios estarán exentos del pago de este impuesto, siempre y cuando se indique expresamente.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -489,11 +499,11 @@ Se entiende como vehículos automotores, los automóviles, omnibuses, camiones, 
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 41.
 
-Este impuesto se determinará aplicando a la base gravable una cuota fija de trescientos pesos.
+Este impuesto deberá ser cubierto con una cuota fija de trescientos pesos.
 
 Los adquirentes de vehículos automotores usados deberán efectuar la retención del impuesto que corresponda a los sujetos de este impuesto al momento de realizar la operación y enterarlos en las fechas señaladas.
 
@@ -623,7 +633,19 @@ DÍAS DE SALARIO
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-I.- La inscripción o registro de títulos, ya sea de documentos públicos o privados. De resoluciones judiciales, administrativas o de cualquier otra naturaleza por virtud de los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión de bienes inmuebles: 200
+I.- La inscripción o registro de títulos, ya sea
+
+de documentos públicos o privados. De
+
+resoluciones judiciales, administrativas o de
+
+cualquier otra naturaleza por virtud de los
+
+cuales se adquiera, trasmita, modifique o
+
+extinga el dominio o la posesión de bienes
+
+inmuebles: 200
 
 > <small>(DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -641,7 +663,7 @@ No causarán los derechos por el registro de la primera enajenación de terrenos
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
-Tendrán derecho a una reducción del 50% en el monto del derecho que se cauce por el registro de la primera enajenación de los terrenos, cuyo valor no exceda de multiplicar cinco veces el salario mínimo general diario vigente en el Estado, elevado al año y que tenga una superficie no mayor a 180m2.
+Tendrán derecho a una reducción del 50% en el monto del derecho que se cauce por el registro de la primera enajenación de los terrenos, cuyo valor no exceda de multiplicar cinco veces el salario mínimo general diario vigente en el Estado, elevado al año y que tenga una superficie no mayor a 180 m2.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -653,95 +675,253 @@ III.- La cancelación de la inscripción a que se refiere la fracción anterior,
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-IV.- La inscripción de contratos de créditos hipotecarios, prendarios, refaccionarios y de habilitación y avío, celebrados por instituciones de crédito, de seguros o fianzas y organizaciones auxiliares o por sociedades financieras de objeto limitado. 100
+IV.- La inscripción de contratos de créditos
 
-La cancelación de inscripción a que se refiere la presente fracción, sobre el monto de la operación: 0.15%
+hipotecarios, prendarios, refaccionarios y de
 
-V.- El registro de la reestructuración de créditos, cuando ésta no implique financiamiento adicional o constitución de gravamen, sobre el monto de la operación. 0.25%
+habilitación y avío, celebrados por instituciones
+
+de crédito, de seguros o fianzas y
+
+organizaciones auxiliares o por sociedades
+
+financieras de objeto limitado. 100
+
+La cancelación de inscripción a que se refiere la
+
+presente fracción, sobre el monto de la operación: 0.15%
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+V.- El registro de la reestructuración de créditos,
+
+cuando ésta no implique financiamiento adicional
+
+o constitución de gravamen, sobre el monto de la
+
+operación. En los casos a que se refiere esta
+
+fracción, las cancelaciones no causarán derecho
+
+alguno. 0.25%
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 En los casos a que se refiere esta fracción, las cancelaciones no causarán derecho alguno.
 
-VI.- El registro de la cédula hipotecaria, sobre su valor 1%
+VI.- El registro de la cédula hipotecaria, sobre
 
-VII.- La inscripción de la constitución del patrimonio familiar. Exento
+su valor 1%
 
-VIII.- La cancelación del registro del patrimonio familiar. Exento
+VII.- La inscripción de la constitución del patrimonio
 
-IX.- La inscripción de las informaciones ad-perpetuam, sobre el valor catastral del inmueble. 1.35%
+familiar. Exento
 
-X.- La cancelación del registro de la información ad-perpetuam, sobre el valor catastral del inmueble. 3
+VIII.- La cancelación del registro del patrimonio
 
-Xl.- El depósito de testamentos ológrafos o cualquier otro documento. 5
+familiar. Exento
 
-XlI.- Si el depósito de testamento ológrafo se hace fuera de la oficina del registro 10
+IX.- La inscripción de las informaciones ad-perpetuam,
 
-XIII.- La inscripción de cualquier clase de testamento. 5
+sobre el valor catastral del inmueble. 1.35%
 
-XIV.- La inscripción de resoluciones dictadas en juicios sucesorios. 5
+X.- La cancelación del registro de la información
 
-XV.- La cancelación de la inscripción a que se refiere la fracción anterior. 3
+ad-perpetuam, sobre el valor catastral del inmueble. 3
 
-XVI.- La inscripción de la autorización de fraccionamientos de terrenos, por cada lote.1
+Xl.- El depósito de testamentos ológrafos o cualquier
 
-XVII.- La inscripción de la escritura por la cual se constituya el régimen de condominios de un inmueble, por cada departamento, despacho o local. 1
+otro documento. 5
 
-XVIII.- La inscripción de contratos mercantiles o civiles no incluidos en otras fracciones de este artículo. 5
+XlI.- Si el depósito de testamento ológrafo se hace
 
-XIX.- La inscripción de contratos relativos a bienes muebles en los que se estipule una condición resolutoria o la transmisión con reserva de dominio, sobre el monto de la operación 0.70%
+fuera de la oficina del registro 10
 
-XX.- La inscripción de contratos de corresponsalía de instituciones de crédito. 5
+XIII.- La inscripción de cualquier clase de
 
-XXI.- La cancelación de la inscripción a que se refiere la fracción anterior. 3
+testamento. 5
 
-XXII.- La inscripción de gravámenes sobre bienes muebles, sobre el monto de la operación garantizada. 0.70%
+XIV.- La inscripción de resoluciones dictadas en
 
-XXIII.- La inscripción de los convenios modificatorios que no afecten capital, o contratos mercantiles que den lugar a inscripción complementaria para su perfeccionamiento. 5
+juicios sucesorios. 5
 
-XXIV.- La inscripción de escrituras constitutivas de personas morales y de aumentos de capital o patrimonio, sobre el capital, patrimonio o aumento establecido. 0.60%
+XV.- La cancelación de la inscripción a que se
 
-En los casos que no se establezca capital o patrimonio. 10
+refiere la fracción anterior. 3
 
-XXV.- La inscripción de cualquier modificación a la escritura constitutiva de personas morales que no implique aumento de capital o patrimonio. 5
+XVI.- La inscripción de la autorización de
 
-XXVI.- La inscripción de actas de emisión de bonos u obligaciones de personas morales, o cualquier otro instrumento bursátil, sobre el valor de la emisión. 1.5%
+fraccionamientos de terrenos, por cada lote. 1
 
-XXVII.- La inscripción de actas de asambleas de socios, accionistas de consejo de administración o de cualquier otro tipo no estipuladas en otras fracciones de este articulo, referidas a personas morales. 5
+XVII.- La inscripción de la escritura por la cual
 
-XXVIII.- La cancelación de la inscripción del registro de escrituras constitutivas de personas morales. 3
+se constituya el régimen de condominios de un
 
-XXIX.- Si como consecuencia de la liquidación de la persona moral se adjudican bienes inmuebles, sobre el valor de adjudicación. 1.35%
+inmueble, por cada departamento, despacho o local. 1
 
-XXX.- La inscripción de poderes y sustitución de los mismos, por cada uno. 2
+XVIII.- La inscripción de contratos mercantiles o
 
-XXXI.- La inscripción de revocación de poderes, por cada uno. 1
+civiles no incluidos en otras fracciones de este
 
-XXXII.- La ratificación de documentos públicos o privados o de firmas ante el registro. 2
+artículo. 5
 
-XXXIII.- La búsqueda de constancias o datos para la expedición de certificados o informes, por cada período de 5 años o fracción. 1
+XIX.- La inscripción de contratos relativos a bienes
 
-XXXIV. La expedición de certificados o certificaciones relativas a las constancias del registro, independientemente de la búsqueda, por cada hoja. 1
+muebles en los que se estipule una condición
 
-XXXV.- La expedición de copia simple, por cada hoja 0.20
+resolutoria o la transmisión con reserva de
 
-XXXVI.- Los informes que se rindan por escrito, a solicitud de las autoridades incluyendo la búsqueda. 2
+dominio, sobre el monto de la operación 0.70%
 
-XXXVII.- La inscripción de las capitulaciones matrimoniales y sus modificaciones. 1
+XX.- La inscripción de contratos de corresponsalía
 
-XXXVlll.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse ésta por no ser inscribible o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial. 1
+de instituciones de crédito. 5
 
-XXXIX.- La inscripción de resoluciones judiciales en que se declare una quiebra o suspensión de pagos o se admita una liquidación judicial. 5
+XXI.- La cancelación de la inscripción a que se
 
-XL.- Cada búsqueda de datos o constancias para informes y certificados. 1
+refiere la fracción anterior. 3
+
+XXII.- La inscripción de gravámenes sobre bienes
+
+muebles, sobre el monto de la operación
+
+garantizada. 0.70%
+
+XXIII.- La inscripción de los convenios modificatorios
+
+que no afecten capital, o contratos mercantiles
+
+que den lugar a inscripción complementaria para
+
+su perfeccionamiento. 5
+
+XXIV.- La inscripción de escrituras constitutivas
+
+de personas morales y de aumentos de capital
+
+o patrimonio, sobre el capital, patrimonio o aumento
+
+establecido. 0.60%
+
+En los casos que no se establezca capital o
+
+patrimonio. 10
+
+XXV.- La inscripción de cualquier modificación
+
+a la escritura constitutiva de personas morales que
+
+no implique aumento de capital o patrimonio. 5
+
+XXVI.- La inscripción de actas de emisión de bonos
+
+u obligaciones de personas morales, o cualquier
+
+otro instrumento bursátil, sobre el valor de la
+
+emisión. 1.5%
+
+XXVII.- La inscripción de actas de asambleas de
+
+socios, accionistas de consejo de administración
+
+o de cualquier otro tipo no estipuladas en otras
+
+fracciones de este articulo, referidas a personas
+
+morales. 5
+
+XXVIII.- La cancelación de la inscripción del
+
+registro de escrituras constitutivas de personas
+
+morales. 3
+
+XXIX.- Si como consecuencia de la liquidación de
+
+la persona moral se adjudican bienes inmuebles,
+
+sobre el valor de adjudicación. 1.35%
+
+XXX.- La inscripción de poderes y sustitución de
+
+los mismos, por cada uno. 2
+
+XXXI.- La inscripción de revocación de poderes,
+
+por cada uno. 1
+
+XXXII.- La ratificación de documentos públicos o
+
+privados o de firmas ante el registro. 2
+
+XXXIII.- La búsqueda de constancias o datos para
+
+la expedición de certificados o informes, por cada
+
+período de 5 años o fracción. 1
+
+XXXIV. La expedición de certificados o
+
+certificaciones relativas a las constancias del
+
+registro, independientemente de la búsqueda,
+
+por cada hoja. 1
+
+XXXV.- La expedición de copia simple, por
+
+cada hoja 0.20
+
+XXXVI.- Los informes que se rindan por escrito,
+
+a solicitud de las autoridades incluyendo la
+
+búsqueda. 2
+
+XXXVII.- La inscripción de las capitulaciones
+
+matrimoniales y sus modificaciones. 1
+
+XXXVlll.- El examen de todo documento, sea público
+
+o privado, que se presente al registro para su
+
+inscripción, cuando se rehuse ésta por no ser
+
+inscribible o cuando se devuelva sin inscribir
+
+a petición del interesado o por resolución judicial. 1
+
+XXXIX.- La inscripción de resoluciones judiciales en
+
+que se declare una quiebra o suspensión de
+
+pagos o se admita una liquidación judicial. 5
+
+XL.- Cada búsqueda de datos o constancias para
+
+informes y certificados. 1
 
 XLI.- Cada anotación marginal. 1
 
-XLII.- La expedición de cada certificado de libertad o existencia de gravámenes, incluyendo la búsqueda. 3
+XLII.- La expedición de cada certificado de
 
-XLIII.- La expedición de cada certificado de no propiedad o de existencia de propiedad, incluyendo la búsqueda. 3
+libertad o existencia de gravámenes, incluyendo
 
-XLIV.- En los casos de servicios no previstos expresamente en este artículo, sobre el valor o monto que corresponda. 1.35%
+la búsqueda. 3
+
+XLIII.- La expedición de cada certificado de no
+
+propiedad o de existencia de propiedad, incluyendo
+
+la búsqueda. 3
+
+XLIV.- En los casos de servicios no previstos
+
+expresamente en este artículo, sobre el valor
+
+o monto que corresponda. 1.35%
 
 o cuando no exista valor o monto. 5
 
@@ -785,61 +965,83 @@ ARTICULO 69 BIS. Los servicios que la Secretaría de Recursos Naturales y Medio 
 
 I. Las personas físicas y morales a las que se les presten servicios por concepto de prevención y control de la contaminación correspondientes a obras y actividades que causen impacto ambiental en los términos de la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente y de sus reglamentos, causarán derechos conforme a lo siguiente:
 
-DÍAS DE PORCENTAJE
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-SALARIO
+1. Por la evaluación y dictaminación del informe preventivo, manifestación de impacto ambiental y/o estudio de riego (sic):
 
-1. Por la evaluación y dictaminación del
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-Informe Preventivo.
+DÍAS DE SALARIO
 
-a) Inversión de 50,000.00 hasta 25
+a) Inversión de menos de 500,000.00 pesos. 25
 
-500,000.00 pesos.
+b) Inversión de 500,000.00 hasta
 
-b) Inversión de 500,000.01 hasta 50
+1,000,000.00 de pesos. 50
 
-1,000,000.00 de pesos.
+c) Inversión de 1,000,000.01
 
-c) Inversión de más de 1,000.000.00 100
+hasta 5,000,000.00 de pesos. 100
 
-de pesos.
+d) Inversión de 5,000,000.01 hasta
 
-2. Por la evaluación y dictaminación de la
+10,000,000.00 de pesos. 200
 
-manifestación de impacto ambiental en
+e) Inversión de 10,000,000.01 hasta
 
-su modalidad particular.
+15,000,000.00 de pesos. 300
 
-a) Inversión de 50,000.00 hasta 50
+f) Inversión de 15,000,000.01 hasta
 
-500,000.00 pesos
+20,000,000.00 400
 
-b) Inversión de 500,000.01 hasta 100
+g) Inversión de 20,000,000.01 hasta
 
-1,000,000.00 de pesos
+25,000,000.00 de pesos. 500
 
-c) Inversión de más de 1,000,000.00 de 150
+h) Inversión de 25,000,000.01 hasta
 
-pesos
+30,000,000.00 de pesos. 600
 
-3. Por la evaluación y dictaminación de la
+i) Inversión de 30,000,000.01 hasta
 
-manifestación de impacto ambiental en
+35,000,000.00 de pesos. 700
 
-su modalidad Regional:
+j) Inversión de 35,000,000.01 hasta
 
-a) Inversión de 50,000.00 hasta 100
+40,000,000.00 de pesos. 800
 
-500,000.00 pesos
+k) Inversión de 40,000,000.01 hasta
 
-b) Inversión de 500,000.01 hasta 150
+45,000,000.00 de pesos. 900
 
-1,000,000.00 de pesos
+l) Inversión de 45,000,000.01 hasta
 
-c) Inversión de más de 1,000,000.00 de 200
+50,000,000.00 de pesos. 1000
 
-pesos
+m) Inversión de más de
+
+50,000,000.00 pesos. 1100
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+2. Por la evaluación y dictaminación de quemas
+
+a cielo abierto. 15
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+3. Por la solicitud de prorrogas del informe
+
+preventivo, la manifestación de impacto ambiental
+
+y/o el estudio de riesgo
+
+a) Prorrogas por 6 meses 25
+
+b) Prorrogas por 1 año 50
+
+c) Prorrogas por más de 1 año 100
 
 4. Por la evaluación y dictaminación del
 
@@ -919,27 +1121,23 @@ Ecológico y Protección al Ambiente y sus
 
 reglamentos.
 
-1. Los derechos correspondientes a
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-fuentes fijas, se pagarán conforme a
+1.- Los derechos correspondientes a fuentes fijas,
 
-lo siguiente:
+se pagarán conforme a lo siguiente
 
-a). Por la evaluación y dictaminación 93
+a) Por la evaluación y dictaminación de la 50
 
-de solicitud de Licencia de
+licencia ambiental única.
 
-funcionamiento.
+b) Por solicitud de cambio y/o actualización de la
 
-b). Por el otorgamiento y/o 46
+licencia ambiental única. 50
 
-actualización de la licencia de
+c) Por la recepción y evaluación de la cédula de
 
-funcionamiento.
-
-c). Por la autorización de la cédula 8
-
-de operación anual.
+operación anual. 10
 
 2. Los derechos por servicios prestados
 
@@ -999,83 +1197,75 @@ supervisión y verificación de la
 
 calidad de las mismas
 
-V. En sus funciones de derecho público, el
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-Estado prestará los Servicios
+V. En sus funciones de derecho públicos (sic), el Estado prestará los servicios correspondientes a la prevención y control de la contaminación por residuos que no sean de competencia federal, ni municipal, de acuerdo con las leyes, reglamentos y normas de su competencia, estableciéndose los siguientes derechos:
 
-correspondientes a la prevención y
+1. Por la evaluación y dictaminación de planes 20
 
-control de la contaminación por residuos
+de manejo de empresas públicas o privadas
 
-sólidos no peligrosos que no sean
+generadoras de residuos.
 
-competencia de los servicios públicos
+2. Por la evaluación de cada solicitud y en su
 
-municipales, estableciéndose los
+caso autorización de las siguientes actividades
 
-siguientes derechos:
+en materia de residuos, de acuerdo con las
 
-1. Por el registro de empresas 4
+leyes, reglamentos y normas:
 
-generadoras de residuos sólidos no
+a) Operaciones de unidades para la recolección 25
 
-peligrosos.
+y transporte de residuos.
 
-2. Por la evaluación de cada solicitud y
+b) Instalación y operación de sistemas de 75
 
-en su caso autorización de las
+almacenamiento de residuos.
 
-siguientes actividades en materia de
+c) Instalación y operación de sistemas de 75
 
-residuos sólidos no peligrosos, de
+reciclaje de residuos.
 
-acuerdo con la Ley y sus reglamentos:
+d) Instalación y operación de sistemas de 75
 
-a) Operaciones de unidades para la 25
+reuso de residuos.
 
-recolección y Transporte de
+e) Instalación y operación de sistemas de 100
 
-residuos sólidos que no sean
+tratamiento de residuos.
 
-peligrosos
+f) Instalación y operación de sistemas de 700
 
-b) Instalación y operación de 62
+incineración de residuos.
 
-sistemas de almacenamiento de
+g) Instalación y operación de sistemas 1000
 
-residuos sólidos no peligrosos
+para el confinamiento de residuos.
 
-c) Instalación y operación de 69
+3. Por la evaluación de cada solicitud y en su caso
 
-sistemas de reciclaje de residuos
+autorización de proyectos para la construcción o
 
-sólidos no peligrosos.
+rehabilitación de sitios de disposición final.
 
-d) Instalación y operación de 76
+a) Para sitios de disposición final con recepción 100
 
-sistemas de reuso de residuos
+mayor a 100 toneladas por día de residuos.
 
-sólidos no peligrosos.
+b) Para sitios de disposición final con recepción 75
 
-e) Instalación y operación de 88
+de 50 hasta 100 toneladas por día de residuos.
 
-sistemas de tratamiento de
+c) Para sitios de disposición final con recepción 50
 
-residuos sólidos no peligrosos
+de 10 hasta menos de 50 toneladas por día de
 
-f) Instalación y operación de 695
+residuos.
 
-sistemas de incineración de
+d) Para sitios de disposición final con recepción 25
 
-residuos sólidos no peligrosos
-
-g) Instalación y operación de 910
-
-sistemas para el confinamiento
-
-de residuos sólidos no
-
-peligrosos.
+menor a 10 toneladas por día de residuos.
 
 VI. Se causarán derechos por los servicios
 
@@ -1089,15 +1279,13 @@ térmica y radiaciones electromagnéticas
 
 no ionizantes:
 
-1. Por la licencia para operar 159
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-establecimientos industriales de
+1. Por la licencia para operar fuentes móviles 50
 
-Fuentes fijas que generen ruido,
+que generen ruido, vibraciones, olores, visual,
 
-vibraciones, olores, visual, energía
-
-lumínica, térmica y-o radiaciones
+energía lumínica, térmica y-o radiaciones
 
 electromagnéticas no ionizantes.
 
@@ -1120,6 +1308,16 @@ construcción u ornamento con el
 siguiente criterio:
 
 Por cada 10m3 de material. 3
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VIII. Otras no especificadas que no sean de
+
+competencia federal, ni municipal, de acuerdo
+
+con las leyes, reglamentos y normas de su
+
+competencia. 20
 
 > <small>(ADICIONADO CON EL APARTADO Y ARTICULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -1603,17 +1801,21 @@ XI Certificación de firmas. 3
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-XII. Registro de reconocimientos: 5
+XII Registro de reconocimientos: 5
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-XIII. Anotaciones en los registros
+XIII Anotaciones en los registros
 
 por mandato judicial a petición
 
 de la parte interesada: 6
 
-XIV. Otros servicios no especificados
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XIV Por la expedición de formato para registro 0.5
+
+XV Otros servicios no especificados
 
 en las fracciones anteriores: 3
 
@@ -2333,6 +2535,28 @@ V. Por la ampliación y cambio de ruta, el
 
 a que se refiere la fracción IV de este artículo.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VI. Por la autorización de publicidad en los medios de transporte público de acuerdo a las normas Técnicas para la instalación y Autorización de Publicidad en los Medios de Transporte Público:
+
+a) Para vehículos hasta de cinco pasajeros 5
+
+b) Para vehículos de más de cinco pasajeros 7
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VII. Por los permisos provisionales que se
+
+expidan por la Dirección General de
+
+Transportes del Estado 5
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VIII. las demás autorizaciones no consideradas
+
+en el presente artículo 10
+
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO UNICO
@@ -2518,3 +2742,9 @@ SEGUNDO. El canje de placas se llevará a cabo cada tres años independientement
 P.O. 21 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 1 de enero del año 2008.
