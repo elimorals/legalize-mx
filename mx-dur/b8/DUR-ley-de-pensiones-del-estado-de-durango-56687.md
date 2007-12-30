@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-pensiones-del-estado-de-durango-56687"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-05"
-last_updated: "2007-08-05"
+last_updated: "2007-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PENSIONES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 5 de agosto de 2007.
 
@@ -775,9 +775,11 @@ Cuando dos o más personas reclamen el derecho a recibir el pago de la pensión 
 
 DE LA PENSIÓN GARANTIZADA.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 89.
 
-Pensión garantizada es aquélla que la Dirección asegura a quienes reúnan los requisitos señalados en los artículos 72, 73, 78 y 85 de esta Ley, y su monto mensual será el equivalente a un salario mínimo general del área geográfica que corresponda a la ciudad de Durango en el momento en que entre en vigor esta Ley, dicha cantidad se actualizará anualmente para garantizar el poder adquisitivo de dicha pensión.
+Pensión garantizada es aquélla que la Dirección asegura a quienes reúnan los requisitos señalados en los artículos 72, 73, 76 y 83 de esta Ley, y su monto mensual será el equivalente a un salario mínimo general del área geográfica que corresponda a la ciudad de Durango en el momento en que entre en vigor esta Ley, dicha cantidad se actualizará anualmente para garantizar el poder adquisitivo de dicha pensión.
 
 En el caso de aquellos afiliados adscritos al Sistema Educativo que perciban ingresos por hora-semana-mes, y cuyo monto sea inferior a un salario mínimo, no serán sujetos de esta prestación, pudiendo retirar el monto de sus cuotas en una sola exhibición.
 
@@ -1284,3 +1286,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Una vez publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan al presente Decreto.
