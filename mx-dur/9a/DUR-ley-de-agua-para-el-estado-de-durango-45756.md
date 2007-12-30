@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2007-06-14"
+last_updated: "2007-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -87,7 +87,9 @@ X.- COMITÉ DE CUENCA: Su actividad involucra a un solo afluente que regularment
 
 XI.- COMITÉ TÉCNICO DE AGUAS SUBTERRÁNEAS: Órgano auxiliar del Consejo de Cuenca, el cual esta integrado por los usuarios de las aguas nacionales subterráneas de los diferentes usos y el cual tiene como propósito coadyuvar en la recuperación, preservación y logro del equilibrio en acuíferos sobre explotados o en riesgo de sobreexplotación;
 
-XII.- COMITÉ TÉCNICO DE VIGILANCIA DE AGUAS Y MANTOS ACUÍFEROS: Órgano auxiliar de la Comisión, encargado de que los órganos operadores municipales, intermunicipales y concesionarios, cumplan con las obligaciones que les impone la Ley en materia de mantenimiento, conservación en óptimas condiciones de los mantos acuíferos de donde extraen las aguas de jurisdicción Estatal, con el fin de que estos no sean explotados más haya (sic) de los volúmenes anuales de agua, que la Comisión Nacional del Agua les haya autorizado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XII.- COMITÉ TÉCNICO DE VIGILANCIA DE AGUAS Y MANTOS ACUÍFEROS.- Órgano auxiliar de la Comisión, encargado de que los organismos operadores y concesionarios, cumplan con las obligaciones que les impone la Ley en materia de mantenimiento, extracción, conservación en optimas condiciones de los mantos acuíferos de donde extraen las aguas de jurisdicción Estatal, con el fin de que estos no sean explotados más haya de los volúmenes anuales de agua, que la Comisión Nacional del Agua les haya autorizado;
 
 XIII.- COMUNIDAD RURAL: Los centros de población con menos de 2500 habitantes;
 
@@ -97,7 +99,9 @@ XV.- CONCESIONARIO: La persona moral a la que se le concesionen los servicios p�
 
 XVI.- CONSEJO DE CUENCA: Órgano colegiado de integración mixta, que será la instancia de coordinación y concertación, apoyo, consulta y asesoría entre la Comisión Nacional del Agua, incluyendo el organismo de Cuenca que corresponda y las dependencias y entidades de las instancias Federales, Estatales, Municipales y los representantes de los usuarios de agua y de las organizaciones de la sociedad, de la respectiva cuenca hidrológica o región hidrológica;
 
-XVII.- CONTRATISTAS: Las personas físicas o morales que celebren contratos con los municipios, organismos operadores municipales o intermunicipales, o la Comisión, en los términos del artículo 135 de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XVII.- CONTRATISTAS: Las personas físicas o morales que celebren contratos con los municipios, organismos operadores o la Comisión, en los términos del artículo 135 de esta Ley;
 
 XVIII.- CONTRATOS PARA LA CONSTRUCCIÓN, POSESIÓN, OPERACIÓN Y TRANSFERENCIA: Son aquellos contratos celebrados para el financiamiento, construcción, posesión y operación de una obra nueva o sistema específico para la prestación de los servicios públicos, revirtiendo la propiedad de la obra al término del contrato, al contratante;
 
@@ -121,9 +125,13 @@ XXVI.- FACTIBILIDAD DE SERVICIOS: Es la disponibilidad que tiene los organismos 
 
 XXVII.- ORGANISMO DE CUENCA: Unidad técnica, administrativa y jurídica especializada, con carácter autónomo, adscrita directamente al titular de la Comisión Nacional del Agua, cuyas atribuciones se establecen en la Ley de Aguas Nacionales y sus reglamentos y cuyos recursos y presupuesto específicos son determinados por la Comisión Nacional del Agua;
 
-XXVIII.- ORGANISMO OPERADOR: La dependencia o entidad pública, municipal o intermunicipal que, en los términos de la presente Ley, tiene la responsabilidad de organizar y tomar a su cargo la administración, operación, conservación, mantenimiento, rehabilitación y ampliación de los servicios de agua potable, alcantarillado y saneamiento de aguas residuales de origen municipal, dentro de los límites de su circunscripción territorial;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-XXIX.- ORGANISMOS OPERADORES MUNICIPALES E INTERMUNICIPALES: son organismos públicos descentralizados creados como parte del sector administrativo de los Ayuntamientos, cuya responsabilidad es la de organizar y tomar a su cargo la administración, funcionamiento, conservación y operación de los servicios de agua potable, alcantarillado y saneamiento, dentro de los límites de su circunscripción territorial, para lo cual se les asignan los bienes que constituyen la infraestructura Municipal para la prestación de esos servicios y las atribuciones que les permitan cumplir con su responsabilidad, de acuerdo con la presente Ley;
+XXVIII. ORGANISMO OPERADOR: La dependencia o entidad de la administración pública municipal o intermunicipal, órgano desconcentrado de la Comisión, concesionarios o prestadores de servicios que, en los términos de la presente Ley, tienen a su cargo la administración, operación, conservación, mantenimiento, rehabilitación y ampliación del servicio público de agua potable, alcantarillado y saneamiento de aguas residuales de origen municipal, dentro de los límites de su circunscripción territorial;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XXIX. ORGANISMOS OPERADORES INTERMUNICIPALES: son organismos públicos descentralizados o empresas públicas de la administración pública municipal paramunicipal de uno o más Municipios, cuya responsabilidad es la de organizar y tomar a su cargo la administración, funcionamiento, conservación y operación de los servicios de agua potable, alcantarillado y saneamiento, dentro de los límites de su circunscripción territorial, para lo cual se les asignan los bienes que constituyen la infraestructura Municipal para la prestación de esos servicios y las atribuciones que les permitan cumplir con su responsabilidad, de acuerdo con la presente Ley;
 
 XXX.- NUEVOS USUARIOS: Personas físicas y morales que soliciten los servicios de agua potable, alcantarillado, saneamiento y disposición de aguas residuales tratadas o crudas;
 
@@ -269,7 +277,9 @@ V.- Las demás que les otorguen la presente Ley u otras disposiciones legales en
 
 Los usuarios de los servicios de agua potable, alcantarillado y saneamiento, en los términos de la presente Ley y dentro del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento, podrán participar en la planeación, programación, administración, operación, supervisión o vigilancia de los servicios y sistemas hidráulicos, así como el cuidado del uso eficiente del agua y preservación de calidad, a través de:
 
-I.- Órganos consultivos y de gobierno de los organismos operadores municipales a los que se refiere la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+I.- Órganos consultivos y de gobierno de los organismos operadores a los que se refiere la presente Ley;
 
 II.- Comités comunitarios creados para promover la construcción, conservación, mantenimiento, rehabilitación y operación de los sistemas de abastecimiento de agua potable, alcantarillado y saneamiento; y
 
@@ -337,7 +347,9 @@ X.- Promover el establecimiento y difusión de normas en lo referente a la reali
 
 XI.- Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica a los prestadores de los servicios públicos;
 
-XII.- Promover la creación, desarrollo y autosuficiencia administrativa, técnica y financiera de los organismos operadores Municipales e Intermunicipales para la prestación de los servicios públicos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XII.- Promover la creación, desarrollo y autosuficiencia administrativa, técnica y financiera de los organismos operadores para la prestación de los servicios públicos;
 
 XIII.- Promover la construcción y aprovechamiento de sistemas convencionales de riego;
 
@@ -357,7 +369,9 @@ XX.- Evaluar la disponibilidad del agua como recurso natural, para los efectos d
 
 XXI.- Promover la potabilización del agua y el tratamiento de las aguas residuales;
 
-XXII.- Coadyuvar con los organismos operadores municipales o intermunicipales en las gestiones de financiamiento y planeación de obras para los sistemas requeridos en la prestación de los servicios públicos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XXII.- Coadyuvar con los organismos operadores en las gestiones de financiamiento y planeación de obras para los sistemas requeridos en la prestación de los servicios públicos;
 
 XXIII.- Promover, apoyar y en su caso, gestionar ante las dependencias y Entidades Federales, las asignaciones, concesiones y permisos correspondientes con objeto de dotar de agua a los centros de población y asentamientos humanos;
 
@@ -403,7 +417,9 @@ El patrimonio de la Comisión estará constituido por:
 
 I.- Los activos que formen parte de su patrimonio;
 
-II.- Las aportaciones Federales, Estatales y Municipales que en su caso se realicen, así como las aportaciones que los organismos operadores municipales o intermunicipales lleven a cabo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+II.- Las aportaciones Federales, Estatales y Municipales que en su caso se realicen, así como las aportaciones que los organismos operadores lleven a cabo;
 
 III.- Los ingresos por la prestación de servicios públicos y reuso de las aguas residuales tratadas o por cualquier otro servicio que la Comisión preste al usuario;
 
@@ -437,13 +453,15 @@ II.- Los titulares de las dependencias de la administración pública estatal co
 
 III.- Un representante de los usuarios por cada uso de agua;
 
-IV.- Un representante de los organismos operadores municipales o intermunicipales, designado por mayoría de votos de los mismos organismos de entre sus respectivas juntas de gobierno;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+IV.- Un representante de los organismos operadores designado por mayoría de votos de los mismos organismos de entre sus respectivas juntas de gobierno;
 
 V.- Un representante de la Comisión Nacional del Agua, quien será invitado a formar parte de la Junta; y
 
 VI.- El presidente del Consejo Consultivo de la Comisión.
 
-VI.- El presidente del Consejo Consultivo de la Comisión. (SIC)
+VI.- El presidente del Consejo Consultivo de la Comisión. (sic)
 
 Por cada representante propietario se designará a su respectivo suplente.
 
@@ -571,19 +589,29 @@ La Comisión contará con un Consejo Consultivo que se integrará en el ámbito 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 28.
 
-Los servicios públicos de agua potable, alcantarillado y saneamiento, en los términos de la presente Ley, estarán a cargo de los Ayuntamientos, a través de cualquiera de los órganos administrativos siguientes:
+Los servicios públicos de agua potable, alcantarillado y saneamiento, en los términos de la presente Ley, estarán a cargo de los Ayuntamientos o la Comisión, en su caso a través de cualquiera de los siguientes organismos operadores:
 
-I.- Dependencia centralizada del Ayuntamiento;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-II.- Organismos operadores municipales;
+l.- Dependencia u órgano desconcentrado de la administración pública municipal centralizada;
 
-III.- Organismos operadores intermunicipales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+II.- Entidades paramunicipales: Organismos descentralizados o empresas públicas de la administración pública paramunicipal;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+III.- Organismos descentralizados o empresas públicas intermunicipales;
 
 IV.- Órganos desconcentrados de la Comisión;
 
-V.- Grupos organizados del sector social, a través de concesión otorgada por el Municipio; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+V.- Grupos organizados del sector social rural, a través de concesión otorgada por el Municipio; y
 
 VI.- Particulares que cuenten con concesión o hayan celebrado el respectivo contrato de prestación de servicios en los términos de Ley.
 
@@ -675,29 +703,39 @@ Los Ayuntamientos, en los casos de administración directa, deberán contar con 
 
 Los ingresos que obtengan los órganos administrativos a que se refiere el artículo 28 de esta Ley por el cobro de los servicios de agua potable, alcantarillado y saneamiento, deberán destinarse única y exclusivamente en la planeación, construcción, mejoramiento, ampliación, rehabilitación, mantenimiento, administración y prestación de los mismos, en consecuencia y por disposición de esta Ley, quedarán afectados para formar parte de su patrimonio los derechos, sus accesorios y demás ingresos que se causen por la prestación de los servicios públicos a su cargo; así como los adeudos, recargos, multas y los demás accesorios legales que determinen los organismos, en los términos de la legislación aplicable.
 
-### CAPÍTULO III. ORGANISMOS OPERADORES MUNICIPALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+### CAPÍTULO III. ENTIDADES PARAMUNICIPALES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 38.
 
-Los organismos operadores municipales, distintos a los que se refiere el capítulo II de este Título, tendrán funciones de interés público, las que se realizarán conforme a la presente Ley y demás disposiciones que resulten aplicables.
+Las entidades paramunicipales señaladas en las fracciones II y III del artículo 28 de la presente Ley que funjan como organismos operadores tendrán funciones de interés público, las que se realizarán conforme a la presente Ley y demás disposiciones que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 39.
 
-Los organismos operadores Municipales tendrán personalidad jurídica y patrimonio propio, así como autonomía técnica y administrativa en el manejo de sus recursos pudiendo, asimismo, ejercer los actos de autoridad que específicamente les señala la presente Ley. El ámbito geográfico de su acción serán todas las localidades que conforman el municipio de que se trate. Su domicilio se ubicará en la cabecera municipal, independientemente de que para el desarrollo de sus atribuciones y facultades establezcan delegaciones en donde se requiera, dentro del ámbito de su jurisdicción.
+Los organismos operadores paramunicipales tendrán personalidad jurídica y patrimonio propio, así como autonomía técnica y administrativa en el manejo de sus recursos pudiendo, asimismo, ejercer los actos de autoridad que específicamente les señala la presente Ley. El ámbito geográfico de su acción serán todas las localidades que conforman el municipio de que se trate. Su domicilio se ubicará en la cabecera municipal, independientemente de que para el desarrollo de sus atribuciones y establezcan delegaciones en donde se requiera, dentro del ámbito de su jurisdicción.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 40.
 
-Para la creación de los organismos operadores municipales se requerirá acuerdo del Cabildo, donde se asiente que el organismo se incorpora al Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento.
+La creación de los organismos operadores paramunicipales se efectuará mediante acuerdo del Cabildo, donde se asentará su incorporación al Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento.
 
-Los organismos operadores Municipales a que se refiere el presente artículo, podrán constituir los organismos operadores intermunicipales, conforme a lo previsto en el Capítulo III del presente Título.
+Los organismos operadores paramunicipales, previo acuerdo del Ayuntamiento respectivo, podrán constituir organismos operadores paramunicipales de carácter intermunicipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 41.
 
-Los organismos operadores municipales tendrán a su cargo:
+Los organismos operadores paramunicipales tendrán a su cargo:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-I. Las atribuciones a que se refiere el artículo 34 de la presente Ley, con excepción de las fracciones IX y XXIII;
+I.- Las atribuciones a que se refiere el artículo 34 de la presente Ley.
 
 II.- Proponer al Ayuntamiento las cuotas y tarifas de conformidad con lo establecido por el Capítulo VI del Título Cuarto de la presente Ley;
 
@@ -713,11 +751,15 @@ VII.- Utilizar todos los ingresos que recaude, obtenga o reciba, exclusivamente 
 
 VIII.- Realizar todas las acciones que se requieran, directa o indirectamente, para el cumplimiento de sus objetivos; y
 
-IX.- Las demás que señalen esta Ley y otros ordenamientos jurídicos.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+IX.- Las demás que señalen esta Ley, sus instrumentos de creación y otros ordenamientos jurídicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 42.
 
-El patrimonio del organismo operador Municipal estará integrado por:
+El patrimonio del organismo operador paramunicipal estará integrado por:
 
 I.- Los ingresos propios que resulten del cobro por la prestación de los servicios de agua potable, alcantarillado y saneamiento a su cargo en los términos de la presente Ley;
 
@@ -729,21 +771,31 @@ IV.- Los bienes y derechos que adquieran por cualquier medio;
 
 V.- Los demás ingresos que obtengan por los frutos o productos de su patrimonio; y
 
-VI.- Los ingresos y demás contribuciones accesorias que resulten de la aplicación de la presente Ley, cuyo cobro corresponda al organismo operador.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-Los bienes inmuebles de propiedad de los organismos, solo podrán gravarse o enajenarse en términos de la Ley Orgánica del Municipio Libre del Estado de Durango.
+VI.- Los ingresos tributarios y no tributarios y demás contribuciones accesorias que resulten de la aplicación de otras disposiciones aplicables y la presente Ley, cuyo cobro corresponda al organismo operador.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+Los bienes muebles e inmuebles propiedad de los organismos operadores paramunicipales, solo podrán gravarse o enajenarse en términos de las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 43.
 
-La recaudación y administración de los bienes e ingresos señalados en el artículo anterior y, en general, las operaciones que realicen los organismos operadores Municipales, deberán registrarse contablemente.
+La recaudación y administración de los bienes e ingresos señalados en el artículo anterior se efectuarán por los organismos operadores paramunicipales y deberán registrarse en sus sistemas de contabilidad de acuerdo a las normas de información financiera.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 44.
 
-Los organismos operadores Municipales, en su caso, podrán realizar las obras públicas hidráulicas respectivas, por sí o a través de terceros, de conformidad con el Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento a que se refiere la presente Ley.
+Los organismos operadores paramunicipales, en su caso, podrán realizar las obras públicas hidráulicas respectivas, por sí o a través de terceros, de conformidad con el Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento a que se refiere la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 45.
 
-El organismo operador Municipal podrá contratar directamente los créditos que requiera y responderá a sus adeudos con su propio patrimonio y con los ingresos que perciba en los términos de la presente Ley y demás disposiciones legales aplicables.
+El organismo operador paramunicipal podrá contratar directamente los créditos que requiera y responderá a sus adeudos con su propio patrimonio y con los ingresos que perciba en los términos de la presente Ley, la Ley de Deuda Pública del Estado de Durango y sus Municipios y demás disposiciones legales aplicables.
 
 ###### Artículo 46.
 
@@ -751,9 +803,11 @@ Los organismos operadores a que se refiere el artículo 28 de esta Ley, gozarán
 
 Los bienes de los organismos operadores destinados directamente a la prestación de los servicios a su cargo serán inembargables, exceptuándose todos aquellos en que se ejercieren acciones de crédito hipotecario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 47.
 
-La administración de los organismos operadores municipales estará a cargo de:
+La administración de los organismos operadores paramunicipales estará a cargo de:
 
 I.- Un Consejo Directivo;
 
@@ -773,9 +827,11 @@ II.- Dos representantes del Ayuntamiento, uno de los cuales fungirá como Vicepr
 
 III.- Un representante de la Comisión;
 
-IV.- Dos vocales nombrados por el Consejo Consultivo, los que provendrán de las organizaciones vecinales, comerciales, industriales o de otro tipo, integrantes de la sociedad civil que sean usuarios del servicio.
+IV.- Dos vocales nombrados por el Consejo Consultivo, los que provendrán de las organizaciones vecinales, comerciales, industriales o de otro tipo, integrantes de la sociedad civil que sean usuarios del servicio;
 
-V.- Un Secretario Técnico, que será el Director General del organismo operador municipal que se trate, el cual tendrá voz pero no voto.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+V.- Un Secretario Técnico, que será el Director General del organismo operador paramunicipal que se trate, el cual tendrá voz pero no voto.
 
 ###### Artículo 49.
 
@@ -791,7 +847,9 @@ II.- Resolver sobre los asuntos que en materia de agua potable, alcantarillado y
 
 III.- Aprobar y expedir la estructura administrativa y el Reglamento Interno del organismo operador;
 
-IV.- Revisar y aprobar los programas de inversión y el presupuesto general del organismo operador;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+IV.- Revisar, modificar y aprobar, en su caso, los proyectos de presupuestos de ingresos y de egresos anuales del organismo, a propuesta del Director General y remitirlos al Ayuntamiento para su inclusión en la iniciativa de Ley de Ingresos Municipales y el presupuesto de egresos respectivo;
 
 V.- Revisar y aprobar los estados financieros y los balances anuales del organismo operador, así como los informes generales y especiales, previo conocimiento del Comisario, y ordenar su publicación;
 
@@ -799,7 +857,9 @@ VI.- Determinar las cuotas y tarifas, de conformidad con lo establecido en el Ca
 
 VII.- Administrar el patrimonio del organismo operador y cuidar de su adecuado manejo;
 
-VIII.- Acordar la extensión de los servicios a otros municipios, previamente a los acuerdos o convenios respectivos en los términos de la presente Ley, para que el organismo operador Municipal se convierta en intermunicipal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Acordar la extensión de los servicios a otros municipios, previamente a los acuerdos o convenios respectivos en los términos de la presente Ley, para que el organismo operador paramunicipal se convierta en intermunicipal;
 
 IX.- A propuesta del Presidente nombrar o remover, al Director del organismo operador;
 
@@ -817,11 +877,11 @@ Los cargos de los miembros del Consejo Directivo serán honoríficos y, por lo m
 
 El Consejo Directivo celebrará una sesión ordinaria bimestral y las extraordinarias que sean necesarias, cuando las convoque el Presidente, el Director General o la mayoría de sus miembros.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 53.
 
-Se considera que habrá quórum cuando concurran como mínimo la mitad más uno de los integrantes del Consejo directivo, siempre que esté su presidente o vicepresidente. Las decisiones se tomarán por mayoría de votos de los miembros y en caso de empate, el presidente y en su ausencia el vicepresidente, tendrán voto de calidad. El Director General del Organismo Operador asistirá con voz a las sesiones del Consejo Directivo.
+Se considera que habrá quórum cuando concurran como mínimo la mitad más uno de los integrantes del Consejo Directivo, siempre que esté su Presidente o Vicepresidente y la mayoría de los presentes sean servidores públicos. Las decisiones se tomarán por mayoría de votos de los miembros y en caso de empate, el presidente y en su ausencia el vicepresidente, tendrán voto de calidad. El Director General del Organismo Operador paramunicipal asistirá con voz a las sesiones del Consejo Directivo.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
 
@@ -841,9 +901,11 @@ III.- No haber sido condenado con sentencia ejecutoriada por delito doloso que m
 
 IV.- Contar con Título y Cédula Profesional en áreas técnicas a que se refiere esta Ley, con una mínima antigüedad de tres años a la fecha del nombramiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 56.
 
-El Director General del organismo tendrá las siguientes atribuciones:
+El Director General del organismo paramunicipal tendrá las siguientes atribuciones:
 
 I.- Ejecutar los acuerdos y disposiciones del Consejo Directivo, dictando las medidas necesarias para su cumplimiento;
 
@@ -869,71 +931,105 @@ XI.- Licitar y contratar para su ejecución, las obras autorizadas, así como re
 
 XII.- Realizar en forma regular y periódica, el muestreo y análisis que le permitan tomar las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como el que, una vez utilizada, se vierta a las redes de alcantarillado y plantas de tratamiento;
 
-XIII.- Realizar las acciones necesarias para que el organismo operador se ajuste al Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento, así como a la coordinación y normatividad que efectúe la Comisión;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XIII.- Realizar las acciones necesarias para que el organismo operador paramunicipal se ajuste al Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento, así como a la coordinación y normatividad que efectúe la Comisión;
 
 XIV.- Establecer relaciones de coordinación con las autoridades Federales, Estatales y Municipales, la administración pública descentralizada o paraestatal y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
-XV.- Someter a la aprobación del Consejo Directivo las cuotas y tarifas que deba cobrar el organismo operador por la prestación de los servicios a su cargo, con base en las prevenciones establecidas por el Capítulo VI, Título Cuarto de la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XV.- Someter a la aprobación del Consejo Directivo las cuotas y tarifas que deba cobrar el organismo operador paramunicipal por la prestación de los servicios a su cargo, con base en las prevenciones establecidas por el Capítulo VI, Título Cuarto de la presente Ley;
 
 XVI.- Convocar a reuniones del Consejo Directivo, por propia iniciativa o a petición de tres miembros del Consejo Consultivo o del Comisario;
 
-XVII.- Someter a la aprobación del Consejo Directivo, el Reglamento Interior del organismo operador y sus modificaciones;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XVlI.- Someter a la aprobación del Consejo Directivo, el Reglamento Interior del organismo operador paramunicipal y sus modificaciones;
 
 XVIII.- Ordenar la suspensión de los servicios, por las causas que la presente Ley establece;
 
-XIX.- Aplicar las sanciones que establece la presente Ley por las infracciones que se cometan y que sean competencia del organismo operador; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XIX.- Aplicar las sanciones que establece la presente Ley por las infracciones que se cometan y que sean competencia del organismo operador paramunicipal; y
 
 XX.- Las demás que le señale el Consejo Directivo, esta Ley y demás disposiciones en la materia.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 57.
 
-El control y vigilancia de cada organismo operador recaerá en el Comisario, quien asistirá a todas las sesiones del Consejo Directivo, con voz pero sin voto. El Síndico Municipal del ayuntamiento respectivo, ejercerá la función de Comisario.
+El control y vigilancia de cada organismo operador paramunicipal recaerá en el Comisario, quien asistirá a todas las sesiones del Consejo Directivo, con voz pero sin voto. El Síndico Municipal del Ayuntamiento respectivo, ejercerá la función de Comisario.
 
 ###### Artículo 58.
 
 Corresponden al Comisario Público las siguientes atribuciones:
 
-I.- Practicar la auditoría y dictamen de los estados financieros del organismo operador así como las auditorías técnicas y administrativas al término de cada ejercicio fiscal, o antes si así lo considera conveniente;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-II.- Vigilar las actividades de recaudación y administración de las contribuciones que, por disposición de Ley, le corresponden al organismo operador;
+I.- Practicar la auditoria y dictamen de los estados financieros del organismo operador paramunicipal así como las auditorias técnicas y administrativas al término de cada ejercicio fiscal, o antes si así lo considera conveniente;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+II.- Vigilar las actividades de recaudación y administración de las contribuciones que, por disposición de Ley, le corresponden al organismo operador paramunicipal;
 
 III.- Vigilar la oportuna entrega al Ayuntamiento de los Informes;
 
-IV.- Vigilar que la administración de los recursos del organismo operador se realice de acuerdo con los programas y presupuestos aprobados en los términos de la presente Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+IV.- Vigilar que la administración de los recursos del organismo operador paramunicipal se realice de acuerdo con los programas y presupuestos aprobados en los términos de la presente Ley y demás disposiciones aplicables;
 
 V.- Informar al Consejo Directivo de las irregularidades que advierta;
 
-VI.- Rendir anualmente, en sesión ordinaria del Consejo Directivo, un Informe respecto a la veracidad, suficiencia y responsabilidad de la información presentada por el Director General del organismo operador;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-VII.- Convocar a sesiones ordinarias y extraordinarias del Consejo Directivo, en caso de omisión del Presidente o del Director General del organismo operador, y en cualquier otro caso en que lo juzgue conveniente;
+VI.- Rendir anualmente, en sesión ordinaria del Consejo Directivo, un Informe respecto a la veracidad, suficiencia y responsabilidad de la información presentada por el Director General del organismo operador paramunicipal;
 
-VIII.- Vigilar ilimitadamente y en cualquier tiempo, las operaciones del organismo operador; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VII.- Convocar a sesiones ordinarias y extraordinarias del Consejo Directivo, en caso de omisión del Presidente o del Director General del organismo operador paramunicipal, y en cualquier otro caso en que lo juzgue conveniente;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Vigilar ilimitadamente y en cualquier tiempo, las operaciones del organismo operador paramunicipal; y
 
 IX.- Las demás que le señale esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 59.
 
-El Comisario, para el debido cumplimiento de sus atribuciones, podrá auxiliarse del personal técnico que requiera, con cargo al organismo operador, o en su caso, solicitarle la asesoría a la Comisión.
+El Comisario, para el debido cumplimiento de sus atribuciones; podrá auxiliarse del personal técnico que requiera, con cargo al organismo operador paramunicipal, o en su caso, solicitarle la asesoría a la Comisión.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 60.
 
-El organismo operador contará con un Consejo Consultivo, como órgano colegiado de apoyo y auxilio para la realización de sus objetivos, mismo que deberá constituirse aún en el caso de que los servicios de agua potable, alcantarillado y saneamiento se presten directamente por el Ayuntamiento o por la Comisión.
+El organismo operador paramunicipal contará con un Consejo Consultivo, como órgano colegiado de apoyo y auxilio para la realización de sus objetivos, mismo que deberá constituirse aún en el caso de que los servicios de agua potable, alcantarillado y saneamiento se presten directamente por el Ayuntamiento o por la Comisión.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 61.
 
-El Consejo Consultivo se integrará y sesionará con el número de miembros y en la forma que se señale su Reglamento Interior, debiendo, en todo caso, incorporar a las principales organizaciones representativas de los sectores sociales y privado y de los usuarios de los servicios de agua potable, alcantarillado y saneamiento del municipio. El organismo operador proporcionará los elementos necesarios para que se integre el Consejo Consultivo y cuidará que sesione en la forma y términos que indique su Reglamento Interior.
+El Consejo Consultivo se integrará y sesionará con el número de miembros y en la forma que se señale su Reglamento Interior, debiendo, en todo caso, incorporar a las principales organizaciones representativas de los sectores sociales y privado y de los usuarios de los servicios de agua potable, alcantarillado y saneamiento del municipio. El organismo operador paramunicipal proporcionará los elementos necesarios para que se integre el Consejo Consultivo y cuidará que sesione en la forma y términos que indique su Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 62.
 
-No podrán formar parte del Consejo Consultivo, funcionarios o empleados del organismo operador, o servidores públicos del Gobierno del Estado o del Ayuntamiento.
+No podrán formar parte del Consejo Consultivo, funcionarios o empleados del organismo operador paramunicipal, o servidores públicos del Gobierno del Estado o del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 63.
 
-Los miembros del Consejo Consultivo designarán de entre ellos, en los términos del Reglamento Interior del organismo operador, a un Presidente y a un Vicepresidente, así como a sus suplentes respectivos, los cuales representarán al propio Consejo Consultivo y a los usuarios ante el Consejo Directivo del organismo operador.
+Los miembros del Consejo Consultivo designarán de entre ellos, en los términos del Reglamento Interior del organismo operador paramunicipal, a un Presidente y a un Vicepresidente, así como a sus suplentes respectivos, los cuales representarán al propio Consejo Consultivo y a los usuarios ante el Consejo Directivo del organismo operador paramunicipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 64.
 
-El Consejo Consultivo tendrá por objeto hacer participar a los usuarios en la operación del organismo operador, para lo cual tendrá las facultades siguientes:
+El Consejo Consultivo tendrá por objeto hacer participar a los usuarios en la cooperación del organismo operador paramunicipal, para lo cual tendrá las facultades siguientes:
 
 I.- Conocer sobre los resultados del organismo y emitir observaciones y recomendaciones para coadyuvar a su funcionamiento eficiente, y autosostenido;
 
@@ -941,15 +1037,19 @@ II.- Conocer y opinar y hacer observaciones sobre las cuotas, tarifas y precios 
 
 III.- Las demás que le señale el Reglamento Interior del organismo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 65.
 
-En el caso de que en un municipio se concesione, total o parcialmente, o se contrate a terceros para la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento, así como la construcción y operación de la infraestructura hidráulica respectiva, el organismo operador Municipal adecuará su estructura y operación para llevar a cabo las funciones de normatividad, asistencia, supervisión, control, evaluación e intervención que en apoyo al municipio se requiera, a fin de que la construcción, administración, operación, mantenimiento y desarrollo de los sistemas de agua potable, alcantarillado y saneamiento se realice adecuadamente, de conformidad con las disposiciones legales aplicables.
+En el caso de que en un municipio se concesione, total o parcialmente, o se contrate a terceros para la prestación de los servicios públicos de agua potable alcantarillado y saneamiento, así como la construcción y operación de la infraestructura hidráulica respectiva, el organismo operador paramunicipal adecuará su estructura y cooperación para llevar a cabo las funciones de normatividad, asistencia, supervisión, control, evaluación e intervención que en apoyo al municipio se requiera, a fin de que la construcción, administración, operación, mantenimiento y desarrollo de los sistemas de agua potable, alcantarillado y saneamiento se realice adecuadamente, de conformidad con las disposiciones legales aplicables.
 
 #### SECCIÓN ÚNICA. DE LOS REGLAMENTOS DE LOS ÓRGANOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 66.
 
-Los reglamentos interiores de los organismos operadores municipales e intermunicipales, deberán contener como mínimo, de manera enunciativa y no limitativa, lo siguiente:
+Los reglamentos interiores de los organismos operadores, deberán contener como mínimo, de manera enunciativa y no limitativa, lo siguiente:
 
 I.- La denominación del organismo al cual se aplicará el ordenamiento;
 
@@ -973,7 +1073,9 @@ VIII.- Las demás que se considere necesario para el correcto desempeño del org
 
 Los Ayuntamientos, previo convenio y la opinión del Ejecutivo del Estado, a través de la Comisión, podrán coordinarse para la prestación de los servicios de agua potable, alcantarillado y saneamiento, a través de un organismo operador existente en alguno de los municipios correspondientes o uno de nueva creación.
 
-A partir de la publicación del Convenio a que se refiere el párrafo anterior en el Periódico Oficial del Gobierno del Estado, el organismo operador municipal respectivo se transformará en organismo operador intermunicipal, y los demás organismos operadores municipales comprendidos en dicho convenio se extinguirán. En el mismo convenio, se establecerá la incorporación del nuevo organismo intermunicipal al Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+A partir de la publicación del Convenio a que se refiere el párrafo anterior en el Periódico Oficial del Gobierno Constitucional del Estado, el organismo operador respectivo se transformará en organismo operador intermunicipal, y los demás organismos operadores comprendidos en dicho convenio se extinguirán. En el mismo convenio, se establecerá la incorporación del nuevo organismo intermunicipal al Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento.
 
 El organismo operador intermunicipal, por disposición de Ley, se subrogará en las responsabilidades y asumirá los derechos y obligaciones de los organismos operadores que se extinguen.
 
@@ -1075,7 +1177,9 @@ II.- La ejecución de obras de infraestructura hidráulica y proyectos relaciona
 
 III.- La administración, operación y mantenimiento total o parcial de los sistemas destinados a la prestación de los servicios públicos; y
 
-IV.- Las demás actividades que convengan con los municipios, los organismos operadores Municipales o intermunicipales o la Comisión.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+IV.- Las demás actividades que convengan con los municipios, los organismos operadores o la Comisión.
 
 ###### Artículo 80.
 
@@ -1137,17 +1241,21 @@ Dos o más municipios podrán celebrar Convenios para el otorgamiento de las con
 
 La Comisión podrá proporcionar, a solicitud de los interesados, los apoyos y asistencia técnica para la construcción, operación, conservación, mejoramiento y modernización de las obras hidráulicas y los servicios para su operación.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 89.
 
-Los Ayuntamientos podrán otorgar y revocar las concesiones referidas en los artículos 82 y 86 de esta Ley, conforme a los lineamientos técnicos y políticos que fije el Ejecutivo Estatal por conducto de la Comisión. Los Ayuntamientos podrán ejercitar estas facultades directamente o por conducto del organismo operador Municipal o el organismo operador intermunicipal, previo acuerdo del Ayuntamiento o Ayuntamientos respectivos.
+Los Ayuntamientos podrán otorgar y revocar las concesiones referidas en los artículos 82 y 86 de esta Ley, conforme a los lineamientos técnicos y políticos que fije el Ejecutivo Estatal por conducto de la Comisión. Los Ayuntamientos podrán ejercitar estas facultades directamente o por conducto del organismo operador correspondiente, previo acuerdo del Ayuntamiento o Ayuntamientos respectivos.
 
 ###### Artículo 90.
 
 Independientemente de quien otorgue o se reserve la facultad de otorgar y revocar las concesiones y autorizaciones a que se refiere este Capítulo, corresponde a los Ayuntamientos, organismos operadores respectivos y, en su caso, a la Comisión, la normatividad, asistencia técnica, control, inspección, supervisión y evaluación de los servicios, obras y bienes concesionados, así como las demás facultades inherentes y las que se acuerden por el o los Ayuntamientos que correspondan.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 91.
 
-El concesionario podrá solicitar al Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, a la Comisión, el ejercicio de los actos de autoridad que le atribuye esta Ley, en apoyo al desarrollo de los servicios de agua potable, alcantarillado y saneamiento y el aprovechamiento de las aguas residuales tratadas, pudiendo el primero coadyuvar en la gestión de los trámites administrativos correspondientes.
+El concesionario podrá solicitar al Ayuntamiento, al organismos (sic) operador correspondiente o en su caso, a la Comisión, el ejercicio de los actos de autoridad que le atribuye esta Ley, en apoyo al desarrollo de los servicios de agua potable, alcantarillado y saneamiento y el aprovechamiento de las aguas residuales tratadas, pudiendo el primero coadyuvar en la gestión de los trámites administrativos correspondientes.
 
 ###### Artículo 92.
 
@@ -1197,13 +1305,17 @@ Las concesiones se otorgarán por el tiempo necesario para recuperar las inversi
 
 El concesionario se subrogará al organismo operador en los derechos y obligaciones que tenga éste con los usuarios, en los términos de la presente Ley. En tanto se formalizan, en su caso, nuevos contratos entre concesionario y usuario para la prestación de los servicios de que se trate, seguirán vigentes los contratos que se hayan celebrado con el organismo operador, mismos que para los servicios futuros se ajustarán a lo dispuesto en la presente Ley. En el caso de concesiones que incluyan los servicios de alcantarillado, los Ayuntamientos podrán proveer lo necesario para que sea el concesionario quien, a su nombre, emita las autorizaciones de descargas de aguas residuales a las redes municipales correspondientes, en los términos y condiciones de la legislación aplicable y las Normas Oficiales Mexicanas vigentes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 97.
 
-Al término de la concesión, las obras y demás bienes destinados directa o indirectamente a la prestación de los servicios concesionados, se revertirán a los organismos operadores Municipales o intermunicipales o, en su caso, al Ayuntamiento, en los términos del título de concesión y sin costo alguno.
+Al término de la concesión, las obras y demás bienes destinados directa o indirectamente a la prestación de los servicios concesionados, se revertirán a los organismos operadores o, en su caso, al Ayuntamiento, en los términos del título de concesión y sin costo alguno.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 98.
 
-Los concesionarios estarán obligados a capacitar y adiestrar al personal de los organismos operadores Municipales o intermunicipales, que los substituyan en la administración, operación, conservación y mantenimiento de los servicios, obras y bienes concesionados.
+Los concesionarios estarán obligados a capacitar al personal de los organismos operadores, que los substituyan en la administración, operación, conservación y mantenimiento de los servicios, obras y bienes concesionados.
 
 ###### Artículo 99.
 
@@ -1273,9 +1385,11 @@ III.- La Comisión remitirá al municipio la opinión correspondiente, en un pla
 
 IV.- El municipio dictará la resolución que corresponda en un plazo no mayor de quince días hábiles, contados a partir de la recepción de la opinión de la Comisión.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 105.
 
-Durante los dos años previos a la fecha de vencimiento de la concesión, los Ayuntamientos o sus órganos operadores y, en su caso, la Comisión, podrán designar un interventor a efecto de que vigile y dictamine el estado físico, económico y financiero de la infraestructura hidráulica concesionada y del resultado; la autoridad concedente dictará las medidas necesarias a fin de proteger la inversión y el patrimonio que constituye la infraestructura o servicio concesionado.
+Durante los dos años previos a la fecha de vencimiento de la concesión, los Ayuntamientos o sus organismos operadores y, en su caso, la Comisión, podrán designar un interventor a efecto de que vigile y dictamine el estado físico, económico y financiero de la infraestructura hidráulica concesionada y del resultado; la autoridad concedente dictará las medidas necesarias a fin de proteger la inversión y el patrimonio que constituye la infraestructura o servicio concesionado.
 
 ###### Artículo 106.
 
@@ -1291,7 +1405,9 @@ Las controversias que se susciten con motivo de la interpretación y aplicación
 
 Los grupos organizados del sector social sin fines de lucro, debidamente constituidos y reconocidos por la Autoridad Municipal, podrán ser concesionarios para la prestación de los servicios públicos en sus comunidades, bajo los siguientes requisitos:
 
-I.- Que, como condición indispensable, el Ayuntamiento no se encuentre ejerciendo la o las materias objeto de la concesión directamente o por conducto del organismo operador municipal o intermunicipal, de la Comisión o de particulares de la iniciativa privada a quienes se les hubiera otorgado previamente una concesión en los términos de la presente Ley. Este hecho se hará del conocimiento del público mediante declaratoria que se publique en el Periódico Oficial del Estado de Durango, o bien se difunda por otros medios a juicio de la autoridad concedente;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+I.- Que, como condición indispensable, el Ayuntamiento no se encuentre ejerciendo la o las materias objeto de la concesión directamente o por conducto del organismo operador, de la Comisión o de particulares de la iniciativa privada a quienes se les hubiera otorgado previamente una concesión en los términos de la presente Ley. Este hecho se hará del conocimiento del público mediante declaratoria que se publique en el Periódico Oficial del Gobierno Constitucional del Estado, o bien se difunda por otros medios a juicio de la autoridad concedente;
 
 II.- Las organizaciones interesadas deberán acreditar la representatividad mayoritaria de los usuarios de la comunidad en la que se pretenda obtener la concesión respectiva. En el caso de dos o más organizaciones interesadas dentro de una misma comunidad, será preferente aquella que demuestre una mayor capacidad técnica y que agrupe al mayor número de usuarios, con el compromiso explícito de prestar el servicio a toda la circunscripción. La calidad de usuario se acreditará con el recibo de pago que compruebe estar al corriente en las cuotas o tarifas por el servicio de agua potable;
 
@@ -1333,9 +1449,11 @@ IV.- Los demás contratos o convenios necesarios para capitalizar, mejorar, ampl
 
 En los casos en que se haya otorgado un contrato integral de prestación de los servicios públicos, y el contratista haya cumplido con las condiciones estipuladas en el mismo, se podrá asignar al contratista la concesión de los mismos sin necesidad de nuevo concurso, siempre y cuando así se haya estipulado en la licitación correspondiente al otorgamiento de dicho contrato. En estos casos, para la fijación de los requisitos en la licitación del contrato se considerarán los criterios que se hubieran considerado para el caso de concesión.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 115.
 
-Los contratos y convenios a que se refiere este capítulo, se considerarán de derecho público. El incumplimiento de sus cláusulas motivará su rescisión, previa audiencia de la parte afectada, independientemente de los convenios en los que se establezcan las penas convencionales y la forma de recuperación de la inversión realizada. La rescisión, por el municipio, los organismos operadores Municipales o intermunicipales, o la Comisión, de los contratos a que se refieren las fracciones I a III del artículo 113 del presente ordenamiento y aquellos casos en los que la calidad y continuidad de los servicios públicos dependa del contratante, requerirán de la previa opinión favorable de la Comisión.
+Los contratos y convenios a que se refiere este capítulo, se considerarán de derecho público. El incumplimiento de sus cláusulas motivará su rescisión, previa audiencia de la parte afectada, independientemente de los convenios en los que se establezcan las penas convencionales y la forma de recuperación de la inversión realizada. La rescisión, por el municipio, los organismos operadores, o la Comisión, de los contratos a que se refieren las fracciones I a III del artículo 113 del presente ordenamiento y aquellos casos en los que la calidad y continuidad de los servicio públicos dependa del contratante, requerirán de la previa opinión favorable de la Comisión.
 
 ###### Artículo 116.
 
@@ -1403,13 +1521,17 @@ III.- De treinta días naturales siguientes a la fecha de la apertura del giro c
 
 IV.- Dentro de los quince días naturales anteriores al inicio de una construcción, si ya existen los servicios.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 125.
 
-Dentro de los plazos señalados por el artículo anterior, los propietarios o poseedores de una unidad habitacional, predios, giros o establecimientos o sus legítimos representantes obligados a hacer uso del servicio de agua potable, alcantarillado o drenaje pluvial, incluido el suministro de agua residual tratada, deberán acudir a las oficinas del Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, a la Comisión, a solicitar la instalación de los servicios.
+Dentro de los plazos señalados por el artículo anterior, los propietarios o poseedores de una unidad habitacional, predios, giros o establecimientos o sus legítimos representantes obligados a hacer uso del servicio de agua potable, alcantarillado o drenaje pluvial, incluido el suministro de agua residual tratada, deberán acudir al Ayuntamiento, al organismo operador correspondiente, o en su caso, a la Comisión, a solicitar la instalación de los servicios.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 126.
 
-Cuando no se cumpla con la obligación que establece el artículo 124, independientemente de que se impongan las sanciones que procedan, el Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, la Comisión, podrán instalar la toma de agua potable o de agua tratada y la conexión de descarga a la red de alcantarillado respectiva, y su costo será a cargo del propietario o poseedor del predio de que se trate.
+Cuando no se cumpla con la obligación que establece el artículo 124, independientemente de que se impongan las sanciones que procedan, el Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, podrán instalar la toma de agua potable o de agua tratada y la conexión de descarga a la red de alcantarillado respectiva, y su costo será a cargo del propietario o poseedor del predio de que se trate.
 
 ###### Artículo 127.
 
@@ -1425,13 +1547,17 @@ A cada unidad habitacional, predio, giro o establecimiento corresponderá una to
 
 Para el caso de la utilización de dos sistemas de descargas, éstos se harán siempre que las condiciones físicas y estructurales, lo permitan.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 130.
 
-El Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, la Comisión, fijará las disposiciones técnicas a las que se sujetará el diámetro de la toma de agua independiente y de las dos de descargas, a que se refiere el artículo anterior y a su juicio podrá autorizar derivaciones en términos del Reglamento de la presente Ley.
+El Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, fijará las disposiciones técnicas a las que se sujetará el diámetro de la toma de agua independiente y de las dos de descargas, a que se refiere el artículo anterior y a su juicio podrá autorizar derivaciones en términos del Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 131.
 
-Las personas físicas o morales obligadas a contratar los servicios de agua potable, alcantarillado y saneamiento, incluido el suministro de agua tratada, deberán presentar sus solicitudes, cumpliendo con los requisitos señalados por el Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, por la Comisión que se indican en esta Ley y su Reglamento.
+Las personas físicas o morales obligadas a contratar los servicios de agua potable, alcantarillado y saneamiento, incluido el suministro de agua tratada, deberán presentar sus solicitudes, cumpliendo con los requisitos señalados por el Ayuntamiento, el organismo operador correspondiente o; en su caso, por la Comisión que se indican en esta Ley y su Reglamento.
 
 ###### Artículo 132.
 
@@ -1453,29 +1579,37 @@ IV.- Pagar la factibilidad de servicios solicitados.
 
 Las conexiones e instalaciones de tomas solicitadas se autorizarán con base en el resultado de la inspección practicada de acuerdo con esta Ley, en un término de seis días naturales computables a partir de la recepción del informe.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 135.
 
-Firmado el contrato correspondiente y pagado el importe del costo de la factibilidad, aparato medidor, instalación y conexión, y de las cuotas que correspondan, el Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, la Comisión, ordenarán la instalación de la toma de agua potable o de agua tratada, y la conexión de las descargas de aguas negras y/o pluviales, lo cual deberá llevarse a cabo dentro de los treinta días naturales siguientes a la fecha de pago en la oficina recaudadora.
+Firmado el contrato correspondiente y pagado el importe del costo de la factibilidad, aparato medidor, instalación y conexión, y de las cuotas que correspondan, el Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, ordenarán la instalación de la toma de agua potable o de agua tratada, y la conexión de las descargas de aguas negras y/o pluviales, lo cual deberá llevarse a cabo dentro de los treinta días naturales siguientes a la fecha de pago en la oficina recaudadora.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 136.
 
-Cuando se trate de tomas solicitadas por giros o establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije el Ayuntamiento, el organismo operador Municipal o intermunicipal o, en su caso, la Comisión.
+Cuando se trate de tomas solicitadas por giros o establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije el Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión.
 
 ###### Artículo 137.
 
 Es obligatorio para los usuarios la instalación de aparatos medidores para la verificación del consumo de agua potable o agua tratada. Al efecto, las tomas deberán instalarse a las puertas de entrada de los predios, giros o establecimiento, y los medidores en lugares accesibles, junto a dichas puertas, en forma tal que, sin dificultad se puedan llevar a cabo la lectura de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, su reparación o cambio, según lo disponga esta Ley o su Reglamento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 138.
 
-Instalada la toma y hechas las conexiones respectivas, el Ayuntamiento, el organismo operador Municipal o intermunicipal o, en su caso, la Comisión, comunicarán al propietario o poseedor del predio, giro o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos de cobro.
+Instalada la toma y hechas las conexiones respectivas, el Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, comunicarán al propietario o poseedor del predio, giro o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos de cobro.
 
 ###### Artículo 139.
 
 En los casos en que, con motivo de la instalación de la toma o las descargas, se destruya el pavimento, la guarnición o la banqueta, se realizará de inmediato su reparación por parte del prestador de los servicios, con cargo al usuario, en los términos de la presente Ley. Los trabajos deberán realizarse en un plazo que no exceda de diez días naturales contados a partir de la fecha en que se ordene su reparación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 140.
 
-Cualquier modificación que se pretenda hacer en el inmueble, giro o establecimiento, que afecte a las instalaciones de los servicios de agua potable, alcantarillado y saneamiento, obliga a los interesados a formular la solicitud correspondiente ante el Ayuntamiento, organismo operador municipal o intermunicipal o, en su caso, la Comisión, sujetándose a los plazos y procedimientos establecidos para la instalación y conexión de los servicios.
+Cualquier modificación que se pretenda hacer en el inmueble, giro o establecimiento, que afecte a las instalaciones de los servicios de agua potable, alcantarillado y saneamiento, obliga a los interesados a formular la solicitud correspondiente ante el Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, sujetándose a los plazos y procedimientos establecidos para la instalación y conexión de los servicios.
 
 En ningún caso el propietario o poseedor podrá ejecutar por sí mismo el cambio de sistema, instalación y supresión de los servicios que regula la presente Ley.
 
@@ -1483,25 +1617,33 @@ En ningún caso el propietario o poseedor podrá ejecutar por sí mismo el cambi
 
 Independientemente de los casos en que conforme a esta Ley o su Reglamento proceda la suspensión o supresión de una toma de agua o de una descarga, el interesado podrá solicitar la suspensión o supresión respectiva, expresando las causas en que se funden las mismas.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 142.
 
-La solicitud a que se refiere el artículo anterior, será resuelta por el Ayuntamiento, el organismo operador Municipal o intermunicipal o, en su caso, por la Comisión, en un término de diez días a partir de su presentación.
+La solicitud a que se refiere el artículo anterior, será resuelta por el Ayuntamiento, el organismo operador correspondiente o, en su caso, por la Comisión, en un término de diez días a partir de su presentación.
 
 ###### Artículo 143.
 
 De ser favorable el acuerdo, éste se cumplimentará dentro de los cinco días siguientes a la fecha de su notificación, corriendo por cuenta del solicitante todos los gastos inherentes a la suspensión o supresión.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 144.
 
-No deberán existir derivaciones de tomas de agua o de descargas al alcantarillado. Cualquier excepción estará sujeta a la autorización, proyecto o control en su ejecución por el Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, por la Comisión, debiendo, en todo caso, contarse con las condiciones necesarias para que los mismos puedan cobrar las cuotas o tarifas que les correspondan por el suministro de dichos servicios.
+No deberán existir derivaciones de tomas de agua o de descargas al alcantarillado. Cualquier excepción estará sujeta a la autorización, proyecto o control en su ejecución por el Ayuntamiento, el organismo operador correspondiente o, en su caso, por la Comisión, debiendo, en todo caso, contarse con las condiciones necesarias para que los mismos puedan cobrar las cuotas o tarifas que les correspondan por el suministro de dichos servicios.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 145.
 
-Todo predio en el que se construyan edificios o condominios que tengan como destino la instalación de departamentos, despachos, negocios o comercios independientes o situaciones similares, deberá contar con las instalaciones de agua y alcantarillado adecuadas, autorizadas por la autoridad competente y el organismo operador Municipal o intermunicipal o, en su caso, por la Comisión, a fin de que esté en condiciones de cobrar a cada usuario el servicio que proceda.
+Todo predio en el que se construyan edificios o condominios que tengan como destino la instalación de departamentos, despachos, negocios o comercios independientes o situaciones similares, deberá contar con las instalaciones de agua y alcantarillado adecuadas, autorizadas por la autoridad competente y el organismo operador correspondiente o, en su caso, por la Comisión, a fin de que esté en condiciones de cobrar a cada usuario el servicio que proceda.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 146.
 
-Las fraccionadoras o urbanizadoras de conjuntos habitacionales deberán construir por su cuenta las instalaciones y conexiones de agua potable, alcantarillado y saneamiento necesarias de conformidad con el proyecto autorizado por la autoridad competente y las especificaciones del municipio, organismo operador Municipal o intermunicipal o, en su caso, por la Comisión; dichas obras pasarán al patrimonio de éste una vez que estén en operación.
+Las fraccionadoras o urbanizadoras de conjuntos habitacionales deberán construir por su cuenta las instalaciones y conexiones de agua potable, alcantarillado y saneamiento necesarias de conformidad con el proyecto autorizado por la autoridad competente y las especificaciones del municipio, el organismo operador correspondiente o, en su caso, por la Comisión; dichas obras pasarán al patrimonio de éste una vez que estén en operación.
 
 ###### Artículo 147.
 
@@ -1511,43 +1653,59 @@ Cuando los sistemas operadores estén en posibilidad de otorgar factibilidad de 
 
 Las personas que utilicen de manera clandestina los servicios de agua potable y alcantarillado, o el de abasto de agua tratada, deberán pagar las tarifas que correspondan a cinco años de estos servicios, independientemente de la cancelación de la toma y sin perjuicio de las sanciones que procedan, conforme a los artículo (sic) 244 y 245 de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 149.
 
-La definición de predios, giros o establecimientos, la forma en que otras autoridades o terceros deberán informar o avisar al municipio, organismo operador Municipal o intermunicipal o, en su caso, a la Comisión, de autorizaciones o actividades relacionadas con la presente Ley; los trámites y procedimientos que se requieran para su cumplimiento; la obligación de proporcionar información para integrar el padrón de usuarios y para facilitar el ejercicio de las atribuciones de la autoridad y, en general, las demás disposiciones necesarias para proveer a la exacta observancia y aplicación de la presente Ley, se precisarán en el reglamento de la misma.
+La definición de predios, giros o establecimientos, la forma en que otras autoridades o terceros deberán informar o avisar al municipio, el organismo operador correspondiente o, en su caso, a la Comisión, de autorizaciones o actividades relacionadas con la presente Ley; los trámites y procedimientos que se requieran para su cumplimiento; la obligación de proporcionar información para integrar el padrón de usuarios y para facilitar el ejercicio de las atribuciones de la autoridad y, en general, las demás disposiciones necesarias para proveer a la exacta observancia y aplicación de la presente Ley, se precisarán en el reglamento de la misma.
 
 ### CAPÍTULO III. CORRESPONSABILIDAD DE LOS USUARIOS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 150.
 
-Todo usuario del sector público, así como del sector privado o social, está obligado al pago de los servicios de agua potable, alcantarillado y saneamiento que preste el Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, la Comisión, con base en las cuotas y tarifas autorizadas.
+Todo usuario del sector público, así como del sector privado o social, está obligado al pago de los servicios de agua potable, alcantarillado y saneamiento que preste el Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, con base en las cuotas y tarifas autorizadas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 151.
 
-Los usuarios deberán pagar el importe de las cuotas y tarifas correspondientes dentro de los plazos que en cada caso señale el recibo correspondiente y en las oficinas que en cada caso determine el Ayuntamiento, organismo operador Municipal o intermunicipal o la Comisión.
+Los usuarios deberán pagar el importe de las cuotas y tarifas correspondientes dentro de los plazos que en cada caso señale el recibo correspondiente y en las oficinas que en cada caso determine el Ayuntamiento, el organismo operador correspondiente o la Comisión.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 152.
 
-El propietario de un predio responderá ante el Ayuntamiento, el organismo operador Municipal o intermunicipal o, en su caso la Comisión por los adeudos que ante los mismos se generen en los términos de esta Ley, los cuales tendrán el carácter de crédito fiscal para efectos de cobro.
+El propietario de un predio responderá ante el Ayuntamiento, el organismo operador correspondiente o, en su caso la Comisión por los adeudos que ante los mismos se generen en los términos de esta Ley, los cuales tendrán el carácter de crédito fiscal para efectos de cobro.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 153.
 
-Cuando se transfiera la propiedad de un inmueble con sus servicios, el nuevo propietario se subroga en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al Ayuntamiento, organismo operador Municipal o intermunicipal o, en su defecto, a la Comisión.
+Cuando se transfiera la propiedad de un inmueble con sus servicios, el nuevo propietario se subroga en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al Ayuntamiento, al organismo operador correspondiente o, en su defecto, a la Comisión.
 
 ###### Artículo 154.
 
 El servicio de agua potable o de abasto de agua residual tratada que disfruten los usuarios en los municipios del Estado, será medido. En los lugares donde no haya medidores o mientras éstos no se instalen, los pagos serán determinados por las cuotas fijas previamente establecidas, de conformidad con las características del inmueble y las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 155.
 
-El Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, la Comisión, en los términos del Reglamento de esta Ley, podrá optar por determinar el pago en función de los consumos anteriores, cuando no sea posible medir el consumo debido a la destrucción total o parcial del medidor respectivo, independientemente de los cargos a cubrir por la reposición del mismo.
+El Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, en los términos del Reglamento de esta Ley, podrá optar por determinar el pago en función de los consumos anteriores, cuando no sea posible medir el consumo debido a la destrucción total o parcial del medidor respectivo, independientemente de los cargos a cubrir por la reposición del mismo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 156.
 
-Los usuarios que se surtan de los servicios que regula esta Ley por medio de derivaciones autorizadas por los Ayuntamientos, organismos operadores Municipales o intermunicipales o la Comisión, pagarán las tarifas mensuales correspondientes al medidor de la toma original de la que se deriven, pero si la toma no tiene medidor aún, cubrirán la cuota fija previamente establecida para dicha toma.
+Los usuarios que se surtan de los servicios que regula esta Ley por medio de derivaciones autorizadas por los Ayuntamientos, los organismos operadores correspondientes o la Comisión, pagarán las tarifas mensuales correspondientes al medidor de la toma original de la que se deriven, pero si la toma no tiene medidor aún, cubrirán la cuota fija previamente establecida para dicha toma.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 157.
 
-Por cada derivación, el usuario pagará al Ayuntamiento, organismo operador Municipal o intermunicipal o, en su defecto, a la Comisión, el importe de las cuotas de conexión que corresponda a una toma de agua directa, así como el servicio respectivo.
+Por cada derivación, el usuario pagará al Ayuntamiento, al organismo operador correspondiente o, en su defecto, a la Comisión, el importe de las cuotas de conexión que corresponda a una toma de agua directa, así como el servicio respectivo.
 
 ### CAPÍTULO IV. PRETRATAMIENTO Y REUSO DE AGUAS RESIDUALES
 
@@ -1559,13 +1717,17 @@ Queda prohibido que los desechos tóxicos sólidos o líquidos, de naturaleza bi
 
 Las descargas de aguas residuales provenientes de procesos industriales que requieran conectarse a las redes Municipales de alcantarillado deberán sujetarse a los límites permisibles en las Normas Oficiales Mexicanas vigentes. Las descargas de aguas residuales que contengan sustancias tóxicas o cualquier otro tipo de carga contaminante por encima de las Normas Oficiales Mexicanas vigentes, deberán ser tratadas antes de su descarga a la red Municipal o a los cauces de jurisdicción Estatal, conforme a los proyectos que previamente apruebe la Comisión.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 160.
 
-Los responsables de las descargas a que se refiere el artículo anterior y (sic) deberán solicitar al Ayuntamiento, organismo operador Municipal o intermunicipal o, en su caso, a la Comisión, el permiso de descarga correspondiente, en los términos de la presente Ley y su Reglamento.
+Los responsables de las descargas a que se refiere el artículo anterior, deberán solicitar al Ayuntamiento, al organismo operador correspondiente, en su caso, a la Comisión, el permiso de descarga correspondiente, en los términos de la presente Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 161.
 
-Los Ayuntamientos, organismos operadores Municipales e intermunicipales o, en su caso, la Comisión, atenderán prioritariamente al desarrollo de la infraestructura que permita el mayor aprovechamiento de las aguas residuales tratadas, donde así se justifique técnica, económica y ambientalmente.
+Los Ayuntamientos, el organismo operador correspondiente o, en su caso, la Comisión, atenderán prioritariamente al desarrollo de la infraestructura que permita el mayor aprovechamiento de las aguas residuales tratadas, donde así se justifique técnica, económica y ambientalmente.
 
 ###### Artículo 162.
 
@@ -1597,21 +1759,29 @@ Artículo 163 BIS.- La Comisión del Agua del Estado de Durango, en conjunto con
 
 Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento deberán conservar y mantener en estado óptimo sus instalaciones hidráulicas para evitar fugas y desperdicios de agua, deberán utilizar aparatos ahorradores de agua que permitan el uso racional y equitativo del agua en los casos, términos y características que determine la presente Ley, su Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 165.
 
-El Ayuntamiento, organismo operador municipal o intermunicipal o, en su caso, la Comisión, deberán proveer lo necesario a efecto de detectar y reparar oportunamente las fugas en las redes de conducción y distribución de agua.
+El Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, deberán proveer lo necesario a efecto de detectar y reparar oportunamente las fugas en las redes de conducción y distribución de agua.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 166.
 
-Toda persona física o moral debe reportar ante el Ayuntamiento, organismo operador Municipal e intermunicipal o, en su caso, la Comisión, la existencia de fugas de agua o de cualquier otra circunstancia que afecte el funcionamiento adecuado de los sistemas de agua potable, alcantarillado y saneamiento, de las cuales tenga conocimiento, pudiendo incluso demandar explicación fundamentada de las acciones correctivas que en su caso se hayan realizado, en los términos que el Reglamento de la presente Ley establezca.
+Toda persona física o moral debe reportar ante el Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, la existencia de fugas de agua o de cualquier otra circunstancia que afecte el funcionamiento adecuado de los sistemas de agua potable, alcantarillado y saneamiento, de las cuales tenga conocimiento, pudiendo incluso demandar explicación fundamentada de las acciones correctivas que en su caso se hallan realizado, en los términos que el Reglamento de la presente Ley establezca.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 167.
 
-El Ayuntamiento, organismo operador municipal o intermunicipal o, en su caso, la Comisión, en épocas de estiaje, escasez de agua comprobada o previsible, o mantenimiento y reparación de los sistemas de abasto, regulación y distribución, podrán establecer condiciones de restricción en las zonas afectadas, durante el tiempo que estimen necesario y previo aviso oportuno a los usuarios a través de los medios de comunicación disponibles.
+El Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, en épocas de estiaje, escasez de agua comprobada o previsible, o mantenimiento y reparación de los sistemas de abasto, regulación y distribución, podrán establecer condiciones de restricción en las zonas afectadas, durante el tiempo que estimen necesario y previo aviso oportuno a los usuarios a través de los medios de comunicación disponibles.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 168.
 
-El Ayuntamiento, organismo operador municipal o intermunicipal o, en su caso, la Comisión, que tengan a cargo los servicios de agua potable, alcantarillado y saneamiento, serán responsables de vigilar el cumplimiento de las disposiciones de este Capítulo.
+El Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, que tengan a cargo los servicios de agua potable, alcantarillado y saneamiento, serán responsables de vigilar el cumplimiento de las disposiciones de este Capítulo.
 
 ### CAPÍTULO VI. DE LAS CUOTAS Y TARIFAS
 
@@ -1669,9 +1839,11 @@ El prestador de los servicios podrá determinar una estructura tarifaria que tom
 
 La Comisión vigilará la correcta aplicación de las fórmulas y aprobará las tarifas medias calculadas conforme al procedimiento establecido en el presente capítulo, así como la congruencia entre las tarifas medias y la estructura tarifaria correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 177.
 
-Las cuotas y tarifas se actualizarán automáticamente cada vez que el Índice Nacional de Precios al Consumidor se incremente en un cinco por ciento respecto del que estaba vigente a la última vez que se establecieron.
+Las cuotas y tarifas se actualizarán automáticamente cada vez que el índice Nacional de Precios al Consumidor se incremente en un cuatro por ciento respecto del que estaba vigente a la última vez que se establecieron.
 
 ###### Artículo 178.
 
@@ -1723,6 +1895,10 @@ j) Por otros servicios.
 
 Además de las clasificaciones anteriores, las tarifas serán aplicadas por rango de consumo y de acuerdo con lo que señale el Reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+En el caso de los organismos operadores que dependan del Municipio, se cubrirán las tasas, cuotas y tarifas que se señalen en las respectivas Leyes de Ingresos Municipales.
+
 ###### Artículo 180.
 
 No podrán existir exenciones respecto de las cuotas y tarifas a que se refiere el artículo anterior y su pago es independiente del cumplimiento a lo dispuesto en la Ley General de Equilibrio Ecológico y Protección al Ambiente, y de la legislación local respectiva.
@@ -1741,21 +1917,27 @@ Igualmente, quedan facultados el municipio y los prestadores de los servicios a 
 
 Lo anterior, será independiente de poner en conocimiento de tal situación a las autoridades sanitarias.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 184.
 
-Los Notarios Públicos y Jueces en funciones de Notario Público no autorizarán o certificarán los actos traslativos de dominio de bienes inmuebles urbanos, cuando no se acredite estar al corriente en el pago de cuotas o tarifas por servicio de agua potable, alcantarillado y saneamiento de aguas residuales.
+Los Notarios Públicos y Jueces en funciones de Notario Público no autorizarán o certificarán los actos traslativos de dominio de bienes inmuebles urbanos, cuando no se acredite estar al corriente en el pago de cuotas o tarifas por servicio de agua potable, alcantarillado y saneamiento de aguas residuales y, en este supuesto, el Registro Público de la Propiedad se abstendrá de inscribir cualquier contrato traslativo de dominio formalizado en escritura pública o privada.
 
-La violación a los (sic) dispuesto por el párrafo anterior, hará responsable (sic) solidarios de dichos adeudos al notario o al Juez en funciones de Notario, autorice, certifique o transmita l (sic) propiedad o el dominio del inmueble de que se trate.
+La violación a lo dispuesto por el párrafo anterior, hará responsable solidarios de dichos adeudos al Notario Público, al Juez en funciones de Notario y al servidor público del Registro Público de la Propiedad que autorice, certifique, transmita o inscriba la propiedad o el dominio del inmueble que se trate.
 
 ### CAPÍTULO VII. INSPECCIÓN Y VERIFICACIÓN
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 185.
 
-El Ayuntamiento, organismo operador o, en su defecto, la Comisión, contará con el número de inspectores que se requiera, con base en su propio presupuesto, para la verificación de los servicios que prestan.
+El Ayuntamiento, el organismo operador correspondiente o, en su defecto, la Comisión, contará con el número de inspectores que se requiera, con base en su propio presupuesto, para la verificación de los servicios que prestan.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 186.
 
-Para dar cumplimiento a las disposiciones de esta Ley y la Reglamentación respectiva, el Ayuntamiento, organismo operador o, en su defecto, la Comisión, ordenarán que se realicen visitas de inspección, las que se efectuarán por personal debidamente autorizado, estén o no concesionados los servicios, observando lo dispuesto por el Código de Justicia Administrativa para el Estado de Durango.
+Para dar cumplimiento a las disposiciones de esta Ley y la Reglamentación respectiva, el Ayuntamiento, el organismo operador correspondiente o, en su defecto, la Comisión, ordenarán que se realicen visitas de inspección, las que se efectuarán por personal debidamente autorizado, estén o no concesionados los servicios, observando lo dispuesto por el Código de Justicia Administrativa para el Estado de Durango.
 
 ###### Artículo 187.
 
@@ -1813,9 +1995,11 @@ La entrega del citatorio, que menciona los artículos anteriores, se hará const
 
 En caso de resistencia a la práctica de la visita anunciada, ya sea de una manera franca o por medio de evasiva o aplazamientos injustificados, se levantará un acta de infracción.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 197.
 
-El Ayuntamiento, organismo operador o, en su caso, la Comisión, notificará nuevamente al infractor previniéndolo que el día y hora que el (sic) efecto se señale, permita realizar la inspección, con el apercibimiento que de negarse a ella, será consignado por el delito consistente en la desobediencia a un mandato legítimo de autoridad en los términos del Código Penal del Estado de Durango.
+El Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, notificará nuevamente al infractor previniéndolo que el día y hora que al efecto se señale, permita realizar la inspección, con el apercibimiento que de negarse a ella, será consignado conforme a lo dispuesto por el Código Penal para el Estado Libre y Soberano de Durango.
 
 ###### Artículo 198.
 
@@ -1841,9 +2025,11 @@ En caso de infracción a las disposiciones de esta Ley, se levantará un acta en
 
 Cuando el infractor se niegue a firmar el acta respectiva, ésta deberá ser firmada por dos testigos que den fe de los hechos que constituyen la infracción. Si los testigos no supieren firmar, imprimirán su huella digital al calce del acta; lo mismo se hará si no sabe firmar el infractor, siempre que quiera hacerlo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 204.
 
-Los usuarios están obligados a permitir el acceso al personal del Ayuntamiento, organismo operador, o en su defecto, a la Comisión, debidamente acreditado, al lugar o lugares donde se encuentren instalados los medidores, para que tomen lecturas de éstos.
+Los usuarios están obligados a permitir el acceso al personal del Ayuntamiento, del organismo operador correspondiente, o en su defecto, de la Comisión, debidamente acreditado, al lugar o lugares donde se encuentren instalados los medidores, para que tomen lecturas de éstos.
 
 ###### Artículo 205.
 
@@ -1853,25 +2039,31 @@ La lectura de los aparatos medidores, para determinar el consumo de agua en cada
 
 El lecturista llenará un formato oficial, verificando que el número del medidor y el domicilio que se indique sean los correspondientes y expresará la lectura del medidor o la clave de no-lectura, en su caso.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 207.
 
-Corresponde en forma exclusiva a los Ayuntamientos, organismos operadores o, en su defecto, a la Comisión, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños.
+Corresponde en forma exclusiva a los Ayuntamientos, al organismo operador correspondiente o, en su defecto, a la Comisión, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños.
 
 ###### Artículo 208.
 
 Los usuarios cuidarán que no se deterioren o destruyan los aparatos medidores; por lo que deberán ser protegidos contra robo, manipulaciones indebidas y toda posible causa de deterioro.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 209.
 
-Los propietarios o poseedores de predios que cuenten con las instalaciones de aparatos medidores, están obligados a informar al Ayuntamiento, organismo operador o, en su defecto, a la Comisión, a la brevedad posible, todo daño o perjuicio causado a los mismos.
+Los propietarios o poseedores de predios que cuenten con las instalaciones de aparatos medidores, están obligados a informar al Ayuntamiento, al organismo operador correspondiente o, en su defecto, a la Comisión, a la brevedad posible, todo daño o perjuicio causado a los mismos.
 
 ###### Artículo 210.
 
 En los casos en que sea necesario, los organismos operadores a que se refiere la presente Ley ordenarán la revisión y el retiro del medidor, enviándolo a los talleres de reparación e instalando provisionalmente un medidor sustituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 211.
 
-Con el dictamen emitido por el Ayuntamiento, organismo operador o, en su defecto, la Comisión, se reparará o sustituirá el aparato.
+Con el dictamen emitido por el Ayuntamiento, por el organismo operador correspondiente o, en su defecto, por la Comisión, se reparará o sustituirá el aparato.
 
 El propietario o poseedor del predio, pagará los gastos que origine toda reparación o sustitución del aparato medidor.
 
@@ -1879,9 +2071,11 @@ El propietario o poseedor del predio, pagará los gastos que origine toda repara
 
 Si la descarga de albañal domiciliario se destruye por causa imputable a los usuarios, propietarios o poseedores de los predios, éstos deberán pagar la obra necesaria para suplirla, de acuerdo a los costos vigentes en el momento de la sustitución.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 213.
 
-Queda facultado el Ayuntamiento, organismo operador o, en su defecto, la Comisión, a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de alcantarillado, a aquellos usuarios que incumplen con el pago respectivo conforme a lo dispuesto en la presente Ley; o bien, en colaboración a las autoridades ecológicas competentes, cuando las descargas no cumplan con lo dispuesto en la Legislación de equilibrio ecológico y protección al ambiente.
+Queda facultado el Ayuntamiento, el organismo operador correspondiente o, en su defecto, la Comisión, a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de alcantarillado, a aquellos usuarios que incumplan con el pago respectivo conforme a lo dispuesto en la presente Ley; o bien, en colaboración con las autoridades ecológicas competentes, cuando las descargas no cumplan con lo dispuesto en la legislación de equilibrio ecológico y protección al ambiente.
 
 ## TÍTULO QUINTO. REGULACIÓN Y CONSERVACIÓN DEL AGUA
 
@@ -1949,9 +2143,11 @@ Serán nulas de pleno derecho y no surtirán ningún efecto las transmisiones qu
 
 Es de interés público la promoción y ejecución de las medidas y acciones necesarias para proteger la calidad del agua.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 226.
 
-La Comisión, directamente o en coordinación con los municipios y los organismos Municipales o intermunicipales, tendrá a su cargo, en los términos y condiciones de las legislaciones aplicables, las Normas Oficiales mexicanas vigentes y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente:
+La Comisión, directamente o en coordinación con los municipios y los organismos operadores correspondientes, tendrá a su cargo, en los términos y condiciones de las legislaciones aplicables, las Normas Oficiales Mexicanas vigentes y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente:
 
 I.- Realizar estudios, investigaciones, planes y proyectos considerados en el Programa Hidráulico Estatal para la conservación y mejoramiento de la calidad del agua;
 
@@ -1967,13 +2163,17 @@ VI.- Promover, coordinar, supervisar y realizar, en su caso, las medidas necesar
 
 VII.- Ejercer las atribuciones que le correspondan en materia de prevención y control de la contaminación del agua y de su fiscalización y sanción, conforme a la Ley Orgánica de la Administración Pública Estatal o Municipal y de la Ley de Protección al Ambiente en el Estado de Durango.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 227.
 
-Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento, los Ayuntamientos, los organismos operadores Municipales o intermunicipales y la Comisión, en el ámbito de su competencia respectiva, promoverán el establecimiento de procesos de potabilización y, en su caso, de tratamiento de aguas residuales y de manejo y disposición de lodos, así como el fomento de instalaciones alternas que sustituyan al alcantarillado sanitario, cuando éste no pueda construirse; y la realización de las acciones necesarias para conseguir y mantener un adecuado nivel de calidad de las aguas.
+Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento, los Ayuntamientos, los organismos operadores correspondientes y la Comisión, en el ámbito de su competencia respectiva, promoverán el establecimiento de procesos de potabilización y; en su caso, de tratamiento de aguas residuales y de manejo y disposición de Iodos, así como el fomento de instalaciones alternas que sustituyan al alcantarillado sanitario, cuando este no pueda construirse; y la realización de las acciones necesarias para conseguir y mantener un adecuado nivel de calidad de las aguas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 228.
 
-Para los efectos del artículo anterior, las autoridades y organismos operadores a que el mismo se refiere, en los términos de la presente Ley, en coordinación con las autoridades federales competentes y atentos a lo dispuesto en las leyes General y Estatal del Equilibrio Ecológico y la Protección al Ambiente:
+Para los efectos del artículo anterior, las autoridades y organismos operadores correspondientes, en los términos de la presente Ley, en coordinación con las autoridades federales competentes y atentos a lo dispuesto en las Leyes General y Estatal del Equilibrio Ecológico y la Protección al Ambiente:
 
 I.- Podrán autorizar y otorgar el permiso para efectuar las descargas de aguas residuales en los sistemas de alcantarillado respectivos, a las personas físicas o morales que por el uso o aprovechamiento de agua en actividades productivas contaminen el recurso, en los términos y las condiciones que se señalen en esta Ley y su Reglamento;
 
@@ -1995,9 +2195,11 @@ Los usuarios de los servicios de agua potable y alcantarillado a que se refiere 
 
 Las autoridades y organismos competentes, mediante acuerdo de carácter general publicado en el Periódico Oficial, podrán eximir por región, municipio o localidad, del trámite y obtención del permiso a que se refiere el párrafo anterior y, en su caso, sustituirlo por un simple aviso.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 231.
 
-Las autoridades Municipales, los organismos operadores Municipales o intermunicipales o, en su caso, la Comisión, prestarán el auxilio y colaboración que le solicite el Gobierno Federal, a través de la autoridad competente, en la prevención, control y fiscalización de las actividades que se consideran altamente riesgosas conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como el manejo y control de los materiales o residuos peligrosos que sean vertidos a los sistemas de alcantarillado, mismos que se sujetan a dicha Ley federal y a las Normas Oficiales Mexicanas vigentes y procedimientos que establezca la misma autoridad.
+Las autoridades municipales, los organismos operadores correspondientes o, en su caso, la Comisión, prestarán el auxilio y colaboración que le solicite el Gobierno Federal, a través de la autoridad competente, en la prevención, control y fiscalización de las actividades que se consideran altamente riesgosas conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como el manejo y control de los materiales o residuos peligrosos que sean vertidos a los sistemas de alcantarillado, mismos que se sujetan a dicha Ley federal y a las Normas Oficiales Mexicanas vigentes y procedimientos que establezca la misma autoridad.
 
 ###### Artículo 232.
 
@@ -2027,9 +2229,11 @@ Los Ayuntamientos o, en su caso, la Comisión, promoverán ante las autoridades 
 
 ### CAPÍTULO V. DEL COMITÉ TÉCNICO DE VIGILANCIA DE AGUAS Y MANTOS ACUÍFEROS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 238.
 
-La Comisión contará con un órgano auxiliar denominado, Comité Técnico de Vigilancia de aguas y mantos acuíferos, encargado de que los órganos operadores municipales, intermunicipales y concesionarios, cumplan con las obligaciones que les impone la Ley en materia de mantenimiento, conservación en óptimas condiciones de los mantos acuíferos de donde extraen las aguas, con el fin de que éstos no sean explotados mas haya (sic) de los volúmenes anuales de agua, les hallan autorizado.
+La Comisión contará con un órgano auxiliar denominado, Comité Técnico de Vigilancia de Aguas y Mantos Acuíferos, encargado de que los organismos operadores y concesionarios, cumplan con las obligaciones que les impone la ley en materia de mantenimiento y conservación en optimas condiciones de los mantos acuíferos de donde extraen las aguas, con el fin de que estos sean explotados hasta los volúmenes anuales de agua autorizados.
 
 ###### Artículo 239.
 
@@ -2037,25 +2241,41 @@ El Comité Técnico de Vigilancia de aguas y mantos acuíferos, estará integrad
 
 Asimismo contará con el personal técnico especializado que sea necesario y que el presupuesto de egresos lo permita, teniendo las siguientes atribuciones y funciones:
 
-I.- Proponer a la Comisión las normas técnicas necesarias para que los órganos operadores municipales, intermunicipales y concesionarios, le den el mantenimiento mínimo indispensable a los pozos que están bajo su cargo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-II.- Vigilar constantemente que los órganos operadores municipales, intermunicipales y concesionarios, den el mantenimiento adecuado a sus pozos, para así evitar fugas de agua que puedan generar desabasto a los usuarios;
+I.- Proponer a la Comisión las normas técnicas necesarias para que los organismos operadores correspondientes y concesionarios, le den el mantenimiento mínimo indispensable a los pozos que están bajo su cargo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+II.- Vigilar constantemente que los organismos operadores y concesionarios, den el mantenimiento adecuado a sus pozos, para así evitar fugas de agua que puedan generar desabasto a los usuarios;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
 
 III.- Promover ante la Comisión y los Consejos de Cuencas que se encuentren integrados en el Estado, las recomendaciones necesarias a fin de que los mantos acuíferos sean explotados en los términos y conforme a la normatividad aplicable y que los mismos se conserven en las mejores condiciones;
 
-IV.- Proponer a la Comisión políticas que generen una mejor prestación a los usuarios de los servicios que proporcionan los órganos operadores municipales, intermunicipales y concesionarios;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-IV.- Llevar acabo las auditorías que sean necesarias, a fin de comprobar que lo (sic) órganos operadores municipales, intermunicipales y concesionarios, se encuentran extrayendo los volúmenes de aguas autorizados por la Comisión Nacional del Agua;
+IV.- Proponer a la Comisión políticas que generen una mejor prestación a los usuarios de los servicios que proporcionan los organismos operadores y concesionarios;
 
-V.- Vigilar que los órganos operadores cuenten en cada pozo con los sistemas y aparatos de medición necesarios a fin de supervisar que los volúmenes de agua extraídos sean los que se le autorizó;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-VI.- Proponer a través de la Comisión, a los ayuntamientos la revocación de las concesiones otorgadas a los particulares, cuando éstas no cumplan con los fines para los que les fue concedida;
+V.- Llevar acabo las auditorias que sean necesarias, a fin de comprobar que lo (sic) organismos operadores y concesionarios, se encuentran extrayendo los volúmenes de aguas autorizados por la Comisión Nacional del Agua;
 
-VII.- Proponer a la Comisión la imposición de las sanciones a los órganos operadores municipales, intermunicipales y concesionarios, por el incumplimiento de las disposiciones de esta Ley; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-VIII.- Las demás que determine la comisión y el reglamento correspondiente.
+VI.- Vigilar que los organismos operadores cuenten en cada pozo con los sistemas y aparatos de medición necesarios a fin de supervisar que los volúmenes de agua extraídos sean los que se le autorizó.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VII.- Proponer a través de la Comisión, a los ayuntamientos la revocación de las concesiones otorgadas a los particulares, cuando estas no cumplan con los fines para los que les fue concedida;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+VIII.- Proponer a la Comisión la imposición de las sanciones a los organismos operadores y concesionarios, por el incumplimiento de las disposiciones de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+IX.- Las demás que determine la comisión y el reglamento correspondiente:
 
 ### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -2179,9 +2399,11 @@ Las sanciones a que se refiere este capítulo se impondrán sin perjuicio de que
 
 Cuando los hechos que contravengan las disposiciones de esta Ley y su Reglamento constituyan un delito, se formularán (sic) denuncia ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que correspondan.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 248.
 
-Las sanciones que procedan por las faltas previstas en esta Ley tendrán destino específico en favor del Ayuntamiento, del organismo operador Municipal o intermunicipal o, en su caso, de la Comisión, y se impondrán sin perjuicio de las multas por infracciones fiscales y de la aplicación de las sanciones por la responsabilidad penal que resulte.
+Las sanciones que procedan por las faltas previstas en esta Ley tendrán destino específico en favor del Ayuntamiento, del organismo operador correspondiente o, en su caso, de la Comisión, y se impondrán sin perjuicio de las multas por infracciones fiscales y de la aplicación de las sanciones por la responsabilidad penal que resulte.
 
 ###### Artículo 249.
 
@@ -2378,3 +2600,7 @@ P.O. 14 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
