@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2003-06-08"
+last_updated: "2007-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -1181,9 +1181,13 @@ XI.- Formalizar jurídicamente los proyectos anuales de Ley de Ingresos y de Ley
 
 XII.- Revisar y aprobar los proyectos de convenios de colaboración administrativa y de coordinación fiscal, que propongan los otros órdenes de gobierno así como los demás instrumentos jurídicos en los que sea parte la Secretaría;
 
-XIII.- Compilar y mantener actualizado el acervo de leyes, reglamentos, acuerdos, circulares y demás disposiciones de observancia general, así como la jurisprudencia establecida por la Suprema Corte de Justicia de la Nación, el Tribunal Fiscal de la Federación y el Tribunal de lo Contencioso-Administrativo del Estado que se requieran para el correcto desempeño de sus atribuciones; y
+XIII.- Compilar y mantener actualizado el acervo de leyes, reglamentos, acuerdos, circulares y demás disposiciones de observancia general, así como la jurisprudencia establecida por la Suprema Corte de Justicia de la Nación, el Tribunal Fiscal de la Federación y el Tribunal de lo Contencioso-Administrativo del Estado que se requieran para el correcto desempeño de sus atribuciones; y (sic)
 
-XIV.- En general, lo que las leyes, reglamentos, convenios, acuerdos y otras disposiciones de observancia general le otorguen, o que el Secretario le delegue mediante acuerdo expreso.
+XIV.- En general, lo que las leyes, reglamentos, convenios, acuerdos y otras disposiciones de observancia general le otorguen, o que el Secretario le delegue mediante acuerdo expreso;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XV.- En ausencias del Secretario de Finanzas y de Administración del Gobierno del Estado, acudir en su nombre ante los Tribunales Federales, en los juicios de amparos, a efecto de rendir informes previos, justificados y promover cualquier medio de defensa donde el Secretario sea autoridad responsable.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2003)</small>
 
@@ -2686,3 +2690,9 @@ Se derogan todas las disposiciones legales que contravengan al presente decreto.
 P.O. 8 DE JUNIO DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 1 de enero del año 2008.
