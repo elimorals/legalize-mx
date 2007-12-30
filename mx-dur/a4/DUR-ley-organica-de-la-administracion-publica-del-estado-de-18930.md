@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2006-10-05"
+last_updated: "2007-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -269,9 +269,13 @@ X. Secretaría de Seguridad Pública;
 
 XI. Secretaría de Desarrollo Social; y
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-XII. Procuraduría General de Justicia.
+XII.- Secretaría de Turismo; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+XIII.- Procuraduría General oe Justicia.
 
 ###### ARTICULO 29.
 
@@ -561,15 +565,15 @@ XXVII. Proyectar las normas y, en su caso, celebrar los contratos o convenios re
 
 XXVIII. Los demás que le señalen las leyes y reglamentos vigentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 32.
+###### ARTÍCULO 32.
 
-La Secretaría de Desarrollo Económico, es la dependencia responsable de dirigir la planeación, programación y evaluación de las actividades de la administración pública estatal, relacionadas con el fomento y desarrollo de las actividades empresariales, turísticas y cinematográficas en el Estado.
+La Secretaría de Desarrollo Económico, es la dependencia responsable de dirigir la planeación, programación y evaluación de las actividades de la administración pública estatal, relacionadas con el fomento y desarrollo de las actividades empresariales, en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-La Secretaría tiene como objeto fundamental el fomento, la regulación y promoción del desarrollo industrial, minero, comercial, turístico, cinematográfico y de servicios del Estado, a fin de generar empleos, incrementar la exportación de productos manufacturados y elevar la competitividad de las empresas duranguenses, le corresponde el despacho de los siguientes asuntos:
+La Secretaría tiene como objeto fundamental el fomento, la regulación y promoción del desarrollo industrial, minero, comercial y de servicios del Estado, a fin de generar empleos, incrementar la exportación de productos manufacturados y elevar la competitividad de las empresas duranguenses, le corresponde el despacho de los siguientes asuntos:
 
 I. Impulsar el desarrollo económico sostenido, sustentable, armónico y equilibrado de las diferentes regiones y las ramas productivas de la entidad;
 
@@ -651,33 +655,123 @@ XXXIX. Establecer y desarrollar los programas de modernización administrativa e
 
 XL. Establecer medidas de mejora de las normas que regulan la actividad económica estatal y municipal, que faciliten el flujo de materias primas, insumos, mercancías, servicios y recursos, que fomenten la inversión mediante la eliminación de las regulaciones obsoletas y/o inadecuadas, que impidan el desempeño competitivo de los integrantes del proceso industrial en el marco de una economía de mercado;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+XLI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2007)
 
-XLI. Impulsar el desarrollo turístico y el fomento de la industria audiovisual en congruencia con las prioridades incluidas en el Plan Estatal de Desarrollo y los programas que de éste se deriven;
+XLII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2007)
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+XLIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2007)
 
-XLII. Desarrollar en coordinación con la Secretaría de Comunicaciones y Obras Públicas la promoción de infraestructura turística en áreas estratégicas de la Entidad;
+XLIV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2007)
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+XLV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2007)
 
-XLIII. Promover y fomentar la inversión de empresas turísticas y de prestadores de servicios para apoyar el desarrollo del sector a través de una cartera de proyectos en esta materia;
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
-
-XLIV. Celebrar convenios o acuerdos de colaboración y coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipales y con los sectores social y privado para la promoción y fomento del sector turístico, previo acuerdo del titular del Poder Ejecutivo;
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
-
-XLV. Representar al Titular del Poder Ejecutivo en los Comités Técnicos de los Fideicomisos del Impuesto sobre Hospedaje y del Fondo de Promoción Turística;
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
-
-XLVI. Establecer sistemas de información turística que permitan visualizar de manera general indicadores en diversas áreas de la misma actividad, y
+XLVI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2007)
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 XLVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 32 bis.- La Secretaría de Turismo, es la dependencia responsable de dirigir la planeación, programación y evaluación de las actividades de la Administración Pública Estatal, relacionadas con el fomento y desarrollo de las actividades turísticas y cinematográficas en el Estado, asegurando, en coordinación con las dependencias correspondientes, el aprovechamiento sustentable y la preservación de los recursos naturales y culturales.
+
+La Secretaría tiene como objeto esencial el fomento, la regulación y promoción del desarrollo turístico y cinematográfico del Estado, a fin de generar empleos, incrementar la venta de productos manufacturados y elevar la competitividad de las empresas duranguenses, le corresponde el despacho de los siguientes asuntos:
+
+I.- Establecer, conducir, supervisar y difundir, en coordinación con las autoridades competentes, la política de desarrollo y promoción de la actividad turística estatal, con base en la legislación y los criterios y normatividad que determine el Titular del Poder Ejecutivo del Estado;
+
+II.- Formular, instrumentar, conducir, difundir y evaluar los programas y acciones en materia de desarrollo turístico en la Entidad, con base en la legislación estatal y federal aplicable y las normas y lineamientos que determine el Gobernador del Estado. Además, elaborar los estudios y programas de factibilidad de inversión turística; lo anterior en vinculación con el Sistema Estatal de Planeación de la Entidad;
+
+III.- Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público, y mayor cercanía y calidad de servicios a la población;
+
+IV.- Coordinar, regular y evaluar el Sistema Estatal de Desarrollo Turístico, procurando que en su instrumentación, aplicación y supervisión participen las diferentes unidades de la Dependencia y las entidades del sector, con información y programas específicos de su competencia, que se vinculen con las metas y objetivos del programa y el sistema estatal a cargo del Sector; asimismo, fomentar que en el desarrollo del Sistema y programas a su cargo se promueva y asegure la participación ciudadana;
+
+V.- Ejercer las facultades de coordinación sectorial de la Dependencia, reservando a las unidades del nivel central las funciones de regulación y supervisión y transfiriendo a los órganos desconcentrados y a las entidades paraestatales del sector, la operación de los servicios a cargo del mismo. Igualmente proporcionarles la asistencia y apoyo técnico que requieran para el otorgamiento de los servicios;
+
+VI.- Concertar y promover con la Federación los programas, acciones y recursos que se emprendan en el Estado para desarrollar el turismo en la Entidad e impulsar su transformación económica y social, otorgando prioridad a las zonas del Estado con mayor potencialidad turística, asegurando la preservación del medio ambiente y el desarrollo sustentable, así como la extensión de los beneficios a los distintos sectores de la población y las diversas regiones del Estado. Igualmente fomentar, junto con las autoridades competentes, las zonas de desarrollo turístico del Estado y formular coordinadamente con las dependencias federales y locales correspondientes, la declaratoria respectiva;
+
+VII.- Ejercer, por delegación, las atribuciones y funciones que en materia turística establezcan los convenios suscritos entre el Poder Ejecutivo del Estado y la Administración Pública Federal; así como promover, instrumentar y supervisar aquellos que se celebren con los sectores público, social y privado;
+
+VIII.- Promover en forma conjunta con los sectores productivos el mejoramiento continúo de la calidad de los servicios turísticos que se presten en la entidad;
+
+IX.- Concertar con las diversas autoridades, dependencias e instituciones, medidas tendientes a agilizar y hacer más eficientes los servicios que éstas presten, en beneficio de la actividad turística.
+
+X.- Fomentar el desarrollo y conservación de atractivos turísticos estratégicos, tales como parques recreativos, museos, balnearios, sitios históricos, monumentos arqueológicos y lugares de interés general;
+
+XI.- Promover y gestionar la ejecución de obras y la creación de infraestructura básica y turística, con la participación de los tres niveles de gobierno y de los sectores social y privado;
+
+XII.- Promover inversiones en el Estado para proyectos de desarrollo turístico o la ampliación de servicios existentes, en coordinación con la Secretaría de Desarrollo Económico y de acuerdo a la legislación de la materia;
+
+XIII.- Propiciar la vinculación de los sectores académico y turístico en el diseño e implementación de estrategias que coadyuven al desarrollo del sector turístico;
+
+XIV.- Promover la participación ciudadana en las diferentes áreas comerciales y de servicios que incidan en la actividad turística;
+
+XV.- Determinar los mecanismos necesarios para la creación, conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos del Estado, aplicando criterios de sustentabilidad ambiental, social y económica:
+
+XVI.- Impulsar el desarrollo del turismo alternativo para proporcionar una mayor competitividad de los productos turísticos, promoviendo el desarrollo local y regional;
+
+XVII.- Fomentar la capacitación permanente de los trabajadores de las empresas de este sector para coadyuvar a elevar la calidad de los servicios turísticos que se prestan en el Estado;
+
+XVIII.- Proporcionar información, orientación y atención a los turistas en forma ágil y oportuna;
+
+XIX.- Gestionar ante las diferentes instancias, la oportuna y eficaz atención al turista de servicios colaterales de transportación, seguridad pública, sanidad, salud y procuración de justicia, entre otros;
+
+XX.- Concertar con los prestadores de servicios turísticos la integración de una oferta conjunta y de calidad que permita incrementar la afluencia y la estancia de los visitantes a la entidad;
+
+XXI.- Promover la realización así como la participación de los miembros del sector, en ferias y exposiciones turísticas, orientadas a difundir los atractivos de la entidad y presentar la oferta turística local a los prestadores de servicios nacionales e internacionales;
+
+XXII.- Participar en la realización de congresos, convenciones, festivales, espectáculos, torneos deportivos y otros eventos con el propósito de acrecentar el número de visitantes y su permanencia en el Estado;
+
+XXIII.- Fomentar el desarrollo de diversas modalidades de turismo tales como turismo ecológico, social, cultural, deportivo, náutico, de aventura y otras, sin menoscabo del cuidado y preservación del medio ambiente;
+
+XXIV.- Promover y gestionar la constitución de Fondos Mixtos de Promoción Turística que permitan el desarrollo armónico del sector turismo, así como todas las regiones del Estado, consolidando los existentes;
+
+XXV.- Representar al Titular del Poder Ejecutivo en los Comités Técnicos de los Fideicomisos del Impuesto sobre Hospedaje y del Fondo de Promoción Turística;
+
+XXVI.- Generar información confiable y objetiva del sector turístico estatal, instrumentando sistemas adecuados de difusión;
+
+XXVII.- Fomentar en la ciudadanía una cultura turística, así como la profesionalización de los prestadores de servicios;
+
+XXVIII.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo;
+
+XXIX.- Promover y fomentar la inversión de empresas turísticas y de prestadores de servicios para apoyar el desarrollo del sector a través de una cartera de proyectos en esta materia;
+
+XXX.- Celebrar convenios o acuerdos de colaboración y coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipales y con los sectores social y privado para la promoción y fomento del sector turístico, previo acuerdo del titular del Poder Ejecutivo;
+
+XXXI.- Establecer sistemas de información turística que permitan visualizar de manera general indicadores en diversas áreas de la misma actividad;
+
+XXXII.- Prever y diseñar los elementos necesarios para la integración y el mantenimiento de la información registral del turismo estatal, para fines de regulación y de programación;
+
+XXXIII.- Inscribir a los prestadores de servicio en el registro estatal de turismo y otorgar provisionalmente la cédula turística o la credencial, según sea el caso. Con la vigencia que específicamente se acuerde con la Secretaría de Turismo Federal;
+
+XXXIV.- Formular opinión fundada ante la Secretaría de Turismo Federal sobre los casos que presumiblemente ameriten la cancelación de la cédula o de la credencial, con base en las actuaciones de verificación;
+
+XXXV.- Turnar sistemáticamente la información dinámica del registro estatal de turismo a la instancia competente de la Secretaría de Turismo Federal, para efectos de mantener íntegro y actualizado el Registro Nacional de Turismo;
+
+XXXVI.- Registrar los reglamentos internos de establecimientos de hospedaje, así como las especificaciones y características de los paquetes manejados por agencias de viajes;
+
+XXXVII.- Autorizar los reglamentos interiores de los establecimientos turísticos;
+
+XXXVIII.- Regular y controlar la prestación de los servicios turísticos, vigilando que los establecimientos cuenten con cédula turística y demás requisitos de Ley;
+
+XXXIX.- Verificar que los servicios se presten conforme a su clasificación, categoría y de acuerdo con los términos contratados;
+
+XL.- Participar en la vigilancia, con el apoyo de las autoridades municipales, de la correcta aplicación de los precios y tarifas autorizados para la prestación de los servicios turísticos, conforme a las disposiciones legales y los convenios celebrados con la Federación;
+
+XLI.- Intervenir en las controversias entre turistas y prestadores de servicios y llevar a cabo la conciliación para resolver los conflictos de intereses, canalizando hacia las autoridades competentes los asuntos que impliquen violaciones a la Ley y sus reglamentos;
+
+XLII.- Practicar visitas de verificación ordinaria o especial, de acuerdo con las normas legales vigentes, levantando en cada caso el acta correspondiente debidamente requisitada y en su caso, aplicar las sanciones en los términos de las Leyes, Reglamentos y demás disposiciones legales de la materia, a los prestadores de servicios turísticos que no observen dichos ordenamientos;
+
+XLIII.- Verificar el cumplimiento de obligaciones señaladas en las pólizas de seguros, en relación con accidentes, daños y perjuicios que sufran los turistas;
+
+XLIV.- Conocer y resolver en el ámbito de su competencia, de los recursos administrativos que se interpongan en contra de los actos emanados de esta Secretaría;
+
+XLV.- Vigilar en la esfera de su competencia, el cumplimiento de las leyes en materia de turismo y demás disposiciones normativas aplicables;
+
+XLVI.- Establecer y dirigir la política interna en materia de atracción y promoción de proyectos de inversión cinematográficos, en los términos de la legislación aplicable y de los lineamientos que el titular del Ejecutivo establezca al efecto;
+
+XLVII.- Participar en el refrendo de las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan; y
+
+XLVIII.- Las demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otras dependencias.
 
 ###### ARTICULO 33.
 
@@ -1063,7 +1157,7 @@ XXXVIII. Las demás que le encomiende el Ejecutivo del Estado o le señalen las 
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-ARTÍCULO 37 bis.- La Secretaría de Seguridad Pública es la dependencia encargada de planear, organizar, ejecutar y controlar los programas, proyectos y acciones tendientes a garantizar la seguridad pública, la protección ciudadana, la prevención en la comisión de delitos, la readaptación social y la conservación del orden público en el Estado, y le corresponde el despacho de los siguientes asuntos:
+ARTICULO 37 bis.- La Secretaría de Seguridad Pública es la dependencia encargada de planear, organizar, ejecutar y controlar los programas, proyectos y acciones tendientes a garantizar la seguridad pública, la protección ciudadana, la prevención en la comisión de delitos, la readaptación social y la conservación del orden público en el Estado, y le corresponde el despacho de los siguientes asuntos:
 
 I. Proponer al Titular del Ejecutivo los programas relativos a seguridad pública y protección ciudadana y ejercer acciones necesarias que aseguren la libertad de la población, la prevención del delito y la readaptación social;
 
@@ -1121,7 +1215,7 @@ XXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones ju
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-Artículo 37 bis 1.- La Secretaría de Desarrollo Social es la dependencia del Ejecutivo Estatal responsable de programar, formular, conducir, evaluar y normar la política de planeación democrática, así como la relativa al desarrollo social de la Entidad. Le compete el despacho de los siguientes asuntos:
+ARTICULO 37 bis 1.- La Secretaría de Desarrollo Social es la dependencia del Ejecutivo Estatal responsable de programar, formular, conducir, evaluar y normar la política de planeación democrática, así como la relativa al desarrollo social de la Entidad. Le compete el despacho de los siguientes asuntos:
 
 I. Formular, conducir y evaluar la política de desarrollo social en coordinación con las dependencias federales y municipales correspondientes y los sectores social y privado;
 
@@ -1621,7 +1715,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CATO
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE OCTUBRE DE 2003.
 
@@ -1692,3 +1786,17 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas la sus disposiciones legales que se opongan al presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Una vez publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el presente Decreto entrará en vigor el primero de enero de 2008.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Toda la normatividad jurídica en materia de turismo y cinematografía queda reservada al conocimiento de la Secretaría de Turismo. Cuando las disposiciones jurídicas, contenidas en cualquier ley, reglamento, decreto o convenio, se refieran a facultades de la Secretaría de Desarrollo Económico o la Dirección de Turismo y Cinematografía, relacionadas con la materia que ahora se reserva a favor de la Secretaría de Turismo, se entenderá que la referencia es a la nueva dependencia.
+
+CUARTO.- La Secretaría de Turismo se subroga en todos los derechos y obligaciones asumidos por la Secretaría de Desarrollo Económico o cualquiera de sus áreas, en materia de turismo y cinematografía.
+
+QUINTO.- La Secretaría de Turismo iniciará sus operaciones con los recursos que actualmente tiene asignada la Dirección de Turismo y Cinematografía y los que le reasigne el Ejecutivo por conducto de la Secretaría de Finanzas y de Administración en tanto el Congreso autoriza la partida presupuestal correspondiente a la citada Secretaría.
+
+SEXTO.- El personal que actualmente labora para la Dirección de Turismo y Cinematografía se transferirá a la Secretaría de Turismo, respetando todos sus derechos laborales. Asimismo, los recursos materiales y financieros asignados a la citada Dirección se transferirán a la Secretaría de referencia, en los términos que especifique el Decreto de transferencia que al efecto emita el titular del Ejecutivo Estatal y con la intervención que las leyes otorgan en ese proceso a las distintas dependencias de la administración.
