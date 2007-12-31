@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2007-12-26"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -265,19 +265,29 @@ XIV. Tramitar los recursos administrativos que competa resolver al Gobernador de
 
 XV. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado.
 
-XVI. Proponer al Gobernador del Estado y ejecutar los programas relativos a la protección de los habitantes al orden público y la prevención de delitos.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-XVII. Velar por la protección de los habitantes, el orden público y la prevención de delitos.
+XVI. Proponer al Gobernador del Estado los programas relativos a la protección de los habitantes, el orden público y la prevención de delitos, que se ejecutarán a través de la Agencia de Seguridad Estatal.
 
-XVIII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-XIX. Elaborar y ejecutar los programas de readaptación social de los infractores.
+XVII. Velar por la protección de los habitantes, el orden público y la prevención de delitos a través de la Agencia de Seguridad Estatal.
 
-XX. Administrar los Centros de Readaptación Social y tramitar por acuerdo del Gobernador las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+XVIII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos, a través de la Agencia de Seguridad Estatal.
 
-XXI. Vigilar el establecimiento de instituciones y la aplicación de las medidas de tratamiento, a las personas a quienes se les atribuya la acción u omisión de una conducta antisocial tipificada como delito, por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XIX. Elaborar y ejecutar los programas de readaptación social de los infractores, a través de la Agencia de Seguridad Estatal.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XX. Administrar los centros de readaptación social y tramitar por acuerdo del Gobernador las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos, a través de la Agencia de Seguridad Estatal.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XXI. Vigilar el establecimiento de instituciones y la aplicación de la norma en materia de Justicia para Adolescentes, a través de la Agencia de Seguridad Estatal.
 
 XXII. Organizar y controlar la defensoría de oficio.
 
@@ -285,7 +295,7 @@ XXIII. Tramitar los nombramientos que para el ejercicio de las funciones notaria
 
 > <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
-XXIV. Llevar el Libro de Registro de Notarios.
+XXIV. Llevar el Libro de Registro de Notarios;
 
 XXV. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
 
@@ -1227,17 +1237,17 @@ X. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funcione
 
 XI. Las demás que señalen las leyes y reglamentos vigentes en el Estado;
 
-XII.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+XII. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
 
-XIII.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+XIII. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
 
-XIV.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+XIV. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
 
-XV.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+XV. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
 
-XVI.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+XVI. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
 
-XVII.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+XVII. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -1834,6 +1844,18 @@ OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto 
 NOVENO.- Las Secretarías de la Contraloría, de Finanzas y de Transporte, proveerán lo necesario para el cumplimiento de los artículos Segundo y Cuarto del presente Decreto.
 
 DÉCIMO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente Decreto en las unidades administrativas de la Secretaría de Transporte, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura orgánica autorizada y a este Decreto.
+
+G.G. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- Los Procedimientos Administrativos a cargo de la Agencia de Seguridad Estatal que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales que dieron origen a los mismos.
+
+QUINTO.- Los Procedimientos de Remoción radicados a la fecha en las Contralorías Internas correspondientes, serán tramitados y resueltos de conformidad a lo establecido con la legislación anterior y los procedimientos que aún no se remiten a dichos órganos de control interno, y los que se inicien deberán resolverse de conformidad con el procedimiento establecido en el presente decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
