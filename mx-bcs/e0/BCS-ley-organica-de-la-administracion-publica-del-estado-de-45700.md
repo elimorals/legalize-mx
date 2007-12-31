@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2007-05-23"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -463,7 +463,7 @@ e) Proponer al Gobernador del Estado el establecimiento de medidas de protecció
 
 f) Promover la suscripción de convenios de coordinación que tengan por objeto la participación del Estado en la ejecución de acciones y programas en materia de medio ambiente y aprovechamiento de los recursos naturales, así como ejercer las atribuciones que deriven de los mismos;
 
-g) Fomentar y realizar programas de reforestación y restauración ecológica, de acuerdo a los convenios de coordinación que se celebren con otras autoridades y organismos federales y estatales, así como con los Ayuntamientos, en el ámbito de sus respectivas competencias;
+g) (DEROGADO, B.O. 31 DE DICIEMBRE DE 2007)
 
 h) Ejercer las facultades que en materia de ecología le otorgan al Gobernador del Estado, la Ley de Equilibrio Ecológico y Protección del Ambiente del Estado y su Reglamento; así como la Ley de Aguas del Estado; y
 
@@ -593,7 +593,17 @@ f) Formular y ejecutar los programas y proyectos para el incremento de la produc
 
 g) Ejercer las facultades que le otorgan al Gobernador del Estado, las disposiciones legales y reglamentarias aplicables en la materia.
 
-IV. Las demás que le señalen las leyes aplicables en la entidad.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+IV. En materia forestal:
+
+a) Fomentar y realizar programas de reforestación y restauración ecológica, de acuerdo a los convenios de coordinación que se celebren con otras autoridades y organismos federales y estatales, así como con los Ayuntamientos, en el ámbito de sus respectivas competencias;
+
+b) Todas las previstas en el Capítulo Segundo, del Título Segundo de la Ley de Desarrollo Forestal Sustentable para el Estado de Baja California Sur.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+V. Las demás que le señalen las leyes aplicables en la entidad.
 
 ###### ARTÍCULO 26.
 
@@ -1206,3 +1216,13 @@ La Oficialía Mayor de Gobierno, transferirá a la Secretaría de Finanzas las f
 ###### ARTÍCULO CUARTO.
 
 Para los efectos presupuestales y administrativos a que haya lugar, la Secretaría de Finanzas realizará los ajustes y traspasos correspondientes.
+
+B.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- En tanto el Ejecutivo del Estado no celebre convenio alguno con la federación, no se aplicará lo dispuesto en los artículos 117, 118, 119, 120, 121, y 122 de ésta Ley, en los términos de lo dispuesto en el artículo 13 fracción XIII y XXVIII de la Ley General de Desarrollo Forestal Sustentable.
+
+TERCERO.- El Ejecutivo del Estado deberá prever en su Iniciativa del presupuesto de egresos para el ejercicio fiscal siguiente a la entrada en vigor de la presente Ley, los recursos necesarios para hacer efectivo lo dispuesto en los artículos 104, 105, 106 y 107.
+
+CUARTO.- El Gobierno del Estado tendrá un término de 60 días naturales contados a partir de la entrada en vigor de la presente Ley, para instalar el Consejo Estatal Forestal.
