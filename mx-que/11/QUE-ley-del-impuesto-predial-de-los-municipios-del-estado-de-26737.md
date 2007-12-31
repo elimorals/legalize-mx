@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2007-11-07"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -134,6 +134,12 @@ ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)
 Artículo 9 BIS.- Para incorporarse al padrón catastral, los predios regularizados mediante los Programas de Certificación de Derechos Ejidales (PROCEDE) o de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), pagarán sin exclusión de ningún tipo, una vez el salario mínimo diario general del Estado por concepto de impuesto predial, que incluye el ejercicio fiscal en curso, así como los anteriores que se adeuden, sin multas ni recargos en los términos de los artículos 22 y 23 de este ordenamiento, siempre y cuando realicen el pago de forma anualizada en el ejercicio fiscal que transcurre.
 
 Una vez incorporados estos predios en el padrón catastral, se sujetarán a las disposiciones establecidas por la presente ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Artículo 9 TER.- Cuando se trate de bienes inmuebles destinados únicamente a casa habitación, ubicados en el perímetro de zonas declaradas monumentos históricos, cuyo mantenimiento, conservación o restauración se realice con recursos de los propietarios de dichos inmuebles, a solicitud de éstos se otorgará un descuento no menor al 35% en el pago de este impuesto, debiendo aplicarse para ello los criterios generales que al efecto determine cada Ayuntamiento en su respectiva Ley de Ingresos.
+
+Para gozar del beneficio, el contribuyente deberá estar al corriente de sus pagos del impuesto y contar con el dictamen técnico favorable que expida la Delegación del Instituto Nacional de Antropología e Historia en el Estado de Querétaro, mismo que habrá de ser actualizado por el contribuyente en forma anual y presentado ante la Tesorería Municipal para el ejercicio que corresponda.
 
 ### CAPÍTULO SEGUNDO. DEL OBJETO Y SUJETO
 
@@ -728,3 +734,17 @@ La presente Ley entrará en vigor a partir del día siguiente de su publicación
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Notifíquese la presente Ley, al Instituto Nacional de Antropología e Historia, a través de su Delegación en Querétaro.
