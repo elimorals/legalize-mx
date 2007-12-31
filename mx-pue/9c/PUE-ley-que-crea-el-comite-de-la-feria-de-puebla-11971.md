@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-comite-de-la-feria-de-puebla-11971"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-18"
-last_updated: "1999-12-20"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY QUE CREA EL COMITE DE LA FERIA DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO QUE EXTINGUE EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE DE LA FERIA DE PUEBLA", PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 18 de septiembre de 1987.
 
@@ -490,3 +492,23 @@ En tanto se expidan las disposiciones reglamentarias y administrativas que se de
 P.O. 20 DE DICIEMBRE DE 1999.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los juicios, procesos o asuntos análogos en los que sea parte el "Comité de la Feria de Puebla" que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite, continuarán substanciándose por el Gobierno del Estado, a través de la Secretaría de Desarrollo Económico.
+
+TERCERO.- En los contratos, convenios y demás instrumentos jurídicos en los que consten acuerdos de voluntades que hubiese celebrado el "Comité de la Feria de Puebla" el Gobierno del Estado se subrogará por conducto de la Dependencia que corresponda, para que en uso de sus facultades acuerde y convenga los términos que permitan el debido desarrollo y funcionamiento de nuevas instalaciones.
+
+CUARTO.- La persona que haya sido designada por el Consejo Directivo del Comité de la Feria de Puebla como responsable para dar seguimiento y concluir los asuntos pendientes del Organismo y de realizar las acciones que resulten de la expedición del presente Decreto, en el plazo acordado por el Consejo Directivo deberá coordinarse con las Secretarías de Desarrollo Económico y de Desarrollo, Evaluación y Control de la Administración Pública, a fin de llevar a cabo la entrega-recepción de toda la documentación que conforma el archivo de la Entidad Paraestatal para que como Dependencia coordinadora de sector, cumpla con lo previsto en el presente Decreto y demás disposiciones legales aplicables.
+
+QUINTO.- Los recursos financieros con los que cuente el "Comité de la Feria de Puebla" a la entrada en vigor del presente Decreto, cualquiera que sea su origen, de conformidad con el artículo 34 de la Ley de Egresos del Estado de Puebla, para el Ejercicio Fiscal 2007, serán transferidos a la Secretaría de Finanzas y Administración, una vez que haya cubierto todos sus compromisos de pago y financieros.
+
+SEXTO.- Los recursos materiales propiedad o al cuidado del "Comité de la Feria de Puebla" a la entrada en vigor del presente Decreto, de conformidad con las disposiciones legales aplicables, deberán ser transferidos a la Secretaría de Finanzas y Administración.
+
+SÉPTIMO.- De existir bienes muebles y/o inmuebles en el patrimonio del "Comité de la Feria de Puebla", a la fecha de entrada en vigor del presente Decreto, en términos del artículo 30 de la Ley Orgánica de la Administración Pública del Estado, deberán ser transferidos al patrimonio del Gobierno del Estado por conducto de la Secretaría de Finanzas y Administración.
+
+OCTAVO.- Quedarán salvaguardados los derechos laborales que les correspondan, al personal que a la entrada en vigor del presente Decreto se encuentre laborando en el Organismo Público Descentralizado denominado "Comité de la Feria de Puebla".
+
+NOVENO.- Quedan sin efectos todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
