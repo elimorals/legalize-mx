@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2007-08-15"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -797,13 +797,15 @@ HIDALGO 0.00157628307
 
 TOTAL 1.00000000000
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Artículo tercero. Para el ejercicio fiscal del año 2007, los fondos de participaciones que establece el artículo 9, así como las participaciones que señala el artículo 14 de esta ley, se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2006, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
+Artículo tercero. Para el ejercicio fiscal del año 2008, los fondos de participaciones que establecen los artículos 9 y 14 de esta Ley, el Fondo de Compensación del ISAN, así como los Fondos de Fiscalización, y el Fondo de Extracción de Hidrocarburos, estos últimos derivados de la Reforma a la Ley de Coordinación Fiscal Federal, se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2007, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+La recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios, al consumo de gasolina y diesel, en sus porcentajes correspondientes al 9/11 y al 2/11 del Fondo de Compensación para las 10 entidades más pobres, se distribuirán a los municipios de la entidad en 70% con base en el factor de distribución del Fondo de Fortalecimiento Municipal y Demarcaciones Territoriales del D.F (FORTAMUNDF) y en 30% con base en el Fondo de Infraestructura Social Municipal (FISM) vigentes en 2007.
 
-Artículo cuarto. Para el ejercicio fiscal del año 2007, las participaciones federales que correspondan a los municipios por concepto del Impuesto sobre Tenencia o Uso de Vehículos se les distribuirán mediante la aplicación de los factores señalados en el artículo tercero transitorio de esta ley, que sustituirán a la fórmula a que se refiere el artículo 15 de este mismo ordenamiento.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Artículo cuarto. Para el ejercicio fiscal del año 2008, las participaciones federales que correspondan a los municipios por concepto del Impuesto sobre Tenencia o Uso de Vehículos se les distribuirán mediante la aplicación de los factores señalados en el Artículo Tercero Transitorio de esta Ley, que sustituirán a la fórmula a que se refiere el artículo 15 de este mismo ordenamiento.
 
 Artículo quinto. Para efecto de la determinación del Coeficiente de Participación Municipal (CPM i t-1) señalado en el artículo 12, y el coeficiente de recaudación municipal (CISTUV i t-1) señalado en el artículo 15, correspondiente al ejercicio fiscal del año 2001, se utilizarán los factores de distribución que se señalan en el artículo segundo transitorio de esta Ley.
 
@@ -892,3 +894,9 @@ Segundo. Se derogan todas las disposiciones que se opongan a este decreto.
 G.O. 15 DE AGOSTO DE 2007.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+
+G.O. 31 DE DICIEMBRE DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
