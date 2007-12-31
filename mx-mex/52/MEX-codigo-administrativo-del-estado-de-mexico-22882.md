@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2007-12-26"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -3735,6 +3735,10 @@ VI. Evacuación de personas y bienes;
 
 VII. Cualquiera otra acción o medida que tienda a garantizar el orden legal y el estado de derecho, así como evitar daños a personas o bienes.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+La Agencia de Seguridad Estatal a solicitud de las autoridades de desarrollo urbano coadyuvará en la aplicación de las anteriores medidas de seguridad en el ámbito de sus respectivas competencias.
+
 ###### Artículo 5.
 
 65.- La licencia de construcción tendrá por objeto autorizar:
@@ -3949,11 +3953,13 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 ###### Artículo 6.
 
-4.- Son autoridades en materia de protección civil, la Secretaría General de Gobierno y los ayuntamientos con las atribuciones que les otorga este Libro.
+4.- Son autoridades en materia de protección civil, la Secretaría General de Gobierno, que ejercerá sus atribuciones a través de la Agencia de Seguridad Estatal, la Dirección General de Protección Civil y los Ayuntamientos con las atribuciones que les otorga este Libro.
 
 ## TITULO SEXTO. De las medidas de seguridad y sanciones
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -3975,9 +3981,11 @@ IV. Las unidades internas;
 
 V. Los grupos voluntarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 6.
 
-7.- La coordinación ejecutiva del sistema estatal de protección civil estará a cargo de la Secretaría General de Gobierno, quien ejercerá las atribuciones siguientes:
+7.- La coordinación ejecutiva del sistema estatal de protección civil estará a cargo de la Secretaría General de Gobierno, quien la ejercerá a través de la Agencia de Seguridad Estatal, la cual tendrá las atribuciones siguientes:
 
 I. Vincular el sistema estatal de protección civil con el sistema nacional de protección civil;
 
@@ -4051,11 +4059,13 @@ IX. Coadyuvar en la vigilancia de la aplicación de los recursos que se destinen
 
 X. Las demás que se prevean en la reglamentación de este Libro.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
 ###### Artículo 6.
 
-10.- El Consejo Estatal de Protección Civil se integra por un presidente, que será el Gobernador del Estado; un secretario ejecutivo, que será el Secretario General de Gobierno; un Secretario Técnico, que será el Director General de Protección Civil, y los demás miembros que designe o invite el Gobernador del Estado.
+10.- El Consejo Estatal de Protección Civil se integra por un presidente, que será el Gobernador del Estado; un secretario ejecutivo, que será el Secretario General de Gobierno quien la ejercerá, a través del Comisionado de la Agencia de Seguridad Estatal; un secretario técnico que será el Director General de Protección Civil y los demás miembros que designe o invite el Gobernador del Estado.
 
 El cargo de miembro del Consejo Estatal de Protección Civil será honorífico.
 
@@ -4133,47 +4143,21 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 18.- Las personas de los sectores social y privado podrán establecer grupos de ayuda mutua o comités vecinales que realizarán las acciones de prevención, auxilio y recuperación en caso de riesgo o desastre.
 
-###### Artículo 6.
-
-19.- El Instituto de Protección Civil del Estado de México es un órgano desconcentrado de la Secretaría General de Gobierno, que tiene por objeto:
-
-I. Fomentar la capacitación y adiestramiento teórico y práctico, a individuos con actitud y espíritu en materia de protección civil, comprometidos con la sociedad, para intervenir en acciones de prevención y salvaguarda de las personas y sus bienes, en caso de riesgo, siniestro o desastre;
-
-II. Promover investigaciones científicas y técnicas y su aplicación en materia de protección civil;
-
-III. Contribuir al fortalecimiento del sistema estatal de protección civil.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
-20.- El Instituto para el cumplimiento de su objeto, tiene las atribuciones siguientes:
+19.- (DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
-I. Coadyuvar en la promoción permanente de la cultura de autoprotección, de prevención y solidaridad en las tareas de auxilio entre la población;
+###### Artículo 6.
 
-II. Desarrollar programas de formación, capacitación, adiestramiento y actualización de servidores públicos estatales y municipales, organizaciones sociales, privadas y académicas y, en general, de cualquier persona interesada en la protección civil;
-
-III. Participar en la formación, capacitación, adiestramiento y actualización de personal profesional y de servidores públicos estatales y municipales relacionados con la protección civil;
-
-IV. Otorgar constancias, diplomas, reconocimientos, certificados y distinciones especiales, a quienes hayan participado en programas de formación, capacitación, adiestramiento y actualización;
-
-V. Desarrollar investigaciones científicas y tecnológicas en materia de protección civil y promover su aplicación;
-
-VI. Proponer al titular de la Secretaría General de Gobierno la normatividad técnica en materia de protección civil;
-
-VII. Establecer los montos de las cuotas de recuperación y elaborar un programa de becas y exenciones;
-
-VIII. Asesorar a los sectores público, social y privado en la planeación, programación y operación de las actividades en materia de protección civil;
-
-IX. Coordinar sus acciones con la Dirección General de Protección Civil;
-
-X. Las demás que le confieran otros ordenamientos.
+20.- (DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ### CAPITULO SEXTO. De las unidades internas
 
 ###### Artículo 6.
 
-21.- El Instituto estará a cargo de un director general que será nombrado por el Gobernador del Estado.
-
-La organización y funcionamiento del Instituto se rige por su reglamento interno.
+21.- (DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 6.
 
@@ -4185,15 +4169,19 @@ Lo dispuesto en este artículo se hará en términos de la reglamentación de es
 
 ###### Artículo 6.
 
-23.- Requieren dictamen de protección civil expedido por la Secretaría General de Gobierno las construcciones que produzcan un impacto regional sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos en el artículo 5.61 del Libro Quinto de este Código.
+23.- La Secretaría General de Gobierno por conducto de la Agencia de Seguridad Estatal emitirá dictamen de protección civil, en los usos de suelo que produzcan un impacto regional sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos por el artículo 5.61 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación.
 
-Una vez concluidas las construcciones a que se refiere el párrafo anterior, para el inicio de operaciones se requerirá de la autorización de la Secretaría General de Gobierno.
+Una vez concluidas las construcciones derivadas del uso de suelo a que se refiere el párrafo anterior, para el inicio de las operaciones se requerirá la autorización de la Secretaría General de Gobierno por conducto de la Agencia de Seguridad Estatal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 6.
 
-24.- Requieren autorización de la Secretaría General de Gobierno las actividades que, pudieran generar fenómenos perturbadores.
+24.- Requieren autorización de la Secretaria General de Gobierno, las actividades que pudieran generar fenómenos perturbadores, quien la emitirá a través de la Agencia de Seguridad Estatal.
 
 La reglamentación de este Libro establecerá las actividades que requieren autorización.
 
@@ -4223,25 +4211,27 @@ IV. Las personas que se dediquen a prestar servicios de consultoría o capacitac
 
 ###### Artículo 6.
 
-29.- La Secretaría General de Gobierno organizará y desarrollará el sistema estatal de información de protección civil, con el objeto de obtener, generar y procesar la información necesaria para la planeación y evaluación de las actividades en materia de protección civil.
+29.- La Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, organizará y desarrollará el sistema estatal de información de protección civil, con el objeto de obtener, generar y procesar la información necesaria para la planeación y evaluación de las actividades en materia de protección civil, a fin de integrar el Registro Estatal de Protección Civil.
 
-Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría General de Gobierno los informes que les requiera.
+Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría General de Gobierno, por conducto de la Agencia de Seguridad Estatal, los informes a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 6.
 
-30.- La Secretaría General de Gobierno establecerá el Registro Estatal de Protección Civil, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
+30.- La Secretaría General de Gobierno a través de la Agencia de Seguridad Estatal, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información que refiere el artículo anterior.
 
 El Registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
 
 ###### Artículo 6.
 
-31.- Corresponde a la Secretaría General de Gobierno el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de mediano y alto riesgo, y a los municipios los de bajo riesgo.
+31.- Corresponde a la Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de mediano y alto riesgo, quien lo ejecutará por conducto de la Dirección General de Protección Civil. A los municipios competerán los de bajo riesgo.
 
 ###### Artículo 6.
 
-32.- En caso de riesgo inminente, sin perjuicio de la emisión de la declaratoria de emergencia, la Secretaría General de Gobierno y los municipios dictarán de inmediato las medidas de seguridad conducentes, a fin de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad.
+32.- En caso de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, la Dirección General de Protección Civil; y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Comisionado deberá informar al Secretario General de Gobierno las medidas de seguridad que fueron aplicadas.
 
 ## TITULO SEGUNDO. De los sistemas de protección civil
 
@@ -4269,7 +4259,7 @@ VI. El aislamiento de áreas afectadas.
 
 ###### Artículo 6.
 
-35.- Las infracciones a las disposiciones de este Libro y su reglamentación serán sancionadas por la Secretaría General de Gobierno y los municipios, en su caso, con:
+35.- Las infracciones a las disposiciones de este libro y su reglamentación serán sancionadas por la Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, por conducto de la Dirección General de Protección Civil y los municipios, en su caso, con:
 
 I. Amonestación con apercibimiento;
 
@@ -4287,13 +4277,17 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 36.- Serán sancionadas con multa las infracciones siguientes:
 
-I. Con tres mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
+> <small>(REFORMADA PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+I. De mil a tres mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
 
 a) No cuente con registro de la Secretaría General de Gobierno, estando obligado a obtenerlo;
 
 b) No cumpla con la calendarización de acciones establecidas en su programa específico de protección civil.
 
-II. Con cuatro mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
+> <small>(REFORMADA PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+II. De tres mil uno a cuatro mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
 
 a) No cuente con dictamen de viabilidad;
 
@@ -4301,7 +4295,9 @@ b) Haya iniciado operaciones sin la autorización correspondiente;
 
 c) No permita el acceso al personal designado para realizar verificaciones en inmuebles, instalaciones y equipos.
 
-III. Con cinco mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien de manera dolosa o culposa ponga en riesgo a las personas o a la población en general.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien de manera dolosa o culposa ponga en riesgo a las personas o a la población en general.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
@@ -4309,11 +4305,17 @@ III. Con cinco mil días de salario mínimo general vigente del área geográfic
 
 ## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ## TITULO SEXTO. De las declaratorias de emergencia y desastre
 
 ### CAPITULO SEGUNDO. De las medidas de seguridad
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ### CAPITULO TERCERO. De las infracciones y sanciones
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -4322,6 +4324,8 @@ III. Con cinco mil días de salario mínimo general vigente del área geográfic
 # LIBRO SEPTIMO. De las Comunicaciones y Transportes
 
 ## TITULO SEPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -4695,6 +4699,10 @@ Tratándose de transporte de uso particular y comercial, en tanto se expiden las
 
 La Secretaría de Finanzas podrá celebrar convenios con asociaciones de distribuidores, fabricantes o ensambladores de vehículos automotores, para que dentro de las instalaciones de sus agremiados, se puedan prestar los servicios relacionados con el control vehicular.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+La Agencia de Seguridad Estatal coadyuvará con la Secretaría de Transporte, en la realización de diligencias de inspección y verificación del transporte público de pasajeros, quienes aplicarán las sanciones correspondientes en el ámbito de sus respectivas competencias.
+
 ###### Artículo 7.
 
 26.- Los conductores de unidades de las distintas clases de transporte tendrán las obligaciones siguientes:
@@ -4727,7 +4735,7 @@ I. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo 
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Tramitar los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo ante las secretarías de Finanzas o de Transporte, según corresponda;
+II. Tramitar los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo ante las secretarías de Finanzas o de Transporte, según corresponda.
 
 III. Responder por los daños y perjuicios causados a terceros y a la infraestructura vial por el uso del vehículo;
 
@@ -4735,11 +4743,11 @@ IV. Adicionalmente, tratándose de transporte de uso comercial:
 
 a) Someter los vehículos a la revisión físico mecánica con la periodicidad y términos que señalen las disposiciones secundarias;
 
+Para estos efectos, los concesionarios y permisionarios que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la verificación, en términos de las disposiciones secundarias correspondientes;
+
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-b) Para estos efectos, los propietarios o poseedores de vehículos automotores que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la revisión, en términos de las disposiciones secundarias correspondientes.
-
-c) Utilizar vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones establecidas en las normas oficiales correspondientes.
+b). Para estos efectos, los propietarios o poseedores de vehículos automotores que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la revisión, en términos de las disposiciones secundarias correspondientes.
 
 ### CAPITULO PRIMERO. De las concesiones y permisos
 
@@ -4871,11 +4879,9 @@ XV. Obtener autorización previa de las secretarías de Comunicaciones, de Trans
 
 XVI. Cooperar con el Estado para el mantenimiento de los caminos, calzadas, avenidas y calles por donde transiten;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 XVII. Tratándose de concesionarios del servicio público de arrastre, salvamento, guarda y custodia de vehículos, remitir de manera directa e inmediata los vehículos al depósito autorizado más cercano al lugar en donde se haya solicitado la prestación del servicio;
-
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 XVIII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
 
@@ -5091,13 +5097,13 @@ V. Clausura temporal o definitiva, parcial o total, tratándose de depósitos de
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Retiro de anuncios publicitarios en los medios de transporte cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros;
+VI. Retiro de anuncios publicitarios en los medios de transporte cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros.
 
 VII. Cancelación de la licencia de conducir;
 
-VIII. Cancelación de las placas de matriculación;
+VIII. Cancelación de las placas de matriculación.
 
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA. G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 IX. Clausura definitiva de terminales de pasajeros y paraderos, cuando estos pongan en riesgo la seguridad de los usuarios o terceros.
 
@@ -5197,7 +5203,9 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 3.- Son autoridades para la aplicación de este Libro la Secretaría General de Gobierno y los municipios.
 
-Corresponde a la Secretaría General de Gobierno ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+Corresponde a la Secretaría General de Gobierno por conducto de la Agencia de Seguridad Estatal, ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
 ## TITULO PRIMERO. Disposiciones generales
 
@@ -5235,9 +5243,11 @@ II. Las limitaciones y restricciones que se establezcan para el tránsito de veh
 
 9.- Los lugares para el estacionamiento de vehículos en las vías locales serán fijados por las autoridades de tránsito municipal, cuidando en todo momento que no se interrumpa el flujo vehicular.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8.
 
-10.- Son facultades de la Secretaría General de Gobierno y los municipios:
+10.- Son facultades de la Secretaría General de Gobierno a través de la Agencia de Seguridad Estatal y los municipios:
 
 I. Promover la aplicación de programas de educación vial para peatones, conductores y pasajeros;
 
@@ -5275,15 +5285,27 @@ IV. Remolques.
 
 13.- Las placas de matriculación se instalarán en el lugar del vehículo destinado para ello por los fabricantes, en la parte media, de manera tal que vaya una en la parte delantera y otra en la parte posterior, excepto en los vehículos que requieran de una sola placa, en cuyo caso ésta se colocará en la parte posterior. La calcomanía correspondiente deberá ser adherida en lugar visible.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 8.
 
-14.- Queda prohibido:
+14.- Se prohíbe instalar o utilizar en vehículos particulares:
 
-I. Que los vehículos porten en parabrisas y ventanillas rótulos, carteles y objetos opacos que obstaculicen la visibilidad del conductor. Los cristales no deberán ser obscurecidos o pintados para impedir la visibilidad interior;
+I. Elementos de identificación iguales o similares a los del transporte público de pasajeros matriculados en el Estado, vehículos de emergencia o patrullas;
 
-II. Que en los vehículos se instalen y usen torretas, faros rojos en la parte delantera o blancos en trasera, sirena y accesorios de uso exclusivo para vehículos destinados a los cuerpos de seguridad pública, de tránsito y de emergencia; así como cualquier tipo de luz de alta intensidad que afecte la visibilidad de los conductores;
+II. Dispositivos similares a los utilizados por vehículos policiales o de emergencia;
 
-III. La circulación de vehículos de carga cuando ésta rebase las dimensiones laterales del mismo, sobresalga de la parte posterior en más de un metro, dificulte la estabilidad o conducción del vehículo, estorbe la visibilidad lateral del conductor, se derrame o esparza la carga en la vía pública, oculte las luces y placas de matriculación del vehículo, no se encuentre debidamente cubierta tratándose de materiales a granel o no esté debidamente sujeta con los amarres necesarios.
+III. Faros delanteros de color distinto al blanco o ámbar, con excepción a los instalados de fábrica;
+
+IV. Faros deslumbrantes que pongan en riesgo la seguridad de conductores o peatones;
+
+V. Luces de neón alrededor de las placas de matrícula;
+
+VI. Televisor o pantalla de proyección de cualquier tipo de imágenes en la parte interior delantera del vehículo, con excepción de los instalados de fábrica, de acuerdo con las normas establecidas por la autoridad federal competente;
+
+VII. Vidrios polarizados, oscurecidos o aditamentos que obstruyan la visibilidad del conductor al interior del vehículo, salvo cuando vengan instalados de fábrica, de acuerdo con las normas expedidas por la autoridad federal correspondiente, o cuando así se requiera por razones médicas, debidamente acreditadas ante la autoridad competente y, cualquiera de estas circunstancias debe indicarse en la tarjeta de circulación;
+
+VIII. Transportar más de 10 kilogramos de artículos pirotécnicos, salvo que cuenten con permiso expedido por la autoridad competente y que cumpla las medidas de seguridad necesarias, para transportar artículos peligrosos.
 
 ###### Artículo 8.
 
@@ -5349,13 +5371,13 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 18.- Las infracciones a las disposiciones de este Libro y las que de él emanen se sancionarán conforme a lo siguiente:
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-I. En materia de tránsito, se sujetarán a lo establecido en los reglamentos respectivos.
+l. En materia de tránsito, con las multas establecidas en los reglamentos correspondientes, las que no podrán exceder por cada infracción de 20 días de salario mínimo vigente en el área geográfica de que se trate al momento de la misma, sin que en su conjunto exceda de 50 días de salarios mínimos, que aplicará la autoridad competente.
 
 II. En materia de estacionamientos, la multa se calculará multiplicando el número o rango de cajones por la tarifa al usuario.
 
-La autoridad de tránsito calificará la infracción e impondrá la sanción que corresponda. Para estos efectos, se estará a lo que disponga la reglamentación correspondiente.
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 8.
 
@@ -5513,7 +5535,7 @@ VII. La integración de cadenas productivas, y mecanismos que permitan la obtenc
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 9.
 
@@ -6057,7 +6079,7 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 ###### Artículo 11.
 
-4.- Las secretarías General de Gobierno, de Salud, del Trabajo y de la Previsión Social, de Educación, Cultura y Bienestar Social, de Desarrollo Urbano y Obras Públicas, de Comunicaciones, y de Transporte, el Instituto de Salud del Estado de México, así como las autoridades de tránsito y desarrollo urbano municipales, en el ámbito de su respectiva competencia, tendrán atribuciones para lograr la integración a la sociedad de las personas con capacidades diferentes, de conformidad con lo establecido en este Libro.
+4.- Las Secretarías General de Gobierno, a través de la Agencia de Seguridad Estatal, de Salud, del Trabajo, de Educación, de Desarrollo Urbano, del Agua y Obra Pública, de Comunicaciones y de Transporte, el Instituto de Salud del Estado de México, así como las autoridades de Tránsito y Desarrollo Urbano Municipales, en el ámbito de su respectiva competencia, tendrán atribuciones para lograr la integración a la sociedad de las personas con capacidades diferentes, de conformidad con lo establecido en este Libro.
 
 ###### Artículo 11.
 
@@ -6309,11 +6331,11 @@ III. Estacionarse en zonas de estacionamiento restringido y ocupar los espacios 
 
 Los concesionarios del servicio de transporte de pasajeros están obligados a prestar el servicio a las personas con capacidades diferentes sin discriminación alguna.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 11.
 
-31.- Para el cumplimiento de la fracción III del artículo anterior, la Secretaría General de Gobierno otorgará calcomanías distintivas que deberán fijarse en el parabrisas, medallón y placa de circulación de los vehículos en que viajen personas con capacidades diferentes. Las calcomanías serán gratuitas.
-
-La Secretaría llevará un registro y control de las calcomanías que otorgue.
+31.- Para el cumplimiento de la fracción III del artículo anterior, la Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, otorgará gratuitamente calcomanías distintivas que deberán fijarse en el parabrisas y medallón de los vehículos en que viajen personas con capacidades diferentes; y llevará un registro y control de las que otorgue.
 
 ###### Artículo 11.
 
@@ -6352,6 +6374,10 @@ Para el cumplimiento de lo dispuesto en este artículo, las autoridades competen
 35.- Se consideran barreras arquitectónicas todos aquellos obstáculos que dificultan, entorpecen o impiden el libre desplazamiento de las personas con capacidades diferentes en los espacios públicos exteriores o interiores del sector público, social o privado.
 
 Las barreras arquitectónicas que en la infraestructura vial deben ser eliminadas o readecuadas para brindar facilidad de desplazamiento a las personas con capacidades diferentes son: banquetas, coladeras, estacionamientos, escaleras, rampas, teléfonos públicos y tensores para postes.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+La Agencia de Seguridad Estatal verificará la existencia de barreras arquitectónicas en la infraestructura vial primaria y propondrá ante las autoridades competentes su eliminación o readecuación, conforme a lo dispuesto en el párrafo anterior.
 
 ### CAPITULO TERCERO. De la sistematización
 
@@ -10730,3 +10756,35 @@ OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto 
 NOVENO.- Las Secretarías de la Contraloría, de Finanzas y de Transporte, proveerán lo necesario para el cumplimiento de los artículos Segundo y Cuarto del presente Decreto.
 
 DÉCIMO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente Decreto en las unidades administrativas de la Secretaría de Transporte, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura orgánica autorizada y a este Decreto.
+
+G.G. 31 DE DICIEMBRE DE 2007.
+
+DECRETO NUMERO 118
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- Los Procedimientos Administrativos a cargo de la Agencia de Seguridad Estatal que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales que dieron origen a los mismos.
+
+QUINTO.- Los Procedimientos de Remoción radicados a la fecha en las Contralorías Internas correspondientes, serán tramitados y resueltos de conformidad a lo establecido con la legislación anterior y los procedimientos que aún no se remiten a dichos órganos de control interno, y los que se inicien deberán resolverse de conformidad con el procedimiento establecido en el presente decreto.
+
+G.G. 31 DE DICIEMBRE DE 2007.
+
+DECRETO NUMERO 119
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general hagan referencia al Instituto de Protección Civil del Estado de México, se entenderá a la Dirección General de Protección Civil.
+
+CUARTO.- Los recursos humanos, materiales y financieros con los que venia operando el Instituto de Protección Civil del Estado de México, pasarán a formar parte de la Dirección General de Protección Civil.
+
+QUINTO.- Los servidores públicos adscritos al Instituto de Protección Civil del Estado de México, conservarán su antigüedad y demás derechos laborales adquiridos.
+
+SEXTO.- Los asuntos y demás procedimientos que se encuentren vigentes en el Instituto de Protección Civil del Estado de México, antes de la entrada en vigor del presente Decreto, se tramitarán y resolverán por la Dirección General de Protección Civil.
+
+SÉPTIMO.- Las secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas atribuciones, dispondrá lo necesario para el cumplimiento del presente decreto.
