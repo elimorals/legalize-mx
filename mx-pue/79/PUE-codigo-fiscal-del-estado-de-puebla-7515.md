@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2006-12-18"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -541,11 +541,15 @@ VIII.- Señalar y comprobar el domicilio fiscal en el Estado.
 
 IX.- Liquidar, retener y enterar correctamente las contribuciones en términos de lo que dispone este Código y las Leyes Fiscales del Estado, en tratándose de fedatarios públicos.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-X.- Las personas morales, en los casos que procedan, proporcionar su dirección de correo electrónico, a fin de obtener su clave de identificación electrónica.
+X.- Proporcionar su dirección de correo electrónico, a fin de obtener su clave de identificación electrónica, en los casos en que los contribuyentes opten por solicitarla.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 Se entenderá como clave de identificación electrónica a la que sustituye a la firma autógrafa del representante legal del contribuyente en los documentos digitales, misma que garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 Dicha clave será asignada por la Secretaría de Finanzas y Administración mediante un certificado que confirme el vínculo entre un firmante y los datos de creación de la clave de identificación electrónica de que se trate, en los términos que la misma autorice y dé a conocer mediante Reglas de Carácter General. Asimismo, dicha Dependencia proveerá las medidas necesarias para garantizar la confidencialidad de la información que se deba presentar en los términos de esta fracción, información que solamente deberá presentarse encriptada y cumplir con las medidas de seguridad que previamente acuerde la citada Secretaría;
 
@@ -560,6 +564,10 @@ b) Comprobante domiciliario.
 c) Identificación Oficial.
 
 d) En su caso, acreditar la personalidad en términos de lo dispuesto por el artículo 25 de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+e) En los casos que proceda legalmente, el Registro Federal de Contribuyentes.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -761,17 +769,15 @@ El cheque mediante el cual se paguen las contribuciones y sus accesorios, deber�
 
 Los fedatarios públicos que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros, podrán hacerlo mediante cheques certificados de su cuenta o de las cuentas personales de los contribuyentes, siempre que cumplan con los requisitos que mediante Reglas de Carácter General dicte la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 34.
 
-El pago de las contribuciones y sus accesorios deberá realizarse en las Oficinas Recaudadoras y de Asistencia al Contribuyente; Receptoras de Pago; Instituciones Bancarias o Establecimientos que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General, o a través de medios electrónicos.
+El pago de las contribuciones, productos y aprovechamientos, así como sus accesorios, deberá realizarse en Instituciones Bancarias, Establecimientos autorizados, Oficinas Receptoras de Pago que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General que al efecto se publiquen; o a través de medios electrónicos.
 
 Para estos efectos, los interesados utilizarán las formas oficiales o medios electrónicos que apruebe dicha Dependencia en términos de este Código y Reglas de Carácter General que al efecto se publiquen.
 
-A quien realice el pago señalado, deberá expedírsele el recibo oficial o el comprobante de pago computarizado que expidan las Oficinas Recaudadoras y de Asistencia al Contribuyente, las Receptoras de Pago, las Instituciones Bancarias y Establecimientos, según sea el caso.
-
-Tratándose de pagos realizados a través de medios electrónicos, el interesado obtendrá el documento que emita el sistema de cómputo, en el que conste el número de referencia que se asigna a la operación autorizada. El interesado comprobará el cumplimiento de la obligación fiscal con dicho documento.
+A quien realice el pago antes señalado, las Instituciones Bancarias, Establecimientos autorizados u Oficinas Receptoras de Pago, según sea el caso, deberán expedir el recibo correspondiente. Tratándose de pagos realizados a través de medios electrónicos, el interesado obtendrá el comprobante de pago vía Internet que emita el Sistema de Recaudación en Línea. Con todos los documentos anteriores, se demostrará el cumplimiento de la obligación fiscal.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
@@ -935,7 +941,9 @@ III.- Expedir circulares para dar a conocer a las diversas Dependencias o Unidad
 
 IV.- Notificar los actos administrativos, debiendo observar los requisitos siguientes:
 
-a) Constar por escrito.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+a) Constar por escrito o en documento digital.
 
 b) Señalar la Autoridad que lo emite.
 
@@ -1022,6 +1030,10 @@ XVIII.- Emitir, en coordinación con la Secretaría de Desarrollo, Evaluación y
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 XIX.- Conceder subsidios o estímulos fiscales.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XX.- Imponer sanciones por el incumplimiento a las disposiciones fiscales estatales, federales y municipales, de conformidad con los ordenamientos aplicables, los Convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
 
@@ -1335,17 +1347,27 @@ Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u
 
 Se tendrán por no desvirtuados los hechos u omisiones consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-ARTICULO 46 A.- Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros; informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
+ARTICULO 46 A.- Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros con ellos relacionados; informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-I.- La solicitud se notificará en el domicilio manifestado ante la autoridad fiscal a la persona a la que va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar en que ésta se encuentre.
+I.- La solicitud se notificará a la persona a la que va dirigida en el domicilio fiscal manifestado ante el Registro Estatal de Contribuyentes, en su defecto, tratándose de personas físicas, podrá notificarse en su casa habitación o lugar en que éstas se encuentren;
 
-II.- En la solicitud se indicará el lugar y el plazo en los cuales se deben proporcionar los informes o documentos.
+II.- En la solicitud se indicará el lugar y el plazo en los cuales se deben proporcionar los informes o documentos;
 
-III.- Los informes, libros y documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante.
+III.- Los informes, libros y documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante legal;
 
-IV.- La resolución que notifique las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
+IV.- Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros con ellos relacionados, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario.
+
+El oficio de observaciones se notificará en términos de lo dispuesto en la fracción I de este artículo. El contribuyente o el responsable solidario, contará con un plazo de quince días, contados a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo.
+
+Se tendrán por no desvirtuados los hechos u omisiones consignados en el oficio de observaciones, si en el plazo aludido el contribuyente o el responsable solidario no presenta documentación comprobatoria que lo desvirtúe.
+
+El plazo que se señala en el segundo párrafo de esta fracción es independiente del que se establece en el artículo 46 C de este Código;
+
+V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de los documentos presentados; y
+
+VI.- Cuando el contribuyente no desvirtúe los hechos u omisiones consignados en el oficio de observaciones, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente o responsable solidario en términos de lo dispuesto en la fracción I de este artículo.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1366,6 +1388,36 @@ c).- Quince días contados a partir del siguiente a aquél en que surta sus efec
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
 Los plazos a que se refiere este inciso, se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de documentación o información de difícil obtención.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 46 C.- Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contado a partir de que se inicien las facultades de comprobación, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
+
+Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro del plazo mencionado, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007) (F. DE E., P.O. 27 DE FEBRERO DE 2008)
+
+ARTICULO 46 D.- El plazo para concluir el ejercicio de las facultades de comprobación a que se refiere el artículo 41 fracción VII incisos b) y c) de este Código, se suspenderá en los casos de:
+
+I.- Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga;
+
+II.- Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión;
+
+III.- Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice;
+
+IV.- Cuando el contribuyente no atienda la solicitud de datos, informes o documentos solicitados, por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en la solicitud y hasta el día en que la conteste o la atienda, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año; o
+
+V.- Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o dentro del comprendido para emitir la resolución correspondiente, los contribuyentes interponen algún medio de defensa contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los referidos medios de defensa hasta que se dicte resolución firme en los mismos.
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007) (F. DE E., P.O. 27 DE FEBRERO DE 2008)
+
+ARTICULO 46 E.- Las autoridades fiscales que en el ejercicio de las facultades de comprobación a que se refiere el artículo 41 fracción VII incisos b) y c) de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente o responsable solidario, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluya el plazo a que se refiere la fracción IV del artículo 46 A de este Código.
+
+Cuando las autoridades no emitan la resolución correspondiente dentro del plazo mencionado, quedarán sin efectos las actuaciones que se hubieren realizado.
+
+> <small>(F. DE E., P.O. 27 DE FEBRERO DE 2008)</small>
+
+Asimismo, cuando los contribuyentes no proporcionen documentación o la proporcionen incompleta, dentro del ejercicio de las facultades de comprobación a que se refiere los incisos b) y c) de la fracción VII del artículo 41 de este Código, aquélla no podrá ser valorada por autoridad distinta a la que conoció de la revisión.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
@@ -1624,6 +1676,30 @@ XXI.- No proporcionar el escrito que señala el párrafo segundo de la fracción
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ARTICULO 58 A.- Es infracción cuya responsabilidad recae en los sujetos y responsables solidarios no pagar total o parcialmente las contribuciones, incluyendo las retenidas o recaudadas, dentro de los plazos establecidos por las leyes fiscales del Estado, salvo cuando éstas se realicen en forma espontánea.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 58 B.- Se considerarán como agravantes de las infracciones a que se refiere este Capítulo, las siguientes:
+
+I.- La reincidencia, que se presenta cuando:
+
+a) Tratándose de infracciones que tengan como consecuencia la omisión en el pago de las contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia.
+
+b) Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código.
+
+Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos cinco años.
+
+II.- Cuando en la comisión de una infracción, se actualice cualquiera de los siguientes supuestos:
+
+a) Que se haga uso de documentos falsos o en los que se hagan constar operaciones inexistentes.
+
+b) Que se lleven dos o más sistemas de contabilidad con distinto contenido.
+
+c) Se lleven dos o más libros sociales similares con distinto contenido.
+
+d) Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad.
+
+III.- Cuando la comisión de la infracción sea en forma continuada.
 
 ### CAPITULO II. DE LAS SANCIONES
 
@@ -1935,9 +2011,9 @@ Se tendrá como fecha de notificación la de la última publicación en la pági
 
 Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-I.- Depósito en dinero ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, Receptoras de Pago, Instituciones Bancarias que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General, o a través de medios electrónicos.
+I.- Depósito en dinero ante las Instituciones Bancarias u Oficinas Receptoras de Pago que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General que al efecto se publiquen; o a través de medios electrónicos.
 
 II.- Prenda o hipoteca.
 
@@ -2457,9 +2533,9 @@ II.- Los actos de Autoridades Fiscales que:
 
 a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 35 de este Código.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley, cuando los actos de ejecución se materialicen sobre bienes exceptuados de embargo o sean actos de imposible reparación material.
+b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley, en términos de lo dispuesto en el artículo 129-A, o cuando los actos de ejecución se materialicen sobre bienes exceptuados de embargo o sean actos de imposible reparación material.
 
 c) Determinen el valor de los bienes embargados a que se refiere el artículo 106 de este Código.
 
@@ -2503,6 +2579,10 @@ V.- Acreditar la personalidad del recurrente, cuando no se gestione a nombre pro
 
 VI.- Acompañar copia del documento en que conste el acto impugnado; así como de las constancias de notificación de éste, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación se realizó por edictos o estrados, deberá señalar la fecha de la última publicación y el medio en que ésta se hizo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+En caso de que la firma no sea legible o se dude de su autenticidad, la autoridad fiscal requerirá al recurrente a fin de que, en el término de cinco días hábiles contados a partir del siguiente a aquél en que haya surtido efectos la notificación, se presente ante ella a ratificar la firma plasmada en la promoción.
+
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 131-A.
@@ -2532,6 +2612,10 @@ Para la substanciación del recurso administrativo de revocación serán admisib
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 Harán prueba plena la confesión expresa del recurrente, presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por la autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que ante la autoridad que los expidió se hicieron tales declaraciones o manifestaciones pero no prueban la verdad de lo declarado o lo manifestado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+En caso de que se ofrezca prueba pericial, el recurrente deberá designar a su perito, acreditar que cuenta con los conocimientos necesarios para desempeñar su encargo y exhibir el dictamen respectivo, en el que se precisen de manera pormenorizada los hechos y circunstancias que el perito tomó en consideración para llegar a su conclusión, así como la descripción y desarrollo del método y los elementos objeto de su análisis; quedando la valoración de la prueba al prudente arbitrio de la autoridad fiscal.
 
 ###### ARTICULO 133.
 
@@ -2898,3 +2982,19 @@ Las disposiciones en las que establezcan obligaciones a los contribuyentes, entr
 ###### ARTÍCULO QUINTO.
 
 Los recursos administrativos de revocación que se encuentren en trámite ante la autoridad fiscal correspondiente, al momento de entrar en vigor el presente Decreto, se substanciarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de su interposición.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del primer día del mes de enero de dos mil ocho.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En lo conducente, lo dispuesto en el artículo 34 deberá sujetarse a los procedimientos establecidos en el Acuerdo del Secretario de Finanzas y Administración, por el que emite las Reglas de Carácter General mediante las cuales se autorizan y dan a conocer los procedimientos y lugares para el pago de contribuciones, productos y aprovechamientos y, se habilitan días y horas para el otorgamiento de estos servicios, publicado en el Periódico Oficial del Estado de fecha doce de octubre de dos mil siete.
+
+CUARTO.- Lo dispuesto en los artículos 24 fracción X, 41 fracción IV inciso a) y 81 fracción I entrará en vigor una vez que la Secretaría de Finanzas y Administración cuente con la infraestructura programática suficiente para operar los medios electrónicos a los que se hace alusión en los artículos citados.
+
+> <small>(F. DE E., P.O. 27 DE FEBRERO DE 2008)</small>
+
+QUINTO.- Las facultades de comprobación a que se refiere los incisos b) y c) de la fracción VII del artículo 41 de este Código, que se hayan ejercido anteriormente a la entrada en vigor del presente Decreto, se substanciarán hasta su total conclusión conforme a las disposiciones legales vigentes en el momento en que se hubieren iniciado.
+
+SEXTO.- Los recursos administrativos de revocación que se encuentren en trámite ante la autoridad fiscal correspondiente, al momento de entrar en vigor el presente Decreto, se substanciarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de su interposición.
