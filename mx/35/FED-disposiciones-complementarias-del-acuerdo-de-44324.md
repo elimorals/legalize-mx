@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44324"
 country: "mx"
 rank: "otro"
 publication_date: "2002-09-03"
-last_updated: "2007-07-23"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,23 +19,29 @@ issue_date: "2002-08-30"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 8 (PERU, 1987)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA DE CUBA, DE LA REPUBLICA DE PANAMA Y DE LA REPUBLICA DEL PERU
+DECRETO PARA LA APLICACION DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 8, SUSCRITO ENTRE EL GOBIERNO DE LOS ESTADOS UNIDOS MEXICANOS Y EL GOBIERNO DE LA REPUBLICA DEL PERU
 
-Acuerdo publicado en el Diario Oficial de la Federacion, el lunes 23 de julio de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de diciembre de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 y 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, con fundamento en los artículos 2o. y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
 
 CONSIDERANDO
 
-Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación, que actualiza la estructura de la clasificación aduanera introduciendo las modificaciones llevadas a cabo por el Comité de Nomenclatura de la Organización Mundial de Aduanas;
+Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración;
 
-Que es necesario adecuar la normatividad de comercio exterior a dichas modificaciones, y
+Que en el marco del Tratado de Montevideo 1980, los Gobiernos de los Estados Unidos Mexicanos y de la República del Perú, suscribieron el 25 de marzo de 1987, el Acuerdo de Complementación Económica No. 8, en el cual se han venido incorporando disposiciones y preferencias arancelarias hasta su Séptimo Protocolo Adicional, cuyo Decreto de aplicación fue publicado en el Diario Oficial de la Federación el 3 de septiembre de 2002 y fue modificado por el diverso dado a conocer en el mismo órgano informativo el 29 de diciembre de 2005;
 
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA DE CUBA, DE LA REPUBLICA DE PANAMA Y DE LA REPUBLICA DEL PERU
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones;
+
+Que el 9 de noviembre de 2007 los Gobiernos de los Estados Unidos Mexicanos y de la República del Perú, suscribieron el Octavo Protocolo Adicional al Acuerdo de Complementación Económica No. 8, en el que se acordó prorrogar hasta el 31 de diciembre de 2008 la vigencia de dicho Acuerdo, y
+
+Que para aplicar las preferencias arancelarias que otorgan los Estados Unidos Mexicanos a la República del Perú en el Acuerdo de Complementación Económica No. 8, en función de las modificaciones mencionadas al Sistema Armonizado de Designación y Codificación de Mercancías y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
+
+DECRETO
 
 ###### ARTICULO 1.
 
@@ -131,19 +137,15 @@ Podrán solicitar asignación del cupo, las empresas ubicadas en la franja front
 
 ###### ARTÍCULO PRIMERO.
 
-Se modifica la tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República del Perú, incluida en el artículo primero del Decreto para la aplicación del Acuerdo de Complementación Económica No. 8 suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República del Perú, publicado en el Diario Oficial de la Federación el 3 de septiembre de 2002, únicamente en lo que a continuación se indica:
+Para la aplicación de las preferencias arancelarias porcentuales, otorgadas por los Estados Unidos Mexicanos a la República del Perú, se estará a la siguiente:
 
-TABLA DE LAS PREFERENCIAS ARANCELARIAS PORCENTUALES QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS A LA REPÚBLICA DEL PERÚ, EN EL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA No. 8
+Tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República del Perú, en el Acuerdo de Complementación Económica No. 8
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO SEGUNDO.
 
-Se incorporan en la tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República del Perú, incluida en el artículo primero del Decreto para la aplicación del Acuerdo de Complementación Económica No. 8 suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República del Perú, publicado en el Diario Oficial de la Federación el 3 de septiembre de 2002, los productos que a continuación se indican:
-
-TABLA DE LAS PREFERENCIAS ARANCELARIAS PORCENTUALES QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS A LA REPÚBLICA DEL PERÚ, EN EL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA No. 8
-
-(VEASE ARCHIVO ANEXO)
+Los cupos de importación en la cantidad, volumen o valor que se señalan para algunos productos con preferencias arancelarias, previstos en la columna (3) de la Tabla prevista en el artículo primero del presente Decreto, se aplicará de conformidad con lo dispuesto por la Ley de Comercio Exterior.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -171,70 +173,12 @@ Para cada año, la primera solicitud de asignación de los cupos a que se refier
 
 Una vez obtenida la constancia de asignación, a que se refiere el artículo anterior, el beneficiario deberá solicitar la expedición del certificado de cupo por embarque mediante la presentación del formato SE-03-013-5 "Solicitud de certificados de cupo (obtenido por asignación directa)", adjuntando copia de la factura comercial y copia del conocimiento de embarque, guía aérea o carta de porte, según sea el caso, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
-###### ARTICULO 11.
-
-La solicitud de asignación de los cupos a que se refiere el punto 3 del artículo 6 del presente Acuerdo, deberá presentarse en el formato SE-06-016, “Solicitud de autorización para certificados de cupos de importación para la Franja Fronteriza Norte y Región Fronteriza” directamente en la Representación Federal que corresponda a cada una de éstas, quienes se encargarán de expedir el certificado de cupo respectivo, dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
-
-La hoja de requisitos específicos se establece como anexo II a este Acuerdo.
-
-###### ARTICULO 12.
-
-Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio total de por lo menos uno de los certificados otorgados, para lo cual deberá adjuntar a la solicitud de certificado de cupo, copia del pedimento de importación, de forma tal que, durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
-
-###### ARTICULO 13.
-
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en las representaciones federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
-
-1. Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-2. Para el caso del formato SE-03-013-5, "Solicitud de certificados de cupo (obtenido por asignación directa)":
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
-
-3. Para el caso del formato SE-06-016, “Solicitud de autorización para certificados de cupos de importación para la Franja Fronteriza Norte y Región Fronteriza”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-06-016
-
-###### ARTICULO 14.
-
-El resultar beneficiado del presente cupo no exime del cumplimiento de requisitos no arancelarios y normas a la importación definitiva.
-
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación y lo que respecta a los artículos 2, 3 y 4 concluirán su vigencia en el momento que quede sin efecto el Acuerdo de Complementación Económica o de Alcance Parcial que establece las preferencias respectivas.
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación y tendrá una vigencia hasta el 31 de diciembre de 2008.
 
-SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de la República de Cuba, de la República de Panamá y de la República del Perú, publicado en el Diario Oficial de la Federación el 16 de enero de 2006.
+SEGUNDO.- Las preferencias arancelarias establecidas en el presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del primero de julio de 2007.
 
-TERCERO.- Las asignaciones y los certificados de cupo expedidos al amparo del Acuerdo que se abroga en el artículo Transitorio anterior del presente Acuerdo, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos, por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE y podrán ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 que se establece como anexa al Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la Tabla de Correlación TIGIE 2002-TIGIE 2007, publicado el 28 de junio de 2007.
+TERCERO.- Se abrogan el Decreto para la aplicación del Acuerdo de Complementación Económica No. 8 suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República del Perú, publicado en el Diario Oficial de la Federación el 3 de septiembre de 2002; el Decreto para la aplicación del Sexto Protocolo Adicional al Acuerdo de Complementación Económica No. 8, suscrito entre los Estados Unidos Mexicanos y la República del Perú, publicado en el Diario Oficial de la Federación el 22 de abril de 2004, y el Decreto por el que se modifica el diverso para la aplicación del Acuerdo de Complementación Económica No. 8, suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República del Perú, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, así como cualquier otra disposición que se oponga a lo dispuesto en el presente Decreto.
 
-CUARTO.- Al monto del cupo establecido en el presente Acuerdo le será descontado la cantidad que a la fecha de entrada en vigor de este ordenamiento, haya sido asignada al amparo de lo establecido en el Acuerdo que se abroga. Al efecto, la Secretaría de Economía dará a conocer en la página de Internet: www.siicex.gob.mx, el monto del cupo que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado.
-
-QUINTO.- Las preferencias con cupos que, en su caso, se indican a través de fracciones arancelarias que no aparecen en los Diarios Oficiales de la Federación en los que se publicaron los Decretos por los que se establecen las bases conforme a las cuales se aplicarán los Acuerdos suscritos por México en el marco de la ALADI con Argentina, Cuba, Panamá y Perú obedece, únicamente, a la actualización de las fracciones arancelarias nacionales por las que se indican la aplicación de las preferencias pactadas en los referidos Acuerdos, de conformidad a las modificaciones de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
-
-México, D.F., a 26 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-ANEXO I
-
-REQUISITOS PARA LA ASIGNACION DE LOS CUPOS DE IMPORTACIÓN DE LA FRACCION I DE LOS ARTICULOS 2, 3, 4 y 5
-
-“ASIGNACION DIRECTA”
-
-(VEASE ARCHIVO ANEXO)
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-ANEXO II
-
-REQUISITOS PARA LA ASIGNACION DE LOS CUPOS DE IMPORTACIÓN DE LA FRACCION III DEL ARTICULO 3 PARA LOS CUPOS DESTINADOS A CIUDAD JUAREZ, BAJA CALIFORNIA, BAJA CALIFORNIA SUR, REGION PARCIAL DEL ESTADO DE SONORA, QUINTANA ROO Y FRANJA FRONTERIZA NORTE O REGION FRONTERIZA
-
-“ASIGNACION DIRECTA”
-
-(VEASE ARCHIVO ANEXO)
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de diciembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
