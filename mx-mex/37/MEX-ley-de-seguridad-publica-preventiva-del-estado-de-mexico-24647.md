@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-publica-preventiva-del-estado-de-mexico-24647"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-09"
-last_updated: "2006-09-04"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD PUBLICA PREVENTIVA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -75,17 +75,23 @@ III. Prevenir la comisión de delitos e infracciones a las disposiciones adminis
 
 El Estado y los municipios combatirán las causas que generan la comisión de delitos y conductas antisociales y desarrollarán políticas, programas y acciones para que la sociedad participe en la planeación y supervisión de la seguridad pública y se fomenten valores culturales y cívicos que estimulen el respeto a la legalidad.
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 4.
 
-Los miembros de los cuerpos preventivos de seguridad pública estatal y municipales, se regirán por esta ley, reglamentos, convenios, acuerdos y demás disposiciones sobre la materia.
+Son sujetos de esta Ley:
 
-La relación laboral de los miembros de los cuerpos preventivos de seguridad pública con el Estado o con los municipios es de naturaleza administrativa y sus funciones de confianza.
+I. Los servidores públicos que prestan sus servicios en la Agencia de Seguridad Estatal; y
+
+II. Los elementos de los Cuerpos Preventivos de Seguridad Pública Estatal y Municipal.
+
+La relación entre los elementos de los Cuerpos Preventivos de Seguridad Pública Estatal, para con el Estado, y de los elementos de los Cuerpos Preventivos de Seguridad Pública municipales, para con los municipios, es de naturaleza administrativa y sus funciones de confianza, y se regirán por sus propias normas de conformidad con lo dispuesto en la fracción XIII, Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la presente Ley, reglamentos, convenios, acuerdos y demás disposiciones sobre la materia.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 5.
 
-La función de la seguridad pública se realizará a través de los cuerpos preventivos de seguridad pública estatales y municipales, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de México, en esta Ley y en los demás ordenamientos legales aplicables.
+La función de la seguridad pública se llevará a cabo a través de los Cuerpos de Seguridad Pública Estatal y Municipal, en sus respectivos ámbitos de competencia, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, en esta Ley, la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y en los demás ordenamientos jurídicos aplicables.
 
 > <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
 
@@ -93,9 +99,11 @@ La función de la seguridad pública se realizará a través de los cuerpos prev
 
 El Ejecutivo del Estado podrá auxiliar en la prestación del servicio de seguridad pública preventiva en un municipio, cuando exista solicitud expresa del ayuntamiento.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 7.
 
-Cuando los fines de la seguridad pública preventiva se vean afectados en el territorio de algún municipio, la Dirección General de Seguridad Pública y Tránsito del Estado se hará cargo de darles cumplimiento, mientras subsistan las circunstancias que lo motivaron.
+Cuando el cumplimiento de los fines de la seguridad pública preventiva se suspenda o se vea afectado de manera sustancial en el territorio de algún municipio, la Agencia de Seguridad Estatal estará obligada a cumplir con dichos fines, mientras subsistan las circunstancias que lo motivaron.
 
 ###### Artículo 8.
 
@@ -117,9 +125,17 @@ I. El Gobernador del Estado;
 
 II. El Secretario General de Gobierno;
 
-III. El Director General de Seguridad Pública y Tránsito; y
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-IV. Los miembros de los cuerpos preventivos de seguridad pública en el desempeño de su función.
+III. El Comisionado de la Agencia de Seguridad Estatal;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+IV. El Director General de Seguridad Pública y Tránsito; y
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+V. Los miembros de los cuerpos preventivos de seguridad pública en el desempeño de su función.
 
 ###### Artículo 11.
 
@@ -131,7 +147,9 @@ I. Ejercer el mando del cuerpo preventivo de seguridad pública estatal, en los 
 
 II. Aprobar el Programa Estatal de Seguridad Pública Preventiva;
 
-III. Nombrar al Director General de Seguridad Pública y Tránsito;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+III. Nombrar al Comisionado de la Agencia de Seguridad Estatal; a propuesta del Secretario General de Gobierno;
 
 IV. Celebrar convenios o acuerdos con la Federación, el Distrito Federal, los Estados y los municipios, en términos de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables;
 
@@ -147,7 +165,9 @@ IX. Expedir los reglamentos y disposiciones administrativas relativos a la segur
 
 X. Emitir las disposiciones administrativas necesarias para asegurar que los prestadores de servicios de seguridad privada se apeguen a la ley;
 
-XI. Establecer el registro estatal de personal, armamento y equipo de policía preventiva; y
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XI. Establecer los registros estatales de personal, de armamento y equipo de seguridad pública; y
 
 XII. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta ley y los ordenamientos legales aplicables.
 
@@ -163,81 +183,121 @@ III. Presentar al titular del Ejecutivo, para su aprobación, el Programa Estata
 
 IV. Proponer al Gobernador los convenios, programas y acciones estratégicas tendientes a mejorar y ampliar la prevención del delito;
 
-V. Nombrar y remover libremente a los subdirectores generales de la Dirección General de Seguridad Pública y Tránsito y a los directores de los Colegios de Policía;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-VI. Aprobar los nombramientos de los comandantes del cuerpo preventivo de seguridad pública del Estado;
+V. Nombrar y remover libremente a los Directores Generales de la Agencia de Seguridad Estatal a propuesta del Comisionado de la Agencia de Seguridad Estatal;
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-VII. Analizar por conducto de la Dirección General de Seguridad Pública y Tránsito la congruencia del proyecto del Programa de la Dirección de Seguridad Pública Preventiva Municipal que le soliciten los ayuntamientos, con el Programa Estatal de la materia;
+VI. Aprobar los nombramientos de los comandantes del cuerpo preventivo de seguridad pública del Estado, a propuesta del Comisionado;
 
-VIII. Aprobar el Programa General de Profesionalización Policial, conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VII. Analizar por conducto de la Agencia de Seguridad Estatal la congruencia de los proyectos de Programas de Seguridad Pública Preventiva Municipal que le soliciten los ayuntamientos, con el Programa Estatal de la materia;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VIII. Aprobar el Plan Rector de Formación, Capacitación y Profesionalización, así como la Actualización, Adiestramiento y Especialización del Cuerpo Preventivo de Seguridad Pública Estatal, conforme a las disposiciones legales aplicables;
 
 IX. Coordinar la evaluación del funcionamiento de la seguridad pública preventiva;
 
 X. Autorizar y controlar el funcionamiento de los servicios de seguridad privada, aplicar en su caso, las sanciones correspondientes y darlo por terminado cuando así lo requiera el interés público, así como en los casos que establece esta ley, previa garantía de audiencia;
 
-XI. Supervisar el Registro Estatal de Personal, Armamento y Equipo de policía preventiva;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XI. Supervisar la organización, control, verificación y administración de los Registros Estatales de Personal, de Armamento y Equipo de Seguridad Pública, a través del Comisionado de la Agencia de Seguridad Estatal;
 
 XII. Convenir con los Municipios la coordinación intermunicipal de policía preventiva; y
 
 XIII. Las demás que establezcan la Constitución Política de la entidad, esta ley y demás ordenamientos de la materia.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 13.
 
-Son atribuciones del Director General de Seguridad Pública y Tránsito:
+Son facultades del Comisionado de la Agencia de Seguridad Estatal, en materia de seguridad pública preventiva las siguientes:
 
-I. Coordinar la elaboración del proyecto del Programa Estatal de seguridad pública preventiva y someterlo a la consideración del Secretario General de Gobierno;
+I. Coordinar la elaboración del Proyecto del Programa Estatal de Seguridad Pública Preventiva y someterlo a consideración del Secretario General de Gobierno;
 
-II. Organizar, operar, coordinar, supervisar y controlar el cuerpo preventivo de seguridad pública estatal conforme a las leyes y reglamentos aplicables y desarrollar operaciones de inteligencia para eficientar el servicio de policía preventiva;
+II. Establecer la coordinación de los sistemas de comunicación entre los diversos cuerpos de seguridad pública en el Estado;
 
-III. Determinar los indicadores básicos de los que derive el número de personal y equipo necesarios para la prestación del servicio de policía preventiva;
+III. Coordinar la elaboración de los Programas, Estatal de Seguridad Pública Preventiva y Estatal de Protección Civil, y someterlos a consideración del Secretario General de Gobierno;
 
-IV. Elaborar estudios y proponer programas para mejorar y ampliar la cobertura del servicio de seguridad pública preventiva estatal, sometiéndolos a la consideración del Secretario General de Gobierno;
+IV. Proponer al Secretario General de Gobierno reformas al sistema penitenciario para atender la readaptación social de los sentenciados;
 
-V. Proponer al Secretario General de Gobierno, el Programa General de la Carrera Policial de su competencia;
+V. Dirigir, coordinar y fortalecer la función preventiva y de seguridad pública, a fin de salvaguardar la integridad y derechos de las personas, preservar las libertades, el orden y la paz pública, así como generar inteligencia para prevenir los delitos;
 
-VI. Proponer al Secretario General de Gobierno el nombramiento de los titulares de las comandancias del cuerpo preventivo de seguridad pública estatal, de los Colegios de Policía, de los subdirectores y jefes de departamento;
+VI. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Gobierno de la Entidad, de conformidad con las disposiciones legales aplicables;
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+VII. Dirigir y atender las acciones de prevención, auxilio y recuperación en materia de protección civil para salvaguardar a las personas y sus bienes en caso de emergencias o desastres;
 
-VII. Nombrar a los integrantes del cuerpo preventivo de seguridad pública estatal, cambiarlos de adscripción de acuerdo a las necesidades del servicio y sancionarlos en términos de esta ley y de sus disposiciones reglamentarias;
+VIII. Coadyuvar con el instituto Mexiquense de la Pirotecnia en la aplicación de medidas de seguridad en la fabricación, uso, venta, transporte, almacenamiento y exhibición de productos pirotécnicos;
 
-Tratándose de los integrantes de los cuerpos auxiliares denominados guardias de seguridad y de vigilantes, esta atribución la ejercerán sus respectivos titulares, conforme a sus disposiciones específicas;
+IX. Suscribir y ejecutar convenios de coordinación, de concertación y participación con el sector público, social y privado a nivel nacional y de hermanamiento en el ámbito internacional en materia de protección civil;
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+X. Solicitar al Gobernador del Estado, a través del Secretario General de Gobierno, la expedición de las declaratorias correspondientes en caso de situaciones de emergencia o desastre;
 
-VIII. Dictar la resolución de separación o remoción de los miembros del cuerpo preventivo de seguridad pública estatal, conforme a lo previsto en esta ley;
+XI. Promover y establecer métodos que conlleven a la prevención y readaptación social de los internos de los centros preventivos y de readaptación social;
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+XII. Promover métodos para la rehabilitación social de los Adolescentes Sujetos al Sistema de Procuración e Impartición de Justicia;
 
-IX. Llevar el control de las personas físicas o morales que presten los servicios de seguridad Privada, vigilar y supervisar el funcionamiento de estos servicios en los términos de esta ley, reglamentos y demás disposiciones legales y aplicables;
+XIII. Establecer y operar los procedimientos de administración, seguridad, control y de apoyo logístico del sistema penitenciario, definiendo esquemas de supervisión, registro y verificación, así como estrategias de intervención y de apoyo táctico operativo;
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+XIV. Coordinar el Sistema Estatal de Seguridad Pública y el Sistema Estatal de Protección Civil;
 
-X. Llevar el control del Registro Estatal de Personal, Armamento y Equipo de Policía Preventiva;
+XV. Llevar el control de los registros estatales de personal, de armamento y equipo de la Agencia de Seguridad Estatal;
 
-XI. Expedir y publicar la convocatoria para la selección de aspirantes a ingresar a los Colegios de Policía, de acuerdo con los requisitos que establezcan las disposiciones reglamentarias respectivas;
+XVI. Vigilar y propiciar, en el ámbito de su competencia, el cumplimiento de las disposiciones legales y administrativas en materia de protección a los derechos humanos;
 
-XII. Supervisar la debida aplicación de las medidas preventivas de seguridad y protección en inmuebles en términos de esta ley;
+XVII. Elaborar, coordinar, planear y dirigir las acciones necesarias para establecer el Sistema Estatal de Inteligencia Policial;
 
-XIII. Establecer la coordinación de los sistemas de comunicación por radio, telefonía, alarmas y cualquier otro entre los diversos cuerpos de policía preventiva estatal y municipales, y en los casos que prevenga esta ley, hacerlo también con los prestadores de servicios de seguridad privada que operen en el Estado;
+XVIII. Coordinar y supervisar las acciones y operativos que en materia de seguridad pública e intercambio de información criminal se realicen con los Municipios del Estado, entidades colindantes y del Distrito Federal;
 
-XIV. Promover la participación de la comunidad en las acciones de seguridad pública preventiva;
+XIX. Representar al Gobierno del Estado en el Sistema Nacional de Seguridad Pública, y en el Sistema Nacional de Protección Civil; en las Comisiones Metropolitanas de Seguridad Pública, y de Protección Civil, que se establezcan con el Distrito Federal y Estados colindantes;
 
-XV. Presidir la Comisión Estatal Policial de Estímulos y Recompensas, integrada para determinar y entregar estímulos, premios y recompensas y ejecutar sus acuerdos;
+XX. Proponer al Secretario General de Gobierno planes y programas de educación especial para los internos, a fin de inculcarles valores cívicos y encauzarlos a actividades formativas y productivas;
 
-XVI. Rendir semestralmente ante el Gobernador del Estado un informe respecto a la situación que guarda la función de la seguridad pública preventiva en la entidad;
+XXI. Promover la participación de la iniciativa privada para generar actividades económicas para los internos que les permita obtener un ingreso para su manutención y la de sus familias;
 
-XVII. Vigilar el cumplimiento de las leyes, reglamentos, acuerdos, convenios y demás disposiciones referentes a la seguridad pública preventiva; y
+XXII. Proponer y, en su caso, celebrar acuerdos, convenios y demás actos jurídicos, relacionados con las atribuciones de la Agencia de Seguridad Estatal;
 
-XVIII. Las demás que le señalen esta u otras leyes de la materia.
+XXIII. Definir lineamientos de racionalidad, austeridad, disciplina, equidad, igualdad, legalidad y transparencia administrativas para el ejercicio, seguimiento y control de los recursos que se aporten para la operación y funcionamiento de la Agencia de Seguridad Estatal;
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+XXIV. Ejercer la máxima autoridad y mando en la Agencia de Seguridad Estatal, bajo las órdenes del Gobernador del Estado;
+
+XXV. Determinar y establecer el sistema integral de planeación estratégica y de desarrollo humano de la Agencia de Seguridad Estatal, a fin de contar con los elementos necesarios para orientar y favorecer el cumplimiento de sus atribuciones y elevar los niveles de calidad de sus actividades;
+
+XXVI. Emitir las disposiciones administrativas necesarias para asegurar que los prestadores de servicios de seguridad privada se apeguen a las disposiciones legales y reglamentarias correspondientes;
+
+XXVII. Coordinar, operativamente a los Cuerpos de Vigilancia Auxiliar y Urbana y de Guardias de Seguridad Industrial, Bancaria y Comercial, en su carácter de auxiliares de la seguridad pública;
+
+XXVIII. Promover, coordinar y evaluar estudios de opinión pública que permitan contar con información sobre la percepción social en materia de seguridad pública y tener parámetros sobre la actuación de la Agencia de Seguridad Estatal;
+
+XXIX. Promover la integración de Grupos de Coordinación Interinstitucional con autoridades de los diferentes órdenes de gobierno, con el fin de optimizar y eficientar los recursos, así como fomentar la participación ciudadana en materia de seguridad pública, protección civil, y prevención y readaptación social;
+
+XXX. Promover la realización de estudios de vialidad, para mejorar el tránsito vehicular en las vías primarias;
+
+XXXI. Dirigir, administrar y coordinar la operación de la carrera policial de la Agencia de Seguridad Estatal;
+
+XXXII. Determinar los indicadores básicos de los que deriven el número de personal y características del equipo necesarios para la prestación del servicio de seguridad pública;
+
+XXXIII. Proponer al Secretario General de Gobierno, el Plan Rector de Formación, Capacitación, Profesionalización, Actualización, Adiestramiento y Especialización de los miembros del Cuerpo Preventivo de Seguridad Pública Estatal;
+
+XXXIV. Ejercer acciones de coordinación con las diferentes Unidades Administrativas del Estado y municipios en situaciones de emergencia y desastre que pongan en riesgo la estabilidad sociopolítica de la Entidad;
+
+XXXV. Administrar, organizar, controlar y supervisar los recursos humanos, materiales y financieros de la Agencia de Seguridad Estatal, de conformidad con la normatividad aplicable y al presupuesto asignado;
+
+XXXVI. Emitir los acuerdos, instructivos, manuales de organización y de procedimientos, y demás normatividad que rija las actividades de las unidades administrativas de la Agencia de Seguridad Estatal;
+
+XXXVII. Informar al Secretario General de Gobierno, sobre el desempeño de las atribuciones de la Agencia de Seguridad Estatal y de los resultados alcanzados; y
+
+XXXVIII. Las demás que le señale esta Ley, otras disposiciones legales y administrativas y las que determine el Secretario General de Gobierno.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 14.
 
-Son atribuciones de los miembros de los cuerpos preventivos de seguridad pública estatal, en el ejercicio de su función:
+Son atribuciones de los miembros del Cuerpo Preventivo de Seguridad Pública Estatal, en el ejercicio de su función:
 
 I. Prevenir la comisión de faltas administrativas y de delitos;
 
@@ -245,11 +305,27 @@ II. Salvaguardar la vida, la integridad, bienes y los derechos de las personas, 
 
 III. Cumplir las órdenes que reciban de sus superiores jerárquicos en relación con la aplicación de las disposiciones de la ley de la materia y demás disposiciones legales;
 
-IV. Auxiliar a la población, al Ministerio Público y a las autoridades judiciales y administrativas;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-V. Detener y remitir al Ministerio Público a las personas en casos de delito flagrante; y
+IV. Auxiliar al Ministerio Público y a las autoridades judiciales y administrativas;
 
-VI. Cumplir y hacer cumplir esta ley, sus disposiciones reglamentarias y demás ordenamientos legales relativos a la policía preventiva.
+V. Detener y remitir al Ministerio Público a las personas en casos de delito flagrante; y (sic)
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VI. Mantener el orden, tanto al interior como al exterior de los Centros de Prevención y Readaptación Social;
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VII. Auxiliar a la población en caso de emergencia o desastre;
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VIII. Cumplir y hacer cumplir esta Ley, sus disposiciones reglamentarias y demás ordenamientos legales relativos a la policía preventiva; y
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+IX. Realizar labores de inteligencia estratégica, táctica, operativa, análisis, recolección y procesamiento de información criminal para la prevención y disuasión del delito.
 
 ### CAPITULO II. De las Autoridades Municipales
 
@@ -333,11 +409,17 @@ V. Contar con las estadísticas delictivas y efectuar la supervisión de las acc
 
 VI. Promover la capacitación técnica y práctica de los integrantes del cuerpo preventivo de seguridad pública municipal;
 
-VII. Informar por conducto de la Dirección General de Seguridad Pública y Tránsito al Registro Estatal, los movimientos de altas y bajas de los miembros del cuerpo preventivo de seguridad pública municipal, así como de sus vehículos, armamento, municiones y equipo, para los efectos de la coordinación con el Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-VIII. Denunciar oportunamente ante las autoridades competentes el extravío o robo de armamento a su cargo, y comunicar de inmediato estos hechos a la Dirección General de Seguridad Pública y Tránsito para los efectos legales correspondientes;
+VII. Informar a los responsables en la Agencia de Seguridad Estatal de los Registros Estatales, sobre los movimientos de altas y bajas de los miembros del cuerpo preventivo de seguridad pública municipal, así como de sus vehículos, armamento, municiones y equipo, para los efectos de la coordinación con el Sistema Nacional de Seguridad Pública;
 
-IX. Proporcionar a la Dirección General de Seguridad Pública y Tránsito los informes que le sean solicitados;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VIII. Denunciar oportunamente ante las autoridades competentes el extravío o robo de armamento a su cargo, y comunicar de inmediato estos hechos a la Agencia de Seguridad Estatal para los efectos legales correspondientes;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+IX. Proporcionar a la Agencia de Seguridad Estatal los informes que le sean solicitados;
 
 X. Auxiliar a las autoridades estatales cuando sea requerido para ello; y
 
@@ -361,41 +443,59 @@ VI. Cumplir y hacer cumplir esta ley, sus disposiciones reglamentarias y demás 
 
 ### CAPITULO III. De las Actividades en Materia de Seguridad Pública Preventiva
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 20.
 
-Para el cumplimiento de sus atribuciones, las autoridades de seguridad pública preventiva, realizarán las siguientes actividades:
+Para el cumplimiento de sus atribuciones, las autoridades de seguridad pública Estatal y Municipal, realizarán las siguientes actividades:
+
+a) En el ámbito competencial concurrente:
 
 I. Normativas;
 
-II. Operativas, que podrán ser concurrentes o específicas; y
+II. Operativas; y
 
 III. De supervisión.
 
+b) Adicionalmente en el ámbito Estatal:
+
+I. De inteligencia y análisis criminal, para la prevención y disuasión del delito.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 21.
 
-Son actividades normativas el diseño y definición de políticas, programas y acciones por ejecutar en las materias de: prevención del delito, disciplina, capacitación de los integrantes de los cuerpos preventivos de seguridad pública, siniestros, sistemas de alarma, radio comunicación y participación ciudadana; así como todas aquéllas de naturaleza análoga que establezcan las leyes y reglamentos en esta materia.
+Son actividades normativas el diseño y definición de políticas, programas y acciones por ejecutar en las materias de formación, capacitación, adiestramiento, especialización, prevención del delito, disciplina y profesionalización de los integrantes de los cuerpos de seguridad pública, siniestros, sistemas de alarma, radio comunicación y participación ciudadana; así como todas aquéllas de naturaleza análoga que establezcan las leyes y reglamentos en esta materia.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 22.
 
-Son actividades operativas las que determinan las formas en que deben ejercerse las atribuciones de los cuerpos de policía preventiva del Estado y municipales, en términos de esta ley y demás disposiciones legales.
+Son actividades de inteligencia las tendientes a la obtención, análisis y explotación de información para ubicar, identificar, disuadir y prevenir la comisión de delitos.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 23.
 
-Son actividades operativas concurrentes las que realicen en forma coordinada los cuerpos preventivos de seguridad pública estatal, municipales y de seguridad privada para alcanzar los fines previstos en esta ley y demás disposiciones legales de la materia.
+Son actividades operativas concurrentes las que realicen en forma coordinada de (sic) los cuerpos preventivos de seguridad pública estatal y municipales en términos de esta Ley y demás disposiciones de la materia.
 
 ###### Artículo 24.
 
 Son actividades de supervisión la verificación y control del cumplimiento de las disposiciones legales aplicables a las materias señaladas en esta ley.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 25.
 
-Para la mejor conducción de operaciones policiales, delimitación de responsabilidades y una eficaz administración y apoyo logístico, el territorio estatal se dividirá en regiones y agrupamientos.
+Para la mejor conducción de operaciones policiales, delimitación de responsabilidades y una eficaz administración y apoyo logístico, el territorio estatal se dividirá en regiones, sectores y agrupamientos.
 
 ### CAPITULO IV. Del Mando de los Cuerpos de Seguridad Pública Preventiva
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 26.
 
-El mando de los cuerpos preventivos de seguridad pública estatal, corresponde al Gobernador, quien lo ejercerá por sí o mediante el Secretario General de Gobierno y éste por conducto del Director General de Seguridad Pública y Tránsito.
+El mando del Cuerpo Preventivo de Seguridad Pública Estatal corresponde al Gobernador, quien lo ejercerá por sí o por conducto del Secretario General de Gobierno, y éste a través del Comisionado de la Agencia de Seguridad Estatal.
 
 ###### Artículo 27.
 
@@ -407,9 +507,11 @@ En el municipio donde residan los poderes del Estado, el mando de la fuerza púb
 
 El mando inmediato de los cuerpos preventivos de seguridad pública municipal lo ejercerán los presidentes municipales por sí o por conducto de su respectivo Director.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 29.
 
-Los cuerpos preventivos de seguridad pública municipales podrán coordinarse con la Dirección General de Seguridad Pública y Tránsito cuando éstos lo requieran para garantizar el cumplimiento de esta ley.
+Los cuerpos preventivos de seguridad pública municipales, podrán coordinarse con la Agencia de Seguridad Estatal, cuando aquéllos lo requieran para garantizar el cumplimiento de esta Ley.
 
 ### CAPITULO V. De los Cuerpos Preventivos de Seguridad Pública
 
@@ -417,7 +519,9 @@ Los cuerpos preventivos de seguridad pública municipales podrán coordinarse co
 
 Los cuerpos preventivos de seguridad pública, son los siguientes:
 
-I. El Cuerpo Preventivo de Seguridad Pública Estatal, cuyos miembros se denominarán policías preventivos estatales y operarán en todo el territorio del Estado; y
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+I. El Cuerpo Preventivo de Seguridad Pública Estatal, cuyos miembros dependen de la Agencia de Seguridad Estatal, se denominarán Agentes de Seguridad Estatales, con funciones de seguridad pública y de inteligencia e investigación para la prevención de los delitos, quienes operarán en todo el territorio del Estado, mismos que estarán sujetos a los derechos y obligaciones que señala la presente Ley, el Reglamento Interior de la Agencia de Seguridad Estatal y las disposiciones administrativas que al efecto se emitan; y
 
 II. Los Cuerpos Preventivos de Seguridad Pública Municipal, cuyos miembros se denominarán policías preventivos municipales y operarán en el territorio del municipio que corresponda.
 
@@ -425,13 +529,19 @@ II. Los Cuerpos Preventivos de Seguridad Pública Municipal, cuyos miembros se d
 
 Los miembros de los cuerpos preventivos de seguridad pública ejercerán sus funciones en el ámbito de su competencia en términos de esta ley y demás disposiciones reglamentarias.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 32.
 
-El cuerpo preventivo de seguridad pública estatal, a fin de hacer mas eficiente sus acciones, podrá organizarse en unidades orgánicas y agrupamientos especializados.
+El Comisionado de la Agencia de Seguridad Estatal, podrá crear agrupamientos especializados, siempre que no contravengan la presente Ley y su Reglamento Interior.
+
+El Comisionado de la Agencia de Seguridad Estatal, brindará protección y seguridad mediante la asignación de elementos de los Cuerpos Preventivos de Seguridad Pública Estatal, a quienes hayan ocupado el cargo de Comisionado así como a sus familiares, durante un término equivalente a dos periodos de su gestión, para salvaguardar su integridad.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 33.
 
-El cuerpo preventivo de seguridad pública estatal tendrá una unidad de supervisión interna de la actuación policial, dependiente del Secretario General de Gobierno e integrado en la forma y con los requisitos que se determinen en el Reglamento respectivo.
+El cuerpo preventivo de seguridad pública estatal tendrá una Unidad de Inspección General, para efectos de la aplicación del régimen disciplinario interno, que dependerá del Comisionado de la Agencia de Seguridad Estatal y estará integrada en la forma que se determine en el Reglamento Interior de la Agencia de Seguridad Estatal.
 
 > <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -447,13 +557,17 @@ Los vehículos de los cuerpos preventivos de seguridad pública de los municipio
 
 Los vehículos de las corporaciones que prestan los servicios de seguridad privada deberán ostentar en forma notoriamente visible, el nombre de la empresa a la que pertenecen, su insignia, el número o clave que lo identifique, con características distintas que los distinga de los vehículos de los cuerpos de seguridad pública del Estado y de los municipios.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 36.
 
-Los integrantes de los cuerpos preventivos de seguridad pública, sólo durante el tiempo del ejercicio de funciones, podrán portar las armas de cargo que les hayan sido autorizadas individualmente y que estén registradas colectivamente por la institución de seguridad pública a que pertenezcan, de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
+Los integrantes de los cuerpos de seguridad pública, sólo durante el tiempo del ejercicio de funciones, podrán portar las armas de cargo que les hayan sido autorizadas individualmente y que estén registradas colectivamente por la institución de seguridad pública a la que pertenezcan, de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 37.
 
-En el caso de que los integrantes de los cuerpos preventivos de seguridad pública aseguren armas y/o municiones, lo comunicarán de inmediato al Registro Estatal de Personal, Armamento y Equipo de Seguridad Pública, quien hará lo mismo al Registro Nacional, poniendo a disposición de las autoridades competentes los objetos asegurados, en términos de la Ley Federal de Armas de Fuego y Explosivos.
+En el caso de que los integrantes de los cuerpos de seguridad pública aseguren armas y/o municiones, lo comunicarán de inmediato a los Registros Estatales de Personal, de Armamento y Equipo de Seguridad Pública, quien hará lo mismo al Registro Nacional, poniendo a disposición de las autoridades competentes los objetos asegurados, en términos de la Ley Federal de Armas de Fuego y Explosivos.
 
 ###### Artículo 38.
 
@@ -473,89 +587,69 @@ Como auxiliares de la seguridad pública existirán los cuerpos de guardias de s
 
 La carrera policial, es la base para la formación de los integrantes de los cuerpos preventivos de seguridad pública estatal y municipales y, comprenderá los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción y separación del servicio, así como su evaluación.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 41.
 
-La carrera policial de los integrantes de los cuerpos preventivos de seguridad pública estatal y municipales, tendrá carácter obligatorio y permanente y se regulará conforme a este ordenamiento y a los convenios que sobre la materia suscriba el Ejecutivo del Estado, en el marco del Sistema Nacional de Seguridad Pública, y demás disposiciones reglamentarias.
+La carrera policial de los integrantes de los cuerpos preventivos de seguridad pública estatal y municipales se regularán en los reglamentos que en esa materia se expidan.
 
 ###### Artículo 42.
 
-El Ejecutivo del Estado y los ayuntamientos en el ámbito de sus respectivas competencias, promoverán la formación y dignificación de los cuerpos preventivos de seguridad pública, la función policial será considerada de acuerdo con la calidad y riesgo que implique su desempeño.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
-### CAPITULO II. Del Colegio de Policía
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO II. Del Instituto de Profesionalización
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 43.
 
-El Colegio de Policía depende orgánicamente de la Dirección General de Seguridad Pública y Tránsito y tiene como objetivo funcional la formación y la capacitación teórico-práctica de quienes ingresen a él en calidad de cadetes; así como la profesionalización de los mandos medios y superiores de los miembros de los cuerpos preventivos de seguridad pública. El Colegio utilizará los planteles que le sean asignados; mismos que se procurará que sean los necesarios y con la debida organización para hacer mas eficiente su funcionamiento en la forma y términos que determinen las disposiciones reglamentarias respectivas.
+El Instituto de Profesionalización depende orgánicamente de la Agencia de Seguridad Estatal y tiene como objetivo funcional la formación, capacitación, adiestramiento, actualización, profesionalización y especialización teórico-práctica, del Cuerpo de Seguridad Pública Estatal, así como del demás personal de la Agencia de Seguridad Estatal de conformidad con el Servicio Profesional de Carrera.
+
+El Instituto coadyuvará en el marco de la coordinación interinstitucional a la profesionalización de los cuerpos preventivos de seguridad pública municipal; asimismo las Academias e Instituciones de Policía Municipales, incluirán en la currícula el Programa General de Formación Policial, adecuarán este último a los propios y podrán acordar con el Instituto convenios de colaboración académica.
+
+El Instituto contará con los centros necesarios para el ejercicio de sus funciones, en la forma y términos que determinen las disposiciones reglamentarias respectivas.
+
+El Instituto de Profesionalización podrá convenir con instituciones educativas, nacionales y extranjeras, su participación en cualquiera de los niveles de formación.
 
 ###### Artículo 44.
 
-El Colegio adoptará e impartirá el Programa General de la Carrera Policial, que al efecto sea aprobado conforme a las disposiciones de esta ley y de sus disposiciones reglamentarias.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 45.
 
-Al terminar el nivel respectivo y conforme a las calificaciones aprobatorias, el Colegio de Policía entregará al interesado el documento que acredite su aprobación.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 46.
 
-Los aspirantes a formar parte del Colegio de Policía deberán someterse a un examen de selección y evaluación y cumplir los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento en pleno goce y ejercicio de sus derechos;
-
-II. Ser de notoria buena conducta y reconocida solvencia moral;
-
-III. Poseer y haber concluido el grado de escolaridad mínima de enseñanza secundaria o su equivalente, reconocido oficialmente;
-
-IV. No tener antecedentes penales ni estar sujeto a proceso por delito doloso o haber sido sancionado con destitución o inhabilitación, sin que la autoridad competente revocara o anulara dicha sanción;
-
-V. Tener entre 18 y 25 años de edad; disfrutar de buena salud física y mental y no estar incapacitado médicamente para realizar la función policial por falta o inutilidad de extremidades superiores o inferiores o por padecer enfermedad que sea diagnosticada clínicamente irreversible, que no le permita desempeñar su función;
-
-VI. No ser afecto a las bebidas embriagantes ni consumir sustancias psicotrópicas u otras análogas;
-
-VII. Haber cumplido el Servicio Militar Nacional; y
-
-VIII. No tener antecedentes negativos en los Registros Nacional y Estatal de Personal de Seguridad Pública.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 47.
 
-El Comité Académico seleccionará de entre los cadetes a quienes teniendo los conocimientos y las aptitudes necesarias para ingresar a los cuerpos preventivos de seguridad pública, hubieran obtenido las calificaciones más altas.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 48.
 
-Los derechos y las obligaciones derivados de la beca asignada a los cadetes constarán expresamente en el documento mediante el cual se les haya otorgado dicha beca.
-
-El Director General de Seguridad Pública y Tránsito podrá disponer que los cadetes que se encuentren a mitad del curso básico de formación policial, realicen las prácticas de la función que tendrán al concluir su preparación.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ### CAPITULO III. De la Profesionalización Policial
 
 ###### Artículo 49.
 
-Para efectos de la presente ley se considera como policía de carrera al elemento que, además de su antigüedad, tiempo de servicio y buena conducta vaya obteniendo los grados superiores al aprobar los requisitos de las promociones correspondientes.
-
-La profesionalización de los cuerpos de seguridad pública estatal y municipales es obligatoria y su instrucción será conforme a la disciplina militar.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 50.
 
-Para la elaboración del Programa General de la Carrera Policial se creará un Comité Académico, en términos de las disposiciones reglamentarias respectivas, observando que el Programa contenga sustento teórico-práctico no sólo en materia policial, sino también en el respeto de las garantías individuales.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 51.
 
-Los integrantes de los cuerpos preventivos de seguridad pública estatal y municipales estarán sujetos al Programa General de la Carrera Policial, el que se orientará a lograr su desarrollo profesional, técnico, científico, humanístico y cultural y a fomentar el respeto de las garantías individuales y de los derechos humanos, la autoestima, así como también se reafirmará la identidad nacional y estatal de sus elementos.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 52.
 
-El Programa General de la Carrera Policial deberá contener básicamente los siguientes niveles:
-
-I. Básico;
-
-II. De actualización;
-
-III. De especialización técnica o profesional;
-
-IV. De promoción; y
-
-V. De mandos medios y superiores.
-
-El contenido de los programas será determinado por las disposiciones reglamentarias respectivas.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ## TITULO CUARTO. De los Miembros de los Cuerpos Preventivos de Seguridad Pública
 
@@ -595,25 +689,33 @@ XIV. Velar por la vida e integridad física de las personas.
 
 ### CAPITULO II. De los Derechos y Obligaciones
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 54.
 
-Los miembros de los cuerpos preventivos de seguridad pública, en el ejercicio de sus funciones, tendrán los siguientes derechos:
+Los miembros de los cuerpos de seguridad pública, en el ejercicio de sus funciones, tendrán los siguientes derechos:
 
 I. Percibir la remuneración neta que les corresponda por el desempeño de su servicio, salvo las deducciones y los descuentos que procedan en términos de ley;
 
 II. Gozar de un trato digno y decoroso por parte de sus superiores jerárquicos, iguales o subalternos;
 
-III. Ser sujeto de los ascensos, condecoraciones, recompensas y distinciones a que se hayan hecho merecedores;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+III. Ser sujeto de los ascensos, condecoraciones, recompensas y distinciones a que se hayan hecho merecedores, en términos de las disposiciones reglamentarias correspondientes;
 
 IV. Cambiar de adscripción por permuta cuando las necesidades del servicio lo permitan;
 
-V. Recibir la formación, capacitación y adiestramiento necesarios para ser policía de carrera;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+V. Recibir la formación, capacitación, adiestramiento y profesionalización;
 
 VI. Tener registradas en sus expedientes las notas buenas y menciones honoríficas a que se hayan hecho merecedores;
 
 VII. Recibir el vestuario reglamentario sin costo alguno y el equipo requerido para cumplir con la comisión o servicio asignado;
 
-VIII. Participar en los concursos de promoción y evaluación curricular para ascender a la jerarquía inmediata superior;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VIII. Participar en los concursos de promoción y evaluación curricular para ascender a la jerarquía inmediata superior, en términos de las disposiciones reglamentarias correspondientes;
 
 IX. Gozar de los beneficios de la seguridad social en los términos que determinen las disposiciones reglamentarias de esta ley;
 
@@ -665,9 +767,17 @@ XII. Abstenerse de impedir, por sí o por interpósita persona, utilizando cualq
 
 XIII. Asegurar y entregar inmediatamente a la autoridad competente los instrumentos u objetos de los delitos o faltas;
 
-XIV. Abstenerse de faltar o abandonar su servicio sin causa o motivo justificado; y
+XIV. Abstenerse de faltar o abandonar su servicio sin causa o motivo justificado; y (sic)
 
-XV. Dar cumplimiento a lo ordenado en los reglamentos que emanen de la presente ley.
+XV. Dar cumplimiento a lo ordenado en los reglamentos que emanen de la presente ley;
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XVI. Cumplir con los requisitos de permanencia que señala la presente Ley y los sistemas de evaluación de competencias que determinen las disposiciones reglamentarias correspondientes;
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XVII. Aportar información y documentos fidedignos para la integración y actualización del Registro Estatal de Personal de Seguridad Pública.
 
 ###### Artículo 56.
 
@@ -675,55 +785,51 @@ Los derechos y obligaciones de los miembros de los cuerpos auxiliares denominado
 
 ### CAPITULO III. Reconocimientos, Premios y Condecoraciones
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 57.
 
-Los miembros de los cuerpos preventivos de seguridad pública estatal y municipales se harán merecedores a reconocimientos, premios y condecoraciones, cuyo otorgamiento podrá hacerse en vida o post mortem.
+Los miembros de los cuerpos preventivos de seguridad pública estatal y municipales, se sujetarán en cuanto a reconocimientos, premios y condecoraciones, a lo establecido en la normatividad que se establezca para el Servicio Profesional de Carrera de la Agencia de Seguridad Estatal.
 
 ###### Artículo 58.
 
-Los reconocimientos, premios, condecoraciones y promociones serán por:
-
-I. Perseverancia y eficiencia en el servicio;
-
-II. Lealtad institucional y a los principios de actuación; y
-
-III. Actos de heroísmo y servicios a la comunidad.
-
-Los reconocimientos, premios y condecoraciones consistirán en numerario, diplomas y medallas, en términos de las disposiciones reglamentarias respectivas.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 59.
 
-El reconocimiento a la perseverancia en el servicio se concederá cuando se tengan 10, 15, 20, 25 y 30 años de servicio.
-
-El premio a la lealtad institucional y a los principios de actuación se otorgará cuando se sobresalga en alguna disciplina o área tecnológica, científica, cultural o deportiva que enaltezca el prestigio, la dignidad y la imagen del cuerpo al que pertenezca; o por realizar inventos, diseños o mejoras de instrumentos, aparatos, sistemas o métodos para las funciones de las corporaciones o por acciones ejemplares.
-
-La condecoración por actos de heroísmo y servicio a la comunidad se otorgará cuando se realicen acciones para salvar la vida de una o varias personas, arriesgando la propia, la integridad física o la salud por anteponer la defensa del orden público y la protección de los integrantes de la comunidad.
-
-Además del reconocimiento, premio o condecoración, los integrantes de los cuerpos preventivos de seguridad pública podrán ser promovidos al grado inmediato superior cuando así lo determinen las Comisiones Estatal o Municipales de Estímulos y Recompensas, según corresponda.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 60.
 
-Los reconocimientos, premios y condecoraciones a que se refieren los artículos anteriores serán otorgados por las Comisiones Estatal o Municipales Policiales de Estímulos y Recompensas, de acuerdo con las disposiciones reglamentarias respectivas.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 61.
 
-Independientemente de los reconocimientos, premios y condecoraciones a que se refieren las disposiciones anteriores, se otorgarán los que se deriven de los convenios de coordinación que en la materia celebre el Ejecutivo del Estado en el marco del Sistema Nacional de Seguridad Pública.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ## TITULO QUINTO. De los Nombramientos
 
 ### CAPITULO I. Del Cuerpo Preventivo de Seguridad Pública Estatal
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 62.
 
-Los nombramientos de los integrantes del cuerpo preventivo estatal de seguridad pública serán otorgados por el Director General de Seguridad Pública y Tránsito, con excepción de los nombramientos que esta ley confiere al Secretario General de Gobierno y conforme a los requisitos de selección e ingreso que determine el Comité Académico y los que, en su caso, se deriven de los convenios que sobre esta materia celebre el Ejecutivo del Estado en el marco del Sistema Nacional de Seguridad Pública.
+Los nombramientos de los miembros del Cuerpo Preventivo de Seguridad Pública Estatal serán otorgados por el Comisionado de la Agencia de Seguridad Estatal por sí o a través de la Dirección General de Administración y Servicios, con excepción de los nombramientos que esta Ley confiere al Secretario General de Gobierno, conforme a los requisitos de selección y procedimientos de admisión e ingreso que determine la presente Ley, el Reglamento Interior de la Agencia de Seguridad Estatal o el Reglamento del Servicio Profesional de Carrera y los que, en su caso, se deriven de los convenios que sobre esta materia celebre el Ejecutivo del Estado en el marco del Sistema Nacional de Seguridad Pública.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 63.
 
-Los elementos del cuerpo preventivo estatal de seguridad pública desde el momento en que se expida su nombramiento, quedarán sujetos a lo dispuesto en esta ley y sus respectivos reglamentos, así como a las órdenes escritas o verbales de sus superiores jerárquicos, conforme a las atribuciones expresas que éstos tengan conferidas legalmente.
+Los miembros del Cuerpo Preventivo de Seguridad Pública Estatal desde el momento en que se expida su nombramiento, previa acreditación de reunir los requisitos de ingreso y satisfacer los procedimientos de admisión, quedarán sujetos a lo dispuesto en esta Ley y sus respectivos reglamentos, así como a las órdenes escritas o verbales de sus superiores jerárquicos, conforme a las atribuciones que éstos tengan conferidas.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 64.
 
-El Director General de Seguridad Pública y Tránsito podrá remover o comisionar a cualquier lugar de la entidad a los integrantes del cuerpo preventivo estatal de seguridad pública, cuando las necesidades del servicio lo requieran.
+El Comisionado de la Agencia de Seguridad Estatal podrá comisionar, adscribir y/o cambiar de adscripción a los miembros del Cuerpo Preventivo de Seguridad Pública Estatal a cualquier lugar de la entidad, cuando las necesidades del servicio lo requieran, a fin de fortalecer la capacidad y actividades que redunden en la prestación de un servicio más eficiente en beneficio de la sociedad.
+
+Tratándose de los integrantes de los cuerpos auxiliares, esta facultad la ejercerán sus respectivos titulares, conforme a sus disposiciones específicas.
 
 ### CAPITULO II. De los Cuerpos Preventivos de Seguridad Pública Municipal
 
@@ -789,35 +895,43 @@ De 13 a 24 horas, cuando sea la segunda vez que se incurre en incumplimiento de 
 
 De 25 a 36 horas, cuando sea la tercera vez que se incurre en incumplimiento de las normas disciplinarias; y
 
-De 37 horas a 15 días de separación temporal, cuando sea la cuarta o posteriores veces que se incurre en incumplimiento de las normas disciplinarias; en todo caso, se aumentaran tres días por cada vez en que se incurra en incumplimiento de las normas disciplinarias hasta llegar al límite máximo de 15 días.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+De 37 horas a 15 días de separación temporal, cuando sea la cuarta o posteriores veces que se incurre en incumplimiento de las normas disciplinarias; en todo caso, se aumentaran tres días por cada vez en que se incurra en incumplimiento de las normas disciplinarias hasta llegar al límite máximo de 15 días. La separación temporal será impuesta por el superior jerárquico, en términos del Reglamento de esta Ley.
 
 ###### Artículo 73.
 
 El infractor cumplirá el arresto durante su franquicia en el lugar en que se le asigne.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 74.
 
-En los casos en que pueda existir responsabilidad penal, el superior jerárquico de la unidad pondrá al elemento, sin demora, a disposición de la autoridad competente.
+En los casos en que pueda existir responsabilidad penal de los miembros del Cuerpo Preventivo de Seguridad Pública Estatal, el superior jerárquico pondrá al elemento, sin demora, a disposición de la autoridad competente, dando aviso de inmediato de tal acto a las Direcciones Generales: de Asuntos Jurídicos, de Administración y Servicios, y de Inspección General, para los efectos procedentes.
 
 ###### Artículo 75.
 
 En los casos de separación temporal, el servidor público sancionado no tendrá derecho a percibir remuneración alguna.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 76.
 
-La aplicación de las sanciones disciplinarias a los miembros de los cuerpos preventivos de seguridad pública estatal y municipales, en todo caso se hará constar en el expediente personal respectivo.
+La aplicación de las sanciones disciplinarias a los miembros de los Cuerpos Preventivos de Seguridad Pública, en todo caso se hará constar en el expediente personal respectivo y en el Registro Estatal de Personal.
 
-No serán sancionados los integrantes de los cuerpos preventivos de seguridad pública estatal o municipales que se nieguen a cumplir órdenes ilegales.
+No serán sancionados los miembros de los cuerpos de seguridad pública que se nieguen a cumplir órdenes ilegales.
 
 > <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
 
 ### CAPITULO II. De la Remoción
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 77.
 
-La remoción es la baja definitiva del servicio y la terminación de los efectos del nombramiento, expedido por la autoridad competente.
+La remoción es la baja definitiva del servicio y la terminación de los efectos del nombramiento de los miembros de los cuerpos de seguridad pública, expedido por la autoridad competente, de conformidad a lo establecido en la presente Ley.
+
+La instauración del procedimiento de remoción para los miembros del Cuerpo Preventivo de Seguridad Pública Estatal, estará a cargo del Comisionado de la Agencia de Seguridad Estatal, a través de la Dirección General de Asuntos Jurídicos, en el caso de los miembros de los cuerpos preventivos de seguridad pública municipales, a cargo del Presidente Municipal, por medio del órgano que al efecto integre.
 
 > <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
 
@@ -831,7 +945,9 @@ II. Faltar por más de 3 días a sus servicios sin causa justificada, en un per�
 
 III. Destruir intencionalmente edificios, obras, equipos, vehículos, instrumentos u otros objetos a su cargo;
 
-IV. Cometer actos inmorales durante el servicio;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+IV. Cometer actos inmorales durante el servicio sancionados por el reglamento de Deberes y Código de Ética;
 
 V. Revelar asuntos confidenciales o reservados de que tuviere conocimiento con motivo de la prestación del servicio;
 
@@ -839,9 +955,17 @@ VI. Ocasionar con su imprudencia, abandono, descuido o negligencia, la suspensi�
 
 VII. Desobedecer las órdenes verbales o escritas que reciba de sus superiores;
 
-VIII. Asistir a sus servicios con aliento alcohólico o bajo el influjo de bebidas alcohólicas, sustancias psicotrópicas o estupefacientes; o consumirlas durante el servicio o en el centro de trabajo; y
+VIII. Asistir a sus servicios con aliento alcohólico o bajo el influjo de bebidas alcohólicas, sustancias psicotrópicas o estupefacientes; o consumirlas durante el servicio o en el centro de trabajo; y (sic)
 
-IX. Faltar reiteradamente más de dos veces u ocasiones a las obligaciones que impone esta ley y sus disposiciones reglamentarias.
+IX. Faltar reiteradamente más de dos veces u ocasiones a las obligaciones que impone esta ley y sus disposiciones reglamentarias;
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+X. Por prisión que sea resultado de una sentencia condenatoria; y
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XI. Dejar de observar cabalmente sus deberes y obligaciones establecidas en esta Ley.
 
 > <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
 
@@ -855,35 +979,63 @@ Cuando de alguna de las causas de remoción se desprenda la existencia de actos 
 
 La separación y la remoción de los integrantes de los cuerpos preventivos de seguridad pública estatal y municipales, son de orden público e interés social.
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 81.
 
-Cuando el Director General de Seguridad Pública y Tránsito o el Presidente Municipal en el ámbito de sus atribuciones, conozcan de asuntos relacionados con causas de remoción de los elementos de los cuerpos preventivos de seguridad pública, se abrirá un expediente con las constancias que existan sobre el particular quienes, en su caso tramitarán ante la contraloría correspondiente, la que podrá investigar los hechos y se sujetará al siguiente procedimiento:
+Cuando el Comisionado de la Agencia de Seguridad Estatal o el Presidente Municipal en el ámbito de sus atribuciones, conozcan de asuntos relacionados con causas de remoción de los miembros de los cuerpos preventivos de seguridad pública, a través de la Dirección General de Asuntos Jurídicos de la Agencia o del órgano municipal competente, abrirán un periodo de información previa, con las constancias que existan sobre el particular, a efecto de determinar si se inicia o no el procedimiento administrativo de remoción.
 
-I. Se notificará al elemento la instauración y naturaleza del procedimiento, citándolo para que comparezca personalmente al lugar, día y hora en que tendrá verificativo una audiencia para hacerle saber los hechos que se le imputan, en la que podrá manifestar por si o por medio de persona de su confianza, en forma oral o escrita, lo que a su derecho convenga, ofrecer pruebas y formular alegatos;
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-II. Las notificaciones y las citaciones se efectuarán por conducto del notificador, quien para el ejercicio de sus funciones estará investido de fe pública;
+Si de la información previa, no se desprenden elementos para iniciar el procedimiento correspondiente, el Director General de Asuntos Jurídicos de la Agencia de Seguridad Estatal o el servidor público que designe el Presidente Municipal dictará acuerdo de improcedencia, mismo que deberá constar en el expediente personal del elemento; por el contrario en caso de contar con los elementos necesarios antes referidos, se ordenará el inicio del procedimiento administrativo de remoción en los siguientes términos:
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+I. El Director General de Asuntos Jurídicos de la Agencia de Seguridad Estatal, a través de los notificadores habilitados para tal efecto, o el servidor público que designe el bando municipal, notificará personalmente al elemento, citándolo para que comparezca personalmente a desahogar su garantía de audiencia, al lugar, día y hora en que tendrá verificativo, donde podrá ofrecer pruebas y formular alegatos en lo que a su derecho convenga ante la Dirección General de Asuntos Jurídicos o el órgano municipal que se establezca para tal fin.
+
+En el citatorio deberán hacérsele saber los hechos que se le imputan; el objeto y alcance de la diligencia; las disposiciones legales en que se sustenta; su derecho a manifestar por sí o por medio de persona de su confianza lo que a su derecho convenga, y a ofrecer las pruebas que considere oportunas para desvirtuar la causal de remoción o su probable responsabilidad.
+
+En caso de que no comparezca, se tendrá por satisfecha su garantía de audiencia y por precluído su derecho para tal efecto, procediendo a emitir la resolución que a derecho corresponda;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+II. Las notificaciones y citaciones se efectuarán por conducto del notificador; el Director General de Asuntos Jurídicos de la Agencia de Seguridad Estatal o el Presidente Municipal en el ámbito de sus atribuciones, podrán habilitar servidores públicos para actuar como notificadores;
 
 III. Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de 3 días ni mayor de 5 días hábiles;
 
-IV. Desahogadas las pruebas, si las hubiere, y producidos, en su caso, los alegatos por parte del compareciente, el Director General de Seguridad Pública y Tránsito o los presidentes municipales, según corresponda, dictarán dentro de los 30 días hábiles siguientes, la resolución pertinente, debidamente fundada y motivada;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-V. En la resolución se determinará la inexistencia de responsabilidad o la sanción que corresponda; notificando la resolución al interesado dentro de las 48 horas siguientes;
+IV. Desahogadas las pruebas, si las hubiere, y producidos, en su caso, los alegatos por parte del compareciente, el Comisionado de la Agencia de Seguridad Estatal o el órgano municipal competente, dictarán dentro de los 30 días hábiles siguientes, la resolución pertinente, debidamente fundada y motivada;
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-VI. Posteriormente a la audiencia a la que se refiere la fracción I del presente Artículo, el Director General de Seguridad Pública y Tránsito o el Presidente Municipal, en su caso, podrán determinar la separación temporal del elemento, cuando éste se encuentre sujeto a investigación administrativa o averiguación previa por actos u omisiones de las que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio, a juicio de éstos, pudiera afectar a la corporación o a la comunidad. La separación referida no prejuzga la responsabilidad que se le impute;
+V. En la resolución se determinará si se acreditan o no los hechos que motivaron la causal de remoción que dio origen al procedimiento; notificando la resolución al interesado en términos del Código de Procedimientos Administrativos del Estado de México;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VI. Antes, durante o después de la audiencia a la que se refiere la fracción I del presente Artículo, el Director General de Asuntos Jurídicos de la Agencia de Seguridad Estatal o el servidor público que designe el Presidente Municipal, podrán determinar la separación temporal del elemento, mediante acuerdo que le será notificado, cuando éste se encuentre sujeto a investigación administrativa o averiguación previa por actos u omisiones de las que puedan derivarse probables responsabilidades y cuya permanencia en el servicio, a juicio de éstos, pudiera afectar a la Corporación o a la comunidad. La separación referida no prejuzga la responsabilidad que se le impute;
 
 VII. La separación temporal a que se refiere la fracción anterior suspenderá los efectos del nombramiento y regirá desde el momento en que sea notificada al interesado;
 
-VIII. La separación cesará cuando así lo resuelva el Director General de Seguridad Pública y Tránsito o el Presidente Municipal en su caso, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-IX. Si los elementos separados temporalmente, no resultaren responsables de la falta que se les imputa, serán restituidos en el goce de sus derechos y se les cubrirán sus haberes que debieron percibir durante el tiempo que duró la separación;
+VIII. La separación cesará cuando así lo resuelva el Director General de Asuntos Jurídicos de la Agencia de Seguridad Estatal o el servidor público que designe el Presidente Municipal en su caso, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo;
 
-X. La resolución que se dicte, tomará en consideración la falta cometida, la jerarquía y los antecedentes del elemento sujeto al procedimiento, así como las pruebas desahogadas; y
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-XI. El procedimiento anterior se sujetará además al reglamento correspondiente y en lo no previsto se aplicará en lo conducente y en forma supletoria el Código de Procedimientos Administrativos del Estado de México.
+IX. Si los elementos separados temporalmente, no resultaren responsables de la falta que se les imputa, serán reinstalados en su empleo cargo o comisión que venían desempeñando, y no tendrán derecho a que se les paguen los haberes dejados de percibir durante el tiempo de la separación, en términos de la fracción I del artículo 54 de esta Ley;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+X. La resolución que se dicte, tomará en consideración la falta cometida, y los argumentos defensivos vertidos por el elemento sujeto a procedimiento, analizados conforme a derecho;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XI. El procedimiento de remoción se sujetará a lo establecido al Reglamento de esta Ley, y en lo no previsto se aplicará en lo conducente en forma supletoria el Código de Procedimientos Administrativos del Estado de México; y
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+XII. Las facultades del Comisionado de la Agencia de Seguridad Estatal o el servidor público que designe el Presidente Municipal en su caso, para remover a los elementos prescribirá en el término de un año.
 
 De todo lo actuado se levantará constancia por escrito y las resoluciones respectivas se agregarán a los expedientes u hojas de servicio de los elementos de los cuerpos preventivos de seguridad pública estatal o municipales.
 
@@ -897,37 +1049,15 @@ Los miembros de los cuerpos auxiliares denominados guardias de seguridad y de vi
 
 ###### Artículo 83.
 
-La Comisión Estatal Policial de Estímulos y Recompensas, es el órgano colegiado encargado de conocer y evaluar la actuación y desempeño de los miembros del cuerpo preventivo de seguridad pública.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 84.
 
-La Comisión Estatal Policial de Estímulos y Recompensas, se integrará por:
-
-I. Un Presidente, que será el Director General de Seguridad Pública y Tránsito, quien tendrá voto de calidad;
-
-II. Dos vocales, que serán designados por el Secretario General de Gobierno a propuesta del Director General de Seguridad Pública y Tránsito de entre los titulares de las unidades orgánicas;
-
-III. El titular de la Unidad de Supervisión Interna de la Dirección General de Seguridad Pública y Tránsito;
-
-IV. Un representante de la Secretaría de Administración;
-
-V. Dos vocales insaculados entre los policías que sean de reconocida honorabilidad y probidad. Estos vocales durarán en su encargo un año, sin que puedan volver a desempeñarlo; y
-
-VI. Un Secretario, que será designado por el Presidente de la Comisión y que deberá tener título y cédula profesional de licenciado en derecho.
-
-El Secretario y el titular de la Unidad de Supervisión Interna de la Dirección General de Seguridad Pública y Tránsito, concurrirán con voz, pero sin voto a las sesiones de la Comisión.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 85.
 
-La Comisión Estatal Policial de Estímulos y Recompensas, tendrá a su cargo los siguientes asuntos:
-
-I. Conocer de los actos y conductas de los policías que ameriten reconocimientos, premios y condecoraciones;
-
-II. Determinar los ascensos en término de lo dispuesto por esta ley y su reglamento;
-
-III. Establecer las medidas que impulsen y fortalezcan la dignidad y autoestima policial; y
-
-IV. Los demás que establezcan las leyes, reglamentos y disposiciones administrativas en la materia.
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
 ### CAPITULO II. De las Comisiones Municipales Policiales de Estímulos y Recompensas
 
@@ -971,25 +1101,27 @@ IV. Los demás que establezcan las leyes, reglamentos y disposiciones aplicables
 
 El Sistema Estatal de Seguridad Pública Preventiva, tiene por objeto desarrollar las bases de coordinación entre la Federación, el Estado y los Municipios, para cumplir los fines de la seguridad pública.
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 90.
 
-El Sistema Estatal de Seguridad Pública Preventiva se integra con las instancias, instrumentos, políticas, servicios y acciones previstas en la presente ley.
+El Sistema Estatal de Seguridad Pública se integra con las instancias, instrumentos, políticas, servicios y acciones previstas en la presente Ley.
 
 ### CAPITULO II. Del Programa Estatal de Seguridad Pública Preventiva
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 91.
 
-El Programa Estatal de Seguridad Pública Preventiva, es el documento que contiene las acciones que en forma planeada y coordinada deberán realizar los cuerpos Preventivos de Seguridad Pública en el corto, mediano y largo plazo.
+El Programa Estatal de Seguridad Pública, contiene los ejes, programas y acciones que en forma planeada y coordinada deberán realizar los Cuerpos de Seguridad Pública en el corto, mediano y largo plazos.
 
 El programa tendrá el carácter de prioritario y su ejecución se ajustará a las disposiciones de esta ley y a las que dicten los órganos competentes.
 
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 92.
 
-Corresponde al Secretario General de Gobierno y al Director General de Seguridad Pública y Tránsito, en el ámbito de competencia, la elaboración e implementación del Programa Estatal de Seguridad Pública Preventiva.
+Corresponde al Secretario General de Gobierno, a través del Comisionado de la Agencia de Seguridad Estatal, la elaboración e implementación del Programa Estatal de Seguridad Pública.
 
 ###### Artículo 93.
 
@@ -1039,15 +1171,21 @@ Para la eficaz coordinación de la jurisdicción estatal con la Federación, el 
 
 Las autoridades estatales y municipales en materia de seguridad pública, en el ámbito de sus respectivas competencias, cuando se requiera, coordinarán operativa y administrativamente sus actividades, estableciendo la unificación de criterios y la unidad en los mandos.
 
-La coordinación estará al mando del Ejecutivo en el territorio del Estado, quien lo ejercerá por conducto del Secretario General de Gobierno, y éste mediante el Director General de Seguridad Pública y Tránsito.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+La coordinación estará al mando del Ejecutivo en el territorio del Estado, quien lo ejercerá por conducto del Secretario General de Gobierno y éste a través del Comisionado de la Agencia de Seguridad Estatal.
 
 ###### Artículo 99.
 
 La coordinación en materia de seguridad pública comprenderá, entre otros aspectos, los siguientes:
 
-I. Programas y acciones de seguridad pública, orientados a la prevención del delito, combate a la delincuencia, capacitación y profesionalización de los elementos y fomento a la participación ciudadana;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-II. Sistemas para el intercambio de información que faciliten el desarrollo de sus actividades y la selección, reclutamiento e idoneidad del personal;
+I. Programas y acciones de seguridad pública, orientados a la prevención del delito, combate a la delincuencia, protección civil, readaptación social, capacitación y profesionalización de los elementos y fomento a la participación ciudadana;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+II. Sistemas para el intercambio de información para generar inteligencia que faciliten el desarrollo de sus actividades y la selección, reclutamiento e idoneidad del personal;
 
 III. Implantación de mecanismos de cooperación en la realización de operativos policiacos;
 
@@ -1061,9 +1199,11 @@ La coordinación de seguridad pública estatal y municipal estará sujeta a los 
 
 ### CAPITULO III. De la Coordinación Intermunicipal
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 101.
 
-Las autoridades municipales de seguridad pública preventiva, dentro de sus respectivas competencias, con la intervención del Ejecutivo del Estado, podrán coordinar operativamente la función de la seguridad pública con otros municipios que constituyan una continuidad geográfica, mediante acuerdos que establezcan instrumentos y mecanismos para tales finalidades.
+Las autoridades municipales de seguridad pública preventiva, dentro de sus respectivas competencias, con la intervención del Ejecutivo del Estado a través de la Agencia de Seguridad Estatal, podrán coordinar operativamente la función de la seguridad pública con otros municipios que constituyan una continuidad geográfica, mediante acuerdos que establezcan instrumentos y mecanismos para tales finalidades.
 
 ###### Artículo 102.
 
@@ -1121,19 +1261,31 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario General de Gobierno;
 
-III. El Secretario de Comunicaciones y Transportes;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-IV. El Procurador General de Justicia;
+III. El Secretario de Comunicaciones;
 
-V. El Director General de Seguridad Pública y Tránsito;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-VI. El Presidente de la Comisión de Seguridad Pública del Poder Legislativo del Estado;
+IV. El Secretario de Transporte;
 
-VII. Los presidentes municipales de las cabeceras de distrito judicial;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+V. El Procurador General de Justicia;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VI. El Presidente de la Comisión encargada de la seguridad pública del Poder Legislativo del Estado;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+VII. Los presidentes municipales de las cabeceras de los Distritos Judiciales;
 
 VIII. Los representantes o delegados en el Estado de las autoridades federales que integran el Consejo Nacional de Seguridad Pública; y
 
-IX. El Secretario Ejecutivo, quien será designado por el Consejo a propuesta del Presidente.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+IX. El Comisionado de la Agencia de Seguridad Estatal, quien fungirá como Secretario Ejecutivo.
 
 ###### Artículo 108.
 
@@ -1149,27 +1301,21 @@ El Consejo Coordinador Estatal de Seguridad Pública se reunirá por los menos c
 
 Los miembros del Consejo podrán proponer acuerdos y resoluciones, así como vigilar su cumplimiento.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 111.
 
-El cargo de integrante del Consejo será honorario, con excepción del Secretario Ejecutivo, cuya remuneración será fijada por el Presidente.
+El cargo de integrante del Consejo será honorario.
 
 ###### Artículo 112.
 
-El Secretario Ejecutivo del Consejo Coordinador Estatal de Seguridad Pública, deberá cumplir con los siguientes requisitos:
+(DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II. Tener más de 35 años de edad;
-
-III. Contar con título de licenciado en derecho debidamente registrado; y
-
-IV. Ser de reconocida capacidad y probidad y contar con experiencia en áreas de seguridad pública;
-
-V. Tener residencia efectiva en el Estado no menor a tres años.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 113.
 
-El Secretario Ejecutivo tendrá la (sic) siguientes funciones:
+El Comisionado, en su carácter de Secretario Ejecutivo, por sí o a través del Secretario Técnico de la Agencia de Seguridad Estatal, tendrá las siguientes funciones:
 
 I. Proponer al presidente la agenda de asuntos a tratar en la reunión;
 
@@ -1379,17 +1525,21 @@ Los Consejos de Coordinación Municipal convocarán a los sectores sociales de s
 
 Las instancias de coordinación y de participación comunitaria, estarán integradas y tendrán además las atribuciones que determine la Ley General que establece las Bases de Coordinación del Sistema Nacional De Seguridad Pública, los acuerdos del Consejo Nacional de Seguridad Pública y el Consejo Coordinador Estatal de Seguridad Pública.
 
-## TITULO DECIMO. Del Registro Estatal de Personal, Armamento y Equipo de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO I. Del Registro
+## TITULO DECIMO. De los Registros Estatales de Personal, de Armamento y Equipo de Seguridad Pública
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO I. De los Registros
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 132.
 
-El Registro Estatal de Personal, Armamento y Equipo de Seguridad Pública, estará a cargo de la Dirección General de Seguridad Pública y Tránsito, se regirá por las disposiciones de la presente Ley, la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, los acuerdos del Consejo Nacional de Seguridad Pública y los convenios que el Estado suscriba en esta materia.
+Los registros estatales de Personal, de Armamento y Equipo de Seguridad Pública, estarán a cargo del Secretario General de Gobierno, a través de la Agencia de Seguridad Estatal, se regirán por las disposiciones de la presente Ley, la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, los acuerdos del Consejo Nacional de Seguridad Pública y los convenios que el Estado suscriba en esta materia.
 
-El Registro Estatal de Personal, Armamento y Equipo de Seguridad Pública deberá mantenerse actualizado y contendrá:
-
-I. Los datos que permitan identificar plenamente y localizar a los integrantes de los cuerpos preventivos de seguridad pública estatal y municipales, los auxiliares y de los servicios de seguridad privada, tales como:
+I. El Registro Estatal de Personal, deberá mantenerse actualizado y contendrá los datos que permitan identificar plenamente y localizar a los miembros de los cuerpos de seguridad pública, cuerpos auxiliares y de los prestadores de servicios de seguridad privada, tales como:
 
 a) Nombre, huellas digitales y fotografía;
 
@@ -1399,29 +1549,35 @@ c) Medidas y características antropométricas;
 
 d) Escolaridad y trabajos desempeñados en materia de seguridad pública o privada;
 
-e) Descripción de los cursos de capacitación recibidos en el manejo de armas y tácticas policiales;
+e) Descripción de los cursos de profesionalización recibidos en materia de Seguridad Pública y resultados de las evaluaciones de competencias;
 
 f) Habilidad y especialidad en el manejo de armas;
 
-g) Examen psicológico, médico y sobre el consumo de bebidas embriagantes o de sustancias psicotrópicas o estupefacientes;
+g) Resultados de exámenes psicológico, médico y sobre el consumo de bebidas embriagantes o de sustancias psicotrópicas o estupefacientes;
 
 h) Antecedentes laborales y trayectoria en los servicios de seguridad pública;
 
 i) Estímulos, reconocimientos y sanciones;
 
-j) Cualquier cambio de adscripción, actividad o rango del integrante de los cuerpos preventivos de seguridad pública estatal, municipales o de los servicios de seguridad privada;
+j) Cualquier cambio de adscripción, comisión, actividad o rango;
 
 k) Los demás aspectos que señalen las disposiciones reglamentarias, acuerdos y convenios aplicables;
 
-II. Los datos de los vehículos que tengan asignados los cuerpos de seguridad pública estatal y municipales, los auxiliares y los servicios de seguridad privada, con el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y de motor; y
+II. El Registro Estatal de Armamento y Equipo de Seguridad Pública, deberá mantenerse actualizado y contendrá los datos que permitan identificar plenamente y localizar a los activos de los cuerpos de seguridad pública, cuerpos auxiliares y de los prestadores de servicios de seguridad privada, tales como:
 
-III. Los datos de las armas y municiones que hayan sido autorizadas a los cuerpos preventivos de seguridad pública estatal y municipales, a los auxiliares y a los servicios de seguridad privada por las autoridades o dependencias competentes, con el número de registro, marca, modelo, calibre, matrícula y demás elementos de identificación, incluyendo las pruebas técnicas para identificar armas, balas y casquillos disparados.
+a) Los datos de los vehículos que tengan asignados, con el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y de motor;
 
-La información anterior será sistematizada por el Registro y se suministrará e intercambiará con la Federación, los Estados, el Distrito Federal y los municipios mediante la utilización de instrumentos y procedimientos tecnológicos que permitan el acceso fácil y rápido a la información sobre seguridad pública.
+b) Los datos de las armas y municiones que tengan bajo su resguardo y de las que les hayan sido autorizadas por las autoridades o dependencias competentes, con el número de registro, marca, modelo, calibre, matrícula y demás elementos de identificación, incluyendo las pruebas técnicas para identificar armas, balas y casquillos disparados; y
+
+c) Los datos del equipo cuya naturaleza sea relacionada con las funciones de Seguridad Pública.
+
+La información anterior será sistematizada por ambos Registros y se suministrará e intercambiará con la Federación, los Estados, el Distrito Federal y los municipios mediante la utilización de instrumentos y procedimientos tecnológicos que permitan el acceso fácil y rápido a la información sobre seguridad pública, en términos de las disposiciones reglamentarias.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 133.
 
-Los cuerpos preventivos de seguridad pública estatal y municipales, los auxiliares y los prestadores de servicios de seguridad privada serán responsables de inscribir y mantener actualizados los datos de los registros de su personal directivo, operativo o administrativo respectivos, conforme lo determinen las disposiciones respectivas.
+Los cuerpos preventivos de seguridad pública, cuerpos auxiliares y los prestadores de servicios de seguridad privada estarán obligados y serán responsables de inscribir y mantener actualizados los datos de los registros, conforme lo determinen las disposiciones respectivas.
 
 ###### Artículo 134.
 
@@ -1437,31 +1593,41 @@ El Registro Estatal de Personal, Armamento y Equipo de Seguridad Pública, con b
 
 Se prohibe la expedición de nombramientos o la contratación de personas en los cuerpos de seguridad pública estatal o municipales, los auxiliares o en los servicios de seguridad privada, sin que previamente se haya solicitado a los Registros Nacional y Estatal de Personal de Seguridad Pública, la constancia de servicio respectivo. La violación a este precepto se sancionará al infractor con multa de 500 hasta 3 000 días de salario mínimo vigente en la capital del Estado y en el caso de haberse expedido el nombramiento, éste quedará sin efecto legal alguno.
 
-### CAPITULO II. De la Información del Registro y de la Estadística de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO II. De la Información de los Registros y de la Estadística de Seguridad Pública
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 137.
 
-La información del Registro Estatal de Personal, Armamento y Equipo de Seguridad Pública será manejada bajo los principios de confidencialidad y reserva. No se proporcionará al público la información que ponga en riesgo la seguridad pública o atente contra el honor de las personas. El incumplimiento de esta obligación, se equiparará a los delitos cometidos en ejercicio de actividades profesionales o técnicas, sin perjuicio de las responsabilidades de otra naturaleza.
+La información, acopio, control, verificación y administración de los Registros Estatales de Personal, de Armamento y Equipo de Seguridad Pública será manejada bajo los principios de confidencialidad y reserva. No se proporcionará al público la información que ponga en riesgo la seguridad pública o atente contra el honor de las personas en términos de la legislación correspondiente. El incumplimiento de esta obligación, se equiparará a los delitos cometidos en ejercicio de actividades profesionales o técnicas, sin perjuicio de las responsabilidades de otra naturaleza.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 138.
 
-En el reglamento respectivo, se determinarán las bases para incorporar al Registro, otros servicios o instrumentos de información sobre seguridad pública, las condiciones de seguridad sobre manejo y acceso a la información y los niveles de consulta. En los casos necesarios se asignará una clave confidencial a los responsables de inscribir a las personas autorizadas para obtener la información en los sistemas para que quede la debida constancia de cualquier movimiento o consulta.
+En los reglamentos respectivos, se determinarán las bases para incorporar a los registros, otros servicios o instrumentos de información sobre seguridad pública, las condiciones de seguridad sobre manejo y acceso a la información y los niveles de consulta. En los casos necesarios se asignará una clave confidencial a los responsables de inscribir a las personas autorizadas para obtener la información en los sistemas para que quede la debida constancia de cualquier movimiento o consulta.
 
 ###### Artículo 139.
 
 Las disposiciones reglamentarias, determinarán el sistema para integrar en el registro, una base de datos sobre indiciados, procesados o sentenciados, que será de consulta obligatoria en las actividades de seguridad pública preventiva.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 140.
 
-El acceso a la información del Registro Estatal de Personal, Armamento y Equipo de Seguridad Pública será de acuerdo con los niveles de clasificación que se determinen en el reglamento respectivo.
+El acceso a la información de los Registros Estatal de Personal, de Armamento y Equipo de Seguridad Pública será de acuerdo con los niveles de clasificación que se determinen en los reglamentos respectivos.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 141.
 
-Los datos del Registro podrán ser modificados siempre que sea solicitado expresamente por él o los interesados y que se exhiban las pruebas documentales necesarias para ello.
+Los datos de los registros podrán ser modificados siempre que sea solicitado a la Agencia de Seguridad Estatal expresamente por él o los interesados y que se exhiban las pruebas documentales necesarias para ello.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 142.
-
-El Registro, en coordinación con las autoridades competentes de seguridad pública preventiva, acopiará los datos que permitan analizar la incidencia criminológica en el Estado y municipios y elaborar las estadísticas necesarias con el propósito de planear las estrategias de las políticas tendientes a la preservación del orden y la paz públicos.
 
 Las autoridades competentes en materia de seguridad pública preventiva podrán reservarse la información que ponga en riesgo alguna investigación, pero la proporcionarán inmediatamente después de que deje de existir tal condición.
 
@@ -1477,9 +1643,11 @@ El policía de barrio es el elemento perteneciente al cuerpo preventivo de polic
 
 Los ayuntamientos tendrán a su cargo el establecimiento del programa de policía de barrio, así como la selección y capacitación de quienes se desempeñen en dicha función.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 145.
 
-La Dirección General de Seguridad Pública y Tránsito auxiliará a los ayuntamientos cuando así lo soliciten, en el diseño del Programa de Policía de Barrio.
+La Agencia de Seguridad Estatal auxiliará a los ayuntamientos cuando así lo soliciten, en el diseño de sus programas.
 
 ###### Artículo 146.
 
@@ -1505,9 +1673,11 @@ En los tecallis podrán brindarse a la población servicios distintos de los de 
 
 ### CAPITULO I. De las Obligaciones de las Autoridades de Seguridad Pública Preventiva
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 150.
 
-Son obligaciones de las autoridades de seguridad pública preventiva estatal y municipal, con relación a la participación ciudadana y vecinal:
+Son obligaciones de las autoridades de seguridad pública, con relación a la participación ciudadana y vecinal:
 
 I. Establecer, las formas de organización de la participación social;
 
@@ -1533,7 +1703,9 @@ VII. Coordinar los trabajos que en forma conjunta realicen los cuerpos preventiv
 
 VIII. Elaborar los informes de actividades conjuntas y difundir las medidas preventivas que adopten de manera individual o colectiva los ciudadanos en términos de lo dispuesto por el Programa Anual de Participación Social;
 
-IX. Difundir entre la población en general las actividades que en forma permanente realicen las direcciones de seguridad pública Estatal y Municipal y las organizaciones de participación social;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+IX. Difundir entre la población en general las actividades que en forma permanente realicen la Agencia de Seguridad Estatal, las direcciones de seguridad pública municipales y las organizaciones de participación social;
 
 X. Elaborar la estadística de la actuación y logros de la participación ciudadana;
 
@@ -1543,27 +1715,41 @@ XII. Elaborar un padrón de todos los ciudadanos y organizaciones sociales que i
 
 XIII. Capacitar permanentemente a los representantes ciudadanos en las tareas de vigilancia que les fueren encomendadas.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 151.
 
-La participación ciudadana, en materia de seguridad pública preventiva, será coordinada por las autoridades estatales y municipales en el ámbito de sus respectivas competencias, las que elaborarán un Programa Anual de Participación Social, en los que se especifiquen los requerimientos, medios, términos, metas y objetivos de ejecución de las acciones de la participación ciudadana en la seguridad pública.
+La participación ciudadana, en materia de seguridad pública, será coordinada por las autoridades estatales y municipales en el ámbito de sus respectivas competencias, las que elaborarán un Programa Anual de Participación Social, en los que se especifiquen los requerimientos, medios, términos, metas y objetivos de ejecución de las acciones de la participación ciudadana.
 
-### CAPITULO II. De los Deberes y Derechos de los Ciudadanos
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO II. De los Deberes y Derechos de las Personas
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 152.
 
-Son deberes y derechos de los vecinos del Estado de México en materia de seguridad pública preventiva:
+Son deberes y derechos de las personas en el Estado de México en materia de seguridad pública preventiva:
 
-I. Informar oportunamente a la autoridad competente, de la comisión de delitos cuando tengan conocimiento de su realización, sea que se haya o no consumado;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-II. Organizarse en grupos de apoyo y participación social voluntaria, tendentes a la prevención del delito, la protección de viviendas, escuelas, comercios, industrias y demás establecimientos, en coordinación con las autoridades responsables de la seguridad pública en el Estado y las de protección ciudadana;
+I. Informar oportunamente a las autoridades estatales y municipales en la materia, cuando tengan conocimiento de la comisión de delitos, sea que se haya consumado o no, así como de la información que conozcan;
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+II .Organizarse en grupos de apoyo y participación social voluntaria, tendentes a la prevención del delito y a la protección civil, en coordinación con las autoridades responsables de la seguridad pública;
 
 III. Participar con las autoridades competentes en la elaboración, supervisión de la ejecución y evaluación del programa anual de participación social, así como de las estrategias y acciones, que coadyuven al eficiente desempeño de los cuerpos preventivos de seguridad pública del Estado y sus municipios;
 
-IV. Participar en las acciones de supervisión de los cuerpos preventivos de seguridad pública que establezcan las autoridades competentes, para verificar la actuación de los miembros de las instituciones policiales apegada a los principios de legalidad, profesionalismo, eficiencia y honradez, bajo los que se rige su actuación; y
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-V. Informar las situaciones irregulares que detecten respecto de la actuación de los miembros de las instituciones policiales estatales o municipales.
+IV. Participar en las acciones de supervisión del desempeño de los cuerpos de seguridad pública que establezcan las autoridades competentes, para verificar que su actuación sea apegada a los principios de legalidad, profesionalismo, eficiencia y honradez; y
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO I NTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+V. Denunciar ante la Agencia de Seguridad Estatal o a las autoridades municipales competentes, las situaciones irregulares que detecten respecto de la actuación de los miembros de los cuerpos de seguridad pública.
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO DECIMO TERCERO. De los Servicios de Seguridad Privada
 
@@ -1721,21 +1907,29 @@ IV. Sistemas de alarma; y
 
 V. Las demás que se especifiquen en el reglamento respectivo para la seguridad de las personas que concurran a sus establecimientos y de sus bienes.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 181.
 
-La Dirección General de Seguridad Pública y Tránsito supervisará el cumplimiento de las medidas preventivas para la seguridad y protección de las personas en los inmuebles.
+La Agencia de Seguridad Estatal supervisará el cumplimiento de las medidas preventivas para la seguridad y protección de las personas en los inmuebles.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 182.
 
-Los particulares a que se refiere el artículo 180, previamente al inicio de sus actividades, solicitarán a la Dirección General de Seguridad Pública y Tránsito la autorización correspondiente, de que el inmueble respectivo cuenta con las medidas preventivas para la seguridad y protección a que se refiere este capítulo.
+Los particulares a que se refiere el artículo 180, previamente al inicio de sus actividades, solicitarán a la Agencia de Seguridad Estatal la autorización correspondiente, de que el inmueble respectivo cuenta con las medidas preventivas para la seguridad y protección a que se refiere este capítulo.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 183.
 
-Tratándose de sistemas de alarma, la Dirección General de Seguridad Pública y Tránsito, autorizará aquéllas que por sus características puedan ser conectadas a su red de comunicación para atender las llamadas de auxilio.
+Tratándose de sistemas de alarma, la Agencia de Seguridad Estatal autorizará aquéllas que por sus características puedan ser conectadas a su red de comunicación para atender las llamadas de auxilio.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 184.
 
-El incumplimiento de cualesquiera de las disposiciones relacionadas con las medidas preventivas para la seguridad y protección establecidas en esta ley o en sus disposiciones reglamentarias será sancionada por la Dirección General de Seguridad Pública y Tránsito con multa por el equivalente hasta de 3000 días de salario mínimo diario vigente en la capital del Estado.
+El incumplimiento de cualesquiera de las disposiciones relacionadas con las medidas preventivas para la seguridad y protección establecidas en esta Ley o en sus disposiciones reglamentarias será sancionada por la Agencia de Seguridad Estatal con multa por el equivalente hasta de 3,000 días de salario mínimo diario vigente en la capital del Estado.
 
 ## TITULO DECIMO QUINTO. Del Control de la Fabricación y Comercialización de Uniformes e Insignias Policiales
 
@@ -1753,7 +1947,195 @@ I. Identificar plenamente al comprador; y
 
 II. Remitir mensualmente una relación completa de la venta respectiva, a la autoridad de seguridad pública correspondiente, para su control.
 
-El incumplimiento a lo dispuesto por este artículo, será sancionado con multa de hasta 300 días de salario mínimo vigente en la capital de la entidad y de hasta por el doble en caso de reincidencia, independientemente de que la Dirección General de Seguridad Pública y Tránsito gestionará ante las autoridades competentes la cancelación de la licencia, autorización o permiso con que cuente para su funcionamiento la negociación infraccionada.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+El incumplimiento a lo dispuesto por este artículo, será sancionado con multa de hasta 300 días de salario mínimo vigente en la capital de la entidad y de hasta por el doble en caso de reincidencia, independientemente de que la Agencia de Seguridad Estatal gestionará ante las autoridades competentes la cancelación de la licencia, autorización o permiso con que cuente para su funcionamiento la negociación infraccionada.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+## TITULO DECIMO SEXTO. De la Agencia de Seguridad Estatal
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO I. De su Naturaleza y Composición
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 187.
+
+La Agencia de Seguridad Estatal es un órgano desconcentrado de la Secretaría General de Gobierno, con autonomía técnica y operativa, que tiene como función primordial, salvaguardar la integridad, derechos y patrimonio de las personas; prevenir la comisión de delitos a través de la generación y utilización de inteligencia; lograr la Readaptación Social del delincuente, con el empleo de una eficaz administración y seguridad penitenciaria; auxiliar a la población en casos de emergencia o siniestro; y, preservar las libertades, el orden y la paz públicos, en los términos de esta Ley.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 188.
+
+La Agencia de Seguridad Estatal dependerá de la Secretaría General de Gobierno, cuyo titular tendrá la facultad de proponer al Gobernador del Estado el nombramiento de un Comisionado, quien tendrá el más alto rango en dicha Agencia y ejercerá sobre ésta atribuciones de mando, dirección y disciplina así como las acciones de coordinación interinstitucional.
+
+La Agencia de Seguridad Estatal tendrá autonomía técnica y operativa en el ejercicio de sus atribuciones. Los recursos que anualmente le sean autorizados serán intransferibles a otras unidades administrativas u órganos desconcentrados.
+
+La Agencia de Seguridad Estatal ejercerá en todo el territorio del Estado las atribuciones que establece la presente Ley y el Código Administrativo, con estricto respeto a las que corresponden a las competencias de las instituciones policiales municipales. Esta institución no tendrá atribuciones en los procesos electorales, salvo aquellas que en apoyo de las autoridades electorales, señalen las disposiciones en la materia.
+
+Para el mejor ejercicio de sus atribuciones, la Agencia de Seguridad Estatal podrá suscribir convenios de colaboración con las autoridades respectivas.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 189.
+
+Para el cumplimiento de sus funciones, la Agencia de Seguridad Estatal contará con los órganos colegiados y unidades administrativas que se determinen en su Reglamento Interior.
+
+Los Órganos Colegiados serán invariablemente presididos por el Comisionado o por el servidor público que este designe, e integrados de conformidad con las leyes de la materia, el Reglamento Interior de la Agencia de Seguridad Estatal y los manuales internos; en los casos en que no exista disposición, se compondrán por los titulares de las unidades administrativas de la Agencia de Seguridad Estatal, quienes tendrán voz y voto en las resoluciones que se tomen; asimismo, concurrirán un Representante de la Secretaría General de Gobierno y uno por la Contraloría Interna de la propia Secretaría quienes tendrán voz pero no voto.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 190.
+
+La Agencia de Seguridad Estatal tendrá las atribuciones establecidas en la presente Ley, en su Reglamento Interior, y otros ordenamientos jurídicos que así lo establezcan.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 191.
+
+Las relaciones jerárquicas de los miembros de la Agencia de Seguridad Estatal, sus estructuras normativas y operativas, su organización territorial y las demás atribuciones de mando, dirección y disciplina, serán regulados en vía reglamentaria por el Ejecutivo Estatal, y en los manuales que al efecto se expidan.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 192.
+
+Para ser Comisionado de la Agencia de Seguridad Estatal deberán cumplirse los requisitos siguientes:
+
+I. Ser ciudadano mexicano por nacimiento que no tenga otra nacionalidad, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+
+III. Tener grado de licenciatura o su equivalente;
+
+IV. Contar con experiencia vinculada a la seguridad pública; y
+
+V. No haber sido condenado por delito doloso, ni estar sujeto a proceso penal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO II. De los Miembros de la Agencia de Seguridad Estatal
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 193.
+
+Los miembros de la Agencia de Seguridad Estatal que componen el Cuerpo de Seguridad Pública Estatal, podrán ser removidos de su cargo y funciones de conformidad con está Ley, al incurrir en alguna de las causales que establece su artículo 78, o bien por no reunir los requisitos de ingreso y permanencia.
+
+Cualquiera que sea el medio de impugnación por el que se combata la remoción de los miembros de la Agencia de Seguridad Estatal, a que se refiere el presente artículo, no será procedente la restitución o reinstalación, sino sólo la indemnización, de conformidad con el último párrafo del artículo 123 apartado B fracción XIII de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 194.
+
+La actuación de los miembros de la Agencia de Seguridad Estatal se sujetará, invariablemente, a los principios de legalidad, eficiencia, profesionalismo y honradez, ya su régimen disciplinario interno.
+
+Son deberes, derechos y obligaciones de los miembros de la Agencia de Seguridad Estatal, los establecidos en la presente Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO III. Del Servicio Profesional de Carrera
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 195.
+
+El Servicio Profesional de Carrera es el sistema de administración y control del personal que promueve su profesionalización, desarrollo y permanencia, asegurando la igualdad de oportunidades de ingreso, ascensos, estímulos y beneficios con base en el mérito y la experiencia, a fin de contar con servidores públicos capaces, mejorar la calidad del servicio de seguridad pública y fortalecer la confianza social en la Institución.
+
+Para ingresar a los cuerpos de seguridad pública preventiva estatal o municipal será requisito indispensable haber cursado los estudios correspondientes en el Servicio Profesional de Carrera.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 196.
+
+El Servicio Profesional de Carrera comprende los siguientes subsistemas:
+
+I. Reclutamiento;
+
+II. Requisitos y procedimientos de selección;
+
+III. Ingreso;
+
+IV. Formación;
+
+V. Capacitación;
+
+VI. Adiestramiento y especialización;
+
+VII. Actualización;
+
+VIII. Profesionalización;
+
+IX. Desarrollo;
+
+X. Evaluación;
+
+XI. Estímulos;
+
+XII. Permanencia;
+
+XIII. Promoción y ascensos; y
+
+XIV. Retiro y/o separación del servicio.
+
+Serán integrantes del servicio profesional de carrera el personal de la Agencia de Seguridad Estatal.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 197.
+
+Los fines del Servicio Profesional de Carrera son:
+
+I. Garantizar la estabilidad y la seguridad en el servicio, con base en un esquema proporcional y equitativo de beneficios;
+
+II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de la Institución;
+
+III. Fomentar la vocación de servicio mediante la motivación, el estimulo y el establecimiento de un adecuado sistema de promociones y ascensos que permita satisfacer las expectativas de desarrollo profesional de sus integrantes; e
+
+IV. Instrumentar e impulsar de forma permanente la profesionalización del personal, que asegure la lealtad y una mejor calidad en la prestación de los servicios.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 198.
+
+El Servicio Profesional de Carrera se regirá por las normas siguientes:
+
+I. Para la implementación del Servicio Profesional de Carrera, se integrará la comisión del Servicio Profesional de Carrera como órgano colegiado de conocimiento y resolución de este sistema;
+
+II. El Reglamento del Servicio Profesional de Carrera establecerá el orden jerárquico institucional y los lineamientos, instrumentos y procedimientos para el desarrollo de los subsistemas que comprende;
+
+III. El Manual de Normas del Servicio Profesional de Carrera establecerá las edades, estaturas y los perfiles de grado, puestos, médico, físico y de personalidad que deben reunir los aspirantes y el personal de la Agencia de Seguridad Estatal, así como los parámetros y lineamientos de ejecución de los mecanismos que lo acrediten;
+
+IV. A la Agencia de Seguridad Estatal solo podrán ingresar y permanecer quienes cursen y aprueben los programas de formación, actualización y evaluación correspondientes;
+
+V. Las demás que establezcan las disposiciones reglamentarias correspondientes.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 199.
+
+Para ingresar a la Agencia de Seguridad Estatal se requiere:
+
+l. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Ser de notoria buena conducta y reconocida solvencia moral;
+
+III. Acreditar haber concluido los estudios correspondientes al nivel medio superior o su equivalente, reconocido oficialmente;
+
+IV. No tener antecedentes penales ni estar sujeto a proceso por delito doloso, o haber sido sancionado con destitución o inhabilitación, sin que la autoridad competente revocara o anulara dicha sanción;
+
+V. Contar con los requisitos de estatura, edad y el perfil físico, médico y de personalidad que establezca el Reglamento del Servicio Profesional de Carrera y su Manual;
+
+VI. No consumir sustancias de uso ilícito, o tener antecedentes de consumo de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo y someterse a los exámenes periódicos que determine la Comisión del Servicio Profesional de Carrera;
+
+VII. Haber cumplido el Servicio Militar Nacional;
+
+VIII. Someterse y aprobar los procedimientos de selección, ingreso, evaluación y formación que determine el Reglamento de Servicio Profesional de Carrera y su Manual;
+
+IX. No tener antecedentes negativos en los registros Nacional y Estatal de Personal de Seguridad Pública; y
+
+X. Los que determine la Comisión del Servicio Profesional de Carrera y las disposiciones reglamentarias correspondientes en razón de la naturaleza y especialidad de las funciones que tiene encomendadas la Agencia de Seguridad Estatal.
 
 T R A N S I T O R I O S
 
@@ -1854,3 +2236,15 @@ SEXTO.- Los procedimientos administrativos que se encuentren en trámite al entr
 SEPTIMO.- El Titular del Ejecutivo expedirá el Reglamento de la presente Ley, dentro de un plazo no mayor de noventa días hábiles posteriores a la entrada en vigor de la misma.
 
 OCTAVO.- El Consejo Estatal de Seguridad Privada se instalará dentro de los sesenta días hábiles siguientes a la expedición del Reglamento de esta Ley.
+
+G.G. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- Los Procedimientos Administrativos a cargo de la Agencia de Seguridad Estatal que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales que dieron origen a los mismos.
+
+QUINTO.- Los Procedimientos de Remoción radicados a la fecha en las Contralorías Internas correspondientes, serán tramitados y resueltos de conformidad a los establecido con la legislación anterior y los procedimientos que aún no se remiten a dichos órganos de control interno, y los que se inicien deberán resolverse de conformidad con el procedimiento establecido en el presente decreto.
