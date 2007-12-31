@@ -4,7 +4,7 @@ identifier: "PUE-ley-general-de-bienes-del-estado-7707"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-12-25"
-last_updated: "1991-12-17"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY GENERAL DE BIENES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 25 de diciembre de 1973.
 
@@ -105,6 +105,14 @@ Los bienes de dominio público del Estado estarán sometidos exclusivamente a la
 
 Los bienes de dominio privado del Estado, estarán sometidos en todo lo no previsto por esta Ley, al Código Civil vigente en el Estado o, en su defecto, a lo que dispongan otras leyes locales.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 6o.
+
+BIS.- El Ejecutivo del Estado podrá otorgar a los particulares, el uso y/o aprovechamiento de bienes de dominio público y privado para la instrumentación de proyectos para prestación de servicios a largo plazo.
+
+Para efectos del párrafo anterior, el Titular del Ejecutivo del Estado directamente o por conducto de la Secretaría de Finanzas y Administración, autorizará el uso y/o aprovechamiento de los citados bienes.
+
 ###### ARTICULO 7o.
 
 Los Tribunales Civiles y Penales del Estado tendrán competencia exclusiva para conocer de los juicios así como de los procedimientos judiciales no contenidos que se relacionen con bienes del Estado, ya sean de dominio público o de dominio privado del mismo.
@@ -139,7 +147,9 @@ VI.- Anular administrativamente los acuerdos, concesiones, permisos o autorizaci
 
 VII.- En general, dictar las disposiciones ejecutivas que demande el cumplimiento de esta Ley o de las disposiciones a que estén sometidos los bienes del dominio público.
 
-Las facultades que este artículo señala se ejercitarán directamente por el C. Gobernador o por conducto de la Secretaría General de Gobierno o de la Oficialía Mayor.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Las facultades que este artículo señala, se ejercitarán directamente por el Titular del Ejecutivo del Estado o por conducto de la Secretaría General de Finanzas y Administración.
 
 ###### ARTICULO 10.
 
@@ -239,9 +249,11 @@ Los bienes a que se refiere la fracción VII del artículo 19, siempre que no se
 
 Otorgada la aprobación a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos las acciones que les correspondan sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 22.
 
-Cuando una Dependencia del Ejecutivo estimare conveniente la adquisición de un inmueble para destinarlo a Servicio Público o para uso común, lo comunicará a la Oficialía Mayor la que previo acuerdo con el C. Gobernador hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos, llegando al otorgamiento (sic) registro y archivo de los documentos respectivos.
+Cuando una Dependencia del Ejecutivo estimare conveniente la adquisición de un inmueble para destinarlo al Servicio Público o para uso común, lo comunicará a la Secretaría de Finanzas y Administración la que previo acuerdo con el C. Gobernador hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos, llegando al otorgamiento, registro y archivo de los documentos respectivos.
 
 ###### ARTICULO 23.
 
@@ -259,15 +271,19 @@ Para destinar un inmueble propiedad del Estado, a determinado servicio público,
 
 No pierden su carácter de bienes destinados a un servicio público, los que, estándolo de hecho o por derecho, fueren sin embargo aprovechados temporalmente en todo o parte para otro objeto que no se puede considerar como servicio público, mientras no se dicte la declaración respectiva en la forma prevista por el artículo anterior.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 27.
 
-Los inmuebles destinados a un servicio público serán asignados a la Dependencia que tenga a su cargo dicho servicio pero quedarán bajo el control de la Oficialía Mayor de Gobierno. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Ejecutivo del Estado.
+Los inmuebles destinados a un servicio público serán asignados a la Dependencia que tenga a su cargo dicho servicio pero quedarán bajo el control de la Secretaría de Finanzas y Administración. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Ejecutivo del Estado.
 
 ###### ARTICULO 28.
 
 Si estuvieren alojados en un mismo inmueble propiedad del Estado, varias instituciones u oficinas de diversas Dependencias, el inmueble quedará a cargo de la Dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc. y no en las partes interiores del edificio, que sirvan para uso de las instituciones u oficinas dependientes de otros organismos.
 
-En caso de duda, el Gobernador del Estado, por conducto de la Oficialía Mayor, resolverá cual de las Dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Finanzas y Administración, resolverá cual de las Dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
 
 ###### ARTICULO 29.
 
@@ -277,9 +293,11 @@ No se permitirá a funcionarios públicos empleados o agentes de la administraci
 
 De los Inmuebles de Dominio Privado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 30.
 
-La posesión, conservación y administración, de los bienes del Estado, corresponde, por regla general y a falta de prevención en contrario, a la Oficialía Mayor de Gobierno, lo mismo que el conocimiento y la resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
+La posesión, conservación y administración de los bienes del Estado, corresponde, por regla general y a falta de prevención en contrario, a la Secretaría de Finanzas y Administración, lo mismo que el conocimiento y la resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
 ###### ARTICULO 31.
 
@@ -293,27 +311,35 @@ Los particulares pueden adquirir por prescripción los inmuebles de dominio priv
 
 El Ejecutivo Local gestionará que el Gobierno Federal ceda o enajene a título gratuito los bienes propios federales que se encuentran dentro dl (sic) Estado y no estén destinados a algún servicio público social, en los términos del artículo 38 de la Ley General de Bienes Nacionales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 34.
 
-La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija esta Ley y previo avalúo de los mismos por la Dirección de Impuestos a la Propiedad Raíz, de la Tesorería General del Estado.
+La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija esta Ley y previo avalúo de los mismos por el Instituto de Catastro del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 35.
 
-Las enajenaciones de dichos bienes se harán en la forma ordinaria con sujeción a las reglas de derechos (sic) común en lo que respecta a condiciones esenciales y seguridades; pero con la clara obligación por parte del Gobierno de salvaguardar en cada caso concreto, los intereses generales, dándoles siempre a las enajenaciones un sentido práctico en beneficio de la colectividad, previo avalúo que de los mismos haga la Dirección de Impuestos a la Propiedad Raíz, de la Tesorería General del Estado.
+Las enajenaciones de dichos bienes se harán en la forma ordinaria con sujeción a las reglas de derecho común en lo que respecta a condiciones esenciales y seguridades; pero con la clara obligación por parte del Gobierno de salvaguardar en cada caso concreto, los intereses generales, dándoles siempre a las enajenaciones un sentido práctico en beneficio de la colectividad, previo avalúo que de los mismos haga el Instituto de Catastro del Estado.
 
 ###### ARTICULO 36.
 
 Ninguna venta de inmueble podrá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entregue el dinero en efectivo, cuando menos el veinticinco por ciento de dicho precio. La finca se hipotecará en favor de la Hacienda Pública del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de demora en su caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 37.
 
-Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de un tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Oficialía Mayor mientras no esté pagado íntegramente el precio.
+Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de un tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Secretaría de Finanzas y Administración mientras no esté pagado íntegramente el precio.
 
 En los contratos relativos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, implicará la rescisión del contrato.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 38.
 
-Cuando se trate de permutar bienes estatales, los que deba recibir el Gobierno se valuarán por la Dirección de Impuestos a la Propiedad Raíz, de la Tesorería General del Estado; la diferencia que resulte en favor o en contra del Erario se cubrirá en efectivo precisamente en el momento de la operación.
+Cuando se trate de permutar bienes estatales, los que deba recibir el Gobierno se valuarán por el Instituto de Catastro del Estado; la diferencia que resulte en favor o en contra del Erario se cubrirá en efectivo precisamente en el momento de la operación.
 
 ###### ARTICULO 39.
 
@@ -341,19 +367,25 @@ De los Muebles del Dominio Privado.
 
 Pertenecen al Estado todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
 
-La clasificación y sistemas de inventarios, así como la estimación de la depreciación de los muebles propiedad estatal son facultades de la Oficialía Mayor del Gobierno.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+La clasificación y sistemas de inventarios, así como la estimación de la depreciación de los muebles propiedad estatal son facultades de la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 44.
 
-La administración y control los bienes muebles de propiedad estatal corresponde a la Oficialía Mayor.
+La administración y control de los bienes muebles de propiedad estatal corresponde a la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 45.
 
 Rige también respecto a los muebles de dominio privado lo establecido en preceptos anteriores sobre prescripción en favor de particulares y retención administrativa de la posesión y recuperación interina o definitiva de la misma posesión.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 46.
 
-Acordada la enajenación o la destrucción de un mueble inútil para el servicio, se dará de baja en el inventario, y en los casos de enajenación se observará el procedimiento a que se refiere el artículo 417 del Código Fiscal del Estado, previo avalúo de la Oficialía Mayor de Gobierno, o podrán donarse con la autorización del Gobernador del Estado, a las personas indigentes que lo soliciten.
+Acordada la enajenación o la destrucción de un mueble inútil para el servicio, se da de baja en el inventario, y en los casos de enajenación se observarán los procedimientos previstos en las disposiciones y normatividad aplicables, previo avalúo de la Secretaría de Finanzas y Administración, o podrán donar con la autorización del Gobernador del Estado, a personas indigentes que lo soliciten.
 
 ### CAPITULO V
 
@@ -432,3 +464,9 @@ Rúbrica.
 P.O. 17 DE DICIEMBRE DE 1991.
 
 TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
