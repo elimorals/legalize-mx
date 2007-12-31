@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2003-12-31"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -1941,9 +1941,15 @@ Capítulo Decimoquinto
 
 Aseo, limpia, recolección, traslado, tratamiento y disposición final de basura
 
-###### ARTÍCULO 119º.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Es objeto de este derecho el servicio que por recolección de basura preste el Municipio de Los Cabos, Baja California Sur, por sí o a través de concesiones a empresas, a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos obligados al pago de estos derechos, lo harán con base al volumen de basura que generen, teniendo la obligación de celebrar convenio con la Tesorería General Municipal a través de la unidad administrativa que ésta designe, o empresa concesionada. La forma de pago será anualizada, por anticipado en el mes de enero del ejercicio fiscal correspondiente y simultánea a la inscripción en el padrón fiscal de contribuyentes, de acuerdo a la tarifa que determine el Ayuntamiento.
+###### ARTÍCULO 119°.
+
+Es objeto de este derecho el servicio que por recolección, traslado, tratamiento, saneamiento y disposición final de basura preste el Municipio de Los Cabos, Baja California Sur, por si o a través de concesiones a empresas, a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos obligados al pago de estos derechos, lo harán con base al volumen de basura que generen y entreguen en los lugares destinados para ello, enterando dicho pago en el lugar y en el momento de entrega de la basura, directamente al Ayuntamiento o a través de la empresa que para tales efectos contrate el Ayuntamiento, de acuerdo a las siguientes tarifas:
+
+a).- La cantidad de 6 salarios mínimos vigentes en el estado de Baja California Sur, por cada tonelada de basura que se reciba en el estación de transferencia de Residuos Sólidos Urbanos.
+
+b).- La cantidad de 4 salarios mínimos vigentes en el estado de Baja California Sur por tonelada recibida en la planta de clasificado, compactado y embalado de Residuos Sólidos Urbanos.
 
 ###### ARTÍCULO 120º.
 
@@ -2589,7 +2595,7 @@ Los formatos oficiales que sean requeridos para la realización y expedición de
 
 Productos Diversos son todos aquello productos no considerados en los términos de los Artículo (sic) anteriores.
 
-## TITULO SEXTO. PARTICIPACIONES
+## TITULO QUINTO. APROVECHAMIENTOS
 
 ### Capítulo Segundo. Multas
 
@@ -3221,7 +3227,7 @@ Son rezagos los adeudos por concepto de impuestos, derechos productos y aprovech
 
 Los gastos de ejecución se cobrarán a quien le sean requeridos por haber incurrido en incumplimiento de obligaciones fiscales no solventadas dentro de los plazos legales y en los términos que establece el Código Fiscal para el Estado y Municipios de Baja California Sur.
 
-## TITULO SEPTIMO. INGRESOS EXTRAORDINARIOS
+## TITULO SEXTO. PARTICIPACIONES
 
 ###### ARTÍCULO 163º.
 
@@ -3231,7 +3237,7 @@ Quedan comprendidos dentro de esta clasificación los ingresos que tenga el Muni
 
 Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio de Los Cabos, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
 
-## TITULO OCTAVO. CONTRIBUCIONES ESPECIALES
+## TITULO SEPTIMO. INGRESOS EXTRAORDINARIOS
 
 ###### ARTÍCULO 165º.
 
@@ -3257,7 +3263,7 @@ VI. Telefonía rural.
 
 VII. Otros no especificados.
 
-## TITULO NOVENO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, PERSONAS CON DISCAPACIDAD Y PERSONAS DE LA TERCERA EDAD
+## TITULO OCTAVO. CONTRIBUCIONES ESPECIALES
 
 ### Capítulo Segundo. Registro, licencias y permisos de giros comerciales
 
@@ -3329,7 +3335,7 @@ Los propietarios de 2 o más cabezas de ganado están obligados a presentar para
 
 Si en el plazo de 3 años consecutivos no se cumple con esta obligación, se cancelarán automáticamente los títulos de marcas y señales de herrar.
 
-## TITULO DECIMO. ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS
+## TITULO NOVENO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, PERSONAS CON DISCAPACIDAD Y PERSONAS DE LA TERCERA EDAD
 
 ###### ARTÍCULO 181º.
 
@@ -3438,3 +3444,7 @@ B.O. 31 DE DICIEMBRE DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2007.
+
+ÚNICO: El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
