@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2006-12-31"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
-Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 1 de enero de 1984.
+Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
 RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
@@ -87,193 +87,69 @@ Las infracciones a la presente ley se sancionarán de conformidad con lo previst
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
 ###### ARTICULO 6°.
 
-Es objeto de este impuesto:
-
-I.- La realización de los siguientes negocios jurídicos:
-
-a).- Mutuo.
-
-b).- Hipoteca. Para los efectos de este impuesto se equipara a la hipoteca, el fideicomiso o cualquier otro contrato mediante el cual se afecten inmuebles en garantía.
-
-c).- Prenda.
-
-d).- Transmisión de los derechos originados por los actos a que se refieren los incisos anteriores.
-
-e).- Los Actos o contratos que tengan por objeto la construcción, reconstrucción, ampliación o demolición de inmuebles cuando no se cause el Impuesto al Valor Agregado.
-
-II.- Cualquier otro tipo de acto o contrato, ya sea que represente o no interés pecuniario para los contratantes, si no está gravado por algún otro impuesto del Estado.
-
-III.- La protocolización de documentos que se refiere a:
-
-a).- Contratos privados que sean ratificados ante fedatario público.
-
-b).- Certificaciones de hechos.
-
-c).- Juicios sucesorios.
-
-d).- Cualquiera otra protocolización de documento.
-
-IV.- Cualquier acto o contrato otorgado fuera del Estado, siempre que:
-
-a).- Deban ser registrados en el Estado.
-
-b).- Se designe algún lugar de su territorio para el cumplimiento de cualquiera de las obligaciones estipuladas.
-
-c).- Se trate de poder o mandato que deba ejercerse en el Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEGUNDA. Del Sujeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
 ###### ARTICULO 7°.
 
-Son sujetos de este impuesto:
-
-I.- El acreedor, en los contratos de crédito.
-
-II.- El adquirente, en los actos o contratos traslativos de bienes o derechos.
-
-III.- El propietario del inmueble, en los actos o contratos de obra.
-
-IV.- El mandante o representado, en los contratos de representación; y
-
-V.- Las partes en los actos o contratos e instrumentos públicos no comprendidos en las fracciones anteriores.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
 ###### ARTICULO 8°.
 
-Responden solidariamente del pago del impuesto:
-
-I.- El deudor, el transmitente, el comisionista en venta de bienes muebles e inmuebles o el constructor según el caso.
-
-II.- Los Notarios, corredores, funcionarios y empleados públicos que expidan testimonio o den trámite a algún documento en que se consignen actos, contratos u operaciones objeto de este impuesto sin que se hubiese cubierto, independientemente de las sanciones que procedan en su contra.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION CUARTA. De la Base
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
 ###### ARTICULO 9°.
 
-Será base para el pago de este impuesto:
-
-I.- El monto, en los contratos y actos jurídicos, en general, en que se estipulen obligaciones pecuniarias o reducibles a dinero.
-
-En caso de obligaciones alternativas, el monto de la más elevada.
-
-Si las obligaciones pecuniarias se estipulan a base de prestaciones periódicas, su monto se calculará por la suma de todas ellas.
-
-Cuando en los actos o contratos se fije un plazo superior a cinco años, se establezca uno forzoso y otro voluntario o se opere una prórroga:
-
-a).- El monto de las prestaciones correspondientes a los primeros cinco años.
-
-b).- El monto de las prestaciones que correspondan al plazo forzoso, y
-
-c).- En los periodos subsecuentes a los antes señalados y en las prórrogas, el monto de cada anualidad o fracción, según el caso. Si el periodo fuere menor de un año, por el tiempo que duren los contratos.
-
-Si las obligaciones se estipulan por tiempo indeterminado, la base para el pago será el importe de una anualidad; si al término de éste subsiste la obligación, se entenderá prorrogada por otra anualidad y así sucesivamente.
-
-Si la cuantía de la obligación es indeterminada pero se estipula la forma para su fijación, al determinarse aquélla se estará a lo dispuesto en el párrafo primero.
-
-II.- En los casos de novación, el importe del nuevo beneficio estipulado.
-
-III.- En los actos o contratos que tengan por objeto la construcción, reconstrucción, reparación o demolición de obras materiales ya sea que se celebren a precio alzado, precio unitario, por administración o adaptándose cualquiera otra modalidad, el valor mayor de entre el convenio o el que resulte del avalúo de la obra. Dicho avalúo será practicado por las autoridades fiscales al terminarse la construcción en caso de que el presupuesto de la obra no sea exhibido por los contratantes, o se aparte notoriamente de los valores corrientes, en la época en que se haya efectuado la construcción.
-
-IV.- En los demás contratos, actos e instrumentos notariales de índole contractual sin valor pecuniario, el número de hojas en que se extiendan.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
 ###### ARTICULO 10.
 
-Este impuesto se causará y pagará aplicando a la base, la tasa de 3 por cada millar o fracción respecto de los actos o contratos que representen interés pecuniario. Tratándose de actos o contratos materia de protocolización que no representen interés pecuniario para los contratantes, se pagará la cuota de $50.00 por cada hoja, entendiéndose como hoja, al contenido impreso o escrito de cualquiera de las caras del documento.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 11.
 
-El pago de este impuesto se efectuará dentro de los plazos que a continuación se indican:
-
-I.- Dentro de los treinta días naturales siguientes a la fecha del documento en que se haga constar el acto o contrato.
-
-II.- Cuando en los actos o contratos se fije una duración superior a cinco años, por este período se observará lo dispuesto por la fracción anterior y por el período subsecuente, por anualidades adelantadas o fracción si el período fuere menor de un año, dentro de los primeros quince días naturales de cada anualidad.
-
-III.- Si en los actos o contratos se establece un período forzoso se observará lo dispuesto en la fracción I de este artículo y por el voluntario por anualidades adelantadas o fracción si el periodo fuere menor de un año, dentro de los primeros quince días naturales de cada anualidad.
-
-IV.- Tratándose de prórrogas, por anualidades anticipadas o fracción si el período fuere menor de un año dentro de los primeros quince días naturales de cada anualidad.
-
-V.- Tratándose de actos o contratos por tiempo indeterminado, por el primer año se observará lo dispuesto en la fracción I de este artículo, por el periodo subsecuente se estará a lo dispuesto en la fracción anterior para las prórrogas.
-
-VI.- En los casos de contratos de construcción, el plazo para su presentación será de treinta días a partir de la fecha de firma del mismo. Cuando la construcción se inicie en la fecha del contrato, se deberá dar aviso a la Secretaría de Finanzas dentro de los diez días siguientes de dicha iniciación.
-
-Para los efectos de este artículo, los contribuyentes presentarán una declaración ante la Oficina Receptora correspondiente, o donde en su caso lo disponga la Secretaría de Finanzas, a la que anexará copia del documento en que haga constar el acto o contrato gravado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 12.
 
-No se pagará el impuesto establecido en el presente Capítulo, por los siguientes actos:
-
-I.- Los previstos en el artículo 6 de esta ley, que se realicen por las dependencias de la federación, de las entidades federativas, o de los municipios.
-
-II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2003)
-
-III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2003)
-
-IV.- Los contratos y actos mercantiles siempre y cuando se encuentren gravados por el impuesto al Valor Agregado.
-
-V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2003)
-
-VI.- Los contratos de arrendamiento.
-
-VII.- Los contratos de construcción que celebren las empresas paraestatales u organismos descentralizados.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 #### SECCION SEXTA. De las Excepciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
 ###### ARTICULO 13.
 
-Los notarios o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que se intervengan o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
-
-En todo caso, al margen de la matriz y en los testimonios o en los documentos privados, deberá asentarse la constancia de pago o la de que éste no se causa.
-
-No se dará trámite ni se registrará documento alguno si no obra en él dicha constancia.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 14.
 
-Tratándose de documentos mercantiles cuyo registro no puede ser demorado de acuerdo con el Artículo 31 del Código de Comercio, la obligación de los registradores se limitará a denunciar de inmediato a la Oficina Receptora respectiva, las omisiones fiscales que adviertan.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 15.
 
-En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, se causará el impuesto como si fuesen puras y simples.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 16.
 
-Los notarios públicos o quienes hagan sus veces, los particulares tratándose de documentos privados u otorgados fuera del Estado, o los funcionarios judiciales cuando sea potestiva la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -615,39 +491,37 @@ El presente impuesto se causará por la tenencia o uso de automóviles, motocicl
 
 #### SECCION CUARTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 33.
 
 Este impuesto se causará y pagará de acuerdo a la siguiente:
 
-A. Motocicletas de cualquier $85.00
+CUOTA
 
-B. Demás vehículos:
+A. Motocicletas de cualquier modelo $ 85.00
 
-Determinarán el Impuesto a pagar aplicando el porcentaje de reducción establecido en la siguiente tarifa, dependiendo de los años de antigüedad que tenga el vehículo.
+B. Demás Vehículos:
 
-Años de Impuesto Factor de
+Determinarán el Impuesto a pagar aplicando el factor de reducción establecido en la siguiente tarifa, dependiendo de los años de antigüedad que tenga el vehículo.
 
-antigüedad Reducción
+Años de antigüedad Factor de
 
-de Impuesto
+Límite Límite Impuesto Reducción de
 
-por Antigüedad
+Inferior Superior Impuesto por
 
-Límite Límite
+Antigüedad
 
-Inferior Superior
+10 18 248 0
 
-11 21 235 0
+19 24 248 0.6
 
-22 27 235 0.6
+25 En adelante 248 0.74
 
-28 En adelante 235 0.74
+Cuando el contribuyente de este impuesto sufra el robo, descompostura parcial que implique la no utilización de vehículo o pérdida total del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo.
 
-Cuando el contribuyente de este impuesto sufra el robo, descompostura parcial que implique la no utilización del vehículo o pérdida total del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo.
-
-En los casos de robo del automóvil, descompostura parcial o pérdida total por accidente, el propietario del mismo podrá acreditar la parte de la tenencia pagada no usada en el ejercicio fiscal de que se trate para el pago de este impuesto del año inmediato siguiente, presentando los documentos que acrediten tal situación.
+En los casos de robo del automóvil, descompostura parcial o pérdida total por accidente, el propietario del mismo podrá acreditar la parte de la tenencia pagada no usada en el ejercicio fiscal de que se trate para el pago de este impuesto del año inmediato siguiente, presentando los documentos que acrediten tal situación y de conformidad con los lineamientos que emita la Secretaría de Finanzas del Estado.
 
 Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, tratándose de vehículos recuperados y vendidos, que fueron propiedad de sus asegurados.
 
@@ -833,9 +707,27 @@ El contribuyente trasladará el impuesto en forma expresa y por separado a las p
 
 El impuesto se calculará por ejercicios fiscales, los cuales se fijarán por año calendario. Los contribuyentes presentarán declaración ejercicio en las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Los contribuyentes de este impuesto efectuarán pagos provisionales bimestrales a cuenta del impuesto anual, a más tardar el día 15 o el siguiente día hábil, de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, mediante el formato autorizado y en las oficinas de la Secretaría de Finanzas del Estado. El pago provisional será el impuesto correspondiente al total de las actividades realizadas en el periodo por el que se efectúa.
+Los contribuyentes de este impuesto efectuarán pagos provisionales mensuales a cuenta del impuesto anual, a más tardar el día 17 del mes siguiente al que corresponda el impuesto declarado; pudiendo contar con días adicionales para ello, atendiendo al sexto dígito numérico del R. F. C. del contribuyente, de conformidad con la siguiente:
+
+Sexto Dígito Días Adicionales
+
+Numérico
+
+1 y 2 1 día hábil adicional
+
+3 y 4 2 días hábiles adicionales
+
+5 y 6 3 días hábiles adicionales
+
+7 y 8 4 días hábiles adicionales
+
+9 y 10 5 días hábiles adicionales
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+El pago provisional será el impuesto correspondiente al total de las actividades realizadas en el período por el que se efectúa.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1119,9 +1011,9 @@ El pago de este impuesto se hará en un términos de 15 días naturales siguient
 
 Están exceptuadas del pago de este impuesto:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-I.- Las adquisiciones efectuadas por las personas morales o físicas con actividad empresarial.
+I.- Las adquisiciones efectuadas cuyo enajenante sea persona física o moral con actividad empresarial.
 
 II.- Las adquisiciones que por causa de muerte del titular del vehículo usado, se realicen a favor de los parientes en línea recta o al cónyuge en términos de las disposiciones legales aplicables.
 
@@ -1610,3 +1502,9 @@ P.O. 31 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entra en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
