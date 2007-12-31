@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-en-el-estado-de-hidalgo-4012
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-21"
-last_updated: "2004-06-21"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY PARA LA PROTECCION AL AMBIENTE EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCION AL AMBIENTE DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de junio de 2004.
 
@@ -1800,3 +1802,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NÚÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. DE 31 DE DICIEMBRE DE 2007.
+
+PRIMERO: La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO: El Reglamento de la presente Ley se expedirá en un término de 120 días naturales a partir de su entrada en vigor.
+
+TERCERO: Se abroga la Ley para la Protección al Ambiente para el Estado de Hidalgo, Publicada en el Periódico Oficial del Estado de fecha 21 de junio de 2004.
+
+CUARTO: Las controversias que estén tramitándose en el momento de la iniciación de vigencia de esta Ley, se resolverán conforme a lo dispuesto en la Ley que se abroga.
