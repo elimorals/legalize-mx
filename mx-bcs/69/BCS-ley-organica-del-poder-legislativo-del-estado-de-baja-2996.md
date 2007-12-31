@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2007-11-30"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO No. 1699, LA PRESENTE REFORMA ENTRARA EN VIGOR EL 1 DE MARZO DE 2008.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -47,11 +45,11 @@ DISPOSICIONES GENERALES.
 
 El Poder Legislativo se deposita en una asamblea que se denomina "CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR".
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 2o.
 
-El Congreso del Estado se intregrará (sic) con quince diputados de mayoría relativa, electos en su totalidad cada tres años por votación directa y secreta, mediante el sistema de distritos electorales uninominales y hasta con seis diputados electos mediante el principio de representación proporcional en los términos de la Constitución Política del Estado.
+El Congreso del Estado se integrará con dieciséis Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta, mediante el sistema de Distritos Electorales uninominales y, hasta con cinco Diputados electos mediante el Principio de Representación Proporcional, en los términos de la Constitución Política del Estado.
 
 ###### ARTICULO 3o.
 
@@ -1237,7 +1235,7 @@ ARTICULO 106 BIS.- Las comunicaciones oficiales que envían a este Congreso del 
 
 I.- Las comunicaciones oficiales provenientes de otras Legislaturas locales, de la Cámara de Senadores o de la Cámara de Diputados del Honorable Congreso de la Unión, con anexos de dictámenes que contengan puntos resolutivos, mediante los cuales exhorten a este Congreso a realizar una acción determinada, soliciten su adhesión para ciertos efectos, o planteen cualquier tipo de solicitud, serán leídos dichos dictámenes y se pondrán a consideración de la Asamblea en la misma sesión ordinaria en que se dieron cuenta al Pleno, para que este resuelva lo que corresponda respecto a lo planteado en sus puntos resolutivos y tomando en cuenta los considerandos que llevaron a los mismos;
 
-II.-Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
+II.- Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
 
 III.- Para el supuesto de que el asunto se discuta y resuelva en la misma sesión en la que se dio cuenta al Pleno, el trámite consistirá en el registro de las participaciones de las Diputadas y Diputados que así lo solicitaren, pudiendo hacer una propuesta concreta de modificación o adición de los puntos resolutivos que contenga el dictamen en cuestión. Una vez discutido, el asunto se votará en forma nominal, y resuelto el mismo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor que envíe el oficio respectivo para comunicar a la Legislatura de origen el acuerdo tomado por el Congreso del Estado de Baja California Sur, recaído a su solicitud de adhesión, a su exhorto o petición concreta que haya formulado;
 
@@ -2087,7 +2085,7 @@ B.O. 10 DE JUNIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su aprobación.
 
-P.O. 30 DE NOVIEMBRE DE 2007.
+B.O. 30 DE NOVIEMBRE DE 2007.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2118,3 +2116,7 @@ Se retoman los términos previstos en artículo Quinto Transitorio del Decreto 1
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
