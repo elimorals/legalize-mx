@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-economico-del-estado-de-hidalgo-22518"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2001-11-05"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE FOMENTO Y DESARROLLO ECONOMICO PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 5 de noviembre de 2001.
 
@@ -364,3 +366,19 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. DE 31 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento de la presente Ley se Publicará en un plazo no mayor a 180 días naturales, posteriores a la fecha de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Fomento Económico del Estado de Hidalgo, Publicada el 5 de noviembre de 2001 y se derogan las disposiciones legales que se opongan a los preceptos de la presente Ley.
