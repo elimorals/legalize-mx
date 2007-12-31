@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-4638
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-14"
-last_updated: "2006-11-25"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 14 de septiembre de 2005.
 
@@ -273,9 +273,11 @@ El documento deberá ser actualizado, una vez autorizado el Presupuesto de Egres
 
 Así mismo, el programa actualizado deberá ser remitido a la Secretaría de Desarrollo a más tardar en la fecha citada en el párrafo precedente.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 28.
 
-Las Dependencias y Entidades de la Administración Pública, así como los Organismos Autónomos deberán establecer Comités de Adquisiciones, Arrendamientos y Servicios que tendrán las siguientes funciones:
+El Gobierno del Estado, así como los entes a que se refieren las Fracciones II, III, IV y V del Artículo 1 de esta Ley, deberán establecer Comités de Adquisiciones, Arrendamientos y Servicios, los cuales tendrán las siguientes funciones:
 
 I. Revisar los programas y presupuestos de adquisiciones, arrendamientos y servicios, así como formular las observaciones y recomendaciones convenientes;
 
@@ -287,7 +289,9 @@ III. Proponer las políticas, bases y lineamientos en materia de adquisiciones, 
 
 IV. Analizar trimestralmente el informe de la conclusión de los casos dictaminados conforme a la fracción II anterior, así como de las licitaciones públicas que se realicen y, los resultados generales de las adquisiciones, arrendamientos y servicios y, en su caso, recomendar las medidas necesarias para evitar el probable incumplimiento de alguna disposición jurídica o administrativa;
 
-V. Autorizar, cuando se justifique, la creación de subcomités de adquisiciones, arrendamientos y servicios, así como aprobar la integración y funcionamiento de los mismos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+V. Acordar la creación de subcomités de adquisiciones, arrendamientos y servicios, su integración y funcionamiento;
 
 VI. Autorizar, la creación de subcomités revisores de bases, así como aprobar la integración y funcionamiento de los mismos;
 
@@ -975,7 +979,7 @@ El Ejecutivo podrá autorizar la contratación directa de adquisiciones, arrenda
 
 ###### Artículo 71.
 
-Los proveedores con quienes se celebren contratos de adquisiciones, arrendamientos y servicios, cubrirán el cinco al millar sobre el importe de cada uno de los pagos como derecho por el servicio de vigilancia, inspección y control para la Contraloría. La Secretaría de Finanzas y Entidades al hacer el pago de cada estimación de adquisiciones, arrendamientos y servicios retendrán los importes referidos.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2007)
 
 ###### Artículo 72.
 
@@ -1242,3 +1246,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dictará en el ámbito administrativo, las normas para la realización de contratos de servicios de largo plazo que incluirán lineamientos para el análisis costo y beneficio, metodología para la comparación de ofertas; así como las demás disposiciones necesarias para el cumplimiento de lo establecido en este Decreto, las que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en un plazo que no exceda de 180 días naturales, contados a partir del día siguiente a que entre en vigor el presente Decreto.
 
 El monto promedio anual de las cantidades que deban cubrirse por concepto de pagos derivados de proyectos para la prestación de servicios de largo plazo, no podrá representar un porcentaje del presupuesto de egresos de manera que afecte gravemente la capacidad de pago del Gobierno del Estado, tanto en la administración presente como en las futuras.
+
+B.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Para efectos de lo dispuesto por el artículo 28 reformado mediante el presente decreto, el Gobernador del Estado acordará el establecimiento del Comité de Adquisiciones, Arrendamientos y Servicios en un plazo no mayor a 30 días naturales, contados a partir de la vigencia del presente decreto.
+
+TERCERO.- La Contraloría General del Estado deberá expedir las bases conforme a las cuales el nuevo comité de adquisiciones, arrendamientos y servicios, elaborará y aprobará su manual de integración y funcionamiento, en un plazo no mayor a 30 días naturales contados a partir de la creación formal del Comité a que alude el artículo anterior.
