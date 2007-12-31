@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2006-05-03"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2007.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -3545,7 +3545,9 @@ VII. Realizar programas de investigación para el desarrollo de los recursos y e
 
 VIII. Promover y coordinar con los sectores público, social y privado la creación de viveros y zonas de reforestación;
 
-IX. Inspeccionar y vigilar las zonas forestales, así como los aprovechamientos autorizados;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+IX. Inspeccionar y vigilar las zonas forestales, así como los aprovechamientos autorizados, para lo cual podrá solicitar el apoyo y coadyuvancia de la Agencia de Seguridad Estatal;
 
 X. Promover la organización productiva de los poseedores y propietarios forestales en el ámbito municipal, regional y estatal, así como gestionar la asesoría técnica y capacitación necesarias para el mejoramiento de sus procesos productivos;
 
@@ -3589,7 +3591,7 @@ Los ingresos del organismo y los productos e instrumentos financieros autorizado
 
 ## TÍTULO TERCERO. DE LA POLITICA ESTATAL EN MATERIA FORESTAL
 
-### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLITICA FORESTAL
+### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLlTICA FORESTAL
 
 ###### Artículo 3.
 
@@ -5191,7 +5193,7 @@ En localidades en las cuales pueda darse un máximo aprovechamiento a los residu
 
 Las áreas ocupadas por las celdas de confinamiento de los residuos al igual que el resto de las instalaciones de los rellenos sanitarios cerradas debidamente de conformidad con la normatividad aplicable deberán contar con señalización conspicua que prevenga sobre las características del suelo y podrán ser aprovechadas para crear parques, jardines y desarrollo de otro tipo de proyectos compatibles con los usos de suelo autorizados en la zona siempre y cuando se realice el monitoreo de los pozos construidos con tal fin por un periodo no menor a quince años posteriores al cierre de los sitios de disposición final de residuos.
 
-## TITULO SEXTO. DE LOS PARTICULARES QUE INTERVIENEN EN LA DISPOSICION Y MANEJO DE LOS RESIDUOS PARA SU RECICLAJE Y REUTlLIZACION
+## TITULO SEXTO. DE LOS PARTICULARES QUE INTERVIENEN EN LA DISPOSICION Y MANEJO DE LOS RESIDUOS PARA SU RECICLAJE Y REUTILIZACION
 
 ### CAPITULO II. DE LAS SANCIONES
 
@@ -5675,7 +5677,7 @@ La Secretaría deberá considerar en el ejercicio de sus facultades sobre la mat
 
 Los propietarios y legítimos poseedores de dichos predios y los terceros que realicen el aprovechamiento serán responsables solidarios de los efectos negativos que éste pudiera tener para la conservación de la vida silvestre y su hábitat.
 
-###### Articulo 5.
+###### Artículo 5.
 
 19. Las autoridades que en el ejercicio de sus atribuciones deban intervenir en las actividades relacionadas con la utilización del suelo, agua y demás elementos y recursos naturales con fines agrícolas, ganaderos, piscícolas, forestales y otros, observarán las disposiciones de este Libro y las que de éste se deriven y adoptarán las medidas que sean necesarias para que dichas actividades se realicen de modo que se eviten, prevengan, reparen, compensen o minimicen los efectos negativos de las mismas sobre la vida silvestre y su hábitat.
 
@@ -7376,3 +7378,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.G. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- Los Procedimientos Administrativos a cargo de la Agencia de Seguridad Estatal que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales que dieron origen a los mismos.
+
+QUINTO.- Los Procedimientos de Remoción radicados a la fecha en las Contralorías Internas correspondientes, serán tramitados y resueltos de conformidad a lo establecido con la legislación anterior y los procedimientos que aún no se remiten a dichos órganos de control interno, y los que se inicien deberán resolverse de conformidad con el procedimiento establecido en el presente decreto.
