@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2005-12-30"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA -- ANTES LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA --
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2008 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -487,11 +489,13 @@ Giro Restringido, es aquél que se presta en vehículos que requieren tener cond
 
 Los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de cumplir con lo establecido en la presente Ley, cuando así lo requiera la autoridad competente, deberán acreditar la vigencia de la concesión o del permiso correspondiente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 36.
 
-Para que un vehículo del Servicio Público del Transporte y del Servicio Mercantil pueda circular por la infraestructura vial del Estado, debe llevar en todo momento durante la prestación del servicio los siguientes documentos vigentes: tarjeta de circulación, calcomanías, póliza del seguro, tarjetón de concesión o permiso y placas de circulación autorizadas; asimismo el conductor debe portar la licencia vigente de conducir correspondiente y el tarjetón de identificación del conductor el cual debe ser colocado en el interior de la unidad en un lugar visible para el usuario; dichos documentos podrán ser en original y/o copia certificada, a excepción de la licencia, tarjetón de identificación, calcomanías respectivas y las placas de circulación, que deberán ser las originales. En caso de pérdida o robo de los documentos mencionados, el chofer deberá portar la constancia de hechos expedida por la Procuraduría General de Justicia.
+Para que un vehículo del Servicio Público del Transporte y del Servicio Mercantil pueda circular por la infraestructura vial del Estado, debe llevar en todo momento durante la prestación del servicio los siguientes documentos vigentes: tarjeta de circulación, calcomanías, póliza del seguro, tarjetón de concesión o permiso y placas de circulación autorizadas; asimismo el conductor debe portar la Licencia-Tarjetón, la cual debe ser colocada en el interior de la unidad en un lugar visible para el usuario; dichos documentos podrán ser en original y/o copia certificada, a excepción de la Licencia-Tarjetón, calcomanías respectivas y las placas de circulación, que deberán ser las originales. En caso de pérdida o robo de los documentos mencionados, el chofer deberá portar la constancia de hechos presentada ante la Procuraduría General de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 Además, estará obligado a reunir los requisitos de funcionalidad, seguridad y comodidad que señala esta Ley y sus Reglamentos. Tratándose de las unidades del Servicio Público del Transporte y del Servicio de Transporte Mercantil, tendrá que llevar los colores reglamentarios además de cumplir con las especificaciones relativas a su identificación.
 
@@ -525,11 +529,11 @@ Las placas, tarjeta de circulación, calcomanías, tarjetón de concesión o per
 
 Toda persona que conduzca un vehículo en la infraestructura vial del Estado, deberá obtener y llevar consigo la licencia de conducir que corresponda al tipo de vehículo y servicio de que se trate y que haya expedido la autoridad legalmente facultada para ello.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 42.
 
-Los conductores de vehículos que presten el Servicio Público de Transporte y el Servicio Mercantil en el Estado, deberán contar con la licencia expedida por la Secretaría, para la actividad de que se trate, así como con el tarjetón de identificación correspondiente a la misma, el cual será revalidado anualmente a partir de su expedición, previo cumplimiento de los requisitos que establezca el Reglamento de esta Ley.
+Los conductores de los vehículos del Servicio Público de Transporte y el Servicio Mercantil, deberán portar al momento de prestar el servicio, la Licencia-Tarjetón, como requisito indispensable de identificación, previo cumplimiento de los requisitos que establezca el Reglamento de esta Ley.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -555,21 +559,15 @@ III.- LICENCIA DE MOTOCICLISTA.- Se otorga a los conductores de vehículos de do
 
 IV.- LICENCIA PARA CHOFER PARTICULAR.- La requieren los conductores de toda clase de vehículos particulares;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-V.- LICENCIA DE CHOFER PARA EL SERVICIO PUBLICO DE TRANSPORTE.- Las requieren los conductores de vehículos destinados al Servicio Público de Transporte, sin menoscabo de conducir toda clase de vehículos, excepto los destinados al Servicio de Transporte Mercantil; y tendrá una vigencia de tres años;
+V.- LICENCIA-TARJETÓN DE CHOFER PARA EL SERVICIO PÚBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL.- La requieren los conductores de vehículos destinados al Servicio Público de Transporte y Servicio Mercantil, sin menoscabo de conducir toda clase de vehículos; y tendrá una vigencia de tres años;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
 
-VI.- LICENCIA DE CHOFER PARA EL SERVICIO DE TRANSPORTE MERCANTIL.- Las requieren los conductores de vehículos destinados al Servicio de Transporte Mercantil, sin menoscabo de conducir toda clase de vehículos, excepto los destinados al Servicio Público de Transporte; y tendrá una vigencia de tres años;
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-VII.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO PÚBLICO DE TRANSPORTE.- Esta se otorgará a quien acredite contar un mínimo de cinco años de antigüedad con licencia de conducir y tendrá una vigencia de un año, y en lo conducente le serán aplicables lo establecido por las fracciones anteriores; y
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-VIII.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO DE TRANSPORTE MERCANTIL.- Ésta se otorgará a quien acredite con un mínimo de tres años de antigüedad con licencia de conducir y tendrá una vigencia de un año, y en lo conducente le serán aplicables lo establecido por las fracciones anteriores.
+VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 2001)</small>
 
@@ -1358,3 +1356,17 @@ Para los casos de cesión de derechos a que hace referencia el presente Decreto,
 ###### ARTÍCULO QUINTO.
 
 Las causas de terminación de las concesiones y permisos, se entenderá que surten efectos para las que se otorguen, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Licencias de Chofer para el Servicio Público de Transporte, Licencias de Chofer para el Servicio de Transporte Mercantil, Licencia Temporal de Entrenamiento de Chofer del Servicio Público de Transporte y la Licencia Temporal de Entrenamiento de Chofer del Servicio de Transporte Mercantil que hubieren sido expedidas con anterioridad al presente Decreto, tendrán validez hasta la terminación de su vigencia.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
