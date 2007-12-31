@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-5470"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-08"
-last_updated: "2006-09-25"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de febrero de 1988.
 
@@ -804,3 +806,23 @@ CUARTO.- Las instituciones encargadas de la formulación de los agentes de las P
 QUINTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida, de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley, en todo aquello que les beneficie.
 
 SEXTO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- Esta Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley Orgánica del Ministerio Público del Estado de Hidalgo Publicada en el Periódico Oficial del Estado de fecha 8 de febrero 1988.
+
+Articulo Tercero.- A partir de la publicación de esta Ley, se abrogan los acuerdos siguientes: por el cual se crea la Coordinación de Investigación y Recuperación de Vehículos Robados, del 14 de febrero de 1997, Publicado en el Periódico Oficial del Estado el 10 de marzo del mismo año; A/001/98 de fecha 24 de julio de 1998, por el cual se crea el Instituto de Capacitación del Personal; A/01/2003 del 16 de junio de 2003, por el cual se crea la Visitaduría General; A/01/03 del 6 de agosto de 2003, Publicado en el Periódico Oficial del Estado el día 18 del mismo mes y año, por el cual se crea la Unidad de Vigilancia de la Ejecución de Penas Medidas de Seguridad y Penas Sustitutivas; y acuerdo por el cual se designan Agentes del Ministerio Público Especiales con Funciones de Supervisión, del 16 de abril de 2004, Publicado en el Periódico Oficial del Estado del día 19 del mismo mes y año.
+
+Artículo Cuarto.- Quedan vigentes los demás acuerdos y circulares en cuanto no se opongan a la presente Ley.
+
+Artículo Quinto.- La Subprocuraduría de Atención a la Familia y a la Víctima, iniciará el ejercicio de sus funciones dentro del plazo de noventa días naturales, contados a partir del día siguiente de la entrada en vigor de esta Ley.
+
+Por lo que, el acuerdo número PGJ/1/99, de fecha 23 de marzo de 1999, mediante el cual se crea la Dirección General de Atención a Víctimas, quedará abrogado a partir de la entrada en vigor de la Subprocuraduría de Atención a la Familia y a la Víctima.
+
+Artículo Sexto.- Los recursos humanos, materiales y financieros asignados a la Dirección de Atención a Víctimas de la Procuraduría General de Justicia del Estado de Hidalgo, así como a las Agencias del Ministerio Público Especializadas CAVI, formarán parte de la Subprocuraduría de Atención a la Familia y a la Víctima.
+
+Artículo Séptimo.- Las unidades administrativas que se crean o modifican en virtud de la aprobación de la presente Ley, seguirán con los trámites de los asuntos relativos a su objeto en el ámbito de su competencia.
+
+Artículo Octavo.- El Reglamento de la Ley se emitirá dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
