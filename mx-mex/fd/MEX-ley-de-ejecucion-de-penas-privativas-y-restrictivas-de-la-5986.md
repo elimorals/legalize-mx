@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5986"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2007-09-26"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 26 de diciembre de 1985.
 
@@ -41,11 +41,11 @@ LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
 ## TITULO PRELIMINAR. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, regirán en el Estado de México y su aplicación corresponde al Ejecutivo del Estado a través de la Dirección General de Prevención y Readaptación Social.
+Las disposiciones de esta Ley son de orden público, regirán en el Estado de México y su aplicación corresponde al Ejecutivo del Estado a través de la Agencia de Seguridad Estatal, por conducto de la Dirección General de Prevención y Readaptación Social.
 
 ###### Artículo 2.
 
@@ -55,17 +55,25 @@ I. Establecer las bases para la Ejecución de las Penas Privativas y Restrictiva
 
 II. Facultar a las Autoridades correspondientes para que ejerzan el control y vigilancia de cualquier privación de libertad impuesta en los términos de las Leyes de la materia.
 
-III. Establecer las bases para la prevención a través del Tratamiento Penitenciario.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+III. Establecer las bases para la prevención y readaptación social a través del tratamiento penitenciario.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 3.
 
-El Tratamiento Penitenciario debe ser aplicado con absoluta imparcialidad, sin ningún tipo de discriminación en relación a nacionalidad, raza, condiciones económicas y sociales, ideología política o creencias religiosas de los internos.
+El tratamiento penitenciario debe ser aplicado con absoluta imparcialidad, sin ningún tipo de discriminación por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 4.
 
-El tratamiento debe asegurar el respeto de los derechos humanos y debe tender a la readaptación social de los internos, en base a los siguientes lineamientos:
+El tratamiento debe asegurar el respeto a los derechos humanos y debe tender a la readaptación social de los internos, con base en los siguientes lineamientos:
 
-I. En relación a los sentenciados, debe ser aplicado un tratamiento readaptativo que tienda a la reincorporación social de los mismos.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+I. En relación a los sentenciados, debe ser aplicado un tratamiento de readaptación de los mismos.
 
 II. Los procesados deben ser tratados en base al principio de inocencia y de inculpabilidad.
 
@@ -75,15 +83,17 @@ A) Internamiento en Hospitales Psiquiátricos.
 
 B) Tratamiento en libertad.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 5.
 
-Los establecimientos de internación serán denominados Centros Preventivos y de Readaptación Social y para los efectos de esta Ley se mencionarán como centros.
+Los establecimientos de internación serán denominados Centros Preventivos y de Readaptación Social y para los efectos de esta Ley se mencionarán como Centros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
-Los centros dependerán de la Dirección General de Prevención y Readaptación Social y contarán con las secciones siguientes:
+Los Centros dependerán de la Dirección General de Prevención y Readaptación Social y contarán con las secciones siguientes:
 
 I. De Ingreso, Observación, Custodia Preventiva, Ejecución de Penas e Instituciones Abiertas.
 
@@ -109,21 +119,23 @@ La dirección; la rectoría en la administración; el control; y la vigilancia d
 
 Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes, en aplicación de la presente Ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el Juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 9.
 
-Todos los cuerpos de seguridad pública del Estado y municipios, están obligados a prestar el auxilio y el apoyo necesario a la Dirección General de Prevención y Readaptación Social, en el cumplimiento de sus labores.
+Todos los cuerpos de seguridad pública del Estado y municipios así como sus auxiliares, están obligados a prestar el auxilio y el apoyo necesario a la Dirección General de Prevención y Readaptación Social, en el cumplimiento de sus labores.
+
+La seguridad y administración de los Centros estará a cargo de la Agencia de Seguridad Estatal, a través de la Dirección General de Prevención y Readaptación Social, cuyo Titular instruirá a los Directores de los mismos, para la debida realización de sus funciones.
 
 ## TITULO PRIMERO. De la Dirección de Prevención y Readaptación Social
 
 ### CAPITULO I. De las Atribuciones
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 10.
 
-La Dirección General de Prevención y Readaptación Social, tendrá las siguientes atribuciones:
+La Dirección General de Prevención y Readaptación Social, es la unidad administrativa de la Agencia de Seguridad Estatal responsable de la administración y la seguridad de los Centros, procedimientos y directrices para conseguir la readaptación social y tendrá las atribuciones siguientes:
 
 I. Crear, organizar, dirigir y administrar los Centros Preventivos y de Readaptación Social en el Estado.
 
@@ -171,35 +183,53 @@ XVII. Las demás que le señalen las leyes y reglamentos.
 
 ### CAPITULO II. De los Consejos Interdisciplinarios
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 11.
 
-La Dirección General de Prevención y Readaptación Social, contará con un Consejo Técnico Interdisciplinario que realizará las funciones siguientes:
+La Agencia de Seguridad Estatal contará con un Consejo Técnico Interdisciplinario, que realizará las funciones siguientes:
 
-I. Asesorar y auxiliar a la Dirección General de Prevención y Readaptación Social.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+I. Asesorar y auxiliar a las Unidades Administrativas de la Agencia de Seguridad Estatal que lo requieran para el desempeño de sus labores.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 II. Brindar orientación respecto de la aplicación individual del sistema preventivo técnico.
 
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 III. Supervisar la aplicación del tratamiento progresivo y técnico a todo interno sentenciado a disposición del Ejecutivo del Estado, de la Federación, o de otra Entidad Federativa.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 IV. Realizar la evaluación de estudios clínico criminológico de los internos a fin de determinar la concesión o negación de medidas preliberacionales.
 
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 V. Opinar respecto de la autorización y ejecución de medidas preliberacionales.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 VI. Opinar sobre la remisión parcial de la pena.
 
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 VII. Coordinar, supervisar y orientar las funciones y dictámenes del Consejo Interno de los centros, a fin de lograr armonía, eficiencia y eficacia en la política y tratamiento readaptatorio.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 VIII. Opinar sobre el otorgamiento de la libertad condicional.
 
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 IX. Las demás que establezca esta ley.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 12.
 
-El Consejo Técnico Interdisciplinario estará integrado por los titulares o representantes de las áreas Directivas, Laboral, Técnica, de Custodia de la Dirección General de Prevención y Readaptación Social y las correspondientes del centro respectivo.
+El Consejo Técnico Interdisciplinario estará integrado por los titulares o representantes de las áreas Directivas, Laboral, Técnica y de Seguridad de la Dirección General de Prevención y Readaptación Social, además de las correspondientes del Centro respectivo.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -207,25 +237,23 @@ El Consejo Técnico Interdisciplinario estará integrado por los titulares o rep
 
 Los integrantes del Consejo Técnico Interdisciplinario tendrán derecho a voz y voto en las deliberaciones.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 14.
 
-El Consejo Técnico Interdisciplinario conocerá de asuntos de alcance general para los centros así como del tratamiento individual de los internos, particularmente en lo que atañe a la aplicación de la progresividad del mismo, conforme al orden del día que elabore la Dirección General de Prevención y Readaptación Social. El pronunciamiento que adopte el Consejo Técnico Interdisciplinario tendrá valor de Dictamen Técnico, y en su caso será notificado al interno correspondiente.
+El Consejo Técnico Interdisciplinario conocerá de asuntos de alcance general para los centros, así como del tratamiento individual de los internos, particularmente en lo que atañe a la aplicación de la progresividad del mismo, conforme al orden del día que elabore la Dirección General de Prevención y Readaptación Social. El pronunciamiento que adopte el Consejo Técnico Interdisciplinario tendrá valor de Dictamen Técnico, y en su caso será notificado al interno correspondiente, previa autorización del Juez que corresponda.
 
-La aplicación del beneficio otorgado en su caso, será autorizado inmediatamente para su cumplimiento por quien presida el Consejo.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 15.
 
-El Consejo Técnico Interdisciplinario celebrará sesiones ordinarias cuando menos una vez por semana y extraordinarias cada vez que sea convocado para ello, por la Dirección General de Prevención y Readaptación Social.
+El Consejo Técnico Interdisciplinario celebrará sesiones ordinarias cuando menos una vez por semana y extraordinarias cada vez que sea convocado para ello, por el Comisionado de la Agencia de Seguridad Estatal o por la Dirección General de Prevención y Readaptación Social.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 16.
 
-Las sesiones del Consejo Técnico Interdisciplinario se llevarán a cabo en las Oficinas de la Dirección General de Prevención y Readaptación Social o en los centros que forman el Sistema, bajo la presidencia del Director General de Prevención y Readaptación Social, o en su defecto, por la persona que él designe.
+Las sesiones del Consejo Técnico Interdisciplinario se llevarán a cabo en las oficinas de la Dirección General de Prevención y Readaptación Social o en los centros que forman el Sistema, bajo la presidencia del Director General de Prevención y Readaptación Social, quien informará mensualmente al Comisionado de la Agencia de Seguridad Estatal los resultados de las mismas.
 
 ###### Artículo 17.
 
@@ -295,7 +323,9 @@ IV. De Ejecución de Penas.
 
 V. Instituciones Abiertas.
 
-Las secciones señaladas en las Fracciones I a la V inclusive, podrán estar integradas en un sólo edificio arquitectónicamente planeado, denominado Centro Preventivo y de Readaptación Social. Se procurará que exista por lo menos uno de estos centros en cada Distrito Judicial.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+Las secciones señaladas en las fracciones I a la V inclusive, podrán estar integradas en un solo edificio arquitectónicamente planeado, denominado Centro Preventivo y de Readaptación Social, cuya seguridad y administración se encontrará bajo la responsabilidad de la Dirección General de Prevención y Readaptación Social. Se procurará que exista por lo menos uno de estos Centros en cada Distrito Judicial.
 
 ###### Artículo 20.
 
@@ -329,17 +359,23 @@ En los centros, deberán existir pabellones o dormitorios de mínima, media y m�
 
 Tanto los enfermos mentales como los farmacodependientes, serán recluidos dentro o fuera del centro en pabellones u Hospitales Psiquiátricos según sea el caso.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 26.
 
 Los preliberados, podrán ser destinados a las Instituciones Abiertas, se procurará que estos establecimientos estén anexos a los Centros Preventivos y de Readaptación Social.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 27.
 
-Los centros estarán a cargo de un Director y del personal administrativo y de vigilancia necesarios para su funcionamiento y en base al presupuesto de que dispongan.
+Los Centros estarán a cargo de un Director y contarán con el personal administrativo y de seguridad necesario para su funcionamiento, en base al presupuesto de que dispongan; asimismo, acatarán las instrucciones que les gire el Director General de Prevención y Readaptación Social.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 28.
 
-Los Directores de los centros, tendrán a su cargo el gobierno, control y rectoría de la vigilancia y administración de los Centros; cuidarán de la aplicación del Reglamento Interno y adoptarán las medidas necesarias para el cumplimiento de esta Ley.
+Los Directores de los Centros tendrán a su cargo los mismos, cuidarán de la aplicación del Reglamento Interno y adoptarán las medidas necesarias para el cumplimiento de esta Ley.
 
 ###### Artículo 29.
 
@@ -371,9 +407,11 @@ II. En base a una resolución judicial definitiva.
 
 III. En ejecución de los convenios a los que se refiere el artículo 7 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 34.
 
-Para efectos del control interno, desde su ingreso al centro, se le formará a cada interno un expediente personal, que contendrá entre otros datos:
+Para efectos del control interno, desde su ingreso, la Dirección de cada Centro formará a cada interno un expediente personal, que contendrá entre otros datos:
 
 I. Nombre, sexo, edad, lugar de origen, domicilio, estado civil, profesión u oficio.
 
@@ -383,13 +421,21 @@ III. Una identificación dactiloscópica y antropométrica.
 
 IV. Una identificación fotográfica de frente y de perfil.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+Una vez formado dicho expediente, remitirá copia certificada del mismo a la Dirección General de Prevención y Readaptación Social, para los efectos de su competencia.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 35.
 
-El expediente a que se refiere el artículo anterior, será destruido totalmente, dentro de las 72 horas siguientes a partir de la notificación del auto de sobreseimiento firme y de sentencia ejecutoriada de absolución, en el proceso que haya dado lugar a su individualización en la Institución.
+El expediente y la copia certificada a que se refieren el artículo anterior, serán destruidos totalmente, dentro de las 72 horas siguientes a partir de la notificación del auto de sobreseimiento firme o de sentencia ejecutoriada de absolución, en el proceso que haya dado lugar a su individualización en la Institución.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 36.
 
-Toda persona que ingrese a un centro, será examinada inmediatamente, a fin de conocer su estado físico y mental. Cuando del estudio y exámen realizados en su persona, el médico encuentre signos o síntomas de lesiones, lo pondrá en conocimiento del Director, quien a su vez informará al Juez de la causa, remitiéndole certificaciones del caso y asentando los datos relativos en el expediente que corresponda.
+Toda persona que ingrese a un centro, será examinada inmediatamente por la Dirección del Centro, a fin de conocer su estado físico y mental. Cuando del estudio y examen realizados en su persona, el médico encuentre signos o síntomas de lesiones, lo pondrá en conocimiento del Director quien procurará su atención correspondiente, y a su vez informará al Juez de la causa, remitiéndole certificaciones del caso y asentando los datos relativos en el expediente que corresponda.
 
 ###### Artículo 37.
 
@@ -453,15 +499,11 @@ Durante el período de tratamiento, se sujetará a los internos a las medidas qu
 
 ### CAPITULO I. Del Régimen de Tratamiento
 
-> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 44.
 
-El tratamiento en libertad consiste en la aplicación de las medidas laborales, educativas, de salud o de cualquier otra índole autorizada por la ley, orientadas a la readaptación social del sentenciado, bajo la supervisión y cuidado de la autoridad que ejerza la vigilancia. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
-
-La semilibertad implica alternación de periodos de privación de libertad y de tratamiento en libertad. Se aplicarán según las circunstancias del caso del siguiente modo: externamiento durante la semana de trabajo o educativa, con reclusión el fin de semana; salida el fin de semana, con reclusión durante el resto de ésta; o salida diurna con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida, quedando bajo la orientación y cuidado de la autoridad que ejerza el control y vigilancia.
-
-Las jornadas de trabajo a favor de la comunidad, consisten en la prestación de servicios no remunerados, preferentemente en instituciones públicas educativas y de asistencia social o en instituciones privadas asistenciales; el sentenciado deberá acreditar haber realizado por lo menos en una semana, tres jornadas de trabajo no remuneradas a favor de la comunidad, en razón de dos horas por jornada, las cuales se ajustarán a los horarios en los que éste pueda realizarlas, de acuerdo al programa que para ese fin establezca la institución en la cual va a realizarlas.
+El tratamiento de los internos es competencia de la Dirección General de Prevención y Readaptación Social y tendrá como base el trabajo, la capacitación para el mismo y la educación.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -491,11 +533,11 @@ El traslado de un interno a otro centro, puede ser dispuesto por graves y compro
 
 El trabajo y la capacitación para el mismo, deberá fundamentalmente, significar tratamiento, siendo asignado a los internos tomando en consideración sus aptitudes y habilidades, en correlación con las fuentes ocupasionales (sic) que ofrezca cada centro.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 50.
 
-La organización y administración del trabajo en los centros corresponderá en forma inmediata a la Dirección General de Prevención y Readaptación Social, a través del Departamento de Industria Penitenciaria.
+La organización y administración del trabajo en los Centros corresponderá en forma inmediata a la Dirección General de Prevención y Readaptación Social, a través de las unidades administrativas que le estén adscritas.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -569,9 +611,11 @@ Ningún interno podrá desempeñar funciones de autoridad o ejecutivas, empleo o
 
 ### CAPITULO III. Del Régimen Educativo
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 62.
 
-En los Centros Preventivos y de Readaptación Social. La Educación de los internos, deberá ser factor primordial para su readaptación, teniendo además del carácter académico, elementos cívicos, sociales, artísticos, físicos, éticos y de higiene, procurando afirmar con ellos, el respeto a los valores humanos y a las Instituciones Nacionales.
+En los Centros Preventivos y de Readaptación Social, la educación de los internos, deberá ser factor primordial para su readaptación, teniendo además del carácter académico, elementos cívicos, sociales, culturales, artísticos, físicos, éticos y de higiene, procurando afirmar con ellos, el respeto a los valores humanos y a las instituciones nacionales.
 
 ###### Artículo 63.
 
@@ -611,9 +655,11 @@ La Educación que se imparta en los centros, deberá ser apoyada por las Depende
 
 ### CAPITULO IV. Del Régimen Disciplinario
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 71.
 
-Los internos, al ingresar al centro, están obligados a observar las normas y disposiciones que regulen la vida interior de éste. Para tal efecto, las Autoridades harán del conocimiento de los internos, las disposiciones a que quedan sujetos.
+Los internos, al ingresar al Centro, están obligados a observar las normas y disposiciones que regulen la vida interior de éste. Para tal efecto, la Dirección General de Prevención y Readaptación Social, por conducto de la Dirección de cada Centro hará del conocimiento de los internos, las disposiciones a que quedan sujetos.
 
 ###### Artículo 72.
 
@@ -627,13 +673,17 @@ Los internos están obligados a acatar las normas de conducta que se dicten para
 
 Queda prohibido todo castigo consistente en torturas o tratos crueles, físicos o morales, así como aislamiento en celdas distintas y el destino a labores a servicios no retribuidos o el traslado a otra sección diferente a la de su tratamiento y en general cualesquiera otros actos que menoscaben la dignidad humana de los internos.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 75.
 
-El orden y la disciplina se impondrán con firmeza, teniendo en cuenta que la seguridad de los centros se mantendrá técnicamente como producto de una buena organización, científica y humanitaria, ajena a cualquier principio de represión. El uso de la fuerza sólo podrá emplearse en la medida estricta y necesaria para repeler agresiones violentas que pongan en peligro la integridad física de cualquier persona dentro del establecimiento, o se altere el orden o la seguridad del mismo.
+El orden y la disciplina, a cargo de la Dirección General de Prevención y Readaptación Social, se impondrán con firmeza, teniendo en cuenta que la seguridad de los centros se mantendrá técnicamente como producto de una buena organización, científica y humanitaria, ajena a cualquier principio de represión. El uso de la fuerza sólo podrá emplearse en la medida estricta y necesaria para repeler agresiones violentas que pongan en peligro la integridad física de cualquier persona dentro del establecimiento, o se altere el orden o la seguridad del mismo.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 76.
 
-Las medidas disciplinarias, así como los estímulos, serán, impuestas u otorgados por la Dirección del centro previa consulta y opinión del Consejo Interno Interdisciplinario.
+Las medidas disciplinarias, así como los estímulos, serán impuestas u otorgados por la Dirección General de Prevención y Readaptación Social, quien podrá hacerlo a través de la Dirección del Centro, previa consulta y opinión del Consejo Técnico Interdisciplinario.
 
 ###### Artículo 77.
 
@@ -681,9 +731,13 @@ La Dirección General de Readaptación Social proveerá lo necesario para instal
 
 Podrá ser autorizada en las relaciones con sus familiares y en casos particulares con terceros, comunicación telefónica alámbrica, con las modalidades y cautela prevista por el reglamento, pero siempre bajo la estricta responsabilidad del Director del Centro, quien sin excepción deberá grabarlas.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 84.
 
-La correspondencia de los internos puede ser puesta bajo control visivo del Director o de la persona que éste designe, para el efecto de comprobar que junto con ella no se envíen objetos cuya introducción al centro este prohibida.
+La correspondencia de los internos puede ser puesta bajo control del Director del Centro, para el efecto de comprobar que junto con ella no se envíen objetos cuya introducción al Centro esté prohibida.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 85.
 
@@ -693,23 +747,27 @@ Se autorizará dentro de los centros la venta de periódicos, revistas, libros o
 
 La visita íntima tendrá por objeto principal el mantenimiento de la relación marital del interno en forma sana moral; se concederá únicamente cuando se hayan realizado los estudios médicos y sociales correspondientes. Jamás será concedida o negada en base a la buena o mala conducta desarrollada por el interno.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 87.
 
-La finalidad de la reincorporación social de los internos, debe ser alcanzada solicitando y organizando la participación de los ciudadanos y de Instituciones o Asociaciones Públicas. En consecuencia, los Centros Preventivos y de Readaptación Social, podrán ser visitados con autorización del Director, por todas aquellas personas, que teniendo un concreto interés por la obra de resocialización de los internos, demuestren poder útilmente promover el desarrollo de los contactos entre la comunidad de internos y la sociedad libre.
+En la reincorporación y readaptación social de los internos, podrán participar los ciudadanos y las instituciones o asociaciones públicas.
 
-Se combatirá a través de esta participación social, la toxicomanía, el alcoholismo y todos los vicios que degradan al individuo.
+En consecuencia, los Centros de Readaptación, podrán ser visitados con autorización del Director General de Prevención y Readaptación Social, por todas aquellas personas, que teniendo un concreto interés por la obra de resocialización de los internos, demuestren promover el desarrollo de los contactos entre la comunidad de internos y la sociedad libre.
 
 ###### Artículo 88.
 
 Las Autoridades de los centros, permitirán a solicitud de los internos o de los familiares de éstos, y de acuerdo al Reglamento respectivo, que aquéllos reciban asistencia espiritual dentro del establecimiento, y a celebrar el rito respectivo, siempre que no alteren el orden y la seguridad del centro.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 89.
 
-Podrán ser concedidas a los internos, salidas del centro, en ocasiones especiales o por motivos excepcionales de índole familiar o afectiva, bajo las condiciones de seguridad y vigilancia que la Dirección considere oportunas. En dichos casos, el interno podrá portar sus propias prendas de vestir.
+Podrán ser concedidas a los internos, salidas del centro, en ocasiones especiales o por motivos excepcionales de índole familiar o afectiva, siempre y cuando se cumplan las condiciones de seguridad y vigilancia que establezca para tal caso la Dirección General de Prevención y Readaptación Social. En dichos casos, el interno podrá portar sus propias prendas de vestir.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Previa solicitud del interesado dichas situaciones extraordinarias serán valoradas por la Dirección General de Prevención y Readaptación Social a fin de resolver en definitiva, dentro de un término no mayor de diez días.
 
-Previa solicitud del interesado dichas situaciones extraordinarias serán calificadas por la Dirección General de Prevención y Readaptación Social, quien resolverá en definitiva dentro de un término no mayor de diez días.
+En el caso de los procesados, se seguirá el mismo procedimiento, pero en lugar de la Dirección General de Prevención y Readaptación Social, será el órgano jurisdiccional que tenga a su disposición al mismo quien resolverá en definitiva.
 
 ### CAPITULO VI. De la Asistencia Médica, Psicológica y Psiquiátrica
 
@@ -743,9 +801,11 @@ II. La higiene de los centros y de los internos.
 
 III. Las condiciones sanitarias, alumbrado y ventilación del centro.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 95.
 
-El médico del centro, deberá poner en conocimiento del Director de la misma, los casos de enfermedades transmisibles a que se refiere la Ley General de Salud, a fin de que éste cumpla con la obligación de dar aviso a los órganos competentes en los términos del propio ordenamiento, adoptándose las medidas preventivas necesarias.
+El médico del Centro, deberá poner en conocimiento del Director del Centro y del Director General de Prevención y Readaptación Social, los casos de enfermedades transmisibles a que se refiere la Ley General de Salud, a fin de que el primero dé aviso a los órganos competentes en los términos del propio ordenamiento y el segundo adopte las medidas preventivas necesarias.
 
 ###### Artículo 96.
 
@@ -889,23 +949,27 @@ Las Areas Médicas, Psicológicas y Psiquiátrica deberán presentar los informe
 
 (DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 124.
 
-Al quedar un interno en libertad, se le hará entrega inmediata de la cantidad que le corresponda de su fondo de ahorro.
+Al quedar un interno en libertad, la Dirección General de Readaptación Social por conducto del Director del Centro correspondiente, le hará entrega inmediata de la cantidad que le corresponda de su fondo de ahorro.
 
-## TITULO SEXTO. Del Patronato de Ayuda para la Reintegración Social
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2007)</small>
+
+## TITULO SEXTO. Del Patronato de Ayuda para la Prevención y Readaptación Social
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 125.
 
-Se crea el patronato de ayuda para la reintegración social que tendrá por objeto prestar asistencia jurídica, moral, económica, médica, social y laboral a las personas que gocen de cualquiera de los beneficios previstos en esta Ley o hayan sido puestas en libertad definitiva. Su organización y funcionamiento se regirá por el Reglamento interno respectivo.
+Se crea el patronato de ayuda para la Prevención y Readaptación Social que tendrá por objeto prestar asistencia jurídica, moral, económica, médica, social y laboral a las personas que gocen de cualquiera de los beneficios previstos en esta Ley o hayan sido puestas en libertad definitiva. Su organización y funcionamiento se regirá por el reglamento interno respectivo.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 126.
+###### Articulo 126.
 
-El patronato de ayuda para la reintegración social se integrará por el Director General de Prevención y Readaptación Social o por la persona que éste designe, quien lo presidirá con representantes de los ramos de la administración pública, diferentes sectores de la población y de agrupaciones sociales con capacidad generadora de empleo.
+El patronato de ayuda para la Prevención y Readaptación Social se integrará por el Comisionado de la Agencia de Seguridad Estatal, quien lo presidirá, por conducto del Director General de Prevención y Readaptación Social, así como los representantes de los ramos de la Administración Pública, de los sectores de la población y de agrupaciones sociales con capacidad generadora de empleo; el Comisionado presidirá el patronato.
 
 ## TRANSITORIOS
 
@@ -1014,3 +1078,15 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- Los Procedimientos Administrativos a cargo de la Agencia de Seguridad Estatal que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales que dieron origen a los mismos.
+
+QUINTO.- Los Procedimientos de Remoción radicados a la fecha en las Contralorías Internas correspondientes, serán tramitados y resueltos de conformidad a lo establecido con la legislación anterior y los procedimientos que aún no se remiten a dichos órganos de control interno, y los que se inicien deberán resolverse de conformidad con el procedimiento establecido en el presente decreto.
