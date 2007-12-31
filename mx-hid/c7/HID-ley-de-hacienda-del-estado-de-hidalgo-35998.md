@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2006-12-29"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -69,6 +69,8 @@ Las contribuciones que se establezcan en la Ley de Ingresos, se norman por las d
 
 La Hacienda Pública del Estado, para el cumplimiento de las funciones que le atribuye el orden jurídico, percibirá las contribuciones federales y estatales a que se refiere el Artículo anterior y los que se encuentren pactados en los Convenios que se hayan suscrito o que se suscriban para tales efectos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 4.
 
 Son objeto de este Impuesto, los ingresos que perciban las personas físicas, dentro del territorio del Estado, derivados de la prestación de servicios médicos profesionales independientes, que requieran título profesional, y otras actividades artístico culturales y deportivas.
@@ -85,7 +87,7 @@ DEL SUJETO:
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-## TITULO SEGUNDO. DE LOS IMPUESTOS
+## TITULO SEGUNDO. IMPUESTO SOBRE HONORARIOS Y OTRAS ACTIVIDADES LUCRATIVAS
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -99,9 +101,7 @@ DEL OBJETO:
 
 Son sujetos de este impuesto las personas físicas que realicen las actividades objeto de este impuesto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-Cuando las personas a que se refiere el párrafo anterior operen organizadas en agrupaciones profesionales, asociaciones o sociedades, serán las personas físicas los sujetos del impuesto.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 DE LA BASE:
 
@@ -109,9 +109,7 @@ DE LA BASE:
 
 Es base de este impuesto, el monto total de los ingresos a que se refiere el Artículo 4 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-Tratándose de los sujetos del impuesto a que se refiere el segundo párrafo del artículo anterior, la base del impuesto será la parte que a cada uno de ellos le corresponda en los ingresos totales de la organización.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -361,7 +359,9 @@ DEL PAGO:
 
 El impuesto, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado; dicho impuesto se enterará a la Autoridad en la siguiente forma:
 
-I.- Los contribuyentes que se encuentran en el supuesto establecido en la fracción I del Artículo 22 de ésta Ley, podrán presentar la declaración correspondiente de este impuesto vía Internet, o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de forma cuatrimestral dentro del término que no rebase el día 20 de los meses de mayo y septiembre del ejercicio fiscal en que se haya causado el impuesto y en el mes de enero del ejercicio fiscal subsecuente; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+I.- Los contribuyentes que se encuentran en el supuesto establecido en la fracción I del Artículo 22 de ésta Ley, podrán presentar la declaración correspondiente de este impuesto vía Internet, o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de forma cuatrimestral dentro del término que no rebase el día 20 de los meses de Mayo y Septiembre del ejercicio fiscal en que se haya causado el impuesto y en el mes de Enero del ejercicio fiscal subsecuente; y
 
 II.- Los contribuyentes que se encuentren en el supuesto establecido en las fracciones II y III del Artículo referido en la fracción anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera mensual, dentro del término que no rebase el día 20 del mes calendario siguiente al período de su causación.
 
@@ -425,7 +425,7 @@ j).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2006)
 
 II.- Las erogaciones que efectúen:
 
-a).- El Estado, los Municipios, los Organismos de la Administración Pública Descentralizada Estatal y los Fideicomisos donde intervenga el Estado, así como sus Entidades;
+a).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -443,7 +443,7 @@ c).- Los Partidos o Asociaciones Políticas y Religiosas, constituidos conforme 
 
 d).- Las Uniones o Asociaciones de Agricultores, Ganaderos, Piscicultores, Silvicultores o Comunidades;
 
-e).- Las Instituciones Educativas que realicen sus actividades con Presupuesto Federal, Estatal o Municipal;
+e).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 f).- Las Asociaciones Rurales de interés colectivo;
 
@@ -1235,7 +1235,9 @@ h).- El canje extemporáneo de licencias pagará recargos conforme a lo dispuest
 
 i).- Cambio de licencia de automovilista a chofer. 2 salarios mínimos
 
-j).- Expedición de permiso provisional a menores de edad para conducir. 2 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+j).- Expedición de permiso provisional a menores de edad para conducir. 5 salarios mínimos
 
 II.- Del arrastre y pensión de vehículos:
 
@@ -1981,6 +1983,8 @@ Los Organismos Descentralizados como personas jurídicas, cuyo objetivo es la re
 
 Los recursos que recauden deberán ser reportados a la Secretaría de Finanzas.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 87.
 
 Quedan comprendidos dentro de este capítulo, los ingresos que obtenga el Estado, por los siguientes conceptos:
@@ -2115,6 +2119,28 @@ Los contratistas y destajistas que realicen obras para el Gobierno del Estado, a
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
+### CAPITULO SEPTIMO. REPRODUCCION DE INFORMACION
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 86 BIS.- La consulta de datos que realicen los particulares en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Hidalgo será gratuita, salvo que para su entrega se requiera su impresión o almacenamiento, en cuyo caso se pagarán las siguientes cuotas:
+
+Expedición de hojas simples, por cada hoja 0.01 s.m
+
+Copia certificada 0.23 s.m
+
+Disco flexible de 3.5 0.23 s.m
+
+Disco compacto 0.31 s.m
+
+Copia de planos 0.50 s.m
+
+Copia certificada de planos 1.50 s.m
+
+En caso de que se requiera la contratación de alguna empresa de mensajería, los gastos de envío correrán a cargo del solicitante.
+
 ### CAPITULO UNICO
 
 ### CAPITULO UNICO
@@ -2184,3 +2210,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1°. de enero de 2007, p
 SEGUNDO.- Las contribuciones a las que refiere el Art. 84 Bis. en sus apartados I, II y III estarán en vigor hasta en tanto sea aprobado y entre en vigor el nuevo Ordenamiento Estatal que regula el desarrollo urbano y los asentamientos humanos.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Lo dispuesto por el Artículo 86BIS de la Ley de Hacienda del Estado, entrará en vigor hasta el 15 de junio del año 2008.
