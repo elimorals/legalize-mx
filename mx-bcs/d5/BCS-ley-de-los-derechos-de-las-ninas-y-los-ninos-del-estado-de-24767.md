@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-ninas-y-los-ninos-del-estado-de-2476
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2002-01-07"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y LOS NIÑOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Número Extraordinario al Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -91,7 +91,9 @@ IX. Atención Integral: Conjunto de acciones que deben realizar los órganos loc
 
 X. Atención y Protección Integral Especial: Al conjunto de acciones compensatorias y restitutivas que deben realizar los órganos locales de gobierno, familia y sociedad a favor de las niñas y niños que se encuentran en condiciones de desventaja social, y que tienen por objeto garantizar el ejercicio de sus derechos, satisfacer sus necesidades básicas y propiciar su desarrollo biopsicosocial;
 
-XI. Consejo: Al Consejo Promotor de los Derechos de las Niñas y niños del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XI. Comité: Al Comité Estatal de Evaluación y Seguimiento de los Derechos de las Niñas y los Niños en Baja California Sur;
 
 XII. Hogar Provisional: El núcleo familiar que proporciona alojamiento temporal, cuidados y atenciones a una niña o niño en situación de desamparo con el objeto de brindarle un ambiente propicio para su atención integral;
 
@@ -123,7 +125,11 @@ g) Víctimas de cualquier abuso, explotación laboral o sexual; o
 
 h) Cualquier otra situación, contingencia o actividad que ponga en riesgo o impida su desarrollo integral;
 
-XIX. Organizaciones Sociales y Privadas: A todas aquellas instituciones y asociaciones, que realicen acciones en favor de las niñas y niños en el Estado de Baja California Sur.
+XIX. Organizaciones Sociales y Privadas: A todas aquellas instituciones y asociaciones, que realicen acciones en favor de las niñas y niños en el Estado de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XX. Convención.- La Convención sobre los Derechos de la Niñez, adoptada en Nueva York, Estados Unidos de Norteamérica, el 20 de Noviembre de 1989 y ratificada por México el 21 de Octubre de 1990, publicada en el Diario Oficial de la Federación el 25 de enero de 1991.
 
 ## TITULO SEGUNDO. DE LOS PRINCIPIOS RECTORES Y DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS
 
@@ -223,9 +229,17 @@ VI. A participar en la vida cultural de su comunidad, así como al desarrollo de
 
 E) A la Asistencia Social:
 
-I. A ser sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de desventaja social, que garanticen la protección integral en tanto puedan valerse por si mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental;
+I. A ser sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de desventaja social, que garanticen la protección integral en tanto puedan valerse por si mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Corresponde al Estado, a la familia y a la sociedad en general, velar por los derechos de las niñas y los niños, procurándoles en todo momento cuidado, protección, afecto y respeto, estando obligados a hacer del conocimiento a las autoridades competentes cualquier abuso, maltrato físico, psicológico y emocional que sea realizado en contra de estos.
 
 Y los demás que les reconozcan otros ordenamientos legales.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Artículo 5 bis.- Las niñas y los niños gozaran de todos los derechos y garantías contemplados en la Constitución Política de los Estados Unidos Mexicanos, en la Convención sobre los Derechos de la Niñez, en la Ley Federal para la Protección de los Derechos de las Niñas, Niños y Adolescentes, en la Constitución Política del Estado Libre y Soberano de Baja California Sur, en los Principios Generales de Derecho, y en la presente Ley.
 
 ###### Artículo 6.
 
@@ -271,17 +285,23 @@ Es obligación de los progenitores, miembros de la familia y responsables del cu
 
 Es obligación de los progenitores de la familia y responsables del cuidado de las niñas y niños, el que estos reciban la aplicación de las vacunas que comprenden el esquema básico; acudiendo para ello a las Clínicas, Centros de Salud, o Centros Temporales de Vacunación.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 12.
 
-La Secretaría General de Gobierno en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur, instrumentará los mecanismos conforme a los cuales las autoridades y las instituciones los apoyen y asistan en el cumplimiento de sus responsabilidades.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur, instrumentará los mecanismos conforme a los cuales las autoridades y las instituciones los apoyen y asistan en el cumplimiento de sus responsabilidades.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 13.
 
-El gobernador del Estado a través de la Secretaría General de Gobierno y el Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado de Baja California Sur, en coordinación con las demás instancias locales y federales establecerá las normas y los mecanismos necesarios a fin de que, cuando una niña o niño se vea separado de su familia de origen, se procure su reencuentro con ella, o bien, para la localización de sus familiares en los casos de abandono, sustracción o retención ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
+El Gobernador del Estado a través del Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado de Baja California Sur, en coordinación con las demás instancias locales y federales establecerá las normas y los mecanismos necesarios a fin de que, cuando una niña o niño se vea separado de su familia de origen, se procure su reencuentro con ella, o bien, para la localización de sus familiares en los casos de abandono, sustracción o retención ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 14.
 
-Cuando una niña o niño se vea privado de su familia, tendrá derecho a recibir el apoyo de la Secretaría General de Gobierno y del Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur quienes deberán brindarle asistencia social, atención integral y en su caso, procurarle una (sic) hogar provisional.
+Cuando una niña o niño se vea privado de su familia, tendrá derecho a recibir el apoyo del Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur quienes deberán brindarle asistencia social, atención integral y en su caso, procurarle una hogar provisional.
 
 ###### Artículo 15.
 
@@ -319,7 +339,9 @@ VII. Fomentar y promocionar la estabilidad y el bienestar familiar;
 
 VIII. Implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos; así como programas de educación vial y acciones preventivas con la participación de la comunidad;
 
-IX. Presidir el Consejo Promotor;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+IX. Presidir el Comité;
 
 X. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley; y
 
@@ -333,27 +355,27 @@ Corresponde a la Secretaría General de Gobierno en relación con las niñas y n
 
 I. Formular, fomentar, coordinar, instrumentar y difundir, salvo que de forma expresa las leyes atribuyan a otras dependencias, las políticas públicas, programas y acciones de defensa y representación jurídica, provisión, prevención, protección y participación para el mejoramiento general de sus condiciones de vida, en el Estado de Baja California Sur, promoviendo la equidad y la igualdad de oportunidades, tendientes a disminuir la exclusión social;
 
-II. Fomentar la participación corresponsable de la sociedad, de las instituciones públicas y privadas, en el diseño e instrumentación de las políticas y programas relacionados con ellos;
+II. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-III. Establecer instrumentos que posibiliten la concurrencia de instancias gubernamentales y de los distintos sectores sociales en el diseño, elaboración, ejecución y evaluación de las acciones en su favor;
+III. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-IV. Fomentar la investigación de las diversas metodologías y modelos de atención con las niñas y niños que carecen de habitación cierta y viven en la calle, elaborando una evaluación de los resultados que permitan identificar a los más efectivos;
+IV. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-VI (sic). Detectar las necesidades y definir los objetivos de las políticas sociales de cobertura, calidad y equidad, encaminadas a ampliar y coordinar esfuerzos, para apoyar su desarrollo integral;
+VI (sic). (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-VII. Establecer acciones y líneas estratégicas de gestión social en su beneficio;
+VII. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-VIII. Establecer, fomentar, coordinar y ejecutar programas dirigidos al fortalecimiento de la familia en el Estado de Baja California Sur, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur;
+VIII. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-IX. Promover los servicios integrales en las diferentes unidades con las que cuenta la Administración Pública, así como optimizar el funcionamiento de los ya existentes;
+IX. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-X. Integrar el Consejo Promotor y actuar como Secretaría Técnica del mismo;
+X. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-XI. Promover la difusión y defensa de sus derechos, así como las disposiciones legales que se relacionan con ellos, con el fin de propiciar su efectiva aplicación;
+XI. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-XII. Vigilar que las organizaciones sociales y privadas que presten servicios o realicen actividades en su beneficio, lo hagan respetando en todo momento sus derechos; en caso de detectar irregularidades deberá hacerlas del conocimiento de las autoridades competentes, para lo cual se establecerán los sistemas de registro e información que se requieran;
+XII. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
-XIII. Elaborar, dentro del ámbito de sus atribuciones, lineamientos generales para la prestación de servicios sociales, así como proponer a las instituciones encargadas de su aplicación las normas técnicas necesarias; y
+XIII. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2007)
 
 XIV. Las demás que le confieran otros ordenamientos jurídicos.
 
@@ -437,7 +459,9 @@ X. Poner a disposición del Ministerio Público o de cualquier órgano jurisdicc
 
 XI. Procurar que las niñas y niños que se encuentren o vivan en circunstancias de desventaja social, cuenten con un lugar donde vivir, que tengan los espacios suficientes para cubrir sus necesidades básicas, dentro de una familia u hogar provisional o instituciones de asistencia pública o privada;
 
-XII. Vigilar que las instituciones y los hogares provisionales presten el cuidado y atención adecuada a las niñas y niños, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría General de Gobierno;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XII. Vigilar que las instituciones y los hogares provisionales presten el cuidado y atención adecuada a las niñas y niños, respetando sus derechos, a través de mecanismos de seguimiento y supervisión;
 
 XIII. Gestionar ante el Registro Civil la inscripción en las partidas registrales de las niñas y niños, solicitadas por instituciones privadas y sociales;
 
@@ -449,9 +473,51 @@ XVI. Promover la filiación de las niñas y niños, para efectos de su identidad
 
 XVII. Comparecer ante las autoridades o instituciones competentes, en los casos en que corresponda o se le designe para ejercer la guarda y custodia provisional y en su caso, la tutela de las niñas y niños en los términos de las disposiciones legales aplicables;
 
-XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y
+XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y (sic)
 
-XIX. Las demás que le confieran otros ordenamientos jurídicos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XIX. Fomentar la participación corresponsable de la sociedad, de las instituciones públicas y privadas, en el diseño e instrumentación de las políticas y programas relacionados con ellos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XX. Establecer instrumentos que posibiliten la concurrencia de instancias gubernamentales y de los distintos sectores sociales en el diseño, elaboración, ejecución y evaluación de las acciones en su favor;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXI. Fomentar la investigación de las diversas metodologías y modelos de atención con las niñas y niños que carecen de habitación cierta y viven en la calle, elaborando una evaluación de los resultados que permitan identificar a los más efectivos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXII. Detectar las necesidades y definir los objetivos de las políticas sociales de cobertura, calidad y equidad, encaminadas a ampliar y coordinar esfuerzos, para apoyar su desarrollo integral;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXIII. Establecer, fomentar, coordinar y ejecutar programas dirigidos al fortalecimiento de la familia en el Estado de Baja California Sur, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXIV. Promover los servicios integrales en las diferentes unidades con las que cuenta la Administración Pública, así como optimizar el funcionamiento de los ya existentes;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXV. Integrar el Consejo Promotor y actuar como Secretaría Técnica del mismo;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXVI. Promover la difusión y defensa de sus derechos, así como las disposiciones legales que se relacionan con ellos, con el fin de propiciar su efectiva aplicación;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXVII. Vigilar que las organizaciones sociales y privadas que presten servicios o realicen actividades en su beneficio, lo hagan respetando en todo momento sus derechos; en caso de detectar irregularidades deberá hacerlas del conocimiento de las autoridades competentes, para lo cual se establecerán los sistemas de registro e información que se requieran.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXVIII. Elaborar, dentro del ámbito de sus atribuciones, lineamientos generales para la prestación de servicios sociales, así como proponer a las instituciones encargadas de su aplicación las normas técnicas necesarias; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXIX. Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPITULO V. DE LOS AYUNTAMIENTOS
 
@@ -465,49 +531,87 @@ II. Impulsar dentro de su demarcación las actividades de defensa y representaci
 
 III. Promover la concertación entre los sectores público, privado y social, para mejorar su calidad de vida en la demarcación territorial.
 
-### CAPITULO VI. DEL CONSEJO PROMOTOR DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS DEL ESTADO DE BAJA CALIFORNIA SUR
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO VI. DEL COMITE ESTATAL DE SEGUIMIENTO Y VIGILANCIA DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN BAJA CALIFORNIA SUR
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 25.
 
-Se crea el Consejo Promotor de los Derechos de la Niñas y niños del Estado de Baja California Sur, como órgano honorario, de asesoría, apoyo y consulta del Gobierno del Estado, así como de concertación entre los sectores público, social y privado, teniendo por objeto promover, proponer y concertar acciones que favorezcan al pleno cumplimiento de sus derechos.
+Se crea el Comité Estatal de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur como órgano honorario, de asesoría, apoyo y consulta del Gobierno del Estado y Municipios, así como de concertación entre los sectores público, social y privado. Tendrá por objeto cumplir con el compromiso contraído por nuestro país, de proteger los derechos de las niñas y los niños del Estado, y buscar se garantice el beneficio de sus derechos fundamentales, de conformidad con la Convención sobre los Derechos de la Niñez, aprobada por la Asamblea General de las Naciones Unidas el 20 de Noviembre de 1989 y ratificada por el Senado de la República el 31 de Julio de 1990, así como con las disposiciones de la presente Ley.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 26.
 
-El Consejo Promotor se integrará por 11 integrantes titulares:
+El Comité Estatal de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur, estará integrado por:
 
-El Gobernador del Estado quien presidirá y tendrá voto de calidad; los responsables de las siguientes entidades y dependencias de la Administración Pública: Secretaría General de Gobierno, Secretaría de Salud, Coordinación Estatal de Seguridad Pública, Procuraduría General de Justicia, Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur, el Presidente del Tribunal Superior de Justicia, quienes nombrarán a un representante del nivel jerárquico inmediato quienes asistirán en forma permanente. Así como por cuatro Diputados del Congreso del Estado.
+I.- Una Asamblea: Que estará conformada por cada una de las dependencias e instituciones públicas, sociales y privadas vinculadas con la niñez sudcaliforniana;
 
-De igual forma, el Consejo podrá invitar a sus reuniones a un representante responsable del sector educativo, dos representantes de instituciones académicas, dos representantes del sector empresarial, dos representantes de los medios de comunicación, cuatro representantes de las organizaciones sociales, así como a cualquier persona física o moral, pública o privada de reconocida trayectoria que se hayan destacado por su trabajo, estudio o compromiso en materia de niñas y niños.
+II.- Una Presidencia: Que será ocupada por el Titular del Poder Ejecutivo del Estado;
+
+III.- Una Vicepresidencia: Que será la Presidenta del Patronato del Sistema DIF Estatal;
+
+IV.- Una Coordinación General: Presidida por quien ocupe la Dirección General del Sistema para el Desarrollo Integral de la Familia en la Entidad;
+
+V.- Una Secretaría Técnica: Que será ocupada por quien designe la Dirección General del Sistema DIF Estatal;
+
+VI.- Vocales "A".- Representados por las o los Responsables de las diferentes Áreas del Sistema DIF Estatal; y
+
+VII.- Vocales "B".- Representados por las o los Responsables Operativos de las dependencias del gobierno estatal y de la sociedad civil organizada.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 27.
 
-El Consejo tendrá las siguientes facultades:
+El Comité, tendrá las siguientes facultades:
 
-I. Proponer programas en beneficio de las niñas y niños;
+I.- Establecer estrategias interinstitucionales que permitan elaborar y mantener actualizado el análisis de la situación de la niñez en el Estado;
 
-II. Proponer un programa de concertación de acciones entre las distintas Dependencias de la Administración Pública que fije lineamientos generales para unificar los criterios en el ejercicio de los recursos financieros destinados a los programas de atención a los (sic) niñas y niños;
+II.- Diseñar e instrumentar programas y acciones interinstitucionales y de vinculación con la sociedad civil organizada, que permitan dar cumplimiento a los principios y disposiciones emanadas de la Convención sobre los Derechos de la Niñez;
 
-III. Fomentar y fortalecer la colaboración, concertación, coordinación y participación corresponsalble (sic) de instituciones públicas y privadas en la realización de acciones para garantizar el ejercicio de los derechos de las niñas y niños en la Entidad;
+III.- Promover estrategias encaminadas a generar un proceso de cambio social para hacer de los Derechos de las Niñas y Niños, una práctica cotidiana entre las familias, las comunidades y las instituciones de la Entidad;
 
-IV. Proponer los mecanismos e instrumentos tendientes a la consecución de aportaciones y donaciones que realicen las personas físicas y morales, públicas o privadas, de carácter local, nacional o internacional, con el propósito de coadyuvar con el cumplimiento, respeto y ejecución de los planes y programas dirigidos en beneficio de las niñas y niños de la Entidad, debiendo estar el Consejo informado en todo momento;
+IV.- Impulsar acciones de difusión sobre los Derechos de la Niñez; así como promover a través de los medios masivos de comunicación, la sensibilización comunitaria acerca de la problemática que viven algunos niños y niñas de la Entidad;
 
-V. Evaluar los logros y avances de los programas de la Administración Pública en la materia y proponer medidas para su optimización;
+V.- Diseñar e instrumentar modelos de intervención, en los cuales las instituciones puedan articular sus recursos humanos, materiales y operativos para la atención y prevención de las problemáticas que enfrenta la niñez en el Estado y que limitan su adecuado desarrollo;
 
-VI. Analizar y proponer a las instancias competentes, modelos de atención para las niñas y niños;
+VI.- Propiciar que los principios básicos de la Convención sean considerados en el proceso de toma de decisiones y en la formulación e instrumentación de las políticas, programas y presupuestos, que tengan impacto directo en las acciones a favor de la niñez que se ejecuten en la Entidad;
 
-VII. Contribuir a la difusión de los principios, derechos y deberes de las niñas y niños del Estado de Baja California Sur.
+VII.- Promover la existencia de canales adecuados para la denuncia de violaciones a los derechos de la niñez y el adecuado seguimiento a los casos por parte de los organismos pertinentes;
+
+VIII.- Emitir las recomendaciones necesarias a quienes incurran en violaciones a los Derechos de la Niñez, y toda vez que así se requiera, en beneficio de la infancia y la adolescencia en el Estado;
+
+IX.- Apoyar y colaborar en el diseño y ejecución de los programas de acción a favor de la infancia a nivel Estatal y Municipal;
+
+X.- Proponer las adecuaciones legislativas a fin de hacer compatibles las leyes, normas y reglamentos estatales con los principios de la Convención sobre los Derechos de la Niñez y la Constitución Política de los Estados Unidos Mexicanos;
+
+XI.- Promover la participación permanente de la niñez en el conocimiento, difusión y puesta en práctica de la Convención sobre los Derechos de la Niñez, a fin de permitirles actuar como agentes de cambio en sus propias vidas, la de sus familias y comunidades;
+
+XII.- Promover y apoyar la formación de estructuras similares a nivel municipal;
+
+XIII.- Propiciar que los principios básicos de la Convención y las disposiciones de esta Ley, sean considerados en el proceso de toma de decisiones y en la formulación e instrumentación de las políticas, programas y el presupuesto, que tengan impacto directo en las acciones que se ejecutan en la entidad a favor de la niñez;
+
+XIV.- Alimentar el Sistema Nacional de Seguimiento y Vigilancia de la Aplicación de la Convención sobre los Derechos de la Niñez;
+
+XV.- Contribuir a la difusión de los principios, derechos y deberes de las niñas y niños en el Estado de Baja California Sur;
+
+XVI.- Las demás que le señalen la presente Ley, su Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 28.
 
-La Secretaría Técnica del Consejo Promotor estará a cargo de la Secretaría General de Gobierno que tendrá las facultades siguientes:
+La Secretaría Técnica del Comité tendrá las siguientes facultades:
 
-I. Convocar e invitar a las reuniones del Consejo;
+I.- Convocar e invitar a las reuniones del Comité;
 
-II. Coordinar los trabajos del Consejo;
+II.- Organizar y coordinar las reuniones y trabajos del Comité;
 
-III. Dar seguimiento a los acuerdos adoptados por el Consejo;
+III.- Dar seguimiento a los acuerdos adoptados por el Comité; y
 
-IV. Las demás inherentes a su cargo.
+IV.- Las demás que le sean asignadas en el Reglamento del Comité.
 
 ## TITULO QUINTO. DE LAS ACCIONES DE GOBIERNO
 
@@ -533,19 +637,25 @@ III. Fomentar el otorgamiento de becas en las instituciones particulares a fin d
 
 IV. Impulsar programas de fomento educativo con los padres, educandos y maestros.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 32.
 
-La Secretaría General de Gobierno propiciará, fomentará y promoverá propuestas y programas para incluir a las niñas y niños excluidos de la educación básica obligatoria.
+El Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado, propiciará, fomentará y promoverá propuestas y programas para incluir a las niñas y niños excluidos de la educación básica obligatoria.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 33.
 
-La Secretaría General de Gobierno en coordinación con Dependencias, Órganos Desconcentrados y entidades competentes establecerá programas alternativos de atención y educación extraescolar a través de actividades culturales y científicas.
+El Sistema para el Desarrollo Integral de la Familia en coordinación con Dependencias, Órganos Desconcentrados y entidades competentes establecerá programas alternativos de atención y educación extraescolar a través de actividades culturales y científicas.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 34.
 
-La Secretaría General de Gobierno, en coordinación con Dependencias, Órganos Desconcentrados y entidades competentes, fomentará:
+El Sistema para el Desarrollo Integral de la Familia, en coordinación con Dependencias, Órganos Desconcentrados y entidades competentes, fomentará:
 
-I. El acceso a los espacios culturales, favoreciendo la expresión conocimiento de sus valores, historia y tradiciones;
+l. El acceso a los espacios culturales, favoreciendo la expresión y conocimiento de sus valores, historia y tradiciones;
 
 II. El conocimiento y la participación de las niñas y niños en la cultura y las artes, propiciando su acercamiento y adaptación de las mismas a las diferentes etapas de desarrollo por las que atraviesen; y
 
@@ -561,9 +671,11 @@ El Instituto Sudcaliforniano de Cultura fomentará la participación social rela
 
 ### CAPITULO II. DE LA RECREACION Y DEPORTE
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 37.
 
-El Consejo propondrá, la promoción para que los medios de comunicación impresos y electrónicos, procuren proteger a las niñas y niños de toda información que resulte perjudicial para su formación integral.
+El Comité propondrá, la promoción para que los medios de comunicación impresos y electrónicos, procuren proteger a las niñas y niños de toda información que resulte perjudicial para su formación integral.
 
 ###### Artículo 38.
 
@@ -583,9 +695,11 @@ IV. El deporte y las actividades de tiempo libre, tanto en el medio escolar como
 
 V. El desarrollo de las asociaciones infantiles y juveniles para la recreación.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 39.
 
-La Coordinación Estatal de Turismo fomentará el turismo de las niñas y niños dentro del Estado de Baja California Sur, bien en grupos escolares, asociaciones o con sus familias.
+La Secretaría de Turismo fomentará el turismo de las niñas y niños dentro del Estado de Baja California Sur, bien en grupos escolares, asociaciones o con sus familias.
 
 ### CAPITULO III. DE LA PARTICIPACION
 
@@ -639,23 +753,31 @@ Aun cuando la niña o niño se encuentre bajo la custodia de su padre, madre, tu
 
 #### SECCION TERCERA. DE LAS NIÑAS Y NIÑOS EN SITUACION DE CALLE
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 48.
 
-La Secretaría General de Gobierno, en coordinación con el Sistema para el Desarrollo Integral de la Familia y los Ayuntamientos, tendrán la obligación de establecer un programa específico y prioritario para brindar a las niñas y niños en situación de calle, las medidas de defensa jurídica, de provisión, prevención, protección y asistencia.
+El Sistema para el Desarrollo Integral de la Familia en coordinación con los Ayuntamientos, tendrá la obligación de establecer un programa específico y prioritario para brindar a las niñas y niños en situación de calle, las medidas de defensa jurídica, de provisión, prevención, protección y asistencia.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 49.
 
-La Secretaría General de Gobierno establecerá la coordinación y concertación, con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad y de las organizaciones sociales en las políticas en beneficio de las niñas y niños en situación de calle.
+El Sistema para el Desarrollo Integral de la Familia, establecerá la coordinación y concertación, con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad y de las organizaciones sociales en las políticas en beneficio de las niñas y niños en situación de calle.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 50.
 
-La Secretaría General de Gobierno y el Sistema para el Desarrollo Integral de la Familia impulsarán e implementarán medidas tendientes a prevenir y evitar que las niñas y niños realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
+El Sistema para el Desarrollo Integral de la Familia impulsará e implementará medidas tendientes a prevenir y evitar que las niñas y niños realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
 
 #### SECCION CUARTA. DE LAS NIÑAS Y NIÑOS TRABAJADORES EN SITUACION DE DESVENTAJA SOCIAL
 
-###### Artículo 51.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
-En materia de niñas y niños trabajadores en situación de desventaja social, la Secretaría General de Gobierno promoverá los mecanismos de colaboración y fomentara programas de protección para que los adolescentes mayores de 14 años que trabajen cuenten con la protección laboral y el respeto a los derechos que otorga la Ley Federal del Trabajo.
+###### Articulo 51.
+
+En materia de niñas y niños trabajadores en situación de desventaja social, el Sistema para el Desarrollo Integral de la Familia promoverá los mecanismos de colaboración y fomentara programas de protección para que los adolescentes mayores de 14 años que trabajen cuenten con la protección laboral y el respeto a los derechos que otorga la Ley Federal del Trabajo.
 
 ###### Artículo 52.
 
@@ -663,13 +785,17 @@ La Administración Pública impulsará proyectos de empleo y capacitación en co
 
 #### SECCIÓN QUINTA. DE LAS NIÑAS Y NIÑOS CON DISCAPACIDAD
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 53.
 
-La Secretaría General de Gobierno, de Salud y el Sistema para el Desarrollo Integral de la Familia, propiciaran con la participación de los organismos públicos e instituciones privadas y sociales, los programas dirigidos a las niñas y niños para la prevención de la discapacidad, a la rehabilitación, a su integración familiar, educativa y social y a la creación de talleres para su capacitación para el trabajo, recreación y participación en el deporte y demás medios dirigidos a su rehabilitación integral.
+La Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia, propiciarán con la participación de los organismos públicos e instituciones privadas y sociales, los programas dirigidos a las niñas y niños para la prevención de la discapacidad, a la rehabilitación, a su integración familiar, educativa y social y a la creación de talleres para su capacitación para el trabajo, recreación y participación en el deporte y demás medios dirigidos a su rehabilitación integral.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 54.
 
-La Secretaría General de Gobierno, en coordinación con las Dependencias e Instituciones Especializadas implementarán las acciones encaminadas a la protección y cuidado de las niñas y niños discapacitados. Los servicios inherentes a estas medidas se proporcionarán gratuitamente, cuando las condiciones económicas de los afectados así lo requieran.
+El Sistema para el Desarrollo Integral de la Familia, en coordinación con las Dependencias e Instituciones Especializadas implementarán las acciones encaminadas a la protección y cuidado de las niñas y niños discapacitados. Los servicios inherentes a estas medidas se proporcionarán gratuitamente, cuando las condiciones económicas de los afectados así lo requieran.
 
 ## TITULO SEPTIMO. DE LAS INSTITUCIONES DEDICADAS A LA ATENCION DE NIÑAS Y NIÑOS
 
@@ -768,3 +894,11 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DEL GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se concede un plazo de 120 días naturales a partir de la publicación del presente Decreto en el Boletín Oficial del Gobierno del Estado, para que el Comité Estatal de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur, expida el Reglamento a que se hace referencia en la misma. De igual forma, se concede dicho plazo al Comité para que proponga al Titular del Poder Ejecutivo, u organismos descentralizados, en su caso, las adecuaciones necesarias a las normas de carácter administrativo a efecto se (sic) que se armonicen con los alcances y objetivos de la presente Ley.
