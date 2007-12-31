@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-9735"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-18"
-last_updated: "2005-12-14"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULlPAS, PUBLICADA EN EL P.O. 31 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 18 de diciembre de 1993.
 
@@ -376,3 +378,15 @@ P.O. 14 DE DICIEMBRE DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero de 2006.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Coordinación Fiscal del Estado de Tamaulipas, expedida mediante Decreto 80, del 10 de diciembre de 1993, y publicado en el Periódico Oficial del Estado número 101, del 18 de diciembre de 1993. Asimismo, se abrogan sus reformas expedidas mediante Decreto No. 417, del 19 de diciembre de 1995, y publicadas en el Periódico Oficial No. 104, del 30 de diciembre de 1995; Decreto No. 84, del 13 de diciembre de 1996, publicado en el Periódico Oficial Anexo al 103, del 25 de diciembre de 1996; Decreto No. 363, del 19 de noviembre de 1998, publicado en el Periódico Oficial No. 93, del 21 de noviembre de 1998; Decreto No. 141, 14 de diciembre de 1999, publicado en el Periódico Oficial No. 102, del 22 de diciembre de 1999; Decreto No. 360, 12 de diciembre del 2000, publicado en el Periódico Oficial No. 137, del 21 de diciembre del 2000; Decreto No. 563, 12 de diciembre del 2003, publicado en el. Periódico Oficial No. 157, del 31 de diciembre del 2003; y Decreto No 132., 5 de diciembre del 2005, publicado en el Periódico Oficial No. 149, del 14 de diciembre del 2005.
