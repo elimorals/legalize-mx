@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-justicia-para-adolescentes-para-el-estado-de-baja-52357"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-05"
-last_updated: "2007-07-20"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52357&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 5 de octubre de 2006.
 
@@ -291,9 +291,11 @@ VII. Las determinaciones de carácter administrativo que procedan; y
 
 VIII. El nombre y la firma del Juez que la emita y del Secretario de Acuerdos, quien autorizará y dará fe.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 26.
 
-La detención preventiva dictada por el Juez respecto de un adolescente de entre 12 y menos de 18 años de edad y cuya conducta cometida sea calificada como grave, será aplicada como último recurso y por el tiempo mas breve posible.
+La detención preventiva dictada por el Juez respecto de un adolescente de entre 14 y menos de 18 años de edad y cuya conducta cometida sea calificada como grave, será aplicada como último recurso y por el tiempo mas breve posible.
 
 ###### ARTÍCULO 27.
 
@@ -679,9 +681,11 @@ Se considera tiempo libre aquel durante el cual el adolescente no deba cumplir c
 
 Los espacios destinados al internamiento en tiempo libre no tendrán seguridad extrema y deben estar totalmente separados de aquellos destinados al cumplimiento de la medida de internamiento definitivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 79.
 
-El internamiento consiste en la privación de la libertad del adolescente y se debe cumplir exclusivamente en los centros de internamiento, y será una medida de carácter excepcional, la cual solo podrá aplicarse a las conductas típicas consideradas como graves por esta Ley y solo será impuesta a los adolescentes que sean mayores de 12 años de edad y menores de 18 años de edad.
+El internamiento consiste en la privación de la libertad del adolescente y se debe cumplir exclusivamente en los centros de internamiento, y será una medida de carácter excepcional, la cual solo podrá aplicarse a las conductas típicas consideradas como graves por esta Ley y solo será impuesta a los adolescentes que sean mayores de 14 años de edad y menores de 18 años de edad.
 
 La medida de internamiento en centros especializados es la mas grave prevista en esta Ley.
 
@@ -1008,3 +1012,7 @@ VICTOR MANUEL GULUARTE CASTRO.
 B.O. 20 DE JULIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2007.
+
+UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
