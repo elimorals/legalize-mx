@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ciencia-y-tecnologia-del-estado-de-hidalgo-45705"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-08"
-last_updated: "2005-08-08"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de agosto de 2005.
 
@@ -594,3 +596,19 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los 180 días naturales siguientes a la Publicación de la presente Ley, el COCYTEH, deberá emitir el Reglamento respectivo.
+
+TERCERO.- El COCYTEH, en lo subsecuente se regirá por la normatividad establecida en la presente Ley y en lo establecido en el Decreto de su creación, en todo lo que no se oponga.
+
+CUARTO.- El COCYTEH, formulará y presentará al Titular del Poder Ejecutivo, el Programa Estatal de Ciencia y Tecnología, dentro de los 90 días siguientes del inicio de la vigencia de la presente Ley.
+
+QUINTO.- Los cuerpos colegiados a los que hace referencia la presente Ley, se integrarán en un plazo no mayor de 180 días naturales a partir de la entrada en vigor de la misma.
+
+SEXTO.- Se abroga la Ley de Ciencia y Tecnología del Estado de Hidalgo, aprobada por el Congreso del Estado, mediante Decreto 24, Publicado en el Periódico Oficial del 8 de agosto de 2005, derogándose asimismo todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
