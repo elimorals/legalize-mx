@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-2000
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-09"
-last_updated: "2005-03-16"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO ESTATAL Y MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 9 de febrero de 2001.
 
@@ -69,15 +69,19 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y M
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es reglamentaria del artículo 108 de la Constitución Local, sus disposiciones son de orden público, su observancia es general y obligatoria para el Estado de Puebla y sus Municipios, y rige en materia de adquisiciones, arrendamientos y prestación de servicios que realicen la Administración Pública Estatal y la Municipal, con cargo total a fondos propios o de manera combinada según los convenios que celebren el Ejecutivo Estatal y los Ayuntamientos.
+La presente Ley es reglamentaria del artículo 108 de la Constitución Local, sus disposiciones son de orden público, su observancia es general y obligatoria para el Estado de Puebla y sus Municipios, y rige en materia de adquisiciones, arrendamientos y prestación de servicios, así como en las diversas modalidades de cada una de éstas que realicen la Administración Pública Estatal y la Municipal, con cargo total a fondos propios o de manera combinada según los convenios que celebren el Ejecutivo Estatal y los Ayuntamientos.
 
 ###### ARTÍCULO 2.
 
 Para el mejor cumplimiento de su objeto, las disposiciones de esta Ley establecen y regulan:
 
-I. Las acciones relativas a la planeación, programación, presupuestación, contratación, gasto, ejecución y control que, en materia de adquisiciones, arrendamientos y prestación de servicios realicen el Poder Ejecutivo del Estado y los Gobiernos Municipales, a través de sus titulares o de quien los presida y represente en el caso de los Ayuntamientos, de las unidades administrativas que dependan directamente de aquéllos, de las dependencias de la Administración Pública centralizada Estatal y Municipal y de las entidades paraestatales y paramunicipales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+I. Las acciones relativas a la planeación, programación, presupuestación, contratación, gasto, ejecución y control que, en materia de adquisiciones, arrendamientos y prestación de servicios, así como en las diversas modalidades de cada una de éstas realicen el Poder Ejecutivo del Estado y los Gobiernos Municipales, a través de sus titulares o de quien los presida y represente en el caso de los Ayuntamientos, de las unidades administrativas que dependan directamente de aquéllos, de las dependencias de la Administración Pública centralizada Estatal y Municipal y de las entidades paraestatales y paramunicipales;
 
 II. Los tipos, procedimientos y formalidades de adjudicación de contratos administrativos y las excepciones a los mismos;
 
@@ -85,11 +89,13 @@ III. Los requisitos, formas, modalidades y garantías necesarios para contratar 
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-IV.- La integración, atribuciones y funcionamiento de los Comités de los Gobiernos Municipales;
+IV. La integración, atribuciones y funcionamiento de los Comités de los Gobiernos Municipales;
 
 V. El Padrón de Proveedores del Gobierno del Estado y el de los Municipios;
 
-VI. La calificación de los proveedores, en el sentido de analizar correctamente el debido cumplimiento de todos los requisitos para participar en los procedimientos regulados por esta Ley y de no aplicar disposiciones o criterios discriminatorios, cuidando de proporcionar a todos ellos igual acceso a la información respecto de las adquisiciones, arrendamientos y prestación de servicios que se pretenda adjudicar;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+VI. La calificación de los proveedores, en el sentido de analizar correctamente el debido cumplimiento de todos los requisitos para participar en los procedimientos regulados por esta Ley y de no aplicar disposiciones o criterios discriminatorios, cuidando proporcionar a todos ellos igual acceso a la información respecto de las adquisiciones, arrendamientos y prestación de servicios, así como de las diversas modalidades de cada uno de éstos que se pretendan adjudicar;
 
 VII. Los actos de información, seguimiento y verificación en la adjudicación, el cumplimiento de convenios, contratos y pedidos otorgados conforme a esta Ley y el manejo de almacenes, a cargo de las autoridades y órganos respectivos;
 
@@ -135,7 +141,9 @@ VII. Contralorías Municipales: las contralorías de los Municipios del Estado;
 
 VIII. Contratante: la dependencia, entidad o ayuntamiento de que se trate y que sea el usuario final del bien o servicio contratado;
 
-IX. Convocante: los Comités de Adjudicaciones;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+IX. Convocante: la Secretaria y los Comités Municipales;
 
 X. Convocatoria: la publicación que se efectúa para dar a conocer los datos generales de una licitación pública;
 
@@ -155,19 +163,33 @@ XVII. Presupuesto de Egresos: el presupuesto de egresos del Estado y de cada uno
 
 XVIII. Propuesta: proposición que se expone en un procedimiento de adjudicación y que se ofrece en alguna de las formas previstas por esta Ley, para su análisis y valoración en sus aspectos técnicos y económicos;
 
-XIX. Proveedor: la persona física o moral que celebre contratos o pedidos de adquisiciones, arrendamientos o servicios conforme a esta Ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+XIX. Proveedor: la persona física o moral que celebre contratos o pedidos de adquisiciones, arrendamientos o servicios en sus diversas modalidades conforme a esta Ley;
 
-XX.- Secretaría: La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-XXI. SEDECAP: la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública; y
+XX. Proyecto para prestación de servicios a largo plazo: aquél en que un Proveedor se obliga a prestar, a largo plazo, con financiamiento privado, uno o varios servicios consistentes de manera enunciativa en el diseño, disponibilidad de espacio, operación, mantenimiento o administración, sobre bienes propios o de un tercero, incluyendo el sector público, o provea dichos activos por sí o a través de un tercero, incluyendo el sector público, a cambio de una contraprestación pagadera por la Contratante por los servicios proporcionados y según el desempeño del Proveedor.
 
-XXII. Tratados: los convenios regidos por el Derecho Internacional Público, celebrados por escrito entre el gobierno de los Estados Unidos Mexicanos y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias específicas, cualquiera que sea su denominación.
+Para efectos de esta fracción, se entenderá como largo plazo, un periodo no menor a tres años ni mayor a treinta años;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXI. Secretaría: la Secretaría de Finanzas y Administración;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXII. SEDECAP: la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXIII. Tratados: los convenios regidos por el Derecho Internacional Público, celebrados por escrito entre el Gobierno de los Estados Unidos Mexicanos y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias especificas, cualquiera que sea su denominación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 7.
 
-Para los fines de este ordenamiento, entre las adquisiciones, arrendamientos y servicios sujetos a su regulación, quedan comprendidos:
+Para los fines de este ordenamiento, entre las adquisiciones, arrendamientos y servicios sujetos a su regulación, quedan comprendidas las modalidades siguientes:
 
 I. Las adquisiciones y los arrendamientos de bienes muebles que realicen la Administración Pública Estatal y la Municipal;
 
@@ -183,9 +205,17 @@ VI. La reconstrucción, reparación y mantenimiento de bienes muebles, maquila, 
 
 VII. La prestación de servicios profesionales, así como la contratación de asesorías, consultorías, investigaciones, estudios y otros trabajos para la elaboración de proyectos, excepto la contratación de servicios personales bajo el régimen de honorarios y los relativos a obra pública;
 
-VIII. Los contratos de arrendamiento financiero de bienes muebles; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-IX. En general, los actos de cualquier naturaleza cuya ejecución genere una obligación de pago o entrega para las dependencias y entidades, cuyo procedimiento de contratación no se encuentre regulado en forma específica por otras disposiciones legales.
+VIII. Los contratos de arrendamiento financiero de bienes muebles;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+IX. Los contratos para la instrumentación de proyectos para prestación de servicios a largo plazo; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+X. En general, los actos de cualquier naturaleza cuya ejecución genere una obligación de pago o entrega para las dependencias y entidades, cuyo procedimiento de contratación no se encuentre regulado en forma específica por otras disposiciones legales.
 
 ###### ARTÍCULO 8.
 
@@ -547,43 +577,47 @@ La integración y el funcionamiento definitivos de los Comités Municipales debe
 
 Las dependencias y entidades de la Administración Pública Estatal y Municipal, tendrán las siguientes obligaciones genéricas:
 
-I. Programar sus adquisiciones, arrendamientos y contratación de servicios, en razón de sus necesidades reales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+I. Programar la contratación de adquisiciones, arrendamientos y servicios, en razón de sus necesidades reales;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-II.- Observar la normatividad que en cada ámbito emitan la Secretaría y los órganos de gobierno de los Comités Municipales, para mejorar los sistemas y procedimientos regulados por esta Ley;
+II. Observar la normatividad que en cada ámbito emitan la Secretaría y los órganos de gobierno de los Comités Municipales, para mejorar los sistemas y procedimientos regulados por esta Ley;
 
 III. Comunicar de inmediato a las áreas que elaboren el contrato o pedido respectivo, las irregularidades que adviertan en relación con los actos materia de esta Ley;
 
-IV. Conservar copias de la documentación relativa a todas las adquisiciones, arrendamientos y contratación de servicios, así como sobre cualquier otro acto que grave o afecte los bienes del Poder Ejecutivo o Ayuntamiento de que se trate, en la forma y términos fijados por el artículo 132 de esta Ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+IV. Conservar copia de la documentación relativa a todas las contrataciones de adquisiciones, arrendamientos y servicios, así como sobre cualquier otro acto que grave o afecte los bienes del Poder Ejecutivo o Ayuntamiento de que se trate, en la forma y términos fijados por el artículo 132 de esta Ley;
 
 V. Seguir los procedimientos establecidos de acuerdo con esta Ley, para la verificación de calidad de los bienes y precios de contratación;
 
 VI. Realizar las acciones necesarias para el aseguramiento, protección y custodia de los bienes a su cargo y sobre los que tenga posesión legítima, así como preservar los bienes adquiridos o arrendados en condiciones apropiadas de operación, mantenimiento y conservación, debiendo vigilar que los mismos se destinen al cumplimiento de los programas y fines para los cuales fueron procurados;
 
-VII. Mantener actualizado el control de sus inventarios y aplicar los sistemas de control de existencias, manejo de materiales, utilización de áreas de almacenaje, despacho y transporte e indicadores de consumo por áreas y productos; y
+VII. Mantener actualizado el control de sus inventarios y aplicar los sistemas de control de existencias, manejo de materiales, utilización de áreas de almacenaje, despacho y transporte e indicadores de consumo por áreas y productos; y (sic)
 
-VIII. En general, cumplir con las normas y resoluciones que se emitan conforme a esta Ley, sin perjuicio de la autonomía de gestión que cada una posea.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
-
-IX.- Remitir a la Secretaría o al Comité Municipal para los efectos de la debida integración del expediente respectivo, dentro de un plazo no mayor a diez días hábiles, copias de los pedidos formalizados, de los contratos que se celebren, de las modificaciones que a éstos se les realicen, así como de la fianza o garantía que se otorgue;
+VIII. En general, cumplir con las normas y resoluciones que se emitan conforme a esta Ley, sin perjuicio de la autonomía de gestión que cada una posea;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-X.- Remitir oportunamente a la Secretaría o al Comité Municipal las requisiciones respectivas, en la inteligencia de que éstas sólo se recibirán dentro de los primeros nueve meses del ejercicio fiscal respectivo, sin perjuicio de que cuando concurran circunstancias excepcionales, la Secretaría o el Comité Municipal, previa evaluación de las mismas, podrá admitir requisiciones fuera del término fijado en esta fracción;
+IX. Remitir a la Secretaría o al Comité Municipal para los efectos de la debida integración del expediente respectivo, dentro de un plazo no mayor a diez días hábiles, copias de los pedidos formalizados, de los contratos que se celebren, de las modificaciones que a éstos se les realicen, así como de la fianza o garantía que se otorgue;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-XI.- Informar a la Secretaría o al Comité Municipal dentro de los diez días naturales siguientes a aquél en que se realicen adquisiciones, arrendamientos y contratación de servicios fundamentados en la sección dos, del capítulo segundo, del Título Primero de esta Ley;
+X. Remitir oportunamente a la Secretaría o al Comité Municipal las requisiciones respectivas, en la inteligencia de que éstas sólo se recibirán dentro de los primeros nueve meses del ejercicio fiscal respectivo, sin perjuicio de que cuando concurran circunstancias excepcionales, la Secretaría o el Comité Municipal, previa evaluación de las mismas, podrá admitir requisiciones fuera del término fijado en esta fracción;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-XII.- Comunicar a la Secretaría o al Comité Municipal, la recepción de bienes o comienzo de servicios; en el caso de los bienes, estarán obligadas a mantenerlos en bodega por un lapso de veinticuatro horas contadas a partir de que la Secretaría o el Comité Municipal haya recibido oportunamente el aviso de llegada de éstos, a fin de que ejercite sus facultades de revisión. Para los casos en que por la naturaleza de los bienes o la urgencia de su utilización esta permanencia no sea posible, con la debida anticipación se hará del conocimiento de la Secretaría o del Comité Municipal, a fin de planear una recepción conjunta de los bienes; y
+XI. Informar a la Secretaría o al Comité Municipal dentro de los diez días naturales siguientes a aquél en que se realicen adquisiciones, arrendamientos y contratación de servicios fundamentados en la sección dos, del capítulo segundo, del Título Primero de esta Ley;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-XIII.- Comunicar oportunamente a la Secretaría de los cambios en la planeación a la que se refiere el artículo 56.
+XII. Comunicar a la Secretaría o al Comité Municipal, la recepción de bienes o comienzo de servicios; en el caso de los bienes, estarán obligadas a mantenerlos en bodega por un lapso de veinticuatro horas contadas a partir de que la Secretaría o el Comité Municipal haya recibido oportunamente el aviso de llegada de éstos, a fin de que ejercite sus facultades de revisión. Para los casos en que por la naturaleza de los bienes o la urgencia de su utilización esta permanencia no sea posible, con la debida anticipación se hará del conocimiento de la Secretaría o del Comité Municipal, a fin de planear una recepción conjunta de los bienes; y
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+XIII. Comunicar oportunamente a la Secretaría de los cambios en la planeación a la que se refiere el artículo 56.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -636,6 +670,10 @@ Las dependencias y entidades o los Ayuntamientos, en su caso, previamente al arr
 Las dependencias, entidades o los Ayuntamientos, en su caso, no podrán financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de las propias dependencias o entidades, salvo que, de manera excepcional y por tratarse de proyectos de infraestructura, se obtenga la autorización previa y específica de la Secretaría y de la SEDECAP, en el ámbito estatal, o de la Tesorería y la Contraloría Municipal, en este ámbito. No se considerará como operación de financiamiento, el otorgamiento de anticipos, los cuales, en todo caso, no podrán exceder el cincuenta por ciento del monto total y deberán garantizarse en los términos del artículo 126 de esta Ley.
 
 Tratándose de bienes cuyo proceso de fabricación sea superior a 90 días, la contratante deberá otorgar por lo menos el veinte por ciento de anticipo, salvo la existencia de causas que impidan a la adquiriente hacerlo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+En los contratos para la instrumentación de proyectos para prestación de servicios a largo plazo, no se otorgarán anticipos, bajo cualquier denominación, salvo que se demuestre que el otorgarlo tiene un impacto positivo significativo en el análisis costo-beneficio; asimismo, no se deberán pactar pagos anteriores al momento en que el Proveedor realice la prestación de los servicios.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -714,6 +752,10 @@ Para la adjudicación a que se refiere esta Ley, se requerirá el oficio de auto
 ###### ARTÍCULO 59.
 
 En los contratos de adquisiciones, arrendamientos y servicios, cuya vigencia rebase un ejercicio presupuestal, las dependencias o entidades deberán determinar tanto el presupuesto total como el relativo a los ejercicios de que se trate. En la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento, se encuentren vigentes, y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+En los contratos para la instrumentación de proyectos para prestación de servicios a largo plazo, las dependencias o entidades deberán observar lo establecido en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público y demás disposiciones aplicables.
 
 ###### ARTÍCULO 60.
 
@@ -800,6 +842,10 @@ IV.- Los montos de las operaciones o contratos, superiores a las señaladas en l
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
 V.- Los montos mínimos de las operaciones o contratos que la Secretaría o los Comités Municipales deberán adjudicar mediante licitación pública.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Lo dispuesto en el presente artículo, no aplicará para los contratos de proyectos para prestación de servicios a largo plazo, sin perjuicio de que deba observarse lo previsto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público.
 
 ###### ARTÍCULO 68.
 
@@ -925,7 +971,9 @@ SECCIÓN UNO: DE LAS CONVOCATORIAS Y LAS BASES DE LICITACIÓN
 
 El procedimiento de licitación pública iniciará con la publicación de la convocatoria respectiva, cuya emisión será responsabilidad, según el caso, de la Secretaría o del Comité Municipal, al que corresponda la adjudicación del contrato.
 
-Las convocatorias se deben publicar por lo menos en un diario de circulación nacional o al menos estatal en el caso de los Municipios, así como en el Diario Oficial de la Federación si se trata de una licitación internacional, sin perjuicio de hacerlo también en el Periódico Oficial del Estado si el convocante lo considera conveniente, mínimo con una anterioridad de diez días previos a la celebración del primer evento de la licitación, salvo cuando existan razones justificadas que impidan observar dicho plazo, en cuyo caso éste podrá reducirse a no menos de tres días naturales a juicio del convocante.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+La Secretaría deberá publicar las convocatorias cuando menos en un diario de circulación nacional y en el de mayor circulación estatal; en su caso, el Comité Municipal lo hará por lo menos en este último. Tratándose de una licitación internacional, la convocante la publicará en el Diario Oficial de la Federación, sin perjuicio de hacerlo también en el Periódico Oficial del Estado si lo considera conveniente, mínimo con una anterioridad de diez días previos a la celebración del primer evento de la licitación, salvo cuando existan razones justificadas que impidan observar dicho plazo, en cuyo caso éste podrá reducirse a no menos de tres días naturales a juicio del convocante.
 
 ###### ARTÍCULO 79.
 
@@ -955,9 +1003,17 @@ IX. Los requisitos para acreditar la solvencia económica y financiera;
 
 X. Cuando proceda, el tiempo y lugar de entrega de los productos, de la celebración del acto jurídico correspondiente o de la realización de los servicios objeto de la licitación;
 
-XI. La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 77 de esta Ley; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-XII. En el caso de arrendamiento, la indicación de si éste es con o sin opción a compra, y los términos de la misma.
+XI. La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 77 de esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XII. En el caso de arrendamiento, la indicación de si éste es con o sin opción a compra, y los términos de la misma; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XIII. En el caso de proyectos para prestación de servicios a largo plazo, la indicación de si éste es con o sin opción a compra de los bienes que se utilicen para su instrumentación, para el caso de que éstos sean activos del Proveedor o de un tercero.
 
 ###### ARTÍCULO 80.
 
@@ -1011,9 +1067,17 @@ XXI. Las causas que originen la declaración de licitación desierta;
 
 XXII. En el caso de la contratación de arrendamiento, la indicación si al finalizar existe la opción a compra o no, y los términos de la misma;
 
-XXIII. La indicación de que el licitante que no firme el contrato por causas imputables al mismo será sancionado en los términos del artículo 136 de esta Ley; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-XXIV. En su caso, los términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las propuestas sean enviadas a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, considerando que el hecho de que los licitantes opten por utilizar alguno de estos medios para enviar sus propuestas no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación.
+XXIII. En el caso de proyectos para prestación de servicios a largo plazo, la indicación de si éste es con o sin opción a compra de los bienes que se utilicen para su instrumentación, para el caso de que éstos sean activos del Proveedor o de un tercero;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXIV. La indicación de que el licitante que no firme el contrato por causas imputables al mismo será sancionado en los términos del artículo 136 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXV. En su caso, los términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las propuestas sean enviadas a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, considerando que el hecho de que los licitantes opten por utilizar alguno de estos medios para enviar sus propuestas no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación.
 
 Para la participación, adjudicación y contratación en adquisiciones, arrendamientos o servicios, no podrá exigirse a los licitantes el cumplimiento de requisitos distintos a los previstos en la presente Ley.
 
@@ -1105,9 +1169,11 @@ I. No serán objeto de evaluación, las condiciones establecidas en la convocato
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-II.- En la evaluación de las propuestas, en ningún caso podrán utilizarse mecanismos de puntos o porcentajes, excepto cuando se trate de servicios, en los que se demuestre la conveniencia de aplicar dichos mecanismos para evaluar objetivamente la solvencia de las propuestas, de acuerdo con los lineamientos que para tal efecto emita la Secretaría o el Comité Municipal respectivo;
+II. En la evaluación de las propuestas, en ningún caso podrán utilizarse mecanismos de puntos o porcentajes, excepto cuando se trate de servicios, en los que se demuestre la conveniencia de aplicar dichos mecanismos para evaluar objetivamente la solvencia de las propuestas, de acuerdo con los lineamientos que para tal efecto emita la Secretaría o el Comité Municipal respectivo;
 
-III. Dentro de los criterios de adjudicación, podrá establecerse el relativo a costo beneficio, siempre y cuando sea definido, medible y aplicable a todas las propuestas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+III. Dentro de los criterios de adjudicación, podrá establecerse el relativo a costo beneficio, siempre y cuando sea definido, medible y aplicable a todas las propuestas, excepto cuando se trate de un proyecto para prestación de servicios a largo plazo, en cuyo caso, será indispensable el establecimiento de dicho criterio;
 
 IV. Se adjudicará el contrato, de entre los licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas exigidas, considerando en particular los aspectos de calidad requeridos por la solicitante, y que garantice satisfactoriamente el cumplimiento de las obligaciones respectivas; y
 
@@ -1305,6 +1371,10 @@ Si el proveedor a quien se hubiere adjudicado el contrato como resultado de una 
 
 En este supuesto la misma adjudicante, sin necesidad de un nuevo procedimiento, podrá adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 86 de esta Ley, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior al monto autorizado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de proyectos para prestación de servicios a largo plazo, el Contrato podrá ser adjudicado al segundo lugar de la licitación y así sucesivamente, siempre y cuando la propuesta económica de éste siga representando un beneficio para la Contratante de conformidad con el análisis costo-beneficio a que se refiere el artículo 130-I de la presente Ley.
+
 ###### ARTÍCULO 106.
 
 El proveedor a quien se hubiere adjudicado el contrato no estará obligado a suministrar los bienes o prestar el servicio, si la contratante, por causas imputables a ésta, no firmare el contrato. En este supuesto, la dependencia o entidad, a solicitud escrita del licitante, cubrirá los gastos no recuperables en que hubiere incurrido para preparar y elaborar su propuesta, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
@@ -1385,6 +1455,12 @@ En los contratos que celebren las dependencias y entidades, en lo referente a mo
 
 No obstante lo anterior, en casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula o mecanismo de ajuste que determine la adjudicante previamente en las bases de licitación. En ningún caso procederán ajustes que no hayan sido considerados en dichas bases.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Lo previsto en el párrafo que antecede, no será aplicable a los contratos de proyectos para prestación de servicios a largo plazo, en los que invariablemente se establecerán las fórmulas y metodologías para la aplicación de deducciones a los pagos del proveedor, según el servicio prestado y el desempeño de éste, en términos de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
 
 ###### ARTÍCULO 112.
@@ -1401,11 +1477,23 @@ Cualquier modificación a los contratos deberá formalizarse por escrito por par
 
 Las dependencias y entidades se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 113-A.
+
+Para la modificación de contratos de proyectos para prestación de servicios a largo plazo, la Contratante deberá contar de manera previa con la autorización de la Secretaría o del Ayuntamiento, según corresponda.
+
+Una vez autorizadas las modificaciones al contrato respectivo y para el caso de que éstas impliquen un incremento en el presupuesto originalmente autorizado, la Secretaría o el Ayuntamiento según corresponda, realizarán las adecuaciones presupuestarias correspondientes y se informará de éstas al rendir la Cuenta Pública respectiva.
+
 SECCIÓN TRES: DERECHOS Y OBLIGACIONES DERIVADOS DE LOS CONTRATOS
 
 ###### ARTÍCULO 114.
 
 Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial ni total en favor de cualquier otra persona física o moral, con excepción de los derechos de cobro, en cuyo caso se deberá contar con el consentimiento de la dependencia o entidad de que se trate, o del Ayuntamiento, en su defecto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Tratándose de contratos de proyectos para prestación de servicios a largo plazo, los derechos de cobro, sólo podrán cederse en forma total o parcial a favor de personas físicas o jurídicas, siempre y cuando se cuente con autorización previa de la Secretaría o del Ayuntamiento y dicha cesión se realice a favor de los acreedores del Proveedor que hayan otorgado financiamiento total o parcial para la instrumentación del Proyecto.
 
 ###### ARTÍCULO 115.
 
@@ -1463,9 +1551,11 @@ IV. La determinación de dar o no por rescindido el contrato deberá ser comunic
 
 V. Cumplida la notificación, se deberá remitir copia de la resolución a la SEDECAP o a la Contraloría Municipal, según el caso, mediante un informe en el que se establezca los motivos que se tuvieron para resolver en la forma en que se hubiere hecho.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 123.
 
-En caso de rescisión por causas imputables al proveedor, desde el inicio del procedimiento previsto en el artículo anterior, la dependencia o entidad se abstendrá de cubrir los importes correspondientes a trabajos realizados y no liquidados, hasta que se otorgue el finiquito que proceda, lo que deberá efectuarse dentro del término de treinta días naturales, contados a partir de la fecha de comunicación de la determinación, a fin de proceder a hacer efectivas las garantías.
+En caso de rescisión por causas imputables al Proveedor, desde el inicio del procedimiento previsto en el artículo anterior, la dependencia o entidad se abstendrá de cubrir los importes correspondientes a trabajos realizados o servicios prestados y no liquidados, hasta que se otorgue el finiquito que proceda, lo que deberá efectuarse dentro del término de treinta días naturales, contados a partir de la fecha de comunicación de la determinación, a fin de proceder a hacer efectivas las garantías.
 
 ###### ARTÍCULO 124.
 
@@ -1509,9 +1599,17 @@ La Secretaría, el Comité Municipal, las dependencias y las entidades adjudican
 
 I. Cuando se adjudique el pedido o contrato directamente o por invitación, a campesinos o grupos marginados y que se contrate directamente con los mismos o con las personas morales constituidas con ellos;
 
-II. Si el pago del monto total de un pedido o contrato de cumplimiento sucesivo debe realizarse hasta la entrega o cumplimiento final del mismo y se sujeta, además, a que la recepción de los bienes o trabajos se haga a entera satisfacción de la contratante; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-III. Si el monto del pedido o contrato no justifican el otorgamiento de la garantía.
+II. Si el pago del monto total de un pedido o contrato de cumplimiento sucesivo debe realizarse hasta la entrega o cumplimiento final del mismo y se sujeta, además, a que la recepción de los bienes o trabajos se haga a entera satisfacción de la contratante;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+III. Si el monto del pedido o contrato no justifican el otorgamiento de la garantía; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+IV. Cuando los servicios a contratar tengan por objeto la promoción a la cultura.
 
 ###### ARTÍCULO 128.
 
@@ -1543,13 +1641,297 @@ V. Copia de la demanda, escrito de inconformidad o de cualquier otro recurso leg
 
 VI. Los demás documentos que estimen necesarios y los que la Secretaría o la Tesorería Municipal, según corresponda, determinen de manera general y específica.
 
-### CAPÍTULO I. INFORMACIÓN Y VERIFICACIÓN
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+### CAPÍTULO III. DE LA CONTRATACIÓN DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS A LARGO PLAZO
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+SECCIÓN UNO
+
+DE LAS CARACTERÍSTICAS DE LOS PROYECTOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-A.
+
+Los proyectos para prestación de servicios a largo plazo, deberán cumplir con los requisitos siguientes:
+
+I.- Que su instrumentación implique la formalización de un contrato en el que se estipule el pago de una contraprestación al Proveedor por los servicios que preste y según su desempeño;
+
+II.- Que la prestación de los servicios del Proveedor coadyuve a su vez con la prestación de los servicios públicos que tiene encomendados la Contratante, conforme a lo previsto en las disposiciones legales y administrativas aplicables;
+
+III.- Que la prestación de los servicios por parte del Proveedor, se realice con activos propios o de un tercero, incluyendo el sector público, debiendo contar con el título legal que le permita utilizar los mismos; y
+
+IV.- Que el Proveedor se responsabilice de la inversión y el financiamiento, que en su caso, requiera para su desarrollo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-B.
+
+La Contratante que pretenda instrumentar un proyecto para prestación de servicios a largo plazo, deberá contar previamente con la autorización de la Secretaría o el Ayuntamiento según corresponda.
+
+La Secretaría o los Ayuntamientos, en el ámbito de sus respectivas competencias, para considerar la instrumentación de un proyecto para prestación de servicios a largo plazo, deberán dictaminar los beneficios que se obtendrán, con base en:
+
+I.- Las características del proyecto que se está analizando;
+
+II.- El Análisis Costo-Beneficio;
+
+III.- El impacto que en las finanzas públicas tendrían las obligaciones de pago que pretendan establecerse en el Contrato; y
+
+IV.- La congruencia del proyecto con las directrices establecidas en el Plan Estatal o Municipal de Desarrollo, según corresponda.
+
+En las autorizaciones a que se refiere este artículo, se podrá requerir que la Contratante exija una inversión de capital mínima por parte del Proveedor, sin perjuicio de que la Secretaría o los Ayuntamientos, emitan lineamientos sobre los montos de inversión de capital mínimos que se requerirán para cada tipo de proyecto para prestación de servicios a largo plazo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+SECCIÓN DOS
+
+DE LA AUTORIZACIÓN DE LOS PROYECTOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-C.
+
+Para la instrumentación de un proyecto para prestación de servicios a largo plazo, la Contratante deberá presentar ante la Secretaría o los Ayuntamientos según corresponda, la respectiva solicitud de autorización.
+
+La autorización de referencia, se entenderá otorgada exclusivamente para efectos de que la Contratante continúe con la elaboración de la documentación necesaria para llevar a cabo el procedimiento de adjudicación correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-D.
+
+En la solicitud de autorización a que se refiere el artículo anterior, la Contratante deberá incluir cuando menos, la siguiente información:
+
+I.- La descripción pormenorizada del proyecto para prestación de servicios a largo plazo;
+
+II.- Los requerimientos de servicios que se pretenden contratar;
+
+III.- La justificación de que el proyecto para prestación de servicios a largo plazo guarda congruencia con el Plan Estatal o Municipal de Desarrollo vigente, según corresponda, así como con los programas institucionales, regionales, sectoriales y especiales de la Contratante;
+
+IV.- La viabilidad jurídica y presupuestal del proyecto para prestación de servicios a largo plazo;
+
+V.- El Análisis Costo-Beneficio;
+
+VI.- El estudio de impacto presupuestal que tendrá el proyecto para prestación de servicios a largo plazo en el ejercicio fiscal en que solicite su autorización, así como en los ejercicios subsecuentes correspondientes a la vigencia del contrato respectivo;
+
+VII.- El procedimiento de adjudicación que se seguirá y la justificación para ello;
+
+VIII.- Un resumen de los elementos que en su caso contendrá el Contrato;
+
+IX.- La indicación de si el proyecto para prestación de servicios a largo plazo es con o sin opción a compra de los bienes que se utilicen para su instrumentación, para el caso de que éstos sean activos del Proveedor o de un tercero;
+
+X.- La situación jurídica de los bienes con los que el Proveedor prestará los servicios a contratarse;
+
+XI.- La vigencia del Contrato;
+
+XII.- Un análisis de los riesgos que asumirán tanto la Contratante como el Proveedor, así como las consecuencias económicas para ambas partes;
+
+XIII.- La manifestación de la necesidad de otorgar alguna garantía al proveedor, siempre que ésta sea indispensable para la viabilidad del proyecto, acompañando la justificación correspondiente; y
+
+XIV.- Las obligaciones que asumirán tanto la Contratante como el Proveedor en caso de terminación anticipada o rescisión del Contrato.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-E.
+
+Para efectos de la autorización a que se refiere el artículo 130-C de la presente Ley, la Secretaría o el Ayuntamiento, según corresponda, evaluará el impacto del proyecto en el gasto específico de la Contratante correspondiente, así como en el presupuesto del Estado o del Municipio con base en los lineamientos que emita, y si conforme al análisis practicado resultare que se compromete la salud financiera de la Estatal o Municipal o la sustentabilidad del gasto público en general, rechazará el desarrollo del proyecto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-F.
+
+En caso de que la Contratante en la solicitud de autorización del proyecto hubiere manifestado la necesidad de otorgar alguna garantía al Proveedor, la Secretaría o el Ayuntamiento, según sea el caso, evaluarán la procedencia de su otorgamiento, la naturaleza de la misma y en su caso, rechazará la solicitud que a su juicio considere innecesaria o inconveniente para los intereses del Estado o del Municipio.
+
+En caso de que la Secretaría o el Ayuntamiento, determinen la procedencia del otorgamiento de alguna garantía, definirá la naturaleza de ésta y sus características.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-G.
+
+De autorizarse el proyecto para prestación de servicios a largo plazo por la Secretaría o los Ayuntamientos, éstos lo enviarán por conducto del Ejecutivo Estatal al H. Congreso del Estado para que autorice las previsiones presupuestales que habrán de considerarse en sus respectivos Presupuestos de Egresos de cada uno de los Ejercicios Fiscales que comprenda la vigencia del contrato correspondiente.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+SECCIÓN TRES
+
+DEL ANÁLISIS COSTO-BENEFICIO DE LOS PROYECTOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-H.
+
+La Secretaría o los Ayuntamientos, emitirán la normatividad y metodología a la que las Contratantes deberán sujetarse para realizar el Análisis Costo-Beneficio para la instrumentación del proyecto para prestación de servicios a largo plazo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-I.
+
+Una vez realizado el Análisis Costo-Beneficio, la Contratante deberá demostrar con éste, que la instrumentación del proyecto para prestación de servicios a largo plazo, generará beneficios iguales o mayores a los que se obtendrían en caso de que el mismo fuere ejecutado directa o indirectamente por ésta.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+SECCIÓN CUATRO
+
+DE LOS BIENES QUE PODRÁN UTILIZARSE EN LA INSTRUMENTACIÓN DE LOS PROYECTOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-J.
+
+Para la instrumentación de un proyecto para prestación de servicios a largo plazo, el Estado y los Ayuntamientos podrán autorizar el uso y/o aprovechamiento gratuito u oneroso de sus bienes o en su caso, de aquéllos que tengan asignados previa autorización de la autoridad competente y en el caso de Entidades, de su órgano de gobierno, respecto de aquellos bienes que formen parte de su patrimonio.
+
+En la autorización que se otorgue, se especificará que la misma es para efectos de que el bien se utilice única y exclusivamente para la instrumentación del proyecto para prestación de servicios a largo plazo y durante la vigencia del mismo, cesando cualquier derecho en beneficio del Proveedor al término del Contrato, ya sea a su vencimiento natural o anticipado, o en su caso, por rescisión.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-K.
+
+El título legal a través del cual se otorgue el uso y/o aprovechamiento de bienes muebles o inmuebles para la instrumentación de un proyecto para prestación de servicios a largo plazo, deberá tener una vigencia igual a la del contrato por el que se formalice dicho proyecto.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+SECCIÓN CINCO
+
+DE LA ADMINISTRACIÓN DE LOS PROYECTOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-L.
+
+En la instrumentación de cada proyecto para prestación de servicios a largo plazo, la Contratante designará a un servidor público que desempeñará el cargo de administrador del proyecto, el cual será responsable de:
+
+I.- Coordinar los trabajos que se requieran para llevar a cabo el proyecto, incluyendo la presentación de solicitudes de autorizaciones y la estructuración del Contrato;
+
+II.- Asegurarse de que la información utilizada para la elaboración del proyecto y la documentación presentada para las autorizaciones correspondientes, sea veraz y confiable;
+
+III.- Cerciorarse de que el proyecto se apegue a las disposiciones de esta Ley y demás ordenamientos aplicables;
+
+IV.- Presentar la información y documentación que le sea requerida respecto del proyecto;
+
+V.- Durante el desarrollo del proyecto y la vigencia del Contrato, fungir como enlace entre la Contratante y el Proveedor; y
+
+VI.- Integrar y resguardar durante la vigencia del proyecto, toda la documentación e información relacionada con el mismo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+SECCIÓN SEIS
+
+CARACTERÍSTICAS Y ELEMENTOS DE LOS PROYECTOS DE CONTRATOS PARA LA INSTRUMENTACIÓN DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS A LARGO PLAZO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-M.
+
+Una vez autorizada la instrumentación del proyecto para prestación de servicios a largo plazo, la Contratante procederá a la elaboración del proyecto de contrato, el cual deberá ser congruente con la documentación e información materia de la autorización a que se refiere el artículo 130-D de esta Ley.
+
+El proyecto de contrato deberá contener, además de los elementos señalados en el artículo 107 de esta Ley, los siguientes:
+
+I.- El plazo para dar inicio a la prestación de los servicios;
+
+II.- Los parámetros de evaluación y supervisión aplicables a cada uno de los servicios;
+
+III.- La forma de pago, precisando las cantidades que correspondan a cada ejercicio fiscal;
+
+IV.- Las causales de terminación anticipada y causas de rescisión del Contrato en que puedan incurrir cualesquiera de las partes;
+
+V.- Las obligaciones que deban asumir la Contratante y el Proveedor en caso de terminación anticipada o rescisión del Contrato;
+
+VI.- Los actos o hechos que puedan generar una modificación al precio del Contrato y la manera de calcular los incrementos o decrementos;
+
+VII.- Las responsabilidades que asumirán las partes y, en su caso, las condiciones para cualquier pago que surja de las mismas o la liberación de éstas;
+
+VIII.- Las coberturas y seguros que serán contratados obligatoriamente por el Proveedor;
+
+IX.- Las fórmulas y metodologías para la evaluación del cumplimiento de las obligaciones del Proveedor, incluyendo la aplicación de deducciones a los pagos que deba realizar la Contratante;
+
+X.- Los medios de consulta y referencia a la solución de controversias entre las partes, debiendo contemplar mecanismos de conciliación;
+
+XI.- La obligación del Proveedor de proporcionar la información relacionada con el Contrato que le soliciten las instancias de control, excepto aquella información protegida por derechos de autor, que constituya propiedad intelectual, patentes o secretos industriales, o que esté obligado a no divulgar, en términos de las disposiciones legales aplicables;
+
+XII.- Que los derechos de propiedad intelectual u otros derechos exclusivos que se deriven de los servicios contratados invariablemente se constituirán en favor de la Contratante, salvo que ésta autorice expresamente que permanezcan en favor del Proveedor o cualesquiera de los contratistas o proveedores de éste;
+
+XIII.- La obligación del Proveedor de responder de los defectos y vicios ocultos de los bienes y la calidad de los servicios, así como de cualquier otra responsabilidad en que pudiera incurrir;
+
+XIV.- Las penas convencionales a cargo del Proveedor por atraso en la fecha de inicio de la prestación de los servicios, en el entendido de que bajo ninguna circunstancia podrá prorrogarse el Contrato debido a retrasos que surjan por causas imputables a éste;
+
+XV.- El compromiso de revisar los términos del contrato y la periodicidad en que se llevará a cabo esta acción; y
+
+XVI.- Los demás que de acuerdo a la naturaleza de los servicios a contratar, resultaren necesarios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-N.
+
+Para el caso de que en el Contrato se prevea que el precio se encontrará sujeto a ajustes anuales, deberá establecerse la metodología de comprobación de incrementos, así como el mecanismo de ajuste y/o el índice o índices aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130
+
+Ñ.- El Contrato podrá prever la posibilidad de que el Proveedor subcontrate alguno o varios de los servicios materia del proyecto para prestación de servicios a largo plazo, especificando, en su caso, las garantías de cumplimiento que los contratistas o subcontratistas o proveedores de éste, deban otorgar.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-O.
+
+En el caso de que los bienes con los que se prestarán los servicios materia del proyecto para prestación de servicios a largo plazo sean propiedad del Proveedor, la Contratante podrá establecer en el Contrato:
+
+I.- La transmisión de la propiedad de los mismos en favor del Estado o del Ayuntamiento, o en su caso, de la instancia pública que se determine al finalizar el contrato y sin necesidad de retribución alguna; o
+
+II.- La adquisición, forzosa u opcional, de dichos bienes por parte de la Contratante o de la instancia pública que se determine al finalizar el contrato.
+
+Para tales efectos, el Contrato deberá contener la forma en que se ejercerá la adquisición de bienes, así como la fórmula con que se determinará el precio de los mismos. Para el caso de que durante la vigencia del Contrato se presente alguno de los supuestos para su adquisición, ésta quedará sujeta a las disposiciones presupuestales aplicables en el momento de la operación.
+
+En ningún caso el Contrato tendrá por objeto principal la adquisición forzosa de los bienes con los que se prestarán los servicios.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+SECCIÓN SIETE
+
+DE LA AUTORIZACIÓN DEL PROYECTO DE CONTRATO PARA LA INSTRUMENTACIÓN DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS A LARGO PLAZO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-P.
+
+De manera previa a la formalización del contrato para la instrumentación de un proyecto para prestación de servicios a largo plazo, éstos deberán ser autorizados por la Secretaría o el Ayuntamiento, según corresponda, conforme al procedimiento que establezcan para tal efecto.
+
+Una vez autorizado el proyecto de Contrato, la Contratante podrá solicitar que se inicie el procedimiento para su adjudicación conforme a lo dispuesto en la presente Ley.
+
+Cualquier modificación que pudiere surgir como resultado de las juntas de aclaraciones o negociaciones con los posibles Proveedores, deberá presentarse para autorización de la Secretaría o del Ayuntamiento, según corresponda, en caso de que se modifiquen sustancialmente los términos originalmente presentados.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+SECCIÓN OCHO
+
+DE LOS PROCEDIMIENTOS DE ADJUDICACIÓN DE LOS CONTRATOS PARA LA INSTRUMENTACIÓN DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS A LARGO PLAZO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-Q.
+
+La Contratante podrá solicitar a las instancias competentes, que se lleve a cabo el procedimiento de adjudicación para contratar un proyecto para prestación de servicios a largo plazo, cuando cuenten de manera previa con:
+
+I.- La autorización del Proyecto por parte de la Secretaría o el Ayuntamiento;
+
+II.- La autorización del H. Congreso del Estado para la instrumentación del proyecto;
+
+III.- La autorización del proyecto de Contrato; y
+
+IV.- Las autorizaciones presupuestales respectivas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 130-R.
+
+La Secretaría y los Comités Municipales, adjudicarán los contratos para la instrumentación de proyectos para prestación de servicios a largo plazo, mediante alguno de los procedimientos previstos en este ordenamiento, con excepción del correspondiente a la adjudicación directa a que se refiere el artículo 19 de la presente Ley.
 
 ## TÍTULO SEXTO. PREVENCIONES ADMINISTRATIVAS
 
-### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO I. INFORMACIÓN Y VERIFICACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 131.
 
@@ -1557,9 +1939,11 @@ La Secretaría, el Comité Municipal, la SEDECAP, el Ayuntamiento o la Contralor
 
 La información a que se refiere este artículo deberá remitirse por las dependencias, entidades o Ayuntamientos, a la SEDECAP o Contraloría Municipal, según corresponda, preferentemente a través de medios magnéticos o remotos de comunicación electrónica, dependiendo de la naturaleza de los datos y conforme a las disposiciones administrativas que para tal efecto establezcan la propia SEDECAP o Contraloría Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 132.
 
-Las dependencias, entidades o Ayuntamientos conservarán en forma ordenada y sistemática toda la documentación comprobatoria de los actos y contratos materia de este ordenamiento, por un lapso no menor de tres años, contados a partir de la fecha de su recepción; excepto la documentación contable, en cuyo caso se estará a lo previsto por las disposiciones aplicables.
+Las dependencias, entidades o Ayuntamientos conservarán en forma ordenada y sistemática toda la documentación comprobatoria de los actos y contratos materia de este ordenamiento, por un lapso no menor de tres años, contados a partir de la fecha de su recepción; excepto la documentación contable, en cuyo caso se estará a lo previsto por las disposiciones aplicables, así como aquélla relativa a los proyectos para prestación de servicios a largo plazo, la que invariablemente deberá conservarse durante la vigencia del contrato y una vez concluida ésta, el tiempo que señalen las disposiciones que le resulten aplicables.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -1587,7 +1971,7 @@ La SEDECAP, la Secretaría, las Contralorías Municipales y los Comités Municip
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor y el representante de la adjudicante o el de la contratante, si hubieren intervenido. La falta de firma del proveedor no invalidará dicho dictamen.
 
-### CAPÍTULO III. DE LAS INCONFORMIDADES
+### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 135.
 
@@ -1669,7 +2053,7 @@ Los servidores públicos de las dependencias y entidades que, en el ejercicio de
 
 Las responsabilidades a que se refiere la presente Ley serán independientes de las de orden civil o penal que puedan derivar de la comisión de los mismos hechos.
 
-### CAPÍTULO IV. PROCEDIMIENTO DE CONCILIACIÓN
+### CAPÍTULO III. DE LAS INCONFORMIDADES
 
 ###### ARTÍCULO 143.
 
@@ -1730,6 +2114,8 @@ Por lo que se refiere a la fracción anterior, la Secretaría, el Comité Munici
 Cuando sea el inconforme quien solicite la suspensión prevista en el artículo anterior, éste deberá garantizar los daños y perjuicios que le pudiera ocasionar al patrimonio público o a terceros, mediante fianza a favor de la Secretaría o la Tesorería Municipal por el monto que fije la SEDECAP o la Contraloría Municipal, según corresponda, el cual no podrá ser inferior al 20% ni superior al 50% del valor del objeto del acto impugnado. Sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
 
 Si el acto que se impugna consiste en la imposición de multas por disposición de la presente Ley, la suspensión se otorgará siempre y cuando se garantice el interés fiscal del Estado o del Municipio de que se trate, en cualesquiera de las formas previstas en la legislación fiscal aplicable.
+
+### CAPÍTULO IV. PROCEDIMIENTO DE CONCILIACIÓN
 
 ###### ARTÍCULO 147.
 
@@ -1892,3 +2278,11 @@ Los servicios a que se refiere el artículo 34 de la Ley de Ingresos del Estado 
 ###### ARTÍCULO UNDÉCIMO.
 
 Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Titular de la Secretaría de Finanzas y Administración, determinará el área encargada de realizar las acciones que competan a dicha Dependencia en materia de proyectos para prestación de servicios a largo plazo.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
