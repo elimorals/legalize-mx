@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-paternidad-y-maternidad-responsable-del-estado-de-42447"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2004-12-16"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -45,7 +45,9 @@ LEY DE PATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS.
 
 1. La presente ley es de orden público, interés social y de observancia general en el Estado de Tamaulipas.
 
-2. Los beneficios que se deriven de esta ley, serán aplicables a todas las niñas y niños cuyo alumbramiento se hubiere verificado en el Estado de Tamaulipas; hayan sido registrados en cualquiera de las Oficialías del Registro Civil o en la Dirección General del Registro Civil del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+2. Los beneficios que se deriven de esta Ley, serán aplicables a todas las y los menores, cuyo alumbramiento se verifique en el territorio del Estado, y se registren en cualquiera de las Oficialías del Registro Civil del Estado.
 
 ###### ARTICULO 2.
 
@@ -55,7 +57,9 @@ La presente ley tiene por objeto garantizar el interés superior de las niñas y
 
 Para los efectos de este (sic) ley, se entenderá por:
 
-a) Acta del Registro Civil: Es el Instrumento público asentado en los libros del Registro Civil del Estado, que legitima a sus titulares en el ejercicio de las acciones y los derechos relacionados con el estado civil de las personas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+a) Acta del Registro Civil: es una forma valorada que contiene una certificación expedida por el Registro Civil, a través de la cual hace constar un acto o un hecho asentado en los libros de registro civil;
 
 b) Código Civil: El Código Civil para el Estado de Tamaulipas;
 
@@ -71,9 +75,17 @@ g) Reconocimiento: Medio Jurídico administrativo o judicial, por el cual se est
 
 h) Registro Civil: El Registro Civil u Oficialías del Registro Civil del Estado de Tamaulipas;
 
-i) Secretaría de Salud: La Secretaría de Salud del Estado de Tamaulipas; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-j) Tribunal: El Supremo Tribunal de Justicia del Estado de Tamaulipas.
+i) Secretaría de Salud: la Secretaría de Salud en el Estado de Tamaulipas;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+j) Tribunal: El Supremo Tribunal de en el Estado de Tamaulipas; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+k) Inscripción: Es el asiento constante en los libros del Registro Civil del Estado, que legitima a sus titulares en el ejercicio de las acciones y los derechos relacionados con su estado civil.
 
 ###### ARTICULO 10.
 
@@ -85,9 +97,11 @@ En el supuesto de que no se presenten ninguna de las partes a realizarse las pru
 
 2. La declaración administrativa, cualquiera que sea el sentido de ella, se deberá notificar personalmente a los interesados en los términos previstos en el código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 12.
 
-El trámite de inscripción del menor con los apellidos de ambos progenitores no excederá de treinta días hábiles.
+El procedimiento de inscripción del menor con los apellidos de uno o de ambos progenitores no excederá de treinta días hábiles.
 
 ### CAPITULO II. PROCEDIMIENTO SOBRE PRESUNCION DE PATERNIDAD
 
@@ -97,13 +111,17 @@ El Oficial del Registro Civil, deberá informar a la madre o padre sobre las dis
 
 ###### ARTICULO 5.
 
-1. Si al efectuar el registro de nacimiento de un menor habido fuera de matrimonio, comparece solamente la madre, y ésta presuma el no reconocimiento del padre, podrá solicitar el inicio del procedimiento sobre presunción de paternidad, firmando el acta o estampando su huella dactilar, e indicará el nombre del presunto padre.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+1. Si al efectuar el registro de nacimiento de un menor habido fuera de matrimonio, comparece solamente la madre, y ésta presuma el no reconocimiento del padre, podrá solicitar el inicio del procedimiento sobre presunción de paternidad en el municipio del Estado de Tamaulipas donde radica el presunto padre, firmando la solicitud o estampando su huella dactilar, e indicará el nombre, domicilio y cualquier otro dato adicional que contribuya a la identificación del presunto padre. El término para iniciar el procedimiento a que se refiere el presente artículo será de un año a partir del nacimiento del menor. La solicitud quedará sin efecto, perdiendo además la madre la posibilidad de volver a intentar por esta vía el reconocimiento de su hijo, si en un lapso de cincuenta días la parte interesada, sin causa que se estime justificada, no se presenta a dar seguimiento a su petición, archivándose consecuentemente el expediente. Si el presunto padre radica fuera del Estado de Tamaulipas, el procedimiento administrativo comprendido en esta Ley no resultará aplicable, sin perjuicio de que, en este supuesto, se oriente a la interesada sobre la opción del procedimiento judicial.
 
 2. En ese acto el menor quedará inscrito bajo los apellidos de su madre.
 
 ###### ARTICULO 6.
 
-1. En el supuesto del artículo anterior el titular del Registro Civil deberá notificar al presunto padre el señalamiento de paternidad, para efectos de que manifieste lo que a su derecho corresponda dentro de los diez días hábiles siguientes contados a partir del día en que surta efectos la notificación; la aceptación y la no manifestación de oposición al señalamiento de paternidad dará lugar al reconocimiento administrativo de la filiación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+1. En el supuesto del artículo anterior, el titular del Registro Civil deberá notificar al presunto padre en forma personal la imputación de su paternidad para efectos de que exprese lo que a su derecho corresponda dentro de los diez días hábiles siguientes contados a partir del día en que surta efectos la notificación; la aceptación o no oposición a la paternidad que se le atribuya dará lugar al reconocimiento administrativo de la filiación. La notificación a que se refiere el presente artículo, se deberá de realizar por conducto del servidor público adscrito a la Oficialía del Registro Civil correspondiente, que para tal efecto se habilite.
 
 2. Las notificaciones se deberán de llevar acabo de acuerdo a lo establecido en el Código de Procedimientos Civiles, con los requisitos que se establecen para los emplazamientos y notificaciones.
 
@@ -149,7 +167,9 @@ Las acciones a que se refiere la presente ley, en relación al reconocimiento so
 
 1. Si el presunto padre no se presenta en la fecha señalada para practicarse la prueba genética y no justifica debidamente su inasistencia o si al presentarse se niega a practicarse dicha prueba, la Dirección General de Servicios Periciales o la institución privada acreditada levantará constancia de dicha circunstancia, y deberá remitirla de inmediato al Oficial del Registro Civil que corresponda.
 
-2. Hecho lo anterior, la Oficialía del Registro Civil, procederá al asentamiento de presunción de paternidad y dará lugar para que así se declare administrativamente y se establezca la filiación administrativa de la niña o niño con los apellidos de ambos progenitores, siempre y cuando la madre y el menor se hayan presentado a realizar la prueba, salvo prueba en contrario. Dicha declaración administrativa otorgará las obligaciones legales propias de la paternidad, pero no los derechos sobre la hija o hijo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+2. Hecho lo anterior, la Oficialía del Registro Civil, procederá al asentamiento de la anotación marginal de presunción de paternidad y dará lugar para que así se declare administrativamente y se establezca la filiación administrativa del o la menor con los apellidos de ambos progenitores, siempre y cuando la madre y el o la menor se hayan presentado a realizar la prueba, salvo evidencia en contrario. Dicha declaración administrativa otorgará las obligaciones legales propias de la paternidad, pero no los derechos sobre la hija o hijo.
 
 3. En el supuesto de que el presunto padre justifique fundadamente su inasistencia al estudio comparativo de marcadores genéticos ante la Dirección General de Servicios Periciales, se fijará día, hora y lugar por única ocasión para la práctica de un nuevo estudio comparativo de marcadores genéticos, pero si el presunto padre no se presenta de nueva cuanta (sic), se procederá conforme a los párrafos 1 y 2 de este artículo.
 
@@ -174,3 +194,9 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de diciembre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
