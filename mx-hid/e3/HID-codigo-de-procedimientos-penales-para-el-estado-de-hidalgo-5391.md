@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2002-01-14"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -1105,7 +1105,9 @@ V.- El asalto, previsto por los artículos 173 y 174;
 
 VI.- La violación, prevista por los artículos 179, 180 y 181;
 
-VII.- El robo calificado previsto por la correlación de los numerales 203, fracciones III y IV, y 206, párrafo final, así como los tipos penales que prevén los artículos 207 y 207 bis, y cuando deba de aplicarse el aumento de punibilidad previsto por el artículo 207 ter;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+VII.- El robo calificado, cuando el monto de lo robado sea igualo mayor a quinientas veces el salario mínimo, y se realice con la calificativa a que se refiere la fracción II del Artículo 206, o bien concurran dos o más de las otras calificativas previstas por este mismo artículo; así como los tipos penales que prevén los Artículos 207 y 207 bis, y cuando deba aplicarse el aumento de punibilidad señalado por el numeral 207 ter;
 
 VIII.- El abigeato, previsto por el artículo 208, fracción II, en relación al párrafo final del mismo numeral, así como los tipos penales que prevén las fracciones I, II y III del artículo 209;
 
@@ -1129,9 +1131,17 @@ XVII.- El sabotaje, previsto por el artículo 294, con excepción de su párrafo
 
 XVIII.- El peculado, previsto por el artículo 308 cuando deba aplicarse la punibilidad señalada en la fracción III del mismo numeral;
 
-XIX.- La tortura, previsto por los párrafos primero y tercero del artículo 322 bis; y
+XIX.- La tortura, previsto por los párrafos primero y tercero del artículo 322 bis; y (sic)
 
-XX.- La evasión de presos, cuando deba aplicarse la punibilidad prevista en los párrafos segundo y tercero del artículo 325 y en el numeral 329.
+XX.- La evasión de presos, cuando deba aplicarse la punibilidad prevista en los párrafos segundo y tercero del artículo 325 y en el numeral 329;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XXI.- Los delitos cometidos por los fraccionadores en términos del Título Vigésimo Primero del Código Penal.
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007) (F. DE E., P.O. 3 DE MARZO DE 2008)
+
+El Agente del Ministerio Público iniciada la Averiguación Previa por la comisión del delito de fraccionar irregularmente un predio procederá de inmediato decretar el aseguramiento precautorio del bien inmueble y en un término no mayor de cuarenta y ocho horas a darle vista a la Autoridad competente del órgano administrativo responsable del desarrollo urbano en el Estado de Hidalgo para que ésta proceda a su aseguramiento y en caso de acreditarse la comisión del delito proceder en los términos que refiera la Ley reglamentaria de la materia.
 
 También se califican como delitos graves, las tentativas punibles de los delitos previstos por las fracciones que anteceden.
 
@@ -4274,3 +4284,15 @@ Artículo Tercero.- En lo particular, el párrafo segundo del artículo 44 bis d
 P.O. 14 DE ENERO DE 2002.
 
 UNICO.- El presente Decreto, entrará en vigor a los quince días naturales siguientes al día de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+DECRETO NUM. 516, POR EL QUE SE REFORMA LA FRACCION VII DEL ARTICULO 119 DEL CODIGO DE PROCEDIMIENTOS PENALES.
+
+Único.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+DECRETO NUM. 544, POR EL QUE SE ADICIONA LA FRACCION XXI AL ARTICULO 119 DEL CODIGO DE PROCEDIMIENTOS PENALES.
+
+Único.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado.
