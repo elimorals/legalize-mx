@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2006-12-31"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -183,6 +183,10 @@ A).- Si se trata de créditos fiscales que tengan relación con bienes inmuebles
 
 B).- Si residen fuera del Estado, pero realizan actividades gravadas en éste a través de representantes, se considerará como domicilio el de dichos representantes.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando a juicio de la autoridad, hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
+
 ###### ARTICULO 12.
 
 Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios fiscales, se aplicarán a estos las siguientes reglas:
@@ -245,11 +249,19 @@ A).- En el acto en el que el fideicomitente designa o se obliga a designar fidei
 
 B).- En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se considerarán enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+
 VI.- La cesión de los derechos que se tenga sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
 
 A).- En el acto en el que el fideicomisario designado ceda sus derechos o de instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
 
 B).- En el acto en el que el fideicomitente ceda sus derechos si entre estos se incluye el de que los bienes se transmitan a su favor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Cuando se emitan certificados de participación por los bienes afectos al fideicomiso y se coloquen entre el gran público inversionista, no se considerarán enajenados dichos bienes al enajenarse esos certificados, salvo que estos les den a sus tenedores derechos de aprovechamiento directo de esos bienes, o se trate de acciones. La enajenación de los certificados de participación se considerará como una enajenación de títulos de crédito que no representan la propiedad de bienes y tendrán las consecuencias fiscales que establecen las Leyes fiscales para la enajenación de tales títulos.
 
 VII.- La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
 
@@ -2077,6 +2089,18 @@ B).- Bienes que ya reporten cualquier gravamen real o algún embargo anterior.
 
 C).- Bienes de fácil descomposición o deterioro o materias inflamables.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 151 Bis.
+
+En el caso de embargo de depósitos bancarios en términos del artículo 150, fracción I, del presente Código, la autoridad que haya ordenado el embargo girará oficio al gerente de la sucursal bancaria a la que corresponda la cuenta, a efecto de que la inmovilice y conserve los fondos depositados.
+
+La institución bancaria deberá informar a la autoridad a que se refiere el párrafo anterior, el incremento de los depósitos bancarios por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
+
+Los fondos únicamente podrán transferirse al fisco una vez que el crédito fiscal relacionado quede firme, y hasta por el importe necesario para cubrirlo.
+
+En tanto el crédito fiscal garantizado no quede firme, el contribuyente titular de las cuentas bancarias embargadas podrá ofrecer otra forma de garantía de acuerdo con el artículo 139 de este Código, en sustitución del embargo de las cuentas. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de 10 días. La autoridad tendrá la obligación de comunicar a la institución bancaria el sentido de la resolución enviándole copia de la misma, dentro del plazo de 15 días siguientes al en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la institución bancaria levantará el embargo de la cuenta.
+
 ###### ARTICULO 152.
 
 Quedan exceptuados de embargo:
@@ -2213,7 +2237,9 @@ El Secretario de Finanzas y Tesorero General del Estado podrá proceder a la ena
 
 Procederá la iniciación del procedimiento de remate y enajenación de los bienes embargados:
 
-I.- A los treinta días de practicado el embargo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+I.- A partir del día siguiente a aquél en que se hubiese fijado la base en los términos del Artículo 169 de este Código.
 
 II.- En los casos de embargo precautorio a que se refiere el artículo 143 de este Código, cuando los créditos se hagan exigibles y no se paguen al momento del requerimiento.
 
@@ -2295,7 +2321,17 @@ Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las ob
 
 Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, la autoridad ejecutora procederá a entregarle los bienes que le hubiere adjudicado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedirla cumpliendo, en lo conducente, con los requisitos a que se refiere el artículo 30 de este Código, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con estos documentos, los bienes que le hubiere adjudicado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
 
 ###### ARTICULO 180.
 
@@ -2313,9 +2349,21 @@ Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y a fin
 
 Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el Secretario de Finanzas y Tesorero General del Estado dispondrá que se entregue al adquiriente, girando las órdenes necesarias, aún las de desocupación, si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 182 Bis.
+
+En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+
+Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del fisco estatal dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 191 de este Código.
+
+En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 183.
 
-Queda estrictamente prohibido adquirir los bienes objeto de remate, por sí o por medio de interpósita persona, a los jefes y demás empleados de las oficinas ejecutoras, así como a todos aquellos que hubieren intervenido por parte del Fisco Estatal en el procedimiento administrativo de ejecución. El remate efectuado con infracción a este precepto será nulo.
+Queda estrictamente prohibido adquirir los bienes objeto de remate, por sí o por medio de interpósita persona, a los jefes y demás empleados de las oficinas ejecutoras, así como a todos aquellos que hubieren intervenido por parte del Fisco en el procedimiento administrativo de ejecución. El remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código.
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -2369,11 +2417,11 @@ En caso de conflicto, el remanente se depositará en institución de crédito au
 
 ### CAPITULO I
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 191.
 
-Causarán abandono en favor del Fisco los bienes a disposición de las Autoridades Fiscales, en los siguientes casos:
+Causarán abandono en favor del Fisco los bienes a disposición de las Autoridades Fiscales, Administrativas o Judiciales, en los siguientes casos:
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -2383,21 +2431,29 @@ I.- Cuando habiendo sido enajenados o adjudicados los bienes al adquiriente no s
 
 II.- Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieren rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-III.- Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa.
+III.- Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+IV.- Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de las autoridades fiscales, administrativas o judiciales o hayan sido retenidos o asegurados por las mismas y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+> <small>(ADICIONADO [N. DE E. ANTES SEGUNDO PARRAFO DE LA FRACCION III], P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquel en que se le notifique la resolución correspondiente.
 
+> <small>(ADICIONADO [N. DE E. ANTES TERCER PARRAFO DE LA FRACCION III], P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 Cuando los bienes embargados hubieren causado abandono, las Autoridades Fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago del costo de almacenaje causado. En los casos en que no se hubiere señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+
+> <small>(ADICIONADO [N. DE E. ANTES CUARTO PARRAFO DE LA FRACCION III], P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 Los bienes que pasen a propiedad del fisco estatal o municipal conforme a este Artículo, podrán ser enajenados en los términos del Artículo 187 de este Código o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las Leyes de la materia.
 
+> <small>(ADICIONADO [N. DE E. ANTES QUINTO PARRAFO DE LA FRACCION III], P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Finanzas y Tesorería General del Estado.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
-
-IV.- Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -2880,3 +2936,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 31 DE DICIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2007.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2008.
