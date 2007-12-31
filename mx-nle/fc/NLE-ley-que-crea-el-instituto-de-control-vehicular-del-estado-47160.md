@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2006-12-21"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -527,7 +527,19 @@ Artículo Noveno. En caso de que el Instituto de Control Vehicular modifique su 
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-Artículo Décimo Transitorio. Durante el año 2007, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado de Nuevo León para la vigilancia en el cumplimiento de las obligaciones en materia de control vehícular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+Artículo Décimo Transitorio. Durante el año 2007, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado de Nuevo León para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Artículo Décimo Primero.- El Instituto de Control Vehicular, podrá cubrir total o parcialmente, con cargo a su presupuesto, las comisiones y otras cantidades análogas que se generen por el uso de medios electrónicos y tarjetas de crédito para la recaudación de las contribuciones que le correspondan.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Artículo Décimo Segundo.- Durante el año 2008, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Artículo Décimo Tercero.- Para los efectos de lo dispuesto en el artículo 276, fracción XV de la Ley de Hacienda para el Estado, para tramitar el canje de las placas de circulación emitidas para los ejercicios 2005, 2006 y 2007, cuya vigencia concluyó el 31 de diciembre de 2007, los propietarios de vehículos inscritos en el padrón vehicular, deberán acudir a tramitar el canje de sus placas a más tardar el 31 de agosto de 2008.
 
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
@@ -538,3 +550,7 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nue
 P.O. 21 DE DICIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2007.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1° de Enero del año 2008.
