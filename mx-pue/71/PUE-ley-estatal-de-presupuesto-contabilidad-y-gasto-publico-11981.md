@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-presupuesto-contabilidad-y-gasto-publico-11981"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-23"
-last_updated: "1994-08-23"
+last_updated: "2007-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO
 
-LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO
+LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 23 de agosto de 1994.
 
@@ -59,9 +59,11 @@ LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 1º.
 
-El presupuesto, la contabilidad y el gasto público estatal se norman y regulan por las disposiciones de ésta Ley, la que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas.
+El presupuesto, la contabilidad y el gasto público estatal se norman y regulan por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 2º.
 
@@ -75,43 +77,61 @@ III.- El Poder Judicial, y
 
 IV.- Los organismos públicos descentralizados y empresas de participación estatal mayoritaria, fideicomisos públicos y otros organismos sujetos a control presupuestal.
 
-A los Poderes, Dependencias, Empresas y Fideicomisos Públicos, se les denominará genéricamente en esta Ley como "Entidades", salvo mención expresa.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+A los Poderes, Dependencias, Empresas y Fideicomisos Públicos, se les denominará genéricamente en esta Ley como "Sujetos", salvo mención expresa.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 3º.
 
-La programación del gasto público estatal se basará en las directrices que establezca el Titular del Ejecutivo del Estado, por conducto de la Secretaría de Finanzas e integradas en el Plan Estatal de Desarrollo en Coordinación con el Plan Nacional de Desarrollo.
+La programación del gasto público estatal se basará en las directrices que establezca el Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración e integradas en el Plan Estatal de Desarrollo en coordinación con el Plan Nacional de Desarrollo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 4º.
 
-Las actividades de programación y presupuestación del gasto público estatal estarán a cargo de la Secretaría de Finanzas, y las actividades de Control y Evaluación del gasto público estatal a cargo de la Secretaría de la Contraloría General del Estado, quienes dictarán las disposiciones procedentes para la realización de tales actividades.
+Las actividades de programación y presupuestación del gasto público estatal estarán a cargo de la Secretaría de Finanzas y Administración, y las actividades de Control y Evaluación del gasto público estatal a cargo de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, quienes dictarán las disposiciones procedentes para la realización de tales actividades.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 5º.
 
-Las Entidades del Ejecutivo orientarán y coordinarán la planeación, programación y presupuestación del gasto público, de los organismos que queden ubicados en su sector.
+Las Dependencias del Ejecutivo Estatal orientarán y coordinarán la planeación, programación y presupuestación del gasto público de las Entidades Paraestatales que queden ubicadas en su sector.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 6º.
 
-Cada Entidad contará con una unidad encargada de planear, programar y presupuestar sus actividades respecto al gasto público y presentará sus propuestas a la Secretaría de Finanzas.
+Los Sujetos contarán una unidad encargada de planear, programar y presupuestar sus actividades respecto al gasto público y presentarán sus propuestas a la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 7º.
 
-El Ejecutivo Estatal autorizará por conducto de la Secretaría de Finanzas, la participación Estatal en las empresas, sociedades, asociaciones civiles o mercantiles y fideicomisos, ya sea en su creación, modificación o liquidación.
+El Ejecutivo Estatal autorizará por conducto de la Secretaría de Finanzas y Administración, la participación Estatal en las empresas, sociedades, asociaciones civiles o mercantiles y fideicomisos, ya sea en su creación, modificación, fusión, liquidación o extinción.
 
-La Secretaría de Finanzas será la fideicomitente única del Gobierno Estatal.
+La Secretaría de Finanzas y Administración será la fideicomitente única del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 8º.
 
-Las Entidades a que se refieren las fracciones II y IV del artículo 2º de esta Ley, sólo podrán concertar empréstito para financiar programas incluídos en su presupuesto, que hayan sido debidamente autorizados por la Secretaría de Finanzas.
+Los Sujetos a que se refieren las fracciones II y IV del artículo 2o. de esta Ley, sólo podrán concertar financiamientos o empréstitos para financiar programas incluídos en su presupuesto, que hayan sido debidamente autorizados por la Secretaría de Finanzas y Administración.
 
-En todos los casos, se deberán tomar en consideración las bases, montos y conceptos que establezca el Honorable Congreso del Estado, en los términos de la Constitución Política del Estado.
+En todos los casos, se deberán tomar en consideración las bases, montos y conceptos que establezca el H. Congreso del Estado, en los términos de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 9º.
 
-El Ejecutivo del Estado proporcionará a solicitud del Congreso del Estado, todos los datos estadísticos e información general que puedan contribuir a una mejor comprensión de las proposiciones contenidas en el Proyecto de Presupuesto de Egresos del Estado.
+El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, proporcionará a solicitud del H. Congreso del Estado, todos los datos estadísticos e información general que puedan contribuir a una mejor comprensión de las propuestas contenidas en el Proyecto de Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 10.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, es la autoridad competente en el orden administrativo para la interpretación de esta Ley.
+El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, es la autoridad competente en el orden administrativo para la interpretación de esta Ley.
 
 ### CAPITULO SEGUNDO. DE LOS PRESUPUESTOS DE EGRESOS
 
@@ -119,25 +139,41 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, es la autor
 
 El gasto público estatal, se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas y proyectos. Los presupuestos se elaborarán para cada año calendario y se fundarán en costos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 12.
 
-La Secretaría de Finanzas al examinar los presupuestos, cuidará que simultáneamente se defina el tipo y fuente de recursos para su financiamiento.
+La Secretaría de Finanzas y Administración al examinar los presupuestos, cuidará que simultáneamente se defina el tipo y fuente de recursos para su financiamiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 13.
 
-El Presupuesto de Egresos del Estado, será el que contenga la Ley de Egresos que apruebe el Congreso del Estado, a iniciativa del Ejecutivo, para expensar durante el período de un año del 1º de enero al 31 de diciembre del año considerado, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las entidades que en el propio Presupuesto se señalen. Los programas de acción que comprendan más de un ejercicio presupuestario, se sujetarán a las asignaciones que se consignen en el Presupuesto de cada año.
+El Presupuesto de Egresos del Estado, será el que contenga la Ley de Egresos que apruebe el H. Congreso del Estado, a iniciativa del Ejecutivo Estatal, para expensar durante el período del 1o. de enero al 31 de diciembre del Ejercicio Fiscal correspondiente, las actividades, las obras y los servicios públicos previstos en los programas a cargo de los Sujetos que en el propio Presupuesto se señalen. Los programas de acción que comprendan más de un Ejercicio presupuestario, se sujetarán a las asignaciones que se consignen en el Presupuesto de cada año.
+
+Tratándose de contratos para la instrumentación de proyectos para prestación de servicios a largo plazo, el Ejecutivo Estatal en la formulación de su presupuesto de egresos de cada uno de los ejercicios que se encuentren vigentes, deberá considerar las previsiones presupuestales para cumplir con las obligaciones de pago que se deriven de éstos, de acuerdo a la autorización emitida por el H. Congreso del Estado. Para tales efectos, se estará a lo dispuesto en la presente Ley y en la de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 14.
 
-El Presupuesto de Egresos del Estado comprenderá las previsiones de Gasto Público que habrán de realizar las entidades a que se refieren las fracciones I a IV del artículo 2º de ésta Ley.
+El Presupuesto de Egresos del Estado comprenderá las previsiones de Gasto Público que habrán de realizar los Sujetos a que se refiere el artículo 2o. de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 15.
 
-Para la formulación del Proyecto de Presupuesto de Egresos del Estado, las Entidades que deban quedar comprendidas en el mismo, elaborarán anualmente sus anteproyectos y los remitirán a más tardar al Ejecutivo por conducto de la Secretaría de Finanzas el 30 de agosto de cada año; tales proyectos se elaborarán de acuerdo a las normas y montos que fije el Ejecutivo y conforme a los formularios e instrucciones que expida la Secretaría de Finanzas.
+Para la formulación del Proyecto de Presupuesto de Egresos del Estado, los Sujetos que deban quedar comprendidos en el mismo, elaborarán anualmente sus anteproyectos y los remitirán a más tardar al Ejecutivo Estatal por conducto de la Secretaría de Finanzas y Administración el 30 de agosto de cada año; tales proyectos se elaborarán de acuerdo a las normas y montos que fije el Ejecutivo Estatal y conforme a los formularios e instrucciones que expida la Secretaría de Finanzas y Administración.
+
+Los Sujetos a que se refieren las fracciones II y IV del artículo 2o. de esta Ley, deberán incluir en los anteproyectos a que se refiere el párrafo anterior, las obligaciones de pago que se deriven de los contratos para prestación de servicios a largo plazo que hubieren formalizado, así como de cualquier erogación contingente que pudiere generarse en términos de dichos contratos, a fin de que la Secretaría los incluya en el proyecto de Presupuesto de Egresos del Estado, de conformidad con las disposiciones aplicables en la materia.
+
+Las obligaciones de pago que deriven de los contratos a que se refiere el párrafo anterior, se consideraran preferentes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 16.
 
-La Secretaría de Finanzas queda facultada para formular el proyecto de presupuesto de las entidades, previo acuerdo del Ejecutivo Estatal, cuando no le sea presentado en los plazos que al efecto se les hubieran señalado.
+La Secretaría de Finanzas y Administración queda facultada para formular el proyecto de presupuesto de los Sujetos, previo acuerdo del Ejecutivo Estatal, cuando no le sea presentado en los plazos que al efecto se les hubieran señalado.
 
 ###### ARTICULO 17.
 
@@ -145,9 +181,13 @@ El Proyecto de Presupuesto de Egresos, del Estado, se integrará con los documen
 
 I.- Descripción clara de los programas que sean la base del proyecto, en los que se señalen objetivos, metas y unidades responsables de su ejecución, así como su valuación estimada en costos por programas.
 
-II.- Explicación y comentarios de los principales programas y en especial de aquellos que abarquen dos o más ejercicios fiscales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-III.- La estimación de ingresos por parte de la Secretaría de Finanzas, para el Ejercicio Fiscal correspondiente.
+II.- Explicación y comentarios de los principales programas y acciones, en especial de aquellos que abarquen dos o más ejercicios fiscales.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+III.- La estimación de ingresos por parte de la Secretaría de Finanzas y Administración, para el Ejercicio Fiscal correspondiente.
 
 IV.- Proposición de gasto para el ejercicio fiscal, con la indicación de los empleos que incluye.
 
@@ -159,19 +199,25 @@ VII.- Estados financieros del último ejercicio fiscal y estimación que se tend
 
 VIII.- En general, toda la información que se considere útil para mostrar la proposición en forma clara y completa.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 18.
 
-El proyecto de presupuesto de Egresos del Estado, deberá ser presentado al Titular del Ejecutivo Estatal por la Secretaría de Finanzas, a más tardar el día 30 de octubre del año inmediato anterior al que corresponda, para su envío al H. Congreso del Estado.
+El proyecto de Presupuesto de Egresos del Estado, deberá ser presentado al Titular del Ejecutivo Estatal por la Secretaría de Finanzas y Administración, a más tardar el día 30 de octubre del año inmediato anterior al que corresponda, para su envío al H. Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 19.
 
-Una vez aprobado el Presupuesto de Egresos por el Congreso, será enviado al Gobernador para su promulgación y publicación, la que habrá de realizarse a más tardar el 31 de diciembre de cada año.
+Una vez aprobado el Presupuesto de Egresos por el H. Congreso del Estado, será enviado al Ejecutivo Estatal para su promulgación y publicación, la que habrá de realizarse a más tardar el 31 de diciembre de cada año.
 
 ### CAPITULO TERCERO. DEL EJERCICIO DEL GASTO PUBLICO ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 20.
 
-El Titular del Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, podrá asignar los recursos que se obtengan en exceso de los previstos en los presupuestos de egresos del Estado, a los programas que se consideren convenientes, y autorizará los traspasos de partidas cuando sea procedente; tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá ajustarse a lo dispuesto por la Ley de Deuda Pública del Estado. De los movimientos que se efectúen en los términos de este artículo, el Ejecutivo informará al H. Congreso al rendir la cuenta de la Hacienda Pública Estatal.
+El Titular del Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, podrá asignar los recursos que se obtengan en exceso de los previstos en los presupuestos de egresos del Estado, a los programas que se consideren convenientes, y autorizará los traspasos de partidas cuando sea procedente; tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá ajustarse a lo dispuesto por la Ley de Deuda Pública del Estado. De los movimientos que se efectúen en los términos de este artículo, el Ejecutivo Estatal informará al H. Congreso del Estado al rendir la Cuenta de la Hacienda Pública Estatal.
 
 El gasto público estatal, deberá ajustarse al monto autorizado para los Programas, Proyectos y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática de los presupuestos, para aquellas erogaciones cuyos montos no sea posible prever.
 
@@ -179,11 +225,13 @@ El gasto público estatal, deberá ajustarse al monto autorizado para los Progra
 
 Autorizados los programas y los presupuestos respectivos, la responsabilidad de su ejecución recaerá en los funcionarios encargados del Proyecto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 22.
 
-La ministración de los fondos correspondientes a cada uno de los programas, será realizada por el Ejecutivo del Estado por conducto de la Secretaría de Finanzas.
+La ministración de los fondos correspondientes a cada uno de los programas, será realizada por el Ejecutivo Estatal por conducto de la Secretaría de Finanzas y Administración.
 
-La Secretaría de la Contraloría General del Estado, controlará y evaluará el avance de los programas y proyectos de las dependencias del Ejecutivo.
+La Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, controlará y evaluará el avance de los programas y proyectos de las Dependencias y Entidades del Ejecutivo Estatal.
 
 ###### ARTICULO 23.
 
@@ -199,53 +247,73 @@ c) Que se ajuste al texto de la partida que recibe el cargo, con base en el clas
 
 Una vez concluida la vigencia del Presupuesto de Egresos del Estado, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se hubieren programado y contabilizado debida y oportunamente las operaciones correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 25.
 
-En casos excepcionales debidamente justificados, el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá autorizar que se celebren contratos de obra pública, de adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
+En casos excepcionales debidamente justificados, el Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, podrá autorizar que se celebren contratos de obra pública, de adquisiciones, de prestación de servicios o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
 
 Cuando se trate de programas o proyectos especiales, cuyos presupuestos se incluyen en el Presupuesto de Egresos Estatal, se hará mención especial en estos casos al presentar el Proyecto de Presupuesto al H. Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 26.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, establecerá las normas generales a que se sujetarán las garantías que deban constituirse en favor de las diversas Entidades, en los actos y contratos que celebren.
+El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, establecerá las normas generales a que se sujetarán las garantías que deban constituirse en favor de los diversos Sujetos, en los actos y contratos que celebren.
 
-El propio Ejecutivo determinará las excepciones cuando a su juicio estén justificadas, tomando en consideración las disposiciones jurídicas existentes en las materias relativas.
+El propio Ejecutivo Estatal determinará las excepciones cuando a su juicio estén justificadas, tomando en consideración las disposiciones jurídicas existentes en las materias relativas.
 
-La Secretaría de Finanzas será la beneficiaria de todas las garantías que se otorguen en favor del Gobierno Estatal y le corresponderá conservar la documentación respectiva; en su caso, ejercitará los derechos que en ellas se contengan, debiendo informar oportunamente a la Secretaría de la Contraloría General del Estado a efecto de verificar la aplicación adecuada de dichas garantías.
+La Secretaría de Finanzas y Administración será la beneficiaria de todas las garantías que se otorguen en favor del Gobierno del Estado y le corresponderá conservar la documentación respectiva; en su caso, ejercitará los derechos que en ellas se contengan, debiendo informar oportunamente a la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública para los efectos de su competencia.
 
-Las Entidades remitirán oportunamente a la Secretaría de Finanzas, la documentación relativa, y será la Secretaría de la Contraloría General del Estado, la que vigile su debido cumplimiento.
+Los Sujetos remitirán oportunamente a la Secretaría de Finanzas y Administración, la documentación relativa de conformidad con las disposiciones aplicables y será la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, la que vigile su debido cumplimiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 27.
 
-El Gobierno Estatal no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a sus presupuestos de egresos.
+El Gobierno del Estado no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a sus presupuestos de egresos, con excepción de que la Secretaría de Finanzas y Administración al autorizar la instrumentación de un proyecto para prestación de servicios a largo plazo, hubiere considerado la viabilidad de su otorgamiento. Para tales efectos, el Ejecutivo Estatal podrá constituir los mecanismos financieros requeridos, incluyendo la creación de fideicomisos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 28.
 
-Quienes efectúen gasto público estatal, estarán obligados a proporcionar a las Secretarías de Finanzas y a la de la Contraloría General del Estado, toda la información que les soliciten y será ésta última la que vigile el cumplimiento de ello.
+Quienes efectúen gasto público estatal, estarán obligados a proporcionar a las Secretarías de Finanzas y Administración y de Desarrollo, Evaluación y Control de la Administración Pública, toda la información que les soliciten y será ésta última la que vigile el cumplimiento de ello.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 29.
 
-Para la ejecución del gasto público Estatal, las Entidades deberán sujetarse a las prevenciones de esta Ley, con exclusión de las previstas en las fracciones I y III del artículo 2º; observando las disposiciones que al efecto expida el Ejecutivo del Estado. En los que no pueda preverse su monto y época de pago, se ejercerán mediante comprobantes del Secretario de Finanzas aprobados por el Gobernador, no siendo necesaria, otra comprobación. La propia Secretaría de Finanzas realizará lo conducente, para efecto de registro en los presupuestos de los programas.
+Para la ejecución del gasto público Estatal, los Sujetos deberán observar lo dispuesto en esta Ley, con exclusión de aquellos señalados en las fracciones I y III del artículo 2o; observando las disposiciones que al efecto expida el Ejecutivo Estatal. En los casos que no pueda preverse su monto y época de pago, se ejercerán mediante comprobantes del Secretario de Finanzas y Administración aprobados por el Ejecutivo Estatal, no siendo necesaria, otra comprobación. La propia Secretaría de Finanzas y Administración realizará lo conducente, para efecto de registro en los presupuestos de los programas.
+
+Las obligaciones de pago que se deriven de contratos para la instrumentación de proyectos para prestación de servicios a largo plazo que deban realizar los Sujetos a que se refieren las fracciones II y IV del artículo 2º de esta Ley, serán consideradas gasto corriente y deberán cubrirse con cargo a sus respectivos presupuestos autorizados para el ejercicio fiscal correspondiente, en términos de las disposiciones aplicables.
+
+Para el caso de que en los contratos a que se refiere el párrafo anterior, se hubiere pactado la adquisición de los bienes que utilice el Proveedor para la prestación de los servicios a su cargo, las erogaciones que se destinen para tales efectos, se considerará gasto de inversión.
 
 ### CAPITULO CUARTO. DE LA CONTABILIDAD
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 30.
 
-Cada Entidad llevará su propio registro presupuestal que comprende: las asignaciones, compromisos y ejercicios correspondientes a los programas, proyectos y partidas de su propio presupuesto.
+Cada Sujeto llevará su propio registro presupuestal que comprende: las asignaciones, compromisos y ejercicios correspondientes a los programas, proyectos y partidas de su propio presupuesto.
 
-La Secretaría de Finanzas entregará a las Entidades, los catálogos presupuestales para efecto del registro correspondiente.
+La Secretaría de Finanzas y Administración entregará a los Sujetos, los catálogos presupuestales para efecto del registro correspondiente.
 
 ###### ARTICULO 31.
 
 El registro presupuestal de las dependencias, se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y proyectos responsables de su ejecución.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 32.
 
-Las Entidades del Ejecutivo suministrarán a la Secretaría de Finanzas, con la periodicidad que ésta determine, la información presupuestal, financiera y de otra índole que requiera.
+Las Dependencias y Entidades del Ejecutivo Estatal suministrarán a la Secretaría de Finanzas y Administración, con la periodicidad que ésta determine, la información presupuestal, financiera y de otra índole que requiera.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 33.
 
-Los informes presupuestales y demás información que emanen de las Entidades comprendidas en el Presupuesto de Egresos del Estado, deberán conciliarse mensualmente con los estados de cuenta presupuestales que cada Entidad genera; la Secretaría de Finanzas será responsable de formular la cuenta anual de la Hacienda Pública Estatal y someterla a la consideración del Gobernador, para su presentación al Honorable Congreso del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Puebla.
+Los informes presupuestales y demás información que emanen de los Sujetos comprendidos en el Presupuesto de Egresos del Estado, deberán conciliarse mensualmente con los estados de cuenta presupuestales que cada Sujeto genera; la Secretaría de Finanzas y Administración será responsable de formular la Cuenta Anual de la Hacienda Pública Estatal y someterla a la consideración del Ejecutivo Estatal, para su presentación al H. Congreso del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 ###### ARTICULO 34.
 
@@ -255,23 +323,31 @@ I.- Visitas, auditorías o investigaciones realizadas en términos de lo previst
 
 II.- Pliegos preventivos que levanten las autoridades competentes.
 
-III.- Pliegos de observaciones que emita la Contaduría Mayor de Hacienda del H. Congreso del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+III.- Pliegos de observaciones que emita el Órgano de Fiscalización Superior del Estado.
 
 Si derivado de lo anterior existieren conductas de los servidores públicos que infrinjan las disposiciones de esta Ley, independientemente de las sanciones administrativas a que hubiere lugar de conformidad con la Ley de Responsabilidades de los Servidores Públicos, se ejercitarán las acciones penales a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 35.
 
-Los Servidores Públicos adscritos a las Entidades señaladas en el artículo 2º, de esta ley, serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública Estatal, por actos u omisiones que les sean imputables, o bien por incumplimiento o inobservancia de las obligaciones derivadas de esta Ley, inherentes a su cargo o relacionadas con su función o actuación.
+Los Servidores Públicos adscritos a los Sujetos de esta Ley, serán responsables de cualquier daño o perjuicio estimable en dinero que afecte la Hacienda Pública Estatal, por actos u omisiones que les sean imputables, o bien por incumplimiento o inobservancia de las obligaciones derivadas de esta Ley, inherentes a su cargo o relacionadas con su función o actuación.
 
 Las responsabilidades se constituirán en primer término a las personas que directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y subsidiariamente, a los servidores y demás personal que por la índole de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
 
 Serán responsables solidarios con los servidores públicos involucrados, los particulares en los casos en que hayan participado y originen una responsabilidad.
 
-Los presuntos responsables, garantizarán mediante fianza y en forma individual el importe de pliegos preventivos a que se refiere el artículo anterior en tanto la Secretaría de la Contraloría General del Estado determina la responsabilidad definitiva.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Los presuntos responsables, garantizarán mediante fianza y en forma individual el importe de pliegos preventivos a que se refiere el artículo anterior en tanto la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública determina la responsabilidad definitiva.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 36.
 
-Las sanciones que se constituyan por responsabilidades definitivas, tendrán por objeto indemnizar por los daños y perjuicios que se ocasionen a la Hacienda Pública Estatal y las que tendrán el carácter de créditos fiscales y se fijarán por la Secretaría de la Contraloría General del Estado en cantidad líquida, misma que se exigirá se cobre a través de la Secretaría de Finanzas por medio del procedimiento administrativo de ejecución sin perjuicio de lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Las sanciones que se constituyan por responsabilidades definitivas, tendrán por objeto indemnizar por los daños y perjuicios que se ocasionen a la Hacienda Pública Estatal y las que tendrán el carácter de créditos fiscales y se fijarán por la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública en cantidad líquida, misma que se exigirá se cobre a través de la Secretaría de Finanzas y Administración por medio del procedimiento administrativo de ejecución sin perjuicio de lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 T R A N S I T O R I O S
 
@@ -314,3 +390,11 @@ LIC. MANUEL BARTLETT DIAZ
 EL SECRETARIO DE GOBERNACION
 
 LIC. CARLOS PALAFOX VAZQUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
