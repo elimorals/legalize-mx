@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2007-04-23"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -637,11 +637,17 @@ Los Diputados que falten a una Sesión sin causa justificada o sin permiso del P
 
 Cuando algún Diputado deje de asistir a tres Sesiones consecutivas, sin previa autorización del Presidente de la Directiva o causa justificada, se llamará al Suplente respectivo, quien ejercerá las funciones durante el resto del periodo de Sesiones correspondiente.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 42.
 
-Durante el Primer Período Ordinario de Sesiones, el Congreso se ocupará prioritariamente de examinar, calificar y e su caso, aprobar, las Cuentas Públicas del Estado y de los Municipios, correspondientes al año inmediato anterior.
+Durante el Primer Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano Superior de Fiscalización, siga su curso.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 En el Segundo y para que rijan el año siguiente, se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a mas tardar el quince de diciembre.
 
@@ -831,9 +837,9 @@ XV. Nombrar al Titular del Organo de Fiscalización Superior del Congreso del Es
 
 XVI. Decretar se tramite la reivindicación de los bienes Estatales y Municipales, sin perjuicio de las facultades que para ello correspondan al Poder Ejecutivo del Estado y a los gobiernos municipales;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-XVII. Recibir y aprobar en su caso, informes y la cuenta pública justificada que está obligada a rendir toda persona física o moral que reciba a cualquier título, fondos del Erario Publico, comprendidos en el presupuesto de egresos del año correspondiente;
+XVII. Recibir, revisar y fiscalizar las cuentas públicas justificadas a que está obligada a rendir toda persona física o moral que reciba a cualquier titulo, fondos del Erario Público, comprendidos en el presupuesto de egresos del año correspondiente;
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -895,19 +901,63 @@ f) Las normas que regulen los procedimientos para la solución de los conflictos
 
 XXX. Aprobar, por el voto de las dos terceras partes del total de sus miembros, los convenios de asociación que suscriban los municipios del Estado de Hidalgo con aquellos que pertenezcan a otra entidad federativa;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-XXXI. Revisar, fiscalizar y dictaminar las Cuentas Públicas de los Poderes del Estado, de los Ayuntamientos, de los Entes Públicos Paraestatales y Paramunicipales y demás sujetos de revisión.
+XXXI. Recibir, revisar y fiscalizar la Cuenta Pública del Estado, las de los Ayuntamientos, de las Entidades Paraestatales y Paramunicipales y demás sujetos de revisión.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
 
 Para la revisión y fiscalización de la Cuenta Pública, el Congreso se apoyará en el Órgano de Fiscalización Superior, el cual cuenta con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna y funcionamiento. Se encargará de revisar sin excepción, la Cuenta de las Haciendas Públicas; el manejo, custodia y la aplicación de fondos y recursos de los Poderes del Estado, a través de la Cuenta Pública Estatal, de los Ayuntamientos y demás sujetos de revisión, así como de verificar el cumplimiento de los objetivos contenidos en los planes y programas establecidos en los términos de las Leyes respectivas.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
+
 El Órgano de Fiscalización Superior, establecerá y difundirá las normas, procedimientos, métodos y sistemas contables y de auditoria para la revisión de las cuentas Públicas, asimismo formulará las recomendaciones, que sobre el particular procedan a los sujetos de revisión.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
 
 En el cumplimiento de sus funciones, tendrá atribuciones para investigar los actos u omisiones que impliquen irregularidad o conducta ilícita en el ingreso, egreso, control, administración y aplicación de fondos y recursos Federales en los términos convenidos con dicho ámbito, de los Poderes del Estado, de los Ayuntamientos y demás organismos autónomos del Estado y sujetos de revisión establecidos en la Legislación aplicable: Efectuará visitas domiciliarias, únicamente para exigir la exhibición de los documentos indispensables para la realización de sus investigaciones.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
+
 Determinará los daños y perjuicios que afecten a las Haciendas Públicas Estatales o al patrimonio de las Entidades Estatales o Municipales y fincará a los responsables, las indemnizaciones y sanciones correspondientes; en su caso, promoverá ante autoridades competentes el fincamiento de otras responsabilidades o las acciones a que se refiere el Título Décimo de esta Constitución y podrá presentar denuncias y querellas penales, conforme a la Ley de la materia.
 
-La revisión de Cuenta Pública, tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ha ajustado a los criterios señalados en el presupuesto aprobado, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos contenidos en los planes, programas y subprogramas. El Órgano de Fiscalización Superior tiene la obligación de entregar al Congreso del Estado, el informe del resultado de la revisión de la Cuenta Pública, a más tardar en la segunda quincena del mes de junio, del año siguiente al de su Ejercicio. Si de la Revisión que se realice aparecieren diferencias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, habrá lugar a determinar la responsabilidad de acuerdo con la Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+La revisión de Cuenta Pública, tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ha ajustado a los criterios señalados en el presupuesto aprobado, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos en los planes, programas y subprogramas. El Órgano de Fiscalización Superior tiene la obligación de entregar al Congreso del Estado, el Informe del Resultado de la Revisión de la Cuenta Pública, a más tardar en la segunda quincena del mes de marzo del año siguiente al de su presentación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+La función de revisión y fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Sin perjuicio del principio de anualidad el Órgano de Fiscalización Superior podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas estatales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Para tal efecto, de manera previa a la presentación del Informe del Resultado se darán a conocer a las Entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán se valoradas por el Órgano de Fiscalización Superior para la elaboración del Informe del Resultado de la Revisión de la Cuenta Pública.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+El Órgano de Fiscalización Superior, enviará a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que sea entregado al Congreso del Estado el Informe del Resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a los pliegos de observaciones a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+El Órgano de Fiscalización Superior deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las Entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+En el caso de las recomendaciones al desempeño de las entidades fiscalizadas deberán precisar ante el Órgano de Fiscalización Superior las mejoras o, en su caso, justificar su improcedencia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+El Órgano de Fiscalización Superior deberá entregar al Congreso del Estado, los días 15 de los meses de febrero y agosto de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Si de la revisión que se realice aparecieren diferencias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, habrá lugar a determinar la responsabilidad de acuerdo con la Ley.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
 
 El Órgano de Fiscalización Superior, también informará al Pleno del Congreso, a través de la Comisión inspectora, de las Cuentas que se encuentren pendientes o en el proceso de revisión, explicando la razón por la que no se han concluido;
 
@@ -1125,7 +1175,9 @@ IV. Solicitar al Congreso de la Unión el consentimiento al cual se refiere la f
 
 V. Informar al Congreso, por escrito o verbalmente, por conducto del Secretario del ramo, sobre los asuntos de la administración, cuando el mismo Congreso lo solicite;
 
-VI. Remitir al Congreso el 15 de febrero de cada año, la cuenta general del Estado, correspondiente al año anterior;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+VI. Remitir al Congreso a mas tardar el 31 de marzo de cada año, la Cuenta Pública del Estado, correspondiente al año anterior;
 
 VII. Facilitar a los Poderes Legislativo y Judicial los elementos necesarios para el ejercicio expedito de sus funciones;
 
@@ -1221,9 +1273,9 @@ XXXVI.- Contratar empréstitos con aprobación del Congreso del Estado para dest
 
 XXXVII. Ejercer el presupuesto de egresos;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-XXXVIII. Presentar al Congreso del Estado, a más tardar el 15 de Diciembre de cada año, la iniciativa de Ley de Ingresos y el Presupuesto de Egresos del Estado, que deberán regir en el año inmediato;
+XXXVIII. Presentar al Congreso del Estado para su aprobación, a más tardar el 15 de diciembre de cada año, la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, que deberán regir en el año inmediato. Asimismo para su autorización en dicho presupuesto, presentar las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la Ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
 
 XXXIX. Presentar al Congreso, al término del período constitucional del Gobernador, una memoria sobre el estado que guardan los asuntos públicos;
 
@@ -1233,7 +1285,7 @@ XL. Mantener a la Administración pública en constante superación, adecuándol
 
 XLI. Gestionar ante las dependencias federales lo necesario, a efecto de que se cumplan totalmente en el Estado las Leyes, impuestos o derechos que emanen de la Constitución General de la República;
 
-XLII. Retener las cantidades que le correspondan al Estado, como participación convenida con la Federación o por virtud de un mandato legal
+XLII. Retener las cantidades que le correspondan al Estado, como participación convenida con la Federación o por virtud de un mandato legal;
 
 XLIII. Promover el desarrollo económico del Estado, buscando siempre que sea compartido y equilibrado entre los centros urbanos y los rurales;
 
@@ -1453,7 +1505,7 @@ Solo podrán ser removidos en los términos previstos por esta Constitución; po
 
 ###### Artículo 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de esta Constitución y su Ley Orgánica.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de ésta Constitución y su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -1805,19 +1857,31 @@ La administración de la Hacienda Pública estará a cargo del Gobernador, por c
 
 La ley de la materia determinará la organización y funcionamiento de las oficinas de Hacienda en el Estado.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 108.
 
-Los recursos económicos de que dispongan el Gobierno del Estado, así como su Administración Pública Paraestatal, se administrarán con eficiencia, eficacia y honradez, para satisfacer los objetivos a los que están destinados.
+Los recursos económicos de que dispongan el Gobierno del Estado y la Administración Pública Paraestatal, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a que están destinados.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1991)</small>
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas, mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1991)</small>
+
 Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1991)</small>
 
 El manejo de los recursos económicos estatales se sujetarán a las bases de este Artículo.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1991)</small>
+
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Décimo de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que se establezcan, con objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en los Artículos 56 fracción XXXI y 71 fracción XXXVIII.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2193,7 +2257,9 @@ IX. Formular anualmente su proyecto de Ley de Ingresos, que será sometido a la 
 
 X. Analizar y Aprobar en su caso, el Presupuesto de Egresos, que cada año le será presentado por el Presidente Municipal, así como la cuenta comprobada de gastos mensuales del ejercicio en curso, en los términos que señale la ley.
 
-XI. Rendir al Congreso del Estado, por conducto de la Diputación Permanente, en su caso, dentro de los dos primeros meses de su ejercicio fiscal, la Cuenta Pública del año anterior, en la que se incluirán los ingresos, egresos y el estado que guarda la deuda municipal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+XI. Presentar al Congreso del Estado a más tardar el 31 de marzo de cada año, la Cuenta Pública del año anterior, con excepción a la correspondiente a la del tercer año de ejercicio, que deberá presentar a más tardar el 15 de enero;
 
 XII. Vigilar el cumplimiento del Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales en lo que respecta a su municipio, así como cumplir su Programa Municipal de Desarrollo;
 
@@ -2407,9 +2473,7 @@ En las demandas del orden civil no hay fuero ni inmunidad para ningún servidor 
 
 El procedimiento de juicio político, sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2006)</small>
-
-El finiquito que expida el Congreso del Estado, a los funcionarios que manejen fondos públicos, se otorgará a través del Órgano de Fiscalización Superior dentro del plazo de cinco años, una vez aprobada la Cuenta Pública y sin causas de responsabilidad supervenientes.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 La responsabilidad por delito del orden común, cometido durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a los tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los cargos a que hacen referencia los artículos 149 y 150 de esta Constitución.
 
@@ -2994,3 +3058,11 @@ DECRETO NUM. 361, QUE REFORMA LOS ARTICULOS 24, 29, 32, 63 Y 128 DE LA CONSTITUC
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las adecuaciones legales reglamentarias pertinentes derivadas del presente Decreto, se llevarán dentro de los treinta días hábiles siguientes a la entrada en vigor del mismo.
+
+TERCERO.- La revisión de las Cuentas Públicas correspondientes al ejercicio fiscal 2007, deberán concluir en el año 2009.
