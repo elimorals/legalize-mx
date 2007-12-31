@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2007-11-26"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2111,9 +2111,7 @@ V.- A los fabricantes, empresarios, contratistas o constructores de obra cualqui
 
 VI.- Al que valiéndose del cargo que ocupa en el gobierno, en una empresa descentralizada o de participación estatal o en cualquier agrupación de carácter sindical, sus relaciones con los funcionarios o dirigentes de dichos organismos, obtenga dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso, aumento de salario u otras prestaciones de tales organismos, sin cumplir con ello;
 
-VII.- Al que por sí o por interpósita persona cause perjuicio público o privado, al fraccionar y transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin construcciones, por no contar con el previo permiso de las autoridades administrativas competentes, o cuando existiendo éste, no se hayan satisfecho los requisitos en él señalados. Este delito se penará aún en el caso de falta de pago total o parcial por parte del afectado.
-
-Para los efectos penales, se entiende por fraccionar la división de terrenos en lotes; o
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
 
 VIII.- Al deudor que con perjuicio de sus acreedores, o bien para retardar o disimular el estado de concurso, oculte o enajene o recurra a maniobras o arbitrios ruinosos; o aproveche el estado de concurso para especular con sus propias obligaciones, adquiriéndolas con descuento o para obtener otro provecho en perjuicio de sus acreedores; u ocasione por cualquier acto ilegal el estado de concurso con perjuicio de sus acreedores.
 
@@ -3237,6 +3235,10 @@ VII.- Como defensor, sea particular o de oficio, sólo se concrete a aceptar el 
 
 Los litigantes sólo cometerán estos delitos, cuando no sean ostensiblemente patrocinados por abogados.
 
+## TITULO VIGESIMO PRIMERO. DE LOS DELITOS COMETIDOS POR LOS FRACCIONADORES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ###### ARTICULO 334.
 
 Incurre en responsabilidad delictiva todo patrón, persona física o moral, que incurra en alguno de los hechos siguientes:
@@ -3599,6 +3601,34 @@ Se impondrá prisión de tres meses a cinco años y multa de 100 a 300 días de 
 
 Las sanciones previstas en los delitos del presente Título, se aplicarán, sin perjuicio de las demás penas que pudieran corresponder, al responsable por el concurso de delitos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 360.
+
+A quien fraccione o divida en lotes un bien inmueble o porción de este, lo transfiera o prometa transferir la propiedad, la posesión o cualquier derecho, sin que cuente con la debida autorización por escrito de la Autoridad Administrativa competente para ello o aún contando con esta no se ajuste en sus términos, se le impondrá de cinco a doce años de prisión y quinientos a mil días de multa procediendo al decomiso del bien inmueble materia del delito.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 361.
+
+La misma pena establecida en el Artículo anterior se aplicará al o los terceros que enajenen, prometan hacerlo o comercialicen lotes que hayan sido fraccionados, divididos o prometan hacerlo en un futuro sin que para ello cuenten con la autorización por escrito del legitimo propietario debidamente protocolizada ante Notario Público y de la Autoridad Administrativa competente para ello, o teniendo esta no se ajusten a los términos y condiciones en las que le fue otorgada.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 362.
+
+A quien expida licencias o permisos para fraccionar un bien inmueble, sin estar legalmente facultado para ello o estándolo no se ajuste a los términos de la legislación vigente en la materia, se le aplicará la misma pena, además que tratándose de servidores públicos se les destituirá de manera definitiva del cargo e inhabilitará por veinticinco años para desempeñar cualquier puesto, empleo o comisión pública.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 363.
+
+No se sancionará este delito:
+
+I.- Si el objeto de fraccionar o dividir un lote se hace en consecuencia de adjudicación por herencia, juicio de prescripción o usucapión, división de copropiedad que no simulen fraccionamiento o por la constitución del minifundio; y
+
+II.- Cuando se trata de donaciones y compraventas realizadas entre parientes, en línea ascendente hasta el segundo grado, descendente hasta el tercer grado cónyuges, concubinos y entre hermanos.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Código entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -3696,3 +3726,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+ÚNICO.- El presente entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
