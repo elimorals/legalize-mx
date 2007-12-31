@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2007-12-27"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -137,8 +137,6 @@ ART. 25.- El hecho de inscribirse en el padrón municipal prueba plenamente el p
 
 ART. 26.- Se presume el propósito de establecerse en un lugar, cuando se reside en él por más de seis meses. Transcurrido este tiempo, el que no quiera que nazca tal presunción declarará, dentro de los quince días siguientes, tanto a la autoridad municipal de su anterior domicilio, como a la autoridad municipal de su nueva residencia, que no desea perder su antiguo domicilio y adquirir otro nuevo. Estas declaraciones no producirán efectos si se hacen en perjuicio de tercero.
 
-ART. 27.- El domicilio legal de una persona es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté ahí presente.
-
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
 ART. 28.- Se reputa domicilio legal:
@@ -152,6 +150,8 @@ III.- De los servidores públicos, el lugar donde desempeñen sus funciones por 
 Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar donde la cumplen, sino que conservarán su domicilio anterior; y,
 
 IV.- De los condenados a cumplir una pena privativa de la libertad por más de seis meses, el lugar en que la extingan.
+
+ART. 27.- El domicilio legal de una persona es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté ahí presente.
 
 ART. 29.- Las personas morales tienen su domicilio en el lugar donde se halle establecida su administración.
 
@@ -921,7 +921,7 @@ ART. 234.- El derecho para demandar la nulidad del matrimonio corresponde a quie
 
 ART. 235.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el Tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
 
-ART. 236.- El matrimonio tiene a su favor la presunción de ser válido, sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+ART. 236.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
 
 ART. 237.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
 
@@ -1259,6 +1259,8 @@ Por violencia intrafamiliar se considera el uso de la fuerza física o moral, as
 
 ### CAPITULO I. DE LA FILIACION
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
 ART. 299.- La filiación se establece por:
 
 I.- Las presunciones legales contra las que no se rinda prueba en contrario;
@@ -1269,7 +1271,43 @@ III.- El reconocimiento;
 
 IV.- Una sentencia que la declare;
 
-V.- Adopción.
+V.- Adopción; y
+
+VI.- Declaración administrativa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+ART. 299 BIS.- La declaración administrativa sobre presunción de paternidad se realizará conforme a lo dispuesto por la Ley de Paternidad Responsable ante el Oficial del Registro Civil correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+ART. 299 TER.- Cuando de las constancias se desprenda fehacientemente que el menor ya ha sido registrado con anterioridad, el Oficial del Registro Civil resolverá declarando la no procedencia del reconocimiento de paternidad a favor del presunto padre, y la inscripción que se haya realizado con motivo del inicio del procedimiento sobre presunción de paternidad quedará sin efecto, y será cancelado por el Oficial.
+
+Siempre que le sean turnados al Oficial los resultados de la prueba de marcadores genéticos, resolverá declarando el reconocimiento administrativo de paternidad o bien el no reconocimiento, según los resultados de la prueba.
+
+Contra la resolución que emita el Oficial del Registro Civil no procede recurso alguno.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+ART. 299 QUATER.- El procedimiento administrativo sobre presunción de paternidad se extingue:
+
+I.- Por el reconocimiento expreso del padre;
+
+II.- Por alguna de las causa de improcedencia; o
+
+III.- Cuando cualquiera que sea el estado del procedimiento, no promuevan las partes durante cincuenta días naturales consecutivos.
+
+El término debe contarse a partir de la fecha en que se haya realizado el último acto procesal o en que se haya hecho la última promoción.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+ART. 299 QUINQUIES.- Son causas de improcedencia del procedimiento administrativo sobre presunción de paternidad, las siguientes:
+
+I.- Que el menor ya haya sido registrado por la madre;
+
+II.- Que el menor ya haya sido reconocido por el presunto padre o por persona distinta; o
+
+III.- Que el futuro reconocido sea mayor de edad.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -9111,7 +9149,7 @@ ART. 2607.- Faltando alguna de las referidas solemnidades, quedará el testament
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-ART. 2607 BIS.- Testamento Público Simplificado, es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda familiar por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado, de los Ayuntamientos, o cualquier Dependencia o Entidad de la Administración Pública Federal, o Estatal o Municipal, o en acto posterior, de conformidad con lo siguiente:
+ART. 2607 BIS.- Testamento Público Simplificado, es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda familiar por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado, de los Ayuntamientos , o cualquier Dependencia o Entidad de la Administración Pública Federal, o Estatal o Municipal, o en acto posterior, de conformidad con lo siguiente:
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2004)</small>
 
@@ -10058,3 +10096,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE DICIEMBRE DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
