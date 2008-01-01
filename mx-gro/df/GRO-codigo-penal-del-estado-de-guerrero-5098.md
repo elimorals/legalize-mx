@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2007-11-30"
+last_updated: "2008-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1059,7 +1059,7 @@ III.- Que la privación de la libertad, fuera de las causas previstas por la ley
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
 
-127 Bis.- A los administradores de hoteles, servicios turísticos, hospitalarios, comerciales o profesionales, que ejerzan violencia sobre los usuarios pretextando algún adeudo los priven de su libertad ilegalmente, se les aplicará de seis meses a cinco años de prisión y de veinte a cien días multa, independientemente de la sanción que les corresponda por cualquier otro delito cometido.
+127 BIS.- A los administradores de hoteles, servicios turísticos, hospitalarios, comerciales o profesionales, que ejerzan violencia sobre los usuarios pretextando algún adeudo los priven de su libertad ilegalmente, se les aplicará de seis meses a cinco años de prisión y de veinte a cien días multa, independientemente de la sanción que les corresponda por cualquier otro delito cometido.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1083,7 +1083,7 @@ Al que cometa este delito se le impondrá de cuarenta a sesenta años de prisió
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-129 Bis.- Se impondrá la misma pena señalada en el artículo anterior, al que en relación con las conductas sancionadas en el mismo:
+129 BIS.- Se impondrá la misma pena señalada en el artículo anterior, al que en relación con las conductas sancionadas en el mismo:
 
 I. Actúe como intermediario en las gestiones de libertad, sin la autorización de los familiares directos de la víctima, a excepción de los casos en que se trate de la autoridad competente;
 
@@ -1095,7 +1095,7 @@ IV. Aconseje o induzca a no presentar la denuncia del secuestro cometido, o bien
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-129 Bis 1.- Se impondrá de sesenta a setenta y cinco años de prisión y de dos mil ciento sesenta a dos mil setecientos días multa, cuando en la ejecución del delito de secuestro señalado en el artículo 129, concurra alguna de las circunstancias siguientes:
+129 BIS 1.- Se impondrá de sesenta a setenta y cinco años de prisión y de dos mil ciento sesenta a dos mil setecientos días multa, cuando en la ejecución del delito de secuestro señalado en el artículo 129, concurra alguna de las circunstancias siguientes:
 
 I. Que el secuestrado sea menor de dieciocho años o mayor de setenta años o que tenga alguna discapacidad física o mental;
 
@@ -1123,11 +1123,11 @@ XII. Que la secuestrada se encuentre en estado de gravidez.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-129 Bis 2.- Si el secuestrador deja en libertad de manera espontánea al secuestrado dentro de los tres días siguientes a la comisión del delito, sin haber logrado el propósito previsto en el artículo 129, se le impondrán de diez a quince años de prisión y de cuatrocientos a quinientos cuarenta días multa. El juzgador valorará la conveniencia de la aplicación de la atenuante, cuando exista alguna de las circunstancias relativas al tipo agravado.
+129 BIS 2.- Si el secuestrador deja en libertad de manera espontánea al secuestrado dentro de los tres días siguientes a la comisión del delito, sin haber logrado el propósito previsto en el artículo 129, se le impondrán de diez a quince años de prisión y de cuatrocientos a quinientos cuarenta días multa. El juzgador valorará la conveniencia de la aplicación de la atenuante, cuando exista alguna de las circunstancias relativas al tipo agravado.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-129 Bis 3.- A quien cometa el delito de secuestro comprendido en los artículos 129, 129 Bis, 129 Bis 1 y 129 Bis 2 no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
+129 BIS 3.- A quien cometa el delito de secuestro comprendido en los artículos 129, 129 Bis, 129 Bis 1 y 129 Bis 2 no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
 
 ### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD CON PROPOSITOS SEXUALES
 
@@ -1155,7 +1155,7 @@ Las penas a que se refiere el presente artículo se aplicarán con independencia
 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-133 Bis.- Comete el delito de trata de personas quien induzca, procure, promueva, facilite, reclute, mantenga, capte, ofrezca, traslade, entregue o reciba para sí o para un tercero a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder o de una situación de vulnerabilidad a la concesión o recepción de pagos o beneficios para someterla a cualquier forma de explotación o para extirpar sus órganos, tejidos o sus componentes.
+133 BIS.- Comete el delito de trata de personas quien induzca, procure, promueva, facilite, reclute, mantenga, capte, ofrezca, traslade, entregue o reciba para sí o para un tercero a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder o de una situación de vulnerabilidad a la concesión o recepción de pagos o beneficios para someterla a cualquier forma de explotación o para extirpar sus órganos, tejidos o sus componentes.
 
 Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas similares, la servidumbre, la mendicidad ajena o la extracción de órganos, tejidos o componentes.
 
@@ -1163,11 +1163,11 @@ Cuando las conductas anteriores recaigan en una persona menor de dieciocho años
 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-133 Bis 1.- El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
+133 BIS 1.- El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-133 Bis 2.- A quien cometa el delito de trata de personas se le aplicará:
+133 BIS 2.- A quien cometa el delito de trata de personas se le aplicará:
 
 I. De seis a doce años de prisión y de quinientos a mil quinientos días multa;
 
@@ -1225,7 +1225,7 @@ Se entiende por cópula, cualquier forma de ayuntamiento carnal en el cuerpo de 
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
 
-139 Bis.- Se aplicará la misma pena establecida para el delito de violación, cuando el agente introduzca por vía vaginal o anal, cualquier objeto o instrumento distinto al miembro viril, por medio de la violencia física o moral, independientemente del sexo del ofendido.
+139 BIS.- Se aplicará la misma pena establecida para el delito de violación, cuando el agente introduzca por vía vaginal o anal, cualquier objeto o instrumento distinto al miembro viril, por medio de la violencia física o moral, independientemente del sexo del ofendido.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
@@ -1281,7 +1281,7 @@ La misma pena se aplicará cuando la violación se ejecute con motivo de un asal
 
 Si el acto erótico sexual se ejecuta en persona menor de doce años, que no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pudiere resistirlo, se le aplicará una pena de dos a cuatro años de prisión y de diez a treinta días multa.
 
-Se aplicarán las mismas penas cuando el agente del delito obligue al pasivo a ejecutarle actos eróticos sexuales o la obligue así misma a realizarlo en su caso a un tercero.
+Se aplicarán las mismas penas cuando el agente del delito obligue al pasivo a ejecutarle actos eróticos sexuales o la obligue a sí misma a realizarlo en su caso a un tercero.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1419,7 +1419,7 @@ III.- De cinco a once años de prisión y de trescientos a quinientos días mult
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
 
-163 Bis.- Para la aplicación de la sanción, se dará por consumado el robo, desde el momento en que el ladrón tiene en su poder la cosa robada; aún cuando la abandone o lo desapoderen de ella.
+163 BIS.- Para la aplicación de la sanción, se dará por consumado el robo, desde el momento en que el ladrón tiene en su poder la cosa robada; aún cuando la abandone o lo desapoderen de ella.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1939,7 +1939,7 @@ Cuando el miembro de la asociación sea o haya sido servidor público de alguna 
 
 197 BIS.- Cuando se cometa algún delito por pandilla se aplicará a los que intervengan en su comisión, además de las penas que les corresponda, por el o los delitos cometidos de uno a cinco años de prisión, siempre que la pena del delito principal en su término medio aritmético no exceda de cinco años de prisión, pero en caso contrario la pena será de dos a siete años.
 
-Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria, de tres o mas personas, que sin estar organizadas con fines delictuosos, cometan en común algún delito.
+Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria, de tres o más personas, que sin estar organizadas con fines delictuosos, cometan en común algún delito.
 
 Se aplicará la misma regla descrita en el segundo párrafo del artículo anterior cuando el agente sea o haya sido servidor público de alguna corporación policiaca.
 
@@ -2087,13 +2087,13 @@ A quien utilice a una persona menor de 12 años o personas con capacidades difer
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-216 Bis.- A quien emplee, aún gratuitamente, a personas menores de dieciocho años o personas con capacidades diferentes que no tengan la capacidad de comprender el significado del hecho, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o en lugares que por su naturaleza sean nocivos para el libre desarrollo de su personalidad o para su salud, se le aplicará prisión de tres a cinco años de prisión y de cuarenta a doscientos días multa.
+216 BIS.- A quien emplee, aún gratuitamente, a personas menores de dieciocho años o personas con capacidades diferentes que no tengan la capacidad de comprender el significado del hecho, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o en lugares que por su naturaleza sean nocivos para el libre desarrollo de su personalidad o para su salud, se le aplicará prisión de tres a cinco años de prisión y de cuarenta a doscientos días multa.
 
 En caso de reincidencia se impondrá el cierre definitivo del establecimiento. Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o las personas menores de edad o personas con capacidades diferentes o personas que no tengan la capacidad para comprender el significado del hecho, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-216 Bis 1.- A quien permita directa o indirectamente el acceso de una persona menor de edad a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de uno a tres años y de cincuenta a doscientos días multa.
+216 BIS 1.- A quien permita directa o indirectamente el acceso de una persona menor de edad a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de uno a tres años y de cincuenta a doscientos días multa.
 
 Las mismas penas se impondrán al que ejecutare o hiciere ejecutar a otra persona actos de exhibición sexual o eróticos ante personas menores de edad o personas con capacidades diferentes o que no tengan la capacidad para comprender el significado del hecho.
 
@@ -2103,7 +2103,7 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-216 Bis 2.- A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o acto sexuales o eróticos, se le impondrá una pena de ocho a catorce años de prisión y de mil a dos mil días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+216 BIS 2.- A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o acto sexuales o eróticos, se le impondrá una pena de ocho a catorce años de prisión y de mil a dos mil días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2007)</small>
 
@@ -2125,7 +2125,7 @@ A quien financie, dirija, administre o supervise cualquiera de las actividades a
 
 Las anteriores sanciones se impondrán sin perjuicio de las penas que correspondan por la comisión de los delitos contemplados en los (sic) en el capítulo V del Título IV Sección Primera de este Código.
 
-217 Bis.- (DEROGADO, P.O. 17 DE ABRIL DE 2007)
+217 BIS.- (DEROGADO, P.O. 17 DE ABRIL DE 2007)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2007)</small>
 
@@ -2141,11 +2141,11 @@ Las anteriores sanciones se impondrán sin perjuicio de las penas que correspond
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-218 Bis.- Comete el delito de pornografía el que promueva, financie, elabore, reproduzca, distribuya, exhiba, venda, arriende, publique, transmita o difunda la representación material de personas en actos sexuales reales o simulados para la gratificación sexual de los usuarios o toda representación de las partes genitales con fines de depravación mediante libros, escritos, pinturas, impresos, anuncios, emblemas, fotografías, películas, audio o video grabación representaciones digitales computarizadas o por cualquier otro medio. Al que cometa este delito se le aplicará de tres a ocho (sic) de prisión y de cien a trescientos días multa.
+218 BIS.- Comete el delito de pornografía el que promueva, financie, elabore, reproduzca, distribuya, exhiba, venda, arriende, publique, transmita o difunda la representación material de personas en actos sexuales reales o simulados para la gratificación sexual de los usuarios o toda representación de las partes genitales con fines de depravación mediante libros, escritos, pinturas, impresos, anuncios, emblemas, fotografías, películas, audio o video grabación representaciones digitales computarizadas o por cualquier otro medio. Al que cometa este delito se le aplicará de tres a ocho (sic) de prisión y de cien a trescientos días multa.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-218 Bis 1.- A quien administre, sostenga, supervise o financie directa o indirectamente prostíbulos, casas de citas o lugares donde se lleven a cabo las conductas señaladas en los artículos anteriores se le sancionará con una pena de seis a diez años de prisión y de mil a dos mil días multas (sic).
+218 BIS 1.- A quien administre, sostenga, supervise o financie directa o indirectamente prostíbulos, casas de citas o lugares donde se lleven a cabo las conductas señaladas en los artículos anteriores se le sancionará con una pena de seis a diez años de prisión y de mil a dos mil días multas (sic).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTICULO QUE LO INTEGRA], P.O. 28 DE OCTUBRE DE 2005)</small>
 
@@ -2153,7 +2153,7 @@ Las anteriores sanciones se impondrán sin perjuicio de las penas que correspond
 
 219.- (DEROGADO Y REUBICADO, P.O. 17 DE ABRIL DE 2007)
 
-219 Bis.- (DEROGADO Y REUBICADO, P.O. 17 DE ABRIL DE 2007)
+219 BIS.- (DEROGADO Y REUBICADO, P.O. 17 DE ABRIL DE 2007)
 
 > <small>(ADICIONADO [N. DE E. REFORMADA SU NUMERACION], P.O. 28 DE OCTUBRE DE 2005)</small>
 
@@ -2161,7 +2161,7 @@ Las anteriores sanciones se impondrán sin perjuicio de las penas que correspond
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-219 Bis 1.- Las penas que resulten aplicables por los delitos previstos en este título se aumentarán de conformidad con lo siguiente:
+219 BIS 1.- Las penas que resulten aplicables por los delitos previstos en este título se aumentarán de conformidad con lo siguiente:
 
 I. Hasta en una tercera parte, si el delito es cometido por servidores públicos.
 
@@ -2173,11 +2173,11 @@ IV. Hasta en una mitad cuando sean cometidos por dos o más personas.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-219 Bis 2.- Si en la comisión de los delitos previstos en este Título el sujeto se valiese de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
+219 BIS 2.- Si en la comisión de los delitos previstos en este Título el sujeto se valiese de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
 
-219 Bis 3.- Los sujetos activos de los delitos a que se refiere este capítulo quedarán inhabilitados para ser tutores o curadores.
+219 BIS 3.- Los sujetos activos de los delitos a que se refiere este capítulo quedarán inhabilitados para ser tutores o curadores.
 
 ### CAPITULO UNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
@@ -2721,7 +2721,7 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 289.- Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por dos años.
 
-> <small>(REFORMADA SU DENOMINACION, P.O.13 FEBRERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 FEBRERO DE 2004)</small>
 
 ### CAPITULO UNICO
 
@@ -2729,19 +2729,37 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 290.- Para los efectos de este Capítulo se entiende por:
 
-I.- Funcionarios electorales, quienes en los términos de la legislación electoral local integren los órganos que cumplen funciones públicas electorales;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-II.- Funcionarios partidistas, los dirigentes de los partidos políticos nacionales, estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos otorgan representación para actuar ante los órganos electorales en los términos de la legislación respectiva; y
+I.- Funcionarios electorales, a quienes en los términos de la legislación electoral local integren los órganos que cumplen funciones públicas electorales;
 
-III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de cómputos distritales y, en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Consejo Estatal Electoral.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+II.- Funcionarios partidistas a los dirigentes nacionales, estatales o municipales de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos otorgan representación para actuar ante los órganos electorales en los términos de la legislación respectiva;
 
-IV. Servidores públicos. Quienes se encuentren en los términos del artículo 110 de la Constitución Política del Estado.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+III.- Servidores públicos.- A quienes se encuentren en los términos del artículo 110 de la Constitución Política del Estado y 108 de la Constitución Política de los Estados Unidos Mexicanos, y (sic)
 
-291.- Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo se podrá imponer además la pena señalada, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
+
+IV.- Documentos públicos electorales, a las boletas electorales las actas de la jornada electoral, las actas oficiales de instalación de casillas, de los escrutinios y cómputo, de las mesas directivas de casilla, los paquetes electorales y expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo de los consejos locales y distritales, la de los cómputos de circunscripción plurinominal, la correspondencia que circule bajo franquicia del órgano estatal electoral, archivos electrónicos computarizados y en general, todos los documentos utilizados y actas expedidas en el ejercicio de sus funciones por los órganos del Instituto Electoral del Estado;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+V.- Materiales electorales, a los bienes muebles tales como urnas, canceles o elementos modulares para la emisión del voto, marcadores de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+VI.- Propaganda electoral, al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña y la jornada electoral, producen y difunden los partidos políticos, las coaliciones, los ciudadanos que participen en los procesos electorales, los candidatos registrados y sus simpatizantes, con el propósito de presentar sus candidaturas, y
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+VII.- Observador Electoral a quien acredita tal carácter, en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+
+291.- En el caso de las Fracciones I y III del artículo 290, se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2007)</small>
 
@@ -2755,49 +2773,49 @@ I.- Vote a sabiendas que no cumple con los requisitos de ley;
 
 II.- Vote más de una vez en una misma elección;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-III.- Haga proselitismo o presione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
+III.- Haga proselitismo o presione a los electores el día de la jornada electoral, en el lugar donde se instalen las casillas o en el lugar en que se encuentren formados los votantes, con la intención de orientar el sentido de su voto, o para que se abstenga a emitirlo;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-IV.- Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
+IV.- Obstaculice, interfiera o impida el desarrollo normal de las votaciones, el escrutinio y cómputo, el adecuado ejercicio de las tareas de los funcionarios electorales, o el derecho ciudadano de ejercer el voto;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-V.- Recoja sin causa prevista por la ley, credenciales de elector de los ciudadanos;
+V.- Recoja en cualquier tiempo, sin causa prevista por la ley, credenciales de elector de los ciudadanos;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-VI.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+VI.- Durante la campaña electoral, en los tres días previos a la jornada electoral o durante ésta, solicite votos por paga, dádiva o promesa de dinero u otra recompensa, o bien, quien mediante amenaza o violencia física o moral, obligue o condicione a otros a votar a favor de un determinado candidato, partido o coalición, o para que se abstengan de hacerlo;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-VII.- Viole de cualquier manera el secreto del voto;
+VII.- El día de la jornada electoral viole de cualquier manera el secreto del voto;
 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
 
 VIII.- Vote o pretenda votar con una credencial de la que no sea titular;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-IX.- El día de la elección organice la reunión y traslado de votantes con el objeto de llevarlos a votar y de influir en el sentido de su voto;
+IX.- El día de la jornada electoral organice la reunión y traslado de votantes con el objeto de llevarlos a votar y de influir de cualquier manera en el sentido de su voto;
 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
 
 X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales; destruya o altere boletas o documentos electorales;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
+XI.- En cualquier tiempo se apodere, altere, falsifique, destruya, posea, use, adquiera, comercialice o suministre de manera ilegal, documentos o materiales electorales;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-XII.- Impida la instalación de una casilla u obstaculice su funcionamiento o su clausura.
+XII.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa;
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-XIII.- Durante los cinco días previos a la elección y hasta el cierre de las casillas, publique o difunda por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos;
+XIII.- Impida la instalación o clausura de una casilla, afecte de cualquier manera su funcionamiento normal o asuma cualquier conducta tendente a impedir la apertura o cierre de la votación;
 
 > <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
 
@@ -2805,23 +2823,35 @@ XIV.- Retenga o destruya la credencial de elector el día de la jornada electora
 
 > <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
 
-XV.- Teniendo fe pública, certifique hechos falsos relativos a la función electoral o sin causa justificada, se niegue a dar fe de los actos en que deba intervenir en los términos de ley, y
+XV.- Teniendo fe pública, certifique hechos falsos relativos a la función electoral o sin causa justificada, se niegue a dar fe de los actos en que deba intervenir en los términos de ley;
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-XVI.- Fije o haga propaganda electoral en lugares o días no permitidos por el Código Electoral del Estado.
+XVI.- Teniendo fe pública, certifique hechos falsos relativos a la función electoral o sin causa justificada, se niegue a dar fe de los actos en que deba intervenir en los términos de ley;
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
 
-293.- Se impondrá multa de ciento cincuenta a cuatrocientos días de salario mínimo general vigente en el Estado y prisión de uno a tres años, a los ministros de cultos religiosos que, por cualquier medio induzcan o hagan proselitismo a favor de un candidato, partido político o promuevan el abstencionismo en el desarrollo de actos propios de su ministerio.
+XVII.- Realice actos de propaganda electoral o de proselitismo a favor de un candidato, partido político, o coalición, existiendo prohibición legal para ello;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+XVIII.- Viole sellos colocados en los documentos públicos electorales o en los lugares donde se resguardan estos materiales electorales; y
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+XIX.- Se ostente como funcionario electoral o como representante de un partido político o coalición, sin tener esa calidad.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+
+293.- Se impondrá multa de cien a quinientos días de salario mínimo diario general vigente en el Estado o prisión de dos a cinco años o ambas sanciones a los ministros de cultos religiosos que por cualquier medio, en el desarrollo de actos propios de su ministerio, induzcan al electorado a votar a favor o en contra de un candidato o partido político o coalición, o a la abstención del ejercicio del derecho del voto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2007)</small>
 
 294.- Se impondrá multa de ciento cincuenta a doscientos cincuenta días de salario mínimo general vigente en el Estado y prisión de dos a seis años, y será inhabilitado para ocupar cargos dentro de los órganos electorales, al funcionario electoral que:
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-I.- Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos relativos al Registro Estatal de Electores;
+I.- Altere, sustituya, destruya, comercialice, oculte, destruya o haga un uso ilícito de documentos públicos electorales;
 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
 
@@ -2831,45 +2861,45 @@ II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones elector
 
 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-IV.- Altere los resultados electorales, sustraiga o destruya boletas o documentos electorales;
+IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-VI.- En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+VI.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar en favor de un partido político, coalición o candidato determinado, o bien a la abstención, ya sea en el lugar en que se ubique la casilla o en el lugar donde los propios electores se encuentren formados;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia; la instale en lugar distinto al legalmente señalado o impida su instalación;
+VII.- Instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia; la instale en lugar distinto al legalmente señalado o impida su instalación;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-VIII.- Al que expulse de la casilla electoral, sin causa justificada, al representante de un partido político o coarte los derechos que la ley le concede;
+VIII.- Expulse de la casilla electoral, sin causa justificada, al representante de un partido político o coarte los derechos que la ley le concede;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-IX.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
+IX.- Evite tomar las medidas conducentes para que cesen la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-X.- Permita o tolere, a sabiendas, que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas, ilícitamente, una o más boletas electorales;
+X.- Permita o tolere que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas, ilícitamente, una o más boletas electorales;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-XI.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+XI.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
 
-> <small>(ADICIONADA, P.O.13 FEBRERO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 13 FEBRERO DE 2004)</small>
 
 XII.- Retuviere la credencial de elector el día de las elecciones sin causa justificada; y
 
-> <small>(ADICIONADA, P.O.13 FEBRERO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 13 FEBRERO DE 2004)</small>
 
-XIII. Induzca la realización del escrutinio y cómputo en lugar distinto al señalado para tal efecto.
+XIII.- Induzca la realización del escrutinio y cómputo en lugar distinto al señalado para tal efecto.
 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
 
@@ -2879,59 +2909,105 @@ Cuando un funcionario electoral se involucre en actos de corrupción y ponga en 
 
 295.- Se impondrá multa de cien a doscientos días de salario mínimo diario general vigente en el Estado y prisión de uno a seis años, al funcionario partidista que:
 
-I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+I.- Durante el proceso electoral, en los tres días previos a la jornada electoral o durante ésta, solicite votos por paga, promesa de dinero u otra recompensa, o bien que mediante amenaza o violencia física o moral coaccione a otros a votar a favor de un determinado candidato, partido político o coalición, o para que se abstenga de hacerlo;
 
-III.- Sustraiga, destruya, altere o haga uso indebido de documentos oficiales de índole electoral;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+II.- Realice actos de propaganda electoral mientras cumple sus funciones durante la jornada electoral;
 
-V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; o
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-VI.- Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia.
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos o materiales electorales;
 
-> <small>(ADICIONADA, P.O.13 FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-VII.- Fije o haga propaganda electoral en lugares o días no permitidos por el Código Electoral del Estado.
+IV.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física o moral sobre los funcionarios electorales;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
+
+V.- Propale de manera pública, por cualquier medio, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
+
+VI.- Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia;
+
+VII.- (DEROGADA, P.O. 1 DE ENERO DE 2008)
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+VIII.- Realice, reciba o haga uso de aportaciones de dinero o en especie a favor de candidato, partido político o coalición, cuando exista prohibición legal para ello; y
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+IX.- Durante la campaña electoral, en los tres días previos a la jornada electoral o durante ésta, solicite votos por paga, dádiva o promesa de dinero u otra recompensa, o bien, quien mediante amenaza o violencia física o moral, obligue o condicione a otros a votar a favor de un determinado candidato, partido o coalición o para que se abstengan de hacerlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2007)</small>
 
 296.- Se impondrá multa de trescientos a quinientos días de salario mínimo general vigente en el Estado, prisión de cuatro a seis años y será inhabilitado para ocupar cargos dentro de la administración gubernamental hasta por cinco años, al servidor público que:
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-I.- Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+I.- Usando cualquier medio, coaccione a sus subordinados, con la finalidad de que voten a favor o en contra de un determinado partido político, coalición o candidato;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; o a la afiliación a un determinado partido político; o
+II.- En el ámbito de su competencia condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obra (sic) públicas a actos de autoridad a la emisión del sufragio en favor de un partido político, coalición o candidato, o a la afiliación a un determinado partido político;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-III.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un candidato o partido político, sin perjuicio de las penas que puedan corresponder por el delito de peculado; o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicio a un partido político o a un candidato.
+III.- Transfiera, facilite o haga uso indebido de fondos, bienes o servicios que tenga a su disposición en virtud de su encargo, tales como vehículos, inmuebles y equipos, al apoyo de un candidato, coalición o partido político, sin perjuicio de las penas que puedan corresponder por el delito de peculado;
 
-297.- (DEROGADO, P.O.13 FEBRERO DE 2004)
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+IV.- Preste, a través de sus subordinados, algún servicio a los partidos políticos, las coaliciones o sus candidatos, usando de manera ilegal el tiempo correspondiente a sus labores;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+V.- Obstaculice, interfiera o impida el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado o el adecuado ejercicio de las tareas de los funcionarios electorales;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+VI.- Viole sellos colocados en los documentos públicos electorales o en el lugar donde se resguardan estos o materiales electorales;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+VII.- Obstruya o impida o retarde el envío o recepción de correspondencia que contenga boletas para votar o cualquier documento electoral; y
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+VIII.- Suplante, posea, compre, se allegue bajo cualquier medio o haga uso de boletas para votar, o de cualquier documento o información electoral a las que no tenga derecho, sin importar el motivo.
+
+297.- (DEROGADO, P.O. 13 FEBRERO DE 2004)
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2008)</small>
+
+297 BIS.- Se impondrá de seis meses a dos años de prisión o multa de cincuenta a trescientos días de salario, al observador electoral que sustituya u obstaculice a las autoridades electorales en el ejercicio de sus funciones e interfiera en el desarrollo de las mismas.
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
 
 298.- Se impondrá prisión de uno a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 296 de este Código.
 
-> <small>(ADICIONADO, P.O.13 FEBRERO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 13 FEBRERO DE 2004)</small>
 
 299.- Se impondrá pena de 5 a 10 años de prisión y multa de 200 a 500 días de salario mínimo diario general vigente en el Estado, a quién:
 
 I.- Impida sin causa justificada, de cualquier forma, la distribución o entrega de la documentación oficial electoral a la autoridad electoral correspondiente antes de la jornada o al término de ésta;
 
-II.- Retenga, sustraiga o se apodere de la documentación a que alude la fracción III del artículo 290 de este Código antes, durante o después de la jornada electoral; y
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+
+II.- En cualquier momento, retenga, sustraiga, se apodere o falsifique la documentación a que aluden las fracciones IV y V del artículo 290 de este Código y,
 
 Se aplicará hasta en una mitad más de la sanción contenida en este artículo, si el agente activo es servidor público, funcionario partidista o electoral.
 
-III.- Siendo servidor público ya sea estatal o municipal, realice proselitismo o participe en la apertura o cierre de campañas a favor de un partido político o candidato a ocupar un cargo de elección popular, en días u horas de jornada laboral, en las que esté obligado a permanecer en su oficina.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-> <small>(ADICIONADO, P.O.13 FEBRERO DE 2004)</small>
+III.- Siendo servidor público, durante el proceso electoral haga proselitismo o participe en la apertura o cierre de campañas a favor de un partido político, coalición o candidato a ocupar un cargo de elección popular, dentro de la jornada laboral que establezca la normatividad aplicable.
 
-299 Bis.- Se impondrá multa de cien a doscientos días de salario mínimo diario general vigente en el Estado y suspensión de sus derechos ciudadanos por un año, a quien habiendo sido electo para desempeñar cargo de elección popular del Estado o del Municipio, no se presente a desempeñarlo, en los plazos, términos y condiciones que establecen la Constitución Política del Estado y las Leyes Secundarias respectivas.
+> <small>(ADICIONADO, P.O. 13 FEBRERO DE 2004)</small>
+
+299 BIS.- Se impondrá multa de cien a doscientos días de salario mínimo diario general vigente en el Estado y suspensión de sus derechos ciudadanos por un año, a quien habiendo sido electo para desempeñar cargo de elección popular del Estado o del Municipio, no se presente a desempeñarlo, en los plazos, términos y condiciones que establecen la Constitución Política del Estado y las Leyes Secundarias respectivas.
 
 Igual pena se aplicará a quien sin mediar resolución de autoridad competente, impida por cualquier medio, que la persona electa popularmente inicie el desempeño de su cargo.
 
@@ -3212,3 +3288,7 @@ P.O. 30 DE NOVIEMBRE DE 2007.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Comuníquese el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
+
+P.O. 1 DE ENERO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
