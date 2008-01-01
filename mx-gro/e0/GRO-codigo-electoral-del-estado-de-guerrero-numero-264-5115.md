@@ -4,7 +4,7 @@ identifier: "GRO-codigo-electoral-del-estado-de-guerrero-numero-264-5115"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-05-01"
-last_updated: "2005-06-24"
+last_updated: "2008-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 CODIGO ELECTORAL DEL ESTADO DE GUERRERO NUMERO 264
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 1 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 1 de mayo de 1992.
 
@@ -5240,3 +5242,15 @@ P.O. 24 DE JUNIO DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. DE 1 DE ENERO DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de la presente Ley, queda abrogado el Código Electoral promulgado el día treinta de abril de mil novecientos noventa y dos, así como sus reformas, adiciones y derogaciones.
+
+.
+
+VIGÉSIMO SEXTO. Se abrogan todas las disposiciones jurídicas que se opongan a la presente Ley.
