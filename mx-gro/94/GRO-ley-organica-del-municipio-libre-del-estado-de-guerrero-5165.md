@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2007-03-23"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -395,9 +395,11 @@ VI. Demás servidores de nivel equivalente.
 
 Los servidores públicos a que se refiere este artículo no podrán ser parientes de ningún edil hasta el cuarto grado por afinidad o consanguinidad.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 30.
 
-El número y asignación de regidores de representación proporcional se ajustará a lo dispuesto por la Constitución Política del Estado de Guerrero.
+El número y asignación de regidores de mayoría relativa y de representación proporcional se ajustará a lo dispuesto por la Constitución Política del Estado de Guerrero.
 
 ###### ARTICULO 31.
 
@@ -423,11 +425,11 @@ Las elecciones de comisarios se sufragarán por planilla al cabo el segundo domi
 
 ### CAPITULO II. DE LA INSTALACION DEL AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 36.
 
-Los Ayuntamientos se instalarán el día 1o. de enero del año siguiente al de su elección, previa protesta que otorguen ante el Ayuntamiento saliente en Sesión Solemne que se celebrará el día anterior. La instalación es un acto meramente solemne y la responsabilidad del Ayuntamiento saliente cesa el 31 de diciembre del año de la elección a las 24:00 horas en que inicia la responsabilidad del nuevo Ayuntamiento. Cada Ayuntamiento notificará inmediatamente sobre su toma de posesión a los Poderes del Estado y a los Ayuntamientos de los Municipios limítrofes.
+Los ayuntamientos se instalarán el día 30 de septiembre del año en que deba renovarse, previa protesta que otorguen ante el Ayuntamiento saliente en sesión que se celebrará el día anterior. La instalación es un acto meramente solemne y la responsabilidad del Ayuntamiento saliente cesa el 29 de Septiembre del año de la elección a las 0:00 horas en que inicia la responsabilidad del nuevo Ayuntamiento. Cada Ayuntamiento notificará inmediatamente sobre su toma de posesión a los Poderes del Estado y a los Ayuntamientos de Municipios limítrofes.
 
 ###### ARTICULO 37.
 
@@ -513,29 +515,31 @@ Los Comisarios Municipales, los suplentes y los Auxiliares que señala esta Ley 
 
 ### CAPITULO IV. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 46.
 
-Los Ayuntamientos se integrarán por el principio de mayoría relativa y por el de representación proporcional, en base a lo siguiente:
+Los Municipios, serán Gobernados y administrados por sus respectivos ayuntamientos electos popularmente, integrados por un Presidente Municipal, uno o dos Síndicos Procuradores, regidores de mayoría relativa que hayan obtenido la mayoría de votos en la demarcación territorial electoral municipal y por regidores de representación proporcional, a partir de las siguientes bases:
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
+I.- En los Municipios con más de 300 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos Procuradores y 20 regidores, de los cuales 10 serán de mayoría relativa y 10 de representación proporcional.
 
-I.- En los Municipios con más de 115 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal y dos Síndicos Procuradores; cuando posean entre 115 mil y 300 mil habitantes, los formarán también 14 regidores y hasta 28 si exceden esa cantidad.
+II.- En los Municipios con población de 115 mil a 299,999 habitantes, los ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos Procuradores y 12 regidores de los cuales, 6 serán de mayoría relativa y 6 de representación proporcional.
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
+III.- En los Municipios con población de 75 mil a 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 10 Regidores de los cuales, 5 serán de mayoría relativa y 5 de representación proporcional.
 
-II.- En los Municipios con población de 75 mil y 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta por 12 Regidores.
+IV.- En los Municipios con habitantes de entre 25 mil y 74,999, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 8 regidores de los cuales, 4 serán de mayoría relativa y 4 de representación proporcional.
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
+V.- En los Municipios con una población menor de 25 mil habitantes, los ayuntamientos se integrarán por un Presidente Municipal, un Sindico Procurador y 6 Regidores de los cuales, 3 serán de mayoría relativa y 3 de representación proporcional.
 
-III.- En los Municipios que reúnan entre 25 mil y 74,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta por 8 Regidores;
+Los regidores de mayoría relativa serán electos uno por cada demarcación territorial electoral en que se divide el municipio.
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+Ningún partido político o coalición podrá tener más del 50% de regidurías por ambos principios.
 
-IV.- En los Municipios con menos de 25 mil habitantes, además del Presidente y del Síndico, habrá hasta 6 regidores.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 47.
 
-Cuando en las elecciones se obtenga 5% o más de los votos válidos, se asignarán las regidurías de representación proporcional en el orden decreciente de la votación en que se hayan obtenido, accediendo a ellas los candidatos a Presidentes Municipales cuando no hayan triunfado sus planillas. También podrán acceder a las regidurías de representanción (sic) proporcional los candidatos a Diputados al Congreso del Estado, sean de mayoría o de minoría, cuando no hayan obtenido el triunfo de sus fórmulas.
+Cuando en las elecciones obtengan el 2% o más de los votos válidos, se asignarán las regidurías de representación proporcional en el orden decreciente de la votación en que se hayan obtenido, accediendo a ellas las fórmulas de candidatos en el orden progresivo en el que hubieren sido registrados.
 
 ###### ARTICULO 48.
 
@@ -693,9 +697,13 @@ XXIII. Designar a los delegados y subdelegados municipales, a los titulares de l
 
 XXIV. Calificar la elección de los Comisarios Municipales y formular la declaratoria de su nombramiento;
 
-XXV. Expedir los bandos de policía y buen gobierno, y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, y
+XXV. Expedir los bandos de policía y buen gobierno, y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, y (sic)
 
-XXVI. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+
+XXVI. Determinar los límites territoriales que integran el primer cuadro de su cabecera municipal, y
+
+XXVII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 ###### ARTICULO 62.
 
@@ -1195,9 +1203,11 @@ VII. Las demás que les otorgue la Ley y los reglamentos.
 
 ### CAPITULO IX. DE LA SUSPENSION E INSTALACION PROVISIONAL DE AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 81.
 
-Cuando por cualquier circunstancia no se hubiere podido verificar la elección de algún Ayuntamiento o ésta hubiera sido declarada nula o no concurrieran los miembros necesarios para la instalación, el Congreso del Estado procederá a nombrar, entre los vecinos, un Concejo Municipal provisional, en tanto convoca a elecciones extraordinarias, las que deberán verificarse dentro de los sesenta días contados a partir de la fecha en que el Concejo tome posesión. Si dentro del término señalado no se verifican las nuevas elecciones por causas graves, el Congreso del Estado podrá ratificar al Concejo Municipal con carácter definitivo para cubrir el término legal que correspondería al Ayuntamiento que debió ser electo.
+Cuando por cualquier circunstancia no se hubiere podido verificar la elección de algún ayuntamiento o ésta hubiera sido declarada nula o no concurrieran los miembros necesarios para la instalación, el Congreso del Estado procederá a nombrar, entre los vecinos, un Consejo Municipal provisional, en tanto el Consejo General del Instituto Electoral convoca a elecciones extraordinarias, las que se deberán verificar dentro de los sesenta días contados a partir de la fecha en que el Consejo tome posesión. Si dentro del término señalado no se verifican las nuevas elecciones por causas graves, el Congreso del Estado podrá ratificar al Consejo Municipal con carácter definitivo para cubrir el término legal que correspondería al Ayuntamiento que debió ser electo.
 
 ###### ARTICULO 82.
 
@@ -3098,3 +3108,15 @@ SEGUNDO.- Comuníquese el presente Decreto al Gobernador del Estado y a los 81 H
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 CUARTO.- Para el cumplimiento de la fracción X del Artículo 63 Bis de esta Ley, se establece un tiempo máximo de 18 meses a partir de la publicación del presente.
+
+P.O. 1 DE ENERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Ayuntamientos que se elijan en el proceso electoral de 2008, se integrarán con el número de regidores de representación proporcional que se especifica en el artículo 97 de la Constitución Política del Estado en los decretos publicados en los Periódicos Oficiales de fechas 17 de Enero de 1992 y 17 de Mayo de 1996, respectivamente. Aplicándose la formula de asignación de regidores prevista en el artículo 97 de la Constitución Política del Estado.
+
+TERCERO.- Los Ayuntamientos que se elijan en el año 2008, durarán en funciones del 01 de enero de 2009 al 29 de Septiembre de 2012.
+
+CUARTO.- Los Regidores de mayoría relativa por elección directa serán elegidos a partir del Proceso Electoral de Ayuntamientos y Diputados a celebrarse en el año 2012.
+
+QUINTO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
