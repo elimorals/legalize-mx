@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2007-12-12"
+last_updated: "2008-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -383,11 +383,11 @@ Los Consejos Municipales estarán integrados con el mismo número de miembros y 
 
 ### CAPITULO V. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 42.
 
-Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán ordinariamente cuando menos una vez a la semana y cuantas veces sea necesario para tratar asuntos de urgente resolución o a petición de la tercera parte de sus miembros. Así mismo, pueden declararse en sesión permanente cuando la importancia del asunto lo requiera.
+Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán cuando menos una vez al mes; en los municipios que cuenten con más de ciento cincuenta mil habitantes, sesionarán preferentemente por lo menos dos veces por mes. En todo caso, cuando existan asuntos de urgente resolución o a petición de la tercera parte de sus miembros, sesionarán cuantas veces sea necesario. Asimismo, podrán declararse en sesión permanente, cuando la importancia del asunto así lo amerite.
 
 ###### ARTICULO 43.
 
@@ -3670,3 +3670,9 @@ P.O. 12 DE DICIEMBRE DE 2007.
 ###### ARTICULO UNICO.
 
 El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día 1 de enero del año 2008.
+
+P.O. 2 DE ENERO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
