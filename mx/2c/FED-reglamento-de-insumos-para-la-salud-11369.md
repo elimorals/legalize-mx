@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2003-09-19"
+last_updated: "2008-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 2008.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -69,9 +69,27 @@ XII. Ley, a la Ley General de Salud;
 
 XIII. Lote, a la cantidad específica de cualquier materia prima o Insumo, que haya sido elaborada en un ciclo de producción, bajo condiciones equivalentes de operación y durante un período determinado;
 
-XIV. Medicamento Genérico Intercambiable, a la especialidad farmacéutica con el mismo fármaco o sustancia activa y forma farmacéutica, con igual concentración o potencia, que utiliza la misma vía de administración y con especificaciones farmacopeicas iguales o comparables, que después de haber cumplido con las pruebas a que se refiere el presente Reglamento, ha comprobado que sus perfiles de disolución o su biodisponibilidad u otros parámetros, según sea el caso, son equivalentes a las del medicamento innovador o producto de referencia, y que se encuentra registrado en el Catálogo de Medicamentos Genéricos Intercambiables, y se identifica con su Denominación Genérica;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
+
+XIV. Medicamento Genérico, a la especialidad farmacéutica con el mismo fármaco o sustancia activa y forma farmacéutica, con igual concentración o potencia, que utiliza la misma vía de administración y que mediante las pruebas reglamentarias requeridas, ha comprobado que sus especificaciones farmacopéicas, perfiles de disolución o su biodisponibilidad u otros parámetros, según sea el caso, son equivalentes a las del medicamento de referencia;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
+
+XIV Bis. Medicamento de referencia, al medicamento indicado por la Secretaría como tal, que cuenta con el registro de dicha dependencia, que se encuentra disponible comercialmente y es seleccionado conforme a los criterios establecidos en las Normas;
 
 XV. Molécula Nueva, a la sustancia de origen natural o sintético que es el principio activo de un medicamento, no utilizada previamente en el país, cuya eficacia, seguridad y fines terapéuticos no hayan sido completamente documentados en la literatura científica;
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+Para efectos del Comité de Moléculas Nuevas, se clasificarán como moléculas nuevas a aquellas que se encuentren dentro de las siguientes categorías:
+
+a. Aquel fármaco o medicamento que no tenga registro a nivel mundial y que se pretende registrar en México (nueva entidad molecular).
+
+b. Aquel fármaco o medicamento que aún existiendo en otros países, con experiencia clínica limitada o información controvertida, no tenga registro en México y pretenda registrarse en nuestro país.
+
+c. Aquel medicamento que pretenda hacer una combinación que no exista en el mercado nacional de dos o más fármacos.
+
+d. Aquel fármaco o medicamento existente en el mercado que pretenda comercializarse con otra indicación terapéutica.
 
 XVI. Normas, a las normas oficiales mexicanas;
 
@@ -227,7 +245,9 @@ Las etiquetas deberán contener cuando menos la siguiente información sanitaria
 
 I. La Denominación Genérica;
 
-II. La Denominación Distintiva, excepto cuando se trate de los Medicamentos Genéricos Intercambiables;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
+
+II. La denominación distintiva; en caso de Medicamentos Genéricos su inclusión será optativa;
 
 III. La declaración de ingredientes activos;
 
@@ -245,7 +265,7 @@ IX. Las leyendas precautorias, incluyendo su riesgo de uso en el embarazo;
 
 X. Las leyendas de advertencia;
 
-XI. La leyenda o símbolo que, en su caso, lo identifique como Medicamento Genérico Intercambiable, y
+XI. (DEROGADA, D.O.F. 2 DE ENERO DE 2008)
 
 XII. Las especificaciones del organismo vivo que se utilizó para la preparación del medicamento y el nombre de la enfermedad a la cual se destina, de acuerdo con la nomenclatura internacional aceptada, cuando se trate de medicamentos de origen biológico de acción inmunológica.
 
@@ -295,9 +315,13 @@ El emisor de la receta al prescribir, indicará la dosis, presentación, vía de
 
 El emisor de la receta prescribirá los medicamentos de conformidad con lo siguiente:
 
-I. Cuando se trate de los incluidos en el Catálogo de Medicamentos Genéricos Intercambiables a que hace referencia el artículo 75 de este ordenamiento, deberá anotar la Denominación Genérica y, si lo desea, podrá indicar la Denominación Distintiva de su preferencia, y
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
-II. En el caso de los que no estén incluidos en el Catálogo referido en la fracción anterior, podrá indistintamente expresar la Denominación Distintiva o conjuntamente las Denominaciones Genérica y Distintiva.
+I. Cuando se trate de Medicamentos Genéricos, deberá anotar la Denominación Genérica y si lo desea, podrá indicar la denominación distintiva de su preferencia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
+
+II. En los demás casos podrá expresar la denominación distintiva o conjuntamente las denominaciones genérica y distintiva;
 
 Cuando en la receta se exprese la Denominación Distintiva del medicamento, su venta o suministro deberá ajustarse precisamente a esta denominación y sólo podrá sustituirse cuando lo autorice expresamente quien lo prescribe.
 
@@ -633,61 +657,47 @@ XI. La clave alfanumérica del registro.
 
 La venta y suministro de los medicamentos herbolarios que no sean ni contengan estupefacientes ni psicotrópicos, podrá realizarse en Establecimientos que no sean farmacias.
 
-### Capítulo VII. Medicamentos Genéricos Intercambiables
+> <small>(REFORMADA SU DENOMINACION, D.O.F.2 DE ENERO DE 2007)</small>
+
+### Capítulo VII. Medicamentos Genéricos
 
 ###### ARTÍCULO 72.
 
 Para efectos de lo dispuesto en el artículo 376 bis, fracción I de la Ley, los medicamentos destinados al mercado de genéricos serán únicamente las especialidades farmacéuticas que, en términos del presente Reglamento, sean intercambiables.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 73.
 
-El Consejo de Salubridad General y la Secretaría, mediante publicación en el Diario Oficial de la Federación, determinarán, periódicamente, las pruebas que deberán aplicarse para considerar a los medicamentos como intercambiables, según la naturaleza y forma farmacéutica de cada uno de éstos. Los criterios y requisitos a que deberán sujetarse dichas pruebas se establecerán en las Normas correspondientes.
+El Consejo de Salubridad General y la Secretaría, mediante publicación en el Diario Oficial de la Federación, determinarán las pruebas de intercambiabilidad, que deberán aplicarse de acuerdo a la normatividad correspondiente.
 
 ###### ARTÍCULO 74.
 
-El Consejo de Salubridad General elaborará y publicará periódicamente en el Diario Oficial de la Federación un catálogo que contenga la relación de los Medicamentos Genéricos Intercambiables, el cual mantendrá permanentemente actualizado.
+(DEROGADO, D.O.F. 2 DE ENERO DE 2008)
 
 ###### ARTÍCULO 75.
 
-Se incorporarán al Catálogo de Medicamentos Genéricos Intercambiables únicamente las especialidades farmacéuticas que reúnan los siguientes requisitos:
-
-I. Que cuenten con registro sanitario vigente;
-
-II. Que respecto del medicamento innovador o producto de referencia, tengan la misma sustancia activa y forma farmacéutica, con igual concentración o potencia, utilicen la misma vía de administración y con especificaciones farmacopeicas iguales o comparables;
-
-III. Que cumplan con las pruebas determinadas por el Consejo de Salubridad General y la Secretaría;
-
-IV. Que comprueben que sus perfiles de disolución o su biodisponibilidad u otros parámetros, según sea el caso, son equivalentes a los del medicamento innovador o producto de referencia, y
-
-V. Que estén incluidos en el Cuadro Básico de Insumos para el primer nivel y en el Catálogo de Insumos para el segundo y tercer nivel.
+(DEROGADO, D.O.F. 2 DE ENERO DE 2008)
 
 ###### ARTÍCULO 76.
 
-El catálogo a que se refiere el artículo anterior se editará en dos versiones:
-
-I. La dirigida a los médicos, y
-
-II. La dirigida al personal expendedor y público en general, y que estará disponible para su consulta en las farmacias, droguerías y boticas.
+(DEROGADO, D.O.F. 2 DE ENERO DE 2008)
 
 ###### ARTÍCULO 77.
 
-Los titulares de registros sanitarios vigentes podrán solicitar la incorporación de sus especialidades farmacéuticas al Catálogo de Medicamentos Genéricos Intercambiables, para lo cual acreditarán ante la Secretaría que reúnen los requisitos establecidos en el artículo 75 del presente Reglamento.
-
-Las especialidades farmacéuticas incorporadas en el Catálogo de Medicamentos Genéricos Intercambiables incluirán en sus etiquetas la leyenda o sello autorizado al efecto por la Secretaría.
+(DEROGADO, D.O.F. 2 DE ENERO DE 2008)
 
 ###### ARTÍCULO 78.
 
-Cuando el emisor de la receta prescriba un medicamento sólo por su Denominación Genérica, deberá tratarse de aquéllos contenidos en el Catálogo de Medicamentos Genéricos Intercambiables.
-
-Las farmacias, droguerías y boticas deberán poseer y utilizar la edición actualizada del Catálogo.
+(DEROGADO, D.O.F. 2 DE ENERO DE 2008)
 
 ###### ARTÍCULO 79.
 
-La venta o suministro de Medicamentos Genéricos Intercambiables deberá ser resultado de que el interesado seleccione el que más le convenga al consultar el Catálogo de Medicamentos Genéricos Intercambiables, mismo que deberá poner a su disposición el expendedor de la farmacia. En caso de que el medicamento prescrito no esté disponible, sólo podrá sustituirse cuando así lo autorice quien lo prescribe.
+(DEROGADO, D.O.F. 2 DE ENERO DE 2008)
 
 ###### ARTÍCULO 80.
 
-El Consejo de Salubridad General invitará a los fabricantes de especialidades farmacéuticas a producir Medicamentos Genéricos Intercambiables.
+(DEROGADO, D.O.F. 2 DE ENERO DE 2008)
 
 ### Capítulo VIII. Productos biotecnológicos
 
@@ -1069,17 +1079,21 @@ En el caso de los Establecimientos que comercialicen Remedios Herbolarios, el re
 
 ### Capítulo I. Importación
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE ENERO DE 2008)</small>
+
 ## TÍTULO QUINTO. Importación y exportación
 
 ### Capítulo II. Exportación
 
 ###### ARTÍCULO 131.
 
-Para importar especialidades farmacéuticas con fines de comercialización, se deberá contar previamente con el registro del producto autorizado por la Secretaría. En caso de que el importador no sea el titular del registro, deberá contar con el consentimiento del titular del mismo.
+Para importar medicamentos con fines de comercialización, se deberá contar previamente con el registro sanitario del producto expedido por la Secretaría. En caso de que el importador no sea el titular del registro, deberá contar con el consentimiento del titular.
 
 Podrán importar Insumos registrados para su comercialización, las personas que cuenten con las instalaciones adecuadas para el manejo seguro de los mismos y que garanticen el control de su calidad y farmacovigilancia, de acuerdo con los requisitos establecidos en la Norma correspondiente.
 
-Los Establecimientos a que se refiere el presente artículo deberán contar con licencia sanitaria.
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+Los Establecimientos a que se refiere el presente artículo deberán contar con licencia sanitaria o aviso sanitario, según corresponda, en términos de los artículos 258 y 373 de la Ley.
 
 Sólo se podrán importar medicamentos cuya fecha de caducidad sea mayor a doce meses, contados a partir de la entrada de los medicamentos al país, salvo los medicamentos que por su naturaleza tengan una estabilidad reducida y así lo autorice la Secretaría.
 
@@ -1269,6 +1283,14 @@ En los casos en que proceda la destrucción, los gastos correspondientes serán 
 
 Las autorizaciones sanitarias se solicitarán en los formatos oficiales que al efecto proporcione la autoridad competente, los cuales se acompañarán de los documentos señalados en el presente Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+Los documentos que acompañen a las solicitudes deberán encontrarse redactados en idioma español, y en caso contrario, deberán adjuntar a los mismos su respectiva traducción al español, avalada con la firma del responsable sanitario.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+Los documentos expedidos por autoridades de otros países deberán estar apostillados o legalizados y traducidos por perito traductor.
+
 ###### ARTÍCULO 154.
 
 Cuando el presente Reglamento no especifique un plazo expreso para resolver sobre una solicitud, la Secretaría dispondrá de cuarenta días para ese efecto.
@@ -1345,19 +1367,23 @@ Las licencias de los Establecimientos que utilicen fuentes de radiación para us
 
 La Secretaría, al otorgar el registro sanitario a los Insumos, los identificará asignándoles una clave alfanumérica y las siglas SSA, que el titular del registro expresará en el etiquetado de los productos, conforme lo establezca la Norma correspondiente.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 166.
 
-Las solicitudes de registro sanitario de medicamentos alopáticos serán resueltas por la Secretaría, conforme a lo siguiente:
+Las solicitudes de registro sanitario de medicamentos alopáticos serán resueltas por la Secretaría, conforme con lo siguiente:
 
-I. Cuando se trate de medicamentos que incluyan ingredientes activos y con indicaciones terapéuticas ya registradas en los Estados Unidos Mexicanos, la resolución deberá emitirse en un plazo máximo de cuarenta días.
+I. Cuando se trate de medicamentos que incluyan ingredientes activos y con indicaciones terapéuticas ya registradas en los Estados Unidos Mexicanos, la resolución deberá emitirse en un plazo máximo de ciento ochenta días naturales;
 
-En caso de que el solicitante presente dictamen favorable expedido por Tercero Autorizado por la Secretaría, se otorgará el registro en un plazo máximo de veinte días.
+II. Cuando se trate de medicamentos cuyos ingredientes activos no estén registrados en los Estados Unidos Mexicanos, pero se encuentren registrados y se vendan libremente en su país de origen, la resolución deberá emitirse en un plazo máximo de doscientos cuarenta días naturales, y
 
-II. Cuando se trate de medicamentos cuyos ingredientes activos no estén registrados en los Estados Unidos Mexicanos, pero se encuentren registrados y se vendan libremente en su país de origen, o bien incluyan nuevas indicaciones terapéuticas para los ingredientes ya registrados, la resolución deberá emitirse en un plazo máximo de sesenta días.
+III. Cuando se trate de medicamentos con moléculas nuevas, previo a la solicitud de registro sanitario, se realizará una reunión técnica entre el solicitante y el Comité de Moléculas Nuevas de la Comisión Federal para la Protección contra Riesgos Sanitarios. Una vez que se someta la solicitud de registro sanitario, la resolución deberá emitirse en un plazo máximo de 180 días naturales.
 
-En caso de que el solicitante presente dictamen favorable expedido por Tercero Autorizado por la Secretaría, en el sentido de que el medicamento cumple con las condiciones sanitarias y que el Establecimiento cumple con las buenas prácticas de fabricación, o bien que un organismo internacional reconocido por la Secretaría recomiende la autorización del medicamento, la Secretaría otorgará el registro en un plazo máximo de veinte días.
+El Comité de Moléculas Nuevas estará integrado por el Comisionado de Autorización Sanitaria, el Director Ejecutivo de Autorización de Productos y Establecimientos, el Director del Centro Nacional de Farmacovigilancia, y representantes de las asociaciones académicas.
 
-III. Cuando se trate de medicamentos con moléculas nuevas, la resolución deberá emitirse en un plazo máximo de noventa días.
+Cuando el último día del plazo sea inhábil, se entenderá prorrogado hasta el día siguiente hábil.
+
+En caso de que el solicitante presente informe técnico favorable expedido por Institución reconocida como Tercero Autorizado por la Secretaría, los plazos se reducirán a la mitad.
 
 ###### ARTÍCULO 167.
 
@@ -1371,13 +1397,27 @@ b. La estabilidad del producto terminado conforme a las Normas correspondientes;
 
 c. La eficacia terapéutica y seguridad de acuerdo con la información científica que corresponda;
 
-II. La información para prescribir, en sus versiones amplia y reducida, y
+II. La información para prescribir, en sus versiones amplia y reducida, y (sic)
 
-III. El proyecto de etiqueta.
+III. El proyecto de etiqueta;
 
 > <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2003)</small>
 
-IV. Lo señalado en el artículo 167-bis de este Reglamento.
+IV. Lo señalado en el artículo 167-bis de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
+
+V. Para Medicamentos Genéricos, en lugar de lo indicado en el inciso c de la fracción I, el informe de las pruebas de intercambiabilidad de acuerdo con las Normas correspondientes y demás disposiciones aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
+
+VI. Identificación del origen y certificado de buenas prácticas de fabricación del fármaco expedido por la Secretaría o por la autoridad competente del país de origen.
+
+En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y este provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá verificar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+
+La certificación de las buenas prácticas de fabricación tendrá una vigencia de treinta meses.
+
+Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
 
 Cuando en la Farmacopea de los Estados Unidos Mexicanos y sus suplementos no exista la información pertinente, podrá utilizarse la información de farmacopeas de otros países cuyos procedimientos de análisis se realicen conforme a especificaciones y recomendaciones de organismos especializados u otras fuentes de información científica internacional.
 
@@ -1401,13 +1441,25 @@ Para ser titular del registro sanitario de un medicamento se requiere contar con
 
 Para ser titular del registro sanitario de vacunas y hemoderivados además de cumplir con todas las disposiciones aplicables para medicamentos alopáticos, deberán atenderse las Normas correspondientes a productos biológicos y hemoderivados.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 170.
 
-Para obtener el registro sanitario de medicamentos alopáticos de fabricación extranjera, además de cumplir con lo establecido en el artículo 167 de este Reglamento, se anexarán a la solicitud los documentos siguientes:
+Para obtener el registro sanitario de medicamentos alopáticos de fabricación extranjera, además de cumplir con lo establecido en el artículo 167, fracciones I a V, de este Reglamento, se anexarán a la solicitud los documentos siguientes:
 
-I. El certificado de libre venta expedido por la autoridad sanitaria del país de origen;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
-II. El certificado de que la empresa cuenta con el permiso para fabricar medicamentos y constancia de buenas prácticas de fabricación expedida por la autoridad correspondiente del país de origen, y
+I. El certificado de libre venta o equivalente expedido por la autoridad correspondiente del país de origen;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
+
+II. Certificado de buenas prácticas de fabricación del fármaco y del medicamento, expedido por la Secretaría o por la autoridad competente del país de origen.
+
+En caso de que el solicitante presente el certificado de la autoridad competente del país de origen y provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá verificar al establecimiento para comprobar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+
+La certificación de las buenas prácticas de fabricación se realizará a solicitud de parte y tendrán una vigencia de treinta meses.
+
+Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados, y
 
 III. La carta de representación, cuando el laboratorio que lo fabrique en el extranjero no sea filial o casa matriz del laboratorio solicitante del registro.
 
@@ -1541,7 +1593,9 @@ III. El resumen del proceso de fabricación: cepa o línea celular, fermentació
 
 IV. Los métodos analíticos: físicos, químicos y biológicos;
 
-V. La validación del proveedor de acuerdo con buenas prácticas de fabricación, que el producto cumple con las especificaciones predeterminadas;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
+
+V. La validación del fabricante de que el producto final cumple con las especificaciones predeterminadas;
 
 VI. La monografía del medicamento: forma farmacéutica, especificaciones cualitativas y cuantitativas;
 
@@ -1551,7 +1605,9 @@ VIII. Proyectos, en su caso, de Etiqueta y del instructivo correspondiente, así
 
 IX. Los estudios in-vitro o clínicos que señale la Secretaría.
 
-La Secretaría resolverá las solicitudes de registro de los Insumos a que se refiere el presente artículo en un plazo máximo de noventa días.
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+La Secretaría resolverá las solicitudes de registro de los Insumos a que se refiere el presente artículo en un plazo máximo de ciento ochenta días naturales.
 
 ###### ARTÍCULO 178.
 
@@ -1696,6 +1752,96 @@ En caso de que el titular requiera una prórroga al plazo señalado en el párra
 La cesión de derechos de un registro sanitario de los Insumos de que trata este Reglamento, deberá comunicarse por escrito a la Secretaría por el titular del mismo, en un plazo no mayor de treinta días a partir de la fecha en que se hubiere realizado. A esta comunicación se anexarán los documentos en los que conste la cesión y los proyectos de Etiqueta por duplicado en los que se exprese el nuevo titular.
 
 Para el trámite de la cesión de derechos a que se refiere el párrafo anterior se seguirá lo establecido para las modificaciones a las condiciones de registro.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+###### ARTÍCULO 190
+
+bis 1. Para obtener la prórroga del registro sanitario de medicamentos se deberá presentar con la solicitud, exclusivamente lo siguiente:
+
+I. Comprobante del pago de derechos, en términos de la Ley Federal de Derechos;
+
+II. Número o copia simple del registro sanitario del cual se pide la prórroga;
+
+III. Informe técnico de las pruebas de intercambiabilidad, cuando haya cambios que puedan modificar la farmacocinética del medicamento, ya sea en los equipos de producción, en la calidad de los componentes, en los criterios de aceptación o en el proceso de producción;
+
+IV. Etiquetas en uso, instructivo, así como información para prescribir en sus formas amplia y reducida, previamente autorizados;
+
+V. Informe de farmacovigilancia del medicamento, en los términos de la normatividad aplicable, y
+
+VI. Para el caso de medicamentos alopáticos, certificado de buenas prácticas de fabricación del fármaco, expedido por la Secretaría o por la autoridad competente del país de origen.
+
+En caso de que el solicitante presente el certificado de la autoridad competente del país de origen y este provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá verificar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+
+Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+###### ARTÍCULO 190
+
+bis 2. Para obtener la prórroga del registro sanitario de medicamentos de fabricación extranjera, además de lo señalado en el artículo 190 Bis 1, fracciones I a V, se deberá presentar con la respectiva solicitud exclusivamente lo siguiente:
+
+I. El documento que acredite a un representante legal con domicilio en los Estados Unidos Mexicanos;
+
+II. Para el caso de medicamentos alopáticos, certificado de buenas prácticas de fabricación del fármaco y del medicamento, expedido por la Secretaría o por la autoridad competente del país de origen, y
+
+III. Para el caso de medicamentos herbolarios, vitamínicos y homeopáticos, certificado de buenas prácticas de fabricación del medicamento, expedido por la Secretaría o por la autoridad competente del país de origen.
+
+En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y este provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá verificar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+
+Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 190
+
+bis 3. Para obtener la prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos, y otros dispositivos de uso médico, que sean de fabricación nacional, se deberá presentar en el siguiente orden y con la solicitud exclusivamente lo siguiente:
+
+I. Comprobante del pago de derechos, en términos de la Ley Federal de Derechos;
+
+II. Número o copia simple del registro sanitario del cual se pide la prórroga y sus modificaciones;
+
+III. Etiquetas en uso, instructivo o manuales, previamente autorizados;
+
+IV. Informe de tecnovigilancia por producto, en términos de la normatividad aplicable;
+
+V. Certificado de análisis emitido por la empresa que elabora el producto, con el membrete de su razón social y firmado por el responsable sanitario o su equivalente, y
+
+VI. Certificado de buenas prácticas de fabricación del producto, expedido por la Secretaría. En caso de que el solicitante no presente este Certificado, la Secretaría fijará, en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+
+Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+###### ARTÍCULO 190
+
+bis 4. Para obtener la prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos y otros dispositivos de uso médico, que sean de fabricación extranjera, además de lo requerido en el artículo 190 Bis 3, fracciones I a V, se deberá presentar exclusivamente lo siguiente:
+
+I. El documento que acredite a un representante legal con domicilio en los Estados Unidos Mexicanos, y
+
+II. Certificado de buenas prácticas de fabricación del producto, expedido por la Secretaría, o por la autoridad competente del país de origen.
+
+Para productos Clase I, II y Clase III se aceptará como equivalente del certificado de Buenas Prácticas de Fabricación al certificado ISO 13485 vigente o el certificado de marca CE expedido por un organismo de certificación autorizado.
+
+En caso de que el solicitante presente el certificado de la autoridad competente del país de origen y provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá realizar una visita sanitaria al establecimiento para comprobar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+
+Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+###### ARTÍCULO 190
+
+bis 5. Al notificarse la resolución correspondiente a la solicitud de prórroga, el titular del registro deberá entregar al notificador el original de la autorización sanitaria y, en su caso, de sus modificaciones.
+
+En caso de no contar con el original del registro deberá presentar copia de la denuncia efectuada ante el Ministerio Público de la pérdida o robo.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+
+###### ARTÍCULO 190
+
+bis 6. Las solicitudes de prórroga previstas en los artículos 190 Bis 1, 190 Bis 2, 190 Bis 3 y 190 Bis 4 deberán presentarse a más tardar ciento cincuenta días naturales antes de la fecha en que concluya la vigencia del registro correspondiente.
+
+La Secretaría resolverá las solicitudes de prórroga de Insumos en un plazo máximo de ciento cincuenta días naturales siguientes a la presentación de la solicitud. Cuando el último día del plazo sea inhábil, se entenderá prorrogado hasta el día siguiente hábil. En caso de que la Secretaría no emita la resolución respectiva en los plazos señalados en este artículo, se entenderá procedente la solicitud.
 
 ###### ARTÍCULO 191.
 
@@ -2058,3 +2204,37 @@ D.O.F. 19 DE SEPTIEMBRE DE 2003.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Instituto Mexicano de la Propiedad Industrial expedirá en un plazo de sesenta días naturales las disposiciones relativas a la integración, funcionamiento y actualización del listado a que se refiere el artículo 47-bis del Reglamento de la Ley de la Propiedad Industrial que se adiciona conforme a este Decreto, así como los formatos de consulta aplicables. Para este efecto el Instituto tomará en consideración la opinión de la Cámara Nacional de la Industria Farmacéutica.
+
+D.O.F. 2 DE ENERO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las solicitudes de registro sanitario que se encuentren en trámite a la entrada en vigor del presente Decreto se atenderán hasta su conclusión conforme con las disposiciones vigentes al momento de su presentación.
+
+TERCERO. Para solicitar por primera vez la prórroga de los registros sanitarios de medicamentos y demás insumos para la salud, que hayan sido otorgados por tiempo indeterminado, se deberá cumplir con lo establecido en este Reglamento y con lo siguiente:
+
+I. La solicitud deberá presentarse a más tardar el 24 de febrero de 2010.
+
+II. En las solicitudes de prórroga que se presenten durante los años 2007 y 2008, podrá requerirse en el mismo trámite la autorización de modificaciones a las condiciones del registro sanitario respectivo. Para tal efecto, los solicitantes deberán cumplir con los requisitos técnicos y administrativos que correspondan y bastará que anexen el comprobante de pago de derechos por la solicitud de prórroga del registro sanitario correspondiente.
+
+III. Para la prórroga del registro sanitario de medicamentos genéricos, en todos los casos se deberá acompañar el informe de las pruebas de intercambiabilidad: copia de las pruebas realizadas para obtener el registro de GI, o las nuevas pruebas en caso de cambios que puedan modificar la farmacocinética del medicamento, ya sea en los equipos de producción, en la calidad de los componentes, en los criterios de aceptación o en el proceso de producción.
+
+IV. Para la prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos y otros dispositivos de uso médico, se deberá acompañar el certificado de análisis emitido por la empresa que elabora el producto, con el membrete de su razón social y firmado por los químicos responsables, aun cuando no haya cambios o cualquier modificación del proceso en la planta, en el proceso de producción, en la calidad de los componentes o en los criterios de aceptación.
+
+V. En tanto la Secretaría no expida la resolución sobre la solicitud de prórroga del registro, se mantendrá vigente la autorización.
+
+VI. En tanto no sean publicadas en el Diario Oficial de la Federación las Normas Oficiales Mexicanas correspondientes, la Secretaría utilizará como referencia las normas o lineamientos internacionales.
+
+CUARTO. La Secretaría publicará en el Diario Oficial de la Federación el procedimiento para realizar las visitas sanitarias de verificación previstas en este Reglamento, dentro de los treinta días hábiles siguientes a la publicación de este Decreto.
+
+QUINTO. La Secretaría publicará en el Diario Oficial de la Federación los formatos para las solicitudes de prórroga de registros sanitarios de insumos para la salud, dentro de los treinta días hábiles siguientes a la publicación de este Decreto.
+
+SEXTO. Las etiquetas correspondientes podrán contener la leyenda o símbolo como Medicamento Genérico Intercambiable hasta el 24 de febrero de 2010.
+
+SÉPTIMO. Hasta el día 24 de febrero de 2010, el Consejo de Salubridad General continuará elaborando y publicando periódicamente en el Diario Oficial de la Federación un catálogo que contenga la relación de los Medicamentos Genéricos, el cual mantendrá actualizado.
+
+Para tal efecto el particular solicitará al Consejo de Salubridad General la inclusión en el catálogo presentando únicamente copia del registro que acredite a su producto como Genérico.
+
+La inclusión de un Medicamento Genérico en dicho catálogo es únicamente para efectos informativos y no constituye un requisito para su comercialización.
+
+OCTAVO. El Comité de Moléculas Nuevas de la Comisión Federal para la Protección contra Riesgos Sanitarios, quedará constituido a más tardar treinta días después de la publicación del presente Decreto, y deberá aprobar y publicar en el Diario Oficial de la Federación su Reglamento Interior a más tardar noventa días después de haber quedado constituido.
