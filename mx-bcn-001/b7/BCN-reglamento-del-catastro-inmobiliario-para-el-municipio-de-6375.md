@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-catastro-inmobiliario-para-el-municipio-de-6375"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-10-27"
-last_updated: "1995-10-27"
+last_updated: "2008-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL CATASTRO INMOBILIARIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 1995.
 
@@ -33,9 +33,11 @@ REGLAMENTO DEL CATASTRO INMOBILIARIO PARA EL MUNICIPIO DE ENSENADA, B. C.
 
 ### Capítulo Primero. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 1.
 
-El Presente Reglamento es para proveer en la esfera administrativa del Municipio de Ensenada, Baja California, a la exacta observancia de las disposiciones que señala la Ley del Catastro Inmobiliario y tiene por objeto regular la integración, organización, forma, términos y procedimientos a que se sujetarán los trabajos catastrales que no estén precisados en la Ley.
+El Presente Reglamento es para proveer en la esfera administrativa del Municipio de Ensenada, Baja California, a la exacta observancia de las disposiciones que señala la Ley del Catastro Inmobiliario, de conformidad a lo establecido por los artículos 1, 2, 3 y 18 de la Ley del Régimen Municipal para el Estado de Baja California y el Reglamento de la Administración Publica para el Municipio de Ensenada de Baja California y tiene por objeto regular la integración, organización, forma, términos y procedimientos a que se sujetarán los trabajos catastrales que no estén precisados en la Ley.
 
 ###### ARTICULO 2.
 
@@ -91,15 +93,19 @@ XVII.- Consejo: al Consejo Municipal del Catastro Inmobiliario que como órgano 
 
 XVIII.- Ley: a la Ley del Catastro Inmobiliario del Estado en Baja California.
 
-XIX.- Dirección: a la Dirección de Desarrollo Urbano y Ecología encargada del catastro inmobiliario en el municipio de Ensenada, Baja California.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+XIX.- Secretaria: a la Secretaría de Administración Urbana, encargada del catastro inmobiliario en el municipio de Ensenada, Baja California.
 
 XX.- Derechos: la contraprestación establecida por ley o por el cabildo que perciba el Ayuntamiento a través de la Dependencia municipal encargada del Catastro Inmobiliario, por la prestación de servicios, venta de productos cartograficos o la realización de operaciones y trabajos catastrales.
 
 XXI.- Deslinde: la acción de medir y señalar en el terreno los límites físicos de un inmueble.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 3.
 
-Corresponde al Ayuntamiento de Ensenada y a la Dirección de Desarrollo Urbano y Ecología, en el ámbito de su competencia, la interpretación y aplicación de las disposiciones de este Reglamento.
+Corresponde al Ayuntamiento de Ensenada y a la Secretaría de Administración Urbana, en el ámbito de su competencia, la interpretación y aplicación de las disposiciones de este Reglamento.
 
 ###### ARTICULO 4.
 
@@ -107,13 +113,17 @@ El Presidente Municipal podrá convenir con el Gobernador del Estado, la coordin
 
 ### Capítulo Segundo. DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 5.
 
-Las facultades que el artículo 12 de la Ley otorga al ayuntamiento se ejercerán por el Presidente Municipal, salvo las que requieran acuerdo expreso del cabildo, y las ejercerá por sí o por conducto del Titular de la Dirección de Desarrollo Urbano y Ecología, quien tendrá la autoridad necesaria para su funcionamiento.
+Las facultades que el artículo 12 de la Ley otorga al ayuntamiento se ejercerán por el Presidente Municipal, salvo las que requieran acuerdo expreso del cabildo, y las ejercerá por sí o por conducto del Titular de la Secretaría de Administración Urbana, quien tendrá la autoridad necesaria para su funcionamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 6.
 
-El Director de Desarrollo Urbano y Ecología tendrá, además de las facultades y obligaciones consignadas en la Ley, las siguientes:
+El Secretario de Administración Urbana, tendrá, además de las facultades y obligaciones consignados en la Ley, las siguientes:
 
 I.- Formular y coordinar los programas de investigación y operación catastral, así como los proyectos de presupuesto y presentarlos para su aprobación al C. Presidente Municipal.
 
@@ -229,9 +239,11 @@ b).- A continuación se preguntará a los presentes si procede discutirla. En ca
 
 c).- El Presidente del Consejo o quien lo sustituya preguntará si está suficientemente discutido el asunto y, en caso afirmativo pedirá la votación nominal computando un voto por cada uno de los representantes acreditados, manifestando al final el sentido de los votos que corresponden al Secretario Técnico y al propio Presidente del Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 18.
 
-El Secretario Técnico del Consejo será el Director de Desarrollo Urbano y Ecología, sus funciones serán:
+El Secretario Técnico del Consejo será el Secretario de Administración Urbana, sus funciones serán:
 
 a).- Levantar el acta de cada una de las sesiones.
 
@@ -273,17 +285,23 @@ III.- Componentes relativos a los tipos de construcción predominante en el sect
 
 Habitación popular, Media, Residencial, Comercial general, Comercial especializado e Industrial.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 22.
 
-Corresponde a la Dirección elaborar la propuesta de zonificación catastral y someterla a consideración del Consejo con anticipación de 45 días hábiles al inicio de su vigencia, para que una vez revisada y aprobada por el Ayuntamiento, se remita al Congreso del Estado para su aprobación definitiva.
+Corresponde a la Secretaría elaborar la propuesta de zonificación catastral y someterla a consideración del Consejo con anticipación de 45 días hábiles al inicio de su vigencia, para que una vez revisada y aprobada por el Ayuntamiento, se remita al Congreso del Estado para su aprobación definitiva.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 23.
 
-Corresponde a la Dirección la aplicación de la zonificación catastral, y la división del territorio municipal en sectores, subsectores o colonias, de acuerdo a la identificación técnica de las características homogéneas que se obtenga como resultado de las investigaciones que realize (sic) o coordine.
+Corresponde a la Secretaría la aplicación de la zonificación catastral, y la división del territorio municipal en sectores, subsectores o colonias, de acuerdo a la identificación técnica de las características homogéneas que se obtenga como resultado de las investigaciones que realice o coordine.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 24.
 
-La Dirección intervendrá en la identificación, monumentación o amojonamiento de los límites municipales, e igualmente propondrá al cabildo la delimitación de los Centros de Población, del Perímetro Urbano, de las áreas de preservación ecológica y de crecimiento urbano, así como de las áreas de provisionamiento para la fundación de nuevos Centros de Población, en los términos de la Ley de Desarrollo Urbano y demás disposiciones legales.
+La Secretaría intervendrá en la identificación, monumentación o amojonamiento de los límites municipales, e igualmente propondrá al cabildo la delimitación de los Centros de Población, del Perímetro Urbano, de las áreas de preservación ecológica y de crecimiento urbano, así como de las áreas de provisionamiento para la fundación de nuevos Centros de Población, en los términos de la Ley de Desarrollo Urbano y demás disposiciones legales.
 
 ### Capítulo Quinto. DE LOS VALORES UNITARIOS
 
@@ -295,21 +313,27 @@ El valor del suelo se determinará multiplicando el valor unitario que éste ten
 
 El valor de la construcción se determinará multiplicando el valor unitario de la construcción que tenga de acuerdo a su clasificación, por la correspondiente superficie de edificación contenida en el predio.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 26.
 
-La Dirección elaborará las propuestas de los valores unitarios tomando en cuenta los factores a que se refiere el artículo 17 y 20 de la Ley así como los componentes relativos enlistados en el artículo 21 de este Reglamento.
+La Secretaría elaborará las propuestas de los valores unitarios tomando en cuenta los factores a que se refiere el artículo 17 y 20 de la Ley así como los componentes relativos enlistados en el artículo 21 de este Reglamento.
 
-En los casos en que se incorporen nuevas áreas a la urbanización o la información sea insuficiente para determinar el valor técnico aplicable al bien inmueble de que se trate, la Dirección, con base en los elementos de que disponga, asignará un valor provisional igual al que corresponda a otros bienes inmuebles semejantes en sus características.
+En los casos en que se incorporen nuevas áreas a la urbanización o la información sea insuficiente para determinar el valor técnico aplicable al bien inmueble de que se trate, la Secretaría, con base en los elementos de que disponga, asignará un valor provisional igual al que corresponda a otros bienes inmuebles semejantes en sus características.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 27.
 
-La Dirección recibirá las tablas de valores aprobadas por el Congreso del Estado, las manifestaciones de los propietarios o poseedores a que se refiere el artículo 35 de la Ley y, las listas o padrones de causantes del impuesto predial para proceder a realizar la valuación individual de predios y, de los predios y la construcción, utilizando las normas y especificaciones técnicas, manuales e instructivos aprobados conforme a la Ley.
+La Secretaría recibirá las tablas de valores aprobadas por el Congreso del Estado, las manifestaciones de los propietarios o poseedores a que se refiere el artículo 35 de la Ley y, las listas o padrones de causantes del impuesto predial para proceder a realizar la valuación individual de predios y, de los predios y la construcción, utilizando las normas y especificaciones técnicas, manuales e instructivos aprobados conforme a la Ley.
 
 ### Capítulo Sexto. DE LAS OPERACIONES CATASTRALES
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 28.
 
-La Dirección será la encargada de ejecutar todas las operaciones catastrales a que se refiere el artículo 12 de la Ley y de integrar y conservar la información relativa a los registros, padrones, documentos y archivos referentes a las características cualitativas y cuantitativas de los bienes inmuebles, ubicados dentro del territorio municipal.
+La Secretaría será la encargada de ejecutar todas las operaciones catastrales a que se refiere el artículo 12 de la Ley y de integrar y conservar la información relativa a los registros, padrones, documentos y archivos referentes a las características cualitativas y cuantitativas de los bienes inmuebles, ubicados dentro del territorio municipal.
 
 ###### ARTICULO 29.
 
@@ -367,7 +391,9 @@ CATASTRAL 02 Sector o Colonia
 
 Las operaciones de deslinde catastral y las de valuación de inmuebles de carácter individual se desarrollarán conforme a las siguientes reglas:
 
-I.- La operación de que se trate se realizará en el lugar señalado en la orden emitida por la Dirección de Desarrollo Urbano y Ecología.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+I.- la operación de que se trate se realizará en el lugar señalado en la orden emitida por la Secretaría de Administración Urbana.
 
 II.- Si al presentarse el técnico o perito designado al lugar en donde deba practicarse la operación catastral, no estuviere el propietario o poseedor, o los vecinos de inmuebles colindantes, les dejará citatorio con la persona que se encuentre en dicho lugar para que, a hora determinada del día siguiente, los espere a efecto de desahogar y realizar el trabajo catastral ordenado; si así no lo hicieren, la operación y los trabajos catastrales e iniciarán con quien se encuentre en el lugar visitado. La ausencia de los interesados citados legalmente, no será motivo para suspender la ejecución de dichas operaciones.
 
@@ -377,35 +403,43 @@ IV.- De toda operación se levantará acta en la que se hará constar en forma c
 
 V.- Los propietarios, poseedores, vecinos colindantes e interesados, podrán formular las observaciones que estimen convenientes, para insertarlas al final de acta, y se solicitará su firma para constancia; en caso de no obtener su conformidad con lo asentado o si se negarán a firmarla, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 33.
 
-Para efectos del artículo 24, 34 y 51 de la Ley, las notificaciones a los propietarios o poseedores surtirán sus efectos al hacerse por la Dirección de Desarrollo Urbano y Ecología, en cualquiera de las formas siguientes:
+Para efectos del artículo 24, 34 y 51 de la Ley, las notificaciones a los propietarios o poseedores surtirán sus efectos al hacerse por la Secretaría de Administración Urbana, en cualquiera de las formas siguientes:
 
 I.- Personalmente o por correo certificado con acuse de recibo.
 
 II.- Por edictos publicados en el Periódico Oficial del Estado o en uno de los diarios de circulación en el Centro de Población que corresponda, conforme al artículo 122 del Código de Procedimientos Civiles para Baja California, solamente cuando se trate de terreno sin construcción, o existiendo ésta se encontrare sola o cerrada y se ignore el nombre o domicilio de la persona a quien deba notificarse.
 
-III.- Por instructivo, para lo cual se deberá fijar un anuncio de proporciones visibles en la parte externa del inmueble de que se trate en el que se informe a las personas que puedan considerarse perjudicadas, a los vecinos y al público en general, la fecha y hora en que habrá de realizarse las operaciones de deslinde catastral, o las circunstancias a que se refiere el artículo 34 de la Ley. El anuncio deberá contener la identificación y domicilio de la Dirección de Desarrollo Urbano y Ecología y en su caso, del solicitante o promovente interesado.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+III.- Por instructivo, para lo cual se deberá fijar un anuncio de proporciones visibles en la parte externa del inmueble de que se trate en el que se informe a las personas que puedan considerarse perjudicadas, a los vecinos y al público en general, la fecha y hora en que habrá de realizarse las operaciones de deslinde catastral, o las circunstancias a que se refiere el artículo 34 de la Ley. El anuncio deberá contener la identificación y domicilio de la Secretaría de Administración Urbana y en su caso, del solicitante o promovente interesado.
 
 ###### ARTICULO 34.
 
 Los trabajos topográficos y operaciones de deslinde, la rectificación o aclaración de linderos, así como la valuación de los bienes inmuebles, podrán realizarse por los peritos registrados en el padrón a que se refiere la fracción X del artículo 6, previa autorización general otorgada por el Ayuntamiento en los términos del presente Reglamento.
 
-Los trabajos y operaciones requeridas por las autoridades judiciales o administrativas, sin solicitud de ninguno de los interesados, serán desempeñados por el perito que, en cada caso se designe, de la lista o padrón que proporcione la Dirección de Desarrollo Urbano y Ecología, la cual tendrá la obligación de supervisar, comprobar y certificar el dictamen que resulte; Los honorarios de los peritos designados serán cubiertos, de acuerdo a lo que dispone el Código de Procedimientos Civiles.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
+Los trabajos y operaciones requeridas por las autoridades judiciales o administrativas, sin solicitud de ninguno de los interesados, serán desempeñados por el perito que, en cada caso se designe, de la lista o padrón que proporcione la Secretaría de Administración Urbana la cual tendrá la obligación de supervisar, comprobar y certificar el dictamen que resulte; Los honorarios de los peritos designados serán cubiertos, de acuerdo a lo que dispone el Código de Procedimientos Civiles para el Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 35.
 
-Las operaciones catastrales en las que intervengan peritos registrados se presentarán a la Dirección de Desarrollo Urbano y Ecología para su certificación y, verificación, previo el pago de derechos que corresponda y bajo las siguientes bases:
+Los operaciones catastrales en los que intervengan peritos registrados se presentarán a la Secretaría de Administración Urbana para su certificación y, verificación, previo el pago de derechos que corresponda y bajo las siguientes bases:
 
-I.- Todo levantamiento topográfico, deslinde, rectificación o aclaración de linderos, así como avalúo de inmuebles que pretenda realizarse dentro del territorio municipal de Ensenada Baja California, será manifestado a la Dirección de Desarrollo Urbano y Ecología, para que ésta proceda a indicar los puntos de referencia o vértices geodésicos, establecidos por el Sistema Estatal de Coordenadas, a que deberán ligarse o, en su caso y a falta de estos, acepte las coordenadas contenidas en las cartas topográficas elaboradas por el Instituto Nacional de Estadística, Geografía e Informática.
+I.- Todo levantamiento topográfico, deslinde, rectificación o aclaración de linderos, así como avalúo de inmuebles que pretenda realizarse dentro del territorio municipal de Ensenada Baja California, será manifestado a la Secretaría de Administración Urbana para que ésta proceda a indicar los puntos de referencia o vértices geodésicos, establecidos por el Sistema Estatal de Coordenadas, a que deberán ligarse o, en su caso y a falta de estos, acepte las coordenadas contenidas en las cartas topográficas elaboradas por el Instituto Nacional de Estadística, Geografía e Informática.
 
-II.- Cuando el predio o área objeto de operaciones catastrales colinde o pueda ser afectado por la existencia de propiedad pública o zona federal, marítima o terrestre, por arroyos, ríos, esteros, lagunas, presas, canales, drenes, acueductos, carreteras, autopistas o derechos de vía, línea de transmisión de energía eléctrica, estaciones y subestaciones eléctricas, ductos o plantas de almacenamiento de petróleo o sus derivados, vías de ferrocarril, monumentos arqueológicos, históricos o artísticos, aeropuertos e inmuebles destinados por la Federación o el Estado a un servicio público, y se presente a la Dirección de Desarrollo Urbano para su revisión y certificación, deberá acompañarse de la certificación, conformidad o visto bueno de la Dependencia federal o estatal que corresponda, en el que manifieste estar de acuerdo sobre la ubicación de mojoneras y delimitación del predio colindante o, en su defecto, del acta circunstanciada a que se refiere el artículo 32 de este Reglamento, en donde conste la asistencia y firma de las personas representantes de las Dependencias involucradas durante la realización de los trabajos topográficos de que se trate, manifestando su conformidad o las observaciones que juzguen pertinentes.
+II.- Cuando el predio o área objeto de operaciones catastrales colinde o pueda ser afectado por la existencia de propiedad pública o zona federal, marítima o terrestre, por arroyos, ríos, esteros, lagunas, presas, canales, drenes, acueductos, carreteras, autopistas o derechos de vía, línea de transmisión de energía eléctrica, estaciones y subestaciones eléctricas, ductos o plantas de almacenamiento de petróleo o sus derivados, vías de ferrocarril, monumentos arqueológicos, históricos o artísticos, aeropuertos e inmuebles destinados por la Federación o el Estado o un servicio público, y se presente a la Secretaría de Administración Urbana para su revisión y certificación, deberá acompañarse de la certificación, conformidad o visto bueno de la Dependencia federal o estatal que corresponda, en el que manifieste estar de acuerdo sobre la ubicación de mojoneras y delimitación del predio colindante o, en su defecto, del acta circunstanciada a que se refiere el artículo 32 de este Reglamento, en donde conste la asistencia y firma de las personas representantes de los Dependencias involucradas durante la realización de los trabajos topográficos de que se trate, manifestando su conformidad o las observaciones que juzguen pertinentes.
 
-III.- La Dirección no podrá certificar documentos, planos o deslindes de predios y áreas que se encuentren en litigio, solamente extenderá la certificación correspondiente sobre predios en litigio cuando exista orden expresa de la autoridad judicial o resolución definitiva en donde se determine a quien asiste el derecho de posesión o de propiedad del predio en cuestión; en ambos casos, los gastos y derechos serán liquidados por el interesado.
+II.- La Secretaría no podrá certificar documentos, planos o deslindes de predios y áreas que se encuentren en litigio, solamente extenderá la certificación correspondiente sobre predios en litigio cuando exista orden expresa de la autoridad judicial o resolución definitiva en donde se determine a quien asiste el derecho de posesión o de propiedad del predio en cuestión; en ambos casos, los gastos y derechos serán liquidados por el interesado.
 
-IV.- La Dirección suspenderá administrativamente los efectos de las certificaciones de deslindes medidas y colindancias otorgadas, cuando exista sobreposición de planos o duda sobre la identidad del predio, dejando a salvo los derechos de los particulares, para que los hagan valer por la vía y forma que mejor convenga a sus intereses.
+IV.- La Secretaría suspenderá administrativamente los efectos de las certificaciones de deslindes medidas y colindancias otorgadas, cuando exista sobreposición de planos o duda sobre lo identidad del predio, dejando a salvo los derechos de los particulares, para que los hagan valer por la vía y forma que mejor convenga a sus intereses.
 
-V.- La Dirección mantendrá en custodia los planos, documentos y productos cartográficos exhibidos por los particulares con el propósito de obtener la certificación solicitada, pero si a partir de la fecha de recepción, transcurren más de tres meses sin que el solicitante pague los derechos correspondientes o comparezca a recoger la certificación y documentación exhibida, la Dirección podrá desecharlos sin responsabilidad a su cargo.
+V.- La Secretaría mantendrá en custodia los planos, documentos y productos cartográficos exhibidos por los particulares con el propósito de obtener la certificación solicitada, pero si a partir de la fecha de recepción, transcurren más de tres meses sin que el solicitante pague los derechos correspondientes o comparezca o recoger lo certificación y documentación exhibida, la Secretaría podrá desecharlos sin responsabilidad a su cargo.
 
 ###### ARTICULO 36.
 
@@ -427,7 +461,9 @@ y derecho
 
 0.32m
 
-Tratándose de predios mayores a 100 hectáreas las dimensiones de los planos se podrán modificar de acuerdo a las escalas y dimensiones del predio a certificar. La presentación también podrá realizarse a través de medios magnéticos o discos de computación, previa autorización escrita de la Dirección.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
+Tratándose de predios mayores a 100 hectáreas las dimensiones de los planos se podrán modificar de acuerdo a las escalas y dimensiones del predio a certificar. La presentación también podrá realizarse a través de medios magnéticos o discos de computación, previa autorización escrita de la Secretaría.
 
 II.- La tira marginal contendrá:
 
@@ -459,15 +495,19 @@ m).- Clave catastral.
 
 n).- Fecha de realización del trabajo topográfico.
 
-o).- Espacios para el sello de recepción de la Dirección de Desarrollo Urbano y Ecología y firmas del Titular de la Dirección y del Departamento Técnico revisor.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
+o).- Espacios para el sello de recepción de la Secretaría de Administración Urbana y firmas del Titular de la Dirección y del Departamento Técnico revisor.
 
 p).- Cuadro de distribución de superficies: Lotificada, Servicios Públicos, Calles y Banquetas, Reserva de Crecimiento y Superficie Total.
 
 ### Capítulo Septimo. DEL REGISTRO Y AUTORIZACION DE PERITOS
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 37.
 
-La Dirección de Desarrollo Urbano y Ecología llevará un registro de los peritos que cuenten con autorización para la realización de trabajos topográficos y otro para la realización de trabajos de valuación.
+La Secretaría de Administración Urbana, llevará un registro de los peritos que cuenten con autorización para la realización de trabajos topográficos y otro para la realización de trabajos de valuación.
 
 ###### ARTICULO 38.
 
@@ -481,7 +521,9 @@ III.- Acreditar que posee conocimientos sobre la Ley de Desarrollo Urbano, Ley d
 
 IV.- No haber sido condenado en sentencia ejecutoriada por delito intencional alguno.
 
-V.- Solicitar ante la Dirección de Desarrollo Urbano y Ecología, el registro y la aplicación de las pruebas de evaluación que correspondan, a fin de obtener el dictamen a que se refiere el artículo 41 de este Reglamento y;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+V.- Solicitar ante la Secretaría de Administración Urbana, el registro y la aplicación de las pruebas de evaluación que correspondan, a fin de obtener el dictamen a que se refiere el artículo 41 de este Reglamento y;
 
 VI.- Realizar el pago de los derechos de inscripción o revalidación en el padrón de peritos que corresponda.
 
@@ -501,19 +543,25 @@ I.- Dirigir, supervisar y llevar a cabo los peritajes encomendados, asegurándos
 
 II.- Suscribir los planos, memorias y documentos que resulten, con su nombre, domicilio fiscal, número de cédula profesional y número de registro.
 
-III.- Elaborar y entregar al propietario o poseedor y a la Dirección, al término de cada peritaje, los planos y memorias técnicas que contengan la descripción detallada del inmueble de que se trate.
+REFORMADA, P.O. 4 DE ENERO DE 2008)
+
+III.- Elaborar y entregar al propietario o poseedor y a la Secretaría, al término de cada peritaje, los planos y memorias técnicas que contengan la descripción detallada del inmueble de que se trate.
 
 IV.- Desarrollar la operación catastral encomendada observando las reglas establecidas en el artículo 32 de este Reglamento.
 
 V.- Responder de cualquier violación a las disposiciones de este Reglamento relativas a su trabajo y especialidad.
 
-VI.- Refrendar su registro cada año o cuando lo determine la Dirección de Desarrollo Urbano y Ecología, motivada por reformas o modificaciones sustanciales a la Ley, a este Reglamento, a las normas, manuales y procedimientos técnicos catastrales.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+VI.- Refrendar su registro cada año o cuando lo determine la Secretaría de Administración Urbana, motivada por reformas o modificaciones sustanciales a la Ley, a este Reglamento, a las normas, manuales y procedimientos técnicos catastrales.
 
 VII.- Señalar y mantener su domicilio laboral en la Ciudad de Ensenada, B.C.. (sic)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 41.
 
-La Dirección de Desarrollo Urbano y Ecología en materia de peritaje tendrá además, las siguientes atribuciones:
+La Secretaría de Administración Urbana en materia de peritaje tendrá además, las siguientes atribuciones:
 
 I. Verificar que los aspirantes a obtener el registro de perito cumplan con los requisitos establecidos en este Reglamento.
 
@@ -523,7 +571,9 @@ III.- Llevar un registro de los trabajos topográficos, operaciones de deslinde,
 
 IV.- Evaluar los conocimientos, a que se refiere el artículo 38 y 39 de este Reglamento, de los aspirantes a obtener registro de perito, mediante la aplicación de pruebas teóricas y prácticas diseñadas en coordinación con los Colegios de Profesionales y emitir el dictamen otorgando o negando el registro que corresponda.
 
-V.- Vigilar, cuando lo considere conveniente, la actuación de los peritos durante el proceso de ejecución de los trabajos concedidos, auxiliándose de las unidades administrativas adscritas a la misma Dirección.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+V.- Vigilar, cuando lo considere conveniente, la actuación de los peritos durante el proceso de ejecución de los trabajos concedidos, auxiliándose de las unidades administrativas adscritas a la misma Secretaría.
 
 VI.- Verificar que los trabajos concedidos se hayan realizado conforme a las especificaciones y normas técnicas contenidas en los manuales e instructivos catastrales, reservándose el derecho de ejercitar las facultades de comprobación cuando así lo estime conveniente.
 
@@ -537,7 +587,9 @@ I.- Que haya obtenido su inscripción proporcionando datos falsos o documentos a
 
 II.- El trabajo pericial se presente incompleto y no cumpla con las reglas a que se refiere el artículo 32 y 36 de este Reglamento.
 
-III.- Cuando a juicio de la Dirección no hubiere cumplido con las obligaciones a que se refiere el articulo 40 de este Reglamento.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+III.- Cuando a juicio de la Secretaría no hubiere cumplido con las obligaciones a que se refiere el artículo 40 de este Reglamento.
 
 IV.- Intervenga en trabajos y avaluos que conforme al artículo 43 debiera de abstenerse.
 
@@ -565,15 +617,19 @@ IV.- En general, cuando se encuentre en alguna situación que afecte la imparcia
 
 Los propietarios o poseedores de predios urbanos o rústicos, dentro del plazo de quince días hábiles contados a partir de la fecha de que se adquiera ese carácter, así como los representantes legales de los ejidatarios o comuneros, tienen la obligación de presentar por cada bien inmueble, predio o solar urbano, una manifestación catastral conteniendo los datos señalados en el artículo 36 de este Reglamento; Esta obligación es extensiva a los propietarios de bienes inmuebles que por disposición de la Ley se encuentren exentos del pago de impuesto predial y a las personas físicas o morales que pretendan fraccionar, fusionar, relotificar un predio o constituirlo bajo el régimen de propiedad en condominio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 45.
 
-Los notarios, jueces y en general cualquier otro funcionario que tenga fe pública y que intervenga en el otorgamiento de contratos cuyo objeto sea modificar o transmitir el dominio directo de un bien inmueble, tiene la obligación de manifestarlo por escrito a la Dirección de Desarrollo Urbano y Ecología dentro de los quince días hábiles siguientes a la fecha de celebración del contrato o convenio respectivo. Igual obligación corresponde a los particulares cuyas operaciones consten en documentos privados.
+Los notarios, jueces y en general cualquier otro funcionario que tenga fe pública y que intervenga en el otorgamiento de contratos cuyo objeto sea modificar o transmitir el dominio directo de un bien inmueble, tiene la obligación de manifestarlo por escrito a la Secretaría de Administración Urbana dentro de los quince días hábiles siguientes a la fecha de celebración del contrato o convenio respectivo. Igual obligación corresponde o los particulares cuyos operaciones consten en documentos privados.
 
 Esta obligación es extensiva a todas las autoridades, dependencias o instituciones que por ley tengan la atribución de autorizar actos que modifiquen la situación física o los elementos que caracterizan a de (sic) los bienes inmuebles ubicados dentro del territorio municipal.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 46.
 
-Las manifestaciones y avisos que deban presentarse en los términos del Capítulo Quinto de la Ley y de este Reglamento, se realizarán en las formas de declaración que para tal efecto apruebe la Dirección de Desarrollo Urbano y Ecología anexando los planos, datos y documentos que se especifiquen en las mismas.
+Los manifestaciones y avisos que deban presentarse en los términos del Capítulo Quinto de la Ley y de este Reglamento, se realizarán en las formas de declaración que para tal efecto apruebe la Secretaría de Administración Urbana anexando los planos, datos y documentos que se especifiquen en las mismas.
 
 ###### ARTICULO 47.
 
@@ -625,7 +681,9 @@ g).- Extensión superficial total y de cada una de las clases de tierra que teng
 
 h).- Relación anual de los productos expresada en toneladas, kilos, o piezas forestales, de ganado o cultivo y valor promedio de los mismos en los últimos cinco años.
 
-i).- Fecha y número de la inscripción del título respectivo en el Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
+i).- Fecha y número de la inscripción del título respectivo en el Registro Publico de la Propiedad y de Comercio.
 
 j).- Volúmen de aguas, obras para su uso o distribución, número de aguajes y todo lo correlativo al costo de producción de litros por segundo.
 
@@ -651,39 +709,51 @@ Además deberán exhibiran (sic) las resoluciones presidenciales que amparen la 
 
 ### Capítulo Noveno. DE LOS FRACCIONAMIENTOS Y CONDOMINIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 50.
 
-Las personas físicas o morales que obtengan autorización para fraccionar, subdividir, relotificar o fusionar un predio o bien inmueble o para constituírlo bajo el régimen de propiedad en condominio, deberán presentar ante la Dirección de Desarrollo Urbano y Ecología la manifestación o aviso a que se refiere el artículo 45 de la Ley y este Reglamento acompañando los planos, memorias descriptivas y demás documentos relativos a cada lote, departamento o predio resultante, a fin de señalar la clave catastral que a cada uno corresponda.
+Las personas físicas o morales que obtengan autorización para fraccionar, subdividir, relotificar o fusionar un predio o bien inmueble o para constituirlo bajo el régimen de propiedad en condominio, deberán presentar ante la Secretaría de Administración Urbana la manifestación o aviso o que se refiere el artículo 45 de la Ley y este Reglamento acompañando los planos, memorias descriptivas y demás documentos relativos a cada lote, departamento o predio resultante, a fin de señalar la clave catastral que a cada uno corresponda.
 
 En los planos o memorias descriptivas deberán especificarse las áreas de uso común y las reservadas para alojamiento de servicios y equipamiento urbano.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 51.
 
-Dentro del plazo de 45 días naturales siguientes a la recepción de la documentación a que se refiere el artículo anterior, la Dirección deberá asignar la clave catastral a cada local, departamento o predio que resulte y entregará al fraccionador una relación y copia del plano referido con la clave correspondiente.
+Dentro del plazo de 45 días naturales siguientes o lo recepción de la documentación a que se refiere el artículo anterior, la Secretaría deberá asignar la clave catastral a cada local, departamento o predio que resulte y entregará al fraccionador una relación y copia del plano referido con lo clave correspondiente.
 
-El propietario del fraccionamiento o condominio deberá comunicar por escrito a la Dirección cualquier modificación que se autorice a los planos de lotificación aprobados con anterioridad, en un término de 15 días hábiles siguientes a la fecha de modificación, debiendo acompañar un ejemplar de los planos en que aparezcan señaladas las alteraciones autorizadas a fin de actualizar el registro y padrón catastral.
+El propietario del fraccionamiento o condominio deberá comunicar por escrito a la Secretaría cualquier modificación que se autorice a los planos de lotificación aprobados con anterioridad, en un término de 15 días hábiles siguientes a la fecha de modificación, debiendo acompañar un ejemplar de los planos en que aparezcan señaladas las alteraciones autorizadas a fin de actualizar el registro y padrón catastral.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 52.
 
-En los casos de condominios, fraccionamientos, subdivisiones, relotificaciones o fusiones de bienes inmuebles que se realicen, total o parcialmente, sin la licencia o autorización respectiva, la Dirección procederá a efectuar las operaciones catastrales correspondientes con carácter provisional, sin perjuicio de aplicar las sanciones que prevén las leyes y sin que ello implique la regularización de esta situación.
+En los casos de condominios, fraccionamientos, subdivisiones, relotificaciones o fusiones de bienes inmuebles que se realicen, total o parcialmente, sin lo licencia o autorización respectiva, la Secretaría procederá a efectuar las operaciones catastrales correspondientes con carácter provisional, sin perjuicio de aplicar las sanciones que prevén las leyes y sin que ello implique la regularización de esta situación.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 53.
 
-Los fraccionadores tendrán la obligación de manifestar mensualmente a la Dirección, las operaciones de compraventa, promesa de venta, venta con reserva de dominio o cualquier otro contrato preliminar o preparatorio a la transmisión del uso o dominio de los lotes, locales o departamentos que resulten. De celebrarse los contratos, transmitirse la posesión o uso del inmueble, sin haberse realizado dicha manifestación la Dirección procederá a registrar a nombre del poseedor sin que ello implique la regularización de esta situación y auxiliará a las demás autoridades en la aplicación de las sanciones a que haya lugar.
+Los fraccionadores tendrán lo obligación de manifestar mensualmente a la Secretaría, las operaciones de compraventa, promesa de venta, venta con reserva de dominio o cualquier otro contrato preliminar o preparatorio a la transmisión del uso o dominio de los lotes, locales o departamentos que resulten. De celebrarse los contratos, transmitirse la posesión o uso del inmueble, sin haberse realizado dicha manifestación la Secretaría procederá a registrar a nombre del poseedor sin que ello implique la regularización de esta situación y auxiliará a las demás autoridades en la aplicación de las sanciones a que haya lugar.
 
 ### Capítulo Decimo. DE LOS RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 54.
 
-Los interesados afectados por los actos y resoluciones de la Dirección de Desarrollo Urbano y Ecología, distintos a los que señala el artículo 48 de la Ley, podrán interponer recurso de revocación o intentar las vías judiciales correspondientes.
+Los interesados afectados por los actos y resoluciones de la Secretaría de Administración Urbana distintos a los que señala el artículo 48 de la Ley, podrán interponer recurso de revocación o intentar las vías judiciales correspondientes.
 
 ###### ARTICULO 55.
 
 El plazo para interponer el recurso será de quince días contado a partir del dia siguiente a aquél en que hubiere surtido efectos la notificación o de que el interesado o su representante legal haga la manifestación expresa de conocer el contenido del acto o resolución que se reclama.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 56.
 
-El escrito de interposición del recurso se presentará ante la Dirección de Desarrollo Urbano y Ecología y deberá expresar:
+El escrito de interposición del recurso se presentará ante la Secretaría de Administración Urbana y deberá expresar.
 
 I.- El nombre del recurrente y domicilio, dentro del centro de población de Ensenada, para oír y recibir notificaciones y, en su caso, del representante autorizado para recibirlas.
 
@@ -693,9 +763,11 @@ III.- Los agravios que se le causan, la petición que se formula y los preceptos
 
 IV.- Las pruebas que ofrezca y que tengan relación inmediata y directa con la resolución o acto impugnado, debiendo acompañar las documentales con que cuente, incluídas las que acreditan su interés en el asunto y personalidad cuando actúe en nombre de otro o de personas morales, así como copia de la resolución o acto que impugna y de las (sic) notificación correspondiente. En el procedimiento no se admitirá la prueba confesional de las autoridades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 57.
 
-La Dirección deberá acordar, en su caso, la admisión del recurso y señalar dentro de los diez días siguientes a su interposición, fecha para la audiencia de desahogo de pruebas y formulación de alegatos.
+La Secretaría deberá acordar, en su caso, la admisión del recurso y señalar dentro de los diez días siguientes a su interposición, fecha para la audiencia de desahogo de pruebas y formulación de alegatos.
 
 Si se ofrecieran pruebas que ameriten ulterior desahogo, se concederá al interesado un plazo no mayor de quince días para tal efecto.
 
@@ -758,3 +830,9 @@ FRANCISCO P. CHING BERNAL
 EL SECRETARIO GENERAL
 
 LIC. RUBEN REYES MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ENERO DE 2008.
+
+UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
