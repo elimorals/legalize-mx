@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-seguridad-civil-y-prevencion-de-incendios-3289
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-06-10"
-last_updated: "1990-06-10"
+last_updated: "2008-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA SEGURIDAD CIVIL Y PREVENCION DE INCENDIOS PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el domingo 10 de junio de 1990.
 
@@ -101,9 +101,11 @@ REGLAMENTO DE LA SEGURIDAD CIVIL Y PREVENCION DE INCENDIOS PARA EL MUNICIPIO DE 
 
 ### CAPITULO I.- DEL OBJETIVO Y FINES.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 1o.
 
-El presente ordenamiento es de observancia general y tiene como finalidad establecer las normas y medidas necesarias para la seguridad civil y la prevención y el control de los incendios.
+El presente ordenamiento es de observancia general y obligatoria dentro de los limites de la circunscripción territorial del Municipio de Ensenada, tiene como finalidad establecer las normas y medidas necesarias para la seguridad civil y la prevención y el control de los incendios Baja California (sic), de conformidad a lo establecido por los artículos 1, 2, 3 y 18, de la Ley del Régimen Municipal para el estado de baja California, y el Reglamento de la Administración Publica para el Municipio de Ensenada, Baja California.
 
 ###### ARTICULO 2o.
 
@@ -119,6 +121,8 @@ El presente Reglamento será aplicado a todo tipo de construcciones, edificacion
 
 ### CAPITULO II.- DE LAS AUTORIDADES COMPETENTES.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 5o.
 
 Son autoridades competentes para la aplicación del presente Reglamento:
@@ -127,21 +131,25 @@ I.- El H. Ayuntamiento.
 
 II.- El C. Presidente Municipal.
 
-III.- El C. Director de Seguridad Pública Municipal.
+III.- El C. Secretario de Seguridad Pública Municipal.
 
-IV.- El Jefe del Departamento de Bomberos.
+IV.- El Director de Bomberos y Protección Civil.
 
-V.- Los C.C. Inspectores de la Seguridad Civil y Prevención de incendios.
+V.- Los CC. Inspectores de la Seguridad Civil y Prevención de Incendios.
 
-VI.- Los C.C. Inspectores de la Oficina de Reglamentos.
+VI.- Los CC. Inspectores de la Oficina de Reglamentos.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 6o.
 
-El Departamento de Bomberos, será el Organo de la Administración Pública Municipal encargado de la aplicación y observancía de las normas y medidas que establecen (sic) en el presente ordenamiento, pudiendo ser auxiliado por fuerza (sic) pública Municipal.
+La Dirección de Bomberos y Protección Civil, será el Órgano de la Administración Pública Municipal encargado de la aplicación y observancia de las normas y medidas que establecen (sic) en el presente ordenamiento, pudiendo ser auxiliado por fuerza (sic) pública Municipal.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 7o.
 
-Se faculta al C. Jefe de Bomberos, para que formule y proponga al Ayuntamiento para su aprobación el manual de las bases y tablas técnicas para la seguridad civil y la prevención de incendios.
+Se faculta al C. Director de Bomberos y Protección Civil, para que formule y proponga al Ayuntamiento para su aprobación el manual de las bases y tablas técnicas para la seguridad civil y la prevención de incendios.
 
 ###### ARTICULO 8o.
 
@@ -151,7 +159,9 @@ I.- Instalar o construir y conservar en estado óptimo de funcionamiento las med
 
 II.- Cumplir y hacer cumplir las medidas de seguridad y prevención de incendios que establece el presente ordenamiento.
 
-III.- Solicitar ante el Departamento de Bomberos, la revisión y aprobación en su caso de la instalación de los dispositivos de seguridad que el inmueble requiera, para su construcción y cuando menos 15 días antes de su ocupación.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+III.- Solicitar ante la Dirección de Bomberos y Protección Civil, la revisión y aprobación en su caso de la instalación de los dispositivos de seguridad que el inmueble requiera para su construcción y cuando menos 15 días antes de su ocupación.
 
 IV.- La solicitud, que la fracción anterior refiere, deberá de acompañarse con los siguientes datos y documentos.
 
@@ -167,11 +177,15 @@ e).- Plano de instalación precisando las relativas a la seguridad de las person
 
 V.- Pagar los derechos que causen, conforme a la Ley de Ingresos del Municipio.
 
-VI.- Permitir las inspecciones que de oficio o a solicitud de parte se (sic) realice el Departamento de Bomberos.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+VI.- Permitir las inspecciones que de oficio o a solicitud de parte se (sic) realice la Dirección de Bomberos y Protección Civil.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 9o.
 
-Son facultades y obligaciones del Departamento de Bomberos:
+Son facultades y obligaciones de la Dirección de Bomberos y Protección Civil:
 
 I.- Auxiliar a la población en caso de desastres y combatir los incendios.
 
@@ -191,9 +205,11 @@ VII.- Las demás, que este Reglamento, las Leyes Federales, Estatales y la Lesgi
 
 En (sic) responsabilidad del propietario, posesionario, administrador y en lo que corresponde, el usuario, de la seguridad civil de los ocupantes del inmueble y el funcionamiento de los sistemas y dispositivos de seguridad en los términos de este ordenamiento, sin perjuicio de los delitos o faltas a otras Leyes o disposiciones legales.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 11.
 
-En (sic) causa de responsabilidad para el Departamento de Bomberos, la negligencia y el descuido de las inspecciones y vigilancia de los dispositivos de seguridad que por oficio o a petición de parte deban realizar.
+En (sic) causas de responsabilidad para la Dirección de Bomberos y Protección Civil, la negligencia y el descuido de las inspecciones y vigilancia de los dispositivos de seguridad que por oficio o a petición de parte deban realizar.
 
 ###### ARTICULO 12.
 
@@ -307,7 +323,9 @@ Las áreas de peligro en los edificios para la educación, deberán localizarse 
 
 Tratándose de internados escolares, el área total de ventanas en los dormitorios de los edificios, no deberán ser menor de una quinta parte de la superficie del piso.
 
-1.- Es obligación de todo edificio o aula escolar, contar con extinguidores, señalamientos y sobre todo un plan de evacuación autorizado por la Dirección de Protección Civil.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+I.- Es obligación de todo edificio o aula escolar, contar con extinguidores, señalamientos y sobre todo un plan de evacuación autorizado por la Dirección de Bomberos y Protección Civil.
 
 ### CAPITULO IV.- DE LAS EDIFICACIONES COMERCIALES Y DE OFICINA.
 
@@ -493,7 +511,9 @@ IV.- El fuego debe controlarlo una persona preparada para emplear el extinguidor
 
 Los extinguidores constituyen la primera línea de defensa contra el fuego y deben instalarse independientemente de cualquier otra medida de control.
 
-No obstante, el Departamento de Bomberos debe ser alertado cuando se descubra un fuego, nunca retrasarse el llamado a Bomberos con la esperanza, de que el o los extinguidores son suficientes.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
+No obstante, la Dirección de Bomberos y Protección Civil debe ser alertado (sic) cuando se descubra un fuego, nunca retrasarse el llamado a Bomberos con la esperanza, de que el o los extinguidores son suficientes.
 
 ###### ARTICULO 67.
 
@@ -527,9 +547,11 @@ Los fuegos del tipo C serán reconocidos por un círculo azul que en parte inter
 
 Los fuegos del tipo D serán reconocidos por una estrella amarilla que en su parte lleve en blanco una D.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 72.
 
-Las inspecciones que en forma programática, por oficio o petición de parte realice el Departamento de Bomberos, a los sistemas de extinguidores deberán cubrir los siguientes aspectos:
+Las inspecciones que en forma programática, por oficio o petición de parte realice la Dirección de Bomberos y Protección Civil a los sistemas de extinguidores deberán cubrir los siguientes aspectos:
 
 I.- Colocación y Ubicación.
 
@@ -563,15 +585,19 @@ III.- 30 días después de autorizado el presente Reglamento, todos los extingui
 
 IV.- Al siguiente día de se (sic) aprobado este Reglamento queda estrictamente prohíbido volver a vender extinguidores deshechables (sic) que solo han servido para cometer fraudes.
 
-V.- Los extinguidores del Municipio de Ensenada, Baja, California, solamente podrán ser cargados por una Empresa o persona física que reuna los requisitos obligatorios por el Departamento de Bomberos y la Oficina de Prevención Civil.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+V.- Los extinguidores del Municipio de Ensenada, Baja California, solamente podrán ser cargados por una Empresa o persona física que reúna los requisitos obligatorios por la Dirección de Bomberos y Protección Civil.
 
 ###### ARTICULO 75.
 
 Constituyen sistemas de prevención de incendios las instalaciones de alarmas, detectores de calor y humo o fotoeléctricos por ionización.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 76.
 
-Para autorizar un permiso para recargar extinguidores se pedirá a todas las autoridades que primero se tramite en Bomberos, para que reuna los requisitos y después en las demás obligaciones fiscales.
+Para autorizar un permiso para recargar extinguidores se pedirá a todas las autoridades que primero se trámite la (sic) Dirección de Bomberos y Protección Civil, para que reúna los requisitos y después en las demás obligaciones fiscales.
 
 ###### ARTICULO 77.
 
@@ -583,7 +609,7 @@ Constituyen áreas de peligro, aquellas en donde se instalan calderas, estufas, 
 
 ###### ARTICULO 79.
 
-Las instalaciones a que se refiere el Art. anterior deberán contar con dispositivos de segurridad (sic), manuales y automáticos.
+Las instalaciones a que se refiere el Art. anterior deberán contar con dispositivos de segurridad(sic), manuales y automáticos.
 
 ###### ARTICULO 80.
 
@@ -613,17 +639,21 @@ Los edificios de las mismas características que (sic) se refiere el Artículo 8
 
 En cada infracción de las señaladas por este Reglamento la autoridad calificadora al imponer la sanción que corresponda, las (sic) tomará en cuenta la importancia o gravedad de la infracción las condiciones socio-económicas y culturales del infractor, la intención de éste y su voluntad de enmendar o corregir su conducta.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 86.
 
-Corresponde al Jefe del Departamento de Bomberos, por Delegación expresa del C. PRESIDENTE MUNICIPAL, calificar las infracciones e imponer las sanciones correctas.
+Corresponde al Director de Bomberos y Protección Civil, por Delegación expresa del C. PRESIDENTE MUNICIPAL, calificar las infracciones e imponer las sanciones correctas.
 
 ###### ARTICULO 87.
 
 La reincidencia y el caso de infracciones continua ameritándole doble y triple sanción, tratandose de multas, o cierre definitivo.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 88.
 
-Se reserva al PRESIDENTE MUNICIPAL, la facultad de cancelar las sanciones y en casos pequeños o muy especiales al Jefe del Departamento de Bomberos.
+Se reserva al PRESIDENTE MUNICIPAL, la facultad de cancelar las sanciones y en casos pequeños o muy especiales al Director de Bomberos y Protección Civil.
 
 ### CAPITULO II (SIC).- DE LAS INFRACCIONES, SANCIONES Y SERVICIOS.
 
@@ -701,13 +731,13 @@ La demolición parcial o total de la obra solo se determinará por resolución e
 
 ###### ARTICULO 94.
 
-En todos los casos de siniestro donde exista responsable y sin perjuicio de los que las demás Leyes establezcan, se provendrán las sanciones de reposición de la obra o bien dañado Municipal y el pago de daños y perjuicios al Municipio.
+En todos los casos de siniestro donde exista responsable y sin perjuicio de los (sic) que las demás Leyes establezcan, se provendrán las sanciones de reposición de la obra o bien dañado Municipal y el pago de daños y perjuicios al Municipio.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 95.
 
-Para los efectos del cobro de los servicios que se prestan por el Departamento de Bomberos, se tomará en cuenta lo establecido en la Ley de Ingresos del Ayuntamiento de Ensenada.
-
-Los ingresos provenientes de los servicios e infracciones, serán enterados a la caja recaudadora de Recaudación de Rentas Municipales.
+Para los efectos del cobro de los servicios que se presten por la Dirección de Bomberos y Protección Civil, se tomará en cuenta lo establecido en la Ley de Ingresos del Ayuntamiento de Ensenada.
 
 ## TITULO V.- DE LOS RECURSOS ADMINISTRATIVOS.
 
@@ -723,9 +753,11 @@ III.- Que de acuerdo a las constancias de autos apareciere claramente que no exi
 
 IV.- En los demás casos en que la improcedencia resulte de alguna disposición de éste ordenamiento o de las demás Leyes de la materia.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 97.
 
-La interposición del recurso de reconsideración sobre las medidas o sanciones determinadas por la autoridad Municipal, se hará por el recurrente, mediante escrito dirigido al titular del área de Bomberos con copia al Ayuntamiento y que presentará ante el citado titular de Bomberos dentro de los 15 días siguientes en que haya sur (sic) efectos la notificación que se impugna.
+La interposición del recurso de reconsideración sobre las medidas o sanciones determinadas por la autoridad Municipal, se hará por el recurrente, mediante escrito dirigido al Director de Bomberos y Protección Civil con copia al Ayuntamiento y que presentará ante el citado Director de Bomberos y Protección Civil dentro de los 15 días siguientes en que haya sur (sic) efectos la notificación que se impugna.
 
 ###### ARTICULO 98.
 
@@ -751,9 +783,11 @@ c).- Constancia de la Notificación del acto impugnado.
 
 d).- Las pruebas documentales que ofrezca.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 99.
 
-En el caso de sanciones por las infracciones a lo que establece el Art. de este Reglamento, el infractor podrá hacer uso de éste recurso en forma oral ante el Director de Seguridad Pública o Juez Calificador, quienes inmediatamente resolverán en la audiencia que para éste propósito deberá llevarse a cabo dentro de las 3 horas siguientes a la que se produjo el arresto.
+En el caso de sanciones por las infracciones a lo que establece el Art. de este Reglamento, el infractor podrá hacer uso de éste recurso en forma oral ante el Secretario de Seguridad Pública o Juez Calificador, quienes inmediatamente resolverán en la audiencia que para éste propósito deberá llevarse a cabo dentro de las 3 horas siguientes a la que se produjo el arresto.
 
 ###### ARTICULO 100.
 
@@ -763,13 +797,17 @@ Las notificaciones surtirán sus efectos al día hábil siguiente en que se haya
 
 Las pruebas que ofrezca el recurrente, deberá relacionarlas con cada uno de los hechos que motiven el recurso.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 102.
 
-El Departamento de Bomberos podrá pedir que se rindan los informes que estime pertinentes por quienes hayan intervenido en el acto reclamado.
+La Dirección de Bomberos y Protección Civil podrá pedir que se rindan los informes que estime pertinentes por quienes hayan intervenido en el acto reclamado.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 103.
 
-El Departamento acordará lo que proceda para la admisión del recurso así como las pruebas que el recurrente hubiere ofrecido en un plazo máximo de 15 días siguientes a la presentación del recurso.
+La Dirección de Bomberos y Protección Civil acordará lo que proceda para la admisión del recurso así como las pruebas que el recurrente hubiere ofrecido en un plazo máximo de 15 días siguientes a la presentación del recurso.
 
 ###### ARTICULO 104.
 
@@ -785,9 +823,11 @@ La resolución que pongan al recurso será en el sentido de confirmar o revocar 
 
 ### CAPITULO II (SIC).- DEL RECURSO DE REVISION.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 107.
 
-En contra de las resoluciones que dicte el Departamento de Bomberos en los recursos de reconsideración procede el recurso de revisión ante el H. Ayuntamiento, debiendo presentarse ante el C. Secretario del Ayuntamiento.
+En contra de las resoluciones que dicte la Dirección de Bomberos y Protección Civil en los recursos de reconsideración procede el recurso de revisión ante el H. Ayuntamiento, debiendo presentarse ante el C. Secretario General del Ayuntamiento.
 
 ###### ARTICULO 108.
 
@@ -797,9 +837,11 @@ En caso de que se garantice el interés fiscal en cualquiera de las formas que e
 
 ### CAPITULO X (SIC).- DE LOS EXPLOSIVOS Y MATERIALES INFLAMABLES.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 109.
 
-Cualquier persona o negociación que maneje: cohetes, fuego (sic) artificiales, substancias explosivas o suceptibles (sic) en mayor o menor grado de inflamabilidad, tendran que contar además del permiso de la autoridad correspondiente, la aprobación por escrito del comandante del Departamento de Bomberos en lo que respecta a las condiciones de seguridad que debe reunir para la protección de vida y propiedad en caso de siniestro.
+Cualquier persona o negociación que maneje: cohetes, fuego (sic) artificiales, substancias explosivas o susceptibles en mayor o menor grado de inflamabilidad, tendrán que contar además del permiso de la autoridad correspondiente, la aprobación por escrito de (sic) comandante de la Dirección de Bomberos y Protección Civil en lo que respecta a las condiciones de seguridad que debe reunir para la protección de vida y propiedad en caso de siniestro.
 
 ###### ARTICULO 110.
 
@@ -884,3 +926,9 @@ C. MARIO GALAVIZ QUINTERO.
 (Rúbrica)
 
 > <small>N. DE E. VEASE TABLAS EN EL P. O. DE 10 DE JUNIO DE 1990, PAGINAS DE LA 10 A LA 34.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ENERO DE 2008.
+
+UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
