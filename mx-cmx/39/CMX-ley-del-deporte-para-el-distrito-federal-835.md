@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-deporte-para-el-distrito-federal-835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-06"
-last_updated: "2007-04-30"
+last_updated: "2008-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=835&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1995-10-31"
 
 LEY DEL DEPORTE PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACION FISICA Y DEPORTE DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 4 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 13 de noviembre de 1995.
 
@@ -652,21 +654,21 @@ Las instalaciones deportivas propiedad del Gobierno del Distrito Federal deberá
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 42 Cuater (sic).- Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante la dependencia responsable del deporte en el Distrito Federal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados. La dependencia responsable del deporte en el Distrito Federal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
-
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
-
 ###### ARTICULO 42 Bis.
 
 El uso de las instalaciones deportivas debe ser preferentemente para eventos deportivos, cuando se utilicen para otros fines deberán respetarse los programas y calendarios deportivos previamente establecidos.
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 42 Cuater (sic).- Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante la dependencia responsable del deporte en el Distrito Federal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados. La dependencia responsable del deporte en el Distrito Federal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 42 Ter.
 
 Los responsables administrativos de las instalaciones deportivas realizadas con recursos de la Federación, Distrito Federal o los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal e inscritas en el Registro del Deporte del Distrito Federal deberán registrar su calendario anual de actividades ante la dependencia responsable del deporte en el Distrito Federal durante los primeros treinta días de cada año.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 43.
 
@@ -953,3 +955,13 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE ENERO DE 2008.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal; además, se publicará en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Se abroga La Ley del Deporte para el Distrito Federal, derogándose todas y cada una de las disposiciones legales y administrativas que se opongan a la presente ley y su reglamento.
+
+TERCERO.- El Reglamento de la presente Ley, deberá expedirse dentro de los veinte días siguientes a la fecha en que entre en vigor esta Ley.
+
+CUARTO.- De acuerdo al presupuesto anual todos los recursos destinados al Deporte deberán ir etiquetados para tal fin.
