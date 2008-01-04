@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2007-12-26"
+last_updated: "2008-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2944,7 +2944,7 @@ V.- Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten s
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE DICIEMBRE DE 2007)</small>
 
-Vl.- La falta de presentación del escrito del perito del oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que el juez prevenga por una sola vez a la parte que ofreció la prueba, para que, en un plazo de tres días, vuelva a presentar a su perito original, o bien a otro. De no designar perito nuevamente, o el perito por aquel designado, no presentase el escrito de aceptación y protesta del cargo, el juez declarará desierta la prueba pericial, en perjuicio del propio oferente. Si la contraria no designare perito, o el perito por ésta designado, no presentara el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente.
+VI.- La falta de presentación del escrito del perito del oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que el juez prevenga por una sola vez a la parte que ofreció la prueba, para que, en un plazo de tres días, vuelva a presentar a su perito original, o bien a otro. De no designar perito nuevamente, o el perito por aquel designado, no presentase el escrito de aceptación y protesta del cargo, el juez declarará desierta la prueba pericial, en perjuicio del propio oferente. Si la contraria no designare perito, o el perito por ésta designado, no presentara el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente.
 
 En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III o IV, según corresponda.
 
@@ -7190,7 +7190,9 @@ IV.- La aclaración de actas del estado civil cuando se trate de errores gramati
 
 ARTICULO 939
 
-Podrá decretarse el depósito: de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ENERO DE 2008)</small>
+
+Podrá decretarse el depósito: de menores o incapacitados que se hallen sujetos a la patria potestad o a la tutela y que fueren maltratados por sus padres o tutores, o reciban de éstos ejemplos perniciosos, a juicio del Juez, o sean obligados por ellos a cometer actos reprobados por las leyes.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -8341,3 +8343,15 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+G.O. 4 DE ENERO DE 2008.
+
+Artículo Primero.- Publíquese en la Gaceta Oficial del Distrito Federal para su observancia y aplicación.
+
+Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Tercero.- El Gobierno del Distrito Federal a través del Sistema para el Desarrollo Integral de la Familia emitirá los Lineamientos de Operación y Seguimiento para el cuidado y atención de los menores en situación de desamparo, dentro de los treinta días naturales siguientes a la publicación del decreto.
+
+Artículo Cuarto.- El Gobierno del Distrito Federal a través del Sistema para el Desarrollo Integral de la Familia emitirá dentro de los 120 días siguientes a la fecha de publicación del presente decreto, el Reglamento a que se refiere el artículo 494-D.
+
+Artículo Quinto.- La Asamblea Legislativa del Distrito Federal considerará una partida presupuestal de recursos financieros suficientes para asegurar la atención, cuidado y protección de los menores en situación de desamparo en el ejercicio presupuestal de 2008 y años subsecuentes.
