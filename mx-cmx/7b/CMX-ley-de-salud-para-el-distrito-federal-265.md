@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "2007-05-15"
+last_updated: "2008-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987.
 
@@ -50,9 +50,15 @@ La presente Ley es de orden público e interés social y tiene por objeto:
 
 I.- Regular las bases y modalidades para garantizar el acceso a los servicios de salud por parte de la población en el Distrito Federal y la competencia del Jefe de Gobierno del Distrito Federal en materia de salubridad local;
 
-II.- Fijar las normas conforme a las cuales el Jefe de Gobierno del Distrito Federal ejercerá sus atribuciones en la prestación de los servicios de salubridad general a que se refiere el artículo 13 Apartado B) de la Ley General de Salud, y
+II.- Fijar las normas conforme a las cuales el Jefe de Gobierno del Distrito Federal ejercerá sus atribuciones en la prestación de los servicios de salubridad general a que se refiere el artículo 13 Apartado B) de la Ley General de Salud, y (sic)
 
-III.- Determinar la estructura administrativa y los mecanismos adecuados para que el Jefe de Gobierno del Distrito Federal participe con la Secretaría de Salud en la prestación de los servicios de salud a que se refieren las fracciones III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o., de la Ley General de Salud.
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+III.- Determinar la estructura administrativa y los mecanismos adecuados para que el Jefe de Gobierno del Distrito Federal participe con la Secretaría de Salud en la prestación de los servicios de salud a que se refieren las fracciones III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o., de la Ley General de Salud, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
+
+IV.- Instrumentar y ejecutar los programas relacionados con la desnutrición, obesidad, grado de intoxicación por drogas, alcohol, tabaco o cualquier otra sustancia que atenten contra la integridad física, emocional, intelectual, psíquica y social de los educandos, dentro de los planteles escolares del sistema educativo del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -60,9 +66,9 @@ III.- Determinar la estructura administrativa y los mecanismos adecuados para qu
 
 Para los efectos de la presente Ley, el derecho a la protección de la salud tiene las siguientes finalidades:
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-I.- El bienestar físico, mental y social de mujeres, hombres, niñas, niños, las y los jóvenes y personas adultas mayores para contribuir al ejercicio pleno de sus capacidades;
+I.- El bienestar físico, mental y social del hombre, para contribuir al ejercicio pleno de sus capacidades; fomentando una cultura de salud físico nutricional, y de combate al consumo de drogas, estupefacientes, psicotrópicos, alcohol, tabaquismo y cualquier otra sustancia dañina para la salud humana, dentro y fuera de los Planteles Educativos;
 
 II.- La prolongación y mejoramiento de la calidad de la vida humana;
 
@@ -96,9 +102,19 @@ VI.- Sistema de Salud del Distrito Federal, al conjunto de unidades administrati
 
 VII.- Usuario del servicio de salud, a toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables;
 
-VIII.- Servicios de Salud, a todas aquellas acciones que se realizan en beneficio del individuo y de la sociedad en general, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad; éstos se considerarán como servicios públicos de salud a la población en general, cuando se presten por establecimientos públicos de salud a la población en el Distrito Federal que así lo requiera, regidos por criterios de universalidad, equidad y gratuidad, y
+VIII.- Servicios de Salud, a todas aquellas acciones que se realizan en beneficio del individuo y de la sociedad en general, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad; éstos se considerarán como servicios públicos de salud a la población en general, cuando se presten por establecimientos públicos de salud a la población en el Distrito Federal que así lo requiera, regidos por criterios de universalidad, equidad y gratuidad, y (sic)
 
-IX.- Regulación y control sanitario, a los actos que lleve a cabo el Gobierno para ordenar o controlar el funcionamiento sanitario de las actividades que se realicen en los establecimientos a que se refiere esta Ley y los reglamentos respectivos, a través del otorgamiento de autorizaciones, vigilancia, aplicación de medidas de seguridad e imposición de sanciones en los términos de esos ordenamientos.
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+IX.- Regulación y control sanitario, a los actos que lleve a cabo el Gobierno para ordenar o controlar el funcionamiento sanitario de las actividades que se realicen en los establecimientos a que se refiere esta Ley y los reglamentos respectivos, a través del otorgamiento de autorizaciones, vigilancia, aplicación de medidas de seguridad e imposición de sanciones en los términos de esos ordenamientos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
+
+X.- Educando, es el sujeto activo en el proceso formativo, tanto en lo individual como en lo social, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
+
+XI.- Plantel Educativo, inmueble en el que se imparten los diferentes programas educativos de la Secretaria de Educación del Distrito Federal, sean Públicos o Privados.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -156,9 +172,17 @@ XVI.- Lavanderías, tintorerías, planchadurías y demás establecimientos simil
 
 XVII.- Albercas públicas;
 
-XVIII.- La venta de alimentos en vía pública, y
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-XIX.- Las demás materias que determine esta Ley y otras disposiciones aplicables.
+XVIII.- La venta de alimentos en vía pública;
+
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+XIX.- Planteles Escolares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
+
+XX.- Las demás materias que determine esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -376,11 +400,11 @@ Para los efectos de la participación del Gobierno en la prestación de los serv
 
 El Sistema de Salud del Distrito Federal está constituido por las dependencias, órganos descentralizados y desconcentrados del Gobierno y las personas físicas o morales de los sectores social y privado, que presten servicios de salud, así como por los mecanismos de coordinación de acciones que se suscriban con dependencias o entidades de la Administración Pública Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 14.
 
-El Sistema de Salud del Distrito Federal tiene por objeto ejercer las atribuciones correspondientes para la protección de la salud, en los términos de la Ley General, de la presente Ley y demás disposiciones aplicables y en consecuencia tenderá a:
+El Sistema de Salud del Distrito Federal tiene por objeto ejercer las atribuciones correspondientes para la protección de la salud, en los términos de la Ley General, esta Ley y demás disposiciones aplicables y en consecuencia tenderá a:
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
@@ -404,13 +428,15 @@ VI.- Coadyuvar a la modificación de los patrones culturales que determinan háb
 
 VII.- En general, a prestar eficientemente los servicios de salubridad general y local a que se refiere esta Ley, así como a realizar las acciones de regulación y control sanitario en los términos de este Ordenamiento y demás disposiciones aplicables;
 
-(ADICIONADA, G.O. 30 DE MARZO DE 1999) (F. DE E., G.O. 29 DE ABRIL DE 1999)
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-VIII.- Establecer programas para la prevención, detección temprana, atención especializada y rehabilitación de las diferentes discapacidades, así como programas especializados de capacitación, orientación y rehabilitación en materia sexual para la población con discapacidad;
+VIII.- Establecer programas para la prevención, detección temprana, atención especializada y rehabilitación de las diferentes discapacidades, así como programas especializados de capacitación, orientación y rehabilitación sexual, nutricional y de consumo de drogas, alcohol, tabaco, y en general cualquier sustancia dañina para la salud humana, para la población en general del Distrito Federal, incluyendo discapacitados y grupos vulnerables;
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-IX.- Establecer servicios de orientación, diagnóstico y atención para las personas con discapacidad; y (sic)
+IX.- Practicar el examen médico integral a los educandos y expedir el certificado correspondiente, en el que se determinará su estado de salud; asimismo informará, cuando le sea requerido por la Autoridad Educativa los resultados de dichos exámenes médicos.
+
+El Certificado Médico integral será expedido una vez que hayan sido valorados los estudios o análisis que se hayan practicado;
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -696,9 +722,19 @@ XXII.- Crematorios, las instalaciones destinadas a la incineración de cadávere
 
 XXIII.- Funeraria, el establecimiento dedicado al traslado, preparación y velación de cadáveres;
 
-XXIV.- Agua potable, aquella cuya ingestión no cause efectos nocivos a la salud, y
+XXIV.- Agua potable, aquella cuya ingestión no cause efectos nocivos a la salud, y (sic)
 
-XXV.- Alcantarillado, la red o sistema de conductos y dispositivos para recolectar y conducir las aguas residuales y pluviales al desagüe o drenaje.
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+XXV.- Alcantarillado, la red o sistema de conductos y dispositivos para recolectar y conducir las aguas residuales y pluviales al desagüe o drenaje;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
+
+XXVI.- Educando, es el sujeto activo en el proceso formativo, tanto en lo individual como en lo social, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
+
+XXVII.- Plantel Educativo, inmueble en el que se imparten los diferentes programas educativos de la Secretaria de Educación del Distrito Federal, sean Públicos o Privados.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1733,3 +1769,17 @@ G.O. 15 DE MAYO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
+
+G.O. 4 DE ENERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal; y para su mayor difusión se ordena su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Jefe de Gobierno del Distrito Federal deberá instrumentar anualmente en la dependencia de salud y educación, la Partida Presupuestal respectiva para dar cumplimento a estos programas.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan a la presente reforma.
