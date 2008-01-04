@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2007-05-15"
+last_updated: "2008-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -120,9 +120,11 @@ f) Fomentará la incorporación a la educación y formación de las personas que
 
 g) Garantizará, en el ámbito de su competencia, que la educación en todos sus niveles se realice en el marco de igualdad sustantiva entre mujeres y hombres.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 10.
 
-La educación que imparta el Gobierno del Distrito Federal se basará en los principios del artículo tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
+La educación que imparta el Gobierno del Distrito Federal se basará en los principios del Artículo tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
@@ -154,11 +156,17 @@ XIII. lmpulsar la creación artística y propiciar la adquisición, el enriqueci
 
 XIV. Desarrollar, a través de la educación artística, las capacidades, habilidades, valores, actitudes y hábitos estéticos que propicien la formación de una cultura artística permanente como forma de vida.
 
-XV. Desarrollar, a través de la educación física, las capacidades, habilidades, valores, actitudes y hábitos que propicien la formación de una cultura física permanente como forma de vida.
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-XVI. Educar para la preservación de la salud, el conocimiento integral de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana.
+XV. Desarrollar, a través de la educación física, las capacidades, habilidades, valores, actitudes y hábitos de higiene y alimenticios, proporcionando a los educandos desayunos balanceados y nutritivos que eviten la obesidad y desnutrición; asimismo que propicien la formación de una cultura física permanente como forma de vida integral y saludable.
 
-XVII. Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otros vicios que afecten la salud física y mental del individuo y que dañen las estructuras sociales.
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+XVI. Educar para la preservación de la salud, el conocimiento integral de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana y; (sic)
+
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+XVII. Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otros vicios que afecten la salud física y mental del individuo y que dañen las estructuras sociales; realizando anualmente un examen médico integral a sus educandos, al inicio de cada periodo escolar; instrumentando programas que privilegien la educación artística, cívica y físico-deportiva.
 
 XVIII. Fomentar actitudes de protección al medio ambiente y aprovechamiento racional de los recursos naturales.
 
@@ -270,7 +278,9 @@ XXX. Garantizar y velar por la seguridad de los escolares, maestros y establecim
 
 XXXI. Garantizar que todos los educandos de las instituciones públicas cuenten con servicios de salud adecuados.
 
-XXXII. Promover y desarrollar programas locales en materia de educación para la salud, asistencia nutricional y protección del medio ambiente, en coordinación con los órganos competentes del gobierno federal y las delegaciones, así como con organizaciones sociales y no gubernamentales.
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+XXXII. Promover y desarrollar programas locales en materia de educación para la salud, asistencia nutricional, los relacionados a la obligatoriedad de proporcionar a los educandos desayunos balanceados y nutritivos que eviten la obesidad y desnutrición; así como los relativos a la prevención y combate de la drogadicción, el alcoholismo, el tabaquismo y cualquier otra sustancia que atente contra su vida e integridad, dentro de los centros escolares; y protección del medio ambiente, en coordinación con los órganos competentes del gobierno federal y las delegaciones, así como con organizaciones sociales y no gubernamentales.
 
 XXXIII. Promover y supervisar la realización de actos cívicos escolares que fortalezcan la identidad nacional, fomenten la solidaridad internacional y formen en los educandos actitudes de compromiso para la consolidación de una nación soberana e independiente.
 
@@ -870,9 +880,11 @@ Para proporcionar educación abierta, por correspondencia y por cualquier medio 
 
 ## TÍTULO CUARTO. DE LA EQUIDAD Y CALIDAD DE LA EDUCACIÓN
 
+> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 116.
 
-La educación que impartan las instituciones dependientes de la Secretaría de Educación del Gobierno del Distrito Federal, tiene como objetivo la construcción de una sociedad democrática, justa, equitativa y participativa.
+La educación que impartan las instituciones dependientes de la Secretaría de Educación del Gobierno del Distrito Federal, tiene como objetivo la construcción de una sociedad democrática, justa, equitativa y participativa; en la que se privilegien las actividades de educación artística, cívica y físico-deportivas; y se combata la desnutrición, obesidad, y el consumo de sustancias que atenten contra la integridad física, emocional, intelectual, psíquica y social de los educandos.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
@@ -924,9 +936,13 @@ XVII. Simplificar los procedimientos administrativos en la prestación de servic
 
 XVIII. Dotar de libros de texto gratuitos a todos los estudiantes de educación básica.
 
-XIX. Inspeccionar y supervisar los establecimientos privados que impartan educación, para que cumplan con los planes y programas de estudio oficiales, exigiendo rigurosidad y apego a los mismos, particularmente en aquellos de educación especial, para adultos, técnica y abierta.
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-XX. Los demás que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos.
+XIX. Inspeccionar y supervisar los establecimientos privados que impartan educación, para que cumplan con los planes y programas de estudio oficiales, exigiendo rigurosidad y apego a los mismos, particularmente en aquellos de educación especial, para adultos, técnica y abierta y,
+
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+XX. Los demás que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, en los que se privilegien programas de educación artística, cívica y físico-deportivas; y se combata la desnutrición, obesidad, y el consumo de sustancias que atenten contra la integridad física, emocional, intelectual, psíquica y social de los educandos.
 
 ###### Artículo 120.
 
@@ -953,6 +969,14 @@ IX. Crear centros educativos y de apoyo para los niños de y en la calle.
 X. Crear casas de estudiantes indígenas y apoyar las de estudiantes de otras entidades mediante convenios de colaboración con los gobiernos de donde provienen.
 
 XI. Crear bibliotecas en los centros educativos, en las colonias y barrios, dotándolas de los recursos bibliográficos, hemerográficos, videográficos y electrónicos suficientes y modernos para un servicio eficiente y de calidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
+
+XII. ..., y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE ENERO DE 2008)</small>
+
+XIII. Realizar los exámenes médicos integrales a sus educandos, al inicio de cada periodo escolar.
 
 ## TÍTULO QUINTO. DE LA EVALUACIÓN
 
@@ -1080,9 +1104,13 @@ I. Hacer que sus hijos o pupilos menores de dieciocho años cursen la educación
 
 II. Colaborar con las autoridades escolares en la atención de los problemas relacionados con los educandos.
 
-III. Informarse de los resultados de las evaluaciones educativas de sus hijos o pupilos.
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-IV. Participar, de acuerdo con los educadores, en el tratamiento de los problemas de aprendizaje de sus hijos o pupilos.
+III. Informarse de los resultados de las evaluaciones educativas de sus hijos o pupilos, y (sic)
+
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+IV. Presentar en un plazo no mayor de dos meses a partir de su inscripción o permitir ante el Plantel al que inscriban a su hijo o pupilo; un certificado médico integral expedido por una Institución Pública del Sector Salud en el que se valore el estado de salud del educando.
 
 V. Colaborar, en actividades que sean de su competencia, con los planteles educativos en los que estén inscritos sus hijos o pupilos.
 
@@ -1515,3 +1543,17 @@ G.O. 15 DE MAYO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
+
+G.O. 4 DE ENERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal; y para su mayor difusión se ordena su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Jefe de Gobierno del Distrito Federal deberá instrumentar anualmente en la dependencia de salud y educación, la Partida Presupuestal respectiva para dar cumplimento a estos programas.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan a la presente reforma.
