@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2007-04-30"
+last_updated: "2008-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -194,7 +194,9 @@ III. A solicitar y recibir información sobre su origen, sobre la identidad de s
 
 IV. A vivir y crecer en el seno de una familia, conocer a sus progenitores y a mantener relaciones personales y contacto directo con ellos, aún en el caso de estar separados, salvo si ello es contrario al interés superior de la niña y niño;
 
-V. A integrarse libremente y sin presión de ninguna autoridad, institución u organización, a una (sic) hogar provisional y a recibir los beneficios de la adopción llegado el caso;
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+
+V. A integrarse libremente a instituciones u organizaciones civiles, a un hogar provisional, y en su caso, obtener los beneficios de la adopción;
 
 VI. A emitir su opinión en todos los asuntos que le afecten y a ser escuchado tomando en cuenta su edad y madurez en todo procedimiento judicial o administrativo, ya sea directamente o por medio de representante;
 
@@ -809,3 +811,15 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE ENERO DE 2008.
+
+Artículo Primero.- Publíquese en la Gaceta Oficial del Distrito Federal para su observancia y aplicación.
+
+Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Tercero.- El Gobierno del Distrito Federal a través del Sistema para el Desarrollo Integral de la Familia emitirá los Lineamientos de Operación y Seguimiento para el cuidado y atención de los menores en situación de desamparo, dentro de los treinta días naturales siguientes a la publicación del decreto.
+
+Artículo Cuarto.- El Gobierno del Distrito Federal a través del Sistema para el Desarrollo Integral de la Familia emitirá dentro de los 120 días siguientes a la fecha de publicación del presente decreto, el Reglamento a que se refiere el artículo 494-D.
+
+Artículo Quinto.- La Asamblea Legislativa del Distrito Federal considerará una partida presupuestal de recursos financieros suficientes para asegurar la atención, cuidado y protección de los menores en situación de desamparo en el ejercicio presupuestal de 2008 y años subsecuentes.
