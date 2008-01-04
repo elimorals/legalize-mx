@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-rastro-del-municipio-de-ensenada-baja-3228"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-09-30"
-last_updated: "1988-09-30"
+last_updated: "2008-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE RASTRO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 30 de septiembre de 1988.
 
@@ -35,7 +35,9 @@ DE RASTRO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
 
 ### CAPITULO I. DE LA ADMINISTRACION.-
 
-ART. 1o.- El servicio Público de Rastro en el Municipio de Ensenada, será prestado de acuerdo al presente Reglamento.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
+ART. 1o.- El Servicio Público de Rastro en el Municipio de Ensenada, será prestado de acuerdo al presente Reglamento y de conformidad a lo establecido por los artículos 1, 2, 3 y 18 de la Ley del Régimen Municipal por el Estado de Baja California y articulo 1 fracción III Inciso F) del Reglamento de la Administración Publica Municipal para el Municipio de Ensenada, Baja California.
 
 ART. 2o.- La Administración del Rastro del Municipio de Ensenada, se ejercerá por conducto de la persona que con el carácter de Administrador o Administradores nombre directamente el Ciudadano Presidente Municipal con conocimiento al Ayuntamiento.
 
@@ -406,3 +408,9 @@ C. RUBEN LOPEZ SIMENTAL
 C. CESAR ALBERTO BUENTIEMPO MORALES.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ENERO DE 2008.
+
+UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
