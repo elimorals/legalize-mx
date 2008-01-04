@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-box-y-lucha-para-el-municipio-de-ensenada-3428"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-07-20"
-last_updated: "1973-07-20"
+last_updated: "2008-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE BOX Y LUCHA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DE LOS ESPECTACULOS DE BOXEO Y LUCHA LIBRE PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE LOS ESPECTACULOS DE BOXEO Y LUCHA LIBRE PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 20 de julio de 1973.
 
@@ -35,9 +35,11 @@ REGLAMENTO DE LOS ESPECTACULOS DE BOXEO Y LUCHA LIBRE PARA EL MUNICIPIO DE ENSEN
 
 DECLARACION GENERAL.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 1o.
 
-El presente Reglamento es de obligatoriedad para todos los habitantes del Municipio de Ensenada, Baja California y se formulará con base en las facultades asignadas a los Ayuntamientos en los Artículos 85 Fracción VI de la Constitución Política del Estado de Baja California, Artículo 10 fracción II inciso e).- y f).- y fracción VIII inciso g).- de la Ley Orgánica del Municipio de Ensenada, Baja California.
+El presente Reglamento es de obligatoriedad para todos los habitantes del Municipio de Ensenada, Baja California y se formulará con base en las facultades asignadas a los Ayuntamientos en los Artículos 85 Fracción VI de la Constitución Política del Estado de Baja California, Artículos 1, 2, 3 y 18 de la Ley del Régimen Municipal para el Estado de Baja California.
 
 ###### ARTICULO 2o.
 
@@ -1558,3 +1560,13 @@ EL SECRETARIO DEL AYUNTAMIENTO.
 LIC. MARIO REYES ALVAREZ.
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ENERO DE 2008.
+
+UNICO (SIC).- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Sométase a consideración de este H. Cabildo en Pleno la Aprobación de la Reforma al artículo I del REGLAMENTO DE LOS ESPECTACULOS DE BOXEO Y LUCHA LIBRE PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
+
+TERCERO. Siendo aprobada la presente reforma, Publíquese en el Periódico Oficial del Estado de Baja California, para los efectos de su entrada en vigor.
