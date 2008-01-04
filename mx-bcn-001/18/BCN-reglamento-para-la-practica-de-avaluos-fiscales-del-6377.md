@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-practica-de-avaluos-fiscales-del-6377"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-11-20"
-last_updated: "1995-11-03"
+last_updated: "2008-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA PRACTICA DE AVALUOS FISCALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el miércoles 20 de noviembre de 1991.
 
@@ -41,9 +41,11 @@ REGLAMENTO PARA LA PRACTICA DE AVALUOS FISCALES
 
 DISPOSICIONES FISCALES.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 1.
 
-El presente Reglamento es de órden público e interés general, tiene por objeto fijar las normas para la práctica de avalúos y reglamentar la actividad de los valuadores Fiscales Municipales y es de observancia general en todo el territorio del Municipio de Ensenada.
+El presente Reglamento es de orden público e interés general, tiene por objeto fijar las normas para la práctica de avalúos y reglamentar la actividad de los valuadores Fiscales Municipales y es de observancia general en todo el territorio del Municipio de Ensenada, de conformidad a lo establecido por los artículos 1, 2, 3 y 18, de la Ley del Régimen Municipal para el Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1995)</small>
 
@@ -358,3 +360,7 @@ Rúbrica
 P.O. 3 DE NOVIEMBRE DE 1995.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 4 DE ENERO DE 2008.
+
+UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
