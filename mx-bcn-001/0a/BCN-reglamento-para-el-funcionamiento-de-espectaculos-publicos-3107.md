@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-espectaculos-publicos-3107
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-20"
-last_updated: "2002-05-31"
+last_updated: "2008-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTACULOS PUBLICOS Y CENTROS DE REUNION PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de mayo de 1986.
 
@@ -43,13 +43,15 @@ REGLAMENTO Para el Funcionamiento de Espectáculos Públicos y Centros de Reuni�
 
 Declaraciones Generales.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 1o.
 
-El presente Reglamento se formula en acatamiento del Artículo 10, Fracción II, Inciso f) de la Ley Orgánica Municipal del Estado de Baja California.
+El presente Reglamento es de observancia general y obligatoria dentro de los límites de la circunscripción territorial del Municipio de Ensenada, Baja California, de conformidad a lo establecido por los artículos 1, 2, 3 y 18 de la Ley del Régimen Municipal para el Estado de Baja California.
 
 ###### Artículo 2o.
 
-Este Reglamento es de observancia obligatoria en la Jurisdicción Territorial del Municipio de Ensenada, Estado de Baja California.
+(DEROGADO, P.O. 4 DE ENERO DE 2008)
 
 ###### Artículo 3o.
 
@@ -127,7 +129,9 @@ b).- Nombre que se dará al espectáculo público, actividad cultural, deportiva
 
 c).- Ubicación del negocio o del centro de cultura, deportivo, de esparcimiento, etc.
 
-d).- Acompañar los planos debidamente aprobados por las Autoridades Sanitarias correspondientes en el Estado y por el Director de Planeación de Obras y Servicios Públicos Municipales.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
+d).- Acompañar los planos debidamente aprobados por las Autoridades Sanitarias correspondientes en el Estado y por la Secretaría de Administración Urbana.
 
 e).- Si el solicitante fuera extranjero deberá presentar los documentos que acrediten su legal permanencia en territorio nacional.
 
@@ -135,7 +139,9 @@ f).- Si la expedición de la licencia se solicitare por alguna Sociedad, deberá
 
 g).- Expresión de la clase de espectáculos públicos, actividad cultural, deportiva, de esparcimiento, etc., a que se dedicará el negocio.
 
-h).- Los centros de reunión y lugares donde se presente cualquier espectáculo público, deberán fijar en lugar visible la autorización que indique la capacidad de aforo determinada por la Secretaría General del Ayuntamiento previa inspección y responsiva de la Dirección de Planeación de Obras y Servicios Públicos Municipales.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
+h).- Los centros de reunión y lugares donde se presente cualquier espectáculo público, deberán fijar en lugar visible la autorización que indique la capacidad de aforo determinada por la Secretaría General del Ayuntamiento previa inspección y responsiva de la Dirección de Obras y Servicios Públicos Municipales.
 
 i).- Exhibir los contratos celebrados con los trabajadores cuyos servicios se utilicen debiendo darse preferencia a trabajadores de nacionalidad mexicana que deben emplearse conforme a lo que dispone la Ley Federal del Trabajo. Debiendo además demostrar a satisfacción la capacidad de los mismos mediante título, Diploma, certificado, etc. ó en su defecto con el respaldo y responsiva de alguna Asociación reconocida que avale la calidad del trabajador, en cualquiera de los espectáculos a que se refiere el presente Reglamento.
 
@@ -155,9 +161,11 @@ Recibida la solicitud que será presentada por conducto del Secretario General d
 
 Si los interesados no cumplieren con la presentación de la documentación que deben adjuntar a su solicitud, conforme al Artículo 8o. de este Reglamento, dentro de un plazo de quince días contados a partir de la fecha en que el Secretario General del Ayuntamiento les hiciera saber la omisión cometida, se tendrá por no presentada la solicitud y se ordenará también que se devuelvan a los interesados los documentos que hubieren acompañado a la solicitud o solicitudes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 11o.
 
-Si el Presidente Municipal resolviere conceder la licencia, el Secretario del Ayuntamiento ordenará a los interesados que se presenten ante la Recaudación de Rentas Municipales, a fin de hacer un depósito en efectivo, para garantizar el cumplimiento de las disposiciones de este Reglamento y el pago de las sanciones que por violación al mismo se cometieren, por las siguientes cantidades:
+Si el Presidente Municipal resolviere conceder la licencia, el Secretario General del Ayuntamiento ordenará a los interesados que se presenten ante la Recaudación de Rentas Municipales, a fin de hacer un depósito en efectivo, para garantizar el cumplimiento de las disposiciones de este Reglamento y el pago de las sanciones que por violación al mismo se cometieren, por las siguientes cantidades:
 
 I.- Si se tratase de los giros a que se refiere el Artículo 6o., Fracc. I, Incisos a) b) c) y d) y Fracc. II Incisos a) b) y c) de este Reglamento, las que marque la Ley de Ingresos Municipal. A excepción de actividades organizadas por Sociedades Civiles que destinen los fondos que recaudan para fomento de la cultura, de la ciencia o actividades deportivas con fines de beneficencia, siempre y cuando esas Sociedades se encuentren registradas en la Dirección General de Educación Pública del Gobierno del Estado. Este privilegio no implica derecho alguno para que, si cometiere infracciones por violaciones a las disposiciones de este Reglamento, no queden exentas de pago de las sanciones que por ese motivo se les impusieren.
 
@@ -171,9 +179,11 @@ Cuando se trate de actividades temporales, el Tesorero o el Recaudador de Rentas
 
 Las actividades que se citan en la Fracción IV, del Artículo 6o. en este Reglamento, deberán depositar la cantidad que marque la Ley de Ingresos Municipal, con el fin a que se refieren los Artículos que anteceden.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 14o.
 
-Fenecido el término para que se hubiere concedido la licencia, a solicitud de los interesados y previa constancia de la Secretaría General de la Presidencia Municipal de que no existen responsabilidades por falta de pago de multas impuestas y constancia de la Recaudación de Rentas de encontrarse cubiertos todos los impuestos, se ordenará la devolución de las cantidades depositadas.
+Fenecido el término para que se hubiere concedido la licencia, a solicitud de los interesados y previa constancia de la Secretaría General del Ayuntamiento que no existen responsabilidades por falta de pago de multas impuestas y constancia de la Recaudación de Rentas de encontrarse cubiertos todos los impuestos, se ordenará la devolución de las cantidades depositadas.
 
 ###### Artículo 15o.
 
@@ -191,9 +201,11 @@ Una vez hecho el depósito de garantía a que se refieren los Artículos 11o.- y
 
 La calificación se hará por las expresadas Autoridades Fiscales de acuerdo con lo que ordena la Ley de Hacienda Municipal y la Ley de Ingresos Municipal que estuvieren en vigor en la fecha de expedición de la licencia.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 18o.
 
-Por lo que se refiere a los requisitos o condiciones que deben reunir los edificios y lugares destinados a centros de diversión, de actividades culturales, científicas, deportivas o de esparcimiento a que se refiere este Reglamento en lo que se relaciona con edificación, servicio sanitario y de seguridades (sic) de las personas que concurran a estos sitios, se sujetarán los interesados a lo que sobre el particular ordene el Reglamento de Construcciones del Municipio de Ensenada, u otras Leyes aplicables.
+Por lo que se refiere a los requisitos o condiciones que deben reunir los edificios y lugares destinados a centros de diversión, de actividades culturales, científicas, deportivas o de esparcimiento a que se refiere este Reglamento en lo que se relaciona con edificación, servicio sanitario y de seguridades (sic) de las personas que concurran a estos sitios, se sujetarán los interesados a lo que sobre el particular ordene el Reglamento de que en materia de construcciones y edificaciones, u otras Leyes aplicables.
 
 ###### Artículo 19o.
 
@@ -209,9 +221,11 @@ Los derechos por revalidación de la licencia serán calificados por el Tesorero
 
 Los espectáculos de actividad deportiva y corridas de toros, además de cumplir con las disposiciones de este Reglamento, se sujetarán a las reglas o reglamentos especiales que para el desarrollo de ellas existan y tendrán como árbitros a los réferis, jueces de plaza, tomadores de tiempo, etc., que en los propios reglamentos se señalen.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 22o.
 
-Los espectáculos que requieran que se señalen reglas especiales para cada evento, tales como carreras de automóviles, de bicicletas, de personas, de competencias en lienzos o en cualquier otro lugar que no se encuentre registrado como hipódromo o centro hípico, deberán someter las mismas a la consideración de la Presidencia Municipal, cuando menos con quince días de anticipación a la fecha en que ha de efectuarse, a efecto de que se aprueben o se notifiquen conforme a lo que disponga la Presidencia Municipal, teniendo dicha autoridad ante todo la obligación de salvaguardar la seguridad de las personas que concurran a esos eventos, contra posibles accidentes. En todos los casos en que se autoricen eventos de los indicados en este artículo, la Presidencia Municipal ordenará al Director de Planeación de Obras y Servicios Públicos Municipales, que se haga una minuciosa inspección de las pistas o lienzos en que se tengan que desarrollar esas actividades y que el Director del Departamento indicado informe sobre si las pistas prestan las condiciones de seguridad requeridas; si no fuera así, se ordenará a los interesados que hagan las obras de adaptación que se les indiquen y si no lo hicieren, se les negará el permiso correspondiente. Llenados los requisitos, se autorizará la celebración del evento.
+Los espectáculos que requieran que se señalen reglas especiales para cada evento, tales como carreras de automóviles, de bicicletas, de personas, de competencias en lienzos o en cualquier otro lugar que no se encuentre registrado como hipódromo o centro hípico, deberán someter las mismas a la consideración de la Presidencia Municipal, cuando menos con quince días de anticipación a la fecha en que ha de efectuarse, a efecto de que se aprueben o se notifiquen conforme a lo que disponga la Presidencia Municipal, teniendo dicha autoridad ante todo la obligación de salvaguardar la seguridad de las personas que concurran a esos eventos, contra posibles accidentes. En todos los casos en que se autoricen eventos de los indicados en este artículo, la Presidencia Municipal ordenará al Director de Obras y Servicios Públicos Municipales, que se haga una minuciosa inspección de las pistas o lienzos en que se tengan que desarrollar esas actividades y que el Subdirector indicado informe sobre si las pistas prestan las condiciones de seguridad requeridas; si no fuera así, se ordenará a los interesados que hagan las obras de adaptación que se les indiquen y si no lo hicieren, se les negará el permiso correspondiente. Llenados los requisitos, se autorizará la celebración del evento.
 
 ## TITULO TERCERO
 
@@ -219,13 +233,17 @@ Los espectáculos que requieran que se señalen reglas especiales para cada even
 
 De las Prohibiciones a las Empresas o Representantes de Espectáculos Públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 23o.
 
-Se prohibe estrictamente a las empresas o representantes de cualquiera de los espectáculos públicos a que se refiere este Reglamento:
+Se prohíbe estrictamente a las empresas o representantes de cualquiera de los espectáculos públicos a que se refiere este Reglamento:
 
 I.- Anunciar o exhibir o representar películas u obras cuyos programas no hubieren sido previamente autorizados por el Gobierno Municipal.
 
-Para ese efecto, los interesados deberán presentar ante la Secretaría Gral. del Ayuntamiento, cuando menos dos días antes de la fecha en que deberá hacerse la exhibición o representación ante el público, los programas respectivos a efecto de que el Secretario General del Ayuntamiento de cuenta al Presidente Municipal, para su aprobación y una vez autorizado con el sello correspondiente de la Secretaria del Ayuntamiento, se le devuelvan al interesado. Sólo con la autorización de la Presidencia Municipal, o del Inspector Autoridad que intervenga en el centro de espectáculos respectivo, podrá hacerse la variación de las exhibiciones o representaciones autorizadas, en la inteligencia de que deberán fijar avisos en lugares visibles a la entrada del local en que se desarrolle el programa, para que el público quede enterado del cambio.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
+Para ese efecto los interesados deberán presentar ante la Secretaría General del Ayuntamiento, cuando menos dos días antes de la fecha en que deberá hacerse la exhibición o representación ante el público, los programas respectivos a efecto de que el Secretario General del Ayuntamiento de cuenta al Presidente Municipal, para su aprobación y una vez autorizado con el sello correspondiente de la Secretaria General del Ayuntamiento, se le devuelvan al interesado. Sólo con la autorización de la Presidencia Municipal, o del Inspector Autoridad que intervenga en el centro de espectáculos respectivo, podrá hacerse la variación de las exhibiciones o representaciones autorizadas, en la inteligencia de que deberán fijar avisos en lugares visibles a la entrada del local en que se desarrolle el programa, para que el público quede enterado del cambio.
 
 II.- Vender al público mayor número de localidades que las correspondientes al cupo del local.
 
@@ -259,7 +277,9 @@ XII.- Una vez que se haya duplicado en elenco y el nombre de las obras que será
 
 De las variaciones o alteraciones que se hagan, se hará la publicación en forma profusa por todos los medios que sea posible, ya sea por los periódicos, anuncios murales, de mano o por transmisiones radiofónicas y en los vestíbulos o puertas de acceso a los lugares en que habrá de presentar el programa, alterado o modificado, también se anunciará en forma profusa para que el público se entere.
 
-XIII.- Se les prohibe a las empresas, sus representantes o empleados, vender boletaje que no haya sido sellado por la autoridad fiscal correspondiente, o si existieren aparatos automáticos para la venta de boletos en los locales donde se dará la función los rollos se presentarán ante la Sec. del Ayuntamiento para su autorización. Los inspectores, antes de que principie la venta de boletos al público, darán fe de que esos boletos o las tarjetas de abono han sido autorizados legalmente.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
+XIII.- Se les prohíbe a las empresas, sus representantes o empleados, vender boletaje que no haya sido sellado por la autoridad fiscal correspondiente, o si existieren aparatos automáticos para la venta de boletos en los locales donde se dará la función los rollos se presentarán ante la Secretaría General del Ayuntamiento para su autorización. Los inspectores, antes de que principie la venta de boletos al público, darán fe de que esos boletos o las tarjetas de abono han sido autorizados legalmente.
 
 XIV.- En los espectáculos públicos el uso de los Símbolos Patrios quedará sujeto a las disposiciones que emanan de la Ley en vigor sobre la materia.
 
@@ -497,9 +517,11 @@ El sueldo de los Inspectores de la Autoridad que sean comisionados para que conc
 
 (sic) cargados de los espectáculos públicos, al serles concedida la licencia correspondiente, entregarán a la Recaudación de Rentas el importe de esos salarios si se tratare de actividades temporales, transitorias o accidentales; si los espectáculos fueren permanentes, los sueldos se cubrirán ante la Recaudación de Rentas Municipal por quincenas adelantadas.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 49o.
 
-Los Inspectores de la Autoridad, tendrán la obligación de presentarse en los lugares en que se exhiba el espectáculo o esparcimiento para el que fueren comisionados, cuando menos media hora antes de que principie la venta de localidades, debiendo cerciorarse de que los boletos se encuentren autorizados con sellos del Departamento de espectáculos públicos. Y que no existan alteraciones, series repetidas o sin numerar; tomará razón de los boletos que se hubieren vendido antes de ser abiertas las taquillas, cuando el Gobierno Municipal autorice para que así se haga; además tomará razón de las tarjetas de abono o de derechos de apartado que se hubieren vendido y si se dispuso de las localidades correspondientes; se vigilará que no penetren a los lugares en que se desarrollen los programas del espectáculo, personas que no tengan el correspondiente boleto o pase debidamente autorizado por el Gobierno Municipal.
+Los Inspectores de la Autoridad, tendrán la obligación de presentarse en los lugares en que se exhiba el espectáculo o esparcimiento para el que fueren comisionados, cuando menos media hora antes de que principie la venta de localidades, debiendo cerciorarse de que los boletos se encuentren autorizados con sello de la Dirección de Comercio, Alcoholes y Espectáculos Públicos. Y que no existan alteraciones, series repetidas o sin numerar; tomará razón de los boletos que se hubieren vendido antes de ser abiertas las taquillas, cuando el Gobierno Municipal autorice para que así se haga; además tomará razón de las tarjetas de abono o de derechos de apartado que se hubieren vendido y si se dispuso de las localidades correspondientes; se vigilará que no penetren a los lugares en que se desarrollen los programas del espectáculo, personas que no tengan el correspondiente boleto o pase debidamente autorizado por el Gobierno Municipal.
 
 ###### Artículo 50o.
 
@@ -517,9 +539,11 @@ El Gobierno Municipal nombrará los Inspectores de la Autoridad que intervendrá
 
 Los inspectores de la Autoridad por ningún motivo deben permitir que permanezcan personas de pie dentro de los lugares en que se efectúen las exhibiciones, representaciones, conciertos, ballets, conferencias, actividades deportivas, etc., ni que se instalen sillas en los pasillos, los cuales deben encontrarse siempre sin obstáculos de ninguna especie.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 54o.
 
-Los Agentes de la Policía Municipal deberán auxiliar a los Inspectores de la Autoridad cuando se trate de hacer que se cumpla con las disposiciones de este Reglamento u otras leyes aplicables.
+Los Agentes de la Policía Municipal Preventiva deberán auxiliar a los Inspectores de la Autoridad cuando se trate de hacer que se cumpla con las disposiciones de este Reglamento u otras leyes aplicables.
 
 ###### Artículo 55o.
 
@@ -541,13 +565,17 @@ Los Inspectores de la Autoridad rendirán diariamente, antes de las once horas, 
 
 Para los efectos del artículo que antecede, los Inspectores de la Autoridad deberán levantar una acta pormenorizada de las infracciones que descubrieron.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 60o.
 
-Las infracciones con relación a defectos en las construcciones, instalaciones de tomas de agua contra incendios, instalaciones y defectos de aparatos extinguidores, serán de la competencia de los Inspec. de la Direc. de Planeación de Obras y Ser. Pub. Municipales y de la Comandancia del Cuerpo de Bomberos y de las deficiencias en la instalación de los servicios sanitarios y las condiciones de salubridad general que deben mantenerse en los centros de espectáculos y esparcimiento, serán de la competencia de los Servicios Médicos y de Salubridad Municipal; las infracciones que por estos conceptos se levantaren, serán consignados a la Tesorería Municipal para su calificación. En todo caso que se levanten infracciones de esta naturaleza, se concederá a la empresa un plazo prudente para que corrija las anomalías que hubieren dado lugar a la infracción.
+Las infracciones con relación a defectos en las construcciones, instalaciones de tomas de agua contra incendios, instalaciones y defectos de aparatos extinguidores, serán de la competencia de los Inspectores de la Dirección de Obras y Servicios Públicos Municipales y de la Dirección de Bomberos y Protección Civil y de las deficiencias en la instalación de los servicios sanitarios y las condiciones de salubridad general que deben mantenerse en los centros de espectáculos y esparcimiento, serán de la competencia de la Dirección de Servicios Médicos; las infracciones que por estos conceptos se levantaren, serán consignados a la Secretaría General del Ayuntamiento para su calificación. En todo caso que se levanten infracciones de esta naturaleza, se concederá a la empresa un plazo prudente para que corrija las anomalías que hubieren dado lugar a la infracción.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### Artículo 61o.
 
-Los empresarios de espectáculos o lugares de esparcimiento que precisen instalación de carpas para su funcionamiento, deberán manifestar con claridad el lugar en donde pretenden instalarlas y el Gobierno Municipal ordenará al Director de Planeación de Obras y Servicios Públicos Municipales que se practique una inspección en el lugar señalado, a fin de que se evite que esas instalaciones puedan constituir un obstáculo a la circulación de vehículos y de personas. Una vez instalado el espectáculo, se practicará una nueva inspección por el mismo personal del Departamento de Obras Públicas Municipales para determinar si las instalaciones reúnen las condiciones de seguridad para el público y los artistas.
+Los empresarios de espectáculos o lugares de esparcimiento que precisen instalación de carpas para su funcionamiento, deberán manifestar con claridad el lugar en donde pretenden instalarlas y el Gobierno Municipal ordenará al Director de Obras y Servicios Públicos Municipales que se practique una inspección en el lugar señalado, a fin de que se evite que esas instalaciones puedan constituir un obstáculo a la circulación de vehículos y de personas. Una vez instalado el espectáculo, se practicará una nueva inspección por el mismo personal de la Dirección de Obras Públicas y Servicios Públicos Municipales para determinar si las instalaciones reúnen las condiciones de seguridad para el público y los artistas.
 
 ###### Artículo 62o.
 
@@ -805,13 +833,17 @@ Cuando los infractores no estuvieren conformes con la calificación de las multa
 
 El escrito por el que se interponga la revisión deberá presentarse ante el Tesorero o Recaudador de Rentas respectivo y para que se admita la misma, deberá depositarse en la Recaudación de Rentas respectiva la cantidad que importe la sanción impuesta.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+
 ###### Artículo 93o.
 
-Una vez que los inconformes hubieren depositado el importe de las sanciones en la Recaudación de Rentas, se anotará razón de ello en el mismo escrito por el que se interponga la revisión y el Recaudador dará cuenta al Tesorero Municipal, quien solicitará la revisión del expediente al Secretario del Ayuntamiento.
+Una vez que los inconformes hubieren depositado el importe de las sanciones en la Recaudación de Rentas, se anotará razón de ello en el mismo escrito por el que se interponga la revisión y el Recaudador dará cuenta al Tesorero Municipal, quien solicitará la revisión del expediente al Secretario General del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### Artículo 94o.
 
-El Secretario del Ayuntamiento dará cuenta al Presidente y este dentro de los tres días siguientes dictará su resolución que podrá ser revocando, condonando el total o parte de la multa o confirmándola; en ningún caso el Presidente Municipal podrá aumentar la multa impuesta.
+El Secretario General del Ayuntamiento dará cuenta al Presidente y este dentro de los tres días siguientes dictará su resolución que podrá ser revocando, condonando el total o parte de la multa o confirmándola; en ningún caso el Presidente Municipal podrá aumentar la multa impuesta.
 
 ###### Artículo 95o.
 
@@ -890,3 +922,7 @@ LIC. GUILLERMO VILLAVICENCIO GONZALEZ.
 P.O. 31 DE MAYO DE 2002.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 4 DE ENERO DE 2008.
+
+UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
