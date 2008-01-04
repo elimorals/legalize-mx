@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2007-05-15"
+last_updated: "2008-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3651,15 +3651,19 @@ III.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
-IV.- Por sentencia condenatoria que imponga como pena esta suspensión.
+IV.- Por sentencia condenatoria que imponga como pena esta suspensión;
 
 > <small>(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
 
-V.- Cuando exista la posibilidad de poner en riesgo la salud, el estado emocional o incluso su vida del o de los descendientes menores por parte de quien conserva la custodia legal, o de pariente por consaguinidad (sic) o afinidad hasta por el cuarto grado.
+V.- Cuando exista la posibilidad de poner en riesgo la salud, el estado emocional o incluso su vida del o de los descendientes menores por parte de quien conserva la custodia legal, o de pariente por consaguinidad (sic) o afinidad hasta por el cuarto grado;
 
-> <small>(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-VI.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente.
+VI.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente;
+
+> <small>(ADICIONADA, G.O. 4 DE ENERO DE 2008)</small>
+
+VII.- En los casos y mientras dure la tutela de los menores en situación de desamparo de acuerdo a lo dispuesto en el presente Código y del artículo del (sic) 902 Código de Procedimientos Civiles para el Distrito Federal.
 
 ###### ARTICULO 448.
 
@@ -3759,11 +3763,11 @@ En caso de no dar cumplimiento a lo establecido en este artículo, serán respon
 
 Los Jueces del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los Jueces de lo Familiar, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 461.
 
-La tutela es cautelar, testamentaria, legítima o dativa.
+La tutela es cautelar, testamentaria, legítima, dativa y de los menores en situación de desamparo.
 
 > <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
 
@@ -3845,11 +3849,9 @@ El Juez de lo Familiar, a petición del tutor o del curador, y en caso de no exi
 
 ARTICULO 469 Quintos.- El tutor cautelar que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado por testamento el incapaz.
 
-### CAPITULO V
+### CAPITULO V. De la tutela de los menores en situación de desamparo
 
-De la tutela de los menores abandonados y de los acogidos por alguna persona, o depositados en establecimientos de asistencia.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 470.
 
@@ -3991,35 +3993,73 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 4 DE ENERO DE 2008)</small>
 
 ### CAPITULO VIII. De las excusas para el desempeño de la tutela
 
 ###### ARTICULO 492.
 
-La ley coloca a los expósitos y abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
+La ley coloca a los menores en situación de desamparo bajo la tutela de la institución autorizada que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
 
-Se considera expósito al menor que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conoce, se considerará abandonado.
+Se entiende por expósito, al menor que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conoce, se considerará abandonado.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+Se considera como situación de desamparo, la que se produce de un hecho a causa de la imposibilidad, del incumplimiento o inapropiado ejercicio de los deberes de protección establecidos por las leyes para la patria potestad, tutela o custodia de los menores, cuando éstos queden privados de la necesaria asistencia material o moral; ya sea en carácter de expósitos o abandonados.
 
-El acogimiento tiene por objeto la protección inmediata del menor; si éste tiene bienes, el juez decidirá sobre la administración de los mismos.
+El acogimiento tiene por objeto la protección inmediata del menor, si éste tiene bienes, el juez decidirá sobre la administración de los mismos.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+En todos los casos, quien haya acogido a un menor, deberá dar aviso al Ministerio Público Especializado dentro de las cuarenta y ocho horas siguientes, quien después de realizar las diligencias necesarias, en su caso, lo pondrá de inmediato bajo el cuidado y atención del Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
 
-En todos los casos, quien haya acogido a un menor, deberá dar aviso al Ministerio Público dentro de las cuarenta y ocho horas siguientes.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 493.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso no es necesario el discernimiento del cargo.
+Los responsables de las casas de asistencia privada u organizaciones civiles previamente autorizadas, donde se reciban menores en situación de desamparo, desempeñarán la tutela de éstos con arreglo a las leyes.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+Tratándose de violencia familiar, sólo tendrán los cuidados y atención de los menores en los mismos términos del párrafo anterior, hasta en tanto se defina la situación legal de éstos.
 
 ###### ARTICULO 494.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de violencia familiar (sic) que se refiere este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
+(DEROGADO, G.O. 4 DE ENERO DE 2008)
+
+> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
+
+###### Artículo 494-A.
+
+El Gobierno del Distrito Federal, a través del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, ejercerá la tutela de los menores en situación de desamparo que no hayan sido acogidos por instituciones de asistencia social, en cuyo caso tendrá las obligaciones, facultades y restricciones establecidas en este Código.
+
+> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
+
+###### Artículo 494-B.
+
+El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, para efecto de lo dispuesto en el artículo anterior contará con un Comité Técnico interinstitucional e interdisciplinario como órgano de apoyo cuyo objeto será vigilar y garantizar el estricto respeto a los derechos fundamentales de las niñas y los niños con base en el interés superior del menor, adoptando las medidas necesarias de protección para su cuidado y atención.
+
+> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
+
+###### Artículo 494-C.
+
+Cuando el Sistema para el Desarrollo Integral de la Familia del Distrito Federal tenga conocimiento de que un menor se encuentra en situación de desamparo, practicará la diligencia de acogimiento respectiva con la participación del Comité Técnico interinstitucional e interdisciplinario, dando aviso en el acto al Ministerio Público Especializado, quien después de realizar las diligencias necesarias, lo pondrá de inmediato bajo el cuidado y atención de dicha institución.
+
+El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, adoptará todas las medidas necesarias para la atención, protección y tratamiento para el ejercicio pleno de sus derechos de acuerdo a las necesidades específicas y edad del menor, procurando siempre y en todo momento el sano desarrollo físico, mental, espiritual, moral y social, dando prioridad a los menores con problemas de adicción a estupefacientes, sustancias psicotrópicas y alcoholismo.
+
+El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, realizará las acciones de prevención y protección a menores para incorporarlos al núcleo familiar, hogares sustitutos o en espacios residenciales adecuados para su formación e instrucción, y garantizará en todo momento su situación jurídica conforme a lo previsto en este Código.
+
+El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, tendrá legitimación para, en su caso, promover ante el Juez de lo Familiar las acciones correspondientes a resolver la situación definitiva del menor, dentro del término de 10 días contados a partir de aquel en el que el Comité Técnico Interinstitucional e Interdisciplinario emitirá el dictamen técnico correspondiente, ateniendo a las circunstancias de cada caso en el plazo que señale el reglamento.
+
+La asunción de la tutela atribuida al Gobierno del Distrito Federal, en términos del Código de Procedimientos Civiles para el Distrito Federal, lleva consigo la suspensión provisional de la patria potestad y la tutela ordinarias; no obstante serán válidos los actos de contenido patrimonial que realicen los padres o tutores en representación del menor y que sean beneficiosos para él.
+
+> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
+
+###### Artículo 494-D.
+
+El Sistema para el Desarrollo Integral de la Familia del Distrito Federal, integrará a los menores que permanezcan bajo su cuidado y atención, en los espacios residenciales de instituciones u organizaciones civiles, previamente autorizados que se destinen para tal efecto con el fin de garantizar sus derechos de alimentación, salud, educación y sano esparcimiento en áreas especializadas que aseguren su desarrollo integral, de conformidad con el reglamento.
+
+Se buscará siempre el interés superior del menor y se procurará cuando no sea contrario a ese interés, su reinserción en la propia familia.
+
+> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2008)</small>
+
+###### Artículo 494-E.
+
+En el caso de que exista oposición de parte legítima después de efectuados los actos comprendidos en este capítulo, se reservará el derecho al opositor para que lo haga valer en la vía y forma que corresponda ante el Juez de lo Familiar.
 
 ### CAPITULO IX. De la garantía que deben prestar los tutores para asegurar su manejo
 
@@ -4051,51 +4091,17 @@ Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los
 
 Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 500.
 
-A los menores que no estén sujetos a la patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación y asistencia que requiera. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor, en su caso, y aún de oficio por el Juez de lo Familiar.
+(DEROGADO, G.O. 4 DE ENERO DE 2008)
 
 ###### ARTICULO 501.
 
-En el caso del artículo anterior, tienen obligación de desempeñar la tutela mientras duran en los cargos que a continuación se enumeran:
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-I.- El Gobierno del Distrito Federal, a través del titular del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, mediante los delegados que éste designe al efecto;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-II.- Los titulares de los órganos político administrativos de las demarcaciones territoriales del Distrito Federal;
-
-III.- (DEROGADA, G.O. 25 DE MAYO DE 2000)
-
-IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-V.- Los integrantes de la Junta de Asistencia Privada del Distrito Federal que disfruten sueldo del Erario; y
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-VI.- Los titulares de establecimientos públicos de asistencia social.
-
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
-
-Los Jueces de lo Familiar nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela, conforme a lo dispuesto en el Capítulo XV de este título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
-
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
-
-Tratándose de expósitos o abandonados que no hayan sido acogidos por un particular o por instituciones de asistencia social, la tutela siempre corresponderá al Gobierno del Distrito Federal, de conformidad con lo señalado en la fracción I de este artículo.
-
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
-
-En este caso, no es necesario el discernimiento del cargo.
+(DEROGADO, G.O. 4 DE ENERO DE 2008)
 
 ###### ARTICULO 502.
 
-Si el menor que se encuentre en el caso previsto por el artículo 500, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+(DEROGADO, G.O. 4 DE ENERO DE 2008)
 
 ### CAPITULO X. Del desempeño de la tutela
 
@@ -13619,7 +13625,7 @@ Sufragio Efectivo. No Reelección.
 
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 1 DE SEPTIEMBRE DE 1932.
 
@@ -14090,3 +14096,15 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 G.O. 15 DE MAYO DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE ENERO DE 2008.
+
+Artículo Primero.- Publíquese en la Gaceta Oficial del Distrito Federal para su observancia y aplicación.
+
+Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Tercero.- El Gobierno del Distrito Federal a través del Sistema para el Desarrollo Integral de la Familia emitirá los Lineamientos de Operación y Seguimiento para el cuidado y atención de los menores en situación de desamparo, dentro de los treinta días naturales siguientes a la publicación del decreto.
+
+Artículo Cuarto.- El Gobierno del Distrito Federal a través del Sistema para el Desarrollo Integral de la Familia emitirá dentro de los 120 días siguientes a la fecha de publicación del presente decreto, el Reglamento a que se refiere el artículo 494-D.
+
+Artículo Quinto.- La Asamblea Legislativa del Distrito Federal considerará una partida presupuestal de recursos financieros suficientes para asegurar la atención, cuidado y protección de los menores en situación de desamparo en el ejercicio presupuestal de 2008 y años subsecuentes.
