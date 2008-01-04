@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2007-12-19"
+last_updated: "2008-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4595,8 +4595,6 @@ X. La inmovilización de vehículos o medios de transporte, u otros que sin toma
 
 En los casos previstos en las fracciones II, III, IV y V de este artículo, la Unidad Operativa Municipal de Protección Civil, se apoyará en los dictámenes técnicos que correspondan conforme a los ordenamientos, pudiendo en todo caso apoyarse con los que emitan los peritos adscritos a la Unidad Operativa Municipal de Protección Civil.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
-
 ###### Artículo 447.
 
 Para la ejecución de las medidas de seguridad en caso de riesgo, catástrofe o calamidad pública a la población no será necesario notificar previamente al afectado, pero en todo caso deberá levantarse acta circunstanciada de la diligencia en la que se observen las formalidades establecidas para las inspecciones, debiendo notificar de inmediato al afectado, iguales circunstancias serán aplicables al visitado cuando el momento lo requiera.
@@ -6235,7 +6233,7 @@ Para la reposición del tarjetón de refrendo, constancia de suspensión tempora
 
 ###### Artículo 608.
 
-Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al público en general, por lo menos con cuarenta y ocho horas de anticipación.
+Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al publico en general, por lo menos con cuarenta y ocho horas de anticipación.
 
 La prohibición a que se refiere el párrafo anterior, se aplicará invariablemente el día en que se realicen elecciones Constitucionales o de Juntas Auxiliares.
 
@@ -13123,7 +13121,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -20399,7 +20397,7 @@ Artículo 1682 bis.- El servicio de estacionamiento en la vía pública podrá s
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1682 ter. Para el cobro del uso de estacionamiento en la vía pública el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
+Artículo 1682 ter. Para el cobro del uso de estacionamiento en la vía pública, el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -22577,9 +22575,63 @@ II. Apercibimiento;
 
 III. Multa, conforme a la siguiente tabla:
 
-(VEASE ARCHIVO ANEXO)
+SUPUESTO NORMATIVO INFRACCIÓN
 
-Las multas señaladas en esta fracción, se aplicarán sin perjuicio de lo que señalan otros capítulos del presente Código Reglamentario y las demás leyes y demás disposiciones jurídicas que resulten aplicables al caso concreto.
+1.- Por carecer del dictamen favorable de la Dirección de Ecología, en los giros comerciales para los que se requiera, de conformidad con el presente Capítulo y las disposiciones de este Código Reglamentario Municipal
+
+De 10 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+2.- Por sobrepasar los límites establecidos en la normatividad ambiental vigente o causar molestias a la ciudadanía, al no controlar las emisiones contaminantes a la atmósfera procedente de fuentes fijas de competencia municipal
+
+De 10 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+3.- Por no dar aviso a la autoridad competente de las fallas en los equipos de control de contaminantes a la atmósfera en fuentes fijas de competencia municipal
+
+De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+4.- Por falta de permiso de la Dirección de Ecología para efectuar combustión a cielo abierto
+
+De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+5.- Por carecer de inscripción en el Padrón Municipal de giros de competencia municipal potencialmente emisores de contaminación ostensible a la atmósfera
+
+De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+6.- Por descarga al sistema de drenaje municipal, cauces naturales o al subsuelo aguas, productos o líquidos residuales provenientes de procesos cuyos parámetros estén fuera de las normas contempladas en la legislación y reglamentación ambiental vigente
+
+De 20 a 1500 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+SUPUESTO NORMATIVO INFRACCIÓN
+
+7.- Por contaminar con residuos y no manejarlos, transportarlos y disponerlos adecuadamente de conformidad con la legislación ambiental vigente
+
+De 15 a 50 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+8.- Por realizar poda o derribo sin la autorización municipal, por unidad, independientemente de reparar el daño causado
+
+De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+9.- Los giros comerciales, industriales o de servicios que emitan ruido o vibraciones a la atmósfera que rebasen los niveles máximos permisibles de la normatividad vigente, o que causen molestias a la ciudadanía
+
+De 15 a 65 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+10.- Por carecer de bitácora de operación y mantenimiento de sus equipos de control anticontaminantes
+
+De 10 a 20 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+11.- Por almacenar inadecuadamente o sin permiso de la autoridad competente residuos o substancias consideradas como peligrosas o contaminantes, así como abandonar en la vía pública o sitios públicos residuos provenientes de clínicas u hospitales
+
+De 35 a 300 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+12.- Por carecer de equipo y autorización para la incineración o traslado de residuos y sustancias peligrosas por parte de la autoridad competente
+
+De 10 a 200 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+13.- Cuando las contravenciones a la reglamentación municipal vigente a que se refiere esta fracción, conlleven un riesgo de desequilibrio ecológico por casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública, la sanción aplicable será
+
+De 50 a 3000 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+Las multas señaladas en esta fracción, se aplicarán sin perjuicio de lo que señalan otros capítulos del presente Código Reglamentario y las demás leyes y demás disposiciones jurídicas que resulten aplicables al caso concreto;
 
 IV. Clausura parcial o total, temporal o definitiva;
 
@@ -26397,7 +26449,7 @@ Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad
 
 ###### Artículo 2171.
 
-Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cuerquir otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
+Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cualquier otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -27833,6 +27885,10 @@ XII. Reconocimiento al Mérito Empresarial.
 
 XIII. Reconocimiento al "Mérito Laboral".
 
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2008)</small>
+
+XIV. Copia de la Declaración de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Histórico de la Humanidad.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DE LA CÉDULA REAL
@@ -28351,19 +28407,23 @@ VII. Reconocimiento al "Mérito Empresarial";
 
 > <small>(ADICIONADA, P.O. 2 DE MARZO DE 2007)</small>
 
-VIII. Reconocimiento al "Mérito Laboral".
+VIII. Reconocimiento al "Mérito Laboral";
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2008)</small>
+
+IX. Copia de la Declaración de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Histórico de la Humanidad.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### Artículo 2335.
 
-Los Reconocimientos señalados en las fracciones I, II, III, IV, V y VI del artículo anterior, serán entregados sin que medie convocatoria para su asignación y se otorgarán en Sesión de Cabildo, o bien en Acto Protocolario, según lo determine el C. Presidente Municipal Constitucional.
+Los Reconocimientos señalados en las fracciones I, Il, IlI, IV, V, VI y IX del artículo anterior, serán entregados sin que medie convocatoria para su asignación y se otorgarán en Sesión de Cabildo, o bien en Acto Protocolario, según lo determine el C. Presidente Municipal Constitucional.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### Artículo 2336.
 
-Los Reconocimientos señalados en las fracciones I, II, III, IV, V y VI del artículo 2334 del presente Capítulo, serán entregados a las personas físicas cuyas actividades tienen una relevancia significativa en el mundo, el País, el Estado o el Municipio, a quienes se hayan destacado por su labor intelectual o empresarial, porque su trayectoria, méritos o legados sean merecedores a recibirlos, y aquellas personas de distinguida reputación que vengan en representación de otros Países, Estados o Municipios.
+Los Reconocimientos señalados en las fracciones I, Il, IlI, IV, V, VI y IX del artículo 2334 del presente Capítulo, serán entregados a las personas físicas cuyas actividades tienen una relevancia significativa en el mundo, el país, el Estado o el Municipio, a quienes se haya destacado por su labor intelectual o empresarial, porque su trayectoria, méritos o legados sean merecedores a recibirlos, y aquellas personas de distinguida reputación que vengan en representación de otros países, Estados o Municipios.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28395,17 +28455,23 @@ El Reconocimiento al "Merito Docente", será entregado a aquellos maestros o cat
 
 El Reconocimiento "Puebla Patrimonio Histórico de la Humanidad", será otorgado a personas físicas de reconocida trayectoria que visiten la Ciudad de Puebla por segunda ocasión, y que además hayan recibido con anterioridad algún otro galardón de los que se establecen en el presente Capítulo.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2008)</small>
+
+###### Artículo 2341 Bis.
+
+La Copia de la Declaración de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Histórico de la Humanidad, será otorgado a personas físicas de reconocida trayectoria, cuyos trabajos o acciones tengan injerencia en la inscripción, conservación, restauración y/o promoción del Centro Histórico de la Ciudad de Puebla, como Patrimonio Histórico de la Humanidad.
+
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
 ###### Artículo 2342.
 
 El Reconocimiento "Juan de Palafox y Mendoza", será otorgado a aquellas personas que se hayan destacado a nivel Municipal, Estatal, Nacional e Internacional por sus trabajos humanitarios o que hayan llevado a cabo actividades relevantes en materia de Derechos Humanos.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### Artículo 2343.
 
-Es facultad del C. Presidente Municipal Constitucional, conceder los Reconocimientos señalados en las fracciones I, II, III, IV, V y VI del artículo 2334 del Presente Capítulo, estableciendo para tal efecto el nombre o nombres de los galardonados, la hora, fecha y tipo de ceremonia en la que ha de entregarse el Reconocimiento, convocando ésta con una hora de anticipación.
+Es facultad del C. Presidente Municipal Constitucional, conceder los Reconocimientos señalados en las fracciones I, II, III, IV, V, VI y IX del artículo 2334 del presente Capítulo, estableciendo para tal efecto el nombre o nombres de los galardonados, la hora, fecha y tipo de ceremonia en la que ha de entregarse el Reconocimiento, convocando ésta con una hora de anticipación.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -29064,3 +29130,15 @@ P.O. 19 DE DICIEMBRE DE 2007.
 PRIMERO.- Las presentes reformas, adiciones y derogaciones al Capítulo 18 "Anuncios" del Código Reglamentario para el Municipio de Puebla, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
+
+P.O. 4 DE ENERO DE 2008.
+
+PRIMERO.- Se aprueba en todos sus términos la adición de la fracción XIV del artículo 2277, la fracción IX del artículo 2334 y el artículo 2341 bis; así como las reformas a los artículos 2335, 2336 y 2343 del Capítulo 36 del Código Reglamentario para el Municipio de Puebla, tal y como se establece en el considerando XXIX, del cuerpo del presente Punto de Acuerdo.
+
+SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento a fin de que realice todos los trámites necesarios para que las presentes reformas y adiciones, sean publicadas en el Periódico Oficial del Estado.
+
+TERCERO.- Se instruye a la Coordinación de Comunicación Social para que elabore el diseño del Reconocimiento que refieren las adiciones y reformas del presente Punto de Acuerdo.
+
+CUARTO.- Las presentes reformas y adiciones entrarán en vigor a partir de su publicación en el Periódico Oficial Estado.
+
+QUINTO.- Se derogan todas las disposiciones que se contrapongan al presente Dictamen.
