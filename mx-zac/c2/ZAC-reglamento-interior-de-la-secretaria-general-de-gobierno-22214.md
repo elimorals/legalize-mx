@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-general-de-gobierno-22214"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-03"
-last_updated: "2001-10-03"
+last_updated: "2008-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de octubre de 2001.
 
@@ -55,6 +55,10 @@ Para el despacho de los asuntos de su competencia, la Secretaría General de Gob
 
 - Subsecretaría de Concertación y Atención Ciudadana;
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2008)</small>
+
+- Subsecretaría de Seguridad Pública;
+
 - Dirección de Prevención y Readaptación Social;
 
 - Dirección de Transporte Público y Vialidad;
@@ -73,13 +77,19 @@ Las (sic) Servidores Públicos de las Unidades Administrativas que conforman la 
 
 ###### ARTICULO 5.
 
-Corresponde originalmente al Secretario la representación de la Secretaría, así como el trámite y resolución de todos los asuntos competencia de ésta.
+Corresponde originalmente al Secretario la representación de la Secretaría, así como el trámite y resolución de todos los asuntos competencia de esta.
 
 El Secretario para la mejor distribución y desarrollo del trabajo, podrá delegar facultades a servidores públicos subalternos, sin perjuicio de su ejercicio directo, a cuyo efecto se expedirán los acuerdos correspondientes.
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2008)</small>
+
+En ausencia o por acuerdo del Secretario, las atribuciones previstas en la fracción XV del artículo 24 de la Ley Orgánica de la Administración Pública del Estado; las que al respecto prevé la Ley de Seguridad Pública del Estado, y los demás ordenamientos que sobre esta materia le sean asignadas a la Secretaría, las ejercerá el Subsecretario de Seguridad Pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 6.
 
-Son facultades indelegables del Secretario las siguientes:
+Con las excepciones previstas en este Reglamento, son facultades indelegables del Secretario las siguientes:
 
 I.- Dirigir los planes, programas y acciones de la Secretaría, de conformidad con la legislación vigente y los lineamientos que al efecto emita el Gobernador del Estado;
 
@@ -97,7 +107,9 @@ VII.- Someter al acuerdo del Gobernador del Estado los asuntos competencia de la
 
 VIII.- Proponer al Gobernador del Estado, los Proyectos de Ley, Reglamentos, Decretos, Convenios, Acuerdos y demás disposiciones que sean competencia de la Secretaría;
 
-IX.- Coordinar las actividades del Consejo Estatal de Seguridad Pública y participar en las Comisiones, Comités y demás cuerpos colegiados que se establezcan para la atención de asuntos cuya materia sea competencia de la Secretaría;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2008)</small>
+
+IX.- Participar en las comisiones, comités, y demás cuerpos colegiados que se establezcan para la atención de asuntos cuya materia sea competencia de la Secretaría;
 
 X.- Formular y aplicar las medidas administrativas necesarias para la adecuada organización y funcionamiento de la Secretaría;
 
@@ -282,6 +294,48 @@ a) Unidad de Concertación con Organizaciones;
 b) Unidad de Atención a Asuntos Agrarios y Territoriales; y
 
 c) Unidad de Registros y Certificaciones.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2008)</small>
+
+###### ARTICULO 13-A.
+
+Corresponde a la Subsecretaria de Seguridad Pública:
+
+l.- Apoyar al Secretario en las tareas de planear, dirigir, ejecutar y evaluar los planes, programas, estrategias y acciones operativas, a fin de garantizar la seguridad de los habitantes del Estado, velar por la paz y el orden público, la prevención de los delitos y la protección de los derechos humanos de la ciudadanía;
+
+II.- Coordinar la seguridad pública del Estado conforme al ámbito de competencia de la Secretaría, en tanto cabeza del sector al que se integran la Dirección General de Seguridad Pública y Tránsito del Estado; la Dirección de la Policía Estatal Preventiva, la Dirección de Protección Civil y Bomberos, la Dirección de Prevención y Readaptación Social y el Centro de Internamiento y Atención Integral Juvenil, en el ejercicio de las facultades que le confiere el orden jurídico sobre la materia;
+
+III.- Prevenir la comisión de delitos, así como las infracciones a los Bandos de Policía y Gobierno y demás reglamentos y disposiciones en materia de seguridad pública;
+
+IV.- Proteger a las personas en sus derechos, propiedades, y posesiones;
+
+V.- Vigilar permanentemente el respeto al orden público y la seguridad de los habitantes;
+
+VI.- Coordinarse y colaborar con la Procuraduría General de Justicia del Estado, los Agentes del Ministerio Público, las autoridades federales, las autoridades judiciales y municipales en los términos de la ley y demás ordenamientos aplicables;
+
+VII.- Formar, capacitar y actualizar a los miembros de los cuerpos de seguridad pública de su competencia;
+
+VIII.- En ausencia o por acuerdo del Secretario, tener bajo su mando a la Policía Estatal Preventiva;
+
+IX.- Coordinar las actividades del Consejo Estatal de Seguridad Pública, cuando así lo determine el Secretario;
+
+X.- Eventualmente, en términos de ley tener bajo su mando a la Policía Municipal Preventiva;
+
+XI.- Autorizar, vigilar y controlar, los servicios auxiliares de protección, custodia o vigilancia que presten empresas de seguridad del sector privado;
+
+XII.- Las demás que le asigne el Secretario o le señalen otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2008)</small>
+
+###### ARTICULO 13-B.
+
+Para el cumplimiento de las atribuciones que le confiere el presente ordenamiento la Subsecretaría de Seguridad Pública contará con las unidades de apoyo siguientes:
+
+a) Unidad de Planeación y Seguimiento Operativo;
+
+b) Unidad de Profesionalización Policial; y
+
+c) Unidad de Prevención del Delito.
 
 ###### ARTICULO 14.
 
@@ -549,6 +603,8 @@ XX.- Las demás que les confieran la ley y otros ordenamientos, así como los ma
 
 ### CAPITULO II. De las Facultades del Secretario
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 20.
 
 El Instituto Estatal de Migración es un órgano administrativo desconcentrado de la Secretaría y sus atribuciones y organización se establecen en el instrumento legal de su creación, en el presente Reglamento y demás ordenamientos aplicables.
@@ -608,6 +664,12 @@ LIC. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE ENERO DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ### CAPITULO IV. De las Atribuciones de las Subsecretarías
 
