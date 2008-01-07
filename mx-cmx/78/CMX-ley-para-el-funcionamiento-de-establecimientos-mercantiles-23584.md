@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2007-05-15"
+last_updated: "2008-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -170,9 +170,11 @@ LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ENERO DE 2008)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en este ordenamiento son de orden público e interés social y tienen por objeto regular el funcionamiento de los Establecimientos Mercantiles del Distrito Federal. La autoridad promoverá y fomentará las actividades de los Establecimientos Mercantiles en los términos de las leyes aplicables, siempre que se ajusten a derecho, cumplan con sus obligaciones legales y reglamentarias y no comprometan el desarrollo armónico y sustentable de la ciudad.
+Las disposiciones contenidas en este ordenamiento son de orden público e interés social y tienen por objeto regular el funcionamiento de los Establecimientos Mercantiles del Distrito Federal. La autoridad promoverá y fomentará las actividades de los Establecimientos Mercantiles, a través de los acuerdos y programas que se emitan para tal efecto, en los términos y formalidades de las leyes aplicables, cuando se ajusten a derecho, cumplan con sus obligaciones legales y reglamentarias y no comprometan el desarrollo armónico y sustentable de la ciudad.
 
 No será objeto de regulación de la presente Ley los locales destinados a la industria en todas sus especificaciones.
 
@@ -1555,3 +1557,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 CUARTO. Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 7 DE ENERO DE 2008.
+
+PRIMERO. Remítase al ciudadano Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. Las presentes reformas entrarán en vigor al día siguiente de su publicación.
+
+TERCERO. Los procedimientos administrativos que se hayan iniciado con anterioridad a la entra (sic) en vigor de este Decreto, continuaran su tramitación de conformidad con las disposiciones legales que estaban vigentes en el momento de su inicio.
+
+CUARTO. El ciudadano Jefe de Gobierno del Distrito Federal deberá de hacer las modificaciones al Reglamento de Verificación Administrativa para el Distrito Federal en un plazo que no exceda de 30 días naturales.
