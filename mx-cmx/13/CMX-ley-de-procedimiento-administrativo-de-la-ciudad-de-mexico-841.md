@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2006-06-26"
+last_updated: "2008-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -952,9 +952,11 @@ VIII. Declaración del visitado, si quiere hacerla; y
 
 IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien o quienes la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2008)</small>
+
 ###### Artículo 104.
 
-Los visitados a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien por escrito, así como hacer uso de tal derecho dentro del término de cinco días siguientes a la fecha en que se hubiere levantado.
+Los visitados a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien lo podrán hacer por escrito, en un documento anexo, dentro de los diez días hábiles siguientes a la fecha en que se hubiere levantado el acta de visita de verificación.
 
 ###### Artículo 105.
 
@@ -1269,3 +1271,13 @@ TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 G.O. 26 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 7 DE ENERO DE 2008.
+
+PRIMERO. Remítase al ciudadano Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. Las presentes reformas entrarán en vigor al día siguiente de su publicación.
+
+TERCERO. Los procedimientos administrativos que se hayan iniciado con anterioridad a la entra (sic) en vigor de este Decreto, continuaran su tramitación de conformidad con las disposiciones legales que estaban vigentes en el momento de su inicio.
+
+CUARTO. El ciudadano Jefe de Gobierno del Distrito Federal deberá de hacer las modificaciones al Reglamento de Verificación Administrativa para el Distrito Federal en un plazo que no exceda de 30 días naturales.
