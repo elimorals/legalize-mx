@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "2008-01-04"
+last_updated: "2008-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ENERO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987.
 
@@ -68,7 +68,7 @@ Para los efectos de la presente Ley, el derecho a la protección de la salud tie
 
 > <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
-I.- El bienestar físico, mental y social del hombre, para contribuir al ejercicio pleno de sus capacidades; fomentando una cultura de salud físico nutricional, y de combate al consumo de drogas, estupefacientes, psicotrópicos, alcohol, tabaquismo y cualquier otra sustancia dañina para la salud humana, dentro y fuera de los Planteles Educativos;
+I.- El bienestar físico, mental y social del hombre, para contribuir al ejercicio pleno de sus capacidades; fomentando una cultura de salud físico nutricional, y de combate al consumo de drogas, estupefacientes, psicotrópicos, alcohol, tabaquismo y cualquier otra sustancia dañina para la salud humana, dentro y fuera de los Planteles Educativos.
 
 II.- La prolongación y mejoramiento de la calidad de la vida humana;
 
@@ -558,9 +558,17 @@ IV.- la prescripción con una redacción comprensible y legible; los medicamento
 
 El usuario tendrá:
 
-I.- El respeto a la dignidad, a su vida privada, a su cultura y valores, en todo momento durante la atención médica, y
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2008)</small>
 
-II.- Una atención terminal humanitaria y a recibir toda la ayuda disponible para morir lo más digna y aliviadamente posible.
+I.- El respeto a la dignidad, a su vida privada, a su cultura y valores, en todo momento durante la atención médica;
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2008)</small>
+
+II.- Una atención terminal humanitaria y a recibir toda la ayuda disponible para morir lo más digna y aliviadamente posible; y
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2008)</small>
+
+III.- La obligación, por parte del Gobierno del Distrito Federal, del cumplimiento de lo dispuesto en la Ley de Voluntad Anticipada para el Distrito Federal, siempre y cuando se hayan cumplido con los requisitos establecidos en la misma.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1783,3 +1791,23 @@ El Jefe de Gobierno del Distrito Federal deberá instrumentar anualmente en la d
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales y administrativas que se opongan a la presente reforma.
+
+G.O. 7 DE ENERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- A partir de la entrada en vigor de la (sic) presente Decreto, se derogan las demás disposiciones que contravengan al mismo.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal tendrá 90 días naturales para emitir el Reglamento y los Lineamientos conducentes para la aplicación de la presente ley.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal, deberá realizar a más tardar en 90 días naturales las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Salud del Distrito Federal, para proveer en la esfera administrativa lo relativo a la creación de la Coordinación Especializada en materia de Voluntad Anticipada.
+
+QUINTO.- El Jefe de Gobierno del Distrito Federal deberá suscribir el convenio de colaboración correspondiente con el Colegio de Notarios a efecto de garantizar el cumplimiento de las disposiciones de la Ley de Voluntad Anticipada para el Distrito Federal y asegurar el menor costo posible de los honorarios correspondientes al Documento contenido en ella, así como la inclusión de la suscripción del mismo en las Jornadas Notariales.
+
+SEXTO.- La Asamblea Legislativa del Distrito Federal, deberá establecer en el Presupuesto de Egresos para el ejercicio fiscal 2008, los recursos presupuestales correspondientes y suficientes para la operación y difusión de la Ley de Voluntad Anticipada para el Distrito Federal.
+
+SÉPTIMO.- Una vez que el Centro Local de Trasplantes inicie sus operaciones, la Coordinación Especializada en materia de Voluntad Anticipada, continuará con la realización y ejecución de las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal, en materia de Donación y Trasplante de Órganos y Tejidos, y fungirá como coadyuvante de éste en los términos de dicha Ley y las disposiciones vigentes en materia de salud.
+
+OCTAVO.- El Jefe de Gobierno del Distrito Federal, deberá suscribir los convenios de coordinación de acciones correspondientes con la Secretaría de Salud Federal, El Centro Nacional de Trasplantes y los Centros Estatales de Trasplantes, a efecto de garantizar el cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal, en materia de Trasplantes y Donación de Órganos y Tejidos, con base en lo dispuesto por la Ley General de Salud en lo conducente y aplicable.
+
+NOVENO.- Publíquese el presente Decreto en el Diario Oficial de la Federación para su mayor difusión.
