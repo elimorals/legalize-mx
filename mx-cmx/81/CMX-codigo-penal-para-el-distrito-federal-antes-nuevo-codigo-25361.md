@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2007-12-21"
+last_updated: "2008-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ENERO DE 2008.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -582,15 +582,15 @@ Lo previsto en el párrafo anterior no es aplicable para la reparación del dañ
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-ARTÍCULO 71 Bis (De la disminución de la pena en delitos no graves). Cuando el sujeto activo confiese su participación en la comisión de delito no grave ante el Ministerio Público y la ratifique ante el Juez en la declaración preparatoria, se disminuirá la pena en una mitad, según el delito que se trate.
+ARTÍCULO 71 BIS. (De la disminución de la pena en delitos no graves). Cuando el sujeto activo confiese su participación en la comisión de delito no grave ante el Ministerio Público y la ratifique ante el Juez en la declaración preparatoria, se disminuirá la pena en una mitad, según el delito que se trate.
 
 > <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
 
-ARTÍCULO 71 Ter (De la disminución de la pena en delitos graves) Cuando el sujeto activo confiese su participación en la comisión de delito grave ante el Ministerio Público y la ratifique ante el Juez en la declaración preparatoria se disminuirá la pena una tercera parte, según el delito que se trate, excepto cuando estén relacionados con delincuencia organizada, en cuyo caso se aplicará la Ley de la materia. Este beneficio no es aplicable para los delitos de Homicidio, previsto en el artículo 123 en relación al 18, párrafo segundo; Secuestro, contenido en los artículos 163, 163 Bis, 164, 165, 166 y 166 Bis, con excepción de lo previsto en el último párrafo del artículo 164; Desaparición Forzada de Personas, previsto en el artículo 168; Violación, previsto en los artículos 174 y 175; Corrupción de personas menores de edad o personas que no tengan capacidad para comprender el significado del hecho o de personas que no tengan capacidad de resistir la conducta, previsto en los artículos 183, 184 y 185; Turismo Sexual, previsto en el artículo 186; Pornografía, previsto en los artículos 187 y 188; Trata de Personas, previsto en el artículo 188 Bis; Lenocinio, previstos en los artículos 189 y 189 bis; Robo, previsto en el artículo 220, en relación al artículo 225; Tortura, previsto en los artículos 294 y 295; todos de este Código.
+ARTÍCULO 71 TER. (De la disminución de la pena en delitos graves) Cuando el sujeto activo confiese su participación en la comisión de delito grave ante el Ministerio Público y la ratifique ante el Juez en la declaración preparatoria se disminuirá la pena una tercera parte, según el delito que se trate, excepto cuando estén relacionados con delincuencia organizada, en cuyo caso se aplicará la Ley de la materia. Este beneficio no es aplicable para los delitos de Homicidio, previsto en el artículo 123 en relación al 18, párrafo segundo; Secuestro, contenido en los artículos 163, 163 Bis, 164, 165, 166 y 166 Bis, con excepción de lo previsto en el último párrafo del artículo 164; Desaparición Forzada de Personas, previsto en el artículo 168; Violación, previsto en los artículos 174 y 175; Corrupción de personas menores de edad o personas que no tengan capacidad para comprender el significado del hecho o de personas que no tengan capacidad de resistir la conducta, previsto en los artículos 183, 184 y 185; Turismo Sexual, previsto en el artículo 186; Pornografía, previsto en los artículos 187 y 188; Trata de Personas, previsto en el artículo 188 Bis; Lenocinio, previstos en los artículos 189 y 189 bis; Robo, previsto en el artículo 220, en relación al artículo 225; Tortura, previsto en los artículos 294 y 295; todos de este Código.
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-ARTÍCULO 71 Quáter (Reglas generales para la aplicación de las penas disminuidas por reconocimiento de participación en la comisión del delito). El otorgamiento de la pena disminuida sólo será aplicable tratándose de primodelincuentes por delitos dolosos consumados y se requerirá que el reconocimiento que haga el sujeto activo de su participación en la comisión del delito se encuentre robustecido con otros elementos de prueba, para cuyo efecto se observarán las reglas previstas en los tres últimos párrafos del artículo 71 de éste Código.
+ARTÍCULO 71 QUÁTER. (Reglas generales para la aplicación de las penas disminuidas por reconocimiento de participación en la comisión del delito). El otorgamiento de la pena disminuida sólo será aplicable tratándose de primodelincuentes por delitos dolosos consumados y se requerirá que el reconocimiento que haga el sujeto activo de su participación en la comisión del delito se encuentre robustecido con otros elementos de prueba, para cuyo efecto se observarán las reglas previstas en los tres últimos párrafos del artículo 71 de éste Código.
 
 ARTÍCULO 72 (Criterios para la individualización de las penas y medidas de seguridad). El Juez, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, con base en la gravedad del ilícito y el grado de culpabilidad del agente, tomando en cuenta:
 
@@ -664,9 +664,7 @@ Se exceptúa la reparación del daño y la sanción económica, por lo que no se
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-###### ARTÍCULO 75 Bis.
-
-Cuando la orden de aprehensión o el auto de formal prisión se dicte en contra de una persona mayor de 70 años de edad o de precario estado de salud permanente, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado o procesado bajo las medidas de seguridad que procedan. La petición se tramitará incidentalmente.
+ARTÍCULO 75 BIS. Cuando la orden de aprehensión o el auto de formal prisión se dicte en contra de una persona mayor de 70 años de edad o de precario estado de salud permanente, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado o procesado bajo las medidas de seguridad que procedan. La petición se tramitará incidentalmente.
 
 No gozarán de esta prerrogativa quienes, a criterio del juez, puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumir fundadamente que causarán daño al denunciante o querellante, a la víctima u ofendido o a quienes directa o indirectamente participen o deban participar en el proceso.
 
@@ -968,6 +966,14 @@ Cuando la madre prive de la vida a su hijo dentro de las veinticuatro horas sigu
 
 Al que prive de la vida a otro, por la petición expresa, libre, reiterada, seria e inequívoca de éste, siempre que medien razones humanitarias y la víctima padeciere una enfermedad incurable en fase terminal, se le impondrá prisión de dos a cinco años.
 
+> <small>(ADICIONADO, G.O. 7 DE ENERO DE 2008)</small>
+
+Los supuestos previstos en el párrafo anterior no integran los elementos del cuerpo del delito de homicidio, así como tampoco las conductas realizadas por el personal de salud correspondiente, para los efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 7 DE ENERO DE 2008)</small>
+
+Tampoco integran los elementos del cuerpo del delito previsto en el párrafo primero del presente artículo, las conductas realizadas conforme a las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal suscritas y realizadas por el solicitante o representante, en el Documento de Voluntad Anticipada o el Formato expedido por la Secretaría de Salud para los efectos legales a que haya lugar.
+
 ###### ARTÍCULO 128.
 
 A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión.
@@ -1118,6 +1124,12 @@ Si el suicidio no se consuma, por causas ajenas a la voluntad del que induce o a
 
 Si la persona a quien se induce o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o determinarse de acuerdo con esa comprensión, se impondrán al homicida o inductor las sanciones señaladas al homicidio calificado o a las lesiones calificadas.
 
+> <small>(ADICIONADO, G.O. 7 DE ENERO DE 2008)</small>
+
+ARTÍCULO 143 BIS. En los supuestos previstos en los dos artículos anteriores no integran los elementos del cuerpo del delito de ayuda o inducción al suicidio, las conductas realizadas por el personal de salud correspondiente para los efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal.
+
+Tampoco integran los elementos del cuerpo del delito previstos en el párrafo anterior, las conductas realizadas conforme a las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal suscritas y realizadas por el solicitante o representante, en el Documento de Voluntad Anticipada o el Formato expedido por la Secretaría de Salud para los efectos legales a que haya lugar.
+
 ### CAPÍTULO I. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
 ###### ARTÍCULO 144.
@@ -1239,6 +1251,12 @@ Al que exponga en una institución o ante cualquier otra persona a un incapaz de
 Los ascendientes o tutores que entreguen en una casa de expósitos a un menor de doce años que esté bajo su potestad o custodia, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
 No se impondrá pena alguna a la madre que entregue a su hijo por ignorancia, extrema pobreza, o cuando sea producto de una violación o inseminación artificial a que se refiere el artículo 150 de este Código.
+
+> <small>(ADICIONADO, G.O. 7 DE ENERO DE 2008)</small>
+
+ARTÍCULO 158 BIS. En los supuestos previstos en el artículo 156 y primer párrafo del artículo 158, no integran los elementos del cuerpo del delito de omisión de auxilio o de cuidado, las conductas realizadas por el personal de salud para los efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal.
+
+Tampoco integran los elementos del cuerpo del delito previstos en el párrafo anterior, las conductas realizadas conforme a las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal suscritas y realizadas por el solicitante o representante, en el Documento de Voluntad Anticipada o el Formato expedido por la Secretaría de Salud para los efectos legales a que haya lugar.
 
 ### CAPÍTULO III. HOSTIGAMIENTO SEXUAL
 
@@ -1830,9 +1848,7 @@ II. Violencia psicoemocional: a todo acto u omisión consistente en prohibicione
 
 > <small>(ADICIONADO, G.O. 17 DE ENERO DE 2007)</small>
 
-###### ARTÍCULO 201 Bis.
-
-Se equipara a la violencia familiar y se sancionará con las mismas penas y medidas de seguridad, al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado o con quien tenga una relación de hecho o la haya tenido en un período hasta de dos años antes de la comisión del acto u omisión.
+ARTÍCULO 201 BIS. Se equipara a la violencia familiar y se sancionará con las mismas penas y medidas de seguridad, al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado o con quien tenga una relación de hecho o la haya tenido en un período hasta de dos años antes de la comisión del acto u omisión.
 
 Se entenderá por relación de hecho, la que exista entre quienes:
 
@@ -3104,9 +3120,7 @@ Al que favorezca al mismo tiempo, o en un solo acto, la evasión de dos o más p
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-###### ARTÍCULO 305 Bis.
-
-Se equipara al delito de evasión de presos y se le impondrán de dos a siete años de prisión y de cien a trescientos días multa, al que encontrándose sujeto al beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, evada por cualquier medio la vigilancia de la autoridad ejecutora.
+ARTÍCULO 305 BIS. Se equipara al delito de evasión de presos y se le impondrán de dos a siete años de prisión y de cien a trescientos días multa, al que encontrándose sujeto al beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, evada por cualquier medio la vigilancia de la autoridad ejecutora.
 
 ###### ARTÍCULO 306.
 
@@ -4051,3 +4065,23 @@ G.O. 21 DE DICIEMBRE DE 2007.
 Primero. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 Segundo. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 7 DE ENERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- A partir de la entrada en vigor de la (sic) presente Decreto, se derogan las demás disposiciones que contravengan al mismo.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal tendrá 90 días naturales para emitir el Reglamento y los Lineamientos conducentes para la aplicación de la presente ley.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal, deberá realizar a más tardar en 90 días naturales las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Salud del Distrito Federal, para proveer en la esfera administrativa lo relativo a la creación de la Coordinación Especializada en materia de Voluntad Anticipada.
+
+QUINTO.- El Jefe de Gobierno del Distrito Federal deberá suscribir el convenio de colaboración correspondiente con el Colegio de Notarios a efecto de garantizar el cumplimiento de las disposiciones de la Ley de Voluntad Anticipada para el Distrito Federal y asegurar el menor costo posible de los honorarios correspondientes al Documento contenido en ella, así como la inclusión de la suscripción del mismo en las Jornadas Notariales.
+
+SEXTO.- La Asamblea Legislativa del Distrito Federal, deberá establecer en el Presupuesto de Egresos para el ejercicio fiscal 2008, los recursos presupuestales correspondientes y suficientes para la operación y difusión de la Ley de Voluntad Anticipada para el Distrito Federal.
+
+SÉPTIMO.- Una vez que el Centro Local de Trasplantes inicie sus operaciones, la Coordinación Especializada en materia de Voluntad Anticipada, continuará con la realización y ejecución de las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal, en materia de Donación y Trasplante de Órganos y Tejidos, y fungirá como coadyuvante de éste en los términos de dicha Ley y las disposiciones vigentes en materia de salud.
+
+OCTAVO.- El Jefe de Gobierno del Distrito Federal, deberá suscribir los convenios de coordinación de acciones correspondientes con la Secretaría de Salud Federal, El Centro Nacional de Trasplantes y los Centros Estatales de Trasplantes, a efecto de garantizar el cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal, en materia de Trasplantes y Donación de Órganos y Tejidos, con base en lo dispuesto por la Ley General de Salud en lo conducente y aplicable.
+
+NOVENO.- Publíquese el presente Decreto en el Diario Oficial de la Federación para su mayor difusión.
