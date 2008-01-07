@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-22012"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-08-06"
-last_updated: "2007-05-11"
+last_updated: "2008-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 7 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 6 de agosto de 2001.
 
@@ -2406,3 +2408,11 @@ P.O. 11 DE MAYO DE 2007.
 PRIMERO.- Las presentes Modificaciones entrarán en vigor el día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE ENERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto abroga el diverso número 220 que contiene la Ley Orgánica del Poder Judicial del Estado de Hidalgo, Publicado en el Periódico Oficial del Estado de fecha 6 de agosto de 2001.
+
+TERCERO.- En un término no mayor de ciento ochenta días naturales, deberá expedirse el Reglamento de la Ley contenida en este Decreto.
