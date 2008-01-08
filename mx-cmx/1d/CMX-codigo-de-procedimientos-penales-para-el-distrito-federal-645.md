@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2007-12-21"
+last_updated: "2008-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -46,11 +46,11 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
 Corresponde exclusivamente a los tribunales penales del Distrito Federal:
 
-I. Declarar, en la forma y términos que esta ley establece, cuándo un hecho ejecutado en las entidades mencionadas es o no delito;
+I.- Declarar, en la forma y términos que esta ley establece, cuándo un hecho ejecutado en las entidades mencionadas es o no delito;
 
-II. Declarar la responsabilidad o la irresponsabilidad de las personas acusadas ante ellos; y
+II.- Declarar la responsabilidad o la irresponsabilidad de las personas acusadas ante ellos; y
 
-III. Aplicar las sanciones que señalen las leyes.
+III.- Aplicar las sanciones que señalen las leyes.
 
 Sólo estas declaraciones se tendrán como verdad legal.
 
@@ -60,13 +60,13 @@ Al Ministerio Público corresponde el ejercicio exclusivo de la acción penal, l
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-I. Pedir la aplicación de las sanciones establecidas en las leyes penales;
+I.- Pedir la aplicación de las sanciones establecidas en las leyes penales;
 
-II. Pedir la libertad de los procesados, en la forma y términos que previene la ley;
+II.- Pedir la libertad de los procesados, en la forma y términos que previene la ley;
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-III. Pedir la reparación del daño, en los términos especificados en el Nuevo Código Penal para el Distrito Federal.
+III.- Pedir la reparación del daño, en los términos especificados en el Nuevo Código Penal para el Distrito Federal.
 
 ## TITULO PRIMERO. Reglas Generales
 
@@ -78,21 +78,21 @@ Corresponde al Ministerio Público:
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 1999)</small>
 
-I. Dirigir a la Policía Judicial en la investigación que ésta haga para comprobar el cuerpo del delito ordenándole la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido, o practicando él mismo aquellas diligencias;
+I.- Dirigir a la Policía Judicial en la investigación que ésta haga para comprobar el cuerpo del delito ordenándole la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido, o practicando él mismo aquellas diligencias;
 
-II. Pedir al juez a quien se consigne el asunto la práctica de todas aquellas diligencias que, a su juicio, sean necesarias para comprobar la existencia del delito y de sus modalidades;
+II.- Pedir al juez a quien se consigne el asunto la práctica de todas aquellas diligencias que, a su juicio, sean necesarias para comprobar la existencia del delito y de sus modalidades;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-III. Ordenar, en los casos a que se refiere el artículo 266 de este Código la detención o retención según el caso, y solicitar cuando proceda la orden de aprehensión;
+III.- Ordenar, en los casos a que se refiere el artículo 266 de este Código la detención o retención según el caso, y solicitar cuando proceda la orden de aprehensión;
 
-IV. Interponer los recursos que señala la ley y seguir los incidentes que la misma admite;
+IV.- Interponer los recursos que señala la ley y seguir los incidentes que la misma admite;
 
-V. Pedir al Juez la práctica de las diligencias necesarias para comprobar la responsabilidad del acusado;
+V.- Pedir al Juez la práctica de las diligencias necesarias para comprobar la responsabilidad del acusado;
 
-VI. Pedir al juez la aplicación de la sanción que en el caso concreto estime aplicable; y
+VI.- Pedir al juez la aplicación de la sanción que en el caso concreto estime aplicable; y
 
-VII. Pedir la libertad del detenido cuando ésta proceda.
+VII.- Pedir la libertad del detenido cuando ésta proceda.
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2004)</small>
 
@@ -264,9 +264,13 @@ XII.- Programar y desarrollar la investigación, absteniéndose de diligencias c
 
 XIII.- Expedir y fechar de inmediato los citatorios o comparecencias ulteriores, de denunciantes, querellantes, testigos, probables responsables, o de cualquier compareciente, ante el Ministerio Público, de acuerdo con el desarrollo expedito, oportuno y eficaz de la indagatoria, siendo responsables los agentes del Ministerio Público que requieran las comparecencias y sus auxiliares, de que se desahoguen con puntualidad y de conformidad con la estrategia de investigación correspondiente;
 
-XIV.- Solicitar la reparación del daño en los términos de este Código; e
+XIV.- Solicitar la reparación del daño en los términos de este Código; e (sic)
 
-XV.- Informar a la víctima o, en su caso, a su representante legal, sobre el significado y la trascendencia del otorgamiento del perdón cuando decidan otorgarlo.
+XV.- Informar a la víctima o, en su caso, a su representante legal, sobre el significado y la trascendencia del otorgamiento del perdón cuando decidan otorgarlo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE ENERO DE 2008)</small>
+
+XVI.- Hacer saber a los denunciantes, querellantes, víctimas, ofendidos y probables responsables de los servicios que presta el Centro de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, para la solución de sus controversias.
 
 ### CAPITULO II. Competencia
 
@@ -292,15 +296,15 @@ Estas reglas se entienden con la salvedad de los casos de competencia del Jurado
 
 Para fijar la competencia cuando deba de tener por base la sanción que la ley señale, se atenderá:
 
-I. A la sanción correspondiente al delito mayor, en caso de acumulación;
+I.- A la sanción correspondiente al delito mayor, en caso de acumulación;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-II. A la suma de los máximos de las sanciones de prisión, cuando la ley disponga que a la correspondiente a determinado delito se agreguen otra u otras de la misma naturaleza; y
+II.- A la suma de los máximos de las sanciones de prisión, cuando la ley disponga que a la correspondiente a determinado delito se agreguen otra u otras de la misma naturaleza; y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-III. A la sanción de prisión, cuando la ley imponga varias de distinta naturaleza.
+III.- A la sanción de prisión, cuando la ley imponga varias de distinta naturaleza.
 
 ### CAPITULO III. Formalidades en el procedimiento
 
@@ -430,19 +434,19 @@ En caso de urgencia, los magistrados, jueces o Ministerio Público, podrán comi
 
 Son correcciones disciplinarias:
 
-I. El apercibimiento;
+I.- El apercibimiento;
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
 
-II. Multa por el equivalente a entre uno y quince días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite corrección. Tratándose de jornaleros, obreros y trabajadores la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingresos;
+II.- Multa por el equivalente a entre uno y quince días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite corrección. Tratándose de jornaleros, obreros y trabajadores la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingresos;
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
 
-III. Suspensión. La suspensión sólo se podrá aplicar a servidores públicos con la duración prevista por la Ley Federal de Responsabilidades de los Servidores Públicos;
+III.- Suspensión. La suspensión sólo se podrá aplicar a servidores públicos con la duración prevista por la Ley Federal de Responsabilidades de los Servidores Públicos;
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
 
-IV. Arresto hasta de treinta y seis horas.
+IV.- Arresto hasta de treinta y seis horas.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -458,13 +462,13 @@ El Ministerio Público, los tribunales o jueces, para hacer cumplir sus determin
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
 
-I. Multa por el equivalente a entre uno y treinta días de salario mínimo vigente en el momento y lugar en que se realizó la conducta que motivó el medio de apremio. Tratándose de jornaleros, obreros y trabajadores la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingresos;
+I.- Multa por el equivalente a entre uno y treinta días de salario mínimo vigente en el momento y lugar en que se realizó la conducta que motivó el medio de apremio. Tratándose de jornaleros, obreros y trabajadores la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingresos;
 
-II. El auxilio de la fuerza pública y
+II.- El auxilio de la fuerza pública y
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
 
-III. Arresto hasta de treinta y seis horas.
+III.- Arresto hasta de treinta y seis horas.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
@@ -662,9 +666,9 @@ No podrá consignarse a ninguna persona, si existe como única prueba la confesi
 
 > <small>(ADICIONADO, G.O. 8 DE JUNIO DE 2000)</small>
 
-###### ARTICULO 59
+###### ARTICULO 59 Bis.
 
-BIS.- En los casos de revocación del defensor particular, el Juez procederá a requerir al inculpado la designación de un nuevo defensor dentro del término de tres días; en caso de no hacerlo, se le nombrará uno de oficio, el cual contará con un término de tres días para imponerse de los autos, contados a partir de la notificación de su cargo.
+En los casos de revocación del defensor particular, el Juez procederá a requerir al inculpado la designación de un nuevo defensor dentro del término de tres días; en caso de no hacerlo, se le nombrará uno de oficio, el cual contará con un término de tres días para imponerse de los autos, contados a partir de la notificación de su cargo.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -758,19 +762,19 @@ Los autos contendrán una breve exposición del punto de que se trate y la resol
 
 Las sentencias contendrán:
 
-I. El lugar en que se pronuncien;
+I.- El lugar en que se pronuncien;
 
 > <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1991)</small>
 
-II. Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de su nacimiento, nacionalidad, edad, estado civil, en su caso, el grupo étnico indígena al que pertenezca, idioma, residencia o domicilio, ocupación oficio o profesión;
+II.- Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de su nacimiento, nacionalidad, edad, estado civil, en su caso, el grupo étnico indígena al que pertenezca, idioma, residencia o domicilio, ocupación oficio o profesión;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-III. Un extracto de los hechos exclusivamente conducentes a los puntos resolutivos del auto o de la sentencia en su caso, evitando la reproducción innecesaria de constancias;
+III.- Un extracto de los hechos exclusivamente conducentes a los puntos resolutivos del auto o de la sentencia en su caso, evitando la reproducción innecesaria de constancias;
 
-IV. Las consideraciones y los fundamentos legales de la sentencia; y
+IV.- Las consideraciones y los fundamentos legales de la sentencia; y
 
-V. La condenación o absolución correspondiente y los demás puntos resolutivos.
+V.- La condenación o absolución correspondiente y los demás puntos resolutivos.
 
 ###### ARTICULO 73.
 
@@ -938,13 +942,13 @@ Todo esto se hará constar en el Acta que se levante.
 
 Tratándose de vehículos, cuando sean necesarios para la práctica de peritaje, los mismos serán entregados de inmediato a sus propietarios, poseedores y representantes legales, en depósito previa inspección ministerial, siempre que se cumplan los siguientes requisitos:
 
-I. Mantenerlos en lugar ubicado en el Distrito Federal, a disposición del Ministerio Público, conservándolos como hubiesen quedado después de los hechos de que se trate, con la obligación de presentarlos a la autoridad cuando se les requiera para la práctica del peritaje correspondiente, que deberá verificarse dentro de los tres días siguientes;
+I.- Mantenerlos en lugar ubicado en el Distrito Federal, a disposición del Ministerio Público, conservándolos como hubiesen quedado después de los hechos de que se trate, con la obligación de presentarlos a la autoridad cuando se les requiera para la práctica del peritaje correspondiente, que deberá verificarse dentro de los tres días siguientes;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-II. Que el indiciado no haya pretendido sustraerse a la acción de la justicia, abandonando al lesionado en su caso o consumado el hecho en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas; y
+II.- Que el indiciado no haya pretendido sustraerse a la acción de la justicia, abandonando al lesionado en su caso o consumado el hecho en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas; y
 
-III. Que la averiguación previa se tramite como consecuencia de un hecho imprudencial cuya pena no exceda de cinco años de prisión.
+III.- Que la averiguación previa se tramite como consecuencia de un hecho imprudencial cuya pena no exceda de cinco años de prisión.
 
 ###### ARTICULO 101.
 
@@ -1034,13 +1038,13 @@ En todos los casos de robo, se harán constar en la descripción todas aquellas 
 
 Para comprobar el cuerpo del delito y la probable responsabilidad de violencia familiar, el Ministerio Público investigador, además de integrar los medios de prueba reconocidos por la ley deberá:
 
-I. Acreditar las calidades de sujetos activo y pasivo del delito, señaladas en los artículos 200 y 201 Bis del Código Penal para el Distrito Federal;
+I.- Acreditar las calidades de sujetos activo y pasivo del delito, señaladas en los artículos 200 y 201 Bis del Código Penal para el Distrito Federal;
 
-II. Agregar a la indagatoria, el dictamen psicológico victimal mediante el cual se establezca, en su caso, la sintomatología indicativa de alteración, en las diferentes esferas y áreas del individuo y de los componentes de la autoestima, en el cual se razonen los antecedentes de violencia familiar que pudieran haber generado dichos síntomas, independientemente de los hechos que dieron lugar a la indagatoria correspondiente;
+II.- Agregar a la indagatoria, el dictamen psicológico victimal mediante el cual se establezca, en su caso, la sintomatología indicativa de alteración, en las diferentes esferas y áreas del individuo y de los componentes de la autoestima, en el cual se razonen los antecedentes de violencia familiar que pudieran haber generado dichos síntomas, independientemente de los hechos que dieron lugar a la indagatoria correspondiente;
 
-III. Agregar las actuaciones y certificaciones médicas con las que se acredite, en su caso, la violencia física ejercida sobre la víctima, si éste fuera el tipo de violencia ejercido, y
+III.- Agregar las actuaciones y certificaciones médicas con las que se acredite, en su caso, la violencia física ejercida sobre la víctima, si éste fuera el tipo de violencia ejercido, y
 
-IV. Solicitar al Sistema de Auxilio a Víctimas y a la Secretaría de Desarrollo Social, los antecedentes que existan sobre hechos relacionados con violencia familiar y el indicado, y agregarlos a la averiguación previa.
+IV.- Solicitar al Sistema de Auxilio a Víctimas y a la Secretaría de Desarrollo Social, los antecedentes que existan sobre hechos relacionados con violencia familiar y el indicado, y agregarlos a la averiguación previa.
 
 Para efectos de las fracciones I y II, se estará a lo dispuesto en los artículos 95, 96 y 121 del presente Código.
 
@@ -1204,9 +1208,9 @@ De igual manera, en el periodo posterior ofrecerán la orientación y apoyos nec
 
 Para que un juez pueda librar orden de aprehensión, se requiere:
 
-I. Que el Ministerio Público la haya solicitado; y
+I.- Que el Ministerio Público la haya solicitado; y
 
-II. Que se reúnan los requisitos fijados por el artículo 16 de la Constitución Federal.
+II.- Que se reúnan los requisitos fijados por el artículo 16 de la Constitución Federal.
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1274,19 +1278,19 @@ La ley reconoce como medios de prueba:
 
 > <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1991)</small>
 
-I. La confesión;
+I.- La confesión;
 
-II. Los documentos públicos y los privados;
+II.- Los documentos públicos y los privados;
 
-III. Los dictámenes de peritos;
+III.- Los dictámenes de peritos;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-IV. La inspección ministerial y la judicial;
+IV.- La inspección ministerial y la judicial;
 
-V. Las declaraciones de testigos, y
+V.- Las declaraciones de testigos, y
 
-VI. Las presunciones.
+VI.- Las presunciones.
 
 (REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -1374,23 +1378,23 @@ A estas diligencias deberán concurrir:
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-I. El juez o el Ministerio Público que ordene la diligencia con su secretario o testigos de asistencia;
+I.- El juez o el Ministerio Público que ordene la diligencia con su secretario o testigos de asistencia;
 
-II. La persona que promoviere la diligencia;
-
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
-
-III. El inculpado y su defensor;
-
-IV. El Agente del Ministerio Público;
-
-V. Los testigos presenciales, si residieren en el lugar;
-
-VI. Los peritos nombrados, siempre que el juez o las partes lo estimen necesario, y
+II.- La persona que promoviere la diligencia;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-VII. Las demás personas que el Ministerio Público o el juez crean conveniente y que expresen en el mandamiento respectivo.
+III.- El inculpado y su defensor;
+
+IV.- El Agente del Ministerio Público;
+
+V.- Los testigos presenciales, si residieren en el lugar;
+
+VI.- Los peritos nombrados, siempre que el juez o las partes lo estimen necesario, y
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+
+VII.- Las demás personas que el Ministerio Público o el juez crean conveniente y que expresen en el mandamiento respectivo.
 
 ###### ARTICULO 149.
 
@@ -1430,11 +1434,11 @@ Las visitas domiciliarias solamente podrán practicarse durante el día, desde l
 
 Cuando un funcionario de los que tienen facultad para ordenar el cateo usare de ella, observará las reglas siguientes:
 
-I. Si se trata de un delito flagrante, el juez o funcionario procederán a la visita o reconocimiento sin demora, en los términos del artículo 16 de la Constitución Federal;
+I.- Si se trata de un delito flagrante, el juez o funcionario procederán a la visita o reconocimiento sin demora, en los términos del artículo 16 de la Constitución Federal;
 
-II. Si no hubiere peligro de hacer ilusoria o difícil la averiguación, se citará al acusado para presenciar el acto. Si estuviere libre y no se le encontrare o si, estando detenido, estuviere impedido de asistir, será representado por dos testigos a quienes se llamará en el acto de la diligencia para que presencien la visita;
+II.- Si no hubiere peligro de hacer ilusoria o difícil la averiguación, se citará al acusado para presenciar el acto. Si estuviere libre y no se le encontrare o si, estando detenido, estuviere impedido de asistir, será representado por dos testigos a quienes se llamará en el acto de la diligencia para que presencien la visita;
 
-III. En todo caso, el jefe de la casa o finca que deba ser visitada, aunque no sea reo presunto del hecho que motiva la diligencia, será llamado también para presenciar el acto en el momento en que tenga lugar, o antes, si por ello no es de temerse que no dé resultado dicha diligencia. Si se ignorare quién es el jefe de la casa, si éste no se hallare en ella o si se tratare de una que tuviere dos o más departamentos, se llamará a dos testigos, y con su asistencia se practicará la visita en el departamento o departamentos que fuere necesario.
+III.- En todo caso, el jefe de la casa o finca que deba ser visitada, aunque no sea reo presunto del hecho que motiva la diligencia, será llamado también para presenciar el acto en el momento en que tenga lugar, o antes, si por ello no es de temerse que no dé resultado dicha diligencia. Si se ignorare quién es el jefe de la casa, si éste no se hallare en ella o si se tratare de una que tuviere dos o más departamentos, se llamará a dos testigos, y con su asistencia se practicará la visita en el departamento o departamentos que fuere necesario.
 
 ###### ARTICULO 155.
 
@@ -1666,15 +1670,15 @@ Cuando los testigos que deben ser examinados estuvieren ausentes, serán citados
 
 La cédula contendrá:
 
-I. La designación legal del tribunal o juzgado ante quien deba presentarse el testigo;
+I.- La designación legal del tribunal o juzgado ante quien deba presentarse el testigo;
 
-II. El nombre, apellido y habitación del testigo, si se supieren; en caso contrario, los datos necesarios para identificarlo;
+II.- El nombre, apellido y habitación del testigo, si se supieren; en caso contrario, los datos necesarios para identificarlo;
 
-III. El día, hora y lugar en que deba comparecer;
+III.- El día, hora y lugar en que deba comparecer;
 
-IV. La sanción que se le impondrá si no compareciere; y
+IV.- La sanción que se le impondrá si no compareciere; y
 
-V. Las firmas del juez y del secretario.
+V.- Las firmas del juez y del secretario.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1720,19 +1724,19 @@ Fuera del caso de enfermedad o de imposibilidad física, toda persona está obli
 
 Los testigos deben ser examinados separadamente por el Ministerio Público o por el juez, en presencia del secretario. Sólo las partes podrán asistir a la diligencia, salvo en los casos siguientes:
 
-I. Cuando el testigo sea ciego;
+I.- Cuando el testigo sea ciego;
 
 > <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
-II. Cuando sea sordo o mudo;
+II.- Cuando sea sordo o mudo;
 
 > <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
-III. Cuando ignore el idioma castellano, y
+III.- Cuando ignore el idioma castellano, y
 
 > <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
-IV. Cuando el testigo sea menor de edad, el cual deberá estar en todo caso acompañado de quien legalmente lo represente.
+IV.- Cuando el testigo sea menor de edad, el cual deberá estar en todo caso acompañado de quien legalmente lo represente.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1778,7 +1782,7 @@ Si la declaración se refiere a algún objeto puesto en depósito, después de i
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
-###### ARTÍCULO 210.
+###### ARTICULO 210.
 
 Si la declaración se refiere a un hecho que hubiere dejado vestigios permanentes en algún lugar, el testigo podrá ser conducido a él para qua (sic) haga las explicaciones convenientes. Tratándose de menores de edad, la diligencia se llevará a cabo en el lugar siempre y cuando sea acompañado de su representante legal o persona de su confianza y no afecte su integridad física y/o psicológica.
 
@@ -1834,11 +1838,11 @@ Cuando el que declare ignore los datos a que se refiere el artículo anterior; p
 
 Al practicar la confrontación, se cuidará de:
 
-I. Que la persona que sea objeto de ella, no se disfrace, ni se desfigure, ni borre las huellas o señales que puedan servir al que tiene que designarla;
+I.- Que la persona que sea objeto de ella, no se disfrace, ni se desfigure, ni borre las huellas o señales que puedan servir al que tiene que designarla;
 
-II. Que aquélla se presente acompañada de otros individuos vestidos con ropas semejantes y aun con las mismas señas que las del confrontado, si fuere posible; y
+II.- Que aquélla se presente acompañada de otros individuos vestidos con ropas semejantes y aun con las mismas señas que las del confrontado, si fuere posible; y
 
-III. Que los individuos que acompañan a la persona que va a confrontarse sean de clase análoga, atendidas su educación, modales y circunstancias especiales.
+III.- Que los individuos que acompañan a la persona que va a confrontarse sean de clase análoga, atendidas su educación, modales y circunstancias especiales.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1856,11 +1860,11 @@ El que deba ser confrontado podrá elegir el sitio en que quiera ser colocado en
 
 La diligencia de confrontación se preparará colocando en fila a la persona que vaya a ser confrontada y a las que la acompañen. Se tomará al declarante la protesta de decir verdad y se le interrogará:
 
-I. Si persiste en su declaración anterior;
+I.- Si persiste en su declaración anterior;
 
-II. Si conocía con anterioridad a la persona a quien atribuye el hecho, si la conoció en el momento de la ejecución del que se averigua; y
+II.- Si conocía con anterioridad a la persona a quien atribuye el hecho, si la conoció en el momento de la ejecución del que se averigua; y
 
-III. Si después de la ejecución del hecho la ha visto, en qué lugar, por qué causa y con qué motivo.
+III.- Si después de la ejecución del hecho la ha visto, en qué lugar, por qué causa y con qué motivo.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -1978,15 +1982,15 @@ Los documentos públicos y privados podrán presentarse en cualquier estado del 
 
 Cuando se niegue o ponga en duda la autenticidad de un documento podrá pedirse y decretarse el cotejo de letras o firmas, que se practicará conforme a las siguientes reglas:
 
-I. El cotejo se hará por peritos, pudiendo asistir a la diligencia respectiva el funcionario que esté practicando la averiguación y en ese caso se levantará el acta respectiva;
+I.- El cotejo se hará por peritos, pudiendo asistir a la diligencia respectiva el funcionario que esté practicando la averiguación y en ese caso se levantará el acta respectiva;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-II. El cotejo se hará con documentos indubitables, o con los que las partes, de común acuerdo, reconozcan como tales; con aquellos cuya letra o firma haya sido reconocida judicialmente y con el escrito impugnado, en la parte en que reconozca la letra como suya aquel a quien perjudique; y
+II.- El cotejo se hará con documentos indubitables, o con los que las partes, de común acuerdo, reconozcan como tales; con aquellos cuya letra o firma haya sido reconocida judicialmente y con el escrito impugnado, en la parte en que reconozca la letra como suya aquel a quien perjudique; y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-III. El Ministerio Público o el juez, podrán ordenar que se repita el cotejo por otros peritos.
+III.- El Ministerio Público o el juez, podrán ordenar que se repita el cotejo por otros peritos.
 
 ### CAPITULO XIII. De las presunciones
 
@@ -2070,19 +2074,19 @@ Para apreciar la declaración de un testigo, el Ministerio Público o el tribuna
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-I. Que el testigo no sea inhábil por cualquiera de las causas señaladas en este código;
+I.- Que el testigo no sea inhábil por cualquiera de las causas señaladas en este código;
 
-II. Que por su edad, capacidad e instrucción, tenga el criterio necesario para juzgar del acto;
+II.- Que por su edad, capacidad e instrucción, tenga el criterio necesario para juzgar del acto;
 
-III. Que por su probidad, la independencia de su posición y antecedentes personales, tenga completa imparcialidad;
+III.- Que por su probidad, la independencia de su posición y antecedentes personales, tenga completa imparcialidad;
 
-IV. Que el hecho de que se trate sea susceptible de conocerse por medio de los sentidos, y que el testigo lo conozca por sí mismo y no por inducciones ni referencias de otro;
+IV.- Que el hecho de que se trate sea susceptible de conocerse por medio de los sentidos, y que el testigo lo conozca por sí mismo y no por inducciones ni referencias de otro;
 
-V. Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre la sustancia del hecho, ya sobre sus circunstancias esenciales; y
+V.- Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre la sustancia del hecho, ya sobre sus circunstancias esenciales; y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-VI. Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio no se reputará fuerza.
+VI.- Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio no se reputará fuerza.
 
 > <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
@@ -2126,9 +2130,9 @@ El Ministerio Público, los jueces y tribunales según la naturaleza de los hech
 
 Los agentes del Ministerio Público y sus auxiliares, de acuerdo a las órdenes que reciban de aquéllos, están obligados a proceder de oficio a la averiguación de los delitos del orden común de que tengan noticia. La averiguación previa no podrá iniciarse de oficio en los casos siguientes:
 
-II (SIC). Cuando se trate de delitos en los que sólo se puede proceder por querella necesaria, si no se ha presentado ésta; y
+II (SIC).- Cuando se trate de delitos en los que sólo se puede proceder por querella necesaria, si no se ha presentado ésta; y
 
-II. Cuando la ley exija algún requisito previo, si éste no se ha llenado.
+II.- Cuando la ley exija algún requisito previo, si éste no se ha llenado.
 
 ###### ARTICULO 263.
 
@@ -2136,15 +2140,15 @@ Sólo podrán perseguirse a petición de la parte ofendida, los siguientes delit
 
 > <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1991)</small>
 
-I. Hostigamiento sexual, estupro y privación ilegal de la libertad con propósitos sexuales;
+I.- Hostigamiento sexual, estupro y privación ilegal de la libertad con propósitos sexuales;
 
 > <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1991)</small>
 
-II. Difamación y calumnia; y
+II.- Difamación y calumnia; y
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-III. Los demás que determine el Nuevo Código Penal para el Distrito Federal.
+III.- Los demás que determine el Nuevo Código Penal para el Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
@@ -2286,9 +2290,13 @@ Cuando no sea posible el desahogo de pruebas, ofrecidas por el inculpado y su de
 
 g) Que se le conceda, inmediatamente que lo solicite, su libertad provisional bajo caución conforme a lo dispuesto por la fracción I del artículo 20 de la Constitución Federal, y en los términos de los artículos 556 y 556 Bis de este Código.
 
-Para los efectos de los incisos b), c) y d) se le permitirá al indiciado comunicarse con las personas que solicite, utilizando el teléfono o cualquier otro medio de que se disponga, o personalmente si se hallaren presentes; y
+Para los efectos de los incisos b), c) y d) se le permitirá al indiciado comunicarse con las personas que solicite, utilizando el teléfono o cualquier otro medio de que se disponga, o personalmente si se hallaren presentes; y (sic)
 
-IV. Cuando el indiciado fuere un indígena o extranjero, que no hable o no entienda suficientemente el castellano, se le designará un traductor que le hará saber los derechos a que se refiere este artículo. Si se tratare de un extranjero la detención se comunicará de inmediato a la representación diplomática o consular que corresponda.
+IV.- Cuando el indiciado fuere un indígena o extranjero, que no hable o no entienda suficientemente el castellano, se le designará un traductor que le hará saber los derechos a que se refiere este artículo. Si se tratare de un extranjero la detención se comunicará de inmediato a la representación diplomática o consular que corresponda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE ENERO DE 2008)</small>
+
+V.- Se le hará saber de los servicios que presta el Centro de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal para la solución de sus controversias.
 
 De la información al indiciado sobre los derechos antes mencionados, se dejará constancia en el acta de averiguación previa.
 
@@ -2386,13 +2394,13 @@ III. El destino de los bienes y valores se sujetará, en su caso, a las reglas p
 
 Cuando la Policía Judicial tenga conocimiento de la comisión de un delito que se persiga de oficio, sólo cuando por las circunstancias del caso, la denuncia no puede ser formulada directamente ante el Ministerio Público, levantará una (sic) acta, de la cual informará inmediatamente al Ministerio Público, en la que consignará:
 
-I. El parte de la policía, o en su caso, la denuncia que ante ella se haga, asentando minuciosamente todos los datos proporcionados por uno u otra;
+I.- El parte de la policía, o en su caso, la denuncia que ante ella se haga, asentando minuciosamente todos los datos proporcionados por uno u otra;
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 1999)</small>
 
-II. Las pruebas que suministren las personas que rindan el parte o hagan la denuncia, así como las que se recojan en el lugar de los hechos, ya sea que se refieran al cuerpo del delito o a la probable responsabilidad de sus autores; cómplices o encubridores, y
+II.- Las pruebas que suministren las personas que rindan el parte o hagan la denuncia, así como las que se recojan en el lugar de los hechos, ya sea que se refieran al cuerpo del delito o a la probable responsabilidad de sus autores; cómplices o encubridores, y
 
-III. Las medidas que dictaren para completar la investigación.
+III.- Las medidas que dictaren para completar la investigación.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
@@ -2526,6 +2534,10 @@ A continuación se le hará saber en qué consiste la denuncia, acusación o que
 
 Igualmente se le harán saber todas las siguientes garantías que le otorga el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos: que se le recibirán todos los testigos y las pruebas que ofrezca, en términos legales, ayudándole para obtener la comparecencia de las personas que solicite, siempre y cuando estén domiciliadas en el lugar del juicio; y que le serán facilitados todos los datos que solicite para su defensa y consten en el proceso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE ENERO DE 2008)</small>
+
+En la misma diligencia se le hará saber de los servicios que presta el Centro de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal para la solución de sus controversias.
+
 > <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 291.
@@ -2578,21 +2590,21 @@ Durante la instrucción, el tribunal que conozca del proceso deberá tomar en cu
 
 Todo auto de formal prisión deberá reunir los siguientes requisitos:
 
-I. Se dictará dentro del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a disposición de la autoridad judicial;
+I.- Se dictará dentro del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a disposición de la autoridad judicial;
 
-II. Que se le haya tomado la declaración preparatoria al inculpado en los términos de ley, o bien, conste en el expediente que se negó a emitirla;
+II.- Que se le haya tomado la declaración preparatoria al inculpado en los términos de ley, o bien, conste en el expediente que se negó a emitirla;
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 1999)</small>
 
-III. Que de lo actuado aparezcan datos suficientes que acrediten el cuerpo del delito por el cual deba seguirse el proceso;
+III.- Que de lo actuado aparezcan datos suficientes que acrediten el cuerpo del delito por el cual deba seguirse el proceso;
 
-IV. Que el delito sea sancionado con pena privativa de libertad;
+IV.- Que el delito sea sancionado con pena privativa de libertad;
 
-V. Que no esté acreditada alguna causa de licitud;
+V.- Que no esté acreditada alguna causa de licitud;
 
-VI. Que de lo actuado aparezcan datos suficientes que hagan probable la responsabilidad del indiciado; y
+VI.- Que de lo actuado aparezcan datos suficientes que hagan probable la responsabilidad del indiciado; y
 
-VII. Los nombres y firmas del juez que dicte la resolución y del secretario que la autorice.
+VII.- Los nombres y firmas del juez que dicte la resolución y del secretario que la autorice.
 
 El plazo a que se refiere la fracción I de este artículo, se duplicará cuando lo solicite el inculpado por sí, o por su defensor, al rendir su declaración preparatoria, siempre que dicha ampliación sea con la finalidad de aportar y desahogar pruebas para que el juez resuelva su situación jurídica.
 
@@ -2894,13 +2906,13 @@ Los jurados así recusados serán inmediatamente substituídos en el mismo sorte
 
 La citación se hará el mismo día por el comisario al servicio del Juez Presidente de Debates o por conducto de la policía, según lo determine el juez, y contendrá:
 
-I. El lugar en que se expida la cita, el día, el mes y el año;
+I.- El lugar en que se expida la cita, el día, el mes y el año;
 
-II. El objeto de ella, designando por sus nombres y apellidos al acusado o acusados y especificando los delitos por los cuales han de ser juzgados y contra quién fueron cometidos;
+II.- El objeto de ella, designando por sus nombres y apellidos al acusado o acusados y especificando los delitos por los cuales han de ser juzgados y contra quién fueron cometidos;
 
-III. El lugar, año, mes, día y hora de la reunión; y
+III.- El lugar, año, mes, día y hora de la reunión; y
 
-IV. La conminación de que si el jurado no concurre, pagará una multa de veinte a cien pesos o será consignado al Ministerio Público por desobediencia a los mandatos legítimos de la autoridad.
+IV.- La conminación de que si el jurado no concurre, pagará una multa de veinte a cien pesos o será consignado al Ministerio Público por desobediencia a los mandatos legítimos de la autoridad.
 
 ###### ARTICULO 336.
 
@@ -3062,37 +3074,37 @@ Al concluír de hablar el acusado, el Juez declarará cerrados los debates.
 
 A continuación, el Juez procederá a formular el interrogatorio, que deberá someter a la deliberación del Jurado, sujetándose a las reglas siguientes:
 
-I. Si en las conclusiones formuladas por el Ministerio Público se encontraren algunas contradicciones, el Juez lo declarará así; si no obstante esta declaración, aquél no retirare alguna de ellas para hacer desaparecer la contradicción, ninguna de las contradictorias se pondrá en el interrogatorio;
+I.- Si en las conclusiones formuladas por el Ministerio Público se encontraren algunas contradicciones, el Juez lo declarará así; si no obstante esta declaración, aquél no retirare alguna de ellas para hacer desaparecer la contradicción, ninguna de las contradictorias se pondrá en el interrogatorio;
 
-II. Si existiere la contradicción en las conclusiones de la defensa, se procederá del mismo modo que respecto del Ministerio Público previene la fracción anterior;
+II.- Si existiere la contradicción en las conclusiones de la defensa, se procederá del mismo modo que respecto del Ministerio Público previene la fracción anterior;
 
-III. Si el Ministerio Público retirase toda acusación, el Juez declarará disuelto el Jurado y sobreseerá en el proceso;
+III.- Si el Ministerio Público retirase toda acusación, el Juez declarará disuelto el Jurado y sobreseerá en el proceso;
 
-IV. Si la defensa, en sus conclusiones, estimare los hechos considerados por el Ministerio Público como constitutivos de delito diverso, se formará sobre esto otro interrogatorio, agregando a él las circunstancias alegadas por el Ministerio Público cuando no sean incompatibles;
+IV.- Si la defensa, en sus conclusiones, estimare los hechos considerados por el Ministerio Público como constitutivos de delito diverso, se formará sobre esto otro interrogatorio, agregando a él las circunstancias alegadas por el Ministerio Público cuando no sean incompatibles;
 
-V. Los hechos alegados en las conclusiones del Ministerio Público y de la defensa, que no constituyan una circunstancia determinada por la Ley, o que por carecer de alguno de los elementos que en aquélla se exigen no puedan ser considerados en la sentencia, no se incluirán en el interrogatorio;
+V.- Los hechos alegados en las conclusiones del Ministerio Público y de la defensa, que no constituyan una circunstancia determinada por la Ley, o que por carecer de alguno de los elementos que en aquélla se exigen no puedan ser considerados en la sentencia, no se incluirán en el interrogatorio;
 
-VI. Cuando las conclusiones del Ministerio Público y las de la defensa sean contradictorias, se pondrán en el interrogatorio las anotaciones necesarias para que el jurado no incurra en contradicciones;
+VI.- Cuando las conclusiones del Ministerio Público y las de la defensa sean contradictorias, se pondrán en el interrogatorio las anotaciones necesarias para que el jurado no incurra en contradicciones;
 
-VII. Cuando los hechos contenidos en las conclusiones del Ministerio Público o de la defensa, sean complejos, se dividirán en el interrogatorio en tantas preguntas cuantas sean necesarias para que cada una contenga un solo hecho;
+VII.- Cuando los hechos contenidos en las conclusiones del Ministerio Público o de la defensa, sean complejos, se dividirán en el interrogatorio en tantas preguntas cuantas sean necesarias para que cada una contenga un solo hecho;
 
-VIII. Si en las conclusiones de alguna de las partes se empleare un término técnico que, jurídicamente, contenga varios hechos o elementos, se procederá como previene la fracción anterior.
+VIII.- Si en las conclusiones de alguna de las partes se empleare un término técnico que, jurídicamente, contenga varios hechos o elementos, se procederá como previene la fracción anterior.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
 Si sólo significare un hecho, se substituirá el término técnico por uno vulgar, hasta donde esto fuere posible; en caso contrario, se hará una anotación explicando el significado de dicho término;
 
-IX. No se incluirán en el interrogatorio preguntas sobre la edad o sexo del acusado, o del ofendido, ni sobre los hechos que consten o deban constar por juicio especial de peritos científicos.
+IX.- No se incluirán en el interrogatorio preguntas sobre la edad o sexo del acusado, o del ofendido, ni sobre los hechos que consten o deban constar por juicio especial de peritos científicos.
 
 Tampoco se incluirán preguntas relativas a trámites, o constancias, que sean exclusivamente del procedimiento;
 
-X. Tampoco se incluirán en el interrogatorio preguntas que envuelvan la negación de un hecho, pues sólo se someterá a los Jurados cuando el Ministerio Público o la defensa afirmen la existencia de ese hecho;
+X.- Tampoco se incluirán en el interrogatorio preguntas que envuelvan la negación de un hecho, pues sólo se someterá a los Jurados cuando el Ministerio Público o la defensa afirmen la existencia de ese hecho;
 
-XI. La primera pregunta del interrogatorio se formulará en los términos siguientes: " Al acusado N. N. le es imputable.......... (aquí se asentarán el hecho o hechos que constituyan los elementos materiales del delito imputado, sin darle denominación jurídica y a pesar de lo dispuesto en la fracción VII de este artículo.)
+XI.- La primera pregunta del interrogatorio se formulará en los términos siguientes: " Al acusado N. N. le es imputable.......... (aquí se asentarán el hecho o hechos que constituyan los elementos materiales del delito imputado, sin darle denominación jurídica y a pesar de lo dispuesto en la fracción VII de este artículo.)
 
 En seguida se pondrán las preguntas sobre las circunstancias modificativas, observándose lo dispuesto en las fracciones VII y VIII de este artículo;
 
-XII. En una columna del interrogatorio destinada a este efecto, se pondrán delante de cada pregunta las palabras "hecho constitutivo," "circunstancia modificativa," según el carácter de la pregunta.
+XII.- En una columna del interrogatorio destinada a este efecto, se pondrán delante de cada pregunta las palabras "hecho constitutivo," "circunstancia modificativa," según el carácter de la pregunta.
 
 ###### ARTICULO 364.
 
@@ -3180,7 +3192,7 @@ Después llevará la voz la defensa, pudiendo también alegar, en apoyo de sus p
 
 ###### ARTICULO 380.
 
-Concluído el debate, pasará el Juez con su Secretario, o testigos de asistencia, a la Sala de Deliberaciones para dictar la sentencia que corresponda sobre todos los delitos declarados por el Jurado. La sentencia sólo contendrá la parte resolutiva.
+Concluido el debate, pasará el Juez con su Secretario, o testigos de asistencia, a la Sala de Deliberaciones para dictar la sentencia que corresponda sobre todos los delitos declarados por el Jurado. La sentencia sólo contendrá la parte resolutiva.
 
 ###### ARTICULO 381.
 
@@ -3202,37 +3214,37 @@ A las que no hubieren asistido a la audiencia, se les notificará el fallo dentr
 
 Dentro de los tres días siguientes al de la terminación de la audiencia, el Secretario del Juzgado extenderá el acta de ésta, que deberá contener:
 
-I. El lugar, el día, el mes y el año de su celebración;
+I.- El lugar, el día, el mes y el año de su celebración;
 
-II. Los nombres y apellidos del Juez y de los Jurados que hubieren conocido del negocio, los del Representante del Ministerio Público, los de las partes que hubieren concurrido, así como los de los defensores, abogados y apoderados;
+II.- Los nombres y apellidos del Juez y de los Jurados que hubieren conocido del negocio, los del Representante del Ministerio Público, los de las partes que hubieren concurrido, así como los de los defensores, abogados y apoderados;
 
-III. Los nombres y apellidos de los Jurados que hubieren alegado impedimento, expresándose si fue admitido o desechado, así como cuál fue el alegado;
+III.- Los nombres y apellidos de los Jurados que hubieren alegado impedimento, expresándose si fue admitido o desechado, así como cuál fue el alegado;
 
-IV. Las variaciones que el Ministerio Público o la defensa hubieren hecho en sus conclusiones, asentándose circunstanciadamente las razones alegadas al efecto;
+IV.- Las variaciones que el Ministerio Público o la defensa hubieren hecho en sus conclusiones, asentándose circunstanciadamente las razones alegadas al efecto;
 
-V. Lo que las partes pidieren expresamente que se haga constar;
+V.- Lo que las partes pidieren expresamente que se haga constar;
 
-VI. Los incidentes que hubieren ocurrido durante el debate y las resoluciones que sobre ellos dictare el Juez;
+VI.- Los incidentes que hubieren ocurrido durante el debate y las resoluciones que sobre ellos dictare el Juez;
 
-VII. La constancia de la asistencia de las partes que hubieren concurrido a la audiencia en que se dicte la sentencia y la de haberles dicho el Juez el tiempo que para apelar les concede la ley. Esta acta será firmada por el Juez y por el Secretario, o testigos de asistencia.
+VII.- La constancia de la asistencia de las partes que hubieren concurrido a la audiencia en que se dicte la sentencia y la de haberles dicho el Juez el tiempo que para apelar les concede la ley. Esta acta será firmada por el Juez y por el Secretario, o testigos de asistencia.
 
 ###### ARTICULO 385.
 
 Dentro de los cinco días de concluída la audiencia, el Juez engrosará su sentencia, que contendrá:
 
-I. El lugar, día, mes y año en que fue pronunciada;
+I.- El lugar, día, mes y año en que fue pronunciada;
 
-II. El nombre y apellido del reo, su sobrenombre, si lo tuviere, el lugar de su nacimiento, su edad, residencia o domicilio y profesión;
+II.- El nombre y apellido del reo, su sobrenombre, si lo tuviere, el lugar de su nacimiento, su edad, residencia o domicilio y profesión;
 
-III. Los hechos declarados por el Jurado, que se pondrán en orden numérico bajo la palabra "Resultando";
+III.- Los hechos declarados por el Jurado, que se pondrán en orden numérico bajo la palabra "Resultando";
 
-IV. Los fundamentos legales de la sentencia, que se pondrán en orden numérico bajo la palabra "Considerando";
+IV.- Los fundamentos legales de la sentencia, que se pondrán en orden numérico bajo la palabra "Considerando";
 
-V. La condenación o absolución del acusado; y
+V.- La condenación o absolución del acusado; y
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-VI. La firma del Juez y del Secretario o de los testigos de asistencia.
+VI.- La firma del Juez y del Secretario o de los testigos de asistencia.
 
 Esta sentencia se notificará a las partes dentro de las veinticuatro horas siguientes.
 
@@ -3354,9 +3366,9 @@ En todo lo previsto en este procedimiento especial, se aplicarán las reglas gen
 
 Cuando en el proceso se compruebe que el inculpado adquirió enfermedad mental irreversible, se procederá como sigue:
 
-I. Si el inculpado se encontrare en prisión preventiva, el juez que conozca del proceso, ordenará al director del reclusorio preventivo donde éste se encuentra interno, que sea remitido al establecimiento médico psiquiátrico oficial correspondiente, para su tratamiento; en caso de encontrarse en libertad provisional, se revocará la misma y será ingresado al centro médico psiquiátrico oficial correspondiente, una vez que ahí se encuentre podrá entregarse a quien legalmente corresponda hacerse cargo de él, siempre que se obligue a tomar las medidas adecuadas para su tratamiento y vigilancia, garantizando por cualquier medio ante la autoridad judicial el cumplimiento de las obligaciones contraídas; y
+I.- Si el inculpado se encontrare en prisión preventiva, el juez que conozca del proceso, ordenará al director del reclusorio preventivo donde éste se encuentra interno, que sea remitido al establecimiento médico psiquiátrico oficial correspondiente, para su tratamiento; en caso de encontrarse en libertad provisional, se revocará la misma y será ingresado al centro médico psiquiátrico oficial correspondiente, una vez que ahí se encuentre podrá entregarse a quien legalmente corresponda hacerse cargo de él, siempre que se obligue a tomar las medidas adecuadas para su tratamiento y vigilancia, garantizando por cualquier medio ante la autoridad judicial el cumplimiento de las obligaciones contraídas; y
 
-II. Se continuará con el proceso en la vía aperturada a fin de practicar las diligencias necesarias para el esclarecimiento de los hechos en la forma que permita la insania mental del inculpado.
+II.- Se continuará con el proceso en la vía aperturada a fin de practicar las diligencias necesarias para el esclarecimiento de los hechos en la forma que permita la insania mental del inculpado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
@@ -3446,13 +3458,13 @@ La apelación podrá interponerse por escrito o de palabra, dentro de tres días
 
 Tendrán derecho de apelar:
 
-I. El Ministerio Público;
+I.- El Ministerio Público;
 
-II. El acusado y su defensor;
+II.- El acusado y su defensor;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-III. El ofendido o sus legítimos representantes, cuando aquél o éstos coadyuven en la acción reparadora y sólo en lo relativo a ésta.
+III.- El ofendido o sus legítimos representantes, cuando aquél o éstos coadyuven en la acción reparadora y sólo en lo relativo a ésta.
 
 ###### ARTICULO 418.
 
@@ -3460,17 +3472,17 @@ Son apelables:
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-I. Las sentencias definitivas, incluyendo aquellas que se pronuncien en los procesos sumarios;
+I.- Las sentencias definitivas, incluyendo aquellas que se pronuncien en los procesos sumarios;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-II. Los autos que se pronuncien sobre cuestiones de jurisdicción o competencia; los que mandan suspender o continuar la instrucción; el de ratificación de la detención; el de formal prisión o de sujeción a proceso o el que los niegue; el que conceda o niegue la libertad;
+II.- Los autos que se pronuncien sobre cuestiones de jurisdicción o competencia; los que mandan suspender o continuar la instrucción; el de ratificación de la detención; el de formal prisión o de sujeción a proceso o el que los niegue; el que conceda o niegue la libertad;
 
-III. Los que resuelvan las excepciones fundadas en alguna de las causas que extinguen la acción penal; los que declaran no haber delito que perseguir; los que concedan o nieguen la acumulación o los que decreten la separación de los procesos, y
+III.- Los que resuelvan las excepciones fundadas en alguna de las causas que extinguen la acción penal; los que declaran no haber delito que perseguir; los que concedan o nieguen la acumulación o los que decreten la separación de los procesos, y
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-IV. Los autos en los que se niegue la orden de aprehensión o de comparecencia, sólo por el Ministerio Público; y
+IV.- Los autos en los que se niegue la orden de aprehensión o de comparecencia, sólo por el Ministerio Público; y
 
 (REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -3554,25 +3566,25 @@ La reposición del procedimiento no se decretará de oficio. Cuando se pida, deb
 
 Habrá lugar a la reposición del procedimiento por alguna de las causas siguientes:
 
-I. Por no haber procedido el Juez durante la instrucción y después de ésta hasta la sentencia, acompañado de su Secretario; salvo el caso del artículo 30;
+I.- Por no haber procedido el Juez durante la instrucción y después de ésta hasta la sentencia, acompañado de su Secretario; salvo el caso del artículo 30;
 
-II. Por no haberse hecho saber al acusado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento y el nombre de su acusador si lo hubiere;
+II.- Por no haberse hecho saber al acusado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento y el nombre de su acusador si lo hubiere;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-III. Por no haberse permitido al acusado nombrar defensor, en los términos que establece la ley, o por no haberse cumplido con lo dispuesto en los artículos 294, 326, 338 y 339;
+III.- Por no haberse permitido al acusado nombrar defensor, en los términos que establece la ley, o por no haberse cumplido con lo dispuesto en los artículos 294, 326, 338 y 339;
 
 > <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 1991)</small>
 
 III bis.- Por haber omitido la designación del traductor al inculpado que no hable o no entienda suficientemente el idioma castellano, en los términos que señala esta ley;
 
-IV. Por no haberse practicado las diligencias pedidas por alguna de las partes;
+IV.- Por no haberse practicado las diligencias pedidas por alguna de las partes;
 
-V. Por haberse celebrado el juicio sin asistencia del Juez que debe fallar, del Agente del Ministerio Público que pronuncie la requisitoria o del Secretario respectivo;
+V.- Por haberse celebrado el juicio sin asistencia del Juez que debe fallar, del Agente del Ministerio Público que pronuncie la requisitoria o del Secretario respectivo;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-VI. Por haberse citado a las partes para las diligencias que este Código señala, en otra forma que la establecida en él, a menos que la parte que se dice agraviada hubiere concurrido a la diligencia;
+VI.- Por haberse citado a las partes para las diligencias que este Código señala, en otra forma que la establecida en él, a menos que la parte que se dice agraviada hubiere concurrido a la diligencia;
 
 > <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -3590,23 +3602,23 @@ e) No haber interpuesto los medios de impugnación necesarios para la defensa de
 
 f) No haber promovido todos aquellos actos procesales que fuesen necesarios para el desarrollo normal del proceso y el pronunciamiento de la sentencia;
 
-VII. Por haberse hecho alguna de las insaculaciones en otra forma que la prevenida en éste Código, o por haberse sorteado un número menor o mayor de Jurados que el que en él se determina;
+VII.- Por haberse hecho alguna de las insaculaciones en otra forma que la prevenida en éste Código, o por haberse sorteado un número menor o mayor de Jurados que el que en él se determina;
 
-VIII. Por no haberse aceptado la recusación de los Jurados, hecha en la forma y términos legales;
+VIII.- Por no haberse aceptado la recusación de los Jurados, hecha en la forma y términos legales;
 
-IX. Por haberse declarado contradictorias algunas de las conclusiones en los casos del artículo 363 sin que tal contradicción existiera;
+IX.- Por haberse declarado contradictorias algunas de las conclusiones en los casos del artículo 363 sin que tal contradicción existiera;
 
-X. Por no haberse permitido al Ministerio Público, al acusado o a su defensor, retirar o modificar sus conclusiones o establecer nuevas, en los casos de los artículos 319, 355 y 358, si hubo motivo superveniente y suficiente para ello;
+X.- Por no haberse permitido al Ministerio Público, al acusado o a su defensor, retirar o modificar sus conclusiones o establecer nuevas, en los casos de los artículos 319, 355 y 358, si hubo motivo superveniente y suficiente para ello;
 
-XI. Por haberse declarado en el caso del artículo 325 que el acusado o su defensor habían alegado sólo la inculpabilidad, si no había transcurrido el término señalado en este artículo;
+XI.- Por haberse declarado en el caso del artículo 325 que el acusado o su defensor habían alegado sólo la inculpabilidad, si no había transcurrido el término señalado en este artículo;
 
-XII. Por haberse omitido en el interrogatorio alguna de las preguntas que conforme a este Código debieron hacerse al Jurado, o por haberse suprimido todo un interrogatorio en el caso de la fracción IV del artículo 363;
+XII.- Por haberse omitido en el interrogatorio alguna de las preguntas que conforme a este Código debieron hacerse al Jurado, o por haberse suprimido todo un interrogatorio en el caso de la fracción IV del artículo 363;
 
-XIII. Por no haberse formado el Jurado del número de personas que este Código dispone, o porque a alguna de ellas le faltare un requisito legal;
+XIII.- Por no haberse formado el Jurado del número de personas que este Código dispone, o porque a alguna de ellas le faltare un requisito legal;
 
-XIV. Por haber contradicción notoria y substancial en las declaraciones del Jurado, si por tal contradicción no pueden tomarse en cuenta en la sentencia los hechos votados;
+XIV.- Por haber contradicción notoria y substancial en las declaraciones del Jurado, si por tal contradicción no pueden tomarse en cuenta en la sentencia los hechos votados;
 
-XV. En todos los casos en que este Código declare expresamente la nulidad de alguna diligencia.
+XV.- En todos los casos en que este Código declare expresamente la nulidad de alguna diligencia.
 
 ###### ARTICULO 432.
 
@@ -3692,11 +3704,11 @@ Transcurrido este plazo, con informe o sin él, se dictará dentro de cuarenta y
 
 Son irrevocables y por lo tanto causan ejecutoria:
 
-I. Las sentencias pronunciadas en Primera Instancia cuando se hayan consentido expresamente, o cuando expirado el término que la ley fija para interponer algún recurso, no se haya interpuesto, y
+I.- Las sentencias pronunciadas en Primera Instancia cuando se hayan consentido expresamente, o cuando expirado el término que la ley fija para interponer algún recurso, no se haya interpuesto, y
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-II. Las sentencias de Segunda Instancia y aquellas contra las cuales no concede la ley recurso alguno.
+II.- Las sentencias de Segunda Instancia y aquellas contra las cuales no concede la ley recurso alguno.
 
 ## TITULO QUINTO. Incidentes
 
@@ -3874,9 +3886,9 @@ Solamente se entiende fijada definitivamente la competencia cuando en el inciden
 
 Una vez iniciado el procedimiento en averiguación de un delito, no se podrá suspender sino en los casos siguientes:
 
-I. Cuando el responsable se hubiere substraído a la acción de la justicia;
+I.- Cuando el responsable se hubiere substraído a la acción de la justicia;
 
-II. Cuando, después de incoado el procedimiento, se descubriere que el delito es de aquellos respecto de los cuales, conforme a los artículos 263 y 264 no se puede proceder sin que sean llenados determinados requisitos y éstos no se hubieren llenado; y
+II.- Cuando, después de incoado el procedimiento, se descubriere que el delito es de aquellos respecto de los cuales, conforme a los artículos 263 y 264 no se puede proceder sin que sean llenados determinados requisitos y éstos no se hubieren llenado; y
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
@@ -3936,13 +3948,13 @@ La acumulación, tendrá lugar:
 
 I.- En los procesos que se instruyan en averiguación de los delitos conexos, aunque sean varios los responsables;
 
-II. En los que se sigan contra los copartícipes de un mismo delito;
+II.- En los que se sigan contra los copartícipes de un mismo delito;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-III. En los que se sigan en averiguación de un mismo delito, aunque contra diversas personas;
+III.- En los que se sigan en averiguación de un mismo delito, aunque contra diversas personas;
 
-IV. En los que se sigan contra una misma persona, aun cuando se trate de delitos diversos o inconexos.
+IV.- En los que se sigan contra una misma persona, aun cuando se trate de delitos diversos o inconexos.
 
 ###### ARTICULO 485.
 
@@ -4042,11 +4054,11 @@ El Juez o Tribunal que primero pronuncie sentencia ejecutoria, la comunicará al
 
 El juez o tribunal que conozca de los procesos acumulados, puede ordenar su separación, no obstante lo dispuesto en el capítulo anterior, siempre que concurran las circunstancias siguientes:
 
-I. Que la separación se pida por parte legítima, antes de que esté concluída la instrucción;
+I.- Que la separación se pida por parte legítima, antes de que esté concluída la instrucción;
 
-II. Que la acumulación se haya decretado en razón de que los procesos se sigan contra una sola persona por delitos diversos e inconexos; y
+II.- Que la acumulación se haya decretado en razón de que los procesos se sigan contra una sola persona por delitos diversos e inconexos; y
 
-III. Que el juez o tribunal estime que, de seguir acumulados los procesos, la instrucción se demoraría o dificultaría gravemente, con perjuicio del interés social, o del procesado.
+III.- Que el juez o tribunal estime que, de seguir acumulados los procesos, la instrucción se demoraría o dificultaría gravemente, con perjuicio del interés social, o del procesado.
 
 ###### ARTICULO 506.
 
@@ -4094,35 +4106,35 @@ Los Magistrados, jueces y secretarios de los Tribunales del Ramo Penal, sólo po
 
 Los defensores de oficio podrán excusarse:
 
-I. Cuando intervenga un defensor particular; y
+I.- Cuando intervenga un defensor particular; y
 
-II. Cuando el ofendido o perjudicado por el delito sea el mismo defensor, su cónyuge, sus parientes en línea recta sin limitación de grado, o los colaterales consanguíneos o afines dentro del cuarto.
+II.- Cuando el ofendido o perjudicado por el delito sea el mismo defensor, su cónyuge, sus parientes en línea recta sin limitación de grado, o los colaterales consanguíneos o afines dentro del cuarto.
 
 ###### ARTICULO 515.
 
 Los jurados podrán excusarse en los casos siguientes:
 
-I. Cuando sean jefes de oficinas públicas;
+I.- Cuando sean jefes de oficinas públicas;
 
-II. Cuando sean empleados de ferrocarril o telégrafos;
+II.- Cuando sean empleados de ferrocarril o telégrafos;
 
-III. Cuando sean ministros de cualquier culto;
+III.- Cuando sean ministros de cualquier culto;
 
-IV. Cuando sean estudiantes matriculados en las escuelas nacionales o instituciones universitarias;
+IV.- Cuando sean estudiantes matriculados en las escuelas nacionales o instituciones universitarias;
 
-V. Cuando estén impedidos, por enfermedad que no permita trabajar;
+V.- Cuando estén impedidos, por enfermedad que no permita trabajar;
 
-VI. Cuando sean directores de establecimientos de instrucción o beneficencia, sean públicos o particulares;
+VI.- Cuando sean directores de establecimientos de instrucción o beneficencia, sean públicos o particulares;
 
-VII. Cuando habiten fuera de la ciudad de México;
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-VIII. Cuando sean mayores de sesenta años; y
+VII.- Cuando habiten fuera de la ciudad de México;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-IX. Cuando hubieren desempeñado el cargo de jurado durante un tercio en el año anterior, sin que se les hubiere aplicado ninguna corrección disciplinaria por falta de asistencia.
+VIII.- Cuando sean mayores de sesenta años; y
+
+> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+
+IX.- Cuando hubieren desempeñado el cargo de jurado durante un tercio en el año anterior, sin que se les hubiere aplicado ninguna corrección disciplinaria por falta de asistencia.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -4166,41 +4178,41 @@ Tratándose de magistrados, sólo procederá la recusación que se interponga an
 
 Son causas de recusación las siguientes:
 
-I. Tener el funcionario íntimas relaciones de afecto o respeto con el abogado de cualquiera de las partes;
+I.- Tener el funcionario íntimas relaciones de afecto o respeto con el abogado de cualquiera de las partes;
 
-II. Haber sido el juez, su cónyuge o sus parientes consanguíneos o afines, en los grados que menciona la fracción VIII, acusadores de alguna de las partes;
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-III. Seguir el juez o las personas a que se refiere la fracción anterior, contra alguno de los interesados en el proceso, negocio civil o mercantil, o no llevar un año de terminado el que antes hubiere seguido;
-
-IV. Asistir durante el proceso a convite que le diere o costeare alguna de las partes; tener mucha familiaridad o vivir en familia con alguna de ellas;
-
-V. Aceptar presentes o servicios de alguno de los interesados;
-
-VI. Hacer promesas, prorrumpir en amenazas o manifestar de otra manera odio o afecto íntimo a alguna de las partes;
-
-VII. Haber sido sentenciado el funcionario en virtud de acusación hecha por alguna de las partes;
-
-VIII. Tener interés directo en el negocio, o tenerlo su cónyuge, parientes consanguíneos en línea recta, sin limitación de grados, o colaterales consanguíneos o afines dentro del cuarto grado;
-
-IX. Tener pendiente un proceso igual al que conoce, o tenerlo sus parientes expresados en la fracción anterior;
-
-X. Tener relaciones de intimidad con el acusado;
+II.- Haber sido el juez, su cónyuge o sus parientes consanguíneos o afines, en los grados que menciona la fracción VIII, acusadores de alguna de las partes;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-XI. Ser, al incoarse el procedimiento, acreedor, deudor, socio, arrendatario o arrendador, dependiente o principal del procesado;
+III.- Seguir el juez o las personas a que se refiere la fracción anterior, contra alguno de los interesados en el proceso, negocio civil o mercantil, o no llevar un año de terminado el que antes hubiere seguido;
 
-XII. Ser o haber sido tutor o curador del procesado, o haber administrado por cualquier causa sus bienes;
+IV.- Asistir durante el proceso a convite que le diere o costeare alguna de las partes; tener mucha familiaridad o vivir en familia con alguna de ellas;
+
+V.- Aceptar presentes o servicios de alguno de los interesados;
+
+VI.- Hacer promesas, prorrumpir en amenazas o manifestar de otra manera odio o afecto íntimo a alguna de las partes;
+
+VII.- Haber sido sentenciado el funcionario en virtud de acusación hecha por alguna de las partes;
+
+VIII.- Tener interés directo en el negocio, o tenerlo su cónyuge, parientes consanguíneos en línea recta, sin limitación de grados, o colaterales consanguíneos o afines dentro del cuarto grado;
+
+IX.- Tener pendiente un proceso igual al que conoce, o tenerlo sus parientes expresados en la fracción anterior;
+
+X.- Tener relaciones de intimidad con el acusado;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-XIII. Ser heredero presunto o instituído, legatario o donatario del procesado;
+XI.- Ser, al incoarse el procedimiento, acreedor, deudor, socio, arrendatario o arrendador, dependiente o principal del procesado;
 
-XIV. Tener mujer o hijos que, al incoarse el procedimiento, sean acreedores, deudores o fiadores del procesado; y
+XII.- Ser o haber sido tutor o curador del procesado, o haber administrado por cualquier causa sus bienes;
 
-XV. Haber sido magistrado o juez en otra instancia; jurado, testigo, procurador o abogado, en el negocio de que se trate, o haber desempeñado el cargo de defensor del procesado.
+> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+
+XIII.- Ser heredero presunto o instituído, legatario o donatario del procesado;
+
+XIV.- Tener mujer o hijos que, al incoarse el procedimiento, sean acreedores, deudores o fiadores del procesado; y
+
+XV.- Haber sido magistrado o juez en otra instancia; jurado, testigo, procurador o abogado, en el negocio de que se trate, o haber desempeñado el cargo de defensor del procesado.
 
 ###### ARTICULO 523.
 
@@ -4332,11 +4344,11 @@ En consecuencia la libertad por desvanecimiento de datos, procede en los siguien
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 1999)</small>
 
-I. Cuando en el curso del proceso se hayan desvanecido, por prueba plena, las que sirvieron para comprobar el cuerpo del delito; y
+I.- Cuando en el curso del proceso se hayan desvanecido, por prueba plena, las que sirvieron para comprobar el cuerpo del delito; y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-II. Cuando, sin que aparezcan datos posteriores de responsabilidad, se hayan desvanecido, por prueba plena, los señalados en el auto de formal prisión o sujeción a proceso, para tener al procesado como probable responsable.
+II.- Cuando, sin que aparezcan datos posteriores de responsabilidad, se hayan desvanecido, por prueba plena, los señalados en el auto de formal prisión o sujeción a proceso, para tener al procesado como probable responsable.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -4372,23 +4384,23 @@ En el caso de la fracción I del artículo 547 de este código, la resolución q
 
 Libertad protestatoria es la que se concede al procesado siempre que se llenen los requisitos siguientes:
 
-I. Que el acusado tenga domicilio fijo y conocido en el lugar en que se siga el proceso;
+I.- Que el acusado tenga domicilio fijo y conocido en el lugar en que se siga el proceso;
 
-II. Que su residencia en dicho lugar sea de un año cuando menos;
+II.- Que su residencia en dicho lugar sea de un año cuando menos;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-III. Que a juicio del juez, no haya temor de que se sustraiga a la acción de la justicia;
+III.- Que a juicio del juez, no haya temor de que se sustraiga a la acción de la justicia;
 
-IV. Que proteste presentarse ante el Tribunal o Juez que conozca de su causa, siempre que se le ordene;
+IV.- Que proteste presentarse ante el Tribunal o Juez que conozca de su causa, siempre que se le ordene;
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-V. Que el inculpado no haya sido condenado por delito intencional; y
+V.- Que el inculpado no haya sido condenado por delito intencional; y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-VI. Que se trate de delitos cuya pena máxima no exceda de tres años de prisión. Tratándose de personas de escasos recursos, el juez podrá conceder este beneficio cuando la pena privativa de libertad no exceda de cinco años.
+VI.- Que se trate de delitos cuya pena máxima no exceda de tres años de prisión. Tratándose de personas de escasos recursos, el juez podrá conceder este beneficio cuando la pena privativa de libertad no exceda de cinco años.
 
 ###### ARTICULO 553.
 
@@ -4398,9 +4410,9 @@ La libertad protestatoria se concede siempre bajo la condición de que el agraci
 
 La libertad protestatoria se revocará:
 
-I. Cuando se viole alguna de las disposiciones de los dos artículos anteriores; y
+I.- Cuando se viole alguna de las disposiciones de los dos artículos anteriores; y
 
-II. Cuando recaiga sentencia condenatoria contra el agraciado, ya sea en primera o en segunda instancia.
+II.- Cuando recaiga sentencia condenatoria contra el agraciado, ya sea en primera o en segunda instancia.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -4410,9 +4422,9 @@ La libertad bajo protesta, procede sin los requisitos anteriores, en los siguien
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-I. Cuando se hubiese prolongado la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motivare al proceso;
+I.- Cuando se hubiese prolongado la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motivare al proceso;
 
-II. Cuando habiéndose pronunciado sentencia condenatoria en Primera Instancia, la cumpla íntegramente el acusado, y esté pendiente el recurso de apelación.
+II.- Cuando habiéndose pronunciado sentencia condenatoria en Primera Instancia, la cumpla íntegramente el acusado, y esté pendiente el recurso de apelación.
 
 ### CAPITULO III. Libertad provisional bajo caución
 
@@ -4422,19 +4434,19 @@ II. Cuando habiéndose pronunciado sentencia condenatoria en Primera Instancia, 
 
 Todo inculpado tendrá derecho durante la averiguación previa y en el proceso judicial, a ser puesto en libertad provisional bajo caución, inmediatamente que lo solicite, si se reúnen los siguientes requisitos:
 
-I. Que garantice el monto estimado de la reparación del daño;
+I.- Que garantice el monto estimado de la reparación del daño;
 
 > <small>(DEROGADO SEGUNDO PARRAFO, G.O. 20 DE DICIEMBRE DE 2007)</small>
 
 Tratándose de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo;
 
-II. Que garantice el monto estimado de las sanciones pecuniarias que en su caso puedan imponérsele;
+II.- Que garantice el monto estimado de las sanciones pecuniarias que en su caso puedan imponérsele;
 
-III. Que otorgue caución para el cumplimiento de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso; y
+III.- Que otorgue caución para el cumplimiento de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso; y
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
-IV. Que no se trate de delitos que por su gravedad estén previstos en el quinto párrafo del artículo 268 de este Código.
+IV.- Que no se trate de delitos que por su gravedad estén previstos en el quinto párrafo del artículo 268 de este Código.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -4494,15 +4506,15 @@ En caso de que se niegue la libertad caucional, puede solicitarse de nuevo y ser
 
 A petición del procesado o su defensor, la caución a que se refiere la fracción III del artículo 556, se reducirá en la proporción que el juez estime justa y equitativa por cualquiera de las circunstancias siguientes:
 
-I. El tiempo que el procesado lleve privado de su libertad;
+I.- El tiempo que el procesado lleve privado de su libertad;
 
-II. La disminución acreditada de las consecuencias o efectos del delito;
+II.- La disminución acreditada de las consecuencias o efectos del delito;
 
-III. La imposibilidad económica demostrada para otorgar la caución señalada inicialmente, aun con pagos parciales;
+III.- La imposibilidad económica demostrada para otorgar la caución señalada inicialmente, aun con pagos parciales;
 
-IV. El buen comportamiento observado en el centro de reclusión de acuerdo con el informe que rinda el Consejo Técnico Interdisciplinario;
+IV.- El buen comportamiento observado en el centro de reclusión de acuerdo con el informe que rinda el Consejo Técnico Interdisciplinario;
 
-V. Otras que racionalmente conduzcan a crear seguridad de que no procurará sustraerse a la acción de la justicia.
+V.- Otras que racionalmente conduzcan a crear seguridad de que no procurará sustraerse a la acción de la justicia.
 
 Las garantías a que se refieren las fracciones I y II del artículo 556 sólo podrán ser reducidas en los términos expuestos en el primer párrafo de este artículo cuando se verifique la circunstancia señalada en la fracción III del presente artículo. En este caso, si se llegare a acreditar que para obtener la reducción el inculpado simuló su insolvencia, o bien, con posterioridad a la reducción de la caución recuperó su capacidad económica para cubrir los montos de las garantías inicialmente señaladas, de no restituir éstas en el plazo que el juez señale para ese efecto, se le revocará la libertad provisional que tenga concedida.
 
@@ -4520,7 +4532,7 @@ La caución podrá consistir:
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
-I. En depósito en efectivo, hecho por el inculpado o por terceras personas, en la institución de crédito autorizada para ello. El certificado que en estos casos se expida, se depositará en la caja de valores del Ministerio Público, del tribunal o juzgado, tomándose razón de ello en autos. Cuando, por razón de la hora o por ser día inhábil, no pueda constituirse el depósito directamente en la institución mencionada, el Ministerio Público o el juez recibirán la cantidad exhibida y la mandarán depositar en las mismas el primer día hábil.
+I.- En depósito en efectivo, hecho por el inculpado o por terceras personas, en la institución de crédito autorizada para ello. El certificado que en estos casos se expida, se depositará en la caja de valores del Ministerio Público, del tribunal o juzgado, tomándose razón de ello en autos. Cuando, por razón de la hora o por ser día inhábil, no pueda constituirse el depósito directamente en la institución mencionada, el Ministerio Público o el juez recibirán la cantidad exhibida y la mandarán depositar en las mismas el primer día hábil.
 
 Cuando el inculpado no tenga recursos económicos suficientes para efectuar en una sola exhibición el depósito en efectivo, el juez podrá autorizarlo para que lo efectúe en parcialidades, de conformidad con las siguientes reglas:
 
@@ -4534,15 +4546,15 @@ d) El inculpado deberá obligarse a efectuar las exhibiciones por los montos y e
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-II. En hipoteca otorgada por el inculpado o por terceras personas, sobre inmuebles cuyo valor fiscal no sea menor que el monto de la caución, más la cantidad necesaria para cubrir los gastos destinados a hacer efectiva la garantía en los términos del artículo 570 del presente código;
+II.- En hipoteca otorgada por el inculpado o por terceras personas, sobre inmuebles cuyo valor fiscal no sea menor que el monto de la caución, más la cantidad necesaria para cubrir los gastos destinados a hacer efectiva la garantía en los términos del artículo 570 del presente código;
 
-III. En prenda, en cuyo caso el bien mueble deberá tener un valor de mercado de cuando menos dos veces el monto de la suma fijada como caución; y (sic)
+III.- En prenda, en cuyo caso el bien mueble deberá tener un valor de mercado de cuando menos dos veces el monto de la suma fijada como caución; y (sic)
 
-IV. En fianza personal bastante, que podrá constituirse en el expediente;
+IV.- En fianza personal bastante, que podrá constituirse en el expediente;
 
 > <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-V. En fideicomiso de garantía formalmente otorgado.
+V.- En fideicomiso de garantía formalmente otorgado.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -4582,27 +4594,27 @@ El juez podrá revocar la libertad caucional cuando a su criterio el procesado i
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-I. Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del tribunal que conozca de su asunto, o no efectúe las exhibiciones dentro de los plazos fijados por el tribunal, en caso de habérsele autorizado a efectuar el depósito en parcialidades;
+I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del tribunal que conozca de su asunto, o no efectúe las exhibiciones dentro de los plazos fijados por el tribunal, en caso de habérsele autorizado a efectuar el depósito en parcialidades;
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-II. Cuando fuere sentenciado por un nuevo delito intencional que merezca pena privativa de libertad, antes de que la causa en que se le concedió la libertad esté concluida por sentencia ejecutoria;
+II.- Cuando fuere sentenciado por un nuevo delito intencional que merezca pena privativa de libertad, antes de que la causa en que se le concedió la libertad esté concluida por sentencia ejecutoria;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-III. Cuando amenazare a la parte ofendida o a algún testigo de los que hayan depuesto o tenga que deponer en su causa, o tratare de cohechar o sobornar a alguno de estos últimos, al juez, al agente del Ministerio Público o al secretario del juzgado o tribunal que conozca de su causa;
+III.- Cuando amenazare a la parte ofendida o a algún testigo de los que hayan depuesto o tenga que deponer en su causa, o tratare de cohechar o sobornar a alguno de estos últimos, al juez, al agente del Ministerio Público o al secretario del juzgado o tribunal que conozca de su causa;
 
-IV. Cuando lo solicite el mismo inculpado y se presente a su juez;
+IV.- Cuando lo solicite el mismo inculpado y se presente a su juez;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-V. Si durante la instrucción apareciere que el delito o los delitos materia del auto de formal prisión son de los considerados como graves; y
+V.- Si durante la instrucción apareciere que el delito o los delitos materia del auto de formal prisión son de los considerados como graves; y
 
-VI. Cuando en su proceso cause ejecutoria la sentencia dictada en primera o segunda instancia;
+VI.- Cuando en su proceso cause ejecutoria la sentencia dictada en primera o segunda instancia;
 
-VII. (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
+VII.- (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
 
-VIII. (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
+VIII.- (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
 
 > <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
 
@@ -4624,9 +4636,9 @@ En caso de revocación de la libertad caucional se mandará reaprehender al proc
 
 El juez o tribunal ordenará la devolución de los depósitos o mandará cancelar las garantías, cuando:
 
-I. El acusado sea absuelto; y
+I.- El acusado sea absuelto; y
 
-II. Cuando se dicte al indiciado auto de libertad o de extinción de la acción penal.
+II.- Cuando se dicte al indiciado auto de libertad o de extinción de la acción penal.
 
 Cuando resulte condenado el acusado que se encuentre en libertad bajo caución y se presente a cumplir su condena, las cauciones para garantizar la reparación del daño y las sanciones pecuniarias se harán efectivas, la primera a favor de la víctima u ofendido por el delito y la segunda a favor del Estado. La otorgada para garantizar las obligaciones derivadas del proceso se devolverán al sentenciado o a quien indique éste, o en su caso, se cancelarán.
 
@@ -4792,9 +4804,9 @@ La rehabilitación de los derechos civiles o políticos, no procederá mientras 
 
 Si hubiere extinguido ya la sanción privativa de libertad, o si ésta no le hubiere sido impuesta, pasado el término que señala el artículo siguiente, podrá ocurrir el condenado al Tribunal o Juzgado que dictó el fallo irrevocable, solicitando que se le rehabilite en los derechos de que se le privó, o en cuyo ejercicio estuviere suspenso, acompañando a su ocurso:
 
-I. Un certificado de la autoridad correspondiente que acredite que extinguió la sanción privativa de libertad que se le hubiere impuesto, la conmutación o la concesión de indulto, y
+I.- Un certificado de la autoridad correspondiente que acredite que extinguió la sanción privativa de libertad que se le hubiere impuesto, la conmutación o la concesión de indulto, y
 
-II. Otro certificado de la autoridad administrativa del lugar, en que hubiere residido desde que comenzó la inhabilitación, o la suspensión, y una información recibida con intervención de la autoridad administrativa, que compruebe que el peticionario observó buena conducta continua desde que comenzó a extinguir su sanción, y que dio pruebas de haber contraído hábitos de orden, de trabajo y de moralidad.
+II.- Otro certificado de la autoridad administrativa del lugar, en que hubiere residido desde que comenzó la inhabilitación, o la suspensión, y una información recibida con intervención de la autoridad administrativa, que compruebe que el peticionario observó buena conducta continua desde que comenzó a extinguir su sanción, y que dio pruebas de haber contraído hábitos de orden, de trabajo y de moralidad.
 
 ###### ARTICULO 606.
 
@@ -4844,17 +4856,17 @@ El Ejecutivo, en vista de los comprobantes o si así conviniere a la tranquilida
 
 El reconocimiento de la inocencia del sentenciado procede en los siguientes casos:
 
-I. Cuando la sentencia se funde en documentos o declaraciones de testigos que después de dictada fueren declarados falsos en juicio;
+I.- Cuando la sentencia se funde en documentos o declaraciones de testigos que después de dictada fueren declarados falsos en juicio;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-II. Cuando después de la sentencia aparecieren documentos que invaliden la prueba en que descanse aquélla o las presentadas al jurado y que sirvieron de base a la acusación y al veredicto;
+II.- Cuando después de la sentencia aparecieren documentos que invaliden la prueba en que descanse aquélla o las presentadas al jurado y que sirvieron de base a la acusación y al veredicto;
 
-III. Cuando condenada alguna persona por homicidio de otro que hubiere desaparecido, se presentare éste o alguna prueba irrefutable de que vive, y (sic)
+III.- Cuando condenada alguna persona por homicidio de otro que hubiere desaparecido, se presentare éste o alguna prueba irrefutable de que vive, y (sic)
 
 > <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 1989)</small>
 
-IV. Cuando el sentenciado hubiere sido condenado por los mismos hechos en juicios diversos. En este caso prevalecerá la sentencia más benigna;
+IV.- Cuando el sentenciado hubiere sido condenado por los mismos hechos en juicios diversos. En este caso prevalecerá la sentencia más benigna;
 
 > <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
 
@@ -4904,35 +4916,35 @@ Las resoluciones relativas al reconocimiento de la inocencia se comunicarán al 
 
 La justicia penal del orden común se administrará:
 
-I. Por los Jueces de Paz del Orden Penal;
+I.- Por los Jueces de Paz del Orden Penal;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-II. Por los jueces penales;
+II.- Por los jueces penales;
 
-III. Por los Jueces Presidentes de Debates;
+III.- Por los Jueces Presidentes de Debates;
 
-IV. Por el Jurado Popular, y
+IV.- Por el Jurado Popular, y
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-V. Por el Tribunal Superior de Justicia del Distrito Federal.
+V.- Por el Tribunal Superior de Justicia del Distrito Federal.
 
 ###### ARTICULO 620.
 
 Son auxiliares de la Administración de Justicia y están obligados a cumplir las órdenes de las autoridades y funcionarios de este ramo:
 
-I. El Jefe de la Policía del Distrito Federal;
+I.- El Jefe de la Policía del Distrito Federal;
 
-II. Los jefes de la policía de las diversas circunscripciones en que se dividan tanto la ciudad de México como las demás poblaciones del Distrito Federal, cualquiera que sea el nombre que les corresponda con arreglo a las leyes;
+II.- Los jefes de la policía de las diversas circunscripciones en que se dividan tanto la ciudad de México como las demás poblaciones del Distrito Federal, cualquiera que sea el nombre que les corresponda con arreglo a las leyes;
 
-III. Los agentes de policía dependientes de las autoridades a que se refieren las fracciones anteriores;
+III.- Los agentes de policía dependientes de las autoridades a que se refieren las fracciones anteriores;
 
-IV. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1974)
+IV.- (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1974)
 
-V. Los peritos médico-legistas, los intérpretes y peritos en los ramos que les están encomendados, y
+V.- Los peritos médico-legistas, los intérpretes y peritos en los ramos que les están encomendados, y
 
-VI. Los síndicos e interventores de concurso, los albaceas provisionales y definitivos, tutores y curadores, cuando su nombramiento no recaiga en parientes o herederos del autor de la herencia y los depositarios cuya designación no corresponda a los interesados en los juicios.
+VI.- Los síndicos e interventores de concurso, los albaceas provisionales y definitivos, tutores y curadores, cuando su nombramiento no recaiga en parientes o herederos del autor de la herencia y los depositarios cuya designación no corresponda a los interesados en los juicios.
 
 ###### ARTICULO 621.
 
@@ -4980,11 +4992,11 @@ En las diversas circunscripciones político-administrativas del Distrito Federal
 
 Son atribuciones de los jueces de Paz:
 
-I. Conocer de los procesos del orden penal según competencia que les fija la ley;
+I.- Conocer de los procesos del orden penal según competencia que les fija la ley;
 
-II. (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
+II.- (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
 
-III. Practicar las diligencias que les encomienden los jueces de Primera Instancia, Menores y Penales de sus respectivos partidos y que deban verificarse dentro de su respectiva jurisdicción territorial.
+III.- Practicar las diligencias que les encomienden los jueces de Primera Instancia, Menores y Penales de sus respectivos partidos y que deban verificarse dentro de su respectiva jurisdicción territorial.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -5050,37 +5062,37 @@ El primer secretario tendrá el carácter de jefe inmediato administrativo del j
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-I. Dar cuenta diariamente y acordar con el juez, los escritos y promociones de las partes, los oficios que se dirijan al juzgado y los negocios que tenga en trámite el mismo, y hacer las notificaciones respectivas;
+I.- Dar cuenta diariamente y acordar con el juez, los escritos y promociones de las partes, los oficios que se dirijan al juzgado y los negocios que tenga en trámite el mismo, y hacer las notificaciones respectivas;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-II. Distribuir entre los demás secretarios las consignaciones que se hagan al juzgado;
+II.- Distribuir entre los demás secretarios las consignaciones que se hagan al juzgado;
 
-III. Llevar los libros del Juzgado, por él o con intervención de alguno de los empleados de la oficina, y
+III.- Llevar los libros del Juzgado, por él o con intervención de alguno de los empleados de la oficina, y
 
-IV. Las demás que le impongan las leyes.
+IV.- Las demás que le impongan las leyes.
 
 ###### ARTICULO 643.
 
 Los demás secretarios tienen las siguientes obligaciones:
 
-I. Llevar personalmente los procesos que se les encomienden;
+I.- Llevar personalmente los procesos que se les encomienden;
 
-II. Proporcionar los expedientes a los interesados y a los abogados de éstos, para informarse del estado de ellos, para tomar apuntes o para cualquier otro efecto legal, siempre que esto sea en su presencia y sin sacar las actuaciones de la oficina;
+II.- Proporcionar los expedientes a los interesados y a los abogados de éstos, para informarse del estado de ellos, para tomar apuntes o para cualquier otro efecto legal, siempre que esto sea en su presencia y sin sacar las actuaciones de la oficina;
 
-III. Asentar en los procesos las certificaciones de los términos judiciales y las demás razones que la ley o el juez ordenen en los asuntos de su secretaría;
+III.- Asentar en los procesos las certificaciones de los términos judiciales y las demás razones que la ley o el juez ordenen en los asuntos de su secretaría;
 
-IV. Autorizar las providencias, despachos, autos y sentencias que se dicten, expidan o practiquen en los asuntos de su secretaría;
+IV.- Autorizar las providencias, despachos, autos y sentencias que se dicten, expidan o practiquen en los asuntos de su secretaría;
 
-V. Expedir las copias autorizadas que la ley determine o que deban darse a las partes, en virtud de resolución judicial;
+V.- Expedir las copias autorizadas que la ley determine o que deban darse a las partes, en virtud de resolución judicial;
 
-VI. Hacer notificaciones, practicar aseguramientos o cualquiera otra diligencia que deba llevarse a cabo con arreglo a la ley y determinación judicial;
+VI.- Hacer notificaciones, practicar aseguramientos o cualquiera otra diligencia que deba llevarse a cabo con arreglo a la ley y determinación judicial;
 
-VII. Auxiliar al Primer Secretario en las demás labores de la oficina, y
+VII.- Auxiliar al Primer Secretario en las demás labores de la oficina, y
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-VIII. Las demás que la ley o el juez les encomienden relativas a los asuntos de la oficina.
+VIII.- Las demás que la ley o el juez les encomienden relativas a los asuntos de la oficina.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -5092,13 +5104,13 @@ VIII. Las demás que la ley o el juez les encomienden relativas a los asuntos de
 
 Compete a los Presidentes de Debates:
 
-I. Llevar a jurado, dentro de un mes de la fecha en que les sean turnadas, las causas que sean de la competencia de aquél;
+I.- Llevar a jurado, dentro de un mes de la fecha en que les sean turnadas, las causas que sean de la competencia de aquél;
 
-II. Dirigir los debates del jurado; y
+II.- Dirigir los debates del jurado; y
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-III. Proponer o dictar los fallos que corresponda, con arreglo al veredicto del jurado, observándose lo dispuesto en el artículo 408.
+III.- Proponer o dictar los fallos que corresponda, con arreglo al veredicto del jurado, observándose lo dispuesto en el artículo 408.
 
 ### CAPITULO VII. Del Jurado
 
@@ -5124,25 +5136,25 @@ Todo ciudadano residente en los Partidos Judiciales del Distrito Federal que re�
 
 Para ser jurado se requiere:
 
-I. Ser mayor de veintiún años;
+I.- Ser mayor de veintiún años;
 
-II. Estar en pleno goce de sus derechos civiles, tener un modo honesto de vivir y buenos antecedentes de moralidad;
+II.- Estar en pleno goce de sus derechos civiles, tener un modo honesto de vivir y buenos antecedentes de moralidad;
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-III. Tener una profesión, trabajo o industria, que le proporcione un haber o renta diarios de cinco pesos, por lo menos;
+III.- Tener una profesión, trabajo o industria, que le proporcione un haber o renta diarios de cinco pesos, por lo menos;
 
-IV. Saber hablar, leer y escribir suficientemente la lengua nacional;
+IV.- Saber hablar, leer y escribir suficientemente la lengua nacional;
 
-V. Ser mexicano y tener, cuando menos, cinco años de residencia en el territorio jurisdiccional donde deba desempeñar sus funciones;
+V.- Ser mexicano y tener, cuando menos, cinco años de residencia en el territorio jurisdiccional donde deba desempeñar sus funciones;
 
-VI. No haber sido condenado a ninguna sanción penal por delito no político;
+VI.- No haber sido condenado a ninguna sanción penal por delito no político;
 
-VII. No estar procesado;
+VII.- No estar procesado;
 
-VIII. No ser ciego, sordo ni mudo, y
+VIII.- No ser ciego, sordo ni mudo, y
 
-IX. No ser ministro de ningún culto, ni tener ninguna de las incompatibilidades que esta ley señala.
+IX.- No ser ministro de ningún culto, ni tener ninguna de las incompatibilidades que esta ley señala.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -5220,27 +5232,27 @@ Cuando se efectúe un jurado el tribunal dispondrá la manera de atender el serv
 
 El sobreseimiento procederá en los casos siguientes:
 
-I. Cuando el Procurador General de Justicia del Distrito Federal confirme o formule conclusiones no acusatorias;
+I.- Cuando el Procurador General de Justicia del Distrito Federal confirme o formule conclusiones no acusatorias;
 
-II. Cuando aparezca que la responsabilidad penal está extinguida;
+II.- Cuando aparezca que la responsabilidad penal está extinguida;
 
-III. Cuando no se hubiere dictado auto de formal prisión o de sujeción a proceso y aparezca que el hecho que motiva la averiguación no es delictuoso o, cuando estando agotada ésta, se compruebe que no existió el hecho delictuoso que la motivo;
+III.- Cuando no se hubiere dictado auto de formal prisión o de sujeción a proceso y aparezca que el hecho que motiva la averiguación no es delictuoso o, cuando estando agotada ésta, se compruebe que no existió el hecho delictuoso que la motivo;
 
-IV. Cuando habiéndose decretado la libertad por desvanecimiento de datos, esté agotada la averiguación y no existan elementos posteriores para dictar nueva orden de aprehensión, o se esté en el caso previsto por el artículo 546;
+IV.- Cuando habiéndose decretado la libertad por desvanecimiento de datos, esté agotada la averiguación y no existan elementos posteriores para dictar nueva orden de aprehensión, o se esté en el caso previsto por el artículo 546;
 
-V. Cuando esté plenamente comprobado que en favor del inculpado existe alguna causa eximente de responsabilidad;
+V.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna causa eximente de responsabilidad;
 
-VI. Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado, y (sic)
+VI.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado, y (sic)
 
 (REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002
 
-VII. Cuando se trate de delitos culposos que sólo produzcan daño en propiedad ajena y/o lesiones de las comprendidas en el artículo 130, fracciones I, II, III o IV del Nuevo Código Penal para el Distrito Federal, si se paga la reparación del daño a la víctima o al ofendido por el delito, si el inculpado no hubiese abandonado a aquélla, y no se encontrase el activo en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos o sustancias que produzcan efectos similares.
+VII.- Cuando se trate de delitos culposos que sólo produzcan daño en propiedad ajena y/o lesiones de las comprendidas en el artículo 130, fracciones I, II, III o IV del Nuevo Código Penal para el Distrito Federal, si se paga la reparación del daño a la víctima o al ofendido por el delito, si el inculpado no hubiese abandonado a aquélla, y no se encontrase el activo en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos o sustancias que produzcan efectos similares.
 
 Lo anterior, no procederá cuando se trate de culpa calificada como grave, conforme a la parte conducente del artículo 77 del Nuevo Código Penal para el Distrito Federal;
 
 > <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-VIII. Cuando así lo determine expresamente este código.
+VIII.- Cuando así lo determine expresamente este código.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -5302,13 +5314,13 @@ De los delitos o faltas oficiales conocerán como jueces instructores:
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-I. Por turno, los magistrados de las salas penales del Tribunal Superior de Justicia del Distrito Federal; de los delitos en que hayan incurrido los magistrados y jueces del Distrito Federal, el Procurador de Justicia del Distrito Federal y sus agentes del Ministerio Público;
+I.- Por turno, los magistrados de las salas penales del Tribunal Superior de Justicia del Distrito Federal; de los delitos en que hayan incurrido los magistrados y jueces del Distrito Federal, el Procurador de Justicia del Distrito Federal y sus agentes del Ministerio Público;
 
-II. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1974)
+II.- (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-III. Por turno, los jueces penales, de aquellos en que hayan incurrido los secretarios y demás funcionarios, empleados y auxiliares de la Administración de Justicia dentro del mismo partido.
+III.- Por turno, los jueces penales, de aquellos en que hayan incurrido los secretarios y demás funcionarios, empleados y auxiliares de la Administración de Justicia dentro del mismo partido.
 
 ###### ARTICULO 670.
 
@@ -5342,63 +5354,63 @@ Compete a la Dirección General de Prevención y Readaptación Social:
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-I. Dirigir y ordenar la prevención social de la delincuencia en el Distrito Federal, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
+I.- Dirigir y ordenar la prevención social de la delincuencia en el Distrito Federal, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-II. Orientar técnicamente la prevención de la delincuencia y el tratamiento de adultos delincuentes, alienados que hayan incurrido en conductas antisociales y así como crear y manejar instituciones para el internamiento de estos sujetos;
+II.- Orientar técnicamente la prevención de la delincuencia y el tratamiento de adultos delincuentes, alienados que hayan incurrido en conductas antisociales y así como crear y manejar instituciones para el internamiento de estos sujetos;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-III. Investigar las situaciones en que queden los familiares y dependientes económicamente de quienes fueron sometidos a proceso o cumplieren sentencias y en su caso gestionar las medidas preventivas y asistenciales que procedieren;
+III.- Investigar las situaciones en que queden los familiares y dependientes económicamente de quienes fueron sometidos a proceso o cumplieren sentencias y en su caso gestionar las medidas preventivas y asistenciales que procedieren;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-IV. Celebrar convenios con instituciones de asistencia pública o de asistencia privada, para coadyuvar a la protección de familiares y dependientes económicamente de quienes hayan sido segregados de la sociedad como procesados o sentenciados, o como sujetos de medidas de seguridad;
+IV.- Celebrar convenios con instituciones de asistencia pública o de asistencia privada, para coadyuvar a la protección de familiares y dependientes económicamente de quienes hayan sido segregados de la sociedad como procesados o sentenciados, o como sujetos de medidas de seguridad;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-V. Vigilar la ejecución de las sanciones impuestas por las autoridades judiciales y determinar, previa clasificación de los sentenciados, el lugar en que deben ser recibidos;
+V.- Vigilar la ejecución de las sanciones impuestas por las autoridades judiciales y determinar, previa clasificación de los sentenciados, el lugar en que deben ser recibidos;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-VI. Crear, organizar y manejar museos criminológicos, laboratorios, lugares de segregación, colonias, granjas y campamentos penales, reformatorios, establecimientos médicos y demás instituciones para delincuentes sanos y anormales;
+VI.- Crear, organizar y manejar museos criminológicos, laboratorios, lugares de segregación, colonias, granjas y campamentos penales, reformatorios, establecimientos médicos y demás instituciones para delincuentes sanos y anormales;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-VII. Crear, organizar y manejar el sistema de selección y formación del personal que preste sus servicios en las instituciones de readaptación social;
+VII.- Crear, organizar y manejar el sistema de selección y formación del personal que preste sus servicios en las instituciones de readaptación social;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-VIII. Crear y organizar una o más sociedades que funjan como patronatos para liberados, o agencias de las mismas o procurarles corresponsales, sea por diversos partidos judiciales, sea por delegaciones, sea por municipios, así como una federación de dichas sociedades;
+VIII.- Crear y organizar una o más sociedades que funjan como patronatos para liberados, o agencias de las mismas o procurarles corresponsales, sea por diversos partidos judiciales, sea por delegaciones, sea por municipios, así como una federación de dichas sociedades;
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-IX. Conceder y revocar la libertad preparatoria; así como aplicar la disminución de la pena privativa de libertad, en uno y en otro caso, en los términos previstos por la Ley de Ejecución de Sanciones Penales para el Distrito Federal, así como conceder la libertad en los casos previstos por el artículo 100 del Nuevo Código Penal para el Distrito Federal;
+IX.- Conceder y revocar la libertad preparatoria; así como aplicar la disminución de la pena privativa de libertad, en uno y en otro caso, en los términos previstos por la Ley de Ejecución de Sanciones Penales para el Distrito Federal, así como conceder la libertad en los casos previstos por el artículo 100 del Nuevo Código Penal para el Distrito Federal;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-X. Ejercer orientación y vigilancia sobre los enfermos mentales sometidos a medidas de seguridad por la jurisdicción penal y los sujetos a libertad preparatoria o condena condicional;
+X.- Ejercer orientación y vigilancia sobre los enfermos mentales sometidos a medidas de seguridad por la jurisdicción penal y los sujetos a libertad preparatoria o condena condicional;
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-XI. Resolver, en los casos del artículo del artículo (sic) 75 del Nuevo Código Penal para el Distrito Federal, sobre la modificación de las modalidades de ejecución de la sanción impuesta, cuando haya incompatibilidad entre esas modalidades y la edad, sexo, salud o constitución física del reo;
+XI.- Resolver, en los casos del artículo del artículo (sic) 75 del Nuevo Código Penal para el Distrito Federal, sobre la modificación de las modalidades de ejecución de la sanción impuesta, cuando haya incompatibilidad entre esas modalidades y la edad, sexo, salud o constitución física del reo;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-XII. Resolver sobre la distribución y aplicación de los objetos e instrumentos del delito, disponiendo la destrucción de los de uso prohibido y la venta de aquéllos que no sean aprovechables en instituciones oficiales o de beneficencia, utilizando el producto en beneficio de las funciones de la propia Dirección;
+XII.- Resolver sobre la distribución y aplicación de los objetos e instrumentos del delito, disponiendo la destrucción de los de uso prohibido y la venta de aquéllos que no sean aprovechables en instituciones oficiales o de beneficencia, utilizando el producto en beneficio de las funciones de la propia Dirección;
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-XIII. Formar las listas de jurados para el Distrito Federal;
+XIII.- Formar las listas de jurados para el Distrito Federal;
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-XIV. Formular los reglamentos interiores de la Dirección y de los establecimientos a que se refiere la fracción VI de este artículo, y someterlos a la Secretaría de Gobierno del Distrito Federal, para su aprobación; y
+XIV.- Formular los reglamentos interiores de la Dirección y de los establecimientos a que se refiere la fracción VI de este artículo, y someterlos a la Secretaría de Gobierno del Distrito Federal, para su aprobación; y
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-XV. Las demás que fijen las leyes y los reglamentos.
+XV.- Las demás que fijen las leyes y los reglamentos.
 
 ###### ARTICULO 675.
 
@@ -5412,15 +5424,15 @@ Corresponde al Gobierno del Distrito Federal:
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-I. Disponer, en los casos del artículo 49 y demás relativos del Nuevo Código Penal para el Distrito Federal, la forma y términos en que deban hacerse efectivas las multas impuestas por los tribunales;
+I.- Disponer, en los casos del artículo 49 y demás relativos del Nuevo Código Penal para el Distrito Federal, la forma y términos en que deban hacerse efectivas las multas impuestas por los tribunales;
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-II. Recabar las multas y hacer de su importe la distribución que previene el segundo párrafo del artículo 41, así como en los términos de lo dispuesto en los artículos 50 y 51, todos del Nuevo Código Penal para el Distrito Federal;
+II.- Recabar las multas y hacer de su importe la distribución que previene el segundo párrafo del artículo 41, así como en los términos de lo dispuesto en los artículos 50 y 51, todos del Nuevo Código Penal para el Distrito Federal;
 
-III. Fijar el monto y recibir las fianzas que el multado debe otorgar para desempeñar un trabajo privado; y
+III.- Fijar el monto y recibir las fianzas que el multado debe otorgar para desempeñar un trabajo privado; y
 
-IV. Crear, organizar y administrar el Casillero Criminal.
+IV.- Crear, organizar y administrar el Casillero Criminal.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -5817,3 +5829,17 @@ G.O. 21 DE DICIEMBRE DE 2007.
 Primero. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 Segundo. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE ENERO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días naturales posteriores a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+CUARTO. El Tribunal Superior de Justicia del Distrito Federal deberá realizar las previsiones presupuestales necesarias para dotar del personal y de la infraestructura necesaria al Centro para su adecuado funcionamiento en los términos que señala el presente Decreto.
+
+QUINTO. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para emitir el reglamento interno correspondiente.
+
+SEXTO. La Comisión de Administración y Procuración de Justicia conformará una comisión multidisciplinaria donde participe, cuando menos, la Consejería Jurídica del Gobierno del Distrito Federal, el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, académicos e investigadores con experiencia en la materia; con la finalidad de elaborar, en el plazo de un año, contado a partir del día siguiente de la fecha de entrada en vigor de la presente ley, de la iniciativa de ley que para la solución de controversias en todos los ámbitos de interacción social, requiere el Distrito Federal.
