@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2008-01-07"
+last_updated: "2008-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -372,9 +372,9 @@ XV. Fijar en un lugar visible del establecimiento un croquis que ubique claramen
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-XVI. Vigilar que se conserve la seguridad de los asistentes y de los empleados dentro del Establecimiento Mercantil, así como coadyuvar a que con su funcionamiento no se altere el orden público de las zonas inmediatas al mismo. Para ello, los titulares de las Licencias de Funcionamiento Tipo B deberán contar con elementos de seguridad que acrediten estar debidamente capacitados, ya sea por la Secretaría de Seguridad Pública o por cualquiera de las corporaciones de seguridad privada, que estén debidamente registradas ante la Secretaría de Seguridad Pública del Distrito Federal.
+XVI. Vigilar que se conserve la seguridad de los asistentes y de los empleados dentro del Establecimiento Mercantil, así como coadyuvar a que con su funcionamiento no se altere el orden público de las zonas inmediatas al mismo. Para ello, los titulares de las Licencias de Funcionamiento Tipo B deberán contar con elementos de seguridad que acrediten estar debidamente capacitados, ya sea por la Secretaría de Seguridad Pública o por cualquiera de las corporaciones de seguridad privada, que estén debidamente registradas ante la Secretaría de Seguridad Pública del Distrito Federal;
 
-En los casos de establecimientos mercantiles que operen como Sucursales de Instituciones de Banca Múltiple, además deberán cumplir con las medidas de seguridad establecidas por esta Ley, su Reglamento y la autoridad competente;
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 8 DE ENERO DE 2008)</small>
 
 XVII. Dar aviso inmediato a las autoridades competentes, en caso de que se altere el orden y la seguridad dentro del Establecimiento Mercantil o en la parte exterior inmediatamente adyacente del lugar donde se encuentre ubicado;
 
@@ -1567,3 +1567,9 @@ SEGUNDO. Las presentes reformas entrarán en vigor al día siguiente de su publi
 TERCERO. Los procedimientos administrativos que se hayan iniciado con anterioridad a la entra (sic) en vigor de este Decreto, continuaran su tramitación de conformidad con las disposiciones legales que estaban vigentes en el momento de su inicio.
 
 CUARTO. El ciudadano Jefe de Gobierno del Distrito Federal deberá de hacer las modificaciones al Reglamento de Verificación Administrativa para el Distrito Federal en un plazo que no exceda de 30 días naturales.
+
+G.O. 8 DE ENERO DE 2008.
+
+PRIMERO. Remítase al ciudadano Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
