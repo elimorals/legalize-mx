@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-caracter-general-de-la-ley-de-concursos-46861"
 country: "mx"
 rank: "reglas"
 publication_date: "2003-01-30"
-last_updated: "2006-03-10"
+last_updated: "2008-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-01-23"
 
 REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 2008.
 
 Reglas publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de enero de 2003.
 
@@ -105,7 +105,9 @@ Regla 10.- El Instituto mantendrá el Registro utilizando medios electrónicos, 
 
 Regla 11.- Cada uno de los Especialistas incluidos en el Registro, tendrá una Clave Individual de Registro compuesta por: especialidad, categoría, entidad federativa, delegación regional del Instituto, número individual y dígito verificador.
 
-Regla 12.- La vigencia del registro será por especialista independientemente de las especialidades en las que esté registrado, durará un año contado a partir de su inscripción y tanto para la inscripción como para la renovación anual se requerirá el pago de los derechos que correspondan conforme a la ley. Estos datos se incluirán en la Constancia de Inscripción en el Registro.
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 2008)</small>
+
+Regla 12.- La vigencia del registro será por especialista independientemente de las especialidades en las que esté registrado, durará un año contado a partir de su inscripción y requerirá para su renovación el cumplimiento de las obligaciones de actualización tratadas en el Título IV de las presentes reglas.
 
 Regla 13.- Las bajas, temporales o definitivas que se den en el Registro obedecerán a las siguientes razones:
 
@@ -173,7 +175,9 @@ Regla 31.- La asistencia y aprobación de los programas indicados por el Institu
 
 Regla 32.- Cuando el Instituto convoque a los Especialistas a nueva entrevista de evaluación conforme a los Criterios, lo hará por los conductos que considere conveniente con base en la información que conste respecto de cada Especialista.
 
-Regla 33.- La renovación de los registros será anual, previa comprobación ante el Instituto de haber cumplido los programas de actualización y el pago de derechos correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 2008)</small>
+
+Regla 33.- La renovación de los registros será anual, previa comprobación ante el Instituto de haber cumplido los programas de actualización.
 
 Para no afectar a terceros se prorrogará automáticamente el Registro de los Especialistas que estén desempeñando una función en tanto ésta concluye, sin que se suspenda su obligación de actualización.
 
@@ -253,13 +257,15 @@ III. Síndico.- El valor de realización de los activos, disminuyendo del mismo 
 
 IV. En los asuntos derivados del Título XII el Especialista podrá acordar con el promovente o representante del proceso en el extranjero un régimen especial de honorarios. El convenio así alcanzado deberá contar con el visto bueno de la Junta Directiva del Instituto.
 
-Regla 45.- Cuando un Especialista sea sustituido por cualquier causa, encontrándose en el desempeño de su función, o concluya anticipadamente su labor, su retribución se hará conforme al siguiente criterio:
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 2008)</small>
 
-I. Al Visitador según lo dispuesto en las Reglas 44 fracción I y 46.
+Regla 45.- Cuando un Especialista sea sustituido por cualquier causa, encontrándose en el desempeño de su función, o concluya anticipadamente su labor, o en el caso de Conciliadores designados en procedimientos en los que su labor se circunscriba solamente al proceso de reconocimiento, graduación y prelación de créditos omitiéndose la etapa de conciliación por así disponerlo la Ley o la autoridad competente para ello, o porque así haya sido solicitado por el propio Comerciante, su retribución se hará conforme al siguiente criterio:
+
+I. Al Visitador según lo dispuesto en las Reglas 44 fracción I y 46
 
 II. Al Conciliador le corresponderá un porcentaje de lo que se determine según las reglas 44 fracción II y 49, conforme a lo siguiente:
 
-a) Por todas las labores de inicio, de avisos, registros y demás similares: 1%
+a) Por todas las labores de inicio, de aviso, registro y demás similares: 1%
 
 b) Por la elaboración de la lista provisional de créditos: 6%
 
@@ -267,7 +273,7 @@ c) Por la elaboración de la lista definitiva de créditos: 3%
 
 d) Por todo otro tipo de actividades: 1% por cada mes transcurrido en el cargo, con un máximo de 6%
 
-e) El Instituto podrá ajustar tales porcentajes en caso de que las labores ahí mencionadas se hayan realizado parcialmente.
+e) Los porcentajes se aplicarán sobre el 100% del honorario a que se refiere la Regla 49, fracción I. El Instituto podrá ajustar tales porcentajes en caso de que las labores ahí mencionadas se hayan realizado parcialmente.
 
 III. Al Síndico:
 
@@ -275,11 +281,13 @@ a) Si elaboró las listas provisional y definitiva de créditos, conforme a la f
 
 b) Si realiza alguna venta de activos, conforme a lo indicado en las reglas 44, fracción III y 50.
 
-c) De no realizar ninguna venta de activos, por las labores administrativa y de gestión: hasta el 1% de las cifras que resulten conforme al inciso anterior.
+c) De no realizar ninguna venta de activos, por las labores administrativa y de gestión: hasta el 1% de las cifras que resulten conforme al inciso anterior al realizarse el total de las ventas por el síndico que lo sustituye.
 
 Las cantidades así determinadas se restarán de los totales que correspondan de conformidad con las reglas 44, 49 y 50.
 
-En todos los casos, el Instituto aprobará la propuesta del Especialista usando como criterios la labor de supervisión ejercida y la experiencia conocida en la totalidad de los casos manejados.
+IV. En todos los casos, previamente a la presentación de los incidentes de cuantificación de honorarios, deberán presentarse al Instituto para su revisión usando como criterios la labor de supervisión ejercida y la experiencia conocida en la totalidad de los casos manejados.
+
+V. El Especialista presentará en vía incidental al Juez su cuenta de honorarios para su aprobación, con vista al Instituto para que exprese si corresponde al trabajo supervisado y si se efectuó la revisión previa de la propuesta.
 
 ### Capítulo Segundo. De los Honorarios
 
@@ -299,61 +307,67 @@ Auxiliares Nivel 4: Udis 40
 
 Por el tiempo que empleen en los trámites procesales de su función ante los órganos jurisdiccionales competentes cobrarán una cuota fija de Udis 1500.
 
-Los Visitadores usarán, para reportar los tiempos trabajados, los formatos creados por el Instituto para tal propósito.
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 2008)</small>
+
+Los Visitadores reportarán al Instituto los tiempos trabajados.
+
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 2008)</small>
 
 Regla 47.- Los Visitadores deberán cumplir las siguientes actividades en la determinación del tiempo empleado:
 
 I. Mantener una bitácora detallada, tanto para el Especialista como individualmente para cada uno de los auxiliares, en la que deberán anotar lo siguiente:
 
-a) Nombre completo:
+a) Nombre completo,
 
-b) Indicación del Nivel (Regla 46), en la inteligencia de que si un especialista o auxiliar desempeña labores propias de un nivel distinto al propio, se reportará la actividad en el valor del Nivel que corresponde a la actividad:
+b) Indicación del Nivel (Regla 46), en la inteligencia de que si un especialista o auxiliar desempeña labores propias de un nivel distinto al propio, se reportará la actividad en el valor del Nivel que corresponde a la actividad.
 
 c) El tiempo efectivo trabajado en cada actividad desarrollada, en horas y minutos, y
 
-d) El trabajo desarrollado en detalle. El Instituto elaborará los formatos y las guías para facilitar esta labor.
+d) El trabajo desarrollado en detalle. El Instituto proporcionará los elementos para facilitar esta labor.
 
-II. Al Visitador le corresponderá el pago de sus honorarios con base a trabajo realizado, salvo la cuota única que le corresponda por las labores procesales. Tendrá la obligación de presentar al Instituto, dentro de los tres días siguientes de iniciada la visita, un estimado de las horas que considera serán necesarias para concluir su trabajo, considerando tanto su tiempo personal como el de los auxiliares y las bases que sustenten dicha estimación. Si en la liquidación final hay una variación en exceso a lo presupuestado, ésta deberá justificarse plenamente ante el Instituto.
+II. Al Visitador le corresponderá el pago de sus honorarios con base en el tiempo empleado para el trabajo realizado, salvo la cuota única que le corresponda por las labores procesales.
 
-III. El Instituto podrá citar al Visitador para revisar el presupuesto a que se hace referencia en la fracción anterior, y hacer las modificaciones que procedan.
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 2008)</small>
 
-Regla 48.- El Especialista presentará al juez su cuenta de honorarios, con copia al Comerciante, a los acreedores demandantes y al Instituto:
+Regla 48.- El Especialista presentará en vía incidental al Juez su cuenta de honorarios, para su aprobación, con vista al Instituto para que exprese si corresponde al trabajo supervisado y si se efectuó la revisión previa de la propuesta.
 
-a) El Visitador: dentro de los 15 días hábiles siguientes a la entrega del dictamen proporcionará al Instituto el proyecto de escrito a presentarse al juzgado; el Instituto y el Visitador harán las correcciones que procedan de modo que la cuenta se presente al Juez dentro de 30 días hábiles posteriores a la presentación del dictamen.
+I. El Visitador: dentro de los 15 días hábiles siguientes a la entrega del dictamen proporcionará al Instituto el proyecto de escrito a presentarse al juzgado; el Instituto y el Visitador harán las correcciones que procedan de modo que la cuenta se presente al Juez dentro de 30 días hábiles posteriores a la presentación del dictamen.
 
-b) El Conciliador: al momento de entregar su informe final en los términos del artículo 59 de la Ley.
+II. El Conciliador:
 
-c) El Síndico: al momento de realizar un bien calculará el importe de sus honorarios aplicando la tabla del artículo. En ventas sucesivas, el cálculo se hará sumando el valor de lo enajenado anteriormente con la nueva realización para aplicar el importe determinado conforme a la tabla del 51. El Síndico presentará al juez el resultado de estos cálculos al cierre de cada mes natural en el que haya habido ventas para los efectos del artículo 229 de la Ley.
+a) Por lo que se refiere a las (sic) Regla 49, fracción I, al momento de hacer entrega de su informe final en los términos del artículo 59 de la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE NOVIEMBRE DE 2005)</small>
+b) Por lo que se refiere a la Regla 45, fracción II y a la Regla 49, fracción II, de la siguiente manera:
+
+1.- Al presentar la Lista Definitiva de Acreedores hará el cálculo conforme la Regla 45, fracción II. Del monto que resulte, determinará el 50% de esa cantidad y éstos serán los honorarios que podrá cobrar como anticipo.
+
+2.- Si antes de que se apruebe un convenio o se dicte sentencia de quiebra, queda firme el reconocimiento, graduación y prelación de créditos, sobre su cuantía se hará un nuevo cálculo de los honorarios que le corresponden con base en la Regla 45, fracción II. A la cantidad que resulte le deducirá la determinada en el punto anterior y por la diferencia presentará la cuenta complementaria de honorarios.
+
+3.- Al aprobarse el convenio o al dictarse la sentencia de quiebra, hará el cálculo de lo que le corresponda conforme a la Regla 49, fracción I y al resultado le restará los importes de los numerales 1.- y 2.- de este inciso.
+
+III. El Síndico: Al enajenar un bien, sobre el valor de éste se calculará el importe de sus honorarios aplicando la tabla de la Regla 51. En enajenaciones sucesivas, el cálculo se hará sumando el valor de lo enajenado con el valor de las nuevas enajenaciones para aplicar el importe determinado conforme a la tabla de la Regla 51. El Síndico presentará al Juez el resultado de estos cálculos al cierre de cada mes natural en el que haya habido ventas.
+
+Por lo que toca a la (sic) actividades señaladas en la Regla 45, fracción III, inciso a), su remuneración se hará en los mismos términos que para el conciliador.
+
+IV. Previamente a la presentación de los incidentes de cuantificación de honorarios mencionados en las fracciones II y III, deberán presentarse al Instituto para su revisión.
+
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 2008)</small>
 
 Regla 49.- La remuneración del Conciliador estará vinculada a su desempeño, conforme a los siguientes criterios:
 
-I. Siendo el objetivo principal del Conciliador, lograr un acuerdo entre las partes del concurso mercantil, evitando llegar a la etapa de la quiebra, su remuneración deberá estar vinculada al logro del convenio.
+I. Por la celebración del convenio.
 
-II. La base del pago de honorarios del Conciliador será la indicada en la regla 44 fracción II.
+a. Siendo el objetivo principal del Conciliador, lograr un acuerdo entre las partes del concurso mercantil, evitando llegar a la etapa de la quiebra, su remuneración deberá estar vinculada al logro del convenio.
 
-III. Si se logra la celebración del convenio, el Conciliador recibirá el 100% de los honorarios según la tarifa de la regla 51. Se reducirán sus honorarios a un 35% si no se logra el convenio y se llega a la quiebra.
+b. La base del pago de honorarios del Conciliador será la indicada en la regla 44 fracción II.
 
-> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2005)</small>
+c. Si se logra la celebración del convenio, el Conciliador recibirá el 100% de los honorarios según la tarifa de la regla 51. Se reducirán sus honorarios a un 35% si no se logra el convenio y se llega a la quiebra.
 
-IV. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos el 75% del monto total reconocido podrán pactar con el conciliador, si hay circunstancias especiales que así lo justifiquen, un régimen distinto de honorarios. El convenio así alcanzado deberá contar con el visto bueno de la Junta Directiva del Instituto.
+II. El conciliador que actúe en un concurso con plan de reestructura previo, percibirá sus honorarios en los términos indicados en la Regla 45, fracción II.
 
-V. El honorario pagado al Conciliador, conforme a lo aquí establecido, incluye lo que éste deba de pagar a sus auxiliares.
+III. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos el 75% del monto total reconocido podrán pactar con el conciliador, si hay circunstancias especiales que así lo justifiquen, un régimen distinto de honorarios y gastos. El convenio así alcanzado deberá contar con el visto bueno de la Junta Directiva del Instituto.
 
-> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2005)</small>
-
-VI. Se exceptúa de lo dispuesto en las fracciones I a III y V de la presente regla los casos de Conciliadores designados en procesos en los que su labor se circunscriba solamente al proceso de reconocimiento, graduación y prelación de créditos omitiéndose la etapa de conciliación por así disponerlo la Ley o la autoridad competente para ello, o porque así haya sido solicitado por el propio Comerciante. En estos casos el Conciliador deberá calcular sus honorarios conforme a las bases fijadas en las reglas 46 y 47 con las siguientes modalidades:
-
-a) El estimado de las horas a que se refiere la fracción II de la regla 47, con su correspondiente justificación, se presentará al Instituto para su aprobación dentro de los cinco días siguientes al de la segunda publicación de la sentencia de concurso en el Diario Oficial de la Federación.
-
-b) Cada quince días naturales el Conciliador presentará al Instituto un informe de tiempos empleados.
-
-c) En esa misma ocasión presentará para su aprobación un pronóstico de los tiempos a emplear en el siguiente mes si dichos tiempos exceden de un 10% del presupuesto acordado.
-
-d) En los tiempos que reporte el Conciliador no deberán incluirse los dedicados a las labores de capacitación y supervisión que realice con el Instituto.
-
-e) La labor del Conciliador concluirá una vez que quede firme la sentencia de reconocimiento, graduación y prelación de créditos. Los tiempos que emplee el Conciliador en la apelación de dicha sentencia actuando exclusivamente en su carácter de acreedor no se contarán para efectos de honorarios.
+IV. El honorario pagado al Conciliador, conforme a lo aquí establecido, incluye lo que éste deba de pagar a sus auxiliares.
 
 Regla 50.- En el caso del Síndico, su remuneración deberá estar vinculada a su desempeño, conforme al siguiente criterio:
 
@@ -361,7 +375,9 @@ I. Siendo el objetivo principal del Síndico el pago de las obligaciones con la 
 
 II. La base del pago de honorarios del Síndico será el valor de realización de los activos, disminuyendo del mismo los gastos hechos para obtener dicha realización.
 
-III. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos el 75% del monto total reconocido podrán pactar con el Síndico, si así lo desean, un régimen distinto de honorarios. El convenio así alcanzado deberá contar con el visto bueno de la Junta Directiva del Instituto.
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 2008)</small>
+
+III. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos el 75% del monto total reconocido podrán pactar con el Síndico, si así lo desean, un régimen distinto de honorarios y gastos. El convenio así alcanzado deberá contar con el visto bueno de la Junta Directiva del Instituto.
 
 IV. El honorario pagado al Síndico, conforme a lo aquí establecido, incluye lo que éste deba de pagar a sus auxiliares.
 
@@ -373,7 +389,9 @@ Regla 51.- La tarifa de honorarios para el Conciliador y el Síndico, será la q
 
 ### Capítulo Cuarto. De los Gastos de los Especialistas
 
-Regla 52.- Durante el desempeño de sus funciones, los Especialistas podrán incurrir en gastos, que serán créditos contra la Masa, siempre y cuando cumplan con los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 2008)</small>
+
+Regla 52.- Durante el desempeño de sus funciones, los Especialistas podrán incurrir en gastos, siempre y cuando cumplan con los siguientes requisitos:
 
 I. Que sean estrictamente necesarios para el cumplimiento de sus funciones. Se entenderán como estrictamente necesarios aquellos sin los cuales hubiera sido imposible llevar a cabo la función o se hubiere generado un gasto mayor.
 
@@ -381,7 +399,9 @@ II. Que estén documentados cumpliendo con los requisitos fiscales.
 
 III. En ningún caso se podrán incluir como gastos los gastos propios de la oficina del Especialista.
 
-IV. Los gastos serán presentados para su aprobación al Instituto quien calificará si se cumplen los requisitos anteriores.
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 2008)</small>
+
+IV. Previamente a la presentación de los incidentes de cuantificación de gastos, deberán presentarse al Instituto para calificar si se cumplen los requisitos anteriores.
 
 ## TITULO VII - CAUCION DE CORRECTO DESEMPEÑO
 
@@ -520,3 +540,11 @@ PRIMERO. Con independencia de lo dispuesto por la regla 2 de las Reglas de Cará
 SEGUNDO. Las cauciones de correcto desempeño de los Especialistas que han iniciado sus labores antes de la entrada en vigencia de esta reforma, se determinarán conforme a las Reglas de Carácter General de la Ley de Concursos Mercantiles, vigentes al momento de su designación.
 
 TERCERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE ENERO DE 2008.
+
+PRIMERA. Con independencia de lo dispuesto por la RegIa 2 de las Reglas de Carácter General de la Ley de Concursos Mercantiles, y sin perjuicio de ello, se ordena publicar este acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDA. Los honorarios de los especialistas que han iniciado labores antes de la entrada en vigencia de esta reforma, se determinarán conforme al nuevo texto que se reforma en el presente, salvo aquellos que hayan sido aprobados mediante sentencia, los cuales se pagarán en los términos de ésta.
+
+TERCERA. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
