@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2007-11-14"
+last_updated: "2008-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS, SU ENTRADA EN VIGOR SERA SIMULTANEAMENTE CON LA LEY DE JUSTICIA PARA ADOLESCENTES DEL DISTRITO FEDERAL.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -1966,9 +1964,9 @@ La designación y remoción del Oficial Mayor serán hechas por el Consejo de la
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO XIII. Del Centro de Justicia Alternativa
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
 
 ###### Artículo 183.
 
@@ -1980,7 +1978,7 @@ La Dirección Jurídica contará con un Director y los demás servidores públic
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO I. Denominación, Objeto, Integración y Funcionamiento
+### CAPITULO UNICO
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1994,7 +1992,9 @@ El Coordinador de Relaciones Institucionales deberá cumplir con los requisitos 
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO II. Facultades del Consejo de la Judicatura del Distrito Federal
+### CAPITULO I. Denominación, Objeto, Integración y Funcionamiento
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 185.
 
@@ -2010,9 +2010,9 @@ El Director deberá cumplir con los requisitos del artículo 17 de esta ley, sal
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. Facultades del Consejo de la Judicatura del Distrito Federal
 
-> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE ENERO DE 2008)</small>
 
 ###### Artículo 186.
 
@@ -2028,15 +2028,97 @@ III. Contar con experiencia mínima de cinco años y la capacidad indispensables
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 8 DE ENERO DE 2008)</small>
+
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTICULO 204], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
+
+###### Artículo 186 Bis.
+
+El Centro de Justicia Alternativa es una dependencia del Tribunal que cuenta con autonomía técnica y de gestión, y se instituye para administrar y substanciar los métodos alternos de solución de controversias, particularmente la mediación, para la atención de los conflictos de naturaleza civil, mercantil, familiar o penal, entre particulares, así como para su desarrollo.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
+
+###### Artículo 186 Bis 1.
+
+El Centro de Justicia Alternativa tiene por objeto:
+
+I. El desarrollo y la administración eficaz y eficiente de los métodos alternos de solución de controversias, principalmente de la mediación;
+
+II. La prestación de los servicios de información al público, sobre los métodos alternativos de solución de controversias y en particular, sobre la Mediación; así como de orientación jurídica, psicológica y social a los mediados, durante la substanciación de aquella;
+
+III. La capacitación, certificación, selección, registro y monitoreo de los mediadores; para el servicio público y privado, a efecto de garantizar altos índices de competencia profesional;
+
+IV. La difusión y divulgación permanente de los servicios que presta;
+
+V. El fortalecimiento de sus funciones y la ampliación de sus metas, a partir de su experiencia y del intercambio permanente con instituciones públicas, privadas, nacionales y extranjeras;
+
+VI. La supervisión constante de su servicio y su retroalimentación oportuna, para mantenerlo dentro de niveles superiores de calidad;
+
+VII. El apoyo al trabajo jurisdiccional del Tribunal;
+
+VIII. El diseño y actualización de su normatividad interna, que será aprobada por el Pleno del Consejo;
+
+IX. La optimación de sus servicios a través de la aplicación de programas estratégicos de investigación, planeación y modernización científica y tecnológica; y
+
+XI (SIC). Cumplir con las disposiciones legales aplicables, así como con las que le atribuya expresamente esta Ley, sus disposiciones reglamentarias y los acuerdos que emita el Consejo.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
+
+###### Artículo 186 Bis 2.
+
+El Centro contará con un Director General, del cual partirá la estructura necesaria del mismo, para el desarrollo eficaz y eficiente de sus funciones, así como con una planta de mediadores especializados y el personal técnico y administrativo que para ello requiera.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
+
+###### Artículo 186 Bis 3.
+
+El Director General será designado por el Consejo, para un periodo de cuatro años, con posibilidad de ratificación por otro periodo igual consecutivo. En su persona se reunirán una formación y experiencia multidisciplinarias en Derecho, Psicología, Sociología u otras áreas del conocimiento aplicables a los métodos alternos de solución de controversias.
+
+Durante el ejercicio de su encargo, el Director General sólo podrá ser removido por la comisión de delitos dolosos o por actualizarse en su persona alguno de los supuestos siguientes:
+
+I. El incumplimiento de sus atribuciones o negligencia en el desempeño de las mismas;
+
+II. Padecer incapacidad mental o física durante más de seis meses, que impida el correcto ejercicio de sus funciones;
+
+III. El desempeño de algún empleo, cargo o comisión distinto a los no remunerados de carácter docente o en instituciones de asistencia social, públicas o privadas;
+
+IV. Dejar de ser ciudadano mexicano o dejar de cumplir alguno de los requisitos para ejercer el cargo;
+
+V. No cumplir los acuerdos del Consejo o actuar deliberadamente de manera grave en exceso o defecto de sus atribuciones;
+
+VI. Utilizar en beneficio propio o de terceros la información confidencial de que disponga en razón de su cargo, o divulgarla sin la autorización del Consejo;
+
+VII. Someter a la consideración del Consejo información falsa teniendo conocimiento de ello; y
+
+VIII. Ausentarse de sus labores por más de tres días hábiles consecutivos sin la autorización del Presidente del Consejo, o sin mediar causa de fuerza mayor o motivo justificado.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
+
+###### Artículo 186 Bis 4.
+
+Para ser Director General del Centro de Justicia Alternativa se deberán reunir los requisitos siguientes:
+
+I. Ser mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener por lo menos treinta años de edad, cumplidos al día de la designación;
+
+III. Tener título y cédula profesionales de estudios de licenciatura, con experiencia relacionada con la función sustantiva del Centro;
+
+IV. Tener práctica profesional mínima de cinco años, contados a partir de la fecha de expedición del título profesional;
+
+V. Haber residido en el Distrito Federal durante el último año anterior al día de la designación;
+
+VI. Gozar de buena reputación; y
+
+VII. No haber sido condenado por delito doloso.
 
 ## TITULO NOVENO. De la Carrera Judicial
 
-### CAPITULO I. De las Responsabilidades de los Servidores Públicos de la Administración de Justicia
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTICULO 204], G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 187.
 
@@ -2152,7 +2234,7 @@ V. Los demás que estime pertinentes, siempre que consten en acuerdos generales 
 
 ## TITULO DECIMO. Del Consejo de la Judicatura del Distrito Federal
 
-### CAPITULO II. De las Faltas
+### CAPITULO I. De las Responsabilidades de los Servidores Públicos de la Administración de Justicia
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2236,13 +2318,13 @@ La ejecución de las resoluciones deberá realizarse por conducto de los órgano
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
+### CAPITULO II. De las Faltas
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 201.
 
-Son facultades del Consejo de la Judicatura del Distrito Federal, las siguientes:
+Son facultades del Consejo de la Judicatura del Distrito Federal las siguientes:
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2296,9 +2378,9 @@ XII. Designar a un Secretario General del Consejo, el cual asistirá a las sesio
 
 XIII. Designar al Jurado que con la cooperación de instituciones públicas o privadas se integrará para el examen que presentarán las personas que deban ejercer los cargos de peritos, en los asuntos que se tramiten ante el Tribunal y dentro de los requisitos que esta Ley señale;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003 (F. DE E., G.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2008)</small>
 
-XIV. Nombrar al Oficial Mayor; al Contralor General; al Director del Archivo Judicial del Distrito Federal; al Director General de los Anales de Jurisprudencia y Boletín Judicial; al Director General del Instituto de Estudios Judiciales, al Visitador General; a los Visitadores Judiciales; al Director Jurídico; al Coordinador de Relaciones Institucionales; al Jefe de la Unidad de Trabajo Social; al Director del Servicio de Informática; al Encargado del Servicio de Biblioteca; al Director General de Procedimientos Judiciales, a los Directores de esta Unidad; al Director de Orientación Ciudadana y Derechos Humanos; al Coordinador de Comunicación Social, y al Director del Centro de Convivencia Familiar Supervisada;
+XIV. Nombrar al Oficial Mayor; al Contralor General; al Director del Archivo Judicial del Distrito Federal; al Director General de los Anales de Jurisprudencia y Boletín Judicial; al Director General del Instituto de Estudios Judiciales; al Visitador General; a los Visitadores Judiciales; al Director Jurídico; al Coordinador de Relaciones Institucionales; al Jefe de la Unidad de Trabajo Social; al Director del Servicio de Informática; al Encargado del Servicio de Biblioteca; al Director General de Procedimientos Judiciales, a los Directores de esta Unidad; al Director de Orientación Ciudadana y Derechos Humanos; al Coordinador de Comunicación Social, al Director del Centro de Convivencia Familiar Supervisada; y al Director General del Centro de Justicia Alternativa;
 
 XV. Nombrar a los servidores públicos judiciales de base y de confianza, cuya designación no esté reservada a otra autoridad judicial, en los términos de esta Ley;
 
@@ -2352,9 +2434,9 @@ V. Presidir el Pleno del Consejo, sus comisiones, con excepción de la de Discip
 
 VI. Convocar a sesión extraordinaria cada vez que lo estime necesario, o si así lo piden más de dos consejeros;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCION VIII], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2008)</small>
 
-VII. Proponer al Consejo de la Judicatura del Distrito Federal el nombramiento y remoción de los siguientes funcionarios: Oficial Mayor; Contralor General; Director General de los Anales de Jurisprudencia y Boletín Judicial; Director General del Instituto de Estudios Judiciales; Director del Archivo Judicial del Distrito Federal; Visitador General; Visitadores Judiciales; Director Jurídico; Coordinador de Relaciones Institucionales; Jefe de la Unidad de Trabajo Social; Director del Servicio de Informática; Encargado del Servicio de Biblioteca; Director General de Procedimientos judiciales, Directores de esa Unidad; Director de Orientación Ciudadana y Derechos Humanos; Coordinador de Comunicación Social, y al Director del Centro de Convivencia Familiar Supervisada;
+VII. Proponer al Consejo de la Judicatura del Distrito Federal el nombramiento y remoción de los siguientes funcionarios: Oficial Mayor; Contralor General; Director General de los Anales de Jurisprudencia y Boletín Judicial; Director General del Instituto de Estudios Judiciales; Director del Archivo Judicial del Distrito Federal; Visitador General; Visitadores Judiciales; Director Jurídico; Coordinador de Relaciones Institucionales; Jefe de la Unidad de Trabajo Social; Director del Servicio de Informática; Encargado del Servicio de Biblioteca; Director General de Procedimientos Judiciales, Directores de esa Unidad; Director de Orientación Ciudadana y Derechos Humanos; Coordinador de Comunicación Social, Director del Centro de Convivencia Familiar Supervisada; y Director General del Centro de Justicia Alternativa;
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCION IX], G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2386,7 +2468,7 @@ XIV. Las demás que determinen las leyes y el reglamento interior del Consejo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO IV. Del Recurso de Revisión Administrativa
+### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2414,7 +2496,7 @@ Los Visitadores deberán realizar visitas administrativas ordinarias cada tres m
 
 Ningún Visitador podrá visitar los mismos órganos por más de dos ocasiones en un año.
 
-> <small>(ADICIONADO, G.O. 24 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 206.
 
@@ -2450,7 +2532,7 @@ El Consejo de la Judicatura del Distrito Federal podrá ordenar la realización 
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO IV. Del Recurso de Revisión Administrativa
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2473,6 +2555,10 @@ Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasar
 ## TÍTULO DÉCIMO TERCERO. De las Responsabilidades oficiales
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 210.
 
@@ -2991,3 +3077,17 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 SEGUNDO.- El presente decreto entrará en vigor simultáneamente con la Ley sobre Justicia para Adolescentes del Distrito Federal, que para tal efecto aprobará la Asamblea Legislativa del Distrito Federal.
 
 TERCERO.- El Tribunal Superior de Justicia deberá presupuestar para el ejercicio 2007, los recursos para crear la infraestructura suficiente y el personal necesario para que se proceda a la aplicación de la Ley sobre Justicia para Adolescentes.
+
+G.O. 8 DE ENERO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días naturales posteriores a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+CUARTO. El Tribunal Superior de Justicia del Distrito Federal deberá realizar las previsiones presupuestales necesarias para dotar del personal y de la infraestructura necesaria al Centro para su adecuado funcionamiento en los términos que señala el presente Decreto.
+
+QUINTO. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para emitir el reglamento interno correspondiente.
+
+SEXTO. La Comisión de Administración y Procuración de Justicia conformará una comisión multidisciplinaria donde participe, cuando menos, la Consejería Jurídica del Gobierno del Distrito Federal, el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, académicos e investigadores con experiencia en la materia; con la finalidad de elaborar, en el plazo de un año, contado a partir del día siguiente de la fecha de entrada en vigor de la presente ley, de la iniciativa de ley que para la solución de controversias en todos los ámbitos de interacción social, requiere el Distrito Federal.
