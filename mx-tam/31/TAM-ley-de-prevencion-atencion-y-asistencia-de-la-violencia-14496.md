@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-atencion-y-asistencia-de-la-violencia-14496"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-05"
-last_updated: "2006-09-06"
+last_updated: "2008-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCION, ATENCION Y ASISTENCIA DE LA VIOLENCIA INTRAFAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de junio de 1999.
 
@@ -47,21 +47,31 @@ LEY DE PREVENCION, ATENCION Y ASISTENCIA DE LA VIOLENCIA INTRAFAMILIAR
 
 Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto establecer las bases y los procedimientos para la prevención, atención y asistencia de la violencia intrafamiliar en el Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 2o.
 
-Se entiende por violencia intrafamiliar aquel acto de poder u omisión recurrente, intencional y cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia, dentro o fuera del domicilio familiar, que tenga alguna relación de parentesco por consanguinidad, tenga o lo haya tenido por afinidad, civil, matrimonio o concubinato, o mantenga una relación de hecho y que tienda a causar daño, consistente en cualquiera de las siguientes clases:
+Se entiende por violencia intrafamiliar aquel acto de poder u omisión recurrente intencional, cíclico y progresivo, dirigido a dominar, someter y controlar a través de la agresión física, verbal, el abandono, negligencia, psicoemocional, sexual o económica a cualquier miembro de la familia que tenga alguna relación jurídica o de parentesco, ya sea por consaguinidad, tenga o la haya tenido por afinidad, civil, matrimonio o concubinato o simplemente que mantenga una relación de hecho, y que cuyo propósito sea ocasionar daño o lesionar a otra persona consistente en cualquiera de las siguientes manifestaciones:
 
-I.- Maltrato Físico.- Todo acto de agresión intencional y repetitivo, en el que se utilice alguna parte del cuerpo o se emplee algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de otro, encaminado a su sometimiento y control;
+I.- Maltrato Físico. Todo acto de agresión intencional, repetitivo y cíclico que se ejerce sobre el cuerpo en una variedad de manifestaciones que van desde el pellizco o jalón de cabellos, hasta ocasionar lesiones graves con pérdida de órganos, las capacidades mental o motriz, o la perdida de alguna parte del cuerpo de quien las recibe, producida con manos pies, objetos, como cinturones, utensilios domésticos o instrumentos cortante, punzo cortantes o punzo contundente, armas o sustancias para sujetar o cualquier otro objeto, así como, inmovilizar o causar daño a la integridad física de otra persona mediante sometimiento y control;
 
-II.- Maltrato Psicoemocional.- Todo acto u omisión repetitivo, consistente en cualquier clase de prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, que provoque en quien las recibe deterioro o disminución de la autoestima y devaluación de autoconcepto; y,
+II.- Maltrato Psicoemocional. Todo acto u omisión repetitivo consistente en insulto, burla, silencios prolongados, prohibiciones, amenazas, intimidación, actitudes ofensivas, infidelidad manifiesta o la acusación infundada de ello, así como las actitudes devaluatorias o de abandono que provoquen en quien las recibe deterioro o disminución de la autoestima y devaluación del autoconcepto;
 
-III.- Maltrato Sexual.- Aquel acto u omisión reiterado que inflige burla y humillación de la sexualidad, niega las necesidades sexoafectivas, coacciona a realizar actos o prácticas sexuales no deseadas o que generen dolor, practicar la celotipia, para el control, manipulación o dominio de la persona y que generen un daño. Así como los delitos contra la libertad y el normal desarrollo psicosexual, respecto de los cuales la presente Ley sólo surte sus efectos en el ámbito asistencial y preventivo.
+III.- Maltrato Sexual. Es aquel acto ejecutado por una persona en perjuicio de otra para estimularse o satisfacerse sexualmente, mediante coacción, que produzcan o no dolor, sin ameritar contacto físico directo en forma de penetración o de tocamientos, bastando el hecho de ser utilizado u otro para obtener placer. Tratándose de menores, no importa que se realice con el consentimiento de la víctima, pues carece de madurez y entendimiento necesarios para eludir y evitar el daño;
+
+IV.- Maltrato Económico. Consiste en la omisión dolosa del pago de los gastos generados por la familia, o bien cubrir sólo un (sic) parte de los mismos, sin causa fundada para ello;
+
+V.- Abandono. Situación de desamparo que se genera en un menor, un discapacitado o un adulto mayor, cuando los padres, tutores o responsables de su protección o cuidado dejen de proporcionarles los medios básicos de subsistencia y los cuidados o atenciones necesarias para su desarrollo integral y sostenimiento sin perjuicio de lo que prevengan otras leyes;
+
+VI.- Negligencia. Omisión de cuidados y supervisión esenciales para la vida y el adecuado desarrollo psicológico y social de una persona.
 
 ###### ARTICULO 3o.
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Generadores de violencia intrafamiliar.- Quienes realicen actos de maltrato físico, verbal, psicoemocional y/o sexual hacia las personas con las que tengan algún vínculo familiar;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2008)</small>
+
+I.- Generadores de violencia intrafamiliar.- Quienes realicen actos de maltrato físico, verbal, económico, de abandono, negligencia, psicoemocional o sexual hacia las personas con las que tenga algún vínculo familiar o habiten en el mismo domicilio, en términos del primer párrafo del artículo anterior;
 
 II.- Receptores de violencia intrafamiliar.- Los individuos o grupos vulnerables que sufren el maltrato físico, verbal, psicoemocional y/o sexual en su esfera biopsicosexual;
 
@@ -79,11 +89,105 @@ VII.- Secretarías.- Secretaría General de Gobierno, Secretaría de Desarrollo 
 
 VIII.- D.I.F..- Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 4o.
 
-Corresponde la aplicación de esta Ley, al Gobierno del Estado y a los Ayuntamientos, a través de los Sistemas para el Desarrollo Integral de la Familia en el Estado de Tamaulipas, por conducto de las Procuradurías de la Defensa del Menor y la Familia, a la Secretaría General de Gobierno, a la Secretaría de Desarrollo Social, Cultura y Deporte y a la Procuraduría General de Justicia del Estado, en el ámbito de sus respectivas competencias.
+La aplicación de la presente ley corresponde al titular del Poder Ejecutivo a través de la Secretaría General de Gobierno, la Secretaría de Salud, la Secretaría de Educación, la Secretaría de Seguridad Pública, la Procuraduría General de Justicia y el Sistema Estatal para el Desarrollo Integral de la Familia. A los Ayuntamientos les corresponde en su respectivo ámbito de competencia, por conducto del Sistema Municipal para el Desarrollo Integral de la Familia. Así como al Poder Judicial a través de sus Juzgados y Salas Familiares y Penales.
+
+El Gobierno del Estado, a través de las Secretarías y Dependencias establecidas en el presente artículo, implementarán los programas o acciones permanentes de prevención atención y asistencia a victimas de violencia intrafamiliar. Para efecto de la aplicación de la ley, dichas instancias establecerán los mecanismos de coordinación institucional correspondientes que resulten necesarios para el cumplimiento del objeto y fines de esta ley, así como de las demás disposiciones de la materia.
+
+Sin demérito de lo anterior, se asignan en lo particular las siguientes atribuciones:
+
+I.- A la Secretaría General de Gobierno le corresponde:
+
+Coadyuvar a través de la Dirección del Registro Civil a la difusión del contenido y alcance de la presente ley a quienes contraigan matrimonio o registren a un menor.
+
+II.- A la Secretaria de Salud, por conducto de las Unidades de Atención le corresponde:
+
+a) Atender las denuncias de las víctimas y de aquellos que tengan conocimiento de actos de violencia intrafamiliar, canalizándolas inmediatamente ante el Ministerio Público;
+
+b) Celebrar convenios con las instituciones de salud, tanto públicas como privadas, a fin de que éstas puedan participar en el cumplimiento de la presente ley, a efecto de proporcionar oportunamente la asistencia necesaria a los receptores o víctimas de violencia intrafamiliar; y
+
+c) Fomentar la sensibilización así como proporcionar los elementos de información y capacitación sobre medidas de prevención y atención de violencia intrafamiliar al personal que atiende a los receptores o víctimas de violencia intrafamiliar.
+
+III.- A la Secretaría de Educación le corresponde:
+
+a) Apoyar a la investigación sobre la violencia intrafamiliar dentro y fuera del proceso educativo, aportando sus resultados para diseñar estrategias de prevención y tratamiento;
+
+b) Diseñar programas para la prevención y tratamiento de la violencia intrafamiliar en el Sector Educativo a nivel estatal;
+
+c) Difundir en forma permanente los programas de prevención de la violencia intrafamiliar, involucrando a estudiantes y padres de familia para ese fin;
+
+d) Realizar campañas públicas en coordinación con otras organizaciones sociales para concientizar a la población sobre la violencia intrafamiliar;
+
+e) Sensibilizar y capacitar al personal docente para detectar en los centros educativos casos concretos de violencia intrafamiliar y canalizarlos a las Unidades de Atención, al Sistema DIF del municipio que corresponda o bien, de ser preciso, a la Agencia del Ministerio Público que corresponda, para su atención y trámites necesarios; y,
+
+f) Las demás que le confiera esta ley y otras disposiciones legales.
+
+IV.- A la Secretaría de Seguridad Pública le corresponde:
+
+a) Intervenir en la prevención, atención y asistencia de la violencia intrafamiliar debiendo atender los llamados de auxilio del receptor o víctima de ésta, o del familiar o vecino que tenga conocimiento de los actos de violencia. Para ese efecto, proporcionará línea telefónica de emergencia y servicio de información pública sobre el reporte de casos, pudiendo recibir además las denuncias formuladas por la victima o por terceras personas que tengan conocimiento de ello, poniéndolos a disposición del Agente del Ministerio Público de la Defensa del Menor, la Mujer y la Familia, sin perjuicio de auxiliar a la víctima o a su familia;
+
+b) Hacer llegar los diversos citatorios o notificaciones que emita la Procuraduría de la Defensa del Menor, la Mujer y la Familia a los presuntos generadores violencia (sic) intrafamiliar;
+
+c) Incluir en su programa de formación policial, la capacitación sobre violencia intrafamiliar; y
+
+d) Establecer dentro de los programas de readaptación, los terapéutico-educativos encaminados a erradicar la violencia intrafamiliar.
+
+V.- A la Procuraduría General de Justicia, por conducto del Ministerio Público le corresponde:
+
+a) Solicitar al órgano jurisdiccional competente, dicte las medidas provisionales a fin de proteger los derechos de los receptores o víctimas de violencia intrafamiliar y aplique, en su caso, los medios de apremio procedentes con motivo de infracciones cometidas a la presente ley;
+
+b) Otorgar asesoría y orientación jurídica, según sea el caso, a las personas que resulten víctimas de violencia intrafamiliar;
+
+c) Canalizar a las víctimas de delitos resultantes de violencia intrafamiliar a los centros de salud o a las Procuradurías de la Defensa del Menor, la Mujer y la Familia que corresponda para recibir atención psicológica;
+
+d) Proporcionar ayuda mediante la intervención de la Policía Ministerial, cuando por teléfono se denuncie un caso de violencia intrafamiliar;
+
+e) Las demás que le confieran la presente ley y otros ordenamientos legales.
+
+VI.- Al Sistema Estatal para el Desarrollo Integral de la Familia le corresponde:
+
+a) Promover programas y acciones de protección a receptores o víctimas de violencia intrafamiliar;
+
+b) Prestar servicios de atención y asesoría jurídica, psicológica y social a receptores y generadores de la violencia intrafamiliar;
+
+c) Remitir ante las instituciones competentes los casos de violencia intrafamiliar detectados con motivo de la ejecución de sus programas de asistencia social;
+
+d) Implementar programas para detectar casos de violencia intrafamiliar en instituciones de asistencia social y para capacitar personal de instancias públicas o privadas que atiendan ese tipo de manifestaciones de violencia;
+
+e) Promover la creación y funcionamiento de centros de protección y asistencia a receptores de violencia intrafamiliar;
+
+f) Promover la convivencia armónica familiar en los hogares donde exista violencia intrafamiliar, incorporando a sus integrantes en la operación de los programas que se elaboren para ese fin;
+
+g) Elaborar y difundir material de información a las familias para la prevención de la violencia intrafamiliar; y,
+
+h) Fomentar, en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre la violencia intrafamiliar con el propósito de diseñar nuevos modelos para su prevención y atención.
+
+VII.- A los Sistemas Estatal y Municipal para el Desarrollo Integral de la Familia, les corresponde:
+
+a) Recibir quejas o denuncias sobre casos de violencia intrafamiliar, dando conocimiento de los mismos, en su caso, a las autoridades competentes para el inicio de las acciones legales que procedan;
+
+b) Recabar la información necesaria en casos de violencia intrafamiliar, y dar vista a la autoridad competente;
+
+c) Gestionar ante las autoridades competentes las medidas de protección y seguridad urgentes y necesarias a favor de los receptores de violencia intrafamiliar, especialmente de los incapaces, menores y personas de la tercera edad, a fin de que éstos no sigan expuestos a esa situación y reciban oportunamente la atención y tratamiento requerido;
+
+d) Remitir a los receptores y generadores de violencia intrafamiliar ante las instituciones competentes para su atención y tratamiento correspondiente;
+
+e) Instaurar los procedimientos de conciliación o, en su caso, arbitraje, a que se refiere la presente ley; y,
+
+f) Solicitar los informes, datos estadísticos y el auxilio de las autoridades estatales o municipales competentes, cuando lo requiera para el cumplimiento de sus funciones.
+
+VIII.- Al Poder Judicial del Estado, a través de los titulares de los órganos jurisdiccionales:
+
+a) Requerir cuando así lo determine, la realización de estudios, investigaciones, informes, dictámenes, procesos psicoterapéuticos de agresores y receptores de violencia intrafamiliar y, en general, todo aquél estudio que sea necesario en la secuela procedimental de violencia intrafamiliar.
+
+b) Acordar de manera urgente e inmediata, hasta en tanto se resuelva el procedimiento en definitiva, las medidas de protección y seguridad, pudiéndose aplicar más de una de las siguientes medidas:
+
+1.- Prevenir al agresor se separe de la residencia común y se ordene la entrega de su ropa y los bienes que sean necesarios para el trabajo que realice, de acuerdo a lo establecido en el artículo 259 del Código Civil para el Estado; y
+
+2.- Ordenar la asistencia obligatoria a instituciones oficiales que ejecuten los programas terapéutico-educativos para su readaptación; (sic)
 
 ## TITULO SEGUNDO
 
@@ -145,23 +249,7 @@ Para los efectos de esta Ley, se entiende por Prevención a las medidas encamina
 
 ###### ARTICULO 9o.
 
-Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado y de los Ayuntamientos, a través de las Procuradurías de la Defensa del Menor y la Familia, a las Secretarías y a la Procuraduría General de Justicia, en el ámbito de sus respectivas competencias, las siguientes acciones:
-
-I.- Promover programas educativos para la prevención de la violencia intrafamiliar con las instancias competentes;
-
-II.- Proporcionar sensibilización y capacitación sobre violencia intrafamiliar en las salas de consulta externa de los hospitales generales, maternoinfantiles y pediátricos del Estado; así como al personal médico dependiente del Sector Salud;
-
-III.- Fomentar campañas públicas encaminadas a sensibilizar y concientizar a la población sobre las formas en que se expresa y se puede combatir la violencia intrafamiliar, con los organismos que sean competentes;
-
-IV.- Concertar con organizaciones civiles para incorporar sus acciones y estadísticas al sistema de información del Estado;
-
-V.- Impulsar la formación de promotores comunitarios, cuya función básica será estimular los programas de prevención de la violencia intrafamiliar;
-
-VI.- Fomentar la realización de investigaciones cuyos resultados servirán para diseñar nuevos modelos para la prevención y atención de la violencia intrafamiliar;
-
-VII.- Promover programas de intervención temprana en comunidades de escasos recursos para prevenir, desde donde se generan, la violencia intrafamiliar, incorporando a la población en la operación de dichos programas; y
-
-VIII.- Publicitar debidamente los objetivos de esta Ley, para que las Instituciones Educativas, de salud o cualquier persona que tenga conocimiento de casos sobre violencia intrafamiliar, lo comuniquen inmediatamente a las autoridades competentes.
+(DEROGADO, P.O. 8 DE ENERO DE 2008)
 
 ### CAPITULO II. DE LA ATENCION Y ASISTENCIA
 
@@ -179,9 +267,11 @@ Se podrá hacer extensiva la atención en Instituciones Públicas a quienes haya
 
 El personal de las instituciones a que se refieren los dos Artículos anteriores, deberán ser profesionales acreditados por algún organismo especializado, público o privado, y contar con capacitación y sensibilización, así como el perfil y aptitudes adecuadas, debiendo contar con el registro de profesiones correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 13.
 
-Corresponde al Sistema para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de la Defensa del Menor y la Familia:
+Corresponde al Sistema para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de la Defensa del Menor, la Mujer y la Familia:
 
 I.- Fomentar la instalación de centros de atención inmediata a mujeres y niños víctimas de la violencia intrafamiliar, en coordinación con las autoridades correspondientes;
 
@@ -199,7 +289,9 @@ VII.- Citar a los involucrados y reincidentes en eventos de violencia intrafamil
 
 VIII.- Instrumentar procedimientos administrativos para la atención de la violencia intrafamiliar;
 
-IX.- Resolver en los casos en que funja como amigable componedor y sancionar el incumplimiento del convenio que se hubiere suscrito entre las partes en conflicto;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2008)</small>
+
+IX.- Resolver en los casos en que funja como mediador y sancionar el incumplimiento del convenio que se hubiere suscrito entre las partes en conflicto;
 
 X.- Proporcionar psicoterapia especializada gratuita a mujeres, hombres, menores de edad, personas de la tercera edad o con discapacidad que sean maltratados, así como a los agresores, dentro de una atención psicojurídica;
 
@@ -225,35 +317,33 @@ IV.- Las demás que le confieren las Leyes correspondientes.
 
 ###### ARTICULO 15.
 
-En materia de violencia intrafamiliar, la Secretaría General de Gobierno, a través de sus Dependencias, deberá:
+(DEROGADO, P.O. 8 DE ENERO DE 2008)
 
-I.- Coadyuvar a través del Registro Civil, a la difusión del contenido y alcances de la presente Ley, a quienes contraigan matrimonio o registren a un menor;
-
-II.- Promover la capacitación y sensibilización de los defensores y personal profesional auxiliar, que presten sus servicios en la Defensoría de Oficio, con el propósito de mejorar la atención de los receptores y generadores de la violencia intrafamiliar que requieran la intervención de dicha Defensoría;
-
-III.- Coadyuvar, a través de la Dirección de Seguridad Pública, haciendo llegar los diversos citatorios a que hace alusión el Artículo 13 Fracción VII, de la presente Ley, a los presuntos generadores de violencia intrafamiliar; y
-
-IV.- Además, incluir en su programa de formación policíaca, capacitación sobre violencia intrafamiliar.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 16.
 
-Los órganos jurisdiccionales a través de sus titulares, una vez que conozcan de juicios o procesos en donde se desprenda que existe violencia intrafamiliar, podrán solicitar al Sistema para el Desarrollo Integral de la Familia o, en su caso, a las Instituciones debidamente acreditadas ante el Consejo, la realización de los estudios e investigaciones correspondientes, las que remitirán los informes, dictámenes, procesos psicoterapéuticos de agresores y receptores de violencia intrafamiliar y, en general, todos aquellos que les sean de utilidad.
+Los órganos jurisdiccionales a través de sus titulares, una vez que conozcan de juicios o procesos en donde se desprenda que existe violencia intrafamiliar, deberán solicitar al Sistema para el Desarrollo Integral de la Familia o, en su caso, a las instituciones debidamente acreditadas ante el Consejo, la realización de los estudios e investigaciones correspondientes, las que remitirán los informes, dictámenes, procesos psico-terapéuticos de agresores y receptores de violencia intrafamiliar y, en general, todos aquellos que les sean de utilidad.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 17.
 
-Las partes en un conflicto familiar podrán resolver sus diferencias mediante los procedimientos de conciliación y de amigable composición, que estará a cargo del Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de la Defensa del Menor y la Familia.
+Las partes en un conflicto familiar podrán resolver sus diferencias mediante los procedimientos de conciliación. Asimismo, por mediación familiar, que estará a cargo del Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
 
 Quedan exceptuadas aquellas controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persigan de oficio.
 
 ## TITULO CUARTO
 
-### CAPITULO I. DE LOS PROCEDIMIENTOS CONCILIATORIO
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE ENERO DE 2008)</small>
 
-Y DE AMIGABLE COMPOSICION
+### CAPITULO I. DE LOS PROCEDIMIENTOS CONCILIATORIO Y LA MEDlACION
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 18.
 
-Los procedimientos de solución de los conflictos familiares a que se refiere el Artículo anterior, se llevarán a cabo en una sola audiencia. La amigable composición y conciliación podrá suspenderse por una sola vez, a efecto de reunir todos los elementos de convicción necesarios para apoyar las propuestas de las partes.
+Los procedimientos de solución de los conflictos familiares a que se refiere el artículo anterior, se llevarán a cabo en una sola audiencia. La conciliación y la mediación familiar podrán suspenderse por una sola vez, a efecto de reunir todos los elementos de convicción necesarios para apoyar las propuestas de las partes.
 
 ###### ARTICULO 19.
 
@@ -261,23 +351,33 @@ Al iniciarse la audiencia de conciliación, el conciliador procederá a buscar l
 
 Una vez que las partes lleguen a una conciliación, se celebrará el convenio correspondiente, que será firmado por quienes intervengan en el mismo.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 20.
 
-De no verificarse el supuesto anterior, el Sistema para el Desarrollo Integral de la Familia procederá, una vez que las partes hubieren decidido de común acuerdo y por escrito someterse a la amigable composición, a iniciar el procedimiento que conducirá a una determinación que será de carácter obligatorio y exigible para ambas partes.
+De no verificarse el supuesto anterior, el Sistema para el Desarrollo Integral de la Familia procederá, una vez que las partes hubieren decidido de común acuerdo y por escrito someterse a la mediación familiar, a iniciar el procedimiento que conducirá a una determinación que será de carácter obligatorio y exigible para ambas partes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 21.
 
-El procedimiento ante el amigable componedor a que hace alusión el Artículo anterior, se verificará en la audiencia respectiva de la siguiente forma:
+El procedimiento ante el mediador familiar verificará en la audiencia respectiva de la siguiente forma:
 
 I.- Se iniciará con la comparecencia de ambas partes o con la presentación de la constancia administrativa, que contendrá los datos generales y la relación sucinta de los hechos, así como la aceptación expresa de someterse al procedimiento;
 
-II.- Las partes en dicha comparecencia ofrecerán las pruebas que a su derecho convenga, a excepción de la confesional, pudiendo auxiliarse el amigable componedor de todos los medios de prueba que estén reconocidos legalmente y que le permitan emitir su determinación, aplicándose supletoriamente el Código de Procedimientos Civiles para el Estado; y
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2008)</small>
 
-III.- Una vez admitidas y desahogadas las pruebas, se recibirán los alegatos verbales de las partes, quedando asentados en autos, procediendo el amigable componedor a celebrar el convenio correspondiente si hubiesen llegado a un acuerdo, firmando las partes que intervengan, el que será de carácter obligatorio y exigible para ambos o de lo contrario, emitirá la determinación correspondiente dentro de las 24 horas siguientes.
+II.- Las partes en dicha comparecencia ofrecerán las pruebas que a su derecho convenga, a excepción de la confesional, pudiendo auxiliarse el mediador familiar de los medios de prueba que estén reconocidos legalmente y que le permitan emitir su determinación, aplicándose supletoriamente el Código de Procedimientos Civiles para el Estado; y
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2008)</small>
+
+III.- Una vez admitidas y desahogadas las pruebas, se recibirán los alegatos verbales de las partes, quedando asentado en autos, procediendo el mediador familiar a celebrar el convenio correspondiente si hubiesen llegado a un acuerdo, firmando las partes que intervengan, el que será de carácter obligatorio y exigible para ambos o de lo contrario, emitirá la determinación correspondiente dentro de las 48 horas siguientes.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 22.
 
-Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios o en la determinación del amigable componedor, en los términos previstos en el Código de Procedimientos Civiles para el Estado, el interesado podrá acudir ante la autoridad jurisdiccional respectiva para su ejecución, independientemente de la sanción administrativa que se aplique.
+Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios o en la determinación del mediador familiar, en los términos previstos en el Código de Procedimientos Civiles para el Estado, el interesado podrá acudir ante la autoridad jurisdiccional respectiva para su ejecución, independientemente de la sanción administrativa que se aplique.
 
 ### CAPITULO II. INFRACCIONES Y SANCIONES
 
@@ -285,7 +385,9 @@ Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos
 
 Se consideran infracciones a la presente Ley:
 
-I.- Incumplir, sin causa justificada, los citatorios del Procurador de la Defensa del Menor y la Familia que se señalan en el Artículo 13 Fracción VII de la presente Ley;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2008)</small>
+
+I.- Incumplir, sin causa justificada, los citatorios del Procurador de la Defensa del Menor, la Mujer y la Familia que se señala en el artículo 13 fracción VII de la presente ley;
 
 II.- Incumplir el convenio derivado del procedimiento de conciliación; y
 
@@ -297,7 +399,9 @@ Las infracciones a la presente Ley se castigarán con:
 
 I.- Multa de 30 a 180 días de salario mínimo general vigente en la capital del Estado, al momento de cometer la infracción.
 
-Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa será equivalente a dos días de su jornal, salario o ingreso diario. Tratándose de personas desempleadas sin ingresos, la multa máxima será el equivalente a un día de salario mínimo general vigente en la capital del Estado, o conmutable por arresto administrativo; y,
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2008)</small>
+
+Si el infractor fuese jornalero, obrero o trabajador no asalariado, o desempleado, la multa será por el equivalente a un día de salario mínimo o el importe de su jornal.
 
 II.- Arresto administrativo inconmutable hasta por 36 horas.
 
@@ -309,15 +413,19 @@ El incumplimiento a la determinación a que se refiere la Fracción III del Art�
 
 La reincidencia se sancionará con arresto administrativo inconmutable por 36 horas.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 26.
 
-Para la acreditación de las infracciones o de la reincidencia a que hacen mención los Artículos anteriores, se citará nuevamente a las partes para que éstas manifiesten lo que a su derecho convenga, antes de que el amigable componedor sancione dicho incumplimiento, sin mayor justificación.
+Para la acreditación de las infracciones o de la reincidencia a que hacen mención los artículos anteriores, se citará nuevamente a las partes para que éstas manifiesten lo que a su derecho convenga, antes de que el mediador familiar sancione dicho incumplimiento.
 
 ### CAPITULO III. MEDIOS DE IMPUGNACION
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 27.
 
-Contra la imposición de sanciones de la Ley y contra las determinaciones del amigable componedor, procederá el recurso de reconsideración o de revisión, ya sea frente a la autoridad que emitió el acto o frente a la autoridad superior de aquella.
+Contra la imposición de sanciones de la ley y contra las determinaciones del mediador familiar, procederá el recurso de reconsideración o de revisión, ya sea frente a la autoridad que emitió el acto o frente a la autoridad superior de aquélla.
 
 ## TRANSITORIOS
 
@@ -358,3 +466,9 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
