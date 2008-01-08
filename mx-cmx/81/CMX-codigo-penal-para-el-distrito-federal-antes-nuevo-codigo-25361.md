@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2008-01-07"
+last_updated: "2008-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2254,7 +2254,11 @@ Se impondrán las penas previstas en el artículo anterior, a quien:
 
 I. Por título oneroso enajene alguna cosa de la que no tiene derecho a disponer o la arriende, hipoteque, empeñe o grave de cualquier otro modo, si ha recibido el precio, el alquiler, la cantidad en que la gravó, parte de ellos o un lucro equivalente;
 
-II. Obtenga de otro una cantidad de dinero o cualquier otro lucro, como consecuencia directa e inmediata del otorgamiento o endoso a nombre propio o de otro, de un documento nominativo, a la orden o al portador, contra una persona supuesta o que el otorgante sabe que no ha de pagarlo;
+II. Obtenga de otro una cantidad de dinero o cualquier otro lucro, como consecuencia directa e inmediata del otorgamiento o endoso a nombre propio o de otro, de un documento nominativo, a la orden o al portador, contra una persona supuesta o que el otorgante sabe que no ha de pagarlo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE ENERO DE 2008)</small>
+
+Cuando el lucro obtenido consista en un vehículo automotor, independientemente de su valor, se aplicarán las penas previstas en la fracción V del artículo inmediato anterior;
 
 III. Venda a dos personas una misma cosa, sea mueble o inmueble, y reciba el precio de la primera, de la segunda enajenación o de ambas, o parte de él, o cualquier otro lucro, con perjuicio del primero o del segundo comprador;
 
@@ -2327,6 +2331,10 @@ Además de las penas señaladas en el primer párrafo, se impondrá de dos a sei
 I. Intervenga una o más personas armadas, o portando instrumentos peligrosos; o
 
 II. Se emplee violencia física.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE ENERO DE 2008)</small>
+
+Asimismo, las penas se incrementarán en una mitad cuando se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica.
 
 ### CAPÍTULO XII. ENRIQUECIMIENTO ILÍCITO
 
@@ -2552,7 +2560,9 @@ IX. Privación de la libertad personal, en concordancia con lo previsto por los 
 
 X. Retención y sustracción de menores e incapaces, de conformidad con el artículo 171 de este Código;
 
-XI. Robo de conformidad con el artículo 224, hipótesis primera, fracción VIII de este Código;
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2008)</small>
+
+XI. Robo de conformidad con el artículo 224, fracciones II y VIII, en su hipótesis primera;
 
 XII. Secuestro, previsto en el artículo 163 y 163 Bis de este Código;
 
@@ -4070,7 +4080,7 @@ G.O. 7 DE ENERO DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-SEGUNDO.- A partir de la entrada en vigor de la (sic) presente Decreto, se derogan las demás disposiciones que contravengan al mismo.
+SEGUNDO.- A partir de la entrada en vigor de la presente Decreto, se derogan las demás disposiciones que contravengan al mismo.
 
 TERCERO.- El Jefe de Gobierno del Distrito Federal tendrá 90 días naturales para emitir el Reglamento y los Lineamientos conducentes para la aplicación de la presente ley.
 
@@ -4085,3 +4095,9 @@ SÉPTIMO.- Una vez que el Centro Local de Trasplantes inicie sus operaciones, la
 OCTAVO.- El Jefe de Gobierno del Distrito Federal, deberá suscribir los convenios de coordinación de acciones correspondientes con la Secretaría de Salud Federal, El Centro Nacional de Trasplantes y los Centros Estatales de Trasplantes, a efecto de garantizar el cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal, en materia de Trasplantes y Donación de Órganos y Tejidos, con base en lo dispuesto por la Ley General de Salud en lo conducente y aplicable.
 
 NOVENO.- Publíquese el presente Decreto en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 8 DE ENERO DE 2008.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
