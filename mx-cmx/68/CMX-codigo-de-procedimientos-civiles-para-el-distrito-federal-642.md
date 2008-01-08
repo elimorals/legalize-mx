@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2008-01-04"
+last_updated: "2008-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -433,6 +433,10 @@ Para la tramitación y resolución de los asuntos ante los tribunales ordinarios
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 Salvo en los casos que no lo permita la ley, y no se hubiese logrado un avenimiento en la audiencia previa, los conciliadores estarán facultados para intentarlo en todo tiempo, antes de que se dicte la sentencia definitiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE ENERO DE 2008)</small>
+
+Asimismo, los titulares de los órganos jurisdiccionales deberán informar a los particulares sobre las características y ventajas de la mediación, para alcanzar una solución económica, rápida y satisfactoria de sus controversias.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -2466,8 +2470,6 @@ El juez mandará recibir el pleito a prueba en el caso de que los litigantes lo 
 
 ### CAPITULO II. De la prueba
 
-Reglas generales
-
 ARTICULO 278
 
 Para conocer la verdad sobre los puntos controvertidos puede el juzgador valerse de cualquier persona, sea parte o tercero, y de cualquiera cosa o documento, ya sea que pertenezca a las partes o a un tercero; sin más limitación que la de que las pruebas no estén prohibidas por la ley, ni sean contrarias a la moral.
@@ -4060,9 +4062,9 @@ ARTICULO 500
 
 Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
 
-> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2008)</small>
 
-Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y de laudos emitidos por dicha Procuraduría.
+Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y de laudos emitidos por dicha Procuraduría; así como en la ejecución de convenios celebrados ante el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal.
 
 ARTICULO 501
 
@@ -4791,8 +4793,6 @@ En el caso en que el emplazamiento se hubiere hecho por edictos, la sentencia no
 Tratándose de los Juicio a que hace referencia el Titulo Séptimo, Capítulo I de este Código, no será aplicable el presente artículo.
 
 ## TITULO OCTAVO. Del juicio arbitral
-
-Reglas generales
 
 ARTICULO 609
 
@@ -8355,3 +8355,17 @@ Artículo Tercero.- El Gobierno del Distrito Federal a través del Sistema para 
 Artículo Cuarto.- El Gobierno del Distrito Federal a través del Sistema para el Desarrollo Integral de la Familia emitirá dentro de los 120 días siguientes a la fecha de publicación del presente decreto, el Reglamento a que se refiere el artículo 494-D.
 
 Artículo Quinto.- La Asamblea Legislativa del Distrito Federal considerará una partida presupuestal de recursos financieros suficientes para asegurar la atención, cuidado y protección de los menores en situación de desamparo en el ejercicio presupuestal de 2008 y años subsecuentes.
+
+G.O. 8 DE ENERO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días naturales posteriores a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+CUARTO. El Tribunal Superior de Justicia del Distrito Federal deberá realizar las previsiones presupuestales necesarias para dotar del personal y de la infraestructura necesaria al Centro para su adecuado funcionamiento en los términos que señala el presente Decreto.
+
+QUINTO. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para emitir el reglamento interno correspondiente.
+
+SEXTO. La Comisión de Administración y Procuración de Justicia conformará una comisión multidisciplinaria donde participe, cuando menos, la Consejería Jurídica del Gobierno del Distrito Federal, el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, académicos e investigadores con experiencia en la materia; con la finalidad de elaborar, en el plazo de un año, contado a partir del día siguiente de la fecha de entrada en vigor de la presente ley, de la iniciativa de ley que para la solución de controversias en todos los ámbitos de interacción social, requiere el Distrito Federal.
