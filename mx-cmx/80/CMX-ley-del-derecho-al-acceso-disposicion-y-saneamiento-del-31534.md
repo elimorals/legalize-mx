@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2007-04-30"
+last_updated: "2008-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -846,9 +846,13 @@ El Sistema de Aguas tiene a su cargo, entre otros, la prestación directa del se
 
 La prestación del servicio público de abasto y distribución de agua para consumo humano en cantidad y calidad suficientes para la población del Distrito Federal es una obligación del Gobierno del Distrito Federal, y como tal no puede interrumpirse en su cumplimiento. Sólo podrá restringirse su suministro conforme a las disposiciones contendidas en la presente Ley y el Código Financiero del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2008)</small>
+
 ###### Artículo 55.
 
-Cuando exista escasez de agua o se presente cualquier otra situación contingente que exija restricciones en su suministro, el Sistema de Aguas limitará el servicio a la satisfacción de necesidades mínimas. En estos casos, las restricciones se harán previa información a la población afectada.
+Cuando exista escasez de agua o se presente cualquier otra situación contingente que exija restricciones en su suministro, el Sistema de Aguas limitará el servicio a la satisfacción de necesidades mínimas. En estos casos, las restricciones se harán previa información de los motivos por los cuales se restringe el servicio a la población afectada.
+
+En estos casos y previo acuerdo que exista con las Delegaciones, en los términos de esta Ley, estás podrán coadyuvar con el Sistema de Aguas a fin de proporcionar oportunamente acciones alternativas de distribución en tanto se resuelva la contingencia.
 
 ###### Artículo 56.
 
@@ -1505,3 +1509,9 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE ENERO DE 2008.
+
+Primero.- La presente reforma y adición entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de (sic) Distrito Federal.
+
+Segundo.- Remítase al Jefe de Gobierno para su debida publicación en la Gaceta Oficial de (sic) Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
