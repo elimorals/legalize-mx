@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-24531"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-04-12"
-last_updated: "2007-11-21"
+last_updated: "2008-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el viernes 12 de abril de 2002.
 
@@ -1232,3 +1234,49 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ENERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 16 de febrero del año 2008 previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Estado, de fecha 12 de abril de 2002.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones legales y administrativas en lo que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Las transferencias que por motivo de esta Ley deba realizar el Ejecutivo del Estado de una dependencia o entidad de la Administración Pública Estatal a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a las estructuras organizacionales, programáticas y financieras, a los calendarios financieros y de metas, así como las transferencias de recursos humanos y de los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general, los demás que la dependencia o entidad haya utilizado para los asuntos a su cargo. Los derechos laborales del personal que en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a la otra, se respetarán conforme a las normas jurídicas aplicables.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que con motivo de esta Ley, deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por las dependencias que los venían despachando.
+
+###### ARTÍCULO SEXTO.
+
+El Gobernador del Estado, por conducto de la Secretaría de Gobierno, Secretaría de Finanzas y Administración y la Coordinación de Contraloría, con la participación de las dependencias y entidades de la Administración Pública Estatal correspondientes, serán responsables directos y deberán concluir aquellas adecuaciones presupuestarias y traspasos de recursos humanos, materiales y financieros, así como activos patrimoniales, en un plazo no mayor de noventa días, a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en esta Ley se dé una denominación nueva o distinta a alguna dependencia cuyas funciones o asuntos estén establecidas en la Ley que se abroga, dichas atribuciones o despacho de asuntos se entenderán concedidas a la dependencia que determine esta Ley y demás disposiciones aplicables.
+
+###### ARTÍCULO OCTAVO.
+
+Las menciones contenidas en otras leyes, decretos, reglamentos y en general en cualquier disposición, respecto de las dependencias y entidades de la Administración Pública Estatal, cuyas funciones se reforman por virtud de esta Ley, se entenderán referidas a las dependencias y entidades que respectivamente asuman tales funciones.
+
+###### ARTÍCULO NOVENO.
+
+Hasta en tanto no se emita la reglamentación correspondiente, las dependencias y entidades de la Administración Pública Estatal, seguirán aplicando los anteriores siempre y cuando no se contrapongan a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga el Decreto Legislativo número 41 que crea el Instituto Michoacano de la Mujer, publicado en el Periódico Oficial del Estado el 21 de octubre de 1999 y el Ejecutivo del Estado proveerá lo necesario para su extinción y liquidación.
+
+###### ARTÍCULO DÉCIMO PRlMERO.
+
+El Ejecutivo del Estado proveerá lo necesario para la extinción y liquidación del Instituto Michoacano de la Juventud, del Instituto de los Michoacanos en el Extranjero y de la Coordinación Interinstitucional para la Atención de los Pueblos y Comunidades Indígenas.
