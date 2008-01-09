@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2007-11-07"
+last_updated: "2008-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2006.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 7 DE NOVIEMBRE DE 2007.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 9 DE ENERO DE 2008.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -176,17 +176,17 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2007, D.O.F. DEL 7 DE NOVIEMBRE DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2007, D.O.F. DEL 9 DE ENERO DE 2008.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $156,135.00. En el precio mencionado no se considerará el impuesto al valor agregado.
+II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $162,255.49. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2007, D.O.F. DEL 7 DE NOVIEMBRE DE 2007.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2007, D.O.F. DEL 9 DE ENERO DE 2008.</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $156,135.01 y hasta $197,771.00, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
+Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $162,255.50 y hasta $205,523.62, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
 
 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
@@ -403,3 +403,155 @@ Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
 D.O.F. 7 DE NOVIEMBRE DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 9 DE ENERO DE 2008.
+
+LA TERCERA RESOLUCION DE MODIFICACIONES A LA MISCELANEA FISCAL PARA 2007 CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LAS MODIFICACIONES AL ANEXO 15 DE LA RESOLUCION MISCELANEA FISCAL PARA 2007.</small>
+
+Modificación al Anexo 15 de la Resolución Miscelánea Fiscal para 2007
+
+Contenido
+
+Impuesto sobre Tenencia o Uso de Vehículos
+
+A. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de vehículos nuevos para el año 2008.
+
+B. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de motocicletas nuevas para el año 2008.
+
+C. Tarifas del impuesto sobre tenencia o uso de aeronaves de año modelo anterior a 1999.
+
+D. Tarifa para determinar la tasa del Impuesto sobre Automóviles Nuevos para el año 2008.
+
+E. Cantidades para aeronaves y helicópteros nuevos para el año 2008.
+
+F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2008.
+
+G. Código de Claves Vehiculares:
+
+1. Autorizadas.
+
+A. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de vehículos nuevos para el año 2008
+
+TARIFA
+
+Limite inferior Limite superior Cuota fija Tasa para
+
+$ $ $ aplicarse
+
+sobre el
+
+excedente
+
+del límite
+
+inferior
+
+%
+
+0.01 477,347.76 0.00 3.0
+
+477,347.77 918,629.24 14,320.42 8.7
+
+918,629.25 1,234,739.54 52,711.92 13.3
+
+1,234,739.55 1,550,849.83 94,754.59 16.8
+
+1,550,849.84 En adelante 147,861.11 19.1
+
+B. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de motocicletas nuevas para el año 2008
+
+TARIFA
+
+Limite inferior Limite superior Cuota fija Tasa para
+
+$ $ $ aplicarse
+
+sobre el
+
+excedente
+
+del límite
+
+inferior
+
+%
+
+0.01 108,909.79 0.00 3.0
+
+108,909.80 209,590.83 3,267.29 8.7
+
+209,590.84 281,713.31 12,026.55 13.3
+
+281,713.32 En adelante 21,618.83 16.8
+
+C. Tarifas del Impuesto sobre Tenencia o Uso de Aeronaves de año modelo anterior a 1999
+
+Tarifa 2008, en pesos
+
+TIPO CUOTA
+
+$
+
+PISTON (HELICE) 1,916.43
+
+TURBOHELICE 10,606.99
+
+REACCION 15,324.62
+
+HELICOPTEROS 2,355.97
+
+D. Tarifa para determinar la tasa del impuesto sobre Automóviles Nuevos para el año 2008
+
+TARIFA
+
+Limite inferior Limite superior Cuota fija Tasa para
+
+$ $ $ aplicarse
+
+sobre el
+
+excedente
+
+del límite
+
+inferior
+
+%
+
+0.01 174,485.97 0.00 2.0
+
+174,485.98 209,383.11 3,489.66 5.0
+
+209,383.12 244,280.41 5,234.59 10.0
+
+244,280.42 314,074.61 8,724.31 15.0
+
+314,074.62 En adelante 19,193.42 17.0
+
+Si el precio del automóvil es superior a $481,815.12 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $481,815.12
+
+E. Cantidades para aeronaves y helicópteros nuevos para el año 2008.
+
+Aeronaves de pistón, turbohélice y helicópteros: $8,657.06
+
+Aeronaves de reacción: $9,324.72
+
+F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2008.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $162,255.49
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $162,255.50 y hasta $205,523.62
+
+G. Código de claves vehiculares
+
+(VEASE ARCHIVO ANEXO)
+
+Atentamente
+
+México, D.F., a 18 de diciembre de 2007.- El Jefe del Servicio de Administración Tributaria, José María Zubiría Maqueo.- Rúbrica.
