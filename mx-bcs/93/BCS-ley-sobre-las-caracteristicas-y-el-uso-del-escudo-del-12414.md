@@ -4,7 +4,7 @@ identifier: "BCS-ley-sobre-las-caracteristicas-y-el-uso-del-escudo-del-12414"
 country: "mx"
 rank: "ley"
 publication_date: "1975-11-10"
-last_updated: "1975-11-10"
+last_updated: "2008-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY SOBRE LAS CARACTERISTICAS Y EL USO DEL ESCUDO DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE SÍMBOLOS Y PROTOCOLOS OFICIALES DEL ESTADO DE BAJA CALIFORNIA SUR", PUBLICADA EN EL B.O. DE 31 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY SOBRE LAS CARACTERISTICAS Y EL USO DEL ESCUDO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de noviembre de 1975.
 
@@ -46,6 +48,10 @@ El Escudo del Estado de Baja California Sur queda sujeto, por cuanto a sus carac
 ###### ARTICULO 3o.
 
 Las características del Escudo del Estado son las siguientes:
+
+> <small>(ADICIONADO, B.O. 10 DE ENERO DE 2008)</small>
+
+Con la frase “Bajo Californio Sur”, en letra tipo arial y de azur, que no saldrá de los márgenes izquierdo y derecho del recuadro, y en la parte superior de lo bordura.
 
 Campo partido: el lado diestro oro y el siniestro de gules. Brochante sobre la partición, una venera de plata. Bordura de azur, con cuatro peces de plata: uno en jefe, otro en punta y uno en cada costado, contranadando.
 
@@ -84,3 +90,11 @@ La presente Ley entrará en vigor a los sesenta días a la fecha de su publicaci
 SALA DE SESIONES DEL PODER LEGISLATIVO. La Paz, B. Cfa. Sur, 14 de octubre de 1975.- EL PRESIDENTE, DIP. PROFR. MANUEL SALGADO CALDERON, Rúbrica. EL SECRETARIO, DIP. ING. OCTAVIO CLEMENTE PEREZ, Rúbrica.
 
 En cumplimiento de lo dispuesto por la fracción II del artículo 79 de la Constitución Política del Estado de Baja California Sur y para su debida publicación y observancia expido el presente decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de La Paz, a los veintisiete días del mes de octubre de mil novecientos setenta y cinco.- EL GOBERNADOR DEL ESTADO, LIC. ANGEL CESAR MENDOZA ARAMBURO, Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, PROFR. MARCELO RUBIO RUIZ, Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE ENERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
