@@ -4,7 +4,7 @@ identifier: "CMX-codigo-electoral-del-distrito-federal-12957"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-01-05"
-last_updated: "2005-10-19"
+last_updated: "2008-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12957&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1998-12-30"
 
 CODIGO ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE OCTUBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 10 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 5 de enero de 1999.
 
@@ -7165,3 +7167,45 @@ SÉPTIMO.- Las disposiciones contenidas en el artículo 151 de este Código entr
 OCTAVO.- Las disposiciones contenidas en el artículo 224 de este Código se aplicarán a partir de la designación de los siguientes Magistrados en el año 2007.
 
 NOVENO.- Para efectos de la oportuna resolución de los medios de impugnación previstos en el presente decreto, dos, Magistrados supernumerarios deberán incorporarse al Pleno durante el desarrollo del proceso electoral de 2006 y dependiendo de las cargas de trabajo en términos de lo previsto en el artículo 224 vigente podrán hacerlo los 2 Magistrados supernumerarios restantes.
+
+G.O. 10 DE ENERO DE 2008.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo. Remítase al Jefe de Gobierno del Distrito Federal para su Promulgación y Publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+Artículo Tercero. Se abroga el Código Electoral del Distrito Federal publicado el 5 de enero de 1999 en la Gaceta Oficial del Distrito Federal.
+
+Artículo Cuarto. El contenido de este Código que contravenga lo establecido en el Estatuto de Gobierno del Distrito Federal en materia electoral, entrará en vigor una vez que el Congreso de la Unión haya hecho las modificaciones correspondientes al Estatuto de Gobierno y éstas hayan sido publicadas.
+
+Artículo Quinto. Para la conformación de partidos políticos locales que participen en el proceso electoral del 2009, podrán participar, además de las agrupaciones políticas locales, cualquier organización ciudadana que cumpla con los requisitos establecidos en este Código.
+
+Artículo Sexto. El Consejo General deberá nombrar dentro de los siguientes 30 días a la entrada en vigor del presente Decreto al Secretario Administrativo del Instituto. Hasta en tanto el Consejo General haga el nombramiento del Secretario Administrativo, sus funciones serán realizadas por el actual Secretario Ejecutivo del Instituto.
+
+Artículo Séptimo. Para dar cumplimiento a la rotación de las presidencias de las comisiones del Instituto, los 24 meses empezarán a correr a la entrada en vigor del presente Decreto; en tanto, continuarán las presidencias de los actuales consejeros.
+
+Artículo Octavo. La Asamblea Legislativa emitirá convocatoria pública dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, para que las Instituciones Académicas Públicas y Privadas hagan llegar las propuestas de quien deba ocupar el cargo de Contralor General tanto del Instituto Electoral del Distrito Federal como del Tribunal Electoral del Distrito Federal. En tanto la Asamblea Legislativa designa al Contralor del Instituto Electoral y al Contralor del Tribunal Electoral, continuarán en su encargo los actuales funcionarios.
+
+Artículo Noveno. El Consejero Presidente y los Consejeros Electorales del Instituto Electoral del Distrito Federal que se encuentren en funciones a la entrada en vigor del presente Decreto, concluirán el periodo para el que fueron electos. Previo a la conclusión del periodo, y para efectos de la renovación escalonada de estos cargos, la Asamblea Legislativa procederá de la siguiente manera:
+
+a) Elegirá al Consejero Presidente y dos Consejeros Electorales para un periodo de siete años;
+
+b) Elegirá a dos Consejeros Electorales para un periodo de cinco años; y
+
+c) Elegirá a dos Consejeros Electorales para un periodo de tres años.
+
+Artículo Décimo. Los Magistrados Electorales del Tribunal Electoral del Distrito Federal que se encuentren en funciones a la entrada en vigor del presente Decreto, concluirán el periodo para el que fueron electos. Previo a la conclusión del periodo, y para efectos de la renovación escalonada de estos cargos, la Asamblea Legislativa procederá de la siguiente manera:
+
+a) Elegirá a tres Magistrados Electorales para un periodo de ocho años; y
+
+b) Elegirá a dos Magistrados Electorales para un periodo de cuatro años.
+
+Artículo Décimo Primero. El Consejo General del Instituto Electoral tendrá un plazo de 60 días contados a partir de la entrada en vigor del presente Código, para emitir en términos de las disposiciones generales señaladas en este ordenamiento el reglamento para la liquidación de Asociaciones Políticas y realizar las adecuaciones pertinentes al Estatuto del Servicio Profesional del Carrera.
+
+Artículo Décimo Segundo. Las asociaciones políticas deberán cumplir en un plazo no mayor a 120 días sus obligaciones en materia de transparencia y acceso a la información pública.
+
+Artículo Décimo Tercero. En tanto el Instituto Electoral del Distrito Federal emita el reglamento para la tramitación, sustanciación y resolución de los recursos de revisión que se presenten en contra de los partidos políticos relativos al ejercicio del derecho de acceso a la información pública, se aplicará en lo conducente las disposiciones contenidas en la Ley de Transparencia de Acceso a la Información Pública del Distrito Federal.
+
+Artículo Décimo Cuarto. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Décimo Quinto. En tanto no se modifique la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, para hacer de las Asociaciones Políticas Entes Públicos, los Recursos de Revisión y las obligaciones que en materia de Transparencia y Acceso a la Información Pública tienen éstas, serán tramitadas y supervisadas por el Instituto Electoral del Distrito Federal, aplicando en lo conducente las disposiciones contenidas en la Ley citada.
