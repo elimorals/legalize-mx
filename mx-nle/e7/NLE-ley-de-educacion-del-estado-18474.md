@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2007-06-13"
+last_updated: "2008-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACION DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -83,7 +83,9 @@ III.- Tipos y modalidades de educación: La inicial, la básica, la indígena, p
 
 a) Educación inicial: La educación que se imparte a menores de cuatro años;
 
-b) Educación básica: Abarca los niveles educativos de preescolar, primaria y secundaria, siendo obligatorios los niveles de primaria y secundaria;
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
+b) Educación básica: Abarca los niveles educativos de preescolar, primaria y secundaria; siendo obligatorios los tres niveles;
 
 c) Educación indígena: Es la que se ofrece a los grupos indígenas del Estado, para responder a sus características lingüísticas y culturales;
 
@@ -115,11 +117,13 @@ I.- Gratuita. Las donaciones destinadas a dicha educación, en ningún caso se e
 
 II.- Laica. Se mantendrá ajena a cualquier doctrina religiosa.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 6.
 
-Todos los habitantes del Estado de Nuevo León deben cursar la educación primaria y secundaria.
+Todos los habitantes del Estado de Nuevo León deben cursar la educación preescolar, primaria y secundaria.
 
-Es obligación de los habitantes del Estado de Nuevo León hacer que sus hijos o pupilos menores de edad cursen la educación primaria y la secundaria.
+Es obligación de los habitantes del Estado de Nuevo León hacer que sus hijos o pupilos menores de edad cursen la educación preescolar, primaria y la secundaria.
 
 ###### Artículo 7.
 
@@ -213,7 +217,9 @@ III.- Desarrollarán programas de apoyo a los maestros que realicen su servicio 
 
 IV.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable, el aprendizaje del educando;
 
-V.- Prestarán servicios educativos que faciliten la terminación de la primaria y la secundaria a quienes no las hayan cursado;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+V.- Prestarán servicios educativos que faciliten la terminación de preescolar, la primaria y la secundaria a quienes no las hayan cursado;
 
 VI.- Otorgarán apoyos pedagógicos a grupos sociales con requerimientos educativos específicos, a través de programas encaminados a superar los retrasos o las deficiencias en el aprovechamiento escolar;
 
@@ -230,6 +236,8 @@ XI.- Promoverán mayor participación de la sociedad en la educación, así como
 XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en los Artículos 13 y 14 de la presente Ley; y
 
 XIII.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en los Artículos 13 y 14 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
 El Estado también llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
@@ -265,13 +273,19 @@ Corresponde de manera exclusiva a la autoridad educativa estatal las siguientes 
 
 I.- Prestar en la entidad los servicios de educación inicial, básica -incluyendo la indígena- especial, así como la normal y demás para la formación de maestros de educación básica;
 
-II.- Proponer a la autoridad educativa federal los contenidos regionales, que incluirán lo relativo a la geografía y la historia locales, y aquellos que posibiliten al educando, un desempeño más adecuado en el entorno social y cultural de la entidad, para su incorporación en los planes y programas de estudio para la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
 
-III.- Ajustar en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública;
+II.- Proponer a la autoridad educativa federal los contenidos regionales, que incluirán lo relativo a la geografía y la historia locales, y aquellos que posibiliten al educando, un desempeño más adecuado en el entorno social y cultural de la entidad, para su incorporación en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+III.- Ajustar en su caso, el calendario escolar para cada ciclo lectivo de la educación preescolar, primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública;
 
 IV.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, de conformidad con las disposiciones generales que la Secretaría de Educación Pública determine;
 
-V.- Revalidar y otorgar equivalencias de estudio de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+V.- Revalidar y otorgar equivalencias de estudio de la educación preescolar, primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
 
 VI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación inicial, básica, normal y demás para la formación de maestros de educación básica;
 
@@ -303,13 +317,19 @@ VII.- Impulsar el desarrollo de la enseñanza y la investigación científica y 
 
 VIII.- Fomentar y difundir las actividades artísticas, culturales y deportivas en todas sus manifestaciones;
 
-IX.- Ofrecer orientación y apoyo a los padres y madres de familia, en los procesos de integración y desarrollo familiar que impacten en el trabajo escolar;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+IX.- Ofrecer orientación y apoyo a los padres y madres de familia, tutores o quienes ejerzan la patria potestad, en los procesos de integración y desarrollo familiar que impacten en el trabajo escolar;
 
 X.- Fomentar las relaciones internacionales en materia de intercambio, investigación, cooperación educativa, científica, tecnológica, artística, cultural, educación física y deportiva;
 
-XI.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2008)</small>
 
-XII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XI.- Ofrecer orientación y capacitación a los alumnos, padres y madres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los centros educativos con el objetivo de promover la cultura de una alimentación sana y nutritiva;
+
+XII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
+
+XIII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 El Gobierno Estatal celebrará convenios con el Ejecutivo Federal para coordinar o unificar las actividades educativas a las que se refiere esta Ley, con excepción de aquéllas que, con carácter exclusivo, le confiere el Artículo 13 de la Ley General.
 
@@ -321,7 +341,9 @@ I.- Promover y prestar servicios educativos de cualquier tipo o modalidad. Tambi
 
 II.- Proporcionar preferentemente áreas para la construcción de centros educativos y espacios para las prácticas agrícolas y deportivas de los educandos;
 
-III.- Promover las estrategias necesarias para evitar la deserción e inasistencia del educando en edad escolar de las instituciones educativas y orientar a los padres, madres de familia o tutores para que cumplan los preceptos legales que hacen obligatoria la educación primaria y secundaria;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+III.- Promover las estrategias necesarias para evitar la deserción e inasistencia del educando en edad escolar de las instituciones educativas y orientar a los padres, madres de familia o tutores para que cumplan los preceptos legales que hacen obligatoria la educación preescolar, primaria y secundaria;
 
 IV.- Coordinar y promover con las autoridades competentes la realización de programas y acciones de educación para la salud y mejoramiento del ambiente, así como campañas para velar por la seguridad del educando en los planteles educativos; para prevenir, combatir y erradicar la drogadicción, el alcoholismo, el tabaquismo y otras enfermedades de impacto sociocultural;
 
@@ -375,9 +397,11 @@ VII.- Las instituciones de educación superior a los que la Ley otorga autonomí
 
 Las instituciones del sistema educativo estatal impartirán educación de manera que permita al educando incorporarse a la sociedad y en su oportunidad, desarrollar una actividad productiva y que permita, así mismo, al trabajador estudiar.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 28.
 
-El establecimiento de instituciones educativas que realice el Ejecutivo Estatal, así como la formulación de planes y programas de estudio para dichas instituciones distintos a los de educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, se efectuará de acuerdo a la normatividad establecida por las autoridades educativas federal y estatal. Dichas dependencias expedirán constancias, certificados, diplomas y títulos que tendrán la validez correspondiente a los estudios realizados.
+El establecimiento de instituciones educativas que realice el Ejecutivo Estatal, así como la formulación de planes y programas de estudio para dichas instituciones distintos a los de educación preescolar, primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, se efectuará de acuerdo a la normatividad establecida por las autoridades educativas federal y estatal. Dichas dependencias expedirán constancias, certificados, diplomas y títulos que tendrán la validez correspondiente a los estudios realizados.
 
 ###### Artículo 29.
 
@@ -431,6 +455,8 @@ La autoridad educativa estatal integrará un sistema de información que conteng
 
 #### SECCIÓN 4. DE LA EDUCACIÓN INICIAL, LA BÁSICA Y LA ESPECIAL
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 36.
 
 El Gobierno Estatal, con sujeción a las correspondientes disposiciones de ingresos y gasto público que resulten aplicables, concurrirá con el Ejecutivo Federal al financiamiento de los servicios educativos.
@@ -467,23 +493,29 @@ Son de interés social las inversiones que en materia educativa realicen el Esta
 
 ###### Artículo 42.
 
-La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad. Se orientará de acuerdo al plan y programas de estudio establecidos por las autoridades educativas federal y estatal de manera concurrente, incluye la orientación a padres, madres de familia o tutores para la educación de sus hijos e hijas o pupilos.
+La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social, así como promover la cultura de una alimentación sana y nutritiva de los menores de cuatro años de edad. Se orientará de acuerdo al plan y programas de estudio establecidos por las autoridades educativas federal y estatal de manera concurrente, incluye la orientación a padres, madres de familia o tutores para la educación de sus hijos e hijas o pupilos.
 
 ###### Artículo 43.
 
 La educación de tipo básico está compuesta por el nivel de preescolar, el de primaria y el de secundaria. Tiene como propósito el desarrollo integral y armónico de todas las facultades de los educandos, para que adquieran los valores cívicos y éticos, actitudes, conocimientos, aptitudes, habilidades y destrezas que se requieran para su vida presente, su desempeño futuro y el desarrollo de la sociedad.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 44.
 
-La educación preescolar se ofrecerá a partir de los cuatro años de edad. Comprende por lo menos un grado de escolaridad. Se orientará de acuerdo al plan y programas de estudio establecidos por las autoridades educativas federal y estatal de manera concurrente a los fines y criterios establecidos en los Artículos 7° y 8° de esta Ley. No constituye requisito previo a la educación primaria.
+La educación preescolar, es aquella que se ofrece a partir de los tres años de edad cumplidos al 31 de Diciembre del ciclo escolar vigente. Se orientará de acuerdo al plan y programas de estudio establecidos por las autoridades educativas federal y estatal de manera concurrente a los fines y criterios establecidos en los Artículos 7° y 8° de esta Ley. Constituye requisito previo a la educación primaria.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 45.
 
-La educación primaria es aquélla que se ofrece a partir de los seis años de edad de acuerdo con la normativa federal, comprende seis grados de escolaridad y se orienta de acuerdo al plan y programas de estudio establecidos por la autoridad educativa federal y a los fines y criterios establecidos en los Artículos 7° y 8° de esta Ley. Constituye antecedente obligatorio de la secundaria.
+Para la inscripción al nivel de educación primaria, es necesario haber cursado y aprobado el nivel preescolar de conformidad con los planes y programas establecidos por la autoridad educativa federal, así como tener seis años de edad cumplidos al 31 de Diciembre del año de inicio del ciclo escolar. La educación primaria comprende seis años de escolaridad y se orienta de acuerdo al plan y programas de estudio establecidos también por la autoridad educativa federal. La primaria constituye antecedente obligatorio de la secundaria.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 46.
 
-En las escuelas de educación básica de la entidad se ofrecerán y ampliarán de manera complementaria, programas de informática, lengua extranjera, actividades artísticas, culturales, de educación física y deportes, así como, otros programas educativos adecuados a las condiciones y necesidades de las regiones donde están ubicadas las escuelas.
+En las escuelas de educación básica de la entidad se ofrecerán y ampliarán de manera complementaria, programas de informática, lengua extranjera, actividades artísticas, culturales, de educación física y deportes, así como orientación a una alimentación sana y nutritiva y otros programas educativos adecuados a las condiciones y necesidades de las regiones donde están ubicadas las escuelas.
 
 ###### Artículo 47.
 
@@ -697,6 +729,8 @@ III.- Desarrollarán actividades que propicien su integración con la comunidad.
 
 #### SECCIÓN 4. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 74.
 
 Los directores y las directoras son líderes del cambio y de la mejora continua en sus centros escolares y sus funciones serán definidas de acuerdo con la normatividad aplicable.
@@ -717,7 +751,7 @@ La autoridad educativa estatal fomentará las condiciones de liderazgo en el aul
 
 ###### Artículo 78.
 
-La educación primaria, secundaria, educación normal y demás para la formación de maestros y maestras de educación básica se guiará por los planes y programas de estudio determinados por la autoridad educativa federal.
+La educación preescolar, primaria, secundaria, educación normal y demás para la formación de maestros y maestras de educación básica se guiará por los planes y programas de estudio determinados por la autoridad educativa federal.
 
 ###### Artículo 79.
 
@@ -732,6 +766,8 @@ La autoridad educativa estatal propondrá para su consideración y, en su caso, 
 Para lograr los fines y objetivos de la educación, se promoverá la utilización de metodologías de la enseñanza y el aprendizaje centradas en la participación activa del alumnado, la interacción social y el respeto a sus necesidades educativas.
 
 #### SECCIÓN 6. DEL CALENDARIO ESCOLAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 82.
 
@@ -759,7 +795,7 @@ Las instituciones deberán informar periódicamente a los educandos y, en su cas
 
 ###### Artículo 86.
 
-El calendario escolar establecido por la autoridad educativa federal, aplicable para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, deberá contener doscientos días de clase para el alumnado. En él se señalarán las actividades y eventos principales a realizar en el ciclo escolar.
+El calendario escolar establecido por la autoridad educativa federal, aplicable para cada ciclo lectivo de la educación preescolar, primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, deberá contener doscientos días de clase para el alumnado. En él se señalarán las actividades y eventos principales a realizar en el ciclo escolar.
 
 La autoridad educativa estatal podrá ajustar el calendario escolar, cuando ello resulte necesario en atención a los requerimientos de la entidad.
 
@@ -849,7 +885,9 @@ IX.- Participar a las autoridades de la escuela en la que estén inscritos sus h
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-I.- Hacer que sus hijos e hijas o pupilos menores de edad asistan puntualmente a la escuela para cursar la educación primaria y secundaria;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+I.- Hacer que sus hijos e hijas o pupilos menores de edad asistan puntualmente a la escuela para cursar la educación preescolar, primaria y secundaria;
 
 II.- Apoyar el proceso educativo de sus hijos e hijas o pupilos;
 
@@ -864,6 +902,12 @@ VI.- Asegurar que sus hijos e hijas o pupilos cumplan con las tareas y compromis
 VII.- Asistir a las juntas de información convocadas por la escuela; y
 
 VIII.- Abstenerse, por cualquier medio, de interrumpir o impedir el servicio educativo en los planteles.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2008)</small>
+
+###### Artículo 93 Bis.
+
+En caso de incumplimiento de las obligaciones a que se refiere el artículo anterior, la dirección de la escuela del alumno, hará una evaluación de las causas de la no asistencia, invitando a quienes ejerzan la patria potestad o la tutela, para que participen en las pláticas de orientación y apoyo.
 
 #### SECCIÓN 4. DE LOS MEDIOS DE COMUNICACIÓN
 
@@ -901,23 +945,27 @@ La organización y funcionamiento de las asociaciones de padres de familia, en l
 
 La autoridad educativa estatal promoverá la participación social en el proceso educativo, por lo que apoyará la integración de los consejos que estarán sujetos a la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 98.
 
-Será responsabilidad de la autoridad de cada escuela pública de educación básica vincular a ésta, activa y constantemente, con la comunidad. El Municipio y la autoridad educativa estatal, darán toda su colaboración para tales efectos.
-
-La autoridad escolar hará lo conducente para que en cada escuela pública de educación básica opere un consejo escolar de participación social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
+Será responsabilidad de la autoridad de cada escuela pública de educación básica vincular a ésta, activa y constantemente, con la comunidad. El Municipio y la autoridad educativa estatal, darán toda su colaboración para tales efectos. La autoridad escolar hará lo conducente para que en cada escuela pública de educación básica opere un consejo escolar de participación social, integrado con padres y madres de familia y representantes de sus asociaciones, maestras, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos y exalumnas, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
 Consejos análogos podrán operar en las escuelas particulares de cada educación básica.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 99.
 
-En cada municipio operará un consejo municipal de participación social en la educación, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros, así como representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación.
+En cada municipio operará un consejo municipal de participación social en la educación, integrado por las autoridades municipales, padres y madres de familia y representantes de sus asociaciones, maestras y maestros distinguidos y directivos de escuelas, representantes de la organización sindical del magisterio, así como representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación.
 
 Será responsabilidad del presidente municipal que en el consejo se alcance una efectiva participación social, que contribuya a elevar la calidad y la cobertura de la educación.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 100.
 
-En la entidad funcionará un consejo estatal de participación social en la educación como órgano de consulta, orientación, apoyo e información, en el que se encuentren representados padres de familia y representantes de su organización sindical, instituciones formadoras de maestros, autoridades educativas estatales y municipales, así como de sectores sociales de la entidad especialmente interesados en la educación.
+En la entidad funcionará un consejo estatal de participación social en la educación como órgano de consulta, orientación, apoyo e información, en el que se encuentren representados madres y padres de familia y representantes de su organización sindical, instituciones formadoras de maestras y maestros, autoridades educativas estatales y municipales, así como de sectores sociales de la entidad especialmente interesados en la educación.
 
 ###### Artículo 101.
 
@@ -947,7 +995,9 @@ Para impartir educación a distancia, quienes soliciten la autorización o recon
 
 Los particulares podrán impartir educación en cualquiera de sus tipos y modalidades.
 
-Por lo que concierne a la educación primaria, la secundaria, la normal y demás para la formación de maestros y maestras de educación básica, deberán obtener previamente, en cada caso, la autorización expresa de la dependencia que indique la Ley General. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
+Por lo que concierne a la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros y maestras de educación básica, deberán obtener previamente, en cada caso, la autorización expresa de la dependencia que indique la Ley General. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
 
 La autorización y el reconocimiento serán específicos para cada plan de estudios. Para impartir nuevos estudios se requerirá, según el caso, la autorización o el reconocimiento respectivos.
 
@@ -961,7 +1011,9 @@ I.- Con personal que acredite la preparación adecuada para impartir educación 
 
 II.- Con instalaciones, infraestructura y equipamiento que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento; y
 
-III.- Con planes y programas de estudio que la autoridad educativa considere procedentes, en el caso de educación distinta de la educación primaria, secundaria, la normal y demás para la formación de docentes de educación básica.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+III.- Con planes y programas de estudio que la autoridad educativa considere procedentes, en el caso de educación distinta de la educación preescolar, primaria, secundaria, la normal y demás para la formación de docentes de educación básica.
 
 ###### Artículo 108.
 
@@ -1053,7 +1105,9 @@ III.- Realizar o permitir la publicidad o comercialización de bienes o servicio
 
 IV.- Ocultar a los padres, madres o tutores las conductas del alumnado que deben ser de su conocimiento;
 
-V.- No utilizar los libros de texto y materiales educativos que la autoridad educativa autorice y determine para la educación primaria y secundaria;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+V.- No utilizar los libros de texto y materiales educativos que la autoridad educativa autorice y determine para la educación preescolar, primaria y secundaria;
 
 VI.- Dar a conocer antes de su aplicación los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación a quienes habrán de presentarlos;
 
@@ -1063,13 +1117,17 @@ VIII.- Oponerse a las actividades de evaluación, inspección y vigilancia, así
 
 IX.- Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
 
-X.- Incumplir con los lineamientos generales para el uso de material educativo en la educación primaria y secundaria;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+X.- Incumplir con los lineamientos generales para el uso de material educativo en la educación preescolar, primaria y secundaria;
 
 XI.- Ostentarse como plantel incorporado sin contar con la autorización o reconocimiento de validez oficial de estudios;
 
 XII.- Incumplir con lo dispuesto en el Artículo 113 de esta Ley;
 
-XIII.- Impartir la educación primaria, secundaria, la normal y demás para la formación de maestros y maestras de educación básica, sin contar con la autorización correspondiente; e
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+XIII.- Impartir la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros y maestras de educación básica, sin contar con la autorización correspondiente; e
 
 XIV.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones reglamentarias que de ella se deriven.
 
@@ -1218,3 +1276,7 @@ LIC. FERNANDO ELIZONDO BARRAGAN
 P.O. 13 DE JUNIO DE 2007.
 
 Artículo Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 11 DE ENERO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
