@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2007-10-26"
+last_updated: "2008-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ENERO DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -104,55 +104,41 @@ III. Las que le sean adscritas conforme a las disposiciones jurídicas y adminis
 
 Para el despacho de los asuntos que competan a las Dependencias de la Administración Pública, se les adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo, los Órganos Político-Administrativos y los Órganos Desconcentrados siguientes:
 
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+
 I. A la Secretaría de Gobierno:
 
-A). La Subsecretaría de Gobierno, a la que quedan adscritas:
+A) La Subsecretaría de Gobierno, a la que quedan adscritas:
 
-1. Dirección General de Gobierno;
+1. Dirección General de Gobierno; y
 
-2. Dirección General de Prevención y Readaptación Social;
+2. Dirección General de Concertación Política y Atención Social y Ciudadana;
 
-3. Dirección de Ejecución de Sanciones Penales;
+B) La Subsecretaría de Sistema Penitenciario, a la que quedan adscritas:
 
-4. Dirección General de Regularización Territorial;
+1. Dirección Ejecutiva de Prevención y Readaptación Social;
 
-5. (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
+2. Dirección Ejecutiva de Trabajo Penitenciario;
 
-6. (DEROGADO, G.O. 19 DE ENERO DE 2007)
+3. Dirección Ejecutiva de Seguridad Penitenciaria;
 
-7. (DEROGADO, G.O. 19 DE ENERO DE 2007)
+4. Dirección Ejecutiva Jurídica y de Derechos Humanos, y
 
-B). (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
+5. Dirección Ejecutiva de Tratamiento a Menores.
 
-1. (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
+C) La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
 
-2. (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
+1. Dirección General de Regularización Territorial;
 
-3. (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
+2. Coordinación General de Proyectos Estratégicos y Enlace Gubernamental;
 
-> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+3. Dirección General de Asuntos Agrarios del Distrito Federal, y
 
-C) Subsecretaría de Programas Metropolitanos;
+4. Coordinación General de Enlace Institucional con los Gobiernos de los Estados.
 
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
+D) La Subsecretaría de Programas Delegacionales y Reordenamiento de la Vía Pública.
 
-D) Coordinación General de Proyectos Estratégicos y Enlace Gubernamental;
-
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
-
-E) Dirección General de Programas Delegacionales y Reordenamiento de la Vía Pública;
-
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
-
-F) Dirección General de Concentración Política y Atención Social y Ciudadana, y
-
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
-
-G) Dirección General de Asuntos Agrarios del Distrito Federal.
-
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
-
-H) Coordinación General de Enlace Institucional con los Gobiernos de los Estados.
+E) La Dirección Ejecutiva de Sanciones Penales.
 
 Quedan adscritos a esta Secretaría los Órganos Político-Administrativos de cada demarcación territorial.
 
@@ -986,21 +972,23 @@ XIII. Las demás que les atribuyan expresamente los demás ordenamientos jurídi
 
 De las atribuciones de las Subsecretarías, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal y la Unidad de Inteligencia Financiera del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 31.
 
-Corresponde al titular de la Subsecretaría de Gobierno:
+Corresponde a la Subsecretaría de Gobierno:
 
-I. Coadyuvar en la conducción de las relaciones del Jefe de Gobierno con los Poderes de la Unión, órganos del gobierno local, gobiernos de las entidades federativas y ayuntamientos de los municipios;
+I. Coadyuvar en la conducción de las relaciones del Jefe de Gobierno con los Poderes de la Unión, Órganos del Gobierno Local, Gobiernos de las Entidades Federativas y ayuntamientos de los Municipios;
 
-II. Acordar con el titular de la Secretaría de Gobierno, el despacho de los asuntos que guarden relación con los Poderes de la Unión, órganos locales de gobierno, gobiernos de las entidades federativas y ayuntamientos de los municipios, en los asuntos de gobierno, de política demográfica, prevención y readaptación social, regularización de la tenencia de la tierra, atención ciudadana, gestión social y protección civil;
+II. Acordar con el Titular de la Secretaría de Gobierno, el despacho de los asuntos que guarden relación con los Poderes de la Unión, Órganos Locales de Gobierno, Gobiernos de las Entidades Federativas y Ayuntamientos de los Municipios, en los asuntos de Gobierno, Atención Ciudadana, y Gestión Social;
 
-III. Coordinar reuniones periódicas del titular de la Secretaría de Gobierno o, en su caso del Jefe de Gobierno, con los titulares de los Órganos Político-Administrativos y llevar el seguimiento de los acuerdos;
+III. Coordinar reuniones periódicas del Titular de la Secretaría de Gobierno o, en su caso del Jefe de Gobierno, con los Titulares de los Órganos Político-Administrativos y llevar el seguimiento de los acuerdos;
 
 IV. Atender, tramitar y resolver las solicitudes de audiencia con el titular de la Secretaría de Gobierno en el ámbito de las atribuciones de la Subsecretaría y, en su caso, dar seguimiento de las resoluciones adoptadas;
 
 V. Auxiliar en la conducción de la política interior que compete al Jefe de Gobierno y que no se atribuya expresamente a otra Unidad Administrativa;
 
-VI. Apoyar las gestiones en materia de límites;
+VI. apoyar (sic) las gestiones en materia de limites;
 
 VII. Coadyuvar en la conducción de las relaciones con los grupos políticos y sociales;
 
@@ -1008,37 +996,87 @@ VIII. Apoyar e intervenir en los procesos electorales de conformidad con las dis
 
 IX. Coadyuvar en la formulación y coordinar la implementación de las políticas de desarrollo cívico;
 
-X. Organizar los actos cívicos de la Administración Pública en coordinación con los Órganos Político-Administrativos;
+X. Organizar los actos cívicos de la Administración Pública en Coordinación con los Órganos Político-Administrativos;
 
 XI. Coordinar e implementar, dentro del ámbito de competencia de la Administración Pública, los apoyos necesarios para la celebración de plebiscitos;
 
-XII. Normar, coordinar, operar, administrar y supervisar el Sistema de Prevención y de Readaptación Social del Distrito Federal, y proveer administrativamente la ejecución de sentencias penales por delitos del fuero común, en los términos de las disposiciones jurídicas aplicables;
+XII. Supervisar el otorgamiento de los elementos técnicos disponibles, para evitar la invasión de predios o para lograr su desalojo;
 
-XIII. Supervisar y evaluar el registro estadístico de los centros de reclusión del Distrito Federal;
+XIII. Coadyuvar en la ejecución de los Programas de Protección Civil en el Distrito Federal;
 
-XIV. Coordinar las acciones de regularización de la tenencia de la tierra en el Distrito Federal, así como la ejecución de los programas que de ellas se deriven;
+XIV. Mantener informado al Titular de la Secretaría de Gobierno o, en su caso, al Jefe de Gobierno, del cumplimiento de los Convenios de Coordinación que celebre la Administración Pública del Distrito Federal con la Federación, las Entidades Federativas y los Municipios;
 
-XV. Supervisar el otorgamiento de los elementos técnicos disponibles, para evitar la invasión de predios o para lograr su desalojo;
+XV. Realizar estudios para proponer la modificación o reordenación de la división territorial del Distrito Federal, y participar en el Comité de trabajo correspondiente, en los términos del Estatuto de Gobierno;
 
-XVI. Coadyuvar en la ejecución de los programas de protección civil en el Distrito Federal;
+XVI. Participar en la elaboración del Programa General de Desarrollo del Distrito Federal y de los Programas que correspondan a los órganos político-administrativos; y
 
-XVII. Mantener informado al titular de la Secretaría de Gobierno o, en su caso, al Jefe de Gobierno, del cumplimiento de los convenios de coordinación que celebre la Administración Pública del Distrito Federal con la Federación, las Entidades Federativas y los Municipios;
+XVII. Coordinar y supervisar el cumplimiento de las funciones desconcentradas de los órganos político- administrativos.
 
-XVIII. Realizar estudios para proponer la modificación o reordenación de la división territorial del Distrito Federal, y participar en el comité de trabajo correspondiente, en los términos del Estatuto de Gobierno;
-
-XIX. Participar en la elaboración del Programa General de Desarrollo del Distrito Federal y de los programas que correspondan a los Órganos Político-Administrativos; y
-
-XX. Coordinar y supervisar el cumplimiento de las funciones desconcentradas de los Órganos Político-Administrativos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 32.
 
-(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
+Corresponde a la Subsecretaría de Sistema Penitenciario:
 
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+I. Organizar la operación y administración de los reclusorios y centros de readaptación social para arrestados y procesados;
+
+II. Normar, coordinar, operar, administrar y supervisar el Sistema de Prevención y de Readaptación Social del Distrito Federal;
+
+III. Emitir y difundir la normatividad sobre readaptación social en los centros de reclusión del Distrito Federal;
+
+IV. Determinar y coordinar el funcionamiento de los sistemas de seguridad en los reclusorios y centros de readaptación social;
+
+V. Coordinarse con las áreas homologas de los gobiernos de las entidades federativas en materia de prevención de la delincuencia, de conformidad con las disposiciones jurídicas aplicables;
+
+VI. Proponer convenios que deba celebrar el Distrito Federal con instituciones académicas y otras especializadas en materia de capacitación, adiestramiento y profesionalización penitenciaria;
+
+VII. Promover y coordinar acciones con las instituciones que apoyen las tareas de prevención de conductas delictivas;
+
+VIII. Coordinar la orientación técnica y aprobar los proyectos para la construcción y remodelación de instalaciones de readaptación social;
+
+IX. Vigilar que la producción y comercialización de artículos en las unidades industriales o de trabajo se destine a capacitar y a proporcionar a los internos estímulos y apoyos a su economía;
+
+X. Coordinar que en la prestación de servicios de atención médica y psicológica a los internos se cumplan las reglas de higiene general y personal;
+
+XI. Establecer los criterios de selección, formación, capacitación, evaluación y promoción del personal que preste sus servicios en las instituciones de readaptación social;
+
+XII. Promover investigaciones científicas relacionadas con conductas delictivas para la determinación de zonas criminógenas, con el fin de proponer medidas de prevención social necesarias;
+
+XIII. Coordinar la emisión de antecedentes penales y constancias de los mismos, para el ejercicio de un derecho o el cumplimiento de un deber legalmente previsto;
+
+XIV. Emitir la normativa para que todo interno en los centros penitenciarios y de readaptación participe en las actividades laborales, educativas, y terapéuticas necesarias para restaurar su estabilidad psicológica, moral y anímica y, para que se practiquen con oportunidad estudios que determinen su esfuerzo, la evolución de su tratamiento y relaciones con familiares y seres queridos;
+
+XV. Emitir los dispositivos normativos para la remisión de información de los procesados a las autoridades respectivas que los requieran;
+
+XVI. Establecer la coordinación necesaria con las autoridades de los gobiernos, federal, estatales y municipales, para el mejor ejercicio de las atribuciones que le corresponden conforme a este Reglamento y a otras disposiciones legales;
+
+XVII. Emitir los procedimientos para vigilar que los traslados de procesados, nacionales o extranjeros, se sujete a lo estipulado en la legislación nacional y en los tratados o convenios internacionales;
+
+XVIII. Dictar las normas y procedimientos a fin de evitar fenómenos de corrupción al interior de los Centros de Readaptación Social;
+
+XIX. Vigilar que los internos estén en condiciones psicológicas, materiales y de seguridad que les permitan contar con elementos mínimos para su defensa;
+
+XX. Establecer los lineamientos de seguridad personal de los procesados y vigilar su aplicación;
+
+XXI. Vigilar que se de cumplimiento a derechos humanos de los procesados y emitir los procedimientos para responder a las recomendaciones de los organismos especializados;
+
+XXII. Establecer los criterios para la profesionalización, capacitación, seguridad y eficiencia del personal técnico;
+
+XXIII. Desarrollar los indicadores y criterios estadísticos, así como desarrollar los estudios necesarios para evaluar en forma permanente el movimiento de población en reclusión y los factores criminológicos que inciden en el fenómeno delictivo de la Ciudad de México;
+
+XXIV. Supervisar y evaluar los controles y registros estadísticos que emiten los Centros de Reclusión, acerca de las actividades técnicas operativas, grupos vulnerables y acciones de diagnóstico, para definir las principales características de la población interna;
+
+XXV. Diseñar y supervisar las acciones que correspondan a la Administración Pública del Distrito Federal para cuidar que los menores a quienes se atribuya la comisión de infracciones reciban un trato justo y humano y, en consecuencia se erradiquen el maltrato, la incomunicación, la coacción psicológica, o cualquier otra acción que atente contra su dignidad o su integridad física o mental;
+
+XXVI. Participar en los procedimientos que tiendan a desarrollar o proponer medidas de orientación y protección para los menores infractores; y
+
+XXVII. Vigilar el cumplimiento de las disposiciones y procedimientos que correspondan al tratamiento de los menores y el respeto a sus derechos fundamentales.
+
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 32 Bis.
 
-Corresponde a la Subsecretaría de Programas Metropolitanos:
+Corresponde a la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental:
 
 I. Acordar con el titular de la Secretaría de Gobierno, o en su caso con el Jefe de Gobierno, el despacho de los asuntos que guarden relación con los órganos político-administrativos, con los Gobiernos de las Entidades Federativas y los municipios que colindan con el Distrito Federal, en los asuntos que correspondan a su ámbito de competencia;
 
@@ -1052,7 +1090,7 @@ V. Participar en las actividades materia de límites, en términos de lo dispues
 
 VI. Representar a la Administración Pública del Distrito Federal, ante los diversos mecanismos de coordinación metropolitana, en términos de lo dispuesto por los respectivos convenios de creación;
 
-VII. En coordinación con los titulares de las dependencias respectivas y previa opinión del Secretario de Gobierno proponer al Jefe de Gobierno, la suscripción de convenios para la constitución, integración y funcionamiento comisiones metropolitanas, en las materias de asentamientos humanos; protección al ambiente, preservación y restauración del equilibrio ecológico; transporte y vialidad; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos; seguridad pública y procuración de justicia; así como de aquellos otros que contribuyan al desarrollo de la Ciudad de México, con la participación que corresponda con la participación que corresponda (sic) a la federación y a los estados y municipios que colindan con el Distrito Federal;
+VII. En coordinación con los titulares de las dependencias respectivas y previa opinión del Secretario de Gobierno proponer al Jefe de Gobierno, la suscripción de convenios para la constitución, integración y funcionamiento (sic) comisiones metropolitanas, en las materias de asentamientos humanos; protección al ambiente, preservación y restauración del equilibrio ecológico; transporte y vialidad; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos; seguridad pública y procuración de justicia; así como de aquellos otros que contribuyan al desarrollo de la Ciudad de México, con la participación que corresponda con la participación que corresponda (sic) a la federación y a los estados y municipios que colindan con el Distrito Federal;
 
 VIII. Promover la difusión de convenios que en materia de coordinación metropolitana suscriba el Jefe de Gobierno;
 
@@ -1060,15 +1098,63 @@ IX. Promover y coordinar las relaciones institucionales de los órganos polític
 
 X. Promover las relaciones de colaboración, y asistir como testigo de calidad en la suscripción de convenios, entre los Órganos Político-Administrativos y los Municipios limítrofes, de conformidad con las normas aplicables;
 
-XI. Promover y realizar estudios, y en su caso elaborar proyectos, para sustentar técnicamente la coordinación metropolitana, que propicien formas eficientes de coordinación con los distintos órdenes de gobierno que inciden en la Ciudad de México;
+XI. Promover y realizar estudios, y en su caso elaborar proyectos, para sustentar técnicamente la coordinación metropolitana, que propicien formas eficientes de coordinación con los distintos ordenes de gobierno que inciden en la Ciudad de México;
 
 XII. Promover la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
 
 XIII. Establecer y Coordinar el Sistema de Información y análisis de la problemática de la Zona Metropolitana del Distrito Federal;
 
-XIV. Promover la creación de fondos orientados al desarrollo de la Zona Metropolitana del Distrito Federal; y
+XIV. Promover la creación de fondos orientados al desarrollo de la Zona Metropolitana del Distrito Federal;
 
-XV. Apoyar las tareas del consejo de población del Distrito Federal, en los términos de las disposiciones aplicables a la materia.
+XV. Apoyar las tareas del consejo de población del Distrito Federal, en los términos de las disposiciones aplicables a la materia;
+
+XVI. Instrumentar la aplicación de las políticas demográficas que fije la Secretaría de Gobernación en el ámbito de la competencia del Distrito Federal, así como fomentar y propiciar la coordinación interinstitucional y a la que corresponda en el Consejo Nacional de Población; y
+
+XVII. Coordinar las acciones de regularización de la tenencia de la tierra en el Distrito Federal, así como la ejecución de los programas que de ellas se deriven.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
+
+###### Artículo 32 Ter.
+
+Corresponde a la Subsecretaría de Programas Delegacionales y Reordenamiento de la Vía Pública:
+
+I. Acordar con el Secretario de Gobierno, el despacho de los asuntos relacionados con el seguimiento de las funciones desconcentradas de las Delegaciones del Distrito Federal;
+
+II. Proponer e integrar los proyecto de iniciativas de leyes, reglamentos o disposiciones administrativas; planes y programas delegacionales, así como para la regulación y reordenamiento de las actividades que se realizan en la vía pública, los establecimientos mercantiles, videojuegos y los espectáculos públicos;
+
+III. Proponer, dar seguimiento y evaluar los programas de trabajo y las acciones específicas que realice la Administración Pública Centralizada y de los Órganos Político-Administrativos, en materia de programas delegacionales, establecimientos mercantiles, espectáculos públicos, videojuegos y reordenamiento de las actividades que se realizan en vía pública que no correspondan a otra Dependencia o Unidad Administrativa y participar en el diseño e instrumentación de la planeación delegacional;
+
+IV. Planear, organizar y realizar acciones tendientes a reordenar las actividades que se realicen en vía pública, así como de los establecimientos mercantiles, videojuegos y espectáculos públicos, que no estén encomendadas a otra Dependencia o Unidad Administrativa;
+
+V. Proponer, coordinar y mantener actualizados los estudios técnicos, proyectos y análisis de la viabilidad de las actividades que se realicen en la vía pública, así como de los establecimientos mercantiles, videojuegos y espectáculos públicos, en los términos de la fracción anterior, con la participación que corresponde a las demás autoridades competentes;
+
+VI. Recopilar, concentrar y mantener actualizada la información sobre los establecimientos mercantiles, espectáculos públicos, videojuegos y las actividades que se realicen en la vía pública salvo que competa a otra Dependencia o Unidad Administrativa;
+
+VII. Concertar acciones con particulares y representantes de las organizaciones que realicen espectáculos públicos, así como actividades en establecimientos mercantiles y en la vía pública, y en general, con lo relacionado a los programas delegacionales, para conciliar los intereses de diversos sectores; salvo que competa a otra Dependencia o Unidad Administrativa;
+
+VIII. Operar, integrar y autorizar el registro de videojuegos;
+
+IX. Participar en el diseño e instrumentación de la planeación delegacional; así como participar en la elaboración del Programa General de Desarrollo del Distrito Federal de los Programas Delegacionales y Parciales de los órganos político-administrativos, y de todos aquellos programas que contribuyan al desarrollo integral de la Ciudad de México, como unidad metropolitana, en coordinación con las unidades administrativas competentes del Gobierno del Distrito Federal;
+
+X. Apoyar la organización de las giras y visitas de trabajo que realice el Jefe de Gobierno a las demarcaciones territoriales de los órganos político administrativos;
+
+XI. Auxiliar en la vigilancia del cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emita el Jefe de Gobierno y la Asamblea Legislativa del Distrito Federal, en el ámbito territorial de los Órganos Político Administrativos e informar de su cumplimiento al Secretario de Gobierno;
+
+XII. Coordinar y proponer proyectos para la reorganización territorial del Distrito Federal y la determinación de las funciones y la estructura orgánica, ocupacional y de organización de los Órganos Político-Administrativos;
+
+XIII. Promover la organización de foros y eventos que contribuyan al desarrollo integral de los Órganos Político-Administrativos;
+
+XIV. Apoyar las tareas del Consejo de Población del Distrito Federal, en los términos de las disposiciones aplicables a la materia;
+
+XV. Llevar un registro de las personas que ejerzan actividades en la vía pública y sus organizaciones; así como de los establecimientos mercantiles y espectáculos públicos;
+
+XVI. Coordinar y proponer la realización de estudios técnicos para determinar la viabilidad del establecimiento de empresas y unidades productivas, como una alternativa para las personas que realizan actividades en la vía pública, con el fin de proponer los planes y programas que resulten a las autoridades competentes;
+
+XVII. Proporcionar asesoría técnica, jurídica y administrativa a las personas que realicen sus actividades en la vía pública;
+
+XVIII. Impulsar mecanismos de coordinación entre los Órganos Político-Administrativos y las Unidades Administrativas de la Administración Pública del Distrito Federal, para mejorar el desempeño de los programas delegacionales y de las funciones desconcentradas; y
+
+XIX. Establecer un sistema permanente de información, coordinación y apoyo para el cumplimiento de las funciones desconcentradas y los programas delegacionales en los Órganos Político-Administrativos.
 
 ###### Artículo 33.
 
@@ -1656,75 +1742,185 @@ XIV. Atender todo lo relacionado a las invitaciones protocolarias y de prensa qu
 
 DE LA SECRETARIA DE GOBIERNO.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 39.
 
-Corresponde a la Dirección General de Gobierno
+Corresponde a la Dirección General de Gobierno.
 
 I. Apoyar, en el ámbito de su competencia, el desarrollo de los procesos electorales, conforme a las leyes aplicables;
 
-II. Instrumentar la aplicación de las políticas demográficas que fije la Secretaría de Gobernación en el ámbito de la competencia del Distrito Federal, así como fomentar y propiciar la coordinación interinstitucional y a la que corresponda en el Consejo Nacional de Población;
+II. Vigilar el cumplimiento de las disposiciones Legales y Reglamentarias en materia de desamortizaciones;
 
-III. Vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de desamortizaciones;
+III. Coadyuvar a la organización de giras y visitas de trabajo que realice el Jefe de Gobierno;
 
-IV. Coadyuvar a la organización de giras y visitas de trabajo que realice el Jefe de Gobierno;
+IV. Intervenir, en el ámbito de su competencia, en los trámites que realicen ciudadanos y organizaciones ante las dependencias, unidades administrativas, órganos político-administrativo y órganos desconcentrados (sic) Administración Pública;
 
-V. Intervenir, en el ámbito de su competencia, en los trámites que realicen ciudadanos y organizaciones ante las Dependencias, Unidades Administrativas, Órganos Político-Administrativo (sic) y Órganos Desconcentrados de la Administración Publica;
+V. Coadyuvar en la vigilancia del cumplimiento de las Leyes, Reglamentos, Acuerdos, Órdenes, Circulares y demás disposiciones del Jefe de Gobierno;
 
-VI. Coadyuvar en la vigilancia del cumplimiento de las leyes, reglamentos, acuerdos, órdenes, circulares y demás disposiciones del Jefe de Gobierno;
+VI. Auxiliar en las relaciones que le correspondan, con los órganos locales de gobierno; y
 
-VII. Auxiliar en las relaciones que le correspondan, con los órganos locales de gobierno; y
+VII. Auxiliar en la conducción de las relaciones con partidos, agrupaciones y asociaciones políticas.
 
-VIII. Auxiliar en la conducción de las relaciones con partidos, agrupaciones y asociaciones políticas.
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 40.
 
-Corresponde a la Dirección General de Prevención y Readaptación Social:
+Corresponde a la Dirección Ejecutiva de Prevención y Readaptación Social:
 
-I. Organizar la operación y administración de los reclusorios y centros de readaptación social para arrestados y procesados;
+I. Vigilar que se cumplan las políticas y estrategias generales del proceso de evaluación y de diagnóstico en materia de readaptación social de la población penitenciaria procesada y sentenciada en el Distrito Federal;
 
-II. Aplicar la normatividad sobre readaptación social en los centros de Reclusión del Distrito Federal;
+II. Supervisar las acciones de tratamiento, programas y técnicas tendientes a operar los procesos de readaptación social de la población interna;
 
-III. Determinar y coordinar el funcionamiento de los sistemas de seguridad en los reclusorios y centros de readaptación social;
+III. Promover y supervisar las acciones de tratamiento básico en materia de alfabetización, educación elemental, intermedia y superior para la población interna;
 
-IV. Participar en la elaboración y cumplimiento de los convenios de coordinación que se celebren con los gobiernos de las entidades federativas en materia de prevención de la delincuencia;
+IV. Supervisar y promover las actividades de capacitación para el trabajo enfocadas al desarrollo de habilidades técnicas, sociales, y valores que permitan a los internos mayores posibilidades de éxito en el ámbito productivo, mediante acciones coordinadas con instituciones académicas, organizaciones externas y dependencias gubernamentales;
 
-V. Proponer la Suscripción de convenios que deba celebrar el Distrito Federal con instituciones académicas públicas y privadas en materia de capacitación, adiestramiento y profesionalización penitenciaria;
+V. Supervisar y coordinar las acciones de promoción, organización y otorgamiento de empleo remunerado para la población interna, a través de instrumentos jurídicos que la superioridad suscriba con instituciones y organizaciones empresariales;
 
-VI. Coordinar acciones con las instituciones que, dentro del ámbito de su competencia, puedan apoyar la realización de las tareas de prevención de conductas delictivas;
+VI. Evaluar y autorizar el apoyo de organizaciones no gubernamentales, asociaciones civiles y dependencias que colaboran con la población interna en procesos de asistencia social, educación para la salud, de autoayuda, para la orientación religiosa, de cultura y recreación;
 
-VII. Orientar técnicamente y aprobar los proyectos para la construcción y remodelación de establecimientos de readaptación social, teniendo como objetivo, la separación de los procesados con los sentenciados;
+VII. Promover y supervisar la operación de actividades deportivas, culturales y recreativas en los diferentes Centros de Reclusión del Distrito Federal, considerando las necesidades e intereses de la población interna y en forma congruente con los propósitos de readaptación social;
 
-VIII. Administrar la producción y comercialización de artículos de las unidades industriales o de trabajo, destinadas a capacitar y a proporcionar a los internos estímulos y apoyos a su economía familiar;
+VIII. Registrar, difundir y evaluar los acuerdos de los Consejos Técnicos de los Centros Penitenciarios, de conformidad a las normas vigentes y recurrir ante las Direcciones de los Centros Penitenciarios, aquellos que incumplan el Reglamento de Centros de Reclusión para el Distrito Federal;
 
-IX. Vigilar que se proporcione a los internos la atención médica y psicológica necesaria y que se cumplan las reglas de higiene general y personal;
+IX. Supervisar el cumplimiento de los indicadores técnicos que están determinados por la Ley de Ejecución de Sanciones Penales para el Distrito Federal, en los procesos de análisis y presentación de casos para la obtención de posibles beneficios de libertad anticipada; y
 
-X. Establecer los criterios de selección, formación, capacitación, evaluación y promoción del personal que preste sus servicios en las instituciones de readaptación social;
+X. Determinar los elementos necesarios para la conformación del expediente técnico de cada interno durante las fases de diagnóstico, ubicación e intervención institucional para su operación en cada una de las Instituciones Penitenciarias del Distrito Federal.
 
-XI. Realizar y promover investigaciones científicas relacionadas con conductas delictivas y zonas criminógenas, con el fin de proponer las medidas de prevención social necesarias y, con base en ellas, definir los modelos de organización y tratamiento en los Centros de Readaptación Social;
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
 
-XII. Proporcionar antecedentes penales a las autoridades competentes y expedir, previa solicitud, constancias de los mismos, para el ejercicio de un derecho o el cumplimiento de un deber legalmente previsto;
+###### Artículo 40 Bis.
 
-XIII. Vigilar que todo interno participe en las actividades laborales, educativas y terapéuticas necesarias para su correcta estabilidad psicológica, moral y anímica, así como que se le practiquen con oportunidad estudios que muestren su esfuerzo y la evolución de su tratamiento y que mantenga siempre relaciones cercanas con sus familiares y seres queridos;
+Corresponde a la Dirección Ejecutiva de Trabajo Penitenciario:
 
-XIV. Proporcionar información sobre los procesados a las autoridades administrativas y electorales que en razón de sus funciones así lo requieran;
+I. Proponer la normativa para que las actividades encaminadas a la organización planeación, producción, desarrollo, supervisión, fomento, promoción y comercialización de los bienes a producirse en los talleres industriales o artesanales así como en las actividades de comercialización y prestación de servicios, se desarrollen de acuerdo a los objetivos y metas que establezca la Administración Pública del Distrito Federal;
 
-XV. Establecer la coordinación necesaria con las autoridades de los gobiernos federal, estatales y municipales, para el mejor ejercicio de las atribuciones que le corresponden conforme a este Reglamento y a otras disposiciones legales;
+II. Elaborar, suscribir, modificar y extinguir los convenios de colaboración, en los términos de la normatividad aplicable, con otras Instituciones Públicas y Privadas, Dependencias, Empresas, Asociaciones y Organismos, a fin de promover, incentivar y diversificar el impulso y crecimiento en la industria, área de servicios, talleres de autoconsumo y autogenerador del Sistema Penitenciario;
 
-XVI. Apoyar los traslados de procesados, nacionales o extranjeros, de acuerdo con lo estipulado en los tratados o convenios internacionales;
+III. Supervisar que se realice el pago oportuno por concepto de contraprestación que realicen los socios industriales a los trabajadores internos, así como por el uso de las instalaciones;
 
-XVII. Dictar las normas internas y revisar los procedimientos a fin de evitar los fenómenos de corrupción al interior de los Centros de Readaptación Social;
+IV. Llevar a cabo las acciones de enlace y coordinación con el área correspondiente, con objeto de que la aplicación del sistema de pago se realice oportunamente a los trabajadores internos;
 
-XVIII. Vigilar que las condiciones psicológicas, materiales y de seguridad le permitan contar al procesado con los elementos mínimos para su correcta defensa;
+V. Coordinar con cada uno de los Directores de los diferentes Centros de Reclusión, las acciones necesarias que permitan el establecimiento de actividades productivas por parte de socios industriales en los talleres industriales;
 
-XIX. Cuidar por la seguridad personal de los procesados, así como vigilar por su correcto equilibrio psicológico, moral y emocional;
+VI. Coordinar la implementación de las medidas necesarias de seguridad e higiene en cada uno de los talleres industriales;
 
-XX. Cuidar y vigilar siempre por el cumplimiento puntual y absoluto del respeto de los derechos humanos de los procesados; y
+VII. Planear y coordinar la recuperación de las naves consideradas como talleres industriales;
 
-XXI. Atender los criterios necesarios para la profesionalización y eficiencia del personal técnico de las dependencias, así como ver por su seguridad y capacitación.
+VIII. Establecer lineamientos de producción y comercialización de productos, bienes y servicios en los talleres industriales bajo el esquema de autogenerador;
+
+IX. Vigilar que los productos, bienes y servicios elaborados en los talleres industriales bajo el esquema de autogenerados, cumplan con la producción y normas de calidad establecidas;
+
+X. Coordinar, administrar y supervisar la operación de los estacionamientos ubicados al exterior de los diferentes Centros, bajo la normatividad aplicable e Implementar las acciones necesarias que permitan la recuperación de los estacionamientos de los Centros Penitenciarios del Distrito Federal;
+
+XI. Establecer los lineamientos necesarios para el mantenimiento preventivo y correctivo de la maquinaria y equipo de los talleres industriales;
+
+XII. Vigilar el buen uso y conservación de la materia prima de los talleres de autoconsumo;
+
+XIII. Vigilar la presentación de los informes mensuales de las órdenes de trabajo de producción de los talleres de autoconsumo al área correspondiente;
+
+XIV. Establecer los programas y lineamientos para la compra de materia prima, insumos, productos y materiales adecuados para dar cumplimiento a las especificaciones contenidas en las órdenes de trabajo de los talleres industriales o de autoconsumo;
+
+XV. Participar en el diseño del Programa Anual de Adquisiciones del ejercicio correspondiente;
+
+XVI. Coordinar con Instituciones Públicas, Privadas y Sociales vinculadas con la planeación, producción y comercialización, la integración de mecanismos y técnicas vigentes de productos, bienes y servicios, que permitan eficientar la producción, operación y comercialización de los talleres industriales;
+
+XVII. Coordinar el trabajo artesanal y promover a través del área de comercialización su participación, en eventos, ferias, exposiciones y muestras de los productos elaborados en los Centros de Reclusión;
+
+XVIII. Supervisar que la producción industrial, artesanal y de servicios, se lleve a cabo de conformidad a lo establecido por el Reglamento de los Centros de Reclusión del Distrito Federal y demás ordenamientos aplicables; y
+
+XIX. Participar en la elaboración de los informes sobre el desarrollo de los programas y gestión de la Industria Penitenciaria.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
+
+###### Artículo 40 Ter.
+
+Corresponde a la Dirección Ejecutiva de Seguridad Penitenciaria:
+
+I. Ejercer al mando directo del Cuerpo de Técnicos en Seguridad, con apego a las disposiciones legales vigentes;
+
+II. Privilegiar el trabajo de inteligencia, investigación y clasificación de la información respecto a la seguridad en cada Centro de Reclusión;
+
+III. Supervisar el funcionamiento de los elementos técnicos, electrónicos y humanos que intervienen en la captura, análisis y presentación de los diversos informes diarios sobre la seguridad institucional;
+
+IV. Transmitir permanentemente a la superioridad reportes confidenciales sobre hechos o eventos detectados en cada centro de reclusión;
+
+V. Aprobar la presentación y envío a la superioridad de los reportes y partes de novedades diariamente sobre el estado que guarda en materia de seguridad cada centro de reclusión;
+
+VI. Autorizar cualquier cambio de adscripción del personal técnico en seguridad y vigilar el cumplimiento de metas del programa de rotación periódica del personal de seguridad de un centro de reclusión a otro;
+
+VII. Aplicar las medidas legales a su alcance para mantener estándares positivos en el orden y disciplina en los centros de reclusión;
+
+VIII. Impulsar permanentemente la jornada sobre el uso del gafete de Identificación de los Técnicos en Seguridad, aplicando las sanciones previstas por el incumplimiento de esta obligación;
+
+IX. Imponer u ordenar las sanciones que correspondan a los técnicos en seguridad, que se hagan acreedoras a ellas, así como girar instrucciones para presentar aquellos casos ante el órgano competente;
+
+X. Solicitar mediante oficio a la superioridad el traslado de los internos con delitos federales o que pongan en riesgo la seguridad institucional; y
+
+XI. Establecer un sistema permanente de supervisión, para evitar que el personal incurra en conductas incorrectas en la visita familiar.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
+
+###### Artículo 40 Quater.
+
+Corresponde a la Dirección Ejecutiva Jurídica y de Derechos Humanos:
+
+I. Proponer los criterios generales y las normas que con apoyo en los ordenamientos que (sic) aplican sobre la materia en los centros de reclusión;
+
+II. Informar las alternativas de solución, sobre los convenios que sean susceptibles de celebrar, entre la Administración Pública del Distrito Federal y los gobiernos de los estados, en materia de prestación de servicios técnicos penitenciarios y transferencia de internos a otros establecimientos como lo estipulan los ordenamientos aplicables;
+
+III. Presentar los programas de carácter jurídico, relativos a la prevención de la delincuencia o de infracciones, de quienes se encuentren internos en los centros de reclusión;
+
+IV. Representar jurídicamente a la Secretaría de Gobierno del Distrito Federal, así como coordinar la elaboración de denuncias, ante las autoridades que correspondan por hechos posiblemente constitutivos de delito, que se cometan dentro de los centros de reclusión que conforman el sistema penitenciario;
+
+V. Coordinar la integración de los expedientes jurídicos de los internos para conocer su situación jurídica, determinar la fecha probable de su libertad, o saber si se encuentra en tiempo de obtener los beneficios que otorga la normativa correspondiente;
+
+VI. Verificar la debida integración de los informes previos y justificados solicitados por la Autoridad Judicial que conoce de los juicios de amparo;
+
+VII. Verificar jurídicamente la procedencia de los traslados de los internos a los diferentes centros de reclusión que integran el sistema penitenciario del Distrito Federal, de los correspondientes a las entidades federativas o a centros de reclusión federal;
+
+VIII. Coordinar y supervisar el funcionamiento de los Módulos de Información Jurídica, del Sistema Integral de Información e Imágenes de Reclusorios (SIIIR);
+
+IX. Mantener coordinación permanente con las distintas áreas para obtener la información necesaria a fin de atender las quejas y denuncias interpuestas por familiares, visitantes o internos de los centros de reclusión, así como de las áreas que integran la propia Secretaría Técnica;
+
+X. Mantener comunicación con el área de capacitación, a efecto de observar el cumplimiento de la normatividad que emita sobre la materia;
+
+XI. Proponer al personal que labora en la Secretaría de Gobierno del Distrito Federal, para participar en los cursos de capacitación que al efecto establezca el área competente, promoviendo el estudio, enseñanza y divulgación de los Derechos Humanos;
+
+XII. Atender y gestionar ante la autoridad responsable sobre los requerimientos que realicen los organismos de derechos humanos, dando respuesta dentro de los términos correspondientes;
+
+XIII. Orientar e informar a los familiares de los internos y al público en general, para promover el acercamiento de éstos con la Institución;
+
+XIV. Mantener en constante vigilancia a los supervisores y coordinadores de derechos humanos que laboran en los centros penitenciarios, para evitar acciones que contravengan las disposiciones administrativas y legales, y
+
+XV. Coordinar con el órgano interno de control la denuncia de los servidores públicos que se presuma participen en acciones ilícitas.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
+
+Artículo 40 Quintus.- Corresponde a la Dirección Ejecutiva de Tratamiento a Menores:
+
+I. Operar y administrar los centros de internamiento y tratamiento externo para menores;
+
+II. Proponer las normas sobre readaptación social en los centros de internamiento y tratamiento externo para menores;
+
+III. Proponer las normas y procedimientos a fin de evitar fenómenos de corrupción en los centros de internamiento y tratamiento externo para menores;
+
+IV. Llevar a cabo acciones necesarias para alcanzar la reintegración social de los menores;
+
+V. Aplicar, cumplir y dar seguimiento a las medidas de tratamiento impuestas a los menores;
+
+VI. Desarrollar los programas personalizados para la ejecución de las medidas de tratamiento impuestas a los menores, así como las de orientación y supervisión;
+
+VII. Proponer a la superioridad convenios de coordinación con instituciones y organismos públicos y privados, para la implantación de los mecanismos de ejecución de las medidas impuestas a los menores; y
+
+VIII. Llevar a cabo el control y supervisión de las acciones previstas en los convenios de coordinación para la implantación de los mecanismos de ejecución de las medidas impuestas a los menores.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 41.
 
-Corresponde a la Dirección de Ejecución de Sanciones Penales:
+Corresponde a la Dirección Ejecutiva de Sanciones Penales:
 
 I. Vigilar la ejecución de las sentencias dictadas por delitos de competencia de los tribunales del fuero común en el Distrito Federal;
 
@@ -1798,75 +1994,7 @@ XI. Coadyuvar en la tramitación ante instancias judiciales, cuando se trate de 
 
 ###### Artículo 44.
 
-Corresponde a la Dirección General de Programas Delegacionales y Reordenamiento de la Vía Pública:
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-I. Acordar con el Secretario de Gobierno, el despacho de los asuntos relacionados con el seguimiento de las funciones desconcentradas de las Delegaciones del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-II. Proponer e integrar los proyecto de iniciativas de leyes, reglamentos o disposiciones administrativas; planes y programas delegacionales, así como para la regulación y reordenamiento de las actividades que se realizan en la vía pública, los establecimientos mercantiles, videojuegos y los espectáculos públicos;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-III. Proponer, dar seguimiento y evaluar los programas de trabajo y las acciones específicas que realice la Administración Pública Centralizada y de los Órganos Político-Administrativos, en materia de programas delegacionales, establecimientos mercantiles, espectáculos públicos, videojuegos y reordenamiento de las actividades que se realizan en vía pública que no correspondan a otra Dependencia o Unidad Administrativa y participar en el diseño e instrumentación de la planeación delegacional;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-IV. Planear, organizar y realizar acciones tendientes a reordenar las actividades que se realicen en vía pública, así como de los establecimientos mercantiles, videojuegos y espectáculos públicos, que no estén encomendadas a otra Dependencia o Unidad Administrativa;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-V. Proponer, coordinar y mantener actualizados los estudios técnicos, proyectos y análisis de la viabilidad de las actividades que se realicen en la vía pública, así como de los establecimientos mercantiles, videojuegos y espectáculos públicos, en los términos de la fracción anterior, con la participación que corresponde a las demás autoridades competentes;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-VI. Recopilar, concentrar y mantener actualizada la información sobre los establecimientos mercantiles, espectáculos públicos, videojuegos y las actividades que se realicen en la vía pública salvo que competa a otra Dependencia o Unidad Administrativa;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-VII. Concertar acciones con particulares y representantes de las organizaciones que realicen espectáculos públicos, así como actividades en establecimientos mercantiles y en la vía pública, y en general, con lo relacionado a los programas delegacionales, para conciliar los intereses de diversos sectores; salvo que competa a otra Dependencia o Unidad Administrativa;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-VIII. Operar, integrar y autorizar el registro de videojuegos;
-
-IX. Participar en el diseño e instrumentación de la planeación delegacional; así como participar en la elaboración del Programa General de Desarrollo del Distrito Federal, de los Programas Delegacionales y Parciales de los Órganos Político-Administrativos, y de todos aquellos programas que contribuyan al desarrollo integral de la Ciudad de México, como unidad metropolitana, en coordinación con las Unidades Administrativas competentes del Gobierno del Distrito Federal;
-
-X. Apoyar la organización de las giras y visitas de trabajo que realice el Jefe de Gobierno a las demarcaciones territoriales de los Órganos Político Administrativos;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-XI. Auxiliar en la vigilancia del cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emita el Jefe de Gobierno y la Asamblea Legislativa del Distrito Federal, en el ámbito territorial de los Órganos Político Administrativos e informar de su cumplimiento al Secretario de Gobierno;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-XII. Coordinar y proponer proyectos para la reorganización territorial del Distrito Federal y la determinación de las funciones y la estructura orgánica, ocupacional y de organización de los Órganos Político-Administrativos;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-XIII. Promover la organización de foros y eventos que contribuyan al desarrollo integral de los Órganos Político-Administrativos;
-
-XIV. Apoyar las tareas del Consejo de Población del Distrito Federal, en los términos de las disposiciones aplicables a la materia;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-XV. Llevar un registro de las personas que ejerzan actividades en la vía pública y sus organizaciones; así como de los establecimientos mercantiles y espectáculos públicos;
-
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-XVI. Coordinar y proponer la realización de estudios técnicos para determinar la viabilidad del establecimiento de empresas y unidades productivas, como una alternativa para las personas que realizan actividades en la vía pública, con el fin de proponer los planes y programas que resulten a las autoridades competentes;
-
-XVII. Proporcionar asesoría técnica, jurídica y administrativa a las personas que realicen sus actividades en la vía pública;
-
-> <small>(ADICIONADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-XVIII. Impulsar mecanismos de coordinación entre los Órganos Político-Administrativos y las Unidades Administrativas del Gobierno del Distrito Federal, para mejorar el desempeño de los programas delegacionales y de las funciones desconcentradas; y
-
-> <small>(ADICIONADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-XIX. Establecer un sistema permanente de información, coordinación y apoyo para el cumplimiento de las funciones desconcentradas y los programas delegacionales en los Órganos Político-Administrativos.
+(DEROGADO, G.O. 11 DE ENERO DE 2008)
 
 ###### Artículo 45.
 
@@ -11443,3 +11571,13 @@ SEGUNDO.- Los recursos, humanos, materiales, técnicos y financieros de la Unida
 TERCERO.- Los asuntos, competencia de las Coordinaciones de nueva creación de la Secretaría de Cultura, que antes de la entrada en vigor del presente decreto correspondían a otras distintas, seguirán siendo tramitados y resueltos por estas últimas, hasta en tanto las de nueva creación no inicien formalmente sus actividades.
 
 CUARTO.- A las Coordinaciones de nueva creación se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+G.O. 11 DE ENERO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Las referencias hechas en diversos ordenamientos jurídicos a la Subsecretaría de Programas Metropolitanos, se entenderán hechas a la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental.
+
+TERCERO.- A las Subsecretarías y Direcciones Ejecutivas de nueva creación, se le transferirán los recursos humanos, materiales, técnicos y financieros que correspondían a la Dirección General de Prevención y Readaptación Social y a la Dirección General de Programas Delegacionales y Reordenamiento de la Vía Pública, para el adecuado desempeño de sus atribuciones, con la participación que corresponde a la Secretaría de Finanzas y a la Oficialía Mayor.
+
+CUARTO.- Los asuntos competencia de las Subsecretarías y las Direcciones Ejecutivas que se crean, y que antes de la entrada en vigor del presente decreto correspondían a la Dirección General de Prevención y Readaptación Social y a la Dirección General de Programas Delegacionales y Reordenamiento de la Vía Pública, seguirán siendo tramitados y resueltos por éstas, hasta en tanto no inicien formalmente sus actividades.
