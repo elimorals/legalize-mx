@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2008-01-08"
+last_updated: "2008-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -178,7 +178,13 @@ Las disposiciones contenidas en este ordenamiento son de orden público e inter�
 
 No será objeto de regulación de la presente Ley los locales destinados a la industria en todas sus especificaciones.
 
-Para efectos de la presente Ley, es supletoria la Ley de Procedimiento Administrativo del Distrito Federal, además los Establecimientos Mercantiles deberán acatar las disposiciones jurídicas en materias ambiental, protección civil, salud, desarrollo urbano y demás que les resulten aplicables.
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
+
+Para efectos de la presente Ley, es supletoria la Ley de Procedimiento Administrativo del Distrito Federal, además los titulares y dependientes de los Establecimientos Mercantiles deberán acatar las disposiciones jurídicas en materia ambiental, protección civil, salud, desarrollo urbano, protección a la salud de los no fumadores y demás que les resulten aplicables.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
+
+El Jefe de Gobierno del Distrito Federal, a través de las dependencias competentes, creará programas de estímulos temporales y permanentes, que fomenten la creación de Establecimientos Mercantiles libres de humo de tabaco.
 
 ###### Artículo 2.
 
@@ -202,9 +208,21 @@ VII. Declaración de Apertura: El acto administrativo por el cual la autoridad c
 
 VIII. Demarcación Territorial: El órgano desconcentrado de la administración pública del Distrito Federal, también conocido como Delegación;
 
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+
+VIII Bis. Dependiente. Toda aquella persona que desempeñe constantemente, las gestiones propias del funcionamiento del Establecimiento Mercantil en ausencia del Titular, a nombre y cuenta de éste;
+
 IX. Enseres en vía pública: Aquellos objetos como sombrillas, mesas, sillas, o cualquier instalación desmontable, colocados en la vía pública para la prestación del servicio que otorga el Establecimiento Mercantil;
 
 X. Establecimiento Mercantil: Local ubicado en un inmueble donde una persona física o moral desarrolla actividades relativas a la intermediación, compraventa, arrendamiento, distribución de bienes o prestación de servicios, con fines de lucro;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+
+X. Bis. Establecimiento Mercantil Libre de Tabaco. Aquel Establecimiento Mercantil en el que se prohíba fumar en la totalidad del mismo, sea por disposición legal o por así disponerlo el Titular del mismo;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+
+X Ter. Establecimiento Mercantil de Coexistencia con Fumadores. Aquel Establecimiento Mercantil en el que existen áreas para fumadores aisladas del resto del Establecimiento;
 
 XI. Giro con Impacto Vecinal: Las actividades que por sus características provocan transformaciones, alteraciones o modificaciones en la armonía de la comunidad;
 
@@ -248,9 +266,11 @@ XXIV. Ventanilla Única: Órgano adscrito a la Delegación del Distrito Federal,
 
 XXV. Verificación: El acto administrativo por medio del cual la autoridad, a través de los servidores públicos autorizados para tales efectos, inspecciona las actividades que se realizan en los Establecimientos Mercantiles y comprueba el cumplimiento de las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
+
 ###### Artículo 3.
 
-Están obligados a observar y cumplir las disposiciones de la presente Ley, los Titulares, así como los Servidores Públicos de la Administración Pública del Distrito Federal.
+Están obligados a observar y cumplir las disposiciones de la presente Ley, los titulares, dependientes, así como los servidores públicos de la Administración Pública del Distrito Federal.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES
 
@@ -338,13 +358,17 @@ Los Titulares, tienen las siguientes obligaciones:
 
 I. Destinar el local exclusivamente para el giro a que se refiere la Licencia de Funcionamiento, Permiso, la Autorización otorgada; o bien, los manifestados en la Declaración de Apertura;
 
-II. Tener a la vista del público en general, el original o copia certificada de la documentación vigente que acredite su legal funcionamiento;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+
+II. Tener a la vista del público en general, el original o copia certificada de la documentación vigente que acredite su legal funcionamiento, así como el nombre del titular y del dependiente del establecimiento;
 
 III. Revalidar cada tres años la Licencia de Funcionamiento;
 
 IV. Exhibir en un lugar visible al público y con caracteres legibles el horario en el que se prestarán los servicios ofrecidos;
 
-V. Permitir el acceso al Establecimiento Mercantil al personal autorizado por la Delegación para realizar las funciones de verificación que establece esta Ley, la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias. Cuando se trate de integrantes de corporaciones policiacas que se encuentren cumpliendo una comisión legalmente ordenada, podrán tener acceso únicamente el tiempo necesario para llevar a cabo dicha comisión. Asimismo, se impedirá el acceso a miembros del Ejército, Fuerza Aérea, Marina Armada y de Cuerpos Policiacos cuando pretendan hacer uso de los servicios al copeo, estando uniformados o armados;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+
+V. Permitir el acceso al establecimiento mercantil al personal autorizado por la Delegación para realizar las funciones de verificación que establece esta Ley, la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias. Cuando se trate de integrantes de corporaciones policíacas que se encuentren cumpliendo una comisión legalmente ordenada, podrán tener acceso únicamente el tiempo necesario para llevar a cabo dicha comisión; en caso de atender la denuncia del titular del Establecimiento Mercantil o de su dependiente, cuando exista el señalamiento de que alguien esté incumpliendo cierta disposición legal aplicable a los Establecimientos Mercantiles, los integrantes de las corporaciones policíacas que presten el auxilio, remitirán de inmediato al infractor al juez cívico competente y darán aviso a las autoridades delegacionales para los efectos legales a que haya lugar. Asimismo, se impedirá el acceso a miembros del ejército, fuerza aérea, marina armada y de cuerpos policíacos cuando pretendan hacer uso de los servicios al copeo, estando uniformados o armados;
 
 VI. Observar el horario general que fije la Ley y no permitir que los clientes permanezcan en su interior después del horario autorizado;
 
@@ -408,19 +432,37 @@ XXIV. Los titulares de las Licencias de Funcionamiento tipo B deberán contar co
 
 > <small>(ADICIONADA, G.O. 15 DE MAYO DE 2007)</small>
 
-XXV. Deberán romper todas las botellas vacías de vinos y/o licores, a fin de evitar que sean comercializadas y reutilizadas para la venta de bebidas adulteradas, y
+XXV. Deberán romper todas las botellas vacías de vinos y/o licores, a fin de evitar que sean comercializadas y reutilizadas para la venta de bebidas adulteradas, y (sic)
 
-> <small>(REFORMADA Y REUBICADA, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
 
-XXVI. Las demás que les señalen otros ordenamientos.
+XXVI. Para el caso de los Establecimientos Mercantiles de coexistencia con fumadores, se deberá delimitar físicamente el área destinada a fumadores, la cual no podrá ser mayor al 30% del área destinada al servicio. En caso de no ser posible su separación física o de no cumplir con esta disposición, se entenderá que toda el área será de no fumar;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+
+XXVII. Identificar clara y permanentemente el área de fumar con señalamientos y avisos de lugares visibles al público asistente, en aquellos Establecimientos Mercantiles a que se refiere la fracción X Ter del artículo 2º de esta Ley;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+
+XXVIII. Impedir la entrada a las áreas destinadas a los fumadores a los menores de 18 años aún y cuando estén acompañados de un adulto y éste pretende autorizar su entrada al área de fumadores;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+
+XXIX. Las demás que les señalen otros ordenamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 10.
 
-Queda prohibido a los Titulares y sus dependientes realizar o participar en las siguientes actividades:
+Queda prohibido a los Titulares y sus dependientes realizar, permitir o participar en las siguientes actividades:
 
-I. La venta de cualquier tipo de bebidas alcohólicas y cigarros a los menores de edad, aún cuando consuman alimentos;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
 
-II. La venta de bebidas alcohólicas cuando no se cuente con Licencia de Funcionamiento o no se encuentren en los supuestos previstos por el artículo 67 de esta Ley;
+I. La venta de cualquier tipo de bebidas alcohólicas y productos derivados del tabaco a los menores de edad, aún cuando consuman alimentos; así como permitir la entrada de menores de 18 años al área destinada a los fumadores, aun acompañados de un adulto;
+
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+
+II. La venta de bebidas alcohólicas cuando no se cuente con licencia de funcionamiento o no se encuentren en los supuestos previstos por el artículo 67 de esta Ley, así como la venta de cigarros por unidad suelta;
 
 III. El lenocinio, pornografía infantil, prostitución infantil, consumo y tráfico de drogas y delitos contra la salud, así como aquellas actividades que pudieran constituir una infracción administrativa o un delito grave. En estos casos deberá dar aviso a la autoridad, si se percata que en el interior del establecimiento o en la zona exterior, inmediatamente adyacente del local se realizan este tipo de conductas;
 
@@ -448,7 +490,13 @@ XIII. Exhibir material o publicidad de carácter pornográfico hacia la vía pú
 
 XIV. Para el caso de los establecimientos con licencia tipo B, obsequiar cualquier tipo de bebida alcohólica;
 
-XV. Las demás que señale esta Ley.
+> <small>(REFORMADA, G.O 11 DE ENERO DE 2008)</small>
+
+XV. En el caso de los Establecimientos Mercantiles a los que se refieren los incisos b), c) y d) del artículo 20, así como los establecidos en el párrafo segundo del artículo 22, y los previstos en el artículo 24, todos de esta Ley, además de los billares, queda estrictamente prohibido la venta de los productos derivados del tabaco;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+
+XVI. Las demás que señale esta Ley.
 
 ## TÍTULO SEGUNDO. DE LOS PERMISOS Y AUTORIZACIONES
 
@@ -457,6 +505,10 @@ XV. Las demás que señale esta Ley.
 ###### Artículo 11.
 
 Los titulares de los Establecimientos Mercantiles que funcionen como restaurantes o cafeterías podrán colocar en la vía pública, previo Permiso otorgado por la Delegación y pago de los derechos que establezca el Código Financiero del Distrito Federal, enseres e instalaciones que sean necesarios para la prestación del servicio consignado en su Declaración de Apertura o en su Licencia de Funcionamiento.
+
+> <small>(ADICIONADO, G.O 11 DE ENERO DE 2008)</small>
+
+En la vía pública en donde se coloquen enseres, se podrá fumar sin restricción alguna.
 
 ###### Artículo 12.
 
@@ -574,6 +626,10 @@ Los Establecimientos Mercantiles señalados en los incisos anteriores, además d
 
 Los Salones de Fiesta tendrán como actividad única la renta de espacio a particulares para la celebración de eventos y fiestas privadas, sin que en ningún caso se pueda llevar a cabo la venta al menudeo de alimentos o bebidas, incluidas las alcohólicas, o el cobro de una cantidad por admisión individual. Quedan exceptuados del requisito de Licencia de Funcionamiento los Salones de Fiestas Infantiles que sólo requerirán de Declaración de Apertura.
 
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
+
+La separación de áreas aisladas para fumadores no es aplicable en los salones de fiesta. En los salones en donde se realicen fiestas infantiles queda prohibido fumar en la totalidad del inmueble.
+
 ###### Artículo 22.
 
 Los Restaurantes tendrán como giro la venta de alimentos preparados y la venta de bebidas alcohólicas. Además, podrán prestar el servicio de música viva, grabada o videograbada y en ningún caso se permitirá servir bebidas alcohólicas a las personas que no cuenten con lugar propio o a menores de edad.
@@ -624,6 +680,10 @@ Las actividades complementarias deberán de ajustar su horario a las disposicion
 
 Quedan exceptuados de la tramitación de Licencia de Funcionamiento los Campos para Casas Móviles, Casas de Huéspedes, Hostales y Albergues, que sólo requerirán Declaración de Apertura y en ningún caso podrán vender bebidas alcohólicas.
 
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
+
+Los establecimientos mercantiles a los que hace mención este artículo deberán destinar un porcentaje del total de sus habitaciones, que no podrá ser mayor al 25 % del total a los fumadores.
+
 ### CAPÍTULO III. DE LAS LICENCIAS DE FUNCIONAMIENTO TIPO B
 
 ###### Artículo 24.
@@ -652,7 +712,9 @@ Los giros señalados en los incisos a) y b) podrán prestar los servicios de ven
 
 Los demás giros señalados en este artículo, podrán prestar los servicios de venta de bebidas alcohólicas para el consumo en su interior, alimentos preparados, música viva, eventos culturales, manifestaciones artísticas de carácter escénico, cinematográfico, literario o debate, música grabada, música videograbada, espacio para bailar o espectáculos.
 
-Queda prohibida la entrada a menores de edad a todos los Establecimientos Mercantiles a que se refiere este capítulo con la excepción del inciso e) cuando se celebren tardeadas en cuyo caso no se podrán vender ni distribuir bebidas alcohólicas.
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
+
+Queda prohibida la entrada a menores de edad a todos los establecimientos mercantiles a que se refiere este capítulo con la excepción del inciso e) cuando se celebren tardeadas en cuyo caso no se podrán vender ni distribuir bebidas alcohólicas y productos derivados del tabaco.
 
 En el Establecimiento Mercantil cuyo giro se encuentre dentro de los que requieran Licencia de Funcionamiento Tipo B, se podrá ofrecer al público, sin necesidad de tramitar una nueva Licencia o Declaración de Apertura, el servicio o alquiler de juegos de salón, de mesa y billares.
 
@@ -668,7 +730,9 @@ II. Si el solicitante es extranjero deberá presentar la Autorización expedida 
 
 III. Si es persona moral, su representante legal acompañará el documento con el que acredite su personalidad, copia de una identificación oficial vigente con fotografía; así como copia certificada de la escritura constitutiva debidamente registrada o con registro en trámite;
 
-IV. Ubicación y superficie del local donde pretende establecerse el giro mercantil;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+
+IV. Ubicación y superficie total del local donde pretende establecerse el giro mercantil, en su caso, un plano en donde se especifiquen las divisiones de las áreas destinadas a fumadores y no fumadores, entendiéndose que toda el área del Establecimiento Mercantil será de no fumar en caso de no incluir las divisiones;
 
 V. Giro mercantil que se pretende ejercer;
 
@@ -694,7 +758,9 @@ I. Para las Licencias de Funcionamiento Tipo A, el plazo máximo para la expedic
 
 II. Para Las Licencias de Funcionamiento Tipo B, el plazo máximo para la expedición será de 20 días hábiles, contados a partir del día hábil siguiente en que se presente la solicitud.
 
-La Delegación, dentro de los plazos señalados, podrá realizar visitas o cotejos para verificar que las manifestaciones y documentos de las solicitudes respectivas sean verídicos, de conformidad con lo que establezca la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias.
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
+
+La Delegación, dentro de los plazos señalados, deberá realizar visitas y cotejos para verificar que las manifestaciones y documentos de las solicitudes respectivas sean verídicos, de conformidad con lo que establezca la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias.
 
 En la Licencia de Funcionamiento se hará constar en forma clara el giro mercantil que se autorice ejercer, de acuerdo con la actividad permitida en el uso de suelo.
 
@@ -776,7 +842,9 @@ Los procedimientos de medición se realizarán conforme a lo que se establezca e
 
 Los establecimientos mercantiles en los que se preste el servicio de hospedaje con servicio de restaurante, bar o discoteca, o paralelamente se ejerza algún otro giro, deberán contar para su operación con locales que formen parte de la construcción, separados por muros, canceles, mamparas o desniveles, construidos o instalados de modo que eviten molestias tanto a los huéspedes en sus habitaciones como a las personas que vivan en inmuebles aledaños, y observarán las siguientes disposiciones:
 
-I. Exhibir en lugar visible para el público, con caracteres legibles, la tarifa de hospedaje, horario de vencimiento del servicio, la tarifa de los giros autorizados y el aviso de que cuenta con caja de seguridad para la guarda de valores;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+
+I. Exhibir en lugar visible para el público, con caracteres legibles, la tarifa de hospedaje, horario de vencimiento del servicio, la tarifa de los giros autorizados; identificar de conformidad con lo estipulado en la Ley de Protección a la Salud de los No Fumadores del Distrito Federal las áreas destinadas a los fumadores, y el aviso de que cuenta con caja de seguridad para la guarda de valores;
 
 II. Llevar el control de llegadas y salidas de huéspedes con anotación en libros, tarjetas de registro o sistema computarizado, en los que incluya nombre, ocupación, origen, procedencia y lugar de residencia;
 
@@ -1266,23 +1334,23 @@ Cuando se detecte que en alguno de los eventos a que se refiere el artículo 16 
 
 El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al sitio de almacenaje destinado por la Delegación, previo inventario del aseguramiento, del cual se entregará de manera inmediata copia al responsable del evento del que se trate.
 
-> <small>(REFORMADO, G.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 73.
 
-Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones IV, XII, XIII, XVII y XXII; 10 fracción II; 34 párrafos primero y segundo; 35 fracciones I, II III y VI; 42 fracciones I y III; 46 fracción II; 65 fracciones IV y V y 66 de la Ley.
+Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones IV, XII, XIII, XVII, XXII y XXVII; 10 fracción II; 34 párrafos primero y segundo; 35 fracciones I, II, III y VI; 42 fracciones I y III; 46 fracción II; 65 fracciones IV, y V, y 66 de la ley.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 74.
 
-Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones II, III, VIII, XI, XII, XIV, XV, XVI primer párrafo, XIX, XX y XXI; 10 fracciones IV, VI, VII y XIII; 12; 22; 35 fracciones IV y V; 40 segundo párrafo; 42 fracciones II y IV; 46 fracciones I, IV y V; 50; 54 ; 55 fracción V; 58; 59 fracciones I, II y V; 60; 62; 65 fracciones II, III, VI y VII, 67; de la Ley.
+Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones II, III, VIII, XI, XII, XIV, XV, XVI primer párrafo, XIX, XX, XXI, XXVI y XXVIII; 10 fracciones IV, VI, VII y XIII; 12; 21 segundo párrafo; 22; 23 último párrafo; 35 fracciones IV y V; 40 segundo párrafo; 42 fracciones II y IV; 46 fracciones I, IV y V; 50; 54 ; 55 fracción V; 58; 59 fracciones I, II y V; 60; 62; 65 fracciones II, III, VI y VII, 67; de la Ley.
 
-> <small>(REFORMADO, G.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 75.
 
-Se sancionará con el equivalente de 351 a 2500 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones I, V, VI, VII, IX, X, XVI segundo párrafo y XVIII; 10 fracciones I, III, V, VIII, IX, X y XI; 15; 16; 32 ; 33; 34 tercer y cuarto párrafos; 37, 43, 44, 52, 55 fracciones I, II, III y IV; 57; 59 fracciones III y IV; 61; 65 fracción I, 67-Bis fracciones I, II y III de la ley.
+Se sancionará con el equivalente de 351 a 2500 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones I, V, VI, VII, IX, X, XVI segundo párrafo y XVIII; 10 fracciones I, III, V, VIII, IX, X, XI y XV; 15; 16; 32; 33; 34 tercer y cuarto párrafos; 37, 43 44, 52, 55 fracciones I, II, III y IV; 57; 59 fracciones III y IV; 61; 65 fracción I , 67-bis fracciones I, II y III de la Ley.
 
 ###### Artículo 76.
 
@@ -1332,17 +1400,27 @@ XII. Por utilizar aislantes de sonido que pongan en riesgo la seguridad de los u
 
 > <small>(ADICIONADA, G.O. 14 DE MAYO DE 2002)</small>
 
-XIII. Cuando se exceda con los enseres la superficie marcada por el artículo 12, y
+XIII. Cuando se exceda con los enseres la superficie marcada por el artículo 12, y (sic)
 
 > <small>(ADICIONADA, G.O. 14 DE MAYO DE 2002)</small>
 
-XIV. Cuando no se cumplan las disposiciones a que hacen referencia los artículos 9 fracción XVI párrafo segundo y 67-Bis fracciones I, II y III.
+XIV. Cuando no se cumplan las disposiciones a que hacen referencia los artículos 9 fracción XVI párrafo segundo y 67-Bis fracciones I, II y III;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+
+XV. Cuando los Establecimientos Mercantiles no cuenten con los espacios libres de humo requeridos por la presente Ley y demás disposiciones legales y reglamentarias aplicables;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+
+XVI. En los casos previstos en la fracción XV del artículo 10 de esta Ley.
 
 ###### Artículo 78.
 
 Serán motivo de clausura permanente, sujetándose al procedimiento de revocación de oficio de las Licencias, los Establecimientos Mercantiles que realicen las siguientes actividades:
 
-I. Los que expendan bebidas alcohólicas a los menores de edad;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+
+I. Los que expendan bebidas alcohólicas a los menores de edad y productos derivados del tabaco.
 
 II. Los que realicen o exhiban en el interior de los Establecimientos Mercantiles la pornografía infantil, prostitución infantil, lenocinio, narcotráfico y en general aquellas actividades que pudieran constituir un delito grave. Para los efectos de esta fracción, quedarán comprendidos como parte del Establecimiento Mercantil, aquellas accesorias, bodegas o espacios anexos al mismo que sean o hayan sido utilizados para lo que establece esta fracción;
 
@@ -1350,11 +1428,11 @@ Cuando exista oposición a la ejecución de la clausura, la Delegación podrá h
 
 III. Los que expendan bebidas adulteradas, o con substancias químicas que puedan afectar la salud del consumidor.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 79.
 
-El estado de clausura impuesto con motivo de alguna de las causales señaladas en las fracciones I, II, III, V, VI XIII y XIV del artículo 77, así como por la violación a lo contenido en los artículos 55, 60 y 61, será temporal y en su caso parcial y sólo podrá ser levantado cuando haya cesado la falta o violación que hubiera dado lugar a su imposición.
+El estado de clausura impuesto con motivo de alguna de las causales señaladas en las fracciones I, II, III, V, VI, XIII, XIV, XV y XVI del artículo 77, así como por la violación a lo contenido en los artículos 55, 60 y 61, será temporal y en su caso parcial y sólo podrá ser levantado cuando haya cesado la falta o violación que hubiera dado lugar a su imposición.
 
 Procederá la clausura parcial cuando las condiciones especiales de cada giro permitan el funcionamiento de los mismos con total independencia uno de otro.
 
@@ -1573,3 +1651,17 @@ G.O. 8 DE ENERO DE 2008.
 PRIMERO. Remítase al ciudadano Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 11 DE ENERO DE 2008.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+CUARTO. Los Titulares de los Establecimientos Mercantiles de coexistencia con fumadores, contarán con un plazo de seis meses a partir de que entre en vigor el presente decreto para hacer las modificaciones correspondientes. Una vez recibida la solicitud de acondicionamiento para llevar a cabo la separación física entre fumadores y no fumadores por parte del Titular del Establecimiento, las autoridades delegacionales deberán responder a la misma en un plazo máximo que no exceda de 48 horas. En caso de que el Titular del Establecimiento no sea notificado de la respuesta a su solicitud, se entenderá que la misma es procedente, sin mayor trámite.
+
+QUINTO. La Asamblea Legislativa del Distrito Federal deberá implementar una campaña permanente para dar a conocer a los Titulares de los Establecimientos Mercantiles y a la ciudadanía en general, los derechos y obligaciones que se derivan por la entrada en vigor del presente decreto. Para tal fin, se deberá prever en el Presupuesto de Egresos una partida suficiente para poder llevar a cabo acciones de promoción y publicidad en medios electrónicos e impresos.
+
+SEXTO.- El Gobierno del Distrito Federal y los Órganos Político-Administrativos efectuarán una campaña de difusión del presente decreto.
