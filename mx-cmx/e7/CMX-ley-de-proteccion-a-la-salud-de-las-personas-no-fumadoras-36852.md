@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-a-la-salud-de-las-personas-no-fumadoras-36852
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-29"
-last_updated: "2007-11-01"
+last_updated: "2008-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36852&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-13"
 
 LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -54,9 +54,9 @@ La presente Ley es de orden público e interés general y tiene por objeto:
 
 I. Proteger la salud de la población de los efectos nocivos por inhalar involuntariamente el humo de la combustión del tabaco, en lo sucesivo humo de tabaco.
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
 
-II. Establecer mecanismos y acciones tendientes a prevenir y disminuir las consecuencias derivadas del consumo de tabaco y de la exposición al humo de la combustión (sic) tabaco en cualquiera de sus formas, y
+II. Establecer mecanismos, acciones y políticas públicas tendientes a prevenir y disminuir las consecuencias derivadas del consumo de tabaco y de la exposición al humo de la combustión (sic) tabaco en cualquiera de sus formas, y
 
 > <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -675,3 +675,17 @@ SEGUNDO.- Las presentes reformas a la Ley de Protección a la Salud de los no Fu
 TERCERO.- El Gobierno del Distrito Federal deberá expedir el Reglamento correspondiente a la presente Ley en un plazo no mayor a 60 días naturales de la entrada en vigor de las presentes reformas.
 
 CUARTO.- La Asamblea Legislativa del Distrito Federal considerará en el Presupuesto de Egresos 2008, una partida presupuestal para promover la creación de los centros delegacionales contra el tabaquismo y para las clínicas y servicios para la atención de fumador, previstos en el artículo 7 fracciones VIII y IX de esta Ley.
+
+G.O. 11 DE ENERO DE 2008.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+CUARTO. Los Titulares de los Establecimientos Mercantiles de coexistencia con fumadores, contarán con un plazo de seis meses a partir de que entre en vigor el presente decreto para hacer las modificaciones correspondientes. Una vez recibida la solicitud de acondicionamiento para llevar a cabo la separación física entre fumadores y no fumadores por parte del Titular del Establecimiento, las autoridades delegacionales deberán responder a la misma en un plazo máximo que no exceda de 48 horas. En caso de que el Titular del Establecimiento no sea notificado de la respuesta a su solicitud, se entenderá que la misma es procedente, sin mayor trámite.
+
+QUINTO. La Asamblea Legislativa del Distrito Federal deberá implementar una campaña permanente para dar a conocer a los Titulares de los Establecimientos Mercantiles y a la ciudadanía en general, los derechos y obligaciones que se derivan por la entrada en vigor del presente decreto. Para tal fin, se deberá prever en el Presupuesto de Egresos una partida suficiente para poder llevar a cabo acciones de promoción y publicidad en medios electrónicos e impresos.
+
+SEXTO.- El Gobierno del Distrito Federal y los Órganos Político-Administrativos efectuarán una campaña de difusión del presente decreto.
