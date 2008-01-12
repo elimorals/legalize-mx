@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2007-10-31"
+last_updated: "2008-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2008.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -277,9 +277,13 @@ III.- Asistir con voz y voto a las sesiones del pleno del Congreso, así como a 
 
 IV.- Gestionar ante las autoridades la atención de los asuntos que les planteen sus representados;
 
-V.- Formular preguntas por escrito al Secretario de Gobierno, Procurador General de Justicia o a cualquiera de los Directores Generales de la Administración Pública Estatal, y
+V.- Formular preguntas por escrito al Secretario de Gobierno, Procurador General de Justicia o a cualquiera de los Directores Generales de la Administración Pública Estatal, y (sic)
 
-VI.- Representar al Congreso en los foros, audiencias públicas y reuniones nacionales o internacionales para los que sean designados por el Pleno, el Presidente del Congreso o de la Diputación Permanente en su caso.
+VI.- Representar al Congreso en los foros, audiencias públicas y reuniones nacionales o internacionales para los que sean designados por el Pleno, el Presidente del Congreso o de la Diputación Permanente en su caso;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2008)</small>
+
+VII.- Participar en la elaboración de la Agenda Legislativa, de la correspondiente Legislatura.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
@@ -375,17 +379,23 @@ Cuando se prorrogue un Período Ordinario de Sesiones de conformidad con lo disp
 
 Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar la libertad de las deliberaciones, cuidar de la efectividad de los trabajos y aplicar con imparcialidad las normas y acuerdos que rigen al Congreso.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2008)</small>
+
+###### Art. 29 Bis.
+
+Antes de clausurado el Primer Período Ordinario de Sesiones del Primer Año de Ejercicio Constitucional, el Pleno deberá aprobar la Agenda Legislativa del Congreso del Estado, que contendrá los objetivos y metas comunes de la Legislatura correspondiente, así como un programa general para alcanzarlos. La Agenda Legislativa se aprobará de conformidad con la propuesta que elabore la Junta de Coordinación Parlamentaria, con la participación de todos los partidos políticos representados en el Congreso, y concluirá al finalizar cada Legislatura.
+
 ### CAPITULO II. DEL PRESIDENTE
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
 ###### Art. 30.
 
-Son atribuciones del Presidente de la Mesa Directiva:
+Son atribuciones del presidente de la mesa directiva:
 
 I.- Dirigir y coordinar la acción de la misma y ostentar la representación oficial del Congreso;
 
-II.- Adoptar las medidas necesarias para la organización del trabajo de las sesiones del Pleno;
+II.- Adoptar las medidas necesarias para la organización del trabajo de las sesiones del pleno;
 
 III.- Asistir con voz y voto a las reuniones de la Junta de Coordinación Parlamentaria;
 
@@ -1805,11 +1815,13 @@ En caso de persistir la omisión, se le hará efectiva la multa y se le conminar
 
 Si no se presenta la declaración final dentro del plazo establecido, se impondrá al omiso una sanción pecuniaria hasta por doscientas veces el salario mínimo diario vigente y se dará vista al Ministerio Público, para que practique las investigaciones necesarias en cuanto a la situación patrimonial del omiso, a fin de que proceda conforme a derecho.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2008)</small>
 
 ###### Art. 170.
 
-La Comisión de Fiscalización diseñará y proporcionará gratuitamente los formatos e instructivos conforme a los cuales los servidores públicos del Congreso deberán presentar su declaración de situación patrimonial.
+La Comisión de Fiscalización diseñará y proporcionará gratuitamente los formatos e instructivos, conforme a los cuales los servidores públicos del Poder Legislativo, así como de los Ayuntamientos, estos últimos en los términos del artículo 93 del Código Municipal, deberán presentar su declaración de situación patrimonial ante el Congreso.
+
+Los formatos e instructivos deberán estar disponibles en Internet y se podrán recibir las declaraciones por esta vía, cuidando que la confiabilidad y seguridad de este medio sean óptimas.
 
 ###### Art. 171.
 
@@ -2148,3 +2160,17 @@ El presente Decreto entrará en vigor al momento de su aprobación, sin perjuici
 ###### ARTÍCULO SEGUNDO.
 
 En todo lo relativo a los recursos humanos, financieros y materiales que actualmente están a cargo de los órganos técnicos Oficialía Mayor y Unidad Técnica y de Investigación Legislativa, y que en virtud de este Decreto pasen a formar parte de las áreas de nueva creación, se estará a las disposiciones que dicten la Junta de Coordinación Parlamentaria y el Comité de Administración.
+
+P.O. 12 DE ENERO DE 2008.
+
+DECRETO No. 14/07 I P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ENERO DE 2008.
+
+DECRETO No. 16/07 I P.O.
+
+ÚNICO.- Esta reforma entrará en vigor a partir del primero de enero del año 2008, previa su publicación en el Periódico Oficial del Estado.
