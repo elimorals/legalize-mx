@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-y-fomento-economico-para-el-estado-de-55151"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-14"
-last_updated: "2007-04-14"
+last_updated: "2008-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO Y FOMENTO ECONOMICO PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2007.
 
@@ -171,7 +171,9 @@ j) La Secretaría de Finanzas.
 
 k) Los Consejos de Desarrollo Económico Regional.
 
-l) Los Diputados integrantes de la Comisión de Desarrollo Económico del Congreso del Estado.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2008)</small>
+
+l) Los Diputados Presidentes de las Comisiones Legislativas de Desarrollo Industrial y de Desarrollo Comercial del H. Congreso del Estado.
 
 m) Los Presidentes Municipales.
 
@@ -558,3 +560,11 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE ENERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
