@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "2006-04-24"
+last_updated: "2008-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, PUBLICADO EN EL D.O.F. DE 14 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -6390,3 +6392,29 @@ Artículo Séptimo.- De ser necesario, con la participación del Instituto, el T
 D.O.F. 24 DE ABRIL DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE ENERO DE 2008.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Lo dispuesto en el párrafo 3 del artículo 100 iniciará su vigencia una vez que haya concluido el proceso electoral federal del año 2009.
+
+Tercero.- Se abroga el Código Federal de Instituciones y Procedimientos Electorales publicado en el Diario Oficial de la Federación el 15 de agosto de 1990, así como sus reformas y adiciones.
+
+Cuarto.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Quinto.- El personal del Instituto Federal Electoral que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Sexto.- Cuando con motivo del presente Decreto, cualquier órgano, central o desconcentrado, del Instituto cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo.
+
+Séptimo.- El titular de la Contraloría General del Instituto Federal Electoral, será designado por la Cámara de Diputados a más tardar el 30 de abril de 2008.
+
+Octavo.- Para el cumplimiento de lo establecido en el párrafo 4o. del artículo 200 de este Código, las credenciales para votar que tengan como último recuadro el "03" para el marcaje del año de la elección federal, podrán ser utilizadas por sus titulares para ejercer el derecho de voto hasta la elección del año 2009. A partir del día siguiente a la celebración de la jornada electoral respectiva, los ciudadanos en este supuesto, deberán acudir al módulo de atención ciudadana con la finalidad de actualizar sus datos en el Padrón Electoral. Para el caso de las credenciales con último recuadro "09" el Consejo General dispondrá lo necesario para su utilización y/o reemplazo con base en los estudios técnicos que realice el Registro Federal de Electores previo al inicio del proceso electoral de 2012.
+
+Noveno.- El Consejo General dictará los acuerdos necesarios para hacer efectivas las disposiciones de este Código y deberá expedir los reglamentos que se deriven del mismo a más tardar en 180 días a partir de su entrada en vigor.
+
+Décimo.- A más tardar el 30 de abril de 2008, el Congreso de la Unión deberá expedir la ley reglamentaria del derecho de réplica establecido en el primer párrafo del artículo 6o. de la Constitución.
+
+Décimo Primero.- En un plazo de treinta días, contados a partir de la entrada en vigor del presente Decreto, los partidos políticos y los entes públicos, tanto federales como locales, deberán retirar o suprimir la propaganda colocada en lugares públicos que contravenga las disposiciones que al respecto establece este Código.
+
+Décimo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
