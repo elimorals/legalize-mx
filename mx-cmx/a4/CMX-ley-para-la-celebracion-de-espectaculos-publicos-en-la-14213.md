@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2006-06-14"
+last_updated: "2008-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ENERO DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -172,9 +172,11 @@ La solicitud y el formato deberán ser los que determine la Administración y su
 
 ### CAPÍTULO III. De los Espectáculos Públicos en General
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE ENERO DE 2008)</small>
+
 ###### Artículo 12.
 
-Son obligaciones de los Titulares, cualquiera que sea el lugar en que se celebre algún Espectáculo público:
+Son obligaciones de los Titulares, cualesquiera que sea el lugar en que se celebre algún espectáculo público:
 
 I. Previo a la celebración de cualquier Espectáculo público, obtener el permiso de la Delegación o presentar el aviso de su realización, según sea el caso;
 
@@ -196,7 +198,9 @@ IX. Establecer en el lugar donde se celebre el Espectáculo público las facilid
 
 X. Presentar el Espectáculo público en los términos y condiciones ofrecidos en la publicidad que de éste se haya difundido al público;
 
-XI. Evitar que en la presentación de los Espectáculos se atente contra la dignidad y seguridad, tanto de los espectadores como de los que intervienen en los mismos, cuidando especialmente que no exista contacto físico entre el público asistente y participantes durante la celebración del Espectáculo;
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2008)</small>
+
+XI. Evitar que en la presentación de los Espectáculos se atente contra la salud, dignidad y seguridad, tanto de los espectadores como de los que intervienen en los mismos, cuidando especialmente que no exista contacto físico entre el público asistente y participantes durante la celebración del Espectáculo;
 
 XII. Proporcionar a los participantes en el Espectáculo público, sanitarios higiénicos y suficientes para ambos sexos, y de igual manera a los espectadores;
 
@@ -1171,3 +1175,9 @@ TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente dec
 G.O. 14 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE ENERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
