@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-planeacion-del-desarrollo-del-distrito-federal-15511"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-27"
-last_updated: "2000-01-27"
+last_updated: "2008-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15511&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY DE PLANEACION DEL DESARROLLO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2000.
 
@@ -144,9 +144,13 @@ IV. Los titulares de las dependencias, de los órganos desconcentrados y de los 
 
 La Asamblea, en materia de planeación, tendrá las siguientes atribuciones:
 
-I. Emitir opinión, previo examen, del Programa General que le remita el Jefe de Gobierno, así como de sus modificaciones;
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2008)</small>
 
-II. Verificar que las iniciativas de Ley de Ingresos y de Presupuesto de Egresos, que le remita el Jefe de Gobierno se ajusten a los objetivos y prioridades del Programa General
+I. Emitir opinión, previo examen, del Programa General y de los programas delegacionales, que le remita el Jefe de Gobierno, así como de sus modificaciones;
+
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2008)</small>
+
+II. Verificar que las iniciativas de Ley de Ingresos y de Presupuesto de Egresos, que le remita el Jefe de Gobierno, incorpore las asignaciones a los objetivos y Prioridades del Programa General;
 
 III. Formular las observaciones y emitir las recomendaciones que estime pertinentes acerca de los informes trimestrales que rinda el Jefe de Gobierno, respecto al avance en la ejecución del Programa General y en relación con la evaluación y control del mismo;
 
@@ -160,7 +164,9 @@ El Jefe de Gobierno tendrá las siguientes atribuciones:
 
 I. Conducir la planeación en términos de esta Ley;
 
-II. Remitir a la Asamblea el Programa General para su examen y opinión;
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2008)</small>
+
+II. Remitir a la Asamblea el Programa General y los programas delegacionales para su examen y opinión;
 
 III. Aprobar el Programa General, los programas delegacionales y los programas parciales;
 
@@ -411,6 +417,14 @@ VI. Las bases de coordinación del gobierno del Distrito Federal con la federaci
 ###### Artículo 28.
 
 Los programas delegacionales contendrán las directrices generales del desarrollo social, económico y de ordenamiento territorial de las demarcaciones territoriales, con proyecciones y previsiones para un plazo de 20 años. Su vigencia no excederá del periodo de gestión que establezca el Estatuto para los titulares de los órganos político-administrativos.
+
+> <small>(ADICIONADO, G.O. 14 DE ENERO DE 2008)</small>
+
+Artículo 28 bis.- Los titulares de los órganos político-administrativos deberán presentar el proyecto de Programa Delegacional de la demarcación a su cargo al Jefe de Gobierno, a más tardar el día 5 de enero del año inmediato siguiente al de su toma de posesión.
+
+Una vez recibidos los proyectos a que se hace mención en el párrafo anterior, el Jefe de Gobierno los remitirá, para su examen y opinión, a la Asamblea Legislativa, la cual contará con 30 días para realizar las opiniones respectivas.
+
+El Jefe de Gobierno deberá publicar los programas delegacionales, a más tardar el día 30 de abril del mismo año.
 
 ###### Artículo 29.
 
@@ -684,9 +698,11 @@ Los contratos o convenios que se celebren conforme a este capítulo se considera
 
 Los actos de gobierno inducirán, promoverán, regularán, restringirán, orientarán o prohibirán las acciones de los particulares, en materia económica, social y territorial de acuerdo con los objetivos y prioridades de la planeación.
 
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2008)</small>
+
 ###### Artículo 64.
 
-Para garantizar la participación social y ciudadana, el gobierno del Distrito Federal pondrá al alcance de quien lo solicite, la información en materia de planeación del desarrollo en los términos que prevea el reglamento de esta Ley.
+Para garantizar la participación social y ciudadana, el gobierno del Distrito Federal pondrá al alcance de quien lo solicite, la información en materia de planeación del desarrollo.
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES
 
@@ -715,3 +731,13 @@ SEPTIMO. El Jefe de Gobierno deberá revisar las disposiciones legales que se en
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 18 de noviembre de mil novecientos noventa y nueve.- DIP. FERNANDO DE GARAY Y ARENAS, PRESIDENTE.- DIP. FRANCISCO ORTIZ AYALA, SECRETARIO.- DIP. MARIA ANGELICA LUNA PARRA Y TREJO LERDO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 Y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta y un días del mes de diciembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 14 DE ENERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor y en el Diario Oficial de la Federación para su mayor difusión.
