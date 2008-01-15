@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-4743
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2005-12-02"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 2 de diciembre de 2005.
 
@@ -45,9 +45,11 @@ LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL 
 
 Esta ley tiene por objeto la ejecución de las sanciones privativas y restrictivas de la libertad impuestas por los Tribunales del Estado de Coahuila de Zaragoza, en sentencia que haya causado ejecutoria y la determinación del sistema, que en lo conducente, resulte aplicable a las personas sujetas a prisión preventiva.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 2°.
 
-El cumplimiento de esta ley corresponde al Ejecutivo del Estado, por conducto de la Subsecretaría de Prevención y Readaptación Social de la Dirección de Readaptación Social y Dirección de Ejecución de Sentencias, dependientes de la Secretaría de Seguridad Pública y Protección Ciudadana.
+El cumplimiento de esta ley corresponde al Ejecutivo del Estado, por conducto de la Subsecretaría de Adaptación y Readaptación Social de la Dirección de Readaptación Social y Dirección de Ejecución de Sentencias, dependientes de la Secretaría de Seguridad de Gobierno.
 
 ###### ARTÍCULO 3°.
 
@@ -79,7 +81,9 @@ I. Organizar y dirigir los Centros de Readaptación Social a que se refiere el a
 
 II. Con base en esta ley y conforme a las normas técnicas que estime pertinentes, planificar y hacer ejecutar los regímenes de estudio y diagnóstico, trabajo, educación y disciplina, tendientes a lograr la readaptación social de los internos;
 
-III. Proponer al Ejecutivo del Estado, los nombramientos, destituciones y autorización de licencias del personal de los Centros de Readaptación Social del Estado por conducto del Secretario de Seguridad Pública y Protección Ciudadana;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+III. Proponer al Ejecutivo del Estado, los nombramientos, destituciones y autorización de licencias del personal de los Centros de Readaptación Social del Estado por conducto del Secretario de Gobierno;
 
 IV. La distribución o traslado de toda persona que sea privada de su libertad por orden de los Tribunales Judiciales del Estado, desde el momento de su ingreso a cualquier establecimiento a su cargo y mediante el auxilio de la Policía Ministerial o la Policía Preventiva del Estado de conformidad a lo establecido en el artículo 720 del Código de Procedimientos Penales para el Estado; así como por corporaciones federales cuándo sea necesario;
 
@@ -431,7 +435,7 @@ II. Tratamiento; y
 
 III. Reintegración.
 
-### CAPÍTULO TERCERO. PERIODO DE ESTUDIO Y DIAGNÒSTICO
+### CAPÍTULO TERCERO. PERIODO DE ESTUDIO Y DIAGNÓSTICO
 
 ###### ARTÍCULO 56.
 
@@ -727,7 +731,9 @@ Los Consejos Técnicos interdisciplinarios tendrán funciones consultivas para l
 
 Habrá un Consejo Técnico Interdisciplinario en cada Centro de Readaptación Social que estará presidido por el Director del establecimiento, o por el funcionario que lo sustituya en sus faltas, y se integrará con los miembros de superior jerarquía del personal administrativo, técnico y, en su caso de custodia.
 
-En los Centros en que no estén creados los Departamentos anteriores, el Consejo Técnico del Reclusorio se organizará con el Director del establecimiento o el funcionario que lo sustituya, el médico del sector salud que sea designado, un profesor que designe la Secretaría de Educación Pública en el Estado y el miembro de mayor jerarquía del personal de vigilancia. A falta de estos funcionarios, con Consejeros Técnicos Honorarios designados por la Secretaría de Seguridad Pública y Protección Ciudadana a propuesta de la Subsecretaría de Prevención y Readaptación Social.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
+En los Centros en que no estén creados los Departamentos anteriores, el Consejo Técnico del Reclusorio se organizará con el Director del establecimiento o el funcionario que lo sustituya, el médico del sector salud que sea designado, un profesor que designe la Secretaría de Educación y Cultura en el Estado y el miembro de mayor jerarquía del personal de vigilancia. A falta de estos funcionarios, con Consejeros Técnicos Honorarios designados por la Secretaría de Gobierno a propuesta de la Subsecretaría de Adaptación y Readaptación Social.
 
 ###### ARTÍCULO 102.
 
@@ -925,7 +931,9 @@ IV. Región Norte: Comprendiendo los Centros de Readaptación Social de Piedras 
 
 El Consejo sesionará, en forma ordinaria, por lo menos tres veces al año sin perjuicio de que se realicen las demás sesiones que se estimen necesarias, dejando a consideración de la Dirección de Ejecución de Sentencias la facultad para citar a dichas sesiones, en cuyo caso participarán el personal adscrito a la misma.
 
-Las sesiones del Consejo serán presididas por el Subsecretario de Prevención y Readaptación Social y contará con un suplente designado por él mismo para cubrir sus ausencias.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
+Las sesiones del Consejo serán presididas por el Subsecretario de Adaptación y Readaptación Social y contará con un suplente designado por él mismo para cubrir sus ausencias.
 
 Se nombrará a un Secretario Ejecutivo de entre los mismos miembros del Comité, quien, de cada sesión del Consejo, deberá levantar acta de la misma, en la cual deberá quedar asentada las aprobaciones o aplazamiento de los beneficios propuestos, asentándose en caso negativo los motivos y razonamientos por los cuales fueron denegados los mismos, los acuerdos tomados en la sesión y deberá estar firmada por cada uno de los asistentes, debiendo entregarse copia de la misma a cada uno de los integrantes.
 
@@ -985,9 +993,11 @@ Para los efectos de este capítulo, la Dirección de Ejecución de Sentencias re
 
 Cuando el interno tenga dos o más sanciones, el cómputo para aplicar el término formal de la procedencia de la Libertad Preparatoria, se hará sumando la totalidad de las mismas, siempre y cuando se trate de sanciones aplicadas por autoridades del fuero común.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 135.
 
-La Dirección de Ejecución de Sentencias tomará en consideración los informes suministrados y someterá a consideración del Gobernador del Estado, por conducto de la Secretaría de Seguridad Pública y Protección Ciudadana, a través de la Subsecretaría de Prevención y Readaptación Social, la concesión o negación de la libertad, sujeta, en el primer caso, a las condiciones siguientes:
+La Dirección de Ejecución de Sentencias, una vez tomados en consideración los informes suministrados y, con base en el grado de readaptabilidad lograd por el interno, someterá por conducto de la Secretaría de Gobierno, a través de la Subsecretaría de Adaptación y Readaptación Social, la concesión o negación de la libertad, sujeta, en el primer caso, a las condiciones siguientes:
 
 I. Residir, o en su caso no residir en lugar determinado e informar a la autoridad los cambios de su domicilio. La designación de lugar de su residencia se hará conciliando las circunstancias de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia no sea un obstáculo para su enmienda;
 
@@ -1061,9 +1071,11 @@ Cuando el interno tenga dos o más sanciones, se deberá observar en lo conducen
 
 La solicitud de Remisión Parcial de la Sanción se formulará por escrito ante la Dirección de Ejecución de Sentencias, por aquellos internos que estimen reunir los requisitos del artículo 142. En este caso se deberá seguir el procedimiento establecido en el artículo 133 de esta ley.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 146.
 
-La Dirección de Ejecución de Sentencias, una vez tomados en consideración los informes suministrados y, con base en el grado de readaptabilidad logrado por el interno, someterá, por conducto de la Secretaría de Seguridad Pública y Protección Ciudadana a través de la Subsecretaría de Prevención y Readaptación Social, a la consideración del Gobernador, la posibilidad de otorgar el beneficio de la Remisión Parcial de la Pena. El Ejecutivo del Estado, de manera discrecional, resolverá lo conducente.
+La Dirección de Ejecución de Sentencias, una vez tomados en consideración los informes suministrados y, con base en el grado de readaptabilidad logrado por el interno, someterá, por conducto de la Secretaría de Gobierno a través de la Subsecretaría de Adaptación y Readaptación Social, a la consideración del Gobernador, la posibilidad de otorgar el beneficio de la Remisión Parcial de la Pena. El Ejecutivo del Estado, de manera discrecional, resolverá lo conducente.
 
 ###### ARTÍCULO 147.
 
@@ -1186,3 +1198,15 @@ Y PROTECCIÓN CIUDADANA
 COMISARIO JEFE ANTONIO GARZA GARCÍA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se transfieren a la Secretaría de Gobierno, contarán con un término de 30 días hábiles para adecuar los manuales de organización y demás procedimientos administrativos necesarios para el cumplimiento de lo previsto en este Decreto.
+
+TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
