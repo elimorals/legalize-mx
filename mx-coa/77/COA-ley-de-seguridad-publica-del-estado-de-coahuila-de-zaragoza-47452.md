@@ -4,7 +4,7 @@ identifier: "COA-ley-de-seguridad-publica-del-estado-de-coahuila-de-zaragoza-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-25"
-last_updated: "2006-11-21"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2005.
 
@@ -51,7 +51,9 @@ La seguridad pública es una función a cargo del estado, que tiene por objeto a
 
 Para los efectos de esta ley se entenderá por:
 
-I. Secretaría. La Secretaría de Seguridad Pública y Protección ciudadana del Estado.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+I. Secretaría. La Secretaría de Seguridad Pública del Estado.
 
 II. Estado. El Estado de Coahuila de Zaragoza.
 
@@ -85,17 +87,23 @@ La función de seguridad pública en el estado se regirá por lo dispuesto en la
 
 La aplicación de la presente ley corresponde a las autoridades estatales y municipales a través de la Secretaría, la Procuraduría y las direcciones de las policías preventivas municipales, respectivamente en la esfera de su competencia, de acuerdo con lo previsto en la misma, sus reglamentos y demás ordenamientos aplicables, así como en los convenios y acuerdos que se suscriban en materia de seguridad pública.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 6°.
 
-La readaptación social de los internos, estará a cargo de la Dirección de Readaptación Social y la Dirección de Ejecución de Sentencias por conducto de los Centros de Readaptación Social del Estado, dependientes de la Subsecretaría Prevención y Readaptación Social del Estado y sujetarán su funcionamiento a lo dispuesto en la ley de la materia, los reglamentos interiores de cada Centro de Readaptación Social y demás disposiciones jurídicas aplicables.
+La readaptación social de los internos, estará a cargo de la Dirección de Readaptación Social y la Dirección de Ejecución de Sentencias por conducto de los Centros de Readaptación Social del Estado, dependientes de la Subsecretaría Adaptación y Readaptación Social del Estado, y sujetarán su funcionamiento a lo dispuesto a (sic) la ley de la materia, los reglamentos interiores de cada Centro de Readaptación Social y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 7°.
 
-En lo referente a la adaptación social de los menores infractores, ésta corresponderá a los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores, quienes al igual que los comisionados, dependerán de la Dirección de Atención y Tratamiento de Menores Infractores, dependiente de la Secretaría Seguridad Pública y Protección Ciudadana. Dicha dirección tendrá por objeto la prevención, procuración y tratamiento en los casos de infracciones cometidas por menores a la ley penal, sujetándose a lo dispuesto en la Ley para la Atención, Tratamiento y Adaptación de Menores Infractores en el Estado, el Reglamento Interior para los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores y demás disposiciones jurídicas aplicables.
+En lo referente a la adaptación social de adolescentes, ésta corresponderá a los Centros de Internación, Diagnóstico y Tratamiento y Adaptación de Adolescentes, dependientes de la Secretaría de Gobierno del Estado de Coahuila. Dicha dirección tendrá por objeto la prevención, procuración y tratamiento en los casos de infracciones cometidas adolescentes, sujetándose a lo dispuesto en la Ley de Justicia para Adolescentes del Estado de Coahuila, el Reglamento Interior para los Centros de Internación, Tratamiento y Adaptación de Adolescentes y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 8°.
 
-La prevención, auxilio y apoyo a la población, ante la existencia de un riesgo y la eventualidad de una emergencia o desastre, está a cargo de la Dirección Estatal de Protección Civil. Dicha dirección depende de la Secretaría y debe sujetarse a lo establecido en la Ley de Protección Civil del Estado y demás disposiciones jurídicas aplicables.
+La prevención, auxilio y apoyo a la población, ante la existencia de un riesgo y la eventualidad de una emergencia o desastre, está a cargo de la Subsecretaría de Protección Civil, dependiente de la Secretaría de Gobierno, la cual deberá sujetarse a lo establecido en la Ley de Protección Civil del Estado y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 9°.
 
@@ -165,9 +173,11 @@ Tratándose de la Procuraduría y su policía ministerial, la división territor
 
 La seguridad interna es una condición imprescindible para alcanzar y mantener la integridad, estabilidad y permanencia del estado constitucional de derecho y los demás objetivos de éste, basada en la preservación de la soberanía estatal y la defensa del territorio; el mantenimiento del orden constitucional y el fortalecimiento de las instituciones democráticas de gobierno; la unidad estatal, la cohesión social y la protección de la vida y los derechos de los coahuilenses; la defensa legítima de los intereses vitales del estado, respecto del exterior y la preservación de la democracia fundada en el desarrollo económico, social y político del estado y sus ciudadanos.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 17.
 
-La seguridad interna en el estado, estará a cargo del Gobernador del Estado por conducto del titular de la Secretaría de Gobierno, quien determinará e integrará la instancia encargada del análisis, definición, coordinación, seguimiento y evaluación de la misma, así como las dependencias estatales del ramo cuya participación en dicho órgano sea necesaria.
+La seguridad interna en el estado y la protección de la ciudadanía, estará a cargo del Gobernador del Estado por conducto del titular de la Secretaría de Gobierno, quien determinará e integrará la instancia encargada del análisis, definición, coordinación, seguimiento y evaluación de la misma, así como las dependencias estatales del ramo cuya participación en dicho órgano sea necesaria.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE SEGURIDAD PÚBLICA
 
@@ -183,11 +193,15 @@ II. El Secretario de Gobierno.
 
 III. El Procurador General de Justicia.
 
-IV. El Secretario de Seguridad Pública y Protección Ciudadana.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+IV. El Secretario de Seguridad Pública.
 
 V. El Subsecretario de Seguridad Pública.
 
-VI. El Subsecretario de Prevención y Readaptación Social.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+VI. El Subsecretario de Adaptación y Readaptación Social.
 
 VII. El Subprocurador Ministerial.
 
@@ -199,9 +213,13 @@ X. El Director de Readaptación Social.
 
 XI. El Director de Ejecución de Sentencias.
 
-XII. El Director de Atención y Tratamiento de Menores Infractores.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
 
-XIII. El Director Estatal de Protección Civil.
+XII. El Director de Adaptación de Adolescentes.
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XIII. El Subsecretario de Protección Civil.
 
 XIV. El Director General de la Policía Ministerial del Estado.
 
@@ -263,11 +281,15 @@ Son atribuciones del Secretario de Gobierno en materia de seguridad pública, la
 
 Son atribuciones del Procurador General de Justicia del Estado en materia de seguridad pública, las señaladas en la Ley Orgánica del Ministerio Público, su reglamento y las demás que le señalen otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 24.
 
-Corresponde al Secretario de Seguridad Pública y Protección Ciudadana del Estado, las siguientes atribuciones:
+Corresponde al Secretario de Seguridad Pública del Estado, las siguientes atribuciones:
 
-I. Garantizar la seguridad pública y protección de la ciudadanía.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+I. Garantizar la seguridad pública.
 
 II. Elaborar el Plan Estatal de Seguridad Pública del Estado.
 
@@ -295,19 +317,19 @@ XIII. Contribuir con el Coordinador del Instituto Superior de Estudios de Seguri
 
 XIV. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre seguridad pública, sirviéndose de los resultados para implementar las medidas y acciones que procedan.
 
-XV. Ordenar, coordinar y supervisar las acciones necesarias que resulten de situaciones de emergencia, informando con oportunidad al Gobernador del Estado.
+XV. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
-XVI. Establecer los programas, acciones y otros dispositivos de prevención y control de catástrofes, desastres o calamidades, así como operar la oportuna prestación de los servicios de auxilio.
+XVI. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
-XVII. Aprobar y Evaluar el Plan Estatal de Protección Civil.
+XVII. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
 XVIII. Promover en la esfera de su competencia la profesionalización de las fuerzas de seguridad pública estatales.
 
 XIX. Ser auxiliar del Ministerio Público, de autoridades judiciales y administrativas, cuando sea requerida para ello.
 
-XX. Vigilar y controlar la administración de los Centros de Readaptación Social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indultos, libertad preparatoria y traslado de internos.
+XX. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
-XXI. Supervisar el adecuado cumplimiento de tratamientos y medidas de adaptación, orientación y protección destinadas a menores infractores, así como supervisar la administración de los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores.
+XXI. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
 XXII. Establecer programas tendientes a prevenir el pandillerismo, el alcoholismo y la fármacodependencia en coordinación con las dependencias federales, estatales y municipales competentes.
 
@@ -316,6 +338,28 @@ XXIII. Establecer los criterios de interpretación y aplicación de las disposic
 XXIV. Proponer, al Gobernador del Estado para su aprobación, los proyectos de iniciativas de leyes, reglamentos, manuales, acuerdos y órdenes sobre los asuntos de competencia de la Secretaría.
 
 XXV. Las demás que le confiera la presente ley y otros ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2008)</small>
+
+ARTÍCULO 24 bis.- Corresponde al Secretario de Gobierno el ejercicio de las siguientes atribuciones en materia de protección ciudadana y adaptación y readaptación social:
+
+I. Garantizar la protección de la ciudadanía en coordinación con las instancias correspondientes.
+
+II. Intervenir, por acuerdo del Gobernador del Estado, en los convenios con las autoridades federales, estatales y municipales en el estado o de otras entidades federativas en todo lo relativo a protección ciudadana y adaptación y readaptación social.
+
+III. Desempeñar las comisiones y funciones que le confiera el Gobernador del Estado e informarle sobre el desarrollo de las mismas.
+
+IV. Ordenar, coordinar y supervisar las acciones necesarias que resulten de situaciones de emergencia, informando con oportunidad al Gobernador del Estado.
+
+V. Establecer los programas, acciones y otros dispositivos de prevención y control de catástrofes, desastres o calamidades, así como operar la oportuna prestación de los servicios de auxilio.
+
+VI. Aprobar y Evaluar el Plan Estatal de Protección Civil.
+
+VII. Vigilar y controlar la administración de los Centros de Readaptación Social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indultos, libertad preparatoria y traslado de internos.
+
+VIII. Supervisar el adecuado cumplimiento de tratamientos y medidas de adaptación, orientación y protección destinadas a menores infractores, así como supervisar la administración de los Centros de Internación, Tratamiento y Adaptación de Adolescentes.
+
+IX. Las demás que le confiera la presente ley y otros ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 25.
 
@@ -381,13 +425,15 @@ C. En la ejecución de las sanciones y medidas de seguridad:
 
 * Los Agentes de Seguridad Penitenciaria de los Centros de Readaptación Social.
 
-D. En la ejecución de medidas disciplinarias y tratamiento de Menores Infractores:
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
-* Los Instructores Vigilantes de los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores.
+D. En la ejecución de medidas disciplinarias y tratamiento de Adolescentes:
+
+* Los Instructores Vigilantes de los Centros de Internación, Tratamiento y Adaptación de Adolescentes.
 
 ###### ARTÍCULO 29.
 
-Se considera como órgano auxiliar en materia de seguridad pública, a la Dirección Estatal de Protección Civil.
+(DEROGADO, P.O. 15 DE ENERO DE 2008)
 
 #### SECCIÓN CUARTA. ATRIBUCIONES Y OBLIGACIONES DE LAS FUERZAS DE SEGURIDAD PÚBLICA
 
@@ -479,13 +525,19 @@ VI. Notificar inmediatamente al titular de la Licencia Colectiva correspondiente
 
 VII. Las demás que le señale esta ley, su reglamento y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 35.
 
-Son atribuciones y obligaciones de los Instructores Vigilantes de los de los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores, las siguientes:
+Son atribuciones y obligaciones de los Instructores Vigilantes de los Centros de Internación, Tratamiento y Adaptación de Adolescentes, las siguientes:
 
-I. Mantener el orden y la disciplina de los menores internos en las diversas áreas de los Centros de Internación, Diagnóstico, y Tratamiento de Menores Infractores.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
 
-II. Practicar la revisión y el registro de todos los visitantes, así como de objetos que porten a la entrada y salida de los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores.
+I. Mantener el orden y la disciplina de los menores internos en las diversas áreas de los Centros de Internación, Tratamiento y Adaptación de Adolescentes.
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+II. Practicar la revisión y el registro de todos los visitantes, así como de objetos que porten a la entrada y salida de los Centros de Internación, Tratamiento y Adaptación de Adolescentes.
 
 III. Llevar el registro de los menores infractores que ingresen o en su caso salgan del Centro.
 
@@ -545,7 +597,9 @@ VII. Prohibir el uso de grados e insignias reservadas para el uso exclusivo del 
 
 VIII. Exigir al personal que use los uniformes con las características y especificaciones que para el efecto se determinen.
 
-IX. Auxiliar al Ministerio Público, a las autoridades judiciales y administrativas, así como a los Comisionados de la Dirección de Atención y Tratamiento de Menores Infractores en el ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+IX. Auxiliar al Ministerio Público y a las autoridades judiciales y administrativas.
 
 X. Contar con sistemas de comunicación de respuesta inmediata a la ciudadanía para la atención de emergencias.
 
@@ -921,7 +975,9 @@ Sin perjuicio de lo anterior, ambos Institutos podrán ser autorizados para cele
 
 El Instituto Superior de Estudios de Seguridad Pública del Estado y sus sedes denominadas Institutos Regionales, estarán a cargo de un Coordinador que será designado y removido libremente por el Gobernador del Estado.
 
-Cada Instituto Regional contará con un Director los cuales serán designados por el Secretario de Seguridad Pública y Protección Ciudadana; tanto el Coordinador como los Directores se auxiliarán en el ejercicio de sus funciones por el personal docente y administrativo autorizado en el Presupuesto de Egresos del Estado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
+Cada Instituto Regional contará con un Director los cuales serán designados por el Secretario de Seguridad Pública; tanto el Coordinador como los Directores se auxiliarán en el ejercicio de sus funciones por el personal docente y administrativo autorizado en el Presupuesto de Egresos del Estado.
 
 ###### ARTÍCULO 78.
 
@@ -931,9 +987,11 @@ Toda persona que desee ingresar a las Fuerzas de Seguridad Pública del Estado d
 
 Todo aspirante a ingresar al Instituto Superior de Estudios de Seguridad Pública del Estado, deberá satisfacer los requisitos señalados en las convocatorias expedidas para tal efecto.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 80.
 
-El Coordinador del Instituto de Estudios Superiores de Seguridad Pública del Estado previa anuencia del Secretario de Seguridad Pública y Protección Ciudadana, podrá celebrar convenios con otros organismos, dependencias o instituciones públicas o privadas ya sean nacionales o extranjeras, para una mejor formación, capacitación y desarrollo policial.
+El Coordinador del Instituto de Estudios Superiores de Seguridad Pública del Estado previa anuencia del Secretario de Seguridad Pública, podrá celebrar convenios con otros organismos, dependencias o instituciones públicas o privadas ya sean nacionales o extranjeras, para una mejor formación, capacitación y desarrollo policial.
 
 ###### ARTÍCULO 81.
 
@@ -1061,7 +1119,9 @@ III. Visitar periódicamente las oficinas del Registro de Personal de Seguridad 
 
 IV. Autorizar, con su firma, las credenciales de identificación que se expidan a los miembros de las fuerzas de seguridad pública estatales y municipales, así como a aquellos que presten servicios de seguridad privada.
 
-V. Rendir un informe semestral relativo a las actividades desarrolladas por el Registro, así como presentar todos aquellos informes que le sean solicitados en cualquier tiempo por el Secretario de Seguridad Pública y Protección Ciudadana así como al Subsecretario de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+V. Rendir un informe semestral relativo a las actividades desarrolladas por el Registro, así como presentar todos aquellos informes que le sean solicitados en cualquier tiempo por el Secretario de Seguridad Pública, así como al Subsecretario de Seguridad Pública; y
 
 VI. Las demás que le confiera la presente ley, el Reglamento del Registro de Personal de Seguridad Pública del Estado y otras disposiciones jurídicas aplicables.
 
@@ -1143,13 +1203,15 @@ Queda prohibido el uso de credenciales metálicas.
 
 Las credenciales a que se refiere el artículo anterior, deberán ser firmadas por los siguientes funcionarios:
 
-I. Tratándose del personal de la Policía Preventiva del Estado y de los Agentes de Seguridad Penitenciaria de los Centros Readaptación Social, por el Secretario de Seguridad Pública y Protección Ciudadana del Estado y el interesado.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+I. Tratándose del personal de la Policía Preventiva del Estado y de los Agentes de Seguridad Penitenciaria de los Centros Readaptación Social, por el Secretario de Seguridad Pública del Estado y el interesado.
 
 II. Tratándose de las credenciales del personal de la Policía Ministerial, por el Procurador General de Justicia del Estado y el interesado.
 
 III. Por lo que hace a las fuerzas de seguridad pública municipales, por el Presidente Municipal respectivo o el Director de la Policía Preventiva Municipal correspondiente y el interesado.
 
-IV. Por lo que hace a los elementos que presten servicios de seguridad privada las credenciales deberán ser firmadas, por el titular de la autorización para prestar dicho servicio y por el interesado
+IV. Por lo que hace a los elementos que presten servicios de seguridad privada las credenciales deberán ser firmadas, por el titular de la autorización para prestar dicho servicio y por el interesado.
 
 Las credenciales a que se refieren las fracciones anteriores deberán ser firmadas, además, por el Titular del Registro de Personal de Seguridad Pública del Estado y en el caso de personal operativo, con arma de cargo, deberán firmarse por el titular de la Licencia Oficial Colectiva para uso de armas de fuego expedida por la Secretaría de la Defensa Nacional según corresponda, sin cuyo requisito no tendrán validez oficial.
 
@@ -1377,7 +1439,9 @@ En el caso de que las compañías que cuenten con la autorización federal a que
 
 Los particulares que se dediquen a la prestación de servicios de seguridad privada deberán ajustarse a los siguientes lineamientos:
 
-I. Sólo podrán prestar este servicio las personas físicas o morales de nacionalidad mexicana que hayan obtenido la autorización por parte de la Secretaría de Seguridad Publica y Protección Ciudadana del Estado y la inscripción correspondiente de sus elementos ante el Registro de Personal de Seguridad Pública del Estado.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+I. Sólo podrán prestar este servicio las personas físicas o morales de nacionalidad mexicana que hayan obtenido la autorización por parte de la Secretaría de Seguridad Publica del Estado y la inscripción correspondiente de sus elementos ante el Registro de Personal de Seguridad Pública del Estado.
 
 II. Los elementos que presten servicios privados de seguridad deberán reunir los requisitos exigidos en el reglamento correspondiente.
 
@@ -1512,3 +1576,13 @@ COMISARIO JEFE ANTONIO GARZA GARCÍA
 P.O. 21 DE NOVIEMBRE DE 2006.
 
 Único.- Esta reforma entrará en vigor: al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se transfieren a la Secretaría de Gobierno, contarán con un término de 30 días hábiles para adecuar los manuales de organización y demás procedimientos administrativos necesarios para el cumplimiento de lo previsto en este Decreto.
+
+TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
