@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-8166"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-30"
-last_updated: "1998-09-02"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 15 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de enero de 1993.
 
@@ -1414,3 +1416,45 @@ P.O. 2 DE SEPTIEMBRE DE 1998
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. DE 15 DE ENERO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley del Notariado para el Estado de Tamaulipas, expedida por el Quincuagésimo Cuarto Honorable Congreso del Estado, mediante el Decreto Número 333 del 14 de octubre de 1992 y publicada en el Periódico Oficial Número 9 del 30 de enero de 1993, así como las reformas o adiciones que posteriormente se le hicieron.
+
+###### ARTICULO TERCERO.
+
+Hasta en tanto entre en vigor el arancel, los honorarios se pactarán en cada caso por el Notario y los interesados.
+
+###### ARTICULO CUARTO.
+
+Las facultades conferidas al Ejecutivo del Estado mediante la presente ley, podrán ser delegadas al Secretario General de Gobierno mediante Acuerdo Gubernamental, con excepción de las facultades establecidas en el artículo 3 del propio ordenamiento.
+
+###### ARTICULO QUINTO.
+
+Los libros de protocolo cerrado que se encuentren en uso al inicio de la vigencia de la presente ley, continuarán empleándose hasta que sean cerrados de acuerdo a las disposiciones de la ley con la que se autorizaron.
+
+###### ARTICULO SEXTO.
+
+Dentro de un término que no excederá de veinticuatro meses, el Ejecutivo del Estado establecerá las reglas de carácter general que regulen los medios electrónicos que contempla esta ley y queda facultado para establecer los sistemas de coordinación necesarios para el aprovechamiento de la infraestructura de clave pública regulada por el Gobierno del Estado.
+
+###### ARTICULO SEPTIMO.
+
+El Notario que sufra la pérdida, destrucción o deterioro de folios de protocolo aun sin utilizar, conforme al sistema actual de provisión, ocurrirá por escrito ante la Dirección de Asuntos Notariales, solicitando autorización de nuevos folios para suplirlos.
+
+###### ARTICULO OCTAVO.
+
+Mientras el Estado no cuente con los medios idóneos para la expedición de folios de protocolo, según lo previsto en el artículo 71, el Notario los continuará obteniendo directamente a su costa.
+
+###### ARTICULO NOVENO.
+
+Las disposiciones que en los ordenamientos jurídicos vigentes se refieran a la Dirección del Archivo General de Notarías, se entenderán ahora con relación a la Dirección de Asuntos Notariales.
+
+###### ARTICULO DECIMO.
+
+Con la entrada en vigor de esta ley, el personal, los recursos materiales y las asignaciones presupuestales previstas para la Dirección del Archivo General de Notarías pasarán a la Dirección de Asuntos Notariales. Con motivo del ordenamiento que se expide, el personal de la Dirección del Archivo General de Notarias tendrá afectación alguna en sus derechos laborales.
