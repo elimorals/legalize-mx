@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2007-08-22"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -153,9 +153,21 @@ Las dependencias del Ejecutivo se coordinarán para el mejor cumplimiento de sus
 
 4. Las comisiones intersecretariales podrán invitar a participar en sus reuniones a representantes de los sectores sociales y privado, cuando así lo amerite la materia del asunto a tratar.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2008)</small>
+
+###### ARTICULO 19 Bis.
+
+1. Con carácter de comisión intersecretarial se establece el Consejo de Gobierno para el Desarrollo Sustentable.
+
+2. El Consejo tiene por objeto planear, aprobar y vigilar la emisión y cumplimiento de la política estatal en materia ambiental y de desarrollo sustentable.
+
+3. La integración, funciones y normas de organización y funcionamiento del Consejo se establecerán por el Gobernador del Estado en el Acuerdo correspondiente.
+
 ###### ARTICULO 20.
 
-1. Los titulares de las dependencias a que se refieren los artículos 24 al 36 de esta ley, acordarán directamente con el titular del Ejecutivo, y los titulares de las entidades lo harán a través del Secretario del ramo a que correspondan, salvo disposiciones en contrario del titular del Ejecutivo, sin perjuicio de las facultades que a la Secretaría General de Gobierno le confieren los artículos 87 y 95 de la Constitución Política del Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+
+1. Los titulares de las dependencias a que se refieren los artículos 24 al 36 bis de esta ley, acordarán directamente con el titular del Ejecutivo, y los titulares de las entidades lo harán a través del Secretario del ramo a que correspondan, salvo disposiciones en contrario del Gobernador del Estado, sin perjuicio de las facultades que a la Secretaría General de Gobierno le confieren los artículos 87 y 95 de la Constitución Política del Estado.
 
 2. Todas las dependencias a que se refieren los artículos 24 al 34 de esta ley, se denominarán Secretarías, tendrán igual rango y entre ellas no habrá preeminencia alguna.
 
@@ -173,37 +185,41 @@ Las dependencias del Ejecutivo se coordinarán para el mejor cumplimiento de sus
 
 ### CAPITULO TERCERO. DE LA COMPETENCIA DE LAS DEPENDENCIAS DEL EJECUTIVO
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 23.
 
-Para el estudio, planeación y despacho de los asuntos de los diversos ramos de la administración pública estatal, el Gobernador del Estado contará con las siguientes dependencias:
+1. Para el estudio, planeación y despacho de los asuntos de los diversos ramos de la administración pública estatal, el Gobernador del Estado contará con las siguientes dependencias:
 
-1. Secretaría General de Gobierno;
+I. Secretaría General de Gobierno;
 
-2. Secretaría de Finanzas;
+II. Secretaría de Finanzas;
 
-3. Secretaría de Administración;
+III. Secretaría de Administración;
 
-4. Secretaría de Desarrollo Económico y del Empleo;
+IV. Secretaría de Desarrollo Económico y del Empleo;
 
-5. Secretaría de Turismo;
+V. Secretaria de Turismo;
 
-6. Secretaria de Desarrollo Rural;
+VI. Secretaría de Desarrollo Rural;
 
-7. Secretaria de Desarrollo Social, Cultura y Deporte;
+VII. Secretaría de Desarrollo Social, Cultura y Deporte;
 
-8. Secretaria de Educación;
+VIII. Secretaría de Educación;
 
-9. Secretaría de Salud;
+IX. Secretaría de Salud;
 
-10. Secretaria de Obras Públicas, Desarrollo Urbano y Ecología;
+X. Secretaría de Obras Públicas y Desarrollo Urbano;
 
-11. Secretaría de Seguridad Pública;
+XI. Secretaría de Seguridad Pública;
 
-12. Procuraduría General de Justicia;
+XII. Procuraduría General de Justicia;
 
-13. Contraloría Gubernamental, y
+XIII. Contraloría Gubernamental; y
 
-Los demás organismos de coordinación, planeación y asesoría que dispongan otras leyes o determine el Ejecutivo.
+XIV. Agencia Ambiental para el Desarrollo Sustentable.
+
+2. Los demás organismos de coordinación, planeación y asesoría que dispongan otras leyes o determine el Ejecutivo.
 
 #### Sección I. De la Secretaría General de Gobierno
 
@@ -269,7 +285,9 @@ XXVIII. Fomentar los valores cívicos, divulgar el calendario cívico del Estado
 
 XXIX. Organizar, editar y publicar el Periódico Oficial del Estado, y mantener un archivo actualizado del mismo en el Archivo General del Estado;
 
-XXX. Participar, en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, en la realización de programas para la regularización de la tenencia de la tierra;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXX. Participar, en coordinación con la Secretaría de Obras Públicas y Desarrollo Urbano, en la realización de los programas para la regularización de la tenencia de la tierra;
 
 XXXI. Dar trámite a las atribuciones del Poder Ejecutivo en materia de otorgamiento y cancelación de permisos y concesiones para la prestación de servicios de autotransporte en las carreteras estatales, caminos vecinales, zonas urbanas y demás guías de jurisdicción estatal en términos de las leyes aplicables;
 
@@ -425,13 +443,17 @@ VIII. Impulsar el establecimiento y crecimiento de la micro, pequeña y mediana 
 
 IX. Efectuar los estudios técnicos que determinen la creación de parques industriales, centros de abasto y comerciales, a fin de promover el desarrollo económico integral del Estado;
 
-X. Promover esquemas de participación de la inversión privada o pública, nacional o extranjera, en proyectos de infraestructura otorgados bajo el sistema de concesiones y participar particularmente en los relativos a redes carreteras, autopistas, vías fluviales, vías férreas, puertos marítimos, cruces y puentes internacionales, en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+X. Promover esquemas de participación de la inversión privada o pública, nacional o extranjera, en proyectos de infraestructura otorgados bajo el sistema de concesiones y participar particularmente en los relativos a redes carreteras, autopistas, vías fluviales, vías férreas, puertos marítimos, cruces y puentes internacionales, en coordinación con la Secretaría de Obras Públicas y Desarrollo Urbano;
 
 XI. Participar en la formulación de estudios técnicos, financieros, jurídicos, de tenencia de la tierra y de impacto ambiental, para contribuir en la promoción de obras de infraestructura concesionables, mismas que podrá gestionar, previo acuerdo con el Ejecutivo Estatal, ante las dependencias del Gobierno Federal y organismos nacionales e internacionales;
 
 XII. Coadyuvar con las autoridades federales, estatales y municipales en el establecimiento y operación de mecanismos para la planeación, administración, coordinación y evaluación de las obras concesionadas en materia de vías de comunicación, transporte y demás infraestructura;
 
-XIII. Participar y promover, conjuntamente con las Secretarías de Finanzas y de Obras Públicas, Desarrollo Urbano y Ecología, en los ámbitos nacional e internacional, los planes de financiamiento y ejecución de obras de infraestructura y de servicios, necesarios para el desarrollo económico del Estado;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XIII. Participar y promover conjuntamente con las Secretarías de Finanzas y de Obras Públicas y de Desarrollo Urbano, en los ámbitos nacional e internacional, los planes de financiamiento y ejecución de obras de infraestructura y de servicios, necesarios para el desarrollo económico del Estado;
 
 XIV. Organizar y operar el Sistema Integral de Información sobre los recursos, características y participantes en las actividades económicas del Estado;
 
@@ -449,7 +471,9 @@ XX. Vigilar que la operación industrial, minera, comercial y de servicios, se a
 
 XXI. Impulsar programas para la generación y cogeneración de energía eléctrica, conforme a las disposiciones de la Ley Federal del Servicio Público de Energía Eléctrica;
 
-XXII. Promover coordinadamente con la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, programas para la protección del medio ambiente y el confinamiento de desechos sólidos y aguas residuales, en apoyo a un desarrollo sostenido y sostenible en los sectores industrial y comercial;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXII. Promover coordinadamente con la Agencia Ambiental para el Desarrollo Sustentable, programas para la protección del medio ambiente y el confinamiento de desechos sólidos y aguas residuales, en apoyo a un desarrollo sustentable de los sectores industrial y comercial;
 
 XXIII. Representar al Gobierno del Estado, por acuerdo del titular del Ejecutivo, en las asambleas de Consejo, juntas directivas y comités técnicos de las entidades paraestatales relacionadas con los sectores económicos en el Estado;
 
@@ -485,7 +509,9 @@ I. Formular y conducir, por acuerdo del Gobernador del Estado, la política de d
 
 II. Promover, en coordinación con los Ayuntamientos del Estado, las zonas de desarrollo turístico;
 
-III. Llevar un registro de los prestadores de servicios turísticos;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+III. Elaborar y mantener actualizado el Padrón de Prestadores de Servicios Turísticos y llevar a cabo el proceso de certificación de los mismos;
 
 IV. Emitir opiniones para el establecimiento de estímulos fiscales necesarios para el fomento a la actividad turística;
 
@@ -515,13 +541,25 @@ XVI. Representar al Gobierno del Estado, por acuerdo del titular del Ejecutivo, 
 
 XVII. Establecer y operar los mecanismos de seguimiento y evaluación de los programas, proyectos y acciones en general, que se lleven a cabo en el ámbito de su competencia;
 
-XVIII. Promover, coordinadamente con la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, programas para la protección del medio ambiente y el confinamiento de desechos sólidos y aguas residuales, en apoyo a un desarrollo sostenido y sostenible en el sector turismo;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XVIII. Promover, coordinadamente con la Agencia Ambiental para el Desarrollo Sustentable, programas para la protección del medio ambiente y el confinamiento de desechos sólidos y aguas residuales, en apoyo a un desarrollo sustentable del sector turismo;
 
 XIX. Coordinar, en el ámbito de su competencia, la operación de los fondos y fideicomisos de fomento establecidos por el titular del Ejecutivo con los gobiernos federal y municipales, y los sectores social y privado;
 
-XX. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
+XX. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y (sic)
 
-XXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXI. Participar, en el ámbito de su competencia, con la Agencia Ambiental para el Desarrollo Sustentable, en la creación, implementación, inspección y vigilancia del orden normativo, los proyectos y los programas para la conservación y aprovechamiento sustentable de las áreas naturales protegidas de competencia estatal;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXII. Formular, promover y conducir las estrategias, objetivos y normas en materia de turismo de naturaleza y turismo cinegético, en coordinación con la Agencia Ambiental para el Desarrollo Sustentable, con objeto de lograr el uso óptimo de los recursos, manteniéndose los procesos ambientales esenciales e impulsándose la conservación de los recursos naturales y la diversidad biológica; y
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección VI. De la Secretaría de Desarrollo Rural
 
@@ -545,11 +583,15 @@ VII. Realizar, en coordinación con las autoridades federales y municipales, cam
 
 VIII. Elaborar programas de obras de infraestructura agrícola, pecuaria, forestal, pesquera y acuícola, así como promover su ejecución ante las instancias competentes;
 
-IX. Vigilar la preservación de los recursos naturales agrícolas, pecuarios, forestales y pesqueros del Estado, en los términos de las disposiciones vigentes;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+IX. Vigilar la preservación de los recursos naturales agrícolas, pecuarios, forestales y pesqueros del Estado, en forma coordinada con la Agencia Ambiental para el Desarrollo Sustentable, en los términos de las disposiciones vigentes;
 
 X. Promover el establecimiento y funcionamiento de los servicios climatológicos y meteorológicos en el Estado;
 
-XI. Establecer, en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, políticas, estrategias, objetivos y normas para la debida operación de los programas relacionados con el uso y abastecimiento del agua para efectos agrícolas, pecuarios, forestales y acuícolas, así como de los bienes inherentes que la Federación haya transferido o transfiera al Estado;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XI. Establecer, en coordinación con la Secretaría de Obras Públicas y Desarrollo Urbano, políticas, estrategias, objetivos y normas para la debida operación de los programas relacionados con el uso y abastecimiento del agua para efectos agrícolas, pecuarios, forestales y acuícolas, así como de los bienes inherentes que la Federación haya transferido o transfiera al Estado;
 
 XII. Promover y apoyar la industrialización y comercialización de los productos agrícolas, pecuarios, forestales, pesqueros y acuícolas generados en el Estado, en coordinación con la Secretaría de Desarrollo Económico y del Empleo;
 
@@ -581,9 +623,15 @@ XXV. Formular el inventario de los recursos e infraestructura hidráulica, agrí
 
 XXVI. Establecer y aplicar los procedimientos para la internación y movilización de ganado, aves y subproductos pecuarios, en los términos de la legislación aplicable;
 
-XXVII. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
+XXVII. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y (sic)
 
-XXVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXVIII. Promover y participar, de manera conjunta con la Agencia Ambiental para el Desarrollo Sustentable, en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales del Estado; y
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXIX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección VII. De la Secretaría de Desarrollo Social, Cultura y Deporte
 
@@ -743,15 +791,21 @@ XXII. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a
 
 XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-#### Sección X. De la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ENERO DE 2008)</small>
+
+#### Sección X. De la Secretaría de Obras Públicas y Desarrollo Urbano
 
 ###### ARTICULO 33.
 
-A la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+
+A la Secretaría de Obras Públicas y Desarrollo Urbano, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y conducir la política general de los asentamientos humanos, elaborar, actualizar y ejecutar los instrumentos de la planeación del ordenamiento territorial y desarrollo urbano y participar coordinadamente con los Municipios en la elaboración de sus Planes Municipales respectivos;
 
-II. Aplicar las disposiciones legales y administrativas estatales en materia de ordenamiento territorial, desarrollo urbano, ecología, asentamientos humanos y vivienda; vigilar su cumplimiento y proponer al Ejecutivo Estatal las reformas que estime pertinentes;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+II. Aplicar las disposiciones legales y administrativas estatales en materia de ordenamiento territorial, desarrollo urbano, asentamientos humanos y vivienda; vigilar su cumplimiento, y proponer al Ejecutivo Estatal las reformas que estime pertinentes;
 
 III. Procurar la integración de los asentamiento (sic) humanos irregulares al desarrollo urbano, de acuerdo con las leyes que rigen en la materia y las disposiciones administrativas que dicte el Ejecutivo;
 
@@ -761,13 +815,17 @@ V. Integrar, operar y mantener actualizado el Sistema Estatal de Información Ge
 
 VI. Integrar y mantener actualizada la información catastral del Estado en los términos de la ley de la materia;
 
-VII. Proponer normas y lineamientos en materia de financiamiento privado total o parcial y su pago para la realización de la obra pública, el desarrollo urbano, ecológico y de vivienda;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+VII. Proponer normas y lineamientos en material de financiamiento privado, total o parcial, y su pago, para la realización de la obra pública, el desarrollo urbano y la vivienda;
 
 VIII. Sugerir y operar los mecanismos de coordinación y consulta entre los sectores público, social y privado para la realización de la obra pública estatal;
 
 IX. Promover y apoyar, mecanismos de financiamiento para el desarrollo urbano, el desarrollo regional y la vivienda, con la participación de dependencias y entidades de la administración pública federal, estatal y municipal, de instituciones de crédito y de grupos sociales;
 
-X. Ejecutar o coordinar, en su caso, las acciones concertadas por el Ejecutivo con los sectores público, social y privado; celebrar convenios de coordinación y asistencia técnica con éstos, y con dependencias, entidades y organismos que apoyen los planes y programas de desarrollo urbano, ecología, vivienda y urbanización;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+X. Ejecutar o coordinar, en su caso, las acciones concertadas por el Ejecutivo con los sectores público, social y privado; celebrar convenios de coordinación y asistencia técnica con éstos y con dependencias, entidades y organismos que apoyen los planes y programas de desarrollo urbano, vivienda y urbanización;
 
 XI. Formular, coordinar, promover y ejecutar, en coordinación con las dependencias correspondientes, los programas de vivienda, particularmente de las de bajo costo, edificios multifamiliares y zonas habitacionales para trabajadores de escasos recursos, y procurar la regeneración de zonas marginadas y viviendas insalubres e inadecuadas;
 
@@ -793,27 +851,33 @@ XXI. Expedir, de acuerdo a las leyes de la materia, las bases a que deben sujeta
 
 XXII. Participar, conforme a las leyes o decretos de su creación, en los organismos públicos estatales y municipales relacionados con la obra pública, promoviéndose que la misma se realice conforme a las disposiciones legales y administrativas aplicables;
 
-XXIII. Asesorar y apoyar técnica y administrativamente a los Ayuntamientos y sus organismos, cuando así lo requieran, en la realización de sus planes y programas de obras públicas, desarrollo urbano, agua potable y alcantarillado, vivienda y ecología;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXIII. Asesorar y apoyar técnica y administrativamente a los Ayuntamientos y sus organismos, cuando lo requieran, en la realización de sus planes y programas de obras públicas, desarrollo urbano, agua potable y alcantarillado y vivienda;
 
 XXIV. Planear, programar y ejecutar las atribuciones que correspondan al Estado en términos del párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias que expida el Congreso de la Unión;
 
 XXV. Conducir la política de coordinación del Ejecutivo del Estado con las autoridades federales, de otras Entidades Federativas y municipales en materia de agua, a fin de lograr el mejor aprovechamiento del recurso;
 
-XXVI. Promover la adopción de medidas de carácter administrativo en los órdenes federal, estatal y municipal para la optimización del uso y explotación del recurso agua;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXVI. Formular, de manera coordinada con la Agencia Ambiental para el Desarrollo Sustentable, la adopción de medidas de carácter administrativo en el orden estatal para la optimización del uso y aprovechamiento del recurso del agua; así como promover para ese propósito, en forma conjunta con la Agencia, la adopción de ese tipo de medidas en los ámbitos federal y municipal;
 
 XXVII. Participar, con el carácter de representante del Gobierno del Estado, en los consejos u organismos de cuenca de los que forma parte el Estado, de conformidad con la legislación aplicable;
 
 XXVIII. Coadyuvar con los Ayuntamientos, cuando así lo requieran y exista disponibilidad presupuestal, en la instalación, desarrollo y mantenimiento de obras de ornato y alumbrado público;
 
-XXIX. Proponer, ejecutar y vigilar el desarrollo y cumplimiento de planes y programas de preservación y desarrollo de la flora, fauna y recursos naturales renovables y regular su aprovechamiento racional, en coordinación con las Secretarías de Desarrollo Económico y del Empleo, de Turismo y de Desarrollo Rural del Gobierno del Estado, así como con la Federación y los Ayuntamientos;
+XXIX. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
-XXX. Normar y supervisar, en el ámbito de su competencia, el tratamiento, almacenamiento, transporte y eliminación de los desechos sólidos, y el tratamiento y disposición final de contaminantes y de sustancias peligrosas;
+XXX. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
-XXXI. Coadyuvar con los Municipios en el diseño e implementación de mecanismos de prevención y restricción a la contaminación visual y auditiva;
+XXXI. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
 XXXII. Vigilar y opinar previamente a la modificación o demolición de inmuebles que pudieran tener valor cívico, arquitectónico o histórico en los Municipios;
 
-XXXIII. Elaborar y mantener actualizado el inventario del patrimonio histórico-cultural, y el de recursos naturales; y promover la conservación del entorno urbano original de las poblaciones del Estado;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXXIII. Elaborar y mantener actualizado el inventario del patrimonio histórico-cultural, y promover la conservación del entorno urbano original de las poblaciones del Estado;
 
 XXXIV. Coordinar como cabeza de sector a las entidades estatales denominadas: Instituto Tamaulipeco de Vivienda y Urbanización, Comité Administrador del Programa de Construcción de Escuelas en Tamaulipas, las Comisiones Municipales de Agua Potable y Alcantarillado; y las otras entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
 
@@ -881,9 +945,17 @@ XXVI. Ejecutar las medidas impuestas por las autoridades judiciales competentes 
 
 XXVII. Coordinar los programas y comisiones de seguridad pública;
 
-XXVIII. Coordinar actividades en materia vehicular con las autoridades federales; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
 
-XXIX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXVIII. Coordinar actividades en materia vehicular con las autoridades federales;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXIX. Coordinar las tareas de vigilancia, con el apoyo de la Agencia Ambiental para el Desarrollo Sustentable, tendentes a prevenir y combatir las acciones que afecten el medio ambiente y los recursos naturales en el Estado, en especial la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello; así como vigilar la observancia y cumplimiento de las disposiciones establecidas en los ordenamientos en materia ambiental y desarrollo sustentable del Estado; y
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XXX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección XII. De la Procuraduría General de Justicia
 
@@ -919,9 +991,17 @@ XIII. Asesorar a los Municipios en el ejercicio de acciones patrimoniales y de t
 
 XIV. Organizar, dirigir y administrar un servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con instituciones federales, de otras Entidades Federativas o municipales del Estado, así como con el sector privado;
 
-XV. Formular y desarrollar programas de capacitación para el personal de la dependencia; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
 
-XVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XV. Formular y desarrollar programas de capacitación para el personal de la dependencia;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XVI. Adoptar las determinaciones de su competencia con relación a los delitos ambientales establecidos en los ordenamientos en materia ambiental y desarrollo sustentable del Estado y demás leyes aplicables, así como sustanciar las investigaciones que al efecto se inicien por conductas delictivas en materia ambiental, y deducir en los procesos penales que se instauren la representación de la sociedad; y
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección XIII. De la Contraloría Gubernamental
 
@@ -976,6 +1056,90 @@ XXI. Emitir las normas y lineamientos que deben observar las dependencias y enti
 XXII. Llevar y mantener actualizados el Padrón de Proveedores de la Administración Pública del Estado y del Padrón de Contratistas de Obras Públicas del Estado; y fijar los criterios y procedimientos para clasificar las personas inscritas en ellos; y
 
 XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2008)</small>
+
+#### Sección XIV. De la Agencia Ambiental para el Desarrollo Sustentable
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2008)</small>
+
+###### ARTICULO 36 Bis.
+
+A la Agencia Ambiental para el Desarrollo Sustentable, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
+
+I. Proponer los elementos para que el Consejo de Gobierno para el Desarrollo Sustentable formule la política estatal en materia ambiental, recursos naturales y desarrollo sustentable, y conducir la ejecución de dicha política;
+
+II. Proponer y ejecutar el Programa Estatal de Desarrollo Sustentable;
+
+III. Aplicar y vigilar el cumplimiento de los instrumentos y programas de política ambiental, recursos naturales y desarrollo sustentable previstos en los ordenamientos del Estado;
+
+IV. Aplicar las disposiciones legales y administrativas estatales en materia de medio ambiente, vida silvestre, forestal, áreas naturales protegidas y residuos, así como vigilar su cumplimiento y proponer al Ejecutivo Estatal las reformas que estime pertinentes;
+
+V. Convenir con los Gobiernos Federal, de otras Entidades Federativas y de los Municipios del Estado, la realización conjunta y coordinada de acciones de protección, conservación y mejoramiento del medio ambiente y recursos naturales para el desarrollo sustentable;
+
+VI. Ejecutar o coordinar, en su caso, las acciones concertadas por el Ejecutivo con los sectores público, social y privado; celebrar convenios de coordinación y asistencia técnica con éstos, y con dependencias, entidades y organismos que apoyen los programas estatales en materia de medio ambiente y desarrollo sustentable;
+
+VII. Proponer, ejecutar y vigilar el desarrollo y cumplimiento de planes y programas de preservación y desarrollo de la flora, fauna y recursos naturales renovables y regular su aprovechamiento racional, en coordinación con las Secretarías de Desarrollo Económico y del Empleo, de Turismo y de Desarrollo Rural, así como con la Federación y los Ayuntamientos;
+
+VIII. Adoptar las medidas y realizar las acciones necesarias en el ámbito de su competencia cuando haya peligro de daño grave e irreversible al medio ambiente o de emergencia ambiental en donde exista una afectación continua y grave al mismo, y que afecte los recursos naturales o la biodiversidad del territorio estatal, aún tratándose de actividades u obras de competencia de otras autoridades en caso de que éstas representen un riesgo inminente a la salud pública; al efecto, actuará de inmediato, sin demérito de la coordinación con la Secretaría de Salud, y el ejercicio que ésta haga de sus atribuciones;
+
+IX. Normar y supervisar, en el ámbito de su competencia, la gestión integral de los residuos sólidos urbanos y de manejo especial, y el tratamiento y disposición final de contaminantes y de sustancias peligrosas, que el Estado tenga asignados;
+
+X. Coadyuvar con los Municipios en el diseño e implementación de mecanismos de prevención y restricción a la contaminación visual y auditiva;
+
+XI. Promover, coordinar y participar, de manera conjunta con la Secretaría de Desarrollo Rural, en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en el Estado;
+
+XII. Regular y promover la protección de los recursos de fauna y flora silvestres en el territorio del Estado, así como regular y controlar su aprovechamiento sustentable;
+
+XIII. Proponer al Ejecutivo del Estado la declaración de las áreas naturales protegidas de interés estatal;
+
+XIV. Administrar, vigilar y controlar las áreas naturales protegidas y parques, así como fomentar el desarrollo de las comunidades que las integran, generando programas de identificación y respuestas a las necesidades de la región que forman;
+
+XV. Crear, propiciar y administrar los Fideicomisos para la Administración de las Areas Naturales Protegidas de competencia estatal; de protección, conservación y restauración de los recursos naturales; de fomento e incentivos al cumplimiento de la normatividad y, en general toda actividad vinculada con el desarrollo sustentable en el Estado, con la participación de las dependencias estatales a las cuáles competa y la participación de los sectores social y privado, cuando corresponda;
+
+XVI. Promover y fomentar el desarrollo y uso de energías, tecnologías y combustibles alternativos, así como la investigación ambiental, fomentándose la participación de las instituciones de educación superior;
+
+XVII. Evaluar y, en su caso, autorizar o negar manifestaciones de impacto ambiental y estudios de daños de la competencia del Estado;
+
+XVIII. Difundir los programas y estrategias relacionadas con el equilibrio ecológico y la protección al ambiente;
+
+XIX. Promover y fomentar las investigaciones sobre el medio ambiente y el desarrollo sustentable;
+
+XX. Coordinar administrativamente a las entidades estatales denominadas: Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre, Comisión Estatal de Areas Naturales Protegidas y las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+
+XXI. Elaborar y mantener actualizado el inventario de los recursos naturales en el Estado;
+
+XXII. Formular los lineamientos para la elaboración de los estudios para la cuantificación del daño ambiental causado por obras y actividades antropogénicas, dictaminar los estudios de impacto ambiental presentados por los responsables de las obras y actividades presuntamente causantes de dicho daño; así como aplicar las sanciones y requerir las medidas de compensación ambiental que sean procedentes;
+
+XXIII. Ejercer acciones de inspección y vigilancia, imponer medidas de seguridad y urgente aplicación, así como determinar las sanciones previstas en las disposiciones legales de la materia;
+
+XXIV. Iniciar las acciones que procedan en el ámbito de su competencia, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal, así como participar como legitimado procesal para emitir dictámenes, rendir pruebas e informes en los procesos que para el efecto se instruyan;
+
+XXV. Diseñar, instrumentar y aplicar, programas temporales de fomento a la regularización voluntaria del cumplimiento de la normatividad ambiental;
+
+XXVI. Prevenir y controlar la contaminación de la atmósfera generada por fuentes fijas y móviles que le correspondan al Estado, así como operar, por si o a través de terceros, los Centros de Verificación de Contaminantes Atmosféricos;
+
+XXVII. Desarrollar y ejercer las facultades en materia ambiental que con motivo de los Acuerdos y Convenios se asuman de la Federación,
+
+XXVIII. Participar, de manera coordinada con la Secretaría de Obras Públicas y Desarrollo Urbano, en la instrumentación y vinculación con el Programa Estatal de Desarrollo Sustentable, de los programas de desarrollo urbano en la entidad, fomentándose su congruencia;
+
+XXIX. Instrumentar, aplicar y administrar, a través de los instrumentos económicos respectivos que al efecto se constituyan, el cobro y pago de servicios ambientales en compensación de los beneficios que generan los propietarios y poseedores de cualquier régimen de tenencia de la tierra en las Areas Naturales Protegidas Estatales, con la participación de la Secretaría de Obras Públicas y Desarrollo Urbano, a través de las entidades estatales encargadas del recurso del agua; de Turismo y de Desarrollo Rural, así como de las demás instancias encargadas de la regulación y del aprovechamiento de los recursos naturales en el Estado;
+
+XXX. Promover la participación del Estado en programas globales de acceso a financiamiento de acciones de recuperación de ecosistemas, de mejoramiento ambiental, de atención y reversión a los problemas de efecto invernadero y de acceso a tecnología que garantice el desarrollo sustentable;
+
+XXXI. Instrumentar y propiciar la participación ciudadana en la atención y consecución de los objetivos del Programa Estatal de Desarrollo Sustentable, fomentando la conciencia ambiental y el reconocimiento de la importancia de la preservación de los recursos naturales;
+
+XXXll. Elaborar y publicar lineamientos, guías, normas técnicas ambientales, planes de manejo y demás ordenamientos para el ejercicio de la política estatal ambiental;
+
+XXXIII. Formular, ejecutar, evaluar, vigilar y modificar los programas de ordenamiento ambiental, así como participar con la Federación y en su caso con otros Estados en los procesos de ordenamiento ambiental de competencia federal;
+
+XXXIV. Establecer y aplicar las sanciones administrativas por violaciones a las disposiciones ambientales, así como, en su caso, acordar la compensación de las mismas por obras o acciones de beneficio colectivo ambiental;
+
+XXXV. Recibir, investigar y atender o, en su caso, canalizar a las autoridades competentes, denuncias por la inobservancia de la normatividad ambiental, aplicando medidas de seguridad e imponiendo las sanciones que sean de su competencia en los términos de las disposiciones jurídicas aplicables;
+
+XXXVI. Coordinar la política estatal sobre cambio climático y sobre la protección de la capa de ozono, de acuerdo con las competencias de las autoridades federales; y
+
+XXXVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 ### CAPITULO CUARTO. DE LAS ENTIDADES PARAESTATALES
 
@@ -1132,3 +1296,37 @@ P.O. 22 DE AGOSTO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El titular del Ejecutivo tendrá sendos plazos de 30 y de 180 días, respectivamente, a partir de la vigencia del presente Decreto, para emitir el Acuerdo a que se refiere el párrafo 3 del artículo 19 bis de la ley que por este mismo se reforma, y para expedir el Reglamento Interior de la Agencia Ambiental para el Desarrollo Sustentable.
+
+###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, todos los trámites, substanciación de procedimientos administrativos, aplicación de sanciones, órdenes de visitas de inspección, dictámenes, solicitudes de información pública en materia ambiental y, en general, toda atención de asuntos en materia ambiental que deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieran alcanzado, hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que debe atenderlos conforme a estas disposiciones, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTICULO CUARTO.
+
+Con motivo de la creación de la Agencia Ambiental para el Desarrollo Sustentable, se transferirán a ésta los recursos humanos, los activos patrimoniales constituidos por los bienes inmuebles, mobiliarios, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado por la hasta ahora Secretaria de Obras Públicas, Desarrollo Urbano y Ecología, en lo que respecta a esta última materia.
+
+###### ARTICULO QUINTO.
+
+Con motivo de la implementación de este Decreto y las transferencias de personal que se requieran no se verán disminuidos ni afectados los derechos laborales de los trabajadores del Gobierno del Estado.
+
+###### ARTICULO SEXTO.
+
+Las transferencias que con motivo de la expedición de este decreto deban realizarse de una dependencia a otra, incluirán los recursos presupuestales asignados a los asuntos de la nueva dependencia, así como los programas y calendarios financieros.
+
+###### ARTICULO SEPTIMO.
+
+En términos del párrafo 1 del artículo 11 de la Ley Orgánica de la Administración Pública del Estado, el Ejecutivo llevará a cabo la determinación de la estructura orgánica de la Agencia Ambiental para el Desarrollo Sustentable y la reorganización de las estructuras de las demás dependencias, a fin de lograr los objetivos de las reformas contenidas en el presente Decreto. Al efecto creará las áreas y unidades necesarias y modificará y redistribuirá las partidas del Presupuesto de Egresos, sin excederse del monto total autorizado para el ejercicio fiscal de 2008.
+
+###### ARTICULO OCTAVO.
+
+En todas aquellas disposiciones y ordenamientos que se refieran a la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, a partir de la publicación de este Decreto se entenderán hechas a la Secretaría de Obras Públicas y Desarrollo Urbano, en lo que no corresponda a la materia ambiental, en cuyo caso deberá entenderse como competencia de la Agencia Ambiental para el Desarrollo Sustentable.
