@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-12535"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-11"
-last_updated: "2005-11-25"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de junio de 1996.
 
@@ -195,13 +195,11 @@ I.- El Gobernador del Estado;
 
 II.- El Secretario de Gobierno;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+III.- (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
-III.- El Secretario de Seguridad Pública y Protección Ciudadana;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
-
-IV.- Director Estatal de Protección Civil;
+IV.- Subsecretario de Protección Civil;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -231,15 +229,17 @@ VI.- Aprobar el Programa Estatal de Protección Civil y los demás planes que de
 
 VII.- Las demás que le confiera la presente Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 10.
 
-Corresponderá al Secretario de Seguridad Pública y Protección Ciudadana apoyar, coordinar y evaluar a las diversas dependencias y entidades de la administración pública estatal que, por sus funciones, participen en las labores de protección civil. En caso de que se ponga en riesgo la seguridad interna del Estado, la Secretaría de Gobierno se encargará de coordinar las acciones correspondientes.
+Corresponderá al Secretario de Gobierno apoyar, coordinar y evaluar a las diversas dependencias y entidades de la administración pública estatal que, por sus funciones, participen en las labores de protección civil. Además tendrá a su cargo la coordinación de las acciones en caso de riesgo a la seguridad interna del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 11.
 
-Corresponde, en el ámbito de su competencia, al Director Estatal de Protección Civil:
+Corresponde, en el ámbito de su competencia, al Subsecretario de Protección Civil:
 
 I.- Proponer la adopción de medidas tendientes a la prevención y reparación de daños por siniestros y elaborar, así como ejecutar, en su caso, los planes y programas de protección civil que sean necesarios;
 
@@ -327,9 +327,9 @@ IX.- Expedir, en el ámbito de su competencia, los certificados de autorización
 
 X.- Las demás que les confiera esta Ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
-ARTICULO 12 BIS.- Las autoridades municipales, estatales y federales, en aquellos casos en los cuales se pueda causar daños a la población, instalaciones, construcciones así como bienes y servicios de interés general, podrán solicitar a la Dirección Estatal de Protección Civil la supervisión, inspección y verificación así como de las mismas se desprenda la necesidad de aplicar las medidas generales de Prevención y Protección Civil.
+ARTICULO 12 BIS.- Las autoridades municipales, estatales y federales, en aquellos casos en los cuales se pueda causar daños a la población, instalaciones, construcciones así como bienes y servicios de interés general, podrán solicitar a la Subsecretaría de Protección Civil la supervisión, inspección y verificación así como de las mismas se desprenda la necesidad de aplicar las medidas generales de Prevención y Protección Civil.
 
 ### CAPITULO TERCERO. DE LAS OBLIGACIONES DE LAS PERSONAS FISICAS Y MORALES EN MATERIA DE PROTECCION CIVIL
 
@@ -421,11 +421,11 @@ Cuando las personas físicas o morales a que se refiere este capítulo hayan pre
 
 ### CAPITULO CUARTO. DE LA SUPERVISION Y VERIFICACION
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 20.
 
-La supervisión y verificación del debido cumplimiento de las disposiciones previstas en esta ley y demás ordenamientos aplicables, cuando así se requiera se llevarán a cabo, en el ámbito de sus respectivas competencias, por las autoridades estatales y municipales que correspondan, así como, en su caso, previa solicitud de la Dirección, en coordinación con las autoridades federales respectivas.
+La supervisión y verificación del debido cumplimiento de las disposiciones previstas en esta ley y demás ordenamientos aplicables, cuando así se requiera se llevarán a cabo, en el ámbito de sus respectivas competencias, por las autoridades estatales y municipales que correspondan, así como, en su caso, previa solicitud de la Secretaría de Gobierno por conducto de la Subsecretaría de Protección Civil, en coordinación con las autoridades federales respectivas.
 
 ###### ARTICULO 21.
 
@@ -525,25 +525,25 @@ VI.- La restricción de actividades de cualquier tipo, que sea necesaria para la
 
 VII.- Las demás que determinen esta ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
-ARTICULO 31 BIS.- Cuando de la supervisión y verificación se desprenda la comisión de un ilícito la Dirección Estatal de Protección Civil informará dicha situación a la autoridad competente.
+ARTICULO 31 BIS.- Cuando de la supervisión y verificación se desprenda la comisión de un ilícito la Subsecretaría de Protección Civil informará dicha situación a la autoridad competente.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO QUINTO BIS. DE LAS MEDIDAS DE PREVENCIÓN Y SEGURIDAD EN CASO DE DESASTRE
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 31-A.
 
-La Dirección Estatal de Protección Civil desarrollará planes, programas y llevarán a cabo todas aquéllas medidas de seguridad que le competan, encaminados a proteger a las personas, sus bienes y el medio ambiente. Por lo que deberá observarse los principios de prevención, auxilio y restablecimiento.
+La Subsecretaría de Protección Civil desarrollará planes, programas y llevarán a cabo todas aquéllas medidas de seguridad que le competan, encaminados a proteger a las personas, sus bienes y el medio ambiente. Por lo que deberán observarse los principios de prevención, auxilio y restablecimiento.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 31-B.
 
-El Gobierno del Estado, en caso de desastre, a través de la Dirección Estatal de Protección Civil, implementará todos aquellos planes, programas y medidas de seguridad de que habla el artículo anterior. Dichos planes, programas y medidas garantizarán a la población el buen funcionamiento de los servicios esenciales de la comunidad.
+El Gobierno del Estado, en caso de desastre, a través de la Subsecretaría de Protección Civil, implementará todos aquellos planes, programas y medidas de seguridad de que habla el artículo anterior. Dichos planes, programas y medidas garantizarán a la población el buen funcionamiento de los servicios esenciales de la comunidad.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -551,29 +551,37 @@ El Gobierno del Estado, en caso de desastre, a través de la Dirección Estatal 
 
 En caso de riesgo inminente y sin perjuicio de la emisión de la declaratoria de emergencia, las dependencias y entidades de la Administración Estatal y Municipal ejecutarán las medidas de seguridad aplicables al caso concreto.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 31-D.
 
-La Dirección Estatal de protección Civil podrá elaborar programas especiales de protección civil, tratándose de grupos sociales específicos, tales como discapacitados, personas adultas mayores, jóvenes, menores de edad y grupos étnicos.
+La Subsecretaría de Protección Civil podrá elaborar programas especiales de protección civil, tratándose de grupos sociales específicos, tales como discapacitados, personas adultas mayores, jóvenes, menores de edad y grupos étnicos.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 31-E.
 
-Para cumplir con la finalidad de la presente ley, la Dirección Estatal de Protección Civil podrá sustentar su actuar en la normatividad federal aplicable.
+Para cumplir con la finalidad de la presente ley, la Subsecretaría de Protección Civil podrá sustentar su actuar en la normatividad federal aplicable.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 31-F.
 
-La Dirección Estatal de Protección Civil, así como los ayuntamientos podrán aplicar las siguientes medidas de seguridad:
+La Subsecretaría de Protección Civil, así como los ayuntamientos podrán aplicar las siguientes medidas de seguridad:
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 I.- Identificación y delimitación de lugares o zonas de riesgo;
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 II.- Acciones preventivas para la movilización precautoria de la población, su instalación y atención de refugios temporales; y
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 III.- Las demás que en materia de protección civil determinen las disposiciones reglamentarias y la legislación local correspondiente, tendientes a evitar que se generen o se sigan causando riesgos.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 De la misma forma se podrá promover ante las autoridades competentes, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
 
@@ -621,7 +629,9 @@ El Sistema Estatal de Protección se integrará por:
 
 I.- El Consejo Estatal de Protección Civil;
 
-II.- La Dirección Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+II.- La Secretaría de Gobierno, por conducto de la Subsecretaría de Protección Civil;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -643,13 +653,13 @@ El Consejo Estatal de Protección Civil está integrado por:
 
 I.- Un Presidente, que será designado por el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
 
-II.- Un Secretario Ejecutivo, que es el Secretario de Seguridad Pública y Protección Ciudadana;
+II.- Un Secretario Ejecutivo, que es el Secretario de Gobierno;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
 
-III.- Un Secretario Técnico, que es el Director Estatal de Protección Civil;
+III.- Un Secretario Técnico, que es el Subsecretario de Protección Civil;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -895,11 +905,11 @@ Cuando los hechos que motiven una denuncia hubieren ocasionado daños y perjuici
 
 ### CAPITULO DECIMO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 56.
 
-Corresponde al Director Estatal de Protección Civil y a los Ayuntamientos, a través de las Unidades Municipales de Protección Civil, en el ámbito de sus respectivas competencias, investigar, declarar y sancionar las infracciones que se cometan en contravención a las disposiciones de la presente ley y demás aplicables, evitando en todo momento la duplicidad de infracciones.
+Corresponde al Secretario de Gobierno por conducto de la Subsecretaría de Protección Civil y a los Ayuntamientos, a través de las Unidades Municipales de Protección Civil, en el ámbito de sus respectivas competencias, investigar, declarar y sancionar las infracciones que se cometan en contravención a las disposiciones de la presente ley y demás aplicables, evitando en todo momento la duplicidad de infracciones.
 
 ###### ARTICULO 57.
 
@@ -1128,3 +1138,13 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 15 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se transfieren a la Secretaría de Gobierno, contarán con un término de 30 días hábiles para adecuar los manuales de organización y demás procedimientos administrativos necesarios para el cumplimiento de lo previsto en este Decreto.
+
+TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
