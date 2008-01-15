@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2002-10-25"
+last_updated: "2008-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA FAMILIAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -79,7 +79,9 @@ c) La Secretaría de Salud.
 
 d) La Secretaría de Desarrollo Social.
 
-e) La Secretaría de Seguridad Pública y Protección Ciudadana.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
+e) La Secretaría de Seguridad Pública.
 
 f) La Procuraduría General de Justicia del Estado.
 
@@ -223,7 +225,9 @@ c) Secretaría de Salud.
 
 d) Secretaría de Desarrollo Social.
 
-e) Secretaría de Seguridad Pública y Protección Ciudadana.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
+e) Secretaría de Seguridad Pública.
 
 f) Procuraduría General de Justicia.
 
@@ -599,9 +603,11 @@ V. Vigilar y garantizar el cumplimiento de esta ley, de conformidad con las atri
 
 VI. Las demás que establecen las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### Artículo 32.
 
-Corresponde a la Secretaría de Seguridad Pública y Protección Ciudadana:
+Corresponde a la Secretaría de Seguridad Pública:
 
 I. Coordinarse con la Procuraduría General de Justicia y la Procuraduría de la Familia para diseñar y llevar a cabo acciones de prevención, atención y asistencia de la violencia familiar.
 
@@ -1114,3 +1120,15 @@ LIC. HORACIO DEL BOSQUE DAVILA
 EL SECRETARIO DE SEGURIDAD PUBLICA Y PROTECCION CIUDADANA
 
 CMDTE. ANTONIO GARZA GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se transfieren a la Secretaría de Gobierno, contarán con un término de 30 días hábiles para adecuar los manuales de organización y demás procedimientos administrativos necesarios para el cumplimiento de lo previsto en este Decreto.
+
+TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
