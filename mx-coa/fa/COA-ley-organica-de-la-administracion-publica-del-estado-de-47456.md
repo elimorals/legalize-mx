@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2007-12-28"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -201,7 +201,9 @@ Para el estudio, planeación y despacho de los asuntos de la Administración Pú
 
 I. Secretaría de Gobierno;
 
-II. Secretaría de Seguridad Pública y Protección Ciudadana;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+II. Secretaría de Seguridad Pública;
 
 III. Secretaría de Finanzas;
 
@@ -393,21 +395,55 @@ XXXIX. Llevar la relación del Gobierno del Estado con partidos, organizaciones,
 
 XL. Coordinar la relación del Gobierno del Estado con las diferentes iglesias y asociaciones religiosas y promover un ambiente de tolerancia y participación en el desarrollo del Estado;
 
-XLI. Intervenir en la solución de conflictos políticos o sociales para lo cual instrumentará las acciones que mejor convengan para la paz interior del Estado; y
+XLI. Intervenir en la solución de conflictos políticos o sociales para lo cual instrumentará las acciones que mejor convengan para la paz interior del Estado; y (sic)
 
-XLII. Realizar una revisión permanente del marco normativo del Estado y de los municipios para la mejora de la calidad y optimización de las normas y su congruencia con la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Coahuila.
+XLII. Realizar una revisión permanente del marco normativo del Estado y de los municipios para la mejora de la calidad y optimización de las normas y su congruencia con la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Coahuila;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XLIII. Operar la oportuna prestación de los servicios de apoyo o auxilio en caso de catástrofes, desastres o calamidades requeridos para la protección civil;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XLIV. Ordenar la elaboración de los estudios, planes, objetivos y políticas en materia de protección civil, así como el Atlas Estatal de Riesgos;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XLV. Coadyuvar con las autoridades federales, estatales de otras entidades de la República y municipales en la adopción de acciones y medidas encaminadas a mejorar los sistemas de protección civil en la Entidad;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XLVI. Proponer al Ejecutivo los programas relativos a la protección ciudadana y ejercer las acciones necesarias que aseguren la readaptación social;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XLVII. Organizar, dirigir, vigilar y controlar la administración de los centros de readaptación social en el Estado y tramitar, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XLVIII. Supervisar el adecuado cumplimiento de tratamientos y medidas de adaptación, orientación y protección destinadas a menores infractores, así como supervisar la administración de los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores, y;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+
+XLIX. Procurar la readaptación social de los procesados y sentenciados en la ejecución de las penas privativas de la libertad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 25.
 
-A la Secretaría de Seguridad Pública y Protección Ciudadana le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
 
 I. Desarrollar las políticas de seguridad pública y proponer la política criminal en el ámbito estatal, en coordinación con las políticas del Sistema Nacional de Seguridad Pública;
 
-II. Proponer al Ejecutivo los programas relativos a la seguridad pública y protección ciudadana y ejercer las acciones necesarias que aseguren la libertad, la prevención de delitos y la readaptación social;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+II. Proponer al Ejecutivo los programas relativos a la seguridad pública y ejercer las acciones necesarias que aseguren la libertad y la prevención de delitos;
 
 III. Prevenir y combatir las conductas delictivas, protegiendo a las personas en su integridad física, propiedades y derechos;
 
-IV. Elaborar el Plan Estatal de Seguridad Pública de acuerdo al Plan Estatal de Desarrollo y a las políticas del Sistema Nacional de Seguridad Pública así como el Programa Estatal de Protección Civil y los demás planes que de él se deriven;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+IV. Elaborar el Plan Estatal de Seguridad Pública de acuerdo al Plan Estatal de Desarrollo y a las políticas del Sistema Nacional de Seguridad Pública los demás planes que de él se deriven;
 
 V. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre los cuerpos de seguridad pública que existen en el Estado;
 
@@ -425,25 +461,25 @@ XI. Promover la profesionalización y modernización de los cuerpos de seguridad
 
 XII. Auxiliar al Poder Judicial del Estado, al Ministerio Público y a las autoridades administrativas, cuando así lo requieran, para el debido ejercicio de sus funciones;
 
-XIII. Vigilar y controlar la administración de los centros de readaptación social en el Estado y tramitar, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos;
+XIII. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
-XIV. Atender lo relativo al tratamiento y adaptación de los menores infractores en la Entidad;
+XIV. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
 XV. Vigilar las carreteras, caminos, aeropuertos de jurisdicción estatal así como las instalaciones y edificios públicos del Gobierno del Estado;
 
 XVI. Diseñar, proponer y en su caso establecer programas tendientes a prevenir el pandillerismo, así como el alcoholismo, la farmacodependencia y demás adicciones;
 
-XVII. Procurar la readaptación social de los procesados y sentenciados en la ejecución de las penas privativas de la libertad;
+XVII. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
 XVIII. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con autoridades federales, estatales, municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares conforme a la legislación aplicable;
 
-XIX. Operar la oportuna prestación de los servicios de apoyo o auxilio en caso de catástrofes, desastres o calamidades requeridos para la protección civil;
+XIX. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
 XX. Aplicar y vigilar el cumplimiento de las disposiciones que en las materias de su competencia señalan la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado, las leyes federales y estatales y demás disposiciones aplicables;
 
-XXI. Ordenar la elaboración de los estudios, planes, objetivos y políticas en materia de protección civil, así como el Atlas Estatal de Riesgos; y
+XXI. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
-XXII. Coadyuvar con las autoridades federales, estatales de otras entidades de la República y municipales en la adopción de acciones y medidas encaminadas a mejorar los sistemas de protección civil en la Entidad.
+XXII. (DEROGADA, P.O. 15 DE ENERO DE 2008)
 
 ###### ARTÍCULO 26.
 
@@ -1472,3 +1508,13 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
+
+P.O. 15 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se transfieren a la Secretaria de Gobierno, contarán con un término de 30 días hábiles para adecuar los manuales de organización y demás procedimientos administrativos necesarios para el cumplimiento de lo previsto en este Decreto.
+
+TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
