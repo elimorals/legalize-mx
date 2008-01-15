@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-los-derechos-y-deberes-de-las-52276"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2006-10-27"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y DEBERES DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de octubre de 2006.
 
@@ -713,7 +713,9 @@ Titulares son:
 
 7) El titular de la Secretaria de Salud.
 
-8) El titular de la Secretaria de Seguridad Pública y Protección Ciudadana.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2008)</small>
+
+8) El titular de la Secretaria de Seguridad Pública.
 
 9) El titular de la Procuraduría General de Justicia del Estado.
 
@@ -1210,3 +1212,15 @@ EL SECRETARIO DE EDUCACIÓN PÚBLICA
 PROFR. MANUEL JAIME CASTILLO GARZA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se transfieren a la Secretaría de Gobierno, contarán con un término de 30 días hábiles para adecuar los manuales de organización y demás procedimientos administrativos necesarios para el cumplimiento de lo previsto en este Decreto.
+
+TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
