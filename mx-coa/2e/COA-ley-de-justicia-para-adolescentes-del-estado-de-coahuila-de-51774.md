@@ -4,7 +4,7 @@ identifier: "COA-ley-de-justicia-para-adolescentes-del-estado-de-coahuila-de-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-01"
-last_updated: "2006-09-01"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 1 de septiembre de 2006.
 
@@ -205,7 +205,9 @@ a) Juzgados de Primera Instancia Especializados en materia de Adolescentes.
 
 b) Tribunal de Apelación Especializado en materia de Adolescentes.
 
-III. La Secretaría de Seguridad Pública y Protección Ciudadana, a través de la Dirección de Atención y Tratamiento de Adolescentes.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+III. La Secretaría de Seguridad Pública, a través de la Dirección de Atención y Tratamiento de Adolescentes.
 
 ###### ARTÍCULO 30.
 
@@ -375,15 +377,19 @@ IV. Supervisar y evaluar los Centros de Internación establecidos en el Estado;
 
 V. Informar al Juez los resultados de las evaluaciones periódicas que se practiquen a los adolescentes, conforme a lo dispuesto por esta ley;
 
-VI. Proponer al Titular de la Secretaría de Seguridad Pública y Protección Ciudadana del Estado, la celebración de convenios de colaboración con instituciones públicas y privadas que coadyuven en el cumplimiento de la ejecución de las medidas;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+
+VI. Proponer al Titular de la Secretaría de Gobierno del Estado, la celebración de convenios de colaboración con instituciones públicas y privadas que coadyuven en el cumplimiento de la ejecución de las medidas;
 
 VII. Contar con un registro actualizado de las instituciones públicas y privadas que colaboren en la ejecución de las medidas, así como de los programas existentes para su cumplimiento, y realizar los trámites necesarios para que dichas instituciones y programas sean coadyuvantes para la reintegración y adaptación social de los adolescentes; y
 
 VIII. Las demás previstas por esta ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 44.
 
-CENTROS DE INTERNACIÓN DE ADOLESCENTES. La Secretaría de Seguridad Pública y Protección Ciudadana establecerá en las diversas regiones del Estado los Centros de Internación, conforme a las necesidades del servicio y a la disponibilidad presupuestal, que estarán adscritos directamente a la Dirección. Los titulares de los Centros de Internación tendrán las siguientes obligaciones y atribuciones:
+CENTROS DE INTERNACIÓN DE ADOLESCENTES. La Secretaría de Gobierno del Estado, establecerá en las diversas regiones del Estado los Centros de Internación, conforme a las necesidades del servicio y a la disponibilidad presupuestal, que estarán adscritos directamente a la Dirección. Los titulares de los Centros de Internación tendrán las siguientes obligaciones y atribuciones:
 
 I. Aplicar las medidas de tratamiento de internación, conforme a su competencia, impuestas por el Juez;
 
@@ -2008,3 +2014,15 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA
 LIC. FAUSTO DESTENAVE KURI
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se transfieren a la Secretaría de Gobierno, contarán con un término de 30 días hábiles para adecuar los manuales de organización y demás procedimientos administrativos necesarios para el cumplimiento de lo previsto en este Decreto.
+
+TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
