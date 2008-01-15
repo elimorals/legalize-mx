@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-reforma-agraria-1367
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-07-11"
-last_updated: "1998-03-30"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1995-07-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA REFORMA AGRARIA, PUBLICADO EN EL D.O.F. DE 15 ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 11 de julio de 1995.
 
@@ -750,3 +752,17 @@ QUINTO.- Los asuntos encomendados al Instituto Nacional de Desarrollo Agrario, e
 SEXTO.- Los derechos de los trabajadores serán respetados conforme a la Ley.
 
 SÉPTIMO.- Los recursos materiales, financieros, mobiliario, vehículos, instrumentos, aparatos, maquinaria, y en general, los equipos de las unidades administrativas que desaparecen, deberán ser reasignados conforme a las necesidades del servicio, con base en las disposiciones legales aplicables.
+
+D.O.F. 15 DE ENERO DE 2008.
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Reforma Agraria, publicado en el Diario Oficial de la Federación el 11 de junio de 1995, reformado por decreto publicado en el mismo órgano de difusión el 30 de marzo de 1998, y se derogan todas aquellas disposiciones administrativas que se opongan a este Reglamento.
+
+TERCERO.- Los asuntos en trámite a la entrada en vigor de este Reglamento serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente.
+
+CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Reglamento, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Oficialía Mayor deberá emitir los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda, en un período de 10 días hábiles posteriores a la entrada en vigor de este Decreto.
+
+QUINTO.- La Oficialía Mayor realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+SEXTO.- Las modificaciones que, en su caso, se lleven a cabo a la estructura orgánica de la Secretaría, se deberán realizar mediante movimientos compensados que no impliquen un aumento en el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal, ni para el subsecuente.
