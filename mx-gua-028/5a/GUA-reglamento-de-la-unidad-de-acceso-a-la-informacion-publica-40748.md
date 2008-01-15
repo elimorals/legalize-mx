@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4074
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2004-08-27"
+last_updated: "2008-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE SALVATIERRA GUANAJUATO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 27 de agosto de 2004.
 
@@ -84,7 +84,7 @@ V.- El domicilio, número telefónico y la dirección electrónica de la Unidad 
 
 VI.- Las metas y objetivos de los programas municipales;
 
-VII.- Los expedientes judiciales o administrativos. Serán públicos los expedientes electorales;
+VII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALVATIERRA, GTO, P.O. 15 DE ENERO DE 2008)
 
 VIII.- Los servicios que ofrece la Administración Pública Municipal, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
 
@@ -422,39 +422,27 @@ II.- Cuando la información solicitada esté clasificada como reservada o confid
 
 ###### ARTÍCULO 34.
 
-Se procederá a la rectificación de datos personales cuando exista solicitud expresa por parte del interesado, dirigida a la Unidad de Acceso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALVATIERRA, GTO, P.O. 15 DE ENERO DE 2008)
 
 ###### ARTÍCULO 35.
 
-La solicitud de corrección de datos deberá contener:
-
-I.- Los datos que se pretenden corregir haciendo referencia en dónde constan los mismos;
-
-II.- Indicar los datos correctos y acreditar la exactitud de que los que se proporcionan son los correctos; y
-
-III.- En caso de que se pretendan complementar los datos personales, indicar la información faltante.
-
-Debiendo acreditar los particulares o su representante, la personalidad como titulares de los datos personales a que hacen referencia, en el caso de éstos últimos la representación será de carácter legal en los términos de los (sic) normatividad correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALVATIERRA, GTO, P.O. 15 DE ENERO DE 2008)
 
 ###### ARTÍCULO 36.
 
-La Unidad de Acceso solicitará en un plazo de 3 días hábiles siguientes al de recepción de la solicitud respectiva, a la Dependencia o Entidad la remisión del expediente o documentos que contengan los datos personales del solicitante; indicando se señale cómo se obtuvieron los datos personales que en dicha documentación constan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALVATIERRA, GTO, P.O. 15 DE ENERO DE 2008)
 
 ###### ARTÍCULO 37.
 
-La Unidad de Acceso con el apoyo de la Dependencia o Entidad respectiva, analizará la procedencia de dicha modificación, este análisis se realizará en un término de 15 días hábiles a partir de la recepción de la solicitud.
-
-Así mismo, se podrá requerir al solicitante la información que se considere pertinente a efecto de verificar la exactitud de los datos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALVATIERRA, GTO, P.O. 15 DE ENERO DE 2008)
 
 ###### ARTÍCULO 38.
 
-Si resulta procedente la modificación, se emitirá una resolución a fin de precisar la naturaleza de la determinación que se asuma, en la cual se instruya a la Dependencia o Entidad correspondiente, a realizar la modificación de los datos respectivos, señalando los datos correctos e indicando que se anexe a la corrección del documento el acuerdo de modificación de los mismos.
-
-Asimismo, la Unidad de Acceso notificará al solicitante en un plazo que no excederá de 30 días hábiles siguientes al de la determinación de procedencia de las modificaciones, que las mismas fueron conducentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALVATIERRA, GTO, P.O. 15 DE ENERO DE 2008)
 
 ###### ARTÍCULO 39.
 
-En caso de que se determine que no es procedente la modificación, la Unidad de Acceso, notificará al interesando (sic) expresando las razones y fundamento que tomó en consideración para determinar la no procedencia de la corrección de los datos, dicho plazo no excederá de 30 días hábiles siguientes a la presentación de la solicitud conforme a lo previsto en el artículo 26 de la Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALVATIERRA, GTO, P.O. 15 DE ENERO DE 2008)
 
 ### CAPÍTULO VIII. DEL RECURSO DE INCONFORMIDAD
 
@@ -483,3 +471,15 @@ PRESIDENTE MUNICIPAL
 LIC. JUAN JOSÉ CRUZ ZAVALA
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE ENERO DE 2008.
+
+###### Artículo 1.
+
+El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+###### Artículo 2.
+
+Se derogan la fracción VII del artículo 5 y los artículos 34, 35, 36, 37, 38 y 39 del Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de Salvatierra, Gto. y las demás disposiciones reglamentarias que se opongan al presente Reglamento.
