@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-planeacion-y-56857"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-07"
-last_updated: "2007-11-21"
+last_updated: "2008-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y DESARROLLO SUSTENTABLE DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2008.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 7 de marzo de 2007.
 
@@ -87,6 +87,10 @@ IX. Proyectos: Los proyectos derivados de los programas sectoriales, especiales,
 
 X. APP'S: Asociaciones Público Privadas.
 
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2008)</small>
+
+XI. CODECOM: A la Comisión Estatal del Convenio de Confianza Municipal.
+
 ## Título Segundo. De la Organización de la Secretaría y de las Atribuciones del Secretario
 
 ### Capítulo I. De la Estructura Orgánica de la Secretaría
@@ -97,19 +101,23 @@ X. APP'S: Asociaciones Público Privadas.
 
 Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, funciones y despacho de los asuntos de su competencia, la Secretaría tendrá los siguientes órganos administrativos:
 
-I. Oficina del Secretario:
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2008)</small>
 
-Coordinación Técnica Consultiva.
+I. Oficina del Secretario
 
-Representación del Gobierno del Estado ante la Comisión Federal de Electricidad.
+Coordinación Técnica Consultiva
 
-Unidad de Apoyo Administrativo.
+Representación del Gobierno del Estado ante la Comisión Federal de Electricidad
 
-Unidad de Planeación.
+Comisión Estatal del Convenio de Confianza Municipal
 
-Unidad de Asuntos Jurídicos.
+Unidad de Apoyo Administrativo
 
-Unidad de Informática.
+Unidad de Planeación
+
+Unidad de Asuntos Jurídicos
+
+Unidad de Informática
 
 II. Subsecretaría de Planeación:
 
@@ -127,11 +135,11 @@ Dirección de Programas Concertados.
 
 Dirección de Desarrollo Regional.
 
-IV. Órganos Desconcentrados:
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2008)</small>
 
-Instituto Chiapas Solidario.
+IV. Órgano Desconcentrado
 
-Comisión del Convenio de Confianza Municipal (CODECOM).
+Instituto Chiapas Solidario
 
 El Titular de la Secretaría, para el cumplimento de sus atribuciones, contará con un Secretario Particular y el número de servidores públicos que sea necesario para el desempeño de sus funciones, de conformidad con el presupuesto de egresos asignado a la Secretaría.
 
@@ -197,9 +205,13 @@ XVII. Operar y ejecutar programas y acciones sociales en beneficio de los adulto
 
 XVIII. Representar al Gobierno del Estado ante la Comisión Federal de Electricidad, así como, otorgar apoyo, asesoría, orientación y demás servicios a los usuarios de ésta, que así se lo soliciten, a través de los órganos de la Secretaría instituidos para ese efecto, sirviendo como mediador y enlace del Gobierno con dicha Entidad Federal.
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2008)</small>
 
-XIX. Las demás que en el ámbito de su competencia le asigne el Titular del Poder Ejecutivo del Estado, las leyes, reglamentos, decretos, acuerdos y demás disposiciones legales y normativas que le resulten aplicables.
+XIX. Coordinar las acciones, políticas públicas y procedimientos que en materia de desarrollo económico y social de las comunidades y Municipios del Estado, le correspondan a la Comisión Estatal del Convenio de Confianza Municipal.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2008)</small>
+
+XX. Las demás que en el ámbito de su competencia le asigne el Titular del Poder Ejecutivo del Estado, las leyes, reglamentos, decretos, acuerdos y demás disposiciones legales y normativas que le resulten aplicables.
 
 ###### Artículo 11.
 
@@ -259,75 +271,125 @@ XXV. Las demás que con este carácter y en el ámbito de su competencia le asig
 
 ### Capítulo I. De la integración de la Oficina del Secretario y las Atribuciones de las Unidades
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2008)</small>
 
 ###### Artículo 12.
 
-La Oficina del Secretario estará integrada por los Órganos Administrativos siguientes:
+La Oficina del Secretario estará integrada por los órganos administrativos siguientes:
 
-I. Coordinación Técnica Consultiva.
+I. Coordinación Técnica Consultiva
 
-II. Representación del Gobierno del Estado ante la Comisión Federal de Electricidad.
+II. Representación del Gobierno del Estado ante la Comisión Federal de Electricidad
 
-III. Unidad de Apoyo Administrativo.
+III. Comisión Estatal del Convenio de Confianza Municipal
 
-IV. Unidad de Planeación.
+IV. Unidad de Apoyo Administrativo
 
-V. Unidad de Asuntos Jurídicos.
+V. Unidad de Planeación
 
-VI. Unidad de Informática.
+VI. Unidad de Asuntos Jurídicos
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+VII. Unidad de Informática
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2008)</small>
 
 ###### Artículo 13.
 
-Corresponde a los Titulares de las Unidades, al Coordinador Técnico Consultivo y al Titular de la Representación del Gobierno del Estado ante la Comisión Federal de Electricidad, de manera general, las siguientes atribuciones:
+Corresponde a los Titulares de las Unidades, al Coordinador Técnico Consultivo, al Titular de la Representación del Gobierno del Estado ante la Comisión Federal de Electricidad y al Titular de la Comisión Estatal del Convenio de Confianza Municipal, de manera general, las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 I. Acordar con el Secretario el despacho y resolución de los asuntos de su competencia, así como, informar a éste de manera permanente, el trámite y atención de los mismos.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 II. Aplicar las políticas, normas y procedimientos que les correspondan; cumpliendo y haciendo cumplir la normatividad vigente, apoyando y asesorando al Secretario y a los Órganos Administrativos que integran la Secretaría, en los asuntos de su competencia o que le encomiende expresamente el Secretario.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 III. Planear, organizar, programar y desarrollar los programas que le sean asignados, de acuerdo a las políticas establecidas, optimizando los recursos autorizados para lograr el buen funcionamiento de la Secretaría.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 IV. Participar en la elaboración de los Manuales de la Secretaría para eficientar el funcionamiento organizacional.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 V. Proporcionar información, datos y cooperación técnica que soliciten los demás órganos de la Secretaría, u otras Dependencias y sus órganos desconcentrados, Entidades y Unidades del Poder Ejecutivo estatal.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 VI. Coordinar, supervisar y vigilar la elaboración, integración y ejecución de los programas técnicos, administrativos o de asesoría propios del Órgano Administrativo a su cargo.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 VII. Elaborar, integrar y ejecutar, los programas y proyectos del Órgano Administrativo a su cargo.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 VIII. Proponer y participar, en la organización de cursos de capacitación y conferencias que se impartan al personal de la Secretaría.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 IX. Establecer sistemas de control y seguimiento en los aspectos técnicos-administrativas (sic), durante el proceso de ejecución de los programas y proyectos del Órgano Administrativo a su cargo.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 X. Programar, organizar, dirigir, controlar y evaluar el desarrollo de las actividades encomendadas a las áreas que integren el Órgano Administrativo a su cargo.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 XI. Asesorar en materia de planeación y programación a los órganos administrativos y operativos en la elaboración de los programas en el área de su competencia.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 XII. Elaborar el anteproyecto de Presupuesto Anual de Egresos del Órgano Administrativo a su cargo, y vigilar su correcta aplicación de acuerdo a lo planeado.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 XIII. Formular los anteproyectos de iniciativas de leyes, reglamentos, lineamientos, decretos, acuerdos, circulares, programas, presupuestos y los demás que le correspondan en el ámbito de su competencia.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 XIV. Vigilar el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones relacionadas con el funcionamiento y los servicios encomendados al Órgano Administrativo a su cargo, sugiriendo se modifiquen las normas vigentes o se adopten nuevas.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 XV. Preparar y emitir los dictámenes, opiniones e informes que les sean solicitados por el Secretario y, en su caso, por los demás Órganos Administrativos de la Secretaría.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 XVI. Elaborar, preparar y emitir opinión respecto a los convenios, contratos y autorizaciones que celebre u otorgue la Secretaría, cuando contengan aspectos de su competencia y suscribirlos cuando se les delegue esta facultad expresamente.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 XVII. Suscribir acuerdos, documentos y demás actos jurídicos y administrativos relativos al ejercicio de sus funciones y aquellos que le sean asignados por delegación o le correspondan por suplencia.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 XVIII. Proponer al Secretario el ingreso, promoción, remoción del personal del Órgano Administrativo a su cargo, y en su caso, autorizar las licencias, permisos y tolerancias de éstos, de conformidad con las disposiciones legales vigentes.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 XIX. Elaborar, de conformidad con la normatividad aplicable, proyectos para crear, modificar, reorganizar y suprimir los órganos administrativos que integren el Órgano Administrativo a su cargo, a fin de hacerlas más eficientes.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 XX. Desempeñar las comisiones y representaciones que les encomiende el Secretario, en el ámbito de su competencia, e informar su resultado.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 XXI. Elaborar, fundar y dar respuesta tanto afirmativa o negativa, según sea el caso, en razón al ámbito de su competencia, de todas y cada una de la solicitudes de información pública que llegue a solicitar la ciudadanía.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 XXII. Vigilar que la normatividad aplicable a sus funciones, se mantenga actualizada, elaborando directamente o en coordinación con la Unidad de Asuntos Jurídicos de la Secretaría, los proyectos de modificación tendentes a la actualización del Reglamento Interior, Manuales Administrativos, lineamientos y demás normas legales y administrativas que correspondan.
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+
 XXIII. Vigilar que las funciones de las áreas y personal adscrito bajo su responsabilidad, se realicen con eficacia, eficiencia, oportunidad y de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 XXIV. Las demás que en el ámbito de su competencia les confieran las disposiciones legales aplicables, así como, las que les asigne el Secretario.
 
@@ -394,6 +456,34 @@ X. Apoyar a las escuelas de nivel básico para que en coordinación con la Comis
 XI. Intervenir ante cualquier problemática que se presente entre usuarios y la Comisión Federal de Electricidad.
 
 XII. Las demás que en el ámbito de su competencia le confieran las disposiciones aplicables, así como, las que le asigne el Secretario.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2008)</small>
+
+###### Artículo 15 Bis.
+
+El Titular de la Comisión Estatal del Convenio de Confianza Municipal, tendrá las atribuciones siguientes:
+
+I. Proponer y ejecutar las políticas, estrategias, acciones y procedimientos normativos del Convenio de Confianza Municipal, para incentivar el desarrollo económico de las comunidades y municipios del Estado de Chiapas.
+
+II. Participar en las reuniones de priorización y asignación de obras que se realicen, para la integración de los programas de inversión que realice la Secretaría a través de la CODECOM con los Municipios del Estado, así como dictar y revisar la correcta integración y el cumplimiento de los requisitos relativos a la documentación soporte de las obras y acciones a financiar con recursos del programa.
+
+III. Elaborar y formalizar la firma de los Convenios de Confianza Municipal que suscriba el Ejecutivo del Estado a través de la Secretaría y los Municipios del Estado.
+
+IV. Vigilar el cumplimiento de los Convenios de Confianza Municipal, a fin de garantizar que la ejecución de las obras y acciones programadas, se realicen en los términos y condiciones establecidos en los mismos.
+
+V. Coadyuvar con los procesos de supervisión, mediante el seguimiento, registro y control de las obras y acciones del programa que se derive del Convenio de Confianza Municipal, previamente signados por las partes.
+
+VI. Atender y resolver las peticiones formuladas al Titular del Poder Ejecutivo del Estado y a la Comisión Estatal del Convenio de Confianza Municipal, que tengan relación con los programas de la CODECOM.
+
+VII. Implementar los sistemas de información que se requieran para el cumplimiento de las funciones y el desempeño de sus atribuciones.
+
+VIII. Registrar, controlar y evaluar los documentos, datos y resultados que se originen de las funciones, atribuciones y actividades de la CODECOM, para la rendición de cuentas y transparencia de la información.
+
+IX. Presentar al Secretario los informes trimestrales de resultados que contengan los avances físicos y financieros de los proyectos institucionales y actividades a su cargo.
+
+X. Implementar las alternativas de mejoras convenientes al programa, enfocadas hacia los sistemas de gestión de calidad.
+
+XI. Las demás que en el ámbito de su competencia le confieran las disposiciones aplicables, así como, las que le asigne el Secretario.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
@@ -1087,21 +1177,21 @@ El Instituto Chiapas Solidario, así como, la Comisión del Convenio de Confianz
 
 Las ausencias temporales del Secretario, serán suplidas por el servidor público que éste designe.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2008)</small>
 
 ###### Artículo 46.
 
-Los Subsecretarios, Jefes de Unidad y el Coordinador Técnico Consultivo, serán suplidos en sus ausencias, por el servidor público que designe el Secretario.
+Los Subsecretarios, Jefes de Unidad, el Coordinador Técnico Consultivo, el Titular de la Representación del Gobierno del Estado ante la Comisión Federal de Electricidad y el Titular de la Comisión Estatal del Convenio de Confianza Municipal, serán suplidos en sus ausencias, por el servidor público que designe el Secretario.
 
 ###### Artículo 47.
 
 Los Directores serán suplidos en sus ausencias, por el servidor público que designe el Titular de la Subsecretaría de su adscripción, previo acuerdo y aprobación del Secretario.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2008)</small>
 
 ###### Artículo 48.
 
-Los Titulares de los Órganos Administrativos Desconcentrados, serán suplidos en sus ausencias, de conformidad con lo dispuesto en su Decreto de Creación.
+El Titular del Órgano Administrativo Desconcentrado a que se refiere este Reglamento, será suplido en sus ausencias de conformidad con lo dispuesto en su decreto de creación
 
 ###### Artículo 49.
 
@@ -1138,3 +1228,21 @@ Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decr
 Artículo Tercero.- El Secretario podrá ordenar que uno o varios asuntos en trámite al momento de entrar en vigor el presente Reglamento, sigan en conocimiento de los Órganos Administrativos que los tenían asignados, o bien, que pasen a la atención del Órgano competente, de conformidad con las disposiciones de este Decreto.
 
 Artículo Cuarto.- En términos de lo previsto en el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Secretario podrá ordenar que uno o varios asuntos en trámite al momento de entrar en vigor el presente Reglamento, sigan en conocimiento de los órganos administrativos que los tenían asignados, o bien, pasen a la atención del órgano competente, de conformidad con las disposiciones contenidas en este Decreto.
+
+Artículo Cuarto.- Se abrogan el Decreto por el que se crea "La Comisión Estatal del Convenio de Confianza Municipal" Órgano Desconcentrado de la Secretaría de Planeación y Desarrollo Sustentable, publicado en el Periódico Oficial del Estado número 001, Segunda Sección, Tomo III, de fecha once de diciembre de dos mil seis, y el Reglamento Interior de la Comisión Estatal de Convenio de Confianza Municipal, publicado en el Periódico Oficial del Estado número 22, Segunda Sección, Tomo III, de fecha dieciocho de abril de dos mil siete, así como las normas que de ellos se deriven, y se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Quinto.- Los recursos humanos, materiales y financieros que hasta la presente fecha correspondían al Órgano Desconcentrado denominado Comisión Estatal del Convenio de Confianza Municipal, a partir de la entrada en vigor del presente Decreto serán transferidos a la Secretaría de Planeación y Desarrollo Sustentable.
+
+Artículo Sexto.- La Secretarías de Administración y de Finanzas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que sean necesarias para la adecuación de la estructura funcional de la Secretaría de Planeación y Desarrollo Sustentable, con base en lo dispuesto en el presente Decreto.
+
+Artículo Séptimo.- Los compromisos y procedimientos que a la fecha hubiere contraído el Órgano Desconcentrado denominado Comisión Estatal del Convenio de Confianza Municipal, así como las atribuciones que otras normas le asignen, serán asumidos inmediatamente y se entenderán conferidas a la Secretaría de Planeación y Desarrollo Sustentable por conducto del órgano competente en términos del presente Decreto.
+
+Artículo Octavo.- En términos de lo previsto en el artículo 8º, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
