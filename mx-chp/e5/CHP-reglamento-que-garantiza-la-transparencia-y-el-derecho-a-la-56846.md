@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-que-garantiza-la-transparencia-y-el-derecho-a-la-568
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-16"
-last_updated: "2007-05-16"
+last_updated: "2008-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL REGLAMENTO DE LA LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 16 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 16 de mayo de 2007.
 
@@ -562,3 +564,17 @@ Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los dos días del mes de mayo del año dos mil siete:
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE ENERO DE 2008.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Artículo Segundo.- Los cobros en la reproducción de la información, deberán atender a los montos y conceptos señalados en la Ley de Ingresos del Estado del Ejercicio Fiscal correspondiente.
+
+Artículo Tercero.- Se abroga el Reglamento que Garantiza la Transparencia y el Derecho a la Información Pública del Poder Legislativo, publicado en la Segunda Sección del Periódico Oficial del Estado número 028 Tomo III de fecha 16 de mayo del año 2006.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Artículo Quinto.- El Comité, así como la Unidad de Acceso, deberán quedar instalados dentro de los quince días siguientes a la entrada en vigor del presente Reglamento.
