@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-dependencia-denominada-20948"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-07"
-last_updated: "2001-03-07"
+last_updated: "2008-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA DEPENDENCIA DENOMINADA REPRESENTACION DEL PODER EJECUTIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de marzo de 2001.
 
@@ -35,7 +35,7 @@ CONSIDERANDO.
 
 En virtud de lo expuesto, he tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DE LA DEPENDENCIA DENOMINADA REPRESENTACIÓN DEL PODER EJECUTIVO DEL ESTADO
+REGLAMENTO INTERIOR DE LA DEPENDENCIA DENOMINADA REPRESENTACIÓN DEL PODER EJECUTIVO DEL ESTADO.
 
 ### CAPÍTULO I.
 
@@ -45,9 +45,11 @@ DISPOSICIONES GENERALES.
 
 La Representación del Poder Ejecutivo del Estado de Morelos, de acuerdo con el artículo 25 párrafo segundo y final de la Ley Orgánica de la Administración Pública del Estado, dependerá directamente del Gobernador y ejercerá las atribuciones que éste le confiera legalmente.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 2.
 
-Para el despacho de los asuntos de su competencia, la Representación del Poder Ejecutivo del Estado de Morelos contará con un Titular y los servidores públicos que se señalen en el Manual de Organización y demás disposiciones legales aplicables.
+Para el despacho de los asuntos de su competencia, la Representación del Poder Ejecutivo del Estado de Morelos contará con un Titular, una Dirección General de Enlace y los servidores públicos que se señalen en el Manual de Organización y demás disposiciones legales aplicables.
 
 ### CAPÍTULO II.
 
@@ -81,15 +83,51 @@ V. Representar al Gobernador del Estado en reuniones técnicas, actos cívicos y
 
 VI. Intervenir por encargo del Titular del Ejecutivo en los trámites previos a la celebración de convenios entre el Gobierno del Estado y la Federación, otros organismos y empresas, y en las diligencias posteriores relativas a su ejecución;
 
-VII. Asesorar al Gobernador del Estado en los asuntos que éste solicite, y
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2008)</small>
 
-VIII. Las demás que determinen las disposiciones legales aplicables o le delegue el Titular del Poder Ejecutivo.
+VII. Apoyar a las autoridades municipales y dependencias estatales; a sus titulares, integrantes y representantes, en sus gestiones y relaciones con otras autoridades federales y de otros Estados; así como instituciones públicas y privadas con sede en la Ciudad de México;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2008)</small>
+
+VIII. Promover, impulsar, organizar y apoyar una mejor participación de la comunidad morelense en la Ciudad de México;
+
+IX. Asesorar al Gobernador del Estado en los asuntos que éste solicite, y
+
+X. Las demás que determinen las disposiciones legales aplicables o le delegue el Titular del Ejecutivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 7.
 
-El Titular de la representación será suplido en sus ausencias por quien designe el Gobernador.
+El Titular de la Representación será suplido en sus ausencias por quien designe el Gobernador, cuando sean periodos mayores a treinta días.
 
 Las demás suplencias que puedan producirse serán resueltas por el Representante.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2008)</small>
+
+###### ARTÍCULO 8.
+
+El Director General de Enlace tendrá las siguientes atribuciones específicas:
+
+I. Planear, programar, organizar, dirigir y controlar el desarrollo de las actividades de su competencia;
+
+II. Desempeñar las comisiones que le sean delegadas o encomendadas por el Representante, y mantenerlo informado del desarrollo de las mismas;
+
+III. Proponer el anteproyecto de programa y presupuesto anual de la dependencia, sometiéndolo a consideración del Representante;
+
+IV. Vigilar la correcta aplicación de los recursos materiales y financieros de la Representación, en los términos y conforme a las normas y lineamientos que determinen la Secretaría de Finanzas y Planeación y la Oficialía Mayor;
+
+V. Proponer al titular de la dependencia las acciones que requiera en materia de informática de la Representación;
+
+VI. Planear la actualización de la información de la Representación, que de conformidad con la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos, deba publicarse a través de internet;
+
+VII. Sugerir al Representante, las medidas necesarias para establecer e incrementar la eficacia y eficiencia de las áreas que conforman la Representación;
+
+VIII. Proponer al Representante un plan de difusión de la imagen del Estado de Morelos, en los ámbitos de su desarrollo económico, turístico y social, ante instancias públicas y privadas;
+
+IX. Proponer al Representante acciones de vinculación, enlace, gestión y seguimiento de proyectos, y
+
+X. Las demás que determinen las disposiciones jurídicas aplicables o le sean delegadas por el Representante.
 
 ## TRANSITORIOS
 
@@ -114,3 +152,11 @@ REPRESENTANTE DEL PODER EJECUTIVO DEL ESTADO
 LIC. HÉCTOR GÓMEZ GARCÍA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE ENERO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
