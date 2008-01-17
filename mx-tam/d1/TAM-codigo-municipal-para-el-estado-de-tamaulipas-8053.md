@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2008-01-02"
+last_updated: "2008-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -294,6 +294,28 @@ El cargo de miembro de un Ayuntamiento sólo podrá renunciarse por causa justif
 ###### ARTICULO 30.
 
 Los miembros de los ayuntamientos tendrán la remuneración que se les asigne en el Presupuesto de Egresos respectivo, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación económica de los Municipios.
+
+(NOTA: EL 4 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 30/2008, 31/2008 Y 32/2008, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO CON SIETE FRACCIONES DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE ENERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+LA SUMA TOTAL DE TODOS LOS CONCEPTOS QUE SE INCLUYAN COMO REMUNERACIÓN A QUE TENDRÁN DERECHO LOS SÍNDICOS Y REGIDORES DE LOS AYUNTAMIENTOS DEL ESTADO SE ESTABLECERÁ CON EL EQUIVALENTE AL SALARIO MÍNIMO VIGENTE EN EL ÁREA GEOGRÁFICA CORRESPONDIENTE, EN UN PARÁMETRO MÁXIMO EN LOS SIGUIENTES TÉRMINOS:
+
+I. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS MIL Y LOS CINCO MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 101 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 80 SALARIOS MÍNIMOS;
+
+II. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS CINCO MIL UNO A LOS DIEZ MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 151 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 121 SALARIOS MÍNIMOS;
+
+III. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS DIEZ MIL UNO A LOS QUINCE MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 202 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 161 SALARIOS MÍNIMOS;
+
+IV. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS QUINCE MIL UNO A LOS CUARENTA MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 252 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 202 SALARIOS MÍNIMOS;
+
+V. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS CUARENTA MIL UNO A LOS CIEN MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 378 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 303 SALARIOS MÍNIMOS;
+
+VI. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS CIEN MIL UNO A LOS DOSCIENTOS CINCUENTA MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 505 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 404 SALARIOS MÍNIMOS; Y
+
+VII. EN LOS MUNICIPIOS CUYA POBLACIÓN SEA MAYOR A LOS DOSCIENTOS CINCUENTA MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 757 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 606 SALARIOS MÍNIMOS.
 
 ###### ARTICULO 31.
 
@@ -3609,6 +3631,18 @@ Sin perjuicio de lo establecido en el párrafo anterior, el prestador de los ser
 
 Los condóminos o aquellos usuarios que a la entrada en vigor de esta ley se surtan del servicio con una sola toma, estarán obligados a organizar un comité el cual se encargará de recolectar el importe del recibo y pagarlo en las cajas autorizadas por el prestador de los servicios públicos. En el entendido que de no pagar en los tiempos establecidos, implicará ser acreedores a las sanciones previstas por esta ley.
 
+ARTICULO DEIMO SEXTO.- A partir de la entrada en vigor de la presente ley, los prestadores de los servicios públicos deberán incluir en los programas mencionados en el Título Cuarto de este ordenamiento, la construcción de la infraestructura necesaria para dar cumplimiento a lo establecido en el artículo 160.
+
+P.O. 15 DE MARZO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
 ###### ARTICULO DECIMO SEXTO.
 
 A partir de la entrada en vigor de la presente ley, los prestadores de los servicios públicos deberán incluir en los programas mencionados en el Título Cuarto de este ordenamiento, la construcción de la infraestructura necesaria para dar cumplimiento a lo establecido en el artículo 160.
@@ -3676,3 +3710,13 @@ P.O. 2 DE ENERO DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los 43 Ayuntamientos del Estado efectuarán los ajustes pertinentes en su programación de pagos para ajustarse a los términos del presente Decreto.
