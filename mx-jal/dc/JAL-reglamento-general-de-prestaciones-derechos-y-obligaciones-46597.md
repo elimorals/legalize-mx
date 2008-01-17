@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-general-de-prestaciones-derechos-y-obligaciones-4659
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-06"
-last_updated: "2007-11-13"
+last_updated: "2008-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO GENERAL DE PRESTACIONES, DERECHOS Y OBLIGACIONES DE AFILIADOS Y PENSIONADOS DE LA DIRECCION DE PENSIONES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2008.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 6 de octubre de 2005.
 
@@ -4509,6 +4509,338 @@ II. Dictaminar los expedientes para la admisión de nuevos residentes en la Casa
 
 III. Dictaminar los expedientes de casos de egreso definitivo forzoso de la Casa Hogar, para su resolución definitiva por la Dirección General; (sic)
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+## TÍTULO XII. DE LA INCORPORACIÓN, AFILIACIÓN Y VIGENCIA
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 427.
+
+El presente Título establece las normas para:
+
+I. La incorporación de entidades públicas patronales al régimen de la Ley de Pensiones del Estado, en los términos del artículo 3, fracción VI, incisos a) y b) de la Ley de Pensiones del Estado;
+
+II. Las altas, bajas y modificaciones relativas a afiliados del régimen obligatorio, conforme a lo establecido en el artículo 10, fracción I, de la Ley de Pensiones del Estado;
+
+III. Las altas, bajas y modificaciones relativas a aportadores del régimen voluntario, acorde a lo previsto en el artículo 74 de la Ley de Pensiones del Estado;
+
+IV. Las modificaciones de sueldos sujetos a cotización, según lo dispuesto en el artículo 10, fracción II, de la Ley de Pensiones del Estado, y (sic)
+
+V. La certificación de la vigencia de derechos de los afiliados para efecto de acceder a las prestaciones establecidas en la Ley de Pensiones del Estado;
+
+VI. El pago de las aportaciones y retenciones.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 428.
+
+Para los efectos del presente Título, se entiende por:
+
+I. Institución, el Organismo Público Descentralizado Dirección de Pensiones del Estado;
+
+II. Entidades públicas; los Poderes Públicos del Estado de Jalisco, los Municipios, las Secretarías de Estado, Dependencias Centralizadas y Organismos Auxiliares, Organismos Públicos Descentralizados del Estado y de los Municipios, así como las Empresas o Asociaciones de participación mayoritaria Estatal o Municipal y fideicomisos públicos de carácter Estatal y Municipal que tengan la calidad de patrones respecto a los afiliados de la Institución;
+
+III. Afiliado; la persona física sujeta a una relación laboral con las Dependencias y Entidades del Estado de Jalisco y sus Municipios señaladas en la fracción anterior; siempre que hubiere sido dada de alta en la Institución, cuyas aportaciones hubieren sido cubiertas y se encuentre vigente;
+
+IV. Pensionado; la persona física que habiendo sido afiliada, obtenga una pensión prevista en la Ley de Pensiones del Estado, por acuerdo del Consejo Directivo, una vez cumplidos los requisitos aplicables al caso;
+
+V. Base de cotización; la suma de sueldo, sobresueldo y compensación, en los términos normados por el artículo 13 de la Ley de Pensiones del Estado;
+
+VI. Aportador o aportante voluntario; el afiliado que haya causado baja del régimen obligatorio y solicita su incorporación al régimen voluntario;
+
+VII. Alta; el acto jurídico administrativo emitido por la Institución, mediante el cual una o más personas son inscritas, por la Dirección de Prestaciones, en el padrón de afiliados y/o aportadores, según sea el caso, y
+
+VIII. Baja definitiva; la que proviene de la terminación de la relación laboral, cuando ésta deriva de renuncia, muerte, destitución o cese; siempre que no se hubiere demandado la reinstalación; o cuando habiéndose demandado ésta, el laudo ejecutoriado resulte desfavorable al trabajador.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 429.
+
+Para la realización de los trámites de incorporación, alta, baja y certificación de vigencias de derechos, las entidades públicas, deberán invariablemente utilizar las formas y los procedimientos que para tal efecto se establezcan y, en su caso, acompañará la documentación probatoria necesaria que se anexará al formato de afiliación; en todo caso deberá demostrarse la existencia de la persona, de la plaza y de la asignación de la misma.
+
+Las entidades públicas tendrán la obligación de proporcionar a la Institución dentro de los quince días hábiles posteriores a su requerimiento formal y por escrito, la información que ésta les solicite, siempre que dicha información tenga relación directa con el cumplimiento de las disposiciones de la Ley de Pensiones del Estado, con el presente Reglamento, y en general con el régimen de seguridad social de afiliados y pensio­nados.
+
+La información será presentada por escrito, o en el formato electrónico que la Institución determine, con base en los sistemas que la misma desarrolle y conceda en uso a las entidades públicas.
+
+Para la operación del Sistema de Incorporación, Afiliación y Vigencias, las entidades públicas deberán designar, en los formatos autorizados por la Institución, o mediante firma electrónica, a su personal acreditado, que será responsable de proporcionar, validar y certificar la información que servirá de base para el funcionamiento del sistema.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 430.
+
+El Consejo Directivo es el único órgano competente para acordar la incorporación de entidades públicas al régimen de seguridad social otorgado por la Institución, en términos de lo normado por el artículo 3, fracción VI, inciso b) de la Ley de Pensiones del Estado.
+
+Corresponde originariamente a la Dirección General el establecimiento y aprobación de las políticas y procedimientos necesarios para dar cumplimiento a las disposiciones del presente Título, con amplias facultades para firmar los convenios y actos administrativos que de ellos se deriven, salvaguardando siempre los intereses de la Institución.
+
+La Dirección de Prestaciones será la responsable de recibir, dar trámite y resolución a los procedimientos derivados de alta, baja y modificaciones relativas a afiliados, aportadores voluntarios y certificación de vigencia de derechos; integrando así mismo los expedientes respectivos de incorporación de entidades públicas, para su presentación al Consejo Directivo por el Director General.
+
+La Dirección de Prestaciones, en coordinación con la Dirección de Informática y Finanzas, integrarán un registro de dependencias y municipios, así como de afiliados, pensionistas y beneficiarios, para operar el Sistema de Incorporación, Afiliación y Vigencias, que permitirá controlar el otorgamiento de los servicios y prestaciones, así como determinar las aportaciones y descuentos por concepto de créditos otorgados.
+
+Si con motivo de reformas organizacionales, cambiara alguna o algunas de las direcciones a las que se refiere el presente artículo, las funciones se entenderán conferidas a la unidad administrativa que la sustituya.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 431.
+
+En caso de duda sobre la interpretación de las disposiciones contenidas en el presente Reglamento, corresponderá en primer término la opinión de la Dirección Jurídica; y en caso de subsistir ésta, se estará a lo que determine el Consejo Directivo.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+### CAPÍTULO II. De la Incorporación de Entidades Públicas
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 432.
+
+La incorporación de Entidades Públicas al régimen de la Ley de Pensiones del Estado podrá ser voluntaria u obligatoria por ministerio de Ley.
+
+Es incorporación obligatoria por ministerio de Ley la que se realice respecto de los Poderes Públicos del Estado de Jalisco, sus Secretarías y Dependencias Centralizadas, conforme a lo dispuesto en el artículo 3, fracción VI, inciso a), de la Ley de Pensiones del Estado.
+
+Es incorporación voluntaria la que opten por efectuar los Municipios, los organismos públicos descentralizados, y las sociedades de participación estatal del nivel de Gobierno Estatal o Municipal, en los términos de lo establecido por el artículo 3, fracción VI, inciso b) de la Ley de Pensiones del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 433.
+
+La incorporación obligatoria deberá realizarse por las Secretarías y Dependencias Centralizadas de nueva creación dentro de los 30 días hábiles siguientes a la fecha de inicio de su operación.
+
+En el caso de Departamentos, Direcciones u otras Unidades Administrativas análogas, que por motivo del desarrollo organizacional pasen a constituirse como Secretarías, se continuará con la afiliación que en su caso tuvieren sus servidores públicos, sin afectar en ningún aspecto a su antigüedad de cotización.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 434.
+
+Voluntariamente podrán ser afiliados bajo el régimen obligatorio de esta Ley:
+
+I. Los servidores públicos de los Municipios del Estado de Jalisco;
+
+II. Los trabajadores de los organismos públicos descentralizados del Estado y de sus municipios;
+
+III. Los trabajadores de organismos públicos autónomos por mandato constitucional, y
+
+IV. Los trabajadores de las empresas o asociaciones de participación estatal o municipal mayoritaria, fideicomisos públicos de carácter estatal o municipal cuyas relaciones de trabajo sean regidas por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+El Consejo Directivo sólo aceptará la incorporación de las Entidades Públicas mencionadas en las fracciones anteriores, siempre que no estuvieren o hayan estado incorporadas a un régimen de seguridad social distinto y además si afilian a la totalidad de sus trabajadores; salvo los señalados en el artículo 4° de la Ley de Pensiones del Estado. En todas las incorporaciones deberá cuidarse que no se ponga en riesgo la estabilidad financiera de la Institución.
+
+De igual manera las Entidades Públicas deberán presentar para la aprobación de su incorporación, la nomina de la totalidad de sus trabajadores que contenga: nombre, fecha de nacimiento, percepciones, así como cargo o puesto que desempeña.
+
+La Entidad Pública deberá acompañar a su solicitud de incorporación, un dictamen médico reciente por cada trabajador que rebase los 50 años de edad, que acredite que éste no presenta enfermedades preexistentes que puedan dar lugar a la invalidez. Dichos dictámenes serán validados por la Institución, a través de la Dirección de Servicios Médicos. Las enfermedades preexistentes tendrán por efecto la no afiliación del trabajador.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 435.
+
+La afiliación de los sujetos a que se refiere el artículo anterior se llevará a cabo mediante convenios que las Entidades Públicas celebren con la Institución, conforme a los procedimientos que se establecen o deriven de este Título.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 436.
+
+Los convenios que cada Entidad Pública patronal celebre con la Institución en términos del artículo anterior, deberán establecer:
+
+La obligación de la Institución y de la entidad pública patronal de sujetarse a las disposiciones establecidas en el régimen obligatorio de la Ley, a las contenidas en el presente Reglamento General y aquellas que se señalen de manera expresa, una vez que se hayan incorporado los trabajadores de la misma.
+
+Los Organismos Públicos Descentralizados deberán garantizar sus obligaciones mediante aval o deudor solidario, que preferentemente será el Gobierno del Estado, en las entidades paraestatales dependientes de éste y el Municipio, con respecto a sus propios organismos.
+
+Independientemente de lo anterior, rigen para las Entidades Públicas patronales todas las obligaciones contenidas en este Reglamento General, aún y cuando no se hubieren incorporado en los convenios que suscriban.
+
+Los pagos de aportaciones y retenciones realizados por las dependencias públicas a que refiere el Artículo 16 de la Ley deberán enterarse a la Institución a más tardar el tercer día hábil siguiente al vencimiento de la quincena nominal, a través de transferencia electrónica o en su caso por el medio que determine la Institución.
+
+El intercambio de información de aportaciones y descuentos deberá realizarse mediante los sistemas y medios electrónicos que la Institución establezca.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 437.
+
+La vigencia de la incorporación voluntaria en el régimen obligatorio, será por tiempo indeterminado, por lo que en el caso de los Municipios se requerirá el Acuerdo de Ayuntamiento con las condiciones que establezca la legislación que los rige; los organismos públicos descentralizados presentarán acuerdo de su órgano de gobierno que cumpla con las formalidades y requisitos que establezcan las leyes y decretos de su creación.
+
+Las prestaciones y servicios que procedan se otorgarán a los afiliados, en forma general, cuando éstos cumplan con la antigüedad de cotización prevista en la Ley y este Reglamento, con posterioridad a la aceptación de la incorporación por parte del Consejo Directivo, previa la remisión de la información y documentación procedente y el entero de las aportaciones y retenciones respectivas a la Institución.
+
+La incorporación voluntaria de una Entidad Pública es irrevocable, por lo que las cuotas y aportaciones de ésta no podrán ser materia de devolución. Las retenciones de los afiliados serán materia de devolución en los casos en que la Ley y este Reglamento General determinen.
+
+El monto de las cuotas o aportaciones deberá ser el establecido en los artículos 13 y 16 de la Ley, por lo tanto las cuotas y retenciones no podrán ampliarse, reducirse o modificarse por parte de la Entidad Pública.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+### CAPÍTULO III. Del alta
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 438.
+
+Quedan excluidos de afiliación bajo el régimen obligatorio las personas que presten sus servicios mediante contratos por tiempo y obra determinada, y aquellos que lo hagan a través de contratos sujetos a la legislación común, acorde a lo ordenado por el artículo 4o de la Ley de Pensiones del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 439.
+
+Tampoco podrán ser sujetos de afiliación las personas que presten sus servicios con el carácter de honoríficos, meritorios, voluntarios, prestadores de servicio social, lista de raya o cualesquiera otros análogos.
+
+Cuando la Entidad Pública entere a la Institución aportaciones derivadas de la relación de trabajo y la prestación de servicio a que se refieren los párrafos anteriores, deberán ser devueltas sin que se genere ningún derecho u obligación.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 440.
+
+El alta de afiliados surte efectos al día hábil siguiente de haberse emitido el acto administrativo que la autoriza, siempre que se hubiere realizado el pago de las aportaciones respectivas, conforme al artículo 7 de la Ley.
+
+Por consiguiente, la afiliación sin el pago de aportaciones, no surtirá efecto alguno, aún si hubiere sido autorizada por la Institución.
+
+Los pagos de aportaciones y retenciones realizados por la Entidad Pública a que refiere el artículo 16 de la Ley deberán realizarse al día siguiente hábil bancario de la fecha de término de la quincena nominal, vía transferencia electrónica o en su caso en la forma y términos que determine la Institución.
+
+En el caso de que transcurran dos quincenas consecutivas sin que la Entidad Pública efectúe el pago de las aportaciones y retenciones respectivas a la Institución, se suspenderá el otorgamiento de prestaciones y servicios al Titular y Directivos de dichas Entidades Públicas, sin afectarse los derechos de los trabajadores, siempre que justifiquen haber sido sujetos de las retenciones o aportaciones debidas. Dicha suspensión dejará de surtir efectos en el momento en que se realice el pago de las aportaciones y retenciones; con sus accesorios, a que están obligados, conforme lo establece el artículo 17 de la Ley de Pensiones del Estado.
+
+Se dará parte de dicha mora al H. Congreso del Estado, en los términos del artículo 17 de la Ley; y a la representación sindical a que estén adscritos los afiliados, debiéndose realizar gestiones conjuntas para hacer coercible el pago de los montos adeudados por los organismos y dependencias morosos. Igualmente conforme a los artículos 61 y 69 de la Ley de Responsabilidades de los Servidores Públicos del Estado se dará parte a la Contraloría Estatal.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 441.
+
+El alta de afiliados del régimen obligatorio deberá ser realizada por las Entidades Públicas.
+
+Las Entidades Públicas están obligadas a notificar a la Institución, de forma escrita o por medio magnético, en los formatos, programas y sistemas de cómputo oficial autorizados:
+
+I. Las altas, bajas, modificaciones relativas a los trabajadores sujetos al régimen obligatorio de esta Ley, especificando el carácter de la relación laboral, y en su caso el tipo de nombramiento, su código funcional, y el número de plaza o clave presupuestal de la misma;
+
+II. Los incrementos, decrementos o cualquier modificación de los diferentes conceptos que constituyen la base de cotización de los afiliados;
+
+III. Las variaciones, promociones y cambios de las plazas de los afiliados;
+
+IV. Las licencias sin goce de sueldo, y cualquier tipo de suspensión de la relación laboral de los afiliados, que afecten a la cotización;
+
+V. Los cambios de ubicación y de adscripción laboral de los afiliados;
+
+VI. El monto que corresponde al sueldo, sobresueldo y compensación de manera individual para cada concepto;
+
+VII. Los ceses dictados y las demandas laborales de reinstalación que se interpongan respecto de trabajadores que estén afiliados a la Institución, así como los laudos ejecutoriados que condenen o absuelvan a la reinstalación;
+
+VIII. Los demás datos relevantes para la prestación de servicios de seguridad social que sean solicitados, siempre que así lo permita el presente Reglamento, lo acuerde de forma general el Consejo Directivo y se notifique oportunamente a las entidades patronales.
+
+Los afiliados deberán dar a conocer su designación de beneficiarios a las entidades públicas; para los efectos del artículo 60 bis de la Ley, dentro del término de 30 días hábiles posteriores a su alta. Una vez hecho lo anterior, las entidades públicas deberán remitir los pliegos de designación dentro de la siguiente quincena.
+
+En el caso de trabajadores mayores de 50 años de edad, la Entidad Pública deberá remitir junto con la notificación de alta, un dictamen médico reciente por cada trabajador que rebase los 50 años de edad, que acredite que éste no presenta enfermedades preexistentes que puedan dar lugar a la invalidez. Dichos dictámenes serán validados por la Institución, a través de la Dirección de Servicios Médicos. Las enfermedades preexistentes tendrán por efecto la no afiliación del trabajador.
+
+La notificación de las altas a que se refiere la fracción I del presente artículo, surte los efectos de afiliación de los servidores públicos ante la Institución, siempre que se realice el entero de cuotas y retenciones dentro del término de quince días hábiles, contados a partir del aviso de alta.
+
+Las notificaciones a que se refiere este artículo deberán realizarse dentro de los quince días hábiles siguientes a la fecha en que se pague la quincena respectiva, a más tardar los días 5 y 20 de cada mes, en concordancia con lo establecido para el pago de retenciones y aportaciones.
+
+También podrán realizarse las notificaciones en tiempo real o en línea, siempre que la Institución establezca el sistema informático que así lo permita.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 442.
+
+El alta de aportadores al régimen voluntario será siempre a instancia de parte, y dentro del término de un año contado a partir de la baja definitiva, en los términos del artículo 74 de la Ley de Pensiones.
+
+El afiliado al que se le haya concedido licencia temporal sin goce de sueldo por la entidad pública patronal o cause baja definitiva del servicio y, en consecuencia, en ambos casos, del régimen obligatorio de esta Ley, podrá continuar contribuyendo voluntariamente al fondo de pensiones, para seguir generando el derecho a las pensiones por jubilación y por edad avanzada, y a aquellas otras prestaciones que de manera general determine el Consejo Directivo; sujetándose a lo establecido en el artículo 19 de la Ley.
+
+Si el servidor público a que se refiere el párrafo anterior, no hubiese pagado sus aportaciones y quisiera hacer uso del beneficio que en él se concede, deberá cubrir a la Institución el importe de las aportaciones insolutas, más el interés moratorio, a la tasa que determine el Consejo Directivo, dentro del término de un año, contado a partir de cuando se haya terminado la licencia concedida.
+
+Este término no se ampliará cuando al afiliado se le conceda una licencia que inicie su vigencia dentro de los sesenta días siguientes al termino de la anterior o de las subsecuentes.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 443.
+
+La calidad de aportador voluntario se adquiere a través de la autorización otorgada por la Institución, por conducto de su Dirección de Prestaciones, para cotizar bajo ese régimen, una vez que se hayan satisfecho los requisitos legales y administrativos para tal fin.
+
+La resolución donde se autorice la incorporación al régimen voluntario especificará el monto de la aportación asignada, la fecha de inicio del entero a la institución y el término de 30 días naturales para realizar el primer pago a partir de la notificación, con el apercibimiento que en caso de no realizar el pago en el término concedido, no surtirá efectos el alta como aportante voluntario.
+
+La resolución que niegue la incorporación al régimen voluntario cuando no se reúnan los requisitos que para tal efecto establece la Ley y este Reglamento, se dictará fundando y motivando la causa que origine tal negativa.
+
+La Institución podrá ordenar en cualquier tiempo la verificación y autenticidad de los documentos y la justificación de los hechos que hayan servido de base para conceder el beneficio correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 444.
+
+Quedan excluidos de incorporarse al régimen voluntario aquellas personas que se encuentren en alguno de los siguientes supuestos:
+
+I. Que no hubieren presentado su solicitud de incorporación dentro del término de un año, contado a partir de la fecha de su baja definitiva en el servicio activo o de la autorización de licencia temporal sin goce de sueldo otorgada por la Entidad Pública, en dicho término no se computará el último día si éste es inhábil.
+
+En el caso de que se haya demandado la reinstalación, el plazo de un año correrá a partir del día siguiente de la notificación al trabajador del laudo ejecutoriado que le fue desfavorable.
+
+II. Que se encuentren cotizando simultáneamente en el régimen obligatorio.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+### CAPÍTULO IV. De la baja
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 445.
+
+La baja de afiliados y aportadores voluntarios es la situación jurídica que se presenta cuando un afiliado o aportador voluntario deja de pertenecer al régimen de la Ley, por encontrarse en las causales previstas por la Ley y el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 446.
+
+Es causa de baja en el régimen obligatorio, la terminación o cese definitivo de la relación de trabajo, así como la destitución del cargo o empleo, en los términos previstos por la legislación laboral y de responsabilidades administrativas aplicable.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 447.
+
+Son causas de baja de los aportadores voluntarios las siguientes:
+
+I. Cuando lo solicite el afiliado;
+
+II. Falta de pago de las aportaciones correspondientes durante siete meses consecutivos o más;
+
+III. Por ser dado de alta el afiliado nuevamente en el régimen obligatorio;
+
+IV. Por fallecimiento;
+
+V. Por haberse pensionado, y
+
+VI. Por haberse detectado en cualquier momento la existencia de hechos falsos y documentos apócrifos o alterados que se hayan presentado con motivo de la solicitud e incorporación a este régimen; sin perjuicio de las denuncias que se presenten en términos del artículo 12 de la Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 448.
+
+La baja en el régimen voluntario y en el obligatorio surte efectos al día hábil siguiente de presentarse la causal que le da origen.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+### CAPÍTULO V. De la vigencia de derechos
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 449.
+
+La vigencia de los derechos en la Institución se inicia con el alta, al momento que se recibe el pago de las aportaciones.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 450.
+
+La vigencia en las aportaciones para el régimen obligatorio dará origen al derecho de las prestaciones correlativas, en los términos del artículo 7 de la Ley.
+
+El retiro del fondo de aportaciones realizadas por el trabajador, dará lugar inmediato a las consecuencias a que se refiere el artículo 33 de la Ley; sin necesidad de renuncia, notificación o manifestación expresa del afiliado.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 451.
+
+La vigencia en las aportaciones para el régimen voluntario dará origen al derecho a que se refiere el artículo 74, primer párrafo de la Ley.
+
+En el régimen voluntario el retiro del fondo de aportaciones será del 5% que corresponde al trabajador, conforme lo señala el artículo 13 de la Ley, dado que el 5% que se aporta como patrón, corresponde al fondo común solidario por el sistema de beneficio definido.
+
+El retiro del fondo de aportaciones de este régimen dará lugar inmediato a las consecuencias a que se refiere el artículo 33 de la Ley; sin necesidad de renuncia, notificación o manifestación expresa del afiliado.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+
+###### Artículo 452.
+
+Los afiliados y aportantes podrán solicitar un certificado de vigencia de derechos ante la Institución, que será expedido por la Dirección de Prestaciones.
+
 T R A N S I T O R I O S
 
 PRIMERO.- El presente Reglamento General entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
@@ -4552,3 +4884,11 @@ SEGUNDO.- Se derogan las disposiciones administrativas emitidas con anterioridad
 TERCERO.- Para la debida aplicación de lo previsto en este Título y el óptimo funcionamiento del CADIP, la Dirección General del Organismo Público Descentralizado Dirección de Pensiones del Estado deberá aprobar los manuales de procedimientos y de organización necesarios, así como los formatos requeridos para los diversos trámites.
 
 CUARTO.- Los requisitos de ingreso, establecidos en el artículo 392 de este Reglamento, relativos a edad y cuantía máxima de ingreso, no se aplicarán a los residentes que al momento de inicio de vigencia de este Título, estuvieren admitidos dentro de la Casa Hogar.
+
+P.O. 17 DE ENERO DE 2008.
+
+PRIMERO.- La presente adición deroga las disposiciones reglamentarias o acuerdos administrativos expedidos con anterioridad por el Consejo Directivo en lo que se opongan a las disposiciones de este ordenamiento.
+
+SEGUNDO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+TERCERO.- Comuníquese la presente adición a todas las áreas de la Institución que deban conocerlo, para su debida aplicación y cumplimiento.
