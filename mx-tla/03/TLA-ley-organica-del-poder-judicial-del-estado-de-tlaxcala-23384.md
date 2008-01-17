@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2007-04-13"
+last_updated: "2008-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2008.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -127,11 +127,11 @@ En materia de administración de justicia para adolescentes los juzgados ejercer
 
 El procedimiento de mediación y la conciliación en sede judicial estarán a cargo de la Unidad de Mediación y Conciliación, a través de los mediadores y conciliadores adscritos a dicha unidad y del juez municipal de cada Municipio.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2008)</small>
 
 ###### Artículo 9.
 
-En las materias constitucional, administrativa, electoral, laboral burocrática y de administración de justicia para adolescentes, el Tribunal y sus Salas ejercerán su competencia en todo el territorio del Estado.
+En las materias constitucional, administrativa, electoral, y de administración de justicia para adolescentes, el Tribunal y sus Salas ejercerán su competencia en todo el territorio del Estado.
 
 ###### Artículo 10.
 
@@ -143,13 +143,17 @@ En los Distritos a que se refiere el Artículo 6 que antecede, funcionarán sepa
 
 ### Capítulo Primero. De la Integración e Instalación
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 2008)</small>
 
 ###### Artículo 11.
 
-El Tribunal Superior de Justicia es el Órgano Supremo del Poder Judicial, tendrá su residencia en la capital del Estado y se integrará por quince Magistrados Propietarios y los Supernumerarios que al efecto se requieran, con base a la disponibilidad presupuestal y necesaria de servicio.
+El Tribunal Superior de Justicia es el Órgano Supremo del Poder Judicial, tendrá su residencia en la capital del Estado y se integrará por catorce Magistrados Propietarios y los Supernumerarios que al efecto se requieran, con base a la disponibilidad presupuestal y necesidades de servicio.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 El Congreso del Estado nombrará a los Magistrados Propietarios con la votación de las dos terceras partes del total de los diputados que integren la Legislatura correspondiente, y deberá prever para cada uno a su respectivo suplente, para el caso de falta absoluta, en la forma y términos previstos en la Constitución Local.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 Los Magistrados Supernumerarios serán nombrados por la Comisión de Gobierno Interno y Administración.
 
@@ -171,19 +175,19 @@ Cuando surja una falta definitiva, el Pleno llamará al suplente respectivo, el 
 
 El día uno del mes de febrero del año que corresponda, el Presidente del Tribunal saliente presidirá la sesión de instalación de los Magistrados Propietarios entrantes, en la que se procederá a la elección del nuevo Presidente, en los términos previstos en el Artículo siguiente y a la adscripción de los Magistrados a las Salas respectivas. Asimismo, se nombrará al Secretario General de Acuerdos del Tribunal, a propuesta de su Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 2008)</small>
 
 ###### Artículo 14.
 
-Los Magistrados Propietarios del Tribunal elegirán de entre ellos a un Presidente, que durará en su encargo dos años y podrá ser reelecto por una sola vez, de conformidad con las reglas siguientes:
+Los magistrados propietarios del Tribunal elegirán de entre ellos a un Presidente, que durará en su encargo dos años y podrá ser reelecto por una sola vez, de conformidad con las reglas siguientes:
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 I. En la sesión ordinaria que se lleve a cabo durante la primera quincena del mes de febrero de cada año, se procederá a la elección correspondiente;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2008)</small>
 
-II. Los magistrados propuestos a ocupar el cargo de Presidente, no serán de los que integren la Sala Electoral Administrativa y de las salas Laboral Burocrática y Unitaria de Administración de Justicia para Adolescentes; a menos que alguno de los demás magistrados propietarios no reúna los requisitos establecidos en la fracción XI del artículo 83 de la Constitución del Estado, para que ocupe la magistratura vacante;
+II. Los magistrados propuestos a ocupar el cargo de Presidente, no serán de los que integren la Sala Electoral-Administrativa y Unitaria de Administración de Justicia para Adolescentes: a menos que alguno de los demás magistrados propietarios no reúna los requisitos establecidos en la fracción XI del artículo 83 de la Constitución del Estado, para que ocupe la magistratura vacante;
 
 III. Los votos se emitirán en forma secreta;
 
@@ -201,11 +205,11 @@ Los Magistrados Supernumerarios deberán cumplir con los requisitos a que se ref
 
 ### Capítulo Segundo. Del Funcionamiento del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2008)</small>
 
 ###### Artículo 16.
 
-El Tribunal funcionará en Pleno y en las salas Civil, Familiar, Electoral-Administrativa, Laboral-Burocrática, Penal y de Administración de Justicia para Adolescentes.
+El Tribunal funcionará en Pleno y en las salas Civil, Familiar, Electoral-Administrativa, Penal y de Administración de Justicia para Adolescentes.
 
 ###### Artículo 17.
 
@@ -225,11 +229,11 @@ La Comisión de Gobierno Interno y Administración se encargará de las funcione
 
 ### Capítulo Tercero. Del Pleno
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2008)</small>
 
 ###### Artículo 20.
 
-El Pleno del Tribunal Superior de Justicia se integrará con los Magistrados Propietarios y de quienes los suplan legalmente, de cada una de las salas Civil, Familiar, Electoral-Administrativa, Laboral-Burocrática, Penal y de Administración de Justicia para Adolescentes.
+El Pleno del Tribunal Superior de Justicia se integrará con los Magistrados Propietarios y de quienes los suplan legalmente, de cada una de las salas Civil, Familiar, Electoral-Administrativa, Penal y de Administración de Justicia para Adolescentes.
 
 ###### Artículo 21.
 
@@ -265,7 +269,7 @@ IV. Los recursos de revocación que se interpongan contra las resoluciones de lo
 
 V. La calificación de los impedimentos, excusas y recusaciones con causa de los Magistrados y del Secretario General de Acuerdos;
 
-VI. Los conflictos de trabajo que se susciten entre la Sala Laboral Burocrática y sus servidores públicos;
+VI. (DEROGADA, P.O. 17 DE ENERO DE 2008)
 
 VII. Las denuncias de contradicción de los precedentes obligatorios, dictados por el propio Pleno o las Salas;
 
@@ -339,7 +343,7 @@ a) Excusas y recusaciones de los Magistrados y del Secretario General de Acuerdo
 
 b) Conflictos competenciales que surjan entre las Salas, entre éstas y los Juzgados, y entre éstos últimos.
 
-c) Controversias laborales que se susciten entre la Sala Laboral-Burocrática y sus servidores públicos.
+c) (REFORMADO [N. DE E. DEROGADO], P.O. 17 DE ENERO DE 2008)
 
 d) Recursos que se interpongan en contra de los actos y resoluciones de la Comisión de Gobierno Interno y Administración.
 
@@ -371,17 +375,17 @@ V. Las demás que le confieran las Leyes, Reglamentos Interiores y Acuerdos gene
 
 ### Capítulo Quinto. De las Salas
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2008)</small>
 
 ###### Artículo 31.
 
-El Tribunal Superior de Justicia, se integrará por las salas Civil, Familiar, Electoral-Administrativa, Laboral-Burocrática, Penal y de Administración de Justicia para Adolescentes.
+El Tribunal Superior de Justicia, se integrará por las salas Civil, Familiar, Electoral-Administrativa, Penal y de Administración de Justicia para Adolescentes.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2008)</small>
 
 ###### Artículo 32.
 
-Cada Sala se integrará por tres Magistrados, quienes de manera rotativa y por el período de un año ejercerán la Presidencia de la Sala de que se trate; a excepción de la Sala Laboral-Burocrática y de Administración de Justicia para Adolescentes, que serán unitarias.
+Cada Sala se integrará por tres Magistrados, quienes de manera rotativa y por el período de un año ejercerán la Presidencia de la Sala de que se trate; a excepción de la Sala de Administración de Justicia para Adolescentes, que serán unitarias.
 
 ###### Artículo 33.
 
@@ -461,7 +465,7 @@ II. En materia contenciosa administrativa, conocerá en única instancia de los 
 
 ###### Artículo 39.
 
-La Sala Laboral-Burocrática conocerá y resolverá en única instancia de los asuntos que le encomienda la Ley Laboral de los Servidores Públicos del Estado y sus Municipios.
+(DEROGADO, P.O. 17 DE ENERO DE 2008)
 
 ###### Artículo 40.
 
@@ -915,7 +919,9 @@ IV. Controlar el inventario de los bienes muebles e inmuebles del Poder Judicial
 
 V. Administrar los almacenes del Poder Judicial;
 
-VI. Comunicar a nombre de la Comisión a la Sala Laboral Burocrática, los casos de terminación de la relación laboral y de los demás asuntos que así lo ameriten conforme a la Ley;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2008)</small>
+
+VI. Comunicar a nombre de la Comisión al Tribunal de Conciliación y Arbitraje del Estado los casos de terminación de la relación laboral y de los demás asuntos que así lo ameriten conforme a la ley:
 
 VII. Organizar periódicamente cursos de capacitación para el personal administrativo del Poder Judicial;
 
@@ -1504,3 +1510,17 @@ Los presidentes municipales del Estado, enviarán al Presidente del Tribunal Sup
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que contravengan al contenido de este Decreto.
+
+P.O. 17 DE ENERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto de reformas entrará en vigor al día siguiente al su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos ordenamientos secundarios y reglamentarios que hagan alusión a la Sala Laboral Burocrática, se entenderá hecha al Tribunal de Conciliación y Arbitraje del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan aquellas disposiciones que se contrapongan al contenido de este Decreto de reformas.
