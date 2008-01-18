@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2006-10-31"
+last_updated: "2008-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -1703,7 +1703,9 @@ XVI. Violación, violación equiparada o impropia; en cualquiera de ellas con o 
 
 XVII. Atentados al pudor empleando la violencia física.
 
-XVIII. Robo consumado o en grado de tentativa; siempre y cuando en cualquiera de ellos se emplee violencia en las personas para cometerlo; o mientras se comete; o para huir o conservar lo robado. Robo consumado o en grado de tentativa en casa habitada o destinada para habitación. Robo consumado o en grado de tentativa de vehículo automotor. Receptación dolosa de vehículos automotores robados o de sus componentes. Robo que cometan tres o más personas en industria, almacén o comercio. Robo que cometan tres o más personas mediante fractura de cerraduras. Robo agravado o especialmente agravado por cualquier modalidad, en el que intervenga un servidor público o empleado o agente de seguridad privada, se encuentre o no se encuentre registrada la empresa a la que pertenezca, en su caso. Robo en campo abierto por el que se sustraiga un instrumento o máquina de labranza; un equipo de bombeo o accesorios; fertilizantes, alambre o postas utilizados para cercar.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2008)</small>
+
+XVIII. Robo consumado o en grado de tentativa; siempre y cuando en cualquiera de ellos se emplee violencia o intimidación en las personas para cometerlo; o mientras se comete; o para huir o conservar lo robado. Robo consumado o en grado de tentativa en casa habitada o destinada para habitación. Robo consumado o en grado de tentativa de vehículo automotor. Receptación dolosa de vehículos automotores robados o de sus componentes. Robo que cometan tres o más personas en industria, almacén o comercio. Robo que cometan tres o más personas mediante fractura de cerraduras. Robo agravado o especialmente agravado por cualquier modalidad, en el que intervenga un servidor público o empleado o agente de seguridad privada, se encuentre o no se encuentre registrada la empresa a la que pertenezca, en su caso. Robo en campo abierto por el que se sustraiga un instrumento o máquina de labranza; un equipo de bombeo o accesorios; fertilizantes, alambre o postas utilizados para cercar.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
@@ -5640,3 +5642,9 @@ P.O. 22 DE SEPTIEMBRE DE 2006.
 P.O. 31 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+P.O. 18 DE ENERO DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
