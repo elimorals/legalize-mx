@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-defensoria-de-oficio-del-fuero-comun-6393"
 country: "mx"
 rank: "ley"
 publication_date: "1977-03-10"
-last_updated: "1977-03-10"
+last_updated: "2008-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL FUERO COMUN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 18 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el jueves 10 de marzo de 1977.
 
@@ -290,3 +292,29 @@ PALACIO DEL PODER LEGISLATIVO.- Morelia, Michoacán, a 1ro. de marzo de 1977.-Di
 Por tanto, mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich., 1o. de marzo de 1977.- El Gobernador Constitucional del Estado,- Lic. Carlos Torres Manzo.- El Secretario General de Gobierno,- Lic. Ausencio Chávez Hernández.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE ENERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de la Defensoría de Oficio del Fuero Común en el Estado, publicada el 10 de marzo de 1977 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+En los asuntos en trámite a la entrada en vigor de la presente Ley, seguirá aplicándose la Ley abrogada siempre que beneficie al defendido o representado.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales y administrativas en lo que se opongan a la presente Ley.
+
+ARTÍCULO QUlNTO.- El Gobernador del Estado deberá expedir el Reglamento de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Las autoridades correspondientes, realizarán las acciones necesarias para que se habiliten los locales para albergar las oficinas de la Defensoría de Oficio, de acuerdo a lo establecido por esta Ley.
