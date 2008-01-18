@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2006-12-15"
+last_updated: "2008-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -1200,6 +1200,10 @@ Las declaratorias deberán publicarse en el Periódico Oficial del Gobierno del 
 ###### ARTICULO 69.
 
 Una vez establecida un área natural protegida, sólo podrá ser modificada su extensión y, en su caso, los usos del suelo permitidos o cualquiera de sus disposiciones, por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta ley para la expedición de la declaratoria respectiva.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2008)</small>
+
+No se considerará modificación a la extensión del área natural protegida, las adecuaciones a la delimitación de la misma por el uso de equipos de medición avanzados que proporcionen datos más precisos. En estos casos deberán elaborarse los estudios que justifiquen dichas adecuaciones.
 
 ###### ARTICULO 70.
 
@@ -2660,3 +2664,9 @@ P.O. 15 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 18 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
