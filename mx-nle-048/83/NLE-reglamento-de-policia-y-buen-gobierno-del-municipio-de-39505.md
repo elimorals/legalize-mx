@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-39505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-21"
-last_updated: "2004-04-21"
+last_updated: "2008-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 21 de abril de 2004.
 
@@ -335,7 +335,13 @@ III. Disponer de flores, frutas, plantas, árboles, o cualquier otro tipo de obj
 
 IV. Incinerar desperdicios de hule, llantas, plásticos y similares, así como basura en general cuyo humo cause molestias o trastorno a la ecología; y
 
-V. Todas aquéllas que estén contempladas en cualquier disposición legal aplicable.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2008)</small>
+
+V. Producir ruido o sonidos que alteren el orden, molesten, perjudiquen o afecten la tranquilidad de la población; tales como los producidos por radios, radiograbadoras, estereos, autoestereos y cualesquier otro aparato u objeto capaces de producir o emitir sonidos, que rebasen los 68 decibeles durante el día y 65 decibeles durante la noche. Considerándose como horario diurno el comprendido entre las 06:01 a las 22:00 horas y como nocturno el comprendido de las 22:01 a las 06:00 horas; y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2008)</small>
+
+VI. Todas aquéllas que estén contempladas en cualquier disposición legal aplicable.
 
 ### CAPITULO TERCERO. DE LAS SANCIONES
 
@@ -368,6 +374,12 @@ I. Amonestación;
 II. Multa; o
 
 III. Arresto hasta por 36-treinta y seis horas.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2008)</small>
+
+###### ARTÍCULO 25 Bis.
+
+La infracción descrita en el Artículo 19 fracción V de este Reglamento, se sancionará con arresto administrativo de hasta 36 horas o el equivalente de 20 a 200 cuotas. Esta sanción sólo se aplicará si el infractor hiciere caso omiso al apercibimiento verbal o por escrito que en el momento de los hechos se le hiciere por el servidor público en turno.
 
 ###### ARTÍCULO 26.
 
@@ -542,3 +554,11 @@ PRESIDENTA MUNICIPAL
 C. TOMÁS GUILLERMO CANDIA VALDIVIEZO
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE ENERO DE 2008.
+
+Primero.- Las presentes Reformas y Adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Envíese para su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno.
