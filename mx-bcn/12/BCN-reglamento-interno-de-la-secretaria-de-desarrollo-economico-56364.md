@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-desarrollo-economico-563
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-20"
-last_updated: "2007-07-20"
+last_updated: "2008-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 20 de julio de 2007.
 
@@ -73,7 +73,13 @@ A. Dirección de Promoción de Inversión.
 
 III. Dirección Administrativa.
 
-IV. Delegación Ensenada.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2008)</small>
+
+IV. Subsecretaría para atención a las Micros, Pequeñas y Medianas Empresas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2008)</small>
+
+V. Delegación Ensenada y Delegación Tijuana.
 
 ###### ARTICULO 4.
 
@@ -393,15 +399,41 @@ IX. Someter a la consideración del Secretario los manuales de organización, pr
 
 X. Las demás que le sean encomendadas por el Secretario.
 
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2008)</small>
+
+ARTICULO 24 BIS.- Corresponde a la Subsecretaría para atención a las Micros, Pequeñas y Medianas Empresas, las siguientes atribuciones:
+
+I. Desarrollar e impulsar la estrategia estatal de apoyo a las micros, pequeñas y medianas empresas;
+
+II. Coordinar los trabajos para el diseño de los programas y esquemas de apoyos a las micros, pequeñas y medianas empresas;
+
+III. Promover entre la comunidad empresarial los programas de financiamiento, capacitación y asistencia técnica para las micros, pequeñas y medianas empresas;
+
+IV. Promover los programas para el desarrollo de nuevas empresas a través de compañías incubadoras situadas en Baja California;
+
+V. Promover los programas de articulación productiva a través de empresas tractoras del Estado;
+
+VI. Gestionar recursos económicos ante las diversas instituciones de financiamiento, para desarrollar los programas dirigidos a las micros, pequeñas y medianas empresas, y (sic)
+
+VII. Promover estímulos a la inversión en proyectos productivos que generen empleos y articulen a las micros, pequeñas y medianas empresas, con las cadenas productivas de empresas grandes o tractoras;
+
+VIII. Las demás que le señalen los reglamentos y disposiciones vigentes.
+
+La Subsecretaría para atención a las Micros, Pequeñas y Medianas Empresas contará con los recursos humanos y materiales autorizados en el Presupuesto de Egresos correspondiente para cumplir con sus atribuciones.
+
 ### CAPITULO VII. DE LAS DELEGACIONES
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 25.
 
-Para la eficaz atención y eficiente despacho de los asuntos, la Secretaría contará con una Delegación en Ensenada, que le estará jerárquica mente subordinada al Secretario y con atribuciones específicas para resolver sobre la materia que se le señale y en el ámbito territorial que se determine.
+Para la eficaz atención y eficiente despacho de los asuntos que le corresponden, la Secretaría contará con dos Delegaciones, las cuales tendrán ubicación en la ciudad de Ensenada y otra en la ciudad de Tijuana, mismas que estarán jerárquicamente subordinadas al Secretario, y contarán con atribuciones específicas para resolver sobre la materia que se le señale y en el ámbito territorial de su competencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 26.
 
-La delegación en Ensenada tendrá las siguientes atribuciones y obligaciones:
+Las Delegaciones de Ensenada y Tijuana tendrán las siguientes atribuciones:
 
 I. Ejercer en su respectivo ámbito territorial, las atribuciones y facultades que le competen a la Secretaría;
 
@@ -452,3 +484,9 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE DESARROLLO ECONÓMICO
 
 SERGIO FRANCISCO TAGLIAPIETRA NASSRI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE ENERO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
