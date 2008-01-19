@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2007-09-08"
+last_updated: "2008-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1207,13 +1207,17 @@ La ley fijará los términos en que sea obligatoria la jurisprudencia que establ
 
 El personal de los tribunales, juzgados y demás órganos del Poder Judicial, regirá sus relaciones de trabajo conforme a las disposiciones generales y a las reglas especiales que para cada caso señalen esta Constitución y las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2008)</small>
 
 ###### Art. 58.
 
-El Supremo Tribunal de Justicia del Estado funcionará en pleno o en salas, de conformidad con lo que establezca la ley reglamentaria. Se integrará por magistrados numerarios y supernumerarios.
+El Supremo Tribunal de Justicia del Estado se integra por treinta y siete magistrados propietarios y funciona en pleno y en salas, de conformidad con lo que establezca la ley reglamentaria.
 
-El Pleno del Supremo Tribunal se formará solamente por los magistrados que integren las salas de número que establezca la ley reglamentaria, los cuales tendrán voz y voto. Las sesiones del pleno serán públicas y, por excepción, secretas, en los casos que así lo determine la ley o lo exijan la moral o el interés público.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2008)</small>
+
+Las sesiones del pleno serán públicas y, por excepción, reservadas, en los casos que así lo determine la ley o lo exijan la moral o el interés público.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 El pleno del Supremo Tribunal de Justicia determinará los magistrados que integrarán cada sala, las cuales serán colegiadas, así como la competencia de las mismas.
 
@@ -1255,21 +1259,41 @@ En caso de que el Congreso rechace la totalidad de los candidatos propuestos, el
 
 En igualdad de circunstancias, los nombramientos de magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2008)</small>
 
 ###### Art. 61.
 
-Los magistrados del Supremo Tribunal de Justicia durarán en el ejercicio de su encargo siete años, contados a partir de la fecha en que rindan protesta de ley, al término de los cuales podrán ser ratificados y, si lo fueren, continuarán en esa función por diez años más, durante los cuales sólo podrán ser privados de su puesto en los términos que establezca esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
+Los magistrados del Supremo Tribunal de Justicia durarán en el ejercicio de su encargo siete años, contados a partir de la fecha en que rindan protesta de ley, al término de los cuales podrán ser ratificados y, si lo fueren, continuarán en esa función por diez años más, durante los cuales sólo podrán ser privados de su puesto en los términos que establezcan esta Constitución, las leyes en materia de responsabilidad de los servidores públicos o como consecuencia del retiro forzoso.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
 
 Tres meses antes de que concluya el periodo de siete años para el que fue nombrado un magistrado, el Pleno del Supremo Tribunal de Justicia elaborará un dictamen técnico en el que se analice y emita opinión sobre la actuación y desempeño del magistrado. El dictamen técnico, así como el expediente del magistrado será enviado al Congreso del Estado para su estudio.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
+
 El Congreso del Estado decide soberanamente sobre la ratificación o no ratificación de los magistrados mediante el voto de las dos terceras partes de los diputados presentes.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
 
 Si el Congreso del Estado resuelve la no ratificación, el magistrado cesará en sus funciones a la conclusión del periodo para el que fue designado y se procederá a realizar un nuevo nombramiento en los términos de este capítulo.
 
-Al término de los diecisiete años a que se refiere este artículo, los magistrados tendrán derecho a un haber por retiro, conforme lo establezca la Ley Orgánica del Poder Judicial.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2008)</small>
 
-Los magistrados ratificados para concluir el período de diecisiete años no podrán en ningún caso volver a ocupar el cargo.
+Los magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria. Son causas de retiro forzoso:
+
+I. Haber concluido los diez años del segundo periodo a que se refiere el primer párrafo del presente artículo, o
+
+II. Haber cumplido setenta años de edad.
+
+(NOTA: EL 22 DE ABRIL DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 25/2008, DECLARÓ LA INVALIDEZ EN LA PORCIÓN NORMATIVA DEL PENÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE ABRIL DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2008)</small>
+
+La Ley Orgánica del Poder Judicial del Estado fijará las causas del retiro voluntario y el haber que tendrá el Magistrado que se retire forzosa o voluntariamente. EL HABER A QUE SE REFIERE ESTE ARTÍCULO ÚNICAMENTE SE ENTREGARÁ A AQUELLOS MAGISTRADOS QUE HUBIESEN CUMPLIDO LA CARRERA JUDICIAL A QUE SE REFIERE LA LEY.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2008)</small>
+
+Los magistrados ratificados para concluir el periodo de diecisiete años no podrán en ningún caso volver a ocupar el cargo, así como los magistrados que habiendo concluido el periodo de siete años, no hubiesen sido ratificados por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2660,3 +2684,13 @@ P.O. 8 DE SEPTIEMBRE DE 2007.
 PRIMERO. Notifíquese a los municipios de Jalisco sobre la propuesta de reforma constitucional, para los efectos legales correspondientes.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Notifíquese a los ayuntamientos del estado de Jalisco para que manifiesten su aprobación, en los términos señalados por el artículo 117 de la Constitución local.
+
+TERCERO. Todos los magistrados del Supremo Tribunal de Justicia del estado de Jalisco, sean numerarios o supernumerarios, continuarán en el desempeño de su encargo por el plazo que para cada uno corresponda de acuerdo a su nombramiento y a las normas establecidas en la propia Constitución, con la calidad de magistrados propietarios y en igualdad de derechos y condiciones.
+
+CUARTO. Los actuales magistrados del Supremo Tribunal de Justicia recibirán el haber por retiro a que se refieren el artículo 61 de la Constitución Política del estado de Jalisco y demás disposiciones legales aplicables.
