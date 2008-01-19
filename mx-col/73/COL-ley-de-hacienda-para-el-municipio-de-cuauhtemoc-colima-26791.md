@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-12-29"
+last_updated: "2008-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "COL"
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTEMOC
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DE 19 DE ENERO DE 2008]</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1033,49 +1035,13 @@ Los montos establecidos para que la dependencia municipal competente otorgue las
 
 D).- PROTECCION CIVIL
 
-> <small>[N. DE E. EL CONTENIDO DE ESTE ARTÍCULO ES IDÉNTICO AL DEL ARTÍCULO 86 BIS, P.O. 29 DE DICIEMBRE DE 2007]</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
 
 ###### ARTICULO 85.
 
-Por la expedición de los siguientes documentos:
+Los derechos por los servicios que presten la unidad de protección civil se causarán y pagarán conforme a la siguiente tarifa:
 
-I. Copias certificadas 1.00
-
-II. Certificaciones de residencia 1.20
-
-III. Solvencias fiscales 1.10
-
-IV. Constancias 1.00
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-E).- OTROS
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
-
-#### SECCION PRIMERA. SERVICIOS MEDICOS
-
-> <small>(ADICIONADO [N. DE E. EL CONTENIDO DE ESTE ARTÍCULO ES IDÉNTICO AL DEL ARTÍCULO 85], P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-###### ARTICULO 86 Bis.
-
-Por la expedición de los siguientes documentos:
-
-I. Copias certificadas 1.00
-
-II. Certificaciones de residencia 1.20
-
-III. Solvencias fiscales 1.10
-
-IV. Constancias 1.00
-
-###### ARTICULO 86.
-
-Los derechos por servicios que presten la unidad de protección civil se causarán y pagarán conforme a la siguiente tarifa:
-
-I. Por el registro:
+II (SIC). Por el registro:
 
 a). Por el registro de siniestralidad en establecimientos comerciales, industriales y de servicios, con clasificación de riesgo:
 
@@ -1108,6 +1074,42 @@ Para fijar las tarifas se deberán considerar las condiciones económicas del ne
 En caso de ser necesario, la unidad de protección civil municipal emitirá opinión.
 
 El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+E).- OTROS
+
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 85], P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+
+###### ARTICULO 85 Bis.
+
+Por la expedición de los siguientes documentos:
+
+V (SIC). Copias certificadas 1.00
+
+VI. Certificaciones de residencia 1.20
+
+VII. Solvencias fiscales 1.10
+
+VIII. Constancias 1.00
+
+### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
+
+#### SECCION PRIMERA. SERVICIOS MEDICOS
+
+> <small>(F. DE E. 19 DE ENERO DE 2008)</small>
+
+###### ARTICULO 86.
+
+Los servicios médicos municipales, causarán los siguientes derechos:
+
+Unidad de salario
+
+a).- Examen por persona 0.74
+
+b).- Examen por visita 1.47
+
+El Presidente Municipal podrá autorizar los servicios médicos municipales en forma gratuita a personas indigentes o carentes de recursos económicos.
 
 #### SECCION SEGUNDA. USO DE VIAS Y AREAS PUBLICAS
 
