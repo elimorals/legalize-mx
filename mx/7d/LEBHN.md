@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2007-10-20"
+last_updated: "2008-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -68,15 +68,19 @@ La letra y música del Himno Nacional son las que aparecen en el capítulo espec
 
 ### CAPITULO TERCERO. Del Uso y Difusión del Escudo Nacional
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2008)</small>
+
 ###### Artículo 5o.
 
-Toda reproducción del Escudo Nacional deberá corresponder fielmente al modelo a que se refiere el Artículo 2o. de esta Ley.
+Toda reproducción del Escudo Nacional deberá corresponder fielmente al modelo a que se refiere el Artículo 2o. de esta Ley, el cual no podrá variarse o alterarse bajo ninguna circunstancia.
 
 ###### Artículo 6o.
 
 Con motivo de su uso en monedas, medallas oficiales, sellos, papel oficial y similares, en el Escudo Nacional sólo podrán figurar, por disposiciones de la Ley o de la Autoridad, las palabras "Estados Unidos Mexicanos", que formarán el semicírculo superior.
 
-El Escudo Nacional sólo podrá figurar en los vehículos que use el Presidente de la República, en el papel de las dependencias de los Poderes Federales y Estatales, así como de las municipalidades, pero queda prohibido utilizarlo para documentos particulares. El Escudo Nacional sólo podrá imprimirse y usarse en la papelería oficial, por acuerdo de la autoridad correspondiente.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2008)</small>
+
+El Escudo Nacional sólo podrá figurar en los vehículos que use el Presidente de la República, en el papel de las dependencias de los Poderes Federales y Estatales, así como de las municipalidades, pero queda prohibido utilizarlo para documentos particulares. El Escudo Nacional sólo podrá imprimirse y usarse en la papelería oficial, por acuerdo de la autoridad correspondiente apegándose estrictamente a lo establecido por los artículos 2o. y 5o. de la presente Ley.
 
 ### CAPITULO CUARTO. Del Uso, Difusión y Honores de la Bandera Nacional
 
@@ -747,3 +751,7 @@ D.O.F. 20 DE OCTUBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ENERO DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
