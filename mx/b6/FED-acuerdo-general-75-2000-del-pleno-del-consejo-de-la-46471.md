@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-75-2000-del-pleno-del-consejo-de-la-46471"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-11-17"
-last_updated: "2007-08-21"
+last_updated: "2008-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-10"
 
 ACUERDO GENERAL 75/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL CONSEJO DE LA JUDICATURA FEDERAL, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2008.
 
 Acuerdo publicado en la Primera Sección Diario Oficial de la Federación, el viernes 17 de noviembre de 2000.
 
@@ -307,13 +307,17 @@ XII. Determinar la exclusión de proveedores y contratistas del catálogo, así 
 
 XIII. Autorizar la modificación de los pedidos o contratos, en los supuestos en que se rebase el monto o plazo conforme a los cuales, dichos pedidos o contratos, pueden ser modificados por las áreas operativas;
 
-XIV. Establecer criterios para asegurar que el Consejo obtenga las mejores condiciones de precio, calidad, financiamiento y oportunidad en las adquisiciones y contrataciones, además de promover los elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez en los procedimientos, instrumentando las medidas que permitan en lo posible, comparar los precios ofrecidos por los proveedores frente a los de mercado a fin de lograr descuentos o beneficios adicionales para el Consejo; y,
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
 
-> <small>(ADICIONADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+XIV. Proponer a la Comisión, para su aprobación, los criterios para asegurar que el Consejo obtenga las mejores condiciones de precio, calidad, financiamiento y oportunidad en las contrataciones en materia de adquisiciones, arrendamientos y prestaciones de servicios, así como obras públicas y servicios relacionados con ellas; y además promover los elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez en los procedimientos, instrumentando las medidas que permitan en lo posible, comparar los precios ofrecidos por los proveedores y contratistas frente a los de mercado a fin de lograr descuentos o beneficios adicionales para el Consejo;
 
-XV. Dar seguimiento a todo el trámite, hasta poner en estado de resolución, los asuntos que decida conocer la Comisión.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
 
-XVI. Informar sobre el ejercicio de sus funciones al Pleno y a la Comisión, según se determine.
+XV. Dar seguimiento a todo el trámite, hasta poner en estado de resolución, los asuntos que decida conocer la Comisión; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+XVI. Proponer a la Comisión, para su aprobación, los criterios para la evaluación de las propuestas para la adjudicación de los contratos, señalando los mecanismos de tasación que se puedan utilizar, así como las condiciones, criterios, parámetros de calificación y su correspondiente valoración en puntaje.
 
 > <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)</small>
 
@@ -495,7 +499,9 @@ IX. Las investigaciones, asesorías, supervisión, consultorías y estudios que 
 
 X. La adquisición del predio urbano que, en su caso, se haya previsto para realizar la obra requerida;
 
-XI. La regularización del régimen de propiedad o uso de los predios, así como la obtención de los permisos de construcción necesarios;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+XI. La regularización del régimen de propiedad o uso de los predios, así como la obtención de los permisos, autorizaciones y licencias que se requieran;
 
 XII. Los trabajos de conservación, mantenimiento preventivo y correctivo de los bienes inmuebles a cargo del Consejo;
 
@@ -510,6 +516,14 @@ XIV. Las demás previsiones que deban tomarse en cuenta, según la naturaleza y 
 COORDINACION Y RESPONSABILIDAD DE LAS AREAS OPERATIVAS. La Secretaría Ejecutiva coordinará a las áreas operativas para la elaboración de los programas de ejecución, los cuales serán sometidos anualmente a la consideración de la Comisión para su aprobación.
 
 Una vez autorizados los programas, las áreas operativas serán las responsables de su ejecución, debiendo informar mensualmente a la Secretaría Ejecutiva respecto del avance obtenido, para que ésta, a su vez, presente el informe a la Comisión.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+Cuando se realice obra pública, el Consejo y los contratistas con quienes contrate, observarán las disposiciones que en materia de asentamientos humanos, desarrollo urbano, impacto ambiental y construcción rijan en el ámbito federal, estatal y municipal.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+El titular de la Dirección General de Inmuebles y Mantenimiento deberá cerciorarse de que antes de iniciar la ejecución de las obras se cuenten con los permisos, autorizaciones y licencias necesarios para tal efecto. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
 
 > <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
 
@@ -545,39 +559,19 @@ Cuando no resulte idóneo celebrar licitación pública para asegurar las condic
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega; forma y tiempo de pago, penas convencionales, anticipos y garantías, debiendo proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos.
 
-> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+> <small>(DEROGADO CUARTO PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
 
-Para el caso de los servicios relacionados con la obra pública, las bases que se emitan para las licitaciones públicas, deberán contener cuando menos, la siguiente información:
+I. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)
 
-I. La descripción general del servicio y el lugar en donde se llevarán a cabo los trabajos;
+II. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)
 
-> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)</small>
+III. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)
 
-II. Los términos de referencia que precisen el objeto y alcances del servicio; el producto esperado y la forma de presentación;
+IV. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)
 
-III. Las propuestas que presenten los contratistas para la celebración de estos contratos, tanto en su aspecto técnico como económico, deberán estar desglosadas y cumplir con los requisitos de las bases de la licitación pública;
+V. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)
 
-Por lo que se refiere a la elaboración de proyectos ejecutivos, los contratos de dichos servicios deberán contener, además de lo establecido en el párrafo anterior, lo dispuesto en el artículo 72 bis, 1a. y 2a. fase del presente Acuerdo.
-
-IV. La incorporación en el documento contractual respectivo, de los requisitos y alcances que precisa el objeto del servicio.
-
-V. De acuerdo a las características, magnitud y complejidad de los servicios, los datos siguientes:
-
-a. La descripción precisa y detallada de los servicios que se requieren;
-
-b. Plazos de ejecución, incluyendo un calendario de prestación de servicios;
-
-c. La información técnica y recursos que proporcionará el Consejo;
-
-> <small>(DEROGADO [N. DE E. REUBICADO ANTES INCISO F] POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)</small>
-
-d. En su caso, la metodología a emplear en la prestación del servicio.
-
-e. (DEROGADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)
-
-f. (DEROGADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)
-
-VI. Las condiciones de tipo jurídico, técnico y económico que requiera la licitación pública.
+VI. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)
 
 ###### ARTICULO 36.
 
@@ -613,7 +607,9 @@ XI. Arrendamiento de equipo de fotocopiado, en el caso de que se tengan contrato
 
 XII. Contratación de proyectos relacionados con obra pública y para la adaptación y remodelación a inmuebles que se hayan adquirido por el Consejo, cuando resulte conveniente contratar con el profesionista que haya realizado el proyecto de construcción original del inmueble;
 
-XIII. Contratación de proyectos ejecutivos y supervisión de obra pública, cuando así se justifique por la capacidad técnica, financiera y legal del contratista, en cuyo caso, se convocará a los que resulten idóneos de acuerdo a la información con que cuente la Dirección General de Recursos Materiales y Servicios Generales; y,
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+XIII. Contratación de supervisión de obra pública, cuando así se justifique por la capacidad técnica, financiera y legal del contratista, en cuyo caso, se convocará a los que resulten idóneos de acuerdo a la información con que cuente la Dirección General de Recursos Materiales y Servicios Generales; y
 
 XIV. Adquisición de bienes y servicios, así como contratación de proyectos ejecutivos, supervisión y realización de obra pública, cuando existan razones de urgencia que serán calificadas por el Comité, circunstancias específicas que hayan generado un rezago considerable en la instalación o reubicación de órganos jurisdiccionales o administrativos debidamente autorizados, o bien, se presenten situaciones extraordinarias que impliquen la instalación o reubicación inmediata de dichos órganos.
 
@@ -657,7 +653,21 @@ I. Aquéllas con las que el servidor público que intervenga en cualquier forma 
 
 II. Las que desempeñen un empleo, cargo o comisión en el servicio público, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del Pleno; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-III. Aquéllas a las que el Consejo les hubiere rescindido unilateralmente un contrato por causas a ellas imputables. Dicho impedimento prevalecerá durante dos años contados a partir de la fecha de rescisión del contrato;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+III. Las que la Comisión declare impedidas temporalmente para participar en procedimientos de contratación o para celebrar contratos regulados por este Acuerdo, en virtud de actualizarse alguno de los supuestos siguientes:
+
+a) Los licitantes que injustificadamente y por causas imputables a ellos no formalicen el contrato adjudicado por el Consejo;
+
+b) Los contratistas o proveedores a quienes, por causas imputables a ellos, el Consejo les hubiera rescindido administrativamente un contrato;
+
+c) Los contratistas o proveedores que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, como consecuencia, causen daños o perjuicios al Consejo;
+
+d) Los contratistas o proveedores que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una inconformidad; y
+
+e) Los contratistas o proveedores que contraten servicios de asesoría, consultoría y apoyo de cualquier tipo de personas en materia de contrataciones gubernamentales, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por si o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación.
+
+La sanción que se imponga no será menor de tres meses ni mayor de cinco años calendario, plazo que comenzará a correr a partir del día siguiente a la fecha de la notificación de la resolución respectiva;
 
 > <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)</small>
 
@@ -665,11 +675,11 @@ IV. Las que hubieren sido inhabilitadas por alguna dependencia o entidad de la A
 
 V. Las que por causas a ellas imputables no hubieren cumplido sus obligaciones respecto de las materias de este Acuerdo, en relación con los contratos celebrados con el Consejo o con cualquier otro organismo público, de acuerdo con la información que al respecto se tenga;
 
-VI. Aquéllas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en algún proceso, para la adjudicación de un contrato, en su celebración, durante su vigencia o en la presentación o desahogo de una inconformidad;
+VI. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
 
-Vll. Las que estén en una situación privilegiada respecto de los demás proveedores o contratistas, en virtud de contar con información sobre las características, precio de los bienes, servicios u obra a realizar por parte del Consejo, por haber participado en un procedimiento de contratación anterior sobre dichos bienes, servicios u obra;
+VII. Las que estén en una situación privilegiada respecto de los demás proveedores o contratistas por haber utilizado información preferente proporcionada indebidamente por servidores públicos del Consejo o sus parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles;
 
 VIII. Las que hayan celebrado contratos en contravención a lo dispuesto por este Acuerdo y demás disposiciones aplicables;
 
@@ -747,6 +757,114 @@ IX. La indicación de la fecha, hora y lugar del acto de apertura de propuestas 
 
 La publicación de la convocatoria dará inicio al procedimiento de licitación. Las convocatorias se publicarán en la sección especializada del Diario Oficial de la Federación.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+ARTICULO 47 BIS.- DE LOS REQUISITOS MINIMOS DE LAS BASES EN MATERIA DE OBRAS PUBLICAS. Las bases que se emitan para las licitaciones públicas en materia de obras públicas y servicios relacionados con ellas, deberán contener, cuando menos, la siguiente información:
+
+I. La indicación de que es el Consejo quien convoca a la licitación pública;
+
+II. Forma en que deberá acreditarse la existencia y personalidad jurídica del licitante;
+
+III. Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; fecha, hora y lugar de celebración del acto de la presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
+
+IV. La indicación de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+
+V. La indicación de que las propuestas deberán presentarse en idioma español;
+
+VI. Moneda o monedas en que podrán presentarse las proposiciones. En los casos en que se permita hacer la cotización en moneda extranjera se deberá establecer que el pago que se realice en el territorio nacional se hará en moneda nacional y al tipo de cambio de la fecha en que se haga dicho pago, así como el mecanismo, periodos de revisión y los porcentajes máximos de ajuste de costos a que se sujetará el contrato;
+
+VII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes podrán ser negociadas;
+
+VIII. Indicación clara y detallada de los mecanismos de evaluación de las propuestas y la adjudicación de los contratos, conforme a los criterios de evaluación previamente establecidos para tal efecto;
+
+IX. Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables; en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto;
+
+X. Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico;
+
+XI. Experiencia, capacidad técnica y financiera necesaria de acuerdo con las características, complejidad y magnitud de los trabajos;
+
+XII. Datos sobre las garantías, porcentajes, forma y términos de los anticipos que se concedan;
+
+XIII. Cuando proceda, lugar, fecha y hora para la visita al sitio de realización de los trabajos, conforme a los plazos que establece el artículo 60, fracción III, de este Acuerdo;
+
+XIV. Información específica sobre las partes de los trabajos que podrán subcontratarse;
+
+XV. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha de conclusión, así como el día estimado de inicio de éstos;
+
+XVI. Modelo de contrato al que se sujetarán las partes, diferenciando los de obras y los de servicios;
+
+XVII. Las condiciones de pago;
+
+XVIII. Tratándose de contratos a precios unitarios o mixtos en su parte correspondiente, el procedimiento de ajuste de costos que deberá aplicarse, así como el catálogo de conceptos, cantidades y unidades de medición, el que deberá ser firmado por el responsable del proyecto; y la relación de conceptos de trabajo más significativos, de los cuales deberán presentar análisis y relación de los costos básicos de materiales, mano de obra, maquinaria y equipo de construcción que intervienen en dichos análisis. En todos los casos se deberá prever que cada concepto de trabajo esté debidamente integrado y soportado, perfectamente, en las especificaciones de construcción y normas de calidad solicitadas, procurando que estos conceptos sean congruentes con las cantidades de trabajo requeridos por el proyecto;
+
+XIX. La indicación de que el licitante ganador que, dentro del plazo previsto en el párrafo primero del artículo 75, no firme el contrato por causas a él imputables será imposibilitado temporalmente para participar en procedimientos de contratación o celebrar contratos, en los términos de la fracción III del artículo 42 de este Acuerdo;
+
+XX. En su caso, los términos y las condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través del servicio postal o de mensajería. El que los licitantes opten por utilizar alguno de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación; y
+
+XXI. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando como serán utilizados en la evaluación.
+
+Para la participación, adjudicación o contratación de obras públicas o servicios relacionados con ellas no podrán exigirse requisitos que tengan por objeto limitar la libre participación. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir.
+
+Las bases que se emitan para las licitaciones públicas en materia de servicios relacionados con la obra pública, para la contratación de los directores resposables (sic) de obra (DRO) y sus corresposables (sic) especialistas en obra o sus equivalentes, se exceptuan de contener los requisitos mínimos a que se refiere este artículo y deberán ser simplificadas atendiendo a la naturaleza de la contratación. Para tal efecto, el Comité deberá aprobar los modelos de bases y demás documentos relacionados para este tipo de contrataciones.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+ARTICULO 47 TER.- DE LOS REQUISITOS MINIMOS DE LAS BASES EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS. Las bases que se emitan para las licitaciones públicas en materia de adquisiciones, arrendamientos y servicios, deberán contener, cuando menos, la siguiente información:
+
+I. La indicación de que es el Consejo quien convoca a la licitación pública;
+
+II. Forma en que deberá acreditarse la existencia y personalidad jurídica del licitante;
+
+III. Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que se realicen; fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
+
+IV. La indicación de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación que afecte la solvencia de la propuesta, así como la comprobación de que algún licitante ha acordado con otro u otros elevar los precios de los bienes o servicios, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+
+V. La indicación de que las propuestas deberán presentarse en idioma español. Los anexos técnicos y folletos podrán presentarse en el idioma del país de origen de los bienes o servicios, acompañados de una traducción simple al español;
+
+VI. Moneda en que se cotizará y efectuará el pago respectivo. En licitaciones públicas nacionales, las propuestas y el pago de bienes o servicios se realizará en pesos mexicanos.
+
+En licitaciones internacionales, en que el Consejo determine efectuar los pagos a proveedores extranjeros en moneda extranjera, los licitantes nacionales podrán presentar sus proposiciones en la misma moneda extranjera que determine el Consejo. No obstante, el pago que se realice en el territorio nacional deberá hacerse en moneda nacional y al tipo de cambio vigente en la fecha en que se haga dicho pago. Tratándose de proveedores extranjeros, los pagos podrán hacerse en el extranjero en la moneda determinada en las bases respectivas;
+
+VII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes podrán ser negociadas;
+
+VIII. Indicación clara y detallada de los mecanismos de evaluación de las propuestas y la adjudicación de los contratos, conforme a los criterios de evaluación previamente establecidos para tal efecto;
+
+IX. Descripción completa de los bienes o servicios, o indicación de los sistemas empleados para identificación de los mismos; información específica que requieran respecto a mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; aplicación de normas conforme a lo establecido en la Ley Federal sobre Metrología y Normalización; dibujos; cantidades; muestras, y pruebas que se realizarán, así como método para ejecutarlas;
+
+X. Plazo y condiciones de entrega; así como la indicación del lugar, dentro del territorio nacional, donde deberán efectuarse las entregas. Cuando se trate de diferentes lugares de entrega, podrá establecerse que se propongan precios para cada uno de éstos o uno solo para todos ellos;
+
+XI. Requisitos que deberán cumplir quienes deseen participar, precisando como serán utilizados en la evaluación, de conformidad con los criterios para la evaluación de las propuestas y la adjudicación de los contratos previamente establecidos para tal efecto;
+
+XII. Condiciones de pago, señalando el momento en que se haga exigible;
+
+XIII. Datos sobre las garantías; así como la indicación de si se va a otorgar anticipo, en cuyo caso deberá señalarse el porcentaje respectivo y el momento en que se entregará;
+
+XIV. La indicación de si la totalidad de los bienes o servicios objeto de la licitación, o bien, de cada partida o concepto de los mismos, serán adjudicados a un solo proveedor;
+
+XV. En el caso de contratos abiertos, la información a que alude el artículo 77 de este Acuerdo;
+
+XVI. Las penas convencionales que serán aplicables por atraso en la entrega de los bienes o en la prestación de los servicios, en los términos señalados en el artículo 111 de este Acuerdo;
+
+XVII. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo será imposibilitado temporalmente para participar en procedimientos de contratación o celebrar contratos, en los términos de la fracción III del artículo 42 de este Acuerdo;
+
+XVIII. En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través del servicio postal o de mensajería. El que los licitantes opten por utilizar alguno de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación;
+
+XIX. Las condiciones de precio, en las que se precisará si se trata de precios fijos o variables;
+
+XX. Los casos en que podrán otorgarse prórrogas para el cumplimiento de las obligaciones contractuales y los requisitos que deberán observarse;
+
+XXI. Las causales para la rescisión de los contratos, en los términos previstos en el artículo 103 de este Acuerdo;
+
+XXII. Las previsiones relativas a los términos y condiciones a las que se sujetará la devolución y reposición de bienes por motivos de fallas de calidad o cumplimiento de especificaciones originalmente convenidas, sin que las sustituciones impliquen su modificación;
+
+XXIII. El señalamiento de las licencias, autorizaciones y permisos que conforme a otras disposiciones sea necesario contar para la adquisición o arrendamiento de bienes y prestación de los servicios correspondientes;
+
+XXIV. La indicación de que en caso de violaciones en materia de derechos inherentes a la propiedad intelectual, la responsabilidad estará a cargo del licitante o proveedor según sea el caso. Salvo que exista impedimento, la indicación de que los mencionados derechos, para el caso de la contratación de servicios de consultoría, asesorías, estudios e investigaciones, se estipularán a favor del Consejo, en los términos de las disposiciones legales aplicables; y
+
+XXV. El tipo y modelo de contrato.
+
+Para la participación, adjudicación o contratación de adquisiciones, arrendamientos o servicios no se podrán exigir requisitos que tengan por objeto limitar la libre participación. En ningún caso se establecerán requisitos o condiciones imposibles de cumplir.
+
 ###### ARTICULO 48.
 
 DE LA CONSULTA DE LAS BASES. Las bases se pondrán a disposición de cualquier interesado para su consulta y revisión, proporcionándose igual información a todos los participantes.
@@ -811,15 +929,17 @@ V. El tiempo de vigencia de la propuesta, el cual no será menor a los plazos qu
 
 VI. El tiempo y condiciones de entrega, así como el lugar de entrega de los bienes o de la prestación del servicio para adquisiciones, arrendamientos y prestación de servicios;
 
-VII. La garantía de sostenimiento de la propuesta que deban anexar, la cual deberá permanecer vigente durante el plazo que se establezca en las bases;
+VII. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)
 
 VIII. El análisis de porcentajes de costos indirectos, financiamiento y utilidad; análisis de precios unitarios; explosión de insumos y materiales y mano de obra; análisis de salarios e integración de cuadrilla; análisis de factor de salario real, y cronograma valorado desglosado en forma periódica, acorde con el programa de ejecución, tratándose de obra pública; y,
 
 IX. Los demás requisitos establecidos en las bases de licitación.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 54.
 
-ENTREGA DE LAS PROPUESTAS. La entrega de las propuestas se efectuará en el acto de apertura, y se presentará en tres sobres cerrados que contendrán, por separado, la documentación legal y contable, la propuesta técnica y la propuesta económica, anexando en este último la garantía de sostenimiento de propuestas, con el fin de que el monto no sea conocido hasta la segunda etapa. La presentación de los documentos legales y contables fuera de sobre, no será causa de descalificación de los concursantes.
+ENTREGA DE LAS PROPUESTAS. La entrega de las propuestas se efectuará en el acto de apertura, y se presentará en tres sobre (sic) cerrados que contendrán, por separado, la documentación legal y contable, la propuesta técnica y la propuesta económica, con el fin de que el monto no sea conocido hasta la segunda etapa. La presentación de los documentos legales y contables fuera de sobre no será causa de descalificación de los concursantes.
 
 Las propuestas deberán presentarse por escrito en original, en papelería membretada del licitante, foliada y firmada, en su caso, en todas sus hojas por el representante legal o persona legalmente autorizada, sin que tenga tachaduras o enmendaduras.
 
@@ -851,11 +971,15 @@ Entre la primera y la segunda etapas, Recursos Materiales y Servicios Generales 
 
 De cada una de las etapas del acto de apertura de propuestas, Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, levantarán acta circunstanciada la cual será firmada por los asistentes, haciéndose constar su desarrollo de manera detallada e incluyéndose textualmente las inconformidades que, en su caso, manifiesten los concursantes. La falta de firma por parte de algún proveedor o contratista no invalidará el contenido del acta.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 56.
 
-CONTENIDO DEL INFORME EJECUTIVO. Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, elaborarán un informe ejecutivo que deberá contener los siguientes aspectos:
+CONTENIDO DEL INFORME EJECUTIVO. Los titulares de las Direcciones Generales de Inmuebles y Mantenimiento, de Recursos Materiales y Servicios Generales o de Administración Regional, según corresponda, elaborarán un informe ejecutivo que deberá contener los siguientes aspectos:
 
-I. El dictamen técnico debidamente motivado, en el cual se hará constar la calificación técnica de las propuestas presentadas;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+I. El dictamen técnico debidamente motivado, en el cual se hará constar la calificación técnica de las propuestas presentadas. En materia de obra pública y servicios relacionados con ellas, en la evaluación de las propuestas técnicas se deberá señalar la puntuación de cada una, siempre que las características, complejidad y magnitud de los trabajos lo ameriten;
 
 II. El cuadro comparativo que contenga las propuestas económicas de los concursantes que aprobaron la evaluación técnica;
 
@@ -1025,11 +1149,23 @@ II. El área operativa que corresponda presentará de inmediato un informe al Co
 
 #### Sección I. De la Adjudicación de Contratos
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 72.
 
-REQUISITOS PARA ADJUDICAR EL CONTRATO. Los contratos serán adjudicados a la persona que reúna los requisitos solicitados en las bases o invitación correspondiente, garantice el cumplimiento de las obligaciones que se deriven y satisfaga las mejores condiciones de oportunidad, calidad, garantías y precio.
+REQUISITOS PARA ADJUDICAR EL CONTRATO. Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará, de entre los participantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación o invitación correspondiente, las condiciones legales, técnicas y económicas requeridas por el Consejo, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-Los contratos que se celebren a través de adjudicación directa, serán asignados a la persona que ofrezca al Consejo las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás características pertinentes.
+Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por el Consejo, el contrato se adjudicará de la siguiente manera:
+
+I. En materia de obras públicas y servicios relacionados con ellas, a quien presente la propuesta que resulte económicamente más conveniente para el Consejo.
+
+La propuesta solvente económicamente más conveniente para el Consejo será aquella que otorgue mayor certeza en la ejecución y conclusión de los trabajos que pretendan contratarse, por asegurar las mejores condiciones de contratación en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes; y aquella que, además, reúna una puntuación mayor a la mínima establecida conforme a los criterios de evaluación previamente establecidos por el propio Consejo, siempre y cuando su precio o monto no exceda del siete por ciento respecto del precio o monto de la determinada como la solvente más baja, como resultado de la evaluación respectiva.
+
+II. En materia de adquisiciones, arrendamientos y servicios, el contrato se adjudicará a quien presente la propuesta solvente cuyo precio sea el más bajo.
+
+Si derivado de la evaluación de las proposiciones se obtuviera un empate en el precio de dos o más proposiciones, la adjudicación se efectuará a favor del licitante que resulte ganador del sorteo manual por insaculación que celebre el Consejo en el propio acto de fallo, el cual consistirá en la participación de un boleto por cada propuesta que resulte empatada y depositados en una urna, de la que se extraerá en primer lugar el boleto del licitante ganador y, posteriormente, los demás boletos empatados, con lo que se determinarán los subsecuentes lugares que ocuparán tales proposiciones. Este procedimiento deberá preverse en las bases de licitación.
+
+Los contratos que se celebren a través de adjudicación directa, serán asignados a la persona que ofrezca al Consejo las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás características pertinentes, previo estudio de mercado que se realice, en el que deberá incluirse el costo por los servicios adicionales que requiere el Consejo, como son, entre otros, garantías, fletes, instalación y, en algunos casos, capacitación.
 
 > <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)</small>
 
@@ -1119,7 +1255,21 @@ Corresponderá a la Dirección General de Asuntos Jurídicos la elaboración y a
 
 PLAZO PARA FORMALIZAR CONTRATOS. Los contratos deberán formalizarse dentro del plazo de diez días hábiles contados a partir de que se notifique la adjudicación.
 
-Si el interesado no firma el contrato por causas imputables a él, dentro del plazo a que se refiere el párrafo anterior, el Comité podrá autorizar, sin necesidad de un nuevo procedimiento, que el contrato se adjudique al participante que haya presentado la siguiente propuesta solvente más baja, de conformidad con lo asentado en el dictamen respectivo, y así sucesivamente, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora no sea superior al diez por ciento.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+Si el interesado no firmare el contrato por causas imputables a él, en la fecha o plazo establecido en el párrafo anterior, el Comité podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato de la siguiente manera:
+
+I. En materia de obras públicas y servicios relacionados con ellas, al participante que haya presentado la siguiente proposición solvente que resulte económicamente más conveniente para el Consejo; y
+
+II. En materia de adquisiciones, arrendamientos y servicios, al participante que haya presentado la siguiente proposición solvente más baja.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+Lo previsto en las fracciones I y II, se hará de conformidad con lo asentado en el dictamen respectivo, y en orden sucesivo en caso de que el siguiente que corresponda no acepte la adjudicación, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
+
+Tratándose de una evaluación en puntos, el contrato podrá adjudicarse a la que le siga en calificación a la del ganador, y así sucesivamente en caso de que este último no acepte la adjudicación.
 
 > <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
 
@@ -1331,11 +1481,7 @@ Dichas garantías podrán constituirse mediante fianza otorgada por institución
 
 ###### ARTICULO 95.
 
-MONTO DE LA GARANTIA. Para el sostenimiento de su propuesta, los participantes en las licitaciones públicas y en aquellos procedimientos en que, a juicio de Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, resulte conveniente en razón del monto de la operación, la garantía será por el equivalente al cinco por ciento del importe de la propuesta, sin incluir el Impuesto al Valor Agregado.
-
-La garantía deberá presentarse anexa a la propuesta económica en el mismo sobre cerrado, con el objeto de que no sea conocida hasta la apertura de dicha propuesta y se remitirá a la Dirección General de Tesorería del Consejo para su guarda y custodia, hasta que Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, manifiesten conformidad con su devolución.
-
-La garantía será devuelta a los participantes una vez que se haya dictado el fallo correspondiente, o antes de considerarlo conveniente, Recursos Materiales y Servicios Generales o Administración Regional, excepto la que corresponda a quien resulte adjudicado, la que se retendrá hasta el momento en que se firme el contrato respectivo y se constituya la garantía de cumplimiento del mismo.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)
 
 ###### ARTICULO 96.
 
@@ -1455,7 +1601,7 @@ SUSPENSION TEMPORAL DE LA EJECUCION DE TRABAJOS. Por acuerdo del Comité, la Sec
 
 PENAS CONVENCIONALES Y MONTO DE LA GARANTIA. El incumplimiento de cualesquiera de las obligaciones adquiridas por parte del proveedor o contratista en los contratos o pedidos, dará lugar a la imposición de una pena convencional equivalente al monto de la garantía de cumplimiento prevista en el artículo 96 de este Acuerdo. En caso de incumplimiento parcial, la pena se ajustará proporcionalmente al porcentaje incumplido.
 
-En caso de que la firma del contrato no se lleve a cabo por causas imputables al proveedor o contratista adjudicado, el Consejo hará efectiva la garantía que se haya presentado para el sostenimiento de la propuesta.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 51/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 111.
 
@@ -1674,3 +1820,17 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 75/2000, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para que las Adquisiciones, Arrendamientos, Prestaciones de Servicios y Obra Pública en el Consejo de la Judicatura Federal se Ajusten a los Criterios Contemplados en el Artículo 134 Constitucional, así como al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal, según corresponda.
+
+D.O.F. 21 DE ENERO DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se instruye al Comité de Adquisiciones, Arrendamientos, Obras Pública y Servicios para realizar las acciones pertinentes para que en un plazo que no exceda de treinta días naturales a partir de la publicación del presente Acuerdo, se ajusten los modelos de bases y demás documentos relacionados.
+
+TERCERO.- Se instruye a la Dirección General de Asuntos Jurídicos del Consejo de la Judicatura Federal para que, en un plazo que no exceda de sesenta días naturales a partir de la publicación del presente Acuerdo, proponga al Pleno del propio Consejo la normativa para tramitar los procedimientos en los que se proponga declarar impedidas temporalmente para participar en procedimientos de contratación o en la celebración de contratos regulados por este Acuerdo, a las personas que se encuentren en alguno de los supuestos previstos en la fracción III del artículo 42 del presente ordenamiento.
+
+CUARTO.- Se instruye al Comité de Adquisiciones, Arrendamientos, Obras Pública (sic) y Servicios para realizar las acciones pertinentes para que en un plazo que no exceda de cuarenta y cinco días naturales a partir de la publicación del presente Acuerdo, se sometan a la consideración de la Comisión de Administración los criterios de evaluación y adjudicación de las propuestas en los procedimientos de contratación, en materia de obras públicas y servicios relacionados con ellas, así como de adquisiciones, arrendamientos y servicios.
+
+QUINTO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 75/2000, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para que las Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública en el Consejo de la Judicatura Federal se Ajusten a los Criterios Contemplados en el Artículo 134 Constitucional.
+
+SEXTO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
