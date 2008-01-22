@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2007-01-30"
+last_updated: "2008-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -141,13 +141,13 @@ El personal no especificado como de confianza en este precepto será considerado
 
 El año judicial, se inicia el día primero de enero y termina el día treinta y uno de diciembre del mismo año.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
-Para la elección del Presidente del supremo Tribunal de Justicia, el último día hábil de diciembre de cada dos años, los magistrados de número en funciones, presididos por el de más antigüedad como magistrado, o el de más edad si hubiere varios con igual antigüedad, se reunirán en el Salón de Plenos de (sic) Supremo Tribunal de Justicia.
+Para la elección del Presidente del Supremo Tribunal de Justicia, el último día hábil de diciembre de cada dos años los magistrados en funciones, presididos por el de más antigüedad como magistrado, se reunirán en el Salón de Plenos del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
-Acto seguido, por mayoría de sufragios, en votación secreta, por cédula y con escrutinio público, se elegirá al Magistrado Numerario que funja como Presidente los dos años judiciales consecutivos siguiente a partir del día primero de enero, en caso de empate, el Magistrado que presida la sesión tendrá voto de calidad.
+Acto seguido, por mayoría de sufragios, en votación secreta, por cédula y con escrutinio público, se elegirá al Magistrado que funja como Presidente los dos años judiciales consecutivos siguientes a partir del día primero de enero; en caso de empate, el Magistrado que presida la sesión tendrá voto de calidad.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -303,15 +303,19 @@ Para su organización y funcionamiento, las dependencias a que se refiere el pre
 
 ### CAPÍTULO I. INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+
 ## TÍTULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ### CAPÍTULO II. DEL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+
 ###### Artículo 17.
 
-El Supremo Tribunal de Justicia, residirá en la capital del Estado de Jalisco y estará integrado por al menos veintidós magistrados numerarios y tres supernumerarios, determinados en su Presupuesto de Egresos. Funcionará en Pleno, en salas numerarias especializadas, regionales, mixtas y auxiliares en caso necesario, con la competencia que se determine por el Pleno.
+El Supremo Tribunal de Justicia residirá en la capital del estado de Jalisco y estará integrado por treinta y siete magistrados propietarios. Funcionará en pleno, en salas especializadas, regionales y mixtas en caso necesario, con la competencia que se determine por el pleno.
 
-El Presidente del Supremo Tribunal de Justicia se designará de entre los magistrados numerarios y no integrará Sala.
+El Presidente del Supremo Tribunal de Justicia se designará de entre los magistrados propietarios y no integrará sala.
 
 ###### Artículo 18.
 
@@ -355,7 +359,7 @@ La Presidencia de las salas será rotatoria por designación entre los magistrad
 
 ###### Artículo 21.
 
-El Pleno del Supremo Tribunal de Justicia lo integrarán su Presidente y los magistrados en funciones de las salas numerarias especializadas.
+El Pleno del Supremo Tribunal de Justicia lo integrarán su Presidente y los magistrados en funciones.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
@@ -365,7 +369,9 @@ Las sesiones del pleno serán públicas y por excepción reservadas, en los caso
 
 Las discusiones y documentos relacionados con las sesiones reservadas, sólo pueden ponerse a la vista de quienes demuestren su interés jurídico y no son susceptibles de publicarse, salvo las resoluciones finales, que tienen carácter público, con excepción de aquellas que de conformidad con la ley, reciban clasificación distinta.
 
-Las sesiones del pleno se celebrarán en los días y a las horas que fije el reglamento. Podrán celebrarse sesiones extraordinarias cuando lo crea necesario el Presidente o lo pida alguno de los magistrados numerarios de las salas especializadas.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+
+Las sesiones del pleno se celebrarán en los días y a las horas que fije el reglamento. Podrán celebrarse sesiones extraordinarias cuando lo crea necesario el Presidente o lo pida alguno de los magistrados propietarios.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
 
@@ -395,7 +401,7 @@ X. Elegir de entre sus miembros al Presidente del Supremo Tribunal de Justicia;
 
 XI. Ejercer y preservar la soberanía del Estado en lo concerniente a la administración de justicia, en el ámbito de su competencia;
 
-XII. Acordar, cuando se considere conveniente por las necesidades del servicio, que tres de los magistrados supernumerarios, se constituyan en Sala Auxiliar y fijar su competencia en los asuntos que deba conocer;
+XII. (DEROGADA, P.O. 22 DE ENERO DE 2008)
 
 XIII. Nombrar a propuesta de su Presidente, a los servidores públicos de carácter judicial, y administrativo del Supremo Tribunal, con excepción de los secretarios relatores adscritos a los magistrados que serán nombrados a propuesta de éstos y el personal de cada Sala que lo hará su Presidente previo consenso de sus integrantes. Así como removerlos en los términos que determinen las leyes.
 
@@ -531,6 +537,8 @@ IV. Las demás que le confiera la Presidencia, y le señale el reglamento.
 
 ### CAPÍTULO IV. DE LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+
 ###### Artículo 33.
 
 El Presidente del Supremo Tribunal vigilará que la administración de justicia en el Estado sea pronta, completa, gratuita e imparcial, dictando al efecto las medidas que fueren necesarias.
@@ -555,7 +563,7 @@ VII. Dar cuenta al Pleno de todos los actos que lleve a cabo en el ejercicio de 
 
 VIII. Sugerir al Pleno las medidas necesarias para la organización y funcionamiento de la Oficialía de Partes común a las Salas del Supremo Tribunal;
 
-IX. Proponer con aprobación del Pleno a los magistrados supernumerarios que deban suplir a los numerarios en los casos previstos por la ley;
+IX. (DEROGADA, P.O. 22 DE ENERO DE 2008)
 
 X. Formular anualmente el proyecto del Presupuesto de Egresos para someterlo a la aprobación del Tribunal Pleno y enviarlo conjuntamente con los del Tribunal Electoral, Tribunal Administrativo y Consejo General, al Titular del Poder Ejecutivo para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
@@ -593,9 +601,11 @@ La Presidencia del Supremo Tribunal contará con el personal de apoyo que permit
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO PARA LAS SUPLENCIAS DE LOS MAGISTRADOS
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+
 ###### Artículo 36.
 
-Las salas del Supremo Tribunal de Justicia para los asuntos de su competencia funcionarán con tres magistrados numerarios, y los supernumerarios que autorice el Presupuesto de Egresos. Cada una de las salas con sede en la capital del Estado, serán numerarias y especializadas; las regionales serán mixtas. Podrá crearse la Sala Auxiliar que funcionará como especializada o mixta cuando lo determine el Pleno.
+Las salas del Supremo Tribunal de Justicia para los asuntos de su competencia funcionarán con tres magistrados propietarios. Cada una de las salas con sede en la capital del estado serán numerarias y especializadas; las regionales serán mixtas.
 
 ###### Artículo 37.
 
@@ -741,37 +751,35 @@ VI. De los demás asuntos que fijen las leyes.
 
 Los conflictos de competencia que se susciten entre juzgados de la jurisdicción de diferentes salas, serán resueltos por el Pleno del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+
 ###### Artículo 51.
 
-Las salas auxiliares y regionales mixtas en su caso, tendrán jurisdicción en los partidos judiciales que les adscriba el Pleno, con las atribuciones y facultades que les sean asignadas.
-
-La Sala Auxiliar se integrará con los magistrados supernumerarios de mayor antigüedad en el cargo.
+Las salas auxiliares y regionales mixtas en su caso, tendrán jurisdicción en los partidos judiciales que les adscriba el pleno, con las atribuciones y facultades que les sean asignadas.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 52.
 
-Las faltas del Presidente del Supremo Tribunal de Justicia del Estado hasta por el término de dos meses, se suplirán por los presidentes de salas especializadas, en orden rotatorio, comenzando por el de la Primera. Si la falta excede del plazo antes señalado, se elegirá al Magistrado Numerario sustituto por todo el tiempo que dure la ausencia del titular, observando lo previsto en la presente ley.
+Las faltas del Presidente del Supremo Tribunal de Justicia del Estado hasta por el término de dos meses, se suplirán por los presidentes de salas especializadas, en orden rotatorio, comenzando por el de la Primera. Si la falta excede del plazo antes señalado, se elegirá al Magistrado sustituto por todo el tiempo que dure la ausencia del titular, observando lo previsto en la presente ley.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
 ###### Artículo 53.
 
-Las faltas de los magistrados numerarios del Supremo Tribunal de Justicia, que excedan de quince días hábiles, así como las vacantes de dichos cargos, en tanto toma posesión el nuevo numerario, serán cubiertas por los magistrados supernumerarios en el orden que acuerde el Pleno del Tribunal.
+Las faltas de los magistrados propietarios del Supremo Tribunal de Justicia que excedan de quince días hábiles, así como las vacantes de dichos cargos, en tanto toma posesión el nuevo propietario, serán cubiertas por los jueces de primera instancia especializados en la materia que conozca el Magistrado a suplir, en el orden que acuerde el Consejo General del Poder Judicial y siempre que cumplan con los requisitos constitucionales para el cargo.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2003)</small>
-
-Cuando la totalidad de los magistrados supernumerarios se encuentren integrando Sala o no estén en funciones por cualquier motivo y, asimismo, durante las ausencias por menos de quince días hábiles de los magistrados que integren Sala, ésta podrá funcionar válidamente con dos de ellos en lo relativo a la substanciación del procedimiento, excepción hecha respecto de la sentencia definitiva, para lo cual el Tribunal Pleno designará a los magistrados que deban integrar el quórum respectivo.
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2003)</small>
-
-Lo mismo se observará en casos de excusa o recusación de uno o dos magistrados, caso este último en que la Sala será presidida por el magistrado de ella que no hubiese sido sustituido. Cuando el impedimento sea de los tres magistrados que integran una Sala, el asunto pasará al conocimiento de la Sala que, de la misma materia, le siga en número.
+Durante las ausencias por menos de quince días hábiles de los magistrados que integren sala, ésta podrá funcionar válidamente con dos de ellos en lo relativo a la substanciación del procedimiento, excepción hecha respecto de la sentencia definitiva, para lo cual el Tribunal pleno designará a los magistrados que deban integrar el quórum respectivo, Lo mismo se observará en casos de excusa o recusación de los magistrados.
 
 ###### Artículo 54.
 
 Cuando el Magistrado que deba suplirse sea Presidente de Sala del Supremo Tribunal de Justicia, sus funciones serán ejercidas rotatoriamente por los demás magistrados que integren la misma, siguiendo un orden alfabético.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+
 ###### Artículo 55.
 
-En las salas regionales, el Pleno del Supremo Tribunal de Justicia adscribirá a los magistrados supernumerarios que deban suplir a los numerarios; cuando no sea posible tal adscripción por cualquier causa, el quórum se integrará con el Secretario de Acuerdos de la Sala respectiva, previa decisión plenaria.
+En las salas regionales, el Consejo General del Poder Judicial adscribirá a los jueces de primera instancia que deban suplir a los magistrados; cuando no sea posible tal adscripción por cualquier causa, el quórum se integrará con el Secretario de Acuerdos de la Sala respectiva, previa decisión plenaria.
 
 ###### Artículo 56.
 
@@ -3217,7 +3225,7 @@ CUARTO.- El segundo párrafo del artículo 78, de la Ley Orgánica del Poder Jud
 
 QUINTO.- Se deberán realizar las adecuaciones presupuestales necesarias de acuerdo con las leyes aplicables acorde a (sic) nueva estructura del Tribunal Electoral.
 
-SEXTO.- Remítase copia certificada del expediente que se integre con motivo de la presente iniciativa a los 124 Ayuntamientos de la Entidad para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
+SEXTO.- Remítase copia certificada del expediente que se integre con motivo de la presente iniciativa a los 124 Ayuntamientos de la Entidad para los efectos de lo dispuesto en el artículo 117 de la Constitución Política del Estado de Jalisco.
 
 P.O. 22 DE JUNIO DE 2002.
 
@@ -3303,7 +3311,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de la entrada 
 
 SEGUNDO.- El Consejo de la Judicatura deberá reglamentar las nuevas atribuciones adquiridas 60 días después de publicado el presente decreto.
 
-TERCERO.- La Oficialía de Partes Común del Supremo Tribunal de Justicia deberá recibir escritos de juzgados hasta cumplidos 60 días de publicado el presente decreto, transcurridos los cuales, será sustituida para esos efectos por la Oficialía de Partes común dependiente del Consejo de la Judicatura.
+TERCERO.- La Oficialías de Partes Común del Supremo Tribunal de Justicia deberá recibir escritos de juzgados hasta cumplidos 60 días de publicado el presente decreto, transcurridos los cuales, será sustituida para esos efectos por la Oficialía de Partes común dependiente del Consejo de la Judicatura.
 
 CUARTO.- Las reformas al artículo 20 y demás relativos, de la Ley Orgánica del Poder Judicial del Estado, contenidas en el Artículo Único del presente decreto, aplicarán en beneficio del Presidente del Supremo Tribunal de Justicia electo para el periodo en vigencia.
 
@@ -3324,3 +3332,9 @@ SEGUNDO. El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el a�
 TERCERO. El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.
 
 CUARTO. Los convenios que se celebren en municipios que no tengan instalada una sede regional del Instituto, será competente por acuerdo de las partes ya sea la sede regional más cercana, el Director General del Instituto o el juez de primera instancia del partido judicial que corresponda.
+
+P.O. 22 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El presente decreto no se mandará a publicar hasta en tanto no se haya publicado la reforma a los artículos 58 y 61 de la Constitución local que se dictaminó previamente y por separado, y producto de la misma iniciativa.
