@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-instituto-de-vivienda-del-estado-de-10179"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-02"
-last_updated: "2007-11-21"
+last_updated: "2008-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2008.
 
 Ley Orgánica publicada en la Sección Segunda del Periódico Oficial, el lunes 2 de diciembre de 1996.
 
@@ -353,9 +353,7 @@ Artículo Tercero.- En el Término de sesenta días a partir de la fecha de publ
 
 Artículo Cuarto.- Los derechos laborales de los trabajadores que a la fecha prestan sus servicios en la Promotora Michoacana de la Vivienda, serán respetados en los términos de la ley de la materia y conforme a su régimen laboral.
 
-Artículo Quinto.- Para el finiquito de los asuntos pendientes de la Promotora Michoacana de la Vivienda, el Ejecutivo del Estado constituirá paralelamente un fideicomiso liquidador que cumplimentará las obligaciones legales, económicas y financieras justificables y comprobables, pendientes de solución.
-
-Los bienes muebles e inmuebles, materiales y financieros que no sean materia del Fondo del Fideicomiso liquidador de la Promotora Michoacana de la Vivienda, pasarán a integrar el Patrimonio del Instituto de Vivienda del Estado de Michoacán, una vez realizados los ajustes necesarios por parte de la Oficialía Mayor del Gobierno del Estado.
+Artículo Quinto.- (DEROGADO, P.O. 22 DE ENERO DE 2008)
 
 Artículo Sexto.- El Gobernador del Estado, a partir de la publicación de esta Ley, promoverá lo necesario para la estructuración interna del Instituto de Vivienda del Estado de Michoacán, conforme a lo que establece este Ordenamiento.
 
@@ -394,3 +392,7 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ENERO DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
