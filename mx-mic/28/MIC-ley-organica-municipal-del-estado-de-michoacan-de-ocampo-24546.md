@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2007-11-21"
+last_updated: "2008-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2008.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -730,6 +730,18 @@ VIII. Promover, en el ámbito de su competencia, el mejoramiento cívico de sus 
 IX. Impulsar la realización de las actividades cívicas, culturales y deportivas que le correspondan; y,
 
 X. En general, las demás que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente Ley y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2008)</small>
+
+e).- En materia de cultura:
+
+l. Elaborar el diagnóstico y el programa municipal de cultural (sic) el catálogo de su patrimonio y el de sus principales manifestaciones culturales;
+
+II. Promover el establecimiento de centros, casas de cultura u organismos similares para el fomento del desarrollo cultural, alentando la participación social en las diversas actividades culturales;
+
+III. Fomentar la investigación y difusión de las manifestaciones culturales en el Municipio; y,
+
+IV. Participar en los términos de la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo, en los programas estatales en materia de cultura.
 
 ###### Artículo 33.
 
@@ -2558,3 +2570,7 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ENERO DE 2008.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
