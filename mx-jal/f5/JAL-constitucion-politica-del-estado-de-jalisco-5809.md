@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2008-01-19"
+last_updated: "2008-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1177,9 +1177,9 @@ En tratándose de personas de escasos recursos, dependientes económicos, jornal
 
 El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en el Tribunal Electoral, en el Tribunal de lo Administrativo, en los juzgados de primera instancia, menores y de paz y jurados. Se compondrá además por un órgano denominado Consejo General del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
-La representación del Poder Judicial recae en el Presidente del Supremo Tribunal de Justicia, el cual será electo, de entre sus miembros, por el pleno. El Presidente desempeñará su función por un período de tres años y podrá ser reelecto para el período inmediato.
+La representación del Poder Judicial recae en el Presidente del Supremo Tribunal de Justicia, el cual será electo, de entre sus miembros, por el pleno. El Presidente desempeñará su función por un período de dos años y podrá ser reelecto para el período inmediato.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1207,11 +1207,11 @@ La ley fijará los términos en que sea obligatoria la jurisprudencia que establ
 
 El personal de los tribunales, juzgados y demás órganos del Poder Judicial, regirá sus relaciones de trabajo conforme a las disposiciones generales y a las reglas especiales que para cada caso señalen esta Constitución y las leyes aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2008)</small>
 
 ###### Art. 58.
 
-El Supremo Tribunal de Justicia del Estado se integra por treinta y siete magistrados propietarios y funciona en pleno y en salas, de conformidad con lo que establezca la ley reglamentaria.
+El Supremo Tribunal de Justicia del Estado se integra por treinta y cuatro magistrados propietarios y funciona en pleno y en salas, de conformidad con lo que establezca la ley reglamentaria.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2008)</small>
 
@@ -2694,3 +2694,11 @@ SEGUNDO. Notifíquese a los ayuntamientos del estado de Jalisco para que manifie
 TERCERO. Todos los magistrados del Supremo Tribunal de Justicia del estado de Jalisco, sean numerarios o supernumerarios, continuarán en el desempeño de su encargo por el plazo que para cada uno corresponda de acuerdo a su nombramiento y a las normas establecidas en la propia Constitución, con la calidad de magistrados propietarios y en igualdad de derechos y condiciones.
 
 CUARTO. Los actuales magistrados del Supremo Tribunal de Justicia recibirán el haber por retiro a que se refieren el artículo 61 de la Constitución Política del estado de Jalisco y demás disposiciones legales aplicables.
+
+P.O. 22 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Notifíquese a los ayuntamientos del estado de Jalisco, para que manifiesten su aprobación en los términos señalados por el artículo 117 de la Constitución local.
+
+TERCERO. Se derogan todas las normas y disposiciones que se opongan, al presente decreto.
