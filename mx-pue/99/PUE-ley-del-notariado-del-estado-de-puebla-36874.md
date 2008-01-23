@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-36874"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-02"
-last_updated: "2004-02-02"
+last_updated: "2008-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 2 de febrero de 2004.
 
@@ -483,7 +483,9 @@ Para que el Notario pueda ejercer sus funciones, no basta que obtenga la Patente
 
 I.- Constituir a su elección hipoteca, fianza o seguro de responsabilidad civil, equivalente a mil doscientos cincuenta días de salario mínimo vigente en el Estado de Puebla;
 
-II.- Proveerse a su costa del sello, libros o folios del protocolo y hacer registrar su nombramiento, sello y firma, en las siguientes unidades administrativas de la Secretaría de Gobernación: Dirección General de Gobierno, Oficina del Registro Público de la Propiedad y del Comercio de su jurisdicción, así como la Secretaría del Consejo de Notarios. Si después de hecho el registro, el Notario cambiare de firma o de nombre, hará registrar el cambio en las mismas oficinas;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+II.- Proveerse a su costa del sello, libros o folios del protocolo y hacer registrar su nombramiento, sello y firma, en las siguientes unidades administrativas de la Secretaría de Gobernación: Dirección General de Gobierno, Dirección del Archivo de Notarías, Oficina del Registro Público de la Propiedad y del Comercio de su Jurisdicción, así como la Secretaría del Consejo de Notarios. Si después de hecho el registro, el Notario cambiare de firma o de nombre, hará registrar el cambio en las mismas oficinas;
 
 III.- Otorgar la protesta legal ante la Secretaría de Gobernación;
 
@@ -495,7 +497,9 @@ V.- Dentro de los treinta días contados a partir de la fecha en que se otorgue 
 
 El sello de cada Notario debe ser de forma circular, tener un diámetro de tres centímetros y representar el Escudo Nacional en los términos descritos en el artículo 2 de la Ley sobre las características y el uso del Escudo, la Bandera y el Himno Nacionales, y tener inscritos en la parte inferior el nombre, apellidos, número del Notario y lugar de su residencia.
 
-En caso de que se pierda o altere el sello, el Notario deberá dará aviso a la autoridad competente en el primer día hábil siguiente al descubrimiento del hecho, y con la constancia de dicho aviso, levantara acta ante el Ministerio Público; e informará de este hecho, al Archivo General de Notarias y al Colegio de Notarios.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
+En caso de que se pierda o altere el sello, el Notario deberá dar aviso a la autoridad competente en el primer día hábil siguiente al descubrimiento del hecho y, con la constancia de dicho aviso, levantará acta ante el Ministerio Público e informará de este hecho, al Archivo de Notarías y al Colegio de Notarios. No será necesario levantar acta ante el Ministerio Público cuando la alteración se deba al desgaste derivado del uso.
 
 Cumplido lo anterior, con los acuses respectivos y con la constancia que al efecto le expida el Ministerio Público, tramitará ante la autoridad competente la autorización para la reposición del sello a su costa, en el cual se pondrá un signo especial que lo diferencie del anterior.
 
@@ -523,9 +527,11 @@ Cuando un particular obtenga sentencia firme condenatoria por responsabilidad ci
 
 Si el importe de la garantía no cubriere el de la responsabilidad exigida, el Notario deberá satisfacer la parte insoluta con su patrimonio personal.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 63.
 
-El Notario deberá iniciar el ejercicio de sus funciones dentro del plazo de treinta días contados desde la fecha de la razón de "requisitado" puesta en su Patente. Al hacerlo así, dará aviso al público por medio del Periódico Oficial del Estado y de otro de circulación estatal. Además, lo comunicará al Secretario de Gobernación, a la Procuraduría General de Justicia del Estado, Dirección General de Registros y Notarías, Registro Público de la Propiedad y del Comercio de su jurisdicción y al Consejo de Notarios. De no ejercer sus funciones dentro del plazo establecido, se cancelará la Patente otorgada.
+El Notario deberá iniciar el ejercicio de sus funciones dentro del plazo de treinta días contados desde la fecha de la razón de "requisitado" puesta en su Patente. Al hacerlo así, dará aviso al público por medio del Periódico Oficial del Estado y de otro de circulación estatal. Además, lo comunicará al Secretario de Gobernación, la Procuraduría General de Justicia del Estado, la Dirección General de Registros y Notarías, la Dirección del Archivo de Notarias, el Registro Público de la Propiedad y del Comercio de su Jurisdicción y el Consejo de Notarios. De no ejercer sus funciones dentro del plazo establecido, se cancelará la Patente otorgada.
 
 ## TÍTULO QUINTO. DE LOS NOTARIOS AUXILIARES, ASOCIADOS Y SUBSTITUTOS
 
@@ -597,9 +603,11 @@ Sin embargo, la suplencia podrá exceder del término fijado en el párrafo ante
 
 La garantía del Titular deberá asegurar la actuación del Suplente, a cuyo efecto habrá de ampliarse en los términos que sean necesarios para ello, a no ser que el Suplente otorgue su propia garantía por la cuantía que fija esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 76.
 
-El Notario que no esté asociado, no tenga Auxiliar o Suplente, deberá celebrar un convenio con otro Notario Titular que se encuentre en igual situación para suplirse recíprocamente en sus faltas temporales. El convenio a que se refiere este artículo, deberá celebrarse dentro del plazo de treinta días contados a partir de la fecha de la Patente del Notario Titular o de la fecha en que deje de tener quien lo substituya; si no lo celebrare, el Ejecutivo del Estado designará al Suplente, escogiéndolo de entre cualquiera otro de los Titulares.
+El Notario que no esté asociado, no tenga Auxiliar o Suplente, deberá celebrar un convenio con otro Notario Titular del mismo Distrito Judicial que se encuentre en igual situación, para suplirse recíprocamente en sus faltas temporales. El convenio a que se refiere este artículo, deberá celebrarse dentro del plazo de noventa días contados a partir de la fecha en que el Notario Titular hubiere rendido la protesta respectiva o de la fecha en que deje de tener quien lo substituya. Si no lo celebrare, el Ejecutivo del Estado podrá designar al Suplente, escogiéndolo de entre cualquiera otro de los Titulares de la misma demarcación notarial.
 
 ###### ARTÍCULO 77.
 
@@ -663,7 +671,9 @@ Los Notarios podrán llevar volúmenes de folios que se denominarán protocolo e
 
 Este protocolo tendrá los requisitos que para el protocolo abierto se señalan en este Capítulo, y se numerará en forma independiente. El color de los folios será diferente al del protocolo abierto ordinario.
 
-Cuando se requieran folios para asentar las escrituras que dispone este artículo, la Secretaría de Gobernación por conducto de la Dirección de Notarías, proporcionará gratuitamente al Notario ciento cincuenta folios.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
+Cuando se requieran folios para asentar las escrituras que dispone este artículo, la Secretaría de Gobernación por conducto de la Dirección del Archivo de Notarias, proporcionará gratuitamente al Notario ciento cincuenta folios.
 
 ###### ARTÍCULO 85.
 
@@ -681,11 +691,17 @@ La expedición de los libros o folios nuevos en que habrá de actuar el Notario,
 
 I. El Notario pagará los derechos correspondientes en la Secretaría de Finanzas y Administración del Estado;
 
-II. En el caso del protocolo cerrado, presentará a la Dirección de Notarías los libros y los comprobantes del pago de los derechos;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
 
-III. Tratándose del protocolo abierto, presentará los comprobantes de pago de los folios y derechos a la Dirección de Notarías;
+II. En el caso del protocolo cerrado, presentará a la Dirección del Archivo de Notarias los libros y los comprobantes del pago de los derechos;
 
-IV. La Dirección de Notarías se encargará de obtener del Secretario de Gobernación la autorización correspondiente, que contendrá:
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+III. Tratándose del protocolo abierto, presentará los comprobantes de pago de los folios y derechos a la Dirección del Archivo de Notarías;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2008)</small>
+
+IV. La Dirección del Archivo de Notarias se encargará de obtener del Secretario de Gobernación la autorización correspondiente, que contendrá:
 
 a) Lugar y fecha;
 
@@ -743,9 +759,11 @@ Los Notarios Asociados, el Titular y su Auxiliar abrirán el protocolo común, p
 
 Cuando con posterioridad a la fecha de apertura haya cambio de Notario o Notarios, a continuación del último instrumento extendido en cada libro en uso, se asentarán el nombre, firma y sello, en su caso, de los que vayan a actuar. Se procederá en igual forma cuando celebre convenio de asociación, de suplencia, empiece o deje de actuar el Auxiliar, el Asociado o el Suplente y cuando el Notario reanude el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 92.
 
-Para integrar el protocolo abierto, la Secretaría de Gobernación por conducto de la Dirección de Notarías, proveerá a cada Notario y a costa de éste, de los folios a que se refiere este Capítulo, sin que puedan pasar de mil quinientos los folios por entrega, debiendo levantar acta circunstanciada.
+Para integrar el protocolo abierto, la Secretaría de Gobernación por conducto de la Dirección del Archivo de Notarías, proveerá a cada Notario y a costa de éste, de los folios a que se refiere este Capítulo, sin que puedan pasar de mil quinientos los folios por entrega, debiendo levantar acta circunstanciada.
 
 ###### ARTÍCULO 93.
 
@@ -791,7 +809,9 @@ Al iniciar la formación de un volumen, el Notario pondrá enseguida de la razó
 
 Los notarios asociados, así como el Titular y Auxiliar abrirán el protocolo común, poniendo en él la nota indicada en el párrafo que antecede, refiriéndose a cada uno y con las firmas y sellos de quienes vayan a actuar.
 
-La razón de apertura a que se refiere este artículo se anotará en un folio y se encuadernará antes del primer folio del volumen.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
+La razón de apertura a que se refiere este artículo se anotará en una hoja y se encuaderna la antes del primer folio del volumen.
 
 Cuando con posterioridad a la apertura de un volumen haya cambio de Notario o Notarios, los que van a actuar asentarán a continuación del último instrumento extendido, en una hoja en blanco, su nombre, su firma y en su caso, el sello de autorizar. Se procederá de la misma forma cuando se inicie una asociación o una suplencia y en el caso de que el Notario reanude el ejercicio de sus funciones.
 
@@ -813,9 +833,11 @@ III.- Asimismo hará constar el lugar, día y hora en que asiente la razón cita
 
 IV.- Cuando el Notario tenga en operación un juego de varios libros, al concluir cualquiera de ellos, tendrá que hacerlo con todos los del juego.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 97.
 
-Cuando el Notario asiente el último instrumento del volumen en que esté actuando procederá en los términos del artículo que antecede y dispondrá de un plazo de doce meses para encuadernarlo sólidamente.
+Cuando el Notario asiente el último instrumento del juego de volúmenes en que esté actuando, procederá en los términos de las fracciones I a III del artículo que antecede, en lo conducente, y dispondrá de un plazo de seis meses para encuadernar sólidamente cada volumen.
 
 ###### ARTÍCULO 98.
 
@@ -937,11 +959,13 @@ XV.- Cuando los intervinientes firmaren en foja distinta de la del instrumento, 
 
 XVI.- Si los intervinientes quisieren hacer alguna adición, aclaración o variación antes de que el Acta haya sido autorizada definitivamente por el Notario, si hubiere espacio suficiente, se asentará tal adición o modificación sin dejar huecos en blanco, mediante la declaración de que se leyó aquélla, la cual será suscrita por todos los intervinientes y el Notario, quien sellará asimismo al pie, la adición o variación convenida.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 111.
 
-Firmada la escritura por todos los otorgantes y por los testigos e intérpretes, en su caso, inmediatamente después será autorizada previamente por el Notario, con la razón "ante mí", su firma y su sello.
+Firmada la escritura por todos los otorgantes y por los testigos e intérpretes, en su caso, inmediatamente después será autorizada en forma preventiva por el Notario, con la razón "ante mi", su firma y su sello.
 
-Cuando la escritura no fuere firmada en su fecha o no lo fuere simultáneamente por todos los interesados, el Notario irá poniendo el "ante mí", con su sello, firma y la fecha de ésta, a medida que vaya siendo firmada por las partes. Lo mismo hará cuando se haya terminado de firmar por todos los intervinientes, con lo cual la escritura quedará autorizada previamente.
+Cuando la escritura no fuere firmada en su fecha o no la fuere simultáneamente por todos los interesados, el Notario irá poniendo el "ante mi", con su sello, firma y la fecha de ésta, a medida que vaya siendo firmada por las partes, lo mismo hará cuando se haya terminado de firmar por todos los que intervienen, con lo cual la escritura quedará autorizada preventivamente.
 
 ###### ARTÍCULO 112.
 
@@ -985,9 +1009,11 @@ Cuando se trate de revocación o renuncia de un poder que no haya sido extendido
 
 Se prohibe a los Notarios hacer constar revocaciones, rescisiones o modificaciones del contenido de una escritura por simple razón al margen de ella, salvo lo dispuesto en la fracción XVI del artículo 110.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 120.
 
-Siempre que se otorgue un Testamento Público, Abierto o Cerrado, los Notarios darán aviso al Archivo de Notarías, a más tardar dentro de los dos días hábiles siguientes al de su otorgamiento, expresando la fecha de éste, el nombre y generales del testador y los nombres de sus padres si los hubiere expresado. Si el Testamento fuere cerrado se expresará además la persona en cuyo poder se deposite o el lugar en el que se haga el depósito. El Notario podrá recibir en depósito los sobres que contengan los testamentos cerrados que ante él se autentifiquen.
+Siempre que se otorgue un Testamento Público, Abierto o Cerrado, los Notarios darán aviso de testamento al Archivo de Notarias, por vía electrónica, a más tardar dentro de los dos días hábiles siguientes al de su otorgamiento, expresando el lugar y la fecha de éste, el nombre y demás generales del testador, incluyendo su Clave Unica del Registro Nacional de Población, los nombres de sus padres si los hubiere expresado, el número de instrumento y volumen, el tipo de testamento y los datos del Notario. Si el Testamento fuere cerrado se expresará además la persona en cuyo poder se deposite o el lugar en el que se haga el depósito. El Notario podrá recibir en depósito los sobres que contengan los testamentos cerrados que ante él se autentifiquen.
 
 ### CAPÍTULO SEGUNDO. DE LAS ACTAS, DILIGENCIAS Y CERTIFICACIONES
 
@@ -1643,15 +1669,21 @@ III.- Los sellos de los Notarios que deberán depositarse e inutilizarse, según
 
 El Archivo de Notarías estará a cargo de un Titular, el que tiene las siguientes atribuciones y obligaciones:
 
-I.- Asistir todos los días hábiles al despacho de su oficina de acuerdo con las prescripciones de la Secretaría de Gobernación;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+I.- Asistir todos los días hábiles al despacho de su oficina, de acuerdo con las prescripciones de la Secretaria de Gobernación, y comunicar por escrito cualquier falta de sus subalternos;
 
 II.- Cuidar que siempre permanezcan dentro del local del archivo los protocolos, libros y demás documentos que forman dicho archivo, los que en ningún caso podrán ser extraídos;
 
-III.- Comunicar por escrito a la Secretaría de Gobernación cualquier falta de sus subalternos;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+III.- De conformidad con los lineamientos que establezcan sus superiores jerárquicos, intervenir en el cumplimiento de las obligaciones y trámites que las normas, acuerdos y convenios administrativos impongan al Estado, en materia de protocolos, registro o captura y archivo de instrumentos notariados;
 
 IV.- Cuidar de la seguridad y buen orden de los archivos a su cargo, tomando las precauciones necesarias y proponiendo a su superior jerárquico, todas las medidas pertinentes para tal efecto;
 
-V.- Llevar por duplicado un registro anual y alfabético por el primer apellido del otorgante de los testamentos públicos cuyo otorgamiento le comuniquen los Notarios, en el que consten además el nombre y segundo apellido del interesado, la fecha del otorgamiento, el número de instrumento y el de la Notaría correspondiente, así como el nombre y apellidos del Notario y de contarse con los datos, los nombres y apellidos de los padres del testador;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+V.- Llevar un registro anual y alfabético por el primer apellido del otorgante de los testamentos públicos cuyo otorgamiento le comuniquen los Notarios, en el que consten los datos a que se refiere el artículo 120 de la presente Ley, así como remitir por vía electrónica al Registro Nacional de Avisos de Testamento, los avisos de testamento registrados o capturados conforme a las normas, acuerdos y convenios aplicables;
 
 VI.- Conservar en depósito, con toda la seguridad y garantías del caso, los testamentos cerrados que se le entregaren por los interesados o recogiere de los archivos de las Notarías, extendiendo a aquellos el correspondiente recibo en el que constará además, el estado en que se encuentran las cubiertas respectivas, inclusive los sellos;
 
@@ -1696,3 +1728,13 @@ SEXTO.- Lo dispuesto en el artículo 217 de ésta ley por lo que respecta a la p
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil tres.- Diputado Presidente.- HUMBERTO VÁZQUEZ ARROYO.- Rúbrica.- Diputada Vicepresidenta.- MARÍA LEONOR A. POPÓCATL GUTIÉRREZ.- Rúbrica.- Diputado Secretario.- DANIEL ANTELIZ MAGAÑA.- Rúbrica.- Diputado Secretario.- ELISEO PÉREZ SÁNCHEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los once días del mes de diciembre del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ENERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Notarios y las autoridades competentes a que se refiere el presente Decreto, tendrán un plazo de doce meses contados a partir de la entrada en vigor del mismo, para implementar o adecuar los equipos, redes y servicios informáticos que se requieran para el cumplimiento por vía electrónica de las obligaciones que el mismo establece. Durante este plazo, los avisos de testamento, las consultas y los reportes de búsqueda, se podrán formular y remitir de manera impresa.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
