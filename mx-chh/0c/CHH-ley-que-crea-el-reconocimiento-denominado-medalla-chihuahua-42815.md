@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-reconocimiento-denominado-medalla-chihuahua-428
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2007-09-22"
+last_updated: "2008-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL RECONOCIMIENTO DENOMINADO MEDALLA CHIHUAHUA AL MERITO EDUCATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de enero de 2005.
 
@@ -51,15 +51,17 @@ LEY QUE CREA EL RECONOCIMIENTO DENOMINADO "MEDALLA CHIHUAHUA AL MÉRITO EDUCATIV
 
 Se declara de interés público el reconocimiento a individuos e instituciones originarios o que radiquen en el Estado de Chihuahua, que realicen actividades educativas eminentes y que las mismas haya (sic) traído beneficios a esta Entidad Federativa o a la humanidad. Para tal objeto se establece la "Medalla Chihuahua al Mérito Educativo", que se entregará anualmente, de conformidad con las disposiciones establecidas en esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 2.
 
-Se otorgará en la disciplina de educación en todos y cada uno de los siguientes niveles:
+Se otorgarán dos premios, uno en la categoría individual y otro en la categoría de equipo, los cuales deberán ser realizados en la disciplina de educación, en cualquiera de los siguientes niveles:
 
-A).- Educación básica.
+a) Educación básica.
 
-B).- Educación media superior.
+b) Educación media superior.
 
-C).- Educación superior e investigación en el ámbito educativo.
+c) Educación superior e investigación en el ámbito educativo.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2007)</small>
 
@@ -75,27 +77,33 @@ Los trabajos que se presenten deberán ser inéditos y contener una aportación 
 
 Sólo podrán participar las personas que tengan su domicilio y que radiquen actualmente en el Estado y aquellas que siendo chihuahuenses por nacimiento radiquen en la República Mexicana o en el extranjero, pero que su labor educativa repercuta directa o indirectamente en el desarrollo de la educación en la Entidad.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 6.
 
-Las bases sobre las cuales se analizarán los trabajos se emitirán por el Gobierno del Estado a través de la Secretaría de Educación y Cultura y por el H. Congreso del Estado a través de la Presidencia de la Comisión de Educación Pública, Cultura. Ciencia y Tecnología a más tardar en diciembre de cada año, sujetándose a los siguientes lineamientos básicos:
+Las bases sobre las cuales se analizarán los trabajos se emitirán por el Gobierno del Estado, a través de la Secretaría de Educación y Cultura; y por el H. Congreso del Estado, a través de la Presidencia de la Comisión de Educación y Cultura, a más tardar en el mes de diciembre de cada año, sujetándose a los siguientes lineamientos básicos:
 
-I.- Que la actividad no haya sido objeto de reconocimientos anteriores.
+I. Que la actividad no haya sido objeto de reconocimientos anteriores.
 
-II.- Que los trabajos puedan acreditar sus beneficios al Estado o a la humanidad.
+II. Que los trabajos puedan acreditar sus beneficios al Estado o a la humanidad.
 
-III.- Que los trabajos puedan acompañarse del material complementario o explicativo a juicio del autor.
+III. Que los trabajos puedan acompañarse del material complementario o explicativo.
 
-IV.- El certamen quedará abierto a partir de la publicación de la respectiva convocatoria cerrándose el quince de marzo del año correspondiente.
+IV. El certamen quedará abierto a partir de la publicación de la respectiva convocatoria, cerrándose en la fecha que las instancias convocantes determinen.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 7.
 
-El jurado estará integrado por el Presidente de la Comisión de Educación Pública, Cultura, Ciencia y Tecnología, del H. Congreso del Estado, el Titular de la Secretaría de Educación y Cultura, el Gobernador del Estado o un representante designado para tal efecto.
+El jurado se integrará a propuesta del C. Gobernador del Estado, a través del Titular de la Secretaría de Educación y Cultura, y del H. Congreso del Estado, a través del Presidente de la Comisión de Educación y Cultura.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 8.
 
-Los miembros del jurado desempeñarán su cargo personalmente, con excepción del Gobernador. Para la evaluación de los trabajos podrán solicitar el asesoramiento de una o varias personas, quienes deberán tener el grado o candidatos a Doctor en Educación o, en su defecto, Master en Educación y que al aceptar dicha (sic) encargo observarán las normas éticas que exige la convocatoria.
+Los miembros del jurado propuesto en los términos del artículo 7, desempeñarán su cargo personalmente. Para pertenecer al jurado, se deberá tener el grado de Maestría o Doctorado en Educación y, al aceptar dicho encargo, observarán las normas éticas que exige la convocatoria.
 
-En caso de empate, la Comisión de Educación Pública, Cultura, Ciencia y Tecnología del H. Congreso, emitirá el voto de calidad por medio del Presidente de dicha Comisión.
+En caso de empate, la Comisión de Educación y Cultura del H. Congreso, emitirá el voto de calidad por medio del Presidente de dicha Comisión.
 
 ###### ARTÍCULO 9.
 
@@ -158,3 +166,9 @@ P.O. 22 DE SEPTIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor en el momento de su aprobación, sin perjuicio de su publicación en el Periódico Oficial del Estado.
