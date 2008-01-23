@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2007-11-12"
+last_updated: "2008-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,15 +21,13 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2008.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
 Al margen un logotipo, que dice: Financiera Rural.
 
 El Consejo Directivo, en su sesión correspondiente al 28 de marzo de 2003, con fundamento en lo dispuesto por los artículos 33 fracción I de la Ley Orgánica de la Financiera Rural y 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, ha tenido a bien aprobar el siguiente:
-
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS POR EL CONSEJO DIRECTIVO DE LA FINANCIERA RURAL, EN SESION ORDINARIA DEL 9 DE AGOSTO DE 2007, SE MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL CONTENIDO DEL PRESENTE ORDENAMIENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL; Y SI BIEN, DIVERSOS ARTICULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 12 DE NOVIEMBRE DE 2007.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -379,9 +377,13 @@ IV. Dar seguimiento a los acuerdos tomados por el Consejo Directivo cuando funja
 
 V. Coordinar el funcionamiento del área que desempeñe las funciones de contraloría interna, en cuanto a los asuntos que competan a la Dirección General;
 
-VI. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo, y
+VI. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo, y (sic)
 
-VII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo.
+VII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+VIII. Dirigir las actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -393,7 +395,11 @@ I. Dirigir las actividades que permitan vincular a la Financiera con dependencia
 
 II. Supervisar el seguimiento a las solicitudes de información hechas por las dependencias y entidades, así como los señalados en la fracción anterior;
 
-III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende Director General Adjunto de la Secretaría Técnica.
+III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende Director General Adjunto de la Secretaría Técnica;
+
+> <small>(ADICIONADA, D.O.F 23 DE ENERO DE 2008)</small>
+
+IV. Generar vínculos estratégicos y de cooperación, así como propiciar la celebración de convenios de colaboración e intercambio de información, experiencias y tecnología, con entidades nacionales e internacionales.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -503,19 +509,37 @@ VIII. Coordinar las acciones jurídico corporativas y ser el conducto de la Fina
 
 IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 26.
 
-Corresponde a la Dirección General Adjunta de Programas y Productos:
+Corresponde a la Dirección General Adjunta de Planeación Estratégica y Análisis Sectorial:
 
-I. Dirigir la instrumentación de productos y programas de atención a los segmentos del mercado objetivo de la Institución;
+I. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-II. Dirigir las actividades de seguimiento y evaluación de la operación de las coordinaciones regionales y agencias;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-III. Coadyuvar con las unidades administrativas correspondientes para el desarrollo del programa operativo anual, y
+II. Dirigir las actividades de seguimiento y evaluación de la operación crediticia de las Coordinaciones Regionales y Agencias;
 
-IV. Presentar al Consejo políticas para la selección, aceptación y administración de negocios fiduciarios, de la prestación de la actividad valuatoria así como de programas y fondos que deriven de las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
+III. Coadyuvar con las unidades administrativas correspondientes para el desarrollo del programa operativo anual, y (sic)
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+IV. Presentar al Consejo políticas para la selección, aceptación y administración de negocios fiduciarios, de la prestación de la actividad valuatoria así como de la administración de fondos que deriven de las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+V. Dirigir la elaboración de mecanismos para dar seguimiento a la cobranza de la cartera crediticia;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+VI. Dirigir las actividades de análisis del mercado objetivo de la Financiera Rural y análisis de las tendencias nacionales e internacionales de los mercados vinculados al medio rural; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+VII. Dirigir las actividades relativas a la planeación estratégica de la institución.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -537,51 +561,57 @@ VI. Coadyuvar en la preparación de la información que por Ley y disposiciones 
 
 VII. Establecer mecanismos de evaluación que permitan detectar variaciones respecto de los resultados de los programas y productos;
 
-VIII. Establecer mecanismos para dar seguimiento a la gestión de cobranza;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-IX. Establecer mecanismos para el seguimiento y supervisión de Intermediarios regulados y no regulados;
+VIII. Establecer mecanismos para dar seguimiento a la gestión de cobranza de la cartera crediticia;
 
-X. Participar en la elaboración de diagnósticos de la operación, detectando debilidades y fortalezas que permitan actuar de forma preventiva, autocrítica y propositiva en el funcionamiento de las Coordinaciones Regionales y Agencias;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XI. Contribuir a la mejora continua de los programas y procesos de la Financiera Rural;
+IX.- Establecer mecanismos para el seguimiento de intermediarios regulados y no regulados;
 
-XII. Coordinar las actividades tendientes al seguimiento del cumplimiento de Programas Especiales;
+X. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XIII. Coadyuvar en la promoción de las líneas de negocio de la Financiera Rural, a través de los programas y productos de crédito, negocios fiduciarios vigentes y de los programas de apoyo que se determinen en el Presupuesto de Egresos de la Federación en materia de financiamiento rural, a cargo de la Dirección General Adjunta de Programas y Productos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XIV. Identificar nuevas oportunidades y mejoras a la oferta existente de programas y productos de crédito, negocios fiduciarios vigentes y de los programas de apoyo que se determinen en el Presupuesto de Egresos de la Federación en materia de financiamiento rural, a cargo de la Dirección General Adjunta de Programas y Productos, mediante el contacto permanente con las Agencias, las Coordinaciones Regionales y las agrupaciones de clientes de la Institución;
+XI. Contribuir a la mejora continua e innovación de los programas, productos y procesos de la Financiera Rural;
 
-XV. Establecer esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural.
+XII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+XIII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XIV. Contribuir en la identificación de nuevas oportunidades y mejoras a la oferta existente de programas y productos de crédito, negocios fiduciarios vigentes y de los programas de apoyo que se determinen en el Presupuesto de Egresos de la Federación en materia de financiamiento rural, mediante el contacto permanente con las Agencias, las Coordinaciones Regionales y las agrupaciones de clientes de la Institución;
+
+XV. Establecer esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XVI. Llevar a cabo las tareas relativas a la planeación estratégica de la institución o coordinar su elaboración a través de prestadores de servicios especializados en la materia; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XVII. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
+
+ARTICULO 27 BIS. Corresponde a la Subdirección Corporativa de Análisis Sectorial:
+
+I. Realizar el análisis del mercado objetivo de la Financiera Rural, o coordinar su elaboración a través de prestadores de servicios especializados, identificando áreas de oportunidad que permitan a la institución colaborar en el desarrollo del sector rural;
+
+II. Realizar el análisis de las tendencias nacionales e internacionales de los mercados agrícolas, forestales, pesqueros y todos los demás sectores vinculados al medio rural, o coordinar su elaboración a través de prestadores de servicios especializados;
+
+III. Realizar los trabajos de investigación que le sean encomendados en el ámbito de su competencia, o coordinar su elaboración a través de prestadores de servicios especializados; y
+
+IV. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
 
 ###### ARTICULO 28.
 
-Corresponde a la Dirección Ejecutiva de Diseño de Programas y Productos:
-
-I. Proponer la creación y adecuación de programas y productos de crédito o garantía, de acuerdo a las necesidades del mercado y objetivos de la Institución y participar activamente en el desarrollo e implementación de los mismos;
-
-II. Supervisar la implantación de los programas de colocación diseñados en conjunto con el Gobierno Federal, Estatal y/o Municipal, con Intermediarios Financieros Rurales, así como los programas de microcrédito, a través de los distintos procesos y productos de crédito que ofrece la Financiera;
-
-III. Coordinar la investigación de campo a fin de conocer los movimientos y tendencias del sector en la oferta de productos y servicios; coordinar la investigación de campo que permita un continuo monitoreo de la rentabilidad de los productos y servicios que ofrece la institución a su clientela;
-
-IV. Elaborar en coordinación con otras áreas de la institución, en su caso, estudios que propicien mejores condiciones de mercado y la conveniencia de operar nuevos productos y servicios, que permitan a la Institución ofrecer un servicio integral y competitivo, e
-
-V. Instrumentar los programas específicos que en materia de financiamiento rural se determinen en el Presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasa preferenciales, así como coordinarse con instancias que aporten capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de la Financiera.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
 ###### ARTICULO 29.
 
-Corresponde a la Subdirección Corporativa de Desarrollo de Programas y Productos de Crédito:
-
-I. Participar en el diseño de productos y programas de crédito o garantía;
-
-II. Desarrollar e implementar productos y programas de crédito o garantía;
-
-III. Desarrollar y dar seguimiento a los programas específicos que en materia de financiamiento rural se determinen en el presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasa preferenciales, así como coordinarse con instancias que aporten capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de la Financiera, y
-
-IV. Llevar a cabo la implantación de los programas diseñados con el Gobierno Federal, Estatal y/o municipal, con Intermediarios Financieros Rurales, así como los programas de microcrédito, a través de los distintos procesos y productos de crédito que ofrece la Financiera.
+(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -603,9 +633,15 @@ VI. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo 
 
 VII. Emitir lineamientos para la gestión y administración de mandatos y comisiones, así como de control de peritos;
 
-VIII. Supervisar la ejecución de las disposiciones de la Comisión Nacional Bancaria y de Valores en materia de fideicomisos, mandatos y comisiones, y
+VIII. Supervisar la ejecución de las disposiciones de la Comisión Nacional Bancaria y de Valores en materia de fideicomisos, mandatos y comisiones, y (sic)
 
-IX. Realizar la actividad de administración de programas y de fondos que deriven de las disposiciones aplicables y que le sean encomendadas.
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+IX. Realizar la actividad de administración de fondos que deriven de las disposiciones aplicables y que le sean encomendadas; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+X. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, mandatos y comisiones.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -627,21 +663,9 @@ VI. Proponer al Director General el nombramiento, remover, cambiar de adscripci�
 
 VII. Atraer los asuntos en materia crediticia, que a consideración del Director General Adjunto de Crédito deban ser atendidos directamente por dicho servidor público.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
 ###### ARTICULO 32.
 
-Corresponde a la Dirección Ejecutiva de Operación:
-
-I. Establecer mecanismos de revisión para que las operaciones de crédito cumplan con los términos y condiciones establecidos por los órganos e instancias facultadas;
-
-II. Proponer los lineamientos para el registro, resguardo y custodia de la documentación legal, de garantías y valores que respaldan los créditos autorizados;
-
-III. Coordinar que sean procesadas las operaciones de crédito de la mesa de control;
-
-IV. Establecer los mecanismos para la verificación, autorización y liberación de recursos, y
-
-V. Coordinar y establecer mecanismos de supervisión sobre la aplicación de la concentración de recursos recibidos.
+(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -651,25 +675,23 @@ Corresponde a la Subdirección Corporativa de Mesa de Control:
 
 I. Establecer los mecanismos para que las operaciones de crédito se apeguen a los términos y condiciones aprobados por los órganos e instancias facultadas;
 
-II. Coordinar que periódicamente las agencias designadas, cuenten en el guardavalores con la documentación original que respalde la operación de diversos créditos, y
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-III. Llevar a cabo aquellas funciones y actividades que correspondan al área de influencia establecidas en la normatividad aplicable, incluyendo las recomendaciones en materia de control interno realizadas por las autoridades competentes.
+II. Coordinar que periódicamente las agencias designadas, cuenten en el guardavalores con la documentación original que respalde las operaciones de crédito;
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+III. Llevar a cabo aquellas funciones y actividades que correspondan al área de influencia establecidas en la normatividad aplicable, incluyendo las recomendaciones en materia de control interno realizadas por las autoridades competentes;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+IV.- Coordinar que sean procesadas las operaciones de crédito de la mesa de control; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+V.- Establecer los mecanismos de verificación y autorización de la liberación de recursos.
 
 ###### ARTICULO 34.
 
-Corresponde a la Subdirección Corporativa de Operación Crediticia:
-
-I. Coordinar la dispersión de recursos;
-
-II. Coordinar la aplicación de la concentración de los recursos recibidos;
-
-III. Coordinar que se lleve a cabo la conciliación de las cifras de cartera con la contabilidad institucional así como la definición de los perfiles de usuarios para la operación;
-
-IV. Coordinar el procesamiento de las operaciones de crédito que le envíe la mesa de control, y
-
-V. Coordinar la definición, administración y operación de la base de datos de cartera institucional.
+(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -709,47 +731,97 @@ VI. Llevar a cabo el seguimiento de los procesos de crédito, y
 
 VII. Coordinar y proponer programas de capacitación en materia de normatividad y procesos de crédito.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 37.
 
-Corresponde a la Dirección General Adjunta de Fomento y Desarrollo:
+Corresponde a la Dirección General Adjunta de Fomento y Promoción de Negocios:
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 I. Establecer y dirigir los programas, planes, proyectos, acciones, políticas y compromisos en materia de promoción, capacitación, asesoría, consultoría, organización y otras modalidades, destinados al diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 II. Establecer y dirigir estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera Rural, mediante la asociación de los productores y el desarrollo de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Proporcionar apoyos y servicios de promoción, capacitación, asesoría, organización y otras modalidades que contribuyan al desarrollo sustentable de los proyectos productivos, empresas rurales y del fortalecimiento técnico de las organizaciones de productores para la mejor utilización de sus recursos crediticios;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 IV. Proporcionar apoyos y servicios de promoción, capacitación, consultoría y otras modalidades que contribuyan al diseño, incubación y fortalecimiento de entidades dispersoras de crédito e Intermediarios Financieros Rurales;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 V. Administrar los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 VI. Celebrar todo tipo de convenios con los sectores público, social y privado a nivel nacional e internacional que contribuyan a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales, previa validación de la Dirección General Adjunta Jurídica;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 VII. Establecer y dirigir el desarrollo de programas de detección de oportunidades de negocio en las zonas rurales, con el propósito de definir estrategias de promoción ante instituciones nacionales e internacionales orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 VIII. Establecer y dirigir vínculos estratégicos con instituciones nacionales e internacionales con posibilidades de invertir en proyectos productivos que impulsen el desarrollo del campo;
 
-IX. Establecer y dirigir planes y programas de cooperación entre instituciones nacionales e internacionales, a fin de intercambiar experiencias, tecnología y capacitación sobre proyectos productivos;
+IX. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-X. Fomentar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas de instituciones nacionales e internacionales, y
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-XI. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares.
+X. Fomentar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas de instituciones nacionales e internacionales, y (sic)
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
+XI. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XII. Establecer y dirigir las actividades de seguimiento y evaluación de la promoción del crédito de las Coordinaciones Regionales y Agencias;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XIII. Coadyuvar en la promoción de las líneas de negocio de la Financiera Rural, por medio de los programas y productos de crédito y de los programas de apoyo que se determinen en el Presupuesto de Egresos de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XIV. Coordinar la preparación de reportes de seguimiento de las agencias en materia de fomento y promoción del crédito;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XV. Establecer, dirigir y supervisar la función de promoción a través de técnicas de mercadeo, la venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XVI. Dirigir la instrumentación de productos y programas de atención a los segmentos del mercado objetivo de la Institución.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 38.
 
-Corresponde a la Dirección Ejecutiva de Atención y Fomento:
+Corresponde a la Dirección Ejecutiva de Atención y Fomento a Productores, organizaciones y Empresas Rurales:
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 I. Diseñar los programas, planes, proyectos, y acciones destinadas al diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e intermediarios financieros rurales;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 II. Diseñar estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera Rural, mediante la asociación de los Productores y el desarrollo de proyectos productivos, empresas rurales, entidades dispersoras de crédito e intermediarios financieros rurales;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 IV. Coordinar los convenios celebrados con los sectores público, social y privado destinados a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, entidades dispersoras de crédito e intermediarios financieros rurales, y
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 V. Aprobar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas rurales y organizaciones de productores.
 
@@ -769,37 +841,69 @@ IV. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y
 
 V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 40.
 
-Corresponde a la Subdirección Corporativa de Atención y Fomento a Intermediarios Financieros Rurales:
+Corresponde a la Subdirección Ejecutiva de Atención y Fomento a Intermediarios Financieros Rurales:
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 I. Coordinar los programas, planes, proyectos para proporcionar los apoyos y servicios de promoción, capacitación, consultoría y otras modalidades que contribuyan al diseño, incubación y fortalecimiento de entidades dispersoras de crédito e intermediarios financieros;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 II. Coordinar las estrategias para simplificar la atención a los usuarios de los servicios crediticios de la Financiera Rural, mediante la constitución, operación y desarrollo de las entidades dispersoras de crédito e Intermediarios Financieros Rurales;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Coordinar las acciones previstas en los convenios celebrados con los sectores público, social y privado destinadas a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de entidades dispersoras de crédito e Intermediarios Financieros Rurales;
 
-IV. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y servicios para las entidades dispersoras de crédito e Intermediarios Financieros Rurales, y
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares.
+IV. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y servicios para las entidades dispersoras de crédito e Intermediarios Financieros Rurales, y (sic)
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
+V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+VI. Coadyuvar en el establecimiento y dirección de las actividades de seguimiento y evaluación de promoción del crédito;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+VII. Apoyar a la Dirección General Adjunta en la promoción de las líneas de negocio de la Financiera Rural por medio de los programas y productos de crédito y de los programas de apoyo que determine el Presupuesto de Egresos de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+VIII. Coadyuvar en el establecimiento, dirección y supervisión de la función de promoción a través de técnicas de mercadeo, venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo crediticio; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+IX. Coadyuvar en la coordinación de la preparación de los reportes de seguimiento de la agencias (sic) en materia de fomento y promoción del crédito.
 
 ###### ARTICULO 41.
 
-Corresponde a la Subdirección Corporativa de Promoción de Proyectos Productivos:
+(DEROGADO, D.O.F 23 DE ENERO DE 2008)
 
-I. Coordinar el desarrollo de programas de detección de oportunidades de negocio en las zonas rurales, con el propósito de definir estrategias de promoción ante instituciones nacionales e internacionales orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural;
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
 
-II. Generar vínculos estratégicos con instituciones nacionales e internacionales con posibilidades de invertir en proyectos productivos que impulsen el desarrollo del campo;
+ARTICULO 41 BIS.- Corresponde a la Dirección Ejecutiva de Diseño de Programas y Productos:
 
-III. Diseñar planes y programas de cooperación entre instituciones nacionales e internacionales, a fin de intercambiar experiencias, tecnología y capacitación sobre proyectos productivos;
+I. Proponer la creación y adecuación de programas y productos de crédito o garantía, de acuerdo a las necesidades del mercado y objetivos de la Institución y participar activamente en el desarrollo e implementación de los mismos;
 
-IV. Coordinar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas de instituciones nacionales e internacionales, y
+II. Supervisar la implantación de los programas de colocación diseñados en conjunto con el Gobierno Federal, Estatal y/o Municipal, con Intermediarios Financieros Rurales, así como los programas de microcrédito, a través de los distintos procesos y productos de crédito que ofrece la Financiera;
 
-V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares.
+III. Coordinar la investigación de campo a fin de conocer los movimientos y tendencias del sector en la oferta de productos y servicios; coordinar la investigación de campo que permita un continuo monitoreo de la rentabilidad de los productos y servicios que ofrece la institución a su clientela;
+
+IV. Elaborar en coordinación con otras áreas de la institución, en su caso, estudios que propicien mejores condiciones de mercado y la conveniencia de operar nuevos productos y servicios, que permitan a la Institución ofrecer un servicio integral y competitivo;
+
+V. Instrumentar los programas específicos que en materia de financiamiento rural se determinen en el Presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasa preferenciales, así como coordinarse con instancias que aporten capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de la Financiera;
+
+VI. Coordinar el desarrollo de programas de detección de oportunidades de negocio en las zonas rurales, con el propósito de definir estrategias de promoción orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural; y
+
+VII. Coordinar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas institucionales.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -893,23 +997,37 @@ XI. Dirigir y supervisar la instrumentación de las políticas de seguridad y pr
 
 XII. Coordinar el funcionamiento de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, y aquellos que se instalen competencia (sic) de su área.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 45.
 
-Corresponde a la Dirección General Adjunta de Finanzas y Planeación:
+Corresponde a la Dirección General Adjunta (sic) Finanzas, Operaciones y Sistemas:
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 I. Establecer directrices para conformar el plan estratégico institucional;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 II. Dictar estrategias y políticas en materia contable y fiscal, encaminadas al cumplimiento de las obligaciones que al respecto tiene la institución de acuerdo a las leyes y normas vigentes;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Establecer directrices para la implantación de sistemas de información financiera y de gestión, tendientes a evaluar el desempeño institucional y satisfacer requerimientos de información internos y externos al respecto;
 
-IV. Dictar estrategias y políticas relativas a la planeación y administración de la tesorería de la institución;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-V. Dictar estrategias y políticas para la planeación y administración de la plataforma informática institucional;
+IV. Dictar estrategias y políticas relativas a la planeación financiera y administración de la tesorería de la institución;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+V. Dictar estrategias y políticas para la planeación financiera y administración de la plataforma informática institucional;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 VI. Dictar políticas y estrategias en materia presupuestal, y
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 VII. Definir estrategias y políticas encaminadas al desarrollo e implantación del sistema de gestión de calidad y el programa de certificación y mejora continua.
 
@@ -974,6 +1092,32 @@ V. Emitir lineamientos para la programación, presupuestación, el control y el 
 VI. Controlar la información presupuestal para responder a los requerimientos internos y externos de las autoridades, y
 
 VII. Proponer estrategias y proyectos encaminados a mejorar el aprovechamiento del portafolio de inversiones.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
+
+ARTICULO 48 BIS.- Corresponde a la Dirección Ejecutiva de Operación:
+
+I. Establecer mecanismos de revisión para que las operaciones de crédito cumplan con los términos y condiciones establecidos por los órganos e instancias facultadas;
+
+II. Proponer los lineamientos para el registro, resguardo y custodia de la documentación legal, de garantías y valores que respaldan las operaciones de crédito autorizadas;
+
+III. Establecer los mecanismos para la liberación de recursos; y
+
+IV. Coordinar y establecer mecanismos de supervisión sobre la aplicación de la concentración de recursos recibidos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
+
+ARTICULO 48 TER.- Corresponde a la Subdirección Corporativa de Operación Crediticia:
+
+I. Coordinar la dispersión de recursos;
+
+II. Coordinar la aplicación de la concentración de los recursos recibidos;
+
+III. Coordinar que se lleve a cabo la conciliación de las cifras de cartera con la contabilidad institucional así como la definición de los perfiles de usuarios para la operación;
+
+IV. Coordinar el procesamiento de las operaciones de crédito que le envíe la mesa de control; y
+
+V. Coordinar la definición, administración y operación de la base de datos de cartera institucional.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1371,15 +1515,21 @@ II. Un representante del Banco de México;
 
 III. El Director General Adjunto de Crédito;
 
-IV. El Director General Adjunto de Programas y Productos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-V. El Director General Adjunto de Fomento y Desarrollo;
+IV. El Director General Adjunto de Planeación Estratégica y Análisis Sectorial;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+V. El Director General Adjunto de Fomento y Promoción de Negocios;
 
 VI. El Director General Adjunto de Administración;
 
 VII. El Director General Adjunto Jurídico;
 
-VIII. El Director General Adjunto de Finanzas y Planeación;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+VIII. El Director General Adjunto (sic) Finanzas, Operaciones y Sistemas;
 
 IX. El Prosecretario del Consejo Directivo, y
 
@@ -1413,13 +1563,19 @@ El Comité de Crédito estará integrado de la siguiente forma:
 
 I. Presidente: El Director General Adjunto de Crédito;
 
-II. Presidente Suplente y Vocal: El Director General Adjunto de Finanzas y Planeación;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+II. Presidente Suplente y Vocal: El Director General Adjunto de Finanzas, Operaciones y Sistemas;
 
 III. Secretario: El Subdirector Corporativo de Análisis de Crédito;
 
-IV. El Director General Adjunto de Programas y Productos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-V. El Director General Adjunto de Fomento y Desarrollo;
+IV. El Director General Adjunto de Planeación Estratégica y Análisis Sectorial;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+V. El Director General Adjunto de Fomento y Promoción de negocios;
 
 VI. El Director General Adjunto Jurídico;
 
@@ -1566,3 +1722,7 @@ UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comp
 D.O.F. 12 DE NOVIEMBRE DE 2007.
 
 UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ENERO DE 2008.
+
+UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comprenden, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
