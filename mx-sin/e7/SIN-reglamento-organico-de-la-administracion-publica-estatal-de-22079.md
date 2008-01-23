@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2007-10-10"
+last_updated: "2008-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2008.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -549,13 +549,17 @@ A la Secretaría de Comunicaciones y Obras Públicas le corresponde el despacho 
 
 I. Formular y conducir las políticas en materia de comunicaciones y obras públicas de acuerdo a las necesidades del Estado;
 
-II. Realizar directamente, por conducto de la Comisión Constructora de Sinaloa o a través de terceros, todas las obras públicas del Gobierno del Estado, conforme a los programas y presupuestos aprobados, por dichas dependencias y organismos, incluyendo su conservación y mantenimiento;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+II. Realizar directamente, por conducto de la Comisión Constructora de Sinaloa o a través de terceros, todas las obras públicas del Gobierno del Estado, conforme a los programas y presupuestos aprobados, por dichas dependencias y organismos, incluyendo su conservación y mantenimiento, con excepción de las correspondientes al programa general de obra en infraestructura educativa, incluyendo los subprogramas básico, emergente y el del Programa de Abatir el Rezago en la Educación Inicial y Básica, las cuales serán realizadas por el Comité Administrador del Programa de Construcción de Escuelas del Estado de Sinaloa;
 
 III. Elaborar directamente o a través de terceros, los proyectos de ingeniería y arquitectónicos que se requieran para las obras públicas de las dependencias y organismos del Gobierno del Estado, incluyendo el cálculo de costos de dichos proyectos, para efectos de aprobación y ejercicio del presupuesto.
 
 Los proyectos anteriores se elaborarán considerando las solicitudes de las dependencias y organismos del Gobierno del Estado, las cuales, además, tendrán la atribución de aprobarlos para incluirlos en sus programas y presupuestos respectivos;
 
-IV. Proyectar y ejecutar directamente o contratar y vigilar la construcción de las obras públicas que realicen las dependencias y organismos del Gobierno del Estado por sí o en cooperación con el gobierno federal, con los municipios, con otras entidades públicas o con los particulares y que no se encomienden expresamente a otras dependencias;
+(REFORMADA, P.O. 23 DE ENERO DE 2008) (F. DE E., P.O. 25 DE ENERO DE 2008)
+
+IV. Construir, reconstruir y conservar directamente o a través de la Comisión Constructora de Sinaloa, los caminos, puentes, edificios públicos, monumentos, obras de ornato, plazas, paseos y parques públicas, instalaciones y obras públicas en general del Estado o que estén a su cargo, excepto las encomendadas al sector educativo, a los ayuntamientos o por disposición expresa de la ley a otras dependencias;
 
 V. Realizar directamente, a través de la Comisión Constructora de Sinaloa o de terceros, las obras públicas que establezcan los convenios del Gobierno del Estado o sus dependencias y organismos, con los ayuntamientos;
 
@@ -1530,3 +1534,11 @@ La Comisión que se integre ejercerá las funciones necesarias y proveerá lo co
 P.O. 10 DE OCTUBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE ENERO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Toda la construcción, rehabilitación y mantenimiento de espacios educativos que opera actualmente la Secretaría de Comunicaciones y Obras Públicas, continuarán hasta su eficaz terminación y cumplimiento.
+
+Artículo Tercero.- Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
