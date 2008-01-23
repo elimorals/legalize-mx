@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-48393
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-02-08"
-last_updated: "2007-08-17"
+last_updated: "2008-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48393&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-01-23"
 
 ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2008.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 8 de febrero de 2006.
 
@@ -649,25 +649,27 @@ XXIV. Gestionar el registro de los derechos de propiedad intelectual, derechos d
 
 XXV. Expedir copias certificadas de documentos y constancias existentes en los archivos del Organismo;
 
-XXVI. Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Federal para la ejecución y difusión de programas en materia de asistencia social ante organismos internacionales y multilaterales;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE ENERO DE 2008)</small>
 
-XXVII. Representar al Titular del Organismo ante la Secretaría de Relaciones Exteriores, embajadas y consulados mexicanos, así como ante organismos e instituciones internacionales relacionadas con actividades de asistencia social;
+XXVI. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
 
-XXVIII. Conducir los esfuerzos de coordinación y concertación del Organismo ante los consulados mexicanos, para la atención asistencial de connacionales en condición vulnerable, residentes en el extranjero;
+XXVII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XXIX. Establecer y operar mecanismos de información que permitan conocer la situación que guardan las circunstancias de riesgo social, que afecten a ciudadanos mexicanos en condiciones de vulnerabilidad social residentes en el extranjero;
+XXVIII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XXX. Proponer proyectos y programas de cooperación internacional, correspondientes a las acciones de protección y asistencia social desarrolladas bajo la responsabilidad del Organismo;
+XXIX. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XXXI. Promover el cumplimiento de los acuerdos y convenios celebrados con organismos internacionales por el gobierno mexicano en lo general y el Organismo en lo particular, para la ejecución de programas y acciones de asistencia social;
+XXX. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XXXII. Emitir opinión de los acuerdos en materia de asistencia social, de carácter binacional o multilateral, planteados por organismos o instituciones internacionales en los que se involucre el Organismo;
+XXXI. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XXXIII. Representar al Titular del Organismo ante organismos financieros internacionales participantes en el desarrollo de proyectos de asistencia social, conjuntamente con el Oficial Mayor;
+XXXII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XXXIV. Concertar la participación del Organismo en conferencias y congresos nacionales e internacionales de carácter binacional o multilateral y coordinar la participación de organismos e instituciones internacionales en reuniones y eventos de dicho carácter, promovidos por el Organismo, y
+XXXIII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XXXV. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
+XXXIV. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
+
+XXXV. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
 ###### ARTICULO 26.
 
@@ -695,7 +697,45 @@ X. Mantener coordinación y comunicación permanente con los medios de comunicac
 
 XI. Desarrollar campañas, eventos, boletines de prensa, entrevistas y conferencias relativos a los programas del Organismo y coordinar la contratación de los medios de comunicación que se requieran para su realización;
 
-XII. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE ENERO DE 2008)</small>
+
+XII. Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Federal para la ejecución y difusión de programas en materia de asistencia social ante organismos internacionales y multilaterales;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XIII. Representar al Titular del Organismo ante la Secretaría de Relaciones Exteriores, embajadas y consulados mexicanos, así como ante organismos e instituciones internacionales relacionadas con actividades de asistencia social;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XIV. Conducir los esfuerzos de coordinación y concertación del Organismo ante los consulados mexicanos, para la atención asistencial de connacionales en condición vulnerable, residentes en el extranjero;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XV. Establecer y operar mecanismos de información que permitan conocer la situación que guardan las circunstancias de riesgo social, que afecten a ciudadanos mexicanos en condiciones de vulnerabilidad social residentes en el extranjero;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XVI. Proponer proyectos y programas de cooperación internacional, correspondientes a las acciones de protección y asistencia social desarrolladas bajo la responsabilidad del Organismo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XVII. Promover el cumplimiento de los acuerdos y convenios celebrados con organismos internacionales por el gobierno mexicano en lo general y el Organismo en lo particular, para la ejecución de programas y acciones de asistencia social;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XVIII. Emitir opinión de los acuerdos en materia de asistencia social, de carácter binacional o multilateral, planteados por organismos o instituciones internacionales en los que se involucre el Organismo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XIX. Representar al Titular del Organismo ante organismos financieros internacionales participantes en el desarrollo de proyectos de asistencia social, conjuntamente con el Oficial Mayor;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XX. Concertar la participación del Organismo en conferencias y congresos nacionales e internacionales de carácter binacional o multilateral y coordinar la participación de organismos e instituciones internacionales en reuniones y eventos de dicho carácter, promovidos por el Organismo, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XXI. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
 
 ###### ARTICULO 27.
 
@@ -789,43 +829,83 @@ II. Promover estudios e investigaciones sobre las causas y efectos de la vulnera
 
 III. Instrumentar programas y acciones del Organismo, orientados a la prevención de riesgos que enfrentan las niñas y niños en edad temprana, con énfasis en aspectos asistenciales y formativos;
 
-IV. Promover programas y proyectos para la prevención o atención de problemáticas que afectan a la infancia y adolescencia, tales como la incorporación temprana al trabajo, a la calle, la explotación sexual comercial infantil, el embarazo adolescente, las adicciones y demás problemáticas;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-V. Fomentar la participación de las niñas, niños y adolescentes en actividades relacionadas con el conocimiento, promoción y difusión de sus derechos, en los diversos espacios en que interactúan;
+IV. Promover, diseñar e instrumentar modelos, estrategias y acciones integrales de intervención para la prevención o atención de problemáticas que afectan a la infancia y adolescencia de acuerdo a las características y necesidades de las niñas, niños, adolescentes y sus familias, tales como la incorporación temprana al trabajo, a la calle, la explotación sexual comercial infantil, el embarazo adolescente, la migración infantil, las adicciones y demás problemáticas;
 
-VI. Impulsar, a través de los programas destinados a la prevención y atención de las problemáticas de la infancia y adolescencia, el desarrollo de acciones con perspectiva familiar y comunitaria, en el marco de la Convención sobre los Derechos del Niño;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-VII. Promover y establecer mecanismos de compensación y estímulo en apoyo a grupos de población infantil vulnerable;
+V. Impulsar, a través de los programas destinados a la prevención y atención de las problemáticas de la infancia y adolescencia, el desarrollo de acciones con perspectiva familiar y comunitaria, en el marco de la Convención sobre los Derechos del Niño;
 
-VIII. Promover el desarrollo y adopción de lineamientos, estrategias de atención y metodologías de participación para la prevención y atención de la infancia y la adolescencia en riesgo, por parte del Sistema Nacional de Asistencia Social Pública y Privada;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-IX. Instrumentar acciones de promoción y difusión de los derechos de las niñas, niños y adolescentes, orientadas a cimentar una cultura de respeto, tolerancia y protección hacia la población infantil en el marco de la Convención sobre los Derechos del Niño, con la participación de las niñas, niños y adolescentes y del Sistema Nacional de Asistencia Social Pública y Privada;
+VI. Promover y establecer mecanismos de compensación y estímulo en apoyo a grupos de población infantil vulnerable;
 
-X. Promover acciones y programas que fomenten el ejercicio de los derechos de las niñas, niños y adolescentes, la satisfacción de sus necesidades y su salud física y emocional;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XI. Promover el conocimiento del marco legal en materia de protección de los derechos de las niñas, niños y adolescentes atendiendo a su interés superior;
+VII. Promover el desarrollo y adopción de lineamientos, estrategias de atención y metodologías de participación para la prevención y atención de la infancia y la adolescencia en riesgo, por parte del Sistema Nacional de Asistencia Social Pública y Privada;
 
-XII. Coadyuvar en la identificación de necesidades para las adecuaciones al marco legal en materia de protección a la infancia y adolescencia;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XIII. Participar en el Programa de Acción 2002-2010: Un México apropiado para la Infancia y la Adolescencia, coordinando la participación de las dependencias federales y estatales, involucradas en el Capítulo de Protección Integral;
+VIII. Fomentar acciones de promoción y difusión de los derechos de las niñas, niños y adolescentes, orientadas a cimentar una cultura de respeto, tolerancia y protección hacia la población infantil en el marco de la Convención sobre los Derechos del Niño, con la participación de las niñas, niños y adolescentes y del Sistema Nacional de Asistencia Social Pública y Privada;
 
-XIV. Desarrollar acciones de fortalecimiento a los programas y proyectos que se establezcan en el marco de la cooperación con organismos nacionales e internacionales, en el ámbito de la protección de las niñas, niños y adolescentes en situación de vulnerabilidad;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XV. Promover la celebración de acuerdos y convenios de colaboración con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, dependencias, entidades e instituciones públicas y privados (sic) para desarrollar y fortalecer los programas y proyectos de asistencia social para la infancia y adolescencia;
+IX. Coadyuvar en la identificación de necesidades para las adecuaciones al marco legal en materia de protección a la infancia y adolescencia;
 
-XVI. Promover el diseño e instrumentación de modelos de intervención orientados a la prevención y atención de problemáticas que afecten a la infancia y la adolescencia;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XVII. Impulsar procesos de certificación en Normas Técnicas de Competencia Laboral dirigidas al personal del Organismo y de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia que participan en los programas de infancia y adolescencia;
+X. Participar en el diseño e instrumentación de planes y programas estratégicos para la protección integral de las niñas, niños y adolescentes;
 
-XVIII. Coadyuvar en la formulación de propuestas de anteproyecto de normas oficiales mexicanas en materia de infancia y adolescencia;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XIX. Con base a los presupuestos autorizados, establecer los mecanismos de asignación, control y seguimiento de los recursos transferidos a los Sistemas Estatales para el Desarrollo Integral de la Familia para apoyar los programas de infancia y adolescencia;
+XI. Desarrollar acciones de fortalecimiento a los programas y proyectos que se establezcan en el marco de la cooperación con organismos nacionales e internacionales, en el ámbito de la protección de las niñas, niños y adolescentes en situación de vulnerabilidad;
 
-XX. Coadyuvar en el cumplimiento de la Ley para la Protección de los Derechos de las niñas, niños y adolescentes atendiendo al interés superior de la infancia;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XXI. Establecer los mecanismos para la promoción, capacitación, evaluación y seguimiento de los programas dirigidos a la infancia y adolescencia en los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia;
+XII. Promover la celebración de acuerdos y convenios de colaboración con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, dependencias, entidades e instituciones públicas y privados (sic) para desarrollar y fortalecer los programas y proyectos de asistencia social para la infancia y adolescencia;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XIII. Promover el diseño e instrumentación de modelos, estrategias y acciones integrales de intervención de acuerdo a las características y necesidades de las niñas, niños, adolescentes y sus familias;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XIV. Impulsar procesos de certificación en Normas Técnicas de Competencia Laboral dirigidas al personal del Organismo y de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia que participan en los programas de infancia y adolescencia;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XV. Con base a los presupuestos autorizados, establecer los mecanismos de asignación, seguimiento y justificación de los recursos transferidos a los Sistemas Estatales para el Desarrollo Integral de la Familia para apoyar los modelos, estrategias y acciones integrales de intervención dirigidas a infancia y adolescencia;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XVI. Establecer los mecanismos para la promoción, capacitación, evaluación y seguimiento de los modelos, estrategias y acciones integrales de intervención dirigidos a la infancia y adolescencia en los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XVII. Coordinar el Sistema Nacional de Guarderías y Estancias Infantiles conforme a lo señalado en la normatividad aplicable, a fin de articular la oferta interinstitucional de cuidado que atienda la demanda de las madres trabajadoras y madres y/o padres solos con hijos menores de 6 años de edad;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XVIII. Conducir los esfuerzos interinstitucionales mediante la articulación de mecanismos de participación con las diversas instituciones que conforman el Sistema Nacional de Guarderías y Estancias Infantiles, para la instrumentación y coordinación de sus acciones, en beneficio de las madres trabajadoras y madres y/o padres solos con hijos e hijas menores de 6 años de edad;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XIX. Ejecutar, en coordinación con la Secretaría de Desarrollo Social, la operación del programa de Guarderías y Estancias Infantiles para madres trabajadoras y padres solos, a partir de la política de equidad de género establecida en la normatividad aplicable;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XX. Generar e impulsar a través del Programa de Guarderías y Estancias Infantiles, políticas de atención a los niños y niñas de 1 a 3 años 11 meses, hijos de madres trabajadoras en condiciones de vulnerabilidad social y pobreza patrimonial, que deriven en acciones que apuntalen los ejes de trabajo del Sistema Nacional de Guarderías y Estancias Infantiles;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
+XXI. Colaborar en la realización de investigaciones especializadas y diagnósticos en la generación del conocimiento sobre la situación de la infancia temprana, a fin de delinear las políticas y estrategias específicas para este sector de la población;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 23 DE ENERO DE 2008)</small>
 
 XXII. Coadyuvar en la instrumentación y operación del Servicio Nacional de Información en materia de infancia y adolescencia; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 23 DE ENERO DE 2008)</small>
 
 XXIII. Las demás que le confieran su superior jerárquico y las disposiciones legales aplicables.
 
@@ -1036,3 +1116,9 @@ México, D. F., a 23 de enero de 2006.- La Responsable de la Información y Titu
 D.O.F. 17 DE AGOSTO DE 2007.
 
 Único. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ENERO DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes a la entrada en vigor de la modificación a este estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a la que se le haya atribuido la competencia correspondiente.
