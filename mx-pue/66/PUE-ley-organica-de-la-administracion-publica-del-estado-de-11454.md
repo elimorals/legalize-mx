@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "2006-09-11"
+last_updated: "2008-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -573,7 +573,11 @@ XLVII.- Cumplir y controlar las actividades del Calendario Oficial de Ceremonias
 
 XLVIII.- Administrar el Archivo General del Estado, normar y asesorar a las Dependencias y Entidades de la Administración Pública en la organización, control, registro y salvaguarda de sus archivos en activo y los que deban enviar a esta Secretaría; así como coordinar con las Secretarías de Finanzas y Administración y de Desarrollo, Evaluación y Control de la Administración Pública, la emisión de las normas y lineamientos que deban observar las Dependencias y Entidades de la Administración Pública Estatal para la guarda, custodia, conservación y en su caso, baja de documentos oficiales, de conformidad con las disposiciones legales aplicables;
 
-XLIX.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XLIX.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2005)</small>
 
@@ -625,7 +629,9 @@ XV.- Distribuir y entregar a los Municipios de la Entidad, las participaciones q
 
 XVI.- Custodiar los documentos que constituyan valores del Estado y los de particulares que sean reintegrables;
 
-XVII.- Proponer al Ejecutivo, previa opinión de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública la cancelación de cuentas incobrables;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XVII.- Cancelar, previa opinión de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, cuentas incobrables y pasivos registrados en la Dependencia;
 
 XVIII.- Proporcionar asesoría en materia de interpretación y aplicación de las Leyes Tributarias, presupuestales y administrativas de su competencia que le sea solicitada por las dependencias y entidades de la Administración Pública, por los Ayuntamientos y por los particulares, así como realizar una labor permanente de difusión y orientación fiscal;
 
@@ -673,7 +679,9 @@ XXXVI.- Elaborar las estadísticas básicas de la actividad socio-económica del
 
 XXXVII.- Recabar la información para la formulación del informe que debe rendir anualmente el Gobernador ante el Congreso del Estado;
 
-XXXVIII.- Presidir el Comité de Adquisiciones del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXXVIII.- Llevar a cabo los procedimientos de adjudicación en materia de adquisiciones, arrendamientos y prestación de servicios de la Administración Pública Estatal, de conformidad con la legislación aplicable en la materia;
 
 XXXIX.- Administrar y vigilar los almacenes del Estado;
 
@@ -693,7 +701,11 @@ XLV.- Elaborar y mantener actualizado el escalafón de los trabajadores del Pode
 
 XLVI.- Operar lo relacionado con los nombramientos, remociones, renuncias y licencias de los servidores públicos de las dependencias de la Administración Pública Estatal; así como todo tipo de movimiento de personal con cargo al erario público estatal de acuerdo con criterios que para tal efecto establezca la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública;
 
-XLVII.- Representar legalmente al Gobierno de la Entidad, en lo relativo a las relaciones laborales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XLVII.- Representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 XLVIII.- Celebrar contratos respecto de los bienes inmuebles propiedad del Gobierno del Estado. Ejercitando en su caso, las acciones de reivindicación y reversión del patrimonio del Estado, salvo cuando las mismas se encuentren reservadas a otras dependencias en términos de las Leyes respectivas;
 
@@ -707,9 +719,21 @@ LII.- Ejercer las facultades de control, administración, cobro y demás estable
 
 LIII.- Autorizar la transferencia del uso, disposición de baja y destino final de los bienes muebles propiedad de la Administración Pública Estatal, a título de comisión o cualquier otro;
 
-LIV.- Proponer al Gobernador del Estado, conjuntamente con la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, la disolución, venta, transferencia, liquidación, fusión o extinción de las entidades paraestatales, en los términos de la normatividad legal vigente; y
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
 
-LV.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+LIV.- Proponer al Gobernador del Estado, conjuntamente con la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, la disolución, venta, transferencia, liquidación, fusión o extinción de las entidades paraestatales, en los términos de la normatividad legal vigente;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+LV.- Llevar a cabo, en términos de las disposiciones aplicables, las acciones que resulten necesarias para la instrumentación de proyectos para prestación de servicios a largo plazo;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2008)</small>
+
+LVl.- Representar legalmente al Gobierno del Estado, en el cumplimiento de las obligaciones fiscales federales, estatales y municipales, que tenga a su cargo; así como interponer las promociones y medios de defensa ante las Autoridades Fiscales correspondientes; y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2008)</small>
+
+LVII.- Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado.
 
 ### CAPITULO IV. DE LA SECRETARIA DE DESARROLLO, EVALUACION Y CONTROL DE LA ADMINISTRACION PUBLICA
 
@@ -797,7 +821,11 @@ XXXV.- Conocer e investigar los actos, omisiones o conductas de los servidores p
 
 XXXVI.- Conocer y resolver en el ámbito de su competencia, de los recursos de revocación y cualquier otro medio de impugnación, que legalmente se interpongan en contra de las resoluciones y actos dictados por la Secretaría;
 
-XXXVII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXXVII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar a la Secretaría en lo relativo a las relaciones laborales;
 
 XXXVIII.- Proponer al Gobernador del Estado, los visitadores especiales previstos en la fracción XIV del artículo 105 de la Constitución Política del Estado;
 
@@ -879,7 +907,11 @@ XXIX.- Formular y promover el establecimiento de medidas para el fomento y prote
 
 XXX.- Ejercer previo acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia industrial, minera, artesanal y comercial contengan los convenios y acuerdos firmados entre la Administración Pública Federal, Estatal o Municipal;
 
-XXXI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios celebrados entre la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXXI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios y sus anexos, celebrados entre la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 XXXII.- Conocer y resolver en el ámbito de su competencia los recursos administrativos que interpongan en contra de los actos emanados de esta Secretaría;
 
@@ -943,7 +975,11 @@ XXIV.- Registrar los reglamentos internos de establecimientos de hospedaje, así
 
 XXV.- Celebrar, previa autorización del Titular del Ejecutivo del Estado, Convenios y Acuerdos con la Federación, los Estados y Municipios de la Entidad, así como con Organismos de carácter privado nacionales e internacionales, para promover el desarrollo turístico;
 
-XXVI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos vigentes y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXVI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 XXVII.- Conocer y resolver en el ámbito de su competencia, de los recursos administrativos que interpongan en contra de los actos emanados de esta Secretaría;
 
@@ -1005,7 +1041,11 @@ XIX.- Coadyuvar en las acciones para el aprovechamiento hidráulico en las cuenc
 
 XX.- Proponer los estudios, proyectos, construcción y conservación de las obras de riego y drenaje con la participación de las autoridades federales, estatales, municipales y los usuarios del riego;
 
-XXI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 XXII.- Conocer y resolver en el ámbito de su competencia, de los recursos administrativos que interpongan en contra de los actos emanados de esta Secretaría;
 
@@ -1091,7 +1131,11 @@ XXV.- Regular, promover, planear y ejecutar, directamente o a través de tercero
 
 XXVI.- Organizar y fomentar las investigaciones relacionadas con la vivienda, obra pública, desarrollo urbano y ecología;
 
-XXVII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte, o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXVII.- Intervenir en los procedimientos judiciales y administrativos en que la misma sea parte, o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 XXVIII.- Conocer y resolver en el ámbito de su competencia, de los recursos administrativos que se interpongan en contra de los actos emanados de esta Secretaría;
 
@@ -1163,7 +1207,11 @@ XXVI.- Promover y fomentar la seguridad a los conductores que transiten por las 
 
 XXVII.- Coadyuvar con las Autoridades Federales en la vigilancia y cumplimiento de las disposiciones en materia de radio, televisión y comunicaciones dentro de la circunscripción territorial del Estado;
 
-XXVIII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXVIII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 XXIX.- Conocer y resolver en el ámbito de su competencia, de los recursos administrativos y judiciales que interpongan en contra de los actos emanados de esta Secretaría;
 
@@ -1229,7 +1277,11 @@ XXII.- Extender certificados prenupciales, de defunción y de muerte fetal, así
 
 XXIII.- Dictar las medidas de seguridad sanitaria que sean necesarias para proteger la salud de la población;
 
-XXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 XXV.- Conocer y resolver en el ámbito de su competencia, de los recursos administrativos que interpongan en contra de los actos emanados de esta Secretaría;
 
@@ -1301,7 +1353,11 @@ XXIV.- Promover, coordinar y fomentar los programas de arraigo en la comunidad p
 
 XXV.- Apoyar dentro del ámbito de su competencia, la difusión y realización de los programas de carácter educativo que promuevan las instituciones encargadas de la salud, la ecología y la protección y asistencia social;
 
-XXVI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXVI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 XXVII.- Conocer y resolver los recursos administrativos que interpongan en contra de los actos emanados de la Secretaría en materia de educación;
 
@@ -1353,7 +1409,11 @@ XIV.- Coordinar y supervisar las ediciones oficiales de carácter cultural y art
 
 XV.- Fomentar la constitución de Patronatos y otras formas de organización privada, para apoyar económicamente el desarrollo de las actividades culturales y artísticas en el Estado;
 
-XVI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XVI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 XVII.- Conocer y resolver en el ámbito de su competencia, de los recursos administrativos que interpongan en contra de los actos emanados de esta Secretaría;
 
@@ -1391,7 +1451,11 @@ XI.- Atender, verificar y dar respuesta a las recomendaciones que señalen las C
 
 XII.- Organizar la defensa y la prevención social contra la delincuencia;
 
-XIII.- Prestar consejo jurídico y representar legalmente al Gobierno del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XIII.- Prestar consejo jurídico y representar legalmente al Gobierno del Estado, así como representar legalmente la Procuraduría en lo relativo a las relaciones laborales;
 
 XIV.- Prestar atención a las víctimas de delitos en los términos establecidos en la Ley de la materia; y
 
@@ -1415,7 +1479,11 @@ IV.- Coadyuvar con las instituciones competentes, en el ámbito de sus atribucio
 
 V.- Recabar, a través de los defensores sociales que por su adscripción estén encargados de los servicios de asistencia gratuita que le competen, la información necesaria para su eficaz prestación;
 
-VI.- Intervenir en los asuntos de interés social y colectivo, que le sean encomendados por el Gobernador del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+VI.- Intervenir en los asuntos de interés social y colectivo, que le sean encomendados por el Gobernador del Estado, así como representar legalmente a la Procuraduría en lo relativo a las relaciones laborales;
 
 VII.- Procurar el avenimiento de las partes en conflictos legales de naturaleza privada o de familia, promoviendo la integración de sus miembros;
 
@@ -1493,9 +1561,11 @@ XII.- Tramitar e integrar debidamente los expedientes de expropiación, de ocupa
 
 XIII.- Tramitar, substanciar y dejar en estado de resolución los recursos administrativos que compete resolver al Gobernador del Estado;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV.- Coadyuvar en la tramitación de acciones que le sean encomendadas por el Gobernador del Estado, así como opinar sobre el desistimiento, formulación de contestaciones, ofrecimiento de pruebas, alegatos, incidentes, recursos y demás actos procesales, que a él le corresponda, hasta la conclusión y ejecución de los juicios correspondientes;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XIV.- Coadyuvar en la tramitación de acciones que le sean encomendadas por el Gobernador del Estado, así como opinar sobre el desistimiento, formulación de contestaciones, ofrecimiento de pruebas, alegatos, incidentes, recursos y demás actos procesales, que a él le corresponda, hasta la conclusión y ejecución de los juicios correspondientes, así como representar legalmente a la Consejería en lo relativo a las relaciones laborales;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2002)</small>
 
@@ -1607,9 +1677,11 @@ XXII.- De conformidad con las disposiciones aplicables y previa solicitud de los
 
 XXIII.- Vigilar en el ámbito de su competencia el cumplimiento de las normas y manuales que expida la Dependencia, para el logro de los objetivos de los programas, fondos y recursos en materia de desarrollo social;
 
-> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios suscritos por la Administración Pública Estatal con la Federación y los Municipios; y
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, suscritos por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales; y
 
 > <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
 
@@ -1621,7 +1693,7 @@ XXV.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, a
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2005)</small>
 
-ARTICULO 40 QUINQUIES.- A la Secretaría de Seguridad Pública y Vialidad corresponde el despacho de los siguientes asuntos:
+ARTICULO 40 quinquies.- A la Secretaría de Seguridad Pública y Vialidad corresponde el despacho de los siguientes asuntos:
 
 I.- Realizar en el ámbito territorial del Estado las acciones dirigidas a salvaguardar la integridad y patrimonio de las personas, prevenir la comisión de delitos e infracciones a las disposiciones gubernativas y de policía, así como a preservar las libertades, el orden y la paz públicos.
 
@@ -1697,7 +1769,11 @@ XXXII.- Imponer y aplicar medidas preventivas o de seguridad y sanciones adminis
 
 XXXIII.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
 
-XXXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales; y
 
 XXXV.- Los demás que determinen las leyes, se especifiquen en su Reglamento Interior y otras disposiciones reglamentarias o le encomiende el Gobernador del Estado.
 
@@ -1707,7 +1783,7 @@ XXXV.- Los demás que determinen las leyes, se especifiquen en su Reglamento Int
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2005)</small>
 
-ARTICULO 40 SEXIES.- A la Secretaría del Medio Ambiente y Recursos Naturales corresponde el despacho de los siguientes asuntos:
+ARTICULO 40 sexies.- A la Secretaría del Medio Ambiente y Recursos Naturales corresponde el despacho de los siguientes asuntos:
 
 I.- Instrumentar, conducir y evaluar la Política Ambiental Estatal;
 
@@ -1769,9 +1845,11 @@ XXVII.- Organizar, dirigir, ordenar y supervisar los servicios de visitas de ver
 
 XXVIII.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXIX.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos legales aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXIX.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos legales aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
 
@@ -1831,7 +1909,7 @@ XLII.- Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, 
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2005)</small>
 
-ARTICULO 40 SEPTIES.- A la Secretaría del Trabajo y Competitividad corresponde el despacho de los siguientes asuntos:
+ARTICULO 40 septies.- A la Secretaría del Trabajo y Competitividad corresponde el despacho de los siguientes asuntos:
 
 I.- Ejercer las funciones que en materia de trabajo le correspondan al Ejecutivo del Estado;
 
@@ -1901,7 +1979,11 @@ XXXII.- Imponer y aplicar medidas preventivas o de seguridad y sanciones adminis
 
 XXXIII.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
 
-XXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría se parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+
+XXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría se parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales; y
 
 XXXV.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
@@ -2308,3 +2390,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 23 DE ENERO DE 2008.
+
+> <small>(F. DE E., P.O. 20 DE FEBRERO DE 2008)</small>
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a los sesenta días naturales siguientes de su publicación, con excepción del contenido de las fracciones XVII, XXXVIII, LIV, LV, LVI y LVII del artículo 30, que entrará en vigor al día siguiente de la citada publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla, continuará interviniendo hasta su total conclusión en los Juicios Laborales en los que se haya apersonado en defensa de los intereses del Gobierno del Estado, antes de la entrada en vigor del presente Decreto.
+
+CUARTO.- Las Dependencias del Gobierno del Estado, promoverán ante el Ejecutivo Estatal las reformas y adiciones a sus respectivos Reglamentos Interiores, a efecto de salvaguardar los intereses del Gobierno del Estado en lo relativo a los Juicios Laborales que se instauren en su contra.
