@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2007-11-14"
+last_updated: "2008-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS, SU ENTRADA EN VIGOR SERA SIMULTANEAMENTE CON LA LEY DE JUSTICIA PARA ADOLESCENTES DEL DISTRITO FEDERAL.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -560,9 +558,13 @@ XI. Desarrollar y ejecutar la política deportiva que determine el Jefe de Gobie
 
 XII. Dirigir el Sistema del Deporte del Distrito Federal a través del Instituto del Deporte;
 
-XIII. Contribuir al desarrollo integral de las y los jóvenes del Distrito Federal, a través del Instituto de la Juventud del Distrito Federal; y
+XIII. Contribuir al desarrollo integral de las y los jóvenes del Distrito Federal, a través del Instituto de la Juventud del Distrito Federal; y (sic)
 
-XIV. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, G.O. 24 DE ENERO DE 2008)</small>
+
+XIV. Desarrollar y ejecutar todo tipo de programas de apoyo social que incidan en el proceso educativo en el Distrito Federal;
+
+XV. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -758,7 +760,7 @@ XIV. Establecer y promover políticas para la educación y participación comuni
 
 XV. Regular y controlar las actividades ambientalmente riesgosas, de conformidad con lo que establece la Ley Ambiental del Distrito Federal;
 
-XVI. Realizar actividades de vigilancia y verificación ambiental, así como aplicar las sanciones previstas en las disposiciones jurídicas de la materia, y (sic9
+XVI. Realizar actividades de vigilancia y verificación ambiental, así como aplicar las sanciones previstas en las disposiciones jurídicas de la materia, y (sic)
 
 > <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -847,6 +849,10 @@ XVII. Apoyar iniciativas y proyectos de la sociedad relacionados con las materia
 XVIII. Coordinarse con las dependencias, entidades, órganos desconcentrados de la Administración Pública del Distrito Federal, de la Federación y de otras entidades federativas, en los ámbitos de su competencia, de acuerdo con lo establecido por las disposiciones jurídicas de la materia; y
 
 XIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE ENERO DE 2008)</small>
+
+Cuando algún plan, programa de apoyo y/o política social incida en el proceso educativo en el Distrito Federal, el mismo se desarrollará y ejecutará por la Secretaria de Educación del Distrito Federal.
 
 ###### Artículo 29.
 
@@ -1887,3 +1893,15 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 SEGUNDO.- El presente decreto entrará en vigor simultáneamente con la Ley de Justicia para Adolescentes del Distrito Federal, que para el efecto aprobara la Asamblea Legislativa del Distrito Federal.
 
 TERCERO.- La Secretaría de Gobierno deberá presupuestar para el ejercicio 2007 los recursos para crear la infraestructura suficiente y el personal necesario para que se proceda a la aplicación de la Ley de Justicia para Adolescentes del Distrito Federal.
+
+G.O. 24 DE ENERO DE 2008.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto y las modificaciones que en este se contienen entrará en vigor el primero de enero del año 2008.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se contrapongan a las aquí reformadas.
+
+CUARTO.- La Secretaria de Desarrollo Social, brindará todo el apoyo necesario a la Secretaria de Educación Pública, en tanto ésta tenga la capacidad física y operativa necesaria para operar los planes, programas de apoyo y/o políticas sociales que incidan en el proceso educativo en el Distrito Federal.
+
+QUINTO.- El Jefe de Gobierno del Distrito Federal, en el Presupuesto de Egresos, hará las adecuaciones necesarias a fin de que la Secretaria de Educación del Distrito Federal cuente con los recursos necesarios que le permitan desarrollar los planes, programas de apoyo y/o políticas sociales que venía desarrollando la Secretaria de Desarrollo Social y que incidan en el proceso educativo en el Distrito Federal.
