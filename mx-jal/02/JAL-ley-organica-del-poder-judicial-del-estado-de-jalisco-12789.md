@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2008-01-22"
+last_updated: "2008-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -141,13 +141,13 @@ El personal no especificado como de confianza en este precepto será considerado
 
 El año judicial, se inicia el día primero de enero y termina el día treinta y uno de diciembre del mismo año.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2008)</small>
 
 Para la elección del Presidente del Supremo Tribunal de Justicia, el último día hábil de diciembre de cada dos años los magistrados en funciones, presididos por el de más antigüedad como magistrado, se reunirán en el Salón de Plenos del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2008)</small>
 
-Acto seguido, por mayoría de sufragios, en votación secreta, por cédula y con escrutinio público, se elegirá al Magistrado que funja como Presidente los dos años judiciales consecutivos siguientes a partir del día primero de enero; en caso de empate, el Magistrado que presida la sesión tendrá voto de calidad.
+Acto seguido, por mayoría de sufragios, en votación secreta, por cédula y con escrutinio público, se elegirá al magistrado que funja como Presidente los dos años judiciales consecutivos siguientes a partir del día primero de enero, en caso de empate, el magistrado que presida la sesión tendrá voto de calidad.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -303,7 +303,7 @@ Para su organización y funcionamiento, las dependencias a que se refiere el pre
 
 ### CAPÍTULO I. INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2008)</small>
 
 ## TÍTULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -313,7 +313,7 @@ Para su organización y funcionamiento, las dependencias a que se refiere el pre
 
 ###### Artículo 17.
 
-El Supremo Tribunal de Justicia residirá en la capital del estado de Jalisco y estará integrado por treinta y siete magistrados propietarios. Funcionará en pleno, en salas especializadas, regionales y mixtas en caso necesario, con la competencia que se determine por el pleno.
+El Supremo Tribunal de Justicia residirá en la capital del estado de Jalisco y estará integrado por treinta y cuatro magistrados propietarios. Funcionará en pleno en salas especializadas, regionales y mixtas en caso necesario, con la competencia que se determine por el pleno.
 
 El Presidente del Supremo Tribunal de Justicia se designará de entre los magistrados propietarios y no integrará sala.
 
@@ -347,11 +347,11 @@ III. La de Adquisiciones.
 
 Estas comisiones serán colegiadas en la forma que determine el Pleno y nombradas al inicio del año judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2008)</small>
 
 ###### Artículo 20.
 
-El Supremo Tribunal de Justicia del Estado, tendrá un Presidente que durará en su cargo tres años y podrá ser reelecto por una sola vez para el periodo inmediato.
+El Supremo Tribunal de Justicia del Estado tendrá un Presidente, que durará en su cargo dos años y podrá ser reelecto por una sola vez para el periodo inmediato.
 
 La Presidencia de las salas será rotatoria por designación entre los magistrados que la integren, lo que comunicarán al Pleno al inicio del año judicial para su sanción.
 
@@ -3225,7 +3225,7 @@ CUARTO.- El segundo párrafo del artículo 78, de la Ley Orgánica del Poder Jud
 
 QUINTO.- Se deberán realizar las adecuaciones presupuestales necesarias de acuerdo con las leyes aplicables acorde a (sic) nueva estructura del Tribunal Electoral.
 
-SEXTO.- Remítase copia certificada del expediente que se integre con motivo de la presente iniciativa a los 124 Ayuntamientos de la Entidad para los efectos de lo dispuesto en el artículo 117 de la Constitución Política del Estado de Jalisco.
+SEXTO.- Remítase copia certificada del expediente que se integre con motivo de la presente iniciativa a los 124 Ayuntamientos de la Entidad para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
 
 P.O. 22 DE JUNIO DE 2002.
 
@@ -3338,3 +3338,11 @@ P.O. 22 DE ENERO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El presente decreto no se mandará a publicar hasta en tanto no se haya publicado la reforma a los artículos 58 y 61 de la Constitución local que se dictaminó previamente y por separado, y producto de la misma iniciativa.
+
+P.O. 24 DE ENERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El presente decreto no se mandará publicar hasta en tanto no se haya publicado la reforma a los artículos 56 y 58 de la Constitución local que se dictaminó previamente y por separado, y producto de las mismas iniciativas.
+
+TERCERO. Se derogan todas las normas y disposiciones que se opongan al presente decreto.
