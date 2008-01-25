@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2007-11-26"
+last_updated: "2008-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -18357,6 +18357,40 @@ El Notario y los testigos se cerciorarán de la capacidad del testador y de que 
 
 Se prohibe a los Notarios dejar hojas total o parcialmente en blanco, al redactar un testamento, así como usar abreviaturas o cifras, salvo que se trate de invocar artículos de la ley o números de formas oficiales.
 
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+###### Artículo 3274 Bis.
+
+Siempre que se otorgue un testamento público, el Notario debe formular un aviso de testamento al Archivo de Notarías, en el que se expresen al menos los datos siguientes:
+
+l. Nombre completo del testador;
+
+II. Nacionalidad;
+
+III. Fecha y lugar de nacimiento;
+
+IV. Clave Única del Registro Nacional de Población;
+
+V. Estado Civil;
+
+VI. Los nombres completos de sus padres, si los hubiera expresado;
+
+VII. Tipo de Testamento;
+
+VIII. Lugar y fecha de su otorgamiento;
+
+IX. El número de instrumento y volumen; y
+
+X. Los datos generales del Notario.
+
+Dentro de los cinco días hábiles siguientes a la admisión y registro del aviso de testamento, el Archivo de Notarías se encargará de remitirlo, por vía electrónica y con los demás datos que resulten conducentes, al Registro Nacional de Avisos de Testamento, para los efectos respectivos.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+###### Artículo 3274 Ter.
+
+El Juez o Notario que inicie un procedimiento sucesorio, deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria, mediante solicitud al titular del Archivo de Notarías para que proceda a consultar si en la base de datos del Registro Nacional de Avisos de Testamento aparece algún aviso de testamento del autor de la sucesión y remita copia autorizada de los reportes de búsqueda local y nacional, así como para que advierta si en su oficina existe testamento depositado a petición del otorgante y, en su caso, lo remita al Notario o autoridad judicial respectivo, sin perjuicio de las gestiones que éstos puedan realizar ante las autoridades que resulten competentes para recibir o conservar testamentos en otros Estados.
+
 #### Sección Tercera.- Testamento público cerrado
 
 ###### Artículo 3275.
@@ -18479,9 +18513,11 @@ El Notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en 
 
 Por la infracción del artículo anterior, no se anulará el testamento; pero el Notario incurrirá en la pena de suspensión por seis meses.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
+
 ###### Artículo 3304.
 
-El Director del Archivo de Notarías asentará en el libro que con ese objeto debe llevarse, una razón de depósito, firmada por él y de la cual se enviará copia al Notario.
+El Director del Archivo de Notarías asentará en el libro que con ese objeto debe llevarse, una razón de depósito, firmada por él y de la cual enviará copia al Notario, cumpliendo lo cual deberá dar aviso del depósito en términos del último párrafo del artículo 3274 Bis de este Código.
 
 ###### Artículo 3305.
 
@@ -19900,3 +19936,11 @@ P.O. 26 DE NOVIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 25 DE ENERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Notarios y las autoridades competentes a que se refiere el presente Decreto, tendrán un plazo de doce meses contados a partir de la entrada en vigor del mismo, para implementar o adecuar los equipos, redes y servicios informáticos que se requieran para el cumplimiento por vía electrónica de las obligaciones que el mismo establece. Durante este plazo, los avisos de testamento, las consultas y los reportes de búsqueda, se podrán formular y remitir de manera impresa.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
