@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-11042"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-15"
-last_updated: "2003-09-24"
+last_updated: "2008-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 15 de agosto de 1996.
 
@@ -113,13 +113,19 @@ VII.- Fomentar actividades que estimulen la investigación tecnológica, humaní
 
 VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, y en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado;
 
-IX.- Estimular la educación física y la práctica del deporte, como elementos indispensables del desarrollo integral del individuo;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+IX.- Estimular la educación física y la práctica del deporte, como elementos indispensables para una vida saludable y para el desarrollo integral del individuo;
 
 X.- Desarrollar actitudes solidarias entre los individuos, para crear conciencia sobre la preservación de la salud, el respeto a la vida como valor fundamental de la persona, la planeación familiar y el ejercicio responsable de la paternidad, sin menoscabo de la libertad y del respeto absoluto de la dignidad humana, así como propiciar el rechazo a los vicios y a todo tipo de discriminación; en especial la que se dé en contra de la mujer.
 
-XI.- Hacer conciencia de la necesidad del cuidado y protección de los animales, del aprovechamiento racional de los recursos naturales y del medio ambiente, como elementos indispensables para el desarrollo sustentable de la sociedad; y
+XI.- Hacer conciencia de la necesidad del cuidado y protección de los animales, del aprovechamiento racional de los recursos naturales y del medio ambiente, como elementos indispensables para el desarrollo sustentable de la sociedad; y (sic)
 
-XII.- Fomentar actitudes solidarias hacia la familia, el trabajo, el ahorro y el bienestar general.
+XII.- Fomentar actitudes solidarias hacia la familia, el trabajo, el ahorro y el bienestar general;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XIII.- Fomentar en los maestros, padres de familia, encargados de cooperativas escolares y especialmente en los educandos, la adopción de estilos de vida saludables que comprendan el consumo de una dieta correcta y la práctica diaria de actividad física como elementos indispensables del desarrollo integral del individuo. Se entenderá por dieta correcta a aquella que es completa, equilibrada, inocua, suficiente, variada y adecuada.
 
 ###### ARTICULO 11.
 
@@ -145,13 +151,19 @@ III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la e
 
 IV.- Regularizar, mediante programas específicos a los maestros en activo para que obtengan el grado de licenciatura;
 
-V.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, mediante la creación de un instituto especializado, o de los convenios celebrados con la Federación, de conformidad con las disposiciones generales que la Ley General de Educación determine.
+V.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, mediante la creación de un instituto especializado, o de los convenios celebrados con la Federación, de conformidad con las disposiciones generales que la Ley General de Educación determine;
 
 VI.- Revalidar y otorgar equivalencias de estudios de la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la autoridad educativa federal expida;
 
-VII.- Otorgar, negar y revocar fundada y motivadamente o el reconocimiento de validez oficial a los particulares para impartir la educación inicial, básica, normal y demás para la formación de maestros de educación básica; y
+VII.- Otorgar, negar y revocar fundada y motivadamente o el reconocimiento de validez oficial a los particulares para impartir la educación inicial, básica, normal y demás para la formación de maestros de educación básica; y (sic)
 
-VIII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+VIII.- Implementar en los planteles de educación básica, estrategias y medidas tendientes a desmotivar el consumo de productos alimenticios con bajo o nulo valor nutricional, por parte de los educandos, así como prohibir la publicidad enfocada al consumismo, al interior de los planteles, salvo la que se encuentre en el producto mismo y en los elementos necesarios para su conservación y exhibición; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+IX.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias.
 
 ###### ARTICULO 14.
 
@@ -591,21 +603,25 @@ IX.- Los (sic) demás establecidas en las leyes y reglamentos respectivos.
 
 Son obligaciones de los padres de familia o tutores las siguientes:
 
-I.- Hacer que sus hijos e hijas o pupilos, concurran a los planteles educativos a recibir educación básica.
+I.- Hacer que sus hijos e hijas o pupilos, concurran a los planteles educativos a recibir educación básica;
 
 II.- Colaborar con las autoridades educativas en las actividades que realicen en beneficio de la educación de sus hijos o pupilos;
 
-III.- Participar de acuerdo con los educadores en el tratamiento de los problemas de conducta y aprendizaje; y
+III.- Participar de acuerdo con los educadores en el tratamiento de los problemas de conducta y aprendizaje; y (sic)
 
-IV.- Hacer que sus hijos o pupilos participen en los actos cívicos.
-
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
-
-V.- Velar por la estricta observancia en los planteles, de las disposiciones legales y reglamentarias y;
+IV.- Hacer que sus hijos o pupilos participen en los actos cívicos;
 
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-VI.- Las demás establecidas en las leyes y reglamentos respectivos.
+V.- Velar por la estricta observancia en los planteles, de las disposiciones legales y reglamentarias y (sic);
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+VI.- Coadyuvar en el proceso educativo de sus hijos o pupilos para la adopción de estilos de vida saludables; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+VII.- Las demás establecidas en las leyes y reglamentos respectivos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
@@ -864,3 +880,9 @@ SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se 
 TERCERO.- El Poder Ejecutivo deberá emitir el Reglamento Estatal de Organizaciones de Padres de Familia correspondiente, en un plazo no mayor a los 120 días a partir de la publicación de la presente ley. Coadyuvando con las autoridades educativas a la promoción y distribución del mismo, entre los padres de familia de todas las escuelas.
 
 CUARTO.- En tanto se expide el Reglamento referido en el artículo anterior, seguirá rigiendo el Reglamento federal de Asociaciones de Padres de Familia.
+
+P.O. 25 DE ENERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga", por lo que remítase para tal efecto al titular del Poder Ejecutivo del Estado de Querétaro.
