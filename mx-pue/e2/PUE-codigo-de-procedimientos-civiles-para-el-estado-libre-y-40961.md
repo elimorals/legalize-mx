@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2007-08-06"
+last_updated: "2008-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -3779,7 +3779,7 @@ II.- Si se pide el embargo de bienes indeterminados, se procederá conforme a la
 
 ###### Artículo 526.
 
-El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algun otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
+El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algún otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
 
 ###### Artículo 527.
 
@@ -4975,13 +4975,29 @@ I.- Que el adoptante o adoptantes tiene medios bastantes para proveer a la subsi
 
 II.- Que el adoptante o adoptantes no tengan antecedentes penales;
 
-III.- El buen estado de salud del o de los adoptantes, y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-IV.- Las demás que establezcan los reglamentos, leyes federales y los tratados internacionales de los cuales el Estado Mexicano forme parte, en materia de adopción.
+III.- Que la adopción sea benéfica para la persona que se pretenda adoptar;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+IV.- Que el adoptante sea persona idónea para adoptar, de conformidad con el certificado de idoneidad expedido por el Sistema para el Desarrollo Integral de la Familia del Estado, con base en los estudios médico, psicológico, socioeconómico y de trabajo social;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+V.- El buen estado de salud del o de los adoptantes; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+VI.- Las demás que establezcan los reglamentos, leyes federales y los tratados internacionales de los cuales el Estado Mexicano forme parte, en materia de adopción.
 
 ###### Artículo 705.
 
 El procedimiento de adopción, puede intentarse por los particulares que tengan interés en ella, o por el Sistema para el Desarrollo Integral de la Familia en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+En el caso de que un menor o incapacitado, se encuentre bajo los cuidados de algún familiar o persona a quien sus ascendientes o tutores lo hayan dejado en abandono y los cuidados y protección sean los adecuados, el Juez podrá determinar esto como medida precautoria para garantizar la seguridad del menor, además de acordar la guarda y custodia provisional a estas personas en tanto cuanto no se resuelva la situación jurídica del menor concediendo la posibilidad de inicio del juicio de adopción.
 
 ###### Artículo 706.
 
@@ -4999,9 +5015,13 @@ Con la petición inicial, deberá acompañarse el dictamen técnico que conforme
 
 En la solicitud, se expresará:
 
-I.- El nombre y edad de quien se pretende adoptar, y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-II.- Si es menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o tutela o de las instituciones que lo hayan acogido.
+I.- El nombre, edad y domicilio de quien se pretende adoptar; y
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+II.- Si es menor o incapacitado, el nombre, edad y domicilio de quienes ejercen sobre él la patria potestad o tutela o de las instituciones que lo hayan acogido.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
 
@@ -5017,7 +5037,11 @@ Aceptada la solicitud, el Juez mandará citar a los promoventes, para que acudan
 
 Cuando el que se pretenda adoptar tenga más de seis años de edad, deberá ser informado ampliamente de la pretensión de los solicitantes de la adopción y externará, en todo caso, su consentimiento.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
+
 ###### Artículo 713.
+
+Una vez presentada la petición inicial, dentro de los tres días siguientes el Juez citará a quien deba otorgar su consentimiento conforme lo estipulado en el artículo 583 del Código Civil.
 
 Cuando quienes no ejercen la patria potestad, deban consentir en la adopción y se niegan injustificadamente a ello, su consentimiento será suplido por el Juez cuando la adopción sea conveniente para los intereses morales y materiales del adoptado.
 
@@ -6208,3 +6232,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 25 DE ENERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
