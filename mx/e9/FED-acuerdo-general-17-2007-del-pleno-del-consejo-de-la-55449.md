@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2007-del-pleno-del-consejo-de-la-55449"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2007-11-30"
+last_updated: "2008-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55449&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-05-02"
 
 ACUERDO GENERAL 17/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ENERO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -151,7 +151,9 @@ FORMA DE LA DONACION. Las donaciones en dinero se podrán realizar en moneda nac
 
 CONSTANCIA DE LA DONACION O APORTACION. Las personas que realicen alguna donación o aportación a favor del Fondo tendrán derecho a que se les entregue la constancia respectiva.
 
-La Secretaría Técnica del Fondo entregará la constancia de la donación o aportación, de conformidad con las disposiciones fiscales aplicables.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 58/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE ENERO DE 2008)</small>
+
+La Secretaría Técnica del Fondo entregará la constancia de la donación o aportación, la cual no tendrá valor para efectos fiscales.
 
 ###### Artículo 15.
 
@@ -546,3 +548,9 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se abroga el Acuerdo General 52/2006, del Pleno del Consejo de la Judicatura Federal.
+
+D.O.F. 25 DE ENERO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
