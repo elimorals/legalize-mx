@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-3404
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-19"
-last_updated: "2006-11-17"
+last_updated: "2008-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2003.
 
@@ -371,7 +371,13 @@ XII. Coordinar y aprobar los programas anuales de desarrollo del personal admini
 
 XIII. Ordenar el trabajo de la Tesorería y de la Oficialía Mayor;
 
-XIV. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XIV. Autorizar en el mes de diciembre los periodos vacacionales del año siguiente, del personal de la Legislatura, de acuerdo a la Ley de Trabajadores al Servicio del Estado y Municipios y Convenios laborales suscritos, ordenando su publicación mediante decreto en el Periódico Oficial del Gobierno del Estado la Sombra de Arteaga;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XV. Ejercer las demás atribuciones que le confiera la Ley.
 
 ###### Artículo 26.
 
@@ -461,9 +467,13 @@ III. Firmar los proyectos de leyes, decretos y demás resoluciones de la Legisla
 
 IV. Suplir al presidente en sus ausencias por más de seis días o a solicitud de éste, en cuyo caso tendrá las facultades y obligaciones que correspondan a aquel;
 
-Si por cualquier causa el Vicepresidente no pudiera ejercer esta suplencia, el primer secretario convocará al Pleno para el sólo efecto de elegir Presidente interino de la Legislatura, quien permanecerá en funciones hasta que el Presidente originario vuelva a ejercer su cargo o termine el impedimento del Vicepresidente; y
+Si por cualquier causa el Vicepresidente no pudiera ejercer esta suplencia, el primer secretario convocará al Pleno para el sólo efecto de elegir Presidente interino de la Legislatura, quien permanecerá en funciones hasta que el Presidente originario vuelva a ejercer su cargo o termine el impedimento del Vicepresidente; y (sic)
 
-V. Cumplir con la obligación que le señala el artículo 29 de esta ley.
+V. Cumplir con la obligación que le señala el artículo 29 de esta ley;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+VI. Suplir al Presidente en las sesiones de pleno, fungiendo con el carácter y facultades de éste, hasta que el Presidente se incorpore.
 
 ###### Artículo 32.
 
@@ -527,11 +537,11 @@ La elección de la Comisión Permanente se comunicará a los titulares de los po
 
 (Inicio de funciones) La Comisión Permanente iniciará sus funciones una vez que concluyan los períodos ordinarios, quedando instalada por la simple conclusión de estos. Emitirá el decreto para la apertura del periodo extraordinario de sesiones que corresponda, integrando sin excepción, todos los asuntos que se encuentren registrados ante la Oficialía de Partes del Poder Legislativo, incluyendo aquellos que por cualquier causa, se encontraran pendientes de trámite.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### Artículo 38.
 
-(Frecuencia de las sesiones) La Comisión sesionará semanalmente y cuantas veces resulte necesario para cumplir con sus atribuciones constitucionales y legales, exceptuándose los periodos vacacionales autorizados por la misma para el personal de la Legislatura, de acuerdo a la Ley de Trabajadores al Servicio del Estado y Municipios, solicitando la opinión de la Oficialía Mayor e instruyéndolo para que lo comunique a los diputados y al personal administrativo, una vez tomado el acuerdo.
+(Frecuencia de las sesiones) La Comisión Permanente sesionará cuantas veces resulte necesario para cumplir con sus atribuciones constitucionales y legales, exceptuándose los periodos vacacionales autorizados para el personal de la Legislatura, de acuerdo a la Ley de los Trabajadores al Servicio del Estado y Municipios y Convenios laborales suscritos.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -559,9 +569,11 @@ Para su funcionamiento tendrá un presidente y un secretario.
 
 (Asignación presupuestal) Para cumplir con sus atribuciones, contará con el presupuesto que le asigne la Legislatura, mismo que será ejercido por su presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2008)</small>
+
 ###### Artículo 43.
 
-(Rotación de cargos de la Junta y tiempo de su elección) Los cargos de presidente y secretario de la Junta de Concertación Política se ocuparán rotativamente entre los representantes, en los términos, condiciones y procedimientos que acuerde la mayoría de la Legislatura, con una periodicidad equivalente a la representación de cada Grupo o Fracción Parlamentaria en la Legislatura.
+(Rotación de cargos de la Junta y tiempo de su elección) Los cargos de presidente y secretario de la Junta de Concertación Política, se ocuparán rotativamente entre los representantes de cada uno de los Grupos o Fracciones Parlamentarias, en los términos, condiciones y procedimientos que acuerde la mayoría de la Legislatura, con una periodicidad equivalente a la representación de cada Grupo o Fracción Parlamentaria. Posteriormente, los representantes podrán ceder o intercambiar el periodo de la Presidencia y Secretaría, de conformidad a los acuerdos suscritos entre los interesados, sin perjuicio de los que no intervengan.
 
 El presidente y secretario que deban funcionar en el primer período de la Junta, serán electos dentro de las primeras tres sesiones del ejercicio constitucional de la Legislatura, por el Pleno de ésta.
 
@@ -923,9 +935,11 @@ Sesiones de las Comisiones
 
 La votación de los asuntos en las Comisiones ordinarias será efectuada por sus integrantes en forma económica y por mayoría de los presentes. En caso de empate, el presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
+
 ###### Artículo 78.
 
-(Tiempo de la convocatoria) La convocatoria a sesiones de las Comisiones ordinarias será expedida por su presidente y remitida a sus integrantes al menos con tres días de anticipación a la fecha en que haya de celebrarse la sesión, por escrito o a través de medios electrónicos y con aviso al director de Asuntos Legislativos y Jurídicos y al oficial mayor.
+(Tiempo de la convocatoria) La convocatoria a sesiones de las Comisiones ordinarias será expedida por su presidente y remitida a sus integrantes al menos con tres días de anticipación a la fecha en que haya de celebrarse, por escrito o a través de medios electrónicos y con aviso a la Dirección de Asuntos Legislativos y Jurídicos y a la Oficialía Mayor, para que brinden el apoyo necesario en el ámbito de sus responsabilidades.
 
 ###### Artículo 79.
 
@@ -1765,9 +1779,11 @@ d) Para imponer a quienes se hagan acreedores a ellas, las medallas y reconocimi
 
 e) Las demás que sean convocadas con ese carácter por el presidente de la Legislatura.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
+
 ###### Artículo 162.
 
-(Frecuencia de las sesiones) Durante los períodos ordinarios, la Legislatura sesionará una vez por semana y cuantas veces sea necesario a fin de desahogar los asuntos de su competencia.
+(Frecuencia de las sesiones) Durante los períodos ordinarios, la Legislatura sesionará cuantas veces sea necesario a fin de desahogar los asuntos de su competencia, exceptuándose los periodos vacacionales autorizados para el personal de la Legislatura, de acuerdo a la Ley de los Trabajadores al Servicio del Estado y Municipios y Convenios laborales suscritos.
 
 ###### Artículo 163.
 
@@ -1783,23 +1799,25 @@ IV. La firma autógrafa o clave electrónica del presidente, que no podrá ser s
 
 La convocatoria deberá ser remitida a sus destinatarios al menos con un día hábil de anticipación a la fecha en que haya de celebrarse la sesión, con aviso al director de Asuntos Legislativos y Jurídicos y al oficial mayor, a efecto de que brinden el apoyo necesario en el ámbito de sus responsabilidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2008)</small>
+
 ###### Artículo 164.
 
-(Plazo para promover asuntos a integrarse en el orden del día) Para la integración del orden del día, la Mesa Directiva considerará exclusivamente los asuntos que hayan sido presentados en la oficialía de partes, con 48 horas de anticipación a la sesión correspondiente.
+(Plazo para promover asuntos a integrarse en el orden del día) Para la integración del orden del día, la Mesa Directiva considerará exclusivamente los asuntos que hayan sido presentados en la Oficialía de Partes con 48 horas de anticipación a la sesión correspondiente, computadas en días hábiles.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
-El Pleno, a solicitud verbal de cualquier diputado y por mayoría de los presentes, podrá modificar el orden del día de la sesión, hasta antes de abrir el apartado de asuntos generales.
+El Pleno, a solicitud verbal de cualquier diputado y por mayoría de los presentes, podrá retirar o incorporar cualquier asunto al orden del día de la sesión, hasta antes de abrir el apartado de asuntos generales. Los asuntos retirados se incorporarán en el orden del día de la siguiente sesión de Pleno, salvo que el autor del mismo solicite su devolución a la Dirección de Asuntos Legislativos y Jurídicos.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Cuando un asunto agendado en la convocatoria a período extraordinario, se retire del orden del día conforme al procedimiento establecido en el párrafo anterior, el presidente de la Legislatura declarará si el efecto de la resolución es tener el asunto por desahogado de la agenda, o si consiste en reservar su trámite para sesión posterior.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### Artículo 165.
 
-(Publicidad del orden del día) El orden del día de las sesiones plenarias se publicará en la Gaceta Parlamentaria y en el tablero que al efecto se coloque en las instalaciones de la Dirección de Asuntos Legislativos y Jurídicos.
+(Publicidad del orden del día) El orden del día de las sesiones plenarias se publicará en la Gaceta Parlamentaria.
 
 ###### Artículo 166.
 
@@ -1819,13 +1837,21 @@ II. Consideraciones sobre el acta de la sesión anterior;
 
 III. Comunicaciones oficiales;
 
-IV. Iniciativas, propuestas y solicitudes;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-V. Dictámenes;
+IV. Iniciativas de leyes, decretos y acuerdos, propuestas y solicitudes;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+V. Dictámenes de leyes, decretos y acuerdos;
 
 VI. Informes de diputados, órganos y dependencias del Poder Legislativo; y
 
 VII. Asuntos generales.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+Las iniciativas, propuestas, solicitudes y dictámenes se enlistarán, conforme al orden de su registro en la Oficialia de Partes, pudiendo, por su naturaleza, agruparse para su desahogo, sin perjuicio de alguien.
 
 ###### Artículo 169.
 
@@ -1889,9 +1915,11 @@ DESARROLLO DE LOS DEBATES
 
 La calificación de urgencia u obvia resolución se acordará mediante votación económica y previa propuesta que formule por escrito alguno de los diputados presentes en la sesión, o por solicitud que aparezca consignada expresamente en el dictamen de la Comisión ordinaria respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2008)</small>
+
 ###### Artículo 177.
 
-(Lectura del dictamen) Llegada la hora de la discusión se leerá el dictamen respectivo.
+(Lectura de los asuntos) El Presidente de la Legislatura, verificará que el asunto a discutirse se encuentra integrado en la Gaceta Parlamentaria, de lo contrario la Presidencia podrá ordenar la lectura del mismo.
 
 Siempre que al principio de una discusión lo pida algún diputado, la Comisión dictaminadora deberá explicar los fundamentos de su dictamen.
 
@@ -2624,3 +2652,17 @@ Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legi
 Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscalizadas, hasta su total conclusión.
 
 Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
+
+P.O. 25 DE ENERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día de su aprobación por el Pleno de la LV Legislatura del Estado de Querétaro.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al titular del Poder Ejecutivo de Querétaro para su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga"
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
