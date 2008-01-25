@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2007-02-09"
+last_updated: "2008-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -327,9 +327,9 @@ XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departa
 
 XXII.- Supervisar el buen uso y mantenimiento de los recursos materiales que tenga asignada (sic) la dependencia, entidad o departamento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California. Esta Declaración Patrimonial podrá hacerse pública, previa autorización de los mismos servidores, en los términos de las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -441,7 +441,7 @@ X.- Dirección del Heroico Cuerpo de Bomberos;
 
 XI.- Dirección de Comunicación Social;
 
-XII.- Dirección de Relaciones Públicas;
+XII.- (DEROGADA, P.O. 25 DE ENERO DE 2008)
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
@@ -459,13 +459,15 @@ XV.- Dirección de Administración Urbana; y (sic),
 
 XVI.- Dirección de Planeación Urbana;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-XVII.- Dirección Municipal de Fomento Agropecuario y Pesquero.
+XVII.- Dirección de Desarrollo Rural y Delegaciones.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 31.
 
-Las Delegaciones Municipales tendrán la naturaleza de órganos desconcentrados de la Administración Pública Municipal centralizada, y corresponderá al Presidente Municipal por conducto de la coordinación de Delegaciones, aplicar las políticas para uniformar su actuación y promover el logro de sus objetivos.
+Las Delegaciones Municipales tendrán la naturaleza de órganos desconcentrados de la Administración Pública Municipal centralizada, y corresponderá al Presidente Municipal por conducto de la Dirección de Desarrollo Rural y Delegaciones, aplicar las políticas para uniformar su actuación y promover el logro de sus objetivos.
 
 ### CAPITULO TERCERO. DE LA SECRETARIA DEL AYUNTAMIENTO
 
@@ -477,9 +479,9 @@ I.- Secretaría Particular;
 
 II.- Coordinación de Directores;
 
-III.- Coordinación de Delegaciones y Juntas de Mejoramiento Moral, Cívico y Material;
+III.- (DEROGADA, P.O. 25 DE ENERO DE 2008)
 
-IV.- Coordinación de Desarrollo Gubernamental;
+IV.- (DEROGADA, P.O. 25 DE ENERO DE 2008)
 
 V.- Coordinación de Informática; y (sic),
 
@@ -489,6 +491,8 @@ VI.- Coordinación de Atención Ciudadana;
 
 VII.- Coordinación de Atención a Personas con Discapacidad.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, QUEDANDO INTEGRADO POR CINCO FRACCIONES.</small>
+
 ###### ARTICULO 33.
 
 El Departamento de la Secretaría Particular, tendrá las siguientes atribuciones:
@@ -497,15 +501,17 @@ I.- Apoyar al Presidente Municipal en la organización y cumplimiento de su agen
 
 II.- Controlar la agenda de audiencias al Presidente Municipal con las diferentes dependencias y entidades, y con otras autoridades y particulares;
 
-III.- Vigilar que se hagan llegar y dar seguimiento a las instrucciones giradas por el Presidente Municipal a los titulares de las dependencias y entidades;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-IV.- Conocer la información que se le proporcione al Presidente Municipal por las dependencias y entidades, en relación a los asuntos que se le planteen;
+III.- Realizar las funciones de enlace institucional del gobierno municipal, como contacto inicial, operativo y logístico, con los representantes de otras instituciones, así como definir el proceso, en los actos protocolarios en los que participe el Presidente Municipal;
 
-V.- Coordinar y supervisar las actividades relacionadas con giras, presentaciones y eventos en los que participe el Presidente Municipal;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-VI.- Auxiliar al Presidente Municipal en los trámites y procedimientos administrativos que se requieran para el cumplimiento de sus instrucciones; y,
+IV.- Promover e incrementar las relaciones entre el Municipio, con otros nacionales o extranjeros, particularmente con las denominadas Ciudades Hermanas; y,
 
-VII.- Dar seguimiento a la atención que se deba dar a los asuntos que le sean planteados al Presidente Municipal por la comunidad.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+V.- Propiciar y promover la participación directa, o los donativos de instituciones públicas o privadas, en la implementación de acciones conjuntas o de colaboración con el gobierno municipal.
 
 ###### ARTICULO 34.
 
@@ -523,49 +529,11 @@ V.- Organizar reuniones periódicas de titulares de las dependencias o entidades
 
 ###### ARTICULO 35.
 
-A la Coordinación de Delegaciones y Juntas de Mejoramiento Moral, Cívico y Material, le corresponde vincular y apoyar las actividades que se lleven a cabo en las Delegaciones Municipales, así como supervisar a las Juntas de Mejoramiento, Moral, Cívico y Material que operen en el Municipio, encargándose de:
-
-I.- Asegurarse de que las actividades administrativas a cargo de las oficinas de las Delegaciones, se lleven a cabo de manera uniforme con las políticas y lineamientos de la administración pública municipal;
-
-II.- Auxiliar y asesorar a los Delegados en el desempeño de sus funciones;
-
-III.- Promover la descentralización de funciones a las Delegaciones Municipales, a fin de facilitar el acceso y ampliar la cobertura de los servicios municipales;
-
-IV.- Apoyar a los Delegados cuando lo soliciten, en la gestión y promoción del desarrollo de actividades productivas, obras y servicios públicos, en el territorio de las Delegaciones Municipales, o llevar a cabo directamente dichas actividades, cuando tengan injerencia en las mismas, dos o más Delegaciones;
-
-V.- Apoyar a los Delegados cuando lo soliciten, en las gestiones que realicen ante las dependencias y entidades de la Administración Pública Municipal, o ante dependencias o entidades de otros órdenes de gobierno;
-
-VI.- En los casos en que se puedan generar consecuencias para dos o más Delegaciones, establecer coordinación y conjuntar esfuerzos con instituciones involucradas en el desarrollo de las zonas que se encuentren dentro del territorio de las Delegaciones Municipales;
-
-VII.- Promover la instrumentación de procesos de planeación por zonas, para el desarrollo de las comunidades ubicadas en el territorio de las Delegaciones Municipales;
-
-VIII.- Fomentar la capacitación y actualización de los Delegados Municipales en relación con la normatividad que les corresponda observar y aplicar;
-
-IX.- Intervenir en los asuntos de competencia municipal que se presenten en las Delegaciones cuando así lo instruya el Presidente Municipal;
-
-X.- En general apoyar las actividades de los Delegados Municipales; y,
-
-XI.- Supervisar que las Juntas de Mejoramiento, Moral, Cívico y Material ubicadas en el Municipio cumplan con las disposiciones establecidas en la Ley y con (sic) reglamento municipal de la materia.
+(DEROGADO, P.O. 25 DE ENERO DE 2008)
 
 ###### ARTICULO 36.
 
-La Coordinación de Desarrollo Gubernamental, tendrá las siguientes atribuciones:
-
-I.- Coordinar la reorganización de la administración pública municipal;
-
-II.- Optimizar los programas, los recursos y funciones de las dependencias, y entidades y delegaciones;
-
-III.- Coordinar el Proceso de planeación interna en las dependencias y entidades, así como su seguimiento;
-
-IV.- Impulsar el desarrollo de programas de modernización y simplificación administrativa en las dependencias y entidades;
-
-V.- Evaluar el desempeño en la presentación de los servicios públicos municipales;
-
-VI.- Desarrollar procedimientos para mejorar la calidad en el funcionamiento de las dependencias y entidades de la administración pública municipal;
-
-VII.- Generar indicadores de medición que permitan conocer el desarrollo de la administración pública municipal; y
-
-VIII.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
+(DEROGADO, P.O. 25 DE ENERO DE 2008)
 
 ###### ARTICULO 37.
 
@@ -637,7 +605,9 @@ II.- Auxiliar al Presidente Municipal en la atención de asuntos que le sean pla
 
 III.- Participar en los actos cívicos, de acuerdo al calendario oficial;
 
-IV.- Expedir certificados de residencia de los ciudadanos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+IV.- Expedir los certificados de vecindad y residencia que le sean solicitadas por los habitantes del municipio, así como las anuencias y certificaciones que debe otorgar el gobierno municipal de conformidad con la legislación federal para la realización de diversos actos, cuando no correspondan a otra dependencia;
 
 V.- Suscribir el titular de la dependencia, con el Presidente Municipal, los contratos, convenios y acuerdos en los que sea parte el Municipio;
 
@@ -665,9 +635,7 @@ XV.- Presidir en representación del Presidente Municipal, organizar y vigilar e
 
 XVI.- Expedir certificaciones de los documentos que obren en archivos de las dependencias de la administración pública centralizada;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
-
-XVII.- Remitir, por conducto del subsecretario, los asuntos que sean recibidos en la oficina del titular, a las dependencias o áreas de la administración municipal, responsables de su atención y seguimiento;
+XVII.- (DEROGADA, P.O. 25 DE ENERO DE 2008)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2004)</small>
 
@@ -677,53 +645,31 @@ XVIII.- Integrar el registro de entidades paramunicipales, de conformidad con el
 
 XIX.- Definir políticas, estrategias, lineamientos y procedimientos para establecer el Sistema Municipal de Protección Civil, encargándose de su operación.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
-ARTICULO 40 BIS.- Para el apoyo a las atribuciones del Secretario, en su carácter de Secretario Fedatario, al Departamento de Atención a Cabildo le corresponden las actividades de asistencia al Secretario, así como el apoyo a los Regidores y Comisiones, para el seguimiento de las propuestas de cabildo y la elaboración de proyectos de la reglamentación municipal, para lo cual se encargara de:
+ARTICULO 40 BIS.- La Secretaría del Ayuntamiento para el cumplimiento de sus atribuciones contará con una coordinación administrativa; asimismo tendrá bajo su cargo;
 
-I.- Asistir al Secretario en los asuntos que le sean encomendados por este;
+I.- La Subdirección de Gobierno, de la que dependerán las siguientes unidades administrativas:
 
-II.- Remitir a las Comisiones, Regidores, Dependencias o Áreas de la administración municipal, los asuntos relativos al Cabildo, para su seguimiento;
+a) Unidad Municipal de Acceso a la Información;
 
-III.- Coordinar la organización y cuidar el cumplimiento del protocolo de las sesiones de cabildo;
+b) Unidad Municipal de Protección Civil;
 
-IV.- Integrar la compilación de los acuerdos aprobados por el cabildo;
+c) Departamento de Administración de Documentos Públicos; y,
 
-V.- Participar en el seguimiento de los asuntos turnados a las comisiones;
+d) Coordinación de Vinculación Comunitaria.
 
-VI.- Asistir a las sesiones de las comisiones, en las que haya de discutirse y aprobarse dictámenes para su presentación ante el cabildo;
-
-VII.- Elaborar proyectos de dictámenes de las comisiones;
-
-VIII.- Emitir opiniones jurídicas sobre propuestas de acuerdo, solicitadas por los Regidores o las Comisiones;
-
-IX.- Elaborar proyectos de propuestas de acuerdos de cabildo;
-
-X.- Elaborar los proyectos de reglamentos municipales, necesarios para el cumplimiento de las atribuciones del Municipio, así como de reformas a la reglamentación municipal;
-
-XI.- Recopilar la reglamentación municipal, así como la legislación federal y estatal, aplicables en el ámbito municipal;
-
-XII.- Representar al Municipio en las sesiones de las comisiones de dictamen legislativo del Congreso del Estado, conforme a lo establecido en la Constitución Estatal, en las que haya de discutirse proyectos relacionados con asuntos de carácter municipal; y
-
-XIII.- Participar en el seguimiento a las iniciativas y proyectos ante el Congreso del Estado, relativas a asuntos de carácter municipal.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
-
-###### ARTICULO 41.
-
-La Secretaría del Ayuntamiento, para el cumplimiento de sus atribuciones, contará con un departamento encargado de auxiliar al Secretario en sus funciones de Secretario Fedatario, y de apoyar en el seguimiento a las propuestas de cabildo; asimismo contará con una subsecretaría general que auxiliará al titular de la dependencia en la supervisión de las actividades de las subdirecciones y departamentos de la misma; una coordinación que le apoyará en las tareas de vinculación comunitaria, y una coordinación administrativa; asimismo, tendrá bajo su cargo:
-
-I.- La Subdirección Jurídica, de la que dependerán los siguientes Departamentos:
+II.- La Subdirección Jurídica, de la que dependerán los siguientes Departamentos:
 
 a) Jurídico;
 
 b) Registro Civil Municipal;
 
-c) Jueces Calificadores; y,
+e) Jueces Calificadores; y,
 
-d) Administración de Documentos Públicos del Gobierno Municipal.
+d) Atención a Cabildo.
 
-II.- La Subdirección de Operación y Seguimiento, que contará con los siguientes departamentos:
+III.- La Subdirección de Operación y Seguimiento, que contará con los siguientes departamentos:
 
 a) Supervisión y permisos;
 
@@ -731,33 +677,155 @@ b) Comercio Ambulante; y,
 
 c) Junta Municipal de Reclutamiento.
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
-III.- Unidad Municipal de Protección Civil.
+###### ARTICULO 41.
 
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2006)</small>
+La Subdirección de Gobierno tendrá a su cargo apoyar al Secretario del Ayuntamiento en la supervisión del cumplimiento y aplicación de las normas y políticas que correspondan a cada uno de los departamentos a su cargo, así como en la atención y seguimiento de los asuntos competencia de éstos, encargándose además de:
 
-IV.- Unidad Municipal de Acceso a la Información.
+I.- Coordinar las unidades administrativas de la Secretaría de acuerdo a las políticas que fije el Secretario;
+
+II.- Remitir los asuntos que sean recibidos en la Secretaría a las dependencias o entidades de la administración pública municipal, responsables de su atención y seguimiento;
+
+III.- Mantener coordinación con Dependencias y Entidades de la Administración Pública Municipal, con la finalidad de registrar, impulsar y otorgar en su caso respuesta oportuna a los asuntos planteados por los Regidores del Ayuntamiento;
+
+IV.- Auxiliar al Secretario en la conducción de las relaciones institucionales que correspondan al gobierno municipal con el gobierno federal, el gobierno del Estado, los demás Ayuntamientos del Estado y del país, así como con los integrantes del Ayuntamiento;
+
+V.- Atender de acuerdo con las directrices establecidas por el Secretario, los asuntos que le sean planteados por Regidores, organizaciones sociales y particulares;
+
+VI.- Auxiliar al Secretario en las atribuciones que le corresponden respecto de la administración y gobierno de las entidades de la Administración Pública Municipal;
+
+VII.- Representar al Secretario en sesiones de gabinetes, comisiones, comités, órganos de gobierno de entidades, órganos desconcentrados y organismos similares;
+
+VIII.- Expedir las constancias de vecindad y residencia que sean solicitadas por los habitantes del municipio; y,
+
+IX.- Participar en la mediación y resolución de conflictos de carácter social, que requieren la intervención de la Secretaria del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+ARTICULO 41 BIS.- La Unidad Municipal de Acceso a la Información, será el vínculo entre el gobierno municipal y el peticionario para la atención de las solicitudes de información, asimismo será la responsable de hacer los requerimientos de la información solicitada a las dependencias y las notificaciones necesarias a la ciudadanía, para ello la Unidad tendrá las siguientes atribuciones:
+
+I.- Recabar, difundir y actualizar en coordinación con los sujetos obligados, la información pública de oficio a que se refiere el presente Reglamento, tramitando su publicación en los medios electrónicos correspondientes del Ayuntamiento, así como et propiciar que las dependencias y entidades de la Administración Pública, la actualicen' según un calendario establecido por el Comité;
+
+II.- Contar con una dirección electrónica para asesorar sobre el acceso a la información, así como para recibir comentarios y sugerencias acerca del sistema;
+
+III.- Elaborar formatos de solicitudes de acceso a la información pública, así como los de acceso y corrección de datos personales;
+
+IV.- Recibir y dar trámite a las solicitudes de acceso a la información que no esté disponible en los medios electrónicos respectivos;
+
+V.- Entregar, en su caso, a los peticionarios, la información solicitada;
+
+VI.- Auxiliar a los peticionarios en la elaboración de solicitudes de acceso a la información y de ser necesario, en caso de que la información solicitada corresponda a otra instancia de gobierno, orientarlos sobre el lugar donde se la puedan proporcionar;
+
+VII.- Realizar al interior de la Administración Pública, los trámites necesarios para integrar la información solicitada, además de efectuar las notificaciones a los peticionarios respecto del trámite;
+
+VIII.- Proponer al Comité los procedimientos internos de administración de la información que contribuyan a la mayor eficiencia y eficacia en la atención de las peticiones de acceso a la información;
+
+IX.- Coadyuvar en el diseño de sistemas fáciles de operar para el acceso a la información, para garantizar que la información presentada en los medios electrónicos correspondientes sea comprensible y actualizada;
+
+X.- Proporcionar asesoría a los particulares y servidores públicos del Ayuntamiento sobre la información solicitada cuando sea necesario;
+
+XI.- Llevar un registro de las solicitudes de acceso a la información y sus resultados;
+
+XII.- Elaborar un catálogo de información de expedientes clasificados en primera instancia por los servidores públicos, que será del conocimiento público;
+
+XIII.- Coadyuvar con el Comité, para la elaboración del proyecto de aprobación, modificación o revocación de la clasificación de la información realizada en primera instancia por los servidores públicos;
+
+XIV.- Coadyuvar en la capacitación de los servidores públicos del Ayuntamiento respecto a su participación en asuntos de transparencia, atención ciudadana e información pública;
+
+XV.- Acatar las recomendaciones y requerimientos de informes que realice el Consejo, así como los lineamientos y criterios que determine el Ayuntamiento; y
+
+XVI.- Las demás necesarias para facilitar, agilizar y garantizar el acceso a la información, las que disponga el presente Reglamento y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+ARTICULO 41 TER.- La Unidad Municipal de Protección Civil tendrá como función organizar el auxilio a la población ante eventualidades que sean un riesgo de siniestro o desastre en el territorio municipal; así como integrar, coordinar y supervisar el sistema municipal para la prevención, auxilio, recuperación y apoyo de la población en situaciones de desastre, por lo que se encargará de:
+
+I.- Identificar y diagnosticar los riesgos de desastres naturales a los que esta expuesto el territorio del Municipio, elaborar y mantener actualizado el Atlas Municipal de Riesgos;
+
+II.- Elaborar, instrumentar, operar y coordinar el Programa Municipal de Protección Civil, para su aprobación, el Plan Municipal de Contingencias;
+
+III.- Elaborar y presentar para su aprobación al Consejo Municipal de Protección Civil, el Plan Municipal de Contingencias;
+
+IV.- Instrumentar un sistema de seguimiento y evaluación del Programa Municipal de Protección Civil e informar al Consejo Municipal de Protección Civil sobre su funcionamiento y avances;
+
+V.- Establecer y mantener la coordinación con dependencias, instituciones y organismos del sector público y privado, involucrados en tareas de Protección Civil;
+
+VI.- Promover la participación social e integración de grupos voluntarios al Sistema Municipal de Protección Civil;
+
+VII.- Establecer un sistema de información que comprenda los directorios de personas e Instituciones, así como los Inventarios de recursos humanos v materiales disponibles para los casos de emergencia; además de los mapas de riesgos y archivos históricos sobre desastres ocurridos en el Municipio;
+
+VIII.- Establecer un sistema de comunicación con organismos especializados que realicen acciones de monitoreo, para vigilar permanentemente la posible ocurrencia de fenómenos que puedan ser generadores de siniestros o desastres;
+
+IX.- Apoyar en la coordinación y operación del Centro Municipal de Operaciones con el Sistema de Protección Civil;
+
+X.- Establecer mecanismos de comunicación, tanto en situación normal, como en caso de emergencia, con las dependencias federal y estatal, responsables de la materia del Protección Civil;
+
+XI.- Promover la realización de cursos, ejercicios y simulacros que permitan aumentar la capacidad de respuesta de los participantes en el Sistema Municipal de Protección Civil;
+
+XII.- Promover la capacitación de la población en general, en materia de medidas de seguridad civil; y
+
+XIII.- Fomentar la cultura de protección civil, a través de la realización de eventos, campañas de difusión y capacitación.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+ARTICULO 41 QUARTER (SIC).- Al Departamento para la Administración de Documentos, Públicos le corresponde recibir, despachar y resguardar toda la documentación que generen las dependencias y entidades, encargándose de:
+
+I.- Aplicar y observar las disposiciones que le establecen los reglamentos municipales en materia de administración de documentos públicos, y archivo histórico;
+
+II.- Recibir y despachar la correspondencia de las dependencias que le corresponda conforme a la reglamentación respectiva, así como de las demás dependencias y entidades que le encomienden esta función;
+
+III.- Administrar los archivos de trámite y concentración a su cargo;
+
+IV.- Vigilar que las dependencias y entidades den cumplimiento a las disposiciones del reglamento municipal en materia de administración de documentos públicos;
+
+V.- Asesorar a las dependencias y entidades en el manejo de su correspondencia, así como en la organización de los archivos de trámite que tengan a su cargo;
+
+VI.- Vigilar que la consulta, certificación y copia de los materiales sean de acuerdo con los procedimientos establecidos; y,
+
+VII.- Custodiar las publicaciones de leyes, reglamentos y acuerdos publicados en el Periódico Oficial del Estado de Baja California, y en el Diario Oficial de la Federación, de aplicación en el ámbito municipal.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO 2008)</small>
 
 ###### ARTICULO 42.
 
-La Subdirección Jurídica tendrá a su cargo apoyar al Secretario del Ayuntamiento en la supervisión del cumplimiento y aplicación de las normas y políticas que correspondan a cada uno de los departamentos a su cargo, así como en atención y seguimiento de los asuntos competencia de éstos que se le encomienden.
+La Subdirección Jurídica tendrá a su cargo apoyar al Secretario del Ayuntamiento en la supervisión del cumplimiento y aplicación de las normas y políticas que correspondan a cada uno de los departamentos a su cargo, así como en atención y seguimiento de los asuntos competencia de éstos, encargándose además de:
+
+I.- Fijar criterios y políticas comunes a que deberán sujetarse las áreas jurídicas de las dependencias y entidades de la Administración Pública Municipal para la atención de los asuntos a su cargo;
+
+II.- Autorizar la conformación de áreas jurídicas o la contratación de asesoría jurídica externa para las dependencias o entidades de la Administración Pública Municipal; y,
+
+III.- Concentrar la documentación relativa al registro de entidades de la Administración Pública Municipal, conforme a lo dispuesto por el reglamento de la materia.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 43.
 
-Al Departamento Jurídico le corresponde brindar asesoría y asistencia jurídica en los litigios en los que sea parte o tenga alguna intervención el Municipio o el Ayuntamiento, para lo cual se encargará de:
+Al Departamento Jurídico le corresponde prever que los actos del gobierno municipal se realicen apegados a las normas jurídicas aplicables, y defender los intereses municipales en los litigios en que dicho gobierno tenga intervención, para lo cual se encargará de:
 
-I.- Brindar asesorías, consultas y asistencia jurídica, al Ayuntamiento y a la Administración Pública Municipal;
+I.- Brindar consultas, asesoría y asistencia jurídica al gobierno municipal;
 
-II.- Ejercer las facultades de representación jurídica del Ayuntamiento, del Municipio, así como de las dependencias y entidades, que le sean encomendadas;
+II.- Ejercer la representación jurídica del Municipio que le sean conferidas;
 
-III.- Conducir la intervención del Municipio, el Ayuntamiento, las dependencias o las entidades, en los asuntos litigiosos que se tramiten ante autoridades administrativas o jurisdiccionales, en los que, se constituyan como parte, o deban comparecer a éstos;
+III.- Ejercer la representación jurídica del Ayuntamiento que le sea conferida por el Síndico Procurador;
 
-IV.- Participar en el proceso de adecuación y actualización del marco jurídico municipal; así como en la emisión de opiniones y asesorías en los procesos de iniciativas de reforma a la legislación estatal en materia municipal;
+IV.- Diseñar o autorizar la estrategia de defensa de los intereses del gobierno municipal en los litigios en los que éste intervenga con cualquier carácter y ante cualquier autoridad administrativa o jurisdiccional, y coordinar las tareas que correspondan para la atención de estos asuntos a las áreas jurídicas de las dependencias o entidades;
 
-V.- Brindar asesoría, asistencia técnica y patrocinios jurídicos, a las diferentes dependencias y entidades así como al Ayuntamiento, ante autoridades jurisdiccionales y administrativas; y,
+V.- Elaborar y presentar los informes previo y justificado, e intervenir en los juicios de garantías en los que se señale como autoridades responsables a cualquier dependencia o entidad que no cuente con área jurídica;
 
-VI.- Conocer y supervisar las actividades que lleven a cabo las áreas jurídicas de las dependencias y entidades, a fin de fijar criterios y políticas comunes.
+VI.- Participar en el proceso de adecuación y actualización del marco jurídico municipal, así emitir opiniones y brindar asesorías en los procesos de reforma a la legislación estatal en materia municipal;
+
+VII.- Emitir dictámenes sobre la constitucionalidad y legalidad de los proyectos de' reglamentos, acuerdos y resoluciones del Ayuntamiento que le sean solicitados por el gobierno municipal;
+
+VIII.- Asistir jurídicamente al gobierno municipal en los actos que lleve a cabo ante autoridades administrativas, jurisdiccionales o legislativas;
+
+IX.- Opinar sobre los actos jurídicos que lleve a cabo el gobierno municipal, y en el caso de la Administración Pública, hacer recomendaciones para asegurar su legalidad;
+
+X.- Formular, o revisar y autorizar, los convenios y demás instrumentos jurídicos en los que intervengan el Ayuntamiento, el Presidente Municipal, o las dependencias o entidades;
+
+XI.- Revisar y autorizar los formatos mediante los cuales las dependencias y entidades; en ejercicio de sus atribuciones, ordenan y llevan a cabo actos de autoridad tales como mandamientos, notificaciones, visitas domiciliarias, inspecciones, verificaciones, actas de comparecencia, suspensiones, clausuras, y boletas de infracción; y,
+
+XII.- Tramitar los certificados de vecindad y residencia; suplencias de consentimiento y dispensas de edad para contraer matrimonio, así como las anuencias y certificaciones que debe otorgar el gobierno municipal de conformidad con la legislación federal para la realización de diversos actos, cuando no correspondan a otra dependencia.
 
 ###### ARTICULO 44.
 
@@ -793,31 +861,37 @@ VI.- A través del titular del Departamento, establecer relaciones de coordinaci
 
 VII.- Capacitar y supervisar a los Delegados Municipales en su función de Jueces calificadores.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 46.
 
-Al Departamento para la Administración de Documentos Públicos del Gobierno Municipal le corresponde recibir, despachar y resguardar toda la documentación que generen las dependencias y entidades, encargándose de:
+Para el apoyo a las atribuciones del Secretario en su carácter de Secretario Fedatario del Ayuntamiento, al Departamento de Atención a Cabildo le corresponden las actividades de asistencia al Secretario, así como el apoyo a los Regidores y Comisiones del Ayuntamiento, para el seguimiento de las propuestas que deba resolver éste, y la elaboración de proyectos de la reglamentación municipal, para lo cual se encargara de:
 
-I.- Aplicar y observar las disposiciones que le correspondan del reglamento para la Administración de Documentos Públicos del Gobierno Municipal, y del Reglamento del Archivo Histórico del Municipio;
+I.- Remitir para su seguimiento a las Comisiones, Regidores, dependencias o entidades, los asuntos que corresponde conocer al Ayuntamiento;
 
-II.- Recibir y despachar la correspondencia de las dependencias que le corresponda conforme a la reglamentación respectiva, así como de las demás dependencias y entidades que le encomienden esta función;
+II.- Coordinar la organización y cuidar el cumplimiento del protocolo de las sesiones de Cabildo;
 
-III.- Administrar los archivos de trámite y concentración a su cargo;
+III.- Integrar la compilación de los acuerdos tomados por el Ayuntamiento en sesiones de Cabildo;
 
-IV.- Vigilar que las dependencias y entidades den cumplimiento a las disposiciones del reglamento para al (sic) Administración de Documentos Públicos del Gobierno Municipal;
+IV.- Participar en el seguimiento de los asuntos turnados a las comisiones del Ayuntamiento;
 
-V.- Asesorar a las dependencias y entidades en el manejo de su correspondencia, así como en la organización de los archivos de trámite que tengan a su cargo;
+V.- Asistir a las sesiones de las comisiones del Ayuntamiento en las que hayan de discutirse y aprobarse dictámenes para su posterior presentación ante el Cabildo;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+VI.- Elaborar proyectos de dictámenes de las comisiones del Ayuntamiento que le sean solicitados;
 
-VI.- Vigilar que la consulta, certificación y copia de los materiales sean de acuerdo con los procedimientos establecidos;
+VII.- Formular los proyectos de propuestas de acuerdos de cabildo que le indique el Secretario del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+VIII.- Formular, o revisar y opinar los proyectos de bandos, reglamentos municipales, iniciativas de ley, acuerdos y disposiciones de observancia general, que deban ser sometidos a la aprobación del Ayuntamiento, así como de las reformas que se propongan a los mismos;
 
-VII.- Recopilar leyes y reglamentos y acuerdos publicados en el Periódico Oficial, órgano del Estado de Baja California, y en el Diario Oficial de la Federación, de aplicación en el ámbito municipal; y
+IX.- Recopilar la reglamentación municipal, así como la legislación federal y estatal, aplicables en el ámbito municipal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2004)</small>
+X.- Turnar a las dependencias y entidades que tengan injerencia, los acuerdos aprobados por el Ayuntamiento;
 
-VIII.- Concentrar la documentación relativa al registro de entidades paramunicipales, conforme a lo dispuesto por el reglamento de la materia.
+XI.- Tramitar la publicación de los acuerdos del Ayuntamiento que correspondan en el Periódico Oficial del Estado;
+
+XII.- Representar al gobierno municipal en las sesiones de las comisiones de dictamen legislativo del Congreso del Estado, en las que haya de discutirse proyectos relacionados con asuntos de carácter municipal; y
+
+XIII.- Participar en el seguimiento a las iniciativas y proyectos ante el Congreso del Estado, relativas a asuntos de carácter municipal.
 
 ###### ARTICULO 47.
 
@@ -885,75 +959,11 @@ VII.- Informar a la comunidad en general de los requisitos e importancia de la o
 
 VIII.- Impulsar la celebración de convenios de coordinación con entidades públicas y privadas, que tengan como finalidad apoyar las tareas de convocatoria para el reclutamiento de jóvenes en edad militar, la información de los requisitos para la obtención de la cartilla militar, así como la importancia de la misma.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+ARTICULO 50 BIS.- (DEROGADO, P.O. 25 DE ENERO DE 2008)
 
-ARTICULO 50 BIS.- La Unidad Municipal de Protección Civil tendrá como función organizar el auxilio a la población ante eventualidades que sean un riesgo de siniestro o desastre en el territorio municipal; así como integrar, coordinar y supervisar el sistema municipal para la prevención, auxilio, recuperación y apoyo de la población en situaciones de desastre, por lo que se encargará de:
+ARTICULO 50 TER.- (DEROGADO, P.O. 25 DE ENERO DE 2008)
 
-I.- Identificar y diagnosticar los riesgos de desastres naturales a los que esta expuesto el territorio del Municipio, elaborar y mantener actualizado el Atlas Municipal de Riesgos;
-
-II.- Elaborar, instrumentar, operar y coordinar el Programa Municipal de Protección Civil, y los subprogramas de prevención, auxilio y recuperación;
-
-III.- Elaborar y presentar por conducto del Director de Bomberos al Consejo Municipal de Protección Civil, para su aprobación, el Plan Municipal de Contingencias;
-
-IV.- Instrumentar un sistema de seguimiento y evaluación del Programa Municipal de Protección Civil e informar al Consejo Municipal de Protección Civil sobre su funcionamiento y avances;
-
-V.- Establecer y mantener la coordinación con dependencias, instituciones y organismos del sector público y privado, involucrados en tareas de Protección Civil;
-
-VI.- Promover la participación social e integración de grupos voluntarios al Sistema Municipal de Protección Civil;
-
-VII.- Establecer un sistema de información que comprenda los directorios de personas e instituciones, así como los inventarios de recursos humanos y materiales disponibles para los caos de emergencia; además de los mapas de riesgos y archivos históricos sobre desastres ocurridos en el Municipio;
-
-VIII.- Establecer un sistema de comunicación con organismos especializados que realicen acciones de monitoreo, para vigilar permanentemente la posible ocurrencia de fenómenos que puedan ser generadores de siniestros o desastres;
-
-IX.- Apoyar en la coordinación y operación del Centro Municipal de Operaciones con el Sistema de Protección Civil;
-
-X.- Establecer mecanismos de comunicación, tanto en situación normal, como en caso de emergencia, con las dependencias federal y estatal, responsables de la materia de Protección Civil;
-
-XI.- Promover la realización de cursos, ejercicios y simulacros que permitan aumentar la capacidad de respuesta de los participantes en el Sistema Municipal de Protección Civil;
-
-XII.- Promover la capacitación de la población en general, en materia de medidas de seguridad civil; y,
-
-XIII.- Fomentar la cultura de protección civil, a través de la realización de eventos, campañas de difusión y capacitación.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
-
-ARTICULO 50 TER.- La Unidad Municipal de Protección Civil, para el cumplimiento de sus atribuciones, contará con una Secretaría Técnica, una Secretaría Técnica Adjunta, una Coordinación del Área de Asesoría Técnica y Planeación de la cual dependerán los Asesores Técnicos e Inspectores, una Coordinación del Área Administrativa de la que dependerán el Auxiliar Administrativo de Recursos Materiales y Humanos, el Auxiliar Administrativo de Recursos Financieros y una Coordinación del Área Preventiva y Educativa.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2006)</small>
-
-ARTICULO 50 QUATER.- La Unidad Municipal de Acceso a la Información, será el vínculo entre el gobierno municipal y el peticionario para la atención de las solicitudes de información, asimismo será la responsable de hacer los requerimientos de la información solicitada a las dependencias y las notificaciones necesarias a la ciudadanía, para ello la Unidad tendrá las siguientes atribuciones:
-
-I.- Recabar, difundir y actualizar en coordinación con los sujetos obligados, la información pública de oficio a que se refiere el presente Reglamento, tramitando su publicación en los medios electrónicos correspondientes del Ayuntamiento, así como el propiciar que las dependencias y entidades de la Administración Pública, la actualicen según un calendario establecido por el Comité;
-
-II.- Contar con una dirección electrónica para asesorar sobre el acceso a la información, así como para recibir comentarios y sugerencias acerca del sistema;
-
-III.- Elaborar formatos de solicitudes de acceso a la información pública, así como los de acceso y corrección de datos personales;
-
-IV.- Recibir y dar trámite a las solicitudes de acceso a la información que no esté disponible en los medios electrónicos respectivos;
-
-V.- Entregar, en su caso, a los peticionarios, la información solicitada;
-
-VI.- Auxiliar a los peticionarios en la elaboración de solicitudes de acceso a la información y de ser necesario, en caso de que la información solicitada corresponda a otra instancia de gobierno, orientarlos sobre el lugar donde se la puedan proporcionar;
-
-VII.- Realizar al interior de la Administración Pública, los trámites necesarios para integrar la información solicitada, además de efectuar las notificaciones a los peticionarios respecto del trámite;
-
-VIII.- Proponer al Comité los procedimientos internos de administración de la información que contribuyan a la mayor eficiencia y eficacia en la atención de las peticiones de acceso a la información;
-
-IX.- Coadyuvar en el diseño de sistemas fáciles de operar para el acceso a la información, para garantizar que la información presentada en los medios electrónicos correspondientes sea comprensible y actualizada;
-
-X.- Proporcionar asesoría a los particulares y servidores públicos del Ayuntamiento sobre la información solicitada cuando sea necesario;
-
-XI.- Llevar un registro de las solicitudes de acceso a la información y sus resultados;
-
-XII.- Elaborar un catálogo de información de expedientes clasificados en primera instancia por los servidores públicos, que será del conocimiento público;
-
-XIII.- Coadyuvar con el Comité, para la elaboración del proyecto de aprobación, modificación o revocación de la clasificación de la información realizada en primera instancia por los servidores públicos;
-
-XIV.- Coadyuvar en la capacitación de los servidores públicos del Ayuntamiento respecto a su participación en asuntos de transparencia, atención ciudadana e información pública;
-
-XV.- Acatar las recomendaciones y requerimientos de informes que realice el Consejo, así como los lineamientos y criterios que determine el Ayuntamiento; y
-
-XVI.- Las demás necesarias para facilitar, agilizar y garantizar el acceso a la información, las que disponga el presente Reglamento y las disposiciones jurídicas aplicables.
+ARTICULO 50 QUATER.- (DEROGADO, P.O. 25 DE ENERO DE 2008)
 
 ### CAPITULO QUINTO. DE LA OFICIALIA MAYOR
 
@@ -1219,17 +1229,37 @@ XIV.- Resguardar los bienes muebles e inmuebles municipales, de los que deberá 
 
 XV.- Prestar el servicio médico a cargo del gobierno municipal;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 25 DE ENERO DE 2008)</small>
 
 XVI.- Mantener en buen estado de funcionamiento los vehículos y equipo de transporte con que cuenten las dependencias;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-XVII.- Prestar el servicio de grúas a las dependencias; y
+XVII.- Prestar el servicio de grúas a las dependencias;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-XVIII.- Mantener en buen estado las instalaciones e inmuebles a cargo del gobierno municipal.
+XVIII.- Coordinar la reorganización de la administración pública municipal;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XIX.- Optimizar los programas, los recursos y funciones de las dependencias, y entidades;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XX.- Impulsar el desarrollo de programas de modernización y simplificación administrativa en las dependencias y entidades;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XXI.- Evaluar el desempeño en la prestación de los servicios públicos municipales;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XXII.- Desarrollar procedimientos para mejorar la calidad en el funcionamiento de las dependencias y entidades de la administración pública municipal; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XXIII.- Generar indicadores de gestión que permitan conocer el desempeño de la administración pública municipal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
@@ -2189,43 +2219,61 @@ IX.- Desarrollar programas de capacitación y adiestramiento para los integrante
 
 La Dirección de Comunicación Social tendrá las siguientes atribuciones:
 
-I.- Diseñar, programar y ejecutar los mecanismos, las políticas y las estrategias de comunicación social que se requieran para el cumplimiento de las atribuciones y programas del gobierno municipal;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-II.- Recopilar información que se genere en los medios de comunicación relacionada con acciones que competan al gobierno municipal, o que puedan tener una repercusión sobre la actuación de éste, y darla a conocer a las dependencias y entidades que corresponda;
+I.- Definir, programar y ejecutar los mecanismos, las políticas y las estrategias de comunicación social que se requieran para el cumplimiento de las atribuciones y programas del gobierno municipal;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+II.- Recopilar y analizar la información que se genere en los medios de comunicación relacionada con acciones que competan al gobierno municipal, o que puedan tener una repercusión sobre la actuación de éste, y darla a conocer a las dependencias y entidades que corresponda;
 
 III.- Mantener informada a la comunidad y a los medios de comunicación sobre las actividades que desempeña el gobierno municipal;
 
-IV.- Recabar y analizar la información que generan las dependencias y entidades, mantener un archivo de la misma;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-V.- Proporcionar apoyo a las dependencias y entidades, en la difusión de las actividades que realizan;
+IV.- Recabar y analizar la información que generan las dependencias y entidades, y mantener un archivo de la misma;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+V.- Diseñar o aprobar las estrategias de difusión de las actividades que realizan las dependencias y entidades de la Administración Pública Municipal;
 
 VI.- Elaborar y organizar programas de difusión sobre las actividades y acuerdos del Ayuntamiento;
 
 VII.- Informar a la comunidad sobre las modificaciones que se realicen en la prestación de los servicios públicos municipales que afecten a los usuarios;
 
-VIII.- Diseñar y ejecutar campañas de comunicación para efecto de promover programas y actividades del gobierno municipal; y,
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-IX.- Realizar análisis de opinión pública sobre las acciones del gobierno municipal.
+VIII.- Diseñar y ejecutar campañas de comunicación para efecto de promover programas y actividades del gobierno municipal;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+IX.- Realizar análisis de opinión pública sobre las acciones del gobierno municipal;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+X.- Organizar los actos públicos, oficiales y protocolarios del gobierno municipal y aquellos en los que participe el Presidente Municipal. Entre dichos actos se consideran, los cívicos que corresponda organizar al gobierno municipal, las sesiones de cabildo, la recepción de visitantes distinguidos, la entrega de reconocimientos, la inauguración de obras, actividades o programas, y los demás similares;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XI.- Coordinarse con las dependencias y entidades relacionadas con el evento a llevarse a cabo, a fin de para el mismo se cuente con los espacios, acciones, recursos, mobiliario, personal y demás materiales necesarios para su cabal realización;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XII.- Definir en coordinación con las dependencias y entidades involucradas, el formato de los eventos públicos del gobierno municipal a fin de que en todos se sigan los lineamientos de la imagen institucional;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XIII.- Apoyar a las dependencias y entidades, en el diseño de estrategias para la realización de eventos públicos; y,
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XIV.- Definir las políticas y mecanismos de enlace y comunicación encaminados a establecer vínculos entre los grupos organizados de la sociedad y el gobierno municipal.
 
 ### CAPITULO DECIMO CUARTO. DE LA DIRECCION DE FOMENTO DEPORTIVO
 
 ###### ARTICULO 107.
 
-La Dirección de Relaciones Públicas tendrá las siguientes atribuciones:
-
-I.- Organizar los actos públicos, oficiales y protocolarios del gobierno municipal y aquellos en los que participe el Presidente Municipal. Entre dichos actos se consideran, los cívicos que corresponda organizar al gobierno municipal, las sesiones de cabildo, la recepción de visitantes distinguidos, la entrega de reconocimientos, la inauguración de obras, actividades o programas, y los demás similares;
-
-II.- Definir en coordinación con las dependencias y entidades involucradas, el formato de los eventos públicos del gobierno municipal, y realizar las actividades necesarias para que éstos se lleven a cabo;
-
-III.- Coordinarse con la Oficialía Mayor, la Tesorería Municipal, así como las demás dependencias y entidades relacionadas con el evento a llevarse a cabo, a fin de (sic) para el mismo se cuente con los espacios, acciones, recursos, mobiliario, personal y demás materiales necesarios para su cabal realización;
-
-IV.- Apoyar a las dependencias y entidades, en el diseño de estrategias para la realización de eventos públicos;
-
-V.- Realizar las funciones de enlace institucional del gobierno municipal, como contacto inicial, operativo y logístico, con los representantes de otras instituciones, así como definir el proceso, en los actos protocolarios en los que participe el Presidente Municipal;
-
-VI.- Promover e incrementar las relaciones entre el Municipio, con otros nacionales o extranjeros, particularmente con las denominadas “Ciudades Hermanas”; y,
-
-VII.- Propiciar y promover la participación directa, o los donativos de instituciones públicas o privadas, en la implementación de acciones conjuntas o de colaboración con el gobierno municipal.
+(DEROGADO, P.O. 25 DE ENERO DE 2008)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2004)</small>
 
@@ -2251,7 +2299,9 @@ VII.- Propiciar y promover la participación directa, o los donativos de institu
 
 (DEROGADO, P.O. 7 DE MAYO DE 2004)
 
-### CAPITULO DECIMO SEXTO. DE LAS DELEGACIONES MUNICIPALES
+### CAPITULO DECIMO SEXTO. DE LA DIRECCION DE DESARROLLO RURAL Y DELEGACIONES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 113.
 
@@ -2271,91 +2321,105 @@ VI.- Promover el uso de espacios alternativos para la expresión y difusión de 
 
 VII.- Administrar el Archivo Histórico del Municipio, de conformidad con el reglamento municipal de la materia.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+### CAPITULO DECIMO SEXTO (SIC). DE LAS DELEGACIONES MUNICIPALES
 
 ###### ARTICULO 114.
 
-La Dirección de Cultura para el cumplimiento de sus atribuciones contará con una coordinación administrativa, y tendrá a su cargo los siguientes departamentos:
+A la Dirección de Desarrollo Rural y Delegaciones le corresponde conducir la operación de las Delegaciones Municipales, promover el desarrollo integral de las comunidades que se ubiquen dentro de éstas, y supervisar a las Juntas de Mejoramiento, Moral, Cívico y Material que operen en el Municipio, encargándose de:
 
-I.- Cultura Popular;
+I.- Asegurarse de que las actividades administrativas a cargo de las oficinas de las Delegaciones, se lleven a cabo de manera uniforme con las políticas y lineamientos de la administración pública municipal;
 
-II.- Bibliotecas;
+II.- Coordinar y asesorar a los Delegados en el desempeño de sus funciones;
 
-III.- Desarrollo Cultural; y,
+III.- Promover la descentralización de funciones a las Delegaciones Municipales, a fin de facilitar el acceso y ampliar la cobertura de los servicios municipales;
 
-IV.- Archivo Histórico.
+IV.- Promover el desarrollo de actividades productivas, de desarrollo social, obras y servicios públicos, en las Delegaciones Municipales;
+
+V.- Operar los servicios de alumbrado público, limpia, mantenimiento y construcción de vialidades, en las comunidades que formen parte de las Delegaciones Municipales, y gestionar la adecuada prestación de los demás servicios públicos a cargo de otras dependencias y entidades de la Administración Pública Municipal, o de dependencias o entidades de otros órdenes de gobierno;
+
+VI.- Vincular y coordinar en las Delegaciones Municipales, la ejecución de los programas a cargo de las dependencias y entidades de la Administración Pública Municipal, así como de dependencias y entidades de otros órdenes de gobierno;
+
+VII.- En los casos en que se puedan generar consecuencias para dos o más Delegaciones, establecer coordinación y conjuntar esfuerzos con instituciones involucradas en el desarrollo de las zonas que se encuentren dentro de su territorio;
+
+VIII.- Promover la instrumentación de procesos de planeación por zonas, para el desarrollo de las comunidades ubicadas en la jurisdicción de las Delegaciones Municipales;
+
+IX.- Fomentar la capacitación y actualización de los Delegados Municipales en relación con la normatividad que les corresponda observar y aplicar;
+
+X.- Intervenir en los asuntos de competencia municipal que se presenten en las Delegaciones cuando así lo instruya el Presidente Municipal; y,
+
+XI.- Supervisar que las Juntas de Mejoramiento, Moral, Cívico y Material ubicadas en el Municipio cumplan con las disposiciones establecidas en la Ley y con reglamento municipal de la materia; (sic)
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 115.
 
-El Departamento de Cultura Popular se encargará de:
+La Dirección de Desarrollo Rural y Delegaciones para el cumplimiento de sus atribuciones contará con una coordinación administrativa, y tendrá bajo su cargo los siguientes Departamentos:
 
-I.- Promover la difusión, desarrollo y continuidad de las expresiones culturales de la comunidad;
+I.- Desarrollo Rural
 
-II.- Organizar actividades y eventos que fomenten la participación de la comunidad como reforzamiento de su propia identidad y pertenencia;
+II.- Operación de Servicios Delegacionales
 
-III.- Apoyar la difusión de tradiciones y costumbres que distinguen a las comunidades; y,
+III.- Juntas de Mejoras y Acción Comunitaria
 
-IV.- Difundir y acercar a la comunidad los diversos conceptos y expresiones culturales.
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 116.
 
-El Departamento de Bibliotecas se habrá de encargar de:
+Al Departamento de Desarrollo Rural le corresponde:
 
-I.- Administrar el uso de inmuebles a cargo del gobierno municipal destinados a tal fin;
+I.- Proponer y coordinar los programas municipales encaminados al fomento de actividades productivas en las Delegaciones Municipales, y al desarrollo agropecuario y pesquero;
 
-II.- Organizar y controlar las actividades propias relacionadas con los servicios de las bibliotecas;
+II.- Impulsar las actividades comerciales, industriales, agropecuarias y de pesca en la jurisdicción de las Delegaciones Municipales;
 
-III.- Promover el desarrollo del servicio de consulta bibliográfica;
+III.- Vincular las acciones de los gobiernos municipal, estatal y federal, así como de la iniciativa privada, encaminadas a fomentar el desarrollo económico de las Delegaciones Municipales;
 
-IV.- Mantener programas para fomentar la lectura y la investigación;
+IV.- Promover el acceso a los financiamientos y programas de apoyo a las actividades económicas y población en general, enfocados a la jurisdicción de las Delegaciones Municipales;
 
-V.- Programar en los niños y jóvenes la adquisición de hábitos de estudio, de trabajo en equipo, de investigación y actualización de conocimientos;
+V.- Promover la vinculación de empresarios, productores y universidades para la investigación, capacitación, asesoría y realización de proyectos productivos para fomentar el desarrollo económico de las comunidades que formen parte de las Delegaciones Municipales;
 
-VI.- Asegurar la limpieza, mantenimiento y rehabilitación de las instalaciones bibliotecarias a cargo de gobierno municipal;
+VI.- Realizar acciones para fortalecer las unidades productivas familiares y grupos de trabajo de las mujeres y jóvenes;
 
-VII.- Promover la vinculación con el sector educativo en programas que se desarrollen por el Departamento;
+VII.- Elaborar los análisis estadísticos que apoyen la promoción de las actividades agropecuaria y pesquera en el municipio;
 
-VIII.- Resguardar el acervo material y equipo destinado para su uso en los espacios bibliotecarias (sic); y,
+VIII.- Formular y elaborar estudios y programas de promoción de las actividades agropecuarias y pesqueras del municipio que sean susceptibles y sustentables de realizar;
 
-IX.- Consolidar y mejorar los espacios bibliotecarios existentes, actualizando el acervo y equipo con el que cuenten, adaptándolo a los avances tecnológicos.
+IX.- Promover las campañas de limpieza y control de residuos y desechos de los productos agropecuarios y pesqueros para cuidado del medio ambiente y el desarrollo sustentable, y vigilar la aplicación correcta de los paquetes tecnológicos, el uso racional de los recursos con prácticas de conservación de suelo y agua;
+
+X.- Promover la organización de los productores rurales para la producción, acopio, compra de insumos y comercialización de sus productos;
+
+XI.- Impulsar el fortalecimiento de la capacidad de autogestión, negociación y acceso de los productores a los mercados, a los procesos de agregación de valor, a los apoyos y subsidios, ya la información económica y productiva; y
+
+XII.- Fomentar la reducción de los costos de intermediación, así como la promoción del acceso a los servicios, venta de productos y adquisición de insumas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 117.
 
-El Departamento de Desarrollo Cultural tendrá las siguientes atribuciones:
+Al Departamento Operación de Servicios Delegacionales le corresponde en las Delegaciones Municipales:
 
-I.- Impulsar las actividades que promueven la sensibilización a las artes;
+I.- Organizar, coordinar y prestar los servicios públicos de alumbrado público, semaforización, cementerios, áreas verdes y jardines, así como su mantenimiento y conservación;
 
-II.- Organizar talleres de las diversas disciplinas artísticas;
+II.- Prestar el servicio de recolección domiciliaria de residuos;
 
-III.- Convocar a la comunidad a que participe en eventos, acciones y programas artísticas (sic) y culturales;
+III.- Organizar, coordinar y prestar los servicios públicos de mantenimiento, conservación, construcción y reconstrucción de vialidades;
 
-IV.- Promover la participación de artistas reconocidos en la difusión de actividades artísticas a la comunidad;
+IV.- Realizar obras de mantenimiento de infraestructura menor en áreas suburbanas de las Delegaciones Municipales.
 
-V.- Organizar concursos para promover la superación y crecimiento de las propuestas y expresiones artísticas y culturales de la comunidad;
-
-VI.- Administrar eficientemente el uso de los espacios culturales y artísticos de la comunidad; y,
-
-VII.- Promover el uso de espacios alternativos para ampliar el desarrollo de las actividades culturales y artísticas de la comunidad.
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 118.
 
-El Departamento del Archivo Histórico tendrá a su cargo:
+Al Departamento de Juntas de Mejoras y Acción Comunitaria le corresponde:
 
-I.- Integrar, organizar y administrar el Archivo Histórico del Municipio, de conformidad con las disposiciones establecidas en su reglamento;
+I.- Vigilar que las Juntas de Mejoramiento Moral, Cívico y Material cumplan con los fines que la normatividad aplicable les impone;
 
-II.- Difundir entre la comunidad, el acervo que integre el Archivo Histórico, para promover su utilización por investigadores, estudiantes y académicos;
+II.- Operar las atribuciones que el Reglamento municipal de las Juntas de Mejoramiento Moral, Cívico y Material, establece para la Dirección de Desarrollo Rural y Delegaciones; y,
 
-III.- Participar en eventos culturales que tengan relación con la historia del Municipio y sus poblaciones;
+III.- Fomentar y coordinar los esfuerzos de la comunidad para la prestación de servicios públicos y la realización de obras en las Delegaciones Municipales.
 
-IV.- Acrecentar el acervo documental del Archivo Histórico, promoviendo que le sean entregados para su resguardo archivos de esta naturaleza, relacionados con el Municipio, por dependencias y entidades de la Administración Pública, federal, estatal o municipal, o por particulares;
-
-V.- Vigilar que la consulta del acervo documental del Archivo Histórico, se lleve a cabo de acuerdo con las normas establecidas;
-
-VI.- Preservar los documentos que conformen el acervo del Archivo Histórico, formulando y ejecutando programas de restauración de los mismos; y,
-
-VII.- Coordinarse con el departamento responsable de la administración de documentos públicos del gobierno municipal, para la entrega-recepción de éstos, cuando haya concluido su término de permanencia en el archivo de concentración y deban ser sujetos de evaluación histórica.
-
-### CAPITULO PRIMERO. NATURALEZA Y FACULTADES
+### CAPITULO UNICO
 
 ###### ARTICULO 119.
 
@@ -2383,7 +2447,9 @@ VI.- Promover, opinar y validar la propuesta de obras públicas municipales que 
 
 VII.- Supervisar la ejecución de obras públicas municipales que se lleven a cabo en el territorio de la Delegación;
 
-VIII.- Vigilar la prestación de los servicios públicos municipales dentro de su respectiva jurisdicción, y en su caso, exigir a la dependencia o entidad responsable de prestarlos, la corrección de las irregularidades o deficiencias que detecte;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+VIII.- Vigilar la prestación de los servicios públicos municipales dentro de su respectiva, jurisdicción;
 
 IX.- Organizar los actos cívicos en las poblaciones de la jurisdicción;
 
@@ -2395,13 +2461,19 @@ XII.- Presentar a la comunidad de las poblaciones de la Delegación, un informe 
 
 XIII.- Participar en la formulación, conocer y validar las propuestas de planes, programas, actividades y presupuestos que las dependencias y entidades vayan a aplicar dentro de la jurisdicción territorial de la Delegación;
 
-XIV.- Mantener una coordinación y comunicación efectiva con las dependencias y entidades, en la integración de los planes, programas de trabajo y actividades a desarrollar en la Delegación Municipal;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-XV.- Acordar con los titulares de las dependencias y entidades, la designación de las personas que serán responsables o trabajarán en las oficinas de aquellas que se adscriban a la Delegación;
+XIV.- Mantener a través de la Dirección de Desarrollo Rural y Delegaciones, una coordinación y comunicación efectiva con las dependencias y entidades en la integración de los planes, programas de trabajo y actividades a desarrollar en la Delegación Municipal;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XV.- Acordar con el Director de Desarrollo Rural y Delegaciones, y con los titulares de las dependencias y entidades de la Administración Pública Municipal, la designación de las personas que serán responsables o trabajaran en las tareas de dichas dependencias o entidades en la Delegación;
 
 XVI.- Controlar administrativamente a los empleados de las dependencias y entidades adscritos a la Delegación, dando seguimiento al cumplimiento de los programas y presupuestos aprobados;
 
-XVII.- Proponer al Presidente Municipal y a los titulares de las dependencias y entidades, la adopción de medidas para fortalecer su capacidad de gestión de gobierno, mejorar la prestación de los servicios públicos municipales, así como la calidad de vida y bienestar de la población;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+
+XVII.- Proponer al Director de Desarrollo Rural y Delegaciones, la adopción de medidas para fortalecer su capacidad de gestión de gobierno, mejorar la prestación de los servicios públicos municipales, así como la calidad de vida y bienestar de la población;
 
 XVIII.- Establecer coordinación y conjuntar esfuerzos con instituciones involucradas en el desarrollo de las zonas que se encuentren dentro del territorio de la Delegación Municipal;
 
@@ -2441,9 +2513,7 @@ XIII.- Administrar el fondo para gastos menores.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAMUNICIPAL
 
-### CAPITULO SEGUNDO. DE LA DIRECCION DE CONTRALORIA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+### CAPITULO PRIMERO. NATURALEZA Y FACULTADES
 
 ###### ARTICULO 123.
 
@@ -2473,7 +2543,7 @@ VII.- La dependencia coordinadora de sector, con la que trabajarán, conforme a 
 
 ## TITULO CUARTO. DE LA SINDICATURA MUNICIPAL
 
-### CAPITULO TERCERO. DE LA DIRECCION JURIDICA
+### CAPITULO SEGUNDO. DE LA DIRECCION DE CONTRALORIA
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -2561,67 +2631,9 @@ III.- Fiscalización.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2007)</small>
 
-### CAPITULO CUARTO. DE LA DIRECCION DE FISCALIZACION
+### CAPITULO TERCERO. DE LA DIRECCION JURIDICA
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-ARTICULO 129 BIS.- La Dirección de Fiscalización se encargará de la vigilancia y control de las dependencias y entidades de la Administración Pública Municipal, revisando y verificando que estas se administren y apliquen los recursos que les sean asignados, con eficiencia, eficacia y honradez, al logro de las metas y objetivos establecidos en sus programas y en cumplimiento de la normatividad aplicable, encargándose de:
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-I.- Ejercer las atribuciones que se establecen a cargo de la Sindicatura en el artículo 124 del presente reglamento, en sus fracciones I, II, III, IV, V, VI, VII, XV, XVI Y XVIII incisos a), b) y f);
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-II.- Elaborar los programas sobre los que se dirigirán las revisiones programáticas y presupuestales, financieras, administrativas y operacionales a las dependencias y entidades;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-III.- Asesorar para la correcta aplicación y debido cumplimiento de la normatividad vigente en materia de ejercicio del gasto público, por parte de las dependencias y entidades;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-IV.- Inspeccionar físicamente las obras públicas que lleven a cabo las dependencias y entidades, para comprobar si las inversiones y gastos autorizados, se han aplicado eficientemente al logro de los objetivos y metas de los programas y subprogramas aprobados;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-V.- Practicar auditorias a las obras públicas que lleven a cabo las diferentes dependencias y organismos ejecutoras de obra;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-VI.- Intervenir en todas las etapas del proceso de licitación de la obra pública, con la finalidad de verificar el debido cumplimiento de la normatividad aplicable;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-VII.- Asesorar y validar la elaboración de las actas de entrega-recepción y documentación complementaria, cuando tengan lugar cambios de funcionarios; y (sic)
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-VIII.- Participar en el acto protocolario de firmas de actas de entrega-recepción;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2007)</small>
-
-IX.- Dar seguimiento a las observaciones no solventadas determinadas por el Órgano de Fiscalización Superior del Estado de Baja California, derivadas del examen de las Cuentas Públicas del Ayuntamiento como de los Organismos Paramunicipales, consignadas en los Dictámenes turnados a la Sindicatura Municipal por el Congreso del Estado e informar al mismo en los plazos otorgados;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2007)</small>
-
-X.- Realizar revisiones derivadas de denuncias y quejas ciudadanas a efecto de documentar las actuaciones de los servidores públicos municipales.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-ARTICULO 129 TER.- La Dirección de Fiscalización para un mejor desempeño de sus atribuciones contará con los siguientes departamentos:
-
-I.- Departamento de revisión de Obra Pública; el que tendrá las atribuciones previstas en el artículo 24, fracciones XVI y 129 BIS, fracciones, IV, V, VI;
-
-II.- Departamento de Revisiones Programáticas y Presupuestales; el que tendrá las atribuciones previstas en el artículo 124, fracciones IV, V y VII y artículo 129 BIS fracción III;
-
-III.- Departamento de Revisión de la Administración Central; el que tendrá las atribuciones previstas en el artículo 124, fracciones I, II, III, IV, V, VI, VII, XV Y XVIII incisos a), b) y f) y artículos 129 BIS, fracciones VII y VIII;
-
-IV.- Departamento de Revisiones al Sector Paramunicipal; el que tendrá las atribuciones previstas en el artículo 124, fracciones I, II, III, IV, V, VI, VII XV Y XVIII, incisos a), b) y f), y artículos 129 BIS, fracciones VII y VIII; y
-
-V.- Departamento de Revisiones Especiales; el que tendrá las atribuciones previstas en el artículo 129 BIS, fracciones IX y X.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 126.
 
@@ -2687,9 +2699,67 @@ III.- De Supervisión.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2007)</small>
 
-### CAPITULO UNICO. DE LA DIRECCION DE PLANEACION URBANA
+### CAPITULO CUARTO. DE LA DIRECCION DE FISCALIZACION
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+ARTICULO 129 BIS.- La Dirección de Fiscalización se encargará de la vigilancia y control de las dependencias y entidades de la Administración Pública Municipal, revisando y verificando que estas se administren y apliquen los recursos que les sean asignados, con eficiencia, eficacia y honradez, al logro de las metas y objetivos establecidos en sus programas y en cumplimiento de la normatividad aplicable, encargándose de:
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+I.- Ejercer las atribuciones que se establecen a cargo de la Sindicatura en el artículo 124 del presente reglamento, en sus fracciones I, II, III, IV, V, VI, VII, XV, XVI Y XVIII incisos a), b) y f);
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+II.- Elaborar los programas sobre los que se dirigirán las revisiones programáticas y presupuestales, financieras, administrativas y operacionales a las dependencias y entidades;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+
+III.- Asesorar para la correcta aplicación y debido cumplimiento de la normatividad vigente en materia de ejercicio del gasto público, por parte de las dependencias y entidades;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+
+IV.- Inspeccionar físicamente las obras públicas que lleven a cabo las dependencias y entidades, para comprobar si las inversiones y gastos autorizados, se han aplicado eficientemente al logro de los objetivos y metas de los programas y subprogramas aprobados;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+
+V.- Practicar auditorias a las obras públicas que lleven a cabo las diferentes dependencias y organismos ejecutoras de obra;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+
+VI.- Intervenir en todas las etapas del proceso de licitación de la obra pública, con la finalidad de verificar el debido cumplimiento de la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+
+VII.- Asesorar y validar la elaboración de las actas de entrega-recepción y documentación complementaria, cuando tengan lugar cambios de funcionarios; y (sic)
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+
+VIII.- Participar en el acto protocolario de firmas de actas de entrega-recepción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2007)</small>
+
+IX.- Dar seguimiento a las observaciones no solventadas determinadas por el Órgano de Fiscalización Superior del Estado de Baja California, derivadas del examen de las Cuentas Públicas del Ayuntamiento como de los Organismos Paramunicipales, consignadas en los Dictámenes turnados a la Sindicatura Municipal por el Congreso del Estado e informar al mismo en los plazos otorgados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2007)</small>
+
+X.- Realizar revisiones derivadas de denuncias y quejas ciudadanas a efecto de documentar las actuaciones de los servidores públicos municipales.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+ARTICULO 129 TER.- La Dirección de Fiscalización para un mejor desempeño de sus atribuciones contará con los siguientes departamentos:
+
+I.- Departamento de revisión de Obra Pública; el que tendrá las atribuciones previstas en el artículo 24, fracciones XVI y 129 BIS, fracciones, IV, V, VI;
+
+II.- Departamento de Revisiones Programáticas y Presupuestales; el que tendrá las atribuciones previstas en el artículo 124, fracciones IV, V y VII y artículo 129 BIS fracción III;
+
+III.- Departamento de Revisión de la Administración Central; el que tendrá las atribuciones previstas en el artículo 124, fracciones I, II, III, IV, V, VI, VII, XV Y XVIII incisos a), b) y f) y artículos 129 BIS, fracciones VII y VIII;
+
+IV.- Departamento de Revisiones al Sector Paramunicipal; el que tendrá las atribuciones previstas en el artículo 124, fracciones I, II, III, IV, V, VI, VII XV Y XVIII, incisos a), b) y f), y artículos 129 BIS, fracciones VII y VIII; y
+
+V.- Departamento de Revisiones Especiales; el que tendrá las atribuciones previstas en el artículo 129 BIS, fracciones IX y X.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 128.
 
@@ -2723,7 +2793,7 @@ II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2007)</small>
 
-### CAPITULO UNICO. DE LA DIRECCION DE ADMINISTRACION URBANA
+### CAPITULO UNICO. DE LA DIRECCION DE PLANEACION URBANA
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
@@ -2731,9 +2801,9 @@ II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO. DE LA DIRECCION MUNICIPAL DE FOMENTO AGROPECUARIO Y PESQUERO
+### CAPITULO UNICO. DE LA DIRECCION DE ADMINISTRACION URBANA
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 130.
 
@@ -2814,6 +2884,8 @@ IX.- Integrar, actualizar y resguardar los archivos de estudios y proyectos de e
 ## TITULO SEXTO. DE LA DIRECCION DE ADMINISTRACION URBANA
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO UNICO. DE LA DIRECCION MUNICIPAL DE FOMENTO AGROPECUARIO Y PESQUERO
 
 ###### ARTICULO 135.
 
@@ -2955,39 +3027,11 @@ XIX.- Realizar los dictámenes de factibilidad para el establecimiento de estaci
 
 ###### ARTICULO 140.
 
-La Dirección Municipal de Fomento Agropecuario y Pesquero tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 25 DE ENERO DE 2008)
 
-I.- Proponer y coordinar las políticas y programas municipales de desarrollo agropecuario y pesquero, a través de la inversión local, o promoviendo la inversión extranjera, procurando el crecimiento sustentable del municipio;
+###### ARTICULO 141.
 
-II.- Impulsar, coordinar y promover las actividades comerciales, industriales, agropecuarias y de pesca en todas sus ramas, en especial aquellas de interés general para la población y de fomento al sector;
-
-III.- Servir de coadyuvante entre el gobierno municipal, estatal, federal y el sector industrial para fomentar el desarrollo del sector, así como el promover el acceso a los apoyos crediticios y programas de apoyo al sector en beneficio de los productores y habitantes de la zona rural;
-
-IV.- Promover la vinculación de empresarios, productores y universidades para la investigación, capacitación, asesoría y realización de proyectos productivos para fomentar el desarrollo rural, así como la reconversión tecnológica para el aprovechamiento máximo de sus recursos;
-
-V.- Procurar la participación de organismos empresariales, así como de las dependencias gubernamentales en materia de desarrollo y fomento económico con relación a las citadas actividades agropecuarias y pesqueras;
-
-VI.- Promover las medidas pertinentes ante las instancias gubernamentales correspondientes para favorecer el establecimiento de nuevas empresas que propicien el fomento económico de actividades agropecuarias y pesqueras;
-
-VII.- El fortalecimiento de las unidades productivas familiares y grupos de trabajo de las mujeres y jóvenes rurales;
-
-VIII.- Representar al Presidente Municipal ante las distintas organizaciones e instancias gubernamentales; y
-
-IX.- Las demás que le encomienden el Presidente Municipal, este reglamento y otras disposiciones reglamentarias.
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-###### ARTÍCULO 141.
-
-La Dirección Municipal de Fomento Agropecuario y Pesquero para el cumplimiento de sus atribuciones contará con el apoyo de una coordinación administrativa, y tendrá a su cargo:
-
-I.- Subdirección Operativa, de la que dependerán los siguientes departamentos:
-
-a) Planeación, Seguimiento y Fomento de Apoyos al Sector; y
-
-b) Estudios y Proyectos del Sector.
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+(DEROGADO, P.O. 25 DE ENERO DE 2008)
 
 ## TITULO SEPTIMO. DE LA DIRECCION MUNICIPAL DE FOMENTO AGROPECUARIO Y PESQUERO
 
@@ -2995,25 +3039,7 @@ b) Estudios y Proyectos del Sector.
 
 ###### ARTICULO 142.
 
-La Subdirección Operativa tendrá como función auxiliar al Director en el desempeño de sus atribuciones, así como participar en la planeación, elaboración, operación y seguimiento de los programas y proyectos que ejecute la Dirección, por lo que se encargará a través de sus departamentos de ejercer las siguientes funciones:
-
-I.- Vigilar la aplicación correcta de los paquetes tecnológicos, el uso racional de los recursos con prácticas de conservación de suelo y agua;
-
-II.- Elaborar los análisis y presentación de datos estadísticos, que apoyen la promoción de la actividad agropecuaria y pesquera del municipio;
-
-III.- Formular y elaborar estudios y programas de promoción de las actividades agropecuarias y pesqueras del municipio que sean susceptibles y sustentables de realizar;
-
-IV.- Promover las campañas de limpieza y control de residuos y desechos de los productos agropecuarios y pesqueros para cuidado del medio ambiente y el desarrollo sustentable;
-
-V.- Fomentar el establecimiento de empresas, sociedades mercantiles y/o productoras, principalmente de aquellas que transformen o proporcionen un valor agregado a los productos locales en las actividades agropecuarias y pesqueras para su comercialización y venta;
-
-VI.- Promover la organización de los productores rurales para la producción, acopio, compra de insumos y comercialización de sus productos;
-
-VII.- Consolidar las acciones de apoyo a la producción y el desarrollo de obras de riego y planeación del desarrollo regional;
-
-VIII.- El fortalecimiento de la capacidad de autogestión, negociación y acceso de los productores a los mercados, a los procesos de agregación de valor, a los apoyos y subsidios y a la información económica y productiva; y
-
-IX.- La reducción de los costos de intermediación, así como promover el acceso a los servicios, venta de productos y adquisición de insumos.
+(DEROGADO, P.O. 25 DE ENERO DE 2008)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -3168,5 +3194,15 @@ P.O. 9 DE FEBRERO DE 2007.
 PRIMERO.- Cuando una ley o reglamento se refiera a las Subdirecciones de Contraloría, Fiscalización o Jurídica, se entenderá que se refieren a las actuales Direcciones de Contraloría, Fiscalización y Jurídica a que se refieren estas reformas.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE ENERO DE 2008.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En todos los casos en que los reglamentos, acuerdos y demás normatividad municipal hagan referencia a la Coordinación de Delegaciones, o a la Dirección Municipal de Fomento Agropecuario y Pesquero, se entenderá que se refieren a la Dirección de Desarrollo Rural y Delegaciones.
+
+TERCERO.- En todos los casos en que los reglamentos, acuerdos y demás normatividad municipal hagan referencia a la Subsecretaría del Ayuntamiento, se entenderá que se refieren a la Subdirección de Gobierno de la Secretaría del Ayuntamiento.
+
+CUARTO.- Dentro de los treinta días siguientes a la entrada en vigor del presente acuerdo, la Tesorería Municipal y la Oficialía Mayor deberán transferir los recursos presupuesta les, materiales y humanos asignados a la Coordinación de Delegaciones y a la Dirección Municipal de Fomento Agropecuario y Pesquero, a la Dirección de Desarrollo Rural y Delegaciones. Asimismo, los recursos asignados a la Dirección de Relaciones Públicas deberán ser transferidos a la Dirección de Comunicación Social en el mismo plazo.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
