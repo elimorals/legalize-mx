@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-regular-las-actividades-que-realizan-los-2774"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-10"
-last_updated: "2006-01-06"
+last_updated: "2008-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES, DE PUESTOS FIJOS Y SEMI-FIJOS, Y LOS DE MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de octubre de 1992.
 
@@ -97,13 +97,13 @@ Los comerciantes ambulantes, en puestos fijos o semifijos, y de los Mercados sob
 
 El Ayuntamiento ampliara o modificara las areas a que se refiere el articulo anterior, cuando lo requiera el interes publico.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 12.
 
-Considerando que la zona central de la ciudad constituye el patrimonio histórico de los Tijuanenses, se determina como primer cuadro de la ciudad para los efectos de aplicación del presente reglamento, quedando establecida como ZONA PROHIBIDA, con relación a nuevos permisos en la vía pública salvo en la época decembrina, comprendiendo este la demarcación de calles y avenidas siguientes: De la Calle Primera "Articulo 123" a la Calle Décima, y de la Avenida Madero a la Avenida "F".
+Considerando que la zona central de la ciudad constituye el patrimonio histórico de los Tijuanenses, se determina como primer cuadro de la ciudad para los efectos de aplicación del presente reglamento, quedando establecida como ZONA PROHIBIDA, con relación a nuevos permisos en la vía pública salvo en la época decembrina, comprendiendo este la demarcación de calles y avenidas siguientes: De la Calle Primera (Artículo 123) a la Calle Décima, y de la Avenida Madera a la Avenida "F".
 
-Asimismo se consideran como ZONAS PROHIBIDAS, con respecto a la expedición de nuevos permisos, reubicación de los ya existentes y cambio de giro de los mismos, las siguientes áreas: Malecón Playas de Tijuana; los carriles de circulación de entrada y salida de la línea internacional, comprendiendo los puertos de Tijuana-Otay y Tijuana-San Isidro; el andador peatonal Turístico de acceso de la Garita Internacional Tijuana-San Isidro a la Avenida Revolución; la 1ra. Etapa de la Zona Urbana del Río Tijuana; así como el crucero peatonal y vehicular del Boulevard Díaz Ordaz desde la Avenida Mazatlán hasta la Avenida Baja California y Boulevard Lázaro Cárdenas, desde la Avenida San Martín hasta la Avenida Los Arboles, de la Delegación de la Mesa; en virtud de la necesaria planeación del desarrollo y crecimiento de nuestra ciudad, de acuerdo a los factores de Desarrollo Urbano, Vocación Turística del Municipio, las condiciones de seguridad de los peatones y automovilistas, e Imagen Urbana. Por lo que deberán sujetarse a las modalidades que dicte el interés público.
+Asimismo se consideran como ZONAS PROHIBIDAS, con respecto a la expedición de nuevos permisos, reubicación de los ya existentes y cambio de giro de los mismos, las siguientes áreas: Malecón Playas de Tijuana; los carriles de circulación de entrada y salida de la línea internacional, comprendiendo los puertos de Tijuana-Otay y Tijuana-San Ysidro; el andador peatonal Turístico de acceso de la Garita Internacional Tijuana-San Ysidro a la Avenida Revolución; la 1ra. Etapa de la Zona Urbana del Río Tijuana; Crucero peatonal y vehicular del Boulevard Díaz Ordaz desde la Avenida Mazatlán hasta la Avenida Baja California y Boulevard Lázaro Cárdenas, desde la Avenida San Martín hasta la Avenida Los Arboles, de la Delegación de la Mesa, así como zona peatonal del Blvd. Aguacaliente, Blvd. Díaz Ordaz y Blvd. Salinas, en el tramo comprendido desde el antiguo Toreo de Tijuana hasta el Auditorio Municipal; Zona conocida como " la Pechuga" ubicada en la delegación de la Mesa de Otay entre las rampas ascendente y descendente de la Central de Autobuses de Tijuana hasta el Aeropuerto Internacional de Tijuana; así como el Blvd. El Rosario desde el denominado Puente Santa Fe hasta la Avenida Sur en la Subdelegación Pórticos de San Antonio de la Delegación San Antonio de los Buenos, en virtud de la necesaria planeación del desarrollo y crecimiento de nuestra ciudad, de acuerdo a los factores de Desarrollo Urbano, Vocación Turística del Municipio, las condiciones de seguridad de los peatones y automovilistas e imagen urbana. Por lo que deberán sujetarse a las modalidades que dicte el interés público, y a los dictámenes y estudios que emitan la Dirección de Administración Urbana, la Dirección de Obras e Infraestructura Urbana Municipal y la Dirección de Servicios Públicos Municipales.
 
 ### CAPITULO SEGUNDO. DE LAS LICENCIAS O PERMISOS
 
@@ -548,3 +548,9 @@ PRIMERO.- El presente acuerdo entrará en vigor al momento de su aprobación, y 
 SEGUNDO.- Realícense los ajustes administrativos y presupuestales necesarios a efecto de que el departamento de mercados sobre ruedas dependiente de la Dirección de Regulación municipal, pase a formar parte de la estructura de la Dirección General de Gobierno con todo lo que sea propio y corresponda.
 
 TERCERO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo edilicio.
+
+P.O. 25 DE ENERO DE 2008.
+
+PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberá publicarse en la Gaceta Municipal y/o en un periódico de esta ciudad para el conocimiento de los vecinos.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo contenido en el presente acuerdo.
