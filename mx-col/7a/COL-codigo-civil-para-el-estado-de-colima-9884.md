@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2007-11-24"
+last_updated: "2008-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1635,9 +1635,7 @@ IX.- La separación del hogar conyugal originada por una causa que sea bastante 
 
 X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga que proceda la declaración de ausencia;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
-
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, o para los hijos, sean de ambos o de uno sólo de ellos;
+XI.- (DEROGADA, P.O. 26 DE ENERO DE 2008)
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -1835,11 +1833,9 @@ VI.- Las demás obligaciones que tenga el cónyuge culpable.
 
 En la resolución se fijarán las bases para actualizar la pensión y las garantías para su cumplimiento. Extinguiéndose estas obligaciones cuando el acreedor contraiga nuevas nupcias o tenga una nueva pareja en unión libre, concubinato o cualquiera otra.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2008)</small>
+
 ART. 289.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
-
-El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que se decretó el divorcio.
-
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
 
 ART. 290.- La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
@@ -10350,3 +10346,7 @@ P.O. 8 DE SEPTIEMBRE DE 2007.
 P.O. 24 DE NOVIEMBRE DE 2007.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE ENERO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
