@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2007-12-20"
+last_updated: "2008-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -223,9 +223,11 @@ Sólo podrán otorgarse concesiones, permisos, licencias o autorizaciones, sobre
 
 Las concesiones sobre bienes de dominio público no crean derechos reales; otorgan solamente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan las leyes y el acto o título de la concesión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 17.
 
-Salvo lo establecido en otras leyes, las concesiones sobre inmuebles y del dominio público podrán otorgarse hasta por un plazo de veinte años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, a juicio del Ejecutivo del Estado o de los ayuntamientos según sea el caso, atendiendo tanto para el otorgamiento de la concesión como para la prórroga, lo siguiente:
+Salvo lo establecido en otras leyes, las concesiones sobre bienes inmuebles del dominio público podrán otorgarse hasta por un plazo de treinta años, el cual podrá ser prorrogado por un solo plazo de quince años como máximo, a juicio del Ejecutivo del Estado o de los ayuntamientos, según sea el caso, atendiendo tanto para el otorgamiento de la concesión, como para la prórroga, lo siguiente:
 
 l. Que se justifique que el Estado se encuentra impedido o imposibilitado para prestar el servicio por sí mismo;
 
@@ -485,9 +487,11 @@ Las instituciones privadas que por cualquier concepto utilicen, administren o te
 
 ### CAPITULO VII. Sanciones
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2008)</small>
+
 ###### ARTICULO 52.
 
-Se sancionará con multa de cincuenta a doscientos cincuenta días de salario mínimo vigente al momento de los hechos, a quien concluido el plazo por el que se otorgó la concesión, licencia, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devuelva a la autoridad competente, en un plazo de treinta días, previo requerimiento que se le haga.
+Se sancionará con multa de cien a ochocientos días de salario mínimo vigente al momento de los hechos, a quien concluido el plazo por el que se otorgó la concesión, licencia, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devuelva a la autoridad competente, en un plazo de treinta días, previo requerimiento que se le haga.
 
 ###### ARTICULO 53.
 
@@ -546,6 +550,12 @@ Lic. Alfonso José Castillo Machuca
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE DICIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
+
+P.O. 26 DE ENERO DE 2008.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
