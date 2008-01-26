@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-7922"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-15"
-last_updated: "2006-11-16"
+last_updated: "2008-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE COORDlNACION FISCAL DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 26 DE ENERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
 
@@ -372,3 +374,9 @@ P.O. 16 DE NOVIEMBRE DE 2006.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE ENERO DE 2008.
+
+PRIMERO. La presente Ley abroga la Ley de Coordinación Fiscal del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 15 de enero de 1988; así como las demás disposiciones que se le opongan.
+
+SEGUNDO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
