@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-instituye-las-bases-generales-del-38773"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-29"
-last_updated: "2004-03-29"
+last_updated: "2008-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE INSTITUYE LAS BASES GENERALES DEL RECONOCIMIENTO PUBLICO Y OTORGAMIENTO DE LA MEDALLA AL MERITO CIVICO DENOMINADA: "PRESEA CAPITAN JOSE DE TREVIÑO"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 29 de marzo de 2004.
 
@@ -109,41 +109,43 @@ En el caso de que no hayan sido ratificados o nombrados los nuevos integrantes d
 
 Los miembros integrantes del Consejo Consultivo desempeñarán sus funciones en forma honorífica y no podrá acordarse remuneración alguna para sus titulares.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
+
 ###### ARTÍCULO 10.
 
 El Consejo Consultivo, para otorgar el Reconocimiento Público de la medalla al mérito cívico denominada: “Presea Capitán José de Treviño”, se integrará en la forma siguiente:
 
-A).- Un Presidente. Nombramiento que recaerá en el Presidente Municipal en funciones.
+A).- Un Presidente. Nombramiento que recaerá en el Presidente Municipal, en funciones.
 
-B).- Un Secretario Ejecutivo. Nombramiento que recaerá en el Secretario del R. Ayuntamiento en funciones.
+B).- Un Secretario Ejecutivo que recaerá en el Secretario del R. Ayuntamiento, en funciones.
 
-C).- Un Tesorero. Nombramiento que recaerá en el Secretario de Finanzas y Tesorero Municipal en funciones.
+C).- Un Tesorero. Nombramiento que recaerá en el Tesorero Municipal en funciones.
 
-D).- Vocal. Nombramiento que recaerá en el Presidente de la Comisión de Espectáculos, Educación, Cultura y Deportes, como representante del R. Ayuntamiento en funciones.
+D).- Un Vocal. Nombramiento que recaerá en el Presidente de la Comisión del R. Ayuntamiento encargada (sic) de la educación y cultura, en funciones.
 
 E).- Consejeros de Calidad. Nombramiento que recaerá en personas de probada honorabilidad de los siguientes ámbitos:
 
-1. Un Ciudadano Escobedense distinguido;
+1. Un ciudadano escobedense distinguido;
 
-2. El Cronista de la Ciudad;
+2. El cronista de la ciudad;
 
-3. El Presidente de la Comisión de Espectáculos, Educación, Cultura y Deportes, como representante del R. Ayuntamiento en funciones;
+3. (DEROGADO, P.O. 30 DE ENERO DE 2008)
 
-4. Un Representante de la Sociedad de Historia, Geografía y Estadística del Estado de Nuevo León;
+4. Un representante de la Sociedad de historia, geografía y estadística del Estado de Nuevo León;
 
-5. Un Representante del Sector Educativo;
+5. Un representante del sector educativo;
 
-6. Un Representante del Sector Campesino;
+6. Un representante del sector campesino;
 
-7. Un Representante del Sector Industrial;
+7. Un representante del sector industrial;
 
-8. Un Representante del Sector Comercial;
+8. Un representante del sector comercial;
 
-9. Un Representante de la Juventud Escobedense; y
+9. Un representante de la juventud escobedense;
 
-10. Un Representante del Sector Laboral, excepto dirigentes sindicales.
+10. Un representante del sector laboral, excepto dirigentes sindicales.
 
-Cuando no fuere posible tener el nombramiento de los 10- diez Consejeros de Calidad, el Consejo funcionará con los números de Consejeros nombrados y que se encuentren en funciones, más los mencionados en los incisos A), B), C) y D).
+Cuando no fuere posible tener el nombramiento de la totalidad de los consejeros de calidad, funcionará con el número de Consejeros nombrados y que se encuentren en funciones, más los mencionados en los incisos A), B), C) y D).
 
 ###### ARTÍCULO 11.
 
@@ -229,33 +231,41 @@ La Ciudadanía en general, bajo cualquier forma jurídica de organización, de l
 
 Independientemente de lo dispuesto por el artículo 2 del presente reglamento, la Ciudadanía, así como los diversos grupos y sectores sociales, podrán proponer candidatos, en las siguientes áreas o actividades:
 
-a).- Administración Pública;
+a).- (DEROGADO, P.O. 30 DE ENERO DE 2008)
 
-b).- Administración de Justicia;
+b).- (DEROGADO, P.O. 30 DE ENERO DE 2008)
 
-c).- Labor Legislativa;
+c).- (DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 d).- Labor Campesina;
 
 e).- Trabajo Obrero;
 
-f).- Gestión Sindical;
+f).- (DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 g).- Fomento Industrial y Comercial;
 
-h).- Investigación Científica;
+h).- (DEROGADO, P.O. 30 DE ENERO DE 2008)
 
-i).- Literatura y Artes;
+i).- (DEROGADO, P.O. 30 DE ENERO DE 2008)
 
-j).- Periodismo;
+j).- (DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 k).- Docencia;
 
-l).- Juventud y deportes;
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
 
-ll).- Profesiones Independientes; y
+l).- Juventud;
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
+
+ll).- Profesiones Independientes;
 
 m).- Humanismo.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2008)</small>
+
+n) Deportes.
 
 ###### ARTÍCULO 23.
 
@@ -287,75 +297,43 @@ El otorgamiento al Reconocimiento Público de la medalla al mérito cívico deno
 
 ###### ARTÍCULO 26.
 
-El ciudadano, con interés jurídico diferente a la resolución emitida por el R. Ayuntamiento, podrá interponer el recurso de inconformidad correspondiente, por una sola vez.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 ###### ARTÍCULO 27.
 
-El plazo para interponer el recurso de inconformidad será de 3-tres días hábiles, contados a partir del día siguiente de la publicación de la resolución emitida por el R. Ayuntamiento, mediante la cual determine quien o quienes serán los “RECIPENDARIOS”.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 ###### ARTÍCULO 28.
 
-El recurso de inconformidad se interpondrá por escrito, ante el Secretario del R. Ayuntamiento, el que contendrá los siguientes requisitos:
-
-I.- La autoridad administrativa a quien se dirige;
-
-II.- El nombre del recurrente y del tercero perjudicado, si lo hubiere, así como el lugar que señale para el efecto de oír y recibir notificaciones;
-
-III.- El interés legitimo y especifico que asiste al recurrente;
-
-IV.- El acto que se recurre y la fecha en que se le notificó o tuvo conocimiento del mismo;
-
-V.- Los agravios que se le causen;
-
-VI.- Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución del acto impugnado; y
-
-VII.- La firma del recurrente.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 ###### ARTÍCULO 29.
 
-El recurso se desechará de plano, cuando:
-
-I.- Se presente fuera del plazo;
-
-II.- No contenga firma del recurrente; y
-
-III.- No exista un interés legítimo.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 ###### ARTÍCULO 30.
 
-Son causas de improcedencia del recurso:
-
-I.- Contra actos consumados de un modo irreparable; y
-
-II.- Contra actos consentidos expresamente.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 ###### ARTÍCULO 31.
 
-El Secretario del R. Ayuntamiento, ante quien se tramita el recurso, acordará sobre la admisibilidad de las pruebas ofrecidas. Podrá allegarse de los medios de pruebas que considere necesarios, y rechazará las pruebas propuestas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el asunto, sean improcedentes e innecesarias o contrarias a la moral y al derecho. En el recurso se admitirán toda clase de pruebas, excepto la confesional por posiciones.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 ###### ARTÍCULO 32.
 
-El término de prueba será de 05-cinco días hábiles, mediante el cual se recibirán y se desahogarán las mismas.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 ###### ARTÍCULO 33.
 
-Ponen fin al recurso:
-
-I.- La resolución del mismo;
-
-II.- La renuncia al derecho en que se funde la solicitud;
-
-III.- La declaratoria de caducidad; y
-
-IV.- La falta de materia.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 ###### ARTÍCULO 34.
 
-La falta de actuación del recurrente por causas imputables a él por el término de 10-diez días naturales, producirá la caducidad del recurso. La autoridad administrativa ante quien se interpuso el recurso acordará el archivo de las actuaciones, notificándoselo al recurrente. Contra la resolución que declare la caducidad no procede recurso alguno.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 ###### ARTÍCULO 35.
 
-La autoridad administrativa, pasado el término de prueba, deberá resolver el recurso en un plazo no mayor de 5-cinco días hábiles.
+(DEROGADO, P.O. 30 DE ENERO DE 2008)
 
 TRANSITORIOS:
 
@@ -384,3 +362,11 @@ PRESIDENTE MUNICIPAL
 LIC. CLARA LUZ FLORES CARRALES.
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE ENERO DE 2008.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal y en el Periódico Oficial del Estado por ser de interés general de la ciudadanía.
