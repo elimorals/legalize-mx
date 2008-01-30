@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-turismo-44573"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-30"
-last_updated: "2005-03-30"
+last_updated: "2008-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 30 de marzo de 2005.
 
@@ -51,11 +51,17 @@ Secretaría de Turismo;
 
 Subsecretaría de Turismo;
 
-Dirección General de Desarrollo Turístico;
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
 
-Dirección General de Servicios Turísticos;
+Dirección General de Infraestructura y Equipamiento Turístico;
 
-Dirección General de Cinematografía y Televisión, y
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
+
+Dirección General de Competitividad Turística;
+
+(REFORMADO, P.O. 30 DE ENERO DE 2008) (F. DE E., P.O. 9 DE ABRIL DE 2008)
+
+Dirección General de Desarrollo de Productos Turísticos y Cinematografía, y
 
 Dirección General de Coordinación y Desarrollo Administrativo.
 
@@ -65,11 +71,17 @@ Las unidades administrativas se integrarán por los Titulares respectivos, Direc
 
 La Subsecretaría de Turismo tendrá a su cargo las siguientes Unidades Administrativas:
 
-Dirección General de Desarrollo Turístico;
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
 
-Dirección General de Servicios Turísticos, y
+Dirección General de Infraestructura y Equipamiento Turístico;
 
-Dirección General de Cinematografía y Televisión.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
+
+Dirección General de Competitivad Turística;
+
+(REFORMADO, P.O. 30 DE ENERO DE 2008) (F. DE E., P.O. 9 DE ABRIL DE 2008)
+
+Dirección General de Desarrollo de Productos Turísticos y Cinematografía.
 
 La Dirección General de Coordinación y Desarrollo Administrativo dependerá directamente del Secretario de Turismo.
 
@@ -255,89 +267,107 @@ XXI. Conceder audiencias al público y recibir en acuerdo a cualquier servidor p
 
 XXII. Las demás que determinen las disposiciones legales aplicables y le encomiende el Titular de la Dependencia.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
+
 ###### Artículo 11.
 
-La Dirección General de Desarrollo Turístico tendrá las siguientes atribuciones:
+La Dirección General de Infraestructura y Equipamiento Turístico tendrá las siguientes atribuciones:
 
-I. Ejecutar, previo acuerdo con el titular de la Subsecretaría y el de la Dependencia, la política en materia de desarrollo turístico del Estado, respetando los objetivos, estrategias y acciones fijadas en el Programa Estatal de Turismo, acordes a los lineamientos determinados por la Federación;
+I. Ejecutar, previo acuerdo con el titular de la Subsecretaría y el de la Dependencia, la política en materia de desarrollo turístico del Estado, respetando los objetivos, estrategias y acciones fijadas en el Programa Estatal de Turismo, en concordancia con los lineamientos determinados por la Federación;
 
-II. Formular, en coordinación y colaboración con las instancias públicas y privadas, programas de desarrollo turístico tendientes a mejorar la imagen y mobiliario urbano, la señalización y en general, la infraestructura necesaria a las zonas, destinos y sitios de interés turístico del Estado;
+II. Formular, en coordinación y colaboración con las instancias públicas y privadas, programas de desarrollo turístico tendientes a mejorar la imagen y mobiliario urbano, la señalización y en general, la infraestructura, servicios y equipamiento necesarios de las zonas, destinos y sitios de interés turístico del Estado;
 
-III. Instrumentar las estrategias que impulsen el desarrollo de nuevos productos turísticos;
+III. Desarrollar las actividades necesarias para la ejecución y cumplimiento de los fines establecidos en los convenios que, en materia de desarrollo turístico, celebre el Ejecutivo del Estado;
 
-IV. Desarrollar las actividades necesarias para la ejecución y cumplimiento de los fines en los convenios que, en materia de desarrollo turístico celebre el Ejecutivo del Estado;
+IV. Supervisar los proyectos de obra pública en materia de infraestructura, equipamiento y servicios turísticos que se ejecuten en el Estado;
 
-V. Fomentar y propiciar, en coordinación con los sectores público, social y privado, el desarrollo del turismo sustentable a través de la conservación y aprovechamiento racional de los recursos y atractivos turísticos, así como del patrimonio cultura e histórico del Estado;
+V. Brindar la orientación y apoyo necesarios a los inversionistas en proyectos de desarrollo turístico que se pretendan realizar en la Entidad;
 
-VI. Fomentar el desarrollo y la consolidación del turismo alternativo en el Estado, en cualquiera de sus modalidades;
+VI. Dirigir el Registro Estatal de Zonas de Interés y Desarrollo Turístico;
 
-VII. Supervisar los proyectos de obra pública en materia de infraestructura, turística que se ejecuten en el Estado;
+VII. Analizar la factibilidad técnica, económica y operativa de los proyectos de inversión turística;
 
-VIII. Brindar el apoyo necesario a los inversionistas en proyectos de desarrollo turístico que se pretendan realizar en la entidad;
+VIII. Mantener estrecha coordinación con autoridades federales, estatales y municipales para proponer, ordenar, actualizar y mantener la vigencia de la señalización turística en sus respectivos ámbitos de competencia, y
 
-IX. Dirigir el Registro Estatal de Zonas de Interés y Desarrollo Turístico;
+IX. Las demás que determinen las disposiciones legales aplicables y le encomiende el Titular de la Dependencia.
 
-X. Analizar la factibilidad técnica, económica y operativa de los proyectos de inversión turística, y
-
-XI. Las demás que determinen las disposiciones legales aplicables y le encomiende el Titular de la Dependencia.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
 
 ###### Artículo 12.
 
-La Dirección General de Servicios Turísticos tendrá las siguientes atribuciones:
+La Dirección General de Competitividad Turística tendrá las siguientes atribuciones:
 
-I. Estimular la competitividad y profesionalización del sector turístico mediante acciones de transferencia tecnológica, de capacitación, de consultoría y asistencia técnica para mejorar la calidad de los servicios turísticos, en colaboración con los sectores público, social y privado;
+I. Estimular la competitividad y profesionalización del sector turístico mediante acciones de innovación y desarrollo, transferencia tecnológica, capacitación, consultoría y asistencia técnica, para mejorar la calidad de los servicios turísticos, en colaboración con los sectores público, social y privado;
 
-II. Impulsar la cultura de calidad, higiene y seguridad en la distribución, preparación y consumo de alimentos entre los prestadores de servicios turísticos;
+II. Impulsar la cultura de calidad, higiene y seguridad en la distribución, preparación y manipulación de alimentos entre los prestadores de servicios turísticos;
 
 III. Fomentar la participación de las MIPYMES turísticas en programas de certificación que aseguren la mejor calidad de los servicios que se brindan al turista;
 
-IV. Proponer acciones de desregulación, simplificación y facilitación para la operación y prestación de servicios turísticos en el Estado, a través del Sistema Estatal de Facilitación Turística;
+IV. Generar esquemas de difusión para dar a conocer las empresas que se han certificado en programas de calidad;
 
-V. Coordinar el proceso de inscripción en el Registro Nacional y Estatal de Turismo;
+V. Desarrollar mecanismos de financiamiento para fomentar la modernización de las empresas turísticas;
 
-VI. Coadyuvar, en coordinación con los sectores público, social y privado, en la actualización del Sistema de Información Turística;
+VI. Proponer el diseño de nuevas metodologías para incrementar la competitividad empresarial;
 
-VII. Difundir y participar en la elaboración de anteproyectos y proyectos de Normas Oficiales Mexicanas del sector turístico;
+VII. Proponer acciones de desregulación, simplificación y facilitación para la operación y prestación de servicios turísticos en el Estado, a través del Sistema Estatal de Facilitación Turística;
 
-VIII. Planear, coordinar y llevar a cabo las visitas de verificación e inspección, así como el seguimiento de las mismas, a los prestadores de servicios turísticos a efecto de constatar el debido cumplimiento de sus obligaciones establecidas en la legislación federal y estatal en materia de turismo y las Normas Oficiales Mexicanas correspondientes;
+VIII. Coordinar el proceso de inscripción en el Registro Nacional y Estatal de Turismo;
 
-IX. Brindar información y orientación al turista, a través de los módulos de información turística de la Secretaría, así como implementar programas de capacitación y actualización del personal encargado de brindar dicha información;
+IX. Coadyuvar, en coordinación con los sectores público, social y privado, en la actualización del Sistema de Información Turística;
 
-X. Coordinar la implementación de programas de fomento y desarrollo de la cultura turística en el Estado;
+X. Difundir y participar en la elaboración de anteproyectos y proyectos de Normas Oficiales Mexicanas del sector turístico;
 
-XI. Coordinar con las instancias públicas federales, estatales y municipales los operativos de Protección, información y auxilio al turista;
+XI. Planear, coordinar y llevar a cabo las visitas de verificación e inspección, así como el seguimiento de las mismas, a los prestadores de servicios turísticos a efecto de constatar el debido cumplimiento de sus obligaciones establecidas en la legislación federal y estatal en materia de turismo y las Normas Oficiales Mexicanas correspondientes;
 
-XII. Establecer vínculos con las instituciones de educación media superior y superior para el establecimiento de programas de educación continua en la perspectiva de promover la profesionalización de los prestadores de servicios turísticos;
+XII. Brindar y facilitar la información y orientación al turista, en coordinación con los municipios, agrupaciones empresariales, entre otros, así como implementar programas de capacitación y actualización del personal encargado de brindar dicha información;
 
-XIII. Desarrollar políticas con el Consejo Estatal de Turismo, tendientes a incrementar la competitividad de los prestadores de servicios turísticos;
+XIII. Coordinar la implementación de programas de fomento y desarrollo de la cultura turística en el Estado;
 
-XIV. Coordinar y gestionar programas de consultoría y capacitación para el desarrollo de productos de turismo alternativo;
+XIV. Coordinar con las instancias públicas federales, estatales y municipales los operativos de protección, información y auxilio al turista;
 
-XV. Impulsar el desarrollo de nuevas líneas de productos, para propiciar la diversificación de los mercados y la competitividad de los destinos turísticos de acuerdo a su vocación turística, y
+XV. Establecer vínculos con las instituciones de educación media superior y superior para el establecimiento de programas de educación continua, en la perspectiva de promover la profesionalización de los prestadores de servicios turísticos;
 
-XVI. Las demás que determinen las disposiciones legales aplicables.
+XVI. Desarrollar políticas tendientes a incrementar la competitividad de los prestadores de servicios turísticos, en coordinación con las agrupaciones empresariales, y proponerlas ante el Consejo Estatal de Turismo;
 
-###### ARTÍCULO 13.
+XVII. Fomentar las actividades emprendedoras a través de procesos de incubación de nuevas empresas en el sector;
 
-La Dirección General de Cinematografía y Televisión tendrá las siguientes atribuciones:
+XVIII. Proponer a las autoridades competentes, nuevos lineamientos o regulaciones que permitan elevar la calidad de las empresas turísticas;
 
-I. Establecer programas y políticas tendientes a la promoción de proyectos de inversión de la industria audio visual y cinematográfica;
+XIX. Emitir ante las autoridades competentes, opinión técnica sobre la solicitud de instituciones de enseñanza turística para obtener el Reconocimiento de Validez Oficial de Estudios, de conformidad con las disposiciones legales aplicables, y
 
-II. Coadyuvar en la promoción de los recursos turísticos con que cuenta el Estado para atraer producciones audio visuales, locales, nacionales y extranjeras;
+XX. Las demás que determinen las disposiciones legales aplicables.
 
-III. Desarrollar los mecanismos de vinculación con los prestadores de servicios turísticos y especializados y las autoridades estatales y municipales, para brindar apoyo a productores que filmen en la Entidad;
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2008)</small>
 
-IV. Coadyuvar con el Registro Estatal de Turismo en la actualización de las imágenes, locaciones, prestadores de servicios turísticos especializados, y todo lo relacionado con materiales e insumos para la cinematografía, así como material promocional de la Entidad;
+###### Artículo 13.
 
-V. Participar en foros especializados de la industria audiovisual, previa autorización del Titular de la Dependencia;
+La Dirección General de Desarrollo de Productos Turísticos y Cinematografía tendrá las siguientes atribuciones:
 
-VI. Impulsar a los cineastas morelenses, y coadyuvar con éstos, para su integración en la industria audiovisual nacional y extranjera;
+I. Impulsar el desarrollo de nuevas líneas de productos, para propiciar la diversificación de los mercados y la competitividad de los destinos turísticos de acuerdo a su vocación turística;
 
-VII. Concertar con las instituciones educativas el establecimiento de programas, cursos de capacitación y educación continúa relacionados con la industria audiovisual y cinematográfica;
+II. Diseñar y coordinar el programa de desarrollo de productos turísticos por modalidad y segmento, en coordinación con los diferentes sectores;
 
-VIII. Establecer los mecanismos de vinculación con los sectores público, social y privado para brindar el apoyo a las producciones de la industria audiovisual y cinematográfica que se desarrollen en el Estado, y
+III. Proponer mecanismos de coordinación y vinculación que promuevan la participación de los diferentes sectores, para apoyar programas y acciones de desarrollo de productos turísticos;
 
-IX. Las demás que determinen las disposiciones legales aplicables y le encomiende el Titular de la Dependencia.
+IV. Instrumentar las estrategias que impulsen el desarrollo de nuevos productos turísticos;
+
+V. Fomentar el desarrollo y la consolidación del turismo alternativo, de aventura y ecoturismo en el Estado, en cualquiera de sus modalidades;
+
+VI. Coordinar y gestionar programas de consultoría y capacitación para el desarrollo de productos de turismo alternativo, de aventura y ecoturismo;
+
+VII. Fomentar y propiciar en coordinación con los sectores público y privado el desarrollo del turismo sustentable, a través de la conservación y el aprovechamiento racional de los recursos turísticos, así como del patrimonio cultural e histórico del Estado;
+
+VIII. Participar en eventos del sector turismo y de la industria audiovisual, previa autorización del Titular de la Dependencia;
+
+IX. Coadyuvar en la promoción de los recursos turísticos con que cuenta el Estado para atraer producciones audio visuales, locales, nacionales y extranjeras;
+
+X. Desarrollar los mecanismos de vinculación con los prestadores de servicios turísticos y especializados y las autoridades estatales y municipales, para brindar apoyo a productores que filmen en la Entidad;
+
+XI. Coadyuvar con el Registro Estatal de Turismo en la actualización de las imágenes, locaciones, prestadores de servicios turísticos especializados, y todo lo relacionado con materiales e insumos para la cinematografía, así como material promocional de la Entidad;
+
+XII. Establecer los mecanismos de vinculación con los sectores público, social y privado para brindar el apoyo a las producciones de la industria audiovisual y cinematográfica que se desarrollen en el Estado, y
+
+XIII. Las demás que determinen las disposiciones legales aplicables y le encomiende el Titular de la Dependencia.
 
 ###### Artículo 14.
 
@@ -345,25 +375,37 @@ La Dirección General de Coordinación y Desarrollo Administrativo tendrá las s
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas de la Unidad;
 
-II. Integrar el anteproyecto de programa y presupuesto anual de la Dependencia, someterlo a consideración del Titular, autorizar y vigilar su ejercicio de conformidad con las normas y lineamientos que establezcan las autoridades competentes;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2008)</small>
 
-III. Integrar el programa anual de requerimientos de personal, material y equipo de trabajo, servicios de apoyo y, en general, de todos aquellos aspectos que sean necesarios para el funcionamiento administrativo de la Dependencia;
+II. Integrar el anteproyecto de programa y presupuesto anual de la Dependencia, someterlo a consideración del Titular;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2008)</small>
+
+III. Atender las solicitudes de personal, material y equipo de trabajo, servicios de apoyo y, en general, de todos aquellos aspectos que sean necesarios para el funcionamiento administrativo de la Dependencia;
 
 IV. Administrar los recursos humanos, materiales y financieros de la Dependencia en los términos y conforme a las normas y lineamientos vigentes;
 
 V. Gestionar y dar seguimiento a las solicitudes por concepto de adaptación de instalaciones, mantenimiento preventivo y correctivo de bienes muebles e inmuebles y de servicios generales, que demande el funcionamiento de la Dependencia y coordinar su ejecución;
 
-VI. Coordinar, de conformidad con las normas y lineamientos vigentes, la elaboración de los manuales administrativos, así como participar con la Dependencia y con otras áreas en los programas de modernización y simplificación administrativa que éstas promuevan;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2008)</small>
 
-VII. Elaborar y gestionar, conforme a las normas aplicables, las propuestas de reorganización de la Dependencia y presentarlas al Titular de la misma para su autorización;
+VI. Coordinar, de conformidad con las normas y lineamientos vigentes, la elaboración y/o actualizacion de los manuales administrativos, así como participar con la Dependencia y con otras áreas en los programas de modernización y simplificación administrativa que éstas promuevan;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2008)</small>
+
+VII. Coordinar, en su caso, elaborar y gestionar, conforme a las normas aplicables, las propuestas de reorganización de la Dependencia y presentarlas al Titular de la misma para su autorización;
 
 VIII. Participar en la elaboración, instrumentación, ejecución, seguimiento y evaluación de los planes, programas, proyectos, informes y estudios de la Dependencia;
 
-IX. Gestionar la autorización y liberación de los fondos revolventes de las unidades administrativas adscritas a la Dependencia y supervisar su correcta utilización, conforme a los lineamientos y normas establecidas al efecto;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2008)</small>
+
+IX. Gestionar la autorización y liberación de los fondos revolventes de las unidades administrativas adscritas a la Dependencia, así como su integración y comprobación, conforme a los lineamientos y normas establecidas al efecto;
 
 X. Gestionar y dar seguimiento a las requisiciones de material de stock y de compras especiales que requieran las Unidades Administrativas adscritas a esta Secretaría;
 
-XI. Coordinar los cursos de capacitación del personal de la Dependencia;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2008)</small>
+
+XI. Integrar, gestionar y dar seguimiento a las necesidades de capacitación del personal de la Dependencia, de acuerdo a la normatividad establecida para tal efecto;
 
 XII. Coordinar la integración y elaboración de los informes programáticos trimestrales sobre el avance físico y financiero del Programa Operativo Anual de las diferentes Unidades Administrativas que conforman la Secretaría;
 
@@ -373,17 +415,27 @@ XIV. Integrar y entregar a las autoridades competentes, la información sobre lo
 
 XV. Coordinar la integración del programa anual de obras y proyectos a realizar por la Dependencia, de acuerdo al presupuesto de Inversión Pública asignado;
 
-XVI. Coordinar la obtención de la información de las diferentes Unidades Administrativas de la Secretaría, para integrar los expedientes técnicos de las obras y proyectos de Inversión Pública, para gestionar su autorización por parte de las instancias correspondientes;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2008)</small>
 
-XVII. Elaborar y gestionar las solicitudes de liberación de recursos de las obras y proyectos de Inversión Pública de la Dependencia, ante las instancias correspondientes, así como vigilar su correcta comprobación, de acuerdo a los lineamientos establecidos al efecto;
+XVI. Integrar y tramitar los expedientes técnicos de las obras y proyectos de inversión pública de las unidades administrativas de la Dependencia, y dar seguimiento a su autorización ante las instancias correspondientes;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2008)</small>
+
+XVII. Elaborar y gestionar las solicitudes de liberación de recursos de las obras y proyectos de Inversión Pública de la Dependencia, ante las instancias correspondientes e integrar su comprobación, de acuerdo a los lineamientos establecidos al efecto;
 
 XVIII. Coordinar la integración y elaboración de los informes sobre el avance físico y financiero de las obras y proyectos de Inversión Pública de las diferentes Unidades Administrativas que conforman la Secretaría;
 
 XIX. Coordinar la participación de la Secretaría en la celebración de convenios con los tres niveles de gobierno y con particulares, en su caso;
 
-XX. Coordinar la elaboración de las presentaciones para las comparecencias del Titular de la Dependencia, y
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2008)</small>
 
-XXI. Las demás que determinen las disposiciones legales aplicables y le encomiende el Titular de la Dependencia.
+XX. Coadyuvar en la elaboración de las presentaciones para las comparecencias del Titular de la Dependencia;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2008)</small>
+
+XXI. Integrar y dar seguimiento a los programas anuales de requerimiento de material, equipo de trabajo y mantenimiento preventivo vehicular, de acuerdo a la normatividad establecida para tal efecto, y
+
+XXII. Las demás que determinen las disposiciones legales aplicables y le encomiende el Titular de la Dependencia.
 
 ### CAPÍTULO QUINTO. De las Suplencias del Secretario, Subsecretario y Directores Generales
 
@@ -428,3 +480,9 @@ SECRETARIO DE TURISMO
 LIC. MARCOS MANUEL SUÁREZ GERARD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE ENERO DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
