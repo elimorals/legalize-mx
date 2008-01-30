@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2007-08-17"
+last_updated: "2008-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ENERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -541,11 +541,15 @@ VII. Las demás que expresamente señalen la Constitución del Estado, esta ley,
 
 ### CAPÍTULO III. DE LOS GRUPOS LEGISLATIVOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ENERO DE 2008)</small>
+
 ###### Artículo 27.
 
-El Grupo Legislativo es la asociación de Diputados provenientes del mismo partido, que se constituye para funcionar durante una Legislatura, con el propósito de garantizar la libre expresión de las corrientes políticas representadas en el Congreso; así como participar en la toma de decisiones, coadyuvar en los trabajos legislativos y contribuir a la disciplina interna del Congreso, en los términos que señala esta ley.
+El grupo legislativo es la asociación de diputados que se constituye para funcionar durante una Legislatura, con el propósito de garantizar la libre expresión de las corrientes políticas representadas en el Congreso; así como participar en la toma de decisiones, coadyuvar en los trabajos legislativos y contribuir a la disciplina interna del Congreso, en los términos que señala esta ley.
 
-El Grupo Legislativo se constituirá en la primera Sesión Ordinaria de la Legislatura, se integrará con al menos tres Diputados y sólo podrá haber uno por cada partido político que cuente con Diputados en el Congreso. Al efecto, en dicha Sesión, cada Grupo Legislativo entregará a la Secretaría General la documentación siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ENERO DE 2008)</small>
+
+El grupo legislativo se integrará con al menos tres diputados y sólo podrá haber uno por cada partido político que cuente con representación en el Congreso. Se constituirá en la primera sesión ordinaria de la Legislatura, si sus integrantes proceden de un mismo partido político; de provenir de partidos diversos o ser independientes, cuando sus integrantes así lo decidan, pero en este último caso no podrá existir más de un grupo. Al efecto, cada grupo legislativo entregará a la Secretaría General la documentación siguiente:
 
 a) Acta en la que conste la decisión de sus miembros de constituirse en Grupo, con especificación del nombre del mismo y lista de sus integrantes; y
 
@@ -1310,3 +1314,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. En un plazo máximo de 90 días hábiles, posteriores a la entrada en vigor del presente Decreto, la Comisión Permanente de Equidad, Género y Familia, deberá presentar al Pleno o, en su caso, a la Diputación Permanente, el Proyecto de Reglamento del Parlamento de las Mujeres Veracruzanas para su aprobación.
+
+G.O. 30 DE ENERO DE 2008.
+
+Artículo primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
