@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-256-de-proteccion-civil-para-el-estado-libre-y-22886
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-24"
-last_updated: "2003-03-18"
+last_updated: "2008-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 226 DE PROTECCION CIVIL PARA EL ESTADO DE VERA CRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 1 DE FEBRERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 24 de diciembre de 2001.
 
@@ -36,8 +38,6 @@ Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha
 Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
 LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS NÚMEROS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL, 18 FRACCIÓN I Y 47 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO, Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
-
-> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACION " . . . ESTADO DE VERACRUZ LLAVE", DEBERA ENTENDERSE COMO " . . . ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
 > <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -1128,3 +1128,11 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 1 DE FEBRERO DE 2008.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz.
+
+Segundo. Los reglamentos de la presente Ley deberán publicarse dentro de los 90 días siguientes a la fecha de la entrada en vigor de la misma.
+
+Tercero. Queda abrogada la Ley número 256 de Protección Civil para el Estado de Veracruz, así como derogado cualquier ordenamiento jurídico o administrativo emitido con anterioridad que contravenga lo dispuesto por esta Ley.
