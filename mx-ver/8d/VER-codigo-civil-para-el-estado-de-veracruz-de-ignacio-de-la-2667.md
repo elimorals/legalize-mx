@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2007-09-05"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2008.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -2043,11 +2043,11 @@ ARTICULO 339 C
 
 La adopción plena es irrevocable.
 
-> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2008)</small>
 
 ARTICULO 339 D
 
-Puede ser adoptado de manera plena el expósito, el abandonado por más de seis meses, el entregado por el padre o la madre a una institución de asistencia social pública o privada y los hijos del cónyuge.
+Puede ser adoptado de manera plena el expósito, el abandonado por más de dos meses, el entregado por el padre o la madre a una institución de asistencia social pública o privada y los hijos del cónyuge.
 
 > <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
 
@@ -2283,9 +2283,9 @@ III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o a
 
 Asimismo, cuando tolere que otras personas atenten o pongan en riesgo la integridad física o moral de los menores;
 
-> <small>(REFORMADA, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
 
-IV.- Por la exposición que el padre, la madre o ambos hicieren de sus hijos, o porque los dejen abandonados por más de seis meses. En los casos de adopción, tomando en cuenta el interés superior del menor, acreditada su situación de abandonado, el juez resolverá previamente la pérdida de la patria potestad; y
+IV.- Por la exposición que el padre, la madre o ambos hicieren de sus hijos, o porque los dejen abandonados por más de dos meses. En los casos de adopción, tomando en cuenta el interés superior del menor, acreditada su situación de abandonado, el juez resolverá previamente la pérdida de la patria potestad;
 
 > <small>(ADICIONADA, G.O. 12 DE JUNIO DE 1997)</small>
 
@@ -2555,7 +2555,9 @@ Se considerará expósito al recién nacido cuyo origen se desconoce y se coloca
 
 Se reputará abandonado al menor cuyo origen se conoce y respecto de quien, los que ejercen la patria potestad o tutela, dejaron de cumplir sus deberes de manera irresponsable, aceptando la posibilidad de que alguna persona o institución se haga cargo del mismo.
 
-El menor expósito o abandonado podrá ser adoptado por la persona que lo haya acogido; en el caso de abandono, deberán transcurrir seis meses por lo menos.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2008)</small>
+
+El menor expósito o abandonado podrá ser adoptado por la persona que lo haya acogido; en el caso de abandono, deberán transcurrir dos meses por lo menos.
 
 > <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
@@ -16004,3 +16006,9 @@ G.O. 5 DE SEPTIEMBRE DE 2007.
 Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
 
 Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+G.O. 1 DE FEBRERO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
