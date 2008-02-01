@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2007-09-05"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2008.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -5313,13 +5313,19 @@ c).- Nombre, edad y domicilio de quien o quienes, en su caso, ejerzan sobre aque
 
 Los estudios socioeconómicos y psicológicos indispensables para tramitar la adopción en cualquiera de sus tipos, deberán llevarse al cabo por el Sistema Estatal para el Desarrollo Integral de la Familia. Sólo en caso de imposibilidad demostrada por parte del sistema susodicho, tales estudios serán encomendados por el juez al o los peritos que estime pertinentes.
 
-II.- Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada el adoptante recabará y exhibirá constancia, certificada por Notario Público o por el Presidente Municipal correspondiente, del tiempo de la exposición o abandono, para los efectos del artículo 372 fracción IV, del Código Civil.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
 
-III.- Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretenda adoptar con el presunto adoptante entre tanto se consuma dicho plazo.
+II.- Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada el adoptante recabará y exhibirá constancia, certificada por Notario Público o por el Presidente Municipal correspondiente, del tiempo de la exposición o abandono, para los efectos del artículo 373 fracción IV, del Código Civil.
 
-IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia pública o privada, se decretará el depósito con el presunto adoptante por el término de seis meses para los mismos efectos, quedando esta determinación al arbitrio del Juez.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
 
-En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan sobre él la patria potestad o la tutela; será indispensable, para promover su adopción, en cualquiera de las dos formas, que transcurra el plazo de seis meses a que se refiere el presente artículo.
+III.- Si hubieren transcurrido menos de dos meses de la exposición o abandono, se decretará el depósito de quien se pretenda adoptar con el presunto adoptante, entretanto se consuma dicho plazo.
+
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
+
+IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia pública o privada, se decretará el depósito con el presunto adoptante por el término de dos meses para los mismos efectos, quedando esta determinación al arbitrio del Juez.
+
+En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan sobre él la patria potestad o la tutela; será indispensable, para promover su adopción, en cualquiera de las dos formas, que transcurra el plazo de dos meses a que se refiere el presente artículo.
 
 V.- Si el presunto adoptante es extranjero deberá, además, acreditar su residencia legal en nuestro país.
 
@@ -5956,6 +5962,12 @@ G.O. 5 DE SEPTIEMBRE DE 2007.
 Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
 
 Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+G.O. 1 DE FEBRERO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
