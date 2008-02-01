@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-comite-administrador-del-programa-federal-813"
 country: "mx"
 rank: "ley"
 publication_date: "1944-04-10"
-last_updated: "1985-01-21"
+last_updated: "2008-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1944-03-23"
 
 LEY QUE CREA EL COMITE ADMINISTRADOR DEL PROGRAMA FEDERAL DE CONSTRUCCION DE ESCUELAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY GENERAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA, PUBLICADA EN EL D.O.F. DE 1 DE FEBRERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 10 de abril de 1944.
 
@@ -128,3 +130,35 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 21 DE ENERO DE 1985.
 
 UNICO.- El presente Decreto entrará en vigor el 1o. de abril de 1985.
+
+D.O.F. 1 DE FEBRERO DE 2008.
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Se abroga la Ley que crea el Comité Administrador del Programa Federal de Construcción de Escuelas publicada en el Diario Oficial de la Federación el 10 de abril de 1944.
+
+Artículo Tercero. El Reglamento de la Ley General de la Infraestructura Física Educativa y los Lineamientos generales a emitir por el Instituto deberán ser expedidos dentro de los 180 días hábiles a partir de la entrada en vigor del presente decreto.
+
+Artículo Cuarto. La Junta de Gobierno tendrá hasta 90 días hábiles a partir de su integración para expedir el Estatuto Orgánico.
+
+Artículo Quinto. Los servidores públicos del Comité Administrador del Programa Federal de Construcción de Escuelas pasarán a formar parte del Instituto Nacional de la Infraestructura Física Educativa, respetándose todos sus derechos laborales en términos de la ley, tanto individuales como colectivos.
+
+De igual manera, los bienes muebles e inmuebles y los recursos financieros con que actualmente cuenta el Comité Administrador del Programa Federal de Construcción de Escuelas pasarán a formar parte del patrimonio del Instituto Nacional de la Infraestructura Física Educativa al inicio de la vigencia de este decreto.
+
+Artículo Sexto. Los montos no ejercidos del presupuesto autorizado para el Comité Administrador del Programa Federal de Construcción de Escuelas en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal del año en curso, al inicio de la vigencia de este decreto, serán ejercidos por el Instituto Nacional de la Infraestructura Física Educativa.
+
+Artículo Séptimo. Dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, el Instituto Nacional de la Infraestructura Física Educativa deberá ratificar los convenios celebrados con anterioridad por el Comité Administrador del Programa Federal de Construcción de Escuelas, sustituyéndolo en el cumplimiento de las obligaciones y el ejercicio de dichos derechos.
+
+Artículo Octavo. En tanto se expiden las disposiciones reglamentarias y estatutarias a que se refiere la presente Ley, seguirán en vigor en lo que no la contravengan, aquellas que han regido hasta el momento al Comité Administrador del Programa Federal de Construcción de Escuelas.
+
+Artículo Noveno. Para la atención y seguimiento de los asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva que estén vinculados de cualquier manera con el Comité Administrador del Programa Federal de Construcción de Escuelas, la representación de éste será sustituida por el Instituto Nacional de la Infraestructura Física Educativa.
+
+Las responsabilidades derivadas de procedimientos administrativos, judiciales o cualquier otra investigación que se haya iniciado o se inicie sobre el manejo de los recursos públicos por parte de los servidores públicos del Comité Administrador del Programa Federal de Construcción de Escuelas o cualquier otra persona física o moral, pública o privada, continuarán su curso independientemente de su cambio de denominación.
+
+Artículo Décimo. Las entidades federativas deberán realizar las adecuaciones que sean necesarias para su legislación, en un plazo no mayor a 180 días hábiles, a fin de crear su Instituto Estatal de la Infraestructura Física Educativa y de que su marco constitutivo y normativo sea acorde con las disposiciones de la presente Ley.
+
+Artículo Décimo Primero. Las referencias al Comité Administrador del Programa Federal de Construcción de Escuelas que hagan las leyes y demás disposiciones normativas, se entenderán realizadas al Instituto Nacional de la Infraestructura Física Educativa.
+
+Artículo Décimo segundo. Para dar cumplimiento a lo dispuesto en el artículo 10, las autoridades en la materia harán un diagnóstico de la cobertura y calidad de la Infraestructura Física Educativa en el país y lo harán llegar al Congreso de la Unión.
+
+Artículo Décimo Tercero. Se derogan todas las demás disposiciones que se opongan al presente decreto.
