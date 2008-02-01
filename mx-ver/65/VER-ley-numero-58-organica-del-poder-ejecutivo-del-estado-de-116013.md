@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2007-08-08"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -186,6 +186,10 @@ X. Secretaría de Salud
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XI. Secretaría de Turismo y Cultura
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2008)</small>
+
+XI Bis. Secretaría de Protección Civil;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -463,11 +467,11 @@ XLII. Custodiar, en coordinación con la Secretaría de Seguridad Pública, a lo
 
 De la Secretaría de Seguridad Pública
 
-> <small>(REFORMADO, G.O. 30 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada; protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, de conformidad con las leyes de la materia.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -489,11 +493,11 @@ V. Nombrar y remover, con acuerdo del Gobernador del Estado, al Secretario Ejecu
 
 VI. Promover la participación de los ciudadanos en el diseño y planeación de planes y programas en materia de seguridad pública, así como para el desarrollo de actividades de vigilancia sobre el desempeño de la Secretaría;
 
-> <small>(REFORMADA, G.O. 11 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
 
-VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policíacas y demás fuerzas de seguridad estatales y protección civil, así como nombrar y remover a los titulares de las mismas a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
+VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policíacas y demás fuerzas de seguridad estatales, así como nombrar y remover a los titulares de las mismas, a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
 
-VIII. Integrar, coordinar y supervisar el Sistema Estatal de Protección Civil, así como implementar las medidas necesarias a fin de proteger y salvaguardar a la población ante la eventualidad de un desastre, en términos de la legislación aplicable;
+VIII. (DEROGADA, G.O. 1 DE FEBRERO DE 2008)
 
 IX. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información en materia de seguridad pública, mediante métodos que garanticen el estricto respeto a los derechos humanos, con apego a los principios de reserva y confidencialidad en el servicio público;
 
@@ -1501,6 +1505,66 @@ XXXV. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
 XXXVI. Elaborar y coordinar de manera conjunta con miembros del sector la creación y revisión del Plan Estatal de Turismo alineado al Plan Nacional de Turismo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE FEBRERO DE 2008)</small>
+
+De la Secretaría de Protección Civil
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 2008)</small>
+
+###### Artículo 32 Quater.
+
+La Secretaría de Protección Civil es la dependencia responsable de la organización, coordinación y operación del Sistema de Protección Civil del Estado y tendrá la competencia que expresamente le confiere la Ley de Protección Civil y demás legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 2008)</small>
+
+Artículo 32 Quinter. Son atribuciones del Secretario de Protección Civil, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+I. Integrar, coordinar y supervisar el Sistema Estatal de Protección Civil para garantizar, mediante la adecuada planeación, la prevención, auxilio y recuperación de la población y de su entorno ante situaciones de emergencia o desastre, incorporando la participación activa de la ciudadanía, tanto en lo individual como en lo colectivo;
+
+II. Proponer políticas y estrategias para el desarrollo de programas estatales, regionales, municipales, internos de protección civil;
+
+III. Por acuerdo del Titular del Ejecutivo, representar al Gobierno del Estado en la firma de convenios de coordinación, colaboración y apoyo con las dependencias y entidades del Gobierno Federal, en materia de protección civil;
+
+IV. Participar, en coordinación con las dependencias y entidades responsables, en el ordenamiento territorial y de los asentamientos humanos y la planeación del desarrollo regional y urbano, en los términos que lo dispone la Ley de Desarrollo Urbano Regional y Vivienda para el Estado de Veracruz de Ignacio de la Llave;
+
+V. Participar en el establecimiento de medidas de protección del medio ambiente;
+
+VI. Emitir dictámenes sobre la reubicación de los asentamientos humanos en zonas de riesgo;
+
+VII. Participar en la formulación de las declaratorias de zonas de riesgo, en términos de lo que dispone la Ley de Desarrollo Urbano Regional y Vivienda para el Estado de Veracruz de Ignacio de la Llave;
+
+VIII. Participar en las comisiones que normen, regulen, limiten o prohíban la ocupación de las zonas de riesgo, en términos de lo que dispone la ley de la materia;
+
+IX. De conformidad a lo dispuesto en esta Ley Orgánica y en el Reglamento Interior de la Secretaría, crear las instancias, mecanismos, instrumentos y procedimientos de carácter técnico operativo, de servicios y logística que permitan prevenir y atender la eventualidad de un desastre;
+
+X. Investigar, estudiar y evaluar riesgos y daños provenientes de elementos, agentes naturales o humanos que puedan dar lugar a desastres, integrando y ampliando los conocimientos de los fenómenos perturbadores en coordinación con las dependencias y entidades federales, estatales y municipales;
+
+XI. Difundir entre las autoridades correspondientes y a la población en general, los resultados de los trabajos que realice, así como toda aquella información que permita la generación, desarrollo y consolidación de una cultura fundamentalmente preventiva de la protección civil;
+
+XII. Asesorar y apoyar a las dependencias y entidades de la administración pública estatal y municipal y a otras instituciones de carácter social y privado, en materia de protección civil;
+
+XIII. Instrumentar y en su caso operar redes de detección, monitoreo, pronóstico y medición de riesgos, en coordinación con las dependencias responsables;
+
+XIV. Participar en la evaluación y cuantificación de los daños ocasionados por fenómenos perturbadores, cuando así lo determinen las disposiciones específicas aplicables;
+
+XV. Presentar al Ejecutivo Estatal las solicitudes que deberán formularse en términos de Ley, para que sean emitidas las correspondientes declaratorias de emergencia y desastre;
+
+XVI. Desarrollar y actualizar el Atlas Estatal de Riesgos;
+
+XVII. Gestionar ante las autoridades correspondientes, la incorporación de la materia de protección civil en el sistema educativo estatal público y privado;
+
+XVIII. Coordinar la participación de los brigadistas comunitarios, comités científicos, comités locales de ayuda mutua, organizaciones civiles y de los grupos voluntarios, en la atención a las emergencias, así como en el restablecimiento de la normalidad, conforme a la normativa que emita el Consejo Estatal de Protección Civil;
+
+XIX. Establecer los planes y programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de agentes perturbadores;
+
+XX. Emitir los dictámenes técnicos de vulnerabilidad y riesgo de instalaciones sanitarias públicas y privadas, existentes y futuras;
+
+XXI. Participar en la elaboración de programas y desarrollo de acciones tendientes a la solución de los problemas ambientales y del manejo de residuos sólidos urbanos y los que requieren manejo especial, en términos de lo que disponen la Ley y el Reglamento Interior de la Secretaría de Desarrollo Social y Medio Ambiente;
+
+XXII. Participar en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia, en la elaboración de los programas, establecimiento de las medidas y aplicación de las acciones, que permitan mejorar la calidad de vida de las personas con capacidades diferentes; y
+
+XXIII. Las demás que la ley le señale o le asignen el Gobernador del Estado y el Consejo Estatal de Protección Civil.
+
 De la Contraloría General
 
 ###### Artículo 33.
@@ -2088,3 +2152,17 @@ Primero. El presente Decreto surtirá efectos al siguiente día de su publicaci�
 Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
 
 Tercero. La Secretaría de Desarrollo Social y Medio Ambiente, en un plazo de treinta días de la entrada en vigor del presente decreto, deberá adecuar su Reglamento Interior a las presentes disposiciones.
+
+G.O. 1 DE FEBRERO DE 2008.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 225 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz.
+
+Segundo. El Reglamento Interior de la Secretaría de Protección Civil deberá emitirse dentro de los 90 días siguientes a la fecha de entrada en vigor del presente Decreto.
+
+Tercero. La Secretaría de Finanzas y Planeación realizará las adecuaciones procedentes a fin de que el presupuesto asignado a la Subsecretaría de Protección Civil, pase a la Secretaría de Protección Civil.
+
+Cuarto. Los recursos humanos y materiales asignados a la Subsecretaría de Protección Civil, se transferirán a la Secretaría de Protección Civil. La Contraloría General vigilará esa transferencia.
+
+Quinto. El personal que cambia de adscripción por lo dispuesto en el presente decreto, conservará sus derechos laborales conforme a la ley.
