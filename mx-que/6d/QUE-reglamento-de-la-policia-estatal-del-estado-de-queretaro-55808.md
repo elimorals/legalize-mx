@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-la-policia-estatal-del-estado-de-queretaro-55808"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-25"
-last_updated: "2007-05-25"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DE LA POLICIA ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo de 2007.
 
@@ -137,19 +137,31 @@ X. Delegar facultades no señaladas como indelegables por las disposiciones jur�
 
 XI. Coadyuvar al cumplimiento de los acuerdos y resoluciones que aprueben los órganos colegiados, en el ámbito de sus facultades;
 
-XII. Emitir órdenes generales y particulares en los términos de la Ley y de este Reglamento; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
 
-XIII. Las demás que le confieran otras disposiciones legales y reglamentarias aplicables.
+XII. Emitir órdenes generales y particulares en los términos de la Ley y de este Reglamento;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+XIII. Programar al personal de la Policía Estatal para que acuda a recibir capacitación y profesionalización especializada, de acuerdo con las políticas generales que establezca la Comisión;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+XIV. Las demás que le confieran otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 8.
 
-Del Director depende una Subdirección Operativa, que ejerce el Mando Medio Superior de la corporación y tiene a su cargo apoyar al Director en la planeación, coordinación y control de la actuación del personal operativo y asegurar la ejecución de los mecanismos de coordinación con otras corporaciones policiales y la población en general en materia de seguridad pública, de acuerdo con las instrucciones superiores y las disposiciones jurídicas vigentes.
+Además del resto del personal a su cargo, del Director podrá depender una Subdirección Operativa, que ejercerá el Mando Medio Superior de la corporación y tendrá a su cargo apoyar al Director en la planeación, coordinación y control de la actuación del personal operativo y asegurar la ejecución de los mecanismos de coordinación con otras corporaciones policiales y la población en general en materia de seguridad pública, de acuerdo con las instrucciones superiores y las disposiciones jurídicas vigentes.
 
 En las ausencias del Director, aún transitorias, el Subdirector ejercerá plenamente las facultades ejecutivas de aquel, sin mediar acuerdo escrito para ello, en cuanto resulten necesarias para garantizar el funcionamiento operativo, eficaz y permanente de la corporación, más no así las normativas o de planeación de índole general, debiendo en todo caso, mantener permanentemente informado al Director, sobre el ejercicio de dichas facultades durante la suplencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 9.
 
-Conforme a la estructura jerárquica de mando de la corporación, la Dirección será auxiliada por Jefaturas y Subjefaturas; éstas últimas se apoyarán en Supervisores, apoyados a su vez por Responsables de Turno, que se auxiliarán por Líderes de Escuadra.
+Conforme a la estructura jerárquica de mando de la Corporación, la Dirección será auxiliada por Jefaturas y Subjefaturas; éstas últimas se apoyarán en Supervisores, apoyados a su vez por Responsables de Turno, que se auxiliarán, en su caso, por Líderes de Escuadra.
 
 El número, denominación, especialidad por materia y personal a cargo de las unidades a que se refiere el párrafo anterior, serán las que establezca el Manual de Organización de la Secretaría, autorizado por las dependencias competentes del Gobierno del Estado, de acuerdo con los requerimientos del servicio y la disponibilidad presupuestal.
 
@@ -161,7 +173,9 @@ El personal policial adscrito a la corporación, se clasifica en:
 
 I. Personal de carrera policial, que son aquellos servidores públicos facultados para ejercer funciones policiales, que ostentan cualquiera de los grados a que se refiere el artículo inmediato siguiente, como consecuencia de su participación en los procedimientos de ingreso y promoción del sistema de carrera policial; y
 
-II. Personal sin carrera policial, que son aquellos servidores públicos nombrados por designación directa, que ejercen mandos policiales o funciones administrativas y de apoyo técnico especializado dentro de la corporación, sin poseer grado ni formar parte del sistema de carrera policial.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+II. Personal sin carrera policial, que son aquellos servidores públicos nombrados por designación directa, que ejercen mandos policiales o funciones administrativas y de apoyo técnico especializado dentro de la corporación, sin poseer grado dentro de la corporación ni formar parte del sistema de carrera policial.
 
 ###### Artículo 11.
 
@@ -237,9 +251,7 @@ Si al concluir el año de designación extraordinaria a que se refiere el párra
 
 Los nombramientos de cargo correspondientes a la estructura de mando, son libremente revocables en cualquier tiempo, a determinación del Secretario, por sí o a propuesta del Director.
 
-Tratándose de los cargos de Director y Subdirector, la revocación del nombramiento estará sujeta, en lo conducente, a lo que establezcan la Ley de Responsabilidades de los Servidores Públicos para el Estado y la Ley de los Trabajadores al Servicio del Estado y Municipios.
-
-Tratándose de cargos ocupados por policías de carrera, la revocación del nombramiento dará lugar a la liquidación proporcional por la remuneración complementaria derivada del ejercicio del cargo, con respecto a la principal que se perciba por el grado, salvo que la revocación se hubiese producido como consecuencia de destitución o inhabilitación ordenadas por Consejo de Honor y Justicia, o por incumplimiento de cualquiera de los requisitos de permanencia.
+Tratándose de los cargos de Director y Subdirector, la revocación del nombramiento estará sujeta, en lo conducente, a lo que establezcan la Ley de Responsabilidades de los Servidores Públicos para el Estado y la Ley de los Trabajadores al Servicio del Estado y Municipios. Tratándose de cargos ocupados por policías de carrera, la revocación del nombramiento dará lugar a la liquidación proporcional por la remuneración complementaria derivada del ejercicio del cargo, con respecto a la principal que se perciba por el grado, salvo que la revocación se hubiese producido como consecuencia de destitución o inhabilitación ordenadas por Consejo de Honor y Justicia, o por incumplimiento de cualquiera de los requisitos de permanencia.
 
 ###### Artículo 17.
 
@@ -257,7 +269,9 @@ I. Activo:
 
 a. En funciones.- Cuando desarrolle normal y regularmente sus actividades al servicio de la corporación.
 
-b. Concentrado.- Cuando se encuentre a disposición en la corporación, sin acceso al uso de armamento ni contacto con el público.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+b. Concentrado.- Cuando se encuentre a disposición en la corporación, normalmente dentro de las propias instalaciones, con o sin acceso al uso de armamento ni contacto con el público, a determinación de su superioridad y en espera de recibir instrucciones de sus mandos.
 
 c. Franco.- Cuando no se encuentre en servicio, pero permanezca a disposición de la corporación y sujeto a sus normas disciplinarias.
 
@@ -289,9 +303,11 @@ Los vocales ciudadanos de los órganos colegiados serán libremente designados y
 
 Para la designación de los vocales ciudadanos a que se refieren los artículos 30, fracción II, inciso d); 32, fracción II, inciso c) y 36 fracción II, inciso d), de este Reglamento, se considerará su trayectoria individual, la representatividad que ejerzan de instituciones u organismos de la sociedad civil, su probidad personal, su reconocimiento público y sus aptitudes técnicas o profesionales.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 22.
 
-Todos los integrantes de los órganos colegiados contarán con un suplente permanente, para los casos de excepción en que aquellos no puedan asistir a las sesiones del órgano respectivo. La designación de los suplentes se sujetará a las reglas de designación aplicables a los miembros titulares.
+Salvo en el caso de los vocales ciudadanos integrantes del Consejo de Honor y Justicia, todos los integrantes de los órganos colegiados contarán con un suplente permanente, para los casos de excepción en que aquellos no puedan asistir a las sesiones del órgano respectivo. La designación de los suplentes se sujetará a las reglas de designación aplicables a los miembros titulares.
 
 ###### Artículo 23.
 
@@ -317,9 +333,17 @@ VII. Ser el oficial de partes del órgano, habilitado para la recepción de toda
 
 VIII. Ser el escrutador de las votaciones que desahogue el órgano, informando al Presidente sobre los resultados;
 
-IX. Asistir al presidente del órgano durante la conducción de las sesiones; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
 
-X. Asesorar al órgano respectivo en las materias de su competencia.
+IX. Asistir al presidente del órgano durante la conducción de las sesiones;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+X. Ejecutar los acuerdos y cumplir las instrucciones que dicte el órgano colegiado respectivo o su Presidente; y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+XI. Asesorar al órgano respectivo en las materias de su competencia.
 
 ###### Artículo 25.
 
@@ -343,19 +367,27 @@ VII. Documentación de los trabajos.- De cada sesión se levantará un acta que 
 
 VIII. Publicidad.- Las sesiones de trabajo de los cuerpos colegiados serán privadas, salvo que el propio órgano determine hacerlas públicas; pero las actas de las sesiones podrán publicarse en la Gaceta Policial, íntegras o sintetizadas, según lo determine cada órgano;
 
-IX. Desarrollo de la sesión.- Al iniciar la sesión, se procederá con el pase de lista y la verificación del quórum reglamentario. Declarado éste, se dará cuenta del orden del día y del acta de la sesión precedente, que podrá someterse a consideración para posibles correcciones o precisiones, desahogándose enseguida los puntos a tratar, bajo la conducción y moderación del Presidente y con el auxilio del secretario técnico.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+IX. Desarrollo de la sesión.- Al iniciar la sesión, se procederá con el pase de lista y la verificación del quórum reglamentario. Declarado éste, se dará cuenta del orden del día y del acta de la sesión precedente, que podrá someterse a consideración para posibles correcciones o precisiones, desahogándose enseguida los puntos a tratar, bajo la conducción y moderación del Presidente y con el auxilio del Secretario Técnico. Cada órgano colegiado podrá expedir los lineamientos que rijan las formalidades para el óptimo desarrollo de sus sesiones de trabajo y la salvaguarda del orden en sus recintos, pudiendo solicitarse su publicación en la Gaceta Policial;
 
 X. Recesos.- Cuando la extensión o la naturaleza de los asuntos a tratar lo requiera; o situaciones extraordinarias lo ameriten, el presidente podrá ordenar el receso de la sesión por el tiempo que resulte necesario, fijando la fecha y hora o las condiciones para su reanudación;
 
-XI. Asuntos generales.- Sólo mediante la aprobación mayoritaria del órgano colegiado, podrá adoptarse resolución sobre asuntos generales, que en cualquier caso deberán ser anunciados por el interesado, desde la apertura de la sesión.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+XI. Asuntos generales.- Durante las sesiones podrán tratarse asuntos generales no contemplados específicamente en el orden del día, aunque sólo con el voto mayoritario del órgano colegiado, podrán motivar una resolución de fondo;
 
 XII. Desarrollo de las intervenciones.- Las intervenciones de los miembros no se sujetarán a formulismo ni solemnidad alguna, pero deberán ser breves y concisas, señalando los antecedentes, argumentos, fundamentos y objeto específico de la propuesta que impliquen. Las intervenciones se realizarán con sujeción a los principios de orden, libertad, respeto y derecho de réplica. El presidente gozará de amplias facultades para moderar, dar por concluidas las discusiones e interrogatorios y asegurar el orden de la sesión en general, que podrá ser suspendida o levantada para garantizarlo;
 
 XIII. Actividades de instrucción.- Los órganos colegiados podrán requerir información adicional y solicitar acciones de apoyo a las diversas unidades administrativas de la Secretaría, a fin de ilustrarse y enriquecer la valoración de los asuntos de su competencia; asimismo, procurarán la colaboración de dependencias, organismos o entidades públicas o privadas ajenas a la corporación, para alcanzar el cumplimiento de sus objetivos;
 
-XIV. Impedimentos.- Cuando algún integrante de los órganos colegiados de la corporación, tenga una relación afectiva, familiar o profesional, o una diferencia de carácter personal o de otra índole, con algún policía respecto del cual deba tomarse cierta determinación, deberá excusarse ante el propio órgano, quien resolverá lo conducente; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
 
-Tratándose exclusivamente del Consejo, se considera que los policías se encuentran impedidos para juzgar a sus superiores en grado, por lo que el propio órgano determinará lo conducente en cada caso.
+XIV. Impedimentos.- Cuando algún integrante de los órganos colegiados de la corporación, tenga una relación afectiva, familiar o profesional, o una diferencia de carácter personal o de otra índole, con algún policía respecto del cual deba tomarse cierta determinación, o estime estar afectado por algún impedimento que no le permita actuar con plena imparcialidad, deberá excusarse ante el propio órgano, quien resolverá lo conducente; y
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+Tratándose exclusivamente del Consejo, se considera que los policías se encuentran impedidos para juzgar a sus superiores en grado, por lo que el propio órgano determinará lo conducente en cada caso. Al resolverse la procedencia de alguna excusa, el Vocal en cuestión quedará impedido de conocer la totalidad del procedimiento disciplinario del que se trate.
 
 ###### Artículo 26.
 
@@ -365,13 +397,29 @@ Los Secretarios Técnicos de los órganos colegiados tendrán derecho a voz, per
 
 Los órganos colegiados podrán invitar a sus sesiones, sólo con voz, a personas cuya función, conocimientos, experiencia, opinión o reconocimiento público, ilustren el criterio o contribuyan al mejor desempeño del órgano correspondiente.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 28.
 
-Si los miembros de los órganos colegiados faltaren injustificadamente a las sesiones, hasta por tres ocasiones en un periodo de tres meses, se aplicaran las sanciones laborales y administrativas que resulten aplicables conforme a derecho, tratándose del personal de la Secretaría; o se promoverá su remplazo definitivo ante el Titular del Poder Ejecutivo o del Secretario, según corresponda, tratándose de los vocales ciudadanos.
+Se aplicarán las sanciones laborales y administrativas que resulten aplicables conforme a derecho, tratándose del personal de la Secretaría; o se promoverá su reemplazo definitivo ante el Titular del Poder Ejecutivo o del Secretario, según corresponda, tratándose de los vocales ciudadanos, cuando la conducta de los miembros de los órganos colegiados encuadre en alguno de los casos siguientes:
+
+I. Si faltaren injustificadamente a las sesiones, hasta por tres ocasiones en un período de tres meses;
+
+II. Por abandono de sus funciones, sin causa justificada, por un período de treinta días consecutivos;
+
+III. Cuando existan entre ellos conflictos que hagan imposible el ejercicio de sus funciones y obstruyan los fines del órgano colegiado;
+
+IV. Cuando por resolución de autoridad competente les sean suspendidos sus derechos o prerrogativas como ciudadano;
+
+V. Por alterar el orden público y la paz social, en el contexto de los trabajos del órgano colegiado; y
+
+VI. Las demás análogas igualmente graves que hagan imposible el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 29.
 
-La Comisión y el Consejo se sujetarán en su organización y funcionamiento a lo que establecen los capítulos de este Reglamento, relativos a la Carrera Policial y al Sistema Disciplinario.
+La Comisión y el Consejo se sujetarán en su organización, funcionamiento y conducción de sus procedimientos, a lo que establecen los capítulos de este Reglamento, relativos a la Carrera Policial y al Sistema Disciplinario.
 
 #### Sección Segunda. De la Comisión de Carrera Policial
 
@@ -387,7 +435,7 @@ a. El Director del Instituto;
 
 b. El Director de la Policía Estatal;
 
-c. Un policía con grado mínimo de oficial, libremente designado por el Secretario; y (sic)
+c. Un policía con grado mínimo de oficial, libremente designado por el Secretario; y
 
 d. Dos ciudadanos designados por el Secretario; y
 
@@ -449,7 +497,7 @@ I. Supervisar a la Coordinación en la ejecución de investigaciones, diligencia
 
 II. Formar y mantener actualizado un sistema de precedentes, que estandarice y uniforme los criterios de evaluación de la conducta policial y de interpretación de las normas operativas que la rijan, a efecto de garantizar la seguridad jurídica del personal policial y sistematizar el control disciplinario;
 
-III. Solicitar a las unidades administrativas de la Secretaría, en forma individual o articulada, la ejecución de auditorías generales o específicas sobre la operación y desempeño de la corporación o de sus miembros. Las auditorias ordenadas por el Consejo, determinarán:
+III. Solicitar a las unidades administrativas de la Secretaría, en forma individual o articulada, la ejecución de auditorias generales o específicas sobre la operación y desempeño de la corporación o de sus miembros. Las auditorias ordenadas por el Consejo, determinarán:
 
 a. Los objetivos específicos a evaluar;
 
@@ -461,11 +509,21 @@ d. Los aspectos específicos sobre los cuales versará dicho informe.
 
 IV. Solicitar la colaboración de otras instituciones, de las organizaciones del sector social y aún de los particulares, para el eficiente y oportuno ejercicio de sus atribuciones;
 
-V. Emitir instrucciones y recomendaciones generales o particulares a la Comisión y al Comité, así como a las unidades administrativas de la Secretaría, para la atención y ejecución de sus resoluciones;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
 
-VI. Recibir, directamente de los ciudadanos, quejas o denuncias sobre conducta policial; y
+V. Emitir instrucciones y recomendaciones generales o particulares a la Comisión y al Comité, así como a las unidades administrativas de la Secretaría, y al Instituto, para la atención y ejecución de sus resoluciones;
 
-VII. Solicitar a la Comisión que emita constancias de separación y retiro, cuando se acredite que un policía de carrera ha incumplido con los requisitos de permanencia.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+VI. Recibir de los ciudadanos, directamente o por conducto de la Secretaría Técnica, quejas o denuncias sobre conducta policial;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+VII. Solicitar a la Comisión que emita constancias de separación y retiro, cuando se acredite que un policía de carrera ha incumplido con los requisitos de permanencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2008)</small>
+
+VIII.- Determinar la aplicación de sanciones a los policías, por infracciones a la Ley, al presente Reglamento, a las órdenes generales emitidas por el Director o aquellas conductas que, no estando previstas en los anteriores ordenamientos, produzcan un menoscabo a la honorabilidad de la Corporación o impliquen conductas inapropiadas para un policía a criterio del Consejo, aún estando franco o inactivo.
 
 ###### Artículo 34.
 
@@ -478,6 +536,34 @@ II. Acreditar su residencia efectiva en el Estado de Querétaro, durante un mín
 III. No haber sido condenado por delito doloso, mediante sentencia firme; y
 
 IV. Ser Licenciado en Derecho con cédula profesional y experiencia de cuando menos dos años en el ejercicio de la profesión, preferentemente en actividades relacionadas con la seguridad pública, la procuración o la administración de justicia, dentro o fuera del servicio público
+
+###### Artículo 35.
+
+La Coordinación es la unidad administrativa de la Secretaría que funge como auxiliar del Consejo y le corresponde, sin perjuicio de la competencia que le otorga el Reglamento Interior, lo siguiente:
+
+I. Ejercer bajo la dirección y supervisión del Secretario, la representación legal y defensa jurídica de la Secretaría, de su titular, órganos y unidades administrativas, dentro de los procedimientos judiciales y administrativos en que tengan injerencia, con todos los derechos procesales relativos a la presentación y contestación de demandas y reconvenciones, ejercicio de acciones, excepciones y defensas, ofrecimiento de pruebas y formulación de alegatos, interposición de recursos, desistimientos, transacciones y demás derechos que las leyes reconocen a los mandatarios judiciales;
+
+II. Dar trámite a los juicios de amparo, así como intervenir y rendir los informes correspondientes en los mismos, y verificar que las demás unidades administrativas de la Secretaría cumplan con las resoluciones que en ellos se pronuncien, prestando la asesoría que se requiera e informando al superior jerárquico de aquéllas en caso de incumplimiento;
+
+III. Procurar el cumplimiento ágil, eficaz y oportuno de los asuntos planteados a la Secretaría por los organismos competentes en materia de protección de los derechos humanos, haciendo las gestiones necesarias y solicitando la información conducente;
+
+IV. Tramitar la presentación de denuncias y querellas del interés de la Secretaría, previa autorización de su titular;
+
+V. Concentrar los reportes de conducta policial que deban atenderse como parte del sistema disciplinario, realizar las investigaciones pertinentes, exponer sus conclusiones ante el Consejo y emitir a otras unidades de la Secretaría, recomendaciones para el alertamiento temprano y la intervención preventiva de posibles faltas policiales;
+
+VI. Proporcionar asesoría jurídica a la Secretaría, a su titular y unidades administrativas;
+
+VII. Compilar y sistematizar los tratados, leyes, reglamentos, decretos, acuerdos, jurisprudencia y demás normas internacionales, federales, estatales o municipales relacionadas con la competencia de la Secretaría, realizar estudios comparados y proponer al Secretario la actualización y adecuación de los ordenamientos estatales;
+
+VIII. Requerir por cualquier medio de comunicación a las áreas y unidades administrativas de Secretaría, la documentación e información necesarias para el cumplimiento de sus atribuciones. En caso de omisión, podrá solicitarse a través de su superior jerárquico;
+
+IX. Expedir constancias por el cotejo de documentos oficiales que obren en sus archivos, a solicitud de autoridad competente;
+
+X. Mantener en el secreto de su archivo, los expedientes de investigaciones calificadas con valor crítico de prioridad y demás documentos que por su trascendencia, contenido o valor estratégico para la corporación, deban custodiarse bajo reserva, con autorización del Consejo y de conformidad con las leyes aplicables;
+
+XI. Ejecutar, en el ámbito de sus facultades, las resoluciones de los órganos colegiados; y
+
+XII. Ejercer las demás facultades que le otorguen las leyes y reglamentos aplicables y acatar las instrucciones del Secretario.
 
 ###### Artículo 35.
 
@@ -567,15 +653,13 @@ VIII. En general, la prevención del delito y las faltas administrativas, garant
 
 ###### Artículo 39.
 
-Sin perjuicio de su sujeción al régimen de servidores públicos, los policías de carrera estarán regulados conforme a lo establecido el artículo 123, fracción XIII, apartado B de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Seguridad Pública del Estado de Querétaro, el presente Reglamento y demás disposiciones legales aplicables.
-
-Conforme con la disposición del artículo 116 de la Ley, el personal sin carrera policial tendrá los mismos deberes y obligaciones que los policías de carrera, excepto aquellos que tengan relación directa con la carrera policial; respecto de sus derechos y relación laboral, se regirán conforme a lo establecido en la Ley de Trabajadores al Servicio del Estado y Municipios.
+Sin perjuicio de su sujeción al régimen de servidores públicos, los policías de carrera estarán regulados conforme a lo establecido el artículo 123, fracción XIII, apartado B de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Seguridad Pública del Estado de Querétaro, el presente Reglamento y demás disposiciones legales aplicables. Conforme con la disposición del artículo 116 de la Ley, el personal sin carrera policial tendrá los mismos deberes y obligaciones que los policías de carrera, excepto aquellos que tengan relación directa con la carrera policial; respecto de sus derechos y relación laboral, se regirán conforme a lo establecido en la Ley de Trabajadores al Servicio del Estado y Municipios.
 
 ###### Artículo 40.
 
 Los policías de carrera gozarán de los derechos que establece la Ley en materia de remuneración, trato digno, igualdad de oportunidades, formación, capacitación, adiestramiento, evaluación curricular y promoción, estímulos y reconocimientos, dotación de uniforme y equipo, defensa legal y afianzamiento, reclusión especial, alojamiento y alimentación extraordinarias, seguridad social, gratificaciones, licencias, seguro de vida, vacaciones, pensión, jubilación y atención médica o psicológica, en su caso.
 
-Las prestaciones económicas de los policías serán iguales en lo general, a aquellas de las que goce el personal administrativo del Gobierno del Estado de Querétaro, de conformidad con la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios; exceptuándose las prevenciones específicas que se establezcan en la Ley y en el presente capítulo.
+Las prestaciones económicas de los policías serán iguales en lo general, a aquellas de las que goce el personal administrativo del Gobierno del Estado de Querétaro, de conformidad con la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios; exceptuándose las prevenciones especificas que se establezcan en la Ley y en el presente capítulo.
 
 ###### Artículo 41.
 
@@ -635,7 +719,9 @@ II. Descuentos ordenados por la institución de seguridad social a la que sean i
 
 III. Descuentos ordenados por autoridad judicial competente;
 
-IV. Obligaciones a cargo del policía que éste haya consentido, derivadas de la adquisición de créditos con instituciones a través de convenios; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+IV. Obligaciones a cargo del policía que éste haya consentido, derivadas de la adquisición de créditos con instituciones a través de convenios o de cualquier acuerdo legalmente contraído con la propia Secretaría, a través de su Dirección de Servicios Administrativos;
 
 V. Por faltas o retardos injustificados, condena a la reparación del daño, imposición de multas o reposición de fianzas cubiertas por la Secretaría, en cualquier caso, previa resolución del Consejo.
 
@@ -765,13 +851,23 @@ Solamente a las incapacidades o constancias que otorgue la institución con quie
 
 #### Sección Séptima. Jubilación y Pensión por Vejez o Muerte
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 63.
 
 La jubilación y las pensiones por vejez o muerte a favor de los policías o sus beneficiarios, en su caso, se sujetarán en lo general a las disposiciones que establece la Ley de los Trabajadores al Servicio del Estado y Municipios.
 
-El Manual de Carrera Policial establecerá medidas y mecanismos adecuados a efecto de que, durante el año previo a la jubilación de los policías de carrera, éstos reciban de la corporación, en la medida de las posibilidades administrativas y presupuestales, orientación personal y apoyo psicológico para el retiro. Así mismo, la Secretaria procurará la celebración de convenios de cooperación con el sector productivo y de servicios en los ámbitos público, privado y social, a fin de que los policías jubilados, puedan contar con oportunidades laborales y de desarrollo personal tras el retiro.
+El Manual de Carrera Policial establecerá medidas y mecanismos adecuados a efecto de que, durante el año previo a la jubilación de los policías de carrera, éstos reciban de la corporación, en la medida de las posibilidades administrativas y presupuestales, orientación personal y apoyo psicológico para el retiro. Así mismo, la Secretaría procurará la celebración de convenios de cooperación con el sector productivo y de servicios en los ámbitos público, privado y social, a fin de que los policías jubilados, puedan contar con oportunidades laborales y de desarrollo personal tras el retiro.
 
-En cumplimiento a lo ordenado por el artículo 115, fracción XIX de la Ley, cuando un policía de carrera pierda la vida en el cumplimiento de su deber, u cónyuge supérstite, concubina así reconocida judicialmente o en su defecto, sus hijos menores de edad en igualdad de proporciones, tendrán derecho al cobro de una cantidad equivalente a 100 meses de remuneración del policía fallecido, calculados al momento de ocurrir el deceso.
+En cumplimiento a lo ordenado por el artículo 115, fracción XIX de la Ley, cuando un policía pierda la vida, el cónyuge supérstite, concubina así reconocida judicialmente o en su defecto, los hijos menores de edad en igualdad de proporciones, tendrán derecho al cobro de una cantidad equivalente a 100 meses de remuneración calculados al momento de ocurrir el deceso, siempre que lo autorice el Comisión y se reúnan las siguientes condiciones:
+
+I. Que la muerte no se haya producido por causas naturales y ajenas al servicio policial;
+
+II. Que el deceso ocurra con motivo de una acción policial que signifique un riesgo relevante, a juicio de la Comisión; y
+
+III. Que no se advierta impericia o negligencia en la conducta del policía durante la acción policial, así determinada por la propia Comisión.
+
+Fuera de este supuesto, la muerte del personal de carrera dará a los beneficiarios, los mismos derechos que la Leyes les reconozcan, tratándose de la muerte del personal de base que labore al servicio del Poder Ejecutivo.
 
 #### Sección Octava. Asistencia, Orientación y Defensa Jurídicas
 
@@ -791,17 +887,21 @@ V. En materia constitucional, cuando mediante el juicio de garantías se cuestio
 
 VI. En materia penal, cuando se les requiera por cualquier motivo, sin el carácter de probables responsables, para intervenir dentro del curso de una indagatoria o proceso penales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 65.
 
-Los servicios a que se refieren las fracciones I y II del artículo inmediato que antecede, se brindarán al interesado, a su elección, por conducto del personal adscrito a la Coordinación, o a través de prestadores externos dedicados al libre ejercicio de la profesión, con cargo a la Secretaría, en los casos y condiciones que establece este Reglamento y de conformidad con los limites y restricciones de pago, requisitos, alcances y procedimientos que señale el Manual de Servicios de Defensa Jurídica Externa, que al efecto expedirá el Consejo.
+Los servicios a que se refieren las fracciones I y II del artículo inmediato que antecede, podrán brindarse al interesado, por conducto del personal adscrito a la Coordinación, o a través de prestadores externos dedicados al libre ejercicio de la profesión, con cargo a la Secretaría, en los casos y condiciones que establece este Reglamento y de conformidad con los límites y restricciones de pago, requisitos, alcances y procedimientos que señale el Manual de Servicios de Defensa Jurídica Externa, que al efecto expedirá el Consejo.
 
 Cuando en las materias a que se refieren las fracciones I y II del artículo anterior, la sentencia de primera instancia resulte condenatoria en perjuicio del policía, sólo mediante dictamen técnico de la Coordinación y previo acuerdo del Secretario, subsistirán los servicios de defensa jurídica externa con cargo a la Secretaría, para la prosecución en segunda instancia y el juicio de amparo, en su caso.
 
 Los servicios a que se refieren las fracciones III a VI del artículo anterior, se prestarán por conducto del personal jurídico que provea la Secretaría, o con autorización exclusivamente del Secretario, mediante prestadores de servicios profesionales contratados al efecto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 66.
 
-Los servicios de defensa externa se asignarán al policía requirente, mediante la disposición de un padrón de proveedores externos de servicios jurídicos entre los que podrá optar en igualdad de circunstancias el interesado, a través de aceptación expresa y por escrito.
+Los servicios de defensa externa podrán asignarse al policía requirente, en su caso, mediante la disposición de un padrón de proveedores externos de servicios jurídicos entre los que podrá optar en igualdad de circunstancias el interesado, a través de aceptación expresa y por escrito.
 
 El uso de este servicio por parte del policía, eximirá a la Secretaría de toda responsabilidad por el desempeño profesional con que se ejerza su representación y defensa.
 
@@ -825,7 +925,9 @@ Además de aquellas que la Ley les exige, los miembros de la corporación tienen
 
 I. Proporcionar al público su nombre completo cuando se les solicite y mostrar su identificación en forma respetuosa, dentro del desempeño de sus funciones;
 
-II. Actuar con absoluta integridad, de modo tal que se mantenga la confianza de la sociedad en general y de los ciudadanos en particular, respecto a sus funciones;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+II. Actuar con integridad, aún estando franco, de modo tal que se mantenga la confianza de la sociedad en general y de los ciudadanos en particular, respecto a sus funciones;
 
 III. Conducirse con respeto frente a cualquier autoridad administrativa, legislativa o judicial;
 
@@ -841,7 +943,9 @@ VIII. Reintegrar a la Secretaría, íntegramente, el armamento, municiones, unif
 
 IX. Abstenerse de enajenar o ceder de cualquier forma, uniformes, insignias, placas, gafetes, armamento o equipo, que se les proporcione para el servicio y desempeño de su función;
 
-X. Abstenerse de prestar equipo de trabajo a su cargo, salvo autorización expresa del superior jerárquico facultado para ello;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+X. Utilizar el equipo de trabajo que tenga a su cargo, con el debido cuidado; y abstenerse de prestarlo, salvo autorización expresa del superior jerárquico facultado para ello;
 
 XI. Denunciar ante la autoridad competente, los hechos u omisiones imputables a otros policías, que impliquen faltas disciplinarias o violación de sus deberes legales;
 
@@ -855,7 +959,9 @@ XV. Activar y utilizar adecuadamente los dispositivos de localización de vehíc
 
 XVI. Emplear con la mayor precaución y discreción el armamento a su cargo;
 
-XVII. Abstenerse de realizar durante su horario de servicio, actividades particulares distintas de las públicas que tenga asignadas;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+XVII. Abstenerse de realizar durante su horario de servicio, actividades de carácter personal o ajenas a éste, sin autorización justificada de su mando, practicar juegos de azar, dormir o distraerse de cualquier otra forma, afectando el correcto desempeño de sus responsabilidades, debiendo así mismo, abstenerse durante el servicio de ingerir bebidas embriagantes, ni dentro o fuera de éste, consumir drogas o estupefacientes de cualquier tipo;
 
 XVIII. Abstenerse de autorizar a un subordinado, sin causa justificada, para no asistir a sus labores, abandonar el servicio o atender asuntos personales durante éste;
 
@@ -877,7 +983,9 @@ XXVI. Abstenerse de entregar o facilitar a terceras personas, información o doc
 
 XXVII. Abstenerse de acudir a centros de consumo de bebidas alcohólicas o de explotación, exhibición o comercio sexual, como bares, cantinas, prostíbulos y demás establecimientos análogos, portando el uniforme del servicio, armas a su cargo y demás instrumentos de trabajo relacionados con su actividad, salvo que acuda en el desempeño de sus funciones;
 
-XXVIII. Abstenerse de ostentar en forma tácita o expresa su cargo, función, cargo, grado, adscripción, servicio o uniforme, con el objeto de obtener privilegios, regalos, favores, cortesías, descuentos, pago de deudas, dispensas, prebendas o ventajas indebidas de cualquier tipo frente a los particulares en lo individual, en establecimientos comerciales o ante otras autoridades;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+XXVIII. Abstenerse de ostentar en forma tácita o expresa su función, cargo, grado, adscripción, servicio o uniforme, con el objeto de obtener privilegios, regalos, favores, cortesías, descuentos, pago de deudas, dispensas, prebendas o ventajas indebidas de cualquier tipo frente a los particulares en lo individual, en establecimientos comerciales o ante otras autoridades;
 
 XXIX. Abstenerse de recibir dádivas de cualquier especie, así como aceptar ofrecimientos o promesas por cualquier acción u omisión del servicio, en ejercicio o con motivo de sus funciones;
 
@@ -899,7 +1007,7 @@ XXXVII. Proceder con la mayor diligencia y cuidado en la preservación, custodia
 
 XXXVIII. Abstenerse de incriminar injustificadamente a cualquier persona, por faltas o delitos de los que no sea responsable, imputarle hechos falsos o detenerlo, sin contar con indicios suficientes que razonablemente lo justifiquen;
 
-XXIX. Abstenerse de coaccionar por cualquier medio a otro para obtener una declaración o detenerlo injustificadamente para interrogarlo; y
+XXIX. Abstenerse de coaccionar por cualquier medio a otro para obtener una declaración o detenerlo injustificadamente para interrogarlo; y (sic)
 
 XL. Informar de sus actividades a su superior y a la unidad responsable de asentar en bitácora los eventos relevantes de la corporación, en los términos que se le ordenen, debiéndose reportar sin excepción, de inmediato y por cualquier medio idóneo, las siguientes incidencias:
 
@@ -909,15 +1017,27 @@ b. Arrestos o detenciones de cualquier tipo, así como la puesta a disposición 
 
 c. Muerte o lesiones graves de personas, de las cuales conozca con motivo de sus funciones;
 
-d. Daños a vehículos o equipo oficiales, o la muerte o lesiones del personal de la corporación;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+d. Daños, extravío, robo o destrucción de vehículos o equipo oficiales, o la muerte o lesiones del personal de la Corporación;
 
 e. Aseguramiento de armas, drogas, vehículos, dinero o valores; y
 
 f. Las demás incidencias que se establezcan mediante órdenes generales.
 
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+XLI. Abstenerse de abandonar el servicio sin causa justificada o autorización superior, o retirarse de las zonas de vigilancia o patrullaje asignadas, aún si, en cualquier caso, se hace sustituir por otro policía; y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+XLII. Observar durante su periodo vacacional, de franquicia o cualquier otro que signifique estar fuera de servicio, una conducta intachable, digna de un policía estatal y abstenerse de realizar actos que conlleven escándalos públicos, delitos o faltas administrativas, y que pongan a criterio del Consejo, en entredicho el prestigio de la Corporación.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 70.
 
-Sin excepción, cuando un policía ejecute un arresto o detención de cualquier tipo, informará a la persona privada de su libertad, los motivos del arresto o la detención, explicándole sus derechos y el modo de ejercerlos, para ponerla inmediatamente a disposición del Ministerio Público o juez competente, de conformidad con la orden u órdenes generales que al efecto se establezcan.
+Sin excepción, cuando un policía ejecute un arresto o detención personal de cualquier tipo, informará al individuo privado de su libertad, los motivos del arresto o la detención y los derechos elementales que conforme a Derecho le correspondan con motivo de este hecho, poniéndola sin demora a disposición del Ministerio Público o juez competente, de conformidad con la orden u órdenes generales que al efecto se establezcan.
 
 ###### Artículo 71.
 
@@ -1009,9 +1129,11 @@ VII. La información y documentación complementaria que a juicio de la Comisió
 
 De conformidad con el artículo 67 de la Ley, la información y documentación que obre en los expedientes a que se refiere este artículo, se considera reservada, sin perjuicio de su consulta por el propio policía de que se trate o a requerimiento de autoridad competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 75.
 
-La Comisión, en congruencia con lo que establezcan los Consejos Nacional y Estatal de Seguridad Pública, expedirá el Manual de Carrera Policial, así como los programas, catálogos, tabuladores, lineamientos y demás instrumentos de carácter general y obligatorio que resulten necesarios para definir y desarrollar las políticas y procedimientos del servicio de carrera policial.
+La Comisión, en congruencia con lo que establezcan los Consejos Nacional y Estatal de Seguridad Pública, expedirá el Manual de Carrera Policial, así como los programas, catálogos, tabuladores, lineamientos y demás instrumentos de carácter general y obligatorio que resulten necesarios para definir y desarrollar las políticas y procedimientos del servicio de carrera policial, excepción hecha del régimen disciplinario, cuya aplicación corresponde al Consejo, en los términos de la Ley.
 
 Con objeto de mantener, en todo tiempo, la igualdad de oportunidades, la evaluación periódica y el mérito dentro del servicio, la Comisión acordará y aplicará un sistema de puntuación para la ejecución de los procedimientos a que se refiere el párrafo anterior, en el que se ponderarán todas las evaluaciones de los procedimientos, a excepción de los resultados de las evaluaciones toxicológicas, la cuales arrojan resultado negativo o positivo.
 
@@ -1021,13 +1143,17 @@ Con objeto de mantener, en todo tiempo, la igualdad de oportunidades, la evaluac
 
 El reclutamiento es la fase de captación de candidatos interesados en cursar la formación inicial para participar en la fase de selección y, en caso de ser seleccionados, incorporarse como policías de carrera a la corporación.
 
-El reclutamiento se realizará exclusivamente para ocupar plazas nuevas o vacantes correspondientes al primer grado de la categoría de policía, previa expedición de convocatoria que la Comisión, dentro de los 30 días naturales posteriores a la creación o inicio de vacancia de la plaza, deberá publicar cuando menos en dos periódicos de amplia circulación comercial en la entidad.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+El reclutamiento se realizará exclusivamente para ocupar plazas nuevas o vacantes correspondientes al primer grado de la categoría de policía, previa expedición de convocatoria que la Comisión deberá publicar cuando menos en dos periódicos de amplia circulación comercial en la entidad.
 
 Los interesados en participar en la fase de reclutamiento deben satisfacer los siguientes requisitos:
 
 I. Ser de ciudadanía mexicana, exclusivamente por nacimiento;
 
-II. Ser originario del estado de Querétaro o haber residido en él al menos durante cuatro años, en forma interrumpida e inmediatamente anterior a la fecha de publicación de la convocatoria;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+II. Ser originario del estado de Querétaro o haber residido en él al menos durante cuatro años, en forma ininterrumpida e inmediatamente anterior a la fecha de publicación de la convocatoria;
 
 III. Acreditar la relación laboral y actividades desarrolladas durante los últimos cuatro años;
 
@@ -1041,7 +1167,9 @@ VII. No haber sido condenado mediante sentencia firme por delito doloso, del fue
 
 VIII. No encontrarse sujeto a proceso penal, aún cuando se trate de suspensión a prueba del procedimiento;
 
-IX. Contar cuando menos con 18 años de edad cumplidos el día de la publicación de la convocatoria, salvo lo dispuesto en el artículo 83, fracción I, de este Reglamento;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+IX. Tener entre 18 y 25 años de edad cumplidos, salvo que cuenten con título profesional, en cuyo caso la edad máxima será de 30 años;
 
 X. Gozar de buena salud física y mental, contar con las aptitudes necesarias y cubrir el perfil que la Comisión determiné, en los términos que fije la convocatoria;
 
@@ -1051,7 +1179,9 @@ XII. Haber cumplido el Servicio Militar Nacional, en el caso de los varones;
 
 XIII. No ser ministro de algún culto religioso;
 
-XIV. No presentar tatuajes de ninguna clase, ni perforaciones en el caso de los hombres; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+XIV. No presentar tatuajes ostensibles de ninguna clase en la cara, cuello, manos ni antebrazos, ni perforaciones distintas a las de los lóbulos, cuyo uso es permitido exclusivamente para las mujeres;
 
 XV. No tener antecedentes negativos en los Registros Nacional y Estatal de Personal de Seguridad Pública.
 
@@ -1059,7 +1189,9 @@ XV. No tener antecedentes negativos en los Registros Nacional y Estatal de Perso
 
 La convocatoria a que se refiere el artículo anterior, contendrá:
 
-I. Los requisitos que deberán cubrir los aspirantes, complementarios a los que señala el artículo que inmediato antecede, así como los medios y documentos para acreditar su cumplimiento;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+I. Los requisitos que deberán cubrir los aspirantes, complementarios a los que señala el artículo inmediato que antecede, así como los medios y documentos para acreditar su cumplimiento;
 
 II. Los puestos sujetos a reclutamiento, así como el número máximo de aspirantes que habrán de ser aceptados;
 
@@ -1085,21 +1217,29 @@ Los resultados de preselección y selección serán publicados en el lugar o med
 
 La participación en el procedimiento de convocatoria y evaluación no importa la generación de prestaciones o prerrogativas de carácter patrimonial ni da lugar a la formación de derechos adquiridos como parte de la carrera policial.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 80.
 
-Los aspirantes seleccionados podrán participar con el carácter de "cadetes" en las actividades de formación inicial que establezca, imparta, certifique o avale el Instituto.
+Los aspirantes seleccionados podrán participar con el carácter de alumnos en las actividades de formación inicial que establezca, imparta, certifique o avale el Instituto.
 
-La condición de cadete no supone relación laboral o administrativa con el Estado, el Gobierno del Estado, la Secretaría o la corporación, no importa la generación de prestaciones o prerrogativas de carácter patrimonial ni da lugar a la formación de derechos adquiridos como parte de la carrera policial; no obstante ello, la corporación podrá implantar programas de prácticas profesionales no remuneradas, mediante las cuales se perfeccionen los conocimientos de los cadetes, adquiridos en la formación inicial.
+La condición de alumno no supone relación laboral o administrativa con el Estado, el Gobierno del Estado, la Secretaría o la Corporación, no importa la generación de prestaciones o prerrogativas de carácter patrimonial ni da lugar a la formación de derechos adquiridos como parte de la carrera policial; no obstante ello, la Corporación podrá implantar programas de prácticas profesionales no remuneradas, mediante las cuales se perfeccionen los conocimientos de los alumnos, adquiridos en la formación inicial.
 
 #### Sección Tercera. Formación Inicial
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 81.
 
-La formación inicial tiene como propósito lograr la educación de los cadetes, a través de procesos dirigidos a la adquisición de conocimientos y el desarrollo de habilidades, destrezas y actitudes que, en congruencia con el perfil del puesto, permitan a los potenciales policías garantizar los principios constitucionales de eficiencia, honradez, profesionalismo y legalidad.
+La formación inicial tiene como propósito lograr la educación de los alumnos, a través de procesos dirigidos a la adquisición de conocimientos y el desarrollo de habilidades, destrezas y actitudes que, en congruencia con el perfil del puesto, permitan a los potenciales policías garantizar los principios constitucionales de eficiencia, honradez, profesionalismo y legalidad.
 
-La formación inicial se cursará en el Instituto de Capacitación y Estudios del Seguridad del Estado de Querétaro, o en instituciones u organismos educativos avalados por éste, que actualicen, especialicen, evalúen y certifiquen a los policías de carrera. Dicho Instituto establecerá programas anuales de formación para los Policías Preventivos de Carrera, en coordinación con la Academia Nacional de Seguridad Pública del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, los cuales deberán cumplir las instituciones u organismos educativos que actualicen, especialicen, evalúen o certifiquen a los policías de carrera.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
 
-Los cadetes que hayan concluido satisfactoriamente las actividades académicas de formación inicial, tendrán derecho a obtener la certificación, título, constancia, diploma o reconocimiento que expida la institución u organismo respectivo, sin que dicho medio de comprobación implique por sí mismo, el ingreso a la carrera policial.
+La formación inicial se cursará en el Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, o en instituciones u organismos educativos avalados por éste, que actualicen, especialicen, evalúen y certifiquen a los policías de carrera. Dicho Instituto establecerá programas anuales de formación para los Policías Preventivos de Carrera, en coordinación con la Academia Nacional de Seguridad Pública del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, los cuales deberán cumplir las instituciones u organismos educativos que actualicen, especialicen, evalúen o certifiquen a los policías de carrera.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+Los alumnos que hayan concluido satisfactoriamente las actividades académicas de formación inicial, tendrán derecho a obtener la certificación, título, constancia, diploma o reconocimiento que expida la institución u organismo respectivo, sin que dicho medio de comprobación implique por sí mismo, el ingreso a la carrera policial.
 
 Dichas instituciones u organismos deberán contar con sus respectivos planes y programas de estudio, que sustenten su instrumentación y guíen los procesos de enseñanza y aprendizaje, a fin de garantizar su desarrollo ordenado y sistemático, así como el logro de las metas de formación.
 
@@ -1115,15 +1255,25 @@ El ingreso se acredita mediante la entrega de la constancia de grado respectiva,
 
 Para ingresar a la carrera policial, se necesitan en lo general, los mismos requisitos que este Reglamento exige para participar en el reclutamiento; y en específico:
 
-I. Tener entre 18 y 20 años de edad cumplidos, salvo que cuenten con título profesional, en cuyo caso la edad máxima será de 30 años;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+I. Tener entre 20 y 27 años de edad cumplidos, salvo que cuenten con título profesional, en cuyo caso la edad máxima será de 32 años;
 
 II. Tener su domicilio permanente en el estado de Querétaro;
 
 III. Satisfacer las características de peso, talla, estatura, capacidad visual, resistencia y estado físico que determine la Comisión, así como cumplir, en general, el perfil correspondiente a la plaza por ocupar;
 
-IV. Haber aprobado las evaluaciones correspondientes al proceso de formación inicial; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
 
-V. Obtener el dictamen favorable de la Comisión.
+IV. Haber aprobado las evaluaciones correspondientes al proceso de formación inicial;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+V. Acreditar aptitud para conducir vehículos de motor, mediante la licencia respectiva; y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+VI. Obtener el dictamen favorable de la Comisión.
 
 En caso de haber pertenecido a alguna corporación policial, a las fuerzas armadas o a alguna empresa de seguridad privada, el interesado deberá presentar la baja correspondiente, debiendo ésta ser por causal de separación ordinaria. Cualquier otro motivo de baja, será impedimento para su ingreso.
 
@@ -1160,6 +1310,14 @@ Excepción hecha de la edad, los requisitos de reclutamiento, selección e ingre
 ###### Artículo 89.
 
 La sujeción a proceso penal, no constituye causa de separación inmediata, sino hasta que el órgano jurisdiccional competente determine la responsabilidad del policía, mediante sentencia firme; en tanto ésta se produzca, el Consejo podrá ordenar cuantas medidas considere pertinentes para garantizar, en aras del interés público, los principios constitucionales de legalidad, eficiencia, honradez y profesionalismo del servicio policial.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+El Consejo, aún desde la fase de investigación, podrá asimismo ordenar, entre esas medidas, la suspensión temporal sin goce de remuneración, con motivo de hechos graves que pudieren dar lugar al fincamiento de responsabilidades penales o administrativas. Tales remuneraciones serán íntegramente cubiertas en forma retroactiva, al reincorporarse al servicio, cuando se determine la no responsabilidad del policía, mediante resolución firme de autoridad judicial o administrativa.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+La suspensión a prueba del procedimiento penal no se entenderá como condición para la reincorporación al servicio y la reintegración de las percepciones.
 
 ###### Artículo 90.
 
@@ -1289,6 +1447,10 @@ X. Haya obtenido la mejor puntuación, calificación o rendimiento en las evalua
 
 Los mecanismos y criterios específicos para la realización de concursos de desarrollo y promoción interna para ascender en los diversos grados de la corporación, serán establecidos por la Comisión a través del Manual de Carrera Policial, debiendo considerarse la trayectoria, experiencia, los resultados de la formación inicial, continua y especializada y los procedimientos de evaluación de permanencia y desempeño policial.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+Las promociones se efectuarán preferentemente cada año, en el mes de diciembre, salvo que la Comisión disponga periodicidades distintas, pudiéndose realizarse en forma simultánea, la entrega de estímulos.
+
 ###### Artículo 96.
 
 La constancia que se otorgue por ascenso de grado reemplazará a la que se hubiere expedido para el grado inmediato inferior y contendrá la fecha en que se hubiese aprobado la resolución de ascenso por la Comisión.
@@ -1297,7 +1459,7 @@ La constancia que se otorgue por ascenso de grado reemplazará a la que se hubie
 
 ###### Artículo 97.
 
-Las dotaciones complementarias constituyen primas económicas pagaderas en efectivo o en especie, de carácter no remunerativo ni prestacional, independientes de las percepciones ordinarias de los policías, que pueden otorgarse en atención a circunstancias específicas del servicio o como un incentivo permanente para el cumplimiento de los principios de legalidad, eficiencia, profesionalismo y honradez.
+Las dotaciones complementarias constituyen primas económicas pagaderas en efectivo o en especie, de carácter no remunerativo ni prestaciónal, independientes de las percepciones ordinarias de los policías, que pueden otorgarse en atención a circunstancias específicas del servicio o como un incentivo permanente para el cumplimiento de los principios de legalidad, eficiencia, profesionalismo y honradez.
 
 Dichas dotaciones se consideran, para todos los efectos legales, como percepciones extraordinarias, no constitutivas de ingreso fijo, regular o permanente, ni formarán parte de las remuneraciones que perciban los policías en forma ordinaria.
 
@@ -1357,17 +1519,41 @@ Bajo ninguna circunstancia se otorgarán dotaciones complementarias o estímulos
 
 #### Sección Novena. Separación y Retiro
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 106.
 
 La relación administrativa entre el policía de carrera y el Estado concluye:
 
 I. Por las causas ordinarias de renuncia, incapacidad permanente, jubilación o muerte, previstas en la Ley; o
 
-II. Por causa extraordinaria, consistente en el incumplimiento de cualquiera de los requisitos de permanencia, de conformidad con el artículo 123 apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos,176 de la Ley y demás disposiciones de este Reglamento.
+II. Por causa extraordinaria, consistente en el incumplimiento de cualquiera de los requisitos de permanencia, de conformidad con el artículo 123 apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos.
+
+En los términos del artículo 176 de la Ley, se consideran requisitos de permanencia:
+
+a) No tener sentencia condenatoria por delito doloso o preterintencional que haya causado ejecutoria o resolución de autoridad competente;
+
+b) No haber sido destituido o inhabilitado por el Consejo u otras autoridades administrativas competentes;
+
+c) Abstenerse de consumir drogas, enervantes, sustancias psicotrópicas o estupefacientes, dentro o fuera de servicio;
+
+d) Mantener el perfil médico, físico y psicológico establecido para desempeñar correctamente su función;
+
+e) Someterse y aprobar, en su caso, los exámenes médicos, toxicológicos, psicológicos, de habilidades psicomotrices y aptitudes físico atléticas, teóricos, poligráficos y demás evaluaciones aplicables en los términos de la Ley y este Reglamento, determinadas por el Secretario, el Director, el Consejo, la Comisión o el Consejo Estatal de Seguridad Pública;
+
+f) Comparecer oportunamente a las diligencias de investigación y enjuiciamiento en materia disciplinaria; y aportar en ellas los conocimientos que se posean sobre los hechos materia del procedimiento;
+
+g) Abstenerse de incurrir en cualquiera de las faltas a que se refiere la fracción VI del artículo 126 de este Reglamento;
+
+h) Lograr la promoción de grado en un plazo máximo de cinco años; y
+
+i) Sujetarse en todo momento a los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 107.
 
-La cesación de la relación administrativa se formaliza mediante la constancia de separación y retiro por causa extraordinaria que, debidamente fundada y motivada, emitirá la Comisión, previo acuerdo que así lo determine por mayoría absoluta de votos de sus integrantes, habiendo oído al policía cuestionado.
+La cesación de la relación administrativa se formaliza mediante la constancia de separación y retiro que, debidamente fundada y motivada, emitirá la Comisión, previo acuerdo que así lo determine por mayoría absoluta de votos de sus integrantes, habiendo oído al policía cuestionado.
 
 Cuando para determinar la separación extraordinaria, hubiere intervenido previamente el Consejo, tratándose de los supuestos a que se refieren las fracciones II, III, V y VII del artículo 176 de la Ley, bastará que dicha audiencia se hubiere verificado ante el propio Consejo, limitándose la Comisión a emitir la constancia respectiva, sin entrar de nueva cuenta al estudio del asunto.
 
@@ -1403,7 +1589,9 @@ a. Solicitudes de investigación oficiosa;
 
 b. Reportes disciplinarios de mandos superiores de la corporación, con respecto a la actuación de sus inferiores;
 
-c. Reportes administrativos de la Dirección de Servicios Administrativos de la Secretaría, referentes al control del personal de la corporación;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+c. Reportes administrativos de la Dirección de Servicios Administrativos de la Secretaría, referentes al control del personal de la corporación; o de cualesquiera otras unidades administrativas de la Secretaría, en el ámbito de la supervisión que les corresponda por materia;
 
 d. Reportes especiales de las unidades internas de la Secretaría, individual o colegiadamente responsables de ejercer auditorias operativas sobre la gestión policial; o
 
@@ -1425,7 +1613,9 @@ Los medios para la prestación (sic) de quejas o denuncias a que se refiere el p
 
 I. Datos del quejoso: nombre, edad, sexo, ocupación, domicilios, teléfonos, cuenta de correo y medio autorizado para recibir notificaciones sobre el estado y seguimiento del reporte;
 
-Son admisibles las quejas anónimas y aquellas en las que el quejoso se identifique, pero solicite mantener sus datos bajo confidencialidad; en estos supuestos, el Consejo, valorando las circunstancias del caso, determinará si asume como propia la acusación para los efectos del procedimiento y adoptará las providencias necesarias para salvaguardar la identidad del quejoso;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+Son admisibles las quejas anónimas y aquellas en las que el quejoso se identifique, pero solicite mantener sus datos bajo confidencialidad; en estos supuestos, el Consejo, valorando las circunstancias del caso, determinará si ordena una investigación oficiosa en los términos del último párrafo del artículo anterior, o bien el archivo del reporte, adoptando, en caso necesario, las providencias necesarias para salvaguardar la identidad del quejoso;
 
 II. Datos del oficial u oficiales señalados como responsables: nombre, placa del oficial, número de patrulla o medio de transporte, número de placas del vehículo oficial y tipo de uniforme, si son de su conocimiento;
 
@@ -1443,67 +1633,71 @@ La atención de los reportes de conducta policial, se sujetará a los principios
 
 El derecho de defensa del personal policial es inviolable durante el enjuiciamiento ante el Consejo; para este efecto, el policía será informado de las razones por las que se someta al procedimiento respectivo, se le facilitará la consulta del expediente en que se actúe y se le recibirán las pruebas que ofrezca en relación con los hechos que se le imputen, de conformidad con las disposiciones de este Reglamento.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 115.
 
 El procedimiento para la atención de reportes de conducta policial, es el siguiente:
 
-I. Recibido el reporte, queja o requerimiento respectivo, la Coordinación se cerciorará de que el policía reportado pertenezca al personal de carrera de la corporación, asignándose al reporte, en este caso, un número de identificación consecutivo. La Coordinación clasificará enseguida el grado de prioridad del reporte y proveerá el procesamiento estadístico de la causal que lo motive, de acuerdo con el catálogo de clasificación de causales y prioridades que al efecto establezca el Consejo, y de conformidad con el siguiente artículo.
+I. Recibido el reporte, queja o requerimiento respectivo, la Coordinación se cerciorará de que el policía reportado pertenezca al personal de carrera de la Corporación. La Coordinación clasificará enseguida el grado de prioridad del reporte y proveerá el procesamiento estadístico de la causal que lo motive, de acuerdo con el catálogo de clasificación de causales y prioridades que al efecto establezca el Consejo, y de conformidad con el siguiente artículo.
 
-Si el personal reportado no fuere de carrera o perteneciera a otra corporación, se turnará la documentación al Órgano Interno de Control, Consejo de Honor y Justicia o instancia que corresponda, en su caso.
+La Coordinación informará oportunamente al Consejo el grado de prioridad asignado al reporte, para su ratificación o reclasificación, en su caso; y de considerarlo procedente, solicitará desde luego la autorización de medidas preventivas en los términos del artículo 89 de este Reglamento.
 
-Si fuese imposible identificar al personal reportado, el reporte fuese notoriamente frívolo o incomprensible o versara sobre hechos imputables a servidores públicos distintos a los de la Policía Estatal, se desechará de plano el reporte o, en su caso, se turnará la documentación a la autoridad competente, informándolo en cualquier caso al Consejo.
+Si el personal reportado no fuere de carrera o perteneciera a otra Corporación, se turnará la documentación al órgano interno de control, Consejo de Honor y Justicia o instancia que corresponda, en su caso.
 
-II. Los reportes calificados con valor únicamente informativo, no ameritarán el curso de una investigación, pero serán registrados y procesados para monitorear el desempeño del policía reportado, pudiendo considerarse como antecedente para la investigación de reportes posteriores y ser analizados, en su caso, con otros elementos de información estadística, documental, psicológica y legal, para justificar una investigación detallada sobre la conducta del policía.
+Si fuese imposible identificar al personal reportado, el reporte fuese notoriamente frívolo o incomprensible o versara sobre hechos imputables a servidores públicos distintos a los de carrera de la Policía Estatal, se desechará de plano el reporte o, en su caso, se turnará la documentación a la autoridad competente, informándolo en cualquier caso al Consejo.
+
+II. Los reportes calificados con valor únicamente informativo, no ameritarán actividad alguna de investigación, pero serán registrados y procesados para monitorear el desempeño del policía reportado, pudiendo considerarse como antecedente para la investigación de reportes posteriores y ser analizados, en su caso, con otros elementos de información estadística, documental, psicológica y legal, para justificar una investigación detallada sobre la conducta del policía.
 
 En la atención y resolución de reportes de conducta policial que tengan su origen en una queja ciudadana, calificados con valor de prioridad informativo o intermedio, la Coordinación podrá procurar la conciliación como medio para solucionar el asunto planteado, salvo cuando se trate de hechos que impliquen un menoscabo patrimonial en perjuicio del quejoso o del Estado, la comisión de un delito o alguna falta grave conforme a las normas aplicables.
 
-III. Los reportes calificados con valor crítico serán atendidos con preferencia sobre los intermedios, pero en cualquier caso la Coordinación, en su carácter de auxiliar del Consejo, radicará la investigación, se allegará de toda la información que obre en el historial administrativo del policía y proveerá su inmediata comparecencia para declarar, mediante citatorio en el que se señalará la fecha, lugar y hora de la diligencia.
+III. Los reportes calificados con valor crítico serán atendidos con preferencia sobre los intermedios, pero en ambos casos la Coordinación, en su carácter de auxiliar del Consejo, radicará la investigación, le asignará un número de expediente, se allegará de toda la información que obre en el historial administrativo del policía y proveerá su inmediata comparecencia para declarar, mediante citatorio en el que se señalará la fecha, lugar y hora de la diligencia.
 
-IV. Durante la comparecencia inicial, se tomará conocimiento de los datos generales del policía, se informará al probable infractor sobre los hechos que se imputan y se le dará oportunidad de declarar, en forma personalísima y bajo protesta de decir verdad. Así mismo, se le podrán formular cuestionamientos específicos sobre los hechos reportados, sobre sus circunstancias concurrentes y sobre el desempeño cotidiano de su función pública.
+IV. Durante la comparecencia inicial, se tomará conocimiento de los datos generales del policía, se informará al probable infractor sobre el objeto de la diligencia y se le dará oportunidad de declarar, en forma personalísima y bajo protesta de decir verdad. Así mismo, se le podrán formular cuestionamientos específicos sobre los hechos reportados, sobre sus circunstancias concurrentes y sobre el desempeño cotidiano de su función pública.
 
 La Coordinación podrá ordenar la práctica de nuevas comparecencias cuando lo estime pertinente para ampliar, detallar o aclarar declaraciones realizadas con motivo de las investigaciones.
 
-V. Las comparecencias para declarar con respecto a la investigación de reportes de conducta policial, son obligatorias para todos los servidores públicos de la Secretaría y para el propio policía señalado como responsable. Cuando en este último caso, el policía no comparezca injustificadamente a declarar hasta por dos ocasiones, o compareciendo, se abstenga de declarar sobre los hechos, el caso será turnado de inmediato al Consejo, para que este resuelva sobre la destitución del policía.
+V. Las comparecencias para declarar con respecto a la investigación de reportes de conducta policial, son obligatorias para todos los servidores públicos de la Secretaría y para el propio policía señalado como responsable. Cuando en este último caso, el policía no comparezca injustificadamente a declarar hasta por dos ocasiones, o compareciendo, se abstenga de declarar sobre los hechos, la Coordinación levantará acta circunstanciada y se entenderá actualizada la causal de suspensión en los términos del artículo 126 fracción V de este Reglamento, turnándose las constancias del caso al Consejo, para que éste resuelva lo conducente. En caso de reincidencia, se estará a lo ordenado en el artículo 127 fracción VI.
 
-VI. El personal no policial que desatienda, impida, obstaculice o dificulte el curso de las investigaciones o la ejecución de las resoluciones derivadas del incumplimiento de las obligaciones policiales, declare con falsedad o encubra las faltas u omisiones de otros, será denunciado ante el Órgano Interno de Control de la Secretaría o ante quien resulte competente.
+VI. El personal no policial que retarde, desatienda, impida, obstaculice o dificulte la atención de reportes de conducta policial, el curso de las investigaciones o la ejecución de las resoluciones derivadas del incumplimiento de las obligaciones policiales, declare con falsedad o encubra las faltas u omisiones de otros, será denunciado ante el órgano interno de control de la Secretaría o ante quien resulte competente.
 
-VII. Recabada la declaración del policía señalado como responsable, la Coordinación podrá, por conducto de su titular o de los visitadores, auxiliares y demás personal que al efecto se autorice, exhortar al reportante para ampliar la información del asunto; preparar y desahogar los medios de prueba que ofrezca el reportante o el policía señalado como responsable, así como realizar todas aquellas diligencias que tiendan a demostrar los hechos y las responsabilidades que de ellos deriven, allegándose de toda información o elemento que pueda producir convicción al Consejo y no sea contrario al derecho o la moral. Enunciativa y no limitativamente, son admisibles como pruebas la confesión, los documentos públicos o privados, la inspección, el testimonio, el peritaje, la confrontación, los informes, loa indicios, los reportes de los sistemas de localización y geoposicionamiento satelital, las bitácoras impresas o electrónicas, las grabaciones de imagen, datos o sonido, las presunciones y el careo, en este último caso, exclusivamente con el consentimiento del reportante.
+VII. Recabada la declaración del policía señalado como responsable, la Coordinación podrá, por conducto de su titular o de los supervisores, visitadores, auxiliares y demás personal que al efecto se autorice, exhortar al reportante para ampliar la información del asunto; preparar y desahogar los medios de prueba que ofrezca el reportante o el policía señalado como responsable, así como realizar todas aquellas diligencias que tiendan a demostrar los hechos y las responsabilidades que de ellos deriven, allegándose de toda información o elemento que pueda producir convicción al Consejo y no sea contrario al derecho o la moral. Enunciativa y no limitativamente, son admisibles como pruebas la confesión, los documentos públicos o privados, la inspección, el testimonio, el peritaje, la confrontación, los informes, los reportes de los sistemas de localización y geoposicionamiento satelital, las bitácoras impresas o electrónicas, las grabaciones de imagen, datos o sonido, las presunciones y el careo, en este último caso, exclusivamente con el consentimiento del reportante.
 
-VIII. La Coordinación, a través de su titular y personal autorizado, justificando su actuación con motivo de investigaciones ordenadas por el Consejo, gozará de libre acceso a los archivos, expedientes y bases de datos que obren en la Secretaría y que contengan información relevante sobre los hechos o personas sujetos a investigación.
+VIII. La Coordinación, a través de su titular y personal autorizado, gozará con motivo de las investigaciones a su cargo, de libre acceso a los archivos, expedientes y bases de datos que obren en la Secretaría y que contengan información relevante sobre los hechos o personas sujetos a investigación.
 
-IX. Asimismo, la Coordinación podrá solicitar la colaboración y apoyo de otras dependencias de la administración pública federal, estatal o municipal, de los particulares en lo individual y de organizaciones del sector privado, para garantizar el eficiente resultado de las investigaciones en materia de conducta policial.
+IX. Asimismo, la Coordinación podrá solicitar la colaboración y apoyo de otras dependencias, organismos o entidades de la administración pública federal, estatal o municipal, de los particulares en lo individual y de organizaciones del sector privado, para garantizar el eficiente resultado de las investigaciones en materia de conducta policial.
 
-X. Concluida la investigación, la Coordinación pondrá a consideración del Consejo los resultados de la misma y éste, valorando el caso, podrá ordenar el desahogo de una o varias audiencias para la instrucción y resolución correspondientes.
+X. Concluida la investigación, la Coordinación pondrá a consideración del Consejo los resultados de la misma y éste, valorando el caso, podrá ordenar el desahogo de investigaciones complementarias a las efectuadas por la Coordinación, o bien el archivo del asunto por incompetencia, falta de elementos para el enjuiciamiento o cualquier otro motivo justificado;
 
-XI. El Consejo proveerá, la notificación al probable responsable, a efecto de que comparezca oportunamente a su defensa, a cuyo efecto se precisaran en el citatorio, los hechos que motiven el enjuiciamiento. La inasistencia del probable responsable a la audiencia de instrucción, alegatos y resoluciones, no impedirá al Consejo dictar su resolución, salvo que éste considere indispensable la concurrencia de aquel para ilustrarse.
+XI. A instancia de la Coordinación en aquellos casos en que vaya a formular conclusiones de acusación, el Consejo proveerá, por conducto de su Secretario Técnico, la notificación al probable responsable, con al menos tres días hábiles de anticipación, para que comparezca a su defensa en audiencia oral, citándose los hechos que motiven el enjuiciamiento y apercibiéndose al citado de que, si dejare comparecer sin justa causa, será tenido por confeso de los hechos que se le imputan. La inasistencia del probable responsable a las audiencias de enjuiciamiento, no impedirá al Consejo dictar su resolución, salvo que éste considere indispensable la concurrencia de aquel para ilustrarse.
 
-XII. Abierta la audiencia, la Coordinación expondrá los antecedentes del caso, informará sobre las pruebas recabadas, justificará su pertinencia, valor y alcance legal y formulará sus conclusiones en cualquiera de los siguientes sentidos:
+Ante la admisión de la acusación presentada por la Coordinación, se radicará ante el Consejo el procedimiento disciplinario correspondiente, asignándole un número de expediente, radicación que será firmada por el Presidente y el Secretario Técnico.
 
-a. Conclusiones de acusación; o
+XII. Abierta la audiencia de enjuiciamiento, la Coordinación expondrá los antecedentes del caso, informará sobre las pruebas recabadas y formulará sus conclusiones de acusación.
 
-b. Conclusiones de no acusación.
-
-En ambos casos, las conclusiones podrán sugerir además, la adopción de medidas preventivas o correctivas de carácter general o particular, que tiendan a garantizar los intereses del reportante, el respeto a los principios disciplinarios de la conducta policial y el óptimo desempeño de la corporación en su conjunto.
+Aún cuando se formularen conclusiones de no acusación, las conclusiones de la Coordinación podrán sugerir la adopción de medidas preventivas o correctivas de carácter general o particular, que tiendan a garantizar los intereses del reportante, el respeto a los principios disciplinarios de la conducta policial y el óptimo desempeño de la Corporación en su conjunto.
 
 Asimismo, las conclusiones de acusación podrán comprender la solicitud de interponer denuncias para el fincamiento de otras responsabilidades penales o administrativas.
 
-XIII. Las conclusiones versarán sobre todos y cada uno de los puntos comprendidos en el reporte de conducta policial, pudiendo extenderse a nuevos elementos de valoración disciplinaria, que surjan durante el curso de las investigaciones y que hubieren sido hechos del conocimiento del acusado.
+XIII. Las conclusiones versarán sobre todos y cada uno de los puntos comprendidos en el reporte de conducta policial, pudiendo extenderse a nuevos elementos de valoración disciplinaria, que surjan durante el curso de las investigaciones.
 
-XIV. Si las conclusiones fueren de acusación, propondrán la sanción o sanciones aplicables, los medios de valoración para su individualización al caso concreto y las razones de hecho y de derecho en que se funden.
+XIV. Si las conclusiones fueren de acusación, al proponer la sanción o sanciones aplicables, se expondrán los medios de valoración para su individualización al caso concreto y las razones de hecho y de derecho en que se funden.
 
 Si de las investigaciones se concluyera la existencia de causales de incumplimiento de los requisitos de permanencia, así se comunicará al Consejo para que éste solicite a la Comisión, la inmediata expedición de la constancia de separación y retiro.
 
-XV. Expresadas las conclusiones del caso, se dará oportunidad al probable responsable, de manifestar lo que a su interés convenga, abriéndose la audiencia de alegatos, durante la misma sesión, o prorrogándola para este efecto.
+XV. Expresadas las conclusiones del caso, se dará oportunidad al probable responsable, en la misma o posterior audiencia, de manifestar lo que a su interés convenga y ofrecer las pruebas que estime pertinentes, abriéndose la audiencia de alegatos, durante la misma sesión, o prorrogándola para este efecto.
 
-El Consejo podrá autorizar en todo momento la formulación de interrogatorios directos al probable responsable y a los testigos de cargo o descargo y ordenar todas las diligencias para mejor proveer que estime conducentes al esclarecimiento de la verdad y de las circunstancias que deban concurrir a la individualización de la sanción.
+El Consejo podrá practicar por sí mismo, en todo momento y de manera colegiada o por conducto de sus integrantes, pero siempre con autorización de su Presidente, la formulación de interrogatorios directos al probable responsable y a los testigos de cargo o descargo y ordenar todas las diligencias para mejor proveer que estime conducentes al esclarecimiento de la verdad y de las circunstancias que deban concurrir a la individualización de la sanción.
 
-XVI. Oídas las conclusiones y alegatos de las partes, se someterá el proyecto de resolución a deliberación bajo reserva del Consejo. El voto de los Consejeros será preferentemente secreto y mediante cédulas, salvo que el propio Consejo determine lo contrario.
+XVI. Oídas las conclusiones y alegatos de las partes, el Consejo deliberará bajo reserva y dictará la resolución correspondiente dentro de los siguientes 15 días hábiles, notificándose la resolución al justiciable tan pronto como sea posible. El Consejo podrá consultar la opinión de la Coordinación sobre la individualización de la sanción aplicable. El voto de los Consejeros será preferentemente secreto y mediante cédulas, salvo que determine lo contrario.
 
-XVII. No podrá transcurrir más de un año para imponer la sanción que corresponda, contando a partir de la fecha en que el Consejo conozca de los hechos, salvo que las investigaciones se vieren interrumpidas por causas ajenas a la misma. Las suspensiones que otras autoridades competentes, decretaren afectando el curso del procedimiento, interrumpirán el plazo por el tiempo que subsista la suspensión.
+XVII. La facultad del Consejo para imponer la sanción que corresponda, prescribirá en un año contado a partir de la primera audiencia de enjuiciamiento; dicha prescripción se interrumpirá por cada trámite que el Consejo realice y le sea notificado al probable responsable.
+
+Las suspensiones que otras autoridades competentes, decretaren afectando el curso del procedimiento, interrumpirán el plazo por el tiempo que subsista la suspensión.
 
 XVIII. El Consejo podrá, en cualquier tiempo, ordenar la práctica o ampliación de cualquier diligencia probatoria, disponer la prórroga de las audiencias, habilitar días y horas inhábiles para la práctica de diligencias y proveer todas aquellas medidas que conduzcan al mejor conocimiento de la verdad, al óptimo desahogo de los procedimientos y al justo dictado de las resoluciones.
 
-XIX. Dictada la resolución se comunicará por escrito y sin dilación al justiciable; y causando estado, se comunicará también a quien corresponda, para su ejecución, si fuese condenatoria.
+XIX. Dictada la resolución, si fuese condenatoria, se comunicará sin dilación al justiciable y a las unidades que deban concurrir a su ejecución; si fuese absolutoria, bastará con su publicación en la Gaceta Policial, para entenderse notificada a los interesados.
 
 XX. Toda resolución condenatoria y firme del Consejo, será comunicada al Consejo Estatal de Seguridad Pública, para su debida inscripción en el Registro Nacional, a la Comisión de Carrera Policial, para observar lo dispuesto en el artículo 107 de este ordenamiento, al área responsable del procesamiento estadístico de la Secretaría, y al reportante, si no perteneciere a la Secretaría, por conducto de la Coordinación de Relaciones con el Público.
 
@@ -1515,7 +1709,9 @@ I. Crítico, cuando el reporte de conducta policial se refiera a acusaciones cal
 
 II. Intermedio, cuando el reporte de conducta policial se refiera a acusaciones no graves, pero existan antecedentes de otros reportes del mismo personal, se asocie con otros reportes que justifiquen su investigación en conjunto o no encuadre en las hipótesis de clasificación de valor informativo;
 
-III. Informativo, cuando el reporte de conducta policial se refiera a acusaciones no graves, no existan reportes anteriores contra el mismo policía, y se trate:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+III. Informativo, cuando el reporte de conducta policial se refiera a acusaciones no graves y se trate:
 
 a. De hechos notoriamente falsos o contradictorios, narrados en forma incomprensible, insuficiente o incoherente, de modo que dificulten o hagan imposible identificar claramente las circunstancias de modo, tiempo y lugar para la ejecución de una investigación detallada;
 
@@ -1525,7 +1721,9 @@ c. De textos ilegibles, cuando la denuncia, reporte o queja sólo conste por esc
 
 d. De quejas, denuncias o reportes de cuyo contenido se desprenda total imposibilidad de acreditar los hechos denunciados, ante la ausencia de evidencias objetivas;
 
-e. De hechos que, notoriamente, no arrojen indicio alguno de ilegalidad; o
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+e. De hechos que, notoriamente, no arrojen indicio alguno de ilegalidad o responsabilidad administrativa;
 
 f. De hechos en los que, manifiestamente, el objetivo del quejoso sea evitar el pago de multas o el cumplimiento de otras obligaciones legales, sin cuestionar una conducta indebida del policía.
 
@@ -1533,25 +1731,35 @@ f. De hechos en los que, manifiestamente, el objetivo del quejoso sea evitar el 
 
 Para los efectos de la fracción I del artículo anterior, se consideran acusaciones graves las referentes a las infracciones catalogadas por este Reglamento dentro de los niveles de gravedad IV a VI, así como las relativas al uso excesivo de la fuerza, las agresiones físicas y psicológicas, la tortura, la extorsión, el cohecho, la intimidación, la contribución para la evasión de personas aseguradas, la descarga o el disparo injustificados de arma de fuego, el tráfico de armas, la posesión, el tráfico y el consumo de sustancias prohibidas, la omisión de funciones o el abandono del servicio, si tuvieron como resultado un grave menoscabo de la seguridad pública, y en general, la comisión, coparticipación o encubrimiento de delitos contra la vida e integridad personal, contra la libertad e inexperiencia sexuales, contra el servicio público o contra la salud, así como los calificados por la Ley como delincuencia organizada o contra la seguridad nacional.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 118.
 
-Al clasificar el reporte con valor crítico o intermedio, el Consejo podrá, en forma oficiosa o a solicitud de la Coordinación, autorizar como medida preventiva y durante todo el tiempo que dure el procedimiento, la suspensión sin goce de sueldo del personal bajo investigación, su concentración con goce de sueldo, en las instalaciones de la corporación, para desarrollar funciones administrativas no estratégicas, sin contacto con el público ni acceso al uso o control de armamento; su reasignación a otras funciones, áreas u horarios de servicio, la restricción al uso de armamento y cualquier otra medida que salvaguarde los principios constitucionales que rigen la actuación policial.
+Al ratificar o reclasificar el reporte con valor crítico o intermedio, el Consejo podrá, en forma oficiosa o a solicitud de la Coordinación, autorizar como medida preventiva y durante todo el tiempo que dure el procedimiento, desde la fase de investigación y hasta el enjuiciamiento, la suspensión sin goce de sueldo del personal bajo investigación, su concentración con goce de sueldo en las instalaciones de la corporación, para desarrollar funciones administrativas no estratégicas, sin contacto con el público ni acceso al uso o control de armamento; su reasignación a otras funciones, áreas u horarios de servicio, la restricción al uso de armamento y cualquier otra medida que salvaguarde los principios constitucionales que rigen la actuación policial.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 119.
 
-La intervención de la Coordinación ante el Consejo, con motivo de la atención de reportes de conducta policial, podrá ser ejercida por el titular de aquella o por el personal que éste designe expresamente por cada caso específico.
+La intervención de la Coordinación ante el Consejo, así como sus actuaciones con motivo de las investigaciones a su cargo, podrán ser ejercidas por el titular de aquella o, bajo la supervisión del mismo, por el personal que éste designe.
 
 ###### Artículo 120.
 
-Durante las audiencias del Consejo, su presidente gozará de las más amplias facultades para preservar el orden y el respeto en el recinto, quedando facultado para imponer apercibimientos y arrestos, disponer la expulsión del responsable, del sitio donde se sesione, requerir el uso de la fuerza pública para reestablecer (sic) el orden, hacer comparecer al justiciable o lograr la presentación forzosa de quienes deban aportar información para el esclarecimiento de los hechos; y aún decretar la suspensión de la sesión hasta que existan condiciones para su reanudación. Las correcciones disciplinarias a que se refiere este artículo son inatacables.
+Durante las audiencias del Consejo, su presidente gozará de las más amplias facultades para preservar el orden y el respeto en el recinto, quedando facultado para imponer apercibimientos y arrestos, disponer la expulsión del responsable, del sitio donde se sesione, requerir el uso de la fuerza pública para reestablecer el orden, hacer comparecer al justiciable o lograr la presentación forzosa de quienes deban aportar información para el esclarecimiento de los hechos; y aún decretar la suspensión de la sesión hasta que existan condiciones para su reanudación. Las correcciones disciplinarias a que se refiere este artículo son inatacables.
 
-Bajo ninguna circunstancia, durante las diligencias de investigación o las sesiones del Consejo, los policías comparecerán armados.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+Bajo ninguna circunstancia, durante las diligencias de investigación o las sesiones del Consejo, los policías comparecerán armados, sea cual fuere su participación en el acto, salvo que se trate del personal encargado de resguardar la seguridad del recinto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 121.
 
-En forma excepcional, mediante la autorización del Consejo y como elemento informativo para el desarrollo de una investigación calificada con valor de prioridad crítico, podrán implementarse las siguientes medidas:
+En forma excepcional y como elemento informativo para el desarrollo de las investigaciones a su cargo, la Coordinación y el Consejo podrán implementar las siguientes medidas:
 
-I. Sujeción al uso de polígrafo;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+I. Sujeción al uso de polígrafo u otros medios de control de confianza;
 
 II. Evaluación médica, del entorno socio-familiar, toxicológica o psicológica especial;
 
@@ -1583,7 +1791,17 @@ I. A hechos que se atribuyan a varios policías en forma conjunta.
 
 II. A hechos probablemente cometidos por más de un policía, si existen indicios de que ha mediado acuerdo entre ellos; o cuando revelen posibles patrones de operación concertada en perjuicio de la disciplina policial;
 
-III. A hechos cometidos con el propósito de perpetrar o facilitar la comisión de otras faltas.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+III. A hechos cometidos con el propósito de perpetrar o facilitar la comisión de otras faltas;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+IV. A investigaciones que se sigan contra un mismo policía; y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+V. A los mismos hechos, pero denunciados ante diversas instancias, y que por razones de competencia sean remitidos a la Secretaría para su atención.
 
 ###### Artículo 124.
 
@@ -1595,7 +1813,9 @@ II. Concentración.- Consistente en procurar la mayor sumariedad de las actuacio
 
 III. Oralidad.- Consistente en procurar el predominio de la palabra hablada sobre la escrita, a efecto de garantizar el mayor conocimiento de la verdad.
 
-La oralidad del proceso prevalece sin perjuicio de la constancia material de las actuaciones, que deberán asentarse por escrito sin excepción, llevando la firma de quien hubieren intervenido.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+La oralidad del proceso prevalece sin perjuicio de la constancia material de las actuaciones, que deberán asentarse por escrito sin excepción, llevando la firma de quien hubiere presidido el Consejo y del Secretario Técnico del mismo, así como de aquellos que, en su caso, hubiesen tenido intervención en la diligencia. Si los policías o los terceros se negaren a firmar las actuaciones, se asentará constancia de ello, sin que dicha circunstancia afecte la validez del acto.
 
 ###### Artículo 125.
 
@@ -1629,9 +1849,17 @@ b. Por no saludar durante el desempeño de sus funciones a sus superiores jerár
 
 c. Por firmar o validar en beneficio de otro u otros policías, listas o dispositivos para el control de la asistencia y puntualidad, o permitir a otra persona suplantar su firma, clave o medio de identificación en dichas listas o dispositivos;
 
-d. Por cubrir permanentemente las insignias, divisas o gafetes obligatorios, con prendas o artículos del equipo reglamentario o temporal; y
+d. Por cubrir permanentemente las insignias, divisas o gafetes obligatorios, con prendas o artículos del equipo reglamentario o temporal;
 
-e. Por autorizar sin causa justificada a un subordinado, para no asistir a sus labores, abandonar el servicio o atender asuntos personales durante éste.
+e. Por autorizar sin causa justificada a un subordinado, para no asistir a sus labores, abandonar el servicio o atender asuntos personales durante éste;
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+f. Por incumplir las órdenes generales emitidas por el Director de la Policía;
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+g. Por las demás conductas u omisiones de similar gravedad así consideradas a juicio del Consejo.
 
 II. Faltas nivel II.- Se sancionarán con multa de 5 a 15 VSMGVZ; o suspensión sin goce de sueldo hasta por 15 días:
 
@@ -1648,6 +1876,14 @@ e. Por portar en el uniforme, insignias no autorizadas;
 f. Por introducir a las instalaciones de la corporación, bebidas embriagantes, aparatos de entretenimiento, juegos de azar, publicaciones pornográficas u otros materiales que promuevan el relajamiento de la disciplina de la corporación y la moral de sus miembros;
 
 g. Por no proporcionar al público su nombre completo, cuando se le solicite; por no portar o no mostrar su identificación cuando se le requiera en el desempeño de sus funciones, o por hacerlo en forma irrespetuosa;
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+h. Por reincidir en el incumplimiento de la misma orden general, en un periodo de un año;
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+i. Por las demás conductas u omisiones de similar gravedad así consideradas a juicio del Consejo.
 
 III. Faltas nivel III.- Se sancionarán con multa de 15 a 25 VSMGVZ o suspensión sin goce de sueldo de 15 a 60 días:
 
@@ -1675,6 +1911,10 @@ k. Por no reportar, cuando tenga conocimiento de ello, el padecimiento de alguna
 
 l. Por ostentar en forma tácita o expresa, grados, cargos o insignias de su corporación o, además, divisas de otras instituciones de seguridad, a sabiendas de que no le corresponden;
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+m. Por las demás conductas u omisiones de similar gravedad así consideradas a juicio del Consejo.
+
 IV. Faltas Nivel IV.- Se sancionarán con multa de 25 a 50 VSMGVZ o suspensión sin goce de sueldo de 60 a 90 días:
 
 a. Por sustraer u ocultar intencionalmente el equipo que hubiere recibido para el desempeño de su función, el de sus compañeros o demás personal de la corporación;
@@ -1692,6 +1932,10 @@ f. Por aplicar correctivos disciplinarios a sus subalternos, notoriamente injust
 g. Por conducirse en forma irrespetuosa frente a cualquier autoridad administrativa, legislativa o judicial o negarse a colaborar irrestrictamente con las encargadas de la administración y la procuración de justicia;
 
 h. Por dificultar o impedir de cualquier modo, por sí o por interpósita persona, la presentación de quejas o denuncias;
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+i. Por las demás conductas u omisiones de similar gravedad así consideradas a juicio del Consejo;
 
 V. Faltas Nivel V.- Se sancionarán con suspensión sin goce de sueldo de 90 a 180 días:
 
@@ -1712,6 +1956,14 @@ g. Por imputar hechos falsos a sus superiores jerárquicos, a sus iguales o a su
 h. Por no activar, desactivar o utilizar inadecuadamente los dispositivos de localización de vehículos o de registro de audio o video con que cuente su equipo de intervención, si tienen instalada esa tecnología y las circunstancias lo ameritan, de conformidad con las órdenes que reciba para su empleo;
 
 i. Por alterar o permitir la alteración o destrucción por dolo o negligencia, de objetos, instrumentos, productos, escena, huella o indicios del delito que se encuentren en su poder o bajo su cuidado;
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+j. Por no comparecer, injustificadamente, a las diligencias que la Coordinación o el Consejo ordenen para la investigación y enjuiciamiento de las faltas policiales, conducirse en ellas con falsedad u ocultar los elementos de los que el policía tenga conocimiento para esclarecer los hechos que se investiguen;
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+k. Por las demás conductas u omisiones de similar gravedad así consideradas a juicio del Consejo.
 
 VI. Faltas Nivel VI.- Se sancionarán con la destitución y en su caso, inhabilitación:
 
@@ -1781,7 +2033,9 @@ IV. No mantener el perfil médico, físico y psicológico, establecidos para des
 
 V. Permanecer en un mismo grado por más de cinco años, continuos o discontinuos, sin lograr la promoción para el grado inmediato superior;
 
-VI. No comparecer injustificadamente a las diligencias que la Coordinación o el Consejo ordenen para la investigación y enjuiciamiento de las faltas policiales, conducirse en ellas con falsedad u ocultar los elementos de los que el policía tenga conocimiento para esclarecer los hechos que se investiguen; o
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+VI. Reincidir dentro de un período de cinco años, en las causales a que se refieren los artículos 115 fracción V y 126, fracción V, inciso j); o conducirse durante las diligencias que la Coordinación o el Consejo practiquen para la investigación y enjuiciamiento de las faltas policiales, con falsedad u ocultando los elementos de los que el policía tenga conocimiento para esclarecer los hechos que se investiguen; o
 
 VII. Haber sido destituido o inhabilitado por el Consejo de Honor y Justicia.
 
@@ -1819,7 +2073,9 @@ I. La amonestación privada;
 
 II. La amonestación pública, frente al superior jerárquico del responsable y dos compañeros de su mismo grado; y
 
-III. El arresto, conforme a la Ley, que se compurgará bajo reclusión, precisamente en las instalaciones establecidas para ello dentro de la corporación, respetándose en todo tiempo y circunstancia los derechos constitucionales del infractor.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2008)</small>
+
+III. El arresto, conforme a la Ley, que se compurgará en las instalaciones de la corporación o fuera de ellas bajo adscripción a servicios especiales, respetándose en todo tiempo y circunstancia los derechos constitucionales del infractor.
 
 ###### Artículo 133.
 
@@ -1849,11 +2105,15 @@ Para la ejecución de sanciones establecidas en la Ley, se estará a lo siguient
 
 I. Cuando se trate de la imposición de multa, se notificará al responsable, quien dispondrá de 10 días hábiles para cubrirla ante las autoridades fiscales de recaudación; transcurrido ese tiempo sin haberse cubierto la multa, el Consejo podrá solicitar a la Dirección de Servicios Administrativos de la Secretaría, el descuento de la multa mediante deducciones parciales sobre el ingreso del policía, que en ningún caso excederán del 30 por ciento de la remuneración correspondiente al período de pago, hasta la liquidación total de la multa;
 
-II. Cuando se imponga la destitución, se notificará al responsable de conformidad con este Reglamento. Quedando firme la resolución, será notificada a la Comisión, para el sólo efecto de que emita la constancia de separación y retiro, sin examinar los antecedentes que hubieren dado lugar a la resolución, así como a los Directores de la Policía Estatal y de Servicios Administrativos de la Secretaría, a efecto de que impidan el acceso del personal sancionado a las instalaciones de la corporación; le retiren el uniforme, armamento y equipo reglamentario y se concluya con el pago de las remuneraciones correspondientes;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+II. Cuando se imponga la destitución, se notificará al responsable, dando vista a la Comisión, para el sólo efecto de que emita la constancia de separación y retiro, sin examinar los antecedentes que hubieren dado lugar a la resolución, así como a los Directores de la Policía Estatal y de Servicios Administrativos de la Secretaría, a efecto de que impidan el acceso del personal sancionado a las instalaciones de la Corporación; le retiren el uniforme, armamento y equipo reglamentario y se concluya con el pago de las remuneraciones correspondientes;
 
 III. Cuando se imponga la inhabilitación, se procederá conforme a la fracción anterior y se comunicará además, de inmediato y por escrito, a la Secretaría de la Contraloría y a la Oficialía Mayor del Gobierno del Estado; y
 
-IV. Cuando se imponga la suspensión sin goce de sueldo, se notificará al responsable de conformidad con este Reglamento; y quedando firme la resolución, será notificada a los Directores de la Policía Estatal y de Servicios Administrativos de la Secretaria, a efecto de que impidan el acceso del personal sancionado a las instalaciones de la corporación; le retiren el uniforme, armamento y equipo reglamentario y se interrumpa el pago de las remuneraciones correspondientes, por el plazo señalado en la resolución.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2008)</small>
+
+IV. Cuando se imponga la suspensión sin goce de sueldo, se notificará al responsable, dando vista a los Directores de la Policía Estatal y de Servicios Administrativos de la Secretaría, a efecto de que impidan el acceso del personal sancionado a las instalaciones de la corporación; le retiren el uniforme, armamento y equipo reglamentario y se interrumpa el pago de las remuneraciones correspondientes, por el plazo señalado en la resolución.
 
 ###### Artículo 138.
 
@@ -1907,16 +2167,36 @@ Lic. Francisco Garrido Patrón
 
 Gobernador Constitucional del Estado de Querétaro
 
-Rúbrica
+Rubrica
 
 Lic. José Alfredo Botello Montes
 
 Secretario de Gobierno
 
-Rúbrica
+Rubrica
 
 Ing. Edgar Mohar Kuri
 
 Secretario de Seguridad Ciudadana
 
-Rúbrica
+Rubrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE FEBRERO DE 2008.
+
+Artículo primero.- Este Acuerdo entrará en vigor el día de su publicación en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo segundo.- La Comisión de Carrera Policial, dentro de los 6 meses posteriores a la publicación de este Acuerdo, ejecutará la conversión y ajuste de los grados policiales que operen a la fecha hacia el interior de la Corporación, pudiendo disponer que los policías, por una sola vez, asciendan a grados no continuos en la estructura orgánica. La Dirección de Policía brindará a la Comisión, el apoyo necesario para la consolidación del servicio de carrera y la ejecución del programa de migración de grados.
+
+Para la migración y homologación de grados, deberá contarse con las constancias respectivas que avalen la obtención de los grados anteriores; de no ser así, se someterá el caso a consideración de la Comisión.
+
+Las conversiones y ajustes no implicarán la afectación de prestaciones de las que gocen actualmente los policías, pero todos sin excepción, gozarán de los siguientes plazos a partir del día 1° de febrero de 2008, para cumplir satisfactoriamente los requisitos que el Reglamento de la Policía Estatal exige para cada grado, en las siguientes materias:
+
+I. Cinco años para alcanzar el grado escolar establecido;
+
+II. Un año para acreditar la aptitud física y psicológica; y
+
+III. Seis meses para acreditar el nivel mínimo de conocimientos generales;
+
+Si al concluir dichos plazos, no se hubieren satisfecho las condiciones respectivamente exigidas para el grado, se entenderá actualizado el incumplimiento de un requisito de permanencia.
