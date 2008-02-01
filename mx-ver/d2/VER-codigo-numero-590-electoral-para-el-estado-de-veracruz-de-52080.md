@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-590-electoral-para-el-estado-de-veracruz-de-52080
 country: "mx"
 rank: "codigo"
 publication_date: "2006-10-09"
-last_updated: "2007-02-27"
+last_updated: "2008-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 590 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2008.
 
 Código publicado en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el lunes 9 de octubre de 2006.
 
@@ -1671,7 +1671,9 @@ VI. Sea ministro de algún culto religioso, a menos que se separe de su minister
 
 VII. Sea militar en servicio activo con mando de fuerzas, a menos que se separe de su encargo de conformidad con la Constitución Federal y la ley de la materia; o
 
-VIII. Sea servidor público del Estado, de la Federación o de los Municipios en ejercicio de autoridad, a menos que (sic) haya separado de su encargo noventa días naturales antes a su designación.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
+
+VIII. Sea servidor público del Estado, de la Federación o de los municipios, en ejercicio de autoridad, a menos que se haya separado de su encargo noventa días naturales antes a su designación. Se exceptúa de esta disposición a quienes desempeñen empleos, cargos o comisiones en los organismos autónomos del Estado.
 
 ###### Artículo 121.
 
@@ -1771,7 +1773,13 @@ XXXVII. Aprobar el programa operativo anual del Instituto, para que el mismo se 
 
 XXXVIII. Conocer y en su caso aprobar los informes de avance de la gestión financiera y la cuenta pública que presente el Secretario Ejecutivo del Instituto, y turnarlos al Congreso del Estado, en términos de la Ley de la materia;
 
-XXXIX. Nombrar al Secretario Ejecutivo y al Contralor Interno del Instituto con la aprobación de la mayoría de los consejeros electorales, de la lista de aspirantes que reúnan los requisitos que señale la convocatoria previamente emitida por el propio Consejo. Para su remoción se seguirán los procedimientos establecidos en la Constitución Política del Estado de Veracruz de Ignacio de la Llave, Título V, Capítulo I, “De las responsabilidades de los servidores públicos”
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
+
+XXXIX. Nombrar al Secretario Ejecutivo del Instituto, con la aprobación de la mayoría de los Consejeros Electorales, conforme a la propuesta que presente su Presidente. Para su remoción, se seguirán los procedimientos establecidos en la Constitución Política del Estado de Veracruz de Ignacio de la Llave, título V, capítulo I, De las responsabilidades de los servidores públicos;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2008)</small>
+
+XXXIX bis. Nombrar al Contralor Interno del Instituto con la aprobación de la mayoría de los Consejeros Electorales, de la lista de aspirantes que reúnan los requisitos que señale la convocatoria previamente emitida por el propio Consejo. Para su remoción, se seguirán los procedimientos establecidos en la Constitución Política del Estado de Veracruz de Ignacio de la Llave, título V, capítulo I, De las responsabilidades de los servidores públicos;
 
 XL. Aprobar el tabulador de sueldos y salarios del personal del Instituto, que presente la Dirección de Administración por conducto del Secretario Ejecutivo al Consejo General;
 
@@ -1915,9 +1923,11 @@ IX. Las demás que expresamente señale este Código y sus reglamentos.
 
 ### CAPÍTULO VIII. Del Secretario Ejecutivo del Instituto
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 129.
 
-El Secretario Ejecutivo del Instituto Electoral Veracruzano deberá cumplir lo dispuesto por los artículos 119 y 120 de este Código y, además, no ser Consejero Electoral, propietario o suplente, del Consejo General del Instituto Electoral Veracruzano, ni haberlo sido en el proceso electoral inmediato anterior. Su nombramiento se hará conforme a lo establecido en el artículo 123, fracción IV, de este ordenamiento.
+El Secretario Ejecutivo del Instituto Electoral Veracruzano deberá cumplir lo dispuesto por los artículos 119 y 120 de este Código. Su nombramiento se hará conforme a lo establecido en el artículo 123, fracción XXXIX, de este Ordenamiento.
 
 El Secretario Ejecutivo durará en el cargo cuatro años y estará sujeto al régimen de responsabilidades de los servidores públicos previsto en el Título Quinto de la Constitución del Estado.
 
@@ -4826,3 +4836,15 @@ G.O. 27 DE FEBRERO DE 2007.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE FEBRERO DE 2008.
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 14 DE OCTUBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
