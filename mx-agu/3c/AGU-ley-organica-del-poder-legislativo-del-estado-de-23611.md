@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-23611"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-26"
-last_updated: "2007-11-26"
+last_updated: "2008-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 4 DE FEBRERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de marzo de 2001.
 
@@ -2808,3 +2810,17 @@ P.O. 26 DE NOVIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor para efectos de la integración de la Comisión de la Juventud y de la correspondiente a la Comisión de Fomento Cooperativo y Economía Social, a partir de su aprobación en el Pleno Legislativo, y su vigencia a partir de la publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE FEBRERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día 15 de marzo del año 2008.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la ley Orgánica del Poder legislativo del Estado de Aguascalientes aprobada el 7 de marzo del año 2001.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado contará con un término de noventa días contados a partir de la entrada en vigencia del presente Decreto para aprobar y ordenar la publicación del Reglamento de la Ley Orgánica del Poder Legislativo.
