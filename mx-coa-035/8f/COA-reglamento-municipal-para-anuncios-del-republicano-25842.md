@@ -4,7 +4,7 @@ identifier: "COA-reglamento-municipal-para-anuncios-del-republicano-25842"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-04-13"
-last_updated: "2001-09-07"
+last_updated: "2008-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "COA"
 ---
 # REGLAMENTO MUNICIPAL PARA ANUNCIOS DEL REPUBLICANO AYUNTAMIENTO DE TORREON, COAHUILA
 
-REGLAMENTO MUNICIPAL PARA ANUNCIOS DEL REPUBLICANO AYUNTAMIENTO DE TORREON, COAHUILA
+REGLAMENTO MUNICIPAL PARA ANUNCIOS DEL REPUBLICANO AYUNTAMIENTO DE TORREÓN, COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE TORREÓN, COAHUILA, PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 13 de abril de 1999.
 
@@ -52,7 +54,7 @@ V.- Prevenir daños a vialidades, equipamiento urbano, instalaciones de servicio
 
 Definición de anuncio
 
-Para los efectos de este Reglamento, se entiende por anuncio todo dibujo, letrero, símbolo u objeto, o cualquier signo o emblema que, cualesquiera que sean sus dimensiones, material, técnica o lugar en que se ubique. pretenda informar, señalar, prevenir o promover actividades, lugares, productos o servicios de cualquier índole.
+Para los efectos de este Reglamento, se entiende por anuncio todo dibujo, letrero, símbolo u objeto, o cualquier signo o emblema que, cualesquiera que sean sus dimensiones, material, técnica o lugar en que se ubique, pretenda informar, señalar, prevenir o promover actividades, lugares, productos o servicios de cualquier índole.
 
 ###### Artículo 3.
 
@@ -68,11 +70,11 @@ Corresponde al Municipio:
 
 I.- Expedir, negar y cancelar licencias para la instalación, de anuncios.
 
-II.- Practicar inspecciones. de los anuncios y ordenar los trabajos de conservación. mantenimiento y reparación que fueren necesarios para garantizar su seguridad y buen aspecto.
+II.- Practicar inspecciones, de los anuncios y ordenar los trabajos de conservación, mantenimiento y reparación que fueren necesarios para garantizar su seguridad y buen aspecto.
 
 III.- Elaborar un dictamen técnico para el retiro o modificación de los anuncios que constituyan un peligro para la estabilidad de la construcción en que se encuentren instalados, o para la seguridad de las personas y de los bienes, y en su caso ejecutar los trabajos necesarios a costa del titular de la licencia o permiso respectivo.
 
-IV.- Establecer un registro publico de licencias otorgadas.
+IV.- Establecer un registro público de licencias otorgadas.
 
 V.- Aplicar las medidas de seguridad e imponer las sanciones correspondientes por infracciones del presente Reglamento.
 
@@ -82,7 +84,7 @@ VII.- Es facultad de la Dirección de Desarrollo Urbano Municipal, la revisión 
 
 VIII.- Es facultad de la Dirección de Obras Públicas Municipal, la revisión autorización y supervisión de la colocación de anuncios, observando la correcta aplicación de las normas establecidas, así como la regularización de los anuncios existentes, cuando así proceda.
 
-IX.- Es facultad del Departamento de Autotransporte y Vialidad Municipal. regular la instalación, de anuncios en vehículos de servicio público.
+IX.- Es facultad del Departamento de Autotransporte y Vialidad Municipal, regular la instalación, de anuncios en vehículos de servicio público.
 
 ###### Artículo 5.
 
@@ -356,7 +358,7 @@ V.- Carátula, vista o pantalla;
 
 VI.- Elementos de iluminación;
 
-VII.- Elementos mecánicos, eléctricos. plásticos hidráulicos, y
+VII.- Elementos mecánicos, eléctricos, plásticos hidráulicos, y
 
 VIII.- Elementos e instalaciones accesorias.
 
@@ -384,7 +386,7 @@ Anuncios colgantes
 
 Los anuncios colgantes, sólo podrán colocarse perpendicularmente al muro de fachada, con un ángulo de 90° grados respecto del paramento. Los anuncios colgantes, volados o en saliente deberán ser colocados a 20 centímetros separados del paramento del edificio y a una altura mínima de 3.00 metros del nivel más bajo de la carátula, no deberán sobrepasar 2/3 partes del ancho de la banqueta o 2.20 metros a partir del alineamiento oficial.
 
-Sólo se autorizará la colocación de un anuncio colgante. volado o en saliente por comercio ubicado en la vía publica.
+Sólo se autorizará la colocación de un anuncio colgante, volado o en saliente por comercio ubicado en la vía pública.
 
 ###### Artículo 27.
 
@@ -510,7 +512,7 @@ El Ayuntamiento, recibida la denuncia, la hará del conocimiento de la persona o
 
 ###### Artículo 46.
 
-El Ayuntamiento dentro de los diez días siguientes a la presentación de la denuncia. hará del conocimiento del denunciante el trámite que se haya dado y, dentro de los veinte días hábiles siguientes, el resultado de las inspecciones, medidas y sanciones impuestas, en su caso.
+El Ayuntamiento dentro de los diez días siguientes a la presentación de la denuncia, hará del conocimiento del denunciante el trámite que se haya dado y, dentro de los veinte días hábiles siguientes, el resultado de las inspecciones, medidas y sanciones impuestas, en su caso.
 
 ## Título Quinto. Consejo Consultivo
 
@@ -676,7 +678,7 @@ V.- Cuando se trate de bandera chico, y de paleta autosoportado chico.
 
 ###### Artículo 60.
 
-La licencia por ser un acto subordinado al interés publico, podrá ser cancelada por la autoridad municipal cuando medie el interés general previamente razonado o se infrinja el presente reglamento.
+La licencia por ser un acto subordinado al interés público, podrá ser cancelada por la autoridad municipal cuando medie el interés general previamente razonado o se infrinja el presente reglamento.
 
 Las licencias tendrán una vigencia de un año, pudiendo renovarse dentro de los dos primeros meses, después de su vencimiento.
 
@@ -788,8 +790,28 @@ EL SECRETARIO DEL AYUNTAMIENTO
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE SEPTIEMBRE DE 2001.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
+
+P.O. 5 DE FEBRERO DE 2008.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
+
+Segundo. La entrada en vigor del presente Reglamento, abroga el Reglamento de instalación de Anuncias (sic) para el Municipio de Torreón, Coahuila, aprobado por el H. Cabildo el día 9 de Diciembre de 1998, así como cualquier disposición contraria al presente ordenamiento.
+
+Tercero.- A partir de la aprobación del presente Reglamento, la instalación de los anuncios clasificados como espectaculares, unipolares, ó cualquier anuncio similar deberán respetar las siguientes reglas:
+
+I. Guardar una distancia mínima de 100 metros en forma lineal, en relación con el ó los anuncios similares ya instalados en ese radio, en todos estos casos sólo podrá haber una estructura a la vez.
+
+II. En cada estructura, únicamente podrá haber dos caras publicitarias ya sea dos al frente ó una al frente y otra atrás, no pudiendo rebasar los 100 metros cuadrados en cada una de las caras.
+
+III. En cada una de las esquinas de un crucero se podrá instalar una estructura por esquina con dos caras por estructura, siempre y cuando respeten los 100 mts. lineales sobre la misma acera del ó los anuncios ya instalados.
+
+IV. Ó bien se podrá instalar un anuncio de tres caras circundantes para formar en su cabeza publicitaria un triángulo y de esa manera obtener tres vistas de tres ángulos diferentes.
+
+V. También se podrá instalar un anuncio con forma e imagen del producto a publicitar, con ó sin movimiento.
+
+VI. Los anuncios podrán tener diferentes medidas y formas de acuerdo a las necesidades del propietario ó publicista siempre que no excedan de los 100 metros cuadrados de superficie en su(s) cara(s).
