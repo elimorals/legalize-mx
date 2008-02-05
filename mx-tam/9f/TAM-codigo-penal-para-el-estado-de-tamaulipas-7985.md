@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2007-11-08"
+last_updated: "2008-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -323,9 +323,9 @@ La ausencia de conducta y la atipicidad excluyen el delito.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 31
+###### ARTICULO 31 Bis.
 
-Bis.- No habrá conducta punible:
+No habrá conducta punible:
 
 I.- Si se obra impulsado por una fuerza física exterior irresistible; y
 
@@ -333,9 +333,9 @@ II.- Si se causa un daño por mero accidente, sin dolo ni culpa, ejecutando un h
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 31
+###### ARTICULO 31 Ter.
 
-Ter.- Existe atipicidad cuando la acción u omisión no se adecue exactamente a la descripción legal del delito.
+Existe atipicidad cuando la acción u omisión no se adecue exactamente a la descripción legal del delito.
 
 ### CAPITULO II. CAUSAS DE JUSTIFICACION
 
@@ -851,9 +851,9 @@ En los casos de concurso ideal o formal, se aplicará la pena que corresponda al
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 82
+###### ARTICULO 82 Bis.
 
-Bis.- Si el delito es continuado la sanción se aumentará de una mitad del mínimo hasta las dos terceras partes del máximo de la pena que la ley prevea para el delito cometido, sin que exceda de cincuenta años.
+Si el delito es continuado la sanción se aumentará de una mitad del mínimo hasta las dos terceras partes del máximo de la pena que la ley prevea para el delito cometido, sin que exceda de cincuenta años.
 
 ###### ARTICULO 83.
 
@@ -1171,7 +1171,9 @@ En caso de que el sentenciado incumpla sus obligaciones, independientemente de l
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-ARTICULO 108 BIS.- Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa y restrictiva de la libertad, el Juez, de oficio o a petición de parte, motivando su resolución, podrá sustituirla por la de confinamiento y por medidas de seguridad. En todo caso el juzgador se apoyará en dictámenes de peritos.
+###### ARTICULO 108 Bis.
+
+Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa y restrictiva de la libertad, el Juez, de oficio o a petición de parte, motivando su resolución, podrá sustituirla por la de confinamiento y por medidas de seguridad. En todo caso el juzgador se apoyará en dictámenes de peritos.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -1887,7 +1889,7 @@ Queda prohibido emplear a menores de dieciséis años de edad en billares, canti
 
 Se impondrá de un mes a un año de prisión a los padres o quienes ejerzan la patria potestad, tutela o adopción de algún menor de edad, que acepten, toleren o consientan que sus descendientes, pupilos o adoptados que estén bajo su guarda, se empleen en los establecimientos referidos en el presente artículo.
 
-Para los efectos de este precepto se considerará empleado en el billar, cantina, taberna, giro mixto, bar, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, o centro de vicio, al menor que por un salario, por la sola comida, por comisión de cualquier índole o especie, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tal lugar.
+Para los efectos de este precepto se considerará empleado en el billar, cantina, taberna, giro mixto, bar, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, o centro de vicio, al menor que por un salario, por la sola comida, por comisión de cualquier índole o especie, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tal lugar
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1939,7 +1941,7 @@ I.- Si el delito es cometido con un menor de catorce años de edad, la sanción 
 
 II.- Si el delito se comete con un menor de doce años de edad, la sanción se aumentará hasta una mitad de la sanción impuesta; y
 
-III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes mas y será destituido del empleo. (sic) Cargo, o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta.
+III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes mas y será destituido del empleo, cargo o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -2137,7 +2139,7 @@ XIII.- Obligar a declarar a las personas que se mencionan en el artículo 249 Bi
 
 Se sancionará con una pena de tres a doce años de prisión, multa de doscientos a cuatrocientos días de salario, destitución del cargo e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
 
-Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
+Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
 
 Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
 
@@ -2683,7 +2685,9 @@ Al que soborne a un testigo, a un perito o a un intérprete para que se produzca
 
 Al testigo, perito, o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las diere, sólo se le impondrá una multa de cinco a veinte días salario; pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, que se podrá aumentar hasta un tercio de la sanción a imponer.
 
-ARTICULO 258 BIS.- (DEROGADO, P.O. 10 DE JULIO DE 2003)
+###### ARTICULO 258 Bis.
+
+(DEROGADO, P.O. 10 DE JULIO DE 2003)
 
 ### CAPITULO IV. ADULTERIO
 
@@ -2833,16 +2837,6 @@ Si la violación fuere cometida con participación de dos o más personas, la sa
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 318
-
-Bis.- Se impondrá de seis a doce años de prisión y multa de cien a doscientos días salario y privación de los derechos de la patria potestad, tutela o custodia en su caso, y para adoptar, al que teniendo a su cargo o cuidado a un menor de edad o incapaz a virtud del ejercicio de la patria potestad, de la tutela, custodia o de otra situación legal o de hecho, lo entregue por sí o por interpósita persona a un tercero a cambio de un beneficio económico o de cualquier otro lucro.
-
-La misma sanción se le impondrá al intermediario y al tercero que reciba un beneficio económico o lucro cualquiera, en las condiciones a que se refiere el párrafo anterior.
-
-Si el intermediario es director, encargado o empleado de una institución médica pública o privada, de alguna casa-hogar, asilo o lugar donde se alberguen menores, la sanción que se imponga podrá aumentarse de dos a cuatro años mas de prisión.
-
-No eximirá de responsabilidad alguna a los participantes de éste delito aún cuando se haya seguido algún procedimiento legal para la entrega del menor, si se demuestra que quien lo entregó o el intermediario recibió a cambio un beneficio económico o lucro cualquiera.
-
 ### CAPITULO I. LESIONES
 
 ### CAPITULO II. HOMICIDIO
@@ -2867,7 +2861,9 @@ La reparación del daño en los casos de estupro y violación, comprenderá el p
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-ARTICULO 279 bis.- La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los intrafamiliares de éste que así lo requieran.
+###### ARTICULO 279 Bis.
+
+La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los intrafamiliares de éste que así lo requieran.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -2879,7 +2875,7 @@ Sí el delito establecido en este artículo es cometido por un Servidor Público
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
 
-Las Autoridades garantizarán que la información que brinden no contravenga el derecho que prevé este artículo..
+Las Autoridades garantizarán que la información que brinden no contravenga el derecho que prevé este artículo.
 
 ## TITULO DECIMO TERCERO. DELITOS CONTRA LA FAMILIA Y EL ESTADO CIVIL
 
@@ -3017,9 +3013,9 @@ Sólo se procederá contra el responsable a petición de quien ejerza la patria 
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-###### ARTICULO 300
+###### ARTICULO 300 Bis.
 
-Bis.- Comete el delito de retención de menores cualquiera de los padres que teniendo la custodia compartida de los hijos determinados días, se resista o se niegue a devolver a los menores al hogar en que ordinariamente habitan.
+Comete el delito de retención de menores cualquiera de los padres que teniendo la custodia compartida de los hijos determinados días, se resista o se niegue a devolver a los menores al hogar en que ordinariamente habitan.
 
 Sólo se procederá a petición de quien ejerza el derecho de custodia.
 
@@ -3034,28 +3030,6 @@ A los responsables de los delitos a que se refieren los artículos anteriores se
 ### CAPITULO X. VIOLENCIA INTRAFAMILIAR
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-ARTICULO 368 bis.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que puedan producir o no lesiones.
-
-Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
-
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2007)</small>
-
-A quien comete el delito de violencia intrafamiliar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
-
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-ARTICULO 368 ter.- Se equipara a la violencia intrafamiliar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
-
-ARTICULO 368 quáter.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público apercibirá al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
 ###### ARTICULO 302.
 
@@ -3083,9 +3057,13 @@ II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutila
 
 ###### ARTICULO 318 Bis.
 
-Se impondrá de 2 a 9 años de prisión y multa de veinte a noventa días de salario y privación de los derechos de la patria potestad, tutela o custodia en su caso, al que teniendo a su cargo o cuidado a un menor de edad o incapaz a virtud del ejercicio de la patria potestad, de la tutela o de otra situación legal o de hecho, lo entregue por sí o por interpósita persona a un tercero a cambio de un beneficio económico.
+Se impondrá de seis a doce años de prisión y multa de cien a doscientos días salario y privación de los derechos de la patria potestad, tutela o custodia en su caso, y para adoptar, al que teniendo a su cargo o cuidado a un menor de edad o incapaz a virtud del ejercicio de la patria potestad, de la tutela, custodia o de otra situación legal o de hecho, lo entregue por sí o por interpósita persona a un tercero a cambio de un beneficio económico o de cualquier otro lucro.
 
-Las mismas penas se aplicarán al intermediario y al tercero que lo reciba, en las condiciones a que se refiere el párrafo anterior.
+La misma sanción se le impondrá al intermediario y al tercero que reciba un beneficio económico o lucro cualquiera, en las condiciones a que se refiere el párrafo anterior.
+
+Si el intermediario es director, encargado o empleado de una institución médica pública o privada, de alguna casa-hogar, asilo o lugar donde se alberguen menores, la sanción que se imponga podrá aumentarse de dos a cuatro años mas de prisión.
+
+No eximirá de responsabilidad alguna a los participantes de éste delito aún cuando se haya seguido algún procedimiento legal para la entrega del menor, si se demuestra que quien lo entregó o el intermediario recibió a cambio un beneficio económico o lucro cualquiera.
 
 ###### ARTICULO 305.
 
@@ -3525,6 +3503,38 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
+###### ARTICULO 368 Bis.
+
+Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que puedan producir o no lesiones.
+
+Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2007)</small>
+
+A quien comete el delito de violencia intrafamiliar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
+
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 368 Ter.
+
+Se equipara a la violencia intrafamiliar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 368 Quáter.
+
+En todos los casos previstos en los dos artículos precedentes, el Ministerio Público apercibirá al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+
+### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
 
 ###### ARTICULO 369.
@@ -3653,9 +3663,9 @@ Al que cometa el delito de secuestro, se le aplicarán de quince a cuarenta año
 
 > <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-###### ARTICULO 391
+###### ARTICULO 391 Bis.
 
-Bis.- Se impondrán de treinta a cincuenta años de prisión y multa de mil a tres mil días de salario y, en su caso, destitución e inhabilitación del servidor público por un tiempo igual al de la pena de prisión impuesta, cuando en la ejecución del delito de secuestro a que se hace referencia en el artículo 391 de éste Código, concurra alguna de las circunstancias siguientes:
+Se impondrán de treinta a cincuenta años de prisión y multa de mil a tres mil días de salario y, en su caso, destitución e inhabilitación del servidor público por un tiempo igual al de la pena de prisión impuesta, cuando en la ejecución del delito de secuestro a que se hace referencia en el artículo 391 de éste Código, concurra alguna de las circunstancias siguientes:
 
 I.- Que el secuestrado sea menor de dieciocho o mayor de sesenta años o que tenga alguna discapacidad física o mental;
 
@@ -3965,15 +3975,13 @@ XI.- Al fiador judicial que enajene, hipoteque o grave el bien con que acreditó
 
 XII.- Al fabricante, empresario, contratista o constructor de una obra cualquiera, que emplee en la construcción de la misma, materiales en calidad o cantidad inferior a la convenida o mano de obra inferior a la estipulada siempre que haya recibido el precio o parte de él;
 
-XIII.- El que por sí o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin construcciones sin el previo permiso de las autoridades administrativas competentes o que incluso existiendo dicho permiso se le dé a tal inmueble un uso o destino diferente al autorizado.
-
-Esta conducta se sancionará aun en el caso de falta de pago total o parcial. Para los efectos de este Código, se entiende por fraccionar la división de terrenos en lotes;
+XIII.- (DEROGADA, P.O. 5 DE FEBRERO DE 2008)
 
 XIV.- Al que habiendo recibido el precio total del inmueble, sin derecho alguno se niegue a otorgar el título de propiedad respectivo;
 
 XV.- A los intermediarios en operaciones de traslación de dominio de bienes inmuebles o de gravámenes reales sobre éstos, que obtengan dinero, título o valores por el importe de su precio, a cuenta de él o para constituir ese gravamen, si no los destinaren, en todo o en parte, al objeto de la operación concertada, por su disposición en provecho propio o de otro;
 
-XVI.- Al que libre un cheque contra una cuenta bancaria, que sea rechazado por la institución o sociedad nacional de crédito correspondiente, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución o sociedad respectiva. No se procederá contra el agente cuando el libramiento no hubiere tenido como fin el procurarse ilícitamente una cosa u obtener un lucro indebido.
+XVI.- Al que libre un cheque contra una cuenta bancaria, que sea rechazado por la institución o sociedad nacional de crédito correspondiente, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución o sociedad respectiva. No se procederá contra el agente cuando el libramiento no hubiere tenido como fin el procurarse ilícitamente una cosa u obtener un lucro indebido;
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -4369,6 +4377,72 @@ Igual sanción se impondrá a quien publique o difunda por cualquier medio, dura
 
 Los responsables de los delitos contenidos en el presente Capítulo, por haber acordado o preparado su realización en los términos de la fracción I del Artículo 39 de este Código, no podrán gozar del beneficio de la libertad provisional.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
+
+## TITULO VIGESIMO SEGUNDO. DE LOS DELITOS COMETIDOS CONTRA EL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 454.
+
+Comete el delito a que se refiere este Capítulo:
+
+I.- El que por sí o por interpósita persona, fraccione o divida en lotes un predio, rústico o urbano, ajeno o propio, sin contar con el permiso necesario de la autoridad administrativa o teniéndolo, no respete las especificaciones del mismo, con el objeto de transferir la posesión, la propiedad o cualquier otro derecho relacionado con los lotes divididos.
+
+II.- El que por sí o por interpósita persona, sin contar con los requisitos y autorizaciones de urbanización exigidos por las leyes respectivas, permita de propia autoridad en lote propio, la constitución de asentamientos humanos integrados por dos o más familias, que impliquen el surgimiento de peticiones respecto de su regularización.
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+
+Se considera que existe consentimiento por parte del propietario cuando teniendo conocimiento del asentamiento humano irregular, no denuncie el hecho ante el Ministerio Publico.
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+
+III.- El que por sí o por interpósita persona transfiera o prometa transferir la posesión, la propiedad o cualquier otro derecho real respecto de bienes inmuebles rústicos o urbanos, propios o ajenos, que hayan sido fraccionados sin la anuencia de la autoridad administrativa correspondiente o, contando con esta, no se observen las especificaciones de la misma.
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+
+IV.- El servidor público que valiéndose de su encargo expida, autorice u otorgue licencias, permisos, autorizaciones o cualquier otra disposición análoga, que permita el fraccionamiento en lotes de predios que no reúnan las condiciones exigidas por las leyes, planes o programas de desarrollo urbano vigentes, o bien, que los expida sin estar autorizado para ello.
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+
+V.- El servidor público que expida licencias, permisos, autorizaciones o cualquier otra disposición análoga, permitiendo el uso del suelo o la edificación de construcciones respecto de lotes previamente fraccionados sin el permiso de la autoridad administrativa correspondiente, o que contándose con éste no se hayan observado las especificaciones del mismo; igualmente incurrirá en el delito el funcionario público que los otorgue sin estar autorizado para ello.
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+
+VI.- El que por sí o por interpósita persona, realice actividades de lotificación, deforestación, limpieza, trazado o aquellas tendentes a constituir asentamientos humanos en predios rústicos o urbanos, sin cerciorarse previamente de que se cuenta con el permiso necesario de la autoridad administrativa para ello.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 455.
+
+Las licencias, permisos, autorizaciones o disposiciones análogas a que se hace referencia en las fracciones V y VI del artículo anterior estarán afectadas de nulidad absoluta.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 456.
+
+El Agente del Ministerio Público al ejercer la acción penal asegurará y procederá a poner en custodia el inmueble en cuestión ante el organismo encargado del desarrollo urbano en el Estado de Tamaulipas, para su resguardo.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 457.
+
+A los responsables de los delitos cometidos por fraccionadores se les sancionará en la forma siguiente:
+
+I. De uno a seis años de prisión y multa de trescientos a mil días de salario por lo que hace a las figuras previstas de las fracciones I a III del artículo 454 del presente Código.
+
+II. De uno a seis años de prisión, multa de trescientos a mil días de salario y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión pública hasta por seis años, por lo que hace a las conductas previstas en las fracciones IV y V del artículo 454 del presente Código.
+
+III. De seis meses a tres años de prisión y multa de cien a quinientos días de salario por lo que hace a la conducta prevista en la fracción VI del artículo 454 del presente Código.
+
+La pena de prisión impuesta se incrementará hasta en dos años, cuando las conductas previstas afecten áreas protegidas o de preservación ecológica, o se realicen respecto de zonas no consideradas aptas para la vivienda de acuerdo a las leyes, planes y programas de desarrollo urbano en vigor.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 458.
+
+Los responsables de los delitos contenidos en el presente Capítulo por haber acordado o preparado su realización en los términos de la fracción I del artículo 39 de éste Código, no podrán gozar del beneficio de la libertad provisional bajo caución.
+
 ARTICULOS TRANSITORIOS:
 
 ###### ARTICULO PRIMERO
@@ -4618,6 +4692,10 @@ P.O. 8 DE NOVIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE FEBRERO DE 2008.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
