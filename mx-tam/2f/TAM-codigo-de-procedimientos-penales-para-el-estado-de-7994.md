@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2007-08-22"
+last_updated: "2008-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -285,7 +285,9 @@ Para tal efecto, se hará constar en los expedientes el día y hora en que se pr
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
 
-ARTICULO 26 bis.- La autoridad judicial por conducto de los Secretarios, los que hagan sus veces o en su caso los testigos de asistencia, cotejarán las copias o testimonios de constancias que mandaren expedir, autorizándolas con su firma y el sello correspondiente.
+###### ARTICULO 26 Bis.
+
+La autoridad judicial por conducto de los Secretarios, los que hagan sus veces o en su caso los testigos de asistencia, cotejarán las copias o testimonios de constancias que mandaren expedir, autorizándolas con su firma y el sello correspondiente.
 
 El Ministerio Público en el período de averiguación previa, asistido de un Oficial Secretario o dos testigos de asistencia, cotejará las copias o testimonios de constancias que expidan y fueren solicitadas por el ofendido, el presunto responsable, sus representantes legales o personas facultadas para ese efecto.
 
@@ -1075,15 +1077,37 @@ III.- Que ya no sea necesaria la existencia de las medidas decretadas.
 
 En los casos de los dos Artículos anteriores, el Ministerio Público ordenará el reconocimiento por peritos, siempre que lo estime necesario para apreciar mejor su relación con el delito.
 
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 133 Bis.
+
+Cuando el Ministerio Público ejercite acción penal por los delitos cometidos por fraccionadores, deberá asegurar el inmueble, levantando un acta que incluya inventario con la descripción y el estado en que se encuentren los bienes que se aseguran, y ponerlo en custodia ante el organismo encargado del desarrollo urbano en el Estado de Tamaulipas, para su resguardo, lo que deberá notificar al interesado o a su representante legal dentro de cinco días hábiles siguientes a su ejecución, entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta levantada, para que manifieste lo que a su derecho convenga.
+
+El Ministerio Público o la autoridad judicial, en su caso, girará oficio inmediatamente al Registro Público de la Propiedad en el Estado, al Archivo General de Notarias, y a las oficinas de Catastro del municipio en que se encuentre el inmueble, para que se realice la anotación preventiva, a fin de evitar movimientos traslativos de dominio o gravamen en el mismo.
+
+Cuando los bienes que se aseguren hayan sido previamente embargados o asegurados, se notificará el nuevo aseguramiento a las autoridades que hayan ordenado dichos actos. Los bienes continuarán en custodia de quien se haya designado para ese fin, y a disposición del Ministerio Público o de la autoridad judicial para los efectos del procedimiento penal.
+
+De levantarse el embargo o aseguramiento previos, quien los tenga bajo su custodia, los entregará a la autoridad competente para efectos de su registro.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 133 Ter.
+
+La devolución de bienes asegurados procede en los casos siguientes:
+
+I.- En la averiguación previa, cuando el Ministerio Público resuelva el no ejercicio de la acción penal, la reserva, o se levante el aseguramiento, de conformidad con las disposiciones aplicables; y
+
+II.- Durante el proceso, cuando la autoridad judicial no decrete el decomiso o levante el aseguramiento, de conformidad con las disposiciones aplicables.
+
 ###### ARTICULO 134.
 
 Los instrumentos, armas y objetos a que se refiere el Artículo 132, se sellarán siempre que lo permita su naturaleza y se acordará su retención y conservación. Si no pudieren conservarse en su forma primitiva, se verificará lo más conveniente para mantenerlos del mejor modo posible; cuando el caso lo amerite dictaminarán peritos. Si dichos bienes no fueran propiedad del inculpado, a petición del propietario se le restituirán. Todo esto se hará constar en el acta que se levante.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 134
+###### ARTICULO 134 Bis.
 
-Bis.- Cuando se cause la muerte de una persona o lesiones mediante la conducción de vehículo de fuerza motriz, el Ministerio Público decretará la retención del mismo y el Juez, en su momento, el embargo, para garantizar el pago de la reparación del daño. Estas medidas solo se levantaran cuando se haya cubierto la reparación del daño, o se otorgue caución suficiente a satisfacción del Juez para garantizar el pago de dicho concepto.
+Cuando se cause la muerte de una persona o lesiones mediante la conducción de vehículo de fuerza motriz, el Ministerio Público decretará la retención del mismo y el Juez, en su momento, el embargo, para garantizar el pago de la reparación del daño. Estas medidas solo se levantaran cuando se haya cubierto la reparación del daño, o se otorgue caución suficiente a satisfacción del Juez para garantizar el pago de dicho concepto.
 
 ###### ARTICULO 135.
 
@@ -1183,9 +1207,9 @@ En caso de aborto, se procederá como previenen los Artículos anteriores para e
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-###### ARTICULO 149.
+###### ARTICULO 149 Bis.
 
-BIS.- Para integrar los elementos del tipo tratándose de violencia intrafamiliar deberán de acreditarse las calidades específicas y circunstancias de los sujetos pasivos señalados en los artículos 368 bis y 368 ter del Código Penal para el Estado de Tamaulipas, además de agregarse a la averiguación los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contemplan los artículos 129, 130 y 157 del presente Código.
+Para integrar los elementos del tipo tratándose de violencia intrafamiliar deberán de acreditarse las calidades específicas y circunstancias de los sujetos pasivos señalados en los artículos 368 bis y 368 ter del Código Penal para el Estado de Tamaulipas, además de agregarse a la averiguación los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contemplan los artículos 129, 130 y 157 del presente Código.
 
 Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia intrafamiliar, podrán colaborar, en calidad de peritos y sus informes deberán rendirse por escrito.
 
@@ -1585,9 +1609,9 @@ Se dictará auto de libertad absoluta, cuando opere a favor del indiciado alguna
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 191
+###### ARTICULO 191 Bis.
 
-Bis.- Cuando al resolver el término constitucional se advierta la ausencia del requisito de procedibilidad que la ley exige para los delitos que se persiguen por querella, el Juez se abstendrá de estudiar el cuerpo del delito y la probable responsabilidad del indiciado, suspenderá el procedimiento y ordenará la libertad de éste si se encuentra detenido.
+Cuando al resolver el término constitucional se advierta la ausencia del requisito de procedibilidad que la ley exige para los delitos que se persiguen por querella, el Juez se abstendrá de estudiar el cuerpo del delito y la probable responsabilidad del indiciado, suspenderá el procedimiento y ordenará la libertad de éste si se encuentra detenido.
 
 Si ha transcurrido el término que señala el artículo 131 del Código Penal para la presentación de la querella, la suspensión será en forma definitiva y no podrá subsanarse este requisito, decretándose el sobreseimiento de la causa una vez que el auto de suspensión cause ejecutoria.
 
@@ -1595,9 +1619,9 @@ En caso contrario, habiendo causado ejecutoria el auto dictado, se aplicará en 
 
 La inobservancia de este artículo será motivo de responsabilidad penal.
 
-###### ARTICULO 191
+###### ARTICULO 191 Bis1.
 
-Bis1.- Si la falta del requisito de procedibilidad se advierte después de haberse dictado el auto de formal prisión o de sujeción a proceso, mediante resolución debidamente fundada y motivada, se dejará sin efecto el auto dictado y se suspenderá definitivamente el procedimiento, se ordenará la libertad del procesado si se encuentra detenido, procediendo consecuentemente el sobreseimiento de la causa penal.
+Si la falta del requisito de procedibilidad se advierte después de haberse dictado el auto de formal prisión o de sujeción a proceso, mediante resolución debidamente fundada y motivada, se dejará sin efecto el auto dictado y se suspenderá definitivamente el procedimiento, se ordenará la libertad del procesado si se encuentra detenido, procediendo consecuentemente el sobreseimiento de la causa penal.
 
 Lo previsto en éste artículo se hará valer de oficio, o a petición de parte en la vía incidental.
 
@@ -1971,7 +1995,9 @@ La circunstancia anterior se hará saber a estas personas y si tuvieren voluntad
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-ARTICULO 249 BIS.- No estarán obligados a declarar sobre la información que reciban, conozcan o tengan en su poder:
+###### ARTICULO 249 Bis.
+
+No estarán obligados a declarar sobre la información que reciban, conozcan o tengan en su poder:
 
 I.- Los abogados, y los notarios, respecto de los asuntos en los cuales hubieran intervenido y tengan información que deban reservarse para el ejercicio de su profesión;
 
@@ -2521,7 +2547,9 @@ Contra los acuerdos que nieguen o admitan las pruebas a que se refiere el Artíc
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
 
-ARTICULO 336 BIS.- Cuando la pena a imponerse pueda ser sustituida por una no privativa de la libertad, desde la diligencia de la declaración preparatoria y hasta la audiencia de vista, el Juez y las partes podrán formular preguntas al procesado en relación con sus circunstancias personales y familiares, a efecto de que el juzgador tenga mejores elementos de juicio para la determinación de las modalidades del sustitutivo penal que, en su caso, se le puedan imponer, de encontrarlo culpable. De igual forma se escuchará a la víctima u ofendido y a los familiares del procesado, que podrán acudir si lo desean, para lo cual deberá citárseles oportunamente si tienen señalado su domicilio en autos, sin que la falta de citación a dichos terceros origine la reposición del procedimiento.
+###### ARTICULO 336 Bis.
+
+Cuando la pena a imponerse pueda ser sustituida por una no privativa de la libertad, desde la diligencia de la declaración preparatoria y hasta la audiencia de vista, el Juez y las partes podrán formular preguntas al procesado en relación con sus circunstancias personales y familiares, a efecto de que el juzgador tenga mejores elementos de juicio para la determinación de las modalidades del sustitutivo penal que, en su caso, se le puedan imponer, de encontrarlo culpable. De igual forma se escuchará a la víctima u ofendido y a los familiares del procesado, que podrán acudir si lo desean, para lo cual deberá citárseles oportunamente si tienen señalado su domicilio en autos, sin que la falta de citación a dichos terceros origine la reposición del procedimiento.
 
 ### CAPITULO III. SENTENCIA
 
@@ -3135,9 +3163,9 @@ Para revocar la libertad caucional, siempre se deberá oír previamente al Minis
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 413
+###### ARTICULO 413 Bis.
 
-Bis.- Cuando el beneficio de la libertad caucional se revoque en términos del artículo 407 fracción VII o 412 de éste Código, se mandará hacer efectiva la caución depositada, aplicándose el concepto de multas y cumplimiento de obligaciones a favor del Fondo Auxiliar para la Administración del Poder Judicial del Estado y el concepto de la reparación del daño a favor del ofendido.
+Cuando el beneficio de la libertad caucional se revoque en términos del artículo 407 fracción VII o 412 de éste Código, se mandará hacer efectiva la caución depositada, aplicándose el concepto de multas y cumplimiento de obligaciones a favor del Fondo Auxiliar para la Administración del Poder Judicial del Estado y el concepto de la reparación del daño a favor del ofendido.
 
 Si varios procesados garantizaron la reparación del daño y a todos se les revoca la libertad caucional, los conceptos de la reparación del daño se destinarán a cubrir este concepto y sus intereses, el excedente tendrá el mismo destino que el concepto de multas y cumplimiento de obligaciones.
 
@@ -3601,17 +3629,17 @@ Si el sentenciado depositó caución para garantizar la reparación del daño y 
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 488
+###### ARTICULO 488 Bis.
 
-Bis.- Si transcurrido el término de diez días de haber causado ejecutoria la sentencia, el sentenciado no ha cubierto el concepto de la reparación del daño a que fue condenado, el ofendido o quien legalmente tenga derecho a ello, podrá comparecer ante el Juez promoviendo mediante escrito en la vía incidental, la ejecución de la sentencia para obtener el pago de este concepto.
+Si transcurrido el término de diez días de haber causado ejecutoria la sentencia, el sentenciado no ha cubierto el concepto de la reparación del daño a que fue condenado, el ofendido o quien legalmente tenga derecho a ello, podrá comparecer ante el Juez promoviendo mediante escrito en la vía incidental, la ejecución de la sentencia para obtener el pago de este concepto.
 
 Con la copia del escrito y de la sentencia ejecutoriada, el Juez requerirá al sentenciado para que dentro del término de cinco días cumpla con el pago de lo condenado respecto a la reparación del daño, haciéndole el apercibimiento que en caso de incumplir con el requerimiento, sin mas trámite, se procederá a embargar bienes de su propiedad y se procederá al remate de los mismos, destinándose el producto al pago de la reparación del daño a favor del ofendido o de quien tenga derecho a ello.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 488
+###### ARTICULO 488 Bis1.
 
-Bis1.- Cuando la reparación del daño sea exigible a persona distinta al inculpado, de acuerdo al artículo 92 del Código Penal, el ofendido o el que tenga derecho a recibirlo podrá comparecer ante el Juez que conoce de la causa, exigiendo del obligado en la vía incidental el pago de la reparación el daño, el cual se tramitará y resolverá conforme a los artículos siguientes.
+Cuando la reparación del daño sea exigible a persona distinta al inculpado, de acuerdo al artículo 92 del Código Penal, el ofendido o el que tenga derecho a recibirlo podrá comparecer ante el Juez que conoce de la causa, exigiendo del obligado en la vía incidental el pago de la reparación el daño, el cual se tramitará y resolverá conforme a los artículos siguientes.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -3657,7 +3685,9 @@ La sentencia condenatoria será ejecutada por el propio Juez, ajustándose a las
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
 
-ARTICULO 495 BIS.- A petición de las partes, el Juez que conozca o hubiere conocido de la causa resolverá incidentalmente sobre cualquier cuestión relacionada con el otorgamiento, modificación, suspensión temporal, revocación y ejecución de las medidas sustitutivas de la pena de prisión. Dichos incidentes podrán promoverse antes y después de dictada la sentencia según el caso, y se substanciarán por separado y del modo siguiente:
+###### ARTICULO 495 Bis.
+
+A petición de las partes, el Juez que conozca o hubiere conocido de la causa resolverá incidentalmente sobre cualquier cuestión relacionada con el otorgamiento, modificación, suspensión temporal, revocación y ejecución de las medidas sustitutivas de la pena de prisión. Dichos incidentes podrán promoverse antes y después de dictada la sentencia según el caso, y se substanciarán por separado y del modo siguiente:
 
 I.- Con la promoción del Ministerio Público o de la autoridad ejecutora por conducto de aquél, o bien del procesado o sentenciado, se dará vista a la parte contraria para que conteste en un término máximo de ocho días;
 
@@ -4418,3 +4448,7 @@ P.O. 22 DE AGOSTO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE FEBRERO DE 2008.
+
+UNICO.-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
