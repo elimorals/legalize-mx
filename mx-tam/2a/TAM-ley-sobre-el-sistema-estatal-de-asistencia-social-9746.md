@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2007-08-21"
+last_updated: "2008-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -75,9 +75,9 @@ I.- La familia, considerándola como parte fundamental de la sociedad;
 
 II.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato, en el ámbito familiar, social e institucional;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2008)</small>
 
-III.- Menores infractores; sin menoscabo de lo que establezcan otras disposiciones legales aplicables;
+III.- Los niños menores de 12 años que hayan cometido una conducta considerada por la ley como delito, sin menoscabo de lo que establezcan otras disposiciones legales aplicables;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -229,9 +229,9 @@ VI.- El ejercicio de la tutela de los menores, en los términos de las disposici
 
 VII.- Prestar servicios de asistencia jurídica, de orientación social y de mediación, especialmente a los sujetos mencionados en el artículo 5º de esta ley;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2008)</small>
 
-VIII.- Atender de manera íntegra, a menores infractores y su reintegración a la familia, por conducto de los organismos especiales que ya existen, y de los que posteriormente se constituyan en atención a este objetivo;
+VIII.- Atender de manera íntegra, a los niños menores de 12 años que hayan cometido una conducta considerada por la ley como delito y su reintegración a la familia, por conducto de los organismos especiales que ya existen, y de los que posteriormente se constituyan en atención a este objetivo;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -782,3 +782,9 @@ El Instituto de Mediación del Estado de Tamaulipas se establecerá con base en 
 ###### ARTÍCULO TERCERO.
 
 Dentro de los seis meses posteriores a la entrada en vigor de este Decreto, el Pleno del Supremo Tribunal de Justicia del Estado expedirá el Reglamento Interno a que se refiere el artículo 25 de la Ley de Mediación para el Estado de Tamaulipas.
+
+P.O. 5 DE FEBRERO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
