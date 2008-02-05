@@ -4,7 +4,7 @@ identifier: "SON-reglamento-para-los-servicios-medicos-del-instituto-de-67397"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-04"
-last_updated: "1997-08-04"
+last_updated: "2008-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO PARA LOS SERVICIOS MEDICOS DEL ISSSTESON
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2008.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 4 de agosto de 1997
 
@@ -411,6 +411,16 @@ El servicio de Endodoncia será proporcionado exclusivamente al trabajador previ
 
 Los dentistas afiliados sólo podrán atender seis amalgamas al mismo paciente en un mes, sólo en casos especiales y con autorización del coordinador médico respectivo, podrán aplicarse diez amalgamas en un paciente.
 
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2008)</small>
+
+DEL SISTEMA INTEGRAL DE SERVICIO MÉDICO A PADRES
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2008)</small>
+
+ARTICULO 45 BIS.- El Sistema Integral de Servicio Médico a Padres, se constituye como un sistema optativo y voluntario, el cual proporcionará servicio médico y medicamentos del cuadro básico con que cuente el Instituto, a los padres de los trabajadores de base y de confianza, afiliados al Instituto que cuenten con dicho beneficio.
+
+Sólo podrán ingresar al Sistema Integral de Servicio Médico a Padres el o los padres de los trabajadores de los Organismos que a la fecha de entrada en vigor del mismo tengan contemplado este beneficio en el convenio de prestación de servicios celebrado por el Instituto.
+
 ### CAPITULO IV. SERVICIOS DE HOSPITALIZACION
 
 ###### ARTICULO 46.
@@ -774,3 +784,15 @@ SEGUNDO.- El presente Reglamento de Servicios Médicos entrará en vigor el día
 En Sesión Ordinaria número 382, celebrada el día 23 de Diciembre de 1996, los suscritos miembros de la H. Junta Directiva, aprobamos el presente Reglamento de los Servicios Médicos.
 
 ATENTAMENTE.- Presidente de la H. Junta Directiva.- C.P. CARLOS M. MILLÁN FÉLIX.- RÚBRICA.- Representante del Poder Ejecutivo.- LIC. ROLANDO TAVARES IBARRA.- RÚBRICA.- Representante del Poder Judicial.- LIC. IGNACIO ISLAS CONTRERAS.- RÚBRICA.- Representante del Poder Legislativo.- LIC. HORACIO VALENZUELA I.- RÚBRICA.- Representante del Sindicato Único de Trabajadores al Servicio de los Poderes del Estado.- ING. HUMBERTO ZEPEDA MTZ.- RÚBRICA.- Representante de la Sección 54 del Sindicato Nacional de Trabajadores.- PROFR. BENITO PALOMARES.- RÚBRICA.- Representante de la Sección 54 del Sindicato Nacional de Trabajadores de la Educación.- PROFR. BLAS VIDAL CORONA.- RÚBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 5 DE FEBRERO DE 2008.
+
+UNICO (SIC).- La H. Junta Directiva del Isssteson, con fundamento en el artículo 104, fracción III de la Ley, emitirá todos aquel/os acuerdos y lineamientos necesarios para la aplicación y funcionamiento de dicho sistema.
+
+SEGUNDO.- El Sistema Integral de Servicio Médico a Padres cancelará todos los convenios anteriores referentes a ésta prestación y entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+TERCERO.- Los presentes lineamientos tendrán una vigencia a partir del primero de marzo del dos mil ocho y el trabajador beneficiario del (sic) el Sistema Integral de Servicio Médico a Padres, cantará con noventa días hábiles para la inscripción del o los padres a partir de su publicación en el Boletín Oficial del Estado de Sonora.
+
+CUARTO.- Los trabajadores que deseen inscribir a su/s padre/s en este servicio, y que tuvieren adeudo por concepto de servicio médico a padres arancelados, deberán haber liquidado y/o re-negociado su adeudo al momento de inscribirse.
