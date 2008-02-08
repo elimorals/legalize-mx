@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2004-del-pleno-del-consejo-de-la-47097"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-04-23"
-last_updated: "2006-10-05"
+last_updated: "2008-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47097&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-14"
 
 ACUERDO GENERAL 24/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LA DESINCORPORACION DE TODA CLASE DE BIENES MUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de abril de 2004.
 
@@ -641,7 +641,9 @@ a) Invitaciones:
 
 I. Los bienes muebles que no puedan ser reasignados o rehabilitados, se ofrecerán en venta al personal del Poder Judicial de la Federación, con la restricción de que sólo podrán adquirir hasta un máximo de cuatro bienes y no más de dos similares por comprador y deberán encontrarse adscritos a la ciudad donde se efectúe la venta; en caso de que puedan distinguirse los bienes, únicamente participarán aquellos servidores públicos que pertenezcan al órgano jurisdiccional o unidad administrativa a la cual estaba asignado.
 
-Los vehículos podrán ser enajenados directamente a los servidores públicos que los hayan tenido asignados, concediéndoles un plazo máximo de cinco días hábiles para que manifiesten si se encuentran interesados en adquirirlos, de acuerdo a la fórmula de valuación a que se refiere el artículo 34, fracción I de este Acuerdo General.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 1/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2008)</small>
+
+Los vehículos de apoyo podrán ser enajenados directamente a los servidores públicos que los hayan tenido asignados, después de por lo menos cuatro años de uso, o bien, tratándose de aquéllos asignados a los consejeros de la Judicatura Federal, al término de su encargo, por cualquier causa, siempre que el vehículo haya sido adquirido al menos un año antes de la fecha de separación. Para tal efecto, se concede un plazo máximo de cinco días hábiles, a partir del ofrecimiento formal al asignatario, para que manifieste si se encuentra interesado en su adquisición, de acuerdo a la fórmula de valuación a que se refiere el artículo 34, fracción I, de este Acuerdo General;
 
 II. En caso de que existan varios interesados en el mismo bien, se dará preferencia al primero que haya presentado su solicitud de compra;
 
@@ -792,3 +794,11 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente acuerdo.
+
+D.O.F. 8 DE FEBRERO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 24/2004, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para la Desincorporación de Toda Clase de Bienes Muebles en el Consejo de la Judicatura Federal.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
