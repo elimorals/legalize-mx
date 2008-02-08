@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-15544"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-23"
-last_updated: "2007-08-17"
+last_updated: "2008-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de julio de 1999.
 
@@ -59,13 +59,17 @@ III. El Tesorero Municipal.
 
 IV. El Síndico.
 
-V. El Congreso del Estado y la Contaduría Mayor de Hacienda del propio Congreso.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2008)</small>
+
+V. El Congreso del Estado y la Auditoria Superior del Estado.
 
 VI. Las demás que señalen las leyes.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 3.
 
-Corresponderán a las autoridades a que se refiere el artículo anterior, las atribuciones y obligaciones en materia financiera que les otorguen el Código Municipal, la Ley Orgánica del Congreso del Estado y la Ley Orgánica de la Contaduría Mayor de Hacienda, independientemente de las otorgadas por las demás leyes en materia financiera.
+Corresponderán a las autoridades a que se refiere el artículo anterior, las atribuciones y obligaciones en materia financiera que les otorguen el Código Municipal, la ley Orgánica del Congreso del Estado y la ley de Fiscalización Superior para el Estado de Coahuila, independientemente de las otorgadas por las demás leyes en materia financiera.
 
 ###### ARTÍCULO 4.
 
@@ -207,9 +211,11 @@ Las leyes de ingresos regirán en el curso del año para el cual se expidan, per
 
 La Ley de Ingresos de cada Municipio establecerá las cuotas, tasas o tarifas, de aquellas fuentes de ingresos establecidas en este código que percibirá en cada ejercicio fiscal. Asimismo, establecerá aquellas disposiciones de vigencia anual que se consideren necesarias para el ejercicio de las atribuciones fiscales del Municipio y los montos aplicables por concepto de multas por infracciones cometidas a disposiciones fiscales municipales.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 24.
 
-El control de la aplicación de la Ley de Ingresos Municipal, corresponderá: al Presidente Municipal, al Ayuntamiento y a la Contaduría Mayor de Hacienda del Congreso del Estado conforme a las atribuciones que al efecto señalen las leyes correspondientes.
+El control de la aplicación de la ley de Ingresos Municipal, corresponderá: al Presidente Municipal, al Ayuntamiento y a la Auditoria Superior del Estado conforme a las atribuciones que al efecto señalen las leyes correspondientes.
 
 ###### ARTÍCULO 25.
 
@@ -1897,9 +1903,11 @@ El Presupuesto de Egresos Municipal será el que contenga el acuerdo que aprueba
 
 El Presupuesto de Egresos Municipal comprenderá las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como el pago de pasivos o deuda pública que realizan los ayuntamientos y sus organismos descentralizados y otros.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 241.
 
-La división de los rubros presupuestales a que se refiere el artículo anterior se hará en capítulos, conceptos y partidas de gasto, mediante los catálogos que determine el Congreso del Estado a través de la Contaduría Mayor de Hacienda.
+La división de los rubros presupuestales a que se refiere el artículo anterior se hará en capítulos, conceptos y partidas de gasto, mediante los catálogos que determine la Auditoria Superior del Estado.
 
 ###### ARTÍCULO 242.
 
@@ -1935,7 +1943,9 @@ Los programas operativos institucionales deberán ser sometidos a la consideraci
 
 En la supervisión y evaluación de los programas operativos institucionales, intervendrán los órganos de participación ciudadana, según lo determine la Ley y se sujetarán a las previsiones de gasto o presupuesto autorizados por el ayuntamiento.
 
-Lo anterior sin perjuicio del ejercicio de facultades y atribuciones de la Contaduría Mayor de Hacienda del Congreso del Estado y de los órganos de control interno o externo del propio municipio.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+Lo anterior sin perjuicio del ejercicio de facultades y atribuciones de la Auditoria Superior del Estado y de los órganos de control interno o externo del propio municipio.
 
 ###### ARTÍCULO 249.
 
@@ -2063,7 +2073,9 @@ Toda erogación deberá ajustarse estrictamente al concepto de la cuenta que rec
 
 El control, vigilancia y evaluación del gasto público municipal tendrá por objeto examinar la actividad financiera del ayuntamiento, con el fin de verificar que se apliquen correctamente los recursos y se cumpla con los objetivos trazados en los programas operativos institucionales.
 
-Compete esta función al Congreso del Estado por conducto de la Contaduría Mayor de Hacienda, en los términos que fijen las leyes, y en el ámbito de sus facultades, a los propios ayuntamientos.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+Compete esta función al Congreso del Estado por conducto de la Auditoria Superior del Estado, en los términos que fijen las leyes, y en el ámbito de sus facultades, a los propios ayuntamientos.
 
 ###### ARTÍCULO 268.
 
@@ -2555,25 +2567,31 @@ I. Registrar contable y presupuestalmente los ingresos y los egresos públicos, 
 
 II. Registrar e informar oportunamente sobre la aplicación de los fondos públicos, para la evaluación de las acciones de gobierno y para efectos de la planeación y programación de la gestión pública, así como para la integración de la cuenta pública.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 317.
 
-La contabilidad de los ingresos, egresos y administración de valores se llevará conforme a los sistemas establecidos por la Contaduría Mayor de Hacienda del Congreso del Estado, con base en lo señalado en este libro y leyes aplicables.
+La contabilidad de los ingresos, egresos y administración de valores se llevará conforme a los sistemas establecidos por la Auditoria Superior del Estado, con base en lo señalado en este libro y leyes aplicables.
 
 ###### ARTÍCULO 318.
 
 Los sistemas de contabilidad deben operarse en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 319.
 
-Los ayuntamientos y las entidades paramunicipales suministrarán a la Contaduría Mayor de Hacienda con la periodicidad que ésta lo determine, la información presupuestal, contable, financiera y de otra índole que le requiera.
+Los ayuntamientos y las entidades paramunicipales suministrarán a la Auditoria Superior del Estado, con la periodicidad que determine las disposiciones aplicables, la información presupuestal, contable, financiera y de otra índole que le requiera.
 
 ###### ARTÍCULO 320.
 
 Los estados financieros y demás información financiera, presupuestal y contable que emanen de la contabilidad de los municipios y sus entidades comprendidos en sus respectivos presupuestos de egresos, serán consolidados por la Tesorería Municipal, la que será responsable de formular los informes sobre la ejecución y cumplimiento de los presupuestos y programas aprobados y someterlos a la aprobación del ayuntamiento respectivo para su presentación en los términos de la Constitución y éste código.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 321.
 
-Para efectos de este Código se entenderá por cuenta pública lo dispuesto por el artículo 21 de la Ley Orgánica de la Contaduría Mayor de Hacienda.
+Para efectos de este Código se entenderá por cuenta pública lo dispuesto en el Capítulo Segundo de la ley de Fiscalización Superior para el Estado de Coahuila.
 
 ## TÍTULO SEGUNDO. DE LA CONTABILIDAD MUNICIPAL
 
@@ -2631,9 +2649,11 @@ V. Orden.
 
 VI. Presupuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 330.
 
-La Tesorería Municipal podrá modificar los catálogos de cuentas previa autorización de la Contaduría Mayor de Hacienda en los siguientes casos:
+La Tesorería Municipal podrá modificar los catálogos de cuentas previa autorización de la Auditoria Superior del Estado en los siguientes casos:
 
 I. Creación de un nuevo sistema.
 
@@ -2655,9 +2675,11 @@ La contabilización de las operaciones financieras y presupuestales deberán efe
 
 Los municipios y sus entidades deberán llevar registros auxiliares para los programas presupuestarios que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 333.
 
-Los municipios y sus entidades estarán obligados a conservar en su poder y a disposición de la Contaduría Mayor de Hacienda y de otras autoridades competentes, los libros, registros auxiliares e información correspondiente, así como los documentos justificativos y comprobatorios de sus operaciones financieras.
+Los municipios y sus entidades estarán obligados a conservar en su poder y a disposición de la Auditoria Superior del Estado y de otras autoridades competentes, los libros, registros auxiliares e información correspondiente, así como los documentos justificativos y comprobatorios de sus operaciones financieras.
 
 ###### ARTÍCULO 334.
 
@@ -2679,13 +2701,17 @@ La observancia de este libro en materia de contabilidad no releva a los municipi
 
 ### CAPÍTULO I. DE LA INFORMACIÓN
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 336.
 
-La Tesorería Municipal deberá proporcionar al Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda, la información de la cuenta pública municipal en la forma y plazos que determine la Ley Orgánica de la Contaduría Mayor de Hacienda y demás disposiciones aplicables.
+La Tesorería Municipal deberá proporcionar al Congreso del Estado la información de la cuenta pública municipal en la forma y plazos que determine la ley de Fiscalización Superior para el Estado de Coahuila y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 El incumplimiento de lo que se establece en el párrafo que antecede, dará motivo a aplicar la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 El Congreso del Estado en coordinación con los municipios garantizarán la disposición de la información de la cuenta pública municipal a la comunidad en general, a través de instrumentos confiables, oportunos y transparentes.
 
@@ -2695,9 +2721,11 @@ El Congreso del Estado en coordinación con los municipios garantizarán la disp
 
 La Cuenta Pública se constituye por los estados contables y financieros y demás información, que muestre el registro de las operaciones de la recaudación de los ingresos y del ejercicio de los presupuestos de egresos, la incidencia de las mismas operaciones y de otras cuentas en el activo y pasivo totales de la hacienda pública estatal y municipal, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos así como el resultado de las operaciones que verificaron los estados detallados de la deuda pública estatal y municipal.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 338.
 
-La Tesorería Municipal proporcionará la información complementaria requerida por la Contaduría Mayor de Hacienda para el análisis y evaluación de la Cuenta Pública.
+La Tesorería Municipal proporcionará la información complementaria requerida por la Auditoria Superior del Estado para el análisis y evaluación de la Cuenta Pública.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2705,7 +2733,9 @@ La Tesorería Municipal proporcionará la información complementaria requerida 
 
 Con base en los estados financieros y demás información financiera, presupuestal y contable que emane de los registros de las dependencias y entidades comprendidas en el presupuesto de egresos del municipio, la Tesorería Municipal formulará la cuenta pública y la someterá a la consideración del Presidente Municipal y a la aprobación del Ayuntamiento, para su presentación en los términos de la Constitución, este código y demás disposiciones aplicables.
 
-Verificado lo anterior, el Ayuntamiento presentará al Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda la cuenta pública de la hacienda municipal, centralizada, descentralizada y paramunicipal, integrada por los informes trimestrales de origen y aplicación de los recursos públicos dentro de otros, mismos que deberán ser presentados dentro de los quince días siguientes al término del trimestre que corresponda.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+Verificado lo anterior, el Ayuntamiento presentará al Congreso del Estado la cuenta pública de la hacienda municipal, centralizada, descentralizada y paramunicipal, en los términos y plazos establecidos en la ley de Fiscalización Superior para el Estado de Coahuila.
 
 # LIBRO SEXTO. DE LA COORDINACIÓN Y COLABORACIÓN FINANCIERA INTERGUBERNAMENTAL
 
@@ -4284,3 +4314,9 @@ P.O. 17 DE AGOSTO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE FEBRERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente decreto.
