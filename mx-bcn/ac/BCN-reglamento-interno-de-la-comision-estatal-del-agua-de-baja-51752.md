@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-comision-estatal-del-agua-de-baja-5175
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-01"
-last_updated: "2006-09-01"
+last_updated: "2008-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DEL AGUA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de septiembre de 2006.
 
 EUGENIO ELORDUY WALTHER, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE, EL ARTÍCULO 49, FRACCIONES I Y XVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; Y CON FUNDAMENTO EN LOS ARTÍCULOS 3 Y 9 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-CONSIDERANDO: ...
+CONSIDERANDO:...
 
 NOVENO.- Que entre los propósitos de la Comisión Estatal del Agua de Baja California, está el de optimizar y aprovechar eficientemente sus recursos humanos y materiales, para lo cual se requiere necesariamente de un instrumento que reglamente una operación adecuada y acorde con el desarrollo de dicha entidad paraestatal, por lo que se expide el siguiente:
 
@@ -169,17 +169,17 @@ X. Las demás que le señale la Junta Directiva para el adecuado desarrollo de l
 
 Los vocales titulares o suplentes debidamente acreditados cuando asistan en representación de su titular, tendrán las siguientes facultades y obligaciones:
 
-I.- Asistir puntualmente a las sesiones;
+I. Asistir puntualmente a las sesiones;
 
-II.- Participar con voz y voto en los acuerdos que se tomen en la Junta Directiva;
+II. Participar con voz y voto en los acuerdos que se tomen en la Junta Directiva;
 
-III.- Participar en las comisiones, mesas técnicas o grupos de trabajo que la Junta Directiva les encomiende;
+III. Participar en las comisiones, mesas técnicas o grupos de trabajo que la Junta Directiva les encomiende;
 
-IV.- Proponer a la Junta Directiva, los mecanismos e instrumentos que considere idóneos para el adecuado desarrollo de la CEA;
+IV. Proponer a la Junta Directiva, los mecanismos e instrumentos que considere idóneos para el adecuado desarrollo de la CEA;
 
-V.- Suscribir las actas de las sesiones en las que tenga participación; y
+V. Suscribir las actas de las sesiones en las que tenga participación; y
 
-VI.- Las demás que les asigne la Junta Directiva.
+VI. Las demás que les asigne la Junta Directiva.
 
 ### CAPITULO III. ORGANIZACIÓN Y ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -189,9 +189,21 @@ Para el estudio, planeación, despacho y adecuado cumplimiento del objeto para e
 
 I. Dirección General;
 
-a. Unidad de Capacitación e Investigación del Agua
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
 
-b. Unidad de Comunicación Social y Relaciones Públicas
+a. Instituto Estatal del Agua
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+b. Unidad de Licitaciones
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2008)</small>
+
+c. Unidad Jurídica
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2008)</small>
+
+d. Unidad de Comunicación Social y Relaciones Públicas
 
 II. Dirección Técnica
 
@@ -199,7 +211,7 @@ a. Departamento de Planeación Hidráulica
 
 b. Departamento de Estudios, Proyectos y Control de Obra
 
-c. Departamento de Licitaciones
+c. (DEROGADO, P.O. 8 DE FEBRERO DE 2008)
 
 III. Dirección de Suministro de Agua en Bloque
 
@@ -235,29 +247,167 @@ La Dirección General tendrá las atribuciones que expresamente le señale el De
 
 La Dirección General para el adecuado cumplimiento de sus atribuciones contará con el apoyo de:
 
-a. Unidad de Capacitación e Investigación del Agua
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
 
-b. Unidad de Comunicación Social y Relaciones Públicas
+a. Instituto Estatal del Agua
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+b. Unidad de Licitaciones
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2008)</small>
+
+c. Unidad Jurídica
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2008)</small>
+
+d. Unidad de Comunicación Social y Relaciones Públicas.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 22.
 
-Corresponde a la Unidad de Capacitación e Investigación del Agua, ejercer las siguientes atribuciones:
+Corresponde al Instituto Estatal del Agua, ejercer las siguientes atribuciones:
 
-I. Vincular los programas de capacitación de los diferentes organismos operadores de agua del Estado, con el objeto de efícientar recursos;
+I. Realizar, promover y difundir programas de capacitación e investigación aplicada en materia de agua;
 
-II. Identificar, evaluar y promover innovaciones tecnológicas en materia de agua, susceptibles de ser utilizadas en el Estado;
+II. Desarrollar actividades para la adaptación y transferencia de tecnología en materia de agua;
 
-III. Identificar y contar con una base de datos, de los expertos en diferentes áreas de los diferentes organismos operadores de agua del Estado;
+III. Promover la formación de recursos humanos calificados que contribuyan a asegurar el aprovechamiento integral y sustentable del agua;
 
-IV. Establecer los lineamientos para la vinculación con las instituciones académicas, para que los estudiantes cubran créditos en su formación académica mediante estancias en alguna (sic) de los diferentes organismos operadores de agua del Estado;
+IV. Poner al alcance de las dependencias y entidades gubernamentales y de los usuarios en general, los resultados de investigaciones que realicen en materia de agua, de tal manera que normen criterios en la toma de decisiones para la disponibilidad, conservación, operatividad y calidad del agua;
 
-V. Establecer comunicación permanente con las instituciones académicas, centros de investigación, asesores y personal de áreas relacionadas con temas en materia de agua de los diferentes organismos operadores de agua del Estado;
+V. Profesionalizar la fuerza laboral encargada de la operación de los sistemas de agua en todas sus facetas, ampliando y confirmando el conocimiento en materia de agua, a través de la impartición de cursos secuenciales a los diferentes niveles, y su vinculación entre la teoría y práctica;
 
-VI. Elaborar y promover el programa de Cultura del Agua de la CEA;
+VI. Promover la celebración de convenios de coordinación y concertación con organismos públicos o privados, e instituciones nacionales e internacionales, para promover el desarrollo tecnológico en materia de agua;
 
-VII. Promover la mejora continua dentro de la CEA; y
+VII. Promover la vinculación entre la iniciativa privada, instituciones académicas y los diferentes órdenes de gobierno para la realización de tecnología en materia de agua;
 
-VIII. Las demás facultades que le confiera el Director General y las disposiciones legales y administrativas aplicables.
+VIII. Promover la investigación interinstitucional en materia de agua;
+
+IX. Promover la celebración de acuerdos y convenios para la impartición de postgrados en materia de agua, con instituciones locales, nacionales e internacionales;
+
+X. Brindar asistencia técnica a organismos operadores de agua potable y saneamiento;
+
+XI. Llevar a cabo estudios de vulnerabilidad de los acuíferos del Estado de Baja California;
+
+XII. Llevar a cabo estudios de aprovechamiento pluvial, como fuente alterna de abastecimiento, en zonas rurales;
+
+XIII. Proponer a la Junta Directiva de la CEA, la constitución de consejos, comisiones o grupos de trabajo especializados, tendientes a cumplir fehacientemente con el objeto y atribuciones de la CEA, y
+
+XIV. Las demás que le confiera el Director General y las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+###### ARTÍCULO 22 Bis.
+
+El Instituto Estatal del Agua, para el adecuado cumplimiento de sus atribuciones, contará con la siguiente estructura organizacional:
+
+a. Un Director
+
+b. Coordinación del Área de Capacitación
+
+c. Coordinación del Área de Investigación.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+###### ARTÍCULO 22 Ter.
+
+Corresponde a la Coordinación del Área de Capacitación, ejercer las siguientes atribuciones:
+
+I. Realizar, promover y difundir programas de capacitación en materia de agua;
+
+II. Promover la formación de recursos humanos calificados que contribuyan a asegurar el aprovechamiento integral y sustentable del agua;
+
+III. Profesionalizar la fuerza laboral encargada de la operación de los sistemas de agua en todas sus facetas, ampliando y confirmando el conocimiento en materia de agua, a través de la impartición de cursos secuenciales a los diferentes niveles, y su vinculación entre la teoría y práctica;
+
+IV. Promover la celebración de acuerdos y convenios para la impartición de postgrados en materia de agua, con instituciones locales, nacionales e internacionales;
+
+V. Brindar asistencia técnica a organismos operadores de agua potable y saneamiento, y
+
+VI. Las demás que le confiera el Director General y las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+###### ARTÍCULO 22 Quater.
+
+Corresponde a la Coordinación del Área de Investigación, ejercer las siguientes atribuciones:
+
+I. Realizar, promover y difundir programas de investigación aplicada en materia de agua;
+
+II. Desarrollar actividades para la adaptación y transferencia de tecnología en materia de agua;
+
+III. Poner al alcance de las dependencias y entidades gubernamentales y de los usuarios en general, los resultados de investigaciones que realicen en materia de agua, de tal manera que normen criterios en la toma de decisiones para la disponibilidad, conservación, operatividad y calidad del agua;
+
+IV. Promover la investigación interinstitucional en materia de agua;
+
+V. Llevar a cabo estudios de vulnerabilidad de los acuíferos del Estado de Baja California;
+
+VI. Llevar a cabo estudios de aprovechamiento pluvial, como fuente alterna de abastecimiento, en zonas rurales, y
+
+VII. Las demás que le confiera el Director General y las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+###### ARTÍCULO 22 Quinquies.
+
+Corresponde a la Unidad de Licitaciones, ejercer las siguientes atribuciones:
+
+I. Verificar que se cuente con la autorización de los recursos para llevar a cabo cualquier procedimiento de licitación, de acuerdo a las leyes aplicables en esta materia;
+
+II. Coordinar la integración y revisar las normas y especificaciones técnicas, así como realizar la licitación de obras públicas, adquisición de bienes y servicios que ejecute la CEA, en apego a la normatividad aplicable;
+
+III. Coordinar, ejecutar, organizar y dar el seguimiento de los concursos de licitación de obra, adquisición de bienes y servicios que se convoquen, elaborando los contratos y liberación de fianzas, en apego a la normatividad aplicable;
+
+IV. Participar mediante la validación normativa en los procesos de programación, licitación y evaluación de las obras, adquisición de bienes y servicios;
+
+V. Analizar, actualizar y dar difusión a la normatividad vigente en materia de construcción de las obras;
+
+VI. Coordinar la integración, actualización de los formatos, expedientes de licitación, contratación, programa de construcción y, aplicar la Ley que corresponda, en función del origen de los recursos para las obras, adquisición de bienes y servicios que se ejecuten por la CEA;
+
+VII. Programar y ejecutar el programa anual de suministros de las unidades administrativas de la CEA y, autorizarlo bajo las condiciones más convenientes, de acuerdo a la normatividad vigente en materia de adquisiciones;
+
+VIII. Establecer y dar seguimiento a los mecanismos de control para la obra, adquisición de bienes y servicios, conforme a la legislación aplicable en la materia;
+
+IX. Establecer y ejecutar el procedimiento para tramitar el pago de anticipos, estimaciones y finiquitos, correspondientes al seguimiento de la obra, adquisición de bienes o servicios necesarios, en apego a la normatividad aplicable;
+
+X. Coordinar, revisar y validar la integración de documentos necesarios, tales como precios extraordinarios, programas de ejecución, volúmenes modificados, entre otros, para la elaboración de convenios necesarios para la continuidad de los contratos de obra, adquisición de bienes y servicios, conforme a la legislación aplicable en la materia;
+
+XI. Elaborar los convenios correspondientes de la obra, adquisición de bienes o servicios, una vez que la documentación tenga el soporte correspondiente, conforme a la legislación aplicable en la materia;
+
+XII. Coordinar, revisar y validar los documentos necesarios para la elaboración del finiquito correspondiente de la obra, adquisición de bienes o servicios, conforme a la legislación aplicable en la materia;
+
+XIII. Programar y coordinar con el Órgano de Control de la Inversión Pública, los actos de Entrega-Recepción de la obra o servicios, conforme a la legislación aplicable en la materia;
+
+XIV. Supervisar que se hagan efectivas, si es necesario, las garantías de la obra, adquisición de bienes o servicios adquiridos, en apego a la normatividad aplicable, y
+
+XV. Las demás que le confiera el Director General y las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 22 Sexies.
+
+Corresponde a la Unidad Jurídica, ejercer las siguientes atribuciones:
+
+I. Instrumentar las políticas dictadas por el Director General, para la ejecución, control y seguimiento de las acciones de carácter legal;
+
+II. Proporcionar la información periódica a la Dirección General, sobre los procesos judiciales en que la CEA sea parte;
+
+III. Atender y asesorar al Director General en todos los asuntos encomendados por él y de carácter legal;
+
+IV. Representar a la CEA en todos los procesos judiciales donde ésta sea parte;
+
+V. Atender y dar seguimiento a todo proceso judicial entablados en contra de la CEA;
+
+VI. Atender y dar seguimiento a los procesos de carácter administrativo, donde la CEA sea la autoridad responsable;
+
+VII. Atender y dar seguimiento a todas las denuncias y demandas que la CEA entable en contra de terceros;
+
+VIII. Analizar, evaluar y emitir opinión jurídica sobre los aspectos legales que las diferentes áreas de la CEA le soliciten;
+
+IX. Ejercer los planes y programas aprobados por la Dirección General, de acuerdo con las políticas, lineamientos, circulares, órdenes y demás disposiciones legales aplicables que al efecto se expidan, y
+
+X. Las demás que le confiera el Director General y las disposiciones legales y administrativas aplicables.
 
 ###### ARTÍCULO 23.
 
@@ -329,7 +479,7 @@ a. Departamento de Planeación Hidráulica
 
 b. Departamento de Estudios, Proyectos y Control de Obra
 
-c. Departamento de Licitaciones.
+c. (DEROGADO, P.O. 8 DE FEBRERO DE 2008)
 
 ###### ARTÍCULO 26.
 
@@ -371,7 +521,7 @@ III. Supervisar y ejecutar los programas de medición para ensayos e investigaci
 
 IV. Coordinar y evaluar la identificación de los puntos estratégicos para la instalación o cambios de instrumentos de telemetría coordinadamente con las demás áreas de la Dirección Técnica;
 
-V.- Proponer y elaborar los estudios e investigaciones y demás programas tendientes a reducir el porcentaje de pérdidas físicas de agua;
+V. Proponer y elaborar los estudios e investigaciones y demás programas tendientes a reducir el porcentaje de pérdidas físicas de agua;
 
 VI. Supervisar y ejecutar los programas de medición para ensayos e investigación del comportamiento hidráulico del canal y del dren de demasías;
 
@@ -393,21 +543,7 @@ XIV. Las demás que señale el reglamento y la normatividad aplicable.
 
 ###### ARTÍCULO 28.
 
-Corresponde al Departamento del (sic) Licitaciones, ejercer las siguientes atribuciones:
-
-I. Coordinar la integración y revisar las normas y especificaciones técnicas para la licitación y contratación de las obras públicas que ejecute la CEA;
-
-II. Coordinar y organizar el seguimiento de los concursos de licitación de obra que se convoquen, elaborando los contratos y liberación de fianzas;
-
-III. Participar mediante la validación normativa en los procesos de programación, licitación y evaluación de las obras;
-
-IV. Analizar, actualizar y dar difusión a la normatividad vigente en materia de construcción de las obras vigilando su correcta aplicación y cumplimiento;
-
-V. Coordinar la integración, actualización de los formatos, expedientes de licitación, contratación, programa de construcción; y aplicar la Ley que corresponda en función del origen de los recursos de las obras que se ejecuten por la CEA;
-
-VI. Ejecutar y dar seguimiento al proceso de licitación de obra pública que lleve a cabo la CEA, y
-
-VII. Las demás que señale el reglamento y la normatividad aplicable.
+(DEROGADO, P.O. 8 DE FEBRERO DE 2008)
 
 #### SECCIÓN III. DE LA DIRECCIÓN DE SUMINISTRO DE AGUA EN BLOQUE
 
@@ -541,7 +677,7 @@ IV. Supervisar los trabajos de protección catódica que realice el personal del
 
 V. Elaborar registros históricos para evaluar el comportamiento de los elementos mecánicos instalados en la línea de conducción y sistemas de protección catódica;
 
-VI. Analizar y proponer las modificaciones a las instalaciones en líneas de conducción y sistemas de protección catódica para mejorar los resultados de operación;
+VI.- Analizar y proponer las modificaciones a las instalaciones en líneas de conducción y sistemas de protección catódica para mejorar los resultados de operación;
 
 VII. Participar en la instalación y montaje de elementos mecánicos en líneas de conducción y sistemas de protección catódica, en los acueductos responsabilidad de la CEA;
 
@@ -655,7 +791,7 @@ V. Supervisar, controlar y realizar las nóminas de pago del personal del organi
 
 VI. Mantener actualizada la estructura administrativa y el Reglamento Interno del Organismo;
 
-VII. Mantener actualizado el Manual de Organización Básica del Organismo;
+VII.- Mantener actualizado el Manual de Organización Básica del Organismo;
 
 VIII. Ejecutar el Programa Anual de Capacitación del Personal;
 
@@ -875,9 +1011,11 @@ XIV. Proporcionar información técnica que le sea requerida por otras dependenc
 
 XV. Las que le confiera el Director General y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 47.
 
-Los Jefes de Departamento de la CEA, tendrán las siguientes facultades y obligaciones genéricas:
+Los Jefes de Departamento y Coordinadores de Área de la CEA, tendrán las siguientes facultades y obligaciones genéricas:
 
 I. Participar en la elaboración del proyecto del programa anual de actividades del área a la que pertenece, así como proponer los objetivos y políticas para el cumplimiento del mismo;
 
@@ -909,9 +1047,11 @@ Las ausencias temporales del Director General que no excedan de quince días há
 
 Las ausencias temporales de los Directores de Área que no excedan de quince días, serán suplidas por la persona que ocupe el nivel inmediato inferior que designen y en aquellas que excedan del tiempo señalado, su suplente será designado por el Director General.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 50.
 
-En las ausencias temporales de los Jefes de Unidad y Jefes de Departamento, que no excedan de quince días, su suplente será designado por el nivel inmediato superior, y en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director General.
+En las ausencias temporales de los Jefes de Unidad, Jefes de Departamento y Coordinadores de Área, que no excedan de quince días, su suplente será designado por su superior inmediato y, en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director General.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -934,3 +1074,9 @@ BERNARDO H. MARTINEZ AGUIRRE
 SECRETARIO DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
 ARTURO ESPINOZA JARAMILLO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE FEBRERO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
