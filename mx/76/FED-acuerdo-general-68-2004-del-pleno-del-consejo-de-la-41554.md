@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-68-2004-del-pleno-del-consejo-de-la-41554"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-11-19"
-last_updated: "2004-11-19"
+last_updated: "2008-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41554&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-11-10"
 
 ACUERDO GENERAL 68/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, A TRAVES DEL CUAL SE IMPLEMENTA LA PUBLICACION EN INTERNET DE LAS SENTENCIAS EJECUTORIAS Y RESOLUCIONES PUBLICAS RELEVANTES, GENERADAS POR LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO, A FIN DE INCENTIVAR EL INTERES DE LA POBLACION EN EL CONOCIMIENTO DE LAS RESOLUCIONES JURISDICCIONALES, PARA FOMENTAR UNA CULTURA DE TRANSPARENCIA Y ACCESO A LA INFORMACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2008.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 19 de noviembre de 2004.
 
@@ -77,9 +77,11 @@ La recepción, revisión, clasificación y recopilación de la sentencias y reso
 
 Las unidades administrativas del Consejo de la Judicatura Federal brindarán el apoyo que les sea requerido por la Secretaría Ejecutiva mencionada, para el cumplimiento de las funciones que en razón del presente Acuerdo se le confieren.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 5.
 
-Los Tribunales de Circuito y Juzgados de Distrito, deberán enviar vía electrónica a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, en los formatos que al efecto se definan, las sentencias o resoluciones públicas que estén en alguno de los supuestos que señala el artículo 6 del presente Acuerdo, cuya versión deberá ser pública, es decir, con la supresión de los datos personales de las partes, salvo su nombre y omitir la información de carácter reservada, en términos de lo dispuesto por el artículo 8 del Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+Los Tribunales de Circuito y Juzgados de Distrito, deberán enviar vía electrónica a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, a través del Sistema de Captura de Sentencias Ejecutorias y Resoluciones Públicas Relevantes, las sentencias o resoluciones públicas que estén en alguno de los supuestos que señala el artículo 6 del presente Acuerdo, cuya versión deberá ser pública, es decir, con la supresión de la información considerada legalmente como reservada y confidencial, en términos de lo dispuesto en los artículos 13, 14 y 18 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como en lo señalado por el Título Segundo “De los criterios de clasificación y conservación de la información reservada o confidencial”, del Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la referida Ley.
 
 La validación del documento electrónico, su envío y recepción deberá ser supervisada por los propios titulares y certificada por el secretario que al efecto determinen.
 
@@ -128,3 +130,11 @@ CUARTO. Los Tribunales de Circuito y Juzgados de Distrito estarán en aptitud de
 QUINTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá iniciar con la publicación electrónica, de las sentencias ejecutorias y resoluciones públicas, a más tardar dentro de los cuarenta y cinco días siguientes a la entrada en vigor del presente Acuerdo.
 
 GUADALUPE MARGARITA ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 68/2004, del Pleno del Consejo de la Judicatura Federal, a través del cual se Implementa la Publicación en Internet de las Sentencias Ejecutorias y Resoluciones Públicas Relevantes, Generadas por los Tribunales de Circuito y Juzgados de Distrito, a fin de Incentivar el Interés de la Población en el Conocimiento de las Resoluciones Jurisdiccionales, para Fomentar una Cultura de Transparencia y Acceso a la Información, fue aprobado por el Pleno del propio Consejo, en sesión de diez de noviembre de dos mil cuatro, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers y Miguel A. Quirós Pérez.- México, Distrito Federal, a diez de noviembre de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 8 DE FEBRERO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para su difusión, publíquese en el Diario Oficial de la Federación, en el Semanario Judicial y su Gaceta, así como en los medios electrónicos de consulta pública.
