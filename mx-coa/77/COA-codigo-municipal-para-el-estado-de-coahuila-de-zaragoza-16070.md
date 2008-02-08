@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2007-07-31"
+last_updated: "2008-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -489,7 +489,9 @@ III. Realizar la entrega-recepción de la situación que guarda la administraci�
 
 Al término del período constitucional de la Administración Pública Municipal, los integrantes del Ayuntamiento, así como los titulares de las dependencias, organismos y entidades, entregarán a los servidores públicos entrantes, el documento que contenga la situación que guarda la Administración Pública Municipal, a la que se anexarán los documentos establecidos en el artículo siguiente.
 
-En la entrega-recepción de las dependencias, organismos y entidades, la Contaduría Mayor de Hacienda, podrá designar un representante, el cual participará sólo como observador del proceso.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
+
+En la entrega-recepción de las dependencias, organismos y entidades, la Auditoría Superior del Estado, podrá designar un representante, el cual participará sólo como observador del proceso.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
 
@@ -507,7 +509,9 @@ I. Libros de Actas de las reuniones de Cabildo y la mención del lugar donde se 
 
 II. Informe detallado sobre la situación financiera de la Administración Municipal saliente, el cual deberá contener los estados contables, los libros de contabilidad, registros auxiliares, cuentas de cheques, inversiones, acta de arqueo de caja (Fondos Revolventes), presupuesto y demás documentación comprobatoria.
 
-III. Informe del estado que guarda la cuenta pública del Municipio, incluyendo los informes rendidos al Congreso del Estado, los certificados de cuenta pública aprobada, que en su caso, haya emitido la Contaduría Mayor de Hacienda y las observaciones o requerimientos que ésta le haya hecho al Municipio.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2008)</small>
+
+III. Informe del estado que guarda la cuenta pública del Municipio, incluyendo los informes rendidos al Congreso del Estado, los certificados de cuenta pública aprobada, que en su caso, haya emitido la Auditoría Superior del Estado y las observaciones o requerimientos que ésta le haya hecho al Municipio.
 
 IV. Informe de la situación que guarda la deuda pública del Municipio y la documentación relativa a la misma.
 
@@ -519,7 +523,7 @@ VII. La plantilla de personal al servicio del Municipio, y sus relativos expedie
 
 VIII. Informe de los derechos y obligaciones, que estará integrado por los convenios, contratos y/o acuerdos que el Municipio tenga celebrado con otros municipios, con Gobierno del Estado, el Gobierno Federal o con particulares, y la documentación relativa.
 
-IX. Informe de los programas y proyectos aprobados y ejecutados por el Municipio y de aquellos que se encuentren en proceso de ejecución, con su documentación respectiva;
+IX. Informe de los programas y proyectos aprobados y ejecutados por el Municipio y de aquellos que se encuentren en proceso de ejecución, con su documentación respectiva.
 
 X. Informe de los recursos materiales, que estará conformado por la relación e inventario de bienes que sean propiedad o estén en uso del Municipio. Dicho informe se dividirá en dos rubros: bienes muebles y bienes inmuebles.
 
@@ -1353,13 +1357,15 @@ I. Elaborar y proponer al presidente municipal los proyectos de ley, reglamentos
 
 II. Recaudar los ingresos y contribuciones que correspondan al municipio de conformidad con las leyes fiscales, siendo responsable directo de su depósito y vigilancia. Cuidar que el monto de las multas impuestas por las autoridades municipales ingresen a la tesorería.
 
-III.- Llevar al corriente el padrón fiscal municipal y practicar las revisiones y auditorias a los causantes, conforme con las disposiciones fiscales aplicables.
+III. Llevar al corriente el padrón fiscal municipal y practicar las revisiones y auditorias a los causantes, conforme con las disposiciones fiscales aplicables.
 
 IV. Vigilar y documentar toda ministración de fondos públicos.
 
 V. Efectuar los pagos de salarios, gastos y demás erogaciones conforme al presupuesto de egresos aprobado, con la autorización de Presidente y del Síndico. En consecuencia, negará los pagos no previstos en el presupuesto de egresos y los que afecten a partidas que estuvieren agotadas.
 
-VI. Organizar la contabilidad y control del ejercicio presupuestal de la Tesorería y demás dependencias municipales, organismos descentralizados y entidades paramunicipales, en general, de conformidad con las disposiciones que sobre la materia emita la Contaduría Mayor de Hacienda del Congreso del Estado.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2008)</small>
+
+VI. Organizar la contabilidad y control del ejercicio presupuestal de la Tesorería y demás dependencias municipales, organismos descentralizados y entidades paramunicipales, en general, de conformidad con las disposiciones que sobre la materia emita la Auditoría Superior del Estado.
 
 VII. Presentar al Presidente Municipal para su aprobación, dentro de los primeros 5 días da cada mes, el estado financiero correspondiente al mes anterior.
 
@@ -1367,7 +1373,9 @@ VIII. Formular, conservar, registrar y actualizar permanentemente un inventario 
 
 IX. Presentar anualmente al Ayuntamiento, para su consideración, a más tardar el 31 de agosto de cada año, los anteproyectos de Ley de Ingresos y Presupuesto de Egresos para el siguiente ejercicio fiscal.
 
-X. Presentar trimestralmente al Ayuntamiento, para su autorización y glosa, en forma pormenorizada, la cuenta pública, incluyendo los documentos, libros de ingresos y egresos de la tesorería, correspondientes al trimestre que concluye, de conformidad con los términos establecidos por la Contaduría Mayor de Hacienda del Congreso del Estado. Presentar a ésta o al Congreso del Estado las cuentas, informes contables y financieros que éste le solicite.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2008)</small>
+
+X. Presentar al Ayuntamiento, para su autorización y glosa, en forma pormenorizada, la cuenta pública y los informes de avance, incluyendo los documentos, libros de ingresos y egresos de la tesorería, correspondientes de conformidad con los términos establecidos por la ley de Fiscalización Superior para el Estado de Coahuila. Presentar a la Auditoria Superior o al Congreso del Estado las cuentas, informes contables y financieros que le soliciten en los términos de la ley.
 
 XI. Hacer conjuntamente con el Síndico, las gestiones oportunas en los asuntos de interés para la hacienda municipal.
 
@@ -1441,7 +1449,9 @@ VII. Dictaminar los estados financieros de la tesorería municipal y verificar s
 
 VIII. Vigilar que los recursos federales y estatales asignados a los ayuntamientos se apliquen en los términos estipulados en las leyes, reglamentos, convenios, programas y manuales respectivos.
 
-IX. Coordinarse con la Contaduría Mayor de Hacienda del Congreso del Estado y con el órgano de control del Ejecutivo del Estado, para el cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2008)</small>
+
+IX. Coordinarse con el Auditor Superior del Estado y con el órgano de control del Ejecutivo del Estado, para el cumplimiento de sus funciones.
 
 X. Intervenir, para efectos de verificación y control, en los contratos que emanen de la celebración de convocatorias y licitaciones, y vigilar el cumplimiento de dichos contratos.
 
@@ -4098,3 +4108,9 @@ DECRETO NUMERO 327.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE FEBRERO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente decreto.
