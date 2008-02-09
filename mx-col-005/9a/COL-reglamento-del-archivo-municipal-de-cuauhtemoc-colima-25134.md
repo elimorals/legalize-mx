@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-archivo-municipal-de-cuauhtemoc-colima-25134"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2002-05-25"
+last_updated: "2008-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COL"
 
 REGLAMENTO DEL ARCHIVO MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de mayo de 2002.
 
@@ -68,13 +68,17 @@ b).- Sección de Archivo Histórico
 
 c).- Sección de Registro Municipal
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 5.
 
-La Sección de Archivo Administrativo se encargará de toda la documentación que generen las diferentes dependencias del Ayuntamiento y que conforme a lo previsto por este Reglamento deberán entregarse al Archivo, y será responsabilidad del Director del Archivo Municipal requerir anualmente a todas las dependencias Municipales a fin de que le proporcionen la documentación referida en el artículo 6 de este reglamento.
+La Sección de Archivo Administrativo se encargará de toda la documentación que generen las diferentes dependencias del Ayuntamiento y que conforme a lo previsto por este Reglamento deberán entregarse al Archivo, y será responsabilidad de él o la responsable del Archivo Municipal requerir anualmente a todas las dependencias Municipales a fin de que le proporcionen la documentación referida en el artículo 6 de este reglamento.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 6.
 
-La Sección de Archivo Histórico deberá encargarse de toda la documentación que tenga valor histórico de acuerdo a la clasificación que se haga por parte de la Dirección del Archivo.
+La Sección de Archivo Histórico deberá encargarse de toda la documentación que tenga valor histórico de acuerdo a la clasificación que se haga por parte de él o la responsable del Archivo Municipal.
 
 ###### ARTICULO 7.
 
@@ -90,9 +94,11 @@ IV. Sección de Varios. En la cual se registran donaciones de bienes muebles mun
 
 Es obligación del Secretario del Ayuntamiento, remitir para su registro al Archivo Municipal todos los actos de gobierno a que se refiere el presente artículo, en todo caso previo a la entrega de la concesión o contrato de que se trate, ordenar a los particulares del registro del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 8.
 
-El Archivo Municipal estará bajo la responsabilidad de una persona que se nombrará Director del Archivo Municipal, mismo que será designado por el Presidente Municipal y aprobado por el Cabildo, debiendo cumplir el Director del Archivo Municipal, con los siguientes requisitos: tener estudios de licenciatura en historia o carrera afín, ser de reconocida solvencia moral, tener conocimientos archivísticos, conocer plenamente las normas y objetivos de la documentación que regula y generan las actividades de las dependencias municipales, teniendo las siguientes obligaciones y facultades:
+El Archivo Municipal estará bajo la responsabilidad de una persona que se le nombrará como él o la responsable del Archivo Municipal, mismo que será designado por el Presidente Municipal, debiendo cumplir él o la responsable del Archivo Municipal, con los siguientes requisitos: tener estudios de licenciatura en historia o carrera a fin, ser de reconocida solvencia moral, tener conocimientos archivísticos, conocer plenamente las normas y objetivos de la documentación que regulan y generan las actividades de las dependencias municipales, teniendo las siguientes obligaciones y facultades:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes al Archivo Municipal.
 
@@ -100,9 +106,11 @@ II. Proponer políticas de funcionamiento del Archivo.
 
 III. Llevar el control administrativo del Registro Municipal.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 9.
 
-El Archivo Municipal contará además del Director, con los auxiliares que para el funcionamiento del archivo se requiera y lo permita el presupuesto del Ayuntamiento.
+El Archivo Municipal contará además de él o la responsable, con los auxiliares que para el funcionamiento del archivo se requiera y lo permita el presupuesto del Ayuntamiento.
 
 ###### ARTICULO 10.
 
@@ -128,9 +136,11 @@ El Archivo Municipal, contará con hemeroteca oficial y local.
 
 El Archivo Municipal proporcionará al público servicios de banco de datos; información estadística e histórica, quedando facultado para la venta de leyes; periódicos oficiales, expedir certificaciones con las reservas que la ley y/o los usos administrativos establezcan y con sujeción al arancel que para el caso señale la Ley de Hacienda del Municipio, la Ley de Ingresos o en su defecto la Tesorería Municipal.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 16.
 
-El personal que preste sus servicios en el archivo, queda impedido para extraer de él, fuera de uso oficial, cualquier tipo de información como órgano asesor del Archivo Municipal y para los casos no previstos en la ley o en este reglamento, funcionará un consejo consultivo que se integrará por el Secretario del Ayuntamiento, el Director del Archivo Municipal, el cronista, el historiador local, un representante que designe el H. Cabildo y un representante de la Biblioteca Pública Municipal. Este órgano tomará sus decisiones por mayoría de votos, levantándose acta pormenorizadas por el Director de Archivo Municipal, quien además fungirá como secretario.
+El personal que preste sus servicios en el archivo, queda impedido para extraer de él, fuera de uso oficial, cualquier tipo de información como órgano asesor del Archivo Municipal y para los casos no previstos en la ley o en este reglamento, funcionará un consejo consultivo que se integrará por el Secretario del Ayuntamiento, de él o la responsable del Archivo Municipal, el cronista, el historiador local, un representante que designe el H. Cabildo y un representante de la Biblioteca Pública Municipal. Este órgano tomará sus decisiones por mayoría de votos, levantándose acta pormenorizadas por él o la responsable de Archivo Municipal, quien además fungirá como secretario.
 
 ###### ARTICULO 17.
 
@@ -138,9 +148,11 @@ Para los efectos de selección de documentos sujetos a depuración se reunirá e
 
 ### CAPITULO III. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 18.
 
-El incumplimiento de las obligaciones que marca este reglamento, o infracciones al mismo por parte, tanto del personal administrativo, como de los funcionarios del Ayuntamiento se sancionará administrativamente por la Presidencia Municipal conforme a los siguientes artículos.
+El incumplimiento de las obligaciones que marca este reglamento, o infracciones al mismo por parte, tanto del personal administrativo, como de los funcionarios del Ayuntamiento se sancionarán administrativamente por la Presidencia Municipal conforme a los siguientes artículos.
 
 ###### ARTICULO 19.
 
@@ -158,9 +170,11 @@ Además de las sanciones anteriores, con indemnización al H. Ayuntamiento, de l
 
 En el mismo caso del artículo anterior, si la infracción es grave, y además si el hecho u omisión implica la comisión de un probable delito, los responsables serán consignados ante las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 23.
 
-Para efecto de que se pueda calificar la sanción, deberá previamente requerirse por parte del Secretario del Ayuntamiento a petición del Director del Archivo Municipal a los funcionarios o personal administrativo de que se trate el cumplimiento de la obligación.
+Para efecto de que se pueda calificar la sanción, deberá previamente requerirse por parte del Secretario del Ayuntamiento a petición de él o la responsable del Archivo Municipal a los funcionarios o personal administrativo de que se trate el cumplimiento de la obligación.
 
 ###### ARTICULO 24.
 
@@ -168,7 +182,11 @@ Los particulares que no cumplan con el registro del contrato o concesión que se
 
 ### CAPITULO IV. DE LOS RECURSOS
 
-ARTICULO 26 (sic).- El recurso que se concede en el presente reglamento es el de revisión, el cual deberá ser interpuesto ante el Secretario del H. Ayuntamiento para que éste lo resuelva en coordinación del Director del Archivo Municipal, cuando se trate de actos del personal administrativo del Archivo Municipal o de particulares, y por contraloría interna, tratándose de actos de funcionarios de la Administración Municipal. Dicho recurso será interpuesto ante la secretaria del Ayuntamiento dentro de los tres días siguientes a la notificación de la sanción, y deberá ser resuelto en un término no mayor de 30 días contados a partir de la fecha que se promueva el recurso.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 26.
+
+El recurso que se concede en el presente Reglamento es el de Revisión, el cual deberá ser interpuesto ante el Secretario del H. Ayuntamiento para que éste lo resuelva en coordinación de él o la responsable del Archivo Municipal, cuando se trate de actos del personal administrativo del Archivo Municipal o de particulares, y por contraloría interna, tratándose de actos de funcionarios de la Administración Municipal. Dicho recurso será interpuesto ante la Secretaría del Ayuntamiento dentro de los tres días siguientes a la notificación de la sanción, y deberá ser resuelto en un término no mayor de 30 días contados a partir de la fecha que se promueva el recurso.
 
 T R A N S I T O R I O S (SIC).
 
@@ -176,10 +194,16 @@ UNICO.- El presente reglamento entrará en vigor el día siguiente al de su publ
 
 El Presidente Municipal dispondrá se publique, circule y observe.
 
-> <small>(F. DE E., P.O. 22 DE MARZO DE 2003)</small>
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2008)</small>
 
 Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de Cuauhtémoc, Colima, a los 29 veintinueve días del mes de Abril del año 2002 dos mil dos.
 
 > <small>(F. DE E., P.O. 22 DE MARZO DE 2003)</small>
 
 Lic. Cesar Ceballos Gómez.- Presidente Municipal.- Rúbrica.- C. Pedro Martínez Rivera.- Sindico.- Rubrica.- Tec. Teresa Santa Ana Blake.- Regidora.- Rubrica.- Profra. Ma. de Jesús Fajardo López.- Regidora.- Rubrica.- Licda. Sandra Y. Ramírez Santillán.- Regidora.- Rubrica.- C. Alfonso Michel Aguirre.- Regidor.- Rubrica.- C. Carlos Yáñez Ibarra.- Regidor.- Rubrica.- C. Luis E. Martínez Ceballos.- Regidor.- Rubrica.- Dr. Ismael Estrada Ruíz.- Regidor.- Rubrica.- Lic. Esteban González Rodríguez.- Secretario.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE FEBRERO DE 2008.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
