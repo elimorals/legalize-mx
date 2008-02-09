@@ -4,7 +4,7 @@ identifier: "COL-ley-de-lo-contencioso-administrativo-del-estado-de-colima-11635
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-28"
-last_updated: "2007-03-17"
+last_updated: "2008-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2008.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de septiembre de 1996.
 
@@ -123,19 +123,39 @@ II.- De los juicios que se promuevan en contra de cualquier acto o resolución d
 
 III.- De las controversias de carácter administrativo o fiscal que se susciten, entre las autoridades Estatales y Municipales, así como de las que surjan entre el estado y los municipios o de éstos entre sí;
 
-IV.- De los juicios que se promuevan con motivo de la falta de contestación de las autoridades mencionadas en las dos primeras fracciones, dentro de un término de 60 días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera.
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2008)</small>
+
+IV.- De los Juicios que se promuevan ante la negativa ficta que opera por el silencio de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por los ordenamientos jurídicos aplicables al caso concreto, o dentro del término de diez días tratándose de actos declarativos y de sesenta días tratándose de actos constitutivos, según, lo establecido por la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
 
 En los casos a que se refiere el párrafo anterior, el silencio de las autoridades se considerará como resolución negativa, cuando no den respuesta en el término que corresponda.
 
 V.- De los juicios que promuevan las autoridades Estatales y Municipales, así como organismos descentralizados, para que sean anuladas las resoluciones administrativas o fiscales favorables a los particulares;
 
-VI.- De los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales señaladas, en los expedientes relativos a recursos ordinarios establecidos por las leyes y reglamentos respectivos; y
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2008)</small>
 
-VII.- De los juicios que versen sobre la responsabilidad patrimonial del Estado, de acuerdo a lo establecido en la legislación aplicable; y
+VI.- De los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales señaladas, en los expedientes relativos a recursos ordinarios establecidos por las leyes y reglamentos respectivos;
 
-VIII.- De los demás juicios que se promuevan en contra de los actos o resoluciones que las leyes consideren como competencia del Tribunal.
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2008)</small>
+
+VII.- De los juicios que versen sobre la responsabilidad patrimonial del Estado, de acuerdo a lo establecido en la legislación aplicable;
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2008)</small>
+
+VIII.- Del procedimiento que se promueva para que se declare la afirmativa ficta, ante la omisión de la autoridad de dictar la certificación de la misma dentro del término de tres días establecido por el artículo 33 de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios; y
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2008)</small>
+
+IX.- De los demás juicios que se promuevan en contra de los actos o resoluciones que las leyes consideren como competencia del Tribunal.
 
 ### CAPITULO III. DE LAS PARTES
 
@@ -275,15 +295,33 @@ Las notificaciones que no fueren hechas en la forma que establecen las disposici
 
 La demanda deberá de formularse por escrito y presentarse directamente ante el Tribunal, dentro de los 15 días, contados a partir del día siguiente al en que el afectado tenga conocimiento o se haya notificado del acto o resolución impugnados.
 
-> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2000)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-Una vez transcurrido el término de 60 días para que opere la negativa ficta, el particular dentro de los 15 días siguientes deberá ejercitar su acción.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2008)</small>
+
+Una vez trascurridos los términos mencionados en la fracción IV del artículo 11 de esta Ley para que opere la negativa ficta, el particular dentro de los 15 días siguientes deberá ejercitar su acción.
 
 Si el particular reside fuera de la entidad y no tiene representante en el Estado, o fallece durante el plazo a que se refiere el párrafo anterior, el término para la presentación de la demanda será de 45 días, siguientes a la notificación o al en que tenga conocimiento del acto reclamado.
 
 Cuando el actor resida fuera de la capital del Estado, podrá presentar su demanda ante el Secretario del Ayuntamiento del Municipio donde vive, quien deberá remitirla bajo su responsabilidad al Tribunal dentro de los tres días hábiles siguientes a su recepción.
 
 En caso de incumplimiento a lo previsto por el párrafo anterior, el Tribunal impondrá al servidor público una multa equivalente al monto de 20 a 50 días de salario mínimo vigente en el Estado, independientemente de la responsabilidad en que pudiera incurrir de conformidad con la ley de la materia.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 26
+
+Bis.- La solicitud para que se declare la afirmativa ficta deberá presentarse ante el Tribunal de lo Contencioso Administrativo del Estado dentro de los 15 días siguientes a aquel en que haya trascurrido el término mencionado en la fracción VIII del artículo 11 de esta Ley.
+
+El promovente deberá de acompañar el acuse de recibo del trámite no resuelto, así como de las constancias y documentos que acrediten el cumplimiento de todos los requisitos establecidos en las normas aplicables al caso específico, así como la petición que se presentó ante la autoridad competente.
+
+Con la solicitud se dará vista a la autoridad omisa para que dentro del término de tres días manifieste lo que a sus intereses convenga. Una vez transcurrido dicho término, el tribunal dentro de los cinco días siguientes, dictará la resolución correspondiente declarando o no la afirmativa ficta.
+
+La declaración que expida deberá de contar por lo menos con una relación sucinta de la solicitud presentada y del procedimiento seguido, de la fecha de iniciación y de vencimiento de plazo con que contó la autoridad competente para dictar su relación.
+
+La declaración de afirmativa ficta producirá todos los efectos legales de la resolución favorable que se pidió; cuando se expida al interesado una declaración relativa a licencia, permisos o autorización, que genere el pago de contribuciones o derechos de conformidad con las normas aplicables deberá señalar al interesado el pago de los mismos.
 
 ###### ARTICULO 27.
 
@@ -1016,3 +1054,7 @@ P.O. 17 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE FEBRERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial "El Estado de Calima".
