@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2004-09-03"
+last_updated: "2008-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1687 +21,2793 @@ state: "SIN"
 ---
 # LEY DE SALUD DEL ESTADO DE SINALOA
 
-LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO
+LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2008.
 
-Ley publicada en la Sección Primera al Número 4 de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2021.
+Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
-ALFREDO DEL MAZO MAZA, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Séptima Legislatura, ha tenido a bien expedir el siguiente,
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+DECRETO NÚMERO 624
 
-La H. "LX" Legislatura del Estado de México decreta:
+LEY DE SALUD DEL ESTADO DE SINALOA
 
-DECRETO NÚMERO 232
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-## TÍTULO PRIMERO
+### CAPÍTULO I. DE LOS OBJETIVOS DE LA LEY
 
-### CAPÍTULO ÚNICO. De las Disposiciones Generales y Definiciones
+###### Artículo 1°.
 
-###### Artículo 1.
+La presente ley reglamenta el derecho a la protección de la salud, consagrado en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, sus disposiciones son del orden público, de interés social y de observancia general en la entidad, establece la competencia que en materia de salud corresponde al Estado de Sinaloa y regula:
 
-La presente Ley es de orden público, interés social y de observancia general en el territorio del Estado de México en materia de turismo sostenible y desarrollo artesanal; corresponde su aplicación al Ejecutivo del Estado, por conducto de la Secretaría de Cultura y Turismo, al IIFAEM y a los Ayuntamientos en el ámbito de sus respectivas competencias.
+I. Las bases y modalidades de acceso a los servicios de salud proporcionados por el Estado;
 
-Se consideran las actividades turística y artesanal como prioritarias para el desarrollo cultural, social y económico inclusivo y sostenible del Estado y de sus municipios, así como generadoras de empleo, que preservan, conservan y promueven la cultura, historia, productos locales.
+II. La competencia concurrente del Estado con la Federación en materia de salubridad general;
 
-Las dependencias y organismos auxiliares del Poder Ejecutivo del Estado y de los Municipios, en el ámbito de sus competencias, contribuirán con la Secretaría de Cultura y Turismo en la aplicación de esta Ley, de los reglamentos, acuerdos y programas que de ella se deriven.
+III. La forma en que los municipios prestarán y controlarán los servicios de salud; y
 
-Para lo no previsto en este ordenamiento, serán de aplicación supletoria el Código Administrativo del Estado de México, el Código de Procedimientos Administrativos del Estado de México, el Código Financiero del Estado de México y Municipios, y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+IV. Las obligaciones de las dependencias y entidades públicas, privadas y de la población en general para cumplir con los objetivos de la presente ley.
 
 ###### Artículo 2.
 
-La presente ley tiene por objeto:
+Son finalidades de la presente ley:
 
-I. Establecer las bases de coordinación en materia de turismo y desarrollo artesanal entre el Ejecutivo, las dependencias estatales y organismos auxiliares del Estado y los municipios, así como la participación de los sectores social y privado;
+I. El bienestar físico y mental del género humano, para contribuir al ejercicio pleno de sus capacidades;
 
-II. Formular la política, planeación, programación, evaluación, protección, promoción, fomento, desarrollo y regulación en la actividad turística y artesanal en el Estado, bajo los criterios de beneficio social, sostenibilidad, competitividad y desarrollo considerando lo establecido en el Plan de Desarrollo Estatal y el Programa Estatal de Turismo Sostenible;
+II. La protección y la prolongación de la vida humana así como el mejoramiento de su calidad;
 
-III. Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos del Estado, preservando y conservando el patrimonio natural, cultural, y el equilibrio ecológico con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos productos turísticos y artesanales, en apego al marco jurídico vigente;
+III. La protección y el enriquecimiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
 
-IV. Establecer las reglas, lineamientos y procedimientos para formular el Ordenamiento Turístico del Territorio, que regule la actividad turística y artesanal en el Estado;
+IV. La extensión de actitudes solidarias y responsables de la población, en la preservación, conservación y restauración de la salud;
 
-V. Establecer las normas para la integración y operación del Registro Estatal de Turismo Sostenible, del Atlas Turístico y Artesanal del Estado de México, del Observatorio Turístico y de la Actividad Artesanal del Estado de México, del Registro Estatal de Artesanas y Artesanos, del Catálogo Artesanal Mexiquense y de los Catálogos Artesanales Municipales;
+V. El acceso a los servicios de salud y de asistencia social que satisfagan eficaz y oportunamente, las necesidades de la población;
 
-VI. Plantear las bases para la elaboración de planes, programas y reglamentos en materia turística y artesanal a nivel municipal;
+VI. El conocimiento de los servicios de salud para su adecuado aprovechamiento y uso; y
 
-VII. Promover y vigilar el desarrollo del turismo sostenible, propiciando el acceso de todas y todos los mexiquenses al descanso y recreación mediante esta actividad;
+VII. El desarrollo de la enseñanza, la investigación científica y tecnológica para la salud.
 
-VIII. Facilitar a las personas con discapacidad y personas adultas mayores, las oportunidades para el acceso y disfrute de las instalaciones destinadas a la actividad turística y artesanal, así como su participación dentro de los programas de turismo inclusivo;
+###### Artículo 3°.
 
-IX. Salvaguardar la igualdad y equidad de género en la instrumentación y aplicación de políticas de apoyo y fomento al turismo sostenible y desarrollo artesanal;
+En términos del presente ordenamiento y de la Ley General de Salud, se considera:
 
-X. Proyectar y promover la planeación y el desarrollo de la oferta, equipamiento e infraestructura turística y artesanal;
+A). Materia de salubridad general:
 
-XI. Promover los incentivos y esquemas necesarios para impulsar la calidad, competitividad, modernización y certificación de los servicios turísticos y artesanales en el Estado de México;
+I. La atención médica, preferentemente a los adultos mayores, las personas con capacidades diferentes, las de escasos recursos, y en general aquellos que se encuentren en situación de dificultad o incapacidad para satisfacer sus necesidades básicas;
 
-XII. Fomentar la inversión pública, privada y social, nacional y extranjera, para el desarrollo de las actividades turística y artesanal del Estado de México;
+II. La atención materno infantil;
 
-XIII. Desarrollar acciones para diversificar la actividad turística y artesanal del Estado de México, propiciando las condiciones necesarias para generar un desarrollo local integrador, apoyando el aprovechamiento de las actividades propias de las comunidades;
+III. La prestación de servicios de planificación familiar;
 
-XIV. Establecer los lineamientos para la promoción turística y artesanal de la Entidad;
+IV. La salud mental;
 
-XV. Establecer las bases para la orientación y asistencia a los turistas nacionales y extranjeros, definiendo sus derechos y obligaciones;
+V. La organización, coordinación y vigilancia del ejercicio de las actividades profesionales; técnicas y auxiliares para la salud;
 
-XVI. Impulsar los proyectos de fomento turístico y artesanal a nivel municipal, regional y estatal que generen la creación y conservación del empleo, con el fin de coadyuvar en la eliminación de monopolios y prácticas monopólicas conforme a la legislación correspondiente;
+VI. La promoción de la formación de recursos humanos para la salud;
 
-XVII. Fomentar y promover la cultura turística y artesanal entre los habitantes de los municipios, los prestadores de servicios turísticos, las y los artesanos y los servidores públicos;
+VII. La coordinación de la investigación para la salud y el control de ésta en seres humanos;
 
-XVIII. Promover la preservación, conservación y rehabilitación del patrimonio arquitectónico, histórico, gastronómico y artesanal del Estado y sus municipios;
+VIII. La información relativa a las condiciones, recursos y servicios de salud;
 
-XIX. Salvaguardar el estudio de la historia, las expresiones culturales y las técnicas empleadas en la actividad artesanal, como atractivos turísticos de las diversas regiones del Estado de México y sus municipios, y
+IX. La educación para la salud;
 
-XX. Reconocer a las y los artesanos y la artesanía como elementos esenciales de la cultura e identidad mexiquense.
+X. La orientación y vigilancia en materia de nutrición;
 
-###### Artículo 3.
+XI. La orientación, previsión, vigilancia y tratamiento en materia de adicciones;
 
-Para efectos de esta ley, se entenderá por:
+XII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre y en el ecosistema;
 
-I. Acciones Afirmativas: A las acciones que promuevan políticas que favorezcan un trato oportuno y legal para el acceso o distribución de ciertos recursos o servicios, así como acceso a determinados bienes, a un determinado grupo social, étnico, minoritario o que históricamente haya sufrido discriminación a causa de injusticias sociales;
+XIII. La prevención y el control de las enfermedades transmisibles, no transmisibles y accidentes;
 
-II. Actividades Turísticas: A las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
+XIV. La prevención de las incapacidades y la rehabilitación de las personas con capacidades diferentes;
 
-III. Artesanía: Al objeto o producto de identidad cultural derivado de una cosmovisión comunitaria, hecho por procesos manuales continuos individuales, familiares o colectivos, auxiliados por implementos rudimentarios y algunos de función mecánica que aligeran ciertas tareas, realizado con materia prima básica transformada, que generalmente es obtenida en la región en donde habita la artesana o artesano, con la finalidad de transformar productos o substancias orgánicas e inorgánicas en artículos nuevos, duraderos o efímeros, su función original está determinada en el nivel social y cultural; en este sentido, puede destinarse para el uso doméstico, ceremonial, de ornato, de vestimenta, o bien, como herramienta de trabajo;
+XV. La asistencia social;
 
-IV. Artesana o artesano: A la persona cuyas habilidades naturales y dominio técnico de un oficio provienen de un conocimiento tradicional y transmitido de generación en generación, prácticos o teóricos, que elaboran bienes u objetos de artesanía pertenecientes a una cosmovisión comunitaria;
+XVI. La prevención de la invalidez y la rehabilitación de los inválidos;
 
-V. Atlas: Al Atlas Turístico y Artesanal del Estado de México, que es el registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que por sus características y valores puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo turístico y artesanal de la Entidad;
+XVII. Autorizar el funcionamiento de los establecimientos que expendan o suministren al público alimentos y bebidas en estado natural, mezcladas, preparadas, adicionadas o condicionadas para su consumo dentro o fuera de los mismos; y
 
-VI. Atractivo Turístico: A aquellos bienes tangibles e intangibles que posee actualmente el territorio del Estado de México y que constituyen el principal interés del visitante, así como aquellos que determine la Secretaría en el ámbito de sus atribuciones;
+XVIII. Las demás que establezca la Ley General de Salud.
 
-VII. Catálogo Mexiquense: Al Catálogo Artesanal Mexiquense que es el inventario gráfico y técnico de artesanías, avalado por la Secretaría, engloba a los Catálogos Artesanales Municipales;
+B). Es materia de salubridad local, la regulación y el control sanitario de:
 
-VIII. Catálogo Municipal: Al Catálogo Artesanal Municipal que es el inventario gráfico y técnico de las artesanías de cada municipio de la Entidad, elaborado por la Dirección Municipal de Turismo y que contiene: el nombre de la artesanía, el lugar de origen, el autor, la técnica de elaboración, la materia prima y/o materiales utilizados, el tiempo de elaboración y, en su caso, el grupo étnico representativo;
+I. Mercados y centros de abasto;
 
-IX. Conciencia Turística Sostenible: Al conjunto de actitudes y comportamientos de los habitantes de un lugar turístico y de los actores involucrados en las actividades turística y artesanal que coadyuvan en la conservación, preservación y regeneración de los atractivos turísticos de la Entidad;
+II. Construcciones, excepto las de los establecimientos de salud;
 
-X. Consejo Estatal: Al Consejo Consultivo de Turismo Sostenible y Desarrollo Artesanal del Estado de México;
+III. Cementerios, crematorios y criptas;
 
-XI. Consejo Municipal: Al Consejo Consultivo Municipal de Turismo Sostenible y Desarrollo Artesanal;
+IV. Limpieza pública;
 
-XII. Corredor Turístico: A las vías de interconexión entre las zonas, áreas, complejos, centros, conjuntos, atractivos turísticos y los puertos de entrada del turismo receptivo y las plazas emisoras del turismo interno, con una longitud determinada, integrado por rutas y/o circuitos; y avalado por la Secretaría;
+V. Rastros;
 
-XIII. Cultura Turística: Al conjunto de conocimientos, valores y actitudes que fortalecen la identidad de los habitantes del destino turístico; fomentan el buen trato al turista, promueven la protección del patrimonio en todas sus expresiones, reconoce al turismo como mecanismo de desarrollo sostenible de la Entidad y fomenta la participación conjunta del sector público y privado, con la finalidad de lograr el desarrollo turístico sostenible;
+VI. Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
 
-XIV. Destino Turístico: A la unidad geográfica básica integrada por una agrupación de productos, servicios turísticos y artesanales, de actividades y experiencias, en la cadena de valor del turismo, y que pueden dividirse en zonas que representan regiones turísticas homogéneas, administrativas del gobierno mexiquense, municipios o comunidades del Estado;
+VII. Establos, granjas y demás establecimientos de cría o explotación de animales;
 
-XV. Ejecutivo: Al Titular del Poder Ejecutivo del Estado;
+VIII. Reclusorios;
 
-XVI. Empresa Artesanal: A las personas jurídicas colectivas dedicadas a la producción y comercialización de productos artesanales, pudiendo ser familias y/o grupos de personas dedicadas a esta actividad;
+IX. Prostitución;
 
-XVII. Empresas Turísticas: A las personas jurídicas colectivas dedicadas a la producción y comercialización de servicios turísticos;
+X. Hoteles, moteles, pensiones y casas de huéspedes;
 
-XVIII. Estado o Entidad: Al Estado de México;
+XI. Tintorerías, lavanderías y lavaderos públicos;
 
-XIX. Excursionista: Al visitante interno, receptor o emisor y clasificado como turista que no pernocta;
+XII. Transportes;
 
-XX. Exposiciones: A las muestras o exhibiciones públicas que organizan profesionalmente empresas, asociaciones o individuos, así como el sector público, y cuya finalidad es la venta de productos o servicios de un sector determinado de la economía;
+XIII. Empaques, almacenes, campos y empresa agrícolas. Igualmente viviendas destinadas a jornaleros agrícolas y trabajadores estacionales del campo;
 
-XXI. Feria: Al evento económico, social o cultural que puede estar establecido o ser temporal, y que puede tener lugar en sede fija o desarrollarse de forma itinerante, forma parte de una estrategia comercial y/o festiva de un sector determinado para la venta de artículos variados y atracciones. Suelen estar dedicadas a un tema específico o tener un propósito común;
+XIV. Comercialización y venta de alimentos y bebidas en la vía pública;
 
-XXII. Fideicomiso: Al Fideicomiso para la Promoción del Turismo Sostenible y de Desarrollo Artesanal;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2008)</small>
 
-XXIII. Guía de Turistas: A la persona física que proporciona al turista nacional o extranjero orientación e información profesional en el idioma de su elección, sobre el patrimonio turístico, cultural, natural y de atractivos turísticos, así como servicios de asistencia; el cual puede prestar sus servicios bajo la modalidad de guía general o guía especializado en un tema, localidad o actividad específica; de carácter cultural y natural, reconocido por las autoridades competentes;
+XV. Centros antirrábicos;
 
-XXIV. IIFAEM: Al Instituto de Investigación y Fomento de las Artesanías del Estado de México;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2008)</small>
 
-XXV. Ley: A la Ley de Turismo Sostenible y Desarrollo Artesanal del Estado de México;
+XVI. Gimnasios; y
 
-XXVI. Ley General: A la Ley General de Turismo;
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2008)</small>
 
-XXVII. Observatorio: Al Observatorio Turístico y de la Actividad Artesanal del Estado de México que es un sistema digital y público que recopila, monitorea, genera, procesa, analiza, vigila, mide y difunde información pertinente, confiable, actualizada y continua, acerca del turismo y de la actividad artesanal mexiquense;
+XVII. Las demás materias que determine esta ley y otras disposiciones legales aplicables.
 
-XXVIII. Oferta Artesanal: A las artesanías contenidas en el Catálogo Artesanal Mexiquense que se ofrecen para su venta a los excursionistas, turistas y visitantes;
+###### Artículo 4°.
 
-XXIX. Oferta Turística: Al conjunto de bienes, servicios y productos turísticos culturales, históricos, naturales y recreativos que se ofrecen para ser utilizados por los excursionistas, turistas y visitantes dentro del Estado y que generan diversas formas de hacer turismo a fin de satisfacer su demanda;
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución de programas y acciones contra el alcoholismo, el tabaquismo, la farmacodependencia, conforme a las leyes de la materia y en forma particular con la Ley que Regula la Prestación de los Servicios de Prevención y Tratamiento de las Adicciones en Sinaloa.
 
-XXX. Ordenamiento Turístico del Territorio Estatal: Al instrumento de la política turística estatal bajo un enfoque social, ambiental y territorial, en el cual, se puede conocer, promover e inducir el uso de suelo y las actividades productivas para lograr el aprovechamiento ordenado y sostenible de los recursos turísticos de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
+### CAPÍTULO II. DE LAS AUTORIDADES SANITARIAS Y SU COMPETENCIA
 
-XXXI. Parador Turístico y Artesanal: Al espacio físico estratégico ubicado en vialidades que por sus características facilitan la oferta de los productos artesanales y atractivos turísticos de la región;
+###### Artículo 5°.
 
-XXXII. Plan de Mercadotecnia: Al Plan de Mercadotecnia de Turismo Sostenible y Desarrollo Artesanal del Estado de México que se entenderá como el conjunto de acciones y lineamientos encaminadas a promocionar y comercializar los productos turísticos y artesanales del Estado;
+Son autoridades sanitarias estatales:
 
-XXXIII. Prestadores de Servicios Turísticos: A las personas físicas o jurídicas colectivas que ofrezcan, proporcionen, o contraten con los excursionistas, visitantes o turistas, la prestación de los servicios a que se refiere la ley;
+I. El Gobernador del Estado;
 
-XXXIV. Proceso Artesanal: Al conjunto de actividades con dominio de las técnicas tradicionales de patrimonio comunitario, que permite a las y los artesanos crear diferentes artesanías;
+II. La Secretaría de Salud;
 
-XXXV. Producto Turístico: A la combinación de elementos materiales e inmateriales, como los recursos naturales, culturales y antrópicos, así como los atractivos turísticos, las instalaciones, los servicios y las actividades en torno a un elemento específico de interés, que representa la esencia de un destino y genera una experiencia turística integral, con elementos emocionales para los excursionistas, turistas y visitantes;
+III. El Director General de los Servicios de Salud de Sinaloa;
 
-XXXVI. Programa: Al Programa Estatal de Turismo Sostenible;
+IV. Servicios de Salud de Sinaloa; y
 
-XXXVII. Programa Artesanal: Al Programa Estatal de Desarrollo Artesanal;
+V. Los ayuntamientos en los términos de los convenios que celebren con el Gobierno del Estado, de conformidad con esta ley y demás disposiciones legales aplicables.
 
-XXXVIII. Programa Municipal: Al Programa Municipal de Turismo Sostenible y Desarrollo Artesanal;
+###### Artículo 6°.
 
-XXXIX. Programa de Ordenamiento: Al Programa de Ordenamiento Turístico del Territorio Estatal;
+Corresponde al titular del Ejecutivo del Estado, por conducto de la Secretaría de Salud, en los términos del artículo anterior:
 
-XL. Registro Estatal de Artesanas y Artesanos: Al padrón digital y público que integra a los Registros Municipales de Artesanas y Artesanos de la Entidad, elaborado por la Secretaría;
+A). En materia de salubridad general:
 
-XLI. Registro Estatal: Al Registro Estatal de Turismo Sostenible que es un sistema digital y público, que integra los Registros Municipales de Turismo, y permite contar con una base de datos de todos los prestadores de servicios turísticos activos de la Entidad;
+I. Organizar, evaluar y operar, en su caso, los servicios de salud a que se refiere el inciso A del artículo 3 de esta ley;
 
-XLII. Registro Municipal de Artesanas y Artesanos: Al padrón digital y público que contiene el registro de todas las artesanas y artesanos de un municipio, elaborado por la Dirección Municipal de Turismo;
+II. Desarrollar y coordinar el Sistema Estatal de Salud, así como coadyuvar al funcionamiento y consolidación del Sistema Nacional de Salud;
 
-XLIII. Registro Municipal: Al Registro Municipal de Turismo Sostenible que es un sistema digital y público, generado por la Dirección Municipal de Turismo o equivalente, que contiene el registro de todos los prestadores de servicios turísticos que efectúan operaciones en el territorio municipal;
+III. Formular y desarrollar programas locales de salud en el marco de los Sistemas Estatal y Nacional de Salud, de acuerdo con los principios y objetivos de la planeación nacional;
 
-XLIV. Ruta Gastronómica: Al recorrido con un origen, una dimensión territorial, y configuración estructural específica que contiene los destinos gastronómicos de la Entidad;
+IV. Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general concurrente y los convenios en los que, en los términos de la fracción VII del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, asuma el ejercicio de sus funciones, la ejecución y operación de obras, y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario;
 
-XLV. Secretaría: A la Secretaría de Cultura y Turismo del Estado de México;
+V. Vigilar y coordinar, en su caso, la sanidad en los límites con otras entidades federativas; y
 
-XLVI. Secretaría Federal: A la Secretaría de Turismo;
+VI. Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de esta ley y de otras disposiciones legales aplicables.
 
-XLVII. Sector Artesanal: Al grupo de personas que desarrollan la actividad artesanal, integrada por artesanas, artesanos, unidades de producción, sociedades de artesanos y de las formas tradicionales de organización de las comunidades que realizan esta actividad;
+B). En materia de salubridad local:
 
-XLVIII. Sector Turístico: Al conjunto de organizaciones públicas, privadas y sociales que por su naturaleza y en función de sus objetivos atienden actividades turísticas que aportan y generan un desarrollo sostenible del territorio;
+I. Dictar los criterios y lineamientos técnicos aplicables en materia de salubridad local, ejercer la regulación y el control sanitario de los establecimientos y servicios de salubridad local a que se refiere el inciso B del artículo 3 de esta ley; y
 
-XLIX. Servicios Turísticos: A las actividades comerciales que ofrecen los prestadores de servicios turísticos destinadas a satisfacer las necesidades de los turistas;
+II. Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los municipios con sujeción a la política nacional y estatal de salud y a los convenios que suscriban.
 
-L. Taller artesanal: Al espacio físico donde un artesano o un grupo de éstos elaboran sus productos, considerado como una unidad económica;
+Tanto en materia de salubridad general, cuanto en la de salubridad local, vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente ley y demás disposiciones legales aplicables.
 
-LI. Turismo: A las actividades que realizan las personas durante sus viajes y estancias en lugares distintos al de su entorno habitual, por un período de tiempo consecutivo inferior a un año, con fines de ocio, y otros motivos no relacionados con el ejercicio de una actividad remunerada en el lugar visitado, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado;
+C). En materia de coordinación en general:
 
-LII. Turismo Accesible: Al turismo que implica un proceso de colaboración entre los interesados para permitir a las personas con discapacidad en distintas dimensiones, entre ellas las de movilidad, visión, audición y cognición, actuar con independencia, igualdad y dignidad, gracias a una oferta de productos, servicios y entornos de turismo diseñados de manera universal;
+I. Coordinarse con las autoridades ambientales, laborales, de protección civil, de sanidad animal y vegetal, a efecto de cumplir y hacer cumplir, en la esfera de su competencia, el derecho a la protección de salud; y
 
-LIII. Turismo Sostenible: Al turismo que da un uso óptimo a los recursos ambientales, que respeta la autenticidad sociocultural de las comunidades anfitrionas y asegurar el desarrollo de actividades económicas viables a largo plazo;
+II. Se determinan como áreas de coordinación prioritarias las relativas a:
 
-LIV. Turista: A la persona que viaja temporalmente fuera de su lugar de residencia habitual y su viaje incluye la pernocta en el lugar de destino, y utiliza alguno de los servicios turísticos a que se refiere esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población;
+a) Desastres;
 
-LV. Visitante: A toda persona que se desplaza a un lugar distinto al de su entorno habitual, por una duración inferior a doce meses, y cuya finalidad principal del viaje no es la de ejercer una actividad que se remunere en el lugar o destino visitado; y
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
 
-LVI. Zonas de Interés Turístico Sustentable: Aquellas que constituyen un importante destino turístico por sus características histórico-culturales o naturales, aprobadas con ese carácter por el Ejecutivo Estatal, a propuesta de la Secretaría.
+b) Residuos peligrosos y biológico infecciosos;
 
-###### Artículo 4.
+c) Salud ocupacional; y
 
-Los servicios turísticos que se ofrezcan en el Estado serán conforme a las disposiciones de la presente Ley, su Reglamento y de la Ley General.
+d) Salud ambiental.
 
-### CAPÍTULO I. Autoridades Competentes
+###### Artículo 7°.
 
-###### Artículo 5.
+Los criterios y lineamientos técnicos que emita la Secretaría de Salud en materia de salubridad local, conforme al artículo 6 inciso B fracción I de esta Ley, serán de observancia obligatoria para los particulares.
 
-Son autoridades competentes para la aplicación de la presente ley:
+###### Artículo 8°.
 
-I. El Titular del Poder Ejecutivo;
+El Ejecutivo Estatal podrá convenir con los Ayuntamientos, la prestación, por parte de éstos, de los servicios de salubridad general concurrente y de salubridad local, cuando su desarrollo económico y social lo haga necesario, con la participación que corresponda a los Servicios de Salud de Sinaloa.
 
-II. La Secretaría;
+###### Artículo 9°.
 
-III. El IIFAEM, y
+En los términos de los convenios que se celebren, compete a los ayuntamientos:
 
-IV. Los Ayuntamientos.
+I. Asumir la administración de los establecimientos de salud dentro de su competencia en los términos de las leyes aplicables;
 
-###### Artículo 6.
+II. Formular y desarrollar programas municipales de salud, en el marco de los Sistemas Nacional y Estatal de Salud, de acuerdo con los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo;
 
-Son atribuciones del Titular del Ejecutivo:
+III. Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente ley y demás disposiciones legales aplicables;
 
-I. Aprobar el Programa;
+IV. Expedir Bandos de Policía y Buen gobierno, reglamentos, circulares y disposiciones administrativas en materia sanitaria; y
 
-II. Aprobar las Zonas de Interés Turístico Sustentable;
-
-III. Presidir el Consejo Estatal; y
-
-IV. Las demás que le confieran las disposiciones legales aplicables.
-
-###### Artículo 7.
-
-Corresponde a la Secretaría, además de las que regula la Ley General, las siguientes atribuciones:
-
-I. Planear, programar, ordenar, clasificar, promover, fomentar, ejecutar, regular y evaluar la actividad turística sostenible y el desarrollo artesanal en el Estado;
-
-II. Contribuir con los municipios en el reconocimiento y desarrollo de su potencial turístico y artesanal;
-
-III. Establecer los lineamientos generales para la elaboración de los Programas Municipales, así como coordinar la existencia, congruencia y actualización de estos de acuerdo con la normatividad vigente;
-
-IV. Suscribir convenios con el sector público y privado para fomentar y desarrollar el turismo y la actividad artesanal en el Estado y Municipios;
-
-V. Elaborar y proponer al Ejecutivo Estatal para su aprobación, el Programa mismo que deberá ejecutar en congruencia con el Plan Estatal de Desarrollo; con las políticas y los convenios internacionales firmados y ratificados por el Gobierno Federal, en materia turística y artesanal, y demás disposiciones legales aplicables;
-
-VI. Elaborar el Decálogo del Visitante Responsable con base en los lineamientos correspondientes, y en coordinación con los Directores de Turismo Municipal se encargará de su difusión;
-
-VII. Formular, evaluar y ejecutar el Ordenamiento Turístico del Territorio Estatal, con la participación que corresponda a los municipios respectivos;
-
-VIII. Promover y fomentar el desarrollo de destinos turísticos en regiones con vocación turística y artesanal, considerando su patrimonio turístico natural y cultural, así como los diseños urbanísticos y arquitectónicos de la zona, con un enfoque sostenible;
-
-IX. Fomentar la participación del Estado y Municipios en programas turísticos, eventos, ferias, festivales, convenciones, congresos y toda actividad turística y artesanal, a nivel nacional e internacional;
-
-X. Instrumentar las medidas conducentes y los medios necesarios para la correcta vinculación y colaboración entre los diferentes órdenes de gobierno en apoyo a los programas de desarrollo turístico y artesanal;
-
-XI. Instalar el Consejo Estatal;
-
-XII. Concertar con los sectores público, privado y social, las acciones tendientes a detonar y fomentar programas para el desarrollo de la actividad turística sostenible y artesanal;
-
-XIII. Proponer al Titular del Poder Ejecutivo del Estado los proyectos de Declaratoria de las Zonas de Interés Turístico Sustentable para su aprobación, en los términos que establezca el Reglamento de la presente Ley;
-
-XIV. Impulsar acciones de promoción y comercialización de actividades, destinos y productos turísticos y artesanales del Estado;
-
-XV. Instrumentar la política de información y difusión en tiempo y forma de las convocatorias, apoyos, concursos y programas dirigidos a los sectores turístico y artesanal, bajo los principios de igualdad y equidad;
-
-XVI. Proyectar e impulsar el desarrollo de la infraestructura turística sostenible y artesanal del Estado;
-
-XVII. Promover e impulsar la creación de micro, pequeñas y medianas empresas turísticas y artesanales con un enfoque sostenible, así como a las que operen en el Estado;
-
-XVIII. Diseñar, ejecutar y difundir los programas de investigación y estudios en materia turística y artesanal mexiquenses, con apoyo de las instituciones académicas del Estado;
-
-XIX. Participar en programas de prevención y atención de emergencias epidemiológicas y desastres, así como en acciones para la gestión integral de riesgos conforme a las políticas y programas de la Secretaría de Salud y Protección Civil que al efecto se establezcan;
-
-XX. Brindar orientación y asistencia al excursionista, turista y visitante nacional y extranjero, y en su caso, aplicar los lineamientos de los programas de asistencia turística vigentes;
-
-XXI. Coadyuvar en la solución de los asuntos que afecten el desarrollo de la actividad turística y artesanal de los municipios;
-
-XXII. Vigilar el cumplimiento de las acciones que garanticen la permanencia y el fortalecimiento de los denominados Pueblos Mágicos y Pueblos con Encanto del Estado;
-
-XXIII. Fortalecer el desarrollo y la permanencia de corredores turísticos en el Estado;
-
-XXIV. Diseñar, elaborar, actualizar y publicar digitalmente el Atlas, el Catálogo Mexiquense, el Observatorio, así como el Registro Estatal y a través del IIFAEM, el Registro Estatal de Artesanas y Artesanos;
-
-XXV. Establecer en coordinación con los Municipios, módulos o casetas de información en los destinos turísticos, e introducir las tecnologías de la información que incluyan mapas y quioscos interactivos;
-
-XXVI. Establecer y mantener activo un módulo de quejas virtual en la página de internet de la Secretaría;
-
-XXVII. Implementar en coordinación con los Municipios, acciones enfocadas a colocar y homogeneizar la señalética, en idioma español e inglés, lenguas originarias de la región que se trate, y de inclusión, en los destinos turísticos;
-
-XXVIII. Agilizar los procesos de atención a la ciudadanía en materia turística y artesanal, mediante la implementación de plataformas digitales y uso de las tecnologías de la información, disminuyendo los trámites ante la Secretaría;
-
-XXIX. A través del IIFAEM asesorar y capacitar a las y los artesanos mexiquenses en materia de propiedad intelectual y demás temas que fortalezcan su desarrollo, así como el de los prestadores de servicios turísticos;
-
-XXX. Emitir opiniones a la Secretaría Federal en la materia;
-
-XXXI. Elaborar el Plan de Mercadotecnia de Turismo Sostenible y Desarrollo Artesanal del Estado de México;
-
-XXXII. Crear las marcas turísticas y logotipos del Estado y de cada una de sus veinte regiones y tener bajo su cargo el uso y la comercialización de éstos, en su respectivo ámbito de competencia, debiendo dirigir el producto que originen estas acciones al Fideicomiso. Las marcas y logotipos no afectarán en ningún sentido y momento a las marcas creadas y registradas por prestadores de servicios turísticos y artesanos de manera particular, acerca de sus servicios y productos, y
-
-XXXIII. Las demás previstas en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
-
-###### Artículo 8.
-
-Corresponde a los Municipios, de conformidad con lo dispuesto en esta Ley y en el marco jurídico relativo y aplicable en materia turística sostenible y artesanal, las siguientes atribuciones:
-
-I. Formular, aprobar y evaluar la política turística sostenible y de desarrollo artesanal de su municipio;
-
-II. Celebrar convenios con la Federación, el Estado, otros Estados y otros Municipios en materia turística sostenible y artesanal conforme a lo dispuesto en la presente Ley;
-
-III. Aplicar los instrumentos de política turística sostenible y artesanal que les sean atribuidos por las normas federales y locales, así como la planeación, programación, fomento y desarrollo de las actividades turística y artesanal en bienes y áreas de competencia municipal;
-
-IV. Aprobar y evaluar conforme a los lineamientos establecidos, el Programa Municipal y hacerlo del conocimiento a la Secretaría;
-
-V. Promover la participación de la comunidad, autoridades auxiliares y Comités de Participación Ciudadana en la toma de decisiones de proyectos turísticos y artesanales que se realicen o pretendan desarrollar en el territorio municipal, utilizando entre otras metodologías de acción participativa los foros de consulta;
-
-VI. Proponer políticas de turismo accesible con la finalidad de que los espacios turísticos cuenten con las adecuaciones necesarias para atender a las personas con discapacidad;
-
-VII. Respetar, preservar y difundir los usos, costumbres y la cosmovisión de los pueblos indígenas de su municipio en el ámbito turístico y artesanal;
-
-VIII. Incluir en los Bandos Municipales normas para el fomento de la actividad turística sostenible y artesanal y protección del patrimonio cultural;
-
-IX. Promover y vigilar que los sectores turístico y artesanal de su municipio realicen acciones con enfoque sostenible y regenerativo;
-
-X. Realizar obras de infraestructura y servicios públicos necesarios para ofrecer las condiciones de seguridad, accesibilidad, orientación, satisfacción y asistencia a los excursionistas, turistas y visitantes nacionales y extranjeros, que garanticen sus derechos y obligaciones;
-
-XI. Organizar y realizar eventos entre municipios vecinos y afines, para la difusión, promoción y venta de productos artesanales representativos de la región;
-
-XII. Promover el desarrollo e impulso de micro, pequeñas y medianas empresas turísticas y artesanales con enfoque sostenible;
-
-XIII. Operar módulos de información y orientación turística y artesanal, que incluyan el uso de las tecnologías de información, páginas de internet o redes sociales oficiales con fines turísticos y artesanales;
-
-XIV. Promover la participación de los habitantes de comunidades indígenas en consultas, de manera libre e informada para que emitan sus opiniones cuando se pretenda realizar un programa en materia turística y/o artesanal en su territorio;
-
-XV. Supervisar el cumplimiento de las funciones y desempeño del Director de Turismo en el municipio, conforme a las facultades que le otorga la presente Ley y demás disposiciones legales;
-
-XVI. Establecer el Consejo Municipal;
-
-XVII. Participar en el Programa de Ordenamiento Turístico del Territorio del Estado;
-
-XVIII. Atender los demás asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística sostenible y artesanal les conceda esta Ley u otros ordenamientos legales en concordancia con ella y que no estén otorgados expresamente al Ejecutivo Federal, Estados o la Ciudad de México;
-
-XIX. Emitir opinión ante la Secretaría en aquellos casos en que la inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos dentro de su territorio, y
-
-XX. Las demás previstas en este y otros ordenamientos vigentes aplicables.
-
-###### Artículo 9.
-
-Además de lo señalado en la Ley Orgánica Municipal del Estado de México, el Director de Turismo tendrá las siguientes atribuciones:
-
-I. Elaborar y ejecutar el Programa Municipal de Turismo Sostenible y Desarrollo Artesanal, en congruencia con el Plan Estatal de Desarrollo; con el Plan Nacional de Desarrollo; con las políticas y los convenios internacionales firmados y ratificados por el Gobierno Federal, en materia turística y artesanal, y demás disposiciones legales aplicables;
-
-II. Informar y hacer partícipe a la comunidad, a las autoridades auxiliares y los Comités de Participación Ciudadana, utilizando metodologías de acción participativa, los proyectos turísticos y artesanales que se realicen o pretendan desarrollar en el territorio municipal;
-
-III. Implementar acciones de simplificación administrativa y mejora regulatoria que faciliten y promuevan la comercialización de los productos y servicios turísticos y artesanales, bajo los principios de legalidad y equidad;
-
-IV. Promover entre los habitantes del municipio, los prestadores de servicios turísticos y las personas artesanas, la conciencia turística sostenible, las buenas prácticas, la preservación de la identidad del municipio y los usos y costumbres de los pueblos originarios ubicados en su territorio;
-
-V. Elaborar, integrar y mantener actualizado el Registro Municipal, el Catálogo Municipal y el Registro Municipal de Artesanas y Artesanos;
-
-VI. Colaborar y contribuir con la Secretaría para actualizar el Registro Estatal, el Atlas, el Observatorio, el Registro Estatal de Artesanas y Artesanos; y el Catálogo Mexiquense en los plazos que la Secretaría determine;
-
-VII. Otorgar la credencial de prestador de servicios turísticos a la persona que cumpla con los requisitos que establece la presente ley;
-
-VIII. Ejecutar las políticas de turismo accesible en coordinación con las áreas correspondientes;
-
-IX. Proponer ante la Secretaría y coadyuvar con está en la ejecución de programas municipales de señalética turística acorde a la imagen turística estatal;
-
-X. Ejecutar concursos, programas y/o eventos de apoyo a los sectores turístico y artesanal, difundiendo con anticipación las convocatorias correspondientes;
-
-XI. Coadyuvar con la Secretaría en la difusión de las convocatorias de concursos, programas y/o eventos de carácter turístico y artesanal;
-
-XII. Verificar el correcto funcionamiento de los módulos de información y orientación turística y artesanal, que incluyan el uso de las tecnologías de información, páginas de internet o redes sociales oficiales en materia turística y artesanal;
-
-XIII. Convocar a las comunidades de pueblos originarios a consultas, de manera libre e informada, para que emitan sus opiniones cuando se pretenda realizar un programa en materia turística y/o artesanal en su territorio;
-
-XIV. Promover ante las instituciones educativas públicas y privadas, la visita a los atractivos turísticos del territorio municipal, fomentando la actividad turística y artesanal;
-
-XV. Difundir el Decálogo del Visitante Responsable; y
-
-XVI. Las demás previstas en éste y otros ordenamientos.
+V. Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta ley.
 
 ###### Artículo 10.
 
-El Consejo Consultivo de Turismo Sostenible y Desarrollo Artesanal del Estado de México es un órgano colegiado interinstitucional y de consulta, en el que participan funcionarios del sector público y representantes del sector social, el cual fungirá como una instancia de consulta, asesoría y opinión técnica directa de la Secretaría y otras dependencias y organismos auxiliares del Ejecutivo en materia turística y artesanal, con el objeto de hacer recomendaciones al respecto, propiciando la coordinación activa, comprometida y responsable de los sectores público, social y privado, cuya actuación incida directa o indirectamente en el turismo y el sector artesanal del Estado, para la concertación de las políticas, planes y programas en ambas materias.
+Los municipios, conforme a las leyes aplicables promoverán la desconcentración de los servicios sanitarios básicos de su competencia a sus correspondientes sindicaturas y comisarías municipales.
 
 ###### Artículo 11.
 
-El Consejo Estatal estará presidido por el titular del Ejecutivo Estatal y en su ausencia, por el titular de la Secretaría; estará integrado por los representantes de las dependencias y entidades de la administración pública estatal relacionados en materia turística y artesanal, la o el Presidente de la Comisión Legislativa de Desarrollo Turístico y Artesanal de la Entidad, miembros del sector académico y por los Presidentes Municipales, que representen a las regiones que conforman el Estado en términos de su Reglamento.
+Podrá el Gobierno del Estado celebrar convenios de coordinación y cooperación sanitaria con los gobiernos de las entidades circunvecinas, sobre aquellas materias que sean de interés común.
 
-Los cargos de los integrantes serán honoríficos, por lo que no recibirán retribución o compensación alguna, por el desempeño de esta labor.
+Asimismo, los ayuntamientos circunvecinos del Estado podrán celebrar entre ellos, con sujeción a las disposiciones aplicables de la Ley de Gobierno Municipal, convenios de coordinación y cooperación sobre materias sanitarias que sean de la competencia municipal.
 
 ###### Artículo 12.
 
-El Consejo Estatal podrá invitar a instituciones y entidades públicas, federales, locales y municipales, privadas y sociales que se determinen, y además a personas relacionadas con la actividad turística y artesanal en el Estado, con derecho a voz, pero sin voto.
+El Estado, de conformidad con las disposiciones legales aplicables, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios para la operación de los servicios de salubridad general que queden comprendidos en los acuerdos de coordinación que al efecto se celebren.
+
+Los recursos que se aporten quedarán expresamente afectos a los fines del acuerdo respectivo y sujetos al régimen legal que les corresponda. La gestión de los mismos quedará a cargo de la estructura administrativa que establezcan, coordinadamente, la Federación y el Estado.
 
 ###### Artículo 13.
 
-El Consejo Estatal tendrá las atribuciones siguientes:
-
-I. Conocer los programas y acciones que lleve a cabo la Secretaría para realizar recomendaciones de mejora;
-
-II. Realizar aportaciones al Plan de Mercadotecnia de Turismo Sostenible y Desarrollo Artesanal del Estado de México;
-
-III. Proponer programas y proyectos estratégicos en materia turística sostenible y desarrollo artesanal, necesarios para el crecimiento económico, atracción de capitales y, en general, el progreso de ambas actividades en la entidad mexiquense;
-
-IV. Proponer a la Secretaría las medidas que contribuyan a garantizar la congruencia de los programas y acciones que impacten las actividades turística y artesanal de la Entidad;
-
-V. Analizar los asuntos que tengan un impacto negativo en la actividad turística y artesanal del Estado, con el objeto de proponer soluciones y acciones específicas para su atención, y
-
-VI. Las demás que en el ámbito de su competencia le sean conferidas en el presente ordenamiento y diversas disposiciones jurídicas aplicables.
+Los ingresos que obtenga el Gobierno del Estado por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los acuerdos de coordinación con la Secretaría de Salud y lo que determine la legislación fiscal aplicable.
 
 ###### Artículo 14.
 
-El Consejo Estatal expedirá su reglamento, que establecerá los procedimientos para la toma de decisiones y la forma de su organización interna.
+Las bases y modalidades del ejercicio coordinado de las atribuciones de los gobiernos estatal y municipal en la prestación de servicios de salubridad general concurrente, se establecerán en los convenios que al efecto se celebren, en los términos de esta ley y de las demás disposiciones legales aplicables.
 
-## TÍTULO SEGUNDO. De las Autoridades Competentes en Materia de Turismo Sostenible y Desarrollo Artesanal y de los Consejos
+## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
-### CAPÍTULO II. Del Consejo Consultivo de Turismo Sostenible y Desarrollo Artesanal del Estado de México
+### CAPÍTULO ÚNICO. DE SU CONSTITUCIÓN Y OBJETIVOS
 
 ###### Artículo 15.
 
-El Consejo Estatal se reunirá semestralmente en forma ordinaria y podrán reunirse en forma extraordinaria las veces que se requiera.
-
-Las sesiones del Consejo serán validadas con la asistencia de más de la mitad de sus integrantes y sus resoluciones se tomará por mayoría de votos de los presentes; en caso de empate, el Presidente tendrá voto de calidad.
+El Sistema Estatal de Salud, estará constituido por las dependencias y entidades públicas y las personas físicas o morales de los sectores social y privado, que presten servicios de salud y su competencia se define por esta ley y demás disposiciones legales aplicables.
 
 ###### Artículo 16.
 
-Los Consejos Consultivos Municipales de Turismo Sostenible y Desarrollo Artesanal son órganos de consulta, asesoría y apoyo técnico de los municipios que tienen por objeto integrar estrategias y mecanismos que impulsen el desarrollo del turismo y de la actividad artesanal en el Estado en cuanto a los destinos turísticos que representan.
+El Sistema Estatal de Salud, con la intervención que corresponda a la Secretaría de Salud y al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración, en materia de planeación de los servicios de salud en el Estado, a fin de dar cumplimiento al derecho a la protección de la salud, de conformidad con las disposiciones de esta ley y las que al efecto sean aplicables.
 
 ###### Artículo 17.
 
-Los Consejos Municipales serán presididos por el Presidente Municipal y conformados por los funcionarios municipales que tengan a su cargo la materia turística, dos representantes de las y los prestadores de servicios turísticos, dos representantes de las y los artesanos, y un ciudadano, que sean habitantes del municipio.
+El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-La elección de los representantes de las y los prestadores de servicios turísticos, así como los representantes de las y los artesanos, se considerarán del Registro Municipal y del Registro Municipal de Artesanas y Artesanos, siendo elegidos democráticamente por los prestadores de servicios turísticos y los artesanos respectivamente, debiendo reunir los requisitos establecidos en la convocatoria que emita el Ayuntamiento para dicho fin, la cual atenderá los principios de equidad de género.
+I. Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen o causen daños a la salud, con especial interés en las acciones preventivas;
 
-El ciudadano será electo de los que se postulen para participar, quien deberá cumplir con los requisitos señalados en la misma convocatoria.
+II. Contribuir al adecuado desarrollo demográfico del Estado;
 
-Las y los representantes de los prestadores de servicios turísticos y artesanos durarán en su cargo un año, así como el representante ciudadano, y no podrán ser reelectos para el periodo inmediato.
+III. Contribuir al bienestar social de la población mediante la prestación de servicios de atención médica y la coordinación de los servicios de asistencia social, para fomentar el desarrollo físico, mental y social de grupos vulnerables;
 
-El Consejo Municipal expedirá su reglamento en concordancia con el establecido por el Consejo Estatal.
+IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
+
+V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que propicien el desarrollo satisfactorio de la vida;
+
+VI. Impulsar, en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+
+VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección; y
+
+VIII. Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
 
 ###### Artículo 18.
 
-La convocatoria que emita el Ayuntamiento para la elección de las y los representantes de los prestadores de servicios turísticos y de las y los artesanos, y el ciudadano, será emitida treinta días naturales antes de la elección, la cual se realizará antes del 30 de marzo del año corriente.
+La coordinación del Sistema Estatal de Salud estará a cargo del Director General de los Servicios de Salud de Sinaloa, tendrá las atribuciones siguientes:
 
-Una vez realizada la elección mencionada, el Director de Turismo llevará a cabo la instalación del Consejo Municipal en los próximos cinco días hábiles a ésta, debiendo convocar a cada uno de los miembros.
+I. Establecer y conducir la política estatal en materia de salud en los términos de esta ley, demás disposiciones legales aplicables, y congruentes con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal;
+
+II. Coordinar los programas de servicios de salud de las entidades de la Administración Pública Estatal;
+
+III. Apoyar la coordinación de los programas y servicios de salud de toda entidad pública, en los términos de la legislación aplicable y de los acuerdos de coordinación que, en su caso, se celebren;
+
+En cuanto a los programas y servicios de las instituciones federales de seguridad social el apoyo se realizará tomando en cuenta lo que previenen las leyes que rijan el funcionamiento de éstas;
+
+IV. Impulsar la desconcentración y descentralización de los servicios de salud a los municipios;
+
+V. Promover, coordinar y realizar la evaluación de programas y servicios de salud que les sea solicitada por el Ejecutivo Estatal;
+
+VI. Determinar la periodicidad y características de la información que deberán proporcionar las entidades de salud del Estado, con sujeción a las disposiciones legales aplicables;
+
+VII. Coordinar el proceso de programación de las actividades de salud en el Estado;
+
+VIII. Formular recomendaciones a las entidades competentes sobre la asignación de recursos por programa, por unidad presupuestal, por organismo o por objeto de gasto que se requieran para la prestación de servicios de salud en el Estado;
+
+IX. Impulsar, en el ámbito estatal, las actividades científicas y tecnológicas en el campo de salud;
+
+X. Coadyuvar con las dependencias federales competentes a la regulación y control de la transferencia de tecnología en el área de salud;
+
+XI. Colaborar con las dependencias federales para la integración y coordinación del Sistema Nacional de Información Básica en materia de salud;
+
+XII. Promover el establecimiento de un sistema estatal de información básica en materia de salud;
+
+XIII. Apoyar la coordinación entre instituciones de salud y educativas del Estado en la planeación para la formación y capacitación de recursos humanos para la salud;
+
+XIV. Coadyuvar a que la formación y distribución de los recursos humanos para la salud, sea congruente con las prioridades del Sistema Estatal de Salud;
+
+XV. Promover e impulsar la participación de la población del Estado, en el cuidado de su salud;
+
+XVI. Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+
+XVII. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
 
 ###### Artículo 19.
 
-Los requisitos que deberá contemplar la convocatoria para las y los representantes de los prestadores de servicios turísticos y las y los artesanos, así como del ciudadano, serán:
+Los Servicios de Salud de Sinaloa, promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
-I. Ser vecino del municipio, con una residencia mínima de cinco años;
-
-II. Estar al corriente en la declaración y pago de sus obligaciones y contribuciones, de conformidad con lo establezcan las autoridades fiscales correspondientes;
-
-III. Ser de reconocida honorabilidad;
-
-IV. Ser de reconocido trabajo en pro de su gremio; y
-
-V. Presentar un proyecto de trabajo que promueva el desarrollo y progreso, en su caso del sector turístico, o bien para el sector artesanal.
-
-Tratándose del representante ciudadano deberá cubrir los requisitos señalados en las fracciones I, II, III y V anteriormente descritas.
+Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
 ###### Artículo 20.
 
-Los integrantes del Consejo Municipal ejercerán el cargo de forma honorífica, por lo que no recibirán retribución o compensación alguna, por el desempeño de esta labor.
+La concertación de acciones entre los Servicios de Salud de Sinaloa, y los integrantes de los sectores social y privado se realizará, mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+
+I. Se establecerán las responsabilidades que asumirán los integrantes de los sectores social y privado;
+
+II. Se determinarán las acciones de orientación, estímulo y apoyo que llevará a cabo los Servicios de Salud de Sinaloa;
+
+III. Se especificará el carácter operativo de la concertación de acciones, con reserva de las funciones de las autoridades sanitarias; y
+
+IV. Se expresarán las demás estipulaciones que, de común acuerdo, establezcan las partes.
 
 ###### Artículo 21.
 
-El Consejo Municipal sesionará mínimo cada dos meses, teniendo todos sus integrantes voz y voto. En caso de empate, el presidente contará con voto de calidad.
+El titular del Poder Ejecutivo del Estado por conducto de la Secretaría de Salud y con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
 
-## TÍTULO TERCERO. De la Política y Planeación de la Actividad Turística
+## TÍTULO TERCERO. SERVICIOS DE SALUD
 
-### CAPÍTULO III. Consejos Consultivos Municipales de Turismo Sostenible y Desarrollo Artesanal
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 22.
 
-El Consejo Municipal podrá invitar a instituciones y entidades públicas, locales y municipales, privadas y sociales que se determinen, y además a personas relacionadas con el turismo en el Estado, con participación única y exclusivamente con derecho a voz.
+Se consideran servicios de salud todas aquellas acciones realizadas en beneficio del individuo y de la población en el Estado, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad.
 
 ###### Artículo 23.
 
-El Director de Turismo del Ayuntamiento tendrá a su cargo apoyar al presidente en todas las actividades inherentes al desarrollo de las sesiones, así como dar seguimiento de los acuerdos tomados en el seno del Consejo Municipal.
+Los servicios de salud se clasifican en:
+
+I. De atención médica;
+
+II. De salud pública; y
+
+III. De asistencia social.
 
 ###### Artículo 24.
 
-La Secretaría elaborará el Programa Estatal de Turismo Sostenible, para su aprobación por el Titular del Ejecutivo Estatal, y que se sujetará a los objetivos y metas establecidas para el sector en los Planes Estatal y Nacional de Desarrollo.
-
-La Secretaría debe especificar en el programa las políticas, objetivos y prioridades que regirán a la actividad turística, investigará las características de la demanda y los destinos turísticos naturales y culturales con que cuenta el Estado.
+Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
 
 ###### Artículo 25.
 
-El Programa planteará acciones para la modernización del sector turístico del Estado, a través de la diversificación y consolidación del mismo, buscando el desarrollo de la competitividad y sostenibilidad de las regiones, de acuerdo con su vocación turística.
+Para la organización y administración de los servicios de salud, se definirán criterios de distribución de usuarios, de regionalización, de escalonamiento de los servicios, universalización de cobertura y coordinación interinstitucional.
 
 ###### Artículo 26.
 
-El Programa determinará las políticas, objetivos, prioridades, metas, lineamientos y acciones a impulsar conforme a esta Ley, y tendrá que referirse, de manera enunciativa y no limitativa, a los siguientes aspectos:
+Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud los referentes a:
 
-I. Fomento y promoción turística;
+I. La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
-II. Infraestructura y atractivos turísticos;
+II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III. Zonas de Interés Turístico Sustentable;
+III. La atención médica, que comprende las actividades preventivas, curativas y de rehabilitación incluyendo la atención de urgencias;
 
-IV. Proyectos estratégicos de desarrollo turístico;
+IV. La atención materno infantil;
 
-V. Aprovechamiento turístico del patrimonio histórico, cultural y arquitectónico de cada región;
+V. La planificación familiar;
 
-VI. Servicios Turísticos primordiales y complementarios;
+VI. La salud mental;
 
-VII. Desarrollo del turismo sostenible y accesible;
+VII. Prevención y control de las enfermedades bucodentales;
 
-VIII. Las formas de hacer turismo que reconoce esta Ley;
+VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-IX. Atención y facilitación de la actividad turística;
+IX. La promoción del mejoramiento de la nutrición;
 
-X. Capacitación y certificación a los prestadores de servicios turísticos;
+X. La asistencia social a los grupos vulnerables; y
 
-XI. Mecanismos de estímulo y financiamiento a la actividad turística, y
-
-XII. Mecanismos de coordinación y participación con los sectores público, social y privado para el impulso y fomento de la actividad turística.
+XI. Las demás que establezcan esta ley y otras disposiciones legales aplicables.
 
 ###### Artículo 27.
 
-El Programa promoverá el financiamiento y crecimiento de la infraestructura turística, con la participación y colaboración del sector público y privado, para el fomento de los destinos con potencial turístico.
+El Gobierno del Estado, de conformidad con las disposiciones aplicables, vigilará que las instituciones que presten servicios de salud en la entidad, apliquen el Cuadro Básico de Insumos del Sector Salud. Asimismo, convendrá con el Gobierno Federal los términos en que las dependencias y entidades del Estado que presten servicios de salud, podrán participar en la elaboración del mencionado Cuadro Básico.
 
 ###### Artículo 28.
 
-La Secretaría será la encargada de formular el Programa, al inicio de cada administración y partirá en sus conceptos de lo previsto en el Plan de Desarrollo Estatal, de la presente Ley y considerando los proyectos y propuestas del sector público, privado, social y académico vinculados con el turismo, presentados en los foros de consulta regionales que para tal efecto deberá llevar a cabo.
+El Gobierno del Estado coadyuvará con las autoridades federales competentes, para que se garantice a la población del Estado la disponibilidad de medicamentos esenciales.
 
 ###### Artículo 29.
 
-La Secretaría, tomando en consideración las opiniones del Consejo Estatal, someterá para su análisis y aprobación, el Programa y las acciones derivadas del mismo ante el Ejecutivo.
+El Gobierno del Estado coadyuvará en coordinación con las demás dependencias estatales para que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establecen las leyes aplicables.
 
 ###### Artículo 30.
 
-El Programa se publicará en el Periódico Oficial "Gaceta del Gobierno", así como en la página de internet del Gobierno del Estado y de la Secretaría.
+El Gobierno del Estado, en coordinación con las dependencias competentes del Ejecutivo Federal coadyuvará a asegurar en el Estado la adecuada distribución, comercialización y fijación de los precios máximos de venta al público de los medicamentos y demás insumos de salud.
 
-### CAPÍTULO I. Del Programa Estatal de Turismo Sostenible
+### CAPÍTULO II. DE LA PROMOCIÓN DE LA SALUD
 
 ###### Artículo 31.
 
-La Secretaría informará de manera anual el cumplimiento del Programa ante el Consejo Estatal, quien emitirá opinión respecto de los resultados y emitirá las observaciones pertinentes.
+La promoción de la salud tiene como objetivos crear, conservar y mejorar, las condiciones deseables de salud para toda la población, y propiciar en el individuo, las actitudes, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
 
 ###### Artículo 32.
 
-La elaboración del Atlas será facultad de la Secretaría, quien deberá coordinarse con otras dependencias estatales, instituciones académicas y los Municipios, para efectos de la actualización permanente de esta herramienta.
+La promoción de la salud comprende:
 
-### CAPÍTULO II. Del Atlas Turístico y Artesanal del Estado de México
+I. La educación para la salud;
+
+II. La nutrición;
+
+III. Los efectos del ambiente en la salud; y
+
+IV. La salud ocupacional.
+
+### CAPÍTULO III. DE LA EDUCACIÓN PARA LA SALUD
 
 ###### Artículo 33.
 
-El Atlas es el registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que por sus características y valores puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo turístico y artesanal de la Entidad.
+La educación para la salud tiene por objeto:
 
-El Atlas será publicado en la página de internet de la Secretaría y el Observatorio para consulta de los turistas y contendrá una descripción de los sitios, artesanías, guías, mapas e imágenes digitales que se actualizarán anualmente, debiendo retomar la información derivada de los Catálogos Artesanales Mexiquense y Municipal.
+I. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños productos de los efectos nocivos del medio ambiente en la salud;
+
+II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas, accidentes y protegerse de los riesgos que pongan en peligro su salud; y
+
+III. Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la fármaco dependencia, alcoholismo, tabaquismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención de rehabilitación de la invalidez y detección oportuna de enfermedades.
 
 ###### Artículo 34.
 
-El Observatorio es un sistema digital y público que recopila, monitorea, genera, procesa, analiza, vigila, mide y difunde información de todas las actividades turísticas y artesanales del Estado, la Secretaría será responsable de su operación y de la información contenida.
+Las autoridades sanitarias estatales, en coordinación con las autoridades federales competentes, propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar la cobertura total de la población.
 
-### CAPÍTULO III. Del Observatorio Turístico y de la Actividad Artesanal del Estado de México
+El Gobierno del Estado, por conducto de la Secretaría de Salud, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
+
+### CAPÍTULO IV. DE LA NUTRICIÓN
 
 ###### Artículo 35.
 
-El Observatorio será permanente a través de la página de internet del Gobierno del Estado de México, integrado por:
-
-I. El Atlas;
-
-II. El Catálogo Mexiquense;
-
-III. El Registro Estatal de Artesanas y Artesanos;
-
-IV. El Registro Estatal de Turismo;
-
-V. El Sistema Estadístico de Información Turística y Artesanal del Estado de México; y
-
-VI. Publicaciones.
-
-Se entiende por publicaciones a aquellos documentos cuyo propósito sea difundir de manera pública toda información contenida en investigaciones académicas, informes, calendarios de eventos, congresos, exposiciones, ferias, festivales, festividades, carnavales, estudios oficiales, directorio de talleres artesanales y cualquier otra actividad, avalados por las instituciones y autoridades competentes en el área turística y artesanal.
+Las autoridades sanitarias, formularán y desarrollarán programas de nutrición promoviendo la participación de los mismos organismos cuyas atribuciones estén relacionadas con ese objetivo, así como de los sectores social y privado.
 
 ###### Artículo 36.
 
-El Observatorio también podrá proporcionar indicadores de las actividades turística y artesanal, perfil del visitante, tendencias y segmentos de mercado, producción y distribución artesanal, a nivel estatal y municipal.
+En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará al efecto la participación de las organizaciones campesinas, ganaderas, obreras, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
 ###### Artículo 37.
 
-El Observatorio tendrá como funciones principales y no limitativas, las siguientes:
+Las autoridades sanitarias tendrán a su cargo:
 
-I. Identificar el perfil y grado de satisfacción del Turista que visita los Destinos Turísticos mexiquenses;
+I. Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
 
-II. Medir y evaluar el desempeño del sector turístico y artesanal;
+II. Normar el desarrollo de los programas de actividades de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
 
-III. Registrar la derrama económica de los sectores turístico y artesanal en el Estado;
+III. Controlar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, en función de las mayores carencias y problemas de salud;
 
-IV. Promover mecanismos e instrumentos dirigidos a conocer las demandas de los actores de los sectores turístico y artesanal;
+IV. Normar el valor nutritivo y características de la alimentación en establecimientos de servicios colectivos;
 
-V. Construir sistemas de información técnica que permitan la generación, homologación y estandarización de indicadores en materia turística y artesanal, para facilitar su uso y consulta;
+V. Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población;
 
-VI. Proporcionar a los municipios el tablero de control de indicadores de las actividades turística y artesanal, para actualizar los datos del Sistema de Información Turística;
+VI. Recomendar las dietas y los procedimientos, que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población en general, y proveer en la esfera de su competencia a dicho consumo; y
 
-VII. Recopilar la información de los indicadores en materia turística y artesanal para elaborar los reportes mensuales;
+VII. Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos.
 
-VIII. Recopilar la investigación en materia de artesanías y desarrollo artesanal que elabore el IIFAEM, y
-
-IX. Publicar el resultado de los reportes mensuales.
-
-### CAPÍTULO IV. De la Incorporación de la Actividad Turística a las Cadenas Productivas
+### CAPÍTULO V. DE LOS EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### Artículo 38.
 
-La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, estimularán y promoverán entre el sector privado y social, la creación y fomento de cadenas productivas locales y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de fomentar el comercio local, la economía solidaria y buscar el desarrollo regional.
-
-Lo anterior, se llevará a cabo, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Observatorio.
+La Secretaría de Salud, será la autoridad que tome las medidas y realice las actividades a que se refiere esta ley, tendientes a la protección de la salud humana, ante los riesgos y daños derivados de las condiciones del ambiente, sin perjuicio de la competencia que corresponda a otras autoridades.
 
 ###### Artículo 39.
 
-La Secretaría, en coordinación con los municipios y las dependencias de la administración pública estatal, promoverán y fomentarán entre la población aquellos programas y actividades que difundan la cultura turística, con el fin de crear el conocimiento de los beneficios de la actividad turística.
+Corresponde a la Secretaría de Salud:
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+I. Aplicar los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente, que establezca la autoridad federal;
+
+II. Vigilar el cumplimiento de las Normas Oficiales Mexicanas a que deberán sujetarse el tratamiento del agua para uso y consumo humano;
+
+III. Establecer criterios sanitarios para el uso, tratamiento y disposición de aguas residuales, para evitar riesgos y daños a la salud pública;
+
+IV. Apoyar el saneamiento básico;
+
+V. Asesorar en criterios de ingeniería sanitaria de obras públicas y privadas para cualquier uso;
+
+VI. En general, ejercer actividades similares a las anteriores, ante situaciones que causen o puedan causar daños o riesgos a la salud de las personas; y
+
+VII. Participar en la elaboración del programa estatal de ecología revisable cada año en concordancia al Programa Nacional del Medio Ambiente si lo hubiere.
 
 ###### Artículo 40.
 
-La Secretaría podrá coordinarse con la Secretaría de Educación, Ciencia, Tecnología e Innovación del Estado para promover programas que difundan la importancia de respetar y conservar los atractivos turísticos y artesanales, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional y extranjero.
+Corresponde a las autoridades sanitarias:
+
+I. Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
+
+II. Vigilar la calidad del agua para uso y consumo humano; y
+
+III. Sancionar al que descargue o esparza plaguicidas u otras sustancias químicas en la atmósfera y sobre la superficie, en aguas de presas, pluviales, lagos y otras que se utilicen para riego agrícola o para uso o consumo humano que puedan provocar daños a la salud pública y ecosistemas.
 
 ###### Artículo 41.
 
-La Secretaría realizará y promoverá campañas de cultura turística, difundiendo el conocimiento de los recursos, atractivos y servicios turísticos con que cuenta el Estado, a través de la prensa, radio, cinematografía, televisión, internet y demás medios idóneos, con el objeto de proyectar una imagen real y positiva del Estado.
+La Secretaría de Salud, en el ámbito de su competencia, se coordinará con las autoridades federales correspondientes para la prestación de los servicios a que se refiere el artículo anterior.
 
 ###### Artículo 42.
 
-El Programa de Ordenamiento Turístico del Territorio Estatal, será formulado por la Secretaría, con la intervención de las autoridades locales y municipales en el ámbito de sus atribuciones y tendrá por objeto:
-
-I. Determinar la regionalización turística del territorio estatal, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos turísticos;
-
-II. Conocer y proponer la zonificación en los planes de desarrollo urbano, así como el uso del suelo, con el propósito de preservar los recursos naturales y aprovechar de manera ordenada y sostenible los recursos turísticos;
-
-III. Establecer los lineamientos y estrategias turísticas para la preservación y el aprovechamiento ordenado y sostenible de los recursos turísticos; y
-
-IV. Establecer de manera coordinada los lineamientos o directrices que permitan el uso turístico adecuado y sostenible de los bienes ubicados en las zonas declaradas como monumentos arqueológicos, artísticos e históricos.
+Los organismos, entidades y las personas que intervengan en el abastecimiento de agua, no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones legales de las Normas Oficiales Mexicanas aplicables en la materia.
 
 ###### Artículo 43.
 
-El procedimiento para formular, aprobar, expedir, evaluar, modificar y actualizar el Programa de Ordenamiento se sujetará a:
+Queda prohibida la descarga de aguas residuales o tratadas en cualquier cuerpo de agua superficial o subterránea, cuyas aguas se destinen para uso o consumo humano, excepto en los casos que determinen las Normas Oficiales Mexicanas y demás disposiciones legales en la materia.
 
-I. El Programa de Ordenamiento Turístico General y Regional del Territorio;
-
-II. Ser compatible con los ordenamientos ecológicos y programas de desarrollo urbano y uso del suelo en el Estado, y
-
-III. De conformidad a la Ley General, cuando el Programa de Ordenamiento incluya una Zona de Desarrollo Turístico Sustentable Federal, el programa será elaborado y aprobado en forma conjunta por la Secretaría y la Secretaría de Turismo Federal.
+Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas, estarán obligados a darles el tratamiento correspondiente, a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones legales aplicables.
 
 ###### Artículo 44.
 
-El Programa de Ordenamiento deberá realizarse considerando los siguientes criterios:
+La Secretaría de Salud, en coordinación con las autoridades federales competentes, o las autoridades estatales, municipales, ejidales, comunales y con los consejos de administración de las cooperativas pesqueras y con los grupos ecologistas de participación ciudadana, orientará a la población en general, con el fin de evitar la contaminación del mar, de aguas de presas, ríos, pluviales, lagos y otras que se utilicen para riego o para uso o consumo humano, originada por plaguicidas, sustancias tóxicas, aguas residuales, desperdicios de basura y desechos industriales.
 
-I. La naturaleza y características de los recursos turísticos existentes en el territorio estatal, así como el impacto ambiental y los riesgos de desastre;
-
-II. La vocación de cada zona o región, en función de sus recursos turísticos, la distribución de la población y las actividades económicas predominantes;
-
-III. Los ecológicos de conformidad con las leyes en la materia;
-
-IV. La combinación deseable que debe existir entre el desarrollo urbano, las condiciones ambientales y los recursos turísticos;
-
-V. El impacto turístico de nuevos desarrollos urbanos, asentamientos humanos, obras de infraestructura y demás actividades;
-
-VI. Las medidas de protección y conservación en las zonas de monumentos arqueológicos, artísticos e históricos de interés nacional, así como las declaratorias de monumentos históricos y artísticos, y en las demás disposiciones legales aplicables en los sitios en que existan o se presuma la existencia de elementos arqueológicos; y
-
-VII. Las previsiones contenidas en el Programa de Ordenamiento Ecológico del Territorio Estatal, así como en las declaratorias de áreas naturales protegidas y demás disposiciones jurídicas aplicables en materia ambiental.
-
-### CAPÍTULO V. De la Cultura Turística
+### CAPÍTULO VI. DE LA SALUD OCUPACIONAL
 
 ###### Artículo 45.
 
-El Programa de Ordenamiento será evaluado cada tres años por la Secretaría, en cuanto a su ejecución y resultados.
+Los Servicios de Salud de Sinaloa, ejercerán el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
 ###### Artículo 46.
 
-Podrán ser consideradas como Zonas de Interés Turístico Sustentable, aquellas que a juicio de la Secretaría constituyan un importante destino turístico por sus características histórico-culturales o naturales.
+El Gobierno del Estado, por conducto de la Dirección del Trabajo y Previsión Social, en coordinación con las autoridades federales e instituciones competentes, promoverá y desarrollará investigación multidisciplinaria, que permita prevenir, controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
-Los requisitos, mecanismos y la procedencia para establecer las Zonas de Interés Turístico Sustentable se establecerán en el Reglamento correspondiente.
+## TÍTULO CUARTO. PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-## TÍTULO CUARTO. Del Turismo Mexiquense
-
-### CAPÍTULO VI. Del Ordenamiento Turístico del Territorio Estatal
+### CAPÍTULO I. DE LAS ENFERMEDADES TRANSMISIBLES
 
 ###### Artículo 47.
 
-La Secretaría y los Municipios en el ámbito de sus respectivas competencias, podrán intervenir para impulsar la actividad turística en las Zonas de Interés Turístico Sustentable, mediante el fomento a la inversión, empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población y la diversidad biológica.
+Las autoridades sanitarias estatales realizarán actividades de vigilancia epidemiológica de prevención y control de las enfermedades transmisibles a que se refiere el artículo 134 de la Ley General de Salud.
 
 ###### Artículo 48.
 
-Las áreas naturales protegidas no podrán formar parte de las Zonas de Interés Turístico Sustentable.
+Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, elaborarán programas y realizarán campañas temporales o permanentes, para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
 
 ###### Artículo 49.
 
-El turismo mexiquense deberá ser sostenible y accesible, aplicable a todas las formas de hacer turismo, que considera plenamente las repercusiones actuales y futuras, económicas, sociales, culturales, ambientales, tecnológicas y territoriales para satisfacer las necesidades de los turistas, de la industria, del entorno y de las comunidades anfitrionas.
+Se realizarán actividades permanentes de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+
+I. Cólera, fiebre tifoidea, paratifoidea, shigellosis, amibiasis, hepatitis virales y otras enfermedades del aparato digestivo;
+
+II. Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
+
+III. Tuberculosis;
+
+IV. Difteria, tosferina, tétanos, sarampión, poliomelitis, rubeola y parotiditis infecciosa;
+
+V. Rabia, peste, brucelosis y otras zoonosis, en estos casos, la Secretaría de Salud coordinará sus actividades con las autoridades competentes;
+
+VI. Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artrópodos;
+
+VII. Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, lesihmaniasis, tripanosomiasis y onchocercosis;
+
+VIII. Sífilis, infecciones gonocóccicas, síndrome de inmunodeficiencia adquirida (SIDA) y otras enfermedades de transmisión sexual;
+
+IX. Lepra y mal del pinto;
+
+X. Micosis profundas;
+
+XI. Helmintiasis intestinales y extraintestinales; y
+
+XII. Toxoplasmosis.
 
 ###### Artículo 50.
 
-El turismo sostenible debe:
-
-I. Dar un uso óptimo a los recursos ambientales, que son un elemento fundamental del desarrollo turístico, manteniendo los procesos ecológicos esenciales y ayudando a conservar los recursos naturales y la biodiversidad;
-
-II. Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservar su patrimonio cultural, y contribuir al entendimiento y la convivencia intercultural, y
-
-III. Asegurar el desarrollo de actividades económicas viables a largo plazo, que reporten a todos los actores, beneficios socioeconómicos bien distribuidos, entre los que se cuenten oportunidades de empleo estable y digno, obtención de ingresos y servicios sociales para las comunidades anfitrionas y que contribuyan a la reducción de la pobreza.
+Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por VIH, se integra el Consejo Estatal para la Prevención y el Control del Síndrome de la Inmunodeficiencia Adquirida, como una Comisión Interinstitucional de la Administración Pública Estatal que tendrá su domicilio en la ciudad de Culiacán Rosales, Sinaloa.
 
 ###### Artículo 51.
 
-La Secretaría, con el apoyo y en coordinación con las dependencias estatales y municipales competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a las personas con discapacidad.
-
-El turismo accesible implica un proceso de colaboración entre los interesados para permitir a las personas con discapacidad en distintas dimensiones, entre ellas las de movilidad, visión, audición y cognición, actuar con independencia, igualdad y dignidad, gracias a una oferta de productos, servicios y entornos de turismo diseñados de manera universal.
+El Consejo Estatal para la Prevención y Control del Síndrome de Inmunodeficiencia Adquirida tendrá por objeto, promover, apoyar y coordinar las acciones en materia de previsión y control del SIDA.
 
 ###### Artículo 52.
 
-La Secretaría diseñará, aplicará y fomentará una política estatal que atienda al turismo accesible, en la cual se deberá de tomar en cuenta cuando menos los aspectos siguientes:
+Para el cumplimiento de su objeto el Consejo Estatal para la Prevención y Control del SIDA, tendrá las siguientes funciones:
 
-I. Fomento a la infraestructura accesible;
+I. Formular y difundir las estrategias estatales en materia de prevención, atención y control de la infección por el virus de la inmunodeficiencia humana, el síndrome de inmunodeficiencia adquirida y las infecciones de transmisión sexual;
 
-II. Aplicación de programas de calidad turística, con criterios de accesibilidad e inclusión;
+II. Definir, promover, supervisar y evaluar el desarrollo, la aplicación y el impacto de las medidas de prevención, atención y control de la infección por virus de la inmunodeficiencia humana, del síndrome de Inmunodeficiencia adquirida y de las infecciones de transmisión sexual;
 
-III. Apoyo e impulso a los destinos turísticos que faciliten el uso y disfrute de su infraestructura a personas con discapacidad, y
+III. Formular el Programa para la prevención y el control del VIH/SIDA y otras infecciones de transmisión sexual, en coordinación con las unidades administrativas competentes;
 
-IV. Impartición de cursos de capacitación y actualización al personal para atender a personas con discapacidad por parte de los prestadores de servicios turísticos.
+IV. Coordinar las acciones de las dependencias y entidades de la administración pública estatal en lo relativo a los programas de investigación, prevención y control de la infección por el virus de la inmunodeficiencia humana, el síndrome de la inmunodeficiencia adquirida y las infecciones de transmisión sexual, así como promover la concertación de acciones entre las instituciones de los sectores público, social y privado que lleven a cabo tareas relacionadas con estas materias;
+
+V. Apoyar la realización de investigaciones y eventos de carácter científico, relacionados con la materia, en coordinación con las unidades administrativas competentes;
+
+VI. Regular, promover, apoyar y realizar la difusión de la información sobre prevención, atención y control de la infección por virus de la inmunodeficiencia humana; y
+
+VII. Definir, promover, supervisar y evaluar las estrategias, los contenidos técnicos y los materiales didácticos que se utilicen en la materia para la capacitación y actualización de los prestadores de servicios de salud.
 
 ###### Artículo 53.
 
-El sector turístico, a través de los municipios, prestadores de servicios y proveedores, promoverá productos y materiales para atender a las personas con discapacidad, para que su estancia y experiencia sean agradables y seguras en los destinos turísticos.
+Es obligatorio hacer del conocimiento de la autoridad sanitaria más cercana, la presencia de las siguientes enfermedades y en los términos que a continuación se especifican:
 
-La Secretaría supervisará que lo dispuesto en este capítulo se cumpla.
+I. Inmediatamente, en los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional: fiebre amarilla, peste, cólera, tipo murino, fiebre manchada, otras nuevas enfermedades emergentes que puedan afectar a la población;
+
+II. Inmediatamente, en los casos de cualquiera enfermedad que se presente en forma de brote o epidemia;
+
+III. Dentro de las veinticuatro horas, en los casos individuales de enfermedades objeto de vigilancia internacional; poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos de encefalitis equina venezolana en humanos;
+
+IV. Inmediatamente, de los casos en que se detecte la presencia del virus de la Inmunodeficiencia Humana (VIH) o de anticuerpos de dicho virus, en alguna persona; y
+
+V. Los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada, así como los de importancia para el Estado.
 
 ###### Artículo 54.
 
-La Secretaría fomentará que los empresarios locales dedicados al sector turístico contribuyan al desarrollo con enfoque de responsabilidad social en la comunidad.
+Toda persona tiene derecho a ser informada sobre las medidas preventivas para evitar adquirir o transmitir enfermedades por contacto sexual.
 
-Todas las formas de hacer turismo que se contemplan en la presente Ley deberán cumplir con los criterios del turismo sostenible y accesible.
+Las instituciones públicas de salud ofrecerán servicios de detección de enfermedades de transmisión sexual y consejería sobre la prevención de dichas enfermedades.
 
 ###### Artículo 55.
 
-La Secretaría en coordinación con las dependencias estatales relacionadas en la materia, velarán por la protección y conservación del patrimonio agroalimentario, culinario y gastronómico mexiquenses, integrándolo en la oferta turística estatal.
-
-La Secretaría promoverá y promocionará a nivel nacional e internacional el turismo agroalimentario, culinario y gastronómico del Estado.
-
-El turismo agroalimentario es una modalidad de turismo basada en productos locales que se fundamenta en el carácter patrimonial de los sistemas de producción de alimentos, vinculados con su origen e historia. Es una actividad lúdica y educativa que expresa la cadena agroalimentaria de la tierra al plato.
-
-El turismo culinario se caracteriza por la experiencia de gustativa del visitante, de la cocina tradicional propia de cada región, implica la visita y consumo a productores locales, ferias, tianguis, mercados, cocinas y puestos fijos y semifijos. Esta actividad se enfoca en la transición de la cocina al plato.
-
-El turismo gastronómico resulta de la búsqueda y consumo de platillos gourmet, cuya experiencia se basa en la innovación de la cocina tradicional, así como la participación en festivales y ferias gastronómicas o la asistencia a clases de cocina. Es una experiencia hedónica centrada en los atributos estéticos y sensoriales del plato.
+Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso a las autoridades sanitarias de las enfermedades transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica.
 
 ###### Artículo 56.
 
-La Secretaría reconocerá la labor de las y los agricultores, recolectores, cocineras y cocineros tradicionales y gastrónomos mexiquenses, desde un enfoque turístico, salvaguardando sus técnicas y métodos de producción culinaria.
+Están obligados a dar aviso, en los términos del artículo anterior a esta ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole y, en general, toda persona que por circunstancias ordinarias o accidentales, tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta sección.
 
 ###### Artículo 57.
 
-La Secretaría incorporará y fomentará a la artesanía como componente funcional en las políticas, programas y proyectos de desarrollo y promoción de productos turísticos.
+Las medidas que se requieran para la prevención y el control de las enfermedades a que se refiere el artículo 49 de esta ley, deberán ser observadas por los particulares. El ejercicio de estas acciones por parte de los profesionales, técnicos o auxiliares de salud, comprenderán, según el caso de que se trate, una o más de las siguientes medidas:
 
-La Secretaría en coordinación con los Municipios, promoverán campañas de comercio de los productos artesanales originales ante los visitantes y turistas para fortalecer el turismo de artesanías y artesanal.
+I. Confirmación de la enfermedad por los medios clínicos disponibles;
 
-El turismo de artesanías se entiende como aquella actividad que consiste en trasladarse, recorrer y visitar un lugar para conocer, contemplar y adquirir piezas, objetos o productos de identidad cultural comunitaria, hechas a mano, apoyados de sencillos implementos, imprimiendo técnicas, símbolos e ideología tradicionales propias de la comunidad.
+II. El aislamiento por el tiempo estrictamente necesario de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
 
-El turismo artesanal es la actividad de trasladarse, recorrer y visitar los talleres artesanales con la finalidad de conocer o aprender las técnicas de elaboración de las artesanías.
+III. La observación, en el grado que se requiera, de los contactos humanos y animales;
+
+IV. La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos, siempre que la condición inmunológica del sujeto lo permita sin poner en riesgo su salud;
+
+V. La descontaminación microbiana y parasitaria, desinfección y desinfestación de zonas, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
+
+VI. La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando representen peligro para la salud;
+
+VII. La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
+
+VIII. Las demás que determine esta ley, sus reglamentos y la Secretaría de Salud.
 
 ###### Artículo 58.
 
-La Secretaría establecerá y regulará en coordinación con las dependencias en materia de prevención y seguridad, las medidas necesarias para operar las actividades del turismo de aventura.
-
-El turismo de aventura tiene lugar en destinos con características geográficas y paisajes específicos, que incluye la práctica de actividades desafiantes en ambientes de aire, tierra, hielo y agua.
-
-La Secretaría establecerá los lineamientos sobre el equipamiento e infraestructura que deben de cumplir los prestadores de servicios turísticos para la operación del turismo de aventura.
+Las autoridades sanitarias y no sanitarias cooperarán en el ejercicio de las acciones para combatir las enfermedades transmisibles, adoptando las medidas resultantes de las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
 ###### Artículo 59.
 
-La Secretaría desarrollará el producto del turismo de ciudad y lo promocionará a nivel nacional e internacional, en colaboración con las dependencias competentes en la materia.
-
-Los destinos urbanos ofrecen un espectro amplio y heterogéneo de experiencias y productos culturales, arquitectónicos, tecnológicos, sociales y naturales para el tiempo libre y los negocios.
-
-La Secretaría se coordinará con los Municipios para promocionar el comercio de las artesanías y la manualidad turística mexiquense, en los centros urbanos del Estado.
+Las autoridades sanitarias estatales coordinarán sus actividades con otras entidades públicas para la investigación, prevención y control de las enfermedades transmisibles.
 
 ###### Artículo 60.
 
-La Secretaría en coordinación con las dependencias y entidades competentes, promoverán el desarrollo del turismo cultural del Estado a nivel estatal, nacional e internacional.
-
-Estos atractivos y productos turísticos se refieren a un conjunto de elementos materiales, intelectuales, espirituales y emocionales distintivos de una sociedad que engloba las artes y la arquitectura, el patrimonio histórico y cultural, el patrimonio gastronómico, la literatura, la música, las industrias creativas y las culturas vivas con sus formas de vida, sistemas de valores, creencias y tradiciones.
-
-La Secretaría y los Municipios promoverán, de manera permanente, ante los excursionistas, visitantes, turistas y población en general, las zonas, monumentos y sitios arqueológicos, así como lugares históricos de cada lugar turístico.
+Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias, de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos a su alcance para proteger la salud individual y colectiva.
 
 ###### Artículo 61.
 
-La Secretaría se coordinará con las dependencias correspondientes y los municipios para el desarrollo de eventos deportivos en el territorio mexiquense.
-
-El turismo deportivo se refiere a la experiencia de viajar del turista como espectador, o bien como participante activo, en un evento deportivo que implica por lo general actividades comerciales y no comerciales de naturaleza competitiva.
+Los trabajadores de la salud de las instituciones públicas estatales y municipales, así como los de otras instituciones facultadas por las autoridades sanitarias del Estado, cuando así lo requieran las necesidades técnicas de los programas específicos de prevención y control de enfermedades, o situaciones que pongan en peligro la salud de la población, tendrán acceso al interior de todo tipo de local o casa habitación, para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán contar con la autorización, debidamente fundada y motivada por la autoridad competente, en los términos de las disposiciones legales aplicables.
 
 ###### Artículo 62.
 
-La Secretaría fomentará las prácticas regenerativas en los destinos con esta vocación turística.
-
-El ecoturismo se desarrolla en un ambiente natural, siendo la motivación esencial del visitante observar, aprender, descubrir, experimentar y apreciar la diversidad del patrimonio biocultural, con una actitud responsable, para proteger la integridad del ecosistema y fomentar el bienestar de la comunidad local.
+Quedan facultadas las autoridades para utilizar como elementos auxiliares, en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado, existentes en las regiones afectadas y en las colindantes de acuerdo con las disposiciones de esta ley y los reglamentos aplicables.
 
 ###### Artículo 63.
 
-La Secretaría, en coordinación con las dependencias competentes, promoverá salidas didácticas en las escuelas del nivel básico a los diversos atractivos turísticos mexiquenses.
-
-El turismo educativo tiene como motivación primordial la participación y experiencia del turista en actividades de aprendizaje, mejora personal, crecimiento intelectual y adquisición de habilidades; representa un amplio espectro de productos y servicios relacionados con los estudios académicos, las vacaciones para potenciar habilidades, los viajes escolares, el entrenamiento deportivo, los cursos de desarrollo de carrera profesional y los cursos de idiomas, entre otros.
+Las autoridades sanitarias del Estado, con el debido fundamento y motivación, podrán señalar el tipo de enfermos o portadores de gérmenes que, necesariamente, deban ser excluidos de los sitios de reunión, tales como hoteles, restaurantes, fábricas, talleres, cárceles, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos y deportivos.
 
 ###### Artículo 64.
 
-La Secretaría en coordinación con las dependencias en la materia, identificará, reconocerá e impulsará el desarrollo de territorios micoturísticos para uso y preservación de los ecosistemas donde se producen hongos silvestres comestibles de interés socioeconómico.
-
-Se entiende por turismo micológico aquella actividad sostenible para el aprovechamiento integral de los hongos silvestres comestibles, su conocimiento, recolección y degustación.
-
-Entre las actividades contempladas en esta forma de hacer turismo se encuentran:
-
-I. Senderismo micológico;
-
-II. Recolección recreativa;
-
-III. Ferias y eventos, y
-
-IV. Micogastronomía.
-
-Los hongos silvestres comestibles de la Entidad se consideran como un elemento emblemático de la cocina tradicional mexiquense y un alimento de temporada que deberá integrarse a la oferta turística del Estado.
+El aislamiento de las personas que padezcan enfermedades transmisibles se llevará a cabo en sitios adecuados, a juicio de la autoridad sanitaria.
 
 ###### Artículo 65.
 
-La Secretaría, en coordinación con las dependencias y entidades competentes de la administración pública estatal y municipal, prestadores de servicios y sectores social y privado, fomentarán el turismo de negocios en el Estado.
-
-El turismo de negocios es la actividad en la que los visitantes asisten por un motivo profesional y/o por negocios a un lugar situado fuera de su entorno de trabajo y residencia.
-
-Los componentes clave del turismo de negocios son las reuniones, viajes de incentivos, congresos, convenciones, coloquios, ferias, exposiciones comerciales y demás eventos de carácter profesional y comercial.
+Las autoridades sanitarias del Estado podrán ordenar, fundadamente, por causas de epidemia, la clausura temporal o definitiva, en su caso, de los locales o centros de reunión de cualquier índole.
 
 ###### Artículo 66.
 
-La Secretaría promoverá ante las dependencias del orden estatal y municipal en materia de seguridad pública, la seguridad de los peregrinos y visitantes.
-
-El turismo religioso consiste en acudir a sitios, asociados con alguna religión, que por su valor histórico, cultural, arquitectónico y simbólico se constituyen en centros de reunión periódica o constante de visitantes, así como la asistencia a peregrinaciones y celebraciones religiosas.
+El transporte de enfermos de afecciones transmisibles deberá efectuarse en vehículos acondicionados al efecto, a falta de éstos, podrán utilizarse los que determine la autoridad sanitaria. Los mismos podrán usarse posteriormente para otros fines, previa la aplicación de las medidas que procedan.
 
 ###### Artículo 67.
 
-La Secretaría promoverá el turismo de romance en la Entidad a nivel nacional e internacional.
+Las autoridades sanitarias determinarán los casos en que se deberá proceder a la descontaminación microbiana o parasitaria, desinfección, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-El turismo de romance se define como una actividad donde las personas efectúan un viaje a los destinos turísticos paradisíacos con un ambiente propicio para celebrar un motivo especial: despedida de solteras y solteros, entrega de anillos, lunas de miel, renovación de votos, bodas, entre otros.
+### CAPÍTULO II. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
-### CAPÍTULO VII. De las Zonas de Interés Turístico Sustentable
-
-### CAPÍTULO I. Del Turismo Agroalimentario, Culinario y Gastronómico
+### CAPÍTULO III. DE LOS ACCIDENTES
 
 ###### Artículo 68.
 
-La Secretaría en coordinación con las dependencias relacionadas en la materia, deberán dar seguimiento y acompañamiento a las iniciativas de turismo rural mediante procesos de capacitación a la comunidad, que garanticen el desarrollo y conservación de estos espacios.
-
-El turismo rural es una modalidad turística en la que la experiencia del visitante está relacionada con el patrimonio biocultural de los territorios rurales, asociado con los recursos naturales, la agricultura, la cultura y las formas de vida del espacio rural.
-
-Se entiende como espacio rural aquel que presenta las siguientes características:
-
-I. Baja densidad demográfica;
-
-II. Paisajes y ordenamiento territorial donde prevalecen las actividades económicas primarias; y
-
-III. Estructuras sociales y formas de vida tradicionales.
+Las autoridades sanitarias del Estado, en el ámbito de su competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles que las mismas determinen.
 
 ###### Artículo 69.
 
-El turismo rural es una actividad complementaria a la estructura productiva típica del espacio rural; la Secretaría promoverá su desarrollo bajo un uso multifuncional del territorio, garantizando la conservación de las formas de vida tradicionales.
+El ejercicio de las acciones de prevención y control de las enfermedades no transmisibles comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
-La Secretaría fomentará con los prestadores de servicios turísticos rurales, se apliquen los principios de igualdad de género, con un trabajo reconocido y dignamente remunerado.
+I. La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
+
+II. La divulgación de medidas higiénicas para el control de los padecimientos;
+
+III. La prevención específica, en cada caso, y la vigilancia de su cumplimiento;
+
+IV. La realización de estudios epidemiológicos; y
+
+V. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
 ###### Artículo 70.
 
-La Secretaría en coordinación con las dependencias competentes fomentará la calidad de los prestadores de servicios que ofrezcan el turismo de salud.
+Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-El turismo de salud cubre aquellos tipos de turismo que tienen como motivación primordial la contribución a la salud física, mental y/o espiritual gracias a actividades médicas y de bienestar que mantienen o mejoran las condiciones de vida de las personas.
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
-### CAPÍTULO II. Del Turismo de Artesanías y Artesanal
-
-### CAPÍTULO III. Del Turismo de Aventura
+### CAPÍTULO II. LA ATENCIÓN MATERNO-INFANTIL
 
 ###### Artículo 71.
 
-El turismo de salud engloba dos modalidades:
-
-I. Turismo de bienestar: Es la actividad turística que aspira a mejorar y equilibrar los ámbitos principales de la vida humana, entre ellos el físico, mental, emocional, ocupacional, intelectual y espiritual. La motivación primordial del turista de bienestar es participar en actividades preventivas, proactivas y de mejora del estilo de vida, como el ejercicio, la alimentación saludable, la relajación, el cuidado personal y los tratamientos curativos, y
-
-II. Turismo médico: Es la actividad turística que implica la utilización de recursos y servicios de curación médica con carácter profesional y base científica. Puede incluir entre otros la prevención, diagnóstico, tratamiento, cura y rehabilitación.
+Para los efectos de esta ley, se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de factores potencialmente prevenibles.
 
 ###### Artículo 72.
 
-La Secretaría fomentará, difundirá e impulsará el turismo de salud que se realice en el Estado, como son aguas termales, temazcales, servicios profesionales de spa y relajación, en general, todos aquellos que comprende actividades que tengan como motivo principal o alterno recibir algún servicio de salud.
+Las acciones en materia de prevención y control de accidentes comprenden:
 
-Es obligatoria la certificación de todos los prestadores que proporcionen servicios de turismo de salud para garantizar su calidad, que estará a cargo de las autoridades competentes.
+I. El conocimiento de las causas más usuales que generan accidentes;
 
-> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+II. La adopción de medidas para prevenir accidentes;
 
-Los prestadores de servicios relacionados con el turismo de salud se sujetarán a los lineamientos y disposiciones establecidos en la Ley General de Salud, Normas Oficiales Mexicanas, en la Ley de Salud del Estado de México y demás legislación sanitaria aplicable para tal efecto.
+III. El desarrollo de la investigación para la prevención de los mismos;
+
+IV. El fomento dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
+
+V. La atención de los padecimientos que se produzcan como consecuencia de ellos; y
+
+VI. La promoción de la participación de la comunidad en la prevención de accidentes.
 
 ###### Artículo 73.
 
-La Secretaría diseñará una política pública social que impulse y promueva acciones concernientes a desarrollar el turismo social, para que la población mexiquense en desventaja económica pueda tener la facilidad de viajar con fines de ocio, recreativos, deportivos, educativos y culturales, para el disfrute del patrimonio natural y cultural y de los servicios turísticos.
+El Gobierno del Estado promoverá la colaboración de las instituciones de los sectores público, social y privado en el Estado, para establecer y desarrollar el Plan Estatal de Prevención y Control de Accidentes, comprendiendo la prevención de accidentes:
 
-El turismo social responde al derecho humano de la recreación y reivindica los principios humanistas, incluyentes y solidarios; que tiene como objetivo que la población en desventaja económica tenga acceso a actividades turísticas de ocio y recreación; sin que ello represente una afectación económica al erario ni al sector empresarial.
+I. En el hogar y en la escuela;
 
-### CAPÍTULO IV. Del Turismo Urbano o de Ciudad
+II. En el trabajo; y
 
-## TÍTULO QUINTO. De las Diferentes Formas de Hacer Turismo
+III. De tránsito.
 
-### CAPÍTULO V. Del Turismo Cultural
+Para mayor eficacia de las acciones a que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado, dicho Consejo, se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
+
+### CAPÍTULO III. DE LOS SERVICIOS DE PLANIFICACIÓN FAMILIAR
+
+## TÍTULO QUINTO. PRESTACIÓN DE LOS SERVICIOS DE SALUD
+
+### CAPÍTULO IV. DE LA SALUD MENTAL
 
 ###### Artículo 74.
 
-La Secretaría en coordinación con las dependencias y entidades públicas, podrá establecer convenios con empresas turísticas para ofrecer tarifas especiales, en los centros públicos y privados de entretenimiento, recreación, cultura, deporte y hospedaje a las personas adultas mayores.
+Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo con el fin de promover la protección o restauración de su salud.
 
-El turismo de las personas adultas mayores es aquel dirigido a atender a las personas de sesenta años o más, respecto a sus necesidades, motivaciones, deseos y expectativas de viaje, recreación y ocio.
-
-La Secretaría brindará capacitación a los prestadores de servicios turísticos que proporcionen el servicio, la atención requerida y adecuada a las personas adultas mayores que visiten los destinos turísticos.
+Los sectores público, privado y social contribuirán a ampliar la cobertura y mejorar la calidad de los servicios de atención médica.
 
 ###### Artículo 75.
 
-La Secretaría en coordinación con los municipios vigilará que los destinos turísticos cuenten con la infraestructura turística adecuada para atender las necesidades de las personas adultas mayores.
+En los términos que determina la legislación aplicable, es obligatoria la prestación de servicios de atención médica:
+
+I. En el caso de urgencias; entendiéndose por tal, todo problema médico-quirúrgico agudo, que ponga en peligro la vida, un órgano o una función y que requiera atención inmediata; y
+
+II. Cuando se trate del ejercicio de la acción extraordinaria de salubridad general, en los términos que determina la Ley General de Salud.
 
 ###### Artículo 76.
 
-La Secretaría, formulará los programas y convenios de promoción y fomento turístico a fin de proteger, mejorar, incrementar y difundir el patrimonio y los servicios turísticos que ofrece el Estado, alentando las corrientes turísticas regionales, locales, y nacionales, así como coordinarse con las instancias competentes para realizar tales acciones en el extranjero.
+Las actividades de atención médica serán:
 
-Se entiende por promoción turística, al conjunto de actividades de planeación, programas de publicidad y difusión en cualquier medio de información, de los atractivos y servicios que el Estado ofrece como destino turístico, implica la difusión de las bondades de la oferta y producto turístico hacia los visitantes, con la finalidad de atraer la afluencia del turismo estatal, nacional y extranjero.
+I. Preventivas, que incluyen las de promoción general y las de protección específica;
 
-La promoción turística deberá incluir a todas las regiones del Estado, fortaleciendo a los sitios turísticos con potencialidad, buscando su consolidación en el mercado.
+II. Curativas, que tiene como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno y adecuado; y
 
-La Secretaría con las dependencias competentes promocionará y fomentará el turismo sostenible en los términos de esta Ley, de conformidad con los acuerdos y convenios que al efecto se suscriban.
+III. De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas y mentales.
 
-### CAPÍTULO VI. Del Turismo Deportivo
+### CAPÍTULO V. DE LA SALUD PÚBLICA
 
 ###### Artículo 77.
 
-En la promoción y fomento del turismo, corresponde a la Secretaría proteger, mejorar, incrementar y difundir los atractivos turísticos del Estado, para lo cual deberá:
+La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. Formular la estrategia de Promoción Turística del Estado;
+I. La atención de la mujer sin importar la raza, condición económica o social durante el embarazo, el parto y el puerperio;
 
-II. Promover con las dependencias afines, el rescate y preservación de las tradiciones, costumbres e identidad mexiquense que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción;
+II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
 
-III. Difundir constantemente, con enfoque sostenible y accesible, en los principales medios publicitarios, redes sociales y páginas de internet: las tradiciones, costumbres, identidad, patrimonio cultural y natural del Estado;
+III. La promoción de la integración y el bienestar familiar;
 
-IV. Asesorar en materia de promoción a los Municipios y prestadores de servicios turísticos;
+IV. La información a la mujer, sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna; y
 
-V. Impulsar la restauración del patrimonio histórico, artístico y cultural, así como la preservación y regeneración de los recursos naturales que constituyan un atractivo turístico;
-
-VI. Promover la participación del Estado en los programas turísticos que conjunten a varias entidades federativas;
-
-VII. Celebrar convenios de coordinación con el sector público, privado y social, a efecto de llevar a cabo, la capacitación de los trabajadores, con fines de mejorar el servicio, enfocado a dar cursos de historiografía básica de la entidad, así como el conocimiento de los núcleos turísticos más significativos, recorridos, distancias, vías de comunicación, en síntesis, sobre el conocimiento general de la geografía del Estado;
-
-VIII. Promover la realización de ferias y exposiciones turísticas con la participación de los miembros del sector, orientadas a difundir los atractivos del Estado y presentar la oferta turística local a los prestadores de servicios nacionales e internacionales;
-
-IX. Promover y coordinar la participación del Estado en eventos oficiales de promoción turística nacionales e internacionales, tales como ferias, tianguis, seminarios y exposiciones;
-
-X. Ejecutar el Plan de Mercadotecnia;
-
-XI. Elaborar y difundir material especializado de información turística, así como artículos promocionales, y
-
-XII. Diseñar la imagen turística del Estado para fortalecer la identidad turística a nivel nacional e internacional.
+V. La atención médica de las mujeres embarazadas y de los niños que viven con VIH.
 
 ###### Artículo 78.
 
-La Secretaría podrá suscribir convenios y acuerdos con otras Entidades Federativas, organizaciones, prestadores de servicios turísticos y el sector académico para instrumentar campañas de promoción turística.
+En la realización de acciones tendientes a la prevención de la mortalidad materno-infantil, los sistemas para el desarrollo integral de la familia, estatal y municipales, observarán las instrucciones que, sobre esta materia, reciban de la Secretaría de Salud.
+
+En los establecimientos hospitalarios en que se presten servicios de atención médica materno-infantil se formarán los comités hospitalarios que determinen las Normas Oficiales Mexicanas aplicables, especialmente los destinados a prevenir la mortalidad materna y perinatal.
 
 ###### Artículo 79.
 
-Las regiones y Municipios asumirán de manera obligatoria la imagen turística estatal en la celebración de eventos turísticos o promocionales, pudiendo añadir ideogramas de carácter regional o municipal como distintivos complementarios.
+La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad, el Estado y la sociedad en general.
 
 ###### Artículo 80.
 
-Los Municipios para la promoción de sus atractivos turísticos, fuera del territorio estatal y nacional, darán aviso a la Secretaría, para ser considerados en las estadísticas publicadas en el Observatorio.
+En la organización y operación de los servicios de salud destinados a la atención materno infantil, las autoridades sanitarias competentes del Estado, establecerán procedimientos que permitan la participación activa de la familia, en la prevención y atención oportuna de los padecimientos de los usuarios.
 
 ###### Artículo 81.
 
-La Secretaría garantizará el derecho igualitario de los Municipios para la promoción y difusión turística y artesanal dentro de los espacios y medios de comunicación oficiales.
+Las autoridades sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+
+I. Los programas para padres, destinados a promover la atención materno-infantil y prevenir la violencia intrafamiliar;
+
+II. Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y a promover la salud física y mental de sus integrantes;
+
+III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+
+IV. El establecimiento de programas de información y sensibilización, adecuados a la capacidad de los destinatarios, respecto de los medios de transmisión del VIH, y sus formas de prevención; y
+
+V. Las demás que coadyuven a la protección de la salud materno-infantil.
 
 ###### Artículo 82.
 
-La Secretaría mantendrá una estrecha comunicación y coordinación con los municipios, el sector social y privado, así como otros actores del sector turístico, a fin de asegurar el establecimiento de una hoja de ruta que facilite el diseño e instrumentación de las campañas promocionales.
+En materia de higiene escolar, corresponde a las autoridades sanitarias establecer las Normas Oficiales Mexicanas para proteger la salud del educando y de la comunidad escolar de los centros educativos, dependientes o incorporados al Estado. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
 
-El fomento a la actividad turística sostenible pretende ejecutar acciones y programas para promover e incentivar el turismo a través de empresas socialmente responsables que promuevan la actividad turística sostenible y accesible en el Estado.
+La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### CAPÍTULO VII. Del Ecoturismo
+### CAPÍTULO VI. DE LA ASISTENCIA SOCIAL
 
-### CAPÍTULO VIII. Del Turismo Educativo
+### CAPÍTULO VII. DE LOS PRESTADORES DE LOS SERVICIOS DE SALUD
 
 ###### Artículo 83.
 
-Podrán ser reconocidos los prestadores de servicios turísticos que se destaquen por su interés, creatividad, inversión y atención en la actividad turística sostenible del Estado a través de la promoción de sus servicios turísticos.
+Los servicios de planificación familiar tienen carácter prioritario, aquellos que en los términos del párrafo segundo del artículo 4, de la Constitución Política de los Estados Unidos Mexicanos y de la legislación aplicable en materia de población se presten, constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
 
 ###### Artículo 84.
 
-La Secretaría será la encargada de asesorar, fomentar, promover y apoyar los proyectos de inversión turística que se pretendan realizar en la Entidad, se coordinará con la Federación, dependencias estatales, Municipios e instituciones académicas de nivel superior para la elaboración de estudios y proyectos de interés turístico para el Estado.
+Los servicios de planificación familiar comprenden:
 
-La inversión en la actividad turística sostenible se da a partir de la ejecución de acciones, programas y proyectos que promuevan e incentiven el financiamiento de las inversiones pública y privada, para el desarrollo turístico, con el objetivo de atraer visitantes y aumentar la demanda turística en el Estado.
+I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar, educación sexual y prevención de la infección por VIH y otras enfermedades de transmisión sexual, con base en objetivos y estrategias que establezcan los consejos nacional y estatal de población;
+
+II. La atención y vigilancia de los aceptantes y usuarios de los servicios de planificación familiar;
+
+III. La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores públicos, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con las políticas establecidas por los Consejos Nacional y Estatal de Población;
+
+IV. El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planeación familiar y biología de la producción humana;
+
+V. La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planeación familiar; y
+
+VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
+
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 85.
 
-La Secretaría podrá suscribir convenios con el sector público y privado para incentivar el financiamiento de las inversiones pública y privada en el Estado.
+Los Comités de Salud a que se refiere el artículo 137 de esta ley, promoverán que en las poblaciones y comunidades suburbanas y rurales se impartan pláticas de orientación en materia de planificación familiar. Las instituciones de salud, educativas y los consejos estatales y municipales de población respectivos, brindarán al efecto el apoyo necesario.
 
 ###### Artículo 86.
 
-La Secretaría coadyuvará con las dependencias competentes para llevar a cabo acciones tendientes a fortalecer y promover las micro, pequeñas, medianas y macro empresas turísticas, así como impulsar la instrumentación de mecanismos y programas tendientes a facilitar los trámites y gestión de inversionistas.
+El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones de los programas Nacional y Estatal de planificación familiar formulados por los Consejos Nacional y Estatal de Población respectivamente, así como del elaborado sobre esta materia por el Sector Salud, buscando su incorporación al Programa Estatal de Salud.
 
-### CAPÍTULO IX. Del Turismo Micológico
+### CAPÍTULO ÚNICO
 
-### CAPÍTULO X. Del Turismo de Negocios
+### CAPÍTULO I. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD
 
-### CAPÍTULO XI. Del Turismo Religioso
+### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
 ###### Artículo 87.
 
-Los Municipios promoverán el financiamiento de las inversiones pública y privada, facilitando el establecimiento de empresas de servicios turísticos ante el propio Ayuntamiento, siempre y cuando se reúnan los requisitos señalados en la normatividad aplicable.
+La conservación de la Salud Mental tiene carácter prioritario en la salud integral. Para la atención de los trastornos mentales y del comportamiento, se tomarán en cuenta los factores protectores, de predisposición y riesgo, biológicos, psicológicos y socioculturales; así como los Modelos de Prevención y Atención aceptados en el campo de la salud mental.
 
-### CAPÍTULO XII. Del Turismo de Romance
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 88.
 
-Para el caso de financiamiento de las inversiones pública y privada, sobre bienes del dominio público o bienes a cargo de los Municipios, para la implementación de proyectos de carácter turístico, el Ayuntamiento se asegurará de que dichas inversiones coadyuven al desarrollo de la economía local.
+Para la promoción y conservación de la salud mental, las instituciones del sector salud:
+
+I. Impulsarán el desarrollo de una cultura de promoción, protección y conservación de la salud mental;
+
+II. Implementarán acciones preventivas con el propósito de promover la toma de conciencia de la forma en que cada individuo enfrenta su situación vital y la construcción de estilos de vida saludables; enfatizando el fortalecimiento de factores que contribuyan en la protección de la salud mental a nivel individual, familiar, comunitario y social, así como debilitar los factores de predisposición y riesgo; y
+
+III. Las demás acciones que, directa o indirectamente, contribuyan al fomento de la salud mental de la población.
 
 ###### Artículo 89.
 
-La Secretaría gestionará ante las autoridades correspondientes el otorgamiento de financiamiento de créditos, subsidios e incentivos económicos, conforme a los lineamientos que ésta determine, para aquellos prestadores de servicios turísticos, artesanas y artesanos que realicen remodelación, ampliación y rehabilitación de infraestructura, adquisición de recursos materiales y tecnológicos así como capacitación a todo el personal de sus centros de trabajo para mejorar la calidad de atención en los productos y servicios turísticos y artesanales.
+La atención de enfermedades mentales:
+
+I. Se basará en principios científicos y éticos orientados a restituir en el mayor grado posible la salud mental del individuo;
+
+II. Se desarrollará en términos de necesidades particulares de cada paciente, con la participación interdisciplinaria de los trabajadores de la salud;
+
+III. Precisa implementar programas que favorezcan la reinserción social, así como la promoción del involucramiento del paciente, su familia y la comunidad en el tratamiento y rehabilitación del mismo;
+
+IV. Deberá sujetarse a lo dispuesto por el Reglamento de la Ley General de Salud y las Normas Oficiales Mexicanas aplicables para la prestación de servicios de atención médica; y
+
+V. Exhorta a la Secretaría de Salud para asesorar y supervisar a instituciones dedicadas al estudio, tratamiento, rehabilitación y reinserción de personas con trastornos mentales y del comportamiento.
 
 ###### Artículo 90.
 
-Los estímulos serán otorgados para aquellos prestadores de servicios turísticos, artesanas y artesanos, que:
+La atención de personas con trastornos mentales y del comportamiento que se encuentren en reclusorios del estado o en otras instituciones estatales especializadas en salud mental, será responsabilidad del Ejecutivo del Estado, conforme a las Normas Oficiales Mexicanas que establezca la Secretaría de Salud.
 
-I. Adopten buenas prácticas en el sector turístico y artesanal para la gestión sostenible y regenerativa del ambiente;
-
-II. Adquieran o usen tecnologías limpias y equipos que contribuyan al ahorro de energía eléctrica y agua, así como para el tratamiento de aguas residuales y gestión integral de residuos;
-
-III. Realicen viajes de familiarización con operadoras turísticas que comercialicen el turismo a nivel nacional e internacional;
-
-IV. Los prestadores de servicios turísticos que cuenten con una certificación de empresa socialmente responsable y demás relacionadas a este sector, y
-
-V. Los prestadores de servicios turísticos que cuenten con la infraestructura que garantice la accesibilidad a personas adultas mayores y con discapacidad.
+Al efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
 ###### Artículo 91.
 
-La Secretaría deberá orientar a los prestadores de servicios turísticos, artesanas y artesanos sobre la adquisición de créditos e instrumentos financieros para la salvaguarda de su patrimonio.
+El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a los requisitos científicos y legales que determine la Secretaría de Salud.
 
-Las dependencias estatales y municipales competentes, en coordinación con la Secretaría, deberán otorgar las facilidades, incentivos y estímulos económicos o administrativos que contribuyan al crecimiento, profesionalización, fomento, competitividad y desarrollo de la actividad turística sostenible y artesanal.
+No podrá negarse el acceso a los servicios de salud a que se refiere el párrafo anterior por la sola razón de padecer enfermedad infectocontagiosa.
 
 ###### Artículo 92.
 
-La Secretaría gestionará, diseñará y coordinará, en conjunto con las autoridades municipales y las instancias competentes, programas para la capacitación y certificación continua de los prestadores de servicios turísticos atendiendo su vocación y necesidades, así como para servidores públicos para mejorar su desempeño en el área turística.
+Los padres, tutores, o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquiera persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer, fundadamente, la existencia de enfermedades mentales.
 
-### CAPÍTULO XIII. Del Turismo Rural
+A tal efecto, podrán obtener orientación y asesoramiento en las instituciones del sector salud dedicadas a la atención de enfermos mentales.
+
+### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
 
 ###### Artículo 93.
 
-El área de capacitación básica en materia turística comprenderá:
+Salud pública es la ciencia y el arte de prevenir la enfermedad, prolongar la vida, fomentar la salud y la eficiencia por medio del esfuerzo organizado de la comunidad.
 
-I. Sostenibilidad;
+Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria.
 
-II. Accesibilidad y atención a adultos mayores;
-
-III. Emprendedurismo;
-
-IV. Certificación de los servicios turísticos;
-
-V. Calidad y atención en el servicio;
-
-VI. Tendencias del turismo, tecnologías de la información y redes sociales;
-
-VII. Idiomas;
-
-VIII. Primeros auxilios;
-
-IX. Cultura turística;
-
-X. Desarrollo de productos turísticos, y
-
-XI. Normatividad turística.
-
-### CAPÍTULO XIV. Del Turismo de Salud
+### CAPÍTULO III. DEL REGISTRO ESTATAL DE DONADORES
 
 ###### Artículo 94.
 
-Los prestadores de servicios turísticos deberán certificarse a través de (sic) Consejo Nacional de Normalización y Certificación de Competencias Laborales en los estándares afines al turismo y atención al cliente.
+Para los efectos de esta ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
 ###### Artículo 95.
 
-Los prestadores de servicios turísticos que efectúen operaciones en el Estado deberán registrarse en el Registro Municipal de Turismo, del lugar donde presten el servicio, que a su vez actualizará el Registro Estatal.
-
-El Registro Municipal de Turismo estará a cargo del Director de Turismo Municipal, debiendo éste expedir la credencial como prestador de servicios turísticos, a quienes se registren y reúnan los requisitos.
+El Gobierno del Estado contará con un organismo que tendrá entre sus objetivos, en coordinación con el organismo federal encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 96.
 
-Se consideran servicios turísticos los siguientes:
+Las personas con capacidades diferentes como sujetos de asistencia social prioritaria recibirán en el Sistema Estatal de Salud los servicios de atención médica que correspondan conforme al nivel de atención y posibilidades de resolución de los establecimientos de salud.
 
-I. Hoteles, moteles, albergues, posadas, hostales, mesones, casas de huéspedes, villas, bungalós, chalets, campamentos, paraderos de casas rodantes, departamentos amueblados con fines de hospedaje turístico y otros establecimientos que presten servicios de esta naturaleza, incluyendo los que proporcionan estos servicios bajo la modalidad de tiempo compartido;
+La prevención de la discapacidad, habilitación y rehabilitación de personas con capacidades diferentes comprende:
 
-II. Los que se brindan a través de plataformas y/o aplicaciones digitales;
+I. La investigación de las causas de la discapacidad y de los factores que la condicionan;
 
-III. Instalaciones de recreación turística ofrecidos por empresas especializadas en todas sus modalidades;
+II. La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la discapacidad;
 
-IV. Los establecimientos que ofrezcan servicios turísticos receptivos o emisores, tales como agencias, subagencias y operadoras de viajes y turismo, con fines lucrativos;
+III. La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que pueden causar discapacidad;
 
-V. Los campamentos turísticos y los ubicados en terrenos donde se ofrezcan actividades turísticas en forma habitual;
+IV. La orientación educativa en materia de rehabilitación a la colectividad en general y a las familias de personas con capacidades diferentes en particular;
 
-VI. Guías de turistas certificados conforme a la legislación aplicable;
+V. La atención integral de las personas con capacidades diferentes, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que éstos requieran;
 
-VII. Los destinados para ejercer el turismo de aventura, ecoturismo y turismo rural;
+VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con capacidades diferentes; y
 
-VIII. Miradores, senderos, ríos, lagunas, presas y zoológicos;
-
-IX. Museos, casas de cultura o galerías de arte, exposiciones, entre otros;
-
-X. Campos de golf;
-
-XI. Parques acuáticos y balnearios;
-
-XII. Los servicios ofrecidos por especialistas, profesionales y personas de la comunidad con conocimientos generacionales y empíricos; para realizar pesca deportiva, micoturismo, avistamiento de flora, fauna y paisaje;
-
-XIII. Las empresas organizadoras y operadores de congresos, convenciones, ferias, recintos feriales, tianguis, exposiciones, reuniones de trabajo o capacitación;
-
-XIV. Locales y talleres establecidos dedicados a la comercialización del arte popular y expresiones culturales;
-
-XV. El uso o arrendamiento de automóviles u otros medios de transporte, especializados en excursiones y viajes de turismo ofrecidos por personas o empresas;
-
-XVI. Los que se prestan a través de restaurantes, cafeterías, bares, discotecas, centros nocturnos, palenques y establecimientos similares en favor de los visitantes;
-
-XVII. Servicios que se brindan en los establecimientos dedicados al turismo de bienestar como son centros de relajación, masajes, medicina alópata, aguas termales, temazcales y otros;
-
-XVIII. Los ofertados por organizadores de eventos de carácter artístico, cultural o deportivo que generen flujos de turismo;
-
-XIX. Los servicios de vuelo en helicóptero, avioneta, globo aerostático, en parapente, ala delta, paracaidismo, entre otros con fines turísticos;
-
-XX. Los servicios generados por una operadora de marina turística, lancha, bote, esquí, moto acuática, así como los brindados por salvavidas;
-
-XXI. Aquellos ofrecidos en parques temáticos, y
-
-XXII. Los servicios que por concesión, permiso o autorización federal y estatal se incluyan en este concepto.
+VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de habilitación o rehabilitación.
 
 ###### Artículo 97.
 
-Para operar, los Prestadores de Servicios Turísticos deberán cumplir con los requisitos que determine la Secretaría en la normatividad vigente aplicable.
+La atención médica que se preste a los adultos mayores deberá cumplir con los criterios establecidos en la Ley de Integración Social de Personas con Discapacidad del Estado, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables, e incluirá programas educativos y de promoción de la salud.
 
-### CAPÍTULO XV. Del Turismo Social
+### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL
 
 ###### Artículo 98.
 
-Los Prestadores de Servicios Turísticos registrados en el Estado, tendrán los siguientes derechos:
+Para los efectos de esta ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
 
-I. Recibir servicios de vinculación y asesoramiento técnico del Consejo Municipal y de la Secretaría, ante las diversas oficinas gubernamentales, respecto al sector turístico;
+I. Servicios públicos a la población en general;
 
-II. Ser considerados en las estrategias de difusión y promoción turística de la Secretaría y de los Municipios;
+II. Servicios a derechohabientes de instituciones públicas de seguridad social o los que, con sus propios recursos, o por encargo del Poder Ejecutivo Federal, presten las mismas instituciones a otros grupos de usuarios;
 
-III. Solicitar asesoría del Consejo Municipal para la gestión en la obtención de licencias o permisos para el establecimiento y prestación de servicios turísticos ante las autoridades correspondientes;
+III. Servicios sociales y privados, sea cual fuere la forma en que se contraten; y
 
-IV. Solicitar el apoyo de la Secretaría para la celebración de congresos, convenciones, eventos deportivos, gastronómicos, conferencias, ferias, festivales, exposiciones y otros eventos relacionados con el turismo, de acuerdo con los recursos disponibles;
-
-V. Participar en los foros de consulta en materia turística y artesanal;
-
-VI. Estar inscrito en los Registros Municipal, Estatal y Nacional de Turismo y recibir la credencial correspondiente;
-
-VII. Ser incluidos en los catálogos, directorios y guías turísticas que elabore la Secretaría y el Consejo Municipal con fines promocionales, informativos o estadísticos, de conformidad con los procedimientos establecidos para cada caso;
-
-VIII. Ser incluido en las acciones encaminadas a la profesionalización y capacitación del sector que promueva la Secretaría y en la certificación del personal que presta el servicio turístico;
-
-IX. Tener acceso a la información sobre planes, estudios y programas de interés turístico a través del Observatorio;
-
-X. Recibir asesoría de la Secretaría para la obtención de financiamiento y créditos para fomentar el desarrollo y la inversión;
-
-XI. Emitir opinión en cuanto a la planificación, desarrollo, fomento y promoción de la actividad turística a través de su representante en el Consejo Municipal;
-
-XII. Participar en las sesiones del Consejo Municipal con derecho de voz y previo registro;
-
-XIII. Participar y recibir la capacitación correspondiente en materia de primeros auxilios y protección civil, que son impartidos por las dependencias gubernamentales y organismos auxiliares, y
-
-XIV. Los demás que establezca la legislación aplicable en la materia.
+IV. Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
 
 ###### Artículo 99.
 
-En la prestación de servicios turísticos queda estrictamente prohibida cualquier clase de discriminación, ya sea motivada por edad, estado civil, raza, idioma, etnia, sexo, preferencias sexuales, discapacidad, ideología política, credo religioso, nacionalidad, condición social o económica. La transgresión a esta norma será sancionada conforme a las disposiciones jurídicas aplicables.
+Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado de Sinaloa, que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios. Estos servicios públicos en su nivel de urgencia y elementales serán proporcionados por la clínica del IMSS, ISSSTE o DIF de la localidad, cuando la Secretaría de Salud no cuente con instalaciones en la comunidad.
+
+Los prestadores de servicios públicos de salud cumplirán, en la atención de los usuarios, con los criterios de calidad y oportunidad que se establecen en las Normas Oficiales Mexicanas.
 
 ###### Artículo 100.
 
-No se considerarán prácticas discriminatorias en contra de las personas, las tarifas y precios para el uso, consumo o disfrute, de los bienes o servicios ofertados, ni los requisitos de edad o las restricciones para el uso de instalaciones turísticas, cuando sean de carácter general y guarden relación directa con la especialización que el prestador de servicios turísticos decida otorgar o ponga en riesgo la salud o vida de los visitantes, y siempre que las mismas no sean violatorias de otras leyes.
+Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado y los acuerdos de coordinación que se celebren con el Ejecutivo Federal y deberán ser en términos reales lo más moderadas que sea posible.
 
 ###### Artículo 101.
 
-Las relaciones contractuales entre los prestadores de servicios turísticos y los excursionistas, visitantes o turistas se regirán por los términos que libremente convengan, con la respectiva observancia de las disposiciones jurídicas aplicables.
+Para la determinación de las cuotas de recuperación, se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario. Se fundarán en principios de solidaridad social, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas o en las zonas de menor desarrollo económico y social, conforme a las disposiciones legales que al efecto emita el Gobierno del Estado.
+
+Se consideran sujetos preferentes de exención a los grupos vulnerables.
 
 ###### Artículo 102.
 
-Los Prestadores de Servicios Turísticos del Estado, tendrán las siguientes obligaciones:
+Cuando por la prestación de los servicios de salud debe requerirse a los usuarios la realización de jornadas de trabajo, los propios usuarios de cada comunidad determinarán a qué obras de beneficio colectivo se aplicarán dichas jornadas.
 
-I. Coadyuvar en la ejecución de la política nacional, estatal, regional y municipal del sector turístico, y atender las recomendaciones que haga la Secretaría y el Consejo Municipal;
-
-II. Proporcionar los servicios que ofrezcan, bajo los principios apegados a la sostenibilidad y accesibilidad de esta Ley y demás disposiciones aplicables;
-
-III. Atender las recomendaciones que formulen las dependencias competentes en materia de seguridad y protección civil, aplicables a la operación del establecimiento y de conformidad con lo que establezcan las Normas Oficiales Mexicanas respectivas;
-
-IV. Proporcionar a la Secretaría y al Consejo Municipal la información y documentación requerida para efectos de verificación y vigilancia, así como para elaborar las estadísticas, siempre y cuando se relacione exclusivamente con la prestación del servicio;
-
-V. Mostrar en un lugar visible para los visitantes los datos del responsable del establecimiento, así como el nombre del titular ante quien se puede presentar queja de los servicios;
-
-VI. Mostrar en un lugar visible, de manera clara y actualizada para los visitantes, los servicios que ofrece, características, precios y tarifas;
-
-VII. Mantener de manera permanente en un lugar visible para los excursionistas, turistas y visitantes, el reglamento del establecimiento, el Decálogo del Visitante Responsable, así como los derechos y obligaciones de éstos, la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, ante la que puede presentar sus quejas;
-
-VIII. Cumplir en los términos anunciados, ofrecidos o pactados por los servicios, precios, tarifas y promociones;
-
-IX. Tener a la vista de los visitantes el protocolo y equipo de seguridad de acuerdo con el dictamen de protección civil;
-
-X. Participar en el manejo responsable de los recursos naturales, arqueológicos, históricos y culturales, en términos de las disposiciones jurídicas aplicables;
-
-XI. Adquirir, implementar y promover productos biodegradables y orgánicos, así como otras buenas prácticas amigables con el ambiente;
-
-XII. Proceder a su inscripción en el Registro Municipal de Turismo y actualizar sus datos oportunamente;
-
-XIII. Expedir en toda operación y aún sin solicitud del excursionista, turista o visitante, factura detallada, nota de consumo o documento fiscal que ampare los cobros realizados por la prestación del servicio turístico proporcionado;
-
-XIV. Participar y promover la participación de sus trabajadores y empleados en los programas de profesionalización, capacitación y certificación en los términos de la normatividad vigente;
-
-XV. Realizar las modificaciones necesarias a los inmuebles, edificaciones y servicios turísticos que permitan la accesibilidad a toda persona de cualquier condición, instalando la señalética correspondiente;
-
-XVI. Prestar sus servicios en español como primer idioma, lo que no impide que se puedan prestar en otros idiomas o lenguas;
-
-XVII. Hacer su publicidad con la imagen turística estatal, ideogramas, distintivos y logotipos, ya sean regionales o municipales, sin alteración alguna;
-
-XVIII. Incluir en su publicidad la idiosincrasia estatal, regional y municipal, hechos históricos y manifestaciones culturales, con respeto y de forma veraz;
-
-XIX. Aplicar las medidas de seguridad e higiene en los establecimientos y lugares donde prestan sus servicios, de conformidad con lo que establece la normatividad;
-
-XX. Respetar a sus competidores y evitar la competencia desleal;
-
-XXI. Garantizar y brindar al visitante información, seguridad y auxilio en los servicios turísticos ofertados;
-
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
-
-XXII. Exhibir en un lugar visible los datos del enlace electrónico de acceso al módulo de quejas virtual que la Secretaría deberá operar;
-
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
-
-XXIII. En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados, o con la totalidad de los mismos, será sancionado en términos de la normatividad vigente aplicable;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE DICIEMBRE DE 2025)</small>
-
-XXIV. Implementar el Protocolo para la protección de niñas, niños y adolescentes en la prestación de servicios de hospedaje o alojamiento, así como llevar a cabo medidas de seguridad para salvaguardar la integridad y la vida de niñas, niños y adolescentes, incluyendo las acciones de prevención o detención de posibles delitos contra los mismos; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 17 DE DICIEMBRE DE 2025)</small>
-
-XXV. Observar estrictamente las disposiciones de la Ley General, su reglamento, la presente Ley y demás disposiciones en materia de turismo.
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 103.
 
-Los prestadores de servicios turísticos deberán observar y aplicar los principios de equidad e igualdad de género en la contratación de personal, y reconocer el trabajo de todos los que intervienen para la prestación del servicio turístico, de acuerdo con sus funciones.
+Son servicios a derechohabientes los prestados por las instituciones a que se refiere la fracción II del artículo 98 de esta Ley, a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que por sus propios recursos o por encargo del Ejecutivo Estatal presten dichas instituciones a otros grupos de usuarios.
 
 ###### Artículo 104.
 
-Los empresarios locales dedicados al sector turístico deberán contribuir al desarrollo con enfoque de responsabilidad social en la comunidad, promoviendo el consumo de productos locales y la economía solidaria.
+Los servicios de salud que presten las entidades públicas o empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por los convenios entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
 
 ###### Artículo 105.
 
-Los prestadores de servicios turísticos, en reconocimiento y reciprocidad a la labor de las y los artesanos mexiquenses en el sector turístico, facilitarán la promoción y venta de artesanías en sus instalaciones.
+Son servicios de salud privados los que presten personas físicas o morales en las condiciones que convengan con los usuarios, y sujetas a los ordenamientos legales, civiles y mercantiles. En materia de tarifas, se estará a lo dispuesto en la Ley General de Salud.
+
+Conforme lo determina el Reglamento de la Ley General de Salud en materia de Servicios de Atención Médica, las tarifas autorizadas deberán fijarse en lugar visible al público dentro de los establecimientos.
 
 ###### Artículo 106.
 
-Los excursionistas, visitantes y turistas, con independencia de los derechos que les asisten como consumidores, tendrán en los términos previstos en esta Ley, los siguientes derechos:
+En beneficio de los grupos vulnerables, el Ejecutivo Estatal, por conducto de la Secretaría de Salud, podrá acordar con personas físicas o morales que presten servicios de salud privados, el establecimiento de:
 
-I. Recibir información útil, precisa, veraz y detallada, con carácter previo, sobre todas y cada una de las condiciones de prestación de los servicios turísticos, ya sea de manera personal o a través de plataformas digitales;
+I. Prestación de servicios gratuitos;
 
-II. Obtener los bienes y servicios turísticos en las condiciones contratadas;
+II. Tarifas inferiores a las determinadas por la Secretaría de Economía; y
 
-III. Obtener los documentos que acrediten los términos de la contratación sobre los servicios turísticos, y, en cualquier caso, las correspondientes facturas o comprobantes fiscales legalmente emitidos;
-
-IV. Recibir del prestador de servicios turísticos, los bienes y servicios de calidad, acordes con la naturaleza y cantidad de la categoría que ostente el establecimiento elegido;
-
-V. Recibir los servicios sin ser discriminados, considerando los términos del artículo 99 de esta Ley;
-
-VI. Disfrutar el libre acceso y goce de todo el patrimonio turístico, así como su permanencia en las instalaciones de dichos servicios, sin más limitaciones que las derivadas de los reglamentos específicos de cada actividad y lugar, y
-
-VII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
+III. Prestación de servicios subrogados de atención médica a población abierta, mediante el pago, por parte del Estado, de un subsidio.
 
 ###### Artículo 107.
 
-Son obligaciones de los excursionistas, visitantes y turistas:
-
-I. Observar las normas usuales de convivencia en los establecimientos turísticos;
-
-II. Respetar el entorno natural y patrimonio cultural de los sitios en los que se realice una actividad turística;
-
-III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y, particularmente las normas y reglamentos de uso o de régimen interior;
-
-IV. Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado, y
-
-V. Las demás que determinen otras disposiciones jurídicas.
+Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos, en la proporción del 10% del número total de camas que dispongan.
 
 ###### Artículo 108.
 
-La Secretaría fomentará y facilitará el goce de este derecho, garantizando su observancia en la formulación, operación, evaluación y vigilancia de los planes y programas que para el efecto se elaboren.
+El Ejecutivo Estatal y los ayuntamientos podrán convenir con las instituciones federales de seguridad social la prestación de servicios de salud para sus servidores públicos, en los términos de la ley de la materia.
 
 ###### Artículo 109.
 
-Corresponde a la Secretaría, establecer, organizar y promover los mecanismos de protección al visitante, a través de los servicios de información, orientación, protección y auxilio.
+La Secretaría de Salud, en coordinación con la Dirección de Profesiones, vigilará el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos procurando la coordinación con las autoridades educativas, estatales y federales.
 
-Para su implementación la Secretaría se coordinará con las dependencias y entidades de la administración pública federal, estatal y municipal, así como con organismos e instituciones de los sectores social y privado.
+## TÍTULO SEXTO. DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO
 
-## TÍTULO SEXTO
-
-### CAPÍTULO XVI. Del Turismo de las Personas Adultas Mayores
+### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 ###### Artículo 110.
 
-La Secretaría, en coordinación y apoyo de los municipios y prestadores de servicios turísticos, establecerá módulos de información turística y material promocional.
+Se crea la Comisión de Arbitraje Médico del Estado de Sinaloa, como un órgano desconcentrado de la Secretaría de Salud, dotado de plena autonomía para emitir sus opiniones, acuerdos, dictámenes y laudos.
+
+Para los efectos de esta sección, cuando se utilice el término Comisión se estará haciendo referencia a la Comisión de Arbitraje Médico del Estado de Sinaloa.
 
 ###### Artículo 111.
 
-La Secretaría en el ámbito de su competencia deberá:
-
-I. Brindar al excursionista, visitante y turista información y orientación puntual que requiera, relacionada con su visita a los destinos o productos turísticos mexiquenses;
-
-II. Generar y operar programas de concientización dirigidos a prestadores de servicios turísticos, para no incurrir en violaciones a los ordenamientos legales en perjuicio del excursionista, visitante y turista;
-
-III. Dotar y operar una línea telefónica directa, chat en línea y aplicación para teléfono inteligente, de atención al excursionista, visitante y turista, así como su difusión permanente;
-
-IV. Crear y aplicar un protocolo específico para excursionistas, visitantes y turistas extraviados en estado de vulnerabilidad en los destinos turísticos;
-
-V. Orientar y asistir a los excursionistas, visitantes y turistas en casos de emergencias o desastres;
-
-VI. Orientar al excursionista, visitante y turista en caso de quejas relacionadas a la prestación de los servicios turísticos;
-
-VII. Implementar instrumentos, tales como libros, buzones, líneas telefónicas gratuitas, portal electrónico y chat en línea para recibir y atender quejas de los servicios y productos turísticos brindados;
-
-VIII. La Secretaría atenderá en conjunto los protocolos de la Secretaría de Turismo Federal y la Procuraduría Federal del Consumidor, para llevar a cabo las visitas de verificación correspondientes a los prestadores de servicios turísticos y aquellas que se requieran en atención a las quejas presentadas por los visitantes, y
-
-IX. Las demás aplicables para proteger los derechos de los visitantes.
+La Comisión tendrá por objeto difundir, asesorar, proteger y defender los derechos de los usuarios y prestadores de servicios de atención médica, promoviendo la imparcialidad, confidencialidad y equidad en sus funciones de conciliación y arbitraje en los asuntos que se sometan a su conocimiento.
 
 ###### Artículo 112.
 
-Corresponde a la Secretaría promover la competitividad de la actividad turística, en coordinación con las dependencias y entidades competentes de la administración pública estatal y municipal, así como con Prestadores de Servicios Turísticos.
+La Comisión tendrá las siguientes atribuciones:
+
+I. Realizar labores de divulgación, orientación, apoyo y asesoría en materia de derechos y obligaciones de los usuarios y prestadores de servicios de salud, así como orientarles sobre las acciones civiles y penales que les puedan corresponder por responsabilidad profesional, por daño patrimonial o moral o cualesquiera otras que pudieran presentarse.
+
+La presentación de quejas deja a salvo los derechos de los usuarios y prestadores de servicios de salud para ejercer las acciones respectivas. Para tal fin, la Comisión estará obligada a entregar copias de todo lo actuado, a costa del solicitante que sea parte en el procedimiento de arbitraje o conciliación;
+
+II. Impulsar la formación y fortalecimiento de la cultura de respeto a los derechos de los usuarios;
+
+III. Recibir, atender e investigar las quejas que presenten los interesados, por la posible irregularidad o negativa injustificada en la prestación de servicios de atención médica;
+
+IV. Investigar la veracidad de los actos y omisiones que sean materia de las quejas planteadas, para lo cual, la Comisión podrá recibir toda la información y pruebas que aporten los profesionales, técnicos y auxiliares de la salud directamente involucrados, los usuarios y las instituciones prestadoras de servicio, y requerir aquellas otras que sean necesarias para dilucidar tales quejas, así como practicar las diligencias que correspondan;
+
+V. Intervenir en amigable composición para conciliar conflictos derivados de la prestación de servicios médicos por alguna de las causas que se mencionan:
+
+a) Probables actos u omisiones, de usuarios y prestadores, derivados de la prestación del servicio de atención médica;
+
+b) Probables casos de negligencia, imprudencia, impericia o inadvertencia, con consecuencia sobre la salud del usuario; y
+
+c) Aquellas que sean acordadas por el Consejo.
+
+Para tal fin la Comisión podrá formular propuestas de conciliación de manera que se busque la solución pronta del conflicto planteado en beneficio de las partes;
+
+VI. Fungir como árbitro y pronunciar los laudos que correspondan cuando las partes se sometan expresamente al arbitraje;
+
+VII. Emitir sugerencias para el mejoramiento de la prestación de los servicios de salud y opiniones técnicas cuando sean necesarias para la substanciación de las quejas a que atienda.
+
+Para la emisión de las opiniones técnicas deberá auxiliarse en la consulta a los Colegios de profesionistas en salud y los demás que se requieran según la naturaleza del caso;
+
+VIII. Hacer del conocimiento del órgano de control competente, la negativa expresa o tácita de un servidor público de proporcionar la información que le hubiere solicitado la Comisión, en ejercicio de sus atribuciones;
+
+IX. Hacer del conocimiento de las autoridades competentes, y de los colegios, academias, asociaciones y consejos de médicos, así como de los comités de ética u otros similares, la negativa expresa o tácita de los prestadores de servicios, de proporcionar la información que le hubiere solicitado la Comisión;
+
+X. Celebrar convenios, contratos y acuerdos con los sectores público, privado y social necesario para acciones de coordinación y concertación que le permitan cumplir con sus funciones;
+
+XI. Sugerir, a su coordinadora de sector, anteproyectos de reformas, modificaciones, actualizaciones o adecuaciones al marco normativo legal y reglamentario en materia de derechos y obligaciones de los usuarios y prestadores de servicios de atención médica;
+
+XII. Administrar sus recursos humanos, así como los materiales y financieros que conformen su patrimonio, con sujeción a las disposiciones legales aplicables;
+
+XIII. Remitir a la Comisión de Derechos Humanos, la documentación e informes que solicite a fin de atender quejas de su competencia; y
+
+XIV. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 113.
 
-La Secretaría solicitará a las dependencias correspondientes del Estado un registro actualizado de las instituciones educativas y centros de capacitación dedicados a la especialidad del turismo reconocidos oficialmente, con la finalidad de promover ante los Prestadores de Servicios Turísticos su profesionalización y capacitación permanente y continua.
+Para el cumplimiento de sus funciones, la Comisión contará con:
 
-La Secretaría promoverá la vinculación entre los centros de enseñanza y las empresas turísticas.
+I. Un Consejo;
+
+II. Un Presidente;
+
+III. Un Secretario; y
+
+IV. Las unidades administrativas que determine su Reglamento Interno.
 
 ###### Artículo 114.
 
-La Secretaría fomentará:
-
-I. La creación y ejecución de políticas públicas, programas y acciones que incrementen la calidad y competitividad en el sector turístico;
-
-II. La profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad;
-
-III. La certificación en competencias laborales;
-
-IV. La formación para la especialización en sostenibilidad y accesibilidad del sector;
-
-V. La capacitación en competitividad turística;
-
-VI. La modernización tecnológica de las empresas turísticas;
-
-VII. La sana competencia entre los Prestadores de Servicios Turísticos;
-
-VIII. El otorgamiento de incentivos, distintivos, certificados o reconocimientos a los Prestadores de Servicios Turísticos, de acuerdo con los lineamientos que establezca la propia Secretaría, y
-
-IX. Programas de profesionalización para los pueblos y comunidades indígenas que respondan a sus necesidades y enfocado al desarrollo de actividades de turismo sostenible dentro de sus comunidades, garantizando en todo momento el respeto y preservación de su identidad.
+El Consejo se integrará por seis consejeros titulares y el Presidente, quien lo presidirá. Por cada consejero se designará un suplente, quienes cubrirán las ausencias de los titulares y actuarán con todas la facultades inherentes al cargo.
 
 ###### Artículo 115.
 
-La Secretaría propondrá la celebración de acuerdos con la Secretaría del Trabajo del Gobierno del Estado para el desarrollo de programas de capacitación y adiestramiento dirigidos al personal de establecimientos turísticos.
+Los Consejeros serán designados por el Titular del Ejecutivo Estatal, quién nombrará también a sus suplentes. La designación recaerá en distinguidas personalidades de la sociedad civil de reconocida trayectoria profesional. Participarán como Consejeros a invitación del Gobernador del Estado, el Presidente del Colegio de Médicos del Estado y un representante de los Colegios de Abogados de la entidad.
+
+El cargo de Consejero será honorífico y durará tres años, a excepción de los presidentes de los colegios mencionados, quienes estarán sujetos al tiempo que duren en el encargo. Los Consejeros podrán ser confirmados por un período más.
 
 ###### Artículo 116.
 
-La Secretaría, en el ámbito de su competencia, promoverá los procedimientos de certificación de los prestadores de servicios y destinos turísticos del Estado.
+El Consejo sesionará ordinariamente, por lo menos una vez cada tres meses, extraordinariamente cuantas veces sea necesaria para su debido funcionamiento, previa convocatoria y a solicitud del Presidente o la mayoría de los miembros, las decisiones se tomarán por mayoría de votos, en caso de empate, el Presidente tendrá voto de calidad.
 
 ###### Artículo 117.
 
-Los Prestadores de Servicios Turísticos certificados serán acreedores a los siguientes beneficios:
-
-I. Ser reconocido como un agente que brinda un servicio de calidad con el afán de incrementar sus índices de rentabilidad y competitividad;
-
-II. Recibir el documento que lo acredite como un ofertante de un elemento diferenciador y altamente competitivo en el mercado turístico, y
-
-III. Acceder a incentivos, promoción y participación en eventos de alto impacto turístico.
-
-IV. Las demás que establezca el Reglamento correspondiente.
+Para que las reuniones del Consejo sean válidas se requiere la asistencia de la mayoría de sus integrantes, entre los que deberá estar presente el Presidente.
 
 ###### Artículo 118.
 
-El desarrollo artesanal constituye una actividad prioritaria del desarrollo económico, por lo que se deberá generar y distribuir recursos equitativamente, crear el empleo sostenible y reforzar la identidad cultural y social mexiquense.
+El Consejo tendrá las siguientes atribuciones:
 
-Se reconoce a la actividad artesanal con la misma importancia que a la actividad turística en el Estado, ya que ambas se complementan, por lo que el IIFAEM desarrollará políticas públicas y Acciones Afirmativas para la protección de las personas artesanas y sus artesanías, así como para el desarrollo artesanal.
+I. Definir, en congruencia con los planes y programas nacionales y estatales, las políticas de administración y de servicios, a seguir por la Comisión;
+
+II. Examinar, discutir y aprobar, en su caso, los programas y planes de trabajo y los proyectos de presupuesto;
+
+III. Revisar la estructura orgánica básica de la Comisión, y proponer al titular del Ejecutivo del Estado para su aprobación, las modificaciones que juzgue convenientes;
+
+IV. Aprobar su reglamento interior y las disposiciones que regulen a la Comisión, para su expedición en los términos de la normatividad aplicable;
+
+V. Aprobar el reglamento de procedimientos para la atención de quejas, observando las disposiciones jurídicas aplicables a los mismos;
+
+VI. Conocer de los asuntos que someta a su consideración el Presidente;
+
+VII. Analizar y en, su caso, aprobar el informe que el Presidente presentará anualmente al Titular del Ejecutivo Estatal;
+
+VIII. Evaluar periódicamente el funcionamiento de la Comisión y formular las recomendaciones correspondientes al desempeño y resultados que se obtengan; y
+
+IX. Las demás que le confieran otras disposiciones aplicables.
 
 ###### Artículo 119.
 
-La artesanía se clasifica en:
+El Presidente y Secretario del Consejo serán nombrados y removidos por el Gobernador Constitucional del Estado.
 
-I. Tradicional: Objetos de uso utilitario, ritual, estético y representan costumbres y tradiciones de una región específica; y
-
-II. Innovada: Objetos decorativos o utilitarios, influenciados por la tendencia del mercado.
-
-El Reglamento de la presente Ley deberá establecer la clasificación específica de las artesanías de conformidad con las disposiciones jurídicas aplicables.
+Para lo anterior, el Ejecutivo escuchará previamente las proposiciones de las instituciones y organizaciones académicas, profesionales y gremiales.
 
 ###### Artículo 120.
 
-Se prohíbe cualquier práctica discriminatoria y de exclusión social por parte de las Instituciones que aplican programas y actividades para el desarrollo artesanal en el Estado.
+Para ser nombrado Presidente se requiere:
+
+I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
+III. Tener título legalmente expedido y registrado en disciplinas de la medicina;
+
+IV. Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de las actividades que se vinculen a las atribuciones de la Comisión; y
+
+V. No haber sido condenado, por sentencia ejecutoriada, por delito intencional.
 
 ###### Artículo 121.
 
-El IIFAEM será la instancia a través de la cual se escucharán, atenderán y resolverán las necesidades del sector artesanal mediante la participación responsable, democrática y activa de los propios artesanos, con la finalidad de mejorar su calidad de vida, en términos de lo establecido en la Ley de Fomento Económico del Estado de México. Para lo cual, con representación de la Secretaría, realizará las siguientes acciones:
+Para ser nombrado Secretario se requiere:
 
-I. Elaborar la política pública de desarrollo artesanal a partir de lo establecido en el Plan de Desarrollo del Estado y las directrices internacionales que aplique en la materia;
+I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Foros de consulta regionales para la recopilación de las propuestas de las y los artesanos que coadyuven para la elaboración del Programa Estatal de Desarrollo Artesanal;
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-III. Elaborar el Programa Artesanal que deberá incluir diagnóstico, objetivos, metas, estrategias, acciones e indicadores claros para lograr el desarrollo económico, social y cultural del sector con un enfoque sostenible;
+III. Tener título legalmente expedido y registrado en disciplinas de la medicina, o derecho;
 
-IV. Diseñar Acciones Afirmativas para rescatar, preservar y fortalecer la actividad artesanal;
+IV. Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de las actividades que se vinculen a las atribuciones de la Comisión; y
 
-V. Elaborar y actualizar el Catálogo Mexiquense y el Registro Estatal de Artesanas y Artesanos;
-
-VI. Fomentar la organización entres las y los artesanos de la misma actividad y región, y
-
-VII. Diseñar un Programa Estatal de Mercadotecnia Artesanal.
+V. No haber sido condenado, por sentencia ejecutoriada, por delito intencional.
 
 ###### Artículo 122.
 
-Corresponde al IIFAEM:
+Son facultades y obligaciones del Presidente:
 
-I. Generar mecanismos de protección para el proceso de producción artesanal, para evitar la extinción de las técnicas artesanales;
+I. Representar a la Comisión en los asuntos que se deriven de las funciones de la misma;
 
-II. Desarrollar acciones para la protección de la propiedad intelectual de las artesanías mexiquenses en favor de sus creadores;
+II. Ejecutar los acuerdos y resoluciones que emita el Consejo;
 
-III. Ejecutar el Programa Artesanal;
+III. Conducir el funcionamiento del Consejo, vigilando el cumplimiento de sus objetivos y programas;
 
-IV. Publicar y difundir en el Observatorio todas las investigaciones que realice;
+IV. Formular los lineamientos a que se sujetarán las actividades administrativas y conducir el funcionamiento de la Comisión, de su personal, de sus recursos financieros y materiales que se le asignen para el desarrollo de sus actividades, vigilando, el cumplimento de sus objetivos y programas;
 
-V. Informar detalladamente todas las actividades realizadas, ante la Comisión Legislativa de Desarrollo Turístico y Artesanal, de manera anual, en el mes de octubre, y
+V. Someter a consideración del Consejo el reglamento interior, así como el reglamento de procedimientos y demás disposiciones internas que regulen a la Comisión;
 
-VI. Todas las que emanen de (sic) Ley de Fomento Económico para el Estado de México y de la presente Ley.
+VI. Establecer de conformidad con el reglamento interior las unidades de servicios técnicos, de apoyo y asesoría necesarias para el desarrollo de las funciones de la Comisión;
+
+VII. Nombrar y remover al personal al servicio de la Comisión;
+
+VIII. Celebrar toda clase de actos jurídicos que permitan el cumplimiento del objeto de la Comisión;
+
+IX. Presentar al Ejecutivo Estatal, un informe anual de las actividades realizadas y de los resultados obtenidos, acompañando los informes específicos que se le requieran, procurando que este informe sea difundido ampliamente entre la sociedad;
+
+X. Solicitar todo tipo de información a los usuarios y prestadores de servicios médicos y practicar las diligencias necesarias para el cumplimiento de las atribuciones de la Comisión;
+
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
+
+XI. Llevar a cabo los procedimientos de conciliación y arbitraje a que se refieren las fracciones V y VII del artículo 112 de la presente Ley, y de conformidad con el reglamento que para tal efecto expida el Consejo;
+
+XII. Emitir los acuerdos, laudos y opiniones en asuntos de la competencia de la Comisión;
+
+XIII. Elaborar los dictámenes que le sean solicitados por las autoridades encargadas de la procuración e impartición de justicia, en los términos de las disposiciones aplicables;
+
+XIV. Vigilar el cumplimiento de las resoluciones, así como de los convenios que se deriven de los procedimientos de conciliación y arbitraje respectivos;
+
+XV. Establecer los mecanismos de difusión que permitan a los usuarios y prestadores de servicios médicos y a la sociedad sinaloense en su conjunto, conocer sus derechos y obligaciones en materia de salud, así como las funciones de la Comisión; y
+
+XVI. Las demás que el Consejo, esta Ley y otras disposiciones legales le confieran.
 
 ###### Artículo 123.
 
-El IIFAEM en coordinación con las dependencias y entidades de la administración pública estatal y municipal, los sectores social y privado, es responsable de fomentar y promocionar la actividad artesanal a nivel municipal, estatal, nacional e internacional.
+Son facultades y obligaciones del Secretario:
+
+I. Auxiliar al Presidente en los asuntos de su competencia;
+
+II. Llevar los asuntos de carácter legal que se sometan a su consideración;
+
+III. Proponer al Presidente medidas para el mejoramiento operativo de la Comisión;
+
+IV. Proponer al Presidente el procedimiento de orientación, conciliación y arbitraje;
+
+V. Servicios de asesor de enlace jurídico con la Comisión Nacional de Arbitraje Médico;
+
+VI. Vigilar el desarrollo de las acciones en las áreas de orientación, conciliación y arbitraje;
+
+VII. Recibir y dar cauce legal a los dictámenes que soliciten a la Comisión, por parte de las autoridades de procuración e impartición de justicia;
+
+VIII. Proponer al Presidente programas de vinculación con los sectores público, social y privado, que favorezcan al desarrollo de la Comisión; y
+
+IX. Las demás que le sean conferidas por el Presidente, el reglamento interior o le otorguen las disposiciones aplicables en la materia.
 
 ###### Artículo 124.
 
-El IIFAEM en coordinación con:
+El procedimiento para la resolución de controversias será público, gratuito, inmediato, predominantemente escrito y se iniciará a instancia de parte.
 
-I. Las dependencias estatales y municipales competentes, los sectores social y privado:
-
-a) Promoverá mejoras en los espacios de producción y comercialización artesanal; y
-
-b) Diseñará, fomentará y distribuirá material publicitario impreso, así como en diversas plataformas digitales y redes sociales, para fortalecer la presencia y reconocimiento de las y los artesanos y de la actividad artesanal desarrollada en la Entidad;
-
-II. Los Municipios con presencia artesanal, crearán Casas Artesanales Municipales, con el objetivo de capacitar a personas interesadas, fortalecer, difundir el conocimiento y rescate de técnicas artesanales, cuyos instructores serán artesanas y artesanos que obtengan la certificación de competencias de oficios artesanales;
-
-III. Los Municipios realizarán foros, encuentros y exposiciones artesanales de carácter regional, con la finalidad de promover y preservar la identidad cultural de la Entidad;
-
-IV. Los Directores Municipales de Turismo organizarán, fomentarán y difundirán concursos entre el sector artesanal proporcionando reconocimientos, estímulos, herramientas y materia prima para su producción, atendiendo lo establecido en la convocatoria.
-
-V. Las Casas Artesanales Municipales orientarán a las artesanas y los artesanos para participar en ferias, exposiciones y eventos de carácter nacional e internacional.
+Los procedimientos de arbitraje y amigable composición se sujetarán al reglamento de procedimientos que para tal efecto emita el Consejo, y en lo conducente lo que señala el Código de Procedimientos Civiles vigente para el Estado de Sinaloa.
 
 ###### Artículo 125.
 
-El IIFAEM brindará asesoría a las artesanas y artesanos con la finalidad de que accedan al financiamiento público a través de los programas federales y estatales que estén en operación, de igual forma al financiamiento privado, fortaleciendo los componentes de productividad, mercado y competitividad.
+La vigilancia de la Comisión estará a cargo de la Secretaría de la Contraloría y Desarrollo Administrativo del Estado, quien ejercerá las funciones que establecen las leyes de la materia, sin perjuicio de lo que en los términos de las disposiciones aplicables le competen a la Secretaría de Salud.
 
 ###### Artículo 126.
 
-El IIFAEM impulsará la actividad artesanal mediante la formación y capacitación de las personas artesanas, así como de las nuevas generaciones, en el fomento y difusión de técnicas tradicionales y modernas. Creará y difundirá el Programa Anual de Capacitación Artesanal, resultado del diagnóstico para el sector artesanal, en materia financiera, propiedad intelectual, registro de marcas, de denominación de origen, expansión de mercados, comercialización nacional e internacional, en general, el emprendedurismo. Los temas anteriormente señalados no son limitativos de otros que pudieran surgir como resultado del diagnóstico. El Programa Anual de Capacitación Artesanal formará parte del Programa Artesanal.
+La estructura orgánica interna de la Comisión será la que fije su Reglamento Interior.
 
-## TÍTULO SÉPTIMO. De los Aspectos Operativos
+## TÍTULO SÉPTIMO. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
 
-### CAPÍTULO I. De la Promoción y Fomento al Turismo Sostenible
+### CAPÍTULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 127.
 
-El IIFAEM asesorará a las artesanas y artesanos en la obtención y uso de materias primas, así como el aprovechamiento sostenible de los recursos naturales de la región utilizados en la producción de artesanías.
+Para los efectos de esta ley, se considera usuario de los servicios de salud, a toda persona que requiera y obtenga, los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que, para cada modalidad, se establezcan en esta ley y demás disposiciones legales aplicables.
+
+La prestación de los servicios de atención médica, deberá respetar en todo momento los derechos de los usuarios.
 
 ###### Artículo 128.
 
-Las personas artesanas tienen el derecho de organizarse y constituir asociaciones, cooperativas, empresas y todas aquellas figuras jurídico colectivas reconocidas por las leyes civiles y mercantiles con la finalidad de fortalecer su actividad a través de la acción colectiva.
-
-Las organizaciones artesanales se regirán por los principios de igualdad, certeza y legalidad; buscando el bien común de todos y de cada uno de los integrantes que la constituyen y propiciando siempre una economía justa y solidaria.
+Los usuarios tienen derecho a obtener servicios de salud con oportunidad y a recibir atención profesional y éticamente responsable, así como un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
 ###### Artículo 129.
 
-El IIFAEM capacitará, orientará y acompañará a las artesanas y artesanos para fomentar la exportación de sus productos, vinculándolos con las dependencias competentes en materia de comercio exterior.
+Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
 ###### Artículo 130.
 
-El IIFAEM en coordinación con el sector artesanal, implementará estrategias para llevar a cabo programas de calidad en la producción artesanal.
-
-El IIFAEM garantizará una artesanía mexiquense auténtica y singular; dando certeza al consumidor y atendiendo así las expectativas de los nichos de mercado nacionales e internacionales.
-
-La singularidad y autenticidad en una artesanía se refiere al uso de insumos de la región y técnicas tradicionales, no implica la exclusión de artesanos en función del distinto nivel de manejo de la técnica.
+Las autoridades competentes establecerán los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y a los servicios sociales y privados en el Estado.
 
 ###### Artículo 131.
 
-El IIFAEM en coordinación con las dependencias y entidades estatales y municipales, el sector social y privado, desarrollará, y solicitará espacios y redes de comercio para la venta y exposición de las artesanías como mercados municipales, ferias, tianguis, aeropuertos, terminales, plazas comerciales, galerías, exposiciones y destinos turísticos nacionales e internacionales, así como plataformas digitales.
+Las autoridades sanitarias del Estado e instituciones de salud, establecerán:
+
+I. Sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran;
+
+II. Procedimientos para la presentación de quejas, reclamaciones o sugerencias respecto de la prestación de servicios de atención médica por parte de los servidores públicos; y
+
+III. Mecanismos alternativos de solución de controversias, mediante el arbitraje y la conciliación, que se sujetarán a lo dispuesto en la presente Ley.
 
 ###### Artículo 132.
 
-El IIFAEM establecerá una campaña permanente de sensibilización y concientización de no al regateo y pago justo de las artesanías, de tal modo que los precios sean rentables para las y los artesanos.
+Las personas e instituciones públicas o privadas que tengan conocimiento de accidentes o de que alguna persona requiera de la prestación urgente de servicios de salud, auxiliarán por los medios a su alcance, que la misma sea transportada a los establecimientos de salud más cercanos, en los que pueda recibir atención inmediata, sin perjuicio de su traslado posterior a otras instituciones.
 
 ###### Artículo 133.
 
-El IIFAEM en coordinación con los Ayuntamientos impulsará la organización de ferias artesanales en cada uno de los municipios mexiquenses y que los precios para acceder a los espacios en ferias y exposiciones sean accesibles y razonables para el sector artesanal.
+De conformidad con las disposiciones legales aplicables, los agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-El IIFAEM priorizará la comercialización directa de las artesanías entre las y los artesanos con los consumidores, evitando la intervención de intermediarios.
-
-### CAPÍTULO II. De la Inversión en la Actividad Turística Sostenible
+### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### Artículo 134.
 
-El IIFAEM coordinará, operará y determinará los plazos, condiciones y forma para realizar el Registro Estatal de Artesanas y Artesanos y el Catálogo Mexiquense.
+La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los sistemas de salud y mejorar el nivel de salud de la población.
 
 ###### Artículo 135.
 
-El IIFAEM será el responsable de actualizar permanentemente el Registro Estatal de Artesanas y Artesanos, que deberá contener por lo menos lo siguiente:
+La comunidad podrá participar en los servicios de salud de los sectores público, social y privado, a través de las siguientes acciones:
 
-I. Nombre y fotografía de la artesana o artesano;
+I. Promoción de hábitos de conducta, que contribuyan a proteger y solucionar problemas de salud e intervención en programas de promoción y mejoramiento de ésta, así como de la prevención de enfermedades y accidentes;
 
-II. Nombre y fotografía de la artesanía;
+II. Colaboración en la prevención o tratamiento en problemas ambientales vinculados a la salud;
 
-III. Materiales, técnica y proceso artesanal de elaboración;
+III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
 
-IV. Domicilio particular y del taller artesanal;
+IV. Informar a cualquier institución de salud sobre la existencia de personas que requieran de servicios de salud, cuando aquellas se encuentren impedidas de solicitar auxilio por sí mismos;
 
-V. Grupo étnico, en caso de pertenecer a alguno;
+V. Formulación de sugerencias para mejorar los servicios de salud;
 
-VI. Contacto y redes sociales;
+VI. Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de los servicios de salud;
 
-VII. Nombre de la organización artesanal, en caso de pertenecer (sic) alguna;
+VII. Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos; y
 
-VIII. Contextualización histórica de la artesanía;
-
-IX. Trayectoria de la artesana o artesano en el sector; y
-
-X. Lugar y espacios de comercialización de la artesanía.
-
-El Registro Estatal de Artesanas y Artesanos estará conformado por los 125 Registros Municipales de Artesanas y Artesanos.
+VIII. Otras actividades que coadyuven a la protección de la salud.
 
 ###### Artículo 136.
 
-La Dirección Municipal de Turismo realizará el Registro Municipal de Artesanas y Artesanos considerando a aquellos que desempeñen su actividad artesanal en el Municipio, el cual servirá para elaborar el Registro Estatal de Artesanas y Artesanos y contendrá como mínimo los datos considerados para éste.
-
-El Registro Municipal de Artesanas y Artesanos se actualizará anualmente, la inscripción de las personas artesanas, talleres, organizaciones y empresas artesanales será gratuita.
-
-Las personas artesanas no podrán inscribirse en más de un Registro Municipal de Artesanas y Artesanos, debiendo acreditar para su inscripción el lugar donde elaboran su artesanía.
+La Secretaría de Salud y demás instituciones estatales de salud, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar, organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como los de prevención de enfermedades y accidentes; de invalidez y rehabilitación de inválidos.
 
 ###### Artículo 137.
 
-El IIFAEM expedirá la credencial de artesanos a todos los inscritos en el Registro Estatal de Artesanas y Artesanos.
+Con sujeción a la Ley de Gobierno Municipal, en cada Municipio, sindicaturas, comisarías, ejidos y comunidades podrá constituirse un consejo municipal o Comités de Salud, según sea el caso, que tendrán como objetivos fomentar una cultura orientada a la salud, coadyuvar al mejoramiento, vigilancia y prestación de los servicios de salud de su localidad, y promover la preservación de condiciones ambientales que favorezcan a la salud pública.
+
+Estos Comités de Salud, serán promovidos por los Ayuntamientos y los Comisariados Ejidales y Comunales, en coordinación con las instituciones de salud y las autoridades educativas competentes.
 
 ###### Artículo 138.
 
-La Dirección Municipal de Turismo realizará el Catálogo Municipal, debiendo registrar las artesanías sólo de los artesanos inscritos en el Registro Municipal de Artesanas y Artesanos, el registro será gratuito.
+Corresponderá a los ayuntamientos, en coordinación con las entidades y dependencias competentes en las materias de planeación del desarrollo, y de salud, la planeación, autorización, constitución y organización de los consejos a que se refiere el artículo anterior.
 
-El Catálogo Municipal será actualizado anualmente, y se enviará la información al IIFAEM para que actualice el Catálogo Mexiquense, el cual estará integrado por los 125 Catálogos Municipales.
+Los consejos municipales de salud realizarán las siguientes funciones:
+
+I. Elaborar en su ámbito, el diagnóstico municipal de salud;
+
+II. Identificar las prioridades en materia de salud, en el ámbito municipal;
+
+III. Elaborar y ejecutar proyectos de intervención para la solución de los problemas identificados como prioritarios; y
+
+IV. Apoyar la integración y vigilar el funcionamiento de los comités de salud que, en su caso, se constituyan en las delegaciones y agencias municipales.
 
 ###### Artículo 139.
 
-La artesanía es un producto turístico auténtico y singular, por lo que el IIFAEM en coordinación con las dependencias y entidades estatales, municipales, sector privado y social, impulsará políticas y programas para salvaguardar los derechos derivados de la creatividad de las y los artesanos.
+Se concede acción popular para denunciar, ante las autoridades sanitarias del Estado, todo acto u omisión que represente un riesgo o que provoque un daño a la salud de la población.
 
-## TÍTULO OCTAVO. Del Desarrollo Artesanal
+La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo, por lo cual deberá:
 
-### CAPÍTULO III. De los Estímulos a la Inversión Turística y al Desarrollo Artesanal
+I. Denunciar los hechos por escrito o personalmente ante la autoridad sanitaria, o unidad administrativa correspondiente, en su caso;
+
+II. Señalar el hecho, acto u omisión que a su juicio represente un riesgo o provoque un daño a la salud de la población; y
+
+III. Proporcionar los datos que permitan identificar y localizar en forma indubitable la causa del riesgo o daños sanitarios.
+
+Cuando la denuncia se haga en forma verbal el responsable de la oficina o unidad administrativa, en su caso, hará constar por escrito la denuncia con base en las declaraciones del denunciante.
+
+La oficina mencionada o la autoridad sanitaria, según se trate, deberá proporcionar al denunciante copia del documento en el que conste la denuncia con sello de recepción. Una vez recibida la denuncia la oficina mencionada o la autoridad sanitaria, en su caso remitirá el escrito de denuncia en un término de no mayor de cinco días hábiles a la unidad administrativa competente, en la cual deberá informar al denunciante de la atención que se dé a la denuncia. En ningún caso se dará trámite a denuncia anónima.
+
+## TÍTULO OCTAVO. DE LA DISPOSICIÓN DE ÓRGANOS Y TEJIDOS DE SERES HUMANOS
+
+### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
 ###### Artículo 140.
 
-La artesanía procedente y elaborada en el Estado tiene un reconocimiento de creación individual o colectiva de las comunidades de las que son originarias, por lo que el IIFAEM promoverá la protección de las artesanías mexiquenses a través de programas de asesoría y capacitación en propiedad intelectual, propiedad industrial y derechos de autor dirigidos a las y los artesanos, conforme a la normatividad aplicable.
+Los aspectos concernientes al control sanitario de la disposición de órganos, tejidos, y sus componentes y derivados, productos y cadáveres de seres humanos, con fines terapéuticos, son regulados conforme a las normas correspondientes contenidas en la Ley General de Salud; el Reglamento de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos; las Normas Oficiales Mexicanas; y de los acuerdos de observancia general que en la materia dicten las autoridades competentes.
 
 ###### Artículo 141.
 
-El IIFAEM promoverá y gestionará ante la autoridad federal competente, a petición de las y los artesanos, certificaciones, constancias, distintivos, denominaciones de origen, marcas y sellos a las y los artesanos y empresas artesanales para acreditar la autoría y originalidad de las artesanías hechas en la Entidad.
+El Gobierno del Estado, a través del Titular del Poder Ejecutivo, concurrirá con las autoridades federales en la materia, a efecto de coadyuvar en los objetivos del Sistema Nacional de Trasplantes, así como en las diversas acciones y actividades que se deriven del Programa Nacional de Trasplantes. Asimismo, las autoridades sanitarias estatales procurarán el apoyo y la coordinación con: el Consejo Nacional de Trasplantes, los consejos de trasplantes de las demás entidades federativas, las instituciones de educación superior a través de sus escuelas y facultades de medicina, los colegios y las academias legalmente reconocidas de medicina, cirugía y ciencias; y las instituciones de salud: públicas, sociales y privadas con autorización legal y capacidad técnica para realizar conforme a los procedimientos jurídicos y protocolos médicos vigentes, la disposición de órganos y tejidos con fines terapéuticos.
 
 ###### Artículo 142.
 
-Es derecho de las personas artesanas de la Entidad:
-
-I. Ser reconocidos, como promotores de la cultura e identidad mexiquense;
-
-II. Recibir un trato digno y respetuoso por parte de las autoridades y servidores públicos de todos los niveles de gobierno;
-
-III. Registrar su artesanía en el Catálogo Municipal;
-
-IV. Tener acceso a programas públicos de apoyo al sector artesanal a nivel estatal y municipal, cumpliendo los requisitos que se estipulen para acceder a los mismos;
-
-V. Participar en las prácticas de comercio justo y economía solidaria; y
-
-VI. Tener acceso a la información pública, la cual se les ha de brindar de manera clara, transparente y a la brevedad posible.
+Es de interés público en el Estado de Sinaloa, el promover la cultura de donación entre la población, como forma esencialmente humanista y de solidaridad entre los individuos, en virtud de que representa una alternativa para recobrar la salud de las personas.
 
 ###### Artículo 143.
 
-Es obligación de las y los artesanos de la Entidad:
+El Gobierno del Estado, a través del Titular del Poder Ejecutivo, garantizará mecanismos eficaces para:
 
-I. Inscribirse en el Registro Municipal de Artesanas y Artesanos;
+I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos y tejidos en los términos de la legislación aplicable;
 
-II. Promover la cultura e identidad mexiquenses;
+II. Promover que las instituciones de salud acreditadas y certificadas legalmente para ello, puedan realizar los procedimientos de trasplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los usuarios de los servicios de salud; y
 
-III. Respetar y valorar el trabajo de sus homólogos artesanas y artesanos;
+III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coordinación entre las autoridades sanitarias a que se refiere esta Ley.
 
-IV. Respetar la técnica tradicional de producción artesanal, y
+Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
 
-V. Las demás que se deriven de la presente Ley.
-
-### CAPÍTULO I. De la Capacitación y Certificación Turística
+### CAPÍTULO ÚNICO
 
 ###### Artículo 144.
 
-Corresponde a la Secretaría vigilar el cumplimiento de las disposiciones de esta Ley y su reglamento.
+Se crea el Consejo Estatal de Trasplantes de Órganos y Tejidos Humanos de Sinaloa, como una comisión interinstitucional de la Administración Pública Estatal que tendrá como domicilio la ciudad de Culiacán Rosales, Sinaloa.
 
 ###### Artículo 145.
 
-Las infracciones que los prestadores de servicios cometan a lo dispuesto en la Ley General y a las disposiciones que deriven de ella, así como a lo dispuesto en esta Ley y su reglamento, serán sancionadas por las autoridades competentes, conforme la legislación aplicable y con base en los acuerdos de coordinación celebrados con el Gobierno Federal, a que se refiere la Ley General.
+El Consejo Estatal de Trasplantes tendrá por objeto promover, apoyar, coordinar, consolidar e implementar las diversas acciones y programas en materia de trasplantes, disposición de órganos y tejidos de seres humanos con fines terapéuticos, que realicen las instituciones de salud, en el Estado de los sectores público, social y privado, así como decidir y vigilar la asignación de órganos y tejidos en los términos que determina la legislación aplicable.
 
 ###### Artículo 146.
 
-La imposición y ejecución de las sanciones, se realizará en los términos del Código de Procedimientos Administrativos del Estado de México.
+El Consejo Estatal de Trasplantes se integrará de la forma siguiente:
+
+I. Un Presidente, que será el Secretario de Salud del Gobierno del Estado;
+
+II. Un Secretario Técnico, designado por el Consejo a propuesta del Presidente; y
+
+III. Vocales:
+
+a) El Secretario de Educación Pública y Cultura.
+
+b) El Procurador General de Justicia del Estado.
+
+c) El Director General de Servicios de Salud del Estado de Sinaloa.
+
+A invitación expresa del Gobierno Constitucional del Estado:
+
+d) Un representante de la Secretaría de la Defensa Nacional.
+
+e) Un representante de la Secretaría de Marina.
+
+f) Un representante de la Secretaría de Educación Pública.
+
+g) Un representante de la Secretaría de Salud.
+
+h) Un representante de la Procuraduría General de la República.
+
+i) Un representante de la Delegación Estatal del Instituto Mexicano del Seguro Social.
+
+j) Un representante de la Delegación Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+k) Dos representantes de las instituciones académicas de reconocido prestigio en las ciencias médicas.
+
+l) Aquellas personas e instituciones que por su experiencia puedan auxiliar al Consejo en la realización de su objeto.
 
 ###### Artículo 147.
 
-Los afectados por los actos, resoluciones o sanciones emitidos por la autoridad competente, con motivo de la aplicación de la presente Ley, podrán interponer en su caso, su inconformidad, conforme a lo previsto en el Código de Procedimientos Administrativos del Estado de México.
+El Consejo Estatal de Trasplantes sesionará conforme lo establezca su reglamento interior.
 
-T R A N S I T O R I O S
+El Presidente Ejecutivo podrá ser suplido en las sesiones por el Coordinador General.
 
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+Por cada representante, se designará a un suplente que lo sustituirá durante sus faltas temporales.
 
-SEGUNDO. A partir de la entrada en vigor de la presente Ley, se derogan todas las disposiciones de competencia local que le contravengan.
+###### Artículo 148.
 
-TERCERO. El Reglamento de la presente Ley deberá emitirse en un plazo no mayor a 180 días hábiles a partir de su entrada en vigor.
+El Consejo Estatal de Trasplantes, tendrá a su cargo las atribuciones siguientes:
 
-CUARTO. El Consejo Estatal y los Consejos Municipales deberán instalarse en un plazo no mayor a 30 días hábiles a partir de la vigencia de la presente Ley.
+I. Diseñar, instrumentar, operar y dirigir el Sistema Estatal de Trasplante;
 
-QUINTO. Se otorga un plazo de 60 días hábiles, a partir de la vigencia de la presente Ley, para crear el Programa Municipal de Turismo Sostenible y Desarrollo Artesanal, así como el Registro Municipal de Turismo Sostenible, el Registro Municipal de Artesanas y Artesanos y el Catálogo Municipal.
+II. Elaborar y aplicar el Programa Estatal de Trasplante;
 
-Una vez creados los Registros y Catálogos Municipales, la información será enviada a la Secretaría y al IIFAEM para la creación del Registro Estatal de Turismo Sostenible, el Registro Estatal de Artesanas y Artesanos y el Catálogo Mexiquense.
+III. Mantener comunicación y coordinación con el Consejo Nacional de Trasplante, a efecto de emprender acciones de complementación y colaboración con las acciones del Registro Nacional de Trasplante;
 
-SEXTO. Se otorga un plazo de 120 días hábiles, a partir de la vigencia de la presente Ley, para la creación del Observatorio, conforme a lo dispuesto en el Capítulo III del Título Tercero.
+IV. Proporcionar información y colaborar con las acciones del Registro Nacional de Trasplantes;
 
-SÉPTIMO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se hagan referencias al Fideicomiso para la Promoción Turística se entenderán hechas al Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal, el cual cambia de denominación y se constituirá con los recursos del Fideicomiso vigente.
+V. Dictar medidas y lineamientos generales, para una mejor operación, al Registro Estatal de Donadores del Estado de Sinaloa; y colaborar con las instituciones y autoridades competentes, a fin de que se respete con eficacia la voluntad de las personas que han decidido donar sus órganos y tejidos;
 
-Los convenios, contratos y acuerdos suscritos con antelación con cargo u obligación por parte del Fideicomiso para la Promoción Turística seguirán teniendo vigencia y constituirán parte de los derechos y obligaciones del Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal.
+VI. Llevar el Registro de Receptores o sujetos susceptibles a trasplante, que se integrará en forma sistemática y cronológica de acuerdo con su presentación, con los casos que obligadamente, cada una de las instituciones de salud integrantes del propio Consejo proporcionen e inscriban;
 
-Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+VII. Promover a través de actividades de educación, investigación, información y difusión, una cultura de donación entre la población;
 
-Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, Capital del Estado de México, a los quince días del mes de diciembre del año dos mil veinte.- Presidenta.- Dip. Karina Labastida Sotelo.- Secretarios.- Dip. Valentín González Bautista.- Dip. Bernardo Segura Rivera .- Dip. Araceli Casasola Salazar.- Rúbricas.
+VIII. Fomentar y sistematizar el estudio y la investigación, en el trasplante de órganos y tejidos de seres humanos con fines terapéuticos, mediante la instauración de premios, concursos, becas y reconocimientos; así como propiciar programas de capacitación para el personal médico y de enfermería en trasplante;
 
-Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+IX. Revisar permanentemente la legislación y la reglamentación, en la materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, a efecto de presentar ante las instancias competentes, observaciones y propuestas;
 
-Toluca de Lerdo, México, a 4 de enero de 2021.
+X. Promover y coordinar la colaboración y la complementación de acciones, entre las autoridades sanitarias federales y estatales involucradas en el procedimiento para la disposición de órganos y tejidos de seres humanos con fines terapéuticos; así como sus consejos homólogos de otras entidades federativas;
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO
+XI. Promover y coordinar la participación de los sectores social y privado, en acciones de apoyo en la materia, para lo cual principalmente impulsará la constitución de un patronato que allegue recursos financieros y materiales; así como invitar, cuando lo estime conveniente, a representantes de instituciones sociales, privadas y públicas, en calidad de vocales invitados, a participar en las sesiones del Consejo, a las cuales ocurrirán con voz pero sin voto;
 
-LIC. ALFREDO DEL MAZO MAZA
+XII. Presentar por conducto de su presidente, durante el primer bimestre de cada uno, un informe sobre lo realizado por el organismo, así como sobre los avances en cuanto a trasplante de órganos y tejidos de seres humanos con fines terapéuticos;
 
-(RÚBRICA).
+XIII. Proponer e impulsar ante las instituciones de educación superior y de salud, la formación de recursos humanos en la especialidad de trasplante, así como estudios e investigaciones en la materia en calidad de postgrados o especialidades;
 
-EL SECRETARIO GENERAL DE GOBIERNO
+XIV. Implementar un sistema de información con respecto al sistema y al Programa Estatal de Trasplantes, que permitan tanto la toma de decisiones, como la evaluación de la atención médica relacionada con los trasplantes;
 
-LIC. ERNESTO NEMER ALVAREZ
+XV. Diseñar el sistema logístico e informático, que permita la operación eficaz del Registro Estatal de Donadores;
 
-(RÚBRICA).
+XVI. Solicitar al Registro Estatal de Donadores, en forma bimestral, un informe respecto del número de donadores inscritos, así como de los casos de personas en que por voluntad propia o determinación médica, queden fuera del propio registro;
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+XVII. Coadyuvar para prevenir el tráfico ilegal de órganos y tejidos;
 
-G.G. 5 DE ABRIL DE 2024.
+XVIII. Aprobar su reglamento interior;
 
-### CAPÍTULO II. Del Registro de Prestadores de Servicios Turísticos
+XIX. Decidir y vigilar la asignación de órganos y tejidos en los términos de la legislación aplicable; y
 
-### CAPÍTULO III. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos
+XX. Las demás que le señale su reglamento y las demás disposiciones jurídicas conducentes.
 
-## TÍTULO NOVENO
+###### Artículo 149.
 
-### CAPÍTULO IV. De los Derechos y Obligaciones de los Excursionistas, Visitantes y Turistas
+El Consejo podrá determinar la creación de comités y grupos de trabajo, tanto de carácter permanente como transitorio, que estime convenientes para el estudio y solución de los asuntos relacionados con su objeto.
 
-### CAPÍTULO V. De la Protección, Información, Orientación y Auxilio a los Visitantes
+La integración de cada uno de los comités, así como su organización y funcionamiento, se sujetarán a lo que disponga el Reglamento Interno del Consejo.
 
-### CAPÍTULO VI. De la Competitividad y Profesionalización en la Actividad Turística
+### CAPÍTULO ÚNICO
 
-### CAPÍTULO VII. De la Certificación de la Actividad Turística
+###### Artículo 150.
 
-### CAPÍTULO I. De la Actividad Artesanal
+El Registro Estatal de Donadores del Estado de Sinaloa, tiene por objeto primordial, el asegurar con eficacia, el cumplimiento y la observancia de la voluntad de la persona que expresamente dona sus órganos y tejidos en los términos previstos por la legislación aplicable.
 
-### CAPÍTULO II. Planeación del Desarrollo Artesanal
+###### Artículo 151.
 
-### CAPÍTULO III. Fomento y Promoción de la Actividad Artesanal
+El Registro Estatal de Donadores tiene carácter confidencial, únicamente tendrán acceso a su información:
 
-### CAPÍTULO IV. Desarrollo y Capacitación Artesanal
+I. La autoridad judicial;
 
-### CAPÍTULO V. Organización y Comercialización Artesanal
+II. La autoridad sanitaria;
 
-### CAPÍTULO VI. Del Registro Artesanal
+III. El Consejo Estatal de Trasplantes; y
 
-### CAPÍTULO VII. Protección Artesanal y Propiedad Intelectual
+IV. Los establecimientos autorizados, conforme a la legislación aplicable, para la realización de trasplantes, en los casos y con las limitaciones que establece este ordenamiento.
 
-### CAPÍTULO VIII. De los Derechos y Obligaciones de las y los Artesanos
+###### Artículo 152.
 
-### CAPÍTULO ÚNICO. De la Verificación de los Servicios, Sanciones y del Recurso de Revisión
+Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador deberán solicitar y obtener información del Registro Estatal de Donadores, así como la disposición que el mismo hubiese hecho respecto de sus órganos y tejidos, con el objeto de proceder, en su caso y previo el cumplimiento de la legislación aplicable.
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 153.
+
+Es de interés público el promover la participación y colaboración de la sociedad y de sus diversos sectores, para apoyar las labores de las diversas instituciones de salud debidamente acreditadas, que realicen trasplantes de órganos y tejidos de seres humanos con fines terapéuticos.
+
+###### Artículo 154.
+
+Con el objeto de coordinar la participación y colaboración de la sociedad y de sus diversos sectores, se instituye el Consejo Pro Cultura de la Donación y el Trasplante de Órganos y Tejidos del Estado de Sinaloa.
+
+###### Artículo 155.
+
+El Consejo Pro Cultura de la Donación y el Trasplante de Órganos y Tejidos, será presidido por la Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia, y su mesa directiva se conformará de acuerdo con el instrumento público que le de formalidad.
+
+###### Artículo 156.
+
+El Consejo Pro Cultura de la Donación y el Trasplante de Órganos y Tejidos, procurará la más amplia participación de la comunidad para apoyar con recursos financieros y materiales las actividades propiamente médicas y quirúrgicas en materia de trasplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de las instituciones que participen en el sistema y en el programa estatal de trasplante, como lo son las de salud y el Registro Estatal de Donadores del Estado de Sinaloa.
+
+###### Artículo 157.
+
+El Consejo Estatal de Trasplantes definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por la gestión del Patronato, tanto para el Sistema como para el Programa Estatal de Trasplantes.
+
+## TÍTULO NOVENO. RECURSOS HUMANOS PARA LA SALUD
+
+### CAPÍTULO II. DE LOS MERCADOS Y CENTROS DE ABASTO
+
+###### Artículo 158.
+
+En el Estado, el ejercicio de las profesiones de las actividades técnicas y auxiliares y de las especialidades para la salud, estará sujeto a:
+
+I. La Ley de Profesiones del Estado de Sinaloa;
+
+II. Las bases de coordinación que, conforme a la ley, se definan entre las autoridades estatales educativas y sanitarias del Estado;
+
+III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la Federación; y
+
+IV. Las disposiciones de esta ley y demás normas legales aplicables.
+
+###### Artículo 159.
+
+La Dirección de Profesiones del Estado promoverá la creación de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud.
+
+Asimismo, estimulará su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+
+###### Artículo 160.
+
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados.
+
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social nutricional, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados.
+
+###### Artículo 161.
+
+La Dirección de Profesiones del Estado proporcionará a las autoridades sanitarias estatales la relación de cédulas profesionales expedidas en el área de la salud, así como la información complementaria sobre la materia, que sea necesaria.
+
+En virtud del convenio que celebren el Gobernador del Estado y el Ejecutivo Federal, en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere el párrafo anterior.
+
+###### Artículo 162.
+
+Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de registro ante la autoridad sanitaria y la cédula profesional correspondiente. Iguales menciones deberán consignarse en documentos, papelería y publicidad que utilicen en el ejercicio de tales actividades.
+
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
+
+### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
+
+###### Artículo 163.
+
+Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social, en los términos de las disposiciones legales aplicables.
+
+###### Artículo 164.
+
+Los aspectos docentes de la prestación del servicio social se regularán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorguen las disposiciones que fijen su organización y funcionamiento, y lo que determinen las autoridades educativas competentes.
+
+La operación de los programas en los establecimientos de salud del Estado, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias estatales.
+
+###### Artículo 165.
+
+Para la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias del Estado y las educativas, con la participación que corresponda a otras dependencias competentes.
+
+###### Artículo 166.
+
+La prestación del servicio social de los pasantes de las profesiones para la salud se llevará a cabo mediante la participación de los mismos, en las unidades aplicativas del primer nivel de atención, prioritariamente, en áreas rurales y urbanas de menor desarrollo económico y social del Estado.
+
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
+
+Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación con las instituciones educativas y de la salud, definirá los mecanismos para que los pasantes de las profesiones para la salud participen en la organización y operación de los comités de salud a que se refiere el artículo 137 de esta Ley.
+
+###### Artículo 167.
+
+Las autoridades sanitarias estatales, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+
+### CAPÍTULO V. DE LA LIMPIEZA PÚBLICA
+
+###### Artículo 168.
+
+Las autoridades sanitarias estatales recomendarán normas y criterios, para la formación de recursos humanos para la salud.
+
+Las autoridades sanitarias del Estado, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+
+###### Artículo 169.
+
+Corresponde al Gobernador, por conducto de la Secretaría de Salud, sin perjuicio de las atribuciones de las autoridades educativas en la materia, y en coordinación con éstas:
+
+I. Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado, en materia de salud;
+
+II. Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
+
+III. Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas, que rijan el funcionamiento de los primeros; y
+
+IV. Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud, en actividades docentes o técnicas.
+
+###### Artículo 170.
+
+La Secretaría de Salud, coadyuvará con las autoridades e instituciones educativas, cuando éstas lo soliciten, en:
+
+I. Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
+
+II. La definición del perfil de los profesionales para la salud, en sus etapas de formación.
+
+###### Artículo 171.
+
+La Secretaría de Salud, en coordinación con las autoridades federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas nacional y estatal de salud, de los sistemas educativos y de las necesidades de salud en el Estado.
+
+###### Artículo 172.
+
+Los aspectos docentes del internado de pre-grado y de las residencias de especialización, se regirán por lo que establezcan las instituciones de educación superior; deberán contribuir al logro de los objetivos de los Sistemas Nacional y Estatal de Salud, de conformidad con las atribuciones que les otorguen las disposiciones que rijan su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
+
+La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
+
+## TÍTULO DÉCIMO. INVESTIGACIÓN PARA LA SALUD
+
+### CAPÍTULO VI. DE LOS RASTROS
+
+###### Artículo 173.
+
+La investigación para la salud comprende el desarrollo de acciones que contribuyan:
+
+I. Al conocimiento de los procesos biológicos y psicológicos en los seres humanos;
+
+II. Al conocimiento de los vínculos entre las causas de enfermedad, la práctica médica y la estructura social;
+
+III. A la prevención y control de los problemas de salud que se consideren prioritarios para la población;
+
+IV. Al conocimiento y control de los efectos nocivos del ambiente en la salud;
+
+V. Al estudio de técnicas y métodos que se recomienden y empleen, para la prestación de servicios de salud; y
+
+VI. A la producción nacional de insumos para la salud.
+
+###### Artículo 174.
+
+La Secretaría de Educación Pública y Cultura, la Universidad Autónoma de Sinaloa, el Instituto Tecnológico Regional de Culiacán, y la Universidad de Occidente, y demás instituciones dedicadas a la investigación, en coordinación con las autoridades sanitarias orientarán al desarrollo de la investigación científica y tecnológica destinada a la salud.
+
+###### Artículo 175.
+
+Las autoridades sanitarias en coordinación con la Secretaría de Educación Pública y Cultura, realizará y mantendrá actualizado un inventario de investigación en el área de salud del Estado.
+
+###### Artículo 176.
+
+La investigación en seres humanos se desarrollará conforme a las siguientes bases:
+
+I. Deberá adaptarse a los principios científicos y éticos que justifican la investigación médica, especialmente en lo que se refiere a su posible contribución a la solución de los problemas de salud y al desarrollo de nuevos campos de la ciencia médica;
+
+II. Podrá realizarse sólo cuando el conocimiento que se pretenda producir no pueda obtenerse por otros métodos idóneos;
+
+III. Podrá efectuarse sólo cuando exista una razonable seguridad de que no se expone a riesgos ni daños innecesarios al sujeto en experimentación;
+
+IV. Se obtendrá el consentimiento por escrito del sujeto en quien se realizará la investigación, a falta de tal consentimiento, el de su representante legal, o en su defecto, la autorización de la autoridad sanitaria competente. En todos estos casos, se hará de su conocimiento los objetivos de la experimentación y de las posibles consecuencias positivas y negativas para su salud; y
+
+V. Se sujetará estrictamente al Reglamento de la Ley General de Salud en materia de Investigación para la Salud y a las Normas Oficiales Mexicanas aplicables.
+
+###### Artículo 177.
+
+Quien realice la investigación en seres humanos, en contravención a lo dispuesto en esta ley y demás disposiciones legales aplicables, se hará acreedor a las sanciones correspondientes.
+
+###### Artículo 178.
+
+En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal o, en su caso, del familiar más cercano en vínculo y sin perjuicio de cumplir con los demás requisitos que determine esta ley y otras disposiciones legales aplicables.
+
+## TÍTULO DÉCIMO PRIMERO. INFORMACIÓN PARA LA SALUD
+
+### CAPÍTULO VII. DEL AGUA POTABLE Y ALCANTARILLADO
+
+###### Artículo 179.
+
+El Gobierno del Estado, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad. La información se referirá fundamentalmente a los siguientes aspectos:
+
+I. Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+
+II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
+
+III. Recursos físicos, humanos y financieros disponibles para la protección de la salud, de la población, y su utilización.
+
+###### Artículo 180.
+
+El Gobierno del Estado, los municipios, cuando proceda, y las personas físicas y morales de los sectores social y privado que generen y manejen la información a que se refiere el artículo anterior, deberán suministrarla a la Secretaría de Salud con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas nacionales de salud.
+
+###### Artículo 181.
+
+Los establecimientos que presten servicios de salud y los profesionales técnicos y auxiliares de la salud del Estado, proporcionarán a éste y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar información que le señalen otras disposiciones aplicables.
+
+###### Artículo 182.
+
+Las autoridades sanitarias orientarán la captación, producción, procesamiento, sistematización y divulgación de la información para la salud, con sujeción a los criterios generales que establezca el Ejecutivo Federal, a los cuales deberán ajustarse las dependencias y entidades del sector público y las personas físicas y morales de los sectores social y privado.
+
+## TÍTULO DÉCIMO SEGUNDO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
+
+### CAPÍTULO VIII. DE LA PROSTITUCIÓN
+
+###### Artículo 183.
+
+De conformidad con los criterios y lineamientos técnicos que expida la Secretaría de Salud, autorizar el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos, con relación a las condiciones higiénicas únicamente.
+
+###### Artículo 184.
+
+Los ayuntamientos, en el ámbito de su competencia, en coordinación con la Secretaría de Salud, y en los términos de esta ley y demás disposiciones aplicables, autorizarán la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este capítulo.
+
+###### Artículo 185.
+
+Para los efectos del artículo anterior, se tomará en cuenta la distancia de centros de recreo, culturales y otros similares, con objeto de coadyuvar eficazmente con las acciones derivadas del Programa Nacional contra el Alcoholismo en los términos de la Ley y del acuerdo de coordinación en la materia.
+
+## TÍTULO DÉCIMO TERCERO. SALUBRIDAD LOCAL
+
+### CAPÍTULO IX. DE LOS RECLUSORIOS
+
+###### Artículo 186.
+
+La regulación en el control sanitario de las materias a que se refiere el artículo 3 inciso B de esta ley, corresponde al Ejecutivo Estatal y a los gobiernos municipales, en el ámbito de sus respectivas competencias.
+
+###### Artículo 187.
+
+Para los efectos de este Capítulo se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejerce la Secretaría de Salud, con la participación de los productores, comercializadores y consumidores, en base a los acuerdos de coordinación celebrados con la Federación y a lo establecido en la normativa jurídica aplicable.
+
+El ejercicio del control sanitario se aplicará a todos los bienes, servicios, actividades, establecimientos y procesos que sean competencia de la autoridad sanitaria local, conforme a lo que dispone este ordenamiento.
+
+El muestreo que se realice deberá cumplir con los requisitos que al efecto establece la Ley General de Salud, a efecto de garantizar la seguridad jurídica de los particulares.
+
+###### Artículo 188.
+
+La Secretaría de Salud del Estado emitirá los reglamentos a que quedará sujeto el control sanitario en materia de salubridad local.
+
+###### Artículo 189.
+
+Los establecimientos enunciados en el apartado B del artículo 3 de esta ley, requieren para el desarrollo de sus actividades el aviso de funcionamiento, ante la autoridad competente, de acuerdo a las disposiciones legales aplicables.
+
+###### Artículo 190.
+
+Todo cambio de propietario, de razón o denominación social de un establecimiento, autorizado por el Ayuntamiento y la oficina hacendaría respectiva, deberá ser comunicado por el peticionario a la Secretaría de Salud, en un plazo no mayor de 30 días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 191.
+
+Los criterios, lineamientos técnicos y la información que se estime de interés general, serán publicadas en el Periódico Oficial "El Estado de Sinaloa".
+
+###### Artículo 192.
+
+El Gobierno del Estado y los Ayuntamientos, en los términos de las disposiciones legales respectivas y de los convenios que celebren darán prioridad, en su caso, a los siguientes servicios públicos y de salud:
+
+A). Sanitarios:
+
+I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+
+II. Aseo público;
+
+III. Letrinas;
+
+IV. Baños públicos; y
+
+V. Rastros.
+
+B). Asistencia social.
+
+###### Artículo 193.
+
+En todo lo no previsto en este Título, se estará a lo que disponga esta ley, los reglamentos respectivos, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
+
+### CAPÍTULO X. DE LOS BAÑOS PÚBLICOS
+
+###### Artículo 194.
+
+Para los efectos de esta ley, se entiende por mercados y centros de abasto los sitios de acceso público, destinados a la compra y venta de productos básicos, en forma permanente o en días determinados.
+
+###### Artículo 195.
+
+Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad competente en materia de higiene, la cual comprobará que se cumpla con los requisitos legales establecidos por esta ley y demás disposiciones legales aplicables.
+
+###### Artículo 196.
+
+Los vendedores, locatarios y personal cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar en esos lugares las condiciones higiénicas indispensables para el debido mantenimiento de sus locales.
+
+### CAPÍTULO XI. DE LOS CENTROS DE REUNIÓN Y DE ESPECTÁCULOS
+
+###### Artículo 197.
+
+Para los efectos de esta ley, se entiende por construcción toda edificación o local que se destine a la habitación, comercio, enseñanza, recreatividad, trabajo o cualquier otro uso.
+
+###### Artículo 198.
+
+En los aspectos sanitarios, las construcciones, reconstrucciones, modificaciones y adaptaciones deberán cumplir con esta ley, las demás disposiciones legales y Normas Oficiales Mexicanas aplicables.
+
+###### Artículo 199.
+
+Cuando se trate de iniciar y realizar la construcción, reconstrucción, modificación, o acondicionamiento total o parcial de un edifico o local, se requerirá independientemente de los permisos que exijan otras disposiciones legales, de la autorización sanitaria del proyecto en cuanto a iluminación, ventilación, instalaciones sanitarias y contra accidentes conforme a esta Ley y demás ordenamientos legales aplicables. La autorización sanitaria a que refiere este artículo será otorgada por el Ayuntamiento, conforme a la normativa aplicable en la materia.
+
+###### Artículo 200.
+
+Cuando el uso que se pretenda dar a un edificio o local sea público, además de los requisitos previstos en otras disposiciones aplicables, se deberá contar con agua potable y servicios sanitarios públicos, los cuales deberán reunir los requisitos correspondientes.
+
+###### Artículo 201.
+
+El responsable de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este Título, deberá dar aviso de inicio y terminación de obra a la autoridad competente, quien vigilará el cumplimiento de los requisitos aprobados en el proyecto a que se refiere esta ley, demás disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
+
+###### Artículo 202.
+
+Los propietarios o responsables de las construcciones de edificios o locales, deberán dar aviso a la conclusión de la obra a la autoridad competente en un término de 30 días, para que si la autoridad lo considera conveniente, practique verificación para constatar el cumplimiento de las disposiciones legales aplicables y en su caso tomar las medidas que esta ley les faculte.
+
+###### Artículo 203.
+
+Los edificios y locales terminados podrán dedicarse al uso que se destinen, una vez verificados y otorgada la autorización de parte de la autoridad sanitaria competente, en su caso.
+
+###### Artículo 204.
+
+Los edificios, locales, construcciones o terrenos urbanos, podrán ser inspeccionados por las autoridades competentes, quienes ordenarán las obras necesarias para satisfacer las condiciones higiénicas, en los términos de esta ley, los reglamentos respectivos y otras disposiciones legales aplicables.
+
+###### Artículo 205.
+
+Los propietarios o poseedores de los edificios y locales, o de los negocios en ellos establecidos, estarán obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales y Normas Oficiales Mexicanas aplicables.
+
+###### Artículo 206.
+
+Cuando se contravengan algunas de las disposiciones anteriores o las del reglamento respectivo, la autoridad sanitaria competente podrá, previo cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
+
+### CAPÍTULO XII. DE LAS PELUQUERÍAS, SALONES DE BELLEZA O DE ESTÉTICA
+
+###### Artículo 207.
+
+Para los efectos de esta ley, se considera:
+
+I. Cementerio: el lugar destinado a la inhumación de cadáveres o restos humanos;
+
+II. Crematorio: las instalaciones destinadas a la incineración de cadáveres o restos humanos;
+
+III. Funerarias: establecimiento al que acuden los deudos, a rendir honores póstumos a un ser que ha perdido la vida; y
+
+IV. Cripta: el lugar destinado a la conservación de cenizas de cadáveres o restos humanos.
+
+###### Artículo 208.
+
+Para establecer un nuevo cementerio o crematorio, se necesita permiso por la autoridad municipal correspondiente, quien la concederá, previa opinión que emita la Secretaría de Salud.
+
+###### Artículo 209.
+
+El funcionamiento de los cementerios y crematorios estará sujeto a esta Ley y demás disposiciones legales aplicables.
+
+###### Artículo 210.
+
+El traslado de cadáveres de un Municipio a otro no requerirá de autorización sanitaria, excepto:
+
+I. Cuando se trate de cadáveres de personas que hubieren padecido enfermedades infectocontagiosas sujetas a notificación inmediata; y
+
+II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho horas posteriores a la muerte de que se trata.
+
+### CAPÍTULO XIII. DE LOS HOTELES, MOTELES, PENSIONES Y CASAS DE HUÉSPEDES
+
+###### Artículo 211.
+
+Para los efectos de esta ley, se entiende por limpieza pública el servicio de recolección, manejo, traslado, tratamiento y disposición final de residuos sólidos, a cargo de los Ayuntamientos, los que estarán obligados a implantar este servicio de acuerdo a sus posibilidades.
+
+###### Artículo 212.
+
+Los residuos sólidos recolectados, podrán procesarse cuando sean industrializables o se puedan reciclar; la disposición final de éstos se llevará a cabo de acuerdo a las recomendaciones sanitarias y siempre que no signifiquen un peligro para la salud, o bien podrán utilizarse en rellenos sanitarios.
+
+###### Artículo 213.
+
+Las autoridades municipales podrán fijar lugares especiales para depósito de los residuos sólidos en la vía pública, en sitios de recreo, y señalarán los casos en que los centros de reunión o espectáculos, mercados, centros de abastos y viviendas multifamiliares los deberán tener. En el procedimiento de disposición final podrán existir plantas de transferencias, las que evitarán cualquier efecto contaminante, aplicando la legislación vigente en materia de contaminación ambiental.
+
+###### Artículo 214.
+
+Los animales muertos deberán ser incinerados o enterrados antes de que entren en descomposición. La autoridad municipal señalará el sitio donde esto haya de hacerse bajo las Normas Oficiales Mexicanas.
+
+###### Artículo 215.
+
+Los residuos sólidos se recibirán de preferencia en transportes dotados de caja hermética y su manejo será sólo en lo estrictamente indispensable para transportarse al sitio de disposición final.
+
+### CAPÍTULO XIV. DE LAS TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
+
+###### Artículo 216.
+
+Para los efectos de esta Ley, se entiende por rastro el lugar destinado a la matanza de animales para el consumo humano.
+
+###### Artículo 217.
+
+El control sanitario de los rastros estará a cargo de la autoridad sanitaria correspondiente. Ningún rastro podrá establecerse sin la autorización previa de la misma autoridad sanitaria.
+
+###### Artículo 218.
+
+Los animales deberán ser examinados en pie y en canal por la autoridad sanitaria competente, la que determinará que carne puede destinarse al consumo humano.
+
+###### Artículo 219.
+
+Queda prohibida la matanza de animales en casas y domicilios particulares, cuando las carnes sean destinadas al consumo público. Cuando por destinarse la carne y demás productos al consumo familiar, la autoridad municipal concederá permiso para el sacrificio de ganado menos a domicilio, dicho permiso será concedido bajo la condición de que el animal y sus carnes sean inspeccionados por la autoridad sanitaria correspondiente.
+
+###### Artículo 220.
+
+El sacrifico de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que disponga dicha autoridad para realizar las inspecciones necesarias.
+
+###### Artículo 221.
+
+El funcionamiento, aseo y conservación de los rastros municipales, estará a cargo de la autoridad municipal competente. Si fueren particulares, quedarán a cargo de las personas responsables de realizarlo y bajo la inspección de las autoridades competentes. En ambos casos, quedarán sujetos a la observancia de lo dispuesto por esta Ley, reglamentos y normas técnicas aplicables. Queda prohibido el funcionamiento de rastros no autorizados por la autoridad sanitaria competente.
+
+### CAPÍTULO XV. DE LOS MEDIOS DE TRANSPORTE PÚBLICO
+
+###### Artículo 222.
+
+Los Gobiernos Estatal y Municipales procurarán, coordinadamente y de conformidad con la Ley de Gobierno Municipal, que las poblaciones tengan servicio regular, de aprovisionamiento y distribución de agua potable.
+
+###### Artículo 223.
+
+Los proyectos de abastecimiento de agua potable deberán ser sometidos a la consideración de la Secretaría de Salud, en su caso, para la aprobación del sistema adoptado para el análisis minucioso de las aguas.
+
+###### Artículo 224.
+
+Las autoridades municipales o los sistemas estatales, municipales o intermunicipales de los servicios de agua potable y alcantarillado, en su caso, realizarán análisis periódicos para comprobar la potabilidad de las aguas destinadas al consumo humano, bajo la supervisión y de acuerdo al Reglamento de Control Sanitario de Productos y Servicios y las Normas Oficiales Mexicanas aplicables.
+
+###### Artículo 225.
+
+En las poblaciones sin sistema de agua potable no podrá utilizarse, para consumo humano, el agua de algún pozo o aljibe que no esté situado a una distancia conveniente de sanitarios, alcantarillados, estercoleros, depósitos de desperdicios, o cualquier otro que pueda ser contaminante.
+
+###### Artículo 226.
+
+Todas las poblaciones del Estado deberán contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente, por medio de alcantarillado.
+
+###### Artículo 227.
+
+En las poblaciones donde no haya sistema de alcantarillado, en tanto se establece éste, se autorizará, por la autoridad sanitaria y municipal y previo control, la construcción de fosas sépticas de acuerdo a las Normas Oficiales Mexicanas.
+
+###### Artículo 228.
+
+Los proyectos para la implantación del sistema de alcantarillado deberán ser destinados y aprobados por la autoridad sanitaria y municipal correspondiente, en coordinación con los sistemas de los servicios de agua potable y alcantarillado, que podrán supervisar su construcción, a efecto de que se cumplan los requisitos necesarios para su buen funcionamiento.
+
+###### Artículo 229.
+
+Queda prohibido que los desechos o líquidos que produzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
+
+### CAPÍTULO XVI. DE LAS GASOLINERAS
+
+###### Artículo 230.
+
+Para efectos de esta Ley, se entiende por prostitución la actividad que realizan las personas utilizando sus órganos sexuales como medio de vida.
+
+###### Artículo 231.
+
+Las personas que practiquen la prostitución deberán sujetarse a lo siguiente:
+
+I. Toda persona que se dedique a la prostitución deberá obtener de la autoridad municipal, certificado de control sanitario, el cual se otorgará una vez cumplidos los requisitos que establezca esta Ley y demás disposiciones legales aplicables;
+
+II. Se someterán periódicamente al control epidemiológico de las enfermedades transmisibles en las unidades médicas que la Secretaría Estatal de Salud determine, de conformidad con la reglamentación y normatividad técnica que al efecto se expida; se integrará por cada persona un expediente clínico en donde el médico responsable registrará los estudios de rutina practicados, así como los demás requeridos establecidos por la normatividad aplicable;
+
+III. Deberán portar la constancia de no padecimientos de enfermedad sexual u otros padecimientos infecto-contagiosos que expida la Secretaría de Salud;
+
+IV. Queda prohibido el ejercicio de la prostitución en tanto se padezca algunas enfermedades infecto-contagiosas; y
+
+V. Queda prohibido el acceso de menores de edad al interior de los establecimientos o zonas donde se autorice el ejercicio de la prostitución.
+
+###### Artículo 232.
+
+El ayuntamiento, considerando el dictamen sanitario de la Secretaría de Salud de Estado, resolverá sobre las autorizaciones para los establecimientos en donde se ejerza el servicio de sexo comercial o prostitución, atendiendo a las condiciones y requisitos que se establezcan en el reglamento correspondiente, el cual deberá contener disposiciones de seguridad, higiene, salubridad, prohibiciones, sanciones administrativas y ubicación geográfica, considerando su distancia con centros de población, escuelas, entre otras.
+
+El Ayuntamiento podrá revocar las autorizaciones cuando se dejen de cumplir o se inflijan las disposiciones de esta Ley y los reglamentos respectivos, o por causas de interés público.
+
+### CAPÍTULO XVII. DE LA COMERCIALIZACIÓN Y VENTA DE ALIMENTOS Y BEBIDAS EN LA VÍA PÚBLICA
+
+###### Artículo 233.
+
+Para los efectos de esta Ley, se entiende por reclusorio el local destinado a la internación de quienes se encuentren restringidos de su libertad corporal por una resolución judicial o administrativa.
+
+###### Artículo 234.
+
+Los reclusorios estarán sujetos al control sanitario de los Gobiernos Estatal o Municipal, en su caso, de conformidad con las disposiciones que señalan esta Ley y demás normas legales aplicables.
+
+###### Artículo 235.
+
+Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
+
+### CAPÍTULO XVIII. DE LOS CENTROS ANTIRRÁBICOS
+
+###### Artículo 236.
+
+Para los efectos de esta Ley, se entiende por baño público el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso terapéutico, bajo la forma de baño, y al que pueda concurrir el público. Quedan incluidos en la denominación, los llamados de vapor u otros similares.
+
+###### Artículo 237.
+
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
+
+### CAPÍTULO XIX. DE LOS GIMNASIOS
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+###### Artículo 238.
+
+Para efectos de esta Ley, se entiende por centros de reunión y de espectáculos todos aquellos lugares destinados a fines recreativos, sociales, deportivos o culturales al servicio del público.
+
+###### Artículo 239.
+
+La autoridad municipal, una vez terminada la edificación del centro de reunión o de espectáculo y antes de abrirse al público hará la verificación y declaración correspondiente. Asimismo, podrá en cualquier momento, ordenar la clausura de los centros públicos de reunión o espectáculo que no reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que lo motivaron.
+
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 240.
+
+El funcionamiento de los establecimientos a que se refiere el artículo 238 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
+
+### CAPÍTULO I. DE LAS AUTORIZACIONES
+
+###### Artículo 241.
+
+Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza, los establecimientos dedicados a cortar, teñir, peinar, rizar o realizar cualquier actividad similar con el cabello de las personas, arreglo estético de uñas, masajes, tatuajes y perforaciones, y la aplicación de otros tratamientos de belleza al público.
+
+###### Artículo 242.
+
+Está prohibido utilizar productos de belleza no autorizados ni registrados por la Secretaría de Salud, asimismo, no podrán utilizarse procedimientos que a juicio de ésta sean peligrosos para la salud.
+
+###### Artículo 243.
+
+Los procedimientos de embellecimiento del cuerpo humano, son aquellos que se utilizan para modificar las características externa (sic) y superficiales, mediante la aplicación de substancias, productos o preparados de uso externo, los destinados a incrementar la belleza del cuerpo humano o mejorar su apariencia física y en lo que no haya intervención quirúrgica o la aplicación de cualquier procedimiento de atención médico.
+
+###### Artículo 244.
+
+Los establecimientos cubiertos y descubiertos dedicados al fisicoculturismo, a ejercicios aeróbicos o deportes en general, deberán acreditar para su funcionamiento que sus instructores y profesores, tengan la preparación técnica o profesional reconocida por alguna institución del sistema educativo nacional.
+
+###### Artículo 245.
+
+El funcionamiento de los establecimientos mencionados en el artículo anterior y el personal que en ellos labore, deberán apegarse a lo señalado en esta Ley y demás normas aplicables.
+
+### CAPÍTULO II. DE LOS CERTIFICADOS
+
+###### Artículo 246.
+
+Para los efectos de esta Ley se entiende por:
+
+I. Hotel: cualquier edificación que se destine al hospedaje de toda persona que paga por ello;
+
+II. Motel: la edificación especialmente destinada a albergar los automovilistas de paso; y
+
+III. Casa de huéspedes o pensión: casa donde se albergan personas para vivir en ella, mediante el pago de una mensualidad.
+
+###### Artículo 247.
+
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+###### Artículo 248.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. Tintorería: el establecimiento dedicado al lavado y planchado de ropa, independientemente del procedimiento utilizado;
+
+II. Lavandería: el establecimiento dedicado al lavado de ropa, bien sea que esta actividad se haga directamente por cuenta del solicitante del servicio o por el empleado del negocio; y
+
+III. Lavadero público: el establecimiento al cual acuden los interesados para realizar personalmente el lavado de ropa.
+
+###### Artículo 249.
+
+Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a cualquiera de los servicios señalados en el artículo anterior, así como para su funcionamiento, se requiere de contar con autorización sanitaria, misma que se expedirá cuando el solicitante haya satisfecho los requisitos que establezcan las normas aplicables.
+
+### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
+
+###### Artículo 250.
+
+Para los efectos de esta ley se entiende por medio de servicio de transporte, todo vehículo destinado al traslado de carga o pasajeros, sea cual fuere su medio de propulsión.
+
+###### Artículo 251.
+
+Los transportes que circulen en el interior de un solo municipio, deberán contar con la autorización sanitaria correspondiente que será expedida por la autoridad municipal, una vez cubiertos los requisitos que marca esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
+
+###### Artículo 252.
+
+Los transportes que circulen por más de un municipio del territorio estatal, deberán contar con la autorización sanitaria correspondiente que será expedida por el Gobierno del Estado, una vez cubiertos los requisitos que marca esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
+
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+
+###### Artículo 253.
+
+Para los efectos de esta Ley, se entiende por gasolinera el establecimiento destinado al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo.
+
+###### Artículo 254.
+
+Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezca el Reglamento correspondiente, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
+
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+
+###### Artículo 255.
+
+Para los efectos de esta Ley se entiende por comercialización y venta de alimentos y bebidas en la vía pública la actividad de preparación, conservación, suministro, expendio o comercialización de alimentos y bebidas para consumo humano que se realiza en áreas de dominio público o de uso común.
+
+El comercio ambulante de alimentos y bebidas en la vía pública, deberá sujetarse a esta Ley, y las demás disposiciones jurídicas y administrativas aplicables.
+
+###### Artículo 256.
+
+La Secretaría de Salud y los ayuntamientos se coordinarán para llevar a efecto el control sanitario del comercio ambulante de alimentos y bebidas en la vía pública.
+
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+
+###### Artículo 257.
+
+Para los efectos de esta Ley se entiende por centro antirrábico el establecimiento operado o concesionado por los ayuntamientos bajo la normatividad sanitaria, con el objeto de contribuir a la prevención y control de la rabia y coadyuvar con las autoridades sanitarias competentes.
+
+###### Artículo 258.
+
+Los centros antirrábicos que establezcan los ayuntamientos podrán tener las siguientes funciones:
+
+I. Atender quejas sobre animales domésticos agresores;
+
+II. Capturar animales domésticos agresores y aquéllos que deambulen libremente en la vía pública;
+
+III. Observar clínicamente a los animales domésticos agresores capturados;
+
+IV. Vacunar a los animales capturados y a aquéllos que para tal fin sean llevados voluntariamente;
+
+V. Practicar la necropsia de animales sospechosos de padecer rabia, y en su caso, enviar las muestras al laboratorio respectivo;
+
+VI. Obtener, en su caso, los diagnósticos de rabia en animales a través de los exámenes correspondientes;
+
+VII. Canalizar a las personas agredidas por animales, a instituciones públicas de salud para su tratamiento oportuno; y
+
+VIII. Dar la notificación inmediata, en casos sospechosos y confirmados de rabia, a la autoridad sanitaria para los efectos correspondientes.
+
+###### Artículo 259.
+
+Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campañas permanentes de orientación a la población respecto a la vacunación y control de los animales domésticos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO V. PRESCRIPCIÓN
+
+###### Artículo 259 Bis.
+
+Para los efectos de esta ley, se entiende por gimnasio los establecimientos o locales destinados a la enseñanza o práctica de actividades físicas no competitivas.
+
+Es facultad de la Secretaria de Salud la expedición y supervisión de los permisos de operación para establecimientos denominados gimnasios.
+
+Las características constructivas para locales y establecimientos destinados a la operación de gimnasios, deberán contar obligatoriamente con los siguientes sectores:
+
+A.- Salón o salones de actividades físicas, entendiéndose éstos como el local o sector del establecimiento destinado exclusivamente a la enseñanza o práctica de actividades físicas o recreativas no competitivas;
+
+B.- Vestuario, entendiéndose como el local destinado al usuario del gimnasio para mudarse de ropa, quedando prohibido el desarrollo de otras actividades;
+
+C.- Guardarropa, entendiéndose como el sector o espacios delimitados dentro del vestuario para la guarda de indumentaria, bolsos y otros elementos personales de los concurrentes. Éste podrá o no conformar local independiente con comunicación directa al vestuario;
+
+D.- Servicios sanitarios; y,
+
+E.- Duchas.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+###### Artículo 259 Bis 1.
+
+Los gimnasios deben contar con elementos de primeros auxilios que serán establecidos por la reglamentación. Y deberán estar adheridos a un servicio de emergencias médicas y capacitar a sus profesionales en técnicas de reanimación cardiorrespiratoria y primeros auxilios.
+
+Todo gimnasio deberá exigir a sus usuarios un certificado médico extendido por un doctor que cuente con título y matrícula habilitada, mediante el cual, se reconozca la buena salud del usuario, y que tendrá vigencia de un año a partir de la fecha de su otorgamiento.
+
+En el certificado médico se deberá hacer constar el tipo de actividad física para el cual está habilitado el solicitante, según el criterio del profesional actuante y en virtud de los exámenes que se considere conveniente realizar.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+###### Artículo 259 Bis 2.
+
+Los gimnasios deberán mantener en archivo permanente los certificados de capacidad física de sus usuarios. Controlarán y exigirán su renovación, no permitiendo la práctica de actividades físicas a las personas que no cuentan con certificado vigente.
+
+Los certificados deberán ser renovados al año calendario de su fecha de presentación.
+
+Los gimnasios deberán exhibir en lugar visible de las instalaciones habilitadas:
+
+A.- Certificado que acredite la inscripción del local que se habilite;
+
+B.- Certificado que acredite la inscripción del personal a cargo de la dirección y supervisión del local habitado;
+
+C. Constancia de la contratación de la cobertura de emergencias medicas; y,
+
+D. Horario de atención al público.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+###### Artículo 259 Bis 3.
+
+Todo gimnasio deberá contar con un responsable principal el cual deberá contar con la certificación correspondiente por autoridades competentes en la materia que lo acredite como calificado para la supervisión de las prácticas o enseñanza de actividades físicas, fitness o recreativas en el gimnasio. Además de tener a la vista la fecha de alta y de baja en el gimnasio.
+
+Todos los instructores encargados de impartir las prácticas físicas, fitness o recreativas en el gimnasio deberán contar con la certificación correspondiente por parte de las autoridades competentes en la materia. Además de tener a la vista la fecha de alta y de baja en el gimnasio.
+
+Los instructores encargados de la supervisión de actividades físicas, fitness o recreativas deberán estar entrenados en técnicas de reanimación cardiorrespiratorias y primeros auxilios. Las certificaciones correspondientes serán exhibidas a la vista del público.
+
+Durante las horas del funcionamiento del gimnasio se encontrará presente, al menos uno de los profesores registrados para la supervisión de la (sic) actividades de los concurrentes.
+
+En todos los casos en que cambiara la persona del profesor o profesora responsable principal de la educación física del gimnasio, se deberá dar cuenta de dicho cambio a la autoridad de aplicación del registro de gimnasios creado al efecto, para su registro.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+###### Artículo 259 Bis 4.
+
+Queda totalmente prohibido, en los establecimientos antes mencionados la venta o suministro de medicamentos, sustancias anabólicas, esteroideas y bebidas alcohólicas, también se prohíbe la realización a menores de doce años, de ejercicios, trabajos o toda actividad que implique sobrecargas, maquinas de fuerza o pesas, salvo autorización expresa de un profesional público.
+
+## TÍTULO DÉCIMO CUARTO. AUTORIZACIONES Y CERTIFICACIONES
+
+###### Artículo 260.
+
+La autorización sanitaria es el acto administrativo mediante el cual se permite a una persona física o moral, del sector público o privado, la realización de actividades con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones aplicables.
+
+Las autorizaciones sanitarias tendrán el carácter de licencias, permisos, o tarjetas de control sanitario, en su caso.
+
+###### Artículo 261.
+
+Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta Ley. Las autorizaciones por tiempo determinado podrán ser prorrogadas.
+
+Las autoridades sanitarias del Estado llevarán a cabo actividades de censo y promoción de estas autorizaciones, mediante campañas.
+
+###### Artículo 262.
+
+Las autoridades sanitarias expedirán las autorizaciones respectivas cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal.
+
+###### Artículo 263.
+
+Las autorizaciones sanitarias podrán prorrogarse de conformidad con los términos que al efecto fijen las disposiciones legales aplicables.
+
+La solicitud correspondiente deberá presentarse a las autoridades sanitarias con antelación al vencimiento de la autorización.
+
+Sólo procederá la prórroga cuando se sigan cumpliendo los requisitos que señalen esta Ley y demás disposiciones aplicables y previo pago de los derechos correspondientes.
+
+En el caso de las licencias sanitarias, la solicitud de revalidación deberá presentarse dentro de los treinta días anteriores a su vencimiento.
+
+###### Artículo 264.
+
+Las autoridades sanitarias expedirán el aviso para el funcionamiento del establecimiento que presten servicios de asistencia social.
+
+###### Artículo 265.
+
+Corresponde a las autoridades sanitarias recibir los avisos de funcionamiento de las actividades a que se refiere el artículo 3 inciso "B" de esta Ley.
+
+###### Artículo 266.
+
+Los obligados a tener licencia sanitaria deberán exhibirla en lugares visibles del establecimiento respectivo.
+
+###### Artículo 267.
+
+La autoridad sanitaria competente podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
+
+###### Artículo 268.
+
+Los derechos a que se refiere esta Ley, se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia el Gobierno del Estado con el Ejecutivo Federal y con los Ayuntamientos.
+
+###### Artículo 269.
+
+La autoridad sanitaria local competente podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
+
+I. Cuando por causas supervenientes se compruebe que los productos o el ejercicio de las actividades que se hubieren autorizado, constituyan riesgo o daño para la salud humana;
+
+II. Cuando el ejercicio de la actividad que se hubiese autorizado exceda de los límites fijados en la autorización respectiva;
+
+III. Cuando se dé un uso distinto a la autorización;
+
+IV. Por incumplimiento grave a las disposiciones de esta Ley, sus Reglamentos y demás normas aplicables;
+
+V. Por reiterada renuencia a acatar las órdenes que dicte la autoridad sanitaria, en los términos de esta ley y demás disposiciones legales aplicables;
+
+VI. Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubiesen servido de base a la autoridad sanitaria, para otorgar la autorización;
+
+VII. Cuando el interesado no se ajuste a los términos, condiciones y requisitos en que se le haya otorgado la autorización o haga uso indebido de ésta;
+
+VIII. Cuando lo solicite el interesado; y
+
+IX. En los demás casos en que, conforme a la ley, lo determine la autoridad sanitaria.
+
+###### Artículo 270.
+
+Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
+
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 271.
+
+En los casos a que se refiere el artículo 269 de esta ley, con excepción de lo previsto en la fracción VIII la autoridad sanitaria correspondiente citará al interesado a una audiencia para que ésta ofrezca pruebas y alegue lo que a su derecho convenga.
+
+En el citatorio, que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente.
+
+La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente de la notificación.
+
+En los casos en que las autoridades sanitarias del Estado fundamenten no poder realizar la notificación en forma personal, ésta se practicará a través del Periódico Oficial "El Estado de Sinaloa".
+
+###### Artículo 272.
+
+En la substanciación del procedimiento de la revocación de autorizaciones, se observará lo dispuesto por esta Ley.
+
+###### Artículo 273.
+
+La audiencia se celebrará el día y hora señalados, con o sin la asistencia del interesado. En este último caso, se deberá dar cuenta con la copia del citatorio que se hubiere girado al interesado y con la constancia que acredite que le fue efectivamente entregado, o con el ejemplar en que hubiere aparecido publicado el citatorio.
+
+###### Artículo 274.
+
+La celebración de la audiencia podrá diferirse por una sola vez, cuando lo solicite el interesado por una causa debidamente justificada, a juicio de la autoridad sanitaria que instruya el procedimiento.
+
+###### Artículo 275.
+
+La autoridad sanitaria emitirá la resolución que corresponda al concluir la audiencia o dentro de los cinco días hábiles siguientes, la cual se notificará de manera personal al interesado cuando así comparezca o en su caso se observará lo que disponga esta Ley.
+
+###### Artículo 276.
+
+La resolución de revocación surtirá sus efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
+
+###### Artículo 277.
+
+Para los efectos de esta Ley, se entiende por certificados las constancias expedidas en los términos que establezcan las autoridades sanitarias del Estado, para la comprobación o información de determinados hechos.
+
+La Secretaría de Salud podrá expedir certificados, autorizaciones o cualquier otro documento, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados conforme a la Ley General de Salud.
+
+###### Artículo 278.
+
+Para fines sanitarios, podrán extenderse los siguientes certificados:
+
+I. De salud;
+
+II. Prenupciales;
+
+III. De defunción;
+
+IV. De muerte fetal; y
+
+V. Los demás que determine la Ley General de Salud, sus Reglamentos y otras disposiciones legales aplicables.
+
+###### Artículo 279.
+
+Los certificados médicos de salud o prenupciales podrán ser otorgados por las autoridades sanitarias competentes o por profesionales de la medicina, con título legalmente expedido y registrado. El prenupcial deberá ser requerido por las autoridades del Registro Civil.
+
+###### Artículo 280.
+
+Los certificados de defunción o de muerte fetal serán expedidos por profesionales de la medicina o por las autoridades sanitarias competentes, una vez comprobado el fallecimiento y determinadas sus causas.
+
+###### Artículo 281.
+
+Los certificados a que se refiere este capítulo, excepto el de salud, se extenderán, en los modelos aprobados por la Secretaría de Salud y por las Normas Oficiales Mexicanas.
+
+Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+## TÍTULO DÉCIMO QUINTO. VIGILANCIA SANITARIA
+
+###### Artículo 282.
+
+Corresponde a las autoridades sanitarias del Estado y a las Municipales, en los términos del artículo 5 de esta Ley, la vigilancia y el cumplimiento de la Ley General de Salud y de las demás disposiciones que de ella se deriven.
+
+###### Artículo 283.
+
+Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias, y cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de las autoridades sanitarias competentes.
+
+###### Artículo 284.
+
+El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación a los infractores sin perjuicio de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes.
+
+###### Artículo 285.
+
+La vigilancia sanitaria se llevará a cabo mediante visitas de verificación a cargo de verificadores designados por las autoridades sanitarias competentes, quienes deberán realizar las respectivas diligencias, de conformidad con las prescripciones de esta ley y demás disposiciones aplicables.
+
+###### Artículo 286.
+
+Las autoridades sanitarias competentes podrán encomendar a sus verificadores, además actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refiere esta ley.
+
+###### Artículo 287.
+
+Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y en horas hábiles y las segundas en cualquier tiempo.
+
+Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se consideran días y horas hábiles las de su funcionamiento habitual.
+
+###### Artículo 288.
+
+Los verificadores sanitarios en el ejercicio de sus funciones, previa su identificación, tendrán libre acceso a los edificios, establecimientos comerciales, de servicios y en general, a todos los lugares a que se refiere esta ley.
+
+Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación, estarán obligados de permitir el acceso y a dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+###### Artículo 289.
+
+Los verificadores, para practicar visitas, deberán estar provistos de órdenes escritas, expedidas por las autoridades sanitarias en las que se deberá precisar el lugar o zona que ha de inspeccionarse el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+
+La orden de verificación deberá ser exhibida a la persona con quien se entienda la diligencia, a quien se le entregará una copia.
+
+Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades, o señalar al inspector la zona en que vigilará el cumplimiento por todos los obligados, de las disposiciones sanitarias.
+
+Tratándose de actividades que se realicen en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la misma orden.
+
+###### Artículo 290.
+
+En la diligencia de inspección sanitaria se deberán observar las siguientes reglas:
+
+I. Al iniciar la visita, el verificador deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
+
+II. Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, lo designará la autoridad que practique la inspección. Estas circunstancias, el nombre, domicilio y firma de los testigos se hará constar en el acta;
+
+III. En el acta que se levante con motivo de la verificación, se harán constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas y, en su caso, las medidas de seguridad que se ejecuten; y
+
+IV. Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia.
+
+La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
+
+## TÍTULO DÉCIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+###### Artículo 291.
+
+Se consideran medidas de seguridad, aquellas disposiciones de inmediata ejecución que dicte la Secretaría de Salud y las autoridades municipales, de conformidad con los preceptos de esta ley y demás disposiciones y convenios aplicables, para proteger y preservar la salud de la población. Las medidas de seguridad se aplicarán, sin perjuicio de las sanciones que, en su caso, correspondieren.
+
+Son competentes para ordenar y ejecutar medidas de seguridad las autoridades sanitarias del Estado, en el ámbito de sus respectivas competencias.
+
+###### Artículo 292.
+
+Son medidas de seguridad sanitaria las siguientes:
+
+I. Aislamiento;
+
+II. La cuarentena;
+
+III. La observación personal;
+
+IV. La vacunación de personas;
+
+V. La vacunación de animales;
+
+VI. La destrucción o control de insectos u otras faunas transmisoras y nocivas;
+
+VII. La suspensión de trabajos o servicios;
+
+VIII. El aseguramiento y destrucción de objetos, productos o substancias;
+
+IX. La desocupación, limpieza o desalojo de casas, edificios, establecimientos y, en general de cualquier predio;
+
+X. La prohibición de actos de uso; y
+
+XI. Las demás que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+
+###### Artículo 293.
+
+Se entiende por aislamiento, la separación de personas infectadas durante el período de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio.
+
+El aislamiento se ordenará por escrito por la autoridad sanitaria competente, previo dictamen médico y durará el tiempo estrictamente necesario para que desaparezca el peligro.
+
+###### Artículo 294.
+
+Se entiende por cuarentena, la limitación a la libertad de tránsito de personas sanas que hubieran estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio. La cuarentena se ordenará por escrito, previo dictamen médico y por la autoridad sanitaria competente.
+
+###### Artículo 295.
+
+La observación personal consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible.
+
+###### Artículo 296.
+
+Se ordenará la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
+
+I. Cuando no hayan sido vacunados contra la tifoidea, la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles, cuya vacunación se estime obligatoria, y siempre que no exista contraindicación médica para ello;
+
+II. En caso de epidemia grave; y
+
+III. Si existiera peligro de invasión de dichos padecimientos, en el Estado.
+
+###### Artículo 297.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Salud, podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+
+###### Artículo 298.
+
+La Secretaría de Salud y las autoridades municipales, en los términos del artículo 5 de esta Ley, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando representen un peligro grave para la salud de las personas.
+
+###### Artículo 299.
+
+La Secretaría de Salud y las autoridades municipales, podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando de continuar aquellos, se ponga en peligro la salud de las personas.
+
+###### Artículo 300.
+
+La suspensión de trabajos o servicios será temporal; podrá comprender la totalidad de actividades o parte de ellas y se aplicará por el tiempo estrictamente necesario para corregir las irregularidades que pongan en peligro la salud de las personas. Se ejecutarán las acciones necesarias que permitan asegurar la referida suspensión.
+
+Durante la suspensión, se podrá permitir el acceso a las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
+
+###### Artículo 301.
+
+El aseguramiento de objetos, productos y sustancias tendrá lugar, cuando con motivo se advierta que puedan ser nocivos para la salud de las personas o que carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. Las autoridades sanitarias competentes podrán retenerlos o dejarlos en depósito hasta en tanto se determine su destino, previo dictamen.
+
+###### Artículo 302.
+
+Si el dictamen resultare que el bien asegurado no es nocivo para la salud y cumple con las disposiciones legales respectivas, se procederá a su inmediata devolución. Si el interesado no gestionare la recuperación dentro de un plazo de treinta días hábiles, se entenderá que el bien causa abandono y quedará a disposición de la autoridad sanitaria, para su aprovechamiento lícito.
+
+###### Artículo 303.
+
+Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el anterior párrafo y previa la observancia de la garantía de audiencia, podrá determinar que el interesado y bajo la vigilancia de aquélla, someta el bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo dictamen de la autoridad sanitaria, el interesado podrá disponer de los bienes que haya sometido a tratamiento, para destinarlos a los fines que la propia autoridad le señale.
+
+###### Artículo 304.
+
+Los productos perecederos asegurados que se descompongan en poder de la autoridad sanitaria, así como los objetos, productos o substancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para su consumo, serán destruidos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
+
+Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social públicas o privadas.
+
+###### Artículo 305.
+
+La desocupación, limpieza o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y del dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
+
+###### Artículo 306.
+
+Las violaciones a los preceptos de esta Ley, sus Reglamentos y demás disposiciones que emanen de ella, serán sancionados administrativamente por las autoridades sanitarias competentes del Estado sin perjuicio de las penas que correspondan, cuando sean constitutivas de delito.
+
+###### Artículo 307.
+
+Las sanciones administrativas podrán ser:
+
+I. Multa;
+
+II. Clausura temporal o definitiva, que podrá ser parcial o total;
+
+III. Arresto hasta por treinta y seis horas; y
+
+IV. Aseguramiento precautorio de bienes, cuando la sanción pecuniaria no sea cubierta, siendo preferentes para garantizar el crédito fiscal generado, los bienes que motivaron la sanción.
+
+###### Artículo 308.
+
+Al imponerse una sanción, se fundará y motivará la resolución, tomando en cuenta:
+
+I. Los daños que se hayan producido o puedan producirse en la salud de las personas;
+
+II. La gravedad de la infracción;
+
+III. Las condiciones socioeconómicas del infractor; y
+
+IV. La calidad de reincidente del infractor.
+
+###### Artículo 309.
+
+Atendiendo la infracción, las sanciones con multa podrán ser:
+
+I. Hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate;
+
+II. De diez hasta de cien veces el salario mínimo general diario vigente en la zona económica de que se trate; y
+
+III. De cincuenta a quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate.
+
+###### Artículo 310.
+
+En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este Capítulo se entiende por reincidencia, que el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de un año, contado a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior.
+
+###### Artículo 311.
+
+La aplicación de las multas será sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan, hasta en tanto se subsanen las irregularidades.
+
+###### Artículo 312.
+
+Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
+
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
+
+I. Cuando los establecimientos a que se refiere el artículo 3° inciso B de esta Ley, carezcan de la correspondiente licencia sanitaria;
+
+II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
+
+III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud; y
+
+IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población.
+
+###### Artículo 313.
+
+En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubieren otorgado al establecimiento, local, fábrica o edificio de que se trate.
+
+###### Artículo 314.
+
+Se sancionará con arresto hasta por treinta y seis horas:
+
+I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
+
+II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
+
+Procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este Capítulo.
+
+Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+###### Artículo 315.
+
+Para los efectos de esta Ley, el ejercicio de las facultades discrecionales por parte del Gobierno del Estado, se sujetará a los siguientes criterios:
+
+I. Se fundará y motivará en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado;
+
+II. Se tomarán en cuenta las necesidades sociales y estatales y, en general, los derechos e intereses de la sociedad;
+
+III. Se considerarán los precedentes que se hayan dado en el ejercicio de las facultades específicas que van a ser usadas, así como la experiencia acumulada a ese respecto;
+
+IV. Los demás que establezca el superior jerárquico tendientes a la predictibilidad de la resolución en los funcionarios; y
+
+V. La resolución que se adopte se hará saber por escrito al interesado, dentro de un plazo no mayor de cuatro meses contados a partir de la recepción de la solicitud del particular.
+
+###### Artículo 316.
+
+La definición observancia e instrucción de los procedimientos que se establecen en esta Ley, se sujetarán a los siguientes principios jurídicos y administrativos:
+
+I. Legalidad;
+
+II. Imparcialidad;
+
+III. Eficacia;
+
+IV. Economía;
+
+V. Probidad;
+
+VI. Participación;
+
+VII. Publicidad;
+
+VIII. Coordinación;
+
+IX. Eficiencia;
+
+X. Jerarquía; y
+
+XI. Buena fe.
+
+###### Artículo 317.
+
+Las autoridades sanitarias competentes con base en el resultado de la verificación, dictará las medidas necesarias para corregir, en su caso, las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
+
+###### Artículo 318.
+
+Las autoridades sanitarias competentes harán uso de las medidas legales necesarias incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+
+###### Artículo 319.
+
+Turnada el acta de verificación, se citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco días ni mayor de treinta, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en el acta de inspección.
+
+###### Artículo 320.
+
+El cómputo de los plazos que señalen para el cumplimiento de disposiciones sanitarias, se hará entendiendo los días como naturales, con las excepciones que esta Ley establezca.
+
+###### Artículo 321.
+
+Una vez oído al presunto infractor o a su representante legal y desahogadas las pruebas que ofreciere y fueren admitidas, se procederá dentro de los cinco días hábiles siguientes, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
+
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 322.
+
+En caso de que el presunto infractor no compareciera dentro del plazo fijado por el artículo 319 se procederá a dictar, en rebeldía, la resolución definitiva y notificarla personalmente o por correo certificado con acuse de recibo.
+
+###### Artículo 323.
+
+En los casos de suspensión de trabajos o de servicios o de clausura temporal definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las verificaciones.
+
+###### Artículo 324.
+
+Cuando del contenido de un acta de verificación, se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la medida de seguridad o de la imposición de la sanción administrativa que proceda.
+
+###### Artículo 325.
+
+Contra actos y resoluciones de las autoridades sanitarias que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de inconformidad.
+
+###### Artículo 326.
+
+El plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente a aquél en que se hubiere notificado la resolución o acto que se recurra.
+
+###### Artículo 327.
+
+El recurso se interpondrá ante la unidad administrativa que hubiere dictado la resolución o acto combatido, directamente o por correo certificado con acuse de recibo. En este último caso, se tendrá como fecha de presentación la del día de su depósito en la oficina de correos.
+
+###### Artículo 328.
+
+En el escrito se precisará el nombre y domicilio de quien promueva, los hechos objeto del recurso, la fecha en que, bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución recurrida, los agravios que, directa o indirectamente, a juicio del recurrente, le cause la resolución o acto impugnado, la mención de la autoridad que haya dictado la resolución, ordenado o ejecutado el acto y el ofrecimiento de las pruebas que el inconforme se proponga rendir.
+
+Al escrito deberán acompañarse los siguientes documentos:
+
+I. Los que acrediten la personalidad del promovente, siempre que no sea el directamente afectado y cuando dicha personalidad no hubiere sido reconocida con anterioridad en la instancia o expediente que concluyó con la resolución impugnada;
+
+II. Los documentos que el recurrente ofrezca, como pruebas y que tengan relación inmediata y directa con la resolución o acto impugnado; y
+
+III. Original de la resolución impugnada, en su caso.
+
+###### Artículo 329.
+
+En la tramitación del recurso se admitirá toda clase de medios probatorios, excepto la confesional.
+
+###### Artículo 330.
+
+Al recibir el recurso, la unidad respectiva verificará si éste es procedente, y si fue interpuesto en tiempo debe admitirlo o, en su caso, requerir al promovente para que lo aclare, concediéndole al efecto un término de cinco días hábiles.
+
+En el caso que la unidad citada considere, previo estudio de los antecedentes respectivos, que procede su desechamiento, emitirá opinión técnica en tal sentido.
+
+###### Artículo 331.
+
+En la substanciación del recurso sólo se admitirán las pruebas que se hayan ofrecido en la instancia o expediente que concluyó con la resolución o acto impugnado y las supervenientes.
+
+Las pruebas ofrecidas que procedan, se admitirán por el área competente que deba continuar el trámite del recurso y para su desahogo, en su caso, se dispondrá de un término de treinta días hábiles contados a partir de la fecha en que hayan sido admitidas.
+
+###### Artículo 332.
+
+En el caso de que el recurso fuere admitido, la unidad respectiva, sin resolver en lo relativo a la admisión de las pruebas que se ofrezcan, emitirá una opinión técnica del asunto dentro de un plazo de treinta días hábiles contados a partir del auto admisorio, y de inmediato remitirá el recurso y el expediente que contengan los antecedentes del caso, al área competente de la autoridad sanitaria que corresponda y que deba continuar el trámite del recurso.
+
+El titular del Poder Ejecutivo o la Secretaría de Salud, en su caso, resolverán los recursos que se interpongan y al efecto podrá confirmar, modificar o revocar, el acto o resolución que se haya combatido con base a esta Ley. Esta facultad podrá ser delegada en acuerdo que se publique en el Periódico Oficial "El Estado de Sinaloa".
+
+###### Artículo 333.
+
+A solicitud de los particulares que se consideren afectados por alguna resolución o acto de las autoridades sanitarias competentes, ésta los orientará sobre el derecho que tienen de recurrir la resolución o acto de que se trate, y sobre la tramitación del recurso.
+
+###### Artículo 334.
+
+La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias, si el infractor garantiza el interés fiscal.
+
+Tratándose de otro tipo de actos o resoluciones, la interposición del recurso suspenderá su ejecución, siempre y cuando se satisfagan los siguientes requisitos:
+
+I. Que lo solicite el recurrente;
+
+II. Que no se siga perjuicio al interés social, ni se contravengan disposiciones de orden público; y
+
+III. Que fueren de difícil reparación los daños y perjuicios que causen al recurrente, con la ejecución del acto o resolución combatida.
+
+###### Artículo 335.
+
+En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Sinaloa.
+
+###### Artículo 336.
+
+El ejercicio de la facultad para imponer las sanciones administrativas previstas en la presente Ley, prescribirá, en el término de cinco años.
+
+###### Artículo 337.
+
+Los términos para la prescripción, serán continuos y se contarán desde el día en que se cometió la falta o infracción administrativa, si fuere consumada, o desde que cesó, si fuere continua.
+
+###### Artículo 338.
+
+Cuando el presunto infractor impugnare los actos de las autoridades sanitarias competentes se interrumpirá la prescripción, hasta en tanto la resolución definitiva que se dicte no admita ulterior recurso.
+
+###### Artículo 339.
+
+Los interesados podrán hacer valer la prescripción, por vía de excepción. La autoridad deberá declararla de oficio.
+
+## TRANSITORIOS
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La presente Ley abroga la Ley de Salud del Estado, del día 30 de octubre de 1987, publicada en el Periódico Oficial "El Estado de Sinaloa", de fecha 2 de noviembre de 1987, así como sus reformas y adiciones publicadas en ese mismo medio.
+
+Artículo Tercero.- La presente Ley abroga el Decreto de creación de la Comisión de Arbitraje Médico, del 21 de octubre de 2000, publicado en el Periódico Oficial "El Estado de Sinaloa", de fecha 8 de noviembre de 2000.
+
+Artículo Cuarto.- Las disposiciones de esta Ley relativas a la integración de la Comisión de Arbitraje Médico del Estado de Sinaloa, continuará operando conforme al Decreto expedido por el Ejecutivo Estatal, hasta en tanto concluya el presente período.
+
+Artículo Quinto.- La presente Ley abroga el Decreto de creación del Consejo Estatal de Trasplantes de Órganos y Tejidos Humanos de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa", de fecha 7 de febrero de 2000. Los miembros actuales del Consejo realizarán sus actividades conforme a la presente Ley.
+
+Artículo Sexto.- El Consejo Estatal de Trasplantes deberá integrarse, conforme a lo previsto en esta Ley, dentro de los tres meses posteriores a su publicación.
+
+Artículo Séptimo.- El Ejecutivo del Estado, convocará para la conformación de la Comisión Interinstitucional que integrará el Consejo Estatal para la Prevención y el Control del Síndrome de Inmunodeficiencia Adquirida, dentro de los tres meses posteriores a la publicación de la presente Ley.
+
+Artículo Octavo.- Se derogan las disposiciones que se opongan a la presente Ley.
+
+Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintidós días del mes de julio del año 2004.
+
+C. SAÚL PÉREZ PARRA
+
+DIPUTADO PRESIDENTE
+
+C. FRANCISCA ELENA CORRALES CORRALES
+
+DIPUTADA SECRETARIA
+
+C. IMELDA CASTRO CASTRO
+
+DIPUTADA SECRETARIA
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Es dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los trece días del mes de agosto del año dos mil cuatro.
+
+El Gobernador Constitucional del Estado
+
+Juan S. Millán Lizárraga.
+
+El Secretario General de Gobierno
+
+Gonzalo M. Armienta Calderón.
+
+El Secretario de Salud
+
+Víctor Manuel Díaz Simental.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 11 DE FEBRERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
