@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4477
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-06"
-last_updated: "2006-03-13"
+last_updated: "2008-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2008.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 6 de mayo de 2005.
 
@@ -117,15 +117,21 @@ IV. División de Ingeniería en Sistemas Computacionales.
 
 V. División de Licenciatura en Administración.
 
-> <small>(REFORMADA, G.G. 13 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2008)</small>
 
-VI. División de Arquitectura e Ingeniería Eléctrica.
+VI. División de Arquitectura.
 
-VII. Unidad Jurídica.
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2008)</small>
 
-> <small>(ADICIONADA, G.G. 13 DE MARZO DE 2006)</small>
+VII. División de Ingeniería Eléctrica e Ingeniería Industrial.
 
-VIII. Contraloría Interna.
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2008)</small>
+
+VIII. Unidad Jurídica.
+
+> <small>(ADICIONADA, G.G. 11 DE FEBRERO DE 2008)</small>
+
+IX. Contraloría Interna.
 
 El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de este Organismo. Asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
@@ -167,9 +173,11 @@ XII. Las demás que les señalan otras disposiciones legales y aquellas que les 
 
 ### CAPITULO V. DE LAS SUBDIRECCIONES, DIVISIONES, UNIDAD JURIDICA Y CONTRALORIA INTERNA
 
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 13.
 
-A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería en sistemas computacionales, de administración y de arquitectura, así como coordinar los servicios de control escolar y las funciones del centro de cómputo del Tecnológico.
+A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería en sistemas computacionales, de administración, de arquitectura, de ingeniería eléctrica y de ingeniería industrial, así como coordinar las funciones de control escolar y del Centro de Cómputo del Tecnológico.
 
 Quedan adscritas a la Subdirección Académica:
 
@@ -177,9 +185,9 @@ I. División de Ingeniería en Sistemas Computacionales.
 
 II. División de Licenciatura en Administración.
 
-> <small>(REFORMADA, G.G. 13 DE MARZO DE 2006)</small>
+III. División de Arquitectura.
 
-III. División de Arquitectura e Ingeniería Eléctrica.
+IV. División de Ingeniería Eléctrica e Ingeniería Industrial.
 
 ###### Artículo 14.
 
@@ -435,10 +443,18 @@ DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO Y SECRETARIO D
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 13 DE MARZO DE 2006.
 
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial Gaceta del Gobierno.
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial Gaceta del Gobierno.
+
+G.G. 11 DE FEBRERO DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
