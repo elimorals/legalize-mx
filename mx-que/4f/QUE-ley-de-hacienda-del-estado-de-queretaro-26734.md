@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2007-12-10"
+last_updated: "2008-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -613,9 +613,7 @@ III. Las personas físicas o morales que tengan relaciones mercantiles con algun
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
-### CAPÍTULO SEXTO
-
-IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS.
+### CAPÍTULO SEXTO. IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
 
 Objeto
 
@@ -3203,7 +3201,7 @@ Los recargos deben considerarse en todo caso como indemnización al Erario del E
 
 Son otros aprovechamientos aquellos no considerados específicamente en los artículos anteriores y que no sean impuestos, derechos o productos.
 
-Artículo 152 BIS.- (DEROGADO, P.O. 10 DE DICIEMBRE DE 2007)
+Artículo 152 bis.- (DEROGADO, P.O. 10 DE DICIEMBRE DE 2007)
 
 ### CAPÍTULO ÚNICO
 
@@ -3722,3 +3720,13 @@ Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta Ley en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 11 DE FEBRERO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
