@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2004-09-03"
+last_updated: "2008-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -139,9 +139,17 @@ XIII. Empaques, almacenes, campos y empresa agrícolas. Igualmente viviendas des
 
 XIV. Comercialización y venta de alimentos y bebidas en la vía pública;
 
-XV. Centros antirrábicos; y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2008)</small>
 
-XVI. Las demás materias que determine esta ley y otras disposiciones legales aplicables.
+XV. Centros antirrábicos;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2008)</small>
+
+XVI. Gimnasios; y
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2008)</small>
+
+XVII. Las demás materias que determine esta ley y otras disposiciones legales aplicables.
 
 ###### Artículo 4°.
 
@@ -1517,8 +1525,6 @@ Los establecimientos autorizados para la realización de trasplantes en casos es
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-Artículo186. La regulación en el control sanitario de las materias a que se refiere el artículo 3 inciso B de esta ley, corresponde al Ejecutivo Estatal y a los gobiernos municipales, en el ámbito de sus respectivas competencias.
-
 ###### Artículo 153.
 
 Es de interés público el promover la participación y colaboración de la sociedad y de sus diversos sectores, para apoyar las labores de las diversas instituciones de salud debidamente acreditadas, que realicen trasplantes de órganos y tejidos de seres humanos con fines terapéuticos.
@@ -1740,6 +1746,10 @@ Para los efectos del artículo anterior, se tomará en cuenta la distancia de ce
 ## TÍTULO DÉCIMO TERCERO. SALUBRIDAD LOCAL
 
 ### CAPÍTULO IX. DE LOS RECLUSORIOS
+
+###### Artículo 186.
+
+La regulación en el control sanitario de las materias a que se refiere el artículo 3 inciso B de esta ley, corresponde al Ejecutivo Estatal y a los gobiernos municipales, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 187.
 
@@ -2007,7 +2017,9 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO I. DE LAS AUTORIZACIONES
+### CAPÍTULO XIX. DE LOS GIMNASIOS
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 238.
 
@@ -2023,7 +2035,7 @@ La autoridad municipal, una vez terminada la edificación del centro de reunión
 
 El funcionamiento de los establecimientos a que se refiere el artículo 238 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
 
-### CAPÍTULO II. DE LOS CERTIFICADOS
+### CAPÍTULO I. DE LAS AUTORIZACIONES
 
 ###### Artículo 241.
 
@@ -2045,7 +2057,7 @@ Los establecimientos cubiertos y descubiertos dedicados al fisicoculturismo, a e
 
 El funcionamiento de los establecimientos mencionados en el artículo anterior y el personal que en ellos labore, deberán apegarse a lo señalado en esta Ley y demás normas aplicables.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LOS CERTIFICADOS
 
 ###### Artículo 246.
 
@@ -2061,7 +2073,7 @@ III. Casa de huéspedes o pensión: casa donde se albergan personas para vivir e
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 248.
 
@@ -2077,7 +2089,7 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a cualquiera de los servicios señalados en el artículo anterior, así como para su funcionamiento, se requiere de contar con autorización sanitaria, misma que se expedirá cuando el solicitante haya satisfecho los requisitos que establezcan las normas aplicables.
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 250.
 
@@ -2091,7 +2103,7 @@ Los transportes que circulen en el interior de un solo municipio, deberán conta
 
 Los transportes que circulen por más de un municipio del territorio estatal, deberán contar con la autorización sanitaria correspondiente que será expedida por el Gobierno del Estado, una vez cubiertos los requisitos que marca esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 253.
 
@@ -2101,7 +2113,7 @@ Para los efectos de esta Ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezca el Reglamento correspondiente, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 255.
 
@@ -2113,7 +2125,7 @@ El comercio ambulante de alimentos y bebidas en la vía pública, deberá sujeta
 
 La Secretaría de Salud y los ayuntamientos se coordinarán para llevar a efecto el control sanitario del comercio ambulante de alimentos y bebidas en la vía pública.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 257.
 
@@ -2142,6 +2154,76 @@ VIII. Dar la notificación inmediata, en casos sospechosos y confirmados de rabi
 ###### Artículo 259.
 
 Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campañas permanentes de orientación a la población respecto a la vacunación y control de los animales domésticos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO V. PRESCRIPCIÓN
+
+###### Artículo 259 Bis.
+
+Para los efectos de esta ley, se entiende por gimnasio los establecimientos o locales destinados a la enseñanza o práctica de actividades físicas no competitivas.
+
+Es facultad de la Secretaria de Salud la expedición y supervisión de los permisos de operación para establecimientos denominados gimnasios.
+
+Las características constructivas para locales y establecimientos destinados a la operación de gimnasios, deberán contar obligatoriamente con los siguientes sectores:
+
+A.- Salón o salones de actividades físicas, entendiéndose éstos como el local o sector del establecimiento destinado exclusivamente a la enseñanza o práctica de actividades físicas o recreativas no competitivas;
+
+B.- Vestuario, entendiéndose como el local destinado al usuario del gimnasio para mudarse de ropa, quedando prohibido el desarrollo de otras actividades;
+
+C.- Guardarropa, entendiéndose como el sector o espacios delimitados dentro del vestuario para la guarda de indumentaria, bolsos y otros elementos personales de los concurrentes. Éste podrá o no conformar local independiente con comunicación directa al vestuario;
+
+D.- Servicios sanitarios; y,
+
+E.- Duchas.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+###### Artículo 259 Bis 1.
+
+Los gimnasios deben contar con elementos de primeros auxilios que serán establecidos por la reglamentación. Y deberán estar adheridos a un servicio de emergencias médicas y capacitar a sus profesionales en técnicas de reanimación cardiorrespiratoria y primeros auxilios.
+
+Todo gimnasio deberá exigir a sus usuarios un certificado médico extendido por un doctor que cuente con título y matrícula habilitada, mediante el cual, se reconozca la buena salud del usuario, y que tendrá vigencia de un año a partir de la fecha de su otorgamiento.
+
+En el certificado médico se deberá hacer constar el tipo de actividad física para el cual está habilitado el solicitante, según el criterio del profesional actuante y en virtud de los exámenes que se considere conveniente realizar.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+###### Artículo 259 Bis 2.
+
+Los gimnasios deberán mantener en archivo permanente los certificados de capacidad física de sus usuarios. Controlarán y exigirán su renovación, no permitiendo la práctica de actividades físicas a las personas que no cuentan con certificado vigente.
+
+Los certificados deberán ser renovados al año calendario de su fecha de presentación.
+
+Los gimnasios deberán exhibir en lugar visible de las instalaciones habilitadas:
+
+A.- Certificado que acredite la inscripción del local que se habilite;
+
+B.- Certificado que acredite la inscripción del personal a cargo de la dirección y supervisión del local habitado;
+
+C. Constancia de la contratación de la cobertura de emergencias medicas; y,
+
+D. Horario de atención al público.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+###### Artículo 259 Bis 3.
+
+Todo gimnasio deberá contar con un responsable principal el cual deberá contar con la certificación correspondiente por autoridades competentes en la materia que lo acredite como calificado para la supervisión de las prácticas o enseñanza de actividades físicas, fitness o recreativas en el gimnasio. Además de tener a la vista la fecha de alta y de baja en el gimnasio.
+
+Todos los instructores encargados de impartir las prácticas físicas, fitness o recreativas en el gimnasio deberán contar con la certificación correspondiente por parte de las autoridades competentes en la materia. Además de tener a la vista la fecha de alta y de baja en el gimnasio.
+
+Los instructores encargados de la supervisión de actividades físicas, fitness o recreativas deberán estar entrenados en técnicas de reanimación cardiorrespiratorias y primeros auxilios. Las certificaciones correspondientes serán exhibidas a la vista del público.
+
+Durante las horas del funcionamiento del gimnasio se encontrará presente, al menos uno de los profesores registrados para la supervisión de la (sic) actividades de los concurrentes.
+
+En todos los casos en que cambiara la persona del profesor o profesora responsable principal de la educación física del gimnasio, se deberá dar cuenta de dicho cambio a la autoridad de aplicación del registro de gimnasios creado al efecto, para su registro.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+###### Artículo 259 Bis 4.
+
+Queda totalmente prohibido, en los establecimientos antes mencionados la venta o suministro de medicamentos, sustancias anabólicas, esteroideas y bebidas alcohólicas, también se prohíbe la realización a menores de doce años, de ejercicios, trabajos o toda actividad que implique sobrecargas, maquinas de fuerza o pesas, salvo autorización expresa de un profesional público.
 
 ## TÍTULO DÉCIMO CUARTO. AUTORIZACIONES Y CERTIFICACIONES
 
@@ -2718,3 +2800,11 @@ Gonzalo M. Armienta Calderón.
 El Secretario de Salud
 
 Víctor Manuel Díaz Simental.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 11 DE FEBRERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
