@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2007-12-10"
+last_updated: "2008-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE OBRA PUBLICA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -865,11 +865,11 @@ IV.- No se otorgarán anticipos para el importe resultante de los ajustes de cos
 
 V.- Para los efectos de la amortización de los anticipos, en caso de rescisión del contrato, el saldo por amortizar deberá reintegrarse a la contratante en un plazo no mayor de quince días naturales, a partir de la fecha en que se haya notificado la rescisión al contratista; en caso de incumplimiento se procederá a la aplicación de las sanciones estipuladas en esta ley y la aplicación de las fianzas de anticipo y cumplimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 55.
 
-Quienes participen en las licitaciones o invitación restringida regulados por esta Ley, deberán garantizar ante el Poder, dependencia o entidad contratantes, mediante cheque certificado, cheque de caja o con fianzas expedidas por las instituciones autorizadas, en los términos de la Ley Federal de Instituciones de Fianzas, de acuerdo a los montos y porcentajes que a continuación se describen:
+Quienes participen en las licitaciones o celebren contratos regulados por esta Ley, deberán garantizar lo estipulado ante los Poderes del Estado, Dependencias, Entidades o Municipios contratantes, a través del empleo de título de crédito o con fianza expedida por las instituciones autorizadas, en los términos de la Ley Federal de Instituciones de Fianzas, de acuerdo a los montos y porcentajes que a continuación se describen:
 
 I.- La seriedad de las propuestas en los procedimientos de licitación, se optará por garantizarla con una fianza que cubra el cinco por ciento del monto de la propuesta o bien, mediante un cheque no negociable, suscrito a nombre de la convocante, por el importe del mencionado porcentaje. En el supuesto de que el contratista retire su propuesta, la garantía será hecha efectiva por la convocante y además aquel será inhabilitado hasta por un año para participar en obras reguladas por esta ley.
 
@@ -889,9 +889,9 @@ Las garantías previstas en las fracciones II y III de este artículo, deberán 
 
 Los anticipos se entregarán dentro de los plazos que se fijen en la normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2008)</small>
 
-La aceptación, calificación, custodia, sustitución, cancelación y requerimiento de pago de las garantías a que se refiere este artículo, se realizará por el Poder, entidad o dependencia contratante.
+La aceptación, calificación, custodia, sustitución, cancelación y requerimiento de pago de las garantías, se realizará por los Poderes del Estado, Entidades, Dependencias o Municipios contratantes.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -941,11 +941,19 @@ Durante la fase de ejecución de la obra, el supervisor mantendrá al corriente 
 
 Las estimaciones de los trabajos ejecutados serán elaboradas y presentadas por el contratista a la dependencia, entidad o municipio contratante por períodos acordes al programa y duración de los trabajos contratados, en plazos no mayores a un mes, acompañadas de la documentación necesaria que acredite la procedencia de su pago.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2008)</small>
 
-Los contratistas cubrirán el 4 al millar sobre el importe de cada una de las estimaciones de trabajo, por concepto de derechos por los servicios de vigilancia, inspección y control necesarios para la ejecución.
+Los contratistas cubrirán el 4 al millar sobre el importe de cada una de las estimaciones de trabajo por concepto de derechos por los servicios de vigilancia, inspección y control necesarios para la ejecución de obras contratadas por los Poderes, Dependencias o Entidades contratantes del Estado de Querétaro.
 
-Dentro de un plazo no mayor de quince días naturales contados a partir de la fecha en que el residente de supervisión reciba las estimaciones por trabajos ejecutados, procederá a su revisión y aprobación, hecho lo cual la contratante hará el pago en un plazo no mayor de quince días naturales a partir de que el contratista presente la factura correspondiente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2008)</small>
+
+Para el caso de los Municipios se aplicará el importe establecido en la Ley de Hacienda de los Municipios del Estado de Querétaro Arteaga, así como en la respectiva ley anual de ingresos.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
+Dentro de un plazo no mayor de quince días naturales contados a partir de la fecha en que el residente de supervisión reciba las estimaciones por trabajos ejecutados, procederá a su revisión y aprobación, hecho lo cual, la contratante hará el pago respectivo en un plazo no mayor de quince días naturales contados a partir de que el contratista presente la factura correspondiente.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2008)</small>
 
 Las diferencias técnicas o numéricas pendientes de pago se resolverán y, en su caso, serán incorporadas en la siguiente estimación.
 
@@ -1290,3 +1298,13 @@ Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta Ley en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 11 DE FEBRERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
