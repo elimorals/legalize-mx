@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2007-11-12"
+last_updated: "2008-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1799,7 +1799,7 @@ XII. Proponer, coordinar y evaluar las acciones en materia de deporte, cultura f
 
 XIII. Integrar equipos, organizar torneos y eventos deportivos así como conformar las escuelas deportivas municipales y los centros de formación y desarrollo deportivo en las diferentes colonias del Municipio para que trabajen en las disciplinas que demanda la población.
 
-XIV. Administrar las instalaciones y espacios deportivos del Municipio.
+XlV. Administrar las instalaciones y espacios deportivos del Municipio.
 
 XV. El fomento al empleo e impulso a la actividad económica en el comercio y los servicios, para el logro del bienestar social, del Municipio de Aguascalientes, que permita la participación de la juventud, de las mujeres y las personas con capacidades diferentes.
 
@@ -2995,7 +2995,7 @@ Integrado el expediente, el mismo se remitirá a la Dirección de Asuntos Juríd
 
 ###### ARTÍCULO 235.
 
-Autorizada la enajenación, Control Patrimonial procederá a llevarla a cabo en los términos que dicte dicha autorización y operará en su caso, la baja definitiva de los bienes muebles enajenados, en el Inventario General, a fin de que ya no integren patrimonio del Municipio.
+Autorizada la enajenación, Control Patrimonial procederá a lIevarla a cabo en los términos que dicte dicha autorización y operará en su caso, la baja definitiva de los bienes muebles enajenados, en el Inventario General, a fin de que ya no integren patrimonio del Municipio.
 
 ###### ARTÍCULO 236.
 
@@ -6991,23 +6991,25 @@ IV. Un Fiscal que será el Coordinador de Asuntos Internos y Denuncias quien con
 
 Para cada uno de estos cargos también se designará un suplente. Los anteriores cargos son honorarios y no percibirán retribución alguna por sus funciones.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 615.
 
-Los vocales que integran la Comisión de Honor y Justicia, deberán ser de reconocida honorabilidad, contando con un mínimo de dos años de experiencia en la Secretaría y estar en servicio activo, quienes durarán en su encargo un año siendo elegidos por los integrantes de la Secretaría correspondientes, mediante el siguiente proceso:
+Los vocales que integran la Comisión de Honor y Justicia, deberán de ser de reconocida honorabilidad, contando con un mínimo de dos años de experiencia en la Secretaria y estar en servicio activo, quienes durarán en su encargo un año, siendo elegidos por la Dirección de Estado Mayor, mediante el siguiente proceso:
 
-a) La convocatoria para ocupar el cargo de vocal se publicará en los destacamentos el primero de Diciembre de cada año.
+I. La convocatoria para ocupar los cargos de vocales se publicará en los destacamentos, a más tardar, el día quince de febrero de cada año.
 
-b) Los interesados presentarán su solicitud a más tardar el 31 de diciembre ante la Dirección de Estado Mayor, anexando las constancias con las que acredite cumplir con todos los requisitos.
+II. Los interesados presentarán su solicitud, a más tardar, el día primero de marzo del mismo año, ante la Dirección de Estado Mayor, anexando las constancias con las que acredite cumplir con los requisitos señalados con anterioridad.
 
-c) El Director de Estado Mayor, analizará cada una de las solicitudes presentadas y designará los vocales de entre aquellos que cumplan con los requisitos, valorando cualitativamente el cumplimiento de los mismos, así como la experiencia previa en un cargo similar.
+III. El Director de Estado Mayor analizará cada una de las solicitudes presentadas y designará los vocales de entre aquellos que cumplan con les requisitos, valorando cualitativamente el cumplimiento de los mismos, así como la experiencia previa en un cargo similar.
 
-d) De no haber solicitudes o las presentadas no cumplieran con los requisitos, el Director de Estado Mayor hará la designación, misma que será obligatoria para los elementos.
+IV. De no haber solicitudes suficientes para ocupar el número de vocalías integrantes de la Comisión o las presentadas no cumplieren con los requisitos, el Director de Estado de Mayor hará la designación, misma que será obligatoria para los elementos.
 
-e) El Director de Estado Mayor, notificará al Presidente de la Comisión de los nombramientos realizados a más tardar el día 15 de enero de cada año.
+V. El Director de Estado Mayor notificará al Presidente de la Comisión de los nombramientos realizados, a más tardar, el día 15 de marzo del mismo año.
 
-f) Los vocales están obligados a cumplir con su encargo hasta en tanto no sean relevados por los nuevos.
+VI. Los vocales están obligados a cumplir con su encargo hasta en tanto no sean relevados por los nuevos.
 
-Cuando el Presidente de la Comisión considere que la actuación de alguno de los vocales designados pone en riesgo el sano desempeño, solicitará por escrito al Secretario de Seguridad Pública y Transito Municipal, valore la designación de un vocal sustituto que concluya el periodo anual.
+Cuando el Presidente de la Comisión considere que la actuación de alguno de los vocales designados pone en riesgo el correcto desempeño de la Comisión, solicitará por escrito al Secretario de Seguridad Pública y Tránsito Municipal, valore la designación de un vocal sustituto que concluya el periodo anual para el que fue electo el vocal removido.
 
 ### CAPÍTULO III. Circulaciones en las Construcciones
 
@@ -17910,3 +17912,15 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal para el Estado de Aguascalientes; 102, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- M. en D. Gabriel Ochoa Amador.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 11 DE FEBRERO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Dirección de Estado Mayor de la Secretaría de Seguridad Pública y Tránsito Municipal deberá expedir la convocatoria para integrar la Comisión de Honor y Justicia, a partir del inicio de la vigencia del presente Decreto y hasta el día quince de febrero del presente año, cumpliendo con el proceso señalado en el artículo 615 del Código Municipal de Aguascalientes.
