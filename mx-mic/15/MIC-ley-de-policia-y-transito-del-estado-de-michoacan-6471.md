@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-policia-y-transito-del-estado-de-michoacan-6471"
 country: "mx"
 rank: "ley"
 publication_date: "1978-03-30"
-last_updated: "2002-09-18"
+last_updated: "2008-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 LEY DE POLICIA Y TRANSITO DEL ESTADO DE MICHOACAN
 
-> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICADEL ESTADO DE MICHOACAN, PUBLICADO EN EL PERIODICO OFICIAL EL 18 DE SEPTIEMBRE DE 2002.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 12 DE FEBRERO DE 2008, SE DEROGADO TODAS LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 30 de marzo de 1978.
 
@@ -1378,3 +1378,31 @@ Los reglamentos de esta Ley deberán emitirse por el Gobernador del Estado, dent
 ###### ARTÍCULO OCTAVO.
 
 En tanto se expida la Ley reglamentaria en materia de Seguridad Privada continuarán aplicándose las disposiciones de la Ley de Seguridad Pública del Estado, y demás reglamentos en tanto que no se opongan a la presente Ley.
+
+P.O. DE 12 DE FEBRERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 16 de febrero de 2008, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública del Estado de Michoacán de Ocampo, aprobada el 23 de agosto de 2002 por el Congreso del Estado, publicada el día 18 de septiembre de 2002 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, y sus posteriores reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de la Ley de Policía y Tránsito del Estado de Michoacán aprobada el 14 de marzo de 1978 por el Congreso del Estado publicada el 30 de marzo de 1978 en el periódico Oficial del
+
+Gobierno Constitucional del Estado de Michoacán de Ocampo y sus posteriores reformas y adiciones, en cuanto se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador del Estado deberá emitir el decreto de creación del organismo público descentralizado denominado Policía Auxiliar, dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los reglamentos de esta Ley deberán emitirse por el Gobernador del Estado, dentro de los ciento ochenta días posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Las funciones que actualmente desarrollen otras dependencias y que estén señaladas en esta Ley al Secretario Ejecutivo del Consejo de Seguridad Pública, deberán ser asumidas plenamente por éste en un plazo no mayor a treinta días a partir de la fecha de publicación del presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
