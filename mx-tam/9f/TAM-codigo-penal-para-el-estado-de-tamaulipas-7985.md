@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2008-02-05"
+last_updated: "2008-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1699,9 +1699,9 @@ b) Se utilice a niños, niñas, adolescentes o a quienes no tienen la capacidad 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
-### CAPITULO II. CORRUPCION DE MENORES E INCAPACES, PORNOGRAFIA INFANTIL Y PROSTITUCIÓN SEXUAL DE MENORES E INCAPACES
+### CAPITULO II. CORRUPCION, PORNOGRAFIA Y PROSTITUCION SEXUAL DE MENORES E INCAPACES
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 172.
 
@@ -1859,7 +1859,7 @@ III.- El que de modo escandaloso invite a otro al comercio carnal.
 
 Al responsable de los delitos previstos en este capítulo, se le impondrá una sanción de tres a seis años de prisión y multa de cien a quinientos días salario.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO IV. DE LA TORTURA
 
@@ -1867,71 +1867,85 @@ Al responsable de los delitos previstos en este capítulo, se le impondrá una s
 
 ###### ARTICULO 192.
 
-Comete el delito de corrupción de menores e incapaces el que procure o facilite la corrupción de un menor de dieciséis años de edad o de quien no tenga capacidad de comprender el significado del hecho, mediante actos de exhibicionismo corporal, lascivos o sexuales, o los induzca por cualquier medio a la práctica de la mendicidad, la ebriedad, la toxicomanía, la prostitución, al homosexualismo, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
+Comete el delito de corrupción de menores e incapaces el que procure o facilite a una persona menor de dieciocho años de edad o a quien no tenga capacidad de comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, o los induzca por cualquier medio a la práctica de la mendicidad, la ebriedad, el consumo de drogas, la prostitución, el homosexualismo, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 193.
 
-Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de cuatro a nueve años de prisión y multa de doscientos a quinientos días salario.
+Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de cinco a diez años de prisión y multa de cuatrocientos a mil días salario.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz la sanción a imponer será de seis a doce años de prisión y multa de cien a cuatrocientos días salario. Si debido a esa conducta reiterada de corrupción sobre el mismo menor o incapaz éste adquiera los hábitos de alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, o se dedique a la prostitución, o a las prácticas homosexuales, o forme parte de una asociación delictuosa, la sanción a imponer será de ocho a dieciséis años de prisión y multa de doscientos a cuatrocientos días salario.
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz la sanción a imponer será de seis a doce años de prisión y multa de quinientos a mil doscientos días salario. Si debido a esa conducta reiterada de corrupción sobre el mismo menor o incapaz éste adquiera los hábitos de alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, o se dedique a la prostitución, o a las prácticas homosexuales, o forme parte de una asociación delictuosa, la sanción a imponer será de ocho a dieciséis años de prisión y multa de seiscientos a dos mil días salario.
 
 Si además de los delitos previstos en este capítulo resultare cometido otro, se aplicarán las reglas del concurso.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 194.
 
-Queda prohibido emplear a menores de dieciséis años de edad en billares, cantinas, tabernas, giros mixtos, bares, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, u otros centros de vicio. Al que contravenga esta disposición, se le impondrá una sanción de dos a cuatro años de prisión y multa de cien a trescientos días salario y, además, el cierre definitivo del establecimiento si reincidiere en su conducta.
+Queda prohibido emplear a menores de dieciocho años de edad en billares, cantinas, tabernas, giros mixtos, bares, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, u otros centros donde se expendan bebidas alcohólicas. Al que contravenga esta disposición, se le impondrá una sanción de tres a cinco años de prisión y multa de doscientos a quinientos días salario y, además, el cierre definitivo del establecimiento si reincidiere en su conducta.
 
-Se impondrá de un mes a un año de prisión a los padres o quienes ejerzan la patria potestad, tutela o adopción de algún menor de edad, que acepten, toleren o consientan que sus descendientes, pupilos o adoptados que estén bajo su guarda, se empleen en los establecimientos referidos en el presente artículo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2008)</small>
 
-Para los efectos de este precepto se considerará empleado en el billar, cantina, taberna, giro mixto, bar, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, o centro de vicio, al menor que por un salario, por la sola comida, por comisión de cualquier índole o especie, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tal lugar
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-ARTICULO 194 BIS.- Comete el delito de pornografía infantil:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-I.- El que obligue o induzca a uno o más menores de dieciséis años a realizar actos de exhibicionismo corporal, lascivos, sexuales o pornográficos con la finalidad de videograbarlos, filmarlos, fotografiarlos o exhibirlos mediante anuncios impresos, electromagnéticos, electrónicos, o por vía internet, de telefonía o cualquiera otra similar;
-
-II.- Toda persona que procure, permita o facilite por cualquier medio el que uno o mas menores de dieciséis años con su consentimiento o sin él, realice cualquiera de los actos señalados en la fracción anterior con los mismos fines;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-III.- Al que fije, grabe, procese, elabore o imprima actos de exhibicionismo corporal, lascivos, sexuales o pornográficos en que participen uno o más menores de dieciséis años;
-
-IV.- Quien con fin de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, exhiba, publicite o transmita material que contenga actos señalados en las fracciones anteriores; y
-
-V.- La persona o personas que por si o través de terceros dirija, administre, supervise o financie cualquier tipo de agrupación o asociación a fin de realizar las conductas prevista en las fracciones anteriores en que intervengan uno o mas menores de dieciséis años.
-
-Para los efectos de éste artículo, se entiende por pornografía infantil, la representación, ejecución o simulación de actos sexuales, o desnudos corporales, en imágenes en que aparezcan menores de dieciséis años.
+Se impondrá de tres meses a un año de prisión o multa de cien a doscientos días salario a los padres o quienes ejerzan la patria potestad, tutela o adopción de algún menor de edad, que acepten, toleren o consientan que sus descendientes, pupilos o adoptados que estén bajo su guarda, se empleen en los establecimientos referidos en el presente artículo.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Al responsable de los delitos señalados en las fracciones I, II y IV se le impondrá de siete a diez años de prisión, y multa de mil a dos mil días salario.
+Para los efectos de este precepto se considerará empleado en el billar, cantina, taberna, giro mixto, bar, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, o centro de vicio, al menor que por un salario, por la sola comida, por comisión de cualquier índole o especie, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tal lugar.
 
-Al responsable de los delitos previstos en las fracciones III y V se les aplicará de ocho a dieciséis años de prisión y una multa de tres mil a diez mil días salario.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+ARTICULO 194 BIS.- Comete el delito de pornografía de menores de edad e incapaces:
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+I.- El que obligue o induzca a uno o más menores de dieciocho años o incapaces a realizar actos de exhibicionismo corporal, lascivos, sexuales o pornográficos con la finalidad de grabarlos, videograbarlos, filmarlos, fotografiarlos o exhibirlos mediante anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicación, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+II.- Toda persona que procure, permita o facilite por cualquier medio el que uno o mas menores de dieciocho años con su consentimiento o sin él, o incapaces, realice cualquiera de los actos señalados en la fracción anterior con los mismos fines;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+III.- Al que fije, grabe, procese, elabore o imprima actos de exhibicionismo corporal, lascivos, sexuales o pornográficos en que participen uno o más menores de dieciocho años o incapaces;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IV.- Quien con fin de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, exhiba, publicite o transmita material que contenga actos señalados en las fracciones anteriores; y
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+V.- La persona o personas que por si o través de terceros dirija, administre, supervise o financie cualquier tipo de agrupación o asociación a fin de realizar las conductas prevista en las fracciones anteriores en que intervengan uno o más menores de dieciocho años o incapaces.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+Para los efectos de éste artículo, se entiende por pornografía de menores de edad o incapaces, la representación, ejecución o simulación de actos sexuales, o desnudos corporales, en imágenes en que aparezcan menores de dieciocho años o incapaces.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+Al responsable de los delitos señalados en las fracciones I, II y IV se le impondrá de ocho a doce años de prisión, y multa de mil quinientos a dos mil quinientos días salario.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+Al responsable de los delitos previstos en las fracciones III y V se les (sic) aplicará de diez a dieciocho años de prisión y una multa de cinco mil a doce mil días salario.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 Independientemente de las sanciones señaladas, a los responsables de estos delitos les serán decomisados los objetos, instrumentos y productos relacionados con el delito, y serán suspendidos sus derechos para ejercer tutela, curatela o adopción por el término que corresponda hasta tres veces la sanción privativa de libertad que le fuere impuesta.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
-ARTICULO 194 TER.- Comete el delito de prostitución sexual de menores:
+ARTICULO 194 TER.- Comete el delito de prostitución sexual de menores e incapaces:
 
-I.- El que dentro del territorio del Estado, publicite, facilite o gestione por cualquier medio a persona o personas para que se trasladen a cualquier lugar dentro de éste o fuera del mismo, con el propósito o fin de tener u obtener relaciones sexuales con menores de dieciséis años o incapaces;
+l.- El que dentro del territorio del Estado, publicite, facilite o gestione por cualquier medio a persona o personas para que se trasladen a cualquier lugar dentro de éste o fuera del mismo, con el propósito o fin de tener u obtener relaciones sexuales con menores de dieciocho años o incapaces;
 
-II.- El que dentro del territorio del Estado, promueva, facilite, consiga o entregue a menores de dieciséis años o incapaces para que tenga relaciones sexuales o ejerza la prostitución; y
+II.- El que dentro del territorio del Estado, promueva, facilite, consiga o entregue a menores de dieciocho años o incapaces para que tenga relaciones sexuales o ejerza la prostitución; y
 
-III.- El que promueva, encubra, consienta o concierte el comercio carnal de un menor de dieciséis años.
+III.- El que promueva, encubra, consienta o concierte el comercio carnal de un menor de dieciocho años o de un incapaz.
 
-Al responsable de éste delito se le aplicará de siete a dieciséis años de prisión y multa de mil a dos mil días salario, e inhabilitación para desempeñar cargo de tutela, curatela y para adoptar.
+Al responsable de éste delito se le aplicará de diez a dieciocho años de prisión y multa de cinco mil a doce mil días salario, e inhabilitación para desempeñar cargo de tutela, curatela y para adoptar.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1949,9 +1963,11 @@ III.- Si la conducta es ejecutada por quien se valiese de una función pública 
 
 La sanción señalada en el Artículo 193 se aumentará con otro tanto más cuando el responsable tenga parentesco por consanguinidad, por afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiere parentesco alguno, así como por el tutor o curador; asimismo perderá la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondiera por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 196.
 
-Al que en cualquiera de las formas previstas en el artículo 39 de este Código, lleve a cabo un delito sirviéndose de un menor de dieciséis años de edad, se le aumentará en un tercio la pena que corresponda al delito cometido.
+Al que en cualquiera de las formas previstas en el artículo 39 de este Código, lleve a cabo un delito sirviéndose de un menor de dieciocho años de edad, se le aumentará en un tercio la pena que corresponda al delito cometido.
 
 ###### ARTICULO 197.
 
@@ -2139,7 +2155,7 @@ XIII.- Obligar a declarar a las personas que se mencionan en el artículo 249 Bi
 
 Se sancionará con una pena de tres a doce años de prisión, multa de doscientos a cuatrocientos días de salario, destitución del cargo e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
 
-Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
+Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
 
 Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
 
@@ -4387,7 +4403,9 @@ Los responsables de los delitos contenidos en el presente Capítulo, por haber a
 
 Comete el delito a que se refiere este Capítulo:
 
-I.- El que por sí o por interpósita persona, fraccione o divida en lotes un predio, rústico o urbano, ajeno o propio, sin contar con el permiso necesario de la autoridad administrativa o teniéndolo, no respete las especificaciones del mismo, con el objeto de transferir la posesión, la propiedad o cualquier otro derecho relacionado con los lotes divididos.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+I.- El que por sí o por interpósita persona, fraccione en lotes un predio, rústico o urbano, ajeno o propio, sin contar con el permiso necesario de la autoridad administrativa o teniéndolo, no respete las especificaciones del mismo, con el objeto de transferir la posesión, la propiedad o cualquier otro derecho relacionado con los lotes fraccionados.
 
 II.- El que por sí o por interpósita persona, sin contar con los requisitos y autorizaciones de urbanización exigidos por las leyes respectivas, permita de propia autoridad en lote propio, la constitución de asentamientos humanos integrados por dos o más familias, que impliquen el surgimiento de peticiones respecto de su regularización.
 
@@ -4407,15 +4425,17 @@ IV.- El servidor público que valiéndose de su encargo expida, autorice u otorg
 
 V.- El servidor público que expida licencias, permisos, autorizaciones o cualquier otra disposición análoga, permitiendo el uso del suelo o la edificación de construcciones respecto de lotes previamente fraccionados sin el permiso de la autoridad administrativa correspondiente, o que contándose con éste no se hayan observado las especificaciones del mismo; igualmente incurrirá en el delito el funcionario público que los otorgue sin estar autorizado para ello.
 
-> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+VI.- (DEROGADA, P.O. 12 DE FEBRERO DE 2008)
 
-VI.- El que por sí o por interpósita persona, realice actividades de lotificación, deforestación, limpieza, trazado o aquellas tendentes a constituir asentamientos humanos en predios rústicos o urbanos, sin cerciorarse previamente de que se cuenta con el permiso necesario de la autoridad administrativa para ello.
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+VII.- El que por sí o por interpósita persona, dañe, deseque, obstruya o rellene cuerpos de agua, humedales, escurrimientos, cauces naturales y drenes pluviales, con el propósito de su aprovechamiento en el incremento del área utilizable de un predio o un fraccionamiento, sin contar con el permiso necesario de la autoridad administrativa para ello.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 455.
 
-Las licencias, permisos, autorizaciones o disposiciones análogas a que se hace referencia en las fracciones V y VI del artículo anterior estarán afectadas de nulidad absoluta.
+Las licencias, permisos, autorizaciones o disposiciones análogas a que se hace referencia en las fracciones IV y V del artículo anterior estarán afectadas de nulidad absoluta.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
 
@@ -4433,7 +4453,11 @@ I. De uno a seis años de prisión y multa de trescientos a mil días de salario
 
 II. De uno a seis años de prisión, multa de trescientos a mil días de salario y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión pública hasta por seis años, por lo que hace a las conductas previstas en las fracciones IV y V del artículo 454 del presente Código.
 
-III. De seis meses a tres años de prisión y multa de cien a quinientos días de salario por lo que hace a la conducta prevista en la fracción VI del artículo 454 del presente Código.
+III.- (DEROGADA, P.O. 12 DE FEBRERO DE 2008)
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+IV.- De uno a seis años de prisión y multa de trescientos a mil días de salario por lo que hace a la conducta prevista en la fracción VII del artículo 454 del presente Código.
 
 La pena de prisión impuesta se incrementará hasta en dos años, cuando las conductas previstas afecten áreas protegidas o de preservación ecológica, o se realicen respecto de zonas no consideradas aptas para la vivienda de acuerdo a las leyes, planes y programas de desarrollo urbano en vigor.
 
@@ -4696,6 +4720,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 5 DE FEBRERO DE 2008.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2008.
+
+DECRETO NO. LIX-1118 POR EL QUE SE REFORMAN LA DENOMINACION DEL CAPITULO II DEL TITULO QUINTO, ASI COMO LOS ARTICULOS 192, 193, PARRAFOS PRIMERO Y SEGUNDO, 194 PARRAFOS PRIMERO Y SEGUNDO, 194 BIS PARRAFO PRIMERO Y FRACCIONES I, II, III Y V, ASI COMO LOS PARRAFOS TERCERO, CUARTO Y QUINTO DEL MISMO ARTICULO; 194 TER; Y, 196 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2008.
+
+DECRETO NO. LIX-1122 POR EL QUE SE REFORMAN, LA FRACCION I DEL ARTICULO 454 Y EL ARTICULO 455, SE ADICIONAN, LA FRACCION VII AL ARTICULO 454 Y LA FRACCION IV AL ARTICULO 457 Y SE DEROGA LA FRACCION VI DEL ARTICULO 454 Y LA FRACCION III DEL ARTICULO 457 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
