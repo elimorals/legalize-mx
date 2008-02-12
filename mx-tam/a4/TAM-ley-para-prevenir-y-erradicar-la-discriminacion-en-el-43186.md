@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-43186"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2004-12-29"
+last_updated: "2008-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -142,6 +142,22 @@ n) Aplicar cualquier tipo de uso o costumbre que atente contra su dignidad e int
 ñ) Impedir la libre elección de cónyuge, y
 
 o) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes e imágenes en los medios de comunicación.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+2. Con motivo del embarazo, se prohíbe la realización de las siguientes conductas:
+
+a) Llevar a cabo cualquier conducta que implique exclusión o restricción por esa razón en perjuicio de mujer alguna y que tenga por efecto impedir, menoscabar o anular el reconocimiento o ejercicio de sus derechos y libertades fundamentales o la igualdad real de oportunidades;
+
+b) Ejercer violencia física o moral, contra la mujer, sin demérito de las sanciones administrativas, civiles o penales que procedan;
+
+c) Restringir, impedir o negar el derecho al trabajo o sujetar o terminar la relación laboral por razón del embarazo;
+
+d) Restringir, impedir o vedar el acceso a la educación y las instituciones del sistema educativo estatal;
+
+e) Realizar jornadas nocturnas de trabajo; y
+
+f) Realizar labores que la expongan al contacto con agentes infectocontagiosos o la inhalación de sustancias tóxicas volátiles, o laborar en áreas donde existan emanaciones radioactivas o se tenga contacto con sustancias, materiales o fluidos explosivos o peligrosos.
 
 ###### Artículo 10.
 
@@ -321,6 +337,28 @@ e) Garantizar el derecho a decidir sobre el número y espaciamiento de sus hijos
 
 f) Garantizar la creación de centros de desarrollo infantil y de guarderías, asegurando el acceso a los mismos para sus hijos cuando ellas lo soliciten.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+2. Con el propósito de alentar la equidad de género para la mujer embarazada, en forma enunciativa, los sujetos referidos en el párrafo 1 de este artículo, adoptarán las siguientes medidas:
+
+a) Facilitar el acceso a las instituciones de protección de la salud para la realización de consultas médicas, exámenes de laboratorio y ultrasonido, atención ginecológica, orientación psicológica y psiquiátrica, orientación nutricional y, en general, las atenciones y cuidados médicos necesarios, de conformidad con la Ley de Salud para el Estado;
+
+b) Disfrutar de estabilidad en el empleo, cargo u ocupación que desarrolle;
+
+c) Acceder a las oportunidades de empleo en igualdad de condiciones con los varones y con las mujeres que no estén embarazadas;
+
+d) Ocupar cargos públicos en igualdad de condiciones que los varones y las mujeres no embarazadas;
+
+e) Acceder plenamente a las instituciones del sistema educativo estatal. En su caso, los planteles educativos harán las adecuaciones necesarias para que la mujer embarazada pueda continuar con sus estudios y ser evaluada conforme a los mismos, cuando en virtud de atención médica incurra en inasistencias;
+
+f) Acceder a los servicios de orientación y de asesoría legal en las instituciones públicas estatales, conforme a la materia de los derechos que pretenda ejercer;
+
+g) Recibir la atención y orientación gratuita sobre su esfera de derechos por parte del Instituto de la Mujer Tamaulipeca;
+
+h) Disfrutar de los distintos derechos y prerrogativas contenidos en las leyes, reglamentos, contratos colectivos o convenios de cualquier naturaleza en materia de descanso con motivo del embarazo y posterior al parto; y
+
+i) Acceder en forma preferente al disfrute de los beneficios de los programas sociales del Gobierno del Estado, sin demérito de los derechos de otras personas en condiciones de vulnerabilidad social.
+
 ###### Artículo 16.
 
 Los órganos públicos estatales o municipales y las autoridades, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades de las niñas y los niños:
@@ -470,3 +508,9 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintinueve días del mes de diciembre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE FEBRERO DE 2008.
+
+Artículo Unico. El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
