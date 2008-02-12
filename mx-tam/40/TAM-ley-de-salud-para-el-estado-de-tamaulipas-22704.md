@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2007-11-08"
+last_updated: "2008-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -51,7 +51,9 @@ Las disposiciones de la presente ley son de orden público, de interés social, 
 
 El derecho a la protección de la salud, tiene las siguientes finalidades.
 
-I.- El bienestar físico y mental del hombre;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+I.- El bienestar físico y mental del hombre, desde el momento mismo de la concepción;
 
 II.- La prolongación y el mejoramiento de la calidad de la vida humana;
 
@@ -75,7 +77,9 @@ A).- La organización, control y vigilancia de la prestación de servicios y de 
 
 B).- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
-C).- La atención materno-infantil;
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+C).- La atención de la madre, del infante aún desde el momento de su concepción;
 
 D).- La prestación de servicios de planificación familiar;
 
@@ -545,7 +549,9 @@ La atención materno-infantil y del adolescente comprende las siguientes accione
 
 I.- Atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II.- Atención del recién nacido, con enfoque de prevención, control y tratamiento oportuno de los padecimientos comunes en la etapa neonatal;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+II.- Vigilancia y cuidados de la madre y el producto de la gestación, desde la concepción y hasta su nacimiento; así mismo, la atención del recién nacido, con enfoque de prevención control y tratamiento oportuno de los padecimientos comunes en la etapa neonatal;
 
 III.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
 
@@ -553,9 +559,39 @@ IV.- Atención integral del adolescente, con énfasis en la prevención y contro
 
 V.- Promoción de la integración y del bienestar familiar, sustentado en la participación y compromiso de todos sus miembros.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 30.
 
-El Gobierno del Estado garantizará la atención integral, oportuna y de calidad de las mujeres durante el embarazo, parto y puerperio, así como del recién nacido. Tratándose de población de escasos recursos no derechohabiente, asegurará la gratuidad de este servicio, aportando para ello los recursos económicos necesarios.
+El Gobierno del Estado garantizará la atención integral, oportuna y de calidad de las mujeres durante el embarazo, parto y puerperio, del producto de la gestación y del recién nacido. Tratándose de población de escasos recursos no derechohabiente, asegurará la gratuidad de este servicio, aportando para ello los recursos económicos necesarios.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 30 Bis.
+
+Durante el embarazo, la mujer goza de los siguientes derechos:
+
+I.- Recibir información sobre los métodos de parto y las diferentes instituciones del sistema estatal de salud con capacidad profesional para atenderlos;
+
+II.- Recibir información sobre los beneficios y riesgos de los procedimientos, fármacos y pruebas que se utilicen durante el embarazo, el parto y el puerperio;
+
+III.- Rechazar las prácticas y procedimientos que no se encuentren respaldados por evidencias científicas;
+
+IV.- Conocer y decidir sobre beneficios potenciales y eventuales riesgos de los procedimientos y métodos de asistir profesionalmente a un parto;
+
+V.- Elegir métodos no farmacológicos de alivio del dolor, debiendo recurrirse a los analgésicos o anestésicos sólo si éstos son requeridos por decisión médica para atender la exigencia del caso;
+
+VI.- Conocer el nombre y la calificación profesional de quien le administre un medicamento o le realice un procedimiento durante la gestación, el parto y el puerperio;
+
+VII.- Recibir información sobre eventuales afecciones que se conozca o se sospeche que padezca el producto del embarazo o el recién nacido;
+
+VIII.- Conocer o consultar su historia clínica y solicitar copia de la misma;
+
+IX.- Elegir una posición para el trabajo de parto y el parto, que le resulten más convenientes para ella y el producto del embarazo;
+
+X.- Recibir atención sensible con su sistema de valores y de creencias; y
+
+XI.- Ser informada sobre los procedimientos de orientación y quejas con relación a la prestación a (sic) los servicios de salud.
 
 ###### ARTICULO 31.
 
@@ -662,6 +698,22 @@ III.- Enfermedades infecto-contagiosas como el SIDA, Gonorrea, papiloma y otras 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
 IV.- Enfermedades no exclusivas de la mujer, pero de mayor frecuencia en ellas, como la osteoporosis, obesidad, anorexia, abulimia, depresión, várices y todas aquéllas que en la mujer tenga alta incidencia.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 38 Bis.
+
+Durante el parto, la mujer tiene derecho a:
+
+I.- Recibir atención digna y de calidad, la cual será gratuita en la hipótesis del artículo 30 de esta ley;
+
+II.- Recibir información completa y comprensible a su nivel cultural sobre las causas y posibles consecuencias de las decisiones que pueden tomarse durante la atención médica;
+
+III.- Decidir de manera libre e informada si el parto se llevará a cabo en forma natural, por intervención quirúrgica o a través de los distintos procedimientos establecidos en la práctica médica. La mujer otorgará su consentimiento por escrito, por sí o través de quien autorice para otorgarlo;
+
+IV.- Determinar la atención que se brindará al parto conforme a su sistema de valores y creencias, con excepción de las determinaciones médicas para evitar situaciones de riesgo a la integridad física de la madre o su vida misma; y
+
+V.- Decidir libremente sobre la conservación de las células madre de la o él recién nacido, siempre que sea sin fines de lucro.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
@@ -1091,7 +1143,9 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 La Secretaría determinará la forma de disponer de los productos, subproductos, desechos y cadáveres de animales, cuando constituyan un riesgo de transmisión de enfermedades al hombre o produzcan contaminación del ambiente con riesgo para la salud.
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO (SIC). DEL DERECHO A LA VIDA Y ORIENTACION SEXUAL
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 88.
 
@@ -1111,7 +1165,9 @@ IV.- La realización de estudios epidemiológicos; y
 
 V.- Las demás que sean necesarias para la prevención, tratamiento, control y rehabilitación de los padecimientos que se presenten en la población.
 
-### CAPITULO I. DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
+### CAPITULO SEGUNDO. DE LA ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 90.
 
@@ -1131,25 +1187,33 @@ IV.- La atención de los padecimientos que se produzcan como consecuencia de ell
 
 V.- La promoción de la participación de la comunidad en su prevención.
 
-## TITULO NOVENO. DE LA ASISTENCIA SOCIAL
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+## TITULO NOVENO. DEL DERECHO A LA VIDA, ORIENTACION SEXUAL Y ASISTENCIA SOCIAL
+
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 12 DE FEBRERO DE 2008)</small>
+
+### CAPITULO I. DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
+
+###### ARTICULO 92.
+
+La Secretaría de Salud implementará acciones entre las instituciones de salud, las sociedades médicas y de profesionales de la salud, con los adolescentes en edad fértil y padres de familia para crear conciencia sobre el derecho a la vida del individuo concebido y la práctica responsable de la sexualidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO II. DEL ALCOHOLISMO Y EL
 
 ABUSO DE BEBIDAS ALCOHÓLICAS
 
-###### ARTICULO 92.
-
-Las actividades de asistencia social que corresponden a la Secretaría serán encaminadas hacia las personas que por sus carencias socioeconómicas o problemas de discapacidad, se encuentran impedidos para satisfacer sus requerimientos básicos de subsistencia y desarrollo dentro de la comunidad.
-
-### CAPITULO III. DEL TABAQUISMO
-
 ###### ARTICULO 93.
+
+las actividades de asistencia social que corresponden a la Secretaria serán encaminadas hacia las personas que por sus carencias socioeconómicas o problemas de discapacidad, se encuentran impedidos para satisfacer sus requerimientos básicos de subsistencia y desarrollo dentro de la comunidad.
 
 La Secretaría, por conducto del Patrimonio de la Beneficencia Pública de Tamaulipas, coadyuvará en el apoyo a los programas de asistencia social y a los servicios de salud, a través de acciones altruistas en beneficio de personas de escasos recursos.
 
 ## TITULO DECIMO. DE LAS ADICCIONES
 
-### CAPITULO IV. DE LA FARMACODEPENDENCIA
+### CAPITULO III. DEL TABAQUISMO
 
 ###### ARTICULO 94.
 
@@ -1163,7 +1227,7 @@ El Consejo tendrá por objeto promover y apoyar las acciones de los sectores pú
 
 Con base en la disponibilidad presupuestal de la Secretaría de Salud, se promoverá la creación de un Instituto contra las adicciones, con objeto de promover, apoyar y ejecutar las acciones orientadas a la prevención del tabaquismo, alcoholismo y la fármaco dependencia.
 
-### CAPITULO UNICO
+### CAPITULO IV. DE LA FARMACODEPENDENCIA
 
 ###### ARTICULO 96.
 
@@ -1221,7 +1285,7 @@ IV.- Sobre los efectos negativos de la publicidad en relación con la incidencia
 
 La Secretaría coordinará con las instancias federales y estatales correspondientes, las acciones que se desarrollen contra el tabaquismo. Asimismo, promoverá y establecerá servicios de orientación y atención a fumadores que deseen abandonar el hábito e implementará acciones permanentes para evitar y disuadir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 101.
 
@@ -1261,11 +1325,11 @@ d) Los que en sus procesos de producción o de prestación de servicios utilicen
 
 Los establecimientos industriales, comerciales, de servicios, de artesanías y otras actividades que utilicen y vendan substancias inhalantes con acción psicotrópica y que no se ajusten al control que disponga la autoridad sanitaria, así como los responsables de los mismos, serán sujetos de la aplicación de las medidas de seguridad y sanciones que correspondan en los términos de esta ley.
 
-### CAPITULO II. DE LOS ESTABLECIMIENTOS
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ## TITULO DECIMO PRIMERO. DEL CONTROL SANITARIO DE LA PUBLICIDAD
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. DE LOS ESTABLECIMIENTOS
 
 ###### ARTICULO 104.
 
@@ -1279,9 +1343,7 @@ Las disposiciones reglamentarias determinarán los productos y servicios en los 
 
 DEL CONTROL SANITARIO DE LOS ESTABLECIMIENTOS QUE PROCESEN BEBIDAS NO ALCOHOLICAS, ALCOHOLICAS Y QUE EXPENDAN TABACO.
 
-### CAPITULO I. DE LAS AUTORIZACIONES SANITARIAS
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 106.
 
@@ -1313,7 +1375,9 @@ II.- En la venta o suministro de productos de tabaco se deberá exigir identific
 
 ## TITULO DECIMO TERCERO. DEL CONTROL SANITARIO EN MATERIA DE SALUBRIDAD LOCAL
 
-### CAPITULO II. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. DE LAS AUTORIZACIONES SANITARIAS
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 110.
 
@@ -1327,7 +1391,7 @@ Toda persona podrá denunciar ante la autoridad sanitaria cualquier hecho, acto 
 
 Los propietarios de los establecimientos a los que se refiere esta ley serán responsables de que el personal que labora en ellos, se practiquen exámenes médicos y de laboratorio, cuando menos dos veces al año, para efectos de obtener el certificado de salud.
 
-### CAPITULO III. DE LOS CERTIFICADOS
+### CAPITULO II. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 113.
 
@@ -1343,7 +1407,7 @@ II.- Aplicar los criterios de buenas prácticas de higiene en materia de prevenc
 
 III.- Cuidar de la conservación, aseo, buen estado y mantenimiento de los mismos, así como del equipo y utensilios, los cuales serán adecuados a la actividad que se realice o servicios que se presten.
 
-### CAPITULO UNICO
+### CAPITULO III. DE LOS CERTIFICADOS
 
 ###### ARTICULO 115.
 
@@ -1357,7 +1421,7 @@ El responsable de la construcción, reconstrucción, modificación o acondiciona
 
 ## TITULO DECIMO CUARTO. DE LAS AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIAS
+### CAPITULO UNICO
 
 ###### ARTICULO 117.
 
@@ -1419,7 +1483,7 @@ Los establecimientos que no requieren para su funcionamiento de autorización sa
 
 La autoridad sanitaria competente podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
 
-### CAPITULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIAS
 
 ###### ARTICULO 123.
 
@@ -1475,9 +1539,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS
-
-DE SEGURIDAD Y SANCIONES
+### CAPITULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 130.
 
@@ -1515,11 +1577,13 @@ Los certificados de muerte fetal serán expedidos por profesionales de la medici
 
 Los certificados enunciados se extenderán en los modelos aprobados y otorgados por la Secretaría y de conformidad con las Normas Oficiales Mexicanas.
 
-### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS
+
+DE SEGURIDAD Y SANCIONES
 
 ## TITULO DECIMO QUINTO. DE LA VIGILANCIA SANITARIA
 
-### CAPITULO V. DE LA PRESCRIPCION
+### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 136.
 
@@ -1551,9 +1615,7 @@ En la diligencia de verificación sanitaria y recolección de muestras se deber�
 
 ## TITULO DECIMO SEXTO. DE LAS MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
 
-### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+### CAPITULO V. DE LA PRESCRIPCION
 
 ###### ARTICULO 142.
 
@@ -1645,7 +1707,7 @@ La suspensión de mensajes publicitarios en materia de salud, procederá cuando 
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de la autoridad sanitaria, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO SEGUNDO. DE LA EXTRACCION Y TRASPLANTE DE ORGANOS Y COMPONENTES ANATOMICOS
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -1721,7 +1783,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO TERCERO. DEL CONSEJO ESTATAL DE PROCURACION Y TRASPLANTES DE ORGANOS
+### CAPITULO SEGUNDO. DE LA EXTRACCION Y TRASPLANTE DE ORGANOS Y COMPONENTES ANATOMICOS
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -1767,7 +1829,7 @@ En los casos de clausura temporal o definitiva, parcial o total, el personal com
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO CUARTO. DEL CENTRO ESTATAL DE TRASPLANTES
+### CAPITULO TERCERO. DEL CONSEJO ESTATAL DE PROCURACION Y TRASPLANTES DE ORGANOS
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -1821,7 +1883,7 @@ II.- Que no se siga perjuicio al interés social, ni se contravengan disposicion
 
 III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
 
-### CAPITULO QUINTO. DEL REGISTRO ESTATAL DE TRASPLANTES
+### CAPITULO CUARTO. DEL CENTRO ESTATAL DE TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -1847,7 +1909,7 @@ Los interesados podrán hacer valer la prescripción, por vía de excepción. La
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
+### CAPITULO QUINTO. DEL REGISTRO ESTATAL DE TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -1939,6 +2001,10 @@ La Secretaría de Salud del Estado queda facultada para realizar la interpretaci
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
+### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 190.
 
 Cualquier persona podrá donar en vida componentes anatómicos cuando se cumplan los siguientes requisitos:
@@ -1999,7 +2065,7 @@ IX. Grupos médicos altamente especializados en trasplantes e injertos y en las 
 
 El Consejo constituye un órgano de la administración pública estatal integrado conforme a lo dispuesto por esta ley, cuyo objeto es propiciar que la Secretaría de Salud dé cumplimiento a sus atribuciones en materia de donación de órganos, tejidos y células humanos para trasplantes a potenciales receptores y receptores.
 
-El Consejo tiene una función auxiliar para la dependencia mencionada. El desempeño de sus miembros es de carácter honorífico.
+El Consejo tiene una función auxiliar para la dependencia mencionada. El despeño (sic) de sus miembros es de carácter honorífico.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -2342,5 +2408,19 @@ El proyecto de Reglamento del Consejo Estatal de Trasplantes será propuesto por
 P.O. 8 DE NOVIEMBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2008.
+
+DECRETO NO. LLX-1117 POR EL QUE SE ADICIONAN LOS ARTICULOS 30 BIS Y 38 BIS A LA LEY DE SALUD EN EL ESTADO DE TAMAULIPAS.
+
+Artículo Unico.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2008.
+
+DECRETO NO. LLX-1449 POR EL QUE SE REFORMAN LA FRACCION I DEL ARTICULO 2°; EL INCISO C) DE LA FRACCION I DEL ARTICULO 3°; LA FRACCION II DEL ARTICULO 29; EL ARTICULO 30; EL TITULO NOVENO Y LOS ARTICULOS 92 Y 93 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
