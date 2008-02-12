@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-antes-ley-para-442
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-08"
-last_updated: "2005-12-06"
+last_updated: "2008-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA EQUIDAD DE GENERO EN TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 8 de marzo de 2005.
 
@@ -147,6 +147,22 @@ ll) Ofender, ridiculizar, hostigar o promover la violencia de cualquier índole 
 
 m) Negar o condicionar el acceso a servicios de guarderías por razón de edad, actividad u ocupación, estado civil, salario, ideología política o religión.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+3. Con motivo del embarazo, se prohíbe la realización de las siguientes conductas:
+
+a) Llevar a cabo cualquier conducta que implique exclusión o restricción por esa razón en perjuicio de mujer alguna y que tenga por efecto impedir, menoscabar o anular el reconocimiento o ejercicio de sus derechos y libertades fundamentales o la igualdad real de oportunidades;
+
+b) Ejercer violencia física o moral, contra la mujer, sin demérito de las sanciones administrativas, civiles o penales que procedan;
+
+c) Restringir, impedir o negar el derecho al trabajo o sujetar o terminar la relación laboral por razón del embarazo;
+
+d) Restringir, impedir o vedar el acceso a la educación y las instituciones del sistema educativo estatal;
+
+e) Realizar jornadas nocturnas de trabajo; y
+
+f) Realizar labores que la expongan al contacto con agentes infectocontagiosos o la inhalación de sustancias tóxicas volátiles, o laborar en áreas donde existan emanaciones radioactivas o se tenga contacto con sustancias, materiales o fluidos explosivos o peligrosos.
+
 ###### Artículo 9.
 
 1. Todo órgano público, estatal o municipal, así como los sectores social y privado en el ámbito de su respectiva competencia, desplegará medidas positivas o compensatorias con la finalidad de lograr la equidad de género. A su vez, el Estado promoverá su adopción e impulso en los sectores social y privado.
@@ -176,6 +192,30 @@ i) Formar mujeres con carácter de cuadros políticos susceptibles de ser postul
 j) Disponer procedimientos para evitar se menoscaben los derechos de la mujer en los asuntos de carácter judicial en los que sea parte, especialmente cuando tenga el carácter de agraviada o víctima, y
 
 k) Promover y coordinar acciones para el establecimiento de guarderías para hijos de mujeres de escasos recursos que carecen de esta prestación.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+4. Con el propósito de alentar la equidad de género para la mujer embarazada, en forma enunciativa, los sujetos referidos en el párrafo 1 de este artículo, adoptarán las siguientes medidas:
+
+a) Facilitar el acceso a las instituciones de protección de la salud para la realización de consultas médicas, exámenes de laboratorio y ultrasonido, atención ginecológica, orientación psicológica y psiquiátrica, orientación nutricional y, en general, las atenciones y cuidados médicos necesarios, de conformidad con la Ley de Salud para el Estado;
+
+b) Disfrutar de estabilidad en el empleo, cargo u ocupación que desarrolle;
+
+c) No sufrir discriminación alguna;
+
+d) Acceder a las oportunidades de empleo en igualdad de condiciones con los varones y con las mujeres que no estén embarazadas;
+
+e) Ocupar cargos públicos en igualdad de condiciones que los varones y las mujeres no embarazadas;
+
+f) Acceder plenamente a las instituciones del sistema educativo estatal. En su caso, los planteles educativos harán las adecuaciones necesarias para que la mujer embarazada pueda continuar con sus estudios y ser evaluada conforme a los mismos, cuando en virtud de atención médica incurra en inasistencias;
+
+g) Acceder a los servicios de orientación y de asesoría legal en las instituciones públicas estatales, conforme a la materia de los derechos que pretenda ejercer;
+
+h) Recibir la atención y orientación gratuita sobre su esfera de derechos por parte del Instituto de la Mujer Tamaulipeca;
+
+i) Disfrutar de los distintos derechos y prerrogativas contenidos en las leyes, reglamentos, contratos colectivos o convenios de cualquier naturaleza en materia de descanso con motivo del embarazo y posterior al parto; y
+
+j) Acceder en forma preferente al disfrute de los beneficios de los programas sociales del Gobierno del Estado, sin demérito de los derechos de otras personas en condiciones de vulnerabilidad social.
 
 ### Capítulo Tercero.
 
@@ -826,3 +866,7 @@ P.O. 6 DE DICIEMBRE DE 2005.
 ###### ARTICULO UNICO.
 
 El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2008.
+
+Artículo Unico.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
