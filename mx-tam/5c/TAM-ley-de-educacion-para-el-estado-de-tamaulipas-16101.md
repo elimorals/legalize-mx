@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2007-11-08"
+last_updated: "2008-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -75,9 +75,9 @@ VII.- Ley General, la Ley General de Educación.
 
 La educación es medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad, y es factor determinante para la adquisición de conocimientos y para formar al hombre y la mujer de manera que tenga sentido de solidaridad social y el enfoque de la equidad de género.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
-Todo individuo en un amplio sentido de igualdad y sin distinción de sexo tiene derecho a recibir educación y, por lo tanto, todos los habitantes de la Entidad tienen las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones aplicables.
+Todo individuo en un amplio sentido de igualdad y sin distinción de sexo tiene derecho a recibir educación pública gratuita y de calidad y, por tanto, todos los habitantes de la entidad tienen las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones aplicables.
 
 En el proceso educativo deberá asegurarse la participación activa de todos los actores en el proceso de enseñanza-aprendizaje, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines de la educación en Tamaulipas.
 
@@ -89,9 +89,11 @@ El Estado está obligado a prestar servicios educativos para que toda la poblaci
 
 La educación que impartan el Estado, los Municipios, los organismos descentralizados de ambos y los particulares con autorización o reconocimiento de validez oficial de estudios; se regirá conforme a lo establecido en el Artículo 3° y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General, la Constitución Política Local, la presente Ley, así como las normas, reglamentos, convenios y acuerdos que de ellas se deriven.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 6°.
 
-La educación que impartan el Estado y los Municipios será laica, gratuita y constituye un servicio público.
+La educación que impartan el Estado y los Municipios será laica, gratuita y constituye un servicio público, quedando, en consecuencia, prohibidas las cuotas escolares obligatorias y el condicionamiento de los servicios educativos al pago de dinero, aportaciones, o cualquier otra contraprestación que atente o pudiera atentar contra la gratuidad de la educación.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
@@ -575,9 +577,11 @@ El calendario escolar aplicable en Tamaulipas será publicado en el Periódico O
 
 #### SECCION CUARTA. DEL FINANCIAMIENTO DE LA EDUCACION
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 47.
 
-El Ejecutivo del Estado con sujeción a las correspondientes disposiciones de ingreso y gasto público que resulten aplicables, concurrirá al financiamiento de los servicios educativos.
+El Ejecutivo del Estado con sujeción a las correspondientes disposiciones de ingreso y gasto público que resulten aplicables, concurrirá al financiamiento de los servicios educativos, asignando, en todo caso, recursos conforme a la disponibilidad presupuestal para que la educación que impartan el Estado y los Municipios sea gratuita y de buena calidad.
 
 ###### ARTICULO 48.
 
@@ -587,7 +591,9 @@ El Ejecutivo del Estado, de conformidad con las disposiciones aplicables, provee
 
 En cumplimiento de lo dispuesto en los Artículos anteriores de esta sección, el Ejecutivo del Estado tomará en cuenta el carácter prioritario de la educación pública para los fines del desarrollo estatal y nacional.
 
-En todo tiempo procurará fortalecer las fuentes de financiamiento para tareas educativas y destinará recursos presupuestarios crecientes, en términos reales, para la educación pública.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+En todo tiempo procurará fortalecer las fuentes de financiamiento para tareas educativas y aplicará recursos presupuestales máximos disponibles a la luz de las finanzas públicas, para la educación pública, incluyendo lo necesario para solventar los gastos de mantenimiento y servicios públicos de los planteles escolares, aulas, laboratorios, instalaciones y material didáctico y deportivo, equipos de cómputo, bibliotecas y mobiliario, entre otros requerimientos básicos.
 
 ###### ARTICULO 50.
 
@@ -851,7 +857,9 @@ I.- Representar ante las autoridades escolares los intereses que en materia educ
 
 II.- Colaborar por una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles;
 
-III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios, que las propias asociaciones deseen hacer al establecimiento escolar;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios, que las propias asociaciones deseen hacer al establecimiento escolar, sin que los padres de familia o alumnos de escuelas públicas puedan ser obligados a prestar servicios personales ni a contribuir con dinero o en especie al sostenimiento de la asociación o establecimiento escolar, y sin que puedan condicionarse los servicios educativos al pago de dichas contribuciones;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
@@ -1109,9 +1117,15 @@ XII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las 
 
 Las disposiciones de este Artículo no son aplicables a los trabajadores de la educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ellos.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+No obstante lo dispuesto en el párrafo anterior, se aplicará lo dispuesto en la fracción I del artículo siguiente, según la gravedad de la falta, al director, subdirector, profesor o prefecto de un establecimiento escolar, o a cualquier otra autoridad educativa, que condicione o niegue, sin causa justificada, el servicio educativo que tenga obligación de prestar, o exija el pago de cuotas escolares obligatorias, aportaciones o cualquier otra contra prestación que infrinja al principio de gratuidad de la educación que imparte el Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 104.
 
-Las infracciones enumeradas en el Artículo anterior se sancionarán con:
+Las infracciones establecidas en el artículo anterior se sancionarán con:
 
 I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en la capital de la Entidad, y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; o
 
@@ -1268,3 +1282,9 @@ P.O. 8 DE NOVIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
