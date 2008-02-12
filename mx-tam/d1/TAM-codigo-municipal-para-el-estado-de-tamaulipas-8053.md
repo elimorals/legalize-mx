@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2008-01-17"
+last_updated: "2008-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -475,9 +475,9 @@ VII.- Contratar o concesionar obras y servicios públicos municipales en los té
 
 VIII.- Solicitar al Ejecutivo, por causa de utilidad pública, la expropiación de bienes, la ocupación temporal o la limitación de dominio.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
 
-IX.- Nombrar y remover al Secretario del Ayuntamiento, al Tesorero Municipal, al Contralor Municipal, al Secretario de Desarrollo Urbano y Ecología o, en su caso, al Director de Obras y Servicios Públicos Municipales, al Secretario o Director de Seguridad Pública, según corresponda, y demás servidores públicos de la administración municipal, a propuesta del Presidente Municipal.
+IX.- Nombrar y remover, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, a los titulares de la Tesorería Municipal, de la Contraloría Municipal, de la Secretaria o Dirección de Desarrollo Urbano, de Servicios Públicos y de Seguridad Pública, así como de aquéllos titulares de oficina que expresamente determine este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -667,9 +667,9 @@ V.- Dar publicidad a las leyes, reglamentos y demás disposiciones de observanci
 
 VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios para el despacho de los negocios administrativos y la atención de los servicios públicos municipales. Asimismo, los Síndicos comparecerán en el otorgamiento de contratos o de cualquier otra obligación patrimonial.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+(REFORMADA, P.O. 12 DE FEBRERO DE 2008) (F. DE E., P.O. 3 DE ABRIL DE 2008)
 
-VII.- Proponer al Ayuntamiento los nombramientos del Secretario, Tesorero Municipal, Contralor Municipal, Secretario de Desarrollo Urbano y Ecología o, en su caso, Director de Obras y Servicios Públicos Municipales, Secretario o Director de Seguridad Pública, según corresponda, y demás servidores públicos de la administración municipal, así como su remoción por causa justificada.
+VII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, de los titulares de la Tesorería Municipal, de la Contraloría Municipal, de la Secretaria o Dirección de Desarrollo Urbano, de los Servicios Públicos y de Seguridad Pública, así como de aquéllos que expresamente determine este Código.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -3631,18 +3631,6 @@ Sin perjuicio de lo establecido en el párrafo anterior, el prestador de los ser
 
 Los condóminos o aquellos usuarios que a la entrada en vigor de esta ley se surtan del servicio con una sola toma, estarán obligados a organizar un comité el cual se encargará de recolectar el importe del recibo y pagarlo en las cajas autorizadas por el prestador de los servicios públicos. En el entendido que de no pagar en los tiempos establecidos, implicará ser acreedores a las sanciones previstas por esta ley.
 
-ARTICULO DEIMO SEXTO.- A partir de la entrada en vigor de la presente ley, los prestadores de los servicios públicos deberán incluir en los programas mencionados en el Título Cuarto de este ordenamiento, la construcción de la infraestructura necesaria para dar cumplimiento a lo establecido en el artículo 160.
-
-P.O. 15 DE MARZO DE 2006.
-
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 19 DE JULIO DE 2006.
-
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
-
-P.O. 6 DE SEPTIEMBRE DE 2006.
-
 ###### ARTICULO DECIMO SEXTO.
 
 A partir de la entrada en vigor de la presente ley, los prestadores de los servicios públicos deberán incluir en los programas mencionados en el Título Cuarto de este ordenamiento, la construcción de la infraestructura necesaria para dar cumplimiento a lo establecido en el artículo 160.
@@ -3720,3 +3708,9 @@ El presente Decreto entrará en vigor el día de su expedición y deberá public
 ###### ARTICULO SEGUNDO.
 
 Los 43 Ayuntamientos del Estado efectuarán los ajustes pertinentes en su programación de pagos para ajustarse a los términos del presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
