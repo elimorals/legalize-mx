@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-comision-de-derechos-humanos-del-3492
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-06"
-last_updated: "1993-04-06"
+last_updated: "2008-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
+REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 6 de abril de 1993.
 
@@ -754,3 +756,11 @@ Consejero.
 Lic. Jorge Luis Chávez Martínez,
 
 Secretario Tecnico.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE FEBRERO DE 2008.
+
+Primero. El presente Reglamento fue aprobado unánimemente por el Consejo Consultivo de la Comisión de Derechos Humanos el día 12 de noviembre del 2007 y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Reglamento Interior de la Comisión de Derechos Humanos del Estado de Coahuila, aprobado por unanimidad el 9 de febrero de 1993 por el Consejo del mismo Organismo.
