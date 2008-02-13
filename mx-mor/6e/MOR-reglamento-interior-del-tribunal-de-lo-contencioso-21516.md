@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-de-lo-contencioso-21516"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-13"
-last_updated: "2001-06-13"
+last_updated: "2008-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de junio de 2001.
 
@@ -71,25 +71,45 @@ IV.- Los Servidores Públicos siguientes:
 
 1.- Un Secretario General de Acuerdos;
 
-2.- Un Actuario adscrito a la Secretaría General de Acuerdos;
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
-3.- Un Secretario de Acuerdos adscrito a cada una de las Salas del Tribunal;
+2.- Una Unidad de Amparos;
 
-4.- Un Secretario de Estudio y Cuenta para cada uno de los Magistrados;
+3.- Un Actuario adscrito a la Secretaría General de Acuerdos;
 
-5.- Un Actuario adscrito a cada una de las Salas del Tribunal;
+4.- Un Secretario de Acuerdos adscrito a cada una de las Salas del Tribunal;
 
-6.- Un Asesor Jurídico;
+5.- Un Secretario de Estudio y Cuenta para cada uno de los Magistrados;
 
-7.- Un Jefe del Departamento de Administración;
+6.- Un Actuario adscrito a cada una de las Salas del Tribunal;
 
-8.- Un Oficial de Partes común;
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
-9.- Un Oficial de partes adscrito a cada una de las Salas;
+7.- Los auxiliares que sean necesarios para cada una de las Salas del Tribunal;
 
-10.- El personal administrativo que las necesidades del servicio requiera y que se encuentre previsto en el presupuesto de egresos del Tribunal; y
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
-11.- El personal supernumerario e interino que exija el buen despacho de los asuntos.
+8.- Los asesores jurídicos que sean necesarios para la atención de los ciudadanos que acuden al Tribunal en busca de asesoría jurídica administrativa;
+
+9.- Un Jefe del Departamento de Administración;
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+10.- Una Unidad de Análisis, Seguimiento y Evaluación del Desempeño Judicial;
+
+11.- Un Oficial de Partes común;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+12.- Los Oficiales de Partes que sean necesarios adscritos a cada una de las Salas;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+13.- El personal administrativo que las necesidades del servicio requieran y que se encuentre previsto en el presupuesto de egresos del Tribunal; y
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+14.- El personal supernumerario, interino y por honorarios que exija el buen despacho de los asuntos.
 
 ###### ARTÍCULO 7.
 
@@ -97,7 +117,9 @@ La asignación de adscripción de los Magistrados, será por el término de su c
 
 ## TÍTULO SEGUNDO. DEL PLENO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-### CAPÍTULO ÚNICO. DE SU INTEGRACIÓN, ATRIBUCIONES Y FUNCIONAMIENTO
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 13 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO PRIMERO. DE SU INTEGRACIÓN, ATRIBUCIONES Y FUNCIONAMIENTO
 
 ###### ARTÍCULO 8.
 
@@ -151,7 +173,33 @@ En las actas que se levanten con motivo de las sesiones ordinarias y extraordina
 
 El Tribunal tendrá un Presidente que durará en su cargo un año, y se realizará la rotación dentro del término y forma señalada en el artículo 12 de este Reglamento.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO SEGUNDO. DE LA UNIDAD DE ANÁLISIS, SEGUIMIENTO Y EVALUACIÓN DEL DESEMPEÑO JUDICIAL
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+ARTÍCULO 16 BIS.- La Unidad de Análisis, Seguimiento y Evaluación del desempeño Judicial se encuentra adscrita al Pleno del Tribunal de lo Contencioso Administrativo y cuenta con las siguientes funciones:
+
+I. Analizar los expedientes y supervisar proyectos que le sean turnados por el Pleno.
+
+II. Dar opinión y seguimiento a los proyectos de resolución formulados por las Salas en vía de cumplimiento a las Ejecutorias de Amparo emitidas por los Tribunales federales.
+
+III. Recopilar y procesar información y elaborar indicadores cualitativos y cuantitativos para la medición y evaluación del desempeño judicial.
+
+IV. Recopilar y procesar información y elaborar el Informe Anual del Tribunal.
+
+V. Realizar estudios e investigación jurídica en el ámbito de la justicia administrativa.
+
+VI. Emitir su opinión jurídica a los Magistrados del Pleno en los casos que le planteen.
+
+VII. Elaborar los proyectos de reforma y modificación legislativa y reglamentaria del Tribunal.
+
+VIII. Participar en las labores de Asesoría y Consulta Administrativa que le encomiende el Pleno.
+
+IX. Las demás que sean necesarias para el cumplimiento de sus funciones.
+
+El encargado de la Unidad de Análisis, Seguimiento y Evaluación del Desempeño Judicial deberá cumplir para su designación por el Pleno del Tribunal, con los mismos requisitos que se establecen para ser Secretario General de Acuerdos.
 
 ## TÍTULO TERCERO. DE LA PRESIDENCIA DEL TRIBUNAL
 
@@ -185,7 +233,9 @@ II.- Dictar las medidas necesarias para el desempeño pronto y expedito de los a
 
 ## TÍTULO QUINTO. DE LA SECRETARÍA GENERAL DE ACUERDOS
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O, 13 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO PRIMERO
 
 ###### ARTÍCULO 20.
 
@@ -207,11 +257,45 @@ VII.- Intervenir en la entrega y recepción de las oficinas que integran el Trib
 
 VIII.- Recabar, recopilar y ordenar el Periódico Oficial “Tierra y Libertad” órgano del Gobierno del Estado y ponerlo a disposición de las Salas.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO SEGUNDO. DE LA UNIDAD DE AMPAROS
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+ARTÍCULO 20 BIS.- La Unidad de Amparos esta adscrita a la Secretaría General de Acuerdos del Tribunal de lo Contencioso Administrativo y cuenta con las siguientes funciones:
+
+I. Recibir de la Secretaría General de Acuerdos, la documentación que con motivo de los juicios de amparo remitan los tribunales y juzgados federales correspondientes, así como recibir las demandas y promociones de amparo que se presenten directamente ante el Tribunal de lo Contencioso Administrativo.
+
+II. Remitir dentro de los plazos legales previstos, a los Tribunales Colegiados de Circuito, las demandas de Amparo Directo promovidas ante el Tribunal de lo Contencioso Administrativo, previo emplazamiento que se haga al tercero perjudicado, así como el informe justificado correspondiente.
+
+III. En los juicios de amparo indirectos, cuando el Juez de Distrito comunique haber concedido al quejoso la suspensión provisional o definitiva, elaborar el proyecto de Acuerdo de suspensión correspondiente, previa instrucción y supervisión del Magistrado Titular de la Sala a la que corresponda el juicio natural y de la Secretaría General de Acuerdos.
+
+IV. En los Amparos Directos, elaborar el proyecto acerca de la suspensión definitiva del acto reclamado, observando la Ley de Amparo y la Jurisprudencia aplicable, previa instrucción y supervisión del Magistrado Titular de la Sala a la que corresponda el juicio natural y de la Secretaría General de Acuerdos.
+
+V. Elaborar y remitir los informes previos y justificados en los términos previstos en la Ley de Amparo, adjuntando las copias certificadas correspondientes. En los casos en que la autoridad señalada como responsable sea una de las Salas del Tribunal, bajo la supervisión del Magistrado Titular de la Sala correspondiente; en los casos en que la autoridad señalada como responsable sea el Pleno, bajo la supervisión del Presidente del Tribunal y de la Secretaría General de Acuerdos.
+
+VI. Atender el trámite relativo a los incidentes de inejecución o de incumplimiento que se tramiten ante la Suprema Corte de Justicia de la Nación y elaborar los informes que le solicite el Alto Tribunal, bajo la supervisión del Presidente del Tribunal y de la Secretaría General de Acuerdos.
+
+VII. Informar oportunamente a la Secretaría General de Acuerdos, sobre el envío de los expedientes a los Tribunales Colegiados de Circuito y su devolución, con motivo de la substanciación de los juicios de Amparo.
+
+VIII. Turnar a la Secretaría General de Acuerdos, las demandas presentadas ante el Tribunal para que se practique la certificación relativa a la fecha de su presentación y a la notificación del acto reclamado.
+
+IX. Informar a la autoridad que conozca del juicio de garantías cuando hayan cesado los efectos del acto reclamado o hayan sobrevenido causas notorias de sobreseimiento, adjuntando las copias certificadas de las constancias respectivas.
+
+X. Redactar los proyectos de Acuerdo que ha de tomar la responsable en relación a los juicios de Amparo interpuestos.
+
+Xl. Elaborar los proyectos de Acuerdo que recaigan a las Ejecutorias recibidas de los tribunales federales para su debido cumplimiento.
+
+XII. Las demás que sean necesarias para el cumplimiento de sus funciones.
+
+El Encargado de la Unidad de Amparos del Tribunal para ser designado, deberá cumplir con los mismos requisitos que para ser Secretario de Acuerdos de las Salas.
 
 ## TÍTULO SEXTO. DE LOS SECRETARIOS DE ACUERDOS DE LAS SALAS
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 13 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO PRIMERO
 
 ###### ARTÍCULO 21.
 
@@ -235,39 +319,21 @@ VIII.- Cumplir con el procedimiento de los juicios en trámite hasta la citació
 
 IX.- Las que le sean encomendadas por el Magistrado de su adscripción.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO SEGUNDO. DEL AUXILIAR DE LAS SALAS
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+
+ARTÍCULO 21 BIS.- El Auxiliar de las Salas estará adscrito a la Secretaría de Acuerdos de las Salas del Tribunal de lo Contencioso Administrativo y tiene como funciones:
+
+I. Auxiliar al Magistrado titular, al Secretario de Acuerdos y al Actuario de la Sala a la que este adscrito, en las actividades y proyectos que éste le encomiende.
+
+II. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 ## TÍTULO SÉPTIMO. DE LOS SECRETARIOS DE ESTUDIO Y CUENTA
 
 ### CAPÍTULO ÚNICO
-
-ARTÍCULO 27 (SIC).- El Jefe del Departamento de Administración tendrá las siguientes funciones:
-
-I.- Llevar el control administrativo del personal del Tribunal y sus respectivos expedientes debidamente integrados;
-
-II.- Realizar los trámites relativos a altas y bajas del personal del Tribunal que acuerde el Pleno, efectuando los trámites necesarios para que éste goce de la seguridad social;
-
-III.- Cobrar y recibir de la Tesorería del Estado, los fondos correspondientes al Presupuesto de Egresos autorizado para cada ejercicio fiscal conforme al calendario de ministraciones aprobado;
-
-IV.- Llevar la contabilidad del Ejercicio del Presupuesto de Egresos del Tribunal, así como el control y vigilancia del mismo;
-
-V.- Conservar bajo su responsabilidad la documentación que sirve como base de la comprobación de los egresos del Tribunal;
-
-VI.- Realizar funciones de pagaduría, relativas al sueldo del personal, así como las deducciones que conforme a la Ley procedan;
-
-VII.- Enterar las deducciones a que se refiere la fracción anterior, a sus respectivos acreedores;
-
-VIII.- Realizar funciones de pagaduría a los proveedores de bienes y servicios del Tribunal;
-
-IX.- Llevar el control del activo fijo, suministro de papelería, cómputo y artículos de limpieza del Tribunal;
-
-X.- Auxiliar al Pleno del Tribunal en la elaboración del Proyecto de Presupuesto de Egresos del Tribunal;
-
-XI.- Intervenir en la entrega y recepción de las oficinas que integran el Tribunal;
-
-XII.- Expedir la hoja de servicios y la carta de certificación del salario a petición del personal que laboró y labora en el Tribunal; y
-
-XIII.- Las demás que le encomiende el Pleno del Tribunal.
 
 ###### ARTÍCULO 22.
 
@@ -331,6 +397,34 @@ II.- Rendir informe mensual al Pleno del Tribunal, dentro de los cinco primeros 
 
 ### CAPÍTULO ÚNICO
 
+ARTÍCULO 27 (SIC).- El Jefe del Departamento de Administración tendrá las siguientes funciones:
+
+I.- Llevar el control administrativo del personal del Tribunal y sus respectivos expedientes debidamente integrados;
+
+II.- Realizar los trámites relativos a altas y bajas del personal del Tribunal que acuerde el Pleno, efectuando los trámites necesarios para que éste goce de la seguridad social;
+
+III.- Cobrar y recibir de la Tesorería del Estado, los fondos correspondientes al Presupuesto de Egresos autorizado para cada ejercicio fiscal conforme al calendario de ministraciones aprobado;
+
+IV.- Llevar la contabilidad del Ejercicio del Presupuesto de Egresos del Tribunal, así como el control y vigilancia del mismo;
+
+V.- Conservar bajo su responsabilidad la documentación que sirve como base de la comprobación de los egresos del Tribunal;
+
+VI.- Realizar funciones de pagaduría, relativas al sueldo del personal, así como las deducciones que conforme a la Ley procedan;
+
+VII.- Enterar las deducciones a que se refiere la fracción anterior, a sus respectivos acreedores;
+
+VIII.- Realizar funciones de pagaduría a los proveedores de bienes y servicios del Tribunal;
+
+IX.- Llevar el control del activo fijo, suministro de papelería, cómputo y artículos de limpieza del Tribunal;
+
+X.- Auxiliar al Pleno del Tribunal en la elaboración del Proyecto de Presupuesto de Egresos del Tribunal;
+
+XI.- Intervenir en la entrega y recepción de las oficinas que integran el Tribunal;
+
+XII.- Expedir la hoja de servicios y la carta de certificación del salario a petición del personal que laboró y labora en el Tribunal; y
+
+XIII.- Las demás que le encomiende el Pleno del Tribunal.
+
 ## TÍTULO DÉCIMO PRIMERO. DE LAS OFICIALÍAS DE PARTES
 
 ### CAPÍTULO ÚNICO
@@ -358,6 +452,8 @@ III.- Llevar el Registro de oficios que envíe la Sala de su adscripción y el m
 ### CAPÍTULO ÚNICO
 
 ## TÍTULO DÉCIMO TERCERO. DE LAS SUPLENCIAS DEL PRESIDENTE DEL TRIBUNAL, DE LOS MAGISTRADOS DE LAS SALAS, DE LOS SECRETARIOS DE ACUERDOS Y ACTUARIOS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 30.
 
@@ -409,6 +505,8 @@ Al tomar posesión de su encargo los servidores públicos del Tribunal recibirá
 
 ## TÍTULO DÉCIMO CUARTO. DE LAS LABORES, DE LOS DESCANSOS, VACACIONES Y GUARDIAS
 
+### CAPÍTULO ÚNICO
+
 ###### ARTÍCULO 35.
 
 En sus faltas temporales el Presidente del Tribunal, será suplido en términos del artículo 15 de la Ley de Justicia Administrativa del Estado.
@@ -426,6 +524,8 @@ Las faltas temporales del Secretario General de Acuerdos serán suplidas por el 
 Las faltas temporales de los Actuarios y del resto del personal, serán suplidas por el servidor público que designe el Magistrado de la Sala, siempre y cuando éste cumpla con los requisitos legales respectivos.
 
 ## TÍTULO DÉCIMO QUINTO. DE LAS RESPONSABILIDADES DEL PERSONAL
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 39.
 
@@ -486,3 +586,13 @@ LIC. ALBERTO RODRÍGUEZ BOBADILLA
 SECRETARIO GENERAL DE ACUERDOS
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE FEBRERO DE 2008.
+
+PRIMERO. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el periódico oficial "Tierra y Libertad" órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. Publíquese éste Decreto en el periódico oficial "Tierra y Libertad" del Gobierno del Estado de Morelos y en el Boletín Judicial del Estado de Morelos para que surta sus efectos legales correspondientes.
+
+TERCERO. Las cuestiones no previstas en el presente Reglamento, serán resueltas por el Pleno del Tribunal.
