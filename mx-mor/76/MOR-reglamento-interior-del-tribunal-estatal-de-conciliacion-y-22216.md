@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-estatal-de-conciliacion-y-2221
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-21"
-last_updated: "2002-05-01"
+last_updated: "2008-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 21 de septiembre de 2001.
 
@@ -135,9 +135,9 @@ IV.- Designar a los servidores públicos que correspondan, por ausencia temporal
 
 V.- Designar al personal jurídico y administrativo necesario para cubrir la guardia en los períodos de vacaciones;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2008)</small>
 
-VI.- Imponer las sanciones que correspondan al Secretario General, Auxiliares Jurídicos, Auxiliares Dictaminadores, Actuarios y demás servidores públicos previa investigación y con audiencia del interesado;
+VI.- Imponer las correcciones disciplinarias, así como hacer las denuncias correspondientes ante la autoridad administrativa competente respecto a las probables responsabilidades en que incurran el Secretario General, Auxiliares Jurídicos, Auxiliares Dictaminadores, Actuarios y demás servidores públicos adscritos al Tribunal, solicitar a la autoridad sancionadora, dentro del procedimiento administrativo de responsabilidad, la suspensión provisional del cargo del probable responsable, como medida precautoria;
 
 VII.- Cuidar el buen funcionamiento del Tribunal, así como el orden y disciplina del personal del mismo;
 
@@ -197,7 +197,9 @@ VI.- Coordinar que se mantenga actualizada la información estadística relativa
 
 VII.- Participar en la determinación de los programas de capacitación del personal jurídico y administrativo del Tribunal, en la forma en que lo determine el Presidente;
 
-VIII.- Levantar actas y practicar las investigaciones necesarias cuando algún servidor Público del Tribunal incurra en irregularidades en su trabajo, a fin de hacer las consideraciones necesarias, previo a la sanción que deba imponerse;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2008)</small>
+
+VIII.- Levantar actas circunstanciadas de hechos y agotar la garantía de audiencia, previo a la imposición de correcciones disciplinarias, practicar las investigaciones necesarias, hacer las consideraciones respectivas y recopilar los elementos necesarios para redactar e interponer la denuncia correspondiente ante la autoridad administrativa competente cuando algún servidor Público del Tribunal incurra en acciones u omisiones susceptibles de responsabilidad administrativa, por el ejercicio indebido o irregularidad en sus funciones;
 
 IX.- Autorizar todos los acuerdos del Tribunal en Pleno y los del Presidente dictados en aquellos negocios que conozca;
 
@@ -427,29 +429,29 @@ Los servidores Públicos que desempeñen cargos de Secretarios Generales, Auxili
 
 En caso de separación definitiva del cargo, en tanto se otorga el nombramiento que corresponda, el Presidente designará al servidor público que desempeñará esas funciones.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 1 DE MAYO DE 2002)
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 33.
 
-El incumplimiento de las obligaciones del personal jurídico y de los servidores públicos generales del Tribunal, que no constituya un caso de rescisión de la relación laboral, se sancionará con amonestación o suspensión del cargo hasta por tres meses.
+En caso de incumplimiento de las obligaciones del personal jurídico y de los servidores públicos generales del Tribunal, que no constituya una causal de rescisión de la relación laboral, se procederá conforme a la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 31], P.O. 1 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 34.
 
-Para la imposición de las sanciones a que se refiere el artículo anterior, el Presidente practicará una investigación con audiencia del interesado y le impondrá la sanción que corresponda.
+Para la imposición de las correcciones disciplinarias de los servidores públicos del Tribunal por parte del Presidente, se otorgará previamente, garantía de audiencia y se levantará acta circunstanciada de los hechos al servidor público, en la que se establezcan: los movimientos que dieron origen a la corrección disciplinaria, la inconveniencia de realizar actos contrarios a los principios de legalidad, probidad, lealtad y eficiencia en el desempeño del empleo, cargo o comisión, las manifestaciones de defensa del trabajador y el extrañamiento a su conducta o exhortación a conducirse con apego a dichos principios.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 32], P.O. 1 DE MAYO DE 2002)
+El acta circunstanciada se otorgará por duplicado, un tanto será para el servidor público y el otro se integrará a su expediente laboral.
+
+Para la determinación e imposición de las correcciones disciplinarias, se tomarán en consideración las circunstancias del caso y los antecedentes del servidor público.
 
 ###### Artículo 35.
 
-Para imponer las sanciones se tomarán en consideración las circunstancias del caso y los antecedentes del servidor público.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 33], P.O. 1 DE MAYO DE 2002)
+(DEROGADO, P.O. 13 DE FEBRERO DE 2008)
 
 ###### Artículo 36.
 
-La imposición de una sanción produce el efecto de inhibir al servidor público en el conocimiento del negocio en el que se hubiese cometido la falta.
+(DEROGADO, P.O. 13 DE FEBRERO DE 2008)
 
 ## TRANSITORIOS
 
@@ -488,3 +490,17 @@ La Secretaría de Hacienda, la Oficialía Mayor y la Secretaría de Gobierno apo
 ###### ARTICULO TERCERO.
 
 Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a las contenidas en el presente Decreto.
+
+P.O. 13 DE FEBRERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+el presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a las contenidas en el presente Acuerdo.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos para la imposición de sanciones que se encuentren en trámite, así como las causas que les dieron origen, deberán ajustarse a las reglas previstas por la legislación vigente al día de su inicio o incumplimiento, hasta su conclusión definitiva.
