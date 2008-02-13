@@ -4,7 +4,7 @@ identifier: "YUC-decreto-que-crea-la-medalla-de-honor-hector-victoria-aguilar-59
 country: "mx"
 rank: "decreto"
 publication_date: "1988-08-10"
-last_updated: "2007-04-11"
+last_updated: "2008-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 DECRETO QUE CREA LA MEDALLA DE HONOR "HÉCTOR VICTORIA AGUILAR" DEL H. CONGRESO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE ABRIL DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE FEBRERO DE 2008.
 
 Decreto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 10 de agosto de 1988.
 
@@ -49,29 +49,33 @@ Se crea la Medalla de Honor "HÉCTOR VICTORIA AGUILAR, del H. Congreso del Estad
 
 La medalla "Héctor Victoria Aguilar", constará del correspondiente Diploma y medalla de oro alusivos, misma que contendrá en su anverso, el Escudo del Estado; en la parte central, la inscripción H. Congreso del Estado de Yucatán, con el correspondiente número de la Legislatura en turno. Y en el reverso la efigie del Constituyente Héctor Victoria Aguilar con la respectiva Leyenda: Presea Héctor Victoria Aguilar 1886-1926. Dicha presea será sostenida con una cinta de seda, para asirla al cuello del Recipiendario, y en la que luzca el tricolor nacional.
 
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, D.O. 13 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO TERCERO.
 
+El Congreso del Estado, en el mes de octubre designará una Comisión de Postulación "Héctor Victoria Aguilar", a propuesta de la Gran Comisión, la que elaborará y presentará al H. Congreso del Estado, en los primeros quince días de noviembre, la convocatoria referida en el párrafo segundo de este artículo.
+
 El Congreso del Estado de Yucatán, convocará cada año a los demás poderes y organismos públicos autónomos del Estado, a las entidades de enseñanza superior, a las organizaciones no gubernamentales de carácter social, y demás relacionadas con los ámbitos previstos en el Artículo Primero, para que presenten las candidaturas que consideren y que en el campo de la ciencia, el derecho, el arte, la cultura, la promoción y defensa de los derechos humanos, la preservación del medio ambiente y cualquier otra actividad humanista, hubieren destacado de manera eminente
 
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, D.O. 13 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO CUARTO.
 
-En la primera quincena de Noviembre, el Pleno de los Diputados, aprobará la convocatoria referida en el Artículo Tercero, para que dentro de los cinco días hábiles posteriores, sea publicada en los medios de difusión que se considere; a partir de ese momento, y hasta el 11 de Diciembre, sean recepcionadas las distintas candidaturas. Transcurrido el plazo anterior, y hasta el 15 de Diciembre el Pleno designará dicha distinción.
+El Pleno del Congreso del Estado, aprobará la convocatoria referida en el Artículo Tercero, y dentro de los cinco días hábiles posteriores, será publicada en el Diario Oficial del Gobierno del Estado y en los medios de difusión que se considere; a partir de la publicación, y hasta el 30 de noviembre, serán recepcionadas las candidaturas.
 
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, D.O. 13 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO QUINTO.
 
-La condecoración de la Medalla de Honor "Héctor Victoria Aguilar", se otorgará en cada caso por acuerdo tomado en sesión pública celebrada a más tardar el 15 de Diciembre y previo dictamen de la Comisión de Postulaciones, que incluye los méritos del propuesto por la Comisión.
+La condecoración de la Medalla de Honor "Héctor Victoria Aguilar", se otorgará en cada caso por acuerdo tomado en sesión pública celebrada a más tardar el 15 de Diciembre, previo dictamen de la Comisión de Postulación "Héctor Victoria Aguilar", que incluye los méritos del propuesto por la Comisión.
 
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, D.O. 13 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO SEXTO.
 
-La medalla será impuesta por el Presidente de la Mesa Directiva, al igual que el diploma, en la Sesión Solemne que para ese único fin, realice el Congreso del Estado, el día 11 de Enero de cada año.
+La medalla será impuesta por el Presidente de la Mesa Directiva, al igual que el diploma, en la Sesión Solemne que para ese único fin, realice el Congreso del Estado, el día 11 de Enero de cada año, para conmemorar la aprobación de la Constitución Política del Estado, que en esa fecha, en el año de 1918, suscribió Héctor Victoria Aguilar, como Presidente del XXV Congreso Constitucional del Estado, en funciones de Constituyente y por su relevante actuación en el Congreso de Querétaro de 1916-1917.
+
+Los Diputados integrantes de la Diputación Permanente, serán los que presidan la Sesión Solemne del 11 de Enero, para los fines dispuestos en este Decreto.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -108,3 +112,25 @@ SEGUNDO.- La ceremonia de entrega deberá llevarse a cabo, en el Recinto del Pod
 TERCERO.- La Convocatoria deberá ser expedida la primera quincena del mes de Noviembre de cada año.
 
 CUARTO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 13 DE FEBRERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO.
+
+En el año 2008, la entrega de la Medalla de Honor "Héctor Victoria Aguilar" se realizará en Sesión Solemne el día 28 de marzo.
+
+###### ARTÍCULO CUARTO.
+
+En· el mes de febrero de 2008, el Congreso del Estado designará la Comisión establecida en el ARTICULO TERCERO de este Decreto, misma que elaborará y presentará la convocatoria en ese mismo mes, al H. Congreso del Estado para su aprobación, y dentro de los cinco días hábiles posteriores, será publicada en el Diario Oficial del Gobierno del Estado y en los medios de difusión que se considere; a partir de la publicación y hasta el 28 de febrero, serán recepcionadas las candidaturas.
+
+###### ARTÍCULO QUINTO.
+
+La condecoración de la Medalla de Honor "Héctor Victoria Aguilar", se otorgará por acuerdo tomado en sesión pública celebrada a más tardar el 13 de marzo, previo dictamen de la Comisión de Postulación "Héctor Victoria Aguilar", que incluye los méritos del propuesto por la Comisión.
