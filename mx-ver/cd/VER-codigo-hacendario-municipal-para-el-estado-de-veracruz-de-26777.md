@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2007-12-05"
+last_updated: "2008-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -5177,6 +5177,10 @@ La deuda pública ordinaria se contratará y ejercerá con base en el programa a
 
 Las entidades públicas a que se refieren las fracciones II a IV del artículo 400, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
 
+> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+También se considera deuda extraordinaria la que autorice el H. Congreso del Estado mediante decretos posteriores al inicio del ejercicio para la contratación de financiamientos que se destinen a inversiones públicas productivas.
+
 ### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 ###### Artículo 406.
@@ -5189,7 +5193,9 @@ II. Emitir opinión sobre la procedencia del otorgamiento de garantía municipal
 
 III. Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a los fines para los que fueron contratados;
 
-IV. Contratar y manejar la deuda pública del Municipio y otorgar la garantía del mismo para la realización de operaciones crediticias;
+> <small>(REFORMADA, G.O. 13 DE FEBRERO DE 2008)</small>
+
+IV. Contratar y manejar la deuda pública del Municipio; afectar los ingresos, el derecho, o ambos, a las aportaciones federales que les correspondan, susceptibles de destinarse, como fuente de pago, garantía, o ambos, para el cumplimiento de sus obligaciones; o en su caso, otorgar la garantía del Municipio para la realización de operaciones crediticias;
 
 V. Vigilar que la capacidad de pago del Municipio sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá supervisar en forma permanente el desarrollo del programa de financiamiento aprobado, así como la adecuada estructura financiera del propio Municipio;
 
@@ -5213,13 +5219,17 @@ Corresponde al Congreso:
 
 I. Aprobar anualmente en la Ley de Ingresos los programas anuales de financiamiento del Ayuntamiento para cada ejercicio fiscal;
 
-II. A solicitud del Ayuntamiento, autorizar la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten;
+> <small>(REFORMADA, G.O. 13 DE FEBRERO DE 2008)</small>
+
+ll. Autorizar a los Municipios la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten o éstos cuenten con recursos suficientes para pagar los financiamientos correspondientes;
 
 III. Autorizar de manera expresa la contratación de endeudamiento por los Ayuntamientos, cuando los plazos de amortización de los créditos rebasen el término del periodo constitucional para el que fueron elegidos;
 
 IV. Autorizar a las entidades de la administración pública paramunicipal la contratación de endeudamiento.
 
-V. Autorizar la afectación en garantía de las participaciones federales que le correspondan al Municipio, informando al Ejecutivo del Estado;
+> <small>(REFORMADA, G.O. 13 DE FEBRERO DE 2008)</small>
+
+V. Autorizar la afectación en garantía de las participaciones federales que le correspondan al Municipio, informando al Ejecutivo; así como autorizar la afectación de los ingresos, el derecho, o ambos, a las aportaciones federales que le correspondan y que sean susceptibles de destinarse, como fuente de pago, garantía, o ambas, para el cumplimiento de sus obligaciones, en los términos de la legislación vigente;
 
 VI. Verificar que todas las operaciones de deuda que realicen el Ayuntamiento y sus entidades, se apeguen a las disposiciones legales;
 
@@ -5345,7 +5355,9 @@ Las entidades mencionadas en las fracciones II a IV del artículo 400 de este C�
 
 Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
 
-### CAPÍTULO V. DE LAS GARANTÍAS
+> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
 
 ###### Artículo 422.
 
@@ -5354,6 +5366,18 @@ Se podrá otorgar en garantía cualquier bien, derecho o ingreso que se encuentr
 El Ayuntamiento podrá comprometer hasta el treinta por ciento de los ingresos municipales y de las participaciones federales, cuando no se afecten los programas de gasto corriente ni de inversión prioritaria
 
 El Municipio y las entidades podrán otorgar en garantía ingresos hacendarios presentes y futuros, sin exceder el término de su administración, salvo autorización expresa del Congreso.
+
+> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+El Municipio podrá afectar como fuente de garantía, pago, o ambas, de sus obligaciones, el derecho, los ingresos, o ambos, a las aportaciones federales que le correspondan, que sean susceptibles de destinarse a dichos fines, en los términos de la normatividad de la materia. Los mecanismos de fuente de pago, garantía, o ambas, pueden instrumentarse a través de fideicomisos, mandatos irrevocables o cualquier otro que autorice el Congreso.
+
+> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+Los fideicomisos que se constituyan como fuente de pago, garantía, o ambas, de las obligaciones a cargo del Municipio no serán considerados, en ningún caso, parte de la administración pública municipal, por lo que no les serán aplicables las disposiciones de las entidades paramunicipales. Dichos fideicomisos podrán prever que el fiduciario realice el pago a los acreedores conforme a las condiciones pactadas en los contratos respectivos y sólo podrán modificarse con el consentimiento de los acreedores fideicomisarios.
+
+> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+El Congreso del Estado podrá autorizar a dos o más Municipios la constitución conjunta de mecanismos de fuentes de pago, garantía, o ambas, de sus obligaciones, sin que por ello los derechos o ingresos de un Municipio puedan afectarse para el pago de obligaciones de otro u otros. Para tales efectos, el Congreso del Estado podrá emitir autorizaciones extraordinarias de endeudamientos a los Municipios, autorizando también los ingresos, derechos, o ambos, que se puedan afectar como fuente de pago, garantía, o ambas, así como los mecanismos para tales efectos y los requisitos que, en su caso, los Municipios que pretendan adherirse deban cumplir. La aprobación de los Ayuntamientos para la contratación del financiamiento, la afectación de los ingresos, derechos, o ambos, como fuente de pago, garantía, o ambas, y la adhesión a los mecanismos correspondientes deberá sujetarse a los términos de la autorización emitida por el Congreso del Estado.
 
 ###### Artículo 423.
 
@@ -6054,3 +6078,9 @@ G.O. 9 DE ENERO DE 2007.
 G.O. 5 DE DICIEMBRE DE 2007.
 
 Único.- El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
+
+G.O. 13 DE FEBRERO DE 2008.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan a este Decreto.
