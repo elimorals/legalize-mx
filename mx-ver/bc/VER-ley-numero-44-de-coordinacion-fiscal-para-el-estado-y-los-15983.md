@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2007-12-31"
+last_updated: "2008-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -287,9 +287,19 @@ De los ingresos que el Estado otorgue a los municipios, derivados de convenios d
 
 El Fondo de Aportaciones para la Infraestructura Social Municipal y el Fondo de Aportaciones para el Fortalecimiento de los Municipios que se integran con los recursos que la Federación transfiera a los municipios, estarán a lo dispuesto en la Ley de Coordinación Fiscal, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece dicha Ley.
 
-Las aportaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno; son inembargables y no pueden estar sujetas a retención.
+> <small>(REFORMADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+Las aportaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno, son inembargables y no pueden estar sujetas a retención, salvo el Fondo de Aportaciones para la Infraestructura Social, cuyos derechos, ingresos, o ambos, podrán afectarse por los Municipios como fuente de pago, garantía, o ambas, de sus obligaciones, en términos de la Ley de Coordinación Fiscal Federal, esta Ley y las demás disposiciones aplicables.
 
 Los fondos de aportaciones se integran, distribuyen, administran y ejercen de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal, en la legislación estatal correspondiente y conforme a las normas que para tal efecto emita la Legislatura.
+
+> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinación Fiscal Federal, el Estado podrá instrumentar mecanismos de captación, distribución, o ambos, de las aportaciones federales, incluyendo los recursos que correspondan a los Municipios para su posterior entrega, a través de cuentas, depósitos, fideicomisos u otros medios legales, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega de los recursos a los Municipios conforme a la Ley y a los convenios aplicables, sin perjuicio de cumplir con los fines de las afectaciones que, como fuente de pago, garantía, o ambas, hubieren realizado los Municipios a favor de sus acreedores en términos del Código Hacendario Municipal.
+
+> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+Los fideicomisos que se constituyan como mecanismos de captación, distribución, o ambos, no serán considerados, en ningún caso, parte de la administración pública estatal, por lo que no les serán aplicables las disposiciones de las entidades paraestatales.
 
 ###### Artículo 20.
 
@@ -900,3 +910,9 @@ G.O. 31 DE DICIEMBRE DE 2007.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 13 DE FEBRERO DE 2008.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan a este Decreto.
