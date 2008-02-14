@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2007-11-28"
+last_updated: "2008-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -195,7 +195,9 @@ IX.- NOVENO CIRCUITO:
 
 2.- Un tribunal unitario con sede en San Luis Potosí.
 
-3.- Cinco juzgados de Distrito en el Estado de San Luis Potosí: cuatro con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 4/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE FEBRERO DE 2008)</small>
+
+3.- Seis juzgados de Distrito en el Estado de San Luis Potosí: cinco con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
 
 X.- DECIMO CIRCUITO:
 
@@ -297,7 +299,9 @@ XX.- VIGESIMO CIRCUITO:
 
 2.- Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
 
-3.- Ocho juzgados de Distrito en el Estado de Chiapas: dos especializados en materia de procesos penales federales, con residencia en Cintalapa de Figueroa; seis juzgados de Distrito mixtos: cuatro con sede en Tuxtla Gutiérrez y dos con residencia en Tapachula.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 5/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE FEBRERO DE 2008)</small>
+
+3.- Nueve juzgados de Distrito en el Estado de Chiapas: dos especializados en materia de procesos penales federales, con residencia en Cintalapa de Figueroa; siete juzgados de Distrito mixtos: cinco con sede en Tuxtla Gutiérrez y dos con residencia en Tapachula.
 
 XXI.- VIGESIMO PRIMER CIRCUITO:
 
@@ -812,3 +816,23 @@ D.O.F. 28 DE NOVIEMBRE DE 2007.
 PRIMERO.- Este acuerdo entrará en vigor el día uno de diciembre de dos mil siete.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 14 DE FEBRERO DE 2008.
+
+ACUERDO 4/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO IX, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
+
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 14 DE FEBRERO DE 2008.
+
+ACUERDO 5/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XX, NUMERO 3
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez.
+
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
