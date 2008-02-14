@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2007-02-02"
+last_updated: "2008-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -341,6 +341,10 @@ El Plan dentro de sus lineamientos base debe contemplar mecanismos para el acces
 ###### Artículo 30.
 
 Todas las y los jóvenes como miembros de una sociedad pluricultural y como integrantes de una ciudad en constante cambio tienen el derecho de fortalecer y expresar los diferentes elementos de identidad que los distinguen de otros sectores y grupos sociales y que, a la vez, los cohesionan con otros.
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2008)</small>
+
+Cualquier conducta de fortalecimiento a la identidad juvenil debe contribuir al desarrollo armónico de la sociedad, sin menoscabo del patrimonio, así como de los derechos e intereses de terceros, ya sean públicos y/o privados.
 
 ###### Artículo 31.
 
@@ -877,3 +881,13 @@ SEGUNDO.- Dentro del plazo de 90 días, contados a partir de la entrada en vigor
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor circulación en el Diario Oficial de la Federación.
+
+G.O. 14 DE FEBRERO DE 2008.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal para los efectos de su promulgación y publicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
