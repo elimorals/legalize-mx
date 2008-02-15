@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2008-01-23"
+last_updated: "2008-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2008..
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -627,9 +627,9 @@ X. Desarrollar, operar y mantener los sistemas de telecomunicaciones del Gobiern
 
 XI. Definir y aplicar mecanismos para obtener parámetros de opinión de la población relativos a la seguridad pública así como estudios comparativos;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XII. Organizar y dirigir la Policía Estatal Preventiva y apoyar a las instituciones estatales y municipales en la ejecución de sus programas de seguridad pública, en los términos que establezcan las leyes, reglamentos, convenios o acuerdos respectivos;
+XII. Administrar, organizar y dirigir la policía Estatal Preventiva y los cuerpos de custodia de los centros de ejecución de las consecuencias jurídicas del delito, así como los centros de tratamiento y reinserción para adolescentes, y apoyar a las instituciones estatales y municipales en la ejecución de sus programas de seguridad pública, en los términos que establezcan las leyes, reglamentos, convenios o acuerdos respectivos;
 
 XIII. Autorizar, suspender o cancelar, en su caso, la prestación de los servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores prestados por particulares;
 
@@ -645,9 +645,9 @@ XVI. Administrar y operar los fondos y fideicomisos que sean necesarios para el 
 
 XVII. Coordinar y evaluar los institutos para la atención especializada que determine el Ejecutivo, de conformidad con las leyes respectivas, su decreto de creación y lo establecido en este reglamento;
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XVIII. Diseñar las políticas de readaptación social, así como administrar los Centros de Ejecución de las Consecuencias Jurídicas del Delito y el Centro de Observación y Readaptación del Consejo Tutelar para Menores; y,
+XVIII. Diseñar las políticas de readaptación social, así como administrar y operar los Centros de Ejecución de las Consecuencias Jurídicas del Delito y los Centros de Tratamiento y Reinserción para Adolescentes; y,
 
 XIX. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
 
@@ -1511,13 +1511,13 @@ P.O. 9 DE ABRIL DE 2007.
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-Artículo Segundo. Se abrogan el Decreto que crea el Organismo Descentralizado del Gobierno del Estado denominado Coordinación General de Turismo del Estado de Sinaloa, publicado en o! Periódico Oficial "El Estado de Sinaloa" número 66, de fecha 3 de junio de 1994 y el Reglamento Interior de la Coordinación General de Turismo, publicado en el Periódico Oficial "El Estado de Sinaloa" número 78, de fecha 1 de julio de 1994, así como todas sus reformas y adiciones publicadas en este mismo medio.
+Artículo Segundo. Se abrogan el Decreto que crea el Organismo Descentralizado del Gobierno del Estado denominado Coordinación General de Turismo del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" número 66, de fecha 3 de junio de 1994 y el Reglamento Interior de la Coordinación General de Turismo, publicado en el Periódico Oficial "El Estado de Sinaloa" número 78, de fecha 1 de julio de 1994, así como todas sus reformas y adiciones publicadas en este mismo medio.
 
 Artículo Tercero.- La Coordinación General de Turismo, la Unidad de Apoyo Técnico a Proyectos y las unidades y áreas administrativas de la Secretaría de Desarrollo Económico que a la fecha de entrada en vigor del presente Decreto, lleven asuntos en materia de turismo, deberán entregar en un plaza de treinta días, los asuntos a su cargo en esta materia, a la Secretaría de Turismo.
 
 Artículo Cuarto.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Coordinación General de Turismo o a su Titular, se entenderán hechas a la Secretaría de Turismo o a su Titular.
 
-Articulo Quinto.- Las funciones y atribuciones que las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas, otorgan a la Coordinación General de Turismo o a su Titular, se entenderán otorgadas a la Secretaría de Turismo o a su Titular.
+Artículo Quinto.- Las funciones y atribuciones que las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas, otorgan a la Coordinación General de Turismo o a su Titular, se entenderán otorgadas a la Secretaría de Turismo o a su Titular.
 
 Artículo Sexto.- La Secretaría de Administración y Finanzas, conforme a la normatividad vigente, transferirá los subsidios asignados y los recursos presupuestados, tanto para la Coordinación General de Turismo, como para la Unidad de Apoyo Técnico a Proyectos, a la Secretaría de Turismo que se crea.
 
@@ -1542,3 +1542,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Toda la construcción, rehabilitación y mantenimiento de espacios educativos que opera actualmente la Secretaría de Comunicaciones y Obras Públicas, continuarán hasta su eficaz terminación y cumplimiento.
 
 Artículo Tercero.- Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
