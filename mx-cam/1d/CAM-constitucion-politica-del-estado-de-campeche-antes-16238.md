@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2006-04-12"
+last_updated: "2008-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE -ANTES CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE FEBRERO DE 2008 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -389,8 +391,6 @@ No podrán reunirse dos o más Poderes en una sola persona o corporación, ni de
 
 ### CAPITULO X. Residencia de los Poderes
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 28.
@@ -425,7 +425,7 @@ El Congreso estará integrado por veintiún diputados electos según el principi
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
 
-La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados. La distribución de los distritos electorales uninominales entre los Municipios del Estado se hará teniendo en cuenta el último censo general de población, sin que en ningún caso alguno de ellos quede sin representación particular ante el Congreso por no contar con, cuando menos, un diputado de mayoría relativa. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sóla circunscripción electoral plurinominal.
+La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados. La distribución de los distritos electorales uninominales entre los Municipios del Estado se hará teniendo en cuenta el último censo general de población, sin que en ningún caso alguno de ellos quede sin representación particular ante el Congreso por no contar con, cuando menos, un diputado de mayoría relativa. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sola circunscripción electoral plurinominal.
 
 La asignación de los diputados, según el principio de representación proporcional, se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
 
@@ -691,15 +691,27 @@ La creación jurídica del nuevo Municipio se llevará a cabo mediante la modifi
 
 II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fundada del Poder Ejecutivo y por el voto de las dos terceras partes de los diputados presentes;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; estableciendo los ingresos y egresos relativos a aquel y los ingresos que correspondan a éstos; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; legislar sobre la integración del patrimonio del Estado y de los Municipios; y legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+IlI. Aprobar en forma anual:
 
-IV.- Expedir leyes sobre planeación estatal del desarrollo económico y social y sobre programación, promoción, concertación y ejecución de acciones de orden económico.
+a) Las contribuciones y demás ingresos que deban corresponder al Estado para cubrir su presupuesto anual de egresos;
 
-Expedir todas las leyes que sean necesarias para hacer efectivas las facultades otorgadas por esta Constitución a los Poderes del Estado;
+b) El Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior; y
+
+c) Las contribuciones y demás ingresos que deban corresponder a los municipios para cubrir anualmente su respectivo presupuesto de egresos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+IV. Legislar en todo lo concerniente a los diversos ramos de la administración pública del Estado.
+
+Expedir leyes sobre planeación estatal del desarrollo económico y social, y sobre programación, promoción, concertación y ejecución de acciones orden (sic) económico.
+
+Expedir todas las leyes que sean necesarias para hacer efectivas las facultades otorgadas por esta Constitución a los poderes del Estado;
 
 V.- Acordar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos sobre el crédito del Estado, salvo los casos a que se refiere la fracción VIII del Artículo 117 de la Constitución Federal;
 
@@ -751,11 +763,15 @@ XIX.- Expedir la ley que regule la estructura y funcionamiento del organismo est
 
 XIX Bis.- Expedir la ley que asegure el ejercicio y respeto del derecho de acceso a la información pública y garantice la transparencia en los actos y decisiones de las dependencias y entidades que conforman la Administración Pública Estatal, centralizada y paraestatal; los órganos de los Poderes Legislativo y Judicial; los organismos públicos autónomos y los Ayuntamientos y sus órganos administrativos auxiliares y paramunicipales; y que regule la integración de la estructura y el funcionamiento del organismo estatal encargado de promover y difundir el ejercicio de ese derecho, de resolver sobre la negativa a las solicitudes de información pública y de proteger los datos personales en poder de aquéllos; organismo estatal que estará investido de autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
 
-XX.- Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XX. Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos. Así como fijar los límites de los municipios del Estado y resolver las diferencias que en esta materia se produzcan;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
 
-XXI.- Revisar, fiscalizar y aprobar, en su caso, la Cuenta Pública del Estado que, anualmente y en la forma que prevenga la correspondiente ley secundaria, le sea remitida por conducto del Ejecutivo del Estado, ya consolidada;
+XXI.- Revisar, fiscalizar y aprobar, en su caso, la Cuenta Pública del Estado que, anualmente y en la forma que prevenga la correspondiente ley secundaria, le sea remitida, por conducto del Ejecutivo del Estado, ya consolidada;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -773,9 +789,11 @@ XXVI.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su sen
 
 XXVII.- Expedir la convocatoria para elecciones extraordinarias, con el objeto de cubrir las vacantes de sus respectivos miembros;
 
-(REFORMADA, P.O. 22 DE JUNIO DE 2000) (F. DE E., P.O. 27 DE JUNIO DE 2000)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVIII.- Autorizar al Gobernador para enajenar o gravar los bienes del Estado o para que celebre contratos o convenios con los demás Estados o con la Federación sobre asuntos relacionados con la Administración Pública del Estado, siempre y cuando en tales contratos o convenios se comprometa la soberanía del Estado;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XXVIII.- Determinar en la ley las formalidades y requisitos a los que deban sujetarse los actos jurídicos relativos a los bienes propiedad del Estado;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -787,25 +805,53 @@ XXX.- Citar por conducto del Gobernador o del Pleno del H. Tribunal Superior de 
 
 Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitar al presidente municipal, que concurra él u otro integrante del ayuntamiento para responder a los cuestionamientos que se les formulen;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXI.- Expedir la Ley Orgánica Municipal y las bases de policía y buen gobierno a que deberán sujetarse los Municipios;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+XXXI. Expedir la Ley que establezca las bases de coordinación para la organización y funcionamiento de los cuerpos de seguridad pública estatales y municipales, así como para el ingreso, selección, promoción y reconocimiento de sus integrantes.
 
-XXXII.- Autorizar la enajenación o gravamen de los bienes de los Municipios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XXXII.- Legislar en materia municipal conforme a lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos mexicanos y demás ordenamientos aplicables;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
-XXXIII.- Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento o Junta Municipal no se hubiese celebrado la elección respectiva en la fecha correspondiente o, habiéndose celebrado, los electos, propietarios y suplentes, no se presentaren oportunamente al ejercicio de sus funciones, o cuando la elección se declare nula o por cualquiera causa se declare la desaparición del Ayuntamiento o Junta Municipal. Dicho Concejo se integrará en la forma que prevenga la respectiva ley orgánica y se encargará provisionalmente del gobierno del Municipio o Sección Municipal hasta en tanto se celebren las elecciones extraordinarias, mismas que deberán efectuarse en un plazo no mayor de sesenta días. En el caso de que la desaparición del Ayuntamiento o Junta Municipal ocurriese después de transcurrido el primer año del período para el cual se le eligió, el Concejo Municipal asumirá el gobierno hasta la conclusión de dicho período;
+XXXIII. Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento o Junta Municipal no se hubiese celebrado la elección respectiva en la fecha correspondiente o, habiéndose celebrado, los electos, propietarios y suplentes, no se presentaren oportunamente al ejercicio de sus funciones, o cuando la elección se declare nula o por cualquiera causa se declare la desaparición del Ayuntamiento o Junta Municipal. Dicho Concejo se integrará en la forma que prevenga la respectiva ley orgánica y se encargará provisionalmente del gobierno del Municipio o Sección Municipal hasta en tanto se celebren las elecciones extraordinarias, mismas que deberán efectuarse en un plazo no mayor de sesenta días. En el caso de que la desaparición del Ayuntamiento o Junta Municipal ocurriese después de transcurrido el primer año del período para el cual se le eligió, el Concejo Municipal asumirá el gobierno hasta la conclusión de dicho período;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
 XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXV.- Las demás que le asignen esta Constitución y la General de la República.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XXXV. Determinar en la ley los supuestos conforme a los cuales los Ayuntamientos requieran el acuerdo favorable de las dos terceras partes de sus integrantes para:
+
+a) Emitir resoluciones que impliquen la transmisión de dominio de inmuebles de propiedad municipal;
+
+b) Realizar actos jurídicos para crear, modificar o extinguir obligaciones a cargo del Municipio que trasciendan al período de gestión del Ayuntamiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XXXVI. Aprobar el que uno o más Municipios del Estado previo acuerdo entre sus Ayuntamientos, se coordinen y asocien con uno o más Municipios de otras Entidades Federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XXXVII. Expedir las normas de carácter general para celebrar los convenios a que se refieren las fracciones III y IV del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como los que en su caso se celebren respecto a las materias a que se refiere la fracción V de la misma disposición;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XXXVIII. Las demás que le asigne esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -945,9 +991,13 @@ Si al comenzar un período constitucional no se presentase el gobernador electo,
 
 Cuando la falta del Gobernador fuere temporal excediendo de sesenta días, el Congreso del Estado si estuviere reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure dicha falta.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PÁRRAFO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE FEBRERO DE 2008 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-Para suplir las ausencias temporales del Gobernador hasta por sesenta días quedará encargado del despacho el Secretario de Gobierno o, en su defecto, el funcionario que el propio Gobernador designe de entre los titulares de las dependencias a que se contrae el artículo 8o. de la Ley Orgánica de la Administración Pública del Estado. La suplencia se comunicará, por escrito, para los efectos a que haya lugar, a los representantes de los otros dos poderes locales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+
+Las ausencias temporales del Gobernador hasta por quince días las suplirá el Secretario de Gobierno. Si la ausencia temporal excediese de quince días, pero fuera inferior a sesenta días, quedará encargado del Despacho del Poder Ejecutivo el Secretario de Gobierno o, en su defecto, el funcionario que el propio Gobernador designe de entre los titulares de las dependencias a que se refiere la Ley Orgánica de la Administración Pública del Estado. La suplencia a que este párrafo se refiere se comunicará, por escrito, para los efectos que (sic) haya lugar, a los representantes de los otros dos poderes locales.
 
 Si la falta se convirtiere de temporal en absoluta, se procederá como disponen los artículos anteriores.
 
@@ -1043,7 +1093,11 @@ a). Toda clase de actos y negocios jurídicos, ya sean administrativos o judicia
 
 b). Su participación en empresas industriales, agrícolas y mercantiles con el fin de impulsar la productividad y el desarrollo estatal;
 
-XVI.- Enajenar, con autorización del Congreso, los bienes que según las leyes pertenezcan al Estado;
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEÁSE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 136 DE REFORMAS.</small>
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XVI. Realizar actos traslativos de dominio respecto de los bienes que según las leyes pertenezcan al Estado, conforme a la Ley prevista en la fracción XXVIII del Artículo 54 de esta Constitución;
 
 XVII.- Otorgar el Fíat para el ejercicio de la función Notarial;
 
@@ -1141,7 +1195,9 @@ La función de consejero jurídico del Gobernador estará a cargo de la dependen
 
 ### CAPITULO XVIII. De los Municipios del Estado
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 77.
 
@@ -1155,7 +1211,7 @@ Los magistrados del Tribunal Superior, los jueces de primera instancia, electora
 
 Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia; que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 78.
 
@@ -1491,21 +1547,41 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 ###### ARTICULO 102.
 
-Los Municipios que integran el Estado serán Libres y se regirán por la Ley Orgánica de la materia, teniendo como bases las siguientes:
+La base de la división territorial y de la organización política y administrativa del Estado es el municipio libre. Los Municipios del Estado tendrán personalidad jurídica y se regirán conforme a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Cada Municipio será gobernado por un cuerpo colegiado denominado Ayuntamiento, de elección popular directa;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+I. Cada Municipio será gobernado por un cuerpo colegiado denominado Ayuntamiento, que será electo mediante sufragio universal, libre, secreto y directo. No habrá autoridad intermedia alguna entre el Ayuntamiento y el Gobierno del Estado:
 
-II.- Salvo los Ayuntamientos de los Municipios de Campeche y de Carmen que se integrarán con un Presidente, siete Regidores y dos Síndicos electos por el principio de mayoría relativa, y cuatro Regidores y un Síndico asignados por el principio de representación proporcional; los demás ayuntamientos se integrarán con un Presidente, cinco Regidores y un Síndico de mayoría relativa y tres Regidores y un Síndico de representación proporcional. Para la asignación de Regidores y Síndicos de representación proporcional se observarán las disposiciones de la Ley Electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento de la votación total emitida en el municipio correspondiente;
+a) El Ayuntamiento ejercerá las facultades que al gobierno municipal otorga la Constitución Política de los Estados Unidos mexicanos (sic), las que le otorga esta Constitución y las que le confieran las leyes que de ellas emanen.
+
+b) Los Ayuntamientos serán asambleas deliberantes y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución corresponderá exclusivamente a los presidentes municipales;
+
+c) En ningún caso los Ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del Presidente Municipal, ni éste por si solo las de los Ayuntamientos, ni el Ayuntamiento o el Presidente Municipal, funciones judiciales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+II. Los Municipios del Estado, su denominación y la de sus cabeceras, serán los que señale la Ley de la materia.
+
+Los Ayuntamientos se integrarán con un presidente municipal y con varios miembros más llamados síndicos y regidores. Salvo los Ayuntamientos de los Municipios de Campeche y de Carmen que se integrarán con un Presidente, siete Regidores y dos Síndicos electos por el principio de mayoría relativa, y cuatro Regidores y un Síndico asignados por el principio de representación proporcional, los demás Ayuntamientos se integrarán con un Presidente, cinco Regidores y un Síndico de mayoría relativa y tres Regidores y un Síndico de representación proporcional. Para la asignación de Regidores y Síndicos de representación proporcional se observarán las disposiciones de la Ley Electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento de la votación total emitida en el Municipio correspondiente;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 III.- Los Municipios podrán subdividirse territorialmente en Secciones y Comisarías Municipales. La facultad para crear Secciones y Comisarías corresponderá a la Legislatura del Estado y a los Ayuntamientos, respectivamente;
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
 IV.- Cada Sección Municipal será administrada por un cuerpo colegiado, auxiliar del Ayuntamiento, denominado Junta Municipal, de elección popular directa, integrado con un Presidente, tres Regidores y un Síndico electos por el principio de mayoría relativa y un Regidor asignado por el sistema de representación proporcional, conforme a las disposiciones de la ley electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento del total de la votación emitida en la Sección Municipal correspondiente; y
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
 V.- Cada Comisaría Municipal será administrada por una sóla persona, auxiliar del Ayuntamiento, que recibirá el nombre de Comisario Municipal, cuya elección se hará conforme a los procedimientos de elección directa que prevenga la citada ley orgánica, procedimientos que los Ayuntamientos aplicarán dentro de los treinta días siguientes a su instalación y toma de posesión.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 Los presidentes, regidores, síndicos y comisarios durarán en sus cargos tres años.
 
@@ -1541,79 +1617,59 @@ c).- Si se es oriundo de otro Estado, tener residencia cuando menos de cinco añ
 
 No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad del otro Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 104.
 
-No podrán ser componentes de Ayuntamientos o Juntas Municipales:
+No podrá ser electo como integrante de un Ayuntamiento o Junta Municipal:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+I. Quienes se encuentren comprendidos en los supuestos del artículo 34 de esta Constitución, salvando el impedimento en los casos de las fracciones III a VII de dicho artículo si la separación del cargo se produce cuarenta y cinco días antes de la elección.
 
-I.- Los que sean o hayan sido ministros de algún culto;
+II. El tesorero municipal o administrador de fondos públicos municipales si no han sido aprobadas sus cuentas;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+III. Los que tuvieren mando de fuerza pública en el Municipio en que se realice la elección, salvo que dejare el mando cuarenta y cinco días antes de la elección;
 
-II.- Los empleados de la Federación, del Estado o del municipio, si no se separan cuando menos cuarenta y cinco días antes del fijado para la elección;
+IV. El padre en concurrencia con el hijo, el hermano en concurrencia con el hermano, el socio con su consocio y el patrón con su dependiente.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Si el empleado del municipio fuese el Tesorero Municipal o administrador de fondos municipales, no podrá ser electo, aun separándose de su empleo en el término que fija la Ley, si no han sido aprobadas sus cuentas;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
-
-IV.- Los que tuvieren mando de fuerza pública, si no dejaren el mando por lo menos cuarenta y cinco días antes de la elección, y
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
-
-V.- El padre en concurrencia con el hijo, el hermano en concurrencia con el hermano, el socio con su consocio y el patrón con su dependiente.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 105.
 
-Los Municipios tendrán a su cargo las funciones y los servicios públicos siguientes:
+Los Municipios:
 
-a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+I. Tendrán a su cargo las funciones y servicios públicos que determina la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y las que la Legislatura del Estado les atribuya;
 
-b) Alumbrado público;
+II. Con arreglo a las leyes federales y estatales y conforme a los reglamentos municipales podrán realizar los actos previstos en la fracción V del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
-c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+III. Administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la ley establezca, y en todo caso:
 
-d) Mercados y centrales de abasto;
+a) Percibirán las contribuciones, incluyendo las tasas adicionales sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan como base el cambio del valor de los inmuebles;
 
-e) Panteones;
+Los Municipios podrán celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;
 
-f) Rastro;
+b) Las participaciones federales que serán cubiertas por la Federación a los Municipios, con arreglo a las bases, montos y plazos que anualmente determine la Legislatura;
 
-g) Calles, parques, jardines y su equipamiento;
+c) Los ingresos derivados de la prestación de los servicios públicos a su cargo;
 
-h) Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito; e
+d) Las leyes del Estado no podrán establecer exenciones o subsidios a favor de persona o institución alguna respecto de las contribuciones antes señaladas. Solo estarán exentos los bienes del dominio público de la Federación, del Estado y de los Municipios. Los bienes públicos que sean utilizados por entidades paraestatales o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público, causarán las contribuciones antes señaladas;
 
-i) Los demás que la legislatura local determine según las condiciones territoriales y socioeconómicas del Municipio, así como su capacidad administrativa y financiera.
+e) Los recursos que integran la hacienda pública municipal serán ejercidos en forma directa por los Ayuntamientos o por quien ellos autoricen, conforme a la ley;
 
-Los Municipios en los términos de las leyes federales y del Estado están facultados para:
+IV. Por conducto de sus respectivos Ayuntamientos, podrán convenir con el Estado la asunción de las funciones que originalmente corresponden a éste, la ejecución de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario;
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+V. Están facultados así mismo para, conforme a lo previsto por esta Constitución y a las bases que establezca la ley de la materia, celebrar convenios:
 
-b) Participar en la creación y administración de sus reservas territoriales;
+a) Con dos o más Municipios del Estado para coordinarse con el propósito del mejor ejercicio de sus funciones o la más eficaz prestación de los servicios públicos;
 
-c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los Municipios;
+b) Con el Estado para que éste por sí o mediante un organismo en forma temporal, se haga cargo del ejercicio de alguna función o la prestación de un servicio público;
 
-d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+c) Con el Estado para que éste y el Municipio ejerzan la función o presten el servicio público en forma coordinada.
 
-e) Intervenir en la regularización de la tenencia de la tierra urbana;
-
-f) Otorgar licencias y permisos para construcciones;
-
-g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
-
-h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
-
-i) Celebrar convenios para la administración y custodia de zonas federales.
-
-En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
-
-Los Municipios no podrán en ningún caso:
+VI. Los Municipios no podrán en ningún caso:
 
 a) Prohibir o evitar en cualquier forma la entrada o salida de mercancías locales, nacionales o extranjeras, o productos de cualquier clase;
 
@@ -1621,13 +1677,33 @@ b) Gravar directa o indirectamente la entrada o salida de los mismos o el paso p
 
 c) Imponer contribuciones que no estén especificadas en las leyes fiscales del Municipio.
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 106.
 
-Los Municipios no podrán enajenar o gravar de cualquier manera los bienes que les pertenezcan, ni contratar empréstitos, sin la autorización expresa del Congreso del Estado.
+Los municipios tendrán derecho para adquirir, poseer y administrar bienes inmuebles. Los actos traslativos de dominio y las concesiones que respecto de ellos se otorguen se sujetarán a los requisitos y formalidades que establece esta Constitución, los que determine la ley y los que establezcan los reglamentos municipales.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+Los municipios podrán contratar empréstitos con apego a las disposiciones de la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+
+ARTICULO 107,- Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+En el mes de noviembre de cada año, presentarán al Congreso del Estado sus proyectos de ley de Ingresos para que, aprobados que sean por éste, entren en vigor para el siguiente año.
+
+Los presupuestos de egresos de los municipios serán aprobados por los Ayuntamientos conforme a sus ingresos disponibles.
+
+Los ayuntamientos acordarán anualmente las remuneraciones para sus integrantes de acuerdo a las normas que determine la ley y con observancia de lo previsto en el artículo 121 de esta Constitución.
+
+Las funciones de control, evaluación y vigilancia de la aplicación de los recursos públicos de la administración pública municipal, corresponderá a las autoridades que determine la ley aplicable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 107.
 
@@ -1637,7 +1713,19 @@ Los ámbitos de competencia del Gobierno del Estado y los Gobiernos de los Munic
 
 ###### ARTICULO 108.
 
-El Congreso del Estado determinará, por ley especial que llevará el nombre de Ley Orgánica de los Municipios del Estado, la reglamentación económica y administrativa a que deban sujetarse los municipios en su régimen interior. Tanto en dicha Ley como en sus modificaciones en su caso, se tenderá siempre a mantener la unidad del gobierno, que necesariamente exige la administración pública general del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución General de la República.
+Los ayuntamientos quedan facultados para aprobar, de acuerdo con las leyes que en materia municipal deberá expedir el Congreso del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, así como que aseguren la participación ciudadana y vecinal.
+
+Las leyes a que se refiere el párrafo anterior establecerán:
+
+a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación para dirimir las controversias que se susciten entre aquella y los particulares, sujetándolos a los principios de igualdad, publicidad, audiencia y legalidad.
+
+b) Los supuestos en que sea exigible el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento tratándose de actos que afecten el patrimonio inmobiliario municipal o cuando los efectos de dichos actos trasciendan al período que corresponda al Ayuntamiento.
+
+c) Las bases generales para la celebración de los convenios previstos en la Constitución Política de los Estados Unidos Mexicanos en sus artículos 115, fracciones III y IV, así como 116, fracción VII en su segundo párrafo.
+
+d) El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal, cuando no exista convenio y el Congreso del Estado determine que el gobierno municipal está imposibilitado para ejercer aquella o prestar éste. Ello únicamente cuando medie previa solicitud del Ayuntamiento, aprobada por las dos terceras partes de sus integrantes.
+
+e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2245,7 +2333,7 @@ DECRETO NUMERO 261
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Se derogan todas auqellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
 
 P.O. 19 DE ENERO DE 2006.
 
@@ -2266,3 +2354,11 @@ TERCERO.- Con relación a lo ordenado por este decreto, deberán realizarse toda
 CUARTO.- Para los efectos legales que correspondan, comuníquese lo ordenado por este decreto a los Poderes Ejecutivo, Legislativo y Judicial de la Federación, a los Organismos Federales Constitucionalmente Autónomos y a las Entidades Federativas del país.
 
 QUINTO.- Notifíquese al H. Ayuntamiento del Municipio de Campeche, para que en su oportunidad haga de conocimiento público el contenido de este decreto mediante bando solemne, en el que participarán los representantes de los Poderes del Estado.
+
+P.O. 15 DE FEBRERO DE 2008.
+
+PRIMERO: El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: La reforma decretada a la fracción XVI del artículo 71 de la Constitución Política del Estado de Campeche quedará en suspenso su inicio de vigencia hasta que entre en vigor la ley que regule todo lo concerniente a los bienes muebles e inmuebles de la propiedad o en posesión del Estado. El Congreso del Estado en un plazo no mayor a ciento veinte días, contados a partir de la fecha en que entre en vigor este decreto, deberá expedir la citada ley secundaria.
+
+TERCERO: Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan al contenido del presente decreto.
