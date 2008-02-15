@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-archivo-general-del-gobierno-del-estado-de-25510
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-24"
-last_updated: "1997-10-24"
+last_updated: "2008-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DEL ARCHIVO GENERAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO PARA EL PODER EJECUTIVO, PUBLICADO EN EL P.O. DE 15 DE FEBRERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de octubre de 1997.
 
@@ -320,3 +322,17 @@ EL SECRETARIO DE GOBIERNO
 RAMÓN MARTIN HUERTA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2008.
+
+Artículo Primero. El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los titulares de las dependencias y entidades del Poder Ejecutivo deberán nombrar a su respectivo Encargado, dentro del plazo de treinta días hábiles contado a partir de la entrada en vigencia del presente Decreto Gubernativo, lo que comunicarán por escrito al Director del Archivo General del Estado.
+
+Artículo Tercero. Se abroga el Decreto Gubernativo número 75 publicado en el Periódico Oficial del Gobierno del Estado número 85, Tercera Parte, de fecha 24 de octubre de 1997, mediante el cual se expidió el Reglamento del Archivo General del Gobierno del Estado de Guanajuato.
+
+Artículo Cuarto. Se abrogan los Criterios Generales para la Organización de Archivos, publicados en el Periódico Oficial del Gobierno del Estado número 52, Tercera Parte, de fecha 30 de marzo de 2004.
+
+Artículo Quinto. El Comité Técnico Consultivo asume los compromisos que haya adquirido el Órgano Técnico Consultivo del Archivo General del Gobierno del Estado de Guanajuato.
