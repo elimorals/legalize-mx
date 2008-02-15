@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-seguridad-publica-16185
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-20"
-last_updated: "2005-08-12"
+last_updated: "2008-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2008.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de marzo de 2000.
 
@@ -61,13 +61,13 @@ VIII. Seguridad Privada: Empresas o particulares que presten servicios privados 
 
 IX. Licencia Colectiva: Autorización para la portación de armas de fuego que otorga la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 3º.
 
 Para el estudio, planeación, atención y despacho de los asuntos de su competencia, la Secretaría de Seguridad Pública contará con los servidores públicos y unidades administrativas siguientes:
 
 Secretario de Seguridad Pública
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
 
 Subsecretario de Seguridad Pública y de Prevención y Readaptación Social
 
@@ -75,19 +75,13 @@ Subsecretario de Estudios, Proyectos y Desarrollo
 
 Secretario Particular
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
+Unidad del Sistema Estatal de Comunicaciones
+
+Unidad de Asuntos Internos
 
 Dirección de la Policía Estatal Preventiva
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE AGOSTO DE 2005)</small>
-
-Dirección de Protección Civil
-
 Dirección de Servicios de Protección
-
-Dirección del Sistema Estatal de Comunicaciones
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE AGOSTO DE 2005)</small>
 
 Dirección de Prevención y Readaptación Social
 
@@ -95,15 +89,15 @@ Dirección de Programas Preventivos
 
 Dirección de Coordinación con Organismos Federales, Estatales y Municipales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE AGOSTO DE 2005)</small>
-
-Unidad de Asuntos Internos
+Dirección de Protección Civil
 
 EL Secretario contará con los órganos técnicos y administrativos necesarios para el cumplimiento de sus facultades, únicamente limitado por los recursos económicos y presupuestales con que cuenta la Secretaría.
 
-###### Artículo 4º.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
-El Instituto Estatal de Ciencias Penales y Seguridad Pública, depende directa y administrativamente de la Secretaría de Seguridad Pública, en los términos de lo dispuesto en la Ley Orgánica del propio Instituto.
+###### Artículo 4°.
+
+El Instituto Estatal de Ciencias Penales y Seguridad Pública y el Órgano de Ejecución de Medidas para Adolescentes, denominado Instituto para la Atención Integral del Menor del Estado de Sinaloa, como órganos administrativos desconcentrados, estarán jerárquicamente subordinados a la Secretaría, se regirán por los ordenamientos jurídicos de creación, por las disposiciones aplicables de este reglamento y los que en su caso, determine el Gobernador Constitucional del Estado o el Secretario de Seguridad Pública y sus titulares tendrán las competencias y facultades que les señalen los instrumentos jurídicos citados.
 
 ###### Artículo 5º.
 
@@ -203,13 +197,15 @@ XVI. Suscribir convenios, contratos y acuerdos de coordinación con los Gobierno
 
 XVII. Las demás que con carácter no delegables le otorgue el Gobernador del Estado y las que con el mismo carácter le confieran otras disposiciones legales y reglamentarias.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 9°.
 
 Al despacho del Secretario estarán adscritas las siguientes unidades administrativas:
 
 Secretaría Particular
+
+Unidad del Sistema Estatal de Comunicaciones
 
 Unidad de Asuntos Internos
 
@@ -233,13 +229,71 @@ III. Atender y tramitar los asuntos que el Secretario le encomiende; y,
 
 IV. Agendar y manejar las audiencias del Secretario.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE FEBRERO DE 2008)</small>
 
-#### SECCIÓN II. DE LA UNIDAD DE ASUNTOS INTERNOS
+#### SECCIÓN II. DE LA UNIDAD DEL SISTEMA ESTATAL DE COMUNICACIONES
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 10 Bis.
+
+Corresponde a la Unidad del Sistema Estatal de Comunicaciones el ejercicio de las siguientes atribuciones:
+
+I. Operar y mantener el sistema estatal de comunicación;
+
+II. Elaborar y presentar proyectos para la actualización de los sistemas y equipos de telecomunicaciones del Gobierno del Estado y sus dependencias relacionadas con la seguridad pública;
+
+III. Proporcionar mantenimiento preventivo y correctivo a la red de comunicaciones;
+
+IV. Desarrollar la red de telecomunicaciones incorporando a las dependencias y zonas geográficas del Estado de Sinaloa;
+
+V. Proyectar el sistema estatal de comunicaciones a etapas superiores de tecnología y operación;
+
+VI. Realizar una supervisión permanente a las instalaciones y equipos para garantizar su adecuada utilización;
+
+VII. Proponer alternativas técnicas y logísticas para el mejoramiento del sistema de telecomunicaciones;
+
+VIII. Asesorar a las autoridades estatales y municipales que así lo soliciten, para que puedan integrarse al sistema de comunicación del Gobierno del Estado;
+
+IX. Brindar asesoría y apoyo técnico para que los municipio (sic) operen en el sistema de comunicaciones; y,
+
+X. Las demás que le confieren las leyes, decretos, reglamentos, convenios, circulares, acuerdos o que expresamente le encomienden el Gobernador del Estado o el Secretario o el Subsecretario del ramo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2008)</small>
+
+###### Artículo 10 Bis 1.
+
+Para el despacho de los asuntos de su competencia, la Unidad del Sistema Estatal de Comunicaciones se auxiliará de las siguientes áreas administrativas:
+
+Departamento Operativo
+
+Departamento de Enlace
+
+Departamento de Servicios
+
+Departamento de Telefonía
+
+Departamento de Radiocomunicación (Microondas)
+
+Departamento Electromecánico
+
+Departamento de Mantenimiento de Radios en Mochis
+
+Departamento de Mantenimiento de Radios en Culiacán
+
+Departamento de Mantenimiento de Radios en Mazatlán
+
+Departamento de Red de Transportes
+
+Departamento de Programación
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+#### SECCIÓN III. DE LA UNIDAD DE ASUNTOS INTERNOS
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2008)</small>
+
+###### Artículo 10 Bis 2.
 
 Corresponde a la Unidad de Asuntos Internos el ejercicio de las siguientes atribuciones:
 
@@ -247,7 +301,9 @@ I. Llevar a cabo visitas de inspección administrativa, las que deberán ser cua
 
 II. Realizar investigaciones derivadas de la presentación de denuncias, en las que se involucre a personal de esta Secretaría, dando cuenta inmediata al titular de la misma; denunciando a la autoridad administrativa o penal, según corresponda, los hechos que se determinen como irregulares;
 
-III. Elaborar programas de visitas de inspección administrativa que aprobará el Secretario;
+III. Elaborar programas de visitas de inspección administrativa que aprobará el
+
+Secretario;
 
 IV. Supervisar que los servidores públicos de la dependencia cumplan con los principios de honradez, legalidad, profesionalismo, eficiencia, imparcialidad, y respeto a los derechos humanos, además de los de probidad, lealtad y confianza para con la institución;
 
@@ -265,11 +321,7 @@ IX. Las demás que le confieran las leyes, decretos, reglamentos y acuerdos o qu
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2005)</small>
 
-#### SECCIÓN I BIS. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2005)</small>
-
-#### SECCIÓN II. DE LA DIRECCIÓN DE SERVICIOS DE PROTECCIÓN
+#### SECCIÓN I BIS
 
 ### CAPÍTULO III. DE LAS FACULTADES GENÉRICAS DE LOS SUBSECRETARIOS
 
@@ -369,7 +421,7 @@ I. Concebir, preparar y desarrollar programas tendientes a salvaguardar la integ
 
 II. Planear y ejecutar acciones para prevenir, disuadir y abatir la comisión de delitos, así como proteger vidas, bienes y derechos de la sociedad;
 
-III. Instrumentar y someter a consideración del Secretario los programas de protección civil;
+III. (DEROGADA, P.O. 15 DE FEBRERO DE 2008)
 
 IV. Elaborar y desarrollar la forma de intervención del material de vuelo en sus diferentes apoyos y su flexibilidad, así como su aplicación técnica y táctica;
 
@@ -383,25 +435,21 @@ VI. Coordinar acciones con las instituciones que, dentro del ámbito de su compe
 
 VII. Las demás que le confieran las leyes, decretos, reglamentos, convenios y acuerdos o que expresamente le encomiende el Gobernador del Estado o el Secretario.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 16.
 
-A la Subsecretaria de Seguridad Pública y de Prevención y Readaptación Social estarán adscritas las siguientes unidades administrativas:
+A la Subsecretaría de Seguridad Pública y de Prevención y Readaptación Social estarán adscritas las siguientes unidades administrativas:
 
 Dirección de la Policía Estatal Preventiva
 
-Dirección de Protección Civil
-
 Dirección de Servicios de Protección
-
-Dirección del Sistema Estatal de Comunicaciones
 
 Dirección de Prevención y Readaptación Social
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2005)</small>
 
-#### SECCIÓN III. DE LA DIRECCIÓN DEL SISTEMA ESTATAL DE COMUNICACIONES
+#### SECCIÓN II. DE LA DIRECCIÓN DE SERVICIOS DE PROTECCIÓN
 
 ###### Artículo 17.
 
@@ -443,25 +491,37 @@ XI. Coordinar y supervisar la seguridad de las instalaciones del Gobierno del Es
 
 XII. Apoyar a la Dirección de Protección Civil para garantizar el orden en eventos que propicien concentración de personas;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XIII. Rendir un parte diario de novedades a la superioridad, sin perjuicio del que le rendirá mensualmente acerca de las actividades de su competencia; y,
+XIII. Rendir un parte diario de novedades a la superioridad, sin perjuicio del que le rendirá mensualmente acerca de las actividades de su competencia;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XIV. Las demás que le confieran las leyes, decretos, reglamentos, convenios, acuerdos, circulares o que expresamente le encomiende el Gobernador del Estado, el Secretario o el Subsecretario del ramo.
+XIV. Administrar y operar los cuerpos de custodia de los centros de ejecución de las consecuencias jurídicas del delito en el Estado y los centros de tratamiento y reinserción para adolescentes;
 
-XV. (DEROGADA, P.O. 12 DE AGOSTO DE 2005)
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XVI. (DEROGADA, P.O. 12 DE AGOSTO DE 2005)
+XV. Velar por la seguridad de las personas privadas de su libertad en los centros de ejecución de las consecuencias jurídicas del delito en el Estado, así como de los visitantes y servidores públicos adscritos al mismo;
 
-XVII. (DEROGADA, P.O. 12 DE AGOSTO DE 2005)
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XVIII. (DEROGADA, P.O. 12 DE AGOSTO DE 2005)
+XVI. Mantener el orden y la disciplina dentro de los centros de ejecución de las consecuencias jurídicas del delito en el Estado;
 
-XIX. (DEROGADA, P.O. 12 DE AGOSTO DE 2005)
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XX. (DEROGADA, P.O. 12 DE AGOSTO DE 2005)
+XVII. Realizar todas las acciones necesarias para velar por la seguridad de los adolescentes que se encuentren sujetos a una medida que implique una restricción a su libertad;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XVIII. Establecer medidas de seguridad para contener a la población privada de su libertad o evitar el ingreso de personas ajenas a los centros de ejecución de las consecuencias jurídicas del delito en el Estado sin la autorización respectiva;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XIX. Realizar traslados o movimientos de personas privadas de su libertad dentro o fuera de los centros de ejecución de las consecuencias jurídicas del delito en el Estado, en virtud de mandamiento hecho por autoridad competente;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XX. Las demás que determinen otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
 
@@ -475,57 +535,19 @@ Departamento Operativo Zona Centro
 
 Departamento Operativo Zona Sur
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 15 DE FEBRERO DE 2008)</small>
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PREVENCIÓN Y READAPTACIÓN SOCIAL
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2005)</small>
+#### SECCIÓN III
 
 ###### Artículo 18 Bis.
 
-Corresponde a la Dirección de Protección Civil el ejercicio de las siguientes atribuciones:
-
-I. Proponer, regular, conducir, ejecutar y vigilar las labores de protección civil en la Entidad, estableciendo las bases de coordinación para integrar la acción del Estado y los Municipios, proponiendo políticas, criterios y procedimientos; emitiendo recomendaciones, organizando y supervisando las actividades de los diversos participantes e interesados en la materia, a fin de garantizar la consecución de los objetivos del Sistema Estatal de Protección Civil del cual forman parte los Sistemas Municipales de Protección Civil;
-
-II. Conformar una Cultura de Protección Civil que convoque y sume el interés de la población, así como su participación individual y colectiva, fortaleciendo y ampliando los medios de participación de la comunidad;
-
-III. Dar permanencia y precisión a la coordinación entre los participantes en las tareas de protección civil, tanto en el cumplimiento interno de sus funciones, como en sus interrelaciones con los sectores público, privado, social y académico;
-
-IV. Establecer los mecanismos de prevención más adecuados aplicando los avances tecnológicos que permitan disminuir los efectos de los diferentes fenómenos destructivos;
-
-V. Prevenir y mitigar los daños que pueda ocasionar cualquier fenómeno perturbador que impacte a la población del Estado, de sus bienes, así como su medio ambiente;
-
-VI. Promover la realización de eventos a nivel estatal y municipal, en los que se proporcionen los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección, dirigidas a la mayor cantidad posible de personas;
-
-VII. Supervisar la ejecución de simulacros en los lugares de mayor afluencia de la población, tales como oficinas públicas, planteles educativos, edificios privados e instalaciones industriales, comerciales y de servicios;
-
-VIII. Realizar con la cooperación de los distintos medios de difusión masiva, campañas de divulgación sobre temas de protección civil, medidas de prevención y autoprotección, que contribuyan a la educación de la protección civil, fortaleciendo la participación activa de la sociedad;
-
-IX. Promover y coordinar proyectos de investigación para integrar acervos de información técnica y científica sobre fenómenos perturbadores que afecten o puedan afectar a la población, y que permitan a ésta un mayor conocimiento, así como la forma en que habrá de enfrentarlos en caso de ser necesario;
-
-X. Desarrollar y aplicar medidas, programas e instrumentos para fomentar, inducir e impulsar la participación económica de los sectores social y privado en la promoción de acciones de prevención, incluyendo los mecanismos normativos y administrativos;
-
-XI. Coordinar el desempeño de las Unidades Municipales de Protección Civil mediante visitas y reuniones, así como a través de los informes mensuales de actividades y los reportes diarios de incidentes relevantes que formulen estas entidades;
-
-XII. Solicitar a las Unidades Municipales de Protección Civil para su revisión y asesoría los planes municipales de contingencias; y,
-
-XIII. Las demás que le confieran las leyes, decretos, reglamentos, convenios, acuerdos, circulares o que expresamente le encomiende el Gobernador del Estado, el Secretario o el Subsecretario del ramo.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2005)</small>
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
 ###### Artículo 18 Bis 1.
 
-Para el despacho de los asuntos de su competencia, la Dirección de Protección Civil, se auxiliará de las siguientes áreas administrativas:
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
-Departamento del Equipo Técnico-científico Especializado en el estudio, análisis y seguimiento de los agentes destructivos
-
-Departamento de Prevención y Capacitación
-
-Departamento de Asesoría e Inspección
-
-Departamento de Operaciones Emergentes
-
-#### SECCIÓN V. DE LOS ÓRGANOS Y ENTIDADES COORDINADAS
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PREVENCIÓN Y READAPTACIÓN SOCIAL
 
 > <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2005)</small>
 
@@ -565,61 +587,23 @@ Departamento de Seguridad Agropecuaria
 
 Departamento Administrativo
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PROGRAMAS PREVENTIVOS
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 15 DE FEBRERO DE 2008)</small>
+
+#### SECCIÓN V. DE LOS ÓRGANOS Y ENTIDADES COORDINADAS
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 21.
 
-Corresponde a la Dirección del Sistema Estatal de Comunicaciones el ejercicio de las siguientes atribuciones:
-
-I. Operar y mantener el sistema estatal de comunicación;
-
-II. Elaborar y presentar proyectos para la actualización de los sistemas y equipos de telecomunicaciones del Gobierno del Estado y sus dependencias relacionadas con la seguridad pública;
-
-III. Proporcionar mantenimiento preventivo y correctivo a la red de comunicaciones;
-
-IV. Desarrollar la red de telecomunicaciones incorporando a las dependencias y zonas geográficas del Estado de Sinaloa;
-
-V. Proyectar al sistema estatal de comunicaciones a etapas superiores de tecnología y operación;
-
-VI. Realizar una supervisión permanente a las instalaciones y equipos para garantizar su adecuada utilización;
-
-VII. Proponer alternativas técnicas y logísticas para el mejoramiento del sistema de telecomunicaciones;
-
-VIII. Asesorar a las autoridades estatales y municipales que así lo soliciten, para que puedan integrarse al sistema de comunicación del Gobierno del Estado;
-
-IX. Brindar asesoría y apoyo técnico para que los municipios operen en el sistema de comunicaciones; y
-
-X. Las demás que le confieran las leyes, decretos, reglamentos, convenios, circulares, acuerdos o que expresamente le encomienden el Gobernador del Estado o el Secretario o el Subsecretario del ramo.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
 ###### Artículo 22.
 
-Para el despacho de los asuntos de su competencia, la Dirección del Sistema Estatal de Comunicaciones se auxiliara de las siguientes áreas administrativas:
-
-Departamento Operativo
-
-Departamento de Enlace
-
-Departamento de Servicios
-
-Departamento de Telefonía
-
-Departamento de Radiocomunicación (Microondas)
-
-Departamento Electromecánico
-
-Departamento de Mantenimiento de Radios en Mochis
-
-Departamento de Mantenimiento de Radios en Culiacán
-
-Departamento de Mantenimiento de Radios en Mazatlán
-
-Departamento de Red de Transportes
-
-Departamento de Programación
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 12 DE AGOSTO DE 2005)</small>
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE COORDINACIÓN CON ORGANISMOS FEDERALES, ESTATALES Y MUNICIPALES
+#### SECCIÓN I. DE LA DIRECCIÓN DE PROGRAMAS PREVENTIVOS
 
 ###### Artículo 22 Bis.
 
@@ -667,9 +651,11 @@ Departamento de Supervisión y Seguimiento de Programas Institucionales
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 12 DE AGOSTO DE 2005)</small>
 
+#### SECCIÓN II. DE LA DIRECCIÓN DE COORDINACIÓN CON ORGANISMOS FEDERALES, ESTATALES Y MUNICIPALES
+
 ###### Artículo 22 Bis 2.
 
-La Subsecretaría de Seguridad Pública y de Prevención y Readaptación Social coordinará los Centros de Ejecución de las Consecuencias Jurídicas del Delito y el Consejo Tutelar para Menores.
+La Subsecretaría de Seguridad Pública y de Prevención y Readaptación Social coordinará los Centros de Ejecución de las Consecuencias Jurídicas del Delito y los Centros de Tratamiento y Reinserción para Adolescentes.
 
 ### CAPÍTULO VI. DE LA SUBSECRETARÍA DE ESTUDIOS, PROYECTOS Y DESARROLLO
 
@@ -699,11 +685,21 @@ X. Diseñar y supervisar la aplicación de sistemas de control de las empresas q
 
 XI. Elaborar la cartografía de infracciones a los reglamentos gubernativos;
 
-XII. Apoyar la organización ciudadana para la seguridad; y,
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XIII. Las demás que le confiera (sic) las leyes, decretos, reglamentos, convenios, acuerdos, circulares o que expresamente le encomiende el Gobernador del Estado o el Secretario.
+XII. Apoyar la organización ciudadana para la seguridad;
 
-###### Artículo 24.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XIII. Instrumentar y someter a consideración del Secretario los programas de protección civil; y,
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
+
+XIV. Las demás que le confieran las leyes, decretos, reglamentos, convenios, acuerdos, circulares o que expresamente le encomiende el Gobernador del Estado o el Secretario.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+
+###### Articulo 24.
 
 A la Subsecretaría de Estudios, Proyectos y Desarrollo, estarán adscritas las siguientes unidades y áreas administrativas:
 
@@ -711,7 +707,11 @@ Dirección de Programas Preventivos
 
 Dirección de Coordinación con Organismos Federales, Estatales y Municipales
 
-Dirección de Estadísticas y Parámetros de Opinión
+Dirección de Protección Civil
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 25.
 
@@ -797,11 +797,59 @@ Para el despacho de los asuntos de su competencia, la Dirección de Coordinació
 
 Departamento del Registro Estatal de Servicios Policiales
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 15 DE FEBRERO DE 2008)</small>
+
+###### Artículo 28 Bis 1.
+
+Corresponde al Titular de la Dirección de Protección Civil el ejercicio de las siguientes atribuciones:
+
+I. Proponer, regular, conducir, ejecutar y vigilar las labores de protección civil en la Entidad, estableciendo las bases de coordinación para integrar la acción del Estado y los Municipios, proponiendo políticas, criterios y procedimientos; emitiendo recomendaciones, organizando y supervisando las actividades de los diversos participantes e interesados en la materia, a fin de garantizar la consecución de los objetivos del Sistema Estatal de Protección Civil del cual forman parte los Sistemas Municipales de Protección Civil;
+
+II. Conformar una Cultura de Protección Civil que convoque y sume el interés de la población, así como su participación individual y colectiva, fortaleciendo y ampliando los medios de participación de la comunidad;
+
+III. Dar permanencia y precisión a la coordinación entre los participantes en las tareas de protección civil, tanto en el cumplimiento interno de sus funciones, como en sus interrelaciones con los sectores público, privado, social y académico;
+
+IV. Establecer los mecanismos de prevención más adecuados aplicando los avances tecnológicos que permitan disminuir los efectos de los diferentes fenómenos destructivos;
+
+V. Prevenir y mitigar los daños que pueda ocasionar cualquier fenómeno perturbador que impacte a la población del Estado, de sus bienes, así como su medio ambiente;
+
+VI. Promover la realización de eventos a nivel estatal y municipal, en los que se proporcionen los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección, dirigidas a la mayor cantidad posible de personas;
+
+VII. Supervisar la ejecución de simulacros en los lugares de mayor afluencia de la población, tales como oficinas públicas, planteles educativos, edificios privados e instalaciones industriales, comerciales y de servicios;
+
+VIII. Realizar con la cooperación de los distintos medios de difusión masiva, campañas de divulgación sobre temas de protección civil, medidas de prevención y autoprotección, que contribuyan a la educación de la protección civil, fortaleciendo la participación activa de la sociedad;
+
+IX. Promover y coordinar proyectos de investigación para integrar acervos de información técnica y científica sobre fenómenos perturbadores que afecten o puedan afectar a la población, y que permitan a ésta un mayor conocimiento, así como la forma en que habrá de enfrentarlos en caso de ser necesario;
+
+X. Desarrollar y aplicar medidas, programas e instrumentos para fomentar, inducir e impulsar la participación económica de los sectores social y privado en la promoción de acciones de prevención, incluyendo los mecanismos normativos y administrativos;
+
+XI. Coordinar el desempeño de las Unidades Municipales de Protección Civil mediante visitas y reuniones, así como a través de los informes mensuales de actividades y los reportes diarios de incidentes relevantes que formulen estas entidades;
+
+XII. Solicitar a las Unidades Municipales de Protección Civil para su revisión y asesoría los planes municipales de contingencias; y,
+
+XIII. Las demás que le confieran las leyes, decretos, reglamentos, convenios, acuerdos, circulares o que expresamente le encomiende el Gobernador del Estado, el Secretario o el Subsecretarío del ramo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2008)</small>
+
+###### Artículo 28 Bis 2.
+
+Para el despacho de los asuntos de su competencia, la Dirección de Protección Civil, se auxiliará de las siguientes áreas administrativas:
+
+Departamento del Equipo Técnico-científico Especializado en el estudio, análisis y seguimiento de los agentes destructivos
+
+Departamento de Prevención y Capacitación
+
+Departamento de Asesoría e Inspección
+
+Departamento de Operaciones Emergentes
+
 ### CAPÍTULO VII. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 29.
 
-El Secretario de Seguridad Pública será suplido en sus ausencias por los Subsecretarios de Operaciones y Acciones Policiales o por el de Estudios, Proyectos y Desarrollo, en ese orden.
+El Secretario de Seguridad Pública será suplido en sus ausencias por los Subsecretarios de Seguridad Pública y de Prevención y Readaptación Social o por el de Estudios, Proyectos y Desarrollo, en ese orden.
 
 ###### Artículo 30.
 
@@ -844,3 +892,7 @@ EDGAR ARMANDO ACATA PANIAGUA
 P.O. 12 DE AGOSTO DE 2005.
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE FEBRERO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
