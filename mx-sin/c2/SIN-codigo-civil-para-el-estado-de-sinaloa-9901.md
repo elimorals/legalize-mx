@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2007-08-27"
+last_updated: "2008-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -439,7 +439,7 @@ Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, pero solicit
 
 ###### Artículo 62.
 
-Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
 ###### Artículo 63.
 
@@ -447,7 +447,7 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 ###### Artículo 64.
 
-Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho a que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
@@ -1101,7 +1101,7 @@ Bajo el régimen de adopción simple, el adoptante no puede contraer matrimonio 
 
 ###### Artículo 158.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que durante ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
 ###### Artículo 159.
 
@@ -1641,15 +1641,11 @@ Si al declararse la nulidad del matrimonio la mujer estuviere en cinta (sic), se
 
 ###### Artículo 264.
 
-Es ilícito pero no nulo el matrimonio:
-
-I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
-
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 158 y 289.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
 ###### Artículo 265.
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señala el Código de la materia.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
 ### CAPITULO X.
 
@@ -1849,19 +1845,15 @@ El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado 
 
 Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 288.
 
-En los casos de divorcio, el Juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+En los casos de divorcio, el Juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
 
 ###### Artículo 289.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
-
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, contados desde que se decretó el divorcio.
-
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
 ###### Artículo 290.
 
@@ -2375,13 +2367,17 @@ La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto, y la cuestión relativa a la paternidud (sic) se resolverá en el juicio contradictorio correspondiente.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 381.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá sobre él la patria potestad; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá la guarda y custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 382.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la guarda y custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
 ###### Artículo 383.
 
@@ -11753,7 +11749,7 @@ Si la concesión del plazo fue posterior al contrato, el comprador estará oblig
 
 ###### Artículo 2181.
 
-Cuando el comprador a plazo o con espera del precio fuere perturbado en su posesión o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
+Cuando el comprador a plazo o con espera del precio fuere perturbado en su posesión (sic) o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
 
 ###### Artículo 2182.
 
@@ -16080,3 +16076,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 27 DE AGOSTO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE FEBRERO DE 2008.
+
+DECRETO NUMERO 48 POR EL QUE SE DEROGAN LOS ARTICULOS 381 Y 382 DEL CODIGO CIVIL PARA EL ESTADO DE SINALOA.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE FEBRERO DE 2008.
+
+DECRETO NUMERO 49 POR EL QUE SE DEROGAN LOS ARTICULOS 62, 64, 158, 264, 265 Y 289; Y, SE REFORMA EL NUMERAL 288 DEL CODIGO CIVIL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
