@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-23619
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2001-12-21"
+last_updated: "2008-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY QUE REGULA LA VENTA, DISTRIBUCION Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2008.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 21 de diciembre de 2001.
 
@@ -405,7 +405,13 @@ e) Objeto de la visita y alcance de la misma, y
 
 f) Firma del funcionario autorizado que expide el documento y sello de la institución que ordena la visita.
 
-Cuando así se haya convenido en términos del artículo 4, de esta Ley los Ayuntamientos podrán practicar la visita a que se refiere el párrafo anterior, cumpliendo con las formalidades que al efecto se establecen en el mismo.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2008)</small>
+
+La Secretaría deberá dar trámite a cualquier petición o denuncia ciudadana acerca de hechos relativos a observaciones e infracciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2008)</small>
+
+Cuando así se haya convenido en términos del artículo 4, de esta Ley los Ayuntamientos podrán practicar la visita a que se refiere el párrafo primero del presente artículo, cumpliendo con las formalidades que al efecto se establecen en el mismo.
 
 ###### Artículo 24.
 
@@ -435,7 +441,9 @@ IV. Requerimiento al visitado para que designe a dos testigos y en ausencia o ne
 
 V. Descripción detallada de la documentación que se ponga a la vista del inspector;
 
-VI. Descripción circunstanciada de los hechos ocurridos durante la visita y las observaciones e infracciones descubiertas por el inspector, otorgándole el uso de la voz al visitado o a los terceros, en su caso, para que manifiesten lo que a su derecho convenga, y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2008)</small>
+
+VI. Descripción circunstanciada de los hechos ocurridos durante la visita y las observaciones e infracciones descubiertas por el inspector, otorgándole el uso de la voz al visitado o a los terceros, en su caso, para que manifiesten lo que a su derecho convengan. Si en la inspección del establecimiento encontrara menores de edad y que les fue permitida la entrada y/o la venta y/o consumo de bebidas alcohólicas, deberá consignar en el acta los nombres de los menores, de sus padres, tutores o custodios, sus direcciones y teléfonos. La Secretaría dará vista al Ministerio Público con una copia del acta respectiva; y
 
 VII. Lectura y cierre del acta, firmándola en todas sus fojas, las personas que en ella intervinieron.
 
@@ -492,6 +500,10 @@ Los menores de edad y las personas que no estén en pleno goce de sus facultades
 ###### Artículo 31.
 
 Queda estrictamente prohibida la venta y consumo de bebidas alcohólicas a menores de edad, a las personas que no estén en pleno goce de sus facultades mentales, a los que se encuentren en notorio estado de ebriedad, o bajo los efectos psicotrópicos, a personas armadas, así como a los elementos del ejército, armada y policía, que se presenten uniformados o en servicio, inspectores de los Ayuntamientos y de la Secretaría, en el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2008)</small>
+
+En el caso de los menores de edad, los padres, tutores o custodios podrán interponer denuncia ante la autoridad correspondiente o el Ministerio Público para que estas, soliciten el inicio del Procedimiento para la Aplicación de Sanciones, Revocación de la Licencia y Clausura establecido en los Capítulos IX y X de esta Ley, sin perjuicio de la aplicación de las sanciones penales, civiles o de otra naturaleza.
 
 ###### Artículo 32.
 
@@ -730,3 +742,11 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE FEBRERO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado de Tabasco.
+
+SEGUNDO. La Secretaría deberá de realizar las adecuaciones al Reglamento de esta Ley, en un plazo no mayor a 90 días.
