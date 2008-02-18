@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2007-07-23"
+last_updated: "2008-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -873,7 +873,9 @@ Corresponderá al Instituto, la promoción y elaboración de recomendaciones y c
 
 Los monumentos naturales se establecerán en áreas que contengan uno o varios elementos naturales, consistentes en lugares u objetos naturales, que por su carácter único o excepcional, interés estético, valor histórico o científico en el Estado, se resuelva incorporar a un régimen de protección absoluta. Tales monumentos no tienen la variedad de ecosistemas para ser incluidos en otra categoría de manejo.
 
-En los monumentos naturales únicamente podrá permitirse la realización de actividades relacionadas con su preservación, investigación científica, recreación y educación.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2008)</small>
+
+En los monumentos naturales únicamente podrá permitirse la realización de actividades relacionadas con su preservación, restauración, investigación científica, recreación, educación y el aprovechamiento sustentable de sus recursos naturales.
 
 ###### ARTICULO 63.
 
@@ -2230,3 +2232,9 @@ P.O. 23 DE JULIO DE 2007.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
