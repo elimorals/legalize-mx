@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2007-11-26"
+last_updated: "2008-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -1713,6 +1713,24 @@ V. Arresto hasta por treinta y seis horas, en términos del artículo 21 de la C
 
 VI. Pago al erario municipal del daño causado, sin perjuicio de las demás sanciones que procedan.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2008)</small>
+
+Las sanciones establecidas en las Fracciones II y V del presente Artículo podrán ser conmutadas voluntariamente por el infractor por servicio comunitario el cual deberá ser en el mismo número de horas que el arresto impuesto por el juez calificador.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2008)</small>
+
+###### Artículo 179 Bis.
+
+Para efectos del último párrafo del Artículo que antecede se consideran servicios comunitarios, la prestación voluntaria y gratuita de las siguientes actividades:
+
+I. Limpieza, pintura o restauración de los bienes dañados por el infractor o de inmuebles públicos propiedad del Municipio;
+
+II. Realización de obras de limpieza o jardinería en lugares de uso común; y
+
+III. Pláticas en beneficio de la comunidad, mismas que pueden ser relacionadas con el oficio o profesión que realice el infractor o en su caso que sean destinadas al bienestar social.
+
+La ejecución de los servicios comunitarios serán realizados en términos del Reglamento que al efecto emitan los Ayuntamientos del Estado.
+
 ###### Artículo 180.
 
 El procedimiento para la imposición de las sanciones señaladas en el artículo anterior, se seguirá ante la autoridad municipal competente para conocer del asunto, dando siempre oportunidad al infractor para que pruebe y alegue lo que a su derecho convenga.
@@ -1772,6 +1790,12 @@ P.O. 27 DE JUNIO DE 2005.
 UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE FEBRERO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
