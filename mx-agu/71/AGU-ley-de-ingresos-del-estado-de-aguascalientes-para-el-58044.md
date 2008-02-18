@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-58044"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2008-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2008
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2007.
 
@@ -1017,6 +1017,12 @@ Por los servicios que prestan las oficinas del Registro Público de la Propiedad
 
 A) Cuando represente o no interés pecuniario 250
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2008)</small>
+
+a) Relativos a Sociedades Mercantiles, ya sea
+
+que representen o no interés pecuniario 400
+
 B) Cuando en virtud de la inscripción a que
 
 se hace referencia en el inciso anterior se
@@ -1051,7 +1057,9 @@ por los actos a que se refieren los incisos
 
 anteriores. 800
 
-E) Si un mismo título o documento origine dos o más inscripciones relativas a los negocios jurídicos mencionados en el inciso inmediato anterior, los derechos se causarán por cada una de ellas, calculándose y pagándose en forma separada.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2008)</small>
+
+E) Si un mismo título o documento origina dos o más inscripciones relativas a los negocios jurídicos mencionados en el inciso inmediato anterior, los derechos se causarán por un solo documento.
 
 a) Por cada inscripción 800
 
@@ -31134,3 +31142,11 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE FEBRERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en Periódico Oficial del Estado.
