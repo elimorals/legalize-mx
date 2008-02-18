@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2008-02-15"
+last_updated: "2008-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE -ANTES CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE FEBRERO DE 2008 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2008.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE FEBRERO DE 2008.</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -991,11 +991,9 @@ Si al comenzar un período constitucional no se presentase el gobernador electo,
 
 Cuando la falta del Gobernador fuere temporal excediendo de sesenta días, el Congreso del Estado si estuviere reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure dicha falta.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PÁRRAFO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE FEBRERO DE 2008 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+(REFORMADO, P.O. 15 DE FEBRERO DE 2008) (F. DE E., P.O. 18 DE FEBRERO DE 2008)
 
 Las ausencias temporales del Gobernador hasta por quince días las suplirá el Secretario de Gobierno. Si la ausencia temporal excediese de quince días, pero fuera inferior a sesenta días, quedará encargado del Despacho del Poder Ejecutivo el Secretario de Gobierno o, en su defecto, el funcionario que el propio Gobernador designe de entre los titulares de las dependencias a que se refiere la Ley Orgánica de la Administración Pública del Estado. La suplencia a que este párrafo se refiere se comunicará, por escrito, para los efectos que (sic) haya lugar, a los representantes de los otros dos poderes locales.
 
@@ -1093,11 +1091,11 @@ a). Toda clase de actos y negocios jurídicos, ya sean administrativos o judicia
 
 b). Su participación en empresas industriales, agrícolas y mercantiles con el fin de impulsar la productividad y el desarrollo estatal;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEÁSE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 136 DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 136 DE REFORMAS.</small>
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XVI. Realizar actos traslativos de dominio respecto de los bienes que según las leyes pertenezcan al Estado, conforme a la Ley prevista en la fracción XXVIII del Artículo 54 de esta Constitución;
+XVI.- Realizar actos traslativos de dominio respecto de los bienes que según las leyes pertenezcan al Estado, conforme a la Ley prevista en la fracción XXVIII del Artículo 54 de esta Constitución;
 
 XVII.- Otorgar el Fíat para el ejercicio de la función Notarial;
 
@@ -1617,7 +1615,7 @@ c).- Si se es oriundo de otro Estado, tener residencia cuando menos de cinco añ
 
 No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad del otro Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1633,7 +1631,7 @@ III. Los que tuvieren mando de fuerza pública en el Municipio en que se realice
 
 IV. El padre en concurrencia con el hijo, el hermano en concurrencia con el hermano, el socio con su consocio y el patrón con su dependiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1677,7 +1675,7 @@ b) Gravar directa o indirectamente la entrada o salida de los mismos o el paso p
 
 c) Imponer contribuciones que no estén especificadas en las leyes fiscales del Municipio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1687,7 +1685,7 @@ Los municipios tendrán derecho para adquirir, poseer y administrar bienes inmue
 
 Los municipios podrán contratar empréstitos con apego a las disposiciones de la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1701,7 +1699,7 @@ Los ayuntamientos acordarán anualmente las remuneraciones para sus integrantes 
 
 Las funciones de control, evaluación y vigilancia de la aplicación de los recursos públicos de la administración pública municipal, corresponderá a las autoridades que determine la ley aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DELA PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
