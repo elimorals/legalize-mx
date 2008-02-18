@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2007-04-30"
+last_updated: "2008-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -577,25 +577,29 @@ El Presidente Municipal, los Regidores y Síndico que con causa justificada no p
 
 ### CAPITULO VIII. De las Comisiones
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 68.
 
-El H. Ayuntamiento nombrará las Comisiones a efecto de cumplir con las atribuciones y obligaciones que la ley le confiere al H. Ayuntamiento, se integran Comisiones Permanentes y serán las siguientes:
+El H. Ayuntamiento nombrará las Comisiones a efecto de cumplir con las atribuciones y obligaciones que la Ley le confiere al H. Ayuntamiento, se integran Comisiones Permanentes y serán las siguientes:
 
-l. Hacienda, Gobernación y Licencias Comerciales;
+I. Hacienda, Gobernación y Licencias Comerciales;
 
-II. Seguridad Pública y Tránsito y Agua Potable y Alcantarillado;
+II. Seguridad Pública y Tránsito;
 
-III. Mercados, Rastro, Parques y Jardines y Panteones;
+III. Alumbrado Público;
 
-IV. Educación Pública, Acción Cívica, Cultural y Deporte;
+IV. Mercados, Rastros, Parques y Jardines y Panteones;
 
-V. Desarrollo Social y Salubridad;
+V. Educación Pública, Acción Cívica, Cultura y Deporte;
 
-VI. Comisión de Obras Públicas Desarrollo Urbano y Rural y Alumbrado Público;
+VI. Desarrollo Social y Salud;
 
-VII. Protección al Medio Ambiente y Limpia;
+VII. Obras Públicas, Desarrollo Urbano y Rural;
 
-VIII. De Mejora Regulatoria, Simplificación, Transparencia e Innovación; y
+VIII. Agua Potable, Alcantarillado, Protección al Medio Ambiente y Limpia;
+
+IX. De Mejora Regulatoria, Simplificación, Transparencia e Innovación.
 
 Todas las que el H. Ayuntamiento considere necesarias para el cumplimiento de sus funciones.
 
@@ -3275,7 +3279,7 @@ Las dependencias generadoras de documentos deberán conservarlos en sus archivos
 
 ###### ARTICULO 262.
 
-La transferencia que se haga al Archivo Municipal, solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envío de materiales de deshecho (sic), muebles y equipo de oficina.
+La transferencia que se haga al Archivo Municipal, solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envío de materiales de deshecho(sic), muebles y equipo de oficina.
 
 ###### ARTICULO 263.
 
@@ -7757,7 +7761,7 @@ IV Dar un trato digno al animal y en su momento la atención clínica veterinari
 
 En el transporte de los animales capturados y que sean potencialmente transmisores de la rabia se deberán de cubrir los siguientes requisitos mínimos:
 
-I. El exterior del transporte deberá indicar que se transporta un animal sujeto a observación por ser sospechoso portador de rabia;
+l. El exterior del transporte deberá indicar que se transporta un animal sujeto a observación por ser sospechoso portador de rabia;
 
 II. Las jaulas deben estar separadas de la cabina;
 
@@ -15199,7 +15203,7 @@ XXIV. Servicios Administrativos: Es el inmueble en donde trabajan empleados púb
 
 Estos servicios se pueden ubicar en vialidades de tipo secundario y primario, los cuales también deberán contar con cajones de estacionamiento dentro de sus inmuebles, conforme lo señalan el Código Urbano y este Código;
 
-XXV. Servicios Mecánicos y de Mantenimiento Vehicular: Son los establecimientos que se dedican a realizar en su interior cualquier tipo de reparación o servicio de mantenimiento mecánico, eléctrico, de hojalatería, pintura, suspensión y llantas entre otros a maquinaria o vehículos de cualquier especie, independientemente de que su movimiento o funcionamiento sea impulsado por motores de combustión interna de cualquier tipo de combustible o que el mismo sea provocado por algún tipo de generador eléctrico.
+XXV: Servicios Mecánicos y de Mantenimiento Vehicular: Son los establecimientos que se dedican a realizar en su interior cualquier tipo de reparación o servicio de mantenimiento mecánico, eléctrico, de hojalatería, pintura, suspensión y llantas entre otros a maquinaria o vehículos de cualquier especie, independientemente de que su movimiento o funcionamiento sea impulsado por motores de combustión interna de cualquier tipo de combustible o que el mismo sea provocado por algún tipo de generador eléctrico.
 
 Entiéndase por esto a cualquier tipo de talleres de reparación, independientemente de la función mecánica o eléctrica que desempeñe el vehículo.
 
@@ -20246,3 +20250,9 @@ Ing. José Juan Aguiñaga Medina.
 P.O. 30 DE ABRIL DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 18 DE FEBRERO DE 2008.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
