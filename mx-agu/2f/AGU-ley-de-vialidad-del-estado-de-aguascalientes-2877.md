@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2006-12-18"
+last_updated: "2008-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -2461,6 +2461,14 @@ En los casos en que los residuos sean peligrosos, deberá solicitar el auxilio d
 
 37. Por realizar maniobras de arrastre de vehículos, utilizando cables, cadenas o cinturones de arrastre, que no garanticen la seguridad de los vehículos remolcados y/o la del tránsito que circula por la vía.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2008)</small>
+
+38. Utilizar teléfono celular o cualquier otro medio de comunicación móvil, mientras se esté conduciendo un vehículo automotor, a menos que esté provisto del aditamento de manos libres o de audífonos y que éstos se utilicen únicamente con un solo auricular.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2008)</small>
+
+39. Llevar encendida en la parte delantera de la cabina del vehículo, una pantalla reproductora de imágenes que impida la concentración del conductor.
+
 c) Vehículos de transporte público de pasajeros:
 
 1. No transitar por el carril derecho.
@@ -2886,3 +2894,9 @@ P.O. 18 DE DICIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
