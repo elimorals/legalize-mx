@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-del-estado-de-chiapas-para-el-ejercicio-57898"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-11-21"
-last_updated: "2007-12-28"
+last_updated: "2008-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2008
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -365,21 +365,19 @@ Subsidios. 2, 438,057
 
 Total 40, 382,448
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 2°.
 
-En los casos de prórroga para el pago de créditos fiscales se causarán recargos:
+En los casos de prórroga para el pago de créditos fiscales se causarán recargos al 2.0% mensual sobre los saldos insolutos, durante el año 2007. Esta tasa se reducirá, en su caso, a la que resulte mayor entre:
 
-I.- Al 0.75 por ciento mensual sobre los saldos insolutos.
+a) Aplicar el factor de 1.5 al promedio mensual de la Tasa de Interés Interbancaria de Equilibrio, (TIIE) que publica el Banco de México en el Diario Oficial de la Federación, del penúltimo mes inmediato anterior a aquél por el que se calculan los recargos y de dividir entre 12 el resultado de dicha multiplicación. A la tasa anterior se le restará el incremento porcentual del Índice Nacional de Precios al Consumidor del penúltimo mes inmediato anterior a aquél por el que se calculan los recargos; y,
 
-II.- Cuando de conformidad con el Código de la Hacienda Pública para el Estado de Chiapas, se autorice el pago a plazos, se aplicará la tasa de recargos que a continuación se establece, sobre los saldos y durante el periodo de que se trate:
+b) Sumar 8 puntos porcentuales al promedio mensual de la Tasa de Interés Interbancaria de Equilibrio (TIIE) que publica el Banco de México en el Diario Oficial de la Federación del penúltimo mes inmediato anterior a aquél por el que se calculan los recargos y de dividir entre 12 el resultado de dicha suma, a la tasa anterior se le restará el incremento porcentual del Índice Nacional de Precios al Consumidor del penúltimo mes inmediato anterior a aquél por el que se calculan los recargos.
 
-a) Tratándose de pagos a plazos en parcialidades hasta 12 meses, la tasa de recargos será del 1 por ciento mensual.
+La reducción a que se refiere el primer párrafo del presente artículo también será aplicable a los intereses a cargo del fisco estatal a que se refiere el artículo 51, del Código de la Hacienda Pública para el Estado de Chiapas.
 
-b) Tratándose de pagos a plazos en parcialidades de más de 12 meses y hasta de 24 meses, la tasa de recargos será de 1.25 por ciento mensual.
-
-c) Tratándose de pagos a plazos en parcialidades superiores a 24 meses, así como tratándose de pagos a plazo diferido, la tasa de recargos será de 1.50 por ciento mensual.
-
-Las tasas de recargos establecidas en la fracción II, de este artículo, incluyen la actualización.
+La Secretaría por conducto de sus áreas correspondientes, realizará los cálculos a que se refiere este artículo y publicará la tasa de recargos vigente para cada mes en el Periódico Oficial del Estado.
 
 ###### Artículo 3°.
 
@@ -407,19 +405,19 @@ Cuando se trate de operaciones derivadas del programa para el financiamiento de 
 
 Los contribuyentes que realicen el pago del derecho por renovación anual de tarjeta de circulación, señalado en la Ley Estatal de Derechos, en los meses de enero y febrero, gozarán sobre el importe de éste una reducción del 20% y 10% respectivamente.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 8°.
 
-Los propietarios de vehículos automotores en las modalidades de automóvil y camión del servicio particular, que hayan adquirido placas durante los meses de noviembre y diciembre del año 2007; al realizar el canje de placas 2008, gozarán de un descuento del 50% sobre el costo total de las mismas, siempre que éste, se efectué durante el mes de marzo de 2008.
+Los propietarios de vehículos automotores en las modalidades de automóvil y camión del servicio particular, que hayan adquirido placas durante los dos meses anteriores al inicio de la vigencia del programa de canje respectivo que emita la Secretaría de Finanzas, conforme a la normatividad aplicable, gozarán de un descuento del 50% sobre el costo total de las mismas.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 9°.
 
-Los contribuyentes que realicen el canje de placas durante los meses de marzo y abril de 2008, gozarán sobre el importe de este derecho, una reducción del 20% y 10% respectivamente.
+Los contribuyentes que realicen el canje de placas dentro de los dos primeros meses a la fecha de inicio del programa respectivo, gozarán de una reducción, para el primer mes del 20%, y del 10% para el segundo mes, sobre el importe de este derecho.
 
-Esta reducción no se hará aplicable para aquellos contribuyentes que obtengan el descuento del 50%, otorgado en el artículo anterior.
+Esta reducción no será aplicable para aquellos contribuyentes que obtengan el descuento del 50%, otorgado en el artículo anterior.
 
 ## Transitorios
 
@@ -444,3 +442,11 @@ Artículo Primerio (sic).- El presente Decreto entrará en vigor el día primero
 Artículo Segundo.- Las reformas a los artículos 171, 278, 278-A, 278-B, 422, 423, 425 y 433 del Código de la Hacienda Pública para el Estado de Chiapas; 38 y 42 de la Ley Orgánica Municipal, y 1, 2, 3 y 128, así como las adiciones de los artículos 129 y 130, el Titulo Séptimo «Ingresos Derivados de la Coordinación Fiscal», de la Ley de Hacienda Municipal, entrarán en vigencia al día siguiente de su publicación.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2008.
+
+Primero.- El presente de Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Decreto.
+
+Tercero.- Como consecuencia del contenido de la presente reforma, se suspende el canje de placas en el Estado, en los términos establecidos en el Decreto No. 110, publicado en el Periódico Oficial del Estado No. 071, Tomo III, de fecha 28 de diciembre de 2007.
