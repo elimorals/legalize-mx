@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-contraloria-municipal-del-56086"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-22"
-last_updated: "2007-06-22"
+last_updated: "2008-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA CONTRALORÍA MUNICIPAL DEL AYUNTAMIENTO DE CUERNAVACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 22 de junio de 2007.
 
@@ -91,9 +91,11 @@ Sin que la aplicación de estas medidas deba ser en ese orden.
 
 La representación de la Contraloría Municipal, el trámite y resolución de los asuntos de su competencia corresponden originalmente al Contralor Municipal, quien para la atención y despacho de los mismos podrá delegar atribuciones en servidores públicos subalternos, sin perjuicio de su ejercicio directo excepto aquellas que por disposición de la Ley o de este Reglamento deban ser ejercidas personalmente por él.
 
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 7.
 
-El Contralor Municipal tendrá las atribuciones conferidas por la Ley Orgánica Municipal del Estado de Morelos, la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, y demás disposiciones relativas y aplicables tanto jurídicas como administrativas, las cuales ejercerá conforme a las necesidades del servicio, pero no podrá delegar en servidores públicos subalternos las siguientes funciones:
+El Contralor Municipal tendrá las atribuciones conferidas por la Ley Orgánica Municipal del Estado de Morelos, la Ley Estatal de Responsabilidades de los Servidores Públicos, en adelante “la ley de la materia”, y demás disposiciones relativas y aplicables tanto jurídicas como administrativas, las cuales ejercerá conforme a las necesidades del servicio, pero no podrá delegar en servidores públicos subalternos las siguientes funciones:
 
 I.- Controlar, organizar, inspeccionar y coordinar los sistemas de prevención, vigilancia y evaluación del gobierno municipal;
 
@@ -213,7 +215,9 @@ El dictamen también se notificará al servidor público que estuvo en funciones
 
 X.- Proponer a los titulares de las dependencias que le competan, las acciones y medidas preventivas y correctivas que se consideren pertinentes derivadas de sus auditorías y revisiones;
 
-XI.- Turnar a la Dirección de Prevención y Responsabilidades, los expedientes relativos a las auditorías o revisiones, que se hayan llevado a cabo, para el desahogo del procedimiento administrativo de fincamiento de responsabilidades, si de éstos se desprende alguna irregularidad que deba ser sancionada de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XI.- Turnar a la Dirección de Prevención y Responsabilidades, atendiendo los requisitos que señala la ley de la materia, los expedientes relativos a las auditorías o revisiones, que se hayan llevado a cabo, para el desahogo del procedimiento administrativo correspondiente en materia de responsabilidades, si de éstos se desprende alguna irregularidad que deba ser sancionada de acuerdo a la ley de referencia, y
 
 XII.- Las demás que expresamente le encomiende el titular de la Contraloría Municipal.
 
@@ -245,7 +249,9 @@ X.- Proponer al Contralor Municipal la realización de revisiones a las unidades
 
 XI.- Informar al Contralor Municipal sobre el cumplimiento del programa anual de trabajo de las Contralorías Internas;
 
-XII.- Turnar a la Dirección de Prevención y Responsabilidades, los expedientes relativos a las revisiones que haya llevado a cabo, para el desahogo del procedimiento administrativo de fincamiento de responsabilidades, si de éstas se desprende alguna irregularidad que deba ser sancionada de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XII.- Turnar a la Dirección de Prevención y Responsabilidades, atendiendo los requisitos que señala la ley de la materia, los expedientes relativos a las revisiones que haya llevado a cabo, para el desahogo del procedimiento administrativo correspondiente en materia de responsabilidades, si de éstas se desprende alguna irregularidad que deba ser sancionada de acuerdo a la Ley de referencia, y
 
 XIII.- Las demás que expresamente le encomiende el Contralor Municipal.
 
@@ -255,7 +261,9 @@ DE LA DIRECCIÓN DE PREVENCIÓN Y RESPONSABILIDADES
 
 El Director de Prevención y Responsabilidades, tendrá las siguientes atribuciones:
 
-I.- Proponer al Contralor Municipal, las políticas y lineamientos relacionados con la prevención, atención e investigación de quejas y denuncias, así como la substanciación de los procedimientos de fincamiento de responsabilidad administrativa de los Servidores Públicos municipales;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+I.- Proponer al Contralor Municipal, las políticas y lineamientos relacionados con la prevención, atención e investigación de quejas y denuncias, así como la substanciación de los procedimientos administrativos correspondientes en materia de responsabilidades, en contra de los servidores públicos municipales;
 
 II.- Implementar programas para dar a conocer a los servidores públicos del municipio los deberes que deben cumplir en el desempeño de su cargo;
 
@@ -263,21 +271,33 @@ III.- Formular recomendaciones a los titulares de las unidades administrativas, 
 
 IV.- Coordinar y controlar el sistema de atención de quejas y denuncias del municipio, orientando los trabajos que en esta materia efectúen los órganos de control interno de las dependencias municipales;
 
-V.- Recibir las quejas o denuncias, en contra de servidores públicos municipales, por el incumplimiento de los deberes que impone el artículo 27 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, en caso de que sean en contra de servidores públicos de elección popular, deberá proceder en términos de la Ley Orgánica Municipal del Estado de Morelos vigente;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+V.- Recibir las quejas o denuncias, en contra de servidores públicos municipales, por el incumplimiento de los deberes que impone el artículo 27 de la Ley de la materia, en caso de que sean en contra de servidores públicos de elección popular, deberá proceder en términos de la Ley Orgánica Municipal del Estado de Morelos vigente;
 
 VI.- Canalizar por instrucciones del Contralor Municipal a los órganos de control interno de las dependencias, las quejas y denuncias en los que se encuentren involucrados los servidores públicos de las mismas;
 
-VII.- Solicitar la ratificación de las quejas o denuncias presentadas por escrito y en su caso, pedir la ampliación o aclaración de las mismas;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+VII.- Dentro de la investigación, solicitar la ratificación de las quejas o denuncias presentadas por escrito y en su caso, pedir la ampliación o aclaración de las mismas;
 
 VIII.- Llevar a cabo el procedimiento de investigación de las quejas y denuncias, para lo cual podrá solicitar la comparecencia de los servidores públicos involucrados en la investigación, así como de las personas ajenas a la administración municipal, cuya declaración sea necesaria para el esclarecimiento de los hechos;
 
-IX.- Resolver sobre la procedencia de la queja o denuncia, emitiendo la determinación correspondiente, la cual podrá hacer del conocimiento del denunciante o quejoso y en su caso, al servidor público involucrado y al superior jerárquico;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-X.- Turnar al superior jerárquico del presunto responsable, el expediente de investigación de la queja o denuncia, siempre que ésta haya sido determinada procedente, a efecto de que inicie el procedimiento administrativo de fincamiento de responsabilidades;
+IX.- Resolver, dentro de la investigación, sobre la procedencia de la queja o denuncia, emitiendo la determinación correspondiente, la cual podrá hacer del conocimiento del denunciante o quejoso y en su caso, al servidor público involucrado y al superior jerárquico;
 
-XI.- Substanciar y resolver en los términos de la ley de la materia, los procedimientos administrativos de fincamiento de responsabilidades, en contra de los servidores públicos municipales, siempre que no sean de elección popular;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-XII.- Notificar al servidor público, al titular de la dependencia de su adscripción y al área de recursos humanos del municipio, el resultado del procedimiento administrativo de fincamiento de responsabilidades, incoado en su contra;
+X.- Cuando la normatividad aplicable así lo señale, turnar al superior jerárquico del presunto responsable, el expediente de investigación de la queja o denuncia, siempre que ésta haya sido determinada procedente, a efecto de que inicie el procedimiento administrativo correspondiente en materia de responsabilidades;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XI.- Substanciar y resolver en los términos de la ley de la materia, los procedimientos administrativos correspondientes en materia de responsabilidades, en contra de los servidores públicos municipales, siempre que no sean de elección popular;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XII.- Notificar al servidor público, al titular de la dependencia de su adscripción y al área de recursos humanos del municipio, el resultado del procedimiento administrativo correspondiente en materia de responsabilidades, incoado en su contra;
 
 XIII.- Hacer del conocimiento por sí o a través del Contralor Municipal, a los órganos de control del Poder Ejecutivo y Legislativo del Estado de Morelos, las sanciones impuestas a los servidores públicos de la Administración Pública Municipal, una vez que hayan causado ejecutoria;
 
@@ -305,15 +325,17 @@ II.- Evaluar y verificar en la dependencia a la cual se encuentran asignados, el
 
 III.- Verificar que la actuación de la dependencia a la cual se encuentren asignados se apegue a la legalidad, lealtad y probidad en el desempeño de sus funciones;
 
-IV.- Por instrucciones del Contralor Municipal recibir las quejas y denuncias formuladas en contra de los servidores públicos de la dependencia de su asignación, estando facultados para solicitar su ratificación, substanciarlas, emitir las determinaciones que en derecho procedan y turnarlas al superior jerárquico o a la Dirección de Prevención y Responsabilidades, todo esto, de conformidad a lo que señala el artículo 12, fracciones VII, VIII, IX y X del presente ordenamiento.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+IV.- Por instrucciones del Contralor Municipal recibir las quejas y denuncias formuladas en contra de los servidores públicos de la dependencia de su asignación, estando facultados para solicitar su ratificación, substanciarlas, emitir las determinaciones que en derecho procedan y turnarlas a la Dirección de Prevención y Responsabilidades, y en su caso al superior jerárquico, todo esto, de conformidad a lo que señala el artículo 12, fracciones VII, VIII, IX y X del presente ordenamiento.
 
 V.- Planear, organizar, coordinar, supervisar y dirigir las actividades del área a su cargo;
 
 VI.- Emitir observaciones y recomendaciones en asuntos de su competencia; así como proponer al Director de Seguimiento, la actualización o adecuación a la normatividad vigente para el buen desempeño de la administración municipal;
 
-VII.- Vigilar la aplicación y cumplimiento de las sanciones que dicte el superior jerárquico, o la Dirección de Prevención y Responsabilidades, a los servidores públicos de la dependencia en donde se encuentren asignados, por incumplimiento de sus obligaciones.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-Asimismo podrá dar seguimiento a las recomendaciones que emita la Dirección de Prevención y Responsabilidades, así como a los procedimientos administrativos que en materia de responsabilidad desahoguen los superiores jerárquicos, llevando a cabo las diligencias que al efecto considere necesarias;
+VII.- Vigilar la aplicación y cumplimiento de las sanciones que dicte la Dirección de Prevención y Responsabilidades o en su caso, el superior jerárquico, a los servidores públicos de la dependencia en donde se encuentren asignados, por incumplimiento de sus obligaciones. Asimismo podrá dar seguimiento a las recomendaciones que emita la Dirección de Prevención y Responsabilidades, y cuando proceda, a los procedimientos administrativos que en materia de responsabilidad desahoguen los superiores jerárquicos, llevando a cabo las diligencias que al efecto considere necesarias;
 
 VIII.- Acordar con el Director de Seguimiento el despacho de los asuntos que le competen;
 
@@ -331,7 +353,9 @@ XIV.- Requerir, suscribir y proporcionar a las unidades administrativas que inte
 
 XV.- Llevar a cabo las diligencias necesarias a fin de investigar y en su caso comparar la información proporcionada por los funcionarios públicos, con la de los particulares, con el objeto de corroborar su autenticidad, levantando el acta circunstanciada correspondiente;
 
-XVI.- Turnar a la Dirección de Prevención y Responsabilidades, los expedientes relativos a las revisiones que haya llevado a cabo, para el desahogo del procedimiento administrativo de fincamiento de responsabilidades, si de éstas se desprende alguna irregularidad que deba ser sancionada de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XVI.- Turnar a la Dirección de Prevención y Responsabilidades, los expedientes relativos a las revisiones que haya llevado a cabo, para el desahogo del procedimiento administrativo correspondiente en materia de responsabilidades, si de éstas se desprende alguna irregularidad que deba ser sancionada de acuerdo a la Ley de la materia;
 
 XVII.- Requerir y proporcionar la información relativa a sus revisiones e investigaciones de otras dependencias municipales, a través de Contralor Interno de la dependencia de que se trate;
 
@@ -369,7 +393,9 @@ V.- Citar a los servidores públicos implicados en las investigaciones, auditor�
 
 VI.- Substanciar las investigaciones de las quejas y denuncias, de conformidad a lo que señala el artículo 12 fracciones VII, VIII, IX y X del presente Reglamento, imponiendo las sanciones disciplinarias, siempre y cuando no correspondan al superior jerárquico;
 
-VII.- Remitir a la Dirección de Prevención y Responsabilidades los asuntos en que se determine iniciar el fincamiento de responsabilidades;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+VII.- Remitir a la Dirección de Prevención y Responsabilidades los asuntos en que se determine iniciar el procedimiento administrativo correspondiente en materia de responsabilidades;
 
 VIII.- Participar en los Subcomités de Adquisiciones de la entidad u organismo en la cual esté adscrito;
 
@@ -467,7 +493,9 @@ e).- A más tardar dentro de los treinta días siguientes a la discusión final 
 
 f).- En caso de existir elementos suficientes que acrediten probable responsabilidad administrativa de servidores públicos y habiéndose notificado la determinación del Comité de Solventación, por conducto del Presidente del Comité se remitirá el expediente original a la Dirección de Prevención y Responsabilidades para que inicie el procedimiento administrativo de responsabilidad con la finalidad de dar cumplimiento a lo dispuesto por el artículo 86 fracción VI de la Ley Orgánica Municipal del Estado de Morelos, y
 
-g).- Deberán anexarse al expediente original que se envíe a la Dirección de Prevención y Responsabilidades, el número de juegos de copias de traslado equivalentes al número de servidores públicos considerados como probables responsables, de las cédulas de observaciones expedidas por los encargados de realizar las auditorías, así como de las actuaciones realizadas por el Comité de Solventación para efecto de que se practique el emplazamiento.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
+
+g).- Deberán anexarse al expediente original que se envíe a la Dirección de Prevención y Responsabilidades, el número de juegos de copias de traslado equivalentes al número de servidores públicos considerados como probables responsables, de las cédulas de observaciones expedidas por los encargados de realizar las auditorías, así como de las actuaciones realizadas por el Comité de Solventación para efecto de que se practique el emplazamiento, debiendo cumplir en su caso con los requisitos que señale el artículo 43 en relación con el artículo 4 de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ### CAPÍTULO VIII. DE LAS SUPLENCIAS
 
@@ -578,3 +606,15 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE FEBRERO DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano informativo que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Acuerdo.
+
+TERCERO.- Como lo mandata el Artículo Cuarto Transitorio de la Ley Estatal de Responsabilidades de los Servidores Públicos, los procedimientos de responsabilidad administrativa que se encuentren en trámite, así como las causas que le de origen, deberán ajustarse a las reglas previstas por la legislación vigente al día de su inicio o incumplimiento, hasta su conclusión definitiva.
+
+CUARTO.- En consecuencia, la reglamentación municipal se aplicará en la misma forma y términos señalados en el artículo que antecede, teniendo las autoridades que la norma o regla prevean, las facultades necesarias para su actuación, hasta la conclusión de los procedimientos de fincamiento de responsabilidades en trámite.
