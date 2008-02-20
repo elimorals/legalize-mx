@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2007-12-28"
+last_updated: "2008-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -139,6 +139,8 @@ Acacoyagua, Acapetahua, Aldama, Altamirano, Amatán, Amatenango de la Frontera, 
 
 #### Sección Primera. Servicios que Presta la Dirección del Registro Civil del Estado
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL DECRETO NO. 153, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2008, LA ESTRUCTURA DEL PRESENTE ARTICULO HA SIDO MODIFICADA, QUEDANDO INTEGRADO POR VEINTE FRACCIONES.</small>
+
 ###### Artículo 12.
 
 Los derechos que se cobran por los servicios que brinda la Dirección del Registro Civil del Estado, relativos a los actos del estado civil de las personas, se sujetarán por cada uno de los actos o conceptos a las siguientes tarifas:
@@ -197,43 +199,49 @@ municipal en días y horas inhábiles. 45.3 35.7
 
 XII. Divorcios administrativos. 35.1 25.4
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
 XIII. Certificada de actas del estado civil, cuando
 
-tenga datos concretos o búsqueda manual o
+tenga datos concretos, expedida mediante base de
 
-constancia de inexistencia. 2.0 1.2
+datos o búsqueda manual o constancia de
+
+inexistencia. 1.5 1.0
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
 XIV. Certificada o constancia de inexistencia de
 
-actas del estado civil cuando tengan datos
-
-concretos, expedida mediante búsqueda manual. 1.5 1.0
-
-XV. Certificada o constancia de inexistencia de
-
-actas del estado civil sin datos concretos periodo
+actas del estado civil sin datos concretos período
 
 de búsqueda hasta 5 años mediante búsqueda
 
 manual en oficialía y archivo. 2.5 1.5
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XV. Certificada o constancia de inexistencia de
+
+actas del estado civil sin datos concretos, período
+
+de búsqueda de más de 5 años hasta 15 años
+
+búsqueda manual en oficialía y archivo. 3.0 2.0
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
 XVI. Certificada o constancia de inexistencia de
 
 actas del estado civil sin datos concretos, período
 
-de búsqueda de más de 5 años hasta 15 años,
+de búsqueda de más de 15 años búsqueda manual
 
-búsqueda manual en oficialía y archivo. 3.0 2.0
+en oficialía y archivo. 4.0 3.0
 
-XVII. Certificada o constancia de inexistencia de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-actas del estado civil sin datos concretos, período
-
-de búsqueda de más de 15 años, búsqueda
-
-manual en oficialía y archivo. 4.0 3.0
-
-XVIII. Inscripción de sentencias ejecutorias que
+XVII. Inscripción de sentencias ejecutorias que
 
 declaren la ausencia, presunción de muerte,
 
@@ -243,7 +251,9 @@ administrar bienes y tutela o sentencias judiciales
 
 o resoluciones administrativas. 5.0 3.0
 
-XIX. Constancia de extemporaneidad; certificación
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XVIII. Constancia de extemporaneidad; certificación
 
 de fotocopias de resoluciones administrativas de
 
@@ -259,9 +269,13 @@ actas del estado civil de libro original o por libro
 
 duplicado. 1.5 1.0
 
-XX. Trámite administrativo de aclaración de actas. 0.5 0.5
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-XXI. Inserción de actas del estado civil, adquirido
+XIX. Trámite administrativo de aclaración de actas. 0.5 0.5
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XX. Inserción de actas del estado civil, adquirido
 
 por mexicanos en el extranjero. 7.0 5.3
 
@@ -295,9 +309,19 @@ legal no puedan conservar la propiedad de los
 
 bienes dados en pago o adjudicados. 15.5
 
-II. Por la inscripción de documentos por lo que se
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-constituyan servidumbres o usufructos vitalicios. 8.5
+II. Por la inscripción de:
+
+a) Documentos por los que se constituyan
+
+servidumbres o usufructos vitalicios. 8.5
+
+b) Por la cancelación de documentos por
+
+los que se constituyan servidumbres o
+
+usufructos vitalicios. 8.5
 
 III. Por la inscripción de:
 
@@ -305,13 +329,19 @@ a) Contratos u operaciones de crédito o mutuo con
 
 garantía hipotecaria o prendaria. 20.5
 
-b) Contratos u operaciones de crédito o mutuo
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
 
-con garantía hipotecaria o prendaria que se
+b) Contratos u operaciones de crédito o
 
-destinen al financiamiento de la vivienda de interés
+mutuo con garantía hipotecaria o prendaria
 
-social o al financiamiento de la producción agrícola. 8.5
+y de cobertura que se destinen al
+
+financiamiento de la vivienda de interés
+
+social o al financiamiento de la producción
+
+agrícola. 8.5
 
 IV. Por la inscripción de los convenios que modifiquen
 
@@ -365,11 +395,13 @@ consten fianzas, contrafianzas u obligaciones
 
 solidarias con el fiador. 21.5
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
 XIII. Por la cancelación de inscripciones derivadas
 
 de los contratos, actos u obligaciones mencionados
 
-en la fracción XI, de este artículo. 13.5
+en la fracción XII, de este artículo. 13.5
 
 XIV. Por la inscripción de cada acto
 
@@ -536,6 +568,58 @@ Si en un mismo documento se consignan diversos actos o contratos registrables, s
 XXIX. Por la devolución de documentos a solicitud
 
 del interesado. 7.0
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXX. Por la inscripción de:
+
+a) De documentos por los que se
+
+constituyan asociaciones civiles,
+
+sociedades cooperativas, sociedades
+
+de solidaridad social, sociedades rurales,
+
+sociedades mercantiles comprendidas
+
+en la Ley Federal para el Fomento de la
+
+Microindustria y otro tipo de personas
+
+morales distintas de las señaladas en
+
+las fracciones XIV y XV. 10.5
+
+b) De actas de asamblea o de
+
+sesiones de los órganos de administración
+
+de las sociedades, asociaciones o personas
+
+morales señaladas en el inciso anterior. 6.5
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXI. Por inscripción de la Patente de Notario
+
+Público Titular, Adjunto, Sustituto y por cambio
+
+de Adscripción. 8.5
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXII. Por inscripción de actos de cesión
+
+onerosa de crédito y derechos litigiosos. 20.5
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXIII. Por la cancelación de las inscripciones
+
+derivadas de los actos mencionados de la
+
+fracción anterior. 10.5
 
 ###### Artículo 14.
 
@@ -957,19 +1041,35 @@ de la tenencia de la tierra. 2.0
 
 b) En los demás casos. 3.0
 
-III. Verificación de avalúos efectuados por peritos
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-autorizados por la Secretaría de Finanzas; sobre
+III. Por la verificación de avalúo efectuados
 
-el valor total del bien inmueble objeto del avalúo,
+por peritos autorizados por la Secretaría de
 
-de acuerdo a lo siguiente: 2.0 al millar
+Finanzas, de conformidad con el valor del
 
-El pago de este derecho deberá ser enterado antes de la presentación del avalúo ante las autoridades catastrales, tomando en consideración el valor consignado en el mismo.
+inmueble objeto del avalúo, de acuerdo a lo
 
-En ningún caso el importe a pagar, podrá ser
+siguiente:
 
-inferior a: 4.0
+a) De $00.001.00 hasta $100.000.00 5.0
+
+b) De $101.000.00 hasta $250.000.00 15.0
+
+c) De $251.000.00 hasta $500.000.00 20.0
+
+d) De $501.000.00 hasta $1,000.000.00 25.0
+
+e) De $1,001,000.00 en adelante 30.0
+
+El pago de este derecho deberá ser enterado
+
+antes de la presentación del avalúo ante las
+
+autoridades catastrales. En ningún caso el
+
+importe a pagar, podrá ser inferior a: 4.0
 
 IV. Expedición de constancias y reportes catastrales, por predio:
 
@@ -998,6 +1098,16 @@ con los que se registró catastralmente un predio,
 por cada predio, en fotostática, hasta 20 hojas. 2.5
 
 Por hoja adicional se cobrarán $5.00.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 2008)</small>
+
+Por certificación de los documentos a que se
+
+refiere esta fracción, hasta 20 hojas. 6.5
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 2008)</small>
+
+Por hoja certificada adicional se pagará $5.00.
 
 VII. Expedición de plano catastral de predio urbano
 
@@ -1379,27 +1489,41 @@ a) Invitación Abierta. 10.0
 
 #### Sección Primera. Servicios que Presta la Dirección de Sanidad
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
+
 ###### Artículo 29.
 
-Los derechos por los servicios que presta la Secretaría del Campo, a través de la Dirección de Sanidad, causarán de la siguiente forma por cada uno de los conceptos o servicios:
+Las Uniones y Asociaciones Ganaderas pagarán los derechos por los servicios que presta la Secretaría del Campo, a través de la Dirección de Sanidad, los cuales se causarán por cada uno e los conceptos o servicios de la forma siguiente:
+
+Servicio Pesos
+
+I. Por la expedición de guías de tránsito
+
+para la movilización de semovientes,
+
+productos y subproductos para
+
+comercialización, se pagará: $ 5.00
+
+II. Por la expedición de guías de tránsito
+
+para la movilización de semovientes, se
+
+pagará: $ 5.00
 
 Servicio Tarifa
 
 S.M.D.V.E.
 
-I. Por la expedición de la guía de movilización de semovientes se pagará:
-
-a) Por semoviente. 0.25
-
-II. Por la acreditación de:
+III. Por la acreditación de:
 
 a) Oficial de Inspectoría Pecuaria. 8.0
 
-b) Oficial de Inspectoría Pecuaria en Centro de
+b) Oficialía de Inspección Pecuaria en
 
-Sacrificios. 8.0
+Centros de Sacrificios. 8.0
 
-c) Inspectores pecuarios. 8.0
+c) Inspectores Pecuarios. 8.0
 
 ### Capítulo V. Derechos por Servicios que Presta la Secretaría de Seguridad y Protección Ciudadana
 
@@ -1509,7 +1633,9 @@ b) Chofer. 26.0
 
 c) Automovilista. 17.0
 
-d) Motociclista. 11.0
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
+
+d) Motociclista. 8.0
 
 IV. Por expedición de licencia por 5 años:
 
@@ -1519,7 +1645,9 @@ b) Chofer. 32.0
 
 c) Automovilista. 21.0
 
-d) Motociclista. 8.0
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
+
+d) Motociclista. 11.0
 
 V. Por reexpedición de licencias por 2 años:
 
@@ -1615,6 +1743,8 @@ riesgos. 25.0
 
 #### Sección Primera. Servicios que Presta la Dirección de Concesiones y Autorizaciones
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL DECRETO NO. 153, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2008, LA ESTRUCTURA DEL PRESENTE ARTICULO HA SIDO MODIFICADA, QUEDANDO INTEGRADO POR TREINTA Y OCHO FRACCIONES.</small>
+
 ### Capítulo VI. Derechos por Servicios que Presta la Secretaría de Transportes
 
 ###### Artículo 33.
@@ -1641,25 +1771,23 @@ condiciones de seguridad y de comodidad en la
 
 modalidad de moto taxis (revisión mecánica). 1.5
 
-III. Por la expedición de copias simples de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-documentos de archivos, excepto de concesiones,
-
-permisos o autorizaciones, hasta 20 hojas; 2.5
-
-Por hoja adicional se pagará $ 2.00.
-
-IV. Por constancia pericial para determinar las
+III. Por constancia pericial para determinar las
 
 condiciones de seguridad y de comodidad de
 
 mototaxis (revisión mecánica). 1.5
 
-V. Por la expedición de constancias de concesión
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+IV. Por la expedición de constancias de concesión
 
 y holograma (provisional y/o definitivo). 3.5
 
-VI. Por constancia para determinar las condiciones
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+V. Por constancia para determinar las condiciones
 
 de seguridad y de comodidad de los vehículos
 
@@ -1671,11 +1799,15 @@ por reexpedición de tarjetón de identificación
 
 para conductores de transporte público. 5.0
 
-VII. Por la expedición de constancias de no
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+VI. Por la expedición de constancias de no
 
 infracción. 5.0
 
-VIII. Por expedición de tarjetón de tarifas oficiales
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+VII. Por expedición de tarjetón de tarifas oficiales
 
 para el cobro de pasaje; por la reposición o
 
@@ -1683,7 +1815,9 @@ revalidación del certificado de aptitud de operador
 
 de transporte público. 3.0
 
-IX. Por certificación de documentos, excepto de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+VIII. Por certificación de documentos, excepto de
 
 concesiones, autorizaciones o permisos hasta
 
@@ -1691,7 +1825,9 @@ concesiones, autorizaciones o permisos hasta
 
 Por hoja adicional se pagará $ 5.00.
 
-X. Por expedición de permisos de zona para el
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+IX. Por expedición de permisos de zona para el
 
 transporte público de carga; en las modalidades
 
@@ -1701,33 +1837,43 @@ exprés y de servicio mixto de carga y pasaje con
 
 capacidad de hasta 3 toneladas. 12.0
 
-XI. Por el refrendo anual de permisos de zona para
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+X. Por el refrendo anual de permisos de zona para
 
 el transporte público de carga; en las modalidades
 
 de vehículos cerrados para el transporte de carga
 
-exprés y de servicio mixto de carga y pasaje con
+exprés y, de servicio mixto de carga y pasaje con
 
-capacidad de hasta 3 tonelada (sic). 6.0
+capacidad de hasta 3 toneladas. 6.0
 
-XII. Por la expedición de permiso temporal de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XI. Por la expedición de permiso temporal de
 
 sustitución de vehículos del servicio público de
 
 pasaje y carga por 30 días. 9.0
 
-XIII. Por expedición de certificado de aptitud de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XII. Por expedición de certificado de aptitud de
 
 operador de transporte público. 10.0
 
-XIV. Por expedición de permisos de zona en las
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XIII. Por expedición de permisos de zona en las
 
 modalidades de bajo tonelaje; acarreo de materiales
 
 para la construcción a granel. 16.0
 
-XV. Por refrendo anual de permisos de zona en
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XIV. Por refrendo anual de permisos de zona en
 
 las modalidades de bajo tonelaje; acarreo de
 
@@ -1739,13 +1885,17 @@ de cobro anterior por concepto de expedición de
 
 permiso de zona. 8.0
 
-XVI. Por expedición de autorizaciones o permisos
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XV. Por expedición de autorizaciones o permisos
 
 para la explotación del servicio de transporte, en las
 
 modalidades de bicicletas, triciclos y motocicletas. 8.0
 
-XVII. Expedición de títulos de concesión para el
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XVI. Expedición de títulos de concesión para el
 
 servicio de transporte público de vehículos cerrados
 
@@ -1753,13 +1903,17 @@ de carga exprés; servicio mixto de carga y pasaje
 
 con capacidad de hasta 3 toneladas. 17.0
 
-XVIII. Expedición de títulos de concesión para el
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XVII. Expedición de títulos de concesión para el
 
 servicio del transporte público en las modalidades
 
 de bajo tonelaje y volteos. 23.0
 
-XIX. Expedición del permiso de ruta o zona para
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XVIII. Expedición del permiso de ruta o zona para
 
 las modalidades de transporte de pasajeros
 
@@ -1771,7 +1925,9 @@ combi); automóviles de alquiler taxis, autobuses
 
 y minibuses urbanos o foráneos. 30.0
 
-XX. Refrendo anual del permiso de ruta o zona
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XIX. Refrendo anual del permiso de ruta o zona
 
 para las modalidades de transporte de pasajeros
 
@@ -1783,13 +1939,17 @@ combi); automóviles de alquiler taxis, autobuses
 
 y minibuses urbanos o foráneos. 15.0
 
-XXI. Expedición del permiso de ruta o zona de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XX. Expedición del permiso de ruta o zona de
 
 vehículos de carga en general de bajo y alto
 
 tonelaje. 23.0
 
-XXII. Refrendo anual del permiso de ruta o
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXI. Refrendo anual del permiso de ruta o
 
 zona para las modalidades de transporte de
 
@@ -1801,7 +1961,9 @@ vanette o van; automóviles de alquiler taxis,
 
 autobuses y microbuses urbanos o foráneos. 11.5
 
-XXIII. Por la expedición de las autorizaciones de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXII. Por la expedición de las autorizaciones de
 
 vehículos para el transporte de personal a campo
 
@@ -1809,7 +1971,9 @@ y empresas, transporte especial en las modalidades
 
 de ambulancia, carroza o transporte escolar. 23.0
 
-XXIV. Por la revalidación anual de las
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXIII. Por la revalidación anual de las
 
 autorizaciones de vehículos para el transporte
 
@@ -1819,7 +1983,9 @@ especial en las modalidades de ambulancia,
 
 carroza o transporte escolar. 11.5
 
-XXV. Por la expedición de la autorización de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXIV. Por la expedición de la autorización de
 
 vehículos para el transporte especial en las
 
@@ -1827,13 +1993,17 @@ modalidades de pipas y centro de aprendizaje
 
 de conducción vehicular. 70.0
 
-XXVI. Por la expedición de la autorización de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-vehículos para el transporte especial en las
+XXV. Por la expedición de la autorización de
 
-modalidad (sic) de grúa. 100.0
+vehículos para el transporte especial en las (sic)
 
-XXVII. Por la revalidación anual o permisos
+modalidad de grúa. 100.0
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXVI. Por la revalidación anual o permisos
 
 de vehículos para el transporte especial en las
 
@@ -1841,17 +2011,23 @@ modalidades de pipas, centro de aprendizaje
 
 de conducción vehicular y grúas. 35.0
 
-XXVIII. Por la expedición de permisos de paso
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXVII. Por la expedición de permisos de paso
 
 o penetración para el transporte federal de pasaje. 12.0
 
-XXIX. Por la revalidación anual de permisos de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXVIII. Por la revalidación anual de permisos de
 
 paso o penetración para el transporte federal de
 
 pasaje. 6.0
 
-XXX. Por expedición de título de regularización
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXIX. Por expedición de título de regularización
 
 de concesiones para cualquier modalidad, por
 
@@ -1859,9 +2035,11 @@ reposición, cambio de modalidad, estatalización
 
 del servicio o por cambio de adscripción. 60.0
 
-XXXI. Por la expedición de títulos de concesión
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-para el servicio del transporte público, urbano;
+XXX. Por la expedición de títulos de concesión
+
+para el servicio del transporte público; urbano
 
 y foráneo en las modalidades de autobuses,
 
@@ -1871,7 +2049,9 @@ vagoneta (modalidad combi) y automóviles de
 
 alquiler taxis. 60.0
 
-XXXII. Por la expedición de títulos de concesión
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXI. Por la expedición de títulos de concesión
 
 para el servicio de transporte público de carga
 
@@ -1879,7 +2059,9 @@ en modalidades de transporte de carga
 
 especializada y alto tonelaje. 55.0
 
-XXXIII. Revalidación anual del permiso o
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXII. Revalidación anual del permiso o
 
 autorización para la prestación del servicio
 
@@ -1887,7 +2069,9 @@ de transporte especial de carga y pasaje en
 
 bicicletas con remolque, triciclos o motocicletas. 6.0
 
-XXXIV. Por integración de expediente de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXIII. Por integración de expediente de
 
 regularización de concesiones en cualquier
 
@@ -1895,7 +2079,9 @@ modalidad, específicamente por cesión o
 
 transferencia de derechos. 5.0
 
-XXXV. Por expedición de títulos de regularización
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXIV. Por expedición de títulos de regularización
 
 de concesiones en cualquier modalidad por
 
@@ -1911,17 +2097,17 @@ marca el Reglamento General de la misma
 
 Ley en su artículo 203. 100.0
 
-XXXVI. Por la expedición de constancias de no
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-infracción. 5.0
-
-XXXVII. Por la autorización de reposición de
+XXXV. Por la autorización de reposición de
 
 placas de servicio público de transporte de carga
 
 y pasaje en cualquiera de sus modalidades. 100.0
 
-XXXVII. Por la autorización de reposición de la
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXVI. Por la autorización de reposición de la
 
 tarjeta de circulación de servicio público de
 
@@ -1929,11 +2115,15 @@ transporte de carga y pasaje en cualquiera de
 
 sus modalidades. 20.0
 
-XXXIX. Por expedición de constancia del estado
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXVII. Por expedición de constancia del estado
 
 que guarda un expediente en el archivo. 1.0
 
-XL. Por pago de derechos por la integración de
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+
+XXXVIII. Por pago de derechos por la integración de
 
 expediente para solicitar una concesión. 6.0
 
@@ -2582,3 +2772,11 @@ Artículo Primero.- El presente Decreto entrará en vigor el día primero de ene
 Artículo Segundo.- Las reformas a los artículos 171, 278, 278-A, 278-B, 422, 423, 425 y 433 del Código de la Hacienda Pública para el Estado de Chiapas; 38 y 42 de la Ley Orgánica Municipal, y 1, 2, 3 y 128, así como las adiciones de los artículos 129 y 130, el Título Séptimo «Ingresos Derivados de la Coordinación Fiscal», de la Ley de Hacienda Municipal, entrarán en vigencia al día siguiente de su publicación.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2008.
+
+Primero.- El presente de Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la (sic) presente Decreto.
+
+Tercero.- Como consecuencia del contenido de la presente reforma, se suspende el canje de placas en el Estado, en los términos establecidos en el Decreto No. 110, publicado en el Periódico Oficial del Estado No. 071, Tomo III, de fecha 28 de diciembre de 2007.
