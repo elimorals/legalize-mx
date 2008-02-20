@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-de-la-mujer-para-el-59884"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-12"
-last_updated: "2006-04-12"
+last_updated: "2008-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 2006.
 
@@ -419,7 +419,7 @@ X. Sistematizar los criterios de interpretación y aplicación de las disposicio
 
 XI. Participar en la elaboración de acuerdos, contratos y convenios con la federación, entidades federativas, municipios y organismos del sector privado y social, para el desarrollo y operación de los programas de intercambio de experiencias y conocimientos;
 
-XII. Substanciar los procedimientos de responsabilidad administrativa de los servidores públicos del Instituto en los términos de la legislación aplicable;
+XII. (DEROGADA, P.O. 20 DE FEBRERO DE 2008)
 
 XIII. Participar en coordinación con la Dirección General y las demás Subdirecciones, en la elaboración de los programas y del presupuesto del Instituto;
 
@@ -530,3 +530,9 @@ EL SECRETARIO DE GOBIERNO
 C. GERMÁN CASTAÑÓN GALAVIZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE FEBRERO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
