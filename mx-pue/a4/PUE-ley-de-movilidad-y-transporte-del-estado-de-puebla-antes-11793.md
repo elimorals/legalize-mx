@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2007-12-31"
+last_updated: "2008-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA -- ANTES LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA --
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2008 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE FEBRERO DE 2008 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2007.</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -489,7 +489,7 @@ Giro Restringido, es aquél que se presta en vehículos que requieren tener cond
 
 Los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de cumplir con lo establecido en la presente Ley, cuando así lo requiera la autoridad competente, deberán acreditar la vigencia de la concesión o del permiso correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 36.
 
@@ -623,7 +623,7 @@ Para que las personas físicas o morales obtengan la concesión del Servicio Pú
 
 Las concesiones y permisos, así como los derechos en ellos conferidos a que hace referencia esta Ley y su reglamento, se consideran bienes fuera de comercio, no obstante lo cual, podrán ser otorgados en garantía para la obtención de financiamiento que sea destinado a la renovación del propio parque vehicular de los servicios público y mercantil de transporte, previa autorización de la Secretaría.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -809,7 +809,7 @@ Las personas físicas que aspiren a prestar el Servicio Público de Transporte, 
 
 Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgarán el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico que al efecto realice la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 70.
 
@@ -1271,7 +1271,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de marzo de mil novecientos noventa y ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE ENERO DE 2001.
 
