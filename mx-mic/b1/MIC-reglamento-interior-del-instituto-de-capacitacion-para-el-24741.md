@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-de-capacitacion-para-el-24741
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-31"
-last_updated: "2001-12-31"
+last_updated: "2008-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2008.
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -51,21 +51,29 @@ II. El Director General: El Director General del Instituto de Capacitación para
 
 III. La Junta Directiva: La Junta Directiva del Instituto de Capacitación para el Trabajo del Estado de Michoacán.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 3º.
 
-Para el estudio, planeación y despacho de los asuntos que le compete, así como el cumplimiento de su objeto y de sus funciones, el Instituto contará con las siguientes áreas administrativas:
+Para el estudio, planeación y despacho de los asuntos que le competen, el Instituto contará con las unidades administrativas siguientes:
 
 I. LA DIRECCION GENERAL.
 
-a) Asesor Jurídico.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+
+a) Unidad Jurídica.
 
 II. DIRECCION DE PLANEACIÓN Y EVALUACIÓN.
 
 III. DIRECCIÓN TÉCNICO-ACADÉMICA.
 
-IV. DIRECCIÓN DE VINCULACIÓN CON EL SECTOR PRODUCTIVO.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
 
-V. SUBDIRECCIÓN DE ADMINISTRACIÓN.
+IV. DIRECCIÓN DE VINCULACIÓN CON EL ENTORNO.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+
+V. DIRECCIÓN DE ADMINISTRACIÓN; Y,
 
 VI. DE LOS DIRECTORES DE PLANTELES.
 
@@ -119,15 +127,25 @@ XIX. Establecer, operar y supervisar los sistemas de control necesarios para alc
 
 XX. Ejecutar los acuerdos que dicte la Junta Directiva;
 
-XXI. Suscribir en su caso, los contratos colectivos e individuales que regulen las relaciones laborales del Instituto con sus trabajadores, de conformidad con las disposiciones aplicables; y,
+XXI. Suscribir en su caso, los contratos colectivos e individuales que regulen las relaciones laborales del Instituto con sus trabajadores, de conformidad con las disposiciones aplicables; y, (sic)
 
-XXII. Las demás necesarias para el cumplimiento del objeto y funciones del Instituto, las que ordene el Gobernador del Estado o las que señalen otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
 
-### CAPÍTULO III. DEL ASESOR JURÍDICO
+XXII. Promover el establecimiento de un Sistema de Calidad Total en donde se busque la acreditación y certificación de los procesos y las competencias laborales del personal, de acuerdo a las posibilidades económicas del Instituto; y,
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2008)</small>
+
+XXIII. Las demás que le señale la Junta y otras disposiciones normativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO III. DE LA UNIDAD JURÍDICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 6º.
 
-El asesor jurídico tendrá las siguientes funciones:
+La Unidad Jurídica tendrá las siguientes funciones:
 
 I. Representar legalmente al Director General, a las áreas administrativas, y por mandato de este a la Institución;
 
@@ -251,25 +269,35 @@ VIII. Las demás necesarias para el cumplimiento de las funciones del Instituto,
 
 El titular de esta Dirección será auxiliado por los servidores públicos que requieran las necesidades del servicio, de conformidad con el presupuesto del Instituto y los manuales de organización y operación y demás disposiciones aplicables.
 
-### CAPÍTULO VII. DE LA DIRECCIÓN DE VINCULACIÓN CON EL SECTOR PRODUCTIVO
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO VII. DE LA DIRECCIÓN DE VINCULACIÓN CON EL ENTORNO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 13.
 
-La Dirección de Vinculación con el Sector Productivo tendrá las siguientes funciones:
+La Dirección de Vinculación con el Entorno tendrá las siguientes funciones:
 
 I. Proponer al Director General las normas y lineamientos que regulen las actividades de vinculación y comunicación social, entre el Instituto y los sectores público, social y privado;
 
 II. Realizar las actividades de coordinación de los intercambios interinstitucionales con los diversos sectores de la población, tendientes a elevar la calidad de los servicios de capacitación;
 
-III. Apoyar a las cooperativas de producción de los planteles del Instituto;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
 
-IV. Fomentar en los capacitandos la calidad y excelencia a través de la creación de círculos de estudio;
+III. Coadyuvar con las autoridades correspondientes en las actividades de impulso al desarrollo económico, mediante el fomento al empleo, a través de acciones de capacitación emprendedora del Instituto;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+
+IV. Propiciar en los capacitandos la calidad, la excelencia y la mejora continua en la formación para el trabajo, fomentando en ellos una cultura de superación personal y de actitud emprendedora;
 
 V. Promover la aplicación de un sistema de seguimiento de egresados e informar periódicamente del mismo al Director General;
 
 VI. Establecer un sistema de bolsa de trabajo en coordinación con los sectores público, social y privado, para canalizar la mano de obra egresada de los planteles a los centros de trabajo o a auto emplearse;
 
-VII. Participar en la formación de los patronatos, de los comités técnicos consultivos de vinculación y de los comités de solidaridad, para el óptimo funcionamiento y cumplimiento de las funciones del Instituto; y,
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+
+VII. Integrar los patronatos consultivos de vinculación, para el óptimo funcionamiento y cumplimiento de los compromisos del Instituto; y,
 
 VIII. Las demás necesarias para el cumplimiento de las funciones del Instituto, las que le ordene el Director General o señalen otras disposiciones aplicables.
 
@@ -337,15 +365,23 @@ VIII. Cumplir con el desarrollo de todas las actividades relacionadas con su pla
 
 IX. Las demás necesarias para el cumplimiento de las funciones del Instituto, las que le ordene el Director General o señalen otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2008)</small>
+
+El Instituto podrá contar con planteles y acciones móviles autorizadas mediante anexo de ejecución, que se requieran para el cumplimiento de sus objetivos, conforme a los estudios de factibilidad y la capacidad presupuestal del Instituto, los cuales, en su caso, se realizarán a través de la suscripción de convenios con las instancias correspondientes.
+
 ### CAPÍTULO X. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 18.
 
-En sus ausencias temporales, el Director General será suplido por el titular de la Dirección de Planeación y Evaluación, y a falta de este por el Subdirector Técnico Académico.
+En caso de ausencia temporal, el Director General será suplido por los directores conforme al orden dispuesto en la estructura orgánica establecida en el artículo 3° del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 19.
 
-Las faltas temporales de los titulares de las diferentes direcciones serán suplidas por los titulares de los departamentos que señalen.
+En las faltas temporales de los titulares de las direcciones, éstos serán suplidos por los jefes de departamento conforme al organigrama del Instituto y al orden establecido en el mismo, de izquierda a derecha.
 
 ## ARTÍCULO TRANSITORIO
 
@@ -354,3 +390,15 @@ Las faltas temporales de los titulares de las diferentes direcciones serán supl
 Morelia, Michoacán, a 17 de diciembre de 2001.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- LIC. VÍCTOR MANUEL TINOCO RUBÍ.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. JUAN BENITO COQUET RAMOS.- SECRETARIO DE GOBIERNO.- C.P. OSCAR A. MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMINISTRATIVO.- PROFESOR WILFRIDO LÁZARO MEDINA.- DIRECTOR GENERAL DEL ICATMI. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE FEBRERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones administrativas en lo que se opongan al presente Decreto.
