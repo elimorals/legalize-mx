@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-peluquerias-salon-de-belleza-y-esteticas-del-5078
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-02"
-last_updated: "2006-06-02"
+last_updated: "2008-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PELUQUERIAS, SALON DE BELLEZA Y ESTETICAS DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de junio de 2006.
 
@@ -55,21 +55,47 @@ DISPOSICIONES GENERALES.
 
 Las disposiciones contenidas en este reglamento son de Orden Público y se expiden con fundamento en lo previsto por los Artículos 115, Fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 113 Fracciones I y II, inciso II de la Constitución Política de los Estado de Nuevo León; 160 y 162 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León. Para los efectos del presente Reglamento, se considerarán como peluquerías, salones de belleza y estéticas, los establecimientos en que se presten al público servicios de esa índole.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 2.
 
-Para abrir al servicio público de peluquería, un salón de belleza o una estética se requerirá licencia de la Presidencia Municipal, la que solicitará el interesado, debiendo contar con anticipación con la licencia de uso de suelo y uso de edificación, independientemente de los demás requisitos que establezcan los ordenamientos municipales, señalará los siguientes datos:
+Para abrir al servicio público de peluquería, un salón de belleza o una estética se requerirá licencia, la cual será solicitada ate la Dirección de Comercio, autorizada por el Presidente Municipal en turno, previo análisis llevado a cabo por los miembros integrantes de la Comisión de Comercio emitiendo el visto bueno para su aprobación, debiendo contar con anticipación con la licencia de uso de suelo uso de edificación, independientemente de los demás requisitos que establezcan los ordenamientos municipales, señalará los siguientes datos:
 
-a) Nombre y domicilio del propietario del establecimiento.
+Nombre y domicilio del propietario del establecimiento.
 
-b) Ubicación del establecimiento.
+Ubicación del establecimiento.
 
-c) Categoría en que se considere comprendido el establecimiento.
+Categoría en que se considere comprendido el establecimiento.
 
-d) Si es propietario de otras peluquerías, salones de belleza o estéticas establecidos en el Municipio.
+Si es propietario de otras peluquerías, salones de belleza o estéticas establecidos en el Municipio.
 
 ###### ARTÍCULO 3.
 
 Las licencias son intrasmisibles; en caso de transmisión del inmueble el adquiriente tendrá un plazo de quince días para solicitar, a la Presidencia Municipal para que le autorice una nueva licencia al nuevo adquiriente quien deberá reunir los requisitos señalados en el presente Reglamento. En caso de que dentro de este plazo, el adquiriente no realice el trámite mencionado, quedará cancelada la licencia anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2008)</small>
+
+El costo de la licencia de operación para los negocios que regula el presente Reglamento, se deberá cubrir conforme a los metros cuadrados del establecimiento, debiendo apegarse al siguiente criterio:
+
+Metros cuadrados cuotas
+
+De 0 a 40 m2 35 cuotas
+
+De 41 m2 a 60 m2 48 cuotas
+
+De 61 m2 o más 85 cuotas
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2008)</small>
+
+En caso de que sea aprobada una solicitud de licencia de un negocio cuyos metros cuadrados sean de 30 m2 o menos, se podrá efectuar el pago de la licencia en parcialidades.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2008)</small>
+
+Los negocios anteriormente mencionados (peluquerías, estéticas y salones de belleza), tendrá que refrendar su licencia de operación año con año teniendo un costo de 35 salarios mínimos vigentes en el Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2008)</small>
+
+ARTÍCULO 3 BIS.- En caso de fallecimiento del titular de la licencia, a petición de parte interesada, la cual deberá constar por escrito, se podrá llevar a cabo el cambio de titular, siempre y cuando el beneficiario sea el cónyuge.
 
 ###### ARTÍCULO 4.
 
@@ -220,3 +246,11 @@ PRESIDENTE MUNICIPAL.
 LIC. REFUGIO MACIAS MUÑOZ.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE FEBRERO DE 2008.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal y en el Periódico Oficial del Estado por ser de interés general de la ciudadanía.
