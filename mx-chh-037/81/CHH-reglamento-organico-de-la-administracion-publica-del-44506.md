@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2007-05-09"
+last_updated: "2008-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -401,7 +401,7 @@ III. Dirección de Catastro.
 
 IV. Dirección de Contabilidad.
 
-V. Dirección de Informática.
+V. (DEROGADA, P.O. 23 DE FEBRERO DE 2008)
 
 ###### Artículo 29.
 
@@ -423,7 +423,7 @@ El Director de Contabilidad llevará el registro de los ingresos y egresos munic
 
 ###### Artículo 33.
 
-El Director de Informática, tendrá a su cargo el mantenimiento, control y vigilancia de los sistemas de cómputo que utilizan las Dependencias para el desarrollo de sus labores.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2008)
 
 SECRETARIA DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIUDADANA
 
@@ -1339,7 +1339,7 @@ El Secretario de Comunicación Social procurará la identificación de la activi
 
 El Coordinador de Atención Ciudadana de Zaragoza, atenderá directamente a los ciudadanos de la zona urbana Oriente-Zaragoza y de los poblados cercanos que forman parte del municipio, para promover su participación en los planes, programas y acciones que lleve a cabo la Administración en beneficio de esas comunidades; coordinándose para ello con las Dependencias correspondientes.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 101.
 
@@ -1349,7 +1349,7 @@ I. Coordinar la formulación del Plan Municipal de Desarrollo y la elaboración 
 
 II. Establecer la coordinación de los programas de desarrollo del Gobierno Municipal con los de los Gobiernos Estatal y Federal;
 
-III. Analizar e Integrar las propuestas de inversión que formulen las dependencias y entidades de la Administración Pública Municipal;
+III. Analizar e integrar las propuestas de inversión que formulen las dependencias y entidades de la Administración Pública Municipal;
 
 IV. Evaluar la relación que guarden los programas y presupuestos de las diversas dependencias y entidades de la Administración Pública Municipal, así como los resultados de su ejecución, con los objetivos y metas del Plan Municipal de Desarrollo y sus programas operativos anuales;
 
@@ -1361,7 +1361,19 @@ VII. Cumplir con la normatividad en materia de planeación y programación del d
 
 VIII. Participar en los programas de inversión que así determine la Tesorería, la que autorizará en su caso la afectación presupuestal correspondiente;
 
-IX. Las demás que le encomienden el Presidente Municipal, el ayuntamiento, este reglamento, otras disposiciones legales y reglamentarias, y manuales de organización.
+IX. Tendrá a su cargo el mantenimiento, control y vigilancia de los sistemas de cómputo que utilizan las Dependencias para el desarrollo de sus labores;
+
+X. Solicitar a los titulares de las dependencias y organismos, así como a los miembros del Honorable Ayuntamiento, la información necesaria para dar cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y demás disposiciones que de la misma deriven;
+
+XI. Organizar y clasificar, la información que reciba;
+
+XII. Garantizar el fácil acceso, localización y consulta de la información que tenga bajo su custodia;
+
+XIII. Garantizar la protección de los datos personales en posesión del Municipio;
+
+XIV. Preparar la automatización, presentación y contenido de la información, para que se integre a la red de información mundial conocida como Internet;
+
+XV. Las demás que le encomienden el Presidente Municipal, el Ayuntamiento, este Reglamento, otras disposiciones legales, reglamentarias y manuales de organización.
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2006)</small>
 
@@ -1406,3 +1418,9 @@ EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 9 DE MAYO DE 2007.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 23 DE FEBRERO DE 2008.
+
+PRIMERO.- Se autoriza realizar las adecuaciones necesarias, al Presupuesto de Egresos para el Ejercicio Fiscal del año 2006, con la finalidad de cumplir con las modificaciones al Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua.
+
+SEGUNDO.- Las modificaciones al presente Reglamento Orgánico entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
