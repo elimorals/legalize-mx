@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-7835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2003-11-22"
+last_updated: "2008-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 8 de febrero de 1995.
 
@@ -1073,13 +1073,31 @@ La divulgación o emisión publicaciones, imágenes o escenas vinculadas directa
 
 ### CAPITULO III. NUTRICION
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
+
 ###### Art. 97.
 
-El gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos así como de los sectores social y privado.
+El gobierno del Estado, a través de la Secretaría de Salud formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos así como de los sectores social y privado.
+
+La Secretaria de Salud del Estado establecerá campañas que promuevan el consumo de alimentos preparados con grasas monosaturadas, polinsaturadas, ricos en fibra y bajos en grasas saturadas, ácidos grasas trans y colesterol, a fin de disminuir la probabilidad de desarrollo de complicaciones de obesidad, síndrome metabólico y ateroesclerosis.
+
+La Secretaria de Salud del Estado deberá desarrollar programas de fomento sanitario sobre el problema que representan para la salud el uso de las grasas trans, promoviendo la participación de los sectores públicos, sociales y privados relacionados con el uso de las grasas trans.
+
+La Secretaria de Salud en coordinación con la Secretaría de Educación, desarrollarán acciones tendientes a desalentar en los niños el consumo de alimentos poco nutritivos como: golosinas, frituras y alimentos de bajo valor nutricional, fomentando el consumo de verduras y frutas, mediante la recomendación a la población en general y a los padres de familia durante las asambleas ordinarias que se lleven a cabo en las escuelas.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2008)</small>
+
+Art. 97 bis.- Queda prohibida la venta de alimentos y golosinas preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasas hidrogenados en su forma trans, dentro de las escuelas, de educación básica, centros de recreación y deporte de niños y adolescentes, en guarderías y centros de desarrollo infantil, y cualquier otro establecimiento escolar que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niños y adolescentes, asimismo se prohíbe la instalación de maquinas expendedoras de productos industrializados (alimentos y bebidas).
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2008)</small>
+
+Art. 97 bis 1.- Las escuelas de educación básica, guarderías, centro de desarrollo infantil, y cualquier otro establecimiento escolar que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niños y adolescentes, deberán fomentar el deporte al aire libre todos los días en las escuelas, cuando menos durante 15 minutos diarios.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
 
 ###### Art. 98.
 
-En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
+En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional con valor nutritivo, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
 ### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -1677,11 +1695,21 @@ Art. 157 bis 3.- La Secretaría de Salud en coordinación con las autoridades en
 
 La Secretaría de Salud del Gobierno del Estado, ejercerá la verificación y control sanitarios de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas y alcohólicas, en Estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con las normas que al efecto emita la Secretaría de Salud del Gobierno Federal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2008)</small>
+
+La Secretaría de Salud del Estado deberá promover ante los expendedores de alimentos, la necesidad de sustituir los productos que contengan grasas trans, reconociendo públicamente aquellas que dejen de utilizar estas grasas, mediante constancias que se ubiquen a la vista publica.
+
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 Art. 158 bis.- La Secretaría de Salud del Gobierno del Estado, ejercerá la verificación y control sanitarios de los establecimientos semifijos y/o ambulantes que expendan o suministren al público alimentos, bebidas no alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con la normas que al efecto emita la autoridad sanitaria competente.
 
-Asimismo, la Secretaría de Salud, verificará que toda bebida alcohólica ostente en los envases, la leyenda: "EI abuso en el consumo de este producto es nocivo para la salud" y la relativa a la licencia o registro sanitario, las cuales deberán estar escritas con letras fácilmente legibles, en colores contrastantes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2008)</small>
+
+La Secretaría de Salud, verificará que toda bebida alcohólica ostente en los envases, la leyenda: “El abuso en el consumo de este producto es nocivo para la salud” y la relativa a la licencia o registro sanitario, las cuales deberán estar escritas con letra fácilmente legibles en colores contrastantes.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
+
+Asimismo, verificará que los establecimientos que expendan alimentos preparados ricos en carbohidratos, grasas saturadas de origen animal, colesterol en cantidades superiores a 100 miligramos por ración promedio y grasas de origen vegetal en su forma sólida por hidrogenación artificial que contengan ácidos grasos trans deberán exhibir la leyenda: "los alimentos preparados en este establecimiento contienen carbohidratos y grasas que pueden ser nocivos para la salud" en lugar claramente visible en las listas o cartas de alimentos y menús, con letra roja del doble de tamaño de la letra usada para enlistar dichos alimentos.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
@@ -3106,3 +3134,7 @@ Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al
 Artículo Tercero.- El titular del Poder Ejecutivo del Estado en uso de sus facultades, dentro del plazo de ciento veinte días a partir de la entrada en vigor de este Decreto, deberá expedir o en su caso reformar las disposiciones reglamentarias de la Ley de Salud del Estado o las que sean necesarias para ajustarlas al presente Decreto.
 
 Artículo Cuarto.- De igual manera el Ejecutivo Estatal y los ayuntamientos deberán dar inicio a las acciones que con motivo de las reformas y adiciones contenidas en el presente Decreto, se derivan del mismo, en un plazo no mayor a ciento veinte días, a partir de su entrada en vigor.
+
+P.O. 23 DE FEBRERO DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
