@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2007-05-02"
+last_updated: "2008-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -10337,21 +10337,25 @@ Efectos de la inscripción
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 1313.
 
-Aviso al Registro Público de la Propiedad
+Avisos Notariales al Registro Público de la Propiedad.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, solicitará al Registro Público certificado sobre la existencia o inexistencia de gravámenes en relación con dichos derechos.
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el Notario que la autorice dará al Registro Público de la Propiedad un aviso en el que conste el bien de que se trate; la indicación de que se ha transmitido o modificado su dominio o se ha constituido, modificado o extinguido un derecho real sobre ella; los nombres de los interesados en la operación; la fecha de la escritura y la de su firma; e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro Público de la Propiedad.
+En dicha solicitud, que surtirá efectos de Primer Aviso Preventivo, deberá mencionar el o los tipos de acto o contrato y el o los inmuebles de que se trate, los nombres de los contratantes y el respectivo antecedente registral.
 
-El registrador, con el aviso del Notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad.
+El registrador, con esta solicitud y sin cobro de derechos por este concepto practicará, inmediatamente la nota de presentación en la parte respectiva del folio correspondiente, nota que tendrá vigencia por un término de treinta días hábiles a partir de la fecha de presentación de la solicitud.
 
-Si dentro de los dos meses siguientes a la fecha en que se hubiere firmado la escritura se presenta el testimonio respectivo, su inscripción surtirá efecto contra terceros desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo primero, el notario o autoridad ante quien se otorgó dará un Segundo Aviso Preventivo al Registro Público, acerca de la operación de que se trate, dentro de las cuarenta y ocho horas siguientes, que estarán incluidas dentro de los treinta días hábiles y contendrá además de los datos mencionados en el párrafo anterior, el número, volumen y la fecha de la escritura, así como la de su firma.
 
-Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+El registrador, con el Segundo Aviso citado y sin cobro de derecho alguno, practicará u ordenará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días hábiles a partir de la fecha de presentación del Segundo Aviso Preventivo. Si éste se da dentro del término de treinta días hábiles a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el párrafo primero; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere cualquiera de las autoridades de que habla la fracción III del artículo 1304, a excepción del registrador de la propiedad, y el mencionado aviso producirá los mismos efectos anteriormente citados.
+Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los términos que señalan los párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del Aviso y con arreglo a su número de entrada. Si el documento se presentare, fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
+
+El segundo aviso preventivo quedará sin efecto si el testimonio no es inscrito por causa imputable al notario, siempre y cuando no haya fenecido el término de noventa días a que se refiere ese artículo.
 
 ###### ARTICULO 1314.
 
@@ -25334,6 +25338,12 @@ El correspondiente Decreto entrará en vigor al día siguiente de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Los juicios de registro extemporáneo de actas del estado civil, que al momento de la entrada en vigor del correspondiente Decreto estén en trámite, continuarán su procedimiento hasta su total conclusión ante la autoridad jurisdiccional que conoce de los mismos.
+
+P.O. 23 DE FEBRERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
