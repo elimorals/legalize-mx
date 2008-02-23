@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-procuraduria-general-de-justicia-del-19189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2006-12-13"
+last_updated: "2008-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 30 de diciembre de 2000.
 
@@ -71,9 +71,19 @@ VI. Realizar estudios, desarrollar programas de prevención del delito y fomenta
 
 VII. Proporcionar la protección de los derechos de las víctimas de la conducta delictiva, del ofendido o de sus derechohabientes;
 
-VIII. Cumplir con las leyes, reglamentos, convenios, bases y demás instrumentos de colaboración celebrados en los que se prevea la intervención de esta Institución, y;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2008)</small>
 
-IX. Las demás que señalen otras disposiciones legales.
+VIII. Cumplir con las leyes, reglamentos, convenios, bases y demás instrumentos de colaboración celebrados en los que se prevea la intervención de esta Institución;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2008)</small>
+
+IX. Solicitar a las autoridades jurisdiccionales competentes la intervención de comunicaciones privadas cuando se trate de secuestro, tráfico de menores, homicidio, robo de vehículos, asalto y robo en caminos y carreteras, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos y la Ley Orgánica del Poder Judicial de la Federación, y
+
+Las solicitudes de intervención deberán señalar, además, la persona o personas que serán investigadas; la identificación del lugar o lugares donde se realizará; el tipo de comunicación privada a ser intervenida; su duración; el procedimiento y equipos para la intervención y, en su caso, la identificación de la persona a cuyo cargo está la prestación del servicio mediante la cual se realiza la comunicación objeto de la intervención.
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2008)</small>
+
+X. Las demás que con ese carácter le confieren las leyes y disposiciones reglamentarias.
 
 ###### ARTICULO 4.
 
@@ -197,13 +207,25 @@ El Procurador General de Justicia, será nombrado por el Gobernador del Estado; 
 
 La Procuraduría estará a cargo del Procurador, titular de la Institución del Ministerio Público, quien ejercerá autoridad jerárquica sobre todo el personal de la Procuraduría.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
 
-Para la realización de sus funciones, el Procurador se auxiliará con los Subprocuradores de Procesos; y de Investigación, Directores Generales, Directores de Área, Subdirectores, Delegados Regionales, Coordinadores, Agentes del Ministerio Público, notificadores y demás personal de apoyo administrativo que sean necesarios, quienes tendrán las atribuciones que fijen las normas legales reglamentarías y demás aplicables.
+Para la realización de sus funciones, el Procurador se auxiliará con Subprocuradurías, Direcciones Generales, Direcciones de Área, Delegaciones Regionales, Subdirecciones, Coordinaciones, Agencias del Ministerio Público y demás unidades administrativas que por necesidades del servicio se requieran y que sean establecidas en el Reglamento de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADO TERCER PARRAFO, P.O. 23 DE FEBRERO DE 2008)</small>
 
-La organización, atribuciones y adscripción de los notificadores del Ministerio Público, así como el apoyo que los Agentes de la Policía Ministerial le deben brindar en caso necesario, en la realización de sus funciones se determinaran en el Reglamento de la presente Ley.
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2008)</small>
+
+ARTICULO 12 bis. La Procuraduría General de Justicia contará con una unidad especializada en la investigación y persecución de delitos cometidos por vía de asociación delictuosa o pandillas. Dicha Unidad estará integrada por agentes del Ministerio Público, auxiliados por agentes de la Policía Ministerial Estatal y peritos.
+
+La Unidad Especializada contará con un cuerpo técnico de control, que será el encargado de realizar las intervenciones a las comunicaciones privadas, previamente autorizadas, a las que se refiere el artículo 3 fracción IX de esta Ley; así como de la Constitución General de la República y las demás leyes aplicables.
+
+Las intervenciones a que se refiere el párrafo anterior no podrá llevarse a cabo cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral, administrativo; de las comunicaciones del detenido con su defensor, ni aquellas que pudieran afectar a las comunicaciones privadas de los actores políticos, líderes sociales y otros con fines distintos a la investigación de los delitos establecidos por la Constitución General de la República y demás leyes aplicables. Cualquier acto que atente contra la libertad, la privacía y los derechos humanos será sancionado en los términos de la Legislación Penal.
+
+En las intervenciones de comunicaciones privadas, dicha Unidad Especializada verificará la autenticidad de sus resultados; establecerá lineamientos sobre las características de los aparatos, equipos y sistemas a autorizar; así como sobre la guarda, conservación, mantenimiento y uso de los mismos.
+
+El Reglamento de esta Ley establecerá los perfiles y requisitos que deberán satisfacer los servidores públicos que conformen la Unidad Especializada que se señala en este artículo, para asegurar un alto nivel de profesionalismo, legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos de acuerdo a las atribuciones que les confiere esta Ley y su Reglamento.
+
+Dicha Unidad tendrá el nivel jerárquico que determine el titular del Poder Ejecutivo del Estado, a propuesta del Procurador General de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
@@ -247,19 +269,19 @@ V. Haber residido en el país durante los dos años anteriores al día de la des
 
 El Procurador expedirá los acuerdos, circulares, instructivos, bases y manuales de organización y procedimientos conducentes al buen despacho de las funciones de la Institución, y resolverá por sí o por conducto del servidor público que delegue, sobre el ingreso, promoción, adscripción, renuncia, sanción y estímulo de sus subalternos, sin perjuicio de las disposiciones que regulen las relaciones laborales entre el Ejecutivo y quienes les presten sus servicios.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 17.
 
-Los Subprocuradores de Procesos; y de Investigaciones, Directores Generales y de Área serán nombrados y removidos libremente por el Gobernador del Estado a propuesta del Procurador General de Justicia. Los demás servidores públicos serán designados y removidos en los términos previstos por esta Ley y su Reglamento.
+Los Subprocuradores, Directores Generales y de Area, serán nombrados y removidos libremente por el Gobernador del Estado a propuesta del Procurador General de Justicia. Los demás servidores públicos serán designados y removidos en los términos previstos por esta Ley y su Reglamento.
 
 ###### ARTICULO 18.
 
 Para ser Subprocurador se deben reunir los mismos requisitos que para ser Procurador.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
 
-Durante las Ausencias, Excusas o faltas temporales del Procurador, el despacho y resolución de los asuntos estarán a cargo, en el orden que se mencionan de los Subprocuradores de Procesos; y de Investigaciones.
+Durante las Ausencias, Excusas o faltas temporales del Procurador, el despacho de los asuntos de su competencia, estarán a cargo del servidor público que lo supla, en términos de lo que establezca el Reglamento de la presente ley.
 
 ###### ARTICULO 19.
 
@@ -590,3 +612,13 @@ P.O. 13 DE DICIEMBRE DE 2006.
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ARTÍCULO TERCERO (SIC).- En tanto el Gobernador del Estado, expide las disposiciones correspondientes, seguirán siendo aplicables, en lo que no se opongan al presente Decreto, las disposiciones del Reglamento de la Procuraduría General de Justicia en vigor.
+
+P.O. 23 DE FEBRERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
