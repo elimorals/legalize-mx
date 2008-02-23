@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2006-12-13"
+last_updated: "2008-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -1183,7 +1183,9 @@ IV. Contraloría Municipal;
 
 V. Dirección de Desarrollo;
 
-VI. Dirección de Fomento Económico;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2008)</small>
+
+VI. Dirección de Fomento Económico y Turismo;
 
 VII. Dirección de Obras, Asentamientos y Servicios Municipales;
 
@@ -1445,15 +1447,21 @@ XIV. Proporcionar, en congruencia con su disponibilidad presupuestal, la capacit
 
 XV. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
 
-### CAPÍTULO IX. De la Dirección de Fomento Económico
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE FEBRERO DE 2008)</small>
+
+### CAPÍTULO IX. De la Dirección de Fomento Económico y Turismo
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 83.
 
-A la Dirección de Fomento Económico, le corresponde el despacho de los siguientes asuntos:
+A la Dirección de Fomento Económico y Turismo, le corresponde el despacho de los siguientes asuntos:
 
 I. Dirigir, coordinar y controlar la ejecución de los Programas de Fomento Industrial, Comercial y Turístico;
 
-II. Ejercer las atribuciones y funciones que en materia industrial, turística, artesanal y comercial contengan los convenios firmados entre el Municipio y el gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2008)</small>
+
+II. Ejercer las atribuciones y funciones que en materia industrial, turística, artesanal y comercial contengan los convenios firmados entre el Municipio y el gobierno del Estado, así como también los convenios y acuerdos realizados con los particulares, organizaciones de los sectores social y privado ó con otros municipios;
 
 III. Fomentar en el Municipio el desarrollo industrial, comercial y turístico;
 
@@ -1465,9 +1473,25 @@ VI. Proponer a las autoridades competentes las medidas necesarias para lograr un
 
 VII. Formular y promover el establecimiento de medidas, para el fomento y protección del comercio de primera mano en el Municipio;
 
-VIII. Controlar y supervisar de acuerdo con las leyes y reglamentos de la materia, la prestación de servicios turísticos que se realicen en el Municipio; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2008)</small>
 
-IX. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
+VIII. Fomentar, controlar y supervisar de acuerdo con las leyes y reglamentos de la materia, la prestación de servicios turísticos promoviendo su calidad y la profesionalización de los prestadores;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2008)</small>
+
+IX. Crear, conservar, mejorar, proteger y aprovechar sustentablemente, los recursos y atractivos turísticos naturales, así como los culturales del municipio;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2008)</small>
+
+X. Promover el turismo social, promoviendo en conjunto con el sector privado, los medios y las facilidades para que las personas de recursos limitados, con capacidades diferentes y los adultos mayores, visiten con fines de distracción y conocimiento los atractivos turísticos de su entorno;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2008)</small>
+
+XI. Coadyuvar para la integración de comités turísticos municipales, como órganos de consulta y participación para delinear las políticas públicas y programas en la materia, que deban implementarse en el Municipio; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2008)</small>
+
+XII. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
 
 ### CAPÍTULO X. De la Dirección de Obras, Asentamientos y Servicios Municipales
 
@@ -3342,3 +3366,11 @@ El presente Decreto entrará en vigor tres días después de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos de cada Municipio del Estado deberán fijar una partida dentro del presupuesto para la Dirección de Atención a las Mujeres en cada Programa Operativo Anual, para su aplicación durante el ejercicio 2007 y subsecuentes aplicaciones.
+
+P.O. 23 DE FEBRERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los 30 días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+ARTÍCULO. SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
