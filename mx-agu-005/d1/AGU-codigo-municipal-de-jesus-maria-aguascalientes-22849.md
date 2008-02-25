@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2007-11-19"
+last_updated: "2008-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2008.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -784,161 +784,183 @@ En el caso de que se decida la remoción de un funcionario o empleado municipal,
 
 ### CAPITULO PRIMERO. De las Dependencias
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 96.
 
-Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el Ayuntamiento se auxiliará de las siguientes dependencias de la Administración Pública Municipal, mismas que estarán subordinadas al Presidente Municipal:
+Para el adecuado ejercicio de las atribuciones y responsabilidades ejecutivas que le corresponden, el Ayuntamiento de Jesús María, contará con el apoyo de las siguientes dependencias administrativas, subordinadas y supervisadas por el Presidente Municipal, así como de los organismos públicos descentralizados que al efecto se propongan y constituyan en términos de la presente normatividad:
 
-I. PRESIDENCIA MUNICIPAL:
+I.- PRESIDENCIA MUNICIPAL:
 
-Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+- A).- Secretaría Particular;
 
-Secretaría Particular.
+- B).- Departamento de Relaciones Públicas;
 
-Comité para el Desarrollo Integral de la Familia.
+- C).- Departamento de Participación Ciudadana;
 
-Dirección de Desarrollo Urbano y Obra Pública.
+- D).- Departamento de Atención a la Ciudadanía y Giras;
 
-Dirección de Desarrollo Humano y Social.
+- E).- Coordinación de Comunicación Social;
 
-Dirección de Servicios Públicos Municipales.
+- F).- Departamento de Prensa;
 
-Dirección de Comunicación Social.
+- G).- Departamento de Diseño e Impresión;
 
-Dirección de Seguridad Pública, Tránsito y Vialidad.
+- H).- Coordinación General de Asesores; y
 
-Dirección de Asuntos Jurídicos.
+- I).- Departamento de Mejora Gubernamental y Proyectos Especiales.
 
-Dirección de Finanzas.
+II.- SECRETARIA DEL AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO.
 
-Dirección de Administración.
+- A).- Departamento de Acción Cívica;
 
-Coordinación General de Asesores.
+- B).- Departamento de Archivo Municipal;
 
-Dirección de Contraloría.
+- C).- Delegados y Comisarios Municipales;
 
-Dirección de Salud Pública.
+- D).- Coordinación de Delegaciones Municipales;
 
-II. SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO:
+- E).- Departamento de Control Reglamentario;
 
-Departamento de Acción Cívica.
+- F).- Departamento de Jueces Calificadores;
 
-Departamento de Archivo Municipal.
+- G).- Unidad de Protección Civil.
 
-Departamento de Delegaciones Municipales.
+III.- DIRECCIÓN DE FINANZAS.
 
-Departamento de Control Reglamentario.
+- A).- Subdirector de Finanzas;
 
-Departamento de Jueces Calificadores.
+- B).- Departamento de Ingresos;
 
-Departamento Jurídico.
+- B) (SIC).- Departamento de Egresos;
 
-Departamento de Protección Civil.
+- C).- Departamento de Recursos Federales;
 
-III. COMITE PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+- D).- Departamento de Catastro; y
 
-IV. DIRECCION DE DESARROLLO URBANO Y OBRA PUBLICA:
+- E).- Departamento de Contabilidad.
 
-Departamento de Control Urbano.
+IV.- DIRECCIÓN DE SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD.
 
-Departamento de Fraccionamientos.
+- A).- Subdirección de Seguridad Pública;
 
-Departamento de Construcción y Conservación de Obras Públicas.
+- B).- Subdirección de Tránsito y Vialidad;
 
-Departamento de Supervisión y Control de Calidad.
+- C).- Departamento Administrativo; y
 
-Departamento de Proyectos.
+- D).- Jefatura Operativa.
 
-Departamento de Licitación y Expedientes Técnicos.
+V.- DIRECCIÓN JURÍDICA.
 
-Departamento de Ecología y Protección Ambiental.
+- A).- Subdirección de Asuntos Litigiosos;
 
-V. DIRECCION DE DESARROLLO HUMANO Y SOCIAL:
+- B).- Subdirección de Apoyo Jurídico Municipal;
 
-Departamento de Fomento Agropecuario y Rural.
+- C).- Subdirección de Asesoría Jurídica a la Ciudadanía;
 
-Departamento de Participación Ciudadana.
+- D).- Departamento Jurídico Adscrito a la Dirección de Finanzas;
 
-Departamento de Apoyo a la Juventud.
+- E).- Departamento Jurídico Adscrito a la Dirección de Seguridad Pública y Tránsito;
 
-Departamento de Programas y Política Públicas.
+- F).-Departamento Jurídico Adscrito a la Contraloría Municipal; y
 
-Departamento de Desarrollo Económico.
+- G).- Departamento Jurídico Adscrito al Comité para el Desarrollo Integral de la Familia.
 
-Departamento de Educación, Cultura y Deportes.
+VI.- DIRECCIÓN DE GESTIÓN ADMINISTRATIVA.
 
-VI. DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES:
+- A).- Subdirección de Gestión Administrativa;
 
-Departamento de Panteones y Areas Comerciales.
+- B).- Departamento de Recursos Humanos y Capacitación;
 
-Departamento de Limpieza y Aseo Público.
+- C).- Departamento de Servicios Generales;
 
-Departamento de Parques, Jardines, Alumbrado Público y Relojes.
+- D).- Departamento de Redes e Informática; y
 
-Departamento de Rastro Municipal.
+- E).- Oficialía de Compras y Adquisiciones.
 
-Departamento de Regulación Sanitaria.
+VII.- DIRECCIÓN DE SERVICIOS PÚBLICOS MUNICIPALES.
 
-VII. DIRECCION DE COMUNICACION SOCIAL:
+- A).- Subdirector de Servicios Públicos Municipales
 
-Departamento de Producción Gráfica y Video.
+- B).- Departamento de Estética Urbana, limpieza y Aseo Público;
 
-Departamento de Producción e Información.
+- C).- Departamento de Áreas Comerciales y Panteones;
 
-VIII. DIRECCION GENERAL DE SEGURIDAD PUBLICA, TRANSITO Y VIALIDAD:
+- D).- Departamento de Rastro Municipal;
 
-Sub-dirección de Tránsito y Vialidad.
+- E).- Departamento de Parques, Jardines, Viveros y Alumbrado Público; y
 
-Departamento Administrativo.
+- F).- Departamento de Regulación Sanitaria.
 
-IX. DIRECCION DE FINANZAS:
+VIII.- DIRECCIÓN DE DESARROLLO ECONÓMICO.
 
-Departamento de Ingresos.
+- A).- Subdirección de Proyectos; y
 
-Departamento de Egresos y Programación.
+- B).- Subdirección de Comercialización.
 
-Departamento de Participaciones Federales.
+IX.- DIRECCIÓN DE PLANEACIÓN y DESARROLLO URBANO.
 
-Departamento de Catastro.
+- A).- Departamento de Planeación;
 
-Departamento de Contabilidad e Información.
+- B).- Departamento de Usos de Suelo y Control Urbano;
 
-X. DIRECCION DE ADMINISTRACION:
+- C).- Departamento de Fraccionamientos y Licencias de Construcción; y
 
-Departamento de Recursos Humanos.
+- D).- Departamento de Ecología y Medio Ambiente.
 
-Departamento de Servicios Generales.
+X.- DIRECCIÓN DE OBRAS PÚBLICAS.
 
-Departamento de Redes e Informática.
+- A).- Departamento de Proyectos, Costos y Licitaciones;
 
-Departamento de Capacitación y Adiestramiento.
+- B).- Departamento de Construcción y Conservación; y
 
-Departamento de Compras y Adquisiciones.
+- C).- Departamento de Supervisión y Control de Calidad.
 
-XI. COORDINACION GENERAL DE ASESORES:
+XI.- DIRECCIÓN DE DESARROLLO HUMANO Y SOCIAL
 
-Director de Mejora Gubernamental y Proyectos Especiales.
+- A).- Departamento de Fomento Agropecuario y Rural;
 
-Director de Asuntos Reglamentarios y Jurídicos.
+- B).- Departamento de Programas y Políticas Públicas; y
 
-Departamento de Enlace.
+- C).- Departamento de Educación, Cultura y Deportes.
 
-XII.- DIRECCION DE CONTRALORIA:
+XII.- CONTRALORÍA MUNICIPAL.
 
-Departamento de Auditoría Contable y Fiscal.
+- A).- Departamento de Auditoria Administrativa y Gestión;
 
-Departamento de Auditoria Administrativa y Gestión.
+- B).- Departamento de Auditoria Contable y Fiscal;
 
-Departamento de Auditoria de Obra y Servicios Públicos.
+- B) (SIC).- Departamento de Auditoria de Participaciones Federales; y
 
-Departamento de Auditoria de Participaciones Federales.
+- C).- Departamento de Auditoria de Obra y Servicios Públicos.
 
-XIII.- DIRECCION DE SALUD PUBLICA:
+XIII.- DIRECCIÓN DE SALUD.
 
-Departamento de Salud.
+- A).- Departamento de Salud.
 
-XIV.- DIRECCION DE ASUNTOS JURIDICOS.
+XIV.- COMITÉ PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.
+
+- A).- Presidencia del Comité;
+
+- B).- Dirección General;
+
+- C).- Secretaría Particular;
+
+- D).- Departamento Administrativo;
+
+- E).- Departamento de Servicios Médicos;
+
+- F).- Departamento de Trabajo Social;
+
+- G).- Departamento de Salud Mental;
+
+- H).- Departamento de Programas y Políticas Públicas para la Familia;
+
+- I).- Departamento de Atención a las Personas de la Senectud; y
+
+- J).- Departamento de Desarrollo Infantil.
+
+XIV (SIC).- CRONISTA DEL MUNICIPIO.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
@@ -3262,79 +3284,83 @@ Cuando las exhumaciones obedezcan al traslado de restos humanos a otra fosa del 
 
 El traslado de cadáveres o de sus restos, se hará según lo dispuesto por la autoridad sanitaria y demás disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE FEBRERO DE 2008)</small>
+
 APARTADO TERCERO
 
-EL DERECHO DE USO SOBRE FOSAS, GAVETAS O CRIPTAS EN LOS CEMENTERIOS MUNICIPALES
+EL DERECHO DE USO SOBRE FOSAS Y GAVETAS EN LOS CEMENTERIOS MUNICIPALES, Y MANTENIMIENTO DE AREAS COMUNES
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 383.
 
-En los cementerios municipales, el derecho de uso sobre fosas se proporcionará mediante temporalidad mínima y a perpetuidad.
+En los cementerios municipales, el derecho de uso sobre fosas y gavetas, se proporcionará mediante el sistema de temporalidad mínima.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 384.
 
-Las temporalidades a que se refiere el artículo anterior se convendrán entre los interesados y la administración municipal.
+La temporalidad a que se refiere el artículo anterior, será de 5 años para fosas, y de 6 años para gavetas.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 385.
 
-La temporalidad mínima confiere el derecho de uso sobre una fosa durante cinco años, transcurrido el cual se podrá solicitar la exhumación de los restos o refrendarse por un periodo igual, previo el pago de derechos correspondientes.
+La temporalidad referida en el articulo anterior, confiere el derecho de uso sobre la fosa o gaveta. Transcurrido tal término, se podrá solicitar la exhumación de los restos o refrendarse el uso, previo el pago de derechos correspondientes.
 
 ###### ARTICULO 386.
 
-El sistema de uso a perpetuidad sobre una fosa solamente se concederá en los casos que autorice el Presidente Municipal y cuando concluyan los plazos de temporalidad máxima, previo pago del derecho que corresponda a la Dirección de Finanzas.
+(DEROGADO, P.O. 25 DE FEBRERO DE 2008)
 
 ###### ARTICULO 387.
 
-Durante la vigencia del convenio de uso, el titular del derecho sobre una fosa bajo el régimen de temporalidad, podrá solicitar la inhumación de los restos de su cónyuge o de un familiar en línea directa en los siguientes casos:
-
-I.- Cuando hubiere transcurrido el plazo que en su caso fije la autoridad sanitaria.
-
-II.- Que esté al corriente con los pagos correspondientes.
-
-Se extingue el derecho que confiere este artículo al cumplir el año de vigencia del convenio, excepto si contrata el derecho de uso aperpetuidad (sic).
+(DEROGADO, P.O. 25 DE FEBRERO DE 2008)
 
 APARTADO CUARTO
 
 DE LOS USUARIOS
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 388.
 
-Toda persona tiene derecho de uso sobre terreno de cementerio municipal previo el pago de las contribuciones consignadas en las leyes fiscales aplicables.
+Toda persona podrá solicitar derecho de uso de fosas o gavetas de los cementerios municipales, previo el pago de los derechos que se establezcan en las Leyes de Hacienda Municipal y de Ingresos del Municipio de Jesús María, Aguascalientes.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 389.
 
-El derecho de uso sobre un terreno se documentará en título a perpetuidad con las características siguientes:
+El derecho de uso sobre fosa o gaveta, se documentará en la Constancia que para el efecto expida la autoridad municipal. Tal derecho será intransferible, inembargable e imprescriptible; y su titular podrá transmitirlo únicamente a integrantes de su familia, por cualquiera de las formas aceptadas por la ley, informando de ello a la autoridad municipal.
 
-I.- El derecho será intransferible, inembargable e imprescriptible.
-
-II.- El titular podrá transmitir su derecho por herencia o legado únicamente a integrantes de su familia.
-
-III.- Tendrán derecho de ser inhumados en la cripta familiar todos los integrantes de su familia, su sucesor y demás personas que autorice el titular.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 390.
 
-Para tener derecho a utilizar los servicios del cementerio deberá mantenerse al corriente en el pago de los derechos municipales y cuotas de mantenimiento.
+Para que el usuario tenga derecho a utilizar los servicios del cementerio, deberá mantenerse al corriente en el pago de los derechos municipales de uso, y .de las cuotas de mantenimiento.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 391.
 
 Son obligaciones de los usuarios las siguientes:
 
-I.- Cumplir con las disposiciones de este ordenamiento y las emanadas de la Administración Municipal.
+I.- Cumplir con las disposiciones establecidas en este Código Municipal, así como las emitidas por la Administración Municipal, relacionadas con el servicio;
 
-II.- Pagar cada cinco años la cuota asignada por la renta del terreno o su mantenimiento.
+II.- Pagar en forma anual las cuotas de mantenimiento de áreas comunes que se fijen en la Ley de Ingresos del Municipio de Jesús Maria, Aguascalientes;
 
-III.- Abstenerse de colocar epitafios contrarios a la moral o las buenas costumbres.
+III.- Abstenerse de colocar epitafios en fosas y gavetas, que sean contrarios a la moral o las buenas costumbres;
 
-IV.- Conservar en buen estado las fosas, gavetas, criptas y monumentos.
+IV.- Conservar en buen estado las fosas y gavetas cuyo derecho de uso les haya sido asignado;
 
-V.- Abstenerse de ensuciar y dañar los cementerios.
+V.- Abstenerse de ensuciar y dañar los cementerios;
 
-VI.- Solicitar a la autoridad correspondiente el permiso de construcción.
+VI.- Solicitar a la autoridad municipal correspondiente, el permiso de construcción de fosa, cuya vigencia será de tres meses;
 
-VII.- Retirar de inmediato los escombros que se ocasionen por la construcción de gavetas, criptas o monumentos.
+VII.- Retirar de inmediato los escombros que se generen, por la construcción de fosas;
 
-VIII. No extraer ningún objeto del cementerio sin el permiso del administrador.
+VIII.- No extraer ningún objeto del cementerio, sin el permiso del administrador o encargado de vigilancia; y
 
-IX.- Las demás que se establecen en este ordenamiento.
+IX.- Las demás que se establecen en el presente ordenamiento.
 
 ### CAPITULO SEXTO. De Mercados y Comercio Ambulante
 
@@ -4492,25 +4518,11 @@ DE LAS INSPECCIONES
 
 El Ayuntamiento tendrá amplias facultades de inspección y vigilancia para prevenir o controlar la posibilidad de desastres, así como de aplicar las sanciones que proceden por violación al presente ordenamiento, sin perjuicio de las facultades que se confieren a otras dependencias de la administración pública federal y estatal.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 527.
 
-Las inspecciones se sujetarán a las siguientes bases:
-
-I. El inspector deberá contar con orden por escrito que contendrá la fecha y ubicación del inmueble por inspeccionar; objeto y aspectos de la visita; el fundamento legal y la motivación de la misma; el nombre y la firma de la autoridad que expida la orden y el nombre del inspector;
-
-II. El inspector deberá identificarse ante el propietario, arrendatario o poseedor, administrador o representante legal, o ante la persona a cuyo cargo esté el inmueble, con la credencial vigente que para tal efecto fue expedida y entregará copia legible de la orden de inspección;
-
-III. Los Inspectores practicarán la visita dentro de las veinticuatro horas siguientes a la expedición de la orden;
-
-IV. Al inicio de la visita de inspección, el Inspector deberá requerir al ocupante del lugar visitado para que designe a dos personas de su confianza para que funjan como testigos en el desarrollo de la diligencia, advirtiéndole que en caso de no hacerlo, éstos serán propuestos y nombrados por el propio Inspector, debiendo asentar en el acta correspondiente tal requerimiento y lo procedente en su caso;
-
-V. De toda visita se levantará acta circunstanciada por triplicado, cuyas fojas deberán ir numeradas y foliadas, en la que se expresará: lugar, fecha y nombre de la persona con quien se entienda la diligencia y de los testigos de asistencia propuestos por ésta o nombrados por el Inspector, en el caso de la fracción anterior. Si alguna de las personas señaladas se niega firmar (sic), el Inspector lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento;
-
-VI. El Inspector dejará constar en el acta, la violación al ordenamiento, indicando que cuenta con cinco días hábiles, para impugnar por escrito ante la Unidad Municipal de Protección Civil la sanción que derive de la misma, debiendo exhibir las pruebas que estime conducentes;
-
-VII. Uno de los ejemplares visibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y la copia restante se entregará a la Unidad;
-
-VIII. El Ayuntamiento a través de la dependencia administrativa correspondiente determinará, dentro del término de diez días hábiles siguientes a la fecha de la diligencia, la sanción que proceda, considerando la gravedad de la infracción, si existe reincidencia, las circunstancias que hubieran concurrido, y en su caso dictará la resolución que proceda debidamente fundada y motivada, notificándola personalmente al visitado.
+Las inspecciones a cargo del personal de la Unidad Municipal de Protección Civil, se sujetarán a las siguientes bases: l.- El inspector hará entrega al responsable del establecimiento motivo de inspección de la orden emitida por escrito por el titular de la Unidad, que contendrá la fecha y la ubicación del inmueble por inspeccionar, así como el término en el que se habrá de llevar a cabo la inspección por el personal autorizado para ello; II.- Una vez entregada tal orden, el inspector autorizado, debidamente identificado ante el encargado o responsable del establecimiento motivo de inspección, realizará la inspección correspondiente, por lo que se le darán las facilidades que sean necesarias, así como la información relativa a la inspección, para que esta se realice sin contratiempo alguno, de parte del responsable del establecimiento; III.- De la inspección que se realice, se formulará el reporte correspondiente, en el que se asentarán todas las observaciones realizadas, haciéndose entrega del mismo, al titular de la Unidad; IV.- Una vez analizado el reporte de inspección por el titular de la Unidad, éste emitirá el acuerdo correspondiente, debidamente fundado y motivado, y lo dirigirá al responsable del establecimiento visitado, haciéndole saber que en el caso se tienen por cubiertas las medidas de seguridad propias del lugar, o que se le fija un término que no será mayor de 60 días naturales, para que se hagan las modificaciones de orden técnico, y que habrán de ser señaladas en forma clara, y para que sean implementadas con los requisitos fijados; V.- Concluido el término fijado para el efecto, el inspector autorizado realizará nueva visita al establecimiento requerido, para constatar si se ha cumplido con lo solicitado por el titular de la Unidad, elaborando un nuevo reporte, el cual, una vez valorado, se emitirá un nuevo acuerdo que se notificará al responsable del establecimiento, informándole del cumplimiento, o aplicando cualquiera de las sanciones previstas en el Artículo 1331 del presente Código Municipal; VI.- En caso de aplicación de multa, se le notificará de nueva cuenta al responsable del establecimiento, que cuenta con un nuevo plazo, que no excederá de 30 días naturales, para que subsane las omisiones detectadas; VII.- Previa inspección, una vez concluido el nuevo plazo, y analizado por el titular de la Unidad, el reporte formulado por el inspector, se establecerá si se cumplió adecuadamente con lo solicitado, y en caso de que así no haya ocurrido, se procederá a emitir orden de clausura temporal o definitiva del establecimiento en cuestión, la que deberá ser adecuadamente notificada al responsable.
 
 ## TITULO TERCERO. DE LOS JUECES CALIFICADORES
 
@@ -14359,3 +14371,9 @@ P.O. 27 DE AGOSTO DE 2007.
 P.O. 19 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE FEBRERO DE 2008.
+
+.
+
+SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
