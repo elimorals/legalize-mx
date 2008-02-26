@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-instituto-veracruzano-de-acceso-a-57122
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-20"
-last_updated: "2007-09-20"
+last_updated: "2008-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 20 de septiembre de 2007.
 
@@ -361,7 +361,9 @@ XV. Tener bajo su resguardo, control y responsabilidad los sellos de la Secretar
 
 XVI. Elaborar, en coordinación con la Unidad de Acceso, las estadísticas de las solicitudes de acceso a la información, presentadas ante el Instituto en su calidad de sujeto obligado para hacerlas del conocimiento del Consejo;
 
-XVII. Dar fe de los actos realizados por el Consejo;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2008)</small>
+
+XVII. Dar fe de los actos realizados por el Consejo; Certificar las copias fotostáticas que se expidan de los documentos que obren en los archivos del Instituto;
 
 XVIII. Notificar las resoluciones del Consejo en tiempo y forma;
 
@@ -872,3 +874,13 @@ Tercero. Para los efectos del turno del engrose a que se refiere la fracción V 
 Dado en el salón de sesiones del Consejo General del Instituto Veracruzano de Acceso a la Información, a los trece días del mes de septiembre del año dos mil siete.
 
 Presidente del Consejo Álvaro Ricardo de Gasperín Sampieri, Consejera Luz del Carmen Martí Capitanachi y Consejera Rafaela López Salas, por ante el Secretario Técnico del Instituto, Fernando Aguilera De Hombre, con quien actúan.-Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 26 DE FEBRERO DE 2008.
+
+...
+
+Segundo.- Se instruye al Secretario Técnico para que publique el presente acuerdo en la Gaceta Oficial del estado.
+
+Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
