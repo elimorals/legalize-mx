@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "2001-10-24"
+last_updated: "2008-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NO. 446, PUBLICADO EN EL P.O. EL 24 DE OCTUBRE DE 2001, POR EL QUE SE REFORMA EL CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A PARTIR DE LA PUBLICACION DEL REGLAMENTO A QUE SE REFIERE EL ARTICULO SEGUNDO TRANSITORIO DE DICHO DECRETO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 28 DE FEBRERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -1284,3 +1284,29 @@ El Ejecutivo del Estado deberá expedir y publicar el Reglamento del Registro P�
 ###### ARTICULO TERCERO.
 
 Se abroga la Ley del Registro Público de la Propiedad de Tamaulipas, expedida mediante Decreto de fecha 25 de enero de 1927, publicado en el Periódico Oficial número 10, de fecha 2 de febrero de 1927, y sus reformas, con efectos a partir de la fecha de publicación del Reglamento a que se refiere el Artículo Transitorio anterior.
+
+P.O. 28 DE FEBRERO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial del Estado. Dentro de dicho plazo, el Ejecutivo del Estado expedirá el Decreto de creación del Instituto Registral y Catastral del Estado de Tamaulipas, el cual iniciará sus funciones dentro de los 240 días posteriores a su establecimiento. Al efecto el Ejecutivo realizará las acciones administrativas necesarias para adscribir los recursos humanos, presupuesta les y materiales que requiere su funcionamiento. Hasta el inicio de actividades del Instituto Registral y Catastral, la Dirección del Registro Público de la Propiedad y del Comercio dará cumplimiento a sus funciones en términos de la ley que se expide mediante el presente Decreto, salvo lo previsto en los artículos transitorios del mismo.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley del Registro Público de la Propiedad expedida mediante Decreto 261, del 22 de noviembre de 1926, de la Vigésima Novena Legislatura Constitucional del Estado y publicado en los Periódicos Oficiales números 10, 11 y 12 del 2, 5 y 9 de febrero de 1927. Asimismo, sus subsecuentes reformas expedidas mediante Decreto del Ejecutivo, del 19 de abril de 1927 y publicado en el Periódico Oficial del Estado No. 33, del 23 de abril de 1927; Decreto del Ejecutivo, del 23 de febrero de 1928 y publicado en el Periódico Oficial del Estado 21, del 14 de marzo de 1928; Decreto No. 78, del 13 de agosto de 1935 y publicado en el Periódico Oficial del Estado No. 65 Bis, del 15 de agosto de 1935; Decreto No. 98, del 25 de septiembre de 1935 y publicado en el Periódico Oficial del Estado No. 79, del 2 de octubre de 1935; Decreto No. 120, del 3 de enero de 1936 y publicado en el Periódico Oficial del Estado No. 3, del 8 de enero de 1936 y se deroga el Decreto No. 78, del 13 de Agosto de 1935; Decreto No. 75, del 15 de febrero de 1949 y publicado en el Periódico Oficial del Estado No. 21, del 12 de marzo de 1949; Decreto No. 456, del 20 de julio de 1951 y publicado en el Periódico Oficial del Estado No. 58, del 21 de julio de 1951; y Decreto No. 307, del 9 de diciembre de 1953 y publicado en el Periódico Oficial del Estado No. 101, del 19 de diciembre de 1953.
+
+###### ARTICULO TERCERO.
+
+Se deroga la Segunda Parte del Libro Cuarto, Título Unico, Capítulos I, II, III, IV, V, VI y VII, artículos del 2342 al 2396, relativos al Registro Público, excepto los artículos 2345 y 2352 previamente derogados el 6 de diciembre de 2001 y 23 de diciembre de 1987, respectivamente, del Código Civil para el Estado de Tamaulipas.
+
+###### ARTICULO CUARTO.
+
+Hasta en tanto se disponga del equipo e instalaciones apropiadas para la operatividad del nuevo sistema registral, se continuará aplicando el sistema de incorporación de documentos, datos y de libros previsto en la ley que se abroga mediante este Decreto.
+
+###### ARTICULO QUINTO.
+
+Cuando en el procedimiento de captura de los asientos que obren en las oficinas del Registro Público para cubrir el procedimiento de automatización o en cualquier otro caso se detecte la ausencia de asientos registra les o documentos de duplicados, el Registro podrá proceder a su reposición a petición de parte interesada.
+
+###### ARTICULO SEXTO.
+
+El Reglamento de la presente ley deberá expedirse en un término que no exceda de 90 días posteriores a la entrada en vigor de este ordenamiento.
