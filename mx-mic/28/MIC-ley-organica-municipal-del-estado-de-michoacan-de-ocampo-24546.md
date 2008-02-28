@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2008-01-22"
+last_updated: "2008-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 28 DE FEBRERO DE 2008.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -625,9 +625,9 @@ XVIII. Solicitar a los Gobiernos Federal y Estatal en su caso, la expropiación 
 
 b).- En materia de Administración Pública:
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2008)</small>
 
-I. Elaborar, presentar y publicar, en el curso de los dos primeros meses a partir de la fecha de la instalación del Ayuntamiento, el Plan Municipal de Desarrollo correspondiente a su período constitucional de gobierno;
+I. Elaborar, presentar y publicar, en el curso de los cuatro primeros meses a partir de la fecha de la instalación del Ayuntamiento, el Plan Municipal de Desarrollo correspondiente a su período constitucional de gobierno;
 
 II. Organizar, estructurar y determinar las funciones de su administración pública;
 
@@ -1805,11 +1805,11 @@ El Ayuntamiento deberá elaborar el reglamento que determine los procedimientos 
 
 ### Capítulo I. De los Planes Municipales de Desarrollo
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 107.
 
-Los ayuntamientos deberán elaborar, aprobar, ordenar la publicación de su respectivo Plan Municipal de Desarrollo, así como presentarlo al Congreso del Estado, para su examen y opinión dentro de los dos primeros meses de gestión administrativa. Su vigencia será por el período de tres años que corresponda. Para este efecto, los Ayuntamientos podrán solicitar cuando lo consideren necesario, la asesoría del Gobierno del Estado.
+Los ayuntamientos deberán elaborar, aprobar, ordenar la publicación de su respectivo Plan Municipal de Desarrollo, así como presentarlo al Congreso del Estado, para su examen y opinión dentro de los cuatro primeros meses de gestión administrativa. Su vigencia será por el período constitucional que corresponda. Para este efecto, los ayuntamientos podrán solicitar cuando lo consideren necesario, la asesoría del Gobierno del Estado.
 
 ###### Artículo 108.
 
@@ -2574,3 +2574,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE ENERO DE 2008.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 28 DE FEBRERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
