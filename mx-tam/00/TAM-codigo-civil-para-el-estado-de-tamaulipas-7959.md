@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2007-12-31"
+last_updated: "2008-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2008.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -137,6 +137,8 @@ ART. 25.- El hecho de inscribirse en el padrón municipal prueba plenamente el p
 
 ART. 26.- Se presume el propósito de establecerse en un lugar, cuando se reside en él por más de seis meses. Transcurrido este tiempo, el que no quiera que nazca tal presunción declarará, dentro de los quince días siguientes, tanto a la autoridad municipal de su anterior domicilio, como a la autoridad municipal de su nueva residencia, que no desea perder su antiguo domicilio y adquirir otro nuevo. Estas declaraciones no producirán efectos si se hacen en perjuicio de tercero.
 
+ART. 27.- El domicilio legal de una persona es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté ahí presente.
+
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
 ART. 28.- Se reputa domicilio legal:
@@ -150,8 +152,6 @@ III.- De los servidores públicos, el lugar donde desempeñen sus funciones por 
 Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar donde la cumplen, sino que conservarán su domicilio anterior; y,
 
 IV.- De los condenados a cumplir una pena privativa de la libertad por más de seis meses, el lugar en que la extingan.
-
-ART. 27.- El domicilio legal de una persona es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté ahí presente.
 
 ART. 29.- Las personas morales tienen su domicilio en el lugar donde se halle establecida su administración.
 
@@ -8161,333 +8161,151 @@ ART. 2340.- La hipoteca extinguida por dación en pago revivirá, si el pago que
 
 ART. 2341.- En los casos del artículo anterior si el registro hubiere sido ya cancelado, revivirá solamente desde la fecha de la nueva inscripción; quedando siempre a salvo al acreedor el derecho para ser indemnizado por el deudor, de los daños y perjuicios que se le hayan seguido.
 
+> <small>(DEROGADA CON EL TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
+
 SEGUNDA PARTE
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. DE 24 OCTUBRE DE 2001)</small>
+ART. 2342.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2342.- La propiedad de bienes inmuebles, los gravámenes constituidos sobre ellos y los actos que establezcan modalidades al derecho de propiedad de dichos bienes o su ejercicio, serán inscritos como lo dispone este Título, en la Oficina del Registro Público de la Propiedad y del Comercio. También se inscribirán los actos cuyos registros ordene la ley.
+ART. 2343.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-El Registro será público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios del Registro Público de la Propiedad y del Comercio, y de los documentos relacionados con las inscripciones que ésten archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los folios del Registro Público de la Propiedad y del Comercio, así como
-
-certificaciones de existir o no asientos relativos a los bienes que se señalen.
-
-ART. 2343.- Ninguna inscripción puede hacerse si no consta que el que la pretende es actual dueño de los bienes, tiene derecho para exigir el registro o procede con poder legal del propietario.
-
-ART. 2344.- Los actos ejecutados, los contratos otorgados y las sentencias pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
-
-I.- Que si los actos o contratos hubieren sido celebrados o las sentencias pronunciadas en el Estado habría sido necesaria su inscripción en el Registro;
-
-II.- Que se lleven convenientemente legalizados conforme a lo que se disponga en el Código de Procedimientos;
-
-III.- Que si fueren sentencias su ejecución haya sido ordenada por la autoridad judicial que corresponda.
+ART. 2344.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
 ART. 2345.- (DEROGADO, P.O. DE 24 OCTUBRE DE 2001)
 
-> <small>(REFORMADO, P.O. DE 24 OCTUBRE DE 2001)</small>
+ART. 2346.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2346.- El Registro Público de la Propiedad y del Comercio es una Institucion dependiente del Poder Ejecutivo del Estado en los términos que señale la Ley Orgánica de la Administración Pública y tendrá su sede en la capital del Estado.
+ART. 2347.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-El Ejecutivo tendrá facultades para reglamentar lo referente a la eficacia del servicio y para ordenar el establecimiento y funcionamiento de oficinas de atención municipal o regional en función de las demandas registrales de la sociedad.
+ART. 2348.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2001)</small>
+ART. 2349.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2347.- El Registro Público de la Propiedad y del Comercio funcionará conforme al sistema y métodos que determine el reglamento, en el que se establecerán los requisitos necesarios para desempeñar los cargos que requiera su funcionamiento, debiendo contar cuando menos con un Director, un Subdirector y un Secretario.
+ART. 2350.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 1987)</small>
-
-ART. 2348.- Para ser Director y Subdirector, se requiere:
-
-I.- Ser abogado con cinco años de práctica por lo menos;
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-II.- Tener reconocida probidad y buenas costumbres;
-
-III.- No haber sido sentenciado en proceso contra la propiedad;
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
-
-ART. 2349.- Las faltas del Director del Registro Público de la Propiedad serán suplidas por el Subdirector, quien ejercerá las atribuciones señaladas para aquél.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
-
-ART. 2350.- Las faltas temporales del Secretario del Registro Público de la Propiedad serán suplidas por la persona que designe el Director.
-
-ART. 2351.- Son atribuciones del Director del Registro Público de la Propiedad:
-
-I.- Resolver las consultas que formulen personas interesadas respecto a registro, haciéndoles saber los requisitos que falten a los documentos presentados para su inscripción y el modo de cumplirlos;
-
-II.- Revisar los documentos cuya inscripción se solicite, resolviendo dentro del término de cuarenta y ocho horas siguientes a su presentación, y si procede o no el registro. En caso de negarse éste, deberá devolverse inmediatamente al interesado el documento relativo;
-
-III.- Autorizar con su firma todos los certificados que expida sobre actos inscritos en el Registro;
-
-IV.- Cotizar los derechos que de acuerdo con las disposiciones fiscales correspondientes deba causar la inscripción, comunicándolo desde luego a la Tesorería General del Estado. No se procederá a la inscripción mientras no justifique el interesado haber pagado los derechos de referencia;
-
-V.- Despachar la correspondencia de la Oficina y los trámites de su funcionamiento;
-
-VI.- Imponer al personal de su dependencia, previo acuerdo del Ejecutivo, correcciones disciplinarias que podrán consistir en apercibimiento y suspensión en el empleo hasta por el término de quince días sin goce de sueldo;
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-VII.- Las demás que se deriven de la ley.
+ART. 2351.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
 ART. 2352.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
 
-> <small>(REFORMADO, P.O. DE 24 OCTUBRE DE 2001)</small>
+ART. 2353.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2353.- Los servidores públicos del Registro Público de la Propiedad y del Comercio, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieran lugar, cuando:
+ART. 2354.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-I.- Rehusen admitir el título, o no practiquen el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 2366 de este codigo;
-
-II.- Practiquen algún asiento indebidamente o rehusen practicarlo sin motivo fundado;
-
-III.- Retarden, sin causa justificada, la práctica del asiento a que dé lugar el documento inscribible;
-
-IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los certificados que expidan; y
-
-V.- No expidan los certificados en el término reglamentario.
-
-ART. 2354.- En caso de negativa de registro, podrán ocurrir los interesados ante el Juez de Primera Instancia de su vecindad, quien resolverá en juicio lo que corresponda. En dicho juicio figurará como demandado el Director del Registro Público de la Propiedad, y como terceros interesados las personas a quienes pueda afectar el registro. Si el acto se realizó fuera del territorio del Estado, el juicio a que se refiere este artículo se promoverá en el Primer Distrito Judicial.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO
 
-ART. 2355.- Se inscribirán en el Registro:
+ART. 2355.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-I.- Los títulos por las cuales se adquiere, transmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
+ART. 2356.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-II.- La constitución del patrimonio de familia;
+ART. 2357.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-III.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 1987)
+ART. 2358.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-IV.- Las capitulaciones o convenios que celebren los cónyuges en relación con sus bienes matrimoniales;
+ART. 2359.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-V.- El nombramiento de representante a un ausente y las sentencias que declaren la ausencia y la presunción de muerte;
+ART. 2360.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-VI.- La escritura constitutiva de las sociedades civiles nacionales o extranjeras y la que la reforme;
-
-VII.- La escritura constitutiva de las asociaciones nacionales y extranjeras y la que la reforme;
-
-VIII.- Las fundaciones de beneficencia privada;
-
-IX.- Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I;
-
-X.- Los testamentos por efecto de los cuales se deje la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador;
-
-XI.- En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo.
-
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
-
-XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
-
-XIII.- Las sentencias o autos en que se ordene la sujeción de una finca a juicio hipotecario, un embargo, un secuestro, una intervención o una fianza;
-
-XIV.- La promesa de contratar que afecte bienes raíces o derechos reales constituidos sobre los mismos;
-
-XV.- El testimonio de las informaciones ad-perpetuam promovidas y protocolizadas de acuerdo con lo que disponga la Ley Procesal Civil;
-
-XVI.- Los demás títulos que la ley ordene expresamente que sean registrados.
-
-ART. 2356.- La inscripción se denegará:
-
-I.- Cuando los datos contenidos en el documento relativo estén en contradicción con algún registro anterior, salvo si se trata de actos modificativos legalmente celebrados;
-
-II.- Cuando haya indicios de falsedad del documento;
-
-III.- Si la autenticidad o validez del pacto es dudosa;
-
-IV.- Cuando el predio de cuya inscripción se trate esté afecto al ejercicio de acciones fiscales por adeudo de impuestos;
-
-V.- En cualquier otro caso en que justificadamente se estime que la inscripción lesionaría sin causa legal derechos de tercero, de la sociedad o del Estado.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 2357.- Tratándose de actos que consten en documento público, si los interesados en su inscripción no residen en la Capital del Estado, y sin perjuicio de lo dispuesto por el artículo 2343 podrá efectuarse ésta enviándose el documento y la solicitud respectiva por conducto del Presidente Municipal de la localidad, si además se cumplen los otros requisitos establecidos por el presente Título.
-
-ART. 2358.- Cuando en caso de negativa de registro, se haga la inscripción por mandato judicial, sus efectos se retrotraerán a la fecha en que se presentó la solicitud respectiva.
-
-ART. 2359.- Se negarán las inscripciones de actos referentes a predios cuyos impuestos no estén al corriente.
-
-ART. 2360.- Si el interesado presenta duplicado del documento que haya de registrarse, hecho el cotejo correspondiente, el Director del Registro anotará en el mismo duplicado la inscripción expresando su fecha y circunstancia de ella.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO III. DE LOS EFECTOS DEL REGISTRO
 
-ART. 2361.- La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+ART. 2361.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2362.- Los documentos que conforme a esta ley deben registrarse y no se registren sólo producirán efectos entre quienes los otorguen, pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharse en cuanto le fueren favorables.
+ART. 2362.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+ART. 2363.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-Siempre que ante un Tribunal se pida la nulidad o cancelación de una inscripción, el juez ante quien se haya solicitado lo participará al encargado del Registro quien pondrá luego al margen de la inscripción una nota en estos términos: "Reclamada la nulidad o cancelación de la presente, según el documento inscrito bajo el número tantos".
+ART. 2364.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+ART. 2365.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2363.- No obstante lo dispuesto en el Artículo 2361 los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo Registro.
+ART. 2366.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
+ART. 2367.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2364.- No podrá ejercerse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de personas o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+ART. 2368.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+ART. 2369.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-En el caso de embargo precautorio, juicio ejecutivo o hipotecario contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción como causahabiente del que aparece dueño en el Registro.
-
-ART. 2365.- No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
-
-> <small>(REFORMADO, P.O. DE 24 OCTUBRE DE 2001)</small>
-
-ART. 2366.- Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el Notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al Registro Público de la Propiedad y del Comercio certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud, que surtirá efectos de aviso preventivo, se deberá mencionar la operación e inmueble de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud y sin cobro de derechos por este concepto, practicará inmediatamente la nota de presentación en la parte respectiva de folio correspondiente, nota que tendrá vigencia por un término de 30 días naturales a partir de la fecha de presentación de la solictud.
-
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público de la Propiedad y del Comercio, dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno practicará de inmediato la nota de la presentación correspondiente, la cuál tendrá una vigencia de noventa días naturales a partir de la fecha de presentación de aviso. Si éste se dá dentro del término de 30 días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contario, solo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
-
-Si el testimonio respectivo se presentare al Registro Público de la Propiedad y del Comercio dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso y con arreglo a su número
-
-de entrada. Si el documento se presentara fenecidos los referidos plazos, su registro solo surtirá efectos desde la fecha de presentación.
-
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso preventivo, con vigencia por noventa días, el Notario, el registrador o la autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los Notarios en el caso de los instrumentos públicos. Si el contrato se ratificara ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
-
-ART. 2367.- Si el acto registrado se anula o rescinde en virtud de sentencia, se anotará ésta dentro de treinta días contados desde que causó ejecutoria, al margen del registro respectivo; de lo contrario sólo producirá su efecto con relación a tercero desde el día en que fuere anotado.
-
-(REFORMADO, P.O. 24 DE OCTUBRE DE 2001) (F. DE E., P.O. 24 DE SEPTIEMBRE DE 2002)
-
-ART. 2368.- La inscripción definitiva de un derecho que haya sido anotado previamente, surtirá sus efectos desde la fecha en que la anotación los produjo.
-
-ART. 2369.- Los testamentos ológrafos no producirán efectos si no son depositados en el Registro.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO IV. DEL MODO DE HACER EL REGISTRO
 
-ART. 2370.- La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el Notario que haya autorizado la escritura de que se trate.
+ART. 2370.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2371.- Sólo se registrarán:
+ART. 2371.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-I.- Los testimonios de escritura pública u otros documentos auténticos;
+ART. 2372.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-II.- Las sentencias y providencias judiciales certificadas legalmente;
+ART. 2373.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya constancia de que el registrador o la autoridad municipal se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+ART. 2374.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2372.- El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse y llena las formas extrínsecas exigidas por la ley.
-
-ART. 2373.- Si los bienes inmuebles estuvieren ubicados en varios municipios, el índice de su inscripción será anotado en todos ellos.
-
-ART. 2374.- Los interesados deberán presentar para su registro los documentos por duplicado para el efecto de que con uno de los ejemplares se forme el registro correspondiente, y el otro se devuelva al interesado con la anotación de quedar registrado en tal fecha y bajo tal número.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO V. DE LA EXTINCION DE LAS INSCRIPCIONES
 
-ART. 2375.- Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión a otra persona del dominio, o derecho real inscrito.
+ART. 2375.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2376.- Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+ART. 2376.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2377.- La cancelación de las inscripciones podrá ser total o parcial.
+ART. 2377.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2378.- Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
+ART. 2378.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
+ART. 2379.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-II.- Cuando se extinga también por completo el derecho inscrito;
+ART. 2380.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
+ART. 2381.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-IV.- Cuando se declare la nulidad de la inscripción,
+ART. 2382.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen;
+ART. 2383.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-VI.- Cuando tratándose de juicio hipotecario o de un embargo, hayan transcurrido dos años desde la fecha de la inscripción.
+ART. 2384.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2379.- Podrá pedirse, y deberá decretarse en su caso, la cancelación parcial:
+ART. 2385.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-I.- Cuando se reduzca el inmueble objeto de la inscripción;
+ART. 2386.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+ART. 2387.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2380.- Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo autentico.
+ART. 2388.- ((DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2381.- Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
+ART. 2389.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2382.- Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
+ART. 2390.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2383.- Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada se cancelará ésta.
-
-ART. 2384.- Los padres como administradores de los bienes de sus hijos; los tutores de menores o incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
-
-ART. 2385.- La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
-
-II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos;
-
-III.- Por ofrecimiento de pago y consignación del importe de los títulos hechos de acuerdo con las disposiciones relativas.
-
-ART. 2386.- Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 2387.- Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
-
-La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en la Ley Procesal Civil.
-
-ART. 2388.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
-
-ART. 2389.- Las cancelaciones se harán en la forma que fije la ley; pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa porque se hace la cancelación y su fecha.
-
-ART. 2390.- Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
-
-Fuera de los casos expresamente señalados sólo por sentencia judicial podrán cancelarse las inscripciones que estuvieren hechas en el Registro Público de la Propiedad.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
 ## TITULO UNICO. DEL REGISTRO PUBLICO
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
+
 ### CAPITULO VI. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
-ART. 2391.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para usucapirlos y no tenga título de propiedad, o teniéndolo lo hubiere extraviado, o no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 736 de este Código, podrá demostrar ante el Juez competente, que ha tenido esa posesión, rindiendo la información Ad-perpetuam respectiva en los términos que establece la Ley Procesal Civil y cumpliendo los siguientes requisitos:
+ART. 2391.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-I.- El promovente acompañará:
-
-a).- Plano autorizado por Ingeniero Titulado que señale la superficie del inmueble, dimensiones y colindancias, nombres de los colindantes y todos los datos que faciliten su localización y ubicación;
-
-b).- Informe del Registro Público de la Propiedad del Estado, sobre los datos que existen relativos al inmueble y predios colindantes;
-
-c).- Certificado del Departamento de Catastro del Estado, que especifique los antecedentes que tuviere del inmueble;
-
-d).- Certificado de la Oficina Fiscal del Estado, de la jurisdicción correspondiente, de que el promovente ha tenido manifestado el inmueble respectivo, cuando menos cinco años anteriores a la fecha de su promoción; y que ha estado pagando el impuesto predial durante dicho período;
-
-e).- Certificado de la Presidencia Municipal del lugar de ubicación del inmueble, relativo a cualquier dato que tenga sobre la posesión por parte del promovente;
-
-f).- Copia de la promoción para el Ministerio Público, y para cada uno de los colindantes;
-
-g).- Certificación del Departamento de bienes del Estado de que el inmueble de que se trata no se encuentra dentro del patrimonio del Gobierno del Estado. La certificación negativa no surtirá efectos si con posterioridad se demuestra que el inmueble en cuestión sí es propiedad del Gobierno del Estado;
-
-II.- La información Ad-perpetuam se recibirá con citación del Ministerio Público y de los colindantes, a quienes se notificará personalmente el auto que admita la promoción corriéndoles traslado con copia de ésta;
-
-III.- Preferentemente se requerirá el testimonio de los colindantes. Si esto no fuere posible, en igual número de los colindantes que faltaren, se recibirá el testimonio de persona o personas vecinas del predio objeto de la información, debiendo comprobar que su residencia en el lugar, data de cinco años anteriores a la promoción;
-
-IV.- No se recibirá la información Ad-perpetuam si no se presenta el certificado a que se refiere la fracción I inciso d) que antecede;
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-V.- No se recibirá la información Ad-perpetuam sin que previamente se haya publicado la solicitud relativa, en el Periódico Oficial del Estado y en otro de mayor circulación del lugar donde estén ubicados los bienes materia de la información, por tres veces consecutivas, de siete en siete días. Además, en igual forma, se dará publicidad en avisos que se fijarán en los lugares más visibles de las Oficinas Públicas de la cabecera del municipio y del centro de población correspondiente al de la jurisdicción del inmueble.
-
-Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la usucapión, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
-
-Si la Ley Procesal Civil establece requisitos más gravosos que los señalados en este artículo también se deberá dar cumplimiento a lo dispuesto en el citado Código.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO VII. DE LAS INSCRIPCIONES DE POSESION
 
-ART. 2392.- El que esté poseyendo bienes inmuebles, sin que haya transcurrido el tiempo de la usucapión, podrá registrar dicha posesión previa resolución judicial. Para ese efecto, el poseedor promoverá información en los términos del artículo 2391 que antecede en cuyo caso el certificado que exige el inciso d) del propio artículo , deberá sólo acreditar el tiempo en que el interesado lo ha tenido manifestado y pagando el impuesto predial. El efecto del registro ser tener la posesión inscrita como apta para producir la usucapión al transcurrir el plazo de cinco años contados desde la misma inscripción.
+ART. 2392.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2393.- Transcurrido el término fijado en el párrafo primero del Artículo que antecede, sin que en el Registro Público de la Propiedad aparezca algún asiento que contradiga la posesión ya inscrita, el poseedor comprobará este hecho mediante la exhibición del certificado en propietario en virtud de la usucapión y ordenará que se haga en el Registro la inscripción de dominio correspondiente.
+ART. 2393.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+ART. 2394.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2394.- Cualquiera que se crea con derecho a los bienes que sean objeto de una información de dominio o de posesión, podrá alegarlo ante la autoridad judicial competente. La interposición de su oposición, suspenderá el curso de la información; si ésta estuviere concluida y aprobada, el juez lo pondrá en conocimiento del registrador, para que suspenda la inscripción. Si ya estuviese hecha, el opositor deberá promover el juicio respectivo, para los efectos del artículo 2390 de este Código.
+ART. 2395.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
-ART. 2395.- Para que se suspenda la tramitación de la información o de la inscripción, el opositor deberá otorgar fianza para responder de los daños y perjuicios que se originen, si su oposición se declara infundada.
-
-ART. 2396.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas sean o no aparentes, ni tampoco el derecho hipotecario.
-
-Si la Ley Procesal Civil marca mayores requisitos que los señalados por estas disposiciones, deberá darse cumplimiento también a lo dispuesto en aquel ordenamiento.
+ART. 2396.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
 ### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
 
@@ -9149,7 +8967,7 @@ ART. 2607.- Faltando alguna de las referidas solemnidades, quedará el testament
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-ART. 2607 BIS.- Testamento Público Simplificado, es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda familiar por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado, de los Ayuntamientos , o cualquier Dependencia o Entidad de la Administración Pública Federal, o Estatal o Municipal, o en acto posterior, de conformidad con lo siguiente:
+ART. 2607 BIS.- Testamento Público Simplificado, es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda familiar por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado, de los Ayuntamientos, o cualquier Dependencia o Entidad de la Administración Pública Federal, o Estatal o Municipal, o en acto posterior, de conformidad con lo siguiente:
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2004)</small>
 
@@ -10102,3 +9920,29 @@ P.O. 31 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE FEBRERO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial del Estado. Dentro de dicho plazo, el Ejecutivo del Estado expedirá el Decreto de creación del Instituto Registral y Catastral del Estado de Tamaulipas, el cual iniciará sus funciones dentro de los 240 días posteriores a su establecimiento. Al efecto el Ejecutivo realizará las acciones administrativas necesarias para adscribir los recursos humanos, presupuestales y materiales que requiere su funcionamiento. Hasta el inicio de actividades del Instituto Registral y Catastral, la Dirección del Registro Público de la Propiedad y del Comercio dará cumplimiento a sus funciones en términos de la ley que se expide mediante el presente Decreto, salvo lo previsto en los artículos transitorios del mismo.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley del Registro Público de la Propiedad expedida mediante Decreto 261, del 22 de noviembre de 1926, de la Vigésima Novena Legislatura Constitucional del Estado y publicado en los Periódicos Oficiales números 10, 11 y 12 del 2, 5 y 9 de febrero de 1927. Asimismo, sus subsecuentes reformas expedidas mediante Decreto del Ejecutivo, del 19 de abril de 1927 y publicado en el Periódico Oficial del Estado No. 33, del 23 de abril de 1927; Decreto del Ejecutivo, del 23 de febrero de 1928 y publicado en el Periódico Oficial del Estado 21, del 14 de marzo de 1928; Decreto No. 78, del 13 de agosto de 1935 y publicado en el Periódico Oficial del Estado No. 65 Bis, del 15 de agosto de 1935; Decreto No. 98, del 25 de septiembre de 1935 y publicado en el Periódico Oficial del Estado No. 79, del 2 de octubre de 1935; Decreto No. 120, del 3 de enero de 1936 y publicado en el Periódico Oficial del Estado No. 3, del 8 de enero de 1936 y se deroga el Decreto No. 78, del 13 de Agosto de 1935; Decreto No. 75, del 15 de febrero de 1949 y publicado en el Periódico Oficial del Estado No. 21, del 12 de marzo de 1949; Decreto No. 456, del 20 de julio de 1951 y publicado en el Periódico Oficial del Estado No. 58, del 21 de julio de 1951; y Decreto No. 307, del 9 de diciembre de 1953 y publicado en el Periódico Oficial del Estado No. 101, del 19 de diciembre de 1953.
+
+###### ARTICULO TERCERO.
+
+Se deroga la Segunda Parte del Libro Cuarto, Titulo Unico, Capítulos I, II, III, IV, V, VI y VII, artículos del 2342 al 2396, relativos al Registro Público, excepto los artículos 2345 y 2352 previamente derogados el 6 de diciembre de 2001 y 23 de diciembre de 1987, respectivamente, del Código Civil para el Estado de Tamaulipas.
+
+###### ARTICULO CUARTO.
+
+Hasta en tanto se disponga del equipo e instalaciones apropiadas para la operatividad del nuevo sistema registral, se continuará aplicando el sistema de incorporación de documentos, datos y de libros previsto en la ley que se abroga mediante este Decreto.
+
+###### ARTICULO QUINTO.
+
+Cuando en el procedimiento de captura de los asientos que obren en las oficinas del Registro Público para cubrir el procedimiento de automatización o en cualquier otro caso se detecte la ausencia de asientos registrales o documentos de duplicados, el Registro podrá proceder a su reposición a petición de parte interesada.
+
+###### ARTICULO SEXTO.
+
+El Reglamento de la presente ley deberá expedirse en un término que no exceda de 90 días posteriores a la entrada en vigor de este ordenamiento.
