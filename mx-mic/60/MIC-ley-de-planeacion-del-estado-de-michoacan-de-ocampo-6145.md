@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-del-estado-de-michoacan-de-ocampo-6145"
 country: "mx"
 rank: "ley"
 publication_date: "1989-04-17"
-last_updated: "2007-02-13"
+last_updated: "2008-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PLANEACION DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 17 de abril de 1989.
 
@@ -273,9 +273,9 @@ El Gobernador al solicitar a la Legislatura del Estado la aprobación de la Ley 
 
 Los ayuntamientos del Estado elaborarán y aprobarán conforme a las bases de coordinación que se hubieren convenido con el Gobierno del Estado, los planes y programas de desarrollo municipales, sujetándose a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2008)</small>
 
-I. Los planes se harán cada tres años y se presentarán ante el Congreso del Estado, para su examen y opinión, dentro de los dos primeros meses de gestión administrativa, y su vigencia se circunscribirá al período constitucional que corresponda al Ayuntamiento respectivo;
+l. Los planes se harán al inicio de la gestión administrativa y se presentarán ante el Congreso del Estado, para su examen y opinión, dentro de los cuatro primeros meses, y su vigencia se circunscribirá al período constitucional que corresponda al Ayuntamiento respectivo;
 
 II. Los programas tendrán una vigencia anual, excepto en los casos en que las prioridades del desarrollo determinen lo contrario pero bajo ninguna circunstancia excederán del período de la gestión administrativa municipal;
 
@@ -289,9 +289,11 @@ La información a que se refiere el párrafo anterior deberá efectuarse en el m
 
 Los planes de desarrollo y los programas estatales: sectoriales, subregionales y especiales; así como los municipales, se referirán a los mecanismos de coordinación entre las diferentes instancias de gobierno y podrán concertarse conforme a esta Ley con las representaciones de los grupos sociales interesados o con los particulares.
 
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 28 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 35.
 
-El plan de desarrollo integral del Estado de Michoacán, se publicará en el Periódico Oficial del Estado y los planes de desarrollo municipales, por bando municipal, en ambos casos se procurará su más amplia difusión.
+El Plan de Desarrollo Integral del Estado de Michoacán y los planes de desarrollo municipales, se publicarán en el Periódico Oficial del Estado, en ambos casos se procurará su más amplia difusión.
 
 Las modificaciones sustanciales al plan y programas de desarrollo, seguirán el mismo procedimiento que se señala en esta Ley, para su aprobación y publicación.
 
@@ -452,3 +454,9 @@ SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL INTERINO DEL EST
 P.O. 13 DE FEBRERO DE 2007.
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE FEBRERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
