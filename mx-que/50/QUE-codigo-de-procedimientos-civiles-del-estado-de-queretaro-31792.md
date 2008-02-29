@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2006-09-15"
+last_updated: "2008-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -1305,9 +1305,11 @@ Sólo los jueces competentes pueden decretar la separación de que habla el art�
 
 La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, se propondrá el domicilio para constituir el depósito del solicitante, la existencia de hijos menores y las demás circunstancias del caso. Puede proponerse el depósito en el propio domicilio conyugal.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTÍCULO 201.
 
-El juez podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución.
+El juez podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En los casos de violencia familiar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
 
 ###### ARTÍCULO 202.
 
@@ -1364,6 +1366,10 @@ El cónyuge que se separó, tendrá en todo tiempo el derecho de volver al domic
 ###### ARTÍCULO 211.
 
 Si el juez que decretó la separación no fuere el que deba conocer del negocio principal remitirá las diligencias practicadas al que fuere competente, quien confirmará en su caso las disposiciones dictadas, siguiendo el procedimiento por su curso legal.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+ARTÍCULO 211 bis.- Los derechos contemplados en el presente capítulo, también podrán ejercerlos la concubina o el concubinario, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil del Estado de Querétaro.
 
 ### CAPITULO IV. De la preparación del juicio arbitral
 
@@ -1487,11 +1493,25 @@ VI.- Suspensión de una obra, de la ejecución de un acto o de la celebración d
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
 
-VII.- La inscripción preventiva de la demanda, o
+VII.- La inscripción preventiva de la demanda, o (sic)
 
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 1999)</small>
 
-VIII.- La guarda y restitución de menores, provisionalmente en los términos del presente Código.
+VIII.- La guarda y restitución de menores, provisionalmente en los términos del presente Código;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+IX.- En los casos en que el juez lo considere pertinente, de conformidad con los hechos expuestos, las causales invocadas en la demanda y con el fin de salvaguardar la integridad y seguridad de los interesados, tratándose de violencia familiar, podrán decretarse adicionalmente las siguientes medidas:
+
+a) Ordenar la salida del agresor demandado de la vivienda donde habita el grupo familiar.
+
+b) En caso de que las partes interesadas se hayan visto obligadas a retirarse de su domicilio, ordenar su reintegración al mismo domicilio, así como la restitución de sus bienes personales que se encontraban en él.
+
+c) Prohibir al agresor demandado acudir a lugares determinados, tal como el domicilio, el lugar donde trabajen o estudien los agraviados, entre otros.
+
+d) Restringir al agresor demandado para que no se acerque o realice cualquier acto de molestia por cualquier medio a los agraviados, a la distancia que el propio juez considere pertinente.
+
+e) Informar a las autoridades competentes sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas en caso de que lo soliciten.
 
 ###### ARTÍCULO 231.
 
@@ -2677,9 +2697,9 @@ III.- Los cobros judiciales de honorarios de profesionistas con titulo y los de 
 
 IV.- La calificación de impedimentos de matrimonio;
 
-V.- La constitución necesaria del patrimonio de familia y la oposición de terceros, con interés legítimo, para que se haga esa constitución y, en general cualquier controversia que de dicho patrimonio se suscitará. No habiendo contienda, todo lo relativo al patrimonio familiar se substanciará en jurisdicción voluntaria.
+V.- La constitución necesaria del patrimonio de familia y la oposición de terceros, con interés legítimo, para que se haga esa constitución y, en general cualquier controversia que de dicho patrimonio se suscitará. No habiendo contienda, todo lo relativo al patrimonio familiar se substanciará en jurisdicción voluntaria;
 
-VI.- Las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de cónyuges, padres y tutores y, en general todas las cuestiones familiares que reclamen la intervención judicial.
+VI.- Las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de cónyuges, padres y tutores y, en general todas las cuestiones familiares que reclamen la intervención judicial;
 
 VII.- La rendición de cuentas por tutores, administradores y por todas aquellas personas a quienes la ley o el contrato imponen esa obligación;
 
@@ -2705,9 +2725,15 @@ XV.- En los casos a que se refiere el último párrafo del artículo 132 del Có
 
 XVI.- La solicitud a que se refiere el artículo 57 del Código Civil;
 
-XVII.- En los casos a que se refiere el artículo 58 del Código Civil; y
+XVII.- En los casos a que se refiere el artículo 58 del Código Civil; y (sic)
 
-XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad a juicio del juez, o porque así lo determine la ley.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+XVIII.- Las cuestiones relacionadas con violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros. Esta disposición no es aplicable a los casos de divorcio o de pérdida del ejercicio de la patria potestad; y
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+XIX.- En general, las cuestiones que por su naturaleza requieran celeridad a juicio del juez o porque así lo determine la ley.
 
 ###### ARTICULO 432.
 
@@ -5769,25 +5795,23 @@ Ante el tribunal competente se procederá, con respecto al testamento público c
 
 ### CAPITULO XV
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
-###### ARTICULO 921 Bis.
+ARTÍCULO 921 bis.- Cuando se hubieren designado beneficiarios de vivienda conceptuada por las leyes como de interés social o popular, en los términos establecidos por el artículo 1460-Bis del Código Civil del Estado de Querétaro, al ocurrir el fallecimiento del propietario, se procederá a ejecutar la estipulación en la siguiente forma:
 
-Cuando se hubiere designado beneficiarios en la adquisición de vivienda conceptuada por las leyes como de interés social o popular, al ocurrir el fallecimiento, se procederá a ejecutar la estipulación en la siguiente forma:
+I.- Los beneficiarios podrán ocurrir ante Notario del lugar donde se ubique el inmueble para solicitar el inicio de procedimiento de formalización de la transmisión, exhibiendo la partida de defunción correspondiente y el testimonio donde conste la designación.
 
-I.- El beneficiario podrá ocurrir ante Notario del lugar donde se encuentra el inmueble para iniciar el procedimiento de transmisión.
+II.- El Notario que corresponda hará constar en acta lo anterior, dando a conocer el inicio del procedimiento mediante una publicación en un periódico de mayor circulación en el Estado. Asimismo, solicitará informes al Archivo General de Notarías y al Registro Público de la Propiedad, en relación a la existencia de cualquier otra disposición testamentaria que pudiere modificar la designación.
 
-II.- El notario que corresponda se cerciorará del fallecimiento y sin necesidad de levantar acta, solicitará informes al Archivo General de Notarias y al Registro Publico de la Propiedad en relación a la existencia de cualquier otra disposición testamentaria que pudiere modificar la designación.
+III.-Transcurrido un plazo de siete días, contados desde el día siguiente al de la publicación y obtenidas las constancias respectivas, se protocolizarán éstas relacionando la cláusula testamentaria y haciéndose constar la adjudicación por causa de muerte a favor del beneficiario. Tal instrumento servirá como título de propiedad, sin que sea necesaria la tramitación de la sucesión, ni la designación de albacea.
 
-III.- Obtenidas las constancias respectivas, se protocolizarán en unión del acta de defunción, relacionando la cláusula testamentaria, y el instrumento servirá de titulo de propiedad sin que sea necesaria la tramitación de la sucesión ni la designación de Albacea.
+El testimonio respectivo deberá inscribirse en el Registro Público de la Propiedad.
 
-El titulo citado deberá inscribirse en el Registro Público de la Propiedad.
+IV.- En caso de que el beneficiario fuere incapaz, será representado por quien corresponda según las leyes y se hará constar esta circunstancia en las actuaciones notariales.
 
-IV.- En caso de que el beneficiario fuere incapaz, será representado por quien corresponda según las leyes y se hará constar esta circunstancia al efectuar la protocolización.
+V.- En caso de controversia, el notario suspenderá su intervención y remitirá copia certificada de lo actuado, con la documentación respectiva, al Tribunal Superior de Justicia del Estado, con objeto de que se tramite la sucesión ante el Juzgado competente.
 
-V.- En caso de controversia el notario se abstendrá de protocolizar y remitirá la documentación respectiva al Tribunal Superior de Justicia con objeto de que se tramite la sucesión ante el juzgado competente.
-
-VI.- La protocolización a que se refiere estas dos disposiciones no causará impuesto o derecho alguno a favor del fisco estatal o municipal.
+VI.- La adjudicación a que se refiere este artículo no causará impuesto o derecho alguno a favor del fisco estatal o municipal.
 
 TITULO DECIMOSEXTO
 
@@ -6055,9 +6079,7 @@ El juez no dictará su resolución sino hasta que los adoptantes hubieren compar
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 1999)</small>
 
-###### ARTICULO 955 Bis.
-
-Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena, en los términos del articulo 378 Bis del Código Civil, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los ocho días siguientes a la recepción de la solicitud, con la intervención del Ministerio Publico, luego de la cual se resolverá lo conducente en el término de ocho días posteriores a la referida audiencia.
+ARTICULO 955 bis.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena, en los términos del articulo 378 Bis del Código Civil, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los ocho días siguientes a la recepción de la solicitud, con la intervención del Ministerio Publico, luego de la cual se resolverá lo conducente en el término de ocho días posteriores a la referida audiencia.
 
 ###### ARTÍCULO 956.
 
@@ -6708,3 +6730,25 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
 
 CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
+
+P.O. 29 DE FEBRERO DE 2008.
+
+LEY POR LA QUE SE REFORMA EL ARTICULO 201; SE ADICIONA EL ARTICULO 211 BIS; SE ADICIONA LA FRACCION IX DEL ARTICULO 230; SE REFORMA LA FRACCION XVIII Y SE ADICIONA LA FRACCION XIX DEL ARTICULO 431, TODOS DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales o reglamentarías que se opongan a la presente.
+
+P.O. 29 DE FEBRERO DE 2008.
+
+LEY POR LA QUE SE REFORMA EL ARTICULO 921-BIS DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERETARO.
+
+PRIMERO. La presente Ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales o reglamentarías que se opongan a la presente.
