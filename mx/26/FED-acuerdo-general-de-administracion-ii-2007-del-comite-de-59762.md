@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-ii-2007-del-comite-de-59762"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-01-29"
-last_updated: "2007-01-29"
+last_updated: "2008-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59762&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-01-29"
 
 ACUERDO GENERAL DE ADMINISTRACION II/2007, DEL VEINTINUEVE DE ENERO DE DOS MIL SIETE, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DETERMINAN LAS MEDIDAS DE CARACTER GENERAL EN MATERIA DE RACIONALIDAD, AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA PARA EL EJERCICIO FISCAL DEL 2007
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION I/2008, DEL VEINTISIETE DE FEBRERO DE DOS MIL OCHO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DETERMINAN LOS LINEAMIENTOS DE CARACTER GENERAL EN MATERIA DE RACIONALIDAD, AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA PARA EL EJERCICIO FISCAL DEL 2008, PUBLICADO EN EL D.O.F. DE 29 DE FEBRERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXV de Febrero de 2007, página 2109.
 
@@ -224,3 +226,15 @@ CERTIFICA:
 Que esta copia del Acuerdo General de Administración II/2007, de veintinueve de enero de dos mil siete, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se determinan las medidas de carácter general en materia de racionalidad, austeridad y disciplina presupuestaria para el ejercicio fiscal del 2007, constante de diecisiete fojas útiles, incluidos sus anexos, concuerda fielmente con su original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente.-México, Distrito Federal, a primero de febrero de dos mil siete.
 
 > <small>N. DE E. VER ANEXOS EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA DE FEBRERO DE 2007, TOMO XXV, PAGINAS DE LA 2121 A LA 2122.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 29 DE FEBRERO DE 2008.
+
+PRIMERO. Los presentes lineamientos entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración II/2007, del veintinueve de enero de dos mil siete, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se determinan las medidas de carácter general en materia de racionalidad, austeridad y disciplina presupuestaria para el ejercicio fiscal de dos mil siete.
+
+TERCERO. Se derogan las disposiciones de observancia general respecto a las medidas en materia de disciplina, racionalidad y austeridad, emitidas por la Suprema Corte de Justicia de la Nación previamente al presente Acuerdo General.
+
+CUARTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
