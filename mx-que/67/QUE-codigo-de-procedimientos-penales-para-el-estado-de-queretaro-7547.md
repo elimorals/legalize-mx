@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2006-06-16"
+last_updated: "2008-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -191,7 +191,23 @@ III.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraig
 
 IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas, así como a los testigos que depongan en contra de los imputados.
 
-V- Restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando esté comprobado el cuerpo del delito de que se trate, y exigiendo garantía suficiente si lo estimare necesario. Esta facultad no procede cuando se trate de bienes inmuebles.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE FEBRERO DE 2008)</small>
+
+En los casos de violencia familiar, podrán decretarse las siguientes medidas:
+
+a) Ordenar la salida del agresor demandado de la vivienda donde habita el grupo familiar.
+
+b) En caso de que las partes interesadas se hayan visto obligadas a retirarse de su domicilio, ordenar su reintegración al mismo, así como la restitución de sus bienes personales que se encontraban en él.
+
+c) Prohibir al agresor demandado acudir a lugares determinados, tal como el domicilio, el lugar donde trabajen o estudien los agraviados, entre otros.
+
+d) Restringir al agresor demandado para que no se acerque o realice cualquier acto de molestia por cualquier medio a los agraviados, a la distancia que el propio juez considere pertinente.
+
+e) En los casos en que la víctima haga referencia a la presencia de armas u objetos como medio de amenaza, decomisar éstas para garantizar la seguridad de la víctima.
+
+f) Informar a las autoridades competentes sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas en caso de que lo soliciten.
+
+V.- Restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando esté comprobado el cuerpo del delito de que se trate, y exigiendo garantía suficiente si lo estimare necesario. Esta facultad no procede cuando se trate de bienes inmuebles.
 
 VI.- Determinar conforme a las disposiciones de este Código, su reserva o bien el ejercicio o no ejercicio de la acción penal, y
 
@@ -353,7 +369,7 @@ Si el defensor fuere de oficio, el juzgador deberá, además, poner en conocimie
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
 
-ARTICULO 36 (Derechos de la víctima y del ofendido durante las diligencias de preparación del ejercicio de la acción penal).- Durante las diligencias de preparación del ejercicio de la acción penal, la víctima y el ofendido por el delito tendrán los siguientes derechos:
+ARTICULO 36 (Derechos de la víctima y del ofendido durante las diligencias de preparación del ejercicio de la acción penal). Durante las diligencias de preparación del ejercicio de la acción penal, la víctima y el ofendido por el delito tendrán los siguientes derechos:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -378,6 +394,10 @@ V. A recibir de manera inmediata la atención médica y psicológica que requier
 > <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
 
 VI. A recibir asesoría jurídica en los términos del artículo 20 fracción X de este Código.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+VII. Solicitar orden de protección que se dicte en los términos de la fracción IV del artículo 20 de este Código.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
 
@@ -775,9 +795,9 @@ II.- El homicidio, en los supuestos de los artículos 125 y 126;
 
 III.- Las lesiones previstas en la fracción IX del artículo 127, cuando concurran las circunstancias señaladas en el artículo 131;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
 
-IV.- El secuestro en los supuestos del artículo 150, excepto cuando se ponga en libertad a la persona antes de tres días y sin causar ningún perjuicio,
+IV.- El secuestro en los supuestos del Artículo 150, excepto cuando se ponga en libertad a la persona antes de tres días y sin causar ningún perjuicio. También se considerará delito grave la privación de la libertad en el supuesto del Artículo 149 BIS, excepto cuando se libere a la persona de forma espontánea, dentro de las veinticuatro horas siguientes a la comisión del hecho, sin la obtención del lucro y sin causar ningún daño;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -797,7 +817,7 @@ VIII.- El tráfico de menores en la circunstancia señalada en el párrafo quint
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-IX.- El despojo previsto en el artículo 199, en tratándose de autores intelectuales o quienes dirijan el despojo en términos del artículo 200,
+IX.- El despojo previsto en el artículo 199, en tratándose de autores intelectuales o quienes dirijan el despojo en términos del artículo 200;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -813,7 +833,7 @@ XII.- La trata de personas prevista en el artículo 239, si el ofendido fuere me
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-XIII.- La sedición en el supuesto segundo del párrafo del artículo 247,
+XIII.- La sedición en el supuesto segundo del párrafo del artículo 247;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -825,23 +845,23 @@ XV.- El terrorismo en el supuesto del primer párrafo del artículo 254;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-XVI.- El sabotaje en los supuestos de las fracciones I y II del artículo 255, y
+XVI.- El sabotaje en los supuestos de las fracciones I y II del artículo 255, y (sic)
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-XVII.- La tortura en los supuestos de los artículos 309 y 311.
+XVII.- La tortura en los supuestos de los artículos 309 y 311;
 
 > <small>(ADICIONADA, P.O. 2 DE ABRIL DE 1999)</small>
 
-XVIII.- El fraude previsto por los artículos 193 y 194, cuando se cometan en las circunstancias previstas en el artículo 195.
+XVIII.- El fraude previsto por los artículos 193 y 194, cuando se cometan en las circunstancias previstas en el artículo 195;
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-XIX.- El abigeato previsto en la fracción III del artículo 189 Del Código Penal para el Estado de Querétaro.
+XIX.- El abigeato previsto en la fracción III del artículo 189 Del Código Penal para el Estado de Querétaro;
 
 > <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2002)</small>
 
-XX.- La evasión de personas aseguradas, en los supuestos de las fracciones III, V y VI del artículo 293 del Código Penal para el Estado de Querétaro.
+XX.- La evasión de personas aseguradas, en los supuestos de las fracciones III, V y VI del artículo 293 del Código Penal para el Estado de Querétaro;
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2002)</small>
 
@@ -2448,3 +2468,27 @@ P.O. 16 DE JUNIO DE 2006.
 PRIMERO. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 29 DE FEBRERO DE 2008.
+
+LEY POR LA QUE SE REFORMA LA FRACCION IV DEL ARTICULO 20 Y SE ADICIONA UNA FRACCION VII AL ARTICULO 36 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 29 DE FEBRERO DE 2008.
+
+LEY POR LA QUE SE REFORMA LA FRACCION IV DEL ARTICULO 121 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
