@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-procedimientos-administrativos-para-el-estado-y-34160"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-29"
-last_updated: "2003-09-29"
+last_updated: "2008-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO Y MUNICIPIOS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 29 de septiembre de 2003.
 
@@ -294,6 +294,10 @@ VI. Intervenga como perito o como testigo en el asunto de que se trata;
 VII. Tenga relación de servicio, sea cual fuera su naturaleza, con las personas físicas o morales interesadas directamente en el asunto; y
 
 VIII. Por cualquier otra causa prevista en ley.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+En el caso de la fracción II de este artículo, el impedimento solamente surtirá efectos durante el año siguiente a la fecha en que el servidor público haya dejado de ser representante legal del promovente.
 
 ###### ARTÍCULO 22.
 
@@ -769,9 +773,13 @@ II. Multa;
 
 III. Multa adicional por cada día que persista la infracción;
 
-IV. Arresto hasta por 36 horas; y
+IV. Arresto hasta por 36 horas; y (sic)
 
 V. Clausura temporal o permanente, parcial o total;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 2008)</small>
+
+VI. Revocación del Acto, Concesión, Licencia, Permiso o Autorización.
 
 La sanción administrativa de arresto sólo podrá imponerse si:
 
@@ -1042,3 +1050,11 @@ LIC. BERNARDO GARCIA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE FEBRERO DE 2008.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
