@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-publica-para-el-estado-de-queretaro-51860"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-15"
-last_updated: "2006-09-15"
+last_updated: "2008-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 15 de septiembre de 2006.
 
@@ -595,9 +595,15 @@ XXII. Desarrollar e impulsar la implementación de procedimientos, mecanismos e 
 
 XXIII. Formular a los encargados de la seguridad pública en el Estado y Municipios, las recomendaciones que estime pertinentes para el mejoramiento de la función;
 
-XXIV. Proponer, coordinar e implementar el Programa de Emergencias en el Estado; y
+XXIV. Proponer, coordinar e implementar el Programa de Emergencias en el Estado; y (sic)
 
-XXV. Las demás que se requieran para el cumplimiento de los objetivos del Consejo Estatal.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+XXV. Crear un fondo para fortalecer la estructura y equipamiento de los cuerpos de rescate y atención de emergencias;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+XXVI. Las demás que se requieran para el cumplimiento de los objetivos del Consejo Estatal.
 
 ###### ARTÍCULO 40.
 
@@ -2390,3 +2396,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 TERCERO. Los órganos y autoridades que se establecen en esta presente Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
 
 CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
+
+P.O. 29 DE FEBRERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
