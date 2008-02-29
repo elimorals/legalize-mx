@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2008-01-11"
+last_updated: "2008-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE FEBRERO DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -262,7 +262,7 @@ B) Tesorería del Distrito Federal, a la que quedan adscritas:
 
 2.3. Dirección de Ingresos;
 
-2.4. Dirección de Ejecución Fiscal;
+2.4. (DEROGADO, G.O. 29 DE FEBRERO DE 2008)
 
 2.5 Dirección de Normatividad;
 
@@ -272,15 +272,21 @@ B) Tesorería del Distrito Federal, a la que quedan adscritas:
 
 2.7. Dirección de Modernización Tributaria.
 
-3. Subtesorería de Fiscalización, a la que quedan adscritas:
+> <small>(REFORMADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
-3.1. Dirección de Programación y Control de Auditorías;
+3. Subtesorería de Fiscalización, a las que quedan adscritas:
 
-3.2. Dirección de Auditorías Directas;
+3.1. Dirección Ejecutiva de Cobranza:
 
-3.3. Dirección de Revisiones Fiscales; y
+3.1.1. Dirección de Control de Obligaciones y Créditos; y
 
-3.4. Dirección de Evaluación y Procedimientos Legales.
+3.1.2. Dirección de Cobranza Coactiva.
+
+3.2. Dirección de Programación y Control de Auditorias;
+
+3.3. Dirección de Auditorías Directas; y
+
+3.4. Dirección de Revisiones Fiscales.
 
 4. Subtesorería de Catastro y Padrón Territorial.
 
@@ -313,6 +319,10 @@ F) Subsecretaría de Planeación:
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 G) Unidad de Inteligencia Financiera del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
+1.- Coordinación Ejecutiva de Verificación de Comercio Exterior.
 
 IX. A la Secretaría de Transportes y Vialidad:
 
@@ -1492,9 +1502,13 @@ III. Recibir, tramitar y resolver las solicitudes de declaratoria de exención d
 
 IV. Recibir, tramitar y resolver las solicitudes de caducidad y prescripción que formulen los contribuyentes, respecto de las facultades de comprobación y de créditos fiscales provenientes de la aplicación del Código Financiero del Distrito Federal, así como las que deriven de contribuciones federales coordinadas, con base en las leyes, convenios de coordinación y acuerdos que rijan la materia;
 
-V. Informar a la Secretaría de Finanzas, y a la Tesorería del Distrito Federal, de las resoluciones de los tribunales administrativos o judiciales sobre asuntos de su competencia;
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
-VI. Apoyar al Secretario de Finanzas y al Tesorero del Distrito Federal, en la interpretación, dentro del orden administrativo, de las leyes, acuerdos del Ejecutivo Federal, acuerdos del Jefe de Gobierno y demás disposiciones fiscales de la Hacienda Pública del Distrito Federal;
+V. Informar a la Secretaría de Finanzas, a la Tesorería del Distrito Federal y a la Unidad de Inteligencia del Distrito Federal, de las resoluciones de los tribunales administrativos o judiciales sobre asuntos de su competencia;
+
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+VI. Apoyar al Secretario de Finanzas, al Tesorero del Distrito Federal y al Jefe de la Unidad de Inteligencia Financiera del Distrito Federal, en la interpretación, dentro del orden administrativo, de las leyes, acuerdos suscritos con el Ejecutivo Federal, acuerdos del Jefe de Gobierno y demás disposiciones fiscales de la Hacienda Pública del Distrito Federal;
 
 VII. Formular los anteproyectos de leyes y disposiciones jurídicas fiscales del Distrito Federal;
 
@@ -1644,7 +1658,53 @@ XIII. Realizar consultas a expertos, instituciones académicas y de investigaci�
 
 XIV. Participar en foros y eventos relacionados;
 
-XV. Todas aquellas que sean necesarias para el ejercicio de sus funciones, así como las que sean conferidas por sus superiores jerárquicos.
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XV. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
+
+a) Comprobar el correcto cálculo y pago de los impuestos generales de importación y de exportación, así como del derecho de trámite aduanero;
+
+b) Comprobar el correcto cálculo y pago de los impuestos al valor agregado, especial sobre producción y servicios, sobre automóviles nuevos y sobre tenencia o uso de vehículos, causados por la importación a territorio nacional;
+
+c) Comprobar el correcto cumplimiento de regulaciones y restricciones no arancelarias, inclusive de las normas oficiales mexicanas y el pago de cuotas compensatorias;
+
+d) Comprobar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XVI. Ordenar la práctica de todos los actos inherentes a las facultades de comprobación en materia de comercio exterior, conferidas a la Administración Pública del Distrito Federal, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos con el Ejecutivo Federal;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XVII. Participar en el ámbito de su competencia, en la formulación, vigilancia y cumplimiento de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XVIII. Expedir las constancias o credenciales de identificación respectivas, que acrediten a los servidores públicos para realizar los actos a que se refiere la fracción XV de este artículo, tales como visitas domiciliarias y verificaciones de mercancías y vehículos, de origen o procedencia extranjera y para la práctica de las notificaciones, liquidaciones de créditos fiscales y todos los actos inherentes al procedimiento administrativo de ejecución, al procedimiento administrativo en materia aduanera y a la clasificación arancelaria, derivados del ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XIX. Participar en la formulación, vigilancia y cumplimiento de los acuerdos de Colaboración Administrativa en Materia Fiscal Federal, relativos al comercio exterior, en los términos de las Leyes y Reglamentos Aplicables;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XX. Administrar las funciones operativas inherentes a la recaudación, comprobación, determinación y cobro de los ingresos federales coordinados en materia de comercio exterior, con base en los Acuerdos suscritos con Ejecutivo Federal;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XXI. Ejecutar la facultad económico coactiva, mediante el procedimiento administrativo de ejecución, para hacer efectivo los créditos fiscales de carácter federal, en materia de comercio exterior, en los términos de las disposiciones fiscales aplicables y de los acuerdos suscritos con el Ejecutivo Federal;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XXII. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar sus (sic) sustitución, cancelarlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XXIII. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada a la Administración Pública del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XXIV. Todas aquellas que sean necesarias para el ejercicio de sus funciones, las que sean conferidas por sus superiores jerárquicos, así como, las que correspondan a las unidades administrativas que le sean adscritas.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -3924,13 +3984,15 @@ IV. Registrar los ingresos que se generen en el ejercicio de sus funciones y ela
 
 V. Imponer sanciones por infracciones a las disposiciones fiscales del Distrito Federal y a las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales, en virtud de las leyes aplicables y los acuerdos del Ejecutivo Federal;
 
-VI. Ejercer la facultad económico coactiva, mediante el procedimiento administrativo de ejecución, y con el fin de hacer efectivos los créditos fiscales locales y los de carácter federal, cuya aplicación esté encomendada al Distrito Federal en virtud de las leyes aplicables o de los acuerdos del Ejecutivo Federal;
+VI. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
 VII. Recibir, tramitar y resolver las solicitudes de devolución o compensación de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables, así como los acuerdos del Ejecutivo Federal o del Jefe de Gobierno;
 
-VIII. Recibir, tramitar y resolver las solicitudes de los contribuyentes en materia de pago a plazos de los créditos fiscales del Distrito Federal o federales coordinados y, en su caso, pagarlos;
+VIII. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
-IX. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales a que se refiere este Artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación, así como resolver sobre su dispensa, cuando sea procedente;
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+IX. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales a que se refiere este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente, con excepción de las que por atribuciones le correspondan a la Subtesorería de Fiscalización;
 
 X. Coordinar las acciones permanentes de actualización de los padrones de contribuyentes, relativos a ingresos del Distrito Federal o federales coordinados;
 
@@ -3940,7 +4002,7 @@ XII. Planear, coordinar, dirigir y evaluar la operación y aplicación estricta 
 
 XIII. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de las funciones a su cargo;
 
-XIV. Diseñar y administrar los programas de control del cumplimiento de las obligaciones fiscales de los contribuyentes;
+XIV. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
 XV. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
 
@@ -3948,9 +4010,9 @@ XVI. Informar a la Subtesorería de Fiscalización de las omisiones o diferencia
 
 XVII. Vigilar la aplicación de las normas y procedimientos para la recepción y revisión de los avisos y declaraciones que presentan los contribuyentes, para el cumplimiento de sus obligaciones fiscales relativas a ingresos locales y federales coordinados;
 
-XVIII. Establecer metas de recaudación congruentes con la política tributaria del Distrito Federal efectuando el seguimiento de los programas respectivos; y
+XVIII. Establecer metas de recaudación congruentes con la política tributaria del Distrito Federal efectuando el seguimiento de los programas respectivos; y (sic)
 
-XIX. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en término de las disposiciones legales aplicables;
+XIX. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
 > <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
 
@@ -4012,59 +4074,7 @@ VIII. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que 
 
 ###### Artículo 77.
 
-Corresponde a la Dirección de Ejecución Fiscal:
-
-I. Determinar, notificar y cobrar las contribuciones y aprovechamientos emitidos y sus accesorios, señalados en la Ley de Ingresos del Distrito Federal en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal;
-
-II. Notificar los actos administrativos relacionados con las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados;
-
-III. Imponer sanciones por infracciones a las leyes fiscales del Distrito Federal y a las de carácter federal cuya aplicación esté encomendada a las autoridades hacendarías locales, con base en los acuerdos del Ejecutivo Federal;
-
-IV. Hacer efectivos, a través del procedimiento administrativo de ejecución, los créditos fiscales exigibles en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal;
-
-V. Programar y controlar la vigilancia del cumplimiento de obligaciones fiscales de los contribuyentes;
-
-VI. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales citados en este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
-
-VII. Planear, normar, coordinar, dirigir y evaluar la operación y aplicación de las normas y procedimientos sobre notificación y cobranza en la materia de su competencia;
-
-VIII. Recibir, tramitar y resolver las solicitudes de contribuyentes en materia de pago a plazos de los créditos fiscales a cargo de los contribuyentes;
-
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
-
-IX. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
-
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
-
-X. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XI. Comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones previstas en las leyes fiscales del Distrito Federal y de las coordinadas cuya aplicación compete a las autoridades hacendarias locales, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos por el Ejecutivo Federal, así como administrar y recaudar las contribuciones, aprovechamientos, productos, accesorios y su actualización, señalados en las disposiciones antes mencionadas;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XII. Requerir a los contribuyentes, responsables solidarios y demás obligados, para que exhiban la contabilidad, declaraciones y avisos, y para que proporcionen los datos, otros documentos e informes, a fin de comprobar el cumplimiento de las disposiciones fiscales;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XIII. Establecer los sistemas y procedimientos a que debe sujetarse la práctica de visitas domiciliarias, revisión de declaraciones y dictámenes, visitas de inspección y verificaciones en materia de comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XIV. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones que entrañen o que puedan entrañar el incumplimiento de las disposiciones fiscales que se conozcan, con motivo del ejercicio de las atribuciones de comprobación;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XV. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarias locales;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XVI. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales; y
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XVII. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones.
+(DEROGADO, G.O. 29 DE FEBRERO DE 2008)
 
 ###### Artículo 78.
 
@@ -4150,19 +4160,21 @@ III. Realizar las funciones operativas inherentes al registro, clasificación, v
 
 IV. Imponer sanciones por infracciones a las disposiciones fiscales del Distrito Federal y a las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales, en virtud de las leyes aplicables y los acuerdos del Ejecutivo Federal;
 
-V. Ejercer la facultad económico coactiva, mediante el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal;
+V. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
 VI. Recibir, tramitar, resolver y, en su caso, autorizar el pago de las solicitudes de devolución o compensación de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables, así como los acuerdos del Ejecutivo Federal;
 
-VII. Recibir, tramitar y resolver las solicitudes de los contribuyentes en materia de pago a plazos de los créditos fiscales del Distrito Federal o federales coordinados;
+VII. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
 VIII. Recibir, revisar y tramitar las manifestaciones, declaraciones, avisos, documentos e informes que presenten o deban presentar los sujetos obligados para el cumplimiento de sus obligaciones fiscales;
 
-IX. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales a que se refiere este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+IX. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales a que se refiere este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente, con excepción de las que por atribuciones le correspondan a la Subtesorería de Fiscalización;
 
 X. Mantener actualizados los padrones de contribuyentes, de las contribuciones señaladas en la Ley de Ingresos del Distrito Federal y los correspondientes a los ingresos federales coordinados a que se refieren los acuerdos del Ejecutivo Federal;
 
-XI. Programar, controlar y registrar el cumplimiento de las obligaciones fiscales de los contribuyentes;
+XI. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
 XII. Expedir a los contribuyentes copias certificadas, constancias e informes de adeudo a que se refieren las leyes fiscales aplicables;
 
@@ -4176,7 +4188,7 @@ XVI. Brindar orientación y asesoría al contribuyente;
 
 XVII. Informar a la Procuraduría Fiscal del Distrito Federal, de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
 
-XVIII. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables.
+XVIII. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
 ###### Artículo 81.
 
@@ -4192,29 +4204,101 @@ IV. Establecer los sistemas y procedimientos a que debe sujetarse la práctica d
 
 V. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones que entrañen o que puedan entrañar el incumplimiento de las disposiciones fiscales que se conozcan, con motivo del ejercicio de las atribuciones de comprobación;
 
-VI. Determinar en cantidad líquida las contribuciones omitidas y sus accesorios que se conozcan, con motivo del ejercicio de sus atribuciones, en los términos de las leyes fiscales del Distrito Federal o de las federales cuya aplicación competa a las autoridades hacendarías locales;
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
-VII. Imponer sanciones por infracciones a las disposiciones fiscales que se conozcan con motivo del ejercicio de las atribuciones a que se refiere este artículo y con sujeción a las disposiciones aplicables;
+VI. Determinar en cantidad líquida las contribuciones, aprovechamientos y productos omitidos y sus accesorios que se conozcan, con motivo del ejercicio de sus atribuciones, en los términos de las leyes fiscales del Distrito Federal o de las federales cuya aplicación competa a las autoridades hacendarias locales, de conformidad con los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
-VIII. Notificar a los contribuyentes, responsables solidarios y demás obligados, los actos relacionados con el ejercicio de las atribuciones de comprobación;
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
-IX. Recibir, tramitar y resolver las solicitudes de los contribuyentes en materia de pago a plazo de los créditos fiscales del Distrito Federal o federales coordinados, en los términos de los acuerdos del Ejecutivo Federal, determinados con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales;
+VII. Imponer sanciones por infracciones a las disposiciones fiscales que se conozcan con motivo del ejercicio de las atribuciones a que se refiere este artículo y con sujeción a las disposiciones fiscales aplicables y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+VIII. Notificar a los contribuyentes, responsables solidarios y demás obligados, los actos administrativos relacionados con el ejercicio de las atribuciones establecidas en este Artículo;
+
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+IX. Recibir, tramitar y resolver las solicitudes de los contribuyentes en materia de pago a plazo de los créditos fiscales del Distrito Federal o Federales Coordinados, en los términos de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
 X. Recibir y resolver las solicitudes de compensación que formulen los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables y los acuerdos del Ejecutivo Federal;
 
-XI. Ejercer la facultad económica coactiva mediante el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales locales y los de carácter federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal, siempre que dichos créditos se determinen con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales;
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XI. Ejercer la facultad económica coactiva mediante el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales locales y los de carácter federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
 XII. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales;
 
-XIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de cumplimiento de obligaciones y de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
 
 XIV. Aceptar previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales a que se refiere este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente y resolver sobre su dispensa en los términos de las disposiciones fiscales;
 
 XV. Establecer los sistemas y procedimientos de control administrativo que coadyuven a combatir la evasión fiscal, sujetándose, para el efecto, a las normas establecidas por las disposiciones fiscales;
 
-XVI. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones; e
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
-XVII. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, que puedan constituir delitos fiscales.
+XVI. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones;
+
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XVII. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, que puedan constituir delitos fiscales;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XVIII. Diseñar y administrar los programas de control del cumplimiento de obligaciones fiscales de los contribuyentes;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XIX. Vigilar la consolidación en la información que le suministren las unidades competentes, relativa a los créditos fiscales firmes de los contribuyentes, en los términos y alcances que señalen las disposiciones fiscales aplicables y establecer esquemas de control y supervisión respecto de los créditos fiscales exigibles;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XX. Planear y dirigir la operación y aplicación de las normas y procedimientos sobre notificación y cobranza, así como respecto a la interpretación y aplicación de las disposiciones legales, en la materia de su competencia; y
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+XXI. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
+###### Artículo 81 Bis.
+
+Corresponde a la Dirección Ejecutiva de Cobranza:
+
+I. Coordinar las acciones tendientes al (sic) a la programación y control del cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados, en los términos de las disposiciones fiscales aplicables;
+
+II. Promover las acciones necesarias para el ejercicio de la facultad económica coactiva, a través del procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales;
+
+III. Coordinar y evaluar la operación y aplicación de las normas y procedimientos sobre notificación y cobranza en la materia de su competencia;
+
+IV. Establecer directrices en relación con la autorización de las solicitudes de contribuyentes en materia de pago a plazos de los créditos fiscales;
+
+V. Efectuar en el ámbito de su competencia el seguimiento y vigilancia en la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarias locales, en los términos de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+
+VI. Verificar la practica y ejecución de todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
+
+VII. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones;
+
+VIII. Coordinar el enlace con la Secretaría de Hacienda y Crédito Público derivados del cumplimiento de la normatividad fiscal Federal y los Acuerdos de Coordinación Fiscal;
+
+IX. Difundir las reformas fiscales y prestar asesoría al personal de las diferentes áreas de la Subtesorería de Fiscalización, respecto a la interpretación y aplicación de las disposiciones legales;
+
+X. Vigilar la determinación en cantidad líquida de las contribuciones, aprovechamientos y productos omitidos y sus accesorios, señalados en la Ley de Ingresos del Distrito Federal, de los contribuyentes, responsables solidarios y demás obligados, en los términos de las disposiciones fiscales aplicables y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+
+XI. Supervisar la notificación de los actos administrativos, en los términos de las disposiciones fiscales aplicables y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+
+XII. Vigilar la imposición de sanciones por infracciones a las leyes fiscales del Distrito Federal y a las de carácter federal cuya aplicación esté encomendada a las autoridades hacendarias locales, con base en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren, así como aquellas que se conozcan con motivo del ejercicio de las facultades a que se refiere este artículo con sujeción a las disposiciones aplicables;
+
+XIII. Coordinar la aceptación, previa calificación, de las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales citados en este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
+
+XIV. Coordinar el procedimiento para hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables;
+
+XV. Vigilar la integración de información que le suministren las áreas competentes, relativa a los créditos fiscales firmes de los contribuyentes, en los términos y alcances que señalen las disposiciones fiscales aplicables;
+
+XVI. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
+
+XIX (SIC). Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia.
 
 ###### Artículo 82.
 
@@ -4226,11 +4310,21 @@ I. Proponer para aprobación superior los programas de fiscalización en materia
 
 II. Desarrollar actos de fiscalización para mantener actualizado el padrón de contribuyentes, en términos de los programas que para tal efecto se acuerden en materia de contribuciones federales coordinadas;
 
-III. (DEROGADA, G.O. 21 DE MAYO DE 2002)
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
-IV. Proponer para aprobación del titular de la Subtesorería de Fiscalización, los sistemas de evaluación o, en su caso, la normatividad aplicable para eficientar los resultados obtenidos de los programas de comprobación de las obligaciones fiscales a cargo de los contribuyentes, así como analizar el estado que guardan los mismos en sus etapas de programación, ejecución, término y finiquito; y
+III. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
 
-V. Expedir copias certificadas de la documentación que obre en sus archivos.
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+IV. Proponer para aprobación del titular de la Subtesorería de Fiscalización, los sistemas de evaluación o, en su caso, la normatividad aplicable para hacer más eficiente los resultados obtenidos de los programas de comprobación de las obligaciones fiscales a cargo de los contribuyentes, así como analizar el estado que guardan los mismos en sus etapas de programación, ejecución, término y finiquito;
+
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+V. Expedir copias certificadas de la documentación que obre en sus archivos; y
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+VI. Informar los avances en los programas de visitas domiciliarias, verificación, auditorías, comprobación, revisión y cualesquier otro programa que implemente la Subtesorería de Fiscalización.
 
 ###### Artículo 83.
 
@@ -4246,9 +4340,17 @@ IV. Determinar, liquidar y notificar en cantidad líquida las contribuciones, ap
 
 V. Ordenar la práctica de los embargos precautorios que se deriven del ejercicio de sus atribuciones, en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal cuya aplicación esté encomendada a la Administración Pública;
 
-VI. Imponer sanciones por infracción a las disposiciones fiscales aplicables en materia de las contribuciones a que se refiere la fracción I de este artículo; y
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
-VII. Expedir copias certificadas de la documentación que obre en sus archivos.
+VI. Imponer sanciones por infracción a las disposiciones fiscales aplicables en materia de las contribuciones a que se refiere la fracción I de este artículo;
+
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+VII. Expedir copias certificadas de la documentación que obre en sus archivos; y
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+VIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales.
 
 ###### Artículo 84.
 
@@ -4264,43 +4366,79 @@ IV. Determinar, liquidar y notificar en cantidad líquida las contribuciones, ap
 
 V. Ordenar la práctica de los embargos precautorios que se deriven del ejercicio de sus atribuciones, en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal cuya aplicación esté encomendada a la Administración Pública;
 
-VI. Imponer sanciones por infracciones a las disposiciones fiscales aplicables en materia de las contribuciones a que se refiere la fracción I de este artículo; y
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
-VII. Expedir copias certificadas de la documentación que obre en sus archivos.
+VI. Imponer sanciones por infracciones a las disposiciones fiscales aplicables en materia de las contribuciones a que se refiere la fracción I de este artículo;
+
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+VII. Expedir copias certificadas de la documentación que abre en sus archivos; y
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
+VIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales.
+
+> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
+###### Artículo 84 Bis.
+
+Corresponde a la Dirección de Control de Obligaciones y Créditos:
+
+I. Programar y controlar la vigilancia del cumplimiento de obligaciones fiscales de los contribuyentes;
+
+II. Notificar los actos administrativos relacionados con las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados;
+
+III. Determinar, notificar y cobrar las contribuciones, aprovechamientos y productos, actualización y sus respectivos accesorios, señalados en la Ley de Ingresos del Distrito Federal, en los términos de las disposiciones fiscales aplicables y en los acuerdos del Ejecutivo Federal;
+
+IV. Imponer sanciones por infracciones a las leyes fiscales del Distrito Federal y a las de carácter federal cuya aplicación esté encomendada a las autoridades hacendarias locales, con base en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+
+V. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales citados en este Artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
+
+VI. Normar y dirigir la operación y aplicación de las normas y procedimientos sobre notificación en la materia de su competencia;
+
+VII. Recibir, tramitar y resolver las solicitudes de contribuyentes en materia de pago a plazos de los créditos fiscales, y requerir su saldo insoluto;
+
+VIII. Establecer los enlaces con la Secretaría de Hacienda y Crédito Público derivados del cumplimiento de la normatividad fiscal Federal y los Acuerdos de Coordinación Fiscal;
+
+IX. Difundir las reformas fiscales y prestar asesoría al personal de las diferentes áreas de la Subtesorería de Fiscalización, respecto a la interpretación y aplicación de las disposiciones legales;
+
+X. Proporcionar información que le suministren las áreas competentes, relativa a los créditos fiscales firmes de los contribuyentes, en los términos y alcances que señalen las disposiciones fiscales aplicables;
+
+XI. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal aplicables;
+
+XII. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
+
+XIII. Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia.
+
+> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
+###### Artículo 84 Ter.
+
+Corresponde a la Dirección de Cobranza Coactiva:
+
+I. Hacer efectivos a través del Procedimiento Administrativo de Ejecución, los créditos fiscales exigibles en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal;
+
+II. Hacer efectivos a través del Procedimiento Administrativo de Ejecución, los requerimientos de saldo insoluto;
+
+III. Hacer efectivas a través del Procedimiento Administrativo de Ejecución las sanciones pecuniarias impuestas por las autoridades administrativas, fiscales y judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables;
+
+IV. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal cuando soliciten la suspensión del procedimiento administrativo de ejecución, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
+
+V. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal, y las de carácter federal aplicables;
+
+VI. Coordinar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones;
+
+VII. Notificar a los contribuyentes, responsables solidarios y demás obligados los actos administrativos emitidos dentro del procedimiento administrativo de ejecución;
+
+VIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de ejecución y cobro coactivo, inclusive ordenar la suspensión y restricción del suministro de agua, en coordinación con las autoridades competentes, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
+
+IX. Informar a la Procuraduría Fiscal del Distrito Federal, de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
+
+X. Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia.
 
 ###### Artículo 85.
 
-Corresponde a la Dirección de Evaluación y Procedimientos Legales:
-
-I. Determinar en cantidades líquidas las contribuciones omitidas y sus accesorios, que se conozcan con motivo del ejercicio de facultades de comprobación sobre el cumplimiento de obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de ingresos locales y de ingresos federales coordinados;
-
-II. Imponer sanciones por infracciones a las disposiciones fiscales que se conozcan con motivo del ejercicio de las facultades a que se refiere este artículo y con sujeción a las disposiciones aplicables;
-
-III. Recibir y resolver las solicitudes de compensación derivadas de actos de fiscalización que formulen los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables y los acuerdos o convenios suscritos por el Ejecutivo Federal sobre contribuciones federales;
-
-IV. Evaluar los avances en los programas de visitas domiciliarias, verificación, auditorías, comprobación, revisión y cualesquier otro programa que implemente la Subtesorería de Fiscalización;
-
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
-
-V. Hacer efectivos a través del Procedimiento Administrativo de Ejecución, los créditos fiscales respecto de las contribuciones que se han determinado por la Subtesorería de Fiscalización, por la propia Dirección de Evaluación y Procedimientos Legales, así como por la Dirección de Auditorías Directas y la Dirección de Revisiones Fiscales, en el ámbito de sus respectivas facultades, siguiendo puntualmente las disposiciones del Código Financiero del Distrito Federal y demás disposiciones aplicables en los procedimientos de ejecución, remate y adjudicación;
-
-VI. Establecer los enlaces con la Secretaría de Hacienda y Crédito Público derivados del cumplimiento de la normatividad fiscal Federal y los Acuerdos de Coordinación Fiscal;
-
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
-
-VII. Difundir las reformas fiscales y prestar asesoría al personal de las diferentes áreas de la Subtesorería de Fiscalización, respecto a la interpretación y aplicación de las disposiciones legales;
-
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
-
-VIII. Recibir, tramitar y resolver las solicitudes de pago a plazo, de los créditos fiscales que sean a cargo de los contribuyentes y que se conozcan con motivo de la comprobación del cumplimiento de las obligaciones fiscales, en materia de las contribuciones previstas en la Ley de Ingresos del Distrito Federal y de las contribuciones federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-IX. Aceptar previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos citados en la fracción anterior, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente, y
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-X. Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia.
+(DEROGADO, G.O. 29 DE FEBRERO DE 2008)
 
 ###### Artículo 86.
 
@@ -4520,7 +4658,9 @@ VIII. Designar a los peritos que se requieran para la formulación de dictámene
 
 IX. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-X. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE FEBRERO DE 2008)</small>
+
+X. Solicitar a las Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Finanzas, de la Tesorería del Distrito Federal y de la Unidad de Inteligencia Financiera del Distrito Federal los informes y actuaciones respecto de los actos o resoluciones que dieron origen a la interposición de los recursos o juicios, en relación a los acuerdos o convenios de coordinación fiscal;
 
 XI. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
@@ -4595,6 +4735,212 @@ II. Establecer vínculos con instituciones y organizaciones públicas y privadas
 III. Promover acciones de colaboración e intercambio interinstitucional, tanto a nivel local como nacional en el desarrollo de modelos funcionales, factibles de adaptarse a las características propias de los programas presupuestales del Distrito Federal;
 
 IV. Diseñar e instrumentar las estrategias de información y difusión de la Secretaría que tengan como finalidad dar a conocer a la población de la Ciudad de México los servicios que ofrece a la comunidad, así como los avances de la institución en el cumplimiento de sus programas.
+
+> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
+###### Artículo 92 Ter.
+
+Corresponde a la Coordinación Ejecutiva de Verificación de Comercio Exterior.
+
+I. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
+
+a) Comprobar el correcto cálculo y pago de los impuestos generales de importación y de exportación, así como del derecho de trámite aduanero;
+
+b) Comprobar el correcto cálculo y pago de los impuestos al valor agregado, especial sobre producción y servicios, sobre automóviles nuevos y sobre tenencia o uso de vehículos, causados por la importación a territorio nacional;
+
+c) Comprobar el correcto cumplimiento de regulaciones y restricciones no arancelarias, inclusive de las normas oficiales mexicanas y el pago de cuotas compensatorias;
+
+d) Comprobar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
+
+II. Ordenar y practicar todos los actos inherentes a las facultades de comprobación en materia de comercio exterior, conferidas a la Administración Pública del Distrito Federal, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos con el Ejecutivo Federal;
+
+III. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades del Distrito Federal, para el ejercicio de sus funciones;
+
+IV. Iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el Artículo 152 de la Ley Aduanera o del Artículo que lo sustituya, y notificar dicho inicio al interesado, así como tramitar y resolver los citados procedimientos hasta sus últimas consecuencias, de conformidad con la legislación federal aplicable; determinando en su caso, los impuestos, su actualización y accesorios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que correspondan, que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+
+V. Verificar y determinar, en su caso, la naturaleza, características, el valor en aduana y el valor comercial de mercancías y vehículos de procedencia extranjera, así como su correcta clasificación arancelaria, de conformidad con las disposiciones legales aplicables;
+
+VI. Decretar el embargo precautorio de las mercancías y de los vehículos de procedencia extranjera, excepto aeronaves, en términos del Artículo 151 de la Ley Aduanera o del Artículo que lo sustituya. Asimismo, conforme a lo establecido en la Ley Aduanera y demás legislación federal aplicable, podrá declarar que dichas mercancías y vehículos han causado abandono en favor del Fisco Federal;
+
+VII. Constituirse en depositaria de las mercancías, medios de transporte o vehículos embargados precautoriamente, hasta que quede firme la resolución respectiva o, en su caso, hasta que se resuelva la legal devolución de las mercancías, medios de transporte o vehículos de procedencia extranjera;
+
+Guardar y custodiar las mercancías, los medios de transporte o los vehículos de procedencia extranjera embargados precautoriamente, hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o se resuelva la legal devolución de la mercancía o vehículo de que se trate;
+
+VIII. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia. Para lo anterior, podrá solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia;
+
+IX. Resolver, en los casos que proceda, el levantamiento del embargo precautorio, así como la entrega de las mercancías, medios de transporte o vehículos de procedencia extranjera, embargados precautoriamente, antes de la conclusión del procedimiento administrativo en materia aduanera;
+
+X. Coordinar la determinación de los impuestos de carácter federal y sus accesorios, la aplicación de las cuotas compensatorias y la determinación en cantidad líquida del monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados en materia de comercio exterior;
+
+XI. Imponer las multas que correspondan, en el ámbito de su competencia, relacionadas con el cumplimiento de las obligaciones fiscales y aduaneras, así como reducir o condonar dichas multas y aplicar la tasa de recargos que corresponda en términos del Código Fiscal de la Federación vigente;
+
+XII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus atribuciones, y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial y en el acta final que al efecto se levante;
+
+XIII. Tratándose de los créditos fiscales derivados de las acciones de verificación en materia de comercio exterior, cuenta con las atribuciones siguientes:
+
+a) Notificar al interesado los actos administrativos y las resoluciones dictadas por el Distrito Federal que determinen los créditos fiscales en materia de comercio exterior;
+
+b) Llevar a cabo el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales en materia de comercio exterior, con sus correspondientes accesorios, que el Distrito Federal determine en ejercicio de sus atribuciones;
+
+c) Autorizar el pago de créditos fiscales a plazo, ya sea diferido o en parcialidades, con garantía del interés fiscal, cuando sea procedente otorgarse en términos del Código Fiscal de la Federación y su Reglamento, y
+
+d) Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente o, cuando legalmente así proceda; verificar, determinar y cobrar las devoluciones improcedentes e imponer las multas correspondientes;
+
+XIV. Revisar y, en su caso, modificar o revocar las resoluciones administrativas de carácter individual no favorables a un particular, emitidas por sus subordinados jerárquicamente, en los términos del penúltimo y último párrafos del Artículo 36 del Código Fiscal de la Federación;
+
+XV. Participar en el ámbito de su competencia, en la formulación de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público;
+
+XVI. Registrar ante la Secretaría de Hacienda y Crédito Público los lugares en que habrán de ser depositadas las mercancías, medios de transporte y vehículos de procedencia extranjera embargados precautoriamente y que tendrán la categoría de recinto fiscal, así como establecer su organización y funcionamiento;
+
+XVII. Acordar con su superior jerárquico la designación como depositarias de las mercancías de procedencia extranjera embargadas precautoriamente, a terceras personas e incluso al propio interesado;
+
+XVIII. Aplicar el tratamiento que establezcan las disposiciones federales aplicables, tratándose de mercancías de procedencia extranjera que representen perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
+
+XIX. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas al Distrito Federal; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
+
+XX. Intercambiar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados al Distrito Federal, con otras entidades federativas de conformidad con la normatividad que al efecto emita la Secretaría de Hacienda y Crédito Público;
+
+XXI. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados al Distrito Federal, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público;
+
+XXII. Coordinarse con la Subtesorería de Fiscalización, a efecto de formular de manera conjunta el Programa Operativo Anual de las contribuciones federales coordinadas en materia de comercio exterior, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos con el Ejecutivo Federal;
+
+XXIII. Elaborar y llevar un Registro las (sic) constancias o credenciales de identificación respectivas, que acrediten a los servidores públicos que realicen actos de verificación en materia de comercio exterior, tales como las visitas domiciliarias y verificaciones de mercancías y vehículos, de origen o procedencia extranjera, para la práctica de las notificaciones, liquidaciones de créditos fiscales y todos los actos inherentes al procedimiento administrativo de ejecución, al procedimiento administrativo en materia aduanera y a la clasificación arancelaria, derivados del ejercicio de dichas facultades;
+
+XXIV. Informar en todos los casos a la Procuraduría Fiscal de la Federación, sobre la comisión o presunta comisión de cualquier infracción administrativa, delito fiscal federal o en materia aduanera, de que tenga conocimiento con motivo de sus actuaciones;
+
+XXV. Participar en la formulación, vigilancia y cumplimiento de los acuerdos de Colaboración Administrativa en Materia Fiscal Federal, relativos al comercio exterior, en los términos de las Leyes y Reglamentos Aplicables;
+
+XXVI. Llevar a cabo las funciones operativas inherentes a la recaudación, comprobación, determinación y cobro de los ingresos federales coordinados que estén relacionados con la materia de comercio exterior, con base en los Acuerdos suscritos con el Ejecutivo Federal;
+
+XXVII. Ejecutar la facultad económico coactiva, mediante el procedimiento administrativo de ejecución, para hacer efectivo los créditos fiscales de carácter federal, en materia de comercio exterior, en los términos de las disposiciones fiscales aplicables y de los acuerdos suscritos con el Ejecutivo Federal;
+
+XXVIII. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar sus (sic) sustitución, cancelarlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
+
+XXIX. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada al Distrito Federal, y
+
+XXX. Realizar el reporte de las asignaciones al Distrito Federal de mercancías y vehículos de procedencia extranjera.
+
+> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
+###### Artículo 92 Quáter.
+
+Corresponde a la Dirección de Programación, las siguientes atribuciones:
+
+I. Elaborar y proponer para su aprobación, el Programa Operativo Anual de las contribuciones federales coordinadas en materia de comercio exterior;
+
+II. Coordinar la realización de investigaciones de campo, para recopilar datos relacionados con la legal estancia en el país de mercancías y vehículos de procedencia extranjera, y
+
+III. Conocer, sistematizar y coordinar la información correspondiente para la emisión de los actos de verificación y/o comprobación del correcto cumplimiento de las obligaciones fiscales en materia de comercio exterior.
+
+> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
+Artículo 92 Quintus.- Corresponde a la Dirección de Comercio Exterior, las siguientes atribuciones:
+
+I. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal de conformidad con los instrumentos y disposiciones jurídicas aplicables;
+
+a) Comprobar el correcto cálculo y pago de los impuestos generales de importación y de exportación, así como del derecho de trámite aduanero;
+
+b) Comprobar el correcto cálculo y pago de los impuestos al valor agregado, especial sobre producción y servicios, sobre automóviles nuevos y sobre tenencia o uso de vehículos, causados por la importación a territorio nacional, así como el correcto cumplimiento de regulaciones y restricciones no arancelarias, inclusive de las normas oficiales mexicanas y el pago de cuotas compensatorias;
+
+c) Comprobar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
+
+II. Coordinar la práctica de visitas domiciliarias y de verificación, auditorias y revisiones de escritorio, en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición para la venta de mercancías y vehículos, mercados sobre ruedas, puestos fijos y semifijos en la vía pública; así como de vehículos en circulación y mercancías en transporte, aún cuando no se encuentren en movimiento, excepto aeronaves; asimismo efectuar verificaciones de origen, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables;
+
+III. Iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el Artículo 152 de la Ley Aduanera o del Artículo que lo sustituya, y notificar dicho inicio al interesado, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+
+IV. Ordenar la notificación al interesado, de los actos administrativos y las resoluciones dictadas por el Distrito Federal, que determinen los créditos fiscales en materia de comercio exterior;
+
+V. Ordenar el embargo precautorio de mercancías y vehículos de procedencia extranjera, excepto aeronaves, en términos del Artículo 151 de la Ley Aduanera o del Artículo que lo sustituya;
+
+VI. Aplicar el tratamiento que establezcan las disposiciones federales aplicables, tratándose de mercancías de procedencia extranjera que representen perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
+
+VII. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+
+VIII. Verificar y determinar, en su caso, la naturaleza, características, el valor en aduana y el valor comercial de mercancías y vehículos de procedencia extranjera, de conformidad con las disposiciones legales aplicables;
+
+IX. Solicitar a la Subdirección del Recinto Fiscal el dictamen de clasificación arancelaria, para el debido ejercicio de sus atribuciones;
+
+X. Supervisar la determinación de los impuestos de carácter federal y sus accesorios, la aplicación de las cuotas compensatorias, y la determinación en cantidad líquida del monto correspondiente, que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, en materia de comercio exterior;
+
+XI. Imponer las multas que correspondan, en el ámbito de su competencia, relacionadas con el cumplimiento de las obligaciones fiscales y aduaneras y aplicar la tasa de recargos que corresponda en términos del Código Fiscal de la Federación vigente;
+
+XII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus atribuciones, y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial y en el acta final que al efecto se levante;
+
+XIII. Acordar con su superior jerárquico la designación a cargo de terceras personas e incluso al propio interesado, de las mercancías de procedencia extranjera, embargadas precautoriamente, debiendo informar a la Subdirección del Recinto Fiscal dicha situación;
+
+XIV. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas al Distrito Federal; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables. Solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia, y
+
+XV. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades del Distrito Federal, para el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
+Artículo 92 Sextus.- Corresponde a la Dirección de Procedimientos Legales, las siguientes atribuciones:
+
+I. Iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el Artículo 152 de la Ley Aduanera o del Artículo que lo sustituya, y notificar dicho inicio al interesado, así como tramitar y resolver los citados procedimientos hasta sus últimas consecuencias, de conformidad con la legislación federal aplicable; determinando en su caso, los impuestos, su actualización y accesorios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que correspondan, que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+
+II. Elaborar informe para que a través de la instancia respectiva, se informe a la Secretaría de Hacienda y Crédito Público del inicio del procedimiento administrativo en materia aduanera, dentro del término de 15 días hábiles, contados a partir de la fecha del embargo precautorio;
+
+III. Decretar el embargo precautorio de las mercancías y de los vehículos de procedencia extranjera, excepto aeronaves, en términos del Artículo 151 de la Ley Aduanera o del Artículo que lo sustituya. Asimismo, conforme a lo establecido en la Ley Aduanera y demás legislación federal aplicable, podrá declarar que dichas mercancías y vehículos han causado abandono en favor del Fisco Federal;
+
+IV. Determinar los impuestos de carácter federal y sus accesorios, aplicar las cuotas compensatorias y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, en materia de comercio exterior;
+
+V. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a estos, conocidos con motivo del ejercicio de sus atribuciones;
+
+VI. Notificar al interesado los actos administrativos y las resoluciones dictadas por el Distrito Federal que determinen los créditos fiscales en materia de comercio exterior;
+
+VII. Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente o, cuando legalmente así proceda; verificar, determinar y cobrar las devoluciones improcedentes e imponer las multas correspondientes;
+
+VIII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades del Distrito Federal, para el ejercicio de sus funciones;
+
+IX. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+
+XI (SIC). Verificar y determinar, en su caso, la naturaleza, características, el valor en aduana y el valor comercial de mercancías y vehículos de procedencia extranjera, de conformidad con las disposiciones legales aplicables;
+
+XI. Solicitar a la Subdirección del Recinto Fiscal el dictamen de clasificación arancelaria, para el debido ejercicio de sus atribuciones;
+
+XII. Resolver, en los casos que proceda, el levantamiento del embargo precautorio, así como la entrega de las mercancías, medios de transporte o vehículos de procedencia extranjera, embargados precautoriamente, antes de la conclusión del procedimiento aduanero. Solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia;
+
+XIII. Imponer las multas que correspondan, en el ámbito de su competencia, relacionadas con el cumplimiento de las obligaciones fiscales y aduaneras, y aplicar la tasa de recargos que corresponda en términos del Código Fiscal de la Federación vigente;
+
+XIV. Instrumentar el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales en materia de comercio exterior, con sus correspondientes accesorios, que el Distrito Federal determine en ejercicio de sus atribuciones;
+
+XV. Solicitar a los contribuyentes, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos relativos a los trámites de devolución o de compensación de impuestos federales que se causen con motivo de la importación y la exportación de mercancías y vehículos de procedencia extranjera, en el ámbito de su competencia;
+
+XVI. Recibir y resolver las solicitudes de pago a plazo de créditos fiscales en materia de comercio exterior, determinados por el Distrito Federal;
+
+XVII. Calificar las garantías que otorguen los contribuyentes, cuando sea procedente, en términos de las disposiciones aplicables;
+
+XVIII. Dar aviso a la Secretaría de Hacienda y Crédito Público, en caso de siniestro de vehículos asignados, dentro de las cuarenta y ocho horas siguientes a que éste ocurra;
+
+XIX. Informar en todos los casos a la Procuraduría Fiscal de la Federación sobre la comisión o presunta comisión de cualquier infracción administrativa, delito fiscal federal o en materia aduanera, de que tenga conocimiento con motivo de sus actuaciones;
+
+XX. Elaborar trimestralmente, un informe sobre los procedimientos administrativos en materia aduanera que se hayan iniciado en el ámbito de su competencia, y sobre el estado procesal en que se encuentran los mismos, para que a través de la instancia respectiva se haga llegar a la Secretaría de Hacienda y Crédito Público, y
+
+XXI. Participar en el ámbito de su competencia, en la formulación de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+
+Artículo 92 Séptimus.- Corresponde a la Subdirección del Recinto Fiscal, las siguientes atribuciones:
+
+I. Verificar y determinar, en su caso, la naturaleza, características, el valor en aduana y el valor comercial de mercancías y vehículos de procedencia extranjera, así como su correcta clasificación arancelaria, de conformidad con las disposiciones legales aplicables y emitir el dictamen de clasificación arancelaria correspondiente;
+
+II. Constituirse en depositaria de las mercancías, medios de transporte o vehículos embargados precautoriamente, hasta que quede firme la resolución respectiva o, en su caso, hasta que se resuelva la legal devolución de las mercancías, medios de transporte o vehículos de procedencia extranjera;
+
+Guardar y custodiar las mercancías, los medios de transporte o los vehículos de procedencia extranjera embargados precautoriamente, hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o se resuelva la legal devolución de la mercancía o vehículo de que se trate;
+
+III. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia. Solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia;
+
+IV. Supervisar la organización y funcionamiento de los lugares de almacenamiento necesarios para el depósito de mercancías, medios de transporte o vehículos de procedencia extranjera embargados precautoriamente, de conformidad con las disposiciones aplicables;
+
+V. Acordar con su superior jerárquico la designación a cargo de terceras personas e incluso al propio interesado, de las mercancías de procedencia extranjera embargadas precautoriamente, debiendo informar a la Secretaría de Hacienda y Crédito Público sobre dicha situación;
+
+VI. Aplicar el tratamiento que establezcan las disposiciones federales aplicables, tratándose de mercancías de procedencia extranjera que representen perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
+
+VII. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas al Distrito Federal; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
+
+VIII. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados al Distrito Federal, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público, y
+
+IX. Realizar el reporte de las asignaciones al Distrito Federal de mercancías y vehículos de procedencia extranjera.
 
 #### SECCION X
 
@@ -9016,7 +9362,7 @@ XVI. Apoyar a los subcomités de seguridad pública, convocarlos a las sesiones 
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
 
-> <small>(REFORMADO PRIMER PARRAFO , G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 137.
 
@@ -11581,3 +11927,17 @@ SEGUNDO.- Las referencias hechas en diversos ordenamientos jurídicos a la Subse
 TERCERO.- A las Subsecretarías y Direcciones Ejecutivas de nueva creación, se le transferirán los recursos humanos, materiales, técnicos y financieros que correspondían a la Dirección General de Prevención y Readaptación Social y a la Dirección General de Programas Delegacionales y Reordenamiento de la Vía Pública, para el adecuado desempeño de sus atribuciones, con la participación que corresponde a la Secretaría de Finanzas y a la Oficialía Mayor.
 
 CUARTO.- Los asuntos competencia de las Subsecretarías y las Direcciones Ejecutivas que se crean, y que antes de la entrada en vigor del presente decreto correspondían a la Dirección General de Prevención y Readaptación Social y a la Dirección General de Programas Delegacionales y Reordenamiento de la Vía Pública, seguirán siendo tramitados y resueltos por éstas, hasta en tanto no inicien formalmente sus actividades.
+
+G.O. 29 DE FEBRERO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Las Unidades Administrativas que con motivo de la entrada en vigor del presente Decreto deban de transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas de de (sic) nueva creación o a las que son objeto de transformación, lo harán en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+TERCERO.- Los asuntos competencia de las Unidades Administrativas de nueva creación, que antes de la entrada en vigor del presente Decreto correspondían a otras distintas, seguirán siendo tramitados y resueltos por estas últimas, hasta en tanto las de nueva creación no inicien materialmente sus actividades.
+
+CUARTO.- Las Unidades Administrativas que por virtud de este Decreto se hubieren modificado o creado, deberán adecuar o elaborar sus estructuras orgánicas y actualizar sus Manuales de Organización y Procedimientos en los plazos y condiciones establecidas por la Oficialía Mayor.
+
+QUINTO.- Las referencias hechas en otros ordenamientos jurídicos y administrativos a unidades administrativas que por virtud de este Decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
