@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-para-el-estado-de-queretaro-7566"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-08-06"
-last_updated: "2007-12-10"
+last_updated: "2008-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO URBANO PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 6 de agosto de 1992.
 
@@ -807,9 +807,11 @@ Una vez aprobado el Plan que ordena y regula la zona conurbada, se expedirán la
 
 ### CAPITULO VIII. DE LA ORDENACIÓN Y REGULACIÓN DE LOS ASENTAMIENTOS HUMANOS
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 61.
 
-La ordenación de los asentamientos humanos se llevará a cabo mediante la planeación y regulación de las acciones tendientes a la fundación, conservación, mejoramiento y crecimiento de los centros de población y conforme lo previenen los planes a que se refiere este Código.
+El ordenamiento de los asentamientos humanos se llevará a cabo mediante la planeación y regulación de las acciones tendientes a la fundación, conservación, mejoramiento y crecimiento de los centros de población y de los asentamientos humanos, conforme lo previenen los planes y programas que correspondan, atendiendo en todo lo conducente al contenido de la Ley General de Asentamientos Humanos, a este Código y demás disposiciones aplicables.
 
 ###### ARTICULO 62.
 
@@ -921,11 +923,37 @@ Los propietarios o poseedores de los predios incluidos en los planes parciales d
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados en los dos artículos anteriores, el Presidente Municipal podrá solicitar la expropiación por causa de utilidad pública o interés social en los términos de la ley de la materia. Cuando por la magnitud del importe total de las indemnizaciones no puedan ser inmediatas, aquel será cubierto por el Estado, o por la persona de derecho público o privado a cuyo patrimonio pasen los bienes expropiados en la medida y plazos en que se capten los recursos provenientes del proceso de mejoramiento.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 77.
 
-Se declara de utilidad pública la regularización de la tenencia de lotes urbanos que por cualquier causa sus legítimos poseedores carezcan de título legal de propiedad.
+Se declara de utilidad pública la regularización de la tenencia de lotes urbanos que por cualquier causa sus legítimos poseedores carezcan de título legal de propiedad. Para tal efecto, los municipios a través de la dependencia que el Ayuntamiento correspondiente designe, de conformidad a la legislación vigente, tendrán la facultad legal de implementar programas de regularización, los que contendrán todos los elementos necesarios con el objeto de abatir la inseguridad jurídica en la tenencia del suelo urbano.
 
-La Secretaría de Gobierno, por conducto de la Dirección Jurídica, en coordinación con el Municipio que corresponda, formularán un programa anual de regularización, el que contendrá todos los elementos necesarios para el objeto de abatir la inseguridad jurídica en la tenencia del suelo urbano.
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 77-A.
+
+los Municipios a través de sus Ayuntamientos podrán establecer los procedimientos de regularización de conformidad con la ley especial de la materia y observarán los siguientes principios:
+
+I.- Respeto al derecho de los colonos para participar e informarse de los programas y procedimiento de regularización.
+
+II.- Respeto a la garantía de propiedad y los derechos de posesión que se hagan valer por terceros; por lo que todo procedimiento de regularización no podrá continuar y deberá darse por concluido, cualquiera que sea su etapa, una vez que sea informada legalmente la autoridad competente de la existencia de algún proceso o procedimiento que afecte la propiedad o posesión del terreno en que se encuentra el asentamiento humano irregular.
+
+III.- La regularización de la tenencia de la tierra en lotes urbanos comprendidos en áreas o predios ejidales en proceso de la obtención del dominio pleno, comunales, fundos legales y de propiedad privada comprendidos dentro de los limites de los centros de población, está sujeta a lo dispuesto por la Ley General de Asentamientos Humanos, la Ley Agraria, este Código, los planes y programas de desarrollo urbano vigentes, así como a los demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 77-B.
+
+El Gobierno del Estado o los Ayuntamientos, dentro del ámbito de sus respectivas competencias y atribuciones, vigilarán el cumplimiento de las disposiciones de este Código y leyes aplicables, debiendo adoptar para tal efecto, las medidas preventivas o correctivas correspondientes, así como imponer las sanciones administrativas aplicables y promover ante las autoridades judiciales competentes, las acciones civiles o penales a que haya lugar por los actos de ocupación ilegal del suelo, independientemente de cualquier otro ilícito en el que se hubiese incurrido y de las personas que en consecuencia les correspondan las responsabilidades civiles, penales y administrativas que por estas acciones les resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 77-C.
+
+En el caso de que algún predio ocupe terreno que corresponda a más de un municipio, deberá procederse de acuerdo a lo que convengan los Ayuntamientos para la regularización de los mismos, así como de la prestación de servicios, lo que deberá quedar asentado en los procedimientos y programas de regularización respectivos.
+
+En caso de discrepancia, la Legislatura determinará lo concerniente respecto a los límites territoriales.
 
 ### CAPITULO X. DE LOS BANCOS DE MATERIALES
 
@@ -1147,13 +1175,51 @@ Los fraccionamientos urbanos se destinarán a uso habitacional unifamiliares o p
 
 Las características de superficie mínima y obras primarias de urbanización de los diversos fraccionamientos, se definirán en el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 102.
 
-Los fraccionamientos de urbanización progresiva, particulares o de iniciativa gubernamental, son aquellos cuyas obras de urbanización podrán ser ejecutados por etapas y por cooperación de los colonos. Las guarniciones, banquetas y pavimentos podrán ser de material pétreo, previa opinión del Ayuntamiento en este tipo de fraccionamiento. Los colonos podrán contar con asesoría y orientación de la Comisión Estatal de la Vivienda, o de la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología y las autoridades competentes para la localización de terrenos adecuados para uso habitacional y orientar su adquisición para evitar, en lo posible, la especulación comercial. Los pagos de carácter fiscal que se originen, deberán ser menores a los de otro tipo de fraccionamientos habitacionales, y fijados por la autoridad competente.
+Los fraccionamientos de urbanización progresiva son aquellos cuyas obras de urbanización e infraestructura se generan a través de la cooperación de los colonos y por etapas, según el programa de obras aprobado por la autoridad competente.
+
+Sólo podrán promoverse para desarrollos habitacionales y por asociaciones de colonos legalmente constituidas y registradas ante la autoridad municipal correspondiente. El registro mencionado, procederá una vez que la autoridad municipal evalúe la condición socioeconómica de los integrantes de la asociación de colonos y determine que es susceptible de obtener los beneficios otorgados por este Código a este tipo de fraccionamiento, siempre y cuando, a la fecha de la solicitud, no exista ocupación del predio.
+
+Las asociaciones de colonos contarán con la asesoría y orientación de las autoridades estatales o municipales competentes en materia de desarrollo urbano, para el cumplimiento de lo dispuesto en los Planes y Programas de Desarrollo Urbano vigentes, en cuanto a la ocupación de suelo, así como para cumplir con los requerimientos y trámites necesarios para la obtención de la viabilidad para el desarrollo de un fraccionamiento de urbanización progresiva.
+
+Estas asociaciones tendrán las obligaciones siguientes:
+
+I.- Transmitir al municipio correspondiente, la propiedad y el dominio de vías y del diez por ciento de la superficie total del predio para áreas de equipamiento urbano, que deberán cumplir con las características y destinos que se señalan en el artículo 109 del presente Código.
+
+II.- Llevar a cabo los trabajos de urbanización total del predio, según el programa de obras de urbanización del fraccionamiento que al efecto se autoricen, incluyendo las áreas de equipamiento urbano en los términos que se establezcan en la autorización correspondiente.
+
+III.- Realizar la entrega de las obras de urbanización al Municipio contando previamente con la aprobación de la autoridad correspondiente, de acuerdo al programa de urbanización autorizado.
+
+IV.- Informar bimestralmente al Municipio sobre los montos que resulten de las cuotas de cooperación aportadas por los colonos, y de su aplicación.
+
+V.- Actualizar bimestralmente el padrón de colonos, incluyendo el refrendo, por escrito, de compromisos por parte de los nuevos colonos que se incluyan como resultado de la transmisión de derechos individuales de los lotes.
+
+VI.- Tramitar las autorizaciones, licencias y permisos que resulten necesarios para los trabajos de urbanización, de conformidad con su programa de obras de urbanización.
+
+VII.- Enterar ante la dependencia encargada de las finanzas públicas municipales y en su caso estatal, las contribuciones que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 103.
 
-Los fraccionamientos de urbanización progresiva, procederán cuando cuenten con redes de agua potable y drenaje funcionando, así como guarniciones y arroyo de calles niveladas y confirmadas, y cubiertos los trámites y requisitos correspondientes. Una vez cubiertos los trámites y requisitos dispuestos en este Título, la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología tomando en cuenta la magnitud del fraccionamiento y en base al análisis del programa de las obras, propondrá dentro del proyecto de resolución gubernamental, el plazo para la conclusión de las obras de urbanización faltantes, el que no excederá de dos años, a partir de la fecha de resolución que autorice el fraccionamiento.
+Para que proceda la Licencia de Ejecución de Obras de Urbanización de un fraccionamiento de urbanización progresiva, se deberá contar con lo siguiente:
+
+I.- Acreditar la existencia legal de la asociación de colonos, así como la representación jurídica de ésta, con los instrumentos legales idóneos debidamente inscritos en el Registro Público de la Propiedad y del Comercio.
+
+II.- Padrón de colonos, consistente en la acreditación y relación de los miembros de la asociación que serán aquellos que tendrán derecho a obtener la propiedad individualizada de los lotes del fraccionamiento; en todo caso, el número de miembros no podrá ser mayor en número al número de lotes que conforman el fraccionamiento y cuyos miembros sólo tienen derecho a un predio del fraccionamiento.
+
+III.- Escritura del predio a fraccionar, mediante la cual se acredita que la asociación es la legítima propietaria del mismo.
+
+IV.- Dictamen de uso de suelo habitacional, con la densidad adecuada al instrumento de planeación vigente.
+
+V.- Plano de lotificación, previamente aprobado por la dependencia facultada en materia de desarrollo urbano, mismo que deberá contener la propuesta de nomenclatura del fraccionamiento;
+
+VI.- Programa de obras de urbanización del fraccionamiento, dictaminado favorablemente por la autoridad competente en materia de desarrollo urbano, de acuerdo a lo previsto en éste Código.
+
+VII.- La autorización de la Licencia de Ejecución de Obras de Urbanización de un fraccionamiento de Urbanización Progresiva, que estará sujeta a los demás procedimientos y requisitos que señala el presente Código.
 
 ###### ARTICULO 104.
 
@@ -1173,9 +1239,39 @@ De acuerdo con los Planes Estatal y Municipales de desarrollo Urbano, se evitar�
 
 Cuando para el desarrollo de un fraccionamiento se ejecuten las obras de urbanización por secciones, deberán iniciarse en la zona contigua a la parte urbanizada de la ciudad o población que corresponda y continuarse por secciones contiguas completas.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 108.
 
-Los fraccionamientos de urbanización progresiva con obras mínimas de infraestructura, serán promovidos por los Comités de Colonos o similares legalmente constituidos, avalados y reconocidos por el Ayuntamiento correspondiente, por Instituciones Oficiales, organismos descentralizados o aquellos facultados por la Ley. El Ejecutivo del Estado, en la autorización correspondiente, establecerá la forma y los plazos en los que se ejecutarán las obras de urbanización del fraccionamiento.
+Sé establecen como criterios para el control y autorización de trámites y licencias relacionadas a los fraccionamientos de urbanización progresiva, los siguientes:
+
+I.- No se resolverán peticiones de fraccionamientos de urbanización progresiva donde exista más de una asociación de colonos.
+
+II.- Los pagos de carácter fiscal que se generen podrán exentarse de acuerdo a lo que la autoridad competente determine conveniente, hasta en un 40%.
+
+III.- Al autorizar la licencia de ejecución de obras de urbanización de un fraccionamiento de urbanización progresiva, mediante acuerdo del Ayuntamiento, se autorizará además el programa de obras de urbanización.
+
+IV.- Sólo se podrán autorizar las licencias de ejecución de obras de urbanización de acuerdo al orden de las etapas que señale el programa de urbanización autorizado.
+
+V.- Sólo se podrán autorizar licencias de construcción de vivienda dentro del predio que comprenda el fraccionamiento de colonos que se encuentren incluidos en el respectivo padrón de colonos.
+
+VI.- Se podrá autorizar la entrega recepción parcial de los trabajos de urbanización, en cualquiera de los siguientes supuestos:
+
+a).- Por el tipo de servicio, en redes completas o en etapas.
+
+b).- Cuando la conclusión de la red o etapa de las obras de urbanización del fraccionamiento a entregar esté de acuerdo al programa autorizado.
+
+c).- Cuando el servicio y obra que se entregue se encuentre funcionando en óptimas condiciones, con el visto bueno de la autoridad operadora del servicio, en términos de éste Código o el Reglamento respectivo.
+
+Las obras de infraestructura para la prestación de servicios que no hayan sido entregadas al Municipio, estarán a cargo de la asociación de colonos, tanto para su mantenimiento como para la prestación de los servicios respectivos.
+
+VII.- La asociación de colonos no estará obligada a presentar la fianza que señala el artículo 118 del presente Código.
+
+VIII.- Una vez recibido en su totalidad el fraccionamiento por el Municipio correspondiente, la autoridad se hará cargo de otorgar los servicios públicos correspondientes.
+
+IX.- Autorizar la transmisión de propiedad de manera individualizada a cada uno de los colonos que tengan derecho a ello, una vez que se hayan entregado al Municipio correspondiente la totalidad del fraccionamiento, a partir de un Acuerdo de Cabildo en el que se asiente que se han cumplido con todos y cada uno de los requisitos de la autorización.
+
+Esta modalidad de fraccionamiento deberá proseguir con los trámites subsecuentes de autorización definitiva y recepción de obras de urbanización, al igual que las otras modalidades, como lo prevé este Código.
 
 ### CAPITULO IV. DE LAS OBLIGACIONES DE LOS PROPIETARIOS DE FRACCIONAMIENTOS
 
@@ -4181,11 +4277,11 @@ JESÚS RODRÍGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 10 DE DICIEMBRE DE 2007.
 
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4206,3 +4302,13 @@ Se derogan todas aquellas disposiciones que se opongan a la presente ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 29 DE FEBRERO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
