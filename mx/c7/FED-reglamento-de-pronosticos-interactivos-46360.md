@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-pronosticos-interactivos-46360"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-29"
-last_updated: "2002-04-29"
+last_updated: "2008-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46360&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-02-26"
 
 REGLAMENTO DE PRONOSTICOS INTERACTIVOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE FEBRERO DE 2008.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 29 de abril de 2002.
 
@@ -31,59 +31,99 @@ REGLAMENTO DE PRONÓSTICOS INTERACTIVOS
 
 ### CAPITULO I. Disposiciones generales
 
-Artículo primero.- El presente Reglamento tiene por objeto regular el Concurso Pronósticos Interactivos de conformidad con el decreto de fecha 16 de agosto de 1984 publicado en el Diario Oficial de la Federación el 17 de agosto de 1984 que reformó y adicionó el de fecha 30 de mayo de 1979, publicado en el Diario Oficial de la Federación el 15 de junio de 1979, que a su vez reformó y adicionó el de fecha 14 de febrero de 1978, publicado en el Diario Oficial de la Federación el 24 del mismo mes, mismo que creó el Organismo Público Descentralizado Pronósticos para la Asistencia Pública, al que en lo sucesivo se le designará en este Reglamento como Pronósticos.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-Artículo segundo.- Se denominará Pronósticos Interactivos al boleto generado por un dispositivo electrónico en que se registren una o más combinaciones de pronósticos (deportivos, numéricos) para un Concurso determinado y sus resultados.
+Artículo primero.- El presente Reglamento tiene por objeto regular la modalidad de participación en los concursos y sorteos que realiza Pronósticos para la Asistencia Pública a través de dispositivos electrónicos, denominada Pronósticos Interactivos, de conformidad con las disposiciones aplicables.
 
-Artículo tercero.- El concurso consiste en la selección o pronóstico que haga el concursante a través de terminales electrónicas (cajeros automáticos), distintas a las utilizadas por los agentes autorizados de una combinación de números tomados del conjunto que determine Pronósticos para el Concurso, previo pago correspondiente a través de las modalidades de tarjeta prepagada, tarjetas bancarias de débito, y que le dará derecho a participar en el concurso y a obtener, en el supuesto que los números sorteados o bien los resultados deportivos correspondan a la selección que hubiere hecho, premios en efectivo en los términos de este Reglamento.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-Artículo cuarto.-Para los efectos de este Reglamento, se entenderá por:
+Artículo segundo.- Se denominará Pronósticos Interactivos al boleto que es generado por un dispositivo electrónico para un concurso o sorteo determinado y sus resultados.
 
-1.- Concurso.- El evento que tiene lugar desde la captación oficial de quinielas, selección o pronóstico deportivo, hasta la selección de ganadores.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-2.- Quiniela.- La selección, de un pronóstico para todos y cada uno de los partidos o resultados programados para un concurso.
+Artículo tercero.- Los Pronósticos Interactivos consisten en la selección de un pronóstico que haga el concursante a través de un dispositivo electrónico distinto a las terminales tradicionales utilizadas por los agentes autorizados, de una combinación o selección de pronósticos deportivos o numéricos tomados del conjunto que determine Pronósticos para la Asistencia Pública para un concurso o sorteo determinado, previo pago correspondiente a través de las modalidades de tarjeta prepagada, tarjetas bancarias de débito o crédito, banca electrónica, cuenta virtual o monedero electrónico, y que le dará derecho a participar en el concurso o sorteo y a obtener, en el supuesto de que los números sorteados o bien los resultados deportivos correspondan a la selección que hubiere hecho, premios en efectivo en los términos del Reglamento del concurso o sorteo de que se trate.
 
-3.- Combinación.- El conjunto de dos o más quinielas seleccionadas de forma electrónica en los cajeros automáticos autorizados por Pronósticos.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-4.- Tarjeta prepagada.- La tarjeta para acceso al cajero automático, emitida por quien designe Pronósticos con las claves de identificación y sistemas de seguridad que se utiliza para ingresar una quiniela en los cajeros automáticos autorizados por Pronósticos.
+Artículo cuarto.- Para los efectos de este Reglamento, se entenderá por:
 
-5.- Boleto.- El documento emitido por el cajero automático y que se entrega como comprobante al concursante, una vez cubierto y registrado el importe de las quinielas o combinaciones que contenga.
+1.- Agente autorizado.- a las personas físicas o morales que hayan celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados por este Reglamento y demás disposiciones aplicables;
 
-El boleto a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cundo los datos en él contenidos coincidan con la información registrada en los archivos del equipo central de cómputo.
+2.- Banca electrónica.- al servicio de banca en línea proporcionado por cualquier institución bancaria;
 
-6.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos, y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
+3.- Boleto.- al archivo electrónico y/o documento impreso del pronóstico deportivo o numérico en el que se plasma la participación, la cual quedará almacenada en el Sistema de Cómputo Central.
 
-7.- Selección de ganadores.- Es el evento por medio del cual se determinan en cada concurso mediante los sistemas electrónicos de computación instalados en las oficinas generales de Pronósticos, los números de los boletos que obtuvieron premiación y el monto de la misma.
+Los boletos impresos, permanecerán físicamente en custodia del agente autorizado.
 
-8.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de las quinielas seleccionadas y la emisión del boleto o contraseña de validación respectiva.
+El Boleto consigna un contrato de adhesión, acredita el derecho de participar en el concurso o sorteo de que se trate y constituye un documento civil al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito, y no un título de crédito;
+
+4.- Combinación.- al conjunto de dos o más quinielas seleccionadas en los dispositivos electrónicos distintos a las terminales tradicionales de Pronósticos;
+
+5.- Concurso.- al evento que tiene lugar desde la captación oficial de quinielas seleccionadas para un pronóstico deportivo, hasta la selección de ganadores;
+
+6.- Constancia de participación.- al archivo electrónico en el que se plasman los datos de identificación de la participación del concursante de un concurso o sorteo determinado por Pronósticos para la Asistencia Pública. Este archivo electrónico es enviado al dispositivo electrónico que el concursante utilizó para participar. Los concursantes tendrán acceso para consulta e impresión de la constancia de participación;
+
+7.- Dispositivo electrónico.- a cualquier medio electrónico distinto a las terminales tradicionales mediante el cual Pronósticos comercialice sus concursos o sorteos, los cuales pueden ser cajeros automáticos, dispositivos de comunicaciones móviles como celulares, Administrador Personal de Datos (pda's), computadoras conectadas mediante Internet a sitios Web autorizados por Pronósticos, terminales punto de venta (TPV), Cajas Registradoras o cualquier otro dispositivo electrónico con comunicación al Sistema de Cómputo Central de Pronósticos;
+
+8.- Monedero Electrónico.- a la tarjeta electrónica inteligente que permite abonar dinero en efectivo o premios obtenidos, cuyo saldo podrá ser utilizado para pagar el importe de su boleto o retirar el importe de los premios obtenidos;
+
+9.- Pronósticos.- Pronósticos para la Asistencia Pública;
+
+10.- Registro de Participación.- al proceso por el que cualquier boleto adquirido para un concurso o sorteo determinado por Pronósticos, queda integralmente grabado en el Sistema de Cómputo Central;
+
+11.- Quiniela.- a la selección de un pronóstico deportivo o numérico de un conjunto de partidos o un conjunto de números, respectivamente, determinados por Pronósticos programados para un concurso o sorteo;
+
+12.- Selección de ganadores.- al evento mediante el cual se determinan en cada concurso o sorteo, utilizando el Sistema de Cómputo Central, para determinar los números de Boletos que obtuvieron premiación y el monto de dichos premios;
+
+13.- Sistema de Cómputo Central.- al sistema de cómputo de Pronósticos utilizado para operar los concursos y sorteos en línea y que registra y totaliza las transacciones generadas con motivo de las participaciones para un determinado concurso o sorteo;
+
+14.- Sorteo.- al evento que tiene lugar desde la captación oficial de quinielas seleccionadas para un pronóstico numérico, hasta la selección de ganadores;
+
+15.- Tarjeta de débito o crédito: a la tarjeta bancaria que utilizará el concursante para pagar el importe de su boleto;
+
+16.- Tarjeta o Cuenta virtual.- a la cuenta electrónica en la que los concursantes podrán abonar crédito para utilizarlo en futuras compras de boletos de Pronósticos Interactivos;
+
+17.- Tarjeta prepagada.- a la tarjeta con un valor determinado que los concursantes podrán adquirir para realizar con cargo a ella la compra de los boletos de los concursos o sorteos en los que deseen participar a través del uso de los dispositivos electrónicos autorizados y en la que se podrá abonar el importe de los premios obtenidos, en su caso. Dicho importe podrá ser cobrado en los lugares definidos por Pronósticos, o bien, ser utilizado para pagar el importe de boletos de los concursos o sorteos, y
+
+18.- Terminal Tradicional.- al aparato electrónico operado por un agente autorizado de Pronósticos, cuya arquitectura y diseño tecnológico tiene como objetivo exclusivamente captar los datos de las quinielas seleccionadas y la emisión del boleto respectivo de los concursos y sorteos.
 
 ### CAPITULO II. Procedimiento para concursar
 
 ## Título I. Lugares autorizados para toma de apuestas
 
-Artículo quinto.- Se podrá participar en el concurso exclusivamente en la red bancaria de cajeros automáticos autorizados por Pronósticos.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
+
+Artículo quinto.- Los concursantes podrán participar en un concurso o sorteo utilizando los dispositivos electrónicos autorizados por Pronósticos.
 
 ## Título II. Modalidades de Pago
 
-Artículo sexto.- El concursante contará con la modalidad de juego con prepago adquiriendo una tarjeta en los lugares autorizados para tal efecto, la cual permitirá concursar en los cajeros que Pronósticos designe para recibir apuestas.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-Artículo séptimo.-El concursante contará con la modalidad de juego con cargo a su tarjeta de débito o crédito, según se establezca, la cual permitirá concursar en los cajeros que Pronósticos designe para recibir apuestas.
+Artículo sexto.- Las modalidades de pago para participar en un concurso o sorteo mediante los dispositivos electrónicos que Pronósticos designe, podrán ser mediante tarjeta prepagada, tarjetas bancarias de débito o crédito, banca electrónica, cuenta virtual o monedero electrónico, las cuales permitirán al concursante pagar el importe de los boletos que adquieran para participar en un concurso o sorteo de Pronósticos.
 
-Artículo octavo.- El concursante contará con la modalidad de juego con cargo a su tarjeta de crédito o débito, según se establezca, a través de la página de Internet de Pronósticos.
+Artículo séptimo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo noveno.- Sólo tendrán validez para efectos del sorteo y pago de premios, los boletos vendidos por las terminales y no podrán ser incluidos por Pronósticos en el Registro General de Boletos Concursantes, en los siguientes casos:
+Artículo octavo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-a) Cuando el boleto no haya sido adquirido en los lugares autorizados para la toma de apuestas que cuenten con terminal conectada al computador central.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-b) Cuando Pronósticos compruebe que los dispositivos de seguridad del boleto contengan alteraciones.
+Artículo noveno.- Sólo tendrán validez para efectos del concurso o sorteo y pago de premios, los boletos vendidos por las terminales tradicionales asignadas a los agentes autorizados o a través de los dispositivos electrónicos autorizados por Pronósticos, y no podrán ser incluidos en el Registro de Participación del Sistema de Cómputo Central, en los siguientes casos:
 
-c) Cuando los módulos de almacenamiento no identifiquen la información requerida para su registro.
+a) Cuando el boleto no haya sido adquirido en los lugares autorizados para la toma de apuestas que cuenten con terminal tradicional conectada al Sistema de Cómputo Central o no haya sido adquirido a través de los dispositivos electrónicos autorizados por Pronósticos.
+
+b) Cuando el boleto contenga alteraciones.
+
+c) Cuando en la apuesta no se identifique la información requerida para su registro en el Sistema Central de Captación de Apuestas.
 
 ## Título III. Elementos que debe contener el boleto
 
-Artículo décimo.- El boleto deberá contener los siguientes datos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-1.- Mención de que se trata de un Sorteo de Pronósticos,
+Artículo décimo.- El boleto impreso deberá contener los siguientes datos:
+
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
+
+1.- Mencionar que se trata de un concurso o sorteo de Pronósticos,
 
 2.- Claves de identificación del boleto y el importe pagado por él,
 
@@ -91,89 +131,89 @@ Artículo décimo.- El boleto deberá contener los siguientes datos:
 
 4.- Claves y códigos de seguridad,
 
-5.- Nombre del Sorteo de que se trata,
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
+
+5.- Nombre del concurso o sorteo de que se trata,
 
 6.- La mención de que es un documento al portador, que se deriva de un contrato de adhesión con los derechos y obligaciones que se señalan en este Reglamento, el cual el adquirente declara conocer sujetándose al mismo y a las condiciones especiales de su oferta al público, y
 
-7.- El término de caducidad del derecho para cobrar el premio correspondiente es de 60 (sesenta) días naturales, contados a partir de la fecha en que se dé por concluido el sorteo.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
+
+7.- El término de caducidad del derecho para cobrar el premio correspondiente es de 60 (sesenta) días naturales, contados a partir de la fecha en que se dé por concluido el concurso o sorteo.
 
 ## Título IV. Proceso técnico de captación
 
-Artículo decimoprimero.- En las terminales autorizadas por Pronósticos, el concursante marcará la selección de números o resultados.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-Artículo decimosegundo.- Mediante la digitación que haga el concursante de estos datos en la terminal, ésta imprimirá, numerará y expedirá el boleto que, con cargo a la tarjeta prepagada o de débito, será entregado al concursante como comprobante de su participación.
+Artículo decimoprimero.- En el dispositivo electrónico autorizado por Pronósticos, el concursante marcará la selección de un pronóstico deportivo o numérico.
 
-Al estar conectada la terminal a un computador central, ésta transmitirá y grabará en un módulo de almacenamiento electrónico las combinaciones de números y resultados de eventos deportivos vendidos para su transcripción en el Registro General de Combinaciones Concursantes.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-Artículo decimotercero.- Los boletos expedidos por las terminales (dispositivo electrónico) podrían no ser transcritos por Pronósticos en el Registro General de Combinaciones Concursantes, en los siguientes casos:
+Artículo decimosegundo.- Mediante la digitación que haga el concursante de los datos necesarios en un dispositivo electrónico autorizado por Pronósticos, este último transmitirá la participación hacia una terminal tradicional asignada al agente autorizado o directamente al Sistema Central de Captación de Apuestas, una vez registrada y almacenada la información relativa al boleto en el citado sistema, la propia terminal tradicional la imprimirá, numerará y lo expedirá, en su caso. Cuando se utilice una Terminal Tradicional, el boleto impreso será conservado en custodia por el agente autorizado, y el concursante recibirá en el dispositivo electrónico una constancia de participación con los datos de su participación para un concurso o sorteo determinado por Pronósticos.
 
-a) Terminales conectadas al computador central:
-
-Cuando por causa de fuerza mayor o caso fortuito debidamente comprobado, se justifique el no registro.
-
-b) Terminales que no estén conectadas al computador central:
-
-b.1) Cuando su dispositivo de almacenamiento electrónico respectivo, por cualquier causa no sea concentrado oportunamente a las oficinas de Pronósticos.
-
-b.2) Cuando Pronósticos compruebe que los dispositivos de almacenamiento electrónico respectivos contengan alteraciones.
-
-b.3) Cuando los módulos de almacenamiento electrónico correspondientes, no contengan la información requerida para su registro y ésta no se pueda determinar por otro medio.
-
-b.4) Cuando por causa de fuerza mayor o caso fortuito debidamente comprobados, se justifique el no registro del módulo de almacenamiento electrónico.
-
-El tenedor del boleto que no haya sido transcrito en los términos mencionados, tendrá derecho a la devolución del importe pagado contra entrega del boleto al agente autorizado que lo hubiere vendido, o presentándolo en las oficinas generales de Pronósticos.
+Artículo decimotercero.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
 ### Capítulo III. Del concurso y asignación de premios
 
-## Título I. De los concursos numéricos
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-Artículo decimocuarto.- Todos los sorteos se verificarán en lugar al cual tenga libre acceso el público y serán transmitidos por algún medio adecuado de comunicación masiva.
+## Título I. De los concursos y sorteos
 
-Artículo decimoquinto.- El día y hora fijados, ante la presencia del interventor designado por la Secretaría de Gobernación, se procederá a la realización del sorteo, conforme a las reglas establecidas en cada caso.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
-Artículo decimosexto.- Concluido el sorteo y determinada la combinación de números ganadora, también en presencia del interventor de la Secretaría de Gobernación, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadoras en las distintas categorías de premiación.
+Artículo decimocuarto.- La operación y celebración de los concursos y sorteos determinados por Pronósticos, se llevarán a cabo conforme al Reglamento vigente de cada producto.
 
-Artículo decimoséptimo.- Las categorías de premiación se determinarán acorde con la mecánica de cada concurso.
+Artículo decimoquinto.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
+
+Artículo decimosexto.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
+
+Artículo decimoséptimo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
 ## Título II. De los concursos deportivos
 
-Artículo decimoctavo.- Pronósticos dará a conocer oportunamente al público los partidos que integraran cada concurso, así como el período que los comprenda.
+Artículo decimoctavo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo decimonoveno.- Se considerará como resultado definitivo de cada partido el oficial del cual se tomará conocimiento antes de la selección de ganadores. En caso de que por cualquier causa, el resultado oficial, de un partido no se conozca, se tomará como definitivo el que el juez o árbitro oficial haya registrado al final del partido, y si, tampoco éste se conoce, se considerará como definitivo, aquél que sea público y notorio, y si éste resultare dudoso, se realizará un sorteo público en los términos del artículo vigésimo quinto de este Reglamento.
+Artículo decimonoveno.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo.- En cualquier partido que se programe y que deba concluir con la determinación de un equipo ganador, Pronósticos, para los fines de este Reglamento, sólo tomará como resultado, definitivo, el obtenido durante el tiempo reglamentario excluyendo tiempos extras o cualquiera otra condición que se haya pactado entre los equipos contendientes.
+Artículo vigésimo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo primero.- La anulación o modificación posterior a la fecha de la selección de ganadores de los resultados de un partido deportivo, por parte de autoridades deportivas o judiciales que tengan competencia para ello, no tendrá efectos en relación con un concurso determinado, el que siempre se basará en los resultados que se conozcan antes de la selección de ganadores.
+Artículo vigésimo primero.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo segundo.- Si después de iniciado un partido deportivo programado para un concurso, fuere suspendido por cualquier motivo, y el resultado definitivo de éste no se determinara antes de la selección de ganadores, se considerará como resultado válido el que se obtenga mediante el procedimiento señalado en el artículo vigésimo quinto de este Reglamento.
+Artículo vigésimo segundo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo tercero.- No se considerará realizado el partido, cuando éste no se inicie por cualquier razón, inclusive por falta de comparecencia de los equipos, y que motive la declaratoria de las autoridades deportivas de un resultado oficial en favor del equipo que sí se haya presentado.
+Artículo vigésimo tercero.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo cuarto.- En los casos de suspensión, o cuando se considere no realizado un partido, para el solo efecto de llevar a cabo la selección de ganadores de un concurso, se realizará a la brevedad posible, y antes de la celebración de ese acto un sorteo público en la oficina matriz de Pronósticos para obtener un resultado formal del partido no realizado o no concluido, considerándosele, según resulte el sorteo, favorable a alguno de los dos equipos o bien un empate.
+Artículo vigésimo cuarto.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-El resultado del sorteo se tomará en cuenta en la selección de ganadores como si el partido se hubiere realizado y concluido.
+Artículo vigésimo quinto.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo quinto.- El sorteo público a que se refiere el artículo anterior, consistirá en colocar en una ánfora, un número igual de esferas para cada uno de los tres posibles resultados, a saber: equipo local ganador, equipo visitante ganador y empate. Una vez colocadas y ante la presencia del interventor de la Secretaría de Gobernación, se obtendrá por procedimiento mecánico, la primera de las esferas, determinándose así con ésta el resultado oficial para los efectos del concurso de que se trate.
+Artículo vigésimo sexto.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo sexto.- Conocidos los resultados de los eventos deportivos base, de un concurso o, determinados por sorteo en la forma en que se indica en el presente Reglamento, se procederá a seleccionar al ganador o ganadores de los premios. Estos se determinarán de acuerdo con la información contenida en el archivo de matrices concursantes, única que tendrá validez para estos efectos sin admitirse pruebas suplementarias. El acto de referencia será presidido por el funcionario o funcionarios que designe el Director General de la Institución, quienes a su vez designarán a los auxiliares que deban intervenir en él, el cual se celebrará con la asistencia del interventor, designado por la Secretaría de Gobernación. La selección de ganadores deberá iniciarse inmediatamente después de que se realice o deba realizarse el último partido de los programados para un determinado concurso, y continuar, ininterrumpidamente, hasta su conclusión.
+Artículo vigésimo séptimo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo séptimo.- Será acreedor al primer premio el tenedor o los tenedores de los boletos que contengan las quinielas o combinaciones registradas y que hayan acertado al total del conjunto de pronósticos del concurso. Cuando hubiere pluralidad de tenedores de quinielas ganadoras al primer premio, el importe del mismo se distribuirá entre todos ellos por partes iguales. Cuando ninguna de las quinielas registradas para un concurso acierte al total del conjunto de partidos deportivos programados para el mismo, se declarará desierto el primer premio, pasando el premio a aquellos concursantes que detenten las quinielas o combinaciones registradas que acierten al mayor número del conjunto de pronósticos del concurso, inmediatamente después del número de aciertos requeridos para el primer lugar, por partes iguales; y así sucesivamente hacia el nivel inmediato inferior, cuando no haya ganador en el nivel que se declare desierto.
+Artículo vigésimo octavo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Pronósticos se reserva el derecho de modificar las bases especificadas en este artículo, para aquellos concursos que por su naturaleza y en beneficio del público, así lo requieran; y en estos casos se dará al procedimiento a seguir la más amplia difusión para conocimiento del público.
+Artículo vigésimo noveno.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo octavo.- Los resultados de la selección de ganadores se harán constar en acta que se levantará al finalizar la misma y que será firmada y ratificada por quienes en ella hayan intervenido. En el acta se anotarán además las particularidades e incidentes fundamentales ocurridos durante el acto, y a la misma, se anexará la lista producida por el sistema de computación que contenga los números de los boletos ganadores, así como el importe de los premios correspondientes.
+Artículo trigésimo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo vigésimo noveno.- Con los datos del acta a que se refiere el artículo anterior se formulará una lista de los números de los boletos de quinielas ganadoras, a la cual se le dará la mayor difusión posible.
+Artículo trigésimo primero.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo trigésimo.- Dentro de los cinco días hábiles siguientes a la publicación de la lista de los números de los boletos de quinielas ganadoras, los concursantes que tengan interés legítimo, podrán impugnar los resultados de la selección de Ganadores mediante la presentación por escrito de sus inconformidades ante Pronósticos, en el que expongan sus razonamientos acompañados del comprobante en que funden su reclamación.
-
-Artículo trigésimo primero.- La Comisión Dictaminadora de Reclamaciones de Pronósticos se integra con funcionarios de la Institución que designe su Consejo Directivo, y sesionará con la asistencia del interventor de la Secretaría de Gobernación.
-
-Artículo trigésimo segundo.- Si alguna o algunas de las reclamaciones se consideraren procedentes, la Comisión Dictaminadora de Reclamaciones lo comunicará al Director General para que él ordene el pago que proceda, con cargo al fondo de garantía establecido.
+Artículo trigésimo segundo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
 ## Título III. Del Pago de los Premios
 
-Artículo trigésimo tercero.- El pago de los premios determinados en un concurso, se hará a los interesados en las oficinas de Pronósticos precisamente contra la presentación y entrega material del boleto correspondiente; y en su caso junto con la tarjeta de prepago. Una vez publicada la lista de los números de las quinielas ganadoras a que se refiere este Reglamento.
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
+
+Artículo trigésimo tercero.- El pago de los premios determinados en un concurso o sorteo, se hará a los interesados en los lugares de cobro definidos por Pronósticos o mediante la dispersión electrónica de fondos a través de los bancos autorizados por Pronósticos; todo lo anterior dependiendo del dispositivo electrónico utilizado y que se les dará a conocer a los concursantes, o bien, en las oficinas centrales de Pronósticos.
+
+Los concursantes ganadores deberán presentar para el cobro de su premio, en su caso, la tarjeta de prepago, monedero electrónico o la constancia de participación impresa o digital o cualquier otro que defina Pronósticos y que informará a los concursantes dependiendo del dispositivo electrónico que utilicen. Para el caso de concursantes previamente registrados o autenticados por los sistemas autorizados por Pronósticos, la dispersión podrá hacerse directamente a su cuenta virtual.
+
+Los concursantes ganadores podrán cobrar su premio, una vez publicados los resultados de los concursos o sorteos en los que el concursante participó.
+
+Los agentes autorizados siempre deberán de entregar a Pronósticos los boletos ganadores
 
 Artículo trigésimo cuarto.- Podrán, igualmente, cobrarse los premios, en las sucursales u otras instituciones u organismos autorizados por Pronósticos. Dichas sucursales, instituciones u organismos autorizados se sujetarán a las mismas normas que se indican en este capítulo, para pagar los premios que directamente soliciten de ellas.
 
@@ -183,27 +223,17 @@ Artículo trigésimo sexto.- Al cubrir el importe de cada premio, Pronósticos, 
 
 Artículo trigésimo séptimo.- El derecho al cobro del importe de cada premio, caducara en un plazo de 60 días naturales contados a partir del día siguiente a la fecha de publicación de la lista resultante de la selección de ganadores respectiva. El importe de los premios caducos ingresará al patrimonio de Pronósticos.
 
-Artículo trigésimo octavo.- Sólo por caso fortuito o fuerza mayor, Pronósticos suspenderá o cancelará un concurso ya iniciado. En este supuesto, la Institución reembolsará a los interesados el importe de sus boletos sin incurrir en ulterior responsabilidad.
+Artículo trigésimo octavo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
 Artículo trigésimo noveno.- Los contratantes u organizadores del juego atenderán fielmente el contenido de este Reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a ellos, a su personal dependiente o terceros, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
 ### Capítulo IV. Distribución de fondos
 
-Artículo cuadragésimo.- La cantidad de boletos, los premios y sus reglas podrán ser variables según el concurso y deberán darse a conocer para que los concursantes estén debidamente informados.
+Artículo cuadragésimo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-Artículo cuadragésimo primero.- El fondo de cada concurso se aplicará como se establece, de forma enunciativa más no limitativa en los siguientes rubros:
+Artículo cuadragésimo primero.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-a) Fondo para premios.
-
-b) Comisión de agentes.
-
-c) Gastos de operación.
-
-d) Utilidad para la Asistencia Pública.
-
-e) Utilidad, en su caso, para el contratante u organizador del juego.
-
-Artículo cuadragésimo segundo.- Antes de cualquier concurso el sistema central de cómputo, será alimentado con la estructura de premiación de cada evento, con el objeto de que a través de los programas que conforman el sistema, se produzca la comprobación y selección de los boletos ganadores.
+Artículo cuadragésimo segundo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
 ## TRANSITORIO
 
@@ -222,3 +252,13 @@ Secretario del H. Consejo Directivo.
 Lic. Eduardo Antonio Ancona González.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULO TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE FEBRERO DE 2008.
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
