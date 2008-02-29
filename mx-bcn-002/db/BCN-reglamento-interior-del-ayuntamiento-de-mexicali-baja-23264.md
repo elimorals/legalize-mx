@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2006-11-17"
+last_updated: "2008-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2008.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -157,9 +157,11 @@ VIII.- Ejecutar los planes y programas municipales, implementando los controles 
 
 IX.- Todas aquellas que el Ayuntamiento le confiera en los acuerdos específicos que adopte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 8.
 
-Atribuciones del Síndico Procurador.- El Síndico Procurador tendrá a su cargo la procuración de la defensa de los intereses del Ayuntamiento y Municipio así como la función de contraloría interna y, ostentando en todo caso, las siguientes atribuciones:
+Atribuciones del Síndico Procurador.- El Síndico Procurador tendrá a su cargo la procuración de la defensa de los intereses del Ayuntamiento, así como la función de contraloría interna, por lo que tendrá las siguientes atribuciones:
 
 I.- Ejercer la representación jurídica del Ayuntamiento en los litigios jurisdiccionales y en las negociaciones relativas a la hacienda municipal, así mismo para asistir al Congreso del Estado en todos aquellos asuntos concernientes al Régimen Municipal, pudiendo nombrar apoderado legal, con arreglo a las facultades específicas que el Ayuntamiento le delegue;
 
@@ -181,7 +183,9 @@ Atribuciones de los Regidores.-
 
 I. Participar en las sesiones de Cabildo y en la gestión de los intereses del Municipio en general y de las demarcaciones territoriales interiores en su caso, de conformidad con lo que al efecto establezca esta reglamentación;
 
-II. Integrarse y formar parte de las comisiones ordinarias y extraordinarias que establezca el Ayuntamiento, ejerciendo las facultades de inspección y vigilancia de los ramos de la administración pública a su cargo;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+II. Integrarse y formar parte de las comisiones ordinarias y extraordinarias que establezca el Ayuntamiento, ejerciendo las facultades de inspección y vigilancia de los ramos de la administración pública a su cargo. Son ordinarias las comisiones permanentes previstas en el presente Reglamento, y extraordinarias, las especiales y conjuntas que se constituyan conforme al mismo;
 
 III. Obtener del Presidente Municipal, información, datos o antecedentes relativos a los servicios de las diferentes dependencias del órgano ejecutivo, que resulten necesarios para el desarrollo de su función;
 
@@ -205,7 +209,9 @@ IV.- Conducirse con respeto y orden en las sesiones de Cabildo y sus comisiones;
 
 V.- Votar a favor, en contra o abstenerse, en las sesiones de cabildo;
 
-VIII (SIC).- Presentar su declaración sobre situación patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, y hacerlas públicas, en base a lo establecido en este Reglamento.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+VI.- Presentar su declaración sobre situación patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
 #### SECCION III. DE LAS LICENCIAS, AUSENCIAS E INASISTENCIAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
@@ -235,9 +241,11 @@ En caso de ausencia definitiva de algún integrante del ayuntamiento por motivo 
 
 Si en el caso del Presidente Municipal o del Síndico Procurador faltase también el suplente para cubrir la vacante que corresponda, la Legislatura a propuesta del Ejecutivo del Estado designará los sustitutos o en su caso, al Consejo Municipal sustituto. En el caso de los Regidores se llevara a cabo este procedimiento solamente si se pone en riesgo el Quórum mínimo para sesionar y que los acuerdos sean validos.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 16.
 
-De las faltas de los integrantes del Ayuntamiento.- El Síndico Procurador o los Regidores que sin aviso y causa justificada falten a cualquier sesión de Cabildo o de Comisión, serán sancionados con una multa equivalente a un día de su salario integrado.
+De las faltas de los integrantes del Ayuntamiento.- El Síndico Procurador o los Regidores que sin aviso y sin causa justificada falten a cualquier sesión de Cabildo o de Comisión, serán sancionados con una multa equivalente a un día de la retribución que reciben por el desempeño de su función.
 
 ###### ARTICULO 17.
 
@@ -311,9 +319,11 @@ Quórum legal.- Para que las sesiones de Cabildo sean válidas, se requiere que 
 
 Suplencias del Presidente y Secretario del Ayuntamiento.- Las sesiones de Cabildo serán presididas por el Presidente Municipal o quien desempeñe sus funciones en los términos de Ley. En ausencia del Secretario del Ayuntamiento, fungirá como secretario de actas, el Regidor que el propio Cabildo determine para tal efecto, conservando su derecho al voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 22.
 
-Recinto Oficial.- El Ayuntamiento celebrará sus sesiones en la Sala de Cabildo ubicada la Casa Municipal. Para los efectos de este Reglamento, el lugar donde sesiona el Cabildo se denominará recinto oficial.
+Recinto Oficial.- El Ayuntamiento celebrará sus sesiones en la Sala de Cabildo ubicada en el edificio sede del Ayuntamiento. Para los efectos de este Reglamento, el lugar donde sesiona el Cabildo se denominará recinto oficial.
 
 Podrán celebrarse sesiones en cualquier otro lugar del Municipio, siempre que haya sido declarado previamente por el Cabildo, recinto oficial para tal efecto.
 
@@ -373,29 +383,29 @@ Autoridad convocante.- Para celebrar sesiones ordinarias, extraordinarias o sole
 
 Para la celebración de sesiones extraordinarias a solicitud de la mayoría de los integrantes del Ayuntamiento, deberá remitirse al Secretario la solicitud debidamente firmada por todos los interesados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 31.
 
-Plazo para convocar.- La convocatoria para la celebración de las sesiones ordinarias y solemnes deberá notificarse a todos los integrantes del Ayuntamiento con cuarenta y ocho horas de anticipación a la sesión, y en cualquier tiempo tratándose de las extraordinarias.
+Plazo para convocar.- La convocatoria para la celebración de las sesiones ordinarias y solemnes deberá notificarse a todos los integrantes del Ayuntamiento con veinticuatro horas de anticipación a la sesión, y en cualquier tiempo tratándose de las extraordinarias.
 
 El integrante del Ayuntamiento que no hubiere sido citado a una sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la sesión a la que no fue citado, que se vuelvan a deliberar en su presencia, el o los acuerdos tomados en su ausencia.
 
-> <small>(ADICIONADO, [N. DE E. REFORMADO], P.O. 4 DE JULIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+La convocatoria se notificará entregándola al miembro del Ayuntamiento y recabando su firma, o la del asistente que hubiere autorizado ante la Secretaría del Ayuntamiento, en la hoja de acuse de recibo que se formule para el efecto.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 32.
 
-Orden del día.- La convocatoria que se expida para la celebración de sesiones de Cabildo, deberá ir acompañada del listado de correspondencia recibida, despachada y del orden del día, mismo que deberá contener por lo menos, los siguientes puntos:
+Orden del día.- La convocatoria que se expida para la celebración de sesiones de Cabildo, deberá ir acompañada del orden del día, mismo que deberá contener por lo menos los siguientes puntos:
 
-I.- Lista de asistencia y declaración de quórum legal;
+I.- Aprobación del Acta de la Sesión Anterior;
 
-II.- Lectura y aprobación del acta de la sesión anterior, excepto en los casos de dispensa;
+II.- Asuntos a tratar en la Sesión:
 
-III.- Correspondencia recibida;
-
-IV.- Correspondencia despachada;
-
-V.- Asuntos a tratar como objeto de la sesión;
-
-VI.- Asuntos generales, sólo en el caso de sesiones ordinarias.
+III.- Asuntos generales, sólo en el caso de Sesiones Ordinarias.
 
 #### SECCION IV. DEL DIFERIMIENTO, SUSPENSION Y RECESO
 
@@ -443,75 +453,85 @@ V.- Clausura de la sesión;
 
 VI.- Relación de instrumentos que se agregan al apéndice.
 
-De cada sesión se levantará una grabación magnetofónica, que permita hacer las aclaraciones pertinentes del acta; la cinta que contenga la grabación formará parte del apéndice.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+De cada sesión se levantará grabación en un documento de audio, que permita hacer las aclaraciones pertinentes al acta. El archivo que contenga la grabación formará parte del apéndice, y será plasmado en el medio electrónico conveniente o en una cinta magnetofónica.
 
 ###### ARTICULO 37.
 
 Apéndice.- Del libro de actas se llevará un apéndice, al que se agregarán los documentos y expedientes relativos a los asuntos tratados en las sesiones de Cabildo.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 38.
 
-Aprobación de las actas.- En cada Sesión el Secretario del Ayuntamiento dará lectura únicamente a los acuerdos contenidos en el acta de la sesión anterior, la cual deberá ser sometida a consideración y una vez enmendada en su caso, a la aprobación y firma de los miembros del Cabildo.
+Aprobación de las actas.- En cada sesión el Secretario del Ayuntamiento dará lectura únicamente a los acuerdos contenidos en el acta de la sesión anterior, salvo que se hubiere dispensado dicha lectura. A continuación el acta se someterá a la consideración, y una vez enmendada en su caso, a la aprobación y firma de los miembros del Cabildo.
 
-En el caso de que algún integrante del Ayuntamiento solicite se le de lectura integra al contenido del acta, el Secretario procederá a lo conducente.
+En el caso de que algún integrante del Ayuntamiento solicite se le dé lectura integra al contenido del acta, el Secretario procederá a lo conducente.
 
 ###### ARTICULO 39.
 
 Legalización de las actas.- Las actas de las sesiones una vez aprobadas, y firmadas por los integrantes del Ayuntamiento que en ellas intervinieron, se integrarán al libro de actas con la certificación al final suscrita por el Secretario del Ayuntamiento, haciendo constar su aprobación.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 40.
 
-Dispensa de lectura del acta.- Podrá dispensarse la lectura del acta a petición del Secretario del Ayuntamiento o cualquiera de los integrantes del mismo, para leerse en la sesión siguiente.
+Dispensa de lectura del acta.- Podrá dispensarse la lectura del acta a petición del Secretario del Ayuntamiento, o de cualquiera de los integrantes del mismo, si su contenido se da a conocer a los munícipes con veinticuatro horas de anticipación a la celebración de la Sesión en la que corresponda aprobarla.
+
+El contenido podrá darse a conocer a los miembros del Ayuntamiento a su elección, mediante copia simple, o en un archivo electrónico enviado a su cuenta de correo del mismo tipo que les haya asignado el gobierno municipal.
 
 ### CAPITULO CUARTO. DEL PROCEDIMIENTO EN CABILDO
 
 #### SECCION I. DE LAS PROPUESTAS DE ACUERDO
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 41.
 
-Derecho de iniciar propuestas de acuerdo.- El derecho de iniciar propuestas de acuerdo ante el Cabildo, corresponde a sus integrantes.
+Derecho de iniciar propuestas de acuerdo.- El derecho de iniciar propuestas de acuerdo ante Cabildo, corresponde a sus integrantes.
 
-Tratándose de proyectos de iniciativas de ley o decreto, reglamentos, circulares, o disposiciones de observancia general, serán presentadas a través de la Secretaría.
+Los particulares podrán presentar propuestas de acuerdo, por sí, o por conducto de las organizaciones de que formen parte, a través de la Secretaria del Ayuntamiento.
 
-Los particulares podrán presentar propuestas de acuerdo, por sí, o por conducto de las organizaciones de que formen parte, a través de la misma Secretaría.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2004)</small>
-
-Las propuestas que impliquen la modificación, derogación, abrogación o adición a la estructura administrativa de la Sindicatura Municipal y a las facultades y atribuciones que para ella se establecen en el Reglamento de la Administración Publica Municipal. Solo podrán aprobarse por mayoría calificada de los integrantes del Ayuntamiento.
+Las propuestas que impliquen la modificación, derogación, abrogación, o adición a la estructura administrativa de la Sindicatura Municipal y a las facultades y atribuciones que para ella se establecen en el presente Reglamento, sólo podrán aprobarse por mayoría calificada de los integrantes del Ayuntamiento.
 
 ###### ARTICULO 42.
 
 Contenido de las propuestas de acuerdo.- Las propuestas de acuerdo de los integrantes del Ayuntamiento y de los particulares previstas en el artículo anterior, deberán ser presentadas por escrito y firmadas, acompañando una exposición de motivos en la cual manifieste su autor o autores, las consideraciones jurídicas, políticas, sociales o económicas que justifiquen, expliquen y motiven la propuesta.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 43.
 
-De su presentación al Cabildo.- El Secretario del Ayuntamiento incluirá en el orden del día de la sesión ordinaria próxima inmediata, las propuestas de acuerdo que le sean presentadas por los integrantes del Ayuntamiento o particulares, cuando sean recibidas con siete días hábiles anteriores a la expedición de la convocatoria, de lo contrario se incluirán en la sesión ordinaria siguiente:
+De la presentación de propuestas al Cabildo.- El Secretario del Ayuntamiento incluirá en el orden del día de la sesión ordinaria próxima inmediata, la propuesta de comisión dictaminadora o de dispensa de dictamen de comisión, de las propuestas de acuerdo que le sean presentadas por los integrantes del Ayuntamiento o por particulares, cuando las reciba dos días hábiles antes del de la expedición de la convocatoria, de lo contrario se incluirán en la sesión ordinaria siguiente.
 
-En casos excepcionales y cuando la urgencia del caso así lo amerite, el Presidente Municipal podrá turnar directamente los asuntos a la comisión competente, informando al Cabildo en la próxima sesión; quien confirmará el procedimiento o en su caso resolverá lo que considere adecuado.
+En las sesiones ordinarias, los integrantes del Ayuntamiento podrán presentar propuestas de acuerdo cumpliendo con los requisitos establecidos en el artículo 42 del presente Reglamento.
 
-En el caso de reformas a la Constitución Política del Estado Libre y Soberano de Baja California enviadas por el Congreso del Estado, podrán ser remitidas directamente a la Comisión que corresponda, sin necesidad del procedimiento señalado en el artículo siguiente.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 44.
 
-Propuesta de procedimiento.- Recibida en la Secretaría del Ayuntamiento, una propuesta de acuerdo, su titular procederá a integrar un expediente y proponer el procedimiento que corresponda ante el Cabildo.
+Propuesta de comisión dictaminadora.- Recibida en la Secretaría del Ayuntamiento una propuesta de acuerdo, se procederá a abrirle un expediente y a proponer al Cabildo, la comisión que deberá dictaminarla, o en su caso la dispensa de trámite en comisión.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 45.
 
-Trámite de la propuesta de procedimiento.- El procedimiento propuesto por el Secretario, tiene por objeto sugerir al Cabildo el trámite que mejor corresponda a la propuesta de acuerdo y en ningún caso podrá contener juicios de valor respecto de su procedencia o improcedencia, debiendo especificar el mínimo:
+Trámite de la propuesta de comisión dictaminadora.- El Secretario del Ayuntamiento en la sesión correspondiente sugerirá en su caso al Cabildo, la comisión dictaminadora de la propuesta de acuerdo, en un documento que deberá indicar:
 
 I.- Asunto;
 
 II.- Fecha de recepción ante la Secretaría;
 
-III.- Nombre del promovente;
+III.- Nombre del promovente; y,
 
-IV.- Propuesta de procedimiento.
+IV.- Comisión que se propone para dictaminar la propuesta, o justificación de la solicitud de dispensa de dictamen de comisión.
 
-El Presidente Municipal someterá la propuesta de procedimiento, a votación económica de los miembros del Cabildo.
+El Presidente Municipal someterá la propuesta de comisión dictaminadora, o la solicitud de dispensa de dictamen, a votación económica de los miembros del Cabildo. En su caso, una vez aprobada la comisión dictaminadora, el asunto será turnado a la misma dentro de las cuarenta y ocho horas siguientes a la clausura de la sesión.
 
-De ser aprobado el procedimiento propuesto, el asunto será turnado a la comisión o comisiones que corresponda, dentro de las veinticuatro horas siguientes a la clausura de la sesión, salvo dispensa de trámite ante las mismas a que hace referencia el artículo 93 de este reglamento.
+En casos excepcionales, y cuando se trate de reformas a la Constitución Política del Estado Libre y Soberano de Baja California enviadas por el Congreso del Estado, el Presidente Municipal a través del Secretario del Ayuntamiento, podrá turnar directamente las propuestas de acuerdo a la comisión competente.
 
-De desecharse el procedimiento propuesto por el Secretario, el Cabildo acordará el procedimiento que considere adecuado.
+Cuando alguna propuesta de acuerdo sea presentada por algún miembro del Ayuntamiento en sesión ordinaria de Cabildo, este órgano acordará sobre la comisión que deberá dictaminarla o en su caso, la dispensa de trámite en comisiones.
 
 #### SECCION II. DEL ANALISIS Y DISCUSION DE LOS ASUNTOS
 
@@ -519,15 +539,17 @@ De desecharse el procedimiento propuesto por el Secretario, el Cabildo acordará
 
 Discusiones ante el Cabildo.- La (sic) discusiones ante el Cabildo sólo podrán producirse entre sus integrantes cuando sea necesario deliberar acerca de los asuntos de su competencia.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 47.
 
-Exposición de dictámenes en sesión de Cabildo.- Una vez distribuidos los dictámenes en los términos del artículo 92 del presente ordenamiento, el Secretario, en la sesión que se trate el asunto, informará al Cabildo de su recepción y distribución.
+Lectura de dictámenes en sesión de Cabildo.- Los dictámenes que deban ser resueltos por el Cabildo, serán leídos en lo conducente por el coordinador de la comisión dictaminadora, o por el Regidor que éste designe, quienes podrán formular las aclaraciones que consideren pertinentes.
 
-Acto seguido, el coordinador de la comisión correspondiente o el Regidor que éste designe, dará lectura al dictamen, formulando las aclaraciones que considere pertinentes.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 48.
 
-Del registro de oradores.- El Presidente Municipal formulará una lista de los integrantes del Cabildo, que deseen hacer uso de la palabra, la cual leerá íntegramente antes de preguntar si alguien más desea hacerlo; iniciando posteriormente las discusiones.
+Del registro de oradores.- El Secretario del Ayuntamiento formulará una lista de los integrantes del Cabildo que deseen hacer uso de la palabra, la cual leerá íntegramente antes de preguntar si alguien más desea hacerlo; iniciando posteriormente las discusiones.
 
 ###### ARTICULO 49.
 
@@ -535,9 +557,11 @@ Del orden en las discusiones.- Los integrantes del Cabildo participarán conform
 
 Cuando algún miembro del Cabildo registrado para hacer uso de la palabra, no estuviere presente en el recinto oficial cuando le corresponda intervenir, se le colocará al final de la lista respectiva; si la ausencia persistiere al concluir las intervenciones de los integrantes del Ayuntamiento registrados en la lista, se desechará su participación por el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 50.
 
-Término de las discusiones.- A solicitud de cualquier integrante del Ayuntamiento o a iniciativa propia, el Presidente Municipal podrá preguntar en cualquier momento al Cabildo si el asunto está suficientemente discutido, en caso afirmativo cerrará la discusión y someterá el asunto a votación.
+Término de las discusiones.- A solicitud de cualquier integrante del Ayuntamiento o a iniciativa propia, el Presidente Municipal podrá preguntar en cualquier momento al Cabildo si el asunto está suficientemente discutido; si la mayoría calificada lo determina, cerrará la discusión y someterá el asunto a votación.
 
 ###### ARTICULO 51.
 
@@ -593,23 +617,21 @@ Discusión de otros asunto (sic).- El procedimiento previsto en esta sección pa
 
 #### SECCION III. DE LA VOTACION
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 59.
 
-Votación por mayoría.- Los acuerdos de Cabildo se tomarán por mayoría de votos de los integrantes del Ayuntamiento de acuerdo a la siguiente clasificación:
+Clasificación de las votaciones.- Los acuerdos de Cabildo se tomarán por mayoría de votos de los integrantes del Ayuntamiento de acuerdo a la siguiente clasificación:
 
-Mayoría simple, la correspondiente a más de la mitad de los integrantes del Ayuntamiento que asistan a la sesión;
+I.- Mayoría simple, la correspondiente a más de la mitad de los integrantes del Ayuntamiento que asistan a la sesión;
 
-Mayoría absoluta, la correspondiente a más de la mitad de los integrantes del Ayuntamiento; y
+II.- Mayoría absoluta, la correspondiente a más de la mitad de los integrantes del Ayuntamiento; y
 
-Mayoría calificada, la correspondiente a las dos terceras partes de los integrantes del Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+III.- Mayoría calificada, la correspondiente a cuando menos doce de los integrantes del Ayuntamiento.
 
 Cuando en el presente Reglamento no se contemple el tipo de votación respecto de diversas resoluciones del Ayuntamiento, se entenderá que habrá de resolverse mediante votación por mayoría simple, las abstenciones no serán tomadas en consideración para efectos del cómputo de la votación.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
-
-Para la modificación, derogación, abrogación o adición de este Reglamento Interior, se requerirá el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento.
+Para la modificación, derogación, abrogación o adición del presente Reglamento, se requerirá la aprobación por mayoría calificada.
 
 ###### ARTICULO 60.
 
@@ -649,7 +671,9 @@ III.- Las cédulas deberán ser destruidas una vez que se haga la declaratoria c
 
 Voto razonado.- Los integrantes del Cabildo que así lo deseen, podrán razonar el sentido de su voto durante la etapa de discusión del asunto, de tal manera, que durante la votación, cada integrante se limite a expresar el sentido de su voto.
 
-Las abstenciones deberán ser razonadas, ya sea en forma verbal, o por escrito que se haga llegar a la Secretaría del Ayuntamiento. Cuando algún integrante haga llegar su abstención en forma escrita, el documento deberá ser leído en la sesión, durante la etapa de discusión del asunto de que se trate.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+Las abstenciones podrán ser razonadas ya sea en forma verbal, o por escrito.
 
 ###### ARTICULO 64.
 
@@ -661,13 +685,27 @@ Voto de calidad.- En caso de que en cualquier votación se produzca empate, se r
 
 De los Acuerdos.- El Ayuntamiento ejercerá las atribuciones que le conceden las leyes, mediante la expedición de acuerdos de Cabildo; su aprobación se regula por este Reglamento, debiéndose observar en su modificación, derogación y abrogación, el mismo procedimiento que les dio origen.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 66.
 
-Denominación de los Acuerdos de Cabildo.- Los acuerdos de Cabildo podrán ostentar la denominación según la materia que regulen, pudiendo ser:
+Denominación de los Acuerdos de Cabildo.- Los acuerdos de Cabildo podrán ser:
 
-I.- Bandos: Normas expedidas por el Ayuntamiento que deberán contener aquellas disposiciones relativas a los valores protegidos en la esfera del orden público;
+I.- Bandos.- Las normas y mandatos de carácter general que se definen como tales en la Ley del Régimen Municipal para el Estado de Baja California;
 
-II.- Reglamentos: Conjunto de normas dictadas por el Ayuntamiento para proveer, dentro de la esfera de su competencia, a la ejecución o aplicación de leyes y disposiciones en atribuciones municipales, los reglamentos deberán contemplar los siguientes aspectos:
+II.- Reglamentos.- Conjunto de normas dictadas por el Ayuntamiento para proveer, dentro de la esfera de su competencia, a la ejecución o aplicación de leyes y disposiciones en atribuciones municipales;
+
+III.- Presupuestos de egresos;
+
+IV.- Iniciativas de ley o decreto;
+
+V.- Disposiciones de observancia general; y,
+
+VI.- Disposiciones de observancia particular.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+ARTICULO 66 BIS.- Los reglamentos municipales deberán incluir los siguientes aspectos:
 
 I.- Clara delimitación de la materia que regulan;
 
@@ -679,21 +717,15 @@ IV.- Fin que pretende alcanzar;
 
 V.- Derechos y obligaciones;
 
-VI.- Autoridad responsable;
+VI.- Autoridad competente;
 
 VII.- Facultades, atribuciones y limitaciones de las autoridades;
 
-VIII.- Sanciones;
+VIII. - Sanciones;
 
-IX. Recursos, y
+IX.- Recursos; y,
 
-X. Vigencia.
-
-III. Presupuestos de Egresos;
-
-IV. Iniciativas de Ley o Decreto;
-
-V. Disposiciones de observancia general.
+X.- Disposiciones transitorias.
 
 ###### ARTICULO 67.
 
@@ -723,15 +755,17 @@ IV. Actuarán con plena autoridad para requerir a los servidores públicos de la
 
 V.- Los servidores públicos de la administración municipal, estarán obligados a rendir a las comisiones, la información que les soliciten y tengan en su poder en razón de su competencia, igualmente deberán comparecer cuando sean citados por acuerdo de las mismas.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 70.
 
-Clasificación de las comisiones.- Las comisiones podrán ser permanentes, conjuntas y especiales:
+Clasificación de las comisiones.- Las comisiones dictaminadoras del Ayuntamiento podrán ser permanentes, conjuntas y especiales:
 
-I.- Comisiones permanentes.- Se consideran comisiones permanentes las enunciadas en la Ley de Régimen Municipal para el Estado de Baja California en materia de Legislación, Hacienda y Administración, Seguridad Pública, Desarrollo Urbano, Servicios Públicos.
+I. Comisión permanente.- Es la enunciada como tal en el presente Reglamento;
 
-II.- Comisiones conjuntas.- Se consideran comisiones conjuntas aquellas a las que el Cabildo encomiende el estudio, análisis o dictamen de un asunto que atendiendo a su materia o normatividad, deba conocer una o más de las comisiones permanentes.
+II. Comisión conjunta.- Es aquella conformada por dos o más comisiones permanentes, a la que se encomiende el estudio, análisis o dictamen de un asunto que atendiendo a su materia o normatividad, rebase la competencia de una comisión permanente; y
 
-III.- Comisiones especiales.- Se consideran comisiones especiales y tendrán carácter transitorio, aquellas que se constituyan por acuerdo de Cabildo para conocer de los hechos o asuntos específicos que hayan motivado su creación, así como las que se conformen atendiendo a las características económicas, políticas y sociales. Estas dejarán de existir sin necesidad de declaración especial al cumplir sus objetivos o en el termino señalado en el acuerdo de creación.
+III.- Comisión especial.- Es aquella de carácter transitorio que se constituye por acuerdo de Cabildo para conocer de los hechos o asuntos específicos que hayan motivado su creación, así como las que conformen atendiendo a las características económicas, políticas y sociales. Estas dejarán de existir sin necesidad de declaración especial al cumplir sus objetivos o en el término señalado en el acuerdo de creación.
 
 #### SECCION II. INTEGRACION Y FUNCIONAMIENTO
 
@@ -805,9 +839,11 @@ Comparecencia de ciudadanos.- La comisión podrá invitar a los ciudadanos inter
 
 #### SECCION III. DE LAS COMISIONES PERMANENTES
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 77.
 
-Comisiones permanentes.- Son comisiones permanentes las siguientes:
+Comisiones permanentes.- Son comisiones permanentes del Ayuntamiento las siguientes:
 
 I.- Gobernación y Legislación;
 
@@ -817,25 +853,23 @@ III.- Obras y Servicios Públicos;
 
 IV.- Desarrollo Urbano y Control Ecológico;
 
-V.- Administración Pública;
+V.- Administración Pública y Patrimonio Municipal;
 
 VI.- Seguridad Pública, Tránsito y Transporte;
 
 VII.- Planeación del Desarrollo Municipal;
 
-VIII.- Publicaciones;
+VIII.- Desarrollo y Asistencia Social;
 
-IX.- Desarrollo Social;
+IX.- Turismo y Desarrollo Económico;
 
-X.- Asistencia Social;
+X.- Desarrollo Rural;
 
-XI.- Turismo y Desarrollo Económico;
+XI.- Salud, Deporte y Recreación;
 
-XII.- Desarrollo Rural;
+XII.- Educación y Cultura; y,
 
-XIII.- Salud; y
-
-XIV.- Educación.
+XIII.- Asuntos Fronterizos.
 
 ###### ARTICULO 78.
 
@@ -885,9 +919,11 @@ VII.- Opinar sobre la conservación y mantenimiento de vías públicas; y
 
 VIII.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 81.
 
-Comisión de Desarrollo Urbano y Control Ecológico.- La Comisión de Desarrollo Urbano tendrá las siguientes atribuciones;
+Comisión de Desarrollo Urbano y Control Ecológico.- La Comisión de Desarrollo Urbano y Control Ecológico tendrá las siguientes atribuciones:
 
 I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de desarrollo urbano y control ecológico;
 
@@ -897,17 +933,35 @@ III.- Proponer al Cabildo, los mecanismos e instrumentos necesarios para eficien
 
 IV.- Dictaminar y opinar en asuntos sobre ingeniería de tránsito;
 
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+V.- Intervenir en la formulación de propuestas para determinar, modificar y actualizar la nomenclatura de vialidades y espacios públicos del municipio, de acuerdo con la normatividad aplicable; y,
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+VI.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 82.
 
-Comisión de Administración Pública.- La Comisión de Administración Publica tendrá las siguientes atribuciones:
+Comisión de Administración Pública y Patrimonio.- La Comisión de Administración Pública y Patrimonio tendrá las siguientes atribuciones:
 
 I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general, relacionadas con la organización y administración publica centralizada y paramunicipal.
 
 II.- Proponer al Cabildo, los mecanismos e instrumentos necesarios para modernizar y simplificar el funcionamiento y operación de la administración municipal.
 
-III.- Vigilar la debida aplicación de los programas de control del patrimonio municipal en materia de bienes muebles e inmuebles.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
 
-IV.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+III.- Dictaminar sobre la disposición de bienes municipales y vigilar la debida aplicación de controles a la gestión del patrimonio municipal en materia de bienes muebles e inmuebles;
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+IV.- Intervenir en la formulación de propuestas para promover y mejorar el acceso a la información pública municipal de acuerdo con la normatividad aplicable; y,
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2008)</small>
+
+V.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
 ###### ARTICULO 83.
 
@@ -939,43 +993,29 @@ IV.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
 ###### ARTICULO 85.
 
-Comisión de Publicaciones.- La Comisión de Publicaciones tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
-I.- Dictaminar e incentivar la difusión de los valores culturales, científicos e históricos mediante programas y publicaciones que permitan acercarlos a los habitantes del Municipio;
-
-II.- Promover la difusión de las actividades del Ayuntamiento y la Administración Pública Municipal, participando en su edición;
-
-III.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 86.
 
-Comisión de Desarrollo Social.- La Comisión de Desarrollo Social tendrá las siguientes atribuciones:
+Comisión de Desarrollo y Asistencia Social.- La Comisión de Desarrollo y Asistencia Social tendrá las siguientes atribuciones:
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de desarrollo social, recreación, educación, deporte, cultura y bibliotecas;
+I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de desarrollo y asistencia social, y atención a la juventud;
 
 II.- Proponer al Cabildo políticas y medidas para obtener un mayor rendimiento de los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes;
 
 III.- Proponer acciones tendentes a incentivar la participación y desarrollo integral de los habitantes del Municipio;
 
-IV.- Proponer al Cabildo los mecanismos e instrumentos necesarios para promover, impulsar, planificar y estimular la práctica del deporte popular en el Municipio, especialmente entre los jóvenes;
+IV.- Proponer al Cabildo la ejecución de programas encaminados a fomentar la participación de los habitantes del Municipio en asuntos de Interés público, especialmente entre los jóvenes;
 
-V.- Proponer al Cabildo la ejecución de obras para crear, mantener, conservar y ampliar unidades deportivas y recreativas en el Municipio;
+V.- Supervisar que se apoye oportuna y adecuadamente a personas y grupos marginados, discapacitados, damnificados, o en alguna otra condición económica adversa, con programas y recursos destinados a la asistencia social; y
 
-VI.- Proponer al Cabildo la ejecución de programas especiales encaminados a fomentar la participación de los habitantes del Municipio en asuntos de interés público, especialmente entre los jóvenes;
-
-VII.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+VI.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
 ###### ARTICULO 87.
 
-Comisión de Asistencia Social.- La comisión de Asistencia Social tendrá las siguientes atribuciones:
-
-I.- Dictaminar los proyectos de reglamentos, iniciativas de leyes o decretos, y disposiciones normativas de observancia general en materia de asistencia social;
-
-II.- Proponer al Cabildo políticas y medidas para optimizar los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes;
-
-III.- Supervisar que se apoye oportuna y adecuadamente a personas, grupos marginados, discapacitados y damnificados, con programas y recursos destinados a la asistencia social; y
-
-IV.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 ###### ARTICULO 88.
 
@@ -999,25 +1039,35 @@ III.- Proponer al Cabildo la adopción de programas y medidas que tiendan a ince
 
 IV.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 90.
 
-Comisión de Salud.- La comisión de Salud tendrá las siguientes atribuciones:
+Comisión de Salud, Deporte y Recreación.- La comisión de Salud, Deporte y Recreación, tendrá las siguientes atribuciones:
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de salud;
+I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de salud, deporte y recreación;
 
-II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para el adecuado cumplimiento de las funciones que como autoridad sanitaria le corresponde ejercer al Ayuntamiento, de acuerdo a los ordenamientos legales aplicables;
+II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para el adecuado cumplimiento de las funciones que como autoridad sanitaria le corresponde ejercer al gobierno municipal, de acuerdo a los ordenamientos legales aplicables;
 
-III.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+III.- Proponer al Cabildo los mecanismos e instrumentos necesarios para promover, impulsar, planificar y estimular la práctica del deporte popular en el Municipio, especialmente entre los jóvenes;
+
+IV.- Proponer al Cabildo la ejecución de obras para crear, mantener, conservar y ampliar unidades deportivas y recreativas en el Municipio; y,
+
+V.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 91.
 
-Comisión de Educación.- La Comisión de Educación tendrá las siguientes atribuciones:
+Comisión de Educación y Cultura.- La Comisión de Educación y Cultura tendrá las siguientes atribuciones:
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de educación;
+I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de educación y cultura.
 
-II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar la prestación de servicios de educación en el Municipio;
+II.- Dictaminar sobre las propuestas encaminadas a incentivar los valores culturales, científicos e históricos en el Municipio;
 
-III.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+III.- Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar la prestación de servicios de educación en el Municipio; y,
+
+IV.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
@@ -1035,55 +1085,67 @@ IV. Dictaminar respecto de los proyectos de convenios en los que el Ayuntamiento
 
 V. En general, aquellas que el Cabildo le encomiende.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
-
-ARTICULO 91 TER.- Comisión de Atención a la Juventud.- Tendrá las siguientes atribuciones:
-
-> <small>(F. DE E., P.O. 18 DE MARZO DE 2005)</small>
-
-I. Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de recreación, deporte y juventud:
-
-> <small>(F. DE E., P.O. 18 DE MARZO DE 2005)</small>
-
-II. Proponer al Cabildo los mecanismos e instrumentos necesarios para promover, impulsar, planificar estimular la práctica del deporte en la juventud mexicalense;
-
-> <small>(F. DE E., P.O. 18 DE MARZO DE 2005)</small>
-
-III. Proponer al Cabildo políticas públicas para obtener un mayor rendimiento en los recursos municipales aplicables a las matarías señaladas en la fracción I. Siempre vigilando la transparencia en el cumplimiento sobre los programas correspondientes;
-
-> <small>(F. DE E., P.O. 18 DE MARZO DE 2005)</small>
-
-IV. Las demás que el Ayuntamiento y el presente Reglamento le encomienden.
+ARTICULO 91 TER.- (DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 #### SECCION IV. DEL PROCEDIMIENTO EN COMISIONES
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 92.
 
-Remisión a comisiones.- Todas las propuestas de acuerdo deberán ser turnadas a las comisiones, y una vez estudiadas, analizadas y discutidas formularán en el dictamen correspondiente.
+Remisión a comisiones.- Todas las propuestas de acuerdo del Ayuntamiento respecto de las que no se determine la dispensa de dictamen de comisión, deberán ser turnadas a la que corresponda. Una vez que la comisión estudie, analice y discuta la propuesta de acuerdo, formulará en su caso el dictamen correspondiente.
 
 ###### ARTICULO 93.
 
 Dispensa de trámite ante las comisiones.- Sólo podrá dispensarse de ser turnada una propuesta de acuerdo, a la comisión que corresponda, en aquellos asuntos que por acuerdo de Cabildo se califiquen de urgentes o de obvia resolución, caso en el cual el Cabildo procederá de inmediato al análisis y discusión del asunto.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 94.
 
-Convocatoria.- Las sesiones de las comisiones serán convocadas por su coordinador o su secretario en su caso, conforme al procedimiento acordado por el Cabildo, cuando menos con veinticuatro horas de anticipación a la fecha señalada para su celebración, indicándose fecha, hora, lugar y temas a tratar. Al inicio de la sesión, el secretario verificará que se cumplimentó la convocatoria en estos términos.
+Sesiones de Comisión.- En lo procedente, las reglas de conducción; clasificación; convocatoria; diferimiento, suspensión o receso; acta; análisis y discusión de los asuntos; previstas en el presente Reglamento para las sesiones de Cabildo, serán aplicables a las sesiones de comisión.
 
-Para que las comisiones puedan sesionar válidamente, se requiere la asistencia de la mayoría de sus miembros.
+Las convocatorias para sesiones de comisión se notificarán a todos los Regidores, Síndico Procurador, y al Departamento de Atención a Cabildo de la Secretaría del Ayuntamiento, acompañadas de copia simple de las propuestas que sean incluidas en el orden del día para ser dictaminadas.
+
+En las sesiones de las comisiones del Ayuntamiento además de los integrantes de las mismas, podrán participar las siguientes personas, pero sólo con derecho a voz:
+
+I.- El Síndico Procurador o sus representantes;
+
+II.- Quien presente una propuesta de acuerdo y no sea integrante de la comisión que deba dictaminarlo, a fin de que pueda informar sobre los motivos y razonamientos que fundan y sustenten la misma, y defender los argumentos en contrario;
+
+III.- Los representantes de las dependencias y entidades de la administración pública municipal en asuntos de su competencia;
+
+IV.- Los servidores públicos federales o estatales, para que informen cuando se discuta un asunto concerniente a sus respectivos ámbitos de competencia;
+
+V.- Los representantes de grupos sociales interesados, peritos y otras personas que puedan ampliar la información sobre el particular, cuando así se determine por la misma comisión.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 95.
 
-Análisis, discusión y resolución.- Las comisiones actuarán con plena libertad en los trabajos de análisis, discusión y resolución de los asuntos que les sean turnados, sin más limitación que los plazos indicados en el presente reglamento para emitir sus dictámenes.
+Las comisiones actuarán con plena libertad en el análisis y discusión de los asuntos que les sean turnados, sin más limitación que los plazos indicados en el presente reglamento para emitir sus dictámenes.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 96.
 
-Votación.- Los dictámenes de las comisiones se aprobarán por mayoría de votos de sus integrantes presentes en sesión; salvo aquellos casos en que este Reglamento determine otro tipo de votación, en caso de empate, el coordinador contará con voto de calidad para decidir el resultado.
+Validez y votación de las sesiones de comisión.- Para que las comisiones puedan sesionar válidamente, se requiere la asistencia de la mayoría de sus miembros.
+
+Los dictámenes de las comisiones se aprobarán por mayoría de votos de sus integrantes presentes en sesión. Las votaciones serán en forma económica, y en caso de empate, el coordinador contará con voto de calidad para decidir el resultado.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 97.
 
-Procedimiento después de la aprobación.- Una vez aprobado el dictamen que corresponda por la Comisión respectiva, ésta lo turnará al Presidente Municipal para efecto de que éste en un término de ocho días hábiles siguientes a aquel en que le haga saber, ejerza su derecho de previa observación por única vez.
+Procedimiento después de la aprobación.- Cuando el dictamen de comisión sea relativo a bandos, reglamentos, presupuestos de egresos, iniciativas de leyes y decretos al Congreso, y disposiciones de observancia general, una vez aprobado por la comisión respectiva, ésta lo turnará junto con su expediente al Presidente Municipal por conducto de la Subdirección Jurídica de la Secretaría del Ayuntamiento, para efecto de que en un término de ocho días hábiles siguientes a la recepción del dictamen, ejerza su derecho de previa observación por única vez.
 
-Se reputará aprobado por el Presidente Municipal todo proyecto que no se devuelva con observaciones a la Comisión respectiva dentro del mencionado término.
+Antes de que transcurra dicho plazo, si no ejercerá su derecho de previa observación, el Presidente Municipal podrá indicar al Secretario del Ayuntamiento que incluya la presentación, discusión y resolución del dictamen en la propuesta de orden del día de la siguiente sesión; o en su caso, comunicará a la comisión dictaminadora que no hará observaciones para que ésta pueda proceder a presentarlo directamente en sesión ordinaria de Cabildo conforme al último párrafo de este articulo.
+
+Una vez transcurrido el plazo para hacer observaciones al dictamen sin que éstas se formulen, o antes en los términos del párrafo anterior, el Secretario del Ayuntamiento procederá a incluir en la propuesta de orden del día de la siguiente sesión ordinaria, la presentación, discusión y resolución del dictamen por el Cabildo.
+
+Cuando los dictámenes se refieran a disposiciones de observancia particular, una vez aprobados deberán hacerse llegar junto con sus expedientes a la Secretaría del Ayuntamiento por conducto del Departamento de Atención a Cabildo, y su presentación, discusión y resolución se incluirá en la propuesta de orden del día de la sesión ordinaria siguiente, sólo cuando sean recibidos con dos días hábiles de anticipación a la fecha de su celebración. La comisión dictaminadora podrá presentarlos directamente en sesión ordinaria de Cabildo.
+
+Los dictámenes que conforme a este artículo se presenten directamente en sesión ordinaria de Cabildo, no podrán discutirse, ni resolverse, sino hasta la siguiente sesión ordinaria, salvo acuerdo en contrario.
 
 ###### ARTICULO 98.
 
@@ -1109,27 +1171,33 @@ V.- Fundamentos legales;
 
 VI.- Puntos de acuerdo.
 
-El dictamen, con su expediente, será turnado a la Secretaría del Ayuntamiento en los términos del artículo 101 de este ordenamiento.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+Los dictámenes de comisión se emitirán por duplicado. Un ejemplar se turnará al Presidente Municipal, o en su caso se presentará en la Secretaría del Ayuntamiento, en los términos del artículo 97 del presente Reglamento. El otro ejemplar será el que se presente en la sesión de Cabildo en la que vaya a discutirse y resolverse.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+El secretario de la comisión dictaminadora distribuirá copia simple de los dictámenes aprobados por la comisión, a todos los Regidores y al Síndico Procurador, dentro de las veinticuatro horas siguientes a la conclusión de la sesión en la que hubieren sido aprobados.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 100.
 
-Plazo de las comisiones para emitir dictámenes.- Cuando se trate de asuntos que tengan el carácter de bandos, reglamentos, presupuestos de egresos, iniciativas de leyes y decretos al Congreso, y disposiciones normativas de observancia general, el dictamen de comisiones deberá rendirse en un plazo no mayor de cuarenta días naturales, siguientes a la fecha en que el asunto se les hubiere turnado y, tratándose de otros asuntos, dentro de un plazo de veinte días naturales, salvo los casos dispuestos en los artículos 112 y 113 de este Reglamento.
+Plazo de las comisiones para emitir dictámenes.- Cuando se trate de asuntos relativos a bandos, reglamentos, presupuestos de egresos, iniciativas de leyes y decretos al Congreso, y disposiciones normativas de observancia general, el dictamen de comisiones deberá rendirse en un plazo no mayor de cuarenta días naturales, siguientes a la fecha en que el asunto se les hubiere turnado y, tratándose de otros asuntos, dentro de un plazo de veinte días naturales, salvo los casos dispuestos en los párrafos siguientes y en los artículos 112 y 113 de este Reglamento.
 
-A petición formulada al Ayuntamiento por la comisión responsable, los plazos podrán extenderse por una sola ocasión hasta por un término igual al señalado anteriormente.
+A petición formulada al Ayuntamiento por el coordinador de la comisión responsable, los plazos podrán extenderse por una sola ocasión hasta por un término igual al señalado anteriormente.
 
-Vencidos los plazos indicados en los párrafos anteriores, la comisión deberá rendir un informe al Cabildo, del estado en que se encuentra el asunto, quien resolverá lo conducente.
+Vencidos los plazos indicados en los párrafos anteriores, la comisión deberá rendir un informe al Cabildo, del estado en que se encuentra el asunto. Cualquier miembro del Ayuntamiento podrá requerir a la comisión este informe. Presentado el mismo, el Cabildo podrá determinar discutir y resolver el asunto sin esperar el dictamen de la comisión.
+
+Cuando se deban cumplir plazos establecidos en la Ley, los dictámenes se dictarán en el plazo señalado por el acuerdo del Cabildo que determine la comisión dictaminadora, o el del Presidente Municipal por el que se hubiere turnado el asunto.
 
 ###### ARTICULO 101.
 
-Presentación del dictamen ante la Secretaría.- Los dictámenes y sus expedientes, deberán hacerse llegar a la Secretaría del Ayuntamiento, dentro de los plazos previstos en el artículo anterior, y sólo podrán ser presentados en sesión de Cabildo, cuando sean recibidos con tres días hábiles de anticipación a la fecha de su celebración.
-
-De no presentarse dictamen conforme a lo previsto en el párrafo anterior, la comisión interesada podrá presentarlo directamente en la sesión de Cabildo, pero no podrá discutirse, ni resolverse, sino hasta la siguiente sesión ordinaria, salvo acuerdo económico en contrario.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 ###### ARTICULO 102.
 
-Distribución de los dictámenes.- Recibido que sean en la Secretaría un dictamen con su expediente, deberán distribuirse copias simples del primero entre los integrantes que no sean miembros de la comisión dictaminadora, a más tardar el siguiente día hábil de su recepción.
-
-El Secretario del Ayuntamiento enlistará los asuntos dictaminados en su propuesta del orden del día.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 ###### ARTICULO 103.
 
@@ -1139,47 +1207,41 @@ Informes Administrativos.- Las comisiones por conducto de su coordinador, rendir
 
 #### SECCION I. DE LA DECLARACIÓN PATRIMONIAL
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
 ###### ARTICULO 104.
 
-De la declaración de situación patrimonial.-
+De la declaración de situación patrimonial.- Corresponde al Síndico Procurador, solicitar y recopilar la información sobre situación patrimonial de los demás integrantes del Ayuntamiento, para lo cual empleará los formatos que determine para tal fin.
 
-Corresponde al Síndico Procurador, solicitar, recopilar y procesar, para efectos de su publicación, la información sobre situación patrimonial de los demás integrantes del Ayuntamiento, para lo cual empleará los formatos que determine para tal fin.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 105.
 
-La publicación de declaraciones sobre situación patrimonial a que hace referencia el articulo anterior, incluyéndose la del Síndico, se harán constar en un solo documento.
+Los miembros del Ayuntamiento deberán presentar su Declaración Patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California. Esta Declaración Patrimonial podrá hacerse pública, previa autorización de los mismos miembros del Ayuntamiento, en los términos de las leyes aplicables
 
 ###### ARTICULO 106.
 
-La publicación de las declaraciones se realizará en el Periódico Oficial del Gobierno del Estado y en los principales diarios de circulación local, las cuales versarán sobre los siguientes rubros:
-
-I. Bienes Inmuebles;
-
-II. Bienes Muebles;
-
-III. Valores, entendiéndose por tales, depósitos bancarios, inversiones, acciones, títulos de crédito y ahorro en general;
-
-IV. Pasivo, comprendiendo la totalidad de las cargas y deudas de tipo personal que pesan sobre el servidor público, de su cónyuge o de sus dependientes.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 ###### ARTICULO 107.
 
-La información proporcionada por los integrantes del Ayuntamiento, deberá comprender además, la de los bienes o cargas que aparezcan registrados a nombre de su cónyuge y dependientes.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 ###### ARTICULO 108.
 
-El Síndico Procurador proveerá lo necesario para que la información relativa a la situación patrimonial sea publicada oportunamente, así como de que se facilite su comprensión por parte de los gobernados.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 ###### ARTICULO 109.
 
-Las declaraciones sobre situación patrimonial de los integrantes del Ayuntamiento deberán publicarse durante el mes de julio de cada año, y dentro de un plazo que no excederá de noventa días, cuando inicie su gestión el Ayuntamiento respectivo.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 ###### ARTICULO 110.
 
-En el caso de la conclusión de la gestión del Ayuntamiento, la publicación de la declaración patrimonial de sus integrantes, deberá efectuarse dentro de los sesenta días naturales posteriores a la fecha de conclusión.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 ###### ARTICULO 111.
 
-En caso de que alguno o algunos de los integrantes del Ayuntamiento se separen, o sean separados de sus cargos, fuera del término en que la Sindicatura Municipal se encuentre obligada a recabar la información patrimonial, ésta deberá publicarse a la fecha correspondiente al próximo ejercicio fiscal; esto mismo deberá observarse en el caso de que los suplentes entren definitivamente en funciones.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
 #### SECCION II. DE LA REVOCACIÓN DEL MANDATO Y SEPARACIÓN DEFINITIVA DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
@@ -1255,7 +1317,7 @@ Ana Imelda Corella Torres
 
 David Montaño Córdova
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 4 DE JULIO DE 2003.
 
@@ -1275,7 +1337,7 @@ P.O. 3 DE DICIEMBRE DE 2004.
 
 ACUERDO POR EL CUAL SE REFORMA AL ARTICULO 41 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI BAJA CALIFORNIA.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 3 DE DICIEMBRE DE 2004.
 
@@ -1288,3 +1350,9 @@ SEGUNDO.- EN CASO DE CONTROVERSlA ENTRE LAS PRESENTES REFORMAS Y OTRAS DISPOSICI
 P.O. 17 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+P.O. 29 DE FEBRERO DE 2008.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los reglamentos y acuerdos del Ayuntamiento que se refieran a cualquiera de las comisiones cuya denominación o atribuciones se modifican por medio de la presente reforma, se entenderá que establecen facultades u obligaciones a la comisión que corresponda de acuerdo con la denominación y funciones a que se refiere el presente Acuerdo.
