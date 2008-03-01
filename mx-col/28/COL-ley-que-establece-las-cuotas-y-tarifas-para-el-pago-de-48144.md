@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2007-12-29"
+last_updated: "2008-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLlMA Y VILLA DE ALVAREZ EN EL ESTADO DE COLlMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2008.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -117,6 +117,10 @@ b) En el Municipio de Villa de Álvarez: Residencial las Parotas.
 
 (VEASE ARCHIVO ANEXO)
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2008)</small>
+
+En el caso de los usuarios a que se refiere el presente artículo, que consuman hasta siete metros cúbico mensuales de agua, pagarán el 50% de la cuota mínima del concepto de saneamiento que le corresponda.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 4.
@@ -134,6 +138,10 @@ Los usuarios de los servicios de agua potable en "servicio medido", alcantarilla
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del lVA de conformidad con la Ley del Impuesto al Valor Agregado.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2008)</small>
+
+En el caso de los usuarios que consuman hasta diez metros cúbicos mensuales de agua, pagarán el 50%de la cuota mínima del concepto de saneamiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1023,11 +1031,11 @@ TRANSITORIOS:
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA"
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2007, el beneficio a que se refiere el artículo 37 de esta Ley, se amplía hasta el 31 de marzo del citado año, además de no generar los recargos correspondientes en dicha prórroga. Para el supuesto del artículo 38 de la citada Ley, no se generarán recargos hasta después del 30 de abril.
+Para el ejercicio fiscal 2008, el beneficio a que se refiere el artículo 37 de esta Ley, se amplia hasta el 30 de junio del citado año, además de no generar los recargos correspondientes en dicha prórroga. Para el supuesto del artículo 38 de la citada Ley, no se generarán recargos hasta después del 30 de junio.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -1066,6 +1074,10 @@ El presente decreto entrará en vigor el día 1º. de enero de 2008, previa su p
 ###### ARTÍCULO SEGUNDO.
 
 Para el ejercicio fiscal 2008, la tarifa de saneamiento aplicable se calculará con base al salario mínimo del ejercicio fiscal 2007.
+
+P.O. 1 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
