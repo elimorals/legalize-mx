@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2007-05-05"
+last_updated: "2008-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2008.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -657,7 +657,9 @@ XVIII. Niñez, Juventud y Deporte;
 
 XIX. Equidad, Género y Familia;
 
-XX. Gestoría Social y Grupos Vulnerables;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2008)</small>
+
+XX. Asuntos Migratorios; Gestoría Social y Grupos Vulnerables;
 
 XXI. Asuntos Pesqueros y Desarrollo Acuícola;
 
@@ -1118,3 +1120,9 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial de 
 Dip. María Eugenia García Espino, Presidenta.- Rúbrica.- Dip. Juan Ignacio Ornelas Salas, Secretario.- Rúbrica.- Dip. Rafael Vega Herrera, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los cuatro días del mes de mayo del año dos mil siete.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaría General de Gobierno.- Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MARZO DE 2008.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
