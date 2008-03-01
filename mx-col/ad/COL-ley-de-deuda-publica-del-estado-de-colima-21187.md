@@ -4,7 +4,7 @@ identifier: "COL-ley-de-deuda-publica-del-estado-de-colima-21187"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-28"
-last_updated: "2003-03-22"
+last_updated: "2008-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2008.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de abril del 2001.
 
@@ -99,11 +99,13 @@ VII.- Secretaría: la Secretaría de Finanzas del Gobierno del Estado; y
 
 VIII.- Registro: el Registro Estatal de Deuda Pública.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 5º.
 
-Las obligaciones financieras que contraigan las entidades públicas a que se refiere el artículo 2° de esta Ley, para solventar necesidades temporales, siempre que su liquidación se realice en el mismo ejercicio fiscal para el cual fueron contratadas, se considerarán dentro de los montos anuales de endeudamiento autorizadas por el Congreso.
+No constituyen deuda pública las obligaciones financieras que contraigan. las entidades públicas a que se refiere el artículo 2º de esta Ley, para solventar necesidades temporales, siempre que su liquidación se realice en el mismo ejercicio fiscal para el cual fueron contratadas.
 
-No constituirán deuda pública, los adelantos de participaciones provenientes del fondo general a que se refiere la Ley de Coordinación Fiscal del Estado.
+Tampoco constituyen deuda pública los adelantos de participaciones federales.
 
 ###### ARTICULO 6°.
 
@@ -111,7 +113,15 @@ Los empréstitos y créditos que contraigan las entidades públicas señaladas e
 
 ###### ARTICULO 7º.
 
-Los recursos obtenidos mediante obligaciones de deuda pública estarán destinados a inversión pública productiva, entendiéndose por ésta, las erogaciones efectuadas en: obras públicas, adquisición de maquinaria y equipo, proyectos y modernización de la infraestructura operativa de las entidades públicas a que se refiere el artículo 2° de la presente Ley.
+Los recursos obtenidos mediante obligaciones de deuda pública estarán destinados a inversión pública productiva, entendiéndose por ésta, las erogaciones efectuadas en: obras públicas, adquisición de maquinaria y equipo, proyectos y modernización de la infraestructura operativa de las entidades públicas a que se refiere el artículo 2º de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2008)</small>
+
+También se considera inversión pública productiva, la reestructuración y el refinanciamiento de la deuda pública que se hubiera adquirido para aplicarse en su momento a los rubros específicas que se señalan en el párrafo anterior, siempre que produzcan ahorros o generen incrementos en la disponibilidad de recursos financiaros de las entidades públicas señalas en el artículo 2º de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2008)</small>
+
+En ningún caso los recursos provenientes de la reestructuración o refinanciamiento, podrán destinarse al concepto de gasto corriente.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS COMPETENTES EN MATERIA DE DEUDA PÚBLICA
 
@@ -302,3 +312,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.-
 P.O. 22 DE MARZO DE 2003.
 
 UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE MARZO DE 2008.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El ESTADO DE COLIMA".
