@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-2008-58716"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-08"
-last_updated: "2007-12-08"
+last_updated: "2008-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2008
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2008.
 
 Ley publicada en el Suplemento No.1 al Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 2007.
 
@@ -403,6 +403,10 @@ Se derogan las disposiciones que contengan exenciones, totales o parciales, o co
 
 Lo dispuesto en el párrafo anterior también será aplicable cuando las disposiciones que contengan exenciones, totales o parciales, o consideren a personas como no sujetos de contribuciones estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones, estatales, se encuentren contenidas en normas jurídicas que tengan por objeto la creación de organismos descentralizados, órganos desconcentrados y empresas de participación estatal.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2008)</small>
+
+En tratándose en lo señalado por el primer párrafo de este artículo, no quedan derogadas las disposiciones que establezcan exenciones a favor de las instituciones públicas de educación del Estado, así como las entidades paraestatales y paramunicipales cuando los bienes que utilicen de aquellos sean para fines propios de su objeto público en las áreas administrativas, de salud, educación, cultura y de investigación con motivo del pago de derechos por los servicios de uso y aprovechamiento de agua que se haga en sus instalaciones, incluyendo aquellas destinadas a funciones administrativas.
+
 ###### Artículo 6.
 
 La Comisión Intermunicipal de Agua Potable y Alcantarillado de los Municipios de Colima y Villa de Álvarez, en su carácter de organismo público descentralizado del Gobierno del Estado de Colima, recaudará y administrará durante el ejercicio fiscal 2008 los ingresos provenientes de los derechos por la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento que realice en los municipios de Colima y Villa de Álvarez, así como de sus accesorios legales y otros ingresos, conceptos por los cuales se espera captar durante dicho ejercicio la cantidad de $ 153,542,876.32 ( CIENTO CINCUENTA Y TRES MILLONES QUINIENTOS CUARENTA Y DOS MIL OCHOCIENTOS SETENTA Y SEIS PESOS 32/100 M.N.).
@@ -476,3 +480,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 04 días del mes de diciembre del año dos mil siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MARZO DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
