@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2008-02-11"
+last_updated: "2008-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -163,9 +163,11 @@ Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y v
 
 ### CAPÍTULO I. De las Autoridades Municipales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 14.
 
-Son autoridades del gobierno municipal, en orden jerárquico, las siguientes:
+Son autoridades del Gobierno Municipal, en orden jerárquico, las siguientes:
 
 I. El H. Ayuntamiento.
 
@@ -173,7 +175,9 @@ II. El Presidente Municipal.
 
 III. El Secretario del Ayuntamiento y Director General de Gobierno.
 
-IV. Los Secretarios.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2008)</small>
+
+IV. Los Secretarios y el Jefe de la Oficina Ejecutiva del Presidente Municipal.
 
 V Los Coordinadores Generales.
 
@@ -769,15 +773,21 @@ De la Secretaría Particular
 
 La Presidencia tiene a su cargo el despacho de asuntos que expresamente le confieren la Ley que en materia municipal expida el Poder Legislativo del Estado, los acuerdos que emanen de las Sesiones del H. Ayuntamiento y el presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 98.
 
 El trámite y resolución de los asuntos, competencia del Municipio de Aguascalientes, corresponde originalmente al Presidente Municipal, quien para su mejor realización, podrá delegar sus facultades en cualquiera de los servidores públicos de la administración pública municipal, sin perder por ello su ejercicio directo y responsabilidad.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
+
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el Presidente Municipal o con quien éste determine, y deberán cumplir los requisitos señalados en la Ley que en materia municipal expida el Poder Legislativo del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes Unidades Administrativas:
 
-Secretaría Particular;
+Secretaria Particular;
 
 Comité Municipal para el Desarrollo Integral de la Familia;
 
@@ -797,13 +807,13 @@ Secretaría de Obras Públicas;
 
 Secretaría de Administración;
 
-Secretaría de Desarrollo Humano;
+Secretaría de Desarrollo Social;
 
 Secretaría de Desarrollo Urbano;
 
 Secretaría de Servicios Públicos y Ecología; y
 
-Secretaría de Seguridad Pública y Tránsito Municipal.
+Secretaría Seguridad Pública y Tránsito Municipal.
 
 De las unidades administrativas enunciadas dependerá la estructura siguiente:
 
@@ -811,41 +821,39 @@ I.- PRESIDENCIA MUNICIPAL:
 
 Asistente del C. Presidente; y Secretario Privado del C. Presidente.
 
-II.- SECRETARIA PARTICULAR
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2008)</small>
 
-Asistente del Secretario.
+II.- SECRETARÍA PARTICULAR:
 
-Departamento de Giras y Eventos.
+Asistente del Secretario
 
-Departamento de Atención a la Ciudadanía.
+Departamento de Giras y Eventos
 
-Departamento de Banda Sinfónica Municipal.
+Departamento de Atención a la Ciudadanía
 
-Coordinación Administrativa.
+Coordinación Administrativa
 
-Dirección de Asuntos Internacionales.
+Dirección de Asuntos Internacionales
 
-Dirección de Atención Institucional.
+Dirección de Atención Institucional
 
-Departamento de Relaciones Públicas.
+Departamento de Relaciones Públicas
 
-III.- COORDINACIÓN GENERAL DE ASESORES
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2008)</small>
 
-Dirección de Análisis Socio - Político.
+III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL
 
-Departamento de Análisis Político.
+Coordinación de Estudios de Opinión y Mejora de la Gestión Pública
 
-Departamento de Análisis Social.
+Coordinación de Gabinetes Temáticos y Proyectos Especiales
 
-Dirección de Enlace Institucional.
+Coordinación de Seguimiento y Evaluación
 
-Coordinación de Vinculación Institucional.
+Coordinación de Gestión Institucional
 
-Dirección de Información y Opinión Pública.
+Coordinación de Vinculación
 
-Departamento de Información y Documentación; y
-
-Departamento de Opinión Pública.
+Coordinación de Estrategia y Mensaje Gubernamental.
 
 IV.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -1185,6 +1193,18 @@ Departamento de Proyectos Productivos.
 
 Departamento de Turismo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2008)</small>
+
+Dirección de Desarrollo Económico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2008)</small>
+
+Departamento de Bolsa de Trabajo y Capacitación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2008)</small>
+
+Departamento de Proyectos Productivos.
+
 XIV.- SECRETARÍA DE DESARROLLO URBANO
 
 Departamento de Atención Ciudadana.
@@ -1369,7 +1389,7 @@ III. Programar y supervisar las giras del Presidente Municipal.
 
 IV. Encargarse de la política de relaciones públicas de la Presidencia Municipal.
 
-V. Recibir las solicitudes y autorizar la actuación de la Banda Sinfónica Municipal.
+V. (DEROGADA, P.O. 3 DE MARZO DE 2008)
 
 VI. Las demás que el Presidente Municipal le encomiende.
 
@@ -1537,27 +1557,31 @@ APARTADO SEXTO
 
 De la Coordinación General de Asesores
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 105.
 
-Corresponde a la Coordinación General de Asesores:
+Corresponde a la Oficina Ejecutiva del Presidente Municipal:
 
-I. Sugerir estrategias de coordinación y evaluación de la gestión del desarrollo municipal.
+I. Fungir como enlace, bajo la supervisión del C. Presidente Municipal, para asegurar una adecuada vinculación de las dependencias y organismos de la Administración Pública Municipal con los diferentes niveles y poderes de gobierno, así como con las diversas instituciones y organizaciones de la sociedad en general, y coordinarse con la Secretaría del Ayuntamiento en los asuntos de su competencia señalados en la Fracción III del artículo 107 del Código Municipal.
 
-II. Proponer el diseño, seguimiento y evaluación de la agenda del Gobierno Municipal.
+II. Establecer los mecanismos necesarios para el seguimiento y cumplimiento de los acuerdos entre el C. Presidente Municipal y los Titulares de las Dependencias y Organismos de la Administración Pública Municipal.
 
-III. Evaluar sistemáticamente la gestión del Municipio mediante indicadores estratégicos de gestión y desarrollo.
+III. Coordinar la organización de los trabajos de las Dependencias y Organismos de la Administración Pública Municipal en Gabinetes Temáticos para garantizar la eficacia de la Administración Pública Municipal.
 
-IV. Coordinar encuestas de evaluación de la gestión municipal mediante estudios de opinión pública.
+IV. Dar seguimiento y evaluar periódicamente los planes, programas y proyectos para el cumplimiento de las metas establecidas en el Plan de Desarrollo Municipal, informando a los miembros del H. Ayuntamiento de los resultados de dichas evaluaciones para dar cabal cumplimiento a lo establecido en los artículos 13 y 18 del Código Municipal vigente, así como instrumentar las acciones propuestas por el H. Ayuntamiento.
 
-V. Dar servicio de información y análisis para la toma de decisiones.
+V. Coordinarse con las Dependencias y Organismos de la Administración Pública Municipal en las actividades relacionadas con el diseño y la gestión de los proyectos estratégicos derivados del Plan de Desarrollo Municipal.
 
-VI. Elaborar material de apoyo para las presentaciones del Presidente Municipal.
+VI. Coordinar los servicios de asesoría y consultoría al C. Presidente Municipal.
 
-VII. Integrar los informes de gobierno.
+VII. Realizar análisis, estudios y encuestas en materia de opinión pública y documentar los resultados y datos estadísticos, así como coordinar la elaboración de otro tipo de estudios pertinentes para la innovación y mejora de la gestión pública y el desempeño gubernamentales.
 
-VIII. Coordinar el programa editorial del Municipio.
+VIII. Coordinarse con los Titulares de las Dependencias y Organismos de la Administración Pública Municipal para integrar y elaborar los documentos relacionados con los Informes de Gobierno y coordinarse con el IMPLAN en los asuntos de su competencia que se señalan en los artículos 8º y 9º del Reglamento del Instituto Municipal de Planeación.
 
-IX. Las demás que expresamente le encomiende el Presidente Municipal.
+IX. Coordinarse con la Secretaría Particular del C. Presidente Municipal para el diseño, seguimiento y evaluación de la Agenda, así como para establecer las bases para la integración y contenido de las giras del C. Presidente Municipal, de acuerdo a lo establecido en las fracciones I y III del Artículo 99 del Código Municipal.
+
+X. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional, de acuerdo a lo establecido en las fracciones IV, V, VI y IX del Artículo 101 del Código Municipal.
 
 APARTADO SÉPTIMO
 
@@ -1765,13 +1789,17 @@ XLIII. Dar seguimiento para que las dependencias cumplan en lo conducente, lo es
 
 XLIV. las demás que le señale la ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MARZO DE 2008)</small>
+
 APARTADO DÉCIMO SEGUNDO
 
-De la Secretaría de Desarrollo Humano
+De la Secretaría de Desarrollo Social
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 111.
 
-Corresponde a la Secretaría de Desarrollo Humano, lo siguiente:
+Corresponde a la Secretaría de Desarrollo Social, lo siguiente:
 
 I. Promover la concertación de acuerdos de carácter social, político y económico entre el Municipio y grupos sociales.
 
@@ -1833,7 +1861,7 @@ XXIX. Fomentar la capacitación y asistencia técnica integral en las micro y pe
 
 XXX. Apoyar a las micro y pequeñas empresas en las gestiones para la obtención de servicios, insumos, financiamientos y demás elementos necesarios para el desarrollo de sus actividades.
 
-XXXI. Fomentar e impulsar las actividades turísticas en el municipio de conformidad con las leyes Federales y Estatales en la materia.
+XXXI. (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE MARZO DE 2008)
 
 XXXII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
@@ -2305,6 +2333,8 @@ En la aplicación del presente capítulo, se atenderá en lo conducente lo dispu
 
 ### CAPÍTULO IV. Descentralización y Desconcentración Administrativa
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 146.
 
 Las normas contenidas en este capítulo, regulan el proceso de entrega-recepción de las oficinas de las dependencias, unidades administrativas y entidades de la administración pública municipal, con objeto de asegurar la continuidad de sus trabajos y programas emprendidos.
@@ -2415,7 +2445,7 @@ Disposiciones Generales
 
 ###### ARTÍCULO 162.
 
-Para la más eficaz atención y despacho de los asuntos de la competencia de la Presidencia, ésta contará con los órganos administrativos desconcentrados y descentralizados, que resulten necesarios, los que tendrán las facultades y obligaciones que se establezcan en las leyes de su creación.
+Para la más eficaz atención y despacho de los asuntos de la competencia de la Presidencia Municipal, ésta contará con los órganos administrativos desconcentrados y descentralizados que resulten necesarios, los que tendrán las facultades y obligaciones que se establezcan en los reglamentos de su creación.
 
 ###### ARTÍCULO 163.
 
@@ -5441,6 +5471,8 @@ Una vez integrados debidamente los estudios a que se refiere el párrafo anterio
 
 ### CAPÍTULO VI. De la Participación Social y la Coordinación Gubernamental
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 504.
 
 Para promover y efectuar el saneamiento atmosférico, el Municipio a través de la Dirección de Ecología y Salud deberá:
@@ -5813,7 +5845,9 @@ La Dirección de Ecología y Salud instrumentará, dará seguimiento y evaluará
 
 El H. Ayuntamiento con la finalidad de promover la participación de los diversos sectores de la población y facilitar la coordinación de los tres niveles de Gobierno, instalará el Comité Municipal de Ecología y Gestión Ambiental.
 
-El Comité Municipal de Ecología y Gestión ambiental será integrado por:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
+
+El Comité Municipal de Ecología y Gestión Ambiental será integrado por:
 
 I. Un Presidente, que será el Presidente Municipal de Aguascalientes o quien él designe para tal efecto.
 
@@ -5823,7 +5857,9 @@ III. Un Secretario, que será designado por el Presidente Municipal.
 
 IV. Un Coordinador, que será el Director de Ecología y Salud del Municipio.
 
-V. Un Representante de cada una de las siguientes dependencias: de la Secretaría de Medio Ambiente y Recursos Naturales; Procuraduría Federal de Protección al Ambiente; Comisión Nacional del Agua; Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias; Comisión Nacional de Zonas Áridas; Secretaría de Desarrollo Social del Estado; Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes; Instituto de Educación de Aguascalientes; Secretaría de Desarrollo Económico del Estado; Instituto de Salud del Estado de Aguascalientes; Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes; Secretaría de Desarrollo Urbano Municipal; Secretaría de Desarrollo Humano Municipal; y Secretaría de Servicios Públicos y Ecología del Municipio, Procuraduría Estatal de Protección al Ambiente, Instituto del Medio Ambiente del Estado, Protección Civil Estatal y Municipal, Instituto Nacional de Educación Para los Adultos y Jóvenes, Comisión Nacional de Fomento Educativo, Comisión Nacional Forestal. Secretaría de Planeación y Desarrollo Regional y el Instituto Municipal de Planeación.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2008)</small>
+
+V. Un Representante de cada una de las siguientes dependencias: de la Secretaría de Medio Ambiente y Recursos Naturales; Procuraduría Federal de Protección al Ambiente; Comisión Nacional del Agua; Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias; Comisión Nacional de Zonas Áridas; Secretaría de Desarrollo Urbano Municipal; Secretaría de Desarrollo Social Municipal; Secretaría de Servicios Públicos y Ecología del Municipio; Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes; Instituto de Educación de Aguascalientes; Secretaría de Desarrollo Económico del Estado; Instituto de Salud del Estado de Aguascalientes; Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes; Secretaría de Desarrollo Urbano Municipal; Secretaría de Desarrollo Humano Municipal; y Secretaría de Servicios Públicos y Ecología del Municipio, Procuraduría Estatal de Protección al Ambiente, Instituto del Medio Ambiente del Estado, Protección Civil Estatal y Municipal, Instituto Nacional de Educación Para los Adultos y Jóvenes, Comisión Nacional de Fomento Educativo, Comisión Nacional Forestal; Secretaría de Planeación y Desarrollo Regional y el Instituto Municipal de Planeación.
 
 VI. Un representante de cada una de las asociaciones civiles con fines ambientales que existan en el Municipio.
 
@@ -17924,3 +17960,47 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 La Dirección de Estado Mayor de la Secretaría de Seguridad Pública y Tránsito Municipal deberá expedir la convocatoria para integrar la Comisión de Honor y Justicia, a partir del inicio de la vigencia del presente Decreto y hasta el día quince de febrero del presente año, cumpliendo con el proceso señalado en el artículo 615 del Código Municipal de Aguascalientes.
+
+P.O. 3 DE MARZO DE 2008.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 14, 98 Y 105 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTICULO PRIMERO.
+
+Para los efectos de evaluación y seguimiento de la Oficina Ejecutiva del Presidente Municipal, el H. Ayuntamiento determinará, cuando sea necesario, la creación de comisiones unidas para dictaminar asuntos inherentes de esa Oficina Ejecutiva.
+
+###### ARTICULO SEGUNDO.
+
+Cualquier disposición legal vigente que haga referencia a la Coordinación General de Asesores, se entenderá en lo subsecuente referida a la Oficina Ejecutiva del Presidente Municipal, conforme al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Lo subsecuente, referida a la Secretaría de Desarrollo Social, conforme al presente decreto.
+
+Lo anterior para el conocimiento de la ciudadanía.
+
+P.O. 3 DE MARZO DE 2008.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 162 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Lo anterior para el conocimiento de la ciudadanía.
+
+P.O. 3 DE MARZO DE 2008.
+
+DECRETO POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 98, 99, 111 Y 537 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier disposición legal vigente que haga referencia a la Secretaría de Desarrollo Humano, se entenderá, en lo subsecuente, referida a la Secretaría de Desarrollo Social conforme al presente decreto.
+
+Lo anterior para el conocimiento de la ciudadanía.
