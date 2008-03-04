@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-a-la-salud-de-las-personas-no-fumadoras-36852
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-29"
-last_updated: "2008-01-11"
+last_updated: "2008-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36852&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-13"
 
 LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE MARZO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -68,11 +68,19 @@ III. Definir y establecer las políticas y acciones necesarias para reducir el c
 
 La protección de la salud de los efectos nocivos del humo de tabaco comprende lo siguiente:
 
-I. El derecho de las personas no fumadoras a no estar expuestas al humo del tabaco en los sitios cerrados que comparten con fumadores;
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+I. El derecho de las personas no fumadoras a no estar expuestas al humo del tabaco en los espacios cerrados de acceso público;
 
 II. La orientación a la población para que evite empezar a fumar, y se abstenga de fumar en los lugares públicos donde se encuentre prohibido;
 
-III. La prohibición de fumar en los edificios públicos, privados y sociales que se señalan en esta ley;
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+III. La prohibición de fumar en los espacios cerrados públicos, privados y sociales que se señalan en esta ley;
 
 IV. El apoyo a los fumadores, cuando lo soliciten, para abandonar el tabaquismo con los tratamientos correspondientes; y
 
@@ -112,9 +120,11 @@ I. Los propietarios, poseedores o responsables y empleados de los locales, estab
 
 II. Las autoridades educativas y las asociaciones de padres de familia de las escuelas e instituciones escolares públicas o privadas;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-III. Los usuarios de los establecimientos cerrados, oficinas, industrias y empresas, que en todo momento podrán exigir el cumplimiento de las disposiciones de la presente Ley;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+III. Los usuarios de los espacios cerrados de acceso al público como oficinas, establecimientos mercantiles, industrias y empresas, que en todo momento podrán exigir el cumplimiento de las disposiciones de la presente Ley;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -124,9 +134,13 @@ IV. Los órganos de control; interno de las diferentes oficinas de los Órganos 
 
 V. Los titulares de las dependencias y entidades del Gobierno del Distrito Federal y Órganos Autónomos, auxiliados por el área administrativa correspondiente.
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+
 ###### Artículo 4.
 
-En el procedimiento de verificación, impugnaciones y sanciones a las que se refiere la presente Ley será aplicable la Ley de Procedimiento Administrativo del Distrito Federal.
+En el procedimiento de verificación, impugnaciones y sanciones a las que se refiere la presente Ley será aplicable la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal.
 
 ###### Artículo 5.
 
@@ -146,13 +160,17 @@ VI. No fumadores: a quienes no tienen el hábito de fumar; y (sic)
 
 VII. Policía del Distrito Federal: elemento de la policía adscrita al Gobierno del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-VIII. Lugar público: es todo lugar cerrado al que tiene acceso el público en general, ya sea libremente o mediante invitación o previo pago;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+VIII. Espacio cerrado de acceso al público: Es todo aquel en el que hacia su interior no circula de manera libre el aire natural. Las ventanas, puertas, ventilas y demás orificios o perforaciones en delimitaciones físicas no se considerarán espacios para la circulación libre de aire natural;
 
-IX. Publicidad del tabaco: es toda forma (sic) comunicación, recomendación o acción comercial con el fin o el efecto de promover directa o indirectamente un producto de tabaco o el uso o consumo del mismo;
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+IX. Publicidad del tabaco: Es toda forma de comunicación, recomendación o acción comercial con el fin o el efecto de promover directa o indirectamente un producto de tabaco o el uso o consumo del mismo;
 
 > <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -172,27 +190,39 @@ XII. Patrocinio del tabaco: es toda forma de aportación o contribución directa
 
 ### Capítulo Primero. De la Distribución de Competencias y de las Atribuciones
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE MARZO DE 2008)</small>
+
 ###### Artículo 6.
 
-El Gobierno del Distrito Federal, ejercerá las funciones de vigilancia, inspección y aplicación de sanciones que correspondan en el ámbito de su competencia, para lo cual tendrá las siguientes facultades:
+El Gobierno del Distrito Federal, a través de las instancias administrativas correspondientes, en sus respectivos ámbitos de competencia, ejercerán las funciones de vigilancia, inspección y aplicación de sanciones que correspondan en el ámbito de su competencia, para lo cual tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-I. Conocer de las denuncias presentadas por los ciudadanos o usuarios, cuando, en los edificios, establecimientos mercantiles, médicos, industriales, de enseñanza, edificios e instalaciones de los Órganos de Gobierno del Distrito Federal y Órganos Autónomos del Distrito Federal, no se establezcan áreas para fumadores aisladas de las áreas de uso común, o habiéndolas no se respete la prohibición de fumar, fuera de las áreas destinadas para ello.
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
-Para el caso de las instalaciones del Gobierno del Distrito Federal, se dictaran las medidas preventivas necesarias a efecto de proteger la salud de los no fumadores, mismas que se prolongarán hasta que sea corregida la falta;
+I. Conocer de las denuncias presentadas por los ciudadanos o usuarios, cuando no se respete la prohibición de fumar, en los términos establecidos en la presente Ley;
 
-II. Ordenar de oficio o por denuncia ciudadana, la realización de visitas de verificación en los establecimientos, empresas y oficinas de los Órganos de Gobierno del Distrito Federal, para cerciorarse del cumplimiento de las disposiciones de esta Ley;
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
-III. Sancionar según su ámbito de competencia a los propietarios o titulares de los establecimientos mercantiles o empresas que no cumplan con las disposiciones de esta Ley;
+II. Ordenar de oficio o por denuncia ciudadana, la realización de visitas de verificación en los establecimientos mercantiles, oficinas, industrias y empresas, así como en las instalaciones de los Órganos de Gobierno del Distrito Federal y de los Órganos Autónomos del Distrito Federal, para cerciorarse del cumplimiento de las disposiciones de esta Ley;
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+III. Sancionar según su ámbito de competencia a los propietarios o titulares de los establecimientos mercantiles, oficinas, industrias y empresas que no cumplan con las disposiciones de esta Ley;
 
 IV. Sancionar a los particulares que, al momento de la visita, hayan sido encontrados consumiendo tabaco en los lugares en que se encuentre prohibido, siempre y cuando se les invite a modificar su conducta y se nieguen a hacerlo;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-V. Informar a los órganos de control interno de las oficinas o instalaciones que pertenezcan a los Órganos de Gobierno del Distrito Federal, la violación a la Ley Federal, en razón de su jurisdicción, de los servidores públicos, a efecto de que se inicien los procedimientos administrativos correspondientes; y
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+V. Informar a los órganos de control interno de las oficinas o instalaciones que pertenezcan a los Órganos de Gobierno del Distrito Federal o a los Órganos Autónomos del Distrito Federal, la violación a la Ley Federal, en razón de su jurisdicción, de los servidores públicos, a efecto de que se inicien los procedimientos administrativos correspondientes; y
 
 VI. Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicables.
 
@@ -214,9 +244,11 @@ III. Promover con las autoridades educativas la inclusión de contenidos a cerca
 
 IV. La orientación a la población sobre los riesgos a la salud por el consumo de tabaco y de los beneficios por dejar de fumar;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-V. Diseñar el manual de letreros y/o señalamientos preventivos, informativos o restrictivos, que serán colocados al interior de los establecimientos y empresas, así como en las oficinas de los Órganos de Gobierno del Distrito Federal, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes, mismos que deberán contener iconografía relativa a los riesgos y consecuencias del tabaquismo;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+V. Diseñar el manual de letreros y/o señalamientos preventivos, informativos o restrictivos, que serán colocados al interior de los establecimientos mercantiles, oficinas, industrias y empresas, así como en las oficinas de los Órganos de Gobierno del Distrito Federal y de los Órganos Autónomos del Distrito Federal, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes, mismos que deberán contener iconografía relativa a los riesgos y consecuencias del tabaquismo;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -262,13 +294,19 @@ I. Poner a disposición del Juez Cívico competente en razón del territorio, a 
 
 II. Poner a disposición del Juez Cívico competente en razón de territorio, a las personas físicas que hayan sido denunciadas, ante algún policía del Distrito Federal, por incumplimiento a esta Ley.
 
-Para el caso de establecimientos mercantiles, Seguridad Pública procederá a petición del titular o encargado de dichos establecimientos; y
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+
+Para el caso de establecimientos mercantiles, oficina, industria o empresa, Seguridad Pública procederá a petición del titular o encargado de dichos lugares; y
 
 III. Las demás que le otorguen esta y demás disposiciones jurídicas.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-Las atribuciones a que se refiere este artículo serán ejercidas por Seguridad Pública, a través de la policía del Distrito Federal, quienes al momento de ser informados por el titular o encargado del establecimiento de la comisión de una infracción, invitarán al infractor a modificar su conducta, a trasladarse a las áreas reservadas para fumadores si existen o abandonar la industria o empresa, o las dependencias o entidades del Gobierno del Distrito Federal y Órganos Autónomos, y en caso de no acatar la indicación, pondrán a disposición del Juez Cívico que se trate, al infractor.
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+
+Las atribuciones a que se refiere este artículo serán ejercidas por Seguridad Pública, a través de la policía del Distrito Federal, quienes al momento de ser informados de la comisión de una infracción, por el titular, encargado o responsable del establecimiento mercantil, oficina, industria, empresa o de la instalación del Gobierno del Distrito Federal o de sus Órganos Autónomos que corresponda, invitarán al infractor a modificar su conducta, a trasladarse a las áreas donde se puede fumar, en el caso de que existan, o a abandonar el lugar y en caso de no acatar la indicación, pondrán a disposición del Juez Cívico que se trate, al infractor.
 
 ###### Artículo 9.
 
@@ -290,23 +328,45 @@ Para el procedimiento de sanción, que sea competencia del Juez Cívico, se segu
 
 Las acciones para la ejecución del programa contra el tabaquismo se ajustarán a lo dispuesto en este capítulo, sin perjuicio de lo que establezcan las demás disposiciones aplicables.
 
-> <small>(ADICIONADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADO, G.O. 4 DE MARZO DE 2008)</small>
+
+El programa contra el tabaquismo incluirá acciones tendientes a prevenir, tratar, investigar e informar sobre los daños que producen a la salud el consumo de tabaco y el humo del tabaco.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 9 Ter.
 
-La prevención del tabaquismo tiene carácter prioritario, haciendo énfasis en la infancia y la adolescencia, y comprenderá las siguientes acciones:
+La prevención del tabaquismo tiene carácter prioritario, haciendo énfasis en la infancia y la adolescencia, con enfoque de género, y comprenderá las siguientes acciones:
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 I. La promoción de la salud, que considerará el desarrollo de actitudes que favorezcan estilos de vida saludables en la familia, la escuela, el trabajo y la comunidad;
 
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+
 II. La orientación a la población sobre los riesgos a la salud por el consumo de tabaco y la exposición a su humo;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 III. La orientación a la población para que se abstenga de fumar;
 
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+
 IV. La detección temprana del fumador y su atención oportuna;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 V. La promoción de espacios libres de humo de tabaco;
 
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+
 VI. El fortalecimiento de la vigilancia sobre el cumplimiento de la regulación sanitaria relativa a las restricciones para la venta de productos derivados del tabaco; y
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 VII. El establecimiento de políticas tendientes a disminuir el acceso a los productos derivados del tabaco.
 
@@ -374,11 +434,17 @@ La información a que se refiere el presente artículo deberá integrarse en el 
 
 En el Distrito Federal queda prohibida la práctica de fumar en los siguientes lugares:
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-I. Fuera de las zonas expresamente autorizadas y adaptadas para fumar en establecimientos, locales cerrados, empresas e industrias;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
-II. En elevadores de cualquier edificación;
+I. En todos los espacios cerrados de acceso al público, oficinas, establecimientos mercantiles, industrias y empresas;
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+II. En elevadores y escaleras interiores de cualquier edificación;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -386,7 +452,11 @@ III. En los establecimientos particulares y públicos en los que se proporcione 
 
 IV. En las oficinas de cualquier dependencia o entidad de la Administración Pública del Distrito Federal y de los Órganos Autónomos del Distrito Federal, oficinas, juzgados o instalaciones del Órgano Judicial, y oficinas administrativas, auditorios, módulos de atención, comisiones o salas de juntas del Órgano Legislativo del Distrito Federal;
 
-V. En hospitales, clínicas, centros de salud, centros de atención médica públicos, sociales o privados, salas de espera, auditorios, bibliotecas y cualquier otro lugar cerrado de las instituciones médicas y de enseñanza;
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+V. En hospitales, clínicas, centros de salud, consultorios, centros de atención médica públicos, sociales o privados, salas de espera, auditorios, bibliotecas, escuelas y cualquier otro lugar cerrado de las instituciones médicas y de enseñanza;
 
 VI. En unidades destinadas al cuidado y atención de niños y adolescentes, personas de la tercera edad y personas con capacidades diferentes;
 
@@ -398,9 +468,23 @@ VIII. Instalaciones deportivas;
 
 IX. En centros de educación inicial, básica, media superior y superior, incluyendo auditorios, bibliotecas, laboratorios, instalaciones deportivas, patios salones de clase, pasillos y sanitarios;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-X. En los cines, teatros y auditorios cerrados a los que tenga acceso el público en general, con excepción de las secciones de fumadores que sean adaptadas para tal fin en los vestíbulos;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+X. En los cines, teatros, auditorios y todos los espacios cerrados en donde se presenten espectáculos de acceso público;
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADA, G.O. 4 DE MARZO DE 2008)</small>
+
+X Bis. En los establecimientos mercantiles dedicados al hospedaje, de conformidad a lo dispuesto en el artículo 15 de esta Ley;
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADA, G.O. 4 DE MARZO DE 2008)</small>
+
+X Ter. En los establecimientos mercantiles y espacios cerrados donde se expendan al público alimentos y bebidas para su consumo en el lugar;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -408,83 +492,99 @@ XI. En los vehículos de transporte público de pasajeros, urbano, suburbano inc
 
 XII. En los vehículos de transporte escolar o transporte de personal; y (sic)
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-XIII. En espacios cerrados de trabajo que compartan dos o más trabajadores, en sitios de concurrencia colectiva; y
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+XIII. En espacios cerrados de trabajo y en sitios de concurrencia colectiva; y
 
 > <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 XIV. En cualquier otro lugar que en forma expresa determine la Secretaría de Salud.
 
-En todos los establecimientos mercantiles, que de conformidad con la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal, requieran de la Licencia tipo ''B'' y tengan autorizados espacios para bailar, queda prohibido fumar en dichos espacios, para lo cual los propietarios, poseedores o responsables deberán informar a los usuarios tal circunstancia, sin menoscabo de cumplir con lo dispuesto en el artículo 13 de la presente Ley.
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-Será responsabilidad de los propietarios o funcionarios de los establecimientos o instalaciones a que se refieren las fracciones III, IV y X, de este artículo, asignar áreas para fumadores, mismas que deberán cumplir con los requisitos definidos en la presente Ley.
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+Los propietarios, poseedores o responsables de los establecimientos mercantiles, oficinas, industrias y empresas en los cuales está prohibido fumar serán sancionados económicamente por permitir, tolerar o autorizar que se fume.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 4 DE MARZO DE 2008)</small>
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 ###### Artículo 11.
 
-Queda prohibido permitir a los menores de 18 años, aún acompañados de un adulto, el ingreso a las áreas designadas para fumadores en restaurantes, cafeterías, auditorios, salas de espera, oficinas, vestíbulos de cines, teatros o cualquier otro lugar de los señalados por esta Ley.
-
-Los propietarios, poseedores o responsables de los lugares a que se refiere el párrafo anterior, serán sancionados económicamente por tolerar o autorizar que los menores que no se encuentren acompañados de una persona mayor de edad permanezcan en áreas de fumar.
+(DEROGADO, G.O. 4 DE MARZO DE 2008)
 
 ###### Artículo 12.
 
 La publicidad de tabaco que incluye espectaculares, murales, paradas y estaciones de transportes y mobiliario urbano deberá sujetarse a lo dispuesto en la Ley General de Salud y en el Reglamento de la Ley General de Salud en materia de publicidad.
 
-> <small>(ADICIONADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 ###### Artículo 12 Bis.
 
-Queda prohibido para la industria tabacalera en cualesquiera de sus formas, la promoción o patrocinio de eventos deportivos, culturales y sociales o actividades relacionadas con los mismos.
+(DEROGADO, G.O. 4 DE MARZO DE 2008)
 
 ### Capítulo Segundo. De las Obligaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 13.
 
-En los locales cerrados y establecimientos en los que se expendan al público alimentos o bebidas para su consumo en el lugar, queda prohibido fumar, excepto en las secciones delimitadas por los propietarios o responsables del negocio que se trate de conformidad con lo establecido en el Reglamento de la presente Ley.
+Es obligación de los propietarios, encargados o responsables de los establecimientos mercantiles en los que se expendan al público alimentos o bebidas para su consumo en el lugar, respetar la prohibición de no fumar en los mismos.
 
-Dichas secciones deberán estar identificadas con señalización en lugares visibles al público asistente y cumplir con lo dispuesto en el artículo 14 de la presente Ley.
+Los usuarios de tales lugares están obligados a observar lo establecido en el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 14.
 
-Las secciones para fumadores y no fumadores en los lugares que esta ley permite su coexistencia deberán quedar separadas físicamente una de la otra, estar identificadas permanentemente con señalamientos y avisos en lugares visibles al público asistente, incluyendo las mesas, dichos señalamientos y avisos deberán apegarse a los criterios que para el efecto emita la Secretaria de Salud, así como contar con las condiciones mínimas siguientes:
+En los edificios, establecimientos mercantiles, médicos, industriales, de enseñanza e instalaciones de los Órganos de Gobierno del Distrito Federal y Órganos Autónomos del Distrito Federal, que cuenten con áreas de servicio al aire libre se podrá fumar sin restricción alguna, siempre y cuando el humo derivado del tabaco no invada los espacios cerrados de acceso al público.
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-I. Estar aislada físicamente de las áreas de no fumadores;
-
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
-
-II. Tener un sistema de extracción y purificación hacia el exterior; y
-
-III. Ubicarse, de acuerdo con la distribución de las personas que ahí concurran, por piso, área o edificio.
-
-> <small>(ADICIONADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
-
-Las secciones para fumadores a que se refiere el presente artículo no podrán utilizarse como un sitio de recreación.
-
-> <small>(ADICIONADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
-
-En el caso de que por cualquier circunstancia no sea posible cumplir con los preceptos a que se refiere el presente artículo, la prohibición de fumar será aplicable al total del inmueble, local o establecimiento.
-
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 15.
 
-En los establecimientos dedicados al hospedaje, se destinará para las personas fumadoras un porcentaje del total de las habitaciones, que será equivalente a las exigencias del mercado. En todo caso, dicho porcentaje no podrá ser mayor al 25 por ciento.
+En los establecimientos dedicados al hospedaje, se destinará para las personas fumadoras un porcentaje de habitaciones que no podrá ser mayor al 25 por ciento del total de las mismas.
+
+Las habitaciones para fumadores y no fumadores, deberán estar identificadas permanentemente con señalamientos y avisos en lugares visibles al público asistente, dichos señalamientos y avisos deberán apegarse a los criterios que para el efecto emita la Secretaria de Salud, así como contar con las condiciones mínimas siguientes:
+
+I. Estar aislada físicamente de las áreas de no fumadores;
+
+II. Tener un sistema de extracción y purificación hacia el exterior;
+
+III. Ubicarse, de acuerdo con la distribución de las personas que ahí concurran, por piso, área o edificio;
+
+IV. Realizar una difusión permanente sobre los riesgos y enfermedades que son causadas por el consumo de tabaco, de conformidad con lo que al efecto determine la Secretaría de Salud, y
+
+V. Sin acceso a ellas con menores de edad.
+
+Las secciones para fumadores a que se refiere el presente artículo no podrán utilizarse como un sitio de recreación.
+
+En el caso de que por cualquier circunstancia no sea posible cumplir con los preceptos a que se refiere el presente artículo, la prohibición de fumar será aplicable al total del inmueble, local o establecimiento.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 16.
 
-Los propietarios, poseedores o responsables de los locales cerrados y establecimientos de que se trate, serán responsables en forma subsidiaria con el infractor, si existiera alguna persona fumando fuera de las áreas destinadas para ello.
+Los propietarios, poseedores o responsables de los establecimientos mercantiles, oficinas, industrias o empresas de que se trate, serán responsables en forma subsidiaria con el infractor, si existiera alguna persona fumando fuera de las áreas destinadas para ello.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-El propietario o titular del establecimiento, o su personal, deberá exhortar, a quien se encuentre fumando fuera de las áreas autorizadas para tal fin si existen, a que se abstenga de hacerlo, o trasladarse a las áreas autorizadas para tal fin; en caso de negativa, se le invitará a abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitaran el auxilio de algún policía, a efecto de que pongan al infractor a disposición del Juez Cívico competente.
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+
+El propietario o titular del establecimiento mercantil, oficina, industria o empresa, o su personal, deberá exhortar, a quien se encuentre fumando, a que se abstenga de hacerlo; en caso de negativa se le invitará a abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitarán el auxilio de algún policía, a efecto de que ponga al infractor a disposición del juez cívico competente.
 
 La responsabilidad de los propietarios, poseedores o administradores, a que se refiere el presente artículo terminará en el momento en que el propietario o titular del local o establecimiento dé aviso a la policía del Distrito Federal.
 
@@ -508,29 +608,21 @@ Los conductores de los vehículos que no acaten las disposiciones del presente o
 
 Los alumnos, maestros, integrantes de las asociaciones de padres de familia de las escuelas e instituciones educativas, sean públicas o privadas, podrán coadyuvar de manera individual o colectiva en la vigilancia, para que se cumpla con la prohibición de fumar en las aulas, bibliotecas, auditorios y demás instalaciones a las que deban acudir los alumnos, y el personal docente de las respectivas instituciones educativas, pudiendo dar aviso a algún policía, para que estos sean quienes pongan a disposición del Juez Cívico, a la persona o personas que incumplan con este ordenamiento.
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+
 ###### Artículo 20.
 
-En los locales cerrados y establecimientos en los que se expenden alimentos y bebidas para su consumo en el lugar, los propietarios, poseedores o responsables de la negociación deberán:
-
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
-
-I. Informar a la población adulta, sobre la prohibición de ingresar con menores de edad a las áreas destinadas para fumadores;
-
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
-
-II. Colocar en los accesos de las áreas para fumadores, letreros y señalamientos para prevenir el consumo de tabaco, de conformidad a las disposiciones de la presente Ley, y alguna de las leyendas que aparezcan en el artículo 276 de la Ley General de Salud; y
-
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
-
-III. Colocar permanentemente en las mesas de las áreas para fumadores publicidad de mano o cualquier otro elemento de vinil o plastificado, que contenga información que advierta de los daños a la salud que causa el consumo de tabaco o de los beneficios de dejarlo.
+En los locales cerrados y establecimientos en los que se expenden alimentos y bebidas para su consumo en el lugar, los propietarios, poseedores o responsables de la negociación deberán colocar dentro de los mismos en lugares visibles letreros y señalamientos relativos a la prohibición de fumar.
 
 ### Capítulo Tercero. De los Órganos de Gobierno del Distrito Federal
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
 ###### Artículo 21.
 
-En las oficinas o instalaciones de los distintos Órganos de Gobierno del Distrito Federal y Órganos Autónomos del Distrito Federal, podrán acondicionarse áreas, salas o espacios abiertos para fumadores, mismos que deberán cumplir con los requerimientos especificados en el artículo 14 de la presente Ley.
-
-En caso de que los inmuebles por su estructura o distribución no respondan a tales circunstancias, la prohibición de fumar será aplicable en toda la superficie del mismo.
+(DEROGADO, G.O. 4 DE MARZO DE 2008)
 
 ###### Artículo 22.
 
@@ -562,13 +654,21 @@ Los funcionarios y servidores públicos que violen lo dispuesto en la presente L
 
 ### Capítulo Primero. De los Tipos de Sanciones
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+
 ###### Artículo 27.
 
-La contravención a las disposiciones de la presente Ley, será considerada falta administrativa, y dará lugar a la imposición de una sanción económica, y en caso de existir reincidencia un arresto por 36 horas.
+La contravención a las disposiciones de la presente Ley, será considerada falta administrativa, y dará lugar a la imposición de una multa, y en caso de existir reincidencia un arresto por 36 horas.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 28.
 
-Para la fijación de la sanción económica, que deberá hacerse entre el mínimo y máximo establecido, se tomará en cuenta la gravedad de la infracción concreta, las condiciones económicas de la persona física o moral a la que se sanciona, la reincidencia y demás circunstancias que sirvan para individualizar la sanción.
+Para la fijación de la multa, que deberá hacerse entre el mínimo y máximo establecido, se tomará en cuenta la gravedad de la infracción concreta, las condiciones económicas de la persona física o moral a la que se sanciona, la reincidencia y demás circunstancias que sirvan para individualizar la sanción.
 
 > <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -590,7 +690,11 @@ IV. Las demás circunstancias que sirvan para individualizar la sanción. (sic)
 
 Las sanciones administrativas podrán consistir en:
 
-I. Multa, que podrá ser del equivalente de diez y hasta cien días de salario mínimo diario general vigente en el Distrito Federal; y (sic)
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+I. Multa;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -608,23 +712,31 @@ En el caso de reincidencia, se aplicará el doble del monto de la sanción impue
 
 ### Capítulo Segundo. Del Monto de las Sanciones
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+
 ###### Artículo 30.
 
-Se sancionará con multa equivalente a diez días de salario mínimo diario general vigente, a las personas que fumen en los lugares que prohibe el presente ordenamiento; la multa será impuesta por el Juez Cívico correspondiente, y será puesto a disposición de éste, por cualquier policía del Distrito Federal.
+Se sancionará con multa equivalente de diez a treinta días de salario mínimo diario general vigente, a las personas que fumen en los lugares que prohíbe el presente ordenamiento; la multa será impuesta por el Juez Cívico correspondiente, y será puesto a disposición de éste, por cualquier policía del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 31.
 
-Se sancionará con multa equivalente de cien y hasta quinientas veces de salario mínimo diario general vigente, cuando se trate de propietarios, poseedores o responsables de los locales cerrados y establecimientos, que no cumplan con las disposiciones de la presente Ley.
+A los propietarios, poseedores o responsables de los establecimientos mercantiles que no cumplan con las disposiciones de la presente Ley, serán sancionados conforme a las disposiciones de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 32.
 
-Se sancionará con treinta días de salario mínimo diario general vigente al titular de la concesión o permiso cuando se trate de vehículos de transporte público de pasajeros; en el caso de que no fijen las señalizaciones a que se refiere esta Ley, o toleren o permitan la realización de conductas prohibidas por esta Ley.
+Se sancionará con multa equivalente de treinta a cien días de salario mínimo diario general vigente al titular de la concesión o permiso cuando se trate de vehículos de transporte público de pasajeros; en el caso de que no fijen las señalizaciones a que se refiere esta Ley, o toleren o permitan la realización de conductas prohibidas por esta Ley.
 
-En caso de reincidencia por los titulares señalados en el presente artículo, así como en el artículo anterior, se aplicará el doble de la sanción económica impuesta; en caso de segunda reincidencia, procederá la clausura del establecimiento, así como la cancelación de la concesión o permiso.
+En los casos de reincidencia en el periodo de un año, se aplicará hasta el doble de la sanción originalmente impuesta; en caso de segunda reincidencia, procederá la revocación de la concesión o permiso.
 
 ## ARTÍCULOS TRANSITORIOS.
 
@@ -684,8 +796,20 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 TERCERO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
 
-CUARTO. Los Titulares de los Establecimientos Mercantiles de coexistencia con fumadores, contarán con un plazo de seis meses a partir de que entre en vigor el presente decreto para hacer las modificaciones correspondientes. Una vez recibida la solicitud de acondicionamiento para llevar a cabo la separación física entre fumadores y no fumadores por parte del Titular del Establecimiento, las autoridades delegacionales deberán responder a la misma en un plazo máximo que no exceda de 48 horas. En caso de que el Titular del Establecimiento no sea notificado de la respuesta a su solicitud, se entenderá que la misma es procedente, sin mayor trámite.
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+CUARTO. (DEROGADO, G.O. 4 DE MARZO DE 2008)
 
 QUINTO. La Asamblea Legislativa del Distrito Federal deberá implementar una campaña permanente para dar a conocer a los Titulares de los Establecimientos Mercantiles y a la ciudadanía en general, los derechos y obligaciones que se derivan por la entrada en vigor del presente decreto. Para tal fin, se deberá prever en el Presupuesto de Egresos una partida suficiente para poder llevar a cabo acciones de promoción y publicidad en medios electrónicos e impresos.
 
 SEXTO.- El Gobierno del Distrito Federal y los Órganos Político-Administrativos efectuarán una campaña de difusión del presente decreto.
+
+G.O. 4 DE MARZO DE 2008.
+
+PRIMERO.- Publíquese en el Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes a los de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se deroga el Artículo Cuarto Transitorio del Decreto por el que se reforma y adiciona la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal y se reforma la Ley de Protección a la Salud de los No Fumadores del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 11 de enero del 2008.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal y el Gobierno del Distrito Federal implementarán una campaña permanente para dar a conocer los derechos y obligaciones que se derivan por la entrada en vigor del presente Decreto. En dicha campaña no podrán emplearse colores partidistas y se pondrá énfasis para que los adultos no fumen dentro de un vehículo cuando vaya un menor adentro.
