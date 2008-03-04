@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-seguro-social-obligatorio-para-los-347"
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-11-22"
-last_updated: "1998-01-29"
+last_updated: "2008-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=347&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1985-11-14"
 
 REGLAMENTO DEL SEGURO SOCIAL OBLIGATORIO PARA LOS TRABAJADORES DE LA CONSTRUCCION POR OBRA O TIEMPO DETERMINADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS, PUBLICADO EN EL D.O.F. DE 4 DE MARZO DE 2008, DICHO DECRETO ENTRARA EN VIGOR 120 DIAS HABILES POSTERIORES A SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MARZO DE 2008.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 22 de noviembre de 1985.
 
@@ -47,11 +49,15 @@ REGLAMENTO DEL SEGURO SOCIAL OBLIGATORIO PARA LOS TRABAJADORES DE LA CONSTRUCCIO
 
 Las disposiciones de este reglamento norman las obligaciones y derechos que, conforme a la Ley del Seguro Social, tienen las personas físicas o morales que se dediquen en forma permanente o esporádica a la actividad de la construcción y que contraten trabajadores por obra o tiempo determinado, así como de los trabajadores contratados en la forma antes mencionada que presten sus servicios en tal actividad.
 
-Para los efectos del presente reglamento, se tendrá por patrón, a las personas físicas o morales que encuadren dentro de los supuestos previstos en el artículo 5o. del propio reglamento. A la Ley del Seguro Social se le denominará la "LEY" y al Instituto Mexicano del Seguro Social el “INSTITUTO".
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
 
-> <small>(F. DE E., D.O.F. 20 DE FEBRERO DE 1986)</small>
+Para los efectos del presente reglamento, serán aplicables las definiciones establecidas en el artículo 5 A de la Ley del Seguro Social, así como las siguientes:
 
-Asimismo, se entenderá por "Obra de Construcción", cualquier trabajo que tenga por objeto crear, construir, instalar, conservar, reparar, demoler o modificar inmuebles, así como la instalación o incorporación en ellos de bienes muebles necesarios para su realización o que se le integren y todos aquellos de naturaleza análoga a los supuestos anteriores.
+I. Patrón dedicado a la actividad de la construcción: las personas físicas o morales que encuadren dentro de los supuestos previstos en las fracciones II y III del artículo 5 de este reglamento, y
+
+II. Obra de construcción: cualquier trabajo que tenga por objeto crear, construir, instalar, conservar, reparar, ampliar, demoler o modificar inmuebles, así como la instalación o incorporación en ellos de bienes muebles necesarios para su realización o que se le integren y todos aquellos de naturaleza análoga a los supuestos anteriores.
+
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 4 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 2o.
 
@@ -61,45 +67,49 @@ El aseguramiento de los trabajadores contratados por obra o tiempo determinado p
 
 Los trabajadores contratados por tiempo indeterminado se considerarán como permanentes, aún cuando realicen su trabajo en distintas obras de construcción con el mismo patrón y su aseguramiento se regulará por las disposiciones relativas de la Ley y sus reglamentos aplicables.
 
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 4o.
 
-Las disposiciones de este reglamento no son aplicables en los casos de construcción, ampliación, o reparación de casas habitación, por aquellos trabajos que su propietario realice en forma personal, o bien, cuando se lleven a cabo por cooperación comunitaria sin retribución alguna, debiéndose comprobar estos hechos a satisfacción del Instituto conforme a las reglas generales de prueba.
+Las disposiciones de este reglamento, para efectos de lo dispuesto en el penúltimo párrafo del artículo 15 de la Ley, no son aplicables en los casos de construcción, ampliación o reparación de inmuebles, por aquellos trabajos realizados por su propietario en forma personal o con ayuda de familiares, o bien, cuando se lleven a cabo por cooperación comunitaria, sin retribución alguna, debiéndose comprobar estos hechos a satisfacción del Instituto, conforme a cualquier medio de prueba reconocido por la Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 5o.
 
-Son patrones obligados a cumplir con las disposiciones de la Ley y de este reglamento:
+Son patrones obligados a cumplir con las disposiciones de la Ley y sus reglamentos:
 
-I.- Los propietarios de las obras de construcción, que directamente o a través de intermediarios contraten a los trabajadores que intervengan en dichas obras, salvo lo dispuesto en el artículo 4o. Se presume que la contratación se realizó por los propietarios de las obras, a no ser que acrediten tener celebrado contrato para la ejecución de éstas ya sea a precio alzado o bajo el sistema de precios unitarios, con empresas establecidas que cuenten para ello con elementos propios y en cuyo contrato se consigne el nombre, denominación o razón social del contratista, así como su domicilio y registro ante el Instituto.
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2008)</small>
+
+I.- Los propietarios de las obras de construcción, que directamente o a través de intermediarios contraten a los trabajadores que intervengan en dichas obras, salvo lo dispuesto en el artículo 4 de este reglamento. Se presume que la contratación se realizó por los propietarios de las obras, a no ser que acrediten tener celebrado contrato para la ejecución de éstas, ya sea a precio alzado o bajo el sistema de precios unitarios, con personas físicas o morales establecidas que cuenten para ello con elementos propios y en cuyo contrato se consigne el nombre, denominación o razón social del contratista, el domicilio fiscal y el registro patronal otorgado por el Instituto.
 
 II.- Las personas que en los términos mencionados en la fracción anterior, sean contratadas para llevar a cabo obras de construcción a precio alzado o bajo el sistema de precios unitarios, con trabajadores a su servicio.
 
-> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2008)</small>
 
-III.- Las personas establecidas que cuenten con elementos propios y que celebren contratos con las señaladas en la fracción inmediata anterior, para la ejecución de parte o partes de la obra contratada por éstas.
+III.- Las personas físicas o morales establecidas que cuenten con elementos propios y que celebren contratos con las personas señaladas en la fracción inmediata anterior, para la ejecución de parte o partes de la obra contratada por éstas. En este caso, las personas comprendidas en la fracción II, tendrán la obligación de avisar de la subcontratación de parte o partes de la obra al Instituto, dentro de los cinco días hábiles siguientes a aquel en que se haya celebrado el contrato, en el formato autorizado para tal efecto, mismo que deberá ser publicado en el Diario Oficial de la Federación, por el Instituto.
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE MARZO DE 2008)</small>
 
-En todo caso, los patrones tendrán la obligación de presentar al Instituto dentro de los cinco días hábiles siguientes a la fecha de inicio de los trabajos, un aviso comunicando el tipo y domicilio de la obra y, en su caso, la fase de ésta que se vaya a ejecutar.
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
-
-Subsistirá la obligación del propietario de la obra de construcción o del contratista en su caso, respecto del pago de las cuotas obrero patronales que se originen, en caso de que no acrediten la celebración del contrato de intermediación a que se refiere la fracción I de este artículo o que los datos proporcionados resulten falsos.
+El propietario de la obra de construcción o el contratista, son obligados solidarios en el pago de las cuotas obrero patronales que se causen a cargo del contratista o del subcontratista a que se refieren las fracciones II y III de este artículo, respectivamente, en el supuesto de que no acrediten la celebración del contrato de intermediación a que se refiere la fracción I de este artículo, o bien, proporcionen datos que resulten falsos.
 
 Salvo lo previsto en el artículo 4o. de este reglamento, cuando varias personas se unan para la ejecución de una obra de construcción, sin que se constituyan en una persona moral diferente, deberán designar un representante común por medio del cual cumplirán con las obligaciones que establecen la Ley y sus reglamentos, sin perjuicio de que todos y cada uno de ellos quedarán obligados solidariamente al pago de las cuotas obrero-patronales que se originen.
 
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 6o.
 
-Los patrones que se dediquen permanente o esporádicamente a la actividad de la construcción y que contraten trabajadores para obra o tiempo determinado, deberán registrarse en el Instituto con tal carácter y se autoclasificarán, para los efectos del seguro de riesgos de trabajo, en los términos del reglamento correspondiente.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ENERO DE 1998)</small>
+Los patrones que se dediquen permanente o esporádicamente a la actividad de la construcción y que contraten trabajadores para obra o tiempo determinado, deberán registrarse en el Instituto con tal carácter y se autoclasificarán, para los efectos del seguro de riesgos de trabajo, en los términos del Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
 
 ###### ARTICULO 7o.
 
-Los patrones podrán cumplir con las obligaciones que les establecen la Ley y sus reglamentos, en lo que se refiere a la entrega al Instituto de información relativa a movimientos afiliatorios de los trabajadores de la construcción, a través de la utilización de formularios en términos del artículo 3o. del Reglamento de Afiliación o bien por medios magnéticos o de telecomunicación, previa autorización que al efecto les proporcione el Instituto sobre la forma, términos y características técnicas que deban cubrir.
+(DEROGADO, D.O.F. 4 DE MARZO DE 2008)
 
-En el supuesto de que se trata, el Instituto exceptuará a los patrones de la obligación de firmar individualmente los documentos producidos por los citados equipos.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE MARZO DE 2008)</small>
 
-### CAPITULO II. De la Afiliación
+### CAPITULO II. De la lnscripción de los Trabajadores
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
 
@@ -123,11 +133,13 @@ VII.- Firma o huella digital de los trabajadores.
 
 Estos registros deberán conservarse durante los cinco años siguientes al de su fecha.
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 9o.
 
-Los patrones deben presentar al Instituto los avisos de inscripción, baja y modificación de salario de los trabajadores que contraten por obra o tiempo determinado, dentro de los cinco días hábiles siguientes en términos de la Ley y sus reglamentos.
+Los patrones deben presentar al Instituto los avisos de inscripción, baja y modificación de salario de los trabajadores que contraten por obra o tiempo determinado, dentro de los cinco días hábiles siguientes en términos de la Ley y sus reglamentos, en los formatos impresos, autorizados y publicados en el Diario Oficial de la Federación por el Instituto, o a través de medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza, para lo cual deberán utilizar el número patronal de identificación electrónica como llave pública de sistemas criptográficos en sustitución de su firma autógrafa, en la forma y términos a que se refieren los artículos 5 y 46 del Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+
+Asimismo, los patrones están obligados a presentar al Instituto durante los primeros cinco días posteriores al inicio de la obra de que se trate, así como bimestralmente por cada una de las obras que estén ejecutando, una relación mensual de los trabajadores que intervinieron en las mismas, la cual deberá contener: denominación o razón social del patrón; registro patronal; registro de obra; nombre completo del trabajador; número de seguridad social y días trabajados por mes en el bimestre que se reporta.
 
 ###### ARTICULO 10.
 
@@ -135,21 +147,51 @@ Los patrones deben presentar al Instituto los avisos de inscripción, baja y mod
 
 ###### ARTICULO 11.
 
-Los trabajadores dedicados a la actividad de la construcción que carezcan de número de afiliación, podrán obtenerlo, previamente a su contratación, en los servicios de afiliación del Instituto.
+(DEROGADO, D.O.F. 4 DE MARZO DE 2008)
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE MARZO DE 2008)</small>
 
-Cada vez que el trabajador inicie una nueva relación laboral el patrón obligado deberá solicitar al trabajador su número de seguridad social.
+### CAPITULO III. Del Registro de la Obra y Avisos a presentar ante el Instituto
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE ENERO DE 1998)</small>
-
-### CAPITULO III. De la Notificación del Domicilio de la Obra
-
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 12.
 
-El patrón deberá comunicar al Instituto el tipo y domicilio de la obra y, en su caso, la fase de la construcción a realizar, dentro de los cinco días hábiles siguientes a la fecha de inicio de los trabajos, utilizando la forma que al efecto autorice el Instituto.
+El patrón deberá registrar ante el Instituto en la Subdelegación correspondiente a la ubicación de la obra, dentro de los cinco días hábiles siguientes a la fecha de inicio de los trabajos, el tipo de obra, su ubicación, trabajos a realizar y/o fase de la construcción. Para ello, se deberán utilizar los formatos que al efecto autorice el Instituto y se entregará en dispositivo magnético la siguiente documentación: presupuesto de obra, análisis de precios unitarios, la explosión de insumos y las estimaciones preliminares de los componentes de mano de obra; así como, de proceder, el contrato y los planos arquitectónicos de la obra; las autorizaciones, licencias o permisos de construcción, cualquiera que sea el nombre con que se les designe, expedidos por las autoridades federales, estatales o municipales competentes.
+
+En el caso de construcción de viviendas unifamiliares, ampliaciones y remodelaciones menores de cualquier tipo de obra, únicamente se deberá entregar: licencia o permiso de construcción; planos arquitectónicos y/o croquis de la obra, así como, de proceder, el presupuesto de la misma.
+
+Asimismo, el patrón deberá informar al Instituto las incidencias de obra de construcción correspondientes, la suspensión, reanudación y cancelación. Una vez terminada la obra, el patrón deberá presentar ante el Instituto el aviso de terminación de la misma, dentro de los cinco días hábiles siguientes a la fecha de la incidencia o conclusión, utilizando los formatos autorizados para tales efectos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2008)</small>
+
+ARTICULO 12 A.- El Instituto podrá verificar y, en su caso, resolver sobre el cumplimiento de las obligaciones del patrón previstas en la Ley y este reglamento, relativas a la obra terminada, de conformidad con las siguientes reglas:
+
+I. El Instituto contará con un plazo no mayor de noventa días hábiles, contados a partir del día hábil siguiente a la fecha de presentación del aviso de terminación a que se refiere el último párrafo del artículo anterior, para llevar a cabo la revisión del cumplimiento de las obligaciones respecto de la obra de que se trate.
+
+Si de la revisión a que se refiere este artículo se presume el incumplimiento de las obligaciones en materia de seguridad social, el Instituto podrá solicitar a las personas a que se refiere el artículo 5 de este Reglamento, en una o más ocasiones, los datos, informes o documentos que requiera hasta constatar el cumplimiento.
+
+II. Los datos, informes o documentos solicitados por el Instituto deberán ser presentados por las personas que hayan sido requeridas conforme a la fracción anterior, en un plazo no mayor de diez días hábiles contados a partir del día hábil siguiente a aquél en que surta sus efectos la notificación del oficio de requerimiento.
+
+III. No se computarán en la determinación del plazo a que se refiere la fracción I de este artículo los días que transcurran entre la fecha de la notificación del oficio de requerimiento y aquél en que sean presentados en su totalidad los datos, informes o documentos requeridos por el Instituto.
+
+IV. Una vez recibidos los datos, informes o documentos a que se refiere la fracción II de este artículo, el Instituto resolverá sobre el cumplimiento de las obligaciones del patrón relativas a la obra terminada. Para ello, el Instituto contará con un plazo máximo de noventa días a partir de la recepción de los mismos.
+
+V. Si de la revisión realizada por el Instituto, resultan diferencias con lo manifestado por las personas a que se refiere el artículo 5 de este reglamento, se le notificarán al patrón dichas diferencias, para su aclaración o, en su caso, para que efectúe el pago correspondiente dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación.
+
+VI. Una vez aclaradas y, en su caso, pagadas las diferencias, o convenidas éstas por autorización de prórroga para el pago a plazo, el Instituto emitirá un oficio de conclusión del trámite.
+
+Si transcurrido el plazo a que se refiere la fracción I de este artículo, el Instituto no ejerce la facultad de comprobación en los términos de este artículo, se presumirá que el patrón cumplió con las disposiciones de la Ley y sus reglamentos respecto de la obra de que se trate, salvo que exista denuncia de algún trabajador o beneficiario de éste, o que los datos, informes o documentos que se hayan proporcionado por las personas a que se refiere el artículo 5 de este reglamento resulten ser falsos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2008)</small>
+
+ARTICULO 12 B.- Para efectos del artículo anterior, entre otras facultades de comprobación, el Instituto podrá utilizar indistintamente cualquiera de los siguientes procedimientos:
+
+I. Tomar como base los datos e informes con que cuente el patrón;
+
+II. Apoyarse en los hechos que conozca con motivo del ejercicio de las facultades de comprobación de que goza como autoridad fiscal, y
+
+III. Basarse en la documentación e información que proporcionen responsables solidarios, terceros relacionados con el patrón a solicitud del propio Instituto, así como otras autoridades, en base al intercambio de información o a los convenios de colaboración celebrados por el Instituto, con la Federación, el Distrito Federal, los Estados y los Municipios o, con sus respectivas dependencias y entidades de sus administraciones públicas, cuando tengan relación con los patrones.
 
 ###### ARTICULO 13.
 
@@ -159,15 +201,13 @@ El patrón deberá comunicar al Instituto el tipo y domicilio de la obra y, en s
 
 Si el patrón realiza varias obras de construcción, deberá presentar por cada una de ellas la información requerida por este reglamento.
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
 
-El patrón que realice una obra que por su naturaleza se ejecute en varios municipios dentro del área de influencia de una delegación del Instituto, sólo presentará la notificación correspondiente al domicilio donde inicio la obra, sin que sea necesario hacerlo por cada uno de los municipios en donde se continúe la obra de construcción. Cuando la obra se ejecute en más de una delegación deberá presentarse un aviso por cada una de ellas.
-
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
+El patrón que realice una obra que por su naturaleza se ejecute en varios municipios dentro del área de influencia de una delegación del Instituto, sólo presentará el aviso de registro de obra correspondiente al domicilio donde inició ésta, sin que sea necesario hacerlo por cada uno de los municipios en donde se continúe la obra de construcción. Cuando la obra se ejecute en más de una delegación del Instituto, deberá presentarse un aviso de registro de obra por cada una de ellas.
 
 ###### ARTICULO 15.
 
-El Instituto previa verificación del cumplimiento oportuno de todas las obligaciones del patrón derivadas de la Ley y sus reglamentos, a solicitud de éste expedirá una constancia en que se consignen los datos correspondientes a la obra, el importe total de mano de obra manifestado y el monto de las cuotas obrero-patronales pagado, sin que en ningún caso dicha constancia pueda afectar derechos de terceros.
+(DEROGADO, D.O.F. 4 DE MARZO DE 2008)
 
 ### CAPITULO IV. Determinación y Pago de Cuotas
 
@@ -177,15 +217,17 @@ El Instituto previa verificación del cumplimiento oportuno de todas las obligac
 
 Los patrones están obligados a determinar y a enterar el importe de las cuotas obrero patronales de sus trabajadores, presentando al Instituto la cédula de determinación de cuotas en los términos de la Ley y el Reglamento para el Pago de Cuotas del Seguro Social.
 
-El patrón determinará las cuotas obrero patronales con base en la información contenida en los avisos de movimientos afiliatorios presentados ante el Instituto en los términos de la Ley y el Reglamento de Afiliación.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE MARZO DE 2008)</small>
 
-Los patrones deberán cubrir las cuotas obrero patronales de sus trabajadores aún en el caso de que no sea posible determinar el o los trabajadores a quienes se deban aplicar, por incumplimiento del patrón a las obligaciones previstas en la Ley y sus reglamentos, en cuyo caso su monto se destinará a servicios de beneficio colectivo para los trabajadores de la industria de la construcción, en los términos de la propia Ley sin perjuicio de que aquellos trabajadores que acreditaren sus derechos en los términos del artículo 41 del Reglamento de Afiliación se les otorguen las prestaciones diferidas que les correspondan, con cargo a este fondo.
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
+Los patrones deberán cubrir las cuotas obrero patronales de sus trabajadores aún en el caso de que no sea posible determinar el o los trabajadores a quienes se deban aplicar, por incumplimiento del patrón a las obligaciones previstas en la Ley y sus reglamentos, en cuyo caso su monto se destinará a la Reserva General Financiera y Actuarial, en los términos de la propia Ley sin perjuicio de que a aquellos trabajadores que acreditaren sus derechos en los términos del artículo 72 del Reglamento del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, se les otorguen las prestaciones diferidas que les correspondan, con cargo a esta Reserva.
+
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 17.
 
-El patrón deberá cubrir el importe de las cuotas obrero patronales, los capitales constitutivos, actualización y recargos, en los términos de la Ley y el Reglamento para el Pagos de Cuotas del Seguro Social.
+Las cédulas de liquidación emitidas por el Instituto por concepto de cuotas obrero patronales, capitales constitutivos, actualización, recargos, multas y los gastos realizados por el Instituto por inscripciones improcedentes y gastos efectuados por la atención a personas no derechohabientes, deben ser cubiertas por los patrones dentro de los quince días hábiles siguientes a aquél en que surta efectos su notificación.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ENERO DE 1998)</small>
 
@@ -223,11 +265,11 @@ Respecto de las obras de construcción que por sus características especiales n
 
 Una vez formulada la liquidación respectiva por el Instituto, la notificará al patrón para que, dentro de los cinco días hábiles siguientes, aduzca las aclaraciones que estime pertinentes o para que, en su caso, entere las cuotas adeudadas con la actualización y los recargos correspondientes en términos del Reglamento para el Pago de Cuotas del Seguro Social.
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 19.
 
-Si transcurridos los plazos establecidos en la Ley y en sus reglamentos el patrón no cubre las cuotas obrero patronales, los capitales constitutivos, la actualización y los recargos, ni los impugna y garantiza dentro del plazo respectivo, serán cobrados a través del procedimiento administrativo de ejecución en los términos del artículo 291 de la Ley.
+Si transcurridos los plazos establecidos en la Ley y en sus reglamentos el patrón no cubre las cuotas obrero patronales, los capitales constitutivos, la actualización, los recargos, las multas y los gastos realizados por el Instituto por inscripciones improcedentes y los que tenga derecho a exigir de las personas no derechohabientes, ni los impugna y garantiza dentro del plazo respectivo, serán cobrados a través del procedimiento administrativo de ejecución en términos del artículo 291 de la Ley.
 
 ### CAPITULO V. De la Vigencia de Derechos
 
@@ -288,3 +330,15 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Dist
 D.O.F. 29 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE MARZO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor a los ciento veinte días hábiles siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos, requerimientos, actuaciones y demás actos que se encuentren pendientes de resolución al entrar en vigor el presente Decreto, continuarán rigiéndose por las disposiciones vigentes al momento de su inicio hasta su total conclusión.
+
+CUARTO. El Consejo Técnico del Instituto podrá emitir reglas de carácter general para que el Instituto celebre convenios con las dependencias y entidades de las administraciones públicas federal, estatal y municipal, con el objeto de que reciban el pago de cuotas y sus accesorios, así como para efectuar la verificación aritmética de los importes parciales y totales de las cédulas de determinación presentadas por los patrones con los que tengan celebrados contratos de obra pública.
+
+QUINTO. Todas aquellas menciones que se hagan en el presente reglamento a la Ley de Adquisiciones y Obras Públicas y al Reglamento para el Pago de Cuotas del Seguro Social, se entenderán referidas a la Ley de Obras Públicas y Servicios Relacionados con las Mismas y al Reglamento del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, respectivamente.
