@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2008-01-11"
+last_updated: "2008-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE MARZO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -216,13 +216,13 @@ IX. Enseres en vía pública: Aquellos objetos como sombrillas, mesas, sillas, o
 
 X. Establecimiento Mercantil: Local ubicado en un inmueble donde una persona física o moral desarrolla actividades relativas a la intermediación, compraventa, arrendamiento, distribución de bienes o prestación de servicios, con fines de lucro;
 
-> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-X. Bis. Establecimiento Mercantil Libre de Tabaco. Aquel Establecimiento Mercantil en el que se prohíba fumar en la totalidad del mismo, sea por disposición legal o por así disponerlo el Titular del mismo;
+X. Bis. (DEROGADA, G.O. 4 DE MARZO DE 2008)
 
-> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-X Ter. Establecimiento Mercantil de Coexistencia con Fumadores. Aquel Establecimiento Mercantil en el que existen áreas para fumadores aisladas del resto del Establecimiento;
+X Ter. (DEROGADA, G.O. 4 DE MARZO DE 2008)
 
 XI. Giro con Impacto Vecinal: Las actividades que por sus características provocan transformaciones, alteraciones o modificaciones en la armonía de la comunidad;
 
@@ -271,6 +271,16 @@ XXV. Verificación: El acto administrativo por medio del cual la autoridad, a tr
 ###### Artículo 3.
 
 Están obligados a observar y cumplir las disposiciones de la presente Ley, los titulares, dependientes, así como los servidores públicos de la Administración Pública del Distrito Federal.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADO, G.O. 4 DE MARZO DE 2008)</small>
+
+###### Artículo 3 Bis.
+
+Queda prohibido fumar en todos los establecimientos mercantiles que se encuentren sujetos al cumplimiento de las disposiciones de la presente ley.
+
+En los establecimientos mercantiles que cuenten con áreas de servicio al aire libre se podrá fumar sin restricción alguna, siempre y cuando el humo derivado del tabaco no invada los espacios cerrados de acceso al público.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES
 
@@ -398,8 +408,6 @@ XV. Fijar en un lugar visible del establecimiento un croquis que ubique claramen
 
 XVI. Vigilar que se conserve la seguridad de los asistentes y de los empleados dentro del Establecimiento Mercantil, así como coadyuvar a que con su funcionamiento no se altere el orden público de las zonas inmediatas al mismo. Para ello, los titulares de las Licencias de Funcionamiento Tipo B deberán contar con elementos de seguridad que acrediten estar debidamente capacitados, ya sea por la Secretaría de Seguridad Pública o por cualquiera de las corporaciones de seguridad privada, que estén debidamente registradas ante la Secretaría de Seguridad Pública del Distrito Federal;
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 8 DE ENERO DE 2008)</small>
-
 XVII. Dar aviso inmediato a las autoridades competentes, en caso de que se altere el orden y la seguridad dentro del Establecimiento Mercantil o en la parte exterior inmediatamente adyacente del lugar donde se encuentre ubicado;
 
 XVIII. Contar con un Seguro de Responsabilidad Civil para cubrir a los usuarios tanto en su persona como en sus bienes, en los casos en que así lo establezca la Ley de Protección Civil y sus disposiciones reglamentarias. En todo caso será responsable por negligencia o incumplimiento en la prestación del servicio, salvo causa de fuerza mayor o caso fortuito;
@@ -434,17 +442,21 @@ XXIV. Los titulares de las Licencias de Funcionamiento tipo B deberán contar co
 
 XXV. Deberán romper todas las botellas vacías de vinos y/o licores, a fin de evitar que sean comercializadas y reutilizadas para la venta de bebidas adulteradas, y (sic)
 
-> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-XXVI. Para el caso de los Establecimientos Mercantiles de coexistencia con fumadores, se deberá delimitar físicamente el área destinada a fumadores, la cual no podrá ser mayor al 30% del área destinada al servicio. En caso de no ser posible su separación física o de no cumplir con esta disposición, se entenderá que toda el área será de no fumar;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
-> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+XXVI. Exhortar a quien se encuentre fumando en el establecimiento, a que se abstenga hacerlo; en caso de negativa, exhortarlo a que abandone el establecimiento; y ante una segunda negativa, solicitar el auxilio de la policía;
 
-XXVII. Identificar clara y permanentemente el área de fumar con señalamientos y avisos de lugares visibles al público asistente, en aquellos Establecimientos Mercantiles a que se refiere la fracción X Ter del artículo 2º de esta Ley;
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
-XXVIII. Impedir la entrada a las áreas destinadas a los fumadores a los menores de 18 años aún y cuando estén acompañados de un adulto y éste pretende autorizar su entrada al área de fumadores;
+XXVII. Señalar clara y permanentemente con avisos en lugares visibles al público asistente la prohibición de fumar en el establecimiento mercantil, así como las sanciones aplicables al infractor;
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+XXVIII. (DEROGADA, G.O. 4 DE MARZO DE 2008)
 
 > <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
 
@@ -456,9 +468,11 @@ XXIX. Las demás que les señalen otros ordenamientos.
 
 Queda prohibido a los Titulares y sus dependientes realizar, permitir o participar en las siguientes actividades:
 
-> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-I. La venta de cualquier tipo de bebidas alcohólicas y productos derivados del tabaco a los menores de edad, aún cuando consuman alimentos; así como permitir la entrada de menores de 18 años al área destinada a los fumadores, aun acompañados de un adulto;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+I. La venta de cualquier tipo de bebidas alcohólicas y productos derivados del tabaco a los menores de edad, aún cuando consuman alimentos;
 
 > <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
 
@@ -506,9 +520,11 @@ XVI. Las demás que señale esta Ley.
 
 Los titulares de los Establecimientos Mercantiles que funcionen como restaurantes o cafeterías podrán colocar en la vía pública, previo Permiso otorgado por la Delegación y pago de los derechos que establezca el Código Financiero del Distrito Federal, enseres e instalaciones que sean necesarios para la prestación del servicio consignado en su Declaración de Apertura o en su Licencia de Funcionamiento.
 
-> <small>(ADICIONADO, G.O 11 DE ENERO DE 2008)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-En la vía pública en donde se coloquen enseres, se podrá fumar sin restricción alguna.
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+
+En la vía pública en donde se coloquen enseres, se podrá fumar siempre que no sea paso forzoso para las personas; que el humo del tabaco no penetre al interior del establecimiento; y que no se genere un lugar cerrado por instalar barreras que impidan la circulación del aire, cualquiera que fuere el material con las que se elaboren, aunque sean desmontables.
 
 ###### Artículo 12.
 
@@ -730,9 +746,11 @@ II. Si el solicitante es extranjero deberá presentar la Autorización expedida 
 
 III. Si es persona moral, su representante legal acompañará el documento con el que acredite su personalidad, copia de una identificación oficial vigente con fotografía; así como copia certificada de la escritura constitutiva debidamente registrada o con registro en trámite;
 
-> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-IV. Ubicación y superficie total del local donde pretende establecerse el giro mercantil, en su caso, un plano en donde se especifiquen las divisiones de las áreas destinadas a fumadores y no fumadores, entendiéndose que toda el área del Establecimiento Mercantil será de no fumar en caso de no incluir las divisiones;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+IV. Ubicación y superficie total del local donde pretende establecerse el giro mercantil;
 
 V. Giro mercantil que se pretende ejercer;
 
@@ -1340,17 +1358,21 @@ El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al 
 
 Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones IV, XII, XIII, XVII, XXII y XXVII; 10 fracción II; 34 párrafos primero y segundo; 35 fracciones I, II, III y VI; 42 fracciones I y III; 46 fracción II; 65 fracciones IV, y V, y 66 de la ley.
 
-> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 74.
 
-Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones II, III, VIII, XI, XII, XIV, XV, XVI primer párrafo, XIX, XX, XXI, XXVI y XXVIII; 10 fracciones IV, VI, VII y XIII; 12; 21 segundo párrafo; 22; 23 último párrafo; 35 fracciones IV y V; 40 segundo párrafo; 42 fracciones II y IV; 46 fracciones I, IV y V; 50; 54 ; 55 fracción V; 58; 59 fracciones I, II y V; 60; 62; 65 fracciones II, III, VI y VII, 67; de la Ley.
+Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones II, III, VIII, XI, XII, XIV, XV, XVI primer párrafo, XIX, XX, XXI y XXVII; 10 fracciones IV, VI, VII y XIII; 12; 21 segundo párrafo; 22; 23 último párrafo; 35 fracciones IV y V; 40 segundo párrafo; 42 fracciones II y IV; 46 fracciones I, IV y V; 50; 54 ; 55 fracción V; 58; 59 fracciones I, II y V; 60; 62; 65 fracciones II, III, VI y VII, 67; de la Ley.
 
-> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
 ###### Artículo 75.
 
-Se sancionará con el equivalente de 351 a 2500 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones I, V, VI, VII, IX, X, XVI segundo párrafo y XVIII; 10 fracciones I, III, V, VIII, IX, X, XI y XV; 15; 16; 32; 33; 34 tercer y cuarto párrafos; 37, 43 44, 52, 55 fracciones I, II, III y IV; 57; 59 fracciones III y IV; 61; 65 fracción I , 67-bis fracciones I, II y III de la Ley.
+Se sancionará con el equivalente de 351 a 2500 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones I, V, VI, VII, IX, X, XVI segundo párrafo y XXVI; 10 fracciones I, III, V, VIII, IX, X, XI y XV; 15; 16; 32; 33; 34 tercer y cuarto párrafos; 37, 43 44, 52, 55 fracciones I, II, III y IV; 57; 59 fracciones III y IV; 61; 65 fracción I , 67-bis fracciones I, II y III de la Ley.
 
 ###### Artículo 76.
 
@@ -1406,9 +1428,11 @@ XIII. Cuando se exceda con los enseres la superficie marcada por el artículo 12
 
 XIV. Cuando no se cumplan las disposiciones a que hacen referencia los artículos 9 fracción XVI párrafo segundo y 67-Bis fracciones I, II y III;
 
-> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-XV. Cuando los Establecimientos Mercantiles no cuenten con los espacios libres de humo requeridos por la presente Ley y demás disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+
+XV. Cuando se permita fumar dentro de los Establecimientos Mercantiles. En este caso, la clausura sólo procederá cuando exista reincidencia. Se entiende que hay reincidencia cuando el Titular del Establecimiento Mercantil haya sido sancionado en más de dos ocasiones durante el transcurso de un año;
 
 > <small>(ADICIONADA, G.O. 11 DE ENERO DE 2008)</small>
 
@@ -1660,8 +1684,20 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 TERCERO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
 
-CUARTO. Los Titulares de los Establecimientos Mercantiles de coexistencia con fumadores, contarán con un plazo de seis meses a partir de que entre en vigor el presente decreto para hacer las modificaciones correspondientes. Una vez recibida la solicitud de acondicionamiento para llevar a cabo la separación física entre fumadores y no fumadores por parte del Titular del Establecimiento, las autoridades delegacionales deberán responder a la misma en un plazo máximo que no exceda de 48 horas. En caso de que el Titular del Establecimiento no sea notificado de la respuesta a su solicitud, se entenderá que la misma es procedente, sin mayor trámite.
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+CUARTO. (DEROGADO, G.O. 4 DE MARZO DE 2008)
 
 QUINTO. La Asamblea Legislativa del Distrito Federal deberá implementar una campaña permanente para dar a conocer a los Titulares de los Establecimientos Mercantiles y a la ciudadanía en general, los derechos y obligaciones que se derivan por la entrada en vigor del presente decreto. Para tal fin, se deberá prever en el Presupuesto de Egresos una partida suficiente para poder llevar a cabo acciones de promoción y publicidad en medios electrónicos e impresos.
 
 SEXTO.- El Gobierno del Distrito Federal y los Órganos Político-Administrativos efectuarán una campaña de difusión del presente decreto.
+
+G.O. 4 DE MARZO DE 2008.
+
+PRIMERO.- Publíquese en el Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes a los de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se deroga el Artículo Cuarto Transitorio del Decreto por el que se reforma y adiciona la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal y se reforma la Ley de Protección a la Salud de los No Fumadores del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 11 de enero del 2008.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal y el Gobierno del Distrito Federal implementarán una campaña permanente para dar a conocer los derechos y obligaciones que se derivan por la entrada en vigor del presente Decreto. En dicha campaña no podrán emplearse colores partidistas y se pondrá énfasis para que los adultos no fumen dentro de un vehículo cuando vaya un menor adentro.
