@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-de-seguridad-y-servicios-2592
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-11"
-last_updated: "2002-09-11"
+last_updated: "2008-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2008.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 11 de septiembre de 2002.
 
@@ -283,9 +283,15 @@ XV. Coordinar la elaboración periódica de informes estadísticos, de acuerdo c
 
 XVI. Promover y realizar estudios para el mejoramiento de las técnicas de aplicación médica y de la enseñanza teórica y práctica, tendiente a capacitar y actualizar al personal médico y paramédico del Instituto;
 
-XVII. Vigilar la actualización del Catálogo de Medicamentos y de Alta Especialidad, cuando menos cada dos años; y
+XVII. Vigilar la actualización del Catálogo de Medicamentos y de Alta Especialidad, cuando menos cada dos años; y (sic)
 
-XVIII. Las demás que le confieran la Ley y las disposiciones legales aplicables y las que le asignen la Junta y el Director General.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XVIII. Vigilar que el trámite de solicitud de reembolso por la prestación de servicios extra-institucionales, así como la expedición y trámite técnico y administración de la expedición, control y captura de los certificados de incapacidad temporal para el trabajo, cumpla con los requerimientos establecidos en los Reglamentos que para tal efecto se expida, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XIX. Las demás que le confieran la Ley y las disposiciones legales aplicables y las que le asignen la Junta y e1 Director General.
 
 ### CAPÍTULO VI. DE LA SUBDIRECCIÓN GENERAL DE FINANZAS Y ADMINISTRACIÓN
 
@@ -309,7 +315,9 @@ VII. Administrar el ejercicio del presupuesto anual de egresos, cuidando el dest
 
 VIII. Autorizar los pagos con cargo al presupuesto y presentar al Director General aquéllos que deban ser autorizados por él, conforme a la normatividad establecida;
 
-IX. Gestionar ante la Secretaria de Finanzas y Desarrollo Social, el entero de recursos generados por las cuotas de los trabajadores y aportaciones del Gobierno del Estado, emitiendo la documentación comprobatoria necesaria, conforme a las normas y lineamientos establecidos, dando cuenta de ello al Director General;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+IX. Gestionar ante la Secretaría de Finanzas y Administración, el entero de recursos generados por las cuotas de los trabajadores y aportaciones del Gobierno del Estado, emitiendo la documentación comprobatoria necesaria, conforme a las normas y lineamientos establecidos, dando cuenta de ello al Director General;
 
 X. Verificar que las operaciones de pago a proveedores, prestadores de servicios y las que sean de su competencia, se efectúen de acuerdo a la normatividad aplicable;
 
@@ -325,7 +333,9 @@ XV. Coordinar las actividades relativas a las áreas de administración y capaci
 
 XVI. Vigilar el cumplimiento de la normatividad, en materia laboral y prestación de servicios profesionales; de adquisiciones, arrendamientos y prestación de servicios para el óptimo aprovechamiento de los recursos materiales y servicios generales; así como para la correcta administración, conservación, control y regularización de los bienes muebles e inmuebles que posee el Instituto bajo cualquier titulo;
 
-XVII. Ser el enlace entre el Instituto y el sindicato, con el objeto de concertar los aspectos relacionados con las Condiciones Generales de Trabajo;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XVII. Fungir como enlace entre el Instituto y el Sindicato, con el objeto de concertar los aspectos relacionados con las Condiciones Generales de Trabajo;
 
 XVIII. Aprobar los movimientos relacionados a situación laboral de los trabajadores al servicio del Instituto, previamente convalidados por el Departamento de Recursos Humanos;
 
@@ -343,9 +353,15 @@ XXIV. Desarrollar programas de vivienda en beneficio de los servidores públicos
 
 XXV. Establecer las bases para la constitución, manejo y aplicación de fondos de garantía para los créditos otorgados por el Instituto;
 
-XXVI. Determinar y recuperar la cartera vencida por concepto de créditos otorgados, estableciendo los adeudos y mecanismos para la recuperación de éstos; y
+XXVI. Determinar y recuperar la cartera vencida por concepto de créditos otorgados, estableciendo los adeudos y mecanismos para la recuperación de éstos; y (sic)
 
-XXVII. Las demás que le confieran la Ley y demás disposiciones aplicables, la Junta y el Director General.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XXVII. Vigilar el cumplimiento de las recomendaciones y resoluciones señaladas en las auditorias, procedimientos administrativos y evaluaciones de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, de los Auditores Externos y de las otras Instituciones autorizadas para ello; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XXVIII. Las demás que le confieran la Ley y demás disposiciones aplicables, la Junta y el Director General.
 
 ### CAPÍTULO VII. DE LA SUBDIRECCIÓN GENERAL DE PRESTACIONES ECONÓMICAS Y SOCIALES
 
@@ -417,49 +433,103 @@ XIX. Proporcionar servicios de informática a las Unidades Administrativas del I
 
 XX. Auxiliar a las demás Unidades Administrativas en sus tareas de captura, programación y diseño, organizándolas conforme a las prioridades del Instituto y sus sistemas existentes;
 
-XXI. Coadyuvar directamente con las Unidades Administrativas del Instituto, en la elaboración de los estudios, informes y evaluaciones que se requieran periódicamente, con respecto al cumplimiento de las metas y actividades que contemple el programa anual de trabajo, recabando y analizando la información necesaria para su integración; y
+XXI. Coadyuvar directamente con las Unidades Administrativas del Instituto, en la elaboración de los estudios, informes y evaluaciones que se requieran periódicamente, con respecto al cumplimiento de las metas y actividades que contemple el programa anual de trabajo, recabando y analizando la información necesaria para su integración; y (sic)
 
-XXII. Las demás que le confieran la Ley y demás disposiciones aplicables la Junta y el Director General.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XXII. Fungir como Unidad Administrativa de Acceso a la Información, de acuerdo a lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XXIII. Vigilar, actualizar y verificar que toda la información contenida en el sitio de Internet en materia de Transparencia, cumpla con la normatividad respectiva que determine el Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XXIV. Implementar los mecanismos necesarios para la adecuada operación del módulo de Acceso a la Información, fungiendo como enlace entre los ciudadanos y unidades responsables para atender de acuerdo a los lineamientos dispuestos por la legislación y normatividad en la materia, todas las solicitudes de acceso a la información que se presenten;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XXV. Representar al Instituto ante las instancias gubernamentales, en todos los asuntos relacionados con la Transparencia y Acceso a la Información;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XXVI. Administrar y operar la página oficial de Internet del Instituto, de acuerdo a las disposiciones generadas por el Gobierno del Estado; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XXVII. Las demás que le confieran la Ley y demás disposiciones aplicables, la Junta y el Director General.
 
 ### CAPÍTULO IX. DE LA UNIDAD DE ASUNTOS JURÍDICOS
 
-###### ARTÍCULO 20.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2008)</small>
 
-El Coordinador de la Unidad de Asuntos Jurídicos dependerá directamente del Director General y acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes atribuciones:
+###### Artículo 20.
 
-l. Actuar como órgano de consulta, asesoría e investigación jurídica, para los asuntos que le sean encomendados por el Director General y le planteen las demás Unidades Administrativas;
+El Coordinador de la Unidad de Asuntos Jurídicos, dependerá directamente del Director General y acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes facultades y atribuciones:
 
-II. Intervenir en los procesos judiciales y administrativos en que el Instituto sea parte o tenga interés jurídico, con las facultades que le otorgue el Director General, los ordenamientos legales vigentes y los convenios celebrados con las Dependencias y Entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
-III. Compilar, sistematizar y difundir las normas jurídicas que regulen el funcionamiento del Instituto, fijando los criterios de interpretación y aplicación de las mismas;
+I. Actuar como unidad de consulta, asesoría e investigación jurídica, para los asuntos que le sean encomendados por el Director General y le planteen las demás Unidades Administrativas;
 
-IV. Asesorar jurídicamente a las demás Unidades Administrativas del Instituto, en la elaboración de documentos de naturaleza jurídica que sean de su competencia y revisar los dictámenes, declaratorias, oficios de autorización, acuerdos y demás resoluciones que deba suscribir el Director General, vigilando que se cumplan con las formalidades y requisitos necesarios para evitar su invalidez y de ser necesario realizar los trámites para su validación;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+II. Intervenir en los procesos judiciales y administrativos en que el Instituto sea parte o tenga interés jurídico, con las facultades que le otorgue el Director General, los ordenamientos legales vigentes y los convenios celebrados con las Dependencias y Entidades dependientes de la Administración Pública Estatal;
+
+III. (DEROGADA, P.O. 5 DE MARZO DE 2008)
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+IV. Asesorar jurídicamente a solicitud de las Unidades Administrativas del Instituto, en la elaboración de documentos de naturaleza jurídica que sean de su competencia y/o sean encomendados por el Director General;
 
 V. Coadyuvar con los Subdirectores Generales del Instituto, a vigilar y procurar el cumplimiento de las normas y procedimientos jurídicos que rijan a las Unidades Administrativas que de ellos dependan;
 
-VI. Asesorar y apoyar al Director General y a las demás Unidades Administrativas en la elaboración de documentos de naturaleza jurídica que sean de su competencia;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
-VII. Proponer, aplicar y evaluar las políticas del Instituto, en materia jurídico-normativa;
+VI. Revisar los dictámenes, declaratorias, oficios de autorización, acuerdos, así como la documentación que deben generar las áreas responsables del proceso de adjudicación en materia de Adquisiciones y Arrendamientos de Bienes y Servicios, y demás resoluciones que deba suscribir el Director General, vigilando que se cumplan con las formalidades y requisitos necesarios para evitar la invalidez y de ser necesario realizar los trámites para su validación;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+VII. Aplicar, evaluar y proponer reformas y políticas al marco jurídico normativo para todas las áreas administrativas;
 
 VIII. Intervenir directamente en la formulación de los anteproyectos de leyes, reglamentos, acuerdos, convenios, órdenes y demás disposiciones jurídicas que el Director General proponga a la junta y llevar el registro de los actos aludidos una vez formalizados;
 
-IX. Registrar los instrumentos normativos que emita el Director General, para las Unidades Administrativas;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+IX. Registrar y controlar los documentos normativos que emita el Director General, con aplicación a las unidades administrativas;
 
 X. Llevar el control y autenticar cuando sea procedente, las firmas de los servidores públicos del Instituto, asentadas en los documentos que expidan con motivo del ejercicio de sus atribuciones;
 
-XI. Previo acuerdo del Director General, iniciar o continuar las acciones que correspondan al Instituto, desistirse, formular contestaciones, ofrecer o rendir pruebas, formular alegatos, promover incidentes, interponer recursos, así como seguir en todas sus partes los procedimientos judiciales o administrativos hasta la ejecución de resoluciones;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XI. Previo acuerdo del Director General y/o de quien legalmente se encuentre facultado para ello, iniciar o continuar las acciones que correspondan al Instituto. desistirse, formular contestaciones, ofrecer o rendir pruebas, formular alegatos, promover incidentes, interponer recursos, así como seguir en todas sus partes los procedimientos judiciales o administrativos hasta la ejecución de las resoluciones;
 
 XII. Denunciar y presentar querellas ante el Ministerio Público, de los hechos ilícitos que así lo ameriten y que sean competencia del Instituto, o afecten su patrimonio;
 
 XIII. Intervenir en todos los Juicios de Amparo en que el Director General o las Unidades Administrativas, conjunta o separadamente, sean señalados como autoridades responsables, preparando los informes previo o justificado, así como presentar pruebas, interponer los recursos que procedan y continuar todo su procedimiento hasta la ejecución de sus resoluciones;
 
-XIV. Atender las resoluciones que pronuncien las Dependencias y Entidades de la Administración Pública Estatal y las Autoridades Jurisdiccionales, coordinándose con las Unidades Administrativas del Instituto, para su cumplimiento, prestando a éstas la asesoría necesaria;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
-XV. Expedir a solicitud del interesado la Autoridad competente, constancia, certificación o copia certificada de documentos relativos a los asuntos que se tramiten en el Instituto, con la autorización del Director General;
+XIV. Atender las resoluciones que pronuncien las Dependencias y Entidades dependientes de la Administración Pública Estatal y las diferentes Autoridades Jurisdiccionales, coordinándose con las Unidades Administrativas del Instituto, para su cumplimiento, prestando a éstas la asesoría necesaria;
 
-XVI. Regularizar jurídicamente los bienes inmuebles del Instituto y establecer los sistemas para el resguardo de la documentación que acredite su propiedad y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
-XVII. Las demás que le confieran la Ley y demás disposiciones aplicables, la Junta y el Director General.
+XV. Expedir a solicitud del interesado o autoridad competente, constancia, certificación o copia certificada de documentos relativos a los asuntos que se tramiten en el Instituto con la autorización del Director General y/o de quien legalmente se encuentre facultado para ello;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XVI. Asesorar, gestionar y regularizar jurídicamente en los casos que sea requerido, la actualización e integración debida de la documentación legal correspondiente a todos los Bienes inmuebles propiedad del Instituto, y en consecuencia, el debido control y resguardo de los mismos;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XVII. Dar trámite y seguimiento a los Recursos de Reconsideración interpuestos conforme a las disposiciones reglamentarias del mismo;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XVIII. Asesorar, intervenir y aplicar los lineamientos respecto de las relaciones obrero-patronales de carácter individual o colectivo entre los trabajadores y el Instituto a solicitud del Director General y de las Unidades Médico-Administrativas del mismo; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XIX. Las demás que le confiera la Ley y demás disposiciones aplicables, la Junta Directiva y/o el Director General.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -470,3 +540,13 @@ SEGUNDO.- Cuando las funciones de alguna Unidad Administrativa establecida con a
 TERCERO.- Se derogan las disposiciones que se opongan a este Reglamento.
 
 H. Puebla de Z., a 2 de agosto de 2002.- Acuerdo No. 47/02.- La H. Junta Directiva autoriza favorablemente por unanimidad, la aplicación operativa del Reglamento Interior del Instituto.- Secretario de Salud y Presidente de la H. Junta Directiva.- DOCTOR JESÚS LORENZO AARUN RAMÉ.- Rúbrica.- Director General.- DOCTOR MIGUEL MARTÍNEZ VILLALPANDO.- Rúbrica.- DOCTOR HUGO ELOY MELÉNDEZ AGUILAR.- Rúbrica.- LICENCIADO VÍCTOR M. CORTÉS LEYVA.-Rúbrica.-INGENIERO JOSÉ RAÚL APAN OSORIO.-Rúbrica.-LICENCIADO RODOLFO DE PASCUAL JIMÉNEZ.- Rúbrica.- PROFESOR JUAN SOLÍS ROMERO.- Rúbrica.- DOCTOR J. ARMANDO CARRASCO MALPICA.- Rúbrica.- LICENCIADO ALVARO RUBÉN HERNÁNDEZ Y CAMPOS.- Rúbrica.- LICENCIADO ALEJANDRO CORDERO CRUZ.- Rúbrica.-Comisarios.- PROFESOR ISAAC CHALFON GONZÁLEZ.- Rúbrica.-CIUDADANO CESAR ALVARADO DURÁN.- Rúbrica.- LICENCIADO VÍCTOR KURI BUJAIDAR- Rúbrica.- Secretario de Actas.- CONTADOR PÚBLICO JAlME I. ROSAS CARRILLO.- Rúbrica.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 5 DE MARZO DE 2008.
+
+PRIMERO.- Las presentes reformas y adiciones del Reglamento, así como la creación de sus artículos transitorios entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Cuando las funciones de alguna Unidad Administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercitadas por alguna otra unidad de las que el mismo establece o cuando se cambie su adscripción, el personal, mobiliario, archivo y en general el equipo que aquella haya utilizado, pasarán a la Unidad que se determine y competerá a la nueva Unidad Administrativa terminar la sustanciación y determinación de resoluciones que corresponda, de los asuntos que se encuentren en trámite, sin contravención a lo establecido por la ley que aplica en la materia.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a este Reglamento.
