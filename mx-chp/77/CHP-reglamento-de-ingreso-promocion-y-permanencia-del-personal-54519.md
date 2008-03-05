@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-ingreso-promocion-y-permanencia-del-personal-5451
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-14"
-last_updated: "2007-02-14"
+last_updated: "2008-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE INGRESO, PROMOCION Y PERMANENCIA DEL PERSONAL ACADEMICO DE LA UNIVERSIDAD POLITECNICA DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de febrero de 2007.
 
@@ -39,11 +39,11 @@ Por los fundamentos y consideraciones antes expuestos, los integrantes de la Jun
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 1°.
 
-El presente ordenamiento rige las diferentes actividades y las competencias relacionadas con los procedimientos académico y administrativo del ingreso, la promoción y la permanencia del personal académico de la Universidad Politécnica de Chiapas.
-
-El presente Reglamento no le será aplicable a los maestros de lenguas extranjeras, quienes se regirán por las reglas particulares que al efecto expida la Universidad, acordes con la naturaleza de sus actividades.
+El presente ordenamiento rige las diferentes actividades y las competencias relacionadas con los procedimientos académico y administrativo del ingreso, la promoción y la permanencia del personal académico de la Universidad Politécnica de Chiapas, en adelante la Universidad.
 
 ###### Artículo 2°.
 
@@ -67,11 +67,19 @@ Los Directores de Programa Académico, asignarán las horas que deban ser dedica
 
 El personal académico, por su categoría y niveles se clasifica en:
 
-I. Profesor Investigador que comprende los niveles "A", "B", "C'' y "D";
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
-II. Profesor de Asignatura que comprende los niveles "A", "B" y "C"; y,
+I. Profesor investigador, de carrera o tiempo completo que comprende los niveles "A”, "B", "C" y "D";
 
-III. Profesor Visitante.
+II. Profesor de Asignatura que comprende los niveles "A", "B" y "C"; y (sic),
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+III. Profesor Visitante; y,
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+IV. Profesor de lengua extranjera, que comprende los niveles "A", "B" y "C".
 
 ###### Artículo 6°.
 
@@ -79,13 +87,21 @@ La categoría de Profesor Investigador se le otorga a quien posee grado académi
 
 Los requisitos para obtener alguno de los niveles en esta categoría son:
 
-Nivel "A": Tener grado de maestro; poseer aptitudes para la docencia; haber trabajado eficientemente cuando menos un año en labores de investigación y desarrollo tecnológico en la materia o área de su especialidad.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
-Nivel "B": Tener grado de Maestro o de doctor; poseer aptitudes para la docencia; tener al menos un año de experiencia en la realización de proyectos de investigación y desarrollo tecnológico en la materia o área de su especialidad, preferentemente en colaboración con organizaciones del sector productivo; tener al menos dos publicaciones de alto impacto en la materia o área de su especialidad.
+I. Nivel "A": Tener grado de maestro; poseer aptitudes para la docencia; haber trabajado eficientemente cuando menos un año en labores de investigación y desarrollo tecnológico en la materia o área de su especialidad.
 
-Nivel "C": Tener grado de doctor; poseer aptitudes para la docencia, tener al menos cuatro años de experiencia en la realización de proyectos de investigación y desarrollo tecnológico en la materia o área de su especialidad, preferentemente en colaboración con organizaciones del sector productivo; tener al menos una patente o al menos seis publicaciones de alto impacto en la materia o área de su especialidad; y acreditar experiencia en la formación de recursos humanos al nivel de posgrado.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
-Nivel "D": Tener grado de doctor; poseer aptitudes para la docencia; tener al menos siete años de experiencia en la realización de proyectos de investigación y desarrollo tecnológico en la materia o área de su especialidad, preferentemente en colaboración con organizaciones del sector productivo; tener al menos diez publicaciones de alto impacto en la materia o área de su especialidad; acreditar amplia experiencia en la formación de recursos humanos al nivel de maestría y doctorado mediante la dirección de tesis; y acreditar experiencia en la formación de grupos de investigación y desarrollo tecnológico.
+II. Nivel "B": Tener grado de Maestro o de doctor; poseer aptitudes para la docencia; tener al menos un año de experiencia en la realización de proyectos de investigación y desarrollo tecnológico en la materia o área de su especialidad, preferentemente en colaboración con organizaciones del sector productivo; tener al menos dos publicaciones de alto impacto en la materia o área de su especialidad.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+III. Nivel "C": Tener grado de doctor; poseer aptitudes para la docencia, tener al menos cuatro años de experiencia en la realización de proyectos de investigación y desarrollo tecnológico en la materia o área de su especialidad, preferentemente en colaboración con organizaciones del sector productivo; tener al menos una patente o al menos seis publicaciones arbitradas en la materia o área de su especialidad; y acreditar experiencia en la formación de recursos humanos al nivel de maestría con un mínimo de diez tesis dirigidas.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+IV. Nivel "D": Tener grado de doctor; poseer aptitudes para la docencia; tener al menos siete años de experiencia en la realización de proyectos de investigación y desarrollo tecnológico en la materia o área de su especialidad, preferentemente en colaboración con organizaciones del sector productivo; tener al menos diez publicaciones arbitradas en la materia o área de su especialidad; acreditar amplia experiencia en la formación de recursos humanos con la dirección de un mínimo de diez tesis al nivel de doctorado; y acreditar experiencia en la formación de grupos de investigación y desarrollo tecnológico.
 
 Para los efectos señalados en este artículo, se considerarán publicaciones de alto impacto, los artículos publicados en revistas indexadas de prestigio internacional; las patentes otorgadas y en explotación; las tecnologías y las mejoras a productos o procesos, transferidas a organizaciones del sector productivo, que estén documentadas y que se acredite impacto significativo en los resultados de dichas organizaciones.
 
@@ -103,9 +119,23 @@ Nivel "B": Tener al menos maestría; poseer aptitudes para la docencia; o tener 
 
 Nivel "C": Tener al menos maestría; poseer aptitudes para la docencia; y tener al menos seis años de experiencia profesional en la materia o área de su especialidad.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 8°.
 
-Profesor Visitante es quien ingresa a invitación de la Universidad, por su alto nivel académico, para incorporarse de tiempo completo a los programas académicos. La duración de su contratación será hasta por un año y, previa evaluación, podrá extenderse a dos años.
+Profesor Visitante es quien ingresa a invitación del Rector de la Universidad, por su alto nivel académico, para incorporarse de tiempo completo a los programas académicos. La duración de su contratación será hasta por un año y, previa evaluación de la Comisión de Ingreso, Promoción y Permanencia del Personal Académico, podrá extenderse a dos años.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2008)</small>
+
+###### Artículo 8° Bis.
+
+El Profesor de Lengua Extranjera será quien desarrolle actividades académicas relacionadas con la enseñanza de lenguas extranjeras y adicionalmente lleva a cabo las actividades señaladas en el artículo 58 Bis del presente Reglamento. Será de asignatura por el número de horas que dedica a las labores docentes que serán de hasta 30 horas a la semana. Los requisitos para obtener alguno de los niveles en la categoría de profesor de lengua extranjera son:
+
+I. Nivel" A": Profesional con experiencia mínima de un año en la enseñanza para adultos del idioma extranjero, estar acreditado en el idioma con nivel de avanzado;
+
+II. Nivel "B": Profesional con una experiencia mínima de tres años en la enseñanza para adultos del idioma extranjero, quien deberá de contar con certificación internacional para la enseñanza del idioma como segunda lengua y contar con licenciatura;
+
+III. Nivel "C": Profesional con una experiencia mínima de seis años en la enseñanza para adultos del idioma extranjero, con licenciatura, certificado internacional para la enseñanza del idioma inglés como segunda lengua y certificado en la Norma Técnica de Competencia Laboral de diseño e impartición de cursos de capacitación vigente.
 
 ###### Artículo 9°.
 
@@ -135,9 +165,11 @@ Para ser parte del personal académico por tiempo indeterminado, se deberán cum
 
 ### Capítulo III. Del Personal Académico por Tiempo Indeterminado
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 14.
 
-El personal académico que cuente con un mínimo de tres años de experiencia dentro de la Universidad, tendrá derecho a ser contratado por tiempo indeterminado, previa evaluación favorable de la Comisión de Ingreso, Promoción y Permanencia del Personal Académico siempre que se emita convocatoria y exista disponibilidad presupuestal.
+El personal académico que cuente con un mínimo de tres años de experiencia dentro de la Universidad y se encuentre certificado en la Norma Técnica de Competencia Laboral de diseño e impartición de cursos de capacitación vigente, tendrá derecho a se contratado por tiempo indeterminado, previa evaluación favorable de la Comisión de Ingreso, Promoción y Permanencia del Personal Académico siempre que se emita convocatoria y exista disponibilidad presupuestal.
 
 Los periodos en los que el interesado haya prestado servicios en forma discontinua, se computarán hasta completar tres años, debiendo estar colaborando en la Universidad en el momento de la decisión.
 
@@ -153,15 +185,21 @@ En las evaluaciones de los aspirantes a obtener la contratación por tiempo inde
 
 ### Capítulo Único. De la Integración y Funcionamiento
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 17.
 
-Se establecerá una Comisión de Ingreso, Promoción y Permanencia del Personal Académico.
+Se establecerá una Comisión de Ingreso, Promoción y Permanencia del Personal Académico quien sesionará en las instalaciones de la Universidad.
 
 ###### Artículo 18.
 
 La Comisión de Ingreso, Promoción y Permanencia del Personal Académico se integrará por:
 
 I. Un académico ya sea interno o externo, por cada programa académico, designado por el Director de Programa Académico correspondiente.
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+II. Un académico interno o externo por cada programa académico a invitación del Rector.
 
 Los miembros de la Comisión durarán dos años en su cargo y podrán ser designados para otro período igual.
 
@@ -201,7 +239,7 @@ II. Los miembros del Consejo Social;
 
 III. Los miembros del Consejo de Calidad;
 
-IV. Los miembros del Consejo Consultivo;
+IV. (DEROGADA, P.O. 5 DE MARZO DE 2008)
 
 V. El Rector;
 
@@ -251,9 +289,13 @@ La Comisión rendirá al Consejo de Calidad, por conducto del Rector, un informe
 
 ### Capítulo Único. Del Procedimiento de Ingreso
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 27.
 
-Los profesores miembros del personal académico de la Universidad ingresarán mediante concurso de oposición público y abierto de acuerdo con lo establecido en el presente Reglamento.
+Los profesores integrantes del personal académico de tiempo completo de la Universidad ingresarán mediante concurso de oposición público y abierto de acuerdo con lo establecido en el presente Reglamento.
+
+Los profesores integrantes del personal académico de asignatura de la Universidad ingresarán mediante convocatoria pública y abierta con los requisitos del presente reglamento que al efecto realice la Universidad por conducto de la Comisión con el apoyo del Departamento de Administración de Personal de la Universidad, mediante proceso de análisis profesional documentado. La resolución deberá estar debidamente firmada por las personas que en ella intervinieron.
 
 ###### Artículo 28.
 
@@ -271,9 +313,11 @@ El procedimiento de ingreso de personal académico se iniciará cuando el Rector
 
 Si resultara improcedente, el Rector devolverá la solicitud al Director de Programa Académico con el señalamiento de las causas de improcedencia.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 32.
 
-Una vez autorizada por el Rector la solicitud, en su caso, previa verificación presupuestal, el Director de Programa Académico en los tres días hábiles siguientes redactará la convocatoria y la turnará al Secretario Académico para que dentro de un plazo de cinco días hábiles ordene la publicación en la página de la Universidad y, al menos en uno de los periódicos de mayor circulación nacional.
+Una vez autorizada por el Rector la solicitud, en su caso, previa verificación presupuestal, el Jefe del Departamento de Administración de Personal, con el apoyo de los Directores de Programa Académico, en los tres días hábiles siguientes redactará la convocatoria y la turnará al Secretario Académico para que dentro de un plazo de cinco días hábiles ordene la publicación en la página de la Universidad y, al menos en uno de los periódicos de mayor circulación nacional, así como que deberá notificar por escrito a la Comisión.
 
 ###### Artículo 33.
 
@@ -281,7 +325,9 @@ La convocatoria pública y abierta deberá contener como mínimo los siguientes 
 
 I. Categoría y nivel requeridos;
 
-II. Tiempo de dedicación, el cual tratándose de personal académico por asignatura se procurará no exceda de 15 horas a la semana;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+II. Tiempo de dedicación, el cual tratándose de personal académico por asignatura no deberá exceder de 15 horas a la semana y tratándose de personal académico de lenguas extranjeras no deberá exceder de 30 horas a la semana;
 
 III. El programa académico y la disciplina en las cuales prestará servicios el miembro del personal académico;
 
@@ -301,9 +347,11 @@ X. El horario de trabajo; y,
 
 XI. El monto de la remuneración.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 34.
 
-La Comisión, dentro de los ocho días hábiles siguientes a la publicación de la convocatoria, recibirá a través del área de recursos humanos, la documentación que presenten los aspirantes; la registrará dentro de los tres días hábiles siguientes y procederá a notificar a los concursantes en las oficinas de la misma Comisión, el lugar, la hora y la fecha en que se llevarán a cabo las evaluaciones y las entrevistas, cuando estas últimas hayan sido determinadas como necesarias.
+La Comisión, dentro de los treinta días hábiles siguientes a la publicación de la convocatoria, recibirá a través del Departamento de Administración de Personal, la documentación que presenten los aspirantes; la registrará dentro de los tres días hábiles siguientes y procederá a notificar a los concursantes seleccionados, el lugar, la hora y la fecha en que se llevarán a cabo las evaluaciones y las entrevistas cuando hayan sido determinadas como necesarias.
 
 ###### Artículo 35.
 
@@ -331,9 +379,11 @@ VI. Evaluación del currículum vitae;
 
 VII. Las que determine la Comisión siempre y cuando las notifique a los concursantes en los términos señalados en el artículo 33, del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 38.
 
-Una vez concluidas las evaluaciones, la Comisión analizará los resultados y emitirá en un plazo no mayor de ocho días hábiles el dictamen respectivo.
+Una vez concluidas las evaluaciones y entrevistas en su caso, la Comisión analizará los resultados y emitirá en un plazo no mayor de ocho días hábiles el dictamen respectivo.
 
 ###### Artículo 39.
 
@@ -355,11 +405,17 @@ III. Los nombres de los asesores, en su caso;
 
 IV. El nombre del ganador y, en su caso, el orden de preferencia de los demás concursantes que por su idoneidad podrían ocupar la plaza, si el ganador no la ocupare, según el orden señalado;
 
-V. Los argumentos que justifican la decisión; y,
+V. Los argumentos que justifican la decisión; y (sic),
 
-VI. El señalamiento de circunstancias relevantes que se hayan suscitado durante el concurso.
+VI. El señalamiento de circunstancias relevantes que se hayan suscitado durante el concurso;
 
-En caso de que nadie haya aprobado las evaluaciones, el concurso será declarado desierto.
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
+
+VII. Firma al calce y sello.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
+En caso de que no se presente oposición, el concurso será declarado desierto.
 
 ###### Artículo 41.
 
@@ -369,9 +425,11 @@ La Comisión en un plazo no mayor de ocho días hábiles, comunicará su resoluc
 
 Si el dictamen es favorable, el Rector, dentro de un plazo de cinco días hábiles siguientes instruirá a la administración de la Universidad para establecer la relación laboral con el ganador, por tiempo determinado, a partir de la fecha mencionada en la convocatoria, de acuerdo con los procedimientos administrativos que al efecto tenga establecidos la Universidad.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 43.
 
-En caso de que el concurso se haya declarado desierto o exista urgencia inaplazable, el Rector tendrá la facultad de contratar personal académico por tiempo determinado, hasta por un cuatrimestre, sin que medie concurso de oposición. Simultáneamente, se convocará a concurso abierto, a fin de cubrir los requerimientos de manera regular, a partir del siguiente cuatrimestre.
+En caso de que el concurso se haya declarado desierto o exista urgencia inaplazable debidamente justificada, el Rector tendrá la facultad de contratar personal académico por tiempo determinado hasta por un año, sin que medie concurso de oposición al término del cual, se convocará a concurso abierto a fin de cubrir los requerimientos de manera regular.
 
 El personal contratado en los términos del primer párrafo de este artículo, podrá participar en el concurso de oposición.
 
@@ -387,9 +445,11 @@ Las resoluciones sobre el ingreso del personal serán definitivas, por lo que no
 
 El personal académico por tiempo indeterminado podrá obtener una categoría superior o nivel superior dentro de su respectiva categoría, mediante resolución favorable de la Comisión en la evaluación de promoción correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 46.
 
-El procedimiento de promoción se iniciará con la convocatoria que emita el Rector para tal efecto, siempre que exista disponibilidad presupuestal.
+El procedimiento de promoción se iniciará con la convocatoria que emita el Rector para tal efecto, siempre que exista disponibilidad presupuestal, la cual deberá establecer claramente los requisitos solicitados para cada nivel, de acuerdo con las disposiciones del Título Primero, Capítulo I del presente instrumento.
 
 ###### Artículo 47.
 
@@ -520,6 +580,34 @@ V. Participar en eventos académicos cuando así se requiera;
 VI. Participar en los procesos de evaluación del desempeño docente; y,
 
 VII. Cumplir con las normas y procedimientos administrativos en el ámbito de sus respectivas actividades.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2008)</small>
+
+###### Artículo 58 Bis.
+
+El personal académico de lenguas extranjeras deberá desarrollar las funciones y actividades siguientes:
+
+I. Realizar actividades de enseñanza, de acuerdo con los programas educativos;
+
+II. Diseñar, elaborar y evaluar material didáctico y programas educativos en su área de especialidad;
+
+III. Proporcionar asesorías y tutorías;
+
+IV. Participar en tareas de inducción institucional;
+
+V. Divulgar de acuerdo con la Universidad los resultados de las actividades académicas conforme a los programas educativos correspondientes;
+
+VI. Realizar trabajo colegiado;
+
+VII. Elaborar y presentar los programas de trabajo e informes correspondientes a su responsabilidad;
+
+VIII. Dar a conocer a sus estudiantes el programa, fechas y las modalidades de evaluación al inicio del curso;
+
+IX. Participar en programas de formación y actualización del personal académico;
+
+X. Participar en eventos académicos cuando así se requiera;
+
+XI. Las demás actividades que le sean aplicables.
 
 ### Capítulo II. De la Planeación y la Evaluación De las Funciones Académicas
 
@@ -709,9 +797,11 @@ Para garantizar la permanencia de los profesores en la Universidad, ésta realiz
 
 La evaluación anual del desempeño académico tiene como propósito revalorar la carrera académica y reconocer a quienes procuran su actualización constante y superación con el incremento de su escolaridad y el desempeño sobresaliente de sus actividades al servicio de la Universidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2008)</small>
+
 ###### Artículo 83.
 
-La evaluación anual del desempeño académico comprenderá la revisión y verificación de las actividades desarrolladas durante un año escolar por los miembros del personal académico de la Universidad, especialmente las siguientes:
+La evaluación anual del desempeño académico según su categoría comprenderá la revisión y verificación de las actividades desarrolladas durante un año escolar por los miembros del personal académico de la Universidad, especialmente las siguientes:
 
 I. Presencia frente a grupo;
 
@@ -737,7 +827,9 @@ XI. Innovación en las formas de generar aprendizaje;
 
 XII. Estudios de actualización y obtención de grados académicos;
 
-XIII. Las demás a que se refieren los artículos 57 y 58, de este Reglamento.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+
+XIII. Las demás a que se refieren los artículos 57,58 Y58 Bis, de este Reglamento.
 
 ###### Artículo 84.
 
@@ -792,3 +884,11 @@ Sexto.- Las disposiciones relativas a la promoción, al otorgamiento de reconoci
 Dado en la Sala de Juntas de la Universidad Politécnica de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 2 dos días del mes de agosto del año 2006.
 
 Por la Junta Directiva: Presidente: Profr. Alfredo Palacios Espinosa, Secretario de Educación.- Vocales: Lic. Jesús Evelio Rojas Morales, Secretario de Planeación y Finanzas.- Ing. Alberto González Díaz, Director General de la Comisión Estatal del Agua y Saneamiento.- Dr. Eugenio Cetina Vadillo, Director General de Educación Superior Universitaria-SEP.- Dr. Enrique Fernández Fassnacht, Coordinador General de Universidades Politécnicas.- C.P. Josefa López Ruiz de Laddaga, Titular de la Oficina de Servicios Federales de Apoyo a la Educación en Chiapas.- Lic. José Luis Martínez González, Presidente de la COPARMEX en Chiapas.- Mtro. Alberto Sánchez López, Profesor Investigador del Instituto Tecnológico de Oaxaca.- Dr. José Antonio Paoli Bolio, Catedrático de la Universidad Autónoma Metropolitana.- Dr. Modesto Seara Vázquez, Rector de la Universidad Tecnológica de la Mixteca.- C.P. Pablo Cancino Pérez, Proyecto Chiapas Visión 2020.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS REGLAMENTOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2008.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Reglamento.
