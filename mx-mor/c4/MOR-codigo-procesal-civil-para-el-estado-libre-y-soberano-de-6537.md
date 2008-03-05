@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-civil-para-el-estado-libre-y-soberano-de-6537"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2006-09-06"
+last_updated: "2008-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2008.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -4795,23 +4795,29 @@ II. En los procedimientos de arrendamiento las apelaciones sólo serán admitida
 
 Del juicio especial de desahucio.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
 
 ###### Artículo 644-A.
 
-De la procedencia del juicio. El Juicio Especial de Desahucio debe fundarse en la falta de pago de tres o más mensualidades. La demanda deberá ir acompañada con el contrato de arrendamiento respectivo en el caso de haberse celebrado por escrito, en caso contrario, de haberse cumplido por ambos contratantes sin otorgamiento de documento se justificará el acuerdo de voluntades por medio de información testimonial, prueba documental o cualquier otra bastante como medio preparatorio de juicio.
+De la procedencia del juicio. El juicio de desahucio procede cuando se exige la desocupación de un bien inmueble, por falta de pago de tres o más mensualidades. La demanda deberá ir acompañada con el contrato de arrendamiento respectivo en el caso de haberse celebrado por escrito, en caso contrario, de haberse cumplido por ambos contratantes sin otorgamiento de documento, se justificará el acuerdo de voluntades por medio de información testimonial, prueba documental o cualquier otras bastante como medio preparatorio de juicio. Al escrito de demanda, se deberán acompañar las pruebas para acreditar las pretensiones, dichas pruebas deberán ser ofrecidas en los términos dispuestos por el artículo 391 de este Código.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+Simultáneamente con el desahucio podrá reclamarse el pago de las rentas vencidas y de las que se sigan venciendo hasta ejecutarse el lanzamiento.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
 
 ###### Artículo 644-B.
 
-Admisión, emplazamiento y contestación de la demanda. presentada la demanda, con el documento o la justificación correspondiente, dictará el auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas y de no hacerlo, se le prevenga para que dentro del término de treinta días naturales si se trata de casa habitación, de sesenta días naturales si sirve para giro mercantil o industrial y de noventa días naturales si fuera rústica proceda a desocuparla apercibido de lanzamiento a su costa si no lo efectúa. Si lo pidiera el actor, en el mismo auto, mandará que se embarguen y depositen bienes bastantes para cubrir las pensiones reclamadas. Mandará que en el mismo acto se le emplace para que dentro de cinco días ocurra a oponer las excepciones que tuviere, corriéndole traslado de la demanda, con entrega de las copias de Ley.
+Admisión, emplazamiento y contestación de la demanda. Presentada la demanda con el documento o las (sic) justificación correspondiente, dictará el auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas y de no hacerlo, se le prevenga que dentro del término de treinta días si se trata de casa habitación, de sesenta días si sirve para giro mercantil o industrial y de noventa días si fuera rustica proceda a desocuparla apercibido del lanzamiento a su costa si no lo efectúa. Si lo pidiere el actor, en el mismo auto, mandará que se embarguen y depositen bienes bastantes para cubrir las pensiones reclamadas. Mandará, para que en el mismo acto se emplace al demandado para que dentro del plazo de cinco días ocurra a contestar la demanda, oponer las excepciones que tuviere, ofreciendo en el mismo escrito, de conformidad con lo dispuesto por el artículo 391 de este Código, las pruebas para acreditarlas, corriéndosele traslado de la demanda, con entrega de las copias de ley.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+Transcurrido el plazo de cinco días, a partir de la fecha del requerimiento y emplazamiento, sin que el arrendatario conteste la demanda, oponga excepciones o siendo inadmisibles las que haga valer, a petición del actor, se dictará sentencia de desahucio en los términos del artículo 644-H, condenando simultáneamente al pago de las rentas vencidas y a las que devenguen hasta la fecha del lanzamiento.
 
-###### Artículo 644-C.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
 
-De la suspensión de la diligencia del juicio. Si en el acto de la diligencia justificare el arrendatario, con el recibo de renta correspondiente, haber hecho el pago de las pensiones reclamadas, o acredite con los escritos de consignación debidamente sellados o exhibiere su importe, se suspenderá la diligencia, asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juzgado. Si se hubiere exhibido el importe se mandará entregar al actor sin más trámites y se dará por terminado el procedimiento. Si se exhibiere el recibo de pago se mandará dar vista al actor por el término de tres días, y si lo objeta, se citará para la audiencia de pruebas y alegatos, a que se refiere el artículo 650 de este Código, y en caso de no objetarla, se dará por concluida la instancia.
+###### Artículo 664-C.
+
+De la suspensión de la diligencia del juicio. Si en el acto de la diligencia justificare el arrendatario, con el recibo de renta correspondiente, haber hecho el pago de las pensiones reclamadas, o acredite con los escritos de consignación debidamente sellados o exhibiere su importe, se suspenderá la diligencia, asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juzgado. Si se hubiere exhibido el importe se mandará entregar al actor sin más trámites y se dará por terminado el procedimiento. Si se exhibiere el recibo de pago se mandará dar vista al actor por el término de tres días y si este lo objeta, previa admisión de las pruebas ofrecidas en la demanda y contestación, se citará para la audiencia de pruebas y alegatos, debiéndose desahogar aquellas que se encuentren debidamente preparadas. La audiencia no se suspenderá ni se diferirá en ningún caso por falta de preparación o desahogo de las pruebas admitidas.
+
+En caso de no objetar los recibos de pago, se dará por concluida la instancia.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -4825,21 +4831,23 @@ De la suspensión de la providencia de lanzamiento. Cuando durante el plazo fija
 
 Irrenunciabilidad. Los beneficios que este capítulo concede a los arrendatarios no son renunciables.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
 
 ###### Artículo 644-F.
 
-Excepciones distintas a las de pago. En caso de que se opongan otras excepciones por el arrendatario distintas a las de pago, se mandará dar vista con ellas al actor, citándose para audiencia de pruebas y alegatos dentro de los diez días siguientes teniendo en cuenta que esta audiencia deba efectuarse antes del vencimiento fijado para el lanzamiento.
+Excepciones distintas a las de pago. En caso de que se opongan excepciones por el arrendatario distintas a las de pago, sólo serán admisibles si se hacen valer ofreciendo sus pruebas; se mandará dar vista con ellas al actor, citándose para audiencia de pruebas y alegatos dentro de los cinco días siguientes teniendo en cuenta que esta audiencia debe efectuarse antes del vencimiento fijado para el lanzamiento.
 
-El juez debe desechar de plano las excepciones diversas a las que el Código Civil conceda al arrendatario para no pagar la renta, siendo éstas inadmisibles si no se ofrecen con sus pruebas correspondientes.
+En esta audiencia, concurran o no las partes, se dictará resolución declarando si el arrendatario ha justificado o no sus excepciones, y si debe procederse o no al lanzamiento.
 
 Son improcedentes la reconvención y la compensación.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
 
 ###### Artículo 644
 
-H (sic). De la sentencia. Si las excepciones fueran declaradas procedentes en la misma resolución, dará el Tribunal por terminada la providencia de lanzamiento, y en caso contrario, en la sentencia señalará el plazo para la desocupación que será el que falte para cumplirse del señalado en el artículo 644-B.
+H (sic).- De la sentencia. Si las excepciones fueran declaradas procedentes, en la misma resolución, dará el Juez por terminada la providencia de lanzamiento, en caso contrario, en la sentencia, se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado en el artículo 644-B. En la misma sentencia se condenará al arrendatario en su caso, a pagar al actor las rentas insolutas vencidas y las que se devenguen hasta que se lleve a cabo el lanzamiento.
+
+La sentencia que decrete el desahucio será apelable en el efecto devolutivo, y podrá ejecutarse sin otorgamiento de garantía. La sentencia que niegue el desahucio, será apelable en el efecto suspensivo.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -4866,6 +4874,12 @@ El arrendatario podrá antes de la diligencia de remate que se celebre respecto 
 ###### Artículo 644.-L.
 
 Del domicilio legal en el juicio. Para la ejecución del desahucio se tiene como domicilio legal del ejecutado la finca o departamento de cuya desocupación se trata.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2008)</small>
+
+###### Artículo 644-M.
+
+Para el caso de inexistencia de disposición expresa o de que la que exista sea imprecisa o insuficiente, en relación con el juicio de desahucio, se aplicarán e interpretarán las reglas establecidas para el juicio especial de arrendamiento.
 
 ### CAPITULO VII. De los interdictos
 
@@ -7677,12 +7691,12 @@ Los juicios que se inicien a partir del día en que entre en vigor este Código 
 
 SEXTO.- Los epígrafes que preceden a los artículos de este Código no tienen valor para su interpretación y no pueden ser citados con respecto al contenido y alcance de las normas civiles.
 
+P.O. 5 DE MARZO DE 2008.
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente.
-
-P.O. 20 DE NOVIEMBRE DE 2009.
+Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
