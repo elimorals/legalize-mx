@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2007-03-31"
+last_updated: "2008-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 31 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 6 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -255,7 +255,7 @@ Los notarios que deseen cambiar su adscripción, concursarán en igualdad de cir
 
 ###### Artículo 25.
 
-El examen se practicará por un jurado que se integrará por tres miembros, fungiendo como presidente el Títular del Poder Ejecutivo o su representante, y los dos restantes serán notarios designados mediante insaculación realizada por el Consejo de Notarios, dentro de la relación de todos los notarios del estado. La insaculación se realizará ante un representante de la Secretaria General de Gobierno.
+El examen se practicará por un jurado que se integrará por tres miembros, fungiendo como presidente el Titular del Poder Ejecutivo o su representante, y los dos restantes serán notarios designados mediante insaculación realizada por el Consejo de Notarios, dentro de la relación de todos los notarios del estado. La insaculación se realizará ante un representante de la Secretaria General de Gobierno.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
@@ -1189,25 +1189,29 @@ Cuando en un instrumento intervenga un representante, éste deberá declarar baj
 
 Cuando se trate de instrumentos que deban inscribirse en alguno de los registros reconocidos por la legislación mexicana, deberá el notario proceder a su presentación en el Registro Público de la Propiedad correspondiente y al pago de los derechos a costa del interesado.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2008)</small>
 
 ###### Artículo 87.
 
-Cuando se pretenda constituir, transmitir o gravar derechos reales sobre bienes inmuebles ubicados en el Estado, el notario, autoridad o titular registral, cumpliendo con los requisitos que señala la Ley del Registro Público de la Propiedad y su Reglamento, presentará aviso cautelar al Registro Público de la propiedad, solicitando se expida un certificado de libertad o gravamen con cautelar inserto, mismo que deberá transcribir en el cuerpo de la escritura respectiva, teniendo una vigencia máxima de 45 días hábiles contados a partir de la fecha de expedición y que deberá referirse a la misma finca, a su titular, a los gravámenes y a las limitaciones de dominio que reporte.
+Cuando se pretenda constituir, transmitir o gravar derechos reales sobre bienes inmuebles ubicados en el estado, el notario insertará certificado de libertad o de gravamen en el instrumento respectivo, dicho certificado tendrá una vigencia máxima de 45 días hábiles contados a partir de la fecha de expedición y deberá referirse a la misma finca, a su titular, a los gravámenes y a las limitaciones de dominio que reporte.
 
-En caso de escrituras sucesivas que se refieran al mismo inmueble, y éstas se encuentren en trámite de registro, se podrán realizar aquéllas con un solo certificado de libertad o gravamen con cautelar inserto, que tenga efectos vigentes, de lo que deberá cerciorarse el notario bajo su responsabilidad.
+En caso de escrituras sucesivas que se refieran al mismo inmueble, se podrán realizar aquellas con un solo certificado de libertad o gravamen, que tenga efectos vigentes, de lo que deberá cerciorarse el notario, bajo su responsabilidad.
 
-No será necesario lo prescrito en los párrafos que anteceden cuando se trate de:
+No será necesario lo prescrito en los párrafos anteriores cuando se trate de:
 
 I. Adjudicaciones en remate judicial o administrativo;
 
 II. Enajenaciones de inmuebles resultantes o que deriven de programas de regularización del suelo y su fraccionamiento, realizadas directamente por los ayuntamientos de la entidad o en asociación con particulares, en los términos estipulados por la Ley de Desarrollo Urbano del Estado de Jalisco;
 
-III. Donaciones; o
+III. Donaciones;
 
-IV. Juicios Sucesorios.
+IV. Juicios Sucesorios;
 
-Cuando se trate de escrituras o instrumentos públicos, celebrados con la participación directa o donde se tenga intervención por los gobiernos federal, estatal o municipal o sus organismos descentralizados, desconcentrados, de seguridad social, en ejecución de programas de fomento para la adquisición o mejoramiento de la vivienda, se insertará el certificado de libertad o de gravamen actualizado, sin necesidad de dar el aviso cautelar mencionado en el párrafo anterior, el cual se agregará al libro de documentos correspondiente. El certificado de libertad o gravamen actualizado no se requerirá en el caso de escrituras o instrumentos públicos en los que intervengan organismos públicos de regularización de tenencia de la tierra.
+V. Cuando el adquirente manifieste su conformidad para prescindir de la inserción del certificado de libertad o gravamen, de lo cual deberá asentarse razón clara y precisa en el instrumento respectivo, o
+
+VI. En el caso de escrituras o instrumentos públicos en los que intervengan organismos públicos de regularización de tenencia de la tierra.
+
+En los casos de contratos onerosos, el enajenante declarará bajo protesta de decir verdad y bajo su responsabilidad, que la situación registral del inmueble coincide con la manifestada en el instrumento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
@@ -2706,3 +2710,7 @@ El Titular del Ejecutivo, a través de la Secretaría General de Gobierno, media
 P.O. 31 DE MARZO DE 2007.
 
 ÚNICO.- El Presente Decreto entrará en vigor el día 1º de abril de 2007, previa publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 6 DE MARZO DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
