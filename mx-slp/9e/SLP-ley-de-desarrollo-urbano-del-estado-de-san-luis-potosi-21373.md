@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2006-09-19"
+last_updated: "2008-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -1725,7 +1725,7 @@ IV. Zonas Típicas: Aquellas áreas que por su aspecto peculiar contienen un nú
 
 V. Lugares de bellezas naturales: Los sitios cuyas características de flora y fauna requieran de conservación y mejoramiento, y
 
-VI. Inventario: El catálogo de los bienes muebles e inmuebles clasificados por su reelevancia (sic) arqueológica, histórica, arquitectónica, artística y natural en el Estado.
+VI. Inventario: El catálogo de los bienes muebles e inmuebles clasificados por su reelevancia (sic)arqueológica, histórica, arquitectónica, artística y natural en el Estado.
 
 ###### ARTICULO 97.
 
@@ -2127,6 +2127,10 @@ La prórroga de los plazos mencionados en el párrafo anterior, deberá solicita
 
 El titular de la licencia de uso de suelo no podrá realizar ampliaciones, diversificación de actividades o cambio de giro industrial, comercial y de servicios, sin que se le haya expedido la nueva licencia.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2008)</small>
+
+Por ningún motivo podrán refrendarse las licencias de uso de suelo, solamente podrán prorrogarse como lo establece este artículo.
+
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 136.
@@ -2181,7 +2185,7 @@ La licencia de uso del suelo señalará, para el respectivo predio, los usos de 
 
 En los casos en que el uso del suelo pueda generar impacto ambiental significativo, o en los casos de actividades riesgosas, el ayuntamiento respectivo, una vez recibida la solicitud para la expedición de la licencia, remitirá sin demora en un plazo máximo de cinco días hábiles, contados a partir de la recepción del documento, la solicitud con sus anexos a la SEGAM y la SEDUVOP, cuando así proceda, para recabar su dictamen técnico sobre el uso solicitado, debiendo dichas autoridades emitirlos en un término improrrogable de diez días hábiles contados a partir de la fecha en que reciban la solicitud correspondiente.
 
-La SEGAM y la SEDUVOP podrán pedir la opinión de otras dependencias y organismos respecto de los eventuales efectos del uso solicitado en la prestación de los servicios públicos, aplicándose en tal caso los plazos establecidos en el párrafo anterior.
+La SEGAM y la SEDUVOP podrán pedir la opinión de otras dependencias y organismos respecto de los eventuales efectos del uso solictado en la prestación de los servicios públicos, aplicándose en tal caso los plazos establecidos en el párrafo anterior.
 
 La licencia de uso del suelo, no faculta a su titular, para iniciar la ejecución de construcción u obra alguna.
 
@@ -2945,9 +2949,9 @@ III. Plano del levantamiento de la poligonal del predio;
 
 IV. Memoria descriptiva del anteproyecto;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2008)</small>
 
-V. Copia de la carta de factibilidad de dotación de agua potable, conforme a lo establecido en el artículo 156 de la Ley de Aguas del Estado de San Luis Potosí, y
+V. Copia del estudio de factibilidad positiva de prestación de servicios de agua potable, conforme a lo establecido en el artículo 158 de la Ley de Aguas para el Estado de San Luis Potosí, y
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2967,21 +2971,35 @@ La autorización de fraccionamientos será otorgada por el Ayuntamiento siempre 
 
 Toda solicitud de autorización de fraccionamiento se presentará por duplicado y deberá ser acompañada por lo menos, según lo especifiquen las respectivas disposiciones reglamentarias, de los documentos que a continuación se mencionan:
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2008)</small>
 
-I. Dictamen de factibilidad del fraccionamiento emitido por la Dirección de Administración Urbana o equivalente; previamente evaluado en forma colegiada por un representante de:
+l. Dictamen del diseño urbano del fraccionamiento, emitido por la Dirección de Administración Urbana o equivalente; previamente evaluado en forma colegiada por un representante de:
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 a) H. cuerpo de bomberos.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 b) Protección civil.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 c) Ingeniería de tránsito municipal o equivalente.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 d) Administración y desarrollo urbano o equivalente.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 e) Organismo operador de agua o equivalente.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 f) Cámara u organismo que represente a los constructores del municipio, que manifieste su interés de participar como testigo de la transparencia y cumplimiento de tiempos y procedimientos.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 Los tiempos máximos de respuesta de cada una de las instancias que participan en la dictaminación colegiada, no podrán ser mayores de quince días hábiles;
 
@@ -3772,3 +3790,9 @@ TERCERO. Los ayuntamientos deberán adecuar sus áreas de administración urbana
 CUARTO. En tanto los ayuntamientos no cuenten con la estructura administrativa adecuada, podrán acordar con la SEDUVOP que se lleve a cabo la asesoría correspondiente.
 
 QUINTO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la Ley de Desarrollo Urbano, y los demás que fueren necesarios con relación a la misma, antes del treinta y uno de mayo del año dos mil siete.
+
+P.O. 6 DE MARZO DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
