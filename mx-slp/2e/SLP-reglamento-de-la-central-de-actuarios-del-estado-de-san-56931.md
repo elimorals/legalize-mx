@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-central-de-actuarios-del-estado-de-san-56931"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-30"
-last_updated: "2007-08-30"
+last_updated: "2008-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA CENTRAL DE ACTUARIOS DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2008.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2007.
 
@@ -241,9 +241,11 @@ XV. Las demás que le confieran las disposiciones reglamentarias, los acuerdos g
 
 ### CAPÍTULO CUARTO. De los Actuarios
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2008)</small>
+
 ###### Artículo 14.
 
-Mientras las necesidades del servicio así lo requieran, a cada uno de los juzgados del Distrito Judicial donde se establezca una extensión de la Central de Actuarios, se asignará un actuario notificador. En el primer Distrito Judicial, se asignará uno para cada juzgado del ramo civil y del ramo familiar.
+Mientras las necesidades del servicio así lo requieran, en los juzgados del Primer Distrito Judicial en materia civil y familiar y en aquellos otros de los distritos en donde se establezca una extensión de la Central de Actuarios, se asignará un actuario o un notificador.
 
 ###### Artículo 15.
 
@@ -460,3 +462,13 @@ Lic. María Manuela García Cázares.
 Secretaria Ejecutiva de pleno y Carrera Judicial del Consejo de la Judicatura.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE MARZO DE 2008.
+
+PRIMERO. Publíquese este Acuerdo General en el Periódico Oficial del Estado.
+
+SEGUNDO. Este Acuerdo General entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
