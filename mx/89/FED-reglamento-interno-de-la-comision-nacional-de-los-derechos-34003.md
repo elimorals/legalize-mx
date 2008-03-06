@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2007-06-28"
+last_updated: "2008-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MARZO DE 2008.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -1943,13 +1943,13 @@ II. La suspensión o la destitución del puesto, serán impuestas por el Titular
 
 III. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será impuesta por el Titular del Organo Interno de Control y ejecutada por el Titular del Organo o Unidad Administrativa de esta Comisión Nacional, a la que esté adscrito el servidor público sancionado, y
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 6 DE MARZO DE 2008)</small>
 
-IV. Las sanciones económicas serán impuestas por el Titular del Organo Interno de Control y ejecutadas por el Director General de Finanzas de la Oficialía Mayor.
+IV. Las sanciones económicas serán impuestas por el titular del Organo Interno de Control y ejecutadas en los términos previstos por el artículo 16 fracción IV y párrafo penúltimo de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2008)</small>
 
-El incumplimiento a lo dispuesto en este artículo por parte del Titular del Organo Interno de Control, del Titular del Area de Responsabilidades, Inconformidades y Normatividad de dicho órgano, del Jefe Inmediato del servidor público sancionado o del Oficial Mayor, será causa de responsabilidad administrativa en los términos de la Ley de la materia.
+El incumplimiento a lo dispuesto en este artículo por parte del Titular del Organo Interno de Control o del Jefe Inmediato, será causa de responsabilidad administrativa en los términos de la ley de la materia.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2007)</small>
 
@@ -2020,3 +2020,9 @@ PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión 
 SEGUNDO. El presente Acuerdo entrará en vigor el día 1 de agosto de 2007, salvo lo establecido en la adición al artículo 61 la cual entrará en vigor al día siguiente de su publicación.
 
 TERCERO. La parte conducente del Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE MARZO DE 2008.
+
+PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
