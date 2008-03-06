@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-regula-la-prestacion-de-servicios-privados-de-12276"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "1998-06-24"
+last_updated: "2008-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY QUE REGULA LA PRESTACION DE SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 6 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el miércoles 24 de junio de 1998.
 
@@ -312,3 +314,19 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 23 de junio de 199
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintitrés días del mes de Junio del año de mil novecientos noventa y ocho.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L. A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. RICARDO A. OCAMPO FERNANDEZ.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MARZO DE 2008.
+
+PRIMERO: La presente Ley entrara en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga la Ley que Regula la Prestación de Servicios Privados de Seguridad en el Estado de Campeche, expedida por decreto número 63 de fecha 24 de julio del año de 1998.
+
+TERCERO: Se abroga el Reglamento de Policía del Estado de Campeche, expedido mediante decreto número 53 de fecha 7 de noviembre del año de 1978.
+
+CUARTO: El Reglamento de la Ley deberá expedirse dentro de los noventa días contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO: Los Ayuntamientos deberán emitir sus Reglamentos y Bandos de Policía en los términos de esta Ley, dentro de los 90 días contados a partir de su entrada en vigor.
+
+SEXTO: Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
