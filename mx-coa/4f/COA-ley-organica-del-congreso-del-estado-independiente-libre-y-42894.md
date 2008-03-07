@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-4289
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-24"
-last_updated: "2005-04-22"
+last_updated: "2008-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de diciembre de 2004.
 
@@ -2926,3 +2928,11 @@ P.O. 22 DE ABRIL DE 2005.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE MARZO DE 2008.
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica del Congreso Independiente, Libre y Soberano de Coahuila de Zaragoza, publicada en el Periódico Oficial el día 24 de diciembre de 2004.
+
+TERCERO. El periodo de cuatro años para los integrantes del Congreso del Estado será aplicable a partir de la renovación a realizarse en el año 2013. En consecuencia y por única ocasión, los diputados electos en el proceso electoral a celebrarse en al año 2008, correspondiente a la Quincuagésima Octava Legislatura, durarán en su encargo el periodo comprendido del 1 de enero de 2009 al 31 de diciembre de 2011 y los diputados electos en el proceso electoral a celebrarse en el año 2011, correspondiente a la Quincuagésima Novena Legislatura, entrarán en su encargo el 1 de enero de 2012 para culminar el día 31 de diciembre de 2013.
