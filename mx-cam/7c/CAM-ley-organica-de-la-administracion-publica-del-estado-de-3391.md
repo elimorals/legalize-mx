@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-3391"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-26"
-last_updated: "2006-12-21"
+last_updated: "2008-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 26 de octubre de 1991.
 
@@ -587,61 +587,53 @@ XVII.- Participar en el marco de sus atribuciones, en las Comisiones Intersecret
 
 XVIII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LE LEY.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2008)</small>
+
 ###### Artículo 22.
 
 La Secretaría de Desarrollo Rural tiene a su cargo:
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
+I. Formular, supervisar, evaluar y controlar los programas de desarrollo agrícola, ganadero, hidráulico, agroindustrial y forestal, así como la atención y solución de los problemas rurales del Estado;
 
-I.- Formular, supervisar, evaluar y controlar los programas de Desarrollo Agrícola, Ganadero, Hidráulico y Agroindustrial, así como la atención y solución de los problemas rurales del Estado;
+II. Promover la redefinición de la relación entre el Estado, los productores del campo y la sociedad rural en general, a partir de los principios de respeto, corresponsabilidad y apoyo a las iniciativas de los productores bajo compromisos compartidos;
 
-II.- Promover la redefinición de la relación entre el Gobierno Estatal, los productores del campo y la sociedad rural en general, a partir de los principios de respeto, corresponsabilidad y apoyo a las iniciativas de los productores bajo compromisos compartidos;
+III. Promover la modernización del sector mediante el apoyo a las iniciativas de los productores y el fomento a la inversión social y privada, mediante una mayor integración en proyectos conjuntos de los diversos sectores sociales;
 
-III.- Promover la modernización del sector mediante el apoyo a las iniciativas de los productores, el fomento a la inversión social y privada y mediante una mayor integración en proyectos conjuntos de los diversos sectores sociales;
+IV. Formular y promover los criterios para la redefinición de la vocación y potencial productivo del sector agropecuario del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
+V. Planear la expansión, mejoramiento y tecnificación de las actividades relacionadas con la producción e industrialización agrícola, ganadera y forestal;
 
-IV.- Formular y proponer los criterios para la redefinición de la vocación y potencial productivo del sector agropecuario en la Entidad;
+VI. Formular, conducir y determinar las políticas y acciones encaminadas a la explotación racional, enriquecimiento, fomento y desarrollo de los recursos agrícolas, pecuarios, forestales y del agua, con la participación que corresponda a otras dependencias y entidades federales, estatales y municipales;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
+VII. Promover el establecimiento y vigilar el funcionamiento de las estaciones que integren el Sistema Meteorológico del Estado;
 
-V.- Planear la expansión, mejoramiento y tecnificación de las actividades relacionadas con la producción e industrialización agrícola y ganadera;
+VIII. Fomentar e inducir proyectos específicos de asociación y coinversión entre los sectores social y privado;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
+IX. Impulsar la organización, asistencia técnica y capacitación de productores, la investigación científica y los programas de sanidad vegetal y animal, todo en coordinación con las autoridades federales, y en su caso, municipales, con apego a las leyes, reglamentos y convenios en vigor;
 
-VI.- Participar en la determinación de políticas y acciones encaminadas a la explotación racional y a la conservación y enriquecimiento de los recursos agrícolas, pecuarios y del agua;
+X. Realizar, con la participación que corresponda a la Secretaría de Ecología, estudios y proyectos de construcción y reconstrucción de la infraestructura hidráulica estatal para el fomento de las actividades agropecuarias y realizar, directamente o por contrato, las obras correspondientes;
 
-VII.- Promover el establecimiento y vigilar el funcionamiento de las estaciones que integren el sistema meteorológico del Estado;
+XI. Apoyar la comercialización de productos agropecuarios y avícolas y ofrecer a los productores servicios de información sobre mercados y precios y de orientación sobre procedimientos administrativos para la comercialización y la exportación;
 
-VIII.- Fomentar e inducir proyectos específicos de asociación y coinversión entre los sectores social y privado;
+XII. Apoyar la suficiente y oportuna distribución, dotación y venta de insumos que se requieran para eficientar la producción rural;
 
-IX.- Impulsar la organización de productores, la capacitación y asistencia técnica, la investigación científica y los programas de sanidad vegetal y animal, todo en coordinación con las autoridades federales y en apego a las leyes, reglamentos y convenios en vigor;
+XIII. Promover y apoyar, ante las autoridades competentes, el otorgamiento de crédito, financiamiento y aseguramiento de proyectos productivos, mediante el establecimiento y operación de instrumentos jurídicos y económicos, así como el otorgamiento de los estímulos fiscales necesarios para el óptimo aprovechamiento y desarrollo sustentable agrícola, ganadero y forestal, así como promover y gestionar, en coordinación con las autoridades federales competentes, el flujo de recursos financieros de organismos internacionales hacia proyectos que apoyen el desarrollo del sector rural en el Estado;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
+XIV. Administrar la maquinaria y equipo agrícola de la propiedad o en posesión del Estado; realizar obras de desarrollo rural y proporcionar servicios de preparación de tierras para su explotación agrícola y pecuaria;
 
-X.- Con la participación que corresponda a la Secretaría de Ecología, realizar estudios y proyectos de construcción y reconstrucción de la infraestructura hidráulica para el fomento de las actividades agropecuarias y realizar directamente o por contrato las obras correspondientes;
+XV. Promover y organizar congresos, foros, ferias, exposiciones y concursos agrícolas, ganaderos, agroindustriales y forestales en el Estado y participar en eventos similares de carácter nacional e internacional;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
+XVI. Participar, en coordinación con la Secretaría de Ecología, en la conservación de los suelos agrícolas, pastizales y bosques, mediante la aplicación de técnicas y procedimientos conducentes y, en lo general, coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios;
 
-XI.- Apoyar la comercialización de productos agropecuarios y apícolas, y ofrecer a los productores servicios de información sobre mercados y precios, y de orientación sobre procedimientos administrativos para la comercialización y la exportación;
+XVII. Elaborar y aplicar los programas productivos forestales; promover e impulsar la creación y tecnificación de viveros forestales, así como la reforestación y el establecimiento de plantaciones forestales comerciales, en coordinación con otras dependencias y entidades federales, estatales, y municipales;
 
-XII.- Apoyar la suficiente y oportuna distribución, dotación y venta de insumos que se requiera para eficientar la producción;
+XVIII. Coadyuvar con las autoridades competentes en la realización de los censos de predios forestales y silvopastoriles y de sus productos, así como en el levantamiento, organización y manejo de la cartografía y estadística forestal del Estado;
 
-XIII.- Promover y apoyar el crédito, financiamiento y aseguramiento de proyectos productivos, y promover y gestionar, en coordinación con las autoridades federales competentes, el flujo de recursos financieros de organismos internacionales hacia proyectos que apoyen el desarrollo del sector en la entidad;
+XIX. Celebrar convenios y acuerdos de coordinación y los demás instrumentos jurídicos idóneos y necesarios con la Federación, para poder llevar a cabo el desarrollo de las funciones que en materia de desarrollo forestal sustentable, pueda asumir el Estado, con la participación, en su caso, de los Municipios y de otras dependencias y entidades estatales, según corresponda, en términos de lo establecido en la Ley General de Desarrollo Forestal Sustentable; y
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XIV.- Administrar la maquinaria y equipo agrícola del Gobierno del Estado, y realizar obras de desarrollo rural y proporcionar servicios de preparación de tierras para su explotación agrícola y pecuaria;
-
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XV.- Promover y organizar Congresos, Ferias, Exposiciones y Concursos Agrícolas, Ganaderos y Agroindustriales en el Estado y participar en eventos similares de carácter Nacional e Internacional;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
-XVI.- Participar, junto con la Secretaría de Ecología, en la elaboración y aplicación de programas productivos forestales y en la promoción de plantaciones forestales, así como en la conservación de los suelos agrícolas, pastizales y bosques, mediante la aplicación de las técnicas y procedimientos conducentes; y, en lo general, coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios en la entidad; y
-
-XVII.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -681,65 +673,59 @@ XV.- Coordinarse con las instituciones de enseñanza e investigación locales y 
 
 XVI.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LE LEY.</small>
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2008)</small>
 
 ###### Artículo 24.
 
 La Secretaría de Ecología tiene a su cargo:
 
-I.- Fomentar la protección, restauración y conservación de los ecosistemas, recursos naturales y bienes y servicios ambientales en el Estado, con el fin de propiciar su aprovechamiento y desarrollo sustentable;
+I. Fomentar la protección, restauración y conservación de los ecosistemas, recursos naturales y bienes y servicios ambientales en el Estado, con el fin de propiciar su aprovechamiento y desarrollo sustentable;
 
-II.- Formular y conducir la política estatal en materia de recursos naturales, así como en materia de ecología, saneamiento ambiental, regulación ambiental del desarrollo urbano, con la participación que corresponda a otras Dependencias del Estado y de los Municipios;
+II. Formular y conducir la política estatal en materia de recursos naturales, así como en materia de ecología, saneamiento ambiental y regulación ambiental del desarrollo urbano, con la participación que corresponda a otras dependencias y entidades federales, estatales y municipales;
 
-III.- Administrar, regular el uso y promover el aprovechamiento sustentable de los recursos naturales que correspondan al Estado;
+III. Administrar, regular el uso y promover el aprovechamiento sustentable de los recursos naturales que correspondan al Estado, en coordinación con la dependencia y entidades federales, estatales y municipales correspondientes;
 
-IV.- Establecer, con la participación que corresponda a otras dependencias y a las autoridades municipales, los criterios ecológicos particulares sobre la preservación y restauración de la calidad del medio ambiente, sobre los ecosistemas naturales, sobre el aprovechamiento sustentable de los recursos naturales y sobre descargas de aguas residuales;
+IV. Establecer, con la participación que corresponda a otras dependencias y entidades federales, estatales y municipales, los criterios ecológicos particulares sobre la preservación y restauración de la calidad del medio ambiente, sobre los ecosistemas naturales, sobre el aprovechamiento sustentable de los recursos naturales y sobre descargas de aguas residuales;
 
-V.- Promover ante las autoridades competentes, el establecimiento y adopción de instrumentos jurídicos y económicos, así como de estímulos fiscales y financieros, necesarios para la protección, restauración, desarrollo y aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
+V. Promover ante las autoridades competentes el establecimiento y adopción de instrumentos jurídicos y económicos, así como el otorgamiento de los estímulos fiscales y financieros necesarios para la protección, restauración, desarrollo y aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente, en coordinación con las dependencias o entidades federales, estatales y municipales correspondientes;
 
-> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+VI. Celebrar convenios y acuerdos de coordinación y los demás instrumentos jurídicos que sean necesarios con la Federación, con el objeto de asumir y llevar a cabo la descentralización de funciones y recursos para realizar obras y actividades que en materia de conservación de los ecosistemas y medio ambiente establecen la Ley General de Desarrollo Forestal Sustentable;
 
-V-Bis.- Celebrar con la Federación el o los instrumentos jurídicos con el objeto de llevar a cabo la descentralización de funciones y recursos para realizar obras o actividades de competencia federal;
+VII. Vigilar y estimular el cumplimiento de las leyes, normas y programas relacionados con recursos naturales y medio ambiente y, en su caso, imponer las sanciones que procedan dentro del ámbito de su competencia legal;
 
-> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+VIII. Proponer el establecimiento de áreas naturales protegidas y promover para su organización, administración y vigilancia, la participación de otras dependencias y entidades federales, estatales y municipales, así como de las instituciones de educación superior, centros de investigación y particulares;
 
-V-Ter.- Coordinarse con la Federación para llevar a cabo las acciones y funciones en materia forestal, en cumplimiento a lo previsto en la Ley Forestal para el desarrollo, cuando proceda, de programas forestales;
+IX. Coadyuvar con las dependencias y entidades federales, en los términos que dispongan las leyes y reglamentos aplicables, en todo lo relativo a playas, zona federal marítimo-terrestre y terrenos ganados al mar y proponer el aprovechamiento de salinas ubicadas en terrenos propiedad de la Federación y de las formadas directamente por las aguas del mar;
 
-VI.- Vigilar y estimular el cumplimiento de las Leyes, Normas y Programas relacionados con Recursos Naturales y Medio Ambiente, y en su caso imponer las sanciones que procedan, dentro del ámbito de su competencia legal;
+X. Intervenir en foros nacionales e internacionales respecto de las materias de su competencia;
 
-VII.- Proponer el establecimiento de áreas naturales protegidas y promover, para su organización, administración y vigilancia, la participación de autoridades estatales y municipales, así como de instituciones de Educación Superior, Centros de Investigación y particulares;
+XI. Promover el ordenamiento ecológico del territorio estatal en coordinación con las dependencias y entidades federales, estatales y municipales correspondientes, con la participación de particulares;
 
-VIII.- Coadyuvar con las autoridades federales en materia de posesión y propiedad de la Nación en las playas, zona federal marítimo-terrestre y terrenos ganados al mar; y proponer el aprovechamiento de salinas ubicadas en terrenos de Propiedad Nacional y de las formadas directamente por las aguas del mar;
+XII. Evaluar y dictaminar las manifestaciones de impacto ambiental de competencia estatal sobre proyectos de desarrollo que le presenten los sectores público, social y privado y resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
 
-IX.- Intervenir en Foros Nacionales e Internacionales respecto de las materias de su competencia;
+XIII. Promover y difundir las tecnologías y formas de uso requeridas para el aprovechamiento sustentable de los ecosistemas y de la calidad ambiental de los procesos productivos, de los servicios y del transporte;
 
-X.- Promover el ordenamiento ecológico del territorio estatal, en coordinación con las autoridades federales, estatales y municipales, según corresponda, y con la participación de los particulares;
+XIV. Fomentar y realizar programas de restauración ecológica, en cooperación con las dependencias y entidades federales, estatales y municipales correspondientes;
 
-XI.- Evaluar y dictaminar las manifestaciones de impacto ambiental de competencia estatal sobre proyectos de desarrollo que le presenten los sectores Público, Social y Privado; y resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
+XV. Establecer y promover un sistema de información ambiental estatal en coordinación con las dependencias y entidades federales, estatales y municipales e instituciones de investigación y de educación superior que corresponda;
 
-XII.- Promover y difundir las tecnologías y formas de uso requeridas para el aprovechamiento sustentable de los ecosistemas y de la calidad ambiental de los procesos productivos, de los servicios y del transporte;
+XVI. Promover el uso de metodologías y procedimientos de evaluación económica del capital natural, así como de los bienes y servicios que al respecto el Estado presta;
 
-XIII.- Fomentar y realizar programas de restauración ecológica, en cooperación con las autoridades federales, estatales y municipales;
+XVII. Promover la conservación de los suelos en la Entidad y fomentar la aplicación de las técnicas y procedimientos adecuados, en coordinación con otras dependencias y entidades federales, estatales y municipales, con la participación de los sectores social y privado;
 
-XIV.- Establecer y promover un sistema de información ambiental estatal, en coordinación con las autoridades federales, estatales y municipales, e instituciones de investigación y de educación superior;
+XVIII. Promover la participación social y de la comunidad científica en la formulación, aplicación y vigilancia de la política ambiental, así como concertar acciones e inversiones con los sectores social y privado para la protección y restauración del ambiente;
 
-XV.- Promover en el Estado metodologías y procedimientos de valuación económica del capital natural, así como de los bienes y servicios que éste presta;
+XIX. Coadyuvar en la aplicación de las restricciones que establezcan las disposiciones legales y reglamentarias aplicables sobre la circulación o tránsito sobre el territorio estatal de especies de la flora o fauna silvestres, así como proponer ante la autoridad competente medidas de restricción con relación a ese fenómeno, cuando se requieran para su conservación o aprovechamiento;
 
-XVI.- Proponer la creación de las plantaciones forestales y viveros, por sí o en cooperación con los gobiernos federales y municipales o con particulares; promover la conservación de los suelos de la Entidad y fomentar la aplicación de las técnicas y procedimientos adecuados en coordinación con las autoridades federales y municipales, y con la participación de los sectores social y privado;
+XX. Coordinar, concertar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el aprovechamiento sustentable de recursos naturales; estimular con la participación de organismos de los diversos niveles educativos, culturales y los medios de comunicación masiva, la conservación de nuestro patrimonio natural y promover la formación de especialistas y la investigación científica y tecnológica en la materia;
 
-XVII.- Promover la participación social y de la comunidad científica en la formulación, aplicación y vigilancia de la política ambiental, así como concertar acciones e inversiones con los sectores social y privado para la protección y restauración del ambiente;
+XXI. Proponer a la Federación el aprovechamiento de la cuenca hidráulica, vasos, manantiales y aguas de propiedad nacional y de las zonas federales correspondientes;
 
-XVIII.- Coadyuvar con las autoridades competentes en la realización de censos de predios forestales y silvopastoriles y de sus productos; y en el levantamiento, organización y manejo de la cartografía y estadística forestal del Estado;
+XXII. Proponer medidas de conservación de las corrientes y lagunas y la protección de cuencas alimentadoras y obras de corrección torrencial; y
 
-XIX.- Coadyuvar en la aplicación de las restricciones que establezcan las disposiciones aplicables sobre la circulación o tránsito por el territorio estatal de especies de la flora o fauna silvestres, así como proponer ante la autoridad competente medidas de restricción a este tránsito, cuando se requiera para su conservación o aprovechamiento;
-
-XX.- Coordinar, concertar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el aprovechamiento sustentable de recursos naturales; estimular con la participación de los organismos de los diversos niveles educativos, culturales y los medios de comunicación masiva, la conservación de nuestro patrimonio natural y promover la formación de especialistas y la investigación científica y tecnológica en la materia;
-
-XXI.- Proponer a la Federación el aprovechamiento de cuencas hidráulicas, vasos, manantiales y aguas de Propiedad Nacional y de las zonas federales correspondientes;
-
-XXII.- Promover medidas de conservación de las corrientes y lagunas, y la protección de cuencas alimentadoras y obras de corrección torrencial; y
-
-XXIII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+XXIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 25.
 
@@ -1142,3 +1128,13 @@ Se transfieren al organismo descentralizado creado por este Decreto todos los bi
 ###### ARTÍCULO QUINTO.
 
 Se autoriza al Ejecutivo del Estado por conducto de su Secretario de Finanzas y Administración y, a los Municipios por conducto de sus presidentes y secretarios de sus respectivos Ayuntamientos a celebrar Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos, para que los Municipios efectúen la administración del Impuesto Sobre Nóminas que éstos mismos causen.
+
+P.O. 7 DE MARZO DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor el día 1 de enero del año 2009, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- El Ejecutivo del Estado, deberá tomar las previsiones necesarias en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, a fin de proveer de los recursos económicos, materiales y humanos, a las dependencias y entidades correspondientes, para efecto de que cumplan las atribuciones otorgadas por esta Ley.
+
+CUARTO.- El Ejecutivo del Estado, tendrá un término de ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, para expedir su Reglamento.
