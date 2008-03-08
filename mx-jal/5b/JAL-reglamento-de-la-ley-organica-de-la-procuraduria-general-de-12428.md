@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-124
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2005-10-22"
+last_updated: "2008-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2008.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -61,113 +61,133 @@ III. Subprocuraduría de Concertación Social “C”;
 
 IV. Subprocuraduría de Control de Procesos;
 
-V. Contraloría Interna;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-VI. Coordinación General de Asesores;
+V. Subprocuraduría de Apoyo a la Investigación de Delitos Federales;
 
-VII. Coordinación General Administrativa;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-VIII. Coordinación General de Agentes del Ministerio Público Auxiliares del Procurador;
+VI. Contraloría Interna;
 
-IX. Coordinación General de Atención a Víctimas del Delito y Servicios a la Comunidad;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-X. Coordinación General Jurídica;
+VII. Coordinación General de Asesores;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XI. Coordinación General de la Policía Investigadora;
+VIII. Coordinación General Administrativa;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XII. Visitaduría;
+IX. Coordinación General de Agentes del Ministerio Público Auxiliares del Procurador;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XIII. División para la Atención de Delitos contra la Libertad y Seguridad de las Personas;
+X. Coordinación General de Atención a Víctimas del Delito y Servicios a la Comunidad;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XIV. División para la Atención a Delitos Organizados;
+XI. Coordinación General Jurídica;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XV. División para la Atención a Delitos Violentos;
+XII. Coordinación General de la Policía Investigadora;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XVI. División para Asuntos Especiales;
+XIII. Visitaduría;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XVII. División de Averiguaciones Previas y Coordinación Metropolitana;
+XIV. División para la Atención de Delitos contra la Libertad y Seguridad de las Personas;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XVIII. División para Delitos Patrimoniales Contra Instituciones Financieras;
+XV. División para la Atención a Delitos Organizados;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XIX. División de Control de Procesos para Delitos Patrimoniales no Violentos;
+XVI. División para la Atención a Delitos Violentos;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XX. División para Delitos Patrimoniales Contra Personas;
+XVII. División para Asuntos Especiales;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXI. División de Control de Procesos Especializados;
+XVIII. División de Averiguaciones Previas y Coordinación Metropolitana;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXII. División de Control de Procesos no Especializados y Justicia de Paz;
+XIX. División para Delitos Patrimoniales Contra Instituciones Financieras;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXIII. División de Cumplimiento de Mandamientos Judiciales;
+XX. División de Control de Procesos para Delitos Patrimoniales no Violentos;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXIV. Dirección Consultiva y Legislativa;
+XXI. División para Delitos Patrimoniales Contra Personas;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXV. Dirección de Estadística sobre Actuación del Ministerio Público y Procedimiento Penal;
+XXII. División de Control de Procesos Especializados;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXVI. Dirección de Supervisión de Derechos Humanos;
+XXIII. División de Control de Procesos no Especializados y Justicia de Paz;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXVII. Dirección de Recursos Financieros;
+XXIV. División de Cumplimiento de Mandamientos Judiciales;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXVIII. Dirección de Recursos Humanos;
+XXV. División de Apoyo a la Investigación de Delitos Federales;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXIX. Dirección de Recursos Materiales y Servicios Generales;
+XXVI. Dirección Consultiva y Legislativa;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXX. Dirección de Informática;
+XXVII. Dirección de Estadística sobre Actuación del Ministerio Público y Procedimiento Penal;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXXI. Dirección de Atención a Víctimas del Delito;
+XXVIII. Dirección de Supervisión de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXXII. Dirección de Servicios a la Comunidad;
+XXIX. Dirección de Recursos Financieros;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXXIII. Dirección de Comunicación Social;
+XXX. Dirección de Recursos Humanos;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
 
-XXIV. Organos Desconcentrados:
+XXXI. Dirección de Recursos Materiales y Servicios Generales;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
+
+XXXII. Dirección de Informática;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
+
+XXXIII. Dirección de Atención a Víctimas del Delito;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2008)</small>
+
+XXXIV. Dirección de Servicios a la Comunidad;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2008)</small>
+
+XXXV. Dirección de Comunicación Social; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2008)</small>
+
+XXXVI. Organos Desconcentrados:
 
 a) Delegaciones Regionales;
 
@@ -671,9 +691,11 @@ XI. Las demás que le señalen las disposiciones aplicables y las que le confier
 
 ### CAPITULO XII. De las Divisiones de Investigación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2008)</small>
+
 ###### Artículo 18.
 
-Al frente de cada una de las Divisiones, de Averiguaciones Previas y Coordinación Metropolitana; de Asuntos Especiales; de Delitos Patrimoniales Contra instituciones Financieras, para Delitos Patrimoniales contra Personas, para la Atención de los Delitos contra la libertad y seguridad de las personas, para Atención de Delitos Organizados, para la Atención a Delitos Violentos, de Control de Procesos para Delitos Patrimoniales no Violentos, de Control de Procesos Especializados, de Control de Procesos no Especializados y Justicia de Paz y de Cumplimiento de Mandamientos Judiciales, habrá un jefe de división, quienes ejercerán por sí o a través de los agentes del Ministerio Público que le estén adscritos, de conformidad con lo establecido en el presente Reglamento, en los acuerdos que para tal efecto emita el Procurador o en otras disposiciones jurídicas aplicables, las siguientes atribuciones:
+Al frente de cada una de las Divisiones de Averiguaciones Previas y Coordinación Metropolitana, para Asuntos Especiales, para Delitos Patrimoniales contra Instituciones Financieras, para Delitos Patrimoniales contra Personas, para la Atención de Delitos contra la Libertad y Seguridad de las Personas, para la Atención de Delitos Organizados, para la Atención a Delitos Violentos, de Control de Procesos para Delitos Patrimoniales no Violentos, de Control de Procesos Especializados, de Control de Procesos no Especializados, Justicia de Paz y de Cumplimiento de Mandamientos Judiciales y de Apoyo a la Investigación de Delitos Federales, habrá un jefe de división, quienes ejercerán por sí o a través de los agentes del Ministerio Público que le estén adscritos, de conformidad con lo establecido en el presente Reglamento, en los acuerdos que para tal efecto emita el Procurador o en otras disposiciones jurídicas aplicables, las siguientes atribuciones:
 
 I. Recibir denuncias, acusaciones o querellas sobre acciones u omisiones que puedan constituir delitos;
 
@@ -1322,3 +1344,9 @@ TERCERO.- Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega e
 CUARTO.- Se deroga el acuerdo ACU/SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
 
 QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+P.O. 8 DE MARZO DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Las Secretarías de Finanzas y de Administración deberán realizar las adecuaciones presupuestales y administrativas necesarias para dar cumplimiento al presente Acuerdo, de conformidad con lo establecido en la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco y el presupuesto de egresos vigente.
