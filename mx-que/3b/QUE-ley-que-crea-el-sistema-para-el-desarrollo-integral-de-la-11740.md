@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-sistema-para-el-desarrollo-integral-de-la-11740
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2006-09-15"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1985.
 
@@ -163,6 +163,10 @@ Los bienes que adquiera el Patronato serán propiedad del Sistema y los administ
 
 Los integrantes del Patronato en ningún caso podrán percibir retribución, honorarios, emolumentos, gratificaciones, o prestación o remuneración en especie o dinero.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+Lo dispuesto en el párrafo anterior, será aplicable a los integrantes de los Patronatos de cualquier organismo público que tenga como función brindar asistencia social y realizar actividades encaminadas al desarrollo integral de la familia.
+
 ### CAPITULO V. DE LA JUNTA DIRECTIVA
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
@@ -249,87 +253,213 @@ XIV.- Las demás que le asigne esta Ley.
 
 ### CAPITULO VII. DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 17.
 
-Son facultades y obligaciones de la Procuraduría de la Defensa del Menor y la Familia:
+La Procuraduría de la Defensa del Menor y la Familia se integra por:
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+I.- Un Procurador, que será el titular de la Procuraduría;
 
-I.- Proporcionar orientación y Asistencia Jurídica a las personas de escasos recursos en materia de derecho familiar. Dando seguimiento a los pleitos judiciales, para en caso de irregularidades, iniciar o reiniciar las actividades procesales conducentes.
+II.- Un Sub-Procurador;
 
-> <small>(REFORMADA P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+III.- Un Coordinador de Asistencia Jurídica a Población Vulnerable;
 
-II.- Actuar con interés jurídico ante las Autoridades y Tribunales competentes, cuando discrecionalmente considere afectados los derechos de menores, mayores incapaces, ancianos, minusválidos, y mujeres en periodos de gestación o lactancia, en estado de abandono o marginación y víctimas de maltrato, respetando siempre las atribuciones y funciones que las Leyes encomiendan a otras Autoridades.
+IV.- Un Coordinador de Asistencia Jurídica a Casas Hogar;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+V.- Un Coordinador del Programa de Prevención del Maltrato Infantil;
 
-III.- Proporcionar rehabilitación y asistencia social en los términos que establece la Ley de Justicias para Menores para el Estado de Querétaro, a las personas menores de doce años que hayan realizado una conducta tipificada como delito por las leyes del Estado.
+VI.- Un Coordinador de Hogares de Protección Infantil; y
 
-IV.- Representar legalmente a los menores, en materia de derecho familiar, sin que sea necesario el otorgamiento de poder de parte de quién ejerza la patria potestad, la tutela o custodia.
+VII.- El personal que señale el Reglamento Interno.
 
-V.- Promover todo juicio tendiente a lograr la adopción de menores que están bajo tutela y custodia del Instituto de Desarrollo Estatal para la Acción Social.
+Los servidores públicos mencionados en el presente artículo, son considerados personal de confianza y sus funciones se establecerán en el Reglamento Interno que para la Procuraduría de la Defensa del Menor y la Familia apruebe la Junta Directiva.
 
-VI.- Emitir opinión cuando se le solicite, de todo asunto legal, relacionado con el Instituto de Desarrollo Estatal para la acción social.
-
-VII.- Las demás que establezca la Ley.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 18.
 
-El Director Administrativo es el encargado de vigilar el patrimonio del Sistema y su correcto destino.
+El Procurador de la Defensa del Menor y la Familia será nombrado y removido conforme a la presente Ley.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 19.
 
-El Director Administrativo será designado y removido discrecionalmente por el C. Gobernador Constitucional del Estado.
+Independientemente de lo dispuesto en el artículo 16 fracción VI de la presente Ley, el Sub-Procurador, los Coordinadores, Jefes de Departamento y demás personal administrativo, serán nombrados y removidos por el Director General del Sistema Estatal, a propuesta del Procurador de la Defensa del Menor y la Familia.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 20.
 
-Son facultades y obligaciones del Director Administrativo:
+Para ser Procurador de la Defensa del Menor y la Familia se requiere:
 
-I.- Vigilar la Administración de los recursos financieros y que el funcionamiento del Sistema Estatal se realice de acuerdo con esta Ley.
+I.- Ser mexicano por nacimiento;
 
-II.- Proponer a la Junta Directiva y al Director General las políticas y procedimientos de contabilidad más adecuados a las necesidades del Sistema.
+II.- Contar con Título de Licenciado en Derecho debidamente registrado y contar como mínimo con tres años de ejercicio profesional y tener experiencia en el área de derecho familiar;
 
-III.- Recomendar a la Junta Directiva y al Director General del Sistema Estatal las medidas que estime convenientes para el mejor uso y destino de los bienes del Sistema.
+III.- Ser mayor de treinta años; y
 
-IV.- Asistir a las sesiones del Patronato y Junta Directiva.
+IV.- No haber sido condenado por delito doloso que amerite pena privativa de la libertad.
 
-V.- Las demás que le asigne la Ley.
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 21.
 
-Los Ayuntamientos vigilarán y se encargarán de que todos los sistemas municipales para el Desarrollo Integral de la Familia se organicen y estructuren conforme al Sistema Estatal. Asimismo los integrantes del Patronato en ningún caso podrán percibir retribución, honorarios, emolumentos, gratificaciones, o prestación o remuneración en especie o dinero.
+Para ser Sub-Procurador se requiere:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+I.- Ser mexicano por nacimiento;
+
+II.- Contar con Título de Licenciado en Derecho debidamente registrado y contar como mínimo con tres años de ejercicio profesional y tener experiencia en el área de derecho familiar;
+
+III.- Ser mayor de veinticinco años; y
+
+IV.- No haber sido condenado por delito doloso que amerite pena privativa de la libertad.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 22.
 
-Los Ayuntamientos respetando las normas y lineamientos de los Sistemas Nacional y Estatal, en las actas de las sesiones de Cabildo en que aprueben la creación de los Sistemas Municipales, deberán hacer constar:
+Es competencia de la Procuraduría de la Defensa del Menor y la Familia:
 
-A).- Los objetivos que en materia de asistencia social se fije el Ayuntamiento.
+I.- Proporcionar orientación y asesoría jurídica en materia de derecho familiar a personas en situación vulnerable;
 
-B).- Los Órganos del Sistema Municipal que lo integren, sus facultades y obligaciones.
+II.- Actuar con interés jurídico ante las autoridades y tribunales competentes, cuando considere afectados los derechos de menores o incapaces declarados judicialmente, cuando sean víctimas de violencia, respetando siempre las atribuciones y funciones que las leyes encomiendan a otras autoridades;
 
-C).- Los bienes que integran el Patrimonio del Sistema.
+III.- Representar legalmente a los menores en materia de derecho familiar, sin que sea necesario el otorgamiento de poder de parte de quien ejerza la patria potestad, la tutela o custodia;
 
-D).- Las facultades que se concede a los Sistemas Municipales para que celebren convenios con el Sistema Estatal y con las Instituciones Públicas o Privadas, que auxilien a los Municipios en sus objetivos.
+IV.- Promover todo proceso administrativo y judicial tendiente a lograr la adopción plena de menores puestos a su disposición con situación jurídica resuelta y la adopción entre particulares;
+
+V.- Actuar como tercero coadyuvante ante el Ministerio Público y autoridades jurisdiccionales, en asuntos de menores puestos a su disposición;
+
+VI.- Atender y prevenir la violencia familiar en coordinación con las instituciones y autoridades públicas y privadas, organismos gubernamentales y no gubernamentales, de acuerdo a sus posibilidades y recursos, conforme a las atribuciones que le confiere la ley de la materia en el Estado de Querétaro;
+
+VII.- Coordinar y apoyar las actividades de las Procuradurías de la Defensa del Menor y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales, tendientes al mejoramiento del menor y la familia, con base en los convenios que en su caso celebren las autoridades municipales competentes con el Sistema Estatal;
+
+VIII.- Solicitar ante las autoridades en materia de salud y educativas que los menores albergados o puestos a disposición de la Procuraduría de la Defensa del Menor y la Familia, reciban atención médica y educación para lograr su integración social, así como vigilar que quienes tengan a su cargo el ejercicio de la patria potestad o tutela de un menor cumplan con esa obligación;
+
+IX.- Procurar el sano desarrollo de los menores que se encuentren bajo la tutela o custodia provisional y definitiva de la Procuraduría de la Defensa del Menor y la Familia, en coordinación con otras dependencias públicas y privadas en sus respectivas competencias, en busca y protección del interés superior del menor;
+
+X.- Defender el interés jurídico de los menores e incapaces declarados judicialmente ante las autoridades administrativas y judiciales;
+
+XI.- Velar por que los menores que se encuentren en situación de desamparo, maltratados o sean víctimas de violencia familiar, obtengan, provisional o definitivamente un hogar seguro;
+
+XII.- Girar citatorios, oficios y realizar las gestiones necesarias para cumplir sus funciones, así como para constatar el abandono de menores o localizar a los familiares de los menores en situación de desamparo;
+
+XIII.- Autorizar, suspender o negar, de manera provisional, las convivencias o reintegración de los menores, una vez que se cuente con los elementos jurídicos, médicos y psicológicos para garantizar el sano desarrollo del infante, respecto a menores puestos a su disposición, hasta en tanto exista determinación judicial al respecto;
+
+XIV.- Intervenir y decidir sobre todas las cuestiones relativas a los menores albergados, respecto de sus necesidades, en especial en salud y educación, debiendo acatar los albergues las indicaciones que en base al interés superior del menor y su sano desarrollo determine la Procuraduría;
+
+XV.- Determinar provisionalmente el lugar donde deberán permanecer los menores en situación vulnerable o puestos a su disposición, dejando a salvo los derechos de los interesados;
+
+XVI.- Procurar la conciliación de los interesados en los asuntos de su competencia, exhortándolos a resolver sus diferencias mediante convenio, el cual será vinculatorio y exigible para las partes siempre y cuando sea ratificado ante la autoridad judicial competente.
+
+Este procedimiento no es requisito previo para el ejercicio de cualquier acción judicial. La conciliación no se promoverá cuando exista riesgo grave para la integridad física o psicológica de los involucrados, particularmente en los casos de violencia familiar;
+
+XVII.- Emplear, para hacer cumplir sus determinaciones, cualesquiera de las sanciones y/o medios de apremio que establece la Ley de Procedimientos Administrativos para el Estado y Municipios;
+
+XVIIl.- Gestionar, en su caso, ante el Oficial del Registro Civil o en Coordinación con la Dirección del Registro Civil del Estado de Querétaro, la obtención del acta de nacimiento de menores abandonados o expósitos o aquellos que no cuenten con acta, conforme a los lineamientos del Código Civil del Estado de Querétaro y disposiciones administrativas vigentes;
+
+XIX.- Emitir dictamen que determine las condiciones de ingreso y estado en que se encuentra el menor albergado o puesto a su disposición respecto a su condición física, emocional y social;
+
+XX.- Realizar la búsqueda exhaustiva por medio de las investigaciones institucionales, de las personas que ejerzan Patria Potestad sobre los menores albergados o puestos a su disposición, con la finalidad de expedir la constancia de inexistencia de domicilio en el Estado; y
+
+XXI.- Las demás que le asigne la Ley y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 23.
 
-Los Ayuntamientos deberán incluir en su Presupuesto anual de Egresos, la Partida destinada a los Servicios de Asistencia Social.
+El Procurador de la Defensa del Menor y la Familia tendrá las siguientes atribuciones:
+
+I.- Ejercer las funciones que deriven de la competencia de la Procuraduría de la Defensa del Menor y la Familia, mismas que podrá delegar a sus subordinados;
+
+II.- Coordinar las actividades de la Procuraduría de la Defensa del Menor y la Familia;
+
+III.- Proponer a la Junta Directiva para su aprobación, a través del Director General, el Reglamento Interno de la Procuraduría;
+
+IV.- Expedir y autorizar copias certificadas de los documentos y constancias que emita la. Procuraduría de la Defensa del Menor y la Familia del Estado en ejercicio de sus funciones, previo requerimiento judicial o de las partes que acrediten el interés jurídico; y (sic)
+
+V.- Otorgar mandato judicial a los servidores públicos que determine, en los términos de las leyes aplicables;
+
+VI.- Las demás que se desprendan de la Ley y las que le señalen el Director General o la Junta Directiva.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 24.
 
-Las relaciones de trabajo entre el Sistema Estatal para el Desarrollo Integral de la Familia y sus trabajadores, se regirán por la Ley y el Convenio laboral que suscriben el Gobierno del Estado y el Sindicato de Trabajadores al Servicio de los Poderes del Estado de Querétaro.
+El Sub-Procurador de la Defensa del Menor y la Familia tendrá las siguientes atribuciones:
+
+I.- Auxiliar al Procurador de la Defensa del Menor y la Familia en el ejercicio de sus funciones, así como intervenir en los procedimientos judiciales y administrativos que le sean encomendados;
+
+II.- Supervisar el cumplimiento de las determinaciones de la Procuraduría de la Defensa del Menor y la Familia;
+
+III.- Coadyuvar con las funciones de los demás integrantes de la Procuraduría de la Defensa del Menor y la Familia;
+
+IV.- Informar, en forma cuatrimestral, al Procurador de la Defensa del Menor y la Familia, de los trabajos realizados;
+
+V.- Suplir al Procurador de la Defensa del Menor y la Familia en sus ausencias temporales; y
+
+VI.- Las demás que resulten de ésta y otras leyes o le señale el Procurador de la Defensa del Menor y la Familia.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 25.
 
-Los Ayuntamientos consideran a los trabajadores del Sistema Municipal para el Desarrollo Integral de la Familia como trabajadores del mismo Ayuntamiento.
+Las Autoridades Judiciales y Administrativas darán a la Procuraduría la intervención que le corresponda, en asuntos de su competencia.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### ARTÍCULO 26.
+
+En los casos en que se considere necesario, la Procuraduría de la Defensa del Menor y la Familia dará vista al Ministerio Público y solicitará que se dicten las medidas precautorias pertinentes para salvaguardar el interés superior del menor.
+
+(REPUBLICADO [N. DE E. REUBICADO], P.O. 10 DE MARZO DE 2008)
+
+### CAPITULO VIII. DEL DIRECTOR ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### ARTÍCULO 27.
+
+El Director Administrativo es el encargado de vigilar el patrimonio del Sistema, así como su correcto destino y aplicación.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### ARTÍCULO 28.
+
+Independientemente de lo dispuesto en el artículo 16 fracción VI de la presente Ley, el Director Administrativo será designado y removido por el C. Gobernador Constitucional del Estado, a propuesta del Director General del Sistema Estatal.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### ARTÍCULO 29.
+
+Son facultades y obligaciones del Director Administrativo:
+
+I.- Vigilar la Administración de los recursos financieros y que el funcionamiento del Sistema se realice de acuerdo con esta Ley y las demás que resulten aplicables;
+
+II.- Proponer a la Junta Directiva y al Director General las políticas y procedimientos de contabilidad más adecuados a las necesidades del Sistema;
+
+III.- Recomendar a la Junta Directiva y al Director General del Sistema las medidas que estime convenientes para el mejor uso y destino de los bienes del mismo;
+
+IV.- Asistir a las sesiones del Patronato y Junta Directiva; y
+
+V.- Las demás que le asigne la Ley.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO], P.O. 10 DE MARZO DE 2008)</small>
+
+### CAPITULO IX. DE LAS RELACIONES LABORALES
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### ARTÍCULO 30.
+
+Las relaciones de trabajo entre el Sistema Estatal para el Desarrollo Integral de la Familia y sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio del Estado y Municipios y el Convenio laboral que suscriben el Gobierno del Estado y el Sindicato de Trabajadores al Servicio de los Poderes del Estado de Querétaro.
+
+Los Municipios del Estado podrán considerar a los trabajadores del Sistema Municipal para el Desarrollo Integral de la Familia como trabajadores del mismo Municipio.
+
+> <small>(DEROGADO, P.O. 10 DE MARZO DE 2008)</small>
+
+### CAPITULO X. DE LAS RELACIONES LABORALES
 
 T R A N S I T O R I O S
 
@@ -391,12 +521,20 @@ TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley
 
 CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
 
-### CAPITULO VIII. DEL DIRECTOR AMINISTRATIVO
+P.O. 10 DE MARZO DE 2008.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
+###### ARTÍCULO PRIMERO.
 
-### CAPITULO IX. DE LOS SISTEMAS MUNICIPALES
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+###### ARTÍCULO SEGUNDO.
 
-### CAPITULO X. DE LAS RELACIONES LABORALES
+A partir de la publicación de la presente Ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga", el Sistema para el Desarrollo Integral de la familia (sic) del Estado de Querétaro contará con treinta días naturales para adecuar su estructura orgánica, conforme a las reformas aprobadas.
+
+###### ARTÍCULO TERCERO.
+
+La Procuraduría de la Defensa del Menor y la Familia contará con un plazo de 60 días naturales contados a partir de la publicación de la presente Ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga", para presentar a la Junta Directiva del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, para su aprobación, el proyecto de Reglamento Interno de la Procuraduría.
+
+###### ARTÍCULO CUARTO.
+
+Aprobado el Reglamento Interno de la Procuraduría de la Defensa del Menor y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, deberá ser publicado en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
