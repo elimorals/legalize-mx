@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2007-12-31"
+last_updated: "2008-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2641,6 +2641,14 @@ V.- Certifique falsamente que una persona tiene una enfermedad u otro impediment
 
 Los tipos penales previstos por las fracciones I, II y III de este artículo, también serán punibles si se causan culposamente y bajo esta forma de realización, serán perseguibles por querella.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+En el supuesto de que un médico se ostente con una especialidad no validada legalmente, la punibilidad señalada en el presente Artículo, se aumentará en una mitad.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+ARTICULO 278 BIS.- No existirá delito, cuando los daños a la salud o a la vida de las personas, considerados como reacciones colaterales o complicaciones propias de los tratamientos indicados por médicos con título, especialidad u otros grados académicos legalmente expedidos por instituciones con reconocimiento oficial de validez de estudios, no tengan como causa determinante la violación de un deber de cuidado que el o los médicos podían y debían observar según las circunstancias del caso; para lo cual el Ministerio Público o el juzgador, según se trate de la averiguación previa o el proceso, deberán tomar en cuenta, el dictamen pericial médico, rendido en términos de lo especificado en el Artículo 181, segundo párrafo, del Código de Procedimientos Penales del Estado.
+
 ###### ARTICULO 279.
 
 Se impondrá prisión de seis meses a dos años, de 5 a 50 días multa y suspensión de tres meses a un año, a juicio del juzgador, a los directores, encargados o administradores de cualquier centro de salud, cuando habiendo sido prestado el servicio:
@@ -3730,3 +3738,7 @@ P.O. 26 DE NOVIEMBRE DE 2007.
 P.O. 31 DE DICIEMBRE DE 2007.
 
 ÚNICO.- El presente entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
