@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2008-03-03"
+last_updated: "2008-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -195,7 +195,9 @@ II. Consejo de Desarrollo Municipal. (CODEMUN).
 
 III. Consejo Municipal de Protección Civil.
 
-IV. Comités de Colonos.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+IV. Comités de Concertación y Participación Social.
 
 V. Comité de Desarrollo Urbano y Rural.
 
@@ -211,7 +213,9 @@ X. Comité Municipal de Cultura Física y Deporte.
 
 XI. Consejo Consultivo para la Cultura y las Artes.
 
-XII. Consejo Municipal de Comités de Colonos.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XII. Consejo Municipal de Comités de Concertación y Participación Social.
 
 XIII. Comité Municipal de Adquisiciones.
 
@@ -1681,7 +1685,9 @@ III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de la
 
 IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio.
 
-V. Asesorar técnicamente a los Comités de Colonos que lo requieran, en lo concerniente a la realización de obras públicas municipales.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+V. Asesorar técnicamente a los Comités de Concertación y Participación Social que lo requieran, en lo concerniente a la realización de obras públicas municipales.
 
 VI. Asesorar técnicamente a las instancias municipales que así lo requieran a través de la Dirección de Calidad y Fallas Geológicas o el Departamento correspondiente, en materia de discontinuidades en el subsuelo así como recabar la información necesaria para la expedición de la cartografía, planos o sistemas electrónicos que contengan la información disponible a la fecha de emisión por parte de la Secretaría de Desarrollo Urbano.
 
@@ -1915,7 +1921,7 @@ XII. Ordenar y aplicar la suspensión temporal preventiva, o la clausura parcial
 
 XIII. Aplicar medidas de seguridad en inmuebles en los casos previstos en este Código.
 
-XIV. Ordenar y ejecutar las demoliciones en inmuebles en los casos previstos en este Código.
+XlV. Ordenar y ejecutar las demoliciones en inmuebles en los casos previstos en este Código.
 
 XV. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos en este Código, o en caso contrario negarla.
 
@@ -2631,7 +2637,7 @@ XII. Bien de Uso Público: Al bien mueble ubicado en lugares públicos y que por
 
 XIII. Resguardo: Al documento público expedido por Control Patrimonial, en el que consta la firma del resguardante y que contiene los datos del bien mueble.
 
-XIV. Comisión: A la Comisión de Bienes Muebles, integrada por el Síndico Procurador, Síndico de Hacienda, Regidor de Hacienda, Secretario de Administración, Contralor Municipal, Director Jurídico. Director de Recursos Materiales, Director de Servicios Generales y por el Jefe del Departamento de Control Patrimonial.
+XlV. Comisión: A la Comisión de Bienes Muebles, integrada por el Síndico Procurador, Síndico de Hacienda, Regidor de Hacienda, Secretario de Administración, Contralor Municipal, Director Jurídico. Director de Recursos Materiales, Director de Servicios Generales y por el Jefe del Departamento de Control Patrimonial.
 
 XV. Palacio: Al Palacio Municipal, sede del H. Ayuntamiento del Municipio de Aguascalientes, sito en Plaza de la Patria S/N, esquina Calle Colón.
 
@@ -2719,7 +2725,7 @@ XII. Realizar altas de bienes muebles en el inventario general.
 
 XIII. Analizar, evaluar y dictaminar la baja de bienes muebles en función de la operatividad de éstos, de la obsolescencia y del costo/beneficio.
 
-XIV. Detectar bienes muebles no clasificados como tales y proceder a su registro.
+XlV. Detectar bienes muebles no clasificados como tales y proceder a su registro.
 
 XV. Emitir avalúos sobre bienes muebles.
 
@@ -4683,7 +4689,7 @@ XII. Realizar el sellado de la Cartilla del Servicio Militar Nacional con el res
 
 XIII. Realizar la actualización de datos en los libros y en el sistema del registro de conscriptos, cuando la Zona Militar lo indique.
 
-XIV. Realizar la búsqueda el número de matrícula del Servicio Militar Nacional para proporcionarlo al interesado cuando éste así lo requiera, ya sea para tramitar la reposición de la Cartilla del Servicio Militar Nacional, ante la Zona Militar o para cualquier otro fin.
+XlV. Realizar la búsqueda el número de matrícula del Servicio Militar Nacional para proporcionarlo al interesado cuando éste así lo requiera, ya sea para tramitar la reposición de la Cartilla del Servicio Militar Nacional, ante la Zona Militar o para cualquier otro fin.
 
 XV. Realizar publicidad constantemente para la inscripción de jóvenes al Servicio Militar Nacional.
 
@@ -5321,7 +5327,7 @@ XII. Establecer las medidas necesarias para hacer efectiva la prohibición de em
 
 XIII. Reglamentar como facultad concurrente con el Estado, las actividades riesgosas, cuando debido a sus efectos colaterales se afecten ecosistemas o el ambiente de circunscripción municipal; salvo el caso de actividades consideradas "altamente riesgosas", cuya regulación explícita corresponde a la Federación, de acuerdo con la Ley general de la materia.
 
-XIV. Evaluar el impacto ambiental en materias que caen dentro de la competencia municipal, que implican la realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los reglamentos o en las Normas Oficiales Mexicanas emitidas por la Federación.
+XlV. Evaluar el impacto ambiental en materias que caen dentro de la competencia municipal, que implican la realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los reglamentos o en las Normas Oficiales Mexicanas emitidas por la Federación.
 
 XV. Aplicar las Normas Oficiales Mexicanas en la materia.
 
@@ -5369,7 +5375,7 @@ XII. Fomentar la realización de programas y proyectos de educación ambiental e
 
 XIII. Realizar en coordinación con la Dirección de Parques y Jardines del Municipio, campañas de reforestación urbana y rural, congruentes con las del Estado y la Federación.
 
-XIV. Establecer, con la participación del Instituto Municipal de Planeación, los criterios ambientales para el diseño, proyecto y manejo de las áreas verdes y arbolados urbanos.
+XlV. Establecer, con la participación del Instituto Municipal de Planeación, los criterios ambientales para el diseño, proyecto y manejo de las áreas verdes y arbolados urbanos.
 
 XV. Vigilar en coordinación con la Federación y el Estado, así como con el Instituto Municipal de Planeación, el adecuado uso y aprovechamiento de los recursos naturales presentes en el territorio municipal.
 
@@ -5869,7 +5875,9 @@ VIII. Un representante de cada una de las cámaras empresariales existentes en e
 
 IX. Un representante de cada una de las instituciones de educación superior que existen en el Estado que cuenten con programas educativos relativos al medio ambiente.
 
-X. Cinco representantes de comité de colonos.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+X. Cinco representantes de los Comités de Concertación y Participación Social.
 
 XI. Un representante de cada una de las escuelas de nivel medio superior.
 
@@ -6209,7 +6217,7 @@ XII. Imponer las sanciones y correctivos disciplinarios a los elementos operativ
 
 XIII. Promover una cultura de respeto a los Derechos Humanos, en las acciones de Seguridad Pública, específicamente en los procesos de detención y mantenimiento del orden público, a través de la difusión y promoción de los mismos hacia el interior de la Dirección General y la ciudadanía;
 
-XIV. Efectuar los cambios, comisiones y rotaciones de servicio o de turno a cualquier elemento que integra el cuerpo de seguridad pública cuando por cuestiones de operatividad o necesidades del servicio así se requiera.
+XlV. Efectuar los cambios, comisiones y rotaciones de servicio o de turno a cualquier elemento que integra el cuerpo de seguridad pública cuando por cuestiones de operatividad o necesidades del servicio así se requiera.
 
 XV. Ordenar la presentación del personal adscrito a la Secretaría en revista administrativa y operativa.
 
@@ -6597,7 +6605,7 @@ XII. Impedir la ejecución de actos contrarios a la moral y a la tranquilidad p�
 
 XIII. Cuidar la conservación y buen uso de los bienes afectos al servicio público, propiedad de las entidades públicas y órganos de gobierno;
 
-XIV. Tomar las medidas de protección y aseguramiento respecto de personas con capacidades diferentes, ebrios, intoxicados o drogados, vagos y mal vivientes, inválidos, mendigos, personas extraviadas o menores de edad, debiendo en todo caso, inmediatamente poner en conocimiento o a disposición de las autoridades competentes;
+XlV. Tomar las medidas de protección y aseguramiento respecto de personas con capacidades diferentes, ebrios, intoxicados o drogados, vagos y mal vivientes, inválidos, mendigos, personas extraviadas o menores de edad, debiendo en todo caso, inmediatamente poner en conocimiento o a disposición de las autoridades competentes;
 
 XV. Informar a las personas, visitantes o vecinos, sobre los lugares y servicios que se prestan en el Municipio, para lo cual deberán conocer la lista de médicos, hospitales, sanatorios, farmacias de guardia, museos y demás lugares de interés o de utilidad pública;
 
@@ -6777,7 +6785,7 @@ XII. Poner en libertad a los responsables de un hecho delictivo o de una falta a
 
 XIII. Castigar o golpear a los detenidos, así como recomendar o sugerir alguna forma de castigo, debiendo limitarse a su detención y conducción a la autoridad competente;
 
-XIV. En todo momento y bajo cualquier circunstancia tolerar, permitir o realizar actos de tortura, castigar o golpear a los detenidos, así como recomendar o sugerir alguna forma de castigo, debiendo limitarse a su detención y conducción a la autoridad competente;
+XlV. En todo momento y bajo cualquier circunstancia tolerar, permitir o realizar actos de tortura, castigar o golpear a los detenidos, así como recomendar o sugerir alguna forma de castigo, debiendo limitarse a su detención y conducción a la autoridad competente;
 
 XV. Aceptar favores o gratificaciones en el desempeño de sus labores o con motivo de éstas;
 
@@ -7771,7 +7779,7 @@ XII. Talleres mecánicos;
 
 XIII. Conjuntos habitacionales;
 
-XIV. Edificios con más de ocho niveles sobre el nivel de la calle;
+XlV. Edificios con más de ocho niveles sobre el nivel de la calle;
 
 XV. Terminales de vehículos para servicio público tales como estaciones de pasajeros, de carga y autobuses;
 
@@ -9027,7 +9035,7 @@ XII. Los pasamanos deben contar con una protuberancia al final de la escalera pa
 
 XIII. Las puertas corredizas, las de doble abatimiento principalmente de cristal con vista a ambos lados, se recomiendan fabricadas con vidrio inastillable, plástico, acrílico o policarbonato;
 
-XIV. En las cabinas sanitarias para personas con capacidades diferentes, la puerta debe tener 90 centímetros de ancho completamente libres y se debe abatir hacia afuera. El asiento de la taza debe encontrarse a 55 centímetros de altura del nivel de piso terminando y es de preferirse un mueble empotrado a la pared o de base remetida para facilitar el acercamiento de una silla de ruedas;
+XlV. En las cabinas sanitarias para personas con capacidades diferentes, la puerta debe tener 90 centímetros de ancho completamente libres y se debe abatir hacia afuera. El asiento de la taza debe encontrarse a 55 centímetros de altura del nivel de piso terminando y es de preferirse un mueble empotrado a la pared o de base remetida para facilitar el acercamiento de una silla de ruedas;
 
 XV. En beneficio de las personas con capacidades diferentes con lesiones musculoesqueléticas o del sistema nervioso, todas las cabinas sanitarias deben encontrarse equipadas con una barra horizontal sólidamente fijada en cada una de sus paredes laterales colocada a una altura de 82 centímetros separada de la pared y de un diámetro no mayor de media pulgada;
 
@@ -12693,7 +12701,7 @@ XII. Dictamen de Impacto Ambiental: Es el documento que determina el efecto que 
 
 XIII. Dictamen de Impacto Urbano: Es el documento en donde se manifiesta el efecto y/o posibles repercusiones que se pudieran generar, en el entorno que circunda al establecimiento de un lugar fijo para el desempeño de una actividad;
 
-XIV. Compatibilidad Urbanística: Es la autorización expedida por la Secretaría, a través de la cual se señala entre otras cosas el uso particular a que podrán dedicarse determinadas zonas, predios o edificaciones de un centro de población, conforme a lo que establece el artículo 158 del Código Urbano;
+XlV. Compatibilidad Urbanística: Es la autorización expedida por la Secretaría, a través de la cual se señala entre otras cosas el uso particular a que podrán dedicarse determinadas zonas, predios o edificaciones de un centro de población, conforme a lo que establece el artículo 158 del Código Urbano;
 
 XV. Alineamiento: Es la traza sobre el terreno que delimita cualquier predio con la vía pública existente o futura o cualquier otra restricción Federal, Estatal o Municipal, determinada en los planos y proyectos debidamente autorizados;
 
@@ -12903,7 +12911,7 @@ XII. Uso o destino actual y el propuesto del inmueble o inmuebles;
 
 XIII. Características de la urbanización del terreno o terrenos;
 
-XIV. Cuando lo considere necesario la Secretaría, acompañar las correspondientes diligencias judiciales o administrativas de apeo y deslinde con plano de cuadro de áreas, así como de la posesión del predio correspondiente,
+XlV. Cuando lo considere necesario la Secretaría, acompañar las correspondientes diligencias judiciales o administrativas de apeo y deslinde con plano de cuadro de áreas, así como de la posesión del predio correspondiente,
 
 XV.- Plano del terreno o de los terrenos con acotaciones en centímetros y señalando la orientación de los mismos y sus colindancias, georeferenciado con coordenadas UTM;
 
@@ -13813,7 +13821,7 @@ XII. Voladizo;
 
 XIII. Rotulado;
 
-XIV. De tijera;
+XlV. De tijera;
 
 XV. Colgante;
 
@@ -14813,7 +14821,7 @@ XII. Abstenerse de recibir armas o cualquier objeto en prenda o garantía de pag
 
 XIII. Abstenerse de utilizar los colores y símbolos nacionales, en la decoración de sus establecimientos, así como retratos o estatuas de héroes nacionales.
 
-XIV. Permitir el libre acceso a los verificadores, de la Dirección General de Gobierno, para la realización de sus funciones.
+XlV. Permitir el libre acceso a los verificadores, de la Dirección General de Gobierno, para la realización de sus funciones.
 
 XV. Renovar anualmente, a más tardar el treinta y uno de Marzo, el permiso o licencia correspondiente, cumpliendo con las obligaciones que le señala este Código.
 
@@ -15285,7 +15293,7 @@ XII. Permiso: Documento público intransferible que autoriza a su titular, a eje
 
 XIII. Licencia: Documento público intransferible que otorga a su titular, ejercer el comercio por tiempo determinado, en un local o piedra, dentro de un mercado, con los derechos y obligaciones que en el mismo se especifiquen.
 
-XIV. Local: Lugar o espacio asignado al titular de una licencia dentro del mercado para ejercer actividad o giro comercial.
+XlV. Local: Lugar o espacio asignado al titular de una licencia dentro del mercado para ejercer actividad o giro comercial.
 
 XV. Zonificación de Giros: Agrupamiento de locatarios que en un área del mercado comercialicen productos o mercancías similares.
 
@@ -15495,7 +15503,7 @@ XII. Verificar sobre la instalación, el acomodo y el retiro de los tianguistas,
 
 XIII. Verificar que las credenciales se encuentren vigentes y al corriente en sus pagos por uso de piso.
 
-XIV. Determinar los horarios y condiciones bajo las cuales deberá de ejercerse el comercio en la vía pública, así como vigilar que sean respetados los derechos y dimensiones a los lugares asignados.
+XlV. Determinar los horarios y condiciones bajo las cuales deberá de ejercerse el comercio en la vía pública, así como vigilar que sean respetados los derechos y dimensiones a los lugares asignados.
 
 XV. Atender las sugerencias o quejas de los tianguistas, vecinos y público en general respecto de las actividades dentro de los tianguis y de comerciantes en la vía pública.
 
@@ -16029,7 +16037,7 @@ XII. Subalternos: Tipo de lidiador que auxilia a los matadores y novilleros dura
 
 XIII. Monosabios: Los dependientes de la empresa encargados de auxiliar con el aseo y acondicionamiento del redondel.
 
-XIV. Torilero: Persona del servicio de plaza encargada del manejo, seguridad y buenas condiciones generales de las reses en los toriles.
+XlV. Torilero: Persona del servicio de plaza encargada del manejo, seguridad y buenas condiciones generales de las reses en los toriles.
 
 XV. Cuadra: El conjunto de caballos destinados para la suerte de varas en un festejo taurino.
 
@@ -17183,7 +17191,7 @@ XII. Manifestaciones que solicite el visitado se agreguen en el acta.
 
 XIII. Observaciones del inspector.
 
-XIV. Firma de los que intervinieron y hora en que terminó la diligencia y en su caso, la razón de la negativa a firmar de la persona con quien se entendió la diligencia.
+XlV. Firma de los que intervinieron y hora en que terminó la diligencia y en su caso, la razón de la negativa a firmar de la persona con quien se entendió la diligencia.
 
 ###### ARTÍCULO 1548.
 
@@ -18004,3 +18012,17 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Cualquier disposición legal vigente que haga referencia a la Secretaría de Desarrollo Humano, se entenderá, en lo subsecuente, referida a la Secretaría de Desarrollo Social conforme al presente decreto.
 
 Lo anterior para el conocimiento de la ciudadanía.
+
+P.O. 10 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier disposición legal vigente que haga referencia a los Comités de Colonos, se entenderá, en lo subsecuente, referida a los Comités de Concertación y Participación Social, conforme al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cualquier disposición legal vigente que haga referencia al Consejo Municipal de Comités de Colonos, se entenderá, en lo subsecuente, referida al Consejo Municipal de Comités de Concertación y Participación Social, conforme al presente decreto.
