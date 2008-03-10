@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-del-estado-de-hidalgo-5427"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-31"
-last_updated: "2007-12-31"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1982.
 
@@ -263,45 +263,63 @@ La falta de oportunidad o de presentación de los Proyectos al Congreso del Esta
 
 ### CAPITULO III. DE LAS CUENTAS DEL MUNICIPIO
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 27.
 
-De los Ingresos y Egresos de los Municipios se llevará cuenta pormenorizada y comprobada por los Tesoreros Municipales, en libros y documentación que autorizará el Contador General del Estado en la forma que determina la Contaduría.
+Los Ingresos y Egresos de los Municipios deberán ser contabilizados de acuerdo a los sistemas, métodos y procedimientos que para tal efecto autorice el Órgano de Fiscalización Superior.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 28.
 
-Diariamente se practicará Corte de Caja de Primera Operación en el libro respectivo de la Tesorería Municipal a fin de mes se hará Corte de Caja de Segunda Operación y recuento de existencias con intervención del Presidente Municipal y Síndico Procurador.
+El Tesorero Municipal debe practicar el corte diario de caja, en dicho acto, deberán estar presentes el Presidente Municipal y/o el Síndico, quienes exigirán a aquel el reintegro de los recursos cuando se determinen faltantes.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 29.
 
-Del Corte de Caja de Segunda Operación se sacarán tres copias, de las cuales se remitirán original y duplicado al Ayuntamiento, éste turnará desde luego ambos ejemplares a su comisión de Hacienda, la que hará la revisión preventiva, comunicando el resultado en tiempo oportuno al Tesorero, para que en su caso hagan las correcciones y reintegros que procedan. La Comisión de Hacienda devolverá el Corte de Caja que contengan los originales de los comprobantes a la Tesorería y se reservará el duplicado para el archivo del Ayuntamiento, cuando fuere posible se dará publicidad al Corte de Caja.
+El Tesorero Municipal deberá practicar un corte de caja mensual del cual se sacarán tres copias, de las cuales se remitirán original y copia al Ayuntamiento, éste turnará desde luego ambos ejemplares a su Comisión de Hacienda, la que hará la revisión preventiva, comunicando oportunamente al Tesorero, para que en su caso, haga olas correcciones y reintegros que procedan. La Comisión de Hacienda devolverá el Corte de Caja que contengan los originales de los comprobantes a la Tesorería y se reservará la copia para el archivo del Ayuntamiento, cuando fuere posible se dará publicidad al Corte de Caja.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 30.
 
-La Tesorería Municipal remitirá el original de la cuenta mensual comprobada, a la Contaduría General del Estado dentro de los primeros quince días del mes siguiente al que se refiera dicha cuenta. La Contaduría General del Estado practicará la revisión de dicha cuenta en un plazo no mayor de noventa días contados a partir de la fecha en que se reciba.
+El Ayuntamiento presentará al Congreso del Estado a más tardar el 31 de marzo de cada año, con excepción a la correspondiente a la del tercer año de ejercicio, que deberá presentar a más tardar el 15 de enero, la Cuenta Pública del año anterior, en éta (sic) última además deberá incluirse la información de los ingresos y egresos correspondientes a la primera quincena del año en que concluye el cargo.
 
 ###### ARTICULO 31.
 
 Al fin de cada ejercicio, el Tesorero Municipal formará una cuenta general de los Ingresos y Egresos del año, debidamente especificada que constará de dos partes, la Primera se referirá a los Ingresos y mencionará los que se hubieren calculado para el ejercicio respectivo, la recaudación y lo que hubiere dejado de cobrarse, con el detalle correspondiente. La Segunda Parte se contraerá a los gastos que mencionará con igual detalle los gastos presupuestados, los verificados y los que no se hubieren satisfecho se remitirán además copias de padrones y demás documentos comprobatorios que se consideren necesarios.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+En todo caso deberán atenderse los criterios, normas, procedimientos, métodos y sistemas que para la integración de la Cuenta Pública establezca el Órgano de Fiscalización Superior.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 32.
 
-La revisión de las cuentas generales anuales de los H. H. Ayuntamientos deberá ser concluida por la Contaduría General del Estado, dentro de los seis meses siguientes a la fecha en que se reciban.
+La revisión de las cuentas públicas de los Ayuntamientos se concluirán el 31 de octubre del año siguiente al de su presentación con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano de Fiscalización Superior siga su curso.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 33.
 
-La remisión de las cuentas mensuales y generales anuales invariablemente se harán detallando en un índice por duplicado los documentos que la constituyan, del que la Contaduría devolverá un ejemplar sellado y con la firma de conformidad de quien la haya recibido.
+La remisión de la Cuenta Pública Municipal se hará de conformidad con los requisitos y lineamentos que para tal efecto establezca el Órgano de Fiscalización Superior.
 
 ###### ARTICULO 34.
 
-Si la Contaduría previa revisión de las cuentas a que se refiere el artículo anterior las encontrare conformes emitirá su dictamen y lo someterá al Congreso en sus períodos ordinarios de sesiones. En caso contrario, la misma Contaduría hará las observaciones y alcances al Tesorero responsable y las remitirá sin demora, por conducto del Presidente Municipal.
+(DEROGADO, P.O. 10 DE MARZO DE 2008)
 
 ###### ARTICULO 35.
 
-Perfeccionadas las cuentas, la Contaduría someterá el dictamen al Congreso y tan luego como sea aprobado, la misma Oficina expedirá al Tesorero el finiquito respectivo.
+(DEROGADO, P.O. 10 DE MARZO DE 2008)
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 36.
 
-En las visitas que hagan los inspectores de la Contaduría General del Estado a las Tesorerías Municipales, los Tesoreros estarán obligados a enseñarle los libros, documentos y existencias, pero sólo por el año en que se practique la visita. Si se negaren a ello se presumirá que hay desfalco y se consignará al responsable a la Autoridad Judicial para que se hagan las averiguaciones del caso.
+En las visitas de revisión y fiscalización que realice el personal del Órgano de Fiscalización Superior a las Tesorerías Municipales, los Tesoreros estarán obligados a proporcionar los registros, libros y demás documentos que les sean requeridos. Si se negaren a ello se presumirá que hay desfalco y se consignará al responsable a la Autoridad Judicial para que se hagan las averiguaciones del caso.
 
 ## TITULO TERCERO
 
@@ -909,7 +927,7 @@ VIII.- Estimar los ingresos gravables de los pasivos, de los responsables solida
 
 a).- Cuando se resistan y obstaculicen por cualquier medio, la iniciación o desarrollo de las visitas domiciliarias, o se nieguen a recibir la orden respectiva.
 
-b).- Cuando no proporcionen los libros, documentos, informes o datos que se les soliciten.
+b).- Cuando no proporcionen los libros, documentos, informes o datos que se les soliciten .
 
 c).- Cuando presenten libros, documentos, informes o datos alterados o falsificados, o existan vicios o irregularidades en su contabilidad.
 
@@ -2031,7 +2049,7 @@ I.- La base para enajenación de los bienes inmuebles embargados, será el de av
 
 II.- La oficina que deba proceder al remate, nombrará perito para que formule avalúo y lo hará saber al deudor para que, de no satisfacer su interés, se inconforme ante la autoridad que conozca del asunto dentro de los 5 días hábiles siguientes a aquel en que surta efectos la notificación, mediante escrito libre en el que manifieste el motivo de su inconformidad y designe perito de su parte que cumpla con los requisitos exigidos por el Código de Procedimientos Civiles del Estado, de aplicación supletoria.
 
-III. Cuando el embargado o terceros acreedores no se inconformen dentro del término o haciéndolo no designen perito valuador, o no se presente el dictamen dentro de los términos se tendrá por aceptado el avalúo hecho por la autoridad.
+III.- Cuando el embargado o terceros acreedores no se inconformen dentro del término o haciéndolo no designen perito valuador, o no se presente el dictamen dentro de los términos se tendrá por aceptado el avalúo hecho por la autoridad.
 
 IV.- Cuando el dictamen rendido por el perito del embargado o terceros acreedores resulte un valor superior a un 10% al determinado conforme a la primera fracción, la autoridad designará dentro del término de tres días, un perito tercero valuador, que intervendrá para definir sobre el resultado entre los dos anteriores mencionados.
 
@@ -3090,5 +3108,11 @@ Una vez aprobado el decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 31 DE DICIEMBRE DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 2008, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 10 DE MARZO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
