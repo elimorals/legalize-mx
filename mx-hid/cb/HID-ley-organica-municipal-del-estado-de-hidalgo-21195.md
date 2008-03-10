@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-del-estado-de-hidalgo-21195"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-16"
-last_updated: "2001-04-16"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 16 de abril de 2001.
 
@@ -399,7 +399,9 @@ VII. Administrar su Hacienda en los términos de Ley de Ingresos y demás relati
 
 VIII. Proveer y prestar los servicios públicos a su cargo;
 
-IX. Rendir al Congreso del Estado o a la Diputación Permanente, en su caso, dentro de los dos primeros meses del año, la cuenta del gasto público de su ejercicio fiscal anterior;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+IX. Rendir al Congreso del Estado, o a la Diputación Permanente, en su caso, a más tardar el 31 de marzo de los dos primeros años de su gestión y el 15 de enero del última año, la Cuenta Pública del ejercicio anterior;
 
 X. Adquirir bienes, en cualquiera de las formas previstas por la Ley dentro de su jurisdicción. Si los ayuntamientos se encontraren en posesión de bienes vacantes, operará en su favor la prescripción positiva en los términos que señala el Código Civil vigente en el Estado;
 
@@ -655,7 +657,9 @@ LV. Resolver los recursos interpuestos en contra de sus acuerdos y resoluciones;
 
 LVI. Proponer al Ayuntamiento, la integración de Comisiones de Gobierno y Administración;
 
-LVII. Presentar ante la Contaduría Mayor de Hacienda del Congreso del Estado, su Declaración Patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguiente a ésta y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+LVII. Presentar ante el Órgano de Fiscalización Superior del Congreso del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguiente a ésta; y
 
 LVIII. Las demás que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, esta Ley y los demás ordenamientos de la materia.
 
@@ -717,7 +721,9 @@ II. La representación jurídica del Ayuntamiento, en los litigios en que éste 
 
 III. Cuidar que se observen escrupulosamente las disposiciones de esta Ley, para el efecto de sancionar cualquier infracción que se cometa;
 
-IV. Presidir la Comisión de Hacienda Municipal, revisar y firmar la cuenta pública que mensualmente deberá remitirse al Congreso del Estado e informar por escrito al Ayuntamiento;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2008)</small>
+
+IV. Presidir la Comisión de Hacienda Municipal, revisar y firmar la cuenta pública que deberá remitirse al Congreso del Estado conforme a lo establecido en la Legislación vigente e informar por escrito al Ayuntamiento;
 
 Vigilar y preservar el acceso a la información, que sea requerida por los miembros del Ayuntamiento;
 
@@ -1183,11 +1189,15 @@ Cuando el Ayuntamiento o el Presidente Municipal, ordene algún gasto que no re�
 
 XII. Realizar junto con el Síndico, las gestiones oportunas en los asuntos en que tenga interés el erario Municipal;
 
-XIII. Remitir a la Contaduría Mayor de Hacienda del Congreso del Estado, las cuentas, informes contables y financieros mensuales dentro de los primeros quince días del mes siguiente;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XIII. Remitir al Órgano de Fiscalización Superior del Congreso del Estado, los informes presupuestales, contables, financieros y de gestión que éste requiera;
 
 XIV. Presentar mensualmente al Ayuntamiento, el corte de caja de la Tesorería Municipal con el visto bueno del Síndico;
 
-XV. Contestar oportunamente, las observaciones que haga la Contaduría Mayor de Hacienda del Congreso del Estado, en los términos de la Ley respectiva;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XV. Contestar oportunamente, las observaciones, recomendaciones y acciones promovidas por el Órgano de Fiscalización Superior del Congreso del Estado, en los términos de la Legislación vigente;
 
 XVI. Cuidar que el despacho de la oficina, se haga el día y hora fijada por el reglamento interior o señalados por el Ayuntamiento o el Presidente Municipal;
 
@@ -1211,11 +1221,13 @@ XXV. Emplear la facultad económico coactiva, para hacer efectivos los créditos
 
 XXVI. Las demás que le asignen las leyes y reglamentos.
 
-###### ARTÍCULO 99.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
-La Inspección de la Hacienda Pública Municipal, compete al Ayuntamiento, por conducto del Síndico, en los términos de esta Ley, o a la Contaduría Mayor de Hacienda del Congreso del Estado, cuando el Ejecutivo del mismo, sea aval de empréstitos o créditos concedidos a los Ayuntamientos o sea acreedor de éstos últimos.
+###### ARTICULO 99.
 
-El Congreso del Estado o la Diputación Permanente, podrán en cualquier tiempo, solicitar a la Contaduría Mayor de Hacienda, la práctica de visita de inspección, supervisión o auditoría.
+La Inspección de la Hacienda Pública Municipal, compete al Ayuntamiento, por conducto del Síndico, en los términos de esta Ley, o al Órgano de Fiscalización Superior, cuando el Ejecutivo del mismo, sea aval de empréstitos o créditos concedidos a los Ayuntamientos o sea acreedor de éstos últimos.
+
+El Congreso del Estado o la Diputación Permanente, por conducto de la Comisión Inspectora, podrán en cualquier tiempo, solicitar al Órgano de Fiscalización Superior, la práctica de visita de inspección, supervisión o auditoria.
 
 ###### ARTÍCULO 100.
 
@@ -1253,7 +1265,9 @@ f) Si los pagos se hicieron con puntualidad o hay algún adelanto o atraso en el
 
 g) Si los asientos se llevan al corriente.
 
-X. Las demás facultades que, en relación con la Hacienda Municipal, sean conferidas a la propia Contaduría Mayor de Hacienda del Congreso del Estado, en la Ley Orgánica respectiva.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+X. Las demás facultades que, en relación con la Hacienda Municipal, sean conferidas al Órgano de Fiscalización Superior, en la Ley Orgánica respectiva.
 
 ###### ARTÍCULO 101.
 
@@ -1273,7 +1287,9 @@ I. Vigilar el exacto cumplimiento de las disposiciones legales y reglamentarias 
 
 II. Vigilar la observancia de los procedimientos establecidos para el control interno del Ayuntamiento;
 
-III. Vigilar, en su ámbito, el cumplimiento de las normas establecidas por los organismos de control del Estado, como son: la Secretaría de Contraloría del Gobierno del Estado de Hidalgo y la Contaduría Mayor de Hacienda del Congreso del mismo;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+III. Vigilar, en su ámbito, el cumplimiento de las normas establecidas por los órganos de control del Estado, como son: La Secretaría de Contraloría del Gobierno del Estado de Hidalgo y el Órgano de Fiscalización Superior;
 
 IV. Coordinar las auditorías generales o especiales, que deban realizarse por acuerdo del Presidente Municipal, en todas las áreas de la Administración Pública Municipal;
 
@@ -1974,3 +1990,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE MARZO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
