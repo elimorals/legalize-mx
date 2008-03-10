@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "1997-01-20"
+last_updated: "2008-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -63,9 +63,11 @@ V.- Las autoridades competentes y los procedimientos para declarar la procedenci
 
 VI.- El registro patrimonial de los servidores públicos.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 2o.
 
-Son sujetos de esta Ley, los funcionarios y empleados de los Poderes Ejecutivo, Legislativo y Judicial y, en general toda persona que desempeñe un empleo, cargo, comisión o concesión de cualquier naturaleza en la Administración Pública estatal o municipal y todas aquellas personas que manejen o apliquen recursos económicos del Gobierno del Estado de Hidalgo.
+Son sujetos de esta Ley, los funcionarios y empleados de los Poderes Ejecutivo, Legislativo y Judicial, de los Organismos Autónomos, y en general toda persona que desempeñe un empleo, cargo, comisión o concesión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como aquellas personas que manejen o apliquen recursos públicos.
 
 ###### ARTICULO 3o.
 
@@ -129,9 +131,11 @@ Si la resolución que se dicte en el juicio político es condenatoria, se sancio
 
 ### CAPITULO II. Procedimiento en el Juicio Político
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 9o.
 
-El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo, comisión o concesión y dentro de un año después de la conclusión de sus funciones. Cuando se expida el finiquito por el H. Congreso del Estado a los funcionarios que manejen fondos públicos, quedarán excentos (sic) de toda responsabilidad. Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
+El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo, comisión o concesión y dentro de un año después de la conclusión de sus funciones. Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
 
 ###### ARTICULO 10.
 
@@ -397,11 +401,15 @@ XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cua
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 1992)</small>
 
-XXII.- Proporcionar en forma veraz y en los términos que el ordenamiento legal correspondiente establezca, toda la información solicitada por la Comisión de Derechos Humanos del Estado, a fin de que ésta pueda cumplir con las facultades y obligaciones que le correspondan por la Ley, y
+XXII.- Proporcionar en forma veraz y en los términos que el ordenamiento legal correspondiente establezca, toda la información solicitada por la Comisión de Derechos Humanos del Estado, a fin de que ésta pueda cumplir con las facultades y obligaciones que le correspondan por la Ley, y (sic)
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
 
-XXIII.- Las demás que le impongan las Leyes y Reglamentos.
+XXIII.- Cumplir con las recomendaciones, acciones y plazos que determine el Órgano de Fiscalización Superior relacionados con la aplicación del Presupuesto de Egresos, de la rendición de la Cuenta Pública y de los demás elementos de control de los recursos públicos; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XXIV.- Las demás que le impongan las Leyes y Reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría, el subalterno deberá practicarla directamente informando a su superior acerca de este acto.
 
@@ -659,7 +667,9 @@ La Secretaría llevará el registro de la situación patrimonial de los servidor
 
 Tienen la obligación de presentar declaración anual de situación patrimonial ante la Secretaría, bajo protesta de decir verdad:
 
-I.- En el Congreso: Diputados, Oficial Mayor, Contador Mayor de Hacienda y Directores de la Cámara;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+I.- En el Congreso: Diputados, Auditor Superior, Directores Generales, Directores de Área, Subdirectores, Encargados de Departamento, Jefes de Oficina y demás servidores públicos del Congreso del Estado que realicen funciones de revisión y fiscalización;
 
 II.- En el Poder Ejecutivo: Todos los funcionarios desde el nivel de jefes de departamento hasta los Secretarios, además de los previstos en las fracciones IV y VII de este artículo;
 
@@ -780,3 +790,9 @@ P.O. 20 DE ENERO DE 1997.
 PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
 
 SEGUNDO.- SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 10 DE MARZO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
