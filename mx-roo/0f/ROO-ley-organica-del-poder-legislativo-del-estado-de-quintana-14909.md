@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2002-02-15"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -971,7 +971,9 @@ Para el logro de sus objetivos y la realización de sus funciones, el Poder Legi
 
 I.- Oficialía Mayor.
 
-II.- Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+II.- Instituto de Investigaciones Legislativas.
 
 III.- Dirección de Apoyo Jurídico.
 
@@ -993,11 +995,11 @@ IX.- Las demás que coadyuven a las funciones de las anteriores.
 
 Las Dependencias del Poder Legislativo estarán a cargo de un titular nombrado por el Pleno de la Legislatura a propuesta de la Gran Comisión y por el personal necesario para la ejecución de sus funciones previsto en el Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 83.
 
-Para ser titular de las- Dependencias del Poder Legislativo, se exigirán los requisitos señalados en el artículo 95 de la Constitución Política del Estado, con excepción del titular de la Dirección de Apoyo Jurídico, quien además deberá ser abogado o licenciado en derecho, con título expedido por institución educativa con reconocimiento oficial, y del titular de la Contaduría Mayor de Hacienda, quien se sujetará a lo dispuesto por el Artículo 92 de esta ley.
+Para ser titular de las Dependencias del Poder Legislativo, se exigirán los requisitos señalados en el Artículo 95 de la Constitución Política del Estado, con excepción del titular de la Dirección de Apoyo Jurídico, quien además deberá ser abogado o Licenciado en Derecho, con título y cédula profesionales expedidos por autoridad o institución legalmente facultadas para ello. Tratándose del titular del Instituto de Investigaciones Legislativas además de los requisitos establecidos en el Artículo 95 de la Constitución Política del Estado, se requerirá ser abogado o Licenciado en Derecho, con título y cédula profesionales expedidos por autoridad o institución legalmente facultadas para ello; contar con experiencia profesional de cinco años como mínimo al día de su designación; y contar con experiencia mínima de tres años en el área de investigación, plenamente acreditables.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1051,27 +1053,65 @@ El Oficial Mayor proveerá de lo necesario a los Diputados, Comisiones y Depende
 
 Estará a cargo del Oficial Mayor expedir los nombramientos y ejecutar las bajas del personal de las Dependencias del Poder Legislativo acordadas por la Gran Comisión; así como autorizar las altas y bajas de los bienes muebles y ejercer actos de dominio sobre el patrimonio del Poder Legislativo que aquélla acuerde.
 
-(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2008)</small>
 
-### CAPITULO III. DE LA CONTADURIA MAYOR DE HACIENDA
+### CAPITULO III. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 92.
 
-La Contaduría Mayor de Hacienda es el órgano técnico encargado de la revisión, fiscalización y evaluación superior en materia de presupuesto, deuda y cuenta pública, dependiente del Poder Legislativo, mediante el cual éste ejerce sus atribuciones constitucionales y legales.
+El Instituto de Investigaciones Legislativas es el órgano profesional e imparcial, con autonomía operativa y de gestión, encargado de la realización de estudios e investigaciones jurídicas y multidisciplinarias en que se apoye la Legislatura del Estado en el ejercicio de sus atribuciones constitucionales y legales.
 
-La Ley Orgánica de la Contaduría Mayor de Hacienda establecerá los requisitos que deberá satisfacer su titular y señalará las funciones y atribuciones de aquélla, sin perjuicio de lo dispuesto por la presente Ley y su reglamento, así como los Acuerdos que expida la Legislatura o la Gran Comisión relacionados con la actuación del órgano técnico.
+El Instituto estará a cargo de un Director General y deberá contar para su organización y funcionamiento con la estructura profesional, técnica y administrativa necesaria para el ejercicio de sus atribuciones. La estructura profesional estará integrada por personal de servicio de carrera. Los investigadores del Instituto de Investigaciones Legislativas podrán ocupar los niveles A, B o C, conforme al nivel de estudios acreditados. Se entiende como investigador de nivel C. aquellos que cuenten con el grado mínimo de Licenciatura; de nivel B aquellos que cuenten con el grado mínimo de Maestría y de nivel A aquellos que cuenten con el grado mínimo de Doctor, el reglamento regulará las condiciones y requisitos para la asignación de los respectivos niveles, así como su promoción. La retribución y estímulos que perciban su titular y el personal profesional y técnico serán los que establezca el tabulador de sueldos que apruebe la Gran Comisión.
+
+El Instituto tendrá las atribuciones siguientes:
+
+l.- Establecer las directrices para la realización de los estudios e Investigaciones jurídicas y multidisciplinarias en que se apoye la Legislatura del Estado en el ejercicio de sus atribuciones constitucionales y legales;
+
+II.- Desarrollar investigaciones y análisis en temas de vanguardia, jurídicos, sociológicos, históricos, de desarrollo social, económicos, así como en materia de finanzas públicas, entre otros;
+
+III.- Efectuar estudios y análisis comparativos de la legislación, así como de carácter multidisciplinarios;
+
+IV.- Coadyuvar con las Comisiones, analizando los anteproyectos de ley, reformas o adiciones que se presenten a la Legislatura;
+
+V.- Proponer a la Gran Comisión, anteproyectos de iniciativas de leyes, reformas o adiciones, tendientes a actualizar la legislación vigente en el Estado;
+
+VI.- Coordinarse con organismos oficiales y privados en la elaboración de anteproyectos de iniciativas de leyes y decretos que correspondan a las áreas de su trabajo;
+
+VII.- Proponer a la Gran Comisión la contratación de investigadores externos que se hagan necesarios para apoyo o para desarrollar trabajos especiales que lleve a cabo el Instituto;
+
+VIII.- Elaborar, a solicitud de la Gran Comisión, las convocatorias para la participación de la sociedad en foros de consulta y paneles, sobre temas jurídicos parlamentarios que sean de interés social;
+
+IX.- Asistir y participar en los seminarios, congresos y foros de consulta que se celebren en el Estado, en otras entidades o a nivel internacional, que la Gran Comisión le autorice asistir;
+
+X.- Celebrar y organizar foros, conferencias y seminarios académicos relacionados con sus funciones;
+
+XI.- Elaborar, preparar e impartir cursos de capacitación legislativa y programas de formación y capacitación de personal técnico en el desarrollo de la función legislativa;
+
+XII.- Fomentar la celebración y ejecución de convenios de colaboración e intercambio con las instancias académicas de más alto nivel estatal, nacional e internacional, para la formación o actualización de profesionales vinculados con la tarea legislativa;
+
+XIII.- Promover el fortalecimiento del trabajo legislativo, a través de la creación de programas de becas que estimulen la formación académica, la investigación y el trabajo editorial;
+
+XIV.- Difundir en el ámbito de su competencia los resultados del desarrollo de los estudios e investigaciones que realice, a través de publicaciones especializadas;
+
+XV.- Identificar los procedimientos con que actualmente se desarrolla la tarea legislativa, con el fin de proponer y operar sistemas, así como procesos apoyados en tecnología avanzada;
+
+XVI.- Establecer mecanismos de coordinación y cooperación con institutos y entidades que realicen funciones similares;
+
+XVII.- Realizar estudios de impacto social y económico de la legislación vigente, así como en proyecto; y
+
+XVlII.- Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ### CAPITULO IV. DE LA DIRECCION DE APOYO JURIDICO
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 93.
 
-Para la realización de estudios jurídicos e investigaciones legislativas en las que se apoyen los dictámenes y demás resoluciones de la Legislatura o de sus Comisiones, habrá una Dirección de Apoyo Jurídico.
+Para asesorar en materia jurídica a la Legislatura y a sus Comisiones, así como para actuar como órgano de consulta de sus Dependencias, habrá una Dirección de Apoyo Jurídico.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1083,7 +1123,7 @@ I.- Vigilar que el proceso legislativo se apegue a las disposiciones de la prese
 
 II.- Orientar a las Comisiones, Organos y Dependencias del Poder Legislativo, para que el ejercicio de sus facultades y funciones se realice conforme a las disposiciones constitucionales, legales y reglamentarias.
 
-III.- Coordinar y realizar los estudios e investigaciones de carácter jurídico y legislativo.
+III.- (DEROGADA, P.O. 10 DE MARZO DE 2008)
 
 IV.- Rendir los informes previos y justificados en los juicios de amparo en que la Legislatura sea señalada como autoridad responsable, o intervenir en ellos o en cualquier otro procedimiento judicial, laboral o administrativo, ya sea federal, estatal o municipal en que la Legislatura sea parte, como apoderado legal de la misma, previa instrucción del Presidente.
 
@@ -1830,3 +1870,13 @@ P.O. 15 DE FEBRERO DE 2002.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE MARZO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- El Instituto de Investigaciones Legislativas deberá iniciar sus funciones dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto y dentro de igual plazo deberá ser designado su titular.
+
+Artículo Tercero.- La Legislatura del Estado, dentro de los sesenta días posteriores a la entrada en funciones del Instituto de Investigaciones Legislativos, deberá expedir el reglamento en el que se determine el funcionamiento y estructura orgánica del Instituto de Investigaciones Legislativos, en el cual se regularán también los requisitos para ser investigador y auxiliar investigador del citado instituto.
+
+Artículo Cuarto. Hasta en tanto no se de cumplimiento a los artículos transitorios segundo y tercero del presente decreto, la Dirección de Apoyo Jurídico seguirá en el ejercicio de los facultades establecidas en la fracción III del artículo 94 de la Ley Orgánica del Poder legislativo del Estado de Quintana Roo; vigente.
