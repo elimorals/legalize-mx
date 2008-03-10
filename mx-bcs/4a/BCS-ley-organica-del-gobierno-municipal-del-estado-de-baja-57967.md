@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2007-10-10"
+last_updated: "2008-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2008.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -193,17 +193,23 @@ El del Municipio de La Paz será el día 27 de abril del año de la elección; y
 
 El del Municipio de Los Cabos será el día 28 de abril del año de la elección.
 
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
+
 ###### Artículo 21.
 
-El Ayuntamiento saliente, a través de su Presidente Municipal, tomará la protesta a los miembros del Ayuntamiento entrante en los siguientes términos:
+Primeramente, el Presidente Municipal entrante rendirá la protesta de ley en los siguientes términos:
 
-"¿Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Baja California Sur y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido?"
+“Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Baja California Sur y las leyes que de ellas emanen, así como desempeñar leal y patrióticamente el cargo de presidente municipal que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la nación, del Estado de Baja California Sur y de este Municipio. Si así no lo hiciere, que el pueblo me lo demande”.
 
-A lo cual el Presidente, Síndicos y Regidores, levantando la mano dirán:
+Acto seguido, el Presidente Municipal tomará la protesta del resto de los miembros del Ayuntamiento, de la siguiente forma:
 
-"Sí, protesto".
+“¿Protestan cumplir y hacer cumplir lo Constitución Política de los Estados Unidos Mexicanos, la del Estado de Baja California Sur y las leyes que de ellas emanen, así como desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido?”
 
-El Presidente Municipal saliente agregará: "Si así no lo hicieren, que el pueblo se los demande".
+A lo cual, el (sic) Síndicos y Regidores, levantando la mano dirán:
+
+“Sí, protesto”.
+
+El Presidente Municipal agregará: “Si así no lo hicieren, que el pueblo se los demande”.
 
 ###### Artículo 22.
 
@@ -2288,3 +2294,9 @@ PRESIDENTE
 DIP. PROFR. OSCAR LEGGS CASTRO
 
 SECRETARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
