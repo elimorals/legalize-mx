@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-comision-de-derechos-humanos-del-estado-5434
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-20"
-last_updated: "2004-12-06"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "HID"
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
-Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 20 de julio de 1992.
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 1992.
 
 ADOLFO LUGO VERDUZCO, Gobernador Constitucional del Estado de Hidalgo, a sus habitantes sabed:
 
@@ -113,9 +113,23 @@ XII.- Prestar apoyo y asesoría técnica a los órganos del poder público estat
 
 XIII.- Representar al Gobierno del Estado de Hidalgo ante los organismos internacionales, en todo lo relativo a investigación sobre la materia de derechos humanos;
 
-XIV.- Colaborar como auxiliar de la Comisión Nacional de Derechos Humanos, mediante el acopio y remisión de la información cuando ésta lo solicite o sea necesario; y
+XIV.- Colaborar como auxiliar de la Comisión Nacional de Derechos Humanos, mediante el acopio y remisión de la información cuando ésta lo solicite o sea necesario; y (sic)
 
-XV.- Las demás que le otorgue la Ley.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE MARZO DE 2008)</small>
+
+XV.- Llevar a cabo las acciones conducentes para prevenir y eliminar la discriminación;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XVI.- Formular y promover políticas públicas para la igualdad de oportunidades y de trato a favor de las personas que se encuentren en el Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XVII.- Coordinarse con las Dependencias y Entidades del Poder Ejecutivo, Legislativo y Judicial, Organismos Autónomos y Presidencias Municipales en materia de prevención y eliminación de la discriminación;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XVIII.- Las demás que le otorgue la Ley.
 
 ###### Artículo 9o.
 
@@ -277,9 +291,19 @@ X.- Nombrar, dirigir y coordinar a los funcionarios de la Comisión;
 
 XI.- Celebrar convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales;
 
-XII.- Establecer relaciones con la Comisión Nacional de Derechos Humanos, con otras Comisiones Estatales similares, con las Comisiones Internacionales respectivas y con los organismos no gubernamentales dedicados a la defensa de los derechos humanos; y
+XII.- Establecer relaciones con la Comisión Nacional de Derechos Humanos, con otras Comisiones Estatales similares, con las Comisiones Internacionales respectivas y con los organismos no gubernamentales dedicados a la defensa de los derechos humanos; y (sic)
 
-XIII.- Las demás que le sean conferidas por esta Ley y su Reglamento.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE MARZO DE 2008)</small>
+
+XIII.- Coordinarse con los Poderes del Estado, Organismos Autónomos y Presidencias Municipales a efecto de elaborar el proyecto del Programa Estatal para Prevenir y Eliminar la Discriminación;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XIV.- Suscribir y emitir los acuerdos de no discriminación, resoluciones por disposición o informes especiales que sean sometidos a su consideración y referente a la materia;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XV.- Las demás que le sean conferidas por esta Ley y su Reglamento.
 
 ###### Artículo 22.
 
@@ -431,6 +455,14 @@ Las pruebas aportadas a la Comisión por los quejosos y por los servidores públ
 
 La Comisión podrá realizar todas las acciones que a su juicio contribuyan a dar solución a los asuntos de que conoce, dentro del ámbito de sus facultades.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+En el ejercicio de sus funciones, el Presidente, los Visitadores, Directores de área, Subdirectores y Actuarios, contarán con fe pública.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+Para los efectos de esta Ley, fe pública, es la facultad de certificar la veracidad de los hechos, documentos preexistentes o declaraciones que tengan lugar o estén aconteciendo en su presencia, que se relacionen con el ejercicio de sus atribuciones.
+
 ###### Artículo 42.
 
 A partir del estudio y valoración de la documentación reunida y de las investigaciones realizadas, la Comisión determinará si las autoridades o servidores públicos en cuestión, son o no responsables de haber trasgredido los derechos humanos.
@@ -458,6 +490,334 @@ En los casos de grave violación de derechos humanos, no será aplicable la conc
 ###### Artículo 46.
 
 La Comisión sólo conocerá de asuntos sobre probables violaciones de derechos humanos, cuando éstas hubiesen ocurrido durante el año inmediato anterior a la fecha de presentación de la queja; también cuando el quejoso demuestre que tuvo conocimiento de los hechos que reclama, cuando éstos hubiesen ocurrido el año inmediato anterior a la fecha de presentación de su queja; la admisión de quejas en este último supuesto es facultad discrecional de la Comisión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2008)</small>
+
+### CAPITULO IX. PROCEDIMIENTO EN MATERIA DE DISCRIMINACION
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 47.
+
+Toda persona u organizaciones de la sociedad civil o colectividades, podrán denunciar presuntas conductas discriminatorias ante la Comisión, por sí, o por medio de un representante, independientemente de que tenga vínculos o no con el presunto agraviado.
+
+Las organizaciones de la sociedad civil o colectividades, designarán a una persona que las represente en la tramitación del procedimiento.
+
+En el caso de que sean varios los peticionarios, deberán designar un representante común, con quien se entenderán las notificaciones, salvo que la Comisión decida la notificación individual al quejoso.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 48.
+
+No se admitirán quejas anónimas, ni aquellas que resulten evidentemente improcedentes o infundadas; las que no expongan hechos que caractericen actos de discriminación, o éstos consistan en la reproducción de un acto discriminatorio ya examinado y resuelto.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 49.
+
+Se considerará que una queja es evidentemente improcedente o infundada, cuando se advierta carencia de fundamento, o de improcedencia de la pretensión o cuando se advierta que el peticionario se conduce con falsedad o mala fe, o tenga por finalidad, vulnerar la autonomía o autoridad moral de la Comisión.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 50.
+
+Todas las actuaciones del personal de la Comisión serán gratuitas. Esta circunstancia deberá informarse expresamente a los peticionarios desde su primer contacto con .personal de la misma.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 51.
+
+El personal de la Comisión deberá manejar la información o documentación relativa a los asuntos de su competencia de manera confidencial, en los términos del Artículo 27 de la Ley de Transparencia y Acceso a la Información Pública Gubernamental.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 52.
+
+Toda queja que se dirija a la Comisión deberá presentarse dentro del plazo de un año, contado a partir del día siguiente al de la fecha en que el quejoso tuvo conocimiento de la conducta presuntamente discriminatoria. Podrá presentarla verbalmente o por escrito, con su firma o huella digital del interesado y contendrá, como datos mínimos de identificación, el nombre y apellidos, domicilio, escolaridad y, en su caso, número telefónico o correo electrónico; asimismo, los mismos datos de quien presente la queja, si ésta fuere distinta del presunto agraviado.
+
+El escrito contendrá un relato claro de los hechos imputados, modo, tiempo y lugar en que ocurrieron; la información que considere relevante, su pretensión, y las evidencias o indicios que permitan la identificación del autor del presunto acto de discriminación.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 53.
+
+La falta de alguno de los datos o requisitos de procedibilidad establecidos en el Artículo anterior, se notificará por escrito al interesado o a la persona que designe o representante común, requiriéndolo para que en el plazo de cinco días hábiles siguientes a la notificación aclare o proporcione la información faltante.
+
+Si dentro del término, el interesado omite cumplir con el requerimiento, se le solicitará por segunda ocasión que efectúe las aclaraciones correspondientes, dentro del plazo de cinco días hábiles contados a partir del día siguiente en que se haga la segunda notificación. De persistir en la omisión, la queja se tendrá por no presentada.
+
+En el supuesto de que no sea posible localizar o ubicar al peticionario, a la persona autorizada o al representante común, para practicar los requerimientos, igualmente se dictará acuerdo de tenerla por no presentada. No obstante lo anterior, no será impedimento para que la Comisión, de manera discrecional, determine continuar de oficio con el trámite de la denuncia si considera graves y/o trascendentes los hechos planteados en ella.
+
+Dicha omisión tampoco será impedimento para que el peticionario vuelva a presentar la queja, siempre y que se encuentre dentro de los plazos que la Ley dispone.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 54.
+
+Las quejas también podrán presentarse por vía telefónica o por medios electrónicos, pero en esos casos deberán ser ratificadas dentro del plazo de cinco días hábiles, contados a partir del día siguiente al de la fecha en que se practicó el requerimiento; de lo contrario se tendrán por no presentadas.
+
+En estos casos, el requerimiento podré efectuarse por vía telefónica o medios electrónicos, a cuyo efecto se asentará acta circunstanciada en la que constarán los elementos necesarios de los que se desprenda que el quejoso quedó debida, completa y suficientemente enterado.
+
+En el caso de que los peticionarios se encuentren privados de su libertad, o materialmente impedidos para acudir a la Comisión por tener su domicilio o residencia fuera de la capital del Estado o zona conurbada, o por cualquier otra causa justificada que les impida ratificar la queja, personal de la Visitaduría Regional de la Comisión que les quedaré más cercana, deberá acudir ante dicho promovente a efecto de hacer constar si se ratifica o no la queja. Si no se ratifica se tendrá por no presentada.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 55.
+
+Cuando un quejoso solicite que su nombre no se dé a conocer al presunto agente discriminador, la queja se considerará anónima y se tendrá por no presentada.
+
+En este caso se evaluarán los hechos narrados por el peticionario y de estimar que éstos son graves y/o trascendentes, se propondrá al Consejo de la Comisión proceder de oficio a radicar el procedimiento y conocer de la presunta conducta discriminatoria.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 56.
+
+La radicación de la denuncia se registrará asignándole el número cardinal de expediente que le corresponda y se turnará al área competente dentro del día hábil siguiente para que proceda a su calificación. Se notificará al peticionario a la brevedad posible, la recepción de su queja.
+
+En dicha notificación se le informará que la presentación de su queja, no interrumpe la prescripción de las acciones judiciales o recursos administrativos que las Leyes establecen.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 57.
+
+El Presidente de la Comisión o el personal que éste designe, podrá emitir los mandamientos y para los efectos a que se refiere el Artículo 56, de esta Ley Orgánica fijándole un plazo al efecto.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 58.
+
+Cuando la Autoridad o particular a quien se haya solicitado el informe no lo emita por cualesquiera razón, o argumente la inexistencia de los hechos presuntamente discriminatorios, y si éstos resultaren ciertos, tal circunstancia se hará notar en la resolución final para que, en su caso, se califique la conducta y finquen las responsabilidades correspondientes. Si los presuntos hechos que motivaron la solicitud de la emisión de los informes resultaren falsos, el procedimiento quedará sin efecto.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 59.
+
+El personal de la Comisión contará con un plazo de tres días hábiles, contados a partir del día siguiente en que le fue turnado el expediente de queja, para realizar la calificación correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 60.
+
+La calificación podrá formularse en el sentido de que se trata de:
+
+I.- Un presunto acto de discriminación;
+
+II.- Por no surtirse la competencia de la Comisión;
+
+III.- Pendiente, cuando no haya suficientes elementos para calificar;
+
+IV.- Un caso de no discriminación;
+
+V.- Un caso de improcedencia.
+
+Cuando aparezcan nuevos elementos, sean aportados por el quejoso, o recabados de oficio, la calificación original podrá ser modificada.
+
+En el supuesto de haberse calificado la queja como pendiente, y no se tuvieren nuevos elementos para modificarla, se dictará acuerdo y asentará en el expediente la leyenda: "sin poder determinar la calificación, por falta de información".
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 61.
+
+Cuando la queja haya sido calificada como un presunto acto de discriminación, dentro de los cinco días hábiles siguientes a su presentación, se enviará al peticionario una notificación de admisión de la instancia en la que se le informará al respecto, el nombre del servidor público a cargo del expediente y el número telefónico de aquél. Asimismo, se le invitará a mantener comunicación con él durante la tramitación del procedimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 62.
+
+Cuando la queja haya sido calificada como un caso de incompetencia, a la brevedad posible y sin admitir la instancia, se comunicará este acto al peticionario, y se le hará saber la causa de la incompetencia de la Comisión y sus fundamentos. Asimismo, se le orientará de manera breve y sencilla respecto a la naturaleza de su asunto y las posibles formas de solución. En su caso, se precisará el nombre de la dependencia pública competente para atenderlo, a la que se enviará un oficio en el que se le hará saber que la Comisión ha orientado al peticionario hacia ella y le solicitará que lo reciba para la atención de su problema. Hecho lo anterior se dará por concluido el procedimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 63.
+
+Cuando la queja haya sido calificada como pendiente, por ser confusa o se requiera aportar mayor información, el servidor público a cargo del procedimiento, deberá realizar las gestiones pertinentes para aclararla, entre ellas, solicitará informes de colaboración a las Autoridades o particulares, quienes contarán con un plazo de cinco días hábiles contados a partir del día siguiente en que reciban la solicitud.
+
+Si lo que se requiere es que el peticionario proporcione mayor información para estar en condiciones de deducir los elementos que permitan la intervención de la Comisión, se notificará tal hecho por escrito al interesado para que la proporcione en un plazo de cinco días hábiles posteriores a la notificación; en caso de omisión, después del segundo requerimiento, que podrá ser por vía electrónica o por cualquier otro medio, se archivará el expediente por falta de interés.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 64.
+
+Cuando la queja haya sido calificada como de no discriminación, se emitirá acuerdo en el que se tendrá por concluido el expediente, notificándose dicha resolución al peticionario.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 65.
+
+Cuando la queja haya sido calificada como improcedente, dentro de los cinco días siguientes a su presentación se emitirá acuerdo en el que se tendrá por concluido el expediente, notificándose al interesado dentro de los cinco días siguientes a la emisión del mismo.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 66.
+
+Los escritos o peticiones que se reciban con posterioridad al inicio de un procedimiento, y se refieran a los mismos hechos que motivaron su apertura, se analizarán por el servidor público a cargo del expediente, para, en su caso, acumularlos al mismo, o radicarlos como un nuevo procedimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 67.
+
+En los casos en que un peticionario solicite expresamente la reapertura de un procedimiento, o que con posterioridad a su conclusión o archivo, se reciba información o documentación relacionada con los hechos que le dieron origen y que pudiesen motivar su reapertura, se estudiará la solicitud o información superveniente y se resolverá lo conducente. En caso afirmativo hará del conocimiento esta decisión al peticionario y al particular o servidor público presuntamente responsable del acto discriminatorio para los fines legales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 68.
+
+Cuando se presenten dos o más quejas que se refieran al mismo acto u omisión presuntamente discriminatorios, la Comisión podrá acumular los asuntos para su trámite en un solo procedimiento. El peticionario del procedimiento acumulado continuará siendo parte en el asunto.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 69.
+
+La Comisión, por conducto de su Presidente, de manera excepcional podrá excusarse de conocer de un determinado caso, si éste puede afectar su Autoridad moral o autonomía.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 70.
+
+Todas las actuaciones practicadas por personal de la Comisión con motivo de la integración de los expedientes de queja, deberán constar en actas circunstanciadas.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 71.
+
+Cuando el domicilio señalado por las partes sea inexistente, inexacto, o a pesar de las gestiones realizadas por el personal de la Comisión no sea posible su localización, esta circunstancia se hará constar en las actuaciones, y cualquier diligencia, acto o resolución relacionada con el trámite del procedimiento, se notificará por medio de rotulón. Este aviso permanecerá por el plazo que se determine en el auto correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 72.
+
+Una vez que la queja sea calificada como un presunto acto de discriminación, de inmediato se iniciará el procedimiento conciliatorio.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 73.
+
+La Comisión notificará el contenido de la queja al particular a quien se imputaron presuntos actos de discriminación y le hará saber que, si lo desea, podrá someter la misma al procedimiento conciliatorio.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 74.
+
+El particular, para los efectos del Artículo anterior, dispondrá de un plazo de cinco días hábiles contados a partir de la notificación, para expresar a esta Comisión su voluntad de someterse o no al procedimiento conciliatorio; de igual forma en ese plazo podrá expresar las manifestaciones que a su derecho convenga en cuanto a las imputaciones hechas en su contra y ofrecer las pruebas que estime necesarias para acreditar su dicho, siempre que éstas se encuentren ajustadas conforme a derecho.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 75.
+
+Si el particular al que se imputaron los hechos efectuó alguna manifestación respecto de las conductas presuntamente discriminatorias o presentó pruebas para acreditar su dicho, a juicio del personal a cargo del procedimiento, estas actuaciones se podrán hacer del conocimiento del quejoso para que manifieste lo que a su derecho convenga y al respecto ofrezca las pruebas que estime convenientes.
+
+En tal supuesto se le concederá un plazo máximo de cinco días hábiles contados a partir de la notificación correspondiente para que manifieste lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 76.
+
+Si las partes ofrecieron pruebas, concluido el plazo otorgado al quejoso a que se refiere el Artículo anterior, las mismas serán desahogadas en un plazo máximo de diez días.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 77.
+
+En casa de que las partes acepten someter la queja al procedimiento conciliatorio, la audiencia principal de conciliación deberá celebrarse dentro de los cinco días hábiles siguientes a la fecha en que ambos se hicieron sabedores de esa aceptación. Lo anterior será notificado al peticionario y al particular presunto responsable y se les informará a ambos la fecha de la audiencia de conciliación, a la que deberán comparecer.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 78.
+
+En el procedimiento de queja, en cuanta a la conciliación se refiere, se aplicarán las siguientes reglas:
+
+I.- Serán presididas par el personal de la Comisión designado para ello;
+
+II.- Serán privadas, por lo que sólo podrán encontrarse en el recinto en el que se lleven a cabo las personas que legítimamente deban intervenir. En el caso de que las partes hayan solicitado a la Comisión comparecer acompañados y su petición se acuerde positivamente; sus acompañantes no podrán intervenir en la audiencia, pero sí podrán asistir o asesorar al interesado en la procedencia y efectos de la conciliación a que se llegare;
+
+III.- Las personas que así lo requieran, serán asistidas por un traductor o intérprete, lo cual se asentará en el acta respectiva;
+
+IV.- Los servidores públicos de la Comisión estarán obligados a identificarse;
+
+V.- No se permitirá alteración del orden en la audiencia por persona alguna;
+
+VI.- Las personas que intervengan en la diligencia deberán comportarse respetuosamente; y
+
+VII.- En el acta circunstanciada correspondiente se hará constar el día, lugar y hora en que inicie y termine la audiencia. Asimismo, se harán constar las propuestas de conciliación, las posturas adoptadas al respecto y, en su caso, la solución a la que se llegue. Previa lectura del acta, ésta deberá ser signada por las partes y por el personal de la Comisión a cargo de la audiencia.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 79.
+
+Si transcurrido el plazo citado en el Artículo 74 de esta Ley, el particular no hace manifestación alguna respecto a su voluntad de someterse al procedimiento conciliatorio, a habiéndolo hecho en sentido afirmativo, después adopte conductas evasivas para atender la audiencia principal, se entenderá que no aceptó el procedimiento referido.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 80.
+
+Cuando a juicio del personal de la Comisión sea necesario allegarse de más elementos para una debida integración del expediente, podrá hacer uso de las siguientes facultades:
+
+I.- Solicitar al quejoso o al particular al que se imputaron los actos de discriminación, la presentación de informes o documentos complementarios o el ofrecimiento y desahogo de las pruebas que se estimen convenientes, con la única condición de que éstas se encuentren ajustadas conforme a derecho; y
+
+II.- Solicitar como colaboración a otros particulares, o servidores públicos, la aportación de documentos o informes relacionados con el asunto materia de la queja.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 81.
+
+Si cualquiera de las partes o ambas no aceptan el procedimiento conciliatorio, la Comisión podrá atender la Queja, brindar orientación al quejoso y valorará en su conjunto las constancias del expediente, de acuerdo con los principios de la lógica, la experiencia y la legalidad, a fin de que puedan producir convicción sobre los hechos denunciados, lo que se hará constar en el acuerdo de conclusión.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 82.
+
+Para el caso de que se acrediten los hechos posiblemente constitutivos de discriminación, se podrán adoptar las siguientes medidas:
+
+Para el caso de que el agente discriminador fuere servidor público se impondrán por conducto de su superior jerárquico:
+
+I.- Apercibimiento privado o público;
+
+II.- Amonestación privada o pública;
+
+III.- Suspensión;
+
+IV.- Destitución del puesto;
+
+V.- Sanción económica; y
+
+VI.- Inhabilitación temporal para desempeñar empleos, cargos, comisiones o concesiones en el servicio público.
+
+En el caso de que fuere alguna persona física o moral que ejerciere actividad comercial o empresarial:
+
+Se colocarán en lugares visibles carteles que notifiquen a la sociedad en general que dicha persona física o moral ejerció actos de discriminación, cuya duración será valorada en términos de la gravedad del acto. Para evitar que dichos carteles sean quitados, alterados o destruidos, la autoridad administrativa competente en auxilio del procedimiento ejercido por esta Comisión, le hará saber de las sanciones económicas en que pueden incurrir quienes, destruyan, alteren o modifiquen dichas notificaciones.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### Artículo 83.
+
+Los procedimientos de queja podrán concluir por:
+
+I.- No surtirse la competencia de la Comisión;
+
+II.- Carecer de evidencias o elementos que permitan acreditar la existencia de un hecho o acto de discriminación;
+
+III.- Desistimiento del quejoso o del presunto agraviado, expresado libremente y ratificado ante la Comisión;
+
+IV.- Falta de interés del peticionario o del presunto agraviado en la continuación del procedimiento;
+
+V.- Acumulación del expediente a otro que continúe en trámite;
+
+VI.- Haberse solucionado la queja mediante los procedimientos de conciliación o durante el trámite;
+
+VII.- La inexistencia de evidencias que permitan la identificación del autor del acto de discriminación;
+
+VIII.- Improcedencia;
+
+IX.- No existir materia para seguir conociendo del expediente de queja;
+
+X.- Tenerse por no presentada la queja;
+
+XI.- No sometimiento al procedimiento conciliatorio;
+
+XII.- Por tratarse de un presunto de (sic) acto de discriminación;
+
+XIII.- Excusa del Presidente de conocer de un asunto; y
+
+XIV.- Publicación de un informe especial.
 
 TRANSITORIOS:
 
@@ -508,3 +868,9 @@ PROFR. HERNAN MERCADO PEREZ.
 P.O. 6 DE DICIEMBRE DE 2004.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. Y 4o.DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 10 DE MARZO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
