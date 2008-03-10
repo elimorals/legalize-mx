@@ -4,7 +4,7 @@ identifier: "BCS-ley-reglamentaria-de-la-contaduria-mayor-de-hacienda-del-25360"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-10"
-last_updated: "2002-03-10"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY REGLAMENTARIA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 10 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 10 de marzo de 2002.
 
@@ -366,3 +368,29 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. DE 10 DE MARZO DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley Reglamentaria de lo Contaduría Mayor de Haciendo del Congreso del Estado de Bajo California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Boja California Sur, el 25 de febrero de 2002, y se derogarán todas las disposiciones legales, reglamentarias o administrativas que se opongan a la presente Ley.
+
+TERCERO.- El Órgano de Fiscalización Superior iniciará sus funciones a partir de los primeros quince días del mes de Mayo del año 2008.
+
+CUARTO.- En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia de la Ley materia del presente Decreto, en que se haga referencia o la Contaduría Mayor de Hacienda, se entenderán referidos al Órgano de Fiscalización Superior.
+
+QUINTO.-Todos los bienes, archivos y recursos presupuestales de la Contaduría Mayor de Hacienda, pasarán a ser patrimonio del Órgano de Fiscalización Superior quedando destinados y afectos a su servicio. El Órgano de Fiscalización Superior igualmente se subroga en todos los derechos y obligaciones de aquélla.
+
+SEXTO. - Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte del Órgano de Fiscalización Superior.
+
+SÉPTIMO.-Los asuntos que se encuentren en trámite o en proceso incluyendo las revisiones a los Cuentas Públicas del año 2007 en la Contaduría Mayor de Hacienda al entrar en vigor la presente Ley, continuarán tramitándose, por el Órgano de Fiscalización Superior en los términos de lo Ley Reglamentaria de la Contaduría Mayor de Hacienda que se abroga, hasta su conclusión.
+
+OCTAVO.- Las auditorías a las Cuentas Públicas, conforme a las disposiciones de ésta ley, se efectuarán a partir de las Cuentas Públicas correspondientes al mes de julio del año 2008.
+
+NOVENO.- El Auditor Superior elaborará el Reglamento Interno del Órgano de Fiscalización Superior dentro de los sesenta días siguientes a lo entrada en vigor de la presente Ley.
+
+DÉCIMO.-Remítase la presente Ley al Gobernador Constitucional del Estado, para los efectos previstos por el artículo 79, fracción I, de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+DÉCIMO PRIMERO.- Se elegirá y tomará protesta al Auditor Superior, a la entrada en vigor de la presente Ley, para que sea el encargado de ir instrumentando todos los preceptos legales, estructurando y organizando el nuevo Órgano de Fiscalización Superior que marca la presente ley.
