@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2007-12-31"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -433,7 +433,9 @@ IV.- Con la aprobación de la Legislatura, nombrar y remover a los empleados de 
 
 V.- Establecer las políticas rectoras para que los servicios internos se cubran cabalmente para el buen funcionamiento de los trabajos Legislativos.
 
-VI.- Proponer al Congreso el nombramiento del Oficial Mayor, Contador Mayor de Hacienda, Asesores Jurídicos y Directores de las Areas a que se refiere esta Ley.
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
+
+VI.- Proponer al Congreso el nombramiento del Oficial Mayor, Auditor Superior, Asesores Jurídicos y Directores de las Áreas a las que se refiere esta ley.
 
 VII.- Proponer al Congreso en Sesión Secreta la destitución de los funcionarios a que se refiere la Fracción anterior, cuando por causas graves o por el buen funcionamiento del Congreso deba hacerse la remoción y proponer a las personas que deban sustituirlas.
 
@@ -497,7 +499,9 @@ XI.- DE ECOLOGIA.
 
 XII.- DE ASUNTOS FISCALES Y ADMINISTRATIVOS.
 
-XIII.- DE LA CONTADURIA MAYOR DE HACIENDA.
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
+
+XIII.- DE VIGILANCIA DEL ORGANO DE FISCALIZACION SUPERIOR.
 
 XIV.- DE CUENTA Y ADMINISTRACION.
 
@@ -653,15 +657,17 @@ f).- Los que se refieran a las bases sobre las cuales el Ejecutivo y los Ayuntam
 
 g).- Las que le encomiende la Directiva del Congreso y la Gran Comisión.
 
-XIII.- DE LA CONTADURIA MAYOR DE HACIENDA:
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
 
-a).- Lo correspondiente a examen de la Cuenta Pública Municipal y Estatal, en los términos de la Constitución Política del Estado.
+XIII.- DE VIGILANCIA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR:
 
-b).- La aplicación de la Ley de la Contaduría Mayor de Hacienda, sus modificaciones o adiciones.
+a).- Lo correspondiente a la revisión de la Cuenta Pública Municipal y Estatal, en los términos de la Constitución Política del Estado.
+
+b).- La aplicación de la ley del Órgano de Fiscalización Superior, sus modificaciones o adiciones.
 
 c).- La vigilancia permanente en el control del gasto público del Estado y Municipios, de conformidad con las Leyes aplicables.
 
-d).- Lo relativo al manejo técnico contable de la Contaduría Mayor de Hacienda, así como de su personal en coordinación con la Oficialía Mayor del Congreso.
+d).- Ser enlace entre el Órgano de Fiscalización Superior y el Congreso del Estado, así como de su personal, en coordinación con la Oficialía Mayor.
 
 e).- Las demás que le fijen la Directiva del Congreso y la Gran Comisión.
 
@@ -937,9 +943,13 @@ VII.- Informar periódicamente a la Comisión de Cuenta y Administración y a la
 
 VIII.- Las demás que acuerde la Asamblea, la Comisión de Cuenta y Administración, la Gran Comisión, y que prescriban esta Ley y sus Reglamentos.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE MARZO DE 2008)</small>
+
 ### CAPITULO X
 
-DE LA CONTADURIA MAYOR DE HACIENDA.
+DEL ORGANO DE FISCALIZACION SUPERIOR.
+
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
 
 ### CAPITULO XI
 
@@ -947,17 +957,13 @@ DE LA ASESORIA JURIDICA.
 
 ###### ARTICULO 79.
 
-Para los efectos de las Fracciones IV, XXIX, y XXX del Artículo 64 y demás relativos de la Constitución Política del Estado, habrá una Contaduría Mayor de Hacienda, bajo la inmediata y exclusiva dependencia del Congreso.
+Para los efectos de las Fracciones IV, XXIX y XXX del Artículo 64 y demás relativos de la Constitución Política del Estado, habrá un Órgano de Fiscalización Superior, el cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 80.
 
-La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de la Contaduría Mayor de Hacienda, hará la revisión y auditoría de todas las cuentas que el ejecutivo, dependencias y organismos descentralizados estatales y municipales, que manejen fondos públicos otorgados por el Gobierno del Estado presenten anualmente ante el Congreso, y proporcionará todas las consultas que se le hagan.
-
-Asimismo, hará la revisión y fiscalización de las cuentas públicas que anualmente rinden ante el Congreso los ayuntamientos del Estado, y proporcionará todas las consultas que éstos le formulen.
-
-Una ley especial reglamentará la organización y funcionamiento de la Contaduría Mayor de Hacienda.
+El Órgano de Fiscalización Superior, hará la revisión, fiscalización y auditorias de todas las cuentas que el Ejecutivo, Legislativo, Judicial, entes públicos estatales, Gobiernos Municipales, entes públicos Municipales, entes públicos autónomos que manejen recursos públicos, así como del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas física y morales de derecho privado, que sean presentadas al Congreso del Estado.
 
 ### CAPITULO XII
 
@@ -1235,13 +1241,13 @@ ARTICULO 106 BIS.- Las comunicaciones oficiales que envían a este Congreso del 
 
 I.- Las comunicaciones oficiales provenientes de otras Legislaturas locales, de la Cámara de Senadores o de la Cámara de Diputados del Honorable Congreso de la Unión, con anexos de dictámenes que contengan puntos resolutivos, mediante los cuales exhorten a este Congreso a realizar una acción determinada, soliciten su adhesión para ciertos efectos, o planteen cualquier tipo de solicitud, serán leídos dichos dictámenes y se pondrán a consideración de la Asamblea en la misma sesión ordinaria en que se dieron cuenta al Pleno, para que este resuelva lo que corresponda respecto a lo planteado en sus puntos resolutivos y tomando en cuenta los considerandos que llevaron a los mismos;
 
-II.- Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
+II.-Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
 
 III.- Para el supuesto de que el asunto se discuta y resuelva en la misma sesión en la que se dio cuenta al Pleno, el trámite consistirá en el registro de las participaciones de las Diputadas y Diputados que así lo solicitaren, pudiendo hacer una propuesta concreta de modificación o adición de los puntos resolutivos que contenga el dictamen en cuestión. Una vez discutido, el asunto se votará en forma nominal, y resuelto el mismo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor que envíe el oficio respectivo para comunicar a la Legislatura de origen el acuerdo tomado por el Congreso del Estado de Baja California Sur, recaído a su solicitud de adhesión, a su exhorto o petición concreta que haya formulado;
 
 IV.- Para el caso de que la comunicación oficial de alguna Legislatura fuera sólo un oficio con la cita textual del acuerdo económico que se haya tomado en su seno, sin anexo del dictamen respectivo, y por lo tanto sin los elementos de juicio que llevaron a la asunción de tal acuerdo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
 
-V.- Cuando el acuerdo económico de alguna Legislatura plantee derogar, abrogar, o proponga reformas o adiciones a alguna ley o leyes federales o a la Constitución Política de los Estados Unidos Mexicanos, invariablemente el asunto se turnará a la Comisión Permanente que corresponda. Sin embargo, cuando tal acuerdo económico no contenga o no se le anexe la exposición de motivos respectiva, o no contenga el proyecto de decreto respectivo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
+V.-Cuando el acuerdo económico de alguna Legislatura plantee derogar, abrogar, o proponga reformas o adiciones a alguna ley o leyes federales o a la Constitución Política de los Estados Unidos Mexicanos, invariablemente el asunto se turnará a la Comisión Permanente que corresponda. Sin embargo, cuando tal acuerdo económico no contenga o no se le anexe la exposición de motivos respectiva, o no contenga el proyecto de decreto respectivo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
 
 VI.- Todos aquellos asuntos que se hayan discutido y resuelto con anterioridad por este Congreso, independientemente de que sean enviados por legislaturas diferentes, pero que se refieran al mismo tema, el Presidente de la Mesa Directiva ordenará al Oficial Mayor su archivo definitivo, bastando únicamente que se acuse de recibida tal comunicación oficial y se envíe dicho acuse a la Legislatura de origen;
 
@@ -2120,3 +2126,7 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 B.O. 31 DE DICIEMBRE DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
