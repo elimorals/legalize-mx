@@ -4,7 +4,7 @@ identifier: "HID-ley-del-periodico-oficial-del-estado-de-hidalgo-16983"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-30"
-last_updated: "1998-12-30"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "HID"
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL PERIODICO OFICIAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 30 de diciembre de 1998.
 
@@ -231,3 +233,13 @@ LIC. HUMBERTO ALEJANDRO LUGO GIL
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE GONZALO BADILLO ORTIZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE MARZO DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente Ley abroga a la Ley del Periódico Oficial del Estado de Hidalgo, publicada el 30 de diciembre de 1998.
+
+TERCERO.- Se derogan todas las disposiciones contrarias a esta Ley.
