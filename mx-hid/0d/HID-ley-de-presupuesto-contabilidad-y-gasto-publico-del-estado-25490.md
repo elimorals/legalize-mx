@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-15"
-last_updated: "2005-12-12"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de julio de 2002.
 
@@ -49,15 +49,19 @@ QUE CONTIENE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE H
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es de orden público, tiene por objeto normar y regular las acciones relativas a la planeación, programación, presupuestación, ejercicio, contabilidad, control, vigilancia y evaluación del Gasto Público Estatal, los procedimientos de coordinación para el registro e información de estas materias y corresponde su aplicación al Titular del Poder Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración, la cual dictará las normas para su aplicación e interpretación administrativa.
+La presente Ley es de orden público, tiene por objeto normar y regular las acciones relativas a la planeación, programación, presupuestación, ejercicio, contabilidad, control, vigilancia y evaluación del Gasto Público Estatal, los procedimientos de coordinación para el registro e información de estas materias y corresponde su aplicación al Titular .del Poder Ejecutivo del Estado a través de la Secretaría de Finanzas la cual dictará las normas para su aplicación e interpretación administrativa.
 
 ###### ARTICULO 2.
 
 Para efectos de esta Ley, se entenderá por:
 
-I.- SECRETARIA: A la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+I.- SECRETARIA: A la Secretaría de Finanzas;
 
 II.- CONTRALORIA: A la Secretaría de Contraloría;
 
@@ -200,6 +204,10 @@ La Secretaría, al revisar las propuestas presupuestales que hubiese recibido, c
 ###### ARTICULO 29.
 
 El Proyecto de Presupuesto de Egresos del Estado, deberá ser presentado al Titular del Ejecutivo Estatal por la Secretaría para su autorización y su envío al H. Congreso del Estado mediante la Iniciativa correspondiente, con los documentos a que se refiere el Artículo 34 de la presente Ley, a más tardar el día 15 de diciembre del año inmediato anterior al ejercicio que corresponda.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+ARTICULO 29 BIS.- En el proyecto de Presupuesto de Egresos del Estado, podrán incluirse, en su caso, para su autorización, erogaciones plurianuales para proyectos de inversión en infraestructura, las que deberán considerarse en los presupuestos de egresos subsecuentes.
 
 ###### ARTICULO 30.
 
@@ -491,13 +499,17 @@ Se exceptúa de lo dispuesto en este Artículo la documentación relativa a los 
 
 ### CAPITULO III. DE LA CUENTA PUBLICA
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 82.
 
-Para los efectos de esta Ley, la Cuenta Pública del Gobierno del Estado tiene por objeto conocer los resultados de la gestión financiera, comprobar si se ajusta a los criterios señalados por el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos y metas contenidos en el Programa Oficial emanado del Plan Estatal de Desarrollo.
+La revisión de Cuenta Pública, tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ha ajustado a los criterios señalados en el presupuesto aprobado, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos en los planes, programas y subprogramas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 83.
 
-La Secretaría será la responsable de formular la Cuenta Anual de la Hacienda Pública Estatal, la que se someterá a consideración del Titular del Poder Ejecutivo quien de conformidad con las disposiciones de la Constitución Política del Estado, la enviará para su revisión y aprobación al Congreso del Estado.
+La Secretaría será la responsable de formular la Cuenta Anual de la Hacienda Pública Estatal, la que se someterá a consideración del Titular del Poder Ejecutivo quien de conformidad con las disposiciones de la Constitución Política del Estado, la enviará para su revisión y fiscalización al Congreso del Estado, a más tardar el día 31 de marzo de cada año, correspondiente al año anterior.
 
 Los órganos competentes de los Poderes Legislativo y Judicial, remitirán oportunamente los estados e información a que se refiere el párrafo anterior al Ejecutivo Estatal, para su incorporación a la cuenta anual de la Hacienda Pública del Estado.
 
@@ -662,3 +674,9 @@ P.O. 12 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Por única ocasión, el Congreso del Estado, podrá emitir el documento respectivo, a más tardar el 20 de diciembre de 2005.
+
+P.O. 10 DE MARZO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
