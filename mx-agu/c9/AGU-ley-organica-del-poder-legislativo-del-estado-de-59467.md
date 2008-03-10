@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-59467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-02-04"
-last_updated: "2008-02-04"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -733,9 +733,21 @@ XX. De Planeación, Desarrollo Urbano y Obras Públicas;
 
 XXI. De Transporte Público;
 
-XXII. De Ciencia y Tecnología; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
 
-XXIII. De Asuntos Migratorios, Relaciones Internacionales e Interinstitucionales.
+XXII. De Ciencia y Tecnología;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XXIII. De Asuntos Migratorios, Relaciones Internacionales e Interinstitucionales;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XXIV. De la Juventud; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+
+XXV. De Fomento Cooperativo y Economía Social.
 
 ###### ARTÍCULO 65.
 
@@ -1082,6 +1094,34 @@ VI. Los relativos a políticas, planes, programas y estrategias a favor de los m
 VII. Coadyuvar con las diferentes instancias federales y estatales, en el adecuado cumplimiento y aplicación de los tratados internacionales para impulsar el desarrollo económico de la entidad; y
 
 VIII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento para esta Comisión.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### ARTÍCULO 87 Bis.
+
+Corresponde a la Comisión de la Juventud, el estudio y Dictamen de los siguientes asuntos:
+
+I. Las normas jurídicas relacionadas con la juventud;
+
+II. Las que se relacionen o afecten a los Jóvenes;
+
+III. Lo referente a las acciones que realice el Gobierno del Estado, respecto de la promoción, vinculación, fomento y difusión de las actividades relacionadas con los Jóvenes; y
+
+IV. Otros análogos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+###### ARTICULO 87 Ter.
+
+Corresponde a la Comisión de Fomento Cooperativo y Economía Social, el estudio y Dictamen de los siguientes asuntos:
+
+I. Las normas jurídicas en el ámbito del Estado, relativas al comercio justo;
+
+II. Las normas jurídicas en el ámbito del Estado, relativas al ahorro y crédito popular;
+
+III. La promoción del cooperativismo y solidaridad social; y
+
+IV. Otros análogas que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por la Comisión.
 
 ###### ARTÍCULO 88.
 
@@ -1914,3 +1954,15 @@ PRIMER SECRETARIO.
 Dip. Ubaldo Treviño Soledad,
 
 SEGUNDO SECRETARIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE MARZO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia a partir del día 15 de marzo del año 2008, conjuntamente con la Ley Orgánica del oder (sic) Legislativo del Estado de Aguascalientes, publicada a través del Decreto Número 364.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto, en el Periódico Oficial del Estado de Aguascalientes.
