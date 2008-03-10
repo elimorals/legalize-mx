@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-54789"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-19"
-last_updated: "2007-03-19"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE COSIO, AGS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 10 DE MARZO DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -875,13 +875,15 @@ El H. Ayuntamiento podrá ordenar la comparecencia de cualquier funcionario de l
 
 Dichos servidores públicos rendirán los informes solicitados, y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso cuando así lo amerite.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 97.
 
-El Secretario del H. Ayuntamiento, deberá estar presente durante la celebración de las Sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en la Sesión, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas.
+El Secretario del H. Ayuntamiento, deberá estar presente durante la celebración de las sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en la Sesión, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas.
 
-Las faltas temporales del Secretario del H. Ayuntamiento, serán suplidas por el Jefe de Asuntos Jurídicos.
+Las faltas temporales del Secretario del H. Ayuntamiento, serán suplidas por el Director de Asuntos Jurídicos.
 
-Será el Jefe de Asuntos Jurídicos quien auxiliará al Presidente, y fungirá como Secretario de manera temporal en la primera sesión ordinaria de cabildo, cuando para el efecto no se haya designado, ni tomado la protesta de ley al que fungirá definitivamente como Secretario del Ayuntamiento.
+Será el Director de Asuntos Jurídicos quien auxiliara al Presidente, y fungirá como Secretario de manera temporal en la primera sesión ordinaria de cabildo, cuando para el efecto no se haya designado, ni tomado protesta de ley al que fungirá definitivamente como Secretario del Ayuntamiento.
 
 ###### ARTICULO 98.
 
@@ -1961,9 +1963,11 @@ Cada una de las dependencias administrativas integrantes de la Administración P
 
 Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan Municipal de Desarrollo para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 223.
 
-Las dependencias de la Administración Pública Municipal contarán con las siguientes unidades administrativas:
+las dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
 
 I.- De la oficina del Presidente Municipal:
 
@@ -1971,17 +1975,19 @@ a).- Secretaría Particular;
 
 b).- Secretaria.
 
-II.- De la Secretaría del H. Ayuntamiento:
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
 
-a).- Departamento Jurídico;
+II.- De la Secretaria del H. Ayuntamiento:
+
+a).- Dirección Jurídica;
 
 b).- Departamento de Reglamentos y Licencias;
 
-c).- Departamento de Comunicación Social y Relaciones públicas;
+c).- Departamento de Comunicación Social y Relaciones Públicas:
 
-d).- Juez calificador;
+d).- Jueces Calificadores;
 
-e).- Delegados y comisarios.
+e).- Delegados y Comisarios.
 
 III.- Desarrollo Integral de la Familia:
 
@@ -2261,21 +2267,25 @@ V.- No ser pariente consanguíneo en línea recta en cualquier grado o en línea
 
 VI.- No presentar antecedentes criminales, ni policiales relativos a haber sufrido condena por delito doloso de carácter patrimonial o condena superior a 2 dos años de prisión por delito doloso diverso.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 239.
 
-Al frente del Departamento de Asuntos Jurídicos, habrá un profesionista en derecho, servidor público que será nombrado por el Presidente Municipal.
+Al frente de la Dirección de Asuntos Jurídicos, habrá un profesionista en derecho, servidor público que será nombrado por el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 240.
 
-Para ser Jefe del Departamento de Asuntos Jurídicos se deberán reunir los requisitos siguientes:
+Para ser titular de la Dirección de Asuntos Jurídicos se deberán reunir los requisitos siguientes:
 
-I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
+I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
 
-II.- Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
+II. Ser persona de reconocida solvencia moral tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
 
-III.- Poseer título debidamente registrado en la carrera de Licenciado en Derecho; y
+III. Poseer titulo debidamente registrado en la carrera de Licenciado en Derecho; y
 
-IV.- No presentar antecedentes criminales, relativos a haber sufrido condena por comisión de delito doloso.
+IV. No presentar antecedentes criminales, relativos a haber sufrido condena por comisión de delito doloso; (sic)
 
 ###### ARTICULO 241.
 
@@ -2429,57 +2439,65 @@ XX.- Autorizar en su caso las corridas de ganado que se le soliciten, previo est
 
 XXI.- Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2008)</small>
+
 APARTADO CUARTO
 
-Del Departamento de Asuntos Jurídicos
+De la Dirección de Asuntos Jurídicos
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 245.
 
-Corresponde al Departamento de Asuntos Jurídicos:
+Corresponde a la Dirección de Asuntos Jurídicos:
 
-I.- Recibir los reportes de los jueces calificadores;
+I. Recibir los reportes de los jueces calificadores;
 
-II.- Coordinar a los jueces calificadores, verificadores de reglamentos y área jurídica del municipio;
+II. Coordinar a los jueces calificadores, verificadores de reglamentos y área jurídica del municipio;
 
-III.- Elaborar, Examinar y Supervisar la redacción de convenios, contratos, o cualquier acto jurídico que celebren las dependencias municipales con particulares y/u otras dependencias;
+III. Elaborar, Examinar y Supervisar la redacción de convenios, contratos, o cualquier acto jurídico que celebren las dependencias municipales con particulares y/u otras dependencias;
 
-IV.- Vigilar que todas las actividades y procedimientos de la administración pública municipal se ajunte (sic) a las disposiciones reglamentarias vigentes, así como a las leyes aplicables;
+IV. Vigilar que todas las actividades y procedimientos de la administración pública municipal se ajuntes a las disposiciones reglamentarias vigentes, así como a las leyes;
 
-V.- Hacer los estudios e investigaciones procedentes para la elaboración de los anteproyectos de leyes, reglamentos, acuerdos, circulares y demás disposiciones de carácter general que deban ser sometidas para su autorización en sesión de cabildo;
+V. Hacer los estudios e investigaciones procedentes para la elaboración de los anteproyectos de leyes, reglamentos, acuerdos, circulares y demás disposiciones de carácter general que deban ser sometidas para su autorización en sesión de cabildo;
 
-VI.- Tener a su cargo, en coordinación con el Síndico Procurador la defensa y promoción de los procesos jurisdiccionales y contenciosos en los que intervenga el municipio;
+VI. Tener a su cargo, en coordinación con el Síndico Procurador la defensa y promoción de los procesos jurisdiccionales y contenciosos en los que intervenga el municipio;
 
-VII.- Llevar a cabo la tramitación de asuntos jurisdiccionales y contenciosos que ponga a su consideración la población de escasos recursos, previa autorización del Presidente Municipal;
+VII. Llevar a cabo la tramitación de asuntos jurisdiccionales y contenciosos que ponga a su consideración la población de escasos recursos, previa autorización del Presidente Municipal;
 
-VIII.- Asesorar jurídicamente al Ayuntamiento y a las demás dependencias administrativas;
+VIII. Asesorar jurídicamente al Ayuntamiento y a las demás dependencias administrativas;
 
-IX.- Rendir un informe mensual al Presidente Municipal de los avances y estado de los asuntos de su competencia;
+IX. Rendir un informe mensual al Presidente Municipal de los avances y estado de los asuntos de su competencia.
 
-X.- Desempeñar el papel de mediador en los conflictos que la población ponga a su consideración;
+X. Desempeñar el papel de mediador en los conflictos que la población ponga a su consideración;
 
-XI.- Citar, requerir y en su caso hacer comparecer a las personas que se consideren necesarias para la práctica de las diligencias a que haya lugar;
+XI. Citar, requerir y en su caso hacer comparecer a las personas que se consideren necesarias para la practica de las diligencias a que haya lugar;
 
-XII.- Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
+XII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
 
 APARTADO QUINTO
 
 Del Departamento de Reglamentos y Licencias
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 246.
 
 Corresponde al Departamento de Reglamentos y Licencias:
 
-I.- Inspeccionar y vigilar que se cumplan cor (sic) las disposiciones del presente Código y de las demás leyes en los giros municipales reglamentados;
+I. Inspeccionar y vigilar que se cumplan con las disposiciones del presente Código y de las demás leyes en los giros municipales reglamentados;
 
-II.- Llevar un archivo y control de los giros municipales reglamentados y de las licencias de esta naturaleza;
+II. Coordinar a los jueces calificadores, verificadores de reglamentos y área jurídica del municipio;
 
-III.- Llevar a cabo visitar (sic) periódicas en los giros municipales reglamentados a fin de verificar la existencia de las condiciones sanitarias adecuadas;
+III. Llevar a cabo visitas periódicas en los giros municipales reglamentados a fin de verificar la existencia de las condiciones sanitarias adecuadas;
 
-IV.- Inspeccionar el cierre al término del horario permitido de los giros municipales reglamentados;
+IV. Inspeccionar el cierre al término del horario permitido de los giros municipales reglamentados;
 
-V.- Imponer junto con el Secretario del H. Ayuntamiento las sanciones por la infracción de los giros municipales reglamentados;
+V. Imponer junto con el Secretario del H. Ayuntamiento las sanciones por la infracción de los giros municipales reglamentados;
 
-VI.- Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
+VI. Rendir al Presidente Municipal informes semanales de su actuación con copia para el Secretario del H. Ayuntamiento así como la Dirección Jurídica;
+
+VII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
 
 APARTADO SEXTO
 
@@ -13150,3 +13168,11 @@ SINDICO MUNICIPAL.
 Profr. Juan Ignacio Serna López,
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 10 DE MARZO DE 2008.
+
+###### ARTICULO UNICO.
+
+las reformas al código Municipal entraran en vigor al día siguiente de su publicación en el periódico oficial del Estado.
