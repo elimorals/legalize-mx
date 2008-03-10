@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2007-06-10"
+last_updated: "2008-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2008.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -337,9 +337,11 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 #### SECCION II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-41.- El Congreso del Estado de Baja California Sur se integrará por dieciséis Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2008)</small>
+
+41.- El Congreso del Estado de Baja California Sur se integrará con dieciséis Diputados de Mayoría Relativa, electos en su totalidad el primer domingo de julio de cada tres años, por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
 
 > <small>(REFORMADA, B.O. 27 DE OCTUBRE DE 2003)</small>
 
@@ -445,9 +447,11 @@ IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso 
 
 #### SECCION III. DE LAS SESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-50.- El Congreso del Estado tendrá, durante el año, dos Periodos Ordinarios de Sesiones; el primero, del 15 de Marzo al 30 de Junio; y el segundo, del 01 de Septiembre al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de Diciembre del mismo año.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2008)</small>
+
+50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones; el primero, del primero de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 30 de diciembre del mismo año; y el segundo, del 15 de marzo al 30 de junio del año siguiente.
 
 > <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)</small>
 
@@ -549,9 +553,9 @@ II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Cons
 
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 
-> <small>(REFORMADA B.O. 10 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
 
-IV.- Expedir la ley que regule su organización, su estructura y su funcionamiento interno, la cual no necesitará ser promulgada por el Gobernador del Estado para tener vigencia, así como expedir la Ley de la Contaduría Mayor de Hacienda.
+IV.- Formular su Ley Reglamentaria, así como la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur.
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
 
@@ -633,9 +637,15 @@ XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o e
 
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 
-XXIX.- Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
 
-XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones;
+XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE MARZO DE 2008)</small>
+
+XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, de los entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
+
+La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -769,7 +779,11 @@ VI.- No ser Secretario del Despacho del Poder Ejecutivo, Procurador General de J
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 
-70.- El Gobernador del Estado durará en su encargo seis años; iniciará el ejercicio de sus funciones el día 5 de abril.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
+
+70.- El Gobernador del Estado será electo el primer domingo de julio de cada seis años, e iniciará el ejercicio de sus funciones el día 10 de septiembre.
 
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
 
@@ -1319,9 +1333,11 @@ En el proyecto de Presupuesto de Egresos correspondiente se incluirán las parti
 
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-118.- Cada Municipio será gobernado por un ayuntamiento de elección popular directa, en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
+
+118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo del mes de julio de cada tres años en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
 
@@ -2522,3 +2538,39 @@ DECRETO NUMERO 1643
 B.O. 10 DE JUNIO DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE MARZO DE 2008.
+
+DECRETO NUMERO 1732
+
+PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Para efectos de dar cumplimiento a la reforma constitucional federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación, el día 13 de Noviembre de 2007, el gobernador electo el día 03 de febrero del año 2011, durará en su encargo del día 05 de abril del mismo año al 10 de septiembre del año 2015.
+
+TERCERO.- Para efectos de dar cumplimiento a la reforma constitucional federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación, el día 13 de Noviembre de 2007, los integrantes de la legislatura local electos el día 03 de febrero del año 2011, durarán en su encargo del día 15 de marzo del mismo año hasta el día primero de septiembre del año 2015.
+
+CUARTO.- Para efectos de dar cumplimiento a la reforma constitucional federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación, el día 13 de Noviembre de 2007, los integrantes de los ayuntamientos electos el día 03 de febrero del año 2011, ejercerán su función en los siguientes períodos:
+
+El municipio de Mulegé iniciará su período el día 24 de abril de 2011 y concluirá el 24 de septiembre del 2015
+
+El municipio de Loreto iniciará su período el día 25 de abril de 2011 y concluirá el 25 de septiembre de 2015.
+
+El municipio de Comondú iniciará su período el día 26 de abril de 2011 y concluirá el 26 de septiembre de 2015.
+
+El municipio de La Paz iniciará su período el día 27 de abril de 2011 y concluirá el 27 de septiembre de 2015.
+
+El municipio de Los Cabos iniciará su período el día 28 de abril de 2011 y concluirá el 28 de septiembre de 2015.
+
+QUINTO.- Para efectos de lo dispuesto por los artículos 41 y 50 a que hace referencia esta reforma, el presente decreto entrará en vigor el 30 de junio del año 2014.
+
+SEXTO.- Para los efectos del artículo 70 y 118 de la presente reforma, el presente decreto entrará en vigor el día 30 de junio del año 2014.
+
+SÉPTIMO.- Las reformas a las disposiciones legales del Estado de Baja California Sur, que sean necesarias para cumplir con la presente reforma constitucional, deberán ser realizadas dentro del plazo de un año establecido por el artículo sexto transitorio de la reforma constitucional federal, publicada en el Diario Oficial de la Federación el día 13 de noviembre de 2007.
+
+B.O. 10 DE MARZO DE 2008.
+
+DECRETO NUMERO 1733
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- En estricto apego a lo contemplado por el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos y en atención a la modificación del término Secretaría por el de Poder Legislativo, éste será garante del respeto irrestricto de los derechos adquiridos por los trabajadores del mismo a la entrada en vigor de la presente reforma.
