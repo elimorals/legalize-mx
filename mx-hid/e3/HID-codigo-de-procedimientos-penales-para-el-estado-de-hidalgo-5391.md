@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2007-12-31"
+last_updated: "2008-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -1586,6 +1586,10 @@ Los peritos que dictaminen serán cuando menos dos, pero bastará uno, cuando s�
 ###### ARTICULO 181.
 
 Los peritos deberán tener título oficial en la ciencia, técnica o arte relativos al punto sobre el cual dictaminarán, si el ejercicio de su profesión está reglamentado; de lo contrario, deberán nombrarse prácticos en la materia. También se nombrarán peritos prácticos cuando no hubiere titulados en el lugar en que se actúe.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+
+En caso de que el punto sobre el que deba determinarse, corresponda a las ciencias médicas, los peritos deberán ser profesionales certificados por los Colegios, Academias Nacionales o Consejos de Medicina de la especialidad correspondiente.
 
 ###### ARTICULO 182.
 
@@ -4296,3 +4300,7 @@ P.O. 31 DE DICIEMBRE DE 2007.
 DECRETO NUM. 544, POR EL QUE SE ADICIONA LA FRACCION XXI AL ARTICULO 119 DEL CODIGO DE PROCEDIMIENTOS PENALES.
 
 Único.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
