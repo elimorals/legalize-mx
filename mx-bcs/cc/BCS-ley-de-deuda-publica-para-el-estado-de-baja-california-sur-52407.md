@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-deuda-publica-para-el-estado-de-baja-california-sur-5240
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-25"
-last_updated: "2006-11-25"
+last_updated: "2008-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el sábado 25 de noviembre de 2006.
 
@@ -77,7 +77,9 @@ II.- Deuda Pública Estatal Contingente: La que contraiga el Estado como garante
 
 III.- Deuda Pública Municipal: La que contraigan, como obligados directos, los Municipios del Estado de Baja California Sur, los organismos descentralizados municipales o intermunicipales, las empresas de participación municipal y los fideicomisos públicos municipales.
 
-IV.- Deuda Pública Municipal Contingente: Cuando el Municipio actúe como garante, avalista o deudor solidario de sus organismos descentralizados municipales o intermunicipales, de las empresas de participación municipal y de los fideicomisos públicos municipales.
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
+
+IV.- Deuda Pública Municipal Contingente: Cuando el Municipio actúe como garante, avalista o deudor solidario, mancomunado o subsidiario de otros Municipios, de sus organismos descentralizados municipales o intermunicipales, de las empresas de participación municipal y de los fideicomisos públicos municipales.
 
 V.- Deuda Pública Directa: La deuda pública que contraten directamente el Estado o los Municipios.
 
@@ -123,11 +125,15 @@ El porcentaje necesario y suficiente a que se refiere el párrafo anterior, se d
 
 El Gobernador del Estado, los Presidentes Municipales y los demás servidores públicos, con facultades para negociar o contratar Deuda Pública Estatal o Municipal, están obligados a informar de su ejercicio, al rendir la Cuenta Pública anual o cuando expresamente, el Congreso del Estado o cualquier órgano facultado se los requiera, y trimestralmente en términos de la Constitución Política del Estado de Baja California Sur, de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur y de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur y demás legislación estatal aplicable.
 
-###### ARTÍCULO 10.
+###### Artículo 10.
 
 No constituirá deuda pública, la obligación a cargo del Estado de efectuar devoluciones derivadas de participaciones o aportaciones de recursos federales recibidas en exceso y que sea necesario restituir a la Federación, aún si generan intereses o rendimientos a favor de esta última.
 
 Asimismo, no constituyen Deuda Pública, los contratos para prestación de servicios a largo plazo, ni la afectación de ingresos, ni los mecanismos de afectación para cubrir dichos contratos.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Tampoco constituyen deuda pública los empréstitos o créditos que contraten las Entidades Públicas, cuyos vencimientos y liquidación se realicen en el mismo ejercicio fiscal en el que se contraten.
 
 ### CAPÍTULO SEGUNDO. DE LAS FACULTADES EN MATERIA DE DEUDA PÚBLICA
 
@@ -157,13 +163,21 @@ VIII.- Solicitar a las Entidades Públicas, la documentación e información com
 
 IX.- Autorizar al Poder Ejecutivo para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de las Entidades Públicas;
 
-X.- Autorizar a los Ayuntamientos para que, en representación de los Municipios, se constituyan en garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, de las entidades de la administración pública paramunicipal;
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
 
-XI.- Autorizar al Estado y a los Municipios, a afectar o utilizar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, así como de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, sus derechos al cobro e ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos federales o locales de los que puedan disponer, para ese fin, de conformidad con la legislación aplicable;
+X.- Autorizar a los Ayuntamientos para que, en representación de los
+
+Municipios, se constituyan en garantes, avalistas, obligados solidarios, mancomunados, subsidiarios o sustitutos, de otros Municipios del Estado, de sus organismos descentralizados municipales o intermunicipales, de las empresas de participación municipal y de los fideicomisos públicos municipales;
+
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
+
+XI.- Autorizar a las Entidades Públicas, para afectar, ceder o utilizar individual o conjuntamente con otras Entidades Públicas, como fuente o garantía de pago, o ambas, de las obligaciones o financiamientos que celebren o los valores que emitan directa o indirectamente, así como de aquellas en las que funjan como garantes, avalistas, obligados solidarios, mancomunados, subsidiarios o sustitutos, sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, todos ellos una vez cobrados; participaciones en ingresos federales, fondos o aportaciones federales, o cualesquier otros ingresos federales; o cualesquier ingresos locales una vez cobrados éstos últimos, de los que puedan disponer para ese fin, de conformidad con la legislación aplicable;
 
 XII.- Autorizar a las entidades de la administración pública paraestatal y paramunicipal, a afectar o utilizar como fuente o garantía de pago, o ambas, de los financiamientos que contraten sus derechos al cobro e ingresos derivados de cuotas, derechos, productos o cualesquier otros ingresos federales o locales de los que puedan disponer, para ese fin, de conformidad con la legislación aplicable;
 
-XIII.- Analizar y en su caso, autorizar la celebración de los mecanismos legales que, bajo cualquier modalidad o forma, se propongan instrumentar las Entidades Públicas, a efecto de garantizar o realizar el pago de financiamientos;
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
+
+XIII.- Analizar, y en su caso, autorizar la celebración de los mecanismos legales que, bajo cualquier modalidad o forma, se propongan instrumentar las Entidades Públicas, a efecto de garantizar o realizar el pago de obligaciones, de financiamientos y en su caso, los valores a que se refiere el Capítulo V de esta Ley;
 
 XIV.- Vigilar que se incluyan anualmente, dentro del proyecto de Presupuesto de Egresos del Estado y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago del servicio de la deuda pública directa del Estado, correspondiente al ejercicio fiscal de que se trate; y
 
@@ -175,7 +189,11 @@ Al Poder Ejecutivo del Estado le compete:
 
 I.- Presentar anualmente al Congreso, la iniciativa de Ley de Ingresos del Estado, proponiendo en su caso, los montos y conceptos de endeudamiento, directo, indirecto y contingente, que sean necesarios para el financiamiento del Estado y de las entidades de la administración pública paraestatal, en el ejercicio fiscal correspondiente;
 
-II.- Solicitar al Congreso, la reforma o adición de la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales, que sean necesarios para el financiamiento del Estado y en su caso, de las entidades de la administración pública paraestatal a su cargo cuando considere que existen circunstancias económicas extraordinarias, que así lo justifiquen;
+II.- Solicitar al Congreso, la reforma o adición de la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales, que sean necesarios para el financiamiento del Estado y en su caso, de las entidades de la administración pública paraestatal a su cargo cuando considere que existen circunstancias económicas extraordinarias, que así lo justifiquen.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Asimismo, presentar a la Legislatura del Estado para su aprobación, las solicitudes relativas o los montos de endeudamiento adicionales, afectaciones o cesiones, el establecimiento de fuentes de pago directas o alternas, o la constitución de garantías de pago totales o parciales, o ambas, a que se refiere el artículo 12 de esta Ley, en sus fracciones XI y XII;
 
 III.- Presentar ante el Congreso, las solicitudes de autorización de endeudamiento, en términos de lo previsto por esta Ley;
 
@@ -197,7 +215,11 @@ Corresponde a la Secretaría de Finanzas:
 
 I.- Preparar el proyecto de iniciativa de Ley de Ingresos del Estado, considerando los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Estado y de las entidades paraestatales en el ejercicio fiscal correspondiente;
 
-II.- Elaborar los proyectos de reforma o adición de la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales, que sean necesarios para el financiamiento del Estado y en su caso, de las entidades de la administración pública paraestatal a su cargo, cuando considere que existen circunstancias económicas extraordinarias, que así lo justifiquen;
+II.- Elaborar los proyectos de reforma o adición de la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales, que sean necesarios para el financiamiento del Estado y en su caso, de las entidades de la administración pública paraestatal a su cargo, cuando considere que existen circunstancias económicas extraordinarias, que así lo justifiquen.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Asimismo, formular las solicitudes que serán sometidas por el Ejecutivo del Estado, para aprobación de la Legislatura del Estado, relativas a los montos de endeudamiento adicionales, afectaciones o cesiones, o el establecimiento de fuentes de pago directas o alternas, o la constitución de garantías de pago totales o parciales, o ambas, a que se refiere el artículo 12 de esta Ley, en sus fracciones XI y XII;
 
 III.- Celebrar, de conformidad con la autorización del Congreso del Estado, empréstitos en representación del Estado de Baja California Sur;
 
@@ -209,7 +231,11 @@ VI.- Celebrar, según corresponda de acuerdo a lo previsto en esta Ley, operacio
 
 VII.- Constituir al Estado, previa autorización del Congreso y sujeto a lo establecido en esta Ley, en garante, avalista, deudor solidario, subsidiario o sustituto de las Entidades Públicas señaladas en las fracciones II a V del Artículo 2 de esta Ley;
 
-VIII.- Afectar o utilizar, previa autorización del Congreso del Estado, como fuente o garantía de pago, o ambas, de los financiamientos que contrate directamente el Estado o de aquellos en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto, sus derechos al cobro e ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos, federales o locales, de los que pueda disponer, con ese fin, de conformidad con la legislación aplicable y realizar en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago;
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
+
+VIII.- Afectar, ceder o utilizar, previa autorización del Congreso del Estado, como fuente de pago directa o alterna, o la constitución de Garantía de pago totales o parciales, o ambas, de las obligaciones o financiamientos que contrate el Estado o de aquellos en los que funja como garante, avalista, obligado solidario, subsidiario o sustituto, sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, todos ellos una vez cobrados; participaciones en ingresos federales, fondos o aportaciones federales o cualesquier otros ingresos, federales; o cualesquier otros ingresos locales una vez cobrados éstos últimos, de los que pueda disponer, con ese fin, de conformidad con la legislación aplicable y realizar en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago.
+
+Al efecto tendrá todas las facultades para negociar y concertar los términos y condiciones que sean necesarias o convenientes para la consecución de las afectaciones o cesiones a que se refiere el párrafo anterior, pudiendo celebrar los convenios, contratos y demás actos jurídicos o materiales necesarios, convenientes o complementarios para dicho fin;
 
 IX.- Negociar, previa autorización del Congreso, los términos y condiciones, así como celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebre directamente el Estado o de aquellos en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto;
 
@@ -247,19 +273,27 @@ I.- Celebrar empréstitos, en forma individual o conjunta con otros Municipios, 
 
 II.- Negociar, aprobar, celebrar y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos a cargo de los Municipios, autorizados conforme a lo previsto en esta Ley;
 
-III.- Emitir valores, en forma individual o conjunta con otros Municipios, previa autorización del Congreso del Estado, y colocarlos entre el gran público inversionista, en los términos de esta Ley y de la legislación aplicable;
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
+
+III.- Emitir valores, directa o indirectamente, en forma individual o conjunta con otros Municipios del Estado, previa autorización del Congreso del Estado, para su colocación entre el gran público inversionista, en los términos de esta Ley y de la legislación aplicable;
 
 IV.- Celebrar, de acuerdo a lo previsto por esta Ley, operaciones de refinanciamiento y reestructuración de la deuda pública municipal;
 
-V.- Constituir, previa autorización del Congreso del Estado, y sujeto a lo establecido en esta Ley, garantías, avales, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal;
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
+
+V.- Otorgar o constituirse, en representación del Municipio, previa autorización del Congreso del Estado, y sujeto a lo establecido en esta Ley, garantías, otorgar avales, obligarse solidariamente, mancomunadamente o subsidiariamente o ser obligado sustituto de otros Municipios, de sus organismos descentralizados municipales o intermunicipales, de las empresas de participación municipal y de los fideicomisos públicos municipales;
 
 VI.- Solicitar, en su caso, al Estado que se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, con relación a financiamientos que se propongan celebrar de acuerdo a lo estipulado en esta Ley;
 
 VII.- Celebrar con el Estado, a través de la Secretaría de Finanzas, previa autorización del Ayuntamiento respectivo, convenio en el que se establezcan los mecanismos, para que el Estado pueda recuperar las cantidades que hubiere llegado a pagar como garante, avalista, deudor solidario, subsidiario o sustituto del Municipio, por incumplimiento de sus compromisos de pago, garantizándolo con las Participaciones que le correspondan a este último, ya sean éstas federales o estatales;
 
-VIII.- Afectar o utilizar, previa autorización del Congreso del Estado, como fuente de pago o garantía, o ambas, de los financiamientos que celebren directamente o de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, sus derechos al cobro e ingresos derivados de impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales y estatales, o cualesquier otros ingresos de los que puedan disponer, para ese fin, de conformidad con la legislación aplicable y realizar, en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago;
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
 
-IX.- Negociar, previa autorización del Congreso del Estado, los términos y condiciones y celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebren directamente o de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos;
+VIII.- Afectar, ceder o utilizar, previa autorización del Congreso del Estado, individual o conjuntamente con otras Entidades Públicas, como fuente de pago directa o alterna, o garantía de pago total o parcial, o ambas, de las obligaciones o financiamientos que contrate o de aquellos en los que funja como garante, avalista, obligado solidario, subsidiario o sustituto, sus derechos a recibir o los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, todos ellos una vez cobrados; participaciones en ingresos federales, fondos o aportaciones federales o cualesquier otros ingresos, de los que pueda disponer, para ese fin, de conformidad con la legislación aplicable y realizar en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago;
+
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
+
+IX.- Negociar, previa autorización del Congreso del Estado, los términos y condiciones y celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebren directamente o de aquellos en los que funjan como garantes, avalistas, deudores solidarios, mancomunados, subsidiarios o sustitutos, así como aquellos necesarios para la emisión de valores;
 
 X.- Realizar, en su caso, a través de los mecanismos legales establecidos, el pago de obligaciones y empréstitos contraídos y vigilar que se hagan oportunamente los pagos, de la deuda pública contingente e indirecta;
 
@@ -327,9 +361,11 @@ XVII.- Las demás que, en materia de deuda pública, se les confieran en esta Le
 
 ### CAPÍTULO TERCERO. DE LA PRESUPUESTACIÓN DE LA DEUDA PÚBLICA
 
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
+
 ###### Artículo 17.
 
-La contratación de empréstitos a cargo de los Municipios, deberá ser previamente autorizada por sus respectivos Ayuntamientos. Dicha autorización, será requisito necesario para gestionar la autorización de los mismos ante el Congreso del Estado.
+La contratación de empréstitos a cargo de los Municipios, así como en la emisión de valores y la constitución de fideicomisos emisores de valores, deberá ser previamente autorizada por sus respectivos Ayuntamientos.
 
 ###### Artículo 18.
 
@@ -377,25 +413,83 @@ También podrá autorizarse a los Ayuntamientos, la contratación de financiamie
 
 Las Entidades Públicas que se propongan contraer deuda pública, deberán analizar las diferentes opciones de financiamiento disponibles en el mercado financiero, para los conceptos a que se destinarán los empréstitos o créditos y optar por la opción (sic) que ofrezca las condiciones jurídicas, de disponibilidad y financieras, más favorables al interés público.
 
-### CAPÍTULO QUINTO. DE LA EMISIÓN Y COLOCACIÓN DE VALORES
+> <small>(REFORMADA SU DENOMINACION, B.O. 11 DE MARZO DE 2008)</small>
+
+### CAPÍTULO QUINTO. DE LA EMISIÓN Y COLOCACIÓN DE VALORES Y DE LOS FIDEICOMISOS EMISORES DE VALORES Y DE CAPTACIÓN DE RECURSOS
+
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 28.
 
-La autorización que otorgue el Congreso del Estado a las Entidades Públicas, para llevar a cabo la emisión de valores, deberá señalar el monto o cantidad autorizada y demás características, sin perjuicio de mencionar el pago de intereses, comisiones o gastos asociados a la emisión, que tenga que cubrir el Estado, los Municipios, en forma individual o conjunta, o la Entidad Pública contratante o emisora. Asimismo, dicha autorización establecerá la celebración de todos los actos jurídicos necesarios, para llevar a cabo la emisión de valores.
+La autorización que otorgue el Congreso del Estado a las Entidades Públicas, para llevar a cabo la emisión de valores directa o indirectamente, deberá señalar el monto o cantidad autorizada y demás características, sin perjuicio de mencionar el pago de intereses, comisiones o gastos asociados a la emisión, que tenga que cubrir el Estado, los Municipios, en forma individual o conjunta, o la Entidad Pública contratante o emisora. Asimismo, dicha autorización establecerá la celebración de todos los actos jurídicos necesarios, para llevar a cabo la emisión de valores.
 
 ###### Artículo 29.
 
 Sujeto a lo previsto en esta Ley, las Entidades Públicas a quien se les aplique el presente ordenamiento, podrán ocurrir al mercado de valores para captar recursos, mediante la emisión de valores entre el gran público inversionista.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Asimismo, las Entidades Públicas del Estado podrán, directa o indirectamente e individual o conjuntamente con otras Entidades Públicas, constituir fideicomisos emisores de valores y/o de captación de recursos, de administración y de pago cuyo patrimonio se integre en términos de la autorización de la Legislatura del Estado a que se refieren los artículos 28 y 31 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+El Estado y los Municipios, en los fideicomisos a que se refiere el párrafo anterior, previa autorización de la Legislatura del Estado y del Ayuntamiento, según se trate, podrá obligarse a indemnizar de la pérdida o menoscabo patrimonial o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de las obligaciones de hacer y no hacer relacionadas con la afectación o cesión al patrimonio de los fideicomisos mencionados, de los bienes y/o derechos, así como los flujos de efectivo derivados de los mismos.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Los fideicomisos a que se refiere el presente artículo, en ningún caso, serán considerados como parte de la administración pública paraestatal o paramunicipal por lo que no les es aplicable lo previsto por la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, ni la Ley Orgánica del Gobierno Municipal del Estado de Baja California Sur.
+
 ###### Artículo 30.
 
 El Estado y los Municipios, en forma individual o conjunta, y las Entidades Públicas integrantes de la Administración Pública Paraestatal y Paramunicipal, en cumplimiento de lo previsto por la fracción VIII, del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, sólo podrán emitir títulos de deuda pública pagaderos en moneda nacional y dentro del territorio Nacional, previa autorización del Congreso del Estado.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Asimismo, dichos requisitos deberán ser cumplidos por los fideicomisos a que se refiere el artículo 30 Bis de esta Ley, con respecto a la emisión de valores y en los actos jurídicos, a través de los cuales se efectúe la captación de recursos.
+
 Tanto en el acta de emisión como en los títulos mismos, deberán citarse los datos fundamentales de la autorización y la prohibición de su venta a extranjeros, sean éstos Gobiernos, entidades gubernamentales, sociedades particulares u organismos internacionales. Si en tales documentos no se consignan dichas prevenciones, los mismos no tendrán validez alguna.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 30 Bis.
+
+Corresponde al Congreso del Estado, autorizar a las Entidades Públicas, individual o conjuntamente, para afectar o ceder al patrimonio de los fideicomisos a que se refiere el presente Capítulo, sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, todos ellos una vez cobrados; participaciones en ingresos federales, fondos o aportaciones federales, o cualesquier otros ingresos federales; o cualesquier otros ingresos locales una vez cobrados éstos últimos, de los que puedan disponer para ese fin, de conformidad con la legislación aplicable, a efecto de que sirvan como base de la emisión de valores y de la captación de recursos, mismos que deberán contar a su vez con la autorización del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 30 Bis 1.
+
+Corresponde al Ejecutivo del Estado, someter a la autorización del Congreso del Estado los actos a que se refiere el artículo anterior, cuando se trate de los fideicomisos constituidos por las Entidades Públicas señalados en las fracciones I, III, IV, y V en lo que corresponda, del artículo 2 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 30 Bis 2.
+
+Corresponde a la Secretaría de Finanzas:
+
+l. Formular las solicitudes que serán sometidas por el Ejecutivo del Estado para aprobación de la Legislatura del Estado, relativas a la constitución de los fideicomisos a que se refiere el artículo 30 Bis 1 de esta Ley y a la emisión de valores de las Entidades Públicas señaladas en las fracciones I, III IV y V, en lo que corresponda, del artículo 2 de esta Ley;
+
+II. Afectar o ceder ingresos, derechos y bienes a que se refiere el artículo 30 Bis de esta Ley, al patrimonio de los fideicomisos a que se refiere el artículo 29 de esta Ley, a efecto de que sirvan como base de la emisión de valores y/o de la captación de recursos, previa autorización de la Legislatura en términos del artículo 30 Bis 1 de esta Ley.
+
+Al efecto tendrá todas las facultades para negociar y concertar los términos y condiciones que sean necesarios o convenientes para la consecución de las afectaciones o cesiones a que se refiere el párrafo anterior, pudiendo celebrar los convenios, contratos y demás actos jurídicos o materiales necesarios, convenientes o complementarios;
+
+III. Vigilar que la capacidad de pago de los fideicomisos a que se refiere el artículo 30 Bis 1 de la presente Ley, sea suficiente para cubrir puntualmente los compromisos que contraigan para tal efecto los fiduciarios respectivos; debiendo supervisar de forma permanente la adecuada estructura financiera de los fideicomisos de que se trate; y
+
+IV. Contratar directamente a instituciones calificadoras de valores debidamente autorizados en los Estados Unidos Mexicanos, auditores externos, asesores especializados, agentes estructuradores, intermediarios financieros, proveedores de precios y otras personas necesarias o convenientes, a efecto de que asesoren a la administración pública, y en su caso, entre otras actividades, emitan su opinión respecto de la calidad crediticia del (sic) los fideicomisos a que se refiere el artículo 29 de la presente Ley, de sus emisiones de valores y los actos jurídicos a través de los cuales se realiza la captación de recursos y de su estructura. Asimismo, podrá contratar a dichas personas, para que en sus correspondientes ámbitos, realicen la revisión periódica de las calificaciones respectivas, la dictaminación de los estados financieros del propio fideicomiso, que incluyan su situación financiera, la colocación de los valores, y de manera general, realizar cualquier acto jurídico o material que coadyuve a mejorar la capacidad crediticia, las condiciones y estructura de los fideicomisos a que se refiere el artículo 29 de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 30 Bis 3.
+
+Los Municipios, podrán solicitar individual o conjuntamente al Congreso del Estado la afectación o cesión de los ingresos, derechos y bienes señalados en el artículo 30 Bis de esta Ley, al patrimonio de los fideicomisos a que se refiere el presente Capítulo, a efecto de que sirvan como base de la emisión de valores o como medio de pago de los valores que se emitan.
+
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 31.
 
-Para llevar a cabo la emisión de valores, el Estado o cualquiera de los Municipios, en forma individual o conjunta, así como cualquier Entidad Pública, podrá realizarla en forma directa o a través de un fideicomiso emisor, constituido con ese fin y con los que se determinen en el propio contrato constitutivo, de conformidad con la legislación aplicable.
+Las emisiones de valores autorizadas por el Congreso del Estado en los términos de la presente Ley, podrán ser realizadas de manera directa por las Entidades Públicas o por el fiduciario de un fideicomiso de los referidos en el presente Capítulo, constituido por alguno o diversas Entidades Públicas, con ese fin y de conformidad con el correspondiente decreto de autorización de la Legislatura del Estado, en términos del contrato constitutivo del mismo, de acuerdo a la legislación aplicable.
+
+Los fiduciarios de los fideicomisos a que se refiere el presente Capítulo podrá (sic) por cuenta de los fideicomisos realizar la captación de recursos a través de los actos jurídicos que celebren de conformidad con el correspondiente decreto de autorización del Congreso del Estado, en términos del acto jurídico respectivo y de acuerdo con la legislación aplicable.
 
 ###### Artículo 32.
 
@@ -407,55 +501,85 @@ En la emisión de valores, el Estado o los Municipios, en forma individual o con
 
 ###### Artículo 34.
 
-Los valores que emitan cualquiera de las Entidades Públicas señaladas en la presente Ley, se considerarán títulos de deuda pública.
+(DEROGADO, B.O. 11 DE MARZO DE 2008)
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 35.
 
-Los valores serán colocados entre el gran público inversionista por un intermediario del mercado de valores legalmente autorizado, a través de una bolsa de valores mexicana legalmente autorizada, para operar como tal.
+Los valores que se emitan por las Entidades Públicas del Estado o por los fideicomisos emisores, que los primeros constituyan, podrán ser colocados de manera privada o entre el gran público inversionista por uno o varios intermediarios financieros autorizados al efecto, a través de una bolsa de valores autorizada por la Comisión Nacional Bancaria de Valores.
 
 ###### Artículo 36.
 
 En todo lo referente a la emisión, colocación y operación de los valores, las Entidades Públicas se sujetarán a lo previsto en la Ley del Mercado de Valores y demás ordenamientos aplicables.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 36 Bis.
+
+En la emisión de valores, las Entidades Públicas o en su caso, los fiduciarios de los fideicomisos a que se refiere el presente Capítulo, podrán constituir garantías, esquemas financieros o contratar a aseguradoras financieras y cualesquiera otras personas que otorguen una garantía financiera a los valores emitidos.
+
+De la misma manera, los fiduciarios de los fideicomisos o que se refiere el presente Capítulo podrán, conjuntamente con la celebración de los actos jurídicos por los cuales realicen captación de recursos, constituir o contratar cualesquiera garantías de pago oportuno.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 36 Bis 1.
+
+La autorización que otorgue la Legislatura del Estado, para que las Entidades Públicas o los fiduciarios de los fideicomisos a que se refiere el presente Capítulo, puedan llevar a cabo la emisión de valores y en su caso, la celebración de los actos jurídicos por los cuales se capten recursos, deberá señalar que el destino de los recursos que se obtengan, será para la realización de Inversiones Públicas Productivas, así como el monto o cantidad máxima autorizada de la emisión, y demás características generales; pudiendo establecer condiciones relativas al pago de intereses, comisiones o gastos asociados, que tenga que cubrir la Entidad Pública emisora o el fideicomiso respectivo, en su caso; además de las autorizaciones para la celebración de todos los actos jurídicos o materiales, necesarios o convenientes al efecto.
+
 ### CAPÍTULO SEXTO. DEL PAGO Y GARANTÍA DE LOS EMPRÉSTITOS Y DE LAS EMISIONES DE VALORES
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 37.
 
-El Estado o los Municipios, en la contratación de los empréstitos o créditos o en la emisión de valores, podrán utilizar como fuente de pago directa o alterna, de los mismos, un porcentaje de los derechos o ingresos de las participaciones que en ingresos federales les correspondan, de conformidad con la autorización de los citados empréstitos o créditos y su mecanismo de pago respectivo.
+El Estado o los Municipios en la contratación de obligaciones, empréstitos o créditos o en la emisión de valores, podrán utilizar individual o conjuntamente, como fuente de pago directa o alterna, de los mismos, un porcentaje suficiente y necesario de los derechos o ingresos de las participaciones que en ingresos federales les correspondan, de conformidad con la autorización de los (sic) citadas obligaciones, empréstitos o créditos y su mecanismo de pago respectivo.
 
 Las participaciones federales que correspondan al Estado o a los Municipios de Baja California Sur son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por el Estado o sus Municipios, con autorización del Congreso del Estado. Solamente, cuando las participaciones federales del Estado o de los Municipios se utilicen para pagar financiamientos de los señalados en la presente Ley, entonces dichos financiamientos se inscribirán en el Registro de Obligaciones y Empréstitos.
 
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
+
 ###### Artículo 38.
 
-El Estado, los Municipios, así como las Entidades Públicas, a quienes se les aplique la presente Ley, en la contratación de los empréstitos o créditos o en la emisión de valores, podrán utilizar como garantía de los mismos, un porcentaje de los derechos o ingresos de las participaciones que en ingresos federales les correspondan, de conformidad con la autorización de los citados empréstitos o créditos y su mecanismo de pago o garantías respectivas.
+Las Entidades Públicas, en la contratación de las obligaciones, empréstitos o créditos o en la emisión de valores, podrán utilizar individual a conjuntamente, como garantía total o parcial de los mismos, un porcentaje suficiente y necesario de los derechos o ingresos de las participaciones que en ingresos federales les correspondan, de conformidad con la autorización de las citadas obligaciones, empréstitos o créditos o emisión de valores, y su mecanismo de pago o garantías respectivas.
+
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 39.
 
-El Estado o los Municipios podrán utilizar como fuente de pago de su deuda pública, los ingresos o derechos que reciban por concepto de Ramos, Programas, Ingresos o Aportaciones federales y que conforme a la legislación aplicable, estén destinados y se puedan utilizar para el pago de sus obligaciones financieras.
+. El Estado o los Municipios podrán utilizar individual o conjuntamente, como fuente de pago directa o alterna de sus obligaciones, así como su deuda pública los ingresos o derechos que reciban por concepto de Ramos, Programas, Ingresos o Aportaciones Federales, y que conforme a la legislación aplicable, estén destinados y se puedan utilizar para el pago de dichas obligaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 40.
 
-El Estado, los Municipios y las Entidades de la Administración Pública Paraestatal y Paramunicipal, también podrán utilizar como fuente de pago directa o alterna, así como otorgar en garantía de los financiamientos que reciban, los derechos o ingresos propios por concepto de contribuciones, impuestos, derechos, productos, aprovechamientos, o aquellos que por cualquier rubro perciban.
+El Estado, los Municipios y las Entidades de la Administración Pública Paraestatal y Paramunicipal, también podrán utilizar individual o conjuntamente, como fuente de pago directa o alterna de sus obligaciones, así como otorgar en garantía de las obligaciones o financiamientos que reciban, los derechos o ingresos propios por concepto de contribuciones, impuestos, derechos, productos, aprovechamientos, o aquellos que por cualquier rubro perciban, así como los derechos a recibir de los ingresos antes referidos una vez cobrados o, en su caso, los bienes del dominio privado que les correspondan.
 
 Los ingresos propios, tales como contribuciones, impuestos, derechos, productos o aprovechamientos, o aquellos que por cualquier rubro perciban las entidades señaladas en el párrafo anterior, son inembargables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
+
 ###### Artículo 41.
 
-El Estado únicamente podrá constituirse en garante, obligado solidario o avalista de los financiamientos que reciban los Municipios o de las entidades de la Administración Pública Paraestatal o Paramunicipal, en los casos en que, a juicio de la Secretaría de Finanzas y del Congreso del Estado, los avalados, tengan suficiente capacidad de pago, para atender sus compromisos financieros, no se afecten los programas de gasto corriente y de inversión prioritaria y que suscriban, los Municipios o las entidades de la Administración Pública Paraestatal o Paramunicipal con el Estado, un convenio en el que faculten al Estado a descontarles un porcentaje necesario y suficiente de las participaciones federales o ingresos propios que les correspondan, para cubrir, en su caso, los financiamientos garantizados o avalados, o para que el Estado pueda recuperar lo que hubiere llegado a pagar como garante, avalista o deudor solidario, subsidiario o sustituto, del Municipio, por incumplimiento de sus compromisos de pago, garantizándolo con las Participaciones que le correspondan a este último, ya sean éstas federales o estatales.
+El Estado únicamente podrá solicitar al Congreso la autorización para constituirse en garante, obligado solidario o subsidiaria o avalista de las obligaciones y financiamientos que reciban los Municipios o de las entidades de la Administración Pública Paraestatal o Paramunicipal, en los casos en que, a juicio de la Secretaría de Finanzas y del Congreso del Estado, los avalados, tengan suficiente capacidad de pago, para atender sus compromisos y no se afecten los programas de gasto corriente y de inversión prioritaria y que suscriban los Municipios o las Entidades de la Administración Pública Paraestatal o Paramunicipal con el Estado el convenio en el que faculten al Estado a descontarle un porcentaje suficiente y necesario de las participaciones federales que les correspondan para cubrir en su caso las obligaciones o financiamientos garantizados o avalados o para que el Estado pueda recuperar lo que hubiere llegado a pagar como garante, avalista o (sic) obligado solidario, subsidiario o sustituto del Municipio por el cumplimiento de sus compromisos de pago, respaldándolo con las participaciones o recursos que le correspondan a este último, ya sean éstas federales o estatales.
 
-En el caso de que las entidades de la Administración Pública Paraestatal o Paramunicipal requieran de la obligación solidaria, del aval o la garantía del Estado, deberá formularse solicitud por escrito a la Secretaría de Finanzas, acompañando la información que permita determinar su capacidad de pago y de endeudamiento, la necesidad debidamente razonada del tipo de inversión que se pretende financiar con los recursos del crédito, así como el plan de amortización correspondiente, indicando claramente los recursos que se utilizarán para el pago de los financiamientos y las garantías correspondientes, que serán preferentemente las que se deriven de las obras que se realicen o de los servicios que se presten.
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
+
+En el caso de que las entidades de la Administración Pública Paraestatal o Paramunicipal requieran de la obligación solidaria, del aval o de la garantía del Estado o Municipio, deberá formularse solicitud por escrito a la Secretaría de Finanzas, acompañando la información que permita determinar su capacidad de pago y de endeudamiento, la necesidad debidamente razonada del tipo de inversión que se pretenda financiar con los recursos del crédito, así como el correspondiente, indicando claramente los recursos que se utilizaron para el pago de las obligaciones, financiamientos y las garantías o fuentes de pago, o ambas correspondientes, que serán preferentemente las que se deriven de las obras que se realicen o de los servicios que se presten.
 
 Efectuado lo anterior, los Ayuntamientos deberán acompañar a la iniciativa de decreto correspondiente que envíen al Congreso del Estado, el acuerdo aprobatorio emitido por la Secretaría de Finanzas, respecto al otorgamiento del aval o constitución de responsabilidad solidaria. Las solicitudes a que se refiere este artículo, tratándose de Entidades de la Administración Pública Paraestatal o Paramunicipal, se presentarán a la mencionada Secretaría, por conducto del Ayuntamiento correspondiente.
 
 ###### Artículo 42.
 
-Los Municipios, únicamente podrán constituirse en garante, obligados solidarios o avalista de las entidades de la Administración Pública Paramunicipal, en los casos en que a juicio de los Ayuntamientos y del Congreso del Estado, los avalados, tengan suficiente capacidad de pago, para atender sus compromisos financieros y no se afecten los programas de gasto corriente y de inversión prioritaria.
+(DEROGADO, B.O. 11 DE MARZO DE 2008)
 
-Las entidades de la administración pública paramunicipal que soliciten la garantía, obligación solidaria o aval de los Municipios, deberán contar previamente con la autorización de su Órgano de Gobierno, para la celebración de los financiamientos para los cuales se requiera la garantía, obligación solidaria o aval respectivo.
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 43.
 
-El Estado y los Municipios, así como sus Entidades Públicas, en la contratación de sus financiamientos o en la emisión de valores, podrán celebrar fideicomisos de administración y pago o de garantía, afectando como patrimonio del fideicomiso un porcentaje necesario y suficiente de los derechos e ingresos de las participaciones que en ingresos federales les correspondan, sus ingresos propios o cualquier bien de dominio privado u otro ingreso que por cualquier concepto les correspondan y puedan utilizar.
+El Estado y los Municipios, así como sus Entidades Públicas, individual o conjuntamente, en la contratación de sus obligaciones, financiamientos o en la emisión de valores, podrán celebrar fideicomisos de administración y pago o de garantía, afectando como patrimonio del fideicomiso un porcentaje necesario y suficiente de las participaciones que en ingresos federales les correspondan, sus ingresos propios o cualquier bien de dominio privado u otro ingreso que por cualquier concepto les correspondan y puedan utilizar. Los fideicomisos, a que se hace mención en el presente artículo, no serán considerados en ningún caso, integrantes de la Administración Pública Paraestatal y Paramunicipal.
+
+Las erogaciones que se realicen con cargo al patrimonio de dichos fideicomisos sólo estarán sujetas a las disposiciones establecidas en el decreto por el que el Congreso del Estado autorice la creación del fideicomiso respectivo de conformidad con esta Ley y con las reglas, controles y previsiones aplicables a dichos fideicomisos de conformidad con las normas contractuales respectivas.
 
 ###### Artículo 44.
 
@@ -467,11 +591,13 @@ El pago de obligaciones, a través de mecanismos legales de garantía o pago, im
 
 ###### Artículo 46.
 
-Una vez que los Municipios o las entidades de la administración pública paraestatal y paramunicipal que requieran la garantía, obligación solidaria o aval del Estado, cuenten con las autorizaciones de sus órganos de gobierno, de los Ayuntamientos y de la Secretaría de Finanzas, según corresponda, solicitarán la autorización del Congreso del Estado, para la celebración de los financiamientos y el otorgamiento de las garantías, obligaciones solidarias o avales respectivos, apegándose a los procedimientos establecidos.
+(DEROGADO, B.O. 11 DE MARZO DE 2008)
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 47.
 
-La celebración de los mecanismos legales que bajo cualquier modalidad o forma, se propongan instrumentar las entidades públicas, a efecto de garantizar o realizar el pago de financiamientos, deberá ser previamente autorizada por el Congreso del Estado.
+La celebración de los mecanismos legales que bajo cualquier modalidad o forma, se propongan instrumentar las Entidades Públicas, a efecto de garantizar o realizar el pago de sus obligaciones o financiamientos, deberá ser previamente autorizada por el Congreso del Estado.
 
 En los casos en que los mecanismos legales antes referidos se implementen bajo la forma de fideicomisos, los mismos no serán considerados, en ningún caso, integrantes de la administración pública paraestatal o paramunicipal.
 
@@ -598,3 +724,9 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
