@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2007-12-31"
+last_updated: "2008-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -66,6 +66,10 @@ La Administración Pública Centralizada podrá contar con órganos administrati
 ###### ARTÍCULO 4.
 
 La Administración Pública Paraestatal está integrada por los organismos descentralizados, las empresas de participación estatal mayoritaria, los fideicomisos públicos, los patronatos, las comisiones y los comités regulados conforme a la Ley.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Los fideicomisos emisores de valores a que se refiere el Capítulo V de la Ley de Deuda Pública para el Estado, así como los fideicomisos que se constituyan como mecanismos de pago y/o garantía, o ambos de obligaciones contraídas por las Entidades Públicas a que se refiere el artículo 2 de la Ley de Deuda Pública para el Estado, no serán considerados fideicomisos públicos, ni formarán parte de la administración pública paraestatal por lo que no les es aplicable lo previsto por la presente Ley.
 
 ###### ARTÍCULO 5.
 
@@ -1226,3 +1230,7 @@ SEGUNDO.- En tanto el Ejecutivo del Estado no celebre convenio alguno con la fed
 TERCERO.- El Ejecutivo del Estado deberá prever en su Iniciativa del presupuesto de egresos para el ejercicio fiscal siguiente a la entrada en vigor de la presente Ley, los recursos necesarios para hacer efectivo lo dispuesto en los artículos 104, 105, 106 y 107.
 
 CUARTO.- El Gobierno del Estado tendrá un término de 60 días naturales contados a partir de la entrada en vigor de la presente Ley, para instalar el Consejo Estatal Forestal.
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
