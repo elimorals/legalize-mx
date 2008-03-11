@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-catastro-del-estado-de-quintana-roo-7316"
 country: "mx"
 rank: "ley"
 publication_date: "1975-11-29"
-last_updated: "1987-09-30"
+last_updated: "2008-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1987.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 11 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 29 de noviembre de 1975.
 
@@ -484,3 +486,27 @@ DADO en la residencia del Poder Ejecutivo del Estado, a los 28 días del mes de 
 P.O. 30 DE SEPTIEMBRE DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE MARZO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Catastro del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado el 29 de noviembre de 1975, su única reforma publicado en el Periódico Oficial del Estado el 30 septiembre de 1987; así como, todas las disposiciones y demás ordenamientos que se opongan a lo dispuesto por la presente Ley.
+
+###### ARTICULO TERCERO.
+
+En el término de noventa días hábiles siguientes a la publicación de la ley del Catastro del Estado de Quintana Roa, deberá expedirse su Reglamento.
+
+###### ARTICULO CUARTO.
+
+Para los efectos de lo dispuesto en lo presente Ley, la Dirección General de Catastro y aquellos Municipios en que los valores catastrales no se encuentren equiparables a los valores de mercado, fijarán en un término que no excederá de noventa días naturales, contados a partir de la entrada en vigor dé este ordenamiento legal, de común acuerdo, el plazo para homologar los valores catastrales a los comerciales de los bienes inmuebles.
+
+###### ARTICULO QUINTO.
+
+Los actos o procedimientos en trámite al entrar en vigor lo presente ley, se concluirán de acuerdo con las disposiciones de lo Ley anterior.
