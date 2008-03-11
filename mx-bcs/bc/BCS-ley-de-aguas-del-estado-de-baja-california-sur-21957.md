@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-aguas-del-estado-de-baja-california-sur-21957"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-31"
-last_updated: "2001-07-31"
+last_updated: "2008-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de julio de 2001.
 
@@ -507,7 +507,9 @@ XX. Las demás atribuciones que les otorguen ésta u otras disposiciones legales
 
 En los casos en los que el Municipio preste directamente los servicios públicos, éste deberá contar con los registros contables que identifiquen, de manera independiente, los ingresos y egresos derivados de las acciones y objeto que regula la presente Ley y su Reglamento, conforme a las normas y prácticas contables generalmente aceptadas para empresas de agua.
 
-Asimismo, los Municipios generarán los mecanismos que aseguren que los ingresos obtenidos por la prestación de los servicios públicos establecidos en la presente Ley, se destinen exclusivamente a eficientar la administración y operación de los sistemas y a ampliar la infraestructura hidráulica correspondiente, en ese orden de prioridad.
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Asimismo, los Municipios generarán los mecanismos que aseguren que los ingresos obtenidos por la prestación de los servicios públicos establecidos en la presente Ley, se destinen a eficientar la administración y operación de los sistemas, a ampliar la infraestructura hidráulica y a cumplir sus obligaciones adquiridas en contratos o convenios celebrados con la participación de los sectores social y privado.
 
 ###### Artículo 21.
 
@@ -733,7 +735,7 @@ XXI. Las demás que le señale la Junta de Gobierno, esta Ley y el estatuto org�
 
 El Municipio respectivo designará a un Comisario quien tendrá las siguientes atribuciones:
 
-I. Vigilar que la administración dé los recursos se haga de acuerdo con lo que disponga la Ley, los programas y presupuestos aprobados;
+I. Vigilar que la administración de los recursos se haga dé acuerdo con lo que disponga la Ley, los programas y presupuestos aprobados;
 
 II. Practicar la auditoria de los estados financieros y las de carácter técnico o administrativo al término del ejercicio o antes, si así lo considera conveniente;
 
@@ -851,7 +853,9 @@ II. La ejecución de obras de infraestructura hidráulica y proyectos relacionad
 
 III. La administración, operación y mantenimiento total o parcial de los sistemas destinados a la prestación de los servicios públicos; y
 
-IV. Las demás actividades que convengan con los Municipios, los Organismos Operadores Municipales o Intermunicipales o la Comisión.
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
+
+IV. Las demás actividades que convengan con los Municipios, los Organismos Operadores Municipales o Intermunicipales o la Comisión, incluyendo la celebración de Contratos de Servicios de Largo Plazo.
 
 ###### Artículo 52.
 
@@ -1627,7 +1631,7 @@ Tratándose de giros comerciales ó industriales, el Organismo Operador del Sist
 
 ###### Artículo 144.
 
-Tratándose de servicio de uso doméstico, se procederá a ordenarse su limitación o en su caso suspenderse temporalmente el servicio, de acuerdo a los términos del Articulo 119 de esta Ley.
+Tratándose de servicio de uso doméstico, se procederá a ordenarse su limitación o en su caso suspenderse temporalmente el servicio, de acuerdo a los términos del Artículo 119 de esta Ley.
 
 ###### Artículo 145.
 
@@ -1782,3 +1786,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 SECRETARÍA GENERAL DE GOBIERNO.
 
 C. M EN C. P. GRAZIELLA SÁNCHEZ MOTA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
