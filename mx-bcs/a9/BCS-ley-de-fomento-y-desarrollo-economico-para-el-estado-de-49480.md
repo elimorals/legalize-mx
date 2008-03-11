@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-49480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-20"
-last_updated: "2006-02-20"
+last_updated: "2008-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE FOMENTO Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 2006.
 
@@ -106,6 +106,10 @@ El Estado se considera con vocación para los sectores turístico, comercial, pe
 ###### ARTÍCULO 6.
 
 El Gobernador del Estado y los Presidentes Municipales, en el ámbito de sus atribuciones, emitirán los decretos administrativos que contengan los estímulos fiscales, de acuerdo con la opinión y sugerencias que emita el Consejo Consultivo, atendiendo en su caso los acuerdos de coordinación que celebren los Ayuntamientos con el Estado.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Se exceptúa de lo establecido en el párrafo anterior, aquellos estímulos fiscales que versen sobre contribuciones afectos a fideicomisos emisores de valores a que se refiere la Ley de Deuda Pública para el Estado de Baja California Sur, durante la vigencia de los citados fideicomisos.
 
 ### CAPÍTULO II. DEL CONSEJO CONSULTIVO ESTATAL DE DESARROLLO ECONÓMICO
 
@@ -522,3 +526,9 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Boja California Sur.
