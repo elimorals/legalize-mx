@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2006-07-11"
+last_updated: "2008-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -55,9 +55,11 @@ La Ley de Ingresos que anualmente expide el Congreso del Estado, como ordenamien
 
 Cuando en esta Ley se tomen como base para el pago de los créditos a cargo de los sujetos pasivos los ingresos, se entiende que quedan comprendidos los que se perciban en efectivo, en servicios, en créditos y en especie.
 
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
+
 ###### Artículo 4.
 
-El pago de las contribuciones a que se refiere esta Ley se efectuará en las oficinas de la Dirección de Ingresos, Recaudaciones o Subrecaudaciones de Rentas de la Secretaría de Finanzas del Gobierno del Estado, o en las oficinas e instituciones bancarias que autorice la citada Secretaría, a través de alguno de los medios de pago autorizados en el Código Fiscal del Estado y Municipios de Baja California Sur o de los medios electrónicos autorizados por la misma Secretaría.
+El pago de las contribuciones a que se refiere esta Ley se efectuará en las oficinas de la Dirección de Ingresos, Recaudaciones o Subrecaudaciones de Rentas de la Secretaría de Finanzas del Gobierno del Estado, o en otras dependencias oficiales, bancos, entidades financieras, casas comerciales, oficinas postales o terceros, así como por organismos públicos y privados, por disposición de la Ley, o mediante convenio que celebre la propia Secretaría con los mismos, como auxiliares en la administración y recaudación de los ingresos mencionados; a través de alguno de los medios de pago autorizados en el Código Fiscal o de los medios electrónicos autorizados por la misma Secretaría.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
 
@@ -385,15 +387,15 @@ II. Instituciones de asistencia y beneficencia privadas.
 
 Para los efectos de la Fracción II de este artículo, se consideran instituciones de asistencia y beneficencia privadas, aquéllas que cuenten con constancia que las acredite como tales, expedida por la autoridad estatal competente y siempre que no se trate de organismos descentralizados de la administración pública federal, estatal o municipal, ni reciban subsidios, donativos o recursos de alguna otra forma provenientes de la administración pública del Estado o de sus municipios.
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 40.
 
-Los ingresos recaudados por el impuesto sobre nóminas se destinarán íntegramente a la realización de obras de infraestructura social y su distribución se realizará de la manera siguiente:
+Los ingresos recaudados por el Impuesto Sobre Nóminas se destinarán íntegramente a la realización de inversiones públicas productivas y su distribución se realizará de la manera siguiente:
 
-I. El 62.4% de estos recursos serán aportados mensualmente por el Gobierno del Estado al Fideicomiso de Administración, Inversión y Fuente de Pago que se tiene constituido para administrar el impuesto sobre nóminas;
+I. El 62.4% de estos recursos se entregarán al Gobierno del Estado para su aplicación conforme los mecanismos que el mismo acuerde;
 
-II. El 37.6% restante se distribuirá entre los Municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la Ley de Coordinación Fiscal del Estado de Baja California Sur. Los Municipios deberán aportar mensualmente estos recursos al patrimonio de los fideicomisos públicos municipales que se constituyan para la realización de obras de infraestructura social.
+II. El 37.6% restante se distribuirá entre los Municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la Ley de Coordinación Fiscal del Estado de Baja California Sur. Los Municipios deberán aportar mensualmente estos recursos al mecanismo conforme al cual se realice su aplicación.
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
@@ -1676,3 +1678,7 @@ TERCERO.- Se derogan las disposiciones legales que se opongan al presente Decret
 B.O. 11 DE JULIO DE 2006.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
