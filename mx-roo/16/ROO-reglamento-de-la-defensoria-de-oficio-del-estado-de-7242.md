@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-defensoria-de-oficio-del-estado-de-7242"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-10-15"
-last_updated: "1981-10-15"
+last_updated: "2008-03-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO DE LA DEFENSORIA DE OFICIO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DEFENSORIA PUBLICA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 11 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de octubre de 1981.
 
@@ -267,8 +269,26 @@ I.- Extrañamiento; y
 
 II.- Suspensión de cargo por tres días sin goce de sueldo.
 
-T R A N S I T O R I O S (SIC)
+T R A N S I T O R I O S
 
 Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
 
 DADO EN EL PALACIO DE GOBIERNO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS SIETE DÍAS DEL MES DE OCTUBRE DE MIL NOVECIENTOS OCHENTA Y UNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE MARZO DE 2008.
+
+PRIMERO.- La presente ley, entrará en vigor el día 1º de Septiembre del año 2008.
+
+SEGUNDO.- Queda sin efecto el Reglamento de la Defensoría de Oficio de fecha siete de octubre del año de mil novecientos ochenta y uno, emitido por la Secretaría General de Gobierno del Estado de Quintana Roo y publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, a los quince días del mes de octubre de mil novecientos ochenta y uno.
+
+TERCERO.- Todos los recursos humanos y materiales adscritos al área de la Defensoría de Oficio del fuero común y de Asistencia Jurídica, se transfieren al Instituto de la Defensoría Pública del Estado de Quintana Roo, así como los asuntos en materia penal que estén a cargo del área de Defensoría.
+
+CUARTO.- El Instituto de la Defensoría Pública del Estado de Quintana Roo, dentro del término de 60 días naturales a partir de su instalación, deberá presentar para su aprobación ante el H. Consejo de la Judicatura del Poder Judicial del Estado, el Reglamento Interno y Manual de procedimiento operativo del Instituto de Defensoría Pública del Estado de Quintana Roo. Documentos estos que deberá aprobar el Consejo a más tardar dentro del término de 30 días hábiles siguientes al de su presentación.
+
+QUINTO.- A la entrada en vigor de esta Ley, todos los integrantes del Instituto de Defensoría Pública del Estado de Quintana Roo, deberán estar ejerciendo sus funciones y brindando los servicios previstos en la misma.
+
+SEXTO.- Se derogan las disposiciones que se opongan a la presente ley.
+
+SÉPTIMO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
