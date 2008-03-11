@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2006-11-25"
+last_updated: "2008-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -233,6 +233,10 @@ El Estado y los Municipios podrán dar por terminados parcial o totalmente los c
 
 En los convenios señalados en este precepto se fijarán las percepciones que recibirán los Municipios, por las actividades de administración fiscal que realicen.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+En ningún caso dichos convenios podrán disminuir, eliminar o afectar en cualquier forma los derechos adquiridos por los fiduciarios o fideicomisarios de los fideicomisos a que se refiere el Capítulo V de la Ley de Deuda del Estado o cualquier otro constituido como medio de pago o garantía de obligaciones a cargo de las Entidades Públicas a que se refiere la mencionada Ley de Deuda del Estado, derivados de las afectaciones o cesiones de ingresos y derechos al patrimonio de dichos fideicomisos.
+
 ###### Artículo 23.
 
 Las autoridades fiscales de los Municipios serán consideradas, en el ejercicio de las facultades a que se refieren los convenios respectivos, como autoridades fiscales estatales. En contra de los actos que realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establezcan las leyes estatales.
@@ -314,3 +318,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dictará en el ámbito administrativo, las normas para la realización de contratos de servicios de largo plazo que incluirán lineamientos para el análisis costo y beneficio, metodología para la comparación de ofertas; así como las demás disposiciones necesarias para el cumplimiento de lo establecido en este Decreto, las que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en un plazo que no exceda de 180 días naturales, contados a partir del día siguiente a que entre en vigor el presente Decreto.
 
 El monto promedio anual de las cantidades que deban cubrirse por concepto de pagos derivados de proyectos para la prestación de servicios de largo plazo, no podrá representar un porcentaje del presupuesto de egresos de manera que afecte gravemente la capacidad de pago del Gobierno del Estado, tanto en la administración presente como en las futuras.
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
