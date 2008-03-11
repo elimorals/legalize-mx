@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-presupuesto-y-control-del-gasto-publico-estatal-2998"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2006-11-25"
+last_updated: "2008-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 1984.
 
@@ -45,35 +45,61 @@ LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL.
 
 El presupuesto, la contabilidad y el gasto público Estatal se norman y regulan por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 2°.
 
-El Gasto Público Estatal comprende las erogaciones por concepto de Gasto Corriente, Inversión Financiera y Deuda Pública que realizan los siguientes Ramos:
+El gasto público estatal comprende las erogaciones por concepto de gasto corriente, incluyendo los pagos de pasivo de la deuda pública; inversión físico; inversión financiera; así como responsabilidad patrimonial, que realizan los siguientes ramos:
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 I. PODER LEGISLATIVO
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 II. EJECUTIVO DEL ESTADO
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 III.- PODER JUDICIAL
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 IV.- SECRETARIA GENERAL DE GOBIERNO
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 V. OFICIALIA MAYOR
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 VI. SECRETARIA DE FINANZAS
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 VII. SECRETARIA DE DESARROLLO
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 VIII. SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 IX. SECRETARIA DE BIENESTAR SOCIAL
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 X. PROCURADURIA GENERAL DE JUSTICIA
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 XI. CONTRALORIA
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 XII. SECRETARIA DE TURISMO
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 XIII. ORGANISMOS DESCENTRALIZADOS Y PROGRAMAS INSTITUCIONALES
 
@@ -177,11 +203,13 @@ El proyecto de Presupuesto de Egresos del Estado deberá ser presentado oportuna
 
 A toda proposición de aumento o creación de partidas al proyecto de Presupuesto, deberá agregarse la correspondiente iniciativa de ingreso, si con tal proposición se altera el equilibrio presupuestal.
 
-> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 20 Bis.
 
-El Congreso del Estado aprobará en el Presupuesto de Egresos de cada ejercicio fiscal, las obligaciones de pago previstas en los Contratos de Servicios de largo Plazo vigentes, tanto para el ejercicio fiscal, conforme a la información que proporcione el Gobierno del Estado.
+El Congreso del Estado aprobará en el Presupuesto de Egresos de cada ejercicio fiscal, los obligaciones de pago previstos en los Contratos de Servicios de Largo Plazo vigentes, así como los compromisos derivados de los ingresos y derechos previamente afectados o cedidos a los fideicomisos a que se refiere el Capítulo V de la Ley de Deuda Pública para el Estado, mientras dichos fideicomisos estén vigentes. El Ejecutivo Estatal contemplará lo previsto en este artículo, al formular el Proyecto de Presupuesto de Egresos de cada ejercicio fiscal.
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 Los pagos que realice el Gobierno del Estado, a través de las Dependencias y Entidades, como contraprestación por los servicios recibidos al amparo de un contrato de servicios de Largo Plazo, se registrarán como gasto corriente.
 
@@ -198,6 +226,10 @@ El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas podrá asignar 
 El gasto público estatal deberá ajustarse al monto autorizado para los programas y partidas presupuestales, salvo que se trate de las partidas de erogaciones cuyo monto no sea posible preveer.
 
 El Ejecutivo Estatal determinará la forma en que deberán invertirse los subsidios que otorgue a los Municipios, Instituciones o particulares, quienes proporcionarán a la Secretaría de Finanzas y a la Contraloría General del Estado la información que se les solicite sobre la aplicación que hagan de los mismos.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Sin menoscabo de lo anteriormente señalado, el Ejecutivo Estatal, con cargo a los recursos que se obtengan en exceso de los previstos en los Presupuestos de Egresos del Estado a que se refiere el primer párrafo del presente artículo, deberá efectuar el pago de los obligaciones del Estado asumidas conforme a lo previsto por el artículo 29, párrafo tercero, de lo Ley de Deuda Pública para el Estado. En caso de que los recursos disponibles no sean suficientes para el pago total de dichas obligaciones en el año calendario correspondiente, la partido relativo para el pago de las cantidades restantes deberá incluirse en el Presupuesto de Egresos del año calendario siguiente, considerando en todo caso las posibilidades financieras del Estado, debiendo conservarse las directrices de la programación del gasto público estatal, la estructura y el equilibrio presupuestal.
 
 ###### ARTICULO 23.
 
@@ -434,3 +466,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dictará en el ámbito administrativo, las normas para la realización de contratos de servicios de largo plazo que incluirán lineamientos para el análisis costo y beneficio, metodología para la comparación de ofertas; así como las demás disposiciones necesarias para el cumplimiento de lo establecido en este Decreto, las que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en un plazo que no exceda de 180 días naturales, contados a partir del día siguiente a que entre en vigor el presente Decreto.
 
 El monto promedio anual de las cantidades que deban cubrirse por concepto de pagos derivados de proyectos para la prestación de servicios de largo plazo, no podrá representar un porcentaje del presupuesto de egresos de manera que afecte gravemente la capacidad de pago del Gobierno del Estado, tanto en la administración presente como en las futuras.
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Bajo California Sur.
