@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "1996-12-13"
+last_updated: "2008-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -330,6 +330,34 @@ Los trabajadores no están obligados a prestar servicios en sus días de descans
 ###### ARTICULO 35.
 
 Las mujeres disfrutarán del pago del salario íntegro de cuatro semanas de descanso antes de la fecha aproximada del parto y ocho semanas después del mismo. Durante el período de lactancia tendrán dos períodos de descanso extraordinario por día, de media hora cada uno para amamantar a sus hijos, a partir del término de su licencia y hasta cubrir seis meses.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+
+Asimismo, las mujeres trabajadoras gozarán de Licencia de Maternidad de veinte días hábiles con el pago de salario íntegro en caso de adopción de un menor, contados a partir de la adopción o depósito del menor, de conformidad con las disposiciones relativas del derecho común sustantivo y procesal.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+
+Los trabajadores hombres disfrutarán de Licencia de Paternidad Remunerada con motivo del nacimiento o adopción de un hijo, la cual se concederá de acuerdo a las siguientes reglas y modalidades:
+
+a).Licencia de diez días hábiles con el pago de salario íntegro, la cual podrá prorrogarse, a elección del trabajador, por cinco días hábiles con la reducción del 50% del salario y por otros cinco días hábiles más con reducción del 75% del salario;
+
+b).- Licencia de veinte días hábiles con el pago de salario íntegro, cuando el hijo nacido o adoptado presente alguna discapacidad conforme a la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad del Estado;
+
+c).- Licencia de veinte días hábiles con el pago de salario íntegro, cuando la madre presente una complicación grave de salud durante el embarazo o el parto, que le dificulte o impida proporcionar los cuidados maternales necesarios al hijo recién nacido, o esté presente al momento de nacer alguna afectación grave en su salud; o
+
+d).- Licencia de veinte días hábiles con el pago de salario íntegro, en caso de fallecimiento de la madre, cuando el hijo sea menor de edad.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+
+Para el otorgamiento de la Licencia de Paternidad Renumerada, el trabajador deberá acreditar, conforme a las disposiciones relativas del derecho común sustantivo y procesal, la posesión de estado civil de casado o concubinato con la madre del menor o el reconocimiento como hijo de éste, y exhibir con su solicitud, el certificado médico de nacimiento del hijo o la resolución judicial que autorice la adopción o depósito del menor con el presunto o presuntos adoptantes y, en su caso, el dictamen médico relativo al estado de gravedad de la salud de la madre o del hijo recién nacido, o el certificado de defunción de la madre. La acreditación de los requisitos a que se refiere este párrafo podrá hacerse previa, conjuntamente o con posterioridad a la solicitud de Licencia, pero en todo caso dentro del período de Licencia concedido y sin perjuicio del otorgamiento de ésta.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+
+La solicitud de Licencia de Paternidad Remunerada, o de su prorroga, que formule el trabajador deberá resolverse en forma inmediata y deberá iniciar en los tres primeros días del nacimiento o de la adopción o deposito del menor con el presunto o presuntos adoptantes.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+
+La Licencia de Paternidad Remunerada se concederá sin perjuicio de la prevista para la mujer en los párrafos primero y segundo de este articulo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1321,9 +1349,7 @@ Las Comisiones Mixtas de Escalafón, deberán integrarse dentro de los ciento ve
 
 DADO en el Salón de Sesiones de la H. II Legislatura Constitucional, en la ciudad de Chetumal, capital del Estado de Quintana Roo, a los veintitrés días del mes de mayo de mil novecientos setenta y ocho.
 
-DIPUTADO PRESIDENTE
-
-EN FUNCIONES.
+DIPUTADO PRESIDENTE EN FUNCIONES.
 
 SEBASTIAN UC YAM.
 
@@ -1434,3 +1460,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Inmediatamente que entre en vigor el presente Decreto, los trabajadores de los Poderes Legislativo y Judicial, por convocatoria previa de los Titulares de cada uno de estos Poderes, procederán conforme a lo dispuesto por los Artículos 78 al 87 de la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo, a organizar sus respectivos sindicatos, de acuerdo al procedimiento establecido en la propia Ley.
 
 TERCERO.- El actual Sindicato Unico de los Trabajadores al Servicio del Gobierno del Estado, mantendrá la titularidad de las relaciones laborales únicamente con el Poder Ejecutivo.
+
+P.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
