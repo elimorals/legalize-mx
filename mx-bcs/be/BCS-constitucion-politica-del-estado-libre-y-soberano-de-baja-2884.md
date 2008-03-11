@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2008-03-10"
+last_updated: "2008-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -626,6 +626,10 @@ XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servi
 XXVI.- Autorizar al Titular del Poder Ejecutivo para contratar empréstitos a nombre del Estado y a los Ayuntamientos para contratarlos a nombre de los Municipios, así como a los Organismos Descentralizados Estatales, Municipales o Intermunicipales, a las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y a los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal, siempre que se destinen a inversiones públicas productivas, conforme a las bases que se establezcan en la Ley correspondiente, y por los conceptos y hasta por los montos aprobados.
 
 Autorizar al Gobernador para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de los Organismos Descentralizados Estatales, Municipales o Intermunicipales, de las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y de los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Autorizar la emisión de valores ya sea de manera directa o indirecta por el Estado y los Municipios, siempre que los recursos derivados de la misma se destinen a inversiones públicas productivas.
 
 > <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
@@ -1685,6 +1689,14 @@ Para los efectos señalados, las autoridades fiscales Municipales, como integran
 
 XXVII.- Contratar empréstitos a nombre del Municipio, con la aprobación previa del Congreso del Estado, siempre que se destinen a inversiones públicas productivas, conforme a las bases establecidas en la Ley correspondiente y por los conceptos y hasta por los montos aprobados.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Asimismo, los Municipios directa o indirectamente e individual o conjuntamente con otros Municipios del Estado, podrán llevar a cabo emisiones de valores previa afectación que hagan de sus ingresos, con la aprobación de sus Ayuntamientos y del Congreso del Estado, obteniendo recursos que se destinen a inversiones públicas productivas e incluyendo en sus presupuestos de egresos, las partidas correspondientes para el cumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Igualmente, con autorización de sus Ayuntamientos y del Congreso del Estado, y sujeto a lo establecido en la legislación aplicable, los Municipios del Estado, podrán constituir garantías, otorgar avales, obligarse solidariamente, mancomunadamente o subsidiariamente o ser obligados sustitutos de otros Municipios del Estado, de sus organismos descentralizados municipales o intermunicipales, de las empresas de participación municipal y de los fideicomisos públicos municipales.
+
 > <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 XXVIII.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización del Congreso del Estado.
@@ -2574,3 +2586,7 @@ DECRETO NUMERO 1733
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- En estricto apego a lo contemplado por el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos y en atención a la modificación del término Secretaría por el de Poder Legislativo, éste será garante del respeto irrestricto de los derechos adquiridos por los trabajadores del mismo a la entrada en vigor de la presente reforma.
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
