@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2008-03-10"
+last_updated: "2008-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -1101,6 +1101,10 @@ El Presidente Municipal, previo acuerdo del Ayuntamiento, podrá crear dependenc
 
 Integrarán la administración pública descentralizada los organismos descentralizados, empresas de participación municipal, fideicomisos públicos municipales, comisiones, institutos, patronatos y comités.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Los fideicomisos municipales, emisores de valores a que se refiere el Capítulo Quinto de la Ley de Deuda Pública para el Estado, así como los fideicomisos que se constituyan como mecanismos de pago y/o garantía, o ambos de obligaciones contraídas por los Municipios o Entidades Públicas municipales, no serán considerados fideicomisos públicos, ni formarán parte de la administración pública descentralizada, por lo que no les es aplicable lo previsto por la presente Ley.
+
 ###### Artículo 108.
 
 El Ayuntamiento aprobará por mayoría calificada la creación, modificación o extinción de las entidades descentralizadas.
@@ -1737,6 +1741,10 @@ La hacienda pública municipal se constituirá por los rendimientos de los biene
 
 Los recursos que integran la hacienda pública municipal serán ejercidos en forma directa por el Ayuntamiento o por quien éste autorice conforme a la Ley.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Los ingresos que pertenezcan al Municipio podrán afectarse o cederse en los términos previstos en la legislación aplicable.
+
 ### CAPITULO CUARTO. De las Adquisiciones, Enajenaciones, Arrendamientos y Contrataciones de Servicios de Bienes Muebles e Inmuebles
 
 ###### Artículo 160.
@@ -1901,6 +1909,12 @@ En lo no previsto en esta Ley, se aplicará supletoriamente, la Ley de Adquisici
 
 El Ayuntamiento aprobará su presupuesto de egresos, que regirá del 1º de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, debiendo publicarlo para conocimiento de la población dentro de los primeros quince días hábiles de enero, en el periódico de mayor circulación en el Municipio o en otros medios de comunicación que se estimen convenientes.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 181 Bis.
+
+Los Ayuntamientos preverán en su correspondiente presupuesto de egresos, las partidas necesarias para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de Largo Plazo, así como aquellas partidas emanadas de los compromisos derivados de los ingresos y derechos previamente afectados o cedidos a los fideicomisos, a que se refiere el Capítulo Quinto de la Ley de Deuda Pública para el Estado, mientras dichos fideicomisos estén vigentes.
+
 ###### Artículo 182.
 
 La presupuestación del gasto público municipal, atenderá los objetivos y prioridades que señale el plan de gobierno municipal y los programas derivados de éste, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público, procurando observar los siguientes criterios:
@@ -1928,6 +1942,10 @@ Para cualquier modificación al presupuesto, se deberá seguir el mismo procedim
 ###### Artículo 186.
 
 Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que lo autorice y que tenga saldo disponible para cubrirlo, a excepción de las resoluciones de naturaleza jurisdiccional que determinen obligaciones a cargo del Municipio.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Sin menoscabo de lo anteriormente señalado, los Ayuntamientos, deberán efectuar el pago de las obligaciones de los Municipios, asumidas conforme a lo previsto por el artículo 29, párrafo tercero de la Ley de Deuda Pública para el Estado. En caso de que los recursos disponibles no sean suficientes para el pago total de dichas obligaciones en el año calendario correspondiente con cargo a sus ingresos extraordinarios, la partida relativa para el pago de las cantidades restantes deberá incluirse en el Presupuesto de Egresos del año calendario siguiente, considerando en todo caso las posibilidades financieras del Municipio, debiendo conservarse las directrices de la programación del gasto público estatal, la estructura y el equilibrio presupuestal.
 
 ## TITULO VII. PLANEACIÓN DEL DESARROLLO MUNICIPAL
 
@@ -2300,3 +2318,7 @@ SECRETARIO
 B.O. 10 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
