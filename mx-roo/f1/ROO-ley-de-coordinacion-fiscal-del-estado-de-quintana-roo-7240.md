@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-7240"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2006-12-08"
+last_updated: "2008-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de diciembre 1993.
 
@@ -255,13 +255,21 @@ Municipios coordinados, términos y monto de las participaciones.
 
 El Municipio que mediante convenio se haya incorporado al Sistema de Coordinación Fiscal del Estado de Quintana Roo, participará en efectivo y sin condición alguna en la distribución de los Fondos Federales que quedarán integrados de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2008)</small>
 
-I.- El 20% de las cantidades que el Estado reciba por concepto de participación del Fondo General, Impuesto sobre Tenencia o Uso de Vehículos, sobre Automóviles Nuevos y Especial sobre Producción y Servicios a las que se refiere los Artículo 2º y 3ºA y 6º de la Ley de Coordinación Fiscal Federal.
+I.- El 20% de las cantidades que el Estado reciba por concepto de participación del Fondo General, Impuesto sobre Tenencia o Uso de Vehículos, Impuesto Sobre Automóviles Nuevos, Fondo de Fiscalización y el Impuesto Especial sobre Producción y Servicios a las que se refiere los Artículos 2º y 3ºA, 4º y 6º de la Ley de Coordinación Fiscal Federal, con base a los coeficientes para la distribución que establece el artículo 8º de esta Ley.
 
-II.- El 100 % de los recursos provenientes del Fondo de Fomento Municipal a que se refiere el artículo 2º A de la Ley Federal de Coordinación Fiscal.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2008)</small>
 
-III.- Cualquier otro tipo de participaciones que apruebe el Gobierno Federal.
+II.- El 20% de los cantidades que el Estado reciba por concepto de cuotas del Impuesto Especial sobre Producción y Servicios a que se refiere el artículo 4º-A de la Ley de Coordinación Fiscal, con base a los coeficientes para la distribución que establece el articulo 8º-A de esta ley.
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2008)</small>
+
+III.- El 100% de los recursos provenientes del Fondo de Fomento Municipal a que se refiere el Artículo 2ºA de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2008)</small>
+
+IV.- Cualquier otro tipo de participaciones que apruebe el Gobierno Federal.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
@@ -271,7 +279,7 @@ Esta participación se distribuirá directamente con base en el impuesto pagado 
 
 ###### ARTICULO 6º.
 
-El Municipio que opte por no incorporarse al Sistema que establece esta Ley, recibirá las participaciones Federales que le corresponda, en los términos del artículo 5º. fracción I de la presente Ley a excepción de los que se obtengan por concepto de Tenencia y uso de vehículos, para ello, la distribución de los ingresos por este concepto se hará con base a los factores que establece el artículo 8º de la misma.
+El Municipio que opte por no incorporarse al Sistema que establece esta Ley, recibirá las participaciones Federales que le corresponda, en los términos del artículo 5.º fracción I de la presente Ley a excepción de los que se obtengan por concepto de Tenencia y uso de vehículos, para ello, la distribución de los ingresos por este concepto se hará con base a los factores que establece el artículo 8º de la misma.
 
 ###### ARTICULO 7º.
 
@@ -285,9 +293,11 @@ III.- Los datos de la Recaudación de Agua y Predial serán los que proporcione 
 
 IV.- Los factores de distribución a que se refiere la fracción III del presente artículo, serán los del ejercicio inmediato anterior al año de la correspondiente distribución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 8º.
 
-La determinación de los coeficientes para la distribución de los recursos que establece el Artículo 5º, fracciones I y II de esta Ley, será de acuerdo a los siguientes factores:
+La determinación de los coeficientes para lo distribución de los recursos que establece el Artículo 5º, fracción I y III de esta Ley, será de acuerdo a los siguientes factores:
 
 I.- El 45% se distribuirá en relación directa al número de habitantes de cada Municipio.
 
@@ -299,7 +309,25 @@ IV.- El 5% será distribuido en relación directa a la Recaudación del Impuesto
 
 V.- El 15% se distribuirá en relación a la inversa de la superficie Territorial comprendida en cada Municipio.
 
-La base para la determinación de estos coeficientes será el importe de los Fondos comprendidos en el Artículo 5o, fracciones I y II de esta Ley, estimados para el Ejercicio Fiscal a que corresponda la liquidación y de acuerdo a las cifras oficiales que proporcione la S.H.C.P.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2008)</small>
+
+La base para la determinación de estos coeficientes será el importe de los Fondos comprendidos en el Artículo 5°, fracción I y III de esta Ley, estimados para el Ejercicio Fiscal a que corresponda la liquidación y de acuerdo a las cifras oficiales que proporcione lo Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+
+ARTICULO 8ºA.- La determinación de los coeficientes para la distribución de los recursos que establece el artículo 5º fracción II de esta Ley, será de acuerdo a los siguientes factores:
+
+I. El 70 % se distribuirá en relación directa al número de habitantes de cada Municipio.
+
+II. El 13.8% será distribuido en partes iguales, para cada Municipio.
+
+III. El 5.4 % se distribuirá en relación a la inversa de la recaudación del agua por Municipio.
+
+IV. El 2.7 % será distribuido en relación directa a la recaudación de Impuesto Predial por Municipio.
+
+V. El 8.1 % se distribuirá en relación a la inversa de la superficie territorial comprendida en cada Municipio.
+
+La base para la determinación de estos coeficientes será el importe de los fondos comprendidos en el Artículo 5º, fracción II de esta Ley, estimados para el Ejercicio Fiscal a que corresponda la liquidación y de acuerdo a las cifras oficiales que proporcione la Secretaria de Hacienda y Crédito Público.
 
 ###### ARTICULO 9º.
 
@@ -726,3 +754,9 @@ Todas las aportaciones recibidas por el Estado con fecha anterior a la publicaci
 P.O. 8 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del 1º de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE MARZO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
