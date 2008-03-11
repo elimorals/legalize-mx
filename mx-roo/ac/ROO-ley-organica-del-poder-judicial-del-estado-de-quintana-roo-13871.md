@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2007-11-27"
+last_updated: "2008-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -1207,7 +1207,9 @@ XIV.- Formar anualmente una lista con los nombres de las personas que puedan fun
 
 XV.- Coordinar y supervisar el funcionamiento de los órganos auxiliares del Consejo de la Judicatura;
 
-XVI.- Nombrar a los servidores públicos de los órganos auxiliares del Consejo de la Judicatura, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2008)</small>
+
+XVI.- Nombrar a los servidores públicos de los órganos auxiliares del Consejo de la Judicatura y del Instituto de Defensoría Pública, así como acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
 
 XVII.- Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento;
 
@@ -1311,11 +1313,17 @@ III.- El Secretario Ejecutivo de Disciplina.
 
 La Escuela Judicial es el órgano encargado de la formación, capacitación, especialización, actualización y superación de los servidores públicos de la administración de justicia y personal administrativo, así como de la investigación científica del Derecho y del fomento de una cultura jurídica.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2008)</small>
 
 ###### Artículo 102.
 
-El Centro de Asistencia Jurídica es un organismo desconcentrado del Poder Judicial y tendrá a su cargo los servicios de mediación, conciliación, arbitraje, defensoría de oficio y asistencia jurídica, los que serán proporcionados de acuerdo a la ley, a quienes lo requieran.
+El Centro de Justicia Alternativa, es un .organismo desconcentrado del Poder Judicial, y tendrá a su cargo los servicios de mediación, conciliación o arbitraje, los que serán proporcionados de acuerdo a la ley, a quienes lo requieran.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 102 Bis.
+
+El Instituto de Defensoría Pública, es un órgano del Poder Judicial, con personalidad jurídica propia e independencia técnica y operativo en el desempeño de sus funciones y tendrá a su cargo la asistencia técnico-legal y los servicios de defensoría de oficio y asistencia jurídica, los que serán proporcionados de acuerdo a la ley, a quienes lo requieran.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1784,3 +1792,11 @@ Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo 
 P.O. 27 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 11 DE MARZO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1º de Septiembre del año 2008.
+
+SEGUNDO.- En tanto entra en vigor el presente decreto, los servicios de ayuda técnico-legal a aquellas personas que carecen de recursos para contratar abogados o defensores particulares y el servicio de defensoría de oficio y asistencia jurídica seguirán siendo proporcionados por el Centro de Asistencia Jurídica del Poder Judicial del Estado.
+
+TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Estado de Quintana Roo.
