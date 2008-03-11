@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-del-estado-y-municipios-del-estado-de-baja-47668"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-12-28"
-last_updated: "2005-12-28"
+last_updated: "2008-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
 
 Código publicado en Extraordinario del Boletín Oficial de Estado de Baja California Sur, el miércoles 28 de diciembre de 2005.
 
@@ -51,13 +51,29 @@ Las personas físicas y morales, mexicanas o extranjeras que se encuentren en la
 
 Ninguna contribución podrá recaudarse, si no está prevista en la Ley de Ingresos del Estado, en la correspondiente de los municipios, o en sus respectivas modificaciones.
 
-Sólo mediante ley podrá destinarse un ingreso estatal o municipal a un gasto público específico.
+> <small>(DEROGADO CUARTO PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos de alguno o algunos de los municipios del Estado, así como la del Estado, se aplicarán respectivamente las que se hayan aprobado y publicado con la fecha más reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 La Federación, el Estado y los municipios, así como sus organismos descentralizados, quedan exentos del pago de contribuciones únicamente cuando las leyes lo señalen expresamente.
 
 Quien efectúe el pago de créditos fiscales, deberá obtener de las autoridades fiscales el recibo oficial o la forma valorada que así lo respalde. Las autoridades fiscales están obligadas a expedir el recibo oficial relativo y en su caso, proporcionar la forma valorada que corresponda.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 1 Bis.
+
+Los ingresos q que se refiere el presente Código, solamente podrán afectarse o cederse, cuando lo permita la legislación aplicable y así lo Establezca la Legislatura del Estado, mediante Ley o Decreto, en los siguientes casos:
+
+I. Cuando la afectación o cesión se realice como medio de pago o garantía de las obligaciones o de la deuda pública de las Entidades Públicas a que se refiere la Ley de Deuda Pública para el Estado;
+
+II. Para constituir el patrimonio de los fideicomisos a que se refiere el Capítulo V de la Ley de Deuda Pública para el Estado, en los términos y previo cumplimiento de los requisitos que la misma Ley establece;
+
+III. Para la realización de cualquier otra atribución que le corresponda a las Entidades Públicas a que se refiere la Ley de Deuda Pública para el Estado;
+
+IV. Para el cumplimiento de cualquier otra obligación de estos últimos; o
+
+V. En cualquier otro caso, que así lo determine la Legislatura del Estado.
 
 ###### Artículo 2.
 
@@ -101,7 +117,9 @@ Son ingresos extraordinarios los empréstitos, los subsidios y los percibidos ex
 
 Son créditos fiscales los que tenga derecho a percibir el Estado, los municipios, o sus organismos descentralizados, que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que tengan derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado, los municipios o sus organismos, tengan derecho a percibir por cuenta ajena.
 
-La Administración y la recaudación de todos los ingresos del Estado y municipios, aún cuando sean destinados para un fin específico, serán competencia de la Secretaría de Finanzas o de las tesorerías en el caso de los municipios, las cuales podrán ser auxiliadas por otras dependencias que tengan facultades para administrar ingresos fiscales, o bien, por organismos públicos o privados, por disposición de la ley, o por autorización de la Secretaría de Finanzas del Estado o de las tesorerías de los municipios, mediante convenios relativos.
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Asimismo, la propia Secretaría de Finanzas del Gobierno del Estado y los Municipios podrán establecer, de conformidad con el párrafo anterior, que el pago deba efectuarse en las sucursales o a través de los medios electrónicos que al efecto proporcionen los bancos y entidades financieras; así como en las sucursales de casas comerciales, oficinas postales y otros organismos públicos o privados, y que cumplan con todos los requisitos de seguridad y control que, en su caso, determine la Secretaría de Finanzas del Gobierno del Estado, y los Municipios, según corresponda, como auxiliares en la administración y recaudación de los ingresos mencionados, considerando al efecto la mayor cobertura y eficiencia posibles; debiendo recabar quien realice el pago, el comprobante correspondiente. Al efecto, la Secretaría de Finanzas y los Municipios, según sea el caso, podrá celebrar los acuerdos, contratos y convenios que sean necesarios o convenientes con los entes privados y públicos antes señalados.
 
 ###### Artículo 9.
 
@@ -410,6 +428,12 @@ Los interesados deberán de comparecer personalmente ante la Secretaría de Fina
 La comparecencia de las personas físicas a que se refiere el párrafo anterior, no podrá efectuarse mediante apoderado o representante legal, sino únicamente para los efectos de tramitar la firma electrónica avanzada de las personas morales de conformidad con lo dispuesto en el artículo 36 de este Código, caso en el que se requerirá el poder previsto en dicho artículo.
 
 Para los efectos fiscales, los certificados tendrán una vigencia máxima de dos años, contados a partir de la fecha en que se hayan expedido. Antes de que concluya el período de vigencia de un certificado, su titular podrá solicitar uno nuevo. En el supuesto mencionado La Secretaría de Finanzas o en su caso las tesorerías municipales podrán, mediante reglas de carácter general, relevar a los titulares del certificado de la comparecencia personal ante dichas autoridades para acreditar su identidad y, en el caso de las personas morales, la representación legal correspondiente, cuando los contribuyentes cumplan con los requisitos que se establezcan en las propias reglas. Si dichas autoridades no emiten las reglas de carácter general, se estará a lo dispuesto en los párrafos sexto y séptimo de este artículo.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+###### Artículo 26 Bis.
+
+Tratándose del pago de contribuciones y otros ingresos, podrá efectuarse mediante transferencia electrónica de fondos, a favor de la Secretaría de Finanzas del Gobierno del Estado, o de los Municipios, según se trate.
 
 ###### Artículo 27.
 
@@ -3658,3 +3682,9 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 VICTOR MANUEL GULUARTE CASTRO
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 11 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Boja California Sur.
