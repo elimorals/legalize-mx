@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2007-05-05"
+last_updated: "2008-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -163,11 +163,11 @@ La menor edad, el estado de interdicción y las demás incapacidades establecida
 
 El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2008)</small>
 
 ###### Artículo 24-A.
 
-Toda persona capaz, tiene derecho a disponer parcialmente de su cuerpo, en beneficio terapéutico de un familiar, hasta el cuarto grado de parentesco, siempre que tal disposición no le ocasione una disminución permanente de su integridad física, ni ponga en peligro su vida.
+Toda persona capaz, tiene derecho a disponer parcialmente de su cuerpo, en beneficio terapéutico, siempre que tal disposición no le ocasione una disminución permanente de su integridad física, ni ponga en peligro su vida.
 
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2005)</small>
 
@@ -15960,3 +15960,13 @@ P.O. 5 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 12 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente decreto a la Suprema Corte de Justicia de la Nación.
