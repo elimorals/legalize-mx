@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-57923"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2007-12-12"
+last_updated: "2008-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -67,7 +67,7 @@ En virtud de lo anterior, la prestación del servicio a través de un concesiona
 
 (NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
 ###### ARTÍCULO 3.
 
@@ -189,7 +189,7 @@ II.- Revisar y en su caso emitir el Programa Estatal de Desarrollo del Transport
 
 (NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
 III.- AUTORIZAR Y REVISAR, PREVIO ACUERDO CON EL TITULAR DEL PODER EJECUTIVO, LAS TARIFAS, HORARIOS, ITINERARIOS, TABLAS DE DISTANCIA, TERMINALES, PARADEROS Y TODO AQUELLO RELACIONADO CON LA OPERACIÓN EFICIENTE DEL SERVICIO DE TRANSPORTE PÚBLICO EN LAS VIALIDADES DE JURISDICCIÓN ESTATAL;
 
@@ -221,7 +221,7 @@ IV.- Vigilar e inspeccionar que el servicio de transporte público y privado se 
 
 (NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
 V.- SOMETER A LA APROBACIÓN DEL SECRETARIO DE GOBIERNO LOS HORARIOS, CONVENIOS Y ENROLAMIENTOS QUE LOS CONCESIONARIOS Y PERMISIONARIOS CELEBREN ENTRE SÍ Y, EN SU CASO, CON LOS AUTO TRANSPORTISTAS FEDERALES, RESPECTO DE LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO A SU CARGO;
 
@@ -309,7 +309,7 @@ II.- Informar periódicamente al Director General de Transportes, sobre el cumpl
 
 III.- Mantener actualizado el registro y/o sistema integral de trámites administrativos;
 
-lV.- Realizar los estudios técnicos necesarios que le solicite el Director General de Transportes; y
+IV.- Realizar los estudios técnicos necesarios que le solicite el Director General de Transportes; y
 
 V.- Las asignadas por el Director General de Transportes y las disposiciones legales aplicables.
 
@@ -393,7 +393,7 @@ I.- Coadyuvar al mejoramiento de la función pública en materia de servicio de 
 
 II.- Opinar con respecto a las medidas administrativas y de servicio adoptadas, relacionadas con el transporte.
 
-III.- Emitir opinión respecto a los estudios técnicos que elabore la Dirección General de Transportes, respecto a:
+II.- Emitir opinión respecto a los estudios técnicos que elabore la Dirección General de Transportes, respecto a:
 
 a) Otorgamiento de nuevas concesiones, permisos o modificación de las condiciones de la declaratoria de necesidades;
 
@@ -1103,9 +1103,15 @@ VI.- Infracciones, sanciones y delitos; y
 
 VII.- Las demás que sean necesarias a juicio de la Secretaría de Gobierno.
 
+(NOTA: EL 11 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 19/2008, 21/2008 Y 23/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE LA PRIMERA Y SEGUNDA EL 17 DE ENERO DE 2011, Y DE LA TERCERA EL 14 DE ENERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 75.
 
-Se permitirá el acceso a los datos relacionados en el Registro Estatal de Concesionarios y Permisionarios del Servicio de Transporte Público sólo a quienes lo soliciten por escrito y acrediten su interés jurídico, así como a la autoridad competente que funde y motive la necesidad de la información, y estrictamente en cuanto a información que no involucre cuestiones personales y confidenciales de los titulares de los derechos respectivos.
+Se permitirá el acceso a los datos relacionados en el Registro Estatal de Concesionarios y Permisionarios del Servicio de Transporte Público a toda persona que lo solicite por escrito o por vía electrónica en los términos que prevé la ley de la materia, así como a la autoridad competente QUE FUNDE Y MOTIVE LA NECESIDAD DE LA INFORMACIÓN, y estrictamente en cuanto a información que no involucre cuestiones personales, en los términos de las leyes respectivas.
 
 ###### ARTÍCULO 76.
 
@@ -1407,9 +1413,11 @@ En el caso de vehículos debidamente acreditados para la prestación del servici
 
 Las citadas sanciones administrativas se impondrán sin perjuicio de la responsabilidad civil o penal en que se pudiera haber incurrido por la comisión de un ilícito.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 108.
 
-Aquellos que presten el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas de identificación del servicio público de transporte en vehículo distinto al autorizado, se le impondrá multa de quinientos días de salario mínimo vigente en el Estado de Morelos, en caso de reincidencia ésta ascenderá a mil días de salario mínimo vigente en la Entidad.
+Aquellos que presten el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas de identificación del servicio público de transporte en vehículo distinto al autorizado, se le impondrá multa de cien a quinientos días de salario mínimo vigente en el Estado de Morelos, en caso de reincidencia ésta ascenderá de doscientos a mil días de salario mínimo vigente en la Entidad.
 
 Para garantizar el pago de esta sanción, la autoridad del transporte deberá retener en garantía el vehículo en el que se cometió la infracción.
 
@@ -1566,3 +1574,15 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales o reglamentadas que se opongan al presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
