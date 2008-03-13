@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2008-01-04"
+last_updated: "2008-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -9357,7 +9357,13 @@ ARTICULO 1,911.- El incapaz que cause daño debe repararlo, salvo que la respons
 
 ARTICULO 1,912.- Cuando al ejercitar un derecho se causa daño a otro, hay obligación de indemnizarlo si se demuestra que el derecho sólo se ejercitó a fin de causar el daño, sin utilidad para el titular del derecho.
 
-ARTICULO 1,913.- Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias peligrosos por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, está obligada a responder del daño que cause, aunque no obre ilícitamente, a no ser que demuestre que ese daño se produjo por culpa o negligencia inexcusable de la víctima.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
+
+ARTICULO 1,913.- Cuando una persona hace uso de mecanismos, instrumentos, aparatos, vehículos automotores o substancias peligrosas por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, está obligada a responder del daño que cause, aunque no obre ilícitamente, a no ser que demuestre que ese daño se produjo por culpa o negligencia inexcusable de la víctima.
+
+En todos los casos, el propietario de los mecanismos, instrumentos, aparatos, vehículos automotores o sustancias peligrosas, será responsable solidario de los daños causados.
 
 ARTICULO 1,914.- Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
@@ -13625,7 +13631,7 @@ Sufragio Efectivo. No Reelección.
 
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 D.O.F. 1 DE SEPTIEMBRE DE 1932.
 
@@ -14108,3 +14114,17 @@ Artículo Tercero.- El Gobierno del Distrito Federal a través del Sistema para 
 Artículo Cuarto.- El Gobierno del Distrito Federal a través del Sistema para el Desarrollo Integral de la Familia emitirá dentro de los 120 días siguientes a la fecha de publicación del presente decreto, el Reglamento a que se refiere el artículo 494-D.
 
 Artículo Quinto.- La Asamblea Legislativa del Distrito Federal considerará una partida presupuestal de recursos financieros suficientes para asegurar la atención, cuidado y protección de los menores en situación de desamparo en el ejercicio presupuestal de 2008 y años subsecuentes.
+
+G.O. 13 DE MARZO DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
+
+SEGUNDO.- La Asamblea Legislativa del Distrito Federal, autorizará a la Administración Pública del Distrito Federal, los recursos materiales y financieros necesarios para que la Consejería Jurídica y de Servicios Legales, dé cumplimiento al contenido de este Decreto.
+
+...
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
+
+...
