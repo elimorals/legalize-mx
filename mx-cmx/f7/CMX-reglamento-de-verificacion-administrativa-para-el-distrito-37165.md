@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-verificacion-administrativa-para-el-distrito-3716
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-19"
-last_updated: "2004-02-19"
+last_updated: "2008-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37165&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-02-12"
 
 REGLAMENTO DE VERIFICACION ADMINISTRATIVA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Gobierno del Distrito Federal, el jueves 19 de febrero de 2004.
 
@@ -512,7 +512,9 @@ XV. Las particularidades e incidentes que surjan durante la visita de verificaci
 
 XVI. Las declaraciones, observaciones y demás manifestaciones que formule la persona con quien se entienda la diligencia;
 
-XVII. Que el visitado cuenta con cinco días hábiles, para hacer las observaciones que estime pertinentes respecto de la visita de verificación, así como la autoridad ante quien puede formularlas;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XVII. Que el visitado cuenta con diez días hábiles, para hacer las observaciones que estime pertinentes respecto de la visita de verificación, así como la autoridad ante quien puede formularlas;
 
 XVIII. La hora, día, mes y año de conclusión de la visita de verificación;
 
@@ -608,9 +610,11 @@ Si de la realización de visita de verificación voluntaria se desprende peligro
 
 ### CAPÍTULO VII. DE LA CALIFICACIÓN DE LAS VISITAS DE VERIFICACIÓN
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
+
 ###### Artículo 41.
 
-Dentro de los cinco días hábiles siguientes a la conclusión de la visita de verificación, los visitados podrán formular por escrito, ante la autoridad competente, observaciones respecto de los hechos contenidos en el acta de visita de verificación y ofrecer pruebas en relación con éstos.
+Dentro de los diez días hábiles siguientes a la conclusión de la visita de verificación, los visitados podrán formular por escrito, ante la autoridad competente, observaciones respecto de los hechos contenidos en el acta de visita de verificación y ofrecer pruebas en relación con éstos.
 
 ###### Artículo 42.
 
@@ -787,3 +791,11 @@ TERCERO. Los procedimientos de verificación que se encuentren en trámite a la 
 CUARTO. Las credenciales de verificación expedidas con anterioridad a la entrada en vigor del presente reglamento continuarán vigentes hasta la fecha en ellas señaladas.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los doce días del mes de febrero del año dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 13 DE MARZO DE 2008.
+
+Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
