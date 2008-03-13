@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-23700"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2007-01-10"
+last_updated: "2008-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ALUMNOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2008.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -413,9 +413,13 @@ Los resultados de los exámenes extraordinarios deberán ser asentados en sus re
 
 Se entiende por baja, la suspensión temporal o definitiva de las actividades académicas de los alumnos inscritos en la Universidad Tecnológica.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2008)</small>
+
 ###### Artículo 49.
 
-La baja puede presentar la modalidad de voluntaria y se concede a solicitud por escrito del alumno ante Servicios Escolares. La temporalidad tiene vigencia hasta un año, después del cual se considerara baja automática.
+La baja puede presentar la modalidad de voluntaria y se concede a solicitud del alumno ante su Director de Carrera, quien a su vez realizará el trámite ante el Departamento de Servicios Escolares. El alumno podrá reingresar a su carrera al cuatrimestre correspondiente, en cualquier tiempo.
+
+En caso de que los planes y programas de estudios hayan cambiado, la Comisión Académica valorará y analizará los casos, para que el alumno revalide las materias del nuevo plan de estudios y pueda reingresar a la Universidad.
 
 ###### Artículo 50.
 
@@ -592,3 +596,7 @@ LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN 
 P.O. 10 DE ENERO DE 2007.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 13 DE MARZO DE 2008.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
