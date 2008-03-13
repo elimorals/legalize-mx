@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2006-06-09"
+last_updated: "2008-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -200,9 +200,23 @@ XV. Integrar el Registro de Infractores;
 
 XVI. Establecer las equivalencias entre los arrestos y el tiempo de realización de las actividades de apoyo a la comunidad;
 
-XVII. Establecer, con la Secretaría, los mecanismos necesarios para el intercambio de información respecto de las remisiones de infractores, procedimientos iniciados y concluidos, sanciones aplicadas e integración del Registro de Infractores, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVIII. Las demás facultades que le confiera la Ley.
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XVII. Establecer, con la Secretaría, los mecanismos necesarios para el intercambio de información respecto de las remisiones de infractores, procedimientos iniciados y concluidos, sanciones aplicadas e integración del Registro de Infractores;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XVIII. Contar con los peritos necesarios, en materia de tránsito terrestre y demás que se requieran, para atender el procedimiento establecido en el Capítulo IV, del Título Cuarto de esta Ley, quienes tendrán como principios rectores: la especialización, el profesionalismo y la imparcialidad; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XIX. Las demás facultades que le confiera la Ley.
 
 ###### Artículo 10.
 
@@ -464,15 +478,75 @@ XIV. Percutir armas de postas, diábolos, dardos o municiones contra personas o 
 
 XV. Participar de cualquier manera, organizar o inducir a otros a realizar competencias vehiculares de velocidad en vías públicas;
 
-XVI. Hacer disparos al aire con arma de fuego, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVII. Organizar o participar en peleas de animales, de cualquier forma.
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XVI. Hacer disparos al aire con arma de fuego;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XVII. Organizar o participar en peleas de animales, de cualquier forma; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XVIII. Causar daño a un bien mueble o inmueble ajeno, en forma culposa y con motivo del tránsito de vehículos;
+
+Obra culposamente el que produce el daño, que no previó siendo previsible o previó confiando en que no se produciría, en virtud de la violación de un deber de cuidado que objetivamente era necesario observar.
 
 Las infracciones establecidas en las fracciones I, II, III y IV se sancionarán con multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
 
 Las infracciones establecidas en las fracciones V a XIV se sancionarán con multa por el equivalente de 21 a 30 días de salario mínimo o con arresto de 25 a 36 horas.
 
 Las infracciones establecidas en las fracciones XV, XVI y XVII se sancionarán con arresto de 20 a 36 horas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Sin perjuicio de la obligación de reparar el daño causado que determine la autoridad civil competente, quien resulte responsable de la conducta prevista en la fracción XVIII será sancionado con arresto de hasta 36 horas o:
+
+I. Multa por el equivalente de 50 a 180 días de salario mínimo, cuando el monto del daño causado no exceda de diez mil pesos;
+
+II. Multa por el equivalente de 181 a 365 días de salario mínimo, cuando el monto del daño causado exceda de diez mil pesos pero no de veinte mil pesos;
+
+III. Multa por el equivalente de 366 a 725 días de salario mínimo, cuando el monto del daño causado exceda de veinte mil pesos pero no de cuarenta mil pesos;
+
+IV. Multa por el equivalente de 726 a 1275 días de salario mínimo, cuando el monto del daño causado exceda de cuarenta mil pesos pero no de setenta mil pesos;
+
+V. Multa por el equivalente de 1276 a 2185 días de salario mínimo, cuando el monto del daño causado exceda de setenta mil pesos pero no de ciento veinte mil pesos;
+
+VI. Multa por el equivalente de 2186 a 3275 días de salario mínimo, cuando el monto del daño causado exceda de ciento veinte mil pesos pero no de ciento ochenta mil pesos; o
+
+VII. Multa por el equivalente de 3276 días de salario mínimo y hasta por el monto total del valor comercial del vehículo, cuando el monto del daño causado exceda de ciento ochenta mil pesos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Sólo se conmutará el arresto si, además de los requisitos que señala esta ley, el conductor responsable acredita su domicilio, señala domicilio en el Distrito Federal para oír y recibir notificaciones, y menciona, en su caso, el domicilio del propietario del vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+En el supuesto de la fracción XVIII de este artículo, si con los elementos de prueba ofrecidos por las partes o allegados al Juez no es posible determinar quién es el responsable del daño causado, no se aplicará multa alguna y se devolverán los vehículos, quedando a salvo los derechos de las partes para hacerlos valer por la vía procedente.
 
 ###### Artículo 26.
 
@@ -618,9 +692,15 @@ En tanto acude quien custodia o tutela al menor, éste deberá permanecer en la 
 
 En caso de que el menor de edad resulte responsable, el Juez lo amonestara y le hará saber las consecuencias jurídicas y sociales de su conducta.
 
-Tratándose de las conductas previstas en las fracciones II, VI, VIII, IX, X, XIV, XV, XVI y XVII del artículo 25 y IV, V y VI del artículo 26 se aplicarán las sanciones correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Si fuere reincidente por primera vez, se aplicará la multa o arresto correspondiente, si volviera a ser reincidente, se le aplicará la regla general que establece el artículo 32 de esta Ley.
+> <small>(DEROGADO CUARTO PARRAFO, G.O. 13 DE MARZO DE 2008)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Cuando se determine la responsabilidad de una persona menor de edad en la comisión de alguna de las infracciones previstas en este ordenamiento, en ningún caso se le impondrá como sanción el arresto.
 
 Si a consideración del Juez el menor se encontrara en situación de riesgo, lo enviará a las autoridades competentes a efecto de que reciba la atención correspondiente.
 
@@ -694,6 +774,12 @@ I. Cuando presencien la comisión de la infracción, y
 
 II. Cuando sean informados de la comisión de una infracción inmediatamente después de que hubiese sido realizada o se encuentre en su poder el objeto o instrumento, huellas o indicios que hagan presumir fundadamente su participación en la infracción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+En el caso de la fracción XVIII del artículo 25 de la Ley, si las partes involucradas no se ponen de acuerdo en la forma de la reparación del daño, el policía remitirá el o los vehículos involucrados al depósito y notificará de los hechos al Juez.
+
 El policía que se abstenga de cumplir con lo dispuesto en este artículo, será sancionado por los órganos competentes de la Secretaría, en términos de las disposiciones aplicables.
 
 ###### Artículo 56.
@@ -718,7 +804,11 @@ El policía proporcionará al quejoso, cuando lo hubiere, una copia de la boleta
 
 El Juez llevará a cabo las siguientes actuaciones:
 
-I. Dará lectura a la boleta de remisión o en su caso a la queja y si lo considera necesario, solicitará la declaración del policía. El Juez omitirá mencionar el domicilio del quejoso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+I. Dará lectura a la boleta de remisión o en su caso a la queja y si lo considera necesario, solicitará la declaración del policía. Tratándose de la conducta prevista en la fracción XVIII del artículo 25 de la Ley, la declaración del policía será obligatoria. El Juez omitirá mencionar el domicilio del quejoso;
 
 II. Otorgará el uso de la palabra al probable infractor, para que formule las manifestaciones que estime convenientes y ofrezca en su descargo, las pruebas de que disponga;
 
@@ -729,6 +819,12 @@ III. Acordará la admisión de las pruebas y las desahogará de inmediato. En el
 IV. Resolverá sobre la responsabilidad del presunto infractor.
 
 Los procedimientos serán desahogados y resueltos de inmediato por el Juez que los hubiere iniciado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Cuando se actualice la conducta prevista en la fracción XVIII del artículo 25 de la Ley y después de concluido el procedimiento establecido en este cuerpo normativo, el Juez ordenará la devolución del vehículo conducido por quien resulte responsable de los daños causados, únicamente cuando se firme el convenio respectivo o quede suficientemente garantizada su reparación; y en caso contrario, pondrá a disposición del Juez de Paz Civil el vehículo conjuntamente con la demanda que al efecto firme el agraviado.
 
 ###### Artículo 58.
 
@@ -828,7 +924,97 @@ Asimismo, el Juez verificará que las personas ausentes hayan sido citadas legal
 
 En caso de que haya más de un quejoso, deberán nombrar un representante común para efectos de la intervención en el procedimiento.
 
-### CAPÍTULO ÚNICO. CONSEJO DE JUSTICIA CÍVICA
+### CAPÍTULO IV.. PROCEDIMIENTO EN CASOS DE DAÑO CULPOSO CAUSADO CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+###### Artículo 77 Bis.
+
+Cuando se actualicen las conductas previstas en la fracción XVIII del artículo 25 de esta Ley, y las personas involucradas se encuentren ante la presencia del Juez, éste hará de su conocimiento, dejando constancia escrita de ello, los beneficios de conciliar sus intereses; la sanción que puede ser impuesta al responsable de los daños en caso de no llegar a un arreglo; la situación de los vehículos implicados; las actuaciones, alcances y efectos del procedimiento de conciliación; así como los derechos y acciones que, en su caso, pueden ejercer ante la autoridad judicial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+###### Artículo 77 Bis 1.
+
+El Juez Cívico tomará la declaración de los conductores involucrados y, en su caso, de los testigos de los hechos, en los formatos que para el efecto se expidan, e inmediatamente después dará intervención, dejando constancia escrita de ello, a los peritos en tránsito terrestre de la Consejería Jurídica y de Servicios Legales. Así como admitirá y desahogará como pruebas las demás que, a su juicio, sean idóneas en atención a las conductas imputadas por el quejoso.
+
+Cuando alguno de los conductores se niegue a rendir su declaración, se dará preponderancia, para la emisión del dictamen de tránsito terrestre, valoración de las probanzas y emisión de la resolución correspondiente, a las declaraciones rendidas por los demás conductores y testigos de los hechos. Los peritos en tránsito terrestre, en todos los casos, deberán rendir el dictamen correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+###### Artículo 77 Bis 2.
+
+Los peritos rendirán su dictamen ante el Juez, en un plazo que no excederá de cuatro horas contadas a partir de que se solicite su intervención.
+
+Cuando el número de vehículos implicados sea superior a cuatro, el juez podrá ampliar el plazo para la entrega del dictamen hasta por dos horas.
+
+Si el perito rinde su dictamen fuera de los plazos previstos en este artículo, el Juez notificará de esta irregularidad a las autoridades competentes, para los efectos sancionatorios administrativos conducentes, sin afectar la validez del dictamen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+###### Artículo 77 Bis 3.
+
+El Juez Cívico, con la presencia de los involucrados y con base en el dictamen pericial y demás elementos de prueba que tenga a su alcance, celebrará audiencia en la que hará del conocimiento de los conductores el resultado del dictamen, así como el monto de los daños causados, y procurará su avenimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+###### Artículo 77 Bis 4.
+
+Cuando los conductores involucrados lleguen a un acuerdo, se hará constar por escrito el convenio respectivo y se eximirá de la imposición de las sanciones a que se refiere el artículo 25 de este ordenamiento a quien acepte la responsabilidad o resulte responsable de los daños causados.
+
+Al conductor o conductores que no resulten responsables de los daños, les serán devueltos sus vehículos sin mayor trámite.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+###### Artículo 77 Bis 5.
+
+El convenio que, en su caso, suscriban los interesados, ante la presencia del Juez, será válido y traerá aparejada ejecución en vía de apremio ante los juzgados civiles del Distrito Federal, quienes sólo podrán negarse a ordenar su ejecución cuando dicho instrumento tenga un objeto distinto a la reparación del daño.
+
+Para su validez, en todo convenio se hará constar la forma en que se garantice su cumplimiento, a través de alguna de las formas previstas en la ley correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+###### Artículo 77 Bis 6.
+
+Cuando alguno de los conductores manifieste su voluntad de no conciliar sus intereses, el Juez actuará de conformidad con lo siguiente:
+
+I. Impondrá al responsable o responsables de los daños, mediante resolución, la sanción que corresponda en términos de lo dispuesto en este ordenamiento, tomando en cuenta el dictamen pericial y los demás elementos probatorios que se hayan desahogado; dejando a salvo los derechos de las partes por cuanto hace a la reparación del daño;
+
+II. Proporcionará al agraviado, en su caso, el formato de demanda respectivo para su llenado con auxilio de un defensor que le asigne la Defensoría de Oficio;
+
+III. Cuando el conductor responsable garantice el pago de los daños le devolverá el vehículo que conducía; en caso contrario, si se presentó la demanda, lo pondrá a disposición del Juez de Paz Civil en cumplimiento a la determinación del auto inicial;
+
+IV. Una vez firmada la demanda la enviará, inclusive por vía electrónica, dentro del plazo de doce horas al Juez de Paz Civil en turno;
+
+V. Inmediatamente que reciba el auto inicial del Juez de Paz Civil en turno, le dará el cumplimiento que corresponda en sus términos, con relación a los vehículos involucrados o lo que se determine; y
+
+VI. Remitirá a la autoridad judicial, dentro de las 24 horas siguientes a la determinación de responsabilidad administrativa y cuando la remisión de la demanda sea por vía electrónica, los originales del expediente formado.
+
+Cuando se prevenga la demanda por causas provocadas por el agraviado y no se desahogue, se procederá en los términos del artículo siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+###### Artículo 77 Bis 7.
+
+Si el agraviado manifestara su voluntad de no presentar su demanda en ese momento o solicitara como reparación del daño una cantidad que exceda del veinte por ciento del monto establecido en el dictamen emitido por los peritos adscritos a la Consejería Jurídica y de Servicios Legales, el Juez hará constar tal circunstancia dejando a salvo sus derechos para que los haga valer por la vía que estime procedente, en un plazo no mayor de dos años a partir de esa fecha, ordenando la liberación del vehículo conducido por el responsable.
+
+En cualquier caso, el Juez, expedirá a la parte que lo solicite, copia certificada de las actuaciones realizadas ante él.
 
 ###### Artículo 72.
 
@@ -845,6 +1031,12 @@ I. La reparación del daño, y
 II. No reincidir en conductas que den motivo a un nuevo procedimiento.
 
 En el convenio se establecerá el término para el cumplimiento de lo señalado en la fracción l, así como para los demás acuerdos que asuman las partes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Cuando el daño se cause con motivo de lo previsto en la fracción XVIII del artículo 25 de la Ley, el convenio se elaborará con base en el valor del daño que se establezca en el dictamen en materia de tránsito terrestre emitido por los peritos adscritos a la Consejería Jurídica y de Servicios Legales, respetando el principio de autonomía de voluntad de las partes, pero sin que el monto a negociar pueda exceder o sea inferior a un veinte por ciento del valor del daño dictaminado.
 
 ###### Artículo 74.
 
@@ -868,7 +1060,11 @@ IV. Acordará la admisión de las pruebas y las desahogará de inmediato, y
 
 V. Resolverá sobre la conducta imputada, considerando todos los elementos que consten en el expediente y resolverá sobre la responsabilidad del probable infractor.
 
-Se admitirán como pruebas las testimoniales y las demás que, a juicio del Juez, sean idóneas en atención a las conductas imputadas por el quejoso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Se admitirán como pruebas las testimoniales y las demás que, a juicio del Juez, sean idóneas en atención a las conductas imputadas por el quejoso. Tratándose de daños causados con motivo del tránsito de vehículos, el Juez deberá ordenar en todos los casos la intervención de los peritos en materia de tránsito terrestre, autorizados por la Consejería Jurídica y de Servicios Legales.
 
 En el caso de que el quejoso o el probable infractor no presentaren en la audiencia las pruebas ofrecidas, serán desechadas en el mismo acto. Cuando la presentación de las pruebas ofrecidas dependiera del acto de alguna autoridad, el Juez suspenderá la audiencia y señalará día y hora para la presentación y desahogo de las mismas.
 
@@ -881,6 +1077,10 @@ En el supuesto de que se libre orden de presentación al presunto infractor y el
 Cuando a consecuencia de un conflicto familiar o conyugal se cometa alguna o algunas infracciones cívicas, y el ofendido las haga del conocimiento del Juez, éste iniciará el procedimiento correspondiente, dejando a salvo los derechos que a cada uno correspondan.
 
 El Juez canalizará, mediante oficio, a los involucrados a las instituciones públicas especializadas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE MARZO DE 2008)</small>
 
 ###### Artículo 78.
 
@@ -998,7 +1198,7 @@ XIX. Las demás atribuciones que le confieran esta Ley y otros ordenamientos.
 
 Para la aplicación de esta Ley es competente el Juez del lugar donde se haya cometido la infracción; si ésta se hubiese realizado en los limites de una circunscripción territorial y otra, será competente el Juez que prevenga, excepto en los casos que expresamente instruya la Dirección.
 
-### CAPÍTULO I. JUZGADOS CÍVICOS
+### CAPÍTULO ÚNICO. CONSEJO DE JUSTICIA CÍVICA
 
 ###### Artículo 87.
 
@@ -1048,7 +1248,7 @@ La remuneración de los Secretarios será equivalente al menos a la categoría b
 
 ## TÍTULO QUINTO. DEL CONSEJO
 
-### CAPÍTULO II. PROFESIONALIZACIÓN DE LOS JUECES Y SECRETARIOS DE LOS JUZGADOS CÍVICOS
+### CAPÍTULO I. JUZGADOS CÍVICOS
 
 ###### Artículo 95.
 
@@ -1074,7 +1274,7 @@ V. Las demás que le señale la Ley.
 
 ## TÍTULO SEXTO. DE LA ORGANIZACIÓN ADMINISTRATIVA
 
-### CAPÍTULO III. DE LA SUPERVISIÓN A LOS JUZGADOS
+### CAPÍTULO II. PROFESIONALIZACIÓN DE LOS JUECES Y SECRETARIOS DE LOS JUZGADOS CÍVICOS
 
 ###### Artículo 98.
 
@@ -1196,6 +1396,8 @@ La información contenida en el Registro de Infractores tendrá como objeto el d
 
 Con el fin de asegurar las condiciones de seguridad sobre manejo y acceso a la información del Registro de Infractores, los responsables de inscribir y los de proporcionar la información deberán tener claves confidenciales a fin de que quede debida constancia de cualquier movimiento de asientos, consultas y otorgamiento de información.
 
+### CAPÍTULO III. DE LA SUPERVISIÓN A LOS JUZGADOS
+
 ### CAPÍTULO ÚNICO
 
 ## TÍTULO SÉPTIMO. REGISTRO DE INFRACTORES
@@ -1229,3 +1431,19 @@ SEGUNDO.- El presente Decreto entrará en vigor sesenta días naturales siguient
 TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que regule el Beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a más tardar sesenta días naturales después de la publicación del presente Decreto en la Gaceta oficial del Distrito Federal.
+
+G.O. 13 DE MARZO DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
+
+SEGUNDO.- La Asamblea Legislativa del Distrito Federal, autorizará a la Administración Pública del Distrito Federal, los recursos materiales y financieros necesarios para que la Consejería Jurídica y de Servicios Legales, dé cumplimiento al contenido de este Decreto.
+
+TERCERO.- Las personas que hayan sufrido únicamente daños causados culposamente con motivo del tránsito de vehículos antes de la entrada en vigor de este Decreto y de los que no se haya presentado querella ante la autoridad ministerial, podrán, en caso de que así lo deseen, demandar su pago ante el Juez de Paz Civil competente, de acuerdo al nuevo procedimiento previsto en el presente Decreto y dentro del plazo de un año contado a partir que ocurrieron los hechos.
+
+...
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
+
+...
