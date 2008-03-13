@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2008-01-08"
+last_updated: "2008-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2388,6 +2388,16 @@ IV. Prisión de tres a siete años y de cuatrocientos a seiscientos días multa,
 
 Cuando los daños sean causados por culpa, sólo se impondrá al responsable multa hasta por el valor de los daños y perjuicios causados, y se le condenará a la reparación de éstos. Si se repara el daño antes de que el Ministerio Público ejercite acción penal, se extinguirá la pretensión punitiva. Se sobreseerá el juicio, si el inculpado repara los daños y perjuicios, antes de que se dicte sentencia en segunda instancia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+No se considerará delito:
+
+I. Cuando por culpa se ocasione únicamente daño a la propiedad con motivo del tránsito de vehículos; y
+
+II. El conductor o conductores involucrados no se encuentren en alguno de los supuestos establecidos en las fracciones I y II del artículo 242 de este Código Penal.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 241.
@@ -2410,21 +2420,25 @@ V. Montes, bosques, selvas, pastos, mieses o cultivos de cualquier género.
 
 Cuando el delito se cometa culposamente, en las hipótesis previstas en este artículo, se impondrá la mitad de las penas a que se refiere el artículo 239 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 242.
 
-Cuando los daños se ocasionen culposamente con motivo de tránsito de vehículos, se impondrá la mitad de las penas previstas en el artículo 239 de este Código, en los siguientes casos:
+Cuando los daños se ocasionen culposamente con motivo de tránsito de vehículos, siempre que no se trate del supuesto previsto en la fracción I del segundo párrafo del artículo 240 de este cuerpo normativo, se impondrá la mitad de las penas previstas en el artículo 239 de este Código, en los siguientes casos:
 
-I. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
+I. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares; o
 
-II. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
-
-III. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares; o
-
-IV. No auxilie a la víctima del delito o se dé a la fuga.
+II. No auxilie a la víctima del delito o se dé a la fuga.
 
 Se impondrá además, suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga, o si es servidor público, inhabilitación por el mismo lapso para obtener otro empleo, cargo o comisión de la misma naturaleza.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
+
+Al conductor de un vehículo automotor que se retire del lugar en que participó en un hecho donde únicamente se causó daño a la propiedad, en su forma de comisión culposa y con motivo del tránsito vehicular, con el propósito de no llegar a un acuerdo en la forma de reparación de los daños y sin acudir ante el juez cívico competente, se le impondrá de uno a tres años de prisión y de 100 a 500 días multa, independientemente de la responsabilidad administrativa o civil que resulten de esos hechos.
 
 ### CAPÍTULO I. PROMOCIÓN DE CONDUCTAS ILÍCITAS, COHECHO Y DISTRACCIÓN DE RECURSOS PÚBLICOS
 
@@ -4101,3 +4115,25 @@ G.O. 8 DE ENERO DE 2008.
 Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE MARZO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
+
+SEGUNDO.- La Asamblea Legislativa del Distrito Federal, autorizará a la Administración Pública del Distrito Federal, los recursos materiales y financieros necesarios para que la Consejería Jurídica y de Servicios Legales, dé cumplimiento al contenido de este Decreto.
+
+TERCERO.- Las personas que hayan sufrido únicamente daños causados culposamente con motivo del tránsito de vehículos antes de la entrada en vigor de este Decreto y de los que no se haya presentado querella ante la autoridad ministerial, podrán, en caso que así lo deseen, demandar su pago ante del Juez de Paz Civil competente, de acuerdo al nuevo procedimiento previsto en el presente Decreto y dentro del plazo de un año contado a partir que ocurrieron los hechos.
+
+CUARTO.- Las averiguaciones previas que se encuentren en integración a la entrada en vigor del presente Decreto y los procedimientos penales donde aún no se haya dictado el auto de sujeción a proceso, iniciados únicamente por el delito de daño a la propiedad culposo por el tránsito de vehículos, deberán ser remitidos al Juez Cívico competente por razón de territorio, para que los agraviados que así lo soliciten puedan ser auxiliados por la Defensoría de Oficio en la presentación de la demanda correspondiente.
+
+Cuando los agraviados no requieran el apoyo de los defensores de oficio, previa solicitud, se les entregará copia certificada de lo actuado para que hagan valer sus intereses en el momento y en la instancia que consideren conveniente, dentro del plazo de un año.
+
+Las obligaciones para los involucrados en los hechos de tránsito por la devolución en depósito de los vehículos, a que se refiere el artículo 100 del Código de Procedimientos Penales para el Distrito Federal, subsisten para quienes los hayan recibido antes de la entrada en vigor del presente Decreto, a favor de los Jueces Cívicos y de Paz Civil que sigan conociendo de esos hechos.
+
+QUINTO.- Los procesos penales, donde el auto de sujeción a proceso se haya emitido únicamente por el delito de daño a la propiedad culposo con motivo del tránsito de vehículos, deberán ser enviados al Juez de Paz Civil competente por territorio.
+
+El Juez de Paz Civil notificará personalmente a la parte agraviada para que dentro del término de cinco días formule la demanda de pago de daños culposos causados con motivo del tránsito de vehículos y una vez que la reciba, dictará el acuerdo y continuará el proceso como lo señala el presente Decreto. La Defensoría de Oficio brindará la asistencia legal para todos los agraviados que así se lo soliciten.
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
+
+SÉPTIMO.- El Tribunal Superior de Justicia del Distrito Federal deberá realizar las adecuaciones administrativas y laborales para que se cumpla el procedimiento seguido ante los Jueces de Paz Civil que señala este Decreto en los términos y plazos allí señalados y entren en vigor el mismo día que este instrumento.
