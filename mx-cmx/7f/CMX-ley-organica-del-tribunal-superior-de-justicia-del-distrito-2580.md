@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2008-01-08"
+last_updated: "2008-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -1004,9 +1004,23 @@ Los Jueces de Paz del Distrito Federal, en materia Civil, conocerán:
 
 I. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, que tengan un valor hasta de sesenta mil pesos. En los demás negocios de jurisdicción contenciosa, común o concurrente, cuyo monto no exceda de veinte mil pesos. Dichas cantidades se actualizarán en forma anualizada que deberá regir a partir del primero de enero de cada año, de acuerdo con el Indice Nacional de Precios al Consumidor que determine el Banco de México. Se exceptúan los interdictos, los asuntos de competencia de los Jueces de lo Familiar y los reservados a los Jueces del Arrendamiento Inmobiliario;
 
-II. De las diligencias preliminares de consignación, con la misma limitación a que se refiere la fracción inmediata anterior, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes.
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+II. De las diligencias preliminares de consignación, con la misma limitación a que se refiere la fracción inmediata anterior;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
+
+IV. Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo.
 
 ###### Artículo 72.
 
@@ -3091,3 +3105,19 @@ CUARTO. El Tribunal Superior de Justicia del Distrito Federal deberá realizar l
 QUINTO. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para emitir el reglamento interno correspondiente.
 
 SEXTO. La Comisión de Administración y Procuración de Justicia conformará una comisión multidisciplinaria donde participe, cuando menos, la Consejería Jurídica del Gobierno del Distrito Federal, el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, académicos e investigadores con experiencia en la materia; con la finalidad de elaborar, en el plazo de un año, contado a partir del día siguiente de la fecha de entrada en vigor de la presente ley, de la iniciativa de ley que para la solución de controversias en todos los ámbitos de interacción social, requiere el Distrito Federal.
+
+G.O. 13 DE MARZO DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
+
+SEGUNDO.- La Asamblea Legislativa del Distrito Federal, autorizará a la Administración Pública del Distrito Federal, los recursos materiales y financieros necesarios para que la Consejería Jurídica y de Servicios Legales, dé cumplimiento al contenido de este Decreto.
+
+TERCERO.- Las personas que hayan sufrido únicamente daños causados culposamente con motivo del tránsito de vehículos antes de la entrada en vigor de este Decreto y de los que no se haya presentado querella ante la autoridad ministerial, podrán, en caso que así lo deseen, demandar su pago ante del Juez de Paz Civil competente, de acuerdo al nuevo procedimiento previsto en el presente Decreto y dentro del plazo de un año contado a partir que ocurrieron los hechos.
+
+...
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
+
+SÉPTIMO.- El Tribunal Superior de Justicia del Distrito Federal deberá realizar las adecuaciones administrativas y laborales para que se cumpla el procedimiento seguido ante los Jueces de Paz Civil que señala este Decreto en los términos y plazos allí señalados y entren en vigor el mismo día que este instrumento.
