@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-9-2003-del-pleno-del-consejo-de-la-59915"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-03-03"
-last_updated: "2003-04-03"
+last_updated: "2008-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59915&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-02-26"
 
 ACUERDO GENERAL 9/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE APRUEBA EL PROGRAMA DE REESTRUCTURACION DE LA VISITADURIA JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ABRIL DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 7/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 3 de marzo de 2003.
 
@@ -132,3 +134,27 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- La convocatoria referida en el punto segundo del presente Acuerdo deberá publicarse el mismo día de la publicación de este Acuerdo en el Diario Oficial de la Federación.
 
 TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE MARZO DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los Acuerdos Generales 9/2003, 16/2003, 28/2003 y 91/2003, y se deroga cualquier otro acuerdo, disposición o circular emitida por el Consejo de la Judicatura Federal, que se oponga a las disposiciones de este acuerdo.
+
+TERCERO. El programa de visitas ordinarias e informes circunstanciados para el año dos mil ocho, subsiste en los términos del sorteo celebrado antes de la entrada en vigor de este acuerdo.
+
+CUARTO. La Comisión acordará la fecha de inicio de las inspecciones ordinarias a distancia, previa implementación de las pruebas piloto respectivas. En tanto acuerde el inicio del sistema de inspección a distancia, continuará vigente el de informe circunstanciado que regula el Acuerdo General 28/2003 del Pleno del Consejo. Semejante disposición aplicará para los informes de terminación.
+
+Las actas de visita ordinaria junto con los informes circunstanciados (y las actas de inspecciones ordinarias a distancia cuando los sustituyan), se dictaminarán en la forma, períodos y oportunidad con que se ha venido actuando, sin perjuicio de que se hubiesen rendido dos informes circunstanciados o practicado dos visitas ordinarias en forma consecutiva, con motivo del calendario de inspecciones del año dos mil ocho, ya que en este caso, el dictamen respectivo se emitirá inmediatamente después de que se practique la primer visita ordinaria de la misma anualidad.
+
+QUINTO. Si durante el inicio de la implementación de la inspección ordinaria a distancia ocurrieran desajustes y fallas técnicas o circunstancias similares que impidieran el inicio, la práctica o la conclusión de la totalidad de las etapas de una inspección determinada, con la rendición del informe inicial se tendrá por agotada la inspección ordinaria a distancia al órgano jurisdiccional relativo, a consideración del visitador general.
+
+SEXTO. Una vez aprobados los formatos de las encuestas de conducta, la Comisión acordará la fecha de inicio de su implementación.
+
+SEPTIMO. Con motivo de la entrada en vigor del presente acuerdo, los visitadores judiciales "A", se reincorporarán a la función jurisdiccional de la que tienen licencia, en el órgano jurisdiccional que determine el Pleno; con excepción del magistrado Filemón Haro Solís, que dada su reciente designación continuará en funciones, para lo cual se le extenderá nuevo y actualizado nombramiento.
+
+OCTAVO. La plantilla de los visitadores judiciales "B" se renovará escalonadamente en el transcurso de los tres años siguientes a la entrada en vigor de este acuerdo. Cuatro de ellos fungirán hasta el treinta y uno de diciembre de dos mil ocho; otros cuatro permanecerán en sus cargos hasta el treinta y uno de diciembre de dos mil nueve; y los restantes cuatro visitadores "B" se desempeñarán en sus cargos hasta el treinta y uno de diciembre de dos mil diez. La selección de los integrantes de cada uno de los grupos, se realizará de acuerdo al resultado de las evaluaciones al desempeño y conducta practicadas por el visitador general.
+
+NOVENO. Los nombramientos del personal de confianza adscrito a los magistrados visitadores que se reincorporarán a su función jurisdiccional, tendrán efectos hasta en tanto se designe a quienes les sustituyan.
+
+DECIMO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
