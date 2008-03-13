@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-defensoria-de-oficio-del-distrito-federal-10901"
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-17"
-last_updated: "2007-11-14"
+last_updated: "2008-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10901&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "1997-06-10"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS, SU ENTRADA EN VIGOR SERA SIMULTANEAMENTE CON LA LEY DE JUSTICIA PARA ADOLESCENTES DEL DISTRITO FEDERAL.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de junio de 1997 y republicada en el Diario Oficial de la Federación, el jueves 18 de junio de 1997.
 
@@ -150,9 +148,23 @@ X. Elaborar un informe anual de actividades y presentarlo al Consejo;
 
 XI. Dirigir los medios de supervisión establecidos en esta Ley y vigilar que el personal de la Defensoría de Oficio ajuste su actuación a las leyes vigentes;
 
-XII. Promover y fortalecer las relaciones de la Defensoría con las instituciones públicas, sociales y privadas dedicadas a la protección de los derechos humanos o que por la naturaleza de sus funciones puedan colaborar en el cumplimiento de la responsabilidad social de aquélla; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII. Las demás que le señalen esta Ley, su Reglamento y otros ordenamientos.
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XII. Promover y fortalecer las relaciones de la Defensoría con las instituciones públicas, sociales y privadas dedicadas a la protección de los derechos humanos o que por la naturaleza de sus funciones puedan colaborar en el cumplimiento de la responsabilidad social de aquélla;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XIII. Atender y brindar el servicio de asesoría, cuando así se le solicite y sin que sea necesario cumplir el requisito previsto en la fracción III del artículo 10 de esta Ley, a los agraviados por la infracción administrativa contenida en el artículo 25, fracción XVIII, de la Ley de Cultura Cívica del Distrito Federal; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
+
+XIV. Las demás que le señalen esta Ley, su Reglamento y otros ordenamientos.
 
 ### Capítulo III. De los Servicios de Defensoría y Asesoría Jurídica
 
@@ -827,3 +839,27 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 SEGUNDO.- El presente Decreto entrará en vigor, simultáneamente con la Ley sobre Justicia para Adolescentes del Distrito Federal, que para tal efecto aprobará la Asamblea Legislativa del Distrito Federal.
 
 TERCERO.- La Defensoría de Oficio deberá presupuestar para el ejercicio 2007 los recursos para crear la infraestructura suficiente y el personal necesario para que se proceda a la aplicación de la Ley sobre Justicia para Adolescentes del Distrito Federal.
+
+G.O. 13 DE MARZO DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
+
+SEGUNDO.- La Asamblea Legislativa del Distrito Federal, autorizará a la Administración Pública del Distrito Federal, los recursos materiales y financieros necesarios para que la Consejería Jurídica y de Servicios Legales, dé cumplimiento al contenido de este Decreto.
+
+TERCERO.- Las personas que hayan sufrido únicamente daños causados culposamente con motivo del tránsito de vehículos antes de la entrada en vigor de este Decreto y de los que no se haya presentado querella ante la autoridad ministerial, podrán, en caso que así lo deseen, demandar su pago ante del Juez de Paz Civil competente, de acuerdo al nuevo procedimiento previsto en el presente Decreto y dentro del plazo de un año contado a partir que ocurrieron los hechos.
+
+CUARTO.- Las averiguaciones previas que se encuentren en integración a la entrada en vigor del presente Decreto y los procedimientos penales donde aún no se haya dictado el auto de sujeción a proceso, iniciados únicamente por el delito de daño a la propiedad culposo por el tránsito de vehículos, deberán ser remitidos al Juez Cívico competente por razón de territorio, para que los agraviados que así lo soliciten puedan ser auxiliados por la Defensoría de Oficio en la presentación de la demanda correspondiente.
+
+Cuando los agraviados no requieran el apoyo de los defensores de oficio, previa solicitud, se les entregará copia certificada de lo actuado para que hagan valer sus intereses en el momento y en la instancia que consideren conveniente, dentro del plazo de un año.
+
+Las obligaciones para los involucrados en los hechos de tránsito por la devolución en depósito de los vehículos, a que se refiere el artículo 100 del Código de Procedimientos Penales para el Distrito Federal, subsisten para quienes los hayan recibido antes de la entrada en vigor del presente Decreto, a favor de los Jueces Cívicos y de Paz Civil que sigan conociendo de esos hechos.
+
+QUINTO.- Los procesos penales, donde el auto de sujeción a proceso se haya emitido únicamente por el delito de daño a la propiedad culposo con motivo del tránsito de vehículos, deberán ser enviados al Juez de Paz Civil competente por territorio.
+
+El Juez de Paz Civil notificará personalmente a la parte agraviada para que dentro del término de cinco días formule la demanda de pago de daños culposos causados con motivo del tránsito de vehículos y una vez que la reciba, dictará el acuerdo y continuará el proceso como lo señala el presente Decreto. La Defensoría de Oficio brindará la asistencia legal para todos los agraviados que así se lo soliciten.
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
+
+...
