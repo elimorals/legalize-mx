@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-de-los-42428"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2007-07-03"
+last_updated: "2008-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 4 de diciembre de 2004.
 
@@ -75,7 +75,9 @@ IX. Contabilidad: registro detallado de las operaciones financieras de la hacien
 
 X. Control y Evaluación del Gasto Público: la vigilancia de la estricta aplicación de los recursos financieros del municipio, de las entidades o de los organismos intermunicipales, para garantizar su encauzamiento a los objetivos trazados, corregir desviaciones y vincular los avances físicos y financieros con los objetivos, políticas y metas establecidas en sus planes de desarrollo, y
 
-XI. Contaduría: la Contaduría Mayor de Hacienda del Honorable Congreso del Estado.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2008)</small>
+
+XI. Auditoría Superior: a la Auditoría Superior del Estado.
 
 ###### ARTICULO 4°.
 
@@ -153,6 +155,10 @@ IX. La demás información necesaria que sea requerida por el ayuntamiento, o en
 
 Los ayuntamientos preverán en el presupuesto de egresos del último año de ejercicio de gobierno de su periodo, una partida presupuestal con los recursos necesarios, para que la administración municipal que entre en funciones pueda comenzar a operar; misma que será entregada a la comisión receptora que señala la Ley de Entrega Recepción de los Recursos Públicos del Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2008)</small>
+
+Cuando sea el caso, los ayuntamientos deberán prever en el presupuesto de egresos, una partida presupuestal que será destinada para el pago de laudos laborales, misma que se conformará con los recursos que se consideren indispensables para solventar tales responsabilidades.
+
 ###### ARTICULO 11.
 
 Diez días después de aprobado el Presupuesto de Egresos por el cabildo, o en su caso por el órgano de gobierno respectivo, deberá enviarse al Congreso del Estado acompañado del acta de la sesión en que se aprobó. Asimismo, deberá mandar publicarse en el Periódico Oficial del Estado, en los términos señalados por el segundo párrafo del artículo 115 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
@@ -175,7 +181,7 @@ Para la ejecución del gasto público las dependencias y entidades de la adminis
 
 El gasto público comprende las erogaciones que realiza el municipio y las demás instituciones que señala esta Ley, por concepto de gasto corriente, inversión física, inversión financiera, subsidios y transferencias, así como pagos de pasivos o de deuda pública, incluyendo aquellos que se realicen para resarcir daños y perjuicios que ocasionen funcionarios y servidores públicos, exclusivamente en el ejercicio de sus funciones, así como el daño que se deba pagar por la responsabilidad patrimonial de la administración irregular, y en general, todos los conceptos de gasto comprendidos en el artículo 10 de esta Ley.
 
-La responsabilidad patrimonial de la administración irregular, las erogaciones que realiza el municipio y las demás instituciones que señala esta Ley por los conceptos de gasto a que se refiere el artículo 10 de este ordenamiento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 13 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 15.
 
@@ -187,11 +193,15 @@ Estas dependencias o unidades administrativas serán responsables de establecer 
 
 Los ayuntamientos, las entidades u organismos intermunicipales asignarán los subsidios y transferencias que les otorguen los gobiernos Estatal y Federal, en los proyectos específicos para los cuales estén destinados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 17.
 
-En lo relativo a la aplicación de los subsidios y transferencias a que se refiere el artículo anterior, la Contaduría Mayor de Hacienda del Estado, tendrá en todo tiempo la facultad de solicitar al ayuntamiento, a la entidad o al organismo intermunicipal respectivo, la revisión de la documentación comprobatoria.
+En lo relativo a la aplicación de los subsidios y transferencias a que se refiere el artículo anterior, la Auditoría Superior tendrá en todo tiempo, la facultad de solicitar al ayuntamiento, a la entidad o al organismo intermunicipal respectivo, la revisión de la documentación comprobatoria.
 
-Asimismo, los ayuntamientos proporcionarán a la Contaduría Mayor de Hacienda y en su caso a la Contraloría General del Estado, la información que se les solicite, permitiendo conforme a la ley la práctica de visitas y auditorías para comprobar la correcta aplicación de los recursos provenientes del erario Estatal y Federal, en los términos de las leyes de la materia.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2008)</small>
+
+Asimismo, los ayuntamientos proporcionarán a la Auditoría Superior y, en su caso, a la Contraloría General del Estado, la información que se les solicite, permitiendo conforme a la ley, la práctica de visitas y auditorías para comprobar la correcta aplicación de los recursos provenientes del erario Estatal y Federal, en los términos de las leyes de la materia.
 
 La misma obligación corresponde a las entidades y organismos intermunicipales, cuando realicen operaciones con cargo al gasto público municipal.
 
@@ -269,9 +279,11 @@ Los municipios deberán contar con un registro de bienes inmuebles municipales, 
 
 Las entidades y organismos intermunicipales llevarán su propia contabilidad, la cual incluirá cuentas para registrar tanto los activos, pasivos, patrimonio, ingresos y gastos, como las asignaciones, compromisos y ejecuciones correspondientes a los programas y partidas de su propio presupuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 32.
 
-Los catálogos de cuenta que utilicen las dependencias y entidades de la administración pública municipal, así como los organismos intermunicipales, serán propuestos por la Contaduría Mayor de Hacienda del Estado. Los sistemas de contabilidad deberán formularse y operarse en tal forma que faciliten la fiscalización de los activos, pasivos, ingresos, gastos, avances en la ejecución de programas, y en general, de manera que permitan medir la eficacia y eficiencia del gasto público.
+Los catálogos de cuenta que utilicen las dependencias y entidades de la administración pública municipal, así como los organismos intermunicipales, serán propuestos por la Auditoría Superior. Los sistemas de contabilidad deberán formularse y operarse en tal forma que faciliten la fiscalización de los activos, pasivos, ingresos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público.
 
 Los ayuntamientos informarán por escrito al Congreso del Estado, durante el mes siguiente, las modificaciones que en su caso realicen a sus normas o procedimientos y sistemas de control interno que en materia contable determinen.
 
@@ -279,7 +291,9 @@ Los ayuntamientos informarán por escrito al Congreso del Estado, durante el mes
 
 Las entidades presentarán al cabildo la información presupuestal, contable, financiera y de otra índole que requiera, con la periodicidad que éste determine.
 
-En lo referente a los organismos intermunicipales, la información señalada en el párrafo anterior la presentarán en los mismos términos, directamente a la Contaduría Mayor de Hacienda del Estado.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2008)</small>
+
+En lo referente a los organismos intermunicipales, la información señalada en el párrafo anterior, la presentaran en los mismos términos directamente a la Auditoría Superior.
 
 ###### ARTICULO 34.
 
@@ -287,9 +301,11 @@ Los estados financieros y demás información contable, presupuestal y financier
 
 ### CAPITULO V. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 35.
 
-Las responsabilidades que afecten a la hacienda pública municipal, derivadas del incumplimiento de las disposiciones contenidas en el presente Ordenamiento, serán determinadas y sancionadas en el ámbito de sus respectivas competencias, por el Congreso del Estado, la Contaduría Mayor de Hacienda del Estado y los órganos de control interno, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí y demás leyes aplicables.
+Las responsabilidades que afecten a la hacienda pública municipal, derivadas del incumplimiento de las disposiciones contenidas en el presente Ordenamiento, serán determinadas y sancionadas en el ámbito de sus respectivas competencias, por el Congreso del Estado, la Auditoría Superior y los órganos de control interno, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás leyes aplicables.
 
 T R A N S I T O R I O S
 
@@ -333,7 +349,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE MARZO DE 2005.
 
@@ -356,3 +372,7 @@ QUINTO. La Auditoría Superior del Estado, dentro de los cinco días siguientes 
 SEXTO. Los ayuntamientos, los organismos públicos descentralizados municipales, y los organismos intermunicipales, que no tengan sus Catálogos de Puestos y Tabuladores de Remuneraciones de sus Servidores Públicos, dentro del plazo previsto en el artículo Tercero Transitorio de este Decreto, se harán acreedores a las sanciones que señale la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 SEPTIMO. La Auditoría Superior del Estado deberá implementar los mecanismos operativos necesarios para apoyar a los municipios, sus organismos públicos descentralizados, y los organismos intermunicipales, en relación con la elaboración de los catálogos que refiere este Decreto.
+
+P.O. 13 DE MARZO DE 2008.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
