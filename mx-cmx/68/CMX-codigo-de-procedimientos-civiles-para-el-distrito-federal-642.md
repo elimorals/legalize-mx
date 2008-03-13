@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2008-01-08"
+last_updated: "2008-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2010,9 +2010,7 @@ Si el juez que decretó la separación no fuere el que deba conocer del negocio 
 
 ARTICULO 218 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
-ARTICULO 219
-
-> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+ARTICULO 219 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
 ### CAPITULO IV. De la preparación del juicio arbitral
 
@@ -2469,6 +2467,8 @@ ARTICULO 277
 El juez mandará recibir el pleito a prueba en el caso de que los litigantes lo hayan solicitado, o de que él la estime necesaria. Del auto que manda abrir a prueba un juicio no hay más recurso que el de responsabilidad; aquél en que se niegue, será apelable en el efecto devolutivo.
 
 ### CAPITULO II. De la prueba
+
+Reglas generales
 
 ARTICULO 278
 
@@ -3924,45 +3924,105 @@ En el caso de la adjudicación prevista en el segundo párrafo del artículo 291
 
 También pueden oponerse a la venta los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
 
-> <small>(REFORMADA LA DENOMINACION, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-### CAPITULO IV. Del juicio especial de desahucio
+> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE MARZO DE 2008)</small>
+
+### CAPITULO IV. Del juicio de pago de daños culposos causados con motivo del tránsito de vehículos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 489
 
-> <small>(DEROGADO, D.O.F. 21 DE JULIO DE 1993)</small>
+El Juez de Paz Civil que reciba de un Juzgado Cívico la demanda de pago de daños culposos causados con motivo del tránsito de vehículos, emitirá dentro del plazo de seis horas siguientes, proveído en que determine, cuando menos, lo siguiente:
+
+I. La radicación del expediente respectivo y, en su caso, la admisión de la o las demandas presentadas;
+
+II. Cuando así se lo soliciten en la demanda: la orden de embargo de bienes suficiente para garantizar el daño; el secuestro del vehículo con que se causaron los daños, como providencia precautoria para garantizar su pago, en el supuesto que el responsable no lo haya hecho ante el Juez Cívico; o en su caso, la orden de ampliación de embargo, cuando el valor del vehículo secuestrado sea insuficiente para garantizar el pago de los daños;
+
+III. El señalamiento del plazo de tres días con que cuenta para producir su respectiva contestación el demandado, a partir de la notificación personal que se le realice;
+
+IV. La remisión de un tanto original del acuerdo al Juez Cívico, para su conocimiento con relación a los vehículos involucrados y demás determinaciones;
+
+V. La orden de notificación personal; y
+
+VI. Las demás medidas que estime necesarias para dar trámite y resolución a la controversia iniciada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 490
 
-> <small>(DEROGADO, D.O.F. 21 DE JULIO DE 1993)</small>
+El conductor del vehículo que no resulte responsable de los daños y no sea propietario del vehículo que conducía, tendrá las facultades inherentes a un gestor judicial, sólo por esos hechos, y estará exento de la obligación de presentar fianza.
+
+La propiedad del vehículo dañado y la ratificación de la demanda, podrá ser acreditada y realizada ante el Juez de Paz Civil del conocimiento, hasta antes de que se abra el juicio a prueba, sin que esta circunstancia sea impedimento para la admisión de la demanda. De no acreditarse la propiedad del vehículo, se desechará la demanda, dejándose a salvo los derechos del propietario afectado para hacerlos valer en la vía correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 491
 
-> <small>(DEROGADO, D.O.F. 21 DE JULIO DE 1993)</small>
+Cuando no sea por vía del Juez Cívico, admitida la demanda, se notificará y correrá traslado de ella al demandado o demandados, para que en el plazo de tres días produzcan su contestación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 492
 
-> <small>(DEROGADO, D.O.F. 21 DE JULIO DE 1993)</small>
+Las notificaciones se sujetarán a lo dispuesto por el Título Segundo, Capítulo Quinto de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 493
 
-> <small>(DEROGADO, D.O.F. 21 DE JULIO DE 1993)</small>
+Las pruebas deberán ofrecerse en los escritos de demanda y contestación.
+
+Las pruebas supervenientes se regirán por las reglas generales previstas en éste Código.
+
+Todas las excepciones y defensas deberán hacerse valer en la contestación.
+
+Los incidentes no suspenden el procedimiento y todas las excepciones que se opongan y recursos que se interpongan se resolverán en la sentencia definitiva.
+
+Si la parte demandada no formula su contestación, se tendrán por presuntamente ciertos los hechos de la demanda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 494
 
-> <small>(DEROGADO, D.O.F. 21 DE JULIO DE 1993)</small>
+Transcurrido el plazo para la contestación de la demanda, dentro de los seis días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones, con las prevenciones y apercibimientos que legalmente se requieran.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 495
 
-> <small>(DEROGADO, D.O.F. 21 DE JULIO DE 1993)</small>
+Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por una sola vez en un plazo no mayor de diez días. Desahogadas las pruebas y concluida la fase de alegatos, se dictará Sentencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 496
 
-> <small>(DEROGADO, D.O.F. 21 DE JULIO DE 1993)</small>
+El Juez deberá emitir sentencia definitiva en un plazo que no exceda de treinta días naturales siguientes a que se tenga por emplazadas a todas las partes, salvo causa justificada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 497
 
-> <small>(DEROGADO, D.O.F. 21 DE JULIO DE 1993)</small>
+Contra la Sentencia que se dicte procede la apelación en ambos efectos.
 
 ARTICULO 498 (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
@@ -4062,9 +4122,11 @@ ARTICULO 500
 
 Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
 
-> <small>(REFORMADO, G.O. 8 DE ENERO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y de laudos emitidos por dicha Procuraduría; así como en la ejecución de convenios celebrados ante el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal.
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y de laudos emitidos por dicha Procuraduría; en la ejecución de convenios celebrados ante el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal y ante los Juzgados Cívicos, tratándose de daños culposos causados con motivo del tránsito de vehículos.
 
 ARTICULO 501
 
@@ -4793,6 +4855,8 @@ En el caso en que el emplazamiento se hubiere hecho por edictos, la sentencia no
 Tratándose de los Juicio a que hace referencia el Titulo Séptimo, Capítulo I de este Código, no será aplicable el presente artículo.
 
 ## TITULO OCTAVO. Del juicio arbitral
+
+Reglas generales
 
 ARTICULO 609
 
@@ -7484,11 +7548,13 @@ TITULO ESPECIAL
 
 De la Justicia de Paz
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 1
 
-En el Distrito Federal habrá los juzgados de paz que determine la Ley Orgánica de los Tribunales de Justicia del Fuero Común.
+En el Distrito Federal habrá los juzgados de paz que determine la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7497,6 +7563,12 @@ ARTICULO 2
 Conocerán los jueces de paz en materia civil de los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre bienes inmuebles ubicados dentro de su jurisdicción y que tengan un valor de hasta tres mil días de salario mínimo general vigente en el Distrito Federal y en los demás negocios de jurisdicción contenciosa común o concurrente cuyo monto no exceda de mil días de salario mínimo general vigente en el Distrito Federal, cantidades las anteriores que se actualizarán anualmente como lo dispone el artículo 71 de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal.
 
 Quedan exceptuados (sic) de la anterior disposición todas las controversias relativas a las materias familiar y de arrendamiento inmobiliario, cuya competencia queda asignada a los jueces de primera instancia de la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+
+Así también conocerán Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -8369,3 +8441,23 @@ CUARTO. El Tribunal Superior de Justicia del Distrito Federal deberá realizar l
 QUINTO. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para emitir el reglamento interno correspondiente.
 
 SEXTO. La Comisión de Administración y Procuración de Justicia conformará una comisión multidisciplinaria donde participe, cuando menos, la Consejería Jurídica del Gobierno del Distrito Federal, el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, académicos e investigadores con experiencia en la materia; con la finalidad de elaborar, en el plazo de un año, contado a partir del día siguiente de la fecha de entrada en vigor de la presente ley, de la iniciativa de ley que para la solución de controversias en todos los ámbitos de interacción social, requiere el Distrito Federal.
+
+G.O. 13 DE MARZO DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
+
+SEGUNDO.- La Asamblea Legislativa del Distrito Federal, autorizará a la Administración Pública del Distrito Federal, los recursos materiales y financieros necesarios para que la Consejería Jurídica y de Servicios Legales, dé cumplimiento al contenido de este Decreto.
+
+TERCERO.- Las personas que hayan sufrido únicamente daños causados culposamente con motivo del tránsito de vehículos antes de la entrada en vigor de este Decreto y de los que no se haya presentado querella ante la autoridad ministerial, podrán, en caso que así lo deseen, demandar su pago ante del Juez de Paz Civil competente, de acuerdo al nuevo procedimiento previsto en el presente Decreto y dentro del plazo de un año contado a partir que ocurrieron los hechos.
+
+...
+
+QUINTO.- Los procesos penales, donde el auto de sujeción a proceso se haya emitido únicamente por el delito de daño a la propiedad culposo con motivo del tránsito de vehículos, deberán ser enviados al Juez de Paz Civil competente por territorio.
+
+El Juez de Paz Civil notificará personalmente a la parte agraviada para que dentro del término de cinco días formule la demanda de pago de daños culposos causados con motivo del tránsito de vehículos y una vez que la reciba, dictará el acuerdo y continuará el proceso como lo señala el presente Decreto. La Defensoría de Oficio brindará la asistencia legal para todos los agraviados que así se lo soliciten.
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
+
+SÉPTIMO.- El Tribunal Superior de Justicia del Distrito Federal deberá realizar las adecuaciones administrativas y laborales para que se cumpla el procedimiento seguido ante los Jueces de Paz Civil que señala este Decreto en los términos y plazos allí señalados y entren en vigor el mismo día que este instrumento.
