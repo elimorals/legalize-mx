@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2005-del-pleno-del-consejo-de-la-45755"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-19"
-last_updated: "2006-04-11"
+last_updated: "2008-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45755&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-08-10"
 
 ACUERDO GENERAL 32/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y DE APOYO ECONOMICO EXTRAORDINARIO A LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 2008.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 19 de agosto de 2005.
 
@@ -67,7 +67,9 @@ IV. Presidente: El Ministro Presidente del Consejo de la Judicatura Federal;
 
 V. Comisión: La Comisión de Administración del Consejo de la Judicatura Federal;
 
-VI. Recursos Humanos: La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+VI. Servicios al Personal: La Dirección General de Servicios al Personal del Consejo de la Judicatura Federal;
 
 VII. Director de Servicios Médicos: El titular de la Dirección General de Servicios Médicos y Desarrollo Infantil del Consejo de la Judicatura Federal;
 
@@ -83,31 +85,47 @@ XII. Discapacitado: La persona que padece, temporal o permanentemente, una dismi
 
 XIII. Paciente: La persona que sufre algún padecimiento o enfermedad, o bien, que fue víctima de un accidente;
 
-XIV. Rehabilitación: Tratamiento encaminado a la recuperación de actividades, sentidos o capacidades perdidas por traumatismo o enfermedad;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+XIV. Rehabilitación: El conjunto de procedimientos médicos y psicológicos dirigidos a ayudar a una persona a alcanzar el más completo potencial físico, psicológico, social y educacional compatible con su deficiencia fisiológica o anatómica y limitaciones medioambientales, intentando restablecer o restaurar la salud;
 
 XV. Prótesis: Organo o miembro artificial;
 
-XVI. Duración: El lapso durante el cual se otorgará el apoyo;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+XVI. Duración: El lapso durante el cual se otorgará la prestación médica;
 
 XVII. Seguro de Gastos Médicos Mayores: El Seguro de Gastos Médicos Mayores contratado por el Consejo de la Judicatura Federal;
 
-XVIII. ISSSTE: El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y,
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+XVIII. ISSSTE: El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 XIX. Plan: El Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
 
-> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
-XX. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto.
+XX. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto; y
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+XXI. Prestaciones médicas: Las prestaciones médicas complementarias y los apoyos económicos extraordinarios que se regulan en el presente Acuerdo.
 
 ###### Artículo 3.
 
 Las prestaciones médicas a que se refiere este Acuerdo serán independientes y complementarias a las que otorgue el ISSSTE y a las cubiertas por el Seguro de Gastos Médicos Mayores.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 4.
 
-Son materia del presente Acuerdo las prestaciones que a continuación se enumeran:
+Son materia del presente Acuerdo las prestaciones médicas que a continuación se enumeran:
 
-I. Gastos médicos quirúrgicos;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+I. Honorarios médicos por intervención quirúrgica y gastos de hospitalización;
 
 II. Adquisición o renta de aparatos ortopédicos, camas especiales, andaderas, bastones, muletas, sillas de ruedas, oxígeno y equipo médico;
 
@@ -125,7 +143,9 @@ VIII. Adquisición de medicamentos que no estén dentro del Cuadro Básico y Cat
 
 IX. Viáticos para los traslados que tenga que realizar el paciente por indicación médica desde su ciudad de origen al lugar indicado para recibir atención médica;
 
-X. Préstamos para pagar los gastos generados por atención médica, cuando el trabajador, transitoriamente, no tenga recursos económicos para cubrirlos; y,
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+X. Préstamos para pagar gastos generados por atención médica; y
 
 XI. Ayuda económica para atención y tratamiento de los siguientes casos:
 
@@ -137,11 +157,11 @@ c. Enfermedades incurables o padecimientos crónicos o degenerativos; y,
 
 d. Enfermedades, padecimientos o lesiones que no sean tratados adecuadamente en tiempo o en calidad en el ISSSTE o, en su caso, no estén cubiertos o excedan la suma asegurada por el Seguro de Gastos Médicos Mayores una vez utilizada.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 4 Bis.
 
-Para el otorgamiento de prestaciones médicas complementarias y apoyos económicos extraordinarios, únicamente se podrá disponer de los intereses que hayan sido generados por el fondo del fideicomiso, descontándose la pérdida inflacionaria acumulada.
+Para el otorgamiento de prestaciones médicas únicamente se podrá disponer de los intereses que hayan sido generados por el Fondo, descontándose la pérdida inflacionaria acumulada.
 
 ###### Artículo 5.
 
@@ -153,43 +173,63 @@ Los servidores públicos podrán, en cualquier momento, realizar donativos que p
 
 Serán beneficiarios del Plan las siguientes personas:
 
-I. Los servidores públicos con nivel de puesto del 21 al 29 y, en casos excepcionales, los de niveles 30 y superiores;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+I. Los servidores públicos con nivel de puesto del 21 al 33 de conformidad con el Manual General de Puestos del Consejo y, en casos excepcionales, los de niveles 1 al 20;
 
 II. El cónyuge, concubina o concubinario del servidor público a que se refiere la fracción anterior;
 
-III. Los hijos menores de 25 años o incapaces de los servidores públicos mencionados en la fracción I de este artículo, que dependan económicamente de éstos;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+III. Los hijos de los servidores públicos mencionados en la fracción I de este artículo menores de dieciocho años; los que tengan entre dieciocho y veinticinco años, siempre que permanezcan solteros y sean estudiantes; y los mayores de dieciocho años, solteros, que se encuentren incapacitados;
 
 IV. Los padres de los servidores públicos señalados en la fracción I de este artículo, que no reciban prestaciones del Instituto Mexicano del Seguro Social o del ISSSTE, ni de otra institución de seguridad social, siempre que dependan económicamente de éstos, lo cual deberá comprobarse a satisfacción de la Comisión;
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
-V. Los servidores públicos jubilados, únicamente para lo establecido en el artículo 4, fracción VIII, de este Acuerdo; y,
+V. Las personas jubiladas del Poder Judicial, únicamente para lo establecido en el artículo 4, fracción VIII, de este Acuerdo; y
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
-VI. Aquellos servidores públicos que estén en el período prejubilatorio, entendiéndose por ello, cuando los solicitantes de la ayuda económica estén realizando los trámites correspondientes para jubilarse y disfruten de la licencia correspondiente.
+VI. Aquellos servidores públicos que estén en el período prejubilatorio, entendiéndose por ello, cuando estén realizando los trámites correspondientes para jubilarse y disfruten de la licencia correspondiente.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 7.
 
-Para que un servidor público pueda ser beneficiario del Plan, deberá tener potenciada la suma asegurada, cuando menos al nivel inmediato superior, en su Seguro de Gastos Médicos Mayores.
+Para que un servidor público pueda ser beneficiario del Plan, deberá haber incrementado la suma asegurada en su Seguro de Gastos Médicos Mayores, al nivel inmediato superior al que pague el Consejo como prestación de acuerdo con la clasificación de su puesto, previamente a que se diagnostique el padecimiento, ocurra el accidente, o se realice el primer reclamo a la Compañía Aseguradora con la que se maneje el Seguro de Gastos Médicos Mayores, con motivo del siniestro por el cual se requiera la prestación médica, lo que acontezca primero.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 8.
 
-Para que se pueda otorgar el apoyo económico a las personas mencionadas en las fracciones II, III y IV del artículo 6 de este Acuerdo el servidor público de que se trate debe haberlos designado como asegurados en la póliza del Seguro de Gastos Médicos Mayores.
+Para que se pueda otorgar la prestación médica a las personas mencionadas en las fracciones II, III y IV del artículo 6 de este Acuerdo, el servidor público de que se trate debe haberlos designado como asegurados en la póliza del Seguro de Gastos Médicos Mayores.
 
-Tratándose de hijos menores de un año, se les proporcionará apoyo siempre que hayan sido incluidos en la póliza del Seguro de Gastos Médicos Mayores dentro de los noventa días naturales siguientes a su nacimiento.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 Cualquier otro caso no previsto expresamente en este Acuerdo será resuelto por la Comisión.
 
 ## TITULO TERCERO. Del Procedimiento de Solicitud
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 9.
 
-Para recibir las prestaciones médicas complementarias y el apoyo económico extraordinario a que se refiere este Acuerdo será necesario que el servidor público interesado lo solicite mediante escrito dirigido a la Comisión, el que deberá ser presentado, directamente o por correo certificado, en la Oficialía de Partes y Certificación del Edificio Sede del Consejo.
+Para recibir las prestaciones médicas a que se refiere este Acuerdo, será necesario que el servidor público interesado lo solicite mediante escrito dirigido a la Comisión, el que deberá ser presentado, directamente o por correo certificado, en la Oficialía de Partes y Certificación del Edificio Sede del Consejo.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+###### Artículo 9 Bis.
+
+La tramitación de las solicitudes de prestaciones médicas se hará conforme a las disposiciones de este Acuerdo y las Reglas de Operación del Plan.
+
+La Comisión será el órgano competente para emitir las Reglas de Operación del Plan.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 10.
 
-Las solicitudes de apoyo económico deberán hacerse en los siguientes términos:
+Las solicitudes de prestaciones médicas deberán hacerse en los siguientes términos:
 
 I. Presentarse en el formato autorizado por la Comisión, el cual deberá contener lo siguiente:
 
@@ -255,55 +295,77 @@ II. Acompañar a la solicitud los siguientes documentos:
 
 8. Cuando se trate de hijos con padecimiento orgánico cerebral, el servidor público tendrá que presentar constancia médica, en la cual se deberá certificar el padecimiento y la necesidad del tratamiento requerido; y,
 
-9. En los casos de padecimientos crónicos degenerativos o de evolución no satisfactoria y en los cuales hayan recibido ayuda previa del Consejo de acuerdo a lo que conste en las actas respectivas, será necesario un informe de las instituciones de salud, centro de atención y/o médicos privados que atienda al paciente, en el que se describa la evolución y estado actual que permita analizar la necesidad de continuar brindando el apoyo.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+9. En los casos de padecimientos crónicos degenerativos o de evolución no satisfactoria y en los cuales hayan recibido ayuda previa del Consejo de acuerdo a lo que conste en las actas respectivas, será necesario un informe de las instituciones de salud, centro de atención y/o médicos privados que atiendan al paciente, en el que se describa la evolución y estado actual que permita analizar la necesidad de continuar brindando la prestación médica.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 11.
 
-El apoyo para la atención médico hospitalaria se otorgará en concordancia con las restricciones de hospitales del Seguro de Gastos Médicos Mayores.
+Las prestaciones médicas para la cobertura de gastos de hospitalización se otorgará (sic) en concordancia con las restricciones que para tal efecto se prevén en las condiciones generales del Seguro de Gastos Médicos Mayores.
 
 ###### Artículo 12.
 
 A todos los solicitantes se les deberá practicar un estudio socioeconómico de campo, en el formato que previamente autorice la Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 13.
 
-Una vez presentada la solicitud de prestaciones médicas complementarias y de apoyo económico extraordinario, el titular de Recursos Humanos, dentro de los diez días siguientes a su recepción, deberá ordenar se recabe la siguiente información:
+Una vez presentada la solicitud de prestaciones médicas, el titular de Servicios al Personal, dentro de los diez días siguientes a su admisión, deberá ordenar se recabe la siguiente información:
 
 I. Un estudio socioeconómico de campo, el que describirá la situación económica del solicitante; y,
 
-II. Una valoración médica del apoyo solicitado por parte del Director de Servicios Médicos, quien de considerarlo pertinente podrá realizarla a través de un médico especialista externo.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+II. Una valoración médica del caso respectivo por parte del Director de Servicios Médicos, quien de considerarlo pertinente podrá realizarla a través de un médico especialista externo.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 14.
 
-El titular de Recursos Humanos, con base en la solicitud e información referida en el artículo anterior y dentro de los quince días siguientes a la recepción de la solicitud, deberá elaborar un proyecto de resolución en el que proponga a la Comisión el sentido de la resolución que determine sobre la procedencia o no del apoyo solicitado. En caso de estimar procedente su otorgamiento deberá proponer el monto, condiciones y tiempo durante el cual se proporcionará.
+El titular de Servicios al Personal, con base en la solicitud e información referida en el artículo anterior y dentro de los quince días siguientes a la recepción de dicha información, deberá elaborar un proyecto de resolución en el que proponga a la Comisión el sentido de la resolución que determine sobre la procedencia o no de la prestación médica solicitada. En caso de estimar procedente su otorgamiento deberá proponer el monto, condiciones y duración.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
-Tratándose de apoyos económicos extraordinarios Recursos Humanos deberá señalar el monto máximo a pagar de conformidad con las condiciones establecidas en la póliza del Seguro de Gastos Médicos Mayores y con los porcentajes establecidos en la Tabla de Intervenciones Quirúrgicas para Pago de Honorarios por Reembolso, que en dicho seguro se maneje para cubrir siniestros, así como el monto que considere pertinente, tomando en consideración lo dispuesto en el artículo 4 Bis de este ordenamiento. En los casos no previstos en los mencionados instrumentos, Recursos Humanos deberá proponer la cantidad del beneficio de acuerdo con los antecedentes, características y situaciones propias del siniestro, atendiendo en todo momento a lo previsto en el artículo 4 Bis de este Acuerdo.
+Para determinar el monto de la prestación médica de que se trate, Servicios al Personal deberá recabar de la institución con la que el Consejo haya contratado el Seguro de Gastos Médicos Mayores, información sobre la cantidad que por el evento respectivo dicha aseguradora pagaría, de conformidad con las condiciones establecidas en la póliza del Seguro de Gastos Médicos Mayores y con los porcentajes establecidos en la Tabla de Intervenciones Quirúrgicas para Pago de Honorarios por Reembolso, que se maneja para cubrir siniestros, a efecto de establecer un parámetro o análisis comparativo, y estar en posibilidad de proponer el monto del beneficio, tomando en consideración lo dispuesto por el artículo 4 Bis de este ordenamiento.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
+En los casos en que no sea posible obtener un parámetro conforme a lo previsto en el párrafo anterior, Servicios al Personal deberá solicitar cuando menos dos cotizaciones a diferentes proveedores y, con base en ellas, proponer la cantidad del beneficio de acuerdo con los antecedentes, características y situaciones propias del siniestro, atendiendo en todo momento a lo previsto en el artículo 4 Bis de este Acuerdo.
 
 De toda resolución que dicte la Comisión deberá informar al Pleno en la siguiente sesión ordinaria; así como a la Suprema Corte de Justicia de la Nación para su conocimiento.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 14 Bis.
 
-Al momento de presentar la propuesta de resolución correspondiente, Recursos Humanos deberá exhibir un estado de cuenta actualizado del fondo del fideicomiso, con el objeto de que los Consejeros integrantes de la Comisión tengan conocimiento exacto de la situación presupuestal del fondo y así estén en condiciones de determinar lo que consideren pertinente en relación con la prestación médica complementaria o el apoyo económico extraordinario solicitado.
+Al momento de presentar la propuesta de resolución correspondiente, Servicios al Personal deberá exhibir un estado de cuenta actualizado del fondo del fideicomiso, con el objeto de que los consejeros integrantes de la Comisión tengan conocimiento exacto de la situación presupuestal del fondo y así estén en condiciones de determinar lo que consideren pertinente en relación con la prestación médica solicitada.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 15.
 
-Las resoluciones serán firmadas por el Presidente de la Comisión, por el titular de Recursos Humanos y por el Secretario Técnico de la Comisión, quien autorizará y dará fe de éstas.
+Las resoluciones serán firmadas por el Presidente de la Comisión, por el titular de Servicios al Personal y por el Secretario Técnico de la Comisión, quien autorizará y dará fe de éstas.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 16.
 
-Tratándose de solicitudes de servidores públicos con nivel de puesto 30 y superiores, la Comisión evaluará si se trata de una situación excepcional y, en caso de estimarlo así, remitirá el asunto al Pleno para que emita la resolución respectiva.
+Tratándose de solicitudes de servidores públicos con nivel de puesto 1 al 20, la Comisión evaluará si se trata de una situación excepcional y, en caso de estimarlo así, remitirá el asunto al Pleno para que emita la resolución respectiva.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 17.
 
-Las resoluciones que determinen sobre la procedencia o no de la prestación médica complementaria y de apoyo económico extraordinario deberán notificarse al peticionario correspondiente, a más tardar dentro de los cinco días hábiles siguientes a su emisión, mediante el servidor público que al efecto se habilite, entregándole copia certificada de la resolución.
+Las resoluciones que determinen sobre la procedencia o no de la prestación médica deberán notificarse al peticionario correspondiente, a más tardar dentro de los quince días siguientes a su emisión, mediante el servidor público que al efecto se habilite, entregándole copia certificada de la resolución.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 18.
 
-El apoyo económico se proporcionará cuando de la valoración médica, prevista en el artículo 13, fracción II, de este Acuerdo, se desprendan los siguientes requisitos:
+La prestación médica se proporcionará cuando de la valoración médica, prevista en el artículo 13, fracción II, de este Acuerdo, se desprendan los siguientes requisitos:
 
 I. Que el ISSSTE no puede otorgar en forma adecuada y oportuna el servicio;
 
@@ -313,61 +375,99 @@ III. Que se estime que el paciente pueda recuperar o mejorar la salud y las capa
 
 ## TITULO CUARTO. Del Pago de las Prestaciones Médicas Complementarias y Apoyos Económicos Extraordinarios
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 19.
 
-En caso de que se otorgue la prestación médica complementaria o el apoyo económico extraordinario, el servidor público deberá entregar los recibos originales y la documentación comprobatoria a su nombre que amparen los gastos efectuados, dentro de los quince días hábiles siguientes al en que se le hubiera entregado el apoyo. En caso de que requiera más tiempo, tendrá que solicitar por escrito a la Comisión la ampliación de dicho plazo, el que no podrá exceder de diez días hábiles más.
+En caso de que se otorgue la prestación médica, el servidor público deberá entregar la documentación clínica, así como los comprobantes originales, a su nombre, que amparen los gastos efectuados, dentro de los quince días hábiles siguientes al en que se le hubiera entregado el beneficio económico. En caso de que requiera más tiempo, tendrá que solicitar por escrito a la Comisión la ampliación de dicho plazo, el que no podrá exceder de diez días hábiles más.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+Servicios al Personal deberá remitir los recibos originales y demás documentación que ampare los gastos realizados por el servidor público al que se hubiere otorgado el beneficio, a la Dirección General de Programación y Presupuesto del Consejo de la Judicatura Federal, para que aleatoria y conjuntamente con la Contraloría del Poder Judicial de la Federación califiquen su validez y autenticidad.
 
-Recursos Humanos deberá remitir los recibos originales y demás documentación que ampare los gastos realizados por el servidor público al que se hubiera otorgado el beneficio, a la Dirección General de Programación y Presupuesto del Consejo de la Judicatura Federal, para que aleatoria y conjuntamente con la Contraloría del Poder Judicial de la Federación califiquen su validez y autenticidad.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 20.
 
-Los recibos a que se refiere el artículo anterior deberán reunir los siguientes requisitos:
+Los comprobantes a que se refiere el artículo anterior deberán cumplir con los requisitos fiscales vigentes.
 
-I. Estar expedidos a nombre del servidor público o sus beneficiarios;
+I. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)
 
-II. Nombre, denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes de quien los expida;
+II. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)
 
-III. Número de folio, lugar y fecha de expedición;
+III. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)
 
-IV. Cantidad y clase de productos o descripción del servicio que ampare; y,
+IV. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)
 
-V. Valor unitario e importe total consignado en número y letra, así como el monto de los impuestos que en términos de las disposiciones fiscales deban trasladarse.
+V. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)
 
 ###### Artículo 21.
 
 La Comisión tendrá la facultad en todo tiempo de verificar la autenticidad de los datos de la solicitud y sus anexos.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 22.
 
-En casos excepcionales, la Comisión podrá autorizar prestaciones médicas complementarias o apoyos económicos extraordinarios sin la correlativa obligación de presentar los recibos originales, en cuyo caso, deberá motivar su resolución, así como exigir a la persona favorecida que manifieste por escrito y bajo protesta de decir verdad, la causa, el concepto y el importe de los gastos realizados. El padecimiento deberá de ser ratificado por dos testigos.
+En casos excepcionales, la Comisión podrá autorizar prestaciones médicas sin la correlativa obligación de presentar los comprobantes de gasto originales, en cuyo caso, deberá motivar su resolución, así como exigir a la persona favorecida que manifieste por escrito y bajo protesta de decir verdad, la causa, el concepto y el importe de los gastos realizados. La existencia del padecimiento deberá ser ratificada por dos testigos, ante servicios al personal o ante la Administración Regional o Delegación Administrativa a la que se pida auxilio para tal efecto.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 23.
 
-La Comisión ordenará al titular de Recursos Humanos que lleve los archivos adecuados que permitan registrar la estadística y el monto de las prestaciones que se otorguen, para presentar informe trimestral al Pleno.
+La Comisión ordenará al titular de Servicios al Personal que lleve los archivos adecuados que permitan registrar la estadística y el monto de las prestaciones médicas que se otorguen, para presentar informe semestral al Pleno.
 
 ## TITULO QUINTO. De la Suspensión y Cancelación de las Prestaciones Médicas Complementarias y Apoyos Económicos Extraordinarias (sic)
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 24.
 
-Se cancelará la prestación médica complementaria o el apoyo económico extraordinario solicitado a que se refiere este Acuerdo cuando para obtenerla el servidor público de que se trate proporcione datos falsos que induzcan al error o se aprovechen de aquél en que Recursos Humanos hubiese incurrido. La resolución que determine la cancelación de la prestación médica complementaria o apoyo económico extraordinario solicitado será emitida por la Comisión.
+Se suspenderá el pago de la prestación médica otorgada, en los siguientes casos:
+
+I. Cuando al servidor público de que se trate, por cualquier causa, le sea impuesta alguna medida cautelar, con motivo de un procedimiento de responsabilidad administrativa.
+
+La suspensión surtirá efectos a partir de la fecha en que se imponga la medida cautelar respectiva; no obstante, la prestación médica podrá ser reiniciada a partir de que se emita la resolución que ponga fin al procedimiento respectivo, siempre y cuando no sea sancionado con destitución, sanción económica o suspensión del cargo, en cuyo caso procederá su cancelación;
+
+II. Cuando el servidor público de que se trate incumpla con lo previsto en el primer párrafo del artículo 19 de este Acuerdo; y
+
+III. Cuando así lo determine, razonadamente, la Comisión o el Pleno.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 25.
 
-Tratándose del supuesto previsto en la fracción III del artículo 6 de este Acuerdo, la cancelación de la prestación médica complementaria o el apoyo económico extraordinario solicitado procederá de pleno derecho, sin substanciación de procedimiento alguno, cuando los beneficiarios cumplan veinticinco años de edad, excepto los incapaces.
+Procederá la cancelación de la prestación médica otorgada, en los siguientes casos:
+
+I. Cuando para obtenerla el servidor público de que se trate proporcione datos falsos que induzcan al error o se aprovechen de aquél en que Servicios al Personal hubiese incurrido;
+
+II. Cuando en más de tres ocasiones consecutivas, el servidor público beneficiado entregue, sin justificación, los comprobantes de gasto y documentación clínica comprobatoria fuera del plazo previsto para tal efecto en el primer párrafo del artículo 19 de este Acuerdo;
+
+III. Cuando el servidor público beneficiado incumpla con las condiciones que hubieran dado lugar a la suspensión prevista en la fracción II del artículo 24 de este Acuerdo;
+
+IV. Cuando los beneficiarios a que se refiere la fracción I del artículo 6 de este Acuerdo, dejen de laborar en el Poder Judicial de la Federación, dicha cancelación se hará extensiva, en su caso, a los beneficiarios indicados en las fracciones II a IV del mencionado artículo 6;
+
+V. Cuando los beneficiarios a que se refiere la fracción III del artículo 6 de este Acuerdo, cumplan veinticinco años de edad, excepto los incapaces;
+
+VI. Tratándose de los beneficiarios a que se refiere la fracción VI del artículo 6 de este Acuerdo, al cumplirse seis meses del otorgamiento de la prestación médica, contados a partir del día siguiente al en que surta efectos la baja por jubilación, excepto para lo establecido en la fracción VIII del artículo 4 de este Acuerdo; y
+
+VII. En los demás casos que así lo determine la Comisión.
+
+La cancelación de la prestación médica otorgada procederá de pleno derecho, sin substanciación de procedimiento alguno, en los casos previstos en las fracciones IV, V y VI de este artículo.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 26.
 
-La devolución de cantidades pagadas indebidamente será resuelta por la Comisión, previo informe que al respecto rinda el titular de Recursos Humanos.
+La devolución de cantidades pagadas indebidamente será resuelta por la Comisión, previo informe que al respecto rinda el titular de Servicios al Personal.
 
 ## TITULO SEXTO. Del Recurso de Reconsideración
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 27.
 
-Las resoluciones por las que la Comisión determine negar la prestación médica complementaria o el apoyo económico extraordinario solicitado, así como los términos en que se hubiere otorgado, podrán ser revisadas a petición del interesado ante el Pleno mediante el recurso de reconsideración.
+Las resoluciones por las que la Comisión determine negar la prestación médica solicitada, así como los términos en que se hubiere otorgado, podrán ser revisadas a petición del interesado ante el Pleno mediante el recurso de reconsideración.
 
-El recurso de reconsideración también podrá interponerse en contra de las resoluciones que suspendan o cancelen la prestación médica complementaria o el apoyo económico extraordinario solicitado, así como las relativas a la devolución de cantidades pagadas indebidamente.
+El recurso de reconsideración también podrá interponerse en contra de las resoluciones que suspendan o cancelen la prestación médica solicitada, así como las relativas a la devolución de cantidades pagadas indebidamente.
 
 ###### Artículo 28.
 
@@ -408,3 +508,11 @@ SEGUNDO.- El texto de esta reforma deberá integrarse, una vez publicado en el m
 TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
 
 CUARTO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 14 DE MARZO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 32/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
