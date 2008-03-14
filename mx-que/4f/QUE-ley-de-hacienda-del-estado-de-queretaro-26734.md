@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2008-02-11"
+last_updated: "2008-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -789,29 +789,47 @@ VI.- Poner a disposición de las autoridades competentes, para los efectos del e
 
 Objeto
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 49-E.
 
-Es objeto de este impuesto la venta de bebidas en envase cerrado con contenido alcohólico, alcohol, alcohol desnaturalizado y mieles incristalizables, que se realicen en territorio del Estado.
+Es objeto de este impuesto la venta final de bebidas en envase cerrado con contenido alcohólico, alcohol, alcohol desnaturalizado y mieles incristalizables, que se realicen en el territorio del Estado. Se exceptúan aquellas bebidas alcohólicas cuyo gravamen se encuentra expresamente reservado a la Federación, en términos del artículo 73, fracción XXIX, numeral 5, incisos e) y g) de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 Para los efectos de este impuesto se entiende por:
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 Bebidas con contenido alcohólico, las bebidas alcohólicas y las bebidas refrescantes, de acuerdo con lo siguiente:
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 Bebidas alcohólicas a granel, las que se encuentren envasadas en recipientes cuya capacidad exceda a 5,000 mililitros.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°C, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+
 Mieles incristalizables, el producto residual de la fabricación del azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentados expresados en glucosa no excedan del 61%.
 
-Venta, la enajenación que realice cualquier persona física o moral de los bienes a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
+
+Venta final, la que realice cualquier persona física o moral de los bienes a que se refiere este artículo, al último adquirente en envase cerrado, para su consumo o posterior comercialización en envase abierto.
 
 Sujetos obligados
 
@@ -3730,3 +3748,13 @@ Esta Ley entrará en vigor a partir del día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 14 DE MARZO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará' en vigor el día siguiente de su publicación, en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones fiscales que se opongan a la presente Ley.
