@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-ensenada-baja-18755
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-22"
-last_updated: "2006-03-24"
+last_updated: "2008-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de diciembre de 2000.
 
@@ -98,6 +98,10 @@ ACERA, BANQUETA.- Parte de las vías públicas construidas específicamente para
 ARROYO DE CIRCULACION.- Superficie de rodamiento para el tránsito de vehículos.
 
 ACOTAMIENTO.- Faja comprendida entre la orilla de la superficie de rodamiento y la corona de un camino, que sirve para dar más seguridad al tránsito y para el estacionamiento eventual de vehículos.
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2008)</small>
+
+ALCOHOLIMETRO: Es un instrumento sumamente preciso y esta diseñado específicamente para medir las concentraciones de alcohol en la sangre, a través del aliento expirado, utilizándose boquillas desechables, requiriéndose una expiración continua.
 
 CALLE, VIA URBANA.- Vía pública comprendida dentro de una zona urbana y que forma parte de la cuidad.
 
@@ -1861,7 +1865,7 @@ VI.- Cuando el propietario de un vehículo tenga conocimiento de que éste ha pa
 
 VII.- Para el esclarecimiento de hechos, tratándose de accidentes de tránsito, se utilizarán los procedimientos, métodos y técnicas que establece computadora de evidencia física “GALLION”.
 
-VIII.- Los resultados que se obtengan del proceso las (sic) evidencias en accidentes de tránsito, una vez aplicado el sistema mencionado en el inciso anterior, se anexarán en todos los casos, al parte de novedades que se rinda considerándose éstos como prueba determinante del grado de responsabilidad.
+VIII.- Los resultados que se obtengan del proceso las (sic)evidencias en accidentes de tránsito, una vez aplicado el sistema mencionado en el inciso anterior, se anexarán en todos los casos, al parte de novedades que se rinda considerándose éstos como prueba determinante del grado de responsabilidad.
 
 ###### ARTICULO 201.
 
@@ -2097,6 +2101,20 @@ VIII.- Cuando el conductor tripule peligrosa y temerariamente.
 
 A fin de dar cumplimiento al Artículo anterior los elementos de la Policía y Tránsito quedan facultados para detener a los conductores en los casos de flagrante delito a que se refieren los Incisos I y VII poniéndoles a disposición del Jefe del Departamento de Tránsito para su consignación inmediata ante la autoridad competente, o para que se aplique la sanción administrativa procedente. En los demás casos, se impedirá la circulación del vehículo deteniéndolo y trasladándolo a Depósito Municipal, previa notificación de la boleta de infracción que corresponda.
 
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2008)</small>
+
+ARTICULO 238 BIS.- Todos los conductores de vehículos a quienes se les encuentre cometiendo actos que violen las disposiciones del presente Reglamento y muestren síntomas de que conducen en estado de ebriedad, quedan obligados a someterse a las pruebas para la detección del grado de intoxicación etílica a través del Alcoholímetro.
+
+La Secretaría de Seguridad Pública Municipal, a efecto de prevenir la conducción bajo el influjo del alcohol, podrá llevar a cabo programas de control, instalando diversos puntos de revisión en el Municipio, en los que los agentes seleccionarán aleatoriamente los vehículos en circulación que deberán detener su marcha y cuyo conductor deberá someterse a las pruebas para detección del grado de intoxicación etílica.
+
+En caso de (sic) se detenga a un conductor y presente síntomas de estar bajo el influjo del alcohol, a este se le podrá aplicar el Alcoholímetro o en su caso se turnará con el medico de guardia, para efectuar la certificación correspondiente.
+
+Para la utilización del alcoholímetro, el conductor deberá exhalar en la boquilla desechable, debiendo informársele previamente de la finalidad de los exámenes, se aplicará la prueba y se esperará a obtener la lectura. En caso de que alguna persona conduzca con una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro, el elemento entregara el resultado de la prueba del alcoholímetro al medico de guardia de la Secretaría de Seguridad Pública Municipal, quien emitirá el certificado correspondiente y el dictamen que contenga el tiempo estimado de recuperación, turnando los documentos como al detenido ante el juez Calificador, quien procederá a imponer la sanción al conductor de 12 a 36 horas de arresto según sea el caso.
+
+Si se trata de vehículos destinados al servicio de transporte de pasajeros o de transporte de carga, ambos en sus clasificaciones de público, mercantil y privado, sus conductores no deben presentar ninguna cantidad de alcohol en la sangre o en aire expirado, o síntomas simples de aliento alcohólico.
+
+El comprobante de los resultados de la aplicación del Alcoholímetro, se deberá anexar a la boleta de infracción correspondiente.
+
 ###### ARTICULO 239.
 
 Los Oficiales de Tránsito podrán retirar un vehículo y trasladarlo al Depósito Municipal, cuando:
@@ -2234,3 +2252,7 @@ Primero.- La presente reforma entrará en vigor a los tres días siguientes al d
 Segundo.- El XVIII Ayuntamiento y las dependencias municipales indicadas, en la esfera de su competencia, deberán proveer lo necesario para el cumplimiento y observancia de la presente reforma.
 
 La Secretaría de Seguridad Pública, ampliará la cobertura de los programas de educación vial, cursos de manejo defensivo y registro de infractores, a fin de atender las solicitudes de conmutación de la multa impuesta, en los términos de la presente reforma.
+
+P.O. 14 DE MARZO DE 2008.
+
+UNICO.- La presente reforma entrara en vigor a partir del día siguiente de su publicación en el periódico oficial del Estado de Baja California.
