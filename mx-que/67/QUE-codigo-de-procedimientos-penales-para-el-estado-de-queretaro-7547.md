@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2008-02-29"
+last_updated: "2008-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -870,6 +870,10 @@ XXI.- Corrupción y explotación de menores o incapaces previsto en el artículo
 > <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2002)</small>
 
 XXII.- Delitos contra la seguridad y el orden en el desarrollo urbano, en los casos pervistos (sic) por el artículo 246-F y párrafo primero del artículo 246-G;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2008)</small>
+
+XXIII.- Delitos de peligro contra la salud pública, en los casos previstos por los artículos 221 BIS-A fracciones I, III, V y VI en los casos de servidores públicos y 221 BIS-B.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1999)</small>
 
@@ -2492,3 +2496,15 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 14 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+ARTÍCULO SEGUNDO Se concede un plazo de 30 días naturales, contados a partir de la entrada en vigor de esta Ley, para su aplicación, a fin de que el ganado vivo existente pase por un periodo de desintoxicación, antes de su procesamiento para consumo humano.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
