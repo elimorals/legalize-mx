@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2008-02-29"
+last_updated: "2008-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -175,7 +175,7 @@ Los Directores, Gerentes, Administradores, Mandatarios o socios de una persona m
 
 Si la conducta constitutiva del delito hubiere sido realizada en virtud de un acuerdo votado por los socios, serán considerados como participes los que hubieran emitido su voto favorable. Los que estando presentes se hubieren abstenido u opuesto al acuerdo, se considerarán encubridores si no denuncian los hechos.
 
-Una vez que cause ejecutoria la sentencia, el Ministerio Público demandará la disolución y liquidación de la persona moral ante el Organo Jurisdiccional, en los términos previstos en las Leyes Mercantiles y Civiles.
+Una vez que cause ejecutoria la sentencia, el Ministerio Público demandará la disolución y liquidación de la persona moral ante el Organo Jurisdiccional, en los términos previstos en las Leyes Mercantiles y Civiles. ante el Órgano Jurisdiccional, en los términos previstos en las Leyes Mercantiles y Civiles.
 
 ### CAPITULO VIII. COMUNICABILIDAD DE LAS CIRCUNSTANCIAS
 
@@ -1141,19 +1141,11 @@ VIII.- De tres a siete años de prisión si causan incapacidad para trabajar por
 
 IX.- De 6 a 12 años de prisión si causan incapacidad permanente para trabajar en cualquier arte, profesión u oficio.
 
+ARTICULO 127 BIS.- (DEROGADO, P.O. 14 DE MARZO DE 2008)
+
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 127 BIS.- Se impondrán las penas previstas para el delito de lesiones, según el daño que se provoque:
-
-I.- Al que utilice sustancias prohibidas para la crianza y engorda de animales para el consumo humano, y como resultado cause a otro un daño en la salud; y
-
-II.- Al que comercie, con productos animales para el consumo humano que han sido criados o engordados en los términos de lo establecido en la fracción anterior.
-
-(ADICIONADO, P.O. 6 DE DICIEMBRE DE 20029
-
-###### ARTICULO 127
-
-BIS-1.- Al que sabiendo que padece una enfermedad grave en periodo infectante, sin que la víctima u ofendido tenga conocimiento de esta circunstancia, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible se le impondrán las penas previstas para el delito de lesiones.
+ARTICULO 127 BIS 1.- Al que sabiendo que padece una enfermedad grave en periodo infectante, sin que la víctima u ofendido tenga conocimiento de esta circunstancia, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible se le impondrán las penas previstas para el delito de lesiones.
 
 En el caso de la fracción anterior, se perseguirá de oficio a excepción de cuando se trate de cónyuges, concubinarios o concubinas solo podrá procederse por querella del ofendido.
 
@@ -1455,9 +1447,7 @@ Este delito sólo se perseguirá a petición del ofendido.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2003)</small>
 
-###### ARTICULO 167
-
-BIS.- Al que mediante coacción física o moral, con fines sexuales para sí o para un tercero, asedie a cualquier persona sin su consentimiento, se le impondrá pena de 1 a 3 años de prisión, de 100 a 600 días multa, y desde 100 hasta 850 días multa por concepto de reparación del daño.
+ARTICULO 167 BIS.- Al que mediante coacción física o moral, con fines sexuales para sí o para un tercero, asedie a cualquier persona sin su consentimiento, se le impondrá pena de 1 a 3 años de prisión, de 100 a 600 días multa, y desde 100 hasta 850 días multa por concepto de reparación del daño.
 
 Cuando el sujeto activo sea servidor público, y utilice los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
 
@@ -1877,7 +1867,7 @@ Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no 
 
 ###### ARTICULO 196.
 
-Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
+Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic) intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
 
 Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta fuese momentánea del pasivo, se aumentará hasta en una mitad mas la pena señalada en el párrafo anterior.
 
@@ -1989,6 +1979,8 @@ Si el Juez lo creyere conveniente, además de las penas previstas para cada uno 
 
 #### SECCIÓN TERCERA. DELITOS CONTRA LA SOCIEDAD
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MARZO DE 2008)</small>
+
 ## TITULO ÚNICO. DELITOS CONTRA LA FAMILIA
 
 ### CAPITULO II. ARMAS PROHIBIDAS
@@ -2039,7 +2031,7 @@ A quienes teniendo el ejercicio de la patria potestad, tutela o custodia, cometa
 
 ARTICULO 221 BIS.- Al que realice actividades de almacenaje, venta o porteo de bebidas alcohólicas sin contar con la licencia o permiso correspondiente vigente, expedido por autoridad competente, o bien no corresponda al domicilio del establecimiento o lugar señalado en dicho documento, en los términos de la ley de la materia, se le sancionará con prisión de 2 a 7 años y hasta 600 días de salario mínimo de multa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 214.
 
@@ -2061,13 +2053,35 @@ VII.- Registre o haga registrar un divorcio o nulidad de matrimonio que no hubie
 
 VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
-### CAPITULO VI. PELIGROS CONTRA LA SALUD COLECTIVA DE LA POBLACION
+### CAPITULO VI. PELIGRO CONTRA LA SALUD PUBLICA
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
 
-Artículo 221 Bis A. A quien comercie con productos o sustancias biológicas, químicas o farmacéuticas no aptas para la alimentación de animales de consumo humano, las introduzca al territorio del Estado, las elabore, las almacene, las traslade, las manipule, las distribuya o utilice con fines de ser empleadas para consumo animal, se le impondrá de dos a diez años de prisión y multa de hasta quinientos días multa.
+ARTICULO 221 BIS A.- Se impondrá de tres a diez años de prisión y de cien a quinientos días multa:
 
-Cuando se trate de servidores públicos, que sirviéndose de su cargo o comisión permitan el comercio y demás actos señalados en el párrafo anterior, la sanción se aumentará hasta en una mitad más, imponiéndose además la destitución e inhabilitación para ocupar cargos públicos hasta por 10 años.
+I.- A quien posea, transporte, traslade, almacene, distribuya o comercie Clembuterol o lo suministre a animales de consumo humano, sin contar con el soporte técnico correspondiente para su empleo industrial, nutricional o farmacéutico en animales de consumo humano.
+
+II.- A quien posea, transporte, traslade, almacene, distribuya, comercie o suministre cualquier sustancia biológica, química o farmacéutica, ingrediente y/o aditivo alimenticio, que comprobadamente puedan ser nocivos para la salud pública o representen riesgo zoosanitario, si no cuenta con el soporte técnico correspondiente para su empleo industrial, nutricional o farmacéutico en animales de consumo humano.
+
+III.- A quien realice o permita la cría, engorda, transportación, traslado, comercialización, sacrificio o introducción de animales de consumo humano y que hayan sido alimentados o se les haya suministrado cualquiera de las sustancias especificadas en las fracciones anteriores.
+
+IV. A quien elabore, procese, almacene, distribuya o comercialice los productos o derivados de animales alimentados o a los que se les haya suministrado por cualquier forma, clembuterol o cualquier sustancia biológica, química o farmacéutica, ingrediente y/o aditivo alimenticio, que comprobadamente puedan ser nocivos para la salud pública o representen riesgo zoosanitario, y que no cuente con el soporte técnico correspondiente para su empleo industrial, farmacéutico o en la nutrición de los animales de consumo humano.
+
+V. A los servidores públicos que en ejercicio de su cargo, empleo o comisión, permitan, participen o tengan conocimiento y no denuncien ante el Ministerio Público cualquiera de los actos señalados en las fracciones anteriores. A éstos, se les impondrá además la destitución y en su caso la inhabilitación para ocupar cargos públicos hasta por diez años.
+
+VI. A los administradores, encargados, responsables, médicos veterinarios o inspectores de rastros o establecimientos dedicados al sacrificio y faenado de animales para abasto, que en las inspecciones antemortem o postmortem, conozcan de la existencia o detecten animales que presenten síntomas o existan indicios de contener estos o sus productos, cualquiera de las sustancias señaladas en las fracciones I y II de este artículo, y no lo denuncien ante el Ministerio Público. Si en el caso de esta fracción, el sujeto activo es servidor público, se le impondrá además la destitución y en su caso será motivo de inhabilitación para ocupar cargos públicos hasta por diez años.
+
+Las sustancias a que se refiere este artículo y los animales o sus productos que las contengan, serán asegurados por la autoridad ministerial que conozca del asunto y una vez identificadas, tomadas las muestras de cada uno de ellos y practicados los peritajes necesarios que arrojen resultados positivos de su contenido, se ordenará su inmediata destrucción. Las mismas facultades tendrá la autoridad judicial, a partir del momento de la radicación del procedimiento, cuando no hayan sido ejercidas por el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2008)</small>
+
+ARTICULO 221 BIS B.- Se impondrá de cinco a quince años de prisión y de ciento cincuenta a quinientos días de multa:
+
+I.- A quien, habiendo sido condenado anteriormente por cualquiera de los supuestos delictivos previstos en el artículo anterior, incurra nuevamente en la comisión de alguno de ellos.
+
+II.- A quien elabore o produzca cualquiera de las sustancias referidas en las fracciones I y II del artículo anterior.
+
+III.- Cuando el valor económico de las sustancias, animales o productos de los supuestos del artículo anterior, exceda en su conjunto del importe de tres mil veces el salario mínimo vigente.
 
 ###### ARTICULO 215.
 
@@ -2095,9 +2109,7 @@ A los parientes consanguineos, sean ascendientes, descendientes o hermanos, que 
 
 #### SECCIÓN CUARTA. DELITOS CONTRA EL ESTADO
 
-## TITULO PRIMERO. DELITOS DE PELIGRO CONTRA
-
-LA SEGURIDAD COLECTIVA
+## TITULO PRIMERO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD Y LA SALUD
 
 ### CAPITULO IV. DELITOS CONTRA LA VIA PUBLICA Y SITIOS DE USO COMUN
 
@@ -2615,7 +2627,9 @@ I.- Servicios públicos o centros de producción o distribución de bienes o ser
 
 II.- Instalaciones fundamentales de instituciones de docencia o investigación, o
 
-III.- Recursos o elementos esenciales, destinados al mantenimiento del orden público. Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
+III.- Recursos o elementos esenciales, destinados al mantenimiento del orden público.
+
+Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
@@ -3105,7 +3119,7 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 ###### ARTICULO 308.
 
-Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por 2 años.
+Al defensor de oficio que cometa alguno de los delitos a que se refiere el atículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por 2 años.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
@@ -3630,3 +3644,15 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 14 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+ARTÍCULO SEGUNDO Se concede un plazo de 30 días naturales, contados a partir de la entrada en vigor de esta Ley, para su aplicación, a fin de que el ganado vivo existente pase por un periodo de desintoxicación, antes de su procesamiento para consumo humano.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
