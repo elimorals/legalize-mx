@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-notariado-para-el-estado-de-quintana-roo-59498"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2007-10-29"
+last_updated: "2008-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
 
 Ley publicada en el Número 69 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 29 de octubre de 2007.
 
@@ -341,7 +341,7 @@ Al término de este último período, y dentro de los siguientes diez días háb
 
 El jurado para el examen de oposición estará integrado por un Abogado o Licenciado en Derecho, representante del Ejecutivo del Estado, quien lo presidirá, el Director del Registro Público y un integrante del Consejo de Notarios y desempeñará las funciones de Secretario el que, por mayoría de votos, designen los miembros del jurado.
 
-No podrán formar parte del jurado, el Notario en cuya Notaría haya hecho práctica el sustentante, los parientes consanguíneos o afines de éste dentro del tercer grado en línea recta o colateral, ni los que guarden amistad íntima con el sustentante o por cualquiera otra causa no pudieren actuar con imparcialidad.
+No podrán formar parte del jurado, el Notario en cuya Notaría haya hecho práctica el sustentante, los parientes consanguíneos o a fines de éste dentro del tercer grado en línea recta o colateral, ni los que guarden amistad íntima con el sustentante o por cualquiera otra causa no pudieren actuar con imparcialidad.
 
 Si entre los designados para integrar el sínodo concurriere alguno de los impedimentos señalados, deberá excusarse de intervenir en el examen. El sustentante podrá recusar sin expresión de causa a uno de los sínodos nombrados.
 
@@ -617,17 +617,25 @@ El procedimiento se seguirá sin perjuicio de la responsabilidad del Notario der
 
 #### Sección Segunda. Del Protocolo Ordinario
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 65.
 
-Protocolo ordinario es el libro o conjunto de libros, formados por folios numerados, sellados y autorizados por la Secretaría de Gobierno, a través de la Dirección General de Notarías, en los que el Notario, durante el ejercicio de sus funciones asienta y autoriza con las formalidades de la presente Ley, las escrituras y actas notariales que se otorguen ante su fe, con sus correspondientes apéndices e índices.
+Protocolo ordinario es el libro o conjunto de libros, formados por folios numerados, sellados y autorizados por la Secretaría de Gobierno, en los que el Notario durante el ejercicio de sus funciones asienta y autoriza con las formalidades de la presente Ley, las escrituras y actas notariales que se otorguen ante su fe, con sus correspondientes apéndices e índices.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 66.
 
-Los Notarios deberán solicitar por escrito a la Secretaría de Gobierno, a través de la Dirección General de Notarías, la autorización del número de libros que pasarán a formar parte del protocolo ordinario a su cargo. La Dirección General de Notarías autorizará el número de libros solicitados en cada ocasión, los cuales no podrán exceder de diez en cada ocasión. El juego de libros autorizados en cada ocasión, formará un volumen.
+Los Notarios deberán solicitar por escrito o la Secretaría de Gobierno, la autorización del número de libros que pasarán a formar parte del protocolo ordinario a su cargo. Misma solicitud que deberá realizarse a través de la Dirección General de Notarías, la cual una vez verificado que el protocolo cumple con los requisitos establecidos por esta ley, lo turnará a la Secretaría de Gobierno.
+
+La Secretaria de Gobierno, autorizará el número de libros solicitados en cada ocasión, los cuales no podrán exceder de diez en cada ocasión. El juego de libros autorizados en cada ocasión, formará un volumen.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
 
 ###### Artículo 67.
 
-En la primera página útil de cada libro, la Dirección General de Notarías, pondrá la razón de autorización en la que conste el lugar y la fecha de la misma, el número que corresponda al libro que se haya autorizado a la Notaría, el número de páginas útiles, inclusive la primera y la última, el número de la Notaría, el nombre y apellidos del Notario, la adscripción a la que pertenece y se encuentra situada la Notaría y por último, la leyenda de que ese libro solamente podrá ser utilizado por el Notario, o quien lo substituya en el cargo, su rúbrica y sello.
+En la primera página útil de coda libro, la Secretaría de Gobierno, pondrá la razón de autorización en la que conste el lugar y la fecha de la misma, el número que correspondo al libro que se haya autorizado a la Notaría, el número de páginas útiles, inclusive, la primera y la última, el número de la Notaría, el nombre y apellidos del Notario, la adscripción a la que pertenece y se encuentra situada la Notaría y por último, la leyenda de que ese libro solamente podrá ser utilizado por el Notario, o quien lo substituya en el cargo, su rúbrica y sello.
 
 ###### Artículo 68.
 
@@ -651,9 +659,11 @@ Los libros que integren el protocolo ordinario serán numerados progresivamente,
 
 La numeración de los instrumentos será progresiva, sin interrumpirla de un libro a otro aún cuando no pase o sea cancelado algún instrumento. No habrá entre un instrumento y otro, más espacio que el indispensable para las firmas y autorización. Los espacios que queden en blanco serán cancelados con una línea de tinta que cruce dicho espacio.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 73.
 
-Cuando esté por concluirse el libro o juego de libros del protocolo que estén en uso, el Notario enviará el libro o juego de libros en que deberá de continuar actuando, para que sean autorizados por la Dirección General de Notarías, previo el pago de derechos correspondientes ante la Recaudadora de Rentas de la Secretaría de Hacienda Estatal.
+Cuando esté por concluirse el libro o juego de libros del protocolo que estén en uso, el Notario enviará el libro o juego de libros en que deberá de continuar actuando, para que sean autorizados por la Secretaría de Gobierno, previo el pago de derechos correspondientes ante la Recaudadora de Rentas de la Secretaría de Hacienda Estatal.
 
 ###### Artículo 74.
 
@@ -661,9 +671,11 @@ Cuando el Notario considere que no pueda dar cabida a otro instrumento en el lib
 
 #### Sección Tercera. Del Protocolo Abierto
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 75.
 
-Protocolo abierto es el libro o conjunto de libros que se forman con los folios separados, numerados progresivamente y autorizados por la Secretaría de Gobierno a través de la Dirección General de Notarías, en los que el Notario asienta y autentica, con las formalidades de Ley, las escrituras y actas notariales otorgadas ante su fe, con sus correspondientes apéndices e índices.
+Protocolo abierto es el libro o conjunto de libros que se forman con los folios separados, numerados progresivamente y autorizados por la Secretaria de Gobierno, en los que el Notario asienta y autentica, con las formalidades de ley, las escrituras y actas notariales otorgadas ante su te, con sus correspondientes apéndices e índices.
 
 ###### Artículo 76.
 
@@ -677,9 +689,11 @@ Los instrumentos, folios, libros y apéndices que integren el protocolo, deberá
 
 Los instrumentos otorgados en los folios se asentarán en orden progresivo.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 78.
 
-Los Notarios a su costa obtendrán los folios que pasarán a formar parte del protocolo abierto a su cargo y deberán solicitar por escrito a la Secretaría de Gobierno por conducto de la Dirección General de Notarías, la autorización de los folios necesarios para asentar los instrumentos que se otorguen ante su fe. La Dirección General de Notarías, autorizará hasta el número de folios que integren cinco tomos, en cada ocasión.
+Los Notarios a su costa obtendrán los folios que pasarán a formar parte del protocolo abierto a su cargo y deberán solicitar por escrito a la Secretaría de Gobierno, la autorización de los folios necesarios para asentar los instrumentos que se otorguen ante su fe. La Secretaría de Gobierno, autorizará hasta el número de folios que integren cinco tomos, en cada ocasión. Misma solicitud que deberá realizarse a través de la Dirección General de Notarías, la cual una vez verificado que el folio cumple con los requisitos establecidos por esta ley, le turnará a la Secretaría de Gobierno.
 
 ###### Artículo 79.
 
@@ -687,15 +701,21 @@ Los folios en que se asienten los instrumentos serán uniformes y de color verde
 
 Las escrituras y actas notariales estarán numeradas progresiva y cronológicamente, sin que la numeración se interrumpa por los cambios de Notario o cuando no pase alguna de ellas.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 80.
 
-Al entregar los folios autorizados para el uso de un Notario, la Dirección General de Notarías pondrá en una hoja en blanco una razón que contenga lugar y la fecha de autorización, el número de folios entregados y el volumen al que correspondan, el número de la Notaría, nombre y apellidos del Notario, la adscripción a la que pertenece y el lugar de su residencia, así como la expresión de que esos folios solamente deben ser utilizados por el Notario para quien se autorizan, por su Asociado o Auxiliar o por quien legalmente lo sustituya en sus funciones.
+Al entregar los folios autorizados para el uso de un Notario, la Secretaría de Gobierno pondrá en una hoja en blanco una razón que contenga lugar y la fecha de autorización, el número de folios entregados y el volumen al que correspondan, el número de la Notaría, nombre y apellidos del Notario, la adscripción a la que pertenece y el lugar de su residencia, así como la expresión de que esos folios solamente deben ser utilizados por el Notario para quien se autorizan, por su Asociado o Auxiliar o por quien legalmente lo sustituya en sus funciones.
 
 La hoja en que conste esta razón deberá encuadernarse al principio del primer tomo autorizado con el que se inicia el volumen que corresponda.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 81.
 
-Al iniciar la formación de un libro, el Notario hará constar en una hoja sin numerar, una razón con la fecha en que se inicia, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en su Notaría y la mención de que el libro se formará con los instrumentos autorizados por el Notario o por quien legalmente lo sustituya, así como con aquellas que tengan el sello “no pasó”, poniendo su firma y sello de autorizar. La hoja en la que se asiente la razón citada se encuadernará antes de la primera hoja foliada del libro con el que se inicia el volumen que corresponda y después de la autorización de la Dirección General de Notarías.
+Al iniciar la formación de un libro, el Notario hará constar en una hoja sin numerar, una razón con la fecha en que se inicia, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en su Notaría y la mención de que el libro se formará con los instrumentos autorizados por el Notario o por quien legalmente lo sustituya, así como con aquellas que tengan el sello “no pasó”, poniendo su firma y sello de autorizar.
+
+La hoja en la que se asiente la razón citada se encuadernará antes de la primera hoja foliada del libro con el que se inicia el volumen que corresponda y después de la autorización de la Secretaría de Gobierno.
 
 ###### Artículo 82.
 
@@ -1451,7 +1471,9 @@ V.- Con la información y archivos electrónicos y microfilmados o de cualquier 
 
 Son obligaciones y atribuciones del Director General de Notarías, las siguientes:
 
-I.- Autorizar los libros y folios del protocolo;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2008)</small>
+
+l.- Revisar que los protocolos y folios que les sean presentados por los Notarios Públicos cumplan con todos los requisitos que menciona esta Ley, y remitirlos a la Secretaria de Gobierno para su autorización;
 
 II.- Comunicar por escrito al Titular del Poder Ejecutivo las faltas de cualquier género en que incurran los Notarios en el ejercicio de sus funciones;
 
@@ -1571,9 +1593,11 @@ VIII.- Las demás que sean propias y naturales del cargo o que las leyes le impo
 
 ### CAPÍTULO PRIMERO. Del Consejo de Notarios
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
+
 ###### Artículo 188.
 
-En el Estado de Quintana Roo habrá un Consejo de Notarios, que agrupará a todos los notarios que ejerzan sus funciones en la entidad, incluyendo a aquéllos que actúen con el carácter de auxiliares o suplentes, y regulará su organización y funcionamiento conforme a esta Ley, al Reglamento del Consejo de Notarios y a sus propios estatutos.
+En el Estado de Quintana Roo habrá un Consejo de Notarios, que se integra por todos los notarios Titulares y Suplentes de la Entidad y regulará su organización y funcionamiento conforme a esta Ley, al Reglamento del Consejo de Notarios y a sus propios estatutos.
 
 ###### Artículo 189.
 
@@ -1818,3 +1842,11 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTIZ YELADAQUI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE MARZO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
