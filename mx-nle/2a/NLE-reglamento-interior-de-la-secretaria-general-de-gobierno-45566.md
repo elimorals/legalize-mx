@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-general-de-gobierno-45566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-01"
-last_updated: "2007-11-05"
+last_updated: "2008-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2005.
 
@@ -103,11 +103,13 @@ d) Coordinación General de Comunicación Social y Relaciones Institucionales, i
 
 2. Dirección de Comunicación Social;
 
-3. Dirección de Prensa;
+3. (DEROGADO, P.O. 14 DE MARZO DE 2008)
 
-4. Dirección de Televisión Estatal; y
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2008)</small>
 
-5. Dirección de Radio Nuevo León.
+4. Dirección de Televisión Estatal y Radio Nuevo León;
+
+5. (DEROGADO, P.O. 14 DE MARZO DE 2008)
 
 II. Subsecretaría General de Gobierno, integrada por:
 
@@ -617,27 +619,11 @@ VIII. Coordinar las relaciones de las áreas de comunicación del Titular del Po
 
 IX. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+Artículo 23 BIS 3. (DEROGADO, P.O. 14 DE MARZO DE 2008)
 
-Artículo 23 BIS 3. Son facultades del Director de Prensa:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2008)</small>
 
-I. Planear y coordinar acciones para dar cobertura e informar de manera oportuna a la sociedad de los planes, programas y acciones del Titular del Poder Ejecutivo;
-
-II. Coordinar y mantener una relación permanente con los medios de información locales y nacionales;
-
-III. Coordinar con el área de agenda la presencia del Titular del Poder Ejecutivo en los medios de comunicación locales, nacionales, corresponsales y enviados;
-
-IV. Atender los asuntos y representación del área de prensa en el ámbito local, nacional e internacional, cuando corresponda;
-
-V. Coordinar y supervisar las actividades operativas con los medios de comunicación;
-
-VI. Llevar la memoria gráfica e histórica de las actividades del Titular del Poder Ejecutivo; y
-
-VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
-
-Artículo 23 BIS 4. Son facultades del Director de Televisión Estatal:
+Artículo 23 BIS 4. Son facultades del Director de Televisión Estatal y Radio Nuevo León:
 
 I. Dirigir y ejecutar la planeación, producción o transmisión de los programas de televisión;
 
@@ -649,27 +635,39 @@ IV. Facilitar el acceso a la comunidad a servicios que promueven su desarrollo i
 
 V. Elaborar y difundir programas televisivos que permitan coordinar esfuerzos de la sociedad y del gobierno;
 
-VI. Crear y operar mecanismos para que la sociedad se involucre en el mejoramiento permanente de la Televisión Estatal y se logre una real identificación y sentido de permanencia; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2008)</small>
 
-VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+VI. Crear y operar mecanismos para que la sociedad se involucre en el mejoramiento permanente de la Televisión Estatal y se logre una real identificación y sentido de permanencia;
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2008)</small>
 
-Artículo 23 BIS 5. Son facultades del Director de Radio Nuevo León:
+VII. Dirigir la operación de las estaciones de radio permisionadas al Gobierno del Estado, en los términos de las disposiciones aplicables;
 
-I. Dirigir la operación de las estaciones de radio permisionadas al Gobierno del Estado, en los términos de las disposiciones aplicables;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2008)</small>
 
-II. Formular y proponer las políticas generales de información, producción, operación y programación de Radio Nueva León;
+VIII. Formular y proponer las políticas generales de información, producción, operación y programación de Radio Nuevo León;
 
-III. Coordinar y llevar a cabo acciones de planeación, producción y transmisión de programas de radio que tengan como fin propiciar la comunicación entre individuos, grupos e instituciones, promover el diálogo social, recoger y difundir la opinión ciudadana, coadyuvar a difundir los derechos y obligaciones del ciudadano y en general, informar a la población sobre los hechos que sucedan local, nacional e internacionalmente;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2008)</small>
 
-IV. Difundir, divulgar y promover el conocimiento, la apreciación y el disfrute de expresiones artísticas, intelectuales y populares, los avances científicos y tecnológicos, así como orientar sobre prácticas sanitarias y preservación ecológica, fomentar el deporte y en general la formación integral del educando;
+IX. Coordinar y llevar a cabo acciones de planeación, producción y transmisión de programas de radio que tengan como fin propiciar la comunicación entre individuos, grupos e instituciones, promover el diálogo social, recoger y difundir la opinión ciudadana, coadyuvar a difundir los derechos y obligaciones del ciudadano y en general, informar a la población sobre los hechos que sucedan local, nacional e internacionalmente;
 
-V. Supervisar la transmisión, en los términos de la legislación aplicable, de los programas de los partidos políticos;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2008)</small>
 
-VI. Proponer a sus superiores jerárquicos la celebración de los convenios que se requieran para la operación de Radio Nuevo León y para la consecución de sus objetivos y programas; y
+X. Difundir, divulgar y promover el conocimiento, la apreciación y el disfrute de expresiones artísticas, intelectuales y populares, los avances científicos y tecnológicos, así como orientar sobre prácticas sanitarias y preservación ecológica, fomentar el deporte y en general la formación integral del educando;
 
-VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2008)</small>
+
+XI. Supervisar la transmisión, en los términos de la legislación aplicable, de los programas de los partidos políticos;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2008)</small>
+
+XII. Proponer a sus superiores jerárquicos la celebración de los convenios que se requieran para la operación de Radio Nuevo León y para la consecución de sus objetivos y programas; y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2008)</small>
+
+XIII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+Artículo 23 BIS 5. (DEROGADO, P.O. 14 DE MARZO DE 2008)
 
 ### Capítulo VII. De las atribuciones de los demás titulares de las Unidades Administrativas y sus Direcciones
 
@@ -1198,6 +1196,12 @@ LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO INTERIOR DE LA SECRETARÍA 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 5 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- Se instruye a la Secretaría de Finanzas y Tesorería General del Estado, y a la Oficialía Mayor de Gobierno para implementar las medidas de carácter financiero y administrativo necesarias para la debida ejecución del presente instrumento.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2008.
 
 PRIMERO.- Se instruye a la Secretaría de Finanzas y Tesorería General del Estado, y a la Oficialía Mayor de Gobierno para implementar las medidas de carácter financiero y administrativo necesarias para la debida ejecución del presente instrumento.
 
