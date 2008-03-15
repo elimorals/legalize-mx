@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-520
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-16"
-last_updated: "2007-10-06"
+last_updated: "2008-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO DECIMO PRIMERO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 15 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 16 de septiembre de 2006.
 
@@ -760,3 +762,29 @@ LIC. HELIODORO CARLOS DÍAZ ESCARRAGA.
 P.O. 6 DE OCTUBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el mismo día de su aprobación. Comuníquese al Ciudadano Gobernador Constitucional del Estado, para su conocimiento y fines legales. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MARZO DE 2008.
+
+PRIMERO. La presente Ley entrará en vigor el día 21 de julio de 2008, previa publicación en el Periódico Oficial del Gobierno del Estado, con las modalidades que establecen los artículos siguientes.
+
+SEGUNDO. La publicación de la información a que se refiere el artículo 9 deberá completarse, a más tardar, un año después de la entrada en vigor de la Ley.
+
+TERCERO. Los titulares de los sujetos obligados, deberán designar la Unidad de Enlace a más tardar 30 días después de publicada la Ley y los Comités de Información referidos en esta Ley, deberán conformarse a más tardar, 60 días después y en el mismo plazo deberán iniciar funciones. La conformación de las estructuras a que se refiere esta disposición deberá hacerse con los recursos humanos, materiales y presupuestarios asignados, por lo que no deberán implicar erogaciones adicionales.
+
+CUARTO. La elección de los Comisionados se realizará a más tardar a la entrada en vigor de esta Ley.
+
+QUINTO. El Instituto expedirá su Reglamento Interior dentro de los treinta días naturales después de elegidos los Comisionados, debiéndose publicar en el Periódico Oficial del Gobierno del Estado. En dicho Reglamento se regularán los plazos, términos y procedimientos concernientes al Recurso de Revisión.
+
+En lo no previsto se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado Libre y Soberano de Oaxaca.
+
+SEXTO. Los sujetos obligados deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información y de los procedimientos de revisión a los que se refiere esta Ley, a más tardar en un año a partir de la entrada en vigor de la misma. El plazo establecido sólo obliga a los Municipios con población superior a setenta mil habitantes.
+
+SÉPTIMO. Los sujetos obligados deberán completar la organización y funcionamiento de sus archivos administrativos en el plazo de un año a partir de la entrada en vigor de la presente Ley.
+
+OCTAVO. Se faculta al Ejecutivo del Estado para realizar las adecuaciones presupuestales que procedan a efecto de que el Instituto pueda iniciar sus funciones en el plazo establecido en esta Ley.
+
+NOVENO. Los Municipios con población menor a setenta mil habitantes, tendrán el carácter de sujetos obligados en la medida que cuenten con los recursos materiales y presupuestarios suficientes para el cumplimiento de la presente Ley, correspondiendo al Instituto dictar los lineamientos generales para la incorporación de los Municipios al régimen prescrito por este ordenamiento.
+
+DÉCIMO. El Congreso del Estado procederá a realizar las adecuaciones a las leyes, decretos y demás ordenamientos vigentes que se relacionen con la aplicación de esta Ley.
+
+DÉCIMO PRIMERO. Se abroga la LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA, publicada en el Periódico Oficial del Gobierno del Estado de fecha 16 de septiembre de 2006.
