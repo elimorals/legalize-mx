@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-290
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2006-12-31"
+last_updated: "2008-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE JESUS MARIA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2008.
 
 Ley publicada en la Sección Octava del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -251,7 +251,9 @@ IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte
 
 Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuado después de la declaratoria de herederos o legatarios;
 
-X.- Enajenación a través de fideicomiso; y
+> <small>(REFORMADA. P.O. 17 DE MARZO DE 2008)</small>
+
+X.- Enajenación a través de fideicomiso y arrendamiento financiero; y
 
 XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al propietario o cónyuge.
 
@@ -441,7 +443,11 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 No se pagará el impuesto establecido en esta Ley:
 
-I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
+> <small>(REFORMADA. P.O. 17 DE MARZO DE 2008)</small>
+
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte de los bienes destinados al servicio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1995)</small>
 
 II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
 
@@ -1046,3 +1052,9 @@ P.O. 31 DE DICIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El Presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MARZO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
