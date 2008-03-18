@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2007-12-17"
+last_updated: "2008-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1127,7 +1127,11 @@ La elección del Gobernador será universal, libre, secreta, directa, uninominal
 
 Para ser Gobernador del Estado se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento y nativo de la entidad, o con residencia efectiva no menor de diez años inmediatamente anteriores al día de la elección.
+(NOTA: EL 12 DE ENERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 74/2008 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 13 DE ENERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/). [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "...I.- Ser ciudadano mexicano por nacimiento y nativo de la entidad, o con residencia efectiva no menor de diez años inmediatamente anteriores al día de la elección."]
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
+
+l.- SER CIUDADANO MEXICANO POR NACIMIENTO, NATIVO DE LA ENTIDAD O HIJO DE PADRE O MADRE NACIDO EN LA ENTIDAD, Y CON RESIDENCIA EFECTIVA Y VECINDAD EN EL ESTADO DE CUANDO MENOS DIEZ AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LA ELECCIÓN. A FALTA DE LOS REQUISITOS ANTES SEÑALADOS, SER CIUDADANO MEXICANO POR NACIMIENTO Y CON RESIDENCIA EFECTIVA Y VECINDAD EN EL ESTADO NO MENOR DE VEINTE AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LA ELECCIÓN.
 
 II.- Tener 25 años cumplidos al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
 
@@ -1373,7 +1377,9 @@ Corresponde a los Tribunales y Juzgados del Estado conocer en los términos de l
 
 La administración, vigilancia, disciplina y carrera judicial del Poder Judicial, estarán a cargo del Consejo de la Judicatura del Estado, en los términos que conforme a las bases que señale esta constitución, establezca la ley.
 
-El Tribunal Superior de Justicia del Estado, tendrá la obligación de proporcionar a los particulares, los medios alternativos de solución a sus controversias jurídicas, tales como la conciliación o el arbitraje, de acuerdo a procedimientos de mediación. La ley establecerá las facultades e integración de la institución que brindará estos servicios a los particulares, así como los procedimientos y eficacia de sus acuerdos y resoluciones. Esta institución brindará, además, servicios de defensoría pública y de asistencia jurídica a los sectores sociales desprotegidos.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
+
+El Poder Judicial del Estado, tendrá la obligación de proporcionar a los particulares, los medios alternativos de solución a sus controversias jurídicas, tales como la conciliación o el arbitraje, de acuerdo a procedimientos de mediación, así como los procedimientos y eficacia de sus acuerdos y resoluciones. Además tendrá la obligación de proporcionar los servicios de defensoría pública y de asistencia jurídica a los sectores sociales desprotegidos. Para tal efecto las leyes respectivas establecerán las facultades e integración de las instituciones que de acuerdo a su competencia brindarán estos servicios.
 
 El Sistema de Justicia Indígena se regirá en los términos establecidos por esta Constitución y la Ley reglamentaria respectiva.
 
@@ -2694,3 +2700,15 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 17 DE DICIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 18 DE MARZO DE 2008.
+
+DECRETO NUM. 292, POR EL QUE SE REFORMA EL PARRAFO CUARTO DEL ARTICULO 97 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 18 DE MARZO DE 2008.
+
+DECRETO NUM. 293, POR EL QUE SE REFORMA LA FRACCION I DEL ARTICULO 80 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roa.
