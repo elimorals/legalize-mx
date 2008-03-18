@@ -4,7 +4,7 @@ identifier: "SON-ley-reglamentaria-para-el-ejercicio-de-las-profesiones-en-9676"
 country: "mx"
 rank: "ley"
 publication_date: "1952-12-03"
-last_updated: "2002-11-25"
+last_updated: "2008-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY REGLAMENTARIA PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 18 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el miércoles 3 de diciembre de 1952.
 
@@ -512,3 +514,33 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo deberá adecuar, dentro del término de noventa días siguientes a la entrada en vigor del presente Decreto los Reglamentos respectivos.
+
+B.O. 18 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley, con excepción de las disposiciones previstas en el artículo 35, entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones previstas en el artículo 35 de esta ley, entrarán en vigor a los cinco años de la publicación de la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Reglamentaria para el Ejercicio de las Profesiones en el Estado de Sonata, publicada el 3 de diciembre de 1952, en el Boletín Oficial del Gobierno del Estado alcance al número 45.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado, deberá emitir el reglamento de la presente ley, dentro de los seis meses siguientes a la entrada en vigor de la misma.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expide el reglamento de esta ley, la Secretaría determinará, a través de los lineamientos correspondientes, los requisitos para el registro de los documentos y personas físicas o morales a que se refiere el presente ordenamiento.
+
+###### ARTÍCULO SEXTO.
+
+Los colegios de profesionistas con registro a la entrada en vigor de la presente ley, continuarán registrados aún cuando en su conjunto excedan del número máximo de colegios permitidos por el artículo 24 del presente ordenamiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todo trámite o procedimiento en cualquiera de las materias reguladas por esta ley, que se encuentre pendiente de resolución a la fecha de entrada en vigor de la misma, continuará desahogándose conforme a la normatividad que estaba vigente al momento de inicio del trámite o procedimiento correspondiente.
