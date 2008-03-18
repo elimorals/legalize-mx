@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4062
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2004-05-31"
+last_updated: "2008-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2008.
 
 Ley publicada en el número extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de mayo de 2004.
 
@@ -49,9 +49,11 @@ La presente Ley es de orden público y tiene por objeto garantizar el acceso de 
 
 Toda la información a que se refiere esta Ley, es pública, y los particulares tendrán acceso a la misma conforme a lo establecido por esta.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 3.
 
-Para ejercer el derecho de acceso a la información pública, no es necesario acreditar interés jurídico, ni fundar o motivar la solicitud; y su ejercicio no tendrá más límite que el dispuesto en la presente Ley.
+Para ejercer el derecho de acceso a la información pública, no es necesario acreditar interés jurídico, ni fundar o motivar la solicitud; y su ejercicio no tendrá más límites que los dispuestos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado y en la presente Ley.
 
 ###### Artículo 4.
 
@@ -69,7 +71,7 @@ I. LEY: La Ley de Transparencia y Acceso a la Información Pública del Estado d
 
 II. PERSONA: Las personas físicas o morales constituidas de acuerdo a las leyes.
 
-III. CIUDADANO: La persona física que posea la ciudadanía quintanarroense.
+III. (DEROGADA, P.O. 18 DE MARZO DE 2008)
 
 IV. INFORMACIÓN PÚBLICA: La contenida en los documentos y/o instrumentos, que generen, recopilen, mantengan, procesen, administren o resguarden los Sujetos Obligados.
 
@@ -81,7 +83,9 @@ Independientemente de que el encargo lo detente por elección popular, asignaci�
 
 VII. INSTITUTO: El Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo.
 
-VIII. DERECHO A LA INFORMACIÓN: La facultad de los ciudadanos quintanarroenses y personas morales que tengan su domicilio fiscal en la entidad, de allegarse y tomar conocimiento de la información que generen, administren o resguarden los Sujetos Obligados.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
+
+VIII. DERECHO A LA INFORMACIÓN: El derecho de toda persona para acceder a la información que generen, administren o resguarden los Sujetos Obligados.
 
 IX. INFORMACIÓN RESERVADA: La información pública que se encuentra temporalmente sujeta a alguna de las excepciones previstas en esta Ley.
 
@@ -91,7 +95,9 @@ XI. UNIDADES DE VINCULACIÓN: Los órganos de cada uno de los Sujetos Obligados 
 
 XII. INTERÉS PÚBLICO: Es la valoración atribuida a los fines que persigue la consulta y análisis de la información pública, a efectos de contribuir a la informada toma de decisiones de las personas en el marco de una sociedad democrática.
 
-XIII. ÓRGANOS AUTÓNOMOS: El Instituto Electoral de Quintana Roo, el Tribunal Electoral de Quintana Roo, la Comisión de Derechos Humanos del Estado de Quintana Roo, el Órgano Superior de Fiscalización, y cualquier otro al cual se le otorgue dicha naturaleza.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
+
+XIII. ÓRGANOS AUTÓNOMOS: Cualquier órgano u organismo al que la Constitución del Estado o las leyes respectivas les otorguen dicha naturaleza.
 
 XIV. DATOS PERSONALES: La información concerniente a una persona física identificada o identificable; entre otra, la relativa a su origen racial o étnico, o que esté referida a sus características físicas, morales o emocionales, a su vida afectiva o familiar, domicilio, número telefónico, patrimonio, ideología, creencias o convicciones religiosas o filosóficas, su estado de salud físico o mental, sus preferencias sexuales, claves informáticas o cibernéticas, códigos personales encriptados u otras análogas que afecten su intimidad.
 
@@ -117,9 +123,11 @@ VIII. Mejorar la organización, clasificación y manejo de los documentos; y
 
 IX. Contribuir a la democratización de la sociedad quintanarroense y la plena vigencia del estado de derecho.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 7.
 
-Los Sujetos Obligados designarán de entre sus servidores públicos al Titular de la Unidad de Vinculación, la cual será responsable de la atención de las solicitudes de información que formulen las personas.
+Los Sujetos Obligados designarán de entre sus servidores públicos al Titular de la Unidad de Vinculación, la cual será responsable de la atención de las solicitudes de información que se formulen en términos de esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE TRANSPARENCIA
 
@@ -137,9 +145,19 @@ La pérdida, destrucción, alteración u ocultamiento de la información públic
 
 A efecto de salvaguardar los archivos, registros y, en general, toda la información originalmente plasmada en papel y que obra en posesión de los Sujetos Obligados, ésta deberá ser digitalizada.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
+
+Lo previsto en este artículo también es aplicable a la información que genere el Instituto de Transparencia y Acceso a la Información Pública del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 9.
 
-El Poder Judicial y los Tribunales Administrativos de oficio o a petición de particulares, deberán hacer públicos los laudos o sentencias que hayan causado estado o ejecutoria y que juzguen de interés general. En los casos que estimen conveniente podrán suprimir los datos personales de las partes.
+El Poder Judicial y los Tribunales Administrativos de oficio o a petición de particulares, deberán hacer públicos los laudos o sentencias que hayan causado estado o ejecutoria y que juzguen de interés general.
+
+En todo caso, solo mediante conformidad de las partes o de sus sucesores, se procederá a la publicación de los datos personales.
+
+En los acuerdos que inicien todo procedimiento, para los efectos de esta ley, se notificará a las partes si autorizan publicar sus datos personales. La omisión de cualquiera de las partes se entenderá como negativa para ser difundidos sus respectivos datos personales.
 
 ###### Artículo 10.
 
@@ -165,17 +183,21 @@ Toda persona podrá solicitar al Instituto Electoral de Quintana Roo, informaci�
 
 Los Sujetos Obligados deberán hacer pública toda aquella información relativa a los montos y las personas a quienes entreguen, por cualquier motivo, recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 14.
 
-Antes de que termine el primer bimestre de cada año, todos los Sujetos Obligados deberán presentar al Instituto, un informe correspondiente al año anterior.
+Antes de que termine el primer bimestre de cada año, todos los Sujetos Obligados deberán presentar al Instituto un informe correspondiente al año anterior, el cual deberán difundir en el mismo plazo en su sitio de Internet.
 
 Dicho informe deberá incluir: el número de solicitudes de información presentadas a dicha entidad y la información objeto de las mismas; la cantidad de solicitudes procesadas y respondidas, así como el número de solicitudes pendientes; las prórrogas por circunstancias excepcionales; el tiempo de procesamiento y la cantidad de servidores públicos involucrados en la tarea; la cantidad de resoluciones tomadas por dicha entidad, denegando las solicitudes de información presentadas al mismo y los fundamentos de cada una de dichas resoluciones.
 
 ### CAPÍTULO TERCERO. DE LAS OBLIGACIONES DE INFORMACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 15.
 
-Los Sujetos Obligados, a través de internet, pondrán a disposición del público y actualizarán la información pública siguiente:
+Los Sujetos Obligados deberán publicar a través de internet, en forma permanente y actualizada, con acceso al público y mediante procesos informáticos sencillos y de fácil comprensión, la información básica siguiente:
 
 I. Las leyes, reglamentos, decretos administrativos, circulares, manuales de organización y demás normas que les resulten aplicables;
 
@@ -183,7 +205,9 @@ II. Su estructura orgánica y las atribuciones por Unidad de Vinculación y la n
 
 III. El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía, incluyendo su domicilio postal, dirección electrónica y teléfonos;
 
-IV. La remuneración mensual por puesto, incluyendo el sistema de compensación; el sistema de premios, estímulos y recompensas; los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
+
+IV. La remuneración mensual por puesto, exhibiendo el tabulador de dietas, sueldos y salarios, incluyendo el sistema de compensación; el sistema de premios, estímulos y recompensas; los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
 
 V. El domicilio, número telefónico y la dirección electrónica de la Unidad de Vinculación donde podrán recibirse las solicitudes para obtener la información pública;
 
@@ -209,13 +233,23 @@ XV. Los contratos de obra pública, su monto, fecha de convocatoria y licitació
 
 XVI. Los informes o equivalentes que por disposición legal generen los Sujetos Obligados, incluyendo los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
 
-XVII. Las iniciativas de ley que se presenten en el Congreso del Estado, así como los acuerdos y decretos legislativos aprobados;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
+
+XVII. Las iniciativas de ley que se presenten en la Legislatura del Estado, sus avances en el proceso legislativo, así como los acuerdos y decretos legislativos aprobados;
 
 XVIII. Los balances generales y el estado financiero, respetando la autonomía de los Sujetos Obligados;
 
-XIX. El origen y monto de los ingresos mensuales de los fondos auxiliares especiales que tuviesen o llegasen a tener los Sujetos Obligados, así como la aplicación de los mismos; y
+XIX. El origen y monto de los ingresos mensuales de los fondos auxiliares especiales que tuviesen o llegasen a tener los Sujetos Obligados, así como la aplicación de los mismos; y (sic)
 
-XX. La relación de solicitudes de acceso a la información pública y las respuestas que se les den.
+XX. La relación de solicitudes de acceso a la información pública y las respuestas que se les den;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2008)</small>
+
+XXI. Los acuerdos que clasifiquen la información como reservada o confidencial; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2008)</small>
+
+XXII. Toda otra información que sea de utilidad para el ejercicio del derecho de acceso a la información pública.
 
 ###### Artículo 16.
 
@@ -240,6 +274,20 @@ III. El plazo de ejecución;
 IV. La identificación del órgano público ordenador o responsable de la obra; y
 
 V. Mecanismos de vigilancia y/o supervisión de la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
+
+###### Artículo 17 Bis.
+
+Los resultados de las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, concesiones y prestaciones de servicios deberán contener:
+
+l.- La identificación precisa del contrato;
+
+II.- El monto;
+
+III.- El nombre del proveedor, contratista o persona física o moral con quien o quienes se hayan celebrado el contrato; y
+
+IV.- El plazo para su cumplimiento.
 
 ### CAPÍTULO CUARTO. DE LA PROMOCIÓN CULTURAL DE APERTURA
 
@@ -313,9 +361,11 @@ XXI. Cuando se trate de información de particulares recibida por la administrac
 
 Los Titulares de los Sujetos Obligados, conjuntamente con los Titulares de las Unidades de Vinculación, serán responsables de clasificar la información de conformidad con los criterios establecidos en esta Ley, los lineamientos expedidos por el Instituto y los ordenamientos reglamentarios u análogos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 24.
 
-Los Sujetos Obligados por conducto de la Unidad de Vinculación elaborarán semestralmente y por rubros temáticos, un de la información o de los expedientes clasificados como reservados. El contendrá la referencia de la Unidad de Vinculación que generó o posea la información pública, la fecha de su clasificación y el plazo de reserva. En ningún caso el será considerado como información reservada.
+Los Sujetos Obligados por conducto de la Unidad de Vinculación elaborarán semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados, los cuales se actualizaran permanentemente y deberán incluirse en su sitio informático para accederse a través de Internet. El índice contendrá la referencia de la Unidad de Vinculación que generó o posea la información pública, la fecha de su clasificación y el plazo de reserva. En ningún caso el índice será considerado como información reservada.
 
 El Titular de cada dependencia o entidad pública, deberá adoptar las medidas necesarias para asegurar la custodia y conservación de los expedientes clasificados. En todo momento, el Instituto tendrá acceso a la información reservada o confidencial para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso.
 
@@ -333,9 +383,11 @@ III. El daño que puede producirse con la liberación de la información es mayo
 
 El acuerdo que clasifique la información como reservada o confidencial, deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 26.
 
-La clasificación de la información como reservada, deberá indicar: la fuente de la información, la justificación por la cual se clasifica, las partes de los documentos que se reservan, el plazo de reserva y la designación de la autoridad responsable de su conservación.
+La clasificación de la información como reservada, deberá indicar: la fuente de la información, la justificación por la cual se clasifica, las partes de los documentos que se reservan, el plazo de reserva y la designación de la autoridad responsable de su conservación. Vencido el plazo de reserva, se tendrá acceso a la misma y su desclasificación se publicará en los índices que señala el Artículo 24.
 
 Las partes de un documento que no estén expresamente reservadas se considerarán de libre acceso público.
 
@@ -483,6 +535,24 @@ Las resoluciones del Instituto se tomarán por mayoría de votos y para sesionar
 
 La representación legal del Instituto la tendrá el Consejero Presidente.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
+
+###### Artículo 39 Bis.
+
+La Junta de Gobierno atenderá y resolverá los asuntos de su competencia en sesiones que serán públicas o privadas, conforme al reglamento que al efecto se expida.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
+
+###### Artículo 39 Ter.
+
+Para dar a conocer a toda persona el lugar y la fecha de las sesiones públicas de la Junta de Gobierno del Instituto, así como para substanciar dichas sesiones con el orden debido, se observará lo siguiente:
+
+l. Deberá publicarse en los estrados del Instituto, por lo menos con cuarenta y ocho horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, así como en el sitio de Internet del Instituto.
+
+II. En las sesiones públicas sólo podrán participar y hacer uso de la palabra los integrantes de la Junta de Gobierno, y cuando proceda, el secretario ejecutivo, quien levantará el acta circunstanciada correspondiente.
+
+III. El Instituto deberá contar con un salón dentro de sus instalaciones lo suficientemente amplio para el desahogo de sus sesiones, que permita la permanecía de toda persona el tiempo que duren las sesiones.
+
 ###### Artículo 40.
 
 La organización y funcionamiento del Instituto se establecerá en el Reglamento Interior del mismo, el cual deberá prever la estructura administrativa necesaria para el ejercicio de sus atribuciones.
@@ -537,9 +607,17 @@ XIX. Designar a los servidores públicos a su cargo;
 
 XX. Acordar la ampliación de los períodos de reserva de la información que tenga tal carácter, en los términos de esta Ley;
 
-XXI. Expedir su reglamento interior y demás normas internas de funcionamiento; y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
 
-XXII. Las demás que le confiera esta Ley.
+XXI. Expedir su reglamento interior y demás normas internas de funcionamiento;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
+
+XXII. Realizar reuniones y foros anuales de carácter público, para discutir la aplicación y alcances de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2008)</small>
+
+XXIII. Las demás que le confiera esta Ley.
 
 ###### Artículo 42.
 
@@ -601,6 +679,18 @@ Los Consejeros sólo podrán ser removidos de sus funciones cuando transgredan e
 
 La retribución que reciban el Consejero Presidente y los Consejeros Vocales, será la equivalente a la de un Magistrado Numerario del Tribunal Superior de Justicia del Estado.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
+
+La Junta de Gobierno del Instituto para acordar remuneración alguna para sus miembros y su personal, incluyendo lo relativo a sobresueldos, compensaciones, prestaciones y estímulos por cumplimiento de metas, recompensas, incentivos o conceptos análogos a éstos, requerirá la aprobación de la Legislatura del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
+
+El Instituto presentará a la Legislatura del Estado para su aprobación a más tardar en el mes de noviembre del mismo año, la propuesta de remuneración de sus servidores públicos, correspondiente al ejercicio fiscal inmediato siguiente.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
+
+La Legislatura del Estado, al aprobar la remuneración de los servidores públicos del Instituto, establecerá los montos mínimos y máximos aplicables al ejercicio fiscal de que se trate. En caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el ejercicio inmediato anterior.
+
 ###### Artículo 47.
 
 El Consejero Presidente y los Consejeros Vocales de la Junta de Gobierno del Instituto, no podrán desempeñar ningún otro empleo, cargo o comisión oficial y solo podrán recibir percepciones derivadas de actividades docentes, regalías por derechos de autor o publicaciones, siempre que no se afecte el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
@@ -609,9 +699,11 @@ El Consejero Presidente y los Consejeros Vocales de la Junta de Gobierno del Ins
 
 En caso de falta definitiva del Consejero Presidente o de los Consejeros Vocales, se seguirá el mismo procedimiento señalado para la designación; en cuyo caso, el designado, concluirá el período de aquel al que sustituya. En todo caso, la vacante deberá ser cubierta en un plazo no mayor de noventa días naturales, contados a partir de que la Legislatura o la Diputación Permanente, según sea el caso, tengan conocimiento.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 49.
 
-Durante el mes de abril de cada año, el Consejero Presidente del Instituto rendirá un informe anual de labores y resultados al Congreso del Estado, en el cual se incluirá la descripción de la información remitida por los Sujetos Obligados comprendidos en esta Ley; el número de asuntos atendidos, así como las dificultades observadas en el cumplimiento de esta Ley. El informe anual será difundido con amplitud.
+Durante el mes de abril de cada año, el Consejero Presidente del Instituto rendirá un informe anual de labores y resultados al Congreso del Estado, en el cual se incluirá la descripción de la información remitida por los Sujetos Obligados comprendidos en esta Ley; el número de asuntos atendidos, las dificultades observadas en el cumplimiento de esta Ley; así como las demás actividades y acciones llevadas a cabo en ejercicio de las atribuciones del Instituto. El informe anual será difundido con amplitud y colocado en el sitio cibernético del Instituto, para que a través de la Internet tengan acceso los sujetos de derechos.
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO
 
@@ -623,9 +715,15 @@ Cualquier persona o su representante podrán presentar, ante la Unidad de Vincul
 
 La solicitud deberá hacerse por escrito, a menos que la índole del asunto permita que sea verbal, en cuyo caso la entidad registrará en un formato las características de la solicitud y procederá a entregar una copia del mismo al interesado.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
+
+Las solicitudes podrán realizarse también por medio de la Internet, y serán contestadas por el mismo medio. Para el efecto, los sujetos obligados deberán crear los medios electrónicos para tal fin. Los solicitantes deberán registrar previamente su correo electrónico con los datos que le requieran las unidades de vinculación, así como lo que se requiera para dar certeza a los datos incluidos en la solicitud.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 51.
 
-La solicitud de acceso a la información que se presente por escrito deberá contener cuando menos los siguientes datos:
+La solicitud de acceso a la información que se presente por escrito o por la Internet deberá contener cuando menos los siguientes datos:
 
 I. Nombre del solicitante y domicilio para recibir notificaciones, mismo que deberá estar ubicado en el lugar donde resida la Unidad de Vinculación a la que se presente la solicitud, de no señalar domicilio las notificaciones se realizarán por estrados;
 
@@ -691,11 +789,17 @@ Los Sujetos Obligados por medio de las Unidades de Vinculación, no estarán obl
 
 ### CAPÍTULO ÚNICO. DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
+
 ###### Artículo 62.
 
-La Junta de Gobierno del Instituto, conocerá y resolverá con base en el presente capítulo, los recursos de revisión. A falta de disposición expresa, se estará a las prevenciones del Código de Procedimientos Civiles del Estado.
+Contra las decisiones de las Unidades de Vinculación que nieguen el acceso a la Información o cuando esta no haya sido proporcionada dentro de los plazos correspondientes, así como cuando se pretenda otorgar la información reservada o datos personales, procederá el recurso de revisión, que podrá interponer el solicitante o su legítimo representante.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
 
 ###### Artículo 63.
+
+La Junta de Gobierno del Instituto, conocerá y resolverá con base en el presente capítulo, los recursos de revisión. A falta de disposición expresa, se estará a las prevenciones del Código de Procedimientos Civiles del Estado.
 
 Para los efectos de este apartado, se considerarán como hábiles todos los días que determine el Reglamento Interior del Instituto como laborables.
 
@@ -1008,3 +1112,9 @@ LIC. JOAQUÍN ERNESTO HENDRÍCKS DÍAZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EFRAÍN VILLANUEVA ARCOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE MARZO DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
