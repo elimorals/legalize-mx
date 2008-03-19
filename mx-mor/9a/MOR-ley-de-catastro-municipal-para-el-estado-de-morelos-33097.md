@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-catastro-municipal-para-el-estado-de-morelos-33097"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2003-07-30"
+last_updated: "2008-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CATASTRO MUNICIPAL PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -929,6 +929,10 @@ La autoridad municipal competente expedirá la certificación y planos solicitad
 
 El Registro Público de la Propiedad no hará inscripción definitiva alguna en sus libros, sin que se compruebe que se han hecho las manifestaciones correspondientes al Catastro Municipal respectivo, y se acompañe al documento o título por inscribir, la certificación y plano a que se refiere (sic) los dos preceptos que anteceden.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2008)</small>
+
+Para tal efecto, el Instituto del Registro Público de la Propiedad y del Comercio del Estado y los catastros municipales, deberán coordinar sus correspondientes bases de datos, a fin de que cada instancia cuente con los elementos técnicos administrativos que les permita complementar y corroborar toda la información necesaria para verificar la legalidad y legitimidad de las operaciones que realicen.
+
 ###### Artículo 102.
 
 La autoridad municipal hará movimientos en los libros de registro, a solicitud del Registro Público de la Propiedad y por parte interesada que demuestre en su contrato o título respectivo, la inscripción en el Registro Público de la Propiedad.
@@ -1388,3 +1392,15 @@ SECRETARIA DE HACIENDA
 CLAUDIA MARISCAL VEGA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE MARZO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
