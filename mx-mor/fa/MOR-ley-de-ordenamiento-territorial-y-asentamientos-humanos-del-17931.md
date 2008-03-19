@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-asentamientos-humanos-del-179
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-23"
-last_updated: "2006-12-13"
+last_updated: "2008-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y ASENTAMIENTOS HUMANOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 23 de agosto de 2000.
 
@@ -846,6 +846,10 @@ Realizada la inscripción del programa municipal, o los que de este se deriven, 
 ###### ARTÍCULO 47.
 
 La Sección Quinta, de Registro de Programas de Desarrollo Urbano, del Registro Público de la Propiedad y del Comercio del Estado, en el que deberán de inscribirse los programas de desarrollo urbano a que se refiere esta Ley y las demás resoluciones administrativas que se prevean con ese motivo, fungirá como oficina de consulta pública permanente de tales instrumentos.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2008)</small>
+
+Asimismo, las afectaciones jurídicas derivadas de los planes y programas de desarrollo urbano que incidan en particular sobre predios inscritos, deberán publicitarse dentro de la sección primera o de registro inmobiliario, siempre y cuando lo expresen dichos planes y programas. Para tal efecto el registrador, al realizar la inscripción de los planes o programas, también deberá realizar las anotaciones correspondientes en los folios respectivos.
 
 ###### ARTÍCULO 48.
 
@@ -3268,3 +3272,13 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 19 DE MARZO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
