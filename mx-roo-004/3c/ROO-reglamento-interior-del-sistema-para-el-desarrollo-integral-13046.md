@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-sistema-para-el-desarrollo-integral-130
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-28"
-last_updated: "1997-11-28"
+last_updated: "2008-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE OTHON P. BLANCO, QUINTANA ROO
 
-REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE OTHON P. BLANCO
+REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE OTHÓN P. BLANCO, QUINTANA ROO, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 28 de noviembre de 1997.
 
@@ -488,3 +490,19 @@ El presente reglamento entrará en vigor al día siguiente de su publicación en
 Se derogan todas las disposiciones que se opongan al presente reglamento, subsistiendo vigentes las leyes que lo complementan.
 
 DADO EN LA SALA DE CABILDOS DEL AYUNTAMIENTO DE OTHÓN P. BLANCO, EL DÍA VEINTINUEVE DEL MES DE MAYO DEL AÑO DE MIL NOVECIENTOS NOVENTA Y SIETE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Municipio de Othón P. Blanco publicado en el Periódico Oficial del Gobierno del Estado de fecha 28 de Noviembre de 1997.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de carácter municipal que se opongan al presente reglamento.
