@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-funcionamiento-del-zoologico-payo-obispo-730
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-10-15"
-last_updated: "1990-10-15"
+last_updated: "2008-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 ---
 # REGLAMENTO PARA EL FUNCIONAMIENTO DEL ZOOLOGICO PAYO OBISPO DEL MUNICIPIO DE OTHON P. BLANCO, QUINTANA ROO
 
-REGLAMENTO PARA EL FUNCIONAMIENTO DEL ZOOLOGICO PAYO OBISPO
+REGLAMENTO PARA EL FUNCIONAMIENTO DEL ZOOLÓGICO PAYO OBISPO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE OTHÓN P. BLANCO, DENOMINADO "JARDÍN ZOOLÓGICO PAYO OBISPO", PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de octubre de 1990.
 
@@ -245,7 +247,7 @@ Dentro del Zoológico no se otorgarán permisos a particulares en la explotació
 
 ###### Artículo 40.
 
-El Ayuntamiento y el Patronato promoverán el Zoológico Payo Obispo como atractivo turístico, a través de los medios de difusión tales como: Prensa , radio, televisión, folletos informativos y otros semejantes; canalizando esto a centros de desarrollo turístico con cobertura nacional e internacional, creando un atractivo más dentro del Estado.
+El Ayuntamiento y el Patronato promoverán el Zoológico Payo Obispo como atractivo turístico, a través de los medios de difusión tales como: Prensa, radio, televisión, folletos informativos y otros semejantes; canalizando esto a centros de desarrollo turístico con cobertura nacional e internacional, creando un atractivo más dentro del Estado.
 
 ###### Artículo 41.
 
@@ -269,7 +271,7 @@ Los patronatos se integrarán con los siguientes miembros: Un representante del 
 
 ###### Artículo 45.
 
-La autoridad designará , entre los miembros del Patronato, una Directiva compuesta por un Presidente, un Secretario, un Tesorero y los demás miembros tendrán el carácter de vocales; durarán en su cargo tres años, por tratarse de funciones honoríficas, no gozarán de emolumentos. El Presidente Municipal, tomará la protesta y dará la posesión de su cargo a los miembros del Patronato, levantándose el acta correspondiente.
+La autoridad designará, entre los miembros del Patronato, una Directiva compuesta por un Presidente, un Secretario, un Tesorero y los demás miembros tendrán el carácter de vocales; durarán en su cargo tres años, por tratarse de funciones honoríficas, no gozarán de emolumentos. El Presidente Municipal, tomará la protesta y dará la posesión de su cargo a los miembros del Patronato, levantándose el acta correspondiente.
 
 ###### Artículo 46.
 
@@ -289,7 +291,7 @@ IV.- Lograr la participación, la colaboración y el auxilio de la comunidad en 
 
 V.- Gestionar ante personas o Instituciones Públicas o Privadas, la ayuda para el desarrollo, incremento y operación de los Parques;
 
-VI.- Obtener el asesoramiento técnico de los agrónomos y otros profesionistas asignados en la región, par cumplir mejor sus funciones;
+VI.- Obtener el asesoramiento técnico de los agrónomos y otros profesionistas asignados en la región, para cumplir mejor sus funciones;
 
 VII.- Fomentar entre los visitantes el conocimiento de las artesanías y otros productos regionales, para promover su venta;
 
@@ -448,3 +450,19 @@ T R A N S I T O R I O S
 ÚNICO.- Este Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 DADO EN LA CIUDAD DE CHETUMAL, CABECERA MUNICIPAL DE OTHON P. BLANCO, EL DIA NUEVE DE OCTUBRE DE MIL NOVECIENTOS NOVENTA. APROBADO MEDIANTE SESIÓN ORDINARIA DE CABILDO DE LA MISMA FECHA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2008.
+
+PRIMERO. El presente Reglamento entrará en vigor al siguiente día de su publicación en el periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO. Se deroga el Reglamento para el Funcionamiento del Zoológico Payo Obispo, publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el quince de octubre de mil novecientos noventa.
+
+TERCERO. Se derogan todas las disposiciones normativas y acuerdos que se opongan al presente Decreto.
+
+CUARTO. Todos los bienes muebles e inmuebles que actualmente ocupan las instalaciones del Jardín Zoológico Payo Obispo, pasarán a ser propiedad del mismo a partir de la fecha de publicación del presente decreto.
+
+QUINTO. Se concede un término de noventa días hábiles a efecto de que se integren los órganos de gobierno del Jardín Zoológico Payo Obispo, su patronato y demás áreas.
+
+SEXTO. Se concede un término de noventa días hábiles a efecto de que las autoridades municipales competentes procedan a realizar ante las instancias correspondientes, todos los trámites y actos jurídicos necesarios a efecto de dar cumplimiento a lo establecido en el presente Decreto.
