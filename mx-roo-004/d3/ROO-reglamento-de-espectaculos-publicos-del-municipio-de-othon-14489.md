@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-espectaculos-publicos-del-municipio-de-othon-1448
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-03-31"
-last_updated: "1999-03-31"
+last_updated: "2008-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "ROO"
 
 REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE OTHÓN P. BLANCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS Y DIVERSIONES PARA EL MUNICIPIO DE OTHÓN P. BLANCO, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento Publicado en el Periódico Oficial del Estado de Quintana Roo, el miercoles, 31 de marzo de 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
+
+Reglamento publicado en el Periódico Oficial del Estado Quintana Roo, el miercoles 31 de marzo de 1999.
 
 REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE OTHÓN P. BLANCO
 
@@ -824,3 +826,13 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 Artículo Tercero.- El Presidente Municipal queda ampliamente facultado para dictar disposiciones, acuerdos y circulares que tengan como fin garantizar los intereses del público y el mejoramiento de los espectáculos públicos.
 
 DADO EN LA SALA DE CABILDOS DEL AYUNTAMIENTO DE OTHÓN P. BLANCO, A LOS DIECISIETE DÍAS DEL MES DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y OCHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2008.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todos los acuerdos y disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO.- Se abroga el Reglamento de Espectáculos Públicos del Municipio de Othón P. Blanco, publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo el 31 de Marzo de mil novecientos noventa y nueve.
