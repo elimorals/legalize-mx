@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-municipal-de-rastros-de-othon-p-blanco-quintana-7288
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-02-15"
-last_updated: "1988-02-15"
+last_updated: "2008-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "ROO"
 ---
 # REGLAMENTO MUNICIPAL DE RASTROS DE OTHON P. BLANCO, QUINTANA ROO
 
-REGLAMENTO MUNICIPAL DE RASTROS
+REGLAMENTO MUNICIPAL DE RASTROS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PÚBLICO DE RASTRO DEL MUNICIPIO DE OTHÓN P. BLANCO, QUINTANA ROO, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quinta Roo, el lunes 15 de febrero de 1988.
 
@@ -825,3 +827,19 @@ Este reglamento entrará en vigor el día siguiente al de su publicación en el 
 ###### Artículo 2º.
 
 Se derogan todas las disposiciones existentes que se opongan o sean contrarias al presente reglamento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Municipal de Rastros publicado en el Periódico Oficial del Gobierno del Estado de fecha 15 de Febrero de 1988.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones dentro del ámbito de competencia municipal que se opongan al presente Reglamento.
