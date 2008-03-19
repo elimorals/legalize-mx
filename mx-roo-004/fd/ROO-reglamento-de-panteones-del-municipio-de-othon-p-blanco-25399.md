@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-panteones-del-municipio-de-othon-p-blanco-25399"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-06-15"
-last_updated: "1992-06-15"
+last_updated: "2008-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 ---
 # REGLAMENTO DE PANTEONES DEL MUNICIPIO DE OTHON P. BLANCO, QUINTANA ROO
 
-REGLAMENTO DE PANTEONES DEL MUNICIPIO DE OTHON P. BLANCO
+REGLAMENTO DE PANTEONES DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PÚBLICO DE PANTEONES PARA EL MUNICIPIO DE OTHÓN P. BLANCO, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de junio de 1992.
 
@@ -364,3 +366,23 @@ Este Reglamento principiará a regir al día siguiente de su publicación en el 
 Desde la fecha señalada en el precepto que antecede, quedan derogadas las disposiciones que sobre la materia hayan sido expedidas con anterioridad.
 
 DADO EN EL PALACIO MUNICIPAL DE OTHÓN P. BLANCO, EN LA CIUDAD DE CHETUMAL, QUINTANA ROO A LOS TRES DÍAS DEL MES DE JUNIO DE MIL NOVECIENTOS NOVENTA Y DOS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente reglamento municipal abroga el Reglamento de Panteones del Municipio de Othón P. Blanco, publicado en el Periódico Oficial del Gobierno del Estado el día quince de junio de mil novecientos noventa y dos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones y acuerdos aprobados por el H. Ayuntamiento que contravengan el presente reglamento municipal.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga parcialmente el Decreto Número 130 donde se autoriza la creación del Centro Coordinador de Panteones y Funerarias, como Organismo Desconcentrado de Othón P. Blanco, publicado el treinta y uno de enero de mil novecientos ochenta y cuatro en el Periódico Oficial del Gobierno del Estado, dejando solamente con efectos lo referente a funerarias.
