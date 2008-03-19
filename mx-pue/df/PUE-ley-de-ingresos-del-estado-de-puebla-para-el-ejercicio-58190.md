@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-58190"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-17"
-last_updated: "2007-12-17"
+last_updated: "2008-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2008
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 17 de diciembre de 2007.
 
@@ -183,9 +183,13 @@ V.- Por la legalización con apostille por cada documento, incluye formato. $160
 
 Los derechos por los servicios prestados por la Secretaría de Gobernación a través de la Dirección General de Protección Civil, se causarán y pagarán conforme a lo siguiente:
 
-I.- Por la expedición de cédula de registro de instructor o perito independientes en materia de Protección Civil, por cada cédula. $2,905.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-II.- Por la expedición de cédula de registro de empresas de capacitación o de consultoría y estudios de riesgo y vulnerabilidad en materia de Protección Civil, por cada cédula. $4,060.00
+I.- Por la expedición de cédula de instructor o perito independiente en materia de Protección Civil, por cada cédula. $2,905.00
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+II.- Por la expedición de cédula de empresa de capacitación y consultoría y estudios de riesgo y vulnerabilidad en materia de Protección Civil. $4,060.00
 
 III.- Por el dictamen de riesgo para inmuebles o zonas riesgosas, en el Municipio de Puebla. $1,170.00
 
@@ -207,9 +211,11 @@ e) Por la aprobación de programas internos de los centros de trabajo, estableci
 
 f) Por la aprobación de programas internos que presenten las personas físicas o morales que tengan a su cargo servicios públicos concesionados por las autoridades del Estado. $2,630.00
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 15.
 
-Los derechos por los servicios prestados por la Secretaría de Gobernación a través del Registro Público de la Propiedad y del Comercio, se causarán y pagarán de conformidad con las cuotas, tasas y tarifas siguientes:
+Los derechos por los servicios prestados por la Secretaría de Gobernación a través del Registro Público de la Propiedad y del Comercio, se causarán y pagarán conforme a lo siguiente:
 
 APARTADO A
 
@@ -217,23 +223,39 @@ DE LA PROPIEDAD
 
 I.- Por cada inscripción, total o parcial que practique el Registro Público de la Propiedad y del Comercio:
 
-a) De los actos por los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes muebles, inmuebles o derechos reales, incluyendo compraventa con reserva de dominio, sobre el monto de la operación. 2 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
 
-b) De los actos por los que se constituyan gravámenes o limitaciones a la propiedad, posesión de bienes muebles o inmuebles, sobre el monto de la operación. 2 al millar
+a) De los actos por los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes muebles, inmuebles o derechos reales, incluyendo compraventa con reserva de dominio. $1,320.00
 
-c) Fijación de cédulas hipotecarias, otorgamiento y extensión de fianzas y contrafianzas, sobre el monto de la operación. 2 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
 
-d) Inscripción de contratos de arrendamiento y subarrendamiento, sobre el monto de la operación. 2 al millar
+b) De los actos por los que se constituyan gravámenes o limitaciones a la propiedad, posesión de bienes muebles o inmuebles. $1,320.00
 
-e) Por la inscripción de embargo administrativo y por su cancelación total o parcial, otorgamiento o cancelación de fianzas para garantizar ante las autoridades el pago de créditos fiscales y por la reinscripción de estos actos, sobre el monto de la operación. 1 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
 
-f) Por la inscripción de los actos relacionados con hipotecas, contratos de crédito con garantía hipotecaria y refaccionarios o de habilitación o avío, sobre el monto de la operación. 2 al millar
+c) Fijación de cédulas hipotecarias, otorgamiento y extensión de fianzas y contrafianzas. $660.00
 
-g) Por la cancelación de inscripción de los actos a que se refieren los incisos anteriores, sobre el monto de la operación. 1 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+d) Inscripción de contratos de arrendamiento y subarrendamiento. $660.00
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+e) Por la inscripción de embargo administrativo y por su cancelación total o parcial, otorgamiento o cancelación de fianzas para garantizar ante las autoridades el pago de créditos fiscales y por la reinscripción de estos actos. $660.00
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+f) Por la inscripción de los actos relacionados con hipotecas, contratos de crédito con garantía hipotecaria y refaccionarios o de habilitación o avío. $1,320.00
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+g) Por la cancelación de inscripción de los actos a que se refieren los incisos anteriores. $660.00
 
 II.- De las operaciones realizadas por las personas jurídicas:
 
-a) Por la inscripción de actos relacionados con la modificación o reformas, aumento de capital, escisión o fusión y liquidación de personas jurídicas, fundaciones y asociaciones de beneficencia privada, sobre el capital social. 1 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+a) Por la inscripción de actos relacionados con la modificación o reformas, aumento de capital, escisión o fusión y liquidación de personas jurídicas, fundaciones y asociaciones de beneficencia privada. $660.00
 
 b) Por la inscripción de protocolizaciones de actas de asambleas ordinarias y extraordinarias de personas jurídicas, fundaciones y asociaciones de beneficencia privada. $115.00
 
@@ -245,7 +267,9 @@ a) Por inscripción de sentencias de interdicción. $410.00
 
 b) Por la inscripción de documentos o resoluciones judiciales relativas a las sucesiones, independiente de los derechos que se causen por el registro de la transmisión de los bienes hereditarios. $245.00
 
-c) Por la inscripción de resoluciones judiciales de disposiciones testamentarias o que por mandato de Ley impongan gravámenes sobre inmuebles, de acuerdo al monto de la operación. 2%
+REFORMADO, P.O. 19 DE MARZO DE 2008)
+
+c) Por la inscripción de resoluciones judiciales de disposiciones testamentarias o que por mandato de Ley impongan gravámenes sobre inmuebles. $660.00
 
 V.- Por el registro de operaciones relativas a fraccionamientos, condominio, fusión y declaración de lo edificado:
 
@@ -271,7 +295,9 @@ VI.- Por el registro de operaciones relativas a Fideicomiso de Garantía:
 
 a) Por su inscripción, siempre que incluya bienes inmuebles, por cada una. $2,440.00
 
-b) Por la cesión de derechos, incluso la cesión de derechos hereditarios o fideicomisarios que incluyan inmuebles, sobre el monto de la operación. 2 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+b) Por la cesión de derechos, incluso la cesión de derechos hereditarios o fideicomisarios que incluyan inmuebles. $660.00
 
 c) Por la cancelación total o parcial de inscripción, siempre que incluya bienes inmuebles Por cada una. $1,220.00
 
@@ -329,13 +355,15 @@ DEL COMERCIO
 
 I.- Por cada inscripción, anotación, cancelación total o parcial de inscripción que practique el Registro Público de la Propiedad y del Comercio respecto a sociedades mercantiles, se pagará conforme a lo siguiente:
 
-a) Por constitución, reforma, transformación, fusión, escisión, aumento de capital, venta o donación de acciones de sociedades mercantiles, o sucursales de las mismas, nacionales o extranjeras, se pagará sobre el monto del capital social. 2 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
 
-Las sociedades civiles, mercantiles o de cualquier naturaleza que fijen su domicilio en el Estado cuando se encuentren inscritas con anterioridad en alguna otra entidad federativa, pagarán conforme lo establece el párrafo anterior sobre el importe del capital social en giro en el Estado.
+a) Por constitución, reforma, transformación, fusión, escisión, aumento de capital venta o donación de acciones de sociedades mercantiles, o sucursales de las mismas, nacionales o extranjeras. $2,310.00
 
 b) Por la disolución, liquidación y extinción de sociedades mercantiles. $245.00
 
-c) Por los contratos, en todas sus modalidades, de habilitación y avío, refaccionarios, de arrendamiento financiero, de fianza y contrafianza, de comisión mercantil y de hipoteca, emisión de obligaciones o ampliación de crédito que graven o limiten a la unidad industrial, sobre el monto total de la operación, se pagará. 2 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+c) Por los contratos, en todas sus modalidades, de habilitación y avío refaccionarios, de arrendamiento financiero, de fianza y contra fianza, de comisión mercantil y de hipoteca, emisión de obligaciones o ampliación de crédito que graven o limiten a la unidad industrial. $2,310.00
 
 d) Por cada otorgamiento, modificación, revocación, sustitución o prórroga de poderes de cualquier tipo, por cada apoderado designado, ratificado o sustituido. $115.00
 
@@ -343,7 +371,9 @@ II.- Por la inscripción del programa de sociedades anónimas que se constituyen
 
 III.- Tratándose de sociedades por acciones:
 
-a) Por aumento de capital, sobre el importe del aumento. 2 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+a) Por aumento de capital. $1,155.00
 
 b) Por disminución de capital. $245.00
 
@@ -365,7 +395,9 @@ V.- Por la inscripción de los siguientes actos conexos:
 
 a) Declaraciones de quiebra y de suspensión de pagos. $245.00
 
-b) Embargos, sentencias y demás providencias judiciales cuya inscripción sea decretada en juicio, sobre el monto de los bienes o derechos materia de los mismos. 2 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+b) Embargos, sentencias y demás providencias judiciales cuya inscripción sea decretada en juicio. $1,155.00
 
 c) Resoluciones de autoridades administrativas o judiciales cuya inscripción se solicite a petición de parte $115.00
 
@@ -403,15 +435,17 @@ Por conexión remota:
 
 4.- Por la solicitud de trámites registrales, por cada uno, independientemente del pago de derechos que se origine por el servicio prestado. $85.00
 
-V.- En la aplicación de las cuotas, tasas y tarifas establecidas en este artículo, se observarán las siguientes reglas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2008)</small>
+
+V.- En la aplicación de las cuotas y tarifas establecidas en este artículo, se observarán las siguientes reglas:
 
 a) Sólo se inscribirán, anotarán y cancelarán los actos jurídicos, y se depositarán los documentos que señalan las leyes de la materia; para el caso de actos y documentos provenientes del extranjero, éstos deberán contener los requisitos correspondientes;
 
 b) La cuota señalada en cada fracción será aplicable en cada servicio registral, para cada uno de los diferentes actos jurídicos o documentos correspondientes, aún cuando éstos se consignen en un mismo documento;
 
-c) Para efectos de este artículo se entenderá por monto de la operación el valor mayor que resulte entre el avalúo practicado por el Instituto de Catastro del Estado, institución o perito autorizado o el consignado en el acto jurídico registrable;
+c) (DEROGADO, P.O. 19 DE MARZO DE 2008)
 
-d) Cuando se trate de actos jurídicos referidos a prestaciones periódicas, el valor de la operación se determinará por la suma de éstas o por la cantidad resultante de hacerse el cómputo por anualidad; y
+d) (DEROGADO, P.O. 19 DE MARZO DE 2008)
 
 e) Cuando un mismo acto origine una o varias inscripciones en la sección civil y en la sección mercantil del propio Registro Público de la Propiedad y del Comercio, los derechos correspondientes a cada sección se causarán y pagarán calculándose la cuota correspondiente en forma independiente, conforme a lo dispuesto en este artículo.
 
@@ -543,7 +577,9 @@ VIII.- Por el análisis y diagnóstico de la documentación del comando canino q
 
 Los derechos por los servicios prestados por la Secretaría de Seguridad Pública, a través del H. Cuerpo de Bomberos, se causarán y pagarán conforme a las cuotas siguientes:
 
-I.- Por la intervención en incendios o siniestros, siempre y cuando los interesados cuenten con seguro, sobre la cantidad total a pagar por la compañía aseguradora, al momento de recibir dicho pago. 3%
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+I.- Por la intervención en incendios siniestros, siempre y cuando los interesados cuenten con seguro. $16,790.00
 
 II.- Por la visita y expedición de la constancia para la liberación de obras. $435.00
 
@@ -627,61 +663,63 @@ VII.- Por la aplicación del examen de conocimientos teóricos, como requisito p
 
 VIII.- Por la expedición, canje, reposición o revalidación del tarjetón de identificación de conductores de servicio público y mercantil, con vigencia de un año. $140.00
 
-IX.- Por el trámite de otorgamiento de concesión para el servicio del transporte público, que incluye título y tarjetón de la concesión. $14,585.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-X.- Por la cesión o transmisión de derechos de una concesión. $14,585.00
+IX.- Por el análisis jurídico, técnico, operativo y financiero para el otorgamiento de placas de servicio público de transporte y transporte mercantil, en su modalidad de alquiler o taxi. $15,715.00
 
-XI.- Por el análisis y dictamen de procedencia o improcedencia de la cesión de derechos de una concesión. $180.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-XII.- Por la solicitud de la celebración del contrato de cesión de derechos de una concesión, ante la Secretaría de Comunicaciones y Transportes. $590.00
+X.- Por el análisis jurídico, técnico, operativo y financiero para la transmisión o cesión de las placas de servicio público de transporte y transporte mercantil, en su modalidad de alquiler o taxi. $15,715.00
 
-XIII.- Por el reconocimiento de los derechos de la concesión por muerte del concesionario. $360.00
+XI.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-XIV.- Por la revalidación anual de la concesión a que se refiere la fracción IX de este artículo. $675.00
+XII.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-XV.- Por el trámite de otorgamiento de permiso para el servicio de automóviles de alquiler o taxi, que incluye título y tarjetón de permiso. $14,585.00
+XIII.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-XVI.- Por la cesión o transmisión de derechos de un permiso. $14,585.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-XVII.- Por el análisis y dictamen de procedencia o improcedencia de la cesión de derechos de un permiso. $180.00
+XIV.- Por la certificación anual de las condiciones a que se refiere la fracción IX de este artículo. $675.00
 
-XVIII.- Por la solicitud de la celebración del contrato de cesión de derechos de un permiso, ante la Secretaría de Comunicaciones y Transportes. $590.00
+XV.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-XIX.- Por el reconocimiento de los derechos del permiso por muerte del permisionario. $360.00
+XVI.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-XX.- Por la revalidación anual del permiso a que se refiere la fracción XV de este artículo. $675.00
+XVII.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-XXI.- Por el trámite de otorgamiento de concesión para la explotación de los centros de capacitación y adiestramiento para conductores de los vehículos del servicio de transporte público. $15,480.00
+XVIII.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-XXII.- Por el trámite de revalidación anual de la concesión a que se refiere la fracción anterior. $3,105.00
+XIX.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
+
+XX.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
+
+XXI.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
+
+XXII.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
 XXIII.- Por autorización para el cambio de vehículo atendiendo al modelo, capacidad o ruta de servicio público en cualquiera de sus modalidades. $150.00
 
 XXIV.- Por la autorización para el cambio de modalidad del vehículo con que se presta el servicio público, si el cambio a que se refiere la fracción anterior implica cambio en el formato de placa. $235.00
 
-XXV.- Por la inscripción de concesiones y permisos ante la Secretaria. $115.00
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2008)</small>
 
-Para que la autoridad fiscal reciba los pagos a que se refieren las fracciones IX, X, XIII, XV, XVI, XIX, XXIII y XXIV de este artículo, la Secretaría de Comunicaciones y Transportes deberá remitirle previamente el oficio de autorización respectivo.
+Para que la autoridad fiscal reciba los pagos a que se refiere esta fracción, así como las fracciones IX, X y XXIII de este artículo, la Secretaría de Comunicaciones y Transportes deberá remitirle previamente el oficio de autorización respectivo.
 
-Tratándose de las fracciones X, XI, XVI, XVII, XXIII y XXIV de este numeral, la concesión o permiso deberá haber cumplido con el programa de actualización de documentos y cambio de placas del servicio público de transporte y del servicio mercantil en su modalidad de taxi, así como contar con placas de circulación vigentes, título y tarjetón de concesión o permiso.
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2008)</small>
 
-XXVI.- Por el otorgamiento de permisos para el servicio mercantil. $3,830.00
+Para efectos de esta fracción, así como de las fracciones X y XXIII de este numeral, el concesionario o permisionario deberá haber cumplido con el programa de actualización de documentos y cambio de placas del servicio público de transporte y del servicio mercantil en su modalidad de taxi, así como contar con placas de circulación vigentes, título y tarjetón de concesión o permiso.
 
-XXVII.- Por la revalidación anual del permiso a que se refiere la fracción anterior. $675.00
+XXV.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-Para los efectos de las fracciones XXVI y XXVII de este artículo, se entenderá por servicio mercantil:
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-El transporte escolar.
+XXVI.- Por la expedición anual del holograma y del tarjetón que identifica a los vehículos destinados al servicio de transporte mercantil. $2,650.00
 
-El transporte exclusivo de turismo.
+XXVII.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-Los giros restringidos.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-Entendiéndose como giro restringido, el traslado de automóviles, materiales para construcción; de animales en pie y en canal; de vísceras; de sustancias químicas, corrosivas, gaseosas, radioactivas, líquidos inflamables, sustancias o desechos peligrosos o infectocontagiosos, explosivos y basura en general.
-
-El plazo para el pago de los derechos a que se refieren las fracciones XIV, XX y XXVII de este artículo, será el mismo que se señale para el pago del Impuesto Sobre Tenencia o Uso de Vehículos, debiendo cubrirse conjuntamente con dicho impuesto federal o estatal y los derechos por servicios de control vehicular.
-
-XXVIII.- Por la realización de revistas periódicas para determinar las condiciones físico-mecánicas de los vehículos destinados al servicio público y al servicio mercantil. $100.00
+XXVIII.- Por el análisis físico-mecánico de los vehículos destinados al servicio público y al servicio mercantil. $100.00
 
 XXIX.- Por la reposición de tarjeta de circulación, título o tarjetones de concesión y permiso de los servicios público y mercantil, respectivamente, que no implique modificación de datos, por cada documento. $170.00
 
@@ -699,7 +737,9 @@ No se otorgará tarjeta de circulación, placas o cualquier otro documento que p
 
 XXXIII.- Por la constancia de solicitud de reposición de placas de circulación de los vehículos de los servicios de transporte público y mercantil. $190.00
 
-Para que la autoridad fiscal reciba los pagos a que se refieren las fracciones XI, XIII, XIV, XVII, XIX, XX, XXIX, XXXII y XXXIII de este artículo, el vehículo, la concesión o el permiso deberán estar debidamente aprobados por la Secretaría de Comunicaciones y Transportes del Estado y regularizados, y que así conste en el Registro Estatal Vehicular y en los expedientes administrativos que al respecto se integren.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+Para que la autoridad fiscal reciba los pagos a que se refiere esta fracción, así como las fracciones XIV, XXIX y XXXII, el vehículo, la concesión o el permiso, deberán estar debidamente aprobados por la Secretaría de Comunicaciones y Transportes del Estado y regularizados, y que así conste en el Registro Estatal Vehicular y en los expedientes administrativos que al respecto se integren.
 
 El titular de la concesión o permiso deberá haber cumplido con el programa de actualización de documentos y cambio de placas del servicio público de transporte y servicio mercantil en su modalidad de taxi.
 
@@ -711,9 +751,9 @@ XXXVI.- Por cada curso de capacitación y adiestramiento impartido a los instruc
 
 XXXVII.- Por reposición del comprobante señalado en las fracciones XXXV y XXXVI. $115.00
 
-XXXVIII.- Por la expedición de permisos especiales a los vehículos del servicio de transporte público debidamente emplacados, cuando tengan que circular fuera de ruta transportando pasajeros, cuota diaria. $45.00
+XXXVIII.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-XXXIX.- Por el trámite de otorgamiento de la concesión anual para la explotación de los depósitos destinados a la guarda de los vehículos. $14,070.00
+XXXIX.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
 XL.- Por la elaboración y expedición de dictámenes técnicos en materia de transportes. $2,115.00
 
@@ -741,11 +781,9 @@ II.- Por el estudio técnico de planos, proyectos y memorias de obra para instal
 
 III.- Por cada 200 metros o tracción que exceda el primer kilómetro de instalaciones marginales dentro del derecho de vía, tanto en carreteras pavimentadas como caminos revestidos. $390.00
 
-IV.- Por el trámite de otorgamiento de concesiones de los servicios de comunicación, se pagará sobre el monto total de la obra. 3 al millar
+IV.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
-V.- Por la revalidación anual de las concesiones de los servicios de comunicación. $1,495.00
-
-El plazo para el pago de los derechos a que se refiere esta fracción será dentro de los tres primeros meses del ejercicio fiscal.
+V.- (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
 VI.- Por el estudio técnico por cada revisión de planos, proyecto y memoria de cálculo en la construcción de caminos, cuando éstos tengan una longitud menor o igual a 5 Km. $6,835.00
 
@@ -889,17 +927,19 @@ I.- Por la expedición de constancias de no inhabilitado para el desempeño de u
 
 II.- Por la expedición de constancias de no inhabilitado de personas físicas o jurídicas para participar en procedimientos de adjudicación o para suscribir contratos de obra pública o servicios relacionados con la misma, o de adjudicación, arrendamiento y servicios del sector público estatal. $140.00
 
-III.- Padrón de proveedores:
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-Expedición de constancias de inscripción. $705.00
+III.- Expedición de constancias de Proveedor del Gobierno del Estado y revalidación de la misma. $705.00
 
-Expedición de constancias de revalidación. $315.00
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2008)</small>
 
-IV.- Listado de Contratistas Calificados y de Laboratorios de Pruebas de Calidad:
+IV.- Contratistas Calificados y de Laboratorios de Pruebas de Calidad:
 
 a) Por expedición de constancias de calificación o revalidación de la misma. $3,905.00
 
-b) Por la reposición de la constancia que acredita el registro en el Listado de Contratistas Calificados y Laboratorio de Pruebas de Calidad. $200.00
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+b) Por la reposición de la constancia a que se refiere el inciso anterior. $200.00
 
 c) Por el análisis de la solicitud para ampliación de especialidades y en su caso, emisión de oficio de autorización. $530.00
 
@@ -913,11 +953,15 @@ La Secretaría de Finanzas y Administración y en su caso, las Entidades Paraest
 
 Los derechos por los servicios prestados por la Secretaría del Medio Ambiente y Recursos Naturales, se causarán y pagarán conforme a las siguientes cuotas:
 
-I.- Por el otorgamiento de la concesión a los titulares de los centros de verificación de emisión de gases contaminantes que cuenten con un equipo analizador de gases para la revisión de vehículos automotores registrados y emplacados en el Estado de Puebla, en el caso a que se refiere el artículo 122 de la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla. $12,790.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+I.- Por el análisis jurídico, técnico, operativo y financiero para el establecimiento de centros de verificación de emisión de gases contaminantes que cuenten con un equipo analizador de gases para la revisión de vehículos automotores registrados y emplacados en el Estado de Puebla, en el caso a que se refiere el artículo 122 de la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla. $12,790.00
 
 II.- Por cada equipo adicional. $6,645.00
 
-III.- Por revalidación anual de concesión de centro de verificación. $3,860.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+III.- Por la certificación anual de las condiciones a que se refiere la fracción I de este artículo. $3,860.00
 
 IV.- Por la revalidación anual de cada equipo adicional explotado. $2,000.00
 
@@ -953,7 +997,9 @@ c) Análisis detallado de riesgo. $2,285.00
 
 XII.- Por la expedición de constancias de excepción de estudio de impacto ambiental. $475.00
 
-XIII.- Por la evaluación y expedición anual de licencias de funcionamiento de fuentes fijas de competencia estatal que emitan humos, polvos, gases, vapores, olores u otros a la atmósfera, según tamaño de la industria, comercio o servicio, de acuerdo a la siguiente clasificación:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2008)</small>
+
+XIII.- Por la evaluación y certificación anual de fuentes fijas de competencia estatal que emitan humos, polvos, gases, vapores, olores u otros a la atmósfera, según tamaño de la industria, comercio o servicio, de acuerdo a la siguiente clasificación:
 
 Grande. $3,545.00
 
@@ -981,7 +1027,9 @@ Grande 501 101 101 en adelante
 
 en adelante en adelante
 
-XIV.- Por constancia de inscripción en el padrón y licencia de técnico en verificación. $190.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+XIV.- Por expedición de constancia de técnico en verificación. $190.00
 
 XV.- Por los servicios prestados en las instalaciones del "Parque Ecológico Recreativo Gral. Lázaro Cárdenas (Flor del Bosque), se causarán y pagarán conforme a las siguientes cuotas:
 
@@ -1199,7 +1247,9 @@ a) Diploma de especialidad. $85.00
 
 b) Grado académico de maestría y doctorado. $120.00
 
-XVI.- Por el otorgamiento de registro a colegios de profesionistas y/o asociaciones profesionales que actúen en el Estado. $1,180.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+XVI.- Por expedición de constancia de colegio de profesionistas y/o asociación profesional que actúe en el Estado. $1,180.00
 
 XVII.- Por el otorgamiento de clave de Centro de Trabajo, por cada nivel educativo y/o plan de estudios de educación básica, media superior, educación normal y superior. $6,375.00
 
@@ -1789,15 +1839,19 @@ d) Archivos de orto fotos o imagen de satélite en formato de imagen digital est
 
 e) Por cada punto terrestre georreferenciado en la cartografía. $130.00
 
-IV.- Por la expedición anual de la cédula de inscripción en el padrón de peritos valuadores, peritos topógrafos o corredores públicos, del Instituto, con vigencia hasta el 31 de diciembre de 2008. $675.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+IV.- Por expedición anual de constancia de perito valuador, perito topógrafo o corredor público del Instituto con vigencia al 31 de diciembre de 2008. $675.00
 
 V.- Por servicios de valuación:
 
-a) Elaboración y expedición de avalúo comercial, sobre el monto del avalúo practicado. 1.5 al millar
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
 
-Cuando la cantidad que resulte de aplicar la cuota prevista en este inciso sea inferior a $445.00, se pagará invariablemente esta última.
+a) Elaboración y expedición de avalúo comercial. $1,200.00
 
-b) Por revisión y validación de avalúo comercial a peritos registrados, se cobrará el 10% del 1.5 al millar del monto del avalúo revisado.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+b) Por revisión y validación de avalúo comercial a peritos registrados, por cada uno. $500.00
 
 c) Por consulta de valores comerciales de zona, por valor de calle. $25.00
 
@@ -1807,11 +1861,15 @@ e) Por Inspección ocular de predio urbano o rústico, con fines de valuación u
 
 f) Por la elaboración y expedición de avalúo catastral con vigencia de 180 días naturales, por avalúo. $300.00
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2008)</small>
+
+g) Por la revisión y certificación de avalúo catastral a peritos registrados, por cada uno. $250.00
+
 VI.- Por la expedición de la cédula catastral. $525.00
 
-VII.- Por expedición de constancia de alta en el padrón catastral o modificación de datos. $65.00
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-Se exceptúan de este pago los movimientos realizados a instancia de la autoridad catastral y de los bienes inmuebles del domino publico propiedad de la Federación, el Estado y los Municipios.
+VII.- Por expedición de constancia de alta o modificación de datos catastrales. $65.00
 
 VIII.- Por expedición de constancia de inexistencia, por predio. $150.00
 
@@ -1825,9 +1883,13 @@ XII.- Por búsqueda en el Sistema de Gestión Catastral, impresión de plano tam
 
 XIII.- Por certificación de impresiones, reproducciones o copias de planos que obren en el archivo cartográfico, por plano. $65.00
 
-XIV.- Por la supervisión y coordinación de Programa de Actualización Catastral, sobre el monto total del Programa. $10%
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-XV.- Por actualización del padrón catastral gráfico y alfanumérico, por predio urbano revisado, adicionado o modificado. $5.00
+XIV.- Por la coordinación de Programa de Actualización Catastral, por predio. $15.00
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+XV.- Por actualización de información catastral geográfica y alfanumérica, por predio urbano revisado, adicionado o modificado. $5.00
 
 XVI.- Por consultaría aplicada a Sistemas de Información Geográfica (SIG), por hora. $1,000.00
 
@@ -1909,7 +1971,7 @@ c) Disco compacto. $25.00
 
 En el caso de que se requiera la contratación de alguna empresa de mensajería, los gastos de envío correrán a cargo del solicitante.
 
-Cuando para la determinación de los derechos a que se refiere este Título, se aplique un factor, porcentaje o millares y una vez hecho el cálculo resulten cantidades inferiores a $275.00 y no se establezca cantidad en contrario, deberá pagarse esta cantidad como cuota mínima.
+> <small>(DEROGADO, P.O. 19 DE MARZO DE 2008)</small>
 
 El pago extemporáneo de los derechos en los que en este Título se está señalando un plazo para efectuarlo, dará lugar a la aplicación de la actualización y al cobro de recargos y sanciones, conforme a lo dispuesto en el Código Fiscal del Estado vigente.
 
@@ -2234,3 +2296,11 @@ CUARTO.- Cuando por disposición de la Ley, por Decreto del H. Congreso Local o 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en ]a Heroica Ciudad de Puebla de Zaragoza, a los veintinueve días del mes de noviembre de dos mil siete.- Diputada Presidenta.- ZENORINA GONZÁLEZ ORTEGA.- Rúbrica.- Diputado Vicepresidente.- JOSÉ RAYMUNDO FROYLÁN GARCÍA GARCÍA.- Rúbrica.- Diputado Secretario.- RAMÓN DANIEL MARTAGÓN LÓPEZ.- Rúbrica.- Diputada Secretaria.- MARÍA DE LOS ÁNGELES ELIZABETH GÓMEZ CORTÉS.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los siete días del mes de diciembre de dos mil siete.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE MARZO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
