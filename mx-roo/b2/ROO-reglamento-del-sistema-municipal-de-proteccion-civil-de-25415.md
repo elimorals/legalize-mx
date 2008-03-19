@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-sistema-municipal-de-proteccion-civil-de-25415"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-28"
-last_updated: "1997-11-28"
+last_updated: "2008-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO DEL SISTEMA MUNICIPAL DE PROTECCIÓN CIVIL DE OTHÓN P. BLANCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL DEL MUNICIPIO DE OTHON P. BLANCO, QUINTANA ROO, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 28 de noviembre de 1997.
 
@@ -574,3 +576,15 @@ T R A N S I T O R I O S
 PRIMERO.- Este reglamento entrará en vigor al día siguiente al de su publicación en el periódico oficial del gobierno del estado.
 
 SEGUNDO.- Se derogan todas las disposiciones existentes a que se opongan o sean contrarias al presente reglamento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento del Sistema Municipal de Protección Civil de Othón P. Blanco publicado en el Periódico Oficial del Gobierno del Estado de fecha 28 de Noviembre de 1997.
+
+TERCERO.- Se derogan todas aquéllas disposiciones o acuerdos de carácter municipal que se opongan al presente Reglamento.
+
+CUARTO.- A partir de la vigencia del presente Reglamento, se concederá un término de seis meses a efecto de que los empresarios o comerciantes con giros de mediano y alto riesgo, procedan a dar cumplimiento a las obligaciones establecidas en el presente Reglamento.
