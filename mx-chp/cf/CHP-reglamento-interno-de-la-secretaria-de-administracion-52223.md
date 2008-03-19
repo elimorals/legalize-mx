@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interno-de-la-secretaria-de-administracion-52223"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-27"
-last_updated: "2007-02-07"
+last_updated: "2008-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE ADMINISTRACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 27 de septiembre de 2006.
 
@@ -117,19 +117,23 @@ Dirección de Adquisiciones
 
 Dirección de Servicios
 
-V. Órganos Desconcentrados:
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-Delegaciones
+V. Órganos Desconcentrados.
 
-Instituto de Profesionalización del Servidor Público
+Delegaciones Regionales.
 
-Coordinación de Transportes Aéreos
+Instituto de Profesionalización del Servidor Público.
+
+Coordinación de Transportes Aéreos.
 
 El Titular de la Secretaría, para el cumplimiento de sus atribuciones tendrá un Secretario Particular y el número de servidores públicos que sea necesario para el desempeño de sus funciones, de conformidad con el presupuesto de egresos que le sea asignado a la Secretaría.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
 ###### Artículo 6°.
 
-La Secretaría, a través de su estructura orgánica, planeará y conducirá sus actividades, con sujeción a los objetivos, estrategias y prioridades que establezca el Plan de Desarrollo Chiapas, para el logro de las metas y de los programas, que a cargo de ésta establezca el Ejecutivo del Estado.
+La Secretaría a través de su estructura orgánica, planeará y conducirá sus actividades, con sujeción a los objetivos, estrategias y prioridades que establezca el Plan Estatal de Desarrollo, para el logro de las metas y de los programas, que a cargo de ésta establezca el Ejecutivo del Estado.
 
 ### Capítulo II. De las Atribuciones del Titular de la Secretaría
 
@@ -161,13 +165,21 @@ IX. Organizar, coordinar y controlar el procedimiento administrativo de escalaf�
 
 X. Coordinar la aplicación del proceso de retención de contribuciones por pagos de nóminas y honorarios, conforme a lo que establezcan las leyes respectivas;
 
-XI. Establecer en coordinación con la Secretaría de Planeación y Finanzas, la normatividad de viáticos y pasajes aplicables a los servidores públicos de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-XII. Emitir tabuladores de sueldos y el catálogo de categorías de los trabajadores de la Administración Pública, así como, autorizar y actualizar las percepciones de los puestos, estableciendo y determinando la procedencia y monto de las compensaciones generales o individuales que tengan por objeto estimular la productividad, la eficiencia y la calidad de los trabajadores, además, de autorizar otras prestaciones económicas, con base a las asignaciones presupuestarias autorizadas por la Secretaría de Planeación; y,
+XI. Establecer en coordinación con la Secretaría de Finanzas, la Normatividad de Viáticos y Pasajes aplicable a los servidores públicos de la Administración Pública Estatal;
 
-XIII. Emitir y autorizar el proceso de cálculo de nóminas, pago de sueldos, percepciones en general y compensaciones, tales como estímulos, reconocimientos, recompensas, incentivos y pagos equivalentes a los mismos, que se otorgan a los servidores de la Administración Pública Centralizada.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-XIV. Tramitar ante la Secretaría de Planeación y Finanzas las transferencias, reducciones y ampliaciones de las partidas presupuestarias asignadas a la Secretaría, a excepción de las disposiciones que en la materia establezca el Código de la Hacienda Pública para el Estado de Chiapas.
+XII. Emitir tabuladores de sueldos y el catálogo de categorías de los trabajadores de la Administración Pública, así como, autorizar y actualizar las percepciones de los puestos, estableciendo y determinando la procedencia y monto de las compensaciones generales o individuales que tengan por objeto estimular la productividad, la eficiencia y la calidad de los trabajadores, además, de autorizar otras prestaciones económicas, con base a las asignaciones presupuestarias autorizadas por la Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+XIII. Emitir y autorizar el proceso de cálculo de nóminas, percepciones en general y compensaciones, tales como estímulos, reconocimientos, recompénsas, incentivos y pagos equivalentes a los mismos, que se otorgan a los servidores públicos de la Administración Centralizada;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+XlV. Tramitar ante la Secretaría de Finanzas las transferencias, reducciones y ampliaciones de las partidas presupuestarias asignadas a la Secretaría, a excepción de las disposiciones que en la materia establezca el Código de la Hacienda Pública para el Estado de Chiapas;
 
 XV. Expedir constancias y certificar documentos que obren en los archivos de la Secretaría; así como, certificar las firmas de los servidores Públicos de la Secretaría y de los pensionados de la Administración Centralizada;
 
@@ -321,7 +333,9 @@ La representación a que se refiere esta fracción, comprende el desahogo de tod
 
 II. Compilar y difundir las leyes, reglamentos, decretos, acuerdos y demás normas jurídicas relacionadas con las atribuciones de la Secretaría;
 
-III. Vigilar, y en su caso, recomendar que los Órganos Administrativos de la Secretaría, cumplan con las disposiciones jurídicas y administrativas que con respecto a sus facultades les correspondan;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+III. Vigilar, y en su caso, recomendar que los órganos administrativos de la Secretaría cumplan con las disposiciones jurídicas y administrativas que con respecto a sus atribuciones les correspondan;
 
 IV. Elaborar y rendir los informes que le requieran la Comisión Nacional y Estatal de Derechos Humanos, o cualquier otra institución de esa naturaleza.
 
@@ -337,7 +351,9 @@ IX. Asesorar jurídicamente al titular de la Secretaría, y apoyar legalmente el
 
 X. Certificar y expedir constancias de los documentos que obren en los archivos de la Secretaría; así como, certificar las firmas de los servidores públicos de la Secretaría y de los pensionados de la Administración Centralizada;
 
-XI. Fungir como presidente en la Comisión Mixta de Escalafón de los Trabajadores de Base al Servicio del Poder Ejecutivo del Estado, así como, proponer los cambios que resulten adecuados al Reglamento, en coordinación con la Dirección de Política Laboral de la Secretaría;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+XI. Coadyuvar con la Dirección de Política Laboral de la Secretaría, en la elaboración de proyectos que se requieran para adecuar el Reglamento de Escalafón, así como, cualquier otro instrumento de su competencia;
 
 XII. Promover la publicación en el Periódico Oficial del Estado, o en otros medios de difusión si fuera necesario, de los acuerdos, lineamientos, circulares, normas y demás actos o disposiciones jurídicas y administrativas que sean competencia de a Secretaría;
 
@@ -373,7 +389,9 @@ I. Vigilar el cumplimiento de las leyes en materia presupuestal y financiera, de
 
 II. Establecer y aplicar, con la aprobación del Secretario, las políticas, normas, lineamientos, sistemas y procedimientos para la programación, presupuestación, organización y administración integral de los recursos materiales, humanos y servicios generales de que disponga la Secretaría.
 
-III. Contabilizar las operaciones financieras y generar la información presupuestal y contable de la Secretaría en las formas y tiempos establecidos por la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+III. Contabilizar las operaciones financieras y generar la información presupuestal y contable de la Secretaría en las formas y tiempos establecidos por la Secretaría de Finanzas;
 
 IV. Efectuar oportunamente los pagos a proveedores y prestadores de servicios de la Secretaría, previo análisis y cumplimiento de los requisitos para la documentación comprobatoria;
 
@@ -399,43 +417,43 @@ XIV. Coordinar la Unidad Interna de Protección Civil conforme a la normatividad
 
 XV. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
 ###### Artículo 16.
 
 La Unidad de Planeación, tendrá los siguientes subórganos administrativos:
 
-a) Área de Programación y Presupuestación;
+a). Área de Programación y Presupuesto.
 
-b) Área de Proyectos e Información Sectorial; y,
+b). Área de Evaluación, Seguimiento de Programas y Proyectos.
 
-c) Área de Evaluación y Seguimiento.
+c). Área de Análisis Organizacional e información Institucional.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
 
 ###### Artículo 17.
 
-El Titular de la Unidad de Planeación, tendrá las atribuciones siguientes:
+El titular de la Unidad de Planeación, tendrá las atribuciones siguientes:
 
-l. Coordinar la planeación financiera, presupuestal y estratégica de las actividades que se desarrollen en los programas y proyectos de la Secretaría, conforme al marco normativo establecido;
+I. Coordinar la planeación Presupuestal y estratégica de los programas y proyectos de la Secretaría;
 
-II. Diseñar y establecer en congruencia con los lineamientos que en la materia establezca la Secretaría de Planeación y Finanzas, las normas y metodología para la elaboración y actualización de planes sectoriales y programas de acción del sector;
+II. Formular y evaluar el programa institucional de la Secretaría, así como el apartado del Programa de la Función Pública responsabilidad de ésta;
 
-III. Coordinar la elaboración del Programa Operativo Anual y del Presupuesto de Egresos de la Secretaría, con base en la normatividad vigente, a efecto de tramitar su autorización ante la Secretaría de Planeación y Finanzas;
+III. Coordinar la elaboración del Programa Operativo Anual y del Presupuesto de Egresos de la Secretaría, a efecto de tramitar su autorización ante las instancias correspondientes;
 
-IV. Aplicar los criterios y lineamientos normativos del gasto, que fije la Secretaría de Planeación y Finanzas, en la asignación de los recursos de los programas y proyectos del Anteproyecto de Presupuesto de Egresos de la Secretaría;
+IV. Gestionar ante las instancias correspondientes, las modificaciones presupuestales para el ajuste u obtención de los recursos que posibilite el cumplimiento de objetivos y las metas de los programas y proyectos institucionales y de inversión que ejecute la Secretaría;
 
-V. Gestionar ante la Secretaría de Planeación y Finanzas, las modificaciones presupuestarias para el ajuste u obtención de los recursos que mejoren el cumplimiento de objetivos y las metas de los planes, programas o proyectos que implemente u opere la Secretaría;
+V. Evaluar el cumplimiento de los objetivos y metas de los programas y proyectos que permita integrar la Cuenta de la Hacienda Pública Estatal de la Secretaría;
 
-VI. Coordinar la elaboración de los cierres del ejercicio programático-presupuestal que integran la Cuenta de la Hacienda Pública de la Secretaría y presentarlos ante la Secretaría de Planeación y Finanzas;
+VI. Coordinar la integración del informe de gobierno, en los temas y responsabilidades que le correspondan a la Secretaría, conforme a los lineamientos que establezca la instancia normativa;
 
-VII. Coordinar la integración del informe de gobierno, en los temas y responsabilidades que le corresponda a la Secretaría, así como el documento que presenta el titular en su comparecencia ante el Congreso del Estado;
+VII. Elaborar los proyectos de adecuaciones que estructura orgánica y plantilla de plazas de la Secretaría;
 
-VII (sic). EIaborar los análisis comparativos entre los programas sectoriales e institucionales, de acuerdo con las prioridades generales establecidas en el Plan de Desarrollo Chiapas;
+VIII. Coordinar la integración de los manuales administrativos de Ia Secretaría;
 
-IX. Asesorar permanentemente a las áreas de la Secretaría en referencia a la presentación de los diversos documentos presupuestarios e informes;
+IX. Asesorar permanentemente a los órganos administrativos de la Secretaría en referencia a la elaboración y presentación de los diversos documentos presupuestarios, programáticos y demás informes que se les requiera; y,
 
-X. Elaborar las propuestas de adecuación de estructura orgánica y plantilla de plazas a fin de optimizar los recursos y procurar el mejoramiento administrativo de la Secretaría;
-
-XI. Integrar, actualizar y difundir los Manuales Administrativos de la Secretaría para eficientar el funcionamiento organizacional; y,
-
-XII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario.
+X. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario.
 
 ###### Artículo 18.
 
@@ -451,11 +469,17 @@ El Titular de la Unidad de Informática, tendrá las atribuciones siguientes:
 
 I. Planear anualmente las actividades en materia de tecnologías de información y comunicaciones, mediante la formulación de proyectos tecnológicos en los que participen las áreas de la Secretaría, e informar al Secretario el avance mensual de sus actividades;
 
-II. Participar en la formulación del programa estatal de informática, manteniendo comunicación permanente con la Dirección de Desarrollo Tecnológico, para el eficaz y eficiente cumplimiento de las funciones que le asignen;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-III. Observar y difundir hacia el interior de la Secretaría, la aplicación de las normas, políticas, procedimientos y sistemas que en materia de informática establezcan la Dirección de Desarrollo Tecnológico y la Dirección de Internet;
+II. Participar en la formulación del programa estatal de informática, manteniendo comunicación permanente con la Dirección de Innovación y Desarrollo Tecnológico o en su caso, con la Dirección de Normatividad e Infraestructura Tecnológica, para el eficaz y eficiente cumplimiento de las funciones que le asignen;
 
-IV. Analizar y determinar la vialibilidad (sic) de los proyectos de automatización propuestos por los Órganos Administrativos de la Secretaría, conforme a la normatividad establecida por la Dirección de Desarrollo Tecnológico;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+III. Observar y difundir hacia el interior de la Secretaría, la aplicación de las normas, políticas, procedimientos y sistemas que en materia de informática establezcan la Dirección de Innovación y Desarrollo Tecnológico o en su caso, la Dirección de Normatividad e Infraestructura Tecnológica y la Dirección de Internet;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+IV. Analizar y determinar la viabilidad de los proyectos de automatización propuestos por los órganos administrativos de la Secretaría, conforme a la normatividad establecida por la Dirección de Normatividad e Infraestructura Tecnológica;
 
 V. Elaborar propuestas de desarrollo de sistemas de información para la automatización de las actividades de los órganos administrativos de la Secretaría;
 
@@ -555,7 +579,7 @@ III. Coordinar, vigilar y supervisar las acciones de las Direcciones de Desarrol
 
 IV. Brindar asesoría y atender las consultas de la Administración Pública Estatal, en la formulación de sus reglamentos internos y manuales administrativos;
 
-V. Elaborar, validar y, en su caso, poner a consideración del Secretario para su autorización, los catalógos de categorías de los trabajadores al servicio de la Administración Pública Centralizada, debiendo mantener actualizados los mismos;
+V. (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
 VI. Coordinar los procesos de mejoramiento administrativo y tecnológico de la Administración Pública Estatal, implementando las acciones que para ello se requieran;
 
@@ -585,15 +609,21 @@ III. Coordinar, vigilar y supervisar las acciones de las Direcciones de Remunera
 
 IV. Emitir los nombramientos de los servidores públicos de la Administración Centralizada y, convalidar por acuerdo del Secretario, aquellos otros que se expidan en términos de las leyes respectivas;
 
-V. Llevar a cabo la revisión anual de salarios y prestaciones del personal de base con el Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como, del personal de confianza y temporal de gasto corriente, coordinándose para ello con la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+V. Llevar a cabo la revisión anual de salarios y prestaciones del personal de base con el Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como, del personal de confianza y temporal de gasto corriente, coordinándose para ello con la Secretaría de Finanzas;
 
 VI. Proponer los criterios, normatividad y lineamientos referentes a las políticas salariales y de deducciones de sueldos, de los servidores públicos de la Administración Centralizada;
 
-VII. Coordinar la aplicación de la normatividad, lineamientos y criterios referentes a las retenciones de impuestos por pagos de nóminas y honorarios, solicitando en su caso, la participación de la Secretaría de Planeación y Finanzas en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+VII. Coordinar la aplicación de la normatividad, lineamientos y criterios, referentes a las retenciones de impuestos por pagos de nóminas y honorarios, solicitando en su caso, la participación de la Secretaría de Finanzas en el ámbito de su competencia;
 
 VIII. Brindar asesoría y atender las consultas con motivo al cumplimiento de las resoluciones que en materia laboral emitan las autoridades competentes, y que realice la Administración Pública Estatal;
 
-IX. Proponer, validar y, en su caso, poner a consideración del Secretario para su autorización, los tabuladores de sueldos de los trabajadores de la Administración Pública Estatal, debiendo mantener actualizados los mismos;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+IX. Proponer, validar y someter a consideración del Secretario para su autorización, los catálogos de categorías, y en su caso, los tabuladores de sueldos de los trabajadores de la Administración Pública Estatal, debiendo mantener actualizados los mismos;
 
 X. Emitir y autorizar el proceso de cálculo de nóminas, pago de sueldos, percepciones en general y compensaciones generales o individuales que tengan por objeto estimular la productividad, la eficiencia y la calidad de los trabajadores, tales como los estímulos, reconocimientos, recompensas, incentivos y pagos equivalentes a los mismos, que se otorguen a los servidores públicos de la Administración Pública Centralizada; y,
 
@@ -671,9 +701,15 @@ b) Departamento Sector Administrativo, Finanzas y Economía;
 
 c) Departamento Sector Educación y Salud;
 
-d) Departamento Sector Obra y Pública y Desarrollo Rural; y,
+d) Departamento Sector Obra y Pública y Desarrollo Rural; y (sic),
 
-e) Departamento Sector Desarrollo y Comunicación Social.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+e). Departamento Sector Social y Humano;
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2008)</small>
+
+f). Departamento de Mejora de Servicios.
 
 ###### Artículo 29.
 
@@ -813,9 +849,13 @@ La Dirección de Remuneraciones y Retenciones, tendrá los siguientes subórgano
 
 a). Departamento de Personal Administrativo;
 
-b). Departamento de Sistema de Nóminas; y,
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
 
-c) Departamento de Retenciones y Caja de Ahorro.
+b). Departamento de Sistemas de Nóminas;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2008)</small>
+
+c). Departamento de Retenciones.
 
 ###### Artículo 35.
 
@@ -829,7 +869,9 @@ III. Formalizar y validar, el proceso de cálculo de la nómina de sueldos y pre
 
 IV. Aplicaren los procesos de nóminas los criterios y lineamientos referentes a las políticas salariales y prestaciones que se deriven de las previsiones presupuestales anuales y acuerdos sindicales;
 
-V. Mantener actualizadas dentro del sistema de nóminas de la Administración Centralizada, las estructuras orgánicas, conforme a los dictámenes emitidos por la Secretaría, previa autorización presupuestal de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+V. Mantener actualizadas dentro del sistema de nóminas de la Administración Centralizada, las estructuras orgánicas, conforme a los dictámenes emitidos por la Secretaría, previa autorización presupuestal de la Secretaría de Finanzas;
 
 VI. Realizar, validar y aplicar bajo su más estricta responsabilidad y con apego a las leyes y normatividad correspondiente, el proceso de cálculo de las retenciones al salario que por mandato judicial, contrato o convenio u otras resulten aplicables al personal en activo y pensionado de la Administración Centralizada;
 
@@ -863,7 +905,9 @@ IV. Formular y revisar los anteproyectos de leyes, reglamentos, decretos, acuerd
 
 V. Proponer la actualización de las Condiciones Generales de Trabajo y demás normas laborales, procurando su actualización permanente, en relación a las demás disposiciones legales aplicables;
 
-VI. Coadyuvar con la Unidad de Apoyo Jurídico de la Secretaría, en la elaboración de los proyectos que se requieran para adecuar el Reglamento de Escalafón, así como, en cualquier otro instrumento legal que se requiera, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+VI. Fungir como presidente de la Comisión Mixta de Escalafón de los Trabajadores de Base al servicio del Poder Ejecutivo del Estado; así como, elaborar los proyectos que se estimen necesarios par a adecuar el Reglamento de Escalafón, en coordinación con la Unidad de Apoyo Jurídico de la Secretaría;
 
 VII. Intervenir en los juicios laborales en los que sea parte la Secretaría, tramitando y substanciación (sic) los procedimientos hasta su total conclusión;
 
@@ -873,9 +917,15 @@ IX. Efectuar periódicamente la verificación existencial de pensionados de la A
 
 X. Coordinar y promover para su difusión, la compilación de acervos documentales y disponibles a través de medios electrónicos sobre materia laboral y su intercambio en el ámbito estatal;
 
-XI. Intervenir en el trámite y subtanciación (sic) de los procedimientos laborales que conforme a la Ley de la materia, se instrumenten a los trabajadores de la Secretaría; y,
+XI. Intervenir en el trámite y subtanciación (sic) de los procedimientos laborales que conforme a la Ley de la materia, se instrumenten a los trabajadores de la Secretaría; y (sic),
 
-XII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario, a través del Titular de la Subsecretaría de su adscripción, o éste último directamente.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+XII. Coordinar la recepción, archivo, control y actualización de la documentación correspondiente a los expedientes del personal de la Administración Centralizada; y,
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2008)</small>
+
+XIII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario, a través del titular de la Subsecretaría de su adscripción o éste último directamente.
 
 ###### Artículo 38.
 
@@ -923,7 +973,9 @@ IV. Programar, tramitar y ejecutar la enajenación de los bienes del Estado, a c
 
 V. Gestionar y proponer en el ámbito de su competencia, las recuperaciones administrativas y judiciales de los bienes del Estado, a cargo de la Administración Pública Estatal;
 
-VI. Fungir como Secretario Técnico del Fideicomiso Público de Inversión y Administración, denominado Fondo de Protección para Vehículos Propiedad del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+VI. Fungir como Vocal del Fideicomiso Público de Inversión y Administración, denominado Fondo de Protección para Vehículos Propiedad del Poder Ejecutivo Estatal;
 
 VII. Requerir, en su caso, a la Administración Pública Estatal, la información documental de los bienes del Estado que tengan adscritos;
 
@@ -997,7 +1049,7 @@ VI. Organizar y ejecutar el servicio de intendencia en los edificios de la Secre
 
 VII. Dirigir supervisar la distribución de la correspondencia interna y externa de la Secretaría;
 
-VIII. Coordinar la recepción, archivo, control y actualización de la documentación correspondiente a los expedientes del personal de la Administración Centralizada;
+VIII. (DEROGADA, P.O. 19 DE MARZO DE 2008)
 
 IX. Controlar y distribuir el material de limpieza para los edificios de la Secretaría y Palacio de Gobierno; y,
 
@@ -1009,11 +1061,17 @@ X. Las demás que en el ámbito de su competencia le confieran las disposiciones
 
 La Secretaría tendrá los Órganos Administrativos Desconcentrados siguientes:
 
-I Delegación Tapachula.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
 
-II. Delegación San Cristóbal de Las Casas.
+I. Delegación Regional en Tapachula.
 
-III. Delegación Yajalón.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+II. Delegación Regional en San Cristóbal de Las Casas.
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2008)</small>
+
+III. Delegación Regional en Yajalón.
 
 IV. Coordinación de Transportes Aéreos.
 
@@ -1113,7 +1171,7 @@ Dado en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tu
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Nelda R. Camacho Alayola, Secretaria de Administración.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE FEBRERO DE 2007.
 
@@ -1122,3 +1180,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día de su publicac
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- En cumplimiento a lo dispuesto en el artículo 8°, de la ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 19 DE MARZO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones de igualo menor jerarquía que el presente Decreto y se opongan al mismo.
