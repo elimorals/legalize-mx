@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-uso-del-escudo-del-municipio-othon-p-25398"
 country: "mx"
 rank: "reglamento"
 publication_date: "1978-06-23"
-last_updated: "1978-06-23"
+last_updated: "2008-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO PARA EL USO DEL ESCUDO DEL MUNICIPIO OTHÓN P. BLANCO CHETUMAL, QUINTANA ROO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE LAS CARACTERÍSTICAS Y EL USO DEL ESCUDO DEL MUNICIPIO DE OTHON P. BLANCO, QUINTANA ROO, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 23 de junio de 1978.
 
@@ -76,3 +78,13 @@ C. Hernán Pastrana Pastrana.- Rúbrica
 El Secretario del Ayuntamiento.
 
 Arq. Salvador Muñoz Lambarry.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento para el uso del Escudo del Municipio Othón P. Blanco Chetumal, Quintana Roo, publicado en el Periódico Oficial el 23 de Junio de 1978.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias, circulares y acuerdos de carácter municipal que contravengan el contenido del presente Reglamento.
