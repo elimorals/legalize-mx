@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-51731"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-26"
-last_updated: "2007-08-10"
+last_updated: "2008-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51731&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-12-01"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES, PUBLICADO EN EL D.O.F. DE 21 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de septiembre de 2006.
 
@@ -762,3 +764,25 @@ PRIMERO.- El presente Acuerdo entrará en vigor a partir del 29 de junio de 2007
 SEGUNDO.- Quedan sin efecto todas aquellas disposiciones administrativas que contravengan lo dispuesto en el presente Acuerdo.
 
 TERCERO.- Los asuntos que se encuentren en trámite derivados de las Convocatorias para ingresar o reingresar al Sistema Nacional de Investigadores 2006 y 2007, se sujetarán a lo dispuesto en el presente Acuerdo.
+
+D.O.F. 21 DE MARZO DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento publicado el 26 de septiembre de 2006 y sus modificaciones de fechas 7 de febrero y 10 de agosto de 2007.
+
+TERCERO.- El Consejo de Aprobación tomará las medidas correspondientes para efectuar convocatorias diferentes para los casos establecidos en las fracciones I y II del artículo 32, del presente Reglamento.
+
+CUARTO.- Para todos aquellos investigadores que presenten su solicitud de evaluación para ingreso al SNI bajo la convocatoria del año 2008, las distinciones y pagos de estímulos económicos entrarán en vigor el 1 de enero del año 2009.
+
+CUARTO (SIC).- Las modalidades de desarrollo científico y tecnológico a que se refiere el artículo 41 del Reglamento, como requisito de permanencia o promoción tendrán vigencia a partir de la convocatoria 2009 del SNI.
+
+QUINTO.- A los investigadores con distinción vigente que presenten solicitud de evaluación bajo la convocatoria 2008 y cuya distinción termine el 30 de junio de ese año, su distinción y estímulo económico serán extendidos hasta el 31 de diciembre de 2008. El mismo procedimiento se seguirá hasta regularizar a todos los investigadores del SNI que estén en un supuesto similar para otros años subsecuentes.
+
+SEXTO.- Los investigadores que actualmente ostentan la categoría de Investigadores Nacionales de Excelencia, conservarán los derechos adquiridos por el tiempo que dure su nombramiento.
+
+SEPTIMO.- Se faculta al Director del Sistema Nacional de Investigadores para conducir las negociaciones en el medio de las aseguradoras que operan en el país, a fin de obtener las mejores condiciones para que los miembros del Sistema que así lo deseen, contraten voluntariamente y en lo individual, el seguro de vida y de gastos médicos mayores o algún otro producto de dichas negociaciones. Una vez comunicada la selección de aseguramiento a la compañía de seguros de preferencia por los interesados, el Sistema Nacional de Investigadores, procederá a descontar del estímulo correspondiente, el importe de la prima del seguro a cada investigador contratante.
+
+OCTAVO.- Los asuntos que se encuentren en trámite antes de la entrada en vigor del presente Reglamento, se resolverán de conformidad con las disposiciones del Reglamento anterior.
+
+NOVENO.- Los derechos adquiridos al amparo del Reglamento abrogado, continuarán vigentes hasta su conclusión, en los términos del reconocimiento otorgado y de los convenios de asignación de recursos suscritos.
