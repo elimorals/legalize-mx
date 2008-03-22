@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2008-01-19"
+last_updated: "2008-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTEMOC
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DE 19 DE ENERO DE 2008]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1509,11 +1507,11 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2008)</small>
 
 ###### ARTICULO SEPTIMO.
 
-Para el ejercicio fiscal 2006, se amplia el plazo hasta el 30 de Abril del citado año, para los casos a que se refiere el Artículo 19 de la presente Ley.
+Para el ejercicio fiscal 2008, se amplia el plazo hasta el 30 de abril del citado año, para los casos a que se refiere el artículo 19 de la presente ley.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2007)</small>
 
@@ -1592,3 +1590,7 @@ P.O. 29 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 2008 previa su publicación en el Periódico Oficial "El Estado de Colima"
 
 SEGUNDO.- Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo párrafo del artículo 80, y último párrafo del 81, de esta ley, se amplía hasta el 15 de abril.
+
+P.O. 22 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
