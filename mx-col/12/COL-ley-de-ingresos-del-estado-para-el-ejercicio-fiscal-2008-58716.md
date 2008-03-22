@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-2008-58716"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-08"
-last_updated: "2008-03-01"
+last_updated: "2008-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2008
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2008.
 
 Ley publicada en el Suplemento No.1 al Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 2007.
 
@@ -377,13 +377,17 @@ Federativas. 153,679,000.00
 
 11.- Otros Ingresos Federalizados 0.00
 
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2008)</small>
+
 VIII.- INGRESOS
 
-EXTRAORDINARIOS 100,000,000.00
+EXTRAORDINARIOS 750'000,000.00
 
-1.- Empréstitos. 100,000,000.00
+1.- Empréstitos 750'000,000.00
 
-T O T A L. 6,180,000,000.00
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2008)</small>
+
+TOTAL 6,830,000,000.00
 
 ###### Artículo 2.
 
@@ -486,3 +490,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 1 DE MARZO DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE MARZO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se autoriza adicionar al monto de endeudamiento señalado en el numeral 1 de la fracción VIII, del artículo 1 que se reforma, los gastos, impuestos, comisiones, intereses y demás accesorios financieros que se generen por la contratación del mismo.
