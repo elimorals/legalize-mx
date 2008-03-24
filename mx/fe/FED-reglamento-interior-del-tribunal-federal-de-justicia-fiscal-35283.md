@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-352
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2006-02-21"
+last_updated: "2008-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35283&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-12-08"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 2008.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 19 de diciembre de 2003.
 
@@ -476,6 +476,14 @@ XX. Región del Caribe: Una Sala, que se denominará: Sala Regional del Caribe, 
 > <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO G/18/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 21 DE FEBRERO DE 2006)</small>
 
 XXI. Región del Pacífico-Centro: Una Sala, que se denominará: Sala Regional del Pacífico-Centro con sede en la ciudad de Morelia, Estado de Michoacán.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO G/17/2008 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 24 DE MARZO DE 2008)</small>
+
+###### Artículo 24 Bis.
+
+Adicionalmente habrá una Sala Regional en Materia de Propiedad Intelectual que tendrá competencia en todo el territorio nacional y sede en la Ciudad de México, Distrito Federal.
+
+Esta Sala Regional tendrá competencia material especializada para tramitar y resolver los juicios que se promuevan contra las resoluciones definitivas a que se refiere el artículo 14, fracciones XI y XII de la Ley, dictadas con fundamento en la Ley de la Propiedad Industrial, en la Ley Federal del Derecho de Autor, en la Ley Federal de Variedades Vegetales, así como en los demás ordenamientos que regulan la materia de Propiedad Intelectual.
 
 ###### Artículo 25.
 
@@ -1888,3 +1896,25 @@ D.O.F. 21 DE FEBRERO DE 2006.
 ACUERDO G/18/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
 EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 24 DE MARZO DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Sala Regional en Materia de Propiedad Intelectual que se crea mediante el presente Acuerdo, entrará en funciones una vez hechos los nombramientos de los Magistrados Supernumerarios de Sala Regional a que se refiere el artículo tercero transitorio de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+Efectuado lo anterior, el Tribunal adscribirá a tres Magistrados de Sala Regional a la Sala Especializada, que serán seleccionados atendiendo a su especialización y actualización en la aplicación de la materia de su competencia y, en su lugar, adscribirá provisionalmente a tres de los Magistrados Supernumerarios de Sala Regional a que se refiere el párrafo anterior, quienes ejercerán sus funciones hasta en tanto se realicen nuevos nombramientos de Magistrados de Sala Regional.
+
+TERCERO.- Una vez que entre en funciones la Sala Regional en Materia de Propiedad Intelectual, de conformidad con el artículo anterior, los juicios materia de su competencia existentes en las demás Salas Regionales, en el estado procesal en que se encuentren, le serán enviados para su conocimiento y total resolución, de acuerdo a lo siguiente:
+
+I. La Sala Regional que tenga radicado el juicio, lo remitirá a la Sala Regional en Materia de Propiedad Intelectual, previa notificación del cambio de radicación a las partes.
+
+II. En los juicios en que ya se hubiere cerrado la instrucción, el instructor ordenará reabrirla. En ese mismo acto proveerá el cambio de radicación y la notificación referida.
+
+III. En cualquier caso, se podrá solicitar a la Sala Superior la atracción de asuntos que sean representativos para fijar los criterios en materia de propiedad intelectual que permitan resolver los juicios con mayor celeridad, y
+
+IV. Las nuevas demandas se deberán presentar en la sede de la Sala Regional en Materia de Propiedad Intelectual, a través de su Oficialía de Partes o por correo certificado en términos del artículo 13 de la Ley Federal de Procedimiento Contencioso Administrativo. En caso de que se presenten en otra Sala Regional, ésta las deberá remitir a la Sala Regional en Materia de Propiedad Intelectual.
+
+CUARTO.- Los expedientes recibidos por la Sala Regional en Materia de Propiedad Intelectual, se distribuirán entre los tres Magistrados que la integren, de conformidad con el sistema aleatorio de turno en vigor.
+
+QUINTO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
