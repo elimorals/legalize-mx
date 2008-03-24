@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2008-02-18"
+last_updated: "2008-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2008.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -3279,7 +3279,7 @@ Las dependencias generadoras de documentos deberán conservarlos en sus archivos
 
 ###### ARTICULO 262.
 
-La transferencia que se haga al Archivo Municipal, solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envío de materiales de deshecho(sic), muebles y equipo de oficina.
+La transferencia que se haga al Archivo Municipal, solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envío de materiales de deshecho (sic), muebles y equipo de oficina.
 
 ###### ARTICULO 263.
 
@@ -7761,7 +7761,7 @@ IV Dar un trato digno al animal y en su momento la atención clínica veterinari
 
 En el transporte de los animales capturados y que sean potencialmente transmisores de la rabia se deberán de cubrir los siguientes requisitos mínimos:
 
-l. El exterior del transporte deberá indicar que se transporta un animal sujeto a observación por ser sospechoso portador de rabia;
+I. El exterior del transporte deberá indicar que se transporta un animal sujeto a observación por ser sospechoso portador de rabia;
 
 II. Las jaulas deben estar separadas de la cabina;
 
@@ -18295,13 +18295,17 @@ Discoteca es el lugar que opera con juego de luces y sonido, grabaciones y pista
 
 En los bares, centros nocturnos y discotecas se establecerá el cupo técnico de personas, conforme a las especificaciones de construcción, el cual se establece en la licencia respectiva, y cualquier sobrecupo será motivo de sanción.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 1748.
 
-En las tiendas de abarrotes, misceláneas se podrán vender bebidas alcohólicas previa licencia que para ello la expida el Director General de Gobierno y únicamente se venderá en botella cerrada, estando prohibido el consumo dentro del establecimiento, suspendiendo su venta a las 22:00 horas.
+En las tiendas de abarrotes, misceláneas, minisuper, supermercados, depósitos de cerveza, depósitos de vinos y licores se podrán vender bebidas alcohólicas previa licencia que para ello expida el Secretario del H. Ayuntamiento y Director General de Gobierno y únicamente se venderán en botella cerrada, estando prohibido el consumo dentro del establecimiento. El Horario autorizado para la venta de bebidas alcohólicas será de 10:00 a 22:00 horas.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 1749.
 
-En las cadenas comerciales se podrá vender bebidas alcohólicas previa licencia que para ello expida el Secretario del H. Ayuntamiento y Director General de Gobierno y únicamente se venderá en botella cerrada, estando prohibido el consumo dentro del establecimiento, suspendiendo su venta a las 24:00 horas.
+En las cadenas comerciales se podrán vender bebidas alcohólicas previa licencia que para ello expida el secretario del H. Ayuntamiento y Director General de Gobierno y únicamente se venderán en botella cerrada, estando prohibido el consumo dentro del establecimiento. El horario autorizado para la venta de bebidas alcohólicas será de las 10:00 a las 22:00 horas; el horario para la venta de abarrotes podrá ser durante las 24:00 horas.
 
 ###### ARTICULO 1750.
 
@@ -20256,3 +20260,9 @@ P.O. 18 DE FEBRERO DE 2008.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE MARZO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
