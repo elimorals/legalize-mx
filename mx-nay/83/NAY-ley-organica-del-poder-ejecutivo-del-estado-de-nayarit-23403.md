@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2007-12-28"
+last_updated: "2008-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -741,7 +741,9 @@ IV. Planear, organizar, desarrollar, vigilar y evaluar los servicios educativos 
 
 V. Promover y prestar los servicios de educación básica que dependen del Gobierno del Estado o sus organismos descentralizados con apego a la legislación Federal y Estatal vigentes;
 
-VI. Dirigir, operar y supervisar los servicios de educación básica, conforme a la legislación federal y estatal vigente,
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
+
+VI. Dirigir, operar y supervisar los servicios de educación básica y de educación normal, en las que resulte competentes de conformidad con el Acuerdo Nacional para la Modernización de la Educación Básica;
 
 VII. Formular o proponer los contenidos regionales y estatales que hayan de incluirse en los planes y programas de estudio para la educación inicial, preescolar, primaria y secundaria, para la formación de maestros de educación básica;
 
@@ -857,7 +859,9 @@ l. Proponer al Ejecutivo del Estado, las políticas y programas en materia de ed
 
 II. Dar cumplimiento a lo que establece en la Constitución General de la República, la propia del Estado, y las leyes que de ellas emanan, en los temas propios de esta Secretaría;
 
-III. Promover, otorgar, planear, organizar, desarrollar, vigilar y evaluar los servicios de educación media superior, superior e investigación científica y tecnológica, de la Administración Pública Centralizada o que dependan de sus organismos descentralizados, con apego a la legislación federal o a la estatal vigentes;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
+
+III. Promover, otorgar, planear, organizar, desarrollar, vigilar y evaluar los servicios de educación media superior, superior e investigación científica y tecnológica, con excepción de la educación normal a que se refiere el artículo 36 fracción VI;
 
 IV. En el marco de la planeación democrática, diseñar, operar y evaluar el programa estatal de desarrollo en educación media superior, superior e investigación científica y tecnológica, en los términos de la legislación vigente;
 
@@ -865,7 +869,9 @@ V. Constituir los consejos estatales para la planeación de las instituciones p�
 
 VI. Formular la política estatal en materia de atención a la juventud y organizar, dirigir, supervisar, administrar y coordinar los servicios que se dirijan a los jóvenes en el Estado de Nayarit;
 
-VII. Dirigir, operar y supervisar los servicios de educación normal, media superior y superior, técnica y niveles especiales, conforme a la legislación federal y estatal vigente;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
+
+VII. Dirigir, operar y supervisar los servicios de educación media superior, superior y técnica, así como a las instituciones de educación privada que impartan programas de formación de maestros de educación básica, conforme a la legislación federal y estatal vigente;
 
 VIII. Formular y proponer los contenidos regionales y estatales que hayan de incluirse en los planes y programas de estudio para la normal, la educación media superior, superior, e investigación científica y tecnológica y promover la creación de posgrados que fomenten la investigación regional, nacional y con visión universal;
 
@@ -913,9 +919,13 @@ XXIX. Revalidar los estudios, diplomas, grados o títulos equivalentes a la ense
 
 XXX. Autorizar, con el acuerdo del Titular del Ejecutivo, los nombramientos de los servidores públicos adscritos presupuestalmente a la Secretaría, así como los permisos que deban otorgarse en términos de la legislación vigente;
 
-XXXI. Desarrollar programas de actualización del personal directivo y magisterial;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
 
-XXXII. Mantener al corriente el escalafón del magisterio y crear un sistema de estímulos y recompensas a la labor educativa, de conformidad con la legislación vigente;
+XXXI. Desarrollar programas de actualización del personal directivo y magisterial, dependiente de esta Secretaría;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
+
+XXXII. Mantener al corriente el escalafón del magisterio dependiente de esta Secretaría y crear un sistema de estímulos y recompensas a la labor educativa, de conformidad con la legislación vigente;
 
 XXXIII. Constituir el Sistema Estatal de Actualización, Capacitación y Superación Profesional para Maestros;
 
@@ -1718,3 +1728,7 @@ SEXTO: Cuando la ley haga referencia a alguna atribución conferida a la actual 
 SÉPTIMO: Los servidores públicos adscritos a la actual Secretaría de Educación Pública, no resultarán afectados en sus derechos laborales adquiridos, al incorporarse a las nuevas dependencias.
 
 OCTAVO: Se autoriza la creación de las plazas indispensables para el funcionamiento y operatividad, de las dependencias que se crean.
+
+P.O. 25 DE MARZO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
