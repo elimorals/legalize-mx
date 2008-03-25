@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5867
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2007-12-22"
+last_updated: "2008-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2008.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2007.
 
@@ -1097,9 +1097,11 @@ El sujeto obligado que atente contra el ejercicio del derecho de acceso a la inf
 
 A quien debiendo nombrar e integrar la Unidad de Enlace y al Comité de Información, no lo hiciere dentro de los diez días hábiles siguientes al que se actualice la hipótesis para proceder en consecuencia, se le sancionará con amonestación pública y multa de doscientos a trescientos días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2008)</small>
+
 ###### Artículo 94.
 
-Si el sujeto obligado de cuyo cargo depende la difusión de la información pública fundamental, no la difundiere, será sancionado con multa de diez a cien días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit. Si la conducta se repite será aumentada proporcionalmente hasta en un cien por ciento en cada ocasión, a juicio del Instituto.
+Si el sujeto obligado de cuyo cargo depende la difusión de la información pública fundamental, no la difundiere, será sancionado con multa de cincuenta a trescientos días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit. Si la conducta se repite será aumentada proporcionalmente hasta en un cien por ciento en cada ocasión, a juicio del Instituto.
 
 ###### Artículo 95.
 
@@ -1109,9 +1111,11 @@ A quien debiéndolo hacer, no guarde con el debido cuidado la información que p
 
 Al sujeto obligado que se desempeñe con negligencia, dolo o mala intención en la sustanciación de las solicitudes de acceso o de las solicitudes de corrección o modificación de datos personales, o entregue información de manera incompleta, se le sancionará con multa de cien a trescientos días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2008)</small>
+
 ###### Artículo 97.
 
-Al sujeto obligado que se desempeñe con negligencia, dolo o mala intención en la sustanciación o ejecución de los recursos de revisión, se le sancionará con multa de trescientos días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit.
+Al sujeto obligado que se desempeñe con negligencia, dolo o mala intención en la sustanciación o ejecución de los recursos de revisión, se le sancionará con multa de cincuenta a trescientos días de salario mínimo, vigente en la región económica en que esta comprendido el Estado de Nayarit.
 
 ###### Artículo 98.
 
@@ -1125,9 +1129,11 @@ El sujeto obligado que no cumpla de manera expedita las resoluciones del Institu
 
 Al que recabe datos personales que no resulten indispensables para el cumplimiento de sus funciones, será sancionado con multa de doscientos a trescientos días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2008)</small>
+
 ###### Artículo 101.
 
-Al sujeto obligado que comercialice con datos personales que obren en los archivos a su alcance, será sancionado con multa de trescientos días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit.
+Al sujeto obligado que comercialice con datos personales que obren en los archivos a su alcance será sancionado con multa de cincuenta a trescientos días de salario mínimo, vigente en la región económica en que está comprendido el Estado de Nayarit.
 
 ###### Artículo 102.
 
@@ -1186,3 +1192,9 @@ Dado en la Sala de Sesiones "Lic. Benito Juárez" recinto oficial de este Honora
 Dip. Jocelyn Patricia Fernández Molina, Presidente.- Rúbrica.- Dip. Silvia Cortés Valdivia, Secretaria.- Rúbrica.- Dip. Angélica C. del Real Chávez, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los diecinueve días del mes de diciembre del año dos mil siete.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE MARZO DE 2008.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
