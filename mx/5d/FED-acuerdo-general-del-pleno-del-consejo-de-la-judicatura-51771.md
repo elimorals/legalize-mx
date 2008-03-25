@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51771"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2007-05-18"
+last_updated: "2008-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MARZO DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -203,9 +203,11 @@ El servidor público sujeto al procedimiento y, en su caso, el denunciante podr�
 
 El autorizado, una vez que haya aceptado el cargo expresa o tácitamente, no podrá renunciar a éste sin que quede debidamente substituido. Se entenderá que hay aceptación tácita de la autorización cuando hubiere realizado cualquier acto en representación del servidor público sujeto al procedimiento.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL ARTICULO 21 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 25 DE MARZO DE 2008)</small>
+
 ###### Artículo 21.
 
-En los procedimientos de responsabilidad administrativa ningún servidor público podrá ser representado por otro servidor público del Poder Judicial de la Federación.
+En los procedimientos de responsabilidad administrativa ningún servidor público podrá ser representado por otro servidor público del Poder Judicial de la Federación, a menos que se trate de servidores públicos con licencia para cumplir comisiones sindicales en el Sindicato de Trabajadores del Poder Judicial de la Federación.
 
 ###### Artículo 22.
 
@@ -1432,6 +1434,14 @@ SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Se
 TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo y al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, según corresponda.
 
 D.O.F. 18 DE MAYO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
+
+D.O.F. 25 DE MARZO DE 2008.
 
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
