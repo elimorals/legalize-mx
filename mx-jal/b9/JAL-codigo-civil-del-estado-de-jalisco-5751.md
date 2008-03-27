@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2007-11-13"
+last_updated: "2008-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -4059,11 +4059,11 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal de tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2008)</small>
 
 ###### Art. 639.
 
-El Consejo Estatal de la Familia en forma directa, o a través de sus delegados, de manera institucional desempeñará el cargo de tutor, como atribución propia, sin necesidad de discernimiento del cargo:
+El Consejo de Familia, sea estatal, municipal o intermunicipal, en forma directa y de manera institucional, desempeñara el cargo de tutor, sin necesidad de discernimiento del cargo:
 
 I. De los expósitos;
 
@@ -4072,6 +4072,10 @@ II. De los menores abandonados sean estos huérfanos, expuestos por el titular d
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE FEBRERO DE 2007)</small>
 
 III. De los menores no sujetos a patria potestad o a tutela, o cuando quienes ejercen la patria potestad sean ilocalizables, y que se encuentren internados en casas de asistencia, instituciones educativas ya sean estas públicas, descentralizadas de organismos de asistencia y de seguridad social o privados, los internados en inclusas (sic), hospicios y demás casa (sic) de beneficencia.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2008)</small>
+
+El Consejo Estatal de Familia podrá además, en los términos de este artículo, realizar la función de tutor a través de sus delegados.
 
 ### CAPITULO VII. De las excusas para el desempeño de la tutela
 
@@ -17912,3 +17916,7 @@ P.O. 23 DE OCTUBRE DE 2007.
 P.O. 13 DE NOVIEMBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE MARZO DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
