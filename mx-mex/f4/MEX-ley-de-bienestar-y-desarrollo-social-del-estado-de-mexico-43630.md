@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2008-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 27 DE MARZO DE 2008.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -57,11 +57,21 @@ II. Garantizar el derecho igualitario e incondicional de toda la población al d
 
 III. Superar la pobreza, la marginación y la exclusión social;
 
-IV. Establecer las bases para un desarrollo social integral; garantizando la evaluación del impacto de los programas de desarrollo social;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 27 DE MARZO DE 2008)</small>
 
-V. Garantizar la inclusión social y determinar las bases para la promoción y participación social organizada y para su vinculación con los programas, estrategias y recursos gubernamentales para el desarrollo social;
+IV. Diseñar y promover políticas públicas subsidiarias que ayuden a la superación de la pobreza;
 
-VI. Asegurar la transparencia en la ejecución de los programas y aplicación de los recursos para el desarrollo social a través de mecanismos de supervisión, verificación, control y acceso a la información pública.
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+V. Establecer las bases para un desarrollo social integral; garantizando la evaluación del impacto de los programas de desarrollo social;
+
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+VI. Garantizar la inclusión social y determinar las bases para la promoción y participación social organizada y para su vinculación con los programas, estrategias y recursos gubernamentales para el desarrollo social;
+
+> <small>(ADICIONADA, G.G. 27 DE MARZO DE 2008)</small>
+
+VII. Asegurar la transparencia en la ejecución de los programas y aplicación de los recursos para el desarrollo social a través de procedimientos de aprobación incluidos en las reglas de operación, supervisión, verificación, control y acceso a la información pública.
 
 ###### Artículo 3.
 
@@ -69,7 +79,9 @@ Para los efectos de la presente ley se entenderá por:
 
 I. Desarrollo Social: Como el proceso de mecanismos y políticas públicas permanente que genera las condiciones para la integración plena de individuos, grupos y sectores de la sociedad, comunidades y regiones al mejoramiento integral y sustentable de sus capacidades productivas y su calidad de vida que garantice el disfrute de los derechos constitucionales, a fin de erradicar la desigualdad social;
 
-II. Política Social: Conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el desarrollo sostenible y con equidad que se transforme en bienestar y calidad de vida para la sociedad;
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+II. Política Social: Conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera subsidiaria y no asistencial integral y con una visión común, articulan procesos que potencien y garanticen el desarrollo sostenible y con equidad que se transforme en bienestar y calidad de vida para la sociedad;
 
 III. Ley: La presente Ley de Desarrollo Social del Estado de México;
 
@@ -81,27 +93,87 @@ VI. Secretaría: La Secretaría de Desarrollo Social del Estado de México;
 
 VII. Beneficiarios: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social;
 
-VIII. Pobreza: A la carencia de lo necesario para el sustento de la vida por la baja capacidad de ingreso o condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de bienestar;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 27 DE MARZO DE 2008)</small>
 
-IX. Marginación: A la dinámica mediante la cual las personas se encuentran fuera del acceso y disponibilidad de bienes, servicios y opciones para el desarrollo social;
+VIII. Manual Ciudadano: Compendio de programas sociales que realiza la Secretaría de Desarrollo Social, donde queda explícito la forma en que funcionan y cómo se puede acceder a cada uno de ellos, y que contiene las reglas de operación;
 
-X. COPLADEM: Al Comité de Planeación para el Desarrollo del Estado de México regulado por la Ley de Planeación del Estado de México y Municipios y su Reglamento;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 27 DE MARZO DE 2008)</small>
 
-XI. COPLADEMUM: Al Comité de Planeación para el Desarrollo Municipal regulado en la Ley de Planeación del Estado de México y Municipios y su Reglamento;
+IX. Reglas de operación: Documento normativo que establece aspectos técnicos y operativos en materias específicas, tiene como propósito establecer medidas de carácter técnico-operativo de una actividad; debe emitirse para ordenar y coordinar las actividades del programa social al que se refiere en un contexto determinado y deben contener:
 
-XII. Registro Social: A la base de datos de la sociedad que en coordinación con las autoridades estatales y municipales contribuyen al desarrollo y/o a la asistencia social en la entidad;
+a) Objetivo: Explica el por qué o para qué de la regla.
 
-XIII. Equidad de Género: A la construcción cultural que se hace a partir de la diferencia de sexos y que da lugar a una serie de valores, atributos y roles distintos para hombres y mujeres;
+b) Fundamento legal: señala los ordenamientos jurídicos en que se sustenta la regla (incluyendo artículos, fracciones, apartados, incisos según corresponda y artículos transitorios) que establecen las actividades y los procesos previos o simultáneos que deben cumplirse para la aplicación de la regla.
 
-XIV. Auditor Especial: Al Auditor Especial de programas del Órgano Superior de Fiscalización;
+c) Ámbito de aplicación: Define a las personas u organismos responsables de cumplir la regla o de la aplicación de la regla; y en su caso también define el territorio en el cual resulta aplicable.
 
-XV. Zonas de Atención Prioritaria: Las áreas o regiones de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley;
+d) Vigencia: Indica la fecha a partir de la cual la regla tiene validez, así como el período en el cuál será aplicable.
 
-XVI. Zonas de Atención Inmediata: Las áreas o regiones de carácter predominantemente rural o urbano, cuya población requiera de ejecución inmediata de alguno o algunos de los programas de desarrollo social;
+e) Disposiciones generales: Descripción de aspectos técnicos y operativos específicos de la regla, así como la mecánica de operación, funciones y actividades que deberán realizar cada uno de los servidores públicos o unidades administrativas correspondientes.
 
-XVII. Padrón: Relación oficial de beneficiarios que incluye a las personas habitantes del Estado, atendidas por los programas, municipales, estatales y federales de desarrollo social;
+f) Indicadores: Definen los parámetros para la evaluación y monitoreo de la aplicación de la regla.
 
-XVIII. El Consejo: El Consejo de Cooperación para el Desarrollo Social del Estado de México.
+g) Emisor(es), Fecha y firma; Datos de la dependencia o entidad emisora, (incluyendo nombre completo y cargo del servidor público facultado), fecha y firma.
+
+h) Auditoría y control; Designación del organismo encargado de vigilar el cumplimiento de los plazos y las especificaciones establecidas en la regla.
+
+i) Anexos: incluye información necesaria para la aplicación de la regla, por ejemplo formatos e instructivos.
+
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+X. Pobreza: A la carencia de lo necesario para el sustento de la vida por la baja capacidad de ingreso o condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de bienestar, existiendo tres tipos de pobreza:
+
+a) Pobreza Alimentaria: Son hogares cuyo ingreso por persona es menor al necesario para cubrir las necesidades de alimentación y el consumo de la canasta básica.
+
+b) Pobreza de capacidades: Son hogares cuyo ingreso por persona es menor al necesario para cubrir las necesidades básicas de salud, educación, vestido y calzado.
+
+> <small>(F. DE E., G.G. 26 DE MAYO DE 2008)</small>
+
+c) Pobreza patrimonial: Son hogares cuyo ingreso por persona es menor al necesario para cubrir las necesidades de vivienda y transporte público.
+
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XI. Marginación: A la dinámica mediante la cual las personas se encuentran fuera del acceso y disponibilidad de bienes, servicios y opciones para el desarrollo social;
+
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XII. COPLADEM: Al Comité de Planeación para el Desarrollo del Estado de México regulado por la Ley de Planeación del Estado de México y Municipios y su Reglamento;
+
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XIII. COPLADEMUM: Al Comité de Planeación para el Desarrollo Municipal regulado en la Ley de Planeación del Estado de México y Municipios y su Reglamento;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 27 DE MARZO DE 2008)</small>
+
+XIV. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XV. Registro Social: A la base de datos de la sociedad que en coordinación con las autoridades estatales y municipales contribuyen al desarrollo y/o a la asistencia social en la entidad;
+
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XVI. Equidad de Género: A la construcción cultural que se hace a partir de la diferencia de sexos y que da lugar a una serie de valores, atributos y roles distintos para hombres y mujeres;
+
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XVII. Auditor Especial: Al Auditor Especial de programas del Órgano Superior de Fiscalización;
+
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XVIII. Zonas de Atención Prioritaria: Las áreas o regiones de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagas en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley;
+
+> <small>(ADICIONADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XIX. Zonas de Atención Inmediata: Las áreas o regiones de carácter predominantemente rural o urbano, cuya población requiera de ejecución inmediata de alguno o algunos de los programas de desarrollo social;
+
+> <small>(ADICIONADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XX. Padrón: Relación oficial de beneficiarios que incluye a las personas habitantes del Estado, atendidas por los programas, municipales, estatales y federales de desarrollo social;
+
+> <small>(ADICIONADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XXI. El Consejo: El Consejo de Cooperación para el Desarrollo Social del Estado de México.
 
 ### CAPITULO II. DE LOS DERECHOS SOCIALES
 
@@ -187,7 +259,9 @@ VII. Obras de infraestructura para agua potable, drenaje, electrificación, cami
 
 Para efectos de la presente Ley, se consideran como grupos o sectores que merecen especial atención en la elaboración, ejecución, seguimiento y evaluación de la Política Estatal y Municipal de Desarrollo Social los siguientes:
 
-I. Las regiones, municipios, microrregiones, zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de los objetivos de la política de desarrollo social;
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+I. Las regiones, municipios, microrregiones, zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de los objetivos de la política de desarrollo social con especial referencia en la pobreza de capacidades o alimentaria;
 
 II. A la población indígena, mujeres, niños y adolescentes, adultos mayores, personas con capacidades diferentes o que se encuentren en situación de vulnerabilidad social;
 
@@ -213,7 +287,9 @@ VII. Determinar las zonas de atención prioritaria e inmediata en el Estado;
 
 VIII. Integrar y administrar el registro social y el padrón único de beneficiarios;
 
-IX. Informar a la sociedad sobre las acciones en torno al desarrollo social;
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+IX. Informar a la sociedad, a través del Manual Ciudadano, los programas y acciones en torno al desarrollo social;
 
 X. Fomentar la participación de instituciones académicas, de investigación, organizaciones no gubernamentales y de la sociedad en general en la creación, desarrollo e instrumentación de estrategias y programas de desarrollo social;
 
@@ -235,7 +311,9 @@ IV. Presupuestar anualmente en materia de desarrollo social;
 
 V. Recabar información de los beneficiarios para la integración del padrón;
 
-VI. Informar a la sociedad sobre las acciones, políticas y programas de desarrollo social;
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+VI. Informar a la sociedad, a través del Manual Ciudadano, las acciones, políticas y programas de desarrollo social;
 
 VII. Concertar acciones con los sectores público, social y privado en materia de desarrollo social;
 
@@ -253,6 +331,10 @@ La planeación del desarrollo social de la entidad, se hará bajo las bases del 
 
 El Ejecutivo Estatal elaborará la planeación de la política estatal de Desarrollo Social con apego a la Ley de Planeación y a los lineamientos del COPLADEM, atendiendo los criterios del Instituto de Información Investigación Geográfica, Estadística y Catastral de Estado de México, Consejo Estatal de Población, Centro de Estudios sobre Marginación y Pobreza del Estado de México; así como los datos que al efecto emita el Consejo.
 
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
+
+Artículo 16 bis.- Promover el Manual Ciudadano como medio oficial para publicitar las acciones, políticas y Programas de Desarrollo Social.
+
 ###### Artículo 17.
 
 Para instrumentar programas en materia de desarrollo social, se deberá contar con:
@@ -263,13 +345,17 @@ II. Los principios de la Política de Desarrollo Social establecidos en esta Ley
 
 III. La inclusión de unidades administrativas responsables de la operación de los programas;
 
-IV. Los lineamientos para la implementación, seguimiento y evaluación de los programas para el desarrollo social; y
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+IV. Las reglas de operación para la implementación, seguimiento y evaluación de los programas para el desarrollo social; y
 
 V. Las estrategias para la vinculación, coordinación y concertación de acciones para el desarrollo social.
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
+
 ###### Artículo 18.
 
-El Gobierno del Estado deberá publicar en el periódico oficial Gaceta del Gobierno y difundir los lineamientos y requisitos de los Programas de Desarrollo Social, los convenios de coordinación con las autoridades federales y municipales e incluir la siguiente leyenda "Este programa es público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al Desarrollo Social. Quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado ante las autoridades conforme a lo que dispone la Ley de la materia".
+El Gobierno del Estado deberá publicar en el periódico oficial Gaceta del Gobierno y difundir las reglas de operación de los Programas de Desarrollo Social, los convenios de coordinación con las autoridades federales y municipales e incluir la siguiente leyenda "Este programa es público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al Desarrollo Social. Quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado ante las autoridades conforme a lo que dispone la Ley de la materia".
 
 ###### Artículo 19.
 
@@ -293,7 +379,9 @@ I. Detalladamente las partidas presupuestales específicas para los programas de
 
 II. El nombre de los programas a que se destinarán; y
 
-III. Los lineamientos y requisitos para acceder a los programas sociales.
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+III. Las reglas de operación para acceder a los programas sociales.
 
 ###### Artículo 23.
 
@@ -301,9 +389,11 @@ Los recursos destinados al desarrollo social podrán complementarse con recursos
 
 ### CAPITULO IV. DEL FONDO SOCIAL
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
+
 ###### Artículo 24.
 
-En el Presupuesto de Egresos del Gobierno del Estado de México, se preverá un Fondo de Contingencia Social a cargo del Ejecutivo Estatal por conducto de la Secretaría y se determinará el monto y los lineamientos a las que quedará sujeta su distribución y aplicación, incluyendo las previsiones correspondientes para garantizar que los recursos del fondo sean utilizados en el ejercicio fiscal como respuesta a fenómenos económicos y presupuestales imprevistos.
+En el Presupuesto de Egresos del Gobierno del Estado de México, se preverá un Fondo de Contingencia Social a cargo del Ejecutivo Estatal por conducto de la Secretaría y se determinará el monto y las reglas de operación a las que quedará sujeta su distribución y aplicación, incluyendo las previsiones correspondientes para garantizar que los recursos del fondo sean utilizados en el ejercicio fiscal como respuesta a fenómenos económicos y presupuestales imprevistos.
 
 ###### Artículo 25.
 
@@ -323,9 +413,11 @@ Los programas financiados a través del fondo deberán ser puestos a consideraci
 
 La Secretaría y los ayuntamientos fomentarán el derecho de la sociedad a participar de manera activa y corresponsable en la planeación, ejecución, evaluación y supervisión de la política social.
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
+
 ###### Artículo 27.
 
-Las dependencias estatales y municipales encargadas de desarrollo social promoverán y propiciarán la organización social, como el medio idóneo de acercar programas, servicios y acciones del desarrollo humano colectivo.
+Las dependencias estatales y municipales encargadas de desarrollo social promoverán y propiciarán la organización social, como el medio idóneo de acercar el manual ciudadano, conteniendo los programas, servicios y acciones tendientes al desarrollo humano colectivo.
 
 ###### Artículo 28.
 
@@ -367,11 +459,25 @@ I. Establecer y administrar un sistema de información y datos de la sociedad or
 
 II. Contar con bases de datos fidedignas que permitan medir el impacto de la promoción y participación social para el desarrollo social;
 
-III. Reconocer oficialmente las acciones que lleve a cabo la sociedad organizada para el otorgamiento de apoyos y estímulos públicos;
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+III. Reconocer oficialmente las acciones que lleve a cabo la sociedad organizada para el otorgamiento de apoyos y estímulos públicos; las asociaciones civiles y/o grupos sociales a los cuales se les otorguen estos estímulos deberán atender a los siguientes criterios:
+
+a) Que cumplan o hayan cumplido con todos los requisitos estipulados en el artículo 34 de la presente ley.
+
+> <small>(F. DE E., G.G. 26 DE MAYO DE 2008)</small>
+
+b) Que cuenten con la constancia de la instancia evaluadora.
 
 IV. Ofrecer los elementos de información social que garanticen la interacción corresponsable de datos con la debida transparencia para la aplicación de recursos públicos ejercidos por la sociedad; y
 
-V. Dar seguimiento a las acciones y cumplimiento de responsabilidades de la sociedad organizada que manejen o administren recursos públicos para el desarrollo social en la entidad.
+(REFORMADA, G.G. 27 DE MARZO DE 2008) (F. DE E., P.O. 26 DE MAYO DE 2008)
+
+V. Dar seguimiento a las acciones y cumplimiento de responsabilidades de la sociedad organizada que manejen o administren recursos públicos para el desarrollo social en la entidad, a través del siguiente criterio:
+
+> <small>(F. DE E., G.G. 26 DE MAYO DE 2008)</small>
+
+a) El proceso de ejecución de apoyo o estímulo en base al programa presentado deberá contener una etapa de evaluación en la que se valoran cualitativa y cuantitativamente los apoyos otorgados con respecto a los objetos y metas establecidos.
 
 ###### Artículo 34.
 
@@ -437,13 +543,17 @@ El Gobierno del Estado y los Municipios, en sus ámbitos de competencia, integra
 
 El padrón será administrado y actualizado por la Secretaría y podrá ser remitido al Consejo a solicitud de éste.
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
+
 ###### Artículo 40.
 
-El Ejecutivo Estatal por conducto de la Secretaría, dará a conocer y publicará en el periódico oficial "Gaceta del Gobierno", los lineamientos generales para la integración y actualización del padrón de beneficiarios.
+El Ejecutivo Estatal por conducto de la Secretaría, dará a conocer y publicará en el periódico oficial "Gaceta del Gobierno", las reglas de operación para la integración y actualización del padrón de beneficiarios.
+
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
 
 ###### Artículo 41.
 
-Los Ayuntamientos determinarán en sesión de cabildo, los lineamientos y requisitos para la integración y actualización del padrón de beneficiarios de los programas municipales, instruyendo la difusión correspondiente.
+Los Ayuntamientos determinarán en sesión de cabildo, las reglas y requisitos para la integración y actualización del padrón de beneficiarios de los programas municipales, instruyendo la difusión correspondiente.
 
 ### CAPITULO II. DE LOS ORGANOS DEL DESARROLLO SOCIAL
 
@@ -457,7 +567,9 @@ II. Recibir por parte de los oferentes de programas sociales un trato oportuno, 
 
 III. Solicitar su inclusión, participación y acceso en los programas sociales;
 
-IV. Recibir los servicios y prestaciones de los programas conforme a sus lineamientos generales y requisitos, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada; y
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+IV. Recibir los servicios y prestaciones de los programas conforme a sus reglas de operación, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada; y
 
 V. Presentar denuncias y quejas por el incumplimiento de esta ley.
 
@@ -469,7 +581,9 @@ I. Proporcionar la información socioeconómica que le sea requerida por las dep
 
 II. Participar corresponsablemente en los programas de desarrollo social a que tengan acceso;
 
-III. Cumplir la normatividad y requisitos de los programas de desarrollo social;
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+III. Cumplir las reglas de operación de los programas de desarrollo social;
 
 IV. Informar a la instancia correspondiente si se es beneficiario de dos o más programas federales, estatales o municipales; y
 
@@ -531,9 +645,17 @@ IV. Someter a consideración del Ejecutivo Estatal las zonas de atención priori
 
 V. Fomentar el establecimiento de un sistema de información estadística e indicadores desagregados y diferenciados en todas las dependencias y organismos gubernamentales que contribuyen al desarrollo social de la entidad;
 
-VI. Promover y ejecutar por sí o con la participación de los diversos órdenes de gobierno y de la sociedad programas para el desarrollo social, y
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
 
-VII. Generar la interacción de los diversos sectores de la sociedad, para contribuir en la implementación de programas productivos y de financiamiento para el desarrollo social.
+VI. Promover y ejecutar por si o con la participación de los diversos órdenes de gobierno y de la sociedad el manual ciudadano conteniendo los programas para el desarrollo social;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 27 DE MARZO DE 2008)</small>
+
+VII. Elaborar y actualizar, las reglas de operación de los Programas de Desarrollo Social; y
+
+> <small>(ADICIONADA, G.G. 27 DE MARZO DE 2008)</small>
+
+VIII. Generar la interacción de los diversos sectores de la sociedad, para contribuir en la implementación de programas productivos y de financiamiento para el desarrollo social.
 
 ### CAPITULO I. CONTRALORIA SOCIAL
 
@@ -679,7 +801,9 @@ I. Nombre o razón social y domicilio del denunciante o en su caso del represent
 
 II. La descripción de los actos, hechos u omisiones denunciados;
 
-III. Los datos que permitan identificar a la presunta autoridad, funcionario infractos (sic) o responsable; y
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+III. Los datos que permitan identificar a la presunta autoridad, funcionario infractor o responsable; y
 
 IV. Las pruebas que ofrezca el denunciante.
 
@@ -732,3 +856,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 27 DE MARZO DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO.- El Ejecutivo del Estado en un plazo no mayor a cuarenta y cinco días hábiles, contados a partir de la entrada en vigor del presente decreto, realizará las adecuaciones pertinentes a los Reglamentos y Acuerdos de la materia.
