@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2007-12-26"
+last_updated: "2008-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -5179,9 +5179,13 @@ Los contribuyentes tendrán la obligación de presentar la declaración de pago 
 
 La parte de los ingresos de la Comisión del Agua del Estado de México que exceda el límite autorizado para el mes que corresponda, se deberá enterar a la Caja General de Gobierno del Estado.
 
+> <small>(REFORMADO [N. DE E., ADICIONADO], G.G. 27 DE MARZO DE 2008)</small>
+
 ###### Artículo 95 Bis.
 
-(DEROGADO, G.G. 29 DE DICIEMBRE DE 2006)
+La Comisión del Agua del Estado de México, para efectos de las solicitudes de retención y pago de derechos y aprovechamientos por concepto de agua, a que se refieren los artículos 51 de la Ley de Coordinación Fiscal y 230 B de este ordenamiento, deberá entregar a la Comisión Nacional del Agua durante los primeros 10 días de cada mes, un informe sobre los volúmenes de agua suministrada a los municipios, incluyendo sus organismos operadores de agua.
+
+En caso de que la Comisión Nacional del Agua considere que existe alguna diferencia entre los volúmenes suministrados o adeudos informados, lo hará del conocimiento de la Comisión del Agua del Estado de México a fin de que en su caso se lleven al cabo los ajustes correspondientes.
 
 ###### Artículo 96.
 
@@ -7809,7 +7813,7 @@ TARIFA
 
 II. Alcantarillado:
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 TARIFA
 
@@ -11026,6 +11030,52 @@ Los fondos a los que se refieren las fracciones I, II, VI y VIII del artículo a
 ###### Artículo 230.
 
 Los fondos señalados en las fracciones III, IV, V y VII del artículo 228 de este Código, serán destinados exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de la población que se encuentren en condiciones de rezago social y de pobreza extrema, en los rubros de agua potable incluyendo las obligaciones de pago de derechos y aprovechamientos por este concepto, alcantarillado, drenaje, letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, caminos rurales e infraestructura productiva rural; a la satisfacción de los requerimientos de los municipios, prioritariamente al cumplimiento de sus obligaciones financieras y a la atención de necesidades de seguridad pública; otorgamiento de desayunos escolares, apoyos alimentarios y de asistencia social a la población, así como a la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica y superior en su modalidad universitaria, respectivamente.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
+
+###### Artículo 230-A.
+
+Para efectos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal, se entenderá por:
+
+l. Obligaciones de pago de derechos y aprovechamientos por concepto de agua.- Los pagos que deban realizar los municipios, incluyendo sus organismos operadores de agua, a la Comisión Nacional del Agua del derecho por el uso, aprovechamiento o explotación de aguas nacionales de conformidad con la Ley Federal de Derechos y por el aprovechamiento por el suministro de agua en bloque en términos de la Ley de Ingresos de la Federación. Asimismo, los pagos que deban realizarse por el suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua por la Comisión de Agua del Estado de México.
+
+II. Incumplimiento.- La falta de pago total o parcial de las obligaciones a que se refiere la fracción I del presente artículo, que deban realizar los municipios, incluyendo sus organismos operadores de agua.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
+
+###### Artículo 230-B.
+
+En caso de incumplimiento, de conformidad con lo previsto en los artículos 51 de la Ley de Coordinación Fiscal y 230 A del Código, la Comisión Nacional del Agua podrá solicitar al Gobierno del Estado, a través de la Secretaría, previa acreditación del incumplimiento, la retención y pago de los adeudos correspondientes con cargo a los recursos del Fondo previsto en la fracción IV del artículo 228 del presente ordenamiento que correspondan al municipio de que se trate. Para tal efecto, la Comisión Nacional del Agua, en términos de lo previsto en el segundo párrafo del artículo 51 de la Ley de Coordinación Fiscal, sólo podrá solicitar la retención y pago señalados cuando los adeudos tengan una antigüedad mayor de 90 días naturales.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
+
+###### Artículo 230-C.
+
+Para acreditar el incumplimiento, la Comisión Nacional del Agua deberá enviar a la Secretaría por escrito la relación de adeudos de cada uno de los municipios, incluyendo sus organismos operadores de agua, por cada una de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
+
+###### Artículo 230-D.
+
+Tratándose de adeudos de los municipios y/o de sus organismos operadores a la Comisión del Agua del Estado de México, ésta deberá proporcionar a la Comisión Nacional del Agua, dentro de los primeros cinco días hábiles del mes inmediato siguiente al de la fecha a la que corresponda el cobro, una relación de los mismos para efectos de incluirlos en la solicitud de retención y pago a que se refiere el artículo 230 B del Código.
+
+En caso de que la relación referida en el párrafo precedente no sea entregada a la Comisión Nacional de Agua en el plazo previsto, ésta no incluirá la retención y pago de los adeudos a favor de la Comisión del Agua del Estado de México a que se refiere el párrafo anterior.
+
+Salvo lo dispuesto en el párrafo precedente, la solicitud de retención y pago comprenderá la totalidad de adeudos a cargo del municipio y/o sus organismos operadores de que se trate, a favor de la Comisión Nacional del Agua y/o de la Comisión del Agua del Estado de México, con la instrucción de pagar de manera directa al acreedor que corresponda.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
+
+###### Artículo 230-E.
+
+La Secretaría deberá efectuar los depósitos correspondientes a las retenciones y pagos a que se refiere el artículo 230 B del Código, dentro de los 5 días siguientes a la realización de la afectación correspondiente.
+
+En caso de que los recursos del Fondo previsto en la fracción IV del artículo 228 del presente ordenamiento no sean suficientes para cubrir las obligaciones de pago de derechos y aprovechamientos por concepto de agua que correspondan a la Comisión Nacional del Agua y a la Comisión de Agua del Estado de México, la Secretaría efectuará los depósitos de manera proporcional a los montos solicitados. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras de dicho Fondo.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
+
+###### Artículo 230-F.
+
+La Comisión del Agua del Estado de México podrá ceder, afectar y en términos generales transferir los recursos derivados de la retención a que se refiere el artículo 230 D del Código, por la parte del adeudo que le sea propio, a fideicomisos u otros mecanismos de fuente de pago o de garantía, constituidos para el financiamiento de infraestructura hidráulica.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -14280,3 +14330,33 @@ OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto 
 NOVENO.- Las Secretarías de la Contraloría, de Finanzas y de Transporte, proveerán lo necesario para el cumplimiento de los artículos Segundo y Cuarto del presente Decreto.
 
 DÉCIMO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente Decreto en las unidades administrativas de la Secretaría de Transporte, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura orgánica autorizada y a este Decreto.
+
+G.G. 27 DE MARZO DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo previsto en la fracción IV del artículo 228 del Código Financiero del Estado de México y Municipios, que correspondan al municipio y/o a sus organismos operadores de agua, a que se refieren los artículos 230 B, 230 D y 230 E del referido Código Financiero, sólo podrán solicitarse para el cobro de adeudos generados a partir del 1° de enero de 2008. Lo anterior, en el entendido de que las retenciones y pagos relativos a los conceptos de aprovechamientos por el suministro de agua en bloque por parte de la Comisión Nacional del Agua y por concepto de suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua por la Comisión del Agua del Estado de México, con cargo a los recursos del citado Fondo, deberán efectuarse mediante la aplicación de los recursos del Fondo mencionado de manera gradual, con base en los siguientes porcentajes aplicables sobre el total de los recursos que le correspondan a cada municipio por concepto del Fondo previsto en la fracción IV del artículo 228 del propio Código Financiero vigente en la Entidad:
+
+EJERCICIO FISCAL PORCENTAJE MÁXIMO DE
+
+RETENCIÓN DEL FORTAMUN
+
+2008 40%
+
+2009 55%
+
+2010 70%
+
+2011 85%
+
+2012 EN ADELANTE 100%
+
+CUARTO.- Lo previsto en el Artículo Tercero Transitorio del presente Decreto, de ninguna manera se entenderá como una reducción porcentual o nominal de las obligaciones de pago de los municipios a que se refiere el artículo 230 A fracción I del Código Financiero del Estado de México y Municipios.
+
+QUINTO.- El Ejecutivo Estatal presentará ante la Legislatura Local, dentro de los 90 días posteriores a la entrega por parte de la Comisión Nacional del Agua del proyecto de convenio a que se refiere el presente artículo, una iniciativa de reformas a las disposiciones legales aplicables, en consonancia con el marco jurídico federal de la materia, a fin de que la prestación de los servicios de suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua a los municipios, incluyendo el cobro y percepción de las contra prestaciones correspondientes a dichos conceptos, dejen de ser atribuciones de la Comisión del Agua del Estado de México y se transfieran a la Comisión Nacional del Agua, la cual deberá obligarse en términos del convenio que al efecto se celebre, a recibir, operar y administrar la infraestructura referida con todo lo que de hecho y por derecho le corresponde.
+
+SEXTO.- Los porcentajes máximos de retención contenidos en la tabla del Artículo Tercero Transitorio del presente Decreto, cubrirán las tarifas de los conceptos referidos en dicho artículo, cuando los aumentos anuales a las mismas no excedan del incremento porcentual al Índice Nacional de Precios al Consumidor, para cada uno de los ejercicios de que se trate, en el entendido de que a partir del año 2012, la cobertura de la garantía será del 100%.
+
+Si el incremento de las tarifas es superior al aumento del Índice Nacional de Precios al Consumidor, el porcentaje de retención a que se refiere la tabla del Artículo Tercero Transitorio, cubrirá hasta un monto equivalente a la tarifa anterior más el porcentaje del aumento que se hubiera dado a conocer para el Índice Nacional de Precios al Consumidor para el período de que se trate.
