@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-los-juzgados-de-ejecucion-de-49525"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-01"
-last_updated: "2006-03-01"
+last_updated: "2008-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LOS JUZGADOS DE EJECUCION DE SENTENCIAS
 
-REGLAMENTO INTERIOR DE LOS JUZGADOS DE EJECUCION DE SENTENCIAS
+REGLAMENTO INTERIOR DE LOS JUZGADOS DE EJECUCIÓN DE SENTENCIAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2008.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 1o. de marzo de 2006.
 
@@ -31,9 +31,7 @@ PODER JUDICIAL DEL ESTADO DE MEXICO
 
 CONSEJO DE LA JUDICATURA DEL ESTADO
 
-C O N S I D E R A N D O
-
-...
+C O N S I D E R A N D O...
 
 En consecuencia, con fundamento en los artículos 102 y 104 Bis de la Constitución Política del Estado Libre y Soberano de México; así como de los diversos 188, fracciones I, II y VII, y 190 de la Ley Orgánica del Poder Judicial del Estado de México, se emite el:
 
@@ -79,7 +77,9 @@ X. Centro.- El Centro Preventivo y de Readaptación Social, o cualquier otra ins
 
 XI. Tratamiento.- Tratamiento preliberacional; y
 
-XII. Beneficios.- Remisión parcial de la pena, libertad condicional.
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2008)</small>
+
+XII. Beneficios.- Remisión parcial de la pena, libertad condicional y beneficio de libertad condicionada al sistema de localización y rastreo.
 
 ### CAPÍTULO SEGUNDO. DE LOS JUECES
 
@@ -269,21 +269,39 @@ El Juez goza de libertad, bajo su prudente arbitrio, para valorar los dictámene
 
 Declarado agotado el procedimiento, el Juez dentro del término de diez días dictará la resolución que corresponda.
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
+
 ###### Artículo 36.
 
-Las resoluciones del Juez determinarán en caso de que sea procedente el otorgamiento de beneficios o tratamiento, las obligaciones y deberes que deba cumplir el interno.
+Las resoluciones del Juez determinarán en caso de que sea procedente el otorgamiento de beneficios o tratamiento, las obligaciones, condiciones y deberes que deba cumplir el interno.
+
+En relación al beneficio de libertad condicionada al sistema de localización y rastreo, se le hará saber al interno en los puntos resolutivos de la resolución, que una vez que cubra o garantice la reparación del daño o acredite haberlo hecho ante el juez de instrucción, surtirá efectos dicho beneficio; salvo que se haya acreditado que fue cubierto su pago.
+
+Para tener por acreditado el pago o garantía de la reparación del daño, el juez aplicará lo señalado por el Código de Procedimientos Penales para el Estado.
+
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
 
 ###### Artículo 37.
 
-El Ministerio Público adscrito, informará al Juez para el caso de que advierta el incumplimiento por parte del interno a las obligaciones y deberes impuestos por el Juez Ejecutor.
+El Ministerio Público adscrito informará al Juez para el caso de que advierta el incumplimiento por parte del interno a las obligaciones, condiciones y deberes que le hayan sido impuestos.
 
 ### CAPÍTULO QUINTO. DE LA EJECUCIÓN DE RESOLUCIONES
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
+
 ###### Artículo 38.
 
-La resolución en la que se otorguen beneficios o tratamiento, se notificará inmediatamente al titular del Centro para la ejecución de la misma, adjuntándosele copia autorizada.
+La resolución en la que se otorguen beneficios o tratamiento, se notificará inmediatamente al titular del Centro para la ejecución de la misma, adjuntándosele copia autorizada. La resolución se hará del conocimiento de la Dirección.
 
-La propia resolución se hará del conocimiento de la Dirección.
+La resolución que conceda u otorgue el beneficio de libertad condicionada al sistema de localización y rastreo surtirá sus efectos hasta que el interno mediante billete de depósito exhiba o garantice el pago de la reparación del daño, o acredite haberlo cubierto ante el juez de instrucción; y, en su caso, cumpla con los demás requisitos o condiciones impuestos en la resolución.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
+
+###### Artículo 38.
+
+1. Inmediatamente que el interno justifique o cubra ante el Juez los requisitos que le haya impuesto para que surta efectos el beneficio o tratamiento otorgado, emitirá acuerdo que los tenga por cumplidos y lo comunicará al titular del Centro para su ejecución así como a la Dirección.
+
+Si el interno cubrió el pago de la reparación del daño, el juez lo dejará a disposición de la víctima, ofendido o de quien tenga el derecho, comunicándolo a éstos a través del medio que estime pertinente; en tanto, se hará el deposito correspondiente al Fondo Auxiliar para la Administración de Justicia.
 
 ###### Artículo 39.
 
@@ -323,9 +341,11 @@ Para los efectos de la declaratoria a que se refiere los artículos 209 fraccion
 
 ### CAPÍTULO SEXTO. REVOCACIÓN DE LOS BENEFICIOS Y DEL TRATAMIENTO
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
+
 ###### Artículo 48.
 
-El Juez revocará la libertad condicional o la prelibertad, cuando el beneficiado no cumpla con los deberes, obligaciones o condiciones impuestos en la resolución correspondiente y en aquellos casos en los que la Ley Orgánica así lo determina.
+El Juez revocará la libertad condicional, la prelibertad o el beneficio de libertad condicionada, cuando el beneficiado no cumpla con los deberes, obligaciones o condiciones impuestos en la resolución correspondiente y en aquellos casos en los que la Ley Orgánica así lo determina.
 
 ###### Artículo 49.
 
@@ -335,9 +355,11 @@ En el caso del artículo anterior, el Juez tomará en consideración los informe
 
 La resolución de revocación será notificada al interesado en el domicilio que se consideró como su núcleo de reinserción para la concesión del beneficio o tratamiento, o bien en el Centro donde se encuentre, en caso de nueva reclusión.
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2008)</small>
+
 ###### Artículo 51.
 
-De revocarse el beneficio o tratamiento, se ordenará el inmediato internamiento del sentenciado, librándose solicitud de localización y detención a los Cuerpos de Seguridad Pública o a la Policía Ministerial a fin de reingresarlo al Centro.
+De revocarse el beneficio, tratamiento o beneficio de la libertad condicionada, se ordenará el inmediato internamiento del sentenciado, librándose solicitud de localización y detención a los Cuerpos de Seguridad Pública o a la Policía Ministerial a fin de reingresarlo al Centro.
 
 ### CAPÍTULO SÉPTIMO. RECURSO DE RECONSIDERACIÓN
 
@@ -402,3 +424,15 @@ LIC. LETICIA LOAIZA YAÑEZ
 JUEZ CONSEJERA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 27 DE MARZO DE 2008.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL ORDENAMIENTO
+
+...
+
+SEGUNDO. Publíquese el presente Acuerdo en la "Gaceta del Gobierno" del Estado y en el Boletín Judicial.
+
+TERCERO. Este Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta de Gobierno.
