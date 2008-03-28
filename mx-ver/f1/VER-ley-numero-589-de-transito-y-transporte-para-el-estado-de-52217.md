@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2006-11-06"
+last_updated: "2008-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MARZO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -1279,11 +1279,15 @@ A las personas físicas sólo se les otorgará una concesión para prestar el se
 
 En los términos que establece el artículo 123 de esta Ley, a las personas morales se les otorgarán las concesiones que resulten necesarias para las modalidades de urbano, suburbano, foráneo, exclusivo de turismo, para personal de empresas y carga especializada.
 
+> <small>(REFORMADO, G.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 127.
 
-Los derechos que ampara una concesión para prestar el servicio de transporte público en todas sus modalidades podrán ser transferidos a terceros, previa autorización escrita otorgada por la Secretaría, siempre que se cumpla con las condiciones y requisitos establecidos en la presente Ley y su Reglamento.
+Las concesiones que se otorguen para prestar el servicio de transporte público en la modalidad de taxi se equipararán al patrimonio familiar, y por lo mismo son inalienables, inembargables e intransferibles, salvo en caso de gran necesidad debidamente acreditada, a juicio del Secretario. Su regulación y control se regirán por las disposiciones aplicables del Código Civil para el Estado de Veracruz de Ignacio de la Llave.
 
-Para que la Secretaría otorgue la autorización de transferencia de derechos a que se refiere el párrafo anterior, se requerirá que:
+Con la excepción señalada en el párrafo anterior, los derechos que ampara una concesión para prestar el servicio de transporte público en todas las demás modalidades podrán ser transferidos a terceros, previa autorización escrita otorgada por la Secretaria, siempre que se cumpla con las condiciones y requisitos establecidos en la presente Ley y su Reglamento.
+
+Para que la Secretaria otorgue la autorización de transferencia de derechos a que se refiere el párrafo anterior, se requerirá que:
 
 I. El titular de la concesión haya ejercido el derecho que de ella emana, cuando menos cinco años antes de la presentación de la solicitud de transferencia;
 
@@ -1724,3 +1728,11 @@ Sufragio Efectivo. No Reelección.
 Licenciado Fidel Herrera Beltrán.
 
 Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 28 DE MARZO DE 2008.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
