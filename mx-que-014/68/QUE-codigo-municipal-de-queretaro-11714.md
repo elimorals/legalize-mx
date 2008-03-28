@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2007-03-16"
+last_updated: "2008-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2008.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -7559,33 +7559,15 @@ APARTADO OCTAVO
 
 DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GENERO
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+ARTICULO 908 bis.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GENERO, P.O. 28 DE MARZO DE 2008)
 
-ARTICULO 908 bis.- El Instituto Municipal de Equidad de Género, es un órgano desconcentrado de la Administración Pública Centralizada Municipal, adscrito a la Secretaría de Desarrollo Social, que tendrá como objeto promover, fomentar y diseñar una política municipal de equidad de género, que en el ámbito educativo, profesional y social, brinde equidad a la participación de hombres y mujeres, a través de un compromiso social de tolerancia, reconocimiento de diferencias e igualdad de oportunidades.
+ARTICULO 908 bis 1.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GENERO, P.O. 28 DE MARZO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+ARTICULO 908 bis 2.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GENERO, P.O. 28 DE MARZO DE 2008)
 
-ARTICULO 908 bis 1.- La acción del Instituto Municipal de Equidad de Género se conforma por:
+ARTICULO 908 bis 3.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GENERO, P.O. 28 DE MARZO DE 2008)
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 1997)</small>
-
-I. Un Consejo Directivo
-
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 1997)</small>
-
-II. Una Dirección.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 1997)</small>
-
-ARTICULO 908 bis 2.- Las integrantes del Consejo Directivo serán designadas por el Presidente Municipal escogiendo de este las mujeres miembros del Instituto a quienes se hayan destacado por su trabajo y conocimiento a cerca (sic) de la problemática de género, el número de las designadas no será menor de 10, para tal efecto recibirán por parte del Presidente Municipal su nombramiento oficial.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 1997)</small>
-
-ARTICULO 908 bis 3.- La Dirección del Instituto será electa por mayoría del Consejo Directivo. La persona en quien recaiga dicho nombramiento recibirá la denominación de Secretario Técnico, especificándose en el Manual de Organización y Operación Interna las atribuciones de la Dirección.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-ARTICULO 908 bis 4.- El funcionamiento y Administración del Instituto Municipal de Equidad de Género, se regirá por el Manual de Organización y Operación Interna, previa aprobación del H. Ayuntamiento.
+ARTICULO 908 bis 4.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GENERO, P.O. 28 DE MARZO DE 2008)
 
 # LIBRO QUINTO. DE LAS SANCIONES Y LOS RECURSOS ADMINISTRATIVOS
 
@@ -8616,3 +8598,17 @@ PRIMERO. Publíquese el presente Acuerdo en la Gaceta Municipal y en el Periódi
 SEGUNDO. Las presentes reformas entrarán en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
 
 TERCERO. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a las presentes reformas.".
+
+P.O. 28 DE MARZO DE 2008.
+
+PRIMERO. Publíquese el presente Reglamento en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Se derogan los artículos 908 BIS, 908 BIS 1, 908 BIS 2, 908 BIS 3 y 908 BIS 4 del Código Municipal de Querétaro, así como todas aquellas disposiciones de igual o menor jerarquía que contravengan al presente Reglamento.
+
+CUARTO. Atendiendo a las nuevas disposiciones que regulan al Instituto Municipal de Equidad de Género, por esta sola ocasión el Instituto deberá presentar en un plazo máximo de 60 días hábiles posteriores a la entrada en vigor del presente ordenamiento, el "Programa Municipal por la Equidad de Género" para su aprobación por el Ayuntamiento.
+
+QUINTO. Se instruye a la Secretaría de Administración para que realice los trabajos correspondientes para la integración de los manuales de procedimientos y operación del Instituto Municipal de Equidad de Género.
+
+SEXTO. Los contratos y convenios relacionados con la equidad de género celebrados con anterioridad al presente Reglamento, se respetarán en los mismos términos bajo los cuales fueron suscritos.
