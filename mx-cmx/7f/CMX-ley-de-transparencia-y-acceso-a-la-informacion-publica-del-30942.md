@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3094
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-08"
-last_updated: "2007-01-05"
+last_updated: "2008-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30942&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2003-04-24"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 28 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de mayo de 2003.
 
@@ -1381,3 +1383,21 @@ Quinto.- El Instituto de Acceso a la Información Pública del Distrito Federal 
 Sexto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 Séptimo.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 28 DE MARZO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 8 de mayo del 2003.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor y en el Diario Oficial de la Federación para su mayor difusión.
+
+CUARTO.- Los actuales Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal, a que se refiere el artículo 66 del presente decreto, concluirán el periodo para el cual fueron electos. Para efectos de ajustar el número de integrantes del pleno del Instituto a lo dispuesto en el precepto antes señalado, con fecha doce de julio del año 2009 el número de sus integrantes pasará de seis a cinco.
+
+QUINTO.- Los trámites y recursos que se hayan iniciado con anterioridad a la entrada en vigor del presente decreto y se encuentren en proceso, concluirán su trámite de conformidad con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 8 de mayo del 2003.
+
+SEXTO.- La Asamblea Legislativa deberá aprobar en un plazo no mayor a 60 días hábiles, a partir de la publicación del presente decreto, la legislación respectiva a datos personales y archivos públicos del Distrito Federal.
+
+SÉPTIMO.- En ningún caso podrá aplicarse en forma retroactiva, normas que afecten la situación administrativa o laboral del personal que presta sus servicios en el Instituto y en los Entes Públicos.
+
+OCTAVO.- El Jefe de Gobierno emitirá en un lapso de sesenta días hábiles contados a partir de la entrada en vigor de la presente Ley, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
