@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-sistema-de-consejos-municipales-de-12672"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-25"
-last_updated: "2006-02-24"
+last_updated: "2008-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de septiembre de 1998.
 
@@ -89,9 +89,11 @@ VI. Unidad de Control y Vigilancia.
 
 Los miembros que integren el Sistema, deberán distinguirse por su trabajo en beneficio del Municipio de Querétaro, sin proselitismo hacia los partidos políticos, grupos religiosos u organismo social alguno.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 9.
 
-La autoridad municipal apoyará el trabajo de los miembros del Sistema, facilitándoles las condiciones mínimas e indispensables para que desarrollen sus actividades, así como un espacio físico para que efectúen sus reuniones, el cual lo definirá la misma autoridad en función de los recursos con que cuente, y será para los siguientes órganos: Consejo Consultivo, Coordinación General, Unidad de Control y Vigilancia, Consejos de Participación Social Temáticos y Delegacionales.
+La autoridad municipal apoyará el trabajo de los miembros del sistema, facilitándoles las condiciones mínimas e indispensables para que desarrollen sus actividades, así como un espacio físico para que efectúen sus reuniones, el cual lo definirá la misma autoridad en función de los recursos con que cuente, y será para los siguientes órganos: Consejo Consultivo, Coordinación General, Unidad de Control y Vigilancia, Consejos de Participación Social Temáticos, Delegacionales y Regionales.
 
 ### CAPÍTULO III.. DEL CONSEJO CONSULTIVO
 
@@ -149,6 +151,14 @@ VII. Impulsar y coordinar los procesos para la organización social en el Munici
 
 VIII. Promover la elaboración de planes, programas y proyectos que fomenten la participación social en beneficio de los habitantes del Municipio.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+IX. Acreditar a un representante en los casos en que no pueda asistir a las reuniones señaladas en la fracción II, representante que tendrá las atribuciones señaladas en las fracciones III y IV, del mismo.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+X. Otorgar en asamblea anual plenaria, nombramientos, así como reconocimientos a los coordinadores del sistema que por su participación honorifica, esfuerzo continuo, responsable y su dedicación desinteresada a favor del Municipio y Sistema se hayan distinguido.
+
 ###### Artículo 13.
 
 Los miembros del Consejo Consultivo, tendrán las siguientes atribuciones y responsabilidades:
@@ -161,6 +171,10 @@ III. Informar a los habitantes del Municipio, sobre las acciones que se desarrol
 
 IV. Fomentar la capacitación a los miembros del Sistema sobre los procesos y políticas de participación social.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2008)</small>
+
+Artículo 13 BIS.- El Consejo Consultivo se reunirá por lo menos 2 veces al año, pudiendo reunirse a petición expresa del Presidente del Consejo las veces que considere en plazos extraordinarios, señalando en la convocatoria los días en que se llevara acabo (sic) la misma, estableciendo días hábiles o extraordinarios.
+
 ### CAPÍTULO IV. DE LA COORDINACIÓN GENERAL
 
 ###### Artículo 14.
@@ -169,7 +183,9 @@ La Coordinación General es un órgano colegiado que se integrará por:
 
 I. Un Coordinador General que será propuesto por eI Presidente Municipal y nombrado por el Cabildo.
 
-II. Siete personas invitadas por el Presidente Municipal. Centro de éstas, el Presidente Municipal nombrará a uno de ellos como Coordinador General Suplente, quien hará las funciones de Coordinador General en ausencia de éste.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+II. Siete personas invitadas por el Presidente Municipal, de las cuales nombrará a una de ellas como Coordinador General Suplente, quien hará las funciones de Coordinador General en ausencia de éste. El Secretario de Gestión Delegacional podrá ser una de las siete personas invitadas, sin que pueda ser nombrado Coordinador General Suplente.
 
 III. Los siete Coordinadores de los Consejos Delegacionales.
 
@@ -178,6 +194,8 @@ IV. Siete Coordinadores de los Consejos Temáticos, que serán designados en reu
 V. La Unidad de Control y Vigilancia a través del Contralor Social.
 
 VI. Un Secretario Técnico que será el Secretario de Desarrollo Social.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2008)</small>
 
 VII. El regidor que represente al Ayuntamiento en el COPLADEM.
 
@@ -195,13 +213,19 @@ II. Difundir las actividades que se desarrollen en el marco del Sistema.
 
 III. Dar seguimiento a los acuerdos del Consejo Consultivo.
 
-IV. Elaborar su plan de trabajo anual.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+IV. Elaborar un plan de trabajo anual que entregará al Consejo Consultivo, conforme a los plazos que al caso se establezcan.
 
 V. Promover asambleas de información y evaluación en el seno de los Consejos.
 
 VI. Promover actividades de capacitación a los miembros del Sistema.
 
 VII. Designar de entre sus miembros representantes para actividades que se realicen dentro y fuera del Sistema.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+VIII. Realizar las invitaciones a los Regidores de la Comisión respectiva a fin de que asistan a las reuniones de los Consejos Delegacionales y Temáticos.
 
 ###### Artículo 17.
 
@@ -226,6 +250,10 @@ VIII. Entregar a nombre de los miembros del Sistema la propuesta de obra anual a
 IX. Presentar a consideración del Presidente del Consejo Consultivo: las propuestas de los habitantes del Municipio para hacer más eficiente la prestación de los servicios públicos y la gestión gubernamental.
 
 X. Presentar un informe anual al Presidente del Consejo Consultivo.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+XI. Citar a reuniones de interés para el Sistema Municipal de Consejos de Participación Social.
 
 ###### Artículo 18.
 
@@ -259,7 +287,9 @@ I. Por invitación del Presidente Municipal.
 
 II. Por invitación de los miembros del Sistema o por los funcionarios públicos que participen en el mismo.
 
-III. Por solicitud propia.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+III. Por solicitud propia que deberá presentar por escrito ante la asamblea del Consejo cuando menos ocho días naturales antes de la reunión, acompañada de su credencial de elector que lo identifique como habitante de este municipio.
 
 IV. En los casos señalados en los incisos II y III de este artículo, es requisito que se ratifique su ingreso por mayoría de los miembros del Consejo de que se trate y de la Coordinación General.
 
@@ -273,7 +303,9 @@ I. Un Secretario Técnico, funcionario municipal que será el Secretario o Direc
 
 III. Los demás miembros que cumplan con lo indicado en los artículos 69 y 72 de este Reglamento.
 
-IV. Por lo menos uno de los regidores de la comisión respectiva, con derecho a voz Sin voto.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+IV. Por lo menos uno de los regidores de la comisión respectiva, con derecho a voz sin voto, quien informará y opinará sobre los asuntos de su competencia.
 
 V. Al interior del Consejo y con la finalidad de hacer más eficiente y eficaz los trabajos que desarrollen, podrán crearse las comisiones que de común acuerdo establezcan los miembros del Consejo.
 
@@ -289,7 +321,9 @@ III. Participar en la validación y priorización estratégica de su especialida
 
 IV. Vigilar que la programación de la obra y acciones públicas sean congruentes con las políticas de planeación federal, estatal y municipal.
 
-V. Convocar y dirigir de manera conjunta con la Coordinación General, las reuniones sectoriales donde se analizará y definirá la propuesta anual de obra pública del sector que le corresponda.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+V. Convocar y dirigir de manera conjunta con la Coordinación General, las reuniones temáticas donde se analizará y definirá la propuesta anual de obra pública del sector que le corresponda.
 
 VI. Ser Consejeros Técnicos de los Consejos Delegacionales, en su especialidad.
 
@@ -319,11 +353,17 @@ VII. Informar a la Coordinación General y a la Secretaría de Desarrollo Social
 
 VIII. Tener voto de calidad en votación de las asambleas.
 
-IX. Entregar a la Coordinación General y a la Secretaría de Desarrollo Social sus observaciones técnicas y estratégicas sobre la propuesta de obra anual que presenten los Consejos Delegacionales.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+IX. Realizar observaciones técnicas sobre la propuesta de obra anual que presenten los Consejos Delegacionales y remitir a la Coordinación General.
 
 X. Presentar a la Coordinación General las propuestas técnicas para hacer más eficiente y eficaz la prestación de servicios públicos y la gestión gubernamental en el sector que coordinen.
 
 XI. Rendir un informe anual a la Coordinación General.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2008)</small>
+
+El plazo para informar el consejo temático a la coordinación general respecto de las fracciones VII y IX, será de 5 días hábiles posteriores a las asambleas del Consejo.
 
 ###### Artículo 26.
 
@@ -383,11 +423,17 @@ VII. Proponer a la autoridad municipal alternativas de solución a los problemas
 
 VIII. Presentar propuestas de solución para mejorar los servicios públicos.
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
 IX. Apoyar a la autoridad en la promoción de la participación social en las delegaciones para que sus habitantes participen activamente en el desarrollo de sus localidades y del Municipio.
 
-Apoyar a la autoridad participando en la promoción y motivación ante los beneficiarios de las obras por cooperación para la recuperación de las aportaciones que correspondan.
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
 
-XI (SIC). Elaborar su plan de trabajo anual.
+X. Apoyar a la autoridad participando en la promoción y motivación ante los beneficiarios de las obras por cooperación para la recuperación de las aportaciones que correspondan.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+XI. Elaborar su plan de trabajo anual que entregará a la Coordinación General en el mes de Agosto.
 
 ###### Artículo 34.
 
@@ -397,7 +443,9 @@ I. Un Coordinador, propietario y suplente, electos por mayoría de los integrant
 
 II. Un Secretario Técnico que será el Delegado Municipal correspondiente, quien podrá ser suplido en forma eventual por la persona que él designe.
 
-III. Un Vocal de Control y Vigilancia, electo por mayoría de los integrantes del Consejo.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+III. Un Vocal de Control y Vigilancia, y un Suplente electo por mayoría de los integrantes del Consejo.
 
 IV. Los habitantes que directamente invite el Presidente Municipal.
 
@@ -407,9 +455,11 @@ V. Los Coordinadores y los Vocales del Control de Vigilancia de los Consejos Reg
 
 El representante del Consejo Regional que resulte electo en los términos del artículo anterior, renunciará a la Coordinación de ese Consejo, por lo cual se nombrará un nuevo Coordinador Regional. Al interior del Consejo Delegacional y con la finalidad de hacer más eficiente y eficaz los trabajos que desarrolle, podrán crearse las comisiones que de común acuerdo establezcan los miembros del Consejo, cuyos integrantes, podrán asistir a las reuniones de los Consejos Temáticos que les corresponda de acuerdo al sector que traten, pero únicamente podrán participar con voz.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 36.
 
-Los habitantes que directamente invite el Presidente Municipal deberán haberse distinguido por su trabajo en beneficio de la colonia o comunidad rural en donde radiquen o desarrollen sus actividades laborales, quienes no podrán ser más de una cuarta parte de los miembros del Consejo.
+Los habitantes que directamente invite el Presidente Municipal para formar parte de los Consejos Delegacionales deberán haberse distinguido por su trabajo en beneficio de la colonia o comunidad rural en donde radiquen o desarrollen sus actividades laborales, quienes no podrán ser más de una tercera parte de los miembros del Consejo.
 
 ###### Artículo 37.
 
@@ -423,7 +473,9 @@ III. Asistir a las reuniones de los Consejos Temáticos y a los Consejos Regiona
 
 IV. Asistir a las asambleas de los Comités Comunitarios de sus delegaciones cuando sea necesario.
 
-V. Convocar a todos los miembros y presidir las reuniones.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+V. Convocar a todos los miembros en conjunto con la Secretaría de Desarrollo Social y la Delegación Respectiva y presidir las reuniones.
 
 VI. Coordinar la elaboración del plan de trabajo.
 
@@ -437,7 +489,7 @@ X. Entregar a la Coordinación General la propuesta de obra anual de la delegaci
 
 XI. Presentar a la Coordinación General las propuestas de los habitantes para hacer más eficiente y eficaz la prestación de los servicios públicos municipales.
 
-XII. Rendir un informe anual al Consejo Consultivo.
+XII. (DEROGADA, P.O. 28 DE MARZO DE 2008)
 
 ###### Artículo 38.
 
@@ -451,6 +503,10 @@ III. Asesorar a los Vocales de Control y Vigilancia de los Consejos Regionales y
 
 IV. Colaborar en el trabajo y las acciones que desarrolle el Consejo en el cual participen.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+V. Vigilar y solicitar a la autoridad correspondiente los avances de las obras y acciones públicas municipales.
+
 ###### Artículo 39.
 
 Los Consejos Regionales se integrarán por:
@@ -463,7 +519,9 @@ III. Un Vocal de Control y Vigilancia, electo por mayoría de los integrantes de
 
 IV. Los habitantes que directamente invite el Presidente Municipal.
 
-V. Los Presidentes de los Comités Comunitarios y los subdelegados de la región respectiva, dentro de los cuales se elegirá a los señalados en las fracciones I y III este artículo.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+V. Los Presidentes de los Comités Comunitarios o en su caso los subdelegados de la región respectiva, dentro de los cuales se elegirá a los señalados en las fracciones I y III este artículo.
 
 ###### Artículo 40.
 
@@ -481,9 +539,13 @@ III. Asistir a las reuniones de los Consejos Temáticos, así como a las asamble
 
 IV. Convocar a todos los miembros y presidir la reunión.
 
-V. Coordinar la elaboración del plan de trabajo.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
 
-VI. Planear, programar, coordinar, organizar, supervisar y evaluar las actividades.
+V. Coordinar la elaboración del plan de trabajo anual.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+VI. Planear, programar, coordinar, organizar, supervisar y evaluar las actividades del Consejo.
 
 VII. Informar al Coordinador del Consejo Delegacional respectivo y a la Secretaria de Desarrollo Social sobre los acuerdos de las asambleas y sobre los avances en su plan de trabajo.
 
@@ -491,7 +553,9 @@ VIII. Tener voto de calidad en votación de las asambleas.
 
 IX. Entregar al Consejo Delegacional respectivo las propuestas de obra anual de la región que coordine.
 
-X. Presentar al Consejo Delegacional las propuestas de los habitantes para hacer más eficiente y eficaz la prestación de los servicios públicos municipales en la región que coordine.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+X. Presentar al Consejo Delegacional las propuestas de obras y acciones de los habitantes para hacer más eficiente y eficaz la prestación de los servicios públicos municipales en la región que coordine.
 
 XI. Rendir un Informe anual al Consejo Delegacional.
 
@@ -507,6 +571,10 @@ III. Asesorar a los Vocales de Control y Vigilancia de los Comités respectivos.
 
 IV. Colaborar en el trabajo y las acciones que desarrolle el Consejo del cual ellos formen parte.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+V. Vigilar los avances de las obras y acciones públicas municipales.
+
 ###### Artículo 43.
 
 Las atribuciones y responsabilidades de los miembros que formen parte de los Consejos Delegacionales y Regionales serán:
@@ -519,9 +587,11 @@ III. Colaborar en el trabajo y las acciones que se desarrollen.
 
 ### CAPÍTULO VII.. DE LOS COMITÉS COMUNITARIOS DE PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 44.
 
-Los Comités tendrán por objeto ser auxiliares de la autoridad municipal en calidad de Consejeros y promover el desarrollo de su comunidad en el marco del Sistema del cual estas organizaciones forman parte a través de los Consejos Regionales, y en su caso, Delegacionales.
+Los Comités tendrán por objeto ser auxiliares de la autoridad municipal en calidad de Consejeros y promover el desarrollo de su comunidad en el marco del Sistema del cual estas organizaciones forman parte a través de los Consejos Regionales, y en su caso, Delegacionales mediante propuestas de solución a la problemática de su localidad.
 
 ###### Artículo 45.
 
@@ -539,9 +609,11 @@ IV. Un Vocal de Control y Vigilancia.
 
 Por las necesidades que existan en una localidad y al deseo de participación de sus habitantes podrán integrarse, adicionalmente a lo señalado en el artículo 45 los vocales o las comisiones que en asamblea se determine, ya sea para atender aspectos temáticos o territoriales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 47.
 
-Las atribuciones y responsabilidades de los Presidentes de los Comités serán:
+Las atribuciones y responsabilidades de los Presidentes de los Comités Comunitarios serán:
 
 I. Representar al Comité.
 
@@ -557,11 +629,23 @@ VI. Coordinar la elaboración de los planes de trabajo.
 
 VII. Planear, programar, coordinar, organizar, supervisar y evaluar las actividades del Comité.
 
-VIII. Informar al Consejo Regional respectivo y a la Secretaría de Desarrollo Social sobre los acuerdos de las asambleas y de los avances de su plan de trabajo.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+VIII. Informar al Consejo Regional respectivo y a la Secretaría de Desarrollo Social sobre los acuerdos de las asambleas y de los avances de su plan de trabajo anual.
 
 IX. Entregar al Consejo Regional respectivo las solicitudes de obra de las localidades que representen.
 
-X. Presentar al Consejo Regional las propuestas de los habitantes para hacer más eficiente y eficaz la prestación de los servicios públicos municipales en su localidad.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+X. Presentar al Consejo Regional las propuestas de obras de los habitantes para hacer más eficiente y eficaz la prestación de los servicios públicos municipales en su localidad.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+XI. Colaborar en el trabajo y acciones que desarrolle el Comité.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+XII. En caso de que el Presidente del Comité no pueda asistir por causa justificada a alguna reunión, podrá delegar en otro miembro del mismo comité dicha representación, previa aprobación de por lo menos dos miembros del comité, debiendo acreditar la representación por escrito.
 
 ###### Artículo 48.
 
@@ -601,7 +685,9 @@ I. Asistir a las asambleas y a las sesiones de trabajo.
 
 II. Vigilar el cumplimiento de las funciones de cada uno de los integrantes del comité y de los acuerdos tomados en las asambleas.
 
-III. Supervisar y evaluar, de acuerdo a los proyectos o a los expedientes técnicos, las obras, acciones y servicios que la autoridad municipal desarrolle en su localidad.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+III. Observar y evaluar la correcta ejecución de las obras, acciones y servicios que la autoridad municipal desarrolle en su localidad de acuerdo a los expedientes técnicos.
 
 IV. Recibir y documentar las quejas de los vecinos sobre alguna irregularidad.
 
@@ -609,7 +695,9 @@ V. Informar al Presidente del Comité, al Coordinador del Consejo Regional y a l
 
 VI. Colaborar en el trabajo y acciones que desarrolle el Comité.
 
-VII. Coordinarse con el Contralor Social y con los Comités respectivos.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+VII. Coordinarse con el Vocal de Control y Vigilancia del Consejo Regional y con los Comités respectivos para vigilar las obras y acciones de su localidad.
 
 ###### Artículo 51.
 
@@ -627,21 +715,27 @@ V. Cumplir con los acuerdos celebrados en las asambleas.
 
 VI. En obras por cooperación, dar su participación puntualmente en tiempo y forma en función de los acuerdos que sobre la materia se hayan tomado.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 52.
 
-Los Comités tendrán competencia dentro del ámbito territorial que la autoridad municipal establezca para su zona, colonia, barrio o comunidad, por lo que no podrán representar a los propietarios o vecinos de otros espacios que no sean los que les corresponde (sic) a su territorio.
+Los Comités Comunitarios tendrán competencia dentro del ámbito territorial que la autoridad municipal establezca para su colonia o localidad, por lo que no podrán representar a los propietarios o vecinos de otros espacios que no sean los que les corresponde (sic) a su territorio.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
 
 ###### Artículo 53.
 
-Los Comités Comunitarios, podrán constituirse como Comité de Obra, siempre y cuando en asamblea, los residentes de la localidad lo aprueben y se cumpla con la normatividad que rija la obra de que se trate.
+Los Comités comunitarios, se constituirán como Comités de Obra, siempre y cuando en asamblea, los residentes de la localidad lo aprueben y se cumpla con la normatividad que rija la obra de que se trate.
 
 ###### Artículo 54.
 
 Los representantes ó directivos de las asociaciones de colonos o de vecinos ya constituidas, también podrán constituirse en Comité Comunitario, siempre y cuando en asamblea sus miembros así lo decidan. En este caso, el trabajo que desarrollen será en el marco del Sistema y en base a lo señalado en este Reglamento, siendo independiente de las atribuciones y responsabilidades que les señalen los estatutos de su propia organización.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 55.
 
-En aquellas comunidades rurales en que no se haya constituido el Comité, el subdelegado será el representante de la localidad ante el Sistema, considerando que con antelación la comunidad lo eligió como representante de la autoridad municipal y su cargo es honorifico.
+En aquellas comunidades rurales en que no se haya constituido el Comité Comunitario, el subdelegado municipal será el representante de la localidad ante el Sistema, considerando que con antelación la comunidad lo eligió como representante de la autoridad municipal y su cargo es honorifico, reconocido ante el Sistema como miembro del Comité Comunitario, debiéndose integrar el Comité con sus cuatro integrantes conforme al presente Reglamento.
 
 ###### Artículo 56.
 
@@ -655,7 +749,7 @@ La Unidad de Control y Vigilancia es un órgano colegiado que dependerá directa
 
 I. Un Contralor Social, propietario y suplente, electos por mayoría de los Vocales de Control y Vigilancia de los Consejos Delegacionales.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2008)</small>
 
 II. Un Secretario Técnico, que será el Auditor Municipal de Fiscalización; y
 
@@ -677,7 +771,19 @@ III. En función de los resultados de la evaluación de planes, programas, proye
 
 IV. Realizar su plan de trabajo anual.
 
-V. Efectuar una asamblea anual de información y evaluación sobre los trabajos que se desarrollen en el marco del Sistema.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+V. Presentar un informe semestral de información y evaluación a la Coordinación General sobre las actividades realizadas.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+VI. A invitación de la autoridad municipal, realizar la validación de todo el programa de obra, en todas sus fases:
+
+a) Proceso de licitación hasta la adjudicación de la misma;
+
+b) Revisión de la ejecución de la obra; y
+
+c) Entrega y recepción de la obra.
 
 ###### Artículo 60.
 
@@ -713,9 +819,11 @@ III. Colaborar en el trabajo y las acciones que desarrolle la Unidad.
 
 ### CAPÍTULO IX.. DE LOS SECRETARIOS TÉCNICOS Y ENLACES
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 62.
 
-Los Secretarios Técnicos son funcionarios municipales que brindarán asesoría técnica a los órganos que forman el Sistema, participarán únicamente con voz y serán nombrados por el Presidente Municipal.
+Los Secretarios Técnicos son funcionarios municipales que brindarán asesoría técnica a los órganos que forman el Sistema, participarán únicamente con voz y serán nombrados por el Presidente Municipal o la autoridad correspondiente, en los términos del presente reglamento.
 
 ###### Artículo 63.
 
@@ -723,7 +831,9 @@ Las atribuciones y responsabilidades de los Secretarios Técnicos serán:
 
 I. Asistir a las reuniones de los órganos de los cuales son integrantes.
 
-II. Representar a la autoridad municipal.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+II. Representar a la autoridad municipal dentro del Sistema de Consejos.
 
 III. Apoyar técnicamente al órgano en el cual participen.
 
@@ -733,17 +843,35 @@ V. Dar seguimiento a los acuerdos tomados en el seno de los Consejos en que part
 
 VI. Atender a los miembros del Consejo para los temas de trabaja que desarrolle el órgano en el cual participen.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+VII. Podrá reunirse con los Comités Comunitarios previo acuerdo con la Secretaría de Desarrollo Social para la elaboración de planes de trabajo y minutas que resulten de las mismas.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+VIII. Tratándose de los Consejos Delegacionales, recabar de sus respectivos Consejos Regionales y Comités Comunitarios las quejas, propuestas y peticiones de las diferentes localidades, con objeto de priorizar las soluciones correspondientes.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2008)</small>
+
+IX. Para la priorización de las soluciones a que hace referencia la fracción anterior, las someterá a votación de los integrantes del Consejo Delegacional, previa información a éstos sobre los aspectos a considerar.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 64.
 
-Los Enlaces son empleados municipales nombrados por el Secretario de Desarrollo Social, que participaran como apoyo administrativo de los Coordinadores y de los Secretarios Técnicos de los órganos que forman el Sistema y solo tendrán derecho a voz.
+Los Enlaces son servidores públicos empleados municipales nombrados por el Secretario de Desarrollo Social, que participaran como apoyo administrativo a los diferentes órganos del Sistema y solo tendrán derecho a voz.
 
 ###### Artículo 65.
 
 Las atribuciones y responsabilidades de los Enlaces serán:
 
-I. Asistir a las reuniones del órgano en el cual éllos participen.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
 
-II. Apoyar a los Coordinadores y a los Secretarios Técnicos, en las convocatorias para las sesiones y asambleas, así como para levantar las minutas y actas respectivas.
+I. Asistir a las reuniones del órgano en el cual ellos participen.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+II. Apoyar a los Coordinadores y miembros del Sistema y a los Secretarios Técnicos, en las convocatorias para las sesiones y asambleas, así como para levantar las minutas y actas respectivas.
 
 III. Llevar el registro de las sesiones y de los programas de actividades.
 
@@ -771,9 +899,11 @@ I. Reuniones ordinarias de trabajo según lo determinen sus miembros, por lo men
 
 II. Reuniones extraordinarias cada que sus miembros lo consideren conveniente.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 68.
 
-Las asambleas de los Comités con los habitantes de la localidad que representen serán cada que sus integrantes lo requieran, las cuales se realizarán por lo menos una vez al año.
+Las asambleas de los Comités con los habitantes de la localidad que representen serán cada que sus integrantes lo requieran, las cuales se realizarán por lo menos cada dos meses.
 
 ### CAPÍTULO XI.. DE LOS REQUISITOS Y TÉRMINO DE FUNCIONES DE LOS MIEMBROS DEL SISTEMA
 
@@ -831,9 +961,9 @@ Los requisitos para ser miembros de los Comités Comunitarios son:
 
 I. Ser residente de la localidad.
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
 
-II. No formar parte del personal de la Secretaría de Desarrollo Social, Secretaría de Desarrollo Sustentable del Municipio de Querétaro o Secretaría de Obras Públicas Municipales; y
+II. No formar parte del personal de la Secretaría de Desarrollo Social, Secretaría de Gestión Delegacional, Secretaría de Desarrollo Sustentable del Municipio de Querétaro o Secretaría de Obras Públicas Municipales; y
 
 III. No ser propietario del fraccionamiento, colonia o predio del cual se forme la localidad en donde se constituya el Comité; asimismo, no deberá ser promotor para la venta de los lotes de esa localidad.
 
@@ -853,11 +983,13 @@ I. Cumplir el periodo para el cual fueron electos.
 
 II. Porque así lo determine la Coordinación General por causa Justificada.
 
-III. Por acuerdo del órgano en que participe al acumular tres faltas Injustificadas de manera continua o más del treinta y tres por ciento de faltas en el periodo de un año.
+III. (DEROGADA, P.O. 28 DE MARZO DE 2008)
 
 IV. Por renuncia.
 
-V. Por otro nombramiento dentro del Sistema.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+V. Por otro nombramiento, ya que solo podrá ser Coordinador de un solo órgano del Sistema.
 
 VI. En el caso de los representantes de los Comités, porque así lo determine en la asamblea el Comité que los eligió.
 
@@ -867,25 +999,33 @@ Los coordinadores de todos los órganos que integran el Sistema, estarán obliga
 
 ### CAPÍTULO XII.. DE LAS ELECCIONES
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 80.
 
-El Coordinador General y los siete invitados a la Coordinación General por el Presidente Municipal, los Coordinadores de los Consejos Temáticos, los Coordinadores de los Consejos Delegacionales y Regionales, los Presidentes de los Comités Comunitarios, el Contralor Social y los Vocales de Control y Vigilancia, durarán en su cargo dieciocho meses. Las personas que ostenten estos cargos podrán ser reelectos únicamente para un segundo periodo, de no ser así, podrán continuar participando como miembros Consejeros.
+El Coordinador General y los siete invitados a la Coordinación General por el Presidente Municipal, los Coordinadores de los Consejos Temáticos, los Coordinadores de los Consejos Delegacionales y Regionales, los Presidentes de los Comités Comunitarios, el Contralor Social y los Vocales de Control y Vigilancia, durarán en su cargo dieciocho meses. Las personas que ostenten estos cargos podrán ser reelectos únicamente para un segundo periodo, de no ser así, podrán continuar participando como miembros Consejeros, queda exceptuado de lo anterior el Secretario de Gestión Delegacional.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
 
 ###### Artículo 81.
 
-Con la finalidad de dar continuidad a los trabajos que se desarrollen en el marco del Sistema, en cada periodo de elecciones se renovará únicamente el cincuenta por ciento de los representantes de los órganos que lo integran.
+Con la finalidad de dar continuidad a los trabajos que se desarrollen en el marco del Sistema, en cada periodo de elecciones se renovará únicamente el cincuenta por ciento de los representantes de los órganos que lo integran, para tal efecto se tomará en cuenta el desempeño que han tenido éstos dentro de sus atribuciones en el periodo correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
 
 ###### Artículo 82.
 
-Cuando un miembro del Sistema con cargo de elección, por cualquier causa deje de asistir, su suplente tomará su cargo hasta terminar el periodo para el cual fue electo el propietario.
+Cuando un miembro del Sistema con cargo de elección, por cualquier causa deje de asistir, renuncie al cargo o se revoque su nombramiento su suplente tomará su cargo hasta terminar el periodo para el cual fue electo el propietario. En caso de no tener suplente se convocará a nueva elección.
 
 ###### Artículo 83.
 
 Los Presidentes de los Comités Comunitarios que sean electos para coordinar un Consejo, podrán aceptarlo si cumplen con los requisitos que se requieren para su nueva responsabilidad y podrán continuar representando a su localidad, sin embargo, una misma persona no podrá ser Coordinador de dos Consejos, ni Coordinador de un Consejo y Contralor Social.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 84.
 
-Es responsabilidad de la Secretaría de Desarrollo Social el elaborar y realizar la convocatoria de las asambleas para elegir a cualquiera de los representantes de los órganos que integran el Sistema.
+Es responsabilidad de la Secretaría de Desarrollo Social en conjunto con la Delegación Municipal respectiva, el elaborar y realizar la convocatoria de las asambleas para elegir a cualquiera de los representantes de los órganos que integran el Sistema.
 
 ###### Artículo 85.
 
@@ -941,11 +1081,15 @@ La Secretaría convocará con ocho días de anticipación a los miembros que int
 
 El objetivo de las asambleas es darle formalidad a las reuniones y lograr acuerdos por parte de los miembros que integren cada uno de los órganos que forman el Sistema sobre el trabajo y las acciones que desarrollen acorde a sus funciones, atribuciones y responsabilidades, así como el de elegir a sus representantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 91.
 
-Para que sean válidos los acuerdos tomados en asamblea, será necesario cumplir con lo siguiente:
+Para que sean legalmente válidos los acuerdos tomados en asamblea, será necesario cumplir con lo siguiente:
 
-I. Que se haya convocado en forma escrita. En el caso de asambleas de los Comités Comunitarios, fijando convocatoria en lugares visibles o algún otro medio que se determine.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2008)</small>
+
+I. Que se haya convocado en forma escrita. En el caso de asambleas de los Comités Comunitarios, fijando convocatoria en lugares visibles de la colonia o localidad de que se trate.
 
 II. Que en la convocatoria se indique el motivo de la reunión, fecha, hora y lugar de la misma.
 
@@ -953,9 +1097,11 @@ III. Que los acuerdos se tomen por mayoría de votos, de quienes asistieron con 
 
 IV. Que se levante el acta correspondiente y que la firmen quienes la presidieron.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2008)</small>
+
 ###### Artículo 92.
 
-Para que se considere legalmente instalada la asamblea en su primera convocatoria deberán estar presentes el cincuenta por ciento más uno del total de miembros que integran el padrón del órgano de que se trate.
+Para que se considere legalmente instalada la asamblea en su primera convocatoria deberán estar presente por lo menos el cincuenta por ciento más uno del total de miembros que integran el padrón del órgano de que se trate.
 
 ###### Artículo 93.
 
@@ -1000,3 +1146,13 @@ PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobie
 SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
 
 TERCERO. Notifíquese a los titulares de las Dependencias, Organismos y Unidades Municipales, que conforman la presente Administración.
+
+P.O. 28 DE MARZO DE 2008.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Las obras, acciones y servicios autorizados a través del Sistema de Consejos Municipales, con anterioridad al inicio de la vigencia del presente reglamento, continuarán rigiéndose conforme a las disposiciones legales que les dieron origen.
+
+CUARTO. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a las presentes reformas.
