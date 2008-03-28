@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-coordinacion-interinstitucional-40396
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-06"
-last_updated: "2004-08-06"
+last_updated: "2008-03-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION INTERINSTITUCIONAL PARA LA ATENCION A LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO INTERIOR DE LA COORDINACION INTERINSTITUCIONAL PARA LA ATENCION A LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE MICHOACAN DE OCAMPO
+REGLAMENTO INTERIOR DE LA COORDINACIÓN INTERINSTITUCIONAL PARA LA ATENCIÓN A LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 1 DEL DECRETO DE EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COORDINACIÓN INTERINSTITUCIONAL PARA LA ATENCIÓN A LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE MICHOACÁN DE OCAMPO", PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el viernes 6 de agosto de 2004.
 
@@ -430,3 +432,15 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaría de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Decreto Administrativo publicado en el Periódico Oficial del Estado el 9 de Septiembre del 2002, por el cual se creó el Organismo Público Descentralizado denominado "Coordinación Interinstitucional para la Atención a los Pueblos y Comunidades Indígenas del Estado de Michoacán de Ocampo".
+
+Artículo Tercero.- Las transferencias que deban realizarse, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como las transferencias de recursos humanos y de los activos patrimoniales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general el equipo con el que el Organismo haya utilizado para los asuntos a su cargo.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
