@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-coordinacion-general-para-la-34109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-24"
-last_updated: "2003-09-24"
+last_updated: "2008-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION GENERAL PARA LA ATENCION AL MIGRANTE MICHOACANO
 
-REGLAMENTO INTERIOR DE LA COORDINACION GENERAL PARA LA ATENCION AL MIGRANTE MICHOACANO
+REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL PARA LA ATENCIÓN AL MIGRANTE MICHOACANO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE EXTINCIÓN DEL ORGANISMO PÚBLICO DENOMINADO INSTITUTO MICHOACANO DE LOS MIGRANTES EN EL EXTRANJERO, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 24 de septiembre de 2003.
 
@@ -294,3 +296,15 @@ LEOPOLDO ENRIQUE BAUTISTA VILLEGAS.- Secretario de Gobierno. (Firmado).
 CLAUDIO MÉNDEZ FERNÁNDEZ.- Coordinador General para la Atención al Migrante Michoacano.
 
 Hoja de firmas del Reglamento Interior de la Coordinación General para la Atención al Migrante Michoacano.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Decreto Administrativo publicado en el Periódico Oficial del Estado el 19 de abril del 2002, y su reforma publicada en el Periódico Oficial del Estado de fecha 11 de Octubre de 2006, por el cual se creó el Organismo Público Descentralizado denominado «Instituto Michoacano de los Migrantes en el Extranjero».
+
+Artículo Tercero.- Las transferencias que deban realizarse, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como las transferencias de recursos humanos y de los activos patrimoniales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general el equipo con el que el Organismo haya utilizado para los asuntos a su cargo.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
