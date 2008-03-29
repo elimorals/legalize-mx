@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2007-12-04"
+last_updated: "2008-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -285,9 +285,21 @@ XXVII.- Vigilar el cumplimiento de esta Ley, de su reglamento y demás disposici
 
 XXVIII.- Supervisar los servicios educativos que imparta el Gobierno del Estado, los organismos descentralizados, órganos desconcentrados y particulares con autorización o con reconocimiento de validez oficial de estudios;
 
-XXIX.- Imponer sanciones a las escuelas que infrinjan las disposiciones legales, en materia educativa; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
 
-XXX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XXIX.- Imponer sanciones a las escuelas que infrinjan las disposiciones legales, en materia educativa;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
+
+XXX.- Coordinarse con la Secretaría de Salud, para implementar programas que fomenten en los educandos, el consumo de alimentos y bebidas con alto contenido nutricional y bajo contenido calórico;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+
+XXXI.- Establecer lineamientos para prohibir la venta o consumo de alimentos y bebidas con bajo o nulo contenido nutricional, en las cooperativas o tiendas escolares y, en general, en los espacios donde se expende o consumen alimentos en las instituciones de nivel básico obligatorio, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+
+XXXII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 23.
 
@@ -677,9 +689,17 @@ I.- Desarrollar programas y acciones efectivas para evitar la deserción y repro
 
 II.- Redefinir las acciones del área de asistencia educativa de cada plantel, a fin de que éstas sean verdadera instancia de orientación y apoyo a los educandos;
 
-III.- Impulsar iniciativas y organismos de atención a los derechos humanos que incidan en bien de la comunidad educativa, y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
 
-IV.- Continuar el desarrollo de programas nacionales y estatales de educación, para hacer conciencia sobre la necesidad de una planificación familiar como base de respeto a la dignidad humana y al derecho a la vida.
+III.- Impulsar iniciativas y organismos de atención a los derechos humanos que incidan en el bien de la comunidad educativa;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
+
+IV.- Desarrollar los programas establecidos por la autoridad competente que fomenten el consumo de alimentos y bebidas con alto contenido nutricional, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+
+V.- Continuar el desarrollo de programas nacionales y estatales de educación, para hacer conciencia sobre la necesidad de una planificación familiar como base de respeto a la dignidad humana y al derecho a la vida.
 
 ###### ARTICULO 63.
 
@@ -865,9 +885,17 @@ III.- Proporcionar el porcentaje de becas en los términos establecidos en la no
 
 IV.- Cumplir los requisitos previstos en los artículos 77 y 78 de esta Ley;
 
-V.- Anotar en toda la documentación que expidan y en su publicidad, el número y fecha del acuerdo de autorización o de reconocimiento de validez oficial de estudios, así como el nombre de la autoridad que la otorgó; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
 
-VI.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen.
+V.- Anotar en toda la documentación que expidan y en su publicidad, el número y fecha del acuerdo de autorización o de reconocimiento de validez oficial de estudios, así como el nombre de la autoridad que la otorgó;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
+
+VI.- Ejecutar los programas establecidos por la Secretaría de Salud, en coordinación con la Secretaría de Educación del Estado, que fomenten el consumo de alimentos y bebidas con alto contenido nutricional, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+
+VII.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen.
 
 ###### ARTICULO 81.
 
@@ -961,9 +989,17 @@ II.- Colaborar para una mejor integración de la comunidad escolar, así como en
 
 III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que las propias asociaciones deseen hacer al establecimiento escolar;
 
-IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
 
-V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
+IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
+
+V.- Coadyuvar con las autoridades educativas difundiendo entre los padres de familia, información sobre la importancia del consumo de alimentos y bebidas con alto contenido nutricional y bajo contenido calórico, y su influencia en los procesos de aprendizaje de sus hijos, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+
+VI.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
 
 ### Capítulo II.
 
@@ -1324,6 +1360,14 @@ CUARTO. Se concede al Ejecutivo del Estado, un término de ciento veinte días c
 QUINTO. El séptimo párrafo del artículo 35 de este Decreto entrará en vigor a partir del inicio del ciclo escolar 2009-2010. Asimismo a la entrada en vigor del presente Decreto, se llevarán a cabo las acciones de capacitación necesarias, para contar con una plantilla suficiente de profesores que cumplan con los requerimientos del referido precepto; procurando mientras tanto, que los maestros que impartan educación en comunidades indígenas, sean hablantes de la lengua de la comunidad indígena en la que presten sus servicios.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE MARZO DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En relación a las disposiciones contenidas en el Artículo Primero del presente Decreto, éstas deben implementarse dentro de un término que no exceda los ciento veinte días siguientes a la publicación del mismo, en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
 
 ## TRANSITORIOS
 
