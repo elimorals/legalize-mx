@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2007-12-04"
+last_updated: "2008-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -957,9 +957,13 @@ II. Proporcionar a la población los conocimientos sobre las causas de las enfer
 
 III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar y salud reproductiva, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención y rehabilitación, y detección oportuna de enfermedades.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
+
 ###### ARTICULO 93.
 
-La Secretaría de Salud del Estado, en coordinación con las autoridades federales competentes, formulará, propondrá y desarrollará programas de educación para la salud, los cuales podrán ser difundidos en los medios de comunicación masiva que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+
+La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los distintos niveles de educación básica obligatoria, a efecto de combatir la obesidad y el sobrepeso; el cual incluirá entre otras acciones, la medición de masa corporal, el fomento del consumo de alimentos y bebidas saludables, y el fortalecimiento de una actividad física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
 
 ### CAPITULO IV. La Prevención y el Control de las Enfermedades Bucodentales
 
@@ -979,9 +983,17 @@ I. Establecer un sistema permanente de vigilancia de la nutrición;
 
 II. Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables;
 
-III. Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población, y establecer las necesidades mínimas de nutrimentos para el mantenimiento de las buenas condiciones de salud de la población, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
 
-IV. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos por la población en general.
+III. Observar y recomendar, en coordinación con la Secretaría de Educación, que los alimentos y bebidas que se expendan al interior de las escuelas de educación básica obligatoria, posean alto contenido nutricional, que coadyuve a una alimentación saludable;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
+
+IV. Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población; y establecer las necesidades mínimas de nutrimentos para el mantenimiento de las buenas condiciones de salud de la población, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+
+V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos (sic) por la población en general.
 
 ### CAPITULO V. Organización de los Servicios de Salud
 
@@ -1483,7 +1495,7 @@ IV. Atención personalizada;
 
 V. Integración de expedientes clínicos;
 
-VI. Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia;
+VI. Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia (sic);
 
 VII. Prescripción y surtimiento de medicamentos, y
 
@@ -3156,3 +3168,11 @@ P.O. 4 DE DICIEMBRE DE 2007.
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE MARZO DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En relación a las disposiciones contenidas en el Artículo Primero del presente Decreto, éstas deben implementarse dentro de un término que no exceda los ciento veinte días siguientes a la publicación del mismo, en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
