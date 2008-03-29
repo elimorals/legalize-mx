@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2007-09-29"
+last_updated: "2008-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -539,7 +539,9 @@ Son facultades del Pleno:
 
 I. Elegir, de entre sus integrantes, por mayoría calificada de las dos terceras partes de los magistrados presentes, al Presidente del Supremo Tribunal de Justicia y adscribir al resto a las Salas correspondientes.
 
-II. Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
+
+II. Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia. Así mismo, señalar cada año los magistrados que, en materia penal, deberán constituir las Salas Colegiadas, sin perjuicio de que por razones graves pueda replantear su integración.
 
 III. Convocar a concurso de méritos, en los términos del artículo 103 de la Constitución Política del Estado, para la integración de la terna que se presentará al Congreso para la elección de magistrados y designar a los representantes del Poder Judicial que deberán formar parte del jurado.
 
@@ -773,7 +775,7 @@ Las providencias y acuerdos del Presidente podrán reclamarse ante el Pleno, sie
 
 ### CAPITULO IV. DE LAS SALAS
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 59.
 
@@ -781,11 +783,11 @@ Las Salas serán unitarias o colegiadas y el Pleno determinará la materia sobre
 
 En materia penal:
 
-l. Las Salas serán colegiadas para conocer de los recursos de casación y revisión y serán unitarias para conocer del recurso de apelación en todos los casos.
+I.- Las salas serán colegiadas, integradas por tres magistrados, para conocer de los recursos de casación y revisión, y unitarias para conocer del recurso de apelación.
 
-II. El recurso de casación deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en apelación; y el recurso de revisión deberán conocerlo Magistrados que no hubieren intervenido en el mismo asunto en casación.
+II.- El recurso de casación podrá ser conocido por magistrados que hubieren intervenido en el mismo asunto en apelación y el recurso de revisión por magistrados que hubieren intervenido en el mismo asunto en apelación o casación.
 
-Las Salas especializadas para adolescentes infractores siempre serán unitarias y conocerán de los recursos de apelación y casación, los que, aunque atañan a un mismo proceso, pueden resolverse por una misma Sala.
+III.- Las salas especializadas para adolescentes infractores siempre serán unitarias y conocerán de los recursos de apelación, casación y revisión, los que, aunque atañan a un mismo proceso, pueden resolverse por una misma sala.
 
 ###### ARTICULO 60.
 
@@ -3308,3 +3310,9 @@ Por lo que respecta a la reforma constitucional, conforme lo dispone el artícul
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, por lo que se refiere a la reforma a la Constitución Política del Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. En tanto, la reforma a la Ley Orgánica del Poder Judicial tendrá aplicación el día inmediato posterior a la vigencia de la reforma constitucional.
+
+P.O. 29 DE MARZO DE 2008.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
