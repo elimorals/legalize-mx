@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-instituto-de-estudios-judiciales-53827"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-08"
-last_updated: "2006-02-08"
+last_updated: "2008-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DEL INSTITUTO DE ESTUDIOS JUDICIALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el miércoles 8 de febrero de 2006.
 
@@ -75,7 +75,9 @@ El Instituto tendrá como atribuciones, establecer:
 
 I. Programas específicos de capacitación, formación, actualización y profesionalización de los servidores judiciales;
 
-II. Programas académicos de educación superior especializada orientados a la profesionalización de la función jurisdiccional;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
+
+II. Estudios de posgrado, como son especialidades, maestrías y doctorados;
 
 III. Procedimientos eficientes y oportunos para el fortalecimiento de la promoción, selección, formación y evaluación de la carrera judicial;
 
@@ -125,7 +127,9 @@ VI. Rendir al Consejo, un informe mensual y anual de las actividades realizadas;
 
 VII. Firmar los diplomas, certificados y constancias que emita el Instituto;
 
-VIII. Firmar conjuntamente con el presidente del Consejo los diplomas de especialidad y títulos de grado que se expidan;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
+
+VIII. Firmar los grados, diplomas y demás documentos que expida el Instituto;
 
 IX. Presentar el programa operativo anual del Instituto al Comité Académico, previa autorización del Secretariado Ejecutivo;
 
@@ -527,7 +531,7 @@ III. El alumno tenga un promedio mínimo de 9.5 (nueve punto cinco).
 
 Para finalizar el examen profesional o de grado, el presidente tomará el juramento al sustentante y se procederá a firmar el acta que se asentará en el libro correspondiente que al efecto se llevará.
 
-## TITULO III (SIC). DE LA COMUNIDAD ESCOLAR
+## TITULO III. DE LA COMUNIDAD ESCOLAR
 
 ### CAPITULO I. DE LOS ALUMNOS
 
@@ -860,3 +864,11 @@ LICENCIADO JESÚS MOTILLA MARTÍNEZ
 CONSEJERO
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE MARZO DE 2008.
+
+PRIMERO.- Publíquese, la presente reforma en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
