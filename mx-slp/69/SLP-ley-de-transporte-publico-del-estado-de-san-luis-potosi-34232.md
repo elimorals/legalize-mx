@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-34232"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-18"
-last_updated: "2006-07-13"
+last_updated: "2008-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de septiembre de 2003.
 
@@ -331,11 +331,13 @@ Para efectos de la presente Ley, se entenderá por concesión, el acto administr
 
 Las concesiones para los servicios de trasporte (sic) urbano, interurbano y foráneo a que se refieren las fracciones I, II y III del artículo 17 de esta Ley, se otorgarán mediante concurso; las de transporte rural y de servicios especiales a que se refieren las fracciones IV y V de ese mismo precepto, así como las de transporte de carga que se consigna en el artículo 18 de esta Ley, podrán ser otorgadas sin necesidad de someterse al procedimiento de concurso que establece este Ordenamiento, siempre y cuando se cumplan los siguientes requisitos:
 
-I La Secretaría deberá emitir el dictamen técnico, previa opinión del Consejo de Transporte Público Municipal correspondiente, la cual será ratificada por el ayuntamiento; en caso de no existir Consejo, el ayuntamiento emitirá la opinión, en la que se justifique lo siguiente:
+I. La Secretaría deberá emitir el dictamen técnico, previa opinión del Consejo de Transporte Público Municipal correspondiente, la cual será ratificada por el ayuntamiento; en caso de no existir Consejo, el ayuntamiento emitirá la opinión, en la que se justifique lo siguiente:
 
 a) la modalidad y el número de concesiones a expedir.
 
-b) El tipo y características de los vehículos que se requieran.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
+
+b) El tipo y características de los vehículos que se requieran, siendo requisito esencial poseer dispositivos de control de velocidad y aceleración, que eviten el desplazamiento de las unidades de transporte urbano colectivo, a una velocidad mayor a los sesenta kilómetros por hora, y mantengan el nivel constante y confortable de aceleración.
 
 c) El itinerario y paradas; en caso de rutas, su origen y destino.
 
@@ -345,7 +347,9 @@ e) Las demás que señalen las disposiciones jurídicas y administrativas aplica
 
 II. Contar con la factibilidad o licencia de uso de suelo, en su caso, expedido por el ayuntamiento, para el funcionamiento de los sitios o las bases de origen y destino que se deban de emplear;
 
-III. Acreditar la propiedad de un vehículo con las características a que se refiere el dictamen técnico, o bien, acreditar tener la capacidad económica para su adquisición; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
+
+III. Acreditar la propiedad de un vehículo con las características a que se refiere el dictamen técnico, y
 
 IV. En todos los casos, las concesiones se otorgarán preferentemente a los solicitantes que acrediten la vecindad en la comunidad o en el municipio de origen, en todas las modalidades, y que garanticen la prestación del servicio en las mejores condiciones, atendiendo para ello a los criterios que se contengan en el Reglamento de esta Ley.
 
@@ -405,7 +409,9 @@ I. Los resultados de los estudios técnicos que justifiquen su otorgamiento;
 
 II. La modalidad y el número de concesiones a expedir;
 
-III. El tipo y características de los vehículos que se requieran;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
+
+III. El tipo y características de los vehículos que se requieran, siendo requisito esencial poseer dispositivos de control de velocidad y aceleración, que eviten el desplazamiento de las unidades de transporte urbano colectivo, a una velocidad mayor a los sesenta kilómetros por hora, y mantengan el nivel confortable de aceleración;
 
 IV. Las condiciones generales para la prestación del servicio, y
 
@@ -739,7 +745,13 @@ b) La Secretaría establecerá manuales de operación de los sistemas integrales
 
 c) Bajo los esquemas que establezca la propia Secretaría, los concesionarios serán corresponsables de la supervisión y mejora del servicio, eliminando desviaciones en la aplicación de horarios, frecuencia de paso y cupo.
 
-d) La Secretaría, implementará bajo la figura de concesión, servicios auxiliares al transporte tales como patios de pernocta y terminales de servicio, cuya utilización será obligatoria para los concesionarios de que se trate, en función de localización de las instalaciones y las rutas que operen en su cercanía;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
+
+d) La Secretaría implementará bajo la figura de concesión, servicios auxiliares al transporte, tales como patios de pernocta y terminales de servicio, cuya utilización será obligatoria para los concesionarios de que se trate, en función de localización de las instalaciones y las rutas que operen en su cercanía.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+e) El servicio deberá brindarse mediante el desplazamiento moderado y confortable de las unidades, sin sobrepasar el límite de velocidad, de acuerdo a lo dispuesto por el párrafo segundo del artículo 51 de la Ley de Tránsito del Estado de San Luis Potosí;
 
 II. Relativos a las condiciones de los vehículos:
 
@@ -747,7 +759,13 @@ a) Los autobuses tendrán una antigüedad máxima de diez años.
 
 b) En las rutas de servicio urbano colectivo la Secretaría, de conformidad con las condiciones de demanda, vialidad y superficie de rodamiento, determinará la clase de vehículo que sea el más adecuado para la prestación de servicio, tomando en cuenta las condiciones de la zona y la necesidad de los usuarios.
 
-c) Se utilizarán exclusivamente vehículos diseñados expresamente para el transporte urbano de pasajeros, de conformidad con las especificaciones que determine la Secretaría;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
+
+c) Se utilizarán exclusivamente vehículos diseñados expresamente para el transporte urbano de pasajeros, de conformidad con las especificaciones que determine la Secretaría.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+d) Las unidades contarán con los dispositivos de control correspondientes, conforme lo preceptuado por la fracción III del artículo 31 de esta Ley;
 
 III. Relativos al operador:
 
@@ -985,7 +1003,9 @@ II. No interrumpir injustificadamente la prestación del servicio;
 
 III. Cumplir con todas las disposiciones legales y administrativas en materia de tránsito, transporte y vialidad; así como con las políticas y programas dictados por el titular del Ejecutivo por sí, o a través de la Secretaría;
 
-IV. Establecer, ampliar y adecuar en su caso con sus propios recursos, previo acuerdo de la autoridad de transporte, el equipamiento auxiliar de transporte para la debida prestación del servicio público concesionado;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
+
+IV. Establecer, ampliar y adecuar en su caso, con sus propios recursos, previo acuerdo de la autoridad de transporte, o en virtud de modificaciones a los ordenamientos jurídicos en la materia, el equipamiento auxiliar de transporte, para la debida prestación del servicio público concesionado;
 
 V. Prestar el servicio público de transporte de manera gratuita, cuando por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias, movimientos sociales o cuestiones de seguridad pública así se requiera;
 
@@ -1402,3 +1422,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en e
 TERCERO. Las personas físicas que hayan realizado el pago por derechos de concesión de servicio público de transporte, antes del 26 de septiembre del año 2003, contarán con un plazo de trescientos sesenta y cinco días naturales a partir de la entrada en vigor de este Decreto, con el fin de presentarse ante la Secretaría con la documentación original correspondiente. Una vez que se acredite el pago, el Ejecutivo del Estado, previo dictamen de la Secretaría de Comunicaciones y Transporte, expedirá el título de concesión correspondiente.
 
 CUARTO. El requisito establecido en la fracción VIII del artículo 61 de la Ley de Transporte Público del Estado de San Luis Potosí, consistente en acreditar la educación secundaria terminada, no será exigible a quienes con anterioridad a la entrada en vigor del presente Decreto, les haya sido expedida una licencia de servicio público de transporte de personas.
+
+P.O. 29 DE MARZO DE 2008.
+
+UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
