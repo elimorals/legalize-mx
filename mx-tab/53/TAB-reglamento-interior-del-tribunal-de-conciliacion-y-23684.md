@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-tribunal-de-conciliacion-y-23684"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-12"
-last_updated: "2001-12-12"
+last_updated: "2008-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 12 de diciembre de 2001.
 
@@ -63,6 +63,8 @@ El Tribunal es autónomo con plena jurisdicción y competencia para conocer y re
 
 El Tribunal será colegiado y funcionará en Pleno.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
+
 ###### Artículo 5.
 
 Para el despacho de los asuntos de su competencia, el Tribunal contará con los siguientes órganos, unidades y coordinaciones:
@@ -71,7 +73,7 @@ El Pleno del Tribunal;
 
 El Presidente del Tribunal;
 
-Los Magistrados representantes;
+Los Magistrados Representantes;
 
 La Secretaría General;
 
@@ -83,13 +85,17 @@ Unidad de Administración;
 
 La Unidad de Actuarías;
 
-La Unidad de Amparos;
-
 La Unidad de Estadísticas;
 
-La Unidad de Archivo; y
+La Unidad de Archivo;
 
-El Boletín Laboral Burocrático.
+El Boletín Laboral Burocrático;
+
+Unidad de Conciliación;
+
+Unidad de Incidentes; y
+
+La Unidad de Enlace de Transparencia y Acceso a la Información Pública.
 
 ### CAPITULO II. DEL PLENO
 
@@ -393,6 +399,84 @@ La publicación en el Boletín de las notificaciones que no tengan el carácter 
 
 La Violación a las disposiciones de este Reglamento se sancionarán de conformidad con lo dispuesto en la Ley de Responsabilidades.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+### CAPITULO XV. UNIDAD DE CONCILlACION
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+###### Artículo 35.
+
+Atender a los Trabajadores al Servicio del Estado y a las Dependencias para que lleguen a un arreglo conciliatorio; cuando las partes en conflicto concurren a la audiencia de conciliación se les exhorta para que ambos puedan convenir un acuerdo y no sea necesario continuar con la demanda laboral.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+###### Artículo 36.
+
+Independientemente de las facultades y atribuciones que le confiere la Ley y demás disposiciones legales, al jefe de la Unidad de Conciliación le corresponden, las siguientes funciones:
+
+l. Planear, organizar, dirigir y controlar las actividades dictadas por la Secretaría General de Acuerdos.
+
+II. Recepcionar y desahogar las diligencias que están agendadas.
+
+III. Dictar toda clase de Acuerdos en Relación a las mismas.
+
+IV. Ordenar emplazamientos a juicios en término del artículo 107.
+
+V. Realizar las demás funciones que le asigne el presidente de este Tribunal.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+### CAPITULO XVI. UNIDAD DE INCIDENTES
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+###### Artículo 37.
+
+Resolver los incidentes que presenta cualquiera de las partes, actora o demandada, se analiza: la petición del escrito y asimismo se dicta una resolución inmediata.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+###### ARTICULO 38.
+
+Sin perjuicio de las facultades y atribuciones que le confiere la Ley y demás disposiciones aplicables, al jefe de la Unidad de Incidentes le corresponde:
+
+I. Aceptar el escrito presentado por las partes.
+
+II. Estudiar, analizar y resolver el incidente para llegar a una resolución conforme a derecho.
+
+III. Revisar que el escrito este debidamente requisitado en cuanto a la fecha en que fue presentado el escrito en las oficinas de este H. Tribunal de Conciliación y Arbitraje.
+
+IV. Realizar las demás funciones que le asigne el presidente de este Tribunal.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+### CAPITULO XVII. ENLACE DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+###### Artículo 39.
+
+Garantizar el derecho de que toda persona pueda tener acceso a la información pública, proporcionando de manera eficiente y expedita dicha información ya sea de forma escrita o verbal o a través de los medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2008)</small>
+
+###### Artículo 40.
+
+El responsable de la Unidad de Enlace de Transparencia y Acceso a la Información Pública tendrá las siguientes obligaciones:
+
+l. Resolver las solicitudes de acceso a la información pública.
+
+II. Proveer lo necesario para que toda persona tenga acceso a la información pública.
+
+III. Promover la eficiencia en el manejo de la información pública.
+
+IV. Elaborar y difundir el boletín laboral burocrático y/o informativo de forma periódica.
+
+V. Proteger la información clasificada como reservada o confidencial.
+
+VI. Vigilar que en tiempo y forma sea contestada la información requerida por la Unidad de Acceso a la Información Pública de la Secretaría de Gobierno para no violar las garantías, consagradas en la Ley de Transparencia y Acceso a la Información Pública.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado y en el Boletín Laboral Burocrático.
@@ -416,3 +500,9 @@ MAGISTRADO REPRESENTANTE DE LOS TRABAJADORES
 LICENCIADO DIEGO SANCHEZ LARA
 
 SECRETARIO GENERAL DE ACUERDOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE MARZO DE 2008.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
