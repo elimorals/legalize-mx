@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2006-07-11"
+last_updated: "2008-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1285,11 +1285,39 @@ Los objetos que tengan efectos probatorios serán inspeccionados por el minister
 
 El ofendido o su legitimo representante, podrán solicitar al ministerio público, durante la averiguación previa, o por conducto de este al Juzgador, en el proceso, cuando esté comprobado el cuerpo del delito, que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de los mismos, siempre que estén legalmente justificados y se otorgue, en su caso, caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al procesado.
 
-### CAPÍTULO ÚNICO. AUTOS Y SENTENCIAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MARZO DE 2008)</small>
+
+### CAPÍTULO XII. ORDENES DE PROTECCIÓN PREVENTIVAS Y DE EMERGENCIA
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2008)</small>
+
+ARTÍCULO 178 A.-Las órdenes de protección de emergencia son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares, deberán ordenarse por el Juez a petición del Ministerio Público o de la parte ofendida en su caso o dentro de las 24 horas siguientes al conocimiento de los hechos que las generen, tendrán una temporalidad de 72 horas y podrán ser:
+
+I.- Desocupación por la persona agresora del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble;
+
+II.- Prohibición al presunto responsable de acercarse a menos de 300 metros al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes o cualquier otro que frecuente la víctima;
+
+III.- Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad; y
+
+IV.- Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2008)</small>
+
+ARTÍCULO 178 B.- Son órdenes de protección preventivas las siguientes:
+
+I. Retención y guarda de armas de fuego, punzo contundentes o punzo cortantes, propiedad de la persona agresora o de alguna institución privada de seguridad, independientemente si las mismas fueron utilizadas para amenazar o lesionar a la víctima y de que se encuentren registradas conforme a la normatividad de la materia;
+
+II. Inventario de los bienes muebles que se encuentren en el inmueble que sirva de domicilio a la víctima;
+
+III. Uso y goce de bienes muebles que se encuentren en el domicilio de la víctima;
+
+IV. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijos e hijas; y
+
+V. Auxilio policiáco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice la víctima en el momento de solicitar el auxilio.
 
 ## TÍTULO SEXTO. RESOLUCIONES JUDICIALES
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO ÚNICO. AUTOS Y SENTENCIAS
 
 ###### ARTÍCULO 179.
 
@@ -1355,7 +1383,7 @@ Son resoluciones ejecutoriadas, aquellas contra las que no procede ya ningún me
 
 ## TÍTULO SÉPTIMO. MEDIOS DE PRUEBA
 
-### CAPÍTULO II. CONFESIONAL
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 189.
 
@@ -1389,7 +1417,7 @@ Ni los hechos notorios ni el derecho requerirá de prueba, salvo que se trate de
 
 Toda persona o autoridad en cuyo poder se hallen cosas o documentos que puedan servir de prueba, tiene la obligación de exhibirlos cuando para ello sea requerida en forma por el ministerio público o por el juez que conozca de la causa, con las salvedades que establezcan las leyes.
 
-### CAPÍTULO III. INSPECCIÓN Y RECONSTRUCCIÓN DE HECHOS
+### CAPÍTULO II. CONFESIONAL
 
 ###### ARTÍCULO 196.
 
@@ -1421,7 +1449,7 @@ La confesión sirve para demostrar la responsabilidad de quien la hace, pero el 
 
 Cuando el inculpado admita haber realizado el hecho delictuoso que se le imputa, pero agregue circunstancias atenuantes o, en su caso, causas que excluyan o extingan su responsabilidad, si no existe prueba en contrario ni resulta inverosímil la parte calificativa de la confesión, ésta será indivisible para el ministerio público y para el juzgador.
 
-### CAPÍTULO IV. PERICIAL
+### CAPÍTULO III. INSPECCIÓN Y RECONSTRUCCIÓN DE HECHOS
 
 ###### ARTÍCULO 203.
 
@@ -1467,7 +1495,7 @@ En la reconstrucción estarán presentes, si fuera posible, todos los que hayan 
 
 Cuando haya versiones distintas acerca de la forma en que ocurrieron los hechos se practicarán, si son conducentes al esclarecimiento de los mismos, las reconstrucciones relativas a cada una de ellas y, en caso de que se haga necesaria la intervención de peritos, éstos dictaminarán sobre cual de las versiones resulta más verosímil.
 
-### CAPÍTULO V. TESTIMONIAL
+### CAPÍTULO IV. PERICIAL
 
 ###### ARTÍCULO 213.
 
@@ -1549,7 +1577,7 @@ II. El cotejo se hará con documentos indubitables o con los que las partes de c
 
 El juzgador podrá ordenar que se repita el cotejo por otros peritos.
 
-### CAPÍTULO VI. CONFRONTACIÓN
+### CAPÍTULO V. TESTIMONIAL
 
 ###### ARTÍCULO 228.
 
@@ -1637,7 +1665,7 @@ La autoridad que practique las diligencias proveerá lo necesario para que los t
 
 Siempre que durante la declaración de un testigo ocurran circunstancias que puedan afectar su credibilidad, se hará constar en el acta respectiva.
 
-### CAPÍTULO VII. CAREOS
+### CAPÍTULO VI. CONFRONTACIÓN
 
 ###### ARTÍCULO 243.
 
@@ -1689,7 +1717,7 @@ Este procedimiento podrá utilizarse cuando se trate de otros delitos, si el min
 
 La identificación por medio de fotografía o cualquier otro medio será considerada como dato indiciario y sólo se utilizará cuando deba reconocerse una persona a quien no sea posible hacer comparecer.
 
-### CAPÍTULO VIII. DOCUMENTAL
+### CAPÍTULO VII. CAREOS
 
 ###### ARTÍCULO 250.
 
@@ -1711,7 +1739,7 @@ El careo se practicará solamente entre dos personas y no intervendrán en la di
 
 Cuando no sea posible hacer comparecer alguno de los que deban ser careados o resida fuera del Estado, se practicará el careo supletorio, leyéndose al compareciente su propia declaración y la del ausente, haciéndole notar las contradicciones para que haga las aclaraciones necesarias.
 
-### CAPÍTULO IX. COMUNICACIONES PRIVADAS
+### CAPÍTULO VIII. DOCUMENTAL
 
 ###### ARTÍCULO 254.
 
@@ -1759,13 +1787,13 @@ Se seguirá el mismo procedimiento cuando el juzgado solicite a cualquier oficin
 
 El juez de manera oficiosa o a petición de parte mandará sacar testimonio de documentos privados existentes en libros, cuadernos o archivos de comerciantes, industriales o de cualquier otro particular, siempre que el que pida la compulsa indique la constancia que solicita y ésta tenga relación con el hecho que se investiga.
 
-### CAPÍTULO X. PRUEBA INDICIARIA
+### CAPÍTULO IX. COMUNICACIONES PRIVADAS
 
 ###### ARTÍCULO 263.
 
 Las comunicaciones privadas de carácter verbal, gestual o escritas, distintas de la correspondencia epistolar o de los telegramas recibidos o enviados por el inculpado, constituyen medios probatorios en el procedimiento penal, siempre que el Procurador General de Justicia solicite durante la averiguación previa a la autoridad judicial federal, la autorización para interceptar dichas comunicaciones, fundando y motivando las causas legales de su solicitud.
 
-### CAPÍTULO XI. VALORACIÓN DE LOS MEDIOS DE PRUEBA
+### CAPÍTULO X. PRUEBA INDICIARIA
 
 ###### ARTÍCULO 264.
 
@@ -1775,7 +1803,7 @@ Además de las presunciones legales, el juzgador puede integrar presunción sobr
 
 Los jueces, según la naturaleza de los hechos y el enlace lógico y natural que exista entre los datos conocidos y la verdad que se busca conocer, apreciarán en conciencia el valor de los indicios hasta poder considerarlos como prueba plena.
 
-### CAPÍTULO I. DENUNCIA Y QUERELLA
+### CAPÍTULO XI. VALORACIÓN DE LOS MEDIOS DE PRUEBA
 
 ###### ARTÍCULO 266.
 
@@ -1867,7 +1895,7 @@ En ninguno de los casos a que se refiere este artículo, podrá iniciarse un nue
 
 ## TÍTULO PRIMERO. INICIACIÓN DEL PROCEDIMIENTO
 
-### CAPÍTULO II. DE LAS ACTUACIONES MINISTERIALES
+### CAPÍTULO I. DENUNCIA Y QUERELLA
 
 ###### ARTÍCULO 281.
 
@@ -1921,7 +1949,7 @@ Cuando la denuncia o la querella se realicen por comparecencia, se hará constar
 
 El ministerio público está obligado a informar al denunciante o querellante, dejando constancia en el acta correspondiente, sobre la trascendencia jurídica del acto que realiza y las penas en que incurren los que declaran falsamente ante las autoridades. Los servidores públicos no están obligados a hacer esa ratificación, salvo cuando exista duda sobre su personalidad o la autenticidad del informe.
 
-### CAPÍTULO III. ATENCIÓN MÉDICA A VÍCTIMAS DEL DELITO, LESIONADOS Y ASISTENCIA A MENORES E INCAPACES
+### CAPÍTULO II. DE LAS ACTUACIONES MINISTERIALES
 
 ###### ARTÍCULO 289.
 
@@ -1957,7 +1985,7 @@ A las actuaciones realizadas en averiguación previa, sólo podrán tener acceso
 
 El servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la averiguación, incurrirá en responsabilidad.
 
-### CAPÍTULO IV. PRESERVACIÓN Y ASEGURAMIENTO DE INSTRUMENTOS, OBJETOS Y PRUEBAS DEL DELITO
+### CAPÍTULO III. ATENCIÓN MÉDICA A VÍCTIMAS DEL DELITO, LESIONADOS Y ASISTENCIA A MENORES E INCAPACES
 
 ###### ARTÍCULO 296.
 
@@ -1999,7 +2027,7 @@ d).- Que existan elementos que permitan al ministerio público, suponer que el e
 
 e).- Que exista solicitud de la mujer embarazada.
 
-### CAPÍTULO V. CATEOS
+### CAPÍTULO IV. PRESERVACIÓN Y ASEGURAMIENTO DE INSTRUMENTOS, OBJETOS Y PRUEBAS DEL DELITO
 
 ###### ARTÍCULO 301.
 
@@ -2045,7 +2073,7 @@ Si el delito fuere el de falsificación de documentos, fraude por maquinación d
 
 En los delitos patrimoniales en que la cosa u objeto material haya desaparecido, se procurará hacer constar por declaración de testigos y cualquier otro medio probatorio, su preexistencia y las circunstancias de ejecución.
 
-### CAPÍTULO VI. INTERVENCIÓN DE COMUNICACIONES PRIVADAS
+### CAPÍTULO V. CATEOS
 
 ###### ARTÍCULO 310.
 
@@ -2087,9 +2115,7 @@ Los cateos deben practicarse entre las seis y las dieciocho horas, pudiendo cont
 
 Los cateos realizados sin autorización judicial o violando lo dispuesto en los artículos anteriores, serán nulos. En consecuencia, las pruebas recabadas no tendrán ninguna validez y el aprehendido ilegalmente al interior de un domicilio será puesto en libertad con las reservas legales.
 
-### CAPÍTULO VII
-
-COMPROBACIÓN DEL CUERPO DEL DELITO Y DE LA PROBABLE RESPONSABILIDAD DEL INCULPADO.
+### CAPÍTULO VI. INTERVENCIÓN DE COMUNICACIONES PRIVADAS
 
 ###### ARTÍCULO 316.
 
@@ -2123,7 +2149,9 @@ Cualquier intervención de comunicaciones privadas, realizada sin la autorizaci�
 
 Cuando la intervención de comunicaciones o la vigilancia electrónica, sean necesarias para la localización y captura de indiciados contra quienes se haya dictado orden de aprehensión, se procederá conforme a las disposiciones anteriores.
 
-### CAPÍTULO I. EJERCICIO DE LA ACCIÓN PENAL
+### CAPÍTULO VII
+
+COMPROBACIÓN DEL CUERPO DEL DELITO Y DE LA PROBABLE RESPONSABILIDAD DEL INCULPADO.
 
 ###### ARTÍCULO 323.
 
@@ -2187,7 +2215,7 @@ En el delito de daños basta la inspección ministerial para determinar su exist
 
 ## TÍTULO SEGUNDO. DETERMINACIONES MINISTERIALES RELATIVAS AL EJERCICIO DE LA ACCIÓN PROCESAL PENAL
 
-### CAPÍTULO II. NO EJERCICIO DE LA ACCIÓN PENAL
+### CAPÍTULO I. EJERCICIO DE LA ACCIÓN PENAL
 
 ###### ARTÍCULO 336.
 
@@ -2215,7 +2243,7 @@ Si durante la averiguación previa se acredita plenamente la minora (sic) de eda
 
 En cualquiera de estas situaciones, si el inimputable se encuentra detenido, el ministerio público lo pondrá a disposición del Consejo Tutelar o del Juez, en el lugar en que se encuentre internado.
 
-### CAPÍTULO III. RESOLUCIÓN DE RESERVA
+### CAPÍTULO II. NO EJERCICIO DE LA ACCIÓN PENAL
 
 ###### ARTÍCULO 341.
 
@@ -2245,7 +2273,7 @@ La resolución de archivo definitivo o no ejercicio de la acción penal, confirm
 
 La resolución de no ejercicio de la acción penal, ratificada por el Procurador General de Justicia, impedirá definitivamente el ejercicio de la acción penal por los mismos hechos, una vez que quede firme.
 
-### CAPÍTULO I. AUTO DE RADICACIÓN Y LIBRAMIENTO DE LAS ÓRDENES DE APREHENSIÓN Y COMPARECENCIA
+### CAPÍTULO III. RESOLUCIÓN DE RESERVA
 
 ###### ARTÍCULO 345.
 
@@ -2259,7 +2287,7 @@ La resolución de reserva no afecta el ejercicio de la acción penal, la que pue
 
 ## TÍTULO ÚNICO. PREINSTRUCCIÓN
 
-### CAPÍTULO II. DECLARACIÓN PREPARATORIA
+### CAPÍTULO I. AUTO DE RADICACIÓN Y LIBRAMIENTO DE LAS ÓRDENES DE APREHENSIÓN Y COMPARECENCIA
 
 ###### ARTÍCULO 347.
 
@@ -2283,7 +2311,7 @@ En el caso de que la detención haya sido legal, el juez ordenará que se practi
 
 Cuando se consigne sin detenido, en virtud de que el ministerio público otorgó la libertad provisional al inculpado durante la averiguación previa, el juez calificará igualmente la legalidad de la detención, así como la procedencia del beneficio y del monto de las cauciones otorgadas por el inculpado.
 
-### CAPÍTULO III. AUTOS DE FORMAL PROCESAMIENTO
+### CAPÍTULO II. DECLARACIÓN PREPARATORIA
 
 ###### ARTÍCULO 351.
 
@@ -2313,7 +2341,7 @@ El juzgador, el defensor y el agente del ministerio público, deberán estar pre
 
 La declaración preparatoria se rendirá en forma oral o escrita por el inculpado, en presencia de su defensor. Si no quiere dictar su declaración, el juez dictará sus respuestas con la mayor exactitud posible, pudiendo emplear grabadoras, videograbadoras o cualquier otro medio electrónico en esta diligencia.
 
-### CAPÍTULO IV. AUTO DE LIBERTAD POR FALTA DE ELEMENTOS PARA PROCESAR
+### CAPÍTULO III. AUTOS DE FORMAL PROCESAMIENTO
 
 ###### ARTÍCULO 358.
 
@@ -2383,7 +2411,7 @@ El auto de formal prisión no revoca la libertad provisional concedida, excepto 
 
 Dictado el auto de formal prisión o el de sujeción a proceso, se identificará al procesado por el sistema adoptado administrativamente. El juez comunicará a las oficinas de identificación, las resoluciones que pongan fin al proceso y que hayan causado ejecutoria, para que se hagan las anotaciones correspondientes.
 
-### CAPÍTULO V. AUTO DE LIBERTAD SIN RESERVAS LEGALES
+### CAPÍTULO IV. AUTO DE LIBERTAD POR FALTA DE ELEMENTOS PARA PROCESAR
 
 ###### ARTÍCULO 369.
 
@@ -2399,7 +2427,7 @@ El juez ordenará que se deje copia fotostática certificada del expediente y ac
 
 El ministerio público puede apelar del auto de libertad por falta de elementos para procesar o conformarse con esa resolución, recibiendo en devolución el expediente y las pruebas exhibidas, a fin de reestructurar la averiguación previa y ejercitar, cuando lo considere conveniente, la acción penal.
 
-### CAPÍTULO I. FINES Y ACTIVIDADES EN LA FASE DE INSTRUCCIÓN
+### CAPÍTULO V. AUTO DE LIBERTAD SIN RESERVAS LEGALES
 
 ###### ARTÍCULO 372.
 
@@ -2415,7 +2443,7 @@ Cuando se haya consignado nuevamente el asunto en el término antes señalado y 
 
 ## TÍTULO PRIMERO. FASE DE INSTRUCCIÓN
 
-### CAPÍTULO II. PROCEDIMIENTO SUMARIO
+### CAPÍTULO I. FINES Y ACTIVIDADES EN LA FASE DE INSTRUCCIÓN
 
 ###### ARTÍCULO 374.
 
@@ -2447,9 +2475,7 @@ Los plazos señalados para la instrucción deben entenderse en beneficio del pro
 
 Transcurrido o renunciado el plazo señalado para el desahogo de los medios de prueba y la ampliación que, eventualmente, haya solicitado el inculpado, el juzgador procederá a declarar cerrada la instrucción, poniendo a disposición del ministerio público el expediente para que formule conclusiones definitivas.
 
-### CAPÍTULO I. CONCLUSIONES MINISTERIALES
-
-> <small>(REFORMADO PRIMERO PARRAFO, B.O. 19 DE SEPTIEMBRE DE 2005)</small>
+### CAPÍTULO II. PROCEDIMIENTO SUMARIO
 
 ###### ARTÍCULO 381.
 
@@ -2485,7 +2511,9 @@ Cuando el defensor no presente sus conclusiones, se tendrán por formuladas las 
 
 ## TÍTULO SEGUNDO. PERÍODO DE JUICIO
 
-### CAPÍTULO II. CONCLUSIONES DE LA DEFENSA
+### CAPÍTULO I. CONCLUSIONES MINISTERIALES
+
+> <small>(REFORMADO PRIMERO PARRAFO, B.O. 19 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 385.
 
@@ -2525,7 +2553,7 @@ Si la resolución del Procurador General de Justicia es de no acusación, el jue
 
 Si el Procurador General de Justicia revoca las conclusiones no acusatorias y formula acusación, se darán a conocer al inculpado y su defensor, continuándose la fase de juicio.
 
-### CAPÍTULO III. AUDIENCIA DE VISTA
+### CAPÍTULO II. CONCLUSIONES DE LA DEFENSA
 
 ###### ARTÍCULO 393.
 
@@ -2535,7 +2563,7 @@ Las conclusiones acusatorias serán contestadas por la defensa en un plazo igual
 
 Si al concluir el plazo concedido, el inculpado o su defensor no han presentado conclusiones, el juez tendrá por formuladas las de inculpabilidad y aplicará al defensor una corrección disciplinaria, dando vista al superior jerárquico cuando se trate del defensor de oficio.
 
-### CAPÍTULO IV. SENTENCIA
+### CAPÍTULO III. AUDIENCIA DE VISTA
 
 ###### ARTÍCULO 395.
 
@@ -2549,7 +2577,7 @@ Después de practicarse las diligencias mencionadas, se dará lectura a las cons
 
 Contra el auto que niegue o admita la repetición de los medios de prueba, no procede recurso alguno, pero el tribunal de alzada puede ordenar la reposición del procedimiento cuando lo juzgue conveniente.
 
-### CAPÍTULO V. ACLARACIÓN DE SENTENCIA
+### CAPÍTULO IV. SENTENCIA
 
 ###### ARTÍCULO 397.
 
@@ -2567,7 +2595,7 @@ En la sentencia definitiva el juzgador examinará si han quedado probados los el
 
 Analizará también la posible existencia de atenuantes y cualquier otra circunstancia que pueda beneficiar al procesado, procurando individualizar en forma objetiva las penas que deban imponerse, sin exceder las conclusiones del ministerio público ni suplir las deficiencias en que este haya incurrido.
 
-### CAPÍTULO VI. SENTENCIAS Y AUTOS IRREVOCABLES
+### CAPÍTULO V. ACLARACIÓN DE SENTENCIA
 
 ###### ARTÍCULO 400.
 
@@ -2593,7 +2621,7 @@ En ningún caso se alterará, a pretexto de aclaración, el fondo de la sentenci
 
 El procedimiento de aclaración de la sentencia interrumpe el plazo para apelar del fallo.
 
-### CAPÍTULO I. SUSPENSIÓN DEL PROCEDIMIENTO
+### CAPÍTULO VI. SENTENCIAS Y AUTOS IRREVOCABLES
 
 ###### ARTÍCULO 405.
 
@@ -2613,7 +2641,7 @@ Causan ejecutoria, por ministerio de ley, las sentencias y autos dictados en seg
 
 ## TÍTULO TERCERO. SUSPENSIÓN Y EXTINCIÓN DEL PROCEDIMIENTO
 
-### CAPÍTULO II. SOBRESEIMIENTO
+### CAPÍTULO I. SUSPENSIÓN DEL PROCEDIMIENTO
 
 ###### ARTÍCULO 407.
 
@@ -2643,7 +2671,7 @@ La sustracción de un imputado a la acción de la justicia no impedirá la conti
 
 Cuando desaparezca la causa de la suspensión, el procedimiento judicial continuará su curso, pero el ofendido, una vez decretada la suspensión por evasión o trastorno del inculpado, podrá demandar en la vía civil la reparación del daño en contra del directo responsable y los terceros obligados, pidiendo al juez competente que asuma el embargo o las cauciones exhibidas para garantizar la reparación del daño en el procedimiento penal.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO II. SOBRESEIMIENTO
 
 ###### ARTÍCULO 411.
 
@@ -2685,7 +2713,7 @@ No procederá esta promoción cuando se haya cerrado la instrucción, debiendo a
 
 ## TÍTULO CUARTO. MEDIOS DE IMPUGNACIÓN
 
-### CAPITULO II. NULIDAD DE ACTUACIONES Y PRUEBAS
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 415.
 
@@ -2747,7 +2775,7 @@ Cuando la impugnación sea interpuesta solamente por el inculpado o su defensor,
 
 En el caso de que el ministerio público apele del auto que niega la orden de aprehensión o decreta la libertad por falta de elementos para procesar, el tribunal de alzada, con plenitud de jurisdicción, dictará la resolución que corresponda por el delito que resulte probado, aunque con ello se afecte al inculpado, a fin de fijar el contenido del proceso por lo que toca al delito y sus modalidades.
 
-### CAPÍTULO III. REVOCACIÓN
+### CAPITULO II. NULIDAD DE ACTUACIONES Y PRUEBAS
 
 ###### ARTÍCULO 424.
 
@@ -2775,7 +2803,7 @@ La nulidad de actuaciones y pruebas obliga a la autoridad judicial a reponer la 
 
 La nulidad de una resolución judicial, solo puede impugnarse a través de los recursos de revocación o apelación.
 
-### CAPÍTULO IV. APELACIÓN
+### CAPÍTULO III. REVOCACIÓN
 
 ###### ARTÍCULO 430.
 
@@ -2785,7 +2813,7 @@ El recurso de revocación es admisible en la primera instancia, contra los autos
 
 La revocación deberá interponerse en el acto de la notificación o dentro de las veinticuatro horas siguientes, ante la misma autoridad que dictó la resolución impugnada, debiendo resolverse de plano, cuando no sea necesario el desahogo de pruebas. En caso contrario, se citará a una audiencia de pruebas y alegatos que se efectuará dentro de los tres días siguientes. En ella se dictará la resolución que proceda, contra la que no se admite recurso alguno, quedando en suspenso, mientras tanto, la ejecución de la resolución impugnada.
 
-### CAPÍTULO V. DENEGADA APELACIÓN
+### CAPÍTULO IV. APELACIÓN
 
 ###### ARTÍCULO 432.
 
@@ -2911,7 +2939,7 @@ Cuando el condenado cumpla la pena de prisión impuesta en primera instancia, en
 
 La reposición del procedimiento obliga al juez de la primera instancia a repetir la diligencia nula, a realizar la prueba o el acto omitido, dejando sin efecto todo lo actuado con posterioridad, excepto las pruebas que no sean consecuencia del acto u omisión impugnados.
 
-### CAPÍTULO VI. QUEJA
+### CAPÍTULO V. DENEGADA APELACIÓN
 
 ###### ARTÍCULO 449.
 
@@ -2929,7 +2957,7 @@ Recibidas por el tribunal el testimonio, sin más trámite citará para sentenci
 
 Si el tribunal declara admisible la apelación, ordenará al juez que le envíe el expediente original, su duplicado o testimonio, según proceda, a fin de tramitar el recurso.
 
-### CAPÍTULO VII. DECLARACIÓN DE INOCENCIA
+### CAPÍTULO VI. QUEJA
 
 ###### ARTÍCULO 452.
 
@@ -2951,7 +2979,7 @@ La interposición del recurso no es obstáculo para que el juez subsane la omisi
 
 En cambio, cuando se deseche la queja, se impondrá al recurrente una multa de veinte a cuarenta días de salario mínimo vigente al momento de su interposición.
 
-### CAPÍTULO ÚNICO. EL PROCEDIMIENTO DE MEDIACIÓN O CONCILIACIÓN
+### CAPÍTULO VII. DECLARACIÓN DE INOCENCIA
 
 ###### ARTÍCULO 455.
 
@@ -2995,7 +3023,7 @@ También se mandará publicar la resolución que lo declare inocente en un peri�
 
 ## TÍTULO PRIMERO. EL PROCEDIMIENTO DE MEDIACIÓN O CONCILIACIÓN
 
-### CAPÍTULO ÚNICO. PROCEDIMIENTO CONTRA DISCAPACITADOS MENTALES
+### CAPÍTULO ÚNICO. EL PROCEDIMIENTO DE MEDIACIÓN O CONCILIACIÓN
 
 ###### ARTÍCULO 460.
 
@@ -3021,7 +3049,7 @@ En los mismos casos a que se refiere este título, el ministerio público podrá
 
 ## TÍTULO SEGUNDO. PROCEDIMIENTO PARA INIMPUTABLES
 
-### CAPÍTULO I. COMPETENCIAS
+### CAPÍTULO ÚNICO. PROCEDIMIENTO CONTRA DISCAPACITADOS MENTALES
 
 ###### ARTÍCULO 465.
 
@@ -3073,7 +3101,7 @@ En cualquier momento en que el juez determine, con base en los dictámenes peric
 
 ## TÍTULO TERCERO. INCIDENTES
 
-### CAPÍTULO II. IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
+### CAPÍTULO I. COMPETENCIAS
 
 ###### ARTÍCULO 473.
 
@@ -3125,7 +3153,7 @@ Lo actuado por un juzgador incompetente hasta el cierre de la instrucción será
 
 Tratándose de actuaciones de juez incompetente de otra jurisdicción Estatal o Federal, se aplicará la misma regla si dichas actuaciones se ajustan a las prevenciones de este código. En caso contrario el juez competente, de oficio, o a petición de parte, mandará repetir las actuaciones que considere necesarias.
 
-### CAPITULO III. ACUMULACIÓN DE EXPEDIENTES
+### CAPÍTULO II. IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
 ###### ARTÍCULO 481.
 
@@ -3193,7 +3221,7 @@ Los defensores de oficio podrán excusarse de la defensa, cuando el imputado cue
 
 Las sustituciones de los defensores de oficio y agentes del ministerio público serán autorizadas por sus superiores jerárquicos, de acuerdo con las disposiciones de sus propias leyes.
 
-### CAPÍTULO IV. SEPARACIÓN DE EXPEDIENTES
+### CAPITULO III. ACUMULACIÓN DE EXPEDIENTES
 
 ###### ARTÍCULO 492.
 
@@ -3217,7 +3245,7 @@ Si se trata de procesos seguidos en diversos juzgados, cuando alguna de las part
 
 Si considera procedente la acumulación, solicitará a los jueces que conozcan de los demás asuntos que le remitan el expediente, siguiendo el procedimiento para la incompetencia por inhibitoria.
 
-### CAPÍTULO V. REPARACIÓN DEL DAÑO EXIGIBLE A TERCEROS
+### CAPÍTULO IV. SEPARACIÓN DE EXPEDIENTES
 
 ###### ARTÍCULO 495.
 
@@ -3235,7 +3263,7 @@ Promovida la separación, el juzgador dará vista a las otras partes por el plaz
 
 El juzgador que ordene la separación de procesos, conservará su competencia sobre los procesos separados.
 
-### CAPÍTULO VI. LIBERTAD POR DESVANECIMIENTO DE PRUEBAS
+### CAPÍTULO V. REPARACIÓN DEL DAÑO EXIGIBLE A TERCEROS
 
 ###### ARTÍCULO 498.
 
@@ -3303,7 +3331,7 @@ Cuando el delincuente cubra el daño causado, el tercero quedará exento de esta
 
 En aquellos casos en que el tercero repare, en todo o en parte, el daño causado por el delincuente, tendrá derecho a repetir en contra de éste en el término de tres años, contados desde que haya realizado el pago.
 
-### CAPÍTULO VII. INCIDENTE DE RECLASIFICACIÓN DEL DELITO
+### CAPÍTULO VI. LIBERTAD POR DESVANECIMIENTO DE PRUEBAS
 
 ###### ARTÍCULO 511.
 
@@ -3327,7 +3355,7 @@ Cuando, en opinión del ministerio público, se hayan desvanecido los datos que 
 
 La resolución que conceda la libertad por desvanecimiento de datos tendrá los mismos efectos del auto de libertad por falta de elementos para procesar, quedando expedito el derecho del ministerio público para recabar nuevas pruebas en averiguación previa y ejercitar la acción penal cuando proceda, debiéndose poner a su disposición los autos originales y las pruebas aportadas, dejándose copia certificada de los mismos y constancia de restitución de las pruebas que no estén integradas al expediente.
 
-### CAPÍTULO VIII. INCIDENTE PARA CUANTIFICAR LOS DAÑOS Y PERJUICIOS DERIVADOS DEL DELITO
+### CAPÍTULO VII. INCIDENTE DE RECLASIFICACIÓN DEL DELITO
 
 ###### ARTÍCULO 515.
 
@@ -3347,7 +3375,7 @@ Cuando el ministerio público concluya por un delito diverso al señalado en el 
 
 Las atenuantes alegadas por el ministerio público, sí serán tomadas en cuenta al momento de resolver, así como la modificación del grado de culpabilidad, cuando beneficie al inculpado.
 
-### CAPÍTULO IX. PROCEDIMIENTO PARA INCIDENTES NO ESPECIFICADOS
+### CAPÍTULO VIII. INCIDENTE PARA CUANTIFICAR LOS DAÑOS Y PERJUICIOS DERIVADOS DEL DELITO
 
 ###### ARTÍCULO 519.
 
@@ -3365,7 +3393,7 @@ Una vez que se produzca la intervención del condenado o concluya el término pa
 
 Concluido el término de prueba, el juez de la primera instancia citará a una audiencia de alegatos que deberá realizarse dentro de los tres días siguientes y una vez realizada, concluyan o no las partes, dictará la resolución que corresponda en el término de tres días, contra la cual procede el recurso de apelación en efectos solamente devolutivos.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO IX. PROCEDIMIENTO PARA INCIDENTES NO ESPECIFICADOS
 
 ###### ARTÍCULO 522.
 
@@ -3378,6 +3406,8 @@ El fallo que corresponda se pronunciara en la misma audiencia, el que será apel
 # LIBRO SEXTO. FASE DE EJECUCIÓN PENAL
 
 ## TÍTULO ÚNICO. EJECUCION DE SENTENCIAS
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 523.
 
@@ -3498,3 +3528,9 @@ B.O. 11 DE JULIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MARZO DE 2008.
+
+PRIMERO.-El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
