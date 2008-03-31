@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2006-07-11"
+last_updated: "2008-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -639,13 +639,17 @@ Cuando se condene a un alcohólico o persona habituada al consumo de estupefacie
 
 De igual manera el juzgador incluirá en su sentencia la obligación a sujetarse aun (sic) programa de autoayuda para la recuperación del responsable.
 
-### CAPÍTULO XV. TRATAMIENTO PARA REOS POR DELITO DE VIOLENCIA INTRAFAMILIAR
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE MARZO DE 2008)</small>
+
+### CAPÍTULO XV. TRATAMIENTO PARA REOS POR DELITO DE VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 78.
 
-En los casos de violencia intrafamiliar, el juez podrá decretar en la sentencia que el reo sea sometido a un tratamiento psicológico para eliminar o controlar sus reacciones violentas. El tratamiento será aplicado por la Procuraduría General de Justicia en el Estado a partir de que se declare ejecutoriada la sentencia.
+En los casos de violencia familiar, el juez deberá decretar en la sentencia que la persona responsable sea sometida a un tratamiento psicológico para eliminar o controlar sus reacciones violentas.
 
-La oposición injustificada del reo a someterse a dicho tratamiento se castigará como delito de quebrantamiento de sanción.
+La oposición injustificada a someterse a dicho tratamiento se castigará como delito de quebrantamiento de sanción.
 
 ### CAPÍTULO XVI. SANCIONES A LAS PERSONAS JURÍDICAS
 
@@ -1999,6 +2003,8 @@ Se impondrá de dos a ocho años de prisión a los ascendientes consanguíneos q
 
 ### CAPÍTULO VII. VIOLENCIA INTRAFAMILIAR
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 238.
 
 Al que, sin causa justificada, deje de ministrar alimentos a quienes legalmente tengan este derecho, será sancionado con prisión de tres meses a tres años, multa de hasta cien días de salario y pérdida de los derechos de familia, en su caso.
@@ -2015,25 +2021,19 @@ Para que se admita el perdón concedido por el ofendido o por el representante d
 
 ###### ARTÍCULO 240.
 
-Comete el delito de violencia intrafamiliar quien, dolosamente ejerza algunas de las siguientes acciones en contra de la integridad física, psíquica o ambas, independientemente de que puedan producir o no lesiones: ejerza fuerza física o moral, injurie o incurra en omisiones graves en contra de su cónyuge, concubina o concubino; parientes consanguíneos en línea recta ascendente o descendente, sin limitación de grado, o colateral hasta el cuarto; afines hasta el segundo grado, adoptante o adoptado, que habiten en la misma casa, quebrantando la dignidad, la seguridad y la concordia que deben existir en la familia, se les impondrá de seis meses a cuatro años de prisión, multa hasta de doscientos días, sin perjuicio de cualquier otro delito cometido.
+Comete el delito de violencia familiar quien, dolosamente, con fin de dominar, someter o controlar, ejerza algunas de las siguientes acciones en contra de la integridad física, psíquica o ambas, independientemente de que puedan producir o no lesiones; ejerza fuerza física o moral, injurie o incurra en omisiones graves en contra de quien sea o haya sido su cónyuge, concubina o concubino; con quien mantengan o hayan mantenido relación de hecho; parientes consanguíneos en línea recta ascendente o descendente, sin limitación de grado o colateral hasta el cuarto; afines hasta el segundo grado, adoptante o adoptado, fuera o dentro de la casa, quebrantando la dignidad, la seguridad y la concordia que deben existir en la familia, se les impondrá de seis meses a cuatro años de prisión, multa hasta de doscientos días de salario mínimo vigente, sin perjuicio de cualquier otro delito cometido.
 
-Cuando la violencia intrafamiliar se realice en contra de la persona con la que se conviva maritalmente sin que se cumplan las condiciones para integrar el concubinato o contra los parientes consanguíneos de ésta que cohabiten en el mismo domicilio, la pena será de tres meses a dos años de prisión y multa de hasta cien días.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 241.
 
-El delito de violencia intrafamiliar se perseguirá a petición del ofendido o de los representantes de los menores o discapacitados. Cuando estos omitan la querella o el menor no tenga representantes, la acción la iniciará el ministerio público, a reserva de que el juez de la causa le designe un tutor especial.
+El delito de violencia familiar se perseguirá a petición de la persona ofendida o de los representantes de los menores de las personas en discapacidad. Cuando éstos omitan la querella o el menor no tenga representantes, la acción la iniciará el ministerio público, a reserva de que el juzgado de la causa le designe tutor o tutora especial.
 
-Presentada la querella, el ministerio público acordará inmediatamente las medidas preventivas necesarias para salvaguardar la integridad física y psíquica de los ofendidos, incluyendo la separación de cuerpos, la prohibición de ir a lugar determinado y la vigilancia de autoridad, ejercitando la acción penal cuando proceda.
+Presentada la querella, el ministerio público acordará inmediatamente las medidas preventivas necesarias para salvaguardar la integridad física y psíquica de las personas ofendidas, incluyendo la separación de cuerpos, la prohibición de ir a lugar determinado y la vigilancia de autoridad, ejercitando la acción penal cuando proceda.
 
 ###### ARTÍCULO 242.
 
-El ministerio público podrá suspender la averiguación previa en el delito de Violencia Intrafamiliar, cuando el inculpado se someta a un tratamiento psicológico especializado, y se comprometa a corregir su conducta.
-
-Si transcurrido un año desde la suspensión, el inculpado no reincide en actos de violencia intrafamiliar, según el informe del Departamento de Trabajo Social de la Procuraduría General de Justicia del Estado, encargado de supervisar la conducta del inculpado, se decretará el no ejercicio de la acción penal.
-
-Además de las penas previstas para el delito de violencia intrafamiliar, el juez decretará como medida obligatoria a cargo del reo, el sometimiento al tratamiento psicológico a cargo de la Secretaría de Salud y la supervisión de la Procuraduría General de Justicia, para evitar la reincidencia.
-
-La oposición del reo para someterse al tratamiento será considerado como delito de quebrantamiento de sanciones.
+(DEROGADO, B.O. 31 DE MARZO DE 2008)
 
 ## TÍTULO DÉCIMO PRIMERO. DELITOS DE PELIGRO CONTRA LA VIDA Y LA SALUD PERSONAL
 
@@ -2317,11 +2317,7 @@ Si los responsables del secuestro ponen espontáneamente en libertad a la vícti
 
 ###### ARTÍCULO 282.
 
-Al que sustraiga o retenga a una persona, por medio de violencia o engaño, para satisfacer algún deseo sexual o para casarse, se le impondrán de uno a seis años de prisión y hasta cien días multa.
-
-El rapto por seducción será también punible cuando la víctima tenga menos de dieciocho años. Por el sólo hecho de no haber cumplido dieciséis años la persona que voluntariamente siga a su raptor, se presumirá que éste empleó la seducción, salvo prueba en contrario.
-
-No se castigará al autor del delito si dentro de las veinticuatro horas de cometido deja en libertad a la víctima, sin haber practicado el acto sexual.
+(DEROGADO, B.O. 31 DE MARZO DE 2008)
 
 ###### ARTÍCULO 283.
 
@@ -2334,6 +2330,8 @@ El delito de rapto sólo se perseguirá por querella necesaria, excepto en los c
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUALES
 
 ### CAPÍTULO III. ESTUPRO
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 284.
 
@@ -2367,7 +2365,9 @@ I.- La cópula voluntaria habida con una persona menor de doce años, con un inc
 
 II.- La introducción anal o vaginal de cualquier objeto distinto del miembro viril, por medio de violencia física o moral, sea cual fuese el sexo del ofendido, o por consentimiento de un menor o incapaz en los términos de la fracción anterior.
 
-### CAPÍTULO IV. ACOSO SEXUAL
+### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 287.
 
@@ -2383,37 +2383,47 @@ El delito de atentado al pudor solo se castigará cuando se haya consumado y ser
 
 Cuando el responsable del delito sea ascendiente o descendiente consanguíneo, adoptante o adoptado, tutor o custodio, del menor o incapacitado, el delito se perseguirá de oficio y la pena se aumentará en un tercio.
 
-### CAPÍTULO I. ROBO
+### CAPÍTULO V. ACOSO SEXUAL
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2008)</small>
+
+ARTÍCULO 293 BIS.- Comete el delito de acoso sexual quien se exprese verbal o físicamente de manera degradante en relación a la sexualidad de otra persona, sin que exista subordinación real de la víctima frente al agresor en los ámbitos laboral o escolar, dicha conducta será sancionada con una pena de seis meses a un año de prisión.
 
 ###### ARTÍCULO 290.
 
-Al que realice cópula con una mujer púber, menor de dieciocho años, obteniendo su consentimiento por medio de promesa engañosa de matrimonio, se le impondrán de seis meses a tres años de prisión y multa hasta por cien días de salario.
+Al que realice cópula con una persona menor de 18 años y mayor de 12 años, obteniendo su consentimiento por medio del engaño, se le impondrán de seis meses a tres años de prisión y multa hasta por cien días de salario mínimo vigente.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 291.
 
-Se procederá en contra del estuprador por querella de la mujer ofendida o de sus representantes legítimos, pero cuando el delincuente se case con la mujer ofendida sin mediar coacción, una vez que conozca sus derechos, cesará toda acción para perseguirlo, así como la potestad de ejecutar la pena.
+Se procederá en contra de la persona estupradora por querella del o la ofendida o de sus representantes legítimos.
 
 ###### ARTÍCULO 292.
 
 La reparación del daño en los casos de estupro, incluirá el pago de alimentos para la mujer y los hijos, si los hubiere, observándose la forma y términos establecidos en el código civil. La declaración judicial que determine la paternidad, será inscrita en el Registro Civil por orden del Juez penal, pero el responsable no tendrá el ejercicio de la patria potestad.
 
-### CAPÍTULO II. ABIGEATO
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE MARZO DE 2008)</small>
+
+### CAPÍTULO I. ROBO
 
 ###### ARTÍCULO 293.
 
-Al que valiéndose de la posición jerárquica derivada de sus relaciones laborales, docentes o domésticas o de cualquiera que implique subordinación, solicite favores de naturaleza sexual para sí o para un tercero, con la amenaza expresa o tácita de causar a la víctima un mal relacionado con las legítimas expectativas en el ámbito laboral, docente o cualquier otro, se le impondrá una sanción de dos meses a dos años de prisión.
+Comete el delito de hostigamiento sexual el que, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o de cualquiera otra que implique subordinación, solicite favores de naturaleza sexual para sí o para un tercero. Al responsable se le impondrá una sanción de dos meses a dos años de prisión.
 
 Si la persona ofendida es menor de edad, la pena de prisión será de uno a tres años.
 
-Si el acosador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su encargo.
+Si la persona hostigadora fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su encargo.
 
-Solo se procederá contra el acosador a petición de parte ofendida y, si a consecuencia del acoso sexual la víctima pierde o se le obliga a abandonar su trabajo por ésta causa, la reparación del daño consistirá en el pago de la indemnización por despido injustificado teniendo en cuenta su antigüedad laboral, al doble de lo previsto en la Ley Federal del Trabajo o del contrato respectivo, además del pago del daño moral.
+Sólo se procederá contra la persona hostigadora a petición de parte ofendida. Si a consecuencia del hostigamiento sexual la víctima pierde o se le obliga a abandonar su trabajo por ésta causa, la reparación del daño consistirá en el pago de la indemnización por despido injustificado teniendo en cuenta su antigüedad laboral, al doble de lo previsto en la Ley Federal del Trabajo o del contrato respectivo, además del pago del daño moral.
 
-### CAPÍTULO III. ABUSO DE CONFIANZA
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE MARZO DE 2008)</small>
+
+### CAPÍTULO II. ABIGEATO
 
 ## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO IV. FRAUDE
+### CAPÍTULO III. ABUSO DE CONFIANZA
 
 ###### ARTÍCULO 294.
 
@@ -2477,7 +2487,7 @@ Al que se le impute el delito de robo simple, y acredite haber tomado la cosa co
 
 No se sancionará, por una sola vez, al que se apodere de los objetos estrictamente indispensables para satisfacer sus necesidades personales o familiares del momento, aunque le sea imputable su estado de necesidad, siempre que no obre con violencia.
 
-### CAPÍTULO V. DESPOJO
+### CAPÍTULO IV. FRAUDE
 
 ###### ARTÍCULO 302.
 
@@ -2515,7 +2525,7 @@ IV.- Justifique o ampare la adquisición, posesión, transporte o sacrifique gan
 
 Cuando se adquiera, posea, transporte o sacrifique ganado que provenga de un abigeato, sin conocer su origen, pero sin tomar las medidas necesarias para cerciorarse de su legítima procedencia, se aplicarán de seis meses a cinco años de prisión y multa de cincuenta a cien días de salario.
 
-### CAPÍTULO VI. ADMINISTRACIÓN INDEBIDA
+### CAPÍTULO V. DESPOJO
 
 ###### ARTÍCULO 308.
 
@@ -2533,7 +2543,7 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 
 IV.- Oponerse a la devolución la cosa mueble quien no tiene derecho para disponer de ella o retenerla, después de ser requerido formalmente, o negarse a entregarla a la autoridad para que ésta disponga de la misma conforme a la ley.
 
-### CAPÍTULO VII. EXTORSIÓN
+### CAPÍTULO VI. ADMINISTRACIÓN INDEBIDA
 
 ###### ARTÍCULO 310.
 
@@ -2593,7 +2603,7 @@ XXI.- Simular el propio secuestro para obtener un lucro para sí o para otro.
 
 El delito de fraude se perseguirá a petición de parte ofendida, a excepción de los fraudes especiales previstos en las fracciones X, XI, XII, XVII y XXI del artículo anterior.
 
-### CAPÍTULO VIII. CHANTAJE
+### CAPÍTULO VII. EXTORSIÓN
 
 ###### ARTÍCULO 314.
 
@@ -2613,7 +2623,7 @@ Si el despojo se realiza por dos o más personas o en paraje solitario o desprot
 
 Las sanciones se aplicarán aún cuando el derecho a la posesión sea dudoso o esté en litigio, pero en los casos de despojo furtivo o engañoso, solo se procederá a petición de parte ofendida.
 
-### CAPÍTULO IX. RECEPTACIÓN DE OBJETOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO VIII. CHANTAJE
 
 ###### ARTÍCULO 317.
 
@@ -2621,7 +2631,7 @@ Al que teniendo a su cargo la administración o el cuidado de bienes ajenos, obt
 
 El juez, atendiendo a la gravedad y al número de conductas ilícitas que integren el delito, podrá condenar al responsable a la pérdida o suspensión hasta por cinco años, del derecho a fungir como administrador, gerente o contador de empresas.
 
-### CAPÍTULO X. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO IX. RECEPTACIÓN DE OBJETOS DE PROCEDENCIA ILÍCITA
 
 ###### ARTÍCULO 318.
 
@@ -2631,13 +2641,13 @@ Se equipara a la extorsión y se le aplicará la misma pena de este delito a qui
 
 Las penas por extorsión se aumentarán en una mitad más del mínimo y del máximo, si se realiza por miembros de una organización delictiva, por un servidor público vinculado con el área de la seguridad pública o por quien haya ejercido funciones de este tipo procediendo, además en el caso de servidores públicos, la destitución y la inhabilitación hasta por diez años.
 
-### CAPÍTULO XI. DAÑOS
+### CAPÍTULO X. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### ARTÍCULO 319.
 
 Al que exija u obtenga, por sí o a través de otro, la entrega de objetos, cantidades o valores, a cambio de no divulgar o dar a conocer a otra persona, algún hecho cierto o falso que afecte el honor, prestigio o patrimonio del amenazado o de su cónyuge, parientes por consanguinidad, afinidad o adopción, así como el de las empresas o entidades en cuya gestión intervenga, será castigado con prisión de seis meses a diez años y hasta doscientos días de salario mínimo vigente de multa.
 
-### CAPÍTULO XII. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
+### CAPÍTULO XI. DAÑOS
 
 ###### ARTÍCULO 320.
 
@@ -2661,7 +2671,7 @@ III.- Posea, altere o modifique de cualquier manera la documentación, señales 
 
 IV.- Traslade los vehículos robados a una población diversa a la de la comisión del delito.
 
-### CAPÍTULO I. AMENAZAS
+### CAPÍTULO XII. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
 
 ###### ARTÍCULO 323.
 
@@ -2669,7 +2679,7 @@ Al que directamente o por interpósita persona adquiera, enajene, administre, cu
 
 Las penas anteriores se aumentarán hasta en una mitad cuando se trate de servidores públicos, además de la destitución y la inhabilitación para desempeñar empleo, cargo o comisión hasta por diez años.
 
-### CAPÍTULO II. ALLANAMIENTO DE MORADA
+### CAPÍTULO I. AMENAZAS
 
 ###### ARTÍCULO 324.
 
@@ -2683,7 +2693,7 @@ Si el daño afecta a bienes de interés colectivo o de valor científico, artís
 
 Los daños culposos y los dolosos que solo afecten el patrimonio de los particulares, se perseguirán a petición de parte ofendida.
 
-### CAPÍTULO III. REVELACIÓN DE SECRETOS
+### CAPÍTULO II. ALLANAMIENTO DE MORADA
 
 ###### ARTÍCULO 326.
 
@@ -2695,7 +2705,7 @@ En los delitos patrimoniales previstos en este título, a excepción del robo ca
 
 ## TÍTULO DÉCIMO SEXTO. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
-### CAPÍTULO IV. VIOLACIÓN DE CORRESPONDENCIA Y OTRAS COMUNICACIONES PRIVADAS
+### CAPÍTULO III. REVELACIÓN DE SECRETOS
 
 ###### ARTÍCULO 328.
 
@@ -2707,7 +2717,7 @@ El juzgador deberá apercibir a quien realice la amenaza de que, si cumple su pr
 
 En este caso procede, a juicio del juez, prohibir al condenado que vaya o resida en el lugar en que habita el amenazado, por un término no menor a seis meses ni mayor a tres años, contados desde el cumplimiento de la pena de prisión o desde la concesión de un beneficio de libertad.
 
-### CAPÍTULO I. INJURIAS
+### CAPÍTULO IV. VIOLACIÓN DE CORRESPONDENCIA Y OTRAS COMUNICACIONES PRIVADAS
 
 ###### ARTÍCULO 330.
 
@@ -2719,7 +2729,7 @@ También se produce el allanamiento, cuando el inculpado permanezca en una morad
 
 Se equipara al allanamiento y se sancionará como tal, la introducción en los términos del artículo anterior, a oficinas o recintos no abiertos al público.
 
-### CAPÍTULO II. DIFAMACIÓN
+### CAPÍTULO I. INJURIAS
 
 ###### ARTÍCULO 332.
 
@@ -2727,7 +2737,7 @@ Quien sin justa causa y sin consentimiento del que pueda resultar perjudicado, r
 
 Cuando la información hubiera sido proporcionada por el ofendido, confiando en el secreto profesional que obliga al abogado, sacerdote, mediador o psiquiatra, su revelación por estos últimos será castigada con prisión de uno a cinco años y multa de hasta doscientos días de salario, o cuando el secreto revelado sea de carácter industrial o científico.
 
-### CAPÍTULO III. CALUMNIA
+### CAPÍTULO II. DIFAMACIÓN
 
 ###### ARTÍCULO 333.
 
@@ -2749,7 +2759,7 @@ La interceptación de cualquier comunicación verbal, gestual, electrónica o de
 
 ## TÍTULO DÉCIMO SÉPTIMO. DELITOS CONTRA EL HONOR
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES
+### CAPÍTULO III. CALUMNIA
 
 ###### ARTÍCULO 336.
 
@@ -2764,6 +2774,8 @@ Al responsable del delito de injurias, se le aplicarán de diez a cien jornadas 
 Cuando la injuria tenga como origen y contenido la discriminación racial, étnica, religiosa o se produzca por razones de género, edad o discapacidad, se aplicará al autor pena de seis meses a dos años de prisión.
 
 Cuando las injurias fueran recíprocas, el juez podrá declarar exenta de sanción a la parte que respondió con injurias a la ofensa original.
+
+### CAPÍTULO IV. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 338.
 
@@ -2890,3 +2902,9 @@ B.O. 11 DE JULIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MARZO DE 2008.
+
+PRIMERO.-El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
