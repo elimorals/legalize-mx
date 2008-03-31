@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2006-12-31"
+last_updated: "2008-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2008.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -155,7 +155,7 @@ II.- Las demás corporaciones de carácter público reconocidas por la ley;
 
 III.- Las sociedades civiles o mercantiles;
 
-IV.- Los sindicatos, las asociaciones profesionales y las demás (sic) que se refiere la fracción XVI del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+IV.- Los sindicatos, las asociaciones profesionales y las demás que se (sic) refiere la fracción XVI del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V.- Las sociedades cooperativas y mutualistas;
 
@@ -1615,9 +1615,19 @@ V.- La incitación o la violencia hecha por un cónyuge al otro, para cometer de
 
 VI.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, tanto los del matrimonio como los de uno solo de los cónyuges, así como la tolerancia en su corrupción;
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
 
-VII.- El uso de la violencia intrafamiliar de un cónyuge hacia los hijos, entendiéndose como la violencia física o psicológica;
+VII.- Ejercer violencia en contra del cónyuge o de los hijos o las hijas, entendiéndose por violencia, cualquiera de los siguientes tipos:
+
+A) Violencia psicológica.- cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas;
+
+B) Violencia física.- Cualquier acto que inflinge daño no accidental, usando fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones internas o externas;
+
+C) Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la persona afectada;
+
+D) Violencia Patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños o los bienes comunes o propios de la víctima; y
+
+E) Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto.
 
 VIII.- Padecer cualquier enfermedad de tipo crónico e incurable o degenerativa que sea además contagiosa o hereditaria; así como la impotencia incurable para la cópula;
 
@@ -1631,9 +1641,7 @@ XII.- La declaración de ausencia legalmente hecha o de presunción de muerte, e
 
 XIII.- La sevicia o extorsión moral de uno de los cónyuges en perjuicio del otro, siempre que implique crueldad mental y haga imposible la vida conyugal;
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 2002)</small>
-
-XIV.- Las amenazas, las injurias graves, la violencia intrafamiliar de un cónyuge hacia el otro, cuando hagan imposible la vida conyugal a juicio del juez o tribunal, en su caso;
+XIV.- (DEROGADA, B.O. 31 DE MARZO DE 2008)
 
 XV.- La negativa injustificada de uno de los cónyuges a cumplir las obligaciones derivadas de la asistencia familiar, en perjuicio del cónyuge o los hijos, sin que sea necesario agotar previamente los procedimientos tendientes a su cumplimiento;
 
@@ -1711,11 +1719,11 @@ El abandono del domicilio conyugal en cualquiera de sus formas, constituye una c
 
 La tolerancia de uno de los padres en la corrupción que de los hijos realice un tercero, legitima al otro para pedir el divorcio.
 
-> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ###### Artículo 302.
 
-La violencia intrafamiliar, las amenazas, las injurias graves, la acusación calumniosa por delito infamante y la comisión de un delito contra la persona o los bienes del otro cónyuge, son causales que no requieren de la tramitación previa de un juicio penal. El juez que conozca del divorcio, entrará al estudio de la causal invocada, analizando directamente el hecho que fundamenta la causal.
+La violencia familiar, las amenazas las injurias graves, la acusación calumniosa por delito infamante y la comisión de un delito contra la persona o los bienes del otro cónyuge, son causales que no requieren de la tramitación previa de un juicio penal. El Juez que conozca del divorcio, entrará al estudio de la causal invocada, analizando directamente el hecho que fundamenta la causal.
 
 ###### Artículo 303.
 
@@ -1731,7 +1739,7 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 
 ### CAPÍTULO V. De la asignación de los hijos en el divorcio y los derechos del padre no custodio
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -1831,7 +1839,7 @@ Ejecutoriada una sentencia de divorcio, el Juez remitirá copia de ella al Ofici
 
 ###### Artículo 322.
 
-Salvo casos excepcionales, como violencia intrafamiliar, enfermedades graves y contagiosas, corrupción, mal trato (sic) o abandono, la custodia de los hijos menores de siete años corresponde a la madre, cualquiera que sea el tipo y la causal del divorcio.
+Salvo casos excepcionales, como violencia familiar, enfermedades graves y contagiosas, corrupción, maltrato o abandono, la custodia de los hijos menores de siete años corresponde a la madre, cualquiera que sea el tipo y la causal de divorcio.
 
 ###### Artículo 323.
 
@@ -2649,9 +2657,11 @@ La patria potestad se ejerce sobre la persona y bienes de los hijos sujetos a el
 
 A falta de padres, ejercerán la patria potestad sobre el hijo menor, los abuelos paternos o maternos que mejor garanticen la protección y desarrollo de su descendiente, a criterio del Juez de Primera Instancia, tomando en cuenta las circunstancias del caso y la opinión del menor, si ya hubiese cumplido los doce años.
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
+
 ###### Artículo 481.
 
-Mientras se plantea y decide la asignación de la patria potestad entre los abuelos paternos o maternos, los primeros ejercerán en forma automática la representación de sus nietos, de manera provisional, a partir de la muerte de los padres, o desde que se declare ejecutoriada la sentencia por la que estos pierdan la patria potestad sobre sus hijos.
+Mientras se plantea y decide la asignación de la patria potestad entre los abuelos paternos o maternos, ejercerán la representación de sus nietos, de manera provisional, a partir de la muerte de los padres o desde que se declare ejecutoriada la sentencia por la que éstos pierdan la patria potestad sobre sus hijos, los que tengan mayor afinidad con los nietos.
 
 ###### Artículo 482.
 
@@ -2883,9 +2893,19 @@ I.- Los menores de edad; y
 
 II.- Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos; y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación, o la alteración en la inteligencia que esto les provoque no puedan gobernarse y obligarse por sí mismos, o manifestar su voluntad por algún medio.
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
+
 ###### Artículo 520.
 
-La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa justificada. Puede ser legítima, testamentaria o dativa.
+La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa justificada. Puede ser autodesignada, legítima, testamentaria o dativa.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2008)</small>
+
+###### Artículo 520 Bis.
+
+Toda persona mayor de edad, capaz, puede designar tanto al tutor o tutores que deberán encargarse de su persona y, en su caso, gozará del ejercicio de los poderes que se le otorguen, como el curador en previsión de encontrarse en los supuestos del artículo 519 fracción II. La designación del tutor o curador debe hacerse en escritura pública ante Notario, o ante Juez competente, que contenga expresamente todas las reglas a las cuales deberá sujetarse el tutor y es revocable en cualquier momento mediante la misma formalidad.
+
+El tutor autodesignado, ejercitará su función acreditando la existencia de la escritura pública en la que conste su designación y deberá presentar el certificado de dos facultativos, en el que certifiquen, que a esa fecha el otorgante está en estado de incapacidad.
 
 ###### Artículo 521.
 
@@ -3015,9 +3035,17 @@ El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testam
 
 Ha lugar a tutela legítima:
 
-I.- Cuando no hay quien ejerza la patria potestad ni tutor testamentario; y
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
 
-II.- Cuando deba nombrarse tutor por causa de divorcio.
+I.- Cuando no hay quien ejerza la patria potestad ni tutor testamentario;
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
+
+II.- Cuando deba nombrarse tutor por causa de divorcio; y
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
+
+III.- Cuando no hay tutor autdesignado.
 
 ###### Artículo 548.
 
@@ -3083,9 +3111,17 @@ La tutela dativa tiene lugar:
 
 I.- Cuando no hay tutor testamentario ni persona a quien, conforme a la ley, corresponda la tutela legítima;
 
-II.- Cuando el tutor testamentario este impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 548; y
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
 
-III.- En los demás casos establecidos por la ley.
+II.- Cuando el tutor testamentario este impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 548;
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
+
+III.- Cuando no hay tutor autodesginado; y
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
+
+IV.- En los demás casos establecidos por la ley.
 
 ###### Artículo 560.
 
@@ -12341,6 +12377,10 @@ La aceptación puede ser expresa o tácita. Aceptación tácita es todo acto en 
 
 Pueden ser objeto del mandato todos los actos lícitos para los que la ley no exige la intervención personal del interesado.
 
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2008)</small>
+
+El mandato habrá de subsistir aun cuando el mandante devengue incapaz si éste así lo dispuso en su otorgamiento, así mismo, el mandatario podrá tomar decisiones sobre el tratamiento médico y el cuidado de la salud del mandante, aun cuando éste hubiere quedado incapaz, si para ello hubiere sido expresamente autorizado por el mandante. Este poder será revocado por el mandante capaz en todo momento; igualmente podrá ser revocado por el tutor en caso de que el mandante devengue incapaz, con las formalidades previstas por la ley.
+
 ###### Artículo 2463.
 
 Solamente será gratuito el mandato cuando así se haya convenido expresamente.
@@ -12387,9 +12427,17 @@ El mandato debe otorgarse en escritura pública o en carta poder firmada ante do
 
 I.- Cuando sea general;
 
-II.- Cuando el interés del negocio para el que se confiere llegue al equivalente del importe de ciento ochenta días de salario mínimo general o exceda de esa cantidad; y
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
 
-III.- Cuando en virtud de él, haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
+II.- Cuando el interés del negocio para el que se confiere llegue al equivalente del importe de ciento ochenta días de salario mínimo general o exceda de esa cantidad;
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
+
+III.- Cuando en virtud de él, haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público; y
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
+
+IV.- En el supuesto del segundo párrafo del artículo 2462.
 
 ###### Artículo 2470.
 
@@ -12619,7 +12667,9 @@ II.- Por la renuncia del mandatario;
 
 III.- Por la muerte del mandante o del mandatario;
 
-IV.- Por la interdicción de uno u otro;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
+
+IV.- Por la interdicción de uno u otro; excepto que hubiere sido otorgado en los términos del segundo párrafo del artículo 2462 y cuando el mandato se hubiere otorgado por la mención expresa de que habría de subsistir aún cuando el mandante devengue incapaz;
 
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fue concedido; y
 
@@ -15282,3 +15332,17 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 B.O. 31 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MARZO DE 2008.
+
+DECRETO 1739, POR EL QUE SE DEROGA LA FRACCION XIVDEL ARTICULO 289 Y SE REFORMAN LOS ARTICULOS 289, EN SU FRACCION VII, 302, 322 Y 481 DEL CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+B.O. 31 DE MARZO DE 2008.
+
+DECRETO 1745, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
