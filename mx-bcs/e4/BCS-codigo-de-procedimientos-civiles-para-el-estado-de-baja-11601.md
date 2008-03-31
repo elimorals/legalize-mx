@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2006-07-11"
+last_updated: "2008-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2008.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -1567,11 +1567,31 @@ Las providencias precautorias podrán dictarse:
 
 I. Cuando hubiere temor de que se ausente u oculte la persona contra quien deba entablarse o se haya entablado una demanda;
 
-II. Cuando se tema que se oculten o dilapiden los bienes en que debe ejercitarse una acción real, y
+II. Cuando se tema que se oculten o dilapiden los bienes en que debe ejercitarse una acción real, y (sic)
 
-III. Cuando la acción sea personal, siempre que el deudor no tuviere otros bienes que aquéllos en que se ha de practicar la diligencia y se tema que los oculte o enajene.
+III. Cuando la acción sea personal, siempre que el deudor no tuviere otros bienes que aquéllos en que se ha de practicar la diligencia y se tema que los oculte o enajene;
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
+
+IV. En caso de violencia familiar, a petición del Ministerio Público o de alguno de los cónyuges, dentro del procedimiento de controversia familiar, de divorcio necesario.
 
 Las disposiciones de este artículo comprenden no sólo al deudor, sino también a los tutores, albaceas, socios y administradores de bienes ajenos.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2008)</small>
+
+###### Artículo 235 Bis.
+
+Son órdenes de protección, para los casos de violencia familiar:
+
+I. Suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
+
+II. Prohibición a la persona agresora de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+III. Posesión exclusiva de la persona afectada sobre el inmueble que sirvió de domicilio;
+
+IV. Embargo preventivo de bienes de la persona agresora que deberán inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarías y
+
+V. Obligación alimentaría provisional e inmediata.
 
 ###### Artículo 236.
 
@@ -6240,3 +6260,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 11 DE JULIO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MARZO DE 2008.
+
+PRIMERO.-El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
