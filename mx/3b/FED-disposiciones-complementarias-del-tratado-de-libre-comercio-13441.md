@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-11-30"
+last_updated: "2008-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,47 +18,39 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2007 LECHE EN POLVO
+ACUERDO QUE MODIFICA EL DIVERSO POR EL CUAL SE DA A CONOCER EL CUPO MAXIMO PARA EXPORTAR A LOS ESTADOS UNIDOS DE AMERICA, CEMENTO GRIS PORTLAND Y CEMENTO CLINKER, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS DURANTE 2006 A 2009, AL AMPARO DEL ACUERDO SOBRE COMERCIO DE CEMENTO CELEBRADO ENTRE LA SECRETARIA DE ECONOMIA DE LOS ESTADOS UNIDOS MEXICANOS Y LA OFICINA DEL REPRESENTANTE COMERCIAL DE LOS ESTADOS UNIDOS DE AMERICA Y EL DEPARTAMENTO DE COMERCIO DE LOS ESTADOS UNIDOS DE AMERICA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de noviembre de 2007.
+Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 31 de marzo de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la lista de concesiones de México (Lista LXXVII-México); en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y V, 6o., 14, 15 fracción II, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 8o. párrafo primero del Acuerdo relativo a la aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994; 3o. párrafos sexto y séptimo del Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias de la Organización Mundial del Comercio; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio fue aprobado por el Senado de la República el 13 de julio de 1994 y el Decreto Promulgatorio fue publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año;
+Que el 6 de marzo de 2006, los titulares de la Secretaría de Economía de México, del Departamento de Comercio de los Estados Unidos de América y de la Oficina del Representante Comercial de los Estados Unidos de América suscribieron un acuerdo interinstitucional sobre el comercio de cemento (el Acuerdo sobre Comercio de Cemento), con el objetivo de finalizar el procedimiento de solución de diferencias ante la OMC y diversos litigios conforme al artículo 1904 del TLCAN y en consecuencia eliminar en un periodo de tres años el derecho antidumping impuesto por los Estados Unidos de América;
 
-Que en el artículo 4 parte III del Acuerdo sobre la Agricultura de la Organización Mundial del Comercio se establece que México aplicará como parte de sus compromisos de acceso a los mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de la Organización Mundial del Comercio, conforme a lo dispuesto en la Lista LXXVII-México Sección I-B, en la que se incluye la leche en polvo o en pastillas;
+Que el Acuerdo sobre Comercio de Cemento establece en sus párrafos II.A.1, III y IV, que durante la vigencia del mismo las exportaciones de cemento mexicano a los Estados Unidos de América se regularán mediante cupos de exportación administrados por medio de permisos previos a la exportación;
 
-Que el Tratado de Libre Comercio de América del Norte aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
+Que el Acuerdo sobre Comercio de Cemento establece en su párrafo I.P que el primer periodo de exportación inicia el 3 de abril de 2006 y termina el 31 de marzo de 2007; el segundo periodo de exportación inicia el 1 de abril de 2007 y termina el 31 de marzo de 2008; y el tercero y último periodo de exportación inicia el 1 de abril de 2008 y termina el 31 de marzo de 2009;
 
-Que el artículo 302 párrafo 4 del propio Tratado establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que el 29 de marzo de 2006, la Secretaría de Economía publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Portland y cemento Clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América (Acuerdo por el que se da a conocer el cupo máximo publicado en 2006);
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007 establece en el artículo décimo transitorio, fracción IV, Disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio;
+Que en esa misma fecha, la Secretaría de Economía publicó en el Diario Oficial de la Federación el Acuerdo que modifica el similar por el que se establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, a fin de incluir al cemento gris Portland y al cemento Clinker entre los productos que están sujetos a permiso previo para su exportación a los Estados Unidos de América;
 
-Que el 23 de enero de 2007 se publicaron en el Diario Oficial de la Federación el Acuerdo por el que se da conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio; así como el Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota, establecido en el Tratado de Libre Comercio de América del Norte, mismos que fueron reformados mediante el Acuerdo por el que se modifican diversos cupos para importar en 2007 leche en polvo, publicado en el Diario Oficial de la Federación el 11 de mayo de 2007;
+Que conforme a lo previsto en el párrafo III.A.2.a del Acuerdo sobre Comercio de Cemento, el Departamento de Comercio de los Estados Unidos de América notificará anualmente a la Secretaría de Economía el monto del cupo para la exportación de cemento gris Portland y cemento Clinker, que corresponderá a cada periodo anual y que será determinado con base en el consumo aparente de cemento que previamente se haya presentado en cada subregión, y que para el segundo y tercer periodo de exportación se incrementará o disminuirá en un porcentaje de hasta el 4.5 por ciento del consumo aparente en cada subregión;
 
-Que las asignaciones de los cupos de importación de leche en polvo a las empresas industriales que utilizan leche en polvo como insumo, correspondientes al primer periodo, realizadas al amparo de los Acuerdos de mérito, tienen una vigencia de cuatro meses;
+Que el 30 de marzo de 2007 la Secretaría de Economía, publicó en el Diario Oficial de la Federación, el Acuerdo que modifica el diverso por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Portland y cemento Clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, a fin de dar a conocer el cupo para el segundo periodo anual de exportación vigente del 1 de abril de 2007 al 31 de marzo de 2008;
 
-Que en el presente año, los precios internacionales de las materias primas lácteas han mantenido una tendencia alcista, que aunada a una limitada disponibilidad de dichas materias primas para la exportación y la importación en los principales mercados internacionales, ha tenido como efecto que no se ejercieran en su totalidad las asignaciones de cupos de importación de leche en polvo correspondientes al primer periodo, lo que ha afectado el abasto de materia prima de la industria de leche y derivados lácteos;
+Que el 6 de julio de 2007 se publicó en el Diario Oficial de la Federación el Acuerdo por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de comercio exterior, en cuyo Anexo 2.2.1 (Acuerdo de Permisos) se mantiene sujeta a permiso previo, la exportación de cemento gris Portland y cemento Clinker a los Estados Unidos de América;
 
-Que en los últimos meses del año se presenta una baja estacional en el abasto de la producción nacional de leche para la industria láctea del país;
+Que conforme al párrafo III.A.2 del Acuerdo sobre Comercio de Cemento, el 1 de febrero de 2008 el Departamento de Comercio de los Estados Unidos de América notificó a la Secretaría de Economía el monto anual del cupo para exportar cemento gris Portland y cemento Clinker a los Estados Unidos de América durante el tercer periodo anual de exportación previsto por el Acuerdo sobre Comercio de Cemento, el cual irá del primer día hábil de abril de 2008 al último día hábil de marzo de 2009 (en adelante, tercer periodo anual);
 
-Que por lo anterior, es conveniente recuperar y redistribuir los saldos de las asignaciones no ejercidas en el primer periodo de 2007, así como del saldo no asignado del contingente mínimo y del arancel-cuota citados arriba, a fin de complementar el abasto de materia prima de las empresas industriales que utilizan leche en polvo como insumo, y
+Que por lo anterior es necesario modificar el Acuerdo por el que se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Portland y cemento Clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre Comercio de Cemento y; a efecto de dar a conocer el cupo anual de exportación que estará vigente durante el tercer periodo anual, y
 
-Que la medida a que se refiere la presente modificación es un instrumento de la política sectorial para complementar el abasto doméstico, he tenido a bien expedir el siguiente:
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Acuerdo cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2007 LECHE EN POLVO
-
-###### ARTICULO PRIMERO.
-
-Se reforman los artículos segundo, tercero, cuarto, quinto y séptimo, y se deroga el artículo sexto del Acuerdo por el que se da a conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio, publicado en el Diario Oficial de la Federación el 23 de enero de 2007, y su reforma, para quedar como siguen:
-
-“ARTICULO SEGUNDO.- Con el objeto de complementar el abasto doméstico de leche en polvo, se aplicará el mecanismo de asignación directa al monto no ejercido y recuperado de las asignaciones correspondientes al primer periodo de 2007, así como del saldo no asignado del contingente arancelario de importación a que se refiere el presente Acuerdo, conforme al cuadro siguiente:
-
-(VEASE ARCHIVO ANEXO)
+ACUERDO QUE MODIFICA EL DIVERSO POR EL CUAL SE DA A CONOCER EL CUPO MAXIMO PARA EXPORTAR A LOS ESTADOS UNIDOS DE AMERICA, CEMENTO GRIS PORTLAND Y CEMENTO CLINKER, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS DURANTE 2006 A 2009, AL AMPARO DEL ACUERDO SOBRE COMERCIO DE CEMENTO CELEBRADO ENTRE LA SECRETARIA DE ECONOMIA DE LOS ESTADOS UNIDOS MEXICANOS Y LA OFICINA DEL REPRESENTANTE COMERCIAL DE LOS ESTADOS UNIDOS DE AMERICA Y EL DEPARTAMENTO DE COMERCIO DE LOS ESTADOS UNIDOS DE AMERICA
 
 ###### ARTICULO UNICO.
 
@@ -252,78 +244,6 @@ Las solicitudes de asignación directa deberán presentarse en el formato SE-03-
 
 La vigencia máxima de las asignaciones de cupo será al 31 de diciembre de 2007 y serán improrrogables.
 
-###### ARTICULO SEGUNDO.
-
-Se reforman los artículos segundo, tercero, cuarto, quinto y sexto del Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de enero de 2007, y su reforma, para quedar como siguen:
-
-“ARTICULO SEGUNDO.- Con el objeto de complementar el abasto doméstico de leche en polvo, se aplicará el mecanismo de asignación directa al monto no ejercido y recuperado de las asignaciones correspondientes al primer periodo de 2007, así como del saldo no asignado del arancel-cuota de importación a que se refiere el presente Acuerdo, conforme al cuadro siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTICULO TERCERO.
-
-Podrán solicitar asignación del monto no ejercido y recuperado de las asignaciones, correspondientes al primer periodo de 2007, así como al saldo no asignado, del arancel-cuota de importación a que se refiere el presente Acuerdo:
-
-A. Empresas industriales del sector privado, con antecedentes de asignación directa en 2006 o 2007, que cumplan la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, suero de leche y crema de leche) y sus antecedentes de asignación de cupos, durante el periodo reportado, conforme a la hoja de requisitos anexa, y
-
-B. Empresas industriales del sector privado, con antecedentes de asignación directa en 2006 o 2007, que no cumplan la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, suero de leche y crema de leche), conforme a la hoja de requisitos anexa.
-
-La mercancía obtenida por asignación directa no podrá ser comercializada en el mismo estado físico en que se importe.
-
-La vigencia máxima de los certificados de cupo será al 31 de diciembre de 2007 y serán improrrogables.
-
-###### ARTICULO CUARTO.
-
-Para la distribución a las empresas mencionadas en el inciso A) del artículo tercero de este Acuerdo, se tomará en cuenta lo siguiente:
-
-Los solicitantes deberán cumplir como condición previa que su consumo de leche en polvo importada no sobrepase el 30% de la suma del total de los consumos auditados de leche fluida, leche en polvo y de otros sólidos de leche de producción nacional, y de leche en polvo importada durante el año previo.
-
-Asimismo, deberán presentar sus compromisos de adquisición de leche de producción nacional para 2007.
-
-Los criterios de asignación del cupo no ejercido y recuperado más el monto del cupo mínimo no asignado en 2007 correspondiente a este tipo de empresas beneficiarias, son los que a continuación se indican:
-
-Los criterios de asignación del cupo no ejercido y recuperado de las asignaciones correspondientes al primer periodo de 2007, así como del saldo no asignado del contingente mínimo de importación, correspondiente a este tipo de empresas beneficiarias, son los que a continuación se indican:
-
-A.1 Para las empresas industriales que hayan devuelto sus certificados de cupo con un saldo sin ejercer en el primer periodo de 2007:
-
-El monto a asignar será lo que resulte menor entre el 50% del monto que la empresa solicitante haya devuelto de su cupo no ejercido y el cupo solicitado.
-
-En caso de que exista saldo de este cupo, se procederá a sumarlo al monto del cupo destinado a las empresas del siguiente subinciso.
-
-A.2 Para las empresas industriales que no hayan devuelto sus certificados de cupo, se asignará el saldo disponible a las empresas que tengan antecedentes de asignación directa en 2006 o en 2007.
-
-La asignación será por el monto que resulte menor entre el 20% del cupo destinado para este tipo de beneficiarios o el monto solicitado.
-
-A.3 En caso de existir saldo, éste se distribuirá proporcionalmente entre las empresas que hayan devuelto sus certificados de cupo con un saldo sin ejercer en el primer periodo de 2007; asignándose el monto que resulte menor entre el monto solicitado o el porcentaje que resulte de la prorrata realizada.
-
-La asignación se realizará en el orden en que se presenten las solicitudes, hasta agotar el monto disponible.
-
-###### ARTICULO QUINTO.
-
-Para la distribución del cupo a las empresas mencionadas en el inciso B) que no puedan cumplir la condición previa señalada en el artículo cuarto de este Acuerdo (además de presentar sus compromisos de adquisición de leche de producción nacional para 2007), se procederá de la siguiente manera:
-
-Los criterios de asignación del cupo no ejercido y recuperado de las asignaciones correspondientes al primer periodo de 2007, así como del saldo no asignado del contingente mínimo de importación, correspondiente a este tipo de empresas beneficiarias, son los que a continuación se indican:
-
-B.1 Para las empresas industriales que hayan devuelto sus certificados de cupo con un saldo sin ejercer en el primer periodo de 2007:
-
-El monto a asignar será lo que resulte menor entre el 50% del monto que la empresa solicitante haya devuelto de su cupo no ejercido y el cupo solicitado.
-
-En caso de que exista saldo de este cupo, se procederá a sumarlo al monto del cupo destinado a las empresas del siguiente subinciso.
-
-B.2 Para las empresas industriales que no hayan devuelto sus certificados de cupo, se asignará el saldo disponible a las empresas que tengan antecedentes de asignación directa en 2006 o en 2007.
-
-La asignación será por el monto que resulte menor entre el 20% del cupo destinado para este tipo de beneficiarios o el monto solicitado.
-
-B.3 En caso de existir saldo, éste se distribuirá proporcionalmente entre las empresas que hayan devuelto sus certificados de cupo con un saldo sin ejercer en el primer periodo de 2007; asignándose el monto que resulte menor entre el monto solicitado o el porcentaje que resulte de la prorrata realizada.
-
-La asignación se realizará en el orden en que se presenten las solicitudes, hasta agotar el monto disponible.
-
-###### ARTICULO SEXTO.
-
-Las solicitudes de asignación directa deberán presentarse en el formato SE-03-011-1 "Solicitud de asignación de cupo" en la Representación Federal de esta Secretaría que le corresponda, la hoja de requisitos específicos se establece como anexo al presente instrumento. El plazo de resolución de dicha solicitud será de siete días hábiles, contados a partir del día hábil siguiente a la fecha de recepción de la solicitud debidamente requisitada y del día en que se haya recuperado el saldo de los cupos asignados y no ejercidos.
-
-... ”
-
 ###### ARTICULO OCTAVO.
 
 Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que cuenten con plantas establecidas en los estados de Yucatán, Quintana Roo, Campeche y Tabasco, y que cumplan con la hoja de requisitos correspondiente anexa a este instrumento, la cuota adicional de importación de maíz amarillo a asignar será equivalente a cinco veces el promedio mensual del consumo auditado de maíz y/o granos forrajeros de 2006 si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, el reportado para la asignación del cupo mínimo de 2007 de maíz amarillo importado bajo cuota.
@@ -332,39 +252,133 @@ En caso de que el solicitante se encuentre en el supuesto señalado en el párra
 
 ###### ARTICULO 1.
 
-...
+Se modifica el Artículo Primero del Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Portland y cemento Clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América, publicado en el Diario Oficial de la Federación el 29 de marzo de 2006 (Acuerdo por el que se da a conocer el cupo máximo publicado en 2006), para quedar como sigue:
 
-Periodo Cupo
+“ARTICULO PRIMERO.-
 
-(toneladas métricas
+I. El cupo máximo anual para exportar cemento gris portland y cemento clinker a los Estados Unidos de América durante el tercer periodo anual, mismo que comprende del primer día hábil de abril de 2008 al último día hábil de marzo de 2009 (en adelante, tercer periodo anual), es el que se determina a continuación:
 
-en base seca)
+CUADRO 1
 
-I. … …
+(VEASE ARCHIVO ANEXO)
 
-II. Del 1 de octubre al 31 175,000 (ciento setenta
+II. De conformidad con el párrafo III.A.4 del Acuerdo sobre Comercio de Cemento, la Secretaría de Economía, a solicitud de cualquier Productor de Cemento Mexicano que haya obtenido asignación de cupo, podrá trasladar al tercer periodo anual hasta el 8 por ciento del cupo previsto en el cuadro 1 Bis siguiente para cada subregión, excepto en el caso de la subregión II (Arizona), en donde el porcentaje del cupo que podrá trasladarse al tercer periodo anual podrá ser de hasta 5 por ciento.
 
-de diciembre de 2007 y cinco mil)
+CUADRO 1 Bis
 
-###### ARTÍCULO 2.
+(VEASE ARCHIVO ANEXO)
 
-Se actualizan en el ARTÍCULO 11 del Decreto que se señala en el Artículo 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+III. De conformidad con lo previsto en el párrafo II.A.3. del Acuerdo sobre Comercio de Cemento sólo se asignará el cupo adicional que se describe en el Cuadro 2, en respuesta a una declaración de estado de emergencia como resultado de un desastre en los Estados Unidos de América, siempre que el Departamento de Comercio de dicho país y la Secretaría de Economía así lo determinen. Los criterios de asignación de este cupo adicional se realizarán de conformidad con el artículo cuarto del Acuerdo publicado en el Diario Oficial de la Federación el 29 de marzo de 2006.
 
-Fracción Descripción
+CUADRO 2 - Cupo adicional
 
-1806.20.01 Las demás preparaciones, en bloques,
+(VEASE ARCHIVO ANEXO)
 
-tabletas o barras con peso superior a 2 kg
+###### ARTICULO 2.
 
-o en forma líquida, pastosa o en polvo,
+Se modifica el Artículo Tercero del Acuerdo por el que se da a conocer el cupo máximo publicado en 2006 para quedar como sigue:
 
-gránulos o formas similares, en recipientes
+“ARTICULO TERCERO.- Podrán solicitar asignación del cupo a que se refiere el cuadro 1 del artículo primero del presente Acuerdo, los productores de cemento establecidos en los Estados Unidos Mexicanos.
 
-o envases inmediatos con un contenido
+I. Para los efectos del presente Acuerdo se considerará:
 
-superior a 2 kg.
+i) Productores de Cemento Mexicano de conformidad con el párrafo I.R del Acuerdo sobre Comercio de Cemento, a CEMEX México, S.A. de C.V. (“CEMEX”), GCC Cemento, S.A. de C.V. (y la empresa que le precedió, Cementos de Chihuahua S.A. de C.V.), Holcim Apasco, S.A. de C.V., Cooperativa Cruz Azul, S.C.L., Cementos Moctezuma, S.A. de C.V. y Lafarge Cementos, S.A.;
 
-1806.20.99 ELIMINADA.
+ii) Exportadores tradicionales a las personas morales, Productores de Cemento Mexicano según se definen en el parágrafe i) anterior, que hayan efectuado exportaciones de cemento gris portland o clinker superiores a una tonelada métrica a los Estados Unidos de América por año durante el periodo 2001-2005 (contados desde enero a diciembre).
+
+iii) Exportadores nuevos a las personas morales, Productores de Cemento Mexicano según se definen en el parágrafe i) anterior, que no hayan efectuado exportaciones de cemento gris portland y cemento clinker a los Estados Unidos de América o que éstas hayan resultado iguales o inferiores a una tonelada métrica por año durante el periodo 2001-2005 (contados de enero a diciembre).
+
+II. En el tercer periodo anual, las asignaciones del cupo establecido para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas) se realizarán de la siguiente forma: primer subperiodo del 1 de abril al 30 de septiembre de 2008 y segundo del 1 de octubre de 2008 al 31 de marzo de 2009. En lo que se refiere a las subregiones I (Alabama/Mississippi) y VIII (Resto de los Estados Unidos) la asignación se realizará para todo el periodo anual.
+
+III. La asignación la realizará la Dirección General de Comercio Exterior, conforme a los siguientes criterios:
+
+i) Exportadores tradicionales: 94% del cupo como sigue:
+
+Los montos máximos globales disponibles para cada subregión de asignación a los exportadores tradicionales serán los siguientes:
+
+CUADRO 3
+
+(VEASE ARCHIVO ANEXO)
+
+Los montos máximos disponibles para las siguientes subregiones no asignados bajo el criterio anterior se asignarán a prorrata a los exportadores tradicionales, considerando las exportaciones totales efectuadas por dichas empresas a los Estados Unidos de América:
+
+CUADRO 4
+
+(VEASE ARCHIVO ANEXO)
+
+Para efectos de asignación, los antecedentes de exportación a los Estados Unidos de América de cemento mexicano clasificado en las fracciones arancelarias 2523.10.01 y 2523.29.99 corresponderán a los últimos cinco años previos al periodo anual de exportación de que se trate, a partir de lo siguiente: i) Para el periodo 2002-2005 y enero-marzo de 2006 las cifras de exportaciones se determinarán conforme a los antecedentes de exportación por subregión determinados para las asignaciones a exportadores tradicionales correspondientes al primer periodo anual de exportación y, ii) para el periodo abril de 2006 en adelante las cifras de exportaciones se determinarán con base en la utilización de los permisos de exportación emitidos por aduana de salida y subregión de destino.
+
+ii) Nuevos Exportadores: 6% del cupo como sigue:
+
+El monto máximo global anual disponible para nuevos exportadores será de 179,146.26 toneladas distribuidas como se indica en el siguiente cuadro.
+
+CUADRO 5
+
+(VEASE ARCHIVO ANEXO)
+
+a) Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas):
+
+1. Primera asignación para ser ejercida en el primer subperiodo del 1 de abril al 30 de septiembre de 2008, el 60% del cupo de cada subregión destinado a nuevos exportadores se asignará a cada solicitante en el monto que sea menor entre su solicitud y el 50% del cupo disponible al momento del dictamen.
+
+2. Segunda asignación para ser ejercida en el segundo subperiodo del 1 de octubre de 2008 al 31 de marzo del 2009, el 40% del cupo de cada subregión destinado a nuevos exportadores se asignará a cada solicitante en el monto que sea menor entre su solicitud y el 50% del cupo disponible al momento del dictamen.
+
+b) Para las subregiones I (Alabama/Mississippi) y VIII (Resto de los Estados Unidos de América) en la asignación para ser ejercida entre el 1 de abril de 2008 y el 31 de marzo de 2009, el 100% del cupo de cada una de estas dos subregiones destinado a nuevos exportadores, se asignará a cada solicitante en el monto que sea menor entre su solicitud y el 50% del cupo disponible al momento del dictamen.
+
+IV. Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), la Secretaría de Economía se asegurará, durante la vigencia del presente Acuerdo, de no otorgar asignaciones, en cada subperiodo, a exportadores tradicionales y a nuevos exportadores, superiores al 60% del cupo total anual que corresponda a determinada subregión. La base para calcular el límite del 60% a que hace referencia este artículo, será el cuadro 1 del artículo primero de este ordenamiento, antes de que se lleve a cabo cualquier ajuste de trasladar al tercer periodo anual un porcentaje determinado del cupo anual anterior conforme a lo previsto en el presente Acuerdo.
+
+V. Los exportadores tradicionales y los nuevos exportadores únicamente podrán solicitar asignación inicial como sigue:
+
+i) Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas):
+
+a) Para el primer subperiodo, desde el primer día hábil de abril hasta el último día hábil de mayo de 2008.
+
+b) Para el segundo subperiodo, desde el primer día hábil de octubre hasta el último día hábil de noviembre de 2008.
+
+ii) Para las subregiones I (Alabama/Mississippi) y VIII (Resto de Estados Unidos de América), desde el primer día hábil de abril hasta el último día hábil de julio de 2008.
+
+VI. Si durante la vigencia del cupo un beneficiario no lo utiliza, podrá devolverlo mediante escrito libre ante la Representación Federal de la Secretaría de Economía que le notificó su asignación.
+
+VII. Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), el saldo no ejercido del cupo asignado a cada beneficiario para el primer subperiodo que no haya sido devuelto, podrá ser reasignado al mismo beneficiario en el segundo subperiodo, siempre que el monto a asignar al beneficiario para el segundo subperiodo no sea superior al 60% del cupo total anual que le corresponda para una región determinada.
+
+VIII. Ampliaciones.
+
+i) Para el primer subperiodo de las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), si al 1 de junio de 2008, existe saldo sin asignar de los parágrafes i) y ii) de la fracción III de este artículo, este saldo podrá asignarse entre los exportadores tradicionales y nuevos exportadores que hubiesen obtenido asignación de cupo para este subperiodo y la ampliación corresponderá a lo que resulte menor entre la ampliación solicitada y el 25% del total asignado a ese beneficiario para la subregión en la que solicita la ampliación, siempre que demuestren haber exportado por lo menos el 70% del monto total del cupo anteriormente asignado en este subperiodo y subregión para el que solicita ampliación, siempre que exista saldo en el cupo para la subregión solicitada. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil de junio hasta el día hábil inmediato anterior al 15 de septiembre de 2008. En el entendido que el plazo de resolución de la Secretaría será como máximo de 7 días hábiles.
+
+ii) Para el segundo subperiodo de las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), si al 1 de diciembre de 2008 existe saldo sin asignar de los parágrafes i) y ii) de la fracción III de este artículo, este saldo podrá asignarse entre los exportadores tradicionales y nuevos exportadores que hubiesen obtenido asignación de cupo para este subperiodo y la ampliación corresponderá a lo que resulte menor entre la ampliación solicitada y el 25% del total asignado a ese beneficiario para la subregión en la que solicita la ampliación, siempre que demuestren haber exportado por lo menos el 70% del monto total del cupo anteriormente asignado en este subperiodo y subregión para el que solicita ampliación, siempre que exista saldo en el cupo para la subregión solicitada. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil del mes de diciembre hasta el último día hábil del mes de diciembre de 2008. Para este subperiodo, se adicionará el saldo no asignado o no utilizado en el primer subperiodo.
+
+iii) Para el periodo anual de las subregiones I (Alabama/Mississippi) y VIII (Resto de los Estados Unidos de América), si al 1 de agosto de 2008, existe saldo sin asignar de los parágrafes i) y ii) de la fracción III de este artículo, este saldo podrá asignarse entre los exportadores tradicionales y nuevos exportadores que hubiesen obtenido asignación de cupo para este periodo y la ampliación corresponderá a lo que resulte menor entre la ampliación solicitada y el 25% del total asignado a ese beneficiario para la subregión en la que solicita la ampliación, siempre que demuestren haber exportado por lo menos el 70% del monto total del cupo anteriormente asignado en este periodo y subregión para el que solicita ampliación, siempre que exista saldo en el cupo para la subregión solicitada. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil de agosto de 2008 hasta el último día hábil del mes de diciembre de 2008.
+
+iv) Si al primer día hábil de enero de 2009 y después de aplicar lo establecido en los parágrafes i), ii) y iii) anteriores, existe saldo sin asignar, éste se asignará a cualquier Productor de Cemento Mexicano a cualquier subregión, bajo la modalidad de primero en tiempo, primero en derecho con base en el día en que se presente la solicitud. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil de enero de 2009 hasta el día hábil inmediato anterior al 15 de marzo de 2009 en la Representación Federal de la Secretaría que corresponda.
+
+La asignación por subregión se realizará conforme a lo siguiente:
+
+(1) En caso que la suma de los volúmenes solicitados sea menor o igual al volumen disponible éste se asignará de acuerdo a lo requerido en las solicitudes individuales.
+
+(2) En caso que la suma de los volúmenes solicitados sea mayor al volumen disponible se aplicará la formula siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+a) En caso que todos los solicitantes para la subregión de que se trate hayan exportado el 100% del cupo asignado para dicha subregión, el volumen remanente Q se asignará en la misma proporción entre el número de solicitantes.
+
+b) En caso que los solicitantes para la subregión de que se trate no hayan exportado el 100% del cupo asignado para dicha subregión, el saldo disponible se asignará aplicando la fórmula descrita en el numeral (2) de este apartado, mediante los siguientes pasos:
+
+c) Se obtiene un primer volumen a asignar Si1 = Q/N*(Ei/Ci). Dado que este número será menor a Q/N se crearía un nuevo remanente no asignado para cada participante.
+
+d) Los remanentes no asignados de los participantes se sumarían y se integraría un nuevo total
+
+(VEASE ARCHIVO ANEXO)
+
+e) La cantidad a asignar será el menor volumen entre el resultado de la aplicación de la fórmula y lo solicitado por cada participante. En caso que lo solicitado por un participante sea menor a lo que le correspondería por la aplicación de la fórmula se generará un remanente que se asignará entre aquellos participantes cuya asignación mediante la fórmula resulte inferior a lo solicitado, aplicando nuevamente la fórmula descrita en el numeral (2) de este apartado.
+
+IX. Solicitud de traslado al tercer periodo anual.
+
+i) En el primer subperiodo del tercer periodo anual cualquier beneficiario que hubiese obtenido cupo para determinada subregión podrá solicitar el traslado del periodo anual anterior en los montos autorizados para esa misma subregión de conformidad con el párrafo II del artículo primero de este ordenamiento, siempre que exista saldo que no haya sido ejercido de dicho periodo anterior en esa subregión.
+
+ii) Al llevar a cabo el traslado al tercer periodo anual se respetarán los porcentajes para tradicionales y nuevos exportadores según el inciso III de este Artículo.
+
+X. Para efectos de demostrar el grado de utilización del cupo asignado conforme a lo requerido en los incisos VIII y IX, las solicitantes adjuntarán a su solicitud una relación de pedimentos de exportación que acrediten las exportaciones realizadas.
+
+XI. Para la interpretación del Acuerdo sobre Comercio de Cemento, la Dirección General de Comercio Exterior podrá solicitar opinión de la Dirección General de Consultoría Jurídica de Negociaciones y para la aplicación de los criterios y fórmulas señaladas en el presente Acuerdo podrá solicitar la de la Dirección General de Industrias Básicas.”
 
 ###### Artículo 3.
 
@@ -576,111 +590,11 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIOS
 
-PRIMERO.- La Secretaría de Economía, a través de la Dirección General de Comercio Exterior, llevará a cabo la revisión del ejercicio de las asignaciones de cupos correspondientes al primer periodo que hayan vencido al 30 de septiembre de 2007, a fin de determinar y recuperar los montos no ejercidos por las empresas beneficiarias. Los saldos recuperados se publicarán en la siguiente dirección electrónica de la página de la Secretaría de Economía, una vez que se cuente con el total de las devoluciones de cupo que hayan realizado las empresas:
+PRIMERO.- El presente Acuerdo entrará en vigor el 1 de abril de 2008 y concluirá su vigencia el 31 de marzo de 2009.
 
-http://www.economia.gob.mx/?P=2822
+SEGUNDO.- Al día siguiente de la publicación de este Acuerdo, la Secretaría de Economía iniciará la recepción y trámite de las solicitudes de asignación de cupo de exportación y solicitudes de permisos de exportación de conformidad con las disposiciones del presente.
 
-SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
-
-México, D.F., a 21 de noviembre de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL SALDO RECUPERADO
-
-Y DEL SALDO NO ASIGNADO DEL CONTINGENTE MINIMO
-
-EMPRESAS CON ANTECEDENTES DE ASIGNACION EN 2006 O 2007,
-
-QUE CUMPLAN CON LA CONDICION PREVIA */
-
-(0402.10.01 Y 0402.21.01)
-
-PAISES MIEMBROS DE LA OMC
-
-Asignación Directa
-
-(VEASE ARCHIVO ANEXO)
-
-* Se refiere a la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007.
-
-(1) De conformidad con el Acuerdo por el que se da a conocer el contingente mínimo para importar en 2007, exenta de arancel leche en polvo originaria de los países miembros de la Organización Mundial de Comercio y su modificación, publicados en el Diario Oficial de la Federación el 23 de enero y 11 de mayo de 2007, respectivamente.
-
-Nota: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL SALDO RECUPERADO
-
-Y EL SALDO NO ASIGNADO DEL CONTINGENTE MINIMO
-
-PARA EMPRESAS CON ANTECEDENTES DE ASIGNACION EN 2006 O 2007,
-
-QUE NO CUMPLAN CON LA CONDICION PREVIA
-
-(0402.10.01 Y 0402.21.01)
-
-PAISES MIEMBROS DE LA OMC
-
-Asignación Directa
-
-(VEASE ARCHIVO ANEXO)
-
-* Se refiere a la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007.
-
-(1) De conformidad con el Acuerdo por el que se da a conocer el contingente mínimo para importar en 2007, exenta de arancel leche en polvo originaria de los países miembros de la Organización Mundial de Comercio y su modificación, publicados en el Diario Oficial de la Federación el 23 de enero y 11 de mayo de 2007, respectivamente.
-
-Nota: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL SALDO RECUPERADO Y DEL SALDO NO ASIGNADO
-
-DEL ARANCEL-CUPO EMPRESAS CON ANTECEDENTES DE ASIGNACION EN 2006 O 2007,
-
-QUE CUMPLAN CON LA CONDICION PREVIA
-
-(0402.10.01 Y 0402.21.01)
-
-ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA
-
-Asignación Directa
-
-(VEASE ARCHIVO ANEXO)
-
-* Se refiere a la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007.
-
-(1) De conformidad con el Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de enero de 2007 y su reforma publicada en el Acuerdo por el que se modifican diversos cupos para importar en 2007 leche en polvo, publicado en el Diario Oficial de la Federación el 11 de mayo de 2007.
-
-Nota: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo.
-
-SECRETARIA DE ECONOMIA
-
-REQUISITOS PARA LA ASIGNACION DEL SALDO RECUPERADO Y DEL SALDO NO ASIGNADO
-
-DEL ARANCEL-CUPO EMPRESAS CON ANTECEDENTES DE ASIGNACION EN 2006 O 2007,
-
-QUE NO CUMPLAN CON LA CONDICION PREVIA
-
-(0402.10.01 Y 0402.21.01)
-
-ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA
-
-Asignación Directa
-
-(VEASE ARCHIVO ANEXO)
-
-* Se refiere a la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007.
-
-(1) De conformidad con el Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de enero de 2007 y su reforma publicada en el Acuerdo por el que se modifican diversos cupos para importar en 2007 leche en polvo, publicado en el Diario Oficial de la Federación el 11 de mayo de 2007.
-
-Nota: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo.
+México, D.F., a 19 de marzo de 2008.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
 
 ## TRANSITORIOS
 
