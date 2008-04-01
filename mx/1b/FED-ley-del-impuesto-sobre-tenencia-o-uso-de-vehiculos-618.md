@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2007-12-21"
+last_updated: "2008-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS TERCERO Y CUARTO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSAS DISPOSICIONES, PUBLICADO EN EL D.O.F. DE 21 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A PARTIR DEL 1 DE ENERO DE 2012.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ABRIL DE 2008.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -310,6 +310,10 @@ Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicle
 ###### Artículo 14.
 
 Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2008)</small>
+
+TARIFA
 
 (VER TABLA ANEXA)
 
@@ -1836,3 +1840,9 @@ Las obligaciones derivadas de la Ley del Impuesto sobre Tenencia o Uso de Vehíc
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el 1 de enero de 2008, salvo por lo que respecta a los artículos Segundo, fracción III y Sexto del mismo, los cuales iniciarán su vigencia a los quince días siguientes a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2008.
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2008.
+
+Segundo. Los montos de las cantidades establecidas en el artículo 14 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, se encuentran actualizadas al mes de diciembre de 2007.
