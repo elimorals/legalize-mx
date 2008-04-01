@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-suprema-corte-de-justicia-de-la-51648
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-18"
-last_updated: "2006-09-18"
+last_updated: "2008-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51648&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-09-07"
 
 REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 1 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de septiembre de 2006.
 
@@ -2538,3 +2540,13 @@ Quinto.- Al cumplirse un año de la entrada en vigor de este Reglamento Interior
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación emitió el "Reglamento Interior de la Suprema Corte de Justicia de la Nación" que antecede, en sus Sesiones Privadas celebradas el treinta de enero, el trece, el veinte y el veintisiete de febrero, el trece de marzo, el tres, el diecisiete y el veinticuatro de abril y el veintiuno de agosto de dos mil seis, por unanimidad de once votos de los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a siete de septiembre de dos mil seis.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Reglamento Interior de la Suprema Corte de Justicia de la Nación, constante de ciento cuarenta y tres fojas útiles, concuerda fiel y exactamente con su original, y se certifica para dar cumplimiento a lo dispuesto en el Punto Segundo Transitorio.- México, Distrito Federal, a siete de septiembre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE ABRIL DE 2008.
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
+
+TERCERO. Se abroga el Reglamento Interior de la Suprema Corte de Justicia de la Nación, publicado en el Diario Oficial de la Federación de dieciocho de septiembre de dos mil seis.
