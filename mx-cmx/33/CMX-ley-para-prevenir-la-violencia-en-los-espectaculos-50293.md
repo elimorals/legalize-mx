@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-la-violencia-en-los-espectaculos-50293"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-03"
-last_updated: "2006-05-03"
+last_updated: "2008-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50293&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-04-11"
 
 LEY PARA PREVENIR LA VIOLENCIA EN LOS ESPECTACULOS DEPORTIVOS EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE ABRIL DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 3 de mayo de 2006.
 
@@ -56,7 +56,9 @@ I.- Club Deportivo.- Persona moral que tiene por objeto promover y financiar la 
 
 II.- Delegaciones.- Las demarcaciones territoriales y los órganos político-administrativos con los que en cada una de aquellas cuenta la Administración Pública del Distrito Federal;
 
-III.- Espectáculo deportivo.- Competición entre equipos de jugadores, planteada conforme a las reglas de un deporte especifico, realizada en un recinto deportivo con la presencia de espectadores;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2008)</small>
+
+III.- Espectáculo deportivo.- Competición entre deportistas, llevada a cabo conforme a las reglas establecidas para la práctica de esa disciplina deportiva, y realizada en un recinto deportivo con la presencia de espectadores;
 
 IV.- Espectador.- Persona que asiste a un Recinto Deportivo a presenciar un espectáculo de la misma naturaleza;
 
@@ -76,7 +78,9 @@ XI.- Recinto Deportivo.- Instalación abierta al público a la que acuden espect
 
 XII.- Salario mínimo.- El salario mínimo general vigente en el Distrito Federal;
 
-XIII.- Secretaría.- La Secretaría de Gobierno de la Administración;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2008)</small>
+
+XIII.- Secretaría.- La Secretaría de Gobierno del Distrito Federal;
 
 XIV.- Seguridad Pública.- La Secretaría de Seguridad Pública del Distrito Federal;
 
@@ -110,9 +114,13 @@ I.- De riesgo alto;
 
 II.- De riesgo medio, y
 
-III.- De riesgo bajo.
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2008)</small>
 
-Para aplicar la clasificación anterior se consideraran como factores: la ubicación, el aforo del Recinto Deportivo, el horario del espectáculo deportivo y las características de los equipos participantes, sin perjuicio de cualquier otro que pueda influir en el grado de riesgo.
+III.- De riesgo bajo
+
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2008)</small>
+
+Para aplicar la clasificación anterior se consideraran como factores: la ubicación, el aforo del Recinto Deportivo, el horario del espectáculo deportivo, las características de los deportistas participantes, los antecedentes en los enfrentamientos previos entre los contendientes y cualquier otro que pueda influir en el grado de riesgo.
 
 ###### Artículo 7.
 
@@ -166,7 +174,9 @@ I.- Implementar, coordinar, controlar, supervisar, evaluar en coordinación con 
 
 II.- Monitorear el desarrollo de espectáculos deportivos y disolver en su caso, todo acto de violencia cometido en torno a la celebración de éstos;
 
-III.- Prevenir, en coordinación con la Secretaría, los Clubes Deportivos y la Federación o Asociación de pertenencia, los actos de violencia e intolerancia cometidos en torno a la Celebración de Espectáculos Deportivos;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2008)</small>
+
+III.- Prevenir, en coordinación con la Secretaría, los Clubes Deportivos y la Federación o Asociación de pertenencia, los actos de violencia, discriminación e intolerancia cometidos en torno a la Celebración de Espectáculos Deportivos;
 
 IV.- Definir, en coordinación con la Secretaría, las medidas que garanticen la celebración regular y pacífica de los Espectáculos Deportivos;
 
@@ -242,11 +252,15 @@ a) Quienes hayan sido sancionados con anterioridad por la comisión de un delito
 
 b) Personas en evidente estado de ebriedad;
 
-c) Personas que pretendan introducir armas u objetos que puedan atentar contra la integridad física de espectadores y participantes;
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2008)</small>
+
+c) Personas que pretendan introducir armas, elementos pirotécnicos u objetos que puedan atentar contra la integridad física de espectadores y participantes;
 
 XIII.- Implementar operativos de detección de metales en las entradas del Recinto Deportivo;
 
-XIV.- Presentar previo inicio de cada temporada, ante la Delegación correspondiente, Secretaría y Secretaría de Seguridad Pública, el calendario de competencias nacionales e internacionales que se pretendan realizar en el recinto deportivo, especificando en el mismo, la actividad y hora en que se llevará a cabo;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2008)</small>
+
+XIV.- Presentar previo inicio de cada temporada o torneo, ante la Delegación correspondiente, Secretaría y Secretaría de Seguridad Pública, el calendario de competencias nacionales e internacionales que se pretendan realizar en el recinto deportivo, especificando en el mismo, la actividad y hora en que se llevará a cabo;
 
 XV.- Colaborar con Seguridad Pública para garantizar que los grupos de animación no alteren el orden público antes, durante o después de la celebración de un espectáculo deportivo;
 
@@ -258,7 +272,9 @@ XVII.- Las demás que le señale la Ley y otras disposiciones aplicables.
 
 Son obligaciones de los Clubes deportivos:
 
-I.- Mantener actualizado el registro de los integrantes de sus grupos de animación, cuya actualización deberá realizarse al inicio de cada temporada;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2008)</small>
+
+I.- Mantener actualizado el registro de los integrantes de sus grupos de animación, cuya actualización deberá realizarse al inicio de cada temporada o torneo;
 
 II.- Elaborar un reglamento de comportamiento para los integrantes de sus Grupos de Animación;
 
@@ -290,11 +306,15 @@ V.- Abstenerse de introducir al recinto deportivo objetos contundentes, punzante
 
 VI.- Abstenerse de Portar armas u objetos que puedan atentar contra la integridad física de los espectadores y/o participantes;
 
-VII.-Abstenerse de agredir físicamente a otros espectadores o participantes;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2008)</small>
+
+VII.- Abstenerse de realizar cualquier acto de discriminación contra otros espectadores o participantes;
 
 VIII.- Respetar el ingreso y salida de los integrantes del grupo de animación del club deportivo contrario;
 
-IX.- Abstenerse de agredir verbalmente a espectadores y participantes del espectáculo deportivo, tanto al interior del establecimiento deportivo como en sus inmediaciones;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2008)</small>
+
+IX.- Abstenerse de agredir verbal o físicamente a otros espectadores y participantes del espectáculo deportivo, tanto al interior del establecimiento deportivo como en sus inmediaciones;
 
 X.- Respetar la estructura física del recinto deportivo, evitando de cualquier modo, dañarlo, pintarlo, ensuciarlo o hacer uso indebido de las fachadas de inmuebles públicos o de los particulares, sin autorización expresa de éstos, así también a estatuas, monumentos nacionales, postes, arbotantes, y demás elementos que integren el equipamiento urbano;
 
@@ -378,7 +398,7 @@ Se sancionará con el impedimento para organizar de uno a tres Espectáculos Dep
 
 ###### Artículo 25.
 
-Se sancionará con el equivalente de 5-10 días de salario mínimo, el incumplimiento de las obligaciones contempladas en las fracciones I, II, III, IV y V del artículo 15 de esta Ley.
+Se sancionará con el equivalente de 5-10 días de salario mínimo, el incumplimiento de las obligaciones contempladas en las fracciones I, II, III, IV y V del artículo I5 de esta Ley.
 
 ###### Artículo 26.
 
@@ -419,3 +439,9 @@ TERCERO.- Se derogan las disposiciones que se opongan a la presente Ley.
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiún días del mes de marzo del año dos mil seis. POR LA MESA DIRECTIVA.- DIP. SARA GUADALUPE FIGUEROA CANEDO, PRESIDENTA.- DIP. RIGOBERTO FIDENCIO NIETO LÓPEZ, SECRETARIO.- DIP. JOSÉ DE JESÚS LÓPEZ SANDOVAL, SECRETARIO.- Firmas.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Politica de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los once días del mes de abril de dos mil seis. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUIZ SUÁREZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, JOEL ORTEGA CUEVAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 2 DE ABRIL DE 2008.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
