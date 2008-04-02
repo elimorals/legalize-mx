@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2001-del-tribunal-pleno-de-la-suprema-41000"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-29"
-last_updated: "2003-04-09"
+last_updated: "2008-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41000&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-21"
 
 ACUERDO GENERAL NUMERO 5/2001, DE VEINTIUNO DE JUNIO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA DETERMINACION DE LOS ASUNTOS QUE CONSERVARA PARA SU RESOLUCION Y EL ENVIO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ABRIL DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2001 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Julio de 2001, página 1161.
 
@@ -73,27 +73,51 @@ La Primera Sala conocerá de las materias penal y civil;
 
 La Segunda Sala conocerá de las materias administrativa y del trabajo.
 
-TERCERO.- El Tribunal Pleno de la Suprema Corte de Justicia conservará para su resolución:
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
 
-I. Las controversias constitucionales y las acciones de inconstitucionalidad a que se refieren las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como los recursos interpuestos en ellas, en los que sea necesaria su intervención;
+TERCERO.- El Tribunal Pleno de la Suprema Corte de Justicia de la Nación conservará para su resolución:
 
-II. Los amparos en revisión en los que subsistiendo la materia de constitucionalidad de leyes federales o tratados internacionales, no exista precedente y, a su juicio, se requiera fijar un criterio de importancia y trascendencia para el orden jurídico nacional y, además, revistan interés excepcional, o por alguna otra causa; o bien, cuando encontrándose radicados en alguna de las Salas, lo solicite motivadamente un Ministro;
+(REFORMADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 3/2008 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F, 2 DE ABRIL DE 2008) (F. DE E., D.O.F. 22 DE ABRIL DE 2009)
 
-III. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 8/2003 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 9 DE ABRIL DE 2003)
+I. Las controversias constitucionales, salvo en las que deba sobreseerse y aquéllas en las que no se impugnen normas de carácter general así como los recursos interpuestos en éstos en los que sea necesaria su intervención;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 3/2008 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F, 2 DE ABRIL DE 2008)</small>
+
+II. Las acciones de inconstitucionalidad, salvo en las que deba sobreseerse, así como los recursos interpuestos en éstas en los que sea necesaria su intervención;
+
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
+
+III. Los amparos en revisión en los que subsistiendo la materia de constitucionalidad de leyes federales o tratados internacionales, no exista precedente y, a su juicio, se requiera fijar un criterio de importancia y trascendencia para el orden jurídico nacional y, además, revistan interés excepcional, o por alguna otra causa; o bien, cuando encontrándose radicados en alguna de las Salas, lo solicite motivadamente un Ministro;
+
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
 
 IV. Las excusas o impedimentos de los Ministros en asuntos competencia del Pleno;
 
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
+
 V. La aplicación de la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
 
 VI. Las contradicciones entre tesis sustentadas por las Salas o las que se susciten entre los Tribunales Colegiados de Circuito, cuando se refieran a la materia común; y las que se produzcan entre la Suprema Corte de Justicia de la Nación y las Salas del Tribunal Electoral del Poder Judicial de la Federación, en términos del párrafo quinto del artículo 99 constitucional;
 
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
+
 VII. Los asuntos a que se refiere la fracción III del artículo 105 constitucional;
+
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
 
 VIII. Las solicitudes de ejercicio de la facultad de atracción, a juicio del Ministro ponente;
 
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
+
 IX. Los recursos de revisión administrativa a que se refiere el párrafo noveno del artículo 100 constitucional;
 
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
+
 X. Las controversias a que se refieren los artículos 10, fracciones IX y X, y 11, fracciones VII, IX, XVIII y XX de la Ley Orgánica del Poder Judicial de la Federación; y
+
+> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
 
 XI. Cualquier otro asunto de la competencia de la Suprema Corte de Justicia de la Nación cuyo conocimiento no corresponda a las Salas.
 
@@ -274,3 +298,9 @@ D.O.F. 9 DE ABRIL DE 2003.
 PRIMERO. Este Acuerdo entrará en vigor el primero de abril de dos mil tres.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 2 DE ABRIL DE 2008.
+
+PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública, sin menoscabo de difundir en éstos el texto íntegro del Acuerdo General Plenario 5/2001.
