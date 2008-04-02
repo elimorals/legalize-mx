@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2007-10-24"
+last_updated: "2008-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -123,9 +123,11 @@ Si la conducta de los Servidores Públicos deriva en responsabilidad civil, patr
 
 ### CAPÍTULO I. SUJETOS, CAUSAS DE JUICIO POLÍTICO Y SANCIONES
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 8.
 
-Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Consejero Jurídico del Poder Ejecutivo del Gobierno del Estado, el Oficial Mayor del poder Ejecutivo del Gobierno del Estado, la representación del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces de Primera Instancia del Poder Judicial, los Consejeros del Instituto Estatal Electoral, los Consejeros del Instituto Morelense de Información Pública y Estadística, los integrantes del Cabildo de los Ayuntamientos y el Presidente de la Comisión de Derechos Humanos.
+Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión Estatal de Derechos Humanos.
 
 ###### ARTÍCULO 9.
 
@@ -183,37 +185,45 @@ Toda denuncia de juicio político deberá presentarse en los términos previstos
 
 El procedimiento será de estricto derecho, manteniendo en todo momento el principio de igualdad de las partes.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 16.
 
-El juicio político se desahogará de acuerdo con los requisitos y procedimiento siguientes:
+El juicio político se desahogará conforme al siguiente procedimiento:
 
-I. La denuncia será presentada ante la oficialía de partes del Congreso del Estado;
+I. La denuncia será presentada ante la Secretaría del Congreso del Estado y dentro del término de tres días hábiles siguientes a su presentación deberá ser ratificada, y en la siguiente sesión se dará cuenta al Pleno para su turno correspondiente;
 
-II. Recibida que sea la denuncia, será turnada inmediatamente a la Junta Política y de Gobierno, quien, una vez que sea ratificada dentro del término de tres días hábiles a su presentación, calificará lo siguiente:
+II. Turnada que sea la denuncia con la documentación que le acompaña, la Junta Política y de Gobierno procederá a calificar lo siguiente:
 
-a) Si fue presentada dentro del plazo y términos legales; y
+a) Si el denunciante cumple con los requisitos establecidos en el artículo 4 de este ordenamiento;
 
-b) Que el denunciado sea considerado sujeto de juicio político.
+b) Si el denunciado es considerado sujeto de juicio político, conforme lo establece el artículo 8 de este ordenamiento;
 
-III. Si la denuncia no reúne los requisitos anteriores, la Junta Política y de Gobierno, dentro de un plazo de cinco días hábiles a partir de su presentación, emitirá un dictamen fundado y motivado mediante el cual la desechará de plano, con independencia de que pueda volver a presentarse con posterioridad; Si la denuncia reúne dichos requisitos, la Junta Política y de Gobierno, dentro del mismo plazo, emitirá un dictamen fundado y motivado al cual adjuntará la denuncia y lo turnará a la Comisión Instructora del procedimiento;
+c) Si la conducta atribuida corresponde a las enumeradas en el artículo 10 de esta ley; y
 
-IV. Una vez recibida la denuncia por la Comisión Instructora, procederá a emplazar al denunciado en el domicilio proporcionado por éste en su declaración patrimonial o en el domicilio laboral si continúa en funciones, corriéndole traslado con las constancias que integran el expediente.
+d) Si las pruebas aportadas tienen relación con los hechos denunciados;
 
-En caso de que al denunciado no pueda ser emplazado en ninguno de los domicilios precisados, se procederá a notificarle por edictos, los cuales se publicarán por tres veces de uno en uno semanalmente en el órgano de difusión oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación en la Entidad;
+III. Si la denuncia reúne los requisitos señalados en la fracción anterior, emitirá dentro del término de treinta días hábiles contados a partir de que la recibió, el dictamen fundado y motivado en el que declara que la solicitud amerita la incoacción del procedimiento y turnará el expediente a la Comisión de Gobernación y Gran Jurado, quien actuará como Comisión Instructora del procedimiento.
 
-V. El denunciado, dentro de un plazo de quince días hábiles, contados a partir del día siguiente en que surte efectos la notificación realizada en los términos del párrafo primero de la fracción anterior, o contados a partir del día siguiente de la última publicación en el caso de notificación por edictos, deberá contestar los hechos que se le imputan. En su contestación, deberá señalar domicilio para oír y recibir notificaciones, designar representante legal que cuente con cédula profesional de Licenciado en Derecho, personas autorizadas para oír y recibir notificaciones, debiendo además ofrecer sus pruebas;
+Si la denuncia no cumple con lo dispuesto por la fracción II de este artículo, la Junta Política y de Gobierno, dentro de un término de treinta días hábiles contados a partir de haberla recibido, emitirá el dictamen fundado y motivado mediante el cual declarará la improcedencia;
 
-VI. Si concluido el plazo anterior no comparece por si o por medio de su representante legal, se seguirá el juicio en rebeldía, perdiendo el contumaz su derecho a contestar los hechos denunciados en su contra, teniéndolos por ciertos y perdiendo su derecho a ofrecer pruebas;
+IV. Una vez recibida la denuncia por la Comisión Instructora, procederá a emplazar al denunciado en el domicilio proporcionado para tal efecto o en el domicilio laboral si continúa en funciones, corriéndole traslado con las constancias que integran el expediente;
 
-VII. En caso de existencia de pruebas que requieran diligencia especial para su desahogo, la Comisión Instructora procederá a señalar fecha y hora para su desahogo, el cual no excederá de quince días hábiles.
+V. En caso de que el denunciado no pueda ser emplazado en ninguno de los domicilios precisados, se procederá a notificarle por edictos, los cuales se publicarán por tres veces, de uno en uno semanalmente en el órgano de difusión oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación en la entidad;
 
-Una vez desahogadas las pruebas en la misma diligencia, la Comisión Instructora procederá a declarar abierto el período de alegatos, en el cual el denunciado o su representante legal, los presentarán por escrito o pudiendo formularlos verbalmente en un tiempo no mayor a treinta minutos;
+VI. El denunciado dentro de un plazo de quince días hábiles, contados a partir del día siguiente en que surte efectos la notificación realizada en los términos de la fracción anterior, o contados a partir del día siguiente de la última publicación en el caso de notificación por edictos, deberá contestar los hechos que se le imputan. En su contestación, deberá señalar domicilio para oír y recibir notificaciones, designar representante legal que cuente con cédula profesional de licenciado en derecho, personas autorizadas para oír y recibir notificaciones, debiendo además ofrecer sus pruebas;
 
-VIII. Cerrado el período de alegatos, en la propia diligencia, la Comisión Instructora declarará cerrada la instrucción procediendo en el acto a turnar los autos para su resolución, la cual deberá dictarse en un plazo no mayor a veinte días hábiles contados a partir de la fecha del acuerdo;
+VII. Si concluido el plazo anterior no comparece por si o por medio de su representante legal, se seguirá el juicio en rebeldía, perdiendo el contumaz su derecho a contestar los hechos denunciados en su contra, teniéndolos por ciertos y perdiendo su derecho a ofrecer pruebas;
 
-IX. Concluido el plazo señalado para emitir la resolución en que se contengan las conclusiones de la Comisión Instructora, esta solicitará a la Secretaría del Congreso, con autorización de la Conferencia, la inclusión en el Orden del día de la sesión ordinaria siguiente para la discusión y aprobación del dictamen emitido; y
+VIII. En caso de existencia de pruebas que requieran diligencia especial para su desahogo, la Comisión Instructora procederá a señalar fecha y hora para su desahogo, el cual no excederá de quince días hábiles.
 
-X. En la sesión del Pleno, se oirá al acusado, a su defensor o a ambos si quisieren, la Secretaría, por instrucciones de la Presidencia, dará lectura a las conclusiones contenidas en el dictamen emitido por la Comisión Instructora, sometiéndolo por instrucciones de la Presidencia a discusión y votación, debiéndose resolver el asunto por mayoría calificada del número de los integrantes del congreso.
+Una vez desahogadas las pruebas en la misma diligencia, la Comisión Instructora procederá a declarar abierto el período de alegatos, en el cual el denunciado o su representante legal, los presentarán por escrito o en su caso verbalmente en un tiempo no mayor a treinta minutos;
+
+IX. Cerrado el período de alegatos, en la propia diligencia, la Comisión Instructora declarará cerrada la instrucción procediendo en el acto a turnar los autos para su resolución, la cual deberá dictarse en un plazo no mayor a veinte días hábiles contados a partir de la fecha del acuerdo de cierre de instrucción;
+
+X. Concluido el plazo señalado para emitir la resolución en que se contengan las conclusiones de la Comisión Instructora, ésta solicitará a la Conferencia para la Programación y Dirección de los Trabajos Parlamentarios, la fecha para que el Congreso conozca del asunto como Jurado de Declaración;
+
+XI. En la sesión del Pleno, el Congreso erigido en Jurado de Declaración, oirá al acusado, a su defensor o a ambos si quisieren; la Secretaría, por instrucciones de la Presidencia, dará lectura a las conclusiones contenidas en el dictamen emitido por la Comisión Instructora, sometiéndolo por instrucciones de la Presidencia a discusión y votación, debiéndose resolver el asunto por mayoría calificada del número de los integrantes del congreso.
 
 ###### ARTÍCULO 17.
 
@@ -257,25 +267,39 @@ Las declaraciones y resoluciones definitivas del Congreso local y del Tribunal S
 
 ### CAPÍTULO ÚNICO. DE LA DECLARACIÓN DE FORMACIÓN DE CAUSA
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 25.
 
-Para proceder en contra de los funcionarios públicos a que se refiere el artículo 8 de la presente Ley, por la probable responsabilidad penal en que hubieren incurrido, el Congreso del Estado, por mayoría absoluta de los Diputados integrantes, deberá declarar la procedencia o improcedencia de acuerdo con el siguiente procedimiento:
+Para proceder en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Auditor Superior Gubernamental, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, los Consejeros de la Judicatura Estatal, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística y los Presidentes Municipales y Síndicos por la comisión de delitos durante el tiempo de su encargo, por la probable responsabilidad penal en que hubieren incurrido, el Congreso del Estado, por mayoría absoluta de los diputados, deberá declarar la procedencia o improcedencia de acuerdo al siguiente procedimiento:
 
-I. La solicitud deberá ser presentada ante la oficialía de partes del Congreso del Estado, quien de manera inmediata, conjuntamente con las constancias que la integran la remitirá al Pleno para el trámite correspondiente;
+I.- la solicitud será presentada ante la Secretaría del Congreso del Estado, y dentro del término de tres días hábiles siguientes a su presentación deberá ser ratificada, y en la siguiente sesión se dará cuenta al Pleno para su turno correspondiente;
 
-II. Recibida que sea la solicitud ante la Junta Política y de Gobierno, esta la analizará y, dentro del plazo de cinco días hábiles, emitirá acuerdo fundado y motivado mediante el cual remite las constancias a la Comisión de Gobernación y Gran Jurado;
+II.- Turnada que sea la solicitud con la documentación que le acompaña, la Junta Política y de Gobierno, procederá a calificar lo siguiente:
 
-III. Una vez radicada la solicitud por la Comisión de Gobernación y Gran Jurado, se notificará al funcionario de que se trate en los términos previstos por la fracción IV del artículo 16 de la presente Ley y le dará vista por el término de cinco días hábiles para que señale domicilio en la ciudad de Cuernavaca y manifieste lo que en derecho proceda;
+a) Si el denunciante cumple con los requisitos establecidos en este ordenamiento;
 
-IV. Concluido el plazo previsto por la fracción anterior, la Comisión Instructora procederá dentro de los ocho días hábiles siguientes a dictaminar de plano la solicitud presentada, la cual remitirá conjuntamente con las constancias al Pleno del Congreso para su discusión y votación;
+b) Si el denunciado es considerado como sujeto de formación de causa;
 
-V. La resolución del pleno, será notificada personalmente a la autoridad peticionaria y al funcionario probable responsable;
+c) Si la conducta atribuida corresponde a la prevista por el artículo 136 de la Constitución Política del Estado Libre y Soberano de Morelos; y
 
-VI. Si la solicitud se declara procedente, el funcionario público quedará suspendido en el ejercicio de su encargo y quedará a disposición de la autoridad común;
+d) Si las pruebas aportadas tienen relación con los hechos denunciados;
 
-VII. En caso de improcedencia, la causa quedará suspensa, sin perjuicio de su continuación una vez que el probable responsable haya concluido su encargo.
+III.- Si la denuncia no reúne los requisitos previstos en la fracción anterior, la Junta Política y de Gobierno dentro del término de treinta días hábiles contados a partir de su recepción, emitirá dictamen fundado y motivado mediante el cual declara la improcedencia;
 
-La resolución del Congreso del Estado será inatacable.
+IV.- Si la denuncia reúne los requisitos señalados en la fracción II de este artículo, emitirá en el mismo término señalado en la fracción que antecede, dictamen fundado y motivado en el que declara que la solicitud amerita la incoacción del procedimiento y turnará el expediente a la Comisión de Gobernación y Gran Jurado, que actuará como Comisión instructora del procedimiento;
+
+V.- Una vez radicada la solicitud por la Comisión de Gobernación y Gran Jurado en su carácter de Comisión Instructora se notificará al funcionario de que se trate en los términos previstos por la fracción V del artículo 16 de la presente Ley, y le dará vista por el término de cinco días hábiles para que señale domicilio en la ciudad de Cuernavaca y manifieste lo que en derecho proceda;
+
+VI.- Concluido el plazo previsto por la fracción anterior, la Comisión Instructora procederá a dictaminar la solicitud presentada, conforme a los procedimientos establecidos en la Ley Orgánica y el Reglamento para el Congreso del Estado, además deberá remitir las constancias al Pleno del Congreso;
+
+VII.- La resolución del Pleno será notificada personalmente a la autoridad peticionaria y al funcionario probable responsable;
+
+VIII.- Si la solicitud se declara procedente, el funcionario público quedará suspendido en el ejercicio de su encargo y quedará a disposición de la autoridad común, y
+
+IX.- En caso de improcedencia, la causa quedará suspensa, sin perjuicio de su continuación una vez que el probable responsable haya concluido su encargo. La resolución del Congreso del Estado será inatacable.
+
+El Consejero Jurídico del Poder Ejecutivo, el Oficial Mayor del Poder Ejecutivo, la representación del Poder Ejecutivo, y los servidores públicos no comprendidos en los artículos 136 y 145 de la Constitución local no serán sujetos de juicio político sino sólo de responsabilidad penal y administrativa, la cual se exigirá ante las autoridades competentes mediante los procedimientos establecidos por la Ley sin que se requiera declaración o requisito previo alguno.
 
 ## TÍTULO CUARTO. DE LA RESPONSABILIDAD ADMINISTRATIVA
 
@@ -749,9 +773,13 @@ Contra la declaración de caducidad o denegación de ésta no procede recurso al
 
 ### CAPÍTULO ÚNICO. DE LA DECLARACION PATRIMONIAL
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 75.
 
-La Secretaría de la Contraloría, recibirá y registrará las declaraciones patrimoniales de los servidores públicos de los Poderes del Estado, Ejecutivo, Legislativo y Judicial, así como la que corresponda a los consejeros de los órganos autónomos y los titulares de la administración pública paraestatal, mientras que, la Auditoría Superior Gubernamental del Congreso del Estado, hará lo propio con las declaraciones patrimoniales de los servidores públicos de los Ayuntamientos, así como la de los titulares de los organismos descentralizados que integran la administración pública paramunicipal.
+La Secretaría de la Contraloría recibirá y registrará las declaraciones patrimoniales de los servidores públicos de los Poderes Ejecutivo y Judicial, así como la que corresponda a los Titulares y Consejeros de los órganos autónomos y los titulares de la administración pública paraestatal, mientras que la Auditoría Superior Gubernamental del Congreso del Estado, hará lo propio con las declaraciones patrimoniales de los servidores públicos del Poder Legislativo y Ayuntamientos, así como la de los titulares de los organismos descentralizados que integran la administración pública paramunicipal.
+
+La Secretaría de la Contraloría y la Auditoría Superior Gubernamental reglamentarán la forma y requisitos para la presentación de la declaración de situación patrimonial de los servidores públicos en el ámbito de su competencia y el monto de las sanciones económicas a imponer por el incumplimiento de la obligación de presentación de dichas declaraciones.
 
 ###### ARTÍCULO 76.
 
@@ -767,9 +795,11 @@ II. De modificación. Durante el mes de enero de cada año; y
 
 III. De conclusión. Dentro de los treinta días naturales siguientes a la conclusión del cargo.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 78.
 
-Las autoridades receptoras de las declaraciones patrimoniales, establecerán en su reglamentación, el catálogo de servidores públicos obligados, así como la forma de su presentación y el monto de las sanciones económicas a imponer por el incumplimiento de la obligación en la presentación de la declaración patrimonial.
+La Secretaría de la Contraloría del Estado, el Consejo de la Judicatura y la Auditoría Superior Gubernamental, deberán publicar, respectivamente, el reglamento y el catálogo de servidores públicos obligados a rendir su declaración patrimonial.
 
 ###### ARTÍCULO 79.
 
@@ -834,3 +864,23 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ÁLVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La Secretaría de la Contraloría, el Consejo de la Judicatura y la Auditoría Superior Gubernamental contarán con un término de noventa días hábiles, contados a partir de la entrada en vigor de este Decreto, para publicar el Reglamento y el catálogo de servidores públicos que deberán cumplir con la obligación de presentar su declaración de situación patrimonial.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de la Contraloría del Gobierno del Estado de Morelos, contará con noventa días, a partir de la publicación en el Periódico Oficial, para modificar en su reglamento interno el catálogo de servidores públicos obligados a rendir su declaración de situación patrimonial conforme a este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
