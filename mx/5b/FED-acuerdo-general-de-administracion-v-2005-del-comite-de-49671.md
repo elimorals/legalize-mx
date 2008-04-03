@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-v-2005-del-comite-de-49671"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-03-17"
-last_updated: "2006-03-17"
+last_updated: "2008-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49671&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-03-07"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION V/2005 DEL COMITE DE PUBLICACIONES Y PROMOCION EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [ELABORACION, REPRODUCCION, DONACION Y VENTA DE PUBLICACIONES OFICIALES]
 
-ACUERDO GENERAL DE ADMINISTRACION V/2005, DEL QUINCE DE AGOSTO DE DOS MIL CINCO, DEL COMITE DE PUBLICACIONES Y PROMOCION EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LAS REGLAS PARA LA ELABORACION, REPRODUCCION, DISTRIBUCION, DONACION Y VENTA DE LAS PUBLICACIONES OFICIALES Y DE LOS DISCOS COMPACTOS QUE EDITA ESTE ALTO TRIBUNAL
+ACUERDO GENERAL DE ADMINISTRACIÓN V/2005, DEL QUINCE DE AGOSTO DE DOS MIL CINCO, DEL COMITÉ DE PUBLICACIONES Y PROMOCIÓN EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS REGLAS PARA LA ELABORACIÓN, REPRODUCCIÓN, DISTRIBUCIÓN, DONACIÓN Y VENTA DE LAS PUBLICACIONES OFICIALES Y DE LOS DISCOS COMPACTOS QUE EDITA ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN II/2008, DEL TRES DE ABRIL DE DOS MIL OCHO, DEL COMITÉ DE PUBLICACIONES Y PROMOCIÓN EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS REGLAS PARA LA ELABORACIÓN, REPRODUCCIÓN, DISTRIBUCIÓN, DONACIÓN Y VENTA DE LAS PUBLICACIONES OFICIALES Y DE LOS DISCOS COMPACTOS QUE EDITA ESTE ALTO TRIBUNAL, PUBLICADO EN EL S.J.F. 3 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de marzo de 2006 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XXII, Septiembre de 2005, página 1731.
 
@@ -346,3 +348,13 @@ TERCERO. Publíquese este Acuerdo en el Semanario, en el Diario Oficial de la Fe
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón y Olga María del Carmen Sánchez Cordero de García Villegas, integrantes del Comité de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación.- Rúbricas.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO EJECUTIVO DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION.- CERTIFICA: Que esta copia del Acuerdo General de Administración V/2005, del quince de agosto de dos mil cinco, del Comité de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación, relativo a las reglas para la elaboración, reproducción, distribución, donación y venta de las publicaciones oficiales y de discos compactos que edita este Alto Tribunal de 12 fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente. México, Distrito Federal, a siete de marzo de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F. 3 DE ABRIL DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se abroga lo previsto en el Acuerdo General de Administración V/2005, del quince de agosto de dos mil cinco, del Comité de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación, relativo a las reglas para la elaboración, reproducción, distribución, donación y venta de las publicaciones oficiales y de los discos compactos que edita este Alto Tribunal, así como cualquier otra disposición de observancia general que se oponga a lo previsto en este Acuerdo General.
+
+TERCERO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7º., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
