@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2004-12-25"
+last_updated: "2008-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2008.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -344,6 +344,10 @@ En los Planes Regionales de Desarrollo que se formulen, siempre deberán incluir
 ###### Artículo 26.
 
 El Gobierno del Estado en un plazo máximo de 30 días a partir de la aprobación de su presupuesto de egresos, deberá elaborar y publicar en el Diario Oficial "El Estado de Jalisco", así como en su pagina electrónica, las reglas de operación de los programas de desarrollo social estatales, así como, la distribución que se haga de los recursos federales a Municipios para el desarrollo social.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2008)</small>
+
+En un plazo de cinco días a partir de la publicación, la Secretaría deberá remitir a los ayuntamientos los documentos que contengan la información citada en el párrafo anterior.
 
 ###### Artículo 27.
 
@@ -724,3 +728,9 @@ LIC. FRANCISCO JAVIER RAMÍREZ ACUÑA
 El Secretario General de Gobierno
 
 LIC. HÉCTOR PÉREZ PLAZOLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ABRIL DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
