@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2007-01-25"
+last_updated: "2008-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -419,9 +419,9 @@ El Presidente Municipal saliente debe convocar a los integrantes electos del Ayu
 
 Si el Presidente Municipal saliente no cumple con esa obligación, el Presidente Municipal entrante debe rendir la protesta de ley ante el resto de los integrantes electos del Ayuntamiento y a continuación, el propio Presidente debe tomar dicha protesta a los demás miembros del Ayuntamiento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
 
-En caso de falta absoluta por defunción del Presidente entrante, debe tomar protesta el Presidente entrante suplente, quien ejerce la función de Presidente Municipal Provisional, y se procede a nombrar a un Presidente Municipal Sustituto en los términos del artículo 70 de esta ley, dentro de los siguientes treinta días.
+En caso de falta absoluta por defunción del presidente entrante, se procederá a nombrar a un presidente municipal sustituto en los términos del artículo 70 de esta ley, antes de la toma de protesta de los integrantes del ayuntamiento.
 
 El Ayuntamiento debe iniciar sus funciones al día siguiente de que les fue tomada la protesta a sus integrantes.
 
@@ -675,9 +675,9 @@ Se entiende por mayoría calificada de votos, la correspondiente a las dos terce
 
 Cuando por la integración del Ayuntamiento, las dos terceras partes resulten en cantidad fraccionaria, se considerará la cantidad inmediata superior.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
 
-En los términos de la reglamentación municipal, en cada votación debe determinarse con claridad los votos a favor y en contra, así como las abstenciones.
+En los términos de la reglamentación municipal, en cada votación debe determinarse con claridad los votos a favor y en contra, así como las abstenciones, mismas que se sumarán a la mayoría.
 
 ###### Artículo 36.
 
@@ -1397,25 +1397,37 @@ El Ayuntamiento debe reglamentar quién suplirá las ausencias menores a setenta
 
 De igual forma, el órgano de gobierno municipal debe designar por mayoría absoluta de votos, al munícipe de debe conducir las sesiones del Ayuntamiento en las que el Presidente Municipal no pueda asistir por motivo de compromisos oficiales o urgentes que requieran de su presencia por causas de fuerza mayor. En estos casos, el edil designado por el Ayuntamiento tiene facultades únicamente para conducir la sesión pero no suple al Presidente Municipal para la toma de decisiones ejecutivas, ni para el ejercicio del voto de calidad.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
 
 ###### Artículo 69.
 
-Las faltas del Presidente Municipal, por licencia de más de dos meses, deben ser cubiertas con el nombramiento de un Presidente Interino, hecho por el Ayuntamiento de entre sus miembros en funciones, con excepción del Síndico, a mayoría absoluta de votos.
+El ayuntamiento debe proceder a nombrar de entre sus miembros en funciones, por mayoría absoluta de votos, un presidente municipal interino, en los siguientes casos:
+
+I. Por licencia del Presidente Municipal mayor a dos meses;
+
+II. Por suspensión del mandato; o
+
+III. Por declaración de procedencia de juicio penal en los términos del artículo 41 de la ley estatal en materia de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
 
 ###### Artículo 70.
 
-El Ayuntamiento debe proceder a nombrar de entre sus miembros en funciones, por mayoría absoluta de votos, un Presidente Municipal Substituto:
+El ayuntamiento debe proceder a nombrar de entre sus miembros en funciones, por mayoría absoluta de votos, un presidente municipal substituto, en los siguientes casos:
 
-I. Por falta absoluta o interdicción definitiva, legalmente declarada, del Presidente Municipal; y
+I. Por falta absoluta o interdicción definitiva, legalmente declarada, del Presidente Municipal;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+II. Por revocación del mandato; o
 
-II. Por privación del cargo, en los casos previstos en la ley estatal en materia de responsabilidades de los servidores públicos.
+III. Por destitución del cargo, en los casos previstos en la ley estatal en materia de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
 
 ###### Artículo 71.
 
-Antes de efectuar la elección de Presidente Municipal Substituto se debe llamar al regidor suplente de la planilla registrada. Una vez completo el Ayuntamiento se debe efectuar la elección del Presidente Municipal Substituto.
+Antes de efectuar la elección de presidente municipal substituto se debe llamar al regidor suplente de la planilla registrada. Una vez completo el ayuntamiento se debe efectuar la elección del presidente municipal substituto.
+
+El mismo procedimiento se seguirá cuando se deba nombrar presidente municipal interino por las causales establecidas en las fracciones II y III del artículo 69.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1492,8 +1504,6 @@ LOS CONVENIOS DEBEN SER SUSCRITOS POR EL AYUNTAMIENTO REPRESENTADO POR EL PRESID
 Además de los ingresos que forman parte de la Hacienda Municipal, los municipios percibirán las aportaciones federales para fines específicos que a través de los diferentes fondos establezcan el presupuesto de egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
 
 El ejercicio de las aportaciones federales para fines específicos debe preverse en los presupuestos de egresos de los municipios y formará parte de la cuenta pública municipal.
-
-> <small>N. DE E. MEDIANTE DECRETO 21706/LVII/06, PUBLICADO EN EL P.O. 25 DE ENERO DE 2007, SE DEROGAN LOS TRES ÚLTIMOS PÁRRAFOS DEL ARTÍCULO, SEGÚN CONSTA EN LA PÁGINA No. 4 DEL PERIÓDICO OFICIAL.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -2612,3 +2622,7 @@ PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Tratándose de la cuenta pública municipal de los Ayuntamientos del Estado, correspondiente a los meses del ejercicio fiscal del año 2007, ésta deberá presentarse conforme a las disposiciones que estuvieron en vigor antes de la entrada en vigor de este decreto.
 
 TERCERO.- En lo conducente, cuando en las disposiciones legales o administrativas de aplicación municipal; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a ramos, partidas y claves, se entenderán referidos a capítulos, conceptos y partidas.
+
+P.O. 3 DE ABRIL DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
