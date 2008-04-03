@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2008-03-06"
+last_updated: "2008-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 6 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 3 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -367,7 +367,9 @@ Villa Hidalgo,
 
 San Diego de Alejandría.
 
-III. REGION 03, ALTOS SUR, que se integra con los siguientes municipios:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2008)</small>
+
+III. REGION 03. ALTOS SUR, que se integra con los siguientes municipios:
 
 Acatic,
 
@@ -391,7 +393,13 @@ Valle de Guadalupe,
 
 Yahualica de González Gallo,
 
-San Ignacio Cerro Gordo.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
+
+San Ignacio Cerro Gordo y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE ABRIL DE 2008)</small>
+
+Cuquio.
 
 IV. REGION 04, Ciénega, comprendiendo los siguientes municipios:
 
@@ -581,11 +589,11 @@ Tequila,
 
 Teuchitlán.
 
-XII. REGION 12, Centro, que comprende los siguientes Municipios.
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2008)</small>
+
+XII. REGION 12, Centro, que comprende los siguientes municipios:
 
 Acatlán de Juárez,
-
-Cuquío,
 
 El Salto,
 
@@ -2714,3 +2722,7 @@ P.O. 31 DE MARZO DE 2007.
 P.O. 6 DE MARZO DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE ABRIL DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
