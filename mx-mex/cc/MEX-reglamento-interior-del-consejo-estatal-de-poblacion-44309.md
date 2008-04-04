@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-consejo-estatal-de-poblacion-44309"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-17"
-last_updated: "2005-03-17"
+last_updated: "2008-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE POBLACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ABRIL DE 2008.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 17 de marzo de 2005.
 
@@ -140,7 +140,9 @@ Corresponde al Vicepresidente de la Asamblea General:
 
 I. Auxiliar al Presidente en la dirección de los debates de la Asamblea General.
 
-II. Aprobar y firmar las actas de las sesiones de la Asamblea General.
+> <small>(REFORMADA, G.G. 4 DE ABRIL DE 2008)</small>
+
+II. Validar y firmar las actas de las sesiones de la Asamblea General.
 
 ###### Artículo 11.
 
@@ -158,7 +160,9 @@ V. Pasar lista de asistentes a los integrantes de la Asamblea General y determin
 
 VI. Recibir de los integrantes de la Asamblea General las propuestas de temas a tratar en las sesiones, y someterlas a consideración del Presidente de la Asamblea General.
 
-VII. Elaborar y firmar las actas de las sesiones de la Asamblea General y recabar la rúbrica de los integrantes de la misma.
+> <small>(REFORMADA, G.G. 4 DE ABRIL DE 2008)</small>
+
+VII. Elaborar, validar y firmar las actas de las sesiones de la Asamblea General y recabar la rúbrica de los integrantes de la misma.
 
 VIII. Informar a la Asamblea General sobre las actividades realizadas por el Consejo.
 
@@ -190,9 +194,11 @@ VII. Validar y firmar las actas de las sesiones de la Asamblea General.
 
 VIII. Las demás que le encomiende la Asamblea General o el Presidente de ésta.
 
+> <small>(REFORMADO, G.G. 4 DE ABRIL DE 2008)</small>
+
 ###### Artículo 13.
 
-La Asamblea General celebrará sesiones ordinarias por lo menos cada tres meses y extraordinarias cuando su Presidente lo estime necesario o a petición de la tercera parte de sus miembros.
+La Asamblea General celebrará sesiones ordinarias por lo menos cada seis meses y extraordinarias cuando su Presidente lo estime necesario o a petición de la tercera parte de sus miembros.
 
 ###### Artículo 14.
 
@@ -216,7 +222,9 @@ I. Proponer políticas y lineamientos a la Asamblea General y llevar a cabo su a
 
 II. Someter a la consideración del Presidente de la Asamblea General los asuntos a cargo del Consejo que requieran de su intervención.
 
-III. Conducir el funcionamiento del Consejo, vigilando el cumplimiento de su objeto, planes y programas.
+> <small>(REFORMADA, G.G. 4 DE ABRIL DE 2008)</small>
+
+III. Dirigir técnica y administrativamente al Consejo, vigilando el cumplimiento de su objeto, planes y programas, dictando al efecto las medidas conducentes.
 
 IV. Disponer lo necesario para el cumplimiento de los acuerdos de la Asamblea General.
 
@@ -304,11 +312,15 @@ III. Participar con dependencias federales, estatales y municipales, en la preve
 
 IV. Presentar al Secretario Técnico diagnósticos de marginalidad de grupos y sectores que se relacionen con los fenómenos demográficos de la entidad.
 
-V. Elaborar y coordinar estudios e investigaciones sociodemográficas, para conocer la demanda actual y futura de la población.
+> <small>(REFORMADA, G.G. 4 DE ABRIL DE 2008)</small>
+
+V. Elaborar diagnósticos sociodemográficos, proyecciones de población y coordinar estudios e investigaciones sociodemográficas, que sirvan de herramienta para la elaboración de estrategias y programas que coadyuven a la oportuna aplicación de políticas poblacionales.
 
 VI. Proponer al Secretario Técnico escenarios de población y verificar su avance con relación a la dinámica demográfica estatal.
 
-VII. Mantener actualizados los sistemas de información sociodemográfica de la entidad.
+> <small>(REFORMADA, G.G. 4 DE ABRIL DE 2008)</small>
+
+VII. Establecer y desarrollar metodologías para la elaboración de estudios e investigaciones sociodemográficas de la entidad.
 
 VIII. Promover la coordinación entre dependencias y organismos auxiliares para que incorporen los criterios demográficos en la estructuración de políticas públicas, planes y programas en materia de población y desarrollo.
 
@@ -326,9 +338,13 @@ II. Asesorar a los Consejos Municipales de Población en la elaboración y ejecu
 
 III. Promover la aplicación de la política de población nacional y estatal en el ámbito municipal con estricto apego a su autonomía y a sus características sociodemográficas.
 
-IV. Promover y coordinar acciones orientadas a fortalecer la cultura demográfica.
+> <small>(REFORMADA, G.G. 4 DE ABRIL DE 2008)</small>
 
-V. Coordinar proyectos de capacitación dirigidos al sector educativo, medios de comunicación y dependencias cuyo quehacer esté vinculado a mejorar el nivel y bienestar de la población.
+IV. Promover y coordinar acciones orientadas a la difusión de los principales indicadores sociodemográficos, a efecto de fortalecer la cultura demográfica.
+
+> <small>(REFORMADA, G.G. 4 DE ABRIL DE 2008)</small>
+
+V. Elaborar programas de información, educación y comunicación en población dirigidos a grupos específicos de la población, sector educativo, medios de comunicación y dependencias cuyo quehacer esté vinculado a mejorar el nivel y bienestar de la población.
 
 VI. Promover acciones para ampliar las capacidades y oportunidades en el ejercicio de los derechos de la sexualidad y de la reproducción.
 
@@ -371,3 +387,11 @@ LA SECRETARIA TÉCNICA
 LIC. PATRICIA VILLA TORRADO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 4 DE ABRIL DE 2008.
+
+PRIMERO.- Publíquese las modificaciones del presente Reglamento en el periódico oficial Gaceta del Gobierno.
+
+SEGUNDO.-Las modificaciones de este Reglamento entrarán en vigor al día siguiente de su publicación en el periódico oficial Gaceta del Gobierno.
