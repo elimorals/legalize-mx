@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-oficialia-mayor-de-gobierno-52971"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-08"
-last_updated: "2006-12-08"
+last_updated: "2008-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA OFICIALIA MAYOR DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de diciembre de 2006.
 
@@ -144,6 +144,10 @@ iii) Departamento de Recursos Materiales
 I. Delegación Tecate
 
 J. Delegación Playas de Rosarito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2008)</small>
+
+K. Delegación San Quintín.
 
 ###### ARTÍCULO 5.
 
@@ -1089,9 +1093,11 @@ XVII.- Las demás que expresamente le confieran la normatividad aplicable.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 46.
 
-Para la atención y despacho de los asuntos de la Oficialía en el Estado, el titular de la Dependencia contará con delegaciones bajo su mando en los Municipios de Tecate, Tijuana, Playas de Rosarito y Ensenada, las cuales funcionarán de acuerdo al presupuesto, estructura orgánica y personal autorizado.
+Para la atención y despacho de los asuntos de la Oficialía en el Estado, el titular de la Dependencia contará con delegaciones bajo su mando en los Municipios de Tecate, Tijuana, Playas de Rosarito y Ensenada, así como en la localidad de San Quintín, las cuales funcionarán de acuerdo al presupuesto, estructura orgánica y personal autorizado.
 
 ###### ARTÍCULO 47.
 
@@ -1270,3 +1276,9 @@ BERNARDO H. MARTÍNEZ AGUIRRE.
 OFICIAL MAYOR DE GOBIERNO
 
 JOSÉ MARÍA VALDEZ MORALES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ABRIL DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
