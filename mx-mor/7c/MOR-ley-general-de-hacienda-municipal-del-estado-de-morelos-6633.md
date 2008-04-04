@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2007-12-19"
+last_updated: "2008-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -3381,37 +3381,27 @@ P.O. 19 DE DICIEMBRE DE 2007.
 
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial Tierra y Libertad.
 
-SEGUNDO.- Los Municipios cuyas leyes de ingresos para el ejercicio fiscal 2008 no contemplen lo establecido en la presente reforma, deberán realizar el cobro del derecho de los servicios de alumbrado público conforme a lo siguiente:
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2008)</small>
 
-Son contribuyentes de este derecho las personas físicas o morales propietarias o poseedoras de predios urbanos ubicados en el área territorial del Municipio, sin importar que el alumbrado público, se encuentre o no ubicado precisamente frente a su predio, ya que el rendimiento de esta cuota será aplicada al mantenimiento del servicio que se presta en todo el Municipio.
+SEGUNDO.- Los municipios cuyas leyes de ingresos no contemplen lo establecido en el Capítulo V DE LOS SERVICIOS DE ALUMBRADO PÚBLICO, deberán adecuar en sus respectivas leyes de ingresos el cobro del derecho de los servicios de alumbrado público, atendiendo a los principios de equidad y proporcionalidad, mediante la iniciativa de reforma que presenten al Congreso del Estado para que éste acuerde lo conducente.
 
-La cuota de derecho por el alumbrado público será igual al 10% sobre el consumo de energía eléctrica en las tarifas 1, 1ª, 2 y 3 y; al 7% sobre el consumo de energía eléctrica en las tarifas 8 y 12.
+A efecto de que los municipios puedan realizar los estudios correspondientes para adecuar e instrumentar el cobro del derecho por servicios de alumbrado público en sus leyes de ingresos, se les concede un plazo hasta de un año a partir de la entrada en vigor de este decreto para cumplir con lo establecido en el mismo.
 
-a) Son sujetos del pago del derecho que se establece, los consumidores de energía eléctrica en las tarifas 1, 1ª, 2, 3, 8 y 12 aprobadas por la Comisión de Tarifas de Electricidad y Gas dependientes de la Secretaría de Comercio y Fomento Industrial por acuerdo publicado en el Diario Oficial de la Federación el día 15 de noviembre de 1976 y ajustadas por acuerdo publicado el día 30 de julio de 1978; en el mismo Diario Oficial de la Federación.
+Entre tanto el derecho de alumbrado público se causará y pagará de conformidad con las cuotas y tarifas que para el municipio que corresponda autorice el congreso en la respectiva ley de ingresos, tomando en cuenta el costo total de servicio, que es el resultado de sumar los costos de los consumos .de energía eléctrica destinados a la prestación del servicio de alumbrado público, la reposición de lámparas, el mantenimiento de líneas eléctricas y postes, los sueldos del personal encargado de las tareas inherentes a la prestación del servicio y la constitución de una reserva razonable para la reposición, mejoramiento y, en su caso, expansión del servicio.
 
-b) El derecho para alumbrado público será recaudado a través de las Empresas Suministradoras de Energía Eléctrica mediante el cargo correspondiente que se deberá hacer en las facturaciones que las mismas formulen a sus consumidores sujetos a este derecho.
-
-c) Las Empresas Suministradoras de Energía Eléctrica deberán aplicar el monto de sus derechos que recauden en la forma siguiente:
-
-I. Para cubrir el importe de la energía para alumbrado público suministrado a los Municipios, así como los gastos relativos a la ampliación, mantenimiento y reposición de dichos servicios.
-
-II. Para amortizar, en su caso, los adeudos que los Municipios tengan por el mismo concepto con las citadas Empresas Suministradoras de Energía Eléctrica.
-
-III. El mantenimiento, ampliación y reposición de unidades mercuriales fluorescentes y vapor de sodio, será única y exclusivamente por cuenta de los Ayuntamientos de los Municipios en donde exista ese sistema.
-
-IV. Las Empresas Suministradoras de Energía Eléctrica deberán rendir a la Secretaría de Hacienda del Estado, los informes que ésta le solicite sobre la recaudación y aplicación del derecho establecido en este Decreto.
-
-d) El pago de derechos establecidos en este capítulo se hará conforme a lo dispuesto en el Artículo 140 de esta Ley.
+Para calcular el costo total aplicable en un ejercicio, se considerará el costo total del año inmediato anterior a aquel para el cual se aplicará la contribución, incrementando en un porcentaje que refleje, en su caso, los costos derivados del incremento en los precios de los insumos necesarios para la prestación del servicio y su expansión en el territorio municipal. Para hacer este cálculo se considerarán los gastos reales ejercidos a la fecha de formulación de la iniciativa de ley de ingresos para el siguiente ejercicio fiscal y se hará la proyección del período que falte para concluir el año.
 
 TERCERO.- El procedimiento anterior deberá aplicarse hasta en tanto se adecuen a la presente reforma, las leyes de ingresos de los municipios establecidos en el artículo anterior.
 
+P.O. 4 DE ABRIL DE 2008.
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-Se abroga la Ley 120 de Transporte para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado, número 6, Sección I, de fecha 20 de julio de 1992; asimismo se deroga la fracción III del artículo 23 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, así como todas aquellas disposiciones que se opongan a la presente Ley.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
