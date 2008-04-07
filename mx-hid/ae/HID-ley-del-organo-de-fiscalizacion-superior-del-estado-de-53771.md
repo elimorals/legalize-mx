@@ -4,7 +4,7 @@ identifier: "HID-ley-del-organo-de-fiscalizacion-superior-del-estado-de-53771"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2006-12-29"
+last_updated: "2008-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -59,9 +59,11 @@ QUE CONTIENE LA LEY DEL ORGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE HIDALGO.
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y tiene por objeto regular las funciones de revisión y fiscalización de las Cuentas Públicas a que se refiere el Artículo 56 fracciones V y XXXI de la Constitución Política del Estado, así como los Fondos Públicos Federales en los términos convenidos; establecer las bases de organización y funcionamiento del Órgano de Fiscalización Superior; el procedimiento para la determinación de indemnizaciones por daños y perjuicios causados a las Haciendas Públicas Estatal, Municipal o al patrimonio de las Entidades Paraestatales, Organismos Descentralizados Municipales y Empresas de Participación Municipal; el fincamiento de las responsabilidades administrativas que correspondan; además del seguimiento de la situación patrimonial de los servidores públicos del Congreso del Estado y de los Presidentes Municipales en la forma y términos establecidos en este ordenamiento.
+La presente Ley es de orden público y tiene por objeto regular las funciones de revisión y fiscalización de las Cuentas Públicas a que se refiere el Artículo 56, fracciones V y XXXI de la Constitución Política del Estado, así como los Fondos Públicos Federales en los términos convenidos; establecer las bases de organización y funcionamiento del Órgano de Fiscalización Superior; .el procedimiento para la determinación de indemnizaciones por daños y perjuicios causados a las Haciendas Públicas Estatal, Municipal o al Patrimonio de las Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales y Empresas de Participación Municipal; el fincamiento de las responsabilidades administrativas que correspondan; además del seguimiento de la situación patrimonial de los servidores públicos del Congreso del Estado y de los Presidentes Municipales en la forma y términos establecidos en este ordenamiento.
 
 ###### Artículo 2.
 
@@ -81,27 +83,49 @@ VI.- Comisión Inspectora: La Comisión Inspectora del Órgano de Fiscalización
 
 VII.- Gestión Financiera: La actividad de los Poderes del Estado, Ayuntamientos, Entidades Públicas Paraestatales, Organismos Descentralizados Municipales y Empresas de Participación Municipal, respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y, en general, de los recursos públicos que éstos ejerzan para el cumplimiento de los objetivos contenidos en sus planes y programas de conformidad con las Leyes y demás disposiciones de la materia;
 
-VIII.- Cuenta Pública: El Informe que los Poderes del Estado, Ayuntamientos, Entidades Paraestatales, Organismos Descentralizados Municipales y las Empresas de Participación Municipal, rinden al Órgano de Fiscalización Superior a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos, durante el ejercicio fiscal comprendido del 1 de enero al 31 de diciembre de cada año, se realizó en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios y con base en los programas aprobados;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2008)</small>
+
+VIII.- Cuenta Pública: Es el Informe que los sujetos de revisión y fiscalización rinden al Órgano de Fiscalización Superior a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos, durante el ejercicio fiscal comprendido del 1 de enero al 31 de diciembre de cada año, se realizó en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios y con base en los programas aprobados;
 
 IX.- Servidores Públicos: Los que así considera la Constitución Política del Estado Libre y Soberano de Hidalgo y la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-X.- Informe del resultado: El documento que presenta el Órgano de Fiscalización Superior a la Comisión Inspectora y que contiene los resultados de la revisión y fiscalización de las Cuentas Públicas;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2008)</small>
+
+X.- Informe del Resultado de la Revisión: El documento que presenta el Órgano de Fiscalización Superior a la Comisión Inspectora y que contiene los resultados de la revisión y fiscalización de las Cuentas Públicas;
 
 XI.- Informe de Avance de Gestión Financiera: El informe que presentan los sujetos de revisión y fiscalización sobre los avances físicos y financieros de los programas aprobados a fin de que el Órgano de Fiscalización verifique el grado de cumplimiento de los objetivos contenidos en sus planes y programas, de conformidad con las Leyes y demás disposiciones de la materia;
 
 XII.- Fiscalización: La facultad ejercida por el Órgano de Fiscalización Superior para la revisión de la obtención y aplicación de los recursos que los sujetos de revisión y fiscalización ejercen para el cumplimiento de sus objetivos contenidos en sus planes y programas aprobados;
 
-XIII.- Órgano: El Órgano de Fiscalización Superior del Congreso del Estado de Hidalgo; y
+XIII.- Órgano: El Órgano de Fiscalización Superior del Congreso del Estado de Hidalgo; y (sic)
 
-XIV.- Sujetos de revisión y fiscalización: Los Poderes del Estado, los Ayuntamientos, Entidades Paraestatales, Organismos Descentralizados Municipales, Empresas de Participación Municipal y, en general, cualquier persona física o moral, que recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos de la Federación, Estado o Municipios.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2008)</small>
+
+XIV.- Sujetos de revisión y fiscalización: Los Poderes del Estado, los Ayuntamientos, Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales, Empresas de Participación Municipal y, en general, cualquier persona física o moral, que recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos de la Federación, Estado o Municipios;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2008)</small>
+
+XV.- Proceso concluido: Aquel que los sujetos de revisión y fiscalización reporten como tal, ante el Órgano en relación al gasto devengado según su estructura programática presupuestal autorizada;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2008)</small>
+
+XVI.- Pliego de Observaciones: Documento que emite y notifica el Órgano de Fiscalización Superior al sujeto de revisión, en el que se describen las irregularidades, errores u omisiones detectadas en la revisión y fiscalización, con la finalidad de que éste presente la documentación e información que considere pertinente para su solventación; y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2008)</small>
+
+XVII.- Pliego de Cargos: Resolución derivada de la no comprobación y/o justificación del pliego de observaciones, o bien cuando la contestación de éste no se realizó dentro del plazo establecido, en la que se determina en cantidad líquida los daños y perjuicios ocasionados, así como la presunta responsabilidad del servidor público.
 
 ###### Artículo 3.
 
 El Órgano de Fiscalización Superior, es el órgano técnico dependiente del Congreso, cuenta con autonomía técnica y de gestión, encargado de la revisión y fiscalización de las Cuentas Públicas de los Poderes del Estado, de los ayuntamientos, entidades paraestatales, organismos descentralizados municipales, empresas de participación municipal y en general de cualquier persona física o moral, que recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos de la Federación, Estado o Municipios.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 4.
 
-La revisión y fiscalización que realice el Órgano, es independiente y autónoma de cualquier otra forma de controlo fiscalización interna de los sujetos de revisión y fiscalización.
+La revisión y fiscalización que realice el Órgano, es independiente y autónoma de cualquier otra forma de controlo fiscalización interna de los sujetos de revisión y fiscalización y se realizará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+Sin perjuicio del principio de anualidad el Órgano podrá solicitar y revisar de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de Programas Estatales. Las observaciones y recomendaciones que respectivamente el Órgano emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
 ## TITULO SEGUNDO. Del Órgano de Fiscalización Superior del Estado de Hidalgo y de la Comisión Inspectora
 
@@ -161,33 +185,41 @@ IX.- Solicitar a los sujetos de revisión y fiscalización la información y el 
 
 X.- Certificar los documentos que le soliciten conforme a derecho y que obren en el archivo del Órgano;
 
-XI.- Formular pliegos de observaciones y de cargos;
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
 
-XII.- Emitir y entregar al Congreso por conducto de la Comisión Inspectora del Órgano de Fiscalización Superior, los informes sobre los resultados de la revisión y fiscalización, para efectos de aprobación de las Cuentas Públicas;
+XI.- Formular los pliegos de observaciones y de cargos, así como las recomendaciones que deriven de la revisión y fiscalización;
 
-XIII.- Determinar los daños y perjuicios que afecten las Haciendas Públicas Estatal y Municipal o al patrimonio de las Entidades Estatales o Municipales;
+> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 7 DE ABRIL DE 2008)</small>
 
-XIV.- Fincar las responsabilidades administrativas a que haya lugar y, en su caso, las indemnizaciones y sanciones pecuniarias correspondientes;
+XII.- Dar a conocer a las entidades fiscalizadas los resultados de su revisión en la forma y términos previstos en la Legislación vigente;
 
-XV.- Promover ante las Autoridades competentes el fincamiento de otras responsabilidades, así como las acciones de responsabilidad a que se refiere el título Décimo de la Constitución Política del Estado; y, presentar denuncias y querellas penales;
+> <small>(ADICIONADA [N. DE E. REFORMADO], P.O. 7 DE ABRIL DE 2008)</small>
 
-XVI.- Solicitar a la Autoridad competente la aplicación del procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias impuestas y vigilar su seguimiento;
+XIII.- Emitir y entregar al Congreso por conducto de la Comisión Inspectora, los informes del resultado de la revisión a más tardar en la segunda quincena del mes de marzo del año siguiente al de su presentación;
 
-XVII.- Convenir con su similar de la Federación, previo acuerdo del Congreso del Estado y en términos de las disposiciones legales aplicables, para efectos de la fiscalización de los recursos federales que ejerzan los sujetos de revisión y fiscalización;
+XIV.- Determinar los daños y perjuicios que afecten las Haciendas Públicas Estatal y Municipal o al patrimonio de las Entidades Estatales o Municipales;
 
-XVIII.- Previo acuerdo del Coordinador General de la Junta de Coordinación Legislativa celebrar Convenios con Autoridades Federales, Estatales y Municipales sobre asuntos de su competencia;
+XV.- Fincar las responsabilidades administrativas a que haya lugar y, en su caso, las indemnizaciones y sanciones pecuniarias correspondientes;
 
-XIX.- Elaborar y difundir los criterios, normas, procedimientos, métodos y sistemas contables y de auditoría, que deberán aplicarse en la revisión y fiscalización de las Cuentas Públicas, así como aquellos que deberán observar quienes recauden, administren, manejen, ejerzan, resguarden o custodien fondos o recursos de la Federación, Estado o Municipios;
+XVI.- Promover ante las Autoridades competentes el fincamiento de otras responsabilidades, así como las acciones de responsabilidad a que se refiere el título Décimo de la Constitución Política del Estado; y, presentar denuncias y querellas penales;
 
-XX.- Emitir los manuales, formatos e instructivos conforme a los cuales los servidores públicos del Congreso del Estado y del Municipio deberán presentar su declaración patrimonial;
+XVII.- Solicitar a la Autoridad competente la aplicación del procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias impuestas y vigilar su seguimiento;
 
-XXI.- Recibir, registrar, controlar y dar seguimiento a las declaraciones patrimoniales de los servidores públicos a que se refiere la fracción anterior;
+XVIII.- Convenir con su similar de la Federación, previo acuerdo del Congreso del Estado y en términos de las disposiciones legales aplicables, para efectos de la fiscalización de los recursos federales que ejerzan los sujetos de revisión y fiscalización;
 
-XXII.- Designar al Director que lo suplirá en sus ausencias temporales;
+XIX.- Previo acuerdo del Coordinador General de la Junta de Coordinación Legislativa celebrar Convenios con Autoridades Federales, Estatales y Municipales sobre asuntos de su competencia;
 
-XXIII.- Solicitar a las autoridades competentes la información que le sea necesaria para el correcto desempeño de sus funciones; y
+XX.- Elaborar y difundir los criterios, normas, procedimientos, métodos y sistemas contables y de auditoría, que deberán aplicarse en la revisión y fiscalización de las Cuentas Públicas, así como aquellos que deberán observar quienes recauden, administren, manejen, ejerzan, resguarden o custodien fondos o recursos de la Federación, Estado o Municipios;
 
-XXIV.- Las demás que le señale esta Ley y demás disposiciones legales aplicables.
+XXI.- Emitir los manuales, formatos e instructivos conforme a los cuales los servidores públicos del Congreso del Estado y del Municipio deberán presentar su declaración patrimonial;
+
+XXII.- Recibir, registrar, controlar y dar seguimiento a las declaraciones patrimoniales de los servidores públicos a que se refiere la fracción anterior;
+
+XXIII.- Designar al Director que lo suplirá en sus ausencias temporales;
+
+XXIV.- Solicitar a las autoridades competentes la información que le sea necesaria para el correcto desempeño de sus funciones; y
+
+XXV.- Las demás que le señale esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 8.
 
@@ -221,65 +253,77 @@ VI.- Incumplir sin causa justificada, con las disposiciones que en uso de sus fa
 
 El Órgano de Fiscalización Superior, tendrá las siguientes atribuciones:
 
-I.- Verificar si la gestión financiera de los Poderes del Estado, los Ayuntamientos, Entidades Paraestatales, Organismos Descentralizados Municipales, Empresas de Participación Municipal y demás sujetos de revisión y fiscalización, se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2008)</small>
 
-II.- Revisar que la recaudación, administración, manejo y aplicación de los recursos Federales, Estatales y Municipales, así como los actos, contratos, convenios, concesiones u operaciones que los sujetos de revisión y fiscalización celebren o realicen, se ajusten a las disposiciones legales aplicables y no se hayan causado daños o perjuicios a la hacienda pública o al patrimonio de los sujetos de revisión y fiscalización;
+I.- Recibir, .revisar y fiscalizar las Cuentas Públicas que remitan los Poderes del Estado, los Ayuntamientos, Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales y Empresas de Participación Municipal;
 
-III.- Ordenar por sí o por instrucciones de la Comisión Inspectora, la práctica de visitas, auditorías e inspecciones necesarias para verificar que el manejo y la aplicación de recursos públicos se haya realizado con apego a la normatividad vigente;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2008)</small>
 
-IV.- Fiscalizar la aplicación de los subsidios, transferencias, apoyos adicionales y cualquier otro concepto similar que los sujetos de revisión y fiscalización hayan recibido, cualesquiera que sean sus fines y destino;
+II.- Verificar si la gestión financiera de los Poderes del Estado, los Ayuntamientos, Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales, Empresas de Participación Municipal y demás sujetos de revisión y fiscalización, se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
 
-V.- Establecer y difundir los criterios para las auditorías, normas, procedimientos, métodos y sistemas para la integración, revisión y fiscalización de las Cuentas Públicas;
+III.- Revisar que la recaudación, administración, manejo y aplicación de los recursos Federales, Estatales y Municipales, así como los actos, contratos, convenios, concesiones u operaciones que los sujetos de revisión y fiscalización celebren o realicen, se ajusten a las disposiciones legales aplicables y no se hayan causado daños o perjuicios a la hacienda pública o al patrimonio de los sujetos de revisión y fiscalización;
 
-VI.- Hacer visitas domiciliarias para exigir la exhibición de libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades establecidas para las compulsas y cateos;
+IV.- Ordenar por sí o por instrucciones de la Comisión Inspectora, la práctica de visitas, auditorías e inspecciones necesarias para verificar que el manejo y la aplicación de recursos públicos se haya realizado con apego a la normatividad vigente;
 
-VII.- En coordinación con las Secretarías de Finanzas, Contraloría, Planeación y Desarrollo Regional y las Unidades de Control Interno; establecer los lineamientos, reglas técnicas, procedimientos, métodos y sistemas de contabilidad y del gasto público;
+V.- Fiscalizar la aplicación de los subsidios, transferencias, apoyos adicionales y cualquier otro concepto similar que los sujetos de revisión y fiscalización hayan recibido, cualesquiera que sean sus fines y destino;
 
-VIII.- Establecer y difundir los procedimientos y sistemas informáticos para la integración, generación, verificación y utilización de la información aplicable a los sujetos de revisión y fiscalización;
+VI.- Establecer y difundir los criterios para las auditorías, normas, procedimientos, métodos y sistemas para la integración, revisión y fiscalización de las Cuentas Públicas;
 
-IX.- Asesorar de manera permanente a los sujetos de revisión y fiscalización, así como promover y realizar cursos de capacitación y actualización;
+VII.- Hacer visitas domiciliarias para exigir la exhibición de libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades establecidas para las compulsas y cateos;
 
-X.- Contratar la prestación de servicios profesionales externos en los términos de esta Ley;
+VIII.- En coordinación con las Secretarías de Finanzas, Contraloría, Planeación y Desarrollo Regional y las Unidades de Control Interno; establecer los lineamientos, reglas técnicas, procedimientos, métodos y sistemas de contabilidad y del gasto público;
 
-XI.- Requerir, en su caso, a los auditores externos los informes o dictámenes de las auditorías y revisiones que hubieren practicado;
+IX.- Establecer y difundir los procedimientos y sistemas informáticos para la integración, generación, verificación y utilización de la información aplicable a los sujetos de revisión y fiscalización;
 
-XII.- Solicitar a los sujetos de revisión y fiscalización toda la información y documentación comprobatoria que sea necesaria para el cumplimiento de sus funciones;
+X.- Asesorar de manera permanente a los sujetos de revisión y fiscalización, así como promover y realizar cursos de capacitación y actualización;
 
-XIII.- Requerir a terceros que hubiesen contratado bienes o servicios mediante cualquier título legal con los sujetos de revisión y fiscalización la información relacionada con la documentación comprobatoria, a efecto de realizar las compulsas correspondientes;
+XI.- Contratar la prestación de servicios profesionales externos en los términos de esta Ley;
 
-XIV.- Participar en los procesos de entrega recepción de los sujetos de revisión y fiscalización y emitir las bases y lineamientos conforme a las cuales deberán integrar la información y documentación correspondiente;
+XII.- Requerir, en su caso, a los auditores externos los informes o dictámenes de las auditorías y revisiones que hubieren practicado;
 
-XV.- Investigar, en el ámbito de su competencia, los actos u omisiones que pudieran configurar irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de los sujetos de revisión y fiscalización;
+XIII.- Solicitar a los sujetos de revisión y fiscalización toda la información y documentación comprobatoria que sea necesaria para el cumplimiento de sus funciones;
 
-XVI.- Formular y notificar los pliegos de observaciones derivados de la revisión y fiscalización, así como, de los informes de auditorías realizados por el Órgano a través de los auditores externos;
+XIV.- Requerir a terceros que hubiesen contratado bienes o servicios mediante cualquier título legal con los sujetos de revisión y fiscalización la información relacionada con la documentación comprobatoria, a efecto de realizar las compulsas correspondientes;
 
-XVII.- Determinar las responsabilidades administrativas y, en su caso, los daños y perjuicios que afecten a las Haciendas Públicas Estatal y Municipal o al patrimonio de los demás sujetos de revisión y fiscalización;
+XV.- Participar en los procesos de entrega recepción de los sujetos de revisión y fiscalización y emitir las bases y lineamientos conforme a las cuales deberán integrar la información y documentación correspondiente;
 
-XVIII.- Fincar a los responsables las indemnizaciones y sanciones correspondientes;
+XVI.- Investigar, en el ámbito de su competencia, los actos u omisiones que pudieran configurar irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de los sujetos de revisión y fiscalización;
 
-XIX.- Conocer y resolver el recurso de revocación que se interponga en contra de las resoluciones que emita;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2008)</small>
 
-XX.- Promover ante las Autoridades competentes el fincamiento de otras responsabilidades, así como las acciones de responsabilidad a que se refiere el Título Décimo de la Constitución Política del Estado y, presentar denuncias y querellas penales;
+XVII.- Formular y notificar los pliegos de observaciones y de cargos, al igual que las recomendaciones derivados de la revisión y fiscalización, así como, de los informes de auditorias realizados por el Órgano a través de los auditores externos;
 
-XXI.- Imponer las medidas de apremio a que se refiere esta Ley;
+XVIII.- Determinar las responsabilidades administrativas y, en su caso, los daños y perjuicios que afecten a las Haciendas Públicas Estatal y Municipal o al patrimonio de los demás sujetos de revisión y fiscalización;
 
-XXII.- Recibir, atender y dar seguimiento a las quejas y denuncias que se presenten ante el Órgano de Fiscalización Superior en contra de los servidores públicos;
+XIX.- Fincar a los responsables las indemnizaciones y sanciones correspondientes;
 
-XXIII.- Colaborar para efectos de fiscalización de los Recursos Federales que ejerzan los sujetos de revisión y fiscalización con su similar de la Federación, en términos de las disposiciones legales aplicables y del convenio celebrado entre la Auditorías Superior de la Federación y el Congreso del Estado;
+XX.- Conocer y resolver el recurso de revocación que se interponga en contra de las resoluciones que emita;
 
-XXIV.- Celebrar Convenios de Coordinación o colaboración con los Gobiernos Estatal y Municipal, así como con personas físicas o morales, tanto públicas como privadas, con el propósito de dar cumplimiento al objeto de esta Ley;
+XXI.- Promover ante las Autoridades competentes el fincamiento de otras responsabilidades, así como las acciones de responsabilidad a que se refiere el Título Décimo de la Constitución Política del Estado y, presentar denuncias y querellas penales;
 
-XXV.- Formular y emitir los manuales, formatos e instructivos conforme a los cuales los servidores públicos del Congreso del Estado y los Presidentes Municipales, deberán presentar su declaración patrimonial;
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2008)</small>
 
-XXVI.- Recibir, registrar, controlar y dar seguimiento a la situación patrimonial de los servidores públicos a que se refiere la fracción anterior;
+XXII.- Informar al Congreso del Estado el día 15 de los meses de febrero y agosto la situación de las observaciones, recomendaciones y acciones promovidas por el Órgano;
 
-XXVII.- Expedir su Reglamento interior;
+XXIII.- Imponer las medidas de apremio a que se refiere esta Ley;
 
-XXVIII.- Elaborar su anteproyecto de presupuesto anual;
+XXIV.- Recibir, atender y dar seguimiento a las quejas y denuncias que se presenten ante el Órgano de Fiscalización Superior en contra de los servidores públicos;
 
-XXIX.- Formular su Programa Operativo Anual; y
+XXV.- Colaborar para efectos de fiscalización de los Recursos Federales que ejerzan los sujetos de revisión y fiscalización con su similar de la Federación, en términos de las disposiciones legales aplicables y del convenio celebrado entre la Auditorías Superior de la Federación y el Congreso del Estado;
 
-XXX.- Las demás que le otorgue esta Ley o cualquier otro ordenamiento.
+XXVI.- Celebrar Convenios de Coordinación o colaboración con los Gobiernos Estatal y Municipal, así como con personas físicas o morales, tanto públicas como privadas, con el propósito de dar cumplimiento al objeto de esta Ley;
+
+XXVII.- Formular y emitir los manuales, formatos e instructivos conforme a los cuales los servidores públicos del Congreso del Estado y los Presidentes Municipales, deberán presentar su declaración patrimonial;
+
+XXVIII.- Recibir, registrar, controlar y dar seguimiento a la situación patrimonial de los servidores públicos a que se refiere la fracción anterior;
+
+XXIX.- Expedir su Reglamento interior;
+
+XXX.- Elaborar su anteproyecto de presupuesto anual;
+
+XXXI.- Formular su Programa Operativo Anual; y
+
+XXXII.- Las demás que le otorgue esta Ley o cualquier otro ordenamiento.
 
 ###### Artículo 11.
 
@@ -315,13 +359,13 @@ VI.- Las demás que le otorgue la Constitución Política del Estado, esta Ley y
 
 ###### Artículo 14.
 
-Los sujetos de revisión y fiscalización remitirán al Órgano de manera mensual, dentro de los siguientes 15 días naturales al periodo que corresponda, los estados financieros, programáticos, patrimoniales y presupuestarios, así como el avance físico-financiero por cada obra o acción.
+(DEROGADO, P.O. 7 DE ABRIL DE 2008)
 
-Asimismo, en los casos que se considere necesario, el Órgano de Fiscalización Superior podrá solicitar en cualquier momento a los sujetos de revisión y fiscalización la información o documentación comprobatoria que considere pertinente.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2008)</small>
 
 ###### Artículo 15.
 
-La revisión y fiscalización que realice el Órgano a los Poderes del Estado, Ayuntamientos, Entidades Paraestatales, Organismos Descentralizados Municipales, Empresas de Participación Municipal, y en general a cualquier persona física o moral, que recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos del Estado, Municipios o Federación, tiene como objeto:
+La revisión y fiscalización que realice el Órgano a los Poderes del Estado, Ayuntamientos, Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales, Empresas de Participación Municipal, y en general a cualquier persona física o moral, que recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos del Estado, Municipios o Federación, tiene como objeto:
 
 I.- Revisar que los sujetos de revisión y fiscalización recauden sus ingresos conforme a la Ley de Ingresos y, en su caso, las Cuotas y Tarifas aprobadas;
 
@@ -341,21 +385,43 @@ VII.- Inspeccionar obras, bienes adquiridos y servicios contratados, para compro
 
 De manera trimestral los sujetos de revisión y fiscalización deberán presentar el Informe de Avance de Gestión Financiera, dentro de los 15 días naturales siguientes al trimestre respectivo. Asimismo, aquellos que hayan contratado deuda pública anexarán el informe sobre la situación de la misma en los 15 días naturales posteriores al semestre que corresponda.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2008)</small>
+
+Al Informe de Avance de Gestión Financiera se anexarán, los estados financieros, programáticos, patrimoniales y presupuestarios, asimismo deberá contener:
+
+I.- El flujo contable de ingresos y egresos al último día del trimestre que se reporta;
+
+II.- El avance del cumplimiento de los planes y programas aprobados en el presupuesto de egresos; y
+
+III.- Los procesos concluidos.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2008)</small>
+
+El Órgano únicamente podrá revisar y fiscalizar los conceptos reportados como concluidos en este periodo, por los sujetos de revisión y fiscalización.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 17.
 
-Para los efectos de ésta Ley, la cuenta pública de los sujetos de revisión y fiscalización estará constituida por los estados financieros, presupuestarios, y programáticos, inventario de bienes muebles e inmuebles, estado de deuda pública, analítico de obras ejecutadas, así como toda aquella información que muestre la obtención y aplicación de los recursos correspondientes al ejercicio fiscal respectivo.
+Para los efectos de esta Ley la cuenta pública se integrará de los estados financieros, presupuestarios, programáticos, inventario de bienes muebles e inmuebles, estado de deuda pública, analítico de obras ejecutadas, así como toda aquella información y documentación que muestre la obtención y aplicación de los recursos correspondientes al ejercicio fiscal respectivo.
+
+En su caso, cuando existan programas y proyectos que comprendan más de un año, deberá incluirse también la información generada durante el ejercicio fiscal que se reporta.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
 
 ###### Artículo 18.
 
-Los sujetos de revisión y fiscalización enviarán su cuenta pública, dentro de los dos primeros meses del ejercicio posterior al que se trate. Excepcionalmente será por un periodo menor, cuando los titulares de los sujetos de fiscalización hubieren concluido su encargo o cuando hayan sido removidos por cualquier circunstancia, caso en el que la presentación de la cuenta pública del periodo respectivo deberá hacerse dentro de los sesenta días posteriores.
+Los sujetos de revisión y fiscalización enviarán su cuenta pública, a más tardar el 31 de marzo del ejercicio posterior al que se trate, con excepción al tercer año de ejercicio de las Administraciones Municipales, en cuyo caso deberá presentarse a más tardar el día 15 de enero, en esta última además deberá incluirse la información de los ingresos y egresos correspondientes a la primer quincena del año en que concluye el castigo.
 
 ###### Artículo 19.
 
 Si transcurridos los plazos a que se refieren los Artículos anteriores, los sujetos de revisión y fiscalización no presentan la información y documentación de referencia, se harán acreedores a una de las medidas de apremio que se establecen en este ordenamiento.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 20.
 
-La revisión y fiscalización de las Cuentas Públicas se realizará a más tardar en la primera quincena del mes de junio del ejercicio fiscal posterior al que correspondan. Este plazo podrá prorrogarse hasta el treinta de noviembre del año en que se reciban las cuentas.
+La revisión y fiscalización de las Cuentas Públicas se realizará a más tardar el 31 de octubre del año siguiente al de su presentación.
 
 ###### Artículo 21.
 
@@ -379,15 +445,25 @@ Los servidores públicos del Órgano de Fiscalización Superior, así como los a
 
 La violación a esta disposición se sancionará en los términos que disponga esta Ley y demás Leyes del Estado.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 25.
 
-El Órgano de Fiscalización entregará al Congreso del Estado a través de la Comisión Inspectora, el Informe del Resultado de la Revisión de las Cuentas Públicas a más tardar en la segunda quincena del mes de junio del año siguiente al que corresponda.
+En relación al Informe del Resultado de la Revisión, el Órgano de Fiscalización Superior procederá a lo siguiente:
 
-En los casos a que se refiere la segunda parte del Artículo 20 de esta Ley, el Órgano solicitará a la Comisión Inspectora una prórroga para la presentación del Informe del Resultado de la Revisión de la Cuenta Pública por un plazo no mayor a cinco meses.
+> <small>(DEROGADO, P.O. 7 DE ABRIL DE 2008)</small>
+
+I.- Dará a conocer a las entidades fiscalizadas los resultados de su revisión, a efecto de que éstas manifiesten sus justificaciones y aclaraciones en un plazo de 20 días hábiles contados a partir de la notificación; mismas que serán consideradas para la emisión del Informe del Resultado de la Revisión.
+
+II.- Entregará al Congreso del Estado a través de la Comisión Inspectora, el Informe del Resultado de la Revisión de las Cuentas Públicas a más tardar en la segunda quincena del mes de marzo del año siguiente al de su presentación, mismo que tendrá carácter público y mientras ello no suceda el Órgano deberá guardar reserva de sus actuaciones e informaciones.
+
+III.- En su caso, enviará a las Entidades Fiscalizadas, el pliego que contenga las. observaciones, así como las recomendaciones y acciones derivadas de la revisión a la cuenta pública, dentro de los 10 días hábiles siguientes a que sea entregado al Congreso el Informe del Resultado de la Revisión, para los efectos previstos en el Artículo 27 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2008)</small>
 
 ###### Artículo 26.
 
-El Informe del Resultado debe contener lo siguiente:
+El Informe del Resultado de la Revisión debe contener lo siguiente:
 
 I.- El resultado de la evaluación de la gestión financiera;
 
@@ -395,19 +471,37 @@ II.- El cumplimiento a los principios de contabilidad gubernamental y demás dis
 
 III.- Las observaciones y comentarios respecto a la obtención de los ingresos, así como de la aplicación de los recursos;
 
-IV.- La situación que guarda la deuda pública que, en su caso, hubieran contraído; y
+IV.- La situación que guarda la deuda pública que, en su caso, hubieran contraído; y (sic)
 
-V.- La demás información que describa la situación financiera que guardan los sujetos de revisión y fiscalización.
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2008)</small>
+
+V.- Las recomendaciones y acciones promovidas por el Órgano de Fiscalización Superior;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2008)</small>
+
+VI.- Las consideraciones emitidas por los sujetos de revisión y fiscalización respecto del Informe del Resultado de su Revisión; y
+
+VII.- La demás información que describa la situación financiera que guardan los sujetos de revisión y fiscalización.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
 
 ###### Artículo 27.
 
-El Órgano de Fiscalización Superior con base en las disposiciones establecidas en esta Ley, formulará a los sujetos de revisión y fiscalización pliegos de observaciones, derivados de las irregularidades encontradas en las revisiones practicadas, en los que se determinará en cantidad líquida, la presunta responsabilidad del servidor público y los remitirá al responsable para que los conteste en un plazo de treinta días hábiles, contados a partir del día siguiente en que lo reciba.
+Una vez entregado al Congreso del Estado el Informe del Resultado de la Revisión, dentro del plazo que señala el Artículo 25 fracción III de esta Ley se notificará a los sujetos de revisión y fiscalización el pliego de observaciones, así como las .recomendaciones y acciones promovidas, derivadas de las irregularidades encontradas en la revisión a la cuenta pública, a efecto de que conteste en un plazo de treinta días hábiles, contados a partir del siguiente en que lo reciba.
+
+Los sujetos de revisión y fiscalización deberán contestar por escrito los pliegos, así como el seguimiento a las recomendaciones y acciones promovidas, acompañando, en su caso, la documentación e información que consideren conveniente para su solventación, así como aquella que acredite la atención y seguimiento de las recomendaciones y acciones promovidas.
+
+El Órgano deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las Entidades Fiscalizadas y en caso de no hacerlo las observaciones, recomendaciones y acciones mencionadas se tendrán por atendidas.
+
+En cuanto a los pliegos de observaciones y las recomendaciones emitidos en relación a lo dispuesto en los Artículos 4 párrafo segundo y 16 de este ordenamiento, el plazo y formalidades para su contestación será de treinta días hábiles, contados a partir del siguiente al de su notificación.
 
 ###### Artículo 28.
 
-Los sujetos de revisión y fiscalización, deberán contestar por escrito las observaciones que se les formulen y podrán presentar los documentos que crean convenientes para su solventación.
+(DEROGADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2008)
 
-Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación presentada no sea suficiente para solventar las observaciones a juicio del Órgano de Fiscalización Superior, se emitirá y notificará el pliego de cargos, con base en el cual se iniciará el procedimiento para el fincamiento de responsabilidades resarcitorias y, en su caso, aplicará las sanciones a que haya lugar, en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
+Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación presentada no sea suficiente para solventar las observaciones a juicio del Órgano de Fiscalización Superior, se emitirá y notificará el pliego de cargos, con base en el cual se iniciará el procedimiento para el finca miento de responsabilidades resarcitorias y, en su caso, aplicará las sanciones a que haya lugar, en los términos de la Legislación aplicable.
 
 Las notificaciones que expida el Órgano de Fiscalización Superior, relativas a la solventación de las observaciones detectadas en la fiscalización no liberarán a los servidores públicos que manejaron los recursos públicos, de las responsabilidades futuras que pudieran surgir con motivo del ejercicio de las facultades de revisión, respecto a lo que no fue materia de examen.
 
@@ -427,9 +521,11 @@ Cuando ante el Órgano de Fiscalización Superior se presenten quejas o denuncia
 
 ### CAPITULO I. De los Sujetos Responsables
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 32.
 
-Si de la revisión y fiscalización de las Cuentas Públicas, aparecieren actos u omisiones de los que se desprenda el manejo indebido de los recursos públicos o que produzcan daños y perjuicios a las Haciendas Públicas Estatal o Municipal, al Patrimonio de las Entidades Paraestatales, de los Organismos Públicos Autónomos, de los Organismos Descentralizados Municipales o de las Empresas de Participación Municipal, el Órgano de Fiscalización Superior procederá a:
+Si de la revisión y fiscalización de las Cuentas Públicas que realice el Órgano de Fiscalización Superior, aparecieren. actos u omisiones de los que se desprenda el manejo indebido de los recursos públicos o que produzcan daños y perjuicios a las Haciendas Públicas Estatal o Municipal, al patrimonio de las Entidades Paraestatales de los Organismos Autónomos, de los Organismos Descentralizados Municipales o de las Empresas de Participación Municipal, el Órgano de Fiscalización Superior procederá a:
 
 I.- Fincar las responsabilidades administrativas a que haya lugar, en su caso, determinar los daños y perjuicios correspondientes y fincar directamente a los presuntos responsables las indemnizaciones y sanciones pecuniarias respectivas;
 
@@ -697,9 +793,11 @@ En todos los casos, la prescripción a que alude este precepto se interrumpirá 
 
 ###### Artículo 65.
 
-El finiquito que expida el Congreso del Estado a los funcionarios que manejen fondos públicos, se otorgará a través del Órgano de Fiscalización Superior una vez aprobada la cuenta pública y dentro del plazo de cinco años.
+(DEROGADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2008)
 
-Las responsabilidades de carácter político, civil, administrativo o penal que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las Leyes aplicables.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
+Las responsabilidades de carácter político, civil, administrativo o penal que resulten por actos u omisiones derivados de la revisión y fiscalización, prescribirán en la forma y tiempo que fijen las Leyes aplicables.
 
 ###### Artículo 66.
 
@@ -738,3 +836,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 7 DE ABRIL DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estad (sic).
+
+SEGUNDO.- La revisión de las Cuentas Públicas correspondientes al Ejercicio Fiscal 2007, se perfeccionará y concluirá en términos de la presente Ley, en el año 2009.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
