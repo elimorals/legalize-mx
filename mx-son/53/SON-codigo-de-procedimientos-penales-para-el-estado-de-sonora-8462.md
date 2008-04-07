@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2007-07-12"
+last_updated: "2008-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ABRIL DE 2008.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -1287,6 +1287,22 @@ VI.- Solicitar las medidas y providencias que establece la Ley de Atención y Pr
 
 En todo caso, el Juez, de oficio, mandará citar a la víctima u ofendido por el delito, para que comparezca por sí o por su representante designado en la averiguación previa o en el proceso, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
 
+> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
+
+ARTICULO 142 BIS.- Cuando un sentenciado sea declarado penalmente responsable de la comisión del delito de trata de personas establecido en el artículo 301-J del Código Penal del Estado de Sonora, el Juez deberá condenarlo también al pago de la reparación del daño a favor de la víctima. Esta incluirá, por lo menos:
+
+a) Los costos del tratamiento médico y psicológico;
+
+b) Los costos de la terapia y rehabilitación física y ocupacional;
+
+c) Los costos del transporte, incluido el de retorno a su lugar de origen, vivienda provisional y cuidado de personas menores de dieciocho o mayores de sesenta años de edad, así como de quienes no tengan capacidad para comprender el significado del hecho, que sean necesarios;
+
+d) Los ingresos perdidos;
+
+e) La indemnización por perturbación emocional, dolor y sufrimiento; y
+
+f) Cualquier otra pérdida sufrida por la víctima que haya sido generada por la comisión del delito.
+
 ## TITULO CUARTO. Instrucción
 
 ### CAPITULO I. Reglas generales de la instrucción
@@ -1321,7 +1337,7 @@ Durante la instrucción, el tribunal que conozca del proceso deberá, de acuerdo
 
 > <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-El tribunal deberá tomar conocimiento directo de (sic) sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto. Además tratándose de delitos cuya acción penal pueda extinguirse mediante perdón del ofendido, y en aquellos cuya sanción máxima no exceda de tres años de prisión o tengan señalas una pena alternativa, orientará al ofendido y al inculpado para que si lo estiman procedente, acudan a un centro de mediación, para dirimir el conflicto en lo que resulte legalmente procedente.
+El tribunal deberá tomar conocimiento directo de (sic) sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto. Además tratándose de delitos cuya acción penal pueda extinguirse mediante perdón del ofendido, y en aquellos cuya sanción máxima no exceda de tres años de prisión o tengan señaladas una pena alternativa, orientará al ofendido y al inculpado para que si lo estiman procedente, acudan a un centro de mediación, para dirimir el conflicto en lo que resulte legalmente procedente.
 
 > <small>(ADICIONADO, B.O. 11 DE MAYO DE 1992)</small>
 
@@ -1715,9 +1731,9 @@ III.- Que no pueda ocurrir ante el Juez a solicitar la orden de aprehensión, po
 
 Se califican como delitos graves, los previstos en los siguientes artículos del Código Penal para el Estado de Sonora:
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
-Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 Bis; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuestos previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de menores e incapaces, previsto en los párrafos segundo, tercero y cuarto del artículo 168; pornografía infantil, previsto en los artículos 169 Bis y 169-A; tortura, previsto en el artículo 181; abusos deshonestos previstos en el cuarto párrafo del artículo 213 únicamente en los supuestos de los párrafos segundo y tercero; violación y las figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247, 248 y 251; homicidio previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 y 259, párrafo segundo; auxilios o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264, aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le corresponda (sic) las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en artículo 293; privación ilegal de la libertad, previsto en el artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; secuestro, previsto en los artículos 296, 297, 297 Bis, 297-B, 298, 298-A, 299 y 300; sustracción de menores e incapaces, previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VII, VIII, IX y X, excepto lo previsto en el penúltimo párrafo de este artículo y 308 Bis; abigeato respecto de ganado bovino, en los términos de los artículos 312 y 313 y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza, en los casos del segundo párrafo del artículo 317; fraude, en los casos del segundo párrafo del artículo 320, despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero, en relación con el cuarto; daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329.
+Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 BIS; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuestos previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de personas menores de edad previsto en los párrafos tercero, cuarto y quinto del artículo 168; utilización de imágenes y/o voces de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho para la pornografía previsto en el artículo 169 BIS 1; tortura, previsto en el artículo 181; abusos deshonestos previstos en el cuarto párrafo del artículo 213 únicamente en los supuestos de los párrafos segundo y tercero; violación y las figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247, 248 y 251; homicidio, previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 y 259 párrafo segundo; auxilios o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264; aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le corresponda las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en el artículo 293; privación ilegal de la libertad, previsto en el artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; secuestro, previsto en los artículos 296, 297, 297 BIS, 297-B, 298, 298-A, 299 y 300; trata de personas previsto en el artículo 301-J, sustracción de menores e incapaces, previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VII, VIII, IX y X, excepto lo previsto en el penúltimo párrafo de este artículo, y 308 BIS; abigeato respecto de ganado bovino, en los términos de los artículos 312 y 313 y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza, en los casos del segundo párrafo del artículo 317; fraude, en los casos del segundo párrafo del artículo 320; despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero en relación con el cuarto; daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329.
 
 Los delitos señalados en el párrafo anterior también serán considerados como graves aún en los casos de tentativa.
 
@@ -4188,6 +4204,12 @@ B.O. 6 DE JULIO DE 2006.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 12 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE ABRIL DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
