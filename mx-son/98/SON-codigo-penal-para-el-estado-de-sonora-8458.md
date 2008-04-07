@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2007-07-12"
+last_updated: "2008-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ABRIL DE 2008.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -401,23 +401,25 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito y la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 12 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 Bis, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores e incapaces, violación, violencia intrafamiliar, rapto, abusos deshonestos, pornografía infantil, privación ilegal de la libertad, secuestro, homicidio, calumnia y chantaje.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia intrafamiliar, rapto, abusos deshonestos, privación ilegal de libertad, secuestro, trata de personas, homicidio, calumnias y chantaje.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 30.
 
 Tienen derecho a la reparación de daños y perjuicios, en orden preferente:
 
-I.- La víctima o el ofendido;
+I. La víctima o el ofendido directo, y quienes realicen gastos aplicados directamente a la reparación del daño;
 
-II.- A falta de la víctima o del ofendido, las personas que siendo o no herederas, dependieron económicamente de la víctima o del ofendido;
+II. A falta de la víctima o del ofendido directo, las personas que siendo o no herederas, dependieron económicamente de la víctima o del ofendido directo.
 
-III.- Las personas que sin haber dependido económicamente de la víctima o del ofendido, sean herederas; y
+En caso de controversia del carácter de dependiente económico, se resolverá por la vía incidental ante el mismo Juez que conozca del asunto;
 
-IV.- El Estado o quienes eroguen gastos para auxiliar a la víctima o al ofendido.
+III. Las personas que sin haber dependido económicamente de la víctima o del ofendido, sean herederas; y
+
+IV. El Estado.
 
 ###### ARTICULO 31.
 
@@ -1029,9 +1031,9 @@ El plazo para la prescripción se aumentará en un (sic) mitad más, si el indic
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Tratándose de los delitos de oficio, dicho plazo nunca será menor de tres años ni mayor de quince y en los delitos de querella nunca será menor de dos años ni mayor de diez.
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
-En los delitos de homicidio calificado, secuestro, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, la acción penal prescribirá en un plazo igual al término máximo de la pena privativa de la libertad que corresponda al delito cometido.
+En los delitos de homicidio calificado, secuestro, utilización de imágenes y/o voces de personas menores de edad para la pornografía, trata de personas, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, la acción penal prescribirá en un plazo igual al término máximo de la pena privativa de la libertad que corresponda al delito cometido.
 
 ###### ARTICULO 101.
 
@@ -1321,11 +1323,15 @@ No incurrirá en sanción alguna el que porte una arma prohibida que sea instrum
 
 ### CAPITULO VI. DELINCUENCIA ORGANIZADA
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE ABRIL DE 2008)</small>
+
+ARTICULO 144 BIS.- Comete el delito de delincuencia organizada quien forme parte de un grupo estructurado de tres o más personas que actúan concertada y jerárquicamente, con el propósito de realizar conductas que, por sí o unidas a otras, tengan como fin o resultado, la comisión de alguno de los delitos siguientes: homicidio, secuestro, utilización de imágenes y/o voces de personas menores de edad para la pornografía, trata de personas, abigeato, robo de vehículos de propulsión mecánica y robo a instituciones bancarias.
+
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 144 BIS.- Comete el delito de delincuencia organizada quien forme parte de un grupo estructurado de tres o más personas que actúan concertada y jerárquicamente, con el propósito de realizar conductas que, por sí o unidas a otras, tengan como fin o resultado, la comisión de alguno de los delitos siguientes: homicidio, secuestro, pornografía infantil, abigeato, robo de vehículos de propulsión mecánica y robo a instituciones bancarias.
-
 Al miembro de delincuencia organizada se le sancionará con prisión de cuatro a diez años y de doscientos cincuenta a quince mil días multa, independientemente de la sanción que le corresponda por el delito que cometiere.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 Cuando el miembro de delincuencia organizada realice o tenga asignadas en ésta, funciones de administración, dirección o supervisión, la sanción señalada en el párrafo anterior se aumentará en una mitad más el mínimo y el máximo.
 
@@ -1399,7 +1405,7 @@ Los responsables del delito de delincuencia organizada no gozarán de los benefi
 
 ## TITULO TERCERO. DELITOS CONTRA EL NORMAL FUNCIONAMIENTO DE VIAS DE COMUNICACION, VEHICULOS Y EMBARCACIONES Y VIOLACION DE CORRESPONDENCIA
 
-### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
+### CAPITULO I. EXPOSICION PUBLICA DE PORNOGRAFIA Y EXHIBICIONES OBSCENAS
 
 ###### ARTICULO 145.
 
@@ -1445,11 +1451,9 @@ Se impondrán prisión de dos a diez años y de veinte a trescientos días multa
 
 Si en el vehículo o embarcación que se incendie no se halla persona alguna, la prisión será de seis meses a cinco años y de diez a doscientos días multa.
 
-### CAPITULO II. CORRUPCION DE MENORES E INCAPACES Y
+### CAPITULO II. DE LAS PERSONAS MENORES DE EDAD Y QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-PORNOGRAFIA INFANTIL Y DE INCAPACES
-
-> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 152.
 
@@ -1474,6 +1478,8 @@ La disposición del artículo 152 no comprende la correspondencia que circule po
 ## TITULO CUARTO. DELITOS CONTRA LA AUTORIDAD
 
 ### CAPITULO III. LENOCINIO
+
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 155.
 
@@ -1533,7 +1539,11 @@ Las penas referidas en el párrafo anterior se duplicarán cuando al hacer viole
 
 Los ultrajes hechos a la legislatura, a un tribunal, a un cuerpo colegiado de la administración de justicia o a cualquier institución pública, se sancionarán con prisión de uno a seis meses o de cuarenta a doscientos días multa.
 
-## TITULO QUINTO. DELITOS CONTRA LA MORAL PUBLICA Y LAS BUENAS COSTUMBRES
+> <small>(REFORMADA SU DENOMINACION, B.O. 7 DE ABRIL DE 2008)</small>
+
+## TITULO QUINTO. DELITOS CONTRA EL DESARROLLO Y DIGNIDAD DE LAS PERSONAS
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 7 DE ABRIL DE 2008)</small>
 
 ### CAPITULO II. ABUSO DE AUTORIDAD, INCUMPLIMIENTO DE DEBER LEGAL Y TORTURA
 
@@ -1541,73 +1551,107 @@ Los ultrajes hechos a la legislatura, a un tribunal, a un cuerpo colegiado de la
 
 Se aplicarán de tres días a un año de prisión y de diez a cien días multa, al que, con la finalidad de exponer públicamente libros, escritos, imágenes u otros objetos obscenos, los fabrique, reproduzca, publique, distribuya o haga circular. En caso de reincidencia, además de las sanciones anteriores, se ordenará, a juicio del juzgador, la disolución de la sociedad o empresa.
 
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 167.
 
-Al que públicamente ejecute o haga ejecutar por otro, exhibiciones obscenas, así como al que de modo escandaloso invite a otro al comercio o al ayuntamiento carnal, se le aplicarán prisión de tres meses a tres años y de diez a ciento cincuenta días multa.
+Al que públicamente ejecute o haga ejecutar, sin fines de explotación, exhibiciones obscenas se le aplicarán prisión de tres meses a tres años y de diez a ciento cincuenta días multa.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+Tratándose de víctimas menores de edad se aplicará lo establecido en el artículo 169 BIS, párrafo cuarto, del presente ordenamiento.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 7 DE ABRIL DE 2008)</small>
 
 ### CAPITULO III. COALICION
 
 ###### ARTICULO 168.
 
-Se aplicará de cuatro a diez años de prisión y de veinte a doscientos días multa al que obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de un menor de dieciocho años de edad, o de quien no tuviere capacidad para comprender el significado del hecho, mediante acciones u omisiones tendientes o que concluyan en la realización de actos sexuales, conductas depravadas, prácticas de prostitución, mendicidad, consumo irracional y reiterado de bebidas embriagantes o la generación o práctica de algún otro vicio; o que induzcan al pasivo a formar parte de grupos de delincuencia organizada, involucrarse en una asociación delictuosa o pandilla, o a cometer cualquier delito.
+Comete el delito de corrupción el que procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de un menor de dieciocho años de edad, o de quien no tuviere capacidad para comprender el significado del hecho, mediante acciones u omisiones tendientes o que concluyan en la realización de actos sexuales o conductas depravadas. A quien cometa este delito se le aplicará de cuatro a diez años de prisión y de veinte a doscientos días multa
+
+La misma pena se impondrá a quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo de bebidas embriagantes o la generación o práctica de algún otro vicio; o que induzca a persona menor de dieciocho años de edad a formar parte de grupos de delincuencia organizada, involucrarse en una asociación delictuosa o pandilla, o a cometer cualquier delito.
 
 A quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo de narcóticos o de sustancias tóxicas por parte de un menor de edad o de quien no tuviere la capacidad de comprender el significado del hecho, se le aplicará la pena de cinco a doce años de prisión y de cuarenta a trescientos días multa.
 
 A quien obligue, utilice, procure, propicie, facilite, induzca, fomente, promueva o favorezca la intervención de un menor de 18 años de edad, o de quien no tuviere capacidad para comprender el significado del hecho, para intentar o llevar a cabo el tráfico de personas que intenten ilegalmente cruzar la frontera internacional del País por el Estado, se le aplicará de seis a doce años de prisión y de cien a quinientos días de multa.
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o la misma persona que no tuviere capacidad para comprender el significado del hecho y, debido a ello, éstos adquieran los hábitos del alcoholismo, de adicción a narcóticos, de sustancias tóxicas u otras que produzcan efectos similares, se dediquen a la prostitución o a formar parte de delincuencia organizada, asociación delictuosa o pandilla, la sanción señalada en los párrafos anteriores se aumentará en un tercio de la misma.
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o la misma persona que no tuviere capacidad para comprender el significado del hecho y, debido a ello, éstos adquieren los hábitos del alcoholismo, de adicción a narcóticos, de sustancias tóxicas u otras que produzcan efectos similares, o a formar parte de delincuencia organizada, asociación delictuosa o pandilla, la sanción señalada en los párrafos anteriores se aumentará en un tercio de la misma.
 
-Todo sujeto pasivo de este delito quedará sujeto a los tratamientos médicos y psicológicos adecuados para su recuperación, de acuerdo con las medidas que al efecto sean establecidas por el Ministerio Público en cualquier momento de la averiguación previa y que, en su caso, deberán (sic) ratificadas o modificadas por el juez que conozca de la consignación correspondiente. En ambos casos, si se hace necesario, dichas medidas se harán cumplir coercitivamente.
+Todo sujeto pasivo de este delito quedará sujeto a los tratamientos médicos y psicológicos adecuados para su recuperación, de acuerdo con las medidas que al efecto sean establecidas por el Ministerio Público en cualquier momento de la averiguación previa y que, en su caso, deberán ratificadas (sic) o modificadas por el juez que conozca de la consignación correspondiente. En ambos casos, si se hace necesario, dichas medidas se harán cumplir coercitivamente.
 
-En los términos del artículo 118 del Código de Procedimientos Penales, las autoridades educativas y de seguridad pública del Estado y de los municipios pondrán especial cuidado en formular la denuncia que corresponda a la comisión de los delitos tipificados, por este artículo con los mejores elementos de convicción que tengan a su alcance y, en su caso, procederán a la aprehensión de la persona que se sorprenda realizando alguna o algunas de las conductas delictivas señaladas en los párrafos anteriores, poniéndola de inmediato a disposición del Ministerio Público.
+En los términos del artículo 118 del Código de Procedimientos Penales, las autoridades educativas y de seguridad pública del Estado y de los municipios pondrán especial cuidado en formular la denuncia que corresponda a la comisión de los delitos tipificados por este artículo, con los mejores elementos de convicción que tengan a su alcance y, en su caso, procederán a la aprehensión de la persona que se sorprenda realizando alguna o algunas de las conductas señaladas en los párrafos anteriores, poniéndola de inmediato a disposición del Ministerio Público.
+
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 169.
 
-Al que emplee menores de dieciséis años en cantinas, tabernas y centros de vicio, se le sancionará con prisión de tres meses a dos años, de diez a cien días multa y cierre definitivo del establecimiento. La misma pena se aplicará a los padres o tutores que coloquen o permitan que sus hijos o pupilos, presten sus servicios en dichos establecimientos.
+Al que emplee personas menores de dieciocho años en cantinas, tabernas y centros de vicio, se le sancionará con prisión de tres meses a dos años, de diez a cien días multa y cierre definitivo del establecimiento. La misma pena se aplicará a los padres o tutores que coloquen o permitan que sus hijos o pupilos, presten sus servicios en dichos establecimientos.
 
-Para los efectos de este precepto se considerará como empleado en la cantina, taberna o centro de vicio, al menor de dieciséis años que, por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
+Para los efectos de este precepto se considerará como empleado en la cantina, taberna o centro de vicio, al menor de dieciocho años que, por un salario, por la sola comida, por comisión de cualquier Índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+Las anteriores sanciones se impondrán sin perjuicio de las penas que pudieran corresponder por la comisión de los delitos contemplados en el Capítulo IV del Título Decimonoveno del Libro Segundo de este Código.
 
-ARTICULO 169 BIS.- Comete el delito de pornografía infantil el que:
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
-I.- Procure, facilite, induzca, propicie u obligue, por cualquier medio, a uno o más menores de dieciocho años o personas que no tuvieren la capacidad de comprender el significado del hecho a realizar actos de exhibicionismo corporal, lascivos o pornográficos, con el objeto de videograbarlos, fotografiarlos o exhibirlos, por cualquier medio, con o sin el fin de obtener un lucro y se le impondrá de cinco a doce años de prisión y de mil a dos mil días de multa, así como el decomiso de los objetos, instrumentos y productos del delito.
+ARTICULO 169 BIS.- A quien permita directa o indirectamente el acceso de una persona menor de edad a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de uno a tres años y de veinte a doscientos días multa.
 
-II.- Reproduzca, venda, arriende, exponga, publicite, porte, posea, ofrezca, transmita, fije, grabe, imprima o distribuya anuncios, impresos, videos, películas o fotografías, por cualquier medio, con o sin ánimo de lucro y en cuyo contenido aparezcan menores de dieciocho años o personas que no tuvieren la capacidad de comprender el significado del hecho, realizando actos de exhibicionismo corporal con fines lascivos o pornográficos, se le impondrá la misma pena de la fracción anterior.
+Las mismas penas se impondrán al que ejecutare o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de edad o que no tengan la capacidad para comprender el significado del hecho.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+El que, por cualquier medio directo, vendiere, difundiere o exhibiere material pornográfico entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho, será castigado con la pena de prisión de seis meses a un año y de diez a doscientos días multa.
+
+Se impondrá pena de cuatro a ocho años de prisión y de veinte a doscientos días multa a quien induzca, facilite, procure, propicie u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, por cualquier medio y sin fines comerciales, actos o exhibiciones eróticas o sexuales, públicas o privadas que puedan afectar el libre desarrollo de su personalidad.
+
+No se actualizarán estos delitos tratándose de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+
+> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
+
+ARTICULO 169 BIS 1.- Comete el delito de utilización de imágenes y/o voces de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho para la pornografía:
+
+I. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades de exhibicionismo corporal, sexuales o eróticas, explícitas o no, reales o simuladas.
+
+II. Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades de exhibicionismo corporal, sexuales o eróticas, explícitas o no, reales o simuladas.
+
+III. Quien posea intencionalmente para cualquier fin, imágenes, sonidos o la voz de personas menores de edad o de personas que no tengan la capacidad de comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades de exhibicionismo corporal, sexuales o eróticas, explícitas o no, reales o simuladas.
+
+IV. Quien financie, dirija, administre o supervise cualquiera de las actividades anteriores con la finalidad de que se realicen las conductas previstas en las fracciones anteriores.
+
+Al autor de los delitos previstos en las fracciones I y II se le impondrá la pena de cuatro a siete años de prisión y de mil a dos mil días multa. Al autor de los delitos previstos en la fracción III se le impondrá la pena de dos a cinco años de prisión y de quinientos a mil días multa. A quien cometa el delito previsto en la fracción IV, se le impondrá pena de prisión de cuatro a nueve años y multa de mil quinientos a dos mil días multa.
+
+Las anteriores sanciones se impondrán sin perjuicio de las penas que correspondan por la comisión de los delitos contemplados en el Capítulo IV del Título Decimonoveno del Libro Segundo de este Código.
+
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 169-A.
 
-Si el delito de pornografía infantil y de incapaces se comete con un menor de doce años de edad, las penas aumentarán hasta una mitad más de las sanciones previstas en el artículo 169 BIS de este Código.
+Comete el delito de relaciones sexuales remuneradas con personas menores de edad quien pague o prometa pagar con dinero o en especie a una persona menor de dieciocho años para obtener cópula o sostener actos eróticos sexuales con ella. A quien cometa este delito se le impondrá una pena de dos a ocho años de prisión y de cien a quinientos días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+Esta conducta se actualizará incluso cuando el pago o promesa de pago con dinero o en especie sea para una tercera persona.
+
+Al que sin ánimo de explotación concerte, encubra o permita la explotación sexual de una persona menor de dieciocho años a través de la pornografía, las exhibiciones corporales públicas o privadas y las relaciones sexuales remuneradas, se le aplicará prisión de cuatro a ocho años y de diez a doscientos días multa.
+
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 170.
 
-Las sanciones que señalan los tres artículos anteriores se duplicarán cuando el delincuente tenga parentesco por consanguinidad, por afinidad o civil o cohabite en el mismo domicilio con la víctima, aunque no existiere parentesco alguno, así como por el tutor o curador; privando al reo de todo derecho a los bienes de la víctima y de la patria potestad sobre todos sus descendientes.
+Las penas que resulten aplicables por los delitos previstos en este capítulo se aumentarán hasta una tercera parte de acuerdo con lo siguiente:
 
-La pérdida de la patria potestad por parte del reo no implica la falta de cumplimiento de sus obligaciones a favor de la víctima y demás descendientes.
+I.- Si el sujeto activo se valiese de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
+
+II.- Si el sujeto activo del delito tiene parentesco por consaguinidad (sic), afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación análoga al parentesco con el sujeto pasivo.
+
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 171.
 
-Los delincuentes de que trata este Capítulo, quedarán inhabilitados para ser tutores y curadores, hasta por cinco años.
+Los sujetos activos de los delitos a que se refiere este capítulo quedarán inhabilitados para ser tutores o curadores hasta por cinco años.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADO], B.O. 7 DE ABRIL DE 2008)</small>
 
 ### CAPITULO IV. EJERCICIO INDEBIDO O ABANDONO DEL SERVICIO PUBLICO
 
 ###### ARTICULO 172.
 
-Se sancionará con prisión de seis meses a seis años y de diez a doscientos días multa:
+Al que obtenga habitual o reiteradamente un beneficio económico por los servicios sexuales de una persona mayor de edad, sin que estos constituyan trata de personas, se le sancionará con una pena de dos a seis años y de quinientos a setecientos días multa.
 
-I.- A quien explote el cuerpo de otra persona por medio del comercio carnal; y
-
-II.- Al propietario o administrador de prostíbulos, casas de cita, centros nocturnos u hoteles, que obtengan un beneficio directo con la prostitución.
-
-Si el responsable fuese ascendiente, padrastro, madrastra, adoptante, hermano, hermana, concubinario, concubina o cónyuge del ofendido, la pena será de uno a ocho años de prisión, de veinte a doscientos cincuenta días multa, privándosele de todo derecho sobre los bienes de éste, además de inhabilitarle hasta por diez años para ser tutor o curador o hacerle perder la patria potestad sobre sus descendientes, en su caso.
-
-Cuando la comisión del delito recaiga en menores de dieciocho años o incapaces mentales, la sanción privativa de libertad correspondiente se aumentará en una cuarta parte más de su duración.
+Se sancionará con prisión de seis meses a seis años y de diez a doscientos días multa al propietario o administrador de prostíbulos, casas de cita, centros nocturnos u hoteles, que obtengan un beneficio directo de los servicios sexuales de otra.
 
 ###### ARTICULO 173.
 
@@ -1615,7 +1659,7 @@ Al que dé en arrendamiento una finca, teniendo conocimiento de que será destin
 
 ###### ARTICULO 174.
 
-Al que sin ánimo de lucro concerté, encubra o permita el comercio carnal de menores de dieciocho años, se le aplicarán prisión de seis meses a cinco años y de diez a doscientos días multa.
+(DEROGADO, B.O. 7 DE ABRIL DE 2008)
 
 ### CAPITULO V. COHECHO
 
@@ -2641,9 +2685,11 @@ No se considerará calificado el homicidio cometido por la madre que prive de la
 
 Al responsable de cualquier otro homicidio calificado se impondrá de veinte a cincuenta años de prisión.
 
-### CAPITULO I. ROBO
+### CAPITULO IV. TRATA DE PERSONAS
 
-### CAPITULO II. ABIGEATO
+> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
+
+### CAPITULO I. ROBO
 
 ###### ARTICULO 259.
 
@@ -2673,11 +2719,11 @@ I.- Declarar a los reos sujetos a la vigilancia del órgano que designe el Ejecu
 
 II.- Prohibirles ir a determinado lugar, o residir en él.
 
+### CAPITULO II. ABIGEATO
+
 ### CAPITULO III. ABUSO DE CONFIANZA
 
 ### CAPITULO IV. FRAUDE
-
-### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
 
 ###### ARTICULO 264.
 
@@ -2685,7 +2731,7 @@ El que prestare auxilio o indujere a otro para que se suicide, será sancionado 
 
 Si la persona a quien se auxilie o induzca al suicidio fuere menor de edad o no tuviere capacidad para comprender el significado del hecho, se sancionará al auxiliador o instigador con prisión de uno a quince años; si el suicidio se consumare, la sanción será de ocho a veinte años de prisión.
 
-### CAPITULO VI. DESPOJO
+### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
 
 ###### ARTICULO 265.
 
@@ -2713,7 +2759,7 @@ No es punible el aborto causado por culpa de la mujer embarazada, o cuando el em
 
 No se aplicará sanción alguna cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO VII. DAÑOS
+### CAPITULO VI. DESPOJO
 
 ###### ARTICULO 271.
 
@@ -2747,7 +2793,7 @@ Además de las sanciones señaladas, se decretará el decomiso en beneficio del 
 
 Si las conductas a que se refieren las fracciones anteriores se llevan a cabo en más de una ocasión, la sanción será de dos a nueve años y de cincuenta a mil días multa.
 
-### CAPITULO UNICO. ENCUBRIMIENTO
+### CAPITULO VII. DAÑOS
 
 ###### ARTICULO 272.
 
@@ -2773,9 +2819,9 @@ TITULO DECIMOSEPTIMO
 
 DELITOS CONTRA EL HONOR
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPITULO UNICO. ENCUBRIMIENTO
 
-### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
+### CAPITULO UNICO. DELITOS ELECTORALES
 
 ###### ARTICULO 276.
 
@@ -2808,6 +2854,8 @@ DELITOS CONTRA EL HONOR
 ###### ARTICULO 283.
 
 (DEROGADO, B.O. 12 DE JULIO DE 2007)
+
+### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
 
 ###### ARTICULO 284.
 
@@ -2877,9 +2925,11 @@ Comete el delito de extorsión y se le aplicarán de tres a diez años de prisi�
 
 Las penas se aumentarán en una mitad más, si el constreñimiento se realiza por un miembro de una asociación delictuosa o por persona que sea o haya sido servidor público de alguna corporación policial, o por persona que, sin estar autorizada para ello, ejerza o haya ejercido funciones de éstas, imponiéndose, además, destitución e inhabilitación, en su caso, de dos a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 7 DE ABRIL DE 2008)</small>
+
 TITULO DECIMONOVENO
 
-PRIVACION ILEGAL DE LIBERTAD, VIOLACION DE OTROS DERECHOS Y SECUESTRO
+PRIVACION ILEGAL DE LA LIBERTAD, VIOLACION DE OTROS DERECHOS, SECUESTRO Y TRATA DE PERSONAS
 
 ## TITULO VIGESIMO. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
 
@@ -2887,9 +2937,9 @@ PRIVACION ILEGAL DE LIBERTAD, VIOLACION DE OTROS DERECHOS Y SECUESTRO
 
 Comete el delito de privación ilegal de libertad y será sancionado con prisión de tres a nueve años y de veinte a doscientos días multa, el particular que ilícitamente sustraiga, detenga o retenga a otro.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
-ARTICULO 294 BIS.- Se considera que comete el delito de privación ilegal de libertad, para los efectos de la sanción, quien por medio de engaño, violencia, aprovechamiento de la ignorancia o la necesidad, imponga a otro un contrato que lo prive de la libertad o que lo obligue a prestar sus servicios.
+ARTICULO 294 BIS.- Se considera que comete el delito de privación ilegal de libertad, para los efectos de la sanción, quien por medio de engaño, violencia, aprovechamiento de la ignorancia o la necesidad, imponga a otro un contrato que lo prive de la libertad.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -3106,6 +3156,38 @@ Si el agente devuelve al menor o incapaz espontáneamente, dentro de los tres d�
 ###### ARTICULO 301-I.
 
 A excepción del previsto por el artículo 301-E, el resto de los delitos previstos por este Capítulo sólo se perseguirán por querella del ofendido o del legítimo representante.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 301-J.
+
+Comete el delito de trata de personas quien para sí o para un tercero induzca, procure, promueva, capte, reclute, facilite, traslade, consiga, solicite, ofrezca, mantenga, entregue o reciba a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder, al aprovechamiento de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a explotación o para extraer sus órganos, tejidos o sus componentes
+
+Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para si o para otra persona, mediante la prostitución ajena u otras formas de aprovechamiento sexual, los trabajos o servicios forzados, la esclavitud o la mendicidad ajena.
+
+Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
+
+El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
+
+> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 301-K.
+
+A quien cometa el delito de trata de personas se le aplicará:
+
+I.- De seis a doce años de prisión y de cien a quinientos días multa;
+
+II.- De nueve a dieciocho años de prisión y de doscientos a quinientos días multa, si se emplease violencia física o moral, o el agente se valiese de la función pública que tuviere o hubiese ostentado sin tener. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por veinticinco años;
+
+III.- Las penas de prisión que resulten de las fracciones I y II de este artículo se incrementarán hasta una mitad:
+
+a) Si el delito es cometido en contra de una persona menor de dieciocho años de edad;
+
+b) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
+
+c) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho; o
+
+d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad, afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo.
 
 ## TITULO VIGESIMO PRIMERO. ENCUBRIMIENTO
 
@@ -3624,3 +3706,19 @@ B.O. 12 DE JULIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE ABRIL DE 2008.
+
+DECRETO NUMERO 112, POR EL QUE SE REFORMA EL ARTICULO 30 DEL CODIGO PENAL DEL ESTADO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE ABRIL DE 2008.
+
+DECRETO NUMERO 113, POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DEL CODIGO PENAL DEL ESTADO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
