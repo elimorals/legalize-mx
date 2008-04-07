@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-47316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-28"
-last_updated: "2007-11-07"
+last_updated: "2008-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47316&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2005-12-20"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 7 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 28 de diciembre de 2005.
 
@@ -270,9 +272,9 @@ De sus atribuciones
 
 Son atribuciones del Presidente del Tribunal, además de las previstas por el artículo 229, párrafo tercero del Código, las demás que emanen del propio Código, de este Reglamento y de los Acuerdos que dicte el Pleno.
 
-SECCIÓN 3ª
+SECCIÓN 2ª
 
-De su elección o reelección
+De las ausencias
 
 ###### Artículo 15.
 
@@ -281,6 +283,10 @@ Las ausencias temporales del Presidente del Tribunal serán cubiertas, en forma 
 ###### Artículo 16.
 
 En caso de ausencia definitiva del Presidente del Tribunal, el Magistrado Numerario que corresponda de acuerdo con la regla prevista por el artículo anterior, asumirá provisionalmente las funciones de aquél y convocará de inmediato a los Magistrados que integran el Pleno, a fin de que concurran a la sesión pública de designación del nuevo Presidente, en la forma y términos previstos por el artículo 17 de este Reglamento, quien concluirá el periodo correspondiente.
+
+SECCIÓN 3ª
+
+De su elección o reelección
 
 ###### Artículo 17.
 
@@ -305,10 +311,6 @@ VI. Hecha la certificación respectiva, se procederá a tomar la protesta al Pre
 "Protesto desempeñar leal y patrióticamente el cargo de Presidente del Tribunal Electoral del Distrito Federal que me ha sido conferido, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, el Código Electoral del Distrito Federal y la Ley de Participación Ciudadana del Distrito Federal, así como las disposiciones que de ellos emanen, mirando en todo por el bien y la prosperidad del Distrito Federal, y si no lo hiciere así que el pueblo de esta entidad federativa me lo demande".
 
 VII. Rendida la protesta, el Presidente electo o reelecto asumirá sus funciones y continuará la sesión pública hasta su conclusión.
-
-SECCIÓN 2ª
-
-De las ausencias
 
 ### CAPÍTULO III. De los Magistrados
 
@@ -2765,3 +2767,13 @@ PRIMERO. Las modificaciones al Reglamento Interior del Tribunal Electoral del Di
 SEGUNDO. Se derogan todas aquellas disposiciones que se oponga al presente dictamen.
 
 TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet del Tribunal.
+
+G.O. 7 DE ABRIL DE 2008.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta.
+
+SEGUNDO. Se abroga el Reglamento Interior del Tribunal Electoral del Distrito Federal publicado el veintiocho de diciembre de dos mil cinco en la Gaceta y reformado según publicaciones en ese mismo órgano de difusión de diecinueve de enero, dieciocho de mayo, diecisiete de julio y siete de noviembre de dos mil siete.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Publíquese en la Gaceta, así como en los Estrados y en el sitio de Internet del Tribunal.
