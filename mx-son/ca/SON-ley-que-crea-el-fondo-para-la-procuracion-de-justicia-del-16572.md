@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-fondo-para-la-procuracion-de-justicia-del-16572
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-02"
-last_updated: "2003-05-26"
+last_updated: "2008-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL FONDO PARA LA PROCURACION DE JUSTICIA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ABRIL DE 2008.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado, el jueves 2 de diciembre de 1999.
 
@@ -43,9 +43,11 @@ QUE CREA EL FONDO PARA LA PROCURACION DE JUSTICIA DEL ESTADO DE SONORA
 
 ### CAPÍTULO ÚNICO. DE LA CREACIÓN DEL CONSEJO TÉCNICO DEL FONDO PARA PROCURACIÓN DE JUSTICIA DEL ESTADO DE SONORA Y DE SU OBJETO
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
-Se crea el Fondo para la Procuración de Justicia del Estado de Sonora, con el fin de apoyar a la Procuraduría General de Justicia del Estado con recursos económicos adicionales orientados a coadyuvar a la modernización y mejoramiento de sus funciones institucionales.
+###### ARTICULO 1°.
+
+Se crea el Fondo para la Procuración de Justicia del Estado de Sonora, con el fin de apoyar a la Procuraduría General de Justicia del Estado con recursos económicos adicionales orientados a coadyuvar a la modernización y mejoramiento de sus funciones institucionales, así como para otorgar apoyos económicos a las víctimas de delitos, en los términos de la ley de la materia.
 
 ###### ARTICULO 2º.
 
@@ -81,7 +83,9 @@ VI.- Aceptar las donaciones o aportaciones que se otorguen a favor del Fondo;
 
 VII.- Vigilar que las Agencias del Ministerio Público del Fuero Común en el Estado cumplan las disposiciones de esta Ley y su Reglamento, pudiendo ordenar que éstas sean visitadas y revisadas conforme lo estime necesario;
 
-VIII.- Dictar los acuerdos que estime convenientes para la correcta administración y destino de los recursos del Fondo;
+> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
+
+VIII.- Dictar los acuerdos que estime convenientes para la correcta administración y destino de los recursos del Fondo, así como los lineamientos conforme a los cuales deberán otorgarse apoyos económicos a las víctimas de delito que cumplan los requisitos establecidos en la ley de la materia;
 
 IX.- Resolver, en única instancia, las cuestiones que surjan con motivo de la aplicación e interpretación de la presente Ley y su Reglamento, así como de los acuerdos y demás resoluciones emitidas por el Consejo Técnico del Fondo;
 
@@ -99,7 +103,9 @@ I.- Un Presidente: que será el Procurador General de Justicia del Estado;
 
 II.- Un Secretario: que será el Titular de la Dirección General de Programación, Organización y Presupuesto de la Procuraduría General de Justicia del Estado;
 
-III.- Un Tesorero: que será el representante de la Secretaría de Finanzas del Gobierno del Estado designado por su titular;
+> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
+
+III.- Un Tesorero: que será el representante de la Secretaría de Hacienda designado por su titular;
 
 IV.- Un Vocal: que será el Subprocurador General de Control de Procesos de la Procuraduría General de Justicia del Estado; y,
 
@@ -120,6 +126,10 @@ III.- Convocar y presidir las reuniones ordinarias y extraordinarias del Consejo
 IV.- Dictar las medidas y órdenes necesarias para un correcta y eficaz administración del Fondo, conforme a los acuerdos y resoluciones emitidas por el Consejo;
 
 V.- Coordinar, organizar y vigilar el correcto y eficaz funcionamiento del Fondo y del Consejo Técnico;
+
+> <small>(ADICIONADA, B.O. 7 DE ABRIL DE 2008)</small>
+
+V Bis.- Autorizar el otorgamiento de apoyos económicos a las víctimas de delito que lo soliciten, conforme los lineamientos aprobados por el Consejo Técnico, siempre que aquéllas reúnan los requisitos previstos por la ley de la materia, y la disponibilidad presupuestaria lo permita;
 
 VI.- Rendir al Consejo Técnico el informe anual de ingresos y egreso del Fondo;
 
@@ -153,7 +163,9 @@ Para la validez de las actas oficiales de sesiones del Consejo, éstas deberán 
 
 El Tesorero del Consejo Técnico, deberá:
 
-I.- Recibir y registrar los ingresos del Fondo;
+> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
+
+I.- Recibir y registrar los ingresos del Fondo, debiendo llevar en forma separada el registro de los recursos que se capten para destinarlos al otorgamiento de apoyos económicos a víctimas de delito;
 
 II.- Resguardar las cantidades en efectivo y demás valores otorgados a favor del Fondo;
 
@@ -169,11 +181,15 @@ VII.- Hacer entrega oportuna de los recursos solicitados por el Consejo Técnico
 
 VIII.- Vigilar que exista liquidez suficiente para la devolución de los depósitos y demás cauciones puestas a disposición de la autoridad judicial;
 
-IX.- Presentar a la Secretaría de Finanzas del Gobierno del Estado la cuenta justificada del mes anterior correspondiente a los ingresos, inversiones y erogaciones efectuadas por el Fondo, en los términos previstos por el artículo 18, fracción III de la presente Ley;
+> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
+
+IX.- Presentar a la Secretaría de Hacienda la cuenta justificada del mes anterior correspondiente a los ingresos, inversiones y erogaciones efectuadas por el Fondo, en los términos previstos por el artículo 18, fracción III de la presente Ley;
 
 X.- Cumplir oportunamente los acuerdos y demás determinaciones emitidos por el Consejo Técnico del Fondo y por su Presidente; y,
 
-XI.- Aquellos acuerdos o determinaciones emitidas por el Consejo Técnico del Fondo y por la Secretaría de Finanzas del Gobierno del Estado.
+> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
+
+XI.- Aquellos acuerdos o determinaciones emitidas por el Consejo Técnico del Fondo y por la Secretaría de Hacienda del Gobierno del Estado.
 
 ###### ARTICULO 11.
 
@@ -215,9 +231,17 @@ c) El producto de la venta de los bienes y valores a que se refiere el artículo
 
 d) El producto de la venta de los bienes ignorados que no sean reclamados, conforme lo dispuesto por el artículo 43 del Código Penal del Estado de Sonora;
 
-e) Los intereses que generen los depósitos del fondo; y,
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
-f) Las donaciones y aportaciones, públicas o privadas, que se otorguen a favor del Fondo.
+e).- Los intereses que generen los depósitos del Fondo;
+
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
+
+f).- El importe que ingrese al Fondo derivado del pago de la reparación del daño correspondientes a los gastos erogados por las instituciones públicas estatales de salud por los servicios prestados a las víctimas de delito y a los apoyos económicos otorgados a éstas, en los términos de la ley de la materia; y
+
+> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
+
+g).- Las de naciones y aportaciones, públicas o privadas, que se otorguen a favor del Fondo, incluyendo las que solo tengan como objeto el apoyo a las víctimas de delitos.
 
 II.- Fondos ajenos:
 
@@ -239,7 +263,9 @@ I.- Los recursos que integren el Fondo se podrán intervenir, previo acuerdo del
 
 II.- El ejercicio de egresos del Fondo se sujetará al presupuesto que en el mes de noviembre de cada año anterior apruebe el Consejo Técnico del Fondo, y que empezará a correr el día primero de enero del año siguiente;
 
-III.- El tesorero del Consejo deberá presentar a la Secretaría de Finanzas del Gobierno del Estado, dentro de los primeros cinco días hábiles de cada mes, la cuenta justificada del mes anterior de los ingresos, inversiones y erogaciones efectuados por el Fondo; y,
+> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
+
+III.- El tesorero del Consejo deberá presentar a la Secretaría de Hacienda, dentro de los primeros cinco días hábiles de cada mes, la cuenta justificada del mes anterior de los ingresos, inversiones y erogaciones efectuados por el Fondo; y
 
 IV.- Los recursos económicos del Fondo serán supervisados o auditados en los términos y condiciones establecidas (sic) por el Consejo.
 
@@ -269,9 +295,17 @@ En la administración de los recursos del Fondo, los Agentes del Ministerio Púb
 
 I.- Cuando se impongan sanciones económicas como medidas de apremio;
 
-II.- Cuando se otorgue y revoque la libertad bajo caución al indiciado, y que por esa resolución no se haga efectiva la caución correspondiente; y
+> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
 
-III.- Cuando se decrete el aseguramiento de bienes que sean considerados instrumento, objeto o producto de delito, o para garantizar la reparación de daños y perjuicios.
+II.- Cuando se otorgue y revoque la libertad bajo caución al indiciado, y que por esa resolución no se haga efectiva la caución correspondiente;
+
+> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
+
+III.- Cuando se decrete el aseguramiento de bienes que sean considerados instrumento, objeto o producto de delito, o para garantizar la reparación de daños y perjuicios; y
+
+> <small>(ADICIONADA, B.O. 7 DE ABRIL DE 2008)</small>
+
+IV.- Cuando se condene o se haga efectiva la reparación del daño derivado de los gastos erogados por las instituciones públicas estatales de salud por los servicios prestados a las víctimas de delito o del otorgamiento de apoyos económicos a éstas.
 
 ###### ARTICULO 25.
 
@@ -306,6 +340,10 @@ III.- La adquisición, mejoramiento y ampliación de instalaciones;
 IV.- Satisfacer los requerimientos materiales que el Consejo Técnico estime necesarios para el funcionamiento administrativo; y,
 
 V.- Sufragar los gastos que originen la administración del Fondo.
+
+> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
+
+Los recursos a que se refieren el inciso f) y la última parte del inciso g), de la fracción I del artículo 16 de esta Ley, se destinarán exclusivamente al otorgamiento de apoyos económicos a las víctimas de delito, en los términos de la Ley de Atención y Protección a Víctimas de Delito y las disposiciones de esta Ley.
 
 ###### ARTICULO 30.
 
@@ -366,3 +404,9 @@ POR TANTO.- mando se publique en el Boletín Oficial del Estado y se le de el de
 B.O. 26 DE MAYO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 7 DE ABRIL DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
