@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2002-05-24"
+last_updated: "2008-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2008.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -169,9 +169,11 @@ El Pleno del Congreso se erigirá en colegio electoral según los casos y proced
 
 Durante los recesos del año legislativo funcionará una Comisión Permanente compuesta de un presidente, dos secretarios y un vocal, los que serán electos por el Pleno mediante cédula y a mayoría de votos, de acuerdo con lo previsto en la Ley.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 18.
 
-La Comisión Permanente funcionará en los periodos siguientes: del dieciséis de mayo al treinta y uno de julio y del dieciséis de diciembre al trece de enero del año que corresponda.
+La Comisión Permanente funcionará en los periodos siguientes: del dieciséis de junio al treinta y uno de julio y del dieciséis de diciembre al trece de enero del año que corresponda.
 
 ###### Artículo 19.
 
@@ -1401,9 +1403,15 @@ Las actas en las que se asienten los asuntos tratados por el Pleno, en sesiones 
 
 Para la debida conservación, archivo e historia del proceso legislativo estatal, la Secretaría Parlamentaria, conservará el ``Diario de los Debates''.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 178.
 
-El Diario de los Debates contendrá la fecha y lugar en que se verifiquen las sesiones, el sumario, nombre de quien presida, acta circunstanciada de las sesiones y transcripciones de la grabación estenográfica de las discusiones, en el orden en que se desarrollen e inserción de los documentos a los que se les dé lectura; pero en ningún caso, se publicarán las discusiones, ni los documentos que se relacionen en las sesiones privadas que se verifiquen.
+El Congreso contará con una publicación oficial denominada "Diario de los Debates del Honorable Congreso del Estado de Tlaxcala", la que deberá contener: La sesión, el sumario, nombre de quien la preside, copia fiel del acta de la sesión del Pleno anterior, versión de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura y de aquellos documentos en que se dispense su lectura.
+
+No se publicarán las discusiones y documentos relacionados con las sesiones privadas.
+
+El Congreso, a través de la Secretaría Parlamentaria, garantizará que los diputados tengan acceso a las versiones estenográficas y a la información que se genere en las sesiones del Pleno, a través de sistemas de cómputo, mecanismos e instrumentos expeditos, ágiles, eficientes y económicos. Asimismo, garantizará que la población en general tenga acceso a la información contenida en el Diario de los Debates.
 
 ### Capítulo X. De la Gaceta Parlamentaria
 
@@ -1503,14 +1511,16 @@ Por tanto mando se imprima, publique y se le dé el debido cumplimiento.
 
 Dado en el Palacio del poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl a los veinte días del mes de mayo del año dos mil dos.
 
-EL GOBERNADOR DEL ESTADO
+EL GOBERNADOR DEL ESTADO ALFONSO ABRAHAM SÁNCHEZ ANAYA Rúbrica.
 
-ALFONSO ABRAHAM SÁNCHEZ ANAYA
-
-Rúbrica.
-
-EL SECRETARIO DE GOBIERNO
-
-GELACIO MONTIEL FUENTES
+EL SECRETARIO DE GOBIERNO GELACIO MONTIEL FUENTES
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE ABRIL DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
