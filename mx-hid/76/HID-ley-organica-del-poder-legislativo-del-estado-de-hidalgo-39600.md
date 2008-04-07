@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-39600"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-05-10"
-last_updated: "2005-04-18"
+last_updated: "2008-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -1039,11 +1039,17 @@ Las Sesiones del Congreso del Estado, podrán ser Públicas o Secretas. Serán S
 
 A las Sesiones Secretas, podrán asistir, además de los Diputados, los Servidores Públicos del Congreso del Estado, que sean estrictamente necesarios, quienes están obligados a guardar la más absoluta reserva de Ley, sobre los asuntos tratados en ellas.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 114.
 
-Durante el Primer Período Ordinario de Sesiones, el Congreso se ocupará prioritariamente de examinar, calificar y en su caso, aprobar, las Cuentas Públicas del Estado y de los Municipios, correspondientes al año inmediato anterior.
+Durante el Primer Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos.
 
-En el segundo y para que rijan el año siguiente, se ocupará prioritariamente de examinar y aprobar, en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el quince de diciembre.
+El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano de Fiscalización Superior del Congreso del Estado, siga su curso.
+
+El Órgano de Fiscalización Superior tiene la obligación de entregar al Congreso del Estado, el Informe del Resultado de la Revisión de la Cuenta Pública, a más tardar en la segunda quincena del mes de marzo del año siguiente al de su presentación.
+
+En el segundo y para que rijan en el año siguiente se ocupará prioritaria mente de examinar y aprobar, en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el 15 de diciembre de cada año.
 
 ###### ARTICULO 115.
 
@@ -1089,7 +1095,9 @@ Durante el desarrollo de las Sesiones a propuesta de uno o más Diputados o por 
 
 Los Servidores Públicos del Poder Ejecutivo, asistirán a las Sesiones, siempre que fueren enviados por el Gobernador de la Entidad o citados por Acuerdo del Congreso del Estado, sin perjuicio de la libertad que tienen de asistir a ellas cuando así lo consideren y tomar asiento en el lugar que se les asigne para tal efecto.
 
-Igualmente podrán ser citados en los mismos términos del párrafo anterior, los integrantes y Servidores Públicos de los Ayuntamientos y del Sector Paraestatal.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
+Igualmente podrán ser citados en los mismos términos del párrafo anterior, los integrantes y Servidores Públicos de los Ayuntamientos, de los Organismos Autónomos y cualquier persona física o moral, que reciban, por cualquier título recursos públicos.
 
 ### CAPITULO II. DE LA APERTURA Y CLAUSURA DE LOS PERIODOS DE SESIONES
 
@@ -1509,51 +1517,73 @@ IV.- Contar con los conocimientos y experiencia comprobables para el buen desemp
 
 ### CAPITULO I. DEL ORGANO DE FISCALIZACION SUPERIOR DEL CONGRESO DEL ESTADO
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 188.
 
-La facultad fiscalizadora del Congreso, se ejercerá por conducto del Órgano de Fiscalización Superior, dependiente del Congreso del Estado, tendrá a su cargo la revisión de la Cuenta Pública de los sujetos de fiscalización, que señala la Constitución Política del Estado de Hidalgo y demás Leyes y Reglamentos aplicables.
+La facultad fiscalizadora del Congreso, se ejercerá por conducto del Órgano de Fiscalización Superior del Congreso del Estado, dependiente del Congreso del Estado, quien tendrá a su cargo la revisión y fiscalización de la Cuenta Pública de los sujetos de la misma, que señala la Constitución Política del Estado de Hidalgo y demás Leyes y Reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 189.
 
-A propuesta del Coordinador General de la Junta de Coordinación Legislativa, previo Acuerdo de la misma, se designará al Auditor Superior, con el voto de la mayoría de los Diputados integrantes del Congreso.
+El titular del Órgano de Fiscalización Superior será nombrado de conformidad con el procedimiento y requisitos establecidos en la Ley del Órgano de Fiscalización Superior del Estado de Hidalgo.
 
 ###### ARTICULO 190.
 
 El Órgano de Fiscalización Superior, contará con las Unidades Administrativas que autorice el Presupuesto de Egresos del Poder Legislativo; el nombramiento y remoción de los Titulares de éstas, se realizarán a propuesta del Auditor Superior, con la aprobación de la Junta de Coordinación Legislativa.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 191.
 
-La Comisión de Hacienda, recibirá el informe del resultado de la revisión y fiscalización de las Cuentas Públicas, y elaborará el Dictamen correspondiente, para su turno al Pleno del Congreso.
+La Comisión Inspectora del Órgano de Fiscalización Superior, recibirá el Informe del Resultado de la Revisión de las Cuentas Públicas, para su trámite correspondiente al Pleno del Congreso.
 
 ###### ARTICULO 192.
 
 El Auditor Superior del Órgano de Fiscalización Superior del Estado, será el responsable del resguardo y custodia de las Cuentas Públicas mientras sean exigibles, en los términos que dispone la Ley.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 193.
 
-El Auditor Superior del Órgano de Fiscalización Superior del Estado, deberá contar con Título de Licenciado en Derecho, en Contaduría o en Administración y tendrá a su cargo, las funciones siguientes:
+El Auditor Superior del Órgano de Fiscalización Superior del Congreso del Estado, deberá contar al día de su nombramiento con título profesional de Contador Público, Licenciado en Contaduría, Administración Pública, Derecho, Auditoría o cualquier otra afín a las ya mencionadas y tener como mínimo dos años de experiencia en el control y fiscalización de recursos, debiendo reunir además los requisitos que para tal efecto señale la Ley del Órgano de Fiscalización Superior y tendrá las siguientes facultades y obligaciones:
 
-I.- Revisar y analizar la aplicación de los recursos públicos de las Dependencias y Entidades del Estado y de los Ayuntamientos, mediante la verificación de sus estados financieros, anexos y demás información relativa que les requiera el Congreso;
+I.- Representar al Órgano de Fiscalización Superior, ante los sujetos de revisión y fiscalización, Autoridades Federales y Locales, Entidades Federativas, ayuntamientos y demás personas físicas o morales e intervenir en toda clase de juicios en que éste sea parte;
 
-II.- Fiscalizar e investigar a las Dependencias y Entidades del Estado y de los Ayuntamientos, durante el año de que se trate, conforme a su Programa Operativo Anual;
+II.- Elaborar el anteproyecto del Presupuesto de Egresos del Órgano de Fiscalización Superior y remitirlo a la Comisión Inspectora a más tardar el 1º de Octubre del año anterior a su ejercicio;
 
-III.- Practicar, por instrucciones, del Coordinador General de la Junta de Coordinación Legislativa, auditorias a los sujetos de fiscalización o designarles interventores;
+III.- Expedir el Reglamento Interior del Órgano;
 
-IV.- Implementar Programas Permanentes de Capacitación y Orientación Preventiva para los Servidores Públicos, que manejen fondos del Erario Público;
+IV.- Solicitar a los sujetos de revisión y fiscalización la información y el auxilio que se requiera para el ejercicio de las funciones de revisión y fiscalización de las Cuentas Públicas;
 
-V.- Recibir, controlar y sistematizar las declaraciones de situación patrimonial que presenten los Servidores Públicos del Congreso, así como programar y ejecutar acciones tendientes al cumplimiento de las disposiciones en la materia;
+V.- Formular los pliegos de observaciones y de cargos, así como las recomendaciones que deriven de la revisión y fiscalización;
 
-VI.- Fungir como Órgano de Control Interno del Congreso en los procedimientos previstos en las Leyes respectivas;
+VI.- Emitir y entregar al Congreso por conducto de la Comisión Inspectora los Informes del Resultado de la Revisión a más tardar en la segunda quincena del mes de marzo del año siguiente al de su presentación;
 
-VII.- Tener a su cargo el Registro de la Deuda Pública Estatal y Municipal;
+VII.- Dar a conocer a las Entidades Fiscalizadas los resultados de su revisión en la forma y términos previstos en la Legislación vigente;
 
-VIII.- Supervisar la correcta interpretación y aplicación de la normatividad vigente en materia de presentación de los estados financieros de los sujetos obligados a rendir la Cuenta Pública, con anexos y demás información relativa;
+VIII.- Determinar los daños y perjuicios que afecten las Haciendas Públicas Estatal y Municipal o al patrimonio de las Entidades. Estatales o Municipales;
 
-IX.- Establecer un banco de información, que sirva de base para la elaboración de lineamientos que permitan una adecuada funcionalidad y manejo de la información y
+IX.- Fincar las responsabilidades administrativas a que haya lugar y, en su caso, las indemnizaciones y sanciones pecuniarias correspondientes;
 
-X.- Las demás que expresamente le señalen el Congreso, la Junta de Coordinación Legislativa, en su caso, así como las Leyes y Reglamentos aplicables.
+X.- Promover ante las Autoridades competentes el fincamiento de otras responsabilidades, así como las acciones de responsabilidad a que se refiere el titulo Décimo de la Constitución Política del Estado y, presentar denuncias y querellas penales;
+
+XI.- Solicitar a la Autoridad competente la aplicación del procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias impuestas y vigilar su seguimiento;
+
+XII.- Fungir Como (sic) Órgano de Control Interno del Congreso en los procedimientos previstos en las Leyes respectivas;
+
+XIII.- Convenir con su similar de la Federación, previo acuerdo del Congreso del Estado y en términos de las disposiciones legales aplicables, para efectos de la fiscalización de los Recursos Federales que ejerzan los sujetos de revisión y fiscalización;
+
+XIV.- Previo acuerdo del Coordinador General de la Junta de Coordinación Legislativa celebrar Convenios con Autoridades Federales, Estatales y Municipales sobre asuntos de su competencia;
+
+XV.- Elaborar y difundir los criterios, normas, procedimientos, métodos y sistemas contables y de auditoria, que deberán aplicarse en la revisión y fiscalización de las Cuentas Públicas, así como aquellos que deberán observar quienes recauden, administren, manejen, ejerzan, resguarden o custodien fondos o recursos de la Federación, Estado o Municipios;
+
+XVI.- Recibir, registrar, controlar y dar seguimiento a las declaraciones patrimoniales de los Diputados, Directores Generales, Directores de Área, Subdirectores, Encargados de Departamento, Jefes de Oficina y demás servidores públicos del Congreso del Estado que realicen las funciones de revisión y fiscalización, así como las de los Presidentes Municipales;
+
+XVII.- Solicitar a las Autoridades competentes la información que le sea necesaria para el correcto desempeño de sus funciones; y
+
+XVIII.- Las demás que le señale esta Ley y demás disposiciones legales aplicables.
 
 ### CAPITULO II. DE LA SECRETARIA DE SERVICIOS LEGISLATIVOS
 
@@ -2040,3 +2070,11 @@ TERCERO.- Se derogan las disposiciones que se opongan a la presente Ley.
 CUARTO.- Los asuntos a cargo de las Comisiones Permanentes y Especiales vigentes, se distribuirán en las nuevas Comisiones de la siguiente forma:
 
 (VEASE ARCHIVO ANEXO)
+
+P.O. 7 DE ABRIL DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estad (sic).
+
+SEGUNDO.- La revisión de las Cuentas Públicas correspondientes al Ejercicio Fiscal 2007, se perfeccionará y concluirá en términos de la presente Ley, en el año 2009.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
