@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2007-12-24"
+last_updated: "2008-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2008.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -161,7 +161,7 @@ VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, s
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-IX.- Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
+IX. Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -265,19 +265,17 @@ La reparación del daño, comprenderá además el pago de los alimentos a la ví
 
 El pago de los alimentos se hará en la forma y términos que la ley civil fije para el efecto.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 24.
 
-La Violación consiste en realizar cópula con persona de cualquier sexo, utilizando fuerza física o moral suficiente para lograr el sometimiento de la víctima.
+La Violación consiste en realizar cópula con persona de cualquier sexo, utilizando fuerza física, moral o psicológica, suficiente para lograr el sometimiento de la víctima.
 
-Al responsable de Violación se le aplicarán de 8 a 14 años de prisión y de 20 a 80 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de Violación se le aplicarán de 10 a 16 años de prisión y de 100 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
+Para los efectos de esta Legislación, se entiende por cópula la introducción del pene en el cuerpo humano, por vía vaginal, anal u oral.
 
-Para los efectos de esta legislación, se entiende por cópula la introducción del pene en el cuerpo humano por vía vaginal, anal u oral.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2006)</small>
-
-Si entre el activo y pasivo de la violación existiera un vínculo matrimonial o de concubinato, se impondrá la pena prevista en este artículo.
+Si entre el activo y pasivo de la Violación, existiera un vínculo matrimonial o de concubinato, se impondrá la pena prevista en el presente Artículo.
 
 ###### Artículo 25.
 
@@ -287,7 +285,9 @@ I. Realizar cópula con persona menor de doce años de edad sin hacer uso de la 
 
 II. Realizar cópula con persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado.
 
-Al responsable de Violación Equiparada se le aplicarán de 8 a 14 años de prisión y de 20 a 80 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable hace uso de la fuerza física o moral sobre la clase de víctimas señaladas en el presente artículo, la punibilidad será de 12 a 21 años de prisión y de 30 a 120 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
+Al responsable de Violación Equiparada se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable hace uso de la fuerza física, moral o psicológica sobre la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 15 a 25 años de prisión y de 250 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
 
@@ -4911,25 +4911,57 @@ Cuando el beneficiado con la preliberación o la libertad preparatoria deje de c
 
 En su caso, si el sentenciado que incumple con las condiciones establecidas se encuentra gozando de su libertad, la autoridad a cargo de la ejecución solicitará al juez de la causa, gire la correspondiente orden de reaprehensión.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+
 ###### Artículo 562.
 
-El indulto procede en los casos siguientes:
+El indulto es una gracia del titular del Poder Ejecutivo, no constituye derecho en favor de persona alguna.
+
+A. El indulto procede en los casos siguientes:
 
 I. Cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado;
 
-II. Cuando el sentenciado haya alcanzado su efectiva reeducación según el dictamen del área técnica, cumpla con su trabajo, haya observado intachable conducta, participado en las actividades educativas que se organicen y que se destaque en alguna actividad a favor de diversa persona o en beneficio del centro correspondiente;
+II. Cuando el sentenciado haya alcanzado su efectiva reeducación según el dictamen del área técnica, cumpla con su trabajo, haya observado buena conducta, participado en las actividades educativas que se organicen, que se destaque en alguna actividad a favor de diversa persona o en beneficio del centro correspondiente y que exista la opinión de la Procuraduría General de Justicia en el Estado, en la vista previa dentro del expediente de ejecución;
 
-III. Cuando el sentenciado haya contraído una enfermedad infecciosa y mortal que ya no pueda ser controlada médicamente o se encuentra en estado de senectud; o
+III. Cuando el sentenciado haya contraído una enfermedad infecciosa y mortal que ya no pueda ser controlada médicamente o se encuentra en estado avanzado de senectud, siempre y cuando esta circunstancia convierta la pena de prisión en una sanción de imposible ejecución por las condiciones de deterioro que presente el sentenciado;
 
-IV. A juicio del Gobernador del Estado, respecto de los hechos punibles tipificados en términos de las figuras típicas previstas en el Libro Primero, Título Primero, Capítulo Décimo Quinto de la presente legislación.
+IV. Haber cumplido una quinta parte de la condena impuesta por el juez de la causa, cuando ésta no exceda de quince años; o
+
+V. Que tengan cumplidas las dos quintas partes de la pena, si la sanción es de más de quince años.
+
+B. No se concederá el indulto:
+
+I. Al sentenciado que tenga el carácter de reincidente, y tampoco a quien hubiere sido condenado por sentencia ejecutoria por delito intencional o doloso, aún cuando no fuera grave, durante un lapso de diez años anteriores;
+
+II. Los que hubieren sido condenados por sentencia ejecutoria varias veces, durante los diez años anteriores a partir de la ejecución de la pena o hubieren sido indultados dentro de los propios lapsos;
+
+III. Los que por sus antecedentes o conducta dentro del Centro de Reeducación Social revelen un estado peligroso que haga aconsejable su no reintegración al seno de la sociedad, a juicio del área técnica del Centro; y
+
+IV. Los sentenciados por homicidio calificado, secuestro, secuestro exprés, violación, violación equiparada, abuso sexual, abuso sexual equiparado, corrupción de menores, tráfico de menores, extorsión, robo calificado con violencia física o moral al cometerlo.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
 
 ###### Artículo 563.
 
-El indulto no extingue la obligación de pagar los daños y perjuicios ocasionados.
+El indulto que otorgue el titular del Poder Ejecutivo, no comprende las penas de inhabilitación, de invalidación o de suspensión para el ejercicio de profesiones, derechos civiles o políticos y para desempeñar determinado cargo o empleo, y es sin perjuicio de la responsabilidad civil en que hubieren incurrido los reos y del derecho de los interesados para exigir en la forma legal el pago de la reparación del daño causado por la comisión de un hecho punible que constituya una figura típica.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
 
 ###### Artículo 564.
 
-La solicitud del indulto se integrará al expediente respectivo de ejecución, al que se agregarán las pruebas suficientes para comprobar su procedencia. Una vez analizado totalmente el expediente de ejecución por las autoridades competentes, el Gobernador del Estado dictará la resolución que corresponda dentro del término de treinta días, que será notificada personalmente al interno o a su Defensor.
+Las solicitudes de indulto deberán ser dirigidas al titular del Poder Ejecutivo, acompañadas de los documentos siguientes:
+
+I. Copia certificada de la parte resolutiva de la sentencia ejecutoria;
+
+II. Informe del Centro correspondiente, de la fecha de ingreso al Centro y de si ha gozado el reo de libertad caucional, así como de la conducta observada por el interesado o interesada y si aparece en los registros del Centro con ingresos anteriores y a las penas a que haya sido condenado o condenada; e
+
+III. Informe sobre antecedentes policíacos y toxicomanía del solicitante; así como si es o no ebrio habitual.
+
+Las autoridades que deban expedir las constancias a que se refiere el párrafo anterior, lo harán sin costo alguno y con carácter urgente, y las remitirán inmediatamente a la autoridad que la solicite; su incumplimiento será causa de responsabilidad administrativa.
+
+La solicitud del indulto, se integrará al expediente respectivo de ejecución, al que se agregarán las pruebas suficientes para comprobar su procedencia. Una vez analizado el expediente de ejecución por las autoridades competentes, el Director del Centro lo remitirá al titular del Poder Ejecutivo del Estado, el cual dictará la resolución que corresponda dentro del término de treinta días.
+
+El titular del Poder Ejecutivo del Estado, regresará el expediente respectivo al Centro correspondiente, acompañando el acuerdo dictado al efecto para su ejecución, que será notificado personalmente al sentenciado.
 
 ###### Artículo 565.
 
@@ -5324,3 +5356,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales que en cualquier instancia estén en trámite al iniciar la vigencia de este Decreto, se tramitarán con las disposiciones de carácter general que estuvieran vigentes al momento del inicio de dichos procedimientos.
+
+P.O. 7 DE ABRIL DE 2008.
+
+DECRETO NUMERO 60, POR EL QUE SE REFORMAN LOS ARTICULOS 24 Y 25 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE ABRIL DE 2008.
+
+DECRETO NUMERO 61, POR EL QUE SE REFORMAN LOS ARTICULOS 562, 563 Y 564 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
