@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-educacion-media-superior-440
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-03-23"
-last_updated: "2007-10-05"
+last_updated: "2008-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-03-18"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ABRIL DE 2008.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de marzo de 2005.
 
@@ -584,13 +584,13 @@ Los Órganos Consultivos se regirán por el reglamento para la Integración y Fu
 
 La educación media superior que imparta el Instituto, se realizará en los planteles que para este fin acuerde crear el Consejo de Gobierno. Los planteles conforman el Sistema de Bachillerato del Gobierno del Distrito Federal que se regirá por las Reglas Internas que para tal fin el Consejo de Gobierno apruebe.
 
-> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2008)</small>
 
 ###### Artículo 29.
 
-Cada plantel será administrado por un Subdirector de Coordinación de Planteles, el cual podrá ser nombrado o removido por el Consejo de Gobierno, a propuesta del Director General, preferentemente de entre el personal académico del Instituto.
+Cada plantel será administrado por un Subdirector de Coordinación de Plantel, el cual podrá ser nombrado o removido por el Consejo de Gobierno, a propuesta del Director General; para su designación, en primera instancia se considerará al personal académico del Instituto.
 
-Un Subdirector de Coordinación de Planteles durará en su cargo cuatro años y, en razón tanto de su desempeño como de los resultados obtenidos, podrá ser nombrado por un período igual en un plantel distinto. Una vez concluida su gestión, si así fuera el caso, el Subdirector de Coordinación del Planteles podrá reincorporarse a la función que desempeñaba antes de su primera designación u otra equivalente o semejante.
+Un Subdirector de Coordinación de Plantel permanecerá en su cargo un máximo de cuatro años y, en razón tanto de su desempeño como de los resultados obtenidos, podrá ser nuevamente nombrado, por única vez, con el mismo cargo, por un período igual, pero en un plantel distinto. Una vez concluida su gestión, si así fuera el caso, el Subdirector de Coordinación de Plantel podrá incorporarse a la función de docente-tutor-investigador.
 
 ###### Artículo 30.
 
@@ -749,3 +749,9 @@ G.O. 5 DE OCTUBRE DE 2007.
 PRIMERO.- Publíquense las presentes reformas en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Las presentes reformas entrarán en vigencia a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 7 DE ABRIL DE 2008.
+
+PRIMERO.- Publíquese la presente reforma en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
