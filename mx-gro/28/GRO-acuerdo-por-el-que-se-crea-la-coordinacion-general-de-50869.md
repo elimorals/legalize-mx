@@ -4,7 +4,7 @@ identifier: "GRO-acuerdo-por-el-que-se-crea-la-coordinacion-general-de-50869"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-20"
-last_updated: "2006-06-20"
+last_updated: "2008-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 ACUERDO POR EL QUE SE CREA LA COORDINACION GENERAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO QUE CREA LA COORDINACION GENERAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO, COMO ORGANO ADSCRITO A LA CONTRALORIA GENERAL DEL ESTADO, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Guerrero, el martes 20 de junio de 2006.
 
@@ -142,3 +144,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. ARMANDO CAVARÍA BARRERA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+P.O. 8 DE ABRIL DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Acuerdo por el que se crea la Coordinación General de Acceso a la Información Pública del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 49 de fecha 20 de junio de 2006.
+
+TERCERO.- Se desincorpora de la estructura administrativa de dependencia directa del Titular del Poder Ejecutivo la Coordinación General de Acceso a la Información Pública del Estado de Guerrero, para incorporarse a la estructura orgánica de la Contraloría General del Estado.
+
+CUARTO.- La Contraloría General del Estado y, la Secretaría de Finanzas y Administración, realizarán las gestiones necesarias para la transferencia de los recursos humanos, materiales y financieros y demás bienes que a la fecha conforman la Coordinación General de Acceso a la Información Pública del Estado de Guerrero; sin menoscabo de los derechos laborales de sus trabajadores.
