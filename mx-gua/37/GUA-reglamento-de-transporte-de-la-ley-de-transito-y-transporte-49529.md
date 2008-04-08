@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-transporte-de-la-ley-de-transito-y-transporte-495
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2006-02-28"
+last_updated: "2008-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE TRANSPORTE DE LA LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2008.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 2006.
 
@@ -75,7 +75,9 @@ IX. DIRECTOR GENERAL.- El Titular de la Dirección General de Tránsito y Transp
 
 X. ESTACIÓN O PARADA.- Espacio físico identificado y autorizado expresamente para realizar ascenso y descenso de pasaje en puntos intermedios de un recorrido, con infraestructura destinada a la comodidad y seguridad de los usuarios, así como para la operación segura de los servicios de transporte;
 
-XI. ESTUDIO TÉCNICO.- Documento que incluye el análisis estadístico, operativo y de evaluación que permite determinar la necesidad del establecimiento, modificación o incremento de los servicios de transporte;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2008)</small>
+
+XI. ESTUDIO TÉCNICO.- Documento que incluye el análisis de evaluación, operativo y, en su caso, estadístico que permite conocer la situación de los servicios de transporte y consecuentemente, determinar la necesidad de su establecimiento, modificación o incremento;
 
 XII. FACTURA DE COBRO DE SERVICIO.- Cuenta detallada que expide el concesionario o permisionario por los servicios de transporte realizados a los usuarios y que ampara el traslado de los pasajeros y, en su caso, de sus bienes, así como las maniobras de carga, descarga y custodia de estos últimos;
 
@@ -101,9 +103,11 @@ XXI. VEHÍCULO CHATARRA.- Aquel que se encuentra en los depósitos de vehículos
 
 Cuando los concesionarios o permisionarios estatales, tengan necesidad de hacer uso de tramos de caminos de jurisdicción federal, que se encuentren ubicados en las zonas aledañas a los centros de población, se sujetarán a las disposiciones locales, sin perjuicio del cumplimiento de los ordenamientos federales relativos.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2008)</small>
+
 ###### Artículo 5o.
 
-Los concesionarios o permisionarios del autotransporte que provengan de otros puntos de la República o se encuentren sometidos a otra jurisdicción distinta, a efecto de estar en posibilidad de prestar el servicio público de transporte en las vías de jurisdicción estatal, deberán contar con el convenio de enlace, fusión de equipos o intercambio de servicios a que se refiere el artículo 24 de la Ley.
+Los concesionarios o permisionarios del autotransporte que provengan de otros puntos de la República o se encuentren sometidos a una jurisdicción distinta, a efecto de estar en posibilidad de prestar el servicio público de transporte en las vías de jurisdicción estatal, deberán contar con el convenio de enlace, fusión de equipos o intercambio de servicios a que se refiere el artículo 24 de la Ley, el cual no implica incremento en el número de unidades en el servicio autorizado por el Estado.
 
 ## TÍTULO SEGUNDO. DEL SERVICIO PÚBLICO DE TRANSPORTE
 
@@ -119,13 +123,17 @@ II. Turístico: De Excursión y de Recorrido o Regular y de Lujo; y
 
 III. Alquiler sin ruta fija: De Sitio y Libre o Autónomo.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2008)</small>
+
 ###### Artículo 7o.
 
-Es obligatorio pintar los vehículos del servicio público de transporte con los colores oficiales y con las características de diseño, color y tipografía del número económico.
+Es obligatorio pintar los vehículos del servicio público y especial de transporte con los colores oficiales y con las características de diseño, color y tipografía del número económico.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2008)</small>
 
 ###### Artículo 8o.
 
-El número económico es la identificación alfanumérica vinculada directamente a la concesión y se compone de dos o más letras que identifican la clave o abreviatura del Municipio del Estado de Guanajuato para el cual está otorgada la concesión, seguida del número consecutivo de la misma.
+El número económico es la identificación alfanumérica vinculada directamente a la concesión o permiso y se compone de dos o más letras que identifican la clave o abreviatura del Municipio del Estado de Guanajuato para el cual está otorgada la concesión o permiso, seguida del número consecutivo de la misma.
 
 De conformidad con lo señalado en el párrafo anterior, las claves de identificación para los números económicos de los municipios del Estado de Guanajuato son las siguientes:
 
@@ -617,9 +625,11 @@ I. Cuando los vehículos accidentados, la carga o los componentes de los mismos 
 
 II. Siempre que los vehículos accidentados, la carga o los componentes de los mismos se encuentren sobre la superficie de rodamiento vehicular, los acotamientos del camino o en las zonas inmediatas del mismo, o existan residuos de combustible o de substancias u objetos de cualquier naturaleza que puedan representar obstáculo o peligro para los usuarios, se procederá de inmediato al abanderamiento con vehículo, colocando además aquellos elementos de abanderamiento que puedan advertir con anticipación a los usuarios del camino sobre el obstáculo o peligro existente en el mismo. En estos casos el señalamiento deberá mantenerse hasta la conclusión de las maniobras y la vía quede libre para la circulación normal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2008)</small>
+
 ###### Artículo 63.
 
-Cuando exista más de un concesionario del servicio público de grúa en un mismo Municipio, estarán sujetos a un rol de servicios establecido de común acuerdo por los concesionarios, siempre y cuando se garantice la prestación ininterrumpida, puntual y eficiente del servicio.
+Cuando exista más de un concesionario del servicio público de grúa en un mismo Municipio, podrán sujetarse a un rol de servicios establecido de común acuerdo por los concesionarios, siempre y cuando se garantice la prestación ininterrumpida, puntual y eficiente del servicio.
 
 Todo acuerdo que al efecto sostengan los concesionarios del servicio, deberá constar en forma clara, por escrito, con la concurrencia de todos los interesados, mismo que deberá ser puesto a consideración de la Dirección General para su análisis y en su caso, aprobación.
 
@@ -675,59 +685,125 @@ b) Dos palas, escoba, conos, barra de acero para rescate de 25.4 mm, cuñas para
 
 c) Además, las grúas tipo A deberán contar con un equipo completo de mancuerna o patín, para el traslado de vehículos sin rodar, y las tipo B, C, y D deberán estar provistas de un dispositivo de seguridad para el frenado de los vehículos por arrastrar.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2008)</small>
+
 ###### Artículo 69.
 
-Las grúas tipo A deberán reunir además de los requisitos de carácter técnico y de equipamiento, lo siguiente:
+Las grúas tipo “A” pluma y de plataforma deberán reunir además de los requisitos de carácter técnico y de equipamiento, lo siguiente:
+
+A. Grúas tipo “A” Pluma:
 
 I. Capacidad: 3.5 toneladas;
 
-II. Malacate: 4 toneladas;
+II. Malacate: Uno de 4 toneladas;
 
-III. Cable de alta resistencia con alma de acero: 9.525 mm. de diámetro y longitud de 30 m;
+III. Cable de alta resistencia con alma de acero: 9.525 mm de diámetro y longitud de 30 m;
 
-IV. Cadenas: Dos de 9.525 mm. de diámetro, de 3 m de longitud cada una, y una de 9.523 mm. de diámetro, y 4 m. de longitud;
+IV. Cadenas: Dos de 9.525 mm de diámetro y 3 m de longitud, y una de 9.523 mm de diámetro y 4 m de longitud;
 
 V. Pluma construcción: Tubular, estructural o telescópica; y
 
-VI. Especificaciones: Longitud retraída 2.43 m. y longitud extendida 3.95 m.
+VI. Especificaciones: Longitud retraída 2.43 m y longitud extendida 3.95 m.
 
-Este equipo deberá estar instalado sobre un chasis-cabina con distancia entre ejes no menor de 3.40 m. y no mayor de 4.00 m. con doble rodada. Las grúas de este tipo se utilizarán para proporcionar el servicio de arrastre y salvamento a unidades motrices cuyo peso bruto vehicular no exceda de 3,500 Kg.
+Este equipo deberá estar instalado sobre un chasis-cabina con distancia entre ejes no menor de 3.40 m y no mayor de 4.00 m, con doble rodada. Las grúas de este tipo se utilizarán para proporcionar el servicio de arrastre y salvamento a unidades motrices cuyo peso bruto vehicular no exceda de 3.5 toneladas.
+
+B. Grúas tipo “A” Plataforma:
+
+I. Capacidad: 3.5 toneladas;
+
+II. Largo máximo de plataforma: 6 m;
+
+III. Rodado: Doble rodado trasero de una sola pieza y acorazado;
+
+IV. Malacate: Uno de 3.5 toneladas;
+
+V. Cable de cadena y ganchos: 15 m de largo como mínimo y 0.80 cm de diámetro;
+
+VI. Toma de fuerza: Hidráulica; y
+
+VII. Sistema de enganche: Sujetador de llantas, ejes o chasis.
+
+Las grúas de este tipo se utilizarán para proporcionar el servicio de transportación y salvamento a automóviles, camionetas, pick-up o panel de rodado sencillo y camiones doble rodado con un peso vehicular de hasta 3.5 toneladas.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2008)</small>
 
 ###### Artículo 70.
 
-Las grúas tipo B deberán reunir además de los requisitos de carácter técnico y de equipamiento, lo siguiente:
+Las grúas tipo “B” pluma y de plataforma deberán reunir además de los requisitos de carácter técnico y de equipamiento, lo siguiente:
 
-I.- Capacidad: 6 toneladas;
+A. Grúas tipo “B” Pluma:
 
-II.- Malacate: Uno de 6 toneladas o dos de 4 toneladas cada uno;
+I. Capacidad: 6 toneladas;
 
-III.- Cable de alta resistencia con alma de acero: 19.05 mm. de diámetro y longitud de 100 m.;
+II. Malacate: Uno de 6 toneladas o dos de 4 toneladas cada uno;
 
-IV.- Cadenas: Tres de 12.7 mm. de diámetro y 7 m. de longitud;
+III. Cable de alta resistencia con alma de acero: 19.05 mm de diámetro y longitud de 100 m;
 
-V.- Pluma construcción: Uno o dos tubulares, estructural o telescópica; y
+IV. Cadenas: Tres de 12.7 mm de diámetro y 7 m de longitud;
 
-VI.- Especificaciones: Longitud retraída 2.42 m. y longitud extendida 3.95 m.
+V. Pluma construcción: De uno o dos tubulares, estructural o telescópica; y
 
-Este equipo estará instalado sobre un chasis-cabina con distancia entre ejes no menor de 4.00 m. y no mayor de 4.30 m. Las grúas de este tipo se utilizarán para proporcionar el servicio de arrastre y salvamento a camiones, tracto-camiones y autobuses de pasajeros, cuyo peso vehicular no exceda de 6,000 kg.
+VI. Especificaciones: Longitud retraída 2.42 m y longitud extendida 3.95 m.
+
+Este equipo deberá estar instalado sobre un chasis-cabina con distancia entre ejes no menor de 4.00 m y no mayor de 4.30 m. Las grúas de este tipo se utilizarán para proporcionar el servicio de arrastre y salvamento a camiones, tracto-camiones y autobuses de pasajeros, cuyo peso vehicular no exceda de 6 toneladas.
+
+B. Grúas tipo “B” Plataforma:
+
+I. Capacidad: 6 toneladas;
+
+II. Largo máximo de plataforma: 8 m;
+
+III. Rodado: Doble rodado trasero de una sola pieza y acorazado;
+
+IV. Malacate: Uno de 6 toneladas;
+
+V. Cable de cadena y ganchos: 15 m de largo como mínimo y 1.25 cm de diámetro;
+
+VI. Toma de fuerza: Hidráulica; y
+
+VII. Sistema de enganche: Sujetador de llantas, ejes o chasis.
+
+Las grúas de este tipo se utilizarán para proporcionar el servicio de transportación y en su caso, salvamento a automóviles, camionetas pick-up o panel de rodado sencillo, camiones de carga de hasta 6 toneladas de peso vehicular que se encuentren vacíos, autobuses y camiones cuyo peso vehicular no exceda de 4.6 toneladas.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2008)</small>
 
 ###### Artículo 71.
 
-Las grúas tipo C deberán reunir además de los requisitos de carácter técnico y de equipamiento, lo siguiente:
+Las grúas tipo “C” pluma y de plataforma deberán reunir además de los requisitos de carácter técnico y de equipamiento, lo siguiente:
+
+A. Grúas tipo “C” Pluma:
 
 I. Capacidad: 12 toneladas;
 
 II. Malacate: Uno de 12.5 toneladas o dos de 7 toneladas cada uno;
 
-III. Cable de alta resistencia con alma de acero: 2 de 12.7 mm. o una de 22.225 mm. de diámetro y longitud de 100 m.;
+III. Cable de alta resistencia con alma de acero: Dos de 12.7 mm o uno de 22.225 mm de diámetro, y longitud de 100 m;
 
-IV. Cadenas: Tres de 15.875 mm. de diámetro y 7 m. de longitud;
+IV. Cadenas: Tres de 15.875 mm de diámetro y 7 m de longitud;
 
-V. Pluma construcción: Uno o dos tubulares, estructural o telescópica; y
+V. Pluma construcción: De uno o dos tubulares, estructural o telescópica; y
 
-VI. Especificaciones: Longitud retraída 2.42 m. y longitud extendida 5.35 m.
+VI. Especificaciones: Longitud retraída 2.42 m y longitud extendida 5.35 m.
 
-Este equipo deberá estar instalado sobre un chasis-cabina con una distancia entre ejes no menor de 4.30 m. y no mayor de 4.80 m. Las grúas de este tipo se utilizarán para proporcionar el servicio de arrastre y salvamento preferentemente a camiones cuyo peso bruto vehicular no exceda de 12,000 Kg.; tracto-camiones cuyo peso bruto vehicular no exceda de 10,000 Kg. y autobuses de pasajeros cuyo peso vehicular no exceda de 12,000 Kg.
+Este equipo deberá estar instalado sobre un chasis-cabina con una distancia entre ejes no menor de 4.30 m y no mayor de 4.80 m. Las grúas de este tipo se utilizarán para proporcionar el servicio de arrastre y salvamento preferentemente a camiones cuyo peso bruto vehicular no exceda de 12 toneladas; tracto-camiones cuyo peso bruto vehicular no exceda de 10 toneladas y autobuses de pasajeros cuyo peso vehicular no exceda de 12 toneladas.
+
+B. Grúas tipo “C” Plataforma:
+
+I. Capacidad: 9 toneladas;
+
+II. Largo máximo de plataforma: 10 m;
+
+III. Rodado: Doble rodado trasero de una sola pieza y acorazado;
+
+IV. Malacate: Uno de 12 toneladas;
+
+V. Cable de cadena y ganchos: 15 m de largo como mínimo y 1.60 cm de diámetro;
+
+VI. Toma de fuerza: Hidráulica; y
+
+VII. Sistema de enganche: Sujetador de llantas, ejes o chasis.
+
+Las grúas de este tipo se utilizarán para proporcionar el servicio de transportación y salvamento a camiones, autobuses y tractocamiones cuyo peso vehicular fluctúa entre 6 y 9 toneladas.
 
 ###### Artículo 72.
 
@@ -835,9 +911,11 @@ La Dirección General podrá expedir permisos eventuales de transporte cuando se
 
 Para tal efecto, presentada la solicitud por parte de los interesados, la Dirección General deberá llevar a cabo el estudio técnico y resolver lo conducente en un plazo que no exceda de quince días hábiles posteriores a la presentación de dicha solicitud.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2008)</small>
+
 ###### Artículo 84.
 
-El permiso eventual extraordinario se autoriza cuando es rebasada de manera transitoria la capacidad de los concesionarios en una ruta determinada, sin necesidad de estudios técnicos, supeditado a la duración de la eventualidad, sea por decremento temporal de los vehículos con los cuales se presta el servicio en una ruta, por evento natural, social o cultural.
+Cuando exista una necesidad extraordinaria de carácter natural, social o cultural, o por decremento temporal de los vehículos del servicio público y especial de transporte, se podrá autorizar permiso eventual extraordinario sin necesidad de estudios técnicos, el que estará supeditado a la duración de la eventualidad.
 
 El trámite de este permiso no podrá ser superior al de veinticuatro horas posteriores a la presentación de la solicitud.
 
@@ -937,9 +1015,25 @@ V. Itinerario y horarios de servicio de operación, en su caso;
 
 VI. En su caso, empresas, instituciones o personas a quienes se prestará el servicio;
 
-VII. Condiciones legales para la prestación del servicio; y
+VII. Condiciones legales para la prestación del servicio; y (sic)
 
-VIII. Firma y sello de autorización.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2008)</small>
+
+VIII. Número económico; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2008)</small>
+
+IX. Firma y sello de autorización.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2008)</small>
+
+Artículo 93 bis.- El número económico a que se refiere la fracción VIII del artículo anterior deberá ostentarse en color rojo 185 del código de colores pantone, sobre fondo rectangular de color blanco, en las portezuelas delanteras del vehículo, de conformidad con las siguientes reglas:
+
+I. Tratándose de vehículos con un peso menor de 3 toneladas, el número económico será de 13 cm de altura y 2 cm de ancho de línea, el recuadro será de 70 cm de largo y 17 cm de altura; y
+
+II. Tratándose de vehículos de más de 3 toneladas, el número económico será de 22 cm de altura y 2 cm de ancho de línea, el recuadro será de 80 cm de largo por 30 cm de altura.
+
+De igual manera los vehículos destinados al servicio especial de transporte, presentarán el número económico impreso en el color y fondo indicado en el primer párrafo de este artículo, en la parte posterior de la carrocería del vehículo, atendiendo a las características propias del mismo.
 
 ###### Artículo 94.
 
@@ -1003,6 +1097,10 @@ Los vehículos del servicio especial de transporte en su modalidad de escolar, s
 
 En la parte posterior del vehículo deberá de mencionar la siguiente leyenda: Precaución Transporte Escolar.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2008)</small>
+
+Los vehículos destinados a la prestación del servicio especial de transporte escolar que sean propiedad de las instituciones educativas, podrán portar el diseño y los colores de imagen institucional que identifiquen a las mismas, sin perjuicio de las demás obligaciones señaladas en la Ley y en el presente Reglamento.
+
 ###### Artículo 104.
 
 El servicio especial de transporte en su modalidad de personal contará con libertad para utilizar los diseños que con objeto de personalizar la empresa se crean pertinentes, siempre y cuando sean uniformes para la totalidad de la flotilla en lo referente a la tonalidad de colores y características gráficas del diseño.
@@ -1049,9 +1147,11 @@ III. La zona, ruta o municipios en los cuáles se detectó la necesidad del serv
 
 IV. El número de concesiones a otorgar.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2008)</small>
+
 ###### Artículo 111.
 
-La convocatoria por su parte, deberá contener los siguientes requisitos:
+La convocatoria deberá contener los siguientes requisitos:
 
 I. Municipio que abarca el servicio señalado en la declaratoria de necesidad pública de transporte;
 
@@ -1059,9 +1159,15 @@ II. Plazo para la recepción de las solicitudes y documentos complementarios req
 
 III. Modalidades del servicio de transporte a concesionar;
 
-IV. Número de concesiones a otorgar; y
+IV. Número de concesiones a otorgar; y (sic)
 
-V. Fecha, lugar y hora en que los interesados en participar podrán adquirir las bases.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2008)</small>
+
+V. Condiciones de participación; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2008)</small>
+
+VI. Fecha, lugar y hora en que los interesados en participar podrán adquirir las bases.
 
 ###### Artículo 112.
 
@@ -1169,13 +1275,19 @@ Las concesiones que se otorguen conforme al presente título podrán prorrogarse
 
 I. En caso del servicio público foráneo, se evaluará:
 
-a) Que se cuente con terminales, lugares de encierro, oficinas administrativas, talleres para el mantenimiento y reparación de las unidades y, en su caso, infraestructura adicional que permita el mejoramiento de la calidad en la prestación del servicio;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2008)</small>
 
-b) Que cuente con la organización administrativa, manuales de operación, de organización y de seguridad;
+a) Las terminales, lugares de encierro, oficinas administrativas, talleres para el mantenimiento y reparación de las unidades y, en su caso, infraestructura adicional que permita el mejoramiento de la calidad en la prestación del servicio;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2008)</small>
+
+b) La organización administrativa, manuales de operación, de organización y de seguridad;
 
 c) Que los vehículos se encuentren en condiciones optimas para la prestación del servicio, así como vigentes los seguros exigidos por la Ley;
 
-d) Que existan dispositivos para el control de operadores, vehículos, cobro de tarifas, rutas, itinerarios y horarios;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2008)</small>
+
+d) Los dispositivos para el control de operadores, vehículos, cobro de tarifas, rutas, itinerarios y horarios;
 
 e) Que en el Registro Estatal de Antecedentes de Tránsito no existan reincidencias en infracciones que atenten contra la seguridad e integridad física del usuario o de terceros, accidentes graves o sanciones por abuso en la prestación del servicio; y
 
@@ -1381,7 +1493,9 @@ II. Contratar personal competente para la prestación del servicio, de conformid
 
 III. Instruir a los operadores para que coloquen en lugar visible del vehículo el tarjetón de capacitación para operadores del servicio público y especial de transporte;
 
-IV. Presentar semestralmente las unidades destinadas a la prestación del servicio público o especial de transporte, a la revista físico-mecánica en el lugar autorizado para tales efectos;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2008)</small>
+
+IV. Presentar semestralmente las unidades destinadas a la prestación del servicio público o especial de transporte, a la revista físico-mecánica en el lugar y tiempo autorizados para tales efectos;
 
 V. Colaborar con las autoridades de tránsito y transporte en la preparación y desarrollo de campañas y cursos para fomentar la seguridad y educación vial;
 
@@ -1879,6 +1993,14 @@ La publicación de las tarifas, al menos, especificará el costo desde el origen
 
 Los depósitos de vehículos cobrarán conforme a las tarifas autorizadas, las que deberán tener publicadas en un lugar visible en sus instalaciones.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2008)</small>
+
+Artículo 184 bis.- Cuando en un salvamento intervenga más de una grúa sin ser necesario o porque el concesionario no cuente con la capacidad vehicular para realizar el rescate, únicamente se deberán cobrar los servicios realizados de la grúa que corresponda según el peso de la unidad a rescatar.
+
+Cuando en un salvamento o arrastre intervenga una grúa que no corresponda al peso de la unidad a auxiliar, el usuario sólo estará obligado a pagar lo correspondiente a la grúa que conforme a su peso debió atenderle.
+
+Cuando en un salvamento un concesionario se vea impedido para prestar el servicio y solicite el apoyo de otro para realizarlo, el usuario sólo estará obligado a pagar el precio del servicio que se realizó, sin que pueda excederse la tarifa por la intermediación del primer concesionario que fue requerido.
+
 ###### Artículo 185.
 
 La tarifa autorizada para cada modalidad del servicio, así como cualquier modificación que se haga a la misma, deberá publicarse en el Periódico Oficial del Gobierno del Estado y en el diario de mayor circulación en el Municipio que corresponda.
@@ -2214,3 +2336,9 @@ JUAN CARLOS ROMERO HICKS
 SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE ABRIL DE 2008.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
