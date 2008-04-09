@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-5607
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-15"
-last_updated: "2007-06-15"
+last_updated: "2008-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL GOBIERNO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de junio de 2007.
 
@@ -103,9 +103,11 @@ El Gobierno Municipal no podrá financiar a proveedores la adquisición o arrend
 
 En los procedimientos de contratación de carácter internacional, el Gobierno Municipal optará, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el País.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2008)</small>
+
 ###### Artículo 12.
 
-La Secretaría Administrativa, mediante disposiciones de carácter general, oyendo la opinión de la Contraloría y Comité de Adquisiciones, determinará, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo.
+La Secretaría Administrativa, mediante disposiciones de carácter general, y en base al dictamen emitido por el Comité de Adquisiciones, oyendo la opinión de la Contraloría, determinará en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo.
 
 ###### Artículo 13.
 
@@ -209,9 +211,11 @@ El Comité de Adquisiciones, en el ámbito de sus respectivas competencias, esta
 
 La Contraloría Interna Municipal dictará las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de este ordenamiento, tomando en cuenta la opinión de la Secretaría Administrativa.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2008)</small>
+
 ###### Artículo 24.
 
-El Comité es un órgano auxiliar del municipio, de consulta, de análisis, opinión y orientación, que tiene por objeto intervenir como instancia administrativa en el proceso de adquisiciones, arrendamientos y prestación de servicios, a fin de determinar las acciones necesarias que permitan optimizar los recursos que se destinen a las operaciones que regula este reglamento, coadyuvando a la observancia de las mismas.
+El Comité es un órgano auxiliar del municipio, de consulta, de análisis, opinión y orientación, que tiene por objeto darle prioridad y emitir el visto bueno en el proceso de adquisiciones, arrendamientos y prestación de servicios, a fin de determinar las acciones necesarias que permitan optimizar los recursos que se destinen a las operaciones que regula este reglamento, coadyuvando a la observancia de las mismas.
 
 El Comité de Adquisiciones se integra por un representante de las siguientes dependencias: Presidencia, Secretaría de Finanzas y Tesorería, Contraloría Interna Municipal, Secretaría del Ayuntamiento y Secretaría Administrativa, el Sindico Primero, Primer Regidor, y un Regidor de representación proporcional, así como el Secretario de la dependencia correspondiente, cuando así lo requiera o se encuentre involucrado con la adquisición o arrendamiento del bien o servicio respectivo. De este Comité tendrán derecho a voz y voto los representantes de la Presidencia, Secretaría de Finanzas y Tesorería, la Secretaría del Ayuntamiento, Secretaría Administrativa, así como el Síndico Primero, el Primer Regidor y el Regidor de Representación Proporcional.
 
@@ -307,6 +311,8 @@ Para la elaboración de las bases para las licitaciones públicas, las Dependenc
 
 Con el propósito de promover una mayor participación de Proveedores, la Dirección de Adquisiciones podrán contratar directamente servicios de asesoría técnica, especializada e imparcial para describir especificaciones técnicas de los bienes y servicios que se requieran.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2008)</small>
+
 ###### Artículo 30.
 
 Las bases que se emitan para las licitaciones públicas se pondrán a disposición de los interesados, en el domicilio señalado a partir del día en que se publique la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este período. Las bases contendrán en lo aplicable como mínimo lo siguiente:
@@ -329,7 +335,7 @@ VII. La indicación de que ninguna de las condiciones contenidas en las bases de
 
 VIII. Criterios claros y detallados para la adjudicación de los contratos de conformidad a lo establecido por el artículo 49 de este ordenamiento;
 
-IX. Descripción completa de los bienes o servicios, o indicación de los sistemas empleados para identificación de los mismos; información específica que requieran respecto a mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; aplicación de normas a que se refiere la fracción VII del artículo 15 de este ordenamiento; dibujos; cantidades; muestras, y pruebas que se realizarán, así como método para ejecutarlas;
+IX. Descripción completa de los bienes o servicios, o indicación de los sistemas empleados para identificación de los mismos; información específica que requieran respecto a mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; aplicación de normas a que se refiere la fracción VII del artículo 15 de este ordenamiento; dibujos; cantidades; muestras, y pruebas que se realizarán; así como método para ejecutarlas;
 
 X. Plazo y condiciones de entrega; así como la indicación del lugar, dentro del territorio nacional, donde deberán efectuarse las entregas;
 
@@ -345,9 +351,11 @@ XV. En el caso de contratos abiertos, la información a que alude el artículo 5
 
 XVI. Penas convencionales por atraso en la entrega de los bienes o en la prestación de los servicios;
 
-XVII. La indicación de que el licitante que no firme el contrato por causas imputables al mismo será sancionado en los términos del artículo 65 de este ordenamiento, y
+XVII. La indicación de que el licitante que no firme el contrato por causas imputables al mismo será sancionado en los términos del artículo 65 de este ordenamiento, y (sic)
 
-XVIII. En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica. El que los licitantes opten por utilizar alguno de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación.
+XVIII. En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica. El que los licitantes opten por utilizar alguno de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación;
+
+XIX. El licitante que va a participar, no deberá estar en los supuestos a que se (sic) alusión el número 56 del presente reglamento.
 
 ###### Artículo 31.
 
@@ -505,6 +513,8 @@ En estos casos, se invitará a personas cuyas actividades comerciales o profesio
 
 En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación podrá adjudicar directamente el contrato, debiendo informar al comité de adquisiciones, arrendamientos y servicios cuando los anteriores procedimientos hubiesen sido autorizados por el mismo.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2008)</small>
+
 ###### Artículo 43.
 
 El procedimiento de invitación a cuando menos tres personas se sujetará a lo siguiente:
@@ -513,17 +523,19 @@ I. Las invitaciones correspondientes se entregaran por escrito;
 
 II. En las invitaciones se indicarán, como mínimo, la cantidad y descripción de los bienes o servicios requeridos, plazo y lugar de entrega, así como las condiciones de pago, o en su caso contendrán la información que resulte necesaria para formular las propuestas técnicas y económicas;
 
-III. El acto de presentación y apertura de proposiciones estará sujeto al mismo procedimiento que el indicado en el artículo 35 de este reglamento, con la salvedad de que para llevar a cabo la evaluación, se deberá de contar con un mínimo de tres propuestas susceptibles de analizarse técnicamente;
+III. Contener la confirmación del proveedor invitado por escrito para su debida participación;
 
-IV. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres proposiciones económicas, cuya propuesta técnica haya sido analizada previamente;
+IV. El acto de presentación y apertura de proposiciones estará sujeto al mismo procedimiento que el indicado en el artículo 35 de este reglamento, con la salvedad de que para llevar a cabo la evaluación, se deberá de contar con un mínimo de tres propuestas susceptibles de analizarse técnicamente;
 
-V. Las proposiciones económicas, en caso de personas morales, deberán ser formuladas por personas que no se relacionen entre sí a través de su tenencia accionaría o participación en el capital social;
+V. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres proposiciones económicas, cuya propuesta técnica haya sido analizada previamente;
 
-VI. Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo el tipo de bienes o servicios requeridos, así como a la complejidad para elaborar la propuesta;
+VI. Las proposiciones económicas, en caso de personas morales, deberán ser formuladas por personas que no se relacionen entre sí a través de su tenencia accionaría o participación en el capital social;
 
-VII. El carácter nacional o internacional en los términos del artículo 26 de este ordenamiento, y
+VII. Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo el tipo de bienes o servicios requeridos, así como a la complejidad para elaborar la propuesta;
 
-VIII. A las demás disposiciones de este ordenamiento que resulten aplicables.
+VIII. El carácter nacional o internacional en los términos del artículo 26 de este ordenamiento, y
+
+IX. A las demás disposiciones de este ordenamiento que resulten aplicables.
 
 ###### Artículo 44.
 
@@ -703,6 +715,8 @@ III. La determinación de dar o no por rescindido el contrato deberá ser debida
 
 Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio a los intereses municipales. En estos supuestos el Gobierno Municipal reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2008)</small>
+
 ###### Artículo 60.
 
 La dependencia solicitante tendrá la obligación de mantener los bienes adquiridos o arrendados en condiciones apropiadas de operación y mantenimiento, así como vigilar que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados.
@@ -710,6 +724,8 @@ La dependencia solicitante tendrá la obligación de mantener los bienes adquiri
 Para los efectos del párrafo anterior, en los contratos de adquisiciones, arrendamientos o servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; en su caso, la obtención de una póliza de seguro por parte del proveedor, que garantice la integridad de los bienes hasta el momento de su entrega y, de ser necesario, la capacitación del personal que operará los equipos.
 
 La adquisición de materiales cuyo consumo haga necesaria invariablemente la utilización de equipo propiedad del proveedor podrá realizarse siempre y cuando en las bases de licitación se establezca que a quien se adjudique el contrato deberá proporcionar el citado equipo sin costo alguno para el Gobierno Municipal durante el tiempo requerido para el consumo de los materiales.
+
+La dependencia solicitante deberá de informa a la Dirección de Adquisiciones de las irregularidades encontradas en los bienes adquiridos, para poder solicitar al proveedor la garantía correspondiente.
 
 ### Capítulo Séptimo. De la Información y Verificación
 
@@ -858,3 +874,11 @@ PRESIDENTE MUNICIPAL DEL AYUNTAMIENTO
 LIC. GABRIEL ALBERTO NAVARRO RODRÍGUEZ
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE ABRIL DE 2008.
+
+PRIMERO. Las disposiciones de reformas por adición y modificación al presente reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. Envíese al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en el Periódico Oficial del Estado de Nuevo León.
