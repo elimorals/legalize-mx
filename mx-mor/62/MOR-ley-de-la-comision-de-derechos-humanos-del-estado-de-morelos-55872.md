@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-comision-de-derechos-humanos-del-estado-de-morelos-55
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-06"
-last_updated: "2007-06-06"
+last_updated: "2008-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de junio de 2007.
 
@@ -155,7 +155,9 @@ VIII. Aprobar y en su caso modificar su reglamento interno;
 
 IX. Elaborar y ejecutar programas preventivos en materia de Derechos Humanos;
 
-X. Verificar el respeto a los Derechos Humanos en el sistema penitenciario, y de readaptación social del Estado; así como todo centro de reclusión preventivo y actividades relacionadas con la Procuración de Justicia y Seguridad Pública, pudiendo realizar con la Comisión de Justicia y Derechos Humanos del Congreso del Estado, todas aquellas visitas periódicas de inspección y vigilancia a los mencionados centros de reclusión;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2008)</small>
+
+X. Verificar de oficio el respeto a los Derechos Humanos en el sistema penitenciario, y de readaptación social del Estado, así como todo centro de reclusión preventivo y actividades relacionadas con la Procuración de Justicia y Seguridad Pública, debiendo realizar de manera permanente y aleatoria, visitas de inspección y vigilancia a los centros de detención o arresto administrativo, por infracciones a Reglamentos y Bandos de Policía y Gobierno;
 
 XI. Subsanar durante el procedimiento las omisiones que se observen en la substanciación de la queja para el efecto de regularizar el procedimiento, así como en las recomendaciones o acuerdos que ordenen el archivo de la queja;
 
@@ -638,3 +640,15 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+EN UN TÉRMINO NO MAYOR A 60 DÍAS HÁBILES, LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO ELÁBORARÁ UN PROGRAMA DE VISITAS DE SUPERVISIÓN Y VIGILANCIA A LOS CENTROS DE DETENCIÓN A QUE SE REFIERE LA PRESENTE REFORMA.
+
+###### ARTÍCULO SEGUNDO.
+
+LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO OFICIAL DE DIFUSIÓN DEL GOBIERNO DEL ESTADO.
