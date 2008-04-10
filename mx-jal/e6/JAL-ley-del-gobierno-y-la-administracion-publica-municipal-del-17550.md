@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2008-04-03"
+last_updated: "2008-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -785,9 +785,9 @@ Son facultades de los Ayuntamientos:
 
 I. Proponer ante el Congreso del Estado, iniciativas de leyes o decretos en materias municipales;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2008)</small>
 
-II. Celebrar convenios con organismos públicos y privados tendientes a la realización de obras de interés común, siempre que no corresponda su realización al Estado;
+II. Celebrar convenios con organismos públicos y privados tendientes a la realización de obras de interés común, siempre que no corresponda su realización al Estado, así como celebrar contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios o funciones, en los términos establecidos en la legislación que regula la materia;
 
 III. Adquirir bienes en cualquiera de las formas previstas por la Ley;
 
@@ -801,7 +801,7 @@ V. Celebrar convenios con el Poder Ejecutivo del Estado a fin de que éste, de m
 
 VI. Celebrar convenios de coordinación y asociación con otros Municipios para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
 
 Tratándose de la asociación de los municipios de dos o más Estados, deben contar con la aprobación de las legislaturas de los estados respectivas;
 
@@ -2626,3 +2626,13 @@ TERCERO.- En lo conducente, cuando en las disposiciones legales o administrativa
 P.O. 3 DE ABRIL DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE ABRIL DE 2008.
+
+PRIMERO. El presente decreto tendrá vigencia treinta días después de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado deberá publicar el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Jalisco en un plazo que no deberá exceder de ciento veinte días contados a partir de la fecha de su entrada en vigor.
+
+TERCERO. Los gobiernos municipales podrán expedir sus propios reglamentos o, en su defecto, aplicarán el Reglamento estatal en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios ordenamientos jurídicos.
+
+CUARTO. No se podrán celebrar contratos de asociación público-privada, tratándose de proyectos cuya programación, presupuestación, adjudicación o contratación se haya iniciado antes de la entrada en vigor de este decreto.
