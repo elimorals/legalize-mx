@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "2007-12-07"
+last_updated: "2008-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -91,17 +91,17 @@ VII.- Los prestadores de servicios de seguridad privada y otros auxiliares en se
 
 VIII.- Otras autoridades relacionadas con la seguridad pública.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+(REFORMADO, P.O. 10 DE ABRIL DE 2008) (F. DE E., P.O. 18 DE ABRIL DE 2008)
 
-Las autoridades competentes del Estado dictarán las medidas conducentes para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador, Secretario General de Gobierno, Secretario de Seguridad Pública, el Procurador General de Justicia, Subsecretario de Protección Ciudadana, Subprocurador del Ministerio Público y Director General de la Agencia Estatal de Investigaciones.
+Las autoridades competentes del Estado dictarán las medidas conducentes para brindar los elementos necesarios para la protección que en su caso resulte necesaria para los siguientes servidores públicos estatales: Gobernador, Secretario General de Gobierno, Secretario de Seguridad Pública, Procurador General de Justicia, Subsecretario de Protección Ciudadana, Subprocurador del Ministerio Público, Director General de la Agencia Estatal de Investigaciones, Director de Averiguaciones Previas, Agentes del Ministerio Público de la Procuraduría General de Justicia en el Estado; Presidente y Magistrados de las Salas de lo Penal, Jueces de lo Penal y Jueces Mixtos del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2008)</small>
 
-Las autoridades de Seguridad Preventiva de los municipios dictarán las medidas conducentes para brindar la protección necesaria a los Secretarios de la Policía Preventiva Municipal o Titular de la Policía Municipal y a los Directores o Subdirectores operativos, por lo que se efectuarán las previsiones necesarias en el presupuesto anual del Municipio correspondiente.
+Las autoridades de Seguridad Preventiva de los Municipios dictarán las medidas conducentes para brindar los elementos que en su caso resulten necesarios para la protección de los Secretarios de la Policía Preventiva Municipal o Titular de la Policía Municipal y a los Directores o Subdirectores operativos, por lo que se efectuarán las previsiones necesarias en el presupuesto anual del Municipio correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2008)</small>
 
-Los servidores públicos señalados en los párrafos anteriores tendrán derecho a que las Instituciones de Seguridad Pública del Estado o del Municipio, según corresponda, otorguen protección a su integridad física, de su cónyuge y de su familia en la línea ascendente hasta en primer grado y la línea descendente hasta en un segundo grado durante el ejercicio de su encargo y hasta los dos años siguientes a la conclusión del mismo, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
+Los servidores públicos señalados en los párrafos anteriores tendrán derecho a que las Instituciones de Seguridad Pública del Estado o del Municipio, según corresponda conforme al Reglamento que para tal efecto emita el Titular del Poder Ejecutivo o el Ayuntamiento respectivo, les otorguen protección a su integridad física, de su cónyuge y de su familia en la línea ascendente hasta en primer grado y la línea descendente hasta en un segundo grado durante el ejercicio de su encargo y al menos los dos años siguientes a la conclusión del mismo, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
 
 ###### Artículo 5o.
 
@@ -1282,3 +1282,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los Ayuntamientos pertenecientes a la zona Norte, que está comprendida por los Municipios de Abasolo, Agualeguas, Los Aldabas, Anáhuac, Bustamante, El Carmen, Cerralvo, Ciénega de Flores, China, Dr. Coss, Dr. González, Gral. Bravo, Gral. Treviño, Gral. Zuazua, Los Herrera, Higueras, Lampazos de Naranjo, Marín, Melchor Ocampo, Mina, Parás, Pesquería, Los Ramones, Sabinas de Hidalgo, Salinas Victoria, Hidalgo, Vallecillo y Villaldama, así como los Ayuntamientos pertenecientes a la zona Sur, que comprende los Municipios de Allende, Arramberri, Dr. Arroyo, Galeana, Gral. Terán, Gral. Zaragoza, Hualahulses, Iturbide, Linares, Mier y Noriega, Montemorelos y Rayones, deberán elegir por mayoría absoluta a sus respectivos representantes, mediante reunión extraordinaria que para tal fin deberá convocar el Presidente del Consejo de Coordinación de Seguridad Pública del Estado en un plazo no mayor de 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- La reforma contenida en el presente Decreto se expide sin demérito de lo dispuesto en el Título Segundo, Capítulo Segundo de esta Ley, y en tal sentido los Municipios de cualquier zona podrán seguir ejerciendo las facultades que les otorga el Capítulo en cita.
+
+P.O. 10 DE ABRIL DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- El Ejecutivo del Estado, así como los Ayuntamientos de la entidad, en el ámbito de sus respectivas competencias, deberán expedir el Reglamento para la asignación de protección a los servidores públicos a que hace referencia en el Artículo 4° de la Ley del Sistema de Seguridad Pública del Estado de Nuevo León en un plazo no mayor de 90 días naturales.
