@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2007-12-29"
+last_updated: "2008-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2008.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -327,13 +327,17 @@ XII. Plantillas de personal por jornada y por nivel;
 
 XIII. Sueldo y demás prestaciones económicas asignadas a cada una de las plazas presupuestales, con inclusión de aquellas que ocupen los titulares de las dependencias o entidades de que se trate;
 
-> <small>(REFORMADA P.O. 24 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2008)</small>
 
-XIV. Programas de obra pública o similar que detalle proyectos de obra, su ubicación, el costo por cada una y el número de habitantes que se verán beneficiados, así como la cantidad asignada para cada caso en el Presupuesto de Egresos; y
+XIV. Programas de obra pública o similar que detalle proyectos de obra, su ubicación, el costo por cada una y el número de habitantes que se verán beneficiados, así como la cantidad asignada para cada caso en el Presupuesto de Egresos;
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2008)</small>
 
-XV. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+XV. Situación que guardan las obligaciones de pago derivadas de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios que en ejercicios anteriores fueron autorizados por el Congreso del Estado; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2008)</small>
+
+XVI. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -365,11 +369,17 @@ VI. Inversión Pública del Estado;
 
 VII. Inversiones Financieras;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2008)</small>
 
-VIII. Participaciones y aportaciones a municipios; y
+VIII. Participaciones y aportaciones a municipios;
 
-IX. Deuda Pública.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2008)</small>
+
+IX. Deuda Pública; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2008)</small>
+
+X. Obligaciones derivadas de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios, su amortización y erogaciones contingentes que se deriven de los mismos.
 
 Los anteriores capítulos se dividirán, a su vez, en partidas que representarán las autorizaciones específicas del presupuesto, en la forma que determinen los manuales e instructivos a que alude el artículo 25 de esta ley.
 
@@ -525,11 +535,11 @@ La Secretaría, autorizará previamente, los pagos o erogaciones de fondos que d
 
 La Secretaría examinará y autorizará dentro de los límites presupuestales, los contratos y demás actos que impongan obligaciones pecuniarias para el Estado.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2008)</small>
 
 ###### Artículo 56.
 
-La Secretaría deberá examinar, autorizar y registrar los créditos a cargo del Estado y los que avale a los Municipios, Entidades o particulares, de acuerdo con lo establecido por la Ley de Deuda Pública del Estado de Jalisco y sus Municipios.
+La Secretaría deberá examinar, autorizar y registrar los créditos a cargo del Estado y los que avale a los municipios, entidades o particulares, así como las obligaciones que se deriven de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios, de acuerdo con lo establecido por la Ley de Deuda Pública del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 57.
 
@@ -1032,3 +1042,13 @@ P.O. 11 DE SEPTIEMBRE DE 2007.
 P.O. 29 DE DICIEMBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE ABRIL DE 2008.
+
+PRIMERO. El presente decreto tendrá vigencia treinta días después de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado deberá publicar el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Jalisco en un plazo que no deberá exceder de ciento veinte días contados a partir de la fecha de su entrada en vigor.
+
+TERCERO. Los gobiernos municipales podrán expedir sus propios reglamentos o, en su defecto, aplicarán el Reglamento estatal en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios ordenamientos jurídicos.
+
+CUARTO. No se podrán celebrar contratos de asociación público-privada, tratándose de proyectos cuya programación, presupuestación, adjudicación o contratación se haya iniciado antes de la entrada en vigor de este decreto.
