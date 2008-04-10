@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-88966"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-27"
-last_updated: "2007-07-27"
+last_updated: "2008-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88966&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-04-25"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 10 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 27 de julio de 2007.
 
@@ -550,3 +552,19 @@ Este Estatuto entrará en vigor al día siguiente de su aprobación por la Asamb
 El presente Estatuto Orgánico será publicado de acuerdo a las instrucciones de la Asamblea General.
 
 Dado en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de abril de dos mil siete, en cumplimiento del Acuerdo 1309 de la nonagésima segunda sesión ordinaria de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.- El Secretario General, Carlos Acedo Valenzuela.- Rúbrica.- El Prosecretario General, Carlos Gabriel Maury González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE ABRIL DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto Orgánico abroga el aprobado mediante Acuerdo 1309 de la sesión ordinaria número 92 de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, celebrada el día 25 de abril de 2007, y publicado en el Diario Oficial de la Federación el 27 de julio de 2007.
+
+###### ARTICULO SEGUNDO.
+
+Este Estatuto entrará en vigor al día siguiente de su aprobación por la Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+###### ARTICULO TERCERO.
+
+El presente Estatuto Orgánico será publicado de acuerdo a las instrucciones de la Asamblea General.
