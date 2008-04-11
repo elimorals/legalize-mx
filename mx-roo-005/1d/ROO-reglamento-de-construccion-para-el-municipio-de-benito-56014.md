@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-construccion-para-el-municipio-de-benito-56014"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-25"
-last_updated: "2007-04-25"
+last_updated: "2008-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 REGLAMENTO DE CONSTRUCCION PARA EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2008.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de abril de 2007.
 
@@ -329,31 +329,73 @@ l) Acordar las medidas que fueran procedentes en relación con las edificaciones
 
 m) Autorizar o negar, la ocupación o el uso de una estructura, instalación, edificio o construcción.
 
-n) Aplicar las sanciones y medidas de seguridad previstas en las disposiciones del presente Reglamento.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-o) Proponer en el ámbito de su competencia, reformas y adiciones a los reglamentos municipales de su competencia.
+n) Ejecutar con cargo a los responsables, las obras que hubiera ordenado realizar y que los propietarios en rebeldía no las hayan llevado a cabo.
 
-p) Proponer al Presidente Municipal el proyecto de su Reglamento Interior.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-q) Instrumentar en el ámbito de su competencia, y en coordinación con la Dirección de Transporte y Vialidad del Municipio, las acciones encaminadas a mejorar la vialidad en lo referente a la ingeniería de tránsito y llevar a cabo los estudios para determinar medidas técnicas y operacionales de los medios de transporte urbano en el territorio municipal, con el objetivo de que se complementen entre sí y con las obras de infraestructura vial.
+o) Ordenar la suspensión temporal o la clausura de obras de ejecución o terminadas y la desocupación en los casos previstos en el presente Reglamento.
 
-r) Elaborar, en coordinación con la Dirección de Transporte y Vialidad del Municipio, los estudios que contribuyan a determinar la ubicación, construcción y el funcionamiento de los estacionamientos públicos.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-s) Establecer conforme a las disposiciones jurídicas aplicables, y en coordinación con la Dirección de Transporte y Vialidad del Municipio, las normas técnicas y administrativas a que debe sujetarse la instalación y construcción de sitios, paraderos, bahías de ascenso y descenso de pasajeros, terminales, encierros de los vehículos, así como para la señalización del servicio público de transporte de pasajeros en ruta establecida.
+p) Ordenar y ejecutar demoliciones de edificaciones en los casos previstos en este Reglamento.
 
-t) Autorizar, con la anuencia de la Dirección de Transporte y Vialidad, la instalación de mobiliario urbano en los paraderos, bahías de ascenso y descenso de pasajeros, sitios y terminales, previa concesión aprobada por el Ayuntamiento;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-u) Autorizar la expedición de la licencia de construcción de obras públicas y privadas que afecten el área de rodamiento, los accesos y salidas a vialidades primarias y de distribución, pasos peatonales, semaforización y señalización, previa anuencia de la Dirección de Transporte y Vialidad del Municipio.
+q) Imponer las sanciones y medidas de seguridad previstas en las disposiciones del presente Reglamento.
 
-v) Elaborar en coordinación con las Direcciones de Transporte y Vialidad y de la Policía Preventiva, Tránsito y Bomberos, los estudios que contribuyan a determinar la normatividad del señalamiento horizontal y vertical de la red vial y de los dispositivos de control del tránsito vehicular y peatonal en el Municipio.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-w) Coordinar con las autoridades federales y estatales la realización de actividades relativas a la ingeniería del transporte y al señalamiento de la vialidad.
+r) Solicitar el uso de la fuerza pública cuando fuere necesario para hacer cumplir sus determinaciones.
 
-x) Impulsar y promover los trabajos de conservación de las obras públicas.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-y) Promover y supervisar acciones de protección, conservación, reforestación, fomento, vigilancia y aprovechamiento racional, equilibrado y sustentable de los recursos naturales.
+s) Proponer en el ámbito de su competencia, reformas y adiciones a los reglamentos municipales de su competencia.
 
-z) Las demás que establezcan las disposiciones legales y reglamentarias aplicables así como aquellas que acuerde el Ayuntamiento o le sean encomendadas por el Presidente Municipal.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+t) Proponer al Presidente Municipal el proyecto de su Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+u) Instrumentar en el ámbito de su competencia, y en coordinación con la Dirección de Transporte y Vialidad del Municipio, las acciones encaminadas a mejorar la vialidad en lo referente a la ingeniería de tránsito y llevar a cabo los estudios para determinar medidas técnicas y operacionales de los medios de transporte urbano en el territorio municipal, con el objetivo de que se complementen entre sí y con las obras de infraestructura vial.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+v) Elaborar, en coordinación con la Dirección de Transporte y Vialidad del Municipio, los estudios que contribuyan a determinar la ubicación, construcción y el funcionamiento de los estacionamientos públicos.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+w) Establecer conforme a las disposiciones jurídicas aplicables, y en coordinación con la Dirección de Transporte y Vialidad del Municipio, las normas técnicas y administrativas a que debe sujetarse la instalación y construcción de sitios, paraderos, bahías de ascenso y descenso de pasajeros, terminales, encierros de los vehículos, así como para la señalización del servicio público de transporte de pasajeros en ruta establecida.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+x) Autorizar, con la anuencia de la Dirección de Transporte y Vialidad, la instalación de mobiliario urbano en los paraderos, bahías de ascenso y descenso de pasajeros, sitios y terminales, previa concesión aprobada por el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+y) Autorizar la expedición de la licencia de construcción de obras públicas y privadas que afecten el área de rodamiento, los accesos y salidas a vialidades primarias y de distribución, pasos peatonales, semaforización y señalización, previa anuencia de la Dirección de Transporte y Vialidad del Municipio.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+z) Elaborar en coordinación con las Direcciones de Transporte y Vialidad y de la Policía Preventiva, Tránsito y Bomberos, los estudios que contribuyan a determinar la normatividad del señalamiento horizontal y vertical de la red vial y de los dispositivos de control del tránsito vehicular y peatonal en el Municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+aa) Coordinar con las autoridades federales y estatales la realización de actividades relativas a la ingeniería del transporte y al señalamiento de la vialidad.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+bb) Impulsar y promover los trabajos de conservación de las obras públicas.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+cc) Promover y supervisar acciones de protección, conservación, reforestación, fomento, vigilancia y aprovechamiento racional, equilibrado y sustentable de los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+dd) Las demás que establezcan las disposiciones legales y reglamentarias aplicables así como aquellas que acuerde el Ayuntamiento o le sean encomendadas por el Presidente Municipal.
 
 ARTÍCULO 4
 
@@ -367,9 +409,21 @@ III. Colegio de Ingenieros Civiles de Quintana Roo Zona Norte, A. C.;
 
 IV. Cámara Mexicana de la Industria de la Construcción Delegación Quintana Roo;
 
-V. Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda Delegación Quintana Roo, y
+V. Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda Delegación Quintana Roo, y (sic)
 
-VI. Sociedad Mexicana de Ingeniería Estructural Representación en Quintana Roo, A. C.
+VI. Sociedad Mexicana de Ingeniería Estructural Representación en Quintana Roo, A. C;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+VII. Director del Instituto de Planeación de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+VIII. Colegio de Ingenieros Mecánicos y Electricistas de Quintana Roo, A. C.;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+IX. Sociedad Mexicana de Ingeniería Estructural Representación en Quintana Roo, A. C.
 
 El Consejo podrá ampliarse con los representantes de asociaciones profesionales, organismos o instituciones afines a la construcción que la Dirección o este Consejo considere oportuno invitar.
 
@@ -517,9 +571,321 @@ No se permitirá colocar postes o instalaciones en aceras, cuando con ello se im
 
 ### CAPITULO IV. NOMENCLATURA Y NÚMERO OFICIAL
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ARTÍCULO 25
 
-El Ayuntamiento establecerá la nomenclatura oficial para la denominación de las vías públicas, parques, jardines, plazas, barrios y Colonias en el Municipio.
+El Ayuntamiento establecerá la nomenclatura oficial para la denominación de las vías públicas, parques, jardines, plazas, barrios y colonias en el Municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 25
+
+ARTICULO 25-A
+
+Para los efectos de Nomenclatura en el presente Reglamento se entenderá por:
+
+a) Consejo.- Consejo Consultivo de Nomenclatura del Municipio.
+
+b) Jefatura de Nomenclatura.- Al departamento de Nomenclatura adscrito a la Dirección de Imagen Urbana de la Dirección General de Desarrollo Urbano del Municipio.
+
+c) Familia temática.- Aquel conjunto de nombres que compartan un mismo tema.
+
+d) Nomenclator.- La lista de nombres de calles, vialidades, plazas, espacios públicos, parques, jardines, plazas, barrios y colonias del Municipio.
+
+e) Nomenclatura.- Definición de nombres, colocación de placas y los señalamientos en las calles y vialidades, que permiten su localización y orientación del tránsito ciudadano.
+
+f) Cartografía Básica.- Cartografía Básica de Nomenclatura, que comprende el conjunto de acciones para la elaboración de mapas que contengan la nomenclatura de los espacios públicos del Municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+B
+
+La Cartografía Básica y el Nomenclator serán actualizados cada año mediante su aprobación por el Ayuntamiento y hasta entonces serán oficiales y vigentes para cualquier aclaración, certificación o asignación de nomenclatura que se requiera.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+CULO 25-C
+
+Se crea el Consejo Consultivo de Nomenclatura del Municipio para revisar, evaluar, corregir y proponer la nomenclatura de las calles, vialidades y los espacios públicos del Municipio.
+
+En este Consejo participarán los principales representantes de los sectores sociales y empresariales del Municipio, con el propósito general de promover la regularización de la nomenclatura de calles y señalamientos de las vías públicas en el Municipio.
+
+El Consejo se integrará por los siguientes miembros:
+
+I. Un Presidente, que será el Director General de Desarrollo Urbano;
+
+II. Un Secretario Técnico, que será el Jefe de Departamento de Nomenclatura;
+
+III. El Regidor Presidente de la Comisión de Desarrollo Urbano y Transporte del Ayuntamiento;
+
+IV. El Regidor Presidente de la Comisión de Mejora Regulatoria del Ayuntamiento;
+
+V. Con el carácter de vocales permanentes, fungirán:
+
+a) El Director de Planeación y Desarrollo Económico del Municipio;
+
+b) El Director General de Obras Públicas;
+
+c) El Director General se (sic) Servicios Públicos Municipales;
+
+d) El Director de Catastro;
+
+e) El Coordinador de Delegaciones;
+
+f) El Director del IMPLAN;
+
+VI. Así como los vocales especiales que para tal efecto sean invitados a las sesiones de dicho Consejo, pudiendo tener ese carácter los siguientes:
+
+a) El Delegado del Registro Público de la Propiedad y del Comercio en el Municipio;
+
+b) El Delegado de la Comisión de Agua Potable y Alcantarillado de Benito Juárez, Quintana Roo;
+
+c) Un representante de Teléfonos de México;
+
+d) Un representante del Servicio Postal Mexicano.
+
+Los cargos de los integrantes del Consejo son honoríficos y se podrá invitar a las sesiones del Consejo, de manera específica, a otros titulares de dependencias u organismos, federales, estatales y municipales, regidores, diputados, especialistas, representantes de Universidades, Institutos y demás Colegios de otros profesionistas u otros representantes de los sectores económicos y de la sociedad en general, para que aporten sus experiencias y conocimientos en temas específicos de nomenclatura y señalización.
+
+Los integrantes del Consejo podrán nombrar a sus representantes para asistir a las sesiones del mismo.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+D
+
+El Consejo Consultivo de Nomenclatura tendrá las siguientes funciones:
+
+I. Solicitar a la Jefatura de Nomenclatura la realización de estudios especiales en la materia.
+
+II. Canalizar a la Jefatura de Nomenclatura las propuestas de denominación que haga la ciudadanía, para su evaluación técnica correspondiente.
+
+III. Proponer a la Presidencia Municipal y al Ayuntamiento las correcciones a la nomenclatura existente a fin de que se ejecuten los programas de colocación de placas correspondientes.
+
+IV. En función de los estudios de evaluación y las propuestas de corrección que elabore la Jefatura de Nomenclatura, el Consejo evaluará y recomendará a la Presidencia Municipal o al Ayuntamiento la secuencia de ejecución del Programa Operativo Anual de Colocación de Placas de Nomenclatura.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+E
+
+Son atribuciones del (sic) los miembros del Consejo, las siguientes:
+
+I. Del Presidente:
+
+a) Presidir y conducir las sesiones del Consejo;
+
+a) (sic) Firmar, en forma conjunta con los vocales del Consejo, los acuerdos que se tomen;
+
+b) Vigilar el cumplimiento de este reglamento;
+
+c) Calendarizar, en coordinación con los miembros del Consejo, la fecha y hora en que se celebrarán las reuniones de trabajo;
+
+d) Encomendar al Secretario Técnico la elaboración de estudios o iniciativas legales relacionadas con los casos que sean presentados en el Consejo;
+
+e) Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
+
+II. Del Secretario Técnico las siguientes:
+
+a) Convocar, a solicitud del Presidente, a los miembros del Consejo de manera oportuna a las sesiones correspondientes;
+
+b) Elaborar la propuesta de orden del día de cada sesión, dando seguimiento a los casos que se presenten y agregar los nuevos temas o asuntos que involucren la participación de los vocales;
+
+c) Levantar las actas de cada sesión del Consejo;
+
+d) Dar seguimiento a los acuerdos y propuestas que surjan en las reuniones ordinarias y extraordinarias del Consejo;
+
+e) Rendir informe por escrito a los miembros del Consejo en cada reunión que se lleve a cabo, sobre los avances y asuntos pendientes relacionados con las atribuciones del Consejo;
+
+f) Difundir las acciones, compromisos y logros obtenidos por el Consejo y sus grupos de trabajo, y
+
+g) Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
+
+III. De los vocales permanentes del Consejo:
+
+a) Asistir a las reuniones a las que fueran convocados por sí o por un representante debidamente acreditado;
+
+b) Presentar propuestas relacionadas con el objetivo general y las atribuciones del Consejo;
+
+c) Colaborar en la elaboración de los estudios, proyectos e iniciativas cuya elaboración sea acordada en el Consejo;
+
+d) Participar de manera directa o por medio de representante, en las reuniones de los grupos de trabajo que se formen para cumplir con los objetivos del Consejo, y
+
+e) Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+F
+
+El Consejo tendrá dos tipos de sesiones: ordinarias y extraordinarias. Las sesiones ordinarias del Consejo se llevarán a cabo bimestralmente y de conformidad con un calendario anual aprobado por el mismo al principio del año.
+
+El Presidente podrá convocar a sesiones extraordinarias cuando la importancia de las acciones de nomenclatura a evaluar así lo requiera.
+
+Los citatorios a las sesiones ordinarias acordadas para el año en curso serán por escrito y con una antelación de ocho días de calendario a la fecha programada. Los citatorios a las sesiones extraordinarias serán también por escrito y con una antelación de quince días calendario de la fecha requerida para este fin.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+G
+
+En las sesiones ordinarias, se requiere de una asistencia mínima de la mitad más uno de los integrantes del Consejo para que haya quórum. En caso de no haberlo, se citará para una nueva fecha que se considerara como sesión extraordinaria. Las sesiones extraordinarias serán validas con la asistencia de la mayoría de sus miembros.
+
+Todos los miembros del Consejo tendrán derecho a voz y voto, excepto los vocales que asistan con el carácter de especiales, y la aprobación de acuerdos de evaluaciones y propuestas del Consejo será por mayoría de votos de sus asistentes. En caso de empate, el Presidente del Consejo tendrá un voto de calidad.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+H
+
+Los acuerdos de las sesiones ordinarias y extraordinarias del Consejo, se enviarán por conducto del Presidente del Consejo a la Comisión de Desarrollo Urbano del Ayuntamiento para que, en su caso, sean sometidas a la consideración del Ayuntamiento en la siguiente sesión ordinaria y en su oportunidad turnadas a las autoridades competentes para su ejecución correspondiente.
+
+La aprobación o modificación de propuestas específicas de nomenclatura en sesiones ordinarias o extraordinarias del Consejo deberán ser efectuadas durante la misma sesión en que se presenten.
+
+Tanto las propuestas de acciones preventivas como correctivas se integrarán a un archivo del Consejo que deberá mantenerse en la Dirección para consultas o aclaraciones posteriores.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+I
+
+La Jefatura de Nomenclatura deberá realizar las evaluaciones, los estudios y diagnósticos de nomenclatura, así como aquellos que en particular le encomiende el Consejo a efecto de presentar las propuestas técnicas de nomenclatura.
+
+Las propuestas técnicas de nomenclatura podrán ser:
+
+I. Preventivas, cuando establezcan criterios de normatividad que permitan un desarrollo armónico de la nomenclatura de la ciudad.
+
+II. Correctivas, cuando definan acciones de modificación a nombres de calles, de espacios públicos y/o colonias necesarios para la regularización de la nomenclatura de la ciudad.
+
+Para el caso de las acciones preventivas será necesario presentar un diagnóstico de la problemática que se desea resolver, así como una descripción de la normatividad propuesta y sus impactos posibles en la nomenclatura general del Municipio.
+
+Para las acciones correctivas será necesario presentar tanto la situación actual específica de nombres de calles, espacios públicos y/o colonias, como el cambio propuesto. La problemática de la situación actual y el impacto del cambio propuesto deberán enmarcarse en el contexto general de la nomenclatura y del avance de su programa de regularización.
+
+Así mismo (sic), será necesario incluir siempre dos planos de ubicación, tamaño carta, escala variable, que presenten la situación actual y la situación deseada a efecto de integrar la Cartografía Básica. De igual manera deberá adjuntarse una breve descripción del diccionario toponímico para ambos casos y las razones de regularización que motivaron esta propuesta.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+J
+
+El Procedimiento de la Nomenclatura del Municipio, se sujetará a las siguientes bases:
+
+I. La nomenclatura de las vías y espacios públicos del Municipio de Benito Juárez, deberá ser nominal o restringida al uso de nombres propios, evitándose la denominación cartesiana o numérica.
+
+II. No deberán existir calles sin nombre, y cada calle deberá contar con placas nomenclatoras que la identifiquen plenamente.
+
+III. Se deberá mantener el patrimonio cultural de los nombres tradicionales o históricos del Municipio.
+
+IV. Una misma calle no podrá tener dos nombres distintos.
+
+V. Dos calles diferentes no podrán compartir el mismo nombre.
+
+VI. Cuando sea posible, se asignará una familia temática a los nombres de las calles de colonias, fraccionamientos o desarrollos que conformen una zona homogénea, claramente reconocible como tal, dentro del área urbana.
+
+VII. Cuando se desarrollen nuevas colonias o fraccionamientos, no se deberán elegir familias temáticas ya existentes, ni podrán ser usados nombres de vialidades y espacios públicos que ya existan y aparezcan en el Nomenclator.
+
+VIII. Se deberá uniformizar la denominación vial: boulevard, malecón, calzada, avenida, calle, privada y andador a fin de que estos conceptos correspondan con la jerarquía vial de la ciudad.
+
+IX. Las vialidades primaria y secundaria deberán tener un solo nombre a todo lo largo de sus cauces respectivos.
+
+X. Para las nuevas vialidades o espacios públicos se asignarán siempre nombres nuevos no existentes en el Nomenclator de la ciudad, evitando siempre asignar nombres diferentes para cada lado del cauce de una misma calle, aun cuando esta tenga un amplio camellón o un espacio verde intermedio.
+
+XI. En el caso de que las calles o vialidades sufran incrementos, extensiones o prolongaciones, se continuarán con los nombres de las calles originales.
+
+XII. Cuando el cauce de una misma calle tenga nombres diferentes, se uniformizará su nomenclatura mediante el uso de uno solo de sus nombres actuales para toda la longitud de la calle, o mediante la asignación de un nuevo nombre que la identifique en toda su extensión.
+
+XIII. Se deberá hacer referencia a los lugares geográficos, sitios y monumentos de valor histórico o cultural, reforzando la costumbre de referencia popular de los lugares, las calles y los espacios públicos de la ciudad.
+
+XIV. Con el fin de no generar confusión en la correcta ubicación de los espacios públicos y privados, y en los predios urbanos, deberán evitarse:
+
+a) La repetición de nombres y números oficiales;
+
+b) La incongruencia entre la nomenclatura y la estructura urbana de la ciudad; y
+
+c) La incongruencia entre las series de números oficiales, ya sea por cruzamiento, omisiones o saltos en su secuencia.
+
+XV. En la solución de casos repetidos de nomenclatura, permanecerán en primer lugar aquellos nombres que contribuyan a reforzar la estructura urbana, y después aquellos que cuenten con una historia o tradición más importante.
+
+XVI. En la solución de conflictos de repetición de nombres se buscará unificar y reforzar las familias temáticas.
+
+XVII. En el caso de dos o más colonias que compartan la misma familia temática, se resolverá diferenciar la nomenclatura de las calles y los espacios públicos coincidentes mediante la adición del nombre de las colonias a la nomenclatura de todas sus calles y espacios públicos.
+
+XVIII. Para cambios de nombres repetidos en vialidades, se modificará, en orden de prioridad descendente: primero aquella ubicación menos céntrica, después aquella con una menor longitud, y por último, la de menor importancia en la jerarquía vial.
+
+XIX. Se procurará recordar a los ciudadanos benitojuarenses o quintanarroenses distinguidos fallecidos, e incluso de personajes prehispánicos, evitando aceptar propuestas de nombres de persona que aun vivan o hayan fallecido recientemente.
+
+XX. La nomenclatura de asentamientos irregulares será definida al momento de su regularización.
+
+XXI. La subdivisión de predios ocasionará la asignación de nuevos números oficiales para cada una de las fracciones resultantes. Cuando sea posible, la numeración para cada uno completará la serie correspondiente entre los dos números oficiales vecinos; en caso contrario se asignarán repeticiones del numero oficial del predio con la adición de una letra sucesiva a partir de la “A”.
+
+XXII. Un mismo predio no podrá tener dos números oficiales distintos y dos predios diferentes no podrán tener el mismo número oficial. Para resolver la incongruencia en las series de números oficiales se tomará en cuenta el lote mínimo reglamentario como módulo para subdividir y asignar una serie completa y coherente de números oficiales a todos los predios de ambas aceras de una calle. Cuando esto no sea posible, se utilizarán letras sucesivas, a partir de “A,” para distinguir los números repetidos.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+K
+
+La Jefatura de Nomenclatura mantendrá y reforzará la congruencia de la nomenclatura de la ciudad cuando expida los alineamientos y números oficiales, las autorizaciones de fraccionamientos, las subdivisiones, las fusiones y las relotificaciones.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+LO 25-L
+
+La Jefatura de Nomenclatura verificará que la señalización de la Nomenclatura del Municipio sea siempre suficiente para orientar a la ciudadanía y para identificar con facilidad los distintos componentes de la traza urbana.
+
+La Jefatura de Nomenclatura se encargará de mantener un inventario de las placas nomenclaturas existentes, definir el diseño de las placas por instalar, y supervisar su fabricación, adquisición, colocación y mantenimiento, para:
+
+I. El Centro de la Ciudad.
+
+II. La Zona Hotelera.
+
+III. La Zona Periférica de la Ciudad.
+
+Las especificaciones de fabricación para las distintas placas de nomenclatura, medidas, forma y características topográficas, serán fijadas por la Jefatura de Nomenclatura, observando preferentemente uniformidad en las mismas.
+
+La Jefatura de Nomenclatura, podrá variar estas especificaciones, por causa justificada procurando respetar la uniformidad por cada zona y el carácter, y el perfil arquitectónico urbano.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+M
+
+En cada intersección de calles se colocarán dos placas nomenclatoras por calle.
+
+Las placas se fijarán entre dos y tres metros de altura, en la ubicación con mas visibilidad y su colocación podrá ser:
+
+a) En las construcciones que se encuentren en las esquinas.
+
+b) Cuando esto no sea posible, se instalarán en los postes que ahí hubiere.
+
+c) En caso de no haberlos, se instalará un poste especial para sostener las placas nomenclaturas que se encuentren sobre vialidades primarias y secundarias.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 25
+
+N
+
+El Ayuntamiento podrá concesionar a particulares la colocación de placas nomenclatoras y su utilización con fines publicitarios, cubriendo los requisitos de diseño, medidas y especificaciones de fabricación establecidas por la Ley de los Municipios, el Bando de Gobierno y Policía del Municipio, este Reglamento y por el contrato de concesión respectivo.
+
+Las concesiones que (sic) se refiere el párrafo anterior podrán ser revocadas por el Ayuntamiento, por las causales de revocación y caducidad que para las concesiones que señala la Ley de los Municipios del Estado, el Bando de Gobierno y Policía del Municipio, este Reglamento o que se establezcan en la propia concesión.
+
+En la concesión respectiva, se consignará que el 20% de la publicidad empleada en las placas nomenclatoras se destine a la difusión de programas públicos municipales y se deberá consignar, además la prohibición para que la publicidad adherida a las placas promueva el consumo de tabaco y bebidas alcohólicas, productos nocivos o propaganda de partidos políticos.
 
 ARTÍCULO 26
 
@@ -549,7 +915,9 @@ En el expediente de cada predio se conservará copia de la Constancia del Alinea
 
 ARTÍCULO 31
 
-La Dirección expedirá un documento que consigne, a solicitud del propietario o poseedor, Constancias sobre Uso del Suelo, Alineamiento y/o Número Oficial. Dicho documento tendrá una vigencia de 180 días naturales contados a partir del día siguiente de su expedición.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+La Dirección expedirá documentos que consignen, a solicitud del propietario o poseedor, Constancias sobre Uso del Suelo, Alineamiento y/o Número Oficial. Dicho documento tendrá una vigencia de un año contado a partir del día siguiente de su expedición.
 
 Si entre la expedición de las constancias vigentes a que se refiere el artículo anterior y la presentación de la solicitud de Licencia de Construcción se hubiere modificado el Alineamiento en los términos del artículo 29 de este Reglamento, el proyecto de construcción deberá ajustarse a los nuevos requerimientos.
 
@@ -697,9 +1065,15 @@ VIII. Entregar al propietario, una vez concluida la obra:
 
 a) El aviso de terminación de obra;
 
-b) El acta de recepción expedida por la Dirección de Desarrollo Urbano, y
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-c) Todos los planos de las licencias registrados del proyecto durante el proceso de la obra en original y las memorias de cálculo.
+b) El acta de recepción expedida por la Dirección de Desarrollo Urbano;
+
+c) Todos los planos de las licencias registrados del proyecto durante el proceso de la obra en original y las memorias de cálculo;
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+a) (sic) Verificar que al término de la obra el propietario cuente con los planos definitivos actualizados, es decir con las adecuaciones o modificaciones realizadas al proyecto original, así como las memorias de cálculo respectivas.
 
 IX. Refrendar su registro de Director Responsable de Obra cada 3 años, y cuando le determine el Ayuntamiento por modificaciones al Reglamento, Anexos o a las Normas Técnicas Complementarias.
 
@@ -727,7 +1101,9 @@ I. Corresponsable en Seguridad Estructural, para las obras de los grupos A y B1 
 
 II. Corresponsable en Diseño Urbano y Arquitectónico, para los siguientes casos: Conjuntos habitacionales, hospitales, clínicas y centros de salud, instalaciones para exhibiciones, baños públicos, estaciones y terminales de transporte terrestre, aeropuertos, estudios cinematográficos y de televisión y espacios abiertos de uso público de cualquier magnitud. Las edificaciones ubicadas en zonas del patrimonio histórico, artístico y arqueológico de la Federación o del Estado y el resto de las edificaciones que tengan más de 1000 m2 cubiertos o más de 16 m de altura, sobre nivel medio de banqueta, o con capacidad para más de 250 concurrentes en locales cerrados, o más de 1000 concurrentes en locales abiertos.
 
-III. Corresponsables en instalaciones para los siguientes casos: los conjuntos habitacionales, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hoteles y hospitales, clínicas y centros de salud, instalaciones para exhibiciones, crematorios, aeropuertos, agencias y centrales de telégrafos y teléfonos, estaciones de radio y televisión, estudios cinematográficos, industria pesada y mediana, plantas, estaciones y subestaciones, cárcamos y bombas, circos y ferias de cualquier magnitud, centros de diversión cerrados, salones de bailes, discotecas. El resto de las edificaciones que tengan más de 3000 m2, o más de 25 m de altura sobre el nivel de desplante o más de 250 concurrentes.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+III. Corresponsables en instalaciones para los siguientes casos: en obras de urbanización de conjuntos habitacionales, industriales, comerciales y edificación de viviendas de más de 12 m de altura o de 5 niveles o más, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hoteles y hospitales, clínicas y centros de salud, instalaciones para exhibiciones, crematorios, aeropuertos, agencias y centrales de telégrafos y teléfonos, estaciones de radio y televisión, estudios cinematográficos, industria pesada y mediana, plantas, estaciones y subestaciones, cárcamos y bombas, circos y ferias de cualquier magnitud, centros de diversión cerrados, salones de bailes, discotecas. Así como en centros y plazas comerciales de más de 600 m2. El resto de las edificaciones que tengan más de 3000 m2, o más de 25 m de altura sobre el nivel de desplante o más de 250 concurrentes.
 
 ARTÍCULO 45
 
@@ -769,7 +1145,9 @@ II. Acreditar que posee cédula profesional correspondiente a alguna de las sigu
 
 a) Para Seguridad Estructural, Diseño Urbano y Arquitectónico: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil o Ingeniero Constructor Militar.
 
-b) Para Instalaciones, además de las señaladas en el párrafo anterior: Ingeniero Mecánico, Mecánico Electricista o afines a cada disciplina.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+b) Para Instalaciones, además de las señaladas en el párrafo anterior: Ingeniero Mecánico, Electricista, Mecánico Electricista o afines a cada disciplina.
 
 III. Acreditar ante la Comisión de Admisión de Directores Responsables de Obra y Corresponsables de este Municipio, a que se refiere el artículo 48, que se conoce este Reglamento, Anexos y sus Normas Técnicas Complementarias, en lo relativo a los aspectos correspondientes a su especialidad, para lo cual deberá obtener el dictamen favorable a que se refiere el artículo 50 de este Reglamento.
 
@@ -843,11 +1221,21 @@ a) Colegio de Arquitectos Cancún, A. C.
 
 b) Colegio de Ingenieros Civiles de Quintana Roo Zona Norte, A. C.
 
-c) Cámara Mexicana de la Industria de la Construcción Delegación Quintana Roo.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-d) Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda Delegación Quintana Roo.
+c) Colegio de Ingenieros Mecánicos y Electricistas de Quintana Roo, A. C.
 
-e) Sociedad Mexicana de Ingeniería Estructural Representación en Quintana Roo, A. C.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+d) Cámara Mexicana de la Industria de la Construcción Delegación Quintana Roo.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+e) Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda Delegación Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+f) Sociedad Mexicana de Ingeniería Estructural Representación en Quintana Roo, A. C.
 
 III. Podrá ampliarse con representantes de asociaciones profesionales y otros organismos o instituciones afines a la construcción que la Dirección considere oportuno invitar.
 
@@ -973,7 +1361,9 @@ ARTÍCULO 56
 
 La solicitud de licencia de construcción será presentada en las formas que expida la Dirección de acuerdo a los requisitos señalados a continuación:
 
-I. CONSTRUCGIÓN (SIC) DE OBRA NUEVA.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
+
+I. CONSTRUCCIÓN DE OBRA NUEVA.
 
 a) Formato para obra nueva firmado por el Propietario y el D. R. O.
 
@@ -999,11 +1389,13 @@ k) Cuantificación del área total del proyecto avalado por el D. R. O.
 
 l) Presentación de Bitácora de Obra.
 
-m) Presentación de copia del Dictamen aprobatorio de Impacto Urbano para las obras consideradas en el artículo 72.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+m) Presentación de copia del Dictamen aprobatorio de Impacto Urbano para las obras consideradas en el artículo 76.
 
 En el caso de los proyectos de construcción a que se refiere la fracción IV del artículo 41 del presente Reglamento, estarán exentos de presentar los documentos a que se refieren los incisos e) y g) de la (sic) esta fracción
 
-II. LICENCIA DE AMPLIACIÓN DE OBRA
+II. LICENCIA DE AMPLIACIÓN DE OBRA:
 
 a) Formato para ampliación de obra firmado por el Propietario y el D. R. O.
 
@@ -1027,7 +1419,9 @@ j) Cuantificación del área total de la obra avalado por el D. R. O.
 
 k) Presentar Bitácora de Obra (Arriba de 60 m²).
 
-l) Presentación de copia del Dictámen aprobatorio de Impacto Urbano para las obras consideradas en el artículo 72.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+l) Presentación de copia del Dictamen aprobatorio de Impacto Urbano para las obras consideradas en el artículo 76.
 
 III. PRÓRROGA DE LICENCIA DE CONSTRUCCIÓN (Se solicitará si terminado el plazo autorizado para la construcción de una obra ésta no se hubiera concluido.)
 
@@ -1447,9 +1841,13 @@ Las edificaciones deberán contar con los espacios para estacionamientos de veh�
 
 I. Cualesquiera otras edificaciones no comprendidas en esta relación, se sujetarán a estudio y resolución por las autoridades competentes;
 
-II. La demanda total para los casos en que en un mismo predio se encuentren establecidos diferentes giros o usos, será la suma de las demandas señaladas para cada uno de ellos;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-III. Las medidas de los cajones de estacionamientos para coches serán de 5.00 por 2.50 metros, sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio;
+II. La demanda total para los casos en que en un mismo predio se encuentren establecidos diferentes giros o usos, será la suma de las demandas señaladas para cada uno de ellos. Para el cálculo de la demanda el porcentaje mayor a 0.50 se considera como un cajón;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+III. Las medidas de los cajones de estacionamientos para coches serán de 5.00 por 2.50 metros. El ancho mínimo de los cajones para camiones y autobuses será de 3.50 m para estacionamiento en bateria o de 3.00 m en cordón, la longitud del cajón debe ser el resultado de un análisis del tipo de vehículos dominantes, lo anterior sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio;
 
 IV. Se podrá aceptar el estacionamiento en cordón, cuyo caso el espacio para el acomodo de vehículos será de 6.00 x 2.50 m. Estas medidas no comprenden las áreas de circulación necesarias, sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio;
 
@@ -1457,13 +1855,19 @@ V. Los estacionamientos públicos y privados deberán destinar por lo menos un c
 
 VI. En los estacionamientos públicos o privados que no sean de autoservicio, podrá permitirse que los espacios se dispongan de tal manera que para sacar un vehículo se mueva un máximo de dos;
 
-VII. Sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio, las edificaciones que no cumplan con los espacios de estacionamientos establecidos en la Tabla 2 dentro de sus predios, podrán usar para tal efecto otros predios, siempre y cuando no se encuentren a una distancia mayor de 250 m. no se atraviesen vialidades primarias y los propietarios de dichas edificaciones comprueben su propiedad. En estos casos se deberán colocar letreros en las edificaciones, señalando la ubicación del estacionamiento, y en los predios, señalarán la edificación a la que dan servicios;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-VIII. El Ayuntamiento determinará los casos en que se deberá cubrir una demanda adicional de espacios para estacionamiento de visitantes, y
+VII. Sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio, las edificaciones que no cumplan con los espacios de estacionamientos establecidos en la Tabla 2 dentro de sus predios, podrán usar para tal efecto otros predios, siempre y cuando no se encuentren a una distancia mayor de 100 m, no se atraviesen vialidades primarias y los propietarios de dichas edificaciones comprueben su propiedad. En estos casos se deberán colocar letreros en las edificaciones, señalando la ubicación del estacionamiento, y en los predios, señalarán la edificación a la que dan servicios;
 
-IX. En los predios habitacionales el área de restricción frontal podrá ser utilizada como área de estacionamiento y solo con cubierta inclinada, ocupando como máximo el 50% del frente del predio y conservar la superficie permeable en la misma proporción.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-El ancho mínimo de circulación vehicular de acceso a cajones de estacionamiento, será de acuerdo a la siguiente tabla.
+VIII. El Ayuntamiento determinará los casos en que se deberá cubrir una demanda adicional de espacios para estacionamiento de visitantes;
+
+IX. En los predios habitacionales el área de restricción frontal podrá ser utilizada como área de estacionamiento y solo con cubierta inclinada, ocupando como máximo el 50% del frente del predio y conservar la superficie permeable en la misma proporción;
+
+> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PARRAFO], P.O. 11 DE ABRIL DE 2008)</small>
+
+X. El ancho mínimo de circulación vehicular de acceso a cajones de estacionamiento, será de acuerdo a la siguiente tabla.
 
 ANCHO MÍNIMO DE CIRCULACIÓN VEHICULAR
 
@@ -1487,6 +1891,100 @@ en grados en metros
 
 *En caso de que sea doble circulación al (sic) ancho mínimo del pasillo será 7.00m.
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XI. Cuando se hace referencia a vivienda o a metros cuadrados construidos, se considera la totalidad de la superficie construida cubierta de todos lo (sic) niveles, excluyendo únicamente la destinada al estacionamiento;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XII. La demanda de cajones de estacionamiento de usos no establecidos en la Tabla será propuesta por el D. R. O., quien deberá incluir en la memoria descriptiva la justificación de la homologación considerada para su revisión y, en su caso, autorización;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XIII. La altura mínima en la entrada y dentro de los estacionamientos, incluyendo pasillos de circulación, áreas de espera, cajones y rampas será nde (sic) 2.20 m;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XIV. Las edificaciones destinadas a la prestación del servicio público de tránsito o agencias del ministerio público, tribunales y juzgados, deberán proporcionar un área adicional para vehículos siniestrados;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XV. En las edificaciones destinadas a talleres automotrices, llanteras y similares, no se considerará el área de reparación como espacio de estacionamiento;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XVI. Las edificaciones destinadas a la educación básica y a personas con discapacidad deben tener adicionalmente área de estacionamiento exclusiva para transporte escolar o especial;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XVII. En los edificios de servicios de salud y asistencia deberán:
+
+a) Estar provistos de un espacio independiente para ambulancias;
+
+b) En las edificaciones mayores a 1,000 m2 se debe contar con un estacionamiento independiente para vehículos de transporte de residuos sólidos, y
+
+c) A partir de 200 camas deberán contar con un helipuerto de emergencia y adicionalmente deberán contar con un acceso libre para vehículos desde la vía pública para el ascenso y descenso de usuarios en emergencia;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XVIII. Para cubrir la demanda de cajones de estacionamiento requerida y se facilite la circulación, se podrán utilizar equipos mecánicos en interiores y exteriores como plataformas giratorias, eleva-autos, así como montacargas en lugar de rampas. El D. R. O. debe incluir en la Memoria Descriptiva su justificación y las dimensiones de los equipos y de los espacios correspondientes;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XIX. Las circulaciones verticales para los usuarios y para el personal de los estacionamientos públicos deberán estar separadas entre sí y de las destinadas a los vehículos, además deben ubicarse en lugares independientes de la zona de recepción y entrega de vehículos y deben cumplir con lo dispuesto en este Reglamento y sus Normas Complementarias;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XX. Las áreas de circulación para vehículos en estacionamientos públicos deben estar separadas de las destinadas a los peatones;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXI. Los estacionamientos públicos deben tener carriles separados debidamente señalados para la entrada y salida de vehículos, con una anchura mínima de 2.50 m cada uno, en el caso de circular autobuses o camiones, éstos deben tener una anchura mínima de 3.50 m;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXII. Los estacionamientos públicos tendrán áreas de espera techadas para la entrega y recepción de vehículos ubicadas a cada lado de los carriles a que se refiere la fracción anterior, con una longitud mínima de 4.50 m, una anchura no menor de 1.20 m y el piso terminado estará elevado por lo menos 0.15 m sobre la superficie de rodamiento de los vehículos;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXIII. Los estacionamientos públicos deberán contar con una caseta de control anexa a las áreas de espera para el público, situada a una distancia no menor de 4.50 m del alineamiento y con una superficie mínima de 1.00 m2;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXIV. Las rampas para la circulación de los vehículos tendrán una pendiente máxima de 15%;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXV. Las rampas de los estacionamientos para automóviles tendrán una anchura mínima en rectas de 2.50 m y en curvas de 3.50 m, el radio mínimo en curvas medido al eje de la rampa será de 7.50 m. Las rampas con pendientes superiores al 12%, al inicio y al término de la pendiente donde los planos de cada piso se cruzan con el piso de la rampa, deben tener una zona de transición con una pendiente intermedia del 6% en un tramo horizontal de 3.60 m de longitud;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXVI. En los estacionamientos deben existir protecciones adecuadas en rampas, colindancias, fachadas y elementos estructurales, con dispositivos capaces de resistir los posibles impactos de los automóviles o camiones;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXVII. Las rampas estarán delimitadas por una guarnición con una altura de 0.15 m y una banqueta de protección con una anchura mínima de 0.30 m en rectas y de 0.50 m en curva; en este último caso, debe existir un pretil de 0.60 m de altura por lo menos;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXVIII. Las columnas y los muros que limiten los carriles de circulación de vehículos deben tener una banqueta de 0.15 m de altura y de 0.30 m de anchura, con los ángulos redondeados;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXIX. Las rampas en los estacionamientos no deben sobresalir del alineamiento;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXX. Todos los estacionamientos públicos deben tener servicios de sanitarios;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXXI. Los predios que se ubiquen en esquina deben tener la entrada y salida de vehículos sobre la calle de menor flujo vehicular y quedar lo más alejado posible de la esquina; la entrada debe estar antes de la salida según el sentido del tránsito de la calle, y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XXXII. En los estacionamientos, excepto los destinados a vivienda, se deben colocar señalamientos horizontal y vertical relativos a los sentidos de la circulación vehicular y de información al peatón.
+
 ### CAPITULO II. REQUERIMIENTOS DE HABITABILIDAD Y FUNCIONAMIENTO
 
 ARTÍCULO 87
@@ -1501,7 +1999,9 @@ Las edificaciones deberán estar provistas de servicios de agua potable capaz de
 
 ARTÍCULO 89
 
-Las edificaciones estarán provistas de servicios sanitarios con el número mínimo, tipo de muebles y sus características como se establecen en la (sic) a continuación:
+> <small>(F. DE E., P.O. 11 DE ABRIL DE 2008)</small>
+
+Las edificaciones estarán provistas de servicios sanitarios con el número mínimo, tipo de muebles y sus características como se establecen a continuación:
 
 I. Las viviendas con menos de 45 m² contarán cuando menos, con un excusado, una regadera y uno de los siguientes: lavabo, fregadero o lavadero;
 
@@ -1867,7 +2367,9 @@ El análisis para determinar los casos de excepción a esta clasificación y los
 
 ARTÍCULO 125
 
-La resistencia al fuego es el tiempo que resiste un material al fuego directo sin producir flama o gases tóxicos, que deberán cumplir os (sic) elementos constructivos de las edificaciones según la Tabla 11 del Anexo (RESISTENCIA MÍNIMA AL FUEGO EN HORAS).
+> <small>(F. DE E., P.O. 11 DE ABRIL DE 2008)</small>
+
+La resistencia al fuego es el tiempo que resiste un material al fuego directo sin producir flama o gases tóxicos, que deberán cumplir los elementos constructivos de las edificaciones según la Tabla 11 del Anexo (RESISTENCIA MÍNIMA AL FUEGO EN HORAS).
 
 ARTÍCULO 126
 
@@ -2005,9 +2507,11 @@ ARTÍCULO 147
 
 Los locales destinados al depósito o venta de explosivos y combustibles deberán cumplir con lo que establezcan las Normas Técnicas Complementarias, las autoridades que correspondan al tipo de explosivos o combustible, y la Ley federal de Fuego y Explosivos.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ARTÍCULO 148
 
-Las edificaciones deberán estar equipadas con sistemas pararrayos en los casos y bajo las condiciones que indiquen las autoridades municipales competentes.
+Las edificaciones deberán estar equipadas con sistemas pararrayos en los casos y bajo las condiciones que las Normas Oficiales Mexicanas correspondientes y las disposiciones de las autoridades municipales, estatales y federales.
 
 ARTÍCULO 149
 
@@ -2167,9 +2671,11 @@ ARTÍCULO 159
 
 Las tuberías, conexiones y válvulas para agua potable deberán ser de cobre rígido, cloruro de polivinilo, fierro galvanizado o de otros materiales que aprueben la Dirección.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ARTÍCULO 160
 
-Las instalaciones de infraestructura hidráulica y sanitaria que deben realizarse en el interior de predios de conjuntos habitacionales y otras edificaciones de gran magnitud, previstas en la fracción II del artículo 103 de este Reglamento, deberán sujetarse a lo que disponga la Dirección para cada caso.
+Las instalaciones de infraestructura hidráulica, sanitaria y especiales, de conjuntos habitacionales y otras edificaciones de gran magnitud, previstas en la fracción II del artículo 53 de este Reglamento, deben realizarse en el interior de predios, deberán sujetarse a lo que disponga este Reglamento y la Norma Técnica de Instalaciones Hidráulicas, Sanitarias y Especiales.
 
 ARTÍCULO 161
 
@@ -2239,7 +2745,9 @@ IV. Croquis de localización del predio en relación a las calles más cercanas;
 
 V. Lista de materiales y equipos por utilizar, y
 
-VI. Memorias técnica descriptiva.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+VI. Memoria técnico descriptiva, memoria de cálculo y demás requisitos a que se refieren las Normas Oficiales Mexicanas y Normas Técnicas Complementarias del presente Reglamento.
 
 ARTÍCULO 173
 
@@ -2267,7 +2775,9 @@ Las instalaciones de gas en las edificaciones deberán sujetarse a las bases que
 
 a) Los recipientes de gas deberán colocarse a la intemperie, en lugares ventilados, patios, jardines o azoteas y protegidos del acceso de personas y vehículos. En edificaciones para habitación plurifamiliar, los recipientes de gas deberán estar protegidos por medio de jaulas que impidan el acceso de niños y personas ajenas al manejo, mantenimiento y conservación del equipo.
 
-b) Los recipientes se colocarán sobre un piso firme y consolidado, donde no existen flamas o materiales inflamables, pasto o hierba.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+b) Los recipientes se colocarán sobre un piso firme y consolidado, debiendo anclarse al mismo, así como conectarse al sistema de puesta a tierra, ubicándose donde no existen flamas o materiales inflamables, pasto o hierba.
 
 c) Las tuberías de combustión de gas deberán ser de cobre tipo L o de fierro galvanizado C-40 visibles, adosados a los muros, a una altura de cuando menos 1.80 metros sobre el piso. Deberán estar pintadas con esmalte color amarillo. La presión máxima permitida en las tuberías será de 4.2kg/cm² y la mínima de 0.07kg/cm².
 
@@ -2337,13 +2847,17 @@ Para fines de este Reglamento y para efecto del diseño de cimentaciones, el ter
 
 ### CAPITULO II. CARACTERÍSTICAS GENERALES DE LAS EDIFICACIONES
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ARTÍCULO 183
 
-El proyecto arquitectónico de una construcción deberá permitir una estructuración eficiente para resistir las acciones que puedan afectar la estructura del fuego y métodos ciclónicos.
+El proyecto arquitectónico de una construcción deberá permitir una estructuración eficiente para resistir los efectos gravitacionales y las acciones del fuego y viento que puedan afectar la estructura.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ARTÍCULO 184
 
-Toda construcción deberá separarse de sus linderos con predios vecinos a una distancia de 5cm, que se (sic) regirá también las separaciones que deben dejarse en juntas de construcción entre cuerpos distintos de una misma construcción. Los espacios entre construcciones vecinas y las juntas de construcción deberán estar libres de toda obstrucción.
+Toda construcción deberá separarse de sus linderos con predios vecinos a una distancia de 5 cm, que se (sic) regirá también las separaciones que deben dejarse en juntas de construcción entre cuerpos distintos de una misma construcción. Los espacios entre construcciones vecinas y las juntas de construcción deberán estar libres de toda obstrucción.
 
 Las separaciones que deben dejarse en colindancias y juntas se indicarán claramente en los planos arquitectónicos y estructurales.
 
@@ -2635,7 +3149,9 @@ ARTÍCULO 222
 
 La seguridad de las cimentaciones contra los estados límite de falla se evaluará en términos de la capacidad de carga neta, es decir de máximo incremento de fuerza que pueda soportar el suelo al nivel de desplante.
 
-La capacidad de carga del suelo de cimentación se calculará por método analítico o empíricos eficientemente apoyados en evidencia experimental o se determinará con prueba de carga. La capacidad de carga de la base de cualquier cimentación se calculará a partir de las resistencias medidas de cada uno de los estratos afectados por el mecanismo de fallas mas críticos. En el cálculo se tomará en cuenta la interacción entre las diferentes partes de la cimentación y entre éstas y las vecinas. Cuando en el subsuelo del sitio o en su vecindad existan rellenos sueltos, galerías, grietas u otras oquedades, estas deberán tratarse apropiadamente o bien considerarse en el análisis de estabilidad de la cimentación.
+> <small>(F. DE E., P.O. 11 DE ABRIL DE 2008)</small>
+
+La capacidad de carga del suelo de cimentación se calculará por métodos analíticos o empíricos eficientemente apoyados en evidencia experimental o se determinará con prueba de carga. La capacidad de carga de la base de cualquier cimentación se calculará a partir de las resistencias medidas de cada uno de los estratos afectados por el mecanismo de fallas mas críticos. En el cálculo se tomará en cuenta la interacción entre las diferentes partes de la cimentación y entre éstas y las vecinas. Cuando en el subsuelo del sitio o en su vecindad existan rellenos sueltos, galerías, grietas u otras oquedades, estas deberán tratarse apropiadamente o bien considerarse en el análisis de estabilidad de la cimentación.
 
 ARTÍCULO 223
 
@@ -2707,9 +3223,13 @@ Antes de iniciar las obras de refuerzo y reparación de un edificio dañado, deb
 
 ARTÍCULO 233
 
-Las obras provisionales, como tribuna para eventos especiales, pasos de carácter temporal para peatones o vehículos durante obras viales o de otro tipo tapiales, obras falsas y cimbras, deberán proyectarse para cumplir los requisitos de seguridad de este Reglamento.
+> <small>(F. DE E., P.O. 11 DE ABRIL DE 2008)</small>
 
-Las obras provisionales que puedan ser ocupadas por mas de cien personas deberán ser sometidas, antes de a (sic) su uso, a una prueba en carga de términos del Capítulo VIII del Título Sexto.
+Las obras provisionales, como tribunas para eventos especiales, pasos de carácter temporal para peatones o vehículos durante obras viales o de otro tipo tapiales, obras falsas y cimbras, deberán proyectarse para cumplir los requisitos de seguridad de este Reglamento.
+
+> <small>(F. DE E., P.O. 11 DE ABRIL DE 2008)</small>
+
+Las obras provisionales que puedan ser ocupadas por más de cien personas deberán ser sometidas, antes de su uso, a una prueba en carga de términos del Capítulo VIII del Título Sexto.
 
 ARTÍCULO 234
 
@@ -2733,9 +3253,13 @@ Para realizar una prueba de carga mediante la cual se requiera verificar la segu
 
 I. Cuando se trate de verificar la seguridad de elementos o conjuntos que se repiten, bastará seleccionar una fracción representativa de ellos, pero no menos de tres distribuidos en distintas zonas de la estructura;
 
-II. La intensidad de la carga de prueba deberá ser igual a 85% de la del diseño incluyendo los factores de carga que correspondan;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-III. La zona en que se aplique deberá producir en los elementos o será necesaria para producir en los elementos o conjuntos seleccionados los efectos más favorables.
+II. La intensidad de la carga de prueba deberá ser igual a 85% de la del diseño incluyendo los factores de carga que respondan;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+III. La zona en que se aplique deberá producir en los elementos o conjuntos seleccionados los efectos más desfavorables;
 
 IV. Previamente a la prueba se someterán a la aprobación del procedimiento de carga el tipo de datos que se recaben en dicha prueba, tales como de flexiones, vibraciones y agrietamientos;
 
@@ -3149,7 +3673,9 @@ II. Plano topográfico a escala 1:500 con curvas de nivel a cada metro, señalan
 
 III. Información a la Dirección, con presentación de fianza del 50% del equivalente de los derechos que corresponda pagar a los volúmenes proyectados, la que tendrá una vigencia de 6 meses con el objeto de garantizar el pago de derechos, reparación por daños y perjuicios, pagos de trabajos no realizados por el Titular de la Licencia, pago de multa, diferencias o cargos, y
 
-IV. Los proyectos de mejoramiento ecológicos y las horas secundarias deberán realizarse en la zona afectada por la explotación.
+> <small>(F. DE E., P.O. 11 DE ABRIL DE 2008)</small>
+
+IV. Los proyectos de mejoramiento ecológicos y las obras secundarias que deberán realizarse en la zona afectada por la explotación.
 
 ARTÍCULO 297
 
@@ -3185,7 +3711,9 @@ Las licencias a que se refiere este Título solo se concederán a personas físi
 
 ARTÍCULO 302
 
-El propietario del terreno o la (sic) personas fisicas o morales que suscriban la solicitud de Licencia en su representación se considerarán como el titular de la explotación y la Dirección podrá autorizar su intervención después de que se exhiba el convenio celebrado entre le (sic) propietario del terreno y el titular designado, en su caso, en el que se demuestre que ambos aceptan con carácter mancomunado y solidario las obligaciones y responsabilidades que establece el Reglamento y demás disposiciones aplicables al caso.
+> <small>(F. DE E., P.O. 11 DE ABRIL DE 2008)</small>
+
+El propietario del terreno o las personas fisicas o morales que suscriban la solicitud de Licencia en su representación se considerarán como el titular de la explotación y la Dirección podrá autorizar su intervención después de que se exhiba el convenio celebrado entre le (sic) propietario del terreno y el titular designado, en su caso, en el que se demuestre que ambos aceptan con carácter mancomunado y solidario las obligaciones y responsabilidades que establece el Reglamento y demás disposiciones aplicables al caso.
 
 ARTÍCULO 303
 
@@ -3323,7 +3851,9 @@ Al inicio de la visita, el inspector deberá requerir al visitado, para que nomb
 
 ARTÍCULO 317
 
-De toda visita se levantará circunstanciada (sic) por triplicado, en formas numeradas y foliadas en la que se expresará lugar, fecha y nombre de las personas con quien se entiende la diligencia, así como el resultado de la misma; el acta deberá ser firmada por el inspector, por la persona con la con quien se entendió la diligencia, si desea hacerlo, y por dos testigos de asistencia propuestos por ésta o en su rebeldía por el inspector, quienes estarán presentes durante el desarrollo de la diligencia. En todo caso, se deberá dejar al interesado copia legible de dicha acta.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
+
+De toda visita se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas en la que se expresará lugar, fecha y nombre de las personas con quien se entiende la diligencia, así como el resultado de la misma; el acta deberá ser firmada por el inspector, por la persona con quien se entendió la diligencia, si desea hacerlo, y por dos testigos de asistencia propuestos por ésta o en su rebeldía por el inspector, quienes estarán presentes durante el desarrollo de la diligencia. En todo caso, se deberá dejar al interesado copia legible de dicha acta.
 
 En este caso se tendrá por aceptados los hechos u omisiones contra los cuales el visitado o responsable solidario no ofrezca pruebas para desvirtuarlos en los términos del artículo 318 de este Reglamento.
 
@@ -3441,7 +3971,9 @@ b) Para obtener la expedición de licencias, o durante la ejecución y uso de la
 
 III. Multa equivalente del 1 al 5% del valor del inmueble de acuerdo al avalúo correspondiente que emita un perito valuador debidamente autorizado:
 
-a) Cuando una obra, excediendo las tolerancias previstas en este Reglamento, no coincidan con el proyecto arquitectónico o diseño estructura (sic) autorizado, y
+> <small>(F. DE E., P.O. 11 DE ABRIL DE 2008)</small>
+
+a) Cuando una obra, excediendo las tolerancias previstas en este Reglamento, no coincidan con el proyecto arquitectónico o diseño estructural autorizado, y
 
 b) Cuando en un predio o en la ejecución de cualquier obra no se respeten las restricciones, afectaciones o usos autorizados, señaladas en las Constancias de Uso del Suelo, Alineamiento o Número Oficial.
 
@@ -3573,4 +4105,16 @@ Los dictámenes favorables de las Direcciones Municipales de Ecología, Protecci
 
 SÉPTIMO.- Los registros de Directores Responsables de Obra, Corresponsables y demás peritos a que se refiere el presente Reglamento, deberán integrarse a más tardar en los 30 días siguientes a la publicación del presente.
 
-> <small>N. DE E. VEASE TABLAS EN EL NUMERO EXTRAORDINARIO DEL P.O. DE 25 DE ABRIL DE 2007, PAGINAS DE LA 101 A 299.</small>
+> <small>N. DE E. VEASE TABLAS EN EL NUMERO EXTRAORDINARIO DEL P.O. DE 25 DE ABRIL DE 2007, PAGINAS DE LA 101 A 299. (REFORMA P.O. 11 DE ABRIL DE 2008, PAGINA 98.)</small>
+
+> <small>N. DE E. A CONTINUACION SE TRASNCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE ABRIL DE 2008.
+
+Artículo Primero.- Las reformas y adiciones al Reglamento de Construcción para el Municipio de Benito Juárez, Quintana Roo vigente publicado en el Periódico Oficial del Gobierno del Estado Número 19 Extraordinario, Tomo I, Séptima Época del 25 de Abril del 2007, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente acuerdo.
+
+Artículo Tercero.- Para efectos administrativos, los Fraccionamientos que se encuentran en construcción y que han asignado nomenclatura de calles en los mismos, mantendrán la nomenclatura utilizada.
+
+Artículo Cuarto.- Las nomenclaturas de calles o vialidades del primer cuadro de la Ciudad, así como de la zona hotelera, en tanto que no presenten discordancia en sus nomenclaturas, permanecerán con sus nombres actuales.
