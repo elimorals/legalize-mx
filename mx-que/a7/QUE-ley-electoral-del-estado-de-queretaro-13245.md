@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "2006-11-17"
+last_updated: "2008-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ELECTORAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 5 de diciembre de 1996.
 
@@ -72,6 +72,16 @@ En materia de procedimiento y a falta de disposición expresa, el Código de Pro
 Son principios rectores en la aplicación de la norma electoral, los de certeza, legalidad, equidad, objetividad, imparcialidad e independencia.
 
 Todo acto por escrito, emitido por las autoridades en materia electoral en el Estado y Municipios, deberá ser debidamente fundado y motivado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 5
+
+BIS. Los servidores públicos del Estado y los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Para los efectos de lo dispuesto por el párrafo séptimo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año, en estaciones y canales con cobertura en la entidad y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de éstos podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
 
 ###### ARTICULO 6.
 
@@ -305,41 +315,27 @@ La remisión de la iniciativa de ley mencionada a la Legislatura del Estado siem
 
 Dado el caso de que la Legislatura del Estado hubiera rechazado la iniciativa de distritación que presente el Consejo General, éste, luego de analizar las razones de la negativa, deberá elaborar un nuevo proyecto atendiendo a las bases mencionadas en la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 15.
 
-Son requisitos para ser postulado, y en su caso, para ocupar cualquier cargo de elección popular los siguientes:
+Son requisitos para ser postulado y, en su caso, para ocupar cualquier cargo de elección popular, los siguientes:
 
-I. Cumplir con los que señale la Constitución del Estado para el cargo de que se trate;
+I. Ser ciudadano mexicano y encontrarse en pleno ejercicio de sus derechos políticos;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
+II. Estar inscrito en el padrón electoral;
 
-II. Ser ciudadano queretano en pleno ejercicio de sus derechos políticos y civiles, y residir en el Estado o en el municipio en que se hace la elección;
+III. Tener residencia efectiva en el Estado para el caso de diputados, de cuando menos tres años anteriores a la fecha de la elección, y para el caso de Gobernador del Estado de cinco años. Para el caso de miembros del Ayuntamiento, tener una residencia efectiva en el municipio mínima de 3 años;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
+IV. No ser militaren servicio activo o contar con mando en los cuerpos policíacos;
 
-III. Contar con la credencial de elector debiendo estar inscrito en el padrón electoral don domicilio en el Estado;
+V. No desempeñar empleo de la Federación, Estados o Municipios, ni ejercer en términos generales funciones de autoridad, a menos que se separe de ellos, mediante renuncia o licencia, por lo menos sesenta días naturales antes del día de la elección; y
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
+VI. No ser ministro de algún culto.
 
-IV. No desempeñar ningún cargo público en el que se ejerzan funciones de autoridad en la federación, estado o municipios, ni pertenecer al ejercito, ni tener mando de fuerzas armadas, a menos que en estos casos se solicite licencia o se renuncie al empleo, cargo o comisión cuando menos noventa días antes del día de la elección;
+Se pierde el derecho a ser votado para desempeñar cargos públicos en el Estado, por residir más de tres años consecutivos fuera del mismo, salvo en los casos de estudios y de empleo, cargo o comisión gubernamental, así como en el caso de queretanos migrantes al extranjero, que se hubieren reintegrado a su domicilio por lo menos seis meses antes del día de la elección y se acredite que su familia haya permanecido en el Estado durante su ausencia.
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
-
-V. En los tres años anteriores al día de la elección, no haber ejercido el cargo de Consejero Electoral o Director General del Instituto Electoral del Estado o Magistrado del órgano jurisdiccional que conozca en materia electoral;
-
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
-
-VI.- Tener reconocida honestidad, probidad y solvencia moral;
-
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-VII. Haber cumplido las normas y procedimientos previstos en esta Ley, en los estatutos del partido político respectivo y en el convenio de coalición, según el caso, para obtener la postulación como candidato.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-Para efectos de lo previsto en las fracciones IV y V del artículo 26; fracciones III, IV y V del artículo 50; fracciones VI y VII del artículo 81 de la Constitución Política del Estado; fracción II, en lo relativo al ejercicio de los derechos políticos, fracciones IV, VI y VII del artículo 15 de esta ley, los candidatos postulados deberán manifestar por escrito bajo protesta de decir verdad que cumplen con los requisitos citados.
+Para efectos de lo previsto en la fracción V del presente artículo, los candidatos postulados deberán manifestar por escrito, bajo protesta de decir verdad, que cumplen con el requisito citado.
 
 ###### ARTICULO 16.
 
@@ -413,6 +409,8 @@ III. Cuando quede vacante una diputación de mayoría relativa por falta absolut
 
 ### CAPITULO I. Generalidades
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 24.
 
 Cuando se celebre una elección extraordinaria en los casos previstos por la fracción primera del artículo anterior, el término para expedir la convocatoria se sujetará a los términos previstos por la Constitución Política del Estado; en los demás casos, la convocatoria se expedirá dentro de los quince días siguientes a la publicación del decreto que de origen a la causa que lo motiva.
@@ -427,7 +425,9 @@ Las vacantes definitivas de diputaciones y de regidurías de representación pro
 
 ###### ARTICULO 27.
 
-Los partidos políticos son entidades de interés público y formas de organización política con personalidad jurídica propia y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación popular y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, personal y directo.
+Los partidos políticos son entidades de interés público y formas de organización política con personalidad jurídica propia; tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto, personal y directo. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por lo tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro y la presente Ley.
 
 ###### ARTICULO 28.
 
@@ -653,11 +653,11 @@ La Ley reconoce como fuentes de financiamiento de los partidos políticos, únic
 
 I.- El público;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-II.- El privado, que no podrá exceder en ningún caso del 99% del importe del financiamiento público que otorgue el Instituto Electoral de Querétaro; y
+II.- El privado, que no podrá exceder en ningún caso del 99% del importe del financiamiento público que otorgue el Instituto Electoral de Querétaro, ni, tratándose de aportaciones para gastos de campaña, el equivalente al 10% del tope de campaña establecido para la elección de Gobernador del Estado; y
 
-III. El autofinanciamiento.
+III.- El autofinanciamiento.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -726,6 +726,10 @@ De cada cuota o donación, el partido estará obligado a extender un recibo al a
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 Ningún candidato o miembro del partido, sin autorización de éste, podrá recibir aportación alguna.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+Las aportaciones que los partidos políticos tengan de sus simpatizantes para ser aplicados en los gastos de campaña, no excederán, para cada una, al equivalente al diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
@@ -839,9 +843,9 @@ Los estados financieros, una vez dictaminados y que presenten los partidos polí
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
-#### Sección Cuarta. Del Acceso de los Partidos Políticos a los Medios de Comunicación Masiva
+#### Sección Cuarta. Del acceso al uso del Tiempo en Radio y Televisión, así como a los demás Medios de Comunicación Masiva
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 50.
 
@@ -861,15 +865,19 @@ De igual forma se sancionará inhabilitando para participar en la siguiente elec
 
 Lo anterior es aplicable con independencia de las sanciones que procedan contra el o los partidos políticos correspondientes.
 
-> <small>(REFORMADO P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 51.
 
-El Consejo General del Instituto con base en los dictámenes a que se refiere el artículo anterior, podrá ordenar en todo momento y dentro de los dos años siguientes a la presentación de los estados financieros y documentación legal a que se refieren los artículos 48 y 49 de esta Ley, se practiquen las auditorías necesarias, debiendo presentar un informe de las mismas al propio Consejo General, dentro del término de noventa días de iniciadas éstas. El Consejo General resolverá lo conducente en la misma sesión.
+El Consejo General del Instituto, con base en los dictámenes a que se refiere el artículo anterior, podrá ordenar en todo momento y dentro de los seis meses siguientes a la presentación de los estados financieros y documentación legal a que se refieren los artículos 48 y 49 de esta Ley, se practiquen las auditorías necesarias, debiendo conocer el informe de las mismas, dentro del término de noventa días naturales de iniciadas éstas. El Consejo General resolverá lo conducente en la misma sesión.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 Siempre será procedente la auditoría cuando un partido político, inclusive los que perdieron su registro en la última elección, omita presentar los estados financieros o entregar la documentación legal a que se refiere la Sección Tercera del Capítulo III de esta Ley o presente documentación o información falsa y el costo de la misma será con cargo al financiamiento del partido político infractor.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+En el proceso de fiscalización no será obstáculo los secretos bancario, fiduciario y fiscal, cuando se coordine con el órgano técnico de fiscalización del Consejo General del Instituto Federal Electoral, en los términos del penúltimo párrafo de la base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -877,25 +885,27 @@ Siempre será procedente la auditoría cuando un partido político, inclusive lo
 
 BIS. El Instituto Electoral de Querétaro, por conducto de la Dirección Ejecutiva de Organización Electoral o de la Secretaría Ejecutiva del Consejo General, según el caso, podrá requerir a las autoridades estatales y municipales, así como a los particulares, la información, documentos y registros necesarios para compulsarlos con los datos asentados en los estados financieros trimestrales y del periodo de campaña presentados por los partidos políticos, coaliciones y asociaciones políticas, así como con los resultados arrojados por los mecanismos de verificación de gastos de precampaña y de campaña.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 52.
 
-Los partidos, en condiciones de equidad, tienen derecho al acceso a los medios de comunicación masiva comercial, de cobertura en la Entidad, y de igualdad en los que son propiedad del Gobierno del Estado.
+Los partidos políticos harán uso del tiempo en radio y televisión que les corresponda conforme a lo establecido al artículo 41 base III de la Constitución Política de los Estados Unidos Mexicanos y el Capítulo Primero del Título Tercero del Código Federal de Instituciones y Procedimientos Electorales.
 
-En ejercicio de esta prerrogativa, deberán difundir sus principios ideológicos, programas de acción y plataformas electorales.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 53.
 
-El Consejo General del Instituto, por conducto de la Comisión de Radio-Difusión, revisará los guiones técnicos para la producción de sus programas, los que deberán ajustarse a las posibilidades técnicas del medio de comunicación respectivo.
+El Instituto Federal Electoral será autoridad única para la administración del tiempo que corresponda al Estado y al Instituto Electoral de Querétaro en radio y televisión destinado a sus fines propios, así como para ejercicio del derecho de los partidos políticos de acuerdo con lo que establezcan las leyes.
 
-El Director Ejecutivo de Organización Electoral fungirá como secretario técnico de dicha comisión.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 54.
 
-El Instituto Electoral, celebrará los convenios con los medios de comunicación del Gobierno del Estado, estableciéndose en los mismos las fechas, tiempos, espacios, canales y estaciones que les corresponda a cada partido.
+Los partidos políticos o sus militantes, en ningún momento podrán contratar o adquirir, por si o por terceras personas, tiempos en cualquier modalidad de radio y televisión. Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+En caso de violación a lo dispuesto en el presente artículo, el Instituto Electoral de Querétaro, presentará la denuncia correspondiente ante el Instituto Federal Electoral en términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ## TITULO CUARTO. DEL INSTITUTO ELECTORAL DE QUERETARO
 
@@ -905,19 +915,21 @@ El Instituto Electoral, celebrará los convenios con los medios de comunicación
 
 ###### ARTICULO 55.
 
-El Instituto Electoral en sesión que celebre durante la primer semana del mes de enero, aprobará el calendario para la asignación de fecha y hora de las transmisiones de los programas de los partidos políticos en los medios de comunicación a que se refiere el (sic) artículos 54 de esta Ley.
+Tratándose de los demás medios de comunicación impresos y medios electrónicos en la Entidad, exceptuándose los establecidos en los artículos anteriores, el Instituto Electoral de Querétaro estará facultado para celebrar con ellos, un convenio que deberá contener:
+
+I. La garantía de que las tarifas que se cobren no serán superiores a las comerciales e iguales para todos los partidos políticos; y
+
+II. La imposibilidad de obsequiar espacios a algún partido político, salvo que se haga con todos en la misma proporción.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 56.
 
-Tratándose de medios de comunicación masiva operados por particulares en la entidad, el Instituto Electoral estará facultado para celebrar con ellos, un convenio que deberá contener:
-
-I. La garantía de que las tarifas que se cobren no serán superiores a las comerciales, e iguales para todos los partidos políticos.
-
-II. La imposibilidad de obsequiar tiempos a algún partido político, salvo que se haga con todos en la misma proporción.
+El Consejo General del Instituto Electoral de Querétaro, solicitará a los medios de comunicación masiva en la Entidad, cumplan con las obligaciones que establezca la ley de la materia.
 
 ###### ARTICULO 57.
 
-El Consejo General del Instituto Electoral de Querétaro, solicitará a los medios de comunicación masiva en la Entidad, cumplan con las obligaciones que establezca la ley de la materia.
+(DEROGADO, P.O. 11 DE ABRIL DE 2008)
 
 ###### ARTICULO 58.
 
@@ -1829,7 +1841,7 @@ i) La sustitución de aquellos ciudadanos que habiendo sido designados funcionar
 
 ### CAPITULO II. De la Etapa Preparatoria de la Elección
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 96.
 
@@ -1909,11 +1921,11 @@ d) Las demás que le confieran esta Ley y disposiciones relativas.
 
 El proceso electoral está constituido por la serie de actos que realizan los organismos electorales, los partidos políticos y los ciudadanos encaminados a elegir a los integrantes de los poderes legislativo, ejecutivo y de los ayuntamientos, de conformidad con lo dispuesto por esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 99.
 
-El proceso electoral iniciará con la declaratoria que al efecto emita el Consejo General y concluye cuando sean entregadas las constancias de mayoría y haya vencido el término para la interposición de recursos, o en su caso, se emitan las resoluciones por los órganos jurisdiccionales competentes.
+El proceso electoral iniciará con la declaratoria que al efecto emita el Consejo General y concluye cuando sean entregadas las constancias de mayoría y haya vencido el término para la interposición de recursos o, en su caso, se emitan las resoluciones por los órganos jurisdiccionales competentes. La declaratoria se realizará ciento dos días naturales antes del primer domingo de julio del año al que corresponda la elección.
 
 ###### ARTICULO 100.
 
@@ -1928,6 +1940,10 @@ III. La posterior a la elección;
 ###### ARTICULO 101.
 
 El Instituto Electoral de Querétaro y el Instituto Federal Electoral, podrán celebrar un convenio de apoyo y colaboración en el que se establezca la factibilidad del uso de la información y documentación de carácter electoral, necesarios para el desarrollo de las elecciones estatales.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+El Instituto Electoral de Querétaro podrá convenir con el Instituto Federal Electoral que éste organice procesos electorales locales, previa aprobación de la Legislatura del Estado con el voto de las dos terceras partes de sus integrantes.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1947,7 +1963,7 @@ Las impugnaciones que los partidos políticos realicen sobre los materiales elec
 
 ###### ARTICULO 104.
 
-La etapa preparatoria de la elección inicia con la sesión del Consejo General del Instituto en que emita la declaratoria correspondiente, la que deberá celebrarse dentro de los primeros quince días del mes de enero del año de la elección y concluye al iniciarse la jornada electoral.
+La etapa preparatoria de la elección inicia con la sesión del Consejo General del Instituto en que emita la declaratoria correspondiente, la que deberá efectuarse ciento dos días naturales antes del primer domingo de julio del año en que corresponda la elección y concluye al iniciarse la jornada electoral.
 
 La etapa preparatoria de la elección comprende:
 
@@ -1955,27 +1971,49 @@ La etapa preparatoria de la elección comprende:
 
 I. La integración y funcionamiento de los órganos electorales;
 
-II. El registro de convenios de coaliciones y fusiones que celebren los partidos políticos;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-III. La presentación y entrega para su registro de la plataforma electoral;
+II. Los procesos de selección de candidatos a cargos de elección popular;
 
-IV. El registro de candidatos, fórmulas de candidatos y listas plurinominales así como la sustitución y cancelación, en su caso;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+III. Las precampañas electorales;
 
-V. Los actos relacionados con las campañas y propaganda electoral;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-VI. La ubicación e integración de las mesas directivas de casilla;
+IV. El registro de convenios de coaliciones y fusiones que celebren los partidos políticos;
 
-VII. La publicación de las listas de ubicación e integración de las mesas directivas de casilla;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-VIII. La preparación, distribución y entrega de la documentación electoral aprobada en los términos de esta Ley y la del material necesario para el funcionamiento de las casillas;
+V. La presentación y entrega para su registro, de la plataforma electoral;
 
-IX. (DEROGADA, P.O. 10 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
 
-X. Los actos y resoluciones dictados por los organismos electorales relacionados con las actividades y tareas anteriores, o con otros que resulten, en cumplimiento de los actos que son de su competencia y que se produzcan hasta la víspera del día de la elección; y
+VI. El registro de candidatos; fórmulas de candidatos y listas plurinominales, así como la sustitución y cancelación de éstos, en su caso;
 
-XI. Los demás actos que señale esta Ley.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+VII. Los actos relativos a ubicación e integración de las mesas directivas de casilla, posteriores al inicio del proceso;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+VIII. La publicación de las listas de ubicación e integración de las mesas directivas de casilla;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+IX. La preparación, distribución y entrega de la documentación electoral aprobada en los términos de esta Ley y la del material necesario para el funcionamiento de las casillas;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+X. Las campañas electorales;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XI. Los actos y resoluciones dictados por los organismos electorales relacionados con las actividades y tareas anteriores o con otros que resulten, en cumplimiento de los actos que son de su competencia y que se produzcan hasta la víspera del día de la elección; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+XII. Los demás actos que señale esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1989,61 +2027,61 @@ I. Aprobar la integración de los órganos electorales de conformidad con lo dis
 
 II.- Informar a la ciudadanía y a los partidos políticos la demarcación territorial de los distritos uninominales y circunscripciones plurinominales, así como el número de regidores tanto de mayoría relativa como de representación proporcional que haya decretado la Legislatura.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+ARTICULO 105 BIS. Los procesos internos para la selección de candidatos a cargos de elección popular, son el conjunto de actividades que realizan los partidos políticos y los precandidatos a dichos cargos, de conformidad con lo establecido en esta Ley, en los Estatutos y en los reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político.
+
+Durante los tres días hábiles anteriores al inicio del proceso electoral, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General del Instituto Electoral de Querétaro el día previo al comienzo del proceso electoral, señalando la fecha de inicio del proceso interno, el método o métodos que serán utilizados, la fecha para la expedición de la convocatoria correspondiente, los plazos que comprenderá cada fase del proceso interno, los órganos de dirección responsables de su conducción y vigilancia, la fecha de celebración de la asamblea electoral, estatal, distrital o, en su caso, de realización de la jornada comicial interna.
+
 ###### ARTICULO 106.
 
 Los partidos políticos, antes del registro de candidatos, deberán presentar al Consejo General del Instituto, para su registro, la plataforma electoral que sostendrán durante campaña, sus candidatos a los diversos cargos de elección popular.
 
 El Instituto expedirá la constancia de registro correspondiente, siendo éste, requisito de procedibilidad.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-###### ARTICULO 106
+ARTICULO 106 BIS. La propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos deberán abstenerse de expresiones que denigren a las instituciones o a los propios partidos. El Consejo General del Instituto, está facultado para ordenar el retiro de la propaganda que contravenga lo anterior.
 
-BIS. Las precampañas son el conjunto de actividades que de manera previa al registro de candidatos, son llevadas a cabo en un proceso de contienda interna de un partido político, con la finalidad de seleccionar a los ciudadanos que postularán para contender por los cargos de elección popular.
+Las precampañas son el conjunto de actividades que realizan los precandidatos, llevadas a cabo en un proceso de selección interno de un partido político, con la finalidad de obtener la postulación para contender por los cargos de elección popular.
 
-Son actos de precampaña cualquier actividad que tenga el propósito de difundir y promover la imagen y programas del aspirante a candidato, dirigidos a los simpatizantes, militantes u otras figuras reconocidas en los estatutos del partido político por el que, en su caso, será postulado. En todos los actos y actividades deberá manifestarse expresamente que se trata del procedimiento interno de selección de candidatos.
+Precandidato es el ciudadano que pretende ser postulado por un partido político como candidato a un cargo de elección popular, conforme a esta Ley y a los estatutos del partido político, en el proceso de selección interna para tal efecto.
 
-Los actos de precampaña podrán efectuarse a partir del 1 de octubre del año previo a la elección constitucional y hasta el 31 de marzo del año de la elección, previa autorización que los partidos políticos otorguen a los aspirantes a candidatos. Los partidos políticos informarán al Consejo General a más tardar 5 días posteriores al registro de aspirantes a candidatos para la contienda del proceso respectivo.
+En todos los actos y actividades deberá manifestarse expresamente que se trata del procedimiento interno de selección de candidatos.
 
-Para el cumplimiento de las disposiciones contenidas en este artículo, el Consejo General del Instituto Electoral de Querétaro vigilará;
+Las precampañas darán inicio ciento un días naturales anteriores al día de la elección. No deberán durar más de treinta días naturales.
 
-a) Que la propaganda que se utilice para precampañas sea retirada por los Partidos Políticos a más tardar el 15 de abril del año de la elección.
+La precampaña de cada precandidato, dará inicio una vez que el partido político apruebe su registro interno, mismo que deberá comunicarse al Consejo General del Instituto Electoral de Querétaro a más tardar tres días naturales posteriores a su aprobación. Las precampañas de todos los partidos políticos deberán celebrarse dentro de los mismos plazos. Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas.
 
-b) Los gastos de precampaña no podrán exceder por cada aspirante a candidato del 10 % del tope autorizado en el proceso electoral ordinario inmediato anterior para la elección respectiva. El Instituto Electoral de Querétaro, implementará un mecanismo de verificación de gastos de precampaña a efecto de vigilar que no se rebasen los topes establecidos.
+Los precandidatos a candidaturas a cargos de elección popular que participen en los procesos de selección interna convocados por cada partido no podrán realizar actividades de proselitismo o difusión de propaganda, por ningún medio, antes de la fecha de inicio de las precampañas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+Para el cumplimiento de las disposiciones contenidas en este artículo, el Consejo General del Instituto Electoral de Querétaro vigilará:
+
+a) Que la propaganda que se utilice para precampañas sea retirada por los partidos políticos a más tardar dentro de los 15 días posteriores a la conclusión de las precampañas. En caso de incumplimiento, se procederá en términos de lo previsto en el artículo 110, fracción IX, de la presente Ley.
+
+b) Los gastos de precampaña no podrán exceder, por cada aspirante a candidato, del 10% del tope autorizado en el proceso electoral ordinario inmediato anterior para la elección respectiva. El Instituto Electoral de Querétaro, con recursos técnicos propios o a través de empresas privadas que acrediten suficiencia en el ramo, implementará un mecanismo de verificación de gastos de precampaña a efecto de vigilar que no se rebasen los topes establecidos.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 107.
 
-Las campañas políticas podrán iniciarlas los candidatos una vez obtenido su registro.
-
-I. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2002)
-
-II. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2002)
-
-###### ARTICULO 108.
-
-Por campaña electoral se entiende, los actos o actividades llevadas a cabo por los partidos políticos, fusiones o coaliciones y los candidatos que postulan, para la obtención del voto.
+Por campaña electoral se entiende los actos o actividades llevadas a cabo por los partidos políticos, coaliciones y los candidatos que postulan, para la obtención del voto.
 
 Son actos de campaña, aquellos en que los candidatos, dirigentes o representantes acreditados por los partidos políticos, se dirigen al electorado para promover sus candidaturas.
 
-Por propaganda electoral se entiende, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, con el propósito de obtener el voto.
-
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+Por propaganda electoral se entiende el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, con el propósito de obtener el voto.
 
 En todos los instrumentos discursivos y propagandísticos relacionados con las campañas electorales para ayuntamientos, deberá procurar hacer énfasis en la conformación colegiada de la fórmula y del gobierno municipal.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+Queda prohibido a candidatos militantes con cargo o empleo en la administración pública y dirigentes de partidos políticos, por sí o por interpósita persona, participar en la entrega o prestación de bienes, obras y servicios públicos, entregar productos de la canasta básica, de primera necesidad, materiales de construcción o participar en el otorgamiento de cualquier prestación económica al elector.
 
-Queda prohibido a candidatos y dirigentes de partidos políticos, por sí o por interpósita persona, participar en la entrega o prestación de bienes, obras y servicios públicos, entregar productos de la canasta básica, de primera necesidad, materiales de construcción o participar en el otorgamiento de cualquier prestación económica al elector.
+Desde el inicio de las campañas electorales y hasta la conclusión de la jornada electoral, queda prohibido que las autoridades estatales y municipales, así como cualquier servidor público, difunda u ordene difundir campañas publicitarias sobre programas y acciones gubernamentales, con excepción de las relacionadas con salud, seguridad pública, protección civil y medidas de emergencia para protección de la población, las cuales deberán hacerse sin fines electorales. En ningún caso las campañas publicitarias incluirán nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. En caso de incumplimiento, el Consejo General ordenará a la autoridad respectiva la cancelación inmediata de dicha publicidad.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-Desde el inicio de las campañas electorales y hasta la conclusión de la jornada electoral, queda prohibido que las autoridades federales, estatales y municipales, así como cualquier servidor público, difunda u ordene difundir campañas publicitarias sobre programas y acciones gubernamentales, con excepción de las relacionadas con salud, seguridad pública, protección civil y medidas de emergencia para protección de la población, las cuales deberán hacerse sin fines electorales y en términos de lo dispuesto en el artículo 20 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro. En caso de incumplimiento, el Consejo General ordenará a la autoridad respectiva la cancelación inmediata de dicha publicidad.
+###### ARTICULO 108.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-Las personas que desacaten las prohibiciones contenidas en este artículo, quedarán sujetas a las penas aplicables a quienes incurran en los tipos penales previstos en el Código Penal del Estado, según el caso.
+Las campañas darán inicio cuarenta y ocho días naturales anteriores al día de la elección. No deberán durar más de cuarenta y cinco días naturales.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
@@ -2061,7 +2099,9 @@ II. Gastos operativos de campaña:
 
 Los sueldos y honorarios del personal eventual, arrendamiento eventual de muebles e inmuebles, gastos de transporte, viáticos y otros similares;
 
-III. Gastos de propaganda en prensa, radio y televisión:
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+
+III. Gastos de propaganda en prensa escrita;
 
 Los realizados en cualquiera de estos medios tales como mensajes, anuncios publicitarios y sus similares, tendientes a la obtención del voto.
 
@@ -2071,7 +2111,45 @@ El Consejo General en la determinación de los topes de gastos de campaña aplic
 
 Para la elección de diputados y ayuntamientos se tomaran los criterios de población, extensión territorial, densidad de población y salario mínimo vigente. A cada uno de estos criterios se le asignará un valor de acuerdo a los siguientes rangos:
 
-(VEASE ARCHIVO ANEXO)
+Población Valor
+
+No. De Habitantes
+
+Hasta 134,409 1.80
+
+Desde 134,410 hasta 261,154 1.60
+
+Desde 261,155 hasta 387,899 1.40
+
+Desde 387,900 hasta 514,644 1.20
+
+Desde 514,645 en adelante 1.00
+
+Extensión Territorial km2. Valor
+
+Desde 235.30 hasta 459.12 1.80
+
+Desde 459.13 hasta 682.95 1.60
+
+Desde 682.96 hasta 906.78 1.40
+
+Desde 906.79 hasta 1,130.61 1.20
+
+Desde 1,130.62 hasta 1,354.40 1.00
+
+Densidad de Población Valor
+
+Habitantes por Km2.
+
+Hasta 195 1.80
+
+Desde 196 hasta 374 1.60
+
+Desde 375 hasta 553 1.40
+
+Desde 554 hasta 732 1.20
+
+Desde 733 en adelante 1.00
 
 Al salario mínimo vigente en el Estado se le asigna el valor de 1.
 
@@ -2081,13 +2159,17 @@ Los datos necesarios para el efecto de los gastos de campaña serán los que arr
 
 Una vez obtenidos los valores de cada rango, se suman todos los valores de cada uno de los criterios y se dividen entre el número total de criterios, lo cual nos resulta el Valor Común.
 
-(VEASE ARCHIVO ANEXO)
+VC = CP+CET+CDP+CSM
+
+4
 
 Para los Distritos de Querétaro y San Juan del Río se asignará el Valor Común de los municipios mencionados, y para los distritos que contengan más de un municipio se sumaran sus Valores Comunes y se dividirá entre los Valores Comunes sumados.
 
 Obtenido el Valor Común se multiplicará por la Lista Nominal del Distrito o Municipio del cual nos deriva el Valor Resultante municipal o distrital. Se suman todos los Valores Resultantes para obtener un Valor Resultante Total.
 
-(VEASE ARCHIVO ANEXO)
+VR = LN x VC
+
+VRT = VR1 + VR2 + VR3 + VR4 + + VRN
 
 Del Valor Resultante distrital o municipal en su caso, se multiplica por el 100% y se divide entre el Valor Resultante Total para determinar el porcentaje de cada uno de ellos.
 
@@ -2723,53 +2805,69 @@ I. Fijar en el exterior del local del consejo de que se trate, el total de los r
 
 II. Informar al Consejo General del Instituto de los resultados recibidos.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 147.
 
-Los Consejos Distritales y Municipales celebrarán sesión de cómputo a partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral para realizar el cómputo de las elecciones de ayuntamiento, asignación de regidores por el principio de representación proporcional y parciales de diputados y gobernador.
+Los Consejos Distritales y Municipales celebrarán sesión, a partir de las 8:00 horas del martes posterior al día de la elección, para realizar los cómputos parciales o totales de las elecciones de Ayuntamiento, asignación de Regidores por el principio de representación proporcional, de Diputados por mayoría relativa y de Gobernador, según corresponda.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 Los Consejos Distritales de Querétaro y San Juan del Río sesionarán para realizar el cómputo parcial de las elecciones de ayuntamiento, remitiendo una vez concluido éste, las actas respectivas al Consejo Distrital que corresponda, atendiendo a lo establecido en el artículo 84 de esta ley, para realizar el cómputo y declaratoria de validez de la elección de ayuntamiento de estos municipios, así como el parcial de Gobernador.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-Los Consejos Distritales celebrarán sesión de cómputo a partir de las 8:00 horas del viernes siguiente al día de la jornada electoral, para realizar el cómputo distrital de la elección de diputados de mayoría relativa.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 Las sesiones de cómputo serán legales con la concurrencia de la mayoría de los integrantes de los Consejos Distritales o Municipales, según el caso, entre los que deberá estar el Presidente. En caso de no darse el quórum legal, sesionarán en segunda convocatoria a las 8:30 horas del mismo día. De no reunirse nuevamente el quórum legal requerido, sesionarán en tercera convocatoria a las 9:00 horas del mismo día con los integrantes presentes. Si a la hora de la tercera convocatoria no se encuentra el Presidente del Consejo, entre los consejeros presentes nombrarán en votación secreta al consejero que desempeñará la función únicamente para esa sesión. Cuando la inasistencia sea del Secretario Técnico, el Presidente designará de entre los consejeros presentes, en cualquier convocatoria, al que deberá suplirlo únicamente para esa sesión.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 El cómputo distrital o municipal de una elección, es el procedimiento por el cual los consejos distritales y municipales determinan, mediante la suma de los resultados anotados en las actas, la votación obtenida en un distrito o municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+Los Consejos Distritales y Municipales se declararán en sesión permanente, hasta en tanto el consejo distrital que le corresponda conocer de cómputos totales y ordenar recuentos, los concluya.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 148.
 
-El cómputo a que se refiere el artículo anterior se sujetará al procedimiento siguiente:
+El cómputo a que se refiere el artículo anterior, se sujetará al procedimiento siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+a) Se abrirán los expedientes de la elección respectiva siguiendo el orden numérico de las casillas, se cotejarán los resultados de las actas de escrutinio y cómputo contenidas en los expedientes con los resultados del acta que obre en poder del Consejo, tomándose nota de cuando los resultados no coincidan;
 
-I. Se abrirán los expedientes de la elección respectiva siguiendo el orden numérico de las casillas, se cotejarán los resultados de las actas de escrutinio y cómputo contenidas en los expedientes con los resultados del acta que obre en poder del Consejo, tomándose nota de cuando los resultados no coincidan;
+b) Cuando los resultados de las actas no coincidan o no existan los resultados de las mismas, se practicará el cómputo, levantándose el acta individual de la casilla. Los resultados obtenidos formarán parte del cómputo que corresponda;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+c) Cuando existan errores o irregularidades en las actas o en los expedientes, el Consejo respectivo podrá acordar realizar nuevamente el cómputo, en los términos señalados en la fracción anterior y estará facultado para anular la votación correspondiente;
 
-II. Cuando los resultados de las actas no coincidan o no existan los resultados de las mismas se practicará el cómputo, levantándose el acta individual de la casilla. Los resultados obtenidos formarán parte del cómputo que corresponda;
+d) Los partidos políticos interesados harán valer en la sesión de cómputo las causas de nulidad que contempla el artículo 244 de esta Ley y el Consejo estará facultado para anular la votación correspondiente;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+e) La suma de los resultados obtenidos después de realizar las operaciones indicadas, constituirá el cómputo distrital o municipal de las elecciones de Diputados de mayoría relativa, de Gobernador o de Ayuntamiento;
 
-III. Cuando existan errores o irregularidades en las actas o en los expedientes, el consejo respectivo podrá acordar realizar nuevamente el cómputo, en los términos señalados en la fracción anterior y estará facultado para anular la votación correspondiente;
+f) Constará en el acta de la sesión los resultados del cómputo, los incidentes que ocurrieren durante la misma y se hará la declaratoria de validez o nulidad de la elección correspondiente en la elección de Ayuntamientos y Diputados de mayoría relativa; y
 
-IV. Los partidos políticos interesados harán valer en la sesión de cómputo, las causas de nulidad que contempla el artículo 244 de esta Ley y el consejo estará facultado para anular la votación correspondiente;
+g) Se remitirán al Consejo General las actas de los cómputos parciales realizados para la elección de Gobernador, para efectos del cómputo estatal, declaratoria de validez y entrega de la constancia de mayoría.
 
-V. La suma de los resultados obtenidos después de realizar las operaciones indicadas constituirá el cómputo distrital o municipal de las elecciones de diputados de mayoría relativa, de Gobernador o de ayuntamiento;
+El recuento administrativo ante los Consejos Distritales y Municipales, procederá únicamente en los dos siguientes supuestos: cuando la diferencia entre el primero y el segundo lugar sea igualo menor al 1% de la votación total emitida o cuando el total de los votos nulos sea superior a la diferencia entre el primero y segundo lugar.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+El procedimiento se sujetará a las siguientes reglas:
 
-VI. Constará en el acta de la sesión los resultados del cómputo, los incidentes que ocurrieren durante la misma, y se hará la declaratoria de validez o nulidad de la elección correspondiente, en la elección de ayuntamientos y diputados de mayoría relativa; y
+a) Sólo se desahogará a petición del representante del partido político o coalición que haya obtenido el segundo lugar en la votación, quien lo hará valer al término del cómputo total de la elección de que se trate y ante el Consejo electoral correspondiente;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+b) El Consejo electoral competente resolverá de plano la procedencia del recuento y, en su caso, ordenará a los Consejos electorales que efectuaron cómputos parciales de la elección de que se trate, realicen el recuento. Si el Consejo que recibe la instrucción del recuento, se encuentra realizando el cómputo de otra elección, concluirá éste y procederá al desahogo del recuento solicitado. Si al finalizar el recuento hubiese cómputos pendientes, procederá a efectuarlos;
 
-VII.- Se remitirán al Consejo General, las actas de los cómputos parciales realizados para la elección de Gobernador, para efectos del cómputo estatal, declaratoria de validez y entrega de la constancia de mayoría;
+No serán motivo de recuento aquellas casillas en las cuales ya se hubiese efectuado el cómputo por parte del Consejo y obre el acta individual de casilla;
+
+c) Para el desahogo del recuento se podrán formar grupos de trabajo integrados por consejeros electorales, representantes de partido político y/o coalición y Secretario Técnico, conformando tantos como sea posible;
+
+d) Los resultados obtenidos de cada una de las casillas se asentarán en el Acta de Recuento Administrativo de Casilla;
+
+e) Los Consejos electorales que se encuentren en este supuesto, requisitarán las Actas de Recuento Administrativo de Consejo, las que, en su caso, serán remitidas al Consejo electoral que resolvió la procedencia del recuento;
+
+f) El Secretario Técnico hará constar en el acta de sesión de cómputo, lo relativo a los recuentos administrativos; y
+
+g) El Consejo electoral que resolvió la procedencia del recuento administrativo, procederá a ejecutar los actos expresados en la primera parte del presente artículo.
 
 ###### ARTICULO 149.
 
@@ -2809,11 +2907,11 @@ Los presidentes de los consejos distritales y municipales publicarán en el exte
 
 Los candidatos o fórmulas que hayan obtenido el triunfo en el cómputo distrital o municipal, y a quienes los citados órganos electorales expidan constancia de mayoría, la presentarán ante el Consejo General, para su registro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 152.
 
-El Consejo General, a partir de la 8:00 horas del domingo siguiente al de la elección, celebrará sesión para proceder al cómputo estatal de la elección de gobernador, así como la asignación de diputados por el principio de representación proporcional.
+El domingo siguiente al de la elección, el Consejo General a partir de las 08:00 horas, celebrará sesión para proceder a la asignación de diputados por el principio de representación proporcional y al cómputo estatal de la elección de Gobernador, en ese orden.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -2821,19 +2919,41 @@ La sesión de cómputo será legal con la concurrencia de la mayoría de los int
 
 La sesión de que habla el presente artículo será permanente, pudiendo decretarse los recesos necesarios.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 153.
 
-El cómputo estatal de la elección de Gobernador del Estado se llevará de acuerdo al siguiente procedimiento:
+El cómputo estatal de la elección de Gobernador del Estado, se llevará de acuerdo al siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+a) Se tomará nota de los resultados que consten en cada una de las actas de cómputo parcial de la elección, constituyendo la suma de los mismos el cómputo estatal;
 
-I. Se tomará nota de los resultados que consten en cada una de las actas de cómputo parcial de la elección, constituyendo la suma de los mismos el cómputo estatal;
+b) Los partidos políticos interesados harán valer en la sesión de cómputo, las causas de nulidad que contempla el artículo 246 de esta Ley; el Consejo General estará facultado para anular la votación correspondiente;
 
-II. Se hará constar en el acta de la sesión los resultados del cómputo y los incidentes que ocurrieren durante la misma; y
+c) La suma de los resultados obtenidos constituirá el cómputo estatal de la elección de Gobernador;
 
-III. Los partidos políticos interesados harán valer en la sesión de cómputo, las causas de nulidad que contempla el artículo 246 de esta Ley y el consejo estará facultado para anular la votación correspondiente.
+d) Constará en el acta de la sesión los resultados del cómputo, los incidentes que ocurrieron durante la misma y se hará la declaratoria de validez o nulidad de la elección de Gobernador; y
 
-Concluido el cómputo, el Presidente del Consejo General del Instituto, en su caso, declarará la validez de la elección y expedirá la constancia de mayoría al ciudadano que haya resultado electo.
+e) Al término de la sesión el Consejo General expedirá la constancia de mayoría al ciudadano que haya resultado electo.
+
+Los partidos políticos y coaliciones podrán solicitar al Consejo General, en la sesión de cómputo, el recuento administrativo, el cual procederá siempre y cuando ocurran las siguientes circunstancias:
+
+a) Cuando la diferencia entre el primero y el segundo lugar sea igualo menor al 1% de la votación total emitida en el Estado; o
+
+b) Cuando el total de los votos nulos sea superior a la diferencia entre el primero y segundo lugar.
+
+El procedimiento para el recuento administrativo se sujetará a las siguientes reglas:
+
+a) Sólo se desahogará a petición del representante del partido político o coalición que haya obtenido el segundo lugar en la votación, quien lo hará valer al término del cómputo estatal;
+
+b) El Consejo General resolverá de plano la procedencia de la petición y, en su caso, ordenará a los Consejos electorales que efectuaron los cómputos parciales de la elección de Gobernador, que realicen el recuento. Para tales efectos, los Consejos Distritales y Municipales sesionarán el día domingo siguiente al de la elección a partir de las 08:00 horas para atender, en su caso, el requerimiento que el Consejo General pudiera ordenar;
+
+No serán motivo de recuento aquellas casillas en las cuales ya se hubiese efectuado el escrutinio y cómputo por parte del Consejo y obre en el acta individual de casilla;
+
+c) Para el desahogo del recuento, los Consejos Distritales y Municipales procederán en los términos a que se refiere al artículo 148, párrafo 2, incisos c), d) y e); el Secretario Técnico de cada Consejo, levantará el acta correspondiente al recuento administrativo y remitirá inmediatamente al Consejo General las actas de recuento administrativo parcial de la elección de Gobernador;
+
+d) Los resultados contenidos en las actas de recuento parcial de la elección de Gobernador remitidas por los Consejos, constituirán el cómputo estatal de la elección de gobernador; y
+
+e) Hecho lo anterior, el Consejo General procederá en los términos previstos en el primer párrafo, incisos d) y e) de este artículo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -2989,6 +3109,10 @@ Los procedimientos electorales son de naturaleza administrativa o jurisdiccional
 
 Son procedimientos administrativos aquéllos que son competencia de los órganos electorales. Son procedimientos jurisdiccionales, los de materia recursal en que interviene la Sala Electoral del Tribunal Superior de Justicia del Estado.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+Para hacer cumplir sus determinaciones, el Consejo General del Instituto y la Sala Electoral del Tribunal Superior de Justicia en el Estado, podrán hacer uso de los medios de apremio.
+
 ###### ARTICULO 164.
 
 Son partes en los procedimientos y recursos establecidos en esta Ley:
@@ -3125,17 +3249,37 @@ Los estrados son los lugares destinados en las oficinas de los órganos electora
 
 No requerirán de notificación personal y surtirán sus efectos al día siguiente de su colocación, los autos, acuerdos y resoluciones que se hagan públicos mediante la fijación de cédulas en los estrados de los órganos electorales y del Tribunal Superior de Justicia.
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 178.
 
-Las notificaciones personales se harán al interesado a más tardar al día siguiente de que se haya dictado la determinación a notificar y deberán hacerse con el representante legítimo o persona a quien haya de hacerse la notificación, cerciorándose por cualquier medio de la veracidad del domicilio.
+Las notificaciones personales se sujetarán a las siguientes reglas:
 
-De no encontrarse presente la persona o representante legítimo, se dejará citatorio para que espere al notificador dentro de las veinticuatro horas siguientes, apercibiéndole que de no encontrarse, se procederá a notificar por cédula, la que se dejará con la persona que se encuentre en el domicilio, y para el caso de no encontrarse nadie en el mismo, la cédula se procederá a fijar en el exterior del domicilio en que habrá de practicarse la notificación, fijándose igualmente la cédula de notificación en los estrados del órgano electoral que haya ordenado la notificación o, del Tribunal Superior de Justicia, según sea el caso.
+I. Se harán a más tardar dentro de los tres días hábiles siguientes a aquel en que se dicte la determinación a notificar y surtirán sus efectos a partir del mismo día de su realización.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+II. Cuando la determinación entrañe una citación o un plazo para la práctica de una diligencia, se notificará personalmente, al menos con tres días hábiles de anticipación a la fecha y hora en que haya de celebrarse la actuación o audiencia. Las demás se harán por cédula que se fijará en los estrados del Instituto o del órgano que emita la resolución de que se trate. En todo caso, las que se dirijan a una autoridad u órgano partidario se notificarán por oficio.
 
-Toda notificación personal realizada con quien deba entenderse, será legalmente válida aún cuando no se efectúe en el domicilio del actor o tercero interesado, según el caso.
+III. Se realizarán en días y horas hábiles al interesado o por conducto de la persona que éste haya autorizado para el efecto.
+
+IV. El notificador deberá cerciorarse, por cualquier medio, que la persona que deba ser notificada tiene su domicilio en el inmueble designado y, después de ello, practicará la diligencia entregando copia autorizada de la determinación correspondiente, de todo lo cual se asentará razón en autos.
+
+Toda notificación personal realizada con quien deba entenderse, será legalmente válida aún cuando no se efectúe en el domicilio del actor o tercero interesado, según sea el caso.
+
+V. Si no se encuentra al interesado en su domicilio se le dejará, con cualquiera de las personas que allí se encuentren, un citatorio para que espere al notificador al día siguiente, documento que contendrá:
+
+a) Denominación del órgano que dictó la determinación que se pretende notificar;
+
+b) Datos del expediente en el cual se dictó;
+
+c) Día y hora en que se deja el citatorio y nombre de la persona a la que se le entrega; y
+
+d) Señalamiento de la hora en la que, deberá esperar al notificador.
+
+VI. En la fecha y hora fijadas en el citatorio, el notificador se constituirá nuevamente en el domicilio del interesado para hacerle la notificación; si éste no se encuentra, se hará la notificación por estrados, de todo lo cual se asentará la razón correspondiente.
+
+VII. Si a quien se busca se niega a recibir la notificación o las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio o no se encuentra nadie en el lugar, se realizará la notificación por estrados, asentándose razón de ello en autos.
+
+VIII. Las notificaciones personales podrán realizarse por comparecencia del interesado, de su representante o de la persona autorizada para ello ante el órgano que corresponda.
 
 ###### ARTICULO 179.
 
@@ -3159,7 +3303,7 @@ El partido político cuyo representante haya estado presente en la sesión del �
 
 ###### ARTICULO 181.
 
-Son objeto de prueba los hechos controvertidos. No lo será el derecho, los actos o hechos notorios, imposibles o irrelevantes, ni los actos que hayan sido reconocidos por parte interesada. Tampoco será objeto de prueba la jurisprudencia obligatoria que en materia electoral emitan las Salas del Tribunal Electoral del Poder Judicial de la Federación, conforme a sus respectivas competencias, en términos de lo previsto por el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, ni los criterios obligatorios emitidos por la Sala Electoral del Tribunal Superior de Justicia en el Estado conforme a lo indicado por el artículo 277 de la presente Ley.
+Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni los hechos que hayan sido reconocidos. La autoridad electoral competente podrá invocar los hechos notorios aunque no hayan sido alegados por las partes. En el desahogo de las pruebas se respetará el principio contradictorio de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso o el riesgo de que se oculte o destruya el material probatorio
 
 ###### ARTICULO 182.
 
@@ -3175,15 +3319,35 @@ Corresponderá siempre al actor acreditar los hechos en que funde su pretensión
 
 El órgano electoral o la Sala Electoral del Tribunal Superior de Justicia están obligados a recibir las pruebas que le ofrezcan las partes, siempre que se presenten en tiempo y forma, que estén permitidas en la Ley y cuando se indique su relación con los puntos controvertidos que se pretendan demostrar. El órgano competente deberá desechar aquellas que sean inútiles, ociosas, ineficaces, que vayan contra la moral y el derecho y las que no sean permitidas por la Ley.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 184.
 
-La Ley reconoce como medios de prueba:
+Sólo serán admisibles los siguientes medios de prueba:
 
-I. Documentos públicos;
+I. Documental pública;
 
-II. Documentos privados; y
+II. Documental privada;
 
-III. Pericial;
+III. Técnica;
+
+IV. Pericial;
+
+V. Reconocimiento;
+
+VI. Inspección;
+
+VII. Presuncional legal y humana; y
+
+VIII. Instrumental de actuaciones.
+
+Independientemente de lo anterior, el Secretario Ejecutivo o Técnico podrá ordenar el desahogo de reconocimientos o inspecciones, así como de pruebas periciales, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para el esclarecimiento de los hechos.
+
+Las partes podrán aportar pruebas supervenientes, hasta antes de que el expediente respectivo se ponga en estado de resolución.
+
+El Secretario Ejecutivo o Técnico podrá admitir aquellas pruebas que, habiendo sido ofrecidas en el escrito mediante el que se comparezca al procedimiento y solicitadas a las instancias correspondientes, no se hubiesen aportado durante la sustanciación del procedimiento, siempre y cuando se aporten antes que el expediente se ponga en estado de resolución.
+
+Asimismo, el Secretario Ejecutivo o Técnico podrá admitir aquellos elementos probatorios que, habiendo sido solicitados por los órganos del Instituto dentro del procedimiento correspondiente, no se hubiesen recibido sino hasta antes que el expediente respectivo se ponga en estado de resolución.
 
 ###### ARTICULO 185.
 
@@ -3203,23 +3367,25 @@ IV. Los documentos expedidos por quienes estén legítimamente investidos de fe 
 
 Se consideran documentales privadas todos los demás documentos que aporten las partes.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 187.
 
-Las documentales públicas harán prueba plena.
+Las pruebas admitidas y desahogadas serán valoradas en su conjunto, atendiendo a las reglas de la lógica, la experiencia y de la sana critica, así como a los principios rectores de la función electoral, con el objeto de que produzcan convicción sobre los hechos.
 
-Las partes podrán objetar su autenticidad.
+Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 188.
 
-Las documentales privadas serán valoradas libremente, pero respecto de ellas deberán expresar los motivos por los que tales elementos generan convicción acerca de su eficacia probatoria.
+Las documentales privadas, técnicas, periciales e instrumental de actuaciones, así como aquellas en las que un fedatario haga constar las declaraciones de alguna persona debidamente identificada, sólo harán prueba plena cuando a juicio del órgano competente para resolver generen convicción sobre la veracidad de los hechos alegados, al concatenarse con los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-Los escritos de protesta que se presenten ante las mesas directivas de casilla constituirán una presunción sobre las irregularidades afirmadas, debiendo adminicularse con otros medios de prueba para su debida valoración por el órgano resolutor.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 189.
 
-La prueba pericial será valorada al prudente arbitrio del órgano resolutor.
+En el caso de existir imposibilidad material para compulsar las copias simples que obren en el expediente, éstas tendrán únicamente el valor de un indicio.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -3347,7 +3513,7 @@ c) Que fueron aprobados su declaración de principios, programa de acción y est
 
 ### CAPITULO VI. De los Medios de Prueba
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 199.
 
@@ -3619,15 +3785,15 @@ En el caso de la fracción IV apartado 2 del artículo 215 de esta Ley el partid
 
 El Consejo General del Instituto, sin ulterior procedimiento, hará la declaratoria correspondiente en la sesión siguiente, ordenando al director ejecutivo de organización electoral suspenda de inmediato las prerrogativas del partido político solicitante.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 221.
 
-La pérdida de registro o de la inscripción del registro de un partido político, no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones.
+La pérdida de registro o de la inscripción del registro de un partido político, no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones, sólo producirá efectos para llevar a cabo la liquidación del mismo.
 
-Los partidos políticos que pierdan su registro o la inscripción de su registro, entregarán al Instituto Electoral de Querétaro, por conducto de su dirigente estatal, del representante acreditado ante el Consejo General o del o los responsables del órgano interno encargado de las finanzas, la totalidad de los bienes adquiridos con fondos provenientes del financiamiento público otorgado de conformidad con esta Ley, acompañados de un inventario de bienes en el que se asiente la descripción, unidad, cantidad y valor de los mismos al momento de su adquisición, anexando los comprobantes fiscales respectivos, de conformidad con los plazos y el procedimiento previsto en el Reglamento de Fiscalización y, en su caso, observando los procedimientos de disolución que desarrolle el Instituto Federal Electoral. En caso de incumplimiento, se aplicará lo previsto en los párrafos cuarto y quinto del artículo 50 de la ley, sin perjuicio de otras sanciones a que haya lugar.
+Los partidos políticos que pierdan su registro o la inscripción de su registro, entregarán al Instituto Electoral de Querétaro, por conducto de su dirigente estatal, del representante acreditado ante el Consejo General o del o los responsables del órgano interno encargado de las finanzas, la totalidad de los bienes adquiridos con financia miento público estatal, acompañados de un inventario en el que se asiente la descripción, unidad, cantidad y valor de los mismos al momento de su adquisición, anexando los comprobantes fiscales respectivos, de conformidad con los plazos y el procedimiento previsto en el Reglamento de Fiscalización. En caso de incumplimiento, se aplicará lo previsto en los párrafos cuarto y quinto del artículo 50 de esta Ley, sin perjuicio de otras sanciones a que haya lugar.
 
-El Consejo General determinará el destino de los bienes con base en la legislación aplicable.
+En caso de remanente de bienes, éstos se adjudicarán a favor del Estado, ingresándolos a través de la Secretaria de Planeación y Finanzas.
 
 ###### ARTICULO 222.
 
@@ -3717,23 +3883,35 @@ Los partidos políticos o coaliciones tendrán derecho a sustituir a sus candida
 
 ###### ARTICULO 229.
 
-Los plazos y órganos competentes para la recepción de la solicitud de registro de candidaturas son los siguientes:
+El periodo de registro de candidatos tendrá una duración de cinco días naturales e iniciará cincuenta y siete días naturales anteriores al día de la elección.
 
-a) Para Gobernador: del 1 al 14 de abril, ante el Consejo General;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
-b) Para las fórmulas de Diputados de mayoría relativa y Ayuntamientos: del 15 al 29 de abril, ante los Consejos Distritales y Municipales que corresponda; y
+Los órganos competentes para la recepción de la solicitud de registro de candidaturas, son los siguientes:
 
-c) Las fórmulas de Diputados por el principio de representación proporcional: del 15 al 29 de abril, ante el Conejo General;
+a) Para Gobernador, el Consejo General;
+
+b) Para las fórmulas de Diputados de mayoría relativa y Ayuntamientos, los Consejos Distritales y Municipales que corresponda; y
+
+c) Para las fórmulas de Diputados por el principio de representación proporcional, el Consejo General;
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
 Los órganos electorales acusarán el recibo correspondiente en la copia que de la misma se presente, así como de los documentos que se anexen;
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+
 Se exceptúan de lo dispuesto en el párrafo anterior, los casos de fuerza mayor o circunstancia fortuita debidamente acreditados, en que podrá presentarse la solicitud en el consejo electoral más próximo.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
 Cuando algún miembro de las fórmulas de diputados de mayoría relativa, de diputados de representación proporcional o de ayuntamiento, sea declarado inelegible, sólo se referirá aquel integrante que no reúna los requisitos legales y en ningún caso al total de la fórmula, procediéndose a sustitución de candidato o candidatos, siempre y cuando se esté dentro de los términos legales de sustitución, de acuerdo al Capítulo Tercero del presente Título.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 230.
 
-En los casos previstos por el segundo párrafo del artículo anterior, el secretario técnico del consejo ante el que se presente la solicitud, levantará acta circunstanciada en la que conste el motivo manifestado por el partido político, para presentar ante dicho órgano electoral la referida solicitud.
+En los casos previstos por el penúltimo párrafo del articulo anterior, el Secretario Técnico del Consejo ante el que se presente la solicitud, levantará acta circunstanciada en la que conste el motivo manifestado por el partido político, para presentar, ante dicho órgano electoral, la referida solicitud.
 
 El Consejo receptor, dentro de las veinticuatro horas siguientes a la recepción, deberá remitir al órgano electoral competente la solicitud y documentación presentada por el partido político, a la que anexará el acta circunstanciada, dando aviso de ello al Consejo General del Instituto.
 
@@ -3993,7 +4171,7 @@ En el caso previsto por la fracción tercera de este artículo y, siempre y cuan
 
 Cargos de Elección Popular.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 256.
 
@@ -4173,121 +4351,119 @@ Los criterios de la Sala Electoral del Tribunal dejarán de ser obligatorios cua
 
 La Sala Electoral del Tribunal Superior de Justicia publicará los criterios obligatorios que establezca, a más tardar en el mes de diciembre del año en que se haya efectuado el proceso electoral.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 280.
 
-El Consejo General del Instituto Electoral de Querétaro es competente para conocer:
+Son sujetos de responsabilidad, por infracciones cometidas a las disposiciones contenidas en esta Ley, en los reglamentos que expida el Consejo General, así como los acuerdos que emitan los Consejos Electorales:
 
-I. De las infracciones a las disposiciones de esta Ley que cometan los funcionarios electorales. En este caso, el propio Consejo determinará la sanción, las cuales podrán ser:
+I. Los partidos políticos, las coaliciones y las asociaciones políticas;
 
-a) Amonestación;
+II. Los aspirantes, precandidatos y candidatos a cargos de elección popular;
 
-b) Suspensión;
+III. Los ciudadanos o cualquier persona física o moral;
 
-c) Multa hasta de cien días de salario mínimo vigente en el Estado de Querétaro, y
+IV. Los observadores electorales;
 
-d) Destitución del cargo;
+V. Las autoridades o los servidores públicos de cualquiera de los Poderes Locales; órganos de gobierno municipales; órganos autónomos y cualquier otro ente público;
 
-II. De las faltas en que incurran los partidos políticos por conducto de dirigentes, representantes o candidatos.
+VI. Los notarios públicos;
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+VII. Los extranjeros;
 
-Las sanciones serán aplicadas con independencia de la responsabilidad civil o penal que finque o determine la autoridad competente.
+VIII. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+IX. Los funcionarios electorales; y
+
+X. Los demás sujetos obligados en los términos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 281.
 
-El Consejo General del Instituto Electoral de Querétaro, informará al superior jerárquico del funcionario de la administración pública federal, estatal o municipal, de las infracciones que se cometan en los casos en que dichas autoridades no proporcionen en tiempo y forma la información que les sea solicitada por el propio Consejo o por el Tribunal Superior de Justicia del Estado a fin de que se aplique la sanción en los casos que resulte procedente.
+Constituyen infracciones de los partidos políticos, coaliciones y asociaciones políticas, a la presente Ley:
 
-El superior jerárquico a que se refiere el párrafo anterior deberá comunicar el Consejo General del Instituto las determinaciones que haya adoptado en el caso de que se trate.
+I. Incumplir las obligaciones que les señale esta Ley, el Reglamento Interior del Instituto, los Reglamentos que expida el Consejo General y los Acuerdos que emitan los Consejos General, Distritales y Municipales del Instituto Electoral de Querétaro;
+
+II. Incumplir las resoluciones del Instituto Electoral de Querétaro o de la Sala Electoral del Tribunal Superior de Justicia del Estado;
+
+III. Aceptar donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o solicitar crédito a la banca de desarrollo para el financiamiento de sus actividades;
+
+IV. Aceptar donaciones u otro tipo de aportaciones económicas, cuyo monto sea superior a los límites permitidos por esta Ley;
+
+V. No presentar en tiempo y forma los informes a que esta Ley se refiere;
+
+VI. Sobrepasar, durante una precampaña o campaña electoral, los topes a los gastos señalados por esta Ley;
+
+VII. Habiendo postulado candidatos a los cargas de elección popular, acuerden que éstos no se presenten a tomar posesión del cargo para el que fueron electos.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 282.
 
-El Consejo General del Instituto Electoral de Querétaro informará a la Secretaría de Gobernación acerca de los siguientes casos:
+Constituyen infracciones de los ciudadanos, precandidatos aspirantes a candidatos, o candidatos a cargos de elección popular a la presente Ley:
 
-I. Cuando los ministros de culto, asociaciones religiosas, iglesias o agrupaciones de cualquier religión o secta:
+I. La realización de actos anticipados de precampaña o campaña, según sea el caso;
 
-a) Induzcan al electorado a abstenerse de votar o bien a hacerlo a favor o en contra de los candidatos o fórmulas que participen en el proceso.
+II. Solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por esta Ley;
 
-b) Hagan aportaciones económicas en favor de algún partido político o candidato.
+III. Exceder el tope de gastos de precampaña o campaña establecido por el Consejo General; y
 
-II. Cuando los extranjeros se inmiscuyan o de cualquier forma pretendan inmiscuirse en asuntos políticos.
+IV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-III. Cuando los particulares que operen los medios de comunicación de la radio, la televisión y la prensa escrita, incumplan con las obligaciones previstas en esta Ley.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ### CAPITULO II. Disposiciones Comunes a los Recursos
 
 ###### ARTICULO 283.
 
-El Consejo General del Instituto informará a la Secretaría de Gobierno del Estado de las infracciones que cometan los notarios públicos, por el incumplimiento de las obligaciones que esta Ley les impone, a efecto de que se proceda en los términos de la legislación aplicable.
+Constituyen infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos o, en su caso, de cualquier persona física o moral, a la presente Ley:
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+I. La negativa a entregar la información requerida por el Instituto, entregarla en forma incompleta o con datos falsos o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen o cualquier otro acto que los vincule con los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular; y
 
-La Secretaría de Gobierno deberá comunicar al Consejo General, las determinaciones que se hayan adoptado.
+II. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 284.
 
-Los partidos políticos y las asociaciones políticas, independientemente de las sanciones a que se hagan acreedores sus dirigentes o representantes, se harán acreedores a las siguientes sanciones:
+Constituyen infracciones de los observadores electorales a la presente Ley:
 
-I. Con multa de cincuenta a cinco mil veces el salario mínimo vigente en el Estado de Querétaro;
+I. Realizar cualquiera de las conductas contempladas en la fracción V del artículo 7 bis del presente ordenamiento legal; y
 
-II. Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda por el período que se determine en la resolución correspondiente;
+II. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
-III. Con la supresión total de las ministraciones del financiamiento público que les corresponda por el período que se determine en la resolución correspondiente;
-
-IV. Con la suspensión o cancelación de su registro como partido político; y
-
-V. Con las demás que esta Ley señale.
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-En caso de infracciones cometidas por las coaliciones se aplicarán las sanciones que procedan a los partidos políticos coaligados de forma individual.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 285.
 
-Las sanciones a que se refiere el artículo anterior serán aplicables en los casos en que los partidos políticos y las asociaciones políticas:
+Constituyen infracciones a la presente Ley, por parte de las autoridades o de los servidores públicos, según sea el caso, de cualquiera de los Poderes del Estado, órganos de gobierno municipales, órganos autónomos y cualquier otro ente público:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Electoral de Querétaro;
 
-I. Incumplan las obligaciones que les señale esta Ley, el Reglamento Interior del Instituto, los Reglamentos que expida el Consejo General, así como los acuerdos que emitan los Consejos General, Distritales y Municipales del Instituto Electoral de Querétaro;
+II. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral, inclusive, con excepción de las relacionadas con salud, seguridad pública, protección civil y medidas de emergencia para protección de la población;
 
-II. Incumplan las resoluciones del Instituto Electoral de Querétaro o de la Sala Electoral del Tribunal Superior de Justicia del Estado;
+III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos a los cargos de elección popular, durante los procesos electorales;
 
-III. Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello, o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades;
+IV. La difusión de propaganda durante los procesos electorales, en cualquier medio de comunicación social, que contravenga lo dispuesto por el séptimo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Acepten donaciones u otro tipo de aportaciones económicas cuyo monto sea superior a los límites permitidos por esta Ley;
+V. La utilización de programas sociales y de sus recursos, de los ámbitos estatal y municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y
 
-V. No presenten en tiempo y forma los informes a que esta Ley se refiere;
+VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-VI. Sobrepasen durante una precampaña o campaña electoral, los topes a los gastos señalados por esta Ley; y (sic)
-
-VII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2005)
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
-
-VIII. Habiendo postulado candidatos a los cargos de elección popular acuerden que éstos no se presenten a tomar posesión del cargo para el que fueron electos.
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-Los aspirantes a candidatos o candidatos que se ubiquen en el supuesto previsto en la fracción VI de este artículo, se harán acreedores a la sanción señalada en la fracción I del artículo 284 de la Ley.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 286.
 
-A las personas que infrinjan las disposiciones de esta Ley sobre restricciones para las aportaciones de financiamiento que no provengan del erario público se le podrá sancionar con multa hasta del doble del monto económico aportado indebidamente. En caso de reincidencia el monto de la multa podrá ser aumentado hasta en dos tantos más.
+Constituyen infracciones a la presente Ley, por parte de los notarios públicos, el incumplimiento de la obligación establecida en el inciso a) de la fracción IV del artículo 125 de esta Ley.
 
-Para la aplicación de la multa se estará a lo dispuesto por el artículo 294 párrafo segundo de esta Ley.
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 287.
 
-Para la aplicación de sanciones por infracciones cometidas por funcionarios electorales, una vez que el Consejo General tenga conocimiento de éstas, en un término de cinco días las hará del conocimiento del funcionario presuntamente infractor, para que en un término de cinco días manifieste lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes para desvirtuar la infracción que se le imputa.
+Constituyen infracciones a la presente Ley, por parte de los extranjeros, que se inmiscuyan o, de cualquier forma, pretendan inmiscuirse en asuntos políticos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ### CAPITULO III. Del Recurso de Reconsideración
 
@@ -4295,25 +4471,125 @@ Para la aplicación de sanciones por infracciones cometidas por funcionarios ele
 
 ###### ARTICULO 288.
 
-El Consejo General del Instituto, determinará lo conducente en sesión que celebre dentro de los treinta días posteriores a la notificación a que hace referencia el artículo anterior.
+Constituyen infracciones a la presente Ley, por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta:
+
+I. La inducción al electorado a abstenerse de votar o bien a hacerlo a favor o en contra de los candidatos o fórmulas que participen en el proceso;
+
+II. Hacer aportaciones económicas en favor de algún partido político o candidato; y
+
+III. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 289.
 
-En caso de que la sanción que se imponga al funcionario electoral sea de las contempladas por los incisos a), b) o d) de la fracción I del artículo 280, la sanción se aplicará por conducto del superior jerárquico, quien deberá informar al director general del Instituto del cumplimiento.
+Constituyen infracciones de los funcionarios electorales, el incumplimiento de las obligaciones que les establece la presente Ley.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 290.
 
-Para la aplicación de las sanciones por infracciones contempladas en esta ley, cometidas por los partidos políticos, sus dirigentes, candidatos o representantes y que sean competencia del Consejo General del Instituto Electoral de Querétaro y éste tenga conocimiento de ellas, emplazará al responsable para que un lapso de diez días naturales conteste por escrito la imputación que se le haga y aporte las pruebas que considere pertinentes.
+Las infracciones señaladas en los artículos anteriores, serán sancionadas conforme a lo siguiente:
+
+I. Respecto de los partidos políticos, coaliciones y las asociaciones políticas:
+
+a) Con amonestación pública;
+
+b) Con multa de uno hasta cinco mil veces el salario mínimo vigente en el Estado de Querétaro;
+
+c) Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, durante el período que se determine en la resolución correspondiente;
+
+d) Con la supresión total de las ministraciones del financiamiento público que les corresponda, durante el período que se determine en la resolución correspondiente;
+
+e) Con la suspensión o cancelación de su registro como partido político o asociación política; y
+
+f) Con las demás que esta Ley señale.
+
+En caso de infracciones cometidas por las coaliciones, se aplicarán las sanciones que procedan a los partidos políticos coaligados, de forma individual.
+
+II. Respecto de los ciudadanos, precandidatos, aspirantes a candidatos o candidatos a cargos de elección popular:
+
+a) Con amonestación pública;
+
+b) Con multa de uno hasta cinco mil veces el salario mínimo vigente en el Estado de Querétaro; y
+
+c) Con la pérdida del derecho a ser registrado como precandidato o candidato o, en su caso, si el registro ya estuviere concedido, el mismo quedará sin efectos. Esta sanción podrá aplicarse aún cuando hubieren resultado electos mediante algún procedimiento apegado a la normatividad aplicable.
+
+Cuando las infracciones cometidas sean imputables exclusivamente a los sujetos previstos en este artículo, no procederá sanción alguna en contra del partido político o coalición de que se trate.
+
+III. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos o de cualquier persona física o moral:
+
+a) Con amonestación pública;
+
+b) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos o de cualquier persona física: con multa de hasta quinientos días de salario mínimo general vigente; en el caso de aportaciones que violen lo dispuesto en esta Ley.
+
+e) Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa hasta del doble del monto económico aportado indebidamente, en el caso de aportaciones que violen lo dispuesto en esta Ley.
+
+En caso de reincidencia, el monto de la multa podrá ser aumentado hasta en dos tantos más.
+
+IV. Respecto de observadores electorales:
+
+a) Con amonestación pública;
+
+b) Con la cancelación inmediata de la acreditación como observadores electorales; y
+
+c) Con la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales;
+
+V. Respecto de los funcionarios electorales:
+
+a) Amonestación pública;
+
+b) Suspensión;
+
+c) Multa hasta de cien días de salario mínimo vigente en el Estado de Querétaro; y
+
+d) Destitución del cargo; (sic)
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 291.
 
-Concluido el plazo concedido al partido político responsable, el Consejo General dispondrá de quince días para emitir la resolución correspondiente, salvo que se haga necesario ampliar el término para el debido desahogo de pruebas, mismo que será fijado por el Consejo General.
+Cuando las autoridades estatales o municipales incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto Electoral de Querétaro, se estará a lo siguiente:
+
+a) Conocida la infracción, el Consejo General del Instituto Electoral de Querétaro integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, a fin de que se aplique la sanción en los casos que resulte procedente;
+
+b) El superior jerárquico a que se refiere el inciso anterior, deberá comunicar al Consejo General del Instituto las medidas que haya adoptado y, en su caso, las sanciones aplicadas; y
+
+c) Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnado a la Entidad Superior de Fiscalización del Estado, a fin de que se proceda en los términos de las leyes aplicables.
+
+Cuando el Instituto conozca del incumplimiento de los notarios públicos a las obligaciones que la presente Ley les impone, el Consejo General del Instituto Electoral de Querétaro integrará un expediente que se remitirá a la Secretaría de Gobierno del Estado, para que proceda en los términos de la legislación aplicable; la Secretaria deberá comunicar al Consejo General, dentro del plazo de un mes, las medidas que haya adoptado y, en su caso, las sanciones aplicadas.
+
+Cuando el Consejo General del Instituto Electoral de Querétaro tenga conocimiento de que un extranjero, por cualquier forma, pretenda inmiscuirse o se inmiscuya en asuntos políticos, lo informará de inmediato a la Secretaría de Gobernación, para los efectos previstos por la ley. Si el infractor se encuentra fuera del territorio nacional, el Instituto procederá a informar a la Secretaria de Relaciones Exteriores para los efectos a que haya lugar.
+
+Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta, informará de ello a la Secretaría de Gobernación para los efectos legales conducentes.
+
+Para la individualización de las sanciones a que se refiere este Título, una vez acreditada la existencia de una infracción y su imputación, la autoridad competente deberá tomar en cuenta las circunstancias que rodean la contravención de la norma administrativa, entre otras, las siguientes:
+
+a) La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley, en atención al bien jurídico tutelado o las que se dicten con base en él;
+
+b) Las circunstancias de modo, tiempo y lugar de la infracción;
+
+c) Las condiciones socioeconómicas del infractor;
+
+d) Las condiciones externas y los medios de ejecución;
+
+e) La reincidencia en el incumplimiento de obligaciones; y
+
+f) En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+
+Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones a que se refiere la presente Ley incurra nuevamente en la misma conducta dentro de los cinco años posteriores a la infracción anterior.
+
+Las multas deberán ser pagadas en la Secretaría de Planeación y Finanzas de Gobierno del Estado, dentro de los quince días siguientes a la fecha de notificación de la resolución correspondiente; si el infractor no cumple con su obligación, la autoridad competente procederá a desahogar el procedimiento económico coactivo. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
+
+Las resoluciones del Consejo General serán impugnables mediante el recurso de apelación, mismo que deberá resolver la Sala Electoral del Tribunal Superior de Justicia.
+
+La interposición del recurso a que se refiere este artículo suspende la ejecución de las sanciones, las que serán aplicables una vez que la resolución quede firme.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 292.
 
-Para la aplicación de sanciones a que se refiere el artículo 286 de esta Ley, el procedimiento para la aplicación de las mismas, será el contemplado en los artículos anteriores.
+Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -4321,25 +4597,331 @@ Para la aplicación de sanciones a que se refiere el artículo 286 de esta Ley, 
 
 BIS. El Secretario Ejecutivo podrá acumular los procedimientos de aplicación de sanciones que se instruyan en contra de un mismo funcionario electoral, partido político, o en su caso, se trate del mismo dirigente, representante o candidato de algún partido político o coalición, identificando con claridad las infracciones cometidas y las sanciones aplicables en la resolución correspondiente.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 293.
 
-En su resolución, el Consejo General tomará en cuenta las circunstancias y la gravedad de la falta. En caso de reincidencia se aplicará una sanción más severa a la inicialmente impuesta.
+El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas podrá iniciar a instancia de parte o de oficio cuando cualquier órgano del Instituto tenga conocimiento de la comisión de conductas infractoras.
+
+La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas prescribe en el término de cinco años.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 294.
 
-El monto de las multas que imponga el Consejo General deberá ser pagado en la Secretaría de Planeación y Finanzas de Gobierno del Estado de Querétaro, dentro de los quince días siguientes a la notificación de la resolución correspondiente. Cuando el pago no se haga oportunamente podrá solicitarse a la autoridad competente que realice el procedimiento económico coactivo.
+Cualquier persona podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante el Consejo General; las personas morales lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable y las personas físicas lo harán por su propio derecho.
+
+La queja o denuncia deberá ser presentada por escrito y deberá cumplir con los siguientes requisitos:
+
+a) Nombre del quejoso o denunciante, con firma autógrafa o huella digital;
+
+b) Domicilio para oír y recibir notificaciones;
+
+c) Los documentos que sean necesarios para acreditar la personería;
+
+d) Narración expresa y clara de los hechos en que se basa la queja o denuncia y, de ser posible, los preceptos presuntamente violados; y
+
+e) Ofrecer y aportar las pruebas con que cuente o, en su caso, mencionar las que habrán de requerirse cuando el promovente acredite que oportunamente las solicitó por escrito al órgano competente y no le hubieren sido entregadas. El denunciante deberá relacionar las pruebas con cada uno de los hechos.
+
+En caso de que los representantes de los partidos políticos no acrediten su personería, la queja o denuncia se tendrá por no presentada.
+
+Ante la omisión de cualquiera de los requisitos antes señalados, la Secretaría Ejecutiva prevendrá al denunciante o quejoso para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera subsanar, se tendrá por no presentada la denuncia o queja.
+
+Recibida la queja o denuncia, la Secretaría Ejecutiva procederá a:
+
+a) Su registro;
+
+b) Su revisión, para determinar si debe prevenir al quejoso;
+
+c) Su análisis para determinar la admisión o desechamiento de la misma; y
+
+d) En su caso, determinar y solicitar las diligencias necesarias para el desarrollo de la investigación.
+
+La Secretaría Ejecutiva contará con un plazo de cinco días para emitir el acuerdo de admisión o propuesta de desechamiento, contado a partir del día siguiente al en que reciba la queja o denuncia. En caso de que se hubiese prevenido al quejoso, a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 295.
 
-Las resoluciones del Consejo General serán impugnables mediante el recurso de apelación, que deberá resolver la Sala Electoral del Tribunal Superior de Justicia.
+La queja o denuncia será improcedente cuando:
 
-La interposición del recurso a que se refiere este artículo suspende la ejecución de las sanciones, las que serán aplicables una vez que la resolución quede firme.
+a) Versen sobre presuntas violaciones a la normatividad interna de un partido político y el quejoso o denunciante no acredite su pertenencia al partido de que se trate o su interés jurídico;
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+b) El quejoso o denunciante no agote previamente las instancias internas del partido denunciado, si la queja versa sobre presuntas violaciones a su normatividad interna;
+
+c) Los actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia que cuente con resolución del Consejo General respecto al fondo y ésta no se haya impugnado ante la Sala Electoral del Tribunal Superior de Justicia o habiendo sido impugnada haya sido confirmada por el mismo Tribunal; y
+
+d) Se denuncien actos de los que el Consejo General resulte incompetente para conocer o cuando los actos, hechos u omisiones denunciados no constituyan violaciones a la presente Ley.
+
+Procederá el sobreseimiento de la queja o denuncia, cuando:
+
+a) Habiendo sido admitida, sobrevenga alguna causal de improcedencia;
+
+b) El denunciado sea un partido político que, con posterioridad a la admisión de la queja o denuncia, haya perdido su registro; y
+
+c) El denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de que el expediente se ponga en estado de resolución y que a juicio de la Secretaría Ejecutiva o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
+
+El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia se realizará de oficio. En caso de advertir que se actualiza alguna de ellas, la Secretaría Ejecutiva elaborará un proyecto de resolución por el que se proponga el desechamiento o sobreseimiento, según corresponda.
+
+Cuando durante la sustanciación de una investigación la Secretaría Ejecutiva advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales o la responsabilidad de actores diversos a los denunciados, podrá ordenar el inicio, de oficio, de un nuevo procedimiento de investigación.
+
+La Secretaría Ejecutiva llevará un registro de las quejas desechadas e informará de ello al Consejo General.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 296.
 
-Si por exigencias de construcción gramatical, enumeración, orden u otra circunstancia el texto legal contenido en esta Ley usa el género masculino o femenino, el mismo deberá ser interpretado en sentido igualitario para hombres y mujeres, de modo que éstas y aquellos puedan adquirir toda clase de derechos y contraer igualmente toda clase de deberes jurídicos.
+Admitida la queja o denuncia, la Secretaría Ejecutiva emplazará al denunciado, sin perjuicio de ordenar las diligencias de investigación que estime necesarias. Con la primera notificación al denunciado se le correrá traslado con una copia de la queja o denuncia, así como de las pruebas que en su caso haya aportado el denunciante o hubiera obtenido a prevención la autoridad que la recibió, concediéndole un plazo de cinco días para que conteste respecto a las imputaciones que se le formulan.
+
+La omisión de contestar dichas imputaciones, únicamente tiene como efecto la preclusión del derecho a ofrecer pruebas, sin generar presunción respecto a la veracidad de los hechos denunciados.
+
+El escrito de contestación deberá cumplir con los siguientes requisitos:
+
+a) Nombre del denunciado o su representante, con firma autógrafa o huella digital;
+
+b) Los documentos que sean necesarios para acreditar la personería;
+
+c) Domicilio para oír y recibir notificaciones;
+
+d) Deberá referirse a los hechos que se le imputan, afirmándolos, negándolos o declarando que los desconoce; y
+
+e) Ofrecer y aportar las pruebas con que cuente, debiendo relacionarlas con los hechos o, en su caso, mencionar las que habrán de requerirse por estar en poder de una autoridad y que no le haya sido posible obtener. En este último supuesto, el oferente deberá identificar con toda precisión dichas pruebas y la autoridad ante las que se encuentran.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 297.
+
+La investigación para el conocimiento cierto de los hechos se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+
+Una vez que la Secretaría Ejecutiva tenga conocimiento de los hechos denunciados, en su caso, podrá dictar de inmediato las medidas necesarias para dar fe de los mismos, así como para impedir que se pierdan, destruyan o alteren las huellas o vestigios y, en general, para evitar que se dificulte la investigación.
+
+Admitida la queja o denuncia por la Secretaría Ejecutiva, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. El plazo para llevar a cabo la investigación no podrá exceder de cuarenta días, contados a partir de la recepción del escrito de queja o denuncia en la Secretaría o del inicio de oficio del procedimiento por parte del Consejo General. Dicho plazo podrá ser ampliado, de manera excepcional, por una sola vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente fundado y motivado que emita la Secretaría Ejecutiva.
+
+Si dentro del plazo fijado para la admisión de la queja o denuncia, la Secretaría Ejecutiva valora que deben dictarse medidas cautelares, resolverá lo conducente en un plazo de veinticuatro horas, a fin de lograr la cesación de los actos o hechos que constituyan la infracción, evitar la causación de daños irreparables, la afectación de los principios que rigen los procesos electorales o se vulneren los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley.
+
+El Secretario Ejecutivo del Consejo podrá solicitar a las autoridades estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.
+
+Las diligencias que se realicen en el curso de la investigación podrán ser efectuadas por la Secretaría Ejecutiva o a través del funcionario electoral que éste designe.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 298.
+
+Transcurrido el plazo de la investigación, el Consejo General emitirá la resolución correspondiente en un término no mayor a diez días. Dicho plazo podrá ampliarse por diez días más, mediante acuerdo dictado por el Secretario Ejecutivo.
+
+En la sesión en que conozca del proyecto de resolución, el Consejo determinará:
+
+a) Aprobarlo en los términos en que se le presente;
+
+b) Modificarlo, procediendo a aprobarlo dentro de la misma sesión, siempre y cuando se considere que puede hacerse y que no contradice lo establecido en el cuerpo del proyecto de resolución; y
+
+c) Rechazarlo y ordenar a la Secretaría Ejecutiva elaborar un nuevo proyecto en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría.
+
+En caso de empate, será de calidad el voto del Presidente, el que por sus características no podrá, bajo ninguna circunstancia, ser secreto.
+
+El Consejero Electoral que disienta de la mayoría, podrá emitir se voto expresando el razonamiento que corresponda.
+
+En el desahogo de los puntos del orden del día en que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se podrán agrupar y votar en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 299.
+
+Durante los procesos electorales, el Consejo General instruirá el procedimiento especial, cuando se denuncie la comisión de conductas que:
+
+I. Violen lo establecido en el sexto y séptimo párrafos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en esta ley; o
+
+III. Constituyan actos anticipados de precampaña o campaña.
+
+El procedimiento especial se desahogará de conformidad con lo previsto en el reglamento que al efecto expida el Consejo General del Instituto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 300.
+
+Para la aplicación de sanciones por infracciones cometidas por funcionarios electorales, una vez que el Consejo General tenga conocimiento de éstas, en un término de cinco días las hará del conocimiento del funcionario presuntamente infractor, para que en un término de cinco días manifieste lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes para desvirtuar la infracción que se le imputa.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 301.
+
+El Consejo General del Instituto, determinará lo conducente en sesión que celebre dentro de los treinta días posteriores a la notificación a que hace referencia el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 302.
+
+En caso de que la sanción que se imponga al funcionario electoral sea de las contempladas por los incisos a), b) o d) de la fracción V del artículo 290, la sanción se aplicará por conducto del superior jerárquico, quien deberá informar al Director General del Instituto de su cumplimiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 303.
+
+La Secretaría Ejecutiva del Consejo General recibirá las quejas a que se refiere el presente Capitulo.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+## TITULO QUINTO. DE LOS REGIMENES SANCIONADOR ELECTORAL Y DISCIPLINARIO INTERNO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO IV. Del Recurso de Apelación
+
+###### ARTICULO 304.
+
+Toda queja deberá ser presentada por escrito, con firma autógrafa del denunciante, señalando domicilio para oír y recibir notificaciones, en la que el promovente deberá acreditar su personería.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 305.
+
+El escrito en el que se presente la queja deberá contener la narración de los hechos que la motivan y aportar los elementos de prueba o indicios con los que cuente el denunciante.
+
+Las quejas deberán ser presentadas dentro de los tres años siguientes a la fecha en que se haya publicado en el Periódico Oficial de Gobierno del Estado, el Acuerdo del Consejo General relativo al dictamen de los estados financieros correspondientes al trimestre durante el que presuntamente se hayan suscitado los hechos que se denuncian.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 306.
+
+Una vez que el Secretario Ejecutivo reciba el escrito de queja, procederá a registrarlo y lo comunicará al Consejo General; (sic)
+
+El Secretario Ejecutivo podrá desechar la queja; de plano, en los siguientes casos:
+
+a) Si los hechos narrados resultan notoriamente frívolos o inverosímiles o si siendo ciertos carecen de sanción legal;
+
+b) Si la queja no cumple con los requisitos establecidos en los artículos 304 y 305 de la presente Ley;
+
+c) Si la queja no se hace acompañar de elemento probatorio alguno, aun con valor de indicio, que respalde los hechos que denuncia; o
+
+d) Si por cualquier otro motivo la queja resulta notoriamente improcedente.
+
+El desecha miento de una queja, con fundamento en lo establecido en el párrafo anterior, no prejuzga sobre el fondo del asunto y no constituye en obstáculo para que el Consejo General pueda ejercer sus atribuciones legales.
+
+En caso de que la queja cumpla con los requisitos formales y no se presente alguna causa de desechamiento, el Secretario Ejecutivo notificará al partido o asociación denunciada del inicio del procedimiento respectivo, corriéndole traslado con el escrito de queja y los elementos probatorios presentados por el denunciante.
+
+El Secretario Ejecutivo, a fin de allegarse de los elementos de convicción que estime pertinentes, podrá solicitar a los órganos del Instituto que lleven a cabo las diligencias probatorias o recaben las pruebas necesarias.
+
+Con la misma finalidad, el Secretario Ejecutivo solicitará a las autoridades competentes entreguen las pruebas que obren en su poder o para que le permitan obtener la información que se encuentre reservada o protegida por el secreto fiscal, bancario o fiduciario. En este último caso, deberá establecer medidas para el resguardo de la información que le sea entregada. Las autoridades están obligadas a responder tales requerimientos en un plazo máximo de quince días naturales, mismo que, por causa justificada, podrá ampliarse cinco días más.
+
+El Secretario Ejecutivo también podrá requerir a los particulares, personas físicas y morales, le proporcionen la información y documentos necesarios para la investigación; los requeridos deberán responder en los plazos señalados en el artículo anterior.
+
+El Secretario Ejecutivo podrá solicitar informe detallado al partido o asociación denunciada, respecto de los hechos imputados y requerirles la entrega de la información y la documentación que juzgue necesaria.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 307.
+
+Una vez realizados los actos a que se refiere el artículo anterior, el Secretario Ejecutivo emplazará al partido o asociación denunciada, corriéndole traslado con todos los elementos que integren el expediente respectivo, para que, en un término de cinco días contados a partir de la fecha en que surta efecto la notificación, produzca su contestación por escrito.
+
+En el escrito de contestación, el partido o asociación denunciada podrá exponer lo que a su derecho convenga; se referirá a los hechos mencionados en la denuncia o queja y ofrecerá y exhibirá pruebas, debiendo relacionarlas con los hechos, presentando los alegatos que estime procedentes.
+
+El Secretario Ejecutivo deberá informar al Consejo General del estado que guarden los procedimientos en trámite.
+
+El Consejo General emitirá la resolución correspondiente en un término no mayor a sesenta días naturales, contados a partir de la recepción de la queja o denuncia por parte de la Secretaría Ejecutiva, con excepción de aquellos asuntos en que por la naturaleza de las pruebas ofrecidas o de las investigaciones que se realicen, se justifique la ampliación del plazo indicado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 308.
+
+El Consejo General, en la resolución respectiva, impondrá, en su caso, las sanciones correspondientes.
+
+Para fijar la sanción se tomarán en cuenta las circunstancias y la gravedad de la falta, conforme a lo siguiente:
+
+a) Se entenderá por circunstancias el tiempo, modo y lugar en el que se produjo la falta; y
+
+b) Para determinar la gravedad de la falta se analizará la importancia de la norma transgredida y los efectos que genere respecto de los objetivos y los bienes jurídicos tutelados por la norma.
+
+En caso de reincidencia, se aplicará una sanción más severa.
+
+Si durante la substanciación de alguna queja se advierte la violación a ordenamientos legales ajenos a la competencia del Instituto, la Secretaría Ejecutiva procederá a dar parte a las autoridades competentes.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 309.
+
+Los partidos políticos, conforme a sus Estatutos, deberán establecer el órgano interno responsable de la organización de los procesos de selección de sus candidatos y, en su caso, de las precampañas.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 310.
+
+Los precandidatos podrán impugnar, ante el órgano interno competente, los reglamentos y convocatorias, la integración de los órganos responsables de conducir los procesos internos, los acuerdos y resoluciones que adopten y, en general, los actos que realicen los órganos directivos o sus integrantes, cuando de los mismos se desprenda la violación de las normas que rijan los procesos de selección de candidatos a cargos de elección popular. Cada partido emitirá un reglamento interno en el que se normarán los procedimientos y plazos para la resolución de tales controversias.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 311.
+
+Los medios de impugnación internos que se interpongan con motivo de los resultados de los procesos de selección interna de candidatos a cargos de elección popular, deberán quedar resueltos en definitiva a más tardar cuatro días naturales después de la fecha de realización de la consulta mediante voto directo o de la asamblea en que se haya adoptado la decisión sobre candidaturas.
+
+La omisión a lo dispuesto por el presente artículo, podrá recurrirse ante la sala competente del Tribunal Electoral del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 312.
+
+Los medios de impugnación que presenten los precandidatos debidamente registrados, en contra de los resultados de elecciones internas o de la asamblea en que se hayan adoptado decisiones sobre candidaturas, se presentarán ante el órgano interno competente, a más tardar dentro de los dos días naturales siguientes a la emisión del resultado o a la conclusión de la asamblea.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 313.
+
+Solamente los precandidatos debidamente registrados por el partido de que se trate, podrán impugnar el resultado del proceso de selección de candidatos en que hayan participado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 314.
+
+Es competencia directa de cada partido político, a través del órgano establecido por sus Estatutos o por el reglamento o convocatoria correspondiente, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a esta Ley o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus Estatutos o en los reglamentos y convocatorias respectivas. Las decisiones que adopten los órganos competentes de cada partido podrán ser recurridas por los aspirantes o precandidatos mediante recurso de apelación que resolverá la Sala Electoral del Tribunal Superior de Justicia del Estado, una vez que se hayan agotado los procedimientos internos de justicia partidaria.
+
+Para estos efectos, el Partido Político fungirá como órgano responsable, de conformidad con lo dispuesto en los artículos 268 al 271 de esta Ley.
+
+(REUBICADO [N. DE E. ANTES TITULO SEXTO], P.O. 11 DE ABRIL DE 2008)
+
+### CAPITULO I. De las faltas electorales, los sujetos y las sanciones
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO II. De la acumulación
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO III. Del procedimiento ordinario
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO IV. Del procedimiento especial
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO V. Del procedimiento de los funcionarios electorales
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+## TITULO SEXTO. DE LOS MEDIOS DE IMPUGNACION INTERNOS DE LOS PARTIDOS POLITICOS EN PRECAMPAÑA
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO VI. Del procedimiento en materia de quejas sobre financiamiento y gasto de los partidos políticos y asociaciones políticas
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+## TITULO SEPTIMO. EQUIDAD DE GENERO
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 315.
+
+Si por exigencias de construcción gramatical, enumeración, orden u otra circunstancia, el texto legal contenido en esta Ley usa el género masculino o femenino, el mismo deberá ser interpretado en sentido igualitario para hombres y mujeres, de modo que éstas y aquellos puedan adquirir toda clase de derechos y contraer igualmente toda clase de deberes jurídicos.
 
 T R A N S I T O R I O S
 
@@ -4434,22 +5016,6 @@ SECRETARIO DE GOBIERNO.
 P.O. 10 DE DICIEMBRE DE 1999.
 
 DECRETO QUE REFORMA Y ADICIONA EL ARTICULO 10 DE LA LEY ELECTORAL DEL ESTADO.
-
-## TITULO QUINTO. DEL PROCEDIMIENTO DE APLICACION DE SANCIONES
-
-### CAPITULO IV. Del Recurso de Apelación
-
-### CAPITULO I. Generalidades
-
-### CAPITULO II. Del Procedimiento de Aplicación de Sanciones
-
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-## TÍTULO SEXTO. EQUIDAD DE GÉNERO
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO 260.
 
@@ -4588,3 +5154,9 @@ Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legi
 Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscalizadas, hasta su total conclusión.
 
 Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
+
+P.O. 11 DE ABRIL DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
