@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-legislativo-del-estado-de-yucatan-10847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-24"
-last_updated: "2007-07-10"
+last_updated: "2008-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE ABRIL DE 2008.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de febrero de 1988.
 
@@ -475,7 +475,9 @@ Los integrantes de la Gran Comisión serán electos en la primera sesión, en vo
 
 La Gran Comisión tendrá las siguientes facultades y obligaciones:
 
-I.- Proponer al Congreso por medio de su Presidente, la designación y remoción del Contador Mayor de Hacienda, del Oficial Mayor y del Tesorero;
+> <small>(REFORMADA, D.O. 11 DE ABRIL DE 2008)</small>
+
+I.- Proponer al Congreso por medio de su Presidente, la designación y remoción del Contador Mayor de Hacienda, Oficial Mayor, Tesorero y Director del Instituto de Investigaciones Legislativas;
 
 II.- Proponer a los integrantes de las Comisiones, así como su remoción por causas graves;
 
@@ -491,7 +493,9 @@ VII.- Cooperar con la Mesa Directiva en la conducción de los asuntos para el de
 
 VIII.- Proponer al Congreso el Programa Legislativo, jerarquizando las iniciativas de Leyes, Decretos y Acuerdos, tomando las providencias necesarias para asegurar el estudio, análisis y debate de las mismas;
 
-IX.- Vigilar las funciones de la Oficialía Mayor y Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, D.O. 11 DE ABRIL DE 2008)</small>
+
+IX.- Vigilar el cumplimiento de las funciones de la Oficialía Mayor, Contaduría Mayor de Hacienda y del Instituto de Investigaciones Legislativas;
 
 X.- Proveer a través de la Oficialía Mayor lo necesario para el trabajo de las Comisiones;
 
@@ -676,6 +680,32 @@ Si por motivo de su competencia debiera turnarse un asunto a dos o más Comision
 ###### ARTICULO 67.
 
 Los Diputados podrán formar parte simultáneamente de dos o más comisiones, y participar en las demás sin derecho a voto.
+
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2008)</small>
+
+ARTICULO 67 BIS.- Las Comisiones Permanentes y Especiales contarán con Secretarios Técnicos, quienes serán nombrados a propuesta y coordinados por el Presidente de cada Comisión y dependerán administrativamente de la Oficialía Mayor del H. Congreso del Estado, en el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2008)</small>
+
+ARTICULO 67 TER.- Los Secretarios Técnicos, tendrán las siguientes funciones:
+
+I.- Auxiliar a la Comisión Permanente o Especial del Congreso, a la cual estén asignados;
+
+II.- Llevar el seguimiento y control de los asuntos de las comisiones, integrar los expedientes y mantener actualizado el archivo de estas;
+
+III.-Coadyuvar en el análisis y estudio de proyectos de dictamen y demás disposiciones que se les solicite;
+
+IV.- Elaborar la documentación de apoyo para las sesiones de las comisiones;
+
+V.- Asesorar técnica y jurídicamente al Presidente e integrantes de las comisiones;
+
+VI. Coadyuvar oportunamente en la elaboración de actas y acuerdos de las comisiones;
+
+VII. Informar oportunamente al Oficial Mayor los asuntos a presentar y tratar en las sesiones de las comisiones, así como de los acuerdos tomados y proyectos presentados en dichas comisiones;
+
+VIII.- Elaborar un informe de labores y pendientes de la Comisión, un mes antes de la conclusión de funciones de la Legislatura, y
+
+IX.- Las demás que le solicite la comisión respectiva, su presidente y el Oficial Mayor.
 
 ### CAPITULO IX. DE LA DIPUTACION PERMANENTE
 
@@ -1195,9 +1225,13 @@ El Congreso tendrá un órgano oficial denominado DIARIO DE LOS DEBATES que se p
 
 No se publicarán las discusiones y documentos relacionados con las sesiones secretas.
 
-## TITULO SEPTIMO
+> <small>(ADICIONADA SU DENOMINACION, D.O. 11 DE ABRIL DE 2008)</small>
 
-### CAPITULO UNICO. DE LA CONTADURIA MAYOR DE HACIENDA
+## TITULO SEPTIMO. DE LOS ORGANOS DEL CONGRESO
+
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], D.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO PRIMERO. DE LA CONTADURIA MAYOR DE HACIENDA
 
 ###### ARTICULO 158.
 
@@ -1207,11 +1241,67 @@ La Contaduría Mayor de Hacienda es la dependencia del Congreso que desempeña l
 
 La Contaduría Mayor de Hacienda se regirá por lo preceptuado en su Ley Orgánica.
 
-### CAPITULO UNICO. DE LA SUSTANCIACION DEL TRAMITE PARA SUSPENDER AYUNTAMIENTOS, DECLARAR SU DESAPARICION, O SUSPENDER O REVOCAR EL MANDATO DE ALGUNO DE SUS MIEMBROS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 11 DE ABRIL DE 2008)</small>
+
+### CAPITULO SEGUNDO. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2008)</small>
+
+ARTICULO 159 BIS.- El Instituto de Investigaciones Legislativas es el órgano técnico-académico del Congreso, para el apoyo y fortalecimiento del trabajo Legislativo, encargado de realizar investigaciones y difundir los temas relacionados con el estudio de la historia, funciones, actividad y prácticas parlamentarias del Poder Legislativo del Estado.
+
+El instituto estará a cargo de un director y contará con el personal que requiera para el desempeño de sus funciones de acuerdo al presupuesto asignado.
+
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2008)</small>
+
+ARTICULO 159 TER.- El Instituto de Investigaciones Legislativas tendrá las siguientes funciones:
+
+I.- Realizar de manera permanente estudios e investigaciones teóricas y de campo, en todos los ámbitos del derecho, que incidan en la normatividad vigente en el Estado, con el objeto de proponer la actualización de la Legislación estatal;
+
+II.- Promover la celebración de convenios de colaboración e intercambio con las instancias académicas y asociaciones de más alto nivel estatal, nacional e internacional para la actualización de las fuentes de información de los diputados y profesionistas vinculados a la tarea legislativa y para el cumplimiento de las funciones del Instituto;
+
+III.- Elaborar estudios, compilar y sistematizar la jurisprudencia emitida por los tribunales federales y tratados Internacionales, con objeto de determinar su aplicabilidad en el ámbito local y la adecuación necesaria de la normatividad estatal;
+
+IV.- Editar publicaciones que contribuyan a la divulgación de estudios y asuntos legislativos y promover entre la sociedad la cultura de la legalidad y el respeto a las leyes, a través de campañas de difusión;
+
+V.- Coadyuvar con los diputados, comisiones, órganos y demás servidores públicos del Congreso, en el perfeccionamiento de los instrumentos jurídicos, técnicos y legislativos que se elaboren en el mismo;
+
+VI.- Proponer la actualización permanente de la Biblioteca y mecanismos de clasificación de información del Archivo del Congreso;
+
+VII.- Recopilar, clasificar y sistematizar, a través de la creación de bases de datos, la documentación legislativa y bibliográfica relacionadas con la ciencia jurídica, a efecto de permitir su consulta;
+
+VIII.- Compilar y sistematizar la normatividad emitida por los municipios de la entidad y la del Poder Ejecutivo;
+
+IX.- Organizar y realizar seminarios, congresos, diplomados, foros, eventos, coloquios, conferencias, cursos de técnica legislativa y de derecho parlamentario, para mantener actualizados a los servidores públicos del Poder Legislativo;
+
+X.- Coordinarse con la Oficialía Mayor para la atención oportuna de las necesidades del Congreso y las Comisiones Permanentes y Especiales;
+
+XI.- Asesorar a los municipios en la formulación y expedición de disposiciones normativas, cuando lo soliciten;
+
+XII.- Observar la perspectiva de género en los estudios y recomendaciones que emita, y
+
+XIII.- Las demás que le solicite o acuerde la Gran Comisión, el Congreso o su Presidente.
+
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2008)</small>
+
+ARTICULO 159 QUATER.- Para ser Director del Instituto de Investigaciones Legislativas se requiere:
+
+I.- Ser mexicano por nacimiento y tener además la calidad de ciudadano yucateco en pleno ejercicio de sus derechos;
+
+II.- Tener más de treinta años de edad al día de su nombramiento;
+
+III.- No haber sido Gobernador del Estado, titular de dependencias o entidades del Poder Ejecutivo Estatal o Federal, Senador, Diputado Federal o Local, Magistrado, Presidente Municipal, dirigente de partido político alguno o Notario Público, a menos que se separe de sus funciones tres años antes de su nombramiento;
+
+IV.- No ser ministro de culto religioso alguno, salvo que se haya separado definitivamente cinco años antes del día del nombramiento;
+
+V.- No ser militar en servicio activo;
+
+VI.- Poseer al día del nombramiento, título profesional de Abogado o Licenciado en Derecho, con cédula profesional legalmente expedida, y además acreditar estudios completos de nivel maestría, cuando menos, y
+
+VII.- Gozar de buena reputación y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad y durante la extinción de esta, o estar procesado por delito grave, a partir del auto de formal prisión.
 
 ## TITULO OCTAVO
 
-### CAPITULO UNICO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
+### CAPITULO UNICO. DE LA SUSTANCIACION DEL TRAMITE PARA SUSPENDER AYUNTAMIENTOS, DECLARAR SU DESAPARICION, O SUSPENDER O REVOCAR EL MANDATO DE ALGUNO DE SUS MIEMBROS
 
 ###### ARTICULO 160.
 
@@ -1238,6 +1328,8 @@ III.- Concluido el término de ofrecimiento y desahogo de pruebas y, celebrada l
 La Legislatura, por acuerdo de la mayoría de las dos terceras partes de sus integrantes, cuando menos, dictará la resolución correspondiente, siguiéndose en lo conducente, las disposiciones a la discusión de dictámenes.
 
 ## TITULO NOVENO
+
+### CAPITULO UNICO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 164.
 
@@ -1338,3 +1430,17 @@ Este Decreto entrará en vigor el día de su publicación en el Diario Oficial d
 ###### ARTÍCULO SEGUNDO.
 
 Los diputados integrantes de las Comisiones Permanentes de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales y la de Trabajo, Asistencia y Seguridad Social y Peticiones de la LVIII Legislatura; serán los mismos que integren las Comisiones de Puntos Constitucionales, Gobernación y Asuntos Electorales y los de Trabajo, Asistencia y Seguridad Social, respectivamente.
+
+D.O. 11 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso deberá designar al Director del Instituto de Investigaciones Legislativas a mas tardar el 15 de junio del año 2008, previa entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El reglamento del Instituto, deberá emitirse a más tardar dentro de los 60 días posteriores al nombramiento del Director, en el que se preverá la estructura orgánica del mismo.
