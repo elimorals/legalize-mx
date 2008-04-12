@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-para-adolescentes-del-estado-de-oaxaca-52027"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2007-03-10"
+last_updated: "2008-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -57,11 +57,13 @@ Se entiende por adolescente toda persona mayor de doce y menor de dieciocho año
 
 No se procederá en los términos previstos por esta ley contra aquellos adolescentes a quienes se impute las siguientes conductas previstas en el Código Penal para el Estado de Oaxaca:
 
-I. Por lo que hace a los sujetos comprendidos en el artículo 5 de esta ley las señaladas en los artículos 160, 162, 174, 194, 200, fracción II, última parte, 202, 203, 204, 264, 326, 330, 332, 338;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+I. Por lo que hace a los sujetos comprendidos en el artículo 5 de esta ley las señaladas en los artículos 160, 174, 203, 204, 264, 326, 330, 332 y 338;
 
 II. Por lo que hace a los sujetos comprendidos en la fracción I del artículo 5 de esta ley, las señaladas en los artículos 317 y 390, fracción I.
 
-Para el caso del delito de estupro previsto en el artículo 243 del Código Penal para el estado de Oaxaca, no será considerado engaño la promesa de matrimonio formulada por el sujeto activo. En el caso de violación equiparada, en el supuesto previsto por el artículo 247, primera parte del primer párrafo, del Código Penal para el Estado de Oaxaca, sólo se procederá contra el adolescente cuando medie una diferencia de dos años de edad entre los sujetos activo y pasivo del delito.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE ABRIL DE 2008)</small>
 
 Aunque las leyes penales dispongan presunciones de culpabilidad no serán consideradas en la aplicación de esta ley.
 
@@ -383,11 +385,13 @@ Definición
 
 Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el adolescente que lleva como resultado a la solución del conflicto mediante cualquier mecanismo idóneo, como la conciliación o la mediación, entre otros.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 42.
 
 Procedencia
 
-Con excepción de los delitos previstos en los incisos a), c), d), e) y f) de la fracción I y b), c), d), g), h) y j) de la fracción II del artículo 93 de esta ley (Privación de la libertad en un centro especializado), en los demás casos procederá el acuerdo reparatorio entre la víctima u ofendido y el adolescente hasta antes de dictarse el auto de apertura a juicio.
+Con excepción de los delitos previstos en los incisos a), c), d), e) f) y g) de la fracción I y b), c), d), g), h) y j) de la fracción II del artículo 93 de esta ley (privación de la libertad en un centro especializado), en los demás casos procederá el acuerdo reparatorio entre la víctima u ofendido y el adolescente hasta antes de dictarse el auto de apertura a juicio.
 
 ###### Artículo 43.
 
@@ -559,6 +563,10 @@ Supuesto material
 
 Sólo en los casos en los que el Ministerio Público solicite sujeción a proceso del adolescente con solicitud de aplicación de medida de coerción de detención provisional deberá acreditar el cuerpo del delito y la probable participación del adolescente en éste.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2008)</small>
+
+En los casos en que se trate de delitos que no estén sancionados con medida de internamiento y el Ministerio Público no solicite la detención provisional y sujeción a proceso, el Ministerio Público únicamente deberá acreditar con datos suficientes, la probable existencia de un hecho tipificado por la ley penal como delito y la probable participación del adolescente en su comisión. El Juez, al resolver en estos casos, sí considera acreditado tales elementos, sujetará al adolescente a investigación sobre los hechos que se le impute, con efectos de procesamiento.
+
 ###### Artículo 64.
 
 Detenido menor de doce años
@@ -623,13 +631,15 @@ El Juez correrá traslado por cinco días al adolescente y a su defensor, quiene
 
 El escrito de acusación deberá contener los mismos requisitos que el escrito de imputación inicial, así como señalar los medios de prueba que pretenda desahogar en la audiencia de juicio. El Juez correrá traslado por cinco días al acusador coadyuvante si lo hubiere, y por otros cinco al adolescente y a su defensor, quienes podrán en ese plazo ofrecer prueba para el juicio.
 
-Vencido este último plazo, el Juez citará a una audiencia que deberá celebrarse dentro de los tres días siguientes, en la cual decidirá sobre la admisibilidad de las pruebas que se desahogarán en el juicio. Antes de terminar la audiencia, el Juez dictará el auto de apertura a juicio.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 70.
 
 Audiencia intermedia
 
-Vencido el plazo señalado en el artículo anterior, el Juez citará a una audiencia que deberá celebrarse dentro de los tres días siguientes, en la cual decidirá sobre la admisibilidad de las pruebas que se desahogarán en el juicio. Antes de terminar la audiencia, el Juez dictará el auto de apertura a juicio.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
+Vencido el plazo señalado en el artículo anterior, el Juez citará a una audiencia que deberá celebrarse dentro de los quince días siguientes, en la cual decidirá sobre la admisibilidad de las pruebas que se desahogarán en el juicio. Antes de terminar la audiencia, el Juez dictará el auto de apertura a juicio, mismo que remitirá al Juez de juicio oral o debate competente, dentro de los cinco días siguientes.
 
 Estarán prohibidos los acuerdos probatorios en materia de adolescentes.
 
@@ -773,6 +783,12 @@ c) La privación de libertad en régimen semiabierto;
 
 d) La privación de libertad en centros especializados de internamiento.
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+IV. Pago de la reparación del daño.
+
+En toda sentencia de condena, el Juez o Tribunal se pronunciará respecto a la reparación del daño, sin que esta medida condicione la aplicación en beneficio del adolescente, de cualquier otra disposición prevista en este artículo.
+
 ###### Artículo 83.
 
 Deberes de la comunidad y de las instituciones públicas en la ejecución de las sanciones
@@ -833,7 +849,7 @@ La restauración a la víctima excluye la indemnización civil por responsabilid
 
 ###### Artículo 88.
 
-Ordenes de orientación y supervisión
+Órdenes de orientación y supervisión
 
 > <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2007)</small>
 
@@ -895,7 +911,11 @@ d) Parricidio (artículo 306);
 
 e) Robo calificado (artículo 349, cuando se realice en las circunstancias señaladas en los artículos 359, en el supuesto de violencia física contra las personas, en relación con el primer párrafo del artículo 360) y;
 
-f) Secuestro y tráfico de menores (artículos 348, 348 bis A, con excepción de la fracción IV, así como el 348 bis C).
+f) Secuestro y tráfico de menores (artículos 348, 348 bis A, con excepción de la fracción IV, así como el 348 bis C);
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2008)</small>
+
+g) Violación equiparada (artículo 247).
 
 En estos casos la privación de libertad no podrá exceder los cuatro años.
 
@@ -909,7 +929,7 @@ c) Pornografía infantil (artículo 195 bis);
 
 d) Lenocinio de menores (artículo 200);
 
-e) Violación (artículo 247);
+e) (DEROGADO, P.O. 12 DE ABRIL DE 2008)
 
 f) Asalto (artículo 270);
 
@@ -1043,7 +1063,7 @@ Evaluación periódica del programa individualizado de ejecución
 
 El programa individual de ejecución debe ser evaluado mensualmente por parte del órgano competente.
 
-Este deberá informar al juez de ejecución trimestralmente sobre los avances u obstáculos para el cumplimiento del programa individual de ejecución así como el ambiente familiar y social en que el adolescente se desarrolla.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 12 DE ABRIL DE 2008)</small>
 
 En caso de ser necesario, el juez podrá ordenar a los organismos públicos el cumplimiento de los programas establecidos en el programa individualizado de ejecución.
 
@@ -1069,15 +1089,21 @@ El juez a cargo del control de la ejecución de las medidas sancionadoras tendr�
 
 I. Controlar que la ejecución de toda medida sancionadora sea de conformidad con la sentencia definitiva que la impuso, garantizando la legalidad y demás derechos y garantías que asisten al adolescente durante la ejecución de la medida;
 
-II. Revisar las medidas sancionadoras a solicitud de parte, o de oficio, por lo menos una vez por mes, para cesarlas, modificarlas o sustituirlas por otras menos graves, cuando no cumplan con los objetivos para los que fueron impuestas o por ser contrarias al proceso de reinserción social del adolescente;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+II. Revisar las medidas sancionadoras a solicitud de parte, o de oficio, por lo menos una vez cada tres meses, para cesarlas, modificarlas o sustituirlas por otras menos graves, cuando no cumplan con los objetivos para los que fueron impuestas o por ser contrarias al proceso de reinserción social del adolescente;
 
 III. Controlar el otorgamiento o denegación de cualquier beneficio relacionado con las medidas impuestas en la sentencia definitiva;
 
 IV. Ordenar la cesación de la medida sancionadora una vez transcurrido el plazo fijado por la sentencia;
 
-V. Atender las solicitudes que hagan los adolescentes, dar curso a sus quejas cuando así lo amerite la situación y resolver lo que corresponda;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
 
-VI. Visitar los centros especializados de internamiento, por lo menos una vez al mes; y
+V. Atender las solicitudes que hagan los adolescentes sancionados cuando así lo amerite la situación y resolver lo que corresponda; así como resolver el recurso de inconformidad en los términos en los que señala la ley;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+VI. Visitar los centros especializados de internamiento, por lo menos dos veces al mes; y
 
 VII. Las demás atribuciones que éste y otros Códigos y leyes le asignen.
 
@@ -1363,7 +1389,9 @@ III. Controlar el otorgamiento o denegación de cualquier beneficio relacionado 
 
 IV. Ordenar la cesación de la medida sancionadora una vez transcurrido el plazo fijado por la sentencia;
 
-V. Atender las solicitudes que hagan los adolescentes sancionados cuando así lo amerite la situación y resolver lo que corresponda; así como resolver el recurso de reclamación en los términos en los que lo señala la ley;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+V. Atender las solicitudes que hagan los adolescentes sancionados cuando así lo amerite la situación y resolver lo que corresponda; así como resolver el recurso de inconformidad en los términos en los que lo señala la ley;
 
 VI. Visitar los centros de internamiento por lo menos dos veces al mes; y,
 
@@ -1524,5 +1552,9 @@ LIC. HELIODORO CARLOS DÍAZ ESCARRAGA.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE ABRIL DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
