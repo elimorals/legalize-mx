@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-operacion-del-sistema-estatal-de-ahorro-1394
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-01-23"
-last_updated: "1997-01-23"
+last_updated: "2008-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA OPERACION DEL SISTEMA ESTATAL DE AHORRO PARA EL RETIRO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO, SEDAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 23 de enero de 1997.
 
@@ -80,25 +80,45 @@ Por su parte la fiduciaria, tendrá la responsabilidad de individualizar todas y
 
 Los enteros que realicen los fideicomitentes para su abono en las cuentas de que se trata, podrá recibirlos la institución fiduciaria a través de ventanilla o equipos y sistemas automatizados, utilizando comprobantes con las características que para el efecto establezcan de común acuerdo el Comité Técnico y la fiduciaria.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 7°.
 
-El pago de las aportaciones será por bimestres vencidos, y deberán efectuarse a más tardar los días quince de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año. Cuando no se entreguen las aportaciones dentro del plazo señalado, los fideicomitentes cubrirán a partir de la fecha en que se hiciesen exigibles la actualización y los recargos en los términos que dispone el Código Fiscal del Estado de Jalisco. Lo anterior, sin perjuicio de las sanciones administrativas o de cualquiera otra índole que en su caso corresponda aplicar en contra de los fideicomitentes que resulten responsables de tal omisión.
+El pago de las aportaciones será por quincenas vencidas y deberá efectuarse a más tardar el tercer día hábil bancario siguiente al vencimiento de la quincena por la cual se hace la aportación respectiva. Cuando las aportaciones no sean entregadas a la fiduciaria dentro del plazo señalado, las mismas deberán ser actualizadas y causarán recargos a cargo de los fideicomitentes omisos, a partir de la fecha en que se hiciesen exigibles y hasta que sean efectivamente pagadas, aplicando para tales efectos las formulas que el Código Fiscal y la Ley de Ingresos del Estado de Jalisco establecen para el cálculo de la actualización y los recargos por falta de pago oportuno de los créditos fiscales.
+
+Lo anterior, sin perjuicio de las sanciones administrativas o de cualquiera otra índole que, en su caso, corresponda aplicar a los servidores públicos que resulten responsables de tal emisión, para lo cual la Dirección de Pensiones del Estado deberá dar aviso de la omisión a los órganos de control encargados de sancionar las responsabilidades administrativas de los servidores públicos de que se trate.
 
 La información referida deberá presentarse de acuerdo al formulario SEDAR-02.
 
-###### Artículo 8°.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-Las aportaciones a que se refiere este Capítulo, serán por el importe equivalente al 2% del salario base de los servidores públicos, y serán entregadas a la institución fiduciaria para su abono en las cuentas individuales correspondientes en forma bimestral.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2008)</small>
 
-Se establece como límite superior del salario base, el equivalente a 25 veces el salario mínimo general vigente en la zona metropolitana de Guadalajara.
+###### Artículo 8.
+
+Las aportaciones a que se refiere este Capítulo, serán por el importe equivalente al 2% de las mismas percepciones salariales que constituyen la base de cotización conforme a la Ley de Pensiones del Estado de Jalisco y sus reglamentos, y serán entregadas a la institución fiduciaria para su abono en las cuentas individuales correspondientes en forma quincenal.
+
+Se establece como límite superior de la base de aportación individual, el equivalente a 25 veces el salario mínimo general vigente en la zona metropolitana de Guadalajara.
 
 ###### Artículo 9°.
 
 Los fideicomitentes, al cubrir las aportaciones relativas al SEDAR, deberán proporcionar a la fiduciaria el importe total de las aportaciones que realizan, así como un desglose de las mismas por cada servidor público.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2008)</small>
+
+Asimismo, deberán entregar dicho desglose a la Dirección de Pensiones del Estado para los efectos del artículo 4° del presente reglamento y ésta conciliará la información con la que tenga en sus propios archivos a fin de verificar la exactitud de las aportaciones y de la base de aportación individual e informará cualquier inexactitud o inconsistencia detectada a la fiduciaria y al fideicomitente de que se trate, para que se tomen las medidas conducentes a su corrección.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 10.
 
-En caso de terminación de la relación laboral del servidor público con la entidad pública que corresponda, ésta deberá entregar a la fiduciaria en la fecha en que se deba efectuar el pago de las cuotas relativas al último bimestre transcurrido, la aportación correspondiente al servidor público por dicho periodo, o en su caso, la parte proporcional a la que tenga derecho.
+En caso de terminación de la relación laboral del servidor público con la entidad pública que corresponda, ésta deberá entregar a la fiduciaria en la fecha en que se deba efectuar el pago de las cuotas relativas a la última quincena transcurrida, la aportación correspondiente al servidor público por dicho periodo o, en su caso, la parte proporcional a la que tenga derecho.
 
 ### CAPÍTULO III. De la individualización de las cuentas del SEDAR
 
@@ -106,73 +126,135 @@ En caso de terminación de la relación laboral del servidor público con la ent
 
 Con el propósito de que cada servidor público se beneficie en su oportunidad con el monto acumulado en su cuenta del SEDAR, así como de que pueda observar tanto las utilidades ganadas, como las comisiones cobradas y los retiros efectuados, la institución fiduciaria deberá llevar cuentas individuales por cada portante.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2008)</small>
+
+Cada cuenta individual estará integrada por las siguientes subcuentas:
+
+I. Subcuenta de aportaciones obligatorias, en la cual se llevarán las aportaciones realizadas conforme al artículo 8° del presente reglamento.
+
+II. Subcuenta de aportaciones adicionales en la cual se llevarán las aportaciones realizadas voluntariamente por los cuentahabientes o por los fideicomitentes, conforme al artículo 16 fracción I del presente reglamento.
+
+III. Subcuenta de aportaciones complementarias de retiro, en la cual se llevarán las aportaciones realizadas voluntariamente por lo (sic) cuentahabiente o por los fideicomitentes, conforme al artículo 16 fracción II del presente reglamento.
+
 ###### Artículo 12.
 
 A fin de que la institución fiduciaria pueda individualizar las cuentas, los fideicomitentes le deberán proporcionar la información recibida de cada servidor público; lo anterior conjuntamente con el formulario SEDAR-02, en las mismas fechas señaladas en el artículo 7° de este Reglamento. La referida información se presentará de acuerdo al sistema que para el efecto acuerden el Comité Técnico y la fiduciaria.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 13.
 
-Las solicitudes para la apertura de estas cuentas, deberán ser presentadas ante la institución fiduciaria por los fideicomitentes, con copia a la Dirección de Pensiones del Estado. Ambas entidades deberán mantener en sus cuentas individuales a cada servidor público como titular de su respectiva cuenta; para tal efecto, les fideicomitentes deberán proporcionar la información requerida en el formulario SEDAR-01.
+Las solicitudes para la apertura de estas cuentas deberán ser presentadas por los fideicomitentes ante la institución fiduciaria, por conducto de la Dirección de Pensiones del Estado, acompañando la información relativa al titular de cada cuenta y a sus beneficiarios designados; para tal efecto, los fideicomitentes deberán proporcionar la información requerida en el formulario SEDAR-01.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 14.
 
-Las cuentas individuales para su identificación deberán contener el Registro Federal de Contribuyentes de los servidores públicos, debiendo adicionar a lo anterior cuando exista, la clave de homonimia, y la clave o número individual de verificación que determine el Comité Técnico.
+Las cuentas individuales, para su identificación, deberán contener la Clave Única de Registro Poblacional (CURP) de sus respectivos titulares o cualquier otra referencia que el Comité Técnico determine.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 15.
 
-Para la apertura de las cuentas individuales, los fideicomitentes deberán recabar la información relativa al titular y a los beneficiarios designados, de lo cual dará copia tanto a la institución fiduciaria como a la Dirección de Pensiones del Estado. Lo anterior, de acuerdo al formulario SEDAR-01, en el cual podrán integrarse los términos de aceptación respectivos.
+La firma del servidor público plasmada en el formulario SEDAR-01, constituirá su aceptación expresa e incondicional de integrarse al SEDAR.
 
-La firma del Servidor Público plasmada en el citado formulario, constituirá su aceptación expresa e incondicional de integrarse al SEDAR.
+Independientemente de lo anterior, los servidores públicos de los fideicomitentes serán integrados en todos los beneficios de este ordenamiento.
 
-Los cambios de dependencia fideicomitente, así como las modificaciones respecto a los datos del titular de la cuenta o de sus beneficiarios, deberán reportarse a la institución fiduciaria y a la Dirección de Pensiones del Estado por medio del mismo formulario SEDAR-01.
+Las dependencias fideicomitentes deberán notificar a la Institución Fiduciaria, por conducto de la Dirección de Pensiones del Estado, las altas, bajas y demás notificaciones que se den con respecto a los datos del titular de la cuenta o de sus beneficiarios.
 
-### CAPÍTULO IV. De las aportaciones adicionales
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2008)</small>
+
+### CAPÍTULO IV. De las aportaciones voluntarias
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 16.
 
-Los servidores públicos tendrán en todo tiempo el derecho a hacer aportaciones adicionales voluntarias a su cuenta individual, mediante la entrega de efectivo o documentos aceptables para la institución fiduciaria.
+Los servidores públicos o las entidades fideicomitentes tendrán en todo tiempo el derecho de hacer voluntariamente aportaciones de dinero adicionales o complementarias de retiro conforme a lo siguiente:
+
+I. Las aportaciones adicionales son una forma de ahorro y disposición de corto plazo, por lo que el cuentahabiente podrá disponer de los recursos cuando así lo decida, de acuerdo con la periodicidad que para tal efecto establezca el Comité Técnico; y
+
+II. Las aportaciones complementarias de retiro son una forma de ahorro y disposición de largo plazo, por lo que el cuentahabiente solo podrá disponer de los recursos una vez que tenga derecho a recibir los beneficios de la subcuenta de aportaciones obligatorias conforme al presente Reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 17.
 
-La institución fiduciaria estará obligada a recibir aportaciones adicionales para el incremento de las cuentas a que se refiere el artículo anterior, así como a llevar una subcuenta para el control de los fondos y rendimientos de tales aportaciones.
+La institución fiduciaria estará obligada a recibir aportaciones voluntarias adicionales y complementarias de retiro en cualquiera de las formas y medios de pago autorizados por el artículo 6° del presente Reglamento; a expedir los comprobantes de pago correspondientes a individualizar y aplicar tales aportaciones a la subcuenta respectiva; a llevar el control de los fondos y rendimientos de las mismas, y a informar a la Dirección de Pensiones del Estado sobre dichas aportaciones, dentro de los tres días hábiles siguientes a la fecha de su recepción, para los fines a que se refiere el artículo 4° de este Reglamento.
 
-Los servidores públicos podrán efectuar directamente las aportaciones adicionales en las oficinas de la fiduciaria o en las sucursales bancarias de la institución, a través de recibos de depósito al fideicomiso, dentro de los horarios que para tal efecto se determine. La fiduciaria deberá estar obligada a informar a la Dirección de Pensiones del Estado sobre dichas aportaciones, para su integración en la cuenta individual del servidor público dentro de los tres días hábiles siguientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 18.
 
-Los servidores públicos que realicen aportaciones adicionales para abonarse a sus cuentas individuales del SEDAR, deberán acompañar la información relativa a dichas aportaciones de acuerdo al formulario SEDAR-05, y la institución fiduciaria que las reciba deberá entregar comprobantes de las mismas a quienes las efectúen, en el momento de su aportación.
+Los servidores públicos que realicen aportaciones adicionales o complementarias de retiro deberán acompañar la información relativa a dichas aportaciones y, la institución fiduciaria que las reciba, deberá entregar comprobantes de las mismas a quienes las efectúen en el momento de su aportación.
 
 ### CAPÍTULO V. De los comprobantes y estados de cuenta
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 19.
 
-El entero de las cuotas se acreditará mediante la entrega del comprobante expedido por la institución fiduciaria, mismo que los fideicomitentes habrán de entregar a cada uno de sus respectivos servidores públicos según las características que presenta el formulario SEDAR-03, el cual además será debidamente certificado por la fiduciaria.
+El entero de las cuotas se acreditará mediante la entrega del comprobante expedido por la institución fiduciaria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 20.
 
-La institución fiduciaria deberá proporcionar a los fideicomitentes los comprobantes individuales a nombre de cada servidor público dentro de un plazo de treinta días naturales, contando a partir de la fecha en que reciba las cuotas, y a su vez, los fideicomitentes estarán obligados a entregar a sus servidores públicos dichos comprobantes, junto con el último pago de sueldo de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año.
+(DEROGADO, P.O. 12 DE ABRIL DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 21.
 
-La institución fiduciaria, por lo menos cada dos bimestres, deberá enviar a los fideicomitentes los estados de la situación de la cuenta individual del SEDAR relativos a cada servidor público.
+La institución fiduciaria, por lo menos una vez al año, deberá enviar a los fideicomitentes los estados de la situación de la cuenta individual del SEDAR relativos a cada servidor público, y los fideicomitentes deberán entregarlos, a su vez, a los cuentahabientes respectivos, a más tardar durante la quincena siguiente a su recepción.
+
+Los mencionados estados de cuenta deberán contener, por lo menos, los cargos y abonos efectuados, además del rendimiento correspondiente a cada periodo de interés, en cantidad y porcentaje.
+
+Independientemente de lo anterior, los cuentahabientes podrán conocer en cualquier momento la información existente en la dirección electrónica de la Dirección de Pensiones del Estado o a través de los medios análogos que aquélla ofrezca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 22.
 
-En cualquier tiempo, el servidor público podrá solicitar a la institución fiduciaria su estado de cuenta con números al bimestre inmediato anterior a aquél en que lo solicite, debiéndose obligar la propia institución a entregarlo, a más tardar al tercer día hábil inmediato siguiente al de la solicitud. La institución podrá cobrar en este caso la comisión que al efecto se determine.
-
-El mencionado estado de cuenta deberá contener por lo menos los cargos y abonos efectuados, además del rendimiento correspondiente a cada periodo de interés, en cantidad y porcentaje.
+En cualquier tiempo, el servidor público podrá solicitar a la institución fiduciaria su estado de cuenta con las condiciones que se establezcan en el contrato.
 
 ### CAPÍTULO VI. De la inversión del fondo fideicomitido e intereses
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 23.
 
-Las aportaciones que reciba la institución fiduciaria deberán ser depositadas a más tardar el día hábil bancario inmediato siguiente al de su recepción, en las sociedades de inversión que el fideicomiso lleve. La propia fiduciaria, actuando de acuerdo con las políticas que determine el Comité Técnico, deberá invertir tales recursos en instrumentos de deuda, pagarés a plazo, u otros instrumentos análogos que se establezca.
+Las aportaciones que reciba la institución fiduciaria deberán ser depositadas e invertidas, a más tardar, el día hábil bancario inmediato siguiente al de su recepción, en las cuentas e instrumentos de inversión y en las instituciones financieras que el Comité Técnico determine, conforme a las políticas y lineamientos que al efecto establezca el propio Comité.
 
-El saldo de estos instrumentos, se ajustará el último día de cada mes, en una cantidad igual a la que resulte de aplicar al saldo promedio diario mensual, igual a la variación porcentual de los mencionados instrumentos de inversión del fideicomiso correspondiente al mes inmediato anterior al de ajuste.
+Los depósitos de que se trata devengarán rendimientos, mismos que se calcularán sobre saldos promedio diarios mensuales, ajustados en términos del párrafo siguiente y serán pagaderos el primer día del mes inmediato siguiente a aquel en que se devenguen, mediante su reinversión en las respectivas cuentas.
 
-Los depósitos de que se trata devengarán utilidades, mismas que se calcularán sobre saldos promedio diarios mensuales, ajustados en términos del párrafo siguiente y serán pagaderos el primer día del mes inmediato siguiente a aquél en que se devenguen, mediante su reinversión en las respectivas cuentas.
+La institución fiduciaria justipreciará las inversiones a su valor de mercado según los instrumentos que integren la cartera, aplicando la plusvalía respectiva a cada una de las cuentas individuales en forma proporcional al saldo promedio que éstos hubieren tenido durante el periodo evaluado.
 
-La institución fiduciaria justipreciará las inversiones a su valor de mercado según los instrumentos que integren la cartera, aplicando la plusvalía respectiva a cada una de las cuentas individuales en forma proporcional al saldo promedio que éstos hubieren tenido durante el periodo evaluado. Los rendimientos que genere la inversión de los depósitos del SEDAR, nunca podrán ser menores a los que determine la tasa de interés de los créditos a cargo del Gobierno Federal aplicable a los sistemas de ahorro para el retiro.
+Los rendimientos que generen la inversión de los depósitos del SEDAR nunca podrán ser menores a los que determine la tasa de interés de los créditos a cargo del Gobierno Federal aplicable a los sistemas de ahorro para el retiro.
 
 ###### Artículo 24.
 
@@ -182,11 +264,19 @@ Estos intereses se causarán a más tardar a partir del siguiente día hábil ba
 
 ### CAPÍTULO VII. De los beneficios del SEDAR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 25.
 
-El servidor público que adquiera el derecho a disfrutar una pensión por jubilación, edad avanzada, o invalidez total permanente, en los términos de la Ley de Pensiones del Estado, tendrá derecho a que la fiduciaria le haga entrega de los fondos de su cuenta individual, ya sea en una sola exhibición; depositándoselos en la entidad financiera que él mismo designe, a fin de adquirir una pensión mensual vitalicia; o bien, entregándoselos al propio servidor público a través de un plan de retiros programados de acuerdo a su esperanza de vida.
+El cuentahabiente que adquiera el derecho a disfrutar de una pensión por jubilación, edad avanzada o invalidez total permanente, en los términos de la Ley de Pensiones del Estado, tendrá derecho a que la fiduciaria le haga entrega de los fondos de sus subcuentas de aportaciones obligatorias y complementarias de retiro, ya sea depositándoselos, en una sola exhibición, en la entidad financiera que él mismo designe, a fin de adquirir una pensión mensual vitalicia; o bien entregándoselos al propio cuentahabiente, a través de un plan de retiros mensuales programados de acuerdo a su esperanza de vida.
 
-Sin embargo, quienes se encuentren en los supuestos del párrafo anterior y que cuenten con menos de 20 años de aportaciones al SEDAR, podrán optar por retirar en una sola exhibición el fondo acumulado en su cuenta individual, utilizando para este efecto el formulario SEDAR-04.
+Sin embargo, quienes se encuentren en los supuestos del párrafo anterior y que cuenten con menos de 20 años de aportaciones al SEDAR podrán optar por retirar directamente y en una sola exhibición el fondo acumulado en su cuenta individual, utilizando para este efecto el formulario SEDAR-04.
+
+Los recursos existentes en la subcuenta de aportaciones adicionales serán entregados de manera directa al cuentahabiente en una sola exhibición, a menos que el cuentahabiente elija y solicite disponer de ellos en la misma forma en que disponga de las otras dos subcuentas conforme a los párrafos anteriores.
+
+El cuentahabiente que disponga de los recursos de su cuenta individual mediante una pensión vitalicia o a través de un plan de retiros programados, conforme al presente artículo, tendrá derecho a continuar aportando voluntariamente a la subcuenta adicional y recibir los beneficios que de la misma se deriven, de conformidad con el presente Reglamento.
 
 ###### Artículo 26.
 
@@ -194,23 +284,35 @@ En el caso de que al servidor público se le declare inhabilitado física o ment
 
 En el caso de que la inhabilitación del servidor público ocurra de manera parcial permanente, éste tendrá el mismo derecho consignado en el párrafo anterior, salvo que el fideicomitente respectivo lo reubique en otra actividad remunerada apropiada a su nueva condición, en tal caso, el aportante continuará con sus derechos adquiridos en el SEDAR.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 27.
 
-El servidor público, cuando por razones de una nueva relación laboral deje de ser sujeto de aseguramiento obligatorio del fideicomitente respectivo y no se reubique en otra dependencia, podrá optar por retirar el saldo de su cuenta individual del SEDAR, siempre y cuando dicho saldo se abone en otra cuenta a su nombre en algún otro mecanismo de retiro, para lo cual deberá obtener el visto bueno del Comité Técnico; o bien, podrá continuar aportando voluntariamente a su cuenta del SEDAR bajo el formulario SEDAR-06.
+Cuando el cuentahabiente, por razones de terminación de la relación laboral, deje de ser sujeto de aseguramiento obligatorio del fideicomitente respectivo y no se reubique en otra dependencia, igualmente (sic) fideicomitente del SEDAR podrá optar por retirar el saldo de las subcuentas de aportaciones obligatorias y complementarias de retiro, de su cuenta individual del SEDAR, siempre y cuando dicho saldo se abone en otra cuenta a su nombre en algún otro mecanismo de retiro, de lo cual se informará al Comité Técnico; o bien, podrá continuar aportando voluntariamente a su cuenta del SEDAR para tener derecho a los beneficios que el presente Reglamento prevé, una vez cubiertos los supuestos y requisitos que el mismo establece.
 
-En caso de optar el servidor público por continuar aportando voluntariamente al SEDAR, también podrá seguir contribuyendo al fondo de pensiones dentro del Régimen Voluntario en la Dirección de Pensiones del Estado, en los términos de los artículos 74 y 75 de la ley del citado organismo.
+Con respecto al saldo de la subcuenta de aportaciones voluntarias adicionales, el cuentahabiente podrá disponer de ellos en la misma forma en que disponga de las subcuentas de aportaciones obligatorias y complementarias de retiro conforme al párrafo anterior, o bien solicitar que le sean entregados los saldos de manera directa y en una sola exhibición.
+
+El cuentahabiente solo podrá continuar aportando voluntariamente al SEDAR conforme al primer párrafo de este artículo, si a la vez, continua siendo afiliado de la Dirección de Pensiones del Estado, sea bajo el régimen voluntario o el obligatorio, conforme a la ley de la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 28.
 
-En los casos en que el servidor público termine por cualquier motivo su relación laboral con el fideicomitente y que cuente con menos de 20 salarios de aportaciones al SEDAR, sin tener derecho a disfrutar alguna pensión del régimen de Pensiones del Estado, podrá optar por:
+En el caso del artículo anterior, si el cuentahabiente que ha dejado de ser sujeto de aseguramiento obligatorio cuente con menos de veinte años de aportaciones al SEDAR sin tener derecho a disfrutar alguna pensión del régimen de Pensiones del Estado, podrá optar por:
 
-I. Apegarse a lo dispuesto en el artículo anterior.
+I Apegarse a los dispuesto por el artículo anterior;
 
-II. Retirar la totalidad del fondo de su cuenta individual al cumplir 65 años de edad, o (sic)
+II. Retirar la totalidad del fondo de su cuenta individual al cumplir 65 años de edad;
 
-III. En el caso de comprobar fehacientemente estar desempleado el cuentahabiente, o de no estar sujeto al régimen del Instituto Mexicano del Seguro Social (IMSS) y del Sistema de Ahorro para el Retiro (SAR), podrá retirar mientras subsista dicha situación el 20% del fondo de su cuenta individual al primer año; y sucesivamente la parte proporcional que corresponda al 25% del saldo al segundo año; al 33% del saldo al tercer año; al 50% del saldo al cuarto año; y la totalidad del saldo al quinto año, salvo que ocurran dentro de ese lapso los supuestos referidos en las fracciones I y II anteriores.
+III. Si el cuentahabiente que ha dejado de ser sujeto de aseguramiento obligatorio del SEDAR tampoco se encuentra afiliado bajo el régimen obligatorio de la Ley de Pensiones del Estado y no está sujeto al régimen del Instituto Mexicano del Seguro Social (IMSS), podrá retirar, mientras subsista dicha situación, el 20% del fondo de sus subcuentas de aportaciones obligatorias y complementarias de retiro al primer año; y sucesivamente la parte proporcional que corresponda al 25% del saldo al segundo año; al 33% del saldo al tercer año; al 50% del saldo al cuarto año; y la totalidad del saldo al quinto año, salvo que ocurran dentro de ese lapso los supuestos referidos en las fracciones I y II anteriores.
 
-IV. Si el cuentahabiente tiene menos de diez años de aportaciones al SEDAR, y un año de permanecer desempleado o de no estar sujeto al régimen del IMSS y del SAR federal, tendrá derecho a reclamar la totalidad del saldo de su cuenta individual.
+Con respecto al saldo de la subcuenta de aportaciones voluntarias adicionales, el cuentahabiente podrá disponer de ellos en la misma forma en que disponga de las subcuentas anteriores conforme a la presente fracción o bien solicitar que le sea entregado el saldo de manera directa y en una sola exhibición; o
+
+IV. Si el cuentahabiente tiene menos de diez años de aportaciones al SEDAR, y un año de no estar sujeto al régimen obligatorio de la Ley de Pensiones del Estado o al régimen del IMSS, tendrá derecho a reclamar la totalidad del saldo de su cuenta individual.
 
 ###### Artículo 29.
 
@@ -220,13 +322,59 @@ Cuando ocurra alguno de los supuestos previstos en el presente Capítulo, el ser
 
 Los servidores públicos que además de la cuenta individual del SEDAR, tengan una cuenta en el Sistema de Ahorro para el Retiro (SAR) al que se refiere la Ley del Seguro Social, o en otro sistema análogo, no podrán transpasar (sic) parte o la totalidad de los recursos de una cuenta a otra, salvo que hayan obtenido el derecho a retirar definitivamente los fondos de la, o las cuentas individuales que pretenda acumular.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 31.
 
-El servidor público tendrá derecho a solicitar la contratación de un seguro de vida con cargo a los recursos de su cuenta del SEDAR, en los términos que al efecto determine el Comité Técnico, pero en ningún caso y bajo ninguna circunstancia las instituciones de seguros podrán otorgar préstamos o créditos con cargo a dichos aseguramientos.
+La continuación voluntaria en el régimen del SEDAR conforme al artículo 27 de este reglamento, estará sujeta a las siguientes reglas:
+
+I. El cuentahabiente deberá solicitar por escrito la aprobación del Comité Técnico dentro del plazo de un año contado a partir de la fecha en que cause baja de la entidad fideicomitente;
+
+II. Una vez aprobado por el Comité Técnico, el cuentahabiente deberá efectuar, por lo menos, las aportaciones correspondientes a las subcuenta de aportaciones obligatorias de su cuenta del SEDAR pudiendo, además, aportar a las subcuentas de aportaciones voluntarias, adicional y complementaria de retiro, conforme a las disposiciones aplicables de este reglamento;
+
+III. El cuentahabiente deberá cubrir quincenalmente a la subcuenta de aportaciones obligatorias, la cuenta que le corresponda conforme al artículo 8° de este Reglamento y, en caso de mora, serán aplicables la actualización y recargos a que se refiere el artículo 7° de este mismo ordenamiento;
+
+IV. El derecho de continuar aportando voluntariamente se pierde por las siguientes causas:
+
+a). Por renuncia expresa;
+
+b). Por escrito del cuentahabiente;
+
+c). Por dejar de cubrir sus aportaciones a la subcuenta de aportaciones obligatorias por más de seis meses consecutivos;
+
+d). Por dejar de ser afiliado conforme al régimen de la Ley de Pensiones del Estado; o
+
+e). Porque el afiliado voluntario fuera incorporado al régimen obligatorio; y
+
+V. En general, a las aportaciones realizadas conforme al presente artículo, le serán aplicables, en cuanto resulten procedentes y compatibles, las disposiciones de este Reglamento relativas a las aportaciones efectuadas por los fideicomitentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 32.
 
-El derecho del servidor público, o en su caso de sus beneficiarios a recibir los beneficios del SEDAR, prescribe en favor del fondo fideicomitido, a los dos años de la fecha en que sea exigible, en tal caso, el Comité Técnico determinará la forma de aplicar los recursos obtenidos en beneficio del Sistema.
+La prescripción bajo el Sistema Estatal de Ahorro para el Retiro se regirá conforme a lo siguiente:
+
+I. Prescribe en un año el derecho a incorporarse al régimen voluntario conforme al artículo 31 de este Reglamento, contado a partir de la fecha de la baja en el régimen obligatorio;
+
+II. Prescribe en tres años el derecho a retirar los recursos de la cuenta por motivo de terminación de relación laboral a que se refiere el artículo 27 de este reglamento.
+
+Dicha cuenta podrá reactivarse si el interesado reingresa al servicio público y es incorporado al SEDAR;
+
+III. Prescribe en tres años el derecho a retirar los recursos de la cuenta por motivo de desempleo en términos del artículo 28 fracciones III y IV.
+
+Dicha cuenta podrá reactivarse si el interesado reingresa al servicio público y es incorporado al SEDAR;
+
+IV. Prescribe en tres años el derecho de los beneficiarios a retirar los recursos de la cuenta por causa de muerte del titular; y
+
+V. No prescribe para el titular de la cuenta el derecho a retirar los recursos de la misma por haber alcanzado los 65 años, o antes si se encontrase en un estado de invalidez parcial o con una incapacidad total permanente o haberse pensionado conforme a lo normado en los artículos 25, 26 y 28 fracción II del Reglamento.
+
+Los plazos para la prescripción comenzarán a contar a partir de la fecha en que los respectivos derechos sean exigibles.
+
+Solo en el caso de la fracción IV, el Comité Técnico podrá disponer de los recursos de la cuenta prescrita, aplicándolos a los gastos de operación del SEDAR.
 
 ### CAPÍTULO VIII. De la designación de beneficiarios
 
@@ -242,11 +390,17 @@ En caso del fallecimiento de un servidor público en activo, la institución fid
 
 De igual forma se procederá en los casos en los que fallezca un pensionado que se hubiere acogido a un plan de retiros programados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 35.
 
-A falta de los beneficiarios a que se refiere el párrafo anterior, la entrega del saldo se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo.
+A falta de los beneficiarios a que se refiere el artículo anterior, el saldo de la cuenta individual se entregará a los beneficiarios designados para los fines de la Ley de Pensiones del Estado y, a falta de éstos, a quien resulte con derecho a recibir la prestación establecida en el artículo 60 Bis de la Ley de Pensiones del Estado, si se trata del fallecimiento de un cuentahabiente en activo; o a quien resulte ser derechohabiente, conforme al artículo 57 de la Ley de Pensiones del Estado, si se trata del fallecimiento de un cuentahabiente pensionado.
 
-Para solicitar la entrega del saldo de la cuenta del servidor público, en cualquiera de los supuestos contemplados en este Reglamento, los beneficiarios deberán presentar solicitud por escrito al Comité Técnico del fideicomiso mediante el formulario SEDAR-04, en los términos que el propio Comité determine.
+Para solicitar la entrega del saldo de la cuenta individual conforme al presente artículo, en cualquiera de los supuestos contemplados en este Reglamento, quienes tengan derecho a ello, deberán presentar solicitud por escrito al Comité Técnico del fideicomiso mediante el formulario SEDAR-04, en los términos que el propio Comité determine.
+
+En los casos en que no exista persona alguna con derecho a recibir los recursos de una cuenta individual conforme al presente artículo, el Comité Técnico del fideicomiso dispondrá que dichos recursos sean aplicados a los gastos de operación del SEDAR.
 
 ### CAPÍTULO IX. De la comisión por manejo de fondos
 
@@ -314,7 +468,17 @@ IV. Los integrantes del Comité deberán mediante escrito dirigido al secretario
 
 V. El comité sesionará de manera ordinaria cuando menos una vez cada bimestre, y de manera extraordinaria cuando sea necesario, a juicio del presidente. Corresponderá al secretario hacer las convocatorias a todas las sesiones, pero en el caso de las extraordinarias, solo podrá hacerlo por orden escrita del presidente.
 
-VI. El comité tendrá su domicilio legal en el lugar que para tal efecto se designe por acuerdo de sus integrantes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+VI. Podrán asistir a las sesiones del Comité Técnico los asesores que se estimen convenientes, así como la fiduciaria, quienes tendrán voz pero no voto; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+VII. El Comité tendrá su domicilio legal en el lugar que para tal efecto se designe por acuerdo de sus integrantes.
 
 Artículo. 43. Los integrantes del comité no serán responsables ante terceros, autoridades o particulares, por su actuación en el ejercicio de sus funciones, a menos que hubiese negligencia, dolo o mala fe comprobados, responderán personalmente por su conducta ante las autoridades competentes en los términos de ley.
 
@@ -330,7 +494,11 @@ IV. Dictar instrucciones a la fiduciaria, sobre las inversiones del patrimonio f
 
 V. Instruir a la fiduciaria sobre la procedencia de los pagos que deban hacerse a los servidores públicos, o a sus beneficiarios, así como la forma de realizar o compensar los mismos.
 
-VI. Determinar la contratación de servicios técnicos y asesoría que considere necesarios para el correcto y exitoso funcionamiento del manejo de los fondos fideicomitidos, así como del propio SEDAR. Tendrá las más amplias facultades para ordenar a la fiduciaria el pago, los honorarios respectivos con cargo al patrimonio fideicomitido.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+VI. Determinar la contratación de servicios técnicos y asesoría, con sujeción a la normativa de gasto público, que considere necesarios para el correcto y exitoso funcionamiento del manejo de los fondos fideicomitidos, así como del propio SEDAR. Tendrá las más amplias facultades para ordenar la fiduciaria el pago de los honorarios respectivos con cargo al patrimonio fideicomitido.
 
 VII. Establecer el incremento de beneficios y sus montos.
 
@@ -340,7 +508,11 @@ IX. Aprobar, con fundamento en el presente Reglamento y en el contrato respectiv
 
 X. Actualizar cuando sea necesario los formularios, y verificar que se llenen los requisitos y se cumpla con los trámites tanto por parte de los fideicomitentes como de los servidores públicos o sus beneficiarios para el debido funcionamiento del SEDAR, así como para el ejercicio de sus derechos, en su caso.
 
-XI. Emitir su reglamento interno y modificarlo cuando sea necesario, para el buen funcionamiento del comité.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+XI. Emitir y modificar, cuando sea necesario, los Manuales y Políticas Internas para la organización y funcionamiento del Comité, así como a las operaciones y servicios propios del SEDAR.
 
 XII. Reconocer el carácter de los servidores públicos adheridos al SEDAR.
 
@@ -348,7 +520,11 @@ XIII. Designar e integrar las comisiones que estime convenientes para el mejor f
 
 XIV. Interpretar las presentes disposiciones, así como las que se contengan en el propio contrato de fideicomiso, en los casos que se requiera.
 
-XV. Proponer al titular del Poder Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, las reformas, adiciones y derogaciones al presente Reglamento, que se consideren necesarias para el correcto funcionamiento del SEDAR.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+XV. Proponer al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, las reformas, adiciones y derogaciones al presente Reglamento, así como las modificaciones al contrato de fideicomiso, que se consideren necesarias para el correcto funcionamiento del SEDAR.
 
 XVI. Las demás que como consecuencia de las funciones propias del comité y de la operación del SEDAR, de manera general resulten necesarias.
 
@@ -378,9 +554,15 @@ VI. Las demás que se desprenden del presente Reglamento; las que se contengan e
 
 La institución fiduciaria sólo atenderá las instrucciones que el Comité Técnico le señale por escrito, salvo aquellas que de manera expresa se le deriven directamente del contrato constitutivo del fideicomiso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
 ###### Artículo 48.
 
-La institución fiduciaria deberá formular y enviar al Comité técnico, a la Secretaría de Finanzas y a la Dirección de Pensiones del Estado, cuando menos cada dos bimestres, un informe detallado de la situación patrimonial y financiera del fideicomiso.
+La institución fiduciaria deberá formular y enviar al Comité Técnico, cuando menos cada mes, un informe detallado de la situación patrimonial y financiera del fideicomiso.
+
+Dicho informe deberá ser entregado dentro de los primeros diez días hábiles del mes siguiente al comprendido en el informe.
 
 ###### Artículo 49.
 
@@ -415,3 +597,15 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAÚL OCTAVIO ESPINOZA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE ABRIL DE 2008.
+
+PRIMERO. El presente Acuerdo entrará en vigor el 1 de mayo de 2008, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la publicación oficial del presente Acuerdo, el Comité Técnico del fideicomiso del SEDAR, llevará a cabo ante la institución fiduciaria las gestiones y acciones conducentes para consensuar las modificaciones que resulten necesarias realizar al contrato de fideicomiso actualmente en vigor, a fin de que las reformas contenidas en el presente Acuerdo puedan tener aplicación; y una vez hecho lo anterior, deberá remitir al Titular del Poder Ejecutivo, a través de la Secretaría General de Gobierno, la propuesta correspondiente.
+
+TERCERO. Las reformas contenidas en el presente Acuerdo no afectarán los derechos adquiridos ni las obligaciones derivadas de los actos y contratos celebrados antes de la entrada en vigor de este Acuerdo.
+
+CUARTO. Notifíquese el presente Acuerdo a las entidades que deban conocerlo, para que lleven a cabo todas las acciones de su competencia, con la finalidad de que surta todos sus efectos legales y administrativos.
