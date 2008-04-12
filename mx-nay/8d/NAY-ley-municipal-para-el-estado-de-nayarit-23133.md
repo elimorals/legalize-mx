@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2007-12-08"
+last_updated: "2008-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -2171,7 +2171,9 @@ b) Se establecerá para el cumplimiento de fines que beneficien al interés púb
 
 En lo relativo al arrendamiento de bienes inmuebles del patrimonio municipal, deberá considerarse que el bien objeto del arrendamiento no sea utilizado por el Ayuntamiento en el cumplimiento de sus fines y se garantice que la contraprestación pecuniaria se ajuste a los valores comerciales, así como que el arrendatario se responsabilice de su mantenimiento.
 
-Cuando el término estipulado en el contrato de arrendamiento exceda del periodo constitucional del Ayuntamiento que lo celebre, será necesario su ratificación por el Ayuntamiento entrante.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
+Cuando el término estipulado en el contrato de arrendamiento exceda del periodo constitucional del Ayuntamiento que lo celebre, será necesaria la aprobación de la mayoría calificada del Ayuntamiento.
 
 ### CAPÍTULO VI. De la concesión para la explotación, uso y aprovechamiento de bienes inmuebles del dominio público municipal
 
@@ -3136,3 +3138,9 @@ P.O. 28 DE OCTUBRE DE 2006.
 P.O. 8 DE DICIEMBRE DE 2007.
 
 Artículo Único: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 12 DE ABRIL DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
