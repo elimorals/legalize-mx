@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2004-07-24"
+last_updated: "2008-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1875,6 +1875,8 @@ XIV. Haber cometido uno de los cónyuges un delito que no sea político, pero qu
 
 XV. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE ABRIL DE 2008)</small>
+
 XVI. El mutuo consentimiento;
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
@@ -1887,9 +1889,13 @@ b). Cometidas por uno de los cónyuges hacia los hijos de ambos o de alguno de e
 
 c). Las permitidas hacia alguno de los cónyuges o hacia los hijos de ambos o de alguno de ellos.
 
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
 
-XVIII. El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a eliminar los actos de violencia intrafamiliar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
+XVIII. El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a eliminar los actos de violencia intrafamiliar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+XIX. La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
 
 ###### Artículo 280.
 
@@ -15730,3 +15736,7 @@ P.O. 24 DE JULIO DE 2004.
 PRIMERO.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado, del Reglamento Interior Reformado de la Dirección del Registro Civil. Publíquese el presente Decreto en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se concede al Titular del Poder Ejecutivo el plazo de ciento veinte días naturales para reformar el Reglamento Interior de la Dirección del Registro Civil, en el que deberá establecer los lineamientos legales y técnicos para otorgar plena certidumbre a los actos validados por la firma facsimilar digitalizada.
+
+P.O. 12 DE ABRIL DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
